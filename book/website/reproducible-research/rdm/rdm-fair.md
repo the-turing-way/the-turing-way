@@ -1,92 +1,58 @@
 (rr-rdm-fair)=
-# The FAIR principles and practices
+# The FAIR Principles
 
-The FAIR guiding principles for scientific data management and stewardship {% cite Wilkinson2016fair %} have been
-developed as guidelines to improve the findability, accessibility, interoperability and re-usability of digital assets;
-all of which will support research reproducibility. 
-Even though the FAIR principles have been defined to allow machines to automatically find and use digital objects, they improve the reusability of data by humans as well.
+The FAIR guiding principles for scientific data management and stewardship {cite}`Wilkinson2016fair` were developed as guidelines to improve the **F**indability, **A**ccessibility, **I**nteroperability and **R**eusability of digital assets; all of which support research reproducibility. 
+The FAIR principles play an important role in making your data available to others for reuse.
+
+It is much easier to make data FAIR if you plan to do this from the beginning of your research project.
+You can plan for this in your Data Management Plan (DMP) (see points 4 and 5 of the {ref}`Data Management Plan<rr-rdm-dmp>` chapter). 
+
+Even though the FAIR principles have been defined to allow machines to find and use digital objects automatically, they improve the reusability of data by humans as well.
 The capacity of computational systems to find, access, interoperate, and reuse data, with none or minimal human intervention, is essential in today's data-driven era, where humans increasingly rely on computational support to deal with data as a result of the increase in [volume, velocity and
 variety](https://www.zdnet.com/article/volume-velocity-and-variety-understanding-the-three-vs-of-big-data/).
 
+This chapter provides an abstract and broad view of what the FAIR principles are. How to put the FAIR principles into practise is discussed in other sub chapters ( {ref}`Data Organisation in Spreadsheets<rr-rdm-fair>`, {ref}`Documentation and Metadata<rr-rdm-metadata>` and {ref}`Sharing and Archiving Data<rr-rdm-sharing>`). You can also use the [Wellcome Getting Started Guide](https://f1000researchdata.s3.amazonaws.com/resources/FAIR_Open_GettingStarted.pdf) or the [How To FAIR](https://howtofair.dk/) website to find out more about the FAIR principles and how to get started. 
+
+```{figure} ../../figures/FAIRPrinciples.jpg
+---
+name: FAIRPrinciples
+alt: Illustration of the FAIR principles to show the definition of being Findable, Accessible, Interoperable and Reusable. 
+---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. 
+```
+
+(rr-rdm-fair-theory)=
 ## Theory
 
-Here is a [simple overview](https://www.go-fair.org/fair-principles) of what the FAIR principles recommend. In brief,
-data should be:
+In brief, FAIR data should be:
 
-**Findable:** the first step in (re)using data is to find them, and descriptive metadata is essential.
+**Findable:** The first step in (re)using data is to find them! 
+Descriptive metadata (information about the data such as keywords) are essential.
 
-- F1. (Meta)data are assigned a globally unique and persistent identifier
-- F2. Data are described with rich metadata (defined by R1 below)
-- F3. Metadata clearly and explicitly include the identifier of the data they describe
-- F4. (Meta)data are registered or indexed in a searchable resource
+**Accessible:** Once the user finds the data and software they need to know how to access it. 
+Data could be openly available but it is also possible that authentication and authorisation procedures are necessary.
 
-**Accessible:** to get data one needs to know if authentication and authorisation is necessary, or if data is open with
-no restrictions.
+**Interoperable:** Data needs to be integrated with other data and interoperate with applications or workflows.
 
-- A1. (Meta)data are retrievable by their identifier using a standardised communications protocol
-- A1.1 The protocol is open, free, and universally implementable
-- A1.2 The protocol allows for an authentication and authorisation procedure, where necessary
-- A2. Metadata are accessible, even when the data are no longer available
+**Reusable:** Data should be well-described so that they can be used, combined, and extended in different settings.
 
-**Interoperable:** data need to be integrated with other data and/or interoperate with applications or workflows.
+You can find a more detailed [overview of the FAIR principles by GO FAIR](https://www.go-fair.org/fair-principles) of what the FAIR principles recommend. 
+You can also read [A FAIRy tale](https://doi.org/10.5281/zenodo.2248200) for an understandable explanation of each principle.
 
-- I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
-- I2. (Meta)data use vocabularies that follow FAIR principles
-- I3. (Meta)data include qualified references to other (meta)data
+Making data 'FAIR' is not the same as making it 'open'.
+Accessible means that there is a procedure in place to access the data. 
+Data should be as open as possible, and as closed as necessary.
 
-**Reusable:** data should be well-described so that they can be used or replicated in different settings.
+It is also important to say that the FAIR principles are aspirational: they do not strictly define how to achieve a state of FAIRness, but rather describe a continuum of features, attributes, and behaviours that will move a digital resource closer to that goal.
 
-- R1. Meta(data) are richly described with a plurality of accurate and relevant attributes
-- R1.1. (Meta)data are released with a clear and accessible data usage license
-- R1.2. (Meta)data are associated with detailed provenance
-- R1.3. (Meta)data meet domain-relevant community standards
+The FAIR principles are also applied to software (see {cite}`Lamprecht2020FAIRsoftware`and {cite}`Hasselbring2020FAIRsoftware`). 
 
-It is important to stress that making data 'FAIR' is not the same as making it 'open' (as accessibility principle
-clearly explains). Data should be as open as possible, as closed as necessary.
 
-The FAIR principles refer to three types of entities: data (as any digital object), metadata (information about that
-digital object), and infrastructure (such as software, repositories). For instance, the findability principle F4 defines
-that both metadata and data are registered or indexed in a searchable resource (for example, a data repository).
-For example, the FAIR principles are also being applied to [software](https://dx.doi.org/10.3233/DS-190026), and projects, where the data and software are both FAIR the research, is more likely to be reproducible.
+(rr-rdm-fair-community)=
+## Community involvement
 
-It is much easier to make data FAIR if you plan to do this from the beginning of your research project.
-One way to do
-this is to create a Data Management Plan (DMP), in [DMPonline](https://dmponline.dcc.ac.uk/) or just as a text file, to help you think through how to manage your data.
-The DMP should include information on data creation (volume, formats/types and workflows), data use (where the raw or 'live' data is being stored), data publication and data archiving at the end of the project
-(long-term data storage, or what data is 'kept' at the end of a project).
-DMPs should also regularly be updated as the research project progresses or diverge from the initial design.
-
-## Tools and indicators
-
-Although started by a community operating in the life science, the FAIR principles have rapidly been adopted by
-publishers, funders, and pan-disciplinary infrastructure programmes and societies, in all disciplines.
-Many groups and
-organization are working to define guidance and tools to help researchers, as well as other stakeholders (like librarians, funders, publishers, and trainers) to make data FAIR and assess its FAIRness level.
-
-This rapid uptake and community involvement, however, has also caused some confusion and ambiguity on what FAIRness is
-and how we can measure it.
-It is important to say that the FAIR principles are aspirational, in that they do not
-strictly define how to achieve a state of FAIRness, but rather describe a continuum of features, attributes, and
-behaviours that will move a digital resource closer to that goal.
-
-Listing all efforts working in and around FAIRness is practically impossible, as this is a fast moving, disperse and
-diverse field.
-Nevertheless, if you are interested in following the discussion and/or participate in it, here are two
-global and international initiatives that act as umbrella organizations and reference points for many discipline
-specific efforts: [GOFAIR](https://www.go-fair.org) and the [Research Data Alliance (RDA)](https://www.rd-alliance.org).
-Under GOFAIR there are many [Implementation Networks (INs)](https://www.go-fair.org/implementation-networks) committed to implementing elements of the Internet of FAIR Data and Services within the three pillars: GO Build (Technology), GO Change (Culture) and GO Train (Training).
-Under the RDA there are several groups tackling different aspects relevant to the RDM life cycle, and among these one [group](https://www.rd-alliance.org/groups/fair-data-maturity-model-wg) is reviewing existing efforts,
-building on them to define a common set of common assessment criteria for the evaluation of FAIRness.
-
-## Metadata and identifiers - community standards
-
-Metadata (to describe and report the data) and unique persistent identifiers (to cite and reference data) are the two
-pillars of the FAIR principles.
-The use of community-defined standards for metadata and identified is vital for high-quality, reproducible research and for the integrative analysis and comparison of heterogeneous data from multiple sources, domains and disciplines.
-Although also in this areas there is a lot of work in progress, and especially metadata standards are disciplines specific, or specific to a given digital object, you need to know what these are and which one are relevant to your data type in order to mention them in your DMP and use them.
-
-You can use [FAIRsharing](https://fairsharing.org) as a lookup resource to identify and cite the metadata and/or
-identifier schemas, databases or repositories that exist for your data and discipline,
-for example, when creating a data management plan for a grant proposal or funded project;
-or when submitting a manuscript to a journal, to identify the recommended databases and repositories, as well as the standards they implement to ensure all relevant information about the data is collected at the source. FAIRsharing also operates under GO FAIR and the RDA,
-and is [widely adopted](https://fairsharing.org/communities) by publishers, funders, and other organizations; like any other FAIR-enabling resources, it will continue to evolve, better linking to DMP and FAIRness assessment tools, to better help you making data FAIR a reality.
+Although started by a community operating in the life science, the FAIR principles have rapidly been adopted by publishers, funders, and pan-disciplinary infrastructure programmes and societies.
+Many groups and organisation are working to define guidance and tools to help researchers and other stakeholders (like librarians, funders, publishers, and trainers) make data more FAIR.
+If you are interested in participating in these communities there are two global initiatives that act as umbrella organizations and reference points for many discipline-specific efforts: [GOFAIR](https://www.go-fair.org) and the [Research Data Alliance (RDA)](https://www.rd-alliance.org).
+* Under GOFAIR, there are many [Implementation Networks (INs)](https://www.go-fair.org/implementation-networks) committed to implementing the FAIR principles.
+* Under the RDA, there are several groups tackling different aspects relevant to the RDM life cycle. Among these, one [group](https://www.rd-alliance.org/groups/fair-data-maturity-model-wg) is reviewing existing efforts, building on them to define a standard set of common assessment criteria for the evaluation of FAIRness.

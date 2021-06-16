@@ -1,5 +1,5 @@
 (rr-ci-travis)=
-# Continuous integration with Travis
+# Continuous Integration with Travis
 
 ## Overview of Travis
 
@@ -20,24 +20,42 @@ Once Travis has been set up on a project then each time a commit is made it:
 
 Here's what the Travis dashboard of a repository looks like:
 
-![Travis_build](../../figures/Travis_build.png)
+```{figure} ../../figures/Travis_build.png
+---
+name: travis_build
+alt: A screenshot of what a Travis dashboard looks like when Travis has been set up on a project.
+---
+An example of a Travis dashboard.
+```
 
 Everything's green because the build is passing. Note the "build passing" badge at the top. If you click that you will get a popup with a dropdown menu where you can select a way of copying the badge. If you select "markdown" and copy and paste the code snippet it outputs into a markdown file in the project, then GitHub will display the badge in that file:
 
-![Travis_badge_pass](../../figures/Travis_badge_pass.png)
+```{figure} ../../figures/Travis_badge_pass.png
+---
+name: travis_badge_pass
+alt: Travis badge showing a passed build.
+---
+The Travis badge is used as an indicator when the all the tests have passed.
+```
 
 If I deliberately create a bug and commit it then Travis automatically runs, the tests fail, and this badge automatically updates to "build failing":
 
-![Travis_badge_fail](../../figures/Travis_badge_fail.png)
+```{figure} ../../figures/Travis_badge_fail.png
+---
+name: travis_badge_fail
+alt: Travis badge showing a failed build.
+---
+The Travis badge shows build error when any of the tests has failed.
+```
 
 You can use Travis to test your project in multiple computational environments my specifying them in the `.travis.yml` file. A quick note on Travis vocabulary:
 
 - Job - an automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code and running tests. A job fails if the return code of the script encounters an error.
 - Build - a group of jobs. For example, a build might have two *jobs*, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
 
-## Setting up continuous integration with Travis
+## Setting up Continuous Integration with Travis
 
-### Basic steps
+### Basic Steps
 
 - Write a `.travis.yml` file and add it to your project.
 - Upload your project to GitHub if you have not already.
@@ -49,11 +67,11 @@ You can use Travis to test your project in multiple computational environments m
 
 It's that simple. The rest of this section will describe the different components of the `.travis.yml` file and how to write them.
 
-### Setting up the computational environment
+### Setting up the Computational Environment
 
 This page on [common build problems](https://docs.travis-ci.com/user/common-build-problems/) is a good place to start troubleshooting if your build is broken.
 
-#### Operating system
+#### Operating System
 
 Travis CI works with a few different operating systems. In the `.travis.yml` file define the operating system to run a project on via the os keyword like:
 ```
@@ -79,7 +97,7 @@ os: linux
 dist: trusty
 ```
 
-#### Programming language
+#### Programming Language
 
 Specify the programming language to run your project with using the language keyword, and specify which version of the language to use. So for python2.7 this would look like:
 ```
@@ -130,7 +148,7 @@ script:
 
 See [here](https://docs.travis-ci.com/user/docker/) for more information on this.
 
-### The `.travis.yml` script
+### The `.travis.yml` Script
 
 Travis will report that the build has failed if any commands in the script section return an error. Technically any commands can be included in the script, but it is mainly used for running tests. A script does not need to be long or complicated, as demonstrated by this example which uses the pytest command to run tests in python scripts:
 ```
@@ -145,7 +163,7 @@ If there are steps that need to be done before a project to be considered to be 
 
 If for any reason this cannot be done an error will be returned and the build will be marked as having failed.
 
-### After success
+### After Success
 
 The after success section is much like the script section in that it contains commands to run on the project. The key difference if that the build will not fail if steps in the after success section return errors.
 
@@ -166,7 +184,7 @@ after_success:
   - coverage report
 ```
 
-### Testing a project against multiple versions of a programming language
+### Testing a Project against Multiple Versions of a Programming Language
 
 When a project is expected to be run on systems with different versions of a programming language you can set Travis to run the tests on each of these versions. For example to test on a variety of versions of python:
 ```
@@ -178,7 +196,7 @@ python:
   - "3.3"
 ```
 
-### Testing a project on multiple operating systems
+### Testing a Project on Multiple Operating Systems
 
 If your code is used on multiple operating systems it should be tested on multiple operating systems. To enable testing on multiple operating systems add multiple entries under the `os` key in your `.travis.yml` file, for example:
 ```
@@ -196,9 +214,9 @@ When Travis is running a job it sets the `TRAVIS_OS_NAME` variable which describ
 
 It is possible to go further and construct a [build matrix](https://docs.travis-ci.com/user/build-matrix/) to test a the project in a range of computational environments.
 
-#### Allowing failures
+#### Allowing Failures
 
-To ignore the results of jobs in certain computational environments you can define rows that are allowed to fail in the build matrix. Do this by adding an `allow_failures` section to the `.travis.yml` file. Allowed failures are items in your build matrix that are allowed to fail without causing the entire build to fail.  For example to allow the build to pass even if the job(s) using the osx operating system fail you'd add the following to your `.travis.yml`:
+To ignore the results of jobs in certain computational environments you can define rows that are allowed to fail in the build matrix. Do this by adding an `allow_failures` section to the `.travis.yml` file. Allowed failures are items in your build matrix that are allowed to fail without causing the entire build to fail.  For example to allow the build to pass even if the job(s) using the OS X operating system fail you'd add the following to your `.travis.yml`:
 ```
 matrix:
   allow_failures:

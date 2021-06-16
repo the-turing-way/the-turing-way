@@ -1,12 +1,32 @@
 (rr-cs-statistical-methods-manuscript)=
 # A Statistical Methods Manuscript
 
+## About this case study
 
-## A short summary of the Manuscript
+The purpose of this case study is to discuss the different components of 
+research reproducibility implemented in designing and conducting a 
+statistical study.
+With the help of their manuscript, the authors provide a catalog of methods
+used in their research and cross-reference them to the respective
+sections discussed in this {ref}`rr`.
 
-- **Title:** A review of Bayesian perspectives on sample size derivation for confirmatory trials.{cite}`Kunzmann2020CS` 
-- **Authors:** Kevin Kunzmann, Michael J. Grayling, Kim May Lee, David S. Robertson, Kaspar Rufibach, James M. S. Wason
+## About the Manuscript
+
+- **Title:** A review of Bayesian perspectives on sample size derivation 
+for confirmatory trials.{cite}`Kunzmann2020CS` 
+- **Authors:** Kevin Kunzmann, Michael J. Grayling, Kim May Lee, 
+David S. Robertson, Kaspar Rufibach, James M. S. Wason
 - **Publication month & year**: June 2020
+
+### Overview
+
+The manuscript{cite}`Kunzmann2020CS` itself is concerned with the problem of 
+deriving a suitable sample size for a clinical trial.
+This is a classical problem in statistics and particularly important in
+medical statistics where collecting trial data is extremely expensive and
+ethical considerations need to be addressed.
+The manuscript reviews and extends methods to systematically incorporate
+planning uncertainty into the sample size derivation.
 
 ### Citation summary
 
@@ -16,7 +36,7 @@ The manuscript can be cited in plain text APA format:
 A review of Bayesian perspectives on sample size derivation for confirmatory trials.
 arXiv preprint arXiv:2006.15715.
 
-Bibtex format:
+BibTeX format:
 
 ```
 @article{
@@ -28,24 +48,9 @@ Bibtex format:
 }
 ```
 
-### Overview of the manuscript
+## Catalog of different methods for reproducible research
 
-The manuscript{cite}`Kunzmann2020CS` itself is concerned with the problem of 
-deriving a suitable sample size for a clinical trial.
-This is a classical problem in statistics and particularly important in
-medical statistics where collecting trial data is extremely expensive and
-ethical considerations need to be addressed.
-The manuscript reviews and extends methods to systematically incorporate
-planning uncertainty into the sample size derivation.
-
-### Purpose of this case study
-
-The main purpose of this case study is to discuss the reproducible
-research strategy of the authors and to relate the methods back to the respective
-sections discuss in this {ref}`rr`.
-
-
-## Version control
+### Version control
 
 The git repository
 [https://github.com/kkmann/sample-size-calculation-under-uncertainty](https://github.com/kkmann/sample-size-calculation-under-uncertainty)
@@ -56,15 +61,15 @@ For an in-depth explanation of the importance of version control for
 reproducible research, see {ref}`Version Control Systems<rr-vcs>`.
 
 
-## Research data management
+### Research data management
 
 In this particular case,
 {ref}`data management <rr-rdm>` aspects are not an issue since the
-the manuscript is exclusively based on hypothetical examples and no
+manuscript is exclusively based on hypothetical examples and no
 external, protected data is required.
 
 
-### Literate programming
+#### Literate programming
 
 The manuscript{cite}`Kunzmann2020CS` itself is written in and built with
 [LaTeX](https://www.latex-project.org/).
@@ -76,15 +81,15 @@ This means, however, that all figures used in the manuscript need to be
 created separately.
 A dedicated [Jupyter notebook](https://jupyter.org/)
 `notebooks/figures-for-manuscript.ipynb` combining code and rudimentary
-descriptions is provided to that end.
+descriptions are provided to that end.
 
 
-## Reproducible software environment
+### Reproducible software environment
 
 Although this means that all code required to compile the manuscript from scratch
 is available in a self-contained environment,
 it is not yet sufficient for ensuring reproducibility.
-Installing LaTeX, Jupyter, and R with the exact same specification
+Installing LaTeX, Jupyter, and R with the same specification
 needed to run all code can still be challenging for less experienced users.
 To avoid this from keeping interested readers from experimenting with the code,
 a combination of the Python package
@@ -109,24 +114,23 @@ further commands.
 The second badge directly opens an interactive Shiny app that illustrates 
 some of the points discussed in the manuscript and requires no familiarity with
 programming at all.
-All relevant configurations for binder are located in the subfolder `.binder`.
+All relevant configurations for Binder are located in the subfolder `.binder`.
 
 
+### Workflow management using Snakemake
 
-## Workflow management using snakemake
-
-Since Jupyterlab also allows to open a shell in the repository instance opened
+Since JupyterLab also allows to open a shell in the repository instance opened
 using a Binder link,
 another feature of the repository can be used to reproduce the *entire manuscript from scratch*.
-The Python workflow manager [snakemake](https://snakemake.readthedocs.io/en/stable/)
+The Python workflow manager [Snakemake](https://snakemake.readthedocs.io/en/stable/)
 was used to define all required steps in a `Snakefile`.
 To execute this workflow,
-you can open a shell in the [online version of Jupyterhub](https://mybinder.org/v2/gh/kkmann/sample-size-calculation-under-uncertainty/0.2.1?urlpath=shiny/apps/sample-size-calculation-under-uncertainty/).
+you can open a shell in the [online version of JupyterHub](https://mybinder.org/v2/gh/kkmann/sample-size-calculation-under-uncertainty/0.2.1?urlpath=shiny/apps/sample-size-calculation-under-uncertainty/).
 Once the user interface finished loading, open a new terminal and type
 ```
 snakemake -F --cores 1  manuscript
 ```
-This will execute all required steps in turn:
+This will execute all the required steps in turn:
 
 1. create all plots by executing the Jupyter notebook file
 2. compiling the actual `latex/main.pdf` file from the LaTeX sources
@@ -134,11 +138,11 @@ This will execute all required steps in turn:
 You should then see a `main.pdf` file in the `latex` subfolder.
 
 
-## Support for local instantiation of the software environment
+### Support for local instantiation of the software environment
 
-The Python package repo2docker can also be used locally to reproduce the exact
+The Python package repo2docker can also be used locally to reproduce the
 same computing environment.
-To this end you will need to have Python and Docker installed.
+To this end, you will need to have Python and Docker installed.
 For details on Docker and container technologies in general,
 please see the chapter on {ref}`reproducible environments and containers<rr-renv-containers>`.
 Then simply clone the repository on your local machine using the commands
@@ -158,9 +162,9 @@ by following the link printed by repo2docker
 to explore the repository locally.
 
 
-## Use of continuous integration
+### Use of continuous integration
 
-Although not absolutely necessary for the reproducibility of this manuscript,
+Although not necessary for the reproducibility of this manuscript,
 the repository also makes use of continuous integration ({ref}`CI <rr-ci>`)
 using [GitHub actions](https://github.com/features/actions).
 GitHub actions are similar in spirit to {ref}`rr-ci-travis` but the runners are
@@ -168,11 +172,11 @@ provided directly from GitHub.
 
 The repository defines two workflows in `.github/workflows` directory.
 The first one, [`.github/workflows/build_and_run.yml`](https://github.com/kkmann/sample-size-calculation-under-uncertainty/blob/master/.github/workflows/build_and_run.yml),
-is activated whenever the master branch of the repository is updated and the specifications in `.binder` is changed.
-This builds the container, pushes it to a public container repository [docker hub](https://hub.docker.com/repository/docker/kkmann/sample-size-calculation-under-uncertainty) and then checks that the snakemake workflow runs through without problems.
+is activated whenever the master branch of the repository is updated and the specifications in `.binder` are changed.
+This builds the container, pushes it to a public container repository [docker hub](https://hub.docker.com/repository/docker/kkmann/sample-size-calculation-under-uncertainty), and then checks that the Snakemake workflow runs through without problems.
 The second one, [`.github/workflows/run.yml`](https://github.com/kkmann/sample-size-calculation-under-uncertainty/blob/master/.github/workflows/run.yml),
 runs when the folder `.binder` was not changed and uses the pre-built
-Docker container to run the snakemake workflow.
+Docker container to run the Snakemake workflow.
 The latter saves a lot of computing time since the computational
 environment will change much less often than the contents of the repository.
 The use of CI thus facilitates checking contributions by pull requests for
@@ -186,14 +190,13 @@ docker exec --name mycontainer /
     snakemake -F --cores 1  manuscript
 ```
 
+### Long term archiving and citability
 
-## Long term archiving and citeability
-
-The GitHub repository is also linked with [zenodo.org]() to ensure long-term
+The GitHub repository is also linked with [zenodo.org](https://zenodo.org/) to ensure long-term
 archiving, see {ref}`rr-credit-make-software-citeable`
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3899943.svg)](https://doi.org/10.5281/zenodo.3899943)
 
 Note that a DOI provided by Zenodo can also be used with BinderHub to turn a
 repository snapshot backed up on Zenodo in an interactive environment
-[see this blog post](https://blog.jupyter.org/binder-with-zenodo-af68ed6648a6).
+([see this blog post](https://blog.jupyter.org/binder-with-zenodo-af68ed6648a6)).

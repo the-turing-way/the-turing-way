@@ -1,3 +1,4 @@
+(rr-make-casestudy-rp)=
 # Case Study: Reproducible Paper using Make
 
 In the tutorial above we used IMDB movie ratings for different genres as
