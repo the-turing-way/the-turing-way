@@ -16,9 +16,12 @@ Laws and policies are made by people, and they are subject to negotiations and e
 ## Background and Motivation
 
 It's useful to know how the ethics that guide your work are underpinned by other frameworks, including law, policy, and human rights. 
-Knowing the law, policy, and human rights that underpin research ethics will give you a deeper understanding of how to conduct ethical research. It can also help you to advocate for ethical work with colleagues and collaborators.
+Knowing the law, policy, and human rights that underpin research ethics will give you a deeper understanding of how to conduct ethical research. 
+It can also help you to advocate for ethical work with colleagues and collaborators.
+
+This chapter provides subchapters on {ref}`Law and Policy<er-law-policy-ethics>` in the context of ethical research, {ref}`er-law-policy-rights` and {ref}`er-law-policy-resources.`
 
 ```{attention}
-This is not legal advice. Please read for information only! 
-[Link to central page on 'this book is not a lawyer' - not written yet, but there is an issue open here: https://github.com/alan-turing-institute/the-turing-way/issues/1469)]
+This is not legal advice. Please read for information only!
 ```
+*Read the {ref}`legal-disclaimer` for why you should not use The Turing Way for legal advice.* 
