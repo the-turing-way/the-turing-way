@@ -15,7 +15,7 @@ This platform is popular among researchers to store and share their code, small 
 However, it has evolved into a collaborative platform for developing documents and communicating them openly and transparently.
 
 Many of the new tools developed for reproducible research can seem daunting to researchers who have little or no experience with computational tools.
-However, if researchers have used online tools such as Google workspace and Microsoft office, with a small amount of instruction they should be able to learn to use GitHub online platform fairly easily.
+However, if researchers have used online tools such as Google workspace and Microsoft Office, with a small amount of instruction they should be able to learn to use GitHub online platform fairly easily.
 
 In this chapter, we describe the {ref}`motivation of using GitHub<github-novice-motivation>`, explain the {ref}`important first steps<github-novice-firststeps>`, discuss some {ref}`useful features<github-novice-features>` and list resources to learn {ref}`advanced GitHub features<github-novice-advanced>`.
 
