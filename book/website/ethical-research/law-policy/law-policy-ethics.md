@@ -108,4 +108,26 @@ Changing laws is a long-term project and can take decades.
 
 This section is not intended to explain how to do this: a good place to start is to find a campaigning organisation who is working on the issue, and ask them how to get involved. 
 <!--- edit this to refer to the activism chapter, when we have written it --> 
-See details in the chapters on {ref}`er-activism` and {ref}`er-internal-policy` for more details.
+See details in the chapters on {ref}`er-activism` for more details.
+
+## Policy
+
+Policy is a general term for a set of ideas or principles that guide actions in particular situations.
+Policies are not legally binding, but they are designed to encourage certain kinds of behaviours and discourage others.
+For example, the Turing Way community agrees to abide by the policy set out in the [Code of Conduct](https://the-turing-way.netlify.app/community-handbook/coc.html).
+
+Policies are agreed between groups of people: this can be at organisational, intra-organisational, or governmental level. 
+It is useful to be aware, for example, of policies on ethical research and innovation that are set by your government, or your funding organisation.
+For example, the American Statistical Association has created [ethical guidelines for statistical practice](https://www.amstat.org/ASA/Your-Career/Ethical-Guidelines-for-Statistical-Practice.aspx).
+Policies can also be set by national or international organisations.
+If you are a member of a professional or academic organisation, you should be aware of the policies that cover ethical research for your profession.
+
+Many ethical guidelines that have been produced are in the form of policy.
+These can provide useful guidance. 
+
+Because policies are the result of negotiation and agreement, they can be influenced. 
+If you don't think your professional organisation's policies are strong or effective enough, you can lobby for changes as a member of that organisation.
+The process for doing this will depend on the organisation.
+Many companies and organisations have advocacy and lobbying staff who argue for changes in government policy that will benefit their organisation. 
+
+See details in the chapters on {ref}`er-internal-policy` for more details.
