@@ -357,11 +357,11 @@
     file: ethical-research/law-policy
     sections:
     - title: Ethics and law
-      file: ethical-research/law-policy-ethics
+      file: ethical-research/law-policy/law-policy-ethics
     - title: Human rights
-      file: ethical-research/law-policy-rights
+      file: ethical-research/law-policy/law-policy-rights
     - title: Further Recommendations
-      file: ethical-research/law-policy-resources
+      file: ethical-research/law-policy/law-policy-resources
   - title: Activism for Researchers
     file: ethical-research/activism
     sections:
