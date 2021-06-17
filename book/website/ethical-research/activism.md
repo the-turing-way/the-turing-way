@@ -4,7 +4,7 @@
 (er-activism-prerequisites)=
 ## Prerequisites
 
-There are no prerequistes for this chapter.
+There are no prerequisite for this chapter.
 
 (er-activism-summary)=
 ## Summary
