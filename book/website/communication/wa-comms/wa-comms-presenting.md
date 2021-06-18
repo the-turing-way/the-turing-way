@@ -38,7 +38,7 @@ Presenting a talk through a digital medium involves tackling some technical chal
 * Even if you are only sharing a slide deck, seeing you on video can help your audience to keep their concentration on the presentation. You don't need the best camera or video post-processing software, but [managing your lighting](https://www.youtube.com/watch?v=rGcAM1CNEU0&ab_channel=Wirecutter) will do wonders for your video quality.
 
 ### Sound
-* For the members of your audience who are hard of hearing, sound quality will always be more important than video quality. 
+* For the members of your audience who aren't hard of hearing, sound quality will always be more important than video quality. 
 * Before the presentation, record your voice using the same device you will be using in the presentation to check the sound quality and make any adjustments you can to ensure a crisp sound.
 
 ### Recording a talk
