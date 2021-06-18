@@ -11,7 +11,6 @@
 
 * [Outlier conf](https://www.outlierconf.com/) is a good example of accessibility in conference participation fees and data experience (vs visualisation).
 
-* Tips to apply the FAIR principles to training materials by Garcia et al (2020) https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007854
 
 (cm-wa-comms-resources-blogs)=
 ## Blogs
