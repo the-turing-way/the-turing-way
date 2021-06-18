@@ -16,7 +16,7 @@
 name: Communicating with wider audiences
 alt: Two people sitting working. One using a feather and scroll with the words inaccessible and too technical written on the scroll. The other person sitting at a computer with different communication methods coming out of the computer including blogs, podcasts, lay summaries and social media. There are also dictionaries for foreign languages showing that it is important to translate our research into different languages. Accessibility is written on the computer screen.
 ---
-_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/ - https://zenodo.org/record/4836940#.YLn4tPn0mUk. 
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/ - https://doi.org/10.5281/zenodo.4906004 
 ```
 
 (cm-wa-comms-summary)=
