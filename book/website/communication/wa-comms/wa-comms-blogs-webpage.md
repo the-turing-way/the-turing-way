@@ -15,7 +15,7 @@ You need to consider:
     * Very popular site to use for blogs.
     * You can start a blog for free but added functions will cost you.
     * Simple to set up as built in easy block-like fashion.
-    * Here's a [link](https://wordpress.com/) for help.
+    * Here's a [link](https://wordpress.com/go/category/content-blogging/) for help.
     * This is worth a read about [starting a wordpress blog](https://www.podcastinsights.com/start-a-wordpress-blog/).
 * **Google sites** 
     - It says it is not set up for blogs but can be adapted for this purpose or used as a project website with blog-type updates.
