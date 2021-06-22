@@ -44,7 +44,7 @@ Privacy is sometimes confused with data protection, but it is much broader.
 For example, the right to privacy protects individuals from having blood samples taken without their permission.
 It means that body searches must be done in a way that preserves the dignity of the person being searched, and that home searches must only be done to search for evidence, not for harassment.
 It also makes laws that criminalise private, consensual sex between adults of the same sex unlawful (nonetheless, these laws have not yet been repealed everywhere). 
-Privacy is also a human right (see below).
+Privacy is also a {ref}`human right<law-policy-rights>`.
 
 ### Intellectual property law
 
