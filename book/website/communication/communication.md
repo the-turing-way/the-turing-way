@@ -13,7 +13,7 @@ name: communication
 width: 500px
 alt: A network of people exchanging and sharing different information with each other
 ---
-_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.¶
 ```
 
 In this guide, we welcome contributions to developing chapters and guidance on effectively communicating the data-driven outcome to different audience types who may or may not be aware of scientific data analytics.
