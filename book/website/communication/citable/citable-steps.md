@@ -35,16 +35,14 @@ It's important to note that not everything published online gets a unique identi
 
 ```{figure} ../../figures/doi.jpg
 ---
-name: DOI
+name: doi
 alt: This image shows three boxes with materials on top.
 The main box in the middle has 'identifiers' written on it with three discs on top of it that are labelled 'data sets'.
 Both boxes by their side have journal articles on top of them.
 An arrow on the top of the image points to these images as being 'Digital Object Identifiers'.
 There is text at the bottom of the image which says 'Persistent', 'Unique', 'Trusted'.
 ---
-_The Turing Way_ project illustration by Scriberia.
-Used under a CC-BY 4.0 licence.
-DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
+Digital Object Identifiers or DOIs are persistent, unique and trusted. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 Unique identifiers or persistent links for digital objects are more formally called [Digital Object Identifiers or DOIs](https://en.wikipedia.org/wiki/Digital_object_identifier).
