@@ -1,5 +1,5 @@
 (er-law-policy)=
-# Ethics and Law, Policy and Human Rights
+# Law, Policy and Human Rights in Ethics
 
 ## Summary
 Law, human rights and policy all relate to ethics, but they are not the same thing.
