@@ -7,13 +7,13 @@ Project design techniques can help researchers clearly identify and communicate 
 It ensures that all stakeholders can work together efficiently, apply reproducibility methods and communicate their work effectively with their target audience.
 A project design requires project leads, managers and organisers to be deliberate and clear about their expectations from the beginning of their projects to ensure successful implementation of their plans at all stages of research.
 
-```{figure} ../figures/ResearchCycle.jpg
+```{figure} ../figures/project-design-overview.jpg
 ---
 height: 500px
-name: research-cycle
-alt: This illustration shows a circle that shows different stages of research in a loop starting from ideation, planning and design, data collection, data processing, data study and analysis, data publishing and access, data preservation and finishing with data reuse that loops back to research ideas. It also shows multiple people working together at all stages
+name: project-design-overview
+alt: This illustration shows a stage with a trophy labeled as 'reproducible research trophy'. A diverse team of four people are helping each other take staircase towards the trophy. The staircase has three sets of labels indicating research stages as (1) before, that includes 'team, funding, question, methodology, approval, license', (2) during that includes version control and documentation, and (3) after that includes archiving and publishing steps.
 ---
-_The Turing Way_ project illustration by Scriberia.
+Illustration of project design overview. _The Turing Way_ project illustration by Scriberia.
 Used under a CC-BY 4.0 licence.
 DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 ```

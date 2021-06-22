@@ -1,11 +1,11 @@
 (pd-overview-planning)=
 # Planning for Project Design
 
-Thinking about reproducibility from the start of your project is the best way to save time and get the most out of the available tools.
+Thinking about reproducibility from the start of your project is the best way to save time and get the most out of the available tools (see image {ref}`research-cycle`).
 Creating connections between data, code, methodology, as well as diverse collaborators, can seem like a daunting task if it has not been planned from the beginning.
 By documenting and sharing project workflows and processes for research and researchers we can ensure sustainability and reusability of research for both the developers and future users.
 
-Design thinking in the context of the research project can lead to a better development process, maintenance, and future extension of our work.
+Human-centered approach in the context of the research project can lead to a better development process, maintenance, and future extension of our work.
 Furthermore, it will help improve the quality of future project design as we can learn lessons from what worked and what can be improved.
 
 (pd-overview-planning-expectation)=
@@ -39,10 +39,10 @@ In the subsequent chapters, we describe different methods and tools for ensuring
 (pd-overview-planning-ethics)=
 ## Getting Ethical and Legal Approval
 
-Every research has the capacity to generate change - this is the basis of discovery and progress. 
+Every research has the capacity to generate change - this is the basis of discovery and progress.
 Therefore, it is necessary to consider how your investigation could generate an impact on other people's lives and under which ethical and legal standards it should be conducted.
 
-A project has to be designed considering legal and ethical issues in every step: from the question formulation, data collection and analysis to the results and interpretation. 
+A project has to be designed considering legal and ethical issues in every step: from the question formulation, data collection and analysis to the results and interpretation.
 It's important to ask yourself if your project is designed to be inclusive and sustainable, taking into account the implications and social expectations and following ethical principles and professional standards.
 
 Getting ethical and legal approval is a crucial step of the project, this way you can make sure your research is being conducted in a responsible and ethical manner.
