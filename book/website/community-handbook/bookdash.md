@@ -6,19 +6,16 @@ This event is organised for 1 to 1.5 days to allow attendees to learn about the 
 
 For many attendees, this is also the first time they get to contribute to a community-developed Open Source project.
 
-```{figure} ../figures/first_pull_request.png
+```{figure} ../figures/first-pull-request.png
 ---
 height: 400px
-name: first-pull-request
+name: book-dash
 alt: A person helping out another person making their first pull request on GitHub
 ---
 Making your first pull request on GitHub.
-_The Turing Way_ project illustration by Scriberia.
-Used under a CC-BY 4.0 licence.
-DOI: [10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
-
-## Inviting diverse contributions
+## Inviting Diverse Contributions
 
 As a community-driven guidebook, _The Turing Way_ aims to co-create contents that are comprehensible and beneficial for the wider community of data scientists and researchers.
 Hence, _The Turing Way_ specifically welcomes contributors from diverse fields, identities, and backgrounds who can propose ideas and work on the new aspects of an existing chapter or create new chapters in its guides.
@@ -40,7 +37,7 @@ The skills and contributions that we invite at the book dash include, but are no
 - data visualisation skills and best practices
 - storytelling skills that can help make our content more engaging
 
-## Support available for in-person, hybrid and remote events
+## Support In-Person, Hybrid and Remote Participation
 
 All the book dashes so far have been organised for in-person participation in venues located in the UK (home country of the project).
 All the participants who need to travel to the event's venue are offered financial support to cover their travel, accommodation, and related expense such as childcare or special accessibility requirements.
@@ -53,8 +50,8 @@ In the case of hybrid and remote events, financial support will be available to 
 This will include (but not limited to) temporary access to high-speed internet, childcare grant and live captioning during the event.
 Bursaries will be made available to rent or purchase small hardware such as headphones or webcam that can enhance the quality of participation at the book dash.
 
-## More resources on book dash
+## More Resources on Book Dash
 
-In this chapter, we discuss the {ref}`application<ch-bookdash-application>`, {ref}`participant selection<ch-bookdash-selection>` and {ref}`event preparation<ch-bookdash-events>` processes.
+In this chapter, we discuss the {ref}`application<ch-bookdash-application>`, {ref}`event preparation and participant selection<ch-bookdash-preparation>` and {ref}`event preparation<ch-bookdash-events>` processes.
 
 All the templates related to book dash is provided in the {ref}`community template collection<ch-templates>`.

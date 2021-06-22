@@ -3,10 +3,10 @@
 
 Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship [{term}`def<Open Scholarship>`].
 
-```{figure} ../../figures/open_umbrella.png
+```{figure} ../../figures/open-umbrella.png
 ---
 height: 500px
-name: open_umbrella
+name: open-umbrella
 alt: A depiction of Open Scholarship as an umbrella with other elements of Open Research beneath it.
 ---
 ```
@@ -32,7 +32,7 @@ By making these openly available (for example, in the [open educational resource
 1. Most obviously, the community can use the materials to learn about the content they cover.
 2. Sharing resources reduces duplication of effort.
 If an educator needs materials for teaching and such materials already exist openly, then they need not make their own from scratch, thereby saving time.
-3. Making materials openly available helps a community build better resources by improving those that already exist. 
+3. Making materials openly available helps a community build better resources by improving those that already exist.
 The community can combine several OERs to take advantage of their different strengths, such as a great diagram or explanation.
 
 Beyond the raw practical benefits, the worldwide OER movement is rooted in the human right to access high-quality education.
@@ -50,7 +50,7 @@ For example, reasonable accommodations should be made wherever possible to inclu
 (rr-open-scholarship-citizen)=
 ## Citizen Science
 
-Citizen science [{term}`def<Citizen Science>`] is the involvement of the public in scientific research – whether community-driven research or global investigations. 
+Citizen science [{term}`def<Citizen Science>`] is the involvement of the public in scientific research – whether community-driven research or global investigations.
 The Oxford English Dictionary recently defined it as: "scientific work undertaken by members of the general public, often in collaboration with or under the direction of professional scientists and scientific institutions".
 Citizen science offers the power of science to everyone and the power of everyone to science.
 
