@@ -1,8 +1,8 @@
 (cm-comms-overview-principles)=
 # Principles of Communicating with Wider Audiences
 
-Researchers should consider communicating their research in a less technical manner to expand its accessibility to wider audiences.
-This will increase the impact of the research to different academic disciplines and also to non-specialist audiences.
+Researchers should consider communicating their research less technically to expand its accessibility to wider audiences.
+This will increase the impact of the research on different academic disciplines and also on non-specialist audiences.
 
 You need to think carefully about the readability of any written or spoken communications.
 
@@ -14,6 +14,6 @@ You need to think carefully about the readability of any written or spoken commu
 * **Change your style** - Academic writing is often very formal and uses a lot of passive voice such as 'the authors suggest ...'.
 This style does not suit a non-academic audience and therefore your writing needs to be adapted to suit the audience you are aiming for.
 * **Make it accessible** - As well as making the technical level of your writing lower, you also need to get rid of any commonly used abbreviations used in your discipline or at least make sure that you explain them.
-Each discipline has its own acronyms that even other scientific fields do not understand.
+Each discipline has its acronyms that even other scientific fields do not understand.
 There are also issues concerning different audiences being physically able to access the output that must be considered.
-Removing as many barriers to the research communication as possible will increase its effectiveness.
+Removing as many barriers to research communication as possible will increase its effectiveness.

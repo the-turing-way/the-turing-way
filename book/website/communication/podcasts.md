@@ -4,7 +4,7 @@
 A podcast is an audio programme that you can subscribe to and listen to on an app.
 They are like blogs as they focus on a particular topic.
 A podcast can be a solo effort but would work better as collaborative work.
-The length of podcasts varies from short 1 minute snippets to much longer in-depth pieces lasting hours.
+The length of podcasts varies from short 1-minute snippets to much longer in-depth pieces lasting hours.
 They also vary in frequency from daily to monthly.
 
 (cm-podcasts-how)=

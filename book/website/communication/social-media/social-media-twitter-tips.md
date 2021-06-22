@@ -14,7 +14,7 @@ This will help you develop your voice (how you want to be heard, what topics you
 
 * Add a photo, cover image and short bio that is relevant to the research you are doing.
 * Your bio can be linked to accounts such as your institution using their @, your funding body and common hashtags for your subject.
-* You might want to have a specific twitter account for your project or organisation as well as a personal one.
+* You might want to have a specific Twitter account for your project or organisation as well as a personal one.
 
 **2. Make lists**
 
@@ -24,13 +24,13 @@ This will help you develop your voice (how you want to be heard, what topics you
 **3. Think about your audience for each tweet**
 
 * It might be that all your tweets are to target your research community but some may also be for the wider public.
-Therefore, think carefully about the language you use, avoid jargon and subject specific acronyms, and add links to more information.
+Therefore, think carefully about the language you use, avoid jargon and subject-specific acronyms, and add links to more information.
 
-**4. Add subject specific hashtags**
+**4. Add subject-specific hashtags**
 
-* You only have 280 characters so using hastags to link to different groups of interest is an important way to get your message out there.
+* You only have 280 characters so using hashtags to link to different groups of interest is an important way to get your message out there.
 * Tweets with hashtags can increase engagement by almost 100% for individuals.
-* There are also regular hashtags for each day of the week, for example #MondayMotivation or #FridayFeeling.
+* There are also regular hashtags for each day of the week, for example, #MondayMotivation or #FridayFeeling.
 
 **5. Include some other accounts in your tweet**
 
@@ -54,15 +54,15 @@ This gives your tweet the largest reach possible.
 
 **9. Take care of yourself**
 
-* Not all the interactions that you have on twitter will be pleasant as some people find fun in starting arguments or being offensive towards you.
+* Not all the interactions that you have on Twitter will be pleasant as some people find fun in starting arguments or being offensive towards you.
 * It is best not to interact with these people.
 * You can follow [Charles' Rules of Arguments](https://geekfeminism.wikia.org/wiki/Charles%27_Rules_of_Argument).
 This sets out that if you receive an argumentative reply, you should state your position once explaining any misunderstandings and then do not reply again.
-Let others come to your defense.
+Let others come to your defence.
 * If it continues, you can block this person and report the abuse.
 * Here is a link to the Twitter help page about [how to block accounts](https://help.twitter.com/en/using-twitter/blocking-and-unblocking-accounts).
 
-Starting to use twitter might involve tweeting about new papers and useful resources in your field, events that you go to such as workshops and conferences, and retweeting other people in your field to highlight their work.
+Starting to use Twitter might involve tweeting about new papers and useful resources in your field, events that you go to such as workshops and conferences, and retweeting other people in your field to highlight their work.
 
 You might also want to start with a series of intro tweets to introduce yourself, your career so far and your current work.
 You can pin this to your profile so that it is always what people see first.
@@ -84,9 +84,9 @@ By default, regular Twitter messages are visible to the whole world, including (
 * Live-tweeting — Tweeting short summaries of an event, for example of a conference talk, as it is happening.
 * Mentioning (@) — If you mention someone with their account handle (“This paper by @CaAl is great”), your tweet will show up in their notifications.
 * Notifications — Tweets that mention you and replies, retweets and likes for your tweets.
-* Quote-tweet — Sharing a tweet by someone else in a quote, while adding your own comments.
+* Quote-tweet — Sharing a tweet by someone else in a quote, while adding your comments.
 * Retweet (RT)— Sharing a tweet that was originally made by someone else.
 * Subtweeting — Tweeting about somebody without explicitly mentioning their handle, so that they are not informed of your comment.
-* Thread — A series of tweets on one subject, for instance ten tweets about a new research paper.
+* Thread — A series of tweets on one subject, for instance, ten tweets about a new research paper.
 * Timeline — The tweets from the people you follow.
 * Tweetdeck - App that can be used to tweet and run multiple accounts.

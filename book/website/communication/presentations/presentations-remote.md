@@ -2,7 +2,7 @@
 # Presenting at Remote Events
 
 Giving a talk or presenting a poster at a remote conference poses particular challenges.
-Whether this occurs in a live or pre-recorded event, there are some factors that should be paid special attention related to the technical quality of the presentation and its accessibility.
+Whether this occurs in a live or pre-recorded event, some factors should be paid special attention to related to the technical quality of the presentation and its accessibility.
 
 ## Visual Elements of the Presentation
 
@@ -34,5 +34,5 @@ Presenting a talk through a digital medium involves tackling some technical chal
 
 ### Video Recording
 
-* The simplest way to record the contents of your talk, including your video, voice and presentation, is to record it using a videoconference service (like Zoom) or a recording software like [OBS](https://obsproject.com). See [this guide](https://software.ac.uk/fellowship-programme/2019/application-video-guide) by the Software Sustainability Institute on how to configure OBS for screen recording.
+* The simplest way to record the contents of your talk, including your video, voice and presentation, is to record it using a videoconference service (like Zoom) or recording software like [OBS](https://obsproject.com). See [this guide](https://software.ac.uk/fellowship-programme/2019/application-video-guide) by the Software Sustainability Institute on how to configure OBS for screen recording.
 * If you are recording your talk to present it asynchronously you can use platforms like [Amara](https://amara.org) to generate your subtitles from the video.

@@ -5,7 +5,7 @@ We would like to thank **[Yanina Bellini Saibene](https://yabellini.netlify.app/
 
 Find out more about her work here:
 * ORCID: [0000-0002-4522-7466](https://orcid.org/0000-0002-4522-7466)
-* [Twitter](https://twitter.com/yabellini)
+* Twitter: [@yabellini](https://twitter.com/yabellini)
 
 Yanina is a researcher at [INTA in La Pampa, Argentina](https://inta.gob.ar/personas/bellini.yanina), applying data science to the agricultural sector.
 She has a degree in Information Systems and a Master in Data Mining and Knowledge Management.
@@ -24,7 +24,7 @@ We only make sense if people use what we do.
 ## 2. What aspects do you have to take into account when thinking about an event with very interdisciplinary talks?
 
 I think the main thing is to know your audience beforehand.
-You can ask the organizers of the event to whom you are going to speak, what is their background, what is the reason they come to the event, and so on., since, in that way, you can foresee some of the expectations they are going to have and try, at least, to fulfill some of them in your talk.
+You can ask the organizers of the event to whom you are going to speak, what is their background, what is the reason they come to the event, and so on., since, in that way, you can foresee some of the expectations they are going to have and try, at least, to fulfil some of them in your talk.
 
 Also, I start the talk with a relaxed attitude so that the audience feels that, even though I am there as an expert,
 I am approachable when it comes to comments and questions.
@@ -37,7 +37,7 @@ Make it clear that you care about giving a good talk, with useful information, m
 
 Keeping time schedules is also important, both for you, the audience, and the rest of the speakers.
 
-It is necessary to be well informed about the format of the talk: the amount of time allotted to the talk, and it's structure (like you deliver your talk and questions are asked at the end or you can ask questions during the talk, how much time is given to questions, are debates and discussions expected).
+It is necessary to be well informed about the format of the talk: the amount of time allotted to the talk, and its structure (like you deliver your talk and questions are asked at the end or you can ask questions during the talk, how much time is given to questions, are debates and discussions expected).
 
 In general, if there is no predefined format for the talk, I ask to be allowed to interact with the audience.
 I like to ask questions and have them answer me in the chat, it makes them part of the event.
@@ -50,7 +50,7 @@ Also, I always ask for feedback from the organizers so that I can improve the ta
 
 On the other hand, I try to address what was left unanswered at the event in two different ways: I make a blog post with the questions and answers (sometimes I add them on the talk’s page) or with Twitter threads.
 
-In the same way, I strive to make the materials available before the talk and take into account accessibility issues, such as a font size that is visible, color contrasts, including speaker's notes, a download link, a license so they know how to use it, among other details.
+In the same way, I strive to make the materials available before the talk and take into account accessibility issues, such as a font size that is visible, colour contrasts, including speaker's notes, a download link, a license so they know how to use it, among other details.
 
 Thanks to R-Ladies I started to pay more attention to these kinds of details in my materials, things that I didn't pay much attention to before but can make a big difference in the use and accessibility of my talks.
 
@@ -60,7 +60,7 @@ The foremost aspect is the network of contacts you gain from the events.
 By attending and talking about what I’m working on has resulted in collaborations, agreements, publications, joint work, and projects.
 
 Expanding that network of contacts can also mean that you can bring people together to work jointly.
-I think it is a very important role for those of us who have been in the profession for several years to be a bridge between work groups and people so that they can get to know each other.
+I think it is a very important role for those of us who have been in the profession for several years to be a bridge between communities and people so that they can get to know each other.
 
 On the other hand, it helps me to improve my talks, my materials (many of them end up in a somewhat more academic publication), and to gauge the needs, doubts, or concerns of people regarding the topic I am communicating.
 That serves me as a thermometer of demand, of what people are needing; of what is not being understood; of what topics require training, books, Blogposts, or materials; to reaffirm or correct the direction of my work.
@@ -68,7 +68,7 @@ This can lead to the presentation of a new project proposal, the search for fund
 
 Finally, you learn a lot, about other fields, about other professions, about other people and other countries.
 In the events, many times you get to attend other invited speakers’ talks and you learn from them.
-In addition, you learn about projects, you access information, and may be presented with other possibilities for yourself or for work groups you know.
+In addition, you learn about projects, you access information and may be presented with other possibilities for yourself or for communities you know.
 
 ## 4. Do you have any advice on things to avoid or, perhaps, to handle with care?
 
@@ -86,7 +86,7 @@ At some point, you have to interact with the people who attended the event, eith
 If you just deliver the talk, finish and leave, you lose the possibility of generating contacts or being approachable, which are two of the main goals of this type of event.
 
 Regarding the materials, make sure that they are accessible.
-As I mentioned before, work to make them as accessible as possible (legible fonts, contrasting sizes and colors, speaker's notes, alternative text in the images) and that they are licensed.
+As I mentioned before, work to make them as accessible as possible (legible fonts, contrasting sizes and colours, speaker's notes, alternative text in the images) and that they are licensed.
 
 When I prepare a talk, when budgeting the time it takes me to put it together, I add a day or two more to check its accessibility.
 The license is fundamental to let your audience know how they can reuse your material and, if they cannot reuse it, to make it clear.
@@ -101,7 +101,7 @@ That is why it is key to know your audience, as then you know what to rely on wh
 
 We are discussing talks given at community events.
 In general, I deliver them free of charge and the materials are open, but if a company invites you, don't be ashamed or afraid to charge for them in case that, later on, it will be economically profitable for whoever invites you.
-I also don't pay out of my pocket if I am invited to give a talk; this means that the costs of travel, or registration are paid by the organizer.
+I also don't pay out of my pocket if I am invited to give a talk; this means that the costs of travel or registration are paid by the organizer.
 If your talks are in high demand, the organizer's handling of the costs helps you decide.
 Also, you should never transfer the intellectual property of your material to the event organizer, but if they ask you to transfer it and you agree, charge them very well for it.
 
@@ -117,15 +117,15 @@ These are also questions that I take into account: Is it an all-male panel?
 Does the event have a Code of Conduct?
 Is it open access, or does it have benefits for less advantaged people?
 Again, if one can demand these types of things in the events one is going to participate in, we will be helping to generate friendlier and safer environments.
-Sometimes one does not have the possibility or the privilege to choose, so those of us who can should do it.
+Sometimes one does not have the possibility or the privilege to choose, so those of us who can do it.
 
 ## 5. What perspectives do you have for your future talks? What would you be interested in trying?
 
-Lately, I have been asked to give talks on three topics: communities of practice, science and data applied to agriculture (with use cases), and science and data in geotechnology.
+Lately, I have been asked to give talks on three topics: communities of practice, science and data applied to agriculture (with use cases), and science and data in geo-technology.
 It is difficult to maintain the enthusiasm of always telling the same thing because, in addition, you feel like an impostor thinking about how many more times you are going to deliver the same talk.
 The thing is that, sometimes, they invite you because they have seen it and want to replicate it in another setting.
 
-What I generally do is to update the talks when I have new results or use cases and, depending on the expected audience, I explain in more detail the concepts I need them to know in order to get more out of the talk.
+What I generally do is to update the talks when I have new results or use cases and, depending on the expected audience, I explain in more detail the concepts I need them to know to get more out of the talk.
 
 It can be noted that there is a great need to resume face-to-face activities.
 I hope that virtual activities will continue because they opened up a panorama of participation (as a lecturer and as an attendee) that I did not have before; they allowed me to attend activities that would have been beyond my reach if I’d had to be there in person (Ecuador, Bolivia, USA, Africa) since I have two small children and I avoid long trips, at least until they are older.

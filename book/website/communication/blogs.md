@@ -3,7 +3,7 @@
 
 A blog is a website that contains informal articles usually with a central theme.
 This could be an academic topic such as open science or be used to report the progress of a research project.
-A blog post or posts are the articles on the website and they are typically displayed in reverse chronological order, so that the most recent post appears first at the top of the web page.
+A blog post or posts are the articles on the website and they are typically displayed in reverse chronological order so that the most recent post appears first at the top of the web page.
 
 Blogs are short, informal pieces of writing.
 They are meant to be written regularly and can be used to build momentum on a particular issue, event or project.
@@ -47,7 +47,7 @@ Often starting a piece of writing is the hardest part, and writing your first bl
 But just try to start writing in any way as a messy first draft can always be edited later.
 
 * The first post could be an introduction to yourself, those involved in the blog or a statement of your intentions for the blog.
-* It might also be good to prepare a few posts for the first release to have greater impact.
+* It might also be good to prepare a few posts for the first release to have a greater impact.
 
 ## Advertising Your Blog
 
@@ -55,10 +55,10 @@ Get your blog noticed.
 
 * It's a good idea to tell your target audience about your blog and again each time you release a post.
 * Use mailing lists from key associations linked to your research.
-* Use social media such as twitter or facebook.
+* Use social media such as Twitter or Facebook.
 * Ask colleagues to retweet or send out emails to advertise your blog.
 
-## Analysing the Impact**
+## Analysing the Impact
 
 Success is very much in the eye of the beholder but there are many methods or metrics that you can use to track the success of your blog.
 

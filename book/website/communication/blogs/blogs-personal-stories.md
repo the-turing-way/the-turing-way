@@ -6,9 +6,9 @@
 Dr Veronika Cheplygina is an Associate Professor at the IT University Copenhagen and she strives to make science more open and inclusive.
 
 You can find out more about her work from the links below:
-* [Personal website](https://veronikach.com/)
+* Personal website: [veronikach.com](https://veronikach.com/)
 * Twitter: @DrVeronikaCH
-* [ORCID](https://orcid.org/0000-0003-0176-9324)
+* ORCID: [0000-0003-0176-9324](https://orcid.org/0000-0003-0176-9324)
 
 We would like to thank Dr Veronika Cheplygina for answering our interview questions about her very successful blog series called ['How I fail'](https://veronikach.com/failure/).
 
@@ -20,13 +20,13 @@ Only during my PhD/postdoc, I think, I started writing more frequently, mostly u
 
 ## 2. How did you get started?
 
-As described above it was quite gradual, the first blog I setup, I programmed in PHP myself (and it had lots of bugs).
-Then I switched to a free Wordpress blog, and then installed Wordpress on my own website.
+As described above it was quite gradual, the first blog I set up, I programmed in PHP myself (and it had lots of bugs).
+Then I switched to a free WordPress blog and then installed WordPress on my website.
 As for writing on the blog, when I did start to write more, I made it a habit to write (for example) once a week, and it became more natural after a while.
-Also it became more clear what are really "my" topics to write about, or not.
-The CV of Failures I shared during my postdoc clearly resonated, and that later turned into the How I Fail series.
+Also, it became more clear what is really "my" topics to write about, or not.
+The CV of Failures I shared during my postdoc resonated, and that later turned into the How I Fail series.
 
-## 3. What impact do you think your blog is making to your research/project/community?
+## 3. What impact do you think your blog is making on your research/project/community?
 
 It helps people to see stories by other real people, and relate to the issues that are discussed.
 
@@ -44,14 +44,14 @@ It's great to see the statistics for previous blog posts, and receive a thank yo
 
 ## 4. What tools/software do you use most to produce your blog?
 
-Primarily Wordpress, I use Mailchimp to send out a newsletter (only if there are any new posts) and Canva if I make graphics (but usually I'm too lazy).
-Wordpress shares my new posts to Twitter and LinkedIn.
+Primarily WordPress, I use Mailchimp to send out a newsletter (only if there are any new posts) and Canva if I make graphics (but usually I'm too lazy).
+WordPress shares my new posts to Twitter and LinkedIn.
 
 ## 5. Do you have any top tips for other people that might be interested in starting a blog?
 
 Make it a habit to post something, review after a while to see what kind of tags/categories you seem to use more often, and which kinds get more responses.
 
-## 6. Do you have any tips of things to avoid?
+## 6. Do you have any tips on things to avoid?
 
 Don't fall into the "X step simple formula for bloggers" which is optimized to create short content with lots of clicks.
 There are lots of types of "real" blogs there that do not do this, and which have dedicated readers.

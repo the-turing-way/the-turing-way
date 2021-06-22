@@ -17,7 +17,7 @@ The other person sitting at a computer with different communication methods comi
 There are also dictionaries for foreign languages showing that it is important to translate our research into different languages.
 Accessibility is written on the computer screen.
 ---
-Illustration about communicating with wider audience.
+Illustration about communicating with a wider audience.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.¶
 ```
 
@@ -28,15 +28,15 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 When we say not to use jargon, we’re not advocating leaving out necessary technical terms, but we are saying to make sure your language is as clear as possible.
 > - [plainlanguage.gov](https://www.plainlanguage.gov/guidelines/words/avoid-jargon)
 
-Choosing to communicate jargon free and in a less technical way, with more consideration for accessibility ultimately results in our research being read and heard by more people.
+Choosing to communicate jargon-free and less technical, with more consideration for accessibility ultimately results in our research being read and heard by more people.
 This includes writing your papers, guidelines and documentation simply and jargon-free.
 This also includes blogging, writing lay summaries, podcasting, presenting posters and talks at conferences outside of your discipline, and using social media.
-This can involves translating technical scientific writing into different styles that make your research more accessible to specialists outside of your specific discipline and also to the wider public.
-We also describe different communication channels you can select for your porject to enable collaboration with your team or community members.
+This can involve translating technical scientific writing into different styles that make your research more accessible to specialists outside of your specific discipline and also to the wider public.
+We also describe different communication channels you can select for your project to enable collaboration with your team or community members.
 
 We present several case studies from groups and individuals that have successfully used these methods of communication.
 They describe how they have practically gone about doing the communication method and offer some tips for others to get started.
 You are welcome to share your personal stories and impact study in this guide.
 
 Lessons learnt in this guide will enable researchers to communicate their research more clearly with wider audiences and therefore increase its overall impact.
-Methods discussed in the guide can have considerable impact on the overall project or community in terms of gaining interest within your own scientific discipline, engaging with the wider scientific community and gaining interest from the general public.
+Methods discussed in the guide can have a considerable impact on the overall project or community in terms of gaining interest within your scientific discipline, engaging with the wider scientific community and gaining interest from the general public.

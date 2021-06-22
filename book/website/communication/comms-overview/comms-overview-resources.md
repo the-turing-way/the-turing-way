@@ -22,7 +22,7 @@ Read more in this chapter: {ref}`cm-blogs`.
 ### Some of our favourite blogs
 * Dr Veronika Cheplygina's [How I fail series](https://veronikach.com/failure/)
 * [Software Sustainability Institute Blog](https://www.software.ac.uk/blog)
-* [Open Working](https://openworking.wordpress.com/) by from 4TU.ResearchData & TU Delft Library. Uses wordpress.
+* [Open Working](https://openworking.wordpress.com/) by from 4TU.ResearchData & TU Delft Library. Uses WordPress.
 * [Metadocencia](https://metadocencia.netlify.app/post/) - This is in Spanish but you can also read it in English [here](https://metadocencia.netlify.app/en/post/).
 
 (cm-comms-overview-resources-lay)=
@@ -30,7 +30,7 @@ Read more in this chapter: {ref}`cm-blogs`.
 
 Read more in this chapter: {ref}`cm-lay-summaries`.
 
-* Good example of how an abstract can be changed into a lay summary - [Perfecting that lay summary](https://bitesizebio.com/10871/perfecting-that-lay-summary/).
+* Good example of how abstract can be changed into a lay summary - [Perfecting that lay summary](https://bitesizebio.com/10871/perfecting-that-lay-summary/).
 
 **Readability tests:**
 * [Hemingway app](http://www.hemingwayapp.com/)
@@ -83,7 +83,7 @@ Read more in this chapter: {ref}`cm-social-media`.
 
 * [Tweetdeck](https://tweetdeck.twitter.com/)
 * [Buffer](https://buffer.com/)
-* This is a good [guide to getting set up on twitter](https://www.wired.com/story/how-to-setup-twitter-search-hashtag-and-login-help/).
+* This is a good [guide to getting set up on Twitter](https://www.wired.com/story/how-to-setup-twitter-search-hashtag-and-login-help/).
 * [Ten simple rules to getting started on Twitter as a scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513)
-* [Ten simple rules of live tweeting at scientific conferences](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003789)
+* [Ten simple rules of live-tweeting at scientific conferences](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003789)
 * [How to use Twitter to further your research career](https://www.nature.com/articles/d41586-019-00535-w)
