@@ -475,7 +475,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * Role: Book Dash 2021 participant
 * GitHub id: marianaiv
 
-* Short bio:  
+* Short bio:
 > I'm an undergrad physics student at the Central University of Venezuela. Working on my thesis and trying to do it reproducible.
 
 * Personal highlights:
@@ -807,7 +807,7 @@ Details of each members with their contributions have been listed alphabetically
 * Personal highlights:
 > I have personally contributed to _The Turing Way_ by drafting chapters in the guide for Reproducible Research, reviewed other contributor's Pull Requests and mentored contributions from Netherlands eScience Center.
 
-(aw-contributors-record-contributors)=
+(contributors-record-contributors)=
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):

@@ -4,7 +4,7 @@
 (cm-comms-overview-resources-accessibility)=
 ## Accessibility
 
-Read more in this chapter: {ref}`cm-comms-overview-principles-accessibly`.
+Read more in this chapter: {ref}`cm-comms-overview-accessibly`.
 
 * [Ability Net](https://abilitynet.org.uk/) for guides to making your documents more accessible.
 * [Contrast calculator](https://contrastchecker.com/) is a good website to freely check if you meet the Web Content Accessibility Guidelines (WCAG) ratings.

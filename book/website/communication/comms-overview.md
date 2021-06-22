@@ -11,14 +11,10 @@ Communication methods described here can be used for establishing efficient ways
 ```{figure} ../figures/communication-styles-with-text.jpg
 ---
 name: Communicating with wider audiences
-alt: Two people sitting working.
-One using a feather and scroll with the words inaccessible and too technical written on the scroll.
-The other person sitting at a computer with different communication methods coming out of the computer including blogs, podcasts, lay summaries and social media.
-There are also dictionaries for foreign languages showing that it is important to translate our research into different languages.
-Accessibility is written on the computer screen.
+alt: Two people sitting working. One using a feather and scroll with the words inaccessible and too technical written on the scroll. The other person sitting at a computer with different communication methods coming out of the computer including blogs, podcasts, lay summaries and social media. There are also dictionaries for foreign languages showing that it is important to translate our research into different languages. Accessibility is written on the computer screen.
 ---
 Illustration about communicating with a wider audience.
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.¶
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
 ```
 
 (cm-comms-overview-jargons)=
