@@ -65,4 +65,4 @@ I'm also thinking about compressing some of the information into a book for exam
 
 It's like running, it's better to just start and go regularly, instead of waiting until you have professional shoes.
 
-*This interview was conducted by Emma Karoune and Maria Nanton*
+*This interview was conducted by Emma Karoune*
