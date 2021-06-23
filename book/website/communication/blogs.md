@@ -37,9 +37,9 @@ Next, you need to consider where your blog is going to be.
 
 * If you have never made a website before, it is not as hard as it sounds.
 * There are lots of free and easy options for this but it does depend on your computer skills.
-* See the next sub-chapter (ADD LINK) about how to build a webpage for a blog.
+* You could practice writing blog posts and put them on existing blogging sites (your institution may already have one) before building your own.
 
-We discuss this in detail in the subchapte {ref}`cm-blogs-webpage`.
+We discuss this in detail in the subchapter {ref}`cm-blogs-webpage`.
 
 ## Writing Your First Post
 
