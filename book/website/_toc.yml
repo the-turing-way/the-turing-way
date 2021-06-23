@@ -270,12 +270,12 @@
     sections:
     - title: Building a Webpage for Blogs
       file: communication/blogs/blogs-webpage
-    - title: Resources and Recommendations
+    - title: Personal stories - Blogs
       file: communication/blogs/blogs-personal-stories
   - title: Lay Summaries
     file: communication/lay-summaries
     sections:
-    - title: Personal Stories - Blogs
+    - title: Personal Stories - Lay summaries
       file: communication/lay-summaries/lay-summaries-personal-stories
   - title: Podcasts for Research Communication
     file: communication/podcasts
