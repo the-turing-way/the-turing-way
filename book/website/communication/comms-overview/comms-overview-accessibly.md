@@ -29,7 +29,7 @@ Also, consider what format is best for screen readers.
 These include being able to add alt text to any images and using the specific headings to help a screen reader move to different sections.
 * Microsoft Office has an accessibility checker so you can easily run this feature when your document or presentation is completed and make adjustments.
 * For more information about accessibility see [Ability Net](https://abilitynet.org.uk/) and their [guide to creating accessible documents](https://abilitynet.org.uk/factsheets/creating-accessible-documents-0).
-* There is also a useful [blog about alternative text](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text)
+* There is also a useful [blog about alternative text](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text).
 
 ## Language Translation
 
