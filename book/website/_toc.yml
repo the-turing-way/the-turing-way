@@ -363,6 +363,15 @@
     file: ethical-research/ethics-case-study
   - title: Ethical Decisions in Preclinical Research
     file: ethical-research/preclinical-research
+  - title: Law, Policy and Human Rights in Ethics
+    file: ethical-research/law-policy
+    sections:
+    - title: Ethics and law
+      file: ethical-research/law-policy/law-policy-ethics
+    - title: Human rights
+      file: ethical-research/law-policy/law-policy-rights
+    - title: Further Recommendations
+      file: ethical-research/law-policy/law-policy-resources
   - title: Activism for Researchers
     file: ethical-research/activism
     sections:
@@ -375,7 +384,7 @@
     - title: Case study - Google Workers
       file: ethical-research/activism/activism-case-study-google.md
   - title: Internal Policy Advocacy
-    file: ethical-research/activism-internal-policy
+    file: ethical-research/internal-policy
 
 # ===== Community Handbook Guide ========================================
 

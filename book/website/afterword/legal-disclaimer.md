@@ -1,3 +1,4 @@
+(legal-disclaimer)=
 # Legal disclaimer: The Turing Way is not legal advice!
 
 _The Turing Way_ is a lightly opinionated guide to reproducible research. 
