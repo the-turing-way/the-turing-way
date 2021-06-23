@@ -162,7 +162,7 @@ Todo lo que tiene que ver con hacer enseñar, difundir, comunicar, transferir co
 
  ## 2. ¿Qué aspectos tenés que atender a la hora de pensar un evento con charlas muy interdisciplinarias?
 
-Creo que lo principal es conocer a tu audiencia previamente. Se les puede preguntar a los organizadores del evento a quienes les vas a hablar, cuál es su background, cuál es la razón por la que vienen al evento, etc., ya que, de esa manera, se puede prever algunas de las expectativas que van a tener e intentar, por lo menos, cumplir alguna en tu charla. 
+Creo que lo principal es conocer a tu audiencia previamente. Se les puede preguntar a los organizadores del evento a quienes les vas a hablar, cuál es su background, cuál es la razón por la que vienen al evento, ya que, de esa manera, se puede prever algunas de las expectativas que van a tener e intentar, por lo menos, cumplir alguna en tu charla. 
 
 Asimismo, comienzo la charla con una actitud descontracturada para que el público sienta que, a pesar de que estoy ahí como experta, soy accesible a la hora de los comentarios y preguntas. Después de todo, este tipo de encuentros e intercambios se realizan para que las personas se lleven algo, aprendan algo. 
 
@@ -172,7 +172,7 @@ Ese es otro punto a tener en cuenta, el respeto por el tiempo del otro y prepara
 
 El respeto por cumplir los tiempos, también es importante, tanto para vos, el público y el resto de los oradores.
 
-Es necesario estar bien informado sobre el formato de la charla:  cantidad de tiempo de la charla, formato (ej: se expone y las preguntas al final, se puede ir haciendo preguntas durante la charla, cuánto tiempo de preguntas o intercambios se esperan, etc.), ¿hay libertad en el formato o es estructurado?. 
+Es necesario estar bien informado sobre el formato de la charla:  cantidad de tiempo de la charla, formato (ej: se expone y las preguntas al final, se puede ir haciendo preguntas durante la charla, cuánto tiempo de preguntas o intercambios se esperan), ¿hay libertad en el formato o es estructurado?. 
 
 En general, si hay libertad en el formato de la charla, pido que me dejen interactuar con el público. Me gusta hacer preguntas y que me contesten en el chat, los hace parte del evento. Luego, leo las respuestas y, a pesar de que el slide es el mismo, lo que voy a decir va a ser diferente dependiendo de las respuestas que consiga. Si el formato es estructurado respeto las instrucciones de la organización, que en general es una introducción de la disertante, la presentación y luego las preguntas. 
 
@@ -192,7 +192,7 @@ Creo que es un rol muy importante que poseemos las personas que ya tenemos vario
 Por otra parte, me ayuda a mejorar mis charlas, mis materiales (muchos de ellos terminan en algún tipo de publicación más académica) y a tomar el pulso de cuáles son las necesidades, dudas o inquietudes de las personas con respecto al tema que estoy comunicando. 
 Eso me sirve como un termómetro de la demanda, de lo que las personas están necesitando; de lo que no se está entendiendo; de los temas que están haciendo falta tener una capacitación, libros, blogs o materiales; para reafirmar o corregir la dirección de mi trabajo. 
 
-Esto puede terminar en la presentación de una propuesta de proyecto nuevo, la búsqueda de un financiamiento para ese proyecto, etc.
+Esto puede terminar en la presentación de una propuesta de proyecto nuevo, la búsqueda de un financiamiento para ese proyecto.
 
 Por último, se aprende muchísimo, sobre otros temas, sobre otras profesiones, sobre otras personas y otros países. 
 En los eventos, muchas veces escuchás la charla de otras personas que están invitadas y aprendes de ellas. Además, te enteras de proyectos, accedes a la información y se te pueden presentar otras posibilidades para vos o para grupos de trabajos que conozcas. 
@@ -224,7 +224,7 @@ Por eso es clave conocer a tu audiencia, porque podés saber en qué apoyarte al
 
 Estamos hablando de charlas que se dan en eventos comunitarios. En general, yo los doy sin costo y los materiales son abiertos, pero si una empresa te invita, que no te de vergüenza ni miedo cobrar por las mismas en el caso de que eso, después, reditúe económicamente a quien te invita. 
 
-Yo tampoco hago gastos de mi bolsillo si me invitan a dar una charla; esto significa que los costos de viajes, inscripción, etc. corren por cuenta del organizador. Si tus charlas tienen mucha demanda, el manejo de los costos por parte del organizador, te ayuda a decidir. Asimismo, nunca hay que entregar la propiedad intelectual de tu material a quien haga el evento, pero si te piden que la entregues y vos estás de acuerdo, cobrales muy bien. 
+Yo tampoco hago gastos de mi bolsillo si me invitan a dar una charla; esto significa que los costos de viajes, inscripción, corren por cuenta del organizador. Si tus charlas tienen mucha demanda, el manejo de los costos por parte del organizador, te ayuda a decidir. Asimismo, nunca hay que entregar la propiedad intelectual de tu material a quien haga el evento, pero si te piden que la entregues y vos estás de acuerdo, cobrales muy bien. 
 
 En mi caso, las charlas que doy tienen que ver con Ciencia de Datos, con Agro y con comunidades de práctica.  
 Si me invitan a dar una charla como investigadora de INTA tampoco cobro, porque es parte de mi trabajo.  
