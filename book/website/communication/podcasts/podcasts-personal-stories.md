@@ -89,4 +89,4 @@ The podcast is part of the Orion open science project and this will end in Septe
 
 **Emma** - I guess to try and innovate, the podcast format can be quite similar to look at how radio programming has presented the material in different ways for inspiration. Find a unique content or format!
 
-*This interview was conducted by Emma Karoune and Maria Nanton.*
+*This interview was conducted by Emma Karoune.*
