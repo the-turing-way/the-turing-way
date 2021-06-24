@@ -36,3 +36,21 @@ Presenting a talk through a digital medium involves tackling some technical chal
 
 * The simplest way to record the contents of your talk, including your video, voice and presentation, is to record it using a videoconference service (like Zoom) or recording software like [OBS](https://obsproject.com). See [this guide](https://software.ac.uk/fellowship-programme/2019/application-video-guide) by the Software Sustainability Institute on how to configure OBS for screen recording.
 * If you are recording your talk to present it asynchronously you can use platforms like [Amara](https://amara.org) to generate your subtitles from the video.
+
+## What to expect if you are invited to give a talk
+
+In some instances you might be invited to give a talk, and in the now virtual academic world we live in, this is likely to be something you do for free for non-profit organisations. 
+It is beneficial for you from a career progression and also a research impact perspective to give talks at different insitutions and events. 
+
+However, you may be offered an honoraria for giving an invited talk - this is a payment that covers the talk preparation and any other costs such as travel and accommodation. 
+How much you are offered will vary depending on the organisation and also the status of the talk, for example you might be offered more for being a keynote speaker at a large conference. 
+
+Many academics are never offered or do not accept honoraria payments but we need to keep in mind that this is not a good situation for all. 
+To have an diverse and inclusive academic community we need to be aware that not all researchers can afford to dedicate the time or have the money to cover the cost of giving an invited talk. 
+Therefore, the offer of honoraria to give all the ability to do talks must be considered.
+
+For more information about giving invited talks see these blogs:
+* [Speaking as an Academic: What to expect when you are invited to share your work](http://getalifephd.blogspot.com/2017/04/speaking-as-academic-what-to-expect.html)
+
+
+
