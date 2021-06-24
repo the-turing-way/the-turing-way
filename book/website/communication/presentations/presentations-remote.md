@@ -39,15 +39,15 @@ Presenting a talk through a digital medium involves tackling some technical chal
 
 ## What to Expect from Speaking Invitation
 
-If you have recently published a research object (like a scientific paper, software, app, or blog), or if you are known for your expertise in your field, you likely get invited to give a talks at public forums, panels and conference sessions.
-It could also be something you do upon request, for example, for graduate schools where young researchers can learn from your research work and your career path.
+If you have recently published a research object (like a scientific paper, software, app, or blog), or if you are known for your expertise in your field, you likely get invited to give talks at public forums, panels and conference sessions.
+It could also be something you do upon request, for example, for graduate schools where young researchers can learn from your research work or career path.
 It is beneficial for your career progression as more people get to know you, learn about your work and establish collaborations.
 By giving talks at different insitutions and events you can receive timely feedback on your progress and improve the quality and impact of your research.
-For event organisers, having skilled experts delivering a talk can translate into the popularity of their events where participants are given opportunities to exchange ideas and advance their skills.
+For event organisers, inviting (relatively) known experts as speakers translates into the popularity of their events where participants are given opportunities to exchange ideas and advance their skills.
 
 ### Honoraria for Delivering a Talk
 
-> Honoraria essentially recognises speaker's work by recompensing for their time and expertise invested in developing and delivering a talk.
+> Honoraria recognises speaker's work by recompensing for their time and expertise invested in developing and delivering a talk.
 
 An invited talk is often expected to be delivered for free as it benefits both the organisers and the speakers.
 However, it is not a fair situation for all, especially when people have personal financial needs, or if they are self funded.
@@ -63,8 +63,8 @@ Also, see [Fix the Gap](https://500womenscientists.org/fix-the-gap) project by '
 
 ### Speaker Rider for Invited Talks
 
-For researchers who get invited to several events, it is useful to craft a speaker rider, a framework or list of your expectations from an event where you would like deliver an invited talk.
-It allows speakers to evaluate if speaking at an event aligns with their personal goals, however, ot has a specific role in encouraging organisers to make necessary amendments and arrangements to make sure that their event meets your speaker rider, making it attractive for you to consider giving an invited talk. 
+For researchers who get invited to several events, it is useful to craft a speaker rider, a framework or list of their expectations from an event where they would like deliver an invited talk.
+It allows speakers to evaluate if speaking at an event aligns with their personal values, however, it has a specific role in encouraging organisers to make necessary amendments and arrangements to make sure that their event meets the speaker rider, making it attractive for experts to consider giving an invited talk. 
 
 In open source space, [Tatiana Mac's Speaker Rider](https://gist.github.com/tatianamac/493ca668ee7f7c07a5b282f6d9132552) is highly cited and reused to make the open source events more inclusive, accessible and beneficial for the historically excluded and marginalised communities.
 
