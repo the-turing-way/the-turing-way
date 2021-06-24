@@ -228,7 +228,7 @@ Yo tampoco hago gastos de mi bolsillo si me invitan a dar una charla; esto signi
 
 En mi caso, las charlas que doy tienen que ver con Ciencia de Datos, con Agro y con comunidades de práctica.  
 Si me invitan a dar una charla como investigadora de INTA tampoco cobro, porque es parte de mi trabajo.  
-Cuando me invitan a dar una charla por mi trabajo en las comunidades de práctica o no relacionado con INTA, si son de universidades públicas, de grupos como R-Ladies, para eventos y conferencias gratuitos, etc, las hago como una forma de devolver gran parte de lo que recibí. 
+Cuando me invitan a dar una charla por mi trabajo en las comunidades de práctica o no relacionado con INTA, si son de universidades públicas, de grupos como R-Ladies, para eventos y conferencias gratuitos, las hago como una forma de devolver gran parte de lo que recibí. 
 
 Vivo en un país que me permitió educarme con un sistema que lo mantenemos entre todos, y dar este tipo de capacitaciones es una forma de retribución. Hoy en día, tengo suficiente privilegio como para poder realizar este tipo de actividades sin cobrar; no todo el mundo puede, y tampoco se tienen que sentir obligadas. 
 
