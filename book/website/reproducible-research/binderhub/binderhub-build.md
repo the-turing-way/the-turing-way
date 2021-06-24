@@ -1,9 +1,10 @@
+(rr-binderhub-build)=
 # Build your own BinderHub
 
 [mybinder.org](https://mybinder.org/) is the free, public BinderHub that hosts almost 100k Binder launches per week.
 Why might you want to build your own?
 
-Binder is an open source project maintained by volunteers and as such they ask that users stay within certain computational limitations in order to keep running costs as low as possible whilst still providing a usable service.
+Binder [{term}`def<Binder>`] is an open source project maintained by volunteers and as such they ask that users stay within certain computational limitations in order to keep running costs as low as possible whilst still providing a usable service.
 By hosting your own BinderHub, you can offer your users much more flexible and tailored resources.
 
 These customisations could include:

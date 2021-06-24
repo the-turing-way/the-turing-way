@@ -1,16 +1,23 @@
 (rr-overview-benefits)=
 # Added Advantages
 
-In the section, we discussed the different aspects of reproducible research that are beneficial for the scientific community.
+In the {ref}`rr-overview-definitions` section, we discussed the different aspects of reproducible research that are beneficial for the scientific community.
 In this chapter, we will share some less obvious aspects of working reproducibly for individual researchers and teams.
 
-![Why we should care about working reproducibly](../../figures/reasons_reproducibility.png)
+
+```{figure} ../../figures/reasons-reproducibility.png
+---
+name: reasons-reproducibility
+alt: Why we should care about working reproducibly.
+---
+An illustration of reasons why we should care about working reproducibly.
+```
 
 **1. Track a complete history of your research**
 
 Reproducible research must contain a complete history and narrative (also known as [Provenance](https://en.wikipedia.org/wiki/Provenance)) of the project planning and development process.
 This includes information on the data, tools, methods, codes, and documentation used in the research project.
-By storing a complete track-record of our work, we can ensure research sustainability, fair citation/acknowledgment, and usefulness of our and others' work in our research fields.
+By storing a complete track-record of our work, we can ensure research sustainability, fair citation/acknowledgement, and usefulness of our and others' work in our research fields.
 
 **2. Facilitate collaboration and review process**
 
@@ -21,7 +28,7 @@ Reproducible workflows facilitate the peer review process tremendously by allowi
 **3. Publish validated research and avoid misinformation**
 
 Lack of reproducibility is one of the major factors that lead to paper retractions (source [Retraction Watch](https://retractionwatch.com/)).
-The best-known analyses of scientific literatures in psychology {cite}`Begley2012` and cancer biology {cite}`OpenScienceCollaboration2015Reproducibility` found the reproducibility rates of their research output of around 40% and 10%, respectively.
+The best-known analyses of scientific literature in psychology {cite}`Begley2012` and cancer biology {cite}`OpenScienceCollaboration2015Reproducibility` found the reproducibility rates of their research output of around 40% and 10%, respectively.
 By working reproducibly, we can develop validated research work, avoid misinformation that can limit replicability of our work and publish accurate research outputs.
 This aspect does not only support the validity of the current work, but any future studies that are based on reproducible research {cite}`MozillaScienceLab`.
 
@@ -32,7 +39,7 @@ If working in a team, collaborators can easily get recognition in terms of autho
 
 **5. Get credits for your work fairly**
 
-Applying reproducibility practices separately on different parts of the project such as data, independently executable codes and scripts, protocols, and reports allows other researchers to test and reuse our work in their research, and brings fair recognition for our work.
+Applying reproducibility practices separately on different parts of the project such as data, independently executable codes and scripts, protocols, and reports allow other researchers to test and reuse our work in their research and brings fair recognition for our work.
 Researchers who publish their work with the underlying information, get cited more often as their research outcome can be broadly replicated and trusted.
 This fair credit system encourages researchers to further maintain reproducibility practices in their work.
 

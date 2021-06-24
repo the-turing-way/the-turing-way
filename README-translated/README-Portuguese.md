@@ -95,9 +95,11 @@ Inscreva-se acessando <https://tinyletter.com/TuringWay>.
 Você pode entrar em contato com o gerente da nossa comunidade **Malvika Sharan** por e-mail acessando [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).  
 Alternativamente, você pode entrar em contato com o investigador principal **Kirstie Whitaker** também por e-mail acessando [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
 
-## [Contribuidores](https://github.com/alan-turing-institute/the-turing-way#contributors)
+## Contribuidores
 
 Os agradecimentos vão para essas pessoas maravilhosas ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+[Lista de pessoas que colaboraram](https://github.com/alan-turing-institute/the-turing-way#contributors)
 
 Este projeto segue a especificação [all-contributors](https://github.com/all-contributors/all-contributors).
 Contribuições de qualquer tipo são bem-vindas!

@@ -1,18 +1,3 @@
-<style type="text/css" rel="stylesheet">
-th, td {
-  border: 1px solid #999999; text-align: center; padding: 10px
-}
-th {
-  font-weight: bold; background-color: #EEEEEE
-}
-table caption {
-  color: black; text-align: center;
-}
-table caption .footnote {
-  color: #666666; text-align: left; font-size: smaller;
-}
-</style>
-
 (rr-licensing-software)=
 # Software Licenses
 
@@ -52,9 +37,9 @@ To make some sense of this variety, we can categorize them as follows.
     </tbody>
     <caption>
       <div class="footnote">
-        <sup>1</sup>GPL: GNU General Public License <sup>2</sup>CDDL: Common Development and Distribution License <sup>3</sup>LGPL: GNU Lesser General Public License <sup>4</sup> MPL: Mozilla Public License <sup>5</sup> BSD: Berkley Software Distribution <sup>6</sup> MIT: Massachusetts Instititue of Technology
+        <sup>1</sup>GPL: GNU General Public License <sup>2</sup>CDDL: Common Development and Distribution License <sup>3</sup>LGPL: GNU Lesser General Public License <sup>4</sup> MPL: Mozilla Public License <sup>5</sup> BSD: Berkeley Software Distribution <sup>6</sup> MIT: Massachusetts Institute of Technology
       </div>
-      Licenses can either be Free or Propietary, with Free Licenses further classified as Copyleft or Permissive.
+      Licenses can either be Free or Proprietary, with Free Licenses further classified as Copyleft or Permissive.
     </caption>
 </table>
 
