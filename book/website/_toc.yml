@@ -249,8 +249,10 @@
       file: project-design/project-repo/project-repo-readme
     - title: Roadmapping
       file: project-design/project-repo/project-repo-roadmapping
-    - title: Contribution Guidelines
-      file: project-design/project-repo/project-repo-contributing
+    - title: Contributors and Communication Pathways
+      file: project-design/project-repo/project-repo-contributors
+    - title: Participation Guidelines
+      file: project-design/project-repo/project-repo-participation
     - title: Further Recommendations
       file: project-design/project-repo/project-repo-recommendations
   - title: Code Styling and Linting

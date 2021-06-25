@@ -10,7 +10,7 @@
 
 ## Summary
 
-This chapter introduces a step-by-step guide on how to set up a project repository. 
+This chapter introduces a step-by-step guide on how to set up a project repository.
 This chapter includes examples of GitHub repository hosted and maintained by researchers in open science, however, the principles are applicable to any team-led online repository.
 Open science practices described here will also make it easier for you to lead closed-source projects collaboratively and transparently for your teams.
 
@@ -23,15 +23,16 @@ It is also an opportunity to get your ideas across to new or potential contribut
 In this chapter, we have described following documents that should be added to a project repository:
 - {ref}`landing page or README file<pd-project-repo-readme>`
 - {ref}`Roadmapping<pd-project-repo-roadmapping>`
-- {ref}`Contribution Guideline<pd-project-repo-contributing>` 
+- {ref}`Contribution Guideline<pd-project-repo-contributors>`
+- {ref}`Contribution Guideline<pd-project-repo-participation>`
 
-## First, Add A License 
+## First, Add A License
 
 One of the most important documents for your project is a license.
 
 ```{note}
-Without a license, all rights are with the author of the code, and that means nobody else can use, copy, distribute, or modify the work without consent. 
-A license gives this consent. 
+Without a license, all rights are with the author of the code, and that means nobody else can use, copy, distribute, or modify the work without consent.
+A license gives this consent.
 If you do not have a license for your software, it is effectively unusable by the whole research community.
 
 **See {ref}`rr-licensing` for details**
