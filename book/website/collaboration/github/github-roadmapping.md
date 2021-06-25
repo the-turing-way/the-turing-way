@@ -4,7 +4,7 @@
 If you plan a large piece of work in your project, it is a good idea to produce an outline of the work to share with your potential contributors.
 Your roadmap should cover your goal and vision and include a timeline for tasks that need to be completed, thus helping new contributors to your project to get an understanding of what is currently happening on the project and what's coming next.
 
-To create a roadmap, it is important to map out the key milestones, tasks needed to accomplish the milestones and challenges related to them helping you set milestones and schedule to work on them efficiently.
+To create a roadmap, it is important to map out the key milestones, tasks needed to accomplish the milestones and related challenges to help you allocate your resources and time to work on them efficiently.
 Milestones can be organised around your project's objectives, community events, contributors development or timeframes.
 If you work on GitHub, you can use [GitHub's Project board](https://help.github.com/en/articles/tracking-the-progress-of-your-work-with-project-boards) to manage all the tasks on issues where you provide details and collect relevant information collaboratively and openly. 
 
