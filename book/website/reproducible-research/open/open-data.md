@@ -3,7 +3,7 @@
 
 The world is witnessing a significant global transformation, facilitated by technology and digital media, and fuelled by data and information.
 This transformation has enormous potential to foster more transparent, accountable, efficient, responsive, and effective research.
-Only a very small proportion of the original data is published in conventional journals. 
+Only a very small proportion of the original data is published in conventional journals.
 Despite existing policies on archiving data, in today’s practice data are primarily stored in private files, not in secure institutional repositories, and effectively are lost to the public (and often even to the researcher who generated the data).
 
 This lack of data sharing is an obstacle to international research (be it academic, governmental, or commercial) for two main reasons:
@@ -13,15 +13,15 @@ This lack of data sharing is an obstacle to international research (be it academ
 
 Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs.
 Open data [{term}`def<Open data>`] is crucial to meeting these objectives.
-Open data is freely available on the internet. 
+Open data is freely available on the internet.
 Any user is permitted to download, copy, analyse, re-process, and re-use it for any other purpose with minimal financial, legal, and technical barriers.
 
 This represents a real shift in how research works. Funders are starting to require researchers to make their data available and submit data management plans {ref}`Data Management Plans<rr-rdm-dmp>` as part of project proposals.
 At the moment, anyone who wishes to use data from a researcher often has to contact that researcher and make a request.
 "Open by default" remedies this with a presumption of publication for all.
 If access to data is restricted, for instance, due to security reasons, the justification for this should be made clear.
-Free access to and subsequent use of data is of significant value to society and the economy. 
-That data should, therefore, be open by default and only as closed as necessary. 
+Free access to and subsequent use of data is of significant value to society and the economy.
+That data should, therefore, be open by default and only as closed as necessary.
 
 You can find more about the practical steps to make your data available in the section describing {ref}`Steps to Share your Data <rr-rdm-sharing-steps>` in the subchapter: {ref}`Sharing and Archiving Data<rr-rdm-sharing>`.
 
@@ -42,7 +42,7 @@ Below, we discuss some reasons explaining why this may be the case.
 ---
 height: 500px
 name: data-privacy
-alt: An image detailing why private data should be used. A person stands next to a well with 'private data' written on it and a padlock around it. It is black and white and blue. The text lists that 'people deserve: dignity, agency, privacy, rights, confirmed consent.'
+alt: An image detailing why private data should be used. A person stands next to a well with 'private data' written on it and a padlock around it. It is black and white and blue. The text lists that 'people deserve - dignity, agency, privacy, rights, confirmed consent.'
 ---
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. [http://doi.org/10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
 ```
@@ -51,13 +51,13 @@ _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. 
 ### Privacy And Data Protection
 
 Many fields of research involve working with sensitive personal data, with medical research being the most obvious example.
-Individuals must be protected from (re)identification via their data used for research. 
-Anonymisation of the data may be sufficient in some cases, but ensuring that (re)identification is not possible is becoming increasingly difficult due to technical progress, growing computational power, and – ironically – more open data. 
+Individuals must be protected from (re)identification via their data used for research.
+Anonymisation of the data may be sufficient in some cases, but ensuring that (re)identification is not possible is becoming increasingly difficult due to technical progress, growing computational power, and – ironically – more open data.
 For example, (re)identification may be possible via data-mining of accessible data and so-called quasi-identifiers, a set of (common) properties that are – in their combination – so specific that they can be used to identify individuals.
 
 Preserving privacy may still be possible if partial or generalised datasets are provided.
 For example, you may provide age bands instead of birth date or only the first two digits of postal codes.
-It may also be possible to provide the data in such a format that researchers can query it whilst keeping the data itself closed. 
+It may also be possible to provide the data in such a format that researchers can query it whilst keeping the data itself closed.
 For example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual data points.
 
 Many fields of scientific disciplines involve working with sensitive personal data.

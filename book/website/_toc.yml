@@ -23,8 +23,6 @@
       file: reproducible-research/overview/overview-benefit
     - title: Barriers
       file: reproducible-research/overview/overview-barriers
-    - title: Checklist
-      file: reproducible-research/overview/overview-checklist
     - title: Resources
       file: reproducible-research/overview/overview-resources
   - title: Open Research
@@ -84,8 +82,6 @@
       file: reproducible-research/licensing/licensing-compatibility
     - title: Data Licenses
       file: reproducible-research/licensing/licensing-data
-    - title: Resources
-      file: reproducible-research/licensing/licensing-resources
     - title: Checklist
       file: reproducible-research/licensing/licensing-checklist
   - title: Research Data Management
@@ -125,7 +121,7 @@
     - title: Binder
       file: reproducible-research/renv/renv-binder
     - title: Virtual Machines
-      file: reproducible-research/renv/renv-vm
+      file: reproducible-research/renv/renv-virtualmachine
     - title: Containers
       file: reproducible-research/renv/renv-containers
     - title: Checklist
@@ -153,15 +149,29 @@
   - title: Code Testing
     file: reproducible-research/testing
     sections:
-    - title: General guidance for testing
+    - title: General Guidance for Testing
       file: reproducible-research/testing/testing-guidance
-    - title: Types of tests
-      file: reproducible-research/testing/testing-types
-    - title: Challenges and exceptional cases
+    - title: Overview of Testing Types
+      file: reproducible-research/testing/testing-overview
+    - title: Smoke Testing
+      file: reproducible-research/testing/testing-smoketest
+    - title: Unit Testing
+      file: reproducible-research/testing/testing-unittest
+    - title: Integration Testing
+      file: reproducible-research/testing/testing-integrationtest
+    - title: System Testing
+      file: reproducible-research/testing/testing-systemtest
+    - title: Acceptance and Regression Testing
+      file: reproducible-research/testing/testing-acceptance-regression
+    - title: Runtime Testing
+      file: reproducible-research/testing/testing-runtime
+    - title: Test Driven Development
+      file: reproducible-research/testing/testing-driven-development
+    - title: Challenges and Exceptional Cases
       file: reproducible-research/testing/testing-exceptions
-    - title: Checklist for code testing
+    - title: Checklist for Code Testing
       file: reproducible-research/testing/testing-checklist
-    - title: Resources for code testing
+    - title: Further Recommendations
       file: reproducible-research/testing/testing-resources
   - title: Code Reviewing Process
     file: reproducible-research/reviewing
@@ -353,6 +363,15 @@
     file: ethical-research/ethics-case-study
   - title: Ethical Decisions in Preclinical Research
     file: ethical-research/preclinical-research
+  - title: Law, Policy and Human Rights in Ethics
+    file: ethical-research/law-policy
+    sections:
+    - title: Ethics and law
+      file: ethical-research/law-policy/law-policy-ethics
+    - title: Human rights
+      file: ethical-research/law-policy/law-policy-rights
+    - title: Further Recommendations
+      file: ethical-research/law-policy/law-policy-resources
   - title: Activism for Researchers
     file: ethical-research/activism
     sections:
@@ -365,7 +384,7 @@
     - title: Case study - Google Workers
       file: ethical-research/activism/activism-case-study-google.md
   - title: Internal Policy Advocacy
-    file: ethical-research/activism-internal-policy
+    file: ethical-research/internal-policy
 
 # ===== Community Handbook Guide ========================================
 

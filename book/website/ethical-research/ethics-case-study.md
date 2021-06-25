@@ -1,3 +1,4 @@
+(er-activism-case-study)=
 # Research Ethics Committees Processes
 
 Research ethics committees (RECs), also known as institutional review boards (IRBs), exist within institutions to scrutinise the ethical implications of their research projects.
@@ -23,7 +24,7 @@ The five headline questions relate with the following topics:
 4. Privacy and Security
 5. Further Societal Consequences
 
-### Project Description
+## Project Description
 >Please describe your project's goal and purpose.
 
 **Justification.** RECs will need to know what your project is about, what it is looking to achieve and why it matters.
@@ -35,7 +36,7 @@ It is just worth making sure that past descriptions of the project are updated w
 
 A more robust response to this question will also explain how the project fits within the wider goals, challenges, and objectives of your institution.
 In the case of charities, reference to your institution's "charitable objects" will be important.
-See [gov.uk](https://www.gov.uk/government/publications/example-charitable-objects) for example charitable objects.
+See [GOV.UK](https://www.gov.uk/government/publications/example-charitable-objects) for example charitable objects.
 
 To respond to this question, provide:
 1. Detailed objectives of your project;
@@ -43,7 +44,7 @@ To respond to this question, provide:
 3. A clear motivation for answering your project's question;
 4. An explanation as to how your project aligns with your institution's strategic values and aims.
 
-### Data and Methodology
+## Data and Methodology
 >Please explain what data you will use and why. Please explain how you will use these data.
 
 **Justification.** Some ethical questions that arise throughout a project will relate with the data and the research methods used.
@@ -63,7 +64,7 @@ Therefore, responding to this question requires providing:
 3. Reference to a data management plan -- consider the [Research Data Management chapter](https://the-turing-way.netlify.app/reproducible-research/rdm.html);
 4. Explanation as to how your chosen tools and methods allow for reproducible research -- consider the benefits listed in the [Added Advantages](https://the-turing-way.netlify.app/reproducible-research/overview/overview-benefit.html?highlight=method) subchapter.
 
-### Consent
+## Consent
 >How will you ensure any personal data collected for your research is done so with freely-given informed consent?
 
 **Justification.** The purpose of ensuring consent for the collection, use or reuse of personal data is to respect the autonomy of individuals and operate in line with pertinent legislation.
@@ -75,13 +76,13 @@ In the General Data Protection Regulation (GDPR), for example, *consent* is defi
 **Responding to this question** entails reflection on how data are sourced -- where they come from and who they pertain to.
 Setting the legal discussions aside, this question requires following one of two approaches:
 1. If employing data that is readily available (perhaps online or provided by a third party), it is important we understand the terms and conditions whereby those data are made available. The point here is to confirm that the data will be used following the purpose for which they were collected. In this respect, a useful subchapter in *The Turing Way* is that of [Data Licenses](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html?highlight=licen), which outlines different ways online data might be held.
-2. If gathering new data through experiments with human research subjects, both participant information sheets (PISs) and consent forms must be issued. 
-On the one hand, participant information sheets provide research participants with all the information they need to know about taking part in the study. 
-On the other hand, consent forms summarise the participant information sheet and provide a section for the potential participant to record their acceptance of the conditions. 
-The consent form, in particular, should provide contact details for participants to reach out to the research team or institution (depending on internal processes) should they have any queries or concerns about the study in the future. 
+2. If gathering new data through experiments with human research subjects, both participant information sheets (PISs) and consent forms must be issued.
+On the one hand, participant information sheets provide research participants with all the information they need to know about taking part in the study.
+On the other hand, consent forms summarise the participant information sheet and provide a section for the potential participant to record their acceptance of the conditions.
+The consent form, in particular, should provide contact details for participants to reach out to the research team or institution (depending on internal processes) should they have any queries or concerns about the study in the future.
 The UK Data Service offer templates of both documents [online](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/consent-data-sharing/consent-forms): individual institutions often also make templates available for their researchers.
 
-### Privacy and Security
+## Privacy and Security
 >How will you ensure that any sensitive information your project uses is kept secure and made accessible only to pertinent members of the research team?
 
 **Justification.** Privacy is a fundamental human right (see this [draft chapte](https://github.com/alan-turing-institute/the-turing-way/pull/1394/files?short_path=b95854e#diff-b95854e17574ab3b68f2f89991e4dddf199e01901dc8e235d87e2b0c8980a4d9) for *The Turing Way* for more on human rights).
@@ -104,7 +105,7 @@ Ultimately, this is a broad question that requires that we:
 3. Explain how data will be stored and kept secure (this can be drawn from your [data management plan](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html))
 4. Consider asking if your institution provides a secure IT environment (an example of this is the Alan Turing Institute's [Data Safe Haven](https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud))
 
-### Further Societal Consequences
+## Further Societal Consequences
 >Please describe both positive and negative potential societal consequences of your work.
 
 **Justification.** This question relates with the six dimensions of research ethics provided in [*Guide for Ethical Research*](https://the-turing-way.netlify.app/ethical-research/ethics-intro.html).
@@ -121,7 +122,7 @@ The second point relates with the actions taken to *mitigate* identified risks.
 It is not sufficient, in other words, to describe what might go wrong -- it is necessary to explain how risks will be reasonably avoided.
 
 There are two further considerations worth making when responding to this question.
-On the one hand, how will the project benefit fellow scientists? 
+On the one hand, how will the project benefit fellow scientists?
 This question, in turn, can be met by two courses of action.
 Firstly, consider how your work will be made openly accessible by following the [FAIR principles](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-fair.html?highlight=research%20cycle).
 Secondly, describe how your work might be used for *further* responsible research and innovation.
@@ -131,7 +132,7 @@ In other words, remind the REC of the benefits that are expected of your work.
 This is not to "counter" risks -- the safeguards described should do that.
 The point here is to show that ethical reflection is embedded in your project.
 
-### General suggestions for ethics applications
+## General suggestions for ethics applications
 Focusing on how to respond to each broad question, we can summarise the advice provided as follows:
 1. Be detailed in your responses -- the more the REC knows, the easier it is for them to consider a project's ethical implications.
 2. Use other documents about your project to provide information to RECs. Although documentation may need updating, using other relevant documents can make this process more straightforward. Such documents might be grant proposals, data management plans, data protection impact assessments...
