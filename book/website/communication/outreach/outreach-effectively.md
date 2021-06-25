@@ -3,7 +3,7 @@
 
 We should communicate and coordinate effectively with different audiences in an accessible and diverse way: journalists, the general public, industry partners, data scientists from different teams {cite}`NationalAcademiesofSciences2016comms`.
 
-## Researcher versus Journalist
+## Science Writing versus Science Journalism
 
 Effective communication to a wider audience requires changing your style to be less like a researcher and more like a journalist.
 Researchers are trained to communicate with each other generally by first outlining the background of the problem, including references to previous work and the outstanding challenges, followed by a thorough description of the methodology before finally presenting results and discussing the implications of those results.
