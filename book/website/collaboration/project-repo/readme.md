@@ -1,4 +1,4 @@
-(cl-project-repo-readme)=
+(pd-project-repo-readme)=
 # Creating Landing Page - README File
 
 A landing page is one of the most important documents for your project as it is the first thing new visitors to your project repository will see.
