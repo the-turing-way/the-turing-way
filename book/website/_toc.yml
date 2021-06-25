@@ -232,6 +232,17 @@
       file: project-design/persona/persona-contributors
   - title: File Naming Convention
     file: project-design/filenaming
+  - title: Creating A Project Repository
+    file: project-design/project-repo
+    sections:
+    - title: Landing Page - README File
+      file: project-design/project-repo/project-repo-readme
+    - title: Roadmapping
+      file: project-design/project-repo/project-repo-roadmapping
+    - title: Contribution Guidelines
+      file: project-design/project-repo/project-repo-contributing
+    - title: Further Recommendations
+      file: project-design/project-repo/project-repo-recommendations
   - title: Code Styling and Linting
     file: project-design/code-styling
     sections:
@@ -282,17 +293,6 @@
       file: collaboration/github-novice/github-novice-features
     - title: Advanced Github features
       file: collaboration/github-novice/github-novice-advanced
-  - title: Collaborating on GitHub
-    file: collaboration/github-collaboration
-    sections:
-    - title: README and Project Communication
-      file: collaboration/github/github-readme
-    - title: Roadmapping
-      file: collaboration/github/github-roadmapping
-    - title: Getting Contributors
-      file: collaboration/github/github-contributors
-    - title: Checklist and resources
-      file: collaboration/github/github-resources
   - title: Maintainers and Reviewers on GitHub
     file: collaboration/maintain-review
     sections:

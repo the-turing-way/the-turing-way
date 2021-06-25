@@ -1,5 +1,5 @@
 (pd-project-repo-contributing)=
-# Contributors and Contribution Guideline
+# Contribution Guidelines
 
 Your project is likely to be better if what you create is used by others and they share their ideas and feedback to add new features or improvements.
 When designing your project, the Goals and aims are as important as their contributors.
@@ -12,13 +12,13 @@ The working relationships you establish with your contributors by welcoming them
 ## Identifying Your Contributors
 
 Most collaborations in community projects are established and maintained with the contributors.
-Effective collaboration means that all contributors are given the possibility to combine their diverse perspectives and skills to create meaningful resources. 
+Effective collaboration means that all contributors are given the possibility to combine their diverse perspectives and skills to create meaningful resources.
 They contribute to the project in various ways, for example by developing documentation or code, fixing bugs, suggesting new features or supporting others.
 
 To make sure that you target a diverse set of collaborators, start by designing {ref}`Persona<pd-persona>` for your project.
 
 ```{note}
-A persona is a detail of an imaginary user or member, based on real-world observations and understandings of existing members or potential future members. 
+A persona is a detail of an imaginary user or member, based on real-world observations and understandings of existing members or potential future members.
 It is meaningful when paired with pathways through which these personas engage with a project.
 ```
 
@@ -73,8 +73,8 @@ Codes of Conduct serve two main purposes:
 * Outlining the process by which problems or violations of the guidelines will be addressed and who will be in charge of enforcing the Code of Conduct.
 
 We should also provide clear guidelines for how to process incidents if something happens, from reporting to enforcement.
-It is very important to enforce the CoC, the only thing that is worse than not having one, is not enforcing it. 
-By prominently displaying and practising these guidelines, you can ensure that social behaviour expectations are modelled and encouraged among all participants, including the project leadership. 
+It is very important to enforce the CoC, the only thing that is worse than not having one, is not enforcing it.
+By prominently displaying and practising these guidelines, you can ensure that social behaviour expectations are modelled and encouraged among all participants, including the project leadership.
 
 You can create your own CoC by using the following process:
 * Brainstorm core words that represent community values
