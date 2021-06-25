@@ -13,9 +13,9 @@ You can use social media to communicate with many different groups both academic
 * Doesn’t cost anything as most accounts can be set up and run for free.
 Although, maintaining a social media account successfully can be time-consuming.
 * Provides an insight into the impact that you are having in terms of followers, visits and downloads.
-* Increases visits to your website and affect search rankings.
+* Increases visits to your website and affects search rankings.
 * You can find out about what others are doing in related projects, disciplines or organisations.
-* You can build relationships and hopefully collaborations through these networks.
+* You can build relationships, and hopefully collaborations, through these networks.
 
 (cm-social-media-platforms)=
 ## Social Media Platforms
@@ -34,10 +34,10 @@ It has become the communication channel of choice for many researchers and is op
 
 Twitter can be used to build up a personal academic profile, for use throughout a research project and can also be used by organisations to promote their work and message.
 It can make research more visible and understandable to wider communities by allowing non-scientists to find new research instantaneously.
-Scientists can also be contacted directly by the public, which enables a more approachable level of communication.
+Scientists can also be contacted directly by the public, which enables a more approachable level of communication {cite}`Kelesidou2021scicomm`.
 
 Due to its popularity and wide range of uses for academic purposes, the next two sub-chapters focus on using Twitter.
-However, below are some tips for using the other popular general social media sites like Linkedin, Facebook and Instagram.
+However, below are some tips for using the other popular general social media sites - Linkedin, Facebook and Instagram.
 
 ### Linkedin
 
@@ -46,7 +46,7 @@ However, below are some tips for using the other popular general social media si
 * Character limit is larger than Twitter at 63,206.
 * You can tag others in your posts.
 * You can add links, photos (size 1200 x 628 pixels) and videos (max 10 minutes) in posts.
-* It is used as an interactive CV, for recruitment and professional networking
+* It is used as an interactive CV, for recruitment and professional networking.
 * Keeping posts brief is a good idea.
 * You can target a particular sector or industry.
 * If you have no image for your post but do have a link, it will make a preview of the link so make sure the page you are linking to is up to date and has a relevant image.
