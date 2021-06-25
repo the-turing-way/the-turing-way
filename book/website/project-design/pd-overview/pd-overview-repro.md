@@ -5,22 +5,22 @@ Good communication from collaboration practices are complementary to research re
 In _The Turing Way_, we consider them essential for research reproducibility and provide separate guides for {ref}`communication<cm>` and {ref}`collaboration<cl>`.
 You can visit specific chapters to gain an in-depth understanding and evaluation of which practices meet the specific requirements in your project.
 
-Here, we provide a non-exhaustive list of ways to ensure that you, and everyone else, understand (and communicate about) what the project is about, who the stakeholders are and they can collaborate.
+Here, we provide a non-exhaustive list of ways to ensure that you, and everyone else, understand (and communicate about) what the project is about, who the stakeholders are and how they can collaborate.
 
 - Document all practices to ensure everyone is on the same page (literally!).
 Provide all documentation in a centralised, findable and accessible location.
 - State vision, goals and milestones clearly. Provide what the expected outcomes and deliverables are.
-- Highlight different stakeholders with their roles, skills, interest and contact (when possible)
+- Highlight different stakeholders with their roles, skills, interest and contact details (when possible)
 - Describe what opportunities for collaboration different members will have.
-If possible (such as in an open source project), encourage people to be involved in the project.
+If possible (such as in an open source project), encourage people outside the project to be involved.
 - Provide details for those outside the current group who you might want to invite.
 Describe how new members from a variety of different backgrounds and skills can start contributing
   - Provide clear ways for contributions, review, management, mentoring and support.
-- Provide an overview of how different contributions or resources are connected and how new contributions fit smoothly into existing material.
-  - Describe the possible expansion of features in pre-determined and agreed on ways at stages beyond the initial implementation.
+- Provide an overview of how different contributions or resources are connected and how new contributions will fit into existing materials.
+  - Describe the possible expansion of features in pre-determined and agreed ways at stages beyond the initial implementation.
 - Provide a decision-making framework to facilitate discussions and reaching to a common conclusion.
 In the context of software, coding projects are as much about communication as it is about coding (if not more).
-  - Allow informed discussions when a particular project design has reached the end or when it is useful to update it for efficiency and sustainability
+  - Allow informed discussions when a particular project design has reached the end or when it is useful to update it for efficiency and sustainability.
 - Provide overarching as well as short-term goals and describe expected outcomes to help contributors move away from focusing on a single idea of the feature.
 - Provide resources on ways of working to ensure fair participation of stakeholders who collaborate on short- and long-term milestones within the project.
   - It reduces or addresses concerns about project's progress towards meeting goals and prevent potential fallout between project stakeholders.
