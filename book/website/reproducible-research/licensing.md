@@ -28,5 +28,5 @@ If you do not have a license for your software, it is effectively unusable by th
 Good legal advice is timely, specific, and given by an expert; this chapter is none of these.
 It was written by an engineer, not by a lawyer, and it is a heavily simplified overview of a very complex field.
 The intent is to give you an overview of the basics so that you will know when to check whether something you want to do has potential legal ramifications.
-Do not make any important decisions based solely on the contents of this chapter.*
+Do not make any important decisions based solely on the contents of this chapter.
 ```
