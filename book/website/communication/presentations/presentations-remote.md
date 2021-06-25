@@ -65,7 +65,7 @@ Also, see [Fix the Gap](https://500womenscientists.org/fix-the-gap) project by '
 
 A Speaker rider is a framework for speakers to list their expectations from events where they would consider giving an invited talk.
 Speaker riders allow speakers to evaluate if speaking at an event aligns with their objectives and values.
-Most importantly, it has a specific role in encouraging organisers to make necessary arrangements to make sure that their event meets certain standards making it accessible and inclusive for a diverse audience.
+Most importantly, it has a specific role in encouraging organisers to make necessary arrangements to ensure inclusion and accessibility for a diverse audience.
 
 In open source space, [Tatiana Mac's Speaker Rider](https://gist.github.com/tatianamac/493ca668ee7f7c07a5b282f6d9132552) is highly cited and reused to make the open source events more accessible and beneficial for the historically excluded and marginalised communities.
 
