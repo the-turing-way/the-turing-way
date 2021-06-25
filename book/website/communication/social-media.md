@@ -27,7 +27,7 @@ There are similar benefits to using Academia.edu or Mendeley, although they are 
 
 A regular criticism of these sites is the spamming of your email with constant updates that are hard to turn off.
 
-More general social media sites are very popular with academic audiences and a recent Nature survey {cite}`Nature2014social` highlighted that researchers mostly use Twitter and Linkedin for professional use rather than Facebook.
+More general social media sites are very popular with academic audiences and a recent Nature survey {cite}`Noorden2014social` highlighted that researchers mostly use Twitter and Linkedin for professional use rather than Facebook.
 
 This survey also showed that Twitter had a wider range of uses compared to the other social media platforms, such as following discussions, posting work content, discovering peers, discovering recommended papers and commenting on others research.
 It has become the communication channel of choice for many researchers and is opening up research discussions at a much earlier stage than previously seen.
