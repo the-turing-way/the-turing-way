@@ -8,9 +8,9 @@ However, there is much more scope to plan communication in a research project to
 In this guide, we present tools, methods and recommendations for communicating our research with wider audiences.
 Communication methods described here can be used for establishing efficient ways to work with your collaborators, share different research objects with your users or readers as well as increase the breadth of the audience for your research or community.
 
-```{figure} ../figures/communication-styles-with-text.jpg
+```{figure} ../figures/communication-styles.jpg
 ---
-name: Communicating with wider audiences
+name: communication-styles
 alt: Two people sitting working. One using a feather and scroll with the words inaccessible and too technical written on the scroll. The other person sitting at a computer with different communication methods coming out of the computer including blogs, podcasts, lay summaries and social media. There are also dictionaries for foreign languages showing that it is important to translate our research into different languages. Accessibility is written on the computer screen.
 ---
 Illustration about communicating with a wider audience.
