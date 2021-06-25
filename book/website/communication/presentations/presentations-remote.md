@@ -47,7 +47,7 @@ For event organisers, inviting experts as speakers can increase the popularity o
 
 ### Honoraria for Delivering a Talk
 
-> Honoraria recognises the speaker's work by recompensating them for the time and expertise they invested in developing and delivering a talk.
+> Honoraria recognises the speaker's work by recompensing them for the time and expertise they invested in developing and delivering a talk.
 
 An invited talk is often expected to be delivered for free as it benefits both the organisers and the speakers.
 However, it is not a fair situation for all, especially when people have personal financial needs, or if they are self-funded.
