@@ -35,17 +35,21 @@ To successfully communicate where we are and what needs to be done, the AutSPACE
 
 **How did we get started?**
 
-To kickstart the creation of a Roadmap we used the issues function in GitHub to begin the journey of creating a Roadmap. Here, we have raised an issue in our GitHub repository where we invite contributors to comment on any proposed milestones and surrounding tasks that should be included in the roadmap. 
+To kickstart the creation of a Roadmap we used the issues function in GitHub to begin the journey of creating a Roadmap. 
+Here, we have raised an issue in our GitHub repository where we invite contributors to comment on any proposed milestones and surrounding tasks that should be included in the roadmap. 
 
 The Community Manager will collate all the information to produce a Roadmap that will be proficient for the community. 
 
 **What does our Roadmap include?**
 
-The road map will include high-level milestones which are made up of a list of issues of which each contains a checklist with granular tasks. This will inform any contributor where they can start participating within the project. 
+The road map will include high-level milestones which are made up of a list of issues of which each contains a checklist with granular tasks. 
+This will inform any contributor where they can start participating within the project. 
 
-Milestones, in this project, are seen more as an overarching theme rather than a tick list. The idea behind this is that we don't want to tick off a milestone as we believe work is continuous, open and subject to review and iteration in all aspects. 
+Milestones, in this project, are seen more as an overarching theme rather than a tick list. 
+The idea behind this is that we don't want to tick off a milestone as we believe work is continuous, open and subject to review and iteration in all aspects. 
 
-Key timelines and dependencies will be highlighted as this will allow for all contributors to know how each task fits into the wider project. There will be a prioritisation of tasks that correlate with the strategic direction of the project; what is needed to be done at this point. 
+Key timelines and dependencies will be highlighted as this will allow for all contributors to know how each task fits into the wider project. 
+There will be a prioritisation of tasks that correlate with the strategic direction of the project; what is needed to be done at this point. 
 
 **Where will we put our Roadmap?**
 
