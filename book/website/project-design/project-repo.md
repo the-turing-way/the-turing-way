@@ -20,6 +20,15 @@ Developing projects collaboratively on a shared repository requires documentatio
 Contributions can be everything from new ideas to bug reports and actual code contributions.
 It is also an opportunity to get your ideas across to new or potential contributors.
 
+```{figure} ../figures/file-management-manual.jpg
+---
+name: file-management-manual
+alt: image shows two people organising files. One person is holdinng up a README file and other person is reading the details to set up the data and analysis files in the drawer
+---
+Illustration about managing files in a repository.
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
+```
+
 In this chapter, we have described following documents that should be added to a project repository:
 - {ref}`landing page or README file<pd-project-repo-readme>`
 - {ref}`Roadmapping<pd-project-repo-roadmapping>`
