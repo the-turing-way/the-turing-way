@@ -43,7 +43,8 @@ Data should be presented in structured and standardised formats to support inter
 In many cases, this will include providing data in multiple, standardized formats, so that it can be processed by computers and used by people.
 
 ## Additional resources on data sharing
-See also the '[How can you make research data accessible?](https://www.software.ac.uk/how-can-you-make-research-data-accessible)' blog that contains five steps to make your data more accessible. 
+* '[How can you make research data accessible?](https://www.software.ac.uk/how-can-you-make-research-data-accessible)': a blog that contains five steps to make your data more accessible
+* The European Commission's [data guidelines](https://open-research-europe.ec.europa.eu/for-authors/data-guidelines)
 
 (rr-rdm-data-availability-statement)=
 ## Data Availability Statement
@@ -55,4 +56,4 @@ See below for some examples.
 * The data that support the findings will be available in [repository name] at [URL / DOI] following a [6 month] embargo from the date of publication to allow for the commercialisation of research findings.
 * Restrictions apply to the data that support the findings of this study. [Explain nature of restrictions, for example, the data contains information that could compromise the privacy of research participants] Data are available upon reasonable request by contacting [name and contact details] and with permission of [third party name].
 
-You can find more examples on the [Data Access statements page](https://www.library.manchester.ac.uk/using-the-library/staff/research/research-data-management/sharing/data-access-statements/) from the University of Manchester, or Nature's [Tips for writing a dazzling Data Availability Statement](https://researchdata.springernature.com/posts/tips-for-writing-a-dazzling-das-data-availability-statement)
+You can find more examples on the [Manchester's Data Access statements page](https://www.library.manchester.ac.uk/using-the-library/staff/research/research-data-management/sharing/data-access-statements/), the [Cambridge Data Availability Statement examples](https://www.cambridge.org/core/services/authors/open-data/data-availability-statements), the [AMS Data Availability Statement examples](https://www.ametsoc.org/index.cfm/ams/publications/author-information/formatting-and-manuscript-components/data-availability-statement-examples/), or [Nature's Tips for writing a dazzling Data Availability Statement](https://researchdata.springernature.com/posts/tips-for-writing-a-dazzling-das-data-availability-statement). 

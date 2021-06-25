@@ -5,6 +5,15 @@ When a team is working remotely, they can get together at specific times for onl
 These are scheduled in advance so that everyone can plan their work and other meetings around them as needed and specifically have no agenda.
 The purpose is to share a social break together.
 
+```{figure} ../../figures/remote-book-dash.jpg
+---
+name: remote-book-dash
+width: 500px
+alt: A person sitting on a chair in front of their computer with their dog beside. There are four different people who have joined online with their coffee/drinks for an informal chat.
+---
+Informal Online Coffee Chats. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
 ## Motivation
 
 All work and no play makes teams anxious and sad.

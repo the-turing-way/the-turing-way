@@ -6,7 +6,7 @@
 | Prerequisite  | Importance |
 | ------------- | ---------- |
 | {ref}`Overview of Reproducibility<rr-overview>` | Useful but not essential |
-| {ref}`Open research<rr-open)>` | Useful but not essential |
+| {ref}`Open research<rr-open>` | Useful but not essential |
 
 ## Summary
 
@@ -15,14 +15,12 @@ Many researchers argue that time spent on reproducible research practices reduce
 What if you could get credit for your reproducibility efforts as well?
 In this chapter, we will describe how working reproducibly will allow you to get most of your research outputs published in a way that can be cited by others (not just your paper)!
 
-```{figure} ../figures/OrcidIDs.jpg
+```{figure} ../figures/orcid-ids.jpg
 ---
-name: OrcidIDs
+name: orcid-ids
 alt: This image shows a female researcher in the centre with her arms raised. She is surrounded in an orbit by different types of documents. On the top left, there is a caption stating 'ORCID IDS', while on the bottom right there is the text that says - 'One ring to rule all outputs'.
 ---
-_The Turing Way_ project illustration by Scriberia.
-Used under a CC-BY 4.0 licence.
-DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
+ORCID ID allows a researcher to connect their profile with all the published research objects, each of which also have their unique persistent identifiers. You will learn about these in this chapter. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 ## Background & Motivation

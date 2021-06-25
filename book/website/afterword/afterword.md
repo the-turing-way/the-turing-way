@@ -5,11 +5,11 @@ Following this design principle of standard books, we have so far included {ref}
 
 The community collaboration and development aspects of the book has been written into the [Community Handbook](../community-handbook/community-handbook) section of this book.
 
-```{figure} ../figures/file-collection.jpg
+```{figure} ../figures/road-to-reproducibility.jpg
 ---
-height: 500px
-name: afterword
-alt: Two folks happily looking in a drawer of documents and looking at different files.
+height: 400px
+name: road-to-reproducibility
+alt: Three hands holding magnifying glasses and varifying 'road to reproducibility' of The Turig Way.
 ---
-_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+Road to Reproducibility. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```

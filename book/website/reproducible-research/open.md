@@ -9,13 +9,13 @@
 | {ref}`rr-vcs` | Helpful | Experience with GitHub is particularly useful |
 
 
-```{figure} ../figures/EvolutionOpenResearch.jpg
+```{figure} ../figures/evolution-open-research.jpg
 ---
-name: EvolutionOpenResearch
-alt: This image shows a researcher evolving their research practices to move towards the era of open research. 
+name: evolution-open-research
+alt: This image shows a researcher evolving their research practices to move towards the era of open research.
 ---
-_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. ```
-
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
 
 (rr-open-summary)=
 ## Summary
@@ -57,13 +57,13 @@ There are five main schools of thought motivating open practices to benefit rese
 | Democratic | The access to knowledge is unequally distributed. | Making knowledge freely available for everyone. |
 | Public | Research needs to be made accessible to the public. | Making research accessible for citizens. |
 
-Open practices also benefit the researchers that propagate them. 
+Open practices also benefit the researchers that propagate them.
 For example, there is evidence {cite}`McKiernan et al. 2016<McKiernan2016Open>` that open access articles are cited more often, as shown by the metastudy presented in the figure below.
 
-```{figure} ../figures/new-community.png
+```{figure} ../figures/open-access-citations.jpg
 ---
 height: 500px
-name: open_access_citations
+name: open-access-citations
 alt: A scatter plot of the relationship between citation rates and discipline
 ---
 The relative citation rate (OA: non-OA) in 19 fields of research. This rate is defined as the mean citation rate of OA articles divided by the mean citation rate of non-OA articles. Multiple points for the same discipline indicate different estimates from the same study or estimates from several studies. (See footnote 1 for references.)
