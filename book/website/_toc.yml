@@ -21,8 +21,8 @@
       file: reproducible-research/overview/overview-definitions
     - title: Added Advantages
       file: reproducible-research/overview/overview-benefit
-    - title: Checklist
-      file: reproducible-research/overview/overview-checklist
+    - title: Barriers
+      file: reproducible-research/overview/overview-barriers
     - title: Resources
       file: reproducible-research/overview/overview-resources
   - title: Open Research
@@ -82,8 +82,6 @@
       file: reproducible-research/licensing/licensing-compatibility
     - title: Data Licenses
       file: reproducible-research/licensing/licensing-data
-    - title: Resources
-      file: reproducible-research/licensing/licensing-resources
     - title: Checklist
       file: reproducible-research/licensing/licensing-checklist
   - title: Research Data Management
@@ -123,7 +121,7 @@
     - title: Binder
       file: reproducible-research/renv/renv-binder
     - title: Virtual Machines
-      file: reproducible-research/renv/renv-vm
+      file: reproducible-research/renv/renv-virtualmachine
     - title: Containers
       file: reproducible-research/renv/renv-containers
     - title: Checklist
@@ -151,15 +149,29 @@
   - title: Code Testing
     file: reproducible-research/testing
     sections:
-    - title: General guidance for testing
+    - title: General Guidance for Testing
       file: reproducible-research/testing/testing-guidance
-    - title: Types of tests
-      file: reproducible-research/testing/testing-types
-    - title: Challenges and exceptional cases
+    - title: Overview of Testing Types
+      file: reproducible-research/testing/testing-overview
+    - title: Smoke Testing
+      file: reproducible-research/testing/testing-smoketest
+    - title: Unit Testing
+      file: reproducible-research/testing/testing-unittest
+    - title: Integration Testing
+      file: reproducible-research/testing/testing-integrationtest
+    - title: System Testing
+      file: reproducible-research/testing/testing-systemtest
+    - title: Acceptance and Regression Testing
+      file: reproducible-research/testing/testing-acceptance-regression
+    - title: Runtime Testing
+      file: reproducible-research/testing/testing-runtime
+    - title: Test Driven Development
+      file: reproducible-research/testing/testing-driven-development
+    - title: Challenges and Exceptional Cases
       file: reproducible-research/testing/testing-exceptions
-    - title: Checklist for code testing
+    - title: Checklist for Code Testing
       file: reproducible-research/testing/testing-checklist
-    - title: Resources for code testing
+    - title: Further Recommendations
       file: reproducible-research/testing/testing-resources
   - title: Code Reviewing Process
     file: reproducible-research/reviewing
@@ -204,8 +216,6 @@
       file: reproducible-research/make/make-appendix
   - title: Research Compendia
     file: reproducible-research/compendia
-  - title: Credit for Reproducible Research
-    file: reproducible-research/credit
   - title: Risk Assessment
     file: reproducible-research/risk-assess
     sections:
@@ -223,6 +233,21 @@
 
 - file: project-design/project-design
   sections:
+  - title: Creating Project Repositories
+    file: project-design/project-repo
+    sections:
+    - title: Landing Page - README File
+      file: project-design/project-repo/project-repo-readme
+    - title: Roadmapping
+      file: project-design/project-repo/project-repo-roadmapping
+    - title: Contributors and Communication Pathways
+      file: project-design/project-repo/project-repo-contributors
+    - title: Participation Guidelines
+      file: project-design/project-repo/project-repo-participation
+    - title: Advanced Structure for Data Analysis
+      file: project-design/project-repo/project-repo-advanced
+    - title: Further Recommendations
+      file: project-design/project-repo/project-repo-resources
   - title: Personas and Pathways
     file: project-design/persona
     sections:
@@ -232,8 +257,6 @@
       file: project-design/persona/persona-contributors
   - title: File Naming Convention
     file: project-design/filenaming
-  - title: Designing a Repository
-    file: project-design/repo-structure
   - title: Code Styling and Linting
     file: project-design/code-styling
     sections:
@@ -248,15 +271,24 @@
 
 - file: communication/communication
   sections:
-  - title: Community Communications for Open Source Projects
-    file: communication/os-comms
-    sections:
-    - title: Issue Tracking
-      file: communication/os-comms/os-comms-issue-tracking
-    - title: Communication Channels
-      file: communication/os-comms/os-comms-channels
-    - title: Further Reading
-      file: communication/os-comms/os-comms-resources
+    - title: Making Research Objects Citable
+      file: communication/citable
+      sections:
+        - title: Steps for Making Research Objects Citable
+          file: communication/citable/citable-steps
+        - title: Citing Research Objects
+          file: communication/citable/citable-cite
+        - title: ORCID to Collect your Research Objects
+          file: communication/citable/citable-orcid
+        - title: Checklists and Resources
+          file: communication/citable/citable-resources
+    - title: Community Communications for Open Source Projects
+      file: communication/os-comms
+      sections:
+      - title: Issue Tracking
+        file: communication/os-comms/os-comms-issue-tracking
+      - title: Communication Channels
+        file: communication/os-comms/os-comms-channels
 
 # ===== Collaboration Guide ========================================
 
@@ -273,17 +305,6 @@
       file: collaboration/github-novice/github-novice-features
     - title: Advanced Github features
       file: collaboration/github-novice/github-novice-advanced
-  - title: Collaborating on GitHub
-    file: collaboration/github-collaboration
-    sections:
-    - title: README and Project Communication
-      file: collaboration/github/github-readme
-    - title: Roadmapping
-      file: collaboration/github/github-roadmapping
-    - title: Getting Contributors
-      file: collaboration/github/github-contributors
-    - title: Checklist and resources
-      file: collaboration/github/github-resources
   - title: Maintainers and Reviewers on GitHub
     file: collaboration/maintain-review
     sections:
@@ -344,6 +365,15 @@
     file: ethical-research/ethics-case-study
   - title: Ethical Decisions in Preclinical Research
     file: ethical-research/preclinical-research
+  - title: Law, Policy and Human Rights in Ethics
+    file: ethical-research/law-policy
+    sections:
+    - title: Ethics and law
+      file: ethical-research/law-policy/law-policy-ethics
+    - title: Human rights
+      file: ethical-research/law-policy/law-policy-rights
+    - title: Further Recommendations
+      file: ethical-research/law-policy/law-policy-resources
   - title: Activism for Researchers
     file: ethical-research/activism
     sections:
@@ -356,7 +386,7 @@
     - title: Case study - Google Workers
       file: ethical-research/activism/activism-case-study-google.md
   - title: Internal Policy Advocacy
-    file: ethical-research/activism-internal-policy
+    file: ethical-research/internal-policy
 
 # ===== Community Handbook Guide ========================================
 
@@ -469,3 +499,5 @@
     file: afterword/bibliography
   - title: Contributors Record
     file: afterword/contributors-record
+  - title: Legal Disclaimer
+    file: afterword/legal-disclaimer
