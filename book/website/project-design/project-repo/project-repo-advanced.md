@@ -70,7 +70,6 @@ Example more for if the project is building an application or is related to soft
 
 ```
 Project Folder/                        
-
 ├── analysis                 <- scripts
 │   └── my_script.R
 ├── build                    <- built files, Makefile
