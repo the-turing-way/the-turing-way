@@ -1,7 +1,7 @@
 (pd-project-repo-readme)=
 # Landing Page - README File
 
-A landing page is one of the most important documents for your project as it is the first thing new visitors to your project repository will see.
+A landing page for your project is the first thing new visitors to your project repository will see.
 On an online repository, such as GitHub, this landing page is named 'README' which is equivalent to the main page of a website.
 
 > README files are the welcome mat for your project - it gives you a chance to hook potential contributors and users by showing the value of your project. - [Mozilla Open Leadership](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/)

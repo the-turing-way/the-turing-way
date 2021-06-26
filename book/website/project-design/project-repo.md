@@ -1,5 +1,5 @@
 (pd-project-repo)=
-# Creating A Project Repository
+# Creating Project Repositories
 
 ## Prerequisites
 
@@ -11,14 +11,15 @@
 ## Summary
 
 This chapter introduces a step-by-step guide on how to set up a project repository.
-This chapter includes examples of GitHub repository hosted and maintained by researchers in open science, however, the principles are applicable to any team-led online repository.
+Specifically, we describe key documents that you should add to your repository in order to maintain documentation and ensure effective collaboration.
+We provide examples from GitHub repository hosted and maintained by researchers in open science, however, the principles are applicable to any team-led online repository.
+
+## Motivation
+
+Online project repositories require documentation so that all collaborators are informed of the updates and contributors are provided with details they need to contribute efficiently.
+Shared documents can help you get your ideas across to new or potential contributors.
+Contributions can be anything from new ideas to bug reports and actual code contributions.
 Open science practices described here will also make it easier for you to lead closed-source projects collaboratively and transparently for your teams.
-
-## Background
-
-Developing projects collaboratively on a shared repository requires documentation of our work in detail so that our collaborators are informed of all the updates and information they need to contribute efficiently.
-Contributions can be everything from new ideas to bug reports and actual code contributions.
-It is also an opportunity to get your ideas across to new or potential contributors.
 
 ```{figure} ../figures/file-management-manual.jpg
 ---
@@ -35,7 +36,8 @@ In this chapter, we have described following documents that should be added to a
 - {ref}`Contribution Guideline<pd-project-repo-contributors>`
 - {ref}`Contribution Guideline<pd-project-repo-participation>`
 
-## First, Add A License
+(pd-project-repo-license)=
+## Start by Adding a License
 
 One of the most important documents for your project is a license.
 
@@ -44,7 +46,7 @@ Without a license, all rights are with the author of the code, and that means no
 A license gives this consent.
 If you do not have a license for your software, it is effectively unusable by the whole research community.
 
-**See {ref}`rr-licensing` for details**
+**See {ref}`rr-licensing` chapter for details**
 ```
 
 The first file you can add to your project repository is a 'LICENSE' file.

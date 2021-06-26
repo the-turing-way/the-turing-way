@@ -233,16 +233,7 @@
 
 - file: project-design/project-design
   sections:
-  - title: Personas and Pathways
-    file: project-design/persona
-    sections:
-    - title: Persona Creation Tool
-      file: project-design/persona/persona-creation
-    - title: Contributor Pathways
-      file: project-design/persona/persona-contributors
-  - title: File Naming Convention
-    file: project-design/filenaming
-  - title: Creating A Project Repository
+  - title: Creating Project Repositories
     file: project-design/project-repo
     sections:
     - title: Landing Page - README File
@@ -254,7 +245,16 @@
     - title: Participation Guidelines
       file: project-design/project-repo/project-repo-participation
     - title: Further Recommendations
-      file: project-design/project-repo/project-repo-recommendations
+      file: project-design/project-repo/project-repo-resources
+  - title: Personas and Pathways
+    file: project-design/persona
+    sections:
+    - title: Persona Creation Tool
+      file: project-design/persona/persona-creation
+    - title: Contributor Pathways
+      file: project-design/persona/persona-contributors
+  - title: File Naming Convention
+    file: project-design/filenaming
   - title: Code Styling and Linting
     file: project-design/code-styling
     sections:
@@ -278,8 +278,8 @@
           file: communication/citable/citable-cite
         - title: ORCID to Collect your Research Objects
           file: communication/citable/citable-orcid
-        - title: Checklist and Recommendations
-          file: communication/citable/citable-checklist
+        - title: Checklists and Resources
+          file: communication/citable/citable-resources
     - title: Community Communications for Open Source Projects
       file: communication/os-comms
       sections:
@@ -287,8 +287,6 @@
         file: communication/os-comms/os-comms-issue-tracking
       - title: Communication Channels
         file: communication/os-comms/os-comms-channels
-      - title: Further Reading
-        file: communication/os-comms/os-comms-resources
 
 # ===== Collaboration Guide ========================================
 
