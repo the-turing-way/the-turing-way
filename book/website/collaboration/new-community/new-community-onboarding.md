@@ -1,4 +1,4 @@
-(cl-new-community-virtual-onboarding)=
+(cl-new-community-onboarding)=
 # Virtual Onboarding of New Members
 
 ## Summary
