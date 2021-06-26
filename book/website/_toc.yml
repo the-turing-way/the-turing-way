@@ -302,6 +302,8 @@
       file: collaboration/new-community/new-community-techissues
     - title: Valuing Diversity and Differences
       file: collaboration/new-community/new-community-differences
+    - title: Virtual Onboarding of New Members
+      file: collaboration/new-community/new-community-onboarding
   - title: Leadership in Data Science
     file: collaboration/leadership
     sections:
