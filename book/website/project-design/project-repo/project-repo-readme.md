@@ -51,4 +51,6 @@ GitHub shields are clickable buttons that provide concise actions related to the
   - Contributing: links to contribution guideline and Code of Conduct
   - Citing The Turing Way: instructions for citing the project
   - Get in touch: contact details of the project leads
-7. List of contributors who are added to the repository using the [all-contributors bot](https://allcontributors.org).
+
+Finally, we provide a complete list of contributors to the project.
+This contributors table is updated using the [all-contributors bot](https://allcontributors.org) that acknowledges all kinds of contributions including those that 'do not push code'.
