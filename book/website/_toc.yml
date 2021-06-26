@@ -244,6 +244,8 @@
       file: project-design/project-repo/project-repo-contributors
     - title: Participation Guidelines
       file: project-design/project-repo/project-repo-participation
+    - title: Advanced Structure for Data Analysis
+      file: project-design/project-repo/project-repo-advanced
     - title: Further Recommendations
       file: project-design/project-repo/project-repo-resources
   - title: Personas and Pathways
