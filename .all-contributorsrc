@@ -2505,7 +2505,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/82104604?v=4",
       "profile": "https://github.com/lottycoupat",
       "contributions": [
-        "bug"
+        "bug",
+        "content"
       ]
     },
     {
@@ -2561,6 +2562,15 @@
       "contributions": [
         "bug",
         "review"
+      ]
+    },
+    {
+      "login": "jatonline",
+      "name": "James Thomas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48878399?v=4",
+      "profile": "https://linkedin.com/in/jatonline",
+      "contributions": [
+        "bug"
       ]
     }
   ],

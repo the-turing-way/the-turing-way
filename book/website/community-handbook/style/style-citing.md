@@ -20,12 +20,13 @@ Examples of listing a BibTeX-formatted reference are shown below.
 
 ## Adding a new reference in `references.bib`
 
-You can edit references locally using a method from the following:
+You can edit reference file locally using a method from the following:
 
 - Edit [`references.bib`][turingbib] directly using a text editor
 - Edit [`references.bib`][turingbib] directly using a managing program such as [JabRef](http://www.jabref.org/) (Linux, Windows, macOS) or [BibDesk](https://bibdesk.sourceforge.io/) (macOS)
 
-For example, say we have an entry in the [`references.bib`][turingbib] file as:
+We use a standard bibtex format to add a new entry.
+For example, there is an entry in the [`references.bib`][turingbib] file as:
 
 ```
 @article{Kuula2010archiving,
@@ -40,6 +41,8 @@ For example, say we have an entry in the [`references.bib`][turingbib] file as:
 	Volume = {34},
 	Year = {2010}}
 ```
+
+**Finish editing by adding a new entry at the end of the file.**
 
 ## Citation key style-guide
 

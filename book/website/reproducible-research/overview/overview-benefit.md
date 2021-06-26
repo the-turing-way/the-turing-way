@@ -5,9 +5,9 @@ In the {ref}`rr-overview-definitions` section, we discussed the different aspect
 In this chapter, we will share some less obvious aspects of working reproducibly for individual researchers and teams.
 
 
-```{figure} ../../figures/reasons_reproducibility.png
+```{figure} ../../figures/reasons-reproducibility.png
 ---
-name: reasons_reproducibility
+name: reasons-reproducibility
 alt: Why we should care about working reproducibly.
 ---
 An illustration of reasons why we should care about working reproducibly.

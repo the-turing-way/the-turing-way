@@ -10,7 +10,7 @@ height: 500px
 name: distributed-collaboration
 alt: A person standing on a globe and interacting virtually with people in different time zones on different computer screens
 ---
-Illustration of Distributed Collaboration, The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300.
+Distributed Collaboration. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 Remote collaboration is quite a standard practice in open source projects or online communities.

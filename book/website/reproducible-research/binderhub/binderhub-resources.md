@@ -1,3 +1,4 @@
+(rr-binderhub-resources)=
 # Resources
 
 ## Further reading

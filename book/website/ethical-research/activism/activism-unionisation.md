@@ -5,20 +5,20 @@
 ## What is a union?
 
 A trade union is a formalised way for workers to organise and bargain collectively at an institutional, sectoral or national level.
-A union is organised into branches which are spread geographically (for example, North London) or at an institutional level (for example, labs or departments), depending on the distribution of members and how the union works. 
+A union is organised into branches which are spread geographically (for example, North London) or at an institutional level (for example, labs or departments), depending on the distribution of members and how the union works.
 Members of unions typically pay a monthly fee, although this is sometimes waived for certain categories of members, for example, the UK union UCU allows graduate students to join for free.
 
-Some members take up additional responsibilities as "reps" or "shop stewards", helping to organise the running of branches, supporting members with workplace issues, and sometimes representing the branch at a national level. 
+Some members take up additional responsibilities as "reps" or "shop stewards", helping to organise the running of branches, supporting members with workplace issues, and sometimes representing the branch at a national level.
 Larger unions often have full-time employees to support reps and workers, who are also responsible for areas such as developing union policy, press relations, and organising any large meetings for example, annual conferences.
 
-In some, but not all countries, being a member of a trade union is a protected characteristic. 
-This means organisations are not allowed to fire people for being members (but this has not always been the case). 
+In some, but not all countries, being a member of a trade union is a protected characteristic.
+This means organisations are not allowed to fire people for being members (but this has not always been the case).
 Under the General Data Protection Regulation (GDPR), the European Union considers union membership to be sensitive data and in the same category as genetic data or data on gender.
 
 (er-activism-unionisation-unionactivities)=
 ## What can unions do?
 
-Unions are a vehicle for their members to orgaise together and support each other in their workplace and industry. 
+Unions are a vehicle for their members to orgaise together and support each other in their workplace and industry.
 Unions take lots of different actions to improve working conditions for their members.
 
 These can be at individual, workplace, or industry level.
@@ -34,18 +34,18 @@ At a workplace level, union branch members can:
 * Organise members to "work to rule", where no overtime or duties outside those in formal job descriptions are undertaken
 * Go on strike, where no work is performed and workers instead "picket" their workplaces by meeting outside and encouraging others to join them
 * Organise other industrial action
-* Discuss policies and positions the members would like to adopt on particular issues 
+* Discuss policies and positions the members would like to adopt on particular issues
 
 At an industry level, unions can:
 * Input into government policy through consultation responses or lobbying (for example, speaking to the press on an issue, writing articles, or submitting to formal processes such as hearings)
 * Organise strikes and industrial action across whole industries
 
 (er-activism-unionisation-industrialaction)=
-### What is industrial action? 
+### What is industrial action?
 
-Industrial action covers a range of different activities that unions members take together to highlight issues in their workplace or industry. 
-The most well-known of these is "striking" or "work stoppages", where members refuse to come into work and form picket lines outside their workplaces. 
-However, there are a lot of other types of activities that fall under industrial action, including: working to rule (or working to contract), mass reporting of health and safety violations, work place occupations, banner drops, or marches. 
+Industrial action covers a range of different activities that unions members take together to highlight issues in their workplace or industry.
+The most well-known of these is "striking" or "work stoppages", where members refuse to come into work and form picket lines outside their workplaces.
+However, there are a lot of other types of activities that fall under industrial action, including: working to rule (or working to contract), mass reporting of health and safety violations, work place occupations, banner drops, or marches.
 
 (er-activism-unionisation-unionhow)=
 ## How does a union help scientists and researchers?
@@ -67,10 +67,10 @@ These are all workplaces: they have workplace policies, and unions can help crea
 
 This was a trade union for scientists founded in the early 20th Century, which had a leading role in founding similar unions across the globe.
 
-```{figure} ../../figures/scientificunionbadge.png
+```{figure} ../../figures/scientific-union-badge.jpg
 ---
 height: 500px
-name: union-badge
+name: scientific-union-badge
 alt: A blue enamel badge with AScW, that stands for Association of Scientific Workers printed on it on a wooden background.
 ---
 AScW (stands for
@@ -89,9 +89,9 @@ The AScW communicated with members via branch bulletins as well as a national pa
 
 Start by finding out if there is a union already in your workplace.
 If so, there will be a person you can talk to about joining: they might be known as the union rep or steward.
-Joining the union that already represents people in your workplace increases its ability to bargain on behalf of everyone and organise the workplace. 
-Some workplaces may have several different unions that represent different types of staff. 
-In these cases, you should join the one you feel best matches the type of work you do. 
+Joining the union that already represents people in your workplace increases its ability to bargain on behalf of everyone and organise the workplace.
+Some workplaces may have several different unions that represent different types of staff.
+In these cases, you should join the one you feel best matches the type of work you do.
 
 If there is not a union in your workplace, look into the unions that already exist in your area or country. [link to section on examples of unions](er-activism-unionisation-unionexamples)
 You might be able to join one that is relevant to your industry or duties: or you might be able to join a general union that represents lots of different workers.
