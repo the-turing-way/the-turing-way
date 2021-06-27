@@ -7,7 +7,7 @@ Find out more about her work here:
 * ORCID: [0000-0002-4522-7466](https://orcid.org/0000-0002-4522-7466)
 * Twitter: [@yabellini](https://twitter.com/yabellini)
 
-Yanina is a researcher at [INTA in La Pampa, Argentina](https://inta.gob.ar/personas/bellini.yanina), applying data science to the agricultural sector.
+**Yanina** is a researcher at [INTA in La Pampa, Argentina](https://inta.gob.ar/personas/bellini.yanina), applying data science to the agricultural sector.
 She has a degree in Information Systems and a Master in Data Mining and Knowledge Management.
 She is the co-founder and organizer of multiple collaborative spaces such as Metadocencia, RLadies and LatinR among others.
 She has organized more than 70 events (of regional and international scope), including being general chair of the Jornadas Argentinas de Informática (2020-2021), founder and current chair of LatinR (one of the largest Latin American conferences on the use of R in research and development) and one of the global coordinators of useR! 2021.
@@ -150,7 +150,7 @@ Podés interiorizarte en su trabajo en los siguientes links:
 * [ORCID](https://orcid.org/0000-0002-4522-7466)
 * [Twitter](https://twitter.com/yabellini)
 
-Yanina es investigadora del [INTA en La Pampa, Argentina](https://inta.gob.ar/personas/bellini.yanina) aplicando ciencia de datos al sector agropecuario. 
+**Yanina** es investigadora del [INTA en La Pampa, Argentina](https://inta.gob.ar/personas/bellini.yanina) aplicando ciencia de datos al sector agropecuario. 
 Es Licenciada en Sistemas de Información y Magíster en Explotación de Datos y Gestión del Conocimiento. 
 Es cofundadora y organizadora en múltiples espacios colaborativos como Metadocencia, RLadies y LatinR entre otros. Organizó más de 70 eventos (de alcance regional e internacional) entre los que se destacan ser chair general de las Jornadas Argentinas de Informática (2020-2021) y fundadora y actual chair de LatinR, una de las conferencias latinoamericanas más grandes sobre el uso de R en investigación y desarrollo y una de las coordinadoras globales de useR! 2021. 
 Tanto en su rol como investigadora como con la comunidad R trabaja buscando hacer que la ciencia sea lo más reproducible y abierta posible utilizando herramientas informáticas abiertas.
