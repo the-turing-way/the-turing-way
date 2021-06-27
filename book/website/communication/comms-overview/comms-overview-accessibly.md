@@ -14,7 +14,7 @@ This is also the case for academic books that cost large amounts compared to pop
 * Conference and workshop fees can exclude some researchers. 
 While you may not have control over conference access, you can share your conference presentations and posters on an open repository which will widen their accessibility.
 You may also consider recording your presentations and making them available online.
-* If you are organising an event, you can make an effort to reduce the costs or offer grants to certain individuals.
+* If you are organising an event, you can make an effort to reduce the costs or offer grants to certain individuals to ensure that your event is accessible.
 
 You can try to make your outputs freely available by publishing them in an online repository such as Zenodo, Figshare or Open Science Framework.
 This will allow your content to be accessed by a larger audience and consequently, have a greater impact.
