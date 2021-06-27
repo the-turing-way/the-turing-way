@@ -24,7 +24,7 @@ Therefore, consider using the tool that will be the least time consuming for you
     - It has an accessible interface much like Google slides that are easy to use and publish as a website.
     - Find more information at the [Google site help page](https://support.google.com/sites/?hl=en#topic=7184580)
 
-Here is a link to an article that [compares google sites and wordpress](https://superbwebsitebuilders.com/google-sites-vs-wordpress/).
+Here is a link to an [article that compares google sites and wordpress](https://superbwebsitebuilders.com/google-sites-vs-wordpress/).
 
 There are other options out there and you can always pay for someone to build it for you but that is a less accessible option for you.
 
