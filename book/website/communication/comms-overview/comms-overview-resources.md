@@ -22,7 +22,7 @@ Read more in this chapter: {ref}`cm-blogs`.
 ### Some of our favourite blogs
 * Dr Veronika Cheplygina's [How I fail series](https://veronikach.com/failure/)
 * [Software Sustainability Institute Blog](https://www.software.ac.uk/blog)
-* [Open Working](https://openworking.wordpress.com/) by from 4TU.ResearchData & TU Delft Library. Uses WordPress.
+* [Open Working](https://openworking.wordpress.com/) by 4TU.ResearchData & TU Delft Library and Data Stewards. Uses WordPress.
 * [Metadocencia](https://metadocencia.netlify.app/post/) - This is in Spanish but you can also read it in English [here](https://metadocencia.netlify.app/en/post/).
 
 (cm-comms-overview-resources-lay)=
