@@ -35,7 +35,6 @@ These options are highlighted as they are very accessible and it's always worth 
 
 * **Github pages**
     * If you know how to set up a Github repository then this is an accessible way to create a repository and then convert it into web pages.
-    * Free to convert your repository into web pages.
     * You can select from various free themes using [Jekyll](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll).
     * This is a good resource to learn how to make GitHub pages - [Collaborative Github Docs](https://cassgvp.github.io/github-for-collaborative-documentation/docs/tut/4-2-Make-your-Pages-site.html).
     * This blog uses Github pages - [The Open Archaeobotanist](https://ekaroune.github.io/The-Open-Archaeobotanist/).
