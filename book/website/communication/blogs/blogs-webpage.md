@@ -26,7 +26,7 @@ Therefore, consider using the tool that will be the least time consuming for you
 
 Here is a link to an [article that compares google sites and wordpress](https://superbwebsitebuilders.com/google-sites-vs-wordpress/).
 
-There are other options out there and you can always pay for someone to build it for you but that is a less accessible option for you.
+There are other options out there and you can always pay for someone to build your blog website if you have the resources. 
 
 And it's always worth making the effort to learn a new skill.
 
