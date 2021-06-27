@@ -3,7 +3,7 @@
 
 ## Emma Karoune - Making Palaeoecology More Accessible
 
-Dr Emma Karoune is a Research Associate at The Alan Turing Institute and Historic England focusing on Open Science and [Phytolith](https://en.wikipedia.org/wiki/Phytolith) Research.
+**Dr Emma Karoune** is a Research Associate at The Alan Turing Institute and Historic England focusing on Open Science and [Phytolith](https://en.wikipedia.org/wiki/Phytolith) Research.
 She is currently leading a project concerning the FAIRification of phytolith data.
 
 Find out more about her work from the links below:
@@ -11,7 +11,7 @@ Find out more about her work from the links below:
 * Blog - [The Open Archaeobotanist](https://ekaroune.github.io/The-Open-Archaeobotanist/)
 * Twitter - [ekaroune](https://twitter.com/ekaroune)
 
-We would like to thank Emma for answering our interview questions about her work with [PalaeoSIG](https://www.britishecologicalsociety.org/membership-community/special-interest-groups/palaeoecology-group/), the special interest group for palaeoecology at the British Ecological Society.
+We would like to thank **Emma** for answering our interview questions about her work with [PalaeoSIG](https://www.britishecologicalsociety.org/membership-community/special-interest-groups/palaeoecology-group/), the special interest group for palaeoecology at the British Ecological Society.
 
 Comments are also made in this case study by Dr Althea Davies and Dr Jane Bunting, who are the Secretaries of the PalaeoSIG and the organisers of this project along with Dr Eileen Tisdall.
 
