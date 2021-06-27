@@ -9,7 +9,10 @@ How it can be accessed in terms of where it is located, the format of text and d
 Where your research is communicated and how much it costs will have an impact on its accessibility.
 Most communications to wider audiences will be free to access as they will be distributed online, which makes them even more impactful.
 However, many scientific articles are not accessible even to researchers because they are behind paywalls.
-This is also the case for academic books that cost large amounts compared to popular novels.
+A [paywall](https://en.wikipedia.org/wiki/Paywall#:~:text=A%20paywall%20is%20a%20method,a%20paid%20subscription%2C%20especially%20news.) is the restricting of access to content through a one off payment or subscription cost. 
+You can find out more about paywals by watching the movie [Paywall](https://paywallthemovie.com/).
+
+The cost of academic books is also exclusionary. They often cost five times more than popular novels, although there is a growing movement towards open access e-books.
 
 * Conference and workshop fees can exclude some researchers. 
 While you may not have control over conference access, you can share your conference presentations and posters on an open repository which will widen their accessibility.
@@ -30,7 +33,7 @@ Also, consider what format is best for screen readers.
 These include being able to add alt text to any images and using the specific headings to help a screen reader move to different sections.
 * Microsoft Office has an accessibility checker so you can easily run this feature when your document or presentation is completed and make adjustments.
 * For more information about accessibility see [Ability Net](https://abilitynet.org.uk/) and their [guide to creating accessible documents](https://abilitynet.org.uk/factsheets/creating-accessible-documents-0).
-* There is also a useful [blog about alternative text](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text).
+* There is also a useful [blog about alternative text](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and you can find out more in this useful [introduction to alt text by Webaim](https://webaim.org/techniques/alttext/).
 
 ## Language Translation
 
@@ -46,3 +49,5 @@ There may be a specific community with another language that needs to be engaged
 
 It is worth considering applying the FAIR principles to all the science communications that you deposit in open repositories, such as conference presentations and posters, as this will make them more sustainable.
 * Tips to apply the FAIR principles to training materials by Garcia et al (2020) {cite}`Garcia2020ten` can be easily adapted for this purpose.
+
+Find out more in our {ref}`sub-chapter on the FAIR Principles<rr-rdm-fair>`
