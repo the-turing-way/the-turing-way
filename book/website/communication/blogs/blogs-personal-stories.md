@@ -49,7 +49,7 @@ WordPress shares my new posts to Twitter and LinkedIn.
 
 ## 5. Do you have any top tips for other people that might be interested in starting a blog?
 
-Make it a habit to post something, review after a while to see what kind of tags/categories you seem to use more often, and which kinds get more responses.
+Make it a habit to post something. Review your posts after a while to see what kind of tags/categories you seem to use more often, and which kind get more responses.
 
 ## 6. Do you have any tips on things to avoid?
 
