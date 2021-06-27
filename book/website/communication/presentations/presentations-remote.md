@@ -26,7 +26,8 @@ Presenting a talk through a digital medium involves tackling some technical chal
 
 * Use captions during the talk to aid accessibility.
 * A useful step to ensure that people with different devices (and screens) can appreciate the video's content is to develop the presentation using your smallest screen.
-* Even if you are only sharing a slide deck, seeing you on video can help your audience to keep their concentration on the presentation. You don't need the best camera or video post-processing software, but [managing your lighting](https://www.youtube.com/watch?v=rGcAM1CNEU0&ab_channel=Wirecutter) will do wonders for your video quality.
+* Even if you are only sharing a slide deck, seeing you on video can help your audience to keep their concentration on the presentation. 
+You don't need the best camera or video post-processing software, but [managing your lighting](https://www.youtube.com/watch?v=rGcAM1CNEU0&ab_channel=Wirecutter) will do wonders for your video quality.
 
 ### Sound Setting
 
