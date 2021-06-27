@@ -4,6 +4,8 @@
 Accessibility of your writing or presentation is more than just about the technical level.
 How it can be accessed in terms of where it is located, the format of text and diagrams, the language and overall FAIRness of the communication all need to be considered.
 
+FAIR stands for findable, accessible, interoperable and reusable and you can find out more in our sub-chapter {ref}`sub-chapter on The FAIR Principles<rr-rdm-fair>`.
+
 ## Where you communicate
 
 Where your research is communicated and how much it costs will have an impact on its accessibility.
