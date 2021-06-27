@@ -59,7 +59,7 @@ There are lots of types of "real" blogs that do not do this, and which have dedi
 ## 7. Where do you see your blog going in the future?
 
 It's been on the back burner a bit last year, so first of all I would like to get back to writing regularly.
-I'm also thinking about compressing some of the information into a book for example, but I haven't quite decided on the format yet.
+I'm also thinking about compressing some of the information into a book, for example, but I haven't quite decided on the format yet.
 
 ## 8. Is there anything else that you want to share?
 
