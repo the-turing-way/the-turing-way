@@ -44,7 +44,7 @@ It's great to see the statistics for previous blog posts, and receive a thank yo
 
 ## 4. What tools/software do you use most to produce your blog?
 
-Primarily WordPress, I use Mailchimp to send out a newsletter (only if there are any new posts) and Canva if I make graphics (but usually I'm too lazy).
+Primarily WordPress. I use Mailchimp to send out a newsletter (only if there are any new posts) and Canva if I make graphics (but usually I'm too lazy).
 WordPress shares my new posts to Twitter and LinkedIn.
 
 ## 5. Do you have any top tips for other people that might be interested in starting a blog?
