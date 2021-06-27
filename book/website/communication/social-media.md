@@ -37,7 +37,17 @@ It can make research more visible and understandable to wider communities by all
 Scientists can also be contacted directly by the public, which enables a more approachable level of communication {cite}`Kelesidou2021scicomm`.
 
 Due to its popularity and wide range of uses for academic purposes, the next two sub-chapters focus on using Twitter.
-However, below are some tips for using the other popular general social media sites - Linkedin, Facebook and Instagram.
+However, below is an overview of the most popular general social media sites used by researchers - Twitter, Linkedin, Facebook and Instagram.
+
+### Twitter
+
+* They have 353 million monthly active users.
+* It is less formal than other platforms and very popular with academic audiences.
+* Character limit is small, only 280. But you can join tweets in threads.
+* You can tag others in your tweets or photos.
+* You can add links, photos (size 1200 x 628 pixels) and videos (max 2 minutes 20 seconds) in tweets. You can also add links to videos.
+* If you don't have an image, adding a link will generate a preview image. 
+* It is a conversational and chatty platform. So be chatty in tweets and use images and gifs to make your tweets more fun. 
 
 ### Linkedin
 
