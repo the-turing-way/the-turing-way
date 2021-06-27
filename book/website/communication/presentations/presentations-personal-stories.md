@@ -106,7 +106,8 @@ We are discussing talks given at community events.
 In general, I deliver them free of charge and the materials are open, but if a company invites you, don't be ashamed or afraid to charge for them in case that, later on, it will be economically profitable for whoever invites you.
 I also don't pay out of my pocket if I am invited to give a talk; this means that the costs of travel or registration are paid by the organizer.
 If your talks are in high demand, the organizer's handling of the costs helps you decide.
-Also, you should never transfer the intellectual property of your material to the event organizer, but if they ask you to transfer it and you agree, charge them very well for it.
+Also, you should never transfer the intellectual property of your material to the event organizer. 
+If organizers ask you to transfer your rights you should charge them for it.
 
 In my case, the talks I deliver are related to Data Science, with Agricultural Sciences and communities of practice.
 If I am invited to deliver a talk as an INTA researcher, I do not charge for it either, because it is part of my job.
