@@ -30,7 +30,7 @@ The CV of Failures I shared during my postdoc resonated, and that later turned i
 
 It helps people to see stories by other real people, and relate to the issues that are discussed.
 
-## Can I just get you to expand on the impact question, so did your blog lead to more impact in a project, maybe got you more noticed to secure a job, help build a community?
+## Can I just get you to expand on the impact question? Did your blog lead to more impact in a project, or perhaps got you more noticed to secure a job, or help build a community?
 
 Yes, I get noticed because people know me from my Twitter and blog, usually this translates into talk invitations.
 Last year when I announced I was leaving my tenure track, I also had a few suggestions for jobs, which in the end translated into my current (tenured) position.
