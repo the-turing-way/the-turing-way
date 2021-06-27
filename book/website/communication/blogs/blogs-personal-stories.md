@@ -3,7 +3,7 @@
 
 ## Veronika Cheplygina: Writing a Successful Blog Series
 
-Dr Veronika Cheplygina is an Associate Professor at the IT University Copenhagen and she strives to make science more open and inclusive.
+Dr Veronika Cheplygina is an Associate Professor at the IT University Copenhagen. Veronika strives to make science more open and inclusive.
 
 You can find out more about her work from the links below:
 * Personal website: [veronikach.com](https://veronikach.com/)
