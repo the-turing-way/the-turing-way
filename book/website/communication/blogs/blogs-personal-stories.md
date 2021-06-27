@@ -7,7 +7,7 @@ Dr Veronika Cheplygina is an Associate Professor at the IT University Copenhagen
 
 You can find out more about her work from the links below:
 * Personal website: [veronikach.com](https://veronikach.com/)
-* Twitter: @DrVeronikaCH
+* Twitter: [@DrVeronikaCH](https://twitter.com/DrVeronikaCH)
 * ORCID: [0000-0003-0176-9324](https://orcid.org/0000-0003-0176-9324)
 
 We would like to thank Dr Veronika Cheplygina for answering our interview questions about her very successful blog series called ['How I fail'](https://veronikach.com/failure/).
