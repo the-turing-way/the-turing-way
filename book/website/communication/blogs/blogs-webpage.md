@@ -28,7 +28,7 @@ Here is a link to an [article that compares google sites and wordpress](https://
 
 There are other options out there and you can always pay for someone to build your blog website if you have the resources. 
 
-And it's always worth making the effort to learn a new skill.
+These options are highlighted as they are very accessible and it's always worth to learn new skills.
 
 (cm-blogs-webpage-advanced)=
 ## Advanced Website Building - Programming Needed
