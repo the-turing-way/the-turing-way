@@ -3,14 +3,14 @@
 
 ## Veronika Cheplygina: Writing a Successful Blog Series
 
-Dr Veronika Cheplygina is an Associate Professor at the IT University Copenhagen. Veronika strives to make science more open and inclusive.
+**Dr Veronika Cheplygina** is an Associate Professor at the IT University Copenhagen. Veronika strives to make science more open and inclusive.
 
 You can find out more about her work from the links below:
 * Personal website: [veronikach.com](https://veronikach.com/)
 * Twitter: [@DrVeronikaCH](https://twitter.com/DrVeronikaCH)
 * ORCID: [0000-0003-0176-9324](https://orcid.org/0000-0003-0176-9324)
 
-We would like to thank Dr Veronika Cheplygina for answering our interview questions about her very successful blog series called ['How I fail'](https://veronikach.com/failure/).
+We would like to thank **Dr Veronika Cheplygina** for answering our interview questions about her very successful blog series called ['How I fail'](https://veronikach.com/failure/).
 
 ## 1. Why did you start your blog?
 
