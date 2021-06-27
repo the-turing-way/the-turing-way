@@ -35,7 +35,8 @@ Knowing your audience and at least one or two of the things they expect from the
 By fulfilling these expectations the audience leaves with a sense that it was worth being there.
 
 That is another point to take into account, respect for the other person's time and to prepare yourself in advance.
-Make it clear that you care about giving a good talk, with useful information, make it clear that you want them to profit from the time they decided to spend listening to you.
+Make it clear that you care about giving a good talk, with useful information. 
+Tell your audience that you want them to profit from the time they decided to spend listening to you.
 
 Keeping time schedules is also important, both for you, the audience, and the rest of the speakers.
 
