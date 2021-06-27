@@ -2,7 +2,7 @@
 # Overview of the Guide for Communication
 
 Research projects, publications and communities are evaluated based on the impact that they make.
-This is often based on academic journal articles often published on completion of a project.
+This is often based on academic journal articles, generally published on completion of a project.
 However, there is much more scope to plan communication in a research project to enable effective collaboration, sharing progress as well as reporting results and conclusions at different stages of research through different streams of dissemination.
 
 In this guide, we present tools, methods and recommendations for communicating our research with wider audiences.
