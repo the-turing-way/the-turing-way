@@ -4,7 +4,7 @@
 Making a website for a blog is easier than you think so don't be put off if you have never made one before.
 
 You need to consider:
-* **Skill level** - this is important but all of these options below can be easily learnt by anyone that regularly uses a computer.
+* **Skill level** - This is important but can be learnt by anyone that regularly uses a computer.
 * **Budget** - there are plenty of free options for websites but you can pay for certain services such as different themes.
 * **Time** - It does take time to initially build the website and get it into the state that you want.
 Therefore, consider using the tool that will be the least time consuming for you to build and maintain.
