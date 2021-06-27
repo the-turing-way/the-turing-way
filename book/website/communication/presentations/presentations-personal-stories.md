@@ -55,7 +55,7 @@ On the other hand, I try to address what was left unanswered at the event in two
 
 In the same way, I strive to make the materials available before the talk and take into account accessibility issues, such as a font size that is visible, colour contrasts, including speaker's notes, a download link, a license so they know how to use it, among other details.
 
-Thanks to R-Ladies I started to pay more attention to these kinds of details in my materials, things that I didn't pay much attention to before but can make a big difference in the use and accessibility of my talks.
+Thanks to [R-Ladies](https://rladies.org/) I started to pay more attention to these kinds of details in my materials, things that I didn't pay much attention to before but can make a big difference in the use and accessibility of my talks.
 
 ## 3. What aspects of delivering these talks contribute to your professional work?
 
