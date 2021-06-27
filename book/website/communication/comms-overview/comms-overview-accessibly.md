@@ -17,7 +17,7 @@ You may also consider recording your presentations and making them available onl
 * If you are organising an event, you can make an effort to reduce the costs or offer grants to certain individuals to ensure that your event is accessible.
 
 You can try to make your outputs freely available by publishing them in an online repository such as Zenodo, Figshare or Open Science Framework.
-This will allow your content to be accessed by a larger audience and consequently, have a greater impact.
+This will allow your content to be accessed by a larger audience and consequently have a greater impact.
 
 ## Consider Disabilities
 
