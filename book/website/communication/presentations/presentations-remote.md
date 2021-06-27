@@ -6,7 +6,8 @@ Whether this occurs in a live or pre-recorded event, some factors should be paid
 
 ## Visual Elements of the Presentation
 
-A presentation for a wide audience can include photos, illustrations, graphics and icons. There are many sites from which you can obtain these types of resources for free (with attribution) or paid to use in your presentations.
+A presentation for a wide audience can include photos, illustrations, graphics and icons. 
+There are many sites from which you can obtain these types of resources for free (with attribution) or paid to use in your presentations.
 
 Some of the websites that offer these resources for free are:
 
