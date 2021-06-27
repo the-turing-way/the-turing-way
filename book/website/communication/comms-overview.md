@@ -6,7 +6,7 @@ This is often based on academic journal articles, generally published on complet
 However, there is much more scope to plan communication in a research project to enable effective collaboration, sharing progress as well as reporting results and conclusions at different stages of research through different streams of dissemination.
 
 In this guide, we present tools, methods and recommendations for communicating our research with wider audiences.
-Communication methods described here can be used for establishing efficient ways to work with your collaborators, share different research objects with your users or readers as well as increase the breadth of the audience for your research or community.
+Communication methods described here can be used for establishing efficient ways to work with your collaborators, share different research objects as well as increase the breadth of the audience for your research or community.
 
 ```{figure} ../figures/communication-styles.jpg
 ---
