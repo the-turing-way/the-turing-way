@@ -31,7 +31,8 @@ Also, I start the talk with a relaxed attitude so that the audience feels that, 
 I am approachable when it comes to comments and questions.
 After all, these kinds of meetings and sessions are meant for people to take something away, to learn something.
 
-Knowing your audience and at least one or two of the things they expect from the talk is important because, by fulfilling them, they leave with something they went looking for and so it's going to contribute to the evaluation that it was worth it being there.
+Knowing your audience and at least one or two of the things they expect from the talk is important. 
+By fulfilling these expectations the audience leaves with a sense that it was worth being there.
 
 That is another point to take into account, respect for the other person's time and to prepare yourself in advance.
 Make it clear that you care about giving a good talk, with useful information, make it clear that you want them to profit from the time they decided to spend listening to you.
