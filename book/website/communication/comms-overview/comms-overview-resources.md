@@ -30,7 +30,7 @@ Read more in this chapter: {ref}`cm-blogs`.
 
 Read more in this chapter: {ref}`cm-lay-summaries`.
 
-* Good example of how abstract can be changed into a lay summary - [Perfecting that lay summary](https://bitesizebio.com/10871/perfecting-that-lay-summary/).
+* See  [Perfecting that lay summary](https://bitesizebio.com/10871/perfecting-that-lay-summary/) for a good example of how an abstract can be changed into a lay summary.
 
 **Readability tests:**
 * [Hemingway app](http://www.hemingwayapp.com/)
