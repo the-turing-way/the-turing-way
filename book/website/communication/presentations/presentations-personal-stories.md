@@ -19,7 +19,7 @@ I work at [INTA](https://www.argentina.gob.ar/inta) (National Institute of Agric
 Our activities are organized into research & development and knowledge transfer & extension, both with the same weight and importance.
 Everything that has to do with teaching, outreach, communicating, and transferring knowledge of our production to social actors in the agricultural sector and the general public is part of our work.
 Within INTA, training and communication activities, whether through a course, a workshop, an article, or an interview in a newspaper, radio, or television, are important and necessary.
-We only make sense if people use what we do.
+Our activities only make sense if people use what we do.
 
 ## 2. What aspects do you have to take into account when thinking about an event with very interdisciplinary talks?
 
