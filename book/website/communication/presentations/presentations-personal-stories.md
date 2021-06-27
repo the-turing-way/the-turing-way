@@ -24,7 +24,8 @@ Our activities only make sense if people use what we do.
 ## 2. What aspects do you have to take into account when thinking about an event with very interdisciplinary talks?
 
 I think the main thing is to know your audience beforehand.
-You can ask the organizers of the event to whom you are going to speak, what is their background, what is the reason they come to the event, and so on., since, in that way, you can foresee some of the expectations they are going to have and try, at least, to fulfil some of them in your talk.
+You can ask the organizers of the event to whom you are going to speak, what is their background, what is the reason they come to the event, and so on. 
+In that way, you can foresee some of the expectations they are going to have and try to fulfill some of them in your talk.
 
 Also, I start the talk with a relaxed attitude so that the audience feels that, even though I am there as an expert,
 I am approachable when it comes to comments and questions.
