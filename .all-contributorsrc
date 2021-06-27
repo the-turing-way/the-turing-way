@@ -2594,6 +2594,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "yabellini",
+      "name": "Yanina Bellini Saibene",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2473676?v=4",
+      "profile": "https://yabellini.netlify.com/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
