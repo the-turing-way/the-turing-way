@@ -1,8 +1,8 @@
 (rr-credit-checklist)=
-# Checklist and Recommendations
+# Checklists and Resources
 
 (rr-credit-checklist-authors)=
-## For Authors
+## Checklist For Authors
 
 - Pick out key datasets and software your conclusions rely on
 - Cite data and software just like you would cite a paper
