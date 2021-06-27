@@ -65,7 +65,7 @@ By attending and talking about what I’m working on has resulted in collaborati
 Expanding that network of contacts can also mean that you can bring people together to work jointly.
 I think it is a very important role for those of us who have been in the profession for several years to be a bridge between communities and people so that they can get to know each other.
 
-On the other hand, it helps me to improve my talks, my materials (many of them end up in a somewhat more academic publication), and to gauge the needs, doubts, or concerns of people regarding the topic I am communicating.
+Delivering talks also helps me to improve my talks, my materials (many of them end up in a somewhat more academic publication), and to gauge the needs, doubts, or concerns of people regarding the topic I am communicating.
 That serves me as a thermometer of demand, of what people are needing; of what is not being understood; of what topics require training, books, Blogposts, or materials; to reaffirm or correct the direction of my work.
 This can lead to the presentation of a new project proposal, the search for funding for that project.
 
