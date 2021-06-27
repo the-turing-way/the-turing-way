@@ -19,7 +19,7 @@ Therefore, consider using the tool that will be the least time consuming for you
     * This is worth a read about [starting a WordPress blog](https://www.podcastinsights.com/start-a-wordpress-blog/).
 * **Google sites**
     - Not originally set up for blogs but can be adapted for this purpose or used as a project website with blog-type updates.
-    - It's free as part of the free Google docs Suite.
+    - It's free as part of the free Google Suite.
     - You can pay for business accounts through Google workspace for more options.
     - It has an accessible interface much like google slides that are easy to use and publish as a website.
     - Find more information at the help page [here](https://support.google.com/sites/?hl=en#topic=7184580)
