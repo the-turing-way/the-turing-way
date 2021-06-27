@@ -35,4 +35,3 @@ This helps to prevent this issue.
 * There will be one person that is the admin for the account and then the other users are contributors.
 * As a contributor you can post Tweets, Direct Message, like, and Retweet for the team account.
 You cannot change the password or manage account settings.
-* Here's a [link](https://help.twitter.com/en/using-twitter/tweetdeck-teams) to how to do this.
