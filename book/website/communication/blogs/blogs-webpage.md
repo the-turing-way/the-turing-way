@@ -38,3 +38,4 @@ These options are highlighted as they are very accessible and it's always worth 
     * You can select from various free themes using [Jekyll](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll).
     * This is a good resource to learn how to make GitHub pages - [Collaborative Github Docs](https://cassgvp.github.io/github-for-collaborative-documentation/docs/tut/4-2-Make-your-Pages-site.html).
     * This blog uses Github pages - [The Open Archaeobotanist](https://ekaroune.github.io/The-Open-Archaeobotanist/).
+    * You can use this blog post by Sarah Gibson [to create a blog with Hugo and Github pages] (https://sgibson91.github.io/blog/hugo-tutorial/).
