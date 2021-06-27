@@ -11,7 +11,8 @@ Most communications to wider audiences will be free to access as they will be di
 However, many scientific articles are not accessible even to researchers because they are behind paywalls.
 This is also the case for academic books that cost large amounts compared to popular novels.
 
-* Conference and workshop fees can exclude some researchers and you may not have control over this, therefore, putting your conference presentations and posters on an open repository will widen their accessibility.
+* Conference and workshop fees can exclude some researchers. 
+While you may not have control over conference access, you can share your conference presentations and posters on an open repository which will widen their accessibility.
 You may also consider recording your presentations and making them available online.
 * If you are organising an event, you can make an effort to reduce the costs or offer grants to certain individuals.
 
