@@ -35,7 +35,7 @@ These include being able to add alt text to any images and using the specific he
 ## Language Translation
 
 English is considered the academic language and we should be careful to make sure that all our outputs are accessible in this language.
-Not everyone has the same level of English therefore outputs should be written straightforwardly to make them more accessible to those with English as a second language.
+Outputs should be written straightforwardly to make them more accessible to those with English as a second language.
 
 * However, not all communications should be in English.
 Researchers need to consider the wider audience of their communications.
