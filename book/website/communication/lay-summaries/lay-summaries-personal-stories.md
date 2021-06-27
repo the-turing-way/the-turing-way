@@ -43,7 +43,7 @@ For instance, providing an opportunity for blogs by Early Career Researchers who
 
 **4. What tools/software do you use most in your lay summaries?**
 
-The Palaeoecology special interest group used Google drive to run the project as Google docs were used to write collaboratively and Google sheets were used to coordinate the lay summaries and the editing and publishing progress.
+The Palaeoecology special interest group used Google Drive to run the project as Google Docs were used to write collaboratively and Google Sheets were used to coordinate the lay summaries and the editing and publishing progress.
 This allowed us to work synchronously during the workshop and asynchronously over the whole time of the project.
 
 The blog website uses WordPress.
