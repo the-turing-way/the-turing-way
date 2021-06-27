@@ -31,7 +31,7 @@ This helps to prevent this issue.
 
 **4. Enabling multiple users of the same account**
 
-* Also on Tweetdeck, you can set up an account as a team to allow multiple users to have different access.
+* Also on Tweetdeck, you can [set up an account as a team to allow multiple users to have different access](https://help.twitter.com/en/using-twitter/tweetdeck-teams).
 * There will be one person that is the admin for the account and then the other users are contributors.
 * As a contributor you can post Tweets, Direct Message, like, and Retweet for the team account.
 You cannot change the password or manage account settings.
