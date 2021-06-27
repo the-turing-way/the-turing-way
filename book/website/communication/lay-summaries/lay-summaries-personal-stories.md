@@ -37,7 +37,7 @@ The aim was to release one lay summary a week for a whole year.
 **3. What impact do you think your lay summaries are making to your research/project/community?**
 
 Althea told me that the WordPress site has between c.80 and 530 views per month, depending on how many posts we have.
-As to what impact they're having, She is not sure how to measure this.
+As to what impact they're having, she is not sure how to measure this.
 Althea commented that they didn't set out to be an 'influencer' looking for a high hit rate, rather more of a support mechanism, point of connection and community resource for palaeoscientists working in various disciplines and sectors.
 For instance, providing an opportunity for blogs by Early Career Researchers who might be unsure about offering one to a 'bigger' organisation, like a journal.
 
