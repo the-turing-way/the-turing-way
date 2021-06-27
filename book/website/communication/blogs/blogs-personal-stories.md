@@ -54,7 +54,7 @@ Make it a habit to post something. Review your posts after a while to see what k
 ## 6. Do you have any tips on things to avoid?
 
 Don't fall into the "X step simple formula for bloggers" which is optimized to create short content with lots of clicks.
-There are lots of types of "real" blogs there that do not do this, and which have dedicated readers.
+There are lots of types of "real" blogs that do not do this, and which have dedicated readers.
 
 ## 7. Where do you see your blog going in the future?
 
