@@ -7,7 +7,7 @@ They help to disseminate findings between scientific disciplines as academic res
 This can aid collaboration within research groups that have a mix of specialists and other stakeholders in the same team.
 
 More recently, lay summaries are becoming a requirement from academic journals as part of the submission of a research article.
-However, writing lay summaries is a specific form of writing and requires training, or at least careful thought, to be able to adapt your scientific abstract and other such writing in this way.
+However, writing lay summaries is a specific form of writing and requires training, or at least careful thought, to be able to adapt your scientific writing.
 
 (cm-lay-summaries-what)=
 ## What is a Lay Summary?
