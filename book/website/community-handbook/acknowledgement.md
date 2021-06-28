@@ -17,8 +17,8 @@ The process of acknowledging contributors in *The Turing Way*. _The Turing Way_ 
 ```
 
 We recognise all kinds of contributions that are possible in this project.
-We update our {ref}`Contributors Table<aw-contributors-record-contributors>` by appropriately acknowledging our contributors' work within _The Turing Way_.
-Furthermore, we invite every community member to update the {ref}`Record of Contributions<aw-contributors-record-highlights>` with their personal highlights in _The Turing Way_ and use it for promoting their contributions to open science in general.
+We update our {ref}`Contributors Table<contributors-record-contributors>` by appropriately acknowledging our contributors' work within _The Turing Way_.
+Furthermore, we invite every community member to update the {ref}`Record of Contributions<contributors-record-highlights>` with their personal highlights in _The Turing Way_ and use it for promoting their contributions to open science in general.
 
 In this chapter, we provide details on the following aspects:
 - who our contributors and community members are
