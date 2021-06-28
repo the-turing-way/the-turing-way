@@ -1,736 +1,1267 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Place Holder <test@test.com>, 2020.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Marilina Santero <marilinasantero@gmail.com>, 2021
+# Reina Camacho Toro <rcamacho07@gmail.com>, 2021
+# Fabricio Jiménez <fabricioajm@gmail.com>, 2021
+# Camila Rangel Smith <camila.rangel.smith@gmail.com>, 2021
+# Pamela Villar González <pamela.villar.gonzalez@psych.uw.edu.pl>, 2021
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: content\n"
 "Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
 "POT-Creation-Date: 2020-02-05 19:08:03+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Place Holder <test@test.com>\n"
-"Language-Team: Spanish <LL@li.org>\n"
+"PO-Revision-Date: 2020-04-07 14:20+0000\n"
+"Last-Translator: Pamela Villar González <pamela.villar.gonzalez@psych.uw.edu.pl>, 2021\n"
+"Language-Team: Spanish (https://www.transifex.com/theturingway/teams/107194/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: continuous_integration/continuous_integration.md:1
 # header
+#: continuous_integration/continuous_integration.md:1
 msgid "# Continuous integration"
-msgstr ""
+msgstr "# Integración continua"
 
 #: continuous_integration/continuous_integration.md:3
 msgid "| Prerequisite | Importance | Notes |"
-msgstr ""
+msgstr "| Pre-requisitos | Importancia | Notas |"
 
 #: continuous_integration/continuous_integration.md:4
 msgid "| -------------|------------|-------|"
-msgstr ""
+msgstr "| -------------|------------|-------|"
 
 #: continuous_integration/continuous_integration.md:5
-msgid "| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary | Continuous integration will follow command line instructions"
+msgid ""
+"| [Experience with the command "
+"line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary"
+" | Continuous integration will follow command line instructions"
 msgstr ""
+"| [Experiencia con la línea de "
+"comandos](https://programminghistorian.org/en/lessons/intro-to-bash) | "
+"Necesario | La integración continua seguirá las instrucciones de línea de "
+"comandos"
 
 #: continuous_integration/continuous_integration.md:6
-msgid "| [Version control](/version_control/version_control) | Necessary | Continuous integration runs every time a new _commit_ is made to your project |"
+msgid ""
+"| [Version control](/version_control/version_control) | Necessary | "
+"Continuous integration runs every time a new _commit_ is made to your "
+"project |"
 msgstr ""
+"| [Control de versiones](/version_control/version_control) | Necesario | \n"
+"La integración continua corre cada vez que un _commit_ nuevo es hecho en tu proyecto.|"
 
 #: continuous_integration/continuous_integration.md:7
-msgid "| [Reproducible computational environments](/reproducible_environments/reproducible_environments) | Necessary | Continuous integration runs your tests on a separate computer (usually in the cloud) so you need to set it up in the same way. |"
+msgid ""
+"| [Reproducible computational "
+"environments](/reproducible_environments/reproducible_environments) | "
+"Necessary | Continuous integration runs your tests on a separate computer "
+"(usually in the cloud) so you need to set it up in the same way. |"
 msgstr ""
+"| [Entornos computacionales "
+"reproducibles](/reproducible_environments/reproducible_environments) | "
+"Necesario | La integración continua ejecuta sus pruebas en un computador "
+"separado (normalmente en la nube) por lo que necesitas configurarlo de la "
+"misma manera. |"
 
 #: continuous_integration/continuous_integration.md:8
-msgid "| [Testing](/testing/testing) | Very helpful | Continuous integration _tests_ if anything important has changed when you make a change in your project  |"
+msgid ""
+"| [Testing](/testing/testing) | Very helpful | Continuous integration "
+"_tests_ if anything important has changed when you make a change in your "
+"project  |"
 msgstr ""
+"| [Testing](/testing/testing) | Muy útil | Integración continua _prueba_ si "
+"algo importante ha cambiado cuando haces un cambio en tu proyecto.  |"
 
-#: continuous_integration/continuous_integration.md:10
 # header
+#: continuous_integration/continuous_integration.md:10
 msgid "## Table of contents"
-msgstr ""
+msgstr "## Tabla de contenidos "
 
+# unordered list
 #: continuous_integration/continuous_integration.md:12
-# unordered list
 msgid "- [Summary](#Summary)"
-msgstr ""
+msgstr "- [Resumen](#Summary)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:13
-# unordered list
 msgid "- [How this will help you/ why this is useful](#Why_this_is_useful)"
-msgstr ""
+msgstr "- [Cómo te ayudará esto/ por qué es útil](#Why_this_is_useful)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:14
-# unordered list
-msgid "  - [What are continuous delivery and continuous deployment?](#What_are_continuous_delivery_and_continuous_deployment)"
+msgid ""
+"  - [What are continuous delivery and continuous "
+"deployment?](#What_are_continuous_delivery_and_continuous_deployment)"
 msgstr ""
+"  - [¿Qué son la entrega continua y el (paso a producción) «deployment» "
+"continuo?](#What_are_continuous_delivery_and_continuous_deployment)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:15
-# unordered list
-msgid "- [What is Travis and how does it work?](#What_is_Travis_and_how_does_it_work)"
+msgid ""
+"- [What is Travis and how does it "
+"work?](#What_is_Travis_and_how_does_it_work)"
 msgstr ""
+"- [¿Qué es Travis y cómo funciona?](#What_is_Travis_and_how_does_it_work)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:16
-# unordered list
-msgid "- [Setting up continuous integration with Travis](#Setting_up_continuous_integration_with_Travis)"
+msgid ""
+"- [Setting up continuous integration with "
+"Travis](#Setting_up_continuous_integration_with_Travis)"
 msgstr ""
+"- [Cómo establecer la integración continua con "
+"Travis](#Setting_up_continuous_integration_with_Travis)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:17
-# unordered list
 msgid "  - [Basic steps](#Basic_steps)"
-msgstr ""
+msgstr "  - [Pasos básicos](#Basic_steps)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:18
-# unordered list
-msgid "  - [Setting up the computational environment](#Setting_up_the_computational_environment)"
+msgid ""
+"  - [Setting up the computational "
+"environment](#Setting_up_the_computational_environment)"
 msgstr ""
+"- [Cómo establecer el entorno "
+"computacional](#Setting_up_the_computational_environment)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:19
-# unordered list
 msgid "    - [Operating system](#Operating_system)"
-msgstr ""
+msgstr "    - [Sistema operativo](#Operating_system)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:20
-# unordered list
 msgid "    - [Programming language](#Programming_language)"
-msgstr ""
+msgstr "    - [Lenguaje de programación](#Programming_language)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:21
-# unordered list
 msgid "    - [Compilers](#Compilers)"
-msgstr ""
+msgstr "    - [Compiladores](#Compilers)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:22
-# unordered list
 msgid "    - [Dependencies](#Dependencies)"
-msgstr ""
+msgstr "    - [Dependencias](#Dependencies)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:23
-# unordered list
 msgid "    - [Containers](#Containers)"
-msgstr ""
+msgstr "    - [Contenedores](#Containers)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:24
-# unordered list
 msgid "  - [The .travis.yml script](#The_travis_yml_script)"
-msgstr ""
+msgstr "  - [El script .travis.yml](#The_travis_yml_script)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:25
-# unordered list
 msgid "  - [After success](#After_success)"
-msgstr ""
+msgstr "  - [Al finalizar con éxito la integración continua](#After_success)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:26
-# unordered list
-msgid "  - [Testing a project against multiple versions of a programming language](#Testing_a_project_against_multiple_versions_of_a_programming_language)"
+msgid ""
+"  - [Testing a project against multiple versions of a programming "
+"language](#Testing_a_project_against_multiple_versions_of_a_programming_language)"
 msgstr ""
+"  - [Cómo hacer test de un proyecto contra múltiples versiones de un "
+"lenguaje de "
+"programación](#Testing_a_project_against_multiple_versions_of_a_programming_language)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:27
-# unordered list
-msgid "  - [Testing a project on multiple operating systems](#Testing_a_project_on_multiple_operating_systems)"
+msgid ""
+"  - [Testing a project on multiple operating "
+"systems](#Testing_a_project_on_multiple_operating_systems)"
 msgstr ""
+"- [Cómo hacer test de un proyecto en múltiples sistemas "
+"operativos](#Testing_a_project_on_multiple_operating_systems)"
 
-#: continuous_integration/continuous_integration.md:28
 # unordered list
+#: continuous_integration/continuous_integration.md:28
 msgid "    - [Allowing failures](#Allowing_failures)"
 msgstr ""
+"- [Permitiendo que la integración continua falle](#Allowing_failures)\n"
+" "
 
+# unordered list
 #: continuous_integration/continuous_integration.md:29
-# unordered list
 msgid "- [Limitations of CI](#Limitations_of_CI)"
-msgstr ""
+msgstr "- [Limitations de la Integración continua](#Limitations_of_CI)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:30
-# unordered list
-msgid "- [Best practise for continuous integration](#Best_practise_for_continuous_integration)"
+msgid ""
+"- [Best practise for continuous "
+"integration](#Best_practise_for_continuous_integration)"
 msgstr ""
+"- [Mejores prácticas para la integración "
+"continua](#Best_practise_for_continuous_integration)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:31
-# unordered list
 msgid "  - [Small, iterative changes](#Small_iterative_changes)"
-msgstr ""
+msgstr "  - [Cambios pequeños e iterativos](#Small_iterative_changes)"
 
-#: continuous_integration/continuous_integration.md:32
 # unordered list
+#: continuous_integration/continuous_integration.md:32
 msgid "  - [Trunk-based development](#Trunk_based_development)"
 msgstr ""
+"- [Desarrollo basado en el «trunk» (rama "
+"principal)](#Trunk_based_development)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:33
-# unordered list
-msgid "  - [Keep the building and testing phases fast](#Keep_the_building_and_testing_phases_fast)"
+msgid ""
+"  - [Keep the building and testing phases "
+"fast](#Keep_the_building_and_testing_phases_fast)"
 msgstr ""
+"  - [Mantén rápidas las fases de construcción y "
+"prueba](#Keep_the_building_and_testing_phases_fast)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:34
-# unordered list
 msgid "  - [Computational expense](#Computational_expense)"
-msgstr ""
+msgstr "  - [Gasto computacional](#Computational_expense)"
 
-#: continuous_integration/continuous_integration.md:35
 # unordered list
+#: continuous_integration/continuous_integration.md:35
 msgid "  - [Dependencies tracking](#Dependencies_tracking)"
 msgstr ""
+"  - [«Tracking» (rastreo) de las dependencias](#Dependencies_tracking)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:36
-# unordered list
-msgid "  - [Consistency throughout the pipeline](#Consistency_throughout_the_pipeline)"
+msgid ""
+"  - [Consistency throughout the "
+"pipeline](#Consistency_throughout_the_pipeline)"
 msgstr ""
+"  - [Consistencia en el «pipeline» (cadena de "
+"procesos)](#Consistency_throughout_the_pipeline)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:37
-# unordered list
 msgid "- [Checklist](#Checklist)"
-msgstr ""
+msgstr "- [Lista de control](#Checklist)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:38
-# unordered list
 msgid "- [What to learn next](#What_to_learn_next)"
-msgstr ""
+msgstr "- [Qué aprender a continuación](#What_to_learnt_next)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:39
-# unordered list
 msgid "- [Further reading](#Further_reading)"
-msgstr ""
+msgstr "- [Lectura adicional](#Further_reading)"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:40
-# unordered list
 msgid "- [Definitions/glossary](#Definitions_glossary)"
-msgstr ""
+msgstr "- [Definiciones/glosario](#Definitions_glossary)"
 
-#: continuous_integration/continuous_integration.md:41
 # unordered list
+#: continuous_integration/continuous_integration.md:41
 msgid "- [Bibliography](#Bibliography)"
-msgstr ""
+msgstr "- [Bibliografía](#Bibliography)"
 
 #: continuous_integration/continuous_integration.md:43
 msgid "<a name=\"Summary\"></a>"
-msgstr ""
+msgstr "<a name=\"Summary\"></a>"
 
-#: continuous_integration/continuous_integration.md:44
 # header
+#: continuous_integration/continuous_integration.md:44
 msgid "## Summary"
-msgstr ""
+msgstr "## Resumen"
 
 #: continuous_integration/continuous_integration.md:46
-msgid "Continuous integration (CI) is the practice of integrating changes to a project made by individuals into a main, shared version frequently (usually multiple times per day). CI software is also typically used to identify any conflicts and bugs that are introduced by changes, so they are found and fixed early, minimizing the effort required to do so. Running tests regularly also saves humans from needing to do it manually. By making users aware of bugs as early as possible researchers (if the project is a research project) do not waste a lot of time doing work that may need to be thrown away, which may be the case if tests are run infrequently and results are produced using faulty code."
+msgid ""
+"Continuous integration (CI) is the practice of integrating changes to a "
+"project made by individuals into a main, shared version frequently (usually "
+"multiple times per day). CI software is also typically used to identify any "
+"conflicts and bugs that are introduced by changes, so they are found and "
+"fixed early, minimizing the effort required to do so. Running tests "
+"regularly also saves humans from needing to do it manually. By making users "
+"aware of bugs as early as possible researchers (if the project is a research"
+" project) do not waste a lot of time doing work that may need to be thrown "
+"away, which may be the case if tests are run infrequently and results are "
+"produced using faulty code."
 msgstr ""
+"La integración continua (IC) es la práctica de integrar los cambios "
+"realizados por las personas en un proyecto en una versión principal y "
+"compartida con frecuencia (por lo general varias veces al día). El software "
+"de IC también se suele utilizar para identificar los conflictos y «bugs» "
+"(errores) que introducen los cambios, de manera que se encuentren y se "
+"solucionen pronto, reduciendo al mínimo el esfuerzo necesario para ello. La "
+"realización de pruebas con regularidad también evita que los seres humanos "
+"tengan que hacerlo manualmente. Al dar a conocer los errores a los usuarios "
+"lo antes posible, los investigadores (si se trata de un proyecto de "
+"investigación) no pierden mucho tiempo haciendo trabajos que tal vez haya "
+"que desechar, lo que puede ocurrir si las pruebas se ejecutan con poca "
+"frecuencia y los resultados se producen utilizando un código defectuoso."
 
 #: continuous_integration/continuous_integration.md:48
 msgid "<a name=\"Why_this_is_useful\"></a>"
-msgstr ""
+msgstr "<a name=\"Why_this_is_useful\"></a>"
 
-#: continuous_integration/continuous_integration.md:49
 # header
+#: continuous_integration/continuous_integration.md:49
 msgid "## How this will help you/ why this is useful"
-msgstr ""
+msgstr "## Cómo te ayudará esto/ por qué esto es útil"
 
 #: continuous_integration/continuous_integration.md:51
 msgid "CI has a number of key benefits:"
-msgstr ""
+msgstr "La IC tiene un número de beneficios clave:"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:53
-# unordered list
-msgid "- Helps bugs to be found early, minimizing their damage and making them easier to fix"
+msgid ""
+"- Helps bugs to be found early, minimizing their damage and making them "
+"easier to fix"
 msgstr ""
+"- Ayuda a encontrar de manera temprana los bugs, minimizando su daño y "
+"haciéndolos más fáciles de arreglar."
 
+# unordered list
 #: continuous_integration/continuous_integration.md:54
-# unordered list
-msgid "- Keeps project contributors up to date with each other's work so they can benefit from it as soon as possible"
+msgid ""
+"- Keeps project contributors up to date with each other's work so they can "
+"benefit from it as soon as possible"
 msgstr ""
+"- Mantiene a los colaboradores al tanto del trabajo de los demás para que "
+"puedan beneficiarse de este lo antes posible."
 
+# unordered list
 #: continuous_integration/continuous_integration.md:55
-# unordered list
 msgid "- Encourages users to write tests"
-msgstr ""
+msgstr "- Anima a los usuarios a escribir pruebas"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:56
-# unordered list
 msgid "- Automates running of tests"
-msgstr ""
+msgstr "- Automatiza la ejecución de las pruebas."
 
-#: continuous_integration/continuous_integration.md:57
 # unordered list
+#: continuous_integration/continuous_integration.md:57
 msgid "- Ensures tests are run frequently"
-msgstr ""
+msgstr "- Asegura que las pruebas sean hechas frecuentemente."
 
 #: continuous_integration/continuous_integration.md:59
 msgid "<a name=\"What_is_continuous_integration\"></a>"
-msgstr ""
+msgstr "<a name=\"What_is_continuous_integration\"></a>"
 
-#: continuous_integration/continuous_integration.md:60
 # header
+#: continuous_integration/continuous_integration.md:60
 msgid "## What is continuous integration?"
-msgstr ""
+msgstr "## ¿Qué es la integración continua?"
 
 #: continuous_integration/continuous_integration.md:62
-msgid "This chapter demands a strong understanding of version control. The central concepts you will need to recall are:"
+msgid ""
+"This chapter demands a strong understanding of version control. The central "
+"concepts you will need to recall are:"
 msgstr ""
+"Este capítulo requiere un entendimiento sólido de control de versiones. Los "
+"conceptos centrales que necesitas recordar son:"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:64
-# unordered list
-msgid "- How it can be used to enable people collaborating on a single project to combine their work via merging"
+msgid ""
+"- How it can be used to enable people collaborating on a single project to "
+"combine their work via merging"
 msgstr ""
+"- Cómo puede utilizarse para que las personas que colaboran en un mismo "
+"proyecto combinen su trabajo mediante la fusión («merge»)"
 
-#: continuous_integration/continuous_integration.md:65
 # unordered list
+#: continuous_integration/continuous_integration.md:65
 msgid "- What merge conflicts are and the difficulties they can present"
 msgstr ""
+"- Qué son los conflictos de fusión («merge») y las dificultades que pueden "
+"presentar"
 
-#: continuous_integration/continuous_integration.md:66
 # unordered list
+#: continuous_integration/continuous_integration.md:66
 msgid "- What GitHub is and how to use it"
-msgstr ""
+msgstr "- Qué es GitHub y cómo utilizarlo"
 
 #: continuous_integration/continuous_integration.md:68
-msgid "In brief if a group of researchers are collaborating on a project it is good practise for them to use version control to keep track of their changes over time, and combine their work regularly. If they do not combine (integrate) their work regularly then when they come to do so it is likely to be very difficult as different people may have made contradictory changes."
+msgid ""
+"In brief if a group of researchers are collaborating on a project it is good"
+" practise for them to use version control to keep track of their changes "
+"over time, and combine their work regularly. If they do not combine "
+"(integrate) their work regularly then when they come to do so it is likely "
+"to be very difficult as different people may have made contradictory "
+"changes."
 msgstr ""
+"En resumen, si un grupo de investigadores colabora en un proyecto, es una "
+"buena práctica que utilicen el control de versiones para hacer un "
+"seguimiento de sus cambios a lo largo del tiempo y combinar su trabajo con "
+"regularidad. Si no combinan (integran) su trabajo con regularidad, es "
+"probable que cuando tengan que hacerlo les resulte muy difícil, ya que "
+"diferentes personas pueden haber hecho cambios contradictorios."
 
 #: continuous_integration/continuous_integration.md:70
-msgid "Continuous Integration is a software development practice where members of a team integrate their work frequently, rather than doing work in isolation and merging in large changes at infrequent intervals. In CI usually each person integrates at least daily. Each integration is verified by an automated build (usually including tests) to detect integration errors as quickly as possible."
+msgid ""
+"Continuous Integration is a software development practice where members of a"
+" team integrate their work frequently, rather than doing work in isolation "
+"and merging in large changes at infrequent intervals. In CI usually each "
+"person integrates at least daily. Each integration is verified by an "
+"automated build (usually including tests) to detect integration errors as "
+"quickly as possible."
 msgstr ""
+"La integración continua es una práctica de desarrollo de software en la que "
+"los miembros de un equipo integran su trabajo con frecuencia, en lugar de "
+"hacer el trabajo de forma aislada y fusionar los grandes cambios a "
+"intervalos poco frecuentes. En la integración continua, cada persona suele "
+"integrar al menos una vez al día. Cada integración se verifica mediante una "
+"compilación automatizada (que suele incluir pruebas) para detectar los "
+"errores de integración lo antes posible."
 
 #: continuous_integration/continuous_integration.md:72
-msgid "The idea is to minimize the cost of integration by making it an early consideration. Researchers can discover conflicts at the boundaries between new and existing code early, while they are still relatively easy to reconcile. Once the conflict is resolved, work can continue with confidence that the new code honours the requirements of the existing codebase. The goal is to build healthier software by developing and testing in smaller increments.  Many teams find that this approach leads to significantly reduced integration problems and allows a team to develop more rapidly."
+msgid ""
+"The idea is to minimize the cost of integration by making it an early "
+"consideration. Researchers can discover conflicts at the boundaries between "
+"new and existing code early, while they are still relatively easy to "
+"reconcile. Once the conflict is resolved, work can continue with confidence "
+"that the new code honours the requirements of the existing codebase. The "
+"goal is to build healthier software by developing and testing in smaller "
+"increments.  Many teams find that this approach leads to significantly "
+"reduced integration problems and allows a team to develop more rapidly."
 msgstr ""
+"La idea es minimizar el costo de la integración haciendo que sea una "
+"consideración temprana. Los investigadores pueden descubrir pronto los "
+"conflictos en los límites entre el código nuevo y el existente, cuando "
+"todavía son relativamente fáciles de conciliar. Una vez resuelto el "
+"conflicto, el trabajo puede continuar con la confianza de que el nuevo "
+"código cumple los requisitos de la base de código existente. El objetivo es "
+"construir un software más saludable desarrollando y probando en incrementos "
+"más pequeños. Muchos equipos descubren que este enfoque reduce "
+"considerablemente los problemas de integración y permite al equipo "
+"desarrollar más rápidamente."
 
 #: continuous_integration/continuous_integration.md:74
-msgid "Integrating code frequently does not, by itself, offer any guarantees about the quality of the new code or functionality. This leads us to the second aspect of CI. When a developer merges code into the main repository, automated processes build a working version of the project. Afterwards, test suites are run against the new build to check whether any bugs were introduced. If either the build or the test phase fails, the team is alerted so that they can work to fix the problem. It is easier to fix a bug in something you wrote a few minutes ago than something you wrote yesterday (or last week, or last month)."
+msgid ""
+"Integrating code frequently does not, by itself, offer any guarantees about "
+"the quality of the new code or functionality. This leads us to the second "
+"aspect of CI. When a developer merges code into the main repository, "
+"automated processes build a working version of the project. Afterwards, test"
+" suites are run against the new build to check whether any bugs were "
+"introduced. If either the build or the test phase fails, the team is alerted"
+" so that they can work to fix the problem. It is easier to fix a bug in "
+"something you wrote a few minutes ago than something you wrote yesterday (or"
+" last week, or last month)."
 msgstr ""
+"Integrar el código con frecuencia no ofrece, por sí mismo, ninguna garantía "
+"sobre la calidad del nuevo código o funcionalidad. Esto nos lleva al segundo"
+" aspecto de la IC. Cuando un desarrollador fusiona el código en el "
+"repositorio principal, los procesos automatizados construyen una versión de "
+"trabajo del proyecto. Después, se ejecutan conjuntos de pruebas con la nueva"
+" versión para comprobar si se ha introducido algún error. Si la fase de "
+"construcción o de prueba falla, se avisa al equipo para que pueda trabajar "
+"para solucionar el problema. Es más fácil corregir un error en algo que has "
+"escrito hace unos minutos que en algo que escribiste ayer (o la semana "
+"pasada, o el mes pasado)."
 
 #: continuous_integration/continuous_integration.md:76
-msgid "By ensuring that your code is built and tested regularly CI helps researchers to demonstrate that their code does what it claims to do, and that it does so correctly. Typically, continuous integration servers will also allow build-and-test jobs to run at specific times, so a CRON-like, nightly-build-and-test, can be done, as well as a build-and-test job run on-demand."
+msgid ""
+"By ensuring that your code is built and tested regularly CI helps "
+"researchers to demonstrate that their code does what it claims to do, and "
+"that it does so correctly. Typically, continuous integration servers will "
+"also allow build-and-test jobs to run at specific times, so a CRON-like, "
+"nightly-build-and-test, can be done, as well as a build-and-test job run on-"
+"demand."
 msgstr ""
+"Al asegurar que tu código se construye y se prueba regularmente, la "
+"integración continua ayuda a los investigadores a demostrar que su código "
+"hace lo que dice hacer, y que lo hace correctamente. Normalmente, los "
+"servidores de integración continua también permiten que las tareas de "
+"construcción y prueba («build» y «test») se ejecuten en momentos "
+"específicos, por lo que se puede realizar una tarea de build y test nocturna"
+" del estilo de CRON, así como una tarea de build y test ejecutada cuando se "
+"desee."
 
 #: continuous_integration/continuous_integration.md:78
 msgid "<a name=\"What_are_continuous_delivery_and_continuous_deployment\"></a>"
-msgstr ""
+msgstr "<a name=\"What_are_continuous_delivery_and_continuous_deployment\"></a>"
 
-#: continuous_integration/continuous_integration.md:79
 # header
+#: continuous_integration/continuous_integration.md:79
 msgid "### What are continuous delivery and continuous deployment?"
 msgstr ""
+"### ¿Qué son la entrega continua y el \"deployment\" (despliegue)\n"
+" continuo?"
 
 #: continuous_integration/continuous_integration.md:81
-msgid "Technically speaking the above explanation conflates three related concepts, continuous integration, continuous deployment, and continuous delivery. In reality:"
+msgid ""
+"Technically speaking the above explanation conflates three related concepts,"
+" continuous integration, continuous deployment, and continuous delivery. In "
+"reality:"
 msgstr ""
+"Técnicamente, la explicación anterior combina tres conceptos relacionados: "
+"integración continua, despliegue continuo y entrega continua. En realidad:"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:83
-# unordered list
-msgid "- Continuous integration focuses on regularly integrating work from individual researchers into a main repository."
+msgid ""
+"- Continuous integration focuses on regularly integrating work from "
+"individual researchers into a main repository."
 msgstr ""
+"- La integración continua se enfoca en integrar regularmente el trabajo de "
+"investigadores individuales en un repositorio principal."
 
+# unordered list
 #: continuous_integration/continuous_integration.md:84
-# unordered list
-msgid "- Continuous delivery automates and runs the steps required to build and test the project."
+msgid ""
+"- Continuous delivery automates and runs the steps required to build and "
+"test the project."
 msgstr ""
+"- La entrega continua automatiza y ejecuta los pasos requeridos para el "
+"build y el test del proyecto."
 
-#: continuous_integration/continuous_integration.md:85
 # unordered list
-msgid "- Continuous deployment takes this one step further by automatically deploying each time a code change is made."
+#: continuous_integration/continuous_integration.md:85
+msgid ""
+"- Continuous deployment takes this one step further by automatically "
+"deploying each time a code change is made."
 msgstr ""
+"- El despliegue continuo lleva esto más allá al desplegar automáticamente "
+"cada vez que el código se cambia."
 
 #: continuous_integration/continuous_integration.md:87
-msgid "In this chapter this entire process is referred to as continuous integration for the sake of simplicity."
+msgid ""
+"In this chapter this entire process is referred to as continuous integration"
+" for the sake of simplicity."
 msgstr ""
+"En este capítulo, todo este proceso se denomina integración continua, por "
+"simplicidad."
 
 #: continuous_integration/continuous_integration.md:89
 msgid "<a name=\"What_is_Travis_and_how_does_it_work\"></a>"
-msgstr ""
+msgstr "<a name=\"What_is_Travis_and_how_does_it_work\"></a>"
 
-#: continuous_integration/continuous_integration.md:90
 # header
+#: continuous_integration/continuous_integration.md:90
 msgid "## What is Travis and how does it work?"
-msgstr ""
+msgstr "## ¿Qué es Travis y cómo funciona?"
 
 #: continuous_integration/continuous_integration.md:92
-msgid "There are a number of CI tools available, such Circle (tutorials [here](https://circleci.com/docs/2.0/project-walkthrough/) and [here](https://circleci.com/docs/2.0/hello-world/)). A list of other CI tools can be found [here](https://www.software.ac.uk/resources/guides/hosted-continuous-integration). In this chapter we will focus on [Travis](https://travis-ci.org/) because it's free (if your code is openly available), widely used, and well integrated with the version control platform [GitHub](https://github.com/)."
+msgid ""
+"There are a number of CI tools available, such Circle (tutorials "
+"[here](https://circleci.com/docs/2.0/project-walkthrough/) and "
+"[here](https://circleci.com/docs/2.0/hello-world/)). A list of other CI "
+"tools can be found [here](https://www.software.ac.uk/resources/guides"
+"/hosted-continuous-integration). In this chapter we will focus on "
+"[Travis](https://travis-ci.org/) because it's free (if your code is openly "
+"available), widely used, and well integrated with the version control "
+"platform [GitHub](https://github.com/)."
 msgstr ""
+"Hay una serie de herramientas de IC disponibles, como Circle (tutoriales "
+"[aquí](https://circleci.com/docs/2.0/project-walkthrough/) y "
+"[aquí](https://circleci.com/docs/2.0/hello-world/)). Se puede encontrar una "
+"lista de otras herramientas de CI "
+"[aquí](https://www.software.ac.uk/resources/guides/hosted-continuous-"
+"integration). En este capítulo nos centraremos en [Travis](https://travis-"
+"ci.org/) porque es gratuita (si tu código está disponible abiertamente), "
+"ampliamente utilizada, y bien integrada con la plataforma de control de "
+"versiones [GitHub](https://github.com/)."
 
 #: continuous_integration/continuous_integration.md:94
-msgid "To use Travis you will need to add a file to your project called `.travis.yml` which describes the computational environment to run the project in, and includes a script to run your tests. See the chapter on reproducible computational environments for more information on them, including writing `.yml` files to specify them. See the chapter on testing for information on writing and automating tests. The .travis.yml file has a number of other capabilities, which will be described [later](#After_success) along with more [detailed instructions](#Setting_up_the_computational_environment) for writing these files."
+msgid ""
+"To use Travis you will need to add a file to your project called "
+"`.travis.yml` which describes the computational environment to run the "
+"project in, and includes a script to run your tests. See the chapter on "
+"reproducible computational environments for more information on them, "
+"including writing `.yml` files to specify them. See the chapter on testing "
+"for information on writing and automating tests. The .travis.yml file has a "
+"number of other capabilities, which will be described "
+"[later](#After_success) along with more [detailed "
+"instructions](#Setting_up_the_computational_environment) for writing these "
+"files."
 msgstr ""
+"Para usar Travis necesitarás añadir un archivo a tu proyecto llamado "
+"`.travis.yml` que describa el entorno computacional en el que ejecutar el "
+"proyecto, e incluya un script para ejecutar tus pruebas. Consulta el "
+"capítulo sobre entornos computacionales reproducibles para obtener más "
+"información sobre ellos, incluyendo la escritura de archivos `.yml` para "
+"especificarlos. Mira el capítulo sobre las pruebas para obtener información "
+"sobre cómo escribir y automatizar las pruebas. El archivo `.travis.yml` "
+"tiene una serie de otras capacidades, que se describirán [más "
+"adelante](#Después_del_exito) junto con más [instrucciones "
+"detalladas](#Configuración_del_entorno_computacional) para escribir estos "
+"archivos."
 
 #: continuous_integration/continuous_integration.md:96
-msgid "Once Travis has been set up on a project then each time a commit is made it:"
+msgid ""
+"Once Travis has been set up on a project then each time a commit is made it:"
 msgstr ""
+"Una vez que Travis ha sido configurado en un proyecto, cada vez que se hace "
+"un commit, sucede lo siguiente:"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:98
-# unordered list
 msgid "- Clones a copy of  project"
-msgstr ""
+msgstr "- Clona una copia del proyecto"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:99
-# unordered list
-msgid "- Generates a copy of the computational environment specified in the .travis.yml file in a brand new virtual environment"
+msgid ""
+"- Generates a copy of the computational environment specified in the "
+".travis.yml file in a brand new virtual environment"
 msgstr ""
+"- Genera una copia del ambiente computacional especificado en el archivo "
+".travis.yml en el nuevo entorno virtual"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:100
-# unordered list
 msgid "- Builds the project within that environment"
-msgstr ""
+msgstr "- Corre el build del proyecto dentro de este entorno."
 
+# unordered list
 #: continuous_integration/continuous_integration.md:101
-# unordered list
-msgid "- Runs the tests by following the script specified in the .travis.yml file"
+msgid ""
+"- Runs the tests by following the script specified in the .travis.yml file"
 msgstr ""
+"- Ejecuta las pruebas siguiendo el script especificado en el archivo "
+".travis.yml"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:102
-# unordered list
 msgid "- Reports the results"
-msgstr ""
+msgstr "- Reporta los resultados"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:103
-# unordered list
-msgid "  - Travis will output the results of every step of building the environment and running the script as a log viewable in your account on the [Travis site](https://travis-ci.org/) (the dark grey box in the figure below)."
+msgid ""
+"  - Travis will output the results of every step of building the environment"
+" and running the script as a log viewable in your account on the [Travis "
+"site](https://travis-ci.org/) (the dark grey box in the figure below)."
 msgstr ""
+"- Travis mostrará los resultados de cada paso de la construcción del entorno"
+" y la ejecución del script como un registro visible en su cuenta en el "
+"[sitio web de Travis](https://travis-ci.org/) (el cuadro gris oscuro en la "
+"figura de abajo)."
 
+# unordered list
 #: continuous_integration/continuous_integration.md:104
-# unordered list
-msgid "  - Travis will attach a badge to the results, green if all steps in the script (which run the tests) pass, red if not. The badge will be yellow whilst Travis is still running. If Travis is unable to generate the computational environment described in the .travis.yml file then it will not proceed further and the badge will be grey. See the figures below which show the passing build badge and failing build badge in the readme of a GitHub repository."
+msgid ""
+"  - Travis will attach a badge to the results, green if all steps in the "
+"script (which run the tests) pass, red if not. The badge will be yellow "
+"whilst Travis is still running. If Travis is unable to generate the "
+"computational environment described in the .travis.yml file then it will not"
+" proceed further and the badge will be grey. See the figures below which "
+"show the passing build badge and failing build badge in the readme of a "
+"GitHub repository."
 msgstr ""
+"  - Travis adjuntará una etiqueta a los resultados, de color verde si todos "
+"los pasos del script (que ejecutan las pruebas) pasan, de color rojo si no. "
+"La etiqueta será amarilla mientras Travis esté ejecutándose. Si Travis no "
+"puede generar el entorno computacional descrito en el archivo .travis.yml, "
+"no seguirá adelante y la etiqueta será gris. Vea las siguientes figuras que "
+"muestran la etiqueta de build exitoso y la etiqueta de build con falla en el"
+" readme de un repositorio de GitHub."
 
-#: continuous_integration/continuous_integration.md:105
 # unordered list
-msgid "  - Travis will also report the results via email (notification settings can be adjusted)."
+#: continuous_integration/continuous_integration.md:105
+msgid ""
+"  - Travis will also report the results via email (notification settings can"
+" be adjusted)."
 msgstr ""
+"  - Travis también informará de los resultados por correo electrónico (se "
+"puede ajustar la configuración de esta notificación)."
 
 #: continuous_integration/continuous_integration.md:107
 msgid "Here's what the Travis dashboard of a repository looks like:"
-msgstr ""
+msgstr "Así es como se ve el panel de control de Travis de un repositorio:"
 
 #: continuous_integration/continuous_integration.md:109
 msgid "![Travis_build](../figures/Travis_build.png)"
-msgstr ""
+msgstr "![Travis_build](../figures/Travis_build.png)"
 
 #: continuous_integration/continuous_integration.md:111
-msgid "Everything's green because the build is passing. Note the \"build passing\" badge at the top. If you click that you will get a popup with a dropdown menu where you can select a way of copying the badge. If you select \"markdown\" and copy and paste the code snippet it outputs into a markdown file in the project, then GitHub will display the badge in that file:"
+msgid ""
+"Everything's green because the build is passing. Note the \"build passing\" "
+"badge at the top. If you click that you will get a popup with a dropdown "
+"menu where you can select a way of copying the badge. If you select "
+"\"markdown\" and copy and paste the code snippet it outputs into a markdown "
+"file in the project, then GitHub will display the badge in that file:"
 msgstr ""
+"Todo está en verde porque el build fue exitoso. Fíjate en la insignia "
+"\"build passing\" de la parte superior. Si haces clic en ella, aparecerá una"
+" ventana emergente con un menú desplegable en el que puedes seleccionar una "
+"forma de copiar la etiqueta. Si seleccionas \"markdown\" y copias y pegas el"
+" fragmento de código que produce en un archivo markdown en el proyecto, "
+"entonces GitHub mostrará la etiqueta en ese archivo:"
 
 #: continuous_integration/continuous_integration.md:113
 msgid "![Travis_badge_pass](../figures/Travis_badge_pass.png)"
-msgstr ""
+msgstr "![Travis_badge_pass](../figures/Travis_badge_pass.png)"
 
 #: continuous_integration/continuous_integration.md:115
-msgid "If I deliberately create a bug and commit it then Travis automatically runs, the tests fail, and this badge automatically updates to \"build failing\":"
+msgid ""
+"If I deliberately create a bug and commit it then Travis automatically runs,"
+" the tests fail, and this badge automatically updates to \"build failing\":"
 msgstr ""
+"Si creo deliberadamente un error y lo confirmo, Travis se ejecuta "
+"automáticamente, las pruebas fallan, y esta etiqueta se actualiza "
+"automáticamente a \"build failing\":"
 
 #: continuous_integration/continuous_integration.md:117
 msgid "![Travis_badge_fail](../figures/Travis_badge_fail.png)"
-msgstr ""
+msgstr "![Travis_badge_fail](../figures/Travis_badge_fail.png)"
 
 #: continuous_integration/continuous_integration.md:119
-msgid "You can use Travis to test your project in multiple computational environments my specifying them in the .travis.yml file. A quick note on Travis vocabulary:"
+msgid ""
+"You can use Travis to test your project in multiple computational "
+"environments my specifying them in the .travis.yml file. A quick note on "
+"Travis vocabulary:"
 msgstr ""
+"Puedes utilizar Travis para probar tu proyecto en múltiples entornos "
+"computacionales, especificándolos en el archivo .travis.yml. Una nota rápida"
+" sobre el vocabulario de Travis:"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:121
-# unordered list
-msgid "- Job - an automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code and running tests. A job fails if the return code of the script encounters an error."
+msgid ""
+"- Job - an automated process that clones your repository into a virtual "
+"environment and then carries out a series of phases such as compiling your "
+"code and running tests. A job fails if the return code of the script "
+"encounters an error."
 msgstr ""
+"- Job - es un proceso automatizado que clona tu repositorio en un entorno "
+"virtual y luego lleva a cabo una serie de fases como la compilación de "
+"código y la ejecución de pruebas. Un trabajo falla si el código de retorno "
+"del script encuentra un error."
 
-#: continuous_integration/continuous_integration.md:122
 # unordered list
-msgid "- Build - a group of jobs. For example, a build might have two *jobs*, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished."
+#: continuous_integration/continuous_integration.md:122
+msgid ""
+"- Build - a group of jobs. For example, a build might have two *jobs*, each "
+"of which tests a project with a different version of a programming language."
+" A build finishes when all of its jobs are finished."
 msgstr ""
+"- Build - un grupo de \"jobs\" (trabajos). Por ejemplo, una compilación "
+"puede tener dos *jobs*, cada uno de los cuales prueba un proyecto con una "
+"versión diferente de un lenguaje de programación. Un build finaliza cuando "
+"todos sus jobs han terminado."
 
 #: continuous_integration/continuous_integration.md:124
 msgid "<a name=\"Setting_up_continuous_integration_with_Travis\"></a>"
-msgstr ""
+msgstr "<a name=\"Setting_up_continuous_integration_with_Travis\"></a>"
 
-#: continuous_integration/continuous_integration.md:125
 # header
+#: continuous_integration/continuous_integration.md:125
 msgid "## Setting up continuous integration with Travis"
-msgstr ""
+msgstr "## Configuración de la integración continua con Travis"
 
 #: continuous_integration/continuous_integration.md:127
 msgid "<a name=\"Basic_steps\"></a>"
-msgstr ""
+msgstr "<a name=\"Basic_steps\"></a>"
 
-#: continuous_integration/continuous_integration.md:128
 # header
+#: continuous_integration/continuous_integration.md:128
 msgid "### Basic steps"
-msgstr ""
+msgstr "## Pasos básicos"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:130
-# unordered list
 msgid "- Write a `.travis.yml` file and add it to your project."
-msgstr ""
+msgstr "- Escribe un archivo '.travis.yml' y agrégalo a tu proyecto."
 
+# unordered list
 #: continuous_integration/continuous_integration.md:131
-# unordered list
 msgid "- Upload your project to GitHub if you have not already."
-msgstr ""
+msgstr "- Sube tu proyecto a GitHub si aún no lo has hecho."
 
+# unordered list
 #: continuous_integration/continuous_integration.md:132
-# unordered list
-msgid "- Go to [Travis-ci.com](https://travis-ci.com) and [Sign up with GitHub](https://travis-ci.com/signin)."
+msgid ""
+"- Go to [Travis-ci.com](https://travis-ci.com) and [Sign up with "
+"GitHub](https://travis-ci.com/signin)."
 msgstr ""
+"- Ve a [Travis-ci.com](https://travis-ci.com) y [inicia sesión con "
+"GitHub](https://travis-ci.com/signin)."
 
+# unordered list
 #: continuous_integration/continuous_integration.md:133
-# unordered list
-msgid "- Accept the Authorization of Travis CI. You'll be redirected to GitHub."
+msgid ""
+"- Accept the Authorization of Travis CI. You'll be redirected to GitHub."
 msgstr ""
+"- Acepta la autorización de Travis CI. El sistema te enlazará a GitHub."
 
+# unordered list
 #: continuous_integration/continuous_integration.md:134
-# unordered list
-msgid "- You will see a list of your GitHub repositories with buttons next to them. Click the button next to your project repository to activate Travis on it."
+msgid ""
+"- You will see a list of your GitHub repositories with buttons next to them."
+" Click the button next to your project repository to activate Travis on it."
 msgstr ""
+"- Verás una lista de tus repositorios de GitHub con botones a los lados. Haz"
+" clic en el botón al lado de tu proyecto para activar Travis en este."
 
+# unordered list
 #: continuous_integration/continuous_integration.md:135
-# unordered list
-msgid "- Check the build status page to see if your build passes or fails, according to the return status of the build command by visiting the [Travis CI](https://travis-ci.com/auth) and selecting your repository."
+msgid ""
+"- Check the build status page to see if your build passes or fails, "
+"according to the return status of the build command by visiting the [Travis "
+"CI](https://travis-ci.com/auth) and selecting your repository."
 msgstr ""
+"- Comprueba la página de estado del build para ver si este pasa o falla, "
+"según el estado de retorno del comando de build, visitando la página [Travis"
+" CI](https://travis-ci.com/auth) y seleccionando tu repositorio."
 
-#: continuous_integration/continuous_integration.md:136
 # unordered list
-msgid "- Next time you commit to your repository Travis will run on the updated version of your project and report the results."
+#: continuous_integration/continuous_integration.md:136
+msgid ""
+"- Next time you commit to your repository Travis will run on the updated "
+"version of your project and report the results."
 msgstr ""
+"- La próxima vez que hagas commit en tu repositorio, Travis se ejecutará en "
+"la versión actualizada de tu proyecto e informará de los resultados."
 
 #: continuous_integration/continuous_integration.md:138
-msgid "It's that simple. The rest of this section will describe the different components of the .travis.yml file and how to write them."
+msgid ""
+"It's that simple. The rest of this section will describe the different "
+"components of the .travis.yml file and how to write them."
 msgstr ""
+"Es así de sencillo. El resto de esta sección describirá los diferentes "
+"componentes del archivo .travis.yml y cómo escribirlos."
 
 #: continuous_integration/continuous_integration.md:140
 msgid "<a name=\"Setting_up_the_computational_environment\"></a>"
-msgstr ""
+msgstr "<a name=\"Setting_up_the_computational_environment\"></a>"
 
-#: continuous_integration/continuous_integration.md:141
 # header
+#: continuous_integration/continuous_integration.md:141
 msgid "### Setting up the computational environment"
-msgstr ""
+msgstr "### Configuración del entorno computacional"
 
 #: continuous_integration/continuous_integration.md:143
-msgid "This page on [common build problems](https://docs.travis-ci.com/user/common-build-problems/) is a good place to start troubleshooting if your build is broken."
+msgid ""
+"This page on [common build problems](https://docs.travis-ci.com/user/common-"
+"build-problems/) is a good place to start troubleshooting if your build is "
+"broken."
 msgstr ""
+"Esta página sobre [problemas comunes de build](https://docs.travis-"
+"ci.com/user/common-build-problems/) es un buen lugar para empezar a "
+"solucionar problemas si tu build está fallando."
 
 #: continuous_integration/continuous_integration.md:145
 msgid "<a name=\"Operating_system\"></a>"
-msgstr ""
+msgstr "<a name=\"Operating_system\"></a>"
 
-#: continuous_integration/continuous_integration.md:146
 # header
+#: continuous_integration/continuous_integration.md:146
 msgid "#### Operating system"
-msgstr ""
+msgstr "#### Sistema operativo"
 
 #: continuous_integration/continuous_integration.md:148
-msgid "Travis CI works with a few different operating systems. In the .travis.yml  file define the operating system to run a project on via the os keyword like:"
+msgid ""
+"Travis CI works with a few different operating systems. In the .travis.yml  "
+"file define the operating system to run a project on via the os keyword "
+"like:"
 msgstr ""
+"Travis CI funciona con varios sistemas operativos. En el archivo .travis.yml"
+" se define el sistema operativo para ejecutar un proyecto a través de la "
+"palabra clave «os» como:"
 
-#: continuous_integration/continuous_integration.md:149
 # code block
-msgid "```\n"
+#: continuous_integration/continuous_integration.md:149
+msgid ""
+"```\n"
 "os: linux\n"
 "```"
 msgstr ""
+"```\n"
+"os: linux\n"
+"```"
 
 #: continuous_integration/continuous_integration.md:153
 #: continuous_integration/continuous_integration.md:158
 msgid "or"
-msgstr ""
+msgstr "o"
 
-#: continuous_integration/continuous_integration.md:154
 # code block
-msgid "```\n"
+#: continuous_integration/continuous_integration.md:154
+msgid ""
+"```\n"
 "os: macOS\n"
 "```"
 msgstr ""
+"```\n"
+"os: macOS\n"
+"```"
 
-#: continuous_integration/continuous_integration.md:159
 # code block
-msgid "```\n"
+#: continuous_integration/continuous_integration.md:159
+msgid ""
+"```\n"
 "os: windows\n"
 "```"
 msgstr ""
+"```\n"
+"os: windows\n"
+"```"
 
 #: continuous_integration/continuous_integration.md:163
-msgid "It is possible to build and test a project on multiple operating systems and against multiple versions of a programming language. This will be not be discussed here as this presents and extra level of complexity and will not be needed in most cases for research, but it is discussed [later](#Testing_a_project_against_multiple_versions_of_a_programming_language)."
+msgid ""
+"It is possible to build and test a project on multiple operating systems and"
+" against multiple versions of a programming language. This will be not be "
+"discussed here as this presents and extra level of complexity and will not "
+"be needed in most cases for research, but it is discussed "
+"[later](#Testing_a_project_against_multiple_versions_of_a_programming_language)."
 msgstr ""
+"Es posible hacer build y test de un proyecto en múltiples sistemas "
+"operativos y contra múltiples versiones de un lenguaje de programación. Esto"
+" no se discutirá aquí ya que presenta un nivel extra de complejidad y no "
+"será necesario en la mayoría de los casos para la investigación, pero se "
+"discute [más "
+"adelante](#Testing_a_project_against_multiple_versions_of_a_programming_language)."
 
 #: continuous_integration/continuous_integration.md:165
-msgid "To specify the distribution of an operating system to run the project with use `dist`, for example:"
+msgid ""
+"To specify the distribution of an operating system to run the project with "
+"use `dist`, for example:"
 msgstr ""
+"Para especificar la distribución de un sistema operativo para correr el "
+"proyecto, usa 'dist', por ejemplo:"
 
-#: continuous_integration/continuous_integration.md:167
 # code block
-msgid "```\n"
+#: continuous_integration/continuous_integration.md:167
+msgid ""
+"```\n"
 "os: linux\n"
 "dist: trusty\n"
 "```"
 msgstr ""
+"```\n"
+"os: linux\n"
+"dist: trusty\n"
+"```"
 
 #: continuous_integration/continuous_integration.md:172
 msgid "<a name=\"Programming_language\"></a>"
-msgstr ""
+msgstr "<a name=\"Programming_language\"></a>"
 
-#: continuous_integration/continuous_integration.md:173
 # header
+#: continuous_integration/continuous_integration.md:173
 msgid "#### Programming language"
-msgstr ""
+msgstr "#### Lenguaje de programación"
 
 #: continuous_integration/continuous_integration.md:175
-msgid "Specify the programming language to run your project with using the language keyword, and specify which version of the language to use. So for python2.7 this would look like:"
+msgid ""
+"Specify the programming language to run your project with using the language"
+" keyword, and specify which version of the language to use. So for python2.7"
+" this would look like:"
 msgstr ""
+"Especifica el lenguaje de programación con el que vas a ejecutar tu proyecto"
+" utilizando la palabra clave «language», y especifica qué versión del "
+"lenguaje vas a utilizar. Así que para python2.7 esto sería así:"
 
-#: continuous_integration/continuous_integration.md:176
 # code block
-msgid "```\n"
+#: continuous_integration/continuous_integration.md:176
+msgid ""
+"```\n"
 "language: python\n"
 "python:\n"
 "- \"2.7\"\n"
 "```"
 msgstr ""
+"```\n"
+"language: python\n"
+"python:\n"
+"- \"2.7\"\n"
+"```"
 
 #: continuous_integration/continuous_integration.md:181
-msgid "Further information on the programming languages that are compatible with Travis can be found [here](https://docs.travis-ci.com/user/languages/)"
+msgid ""
+"Further information on the programming languages that are compatible with "
+"Travis can be found [here](https://docs.travis-ci.com/user/languages/)"
 msgstr ""
+"Puedes encontrar más información sobre los lenguajes de programación "
+"compatibles con Travis [aquí](https://docs.travis-ci.com/user/languages/)"
 
 #: continuous_integration/continuous_integration.md:183
 msgid "<a name=\"Compilers\"></a>"
-msgstr ""
+msgstr "<a name=\"Compilers\"></a>"
 
-#: continuous_integration/continuous_integration.md:184
 # header
+#: continuous_integration/continuous_integration.md:184
 msgid "#### Compilers"
-msgstr ""
+msgstr "#### Compiladores"
 
 #: continuous_integration/continuous_integration.md:186
-msgid "If a compiled language is being used which compiler to run can be specified with the compiler keyword:"
+msgid ""
+"If a compiled language is being used which compiler to run can be specified "
+"with the compiler keyword:"
 msgstr ""
+"Si se utiliza un lenguaje compilado, se puede especificar el compilador que "
+"se va a ejecutar con la palabra clave «compiler»:"
 
-#: continuous_integration/continuous_integration.md:187
 # code block
-msgid "```\n"
+#: continuous_integration/continuous_integration.md:187
+msgid ""
+"```\n"
 "compiler:\n"
 "  - gcc\n"
 "```"
 msgstr ""
+"```\n"
+"compiler:\n"
+"  - gcc\n"
+"```"
 
 #: continuous_integration/continuous_integration.md:191
 msgid "<a name=\"Dependencies\"></a>"
-msgstr ""
+msgstr "<a name=\"Dependencies\"></a>"
 
-#: continuous_integration/continuous_integration.md:192
 # header
+#: continuous_integration/continuous_integration.md:192
 msgid "#### Dependencies"
-msgstr ""
+msgstr "#### Dependencias"
 
 #: continuous_integration/continuous_integration.md:194
-msgid "Not all languages/software are available on all operating systems however they can typically be installed within the .travis.yml file."
+msgid ""
+"Not all languages/software are available on all operating systems however "
+"they can typically be installed within the .travis.yml file."
 msgstr ""
+"No todos los lenguajes ni software están disponibles en todos los sistemas "
+"operativos, sin embargo, normalmente se pueden instalar dentro del archivo "
+".travis.yml."
 
 #: continuous_integration/continuous_integration.md:196
-msgid "To install packages that are not included in the standard version of the operating system specified you can include a `before_install` step in your `.travis.yml` along with the necessary code to install them, for example:"
+msgid ""
+"To install packages that are not included in the standard version of the "
+"operating system specified you can include a `before_install` step in your "
+"`.travis.yml` along with the necessary code to install them, for example:"
 msgstr ""
+"Para instalar paquetes que no están incluidos en la versión estándar del "
+"sistema operativo especificado puedes incluir un paso `before_install` en tu"
+" `.travis.yml` junto con el código necesario para instalarlos, por ejemplo:"
 
-#: continuous_integration/continuous_integration.md:198
 # code block
-msgid "```\n"
+#: continuous_integration/continuous_integration.md:198
+msgid ""
+"```\n"
 "before_install:\n"
 "  - sudo apt-get install -y libxml2-dev\n"
 "```"
 msgstr ""
+"```\n"
+"before_install:\n"
+"  - sudo apt-get install -y libxml2-dev\n"
+"```"
 
 #: continuous_integration/continuous_integration.md:202
 msgid "<a name=\"Containers\"></a>"
-msgstr ""
+msgstr "<a name=\"Containers\"></a>"
 
-#: continuous_integration/continuous_integration.md:203
 # header
+#: continuous_integration/continuous_integration.md:203
 msgid "#### Containers"
-msgstr ""
+msgstr "#### Contenedores"
 
 #: continuous_integration/continuous_integration.md:205
-msgid "It is possible to use Docker containers (see the reproducible computational environments chapter) to generate the computational environment by pulling and running the image from the .travis.yml file. If you are doing so you should pull or generate the image (preferably pull to save Travis from having to build the image from scratch) in the before_install step (see above section). Then in the .travis.yml file's script ([see next section](#The_travis_yml_script)) you can run a command to run your tests like:"
+msgid ""
+"It is possible to use Docker containers (see the reproducible computational "
+"environments chapter) to generate the computational environment by pulling "
+"and running the image from the .travis.yml file. If you are doing so you "
+"should pull or generate the image (preferably pull to save Travis from "
+"having to build the image from scratch) in the before_install step (see "
+"above section). Then in the .travis.yml file's script ([see next "
+"section](#The_travis_yml_script)) you can run a command to run your tests "
+"like:"
 msgstr ""
+"Es posible utilizar contenedores Docker (ver el capítulo de entornos "
+"computacionales reproducibles) para generar el entorno computacional tirando"
+" y ejecutando la imagen desde el archivo .travis.yml. Si lo haces, debes "
+"extraer o generar la imagen (preferiblemente extraer para evitar que Travis "
+"tenga que construir la imagen desde cero) en el paso before_install (ver "
+"sección anterior). Luego en el script del archivo .travis.yml ([ver "
+"siguiente sección](#The_travis_yml_script)) puedes ejecutar un comando para "
+"ejecutar tus tests como:"
 
-#: continuous_integration/continuous_integration.md:206
 # code block
-msgid "```\n"
+#: continuous_integration/continuous_integration.md:206
+msgid ""
+"```\n"
 "script:\n"
 "  - sudo docker run -t image_name command_to_run\n"
 "```"
 msgstr ""
+"```\n"
+"script:\n"
+"  - sudo docker run -t image_name command_to_run\n"
+"```"
 
 #: continuous_integration/continuous_integration.md:211
-msgid "So to use pytest to run tests in python files in a container built from an image called a_demo_image"
+msgid ""
+"So to use pytest to run tests in python files in a container built from an "
+"image called a_demo_image"
 msgstr ""
+"Así que para usar pytest para ejecutar tests en archivos python en un "
+"contenedor hecho a partir de una imagen llamada a_demo_image"
 
-#: continuous_integration/continuous_integration.md:212
 # code block
-msgid "```\n"
+#: continuous_integration/continuous_integration.md:212
+msgid ""
+"```\n"
 "script:\n"
 "  - sudo docker run -t a_demo_image pytest\n"
 "```"
 msgstr ""
+"```\n"
+"script:\n"
+"  - sudo docker run -t a_demo_image pytest\n"
+"```"
 
 #: continuous_integration/continuous_integration.md:217
-msgid "If you need to run more than one command in your script then you can include a script file within the container which contains those commands. Then the same process shown above can be used  to run it, like:"
+msgid ""
+"If you need to run more than one command in your script then you can include"
+" a script file within the container which contains those commands. Then the "
+"same process shown above can be used  to run it, like:"
 msgstr ""
+"Si necesitas ejecutar más de un comando en tu script entonces puedes incluir"
+" un archivo de script dentro del contenedor que contenga esos comandos. Así,"
+" se puede utilizar el mismo proceso mostrado anteriormente para ejecutarlo, "
+"como:"
 
-#: continuous_integration/continuous_integration.md:218
 # code block
-msgid "```\n"
+#: continuous_integration/continuous_integration.md:218
+msgid ""
+"```\n"
 "script:\n"
 "  - sudo docker run -t a_demo_image ./a_script.sh\n"
 "```"
 msgstr ""
+"```\n"
+"script:\n"
+"  - sudo docker run -t a_demo_image ./a_script.sh\n"
+"```"
 
 #: continuous_integration/continuous_integration.md:223
-msgid "See [here](https://docs.travis-ci.com/user/docker/) for more information on this."
+msgid ""
+"See [here](https://docs.travis-ci.com/user/docker/) for more information on "
+"this."
 msgstr ""
+"Mira [aquí](https://docs.travis-ci.com/user/docker/) para más información."
 
 #: continuous_integration/continuous_integration.md:225
 msgid "<a name=\"The_travis_yml_script\"></a>"
-msgstr ""
+msgstr "<a name=\"The_travis_yml_script\"></a>"
 
-#: continuous_integration/continuous_integration.md:226
 # header
+#: continuous_integration/continuous_integration.md:226
 msgid "### The .travis.yml script"
-msgstr ""
+msgstr "### El script .travis.yml"
 
 #: continuous_integration/continuous_integration.md:228
-msgid "Travis will report that the build has failed if any commands in the script section return an error. Technically any commands can be included in the script, but it is mainly used for running tests. A script does not need to be long or complicated, as demonstrated by this example which uses the pytest command to run tests in python scripts:"
+msgid ""
+"Travis will report that the build has failed if any commands in the script "
+"section return an error. Technically any commands can be included in the "
+"script, but it is mainly used for running tests. A script does not need to "
+"be long or complicated, as demonstrated by this example which uses the "
+"pytest command to run tests in python scripts:"
 msgstr ""
+"Travis informará que el build ha fallado si cualquier comando en la sección "
+"de script devuelve un error. Técnicamente se puede incluir cualquier comando"
+" en el script, pero se utiliza principalmente para ejecutar los tests. Un "
+"script no necesita ser largo o complicado, como lo demuestra este ejemplo "
+"que utiliza el comando pytest para ejecutar tests en scripts de python:"
 
-#: continuous_integration/continuous_integration.md:229
 # code block
-msgid "```\n"
+#: continuous_integration/continuous_integration.md:229
+msgid ""
+"```\n"
 "script:\n"
 "- pytest\n"
 "```"
 msgstr ""
+"```\n"
+"script:\n"
+"- pytest\n"
+"```"
 
 #: continuous_integration/continuous_integration.md:234
-msgid "If there are steps that need to be done before a project to be considered to be \"fully\" working these should also be included in the script too. Lets say some project needs a figure to be converted to a png file for some reason. The script could include"
+msgid ""
+"If there are steps that need to be done before a project to be considered to"
+" be \"fully\" working these should also be included in the script too. Lets "
+"say some project needs a figure to be converted to a png file for some "
+"reason. The script could include"
 msgstr ""
+"Si hay pasos que deben realizarse antes de que un proyecto se considere "
+"\"completamente\" funcional, estos también deben incluirse en el script. "
+"Digamos que algún proyecto necesita que una figura sea convertida a un "
+"archivo png por alguna razón. El script podría incluir"
 
-#: continuous_integration/continuous_integration.md:235
 # code block
-msgid "```\n"
+#: continuous_integration/continuous_integration.md:235
+msgid ""
+"```\n"
 "  - convert figure_name.jpg figure_name.png\n"
 "```"
 msgstr ""
+"```\n"
+"  - convert figure_name.jpg figure_name.png\n"
+"```"
 
 #: continuous_integration/continuous_integration.md:239
-msgid "If for any reason this cannot be done an error will be returned and the build will be marked as having failed."
+msgid ""
+"If for any reason this cannot be done an error will be returned and the "
+"build will be marked as having failed."
 msgstr ""
+"Si por alguna razón esto no se puede hacer, se devolverá un error y el build"
+" se marcará como fallido."
 
 #: continuous_integration/continuous_integration.md:241
 msgid "<a name=\"After_success\"></a>"
-msgstr ""
+msgstr "<a name=\"After_success\"></a>"
 
-#: continuous_integration/continuous_integration.md:242
 # header
+#: continuous_integration/continuous_integration.md:242
 msgid "### After success"
-msgstr ""
+msgstr "### After success (después del éxito)"
 
 #: continuous_integration/continuous_integration.md:244
-msgid "The after success section is much like the script section in that it contains commands to run on the project. The key difference if that the build will not fail if steps in the after success section return errors."
+msgid ""
+"The after success section is much like the script section in that it "
+"contains commands to run on the project. The key difference if that the "
+"build will not fail if steps in the after success section return errors."
 msgstr ""
+"La sección \"after success\" es muy parecida a la sección del script, ya que"
+" contiene comandos para ejecutar en el proyecto. La diferencia clave es que "
+"el build no fallará si los pasos en la sección \"after success\" devuelven "
+"errores."
 
 #: continuous_integration/continuous_integration.md:246
-msgid "The after success section is run after the script, and can be used to automate steps that need to be taken once a build has passed all the tests. Examples of things that can be automated include automatically merging the new version of the project to the master branch in GitHub. Another example is for the code coverage (see testing chapter) to be automatically measured and reported, as shown here:"
+msgid ""
+"The after success section is run after the script, and can be used to "
+"automate steps that need to be taken once a build has passed all the tests. "
+"Examples of things that can be automated include automatically merging the "
+"new version of the project to the master branch in GitHub. Another example "
+"is for the code coverage (see testing chapter) to be automatically measured "
+"and reported, as shown here:"
 msgstr ""
+"La sección \"after success\" se ejecuta después del script, y se puede "
+"utilizar para automatizar los pasos que deben tomarse una vez que un build "
+"ha pasado todas las pruebas. Ejemplos de cosas que pueden ser automatizadas "
+"incluyen la fusión automática de la nueva versión del proyecto a la rama "
+"maestra (master branch) en GitHub. Otro ejemplo es que la cobertura del "
+"código (mira el capítulo de testing) se mida y se informe automáticamente, "
+"como se muestra aquí:"
 
-#: continuous_integration/continuous_integration.md:247
 # code block
-msgid "```\n"
+#: continuous_integration/continuous_integration.md:247
+msgid ""
+"```\n"
 "language: python\n"
 "python:\n"
 "  - \"2.7\"\n"
@@ -746,23 +1277,55 @@ msgid "```\n"
 "  - coverage report\n"
 "```"
 msgstr ""
+"```\n"
+"language: python\n"
+"python:\n"
+"  - \"2.7\"\n"
+"\n"
+"before_install:\n"
+"  - pip install coverage\n"
+"\n"
+"script:\n"
+"  - pytest\n"
+"\n"
+"after_success:\n"
+"  - coverage run main.py\n"
+"  - coverage report\n"
+"```"
 
 #: continuous_integration/continuous_integration.md:263
-msgid "<a name=\"Testing_a_project_against_multiple_versions_of_a_programming_language\"></a>  "
+msgid ""
+"<a "
+"name=\"Testing_a_project_against_multiple_versions_of_a_programming_language\"></a>"
+"  "
 msgstr ""
+"<a "
+"name=\"Testing_a_project_against_multiple_versions_of_a_programming_language\"></a>"
+"  "
 
-#: continuous_integration/continuous_integration.md:264
 # header
-msgid "### Testing a project against multiple versions of a programming language"
+#: continuous_integration/continuous_integration.md:264
+msgid ""
+"### Testing a project against multiple versions of a programming language"
 msgstr ""
+"### Cómo probar un proyecto en múltiples versiones de un lenguaje de "
+"programación"
 
 #: continuous_integration/continuous_integration.md:266
-msgid "When a project is expected to be run on systems with different versions of a programming language you can set Travis to run the tests on each of these versions. For example to test on a variety of versions of python:"
+msgid ""
+"When a project is expected to be run on systems with different versions of a"
+" programming language you can set Travis to run the tests on each of these "
+"versions. For example to test on a variety of versions of python:"
 msgstr ""
+"Cuando se espera que un proyecto se ejecute en sistemas con diferentes "
+"versiones de un lenguaje de programación, se puede establecer que Travis "
+"ejecute las pruebas en cada una de estas versiones. Por ejemplo, para probar"
+" en una variedad de versiones de python:"
 
-#: continuous_integration/continuous_integration.md:267
 # code block
-msgid "```\n"
+#: continuous_integration/continuous_integration.md:267
+msgid ""
+"```\n"
 "language: python\n"
 "python:\n"
 "  - \"2.6\"\n"
@@ -771,489 +1334,912 @@ msgid "```\n"
 "  - \"3.3\"\n"
 "```"
 msgstr ""
+"```\n"
+"language: python\n"
+"python:\n"
+"  - \"2.6\"\n"
+"  - \"2.7\"\n"
+"  - \"3.2\"\n"
+"  - \"3.3\"\n"
+"```"
 
 #: continuous_integration/continuous_integration.md:275
 msgid "<a name=\"Testing_a_project_on_multiple_operating_systems\"></a>"
-msgstr ""
+msgstr "<a name=\"Testing_a_project_on_multiple_operating_systems\"></a>"
 
-#: continuous_integration/continuous_integration.md:276
 # header
+#: continuous_integration/continuous_integration.md:276
 msgid "### Testing a project on multiple operating systems"
-msgstr ""
+msgstr "### Cómo hacer test de un proyecto en múltiples sistemas operativos"
 
 #: continuous_integration/continuous_integration.md:278
-msgid "If your code is used on multiple operating systems it should be tested on multiple operating systems. To enable testing on multiple operating systems add multiple entries under the `os` key in your `.travis.yml` file, for example:"
+msgid ""
+"If your code is used on multiple operating systems it should be tested on "
+"multiple operating systems. To enable testing on multiple operating systems "
+"add multiple entries under the `os` key in your `.travis.yml` file, for "
+"example:"
 msgstr ""
+"Si tu código se utiliza en varios sistemas operativos, debe ser probado en "
+"varios sistemas operativos. Para habilitar las pruebas (los tests) en varios"
+" sistemas operativos, añade varias entradas bajo la clave `os` en tu archivo"
+" `.travis.yml`, por ejemplo:"
 
-#: continuous_integration/continuous_integration.md:279
 # code block
-msgid "```\n"
+#: continuous_integration/continuous_integration.md:279
+msgid ""
+"```\n"
 "os:\n"
 "  - linux\n"
 "  - osx\n"
 "```"
 msgstr ""
+"```\n"
+"os:\n"
+"  - linux\n"
+"  - osx\n"
+"```"
 
 #: continuous_integration/continuous_integration.md:285
-msgid "When you test your code on multiple operating systems, be aware of differences that can affect your tests, for example not all tools and programming languages are available on all operating systems. This should be taken into account when writing commands for your script file (or other sections of the .travis.yml file). Also file system behaviour may differ between OSs. Your tests may implicitly rely on these behaviours, and could fail because of them. They are different operating systems, after all."
+msgid ""
+"When you test your code on multiple operating systems, be aware of "
+"differences that can affect your tests, for example not all tools and "
+"programming languages are available on all operating systems. This should be"
+" taken into account when writing commands for your script file (or other "
+"sections of the .travis.yml file). Also file system behaviour may differ "
+"between OSs. Your tests may implicitly rely on these behaviours, and could "
+"fail because of them. They are different operating systems, after all."
 msgstr ""
+"Cuando hagas test en varios sistemas operativos, ten en cuenta las "
+"diferencias que pueden afectar a tus tests, por ejemplo, no todas las "
+"herramientas y lenguajes de programación están disponibles en todos los "
+"sistemas operativos. Esto debe tenerse en cuenta a la hora de escribir los "
+"comandos para tu archivo de script (u otras secciones del archivo "
+".travis.yml). También el comportamiento del sistema de archivos puede "
+"diferir entre los sistemas operativos. Tus pruebas pueden depender "
+"implícitamente de estos comportamientos y podrían fallar debido a ellos. "
+"Después de todo, son sistemas operativos diferentes."
 
 #: continuous_integration/continuous_integration.md:287
-msgid "When Travis is running a job it sets the `TRAVIS_OS_NAME` variable which describes the operating system being tested. You can use this to run commands only on specified operating systems like this:"
+msgid ""
+"When Travis is running a job it sets the `TRAVIS_OS_NAME` variable which "
+"describes the operating system being tested. You can use this to run "
+"commands only on specified operating systems like this:"
 msgstr ""
+"Cuando Travis está ejecutando un trabajo, asigna la variable "
+"`TRAVIS_OS_NAME` que describe el sistema operativo que se está probando. "
+"Puedes usar esto para ejecutar comandos sólo en sistemas operativos "
+"específicos como este:"
 
-#: continuous_integration/continuous_integration.md:288
 # code block
-msgid "```\n"
+#: continuous_integration/continuous_integration.md:288
+msgid ""
+"```\n"
 "  - if [[ \"$TRAVIS_OS_NAME\" == \"osx\" ]]; then command_to_run; fi\n"
 "```"
 msgstr ""
+"```\n"
+"  - if [[ \"$TRAVIS_OS_NAME\" == \"osx\" ]]; then comando_a_ejecutar; fi\n"
+"```"
 
 #: continuous_integration/continuous_integration.md:292
-msgid "It is possible to go further and construct a [build matrix](https://docs.travis-ci.com/user/build-matrix/) to test a the project in a range of computational environments."
+msgid ""
+"It is possible to go further and construct a [build matrix](https://docs"
+".travis-ci.com/user/build-matrix/) to test a the project in a range of "
+"computational environments."
 msgstr ""
+"Es posible ir más allá y construir una [matriz de build](https://docs"
+".travis-ci.com/user/build-matrix/) para hacer test del proyecto en una serie"
+" de entornos computacionales."
 
 #: continuous_integration/continuous_integration.md:294
 msgid "<a name=\"Allowing_failures\"></a>"
-msgstr ""
+msgstr "<a name=\"Allowing_failures\"></a>"
 
-#: continuous_integration/continuous_integration.md:295
 # header
+#: continuous_integration/continuous_integration.md:295
 msgid "#### Allowing failures"
-msgstr ""
+msgstr "#### Permitir fallos"
 
 #: continuous_integration/continuous_integration.md:297
-msgid "To ignore the results of jobs in certain computational environments you can define rows that are allowed to fail in the build matrix. Do this by adding an `allow_failures` section to the .travis.yml file. Allowed failures are items in your build matrix that are allowed to fail without causing the entire build to fail.  For example to allow the build to pass even if the job(s) using the osx operating system fail you'd add the following to your `.travis.yml`:"
+msgid ""
+"To ignore the results of jobs in certain computational environments you can "
+"define rows that are allowed to fail in the build matrix. Do this by adding "
+"an `allow_failures` section to the .travis.yml file. Allowed failures are "
+"items in your build matrix that are allowed to fail without causing the "
+"entire build to fail.  For example to allow the build to pass even if the "
+"job(s) using the osx operating system fail you'd add the following to your "
+"`.travis.yml`:"
 msgstr ""
+"Para ignorar los resultados de los jobs en determinados entornos de cálculo,"
+" puedes definir las filas que pueden fallar en la matriz de build. Para "
+"ello, añade una sección `allow_failures` al archivo .travis.yml. Los fallos "
+"permitidos son elementos de la matriz de build que pueden fallar sin "
+"provocar el fallo de toda la compilación. Por ejemplo, para permitir que el "
+"build pase incluso si el (los) job(s) que utiliza el sistema operativo osx "
+"falla, añadirías lo siguiente a tu `.travis.yml`:"
 
-#: continuous_integration/continuous_integration.md:298
 # code block
-msgid "```\n"
+#: continuous_integration/continuous_integration.md:298
+msgid ""
+"```\n"
 "matrix:\n"
 "  allow_failures:\n"
 "    - os: osx\n"
 "```"
 msgstr ""
+"```\n"
+"matrix:\n"
+"  allow_failures:\n"
+"    - os: osx\n"
+"```"
 
 #: continuous_integration/continuous_integration.md:304
-msgid "This is useful if you ideally want the build to be successful in multiple environments, but not all of them are vital."
+msgid ""
+"This is useful if you ideally want the build to be successful in multiple "
+"environments, but not all of them are vital."
 msgstr ""
+"Esto es útil si lo ideal es que build tenga éxito en varios entornos, pero "
+"no todos son vitales."
 
 #: continuous_integration/continuous_integration.md:306
 msgid "<a name=\"Limitations_of_CI\"></a>"
-msgstr ""
+msgstr "<a name=\"Limitations_of_CI\"></a>"
 
-#: continuous_integration/continuous_integration.md:307
 # header
+#: continuous_integration/continuous_integration.md:307
 msgid "## Limitations of CI"
 msgstr ""
+"## Limitaciones de la Integración Continua (CI por sus siglas en inglés)"
 
 #: continuous_integration/continuous_integration.md:309
-msgid "CI does have its limitations. Firstly it is only as effective at finding bugs as the tests provided to it. If a project contains few or poor tests then it is entirely possible the project will contain bugs the tests do not catch and Travis will report the build as successful."
+msgid ""
+"CI does have its limitations. Firstly it is only as effective at finding "
+"bugs as the tests provided to it. If a project contains few or poor tests "
+"then it is entirely possible the project will contain bugs the tests do not "
+"catch and Travis will report the build as successful."
 msgstr ""
+"CI tiene sus limitaciones. En primer lugar, sólo es tan eficaz para "
+"encontrar errores como los tests que se le proporcionan. Si un proyecto "
+"contiene pocos o malos tests, es muy posible que el proyecto contenga "
+"errores que los tests no detecten y Travis informe de que el build se ha "
+"realizado correctamente."
 
 #: continuous_integration/continuous_integration.md:311
-msgid "Secondly, depending on the nature of your project there may be security considerations to think about.     "
+msgid ""
+"Secondly, depending on the nature of your project there may be security "
+"considerations to think about.     "
 msgstr ""
+"En segundo lugar, dependiendo de la naturaleza de tu proyecto, puede haber "
+"consideraciones de seguridad que se deben tener en cuenta."
 
 #: continuous_integration/continuous_integration.md:313
-msgid "Travis CI obfuscates secure environment variables and tokens displayed in by the user interface. The [documentation about encryption keys](https://docs.travis-ci.com/user/encryption-keys/) outlines the build configuration required to set this up. However, if secret information is outputted in the course of running a script (for example in an error message) it may be included in Travis's build logs which may be accessible by others. To prevent leaks like this, secure environment variables and tokens that are longer than three characters are automatically filtered at runtime, effectively removing them from the build log, displaying the string `[secure]` instead. Nevertheless you should rotate your tokens and secrets regularly."
+msgid ""
+"Travis CI obfuscates secure environment variables and tokens displayed in by"
+" the user interface. The [documentation about encryption keys](https://docs"
+".travis-ci.com/user/encryption-keys/) outlines the build configuration "
+"required to set this up. However, if secret information is outputted in the "
+"course of running a script (for example in an error message) it may be "
+"included in Travis's build logs which may be accessible by others. To "
+"prevent leaks like this, secure environment variables and tokens that are "
+"longer than three characters are automatically filtered at runtime, "
+"effectively removing them from the build log, displaying the string "
+"`[secure]` instead. Nevertheless you should rotate your tokens and secrets "
+"regularly."
 msgstr ""
+"Travis CI ofusca las variables de entorno seguras y los tokens mostrados en "
+"la interfaz de usuario. La [documentación sobre claves de "
+"cifrado](https://docs.travis-ci.com/user/encryption-keys/) describe la "
+"configuración de build necesaria para establecer esto. Sin embargo, si la "
+"información secreta es emitida en el curso de la ejecución de un script (por"
+" ejemplo en un mensaje de error) puede ser incluida en los registros de "
+"construcción de Travis que pueden ser accesibles por otros. Para evitar este"
+" tipo de fugas, las variables de entorno seguras y los tokens de más de tres"
+" caracteres se filtran automáticamente en tiempo de ejecución, eliminándolos"
+" efectivamente del registro de construcción, mostrando la cadena `[secure]` "
+"en su lugar. Sin embargo, deberías cambiar tus tokens y secretos "
+"regularmente."
 
 #: continuous_integration/continuous_integration.md:315
-msgid " However there are still many ways in which secure information can accidentally be exposed. These vary according to what tools you are using and the settings enabled. Some things to look out for are:"
+msgid ""
+" However there are still many ways in which secure information can "
+"accidentally be exposed. These vary according to what tools you are using "
+"and the settings enabled. Some things to look out for are:"
 msgstr ""
+"Sin embargo, hay muchas formas en las que la información segura puede quedar"
+" expuesta accidentalmente. Éstas varían en función de las herramientas que "
+"se utilicen y de la configuración habilitada. Algunas cosas a las que hay "
+"que prestar atención son:"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:317
-# unordered list
-msgid "- Settings which duplicate commands to standard output, such as `set -x` or `set -v` in your bash scripts"
+msgid ""
+"- Settings which duplicate commands to standard output, such as `set -x` or "
+"`set -v` in your bash scripts"
 msgstr ""
+"- Configuraciones que duplican comandos a la salida estándar, como `set -x` "
+"o `set -v` en tus scripts de bash"
 
-#: continuous_integration/continuous_integration.md:318
 # unordered list
+#: continuous_integration/continuous_integration.md:318
 msgid "- Displaying environment variables, by running `env` or `printenv`"
 msgstr ""
+"- Cuándo imprimir las variables de entorno, ejecutando `env` o `printenv`."
 
-#: continuous_integration/continuous_integration.md:319
 # unordered list
+#: continuous_integration/continuous_integration.md:319
 msgid "- Printing secrets within the code, for example `echo \"$SECRET_KEY\"`"
 msgstr ""
+"- La impresión de secretos dentro del código, por ejemplo `echo "
+"\"$SECRET_KEY\"`."
 
+# unordered list
 #: continuous_integration/continuous_integration.md:320
-# unordered list
-msgid "- Git commands like `git fetch` or `git push` may expose tokens or other secure environment variables"
+msgid ""
+"- Git commands like `git fetch` or `git push` may expose tokens or other "
+"secure environment variables"
 msgstr ""
+"- Los comandos de Git como `git fetch` o `git push` pueden exponer tokens u "
+"otras variables de entorno seguras"
 
-#: continuous_integration/continuous_integration.md:321
 # unordered list
+#: continuous_integration/continuous_integration.md:321
 msgid "- Settings which increase command verbosity"
-msgstr ""
+msgstr "- Configuraciones que aumentan la verbosidad de los comandos"
 
 #: continuous_integration/continuous_integration.md:323
-msgid "Preventing commands from displaying any output is one way to avoid accidentally displaying any secure information. If there is a particular command that is using secure information you can redirect its output to `/dev/null` to make sure it does not accidentally publish anything, as shown in the following example:"
+msgid ""
+"Preventing commands from displaying any output is one way to avoid "
+"accidentally displaying any secure information. If there is a particular "
+"command that is using secure information you can redirect its output to "
+"`/dev/null` to make sure it does not accidentally publish anything, as shown"
+" in the following example:"
 msgstr ""
+"Impedir que los comandos muestren cualquier salida es una forma de evitar "
+"que se muestre accidentalmente cualquier información segura. Si hay un "
+"comando en particular que está usando información segura, puedes redirigir "
+"su salida a `/dev/null` para asegurarte de que no publique nada "
+"accidentalmente, como se muestra en el siguiente ejemplo:"
 
-#: continuous_integration/continuous_integration.md:324
 # code block
-msgid "```\n"
+#: continuous_integration/continuous_integration.md:324
+msgid ""
+"```\n"
 "git push url-with-secret >/dev/null 2>&1\n"
 "```"
 msgstr ""
+"```\n"
+"git push url-with-secret >/dev/null 2>&1\n"
+"```"
 
 #: continuous_integration/continuous_integration.md:328
-msgid "If your project is set up such that each time a pull request is made on GitHub Travis tests that pull request there is an additional concern. If your tests require authentication credentials someone could make a pull request with malicious code to expose them. Therefore it is a good idea not to allow pull requests to automatically trigger Travis if you have such authentication requirements."
+msgid ""
+"If your project is set up such that each time a pull request is made on "
+"GitHub Travis tests that pull request there is an additional concern. If "
+"your tests require authentication credentials someone could make a pull "
+"request with malicious code to expose them. Therefore it is a good idea not "
+"to allow pull requests to automatically trigger Travis if you have such "
+"authentication requirements."
 msgstr ""
+"Si tu proyecto está configurado de tal manera que cada vez que se hace un "
+"pull request en GitHub Travis hace un test de ese pull request, hay una "
+"preocupación adicional. Si tus tests requieren credenciales de "
+"autenticación, alguien podría hacer un pull request con código malicioso "
+"para exponerlas. Por lo tanto, es una buena idea no permitir que los pull "
+"requests activen automáticamente a Travis si tienes tales requisitos de "
+"autenticación."
 
 #: continuous_integration/continuous_integration.md:330
 msgid "<a name=\"Best_practise_for_continuous_integration\"></a>    "
-msgstr ""
+msgstr "<a name=\"Best_practise_for_continuous_integration\"></a>    "
 
-#: continuous_integration/continuous_integration.md:331
 # header
+#: continuous_integration/continuous_integration.md:331
 msgid "## Best practise for continuous integration"
-msgstr ""
+msgstr "## Buenas prácticas para la integración continua"
 
 #: continuous_integration/continuous_integration.md:333
 msgid "<a name=\"Small_iterative_changes\"></a>  "
-msgstr ""
+msgstr "<a name=\"Small_iterative_changes\"></a>  "
 
-#: continuous_integration/continuous_integration.md:334
 # header
+#: continuous_integration/continuous_integration.md:334
 msgid "### Small, iterative changes"
-msgstr ""
+msgstr "### Cambios pequeños e iterativos"
 
 #: continuous_integration/continuous_integration.md:336
-msgid "One of the most important practices when adopting continuous integration is to encourage project members to make and commit small changes. Small changes minimize the possibility and impact of problems cropping up when they're integrated, which minimises the time and effort cost of integration."
+msgid ""
+"One of the most important practices when adopting continuous integration is "
+"to encourage project members to make and commit small changes. Small changes"
+" minimize the possibility and impact of problems cropping up when they're "
+"integrated, which minimises the time and effort cost of integration."
 msgstr ""
+"Una de las prácticas más importantes a la hora de adoptar la integración "
+"continua es animar a los miembros del proyecto a realizar y confirmar "
+"pequeños cambios. Los cambios pequeños minimizan la posibilidad y el impacto"
+" de los problemas que surgen cuando se integran, lo que minimiza el coste de"
+" tiempo y esfuerzo de la integración."
 
 #: continuous_integration/continuous_integration.md:338
 msgid "<a name=\"Trunk_based_development\"></a>  "
-msgstr ""
+msgstr "<a name=\"Trunk_based_development\"></a>  "
 
-#: continuous_integration/continuous_integration.md:339
 # header
+#: continuous_integration/continuous_integration.md:339
 msgid "### Trunk-based development"
-msgstr ""
+msgstr "### Desarrollo basado en el \"trunk\" (rama principal)"
 
 #: continuous_integration/continuous_integration.md:341
-msgid "With trunk-based development, work is done in the main branch of the repository or merged back into the shared repository at frequent intervals. Short-lived feature branches are permissible as long as they represent small changes and are merged back as soon as possible."
+msgid ""
+"With trunk-based development, work is done in the main branch of the "
+"repository or merged back into the shared repository at frequent intervals. "
+"Short-lived feature branches are permissible as long as they represent small"
+" changes and are merged back as soon as possible."
 msgstr ""
+"Con el desarrollo basado en el trunk (rama principal), el trabajo se realiza"
+" en la rama principal del repositorio o se fusiona con el repositorio "
+"compartido a intervalos frecuentes. Las ramas de características de corta "
+"duración están permitidas siempre que representen pequeños cambios y se "
+"fusionen de nuevo tan pronto como sea posible."
 
 #: continuous_integration/continuous_integration.md:343
-msgid "The idea behind trunk-based development is to avoid large commits that violate of concept of small, iterative changes discussed above. Code is available to peers early so that conflicts can be resolved when their scope is small."
+msgid ""
+"The idea behind trunk-based development is to avoid large commits that "
+"violate of concept of small, iterative changes discussed above. Code is "
+"available to peers early so that conflicts can be resolved when their scope "
+"is small."
 msgstr ""
+"La idea que subyace al desarrollo basado en el trunk es evitar commits "
+"grandes que incumplen el concepto de los cambios pequeños e iterativos que "
+"hemos comentado anteriormente. El código está disponible para los compañeros"
+" desde el principio para que los conflictos puedan resolverse cuando su "
+"alcance es pequeño."
 
 #: continuous_integration/continuous_integration.md:345
 msgid "<a name=\"Keep_the_building_and_testing_phases_fast\"></a>  "
-msgstr ""
+msgstr "<a name=\"Keep_the_building_and_testing_phases_fast\"></a>  "
 
-#: continuous_integration/continuous_integration.md:346
 # header
+#: continuous_integration/continuous_integration.md:346
 msgid "### Keep the building and testing phases fast"
-msgstr ""
+msgstr "### Mantén rápidas las fases de build y test"
 
 #: continuous_integration/continuous_integration.md:348
-msgid "Because the build and test steps must be performed frequently, it is essential that these processes be streamlined to minimize the time spent on them. Increases in build time should be treated as a major problem because the impact is compounded by the fact that each commit kicks off a build."
+msgid ""
+"Because the build and test steps must be performed frequently, it is "
+"essential that these processes be streamlined to minimize the time spent on "
+"them. Increases in build time should be treated as a major problem because "
+"the impact is compounded by the fact that each commit kicks off a build."
 msgstr ""
+"Dado que los pasos de build y test deben realizarse con frecuencia, es "
+"esencial que estos procesos se agilicen para minimizar el tiempo empleado en"
+" ellos. Los aumentos en el tiempo de compilación deben tratarse como un "
+"problema importante porque el impacto se ve agravado por el hecho de que "
+"cada confirmación inicia un build."
 
 #: continuous_integration/continuous_integration.md:350
-msgid "When possible, running different sections of the test suite in parallel can help move the build through the pipeline faster. Care should also be taken to make sure the proportion of each type of test makes sense. Unit tests are typically very fast and have minimal maintenance overhead. In contrast, automated system or acceptance testing is often complex and prone to breakage. To account for this, it is often a good idea to rely heavily on unit tests, conduct a fair number of integration tests, and then back off on the number of later, more complex testing."
+msgid ""
+"When possible, running different sections of the test suite in parallel can "
+"help move the build through the pipeline faster. Care should also be taken "
+"to make sure the proportion of each type of test makes sense. Unit tests are"
+" typically very fast and have minimal maintenance overhead. In contrast, "
+"automated system or acceptance testing is often complex and prone to "
+"breakage. To account for this, it is often a good idea to rely heavily on "
+"unit tests, conduct a fair number of integration tests, and then back off on"
+" the number of later, more complex testing."
 msgstr ""
+"Cuando sea posible, la ejecución de diferentes secciones del conjunto de "
+"tests en paralelo puede ayudar a que la compilación avance más rápidamente. "
+"También hay que asegurarse de que la proporción de cada tipo de prueba tiene"
+" sentido. Las pruebas unitarias (unit tests) suelen ser muy rápidas y tienen"
+" una sobrecarga de mantenimiento mínima. Por el contrario, las pruebas "
+"automatizadas del sistema o de aceptación suelen ser complejas y propensas a"
+" fallar. Para tener en cuenta esto, a menudo es una buena idea depender en "
+"gran medida de las pruebas unitarias, realizar un buen número de pruebas de "
+"integración, y luego reducir el número de pruebas posteriores, más "
+"complejas."
 
-#: continuous_integration/continuous_integration.md:352
 # header
+#: continuous_integration/continuous_integration.md:352
 msgid "### Computational expense"
-msgstr ""
+msgstr "### Gasto computacional "
 
 #: continuous_integration/continuous_integration.md:354
-msgid "Some software will require significant compute resource to build and/or run. Examples include weather and climate models. This can make the use of continuous integration impractical as the tests either take too long or use too much resource. Therefore, a compromise needs to be found to balance the risk of incomplete testing against a usable development process."
+msgid ""
+"Some software will require significant compute resource to build and/or run."
+" Examples include weather and climate models. This can make the use of "
+"continuous integration impractical as the tests either take too long or use "
+"too much resource. Therefore, a compromise needs to be found to balance the "
+"risk of incomplete testing against a usable development process."
 msgstr ""
+"Algunos programas requieren una cantidad importante de recursos de cómputo "
+"para su creación o ejecución. Algunos ejemplos son los modelos "
+"meteorológicos y climáticos. Esto puede hacer que el uso de la integración "
+"continua sea poco práctico, ya que los tests tardan demasiado o utilizan "
+"demasiados recursos. Por lo tanto, es necesario encontrar un compromiso para"
+" equilibrar el riesgo de pruebas incompletas con un proceso de desarrollo "
+"utilizable."
 
 #: continuous_integration/continuous_integration.md:356
-msgid "One approach is to use different levels of testing, with different subgroups being required depending on what is being changed. A common broad subgroup can be used in every case, with additional ones being invoked to test certain areas in more detail. This introduces an element of judgement to the testing process, but can be applied successfully."
+msgid ""
+"One approach is to use different levels of testing, with different subgroups"
+" being required depending on what is being changed. A common broad subgroup "
+"can be used in every case, with additional ones being invoked to test "
+"certain areas in more detail. This introduces an element of judgement to the"
+" testing process, but can be applied successfully."
 msgstr ""
+"Una posibilidad es utilizar diferentes niveles de tests, con diferentes "
+"subgrupos que se requieren en función de lo que se está cambiando. Se puede "
+"utilizar un subgrupo amplio común en todos los casos, y recurrir a otros "
+"adicionales para hacer tests en determinadas áreas con más detalle. Esto "
+"introduce un elemento de juicio en el proceso de pruebas, pero puede "
+"aplicarse con éxito."
 
 #: continuous_integration/continuous_integration.md:358
 msgid "<a name=\"Dependencies_tracking\"></a>  "
-msgstr ""
+msgstr "<a name=\"Dependencies_tracking\"></a>  "
 
-#: continuous_integration/continuous_integration.md:359
 # header
+#: continuous_integration/continuous_integration.md:359
 msgid "### Dependencies tracking"
-msgstr ""
+msgstr "### Seguimiento de dependencias"
 
 #: continuous_integration/continuous_integration.md:361
-msgid "Checking for dependency updates should be done regularly. It can save a lot of time, avoiding bugs due to code dependent on deprecated functionality. Services such as [David](https://david-dm.org/) are available for dependency management."
+msgid ""
+"Checking for dependency updates should be done regularly. It can save a lot "
+"of time, avoiding bugs due to code dependent on deprecated functionality. "
+"Services such as [David](https://david-dm.org/) are available for dependency"
+" management."
 msgstr ""
+"La comprobación de las actualizaciones de las dependencias debe hacerse "
+"regularmente. Puedes ahorrar mucho tiempo, evitando errores debidos a código"
+" dependiente de funcionalidad obsoleta. Existen servicios como [David](https"
+"://david-dm.org/) para la gestión de dependencias."
 
 #: continuous_integration/continuous_integration.md:363
 msgid "<a name=\"Consistency_throughout_the_pipeline\"></a>  "
-msgstr ""
+msgstr "<a name=\"Consistency_throughout_the_pipeline\"></a>  "
 
-#: continuous_integration/continuous_integration.md:364
 # header
+#: continuous_integration/continuous_integration.md:364
 msgid "### Consistency throughout the pipeline"
-msgstr ""
+msgstr "### Consistencia en el pipeline"
 
 #: continuous_integration/continuous_integration.md:366
-msgid "A project should be built once at the beginning of the pipeline, the resulting software should be stored and accessible to later processes without rebuilding. By using the exact same artefact in each phase, you can be certain that you are not introducing inconsistencies as a result of different build tools."
+msgid ""
+"A project should be built once at the beginning of the pipeline, the "
+"resulting software should be stored and accessible to later processes "
+"without rebuilding. By using the exact same artefact in each phase, you can "
+"be certain that you are not introducing inconsistencies as a result of "
+"different build tools."
 msgstr ""
+"Al principio del pipeline debe correrse el build del proyecto, el software "
+"resultante debe ser almacenado y accesible a los procesos posteriores sin "
+"necesidad de reconstruirlo. Al utilizar exactamente el mismo artefacto en "
+"cada fase, puedes estar seguro de que no estás introduciendo inconsistencias"
+" como resultado de diferentes herramientas de build."
 
 #: continuous_integration/continuous_integration.md:368
-msgid "Also, the environment defined by the .travis.yml file should reflect the actual environment the code is run in. If that environment is modified don't forget to update the .travis.yml file, otherwise the results Travis returns will not be trustworthy."
+msgid ""
+"Also, the environment defined by the .travis.yml file should reflect the "
+"actual environment the code is run in. If that environment is modified don't"
+" forget to update the .travis.yml file, otherwise the results Travis returns"
+" will not be trustworthy."
 msgstr ""
+"Además, el entorno definido por el archivo .travis.yml debe reflejar el "
+"entorno real en el que se ejecuta el código. Si ese entorno se modifica no "
+"olvides actualizar el archivo .travis.yml, de lo contrario los resultados "
+"que devuelva Travis no serán fiables."
 
 #: continuous_integration/continuous_integration.md:370
 msgid "<a name=\"Checklist\"></a>"
-msgstr ""
+msgstr "<a name=\"Checklist\"></a>"
 
-#: continuous_integration/continuous_integration.md:371
 # header
+#: continuous_integration/continuous_integration.md:371
 msgid "## Checklist"
-msgstr ""
+msgstr "## Lista de verificación"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:373
-# unordered list
-msgid "- [ ] Have a project that you collaborate on with at least one other person"
-msgstr ""
+msgid ""
+"- [ ] Have a project that you collaborate on with at least one other person"
+msgstr "- [ ] Tener un proyecto en el que colaboras con al menos otra persona"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:374
-# unordered list
 msgid "- [ ] Put the project on GitHub"
-msgstr ""
+msgstr "- [ ] Sube el proyecto a GitHub"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:375
-# unordered list
-msgid "- [ ] Have project members regularly commit their work to this central repository"
+msgid ""
+"- [ ] Have project members regularly commit their work to this central "
+"repository"
 msgstr ""
+"- [ ] Hacer que los miembros del proyecto envíen regularmente (hagan commit "
+"de) su trabajo a este repositorio central"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:376
-# unordered list
 msgid "- [ ] That project should have at least some tests"
-msgstr ""
+msgstr "- [ ] Ese proyecto debería tener al menos algunas pruebas"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:377
-# unordered list
 msgid "- [ ] Write a .travis.yml file which:"
-msgstr ""
+msgstr "- [ ] Escribe un archivo .travis.yml que:"
 
-#: continuous_integration/continuous_integration.md:378
 # unordered list
+#: continuous_integration/continuous_integration.md:378
 msgid "  - [ ] Sets out the operating system the project is run on"
 msgstr ""
+"  - [ ] Establezca el sistema operativo en el que se ejecuta el proyecto"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:379
-# unordered list
-msgid "  - [ ] Defines the programming language and version of that language to run the project with"
+msgid ""
+"  - [ ] Defines the programming language and version of that language to run"
+" the project with"
 msgstr ""
+"  - [ ] Defina el lenguaje de programación y la versión de ese lenguaje para"
+" ejecutar el proyecto"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:380
-# unordered list
-msgid "  - [ ] Includes code to install any dependencies required to run the project in a before_install step"
+msgid ""
+"  - [ ] Includes code to install any dependencies required to run the "
+"project in a before_install step"
 msgstr ""
+"  - [ ] Incluya código para instalar cualquier dependencia necesaria para "
+"ejecutar el proyecto en un paso before_install"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:381
-# unordered list
 msgid "  - [ ] Contains a script to run the project tests"
-msgstr ""
+msgstr "  - [ ] Contenga un script para correr los tests del proyecto"
 
-#: continuous_integration/continuous_integration.md:382
 # unordered list
+#: continuous_integration/continuous_integration.md:382
 msgid "- [ ] Commit the .travis.yml file to the project's GitHub repository"
 msgstr ""
+"- [ ] Haz commit del archivo .travis.yml al repositorio GitHub del proyecto"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:383
-# unordered list
-msgid "- [ ] Go to [travis-ci.com](https://travis-ci.com/) and sign in with GitHub"
-msgstr ""
+msgid ""
+"- [ ] Go to [travis-ci.com](https://travis-ci.com/) and sign in with GitHub"
+msgstr "- [ ] Ve a [travis-ci.com](https://travis-ci.com/) y accede a GitHub"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:384
-# unordered list
 msgid "- [ ] Activate Travis on your project repository"
-msgstr ""
+msgstr "- [ ] Activa Travis en el repositorio de tu proyecto"
 
-#: continuous_integration/continuous_integration.md:385
 # unordered list
-msgid "- [ ] Each time a new commit is pushed Travis will run the tests and return the results. If these report that a commit causes test/tests to fail then find and fix the problem as soon as possible"
+#: continuous_integration/continuous_integration.md:385
+msgid ""
+"- [ ] Each time a new commit is pushed Travis will run the tests and return "
+"the results. If these report that a commit causes test/tests to fail then "
+"find and fix the problem as soon as possible"
 msgstr ""
+"- [ ] Cada vez que se envíe un nuevo commit, Travis ejecutará las pruebas y "
+"devolverá los resultados. Si estos informan de que un commit hace que los "
+"tests fallen, encuentra y soluciona el problema lo antes posible."
 
 #: continuous_integration/continuous_integration.md:387
 msgid "<a name=\"What_to_learn_next\"></a>"
-msgstr ""
+msgstr "<a name=\"What_to_learn_next\"></a>"
 
-#: continuous_integration/continuous_integration.md:388
 # header
+#: continuous_integration/continuous_integration.md:388
 msgid "## What to learn next"
-msgstr ""
+msgstr "## ¿Qué aprender a continuación?"
 
 #: continuous_integration/continuous_integration.md:390
-msgid "If you have not already read the testing chapter it is suggested to do so to learn more about the different kinds of tests and their benefits in order to make the most of CI."
+msgid ""
+"If you have not already read the testing chapter it is suggested to do so to"
+" learn more about the different kinds of tests and their benefits in order "
+"to make the most of CI."
 msgstr ""
+"Si aún no has leído el capítulo sobre los tests, te sugerimos que lo hagas "
+"para conocer mejor los distintos tipos de pruebas y sus ventajas, con el fin"
+" de sacar el máximo partido a la IC."
 
 #: continuous_integration/continuous_integration.md:392
 msgid "<a name=\"Further_reading\"></a>"
-msgstr ""
+msgstr "<a name=\"Further_reading\"></a>"
 
-#: continuous_integration/continuous_integration.md:393
 # header
+#: continuous_integration/continuous_integration.md:393
 msgid "## Further reading"
-msgstr ""
+msgstr "## Lecturas complementarias"
 
 #: continuous_integration/continuous_integration.md:395
-msgid "Travis offers a great deal of functionality not described here for automating other processes related to the testing and deployment of  projects. Look into these, the Travis [documentation](https://docs.travis-ci.com/user/deployment) offers a good starting point for this."
+msgid ""
+"Travis offers a great deal of functionality not described here for "
+"automating other processes related to the testing and deployment of  "
+"projects. Look into these, the Travis [documentation](https://docs.travis-"
+"ci.com/user/deployment) offers a good starting point for this."
 msgstr ""
+"Travis ofrece una gran cantidad de funcionalidades no descritas aquí para "
+"automatizar otros procesos relacionados con las pruebas y el despliegue "
+"(deployment) de proyectos. Para investigar, la [documentación](https://docs"
+".travis-ci.com/user/deployment) de Travis  ofrece un buen punto de partida."
 
 #: continuous_integration/continuous_integration.md:397
-msgid "A list of example Travis builds and tests for various languages/frameworks is available [here](https://github.com/softwaresaved/build_and_test_examples)."
+msgid ""
+"A list of example Travis builds and tests for various languages/frameworks "
+"is available "
+"[here](https://github.com/softwaresaved/build_and_test_examples)."
 msgstr ""
+"Una lista de ejemplos de build y tests de Travis para varios lenguajes y "
+"frameworks está disponible "
+"[aquí](https://github.com/softwaresaved/build_and_test_examples)."
 
 #: continuous_integration/continuous_integration.md:399
-msgid "Travis's official tutorial is [here](https://docs.travis-ci.com/user/tutorial/). A tutorial focussed on using Travis with R can be found [here](https://juliasilge.com/blog/beginners-guide-to-travis/), tutorials geared towards python can be found [here](https://docs.python-guide.org/scenarios/ci/) and [here](https://docs.travis-ci.com/user/languages/python/)."
+msgid ""
+"Travis's official tutorial is [here](https://docs.travis-"
+"ci.com/user/tutorial/). A tutorial focussed on using Travis with R can be "
+"found [here](https://juliasilge.com/blog/beginners-guide-to-travis/), "
+"tutorials geared towards python can be found [here](https://docs.python-"
+"guide.org/scenarios/ci/) and [here](https://docs.travis-"
+"ci.com/user/languages/python/)."
 msgstr ""
+"El tutorial oficial de Travis está [aquí](https://docs.travis-"
+"ci.com/user/tutorial/). Un tutorial centrado en el uso de Travis con R se "
+"puede encontrar [aquí](https://juliasilge.com/blog/beginners-guide-to-"
+"travis/); los tutoriales orientados a python se pueden encontrar "
+"[aquí](https://docs.python-guide.org/scenarios/ci/) y [aquí](https://docs"
+".travis-ci.com/user/languages/python/)."
 
 #: continuous_integration/continuous_integration.md:401
 msgid "<a name=\"Definitions_glossary\"></a>"
-msgstr ""
+msgstr "<a name=\"Definitions_glossary\"></a>"
 
-#: continuous_integration/continuous_integration.md:402
 # header
+#: continuous_integration/continuous_integration.md:402
 msgid "## Definitions/glossary"
-msgstr ""
+msgstr "## Definiciones/glosario"
 
 #: continuous_integration/continuous_integration.md:404
-msgid "**Build:** A group of jobs. For example, a build might have two jobs, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished."
+msgid ""
+"**Build:** A group of jobs. For example, a build might have two jobs, each "
+"of which tests a project with a different version of a programming language."
+" A build finishes when all of its jobs are finished."
 msgstr ""
+"**Build:** Un grupo de jobs (trabajos). Por ejemplo, un build puede tener "
+"dos jobs, cada uno de los cuales hace test de un proyecto con una versión "
+"diferente de un lenguaje de programación. Un build finaliza cuando todos sus"
+" jobs han terminado."
 
 #: continuous_integration/continuous_integration.md:406
-msgid "**Computational environment:** The environment where a project is run, including the operating system, the software installed on it, and the versions of both."
+msgid ""
+"**Computational environment:** The environment where a project is run, "
+"including the operating system, the software installed on it, and the "
+"versions of both."
 msgstr ""
+"**Entorno informático:** El entorno donde se ejecuta un proyecto, incluyendo"
+" el sistema operativo, el software instalado en él y las versiones de ambos."
 
 #: continuous_integration/continuous_integration.md:408
-msgid "**Continuous integration:** The process of regularly combining the work of project members into a centralised version. Also called CI. CI software typically runs tests on the integrated version of a project to identify conflicts and bugs introduced by the integration."
+msgid ""
+"**Continuous integration:** The process of regularly combining the work of "
+"project members into a centralised version. Also called CI. CI software "
+"typically runs tests on the integrated version of a project to identify "
+"conflicts and bugs introduced by the integration."
 msgstr ""
+"**Integración continua:** El proceso de combinar regularmente el trabajo de "
+"los miembros del proyecto en una versión centralizada. También se denomina "
+"CI, por sus sigla en inglés. El software de CI suele ejecutar pruebas en la "
+"versión integrada de un proyecto para identificar los conflictos y los "
+"errores introducidos por la integración."
 
 #: continuous_integration/continuous_integration.md:410
 msgid "**GitHub:** A widely used version control platform."
-msgstr ""
+msgstr "**GitHub:** Una plataforma de control de versiones muy utilizada."
 
 #: continuous_integration/continuous_integration.md:412
-msgid "**Job:** An automated process that clones your repository into a virtual environment and then carries out a series of phases such as compiling your code and running tests. A job fails if the return code of the script encounters an error."
+msgid ""
+"**Job:** An automated process that clones your repository into a virtual "
+"environment and then carries out a series of phases such as compiling your "
+"code and running tests. A job fails if the return code of the script "
+"encounters an error."
 msgstr ""
+"**Job (trabajo):** Un proceso automatizado que clona tu repositorio en un "
+"entorno virtual y luego lleva a cabo una serie de fases como la compilación "
+"de tu código y la ejecución de tests. Un job falla si el código de retorno "
+"del script encuentra un error."
 
 #: continuous_integration/continuous_integration.md:414
 msgid "**Travis:** A commonly used continuous integration platform."
-msgstr ""
+msgstr "**Travis:** Una plataforma de integración continua de uso común."
 
 #: continuous_integration/continuous_integration.md:416
 msgid "<a name=\"Bibliography\"></a>"
-msgstr ""
+msgstr "<a name=\"Bibliography\"></a>"
 
+# header
 #: continuous_integration/continuous_integration.md:417
-# header
 msgid "## Bibliography"
-msgstr ""
+msgstr "## Bibliografía  "
 
+# header
 #: continuous_integration/continuous_integration.md:419
-# header
 msgid "### Materials used: What is continuous integration?"
-msgstr ""
+msgstr "### Materiales utilizados: ¿Qué es la integración continua?"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:421
-# unordered list
-msgid "- [What is CI](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/for-beginners.md) **MIT**"
+msgid ""
+"- [What is CI](https://github.com/travis-ci/docs-travis-ci-"
+"com/blob/master/user/for-beginners.md) **MIT**"
 msgstr ""
+"- [Qué es CI](https://github.com/travis-ci/docs-travis-ci-"
+"com/blob/master/user/for-beginners.md) **MIT**"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:422
-# unordered list
-msgid "- [SSI blog](https://software.ac.uk/using-continuous-integration-build-and-test-your-software?_ga=2.231776223.1391442519.1547641475-1644026160.1541158284) **Creative Commons Attribution Non-Commercial 2.5 License**"
+msgid ""
+"- [SSI blog](https://software.ac.uk/using-continuous-integration-build-and-"
+"test-your-"
+"software?_ga=2.231776223.1391442519.1547641475-1644026160.1541158284) "
+"**Creative Commons Attribution Non-Commercial 2.5 License**"
 msgstr ""
+"- [Blog SSI](https://software.ac.uk/using-continuous-integration-build-and-"
+"test-your-"
+"software?_ga=2.231776223.1391442519.1547641475-1644026160.1541158284) "
+"**Licencia Creative Commons de Reconocimiento-NoComercial 2.5**"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:423
-# unordered list
-msgid "- [The difference between continuous integration, continuous deployment, and continuous delivery](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**"
+msgid ""
+"- [The difference between continuous integration, continuous deployment, and"
+" continuous delivery](https://www.digitalocean.com/community/tutorials/an-"
+"introduction-to-continuous-integration-delivery-and-deployment) **Creative "
+"Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**"
 msgstr ""
+"- [La diferencia entre integración continua, despliegue (deployment) "
+"continuo y entrega "
+"continua](https://www.digitalocean.com/community/tutorials/an-introduction-"
+"to-continuous-integration-delivery-and-deployment) **Licencia internacional "
+"Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0.**"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:424
-# unordered list
-msgid "- [CI with python](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**"
+msgid ""
+"- [CI with python](https://docs.python-guide.org/scenarios/ci/) "
+"**Attribution-NonCommercial-ShareAlike 3.0 Unported**"
 msgstr ""
+"- [IC con python](https://docs.python-guide.org/scenarios/ci/) "
+"**Reconocimiento-NoComercial-CompartirIgual 3.0 Unported**"
 
+# header
 #: continuous_integration/continuous_integration.md:426
-# header
 msgid "### Materials used: What is Travis and how does it work?"
-msgstr ""
+msgstr "### Materiales usados: ¿Qué es Travis y cómo funciona?"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:428
-# unordered list
-msgid "- [Info about how Travis works](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/for-beginners.md) **MIT**"
+msgid ""
+"- [Info about how Travis works](https://github.com/travis-ci/docs-travis-ci-"
+"com/blob/master/user/for-beginners.md) **MIT**"
 msgstr ""
+"- [Información sobre cómo funciona Travis](https://github.com/travis-ci"
+"/docs-travis-ci-com/blob/master/user/for-beginners.md) **MIT**"
 
+# header
 #: continuous_integration/continuous_integration.md:430
-# header
 msgid "### Materials used: Setting up continuous integration with Travis"
-msgstr ""
+msgstr "### Materiales usados: Configurando integración continua con Travis"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:432
-# unordered list
-msgid "- [Light travis tutorial](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/tutorial.md) **MIT**"
+msgid ""
+"- [Light travis tutorial](https://github.com/travis-ci/docs-travis-ci-"
+"com/blob/master/user/tutorial.md) **MIT**"
 msgstr ""
+"- [Guía básica de Travis](https://github.com/travis-ci/docs-travis-ci-"
+"com/blob/master/user/tutorial.md) **MIT**"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:433
-# unordered list
-msgid "- [CI with travis](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported**"
+msgid ""
+"- [CI with travis](https://docs.python-guide.org/scenarios/ci/) "
+"**Attribution-NonCommercial-ShareAlike 3.0 Unported**"
 msgstr ""
+"- [IC con Travis](https://docs.python-guide.org/scenarios/ci/) "
+"**Reconocimiento-NoComercial-CompartirIgual 3.0 Unported**"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:434
-# unordered list
-msgid "- [Installing dependencies via yaml](https://github.com/travis-ci/docs-travis-ci-com/edit/master/user/installing-dependencies.md) **MIT**"
+msgid ""
+"- [Installing dependencies via yaml](https://github.com/travis-ci/docs-"
+"travis-ci-com/edit/master/user/installing-dependencies.md) **MIT**"
 msgstr ""
+"- [Instalar dependencias a través de yaml](https://github.com/travis-ci"
+"/docs-travis-ci-com/edit/master/user/installing-dependencies.md) **MIT**"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:435
-# unordered list
-msgid "- [Testing multiple versions of programming languages](https://docs.python-guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)**"
+msgid ""
+"- [Testing multiple versions of programming languages](https://docs.python-"
+"guide.org/scenarios/ci/) **Attribution-NonCommercial-ShareAlike 3.0 Unported"
+" (CC BY-NC-SA 3.0)**"
 msgstr ""
+"- [Hacer tests de múltiples versiones de lenguajes de "
+"programación](https://docs.python-guide.org/scenarios/ci/) **Reconocimiento-"
+"NoComercial-CompartirIgual 3.0 Unported (CC BY-NC-SA 3.0)**"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:436
-# unordered list
-msgid "- [Using Travis with multiple operating systems](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/multi-os.md) **MIT**"
+msgid ""
+"- [Using Travis with multiple operating systems](https://github.com/travis-"
+"ci/docs-travis-ci-com/blob/master/user/multi-os.md) **MIT**"
 msgstr ""
+"- [Usar Travis con múltiples sistemas operativos](https://github.com/travis-"
+"ci/docs-travis-ci-com/blob/master/user/multi-os.md) **MIT**"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:437
-# unordered list
-msgid "- [Travis docs: customising the build](https://docs.travis-ci.com/user/customizing-the-build/) **MIT**"
+msgid ""
+"- [Travis docs: customising the build](https://docs.travis-ci.com/user"
+"/customizing-the-build/) **MIT**"
 msgstr ""
+"- [Documentación de Travis: ajustando el build](https://docs.travis-"
+"ci.com/user/customizing-the-build/) **MIT**"
 
+# header
 #: continuous_integration/continuous_integration.md:439
-# header
 msgid "### Materials used: Limitations of CI"
-msgstr ""
+msgstr "### Materiales utilizados: Limitaciones de la IC"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:441
-# unordered list
-msgid "- [Security with Travis](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/best-practices-security.md) **MIT**"
+msgid ""
+"- [Security with Travis](https://github.com/travis-ci/docs-travis-ci-"
+"com/blob/master/user/best-practices-security.md) **MIT**"
 msgstr ""
+"- [Seguridad con Travis](https://github.com/travis-ci/docs-travis-ci-"
+"com/blob/master/user/best-practices-security.md) **MIT**"
 
+# header
 #: continuous_integration/continuous_integration.md:443
-# header
 msgid "### Materials used: Best practise for continuous integration"
-msgstr ""
+msgstr "### Materiales usados: buenas prácticas para la integración continua"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:445
-# unordered list
-msgid "- [Continuous integration, continuous deployment and continuous delivery](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment) **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.**"
+msgid ""
+"- [Continuous integration, continuous deployment and continuous "
+"delivery](https://www.digitalocean.com/community/tutorials/an-introduction-"
+"to-continuous-integration-delivery-and-deployment) **Creative Commons "
+"Attribution-NonCommercial-ShareAlike 4.0 International License.**"
 msgstr ""
+"- [Integración continua, deployment continuo y entrega "
+"continua](https://www.digitalocean.com/community/tutorials/an-introduction-"
+"to-continuous-integration-delivery-and-deployment) **Licencia Internacional "
+"Creative Commons Reconocimiento-NoComercial-CompartirIgual  4.0.**"
 
+# unordered list
 #: continuous_integration/continuous_integration.md:446
-# unordered list
-msgid "- [Netherlands eScience Center guide](https://guide.esciencecenter.nl/best_practices/testing.html) **Creative Commons Attribution 4.0 International**"
+msgid ""
+"- [Netherlands eScience Center "
+"guide](https://guide.esciencecenter.nl/best_practices/testing.html) "
+"**Creative Commons Attribution 4.0 International**"
 msgstr ""
+"- [Guía del Centro Neerlandés "
+"eScience](https://guide.esciencecenter.nl/best_practices/testing.html) "
+"**Licencia Internacional Creative Commons de Reconocimiento 4.0.**"
 
-#: continuous_integration/continuous_integration.md:448
 # header
+#: continuous_integration/continuous_integration.md:448
 msgid "## Acknowledgements"
-msgstr ""
+msgstr "## Agradecimientos"
 
 #: continuous_integration/continuous_integration.md:450
-msgid "Thanks to David Jones of the University of Sheffield RSE group for useful discussions."
+msgid ""
+"Thanks to David Jones of the University of Sheffield RSE group for useful "
+"discussions."
 msgstr ""
-
+"Gracias a David Jones, del grupo de RSE de la Universidad de Sheffield, por "
+"sus útiles comentarios y debates sobre el tema."
