@@ -233,6 +233,21 @@
 
 - file: project-design/project-design
   sections:
+  - title: Creating Project Repositories
+    file: project-design/project-repo
+    sections:
+    - title: Landing Page - README File
+      file: project-design/project-repo/project-repo-readme
+    - title: Roadmapping
+      file: project-design/project-repo/project-repo-roadmapping
+    - title: Contributors and Communication Pathways
+      file: project-design/project-repo/project-repo-contributors
+    - title: Participation Guidelines
+      file: project-design/project-repo/project-repo-participation
+    - title: Advanced Structure for Data Analysis
+      file: project-design/project-repo/project-repo-advanced
+    - title: Further Recommendations
+      file: project-design/project-repo/project-repo-resources
   - title: Personas and Pathways
     file: project-design/persona
     sections:
@@ -265,8 +280,8 @@
           file: communication/citable/citable-cite
         - title: ORCID to Collect your Research Objects
           file: communication/citable/citable-orcid
-        - title: Checklist and Recommendations
-          file: communication/citable/citable-checklist
+        - title: Checklists and Resources
+          file: communication/citable/citable-resources
     - title: Community Communications for Open Source Projects
       file: communication/os-comms
       sections:
@@ -274,8 +289,6 @@
         file: communication/os-comms/os-comms-issue-tracking
       - title: Communication Channels
         file: communication/os-comms/os-comms-channels
-      - title: Further Reading
-        file: communication/os-comms/os-comms-resources
 
 # ===== Collaboration Guide ========================================
 
@@ -292,17 +305,6 @@
       file: collaboration/github-novice/github-novice-features
     - title: Advanced Github features
       file: collaboration/github-novice/github-novice-advanced
-  - title: Collaborating on GitHub
-    file: collaboration/github-collaboration
-    sections:
-    - title: README and Project Communication
-      file: collaboration/github/github-readme
-    - title: Roadmapping
-      file: collaboration/github/github-roadmapping
-    - title: Getting Contributors
-      file: collaboration/github/github-contributors
-    - title: Checklist and resources
-      file: collaboration/github/github-resources
   - title: Maintainers and Reviewers on GitHub
     file: collaboration/maintain-review
     sections:
