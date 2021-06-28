@@ -1,3 +1,4 @@
+(er-activism-preclinical-research)=
 # Ethical Decisions in Preclinical Research
 
 ## Prerequisites / recommended skill level

@@ -41,7 +41,7 @@ If you use a new image file, please add the file in the `figures` directory, and
 ## MyST syntax to add a figure to a _Turing Way_ chapter
 
 All our chapters are written in Markdown files.
-Therefore, using Markdown syntax to include a figure in a Markdown file will work fine, for example, `![](../../figures/file_collection.jpg)`, where the relative path of the image file is provided inside the round brackets '()'.
+Therefore, using Markdown syntax to include a figure in a Markdown file will work fine, for example, `![](../../figures/file-collection.jpg)`, where the relative path of the image file is provided inside the round brackets '()'.
 
 **However**, this formatting does not allow images to be responsive to screen sizes, making them inaccessible to read on small screens and smartphones.
 Furthermore, this doesn't allow authors to resize figures in their chapters or cross reference them somewhere else in the book.
@@ -54,7 +54,7 @@ Using the parameter: `name`, you can reference figures in other chapters in a si
 All the components of your figure (figures location, size and name) can be encapsulated in section within a markdown file using the following directive:
 
 ````
-```{figure} ../../figures/file_collection.jpg
+```{figure} ../../figures/file-collection.jpg
 ---
 height: 500px
 name: file-collection
@@ -82,41 +82,35 @@ Screen reader software can read an alt text to better explain the content of the
 All the components of your figure (image file location, size, name, alt text and title) can be encapsulated in section within a markdown file using the following directive:
 
 ````
-```{figure} ../../figures/file_collection.jpg
+```{figure} ../../figures/file-collection.jpg
 ---
 height: 500px
 name: file-collection
 alt: Two people happily browsing files in a drawer of documents.
 ---
-_The Turing Way_ project illustration by Scriberia.
-Used under a CC-BY 4.0 licence.
-DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 ````
 
 Another advantage of using alt text is when an image cannot be loaded in a browser, or the link to the image breaks, it is displayed in place of an figure like shown below:
 
-```{figure} ../../figures/alt_text_demo.png
+```{figure} ../../figures/alt-text-demo.png
 ---
-name: file-broken-link
+name: alt-text-demo
 alt: Two people happily browsing files in a drawer of documents.
 ---
-_The Turing Way_ project illustration by Scriberia.
-Used under a CC-BY 4.0 licence.
-DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 When all these components are used correctly, a figure included in a file will be rendered in the online book like in this page:
 
-```{figure} ../../figures/file_collection.jpg
+```{figure} ../../figures/file-collection.jpg
 ---
 height: 500px
 name: file-collection
 alt: Two people happily browsing files in a drawer of documents.
 ---
-_The Turing Way_ project illustration by Scriberia.
-Used under a CC-BY 4.0 licence.
-DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 (ch-style-figures-caption)=
@@ -136,29 +130,25 @@ For example, a caption might say:
 The syntax for this image is as follows, and the way it appears in the book is below the code snippet.
 
 ````
-```{figure} ../../figures/first_pull_request.png
+```{figure} ../../figures/first-pull-request.png
 ---
 height: 400px
 name: first-pull-request
 alt: A person helping out another person making their first pull request on GitHub
 ---
 Making your first pull request on GitHub.
-_The Turing Way_ project illustration by Scriberia.
-Used under a CC-BY 4.0 licence.
-DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 ````
 
-```{figure} ../../figures/first_pull_request.png
+```{figure} ../../figures/first-pull-request.png
 ---
 height: 400px
 name: first-pull-request
 alt: A person helping out another person making their first pull request on GitHub
 ---
 Making your first pull request on GitHub.
-_The Turing Way_ project illustration by Scriberia.
-Used under a CC-BY 4.0 licence.
-DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 Please make sure that the link to the source is the {term}`digital object identifier <Digital Object Identifier>` not the Zenodo record.

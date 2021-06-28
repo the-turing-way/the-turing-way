@@ -70,7 +70,7 @@ jedis:
 
 Every element of the list is indented and starts with a dash and a space.
 
-Dictionaries are collections of `key: value` mappings. 
+Dictionaries are collections of `key: value` mappings.
 All keys are case-sensitive.
 
 ```
@@ -99,14 +99,14 @@ For example, parsing the following sample will fail:
   unquoted-string: "let me put a colon here: oops"
   ```
   Generally, you should quote all strings that contain any of the following characters: `[] {} : > |`.
-- **Tabs versus spaces for indentation:** do _not_ use tabs for indentation. 
-While the resulting YAML can still be valid, this can be a source of many subtle parsing errors. 
+- **Tabs versus spaces for indentation:** do _not_ use tabs for indentation.
+While the resulting YAML can still be valid, this can be a source of many subtle parsing errors.
 Just use spaces.
 
 (rr-renv-yaml-environments)=
 ## How To Use Yaml To Define Computational Environments
 
-Because of their simplicity, YAML files can be handwritten. 
+Because of their simplicity, YAML files can be handwritten.
 Alternatively, they can be automatically generated as discussed in the {ref}`rr-renv-package` subchapter.
 From a YAML file, a computational environment can be replicated in a few ways.
 
