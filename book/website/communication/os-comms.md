@@ -1,5 +1,5 @@
 (cm-os-comms)=
-# Community Communications for Open Source Projects
+# Communications in Open Source Projects
 
 ## Summary
 

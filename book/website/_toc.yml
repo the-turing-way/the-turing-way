@@ -322,7 +322,7 @@
       file: communication/citable/citable-orcid
     - title: Checklist and Recommendations
       file: communication/citable/citable-checklist
-  - title: Community Communications for Open Source Projects
+  - title: Communications in Open Source Projects
     file: communication/os-comms
     sections:
     - title: Issue Tracking
