@@ -67,7 +67,7 @@ Offer help with this process and also training on any communications channel tha
 #### Accessing Shared Documents
 
 - What method of sharing is preferred? _for example google docs, RMarkdown, shared documents over email, GitHub, OneDrive_ 
-- Ensure invitations are set up for calendar meetings and access is in place
+- Ensure invitations are set up for calendar meetings and access is in place.
 
 #### Expectations in Meetings
 
