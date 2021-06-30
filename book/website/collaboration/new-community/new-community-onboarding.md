@@ -4,7 +4,10 @@
 ## Summary
 
 Joining a new group virtually is a very different experience from joining in person, and it can be hard to know if someone is struggling or isolated.  
+
 You can help to make this experience less overwhelming by having a clear onboarding plan and resources. 
+
+This should include an introduction to the team, an ongoing support mechanism for the new team member and onboarding documents.
 
 ## Introducing the Team
 
