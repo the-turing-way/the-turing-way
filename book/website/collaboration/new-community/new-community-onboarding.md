@@ -23,6 +23,9 @@ An onboarding event sharing important information like contact details, organigr
 
 You can provide one-on-one support - such as a buddy for informal peer support, or a mentor, for more formal support.
 This helps the new joiner understand group norms, and allows them to ask any sensitive questions they wouldn't like to raise in a group discussion.
+You should consider that the buddy or mentor should remain for a longer period than would be needed with in person onboarding.
+
+Co-working with a buddy or several team members is another informal way to build relationships with new team members and is an informal environment to address any questions that may have arisen in the first few days or weeks of employment. 
 
 ## Onboarding Document Guidelines
 
