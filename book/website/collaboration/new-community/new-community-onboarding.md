@@ -79,7 +79,7 @@ Clearly outlining expected attendance and contributions can help overcome this, 
 
 #### Training
 
-On tools, the group uses often - for example GitHub
+On tools, the group uses often - for example GitHub and communication channels such as Slack.
 
 * Use Zenodo or similar to host training materials for easier sharing 
 * Use a Youtube channel to store induction & training for people to watch in their own time
