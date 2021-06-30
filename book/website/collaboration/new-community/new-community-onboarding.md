@@ -14,7 +14,7 @@ This should include an introduction to the team, an ongoing support mechanism fo
 It can be intimidating to be the first to speak as a new member - consider asking your team to do a "who's who", and to introduce themselves first in meetings.
 
 Names and roles are also easy to forget, particularly if we aren't seeing people in the office every day. 
-It can be helpful to store this information somewhere, for example, by sending around an introductory email.
+It can be helpful to store this information somewhere, for example, by sending around an introductory or onboarding email.
 Also consider organising online social events, such as coffee chats or team activity like a video game or escape room, to help new members integrate into the group. 
 
 An onboarding event sharing important information like contact details, organigram, shared calendar, resources available to everyone, organisation policy and social norms can be extremely useful.
