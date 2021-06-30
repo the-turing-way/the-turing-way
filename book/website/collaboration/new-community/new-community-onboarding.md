@@ -15,7 +15,7 @@ It can be intimidating to be the first to speak as a new member - consider askin
 
 Names and roles are also easy to forget, particularly if we aren't seeing people in the office every day. 
 It can be helpful to store this information somewhere, for example, by sending around an introductory email.
-Also consider organising online social events, such as coffee chats or team activity like a video game or escape room to help new members integrate into the group. 
+Also consider organising online social events, such as coffee chats or team activity like a video game or escape room, to help new members integrate into the group. 
 
 An onboarding event sharing important information like contact details, organigram, shared calendar, resources available to everyone, organisation policy and social norms can be extremely useful.
 
