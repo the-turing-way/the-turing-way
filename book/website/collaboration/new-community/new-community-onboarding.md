@@ -81,7 +81,7 @@ Clearly outlining expected attendance and contributions can help overcome this, 
 
 On tools, the group uses often - for example GitHub and communication channels such as Slack.
 
-* Use Zenodo or similar to host training materials for easier sharing 
+* Use [Zenodo](https://zenodo.org/), or a similar open repository, to host training materials for easier sharing. 
 * Use a Youtube channel to store induction & training for people to watch in their own time
 * Consider running training & induction sessions every 2-3 months as new people join
 * Consider a Slack channel for new joiners - for questions and discussion. 
