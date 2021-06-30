@@ -53,7 +53,7 @@ Group culture sections can include:
 It can be hard to ask for help, particularly when working remotely - you can't just lean over to the person at the next desk and ask! 
 
 Key contacts could include:
-* Group technicians/managers
+* Group technicians/managers.
 * Key collaborators, and info on what areas of the project they are involved in.
 * IT - include detail - is there a form, or a specific person to email?
 
