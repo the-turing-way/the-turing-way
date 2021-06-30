@@ -44,9 +44,9 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > But it also includes making those outputs FAIR - findable, accessible, interoperable and reusable. I am an advocate for greater diversity in STEM and in data science and particularly passionate about improving the ways we reward collaborative and supportive working.
 > Finally, I'd like to pivot to having data science project be developed in the open from the beginning and with a decision making governance process that is inclusive and community-lead.
 
-**Contributors names should be added alphabetically**
+**Contributors names are added alphabetically**
 
-<!---A--->
+## A
 
 ### Alexander Morley
 
@@ -67,7 +67,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > I really want research to be accessible, but in a much broader sense than the word is often used. I would love to see a world where re-mixing research is a common thing, whether that be re-mixing figures to make them easier to understand, re-using data to generate new insights, or testing new methods to see how our theories might need to change.
 > Slightly less on topic, but just as important, I am also passionate about the development and adoption of best-practices in governance. Safe and inclusive spaces are all too rare in academia, and I think some part of that can be solved by doing away with our laissez-faire attitude towards governance and management.
 
-## Andreea Avramescu
+### Andreea Avramescu
 * Role: Book Dash 2021 participant
 * GitHub id: [https://github.com/andreea-avramescu](andreea-avramescu)
 * ORCID: [https://orcid.org/0000-0001-6837-6272](0000-0001-6837-6272)
@@ -119,7 +119,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 * Personal Quote:
 > The Book Dash is an incredible experience for both newer and established community members. It is joyful work to spend focused time on developing content for the Turing Way and supporting people from across the globe to contribute. I feel lucky to have been able to take part and take on a more prominent role as part of the organising committee. 
 
-<!---B--->
+## B
 
 ### Batool Almarzouq
 
@@ -175,9 +175,7 @@ I also hope that it can convince people that don't consider themselves capable o
 * Personal highlights:
 >I collaborated with a group of researchers from The Alan Turing Institute to draft a chapter of scientific outreach.
 
-
-<!---C--->
-
+## C
 
 ### Camila Rangel Smith
 
@@ -206,7 +204,7 @@ I also hope that it can convince people that don't consider themselves capable o
 <!---D--->
 
 
-<!---E--->
+## E
 
 ### Emma Karoune
 
@@ -245,7 +243,7 @@ I'm a Research Associate and Community Manager of DECOVID at The Alan Turing Ins
 <!---G--->
 
 
-<!---H--->
+## H
 
 ### Hannah Nicholls
 
@@ -308,7 +306,7 @@ next step for The Turing Way to become more than a book. It could be an
 ecosystem, with the book at its basis. And -- if we decide to go that route --
 I would like to be a part of it.
 
-<!---I--->
+## I
 
 ### Irene K
 
@@ -346,7 +344,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * More information:
 > I am really fascinated by philosophical discussions about the social sciences, so I love the thought of questioning what an open science culture looks like and how to get there!
 
-<!---J--->
+## J
 
 ### José María Fernández
 
@@ -361,7 +359,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > I have really enjoyed meeting so warming and the dynamic community around The Turing Way!
 > I have mostly contributed to reviewing open Pull requests and networking with the community members.
 
-<!---K--->
+## K
 
 ### Kim De Ruyck
 
@@ -377,7 +375,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > Specifically, I have authored a subchapter on [Research Data Management Toolkit](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-toolkits.html).
 
 
-<!---L--->
+## L
 
 ### Laura Acion
 
@@ -433,8 +431,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > If we say that we want people to make their research open and reproducible, we need to give them the tools they need to be confident in doing so.
 > I see the Turing Way as the means of bridging that gap, by providing a friendly, practical and helpful guide for researchers at all stages of their careers.
 
-<!---M--->
-
+## M
 
 ### Malvika Sharan
 
@@ -487,8 +484,8 @@ I am an associate member of the Chartered Institute of Personnel and Development
 ### Marta Mangiarulo
 
 * Role: Book Dash 2020 & 2021 participant
-* GitHub id: Marta-MM
-* ORCID: 0000-0001-7995-3717
+* GitHub id: [Marta-MM](http://github.com/Marta-MM)
+* ORCID: [0000-0001-7995-3717](https://orcid.org/0000-0001-7995-3717)
 * Short bio:
 > I am a Research Assistant and Teaching Fellow in Psychology at the University of Leicester. My main research interests involve probabilistic inference, social hypothesis testing, and reasoning biases. I am also passionate about science communication and research dissemination and interested in replicability, open science issues, and the interface between cognitive and social aspects in social psychology.
 
@@ -549,7 +546,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * More information:
 > More information about me can be read on my [website](https://martinagvilas.github.io/).
 
-<!-- N -->
+## N
 
 ### Nina Di Cara
 
@@ -566,6 +563,9 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * Quotes:
 > Being part of the Book Dash has been a great reminder of how team-based science can be such a joyful and fun experience! An especially well-timed reminder after spending a year working from my flat! 
 
+<!--O-->
+
+## P
 
 ### Patricia Herterich
 
@@ -610,8 +610,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 <!---Q--->
 
 
-<!---R--->
-
+## R
 
 ### Rosie Higman
 
@@ -631,7 +630,6 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > I spend much of my time talking to researchers about the overarching principles of *why* reproducible and open research is a good idea and am excited by the idea of giving people practical guidance on *how* to do this.
 > Messy code is frequently cited in these discussions as a reason for not sharing code so if we could produce something which helps people get past this barrier would be great.
 > I hope that the Turing Way will be something we can also use at the University of Manchester and other Turing universities around the country!
-
 
 ### Rachael Ainsworth
 
@@ -655,7 +653,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > I find that it can be difficult to get researchers to engage with reproducibility and sharing their research outputs because they perceive that it will take too much time and effort with very little reward - when the opposite is true!
 > Ensuring results are reproducible not only benefits research as a whole and increases efficiency, but working this way also offers researchers more opportunities for impact and collaboration.
 
-<!---S--->
+## S
 
 ### Samuel Guay
 
@@ -704,7 +702,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > I'm a fierce advocate for ethical and open research, and those beliefs tend to carry into everything I do. I previously worked on Brain Computer Interfaces after finishing my undergrad at UC Berkeley where I saw the incredible work that can be done through collaborative, crossdisciplinary science. I'm now part of Open Life Science's second cohort learning how to implement the teachings of The Turing Way because when good science and good practice meets, great things can happen.
 
 
-<!---T--->
+## T
 
 ### Tim Powell
 
