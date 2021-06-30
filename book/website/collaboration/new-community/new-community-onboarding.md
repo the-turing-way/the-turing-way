@@ -89,8 +89,10 @@ On tools, the group uses often - for example GitHub
 
 #### Resources 
 
-* Link to the group website/Twitter
+* Link to the group website.
+* Link to group social media accounts - Twitter, Facebook, Instagram.
 * Links to other resources - institution wellbeing services.
+* Links to group policies.
 
 #### Glossary
 
