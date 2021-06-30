@@ -84,8 +84,8 @@ On tools, the group uses often - for example GitHub
 * Consider running training & induction sessions every 2-3 months as new people join
 * Consider a Slack channel for new joiners - for questions and discussion. 
 * Consider providing Office Hours to support new joiners using new tools - for example, GitHub.
-* Get feedback on your training
-* Try and make your training session as interactive as possible with exercises 
+* Try to make your training sessions as interactive as possible with exercises and discussions.
+* Get feedback on your training and use this to adjust and improve your resources.
 
 #### Resources 
 
