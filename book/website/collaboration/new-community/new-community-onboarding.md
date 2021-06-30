@@ -37,7 +37,7 @@ This creates a set of shared expectations and acts as a reference for new member
 #### Group Culture
 
 Every group or workplace has a different culture, and expectations aren't always clear when a new member joins. 
-You can help them settle in by making the culture clear here. 
+You can help them settle in by making the culture clear in written form. 
 
 This can be especially important for people who experience discrimination - do they know that they can approach you and be listened to if they experience harassment or discrimination?
 
