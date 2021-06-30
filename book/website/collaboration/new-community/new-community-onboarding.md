@@ -74,7 +74,7 @@ Offer help with this process and also training on any communications channel tha
 - Individuals may not have adequate access to equipment or the internet. 
 Discussions about whether any support is required for home setup (for example webcams, microphone, laptop) can allow for any needs to be addressed.
 - Meeting etiquette - learning expectations for different meetings can be overwhelming for a new starter. 
-Clearly outlining expected attendance and contribution can help overcome this, _for example are attendees required to read the papers prior to journal club? Are attendees asked to present their work regularly? Are you expecting videos to be on?_
+Clearly outlining expected attendance and contributions can help overcome this, _for example, are attendees required to read the papers prior to journal club? Are attendees asked to present their work regularly? Are you expecting videos to be on?_
 - Meeting times - consider the circumstances of your group when organising regular meetings - does everyone have the same opportunity to attend? _for example some groups try to arrange Athena SWAN meeting times, whereby meetings occur between 10-3, meaning that those with children are more able to attend this_.
 
 #### Training
