@@ -60,7 +60,9 @@ Key contacts could include:
 #### Communication Channels
 
 - Preferred method of communications, _for example email, video call, slack message_
-- Ensure any communication preferences are ..communicated.. from the beginning
+- Ensure any communication preferences are ..communicated.. from the beginning. 
+It should be a priority that the new team member is sent all relevant information to join these communications channels and someone should check that they have been able to set them up. 
+Offer help with this process and also training on any communications channel that the new team member has not used before so that they can communicate with the other team members quickly after joining. 
 
 #### Accessing Shared Documents
 
