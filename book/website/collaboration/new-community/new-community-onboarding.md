@@ -71,7 +71,7 @@ Offer help with this process and also training on any communications channel tha
 
 #### Expectations in Meetings
 
-- Individuals may not have adequate access to equipment/internet. 
+- Individuals may not have adequate access to equipment or the internet. 
 Discussions about whether any support is required for home setup (for example webcams, microphone, laptop) can allow for any needs to be addressed.
 - Meeting etiquette - learning expectations for different meetings can be overwhelming for a new starter. 
 Clearly outlining expected attendance and contribution can help overcome this, _for example are attendees required to read the papers prior to journal club? Are attendees asked to present their work regularly? Are you expecting videos to be on?_
