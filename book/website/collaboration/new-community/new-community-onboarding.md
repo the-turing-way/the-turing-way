@@ -29,7 +29,7 @@ Co-working with a buddy or several team members is another informal way to build
 
 ## Onboarding Document Guidelines
 
-Your project can have an onboarding document or manual. 
+Your project can have an onboarding document, manual or folder of resources. 
 This creates a set of shared expectations and acts as a reference for new members to find information about resources, or who to ask for help if they have a problem.
 
 ### Suggested Sections and Content
