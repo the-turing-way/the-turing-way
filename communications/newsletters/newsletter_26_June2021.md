@@ -6,13 +6,15 @@ Hello Turing Way friends!
 
 In June, amidst the pandemic and lockdowns, our incredible Book Dash contributors and reviewers continued to collaborate and work on their contributions over the last month.🙏
 
-Thanks to them (you! 🌷):
+Thanks to them (you!):
 - 🎊 we published 8 chapters (with 20 subchapters) across guides for communication, collaboration and ethical research! 
 - 📹 we also published videos from the Community Share out events that include stories and ideas behind the illustrations we recently released on [Zenodo](https://zenodo.org/record/3332807).
 
 If you are wondering where to start, [email Malvika](mailto:msharan@turing.ac.uk) who would love to chat about your work and find the right starting point for you in _The Turing Way_.
 
 Find more details on these topics (and more) below 👇
+
+*Thanks to Emma Karoune for reviewing this month's newsletter.* 🌷
 
 ## Community Meetings
 
