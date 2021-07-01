@@ -1,6 +1,6 @@
 The Turing Way Newsletter: 30 June 2021
 
-# New chapters in _The Turing Way_ Guide for Communication, video from past events and lots of resources.
+# Success Stories from Book Dash Collaborations, Videos from Past Events & More Community Updates
 
 Hello Turing Way friends!
 
@@ -90,7 +90,7 @@ OLS has received the [Turing Online Training Grant](https://www.applieddatascien
 
 ![OLS flyer that provides a timeline of the programme from September 2021 to January 2021](images/2021-06-ols.png)
 
-*Open Life Science programme details and the timeline for the fourth cohort.*
+*OLS-4 for Turing Call for Application for the fourth cohort.*
 
 ### Videos from Previous Events
 
@@ -106,7 +106,7 @@ Here are the links to _The Turing Way_ related videos.
 - [Lightning talk on Activism](https://www.youtube.com/watch?v=udv0z-_80zo) by Arielle Bennett. 
 A [chapter on activism](https://the-turing-way.netlify.app/ethical-research/activism.html) can be read in our Guide for Ethics.
 - [Mini-workshop](https://www.youtube.com/watch?v=Xv1jCOskkgM) by Batool Almarzouq, Emma Karoune and Malvika Sharan.
-Notes from this workshop have been summerised as a subchapter in [Pull Request #1936](https://github.com/alan-turing-institute/the-turing-way/pull/1936), which invites reviews and suggestions.
+Notes from this workshop have been summarised as a subchapter in [Pull Request #1936](https://github.com/alan-turing-institute/the-turing-way/pull/1936), which invites reviews and suggestions.
 
 ![This illustration shows a stage with a trophy labelled as 'reproducible research trophy'. A diverse team of four people are helping each other take staircase towards the trophy. The staircase has three sets of labels indicating research stages as (1) before, that includes 'team, funding, question, methodology, approval, license', (2) during that includes version control and documentation, and (3) after that includes archiving and publishing steps.](images/2021-06-projectdesign.png)
 
