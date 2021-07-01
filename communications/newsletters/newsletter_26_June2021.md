@@ -22,16 +22,16 @@ Find more details on these topics (and more) below 👇
 
 You are invited to attend one or multiple of these online calls and community meetings: 
 
-* **Onboarding and Catch-up** calls are hosted from 15:00 to 16:00 London time ([see in your local time](http://time.unitarium.com/utc/14)) on 2, 9, 16, 23 and 30 July.
+**Onboarding and Catch-up** calls are hosted from 15:00 to 16:00 London time ([see in your local time](http://time.unitarium.com/utc/14)) on 2, 9, 16, 23 and 30 July.
  on 2, 9, 16, 23 and 30 July.
-  * These calls feature open discussions with new and existing community members and onboard them in The Turing Way project. 
+* These calls feature open discussions with new and existing community members and onboard them in The Turing Way project. 
 
-* **Collaboration Cafes** will be hosted on 7 and 21 July from 15:00 - 17:00 London time ([see in your local time](http://time.unitarium.com/utc/14)). 
-  * These are 2-hour long calls that feature discussions on topics of shared interest in _The Turing Way_ and several short quiet working sessions (see [the chapter](https://the-turing-way.netlify.app/community-handbook/coworking.html)).
+**Collaboration Cafes** will be hosted on 7 and 21 July from 15:00 - 17:00 London time ([see in your local time](http://time.unitarium.com/utc/14)). 
+* These are 2-hour long calls that feature discussions on topics of shared interest in _The Turing Way_ and several short quiet working sessions (see [the chapter](https://the-turing-way.netlify.app/community-handbook/coworking.html)).
 
-* **Weekly Coworking** calls are 1-hour long calls where you can catch up with _The Turing Way_ team members and other contributors and get some of your tasks done that need focused time or feedback.
-  * Join us from 11:00 - 12:00 ([see in your local time](http://time.unitarium.com/utc/10)) London time on 5, 12, 19 and 26 July 2021 (compatible with Western Time Zones).
-  * Join us from 15:00 - 16:00 ([see in your local time](http://time.unitarium.com/utc/14)) London time on 14 and 28 July 2021 (compatible with Eastern Time Zones).
+**Weekly Coworking** calls are 1-hour long calls where you can catch up with _The Turing Way_ team members and other contributors and get some of your tasks done that need focused time or feedback.
+* Join us from 11:00 - 12:00 ([see in your local time](http://time.unitarium.com/utc/10)) London time on 5, 12, 19 and 26 July 2021 (compatible with Western Time Zones).
+* Join us from 15:00 - 16:00 ([see in your local time](http://time.unitarium.com/utc/14)) London time on 14 and 28 July 2021 (compatible with Eastern Time Zones).
 
 ## News from the Community
 
@@ -61,7 +61,8 @@ It now features examples from _The Turing Way_ repository and resources from the
 ### [6 new chapters in the Guide for Communication](https://the-turing-way.netlify.app/communication)
 
 Emma Karoune, Maria Nanton and Marta Mangiarulo (our contributor in focus this week) began their collaboration at the Book Dash and ended up writing six chapters in the guide for communication that features personal stories from Veronika Cheplygina, Yanina Bellini, Emma Harris and Zoe Ingram.
-Read the following chapters to learn how to communicate your work with a wider audience
+These chapters are edited by the authors along with Malvika and Esther Plomp.
+Read the following chapters to learn how to communicate your work with a wider audience:
 - [Overview of Guide for Communication](https://the-turing-way.netlify.app/communication/comms-overview.html)
 - [Blogs for Research Communication](https://the-turing-way.netlify.app/communication/blogs.html)
 - [Lay Summaries](https://the-turing-way.netlify.app/communication/lay-summaries.html)
@@ -77,7 +78,7 @@ Read the following chapters to learn how to communicate your work with a wider a
 Her research interests involve probabilistic inference, social hypothesis testing, and reasoning biases. 
 She is also passionate about science communication and research dissemination and interested in replicability, open science issues, and the interface between cognitive and social aspects in social psychology. As a two times Book Dash attendee, Marta reflects on her participation:
 > In the **November 2020 book dash**, I used GitHub for the first time! I started familiarising myself with the GitHub environment and learned how to collaborate through it to provide valuable contributions to the project. 
-> My work during this book dash had mostly been individual, but in the May 2021 book dash, I was very happy to start where I had left off. 
+> My work during this book dash had mostly been individual, but in the **May 2021 book dash**, I was very happy to start where I had left off. 
 > I collaborated with others, made relevant contributions and I have a clear idea of where I would like to go next which is much more than what I was hoping for! 
 > I loved taking part in the Book Dash, it is such a rewarding experience above and beyond its material outputs.
 
@@ -142,14 +143,15 @@ Slides on Zenodo: [10.5281/zenodo.5017713](https://zenodo.org/record/5017713).
 - Danchev, V. [Reproducible Data Science with Python on the Cloud](https://valdanchev.github.io/reproducible-data-science-python/intro.html). Jupyter Book.
 - Birds, I. [Remote Computational Project Resource](https://isabelbirds.github.io/Remote-Computational-Project-Resource/welcome.html). (2021, June 10). Jupyter Book.
 - Hardin, M. Ç.-R. a. J. (2021, June 29). [Introduction to Modern Statistics](https://openintro-ims.netlify.app). Book.
-- Sharan, M., Brown, A., Ball, W., Krikler, B. [Nudging towards a better default for open source project ownership](https://www.software.ac.uk/blog/2021-06-09-nudging-towards-better-default-open-source-project-ownership). Blog.
-- Woolston, C. (2021). [Impact factor abandoned by Dutch university in hiring and promotion decisions](https://www.nature.com/articles/d41586-021-01759-5). Nature. DOI: 10.1038/d41586-021-01759-5
+- Woolston, C. (2021). [Impact factor abandoned by Dutch university in hiring and promotion decisions](https://www.nature.com/articles/d41586-021-01759-5). Nature. DOI: 10.1038/d41586-021-01759-5, Career News.
 - Vilas, M. V.. [ML-Vis-BrainHack-2021](https://github.com/martinagvilas/ML-Vis-BrainHack-2021), Tutorial.
 - Gibson, S. [Blogging with Hugo and GitHub Pages](https://sgibson91.github.io/blogging-with-hugo-and-github-pages). (2021, June 24). Tutorial.
 - Nordmann, E., McAleer, P., Toivo, W., Paterson, H., & DeBruine, L. (2021). [Data visualisation using R, for researchers who don't use R](https://psyarxiv.com/4huvw/). PsyArXiv. DOI: 10.31234/osf.io/4huvw. Preprint.
+- Sharan, M., Brown, A., Ball, W., Krikler, B. [Nudging towards a better default for open source project ownership](https://www.software.ac.uk/blog/2021-06-09-nudging-towards-better-default-open-source-project-ownership). Blog.
 - Harihareshwara, S. [Monday (18 June) Will Be Volunteer Responsibility Amnesty Day](https://www.harihareswara.net/sumana/2021/06/18/0). (2021, June). Blog.
 - Hulagabali, H. C, [Should We Mandate a Course in Ethics for All Research-Based PhD Candidates?](https://www.socialsciencespace.com/2021/06/should-we-mandate-a-course-in-ethics-for-all-research-based-phd-candidates) - Social Science Space. (2021, June 11). Blog.
-- Nüst, Daniel. (2021, June). [AGILE Conference Reproducibility Review 2021](http://doi.org/10.5281/zenodo.4926269) (Version 1). Zenodo.
+- Nüst, D. [AGILE Conference Reproducibility Review 2021](http://doi.org/10.5281/zenodo.4926269) (Version 1). Zenodo. (2021, June). Presentation.
+- Rachael, A. [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.14710110.v1). figshare. (2021, June). Presentation.
 
 ### Tweet Mentions
 
