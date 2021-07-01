@@ -90,7 +90,7 @@ OLS has received the [Turing Online Training Grant](https://www.applieddatascien
 
 ![OLS flyer that provides a timeline of the programme from September 2021 to January 2021](images/2021-06-ols.png)
 
-*Open Life Science programme details and timeline for the fourth cohort.*
+*Open Life Science programme details and the timeline for the fourth cohort.*
 
 ### Videos from Previous Events
 
