@@ -20,7 +20,7 @@ Find more details on these topics (and more) below 👇
 
 *An illustration of a group coworking. [Royalty-free image from Many Pixels](https://www.manypixels.co/gallery/)*
 
-You are invited to attend one or multiple of these online calls and community meetings: 
+You are invited to attend one or multiple of our online community calls listed below (also [subscribe to our calendar](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ)).
 
 **Onboarding and Catch-up** calls are hosted from 15:00 to 16:00 London time ([see in your local time](http://time.unitarium.com/utc/14)) on 2, 9, 16, 23 and 30 July.
  on 2, 9, 16, 23 and 30 July.
@@ -54,13 +54,13 @@ It now features examples from _The Turing Way_ repository and resources from the
 -  Thanks to Lotty Coupat for writing [a case study from the AutSpaces project](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-roadmapping.html) that describes how to set a roadmap for your project. 
 - Thanks to Andreea Avramescu, Helen Nicholls and Becki Green from the ‘Engage @ Turing ’ graduate programme for providing examples to [set up repositories for a software project](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-advanced.html).
 
+### [6 new chapters in the Guide for Communication](https://the-turing-way.netlify.app/communication)
+
 ![Maria quote tweeting The Turing Way announcement of new chapters: “That feeling when a great set of chapters (including a couple you've been working on) is about to get published in an amazing and open resource”](images/2021-06-mariatweet.png)
 
 *Tweet by [Maria Nanton](https://twitter.com/bynans1/status/1408568198002364429?s=20)*
 
-### [6 new chapters in the Guide for Communication](https://the-turing-way.netlify.app/communication)
-
-Emma Karoune, Maria Nanton and Marta Mangiarulo (our contributor in focus this week) began their collaboration at the Book Dash and ended up writing six chapters in the guide for communication that features personal stories from Veronika Cheplygina, Yanina Bellini, Emma Harris and Zoe Ingram.
+Emma Karoune, Maria Nanton and Marta Mangiarulo began their collaboration at the Book Dash and ended up writing six chapters in the guide for communication that features personal stories from Veronika Cheplygina, Yanina Bellini, Emma Harris and Zoe Ingram.
 These chapters are edited by the authors along with Malvika and Esther Plomp.
 Read the following chapters to learn how to communicate your work with a wider audience:
 - [Overview of Guide for Communication](https://the-turing-way.netlify.app/communication/comms-overview.html)
