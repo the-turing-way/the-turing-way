@@ -101,7 +101,7 @@ Video recording from the session is available to watch online.
 - On 21 May 2021, we hosted two community share-outs demonstrating chapter ideas, drafts and illustrations our Book Dash participants generated within four days of the event.
 You can watch the recordings [on YouTube](https://www.youtube.com/playlist?list=PLBxcQEfGu3DlHhbBk3Aa8KzaOEUc8dEic).
 
-Videos from different sessions at Collaboration Workshop 2021 have been made available on the Software Sustainability Institute’s YouTube channel](https://www.youtube.com/softwaresaved).
+Videos from different sessions at Collaboration Workshop 2021 have been made available on the [Software Sustainability Institute’s YouTube channel](https://www.youtube.com/softwaresaved).
 Here are the links to _The Turing Way_ related videos.
 - [Lightning talk on Activism](https://www.youtube.com/watch?v=udv0z-_80zo) by Arielle Bennett. 
 A [chapter on activism](https://the-turing-way.netlify.app/ethical-research/activism.html) can be read in our Guide for Ethics.
