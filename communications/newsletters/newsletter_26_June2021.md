@@ -50,7 +50,7 @@ She writes “Knowing the law, policy, and human rights that underpin research e
 
 This is an extended draft of an earlier chapter that describes what key documents should be added to a project repository.
 It now features examples from _The Turing Way_ repository and resources from the Open Life Science training program.
--  Thanks to Lotty Coupet for writing [a case study from the AutSpaces project](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-roadmapping.html) that describes how to set a roadmap for your project. 
+-  Thanks to Lotty Coupat for writing [a case study from the AutSpaces project](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-roadmapping.html) that describes how to set a roadmap for your project. 
 - Thanks to Andreea Avramescu, Helen Nicholls and Becki Green from the ‘Engage @ Turing ’ graduate programme for providing examples to [set up repositories for a software project](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-advanced.html).
 
 ![Maria quote tweeting The Turing Way announcement of new chapters: “That feeling when a great set of chapters (including a couple you've been working on) is about to get published in an amazing and open resource”](images/2021-06-mariatweet.png)
