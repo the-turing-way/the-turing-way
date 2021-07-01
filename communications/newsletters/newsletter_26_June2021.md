@@ -1,6 +1,6 @@
 The Turing Way Newsletter: 30 June 2021
 
-# A catchy title that sums the main points
+# New chapters in _The Turing Way_ Guide for Communication, video from past events and lots of resources.
 
 Hello Turing Way friends!
 
