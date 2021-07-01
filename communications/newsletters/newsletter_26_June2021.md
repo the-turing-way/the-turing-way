@@ -55,7 +55,7 @@ It now features examples from _The Turing Way_ repository and resources from the
 
 ![Maria quote tweeting The Turing Way announcement of new chapters: “That feeling when a great set of chapters (including a couple you've been working on) is about to get published in an amazing and open resource”](images/2021-06-mariatweet.png)
 
-*Tweet by [Maria Nantone](https://twitter.com/bynans1/status/1408568198002364429?s=20)*
+*Tweet by [Maria Nanton](https://twitter.com/bynans1/status/1408568198002364429?s=20)*
 
 ### [6 new chapters in the Guide for Communication](https://the-turing-way.netlify.app/communication)
 
