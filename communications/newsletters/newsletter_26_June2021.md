@@ -34,7 +34,7 @@ These calls will take place from 15:00 to 16:00 London time ([see in your local 
 
 ## News from the Community
 
-A month after the Book Dash (May 2021), several of our participants have merged the first versions of their chapters on _The Turing Way_ guides.
+A month after the Book Dash (May 2021), several of our participants have merged the first versions of their chapters into _The Turing Way_ guides.
 We are really happy to share these chapters with you and invite you to read, review and share them in your network.
 
 ![Image shows two people sitting on the ground. They are smiling and looking at the concrete wall called 'human rights that are secured by a heavy chain and lock. Behind the wall several monsters are depicting human rights violations and harmful elements of society that can breach laws and policy in the absence of this protective wall.](images/2021-06-humanrights.png)
