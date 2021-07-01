@@ -74,7 +74,7 @@ Read the following chapters to learn how to communicate your work with a wider a
 
 Marta Mangiarulo is a Research Assistant and Teaching Fellow in Psychology at the University of Leicester. 
 Her research interests involve probabilistic inference, social hypothesis testing, and reasoning biases. 
-She is also passionate about science communication and research dissemination and interested in replicability, open science issues, and the interface between cognitive and social aspects in social psychology. As the two times Book Dash attendee, Marta reflects on her participation:
+She is also passionate about science communication and research dissemination and interested in replicability, open science issues, and the interface between cognitive and social aspects in social psychology. As a two times Book Dash attendee, Marta reflects on her participation:
 > In the **November 2020 book dash**, I used GitHub for the first time! I started familiarising myself with the GitHub environment and learned how to collaborate through it to provide valuable contributions to the project. 
 > My work during this book dash had mostly been individual, but in the May 2021 book dash, I was very happy to start where I had left off. 
 > I collaborated with others, made relevant contributions and I have a clear idea of where I would like to go next which is much more than what I was hoping for! 
