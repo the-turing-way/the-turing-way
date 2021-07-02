@@ -10,7 +10,7 @@ Here, we provide a non-exhaustive list of ways to ensure that you, and everyone 
 - Document all practices to ensure everyone is on the same page (literally!).
 Provide all documentation in a centralised, findable and accessible location.
 - State vision, goals and milestones clearly. Provide what the expected outcomes and deliverables are.
-- Highlight different stakeholders with their roles, skills, interest and contact details (when possible)
+- Highlight different stakeholders with their roles, skills, interests and contact information (when possible).
 - Describe what opportunities for collaboration different members will have.
 If possible (such as in an open source project), encourage people outside the project to be involved.
 - Provide details for those outside the current group who you might want to invite.
