@@ -47,7 +47,7 @@ Once you are done with your research you may want to collect all the digital par
 This is called a research compendium.
 Publishing your paper along with a research compendium allows the full extent of your research: from the design of the project, through the data recollection and analysis and the resulting outputs.
 
-This has an infinity of advantage, it makes your work shareable and reproducible, others can build upon it and gives you more visibility.
+This has endless advantages. It makes your work shareable and reproducible, others can build upon it and gives you more visibility.
 
 You can read how to set up your research compendia, {ref}`this chapter<rr-compendia>`.
 
