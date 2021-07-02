@@ -1,5 +1,5 @@
 (pd-overview-repro)=
-# Communication and Collaboration for Reproducibility
+# Communication and Collaboration
 
 Good communication from collaboration practices are complementary to research reproducibility, and often it is hard to separate these concepts from each other.
 In _The Turing Way_, we consider them essential for research reproducibility and provide separate guides for {ref}`communication<cm>` and {ref}`collaboration<cl>`.
