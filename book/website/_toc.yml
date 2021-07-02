@@ -271,24 +271,66 @@
 
 - file: communication/communication
   sections:
-    - title: Making Research Objects Citable
-      file: communication/citable
-      sections:
-        - title: Steps for Making Research Objects Citable
-          file: communication/citable/citable-steps
-        - title: Citing Research Objects
-          file: communication/citable/citable-cite
-        - title: ORCID to Collect your Research Objects
-          file: communication/citable/citable-orcid
-        - title: Checklists and Resources
-          file: communication/citable/citable-resources
-    - title: Community Communications for Open Source Projects
-      file: communication/os-comms
-      sections:
-      - title: Issue Tracking
-        file: communication/os-comms/os-comms-issue-tracking
-      - title: Communication Channels
-        file: communication/os-comms/os-comms-channels
+  - title: Overview of Guide for Communication
+    file: communication/comms-overview
+    sections:
+    - title: Principles of Communicating with Wider Audiences
+      file: communication/comms-overview/comms-overview-principles
+    - title: Communicating Accessibly
+      file: communication/comms-overview/comms-overview-accessibly
+    - title: Resources and Recommendations
+      file: communication/comms-overview/comms-overview-resources
+  - title: Blogs for Research Communication
+    file: communication/blogs
+    sections:
+    - title: Building a Webpage for Blogs
+      file: communication/blogs/blogs-webpage
+    - title: Personal stories - Blogs
+      file: communication/blogs/blogs-personal-stories
+  - title: Lay Summaries
+    file: communication/lay-summaries
+    sections:
+    - title: Personal Stories - Lay summaries
+      file: communication/lay-summaries/lay-summaries-personal-stories
+  - title: Podcasts for Research Communication
+    file: communication/podcasts
+    sections:
+    - title: Personal Stories - Podcasts
+      file: communication/podcasts/podcasts-personal-stories
+  - title: Presenting Posters and Conference Talks
+    file: communication/presentations
+    sections:
+    - title: Presenting at Remote Events
+      file: communication/presentations/presentations-remote
+    - title: Personal Stories - Presentations
+      file: communication/presentations/presentations-personal-stories
+  - title: Social Media for Research Communications
+    file: communication/social-media
+    sections:
+    - title: Tips for starting with twitter
+      file: communication/social-media/social-media-twitter-tips
+    - title: Managing multiple twitter accounts
+      file: communication/social-media/social-media-twitter-multiple
+  - title: Making Research Objects Citable
+    file: communication/citable
+    sections:
+    - title: Steps for Making Research Objects Citable
+      file: communication/citable/citable-steps
+    - title: Citing Research Objects
+      file: communication/citable/citable-cite
+    - title: ORCID to Collect your Research Objects
+      file: communication/citable/citable-orcid
+    - title: Checklist and Recommendations
+      file: communication/citable/citable-checklist
+  - title: Communications in Open Source Projects
+    file: communication/os-comms
+    sections:
+    - title: Issue Tracking
+      file: communication/os-comms/os-comms-issue-tracking
+    - title: Communication Channels
+      file: communication/os-comms/os-comms-channels
+    - title: Further Reading
+      file: communication/os-comms/os-comms-resources
 
 # ===== Collaboration Guide ========================================
 

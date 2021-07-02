@@ -2528,7 +2528,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/53548707?v=4",
       "profile": "https://github.com/marianaiv",
       "contributions": [
-        "bug"
+        "bug",
+        "content"
       ]
     },
     {
@@ -2602,6 +2603,24 @@
       "profile": "https://yabellini.netlify.com/",
       "contributions": [
         "content"
+      ]
+    },
+    {
+      "login": "dineshkumar12004",
+      "name": "Dinesh kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67814205?v=4",
+      "profile": "https://github.com/dineshkumar12004",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "ninadicara",
+      "name": "Nina",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44364127?v=4",
+      "profile": "https://github.com/ninadicara",
+      "contributions": [
+        "review"
       ]
     }
   ],
