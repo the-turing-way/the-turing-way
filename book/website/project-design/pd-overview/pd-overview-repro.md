@@ -19,7 +19,7 @@ Describe how new members from a variety of different backgrounds and skills can 
 - Provide an overview of how different contributions or resources are connected and how new contributions will fit into existing materials.
   - Describe the possible expansion of features in pre-determined and agreed ways at stages beyond the initial implementation.
 - Provide a decision-making framework to facilitate discussions and reaching to a common conclusion.
-In the context of software, coding projects are as much about communication as it is about coding (if not more).
+In the context of software, coding projects are as much about communication as they are about coding (if not more).
   - Allow informed discussions when a particular project design has reached the end or when it is useful to update it for efficiency and sustainability.
 - Provide overarching as well as short-term goals and describe expected outcomes to help contributors move away from focusing on a single idea of the feature.
 - Provide resources on ways of working to ensure fair participation of stakeholders who collaborate on short- and long-term milestones within the project.
