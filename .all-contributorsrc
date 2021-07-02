@@ -2612,6 +2612,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "ninadicara",
+      "name": "Nina",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44364127?v=4",
+      "profile": "https://github.com/ninadicara",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
