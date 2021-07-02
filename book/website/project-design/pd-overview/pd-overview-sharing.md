@@ -63,6 +63,6 @@ If you want more information about how to choose and add a license to your proje
 
 All this hard work will have its reward. Having published all your research from the design to the results adds visibility to your work and more opportunity to get credit.
 
-Not only your results can be cited, but your methods and protocols can be reused and your design can be shared and.
+Not only can your results can be cited, but your methods and protocols can be reused and your design can be shared.
 
 Read {ref}`this chapter on ORCID<cm-citable-orcid>` for more information about how you can collect different research outputs in one place using ORCID and highlight them to get fair credit for your work.
