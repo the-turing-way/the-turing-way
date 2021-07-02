@@ -1,4 +1,4 @@
-(rr-credit)=
+(cm-citable)=
 # Making Research Objects Citable
 
 ## Prerequisites / recommended skill level
