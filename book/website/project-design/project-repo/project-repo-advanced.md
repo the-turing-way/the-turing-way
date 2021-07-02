@@ -19,18 +19,35 @@ The prerequisites for this chapter can vary depending on the organisational need
 
 A repository (or a "repo") is a storage location for your research project. A repository can contain a range of digital objects and can be used to store your project by using online platforms such as GitHub. The aim of a repository is to organise your project in such a way this is both accessible to others and efficient to use. 
 
-In this section, the benefits and considerations of designing a repository will be outlined, along with an example structure and further resources to guide your workflow.
+So far, we saw the key documents that one should add when starting or setting up a project repository.
+If you are following along, your project should contain the following files:
 
-```{note}
-**Creating an infrastructure for ethical, open and high-quality research from the get-go**
-- Transparent, open, reproducible
-- Version control - no more analysis_script_final_v2_FINAL.R 
-- Easy to navigate - a time saver for everyone involved!
-- Communication - a means of sharing your work 
-- Others can build on your work! 
+```
+Project Folder/
+├── CODE_OF_CONDUCT          <- Code of Conduct for community projects
+├── CONTRIBUTING             <- Contribution guideline for collaborators
+├── LICENSE                  <- software license
+├── ...                      <- any other files that you may have added for your project
+└── README.md                <- information about the repo
 ```
 
-## Main considerations
+In this subchapter, we outline the benefits and considerations of designing a repository, along with an example structure and further resources to guide your workflow.
+
+```{note}
+The main benefit of designing your repository by intentionally adding documentation, resources and relevant information allows creating an infrastructure for ethical, open and high-quality research from the get-go.
+```
+
+## Main Considerations
+
+When sharing your resources via your repository, consider the following aspects of reproducibility in your research:
+
+- Transparency and openness
+- Version control system (no more analysis_script_final_v1_FINAL.R, analysis_script_final_v2_FINAL.R ...)
+- Make it easy to navigate so that you save time for everyone involved!
+- Consider {ref}`pd-overview-repro`
+- Make sure that you provide sufficient details so that others can build on your work!
+
+## Main Recommendations
 
 - Include a {ref}`README file<pd-project-repo-readme>`, detailing _what_ the repository is for and _how_ to navigate it 
 - Always consider designing your project for collaboration by adding key documents describing project goals, vision, roadmap, contribution and communication process (as described in earlier subchapters in {ref}`pd-project-repo`)
@@ -40,7 +57,7 @@ In this section, the benefits and considerations of designing a repository will 
 
 ## Example Repository Structure 
 
-### Simple research project example
+### Example for a Research Project
 
 ```
 Project Folder/
@@ -64,9 +81,9 @@ Project Folder/
 └── report.md                <- report of project
 ```
 
-### Every Possible Folder Example
+### Example with Every Possible Folder 
 
-Example more for if the project is building an application or is related to software engineering.
+This example shows different files and directory a project can contain when building a software application or research engineering tools.
 
 ```
 Project Folder/                        
@@ -108,11 +125,12 @@ Project Folder/
 
 ## Resources
 
-### Curated Examples from GitHub
+### Curated Examples of GitHub Repositories
 
-- [_The Turing Way_ project](https://github.com/alan-turing-institute/the-turing-way)
-- [Jupyter Book project](https://github.com/executablebooks/jupyter-book)
-- [Pandas Package](https://github.com/pandas-dev/pandas)
+- [_The Turing Way_ project repo](https://github.com/alan-turing-institute/the-turing-way)
+- [Jupyter Book project repo](https://github.com/executablebooks/jupyter-book)
+- [Pandas Package repo](https://github.com/pandas-dev/pandas)
+- [Atom Text Editor repo](https://github.com/atom/atom)
 
 ### R and Python Packages
 
@@ -122,12 +140,3 @@ Project Folder/
 |[template](https://github.com/Pakillo/template)|[css-compendium](https://pypi.org/project/ccs-compendium/)|
 |[rcompendia](https://github.com/FRBCesab/rcompendium)| |
 |[remake](https://github.com/richfitz/remake)| |
-
-### Further Reading
-
-- This [presentation](https://mbjoseph.github.io/intro-research-compendia/#1) on research compendia
-- This [paper](https://arxiv.org/abs/1806.09525) on how to read a research compendia
-- This [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)  on how to use GitHub includes example repository structures
-- This [paper](https://arxiv.org/abs/2102.12727) details the different folder types typically found in repositories
-- This [paper](http://mockiene.com/papers/folder-short.pdf) is a case study on what folders most often makeup GitHub repositories
-- This [paper](https://www.tandfonline.com/doi/abs/10.1080/00031305.2017.1375986) describes how research compendia in different disciplines can be created using R. 
