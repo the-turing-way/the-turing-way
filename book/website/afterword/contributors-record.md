@@ -735,6 +735,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 <!---Z--->
 
 
+
 ## Collaborating Organisations
 
 *When members participate in The Turing Way community with the in-kind support of their funders and organisation, we acknowledge each member individually and list their organisations as “Collaborating organisations”.
@@ -806,7 +807,8 @@ Details of each members with their contributions have been listed alphabetically
 
 * Personal highlights:
 > I have personally contributed to _The Turing Way_ by drafting chapters in the guide for Reproducible Research, reviewed other contributor's Pull Requests and mentored contributions from Netherlands eScience Center.
-\n(contributors-record-contributors)=
+
+(contributors-record-contributors)=
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
