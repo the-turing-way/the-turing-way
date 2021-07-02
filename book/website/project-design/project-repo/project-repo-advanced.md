@@ -125,13 +125,6 @@ Project Folder/
 
 ## Resources
 
-### Curated Examples of GitHub Repositories
-
-- [_The Turing Way_ project repo](https://github.com/alan-turing-institute/the-turing-way)
-- [Jupyter Book project repo](https://github.com/executablebooks/jupyter-book)
-- [Pandas Package repo](https://github.com/pandas-dev/pandas)
-- [Atom Text Editor repo](https://github.com/atom/atom)
-
 ### R and Python Packages
 
 |    R     | Python | 
@@ -140,3 +133,12 @@ Project Folder/
 |[template](https://github.com/Pakillo/template)|[css-compendium](https://pypi.org/project/ccs-compendium/)|
 |[rcompendia](https://github.com/FRBCesab/rcompendium)| |
 |[remake](https://github.com/richfitz/remake)| |
+
+### Curated Examples of GitHub Repositories
+
+- [_The Turing Way_ project repo](https://github.com/alan-turing-institute/the-turing-way)
+- [Jupyter Book project repo](https://github.com/executablebooks/jupyter-book)
+- [Pandas Package repo](https://github.com/pandas-dev/pandas)
+- [Atom Text Editor repo](https://github.com/atom/atom)
+
+For more details, please follow {ref}`project-repo-recommendations-advanced`.
