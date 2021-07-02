@@ -246,8 +246,21 @@
       file: project-design/pd-overview/pd-overview-version
     - title: Sharing Your Research Work
       file: project-design/pd-overview/pd-overview-sharing
-  - title: File Naming Convention
-    file: project-design/filenaming
+  - title: Creating Project Repositories
+    file: project-design/project-repo
+    sections:
+    - title: Landing Page - README File
+      file: project-design/project-repo/project-repo-readme
+    - title: Roadmapping
+      file: project-design/project-repo/project-repo-roadmapping
+    - title: Contributors and Communication Pathways
+      file: project-design/project-repo/project-repo-contributors
+    - title: Participation Guidelines
+      file: project-design/project-repo/project-repo-participation
+    - title: Advanced Structure for Data Analysis
+      file: project-design/project-repo/project-repo-advanced
+    - title: Further Recommendations
+      file: project-design/project-repo/project-repo-resources
   - title: Personas and Pathways
     file: project-design/persona
     sections:
@@ -271,26 +284,66 @@
 
 - file: communication/communication
   sections:
-    - title: Making Research Objects Citable
-      file: communication/citable
-      sections:
-        - title: Steps for Making Research Objects Citable
-          file: communication/citable/citable-steps
-        - title: Citing Research Objects
-          file: communication/citable/citable-cite
-        - title: ORCID to Collect your Research Objects
-          file: communication/citable/citable-orcid
-        - title: Checklist and Recommendations
-          file: communication/citable/citable-checklist
-    - title: Community Communications for Open Source Projects
-      file: communication/os-comms
-      sections:
-      - title: Issue Tracking
-        file: communication/os-comms/os-comms-issue-tracking
-      - title: Communication Channels
-        file: communication/os-comms/os-comms-channels
-      - title: Further Reading
-        file: communication/os-comms/os-comms-resources
+  - title: Overview of Guide for Communication
+    file: communication/comms-overview
+    sections:
+    - title: Principles of Communicating with Wider Audiences
+      file: communication/comms-overview/comms-overview-principles
+    - title: Communicating Accessibly
+      file: communication/comms-overview/comms-overview-accessibly
+    - title: Resources and Recommendations
+      file: communication/comms-overview/comms-overview-resources
+  - title: Blogs for Research Communication
+    file: communication/blogs
+    sections:
+    - title: Building a Webpage for Blogs
+      file: communication/blogs/blogs-webpage
+    - title: Personal stories - Blogs
+      file: communication/blogs/blogs-personal-stories
+  - title: Lay Summaries
+    file: communication/lay-summaries
+    sections:
+    - title: Personal Stories - Lay summaries
+      file: communication/lay-summaries/lay-summaries-personal-stories
+  - title: Podcasts for Research Communication
+    file: communication/podcasts
+    sections:
+    - title: Personal Stories - Podcasts
+      file: communication/podcasts/podcasts-personal-stories
+  - title: Presenting Posters and Conference Talks
+    file: communication/presentations
+    sections:
+    - title: Presenting at Remote Events
+      file: communication/presentations/presentations-remote
+    - title: Personal Stories - Presentations
+      file: communication/presentations/presentations-personal-stories
+  - title: Social Media for Research Communications
+    file: communication/social-media
+    sections:
+    - title: Tips for starting with twitter
+      file: communication/social-media/social-media-twitter-tips
+    - title: Managing multiple twitter accounts
+      file: communication/social-media/social-media-twitter-multiple
+  - title: Making Research Objects Citable
+    file: communication/citable
+    sections:
+    - title: Steps for Making Research Objects Citable
+      file: communication/citable/citable-steps
+    - title: Citing Research Objects
+      file: communication/citable/citable-cite
+    - title: ORCID to Collect your Research Objects
+      file: communication/citable/citable-orcid
+    - title: Checklist and Recommendations
+      file: communication/citable/citable-checklist
+  - title: Communications in Open Source Projects
+    file: communication/os-comms
+    sections:
+    - title: Issue Tracking
+      file: communication/os-comms/os-comms-issue-tracking
+    - title: Communication Channels
+      file: communication/os-comms/os-comms-channels
+    - title: Further Reading
+      file: communication/os-comms/os-comms-resources
 
 # ===== Collaboration Guide ========================================
 
@@ -307,17 +360,6 @@
       file: collaboration/github-novice/github-novice-features
     - title: Advanced Github features
       file: collaboration/github-novice/github-novice-advanced
-  - title: Collaborating on GitHub
-    file: collaboration/github-collaboration
-    sections:
-    - title: README and Project Communication
-      file: collaboration/github/github-readme
-    - title: Roadmapping
-      file: collaboration/github/github-roadmapping
-    - title: Getting Contributors
-      file: collaboration/github/github-contributors
-    - title: Checklist and resources
-      file: collaboration/github/github-resources
   - title: Maintainers and Reviewers on GitHub
     file: collaboration/maintain-review
     sections:
@@ -378,6 +420,15 @@
     file: ethical-research/ethics-case-study
   - title: Ethical Decisions in Preclinical Research
     file: ethical-research/preclinical-research
+  - title: Law, Policy and Human Rights in Ethics
+    file: ethical-research/law-policy
+    sections:
+    - title: Ethics and law
+      file: ethical-research/law-policy/law-policy-ethics
+    - title: Human rights
+      file: ethical-research/law-policy/law-policy-rights
+    - title: Further Recommendations
+      file: ethical-research/law-policy/law-policy-resources
   - title: Activism for Researchers
     file: ethical-research/activism
     sections:
@@ -390,7 +441,7 @@
     - title: Case study - Google Workers
       file: ethical-research/activism/activism-case-study-google.md
   - title: Internal Policy Advocacy
-    file: ethical-research/activism-internal-policy
+    file: ethical-research/internal-policy
 
 # ===== Community Handbook Guide ========================================
 
