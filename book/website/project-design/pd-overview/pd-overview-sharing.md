@@ -34,7 +34,8 @@ Furthermore, having your protocols online makes them easier to share, creating o
 
 If you have been using a version control system you will have this covered.
 
-If developing analysis scripts and research software is part of your research, you need to use a version control system.
+If developing analysis scripts and research software is part of your research, you need to use a version control system. 
+If you are new to version control you can read more about it in the {ref}`Version Control<rr-vcs>` chapter.
 
 You can integrate your version control system with a general-purpose repository.
 For example, when integrating GitHub with Zenodo you can get Digital Object Identifiers or DOIs for your software.
