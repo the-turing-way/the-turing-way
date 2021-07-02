@@ -1,8 +1,8 @@
 (pd-overview-planning)=
 # Planning for Project Design
 
-Thinking about reproducibility from the start of your project is the best way to save time and get the most out of the available tools (see this illustration of {ref}`Research Cycle<research-cycle>`).
-Creating connections between data, code, methodology, as well as diverse collaborators, can seem like a daunting task if it has not been planned from the beginning.
+Thinking about reproducibility from the start of your project is the best way to save time and get the most out of the available tools.
+Creating connections between data, code, methodology, as well as diverse collaborators, can seem like a daunting task if it has not been planned from the beginning (see this illustration of {ref}`Research Cycle<research-cycle>`).
 By documenting and sharing project workflows and processes for research and researchers we can ensure sustainability and reusability of research for both the developers and future users.
 
 A human-centred approach in the context of the research project can lead to a better development process, maintenance, and future extension of our work.
