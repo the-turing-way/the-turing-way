@@ -68,7 +68,7 @@ We asked a group of researchers to share what they consider their project design
 - Not developing tests until after a significant amount of code was written.  
 - Not doing code reviews.
 - Not defining use scenarios for the software from the beginning, meaning we didn’t pay enough attention to data input and output.  
-- Agonising too long before switching to objectively better design (particularly translating from a largely functional codebase to more object-oriented)    
+- Agonising too long before switching to objectively better design (particularly translating from a largely functional codebase to more object-oriented).    
 - Going with options that team members are ‘comfortable’ with rather than teaching team members best practices skill. For example, it is not a good idea to use outdated languages or platform-dependent compilers, which makes life more difficult in the long run.
 - Defining governance at different stages of the project or potential scenario planning for how governance might change as the project scales up/down/gains new users and so on.
 - Not thinking about community from the start, starting with a Code of Conduct, thinking about a Contributor License Agreement (intellectual property), what processes will be used and how they will work, how they will impact future contributors and the overall project.
