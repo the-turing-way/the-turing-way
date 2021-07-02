@@ -5,9 +5,11 @@ Science can only progress from building on top of each other's results.
 The first step is sharing your work.
 
 But only sharing is not enough.
-You need to make sure that your research is **F**indable, **A**ccesible, **I**noperable and **R**eusable, or **FAIR**.
-This is already taken into account when developing your Data Management Plan, However, you also need to think about it when making your results available.
+You need to make sure that your research objects are **F**indable, **A**ccesible, **I**noperable and **R**eusable.
+This is referred to as {ref}`FAIR Principles<rr-rdm-fair>` that provides guidelines to improve the Findability, Accessibility, Interoperability and Reusability of digital assets; all of which support research reproducibility.
 
+This aspect is already considered when developing your {ref}`Data Management Plan (DMP)<rr-rdm-dmp>` (see {ref}`pd-overview-planning-dmp`).
+Therefore, it is important to revisit your DMP to make sure that the guidelines are also applied when making your results available.
 You can learn more about this in a chapter on {ref}`making data FAIR<rr-rdm-fair>`).
 
 (pd-overview-sharing-archive)=
