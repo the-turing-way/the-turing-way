@@ -14,7 +14,7 @@ Provide all documentation in a centralised, findable and accessible location.
 - Describe what opportunities for collaboration different members will have.
 If possible (such as in an open source project), encourage people outside the project to be involved.
 - Provide details for those outside the current group who you might want to invite.
-Describe how new members from a variety of different backgrounds and skills can start contributing
+Describe how new members from a variety of different backgrounds and skills can start contributing.
   - Provide clear ways for contributions, review, management, mentoring and support.
 - Provide an overview of how different contributions or resources are connected and how new contributions will fit into existing materials.
   - Describe the possible expansion of features in pre-determined and agreed ways at stages beyond the initial implementation.
