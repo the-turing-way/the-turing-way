@@ -238,7 +238,7 @@
     sections:
     - title: Planning for Project Design
       file: project-design/pd-overview/pd-overview-planning
-    - title: Communication and Collaboration for Reproducibility
+    - title: Communication and Collaboration
       file: project-design/pd-overview/pd-overview-repro
     - title: Reproducibility Methods
       file: project-design/pd-overview/pd-overview-methods
