@@ -42,27 +42,33 @@ The main benefit of designing your repository by intentionally adding documentat
 When sharing your resources via your repository, consider the following aspects of reproducibility in your research:
 
 - Transparency and openness
-- Version control system (no more analysis_script_final_v1_FINAL.R, analysis_script_final_v2_FINAL.R ...)
-- Make it easy to navigate so that you save time for everyone involved!
-- Consider {ref}`pd-overview-repro`
-- Make sure that you provide sufficient details so that others can build on your work!
+- Version control system (no more files like final_v1_FINAL.R, final_v2_FINAL.R, ...)
+- Make it easy to navigate so that you save time for everyone involved
+- Consider {ref}`pd-overview-repro` aspects
+- Make sure that you provide sufficient details so that others can build on your work
 
 ## Main Recommendations
 
-- Include a {ref}`README file<pd-project-repo-readme>`, detailing _what_ the repository is for and _how_ to navigate it 
-- Always consider designing your project for collaboration by adding key documents describing project goals, vision, roadmap, contribution and communication process (as described in earlier subchapters in {ref}`pd-project-repo`)
+Always consider designing your project for collaboration by adding key documents describing project goals, vision, roadmap, contribution and communication process (as described in earlier subchapters).
+- Include details in {ref}`README file<pd-project-repo-readme>`describing _what_ the repository is for and _how_ to navigate it 
+- Provide vision, goals and roadmap wherever possible (see [Kamran Ahmed's developer roadmap](https://github.com/kamranahmedse/developer-roadmap) for example)
 - General structure should separate input (data), methods (scripts) and output (results, figures, manuscript)
-- Specify what shouldn't be tracked in the .gitignore file, such as data
+- Specify what shouldn't be tracked in the `.gitignore` file, such as sensitive/private files, large dataset or personal notes 
 - Include information on your computational environment {ref}`Reproducible Environments<rr-renv>` to ensure reproducibility (this can also be specified in the README)
 
 ## Example Repository Structure 
 
 ### Example for a Research Project
 
+Here are suggestion of files and folders a research project must have.
+
 ```
 Project Folder/
 ├── docs                     <- documentation
 │   └── codelist.txt 
+│   └── project_plan.txt
+│   └── ...
+│   └── deliverables.txt
 ├── data
 │   └── raw/
 │       └── my_data.csv
@@ -73,10 +79,10 @@ Project Folder/
 ├── results                  <- analysis output     
 │   └── figures
 ├── .gitignore               <- files excluded from git version control 
+├── install.R                <- environment setup
 ├── CODE_OF_CONDUCT          <- Code of Conduct for community projects
 ├── CONTRIBUTING             <- Contribution guideline for collaborators
 ├── LICENSE                  <- software license
-├── install.R                <- environment setup
 ├── README.md                <- information about the repo
 └── report.md                <- report of project
 ```
