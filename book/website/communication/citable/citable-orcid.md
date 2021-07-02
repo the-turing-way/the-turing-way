@@ -12,7 +12,7 @@ Watch this short video for more information:
   <p><a href="https://vimeo.com/97150912">What is ORCID?</a> from <a href="https://vimeo.com/orcidvideos">ORCID</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
-(rr-credit-orcid-why)=
+(cm-citable-orcid-why)=
 ## Why You Should Get an ORCID
 
 ORCID allows you to provide a unique identity for your body of work independent of your name.
@@ -26,7 +26,7 @@ You can use ORCID to access or sign up to services that utilise ORCID, for examp
 You can use your ORCID to your CV/resume so that anyone can have a look at all your research outputs.
 You can also use your ORCID profile to create a CV using [ROpenSci package rorcid](rorcid: https://github.com/ropensci/rorcid) as described [here](https://discuss.ropensci.org/t/using-rorcid-to-generate-a-website-cv/1806).
 
-(rr-credit-orcid-use)=
+(cm-citable-orcid-use)=
 ## Using ORCID
 
 You can sign up very quickly here: [https://orcid.org/login](https://orcid.org/login).
