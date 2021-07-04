@@ -1,4 +1,4 @@
-(rr-vcs-branches)=
+(rr-vcs-git-branches)=
 # Git Branches
 
 When working on a project, individually or collaboratively, you may encounter the following scenarios:
@@ -13,7 +13,7 @@ For every Git project, by default, you have one branch called 'master' where all
 The branching feature of Git allows us to create a copy of a project that we can work on and continue to make commits to without integrating them into the master branch right away.
 Meanwhile, one can continue to make commits on the master branch, which is untouched by the changes made on other branches.
 Once you are happy with whatever you were working on on a branch, you can merge it into your master branch (or indeed any other branch).
-Merging will be covered in the {ref}`rr-vcs-merge` subchapter.
+Merging will be covered in the {ref}`rr-vcs-git-merge` subchapter.
 
 If you test a feature on a branch that does not work out, you can delete or abandon it (for example, Feature B in the diagram below) rather than spending time unpicking your changes if you were doing all your work on the master branch.
 You can have as many branches off of branches as you desire (for example, Feature A-1).

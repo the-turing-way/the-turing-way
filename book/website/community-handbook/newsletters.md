@@ -1,3 +1,4 @@
+(ch-newsletters)=
 # _The Turing Way_ Monthly Newsletters
 
 _The Turing Way_ team releases newsletters every month to share the latest updates with the community and beyond.

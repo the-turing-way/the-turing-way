@@ -75,7 +75,7 @@ We will cite the article that we edit earlier in the [`reference.bib`][turingbib
 
 This will appear in your chapter as {cite}`Kuula2010archiving`.
 
-The complete bibliography entry is available at the end of this book (see {ref}`resources <afterword-bibliography>`) using the directives:
+The complete bibliography entry is available at the end of this book (see {ref}`resources <bibliography>`) using the directives:
 
     ```{bibliography} ../_bibliography/references.bib
 

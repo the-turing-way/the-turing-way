@@ -1,4 +1,4 @@
-(rr-vcs-summary)
+(rr-vcs-git-summary)
 # Summary Table of Git Commands
 
 | Command                       | Use                                                                      |
