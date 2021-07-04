@@ -124,9 +124,7 @@
       file: reproducible-research/renv/renv-virtualmachine
     - title: Containers
       file: reproducible-research/renv/renv-containers
-    - title: Checklist
-      file: reproducible-research/renv/renv-checklist
-    - title: Resources
+    - title: Resources and Checklist
       file: reproducible-research/renv/renv-resources
   - title: BinderHub
     file: reproducible-research/binderhub
@@ -320,8 +318,8 @@
       file: communication/citable/citable-cite
     - title: ORCID to Collect your Research Objects
       file: communication/citable/citable-orcid
-    - title: Checklist and Recommendations
-      file: communication/citable/citable-checklist
+    - title: Checklists and Resources
+      file: communication/citable/citable-resources
   - title: Communications in Open Source Projects
     file: communication/os-comms
     sections:
@@ -329,8 +327,6 @@
       file: communication/os-comms/os-comms-issue-tracking
     - title: Communication Channels
       file: communication/os-comms/os-comms-channels
-    - title: Further Reading
-      file: communication/os-comms/os-comms-resources
 
 # ===== Collaboration Guide ========================================
 

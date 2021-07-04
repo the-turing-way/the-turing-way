@@ -5,7 +5,7 @@
 
 | Prerequisite |  Importance  |  Notes  |
 | ---------------- |------------------ | --------- |
-| [Open Research]({ref}`rr-open`) | Helpful | Components are part of the open workflow |
+| {ref}`rr-open` | Helpful | Components are part of the open workflow |
 | Recommended skill level | Beginner   | To help a complete beginner |
 
 ## Summary

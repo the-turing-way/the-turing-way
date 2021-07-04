@@ -45,9 +45,10 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > But it also includes making those outputs FAIR - findable, accessible, interoperable and reusable. I am an advocate for greater diversity in STEM and in data science and particularly passionate about improving the ways we reward collaborative and supportive working.
 > Finally, I'd like to pivot to having data science project be developed in the open from the beginning and with a decision making governance process that is inclusive and community-lead.
 
-**Contributors names should be added alphabetically**
+**Contributors names are added alphabetically**
 
 <!---A--->
+## A
 
 ### Alexander Morley
 
@@ -68,19 +69,20 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > I really want research to be accessible, but in a much broader sense than the word is often used. I would love to see a world where re-mixing research is a common thing, whether that be re-mixing figures to make them easier to understand, re-using data to generate new insights, or testing new methods to see how our theories might need to change.
 > Slightly less on topic, but just as important, I am also passionate about the development and adoption of best-practices in governance. Safe and inclusive spaces are all too rare in academia, and I think some part of that can be solved by doing away with our laissez-faire attitude towards governance and management.
 
-## Andreea Avramescu
-* Role: Book Dash 2021 participant
-* GitHub id: [https://github.com/andreea-avramescu](andreea-avramescu)
-* ORCID: [https://orcid.org/0000-0001-6837-6272](0000-0001-6837-6272)
+### Andreea Avramescu
 
-* Short bio: 
+* Role: Book Dash 2021 participant
+* GitHub id: [andreea-avramescu](https://github.com/andreea-avramescu)
+* ORCID: [0000-0001-6837-6272](https://orcid.org/0000-0001-6837-6272)
+
+* Short bio:
 > I am a PhD student at the Alliance Manchester Business School, the University of Manchester (supervised by Dr. Richard Allmendinger and Dr. Manuel López-Ibáñez) and an Engage@Turing/Enrichment Student at The Alan Turing Institute. My research interests lie in the fields of personalised medicine, optimisation and data science, and how all these can be used together to improve the availability and accessibility of targeted treatments worldwide. I have an MSc in Data Science and have previously worked on various research problems from within the fields of social sciences, law, computer science, and operations research.
 
-* Personal highlights: 
-> Throughout the week I had the chance to improve a chapter on project design and review existing PRs. i also engaged in discussions with the team around the general challenges encountered in reproducible research and project design. 
+* Personal highlights:
+> Throughout the week I had the chance to improve a chapter on project design and review existing PRs. i also engaged in discussions with the team around the general challenges encountered in reproducible research and project design.
 
-* Quotes: 
-> The 2021 May Book Dash was an exciting and inspiring opportunity. The events throughout the week were extremely well organised and the inclusive environment was very welcoming. 
+* Quotes:
+> The 2021 May Book Dash was an exciting and inspiring opportunity. The events throughout the week were extremely well organised and the inclusive environment was very welcoming.
 
 ### Anna Krystalli
 
@@ -105,22 +107,23 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 * ORCID: https://orcid.org/0000-0002-0154-2982
 
 * Short bio:
-> I am the Research Project Manager for the Tools, Practices & Systems Programme at the Alan Turing Institute, a critical research infrastructure role ensuring smooth delivery of complex collaborations, initiatives and overall programme strategy. 
-> The programme is focused on developing and enhancing the culture change, research tools, and knowledge needed to support open source, multidisciplinary work across data science and beyond. 
-> I have worked in research infrastructure roles since graduating with a BA in Natural Sciences, resulting in a breadth of understanding across the complex ecosystem of research publishing, start ups, community and project management. 
-> Following my Community Engagement Fellowship in 2019 with the Center for Scientific Collaboration & Community Engagement, I am an active member of the CSCCE community, sitting on their Code of Conduct Committee and organising the Diversity, Equity & Inclusion Special Interest Group. 
+> I am the Research Project Manager for the Tools, Practices & Systems Programme at the Alan Turing Institute, a critical research infrastructure role ensuring smooth delivery of complex collaborations, initiatives and overall programme strategy.
+> The programme is focused on developing and enhancing the culture change, research tools, and knowledge needed to support open source, multidisciplinary work across data science and beyond.
+> I have worked in research infrastructure roles since graduating with a BA in Natural Sciences, resulting in a breadth of understanding across the complex ecosystem of research publishing, start ups, community and project management.
+> Following my Community Engagement Fellowship in 2019 with the Center for Scientific Collaboration & Community Engagement, I am an active member of the CSCCE community, sitting on their Code of Conduct Committee and organising the Diversity, Equity & Inclusion Special Interest Group.
 
 * Personal highlights:
 > Before participating in the Turing Way, I didn't know what a pull request was, nevermind how to make one!
-> Now I have contributed to several different parts of the five guides, including co-writing the initial chapters on [activism for researchers](https://the-turing-way.netlify.app/ethical-research/activism.html) and given presentations on the topic at conferences. 
-> I also now mentor other community contributors on how to create pull requests, contribute to existing chapters, review others work, and draft new ideas. 
-> The May 2021 Book Dash was an amazing opportunity to engage with the community and get excited about the project all over again! 
-> I came away from it feeling enthused and proud of the contributions people made with my support - it will be brilliant to see how these evolve over the coming months into content and chapters. 
+> Now I have contributed to several different parts of the five guides, including co-writing the initial chapters on [activism for researchers](https://the-turing-way.netlify.app/ethical-research/activism.html) and given presentations on the topic at conferences.
+> I also now mentor other community contributors on how to create pull requests, contribute to existing chapters, review others work, and draft new ideas.
+> The May 2021 Book Dash was an amazing opportunity to engage with the community and get excited about the project all over again!
+> I came away from it feeling enthused and proud of the contributions people made with my support - it will be brilliant to see how these evolve over the coming months into content and chapters.
 
 * Personal Quote:
-> The Book Dash is an incredible experience for both newer and established community members. It is joyful work to spend focused time on developing content for the Turing Way and supporting people from across the globe to contribute. I feel lucky to have been able to take part and take on a more prominent role as part of the organising committee. 
+> The Book Dash is an incredible experience for both newer and established community members. It is joyful work to spend focused time on developing content for the Turing Way and supporting people from across the globe to contribute. I feel lucky to have been able to take part and take on a more prominent role as part of the organising committee.
 
 <!---B--->
+## B
 
 ### Batool Almarzouq
 
@@ -138,10 +141,10 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 * Github id: beckigreen
 * ORCID: https://orcid.org/0000-0002-0513-5188
 
-* Short bio: 
+* Short bio:
 > I am a PhD student at King’s College London (supervised by Dr Petroula Proitsi & Professor Marcus Richards) and Engage student at The Alan Turing Institute. My PhD project aims to identify early mechanisms and biological markers of dementia, and I am currently also working on the DECOVID project at the Institute.
 
-* Personal highlights: 
+* Personal highlights:
 > Working alongside such wonderful people and learning so much! A truly enriching and rewarding experience - I look forward to contributing in future events. A further highlight was gaining experience in working collaboratively on a large project, including reviewing my first pull request!
 
 * Quotes:
@@ -178,7 +181,7 @@ I also hope that it can convince people that don't consider themselves capable o
 
 
 <!---C--->
-
+## C
 
 ### Camila Rangel Smith
 
@@ -204,14 +207,16 @@ I also hope that it can convince people that don't consider themselves capable o
 > More recently that project has become consolidated into LA-CoNGA physics (http://laconga.redclara.net/), an EU Erasmus+ funded project with a mission to create a Latin American and European Community for Advanced Physics.
 > In this project I’m helping to build a data science module that will be thought in an online master course.
 
-<!---D--->
+<!---D
+## D--->
 
 
 <!---E--->
+## E
 
 ### Emma Karoune
 
-* Role: 
+* Role:
     * Core Contributor
     * Book Dash November 2020 Attendee
     * Book Dash Planning Committee 2021
@@ -224,7 +229,7 @@ I'm a Research Associate and Community Manager of DECOVID at The Alan Turing Ins
 >I have really enjoyed working in such a collaborative way during the Book Dash. I have had interesting discussions concerning the accessibility of The Turing way, collaboration, communication and research in general with other contributors.
 >I have further developed my Github skills by working in collaboration with @paulowoicho, @malvikasharan and @KirstieJane to develop a chapter on 'Getting started on Github'.
 >This improvement in my skills will really benefit my own personal research to develop my own collaborative working groups and teach others how to use these research tools.
-> In 2021 Book Dash, I've enjoyed mentoring new contributors contributions, reviewing pull requests and helping to run sessions during the Book Dash. It was great to work collaboratively to improve and publish a new chapter on 'Communicating with wider audiences' in the Guide for Communication. 
+> In 2021 Book Dash, I've enjoyed mentoring new contributors contributions, reviewing pull requests and helping to run sessions during the Book Dash. It was great to work collaboratively to improve and publish a new chapter on 'Communicating with wider audiences' in the Guide for Communication.
 
 * More information:
 >I try to work as openly as possible and a large part of my current research is developing easy and accessible to all collaborative and open ways of working. I am also working hard to bring together specialists in my field into a working group for Open Science so that we can work collaboratively towards subject-specific FAIR guidelines for phytolith data.
@@ -240,13 +245,17 @@ I'm a Research Associate and Community Manager of DECOVID at The Alan Turing Ins
 
 * Personal highlights:
 >I collaborated with a group of researchers from The Alan Turing Institute to draft a chapter of scientific outreach.
-<!---F--->
+
+<!---F
+## F--->
 
 
-<!---G--->
+<!---G
+## G--->
 
 
 <!---H--->
+## H
 
 ### Hannah Nicholls
 
@@ -254,13 +263,13 @@ I'm a Research Associate and Community Manager of DECOVID at The Alan Turing Ins
 * GitHub id: hlnicholls
 * ORCID:https://orcid.org/0000-0002-3480-7852
 
-* Short bio: 
-> I am a PhD student contributing to The Turing Way to develop writing about reproducible research practices. I have a BSc in biomedical science and a background in wet-lab cardiovascular research. My PhD is in applying machine learning to prioritise most likely causal disease genes from genome-wide association studies. 
+* Short bio:
+> I am a PhD student contributing to The Turing Way to develop writing about reproducible research practices. I have a BSc in biomedical science and a background in wet-lab cardiovascular research. My PhD is in applying machine learning to prioritise most likely causal disease genes from genome-wide association studies.
 
-* Personal highlights: 
+* Personal highlights:
 > Collaborating with others to build something new as a contribution to The Turing Way, and collaborating with others to review and support their work. Understanding the inner workings of The Turing Way via navigating within its GitHub. Also getting to help and watch a really cool illustration being made!
 
-* Quotes: 
+* Quotes:
 > Taking part in the Turing Way Book Dash was one of the first times I've done collaborative working over an extended period of time and it was such a great experience! It allowed me to try out new skills and really build confidence in what I was doing, I feel really encouraged to continue contributing to The Turing Way!
 
 
@@ -310,6 +319,7 @@ ecosystem, with the book at its basis. And -- if we decide to go that route --
 I would like to be a part of it.
 
 <!---I--->
+## I
 
 ### Irene K
 
@@ -348,6 +358,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > I am really fascinated by philosophical discussions about the social sciences, so I love the thought of questioning what an open science culture looks like and how to get there!
 
 <!---J--->
+## J
 
 ### José María Fernández
 
@@ -363,6 +374,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > I have mostly contributed to reviewing open Pull requests and networking with the community members.
 
 <!---K--->
+## K
 
 ### Kim De Ruyck
 
@@ -379,6 +391,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 
 <!---L--->
+## L
 
 ### Laura Acion
 
@@ -435,7 +448,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > I see the Turing Way as the means of bridging that gap, by providing a friendly, practical and helpful guide for researchers at all stages of their careers.
 
 <!---M--->
-
+## M
 
 ### Malvika Sharan
 
@@ -458,27 +471,27 @@ I am an associate member of the Chartered Institute of Personnel and Development
 ### María Nanton
 
 * Role: Bookdash May 2021 Attendee.
-* GitHub id: mcnanton
-* ORCID: https://orcid.org/0000-0003-0426-2879
+* GitHub id: [mcnanton](http://github.com/mcnanton)
+* ORCID: [0000-0003-0426-2879](https://orcid.org/0000-0003-0426-2879)
 
-* Short bio: 
-> I'm a Data Analyst with a social communications background experienced in data analysis, reporting, and dashboarding in marketing, social and health data. I'm currently a Data Analyst at the Health Information and Statistics Office, part of the Ministry of Health of the Buenos Aires City Government. I'm also a TA at the University of Buenos Aires, a RLadies Buenos Aires organizer, and a social data analytics and data visualization instructor at EANT. 
+* Short bio:
+> I'm a Data Analyst with a social communications background experienced in data analysis, reporting, and dashboarding in marketing, social and health data. I'm currently a Data Analyst at the Health Information and Statistics Office, part of the Ministry of Health of the Buenos Aires City Government. I'm also a TA at the University of Buenos Aires, a RLadies Buenos Aires organizer, and a social data analytics and data visualization instructor at EANT.
 
-* Personal highlights: 
+* Personal highlights:
 > It was great to work on chapter 3 of the Guide of Communications and also managing to solve some Issues and review simple PRs related to other chapters along the way.
 
 * Quotes:
-> This was my first Book Dash and I can't imagine a better environment to do some serious, challenging, and fun collaborative work. I'm immensely grateful to everyone I encountered this week, and I can't wait to share the tools I've learned with fellow coworkers and members of data and research communities in Argentina. 
+> This was my first Book Dash and I can't imagine a better environment to do some serious, challenging, and fun collaborative work. I'm immensely grateful to everyone I encountered this week, and I can't wait to share the tools I've learned with fellow coworkers and members of data and research communities in Argentina.
 
 ### Mariana Vivas
 
 * Role: Book Dash 2021 participant
-* GitHub id: marianaiv
+* GitHub id: [marianaiv](http://github.com/marianaiv)
 
 * Short bio:  
 > I'm an undergrad physics student at the Central University of Venezuela. Working on my thesis and trying to do it reproducible.
 
-* Personal highlights: 
+* Personal highlights:
 > Working on the introductory chapter for the Project Design Guide was incredible. I really enjoyed collaborating with Malvika in writing it.  I'm also very happy to had an illustration made specifically for the chapter.
 
 * Quotes:
@@ -488,8 +501,9 @@ I am an associate member of the Chartered Institute of Personnel and Development
 ### Marta Mangiarulo
 
 * Role: Book Dash 2020 & 2021 participant
-* GitHub id: Marta-MM
-* ORCID: 0000-0001-7995-3717
+* GitHub id: [Marta-MM](http://github.com/Marta-MM)
+* ORCID: [0000-0001-7995-3717](https://orcid.org/0000-0001-7995-3717)
+
 * Short bio:
 > I am a Research Assistant and Teaching Fellow in Psychology at the University of Leicester. My main research interests involve probabilistic inference, social hypothesis testing, and reasoning biases. I am also passionate about science communication and research dissemination and interested in replicability, open science issues, and the interface between cognitive and social aspects in social psychology.
 
@@ -501,7 +515,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * More information:
 > I am passionate about science communication and research dissemination and interested in replicability, open science issues, and the interface between cognitive and social aspects in social psychology topics like intergroup relations and impression formation. At the moment I am particularly fascinated by data visualisation and infographics.
 
-* Quote: 
+* Quote:
 > I loved taking part in the bookdash, it is such a rewarding experience above and beyond its material outputs.
 
 
@@ -551,6 +565,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > More information about me can be read on my [website](https://martinagvilas.github.io/).
 
 <!-- N -->
+## N
 
 ### Nina Di Cara
 
@@ -558,15 +573,17 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * GitHub id: ninadicara
 * ORCID: https://orcid.org/0000-0002-6179-1067
 
-* Short bio: 
-> I am a PhD student at the University of Bristol, working on data science for mental health using social media data. I also have a masters degree in family social work, and was trained as a social worker before starting my PhD. I co-organise the [Data Ethics Club](https://github.com/very-good-science/data-ethics-club/), and am really interested in how we can understand the way we approach data analysis as a function of our lived experiences and positionality. 
+* Short bio:
+> I am a PhD student at the University of Bristol, working on data science for mental health using social media data. I also have a masters degree in family social work, and was trained as a social worker before starting my PhD. I co-organise the [Data Ethics Club](https://github.com/very-good-science/data-ethics-club/), and am really interested in how we can understand the way we approach data analysis as a function of our lived experiences and positionality.
 
-* Personal highlights: 
-> I started to design and draft a new chapter about self-reflection for data scientists, and was really excited to meet lots of fascinating and kind people who are also working on the Guide for Ethical Research! 
+* Personal highlights:
+> I started to design and draft a new chapter about self-reflection for data scientists, and was really excited to meet lots of fascinating and kind people who are also working on the Guide for Ethical Research!
 
 * Quotes:
-> Being part of the Book Dash has been a great reminder of how team-based science can be such a joyful and fun experience! An especially well-timed reminder after spending a year working from my flat! 
+> Being part of the Book Dash has been a great reminder of how team-based science can be such a joyful and fun experience! An especially well-timed reminder after spending a year working from my flat!
 
+<!--P-->
+## P
 
 ### Patricia Herterich
 
@@ -608,10 +625,12 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * Personal Quote:
 > Asides technical skills, I developed a deep appreciation for what working on an open source project entails. My mentors helped me realise that the value I left behind from the GSoD program was not in the amount of work I did, but how I enabled other contributors to also do the work I was doing. As a result, I learned to contribute as a Technical Writer in a manner that was reproducible, sustainable, accessible, and inclusive.
 
-<!---Q--->
+<!---Q
+## Q--->
 
 
-<!---R--->
+<!---R-->
+## R
 
 
 ### Rosie Higman
@@ -657,6 +676,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > Ensuring results are reproducible not only benefits research as a whole and increases efficiency, but working this way also offers researchers more opportunities for impact and collaboration.
 
 <!---S--->
+## S
 
 ### Samuel Guay
 
@@ -706,6 +726,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 
 <!---T--->
+## T
 
 ### Tim Powell
 
@@ -717,96 +738,33 @@ I am an associate member of the Chartered Institute of Personnel and Development
 >I collaborated with a group of researchers from The Alan Turing Institute to draft a chapter of scientific outreach.
 
 
-<!---U--->
+<!---U
+## U--->
 
 
-<!---V--->
+<!---V
+## V--->
 
 
-<!---W--->
+<!---W
+## W--->
 
 
-<!---X--->
+<!---X
+## X--->
 
 
-<!---Y--->
+<!---Y
+## Y--->
 
 
-<!---Z--->
+<!---Z
+## Z--->
 
+(contributors-record-all)=
 
+# All Contributors
 
-## Collaborating Organisations
-
-*When members participate in The Turing Way community with the in-kind support of their funders and organisation, we acknowledge each member individually and list their organisations as “Collaborating organisations”.
-Such organisational supports are applicable when one or multiple members from a project or community collaborate to build resources in The Turing Way.*
-
-### [Delft University of Technology - Faculty of Applied Sciences](https://www.tudelft.nl/en/faculty-of-applied-sciences)
-
-The Faculty of Applied Sciences is the largest of Delft University of Technology and focuses on finding innovative solutions to some of the problems faced by society. 
-Development of the fundamental knowledge needed to underpin technical developments that can be widely used throughout society. 
-In ensuring that this knowledge can be shared efectively with the wider society, the Faculty values the sharing of data and code and has a [Research Data Management policy](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/) in place since 2020. 
-In this effort, the contributions from the Faculty of Applied Sciences have mainly focused on the Reproducible Research Chapter of _The Turing Way_. 
-
-#### Esther Plomp
-
-* Roles: 
-  * Book Dash February 2020 Attendee
-  * Book Dash Planning Committee 2021 
-  * Semi regular co-working call crasher
-* GitHub id: [EstherPlomp](https://github.com/estherplomp)
-* ORCID: [0000-0003-3625-1357](https://orcid.org/0000-0003-3625-1357)
-* Twitter: [@PhDToothFAIRy](https://twitter.com/PhDToothFAIRy/)
-* Short bio:
-> I'm a Data Steward at the Delft University of Technology, Faculty of Applied Sciences, in the Netherlands, where I support researchers with their data management and open science practices. For my PhD research, I analysed human teeth for their isotopic/chemical composition in order to say something about human mobility patterns (fields of forensics, archaeology, osteology). Next to the Turing Way I'm also involved with other teams, such as the [Open Research Calendar](https://openresearchcalendar.org/) ([follow the calendar on Twitter!](https://twitter.com/OpenResearchCal)), [IsoArcH](https://isoarch.eu/) and I was an [OLS3](https://openlifesci.org/ols-3/) mentor! I'm also interested in anything related to physical samples in research, and I'm a co-chair of the [Research Data Alliance Physical Samples Interest Group](https://www.rd-alliance.org/groups/physical-samples-and-collections-research-data-ecosystem-ig). 
-
-* Personal highlights:
-> Thanks to the Turing Way I really learned how to work collaboratively using GitHub. The book dash in February 2020 was a great kick start to actually practise and directly apply these skills, which now allows me to contribute more confidently to other projects as well! I primarily contributed to the Reproducible Research Chapter, to the Research Data Management section. I reviewed existing content and I'm working on adding a section on Data Management Plans and how to handle personal data. I also made a [The Turing Way poster](https://doi.org/10.5281/zenodo.4263403) that I presented during a conference. I hope to pay it forward and facilitate others in learning how to work with GitHub through The Turing Way or The Carpentries workshops. I'm very grateful to be part of this great and inclusive community!
-
-* More information:
-> I think scientific research should be accessible to anyone that would like to learn and contribute. 
-> I'm hoping to bring together specialists from my research field to establish guidelines for isotopic data from human remains and guidelines for how to handle and document physical samples. 
-I'm a co-chair of the Research Data Alliance group [Physical Samples and Collections in the Research Data Ecosystem IG](https://www.rd-alliance.org/groups/physical-samples-and-collections-research-data-ecosystem-ig). 
-Please do get in touch if you work with physical samples and would like to get involved!
-> I'm part of the Open Research Calendar Team. 
-This is a calendar that you can use to stay up to date with open research events, or add your own events to in order to increase visibility. 
-Visit us at the [Open Research Calendar Website](https://openresearchcalendar.github.io/) or follow the calendar on [Twitter](https://twitter.com/OpenResearchCal)!
-
-* Quote:
-> The 2021 May Book Dash was an exciting opportunity for me to look behind the organisation scenes and to be a part of an amazing team. The week itself was absolutely amazing, especially the discussions and the 'show and tell' session! 
-
-### [Netherlands eScience Center](https://www.esciencecenter.nl/)
-
-The Netherlands eScience Center is the Dutch national hub for the development and application of domain overarching software and methods for the scientific community. Their main goal is to enable scientists with varying computing experience to fully utilize the potential of the available e-infrastructure and allow them to achieve otherwise unreachable scientific breakthroughs. The Netherlands eScience Center is primarily funded by the national research council (NWO) and the national e-infrastructure organization (SURF) of the Netherlands.
-
-The Netherlands eScience center maintains [its own guide](https://guide.esciencecenter.nl/) for reproducible software development. The focus of the eScience center guide has a big overlap with _The Turing Way_ and therefore it makes sense to avoid duplicating efforts. The eScience center contributes to _The Turing Way_ in the areas which are relevant for the eScience guide. The eScience guide points to _The Turing Way_ in when information would otherwise be duplicated.
-
-Details of each members with their contributions have been listed alphabetically.
-
-#### Carlos Martinez Oritz
-
-* Role: **Community manager**, Book Dash November 2020 attendee/helper
-* GitHub id: [c-martinez](http://github.com/c-martinez)
-* ORCID: [0000-0001-5565-7577](https://orcid.org/0000-0001-5565-7577)
-* Short bio:
-> Carlos obtained his PhD in Computer Science at the University of Exeter. Afterwards he worked on various research projects at the University of Exeter and Plymouth University. At the eScience Center, he has worked as an engineer in diverse projects in digital humanities and life sciences, developing expertise in natural language processing, linked open data and software sustainability. He is also a certified Software Carpentry instructor and is frequently involved in organising trainings.
-
-* Personal highlights:
-> We always advocate for software reuse and collaborative development of software. I love that we can do the same for software development guidelines: reuse content from the eScience guide and collaboratively develop with _The Turing Way_ community!
-
-* More information:
-> I am a big advocate of improving software quality. I am really glad that the eScience center is collaborating with _The Turing Way_ in providing guidelines and helping build better research software.
-
-#### Mateusz Kuzak
-
-* Role: **Community manager**, Book Dash November 2020 attendee/helper
-* GitHub id: [mkuzak](http://github.com/mkuzak)
-* ORCID: [0000-0003-0087-6021](https://orcid.org/0000-0003-0087-6021)
-* Short bio:
->Mateusz obtained his master degree in Biotechnology with specialization Biophysics, at the Jagiellonian University, Krakow, Poland. In September 2019 Mateusz joined the Netherlands eScience Center in the role of Community Officer with the focus on communities and training around Research Software Engineering, software best practices and sustainability, and the role of software in open science and reproducible research. Since 2015, Mateusz has been involved in the Carpentries community, first as an instructor, later contributor, mentor, Executive Council member and instructor trainer. He is also leading the Dutch chapter of the Carpentries and is on the core team of nl-RSE community.
-
-* Personal highlights:
-> I have personally contributed to _The Turing Way_ by drafting chapters in the guide for Reproducible Research, reviewed other contributor's Pull Requests and mentored contributions from Netherlands eScience Center.
 
 (contributors-record-contributors)=
 ## Contributors
@@ -1176,3 +1134,76 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
 Contributions of any kind welcome!
+
+(contributors-record-collaborators)=
+# Collaborating Project and Organisations
+
+*When members participate in The Turing Way community with the in-kind support of their funders and organisation, we acknowledge each member individually and list their organisations as “Collaborating organisations”.
+Such organisational supports are applicable when one or multiple members from a project or community collaborate to build resources in The Turing Way.*
+
+## [Delft University of Technology - Faculty of Applied Sciences](https://www.tudelft.nl/en/faculty-of-applied-sciences)
+
+The Faculty of Applied Sciences is the largest of Delft University of Technology and focuses on finding innovative solutions to some of the problems faced by society.
+Development of the fundamental knowledge needed to underpin technical developments that can be widely used throughout society.
+In ensuring that this knowledge can be shared efectively with the wider society, the Faculty values the sharing of data and code and has a [Research Data Management policy](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/) in place since 2020.
+In this effort, the contributions from the Faculty of Applied Sciences have mainly focused on the Reproducible Research Chapter of _The Turing Way_.
+
+### Esther Plomp
+
+* Roles:
+  * Book Dash February 2020 Attendee
+  * Book Dash Planning Committee 2021
+  * Semi regular co-working call crasher
+* GitHub id: [EstherPlomp](https://github.com/estherplomp)
+* ORCID: [0000-0003-3625-1357](https://orcid.org/0000-0003-3625-1357)
+* Twitter: [@PhDToothFAIRy](https://twitter.com/PhDToothFAIRy/)
+* Short bio:
+> I'm a Data Steward at the Delft University of Technology, Faculty of Applied Sciences, in the Netherlands, where I support researchers with their data management and open science practices. For my PhD research, I analysed human teeth for their isotopic/chemical composition in order to say something about human mobility patterns (fields of forensics, archaeology, osteology). Next to the Turing Way I'm also involved with other teams, such as the [Open Research Calendar](https://openresearchcalendar.org/) ([follow the calendar on Twitter!](https://twitter.com/OpenResearchCal)), [IsoArcH](https://isoarch.eu/) and I was an [OLS3](https://openlifesci.org/ols-3/) mentor! I'm also interested in anything related to physical samples in research, and I'm a co-chair of the [Research Data Alliance Physical Samples Interest Group](https://www.rd-alliance.org/groups/physical-samples-and-collections-research-data-ecosystem-ig).
+
+* Personal highlights:
+> Thanks to the Turing Way I really learned how to work collaboratively using GitHub. The book dash in February 2020 was a great kick start to actually practise and directly apply these skills, which now allows me to contribute more confidently to other projects as well! I primarily contributed to the Reproducible Research Chapter, to the Research Data Management section. I reviewed existing content and I'm working on adding a section on Data Management Plans and how to handle personal data. I also made a [The Turing Way poster](https://doi.org/10.5281/zenodo.4263403) that I presented during a conference. I hope to pay it forward and facilitate others in learning how to work with GitHub through The Turing Way or The Carpentries workshops. I'm very grateful to be part of this great and inclusive community!
+
+* More information:
+> I think scientific research should be accessible to anyone that would like to learn and contribute.
+> I'm hoping to bring together specialists from my research field to establish guidelines for isotopic data from human remains and guidelines for how to handle and document physical samples.
+I'm a co-chair of the Research Data Alliance group [Physical Samples and Collections in the Research Data Ecosystem IG](https://www.rd-alliance.org/groups/physical-samples-and-collections-research-data-ecosystem-ig).
+Please do get in touch if you work with physical samples and would like to get involved!
+> I'm part of the Open Research Calendar Team.
+This is a calendar that you can use to stay up to date with open research events, or add your own events to in order to increase visibility.
+Visit us at the [Open Research Calendar Website](https://openresearchcalendar.github.io/) or follow the calendar on [Twitter](https://twitter.com/OpenResearchCal)!
+
+* Quote:
+> The 2021 May Book Dash was an exciting opportunity for me to look behind the organisation scenes and to be a part of an amazing team. The week itself was absolutely amazing, especially the discussions and the 'show and tell' session!
+
+## [Netherlands eScience Center](https://www.esciencecenter.nl/)
+
+The Netherlands eScience Center is the Dutch national hub for the development and application of domain overarching software and methods for the scientific community. Their main goal is to enable scientists with varying computing experience to fully utilize the potential of the available e-infrastructure and allow them to achieve otherwise unreachable scientific breakthroughs. The Netherlands eScience Center is primarily funded by the national research council (NWO) and the national e-infrastructure organization (SURF) of the Netherlands.
+
+The Netherlands eScience center maintains [its own guide](https://guide.esciencecenter.nl/) for reproducible software development. The focus of the eScience center guide has a big overlap with _The Turing Way_ and therefore it makes sense to avoid duplicating efforts. The eScience center contributes to _The Turing Way_ in the areas which are relevant for the eScience guide. The eScience guide points to _The Turing Way_ in when information would otherwise be duplicated.
+
+Details of each members with their contributions have been listed alphabetically.
+
+### Carlos Martinez Oritz
+
+* Role: **Community manager**, Book Dash November 2020 attendee/helper
+* GitHub id: [c-martinez](http://github.com/c-martinez)
+* ORCID: [0000-0001-5565-7577](https://orcid.org/0000-0001-5565-7577)
+* Short bio:
+> Carlos obtained his PhD in Computer Science at the University of Exeter. Afterwards he worked on various research projects at the University of Exeter and Plymouth University. At the eScience Center, he has worked as an engineer in diverse projects in digital humanities and life sciences, developing expertise in natural language processing, linked open data and software sustainability. He is also a certified Software Carpentry instructor and is frequently involved in organising trainings.
+
+* Personal highlights:
+> We always advocate for software reuse and collaborative development of software. I love that we can do the same for software development guidelines: reuse content from the eScience guide and collaboratively develop with _The Turing Way_ community!
+
+* More information:
+> I am a big advocate of improving software quality. I am really glad that the eScience center is collaborating with _The Turing Way_ in providing guidelines and helping build better research software.
+
+### Mateusz Kuzak
+
+* Role: **Community manager**, Book Dash November 2020 attendee/helper
+* GitHub id: [mkuzak](http://github.com/mkuzak)
+* ORCID: [0000-0003-0087-6021](https://orcid.org/0000-0003-0087-6021)
+* Short bio:
+>Mateusz obtained his master degree in Biotechnology with specialization Biophysics, at the Jagiellonian University, Krakow, Poland. In September 2019 Mateusz joined the Netherlands eScience Center in the role of Community Officer with the focus on communities and training around Research Software Engineering, software best practices and sustainability, and the role of software in open science and reproducible research. Since 2015, Mateusz has been involved in the Carpentries community, first as an instructor, later contributor, mentor, Executive Council member and instructor trainer. He is also leading the Dutch chapter of the Carpentries and is on the core team of nl-RSE community.
+
+* Personal highlights:
+> I have personally contributed to _The Turing Way_ by drafting chapters in the guide for Reproducible Research, reviewed other contributor's Pull Requests and mentored contributions from Netherlands eScience Center.

@@ -91,7 +91,7 @@ As we described in the {ref}`"Plead the Fifth"<rr-overview-barriers-incentives>`
 
 In the current academic system, a primary consideration for promotion is the proven ability to be awarded grants and recruit students.
 Both funding bodies and prospective students value novelty and this behaviour is reflected in preferentially rewarding papers with a high [journal impact factor](https://en.wikipedia.org/wiki/Impact_factor).
-It is likely part of the human condition to be motivated by things that are new or surprising, but as {ref}`discussed above<rr-overview-publication>`, this bias towards novelty causes a systematic publication bias.
+It is likely part of the human condition to be motivated by things that are new or surprising, but as {ref}`discussed above<rr-overview-barriers-publication>`, this bias towards novelty causes a systematic publication bias.
 
 More broadly, the promotion system in academia tends to reward individuals who have shown themselves to be different from others in their field.
 That means sharing code and data to make it easy for "competitors" to do the same work ends up being discouraged by promotion and funding selection panels.

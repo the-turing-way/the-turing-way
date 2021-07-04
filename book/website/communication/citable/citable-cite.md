@@ -1,4 +1,4 @@
-(rr-credit-cite)=
+(cm-credit-cite)=
 # Citing Research Objects
 
 You should cite research objects directly in the paper in places where it is relevant.
