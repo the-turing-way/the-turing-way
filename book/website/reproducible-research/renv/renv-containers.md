@@ -70,8 +70,6 @@ However, this leaves a user vulnerable to similar security issues as described i
 The best advice for using images built by others is, as usual, only download and run something on your machine if it comes from a trusted source.
 Docker Hub has "official image" badges for commonly used, verified images as shown here:
 
-![]()
-
 ```{figure} ../../figures/docker-official-image.png
 ---
 name: docker-official-image
