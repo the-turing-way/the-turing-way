@@ -5,8 +5,8 @@
 
 | Prerequisite | Importance |
 |---|---|---|
-| {ref}`Version Control<rr-version-control>` | Very Important |
-| {ref}`Reproducible Environments<rr-reproducible-environments>` | Very Important |
+| {ref}`Version Control<rr-vcs>` | Very Important |
+| {ref}`Reproducible Environments<rr-renv>` | Very Important |
 
 This chapter will discuss [BinderHub](https://binderhub.readthedocs.io/en/latest/index.html), which is the cloud technology powering [Binder](https://mybinder.readthedocs.io/en/latest/).
 We will cover the technologies and tools that BinderHub utilises and the resources you will need to setup your own BinderHub.

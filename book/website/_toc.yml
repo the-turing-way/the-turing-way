@@ -225,7 +225,7 @@
     file: reproducible-research/case-studies
     sections:
     - title: A Statistical Methods Manuscript
-      file: reproducible-research/case-studies/statistical-methods-manuscript
+      file: reproducible-research/case-studies/case-study-statistical
 
 # ===== Project Design Guide ========================================
 
@@ -531,11 +531,11 @@
 - title: Afterword
   file: afterword/afterword
   sections:
+  - title: Legal Disclaimer
+    file: afterword/legal-disclaimer
   - title: Glossary
     file: afterword/glossary
   - title: Bibliography
     file: afterword/bibliography
   - title: Contributors Record
     file: afterword/contributors-record
-  - title: Legal Disclaimer
-    file: afterword/legal-disclaimer

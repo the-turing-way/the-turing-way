@@ -13,7 +13,7 @@ After all, these newsletters land in someone's personal mailbox and most likely 
 ### Create a GitHub issue to collect items
 
 Create a new GitHub issue where throughout the month you and other community members can suggest news items as a comment.
-For example, in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1037), several members could suggest news items to include in the next newsletter, in this case for June 2020. 
+For example, in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1037), several members could suggest news items to include in the next newsletter, in this case for June 2020.
 Such GitHub issues can be published in the current newsletter inviting contributions from the readers and community members for the next month.
 
 ### Start a draft
@@ -50,7 +50,7 @@ The newsletter should focus more on the contributing and new members, and highli
 
 ### Collect images associated with the news item
 
-Following the recommendations on {ref}`style guide for community<ch-style-guide>` and {ref}`style guide for newsletters<ch-newsletters-style>` for using images, collect a few images (maximum 2 per section).
+Following the recommendations on {ref}`style guide for community<ch-style>` and {ref}`style guide for newsletters<ch-newsletters-style>` for using images, collect a few images (maximum 2 per section).
 Make sure that these images are available under a free license (like CC-BY), collected with the link of their sources, and named clearly as suggested in the style guide.
 
 For the twitter mentions, there is no fixed number of screenshots, but 4-6 tweets look less crowded in the newsletter.

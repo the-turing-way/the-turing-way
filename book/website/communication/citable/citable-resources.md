@@ -1,7 +1,7 @@
-(rr-credit-checklist)=
+(cm-citable-checklist)=
 # Checklists and Resources
 
-(rr-credit-checklist-authors)=
+(cm-citable-checklist-authors)=
 ## Checklist For Authors
 
 - Pick out key datasets and software your conclusions rely on
@@ -9,21 +9,21 @@
 - Publish your own data/software and cite that too
 - Get an [ORCID ID!](https://orcid.org/)
 
-(rr-credit-checklist-data)=
+(cm-citable-checklist-data)=
 ## For Data Creators
 
 - Deposit your data in a stable repository
 - Get a persistent identifier (DOI) for your data
 - Include an example citation in your dataset's README file
 
-(rr-credit-checklist-software)=
+(cm-citable-checklist-software)=
 ## For Software Developers
 
 - Deposit key version snapshots of your software in a stable repository
 - Get a distinct persistent identifier for each key version
 - Include an example citation in your software manual
 
-(rr-credit-checklist-recommendation)=
+(cm-citable-checklist-recommendation)=
 ## Further Recommendation
 
 - [DataCite Citation Guidance](https://datacite.org/cite-your-data.html)

@@ -1,4 +1,4 @@
-(rr-vcs-started)=
+(rr-vcs-git)=
 # Getting Started with Git
 
 To get started, please make sure that your have Git installed on your computer.

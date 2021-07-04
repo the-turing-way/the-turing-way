@@ -95,7 +95,7 @@ To avoid this from keeping interested readers from experimenting with the code,
 a combination of the Python package
 [repo2docker](https://github.com/jupyter/repo2docker) and a free
 [BinderHub](https://mybinder.org/) hosting service is used.
-For details on these techniques, see the chapters on {ref}`Binder<rr-binder>` and {ref}`BinderHub<rr-binderhub>`.
+For details on these techniques, see the chapter on {ref}`BinderHub<rr-binderhub>`.
 This allows interested individuals to start an interactive version of the
 repository with all required software preinstalled - in exactly the right
 versions!
@@ -193,7 +193,7 @@ docker exec --name mycontainer /
 ### Long term archiving and citability
 
 The GitHub repository is also linked with [zenodo.org](https://zenodo.org/) to ensure long-term
-archiving, see {ref}`cm-citable-make-software-citeable`
+archiving, see {ref}`cm-citable-cite-software`
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3899943.svg)](https://doi.org/10.5281/zenodo.3899943)
 
