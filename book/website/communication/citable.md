@@ -23,6 +23,7 @@ alt: This image shows a female researcher in the centre with her arms raised. Sh
 ORCID ID allows a researcher to connect their profile with all the published research objects, each of which also have their unique persistent identifiers. You will learn about these in this chapter. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
+(cm-citable-motivation)=
 ## Background & Motivation
 
 Academic research has traditionally maintained a 'reputation economy' where citations are the currency or considered a major metric of success.
