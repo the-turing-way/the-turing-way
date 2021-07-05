@@ -2622,6 +2622,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "mishkanemes",
+      "name": "mishkanemes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39628884?v=4",
+      "profile": "https://twitter.com/mishkanemes",
+      "contributions": [
+        "eventOrganizing"
+      ]
     }
   ],
   "projectName": "the-turing-way",
