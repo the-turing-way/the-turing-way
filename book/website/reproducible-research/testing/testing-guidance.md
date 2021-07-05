@@ -63,7 +63,6 @@ Find one you like, learn about the features it offers, and make use of them. Com
   - Boost::Test
   - google-test
 - C
-  - all C++ frameworks
   - Check
   - CUnit
 - Python
