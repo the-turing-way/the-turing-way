@@ -47,7 +47,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Bobby / 
 * Evdokia / 
 * Greg / 
-* Jess / 
+* Jess / Mowed the lawn in the rain
 * Chris (he/him) / 
 * Rocio/ 
 * Elena (she/her)/ 
