@@ -2622,6 +2622,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "vcpope",
+      "name": "vcpope",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62377353?v=4",
+      "profile": "https://github.com/vcpope",
+      "contributions": [
+        "talk"
+      ]
     }
   ],
   "projectName": "the-turing-way",
