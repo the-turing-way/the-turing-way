@@ -36,7 +36,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Mishka Nemes - co-trainer /
 * Gemma (she) / 
 * Thya (she/any) / 
-* Jane / 
+* Jane / Fuchsia bush has insects after a dry spring and Jane is as usual confused
 * Rachael (she/her)/ 
 * Clare (she/her) / 
 * Agota (she/her) / 
