@@ -58,7 +58,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Stephen / 
 * Bikash / 
 * Name 1 /
-* Name 2 /
+* Josh / Being caught in the thunderstorm yesterday afternoon ⛈️
 * Name 3 / 
 * Name 4 /
 * Name 5 /
