@@ -33,7 +33,7 @@ we will give you an optional 1 hour GitHub tutorial:
 
 - *Name / Icebreaker question: Share something from nature that has awed you or brought you joy recently - perhaps a flower, a view, a photo, a scent, a potted plant, a bird that flew past...*
 * Sophia (she/her) / Being able to kayak down a river in the sunshine :woman-rowing-boat: 
-* Mishka Nemes - co-trainer /
+* Mishka Nemes - co-trainer / cycling 🚴‍♀️
 * Gemma (she) / 
 * Thya (she/any) / 
 * Jane / 
