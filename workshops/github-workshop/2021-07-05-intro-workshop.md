@@ -57,7 +57,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Edward (he)/ 
 * Stephen / 
 * Bikash / 
-* Name 1 /
+* Charlotte / My ivy plant has begun to wrap around my bookcase and it looks amazing
 * Name 2 /
 * Name 3 / 
 * Name 4 /
