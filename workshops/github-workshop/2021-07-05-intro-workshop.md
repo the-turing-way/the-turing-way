@@ -35,7 +35,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Sophia (she/her) / Being able to kayak down a river in the sunshine :woman-rowing-boat: 
 * Mishka Nemes - co-trainer /
 * Gemma (she) / 
-* Thya (she/any) / 
+* Thya (she/any) / Just realized this morning that my cucumber plants are getting big enough to need support
 * Jane / 
 * Rachael (she/her)/ 
 * Clare (she/her) / 
