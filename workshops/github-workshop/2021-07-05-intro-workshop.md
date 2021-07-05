@@ -38,7 +38,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Thya (she/any) / 
 * Jane / 
 * Rachael (she/her)/ 
-* Clare (she/her) / 
+* Clare (she/her) / running out into the thunderstorm to enjoy the heavy rain
 * Agota (she/her) / 
 * Anne /  
 * Victoria / 
