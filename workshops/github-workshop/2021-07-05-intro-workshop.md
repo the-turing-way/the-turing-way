@@ -57,6 +57,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Edward (he)/ 
 * Stephen / 
 * Bikash / 
+* Jun Xie(he)/
 * Name 1 /
 * Name 2 /
 * Name 3 / 
