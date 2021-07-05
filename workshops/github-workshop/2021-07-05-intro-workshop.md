@@ -39,7 +39,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Jane / 
 * Rachael (she/her)/ 
 * Clare (she/her) / 
-* Agota (she/her) / 
+* Agota (she/her) / Camping at the lakes 🌅
 * Anne /  
 * Victoria / 
 * Kate S / 
