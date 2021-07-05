@@ -32,7 +32,7 @@ we will give you an optional 1 hour GitHub tutorial:
 ## Roll call
 
 - *Name / Icebreaker question: Share something from nature that has awed you or brought you joy recently - perhaps a flower, a view, a photo, a scent, a potted plant, a bird that flew past...*
-* Sophia (she/her) / Being able to kayak down a river in the sunshine :woman-rowing-boat: 
+* Sophia (she/her) / Being able to kayak down a river in the sunshine :woman-rowing-boat: / having fun with github 💻
 * Mishka Nemes - co-trainer /
 * Gemma (she) / 
 * Thya (she/any) / 
