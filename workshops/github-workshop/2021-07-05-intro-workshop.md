@@ -37,7 +37,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Gemma (she) / 
 * Thya (she/any) / 
 * Jane / 
-* Rachael (she/her)/ 
+* Rachael (she/her)/ watching the sun rise and hearing the birds start to sing early in the morning
 * Clare (she/her) / 
 * Agota (she/her) / 
 * Anne /  
