@@ -57,7 +57,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Edward (he)/ 
 * Stephen / 
 * Bikash / 
-* Name 1 /
+* Ben / I quite like the rain and thunder we had over the weekend.
 * Name 2 /
 * Name 3 / 
 * Name 4 /
