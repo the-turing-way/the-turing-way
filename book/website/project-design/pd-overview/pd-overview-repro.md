@@ -1,11 +1,11 @@
 (pd-overview-repro)=
 # Communication and Collaboration
 
-Good communication from collaboration practices are complementary to research reproducibility, and often it is hard to separate these concepts from each other.
-In _The Turing Way_, we consider them essential for research reproducibility and provide separate guides for {ref}`communication<cm>` and {ref}`collaboration<cl>`.
-You can visit specific chapters to gain an in-depth understanding and selection of practices that meet the specific requirements in your project.
+Good communication and collaboration practices are complementary to research reproducibility, and often it is hard to separate these concepts from each other.
+In _The Turing Way_, we consider these essential for research reproducibility and provide separate guides for {ref}`communication<cm>` and {ref}`collaboration<cl>`.
 
-Here, we highlight some of the most important aspects of collaboration and communication to ensure that you, and everyone else in your project, understand what the project is about, who the stakeholders are and how they can participate.
+In this page, we highlight some of the most important reccommendations for collaboration and communication to ensure that you, and everyone else in your project, understand what the project is about, who the stakeholders are and how they can participate.
+You can visit specific chapters to gain an in-depth understanding and selection of practices that meet the specific requirements in your project.
 
 **Documenting project plans and processes for transparency**:
 
@@ -30,15 +30,15 @@ It reduces or addresses concerns about the project's progress towards meeting go
 
 **Participation and contribution process**:
 
-Considering the variety of different backgrounds and skills you members bring, describe how they can participate and start contributing.
+Considering the variety of different backgrounds and skills your members bring, describe how they can participate and start contributing.
 Provide clear opportunities for contributions, review, management, mentoring and support.
 Provide an overview of how different contributions or resources are connected and how new contributions will fit into existing materials.
 Provide a decision-making framework to facilitate discussions and reaching a shared conclusion.
 In the context of software, coding projects are as much about communication as they are about coding (if not more).
 Allow informed discussions when a particular project design has reached the end or when it is useful to update it for efficiency and sustainability.
  
-Describe how your research work is or will be published and how different stakeholders will be recognised.
-It helps everyone feel recognised for their contribution to the overall vision.
+Describe how your research objects are available or will be published and how different stakeholders will be recognised.
+It helps everyone feel appreciated and acknowledged for their contribution to the overall vision.
 
 <!--
 (pd-overview-repro-turingway)=
@@ -107,4 +107,4 @@ Project design would not ensure that everything will always go as planned or the
 However, it helps prepare in advance for risk management and adapt to changes better.
 Also, see [The cost of change curve](http://www.agilemodeling.com/essays/costOfChange.htm) in the context of Software Engineering.
 
-_This chapter summarises participants' notes from a short workshop called "Good Practices for Designing Software Development Projects (The Turing Way)" at the [Collaboration Workshop 2021](https://www.software.ac.uk/cw21)  hosted by [Software Sustainability Institute](https://www.software.ac.uk). The workshop was delivered by Malvika Sharan, Emma Karoune and Batool Almarzouq on 31 March 2021. You can  Zenodo. [DOI: [10.5281/zenodo.4650221](https://doi.org/10.5281/zenodo.4650221)._
+_This chapter summarises participants' notes from a short workshop called "Good Practices for Designing Software Development Projects (The Turing Way)" at the [Collaboration Workshop 2021](https://www.software.ac.uk/cw21)  hosted by [Software Sustainability Institute](https://www.software.ac.uk). The workshop was delivered by Malvika Sharan, Emma Karoune and Batool Almarzouq on 31 March 2021. Zenodo. [DOI: [10.5281/zenodo.4650221](https://doi.org/10.5281/zenodo.4650221)._
