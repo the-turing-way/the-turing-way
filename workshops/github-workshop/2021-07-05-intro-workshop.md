@@ -58,7 +58,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Stephen / 
 * Bikash / 
 * Jun Xie(he)/
-* Name 1 /
+* Josh / Being caught in the thunderstorm yesterday afternoon ⛈️
 * Charlotte / My ivy plant has begun to wrap around my bookcase and it looks amazing
 * Name 3 / 
 * Name 4 /
