@@ -6,10 +6,14 @@ on:
     branches:
       - master
       - "!all-contributors/**"
+    paths:
+      - "book/**"
   pull_request:
     branches:
       - master
       - "!all-contributors/**"
+    paths:
+      - "book/**"
 
 # set the default shell to bash for all jobs
 # this is important for the windows OS!

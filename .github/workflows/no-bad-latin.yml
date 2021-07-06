@@ -10,10 +10,14 @@ on:
     branches:
       - master
       - "!all-contributors/**"
+    paths:
+      - "book/**"
   pull_request:
     branches:
       - master
       - "!all-contributors/**"
+    paths:
+      - "book/**"
 
 # Set up the Continuous Integration job
 jobs:
