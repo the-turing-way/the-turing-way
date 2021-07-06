@@ -59,7 +59,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Bikash / 
 * Jun Xie(he)/
 * Name 1 /
-* Name 2 /
+* Charlotte / My ivy plant has begun to wrap around my bookcase and it looks amazing
 * Name 3 / 
 * Name 4 /
 * Name 5 /
