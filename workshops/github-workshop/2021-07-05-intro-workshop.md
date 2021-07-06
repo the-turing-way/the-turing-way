@@ -41,7 +41,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Clare (she/her) / 
 * Agota (she/her) / 
 * Anne /  
-* Victoria / 
+* Victoria / finishing a handmade gift for a friend 
 * Kate S / 
 * Lisa S (she/her)/ 
 * Bobby / 
