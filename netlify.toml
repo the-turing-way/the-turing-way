@@ -6,11 +6,11 @@
 # Do not build deploy previews for branches from all-contributors bot
 [context.deploy-preview]
   ignore = '''
-if [[ "$HEAD" =~ "^all-contributors" ]] && [ "$CONTEXT" == "deploy-preview" ]; then
+if echo $HEAD | grep "^all-contributors"; then
   return 0
 else
   return 1
-end
+fi
 '''
 
 # A redirect rule with all the supported properties
