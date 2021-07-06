@@ -61,7 +61,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Name 2 /
 * Name 3 / 
 * Name 4 /
-* Vanessa / Recent movie watch: The Dig with Carey Mulligan
+* Vanessa / Recent movie watch - The Dig with Carey Mulligan
 * Name 6 /
 * Name 7 / 
 * Name 8 / 
