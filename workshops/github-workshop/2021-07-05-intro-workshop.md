@@ -36,9 +36,9 @@ we will give you an optional 1 hour GitHub tutorial:
 * Mishka Nemes - co-trainer /
 * Gemma (she) / 
 * Thya (she/any) / 
-* Jane / 
-* Rachael (she/her)/ 
+* Jane /  
 * Clare (she/her) / running out into the thunderstorm to enjoy the heavy rain
+* Rachael (she/her)/ watching the sun rise and hearing the birds start to sing early in the morning
 * Agota (she/her) / 
 * Anne /  
 * Victoria / 
@@ -57,8 +57,9 @@ we will give you an optional 1 hour GitHub tutorial:
 * Edward (he)/ 
 * Stephen / 
 * Bikash / 
+* Jun Xie(he)/
 * Name 1 /
-* Name 2 /
+* Charlotte / My ivy plant has begun to wrap around my bookcase and it looks amazing
 * Name 3 / 
 * Name 4 /
 * Name 5 /
