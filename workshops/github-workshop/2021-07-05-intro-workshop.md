@@ -54,7 +54,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Cecilia (she/her)/ 
 * Jack (he/him) / 
 * Jordan (she/her)/ 
-* Edward (he)/ 
+* Edward (he)/ saw a tiny pony
 * Stephen / 
 * Bikash / 
 * Jun Xie(he)/
