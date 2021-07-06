@@ -303,7 +303,8 @@
     - title: Valuing Diversity and Differences
       file: collaboration/new-community/new-community-differences
   - title: Onboarding New Members
-    file: collaboration/onboarding      
+    file: collaboration/onboarding  
+    sections:
     - title: Virtual Onboarding
       file: collaboration/onboarding/onboarding-virtual
     - title: In-person Onboarding
