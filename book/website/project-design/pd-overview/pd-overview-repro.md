@@ -2,7 +2,7 @@
 # Communication and Collaboration
 
 Good communication and collaboration practices are complementary to research reproducibility, and often it is hard to separate these concepts from each other.
-In _The Turing Way_, we consider these essential for research reproducibility and provide separate guides for {ref}`communication<cm>` and {ref}`collaboration<cl>`.
+In _The Turing Way_, we consider these essential for reproducible research and provide separate guides for {ref}`communication<cm>` and {ref}`collaboration<cl>`.
 
 In this page, we highlight some of the most important reccommendations for collaboration and communication to ensure that you, and everyone else in your project, understand what the project is about, who the stakeholders are and how they can participate.
 You can visit specific chapters to gain an in-depth understanding and selection of practices that meet the specific requirements in your project.
@@ -81,7 +81,7 @@ We asked a group of researchers to share what they consider their project design
 - Not doing code reviews.
 - Not defining use scenarios for the software from the beginning, meaning we didn’t pay enough attention to data input and output.  
 - Agonising too long before switching to objectively better design (particularly translating from a largely functional codebase to more object-oriented).    
-- - Going with options that team members are ‘comfortable’ with (for example, using outdated languages or platform-dependent compilers), rather than teaching team members new skills. Makes life more difficult in the long run.
+- Going with options that team members are ‘comfortable’ with (for example, using outdated languages or platform-dependent compilers), rather than teaching team members new skills. Makes life more difficult in the long run.
 - Defining governance at different stages of the project or potential scenario planning for how governance might change as the project scales up/down/gains new users and so on.
 - Not thinking about community from the start, starting with a Code of Conduct, thinking about a Contributor License Agreement (intellectual property), what processes will be used and how they will work, how they will impact future contributors and the overall project.
 
@@ -107,4 +107,4 @@ Project design would not ensure that everything will always go as planned or the
 However, it helps prepare in advance for risk management and adapt to changes better.
 Also, see [The cost of change curve](http://www.agilemodeling.com/essays/costOfChange.htm) in the context of Software Engineering.
 
-_This chapter summarises participants' notes from a short workshop called "Good Practices for Designing Software Development Projects (The Turing Way)" at the [Collaboration Workshop 2021](https://www.software.ac.uk/cw21)  hosted by [Software Sustainability Institute](https://www.software.ac.uk). The workshop was delivered by Malvika Sharan, Emma Karoune and Batool Almarzouq on 31 March 2021. Zenodo. [DOI: [10.5281/zenodo.4650221](https://doi.org/10.5281/zenodo.4650221)._
+_This chapter summarises participants' notes from a short workshop called "Good Practices for Designing Software Development Projects (The Turing Way)" at the [Collaboration Workshop 2021](https://www.software.ac.uk/cw21)  hosted by [Software Sustainability Institute](https://www.software.ac.uk). The workshop was delivered by Malvika Sharan, Emma Karoune and Batool Almarzouq on 31 March 2021. Zenodo. DOI: [10.5281/zenodo.4650221](https://doi.org/10.5281/zenodo.4650221)._
