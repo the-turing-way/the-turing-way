@@ -33,11 +33,11 @@ we will give you an optional 1 hour GitHub tutorial:
 
 - *Name / Icebreaker question: Share something from nature that has awed you or brought you joy recently - perhaps a flower, a view, a photo, a scent, a potted plant, a bird that flew past...*
 * Sophia (she/her) / Being able to kayak down a river in the sunshine :woman-rowing-boat: 
-* Mishka Nemes - co-trainer /
+* Mishka Nemes - co-trainer / cycling 🚴‍♀️
 * Gemma (she) / 
 * Thya (she/any) / 
 * Jane / 
-* Rachael (she/her)/ 
+* Rachael (she/her)/ watching the sun rise and hearing the birds start to sing early in the morning
 * Clare (she/her) / 
 * Agota (she/her) / 
 * Anne /  
@@ -48,7 +48,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Evdokia / 
 * Greg / 
 * Jess / 
-* Chris (he/him) / 
+* Chris (he/him) / A deer in the field behind our house
 * Rocio/ 
 * Elena (she/her)/ 
 * Cecilia (she/her)/ 
@@ -58,7 +58,6 @@ we will give you an optional 1 hour GitHub tutorial:
 * Stephen / 
 * Bikash / 
 * Ben / I quite like the rain and thunder we had over the weekend.
-* Name 2 /
 * Name 3 / 
 * Name 4 /
 * Name 5 /
@@ -81,7 +80,8 @@ we will give you an optional 1 hour GitHub tutorial:
 * Name 22 / 
 * Name 23 / 
 * Name 24 / 
-* 
+* Jun Xie(he)/
+* Charlotte / My ivy plant has begun to wrap around my bookcase and it looks amazing
 * 
 
 

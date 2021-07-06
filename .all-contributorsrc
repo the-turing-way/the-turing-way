@@ -1724,7 +1724,8 @@
       "contributions": [
         "review",
         "ideas",
-        "maintenance"
+        "maintenance",
+        "talk"
       ]
     },
     {
@@ -2621,6 +2622,15 @@
       "profile": "https://github.com/ninadicara",
       "contributions": [
         "review"
+      ]
+    },
+    {
+      "login": "vcpope",
+      "name": "vcpope",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62377353?v=4",
+      "profile": "https://github.com/vcpope",
+      "contributions": [
+        "talk"
       ]
     }
   ],
