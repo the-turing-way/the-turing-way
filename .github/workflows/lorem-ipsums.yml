@@ -9,9 +9,11 @@ on:
   push:
     branches:
       - master
+      - "!all-contributors/**"
   pull_request:
     branches:
       - master
+      - "!all-contributors/**"
 
 # Set up the Continuous Integration job
 jobs:
