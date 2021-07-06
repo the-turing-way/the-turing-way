@@ -34,6 +34,6 @@ There are two MarkDown templates for the shared notes (HackMD) during the cowork
 (ch-template-newsletter)=
 ## Newsletter Draft
 
-As discussed in the {ref}`Newsletter<ch-newsltters>` chapter, we use a template outlined as a guide for collecting news items for the _The Turing Way_ newsletters and it constantly changes as per the activities in the community.
+As discussed in the {ref}`Newsletter<ch-newsletters>` chapter, we use a template outlined as a guide for collecting news items for the _The Turing Way_ newsletters and it constantly changes as per the activities in the community.
 
 - {ref}`Template for Drafting Newsletters<ch-template-newsletter-draft>`

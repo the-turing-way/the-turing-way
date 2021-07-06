@@ -28,7 +28,7 @@ A general suggestion is to remove references to such files from the ToC and rais
 When the content is written, the files can then be added to the ToC.
 
 For example, [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1391) curates a list of empty and incomplete files currently in _The Turing Way_, and
-[this PR](https://github.com/alan-turing-institute/the-turing-way/pull/1448) writes content for the `Data Licences` subchapter shown in the {ref}`image <empty_toc_file>`.
+[this PR](https://github.com/alan-turing-institute/the-turing-way/pull/1448) writes content for the `Data Licences` subchapter shown in the {ref}`image <empty-toc-file>`.
 
 (ch-consistency-structure-hr-structure)=
 ### Check 2: Ensure chapters follow a consistent structure

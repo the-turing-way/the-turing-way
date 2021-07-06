@@ -1,4 +1,4 @@
-(rr-credit-cite)=
+(cm-citable-cite)=
 # Citing Research Objects
 
 You should cite research objects directly in the paper in places where it is relevant.
@@ -21,7 +21,7 @@ For instance, the MLA style was developed by Modern Language Association (origin
 See [Scribbr Citation Styles Guide](https://www.scribbr.com/citing-sources/citation-styles/).
 See also [FORCE11 resource](https://www.force11.org/node/4771).
 
-(rr-credit-cite-data)=
+(cm-citable-cite-data)=
 ## Citing Data
 
 When sharing a dataset, use dedicated DOIs and add a **data availability statement** at the end of the paper or in online repository details (similar to the acknowledgement section).
@@ -45,7 +45,7 @@ You can find examples of these statements in the publishers' (research data) aut
 -  “The data that support the findings of this study are available upon request.
 Access conditions and procedures can be found at [URL to restricted access repository such as [EASY](https://easy.dans.knaw.nl/ui/home).]”
 
-(rr-credit-cite-software)=
+(cm-citable-cite-software)=
 ## Citing Software
 
 A software citation has a lot of the same elements as a data citation, described above, and are described in more detail in the [Software Citation Principles](https://www.force11.org/software-citation-principles).

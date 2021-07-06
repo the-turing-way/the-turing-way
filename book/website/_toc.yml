@@ -124,9 +124,7 @@
       file: reproducible-research/renv/renv-virtualmachine
     - title: Containers
       file: reproducible-research/renv/renv-containers
-    - title: Checklist
-      file: reproducible-research/renv/renv-checklist
-    - title: Resources
+    - title: Resources and Checklist
       file: reproducible-research/renv/renv-resources
   - title: BinderHub
     file: reproducible-research/binderhub
@@ -227,12 +225,25 @@
     file: reproducible-research/case-studies
     sections:
     - title: A Statistical Methods Manuscript
-      file: reproducible-research/case-studies/statistical-methods-manuscript
+      file: reproducible-research/case-studies/case-study-statistical
 
 # ===== Project Design Guide ========================================
 
 - file: project-design/project-design
   sections:
+  - title: Overview of Project Design
+    file: project-design/pd-overview
+    sections:
+    - title: Planning for Project Design
+      file: project-design/pd-overview/pd-overview-planning
+    - title: Communication and Collaboration
+      file: project-design/pd-overview/pd-overview-repro
+    - title: Reproducibility Methods
+      file: project-design/pd-overview/pd-overview-methods
+    - title: Version Control and Documentation
+      file: project-design/pd-overview/pd-overview-version
+    - title: Sharing Your Research Work
+      file: project-design/pd-overview/pd-overview-sharing
   - title: Creating Project Repositories
     file: project-design/project-repo
     sections:
@@ -320,8 +331,8 @@
       file: communication/citable/citable-cite
     - title: ORCID to Collect your Research Objects
       file: communication/citable/citable-orcid
-    - title: Checklist and Recommendations
-      file: communication/citable/citable-checklist
+    - title: Checklists and Resources
+      file: communication/citable/citable-resources
   - title: Communications in Open Source Projects
     file: communication/os-comms
     sections:
@@ -329,8 +340,6 @@
       file: communication/os-comms/os-comms-issue-tracking
     - title: Communication Channels
       file: communication/os-comms/os-comms-channels
-    - title: Further Reading
-      file: communication/os-comms/os-comms-resources
 
 # ===== Collaboration Guide ========================================
 
@@ -535,11 +544,11 @@
 - title: Afterword
   file: afterword/afterword
   sections:
+  - title: Legal Disclaimer
+    file: afterword/legal-disclaimer
   - title: Glossary
     file: afterword/glossary
   - title: Bibliography
     file: afterword/bibliography
   - title: Contributors Record
     file: afterword/contributors-record
-  - title: Legal Disclaimer
-    file: afterword/legal-disclaimer

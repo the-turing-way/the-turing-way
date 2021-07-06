@@ -4,7 +4,7 @@
 _The Turing Way_ is an open-source project that empowers contributors around the world to leverage their skills, knowledge, and expertise to build and expand its content.
 _The Turing Way_ guides are continually evolving, with multiple chapters co-developed by individuals from varied backgrounds - who are all passionate about sharing knowledge around data science and research.
 To sustain and support this vibrant community, _The Turing Way_ book should remain consistent and accessible as it evolves.
-The {ref}`ch-style-guide` chapter already provides guidelines for maintaining a consistent style across the book. However, not all chapters follow these suggestions since they're often written asynchronously by different authors.
+The {ref}`ch-style` chapter already provides guidelines for maintaining a consistent style across the book. However, not all chapters follow these suggestions since they're often written asynchronously by different authors.
 Reviewing consistency across _The Turing Way_ alone is reasonably challenging. This points towards a need to encourage and support our contributors to maintain consistency throughout the chapters in _The Turing Way_ guides.
 Therefore, this chapter will outline a step-by-step consistency checklist that will guide our contributors.
 Each step will emphasize a consistency check to look out for as they design and develop chapters in _The Turing Way_ or bring consistency to existing chapters.
@@ -70,7 +70,7 @@ Soft | Split long chapters into smaller subchapters so they are modular. |
 
 REQUIREMENT | CHECK |
 ------------ | ----- |
-Hard | Ensure chapters do not use any Latin abbreviation as discussed in the {ref}`style guide<ch-style-guide>` |
+Hard | Ensure chapters do not use any Latin abbreviation as discussed in the {ref}`style guide<ch-style>` |
 Hard | Ensure correct grammar and a consistent tone across the book with the help of 1-2 reviewers |
 Hard | Ensure chapters use a consistent language, for example, if you choose to write in British English, maintain that throughout |
 

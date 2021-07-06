@@ -69,9 +69,8 @@ $ pip install matplotlib numpy
 ```
 
 You will also need a working version of ``pdflatex`` and, of course, ``make``.
-
-For installation instructions for Make, see 
-{ref}`rr-make-appendix-installing`.
+ 
+For installation instructions for Make, see {ref}`rr-make-appendix-installing`.
 
 (rr-make-examples-makefile1)=
 ### Makefile no. 1 (The Basics)

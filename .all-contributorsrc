@@ -1724,7 +1724,8 @@
       "contributions": [
         "review",
         "ideas",
-        "maintenance"
+        "maintenance",
+        "talk"
       ]
     },
     {
@@ -2528,7 +2529,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/53548707?v=4",
       "profile": "https://github.com/marianaiv",
       "contributions": [
-        "bug"
+        "bug",
+        "content"
       ]
     },
     {
@@ -2612,7 +2614,43 @@
       "contributions": [
         "bug"
       ]
-    }
+    },
+    {
+      "login": "ninadicara",
+      "name": "Nina",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44364127?v=4",
+      "profile": "https://github.com/ninadicara",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "vcpope",
+      "name": "vcpope",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62377353?v=4",
+      "profile": "https://github.com/vcpope",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+    "login": "ThyavdBerg",
+      "name": "Thya van den Berg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77287134?v=4",
+      "profile": "https://github.com/ThyavdBerg",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "mishkanemes",
+      "name": "mishkanemes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39628884?v=4",
+      "profile": "https://twitter.com/mishkanemes",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    }  
   ],
   "projectName": "the-turing-way",
   "projectOwner": "alan-turing-institute",

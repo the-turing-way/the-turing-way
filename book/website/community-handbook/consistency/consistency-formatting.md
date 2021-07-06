@@ -23,7 +23,7 @@ _The Turing Way_ should be written in [Markdown](https://en.wikipedia.org/wiki/M
 
 Parts of earlier chapters in _The Turing Way_ were written in `HTML`, making some of their content hard to read.
 
-For example, {ref}`html_to_markdown` depicts a table that was written in `HTML`.
+For example, {ref}`html-to-markdown` depicts a table that was written in `HTML`.
 
 ```{figure} ../../figures/html-to-markdown.png
 ---
@@ -149,7 +149,7 @@ Often, a chapter might refer to content from another chapter to explain concepts
 Cross-referencing facilitates this by ensuring that the referred content is easy to find with a simple click.
 This helps make _The Turing Way_ more navigable and accessible.
 
-{ref}`Cross-referencing <ch-style-crossref>` is discussed in detail in the {ref}`ch-style-guide`. The subchapter explains what labels are, provides a naming convention for labels in _The Turing Way_, and gives several useful examples for how cross-referencing should be done.
+{ref}`Cross-referencing <ch-style-crossref>` is discussed in detail in the {ref}`ch-style`. The subchapter explains what labels are, provides a naming convention for labels in _The Turing Way_, and gives several useful examples for how cross-referencing should be done.
 
 #### Demo
 
@@ -241,7 +241,7 @@ There are helpful tools, such as [CapitalizeMyTitle](https://capitalizemytitle.c
 Furthermore, headers in _The Turing Way_ can be run through these tools to ensure they follow title-casing conventions.
 They can then be replaced within chapters and in the `_toc.yml` as appropriate.
 
-For example, In {ref}`<mismatched_title_toc>` above, **Using spreadsheets for research data** should be title-cased to **Using Spreadsheets for Research Data**.
+For example, In {ref}`mismatched-title-toc` above, **Using spreadsheets for research data** should be title-cased to **Using Spreadsheets for Research Data**.
 
 Certain headers may not need to be title-cased depending on the context in which they are used.
 For example, because some of the headers in this chapter make up a checklist - they do not need to be title-cased.
