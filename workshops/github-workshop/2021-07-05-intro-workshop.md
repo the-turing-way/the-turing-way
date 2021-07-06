@@ -35,29 +35,32 @@ we will give you an optional 1 hour GitHub tutorial:
 * Sophia (she/her) / Being able to kayak down a river in the sunshine :woman-rowing-boat: 
 * Mishka Nemes - co-trainer / cycling 🚴‍♀️
 * Gemma (she) / 
-* Thya (she/any) / 
+* Thya (she/any) / Just realized this morning that my cucumber plants are getting big enough to need support
 * Jane / 
 * Rachael (she/her)/ watching the sun rise and hearing the birds start to sing early in the morning
 * Clare (she/her) / 
-* Agota (she/her) / 
+* Agota (she/her) / Camping at the lakes 🌅
 * Anne /  
-* Victoria / 
+* Victoria / finishing a handmade gift for a friend 
 * Kate S / 
 * Lisa S (she/her)/ 
 * Bobby / 
 * Evdokia / 
 * Greg / 
-* Jess / 
+* Jess / Mowed the lawn in the rain
 * Chris (he/him) / A deer in the field behind our house
 * Rocio/ 
 * Elena (she/her)/ 
 * Cecilia (she/her)/ 
 * Jack (he/him) / 
 * Jordan (she/her)/ 
-* Edward (he)/ 
+* Edward (he)/ saw a tiny pony
 * Stephen / 
 * Bikash / 
+* Jun Xie(he)/
 * Ben / I quite like the rain and thunder we had over the weekend.
+* Josh / Being caught in the thunderstorm yesterday afternoon ⛈️
+* Charlotte / My ivy plant has begun to wrap around my bookcase and it looks amazing
 * Name 3 / 
 * Name 4 /
 * Name 5 /
