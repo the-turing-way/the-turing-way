@@ -58,6 +58,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Stephen / 
 * Bikash / 
 * Jun Xie(he)/
+* Ben / I quite like the rain and thunder we had over the weekend.
 * Josh / Being caught in the thunderstorm yesterday afternoon ⛈️
 * Charlotte / My ivy plant has begun to wrap around my bookcase and it looks amazing
 * Name 3 / 
@@ -82,7 +83,8 @@ we will give you an optional 1 hour GitHub tutorial:
 * Name 22 / 
 * Name 23 / 
 * Name 24 / 
-* 
+* Jun Xie(he)/
+* Charlotte / My ivy plant has begun to wrap around my bookcase and it looks amazing
 * 
 
 
