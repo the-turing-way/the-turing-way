@@ -36,9 +36,9 @@ we will give you an optional 1 hour GitHub tutorial:
 * Mishka Nemes - co-trainer / cycling 🚴‍♀️
 * Gemma (she) / 
 * Thya (she/any) / Just realized this morning that my cucumber plants are getting big enough to need support
-* Jane / 
+* Jane / Fuchsia bush has insects after a dry spring and Jane is as usual confused
 * Rachael (she/her)/ watching the sun rise and hearing the birds start to sing early in the morning
-* Clare (she/her) / 
+* Clare (she/her) / running out into the thunderstorm to enjoy the heavy rain
 * Agota (she/her) / Camping at the lakes 🌅
 * Anne /  
 * Victoria / finishing a handmade gift for a friend 
