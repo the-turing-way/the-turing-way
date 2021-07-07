@@ -102,3 +102,4 @@ Post-event surveys are used for gathering feedback from everyone regarding their
 - [Survey Monkey](https://www.surveymonkey.com/): This is one of the most popular tool, available with limited features (10 questions and 100 respondents for free) and provides many features including templates for the paid version.
 - [Typeform](https://www.typeform.com/surveys/): Allows developing surveys in a more creative manner. The free version can be used only for a small group.
 
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`dsg`).*
