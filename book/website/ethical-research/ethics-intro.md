@@ -146,3 +146,5 @@ There are plenty of ways to navigate the realm of Ethics at large and Research E
 * P-hacking: the misreporting of true effect sizes in published studies
 * Research integrity: active adherence to the ethical principles and professional standards essential for the responsible practice of research
 * Responsible research and innovation (RRI): an approach that anticipates and assesses potential implications and societal expectations with regard to research and innovation, with the aim to foster the design of inclusive and sustainable research and innovation
+
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`dsg`).*
