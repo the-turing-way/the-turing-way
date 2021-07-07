@@ -20,3 +20,5 @@ However, if researchers have used online tools such as Google workspace and Micr
 In this chapter, we have describe the {ref}`motivation of using GitHub<cl-github-novice-motivation>`, explained the {ref}`important first steps<cl-github-novice-firststeps>`, discussed some {ref}`useful features<cl-github-novice-features>` and listed resources to learn {ref}`advanced GitHub features<cl-github-novice-advanced>`.
 
 Lessons learned in this chapter will enable researchers to work openly, collaboratively and with version control.
+
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`dsg`).*
