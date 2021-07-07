@@ -42,11 +42,11 @@ You can help them settle in by making the culture clear in written form.
 This can be especially important for people who experience discrimination - do they know that they can approach you and be listened to if they experience harassment or discrimination?
 
 Group culture sections can include:
-* What members of the group can expect from you - turnaround times for feedback, support.
-* What you expect from members of the group - timekeeping, communication. This may vary between different roles.
-* Expectations for working hours.
+* What is expected as part of the team - turnaround times for feedback, support, communication.
+* Expectations for working hours and flexible working policies.
 * Equality, inclusion and diversity statement.
 * Open science and how you expect the group to practice this.
+* Team code of conduct.
 
 #### Key Contacts
 
