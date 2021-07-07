@@ -62,3 +62,5 @@ In the chapter {ref}`pd-project-repo`, you can learn about how to set up a repos
 Start by documenting your vision, mission, goals and roadmap in a README file (see the {ref}`pd-project-repo-readme` chapter), followed by a description of resources and norms for collaboration and communication.
 In the next chapter, we discuss how project design enables good communication and collaboration in research.
 In the subsequent chapters, we describe different methods and tools for ensuring research reproducibility.
+
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`dsg`).*
