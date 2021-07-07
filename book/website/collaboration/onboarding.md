@@ -37,7 +37,7 @@ Onboarding doesn’t have to provide an exhaustive list of every single way to p
 > [name=Malvika Sharan] this should be moved to the subchapter that the group wrote, or even split that subchapter into two based on grouped topics that go well together
 
 At the end of onboarding, new team members should have a strong idea of: 
-* How the team interacts and its working patterns (e.g. meetings, communication channels, file storage, review processes) 
+* How the team interacts and its working patterns (such as meetings, communication channels, file storage, review processes) 
 * Where to find policies, procedures, codes of conduct, and other information about the project 
 * Which tools are used by the project and how to find out more about how to use them 
 * How and where to ask questions 
