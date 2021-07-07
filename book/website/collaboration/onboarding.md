@@ -29,4 +29,26 @@ However, when thinking about designing onboarding, there are several areas to co
 * Reference materials that explain where to find information, how to ask for help, and governance such as the code of conduct 
 * Training materials or sessions covering tools and systems used by the project 
 * Regular or one-off sessions dedicated to newer members where they can ask questions or be walked through the contributing process 
-* Deliberate connections between new and more experienced members about their roles or specific aspects of the 
+* Deliberate connections between new and more experienced members about their roles or specific aspects of the project
+
+
+It may also be useful to connect onboarding process content to {ref}`Personas and Pathways to contribution<pd-persona>` for a project if these have been mapped, to help with introducing the different ways people might contribute. 
+Onboarding doesn’t have to provide an exhaustive list of every single way to participate, but it should give people the knowledge and tools they need to find out more about the areas that interest them. 
+
+
+## Planning onboarding
+> [name=Malvika Sharan] this should be moved to the subchapter that the group wrote, or even split that subchapter into two based on grouped topics that go well together
+
+At the end of onboarding, new team members should have a strong idea of: 
+* How the team interacts and its working patterns (e.g. meetings, communication channels, file storage, review processes) 
+* Where to find policies, procedures, codes of conduct, and other information about the project 
+* Which tools are used by the project and how to find out more about how to use them 
+* How and where to ask questions 
+* Opportunities to get involved more deeply in the project or community 
+
+
+You should plan out your onboarding process to take each of these things into account. 
+It’s also useful to make the onboarding process transparent, such as storing materials in a dedicated folder in the project repository, so that it’s easier to scale, have someone else lead the onboarding, or to identify missing sections through feedback from the community. 
+
+Onboarding in-person or virtually can raise different challenges and things to consider. 
+The Virtual Onboarding chapter covers online onboarding in more detail. 
