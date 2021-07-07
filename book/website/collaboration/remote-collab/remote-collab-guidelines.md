@@ -80,3 +80,5 @@ Following up with the participants after the meeting is a good way to both share
 ## Further reading
 
 - [Deanna deBara, The ultimate guide to remote meetings in 2020](https://slackhq.com/ultimate-guide-remote-meetings), January 2, 2020
+
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`dsg`).*
