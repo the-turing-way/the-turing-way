@@ -11,7 +11,7 @@ This should include an introduction to the team, an ongoing support mechanism fo
 
 ## Introducing the Team
 
-It can be intimidating to be the first to speak as a new member - consider asking your team to do a "who's who", and to introduce themselves first in meetings.
+It can be intimidating to be the first to speak as a new member - consider asking your team to introduce themselves first in meetings.
 
 Names and roles are also easy to forget, particularly if we aren't seeing people in the office every day.
 It can be helpful to store this information somewhere, for example, by sending around an introductory or onboarding email.
