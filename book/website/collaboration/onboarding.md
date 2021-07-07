@@ -3,9 +3,6 @@
 # Onboarding New Members
 
 
-# Onboarding - why is it important? 
-
-
 ## Background and Motivation
 Onboarding is the process of welcoming new team or community members through a set of structured interactions and materials that supports their interaction with the project. 
 As any initiative grows or welcomes new cohorts of membership, a thoughtful onboarding process plays a critical role in maintaining a healthy, active, and inclusive community. 
