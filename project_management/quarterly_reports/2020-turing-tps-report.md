@@ -3,6 +3,7 @@
 # Tools, Practices and Systems Programme: *The Turing Way* Updates Summary 2020
 
 - PI name: Kirstie Whitaker
+- Research Associate/Community Manager: Malvika Sharan
 - Affiliation: The Alan Turing Institute, London, UK
 - Funded by: The Tools, Practices and Systems Research Programme of The Alan Turing Institute
 - Dates of the project: Jan 2019 - Present
