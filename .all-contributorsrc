@@ -2634,7 +2634,7 @@
       ]
     },
     {
-    "login": "ThyavdBerg",
+      "login": "ThyavdBerg",
       "name": "Thya van den Berg",
       "avatar_url": "https://avatars.githubusercontent.com/u/77287134?v=4",
       "profile": "https://github.com/ThyavdBerg",
@@ -2650,7 +2650,16 @@
       "contributions": [
         "eventOrganizing"
       ]
-    }  
+    },
+    {
+      "login": "Iain-S",
+      "name": "Iain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25081046?v=4",
+      "profile": "https://github.com/Iain-S",
+      "contributions": [
+        "review"
+      ]
+    }
   ],
   "projectName": "the-turing-way",
   "projectOwner": "alan-turing-institute",
