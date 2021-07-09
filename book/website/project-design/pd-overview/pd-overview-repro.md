@@ -4,7 +4,7 @@
 Good communication and collaboration practices are complementary to research reproducibility, and often it is hard to separate these concepts from each other.
 In _The Turing Way_, we consider these essential for reproducible research and provide separate guides for {ref}`communication<cm>` and {ref}`collaboration<cl>`.
 
-In this page, we highlight some of the most important reccommendations for collaboration and communication to ensure that you, and everyone else in your project, understand what the project is about, who the stakeholders are and how they can participate.
+In this page, we highlight some of the most important recommendations for collaboration and communication to ensure that you, and everyone else in your project, understand what the project is about, who the stakeholders are and how they can participate.
 You can visit specific chapters to gain an in-depth understanding and selection of practices that meet the specific requirements in your project.
 
 **Documenting project plans and processes for transparency**:
