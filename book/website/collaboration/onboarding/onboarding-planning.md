@@ -98,7 +98,7 @@ Additionally, an onboarding process also needs to instil confidence and not over
 
 - Space out communication, with the onboarding process potentially starting a some time before the new member joining the team.
 - Give some indication of the relative importance of each topic so that the team member does not feel that they need to learn everything at once. 
-- Consider a dedicate period (e.g. a week) where there is no obligation to carry out any formal work.
+- Consider a dedicate period (for example a week) where there is no obligation to carry out any formal work.
 
 
 It’s also useful to make the onboarding process transparent, such as storing materials in a dedicated folder in the project repository, so that it’s easier to scale, have someone else lead the onboarding, or to identify missing sections through feedback from the community.
