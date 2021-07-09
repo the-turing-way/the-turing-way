@@ -305,10 +305,12 @@
   - title: Onboarding New Members
     file: collaboration/onboarding  
     sections:
-    - title: Virtual Onboarding
+    - title: Important Aspects of Onbarding
+      file: collaboration/onboarding/onboarding-aspects
+    - title: Planning and Process
+      file: collaboration/onboarding/onboarding-planning
+    - title: Considerations for in-person and virtual
       file: collaboration/onboarding/onboarding-virtual
-    - title: In-person Onboarding
-      file: collaboration/onboarding/onboarding-inperson
   - title: Leadership in Data Science
     file: collaboration/leadership
     sections:
