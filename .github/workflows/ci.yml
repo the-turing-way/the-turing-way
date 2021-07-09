@@ -5,13 +5,11 @@ on:
   push:
     branches:
       - master
-      - "!all-contributors/**"
     paths:
       - "book/**"
   pull_request:
     branches:
       - master
-      - "!all-contributors/**"
     paths:
       - "book/**"
 
@@ -24,6 +22,7 @@ defaults:
 # run job
 jobs:
   build-jb-and-check-links:
+    if: (github.event.pull_request) && !contains(github.head_ref, 'all-contributors')
     strategy:
       matrix:
         os: [ubuntu-latest, macos-latest, windows-latest]
