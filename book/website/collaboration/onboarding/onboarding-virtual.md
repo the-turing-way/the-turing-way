@@ -1,7 +1,6 @@
 (cl-onboarding-virtual)=
 # Virtual Onboarding
 
-## Summary
 
 Joining a new group virtually is a very different experience from joining in person, and it can be hard to know if someone is struggling or isolated.  
 
@@ -11,7 +10,7 @@ This should include an introduction to the team, an ongoing support mechanism fo
 
 ## Introducing the Team
 
-It can be intimidating to be the first to speak as a new member - consider asking your team to introduce themselves first in meetings.
+It can be intimidating to be the first to speak as a new member - consider asking your team to introduce themselves first in meetings. Initial introductions could be part of the role of a buddy (see below).
 
 Names and roles are also easy to forget, particularly if we aren't seeing people in the office every day.
 It can be helpful to store this information somewhere, for example, by sending around an introductory or onboarding email.
@@ -21,85 +20,19 @@ An onboarding event sharing important information like contact details, organigr
 
 ## Support
 
-You can provide one-on-one support - such as a buddy for informal peer support, or a mentor, for more formal support.
+You can provide one-on-one support - such as a buddy for informal peer support, or a mentor, for more formal support. You may provide more than one buddy to take the pressure off individual relationships and also so that a remote-starter immediately meets another person.
+
 This helps the new joiner understand group norms, and allows them to ask any sensitive questions they wouldn't like to raise in a group discussion.
-You should consider that the buddy or mentor should remain for a longer period than would be needed with in person onboarding.
+
+You should consider that the buddy or mentor should remain for a longer period than would be needed with in person onboarding. 
+
+To help keep an informal relationship you may want to ensure that the buddy is not the line manager or collaborating with the new-starter on their first piece of work.
 
 Co-working with a buddy or several team members is another informal way to build relationships with new team members and is an informal environment to address any questions that may have arisen in the first few days or weeks of employment.
 
-## Onboarding Document Guidelines
 
-Your project can have an onboarding document, manual or folder of resources.
-This creates a set of shared expectations and acts as a reference for new members to find information about resources. It should also contain information about who to ask for help if they have a problem.
 
-### Suggested Sections and Content
 
-#### Group Culture
-
-Every group or workplace has a different culture, and expectations aren't always clear when a new member joins.
-You can help them settle in by making the culture clear in written form.
-
-This can be especially important for people who experience discrimination - do they know that they can approach you and be listened to if they experience harassment or discrimination?
-
-Group culture sections can include:
-* What is expected as part of the team - turnaround times for feedback, support, communication.
-* Expectations for working hours and flexible working policies.
-* Equality, inclusion and diversity statement.
-* Open science and how you expect the group to practice this.
-* Team code of conduct.
-
-#### Key Contacts
-
-It can be hard to ask for help, particularly when working remotely - you can't just lean over to the person at the next desk and ask!
-
-Key contacts could include:
-* Group technicians/managers.
-* Key collaborators, and info on what areas of the project they are involved in.
-* IT - include detail - is there a form, or a specific person to email?
-
-#### Communication Channels
-
-- Preferred method of communications, _for example email, video call, slack message_
-- Ensure any communication preferences are ..communicated.. from the beginning.
-It should be a priority that the new team member is sent all relevant information to join these communications channels and someone should check that they have been able to set them up.
-Offer help with this process and also training on any communications channel that the new team member has not used before so that they can communicate with the other team members quickly after joining.
-
-#### Accessing Shared Documents
-
-- What method of sharing is preferred? _for example google docs, RMarkdown, shared documents over email, GitHub, OneDrive_
-- Ensure invitations are set up for calendar meetings and access is in place.
-
-#### Expectations in Meetings
-
-- Individuals may not have adequate access to equipment or the internet.
-Discussions about whether any support is required for home setup (for example webcams, microphone, laptop) can allow for any needs to be addressed.
-- Meeting etiquette - learning expectations for different meetings can be overwhelming for a new starter.
-Clearly outlining expected attendance and contributions can help overcome this, _for example, are attendees required to read the papers prior to journal club? Are attendees asked to present their work regularly? Are you expecting videos to be on?_
-- Meeting times - consider the circumstances of your group when organising regular meetings - does everyone have the same opportunity to attend? _for example some groups try to arrange Athena SWAN meeting times, whereby meetings occur between 10-3, meaning that those with children are more able to attend this_.
-
-#### Training
-
-On tools, the group uses often - for example GitHub and communication channels such as Slack.
-
-* Use [Zenodo](https://zenodo.org/), or a similar open repository, to host training materials for easier sharing.
-* Use a Youtube channel to store induction & training material for people to watch in their own time.
-* Consider running training & induction sessions every 2-3 months as new people join.
-* Consider a Slack channel for new joiners - for questions and discussion.
-* Consider providing Office Hours to support new joiners using new tools - for example, GitHub.
-* Try to make your training sessions as interactive as possible with exercises and discussions.
-* Get feedback on your training and use this to adjust and improve your resources.
-
-#### Resources
-
-* Link to the group website.
-* Link to group social media accounts - Twitter, Facebook, Instagram.
-* Links to other resources - institution wellbeing services.
-* Links to group policies.
-
-#### Glossary
-
-Are there any weird acronyms in your field/group?
-Consider sharing them with new members - then they'll know exactly what obscure software you're referring to!
 
 ## Further reading
 
