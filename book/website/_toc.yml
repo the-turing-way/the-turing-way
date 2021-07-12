@@ -329,7 +329,7 @@
       file: communication/citable/citable-steps
     - title: Citing Research Objects
       file: communication/citable/citable-cite
-    - title: Linking your Research Objects
+    - title: Linking Research Objects
       file: communication/citable/citable-linking    
     - title: ORCID to Collect your Research Objects
       file: communication/citable/citable-orcid
