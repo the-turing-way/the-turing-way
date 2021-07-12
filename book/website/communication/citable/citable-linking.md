@@ -1,12 +1,12 @@
 (cm-citable-linking)=
 
-# Linking your data, code and your publication
+# Linking Research Objects
 
-Linking your data and article will ensure that you receive **credit** for your work and it will increase the visibility of your research outputs.
+Linking your data, code and article will ensure that you receive **credit** for your work and it will increase the visibility of your research outputs.
 There are several different ways to do this. 
 You can decide to 1) open up your data publicly, at the same time as for example the **preprint** of your article, or 2) keep the dataset closed until the article is published.
 
-## 1. Open the dataset / code repository
+## 1. Open the Research Objects
 
 The easiest way to connect your dataset to your publication is to publish the dataset first (for example, at the same time as the **preprint**). 
 This will provide you with the correct information for your **Data Availability Statement** and your references (see {ref}`Citing Data<cm-citable-cite-data>`), and will allow reviewers to include the dataset in their review. 
@@ -14,9 +14,9 @@ If any adjustments are needed based on the review process you can often upload a
 Remember that the contributors and date of deposition are publicly available, making it unlikely that others will 'scoop' you. 
 But if you are hesitant about opening up your dataset before the article is published, you can either publish the dataset under restricted access, under embargo, or wait with publishing and reserve a DOI. 
 
-## 2. Keep the dataset / code repository closed
+## 2. Keep the Research Objects closed
 
-### Publish your dataset/repository under restricted access
+### Publish the Research Objects under restricted access
 
 Publishing your data under restricted access means that the data is uploaded to the repository, but you're only providing access to individuals that request access or you can provide access through sharing a private link. 
 * You decide with whom to share the private link and whether individuals that request access will obtain access.
@@ -27,7 +27,7 @@ Publishing your data under restricted access means that the data is uploaded to 
     * Add the DOI of the publication to the dataset 
     * Change the access permission rights to public (see for example [Zenodo](https://zenodo.org/)).
 
-### Publish your dataset/repository under embargo
+### Publish the Research Objects under embargo
 
 An embargo means that you have already uploaded the data to the repository, but are not providing access to the data until a certain date. 
 * No one has access to your data until the embargo period has expired (you can define this period), or until you changed the access permissions yourself. 
