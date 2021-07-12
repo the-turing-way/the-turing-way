@@ -41,7 +41,7 @@ An embargo means that you have already uploaded the data to the repository, but 
 ### Reserve a DOI and publish later
 
 Several data repositories allow you to reserve a DOI (see for example [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/))
-Reserving a DOI means you are not required to upload your data yet, but you will need to provide some metadata (title, author/contributors, etc) to complete the DOI reservation. The reserved DOI will be in use after you actually uploaded the data and decide to publish the data. 
+Reserving a DOI means you are not required to upload your data yet, but you will need to provide some metadata (title, author/contributors) to complete the DOI reservation. The reserved DOI will be in use after you actually uploaded the data and decide to publish the data. 
 * No one has access to your data or the metadata yet, because the landing page of your dataset is not working yet. 
     * Your data is not available to reviewers.
 * You can provide the correct DOI in the paper's **Data Availability Statement** and in the reference list (see {ref}`Citing Data<cm-citable-cite-data>`) 
