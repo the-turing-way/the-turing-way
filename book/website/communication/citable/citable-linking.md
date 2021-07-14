@@ -60,7 +60,7 @@ Reserving a DOI means you are not required to upload your data yet, but you will
 
 Whichever route you decide to take, it is important to double-check the proof of your article. 
 The DOI for your dataset should be correctly listed in the **Data Availability Statement** and in the reference list.
-For more information see {ref}`Citing Data<cm-citable-cite-data>`
+For more information see {ref}`Citing Data<cm-citable-cite-data>`.
 
 
 ## More resources:
