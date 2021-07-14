@@ -10,6 +10,7 @@ You can decide to:
 
 2) Keep the Research Object closed until the article is published.
 
+(cm-citable-linking-open)=
 ## 1. Open the Research Objects
 
 The easiest way to connect your dataset to your publication is to publish the dataset first (for example, at the same time as the **preprint**). 
@@ -19,6 +20,7 @@ Remember that the contributors and date of deposition are publicly available, ma
 But if you are hesitant about opening up your dataset before the article is published, you can either publish the dataset under restricted access, under embargo, or 
 reserve a DOI in advance and publish the Research Object later.
 
+(cm-citable-linking-closed)=
 ## 2. Keep the Research Objects closed
 
 ### Publish the Research Objects under restricted access
