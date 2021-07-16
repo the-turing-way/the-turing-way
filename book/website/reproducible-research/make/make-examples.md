@@ -69,8 +69,8 @@ $ pip install matplotlib numpy
 ```
 
 You will also need a working version of ``pdflatex`` and, of course, ``make``.
-For installation instructions for Make, see
-{ref}`rr-make-appendix-installing`.
+ 
+For installation instructions for Make, see {ref}`rr-make-appendix-installing`.
 
 (rr-make-examples-makefile1)=
 ### Makefile no. 1 (The Basics)
@@ -238,7 +238,7 @@ output/report.pdf: report/report.tex output/figure_1.png output/figure_2.png
 
 clean:
 	rm -f output/report.pdf
-	rm -f output/figure_*.pdf
+	rm -f output/figure_*.png
 ```
 
 Phony targets are also useful when you want to use Make recursively. In that
@@ -287,7 +287,7 @@ output/report.pdf: report/report.tex output/figure_1.png output/figure_2.png
 
 clean:
 	rm -f output/report.pdf
-	rm -f output/figure_*.pdf
+	rm -f output/figure_*.png
 ```
 
 We've replaced the input and output filenames in the recipes respectively by
@@ -323,7 +323,7 @@ output/report.pdf: report/report.tex output/figure_1.png output/figure_2.png
 
 clean:
 	rm -f output/report.pdf
-	rm -f output/figure_*.pdf
+	rm -f output/figure_*.png
 ```
 
 The ``%`` symbol is now a wildcard that (in our case) takes the value ``1`` or
@@ -347,7 +347,6 @@ where they have more meaningful names. Let's switch over to the ``big_data``
 branch:
 
 ```bash
-$ git stash                     # stash the state of your working directory
 $ git checkout big_data         # checkout the big_data branch
 ```
 
