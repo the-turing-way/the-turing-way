@@ -9,7 +9,7 @@ There are no prerequisite for this chapter.
 (er-activism-summary)=
 ## Summary
 
-This chapter covers why activism can be an [important part of ethical data science practice.](https://the-turing-way.netlify.app/ethical-research/ethical-research/activism/activism-ethics.md)
+This chapter covers why activism can be an important part of ethical data science practice.
 It also covers different kinds of activism and how you can be an activist within your workplace, your field, your country, or the world at large!
 
 (er-activism-motivation)=
