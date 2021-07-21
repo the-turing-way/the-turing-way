@@ -5,7 +5,7 @@ _The Turing Way_ is an open-source community-driven guide to reproducible, ethic
 
 Our goal is to provide all the information that data scientists in academia, industry, government and the third sector need to ensure that the projects they work on are easy to reproduce and reuse.
 
-Do not try to read the guide from start to finish. Take a [buffet approach](https://mobile.twitter.com/rossdavism/status/1138441421143400453) instead: browse the chapters or [search](https://the-turing-way.netlify.app/search.html) for something you would like to learn about.
+Warning: Do not try to read the guide from start to finish. Take a [buffet approach](https://mobile.twitter.com/rossdavism/status/1138441421143400453). Browse the chapters, or use the search box to search for whatever you would like to learn about first.
 
 ```{figure} figures/welcome.jpg
 ---
@@ -61,10 +61,7 @@ All contributions must abide by our [code of conduct](https://github.com/alan-tu
 (welcome-history)=
 ## History
 
-The book started as a guide for reproducibility, covering version control, testing, and continuous integration.
-However, technical skills are just one aspect of making data science research "open for all".
-
-In February 2020, _The Turing Way_ expanded to a series of books covering reproducible research, project design, communication, collaboration, and ethical research.
+The book started in January 2019 as a guide for reproducibility, covering {ref}`rr-vcs`, {ref}`rr-testing`, and {ref}`rr-ci`. However, technical skills are just one aspect of making data science research "open for all" and so in February 2020, _The Turing Way_ expanded into a series of books covering {ref}`rr`, {ref}`pd`, {ref}`cm`, {ref}`cl`, and {ref}`er`.
 
 (welcome-citing)=
 ## Citing _The Turing Way_
