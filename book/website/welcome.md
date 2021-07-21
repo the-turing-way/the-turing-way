@@ -1,18 +1,18 @@
 (welcome)=
 # Welcome
 
-_The Turing Way_ is an open-source community-driven guide to reproducible, ethical, inclusive and collaborative data science.
+_The Turing Way_ is an open-source community-driven book about how to do reproducible, ethical, inclusive and collaborative data science.
 
 Our goal is to provide all the information that data scientists in academia, industry, government and the third sector need to ensure that the projects they work on are easy to reproduce and reuse.
 
-Warning: Do not try to read the guide from start to finish. Take a [buffet approach](https://mobile.twitter.com/rossdavism/status/1138441421143400453). Browse the chapters, or use the search box to search for whatever you would like to learn about first.
+Warning: Do not try to read the _The Turing Way_ from start to finish. Take a [buffet approach](https://mobile.twitter.com/rossdavism/status/1138441421143400453). Browse the different guides that make up the book, or use the search box to search for whatever you would like to learn about first.
 
-```{figure} figures/welcome.jpg
+```{figure} figures/TheTuringWayChapters.jpg
 ---
-name: welcome-image
-alt: The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.
+name: TheTuringWayChapters
+alt: The Turing Way Guide to reproducible research and it's stucture illustrated to show a set of doors to represent how it's built on chapters and sub chapters of the different areas of the guide
 ---
-_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
 ```
 
 (welcome-community)=
@@ -34,18 +34,16 @@ Please use and re-use whatever you need, for any purpose.
 The book is collaboratively written and open from the start.
 To make this project truly accessible and useful for everyone, we invite you to contribute your skills and bring your perspectives into this project.
 To join this community, please read our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) and ways to [get in touch](https://github.com/alan-turing-institute/the-turing-way#get-in-touch).
-More information about the community and the project is available in the [Community Handbook](./community-handbook/community-handbook).
+More information about the community and the project is available in the {ref}`ch`.
 We look forward to expanding and building _The Turing Way_ together.
 
-
-```{figure} figures/TheTuringWayChapters.jpg
+```{figure} figures/welcome.jpg
 ---
-name: TheTuringWayChapters
-alt: The Turing Way Guide to reproducible research and it's stucture illustrated to show a set of doors to represent how it's built on chapters and sub chapters of the different areas of the guide
+name: welcome-image
+alt: The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.
 ---
-_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
+_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 ```
-
 
 Although _The Turing Way_ receives support and funding from [The Alan Turing Institute](https://www.turing.ac.uk/), the project is designed to be a global collaboration.
 We have contributions from across the UK, and from India, Mexico, Australia, USA, and many European countries.
@@ -61,7 +59,7 @@ All contributions must abide by our [code of conduct](https://github.com/alan-tu
 (welcome-history)=
 ## History
 
-The book started in January 2019 as a guide for reproducibility, covering {ref}`rr-vcs`, {ref}`rr-testing`, and {ref}`rr-ci`. However, technical skills are just one aspect of making data science research "open for all" and so in February 2020, _The Turing Way_ expanded into a series of books: {ref}`rr`, {ref}`pd`, {ref}`cm`, {ref}`cl`, and {ref}`er`.
+The book started in January 2019 as a guide for reproducibility, covering {ref}`rr-vcs`, {ref}`rr-testing`, and {ref}`rr-ci`. However, technical skills are just one aspect of making data science research "open for all" and so in February 2020, _The Turing Way_ expanded into a series of guides: {ref}`rr`, {ref}`pd`, {ref}`cm`, {ref}`cl`, and {ref}`er`.
 
 (welcome-citing)=
 ## Citing _The Turing Way_
