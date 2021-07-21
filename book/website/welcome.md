@@ -7,12 +7,12 @@ Our goal is to provide all the information that data scientists in academia, ind
 
 Warning: Do not try to read the _The Turing Way_ from start to finish. Take a [buffet approach](https://mobile.twitter.com/rossdavism/status/1138441421143400453). Browse the different guides that make up the book, or use the search box to search for whatever you would like to learn about first.
 
-```{figure} figures/TheTuringWayChapters.jpg
+```{figure} figures/welcome.jpg
 ---
-name: TheTuringWayChapters
-alt: The Turing Way Guide to reproducible research and it's stucture illustrated to show a set of doors to represent how it's built on chapters and sub chapters of the different areas of the guide
+name: welcome-image
+alt: The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.
 ---
-_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
+_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 ```
 
 (welcome-community)=
@@ -37,12 +37,12 @@ To join this community, please read our [contribution guidelines](https://github
 More information about the community and the project is available in the {ref}`ch`.
 We look forward to expanding and building _The Turing Way_ together.
 
-```{figure} figures/welcome.jpg
+```{figure} figures/theturingway-chapters.jpg
 ---
-name: welcome-image
-alt: The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.
+name: theturingway-chapters
+alt: The Turing Way Guide to reproducible research and it's stucture illustrated to show a set of doors to represent how it's built on chapters and sub chapters of the different areas of the guide
 ---
-_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
 ```
 
 Although _The Turing Way_ receives support and funding from [The Alan Turing Institute](https://www.turing.ac.uk/), the project is designed to be a global collaboration.
