@@ -404,6 +404,8 @@
       file: collaboration/remote-collab/remote-collab-participation
     - title: Managing Distributed Teams
       file: collaboration/remote-collab/remote-collab-management
+    - title: Collaborative Code Review
+      file: collaboration/remote-collab/remote-collab-code-review
     - title: Informal Coffee Chats
       file: collaboration/remote-collab/remote-collab-informal
     - title: Perceived Pros and Cons
