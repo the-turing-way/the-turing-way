@@ -59,7 +59,7 @@ _The Turing Way_ a community-led project.
 Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member. 
 Long-term contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project.
 
-The project is coordinated by the lead investigators Kirstie Whitaker (founder) and Malvika Sharan (community developer) and hosted at [The Alan Turing Institute](https://www.turing.ac.uk/).
+The project is coordinated by the lead investigators **Kirstie Whitaker** (founder) and **Malvika Sharan** (community developer) and hosted at [The Alan Turing Institute](https://www.turing.ac.uk/).
 
 You can read [_The Turing Way_ acknowledgement process](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) and [Record of Contributions](https://the-turing-way.netlify.app/afterword/contributors-record.html) to learn about how we acknowledge your work and how our contributors are highlighted in the project.
 You can see the [Contributors Table](#contributors) to see the GitHub profiles of all our contributors.
@@ -113,14 +113,17 @@ You can also contact **Malvika Sharan** by emailing [msharan@turing.ac.uk](mailt
 
 #### Chat
 
-Join us on Slack to connect with others and discuss your ideas.
-Here is the [invitation link](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw).
+Join us on Slack to connect with others and discuss your ideas, here is the [invitation link](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw).
 
 We also have a Gitter chat room and we'd love for you to swing by to say hello at <https://gitter.im/alan-turing-institute/the-turing-way>.
 The room is also accessible with a [Matrix](https://matrix.org) account at [#alan-turing-institute_the-turing-way:gitter.im](https://matrix.to/#/#alan-turing-institute_the-turing-way:gitter.im).
 
-We also have a tiny letter mailing list to which we send monthly project updates.
+#### Updates
+
+We have a tiny letter mailing list to which we send monthly project updates.
 Subscribe at <https://tinyletter.com/TuringWay>.
+
+You can also follow us on Twitter ([@turingway](https://twitter.com/turingway)).
 
 ## Contributors
 
