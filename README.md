@@ -19,6 +19,7 @@
 | **Cite** |  [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) |
 
 _The Turing Way_ is an open source project that aims to make data science and research reproducible, ethical and collaborative for everyone. 
+![The Turing Way project is a book, community, an open-source project and a culture of collaboration. This is shown in four illustrations, the first one showing the Turing Way book, the second showing how the community can grow, the third one showing two people collaborating on a pull request, the last one is showing a balance where reproducibility is valued more than the number of papers published](book/website/figures/README_imgs/README_turingway.png).
 
 _The Turing Way_ involves and supports diverse contributors in developing lightly opinionated guides online: <https://the-turing-way.netlify.com>.
 Our moonshot goal is to make reproducibility "too easy not to do".
