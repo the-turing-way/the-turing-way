@@ -111,6 +111,15 @@ You can find more details and background in the chapter [Leveraging the Turing W
 * Personal highlights:
 > TBA
 
+## [Open Life Science](https://openlifesci.org/)
+
+Under the collaboration name OLS-4 for Turing, _The Turing Way_ collaborates with [Open Life Science (OLS)](https://openlifesci.org), a programme that helps individuals and stakeholders in research to become Open Science ambassadors.
+This collaboration offers training and mentoring to interested members from Turing and The Turing Way communities to join the OLS programme individually or in teams.
+They develop Open Science aspects in the projects that they either already have been working on or want to develop in the near future.
+
+You can see the projects that participated in the second round - [OLS-2](https://openlifesci.org/ols-2/projects-participants/) and the third round - [OLS-3](https://openlifesci.org/ols-3/projects-participants/).
+This collaboration was awarded the Turing Online Training grant to support Turing projects in the fourth round ([OLS-4](https://openlifesci.org/funders)) and share materials openly in the Turing training network.
+
 ## [Remote Computational Project Resource](https://isabelbirds.github.io/Remote-Computational-Project-Resource/welcome.html)
 
 This resource was started by Isabel Birds during the COVID-19 pandemic to support students transferred from wet to remote dry lab projects at short notice.
