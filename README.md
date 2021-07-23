@@ -20,7 +20,7 @@
 
 _The Turing Way_ is an open source project that aims to make data science and research reproducible, ethical and collaborative for everyone. 
 
-_The Turing Way_ involves and support diverse contributors in developing lightly opinionated guides online: <https://the-turing-way.netlify.com>.
+_The Turing Way_ involves and supports diverse contributors in developing lightly opinionated guides online: <https://the-turing-way.netlify.com>.
 Our moonshot goal is to make reproducibility "too easy not to do".
 
 ![The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](book/website/figures/welcome.jpg)
