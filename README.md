@@ -18,9 +18,9 @@ _This README.md file in also available in Dutch ([README-Dutch](README-translate
 | **Build** | [![Netlify build](https://github.com/alan-turing-institute/the-turing-way/workflows/CI/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ACI+branch%3Amaster) [![Latin Phrases](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amaster) [![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amaster) [![Check for Lorem Ipsums](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amaster) |
 | **Cite** |  [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) |
 
-_The Turing Way_ is an open source project that involves and support diverse contributors in making data science reproducible, ethical and collaborative for the wider research community. 
+_The Turing Way_ is an open source project that aims to make data science and research reproducible, ethical and collaborative for everyone. 
 
-_The Turing Way_ provides lightly opinionated guides and community resources as an online book: <https://the-turing-way.netlify.com>.
+_The Turing Way_ involves and support diverse contributors in developing lightly opinionated guides online: <https://the-turing-way.netlify.com>.
 Our moonshot goal is to make reproducibility "too easy not to do".
 
 ![The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](book/website/figures/welcome.jpg)
