@@ -93,7 +93,7 @@ We really appreciate any references that you make to _The Turing Way_ project in
 If you have any questions please [get in touch](#get-in-touch).
 
 ### Citing _The Turing Way_ Illustrations
-![This is an example of one of The Turing Way illustrations. It tries to shows the evolution towards an open science era](book/website/figures/evolution-open-research.jpg)
+<img src="book/website/figures/evolution-open-research.jpg" alt="This is an example of one of The Turing Way illustrations. It tries to shows the evolution towards an open science era" width="600"/>
 _The Turing Way_ illustrations are created by artists from [Scriberia](https://www.scriberia.co.uk/) as part of [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) in Manchester on 17 May 2019, and London on 28 May 2019 and 21 February 2020.
 They depict a variety of content from the handbook, collaborative efforts in the community and _The Turing Way_ project in general.
 These illustrations are available on Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) under a CC-BY license.
