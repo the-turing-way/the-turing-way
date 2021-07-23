@@ -66,7 +66,7 @@ You can read [_The Turing Way_ acknowledgement process](https://the-turing-way.n
 You can see the [Contributors Table](#contributors) to see the GitHub profiles of all our contributors.
 
 ### Contributing
-
+![This image shows six of many kinds of contributions that anyone can make. These are developed and share, Maintain and improve, share resources, review and update, make it global through translation, share best practices](book/website/figures/README_imgs/README_contributions.png)
 :construction: This repository is always a work in progress and **everyone** is encouraged to help us build something that is useful to the many. :construction:
 
 Everyone who joins the project is expected to follow our [code of conduct](CODE_OF_CONDUCT.md) and to check out our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
