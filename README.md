@@ -24,7 +24,7 @@ _The Turing Way_ is an open source project that aims to make data science and re
 _The Turing Way_ involves and supports diverse contributors in developing lightly opinionated guides online: <https://the-turing-way.netlify.com>.
 Our moonshot goal is to make reproducibility "too easy not to do".
 
-![The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](book/website/figures/welcome.jpg)
+![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](book/website/figures/README_imgs/README_book.png)
 
 You're currently viewing the project GitHub repository where all of the bits that make up the project live, and where the process of writing/building the guides happens.
 
