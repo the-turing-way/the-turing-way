@@ -1724,7 +1724,8 @@
       "contributions": [
         "review",
         "ideas",
-        "maintenance"
+        "maintenance",
+        "talk"
       ]
     },
     {
@@ -2620,6 +2621,52 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/44364127?v=4",
       "profile": "https://github.com/ninadicara",
       "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "vcpope",
+      "name": "vcpope",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62377353?v=4",
+      "profile": "https://github.com/vcpope",
+      "contributions": [
+        "talk"
+      ]
+    },
+    {
+      "login": "ThyavdBerg",
+      "name": "Thya van den Berg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77287134?v=4",
+      "profile": "https://github.com/ThyavdBerg",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "mishkanemes",
+      "name": "mishkanemes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39628884?v=4",
+      "profile": "https://twitter.com/mishkanemes",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "Iain-S",
+      "name": "Iain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25081046?v=4",
+      "profile": "https://github.com/Iain-S",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "RaoOfPhysics",
+      "name": "Achintya Rao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7623019?v=4",
+      "profile": "https://achintyarao.in",
+      "contributions": [
+        "bug",
         "review"
       ]
     }

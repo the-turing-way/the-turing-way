@@ -20,4 +20,4 @@ There are many ways you can make your poster and slides for your talks publicly 
 These files can be shared via an online repository (like [GitHub](https://github.com/) or [Bitbucket](https://bitbucket.org/)), a shared drive with a shareable link (like Dropbox and Google Drive) or the platform put in place by the event where you present your work.
 It is advisable to share your file under a license of your choice so that others know how to reuse your work (see {ref}`rr-licensing`).
 Furthermore, you can get a digital object identifier or DOI by uploading your presentation files to a server of your choice (like [Zenodo](https://zenodo.org/) and [FigShare](https://figshare.com/)).
-See the chapter on {ref}`DOI<rr-credit-make-doi>` for details.
+See the chapter on {ref}`DOI<cm-citable-steps-doi>` for details.

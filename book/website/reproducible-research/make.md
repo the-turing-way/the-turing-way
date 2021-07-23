@@ -41,7 +41,7 @@ Makefile that contains the *rules* for what to build. Make builds *targets*
 using *recipes*.  Targets can optionally have *prerequisites*.  Prerequisites
 can be files on your computer or other targets. Make determines what to build
 based on the dependency tree of the targets and prerequisites (technically,
-this is a {ref}`rr-make-resources-dag`). It uses the *modification time* of
+this is a {ref}`rr-make-resources-tools`). It uses the *modification time* of
 prerequisites to update targets only when needed.
 
 (rr-make-why)=

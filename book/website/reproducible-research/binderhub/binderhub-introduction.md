@@ -10,7 +10,7 @@ Binder, as a user interface, is useful for reproducibility because the code need
 Each change to the code repository also forces a new build of the Binder instance.
 This acts as a proxy for continuous integration of the computational environment as the Binder instance will break if the configuration file is not updated.
 
-Learn more about Continuous Integration in [this chapter](../continuous_integration/continuous_integration).
+Learn more about Continuous Integration {ref}`here<rr-ci>`.
 
 ## How does a BinderHub work?
 

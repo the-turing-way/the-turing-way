@@ -97,4 +97,4 @@ While reading this chapter, please be aware that you may need to make adjustment
 
 Two more points are crucial for ensuring the effectiveness of a collaborative project: addressing technical issues and valuing the importance of diversity in team building.
 
-We have explained them in the next subchapters on {ref}`Addressing Technical Issues<cm-new-community-techissue>` and {ref}`Valuing Diversity and Differences<cm-new-community-differences>`.
+We have explained them in the next subchapters on {ref}`Addressing Technical Issues<cm-new-community-techissue>` and {ref}`Valuing Diversity and Differences<cl-new-community-differences>`.

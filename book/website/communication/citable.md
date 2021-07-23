@@ -35,7 +35,7 @@ One of the consequences of this system is that labour which *doesn't* result in 
 Establishing good citation practices using persistent and citable identifiers for non-article content is a step towards recognising this valuable work and encouraging more people to take it up.
 If you can demonstrate the impact of your reproducible research work in addition to more traditional research outputs, you can justify spending more time on doing things right.
 
-We describe, how you can {ref}`prepare your research object to be citable<rr-credit-make>`, {ref}`how others can cite them<rr-credit-cite>` (or you can cite others work) and how you can use them to {ref}`gain recognition and build your profile<rr-credit-recognise>`.
+We describe, how you can {ref}`prepare your research object to be citable<cm-citable-steps>`, {ref}`how others can cite them<cm-citable-cite>` (or you can cite others work) and how you can use them to {ref}`gain recognition and build your profile<cm-citable-orcid>`.
 
 (cm-citable-contribute)=
 ## Contribute to this Chapter

@@ -124,9 +124,7 @@
       file: reproducible-research/renv/renv-virtualmachine
     - title: Containers
       file: reproducible-research/renv/renv-containers
-    - title: Checklist
-      file: reproducible-research/renv/renv-checklist
-    - title: Resources
+    - title: Resources and Checklist
       file: reproducible-research/renv/renv-resources
   - title: BinderHub
     file: reproducible-research/binderhub
@@ -227,7 +225,7 @@
     file: reproducible-research/case-studies
     sections:
     - title: A Statistical Methods Manuscript
-      file: reproducible-research/case-studies/statistical-methods-manuscript
+      file: reproducible-research/case-studies/case-study-statistical
 
 # ===== Project Design Guide ========================================
 
@@ -331,10 +329,12 @@
       file: communication/citable/citable-steps
     - title: Citing Research Objects
       file: communication/citable/citable-cite
+    - title: Linking Research Objects
+      file: communication/citable/citable-linking    
     - title: ORCID to Collect your Research Objects
       file: communication/citable/citable-orcid
-    - title: Checklist and Recommendations
-      file: communication/citable/citable-checklist
+    - title: Checklists and Resources
+      file: communication/citable/citable-resources
   - title: Communications in Open Source Projects
     file: communication/os-comms
     sections:
@@ -342,8 +342,6 @@
       file: communication/os-comms/os-comms-issue-tracking
     - title: Communication Channels
       file: communication/os-comms/os-comms-channels
-    - title: Further Reading
-      file: communication/os-comms/os-comms-resources
 
 # ===== Collaboration Guide ========================================
 
@@ -548,11 +546,11 @@
 - title: Afterword
   file: afterword/afterword
   sections:
+  - title: Legal Disclaimer
+    file: afterword/legal-disclaimer
   - title: Glossary
     file: afterword/glossary
   - title: Bibliography
     file: afterword/bibliography
   - title: Contributors Record
     file: afterword/contributors-record
-  - title: Legal Disclaimer
-    file: afterword/legal-disclaimer
