@@ -114,6 +114,7 @@ You can find more details and background in the chapter [Leveraging the Turing W
 ## [Open Life Science](https://openlifesci.org/)
 
 Under the collaboration name OLS-4 for Turing, _The Turing Way_ collaborates with [Open Life Science (OLS)](https://openlifesci.org), a programme that helps individuals and stakeholders in research to become Open Science ambassadors.
+This programme is cofounded by Bérénice Batut, Malvika Sharan and Yo Yehudi.
 This collaboration offers training and mentoring to interested members from Turing and The Turing Way communities to join the OLS programme individually or in teams.
 They develop Open Science aspects in the projects that they either already have been working on or want to develop in the near future.
 
