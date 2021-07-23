@@ -69,9 +69,13 @@ You can see the [Contributors Table](#contributors) to see the GitHub profiles o
 
 :construction: This repository is always a work in progress and **everyone** is encouraged to help us build something that is useful to the many. :construction:
 
-Everyone is asked to follow our [code of conduct](CODE_OF_CONDUCT.md) and to check out our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
+Everyone who joins the project is expected to follow our [code of conduct](CODE_OF_CONDUCT.md) and to check out our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
+We want to meet our contributors where they are.
+As you join the community, you will have opportunities to learn new skills, share your ideas and collaborate with others.
+You will also be supported to share your skills and resources, as well as review others’ contributions.
 
-If you are not familiar or confident contributing on GitHub, you can also contribute a case study and your tips and tricks via our [Google submission form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
+We also provide mentorship in the project and encourage our participants and member to represent this project and community.
+We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) to help you give presentations and share this project with others in your network.
 
 ### Citing _The Turing Way_
 
