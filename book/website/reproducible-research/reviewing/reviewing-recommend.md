@@ -1,3 +1,4 @@
+(rr-reviewing-recommendation)=
 # Recommendations and best practices
 
 ## Who reviews?
@@ -36,7 +37,7 @@ This is all to the good.
 Code reviews should strive to be as objective as possible.
 Of course, subjective coding preferences may come up in any project.
 However, such preferences wherever possible should be decided at the project level beforehand.
-Thus, one can avoid the situation where an opinion might be passed of as fact.
+Thus, one can avoid the situation where an opinion might be passed off as fact.
 Instead suggestions can be supported by pointing to documented preferences that have been set up in advance.
 If you do come across undocumented preferences, discuss them with the team again and agree if you would like to add the preference to the checklist of your code review process.
 

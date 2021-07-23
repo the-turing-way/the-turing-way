@@ -1,5 +1,13 @@
 # Limitations and best practices
 
+```{figure} ../../figures/continuous-integration-may19.jpg
+---
+name: continuous-integration-may19
+alt: Illustration of continuous integration showing the lifecycle of continuous integration to plan, create and incorporate changes and updates to data. The image shows these four steps in the lifecycle arranged in a circle and connected by arrows.
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
 ## Table of contents
 
 - [Limitations of CI](#Limitations_of_CI)

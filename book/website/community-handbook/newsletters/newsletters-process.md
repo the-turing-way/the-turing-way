@@ -13,7 +13,7 @@ After all, these newsletters land in someone's personal mailbox and most likely 
 ### Create a GitHub issue to collect items
 
 Create a new GitHub issue where throughout the month you and other community members can suggest news items as a comment.
-For example, in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1037), several members could suggest news items to include in the next newsletter, in this case for June 2020. 
+For example, in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1037), several members could suggest news items to include in the next newsletter, in this case for June 2020.
 Such GitHub issues can be published in the current newsletter inviting contributions from the readers and community members for the next month.
 
 ### Start a draft
@@ -36,7 +36,7 @@ Based on what we currently publish, collect information from the listed resource
 1. **Community meetings**: review the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon) for upcoming events such as Collaboration Café, book dash and workshops.
 
 2. **News from the community**: check Twitter for updates on the [official account](https://twitter.com/turingway) and the [#TuringWay Hashtag](https://twitter.com/hashtag/TuringWay?src=hashtag_click, see the Github repository for [issues](https://github.com/alan-turing-institute/the-turing-way/issues) for ongoing discussions, recently [merged PRs](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) and new chapters.
-You can also ask in the [Slack channel](theturingway.slack.com) if someone would like to add something to the newsletter.
+You can also ask in the [Slack channel](https://theturingway.slack.com) if someone would like to add something to the newsletter.
 In this part, also highlight any important milestones in the project that were either established or achieved over the last month.
 
 4. **Relevant resources for the community**: check Twitter and online posts for any recent publication from the community members, resources for training or skill-building or any other materials like blog posts or articles published in the network that could be useful for others.
@@ -50,7 +50,7 @@ The newsletter should focus more on the contributing and new members, and highli
 
 ### Collect images associated with the news item
 
-Following the recommendations on {ref}`style guide for community<ch-style-guide>` and {ref}`style guide for newsletters<ch-newsletters-style>` for using images, collect a few images (maximum 2 per section).
+Following the recommendations on {ref}`style guide for community<ch-style>` and {ref}`style guide for newsletters<ch-newsletters-style>` for using images, collect a few images (maximum 2 per section).
 Make sure that these images are available under a free license (like CC-BY), collected with the link of their sources, and named clearly as suggested in the style guide.
 
 For the twitter mentions, there is no fixed number of screenshots, but 4-6 tweets look less crowded in the newsletter.
@@ -93,7 +93,7 @@ After the review process, each reviewer's name can be added under the special me
 
 ### Publication process
 
-We are currently using [TinyLetter](tinyletter.com/) to publish our newsletters.
+We are currently using [TinyLetter](https://tinyletter.com/) to publish our newsletters.
 TinyLetter is a subsidiary of [MailChimp](https://mailchimp.com/), that offers a simplified interface based free service for setting up an email newsletter and sharing it with subscribers.
 
 Here are the steps for publishing the newsletter draft online and send by email to the subscribed members:
@@ -113,5 +113,5 @@ Here are the steps for publishing the newsletter draft online and send by email 
 
 - Update the index table in the [README.md file](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/README.md) with the details of the newly published newsletter.
 - Tweet about it from [@turingway](https://twitter.com/turingway).
-- Send a notification on [Gitter](https://gitter.im/alan-turing-institute/the-turing-way) and [Slack](theturingway.slack.com) channels.
+- Send a notification on [Gitter](https://gitter.im/alan-turing-institute/the-turing-way) and [Slack](https://theturingway.slack.com) channels.
 - Do a celebratory dance! (This is mandatory! 💃)

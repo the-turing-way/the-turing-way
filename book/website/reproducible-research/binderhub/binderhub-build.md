@@ -1,3 +1,4 @@
+(rr-binderhub-build)=
 # Build your own BinderHub
 
 [mybinder.org](https://mybinder.org/) is the free, public BinderHub that hosts almost 100k Binder launches per week.

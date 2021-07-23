@@ -39,15 +39,6 @@ You can read notes from the calls from the most recent book dash [here](https://
 The invited participants join the core team for an introduction session a day before the book dash event.
 This is a chance to everyone to meet the participants and helpers informally, learn about each other and connect with specific members who plan to work on related topic during the book dash.
 
-<!---
-```{figure} ../../figures/book-dash-feb20-intro1.jpg
----
-height: 500px
-name: book-dash-feb20-intro1
-alt: Three participants, Heidi, Esther and Adina, exchanging local sweets and snacks.
----
-Three of our participants, Heidi, Esther and Adina, exchanging local sweets and snacks from their home country at the beginning of the event (picture by Kirstie Whitaker).
-```--->
 In a dedicated hour, the core team members provide an overview of _The Turing way_ project and resources that are available for the participants for their book dash contributions.
 The next hours are dedicated to the participants brainstorming in small groups, organising their thoughts and ideas for contributions the next day, sharing their plans with other participants at the end of the session and identifying their collaborators based on the similarity of their interests.
 
@@ -133,7 +124,7 @@ Everyone interested in learning from or developing this project can join us for 
 
 Participants can sign up on this HackMD to attend the upcoming calls: https://hackmd.io/@KirstieJane/CollabCafe.
 Anyone who would like to host these calls at other times, please get in touch with the team members.
-See more details in the chapter {ref}`Coworking Call<ch-coworking-calls>`
+See more details in the chapter {ref}`Coworking Call<ch-coworking-weekly>`
 
 ### Reviewing an open pull requests
 

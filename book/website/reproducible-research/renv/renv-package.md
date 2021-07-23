@@ -36,23 +36,23 @@ This would be extremely annoying and is a step that risks being forgotten.
 
 All of these options are extremely poor, hence the utility of Conda for creating distinct environments that are easily interchangeable.
 
-Conda can also be used to capture and export computational environments easily. 
+Conda can also be used to capture and export computational environments easily.
 It can go in the other direction too; it can generate computational environments from configuration files which can be used to recreate someone else's environment.
 
 Another benefit of Conda is that it offers much greater flexibility to users who do not have admin privileges on the machines they are working on (as is very common when working with high-performance computing facilities).
 Without Conda, it is typically challenging to install required software onto such machines.
 However, because Conda creates and changes _new_ environments rather than making changes to a machine's overall system environment, admin privileges are not required.
 
-Finally, while Conda is Python-centric to a degree, it is also well-integrated for use with other languages. 
+Finally, while Conda is Python-centric to a degree, it is also well-integrated for use with other languages.
 For example, the base version of Conda includes the C++ standard library.
 
 (rr-renv-package-installing)=
 ## Installing Conda
 
-Note that these installation instructions are directed towards Linux systems. 
+Note that these installation instructions are directed towards Linux systems.
 Instructions for installing Conda on Windows or Mac systems can be found [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/).
 
-Go to [https://repo.continuum.io/miniconda/](https://repo.continuum.io/miniconda/) and download the latest Miniconda 3 installer for your system (32 bit or 64 bit). It will have a name like `miniconda_version_number.sh`. 
+Go to [https://repo.continuum.io/miniconda/](https://repo.continuum.io/miniconda/) and download the latest Miniconda 3 installer for your system (32 bit or 64 bit). It will have a name like `miniconda_version_number.sh`.
 Run the installer using:
 
 ```
@@ -70,10 +70,10 @@ which should output a version number.
 (rr-renv-package-using)=
 ## Making and Using Environments
 
-Conda automatically installs a base environment with some commonly used software packages. 
+Conda automatically installs a base environment with some commonly used software packages.
 It is possible to work in this base environment; however, it is good practice to create a new environment for every project you start.
 
-To create an environment, use `conda create --name your_project_env_name` followed by a list of packages to include. 
+To create an environment, use `conda create --name your_project_env_name` followed by a list of packages to include.
 To include the `scipy` and `matplotlib` packages, add them to the end of the command:
 
 ```
@@ -92,7 +92,7 @@ When creating environments, you can also specify versions of languages to instal
 conda create --name Project_One python=3.7.1 scipy=1.2.1 matplotlib
 ```
 
-Now that an environment has been created, it is time to activate (start using) it via `conda activate environment_name`. 
+Now that an environment has been created, it is time to activate (start using) it via `conda activate environment_name`.
 So in this example:
 
 ```
@@ -160,7 +160,7 @@ conda remove package_name
 
 This is the best way to install packages from within Conda as it will also install a Conda-tailored version of the package.
 However, it is possible to use other methods if a Conda-specific version of a package is not available.
-For example, `pip` is commonly used to install Python packages. 
+For example, `pip` is commonly used to install Python packages.
 So, a command like:
 
 ```
@@ -191,7 +191,7 @@ To check if a particular package is installed, for example, `scipy` in this case
 conda list scipy
 ```
 
-A Conda channel is where it downloaded a package from. 
+A Conda channel is where it downloaded a package from.
 Common channels include `Anaconda` (a company which provides the defaults conda package channel), and `conda-forge` (a community-driven packaging endeavour).
 You can explicitly install a package from a certain channel by specifying it like:
 
@@ -202,7 +202,7 @@ conda install -c channel_name package_name
 (rr-renv-package-exporting)=
 ## Exporting and Reproducing Computational Environments
 
-Conda environments can be exported easily to human-readable files in the YAML format. 
+Conda environments can be exported easily to human-readable files in the YAML format.
 YAML files are discussed in more detail {ref}`later <rr-renv-yaml>` in this chapter.
 
 To export a conda environment to a file called `environment.yml`, activate the environment and then run:

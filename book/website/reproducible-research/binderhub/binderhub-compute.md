@@ -1,3 +1,4 @@
+(rr-binderhub-compute)=
 # Compute Resources
 
 BinderHub is cloud-neutral which means it can be deployed on any cloud platform.
