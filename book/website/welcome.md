@@ -1,7 +1,9 @@
 (welcome)=
 # Welcome
 
-_The Turing Way_ is an open-source community-driven book about how to do reproducible, ethical, inclusive and collaborative data science.
+_The Turing Way_ is a handbook to reproducible, ethical, inclusive and collaborative data science. 
+
+The project is open source (anyone can [inspect the code](https://github.com/alan-turing-institute/the-turing-way), open contribution (anyone can {ref}`contribute<ch-contributing>`), and open-licenced (anyone can [re-use the materials](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
 
 Our goal is to provide all the information that data scientists in academia, industry, government and the third sector need to ensure that the projects they work on are easy to reproduce and reuse.
 
