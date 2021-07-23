@@ -110,3 +110,22 @@ You can find more details and background in the chapter [Leveraging the Turing W
 
 * Personal highlights:
 > TBA
+
+## [Remote Computational Project Resource](https://isabelbirds.github.io/Remote-Computational-Project-Resource/welcome.html)
+
+This resource was started by Isabel Birds during the COVID-19 pandemic to support students transferred from wet to remote dry lab projects at short notice.
+This project includes links to (1) general tutorials for the complete beginner, (2) tutorials for specific analyses or pipelines, (3) free online textbooks, and (4) places to ask for help.
+
+### Isabel Birds
+
+* Role: The Turing Way Contributor
+* GitHub id: [IsabelBirds](http://github.com/IsabelBirds)
+* ORCID: [0000-0001-8173-3879](https://orcid.org/0000-0001-8173-3879)
+* Short bio:
+> Isabel is a PhD candidate at University of Leeds working on dissecting the function and molecular evolution of long non-coding RNAs Supervised by Dr Julie Aspden, Dr Mary J O’Connell and Dr David Westhead.
+> She has been interested in molecular evolution and the applications of bioinformatic techniques throughout her degree, and developed these interests while undertaking research projects in the Aspden and O’Connell labs.  
+> She also has experience of scientific research from a funders perspective, gained during her year in industry and numerous summer internships with Yorkshire Cancer Research.
+
+* Personal highlights:
+> After learning about the Turing Way I was inspired to create a site aimed at a wider audience. The Turing Way tutorials helped me to set up my first Jupyter Book, helped me to create the site in a way that is open to contributions, and made sharing my work openly less scary! The Turing Way also pops up a few times in the resources listed.
+> The aim of the resource is to make starting a computational project less overwhelming by curating links to tutorials and online textbooks. Skills such as file management or asking for help effectively are also highlighted, along with entertaining things like podcasts as a reminder that research can be fun!
