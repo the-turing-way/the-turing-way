@@ -1,14 +1,13 @@
 (welcome)=
 # Welcome
 
-_The Turing Way_ is an open source community-driven guide to reproducible, ethical, inclusive and collaborative data science.
+_The Turing Way_ is a handbook to reproducible, ethical and collaborative data science. 
 
-Our goal is to provide all the information that data scientists in academia, industry, government and the third sector need at the start of their projects to ensure that they are easy to reproduce and reuse at the end.
+The project is open source (anyone can [inspect the code](https://github.com/alan-turing-institute/the-turing-way)), open contribution (anyone can {ref}`contribute<ch-contributing>`), and open licenced (anyone can [re-use the materials](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
 
-The book started as a guide for reproducibility, covering version control, testing, and continuous integration.
-However, technical skills are just one aspect of making data science research "open for all".
+Our goal is to provide all the information that data scientists in academia, industry, government and the third sector need to ensure that the projects they work on are easy to reproduce and reuse.
 
-In February 2020, _The Turing Way_ expanded to a series of books covering reproducible research, project design, communication, collaboration, and ethical research.
+Warning: Do not try to read the _The Turing Way_ from start to finish. Take a [buffet approach](https://mobile.twitter.com/rossdavism/status/1138441421143400453). Browse the different guides that make up the book, or use the search box to search for whatever you would like to learn about first.
 
 ```{figure} figures/welcome.jpg
 ---
@@ -37,7 +36,7 @@ Please use and re-use whatever you need, for any purpose.
 The book is collaboratively written and open from the start.
 To make this project truly accessible and useful for everyone, we invite you to contribute your skills and bring your perspectives into this project.
 To join this community, please read our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) and ways to [get in touch](https://github.com/alan-turing-institute/the-turing-way#get-in-touch).
-More information about the community and the project is available in the [Community Handbook](./community-handbook/community-handbook).
+More information about the community and the project is available in the {ref}`ch`.
 We look forward to expanding and building _The Turing Way_ together.
 
 
@@ -60,6 +59,11 @@ Accordingly, everyone who participates in _The Turing Way_ project is expected t
 All contributions must abide by our [code of conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md).
 
 ![Gif showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table](https://media.giphy.com/media/gKIUisnjpj2PS75nOJ/giphy.gif)
+
+(welcome-history)=
+## History
+
+The book started in January 2019 as a guide for reproducibility, covering {ref}`rr-vcs`, {ref}`rr-testing`, and {ref}`rr-ci`. However, technical skills are just one aspect of making data science research "open for all" and so in February 2020, _The Turing Way_ expanded into a series of guides: {ref}`rr`, {ref}`pd`, {ref}`cm`, {ref}`cl`, and {ref}`er`.
 
 (welcome-citing)=
 ## Citing _The Turing Way_
