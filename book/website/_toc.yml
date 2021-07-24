@@ -285,9 +285,8 @@ chapters:
 
 # ===== Guide for Communication ========================================
 
-- caption: Guide for Communication
 - file: communication/communication
-  chapters:
+  sections:
   - title: Overview of Guide for Communication
     file: communication/comms-overview
     sections:
