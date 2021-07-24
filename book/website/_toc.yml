@@ -11,12 +11,12 @@
 
 root: welcome
 format: jb-book
-parts:
+chapters:
 
 # ===== Guide for Reproducible Research ========================================
-- caption: Guide for Reproducible Research
+
 - file: reproducible-research/reproducible-research
-  chapters:
+  sections:
   - title: Overview
     file: reproducible-research/overview
     sections:
@@ -234,9 +234,8 @@ parts:
 
 # ===== Guide for Project Design ========================================
 
-- caption: Guide for Project Design
 - file: project-design/project-design
-  chapters:
+  sections:
   - title: Overview of Project Design
     file: project-design/pd-overview
     sections:
@@ -352,9 +351,8 @@ parts:
 
 # ===== Guide for Collaboration ========================================
 
-- caption: Guide for Collaboration
 - file: collaboration/collaboration
-  chapters:
+  sections:
   - title: Getting Started With GitHub
     file: collaboration/github-novice
     sections:
@@ -419,9 +417,8 @@ parts:
 
 # ===== Guide for Ethical Research ========================================
 
-- caption: Guide for Ethical Research
 - file: ethical-research/ethical-research
-  chapters:
+  sections:
   - title: Introduction to Research Ethics
     file: ethical-research/ethics-intro
   - title: Research Ethics Committees Workflows
@@ -453,9 +450,8 @@ parts:
 
 # ===== Community Handbook ========================================
 
-- caption: Community Handbook
 - file: community-handbook/community-handbook
-  chapters:
+  sections:
   - title: Code of Conduct
     file: community-handbook/coc
     sections:
@@ -554,9 +550,8 @@ parts:
 
 # ===== Afterward Section ========================================
 
-- caption: Afterword
 - file: afterword/afterword
-  chapters:
+  sections:
   - title: Legal Disclaimer
     file: afterword/legal-disclaimer
   - title: Glossary
