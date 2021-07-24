@@ -13,7 +13,8 @@ root: welcome
 format: jb-book
 parts:
 
-# ===== Reproducible Research Guide ========================================
+# ===== Guide for Reproducible Research ========================================
+- caption: Guide for Reproducible Research
 - file: reproducible-research/reproducible-research
   chapters:
   - title: Overview
@@ -231,8 +232,9 @@ parts:
     - title: A Statistical Methods Manuscript
       file: reproducible-research/case-studies/case-study-statistical
 
-# ===== Project Design Guide ========================================
+# ===== Guide for Project Design ========================================
 
+- caption: Guide for Project Design
 - file: project-design/project-design
   chapters:
   - title: Overview of Project Design
@@ -282,8 +284,9 @@ parts:
     - title: Code Styling Tools
       file: project-design/code-styling/code-styling-tools
 
-# ===== Communication Guide ========================================
+# ===== Guide for Communication ========================================
 
+- caption: Guide for Communication
 - file: communication/communication
   chapters:
   - title: Overview of Guide for Communication
@@ -347,8 +350,9 @@ parts:
     - title: Communication Channels
       file: communication/os-comms/os-comms-channels
 
-# ===== Collaboration Guide ========================================
+# ===== Guide for Collaboration ========================================
 
+- caption: Guide for Collaboration
 - file: collaboration/collaboration
   chapters:
   - title: Getting Started With GitHub
@@ -413,7 +417,9 @@ parts:
     - title: Perceived Pros and Cons
       file: collaboration/remote-collab/remote-collab-prosandcons
 
-# ===== Ethical Research Guide ========================================
+# ===== Guide for Ethical Research ========================================
+
+- caption: Guide for Ethical Research
 - file: ethical-research/ethical-research
   chapters:
   - title: Introduction to Research Ethics
@@ -445,8 +451,9 @@ parts:
   - title: Internal Policy Advocacy
     file: ethical-research/internal-policy
 
-# ===== Community Handbook Guide ========================================
+# ===== Community Handbook ========================================
 
+- caption: Community Handbook
 - file: community-handbook/community-handbook
   chapters:
   - title: Code of Conduct
@@ -547,8 +554,8 @@ parts:
 
 # ===== Afterward Section ========================================
 
-- title: Afterword
-  file: afterword/afterword
+- caption: Afterword
+- file: afterword/afterword
   chapters:
   - title: Legal Disclaimer
     file: afterword/legal-disclaimer
