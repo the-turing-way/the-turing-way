@@ -15,7 +15,7 @@ parts:
 
 # ===== Reproducible Research Guide ========================================
 - file: reproducible-research/reproducible-research
-  chapters:
+  sections:
   - title: Overview
     file: reproducible-research/overview
     sections:
