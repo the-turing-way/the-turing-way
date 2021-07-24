@@ -547,7 +547,7 @@ chapters:
     - title: Template for Drafting Newsletters
       file: community-handbook/templates/template-newsletter-draft
 
-# ===== Afterword Section ========================================
+# ===== Afterword ========================================
 
 - file: afterword/afterword
   sections:
