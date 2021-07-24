@@ -16,7 +16,7 @@ For simplicity, we will use GitHub as an example to explain commands that are us
 (rr-vcs-github-local)=
 ## Create a Local Copy of an Online Repository
 
-So far, all Git commands introduced in this chapter concerned local, unconnected Git repositories.
+So far, all Git commands introduced in this chapter are concerned with local, unconnected Git repositories.
 In order to collaborate with others, hosting services, such as GitHub, can store a *clone* (a copy) of your local repository and expose it to others.
 Usually, you will have a local repository and a *remote*, web-hosted repository.
 Your local repository is connected to the web-based clone.
@@ -67,7 +67,7 @@ When you want to push them to your online version, similarly you do:
 git push origin branch_you_want_to_push_to
 ```
 
-You can also make changes directly on the GitHub by editing the online repository, and *pull* those changes locally by using the `git pull` command.
+You can also make changes directly on GitHub by editing the online repository, and *pull* those changes locally by using the `git pull` command.
 
 Others can also clone the repository to their computer by using:
 
@@ -177,7 +177,7 @@ git checkout my-other-branch
 git pull origin master
 ```
 
-When everything is  up-to-date, you can work on your branch and commit changes.
+When everything is up-to-date, you can work on your branch and commit changes.
 
 When you are ready to push your local commits to your forked repository (origin), use the following command.
 
