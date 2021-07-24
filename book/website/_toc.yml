@@ -15,7 +15,7 @@ parts:
 
 # ===== Reproducible Research Guide ========================================
 - file: reproducible-research/reproducible-research
-  sections:
+  chapters:
   - title: Overview
     file: reproducible-research/overview
     sections:
@@ -234,7 +234,7 @@ parts:
 # ===== Project Design Guide ========================================
 
 - file: project-design/project-design
-  sections:
+  chapters:
   - title: Overview of Project Design
     file: project-design/pd-overview
     sections:
@@ -285,7 +285,7 @@ parts:
 # ===== Communication Guide ========================================
 
 - file: communication/communication
-  sections:
+  chapters:
   - title: Overview of Guide for Communication
     file: communication/comms-overview
     sections:
@@ -350,7 +350,7 @@ parts:
 # ===== Collaboration Guide ========================================
 
 - file: collaboration/collaboration
-  sections:
+  chapters:
   - title: Getting Started With GitHub
     file: collaboration/github-novice
     sections:
@@ -415,7 +415,7 @@ parts:
 
 # ===== Ethical Research Guide ========================================
 - file: ethical-research/ethical-research
-  sections:
+  chapters:
   - title: Introduction to Research Ethics
     file: ethical-research/ethics-intro
   - title: Research Ethics Committees Workflows
@@ -448,7 +448,7 @@ parts:
 # ===== Community Handbook Guide ========================================
 
 - file: community-handbook/community-handbook
-  sections:
+  chapters:
   - title: Code of Conduct
     file: community-handbook/coc
     sections:
@@ -549,7 +549,7 @@ parts:
 
 - title: Afterword
   file: afterword/afterword
-  sections:
+  chapters:
   - title: Legal Disclaimer
     file: afterword/legal-disclaimer
   - title: Glossary
