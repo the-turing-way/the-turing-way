@@ -11,7 +11,7 @@ This section will walk you through the basic setup of continuous integration (CI
 
 GitHub Actions are event-driven, which means it responds to any event (Examples: pull request (PR) created, issue created) and triggers an action (Examples: adds a label, runs tests, sort). Any collection of these actions is called a workflow. A more detailed description of this GitHub-related Vocabulary is described in the next section.
 
-```{figure} ../../figures/Github_Actions.jpg
+```{figure} ../../figures/github_actions.jpg
 ---
 width: 700px
 align: center
