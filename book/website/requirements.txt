@@ -6,4 +6,4 @@ matplotlib==3.2.2
 datascience
 folium
 jupyter-book==0.11.2
-sphinxcontrib-bibtex==1.0.0
+sphinxcontrib-bibtex~=2.2.0
