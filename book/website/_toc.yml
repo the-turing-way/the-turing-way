@@ -9,11 +9,13 @@
 
 # ===== Main Landing Page ========================================
 
-- file: welcome
+root: welcome
+format: jb-book
+parts:
 
 # ===== Reproducible Research Guide ========================================
 - file: reproducible-research/reproducible-research
-  sections:
+  chapters:
   - title: Overview
     file: reproducible-research/overview
     sections:
