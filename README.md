@@ -26,6 +26,8 @@ Our moonshot goal is to make reproducibility "too easy not to do".
 
 ![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](book/website/figures/README_imgs/README_book.png)
 
+*[Use this image in a presentation](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing)*
+
 You're currently viewing the project GitHub repository where all of the bits that make up the project live, and where the process of writing/building the guides happens.
 
 Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end.
