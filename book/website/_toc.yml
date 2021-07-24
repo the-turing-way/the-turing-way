@@ -184,13 +184,15 @@
       file: reproducible-research/reviewing/reviewing-checklist
     - title: Resources for code reviewing
       file: reproducible-research/reviewing/reviewing-resources
-  - title: Continuous Integration
+  - title: Continuous Integration (CI)
     file: reproducible-research/ci
     sections:
-    - title: Continuous integration options
+    - title: Intro to Continuous integration (CI)
       file: reproducible-research/ci/ci-options
-    - title: Continuous integration with Travis
-      file: reproducible-research/ci/ci-travis
+    - title: Getting started with GitHub actions
+      file: reproducible-research/ci/ci-github-actions
+    - title: Building a Block of a Github actions
+      file: reproducible-research/ci/ci-building-gh-actions.md
     - title: Best practices and recommendations
       file: reproducible-research/ci/ci-practices
     - title: Checklist
