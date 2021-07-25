@@ -18,13 +18,13 @@
 | **Build** | [![Netlify build](https://github.com/alan-turing-institute/the-turing-way/workflows/CI/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ACI+branch%3Amaster) [![Latin Phrases](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amaster) [![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amaster) [![Check for Lorem Ipsums](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amaster) |
 | **Cite** |  [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) |
 
-Our moonshot goal is to make reproducibility "too easy not to do".
+*Our moonshot goal is to make reproducibility "too easy not to do".*
 
-The Turing Way is an open source project that involves and supports its diverse community to make data science reproducible, ethical and collaborative for everyone.
+_The Turing Way_ is an open source project that involves and supports its diverse community to make data science reproducible, ethical and collaborative for everyone.
 
-Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end. 
-_The Turing Way_ aims to document and share best practices that make research and data science accessible, understandable, and hence, more effective.
-It means that all stakeholders, including researchers, software engineers, project leaders and funding teams, should be able to use _The Turing Way_ to appreciate their roles in data science and take "responsibility of reproducibility" in research.
+Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end.
+_The Turing Way_ contributors document and share best practices in research that make data science accessible, understandable, and hence, more effective.
+It means that all stakeholders, including researchers, software engineers, project leaders and funding teams, should be able to use _The Turing Way_ to understand their roles and take responsibility of reproducibility in data science.
 
 You're currently viewing the project's GitHub repository where all of the bits that make up the project live, and where the process of writing/building the guides happens.
 
