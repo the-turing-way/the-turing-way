@@ -20,13 +20,12 @@
 
 *Our moonshot goal is to make reproducibility "too easy not to do".*
 
-_The Turing Way_ is an open source project that involves and supports its diverse community to make data science reproducible, ethical and collaborative for everyone.
+_The Turing Way_ is an open source and community-led project to reproducible, ethical and collaborative data science.
+We involve and support a diverse community of contributors to make data science accessible, comprehensible, and hence, more effective for everyone.
+Our goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need at the start of their projects to ensure that they are easy to reproduce at the end.
 
-Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end.
-_The Turing Way_ contributors document and share best practices in research that make data science accessible, understandable, and hence, more effective.
-It means that all stakeholders, including researchers, software engineers, project leaders and funding teams, should be able to use _The Turing Way_ to understand their roles and take responsibility of reproducibility in data science.
-
-You're currently viewing the project's GitHub repository where all of the bits that make up the project live, and where the process of writing/building the guides happens.
+All stakeholders, including researchers, software engineers, project leaders and funding teams, are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
+You can inspect our resources on [GitHub](https://github.com/alan-turing-institute/the-turing-way), contribute to the project as described in our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) and re-use ([see the License](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
 
 [![The Turing Way project is a book, community, an open-source project and a culture of collaboration. This is shown in four illustrations, the first one showing the Turing Way book, the second showing how the community can grow, the third one showing two people collaborating on a pull request, the last one is showing a balance where reproducibility is valued more than the number of papers published](book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
 
