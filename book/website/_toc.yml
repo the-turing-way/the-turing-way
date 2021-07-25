@@ -9,9 +9,12 @@
 
 # ===== Main Landing Page ========================================
 
-- file: welcome
+root: welcome
+format: jb-book
+chapters:
 
-# ===== Reproducible Research Guide ========================================
+# ===== Guide for Reproducible Research ========================================
+
 - file: reproducible-research/reproducible-research
   sections:
   - title: Overview
@@ -229,7 +232,7 @@
     - title: A Statistical Methods Manuscript
       file: reproducible-research/case-studies/case-study-statistical
 
-# ===== Project Design Guide ========================================
+# ===== Guide for Project Design ========================================
 
 - file: project-design/project-design
   sections:
@@ -280,7 +283,7 @@
     - title: Code Styling Tools
       file: project-design/code-styling/code-styling-tools
 
-# ===== Communication Guide ========================================
+# ===== Guide for Communication ========================================
 
 - file: communication/communication
   sections:
@@ -345,7 +348,7 @@
     - title: Communication Channels
       file: communication/os-comms/os-comms-channels
 
-# ===== Collaboration Guide ========================================
+# ===== Guide for Collaboration ========================================
 
 - file: collaboration/collaboration
   sections:
@@ -411,7 +414,8 @@
     - title: Perceived Pros and Cons
       file: collaboration/remote-collab/remote-collab-prosandcons
 
-# ===== Ethical Research Guide ========================================
+# ===== Guide for Ethical Research ========================================
+
 - file: ethical-research/ethical-research
   sections:
   - title: Introduction to Research Ethics
@@ -443,7 +447,7 @@
   - title: Internal Policy Advocacy
     file: ethical-research/internal-policy
 
-# ===== Community Handbook Guide ========================================
+# ===== Community Handbook ========================================
 
 - file: community-handbook/community-handbook
   sections:
@@ -543,10 +547,9 @@
     - title: Template for Drafting Newsletters
       file: community-handbook/templates/template-newsletter-draft
 
-# ===== Afterward Section ========================================
+# ===== Afterword ========================================
 
-- title: Afterword
-  file: afterword/afterword
+- file: afterword/afterword
   sections:
   - title: Legal Disclaimer
     file: afterword/legal-disclaimer
