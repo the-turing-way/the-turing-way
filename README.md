@@ -18,7 +18,7 @@
 | **Build** | [![Netlify build](https://github.com/alan-turing-institute/the-turing-way/workflows/CI/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ACI+branch%3Amaster) [![Latin Phrases](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amaster) [![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amaster) [![Check for Lorem Ipsums](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amaster) |
 | **Cite** |  [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) |
 
-_The Turing Way_ is an open source and community-led project to reproducible, ethical and collaborative data science.
+_The Turing Way_ is an open source project to reproducible, ethical and collaborative data science.
 
 We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone.
 Our goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need at the start of their projects to ensure that they are easy to reproduce at the end.
@@ -66,7 +66,7 @@ This project is openly developed and any and all questions, comments and recomme
 
 ### The Team
 
-_The Turing Way_ a community-led project.
+_The Turing Way_ is an open collaboration and community-driven project.
 Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member. 
 Long-term contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project.
 
