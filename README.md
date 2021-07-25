@@ -18,20 +18,27 @@
 | **Build** | [![Netlify build](https://github.com/alan-turing-institute/the-turing-way/workflows/CI/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ACI+branch%3Amaster) [![Latin Phrases](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amaster) [![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amaster) [![Check for Lorem Ipsums](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amaster) |
 | **Cite** |  [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) |
 
-_The Turing Way_ is an open source project that aims to make data science and research reproducible, ethical and collaborative for everyone. 
-![The Turing Way project is a book, community, an open-source project and a culture of collaboration. This is shown in four illustrations, the first one showing the Turing Way book, the second showing how the community can grow, the third one showing two people collaborating on a pull request, the last one is showing a balance where reproducibility is valued more than the number of papers published](book/website/figures/README_imgs/README_turingway.png).
-
-_The Turing Way_ involves and supports diverse contributors in developing lightly opinionated guides online: <https://the-turing-way.netlify.com>.
 Our moonshot goal is to make reproducibility "too easy not to do".
 
-![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](book/website/figures/README_imgs/README_book.png)
+The Turing Way is an open source project that involves and supports its diverse community to make data science reproducible, ethical and collaborative for everyone.
 
-*[Use this image in a presentation](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing)*
+Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end. 
+_The Turing Way_ aims to document and share best practices that make research and data science accessible, understandable, and hence, more effective.
+It means that all stakeholders, including researchers, software engineers, project leaders and funding teams, should be able to use _The Turing Way_ to appreciate their roles in data science and take "responsibility of reproducibility" in research.
 
-You're currently viewing the project GitHub repository where all of the bits that make up the project live, and where the process of writing/building the guides happens.
+You're currently viewing the project's GitHub repository where all of the bits that make up the project live, and where the process of writing/building the guides happens.
 
-Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end.
-This also means making sure PhD students, postdocs, PIs and funding teams know which parts of the "responsibility of reproducibility" they can affect, and what they should do to nudge data science to be more efficient, effective and understandable.
+[![The Turing Way project is a book, community, an open-source project and a culture of collaboration. This is shown in four illustrations, the first one showing the Turing Way book, the second showing how the community can grow, the third one showing two people collaborating on a pull request, the last one is showing a balance where reproducibility is valued more than the number of papers published](book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
+
+*The Turing Way is a book, a community and a global collaboration.*
+
+Started in 2019 as a lightly opinionated guide to data science, _The Turing Way_ has since expanded into a series of guides on Reproducible Research, Project Design, Communication, Collaboration and Ethical Research.
+Each guide offers chapters on a range of topics covering best practices, guidance and recommendations.
+These chapters have been co-authored by contributors who are students, researchers, educators, community leaders, policy-makers and professionals from diverse backgrounds, lived experiences and domain knowledge.
+
+[![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
+
+*Front-page of The Turing Way webpage. [Use this image in a presentation](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing)*
 
 **Table of Contents:**
 
@@ -51,7 +58,8 @@ Reproducible research is necessary to ensure that scientific work can be trusted
 Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code.
 The goal is to ensure that all results can be independently verified and built upon in future work.
 This is sometimes easier said than done.
-Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists. As these activities are not commonly taught, we recognise that the burden of requirement and new skill acquisition can be intimidating to individuals who are new to this world.
+Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists. 
+As these activities are not commonly taught, we recognise that the burden of requirement and new skill acquisition can be intimidating to individuals who are new to this world.
 _The Turing Way_ is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do" even for people who have never worked in this way before.
 It will include training material on version control, analysis testing, and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
 This project is openly developed and any and all questions, comments and recommendations are welcome at our GitHub repository: <https://github.com/alan-turing-institute/the-turing-way>.
@@ -65,19 +73,24 @@ Long-term contributors of the project are considered part of the core contributo
 The project is coordinated by the lead investigators **Kirstie Whitaker** (founder) and **Malvika Sharan** (community developer) and hosted at [The Alan Turing Institute](https://www.turing.ac.uk/).
 
 You can read [_The Turing Way_ acknowledgement process](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) and [Record of Contributions](https://the-turing-way.netlify.app/afterword/contributors-record.html) to learn about how we acknowledge your work and how our contributors are highlighted in the project.
-You can see the [Contributors Table](#contributors) to see the GitHub profiles of all our contributors.
+Please see the [Contributors Table](#contributors) for the GitHub profiles of all our contributors.
 
 ### Contributing
-![This image shows six of many kinds of contributions that anyone can make. These are developed and share, Maintain and improve, share resources, review and update, make it global through translation, share best practices](book/website/figures/README_imgs/README_contributions.png)
+
 :construction: This repository is always a work in progress and **everyone** is encouraged to help us build something that is useful to the many. :construction:
 
 Everyone who joins the project is expected to follow our [code of conduct](CODE_OF_CONDUCT.md) and to check out our [contributing guidelines](CONTRIBUTING.md) for more information on how to get started.
 We want to meet our contributors where they are.
-As you join the community, you will have opportunities to learn new skills, share your ideas and collaborate with others.
-You will also be supported to share your skills and resources, as well as review others’ contributions.
+Therefore, we provide multiple entry points for you to contribute based on your interest, availability or skill requirements.
 
-We also provide mentorship in the project and encourage our participants and member to represent this project and community.
-We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) to help you give presentations and share this project with others in your network.
+![This image shows six of many kinds of contributions that anyone can make. These are: Develop and share, Maintain and improve, Share resources, Review and update, Make it global through translation, and Share best practices](book/website/figures/README_imgs/README_contributions.png)
+
+*Contributions include development and sharing of new chapters; maintenance and improvement of existing chapters; sharing _The Turing Way_ resources; review and updating of previously developed materials; translating its chapter to help make this project globally accessible, and sharing best practices in research.*
+
+Community members are provided with opportunities to learn new skills, share their ideas and collaborate with others.
+They are also given mentorship opportunities in the project as they make their contributions to _The Turing Way_ or other open source projects and are encouraged to mentor new participants of the project.
+
+We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) to help you in presenting and sharing about _The Turing Way_ in your network.
 
 ### Citing _The Turing Way_
 
@@ -121,16 +134,18 @@ You can contact *The Turing Way* team by emailing [theturingway@gmail.com](mailt
 
 You can also contact **Malvika Sharan** by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) or **Kirstie Whitaker** by emailing [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
 
+
+
 #### Chat
 
-Join us on Slack to connect with others and discuss your ideas, here is the [invitation link](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw).
+Connect with others and discuss your ideas on Slack using [this invitation link](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw).
 
-We also have a Gitter chat room and we'd love for you to swing by to say hello at <https://gitter.im/alan-turing-institute/the-turing-way>.
+We also have a Gitter chat room (if you prefer an open source alternative for chat) and we'd love for you to swing by to say hello at <https://gitter.im/alan-turing-institute/the-turing-way>.
 The room is also accessible with a [Matrix](https://matrix.org) account at [#alan-turing-institute_the-turing-way:gitter.im](https://matrix.to/#/#alan-turing-institute_the-turing-way:gitter.im).
 
-#### Updates
+#### Recieve Updates
 
-We have a tiny letter mailing list to which we send monthly project updates.
+We have a *tinyletter* mailing list to which we send monthly project updates.
 Subscribe at <https://tinyletter.com/TuringWay>.
 
 You can also follow us on Twitter ([@turingway](https://twitter.com/turingway)).
