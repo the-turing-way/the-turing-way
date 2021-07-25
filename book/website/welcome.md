@@ -4,7 +4,7 @@
 *Welcome to The Turing Way guides to reproducible, ethical and collaborative data science.*
 
 _The Turing Way_ is an open source and community-led project.
-We involve and support a diverse community of contributors to make data science accessible, comprehensible, and hence, more effective for everyone.
+We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone.
 Our goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need at the start of their projects to ensure that they are easy to reproduce at the end.
 
 ```{note}
@@ -14,7 +14,7 @@ Browse the different guides that make up the book, or use the search box to sear
 ```
 
 All stakeholders, including researchers, software engineers, project leaders and funding teams, are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
-You can inspect our resources on [GitHub](https://github.com/alan-turing-institute/the-turing-way), contribute to the project as described in our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) and re-use ([see the License](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
+You can inspect our resources on [GitHub](https://github.com/alan-turing-institute/the-turing-way), contribute to the project as described in our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
 
 ```{figure} figures/welcome.jpg
 ---
