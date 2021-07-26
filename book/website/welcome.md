@@ -7,7 +7,8 @@ _The Turing Way_ project is open source, open collaboration, and community-drive
 We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone.
 Our goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.
 
-```{note}
+```{admonition} Top Tip
+:class: tip
 _The Turing Way_ is not meant to be read from start to finish. 
 Start with a concept, tool or method that you need now, in your current work. 
 Browse the different guides that make up the book, or use the search box to search for whatever you would like to learn about first.
