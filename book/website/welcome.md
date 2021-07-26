@@ -1,7 +1,7 @@
 (welcome)=
 # Welcome
 
-*Welcome to The Turing Way guides to reproducible, ethical and collaborative data science.*
+*Welcome to The Turing Way handbook to reproducible, ethical and collaborative data science.*
 
 _The Turing Way_ is an open source, open collaboration and community-driven project.
 We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone.
