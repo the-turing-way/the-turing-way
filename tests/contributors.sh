@@ -14,7 +14,7 @@ cat $contributor_highlights >> $contributors_record
 # # Get linenumber where all contributors list starts
 echo '\n(contributors-record-all)=' >> $contributors_record
 echo '\n# All Contributors\n' >> $contributors_record
-echo '\n✨Using [all-contributors](https://allcontributors.org/) specification, _The Turing Way_ Recognises all contributors, not just the ones who push code. ✨' >> $contributors_record
+echo '\n✨Using [all-contributors](https://allcontributors.org/) specification, _The Turing Way_ recognises all contributors, not just the ones who push code. ✨' >> $contributors_record
 line_num=$(grep -n '## Contributors' $all_contributors | cut -d: -f1)
 echo '\n(contributors-record-contributors)=' >> $contributors_record
 
