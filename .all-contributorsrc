@@ -2669,6 +2669,15 @@
         "bug",
         "review"
       ]
+    },
+    {
+      "login": "DaisyParry",
+      "name": "DaisyParry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56261324?v=4",
+      "profile": "https://github.com/DaisyParry",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
