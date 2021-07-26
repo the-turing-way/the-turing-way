@@ -1,13 +1,21 @@
 (welcome)=
 # Welcome
 
-_The Turing Way_ is a handbook to reproducible, ethical and collaborative data science. 
+*Welcome to The Turing Way handbook to reproducible, ethical and collaborative data science.*
 
-The project is open source (anyone can [inspect the code](https://github.com/alan-turing-institute/the-turing-way)), open contribution (anyone can {ref}`contribute<ch-contributing>`), and open licenced (anyone can [re-use the materials](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
+_The Turing Way_ project is open source, open collaboration, and community-driven.
+We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone.
+Our goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.
 
-Our goal is to provide all the information that data scientists in academia, industry, government and the third sector need to ensure that the projects they work on are easy to reproduce and reuse.
+```{admonition} Top Tip
+:class: tip
+_The Turing Way_ is not meant to be read from start to finish. 
+Start with a concept, tool or method that you need now, in your current work. 
+Browse the different guides that make up the book, or use the search box to search for whatever you would like to learn about first.
+```
 
-Warning: Do not try to read the _The Turing Way_ from start to finish. Take a [buffet approach](https://mobile.twitter.com/rossdavism/status/1138441421143400453). Browse the different guides that make up the book, or use the search box to search for whatever you would like to learn about first.
+All stakeholders, including researchers, software engineers, project leaders and funding teams, are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
+You can inspect our resources on [GitHub](https://github.com/alan-turing-institute/the-turing-way), contribute to the project as described in our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
 
 ```{figure} figures/welcome.jpg
 ---
@@ -39,7 +47,6 @@ To join this community, please read our [contribution guidelines](https://github
 More information about the community and the project is available in the {ref}`ch`.
 We look forward to expanding and building _The Turing Way_ together.
 
-
 ```{figure} figures/theturingway-chapters.jpg
 ---
 name: theturingway-chapters
@@ -47,7 +54,6 @@ alt: The Turing Way Guide to reproducible research and it's stucture illustrated
 ---
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
 ```
-
 
 Although _The Turing Way_ receives support and funding from [The Alan Turing Institute](https://www.turing.ac.uk/), the project is designed to be a global collaboration.
 We have contributions from across the UK, and from India, Mexico, Australia, USA, and many European countries.
