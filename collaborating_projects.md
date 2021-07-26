@@ -75,7 +75,7 @@ Details of each members with their contributions have been listed alphabetically
 ## [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html)
 
 FAIR Cookbook is an online resource that helps researchers and data managers professionals make their data Findable, Accessible, Interoperable and Reusable (FAIR).
-FAIRPlus Cookbook builds on _The Turing Way_ project and community models, and provides chapters as "recipes" according to the FAIR elements, audience type , reading time, and level of difficulty.
+FAIRPlus Cookbook builds on _The Turing Way_ project and community models, and provides chapters as "recipes" according to the FAIR elements, audience type, reading time, and level of difficulty.
 
 _The Turing Way_ team members and [project's editorial board members](https://fairplus.github.io/the-fair-cookbook/content/recipes/boilerplate/people.html), Susanna-Assunta Sansone and Philippe Rocca-Serra, collaborate to ensure an interoperability between the two resources and exchange experiences as open source project developers.
 FAIR Cookbook [features relevant chapters from _The Turing Way_](https://fairplus.github.io/the-fair-cookbook/search.html?q=turing+way).
