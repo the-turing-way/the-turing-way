@@ -8,15 +8,6 @@ At the time of writing this chapter, We have identified the following models of 
 For the GitHub users contributing to an open source project, folloing roles are defined by the access levels: “Read -> Triage -> Write -> Maintain -> Admin” (see [GitHub page for reference](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/managing-team-access-to-an-organization-repository)).
 The different access levels define the increasing order of rights and responsibilities a contributor has in a project (see [GitHub documentation](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization) for details).
 
-```{figure} ../../figures/github-roles.png
----
-name: github-roles
-alt: This is a screenshot from the GitHub user setting, that shows contributor roles by what level of access they have in the repository.
-align: left
----
-A screenshot of the GitHub contributor roles: “Read, Triage, Write, Maintain, Admin”.
-```
-
 For GitHub organisations, there are options to [organise members into teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams) with different roles and access levels.
 Owner permissions for a GitHub organisation can be given to a group of people who manage the organization account such as granting permission levels to contributors as needed ([see details](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/permission-levels-for-an-organization)).
 
