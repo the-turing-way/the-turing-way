@@ -5,21 +5,26 @@ At the time of writing this chapter, We have identified the following models of 
 
 ## Roles Based on Level of Access
 
-For the GitHub users, a most familiar set of roles for code ownership includes the following access levels: “Read -> Triage -> Write -> Maintain -> Admin” (see [GitHub page for reference](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/managing-team-access-to-an-organization-repository)).
-The different access levels define the increasing order of rights and responsibilities a contributor has in a project.
+For the GitHub users contributing to an open source project, folloing roles are defined by the access levels: “Read -> Triage -> Write -> Maintain -> Admin” (see [GitHub page for reference](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/managing-team-access-to-an-organization-repository)).
+The different access levels define the increasing order of rights and responsibilities a contributor has in a project (see [GitHub documentation](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/repository-permission-levels-for-an-organization) for details).
 
 ```{figure} ../../figures/github-roles.png
 ---
 name: github-roles
 alt: This is a screenshot from the GitHub user setting, that shows contributor roles by what level of access they have in the repository.
+align: left
 ---
-A screenshot of the GitHub contributor roles: “Read, Triage, Write, Maintain, Admin”
+A screenshot of the GitHub contributor roles: “Read, Triage, Write, Maintain, Admin”.
 ```
 
-The default minimum permissions to ‘read’ allows reading, forking, creating issues, fixing easy bugs and suggesting minor changes.
+For GitHub organisations, there are options to [organise members into teams](https://docs.github.com/en/organizations/organizing-members-into-teams/about-teams) with different roles and access levels.
+Owner permissions for a GitHub organisation can be given to a group of people who manage the organization account such as granting permission levels to contributors as needed ([see details](https://docs.github.com/en/organizations/managing-peoples-access-to-your-organization-with-roles/permission-levels-for-an-organization)).
+
+The default minimum permissions for members allows reading, forking, creating issues, fixing bugs and suggesting minor changes.
 It is an easy pathway for new contributors to enter a project, however, not sufficient to feel like a part of the community.
 To foster a sense of shared ownership, the basic level of access should be ‘writers’, who can review new contributions, and make and approve changes allowing them to share responsibility for the development and maintenance of a project.
-Often these roles are not explicitly defined, and it is expected that contributors know what level of access they have and how they can be promoted to the next level by the project admins.
+
+If these roles are not explicitly defined, the burden will be put on contributors to find out what level of access they have and how they can be promoted to the next levels.
 
 ## Open Source Leadership and Governance
 
