@@ -33,11 +33,11 @@ One way to do it is to have essential community documents demonstrating the comm
 
 Below, we list a few action points that each of us can take within our open source projects.
 
-**Call to actions!**
+**Call to action!**
 
 ### Contributors documents
 
-Adding a contribution guideline and Code of conduct have become a standard practice in the open source community projects (see [Open Source Guide for reference](https://opensource.guide/building-community/)).
+Adding a contribution guideline and Code of conduct has become a standard practice in the open source community projects (see [Open Source Guide for reference](https://opensource.guide/building-community/)).
 Additionally, a ‘contributors’ page must be added to the project repository to display the names of all the contributors.
 See the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) and {ref}`Contributors Record<contributors-record-highlights>` in _The Turing Way_.
 
