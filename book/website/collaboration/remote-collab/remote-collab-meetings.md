@@ -118,4 +118,4 @@ We have listed them in chronological order and divided into sections for "before
 - If the meeting call was recorded, process and share the recorded video with everyone.
 - Send a thank you email with the link to the complete notes and other relevant information.
 
-***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`dsg`).*
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*
