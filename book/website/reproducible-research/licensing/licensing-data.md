@@ -94,4 +94,4 @@ The [Data Curation Center (DCC) guide](https://www.dcc.ac.uk/guidance/how-guides
 
 If you would like to read more about the challenges and finer points of licensing, [this article](https://research.okfn.org/avoiding-data-use-silos/) is a great resource to get you started.
 
-***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`dsg`).*
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*
