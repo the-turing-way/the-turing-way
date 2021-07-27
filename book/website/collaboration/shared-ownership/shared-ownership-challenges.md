@@ -6,7 +6,7 @@ Specifically, it is difficult to apply shared ownership models retroactively for
 
 ## Strong Ownership
 
-A “strong-ownership” model is When a single contributor or small group of developers feel a strong sense of ownership over the project.
+A “strong-ownership” model is when a single contributor or small group of developers feel a strong sense of ownership over the project.
 It essentially assigns ownership of the project to a few individuals: although the source code may be freely available, projects are often not open for collaboration or do not incentivise contribution.
 This is a two-pronged problem - in the immediate term it prevents the building up of effective user and developer communities who could help to improve the software and in the long term, it may mean that codes retire along with their owners.
 Many code suites, especially those using High-Performance Computing (HPC), those in long-established fields and legacy code more generally, are particularly prone to these problems of strong ownership and are resistant to attempts at democratisation.
