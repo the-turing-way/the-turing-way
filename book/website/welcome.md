@@ -94,25 +94,18 @@ If you have any questions, please [get in touch](https://github.com/alan-turing-
 ## Testing panels
 
 ````{panels}
-Content of the top-left panel
+![Gif showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table](https://media.giphy.com/media/gKIUisnjpj2PS75nOJ/giphy.gif)
 
 ---
 
-Content of the top-right panel
-
-{badge}`example,badge-primary`
+![Gif showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table](https://media.giphy.com/media/gKIUisnjpj2PS75nOJ/giphy.gif)
 
 ---
 
-```{dropdown} :fa:`eye,mr-1` Bottom-left panel
-Hidden content
-```
+![Gif showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table](https://media.giphy.com/media/gKIUisnjpj2PS75nOJ/giphy.gif)
 
 ---
 
-```{link-button} https://example.com
-:text: Clickable Panel
-:classes: stretched-link
-```
+![Gif showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table](https://media.giphy.com/media/gKIUisnjpj2PS75nOJ/giphy.gif)
 
 ````
