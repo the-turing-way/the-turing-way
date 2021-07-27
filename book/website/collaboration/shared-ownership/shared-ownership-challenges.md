@@ -19,7 +19,7 @@ For instance, nationally-funded research operates under national laws that may n
 Organisations hosting these research themselves are constrained by national laws and international interests.
 The very structure of these institutions depends on ownership.
 For example, we have found that arranging collaboration agreements for joint funding is often held up by the need to define ownership of the intellectual property, even if the software is open source.
-This may be part of the larger legal framework: specifying that software is owned by a project or community rather than a person may be ideal for encouraging participation, but it could also be open to abuse if the legal ownership of the software can be disputed or, worse, appropriated by bad actors.
+This may be part of the larger legal framework: specifying that software is owned by a project or community rather than a person may be ideal for encouraging participation, but it could also be open to abuse if the legal ownership of the software can be disputed, or worse, appropriated by bad actors.
 
 ## Fix-Forward Approach
 
