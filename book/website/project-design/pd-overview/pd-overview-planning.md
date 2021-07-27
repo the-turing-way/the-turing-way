@@ -63,4 +63,4 @@ Start by documenting your vision, mission, goals and roadmap in a README file (s
 In the next chapter, we discuss how project design enables good communication and collaboration in research.
 In the subsequent chapters, we describe different methods and tools for ensuring research reproducibility.
 
-***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`dsg`).*
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*
