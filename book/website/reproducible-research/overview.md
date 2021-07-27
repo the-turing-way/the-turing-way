@@ -32,4 +32,4 @@ In addition, so called "negative results" can be published easily, helping avoid
 For further reading resources on reproducibility, please check out the {ref}`Resources <rr-overview-resources>` subchapter.
 
 
-***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`dsg`).*
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*
