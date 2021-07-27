@@ -21,4 +21,4 @@ In this chapter, we have describe the {ref}`motivation of using GitHub<cl-github
 
 Lessons learned in this chapter will enable researchers to work openly, collaboratively and with version control.
 
-***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`dsg`).*
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*
