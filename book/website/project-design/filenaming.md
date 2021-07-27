@@ -83,7 +83,7 @@ Here are some tips for naming files within a research project, which are both hu
 ## What to learn next
 
 Want to build a folder with all the files from your research project?
-Check out our chapter on [research compendia](research_compendia/research_compendia).
+Check out our chapter on {ref}`research compendia<rr-compendia>`.
 
 
 ## Bibliography

@@ -198,7 +198,7 @@ When aiming at developing a reproducible workflow for analyses, one should desig
 Data manipulation and analysis in spreadsheets, in particular, is best avoided as it leads to non-reproducible workflows. 
 Using version control and making the data read-only are two additional data management practices that can prevent accidents.
 
-Use a README file and and other structure choices to explain naming conventions.
+Use a README [{term}`def<README>`] file and and other structure choices to explain naming conventions.
 It will make it clear to others what the file and header names mean, and what criteria to consider when designing an analysis workflow. 
 If you work in a team, you should take particular care of the conventions and make sure everyone follows them. 
 

@@ -7,18 +7,18 @@ This project can simply not exist without the collaborative nature of this proje
 Everyone has a skill that is useful for someone, and therefore anyone can contribute to _The Turing Way_.
 We value all kinds of contributions in this project and are committed to recognising each of them fairly.
 
-```{figure} ../figures/ThatCouldBeAChapter.png
+```{figure} ../figures/theturingway-acknowledgement.jpg
 ---
 height: 400px
-name: ThatCouldBeAChapter
-alt: A sketch of Kirstie saying “That could be a chapter”
+name: theturingway-acknowledgement
+alt: This illustration shows that the traditional acknowledgement system is broken then it shows how we try to acknowledge them fairly. We have a contributors bot that catches all the contributors information and stores them in contributors record
 ---
-"That could be a chapter in The Turing Way!" - Kirstie Whitaker, _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
+The process of acknowledging contributors in *The Turing Way*. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 We recognise all kinds of contributions that are possible in this project.
-We update our {ref}`Contributors Table<aw-contributors-record-contributors>` by appropriately acknowledging our contributors' work within _The Turing Way_.
-Furthermore, we invite every community member to update the {ref}`Record of Contributions<aw-contributors-record-highlights>` with their personal highlights in _The Turing Way_ and use it for promoting their contributions to open science in general.
+We update our {ref}`Contributors Table<contributors-record-contributors>` by appropriately acknowledging our contributors' work within _The Turing Way_.
+Furthermore, we invite every community member to update the {ref}`Record of Contributions<contributors-record-highlights>` with their personal highlights in _The Turing Way_ and use it for promoting their contributions to open science in general.
 
 In this chapter, we provide details on the following aspects:
 - who our contributors and community members are

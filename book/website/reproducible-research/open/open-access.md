@@ -7,12 +7,12 @@
 One of the most common ways to disseminate research results is by writing a manuscript and publishing it in a journal, conference proceedings or book. For many years those publications were available to the public if purchased through a subscription fee or individually.
 However, new knowledge is built by synthesizing current scholarship and then building upon it.
 At the turn of the 21st century, a new movement appeared with a clear objective: make all the research results available to anyone interested in reading it, free of charge by any user, with no technical obstacles such as mandatory registration or login to specific platforms.
-This movement took the name of "open access" and established two initial strategies to achieve its final goal: self-archiving and open access publishing.
+This movement took the name of "open access" [{term}`def<Open Access>`] and established two initial strategies to achieve its final goal: self-archiving and open access publishing.
 
 (rr-open-access-whatis-repositories)=
 ### Repositories and Self-Archiving
 
-The self-archiving movement aims to provide tools and assistance to scholars to deposit and disseminate their refereed journal articles in open institutional or subject-based repositories.
+The self-archiving [{term}`def<Self Archiving>`] movement aims to provide tools and assistance to scholars to deposit and disseminate their refereed journal articles in open institutional or subject-based repositories.
 
 There has also been a growth in the publication of preprints through institutional repositories and preprint servers. 
 Preprints are widely used in physical sciences and now emerging in life sciences and other fields.
@@ -60,9 +60,9 @@ This model is commonly known as the hybrid model because, in the same issue of a
 Usually, publishers ask for a fee to open individual contributions.
 
 Open access publishing has two primary versions — gratis and libre.
-Gratis open access is simply making research available for others to read without having to pay for it.
+Gratis open access [{term}`def<Open Access publishing (gratis)>`] is simply making research available for others to read without having to pay for it.
 However, it does not grant the user the right to make copies, distribute, or modify the work in any way beyond fair use.
-Libre open access is gratis, meaning the research is available free of charge. 
+Libre open access [{term}`def<Open Access Publishing (libre)>`] is gratis, meaning the research is available free of charge. 
 However, it goes further by granting users additional rights, usually via a Creative Commons licence, so that people are free to reuse and remix the research.
 There are varying degrees of what may be considered libre open access.
 For example, some scholarly articles may permit all uses except commercial use, some may permit all uses except derivative works, and some may permit all uses and require attribution.

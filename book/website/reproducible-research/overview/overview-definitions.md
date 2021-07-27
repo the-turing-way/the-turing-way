@@ -31,9 +31,9 @@ At _The Turing Way_, we define **reproducible research** as work that can be ind
 Reproducible is distinct from replicable, robust and generalisable as described in the figure below.
 
 
-```{figure} ../../figures/ReproducibleMatrix.jpg
+```{figure} ../../figures/reproducible-matrix.jpg
 ---
-name: ReproducibleMatrix
+name: reproducible-matrix
 alt: Kirstie's definition of reproducible research.
 ---
 How the Turing Way defines reproducible research
@@ -51,6 +51,14 @@ The different dimensions of reproducible research described in the matrix above 
   Generalisation is an important step towards understanding that the result is not dependent on a particular dataset nor a particular version of the analysis pipeline.
 
 More information on these definitions can be found in "Reproducibility vs. Replicability: A Brief History of a Confused Terminology" by Hans E. Plesser {cite}`Plesser2018Reproducibility`.
+
+```{figure} ../../figures/reproducible-definition-grid.jpg
+---
+name: reproducible-definition-grid.jpg
+alt: Grid with the characteristics of reproducible, replicable, robust and generalisable research
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
 
 (rr-overview-reproducible)=
 ## Reproducible But Not Open

@@ -4,7 +4,7 @@
 (rr-open-source-whatis)=
 ## What Is Open Source Software?
 
-When a project is open-source, anybody can view, use, modify, and distribute the project for any purpose.
+When a project is open-source [{term}`def<Open Source Software>`], anybody can view, use, modify, and distribute the project for any purpose.
 These permissions are enforced through an open-source licence.
 Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
 In its most basic form, open-sourcing your software means putting your code online where it can be viewed and reused by others.
@@ -38,8 +38,8 @@ Open source offers opportunities to practice leadership and management skills, s
 
 ### Making Your Work Open Source
 
-- _Re-usability_: Making your work openly available for re-use makes it easier for others to incorporate into their research. 
-If you make your software citeable, via a DOI for example, this can increase your citations.
+- _Re-usability_: Making your work openly available for re-use makes it easier for others to incorporate into their research.
+If you make your software citeable, via a DOI [{term}`def<Digital Object Identifier>`] for example, this can increase your citations.
 - _Contribution_: When you write closed source software, the only developers that can potentially detect, diagnose, triage, and resolve software bugs are those that have a copy of the code.
 If your project is open, the number of potential contributing developers and thus the potential knowledge pool is orders of magnitude larger.
 - _Feedback_: Making your work open enables you to get feedback and improve your project in a way you may never have thought of alone.
@@ -58,27 +58,27 @@ Open source provides an endless, ever-changing set of Rubix cubes for you to sol
 (rr-open-source-benefitsresearch)=
 ## How Open Source Software Benefits Research
 
-There are several in which open-source software benefits research: 
+There are several in which open-source software benefits research:
 
 (rr-open-source-benefitsresearch-reusable)=
 ### Re-usable
 
-Open source software projects allow researchers to take advantage of each others’ work. 
-This enables researchers to apply their efforts to high-value work. 
-It is sometimes said that “all the easy problems have already been solved”. 
-Blogging, content management, and operating systems are all problems with established (and mainstream) open-source solutions, to name a few. 
-While developers could spend their time reinventing wheels that the open-source community has already perfected, it is highly preferable to use the world’s best wheel, especially when that wheel comes at no cost to you. 
+Open source software projects allow researchers to take advantage of each others’ work.
+This enables researchers to apply their efforts to high-value work.
+It is sometimes said that “all the easy problems have already been solved”.
+Blogging, content management, and operating systems are all problems with established (and mainstream) open-source solutions, to name a few.
+While developers could spend their time reinventing wheels that the open-source community has already perfected, it is highly preferable to use the world’s best wheel, especially when that wheel comes at no cost to you.
 This reduces duplication of effort and allows researchers to focus on yet-unsolved challenges.
 
 (rr-open-source-benefitsresearch-checkable)=
 ### Checkable
 
-Open-source projects allow the broader research community to read and test each others' code. 
-This way, bugs can be found more quickly, and other researchers can validate results. 
+Open-source projects allow the broader research community to read and test each others' code.
+This way, bugs can be found more quickly, and other researchers can validate results.
 
 (rr-open-source-benefitsresearch-collaborative)=
 ### Collaborative
-Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups. 
+Working openly also allows any number of researchers to collaborate on projects that could not possibly be developed by single researchers/research groups.
 Examples include [Linux](https://www.linux.org/) operating systems, Python packages such as [scipy](https://www.scipy.org/) and [numpy](http://www.numpy.org/), and the machine learning library [TensorFlow](https://www.tensorflow.org/).
 
 (rr-open-source-run)=
@@ -86,23 +86,23 @@ Examples include [Linux](https://www.linux.org/) operating systems, Python packa
 
 You can open source an idea, a work in progress, or after years of being closed source.
 At the most basic level, all you need to do is put your code online somewhere that is likely to last a long time.
-You can make your code citeable by assigning it a DOI (as discussed in the section on {ref}`rr-open-data-steps`).
+You can make your code citeable by assigning it a DOI [{term}`def<Digital Object Identifier>`] (as discussed in the section on {ref}`rr-rdm-sharing`).
 This helps ensure that you get proper credit if people use or build upon your work.
 
-A popular place to make your code available is GitHub (see the chapter on {ref}`rr-vcs`). 
-You must include a license file stating that anyone has permission to use, copy, and modify your work. Without this, no one can legally use your work, and so it is not open source. 
-The {ref}`rr-licensing` chapter will help you to pick the best license for your project. 
+A popular place to make your code available is GitHub [{term}`def<Github>`] (see the chapter on {ref}`rr-vcs`).
+You must include a license file stating that anyone has permission to use, copy, and modify your work. Without this, no one can legally use your work, and so it is not open source.
+The {ref}`rr-licensing` chapter will help you to pick the best license for your project.
 There are also a few other files you should include with your code, as described below.
 
 (rr-open-source-run-readme)=
 ### Welcome Users by Adding Information to Your README
 
-You should include a README file where you include useful information about what the project is, how to use it, and how to contribute to it. Here is a list of the main things a README should include:
+You should include a README [{term}`def<README>`] file where you include useful information about what the project is, how to use it, and how to contribute to it. Here is a list of the main things a README should include:
 
 - _The project name and what it is_: This will significantly help someone that comes across it to get an idea of the project. Include a few key points that describe the main features of the project and what features you are implementing.
 This helps to quickly compare other projects with yours and gives an idea of why the project exists in the first place.
 - _Instructions on how to install the project_: The installer might be a collaborator, someone that comes across and is interested in the project, or even you - if you get a new machine and need to re-install your project.
-Nevertheless, it is a total waste of your resources to figure out how to get started with the project from scratch. 
+Nevertheless, it is a total waste of your resources to figure out how to get started with the project from scratch.
 The instructions should also include any prerequisites that will be needed to run the project.
 The best thing you can do is to write up the installation instructions when you first do them yourself, and you will quickly save hours of work in the future.
 - _Instructions for how to run the code and any associated tests_: If you've been working on your project it may seem obvious how to run it, but this will likely not be the case for someone coming across it for the first time.
@@ -110,13 +110,13 @@ The best thing you can do is to write up the installation instructions when you 
 - _List of authors/contributors to the project, possibly with contact information_
 - _Acknowledgements_
 
-Suppose you intend for other people to collaborate on your project (as opposed to just making your code available and considering it complete). 
+Suppose you intend for other people to collaborate on your project (as opposed to just making your code available and considering it complete).
 In that case, you should include Contributing Guidelines and most likely, a Code of Conduct.
 
 (rr-open-source-run-guidelines)=
 ### Contributing Guidelines
 
-Contributing Guidelines tell your audience how to participate in your project. For example, you might include information on:
+Contributing Guidelines [{term}`def<Contributing Guidelines>`] tell your audience how to participate in your project. For example, you might include information on:
 
 - How to file a bug report
 - How to suggest a new feature
@@ -135,7 +135,7 @@ It is also a good idea to link to your contributing guidelines file from your RE
 (rr-open-source-run-conduct)=
 ### Code of Conduct
 
-A Code of Conduct helps set ground rules for behaviour for your project's participants.
+A Code of Conduct [{term}`def<Code of Conduct>`] helps set ground rules for behaviour for your project's participants.
 This is especially valuable if you are launching an open-source project for a community or company.
 A Code of Conduct empowers you to facilitate healthy, constructive community behaviour, which will reduce your stress as a maintainer.
 It communicates how you expect participants to behave and describes who these expectations apply to, when they apply, and what to do if a violation occurs.
@@ -150,13 +150,13 @@ Keep the file in your project's root directory, so it is easy to find, and link 
 (rr-open-source-contribute-anatomy)=
 ### Anatomy of an Open Source Software Project
 
-Every open source community is different. That said, many open source software projects follow a similar organizational structure. 
+Every open source community is different. That said, many open source software projects follow a similar organizational structure.
 Understanding the different community roles and the overall process will help you get quickly oriented to any new project.
 
 A typical open source software project has the following types of people:
 
-- _Author_: The person/s or organization that created the project
-- _Owner_: The person/s who has administrative ownership over the organization or repository (not always the same as the original author)
+- _Author_: The person/s or organization that created the project.
+- _Owner_: The person/s who has administrative ownership over the organization or repository (not always the same as the original author).
 - _Maintainers_: Contributors who are responsible for driving the vision and managing the organizational aspects of the project. They may also be authors and/or owners of the project.
 - _Contributors_: Everyone who has contributed something back to the project.
 - _Community Members_: People who use the project. They might be active in conversations or express their opinion on the project's direction.
@@ -176,17 +176,17 @@ A great many open source projects are hosted on GitHub (see the chapter on versi
 Say you have added a feature or fixed a bug and want to contribute this work to the main project.
 
 1. _Read the documentation_: The main project may have contributing guidelines or information in a README instructing prospective contributors on how to supply their changes.
-2. _Make sure your conventions match the style and structure of the main project_: For example, if all the variables in a project are named in some particular way yours should be too. 
-Consistent conventions make it much easier for someone who has not seen your piece of the project before to understand it rather than having to figure out your particular set of conventions *and* what the code is doing. 
+2. _Make sure your conventions match the style and structure of the main project_: For example, if all the variables in a project are named in some particular way yours should be too.
+Consistent conventions make it much easier for someone who has not seen your piece of the project before to understand it rather than having to figure out your particular set of conventions *and* what the code is doing.
 The project's conventions may be outlined in its documentation, or may just be evident from inspection of the code itself.
 3. _Break your changes up into manageable, well-defined chunks_: For example, if you have added two separate features, do not submit them together.
 Keeping things "clean" in this way makes your work simpler to understand and review.
-4. _Test your changes_: If the project comes with tests, run them. 
+4. _Test your changes_: If the project comes with tests, run them.
 Make sure you are testing against an up to date version of the project as it may have evolved considerably over time. Write specific tests for your changes and submit those too.
 5. _Do not just submit code, update relevant documentation too_: If your changes are incorporated, it will have to be updated. If you do not do it, someone else will have to.
 6. _Ask questions_: If there are things you are unsure about, there is no harm in asking. Many larger projects have dedicated forums or other venues for questions and discussion.
-7. _Be clear_: When you submit your changes, clearly describe the changes you have made, why you have made them, and how they have been implemented. 
-This makes it as easier for someone looking at your work and deciding whether to incorporate it into the main project to do so. 
+7. _Be clear_: When you submit your changes, clearly describe the changes you have made, why you have made them, and how they have been implemented.
+This makes it as easier for someone looking at your work and deciding whether to incorporate it into the main project to do so.
 In the likely case the main project is hosted on GitHub, you should put this in the pull request (see the chapter {ref}`rr-vcs` for more details).
 
 (rr-open-source-contribute-looking)=
