@@ -61,4 +61,4 @@ The tasks and responsibilities are listed in chronological order and have been d
 - If you made new connections or established new collaborations during the event, send a follow-up email after the event.
 - Finish any task assigned to you or your team, within the given time limit by coordinating with your collaborators.
 
-***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`dsg`).*
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*
