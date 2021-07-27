@@ -413,6 +413,17 @@ chapters:
       file: collaboration/remote-collab/remote-collab-informal
     - title: Perceived Pros and Cons
       file: collaboration/remote-collab/remote-collab-prosandcons
+  - title: Shared Ownership in Open Source Projects
+    file: collaboration/shared-ownership
+    sections:
+    - title: Project Ownership
+      file: collaboration/shared-ownership/shared-ownership-projects
+    - title: Shared Ownership Models
+      file: collaboration/shared-ownership/shared-ownership-models
+    - title: Challenges with Applying Ownership Models Retroactively
+      file: collaboration/shared-ownership/shared-ownership-challenges
+    - title: Nudging for a Better Default
+      file: collaboration/shared-ownership/shared-ownership-defaults
 
 # ===== Guide for Ethical Research ========================================
 
