@@ -6,9 +6,9 @@ In the absence of an actively defined default, the prevailing cultural or instit
 And hence, the default options for ongoing and new projects should nudge strongly towards adopting a shared ownership model.
 
 The minimum default for an open source project should include the following documents:
-i. defining the open source license,
-ii. describing ways to support contributions and acknowledge contributors, and
-iii. visibly sharing ownership with the community of contributors.
+1. defining the open source license,
+2. describing ways to support contributions and acknowledge contributors, and
+3. visibly sharing ownership with the community of contributors.
 
 ## Open Source License by Default
 
