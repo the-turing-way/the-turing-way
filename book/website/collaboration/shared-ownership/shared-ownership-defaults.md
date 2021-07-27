@@ -6,7 +6,7 @@ In the absence of an actively defined default, the prevailing cultural or instit
 And hence, the default options for ongoing and new projects should nudge strongly towards adopting a shared ownership model.
 
 The minimum default for an open source project should include the following documents:
-1. Select a license for your project (select open source approach whenever you can).
+1. Select an open source license (whenever you can).
 2. Acknowledging contributors visibly.
 3. Set standards for shared ownership.
 
@@ -32,7 +32,7 @@ Details on people and practices should be transparently documented and communica
 There are many kinds of contributions possible in open source projects that go beyond writing code or documentation.
 Each of these contributions should be acknowledged transparently and fairly.
 For example, we can learn from open source metrics like [CHAOSS](https://chaoss.community/) or [CRediT - Contributor Roles Taxonomy](https://casrai.org/credit/), recognise the hidden labour using frameworks defined by [HiddenREF](https://hidden-ref.org/) or as described in {ref}`The Turing Way Acknowledge chapter<ch-acknowledgement>`, allow people to capture their contributions in a way that is most meaningful for them.
-A more structured programme can be developed that recognise, rewards and incentivise contributors who are crucial for your project's sustainability.
+A more structured programme can be developed that recognises, rewards and incentivise contributors who are crucial for your project's sustainability.
 
 **Call to action: Acknowledging contributors visibly**
 
