@@ -55,4 +55,4 @@ sphinx:
     language                : en
     
 bibtex_bibfiles:
-    - _bibliography/references.bib
+    - references.bib
