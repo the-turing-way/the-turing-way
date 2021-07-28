@@ -193,7 +193,8 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/8632025?v=4",
       "profile": "https://github.com/pgadige",
       "contributions": [
-        "doc"
+        "doc",
+        "review"
       ]
     },
     {
@@ -1262,7 +1263,9 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/3739866?v=4",
       "profile": "http://dannygarside.co.uk",
       "contributions": [
-        "bug"
+        "bug",
+        "content",
+        "review"
       ]
     },
     {
@@ -2111,7 +2114,8 @@
         "ideas",
         "content",
         "translation",
-        "infra"
+        "infra",
+        "review"
       ]
     },
     {
@@ -2668,6 +2672,24 @@
       "contributions": [
         "bug",
         "review"
+      ]
+    },
+    {
+      "login": "DaisyParry",
+      "name": "DaisyParry",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56261324?v=4",
+      "profile": "https://github.com/DaisyParry",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ZoeIngr",
+      "name": "ZoeIngr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80701413?v=4",
+      "profile": "https://github.com/ZoeIngr",
+      "contributions": [
+        "content"
       ]
     }
   ],

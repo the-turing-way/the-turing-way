@@ -70,3 +70,5 @@ The relative citation rate (OA: non-OA) in 19 fields of research. This rate is d
 ```
 
 Another benefit of openness is that while research collaborations are essential to advancing knowledge, identifying and connecting with appropriate collaborators is not trivial. Open practices can make it easier for researchers to connect by increasing the discoverability and visibility of one's work, facilitating rapid access to novel data and software resources, and creating new opportunities to interact with and contribute to ongoing communal projects.
+
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*

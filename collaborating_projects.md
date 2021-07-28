@@ -1,7 +1,9 @@
-# Collaborating Project and Organisations
+# Collaborating Organisations and Projects
 
-*When members participate in The Turing Way community with the in-kind support of their funders and organisation, we acknowledge each member individually and list their organisations as “Collaborating organisations”.
-Such organisational supports are applicable when one or multiple members from a project or community collaborate to build resources in The Turing Way.*
+*The Turing Way community receives in-kind contributions from members supported by their employers, projects or organisations for their participation.
+Such contributions are applicable when one or multiple members from a project or organisation collaborate to build and maintain resources in The Turing Way.
+These contributions also include projects that build upon The Turing Way resources or collaborate with The Turing Way team members in various capacities.
+We acknowledge each of these contributing members individually and list their profiles under “Collaborating organisations and projects”.*
 
 ## [Delft University of Technology - Faculty of Applied Sciences](https://www.tudelft.nl/en/faculty-of-applied-sciences)
 
@@ -69,3 +71,71 @@ Details of each members with their contributions have been listed alphabetically
 
 * Personal highlights:
 > I have personally contributed to _The Turing Way_ by drafting chapters in the guide for Reproducible Research, reviewed other contributor's Pull Requests and mentored contributions from Netherlands eScience Center.
+
+## [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html)
+
+FAIR Cookbook is an online resource that helps researchers and data managers professionals make their data Findable, Accessible, Interoperable and Reusable (FAIR).
+FAIRPlus Cookbook builds on _The Turing Way_ project and community models, and provides chapters as "recipes" according to the FAIR elements, audience type, reading time, and level of difficulty.
+
+_The Turing Way_ team members and [project's editorial board members](https://fairplus.github.io/the-fair-cookbook/content/recipes/boilerplate/people.html), Susanna-Assunta Sansone and Philippe Rocca-Serra, collaborate to ensure an interoperability between the two resources and exchange experiences as open source project developers.
+FAIR Cookbook [features relevant chapters from _The Turing Way_](https://fairplus.github.io/the-fair-cookbook/search.html?q=turing+way).
+Similarly, _The Turing Way_ features the project and provides an impact story titled [From FAIR Co-Author to FAIR Doer](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-stories.html) by Susanna-Assunta Sansone (a co-lead of the FAIR Cookbook project).
+You can find more details and background in the chapter [Leveraging the Turing Way Book](https://fairplus.github.io/the-fair-cookbook/content/recipes/introduction/the-turing-way.html?highlight=turing).
+
+### Susanna-Assunta Sansone
+
+* Role: Book Dash May 2019 attendee
+* GitHub id: [susannasansone](http://github.com/susannasansone)
+* ORCID: [0000-0001-5306-5690](https://orcid.org/0000-0001-5306-5690)
+* Short bio:
+> Susanna-Assunta Sansone is an Associate Director and Principal Investigator at the Oxford e-Research Centre, and an Associate Professor in the Department of Engineering Science of the University of Oxford.
+> She is also a Consultant for Springer Nature, and Founding Honorary Academic Editor of the Scientific Data journal.
+
+* Personal highlights:
+> TBA
+
+* More information:
+> Susanna-Assunta Sansone's motto is "Better data for better science".
+> With her group of brilliant research software & knowledge engineers, she researches and develops methods and tools to improve data reuse; they work for data transparency, research integrity and the evolution of scholarly publishing.
+> She also conducts research-on-research, to improve how research is practiced and shared.
+> Specifically, she strives to make digital research objects, including data, Findable, Accessible, Interoperable and Reusable, FAIR, for humans and for machines.
+
+### Philippe Rocca-Serra
+
+* Role: Book Dash May 2020 attendee
+* GitHub id: [proccaserra](http://github.com/proccaserra)
+* ORCID: [0000-0001-9853-5668](https://orcid.org/0000-0001-9853-5668)
+* Short bio:
+> Philippe Rocca-Serra received a PhD in Molecular Biology from the University of Bordeaux, moving to the field of bioinformatics upon joining the Microarray Informatics Team at the EMBL-EBI, Cambridge. There, working at establishing ArrayExpress, he became an active member of several standardisation efforts aimed at promoting the vision for open data and open science. As part of several EU projects in toxicogenomics and nutrigenomics, he coordinated the development of the ISA project [1], which now continues at the University of Oxford e-Research Centre.
+
+* Personal highlights:
+> TBA
+
+## [Open Life Science](https://openlifesci.org/)
+
+Under the collaboration name OLS-4 for Turing, _The Turing Way_ collaborates with [Open Life Science (OLS)](https://openlifesci.org), a programme that helps individuals and stakeholders in research to become Open Science ambassadors.
+This programme is cofounded by Bérénice Batut, Malvika Sharan and Yo Yehudi.
+This collaboration offers training and mentoring to interested members from Turing and The Turing Way communities to join the OLS programme individually or in teams.
+They develop Open Science aspects in the projects that they either already have been working on or want to develop in the near future.
+
+You can see the projects that participated in the second round - [OLS-2](https://openlifesci.org/ols-2/projects-participants/) and the third round - [OLS-3](https://openlifesci.org/ols-3/projects-participants/).
+This collaboration was awarded the Turing Online Training grant to support Turing projects in the fourth round ([OLS-4](https://openlifesci.org/funders)) and share materials openly in the Turing training network.
+
+## [Remote Computational Project Resource](https://isabelbirds.github.io/Remote-Computational-Project-Resource/welcome.html)
+
+This resource was started by Isabel Birds during the COVID-19 pandemic to support students transferred from wet to remote dry lab projects at short notice.
+This project includes links to (1) general tutorials for the complete beginner, (2) tutorials for specific analyses or pipelines, (3) free online textbooks, and (4) places to ask for help.
+
+### Isabel Birds
+
+* Role: The Turing Way Contributor
+* GitHub id: [IsabelBirds](http://github.com/IsabelBirds)
+* ORCID: [0000-0001-8173-3879](https://orcid.org/0000-0001-8173-3879)
+* Short bio:
+> Isabel is a PhD candidate at University of Leeds working on dissecting the function and molecular evolution of long non-coding RNAs Supervised by Dr Julie Aspden, Dr Mary J O’Connell and Dr David Westhead.
+> She has been interested in molecular evolution and the applications of bioinformatic techniques throughout her degree, and developed these interests while undertaking research projects in the Aspden and O’Connell labs.  
+> She also has experience of scientific research from a funders perspective, gained during her year in industry and numerous summer internships with Yorkshire Cancer Research.
+
+* Personal highlights:
+> After learning about the Turing Way I was inspired to create a site aimed at a wider audience. The Turing Way tutorials helped me to set up my first Jupyter Book, helped me to create the site in a way that is open to contributions, and made sharing my work openly less scary! The Turing Way also pops up a few times in the resources listed.
+> The aim of the resource is to make starting a computational project less overwhelming by curating links to tutorials and online textbooks. Skills such as file management or asking for help effectively are also highlighted, along with entertaining things like podcasts as a reminder that research can be fun!
