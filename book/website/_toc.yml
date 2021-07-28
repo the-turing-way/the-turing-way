@@ -196,10 +196,6 @@ parts:
         file: reproducible-research/ci/ci-github-actions
       - title: Building a Block of a Github actions
         file: reproducible-research/ci/ci-building-gh-actions.md
-      - title: Continuous Integration with Travis
-        file: reproducible-research/ci/ci-travis.md
-      - title: Setting up Continuous Integration with Travis
-        file: reproducible-research/ci/ci-travis-setup.md
       - title: Best practices and recommendations
         file: reproducible-research/ci/ci-practices
       - title: Checklist and Resources
