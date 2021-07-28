@@ -3,7 +3,7 @@
 
 As researchers, scientists and 'techies' we look for ways to use our skills to solve pressing, current issues.
 
-The most recent example is the COVID-19 pandemic and related events {cite}`WHO2020Jul` worldwide including the global lockdown that started in February 2020.
+The most recent example is the COVID-19 pandemic and related events {cite:t}`WHO2020Jul` worldwide including the global lockdown that started in February 2020.
 The research communities responded with a sudden surge of hackathons, data modelling projects, task forces, and working groups to find effective and immediate technical solutions to combat this health crisis.
 
 ```{figure} ../figures/new-community.png

@@ -30,7 +30,7 @@ Some tools that can be used to document your code more easily are:
 Creating tests helps to save time and money.
 By providing a way to know if your code works, mistakes can be easily addressed by you and others.
 
-To read more about code testing go to the {ref}`Code Testing chapter<rr-testing.html>`.
+To read more about code testing go to the {ref}`Code Testing chapter<rr-testing>`.
 
 (pd-overview-version-vcs)=
 ## Version Control

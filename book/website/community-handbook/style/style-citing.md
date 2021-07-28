@@ -64,16 +64,16 @@ To include a citation in your content, we follow the recommendation by [Jupyter 
 
 The key concepts are:
 
-- Include a reference using {cite}`CITEKEY`, where `CITEKEY` is the corresponding citation key in [`references.bib`][turingbib]
-- You can also include multiple citations in one go by separating the CITEKEYs by a comma: `{cite}CITEKEY1,CITEKEY2,CITEKEY3`
+- Include a reference using {cite:t}`CITEKEY`, where `CITEKEY` is the corresponding citation key in [`references.bib`][turingbib]
+- You can also include multiple citations in one go by separating the CITEKEYs by a comma: `{cite:t}CITEKEY1,CITEKEY2,CITEKEY3`
 
 We will cite the article that we edit earlier in the [`reference.bib`][turingbib] file using:
 
 ```
-{cite}`Kuula2010archiving`
+{cite:t}`Kuula2010archiving`
 ```
 
-This will appear in your chapter as {cite}`Kuula2010archiving`.
+This will appear in your chapter as {cite:t}`Kuula2010archiving`.
 
 The complete bibliography entry is available at the end of this book (see {ref}`resources <bibliography>`) using the directives:
 

@@ -1,7 +1,7 @@
 (rr-rdm-fair)=
 # The FAIR Principles
 
-The FAIR guiding principles for scientific data management and stewardship {cite}`Wilkinson2016fair` were developed as guidelines to improve the **F**indability, **A**ccessibility, **I**nteroperability and **R**eusability of digital assets; all of which support research reproducibility.
+The FAIR guiding principles for scientific data management and stewardship {cite:t}`Wilkinson2016fair` were developed as guidelines to improve the **F**indability, **A**ccessibility, **I**nteroperability and **R**eusability of digital assets; all of which support research reproducibility.
 The FAIR principles play an important role in making your data available to others for reuse.
 
 It is much easier to make data FAIR if you plan to do this from the beginning of your research project.
@@ -45,7 +45,7 @@ Data should be as open as possible, and as closed as necessary.
 
 It is also important to say that the FAIR principles are aspirational: they do not strictly define how to achieve a state of FAIRness, but rather describe a continuum of features, attributes, and behaviours that will move a digital resource closer to that goal.
 
-The FAIR principles are also applied to software (see {cite}`Lamprecht2020FAIRsoftware`and {cite}`Hasselbring2020FAIRsoftware`).
+The FAIR principles are also applied to software (see {cite:t}`Lamprecht2020FAIRsoftware`and {cite:t}`Hasselbring2020FAIRsoftware`).
 
 
 (rr-rdm-fair-community)=

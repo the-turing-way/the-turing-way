@@ -14,7 +14,7 @@
 ## Summary
 
 A research compendium is a collection of all digital parts of a research project including data, code, texts (protocols, reports, questionnaires, meta data).
-The collection is created in such a way that reproducing all results is straightforward {cite}`Nuest2017compendia,Gentleman2007statistical`.
+The collection is created in such a way that reproducing all results is straightforward {cite:t}`Nuest2017compendia,Gentleman2007statistical`.
 
 This chapter has many prerequisites as it takes all digital components of a project together into a reproducible research package.
 That said: a research compendium can be constructed with minimal technical knowledge.
@@ -45,7 +45,7 @@ Executable research compendia aim to make the computational part of a scientific
 
 ### Structure of a Research Compendium
 
-Three principles should be kept in mind when constructing a research compendium {cite}`Marwick2018compendia`.
+Three principles should be kept in mind when constructing a research compendium {cite:t}`Marwick2018compendia`.
 
 - Files should be organized in a conventional folder structure;
 - Data, methods, and output should be clearly separated;

@@ -11,7 +11,7 @@ A major part of a project is about the people involved -- the roles they play, t
 None of those is regulated by the license but is undeniably more important for the project's success.
 
 Project ownership is defined by responsibilities that are important for the success of a project.
-These include defining goals, identifying resources, working towards finding solutions, addressing challenges as well as benefitting from the overall outcome {cite}`Goff-Dupont2020ownership`.
+These include defining goals, identifying resources, working towards finding solutions, addressing challenges as well as benefitting from the overall outcome {cite:t}`Goff-Dupont2020ownership`.
 By defining project ownership, we can build a clear understanding of how the responsibilities of project implementation, maintenance and sustainability are shared among different stakeholders, including the volunteer contributors.
 Such operational processes in projects can make open source more meaningful, going beyond the software license itself.
 

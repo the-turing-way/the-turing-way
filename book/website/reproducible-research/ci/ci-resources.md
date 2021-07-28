@@ -1,9 +1,24 @@
-# Resources
+(rr-ci-resources)=
+# Checklist and Resources
+
+## Checklist
+
+- Have a project that you collaborate on with at least one other person
+- Put the project on GitHub
+- Have project members regularly commit their work to this central repository
+- That project should have at least some tests
+- Write a `ci.yml` file which:
+  - Must be inside `.github/workflows`
+  - Define the name of the GitHub event that triggers the workflow using `on` key on the YMAL.
+  - Defines a specific host machine on which to run the job using `jobs` and `runs-on`.
+  - Includes code to install any dependencies required to run the project in a before_install step
+  - Contains a script to run the project tests
+- Commit the `ci.yml` file to the project's GitHub repository
+- Each time a new commit is pushed Travis will run the tests and return the results. If these report that a commit causes test/tests to fail then find and fix the problem as soon as possible
 
 ## What to learn next
 
 If you have not already read the testing chapter it is suggested to do so to learn more about the different kinds of tests and their benefits in order to make the most of CI.
-
 
 ## Definitions/glossary
 
@@ -25,8 +40,7 @@ If you have not already read the testing chapter it is suggested to do so to lea
 
 **Job** It is a virtual machine that runs a series of **steps**. **Jobs** are parallelized by default, but **steps** are sequential by default.
 
-
-## Bibliography
+## References
 
 - [What is CI](https://github.com/travis-ci/docs-travis-ci-com/blob/master/user/for-beginners.md) **MIT**
 - [SSI blog](https://software.ac.uk/using-continuous-integration-build-and-test-your-software?_ga=2.231776223.1391442519.1547641475-1644026160.1541158284) **Creative Commons Attribution Non-Commercial 2.5 License**
@@ -39,7 +53,6 @@ If you have not already read the testing chapter it is suggested to do so to lea
 - [GitHub Actions Cheat Sheet](https://resources.github.com/whitepapers/GitHub-Actions-Cheat-sheet/)
 - [GitHub docs: Actions - Core concepts](https://docs.github.com/en/actions/getting-started-with-github-actions/core-concepts-for-github-actions)
 - [GitHub docs: Actions - Configuring and managing workflows](https://docs.github.com/en/actions/configuring-and-managing-workflows)
-
 
 ## Acknowledgements
 
