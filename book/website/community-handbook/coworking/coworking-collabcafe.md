@@ -22,16 +22,16 @@ We are also currently developing a guide for hosting these calls ([issue #925](h
 
 Here are the resources we use for these calls:
 
-1. Shared notes by [HackMD](https://hackmd.io/): You can access these notes online at [https://hackmd.io/@KirstieJane/CollabCafe](https://hackmd.io/@KirstieJane/CollabCafe) and can take notes together with others on the call.
+1. Shared notes by [HackMD](https://hackmd.io/): You can access these notes online at [https://hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe) and can take notes together with others on the call.
 2. Online call by [Zoom](https://www.zoom.us/): The Zoom link is provided in the HackMD before the call, and members can click to join the call by opening zoom window on the web or by using the Zoom app that should be installed locally ([available for free](https://zoom.us/download)).
 3. An online Pomodoro clock on [Cuckoo.team](https://cuckoo.team/collabcafe): During the call, the clock is set for Pomodoro work intervals that can be live-tracked by everyone through their browsers.
-4. Video recordings from these calls are often posted on [our YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
+4. Video recordings from some of the earlier calls are available on [our YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
 
 We coordinate our tasks on the shared HackMD and/or _The Turing Way_ GitHub repository, where we can work collaboratively or independently while working on an older GitHub issues/PRs, creating new issues/PRs, taking notes as comments on the GitHub repository or working on a branch locally.
 
 ## Format of the call
 
-We have a template for the {ref}`Collaboration Cafes<ch-template-coworking-collabcafe>`, which is updated on the [shared HackMD](https://hackmd.io/@KirstieJane/CollabCafe) for each call.
+We have a template for the {ref}`Collaboration Cafes<ch-template-coworking-collabcafe>`, which is updated on the shared notes for each call.
 
 ### Schedule
 
@@ -85,7 +85,7 @@ The videos will be uploaded to _The Turing Way_ YouTube channel: [https://www.yo
 
 ### Sign-up and icebreaker
 
-If you're interested in joining the next Collaboration Cafe, please let the organisers know by adding your name to the **Sign Up** section of the [HackMD notes page](https://hackmd.io/@KirstieJane/CollabCafe#Sign-up-below).
+If you're interested in joining the next Collaboration Cafe, please let the organisers know by adding your name to the **Sign Up** section of the HackMD notes page.
 Adding your name is helpful for the organisers so they can prepare for the call.
 But don't worry if you don't sign up in advance.
 It's ok to join at any time for as long as you'd like.
@@ -116,7 +116,7 @@ It's totally fine for you to add as much or as little information as you feel co
 
 ### Conversation starters
 
-In the **Conversation Starters** section of the [HackMD notes page](https://hackmd.io/@KirstieJane/CollabCafe#Conversation-Starters), we encourage everyone to advertise their events or give an update from their community.
+In the **Conversation Starters** section of the HackMD notes, we encourage everyone to advertise their events or give an update from their community.
 
 These don't have to be Turing Way "branded"!
 **We want to know about all the cool things you're working on.** ✨
@@ -144,7 +144,7 @@ Zoom allows groups of collaborators to chat in one "main room" altogether, or to
 
 During the online Collaboration Cafe sessions, we'll use the breakout rooms to allow people to talk about multiple different topics in parallel during the Pomodoro sessions.
 
-You'll see in the [HackMD](https://hackmd.io/@KirstieJane/CollabCafe#Breakout-rooms-Topic-proposals) a section that says:
+You'll see a breakout section in the shared notes:
 
 > **Breakout-rooms-Topic-proposals**
 >
