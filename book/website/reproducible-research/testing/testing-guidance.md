@@ -63,8 +63,12 @@ Find one you like, learn about the features it offers, and make use of them. Com
   - Boost::Test
   - google-test
 - C
+  - all C++ frameworks
   - Check
   - CUnit
+```{note}
+While modern C++ and C are still mostly compatible, they're not completely and using test framework interchangeably may not always work.
+```
 - Python
   - pytest (recommended)
   - unittest comes with standard Python library
