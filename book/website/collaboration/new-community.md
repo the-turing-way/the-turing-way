@@ -11,7 +11,7 @@ The research communities responded with a sudden surge of hackathons, data model
 name: new-community
 alt: An illustration of 2 people who are working together and discussing a data chart.
 ---
-_An illustration of analytic process. [Royalty free image from Many Pixels](https://www.manypixels.co/gallery/)
+An illustration of analytic process. [Royalty free image from Many Pixels](https://www.manypixels.co/gallery/)
 ```
 
 Such action oriented efforts result from a motivation to pull together and combine our scientific knowledge to address unprecedented situations, which is surely an ideal way to move forward.
