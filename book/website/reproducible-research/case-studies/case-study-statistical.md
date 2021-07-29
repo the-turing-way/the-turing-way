@@ -20,8 +20,7 @@ David S. Robertson, Kaspar Rufibach, James M. S. Wason
 
 ### Overview
 
-The manuscript {cite:t
-  }`Kunzmann2020CS` itself is concerned with the problem of
+The manuscript {cite:t}`Kunzmann2020CS` itself is concerned with the problem of
 deriving a suitable sample size for a clinical trial.
 This is a classical problem in statistics and particularly important in
 medical statistics where collecting trial data is extremely expensive and
