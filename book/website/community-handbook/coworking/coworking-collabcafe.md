@@ -25,7 +25,7 @@ Here are the resources we use for these calls:
 1. Shared notes by [HackMD](https://hackmd.io/): You can access these notes online at [https://hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe) and can take notes together with others on the call.
 2. Online call by [Zoom](https://www.zoom.us/): The Zoom link is provided in the HackMD before the call, and members can click to join the call by opening zoom window on the web or by using the Zoom app that should be installed locally ([available for free](https://zoom.us/download)).
 3. An online Pomodoro clock on [Cuckoo.team](https://cuckoo.team/collabcafe): During the call, the clock is set for Pomodoro work intervals that can be live-tracked by everyone through their browsers.
-4. Video recordings from some of the earlier calls are available on [our YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
+4. Video recordings from some of the earlier calls are available on [our YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).
 
 We coordinate our tasks on the shared HackMD and/or _The Turing Way_ GitHub repository, where we can work collaboratively or independently while working on an older GitHub issues/PRs, creating new issues/PRs, taking notes as comments on the GitHub repository or working on a branch locally.
 
