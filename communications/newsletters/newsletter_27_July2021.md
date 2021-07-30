@@ -16,7 +16,7 @@ Find out about specific GitHub issues that are awaiting your comments and intere
 
 Read on for more details on these topics and other updates from _The Turing Way_ below 👇
 
-## Community meetings
+## Community Meetings
 
 ![Image showing a group of people supporting each other as they climb up a mountain marked with various places they can contribute and also find better opportunities for themselves](images/2021-07-mountain.png)
 
@@ -56,7 +56,7 @@ We hope to share more details in the next newsletter, and cross-post them on Twi
 
 ---
 
-## News from the community
+## News from the Community
 
 ### Kirstie Whitaker becomes the Turing’s Programme Director for Tools, Practices and Systems
 
@@ -75,7 +75,7 @@ Kirstie said this:
 ![Screenshot of a tweet by Kirstie about the jobs described below](images/2017-07-kw-tweet.png)
 *Tweet by Kirstie Whitaker sharing details about three community manager jobs at Turing in her [Twitter Thread](https://twitter.com/kirstie_j/status/1415797069046894594)*
 
-### Jobs at Turing
+### Jobs at the Turing
 
 Two community manager positions are open for application at The Alan Turing Institute.
 The position-holders will work on the following teams while collaborating closely with _The Turing Way_:
@@ -153,9 +153,9 @@ You are welcome to [get in touch with Malvika](mailto:msharan@turing.ac.uk) if y
  
 ---
  
-## Acknowledgements and celebrations
+## Acknowledgements and Celebrations
 
-### Contributor in focus: FAIR Cookbook Project Team
+### Contributor in Focus: FAIR Cookbook Project Team
 
 [FAIR Cookbook]( https://github.com/FAIRplus/the-fair-cookbook) is an online resource that helps researchers and data professionals make their data Findable, Accessible, Interoperable and Reusable (FAIR).
 The FAIR Cookbook goes beyond the ‘aspirational’ aspect of FAIR and practically guides researchers and data stewards in their FAIRification journey, and provide policymakers and trainers with practical examples to recommend in their guidance and training.
@@ -171,7 +171,7 @@ To promote a culture of cooperation over competition among other open source pro
 We encourage you to check out their [handbook](fairplus.github.io/the-fair-cookbook) and contribute FAIR examples from your work.
 
 - **Highlight your resources on _The Turing Way_**: _The Turing Way_ is a domain-independent handbook to data science and research practices.
-We actively support and collaborate projects, teams and organisatiobs who building upon _The Turing Way_ project models and provide domain-specific guidance in their field.
+We actively support and collaborate with projects, teams and organisations that are building upon The Turing Way and provide specific guidance in their fields. 
 These projects are listed as [collaborating organisations and projects](https://the-turing-way.netlify.app/afterword/contributors-record.html#collaborating-organisations-and-projects) and are actively highlighted in the community, such as the FAIR Cookbook.
 Does your project use, reference and/or build upon _The Turing Way_? 
 Please get in touch with us to discuss how we can highlight your project.
