@@ -5,9 +5,10 @@ The Turing Way Newsletter: 30 July 2021
 Hello Turing Way friends!
 
 Thank you for opening this newsletter - we hope you are keeping well! 🌷
+
 This month’s newsletter is filled with many ‘asks’ and requests for actions from you. 
 
-- 🌈 We need your help in planning our Community Calls, please respond to this [form](https://tinyurl.com/ttw-community-call)
+- 🌈 We need your help in planning our Community Calls, please respond to this [form](https://tinyurl.com/ttw-community-call).
 - 📣 Two Community Manager positions, who will work closely with _The Turing Way_ team, are open for application.
 - 🛠 Our wonderful community members have published more new chapters and refreshed the way our landing pages look.
 
@@ -23,14 +24,14 @@ Read on for more details on these topics and other updates from _The Turing Way_
 
 ### Collaboration Cafes 
 
-Collaboration Cafes will be hosted on August 04 and August 18 2021 from 15:00 - 17:00 London time ([see in your timezone](http://time.unitarium.com/utc/14)). 
-In addition to hosting co-working sessions, we will use this month’s Collaboration Cafe to review how these meetings have been for you over the last year.
+Collaboration Cafes will take place on 04 August and 18 August 2021 from 15:00 - 17:00 London time ([see in your timezone](http://time.unitarium.com/utc/14)). 
+In addition to the 'Pomodoro' co-working sessions, we will use this month’s Collaboration Cafe to review how these meetings have been for you over the last year.
 We will also invite volunteers to host future calls and propose new ideas to make such events more sustainable and beneficial for you going forward.
 Sign up and find more details in this shared HackMD: [https://hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
 
 ### Coworking Calls
 
-Monthly coworking calls will take place every Monday from 11:00 - 12:00 London time ([see in your timezone](http://time.unitarium.com/utc/10)).
+Monthly coworking calls in August will take place every Monday from 11:00 - 12:00 London time ([see in your timezone](http://time.unitarium.com/utc/10)).
 These calls have been a wonderful way for us to kick off our weeks by working with many of you on _The Turing Way_.
 You are welcome to join if you would like to test, try and apply open, reproducible and collaborative aspects to any project of your choice.
 Sign up and find more details in this shared HackMD: [https://hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call).
@@ -38,16 +39,16 @@ Sign up and find more details in this shared HackMD: [https://hackmd.io/@turingw
 ### Onboarding Calls 
 
 Over the last three months, we have scheduled and hosted onboarding calls.
-Unfortunately, they have not been effective at reaching those members who are interested in using or contributing to _The Turing Way_ but don’t know where to start.
-Therefore, we will not host onboarding calls from August onwards.
-Nonetheless, you can always reach out to Malvika to set a 1:1 call or join one of the other events.
+Unfortunately, they have not been effective at reaching members who are interested in using or contributing to _The Turing Way_ but don’t know where to start.
+Therefore, we will not host onboarding calls from August onwards but plan a series of calls with a more suitable format  (discussed next).
+You can still reach out to Malvika to set a 1:1 call or join one of the other events.
 
-### Themed Community Calls - You Should Host Them!
+### Themed Community Calls - Help in Planning!
 
 We are planning a series of Themed Community Calls from September 2021.
-After discussing this with several members, we agreed that these calls will be a useful way to feature the work carried out by our community members in _The Turing Way_, as well as other open and reproducible projects they are working on.
+After discussing this with several members, we agreed that these calls will be a useful way to feature and celebrate the work carried out by our community members working on open and reproducible projects in and beyond _The Turing Way_.
 Please volunteer to hosts a call, present something you are working on, or nominate someone you would like to invite at one of these calls using this form: [https://tinyurl.com/ttw-community-call](https://forms.gle/6CeGcqFJdQZ49uxR8).
-This form will likely take 3-5 minutes to complete and will be open for your response till **6 September 2021**.
+This form will likely take 3-5 minutes to complete and will be open for your response till **06 September 2021**.
 We hope to share more details in the next newsletter, and cross-post them on Twitter and Slack workplace.
 
 ---
@@ -80,7 +81,7 @@ Find more details on the [application portal](https://cezanneondemand.interviewe
 Over the last 2.5 years, _The Turing Way_ as a project and a handbook have grown rapidly.
 It is simply not possible to read all its content and therefore we recommend reading a chapter on a tool or practice that you are interested in or want to use in your work.
 
-Thanks to the thoughtful contribution of the Batool Almarzouq and Danny Garside who gave the [README](https://github.com/alan-turing-institute/the-turing-way) and the [welcome](the-turing-way.netlify.app) pages stunning new looks!
+Thanks to the thoughtful contribution of Batool Almarzouq and Danny Garside who gave the [README](https://github.com/alan-turing-institute/the-turing-way) and the [welcome](the-turing-way.netlify.app) pages stunning new looks!
 They harmonise how we provide information in these two locations and worked with Malvika to add images, top tips, and relevant information from the project.
 
 ---
@@ -120,7 +121,7 @@ They also exist in our [GitHub repository]( https://github.com/alan-turing-insti
 However, browsing them is not easy either on Zenodo or GitHub, which makes it hard for many people to find suitable illustrations that they can use or refer to in their work. 
 If you know how we can visualise these illustrations in our online book, please comment under [issue #2046](https://github.com/alan-turing-institute/the-turing-way/issues/2046). 
 
-- **Digital accessibility**: We recommend our contributors to use [alt text]( https://supercooldesign.co.uk/blog/how-to-write-good-alt-text) to describe their images.
+- **Digital accessibility**: We recommend our contributors provide [alt text]( https://supercooldesign.co.uk/blog/how-to-write-good-alt-text) to describe their images.
 However, we have also learned that not all image descriptions are effective for screen readers. 
 We would like to invite you to review and update our existing alt text and help document tips to improve description as well as common mistakes to avoid.
 Please see more details in [issue #2043](https://github.com/alan-turing-institute/the-turing-way/issues/2043).
@@ -145,12 +146,12 @@ You are welcome to [get in touch with Malvika](mailto:msharan@turing.ac.uk) if y
 
 [FAIR Cookbook]( https://github.com/FAIRplus/the-fair-cookbook) is an online resource that helps researchers and data professionals make their data Findable, Accessible, Interoperable and Reusable (FAIR).
 The FAIR Cookbook goes beyond the ‘aspirational’ aspect of FAIR and practically guides researchers and data stewards in their FAIRification journey, and provide policymakers and trainers with practical examples to recommend in their guidance and training.
+The FAIR Cookbook editorial board members, **Susanna-Assunta Sansone and Philippe Rocca-Serra** have collaborated with _The Turing Way_ members from the start to ensure interoperability between the two resources and exchange experiences as open source project developers.
 
 ![Image shows a woman reading data recipes from the FAIR cookbook and reproducing them in her project. This process is shown as a cookie baking process.](images/2021-07-faircookbook.png)
 
 *FAIR Cookbook’s data recipes. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.*
-
-The FAIR Cookbook editorial board members, Susanna-Assunta Sansone and Philippe Rocca-Serra have collaborated with _The Turing Way_ members from the start to ensure interoperability between the two resources and exchange experiences as open source project developers. 
+ 
 FAIR Cookbook features relevant chapters from _The Turing Way_. 
 Similarly, The Turing Way features the project and provides an impact story titled From FAIR Co-Author to FAIR Doer by Susanna-Assunta Sansone (a co-lead of the FAIR Cookbook project). 
 To promote a culture of cooperation over competition among other open source projects, they wrote a chapter Leveraging the Turing Way Book sharing how a “collaborative meeting” at _The Turing Way_ Book Dash Bootstrapped the FAIR Cookbook project.
@@ -161,7 +162,7 @@ We actively support other projects who build specific guidance for their field a
 These projects are listed as [collaborating organisations and projects](https://the-turing-way.netlify.app/afterword/contributors-record.html#collaborating-organisations-and-projects) and are actively highlighted in the community.
 Does your project use, reference and/or build upon _The Turing Way_? 
 Please get in touch with us to discuss how we can highlight your project.
-You can also comment under the GitHub [issue #2017]( https://github.com/alan-turing-institute/the-turing-way/issues/2017).
+You can also comment under GitHub [issue #2017]( https://github.com/alan-turing-institute/the-turing-way/issues/2017).
 
 ---
 
@@ -180,7 +181,7 @@ We extend our heartiest congratulations to Paul Owoicho and Sam van Stroud for b
 
 - Making your research outputs accessible to wider audiences. (2021, July 07). Retrieved from https://www.software.ac.uk/blog/2021-07-07-making-your-research-outputs-accessible-wider-audiences
 - Annual Report 2020-21. (2021, July 28). Retrieved from https://www.turing.ac.uk/sites/default/files/2021-07/turing_annual-report-2021_final_0.pdf (page 59)
-- Why do we discuss "ally skills" in open science. (2021, July 05). Retrieved from https://www.software.ac.uk/blog/2021-07-05-why-we-discuss-ally-skills-open-science
+- Why we discuss "ally skills" in open science. (2021, July 05). Retrieved from https://www.software.ac.uk/blog/2021-07-05-why-we-discuss-ally-skills-open-science
 - PhD tips – How to ask a question after a seminar - Elisa Granato. (2021, July 14). Retrieved from http://elisagranato.com/phd-tips-asking-a-question-after-a-seminar 
 
 ### Talks and Workshops
@@ -188,7 +189,7 @@ We extend our heartiest congratulations to Paul Owoicho and Sam van Stroud for b
 - On 5 July 2021, Vanessa Pope, Sophia Batchelor, Mishka Nemes and Sarah Gibson delivered a workshop at the Summer conference organised by the Energy and Environment Institute, University of Hull. 
 You can find a short talk by Vanessa and Introductory GitHub Training material on Zenodo: [https://zenodo.org/record/5070361](https://zenodo.org/record/5083747)
 - On 12 July 2021, Malvika Sharan delivered a plenary talk “The Turing Way Guide to Reproducible, Ethical and Collaborative Research” at the inaugural conference of SORTEE (Society if Open, Reliable, and Transparent Ecology and Evolutionary Biology) (slides on [Zenodo](https://zenodo.org/record/5083747)). 
-You can watch her talk, along with five other plenary talks on [YouTube playlist](https://www.youtube.com/playlist?list=PLqTOVbRSdsARz1idHT3KkG1Z5xJeIoULk).
+You can watch her talk, along with five other plenary talks on the [YouTube playlist](https://www.youtube.com/playlist?list=PLqTOVbRSdsARz1idHT3KkG1Z5xJeIoULk).
 - Martina Vilas, Malvika Sharan and Sambit Panda co-chaired a mini-symposium on “Biology and Neuroscience” at the SciPy 2021.
 On 15 July, as a part of this mini-symposium, Martina moderated an inspiring roundtable discussion "Current challenges in open source software development in biology and neuroscience", with Adina Wagner, Caleb Kibet, Hao Ting, and Sambit (on behalf of Joshua Vogelstein).
 We hope to share the video recording from this session when that is available.
@@ -200,7 +201,7 @@ We hope to share the video recording from this session when that is available.
 ![Screenshots of four tweet described below](images/2021-07-tweetcollage.png)
 
 ***1** Tweet by [Writing For Research](https://twitter.com/Write4Research/status/1417508660281061383?s=20) Twitter account sharing the illustration showing ‘reproducible’, ‘replicable’, ‘robust’ and ‘generalisable’.
-**2** Tweet by [Esther Plomp ](https://twitter.com/PhDToothFAIRy/status/1413181332147015683?s=20), sharing a slide from Heidi Siebold’s UseR keynote that you can watch on [YouTube](youtu.be/rI8CW16a6M4).
+**2** Tweet by [Esther Plomp](https://twitter.com/PhDToothFAIRy/status/1413181332147015683?s=20) sharing a slide from Heidi Siebold’s UseR keynote that you can watch on [YouTube](youtu.be/rI8CW16a6M4).
 **3** Tweet by [Sarah I. Murphy](https://twitter.com/SarahMurphy39/status/1417882443978313731?s=20) linking to the Guide for Reproducible Research. 
 **4** Tweet by [Katherina Drakoulaki](https://twitter.com/KDrakoulaki/status/1415988513212964868?s=20) indicating that she uses _The Turing Way_ for data and open science-related practices in her PhD.*
  
