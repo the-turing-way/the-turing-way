@@ -1,6 +1,6 @@
 The Turing Way Newsletter: 30 July 2021
 
-# New Jobs, Plans for Community Calls, New Chapters and Other Community Updates
+# New Job Opportunities, Community Call Plans, Chapters and Other Updates
 
 Hello Turing Way friends!
 
