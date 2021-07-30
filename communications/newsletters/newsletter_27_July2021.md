@@ -61,10 +61,10 @@ We hope to share more details in the next newsletter, and cross-post them on Twi
 ### Kirstie Whitaker becomes the Turing’s Programme Director for Tools, Practices and Systems
 
 We’re delighted to announce that [Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker) has moved from her role as Programme Lead to Programme Director of [Tools, practices and systems](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems).
-Kirstie is the lead of _The Turing Way_.
+Kirstie is the project lead of _The Turing Way_.
 Last year, she became the Institute’s first Programme Lead for Tools, practices and systems with the intention of building the programme – her new title acknowledges the growth of the programme and her role alongside it. 
-We offer Kirstie our congratulations in this new role. 
-Kirstie said this:
+Our heartiest congratulations to Kirstie on this new role.
+In her words:
 
 > "I've so enjoyed getting to know even more people around the Turing! 
 > From talks on differential privacy in our monthly meet ups, Thursday coffee chats [at the institute] getting to meet new postdocs and learning about their projects, Collaboration Cafes with _The Turing Way_, and even having folks come to my office hours! 
@@ -184,7 +184,7 @@ You can also comment under GitHub [issue #2017]( https://github.com/alan-turing-
 [OpenUK Awards, Second Edition 2021]( https://openuk.uk/openuk-awards-second-edition-2021/) is hosted by [OpenUK]( https://openuk.uk/) to recognising UK leadership in open technology.
 We are happy to share that _The Turing Way_ is shortlisted under the ‘Sustainability’ category.
 You can read the nomination submission on [Zenodo](https://zenodo.org/record/5094892).
-We extend our heartiest congratulations to Paul Owoicho and Sam van Stroud for being shortlisted under the ‘Young Person’ category for their exemplary work in _The Turing Way_ and Turing Data Stories respectively.
+We extend our congratulations to Paul Owoicho and Sam van Stroud for being shortlisted under the ‘Young Person’ category for their exemplary work in _The Turing Way_ and Turing Data Stories respectively.
 
 ---
 
