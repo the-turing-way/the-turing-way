@@ -8,8 +8,8 @@ Thank you for opening this page - we hope you are keeping well! 🌷
 
 This month’s newsletter is filled with many ‘asks’ and requests for actions from you.
 
-- 🌈 We need your help in planning our Community Calls, please help us by responding to this [form](https://tinyurl.com/ttw-community-call).
-- 📣 Apply for the Community Manager positions a The Alan Turing Institute - they will work closely with _The Turing Way_ team.
+- 🌈 Help us in planning our Community Calls - respond to this [form](https://tinyurl.com/ttw-community-call).
+- 📣 Apply for the Community Manager positions at The Alan Turing Institute - work closely with _The Turing Way_ team.
 - 🛠 Our wonderful community members have published more new chapters and refreshed our landing pages -  [have a look](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md).
 
 Find out about specific GitHub issues that are awaiting your comments and interesting resources from the community.
@@ -27,6 +27,7 @@ Read on for more details on these topics and other updates from _The Turing Way_
 Collaboration Cafes will take place on 04 August and 18 August 2021 from 15:00 - 17:00 London time ([see in your timezone](http://time.unitarium.com/utc/14)). 
 In addition to the 'Pomodoro' co-working sessions, we will use this month’s Collaboration Cafe to review how these meetings have been for you over the last year.
 We will also invite volunteers to host future calls and propose new ideas to make such events more sustainable and beneficial for you going forward.
+
 Sign up and find more details in this shared HackMD: [https://hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
 
 ### Coworking Calls
@@ -34,6 +35,7 @@ Sign up and find more details in this shared HackMD: [https://hackmd.io/@turingw
 Monthly coworking calls in August will take place every Monday from 11:00 - 12:00 London time ([see in your timezone](http://time.unitarium.com/utc/10)).
 These calls have been a wonderful way for us to kick off our weeks by working with many of you on _The Turing Way_.
 You are welcome to join if you would like to test, try and apply open, reproducible and collaborative aspects to any project of your choice.
+
 Sign up and find more details in this shared HackMD: [https://hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call).
 
 ### Onboarding Calls 
@@ -41,14 +43,15 @@ Sign up and find more details in this shared HackMD: [https://hackmd.io/@turingw
 Over the last three months, we have scheduled and hosted onboarding calls.
 Unfortunately, they have not been effective at reaching members who are interested in using or contributing to _The Turing Way_ but don’t know where to start.
 Therefore, we will not host onboarding calls from August onwards but plan a series of calls with a more suitable format  (discussed next).
-You can still reach out to Malvika to set a 1:1 call or join one of the other events.
+You can always reach out to Malvika (email: msharan@turing.ac.uk) to set a 1:1 call or join one of the other events.
 
 ### Themed Community Calls - Help in Planning!
 
 We are planning a series of Themed Community Calls from September 2021.
 After discussing this with several members, we agreed that these calls will be a useful way to feature and celebrate the work carried out by our community members working on open and reproducible projects in and beyond _The Turing Way_.
+
 Please volunteer to hosts a call, present something you are working on, or nominate someone you would like to invite at one of these calls using this form: [https://tinyurl.com/ttw-community-call](https://forms.gle/6CeGcqFJdQZ49uxR8).
-This form will likely take 3-5 minutes to complete and will be open for your response till **06 September 2021**.
+It will take 3-5 minutes to complete this form - the deadline is **06 September 2021**.
 We hope to share more details in the next newsletter, and cross-post them on Twitter and Slack workplace.
 
 ---
@@ -60,13 +63,13 @@ We hope to share more details in the next newsletter, and cross-post them on Twi
 
 ### Jobs at Turing
 
-Two community manager positions are open for application at the Alan Turing Institute.
+Two community manager positions are open for application at The Alan Turing Institute.
 The position-holders will work on the following teams while collaborating closely with _The Turing Way_:
 
-- A community manager will work with the AI for Science and Government (ASG) teams to consolidate their diverse ongoing research projects across all themes and cross-theme projects in a series of influential white papers (and other outputs)
+- A community manager will work with the AI for Science and Government (ASG) teams to consolidate their diverse ongoing research projects across all themes and cross-theme projects in a series of influential white papers (and other outputs).
 The deadline to apply for this job is on **1 August 2021**.
 Find more details on the [application portal](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager__ai_for_science_and_government_15292/en/)
-- Early Detection of Neurodegenerative diseases (EDoN) initiative's Senior Community Manager will support EDoN team members to identify, share and promote research skills they need to effectively work together and facilitate new connections between the EDoN hubs.
+- Early Detection of Neurodegenerative diseases (EDoN) Initiative's Senior Community Manager will support EDoN team members to identify, share and promote research skills they need to effectively work together and facilitate new connections between the EDoN hubs.
 The deadline to apply for this job is on **8 August 2021**.
 Find more details on the [application portal](https://cezanneondemand.intervieweb.it/turing/jobs/senior_community_manager__early_detection_of_neurodegenerative_diseases_edon_15293/en/).
 
