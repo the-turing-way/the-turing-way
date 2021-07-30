@@ -4,15 +4,16 @@ The Turing Way Newsletter: 30 July 2021
 
 Hello Turing Way friends!
 
-This month’s newsletter is filled with many ‘asks’ and requests for actions from you. 🌷
+Thank you for opening this newsletter - we hope you are keeping well! 🌷
+This month’s newsletter is filled with many ‘asks’ and requests for actions from you. 
 
 - 🌈 We need your help in planning our Community Calls, please respond to this [form](https://tinyurl.com/ttw-community-call)
-- 📣 Two Community Manager positions, who will work closely with The Turing Way, are open for application.
+- 📣 Two Community Manager positions, who will work closely with _The Turing Way_ team, are open for application.
 - 🛠 Our wonderful community members have published more new chapters and refreshed the way our landing pages look.
 
 Find out about specific GitHub issues that are awaiting your comments and interesting resources from the community.
 
-Find more details on these topics and other updates below 👇
+Read on for more details on these topics and other updates from _The Turing Way_ below 👇
 
 ## Community meetings
 
@@ -25,12 +26,14 @@ Find more details on these topics and other updates below 👇
 Collaboration Cafes will be hosted on August 04 and August 18 2021 from 15:00 - 17:00 London time ([see in your timezone](http://time.unitarium.com/utc/14)). 
 In addition to hosting co-working sessions, we will use this month’s Collaboration Cafe to review how these meetings have been for you over the last year.
 We will also invite volunteers to host future calls and propose new ideas to make such events more sustainable and beneficial for you going forward.
+Sign up and find more details in this shared HackMD: [https://hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
 
 ### Coworking Calls
 
 Monthly coworking calls will take place every Monday from 11:00 - 12:00 London time ([see in your timezone](http://time.unitarium.com/utc/10)).
 These calls have been a wonderful way for us to kick off our weeks by working with many of you on _The Turing Way_.
 You are welcome to join if you would like to test, try and apply open, reproducible and collaborative aspects to any project of your choice.
+Sign up and find more details in this shared HackMD: [https://hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call).
 
 ### Onboarding Calls 
 
@@ -148,14 +151,15 @@ The FAIR Cookbook goes beyond the ‘aspirational’ aspect of FAIR and practica
 *FAIR Cookbook’s data recipes. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.*
 
 The FAIR Cookbook editorial board members, Susanna-Assunta Sansone and Philippe Rocca-Serra have collaborated with _The Turing Way_ members from the start to ensure interoperability between the two resources and exchange experiences as open source project developers. 
-FAIR Cookbook features relevant chapters from The Turing Way. Similarly, The Turing Way features the project and provides an impact story titled From FAIR Co-Author to FAIR Doer by Susanna-Assunta Sansone (a co-lead of the FAIR Cookbook project). 
+FAIR Cookbook features relevant chapters from _The Turing Way_. 
+Similarly, The Turing Way features the project and provides an impact story titled From FAIR Co-Author to FAIR Doer by Susanna-Assunta Sansone (a co-lead of the FAIR Cookbook project). 
 To promote a culture of cooperation over competition among other open source projects, they wrote a chapter Leveraging the Turing Way Book sharing how a “collaborative meeting” at _The Turing Way_ Book Dash Bootstrapped the FAIR Cookbook project.
 We encourage you to check out their [handbook](fairplus.github.io/the-fair-cookbook) and contribute FAIR examples from your work.
 
 - **Highlight your resources on _The Turing Way_**: _The Turing Way_ is a domain-independent resource for general research practices.
 We actively support other projects who build specific guidance for their field and collaborate with them to exchange ideas and resources.
-These projects are listed as [collaborating organisations and projects]( https://the-turing-way.netlify.app/afterword/contributors-record.html#collaborating-organisations-and-projects) and are actively highlighted in the community.
-Does your project use, reference and/or build upon The Turing Way? 
+These projects are listed as [collaborating organisations and projects](https://the-turing-way.netlify.app/afterword/contributors-record.html#collaborating-organisations-and-projects) and are actively highlighted in the community.
+Does your project use, reference and/or build upon _The Turing Way_? 
 Please get in touch with us to discuss how we can highlight your project.
 You can also comment under the GitHub [issue #2017]( https://github.com/alan-turing-institute/the-turing-way/issues/2017).
 
@@ -166,7 +170,7 @@ You can also comment under the GitHub [issue #2017]( https://github.com/alan-tur
 [OpenUK Awards, Second Edition 2021]( https://openuk.uk/openuk-awards-second-edition-2021/) is hosted by [OpenUK]( https://openuk.uk/) to recognising UK leadership in open technology.
 We are happy to share that _The Turing Way_ is shortlisted under the ‘Sustainability’ category.
 You can read the nomination submission on [Zenodo](https://zenodo.org/record/5094892).
-We extend our heartiest congratulations to Paul Owoicho and Sam van Stroud for being shortlisted under the ‘Young Person’ category for their exemplary work in The Turing Way and Turing Data Stories respectively.
+We extend our heartiest congratulations to Paul Owoicho and Sam van Stroud for being shortlisted under the ‘Young Person’ category for their exemplary work in _The Turing Way_ and Turing Data Stories respectively.
 
 ### Blogs and Articles
 
