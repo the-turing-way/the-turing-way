@@ -4,13 +4,13 @@ The Turing Way Newsletter: 30 July 2021
 
 Hello Turing Way friends!
 
-Thank you for opening this newsletter - we hope you are keeping well! 🌷
+Thank you for opening this page - we hope you are keeping well! 🌷
 
-This month’s newsletter is filled with many ‘asks’ and requests for actions from you. 
+This month’s newsletter is filled with many ‘asks’ and requests for actions from you.
 
-- 🌈 We need your help in planning our Community Calls, please respond to this [form](https://tinyurl.com/ttw-community-call).
-- 📣 Two Community Manager positions, who will work closely with _The Turing Way_ team, are open for application.
-- 🛠 Our wonderful community members have published more new chapters and refreshed the way our landing pages look.
+- 🌈 We need your help in planning our Community Calls, please help us by responding to this [form](https://tinyurl.com/ttw-community-call).
+- 📣 Apply for the Community Manager positions a The Alan Turing Institute - they will work closely with _The Turing Way_ team.
+- 🛠 Our wonderful community members have published more new chapters and refreshed our landing pages -  [have a look](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md).
 
 Find out about specific GitHub issues that are awaiting your comments and interesting resources from the community.
 
@@ -87,10 +87,6 @@ They harmonise how we provide information in these two locations and worked with
 ---
 
 ### New Chapters and Updates from the Handbook
-
-![Image shows a group of people learning different steps - starting from team building to asking the right question to document and publish research outcomes, all for designing reproducible research](images/2021-07-project-design.png)
-
-*Reproducible research aspects to consider before, during and later stages of reproducible research. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.*
 
 - **Overview of Project Design**: Don't know where to start your reproducible project journey from? 
 Check out the [Overview chapter in the Guide to Project Design’]( https://the-turing-way.netlify.app/project-design/pd-overview.html).
