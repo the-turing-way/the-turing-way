@@ -58,6 +58,20 @@ We hope to share more details in the next newsletter, and cross-post them on Twi
 
 ## News from the community
 
+### Kirstie Whitaker becomes the Turing’s Programme Director for Tools, Practices and Systems
+
+We’re delighted to announce that [Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker) has moved from her role as Programme Lead to Programme Director of [Tools, practices and systems](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems).
+Kirstie is the lead of _The Turing Way_.
+Last year, she became the Institute’s first Programme Lead for Tools, practices and systems with the intention of building the programme – her new title acknowledges the growth of the programme and her role alongside it. 
+We offer Kirstie our congratulations in this new role. 
+Kirstie said this:
+
+> "I've so enjoyed getting to know even more people around the Turing! 
+> From talks on differential privacy in our monthly meet ups, Thursday coffee chats [at the institute] getting to meet new postdocs and learning about their projects, Collaboration Cafes with _The Turing Way_, and even having folks come to my office hours! 
+> I hope I'll get to meet even more folks and promote collaborative and inclusive data science across the Institute.... and beyond!"
+
+---
+
 ![Screenshot of a tweet by Kirstie about the jobs described below](images/2017-07-kw-tweet.png)
 *Tweet by Kirstie Whitaker sharing details about three community manager jobs at Turing in her [Twitter Thread](https://twitter.com/kirstie_j/status/1415797069046894594)*
 
@@ -156,14 +170,14 @@ Similarly, The Turing Way features the project and provides an impact story titl
 To promote a culture of cooperation over competition among other open source projects, they wrote a chapter Leveraging the Turing Way Book sharing how a “collaborative meeting” at _The Turing Way_ Book Dash Bootstrapped the FAIR Cookbook project.
 We encourage you to check out their [handbook](fairplus.github.io/the-fair-cookbook) and contribute FAIR examples from your work.
 
-- **Highlight your resources on _The Turing Way_**: _The Turing Way_ is a domain-independent resource for general research practices.
-We actively support other projects who build specific guidance for their field and collaborate with them to exchange ideas and resources.
-These projects are listed as [collaborating organisations and projects](https://the-turing-way.netlify.app/afterword/contributors-record.html#collaborating-organisations-and-projects) and are actively highlighted in the community.
+- **Highlight your resources on _The Turing Way_**: _The Turing Way_ is a domain-independent handbook to data science and research practices.
+We actively support and collaborate projects, teams and organisatiobs who building upon _The Turing Way_ project models and provide domain-specific guidance in their field.
+These projects are listed as [collaborating organisations and projects](https://the-turing-way.netlify.app/afterword/contributors-record.html#collaborating-organisations-and-projects) and are actively highlighted in the community, such as the FAIR Cookbook.
 Does your project use, reference and/or build upon _The Turing Way_? 
 Please get in touch with us to discuss how we can highlight your project.
 You can also comment under GitHub [issue #2017]( https://github.com/alan-turing-institute/the-turing-way/issues/2017).
 
----
+--
 
 ### Shortlisted for the OpenUK Awards
 
@@ -171,6 +185,8 @@ You can also comment under GitHub [issue #2017]( https://github.com/alan-turing-
 We are happy to share that _The Turing Way_ is shortlisted under the ‘Sustainability’ category.
 You can read the nomination submission on [Zenodo](https://zenodo.org/record/5094892).
 We extend our heartiest congratulations to Paul Owoicho and Sam van Stroud for being shortlisted under the ‘Young Person’ category for their exemplary work in _The Turing Way_ and Turing Data Stories respectively.
+
+---
 
 ### Blogs and Articles
 
