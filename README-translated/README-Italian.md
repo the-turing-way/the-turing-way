@@ -1,20 +1,46 @@
-# The Turing Way
+<a href="https://the-turing-way.netlify.app/welcome.html"><img src="/book/website/figures/logo/logo.jpg?raw=true)" width="180" align="Right" /></a>
 
-[![Leggi il manuale](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com)
-[![Newsletter su tinyletter](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
-[![chat su https://gitter.im/alan-turing-institute/the-turing-way](https://img.shields.io/gitter/room/alan-turing-institute/the-turing-way?logo=gitter)](https://gitter.im/alan-turing-institute/the-turing-way)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)
-[![](https://img.shields.io/static/v1?label=TuringWay&message=I%20want%20to%20contribute!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)
+# _The Turing Way_
 
-_The Turing Way_ è una guida arguta alla riproducibilità nella data science.
-Puoi leggerla qui: <https://the-turing-way.netlify.com>
-Stai attualmente esplorando il progetto nella sua repository GitHub dove sono conservate tutte le parti che compongono la guida, e dove avviene il processo di lettura e creazione della guida stessa.
+>_Questo README.md file è disponibile anche in Olandese ([README-Dutch](README-translated/README-Dutch.md)), Francese ([README-French.md](README-translated/README-French.md)), Tedesco ([README-German.md](README-translated/README-German.md)), Indonesiano ([README-Indonesian](README-translated/README-Indonesian.md)), Coreano ([README-Korean](README-translated/README-Korean.md)), Portoghese ([README-Portuguese](README-translated/README-Portuguese.md)), e Spagnolo ([README-Spanish](README-translated/README-Spanish.md)) (ordine alfabetico nella versione originale in Inglese)._
 
-Il nostro intento è quello di fornire tutte le informazioni di cui i ricercatori hanno bisogno all'avvio dei loro progetti, in modo che questi siano facili da riprodurre.
+*Contributori Totali:*
 
-Questo significa anche far in modo che gli studenti di dottorato, post dottorato, referenti scientifici e team di finanziamento sappiano quali aspetti della "responsabilità di riproducibilità" possono controllare, e cosa possono fare per contribuire a rendere la data science più efficiente, efficace e comprensibile.
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-279-orange.svg)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Indice:
+| Informazioni | Links |
+| :--- | :--- |
+| **Progetto** | [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com) [![](https://img.shields.io/static/v1?label=TuringWay&message=I%20want%20to%20contribute!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) |
+| **News** | [![Twitter Follow](https://img.shields.io/twitter/follow/turingway?style=social)](https://twitter.com/turingway) [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)  [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPDxZv5BMzAw0mPobCbMNuA?style=social)](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)  |
+| **Chat** | [![Join Slack](https://img.shields.io/badge/Chat-on%20Slack-ff69b4)](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw) [![GitHub issues](https://img.shields.io/github/issues/alan-turing-institute/the-turing-way)](https://github.com/alan-turing-institute/the-turing-way/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/alan-turing-institute/the-turing-way)](https://github.com/alan-turing-institute/the-turing-way/pulls) |
+| **Build** | [![Netlify build](https://github.com/alan-turing-institute/the-turing-way/workflows/CI/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ACI+branch%3Amaster) [![Latin Phrases](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amaster) [![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amaster) [![Check for Lorem Ipsums](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amaster) |
+| **Cita** |  [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) |
+
+
+_Benvenuti nel GitHub repository per The Turing Way. Qui è dove tutte le parti del progetto vengono sviluppate, riviste e mantenute._
+
+_The Turing Way_ è una guida per condurre data science in una maniera riproducibile, etica e collaborativa. Coinvolgiamo e sosteniamo una comunità eterogenea di contributori in modo da rendere data science accessibile, comprensibile ed efficace per tutti. Il nostro obiettivo è quello di fornire tutte le informazioni di cui i ricercatori e i data scientists (che siano in ambito accademico, industriale o nel settore pubblico) hanno bisogno all'inizio dei loro progetti in modo che siano poi facili da riprodurre.
+
+[![The Turing Way project è un libro, una comunità, un progetto open-source e una cultura collaborativa. Questo è illustrato in quattro figure. La prima mostra il libro "the Turing Way", la seconda spiega come la comunità può crescere, la terza figura rappresenta due persone che collaborano per una pull request, l'ultima illustra l'equilibrio dove la reproducibilità è considerata più importante del numero di articoli pubblicati.](book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
+
+*The Turing Way è un libro, una cumunitè e una collaborazione globale.*
+
+Tutte le parti interessate, tra cui studenti, ricercatori, software engineers, capi progetto e team di finanziamento, sono incoraggiati a usare _The Turing Way_ per capire i propri ruoli e responsabilità nella riproducibilità in data science. 
+Puoi leggere il libro [online](https://github.com/alan-turing-institute/the-turing-way), contribuire al progetto come dettagliato in [questa guida](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) e riusare tutti i materiali (controlla la [licenza](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
+
+[![Questo è uno screenshot del libro online. Mostra una delle illustrazioni all'inizio del libro. In questa figura, c'è una strada dove ci sono negozi per le varie data science skills. I clienti, con il loro carrello, possono entrare e uscire a loro piacimento e scegliere ciò che gli serve.](book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
+
+*Screenshot del libro The Turing Way online ([usa questa immagine in una presentazione](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
+
+Started in 2019 as a lightly opinionated guide to data science, _The Turing Way_ has since expanded into a series of guides on Reproducible Research, Project Design, Communication, Collaboration and Ethical Research.
+Each guide offers chapters on a range of topics covering best practices, guidance and recommendations.
+These chapters have been co-authored by contributors who are students, researchers, educators, community leaders, policy-makers and professionals from diverse backgrounds, lived experiences and domain knowledge.
+
+***Our moonshot goal is to make reproducibility "too easy not to do".***
+
+**Indice:**
 
 - [Il progetto](#about-the-project)
 - [Il team](#the-team)
@@ -24,7 +50,7 @@ Indice:
 - [Collaboratori](#contributors)
 
 🎧 Se preferisci un'introduzione audio al progetto, Rachael ha partecipato all'[Open Science Fair 2019](https://www.opensciencefair.eu/) (Porto, Portogallo) e la sua presentazione è disponibile su [Orion podcast](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
-Una panoramica di _The Turing Way_ inizia al minuto 5:13.
+Una panoramica di _The Turing Way_ inizia al minuto 5:13 (in Inglese).
 
 ### Il progetto
 
