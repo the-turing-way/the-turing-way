@@ -114,7 +114,7 @@ For qualitative data you should replace or generalise identifying characteristic
 * De-identified data that can be re-identified using a linkage file (i.e. information linking data subjects to identifiable individuals) is known as pseudonymised data. 
 NOTE: In this instance, the linkage file should be encrypted and stored securely and separately from the de-identified research data.
   * Identification of individuals in pseudonymised or de-identified data may still be possible using combinations of indirect identifiers (such as age, education, employment, geographic area, and medical conditions). 
-Further, data and outputs (e.g. tables of results) containing small cell counts may be potentially disclosive, particularly where samples are drawn from small populations or include cases with extreme values or relatively rare characteristics.
+Further, data and outputs containing small cell counts may be potentially disclosive, particularly where samples are drawn from small populations or include cases with extreme values or relatively rare characteristics.
    * As such, when intending to share potentially identifiable data or the outputs generated from the data, you may need to consider more advanced anonymisation techniques such as statistical disclosure control (SDC, see [this handbook](https://securedatagroup.org/sdc-handbook/) for more information).
 * For more information about anonymisation you can watch [this webinar by Enrico Glerean on the 'Basics of anonymization'](https://www.youtube.com/watch?v=ILXeA4fx3cI)
 
