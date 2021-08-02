@@ -1,6 +1,6 @@
 (rr-rdm-personal)=
 
-## Managing personal data
+## Personal data management
 
 **Personal data**
 
