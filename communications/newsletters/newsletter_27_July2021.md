@@ -203,7 +203,7 @@ We extend our congratulations to Paul Owoicho and Sam van Stroud for being short
  
 - On 5 July 2021, Vanessa Pope, Sophia Batchelor, Mishka Nemes and Sarah Gibson delivered a workshop at the Summer conference organised by the Energy and Environment Institute, University of Hull. 
 You can find a short talk by Vanessa and Introductory GitHub Training material on Zenodo: [https://zenodo.org/record/5070361](https://zenodo.org/record/5083747)
-- On 12 July 2021, Malvika Sharan delivered a plenary talk “The Turing Way Guide to Reproducible, Ethical and Collaborative Research” at the inaugural conference of SORTEE (Society if Open, Reliable, and Transparent Ecology and Evolutionary Biology) (slides on [Zenodo](https://zenodo.org/record/5083747)). 
+- On 12 July 2021, Malvika Sharan delivered a plenary talk “The Turing Way Guide to Reproducible, Ethical and Collaborative Research” at the inaugural conference of SORTEE (Society of Open, Reliable, and Transparent Ecology and Evolutionary Biology) (slides on [Zenodo](https://zenodo.org/record/5083747)). 
 You can watch her talk, along with five other plenary talks on the [YouTube playlist](https://www.youtube.com/playlist?list=PLqTOVbRSdsARz1idHT3KkG1Z5xJeIoULk).
 - Martina Vilas, Malvika Sharan and Sambit Panda co-chaired a mini-symposium on “Biology and Neuroscience” at the SciPy 2021.
 On 15 July, as a part of this mini-symposium, Martina moderated an inspiring roundtable discussion "Current challenges in open source software development in biology and neuroscience", with Adina Wagner, Caleb Kibet, Hao Ting, and Sambit (on behalf of Joshua Vogelstein).
