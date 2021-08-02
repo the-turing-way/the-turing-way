@@ -1,7 +1,11 @@
 (cl-onboarding-planning)=
 # Planning and Processes
 
-When thinking about designing onboarding, there are several areas to consider. These are briefly described below. It may be useful to lay these out explicitly in an onboarding document, manual or folder of resources. This creates a set of shared expectations and acts as a reference for new members to find information about resources. Such a document also contain information about who to ask for help if they have a problem.
+When thinking about designing onboarding, there are several areas to consider. 
+These are briefly described below. 
+It may be useful to lay these out explicitly in an onboarding document, manual or folder of resources. 
+This creates a set of shared expectations and acts as a reference for new members to find information about resources. 
+Onboarding documents can also contain information about who to ask for help if they have a problem.
 
 ## Suggested Considerations
 
@@ -13,9 +17,9 @@ You can help them settle in by making the culture clear in written form.
 This can be especially important for people who experience discrimination - do they know that they can approach you and be listened to if they experience harassment or discrimination?
 
 Group culture sections can include:
-* What is expected as part of the team - turnaround times for feedback, support, communication.
+* What is expected as part of the team - turnaround times for feedback, support, and communication.
 * Expectations for working hours and flexible working policies.
-* Equality, inclusion and diversity statement.
+* Equality, inclusion, and diversity statement.
 * Open science and how you expect the group to practice this.
 * Team code of conduct.
 * A list of meetings/projects to shadow so that new members can get a feel for how team members interact.
@@ -33,8 +37,9 @@ Key contacts could include:
 
 - Preferred method of communications, _for example email, video call, slack message_
 - Ensure any communication preferences are ..communicated.. from the beginning.
-It should be a priority that the new team member is sent all relevant information to join these communications channels and someone should check that they have been able to set them up.
-Offer help with this process and also training on any communications channel that the new team member has not used before so that they can communicate with the other team members quickly after joining.
+
+It should be a priority that the new team member is sent all relevant information to join these communications channels, and someone should check that they have been able to set them up.
+Offer help with this process, and also training on any communications channel that the new team member has not used before so that they can communicate with the other team members quickly after joining.
 
 ### Accessing Shared Documents
 
@@ -49,8 +54,8 @@ Offer help with this process and also training on any communications channel tha
 - Individuals may not have adequate access to equipment or the internet.
 Discussions about whether any support is required for home setup (for example webcams, microphone, laptop) can allow for any needs to be addressed.
 - Meeting etiquette - learning expectations for different meetings can be overwhelming for a new starter.
-Clearly outlining expected attendance and contributions can help overcome this, _for example, are attendees required to read the papers prior to journal club? Are attendees asked to present their work regularly? Are you expecting videos to be on?_
-- Meeting times - consider the circumstances of your group when organising regular meetings - does everyone have the same opportunity to attend? _for example some groups try to arrange Athena SWAN meeting times, whereby meetings occur between 10-3, meaning that those with children are more able to attend this_.
+Clearly outlining expected attendance and contributions can help overcome this, _for example, are attendees required to read the papers prior to journal club? Are attendees asked to present their work regularly? Are you expecting their video to be on?_
+- Meeting times - consider the circumstances of your group when organising regular meetings - does everyone have the same opportunity to attend? _for example some groups try to arrange Athena SWAN meeting times, whereby meetings occur between 10-3, meaning that those with children are more able to attend_.
 
 ### Training
 
@@ -58,7 +63,7 @@ On tools and systems used by the group - for example GitHub and communication ch
 
 * Use [Zenodo](https://zenodo.org/), or a similar open repository, to host training materials for easier sharing.
 * Use a YouTube channel to store induction & training material for people to watch in their own time.
-* Consider running training & induction sessions frequently as new people join.
+* Consider running training and induction sessions frequently as new people join.
 * Consider a Slack channel for new joiners - for questions and discussion.
 * Consider providing Office Hours to support new joiners using new tools - for example, GitHub.
 * Try to make your training sessions as interactive as possible with exercises and discussions.
@@ -94,7 +99,8 @@ At the end of onboarding, new team members should have a strong idea of:
 
 You should plan out your onboarding process to take each of these things into account. 
 
-Additionally, an onboarding process also needs to instil confidence and not overwhelm the new team member. To help with this, one could:
+Additionally, an onboarding process also needs to instil confidence and not overwhelm the new team member. 
+To help with this, one could:
 
 - Space out communication, with the onboarding process potentially starting a some time before the new member joining the team.
 - Give some indication of the relative importance of each topic so that the team member does not feel that they need to learn everything at once. 
@@ -104,4 +110,5 @@ Additionally, an onboarding process also needs to instil confidence and not over
 It’s also useful to make the onboarding process transparent, such as storing materials in a dedicated folder in the project repository, so that it’s easier to scale, have someone else lead the onboarding, or to identify missing sections through feedback from the community.
 
 
-Onboarding in-person or virtually can raise different challenges and things to consider.  The next section touches on the key differences.
+Onboarding in-person or virtually can raise different challenges and things to consider.  
+The next section touches on the key differences.
