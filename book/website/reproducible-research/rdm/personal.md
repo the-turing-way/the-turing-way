@@ -21,7 +21,7 @@ Especially sensitive data include data relating to a person's:
 * physical or mental health
 * sexual orientation
 
-
+(rr-rdm-informed-consent)=
 **Human participants – informed consent**
 
 Informed, voluntary and fair consent to participate in a study is very important for any research project that involves human participants. 
@@ -70,7 +70,8 @@ Think ahead and plan how you will:
 •	prepare data for archiving/sharing at the end of the project if possible (see {ref}`Sharing and archiving data<rr-rdm-sharing>`)
 
 
-There are a number of strategies that you can adopt to safeguard the privacy of your research subjects:
+(rr-rdm-privacy)=
+There are a number of strategies that you can adopt to **safeguard the privacy** of your research subjects:
 
 **1. Data minimisation**
 
