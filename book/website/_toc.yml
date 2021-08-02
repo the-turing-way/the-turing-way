@@ -79,6 +79,8 @@
     sections:
     - title: The FAIR principles and practices
       file: reproducible-research/rdm/rdm-fair
+    - title: Personal data management
+      file: reproducible-research/rdm/rdm-personal
     - title: Storage and backup
       file: reproducible-research/rdm/rdm-storage
     - title: Data organisation in spreadsheets
