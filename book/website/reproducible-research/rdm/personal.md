@@ -111,7 +111,7 @@ It is used primarily to enable data to be shared or published without revealing 
 * Where possible, direct identifiers (such as names, addresses, telephone numbers and account numbers) should be removed as soon as the identifying information is no longer needed. 
 You can delete the data or replace it with pseudonyms. 
 For qualitative data you should replace or generalise identifying characteristics when transcribing interviews.
-* De-identified data that can be re-identified using a linkage file (i.e. information linking data subjects to identifiable individuals) is known as pseudonymised data. 
+* De-identified data that can be re-identified using a linkage file (for example, information linking data subjects to identifiable individuals) is known as pseudonymised data. 
 NOTE: In this instance, the linkage file should be encrypted and stored securely and separately from the de-identified research data.
   * Identification of individuals in pseudonymised or de-identified data may still be possible using combinations of indirect identifiers (such as age, education, employment, geographic area, and medical conditions). 
 Further, data and outputs containing small cell counts may be potentially disclosive, particularly where samples are drawn from small populations or include cases with extreme values or relatively rare characteristics.
