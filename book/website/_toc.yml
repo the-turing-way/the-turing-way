@@ -98,7 +98,6 @@ chapters:
       file: reproducible-research/rdm/rdm-fair
     - title: Personal data management
       file: reproducible-research/rdm/rdm-personal
-    - title: Storage and backup
     - title: Data Storage and Organisation
       file: reproducible-research/rdm/rdm-storage
     - title: Data Organisation in Spreadsheets
