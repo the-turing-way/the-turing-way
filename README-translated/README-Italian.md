@@ -25,7 +25,7 @@ _The Turing Way_ è una guida per condurre data science in una maniera riproduci
 
 [![The Turing Way project è un libro, una comunità, un progetto open-source e una cultura collaborativa. Questo è illustrato in quattro figure. La prima mostra il libro "the Turing Way", la seconda spiega come la comunità può crescere, la terza figura rappresenta due persone che collaborano per una pull request, l'ultima illustra l'equilibrio dove la reproducibilità è considerata più importante del numero di articoli pubblicati.](book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
 
-*The Turing Way è un libro, una cumunitè e una collaborazione globale.*
+*The Turing Way è un libro, una comunità e una collaborazione globale.*
 
 Tutte le parti interessate, tra cui studenti, ricercatori, software engineers, capi progetto e team di finanziamento, sono incoraggiati a usare _The Turing Way_ per capire i propri ruoli e responsabilità nella riproducibilità in data science. 
 Puoi leggere il libro [online](https://github.com/alan-turing-institute/the-turing-way), contribuire al progetto come dettagliato in [questa guida](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) e riusare tutti i materiali (controlla la [licenza](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
@@ -34,11 +34,13 @@ Puoi leggere il libro [online](https://github.com/alan-turing-institute/the-turi
 
 *Screenshot del libro The Turing Way online ([usa questa immagine in una presentazione](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
 
-Started in 2019 as a lightly opinionated guide to data science, _The Turing Way_ has since expanded into a series of guides on Reproducible Research, Project Design, Communication, Collaboration and Ethical Research.
-Each guide offers chapters on a range of topics covering best practices, guidance and recommendations.
-These chapters have been co-authored by contributors who are students, researchers, educators, community leaders, policy-makers and professionals from diverse backgrounds, lived experiences and domain knowledge.
+Inizialmente una guida lievemente opinionata per data science, _The Turing Way_ ora è
 
-***Our moonshot goal is to make reproducibility "too easy not to do".***
+Il libro _The Turing Way_ è iniziato come una guida lievemente opinionata nel 2019 e si è gradualmente trasformato in una serie di guide su Ricerca Riproducibile, Design di Progetti, Comunicazione, Collaborazione e Ricerca Etica.
+Ogni guida comprende capitoli su diversi argomenti e include le migliori pratiche da adottare, indicazioni e raccomandazioni.
+Questi capitoli sono stati scritti in collaborazione con studenti, ricercatori, educatori, ledear della comunità, politici e professionisti con background eterogeneo, esperienze vissute e conoscenze di settore.
+
+***La nostra chimera è di rendere la reproducibilità "troppo facile da non fare".***
 
 **Indice:**
 
