@@ -1,10 +1,13 @@
 # Draft of Governance Structure
 
-This document is developed by Malvika Sharan (2020-2021) and agreed with Kirstie Whitaker as an initial guide to develop _The Turing Way_ governance.
-We aim to recruit a team of up to 10 members who will collaboratively work in _The Turing Way_ the governance taskforce to develop documents required to have an equitably designed governance structure.
-These documents will sit in the community handbook, foreword and afterword of the book.
+This document is developed by Malvika Sharan (2020-2021) and agreed with Kirstie Whitaker as an initial recommendation to developing _The Turing Way_ governance.
+We aim to recruit a team of up to 10 members who will collaboratively work in _The Turing Way_ Governance Taskforce to collaboratively develop documents required to have an equitably designed governance structure.
+The Governance Taskforce will be established to make sure that diverse perspectives, experiences and concerns are represented.
+Each member will be provided with any accessibility support that might be required to sustain their participation.
+They will be offered a stipend/honoraria to recognise their crucial work in the project and recompense for their time.
+The governance documents will sit in the community handbook, foreword and afterword of the book.
 All discussions and drafts will be transparently shared via _The Turing Way_ GitHub repository.
-A detailed document will be developed to communicate roles, responsibilities and expectations for the governance taskforce members.
+A detailed document will be created to communicate roles, responsibilities and expectations for the Governance Taskforce members.
 
 ## Vision, Mission and Values
 
