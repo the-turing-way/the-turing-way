@@ -1,11 +1,13 @@
+(rr-make)=
 # Reproducibility with Make
 
-## Prerequisites / recommended skill level
+(rr-make-prerequisites)=
+## Prerequisites
 
 | Prerequisite | Importance | Notes |
 | ------------ | ---------- | ----- |
 | [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary | |
-| [Version control](./version-control) | Helpful | Experience using git is useful to follow along with examples |
+| {ref}`Version Control<rr-vcs>` | Helpful | Experience using git is useful to follow along with examples |
 
 Recommended skill level: intermediate
 
@@ -23,22 +25,26 @@ analysis pipeline.  We also describe a real-world reproducible research
 project that uses Make to go from the raw input data to the experiments all
 the way to the pdf file of the paper!
 
-![Schematic of a research project](../figures/make_research_dag.png)
-<small style="margin: 5pt auto; text-align: center; display: block;">A
-schematic for a research project that uses LaTeX.</small>
+```{figure} ../figures/make-research-dag.png
+---
+name: make-research-dag
+alt: Schematic of a research project.
+---
+Schematic of a research project.
+```
 
+(rr-make-intro)=
 ## An Introduction to Make
-
-### What is Make
 
 Make is a build automation tool. It uses a configuration file called a
 Makefile that contains the *rules* for what to build. Make builds *targets*
 using *recipes*.  Targets can optionally have *prerequisites*.  Prerequisites
 can be files on your computer or other targets. Make determines what to build
 based on the dependency tree of the targets and prerequisites (technically,
-this is a {ref}`rr-make-resources-dag`). It uses the *modification time* of 
+this is a {ref}`rr-make-resources-tools`). It uses the *modification time* of
 prerequisites to update targets only when needed.
 
+(rr-make-why)=
 ### Why use Make for Reproducibility?
 
 There are several reasons why Make is a good tool to use for reproducibility:

@@ -1,102 +1,97 @@
 (rr-open-data)=
-## Open data
+# Open Data
 
-The world is witnessing a significant global transformation, facilitated by technology and digital media, and fuelled by data and information. 
+The world is witnessing a significant global transformation, facilitated by technology and digital media, and fuelled by data and information.
 This transformation has enormous potential to foster more transparent, accountable, efficient, responsive, and effective research.
-Only a very small proportion of the original data is published in conventional journals. 
-Existing policies on data archiving notwithstanding, in today’s practice data are primarily stored in private files, not in secure institutional repositories, and effectively are lost to the public (and often even to the researcher who generated the data).
+Only a very small proportion of the original data is published in conventional journals.
+Despite existing policies on archiving data, in today’s practice data are primarily stored in private files, not in secure institutional repositories, and effectively are lost to the public (and often even to the researcher who generated the data).
+
 This lack of data sharing is an obstacle to international research (be it academic, governmental, or commercial) for two main reasons:
 
-1. It is generally difficult or impossible to fully reproduce a study without the original data.
+1. It is generally difficult or impossible to reproduce a study without the original data.
 2. The data cannot be reused or incorporated into new work by other researchers if they cannot obtain access to it.
 
 Accordingly, there is an ongoing global data revolution that seeks to advance collaboration and the creation and expansion of effective, efficient research programs.
-Open data is crucial to meeting these objectives.
-Open data is freely available on the internet and any user is permitted to download, copy, analyse, re-process, and re-use it for any other purpose with minimal financial, legal, and technical barriers.
+Open data [{term}`def<Open data>`] is crucial to meeting these objectives.
+Open data is freely available on the internet.
+Any user is permitted to download, copy, analyse, re-process, and re-use it for any other purpose with minimal financial, legal, and technical barriers.
 
-This represents a real shift in how research works and funders are starting to require researchers to make their data available and submit data management plans as part of project proposals (see also our chapter on [research data management](/rdm/rdm).
-At the moment anyone who wishes to use data from a researcher often has to contact that researcher and make a request.
-"Open by default" turns this on its head and says that there should be a presumption of publication for all.
-If access to data is restricted, for instance due to security reasons, the justification for this should be made clear.
-Free access to, and subsequent use of, data is of significant value to society and the economy, and that data should, therefore, be open by default.
+This represents a real shift in how research works. Funders are starting to require researchers to make their data available and submit data management plans {ref}`Data Management Plans<rr-rdm-dmp>` as part of project proposals.
+At the moment, anyone who wishes to use data from a researcher often has to contact that researcher and make a request.
+"Open by default" remedies this with a presumption of publication for all.
+If access to data is restricted, for instance, due to security reasons, the justification for this should be made clear.
+Free access to and subsequent use of data is of significant value to society and the economy.
+That data should, therefore, be open by default and only as closed as necessary.
 
-Listed below are the steps to making your data open.
+You can find more about the practical steps to make your data available in the section describing {ref}`Steps to Share your Data <rr-rdm-sharing-steps>` in the subchapter: {ref}`Sharing and Archiving Data<rr-rdm-sharing>`.
 
-### Steps to make your data open
+(rr-open-data-barriers)=
+## Barriers to Data Sharing
+Many academics find sharing data difficult.
+Recent surveys {cite}`Stuart2018sharing` conducted amongst researchers list the following reasons:
 
-The steps below help you make your data findable, accessible, interoperable and reusable (FAIR). You can learn more about FAIR principles in the chapter on [research data management](/rdm/rdm).
+- Organising data in a presentable and useful way is challenging (mentioned by 46%)
+- Researchers are unsure about copyright and licensing (mentioned by 37%)
+- Researchers do not know which repository to use for different data types (raised by 33%)
 
-#### Step 1: Make your data available
+These are cultural challenges that might be addressed in changing practice going forward.
+However, there are also legal, ethical or contractual reasons that sometimes prevent making data publicly available in its entirety or even in parts.
+Below, we discuss some reasons explaining why this may be the case.
 
-Put your data online. 
-It should be easily discoverable and accessible, and made available without bureaucratic or administrative barriers, which can deter people from accessing the data. 
-Choose a location to store the data which will ensure historical copies of datasets are preserved, archived, and kept accessible as long as they retain value. 
-Whenever possible, researchers should provide data in its original, unmodified form.
+```{figure} ../../figures/data-privacy.jpg
+---
+height: 500px
+name: data-privacy
+alt: An image detailing why private data should be used. A person stands next to a well with 'private data' written on it and a padlock around it. It is black and white and blue. The text lists that 'people deserve - dignity, agency, privacy, rights, confirmed consent.'
+---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. [http://doi.org/10.5281/zenodo.3695300](http://doi.org/10.5281/zenodo.3695300)
+```
 
-Data should be free of charge, under [an open licence](https://fossbytes.com/open-sources-license-type/), (for example, those developed by Creative Commons) so it can be reused and remixed by other researchers. 
-The data should be available as a whole and at no more than a reasonable reproduction cost. 
-That is, no expensive piece of software should be required to read the file as this may obstruct researchers who wish to work with the dataset.
+(rr-open-data-barriers-privacy)=
+### Privacy And Data Protection
 
-#### Step 2: Make your data easy to understand
-
-Having data available is of no use if it cannot be understood. 
-For example, a table of numbers is useless if there are no headings which describe the contents of the rows and columns. 
-Therefore you should ensure that open datasets include consistent core metadata, and that the data is fully described. 
-This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.
-
-#### Step 3: Make your data easy to use
-
-The data should be made available in a modifiable, machine-readable format so that it can be effectively used and  manipulated.
-It is also important to think about the file formats that information is provided in. 
-Data should be presented in structured and standardized formats to support interoperability, traceability, and effective reuse. 
-In many cases, this will include providing data in multiple, standardized formats, so that it can be processed by computers and used by people.
-
-#### Step 4: Make your data citeable
-
-Data should be considered a legitimate, citable product of research. 
-Making data citeable (and citing data yourself) facilitates the giving of scholarly credit; in scholarly literature, whenever and wherever a claim relies upon data, the corresponding data should be cited. 
-Data citations facilitate identification of, access to, and verification of the specific data that support a claim, making it possible to reproduce the underlying analysis. 
-
-You should ensure that anyone who wishes to cite a dataset that you host has access to a persistent identifier such as a DOI in order to do so.
-Have a look in the [Credit for reproducible research chapter][credit] to see how to share and cite your data and other outputs.
-[credit]: /credit/credit
-
-A data citation should include a persistent method for identification that is unique, and widely understandable by a community. 
-There are several types of persistent identifier that could be used to identify datasets: examples include Handles, Archival Resource Keys (ARKs) and Persistent URLs (PURLs), all of which can be resolved to an Internet location. 
-The scheme that is gaining most traction is the Digital Object Identifier (DOI).
-
-<a name="doi_system"></a>
-The DOI System is an identifier scheme administered by the International DOI Foundation. 
-The task of managing DOI registers is delegated to registration agencies (for a list, see [here](http://www.doi.org/registration_agencies.html)) that each specialise in a type of resource. For research datasets, the registration agency is the [DataCite Consortium](https://www.datacite.org/). 
-Among the services it provides are human and machine interfaces for simple end-user administration of DOI registrations. 
-DataCite also collects metadata about each dataset it registers so they can be more easily understood and identified. 
-Any repository wishing to register DOIs needs to obtain a username and password from DataCite to gain access to the registration service. 
-While best practice has yet to emerge on some matters, certain conventions are already becoming established.
-
-In particular, when organisations register a DOI for a resource, they should not introduce semantic elements into the suffix, especially not metadata that might change over time (for example, publisher, archive, owner). 
-Assign identifiers to static datasets only when no further changes or corrections are expected (such as after quality control checks are complete). 
-As DOIs are used to cite data as evidence, the resource to which a DOI points should also remain unchanged, with any new version receiving a new DOI.
-
-Furthermore, whichever identifier scheme you pick make sure it allows the identifier to be resolved to a URL. 
-This URL should belong to a landing page that contains descriptive information about the dataset, as well as links or instructions for accessing it. 
-You should also ensure that datasets are made citable and identifiable at an appropriate level of granularity.
-For example, it would be no use citing CERN's entire data repository as someone attempting to reproduce your work would not be able to find the data used in a specific piece of work without considerable difficulty. 
-Where possible you should be able to cite the data used, and only the data used.
-
-### Barriers to data sharing
-
-Sometimes it may not be possible to make data publicly available in its entirety or even in part. 
-There are two main reasons this may be the case:
-
-#### Privacy
-
-Many fields of research involve working with sensitive personal data, medical research being the most obvious example.
-Individuals must be protected from (re)identification via their personal data used for research. 
-Anonymisation of the data may be sufficient in some cases, but ensuring that reidentification is not possible is becoming increasingly difficult due to technical progress, growing computational power and – ironically – more open data. 
-For example, reidentification may be possible via data-mining of accessible data and so-called quasi-identifiers, a set of (common) properties that are – in their combination – so specific that they can be used to identify individuals.
+Many fields of research involve working with sensitive personal data, with medical research being the most obvious example.
+Individuals must be protected from (re)identification via their data used for research.
+Anonymisation of the data may be sufficient in some cases, but ensuring that (re)identification is not possible is becoming increasingly difficult due to technical progress, growing computational power, and – ironically – more open data.
+For example, (re)identification may be possible via data-mining of accessible data and so-called quasi-identifiers, a set of (common) properties that are – in their combination – so specific that they can be used to identify individuals.
 
 Preserving privacy may still be possible if partial or generalised datasets are provided.
-For example, providing age bands instead of birth date or only the first two digits of postal codes.
-It may also be possible to provide the data in such a format that researchers can query it whist keeping the data itself closed, for example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual datapoints.
+For example, you may provide age bands instead of birth date or only the first two digits of postal codes.
+It may also be possible to provide the data in such a format that researchers can query it whilst keeping the data itself closed.
+For example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual data points.
 
-Data privacy is also maintained when dealing with data of national or commercial interest, details for which are listed in the chapter [Research Data Management](/rdm/rdm), in the section: [*National and commercially sensitive data*](/rdm/sharingarchiving.html#national-and-commercially-sensitive-data).
+Many fields of scientific disciplines involve working with sensitive personal data.
+Their management is well regulated in data protection legislation (in Europe through national implementations of the General Data Protection Regulation) and ethics procedures as they are established in most research institutions {cite} `EU2016protection`.
+
+(rr-open-data-barriers-consent)=
+### Consent
+
+For anonymised research data to be made available for future reuse, consent forms must cover sharing this data with other researchers.
+Research so far suggests that study participants are usually less concerned about the data being archived and shared than researchers think {cite}`Kuula2010archiving`.
+Participant information sheets and consent forms should include how research data will be stored, preserved and used in the long term, and how confidentiality will be protected when needed.
+
+(rr-open-data-barriers-anonymisation)=
+### Anonymisation
+
+Individuals must be protected from (re)identification through their data
+Anonymisation of the data may be sufficient in some cases, but ensuring that re-identification is not possible is becoming increasingly difficult.
+It might even be impossible due to technical progress, growing computational power and – ironically – more open data.
+
+For example, re-identification may be possible via data-mining of accessible data and so-called quasi-identifiers, a set of (common) properties that are – in their combination – so specific that they can be used to identify an individual.
+Preserving privacy may still be possible if partial or generalised datasets are provided, like age groups instead of birth date, or only the first two digits of postal codes.
+It may also be possible to provide the data in such a format that researchers can query whilst keeping the data itself closed.
+For example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual data points.
+Another way to provide anonymised data is to provide [synthetic data](https://en.wikipedia.org/wiki/Synthetic_data), data generated to reflect the conditions and properties of the raw data, without including any personal information.
+
+(rr-open-data-barriers-national)=
+### National and Commercially Sensitive Data
+
+In many cases, companies are understandably unwilling to publish much of their data.
+The reasoning goes that if commercially sensitive information of a company is disclosed, it will damage the company’s commercial interests and undermine competitiveness.
+This is based on the thinking that in competitive markets, innovation will only occur with some protection of information.
+If a company spends time and money developing something new, the details of which are then made public, then its competitors can easily copy it without having to invest the same resources.
+The result is that no one would innovate in the first place.
+Similarly, for public safety concerns, governments are often unwilling to publish data that relates to issues such as national security.
+In such cases, it may not be possible to make data open, or it may only be possible to share partial/obscured datasets.
+
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*

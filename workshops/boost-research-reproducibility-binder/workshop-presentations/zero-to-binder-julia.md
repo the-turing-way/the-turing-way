@@ -63,8 +63,8 @@ You can create a link to a **live, interactive** version of your code!
 
 1) Create a new repo on GitHub called "my-first-binder".
    - Don't forget to initialise with a README!
-2) Create a file called `hello.jl` via the web interface with `println("Hello from Binder!")` on the first line and commit to master
-3) Create a file called `Project.toml` (:rotating_light: the capitalisation is important!) with the following content and commit it to master.
+2) Create a file called `hello.jl` via the web interface with `println("Hello from Binder!")` on the first line and commit to the `main` branch
+3) Create a file called `Project.toml` (:rotating_light: the capitalisation is important!) with the following content and commit it to `main`.
    This will install Julia into the Binder environment.
 
    ```julia
@@ -82,7 +82,7 @@ You can create a link to a **live, interactive** version of your code!
    > **<https://github.com/your-username/my-first-binder>**
 3) As you type, the webpage generates a link in the "Copy the URL below..." box
    It should look like this:
-   > **<https://mybinder.org/v2/gh/your-username/my-first-binder/master>**
+   > **<https://mybinder.org/v2/gh/your-username/my-first-binder/HEAD>**
 4) Copy it, open a new browser tab and visit that URL.
    - You will see a "spinner" as Binder launches the repo.
 
@@ -121,8 +121,8 @@ It was easy to get started, but our environment is barebones - let's add a **dep
    CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
    ```
 
-3) Check for typos! Then commit to master.
-4) Visit **<https://mybinder.org/v2/gh/your-username/my-first-binder/master>** again in a new tab
+3) Check for typos! Then commit to `main`.
+4) Visit **<https://mybinder.org/v2/gh/your-username/my-first-binder/HEAD>** again in a new tab
 
 This time, click on "Build Logs" in the big, horizontal, grey bar.
 This will let you watch the progress of your build.
@@ -164,7 +164,7 @@ Pushing changes back to the GitHub repo through the container is not possible wi
 
 Binder is all about sharing your work easily and there are two ways to do it:
 
-- Share the **<https://mybinder.org/v2/gh/your-username/my-first-binder/master>** URL directly
+- Share the **<https://mybinder.org/v2/gh/your-username/my-first-binder/HEAD>** URL directly
 
 - Visit **<https://mybinder.org>**, type in the URL of your repo and copy the Markdown or ReStructured Text snippet into your `README.md` file.
   This snippet will render a badge that people can click, which looks like this: ![Binder](https://mybinder.org/badge_logo.svg)
@@ -263,7 +263,7 @@ See this [Software Carpentry lesson](https://swcarpentry.github.io/python-novice
 **JupyterLab** is installed into your containerized repo by default.
 You can access the environment by changing the URL you visit to:
 
-> **<https://mybinder.org/v2/gh/your-username/my-first-binder/master?urlpath=lab>**
+> **<https://mybinder.org/v2/gh/your-username/my-first-binder/HEAD?urlpath=lab>**
 
 **N.B.:** We've already seen how the `?filepath=` argument can link to a specific file in the ["What Binder Provides"](#what-binder-provides) section at the beginning of this workshop.
 

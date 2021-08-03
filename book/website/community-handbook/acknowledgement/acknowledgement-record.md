@@ -2,7 +2,7 @@
 # Record of Contributions
 
 Two documents in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way) are used for creating a record of contributions in _The Turing Way_: Contributors Table in the [`README`](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) file, and [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) file.
-This record is made available in the afterword of this book as {ref}`Contributors<aw-contributors-record-contributors>` and {ref}`Personal Highlights<aw-contributors-record-highlights>`.
+This record is made available in the afterword of this book as {ref}`Contributors<contributors-record-contributors>` and {ref}`Personal Highlights<contributors-record-highlights>`.
 These documents can be used for highlighting skills that our members have gained and shared through their involvement in _The Turing Way_.
 
 We invite all our members to co-create this record to capture the important work they do around answering questions, representing the project, developing and maintaining the infrastructure, and all other nurturing roles that make The Turing Way community so special.

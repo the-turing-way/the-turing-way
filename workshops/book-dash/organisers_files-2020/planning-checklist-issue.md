@@ -1,44 +1,52 @@
 ### Summary
 
 We will summarise our timeline and tasks for the book dash London, for Feb 2020
-
 ### What needs to be done?
 
-*Tasks will be coordinated by Malvika and Kirstie unless mentioned otherwise.*
+*Tasks are being coordinated by @malvikasharan, you are welcome to support her with your ideas and suggestions.*
 
-- [x] Finalising dates based on the location and people's availability
-    - [x] Book rooms at Turing Institute --- @LouiseABowler
-- [x] Write a blurb for advertisement
-- [x] Set a form for application (review and see if something from last time needs to be updated)
-- [x] Announce in the newsletter, promote on twitter at least 2-3 months in advance
-- [x] Think about who else needs to be invited - Artist, speaker etc.
-    - [x] Artist
-    - [x] Other stakeholders (project manager, collaborators, interns etc.)
-    - [ ] ...
-- [x] Send reminder in next newsletters with more details if needed
-- [x] Identify helpers and invite them
-- [x] Set an Eventbrite page with code for registration
-- [x] Close the application round in time (1-1.5 months ahead of the event)
-- [x] Review using Book Dash Rubrics for selection
-- [x] Send email to the selected attendees with registration
-- [x] Send email to the unselected attendees with feedback
-- [x] Collate participants preference for travel, accommodation and accessibility request
-- [x] Send an email to the participants regarding their travel, accommodation, schedule, and meal (* Let folks know that we're going vegetarian as default - get in touch if they want meat available)
-- [x] 😋 Book dinner for 20 people on Thursday 20 Feb --- @KirstieJane
-- [x] 🏨 Book hotel rooms for people who requested--- @malvikasharan through Gray Dawes
-     - [x] Double check with each participant if their plan as given on their registration hasn't changed
-- [x] 🚂 Book travel for those who requested --- @malvikasharan through Gray Dawes
-     - [x] Double check with each participant if their plan as given on their registration hasn't changed
-- [x] 😋 Book lunch for 20 people on Friday 21 Feb --- @malvikasharan & @LouiseABowler
-- [x] ❤️ Update introduction slides
-- [x] Token of thanks, this time collaborating with @sgibson91 on her idea.
+- [ ] Finalise dates based on the location and organisers' availability: 9-13 November 2020
+- [ ] Book location for in-person events
+- [ ] Set up an online platform ([Zoom](https://zoom.us/), or other accessible software) for remote collaboration - Malvika's Zoom
+- [ ] Set up shared notes: main event, pre-dash drop in calls and feedback
+- [ ] Set up a form for application by updating the previous version of the form
+- [ ] Discuss with co-organisers if some resources (such as email drafts or templates) need to be updated
+- [ ] Write a short description for online advertisement
+- [ ] Clearly state the following information in the registration form and communicate by email with the selected participants:
+  * what financial support will be available for either online or in-person events
+  * What arrangements will be available for online (such as online helpers and designated mentors) or on-site (such as quiet room and child care) for in-person events
+  * Include accessibility information such as live captioning for in-person events and quiet room/child nursing room for in-person events
+  * Mention the maximum limit for financial support request for online (such as for headphones) and in-person (such as for travel and accommodation) events
+- [ ] Announce in the newsletter and promote on Twitter
+- [ ] Think about who else needs to be invited, like Artists, speakers, more diverse participants
+  - [ ] Scriberia
+  - [ ] Last book dash attendees
+  - [ ] REG: GH
+- [ ] Identify helpers from the core members and invite them
+- [ ] Send a reminder in next newsletters with more details if needed
+- [ ] Set an Eventbrite page with a registration code for the selected participants
+- [ ] Close the application round in time
+- [ ] Set-up a form for reviewing applications
+- [ ] Review applications in a designated panel using Book Dash Rubrics for selection
+- [ ] Send an email to the selected attendees with registration
+- [ ] Send an email to the unselected attendees with feedback
+- [ ] Update presentation for introducing the project to the participants on day-1 of the book dash
+- [ ] Update shared HackMD for pre-event calls
+- [ ] Provide details on Code of Conduct, contribution guideline and ways to get involved in an ongoing discussion: create a dedicated page on GitHub
+- [ ] Prepare a care-package as a token of thanks for everyone involved
 
-### Who can help?
+**Additional task for an online Event**
 
-* Kirstie
-* Malvika
-* Louise
-* Sarah
+- [ ] State the requirement and expectation of the event
+  * An active GitHub account
+  * Some experience with using GitHub
+  * Familiarity with contribution guideline and Code of conduct
+  * A full working day time commitment
+  * Willingness to collaborate with others
+  * Participation at least one pre-book-dash call or a Collaboration Cafe
+- [ ] Discuss with the participants the possibility of creating 3 short days, rather than 1 full workday commitment to ensure flexibility
+- [ ] Collect address where a care package for them can be delivered
+- [ ]  idea: social breakout sessions in other languages, eg Spanish for the ones in sessions 3 and 4 each day.
 
 ---
 

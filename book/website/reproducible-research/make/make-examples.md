@@ -1,23 +1,15 @@
+(rr-make-examples-learnmake)=
 # Learn "Make" by Examples
 
-## Table of contents
-
-- [Makefiles](#makefiles)
-  - [Setting up](#setting-up)
-  - [Makefile no. 1 (The Basics)](#makefile-no-1-the-basics)
-  - [Makefile no. 2 (all and clean)](#makefile-no-2-all-and-clean)
-  - [Makefile no. 3 (Phony Targets)](#makefile-no-3-phony-targets)
-  - [Makefile no. 4 (Automatic Variables and Pattern Rules)](#makefile-no-4-automatic-variables-and-pattern-rules)
-  - [Makefile no. 5 (Wildcards and Path Substitution)](#makefile-no-5-wildcards-and-path-substitution)
-
+(rr-make-examples-makefiles)=
 ## Makefiles
 
-One of the things that might discourage someone from using Make is that 
-existing Makefiles can look quite complex, and it might seem difficult to 
-tailor one to your own needs. In this hands-on tutorial we will create a 
-Makefile from scratch for a real data analysis project. The idea is to explain 
-different features of Make by iterating through several versions of a Makefile 
-for this project. Hopefully the experience that you gain from this tutorial 
+One of the things that might discourage someone from using Make is that
+existing Makefiles can look quite complex, and it might seem difficult to
+tailor one to your own needs. In this hands-on tutorial we will create a
+Makefile from scratch for a real data analysis project. The idea is to explain
+different features of Make by iterating through several versions of a Makefile
+for this project. Hopefully the experience that you gain from this tutorial
 allows you to create Makefiles for your own projects.
 
 We will create a ``Makefile`` for a data analysis pipeline. The task is as
@@ -31,6 +23,7 @@ follows:
 *Throughout the tutorial code blocks that start with a dollar sign (``$``) are
 intended to be typed in the terminal.*
 
+(rr-make-examples-settingup)=
 ### Setting up
 
 We have created a basic repository for this task, that already contains
@@ -76,9 +69,10 @@ $ pip install matplotlib numpy
 ```
 
 You will also need a working version of ``pdflatex`` and, of course, ``make``.
-For installation instructions for Make, see 
-{ref}`rr-make-resources-installing`.
+ 
+For installation instructions for Make, see {ref}`rr-make-appendix-installing`.
 
+(rr-make-examples-makefile1)=
 ### Makefile no. 1 (The Basics)
 
 Let's create our first Makefile. In the terminal, move into the
@@ -152,13 +146,13 @@ we combine the three commands in a single recipe above.
 
 This is what the dependency tree looks like for this Makefile:
 
-![DAG for Makefile no. 1](../../figures/makefile_no_1.png)
+![DAG for Makefile no. 1](../../figures/makefile-no1.png)
 <small style="margin: 5pt auto; text-align: center; display: block;">The
 dependency graph for our first Makefile, created using
-[makefile2graph](https://github.com/lindenb/makefile2graph). Notice the 
+[makefile2graph](https://github.com/lindenb/makefile2graph). Notice the
 similarity to the figure {ref}`in the introduction<rr-make-summary>`!</small>
 
-
+(rr-make-examples-makefile2)=
 ### Makefile no. 2 (all and clean)
 
 In our first Makefile we have the basic rules in place. We could stick with
@@ -215,6 +209,7 @@ $ make
 Make should remove the output and intermediate files after the first command,
 and generate them again after the second.
 
+(rr-make-examples-makefile3)=
 ### Makefile no. 3 (Phony Targets)
 
 Typically, ``all`` and ``clean`` are defined as so-called [Phony
@@ -243,7 +238,7 @@ output/report.pdf: report/report.tex output/figure_1.png output/figure_2.png
 
 clean:
 	rm -f output/report.pdf
-	rm -f output/figure_*.pdf
+	rm -f output/figure_*.png
 ```
 
 Phony targets are also useful when you want to use Make recursively. In that
@@ -257,6 +252,7 @@ declared as phony.
 > have a directory of tests called **test** and want to have a target to run
 > them that's also called **test**.
 
+(rr-make-examples-makefile4)=
 ### Makefile no. 4 (Automatic Variables and Pattern Rules)
 
 There's nothing wrong with the Makefile we have now, but it's somewhat verbose
@@ -291,7 +287,7 @@ output/report.pdf: report/report.tex output/figure_1.png output/figure_2.png
 
 clean:
 	rm -f output/report.pdf
-	rm -f output/figure_*.pdf
+	rm -f output/figure_*.png
 ```
 
 We've replaced the input and output filenames in the recipes respectively by
@@ -305,7 +301,7 @@ There are more automatic variables that you could use, see [the
 documentation](https://www.gnu.org/software/make/manual/html_node/Automatic-Variables.html).
 
 (rr-make-examples-patternrules)=
-#### Pattern Rules 
+#### Pattern Rules
 
 Notice that the recipes for the figures have become
 identical!  Because we don't like to repeat ourselves, we can combine the two
@@ -327,7 +323,7 @@ output/report.pdf: report/report.tex output/figure_1.png output/figure_2.png
 
 clean:
 	rm -f output/report.pdf
-	rm -f output/figure_*.pdf
+	rm -f output/figure_*.png
 ```
 
 The ``%`` symbol is now a wildcard that (in our case) takes the value ``1`` or
@@ -338,7 +334,7 @@ An advantage of this is that if you now want to add another dataset, say
 ``input_file_3``, then you would only need to add that to the rule for the
 report!
 
-
+(rr-make-examples-makefile5)=
 ### Makefile no. 5 (Wildcards and Path Substitution)
 
 When Makefiles get more complex, you may want to use more advanced features
@@ -351,7 +347,6 @@ where they have more meaningful names. Let's switch over to the ``big_data``
 branch:
 
 ```bash
-$ git stash                     # stash the state of your working directory
 $ git checkout big_data         # checkout the big_data branch
 ```
 
@@ -499,6 +494,6 @@ many dependencies!
 
 The resulting PDF file should now look like this:
 
-![Report with all genres](../../figures/make_report_all_genres.png)<small
+![Report with all genres](../../figures/make-report-all-genres.png)<small
 style="margin: 5pt auto; text-align: center; display: block;">A compressed
 view of the report with histograms for all genres.</small>
