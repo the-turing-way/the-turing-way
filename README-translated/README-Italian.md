@@ -57,20 +57,22 @@ Una panoramica di _The Turing Way_ inizia al minuto 5:13 (in Inglese).
 ### Il progetto
 
 La riproducibilità della ricerca è necessaria per garantire l'affidabilità del lavoro scientifico.
-Finanziatori ed editori sempre più spesso richiedono che le pubblicazioni includano l'accesso ai dati grezzi ed al codice sorgente.
+Finanziatori ed editori richiedono sempre più spesso che le pubblicazioni includano l'accesso ai dati grezzi ed al codice sorgente.
 L'obiettivo è quello di garantire che tutti i risultati siano verificabili in maniera indipendente e possano essere usati come punto di partenza in lavori futuri.
 Tutto questo a volte è più facile a dirsi che a farsi.
 Condividere i risultati della ricerca significa comprendere la gestione dei dati, lo sviluppo del software, le scienze bibliografiche e le tecniche di integrazione continua: competenze che non sono ben spiegate o richieste ad accademici e data scientist. Non essendo queste materie comunemente insegnate, riconosciamo che il numero di requisiti e nuove competenze richieste possano essere un problema per i neofiti.
-_The Turing Way_ è un manuale per aiutare gli studenti, i loro supervisori, finanziatori ed editori a rendere la riproducibilità in data science "troppo facile da non fare", anche per coloro che non hanno mai lavorato secondo questi schemi.
+_The Turing Way_ è un manuale per aiutare gli studenti, i loro supervisori, finanziatori ed editori a rendere la riproducibilità in data science "troppo facile da non fare", anche per coloro che non hanno mai lavorato in questo modo.
 Il manuale comprende materiale di formazione sul version control, test di analisi e comunicazione aperta e trasparente con i nuovi utenti e si baserà su casi di studio e workshop del Turing Institute.
-Questo progetto è sviluppato in maniera aperta e nella nostra repository github sono benvenuti tutti i suggerimenti, le domande e i commenti: <https://github.com/alan-turing-institute/the-turing-way>.
+Questo progetto è sviluppato in maniera aperta e nel nostro repository GitHub sono benvenuti suggerimenti, domande e commenti: <https://github.com/alan-turing-institute/the-turing-way>.
 
 ### Il team
 
-Questi sono i membri del team (solo alcuni) al lavoro al Turing Institute.
-Per i dettagli su come contattarci, visita [ways of working document](ways_of_working.md).
+_The Turing Way_ è una collaborazione aperta e guidata dalla comunità. Chiunque partecipi a questo libro, indipendentemente dall'importanza del contributo, è riconosciuto in questo progetto come contributore e membro della comunità. Collaboratori di lunga data sono considerati come collaboratori principali ed hanno ruoli di leadership all'interno del progetto.
+Il progetto è coordinato da **Kirstie Whitaker** (founder) e **Malvika Sharan** (community developer) ed è ospitato dal [The Alan Turing Institute](https://www.turing.ac.uk/).
 
-![Team photo](book/website/figures/TuringWayTeam.jpg)
+Per maggiori informazioni, puoi leggere [questa guida](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) e la [Lista dei Contributori](https://the-turing-way.netlify.app/afterword/contributors-record.html) per capire come riconosciamo il tuo lavoro e come i nostri contributori sono messi in evidenza nel progetto.
+
+Consulta [l'elenco dei collaboratori](#contributors) per i profili GitHub di tutti i contributori.
 
 ### Come contribuire
 
