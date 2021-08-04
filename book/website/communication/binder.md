@@ -58,14 +58,18 @@ You can find out more about Project Binder and mybinder.org on their [About mybi
 
 In this section, there are some related terms, which will be outlined here for clarity:
 
-- **Binder**: A sharable version of a project that can be viewed and interacted within a reproducible computational environment running in the cloud via a web browser.
+- **Project Binder**: An open community that makes it possible to create sharable, interactive, reproducible environments.
+  The technological output of this project is a {ref}`rr-binderhub`.
 - **BinderHub**: A cloud-based infrastructure for generating Binders.
   The most widely-used is [mybinder.org](https://mybinder.org), which is maintained by the Project Binder team.
-  It is possible to create other BinderHubs which can support more specialised configurations.
+  It is built upon a range of open source tools, including [JupyterHub](https://z2jh.jupyter.org), for providing cloud compute resources to users via a browser; and [`repo2docker`](https://repo2docker.readthedocs.io/), for building docker images from projects.
+  Since it is an open project, it is possible to create other BinderHubs which can support more specialised configurations.
   One such configuration could include authentication to enable private repositories to be shared amongst close collaborators.
+- **Binder**: A sharable version of a project that can be viewed and interacted within a reproducible computational environment running in the cloud via a web browser.
+  By automating the installation of the computing environment (as discussed in the {ref}`rr-renv` chapter), Binder transforms the overhead of sharing such an environment into the act of sharing a URL.
 - **[mybinder.org](https://mybinder.org)**: A public and free BinderHub.
   Because it is public, you should not use it if your project requires any personal or sensitive information (such as passwords).
-- **Binderize**: The process of making a Binder of a project.
+- **Binderize**: The process of making a Binder from a project.
 
 (binder-appropriate)=
 ## When is it appropriate to use Binder?
