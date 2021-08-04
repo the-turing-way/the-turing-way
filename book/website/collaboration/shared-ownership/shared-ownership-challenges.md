@@ -23,5 +23,5 @@ This may be part of the larger legal framework: specifying that software is owne
 
 ## Fix-Forward Approach
 
-Beyond the institutional level, open source projects should transcend national borders, but we have also found that organisations might restrict the use of software that is legally registered in another country {cite:t}`EU2013legal`.
+Beyond the institutional level, open source projects should transcend national borders, but we have also found that organisations might restrict the use of software that is legally registered in another country {cite:ps}`EU2013legal`.
 This, unfortunately, goes against the open source philosophy, but, as we explore some solutions for our main theme in the next section, we can learn to advocate for the subculture of open source within the organisation culture in which we operate.

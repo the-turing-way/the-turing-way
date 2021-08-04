@@ -66,7 +66,7 @@ Similarly, an article might be less likely to be accepted to a journal or a conf
 There's a good chance that reviewers will say "we already know this" and reject the submission.
 
 The bias towards novelty in data science means many researchers are disincentivised from doing the work to document, test and share their code and data.
-John Ioannidis published an influential paper in 2005 titled "Why Most Published Research Findings Are False" {cite:t}`Ioannidis2005False` which discusses the many factors that contribute to publication bias.
+John Ioannidis published an influential paper in 2005 titled "Why Most Published Research Findings Are False" {cite:ps}`Ioannidis2005False` which discusses the many factors that contribute to publication bias.
 Given these biases, it is very likely that there is a lot of duplicated work in data science.
 Too many different researchers are asking the same question, not getting the answer they expect or want, and then not telling anyone what they have found.
 

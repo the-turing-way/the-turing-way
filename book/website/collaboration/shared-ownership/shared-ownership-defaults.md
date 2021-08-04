@@ -1,7 +1,7 @@
 (cl-shared-ownership-defaults)=
 # Nudging for a Better Default
 
-Research has shown that humans making decisions have a strong tendency to go along with the status quo or default option (See the [Nudge Theory](https://www.imperial.ac.uk/nudgeomics/about/what-is-nudge-theory/) by {cite:t}`ThalerSunstein2009Nudge`).
+Research has shown that humans making decisions have a strong tendency to go along with the status quo or default option (See the [Nudge Theory](https://www.imperial.ac.uk/nudgeomics/about/what-is-nudge-theory/) by {cite:ps}`ThalerSunstein2009Nudge`).
 In the absence of an actively defined default, the prevailing cultural or institutional norm becomes the de-facto option of choice.
 And hence, the default options for ongoing and new projects should nudge strongly towards adopting a shared ownership model.
 

@@ -9,7 +9,7 @@ This requires that all documentation accompanying data is written in clear, plai
 - The level of documentation and metadata [{term}`def<Metadata>`] will vary according to the project, and the range of people the data needs to be understood by.
 - Variables should be defined and explained using [data dictionaries](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary).
 - Data should be stored in logical and hierarchical folder structures, with a README file used to describe the structure.
-The README file is helpful for others and will also help you find your data in the future {cite:t}`Fuchs2018documentation`.
+The README file is helpful for others and will also help you find your data in the future {cite:ps}`Fuchs2018documentation`.
 See the [README template from Cornell](https://cornell.app.box.com/v/ReadmeTemplate) for an example.
 - It is best practice to use recognised community metadata standards to make it easier for datasets to be combined.
 

@@ -23,9 +23,9 @@ Learn about the less obvious benefits of working reproducibly in the {ref}`Added
 
 Major media outlets have [reported on](https://www.theguardian.com/science/2018/aug/27/attempt-to-replicate-major-social-scientific-findings-of-past-decade-fails) investigations showing that a significant percentage of scientific studies cannot be reproduced.
 
-This leads to other academics and society losing trust in scientific results {cite:t}`baker2016reproducibility`.
+This leads to other academics and society losing trust in scientific results {cite:ps}`baker2016reproducibility`.
 Working reproducibly means others can check your results - even early on in the research process.
 Thus, the full analysis and methodology are transparent.
 
-In addition, so called "negative results" can be published easily, helping avoid other researchers wasting time repeating analyses that will not return the expected results {cite:t}`Dirnagl2010bias`.
+In addition, so called "negative results" can be published easily, helping avoid other researchers wasting time repeating analyses that will not return the expected results {cite:ps}`Dirnagl2010bias`.
 For further reading resources on reproducibility, please check out the {ref}`Resources <rr-overview-resources>` subchapter.

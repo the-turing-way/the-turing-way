@@ -50,6 +50,6 @@ There may be a specific community with another language that needs to be engaged
 ## FAIR resources
 
 It is worth considering applying the FAIR principles to all the science communications that you deposit in open repositories, such as conference presentations and posters, as this will make them more sustainable.
-* Tips to apply the FAIR principles to training materials by Garcia et al (2020) {cite:t}`Garcia2020ten` can be easily adapted for this purpose.
+* Tips to apply the FAIR principles to training materials by Garcia et al (2020) {cite:ps}`Garcia2020ten` can be easily adapted for this purpose.
 
 Find out more in our {ref}`sub-chapter on The FAIR Principles<rr-rdm-fair>`.
