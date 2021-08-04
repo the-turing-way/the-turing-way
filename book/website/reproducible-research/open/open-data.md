@@ -93,3 +93,5 @@ If a company spends time and money developing something new, the details of whic
 The result is that no one would innovate in the first place.
 Similarly, for public safety concerns, governments are often unwilling to publish data that relates to issues such as national security.
 In such cases, it may not be possible to make data open, or it may only be possible to share partial/obscured datasets.
+
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*

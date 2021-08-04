@@ -1,6 +1,11 @@
 (rr-overview)=
 # Overview of Reproducible Research
 
+(rr-overview-prerequisites)=
+## Prerequisites
+
+No previous knowledge needed.
+
 ```{figure} ../figures/research-cycle.jpg
 ---
 name: research-cycle
@@ -8,10 +13,6 @@ alt: The research process is represented as a perpetual cycle between research i
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
-
-(rr-overview-prerequisites)=
-## Prerequisites
-No previous knowledge needed.
 
 (rr-overview-summary)=
 ## Summary
@@ -29,3 +30,6 @@ Thus, the full analysis and methodology are transparent.
 
 In addition, so called "negative results" can be published easily, helping avoid other researchers wasting time repeating analyses that will not return the expected results {cite:ps}`Dirnagl2010bias`.
 For further reading resources on reproducibility, please check out the {ref}`Resources <rr-overview-resources>` subchapter.
+
+
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*
