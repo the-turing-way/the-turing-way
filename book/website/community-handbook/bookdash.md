@@ -1,10 +1,11 @@
 (ch-bookdash)=
 # _The Turing Way_ Book Dashes
 
-A "Book Dash" is a shorter version of a [Book Sprint](https://en.wikipedia.org/wiki/Book_sprint), where participants work on _The Turing Way_ book synchronously on the same day either in person or online.
-This event is organised for 1 to 1.5 days to allow attendees to learn about the project, meet other contributors, discuss their ideas and experiences, and collaboratively develop and enhance resources in _The Turing Way_ book.
+_The Turing Way_ [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date.
+They also contribute to enhancing the project by improving the ways we work in the community and take lead on accomplishing different tasks or subprojects.
 
-For many attendees, this is also the first time they get to contribute to a community-developed Open Source project.
+In the past, we have organised 1-1.5 day long Book Dash events in person or partially remote.
+However, with the COVID-19 pandemic situation, we movedthe last two Book Dash's online (November 2020 and May 2021) and designed them with multiple short co-working sessions spread over 5 days for flexible participation by members in different time zones.
 
 ```{figure} ../figures/first-pull-request.png
 ---
