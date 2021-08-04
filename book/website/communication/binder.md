@@ -9,10 +9,37 @@ In this chapter, we will discuss Project Binder as a means to transparently and 
 (binder-what)=
 ## What is Binder?
 
-The Binder Project is an open community that makes it possible to create sharable, interactive, reproducible environments.
-The technological output of this project is a {ref}`rr-binderhub`.
-Binder is built upon a range of open source tools, including [JupyterHub](https://z2jh.jupyter.org), for providing cloud compute resources to users via a browser; and [`repo2docker`](https://repo2docker.readthedocs.io/), for building docker images from projects.
-By automating the installation of the computing environment (as discussed in the {ref}`rr-renv` chapter), Binder transforms the overhead of sharing such an environment into the act of sharing a URL.
+We've discussed why it's important to share your work and we've reached a point where we've decided to publish some Jupyter Notebooks with analysis code on a collaboration platform, such as GitHub.
+
+GitHub is a great platform for sharing code _statically_.
+If the repository is public, anyone can navigate to your Notebook and read the contents.
+However, _running_ code is a lot more complicated than just displaying it as GitHub does.
+A lot of interdependent parts are required to run code, such as:
+
+- a copy of the code itself;
+- the appropriate software to execute it;
+- any extra packages the code depends on that aren't shipped as part of the core software;
+- any input data the analysis requires;
+- and you also need some hardware (a computer!) to run it on as well.
+
+On top of acquiring all those parts, you also have to install them correctly and in such a way that they are not influenced or come into conflict with other software that may be running on your machine.
+It's a lot of work!
+
+How much easier would it be if we could **run code in the browser**, similar to how it's currently displayed?
+This is what Project Binder aims to achieve.
+
+Project Binder provides a user with the following infrastructure:
+
+- some hardware to execute code, usually a server hosted in the cloud but can be on-premise hardware too;
+- a computational environment containing:
+  - the approriate software,
+  - any extra package dependencies,
+  - any required input data,
+  - and a copy of the code itself (Notebooks or scripts);
+- a URL to where the environment is running so the code can be interacted with by you or your collaborators.
+
+Binder has packaged together all of the moving parts that make sharing computational work challenging into a simple to use interface.
+There is a **free and public** version of this interface running at [**mybinder.org**](https://mybinder.org).
 
 The cartoon below, by Juliette Taka, demonstrates one workflow a scientist using Binder might adopt.
 
