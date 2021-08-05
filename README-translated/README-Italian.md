@@ -34,8 +34,6 @@ Puoi leggere il libro [online](https://github.com/alan-turing-institute/the-turi
 
 *Screenshot del libro The Turing Way online ([usa questa immagine in una presentazione](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
 
-Inizialmente una guida lievemente opinionata per data science, _The Turing Way_ ora è
-
 Il libro _The Turing Way_ è iniziato come una guida lievemente opinionata nel 2019 e si è gradualmente trasformato in una serie di guide su Ricerca Riproducibile, Design di Progetti, Comunicazione, Collaborazione e Ricerca Etica.
 Ogni guida comprende capitoli su diversi argomenti e include le migliori pratiche da adottare, indicazioni e raccomandazioni.
 Questi capitoli sono stati scritti in collaborazione con studenti, ricercatori, educatori, ledear della comunità, politici e professionisti con background eterogeneo, esperienze vissute e conoscenze di settore.
@@ -76,16 +74,25 @@ Consulta [l'elenco dei collaboratori](#contributors) per i profili GitHub di tut
 
 ### Come contribuire
 
-:construction: Questa repository è sempre in costruzione e **tutti** sono incoraggiati ad aiutarci in questo progetto che può essere utile a molti. :construction:
+:construction: Questo repository è sempre in costruzione e **tutti** sono incoraggiati ad aiutarci in questo progetto che può essere utile a molti. :construction:
 
-Tutti sono tenuti a seguire il nostro [codice di condotta](CODE_OF_CONDUCT.md) e a leggere le nostre [linee guida](CONTRIBUTING.md) prima di iniziare.
+Tutti sono tenuti a seguire il nostro [codice di condotta](CODE_OF_CONDUCT.md) e a leggere le nostre [linee guida](CONTRIBUTING.md) per avere più informazioni su come iniziare.
+Vogliamo rendere la contribuzione a questo progetto il più facile possibile.
+Per questo motivo, cisono diversi modi in cui è possibile contribuire in base ai propri interessi, disponibilità e capacità.
 
-Se non te la senti di aiutare su GitHub, potresti anche contribuire con un caso di studio o con dei suggerimenti tramite il nostro [form su Google docs](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
+![Questa immagine mostra sei dei diversi modi in cui chiunque può contribuire. Questi sono: sviluppare e condividere, mantenere e migliorare, condividere risorse, revisione e aggiornamento, rendere il progetto globale attraverso la traduzione, e condividere le migliori pratiche.](book/website/figures/README_imgs/README_contributions.png)
+
+*Tra i modi di contribuire ci sono anche lo sviluppo e la condivisione di nuovi capitoli, la manutenzione e il miglioramento dei capitoli esistenti, la condivisione delle risorse de _The Turing Way_, la revisione e l'aggiornamento del materiale, la traduzione dei capitoli per rendere questo progetto accessibile globalmente, la condivisione delle miglior pratiche nell'amito della ricerca.*
+
+Ai membri della comunità vengono date opportunità per imparare nuove abilità, condividere le proprie idee e collaborare con altri.
+Vengono anche fornite possibilità di avere, e si incoraggia poi ad essere, un mentore per contribuzioni a _The Turing Way_ e ad altri progetti open source.
+
+Abbiamo creato un [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) per aiutarti a presentare e condividere _The Turing Way_.
 
 ### Citare _The Turing Way_
 
 Puoi citare _The Turing Way_ attraverso l'archivio del progetto Zenodo usando il DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
-Il DOI (digital object identifier) ci permette di archiviare le repository ed è molto utile per garantire che il lavoro venga tracciato nelle pubblicazioni accademiche.
+Il DOI (digital object identifier) ci permette di archiviare i repository ed è molto utile per garantire che il lavoro venga tracciato nelle pubblicazioni accademiche.
 
 Come apparirà la citazione:
 
@@ -95,12 +102,12 @@ Puoi anche condividere una pagina del manuale usando un URL leggibile, per esemp
 Potresti includere un link del web archive, ad esempio: <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> per essere sicuro di non ritrovarti ovunque con (broken links) collegamenti obsoleti!
 
 Apprezziamo molto qualsiasi tipo di riferimento al progetto _The Turing Way_ .
-Se hai ancora dei dubbi [contattaci](#get-in-touch).
+Se hai ancora dei dubbi o delle domande [contattaci](#get-in-touch).
 
 ### Citare le immagini di _The Turing Way_
 
-Le illustrazioni su _The Turing Way_ sono state create da artisti di [Scriberia](https://www.scriberia.co.uk/) durante il [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) a Manchester il 17 maggio 2019, e Londra il 28 maggio 2019 and 21 febbraio 2020.
-Descrivono una varietà di contenuti, dal manuale, alla community, fino al progetto _The Turing Way_ in generale.
+Le illustrazioni su _The Turing Way_ sono state create da artisti di [Scriberia](https://www.scriberia.co.uk/) durante i [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) il 17 maggio 2019 a Manchester ed il 28 maggio 2019 e il 21 febbraio 2020 a Londra.
+Descrivono una varietà di contenuti del manuale, gli sforzi collaborativi della community e il progetto _The Turing Way_ in generale.
 
 Le illustrazioni sono disponibili su Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) sotto licenza CC-BY.
 
@@ -112,18 +119,30 @@ L'ultima versione di Zenodo può essere menzionata come:
 
 > The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3695300
 
-Abbiamo utilizzato alcune di queste immagini nelle risposte del [Welcome Bot](https://github.com/apps/welcome) ai contributi dei nuovi membri nella nostra repository su GitHub.
+Abbiamo utilizzato alcune di queste immagini nelle risposte del [Welcome Bot](https://github.com/apps/welcome) ai contributi dei nuovi membri nel nostro repository su GitHub.
 
 ### Contattaci
 
-Abbiamo una chat room su gitter e ci farebbe piacere se passassi a dire ciao <https://gitter.im/alan-turing-institute/the-turing-way>.
+#### Email
+
+Puoi contattare il team *The Turing Way* scrivendo a [theturingway@gmail.com](mailto:theturingway@gmail.com).
+
+In alternativa, puoi contattare **Malvika Sharan** tramite [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) oppure **Kirstie Whitaker** scrivendo a [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
+
+#### Chat
+
+Discuti le tue idee e connetti con altri su Slack usando [questo invito](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw).
+
+Abbiamo una chat room su Gitter (se preferisci un'alternativa open source) e ci farebbe piacere se passassi a salutarci a <https://gitter.im/alan-turing-institute/the-turing-way>.
 La chat room è sincronizzata con [Matrix](https://matrix.org) su [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) e puoi raggiungerci anche qui se preferisci.
 
-Abbiamo anche una mailing list su tiny letter con la quale inviamo aggiornamenti mensili sul progetto.
+#### Recieve Updates
+
+Abbiamo anche una mailing list su *tinyletter* con la quale inviamo aggiornamenti mensili sul progetto.
 Iscriviti a questo link <https://tinyletter.com/TuringWay>.
 
-Puoi contattare il nostro community manager **Malvika Sharan** tramite questo indirizzo email [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
-In alternativa, puoi contattare il responsabile della ricerca **Kirstie Whitaker** tramite questo indirizzo email [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
+Puoi anche seguirci su Twitter ([@turingway](https://twitter.com/turingway)).
+
 
 ## Collaboratori
 
