@@ -5,7 +5,7 @@ _The Turing Way_ [Book Dash events](https://the-turing-way.netlify.app/community
 They also contribute to enhancing the project by improving the ways we work in the community and take the lead on accomplishing different tasks or subprojects.
 
 In the past, we have organised 1-1.5 day long Book Dash events in person or partially remote.
-However, with the COVID-19 pandemic situation, we movedthe last two Book Dash's online (November 2020 and May 2021) and designed them with multiple short co-working sessions spread over 5 days for flexible participation by members in different time zones.
+However, with the COVID-19 pandemic situation, we moved the last two Book Dash's online (November 2020 and May 2021) and designed them with multiple short co-working sessions spread over 5 days for flexible participation by members in different time zones.
 
 ```{figure} ../figures/first-pull-request.png
 ---
