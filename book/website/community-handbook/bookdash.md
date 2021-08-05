@@ -5,7 +5,7 @@ _The Turing Way_ [Book Dash events](https://the-turing-way.netlify.app/community
 They also contribute to enhancing the project by improving the ways we work in the community and take the lead on accomplishing different tasks or subprojects.
 
 In the past, we have organised 1-1.5 day long Book Dash events in person or partially remote.
-However, with the COVID-19 pandemic situation, we moved the last two Book Dash's online (November 2020 and May 2021) and designed them with multiple short co-working sessions spread over 5 days for flexible participation by members in different time zones.
+However, with the COVID-19 pandemic situation, we moved the last two Book Dashes online (November 2020 and May 2021) and designed them with multiple short co-working sessions spread over 5 days for flexible participation by members in different time zones.
 
 ```{figure} ../figures/first-pull-request.png
 ---
@@ -22,7 +22,7 @@ As a community-driven guidebook, _The Turing Way_ aims to co-create contents tha
 Hence, _The Turing Way_ specifically welcomes contributors from diverse fields, identities, and backgrounds who can propose ideas and work on new aspects of an existing chapter or create new chapters in its guides.
 
 All the contributions are managed through GitHub.
-Since many participants of book dash are new to the project and often new users of GitHub, the team members make sure that they take time to introduce the project and teach collaboration through GitHub before the book dash.
+Since many participants of the Book Dash are new community members, and often new users of GitHub, the team members make sure that they take time to introduce the project and teach collaboration through GitHub before the Book Dash.
 
 The skills and contributions that we invite at the book dash include, but are not limited to:
 
@@ -40,17 +40,17 @@ The skills and contributions that we invite at the book dash include, but are no
 
 ## Who Should Apply to Join the Book Dash
 
-We want participants to get the most out of our book dash. Therefore, we encourage applications from current members of our community, new and old (we mean in terms of experienced not age 😉). 
+We want participants to get the most out of our Book Dash. Therefore, we encourage applications from current members of our community, new and old (we mean in terms of experienced not age 😉). 
 We want applicants to know about *The Turing Way*, how we work collaboratively and have a good idea of how they can contribute to our resource. 
 
 This does not mean that you must have made a contribution before - it is more about having interacted with our community in some way so that you will be able to make a contribution during the Book Dash more easily, even if this is with the support of more experienced community members. 
 
-If you have not interacted with our community before, but want to take part in a book dash - come to one of our community events such as [co-working sessions](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html) or the [collaboration cafe](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#ch-coworking-collabcafe). 
+If you have not interacted with our community before, but want to take part in a Book Dash, come to one of our community events such as [co-working sessions](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html) or the [collaboration cafe](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#ch-coworking-collabcafe). 
 This way, you will get to know about our project and understand more about how you could contribute during a Book Dash. 
 
 ## Support In-Person, Hybrid and Remote Participation
 
-Previous Book dashes have been organised for in-person participation in venues located in the UK (home country of the project), as hybrid events, or fully online.
+Previous Book Dashes have been organised for in-person participation in venues located in the UK (home country of the project), as hybrid events, or fully online.
 
 **For participants attending a Book Dash in person:** 
 * All the participants who need to travel to the event's venue are offered financial support to cover their travel, accommodation, and related expense such as childcare or special accessibility requirements.
@@ -62,7 +62,7 @@ Previous Book dashes have been organised for in-person participation in venues l
 Based on the success of this hybrid format and further demand for more remote participation, we have had two remote events so that travel was not required.
 * However, financial support will be available to support the remote accessibility requirements of the participants at hybrid and fully remote Book Dashes.
 This will include (but not be limited to) temporary access to high-speed internet, childcare grant and live captioning during the event.
-* These bursaries will be made available to rent or purchase small hardware such as headphones or webcam that can enhance the quality of participation at the book dash.
+* These bursaries will be made available to rent or purchase small hardware such as headphones or webcam that can enhance the quality of participation at the Book Dash.
 * There is also financial support for subsistence costs such as buying a special meal or treat for the online social events during the event. 
 
 ## More Resources on Book Dash
