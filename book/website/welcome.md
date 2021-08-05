@@ -9,8 +9,8 @@ Our goal is to provide all the information that researchers and data scientists 
 
 ```{admonition} Top Tip
 :class: tip
-_The Turing Way_ is not meant to be read from start to finish. 
-Start with a concept, tool or method that you need now, in your current work. 
+_The Turing Way_ is not meant to be read from start to finish.
+Start with a concept, tool or method that you need now, in your current work.
 Browse the different guides that make up the book, or use the search box to search for whatever you would like to learn about first.
 ```
 
