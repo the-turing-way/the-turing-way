@@ -41,7 +41,7 @@ The skills and contributions that we invite at the book dash include, but are no
 ## Who Should Apply to Join the Book Dash
 
 We want participants to get the most out of our Book Dash events. Therefore, we encourage applications from current members of our community, new and old (we mean in terms of experienced not age 😉). 
-We want applicants to know about *The Turing Way*, how we work collaboratively and have a good idea of how you can contribute to our resource. 
+We want applicants to know about *The Turing Way*, how we work collaboratively and have a good idea of how they can contribute to our resource. 
 
 This does not mean that you must have made a contribution before - it is more about having interacted with our community in some way so that you will be able to make a contribution during the Book Dash more easily, even if this is with the support of more experienced community members. 
 
