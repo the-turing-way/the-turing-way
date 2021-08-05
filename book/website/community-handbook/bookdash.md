@@ -19,37 +19,51 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 ## Inviting Diverse Contributions
 
 As a community-driven guidebook, _The Turing Way_ aims to co-create contents that are comprehensible and beneficial for the wider community of data scientists and researchers.
-Hence, _The Turing Way_ specifically welcomes contributors from diverse fields, identities, and backgrounds who can propose ideas and work on the new aspects of an existing chapter or create new chapters in its guides.
+Hence, _The Turing Way_ specifically welcomes contributors from diverse fields, identities, and backgrounds who can propose ideas and work on new aspects of an existing chapter or create new chapters in its guides.
 
-All the contributors are managed through GitHub.
+All the contributions are managed through GitHub.
 Since many participants of book dash are new to the project and often new users of GitHub, the team members make sure that they take time to introduce the project and teach collaboration through GitHub before the book dash.
 
 The skills and contributions that we invite at the book dash include, but are not limited to:
 
-- science communication and technical writing skills
-- examples and case studies of reproducible research
-- editing and reviewing of existing contents
-- technical tools and methods in data science
-- interest in creating contents on community building and collaboration
-- developing learning resources and reusable contents on ethics and AI
-- artistic skills for illustrations, sketch notes, and infographics
-- enhancing online aspects of the book (for example, CSS, layout, interactivity, continuous integration)
-- improving accessibility of the content and sharing accessibility principles in data science
-- data visualisation skills and best practices
-- storytelling skills that can help make our content more engaging
+- Science communication and technical writing skills.
+- Examples and case studies of reproducible research.
+- Editing and reviewing of existing contents.
+- Technical tools and methods in data science.
+- Interest in creating contents on community building and collaboration.
+- Developing learning resources and reusable contents on ethics and AI.
+- Artistic skills for illustrations, sketch notes, and infographics.
+- Enhancing online aspects of the book (for example, CSS, layout, interactivity, continuous integration).
+- Improving accessibility of the content and sharing accessibility principles in data science.
+- Data visualisation skills and best practices.
+- Storytelling skills that can help make our content more engaging.
+
+## Who Should Apply to Join the Book Dash
+
+We want participants to get the most out of our Book Dash events. Therefore, we encourage applications from current members of our community, new and old (we mean in terms of experienced not age 😉). 
+We want applicants to know about *The Turing Way*, how we work collaboratively and have a good idea of how you can contribute to our resource. 
+
+This does not mean that you must have made a contribution before - it is more about having interacted with our community in some way so that you will be able to make a contribution during the Book Dash more easily, even if this is with the support of more experienced community members. 
+
+If you have not interacted with our community before, but want to take part in a Book Dash - come to one of our community events such as [co-working sessions](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html) or the [collaboration cafe](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#ch-coworking-collabcafe). 
+This way, you will get to know about our project and understand more about how you could contribute during a Book Dash. 
 
 ## Support In-Person, Hybrid and Remote Participation
 
-All the book dashes so far have been organised for in-person participation in venues located in the UK (home country of the project).
-All the participants who need to travel to the event's venue are offered financial support to cover their travel, accommodation, and related expense such as childcare or special accessibility requirements.
+Previous Book dashes have been organised for in-person participation in venues located in the UK (home country of the project), as hybrid events, or fully online.
 
-In the past, due to the funding model allocated to _The Turing Way_, we had to limit our selection to the contributors within European countries.
-To overcome this limitation, in the last book dash we experimented with partial remote participation where one of the participants coordinated with their team remotely.
-Based on the success of this hybrid format and further demand for more remote participation, we intend to organise this as a hybrid (partially remote) and complete remote events in the future.
+**For participants attending a Book Dash in person:** 
+* All the participants who need to travel to the event's venue are offered financial support to cover their travel, accommodation, and related expense such as childcare or special accessibility requirements.
 
-In the case of hybrid and remote events, financial support will be available to support the accessibility requirements of the participants.
-This will include (but not limited to) temporary access to high-speed internet, childcare grant and live captioning during the event.
-Bursaries will be made available to rent or purchase small hardware such as headphones or webcam that can enhance the quality of participation at the book dash.
+* In the past, due to the funding model allocated to _The Turing Way_, we had to limit our selection to the contributors within European countries.
+
+**For participants attending a Book Dash remotely:** 
+* We have experimented with partial remote participation where one of the participants coordinated with their team remotely.
+Based on the success of this hybrid format and further demand for more remote participation, we have had two remote events so that travel was not required.
+* However, financial support will be available to support the remote accessibility requirements of the participants at hybrid and fully remote Book Dashes.
+This will include (but not be limited to) temporary access to high-speed internet, childcare grant and live captioning during the event.
+* These bursaries will be made available to rent or purchase small hardware such as headphones or webcam that can enhance the quality of participation at the book dash.
+* There is also some financial support for subsistence costs such as buying a special meal or treat for the online social events during the event. 
 
 ## More Resources on Book Dash
 
