@@ -345,6 +345,21 @@ parts:
         file: communication/os-comms/os-comms-issue-tracking
       - title: Communication Channels
         file: communication/os-comms/os-comms-channels
+    - title: Authorship and Contributions on academic articles
+      file: communication/aa
+      sections:
+      - title: Overview of Academic Authorship
+        file: communication/aa/overview
+      - title: Types of Authorship Misconduct
+        file: communication/aa/misconduct
+      - title: Discipline specific authorship traditions
+        file: communication/aa/traditions
+      - title: Large and equitable authorships
+        file: communication/aa/equitable  
+      - title: Tips on how to get authorship right
+        file: communication/aa/tips
+      - title: Resources
+        file: communication/aa/resources
 
   # ===== Guide for Collaboration ========================================
 
