@@ -40,12 +40,12 @@ The skills and contributions that we invite at the book dash include, but are no
 
 ## Who Should Apply to Join the Book Dash
 
-We want participants to get the most out of our Book Dash events. Therefore, we encourage applications from current members of our community, new and old (we mean in terms of experienced not age 😉). 
+We want participants to get the most out of our book dash. Therefore, we encourage applications from current members of our community, new and old (we mean in terms of experienced not age 😉). 
 We want applicants to know about *The Turing Way*, how we work collaboratively and have a good idea of how they can contribute to our resource. 
 
 This does not mean that you must have made a contribution before - it is more about having interacted with our community in some way so that you will be able to make a contribution during the Book Dash more easily, even if this is with the support of more experienced community members. 
 
-If you have not interacted with our community before, but want to take part in a Book Dash - come to one of our community events such as [co-working sessions](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html) or the [collaboration cafe](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#ch-coworking-collabcafe). 
+If you have not interacted with our community before, but want to take part in a book dash - come to one of our community events such as [co-working sessions](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html) or the [collaboration cafe](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#ch-coworking-collabcafe). 
 This way, you will get to know about our project and understand more about how you could contribute during a Book Dash. 
 
 ## Support In-Person, Hybrid and Remote Participation
@@ -63,7 +63,7 @@ Based on the success of this hybrid format and further demand for more remote pa
 * However, financial support will be available to support the remote accessibility requirements of the participants at hybrid and fully remote Book Dashes.
 This will include (but not be limited to) temporary access to high-speed internet, childcare grant and live captioning during the event.
 * These bursaries will be made available to rent or purchase small hardware such as headphones or webcam that can enhance the quality of participation at the book dash.
-* There is also some financial support for subsistence costs such as buying a special meal or treat for the online social events during the event. 
+* There is also financial support for subsistence costs such as buying a special meal or treat for the online social events during the event. 
 
 ## More Resources on Book Dash
 
