@@ -3,7 +3,8 @@
 
 A great deal of value is placed on academic authorship because a peer-reviewed journal article is still seen as the most valued output from a research project. 
 The number of articles an academic researcher is named on, and particularly whether the person is named as first author, has significant impact on their career.  
-But who should be an author on an article? And can we move away the idea that the first author takes the most credit?
+
+But who should be an author on an article? And can we move away from the idea of first author taking the most credit?
 
 (communication-aa-overview-who)=
 ## Who is an author? or are they actually contributors?
