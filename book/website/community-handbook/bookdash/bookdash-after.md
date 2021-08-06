@@ -1,6 +1,6 @@
 # After the Book Dash
 
-Our book dash attendees begin to introduce their perspectives and skills into the project at the book dash.
+Our Book Dash attendees begin to introduce their perspectives and skills into the project at the Book Dash.
 These participants go on to join our global community of contributors.
 
 We invite our attendees to contribute in any capacity that is most suitable for their interests and availability.
