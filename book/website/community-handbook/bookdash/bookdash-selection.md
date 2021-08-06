@@ -31,7 +31,7 @@ All applicants are contacted at least 4 weeks in advance to ensure that they can
 
 Upon confirmation, they are provided with registration details through which they can share any information that can help them and the organisers prepare for the Book Dash.
 Participants are asked to get familiarised with [_The Turing Way_ GitHub repository](https://github.com/alan-turing-institute/the-turing-way) where they will make their contributions during the Book Dash.
-The project's [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) and {ref}`Code of Conduct<ch-coc>` are also shared with the participants that are applicable to the book dash as well.
+The project's [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) and {ref}`Code of Conduct<ch-coc>` are also shared with the participants that are applicable to the Book Dash as well.
 
 To further support the participants, pre-event calls are hosted and further details are shared directly by email (discussed in the next subchapter).
 The names of the selected participants are announced in _The Turing Way_ newsletter and social media platforms upon agreement with the participants.
