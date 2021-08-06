@@ -68,7 +68,7 @@ In the future, we aim to experiment with a multi-hub format allowing multiple sm
 * Financial support is made available to support the remote accessibility requirements of the participants at hybrid and fully remote Book Dashes.
 It includes (but not be limited to) temporary access to high-speed internet, childcare grant and live transcription during the event.
 These bursaries are also available for rent or purchasing small hardware such as headphones or webcam to enhance participants overall experience.
-* There is also financial support for subsistence costs such as buying meals or treat for the online social events during the event.
+* There is also financial support for subsistence costs such as buying meals or treat for the online social events during the Book Dash.
 
 ## More Resources on Book Dash
 
