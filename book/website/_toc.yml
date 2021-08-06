@@ -547,10 +547,12 @@ chapters:
   - title: Template Collection
     file: community-handbook/templates
     sections:
-    - title: Book Dash Issue Template for Planning
-      file: community-handbook/templates/template-bookdash-issue
-    - title: Book Dash Template for Pre-event Call
+    - title: Book Dash Main Shared Document
+      file: community-handbook/templates/template-bookdash-index
+    - title: Book Dash Pre-event Onboarding
       file: community-handbook/templates/template-bookdash-precall
+    - title: Book Dash GitHub Session
+      file: community-handbook/templates/template-bookdash-github
     - title: Book Dash Template for Shared Notes
       file: community-handbook/templates/template-bookdash-notes
     - title: Book Dash Template for Feedback
