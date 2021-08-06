@@ -27,7 +27,7 @@ The Book Dash Planning Committee meets after they have individually scored the a
 They agree upon a final set of applicants selected to participate in the Book Dash.
 The panel members also create constructive feedback on the application that can be shared with the applicants who were not selected so that they can assess other pathways to engage with the project and core team.
 
-All applicants are contacted at least 4 weeks in advance to ensure that they can assess their situation and availability for the book dash.
+All applicants are contacted at least 4 weeks in advance to ensure that they can assess their situation and availability for the Book Dash.
 
 Upon confirmation, they are provided with registration details through which they can share any information that can help them and the organisers prepare for the book dash.
 Participants are asked to get familiarised with [_The Turing Way_ GitHub repository](https://github.com/alan-turing-institute/the-turing-way) where they will make their contributions during the book dash.
