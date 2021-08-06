@@ -18,8 +18,9 @@ Illustration of a process of sketching. [Royalty free image from Many Pixels](ht
 There are four MarkDown templates for the shared notes (HackMD), feedback and GitHub issue for organising and running _The Turing Way_ book dash events.
 These templates can be reused and adapted for different events within and outside _The Turing Way_ community.
 
-- {ref}`Issue Template for Planning Book Dashes<ch-template-bookdash-issue>`
+- {ref}`HackMD Template for Pre-Event Calls<ch-template-bookdash-index>`
 - {ref}`HackMD Template for Pre-Event Calls<ch-template-bookdash-precall>`
+- {ref}`Issue Template for Planning Book Dashes<ch-template-bookdash-github>`
 - {ref}`HackMD Template for Shared Note-Taking<ch-template-bookdash-notes>`
 - {ref}`HackMD Template for Post-Event Feedback<ch-template-bookdash-feedback>`
 
