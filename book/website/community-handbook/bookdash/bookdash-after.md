@@ -17,7 +17,7 @@ If they have a new idea that they would like to add to the project as a new sect
 ## Attend online Collaboration Cafe and coworking call
 
 Our online Collaboration Cafes take place every 1st Wednesdays and 3rd Wednesdays on each month.
-These calls are 2 hours long co-working spaces for _The Turing Way_ community.
+These calls are 2 hour long co-working spaces for the _The Turing Way_ community.
 Everyone interested in learning from or developing this project can join us for any duration possible for them. At these calls, one can work on their idea for a new contribution or enhancement of existing content in the project.
 
 Participants can sign up on this HackMD to attend the upcoming calls: https://hackmd.io/@KirstieJane/CollabCafe.
