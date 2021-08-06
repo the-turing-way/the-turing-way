@@ -26,7 +26,7 @@ Hence, _The Turing Way_ specifically welcomes contributors from diverse fields, 
 All the contributions are managed through GitHub.
 Since many participants of the Book Dash are new community members, and often new users of GitHub, the team members make sure that they take time to introduce the project and teach collaboration through GitHub before the Book Dash.
 
-The skills and contributions that we invite at the book dash include, but are not limited to:
+The skills and contributions that we invite at the Book Dash include, but are not limited to:
 
 - Science communication and technical writing skills.
 - Examples and case studies of reproducible research.
