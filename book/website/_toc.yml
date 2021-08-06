@@ -525,12 +525,14 @@ chapters:
     sections:
     - title: Application and Review Process
       file: community-handbook/bookdash/bookdash-application
-    - title: Participant Selection Process
-      file: community-handbook/bookdash/bookdash-preparation
     - title: Book Dash Logistics
       file: community-handbook/bookdash/bookdash-logistics
+    - title: Participant Selection Process
+      file: community-handbook/bookdash/bookdash-preparation
     - title: The Book Dash Main Event Plans
       file: community-handbook/bookdash/bookdash-events
+    - title: After the Book Dash
+      file: community-handbook/bookdash/bookdash-after
   - title: Community Coworking Calls
     file: community-handbook/coworking
     sections:
