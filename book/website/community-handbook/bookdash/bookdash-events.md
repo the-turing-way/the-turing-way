@@ -1,5 +1,5 @@
 (ch-bookdash-events)=
-# The Book Dash Event Plans
+# Book Dash Event Plans
 
 This subchapter provides information on the events that are organised for the book dash attendees.
 These events include a pre-event webinar for information, onboarding calls, GitHub introduction, development (coworking) sessions during the Book Dash and Community Share-Outs, which are explained below.

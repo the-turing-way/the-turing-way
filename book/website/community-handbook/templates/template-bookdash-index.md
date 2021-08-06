@@ -1,7 +1,7 @@
 (ch-template-bookdash-index)=
 # Book Dash Main Shared Document
 
-*This template can be shared via a HackMD page to provide all information centrally for the Book Dash participants. 
+*This template can be shared via a HackMD page to provide all information centrally for the Book Dash participants.
 The access permission can be set so that the notes can be read by everyone and edited by signed-in users.*
 
 ```
@@ -44,9 +44,9 @@ If you can't attend the GitHub Introduction Sessions, please check the following
 :lower_left_paintbrush: Illustrations by Scriberia Artist
 ---
 
-- We will have an artist - Sophie Ong - at the event who you would be able to interact with to help develop illustration relevant to your contribution to The Turing Way 
+- We will have an artist - Sophie Ong - at the event who you would be able to interact with to help develop illustration relevant to your contribution to The Turing Way
   - (add dates)  <--- update this
-  - Please use this hackmd to check to see if other projects have booked to work with the artist: 
+  - Please use this hackmd to check to see if other projects have booked to work with the artist:
 - Info to work with the artist at this hackmd: https://hackmd.io/@turingway/bookdash-may2021-scriberia  <--- update this
 - See reusable images from previous book dash events: [Zenodo link](https://zenodo.org/record/3332807)
 
@@ -164,14 +164,14 @@ In this session, all the contributors including the Book Dash attendees will hav
 **Order yourself a drink/snack (budget £25)**
 
 - We hope that you will enjoy a little treat on us to celebrate such a productive and exciting week.
-- We will reimburse up to £25 for you to have a drink (no hard alcohol) and/or snack of your choice to eat with us. We encourage you to purchase something that you would not usually have and that will bring you joy. 
+- We will reimburse up to £25 for you to have a drink (no hard alcohol) and/or snack of your choice to eat with us. We encourage you to purchase something that you would not usually have and that will bring you joy.
 - We can reimburse only for food or drink (no hard liquor/alcohol). Please check with Malvika if you have any question.
 
 :heavy_plus_sign::arrow_up_small: Pluses and deltas - Final Feedback Document <--- update links
 ---
-**IMPORTANT:** Please take a few minutes to **share your highlights** as a comment under issue [#1973](https://github.com/alan-turing-institute/the-turing-way/issues/1937) and **provide feedback** (pluses and delta: https://hackmd.io/@turingway/bookdash-may2021-feedback) from the event. 
+**IMPORTANT:** Please take a few minutes to **share your highlights** as a comment under issue [#1973](https://github.com/alan-turing-institute/the-turing-way/issues/1937) and **provide feedback** (pluses and delta: https://hackmd.io/@turingway/bookdash-may2021-feedback) from the event.
 
-_These will be extremely valuable for us to explain to our funders why this event was valuable, and to learn about your experience, what you enjoyed and how we can improve future events._ 
+_These will be extremely valuable for us to explain to our funders why this event was valuable, and to learn about your experience, what you enjoyed and how we can improve future events._
 
 Any day-to-day feedback during the event can be directly shared in the main event document.
 
@@ -207,7 +207,7 @@ Any day-to-day feedback during the event can be directly shared in the main even
 
 ## :gift: Your contribution to the project
 
-**Please read and follow our project [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)!** :sparkles: 
+**Please read and follow our project [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)!** :sparkles:
 
 If you find them confusing, difficult to follow or think that information needs to be added, please let us know! This will help us improve the contributing experience for everyone going forward.
 
@@ -215,20 +215,20 @@ If you find them confusing, difficult to follow or think that information needs 
 
 The tl;dr version for easy reference during dashing:
 1. Comment on an [existing issue](https://github.com/alan-turing-institute/the-turing-way/issues) or open a new issue referencing your addition.
-    * The [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/ISSUE_TEMPLATE.md) will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the "*Lorem ipsum*" sections.
+    * The [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/ISSUE_TEMPLATE.md) will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the placeholder sentences.
     * Add the ```book-dash-<location>``` label in the column on the right.
 2. [Fork](https://help.github.com/articles/fork-a-repo) the Turing Way repository to your GitHub profile.
 3. Make your changes!
 4. Submit a [pull request](https://help.github.com/articles/creating-a-pull-request).
     * Open a pull request as early in your contributing process as possible and add the label [WIP] to the title to designate "work in progress".
-    * The [pull request template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/PULL_REQUEST_TEMPLATE.md) will automatically be rendered in the comment section of the new pull request page, so all you need to do is edit the "*Lorem ipsum*" sections.
+    * The [pull request template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/PULL_REQUEST_TEMPLATE.md) will automatically be rendered in the comment section of the new pull request page, so all you need to do is edit the placeholder sentences.
     * Add the ```book-dash-<location>``` label in the column on the right.
     * As you continue to make changes they will automatically be included in your existing pull request.
     * Change [WIP] to [Ready for review] in the pull request title when you are happy for your contribution to be reviewed and merged. :tada:
 
 **What types of contributions can you make?**
 
-* Reviewers for your Book Dash application have suggested a few specific topics for each of you 
+* Reviewers for your Book Dash application have suggested a few specific topics for each of you
 * You can also collaborate with others or start slowly by checking out the list of [open issues](https://github.com/alan-turing-institute/the-turing-way/issues)
 * Proofread [existing chapters](https://the-turing-way.netlify.com) (check for typos, grammar, and links)
 * Add further information to an existing chapter
@@ -262,14 +262,14 @@ Octobox is a cool tool for managing your GitHub notifications: https://octobox.i
 :moneybag: Support grant and subsistence cost: Reimbursement guidelines
 ---
 
-**Book Dash Expenses Guidance** 
+**Book Dash Expenses Guidance**
 
-**What is covered?** 
+**What is covered?**
 
 -   Food & non-alcoholic drinks up to £50 (you can use this towards groceries to sustain your participation during the book dash)
 -   Accessibility items or costs up to £75  
 
-**Requirements** 
+**Requirements**
 
 -   Expenses will be reimbursed after the Book Dash  
 -   Participants will need to provide receipts for all expenses when they submit for reimbursement
