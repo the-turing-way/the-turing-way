@@ -7,6 +7,8 @@ The access permission can be set so that the notes can be read by everyone and e
 ```
 # Book Dash, DD Month YYYY - Day 1 <-- create one for each day
 
+###### tags: `bookdash YYYY` `month` `event`
+
 ==If you are new to HackMD, please see this short guide: [https://hackmd.io/@turingway/hackmd-guide](https://hackmd.io/@turingway/hackmd-guide)==
 
 :::info
