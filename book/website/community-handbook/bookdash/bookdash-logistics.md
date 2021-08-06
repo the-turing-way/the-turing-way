@@ -36,7 +36,7 @@ This checklist is also available as a {ref}`GitHub issue for planning<ch-templat
 - [ ] Send an email to the selected attendees with registration
 - [ ] Send an email to the unselected attendees with feedback
 - [ ] Set up an email chain and a Slack channel to connect all members and share updates
-- [ ] Update presentation for introducing the project to the participants on day-1 of the book dash
+- [ ] Update presentation for introducing the project to the participants on day-1 of the Book Dash
 - [ ] Update shared HackMD for `pre-event calls<ch-template-bookdash-precall>`, {ref}`book dash event<ch-template-bookdash-notes>` and {ref}`feedback<ch-template-bookdash-feedback>`
 - [ ] Provide details on Code of Conduct, contribution guideline and ways to get involved in an ongoing discussion
 - [ ] Host the onboarding call one week before the event to share logistics and facilitate the drafting of SMART goals
@@ -47,14 +47,13 @@ This checklist is also available as a {ref}`GitHub issue for planning<ch-templat
 
 **Additional task for an online event**
 
-- [ ] State the requirement and expectation of the event
+- [ ] State the prerequisites to attend the event
   * An active GitHub account
-  * Some experience with using GitHub
-  * Familiarity with contribution guidelines and Code of Conduct
-  * A full working day time commitment
+  * Participation in at least one pre-event onboarding call or a Collaboration Cafe
+  * Some experience with using GitHub or attend the Book Dash GitHub session
+  * Familiarity with _The Turing Way_ contribution guidelines and Code of Conduct
   * Willingness to collaborate with others
-  * Participation in at least one pre-book-dash call or a Collaboration Cafe
-- [ ] Discuss with the participants the possibility of creating 3 short days, rather than 1 full workday commitment to ensure flexibility
+- [ ] Ask them to choose at least one development session (2.5 hours) for each day of the Book Dash to ensure flexibility (rather than blocking the full day)
 - [ ] Collect address if something needs to be posted
 
 **Additional task for an in-person Event**
