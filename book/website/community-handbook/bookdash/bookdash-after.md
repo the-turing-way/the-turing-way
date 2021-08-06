@@ -44,7 +44,7 @@ If you have more ideas or questions about the project, the Book Dash event or so
 
 ## Reports and additional materials
 
-- All the templates related to book dash is provided in the {ref}`community template collection<ch-templates>`
+- All the templates related to Book Dash is provided in the {ref}`community template collection<ch-templates>`
 - [_The Turing Way_ Report By Malvika Sharan with team members from November 2020](https://github.com/alan-turing-institute/the-turing-way/blob/book-dash-chapter/workshops/book-dash/book-dash-nov20-report.md)
 - CSCCE blog post by Arielle Bennett, July 2020: [Book Dashes: Collaborative Community Events](https://www.cscce.org/2020/07/09/book-dashes-collaborative-community-events/)
 - Open Working blog post by Esther Plomp, February 2020: [The Turing Way Bookdash](https://openworking.wordpress.com/2020/02/27/the-turing-way-bookdash/)
