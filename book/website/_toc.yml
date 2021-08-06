@@ -458,109 +458,109 @@ parts:
 
   # ===== Community Handbook ========================================
 
-- file: community-handbook/community-handbook
-  sections:
-  - title: Code of Conduct
-    file: community-handbook/coc
+  - file: community-handbook/community-handbook
     sections:
-    - title: Code of Conduct in Detail
-      file: community-handbook/coc/coc-details
-    - title: Incident Reporting Guideline
-      file: community-handbook/coc/coc-reporting
-    - title: Enforcement Manual
-      file: community-handbook/coc/coc-enforcement
-    - title: Acnowledgements
-      file: community-handbook/coc/coc-acknowledgement
-  - title: Style Guide
-    file: community-handbook/style
-    sections:
-    - title: Citing and Referencing External Resources
-      file: community-handbook/style/style-citing
-    - title: Cross-Referencing Sections and Chapters
-      file: community-handbook/style/style-crossref
-    - title: Using Figures
-      file: community-handbook/style/style-figures
-    - title: Glossary, Special Blocks and More Styling
-      file: community-handbook/style/style-more-styling
-    - title: Custom Styling
-      file: community-handbook/style/style-custom-styling
-  - title: Maintaining Consistency
-    file: community-handbook/consistency
-    sections:
-    - title: Formatting
-      file: community-handbook/consistency/consistency-formatting
-    - title: Structure
-      file: community-handbook/consistency/consistency-structure
-    - title: Language
-      file: community-handbook/consistency/consistency-language
-  - title: Contributing and Developing Chapters - Templates and Workflow
-    file: community-handbook/contributing
-    sections:
-    - title: Templates
-      file: community-handbook/contributing/contributing-templates
-    - title: Workflow
-      file: community-handbook/contributing/contributing-workflow
-  - title: Acknowledging Contributors
-    file: community-handbook/acknowledgement
-    sections:
-    - title: Community Members and Shared Ownership
-      file: community-handbook/acknowledgement/acknowledgement-members
-    - title: Record of Contributions
-      file: community-handbook/acknowledgement/acknowledgement-record
-    - title: Different Contributions and Acknowledgements
-      file: community-handbook/acknowledgement/acknowledgement-examples
-  - title: Monthly Newsletters
-    file: community-handbook/newsletters
-    sections:
-    - title: A Process of Creating a newsletter
-      file: community-handbook/newsletters/newsletters-process
-    - title: Newsletter's Style Guide
-      file: community-handbook/newsletters/newsletters-style
-    - title: The Turing Way Newsletter Template
-      file: community-handbook/newsletters/newsletters-template
-  - title: Book Dash Events
-    file: community-handbook/bookdash
-    sections:
-    - title: Application and Review Process
-      file: community-handbook/bookdash/bookdash-application
-    - title: Book Dash Logistics
-      file: community-handbook/bookdash/bookdash-logistics
-    - title: Participant Selection Process
-      file: community-handbook/bookdash/bookdash-preparation
-    - title: The Book Dash Main Event Plans
-      file: community-handbook/bookdash/bookdash-events
-    - title: After the Book Dash
-      file: community-handbook/bookdash/bookdash-after
-  - title: Community Coworking Calls
-    file: community-handbook/coworking
-    sections:
-    - title: Background, Motivations, and Techniques
-      file: community-handbook/coworking/coworking-motivation
-    - title: Online Collaboration Cafe
-      file: community-handbook/coworking/coworking-collabcafe
-    - title: Weekly Coworking Calls
-      file: community-handbook/coworking/coworking-weekly
-    - title: Organising coworking calls
-      file: community-handbook/coworking/coworking-organisation
-  - title: Template Collection
-    file: community-handbook/templates
-    sections:
-    - title: Book Dash Main Shared Document
-      file: community-handbook/templates/template-bookdash-index
-    - title: Book Dash Pre-event Onboarding
-      file: community-handbook/templates/template-bookdash-precall
-    - title: Book Dash GitHub Session
-      file: community-handbook/templates/template-bookdash-github
-    - title: Book Dash Template for Shared Notes
-      file: community-handbook/templates/template-bookdash-notes
-    - title: Book Dash Template for Feedback
-      file: community-handbook/templates/template-bookdash-feedback
-    - title: Online Collaboration Cafe Templates
-      file: community-handbook/templates/template-coworking-collabcafe
-    - title: Weekly Coworking Call Template
-      file: community-handbook/templates/template-coworking-weekly
-    - title: Template for Drafting Newsletters
-      file: community-handbook/templates/template-newsletter-draft
+    - title: Code of Conduct
+      file: community-handbook/coc
+      sections:
+      - title: Code of Conduct in Detail
+        file: community-handbook/coc/coc-details
+      - title: Incident Reporting Guideline
+        file: community-handbook/coc/coc-reporting
+      - title: Enforcement Manual
+        file: community-handbook/coc/coc-enforcement
+      - title: Acnowledgements
+        file: community-handbook/coc/coc-acknowledgement
+    - title: Style Guide
+      file: community-handbook/style
+      sections:
+      - title: Citing and Referencing External Resources
+        file: community-handbook/style/style-citing
+      - title: Cross-Referencing Sections and Chapters
+        file: community-handbook/style/style-crossref
+      - title: Using Figures
+        file: community-handbook/style/style-figures
+      - title: Glossary, Special Blocks and More Styling
+        file: community-handbook/style/style-more-styling
+      - title: Custom Styling
+        file: community-handbook/style/style-custom-styling
+    - title: Maintaining Consistency
+      file: community-handbook/consistency
+      sections:
+      - title: Formatting
+        file: community-handbook/consistency/consistency-formatting
+      - title: Structure
+        file: community-handbook/consistency/consistency-structure
+      - title: Language
+        file: community-handbook/consistency/consistency-language
+    - title: Contributing and Developing Chapters - Templates and Workflow
+      file: community-handbook/contributing
+      sections:
+      - title: Templates
+        file: community-handbook/contributing/contributing-templates
+      - title: Workflow
+        file: community-handbook/contributing/contributing-workflow
+    - title: Acknowledging Contributors
+      file: community-handbook/acknowledgement
+      sections:
+      - title: Community Members and Shared Ownership
+        file: community-handbook/acknowledgement/acknowledgement-members
+      - title: Record of Contributions
+        file: community-handbook/acknowledgement/acknowledgement-record
+      - title: Different Contributions and Acknowledgements
+        file: community-handbook/acknowledgement/acknowledgement-examples
+    - title: Monthly Newsletters
+      file: community-handbook/newsletters
+      sections:
+      - title: A Process of Creating a newsletter
+        file: community-handbook/newsletters/newsletters-process
+      - title: Newsletter's Style Guide
+        file: community-handbook/newsletters/newsletters-style
+      - title: The Turing Way Newsletter Template
+        file: community-handbook/newsletters/newsletters-template
+    - title: Book Dash Events
+      file: community-handbook/bookdash
+      sections:
+      - title: Application and Review Process
+        file: community-handbook/bookdash/bookdash-application
+      - title: Book Dash Logistics
+        file: community-handbook/bookdash/bookdash-logistics
+      - title: Participant Selection Process
+        file: community-handbook/bookdash/bookdash-preparation
+      - title: The Book Dash Main Event Plans
+        file: community-handbook/bookdash/bookdash-events
+      - title: After the Book Dash
+        file: community-handbook/bookdash/bookdash-after
+    - title: Community Coworking Calls
+      file: community-handbook/coworking
+      sections:
+      - title: Background, Motivations, and Techniques
+        file: community-handbook/coworking/coworking-motivation
+      - title: Online Collaboration Cafe
+        file: community-handbook/coworking/coworking-collabcafe
+      - title: Weekly Coworking Calls
+        file: community-handbook/coworking/coworking-weekly
+      - title: Organising coworking calls
+        file: community-handbook/coworking/coworking-organisation
+    - title: Template Collection
+      file: community-handbook/templates
+      sections:
+      - title: Book Dash Main Shared Document
+        file: community-handbook/templates/template-bookdash-index
+      - title: Book Dash Pre-event Onboarding
+        file: community-handbook/templates/template-bookdash-precall
+      - title: Book Dash GitHub Session
+        file: community-handbook/templates/template-bookdash-github
+      - title: Book Dash Template for Shared Notes
+        file: community-handbook/templates/template-bookdash-notes
+      - title: Book Dash Template for Feedback
+        file: community-handbook/templates/template-bookdash-feedback
+      - title: Online Collaboration Cafe Templates
+        file: community-handbook/templates/template-coworking-collabcafe
+      - title: Weekly Coworking Call Template
+        file: community-handbook/templates/template-coworking-weekly
+      - title: Template for Drafting Newsletters
+        file: community-handbook/templates/template-newsletter-draft
 
   # ===== Afterword ========================================
 
