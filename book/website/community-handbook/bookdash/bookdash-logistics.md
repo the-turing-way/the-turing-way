@@ -1,6 +1,6 @@
 # Book Dash Logistics
 
-We have created the following checklists, which is chronologically structured to help organise book dash online or in-person.
+We have created the following checklists, which are chronologically structured to help organise Book Dash online or in-person.
 This checklist is also available as a {ref}`GitHub issue for planning<ch-template-bookdash-issue>` that can be reused.
 
 ## Before the Event
