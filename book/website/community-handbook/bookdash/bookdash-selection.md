@@ -1,5 +1,5 @@
 (ch-bookdash-preparation)=
-# Selection and Preparation Process
+# Participant Selection Process
 
 This subchapter explains the process of selection and logistics for organising the book dash.
 
