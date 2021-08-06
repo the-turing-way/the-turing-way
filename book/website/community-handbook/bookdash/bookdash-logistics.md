@@ -1,7 +1,6 @@
 # Book Dash Logistics
 
 We have created the following checklists, which are chronologically structured to help organise Book Dash online or in-person.
-This checklist is also available as a {ref}`GitHub issue for planning<ch-template-bookdash-issue>` that can be reused.
 
 ## Before the Event
 
@@ -74,7 +73,7 @@ This checklist is also available as a {ref}`GitHub issue for planning<ch-templat
   * Welcome everyone (for each slot)
   * Ask to fill the icebreaker
   * One of the organisers delivers introduction talk
-  * Create breakout groups for people working on 
+  * Create breakout groups for people working on
 - [ ] Host coworking sessions with Pomodoro sessions 30-35 mins long
   * At the beginning of the session, ask people to document or verbally share their plan for the session
   * End each session with any report people want to make
