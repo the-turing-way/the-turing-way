@@ -1,5 +1,10 @@
 (ch-template-bookdash-precall)=
+# Pre-Book Dash Onboarding Sessions
+
+```
 # Book Dash, DD Month YYYY - Pre-Book Dash Onboarding Sessions
+
+###### tags: `bookdash YYYY` `month` `event`
 
 ==If you are new to HackMD, please see this short guide: [https://hackmd.io/@turingway/hackmd-guide](https://hackmd.io/@turingway/hackmd-guide)==
 
@@ -125,3 +130,4 @@ Here are a few suggestions for a good first contributions:
 - Fix an [old issue](https://github.com/alan-turing-institute/the-turing-way/issues) or comment on the the [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls).
 - Write your personal experience of reproducible research in this [google form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
 - See more info on the GitHub: https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md
+```
