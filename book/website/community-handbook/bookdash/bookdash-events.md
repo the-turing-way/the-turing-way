@@ -44,7 +44,9 @@ In the previous events, we have used the following materials:
 - [Friendly GitHub Introduction](https://docs.google.com/presentation/d/e/2PACX-1vR-Qu4kYulSMGnnAHH9-OonNiLkaJrsolEecEkt0VD5_3PmKWePmiSQwxK3QHoq5gNsL-MJKowmgsAx/pub?start=false&loop=false&delayms=3000)
 - [Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-### Development During the Book Dash
+## During the Book Dash
+
+### Development Sessions
 
 On each day of Book Dash, we will hold three 2.5 hour-long development sessions, when hosting virtually each followed by a break or social event.
 When hosting an in-person Book Dash, four 75 minutes long development sessions will be facilitated, each separated by 15 minutes for report out followed by a break.
