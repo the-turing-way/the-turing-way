@@ -523,10 +523,14 @@ parts:
       sections:
       - title: Application and Review Process
         file: community-handbook/bookdash/bookdash-application
-      - title: Selection and Preparation Process
-        file: community-handbook/bookdash/bookdash-preparation
-      - title: The Book Dash Main Event Plans
+      - title: Book Dash Logistics
+        file: community-handbook/bookdash/bookdash-logistics
+      - title: Participant Selection Process
+        file: community-handbook/bookdash/bookdash-selection
+      - title: Book Dash Main Event Plans
         file: community-handbook/bookdash/bookdash-events
+      - title: After the Book Dash
+        file: community-handbook/bookdash/bookdash-after
     - title: Community Coworking Calls
       file: community-handbook/coworking
       sections:
@@ -541,10 +545,12 @@ parts:
     - title: Template Collection
       file: community-handbook/templates
       sections:
-      - title: Book Dash Issue Template for Planning
-        file: community-handbook/templates/template-bookdash-issue
-      - title: Book Dash Template for Pre-event Call
+      - title: Book Dash Main Shared Document
+        file: community-handbook/templates/template-bookdash-index
+      - title: Book Dash Pre-event Onboarding
         file: community-handbook/templates/template-bookdash-precall
+      - title: Book Dash GitHub Session
+        file: community-handbook/templates/template-bookdash-github
       - title: Book Dash Template for Shared Notes
         file: community-handbook/templates/template-bookdash-notes
       - title: Book Dash Template for Feedback
