@@ -6,6 +6,8 @@
 ```
 # Book Dash, DD Month YYYY - GitHub Session
 
+###### tags: `bookdash YYYY` `month` `event`
+
 ==If you are new to HackMD, please see this short guide: [https://hackmd.io/@turingway/hackmd-guide](https://hackmd.io/@turingway/hackmd-guide)==
 
 :::info
