@@ -24,7 +24,7 @@ This is a volunteer position and there are no expectations of commitment to do m
 ## Selection of Book Dash Participants
 
 The Book Dash Planning Committee meets after they have individually scored the applications using the rubrics defined in the previous subchapter.
-They agree upon a final set of applicants selected to participate in the book dash.
+They agree upon a final set of applicants selected to participate in the Book Dash.
 The panel members also create constructive feedback on the application that can be shared with the applicants who were not selected so that they can assess other pathways to engage with the project and core team.
 
 All applicants are contacted at least 4 weeks in advance to ensure that they can assess their situation and availability for the book dash.
