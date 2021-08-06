@@ -52,7 +52,7 @@ Based on this principle, Shut up & Write events allow participants to yield succ
 **2. Social Motivation & Support:**
 
 The *sense of belonging* can increase performance and engagement in tasks.
-In a survey conducted on 2000 participants from different sectors, high belonging was linked to a whopping 56% increase in job performance {cite}`HBR2019Belonging`.
+In a survey conducted on 2000 participants from different sectors, high belonging was linked to a whopping 56% increase in job performance {cite:ps}`HBR2019Belonging`.
 Along the same line, Shut Up & Write events provide a sense of community where attendees feel supported and motivated by everyone else writing around them.
 
 They create a cycle of 3 experiences: "habit building and progress", "social support and accountability" and "great writing experience", which keep people engaged, feel committed and accomplish what they set out to do.
@@ -62,7 +62,7 @@ They create a cycle of 3 experiences: "habit building and progress", "social sup
 The [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) uses a timer to break down work into smaller intervals usually of 25 minutes called "Pomodoros", separated by short breaks of 5 minutes.
 Like the previous technique, the Pomodoro technique allows planning, tracking, recording, processing and visualizing the task at hand.
 
-> Pomodoro, from the Italian word for 'tomato', after the tomato-shaped kitchen timer that Francesco Cirillo used as a university student. {cite}`Lifehack2020pomodoro`
+> Pomodoro, from the Italian word for 'tomato', after the tomato-shaped kitchen timer that Francesco Cirillo used as a university student. {cite:ps}`Lifehack2020pomodoro`
 
 The goal of this technique is to avoid procrastinating and get things done with the help of the following workflow:
 - identify the task

@@ -13,7 +13,7 @@ However, writing lay summaries is a specific form of writing and requires traini
 ## What is a Lay Summary?
 
 A lay summary is a summary of a research project or a research proposal that is usually written for members of the public, rather than researchers or professionals.
-It should be written in plain English, avoid the use of jargon and explain any technical terms that have to be included {cite}`Duke2012summary`.
+It should be written in plain English, avoid the use of jargon and explain any technical terms that have to be included {cite:ps}`Duke2012summary`.
 
 (cm-lay-summaries-why)=
 ## Why Write Lay Summaries?
@@ -21,7 +21,7 @@ It should be written in plain English, avoid the use of jargon and explain any t
 Apart from fulfilling the transparency and collaborative goals of an open science approach, there are specific reasons why writing lay summaries can benefit scientific progress.
 
 [INVOLVE](https://www.invo.org.uk/about-involve/), a national advisory group funded by the UK National Institute for Health Research reported that involving patients and healthcare professionals helps at all stages of a research project, from developing the research question to disseminating the results.
-The benefits of this direct involvement in research have been identified as follows {cite}`Duke2012summary`:
+The benefits of this direct involvement in research have been identified as follows {cite:ps}`Duke2012summary`:
 * Increasing the relevance of the research.
 * Increasing recruitment to clinical research.
 * Improving the design of the research to address ethical concerns, improve the research tools and make it easier for the people taking part.
@@ -36,7 +36,7 @@ The benefits of this direct involvement in research have been identified as foll
 Academic writing is usually not accessible to researchers outside of your discipline as well as those in non-academic roles.
 It is therefore a good idea to make all your academic writing more readable as being too ‘academised’ narrows the likelihood of dissemination to wider academic disciplines and the general public.
 
-Less accessible academic writing has four main characteristics {cite}`DunleavyTinkler2021impact`
+Less accessible academic writing has four main characteristics {cite:ps}`DunleavyTinkler2021impact`
 * Use of specialised vocabularies.
 * Passive verb use (or passive voice) that is supposed to make the writing more neutral or impersonal.
 * Nouns substituting for verbs to make sentences sound more complicated.

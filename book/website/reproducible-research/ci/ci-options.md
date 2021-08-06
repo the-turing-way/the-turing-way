@@ -1,4 +1,5 @@
-## What is continuous integration?
+(rr-ci-options)=
+# What is continuous integration?
 
 Continuous integration (CI) is the practice of integrating changes to a project made by individuals into a main, shared version frequently (usually multiple times per day). CI software is also typically used to identify any conflicts and bugs that are introduced by changes, so they are found and fixed early, minimising the effort required to do so. Running tests regularly also saves humans from needing to do it manually. By making users aware of bugs as early as possible researchers (if the project is a research project) do not waste a lot of time doing work that may need to be thrown away, which may be the case if tests are run infrequently and results are produced using faulty code.
 
@@ -19,7 +20,7 @@ Integrating code frequently does not, by itself, offer any guarantees about the 
 By ensuring that your code is built and tested regularly CI helps researchers to demonstrate that their code does what it claims to do, and that it does so correctly. Typically, continuous integration servers will also allow build-and-test jobs to run at specific times, so a [cron job](https://en.wikipedia.org/wiki/Cron), nightly-build-and-test, can be done, as well as a build-and-test job run on-demand.
 
 
-### What are the options for CI service providers?
+## What are the options for CI service providers?
 
 There are many CI service providers, such as GitHub Actions and Travis CI. Each of these services has its own advantages and disadvantages. In this section we provide a brief overview with links to examples to help you select the most suitable one for you.
 

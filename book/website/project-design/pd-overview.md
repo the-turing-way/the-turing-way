@@ -28,7 +28,7 @@ However, often we think about these concepts retrospectively, when the project i
 This lack of planning contributes to the fact that most research work can not be directly and independently reproduced, and that communication and collaboration style across different groups differ and hence are challenging.
 
 To help learn good practices, *The Turing Way* provides various chapters for {ref}`reproducibility<rr>`, {ref}`communication<cm>` and {ref}`collaboration<cl>` that we consider essential for research reproducibility.
-Although publications{cite}`Turkyilmaz-vanderVelden2020projectdesign` and _The Turing Way_ chapters on specific methods, tools and practices exist it can be overwhelming to know which chapters to read if you don't already know about the concepts.
+Although publications{cite:ps}`Turkyilmaz-vanderVelden2020projectdesign` and _The Turing Way_ chapters on specific methods, tools and practices exist it can be overwhelming to know which chapters to read if you don't already know about the concepts.
 
 In this chapter, we have curated essential practices and recommendations and linked them to individual chapters across different guides.
 

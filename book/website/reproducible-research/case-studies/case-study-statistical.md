@@ -13,14 +13,14 @@ sections discussed in this {ref}`rr`.
 ## About the Manuscript
 
 - **Title:** A review of Bayesian perspectives on sample size derivation
-for confirmatory trials.{cite}`Kunzmann2020CS`
+for confirmatory trials{cite:ps}`Kunzmann2020CS`.
 - **Authors:** Kevin Kunzmann, Michael J. Grayling, Kim May Lee,
 David S. Robertson, Kaspar Rufibach, James M. S. Wason
 - **Publication month & year**: June 2020
 
 ### Overview
 
-The manuscript{cite}`Kunzmann2020CS` itself is concerned with the problem of
+The manuscript {cite:ps}`Kunzmann2020CS` itself is concerned with the problem of
 deriving a suitable sample size for a clinical trial.
 This is a classical problem in statistics and particularly important in
 medical statistics where collecting trial data is extremely expensive and
@@ -71,7 +71,7 @@ external, protected data is required.
 
 #### Literate programming
 
-The manuscript{cite}`Kunzmann2020CS` itself is written in and built with
+The manuscript {cite:ps}`Kunzmann2020CS` itself is written in and built with
 [LaTeX](https://www.latex-project.org/).
 The source files are contained in the subfolder `latex/`.
 Plain TeX files were preferred over literate programming solutions like
@@ -167,8 +167,7 @@ to explore the repository locally.
 Although not necessary for the reproducibility of this manuscript,
 the repository also makes use of continuous integration ({ref}`CI <rr-ci>`)
 using [GitHub actions](https://github.com/features/actions).
-GitHub actions are similar in spirit to {ref}`rr-ci-travis` but the runners are
-provided directly from GitHub.
+GitHub actions runners are provided directly from GitHub (see `rr-ci-github-actions`).
 
 The repository defines two workflows in `.github/workflows` directory.
 The first one, [`.github/workflows/build_and_run.yml`](https://github.com/kkmann/sample-size-calculation-under-uncertainty/blob/master/.github/workflows/build_and_run.yml),
