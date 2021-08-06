@@ -14,7 +14,7 @@ These are good places to begin new discussions by creating a new issue or join t
 If our contributors want to start to get to know the project or want to return after a long break, they can begin with our good first issues.
 If they have a new idea that they would like to add to the project as a new section in an existing chapter, or as a whole new chapter, they can start by creating a new issue.
 
-## Attend online Collaboration Cafe and coworking call
+## Attend our online Collaboration Cafe and coworking calls
 
 Our online Collaboration Cafes take place every 1st Wednesdays and 3rd Wednesdays on each month.
 These calls are 2 hour long co-working spaces for the _The Turing Way_ community.
