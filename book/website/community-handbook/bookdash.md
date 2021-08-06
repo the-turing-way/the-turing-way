@@ -4,7 +4,8 @@
 _The Turing Way_ [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date.
 They also contribute to enhancing the project by improving the ways we work in the community and take the lead on accomplishing different tasks or subprojects.
 
-In the past, we have organised 1-2 days long Book Dash events in person or in a hybrid format, where a participant coordinated with their team remotely. However, with the travel restrictions posed by the COVID-19 pandemic and to ensure that international participants have an equal chance to join, we started hosting Book Dashes virtually. 
+In the past, we have organised 1-2 days long Book Dash events in person or in a hybrid format, where one of the participants coordinated with their team remotely. 
+However, to ensure that international participants have an equal chance to join and address the challenges of hosting in-person events during the COVID-19 pandemic, we started hosting Book Dashes virtually. 
 These virtual Book Dashes are five days long, designed for flexible participation by members in different time zones. 
 Meaning, rather than committing their entire working day, participants can choose one or multiple 2.5 hours short co-working sessions each day based on their availability.
 
