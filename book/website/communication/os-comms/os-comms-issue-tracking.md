@@ -88,3 +88,8 @@ The table below compares features of distributed and centralised issue repositor
 | Manageable volume | | ✅ |
 
 *Power users = These are people who are already familiar enough with a platform to know the gotchas and tricks that make their experience more efficient
+
+## Further Reading
+
+- Blog post comparing the convenience and community closeness of Mailing Lists and Forums: <https://psychcentral.com/blog/mailing-lists-versus-forums-community-convenience-closeness/>
+- Blog post by [Tim Head](https://github.com/betatim):  <https://betatim.github.io/posts/thoughts-on-collective-thinking/>

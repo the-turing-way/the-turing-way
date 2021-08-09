@@ -1,4 +1,4 @@
-(ch-style-guide)=
+(ch-style)=
 # Style Guide
 
 To ensure that the book can be read easily by everyone, including screen readers and non-native English speakers, we have compiled a set of guidelines to keep a consistent style across all chapters of the book.
@@ -72,7 +72,7 @@ Any chapter containing a Latin abbreviation will fail the continuous integration
 
 ### Indentation
 
-Indent the content following each item of a numbered list. 
+Indent the content following each item of a numbered list.
 If the content is unindented, the list numbering will be reset.
 
 For instance, please avoid:
@@ -81,7 +81,7 @@ For instance, please avoid:
 This content belongs to the first list item.
 ```
 2. Second list item
-   
+
 Instead, the following is recommended:
 1. First list item
    ```
@@ -94,4 +94,3 @@ Instead, the following is recommended:
 ### External links
 
 Write external links using "http://" instead of "www". This ensures they are correctly recognised as hyperlinks.
-

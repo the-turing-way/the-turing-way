@@ -58,7 +58,7 @@ There are five main schools of thought motivating open practices to benefit rese
 | Public | Research needs to be made accessible to the public. | Making research accessible for citizens. |
 
 Open practices also benefit the researchers that propagate them.
-For example, there is evidence {cite}`McKiernan et al. 2016<McKiernan2016Open>` that open access articles are cited more often, as shown by the metastudy presented in the figure below.
+For example, there is evidence {cite:ps}`McKiernan et al. 2016<McKiernan2016Open>` that open access articles are cited more often, as shown by the metastudy presented in the figure below.
 
 ```{figure} ../figures/open-access-citations.jpg
 ---
@@ -70,3 +70,5 @@ The relative citation rate (OA: non-OA) in 19 fields of research. This rate is d
 ```
 
 Another benefit of openness is that while research collaborations are essential to advancing knowledge, identifying and connecting with appropriate collaborators is not trivial. Open practices can make it easier for researchers to connect by increasing the discoverability and visibility of one's work, facilitating rapid access to novel data and software resources, and creating new opportunities to interact with and contribute to ongoing communal projects.
+
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*

@@ -1,4 +1,4 @@
-(rr-vcs-versions)=
+(rr-vcs-git-compare)=
 # Retrieving and Comparing Versions
 
 (rr-vcs-versions-retrieving)=
@@ -55,7 +55,7 @@ two files are changed:
 So two files are affected, but "Add figure to version control chapter" is a single, *atomic* unit of work, so only one commit is necessary.
 
 Finally, do not commit anything that is regenerated from other files committed in a version (unless it is something that would take hours to regenerate).
-Generated files, such as scripts, clutter up your repository and may contain features such as timestamps that can cause annoying file conflicts (see {ref}`rr-vcs-merge`).
+Generated files, such as scripts, clutter up your repository and may contain features such as timestamps that can cause annoying file conflicts (see {ref}`rr-vcs-git-merge`).
 You can instruct Git to ignore certain files by creating a file called `.gitignore` and including names of the file that you do not need to store in your Git repository.
 For example, configuration files that might change from environment to environment should be ignored.
 

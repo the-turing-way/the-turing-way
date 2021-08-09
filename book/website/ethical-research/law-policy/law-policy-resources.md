@@ -1,14 +1,14 @@
 (er-law-policy-resources)=
-# Further Recommendation
+# Recommendations and Resources
 
 ## Checklist
 
-- [ ] Do I know what laws apply to my work? 
-- [ ] Do I know what policies apply to my work?
-- [ ] Have I read relevant policies on ethical research?
-- [ ] Have I asked the Policy and Governance teams at my organisation or institution for advice or support?
-- [ ] Does my work respect and protect human rights?
-- [ ] Does my work fulfil human rights?
+- Do I know what laws apply to my work?
+- Do I know what policies apply to my work?
+- Have I read relevant policies on ethical research?
+- Have I asked the Policy and Governance teams at my organisation or institution for advice or support?
+- Does my work respect and protect human rights?
+- Does my work fulfil human rights?
 
 ## Further reading
 - [Artificial Intelligence: What’s Human Rights Got To Do With It?](https://points.datasociety.net/artificial-intelligence-whats-human-rights-got-to-do-with-it-4622ec1566d5)  (_Blog post by Christiaan van Veen and Corinne Cath_)

@@ -1,4 +1,4 @@
-(rr-vcs-interactive)=
+(rr-vcs-git-interactive)=
 # Interactive, Visual Git
 
 One of the biggest challenges to getting started with Git can be understanding the file and directory structure and complexity of branches, commits, and remotes and how they interact, particularly on the command line with limited visual representations.

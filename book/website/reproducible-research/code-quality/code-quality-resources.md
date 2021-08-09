@@ -12,7 +12,7 @@
 
 - [ ] Build the project to enable `linters` to spot the errors/warnings in the code (if any).
 - [ ] Make relevant changes and repeat the above step.
-- [ ] [Commit and push](./../version_control/vcs-git-commit.md) the changes to remote **Github/GitLab/BitBucket** repository to run the pre-deployment tests.
+- [ ] {ref}`Commit and push<rr-vcs-git-commit>` the changes to remote **Github/GitLab/BitBucket** repository to run the pre-deployment tests.
 
 ## Further reading
 
