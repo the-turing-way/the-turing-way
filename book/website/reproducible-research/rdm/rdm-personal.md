@@ -5,6 +5,7 @@
 ### Personal data
 
 Personal data is information about **living people** who can be identified using the data that you are processing, either directly or indirectly (for example, a person's name, address or other unique identifier such as their Social Security number). 
+"[Data related to the deceased are not considered personal data in most cases under the GDPR](https://gdpr.eu/eu-gdpr-personal-data/)."
 Indirect identifiers include health, economic, cultural or social characteristics. 
 Especially when a certain combination of these identifiers can be used to identify a person, care must be taken to manage the data properly. 
 Particularly sensitive data include data relating to a person's: 
