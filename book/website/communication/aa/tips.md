@@ -24,7 +24,7 @@ You can implement a more ethical and equitable authorship approach in your own r
 
 * Find out about your own institutions authorship policy or make one yourself.
 * If you know what journal you are going to target for your publications, then find out about their authorship policy. 
-* Read about ethical authorship such as on the Committee on Publication Ethics (COPE) website (Add REFs here).
+* Read about ethical authorship such as on the [Committee on Publication Ethics (COPE) website](https://publicationethics.org/).
 
 (communication-aa-tips-plan)=
 ## Plan an authorship strategy early on in a project
