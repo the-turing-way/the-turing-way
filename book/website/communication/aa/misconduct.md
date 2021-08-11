@@ -6,11 +6,14 @@ These reflect unequal power structures in academia.
 Authorship misconduct results in a lack of transparency and accountability in research.
 
 A study of inappropriate authorship in biomedical journals found 21.0% of the article included honorary authorship, ghost authorship or both in 2008. 
-This is a reduction from a study in 1996 (29.2%) but shows that these practices are still prevalent. - *add references here.*
+This is a reduction from a study in 1996 (29.2%) but shows that these practices are still prevalent {cite}`wislar2011honorary`. 
 
 (communication-aa-misconduct-honorary)=
 ## Honorary authorship
 Honorary authorship is when an individual becomes a named author even though they have not made a substantial contribution and/or met authorship criteria. 
+
+A recent study of academic misconduct found 35.5% of survey respondents across all disciplines had added authors to their own manuscripts even though those authors made minimal contributions to the project {cite}`fong2017manipulation`. 
+The study also found that being an Assistant or Associate Professors significantly increases your likelihood of being an honorary author. 
 
 This can also be called: 
 * Gift or guest authorship - naming an individual author out of respect or gratitude. 
@@ -29,10 +32,10 @@ This could be due to:
 * a professional writer employed to draft an article on behalf of a company.
 * a scientist could employ a professional writer to overcome a lack of writing skills, limited time or lack of knowledge of journal requirements.
 
-There are also ghost contributors that are contributors to a project that will never be named on academic papers such as those that collected the data, performed data analysis, make software and contribute in the other many ways to a research project. 
+There are also ghost contributors that are contributors to a project but are not usually involved in the writing process. Therefore, these contributors are unlikely to be named on academic papers such as those that collected the data, performed data analysis, make software and contribute in the other many ways to a research project. 
 
-It is common that those on temporary or short-term contracts, such as postdoctoral researchers, may have moved on to another project before publications are finalised.  
+It is common that those on temporary or short-term contracts, such as postdoctoral researchers, may have moved on to another project before publications are finalised. 
+This can also include voluntary work such as University students working on a project during their studies. 
 
-Voluntary work such as University students working on a project during their studies. 
-These contributions may therefore be missed off the authorship of any publications even though they have contributed to the research in some way. 
+These contributions may therefore be missed off the authorship of any publications even though they have contributed to the research in some way. Therefore, without significant effort on the part of the article writers or whoever is in over charge of the article, and also without a more inclusive authorship policy, these researchers will not get a chance for their contributions to be recognised. 
 
