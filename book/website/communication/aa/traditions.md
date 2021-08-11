@@ -33,7 +33,7 @@ It is thought that this should allow authorship because to write a paper you wou
 ## Natural Sciences
 The natural sciences have no standard way to define academic authorship. 
 
-Leading journals such as the Proceedings of the National Academy of Sciences of the United States of America [PNAS](https://blog.pnas.org/iforc.pdf) have set out that 'authorship must be limited to those who have contributed substantially to the work'. 
+Leading journals such as the Proceedings of the National Academy of Sciences of the United States of America ([PNAS](https://blog.pnas.org/iforc.pdf)) have set out that 'authorship must be limited to those who have contributed substantially to the work'. 
 
 They also specify that the specific contributions of authors to the published work must be written in the footnote to the paper. 
 Examples of designations include: designed research, performed research, contributed new reagents or analytic tools, analyzed data, wrote the paper.
