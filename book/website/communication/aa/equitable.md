@@ -9,10 +9,10 @@ An example is the publications by CERN that often have thousands of authors in a
 Here is a [link to a 2021 paper from CERN that has 3078 authors](http://cds.cern.ch/record/2753518#) as an example of this type of authorship.    
 
 This type of shared authorship model is increasingly found in open science projects and communities where the ethos requires a more equitable authorship that truly reflects all the contributions made. 
-*The Turing Way* community wants to recognise all contributions and therefore these are recorded carefully in a number of ways. Here is a link to our {ref}`Chapter on acknowledements<ch-acknowledgement>`.
+*The Turing Way* community wants to recognise all contributions and therefore these are recorded carefully in a number of ways. Here is a link to our {ref}`Chapter on acknowledgements<ch-acknowledgement>`.
 We use an [all contributors bot](https://allcontributors.org/) to record the type of contributions different members make that is shown on our Github Readme.file and we also have {ref}`contributor profiles<ch-acknowledgement-record>` at the end of the book, in which each contributor can record their contributions in more detail.  
 
-Although The Turing Way is not an academic article, it is a published online book, and therefore we have authorship guidelines {ref}`authorsip guidelines<ch-acknowledgement-members>`. 
+Although The Turing Way is not an academic article, it is a published online book, and therefore we have authorship guidelines {ref}`authorship guidelines<ch-acknowledgement-members>`. 
 The first author is always *The Turing Way* Community and then authors are listed in alphabetical order by last name. 
 Authorship is cumulative so authors will always remain authors. 
 Consequently, this model of authorship gives equal recognition as an author to any contribution and therefore in this sense is an authorship of contributors rather than authors.
