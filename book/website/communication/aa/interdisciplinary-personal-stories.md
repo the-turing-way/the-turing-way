@@ -7,14 +7,14 @@
 
 It brings together an interdisciplinary group of researchers from a range of disciplines to create research methods, tools and data. They are working to change perceptions of how collaborations can be done and in doing this are discovering and working through some interesting challenges, including the issue of academic authorship. 
 
-### Find out more about their work below:
+#### Find out more about their work below:
 
-### Federico Nanni:
+**Federico Nanni:**
 * [ORCID](https://orcid.org/0000-0003-2484-4331) 
 * [Twitter](https://twitter.com/f_nanni)
 * [Website](https://github.com/fedenanni)
 
-### Mariona Coll Ardanuy
+**Mariona Coll Ardanuy**
 * [ORCID](http://orcid.org/0000-0001-8455-7196) 
 * [Website](https://github.com/mcollardanuy)
 
