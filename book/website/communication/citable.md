@@ -1,4 +1,4 @@
-(rr-credit)=
+(cm-citable)=
 # Making Research Objects Citable
 
 ## Prerequisites / recommended skill level
@@ -23,6 +23,7 @@ alt: This image shows a female researcher in the centre with her arms raised. Sh
 ORCID ID allows a researcher to connect their profile with all the published research objects, each of which also have their unique persistent identifiers. You will learn about these in this chapter. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
+(cm-citable-motivation)=
 ## Background & Motivation
 
 Academic research has traditionally maintained a 'reputation economy' where citations are the currency or considered a major metric of success.
@@ -34,9 +35,9 @@ One of the consequences of this system is that labour which *doesn't* result in 
 Establishing good citation practices using persistent and citable identifiers for non-article content is a step towards recognising this valuable work and encouraging more people to take it up.
 If you can demonstrate the impact of your reproducible research work in addition to more traditional research outputs, you can justify spending more time on doing things right.
 
-We describe, how you can {ref}`prepare your research object to be citable<rr-credit-make>`, {ref}`how others can cite them<rr-credit-cite>` (or you can cite others work) and how you can use them to {ref}`gain recognition and build your profile<rr-credit-recognise>`.
+We describe, how you can {ref}`prepare your research object to be citable<cm-citable-steps>`, {ref}`how others can cite them<cm-citable-cite>` (or you can cite others work) and how you can use them to {ref}`gain recognition and build your profile<cm-citable-orcid>`.
 
-(rr-credit-contribute)=
+(cm-citable-contribute)=
 ## Contribute to this Chapter
 
 We invite you to contribute to this chapter by writing about one or multiple of the following aspects:

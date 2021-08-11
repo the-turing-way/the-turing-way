@@ -1,7 +1,7 @@
-(rr-binder)=
+(rr-renv-binder)=
 # Binder
 
-(rr-binder-overview)=
+(rr-renv-binder-overview)=
 ## Overview
 
 Now that we have seen how to use and capture the computational environment used in a Python project, it is time to think about how to share that environment.
@@ -35,7 +35,7 @@ This copy of the project is hosted in the environment the researcher specified i
 ```{figure} ../../figures/binder-comic.png
 ---
 name: binder-comic
-alt: An illustration of the steps a person can take to create a binderized project.
+alt: An illustration of the steps a person can take to create a binderised project.
 ---
 Figure credit - [Juliette Taka, Logilab and the OpenDreamKit project](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/)
 ```
@@ -75,7 +75,7 @@ A screenshot of a Jupyter Notebook integrated with Binder
 
 If R is installed in a Binder, the dropdown menu will show the options to open R Jupyter notebooks and RStudio sessions in the Binder.
 
-(rr-binder-disambiguation)=
+(rr-renv-binder-disambiguation)=
 ## Disambiguation
 
 In this section, there are some related terms, which will be outlined here for clarity:
@@ -85,7 +85,7 @@ In this section, there are some related terms, which will be outlined here for c
 - **[mybinder.org](https://mybinder.org)**: A public and free BinderHub. Because it is public, you should not use it if your project requires any personal or sensitive information (such as passwords).
 - **Binderize**: To make a Binder of a project.
 
-(rr-binder-creating)=
+(rr-renv-binder-creating)=
 ## Creating a Binder for a Project
 
 Creating a binderized version of a project involves three key steps which will be explained in this section:
@@ -96,7 +96,7 @@ Creating a binderized version of a project involves three key steps which will b
 
 For a list of sample repositories for use with Binder, see the [Sample Binder Repositories](https://mybinder.readthedocs.io/en/latest/sample_repos.html) page.
 
-(rr-binder-creating-stepone)=
+(rr-renv-binder-creating-stepone)=
 ### Step 1: Specify your Computational Environment
 
 Suppose project contains no file specifying the computational environment. When a Binder is generated, the environment will be the Binder default environment, (containing Python 3.6) which may or may not be suitable for the project.
@@ -149,7 +149,7 @@ Key ones are discussed below, some of which are language-specific:
     ```
   - [DESCRIPTION files](https://cran.r-project.org/doc/manuals/r-release/R-exts.html#The-DESCRIPTION-file) are more typically used in the R community for dependency management.
 
-(rr-binder-creating-steptwo)=
+(rr-renv-binder-creating-steptwo)=
 ### Step 2: Put your Code on GitHub
 
 GitHub is discussed at length in the chapter on {ref}`rr-vcs`, which you should refer to if you wish to understand more about this step.
@@ -163,7 +163,7 @@ To complete this step:
 
 If you are unable to complete these steps, refer to the chapter on {ref}`version control <rr-vcs>` for a fuller explanation.
 
-(rr-binder-creating-stepthree)=
+(rr-renv-binder-creating-stepthree)=
 ### Step 3: Generate a Link to a Binder of your Project
 
 Head to [https://mybinder.org](https://mybinder.org).
@@ -194,7 +194,7 @@ These logs help resolve any issues that cause the build to fail, such as errors 
 
 Once it has been built, the Binder will be automatically launched; again, this may take some time.
 
-(rr-binder-data)=
+(rr-renv-binder-data)=
 ## Including Data in a Binder
 
 There are a few ways to make data available in your Binder.
@@ -202,13 +202,13 @@ The best one depends on how big your data is and your preferences for sharing da
 Note that the more data that is included, the longer it will take for a Binder to launch.
 Data also takes up storage space that must be paid for, so it is good to be considerate and minimise the data you include, especially on the publicly provided [mybinder.org](https://mybinder.org).
 
-(rr-binder-data-small)=
+(rr-renv-binder-data-small)=
 ### Small Public Files
 
 The simplest approach for small data files that are public is to add them directly to your GitHub repository or include them along with the rest of your project files in the Binder.
 This works well and is reasonable for files with sizes up to 10MB.
 
-(rr-binder-data-medium)=
+(rr-renv-binder-data-medium)=
 ### Medium Public Files
 
 For medium-sized files - a few 10s of megabytes to a few hundred megabytes - find some other place online to store them and make sure they are publicly available.
@@ -221,7 +221,7 @@ wget -q -O name_of_your_file link_to_your_file
 The `postBuild` file is used to execute commands when the files to produce the Binder are being generated.
 In this case, it can be used to download your data into the files used to launch the binder.
 
-(rr-binder-data-large)=
+(rr-renv-binder-data-large)=
 ### Large Public Files
 
 The best option for large files is to use a library specific to the data format to stream the data as you are using it.

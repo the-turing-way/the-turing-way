@@ -5,7 +5,7 @@ Twitter has 353 million monthly active users.
 You are limited to 280 characters and the style is more informal and chatty than other platforms like Linkedin.
 You can use links, photos (1200 x 628 pixels) and videos (max 2 minutes 20 secs) in similar ways to the other social media platforms.
 
-Below are general tips for starting to use Twitter for personal academic purposes. Some of the tips have been adapted from 'Practical tips for scientists using twitter' {cite}`Chabrol2021twitter`.
+Below are general tips for starting to use Twitter for personal academic purposes. Some of the tips have been adapted from 'Practical tips for scientists using twitter' {cite:ps}`Chabrol2021twitter`.
 
 But when starting with Twitter it is important to first consider what your purpose for using it is.
 This will help you develop your voice (how you want to be heard, what topics you focus on, your overall message) on Twitter.
@@ -71,7 +71,7 @@ You can pin this to your profile so that it is always what people see first.
 
 ## Twitter Terms
 
-These terms are adapted from {cite}`Cheplygina2020twitter`.
+These terms are adapted from {cite:ps}`Cheplygina2020twitter`.
 
 * Confirmation step - Enabling a checking process tweets before posting using Tweetdeck.
 * Direct message (DM) — A private message that is only visible to the sender and the specifically identified recipients.

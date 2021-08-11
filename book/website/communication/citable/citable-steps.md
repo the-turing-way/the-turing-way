@@ -1,10 +1,10 @@
-(rr-credit-make)=
+(cm-citable-steps)=
 # Steps for Making Research Objects Citable
 
 There are many reasons why authors don't cite the data and software that they use, but one of the biggest ones is that it's not clear how.
 You can go a long way to reducing this barrier by following a few steps to make it as easy as possible.
 
-(rr-credit-make-object)=
+(cm-citable-steps-object)=
 ## 1. Identify Your Research Objects
 
 We want to emphasise that most of our research objects should be shared so that other researchers can reproduce and reuse them.
@@ -24,16 +24,16 @@ Finding commonly referenced research objects in your discipline serves two purpo
 You can learn more about the different types of research objects in the chapters {ref}`making your research open<rr-open>` and {ref}`making your research FAIR<rr-rdm>`.
 ```
 
-(rr-credit-make-publish)=
+(cm-citable-steps-publish)=
 ## 2. Publish your work online
 
 Online publications are attached to persistent identifiers that are used for citing them.
 It's important to note that not everything published online gets a unique identifier but it is important that research objects are published online with DOIs as described below.
 
-(rr-credit-make-doi)=
+(cm-citable-steps-doi)=
 ### DOIs
 
-```{figure} ../../figures/doi.jpg
+```{figure} ../../figures/DOI.jpg
 ---
 name: doi
 alt: This image shows three boxes with materials on top. The main box in the middle has 'identifiers' written on it with three discs on top of it that are labelled 'data sets'. Both boxes by their side have journal articles on top of them. An arrow on the top of the image points to these images as being 'Digital Object Identifiers'. There is text at the bottom of the image which says 'Persistent', 'Unique', 'Trusted'.
@@ -56,7 +56,7 @@ Some examples include:
 - [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/)
 - [Journal of Open Source Software](https://joss.theoj.org/)
 
-(rr-credit-make-referencing)=
+(cm-citable-steps-referencing)=
 ## 3. Add Machine-Readable Referencing Information
 
 You can go a step further by allowing people to import information about your research objects into their preferred referencing database.
