@@ -30,7 +30,12 @@ Being the first author impacts that persons reputation and visibility due to a p
 The number of citations that papers have and what journals they are published in are often important criteria for obtaining new jobs, getting promoted and winning funding applications.
 
 The practice of first author taking prominence over others also has social implications. 
-For example, it might be a difficult decision for a researcher to change their name, due to marriage or divorce, as this action could have an negative impact on their research career. Ref: https://www.reddit.com/r/AskAcademia/comments/2dfqho/married_women_in_academia_did_you_change_your/).
+For example, it might be a difficult decision for a researcher to change their name, due to marriage or divorce, as this action could have an negative impact on their research career. 
+
+Links to discussions about the impact of changing names in academia: 
+* Article from The Conversation - [How three scientists navigated the personal and career implications of a name change with marriage](https://theconversation.com/how-three-scientists-navigated-the-personal-and-career-implications-of-a-name-change-with-marriage-114918)
+* [Married women in academia - did you change your name?](https://www.reddit.com/r/AskAcademia/comments/2dfqho/married_women_in_academia_did_you_change_your/).
+* London School of Economics Impact of Social Sciences Blog - [For academic publishing to be trans-inclusive, authors must be allowed to retrospectively change their names](https://blogs.lse.ac.uk/impactofsocialsciences/2020/09/30/for-academic-publishing-to-be-trans-inclusive-authors-must-be-allowed-to-retroactively-change-their-names/).
 
 It is not the place of this chapter to argue against this academic culture of competitive citation but it must be noted that there are now many different types of outputs that can be attributed in different ways. 
 Therefore, we are currently seeing a slow shift in the sole importance of journal articles. 
