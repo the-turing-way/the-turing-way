@@ -2691,6 +2691,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "mcollardanuy",
+      "name": "Mariona",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46483603?v=4",
+      "profile": "https://www.turing.ac.uk/people/researchers/mariona-coll-ardanuy",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
