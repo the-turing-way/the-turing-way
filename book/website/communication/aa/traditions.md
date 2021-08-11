@@ -40,7 +40,7 @@ Examples of designations include: designed research, performed research, contrib
 
 This does mean that an author could be someone that does not write the paper, however, they must have agreed the version of the paper that is submitted so this implies they have at least read and made comments on the final version.
 
-Other journals such as [PLOS One](https://journals.plos.org/plosone/s/authorship), [e-life](https://reviewer.elifesciences.org/author-guide/journal-policies) and [F1000 Research](https://f1000research.com/gateways/nc3rs/for-authors/article-guidelines/research-articles) are using the ICMJE criteria for authorship but in combination with a wider attribution for different contributions using the [CRediT Taxonomy] (https://casrai.org/credit/).  
+Other journals such as [PLOS One](https://journals.plos.org/plosone/s/authorship), [e-life](https://reviewer.elifesciences.org/author-guide/journal-policies) and [F1000 Research](https://f1000research.com/gateways/nc3rs/for-authors/article-guidelines/research-articles) are using the ICMJE criteria for authorship but in combination with a wider attribution for different contributions using the [CRediT Taxonomy](https://casrai.org/credit/).  
 This is a high-level taxonomy that includes 14 roles to represent typical roles within scientific research making the contributions section of a paper at least more inclusive. 
 
 (communication-aa-traditions-order)=
