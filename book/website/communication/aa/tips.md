@@ -36,7 +36,7 @@ It is not good practice to wait until you have finished writing a paper to have 
 * Have a discussion about authorship at the outset of the project or even in the planning stage. These discussions need to involve the whole team.
     * This needs to include: 
         * What journals you are targeting - this means you can find out about their own authorship policies. 
-            * How the order of authors will be decided or are you following one type of authorship model/definition from the beginning. 
+        * How the order of authors will be decided or are you following one type of authorship model/definition from the beginning. 
         * How you will track contributions - will this be done for all contributions or a selected list? How will you do this? a checklist/all contributors bot? Who will be in charge of maintaining the list of contributors? 
         * Whether the authorship policy/guidelines will be reviewed, when this will be done and how this will be done.
 
