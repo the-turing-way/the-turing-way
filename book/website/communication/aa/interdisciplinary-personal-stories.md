@@ -86,3 +86,5 @@ This approach worked well for the technical papers we have written.
 ## What collaborative tools are you using for the writing and projects?
 
 We are using Overleaf, which is a LaTex based writing software, but I think some people are using Google docs for collaborative writing. 
+
+*This interview was conducted by Emma Karoune. We would like to thank Federico and Mariona for the useful discussions about academic authorship, and for commenting on this personal story and the wider academic authorship chapter.*
