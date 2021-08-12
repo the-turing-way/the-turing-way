@@ -52,7 +52,7 @@ la descripción general del _The Turing Way_ comienza en el minuto 5:13.
 ### Acerca del Proyecto
 
 La investigación reproducible es necesaria para garantizar que se pueda confiar en el trabajo científico.
-Quienes financian y editan trabajos científicos están comenzando a exigir que las publicaciones incluyan acceso a los datos subyacentes y al código de análisis.
+Quienes financian y editan trabajos científicos están comenzando a exigir que las publicaciones incluyan acceso a los datos utilizados y al código con el que se ha realizado el análisis.
 El objetivo es garantizar que todos los resultados puedan verificarse de forma independiente y puedan servir como base para trabajos futuros.
 Esto a veces es más fácil decirlo que hacerlo.
 Compartir estos resultados de investigación significa comprender la gestión de datos, bibliotecología, el desarrollo de software y las técnicas de integración continua: habilidades que no se enseñan ni se esperan de los investigadores académicos y científicos de datos.
@@ -76,8 +76,8 @@ Por favor visita el [Panel de Colaboradores](#colaboradores) para ver el perfil 
 
 :construction: Este repositorio es siempre un trabajo en progreso y **todas las personas** están invitadas a ayudarnos a construir algo que sea útil para muchas personas. :construction:
 
-Se espera de todos los que deseen unirse al proyecto que sigan nuestro [código de conducta](../CODE_OF_CONDUCT.md) y que visiten nuestras [pautas de contribución](../CONTRIBUTING.md) para más información sobre cómo empezar.
-Queremos conocer dónde están nuestros colaboradores.
+Se espera que todas las personas que deseen unirse al proyecto sigan nuestro [código de conducta](../CODE_OF_CONDUCT.md) y que visiten nuestras [guías para contribuir al proyecto](../CONTRIBUTING.md) para más información sobre cómo empezar.
+Queremos conocer a nuestros colaboradores allá donde estén.
 Por lo tanto, proporcionamos múltiples puntos de entrada para que puedas colaborar basados en tus intereses, disponibilidad o habilidades.
 
 ![Esta imagen muestra seis tipos de contribuciones que cualquiera puede hacer. Éstas son: Desarrollar y compartir, Mantener y mejorar, Compartir recursos, Revisar y actualizar, Hacerlo global mediante traducciones, y Compartir las mejores prácticas](../book/website/figures/README_imgs/README_contributions.png)
@@ -109,7 +109,7 @@ Si tienes alguna pregunta por favor [contáctanos](#get-in-touch).
   <img src="../book/website/figures/evolution-open-research.jpg" alt="Esto es un ejemplo de una de las ilustraciones de The Turing Way. Intenta mostrar la evolución frente a la era de la ciencia abierta" width="600">
 </p>
 
-Las ilustraciones del _The Turing Way_ son creadas por artistas de [Scriberia](https://www.scriberia.co.uk/) como parte de [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) en Manchester el 17 de mayo de 2019, en Londres el 28 de mayo de 2019 y el 21 de febrero de 2020.
+Las ilustraciones del _The Turing Way_ se han creado por artistas de [Scriberia](https://www.scriberia.co.uk/) como parte de [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) en Manchester el 17 de mayo de 2019, en Londres el 28 de mayo de 2019 y el 21 de febrero de 2020.
 Las mismas representan una variedad de contenidos del manual, de los esfuerzos de colaboración en la comunidad y del proyecto _The Turing Way_ en general.
 Estas ilustraciones están disponibles en Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) bajo una licencia CC-BY.
 
