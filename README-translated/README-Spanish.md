@@ -25,7 +25,7 @@ Nuestro objetivo es proporcionar toda la información que los investigadores y c
 *The Turing Way es un libro, una comunidad y una colaboración global.*
 
 Todas las partes interesadas, incluyendo estudiantes, investigadores, ingenieros de software, líderes de proyectos y equipos fundadores, están invitados a usar The Turing Way para entender sus roles y sus responsabilidades en la reproducibilidad de la ciencia de datos.
-Puede leer el libro [online](https://github.com/alan-turing-institute/the-turing-way), contribuir al proyecto tal como se describe en nuestras [pautas de contribución](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) y reutilizar todos los materiales ([ver la Licencia](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
+Puede leer el libro [online](https://github.com/alan-turing-institute/the-turing-way), contribuir al proyecto tal como se describe en nuestras [guías para contribuir al proyecto](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) y reutilizar todos los materiales ([ver la Licencia](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
 
 [![Captura de pantalla del libro en línea de Turing Way. También muestra una de las ilustraciónes de Turing Way al comienzo del libro. En esta ilustración, podemos ver una carretera o camino con tiendas para las diferentes habilidades de ciencia de datos. La gente puede entrar y salir con su lista de la compra y escoger lo que necesiten.](../book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
 
