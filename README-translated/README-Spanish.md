@@ -15,7 +15,7 @@
 | **Compilación** | [![Netlify build](https://github.com/alan-turing-institute/the-turing-way/workflows/CI/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ACI+branch%3Amaster) [![Latin Phrases](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amaster) [![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amaster) [![Check for Lorem Ipsums](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amaster) |
 | **Cita** |  [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) |
 
-*Bienvenidos al repositorio de Github del proyecto The Turing Way. Aquí es donde todos los componentes del proyecto se desarrollan, se revisan y se mantienen.*
+*Bienvenidos al repositorio de Github del proyecto The Turing Way. Aquí es donde se desarrollan, se revisan y se mantienen todos los componentes del proyecto.*
 
 _The Turing Way_ es una guía práctica para la ciencia de datos reproducible, ética y colaborativa. 
 Actualmente estás en el repositorio de GitHub del proyecto donde se encuentran todos los fragmentos que componen la guía y donde ocurre el proceso de escritura/construcción de la misma.
