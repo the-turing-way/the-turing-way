@@ -32,7 +32,7 @@ Puede leer el libro [online](https://github.com/alan-turing-institute/the-turing
 *Captura de pantalla del libro en línea de The Turing Way ([usar esta imagen en una presentación](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
 
 Empezó en 2019 como una pequeña guía de ciencia de datos, y desde entonces The Turing Way se ha expandido en una serie de guías de Investigación Reproducible, Diseño de Proyectos, Comunicación, Colaboración e Investigación Ética.
-Cada guía ofrece capítulos sobre una variedad de temas que cubren las mejores prácticas, guía y recomendaciones.
+Cada guía ofrece capítulos sobre una variedad de temas que cubren buenas prácticas y recomendaciones.
 Estos capítulos han sido co-escritos por colaboradores que son estudiantes, investigadores, educadores, líderes comunitarios, políticos y profesionales de diversos orígenes, experiencias vividas y conocimiento del dominio.
 
 ***Nuestro objetivo es hacer que la reproducibilidad sea "demasiado fácil como para no hacerla".***
