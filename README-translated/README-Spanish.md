@@ -53,7 +53,7 @@ la descripción general del _The Turing Way_ comienza en el minuto 5:13.
 
 La investigación reproducible es necesaria para garantizar que se pueda confiar en el trabajo científico.
 Quienes financian y editan trabajos científicos están comenzando a exigir que las publicaciones incluyan acceso a los datos subyacentes y al código de análisis.
-El objetivo es garantizar que todos los resultados puedan verificarse de forma independiente y servir como base para trabajos futuros.
+El objetivo es garantizar que todos los resultados puedan verificarse de forma independiente y puedan servir como base para trabajos futuros.
 Esto a veces es más fácil decirlo que hacerlo.
 Compartir estos resultados de investigación significa comprender la gestión de datos, bibliotecología, el desarrollo de software y las técnicas de integración continua: habilidades que no se enseñan ni se esperan de los investigadores académicos y científicos de datos.
 Como estas actividades no se enseñan comúnmente, reconocemos que la carga de los requisitos y la adquisición de nuevas habilidades puede ser intimidante para las personas que son nuevas en este mundo.
