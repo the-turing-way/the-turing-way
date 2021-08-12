@@ -17,7 +17,7 @@
 
 *Bienvenidos al repositorio de Github del proyecto The Turing Way. Aquí es donde todos los componentes del proyecto se desarrollan, se revisan y se mantienen.*
 
-_The Turing Way_ es una guía asertiva para la ciencia de datos reproducible. 
+_The Turing Way_ es una guía práctica para la ciencia de datos reproducible, ética y colaborativa. 
 Actualmente estás en el repositorio de GitHub del proyecto donde se encuentran todos los fragmentos que componen la guía y donde ocurre el proceso de escritura/construcción de la misma.
 Nuestro objetivo es proporcionar toda la información que las personas que hacen investigación necesitan al inicio de sus proyectos para garantizar que sean fáciles de reproducir al final.
 
