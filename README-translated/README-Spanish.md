@@ -31,7 +31,7 @@ Puede leer el libro [online](https://github.com/alan-turing-institute/the-turing
 
 *Captura de pantalla del libro en línea de The Turing Way ([usar esta imagen en una presentación](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
 
-Empezó en 2019 como una pequeña guía de ciencia de datos, y desde entonces The Turing Way se ha expandido en una serie de guías de Investigación Reproducible, Diseño de Proyectos, Comunicación, Colaboración e Investigación Ética.
+The Turing Way comenzó en 2019 como una pequeña guía de ciencia de datos, y desde entonces se ha expandido hasta formar manual mucho más completo formado por múltiples guías que abarcan varios temas: Investigación Reproducible, Diseño de Proyectos, Comunicación, Colaboración e Investigación Ética.
 Cada guía ofrece capítulos sobre una variedad de temas que cubren buenas prácticas y recomendaciones.
 Estos capítulos han sido co-escritos por colaboradores que son estudiantes, investigadores, educadores, líderes comunitarios, políticos y profesionales de diversos orígenes, experiencias vividas y conocimiento del dominio.
 
@@ -65,16 +65,16 @@ Este proyecto se desarrolla de manera abierta y todas y cada una de tus pregunta
 
 _The Turing Way_ es un proyecto de colaboración abierta e impulsado por la comunidad.
 Todos los que colaboran en este libro, independientemente de lo pequeñas o grande que sean sus contribuciones, están reconocidos en este proyecto como colaboradores y miembros de la comunidad. 
-Colaboradores de larga duración del proyecto están considerados parte del núcleo de grupos de colaboradores que asumen roles de liderazgo.
+Los colaboradores de larga duración se consideran parte del grupo de colaboradores principal, el cual asume roles de liderazgo en el proyecto.
 
 El proyecto está coordinado por la líder investigadora **Kirstie Whitaker** (fundadora) y **Malvika Sharan** (desarrolladora de la comunidad) y alojado en [The Alan Turing Institute](https://www.turing.ac.uk/).
 
-Puedes leer [el proceso de reconocimiento de _The Turing Way_ ](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) y [Récord de Colaboradores](https://the-turing-way.netlify.app/afterword/contributors-record.html) para aprender cómo reconocemos tu trabajo y como nuestros colaboradores son destacados en el proyecto.
+Puedes leer cómo se realiza [el proceso de reconocimiento como parte de _The Turing Way_ ](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) y el [Registro de Colaboradores](https://the-turing-way.netlify.app/afterword/contributors-record.html) para conocer cómo se realiza el reconocimiento del trabajo y nuestros colaboradores destacados.
 Por favor visita el [Panel de Colaboradores](#colaboradores) para ver el perfil de Github de todos nuestros colaboradores.
 
 ### Contribuir
 
-:construction: Este repositorio es siempre un trabajo en progreso y **todas las personas** están invitadas a ayudarnos a construir algo que sea útil para muchas personas. :construction:
+:construction: Este repositorio es un trabajo en progreso contínuo y **todas las personas** están invitadas a ayudarnos a construir algo que sea útil para los demás. :construction:
 
 Se espera que todas las personas que deseen unirse al proyecto sigan nuestro [código de conducta](../CODE_OF_CONDUCT.md) y que visiten nuestras [guías para contribuir al proyecto](../CONTRIBUTING.md) para más información sobre cómo empezar.
 Queremos conocer a nuestros colaboradores allá donde estén.
