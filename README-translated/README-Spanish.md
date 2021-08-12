@@ -17,7 +17,8 @@
 
 *Bienvenidos al repositorio de Github del proyecto The Turing Way. Aquí es donde se desarrollan, se revisan y se mantienen todos los componentes del proyecto.*
 
-_The Turing Way_ es una guía práctica para la ciencia de datos reproducible, ética y colaborativa. 
+_The Turing Way_ es una guía práctica para la ciencia de datos reproducible, ética y colaborativa.
+Apoyamos una comunidad diversa de colaboradores para conseguir una ciencia de datos accesible, comprensible y efectiva para todos.
 Nuestro objetivo es proporcionar toda la información que los investigadores y científicos de datos en la academia, la industria y el sector público necesitan al inicio de sus proyectos para asegurar que sean fáciles de reproducir al final.
 
 [![El proyecto The Turing Way es un libro, una comunidad, un proyecto de código abierto y una cultura de colaboración. Esto se muestra en cuatro ilustraciones, la primera mostrando el libro de Turing Way, la segunda cómo la comunidad puede crecer, la tercera mostrando dos personas colaborando en una pull request, y la última mostrando el balance donde la reproducibilidad es valorada en mayor medida que el número de documentos publicados](../book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
@@ -85,7 +86,7 @@ Por lo tanto, proporcionamos múltiples puntos de entrada para que puedas colabo
 Las contribuciones incluyen el desarrollo y difusión de nuevos capítulos; matenimiento y mejora de capítulos existentes; compartir recursos de _The Turing Way_; revisar y actualizar materiales anteriormente desarrollados; traducir los capítulos para ayudar a hacer este proyecto accesible de forma global, y compartir las mejores prácticas en la investigación.
 
 Los miembros comunitarios tienen oportunidades de aprender nuevas habilidades, compartir sus ideas y colaborar entre ellos.
-También tienen oportunidades de tutoría en el proyecto a medida que hacen sus contribuciones en The Turing Way u otros proyectos de código abierto y están animados a asesorar a nuevos participantes en el proyecto.
+También tienen oportunidades de tutoría en el proyecto a medida que hacen sus contribuciones en The Turing Way u otros proyectos de código abierto y están invitadas a asesorar a nuevos participantes en el proyecto.
 
 Hemos creado un [paquete de promoción](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) para ayudarle a presentar y compartir The Turing Way en su red.
 
