@@ -73,7 +73,7 @@ El proyecto está coordinado por la líder investigadora **Kirstie Whitaker** (f
 Puedes leer [el proceso de reconocimiento de _The Turing Way_ ](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) y [Récord de Colaboradores](https://the-turing-way.netlify.app/afterword/contributors-record.html) para aprender cómo reconocemos tu trabajo y como nuestros colaboradores son destacados en el proyecto.
 Por favor visita la [Tabla de Colaboradores](#colaboradores) para ver el perfil de Github de todos nuestros colaboradores.
 
-### Colaborar
+### Contribuir
 
 :construction: Este repositorio es siempre un trabajo en progreso y **todas las personas** están invitadas a ayudarnos a construir algo que sea útil para muchas personas. :construction:
 
