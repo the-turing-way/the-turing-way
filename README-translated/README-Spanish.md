@@ -70,7 +70,7 @@ Colaboradores de larga duración del proyecto están considerados parte del núc
 El proyecto está coordinado por la líder investigadora **Kirstie Whitaker** (fundadora) y **Malvika Sharan** (desarrolladora de la comunidad) y alojado en [The Alan Turing Institute](https://www.turing.ac.uk/).
 
 Puedes leer [el proceso de reconocimiento de _The Turing Way_ ](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) y [Récord de Colaboradores](https://the-turing-way.netlify.app/afterword/contributors-record.html) para aprender cómo reconocemos tu trabajo y como nuestros colaboradores son destacados en el proyecto.
-Por favor visita la [Tabla de Colaboradores](#colaboradores) para ver el perfil de Github de todos nuestros colaboradores.
+Por favor visita el [Panel de Colaboradores](#colaboradores) para ver el perfil de Github de todos nuestros colaboradores.
 
 ### Contribuir
 
