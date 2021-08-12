@@ -42,7 +42,7 @@ Estos capítulos han sido co-escritos por colaboradores que son estudiantes, inv
 
 - [Acerca del proyecto](#acerca-del-proyecto)
 - [El Equipo](#el-equipo)
-- [Colaborar](#colaborar)
+- [Contribuir](#contribuir)
 - [Citando _The Turing Way_](#citando-the-turing-way)
 - [Contáctanos](#contáctanos)
 - [Colaboradores](#colaboradores)
