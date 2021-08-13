@@ -149,3 +149,4 @@ See [here](https://www.aalto.fi/en/services/rdm-training) for the full course.
 * [Presentation](https://www.youtube.com/watch?v=J457qBdQ3xo) on the GDPR by Rosalie Salameh.
 * [Presentation](https://vimeo.com/362161972) and [article](https://www.smashingmagazine.com/2017/07/privacy-by-design-framework/ ) on **privacy by design**.
 * [Presentation](https://www.youtube.com/watch?v=2WebuDlzEIw&list=PLG87Imnep1Sln3F69_kBROUrIbT5iderf&index=2) on Ethical and legal issues in data sharing by Hina Zahid.
+* [Slides](https://osf.io/5xhya/) by Hanne Elsen on Privacy and the GDPR in the Research Life Cycle. 
