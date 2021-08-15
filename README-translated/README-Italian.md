@@ -7,7 +7,7 @@
 *Contributori Totali:*
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-279-orange.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-283-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 | Informazioni | Links |
