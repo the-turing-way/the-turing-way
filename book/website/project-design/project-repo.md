@@ -31,10 +31,10 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 ```
 
 In this chapter, we have described following documents that should be added to a project repository:
-- {ref}`landing page or README file<pd-project-repo-readme>`
+- {ref}`Landing Page - README File<pd-project-repo-readme>`
 - {ref}`Roadmapping<pd-project-repo-roadmapping>`
-- {ref}`Contribution Guideline<pd-project-repo-contributors>`
-- {ref}`Contribution Guideline<pd-project-repo-participation>`
+- {ref}`Contribution Guidelines<pd-project-repo-contributors>`
+- {ref}`Participation Guidelines<pd-project-repo-participation>`
 
 (pd-project-repo-license)=
 ## Start by Adding a License
