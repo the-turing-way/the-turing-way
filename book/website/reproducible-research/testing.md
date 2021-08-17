@@ -11,13 +11,15 @@ Researcher-written code now forms a part of a huge portion of research, and if t
 Testing code thoroughly and frequently is vital to ensure reliable, reproducible research.
 This chapter will provide general guidance for writing tests and describe a number of different kinds of testing, their uses and how to go about implementing them.
 
+```{figure}  ../figures/error-management.jpg
+---
+name: error-management
+alt: A person is happily coding, then a error throws and the coder gets confused. Then the coder can find the error and fix it.
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
 ## Motivation
-
-Here's a couple of examples of why should write tests:
-
-![testing_motivation_1](../figures/testing_motivation_1.png)
-
-![testing_motivation_2](../figures/testing_motivation_2.png)
 
 It is very, very easy to make mistakes when coding.
 A single misplaced character can cause a program's output to be entirely wrong.
@@ -25,6 +27,22 @@ One of the examples above was caused by a plus sign which should have been a min
 Another was caused by one piece of code working in meters while a piece of code written by another researcher worked in feet.
 *Everyone* makes mistakes, and in research the results can be catastrophic.
 Careers can be damaged/ended, vast sums of research funds can be wasted, and valuable time may be lost to exploring incorrect avenues. This is why tests are vital.
+
+Here's a couple of illustrations exemplifying of why should write tests:
+
+```{figure}  ../figures/testing-motivation1.png
+---
+name: testing-motivation1
+alt:
+---
+```
+
+```{figure}  ../figures/testing-motivation2.png
+---
+name: testing-motivation2
+alt:
+---
+```
 
 Even if problems in a program are caught before research is published it can be difficult to figure out what results are contaminated and must be re-done.
 This represents a huge loss of time and effort.
@@ -45,7 +63,7 @@ Providing researchers with a fail-fast environment allows the rapid identificati
 The alternative, of the researcher writing and running whatever small tests they have time for is far inferior to a good testing suite which can thoroughly check the code.
 
 Another benefit of writing tests is that it typically forces a researcher to write cleaner, more modular code as such code is far easier to write tests for, leading to an improvement in code quality.
-[Good quality code](./code_quality/code_quality) is far easier (and altogether more pleasant) to work with than tangled rat's nests of code I'm sure we've all come across (and, let's be honest, written). This point is expanded upon in the section on [unit tests](#Unit_tests).
+{ref}`Good quality code<rr-code-quality>` is far easier (and altogether more pleasant) to work with than tangled rat's nests of code I'm sure we've all come across (and, let's be honest, written). This point is expanded upon in the section {ref}`rr-testing-unittest`.
 
 ## The advantages of testing for research
 
@@ -54,6 +72,6 @@ It makes research more reproducible by answering the question "how do we even kn
 If tests are never saved, just done and deleted the proof cannot be reproduced easily.
 
 Testing also helps prevent valuable grant money being spent on projects that may be partly or wholly flawed due to mistakes in the code.
-Worse if mistakes are not at found and the work is published any subsequent work that builds upon the project will be similarly flawed.
+Worse, if mistakes are not at found and the work is published, any subsequent work that builds upon the project will be similarly flawed.
 
-Perhaps the cleanest expression of why testing is important for research as a whole can be found in the [Software Sustainability Institute](https://www.software.ac.uk/) slogan: better software better research.
+Perhaps the cleanest expression of why testing is important for research as a whole can be found in the [Software Sustainability Institute](https://www.software.ac.uk/) slogan: better software, better research.

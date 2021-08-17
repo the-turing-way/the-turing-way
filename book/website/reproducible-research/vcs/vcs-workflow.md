@@ -19,9 +19,9 @@ If you need to go back to a previous version of a file because of a mistake, or 
 
 An illustration of this is shown below.
 
-```{figure} ../../figures/master_branch.png
+```{figure} ../../figures/main-branch.png
 ---
-name: master_branch
+name: main-branch
 alt: An illustration of a master branch
 ---
 An illustration of a master branch
@@ -46,9 +46,9 @@ At the same time, you can test your ideas and troubleshoot in a local branch.
 When you are happy with the new changes, you can introduce them to the main project.
 The merge feature in Git allows the independent lines of development in a local branch to get integrated into the master branch.
 
-```{figure} ../../figures/one_branch.png
+```{figure} ../../figures/one-branch.png
 ---
-name: one_branch
+name: one-branch
 alt: An illustration of a development and master branch in git
 ---
 An illustration of a development and master branch in git.
@@ -57,9 +57,9 @@ An illustration of a development and master branch in git.
 You can have more than one branch off of your master copy.
 If one of your branches ends up not working, you can either abandon it or delete it without impacting the master branch of your project.
 
-```{figure} ../../figures/two_branches.png
+```{figure} ../../figures/two-branches.png
 ---
-name: two_branches
+name: two-branches
 alt: An illustration of two development branches and one master branch in git
 ---
 Two development branches and one master branch in git.
@@ -67,9 +67,9 @@ Two development branches and one master branch in git.
 
 If you want, you can create branches from branches (and branches off of those branches and so on).
 
-```{figure} ../../figures/sub_branch.png
+```{figure} ../../figures/sub-branch.png
 ---
-name: sub_branch
+name: sub-branch1
 alt: An illustration of a development branch in git.
 ---
 A development branch in git.
