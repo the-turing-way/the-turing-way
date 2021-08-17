@@ -37,7 +37,7 @@ GitHub also maintains [a collection of .gitignore templates](https://github.com/
 
 ### Creating a `.gitignore` file
 
-To create a `.gitignore` file, open a new file in a text editor of your choosing (e.g. TextEdit), name the file `.gitignore` (including the `.` at the beginning), and save it in your repository.
+To create a `.gitignore` file, open a new file in a text editor of your choosing (for example TextEdit), name the file `.gitignore` (including the `.` at the beginning), and save it in your repository.
 Alternatively, you can create a `.gitignore` file through the terminal by first navigating to your repository and then running the command `touch .gitignore`.
 
 To double check that your `.gitignore` file is working as you intended, and the correct files are being ignored, you can run the command `git status --ignored`, which will generate a list of all ignored files.
