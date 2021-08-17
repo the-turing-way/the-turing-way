@@ -280,7 +280,18 @@ parts:
         file: project-design/code-styling/code-styling-readability
       - title: Code Styling Tools
         file: project-design/code-styling/code-styling-tools
-
+    - title: Sensitive Data Projects
+      file: project-design/sdp
+      sections:
+      - title: Keeping Sensitive Files Secure
+        file: project-design/sdp/pd-sdp-sensitive-files
+      - title: Sharing Your Jupyter Notebook
+        file: project-design/sdp/pd-sdp-sensitive-code
+      - title: Removing Sensitive Data From GitHub
+        file: project-design/sdp/pd-sdp-exposing-data
+      - title: Further Recommendations
+        file: project-design/sdp/pd-sdp-resources
+        
   # ===== Guide for Communication ========================================
 
   - file: communication/communication
