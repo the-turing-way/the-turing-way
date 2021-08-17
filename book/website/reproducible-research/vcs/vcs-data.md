@@ -20,13 +20,14 @@ Especially if original data gets replaced with new data with no version control 
 Therefore, version controlling data and other large files in a similar way to version controlling code or manuscripts can help ensure the reproducibility of a project and capture the provenance of results;that is "the precise subset and version of data a set of result originates from".
 Together with all other components of a research project, data identified in precise versions is part of the research outcome.
 
-```{figure} ../../figures/Provenance.jpg
+```{figure} ../../figures/provenance.jpg
 ---
 height: 500px
-name: Provenance
+name: provenance
 alt: Provenance on which data in which version was underlying which computation is crucial for reproducibility.
 ---
 Provenance on which data in which version was underlying which computation is crucial for reproducibility.
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 (rr-vcs-data-challenges)=
@@ -51,7 +52,7 @@ These shortcomings can make version controlling files tedious and slow, impede c
 Several tools are available to handle version controlling and sharing large
 files.
 Most of them integrate very well with Git and extend a repository's capabilities to version control large files.
-With these tools, large data can be added to a repository, version controlled, reverted to previous states, or updated and modified collaboratively, and even shared via GitHub as small-sized files. 
+With these tools, large data can be added to a repository, version controlled, reverted to previous states, or updated and modified collaboratively, and even shared via GitHub as small-sized files.
 Some of these tools include:
 
 (rr-vcs-data--tools-lfs)=

@@ -11,7 +11,7 @@ Please note that the order of these recommendations are not strict and we encour
 Once you have decided on the type of content you want to contribute to _The Turing Way_, use the relevant [template](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/templates) to prepare your contribution.
 
 ```{note}
-Please note that we welcome new template contributions. 
+Please note that we welcome new template contributions.
 If the chapter or case study templates do not suit your needs, please open a Pull Request with suggestions for improving them.
 If you want to contribute content for which there is no corresponding template, you are also encouraged to create the missing template and add it to the template collection.
 ```
@@ -50,7 +50,7 @@ book\website
 |   └───new-chapter (new chapter folder)
 |   |   |   ...
 |    
-└───project-design <---- (folder for the Guide for Project Design) 
+└───project-design <---- (folder for the Guide for Project Design)
     │   project-design.md
     │   ...
 ```
@@ -62,7 +62,7 @@ New chapters in the Guide for Reproducible Research should be added like `new-ch
 ## Name files/folders appropriately
 
 Please follow _The Turing Way's_ conventions for naming files.
-With proper file names, other contributors can easily identify the purpose and location of your files and add to or improve them if necessary. 
+With proper file names, other contributors can easily identify the purpose and location of your files and add to or improve them if necessary.
 
 (ch-contributing-workflow-guidelines)=
 ## Follow the style and consistency guidelines
@@ -108,5 +108,5 @@ When writing your chapter, [update the book-wide glossary](https://the-turing-wa
 (ch-contributing-workflow-crosschecking)=
 ## Cross check your Pull Request
 
-The content of the templates are pnly meant to guide and structure your writing.
+The content of the templates are only meant to guide and structure your writing.
 Please remove all of the template's placeholders, tips, and suggestions from your chapter before you submit your PR for review.

@@ -15,7 +15,7 @@ If you want to improve the style of the book, this subchapter also provides a br
 (ch-style-custom-styling-stylesheets)=
 ## Using the Stylesheets
 
-(ch-style-custom-styling-stylesheets-videos)=
+(ch-style-custom-styling-videos)=
 ### Videos
 
 While it is possible to embed images and GIFs in your content using Markdown syntax, it is currently only possible to embed videos with `HTML`.

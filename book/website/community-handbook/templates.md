@@ -1,4 +1,4 @@
-(ch-template)=
+(ch-templates)=
 # Template Collection
 
 ***This page serves as an index for all the template resources provided within The Turing Way Community Handbook***
@@ -18,9 +18,10 @@ Illustration of a process of sketching. [Royalty free image from Many Pixels](ht
 There are four MarkDown templates for the shared notes (HackMD), feedback and GitHub issue for organising and running _The Turing Way_ book dash events.
 These templates can be reused and adapted for different events within and outside _The Turing Way_ community.
 
-- {ref}`Issue Template for Planning Book Dashes<ch-template-bookdash-issue>`
+- {ref}`HackMD Template for the Index Page<ch-template-bookdash-index>`
 - {ref}`HackMD Template for Pre-Event Calls<ch-template-bookdash-precall>`
-- {ref}`HackMD Template for Shared Note-Taking<ch-template-bookdash-notes>`
+- {ref}`Issue Template for Planning Book Dashes<ch-template-bookdash-github>`
+- {ref}`HackMD Template for Shared Notes<ch-template-bookdash-notes>`
 - {ref}`HackMD Template for Post-Event Feedback<ch-template-bookdash-feedback>`
 
 (ch-template-coworking)=
@@ -34,6 +35,6 @@ There are two MarkDown templates for the shared notes (HackMD) during the cowork
 (ch-template-newsletter)=
 ## Newsletter Draft
 
-As discussed in the {ref}`Newsletter<ch-newsltters>` chapter, we use a template outlined as a guide for collecting news items for the _The Turing Way_ newsletters and it constantly changes as per the activities in the community.
+As discussed in the {ref}`Newsletter<ch-newsletters>` chapter, we use a template outlined as a guide for collecting news items for the _The Turing Way_ newsletters and it constantly changes as per the activities in the community.
 
 - {ref}`Template for Drafting Newsletters<ch-template-newsletter-draft>`

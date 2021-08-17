@@ -18,7 +18,7 @@ The maintenance process can be executed smoothly with the help of the following:
 These details should throw light on what the project is all about, why was it created in the first place, who maintains the project, what is the community culture looks like, and who can provide guidance to new contributors.
 
 These three documents are a good start towards building these documents:
-- A project should contain a {ref}`README.md file<rr-github-readme>` that provides the important details and links to resources that one must know to become a member of the project.
+- A project should contain a {ref}`README.md file<pd-project-repo-readme>` that provides the important details and links to resources that one must know to become a member of the project.
 - A Code of Conduct (see _The Turing Way_ [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md)) must be provided in every project to establish that a welcoming and safe environment for community members while collaborating.
 - A well-written contribution guideline (see _The Turing Way_ [Contributing file](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)) is extremely important when the collaboration is done remotely on any project to ensure clear communication between contributors and maintainers.
 

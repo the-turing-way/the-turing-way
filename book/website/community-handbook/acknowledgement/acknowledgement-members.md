@@ -9,7 +9,7 @@ Similarly, community-oriented processes evolve over time with the help and feedb
 Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member.
 
 Their contributions may include carrying out small tasks such as reporting bugs, correcting factual errors, adding references, opening issues to discuss an idea, commenting on an ongoing discussion, exchanging ideas with other members or citing and promoting _The Turing Way_.
-As discussed in the next subchapter, these contributors are highlighted in the {ref}`Contributors Table<aw-contributors-record-contributors>`.
+As discussed in the next subchapter, these contributors are highlighted in the {ref}`Contributors Table<contributors-record-contributors>`.
 
 Many contributors will also make substantial contributions such as writing a subchapter, maintaining community interactions, setting up or maintaining project's infrastructure, helping others in their work and supporting their participation.
 All the substantial contributors are also highlighted in the Contributors Table and named as co-authors [{term}`def<Authors>`] on the book as a whole.

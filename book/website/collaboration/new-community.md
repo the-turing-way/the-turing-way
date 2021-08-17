@@ -3,16 +3,15 @@
 
 As researchers, scientists and 'techies' we look for ways to use our skills to solve pressing, current issues.
 
-The most recent example is the COVID-19 pandemic and related events {cite}`WHO2020Jul` worldwide including the global lockdown that started in February 2020.
+The most recent example is the COVID-19 pandemic and related events {cite:ps}`WHO2020Jul` worldwide including the global lockdown that started in February 2020.
 The research communities responded with a sudden surge of hackathons, data modelling projects, task forces, and working groups to find effective and immediate technical solutions to combat this health crisis.
 
 ```{figure} ../figures/new-community.png
 ---
-height: 500px
 name: new-community
 alt: An illustration of 2 people who are working together and discussing a data chart.
 ---
-_An illustration of analytic process. [Royalty free image from Many Pixels](https://www.manypixels.co/gallery/)
+An illustration of analytic process. [Royalty free image from Many Pixels](https://www.manypixels.co/gallery/)
 ```
 
 Such action oriented efforts result from a motivation to pull together and combine our scientific knowledge to address unprecedented situations, which is surely an ideal way to move forward.
