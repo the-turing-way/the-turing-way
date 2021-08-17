@@ -3,7 +3,7 @@
 # Keeping sensitive files secure
 
 You will often have files that you do not want Git to add to your repository (or even show as being [untracked](https://howtogit.archive.pieterdedecker.be/concepts/types-of-changes.html)).
-These are typically files that are automatically generated (e.g. `.log` files); however, they may also be files that contain sensitive information.
+These are typically files that are automatically generated (for example `.log` files); however, they may also be files that contain sensitive information.
 In such cases, you can use [`.gitignore`](http://git-scm.com/docs/gitignore).
 
 ## `.gitignore`
