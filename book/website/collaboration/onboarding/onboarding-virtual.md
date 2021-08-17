@@ -46,7 +46,7 @@ Access needs differ across virtual and in-person settings. For in-person there a
 
 ## Socialisation norms
 
-There may be different social norms for virtual work compared to in-person work. It is helpful to make these norms clear to help an onboarder integrate. For example, when do people take coffee breaks, where do people sit at lunchtime? Does how the group communicate differ between virtual (e.g. slack) and in-person settings (e.g. noticeboards)? Are there any dress code considerations for in-person work? 
+There may be different social norms for virtual work compared to in-person work. It is helpful to make these norms clear to help an onboarder integrate. For example, when do people take coffee breaks, where do people sit at lunchtime? Does how the group communicate differ between virtual (for example slack) and in-person settings (for example noticeboards)? Are there any dress code considerations for in-person work? 
 
 
 ## Further reading
