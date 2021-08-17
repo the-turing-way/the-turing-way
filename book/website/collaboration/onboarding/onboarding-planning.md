@@ -2,10 +2,13 @@
 # Planning and Processes
 
 When thinking about designing onboarding, there are several areas to consider. 
-These are briefly described below. 
-It may be useful to lay these out explicitly in an onboarding document, manual or folder of resources. 
-This creates a set of shared expectations and acts as a reference for new members to find information about resources. 
-Onboarding documents can also contain information about who to ask for help if they have a problem.
+
+It may be useful to lay these areas out explicitly in an onboarding document, manual or folder of resources.
+
+This creates a set of shared expectations and acts as a reference for new members to find information about resources or who to ask for help.
+
+We briefly describe areas to consider below.
+
 
 ## Suggested Considerations
 
@@ -14,7 +17,7 @@ Onboarding documents can also contain information about who to ask for help if t
 Every group or workplace has a different culture, and expectations aren't always clear when a new member joins.
 You can help them settle in by making the culture clear in written form.
 
-This can be especially important for people who experience discrimination - do they know that they can approach you and be listened to if they experience harassment or discrimination?
+Making group culture explicit can be especially important for people who experience discrimination - do they know that they can approach you and be listened to if they experience harassment or discrimination?
 
 Group culture sections can include:
 * What is expected as part of the team - turnaround times for feedback, support, and communication.
