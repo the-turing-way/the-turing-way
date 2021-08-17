@@ -7,7 +7,7 @@ One neat way of sharing your research workflow - whether that is your data clean
 Working with sensitive data may, however, create barriers to sharing your Jupyter notebook: you do not want to commit a Jupyter notebook containing sensitive data to GitHub.
 
 You can get around this hurdle by manually clearing your notebook's output before each Git commit you do. 
-This process is, however, time-consumaring, cumbersome and - most importantly - extremely error-prone. 
+This process is, however, time-consuming, cumbersome and - most importantly - extremely error-prone. 
 You only need to forget to clear the output once to inadvertently expose your data. 
 Another, much more efficient (and failsafe!) way of doing this is by using `nbstripout`.
 
