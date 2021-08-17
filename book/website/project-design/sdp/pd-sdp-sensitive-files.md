@@ -48,7 +48,7 @@ To double check that your `.gitignore` file is working as you intended, and the 
 Files that are already tracked by Git (i.e. files that has previously been staged or committed) will not be ignored.
 It is therefore often a good idea to create a `.gitignore `file when you set up a new repository, so that you do not accidentally commit files that you do not want to.
 
-It is, neverthess, possible to ignore files that are already tracked by Git.
+It is, nevertheless, possible to ignore files that are already tracked by Git.
 To do this, you will first need to delete the file from your repository and then add a new rule to your `.gitignore` file. 
 
 ### Committing a file that has previously been ignored
