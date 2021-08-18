@@ -15,7 +15,7 @@ For more information about`.gitignore`, please check out the following resources
 
 ## Sharing your Jupyter notebook
 
-For more information about using`nbstripout`, please check out the following resources:
+For more information about using `nbstripout`, please check out the following resources:
 
 * [nbstripout documentation](https://pypi.org/project/nbstripout/)
 * [nbstripout GitHub repository](https://github.com/kynan/nbstripout)
