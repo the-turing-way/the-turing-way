@@ -760,13 +760,10 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 <!---Z
 ## Z--->
-
 (contributors-record-all)=
-
 # All Contributors
 
-
-✨Using [all-contributors](https://allcontributors.org/) specification, _The Turing Way_ Recognises all contributors, not just the ones who push code. ✨
+✨Using [all-contributors](https://allcontributors.org/) specification, _The Turing Way_ recognises all contributors, not just the ones who push code. ✨
 
 (contributors-record-contributors)=
 ## Contributors
@@ -1151,8 +1148,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
 Contributions of any kind welcome!
-
-(contributors-record-collaborators)=
+\n(contributors-record-collaborators)=
 # Collaborating Organisations and Projects
 
 *The Turing Way community receives in-kind contributions from members supported by their employers, projects or organisations for their participation.
