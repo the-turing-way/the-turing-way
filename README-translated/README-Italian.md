@@ -21,20 +21,20 @@
 
 _Benvenuti nel GitHub repository per The Turing Way. Qui è dove tutte le parti del progetto vengono sviluppate, riviste e mantenute._
 
-_The Turing Way_ è una guida per condurre data science in una maniera riproducibile, etica e collaborativa. Coinvolgiamo e sosteniamo una comunità eterogenea di contributori in modo da rendere data science accessibile, comprensibile ed efficace per tutti. Il nostro obiettivo è quello di fornire tutte le informazioni di cui i ricercatori e i data scientists (che siano in ambito accademico, industriale o nel settore pubblico) hanno bisogno all'inizio dei loro progetti in modo che questi siano poi facili da riprodurre.
+_The Turing Way_ è una guida per condurre data science in maniera riproducibile, etica e collaborativa. Coinvolgiamo e sosteniamo una comunità eterogenea di contributori in modo da rendere data science accessibile, comprensibile ed efficace per tutti. Il nostro obiettivo è quello di fornire tutte le informazioni di cui i ricercatori e i data scientists (che siano in ambito accademico, industriale o nel settore pubblico) hanno bisogno all'inizio dei loro progetti in modo che questi siano poi facili da riprodurre.
 
-[![The Turing Way project è un libro, una comunità, un progetto open-source e una cultura collaborativa. Questo è illustrato in quattro figure. La prima mostra il libro "the Turing Way", la seconda spiega come la comunità può crescere, la terza figura rappresenta due persone che collaborano per una pull request, l'ultima illustra l'equilibrio dove la reproducibilità è considerata più importante del numero di articoli pubblicati.](https://github.com/alan-turing-institute/the-turing-way/blob/master/book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
+[![The Turing Way project è un libro, una comunità, un progetto open-source e una cultura collaborativa. Questo è illustrato in quattro figure. La prima mostra il libro "the Turing Way", la seconda spiega come la comunità può crescere, la terza figura rappresenta due persone che collaborano per una pull request, l'ultima illustra l'equilibrio dove la reproducibilità è considerata più importante del numero di articoli pubblicati.](/book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
 
 *The Turing Way è un libro, una comunità e una collaborazione globale.*
 
 Tutte le parti interessate, tra cui studenti, ricercatori, software engineers, capi progetto e team di finanziamento, sono incoraggiati a usare _The Turing Way_ per capire i propri ruoli e responsabilità nella riproducibilità in data science. 
-Puoi leggere il libro [online](https://github.com/alan-turing-institute/the-turing-way), contribuire al progetto come dettagliato in [questa guida](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) e riusare tutti i materiali (controlla la [licenza](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
+Puoi leggere il libro [online](https://github.com/alan-turing-institute/the-turing-way), contribuire al progetto come dettagliato in [questa guida](/CONTRIBUTING.md) e riusare tutti i materiali (controlla la [licenza](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
 
-[![Questo è uno screenshot del libro online. Mostra una delle illustrazioni all'inizio del libro. In questa figura, c'è una strada dove ci sono negozi per le varie data science skills. I clienti, con il loro carrello, possono entrare e uscire a loro piacimento e scegliere ciò che gli serve.](https://github.com/alan-turing-institute/the-turing-way/blob/master/book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
+[![Questo è uno screenshot del libro online. Mostra una delle illustrazioni all'inizio del libro. In questa figura, c'è una strada dove ci sono negozi per le varie data science skills. I clienti, con il loro carrello, possono entrare e uscire a loro piacimento e scegliere ciò che gli serve.](/book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
 
 *Screenshot del libro The Turing Way online ([usa questa immagine in una presentazione](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
 
-Il libro _The Turing Way_ è iniziato come una guida lievemente opinionata nel 2019 e si è gradualmente trasformato in una serie di guide su Ricerca Riproducibile, Design di Progetti, Comunicazione, Collaborazione e Ricerca Etica.
+Il libro _The Turing Way_ è iniziato come una guida con un taglio deciso nel 2019 e si è gradualmente trasformato in una serie di guide su Ricerca Riproducibile, Design di Progetti, Comunicazione, Collaborazione e Ricerca Etica.
 Ogni guida comprende capitoli su diversi argomenti e include le migliori pratiche da adottare, indicazioni e raccomandazioni.
 Questi capitoli sono stati scritti in collaborazione con studenti, ricercatori, educatori, ledear della comunità, politici e professionisti con background eterogeneo, esperienze vissute e conoscenze di settore.
 
@@ -80,7 +80,7 @@ Tutti sono tenuti a seguire il nostro [codice di condotta](CODE_OF_CONDUCT.md) e
 Vogliamo rendere la contribuzione a questo progetto il più facile possibile.
 Per questo motivo, ci sono diversi modi in cui è possibile contribuire in base ai propri interessi, disponibilità e capacità.
 
-![Questa immagine mostra sei dei diversi modi in cui chiunque può contribuire. Questi sono: sviluppare e condividere, mantenere e migliorare, condividere risorse, revisione e aggiornamento, rendere il progetto globale attraverso la traduzione, e condividere le migliori pratiche.](https://github.com/alan-turing-institute/the-turing-way/blob/master/book/website/figures/README_imgs/README_contributions.png)
+![Questa immagine mostra sei dei diversi modi in cui chiunque può contribuire. Questi sono: sviluppare e condividere, mantenere e migliorare, condividere risorse, revisionare e aggiornare, rendere il progetto globale attraverso la traduzione, e condividere le migliori pratiche.](/book/website/figures/README_imgs/README_contributions.png)
 
 *Tra i modi di contribuire ci sono anche lo sviluppo e la condivisione di nuovi capitoli, la manutenzione e il miglioramento dei capitoli esistenti, la condivisione delle risorse de _The Turing Way_, la revisione e l'aggiornamento del materiale, la traduzione dei capitoli per rendere questo progetto accessibile globalmente, la condivisione delle miglior pratiche nell'amito della ricerca.*
 
@@ -121,7 +121,7 @@ L'ultima versione di Zenodo può essere menzionata come:
 
 Abbiamo utilizzato alcune di queste immagini nelle risposte del [Welcome Bot](https://github.com/apps/welcome) ai contributi dei nuovi membri nel nostro repository su GitHub.
 
-### Contattaci
+### Contattaci (in inglese)
 
 #### Email
 
