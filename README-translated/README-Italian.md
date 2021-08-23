@@ -19,7 +19,7 @@
 | **Cita** |  [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) |
 
 
-_Benvenuti nel GitHub repository per The Turing Way. Qui è dove tutte le parti del progetto vengono sviluppate, riviste e mantenute._
+_Benvenuti nel GitHub repository per The Turing Way. Qui è dove tutte le parti del progetto vengono sviluppate, riviste e tenute aggiornate._
 
 _The Turing Way_ è una guida per condurre data science in maniera riproducibile, etica e collaborativa. Coinvolgiamo e sosteniamo una comunità eterogenea di contributori in modo da rendere data science accessibile, comprensibile ed efficace per tutti. Il nostro obiettivo è quello di fornire tutte le informazioni di cui i ricercatori e i data scientists (che siano in ambito accademico, industriale o nel settore pubblico) hanno bisogno all'inizio dei loro progetti in modo che questi siano poi facili da riprodurre.
 
@@ -85,7 +85,7 @@ Per questo motivo, ci sono diversi modi in cui è possibile contribuire in base 
 *Tra i modi di contribuire ci sono anche lo sviluppo e la condivisione di nuovi capitoli, la manutenzione e il miglioramento dei capitoli esistenti, la condivisione delle risorse de _The Turing Way_, la revisione e l'aggiornamento del materiale, la traduzione dei capitoli per rendere questo progetto accessibile globalmente, la condivisione delle miglior pratiche nell'amito della ricerca.*
 
 Ai membri della comunità vengono date opportunità per imparare nuove abilità, condividere le proprie idee e collaborare con altri.
-Vengono anche fornite possibilità di avere, e si incoraggia poi ad essere, un mentore per contribuzioni a _The Turing Way_ e ad altri progetti open source.
+Questa comunità rende possibile per i propri membri, e li incoraggia, a fare da guida per contribuzioni a The Turing way e ad altri progetti open source.
 
 Abbiamo creato un [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) per aiutarti a presentare e condividere _The Turing Way_.
 
