@@ -2,7 +2,7 @@
 
 # Sharing your Jupyter notebook
 
-One neat way of sharing your research workflow - whether that is your data cleaning process, the statistical modelling that you have applied to your data set, or how you have visualised your results  - is through [Jupyter notebooks](https://hub.gke2.mybinder.org/user/ipython-ipython-in-depth-yx75f3x5/notebooks/examples/Notebook/Notebook%20Basics.ipynb).
+One neat way of sharing your research workflow - whether that is your data cleaning process, the statistical modelling that you have applied to your data set, or how you have visualised your results  - is through [Jupyter notebooks](https://www.dataquest.io/blog/jupyter-notebook-tutorial/).
 
 Working with sensitive data may, however, create barriers to sharing your Jupyter notebook: you do not want to commit a Jupyter notebook containing sensitive data to GitHub.
 
