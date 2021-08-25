@@ -26,7 +26,7 @@ The tasks and responsibilities are listed in chronological order and have been d
   - Check if there is a speaker or chair guidelines, reach out to the organisers if you have not been given one already.
   - Prepare your notes or presentation that you will use during your slot as per the guidelines.
 - Please consider accessibility and inclusivity when designing your talk, [see this for reference](https://www.w3.org/WAI/teach-advocate/accessible-presentations/#preparing-slides-and-projected-material-speakers).
-- Join social media platforms, like [Slack](www.slack.com), [Twitter](www.twitter.com), [GitHub](www.github.com) or [Gitter](www.gitter.im), that will be used for announcing updates on the event, or facilitate live chat during the event.
+- Join social media platforms, like [Slack](https://slack.com), [Twitter](https://twitter.com), [GitHub](https://github.com) or [Gitter](https://gitter.im), that will be used for announcing updates on the event, or facilitate live chat during the event.
   - To get a head start on networking with other attendees, use the social media platform to introduce yourself.
 - Help organisers correct any information that you notice by flagging it, and even better, by supplying the correct information.
 
@@ -60,3 +60,5 @@ The tasks and responsibilities are listed in chronological order and have been d
 - If you would like to, or if you have the opportunity to, send a thank-you note to the organisers or anyone who might have helped in enhancing your experience as a participant.
 - If you made new connections or established new collaborations during the event, send a follow-up email after the event.
 - Finish any task assigned to you or your team, within the given time limit by coordinating with your collaborators.
+
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*

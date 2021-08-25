@@ -1,3 +1,4 @@
+(ch)=
 # Community Handbook
 
 ***This is a community handbook that discusses aspects of The Turing Way project that one can use for participating in this community.***
@@ -12,11 +13,11 @@ Thank you for joining the incredible journey of _The Turing Way_!
 
 ```{figure} ../figures/community.jpg
 ---
-height: 500px
+height: 400px
 name: community
 alt: A garden full of folks working on different parts of the garden. Someone is welcoming others, someone is teaching the basics, someone is writing best practices and someone is helping this community grow.
 ---
-_The Turing Way_ project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3695300
+*The Turing Way* community illustrated as a garden. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 ## License for The Turing Way book series

@@ -14,7 +14,7 @@ As a result, accessibility to your data is affected by the data license you choo
 
 Creative Commons or CC provides a number of licenses that can be used with a wide variety of creations that might otherwise fall under copyright restrictions, including music, art, books and photographs.
 Although not tailored for data, CC licenses can be used as data licenses because they are easy to understand.
-Its website includes a [summary page](https://creativecommons.org/about/cclicenses/){cite}`creativecommons2020licenses` outlining all the available licenses, explained with simple visual symbols.
+Its website includes a [summary page](https://creativecommons.org/about/cclicenses/){cite:ps}`creativecommons2020licenses` outlining all the available licenses, explained with simple visual symbols.
 
 (rr-licensing-data-cc-permissions)=
 ### Permission Levels
@@ -46,7 +46,7 @@ In many instances, data repositories maintained by universities recommend CC0 as
 ## Open Data Commons
 
 Open Data Commons provides three licenses that can be applied specifically to data.
-The [webpages](https://opendatacommons.org/licenses/index.html) {cite}`odk2020odc` of each of these licenses include human-readable summaries, with the ramifications of the legalese explained in a concise format.
+The [webpages](https://opendatacommons.org/licenses/index.html) {cite:ps}`odk2020odc` of each of these licenses include human-readable summaries, with the ramifications of the legalese explained in a concise format.
 
 (rr-licensing-data-odc-pddl)=
 ### The Public Domain Dedication and License or PDDL
@@ -86,10 +86,12 @@ A comparison between the PDDL and CC0 is provided [here](https://opendatacommons
 ## Other Licensing Options
 
 It is also possible to choose other data licenses that may have been developed with a specific use case or community in mind or that are not in widespread global use.
-These include licenses that were developed by national governments, such as the [Norwegian License for Open Government Data](https://data.norge.no/nlod/en/) {cite}`nlod2020governmentdata`.
+These include licenses that were developed by national governments, such as the [Norwegian License for Open Government Data](https://data.norge.no/nlod/en/) {cite:ps}`nlod2020governmentdata`.
 Often, such licenses are the recommended data licensing option within the corresponding country, especially for data created or owned by their public bodies.
 Another example is the [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) or OGL, which was developed by The National Archives, UK.
 
-The [Data Curation Center (DCC) guide](https://www.dcc.ac.uk/guidance/how-guides/license-research-data) {cite}`ball2011license` on how to license research data expatiates on the licenses discussed in this chapter, and gives more information about [Prepared Licenses](https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-6000), [Bespoke Licenses](https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-7000), [Multiple Licensing](https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-13000) and [Mechanisms for Licensing Data](https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-14000).
+The [Data Curation Center (DCC) guide](https://www.dcc.ac.uk/guidance/how-guides/license-research-data) {cite:ps}`ball2011license` on how to license research data expatiates on the licenses discussed in this chapter, and gives more information about [Prepared Licenses](https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-6000), [Bespoke Licenses](https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-7000), [Multiple Licensing](https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-13000) and [Mechanisms for Licensing Data](https://www.dcc.ac.uk/guidance/how-guides/license-research-data#x1-14000).
 
 If you would like to read more about the challenges and finer points of licensing, [this article](https://research.okfn.org/avoiding-data-use-silos/) is a great resource to get you started.
+
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*

@@ -1,4 +1,4 @@
-(rr-vcs-versions)=
+(rr-vcs-git-compare)=
 # Retrieving and Comparing Versions
 
 (rr-vcs-versions-retrieving)=
@@ -26,22 +26,22 @@ If you want the old version of a single file and not the previous version of the
 (rr-vcs-versions-retrieving-practice)=
 ### Good Practice
 
-Commits should be 'atomic', meaning that **they should do one simple thing and they should do it completely**. 
+Commits should be 'atomic', meaning that **they should do one simple thing and they should do it completely**.
 For example, an 'atomic' commit could be adding a new function or renaming a variable.
 If a lot of different changes to your project are all committed together, it can be hard to troubleshoot if any error appears in that version.
 Furthermore, undoing the whole commit may throw away valid and useful work.
 
 It is good practice to **specify the files to be committed**, that is, adding files to the staging area by name (`git add your_file_name`) rather than adding everything (`git add .`).
-This prevents you from unintentionally bundling different changes together. 
-For example, if you have made a change to file A while primarily working on file B, you may have forgotten this when you go to commit. 
+This prevents you from unintentionally bundling different changes together.
+For example, if you have made a change to file A while primarily working on file B, you may have forgotten this when you go to commit.
 With `git add .`, file A would be brought along for the ride.
 If there are several *unrelated* changes that should not be added together in a *single* file, `git add -p your_file_name` will let you interactively chose which changes to add.
 That said, **you do not necessarily need to do per-file commits** when working on multiple files, but for one single problem.
 For example, if we add a figure to this chapter here, choosing one to catch the attention of someone skimming through:
 
-```{figure} ../../figures/flipped_taj_mahal.png
+```{figure} ../../figures/flipped-taj-mahal.png
 ---
-name: flipped_taj_mahal
+name: flipped-taj-mahal
 alt: A flipped photograph of the Taj Mahal to grab the reader's attention.
 ---
 Flipped Taj Mahal
@@ -55,7 +55,7 @@ two files are changed:
 So two files are affected, but "Add figure to version control chapter" is a single, *atomic* unit of work, so only one commit is necessary.
 
 Finally, do not commit anything that is regenerated from other files committed in a version (unless it is something that would take hours to regenerate).
-Generated files, such as scripts, clutter up your repository and may contain features such as timestamps that can cause annoying file conflicts (see {ref}`rr-vcs-merge`).
+Generated files, such as scripts, clutter up your repository and may contain features such as timestamps that can cause annoying file conflicts (see {ref}`rr-vcs-git-merge`).
 You can instruct Git to ignore certain files by creating a file called `.gitignore` and including names of the file that you do not need to store in your Git repository.
 For example, configuration files that might change from environment to environment should be ignored.
 

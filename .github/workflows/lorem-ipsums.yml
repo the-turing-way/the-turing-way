@@ -9,13 +9,18 @@ on:
   push:
     branches:
       - master
+    paths:
+      - "book/**"
   pull_request:
     branches:
       - master
+    paths:
+      - "book/**"
 
 # Set up the Continuous Integration job
 jobs:
   lorem-ipsums:
+    if: (github.event.pull_request) && !contains(github.head_ref, 'all-contributors')
     # Run on the latest Ubuntu distribution
     runs-on: ubuntu-latest
     # This section collects together the steps involved in running the test

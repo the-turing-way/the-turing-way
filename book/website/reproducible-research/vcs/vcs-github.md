@@ -6,7 +6,7 @@ Moreover, it is time-consuming to manually incorporate the work of different par
 Hosting the project on an online repository hosting service like GitHub is beneficial to make collaborations open and effective.
 If you are new to collaboration through [GitHub](https://github.com), please follow the comprehensive guide in the previous sections.
 
-In this section, we will discuss how to use Git commands to work with online Git repository.
+In this section, we will discuss how to use Git commands to work with an online Git repository.
 
 Please note that the commands listed in this chapter (both in this and previous subchapters) are NOT specific to GitHub.
 They are used for collaborative work on any Git repositories and to interact with any repository hosting site/servers, which can be [GitHub](https://github.com/), but also [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/) or a [self-set-up bare Git repository on a web server](https://opensource.com/life/16/8/how-construct-your-own-git-server-part-6).
@@ -16,12 +16,12 @@ For simplicity, we will use GitHub as an example to explain commands that are us
 (rr-vcs-github-local)=
 ## Create a Local Copy of an Online Repository
 
-So far, all Git commands introduced in this chapter concerned local, unconnected Git repositories.
+So far, all Git commands introduced in this chapter are concerned with local, unconnected Git repositories.
 In order to collaborate with others, hosting services, such as GitHub, can store a *clone* (a copy) of your local repository and expose it to others.
 Usually, you will have a local repository and a *remote*, web-hosted repository.
 Your local repository is connected to the web-based clone.
 In technical terms, the web-based clone is a `remote` of the local repository. Usually, this remote is called "origin".
-Having a web-based remote allows you to *push* changes to your project online. 
+Having a web-based remote allows you to *push* changes to your project online.
 It enables others to obtain their own clone of your repository (a copy of your repository to their local computer), make changes, and submit a *pull request* that allows you to integrate their changes.
 For example, one can create an independent local copy of a project using the following Git command:
 
@@ -67,12 +67,12 @@ When you want to push them to your online version, similarly you do:
 git push origin branch_you_want_to_push_to
 ```
 
-You can also make changes directly on the GitHub by editing the online repository, and *pull* those changes locally by using the `git pull` command.
+You can also make changes directly on GitHub by editing the online repository, and *pull* those changes locally by using the `git pull` command.
 
 Others can also clone the repository to their computer by using:
 
 ```
-git clone https://GitHub.com/your_username/repository_name.Git
+git clone git@github.com:your-github-username/repository_name
 ```
 
 They can make and commit changes to the code without impacting the original, and push their changes to *their* online GitHub account using:
@@ -99,7 +99,7 @@ git push origin branch-name
 
 However, if you can not directly edit the repository (when you are not an owner or admin of the project), you will be able to share your work with the help of *pull requests*.
 A pull request allows a contributor to get the proposed changes from their branch or repository integrated into the master branch of the project.
-It is also possible to make pull requests via the command line (see the GitLab documentation [here](https://git-scm.com/docs/git-request-pull)). 
+It is also possible to make pull requests via the command line (see the GitLab documentation [here](https://git-scm.com/docs/git-request-pull)).
 
 (rr-vcs-github-contributing)=
 ## Contributing to Other Projects
@@ -115,45 +115,45 @@ Therefore, when working on different branches or forks of a repository, it is a 
 Using the fork button on the GitHub repository you wish to contribute to, create a copy of the repository in your account.
 The master repository that you forked will be referred to as the "upstream" repository.
 
-You can now work on your copy using the command line, via the following steps:
+You can now work on your copy using the command line, via the following steps (make sure you replace the placeholder user and repository names):
 
 1. Clone it to your local machine:
 
-```
-git clone git@github.com/your_username/forked_repository.git
-```
+    ```
+    git clone git@github.com:your-github-username/repository_name
+    ```
 
-2. Add the 'upstream' repository to the list of remote repositories using a similar command as below (replace the upstream repository's users id and original repository name):
+2. Add the 'upstream' repository to the list of remote repositories using the ``git remote`` command:
 
-```
-git remote add upstream https://github.com/upstream_user's_username/original_repository.git
-```
+    ```
+    git remote add upstream git@github.com:upstream-github-username/repository_name
+    ```
 
 3. Verify the new remote 'upstream' repository:
 
-```
-git remote -v
-```
+    ```
+    git remote -v
+    ```
 
 4. Update your fork with the latest upstream changes, by first fetching the upstream repository's branches and latest commits to bring them into your repository:
 
-```
-git fetch upstream
-```
+    ```
+    git fetch upstream
+    ```
 
 5. View all branches, including those from upstream:
 
-```
-git branch -va
-```
+    ```
+    git branch -va
+    ```
 
 Make sure that you are on your master branch locally, if not, then checkout your master branch using the command `git checkout master`
 
 6. Keep your fork updated by merging those commits (fetched from the upstream) to your own local master branch.
 
-```
-git merge upstream/master
-```
+    ```
+    git merge upstream/master
+    ```
 
 Now, your local master branch is up-to-date with everything modified upstream.
 If there are no unique commits on the local master branch, git will simply perform a fast-forward.
@@ -177,7 +177,7 @@ git checkout my-other-branch
 git pull origin master
 ```
 
-When everything is  up-to-date, you can work on your branch and commit changes.
+When everything is up-to-date, you can work on your branch and commit changes.
 
 When you are ready to push your local commits to your forked repository (origin), use the following command.
 
@@ -192,6 +192,12 @@ Now you can make a pull request!
 
 Before you create a branch, make sure you have all the upstream changes from the origin/master branch.
 
+
 **A word of caution on the `rebase` command**: While trying to keep your branches in sync, you may come across the `rebase` command.
 It tends to rewrite history and could be troublesome if not communicated with others working on the same branch. Try to avoid using the `rebase` command, and instead use `pull` or `fetch`+`merge`, as discussed in this section.
-You can find more details about Merging vs Rebasing [here](https://www.atlassian.com/git/tutorials/merging-vs-rebasing)
+You can find more details about [Merging vs Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing).
+
+
+## Further reading
+- An [article on syncing a fork of a repository](https://help.github.com/en/articles/syncing-a-fork) to keep it up-to-date with the upstream repository.
+- Instructions if you wish to do it all [in the browser itself](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser).

@@ -87,7 +87,7 @@ Your calls could be organised on a weekly or monthly basis that consistently tak
 Once you have found a schedule (date, time and frequency), the following tasks will go into planning them:
 - update the schedule, agenda and calendar to share them with the attendees (or potential target audience). It is also quite effective when they receive a calendar invite.
 - maintain communication (by email, newsletter, or social media) so that everyone is aware of the next calls and the resources available for them to participate.
-It is particularly crucial to use meeting links like [arewemeetingyet](arewemeetingyet.com/) for communicating these schedules for members from different countries so that they can see the time in their time zones.
+It is particularly crucial to use meeting links like [arewemeetingyet](https://arewemeetingyet.com/) for communicating these schedules for members from different countries so that they can see the time in their time zones.
 
 For hosting these calls, you can reuse and adapt the agenda, techniques and templates described in the earlier chapters.
 You main tasks as a host will be to:
@@ -129,6 +129,6 @@ If there is something we want to discuss more intensely, we allocate 30 minutes 
 For the time in between, we do a few quiet working sessions (sometimes 25 minutes, sometimes longer).
 This is likely a combination of a co-mentoring call and a co-working Pomodoro call, and it works well for me.
 
-You can read an adapted version of their blog post along with other ideas for virtual events in the document by Center for Scientific Collaboration and Community Engagement {cite}`CSCCE2020virtual`.
+You can read an adapted version of their blog post along with other ideas for virtual events in the document by Center for Scientific Collaboration and Community Engagement {cite:ps}`CSCCE2020virtual`.
 
 If you organise or host a coworking call in your community, you are welcome to highlight them in this chapter by creating a [pull request](https://github.com/alan-turing-institute/the-turing-way/pulls) on the GitHub repository (see [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) for details).
