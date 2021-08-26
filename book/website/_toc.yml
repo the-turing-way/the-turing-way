@@ -14,6 +14,10 @@ root: welcome
 parts:
 - chapters:
 
+# ===== Foreword Section ========================================
+
+  - file: foreword/foreword
+
 # ===== Guide for Reproducible Research ========================================
   - file: reproducible-research/reproducible-research
     sections:
