@@ -1,4 +1,4 @@
-(fw-vision-mision)=
+(fw-vision-mission)=
 # Vision and Mission
 
 *This document is a draft to help guide the governance planning in the project.*

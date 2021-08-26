@@ -12,7 +12,7 @@ We involve and support a diverse community of contributors to make data science 
 ---
 :header: bg-jb-one
 
-**[About the project](foreword/foreword)** 📢
+**{ref}`About the project<fw>`** 📢
 ^^^
 
 _The Turing Way_ is:
@@ -23,12 +23,12 @@ _The Turing Way_ is:
 
 Our goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.
 
-Please learn more about the project in the {ref}`foreword` section.
+Please learn more about the project in the {ref}`fw` section.
 
 ---
 :header: bg-jb-two
 
-**[_The Turing Way_ Handbook](reproducible-research/reproducible-research)** 🛠
+**{ref}`_The Turing Way_ Handbook<rr>`** 🛠
 ^^^
 The handbook is organized into five guides and a community handbook.
 * {ref}`rr`
@@ -78,27 +78,27 @@ We hope you find the content in the book helpful.
 ---
 :header: bg-jb-two
 
-**[Tips for users and participants](foreword/join-us)** 💡
+**{ref}`Tips for users and participants<fw-ways-of-working>`** 💡
 ^^^
 **Top tip for the users**: 
 ❎ _The Turing Way_ is not meant to be read from start to finish.
 ✅ Browse the different guides that you are interested in, or use the search box to find chapters on topics you would like to learn about first.
 
 **Top tip for the participants**: We provide multiple entry points for you to start contributing based on your interest, availability or skill requirements.
-Please {ref}`fw-join-us` in _The Turing Way_.
+Please {ref}`fw-ways-of-working` in _The Turing Way_.
 
 For all processes and workflows for community participation and involvements, please see the {ref}`ch`.
 
 ---
 :header: bg-jb-one
 
-**[Who should use _The Turing Way_?](foreword/our-community)** 👋
+**{ref}`Who should use _The Turing Way_?<fw-community-roles>`** 👋
 ^^^
 **All stakeholders in research**, including funders, policymakers and public sectors are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
 
 Our audience includes, but are not limited to, undergrad students, PhD researchers, postdocs, software engineers, Principle Investigators, project coordinators, community managers, data stewards, librarians, data science educators and other roles in research.
 
-Please read more about {ref}`fw-community` and learn how you can {ref}`fw-cite-us`.
+Please read more about {ref}`fw-community-roles` and learn how you can {ref}`fw-cite-us`.
 :::
 
 ## _The Turing Way_ Community

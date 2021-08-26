@@ -11,6 +11,14 @@ _The Turing Way_ provides resources as chapters to improve research habits in a 
 Lessons learned through _The Turing Way_ series of guides will help design projects with reproducible, collaborative and ethical research framework. 
 It will also ensure that PhD students, postdocs, PIs and funding teams know which parts of the "responsibility of reproducibility" they can affect, and what they should do to nudge research and data science to being more efficient, effective and understandable.
 
+```{figure} ../figures/evolution-openscience.jpg
+---
+name: evolution-openscience
+alt: This image shows the evolving interest of a new researcher in sharing their work using open science practices.
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
 (fw-history)=
 # History of _The Turing Way_
 

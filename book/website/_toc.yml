@@ -31,7 +31,7 @@ parts:
     - title: Notable Impacts
       file: foreword/impact
     - title: Cite us
-      file: foreword/cite
+      file: foreword/cite-us
 
 # ===== Guide for Reproducible Research ========================================
   - file: reproducible-research/reproducible-research

@@ -10,7 +10,7 @@ _The Turing Way_ handbook is organised in five guides and a Community Handbook.
 * {ref}`er`
 * {ref}`ch`
 
-```{figure} figures/theturingway-chapters.jpg
+```{figure} ../figures/theturingway-chapters.jpg
 ---
 name: theturingway-chapters
 alt: The Turing Way Guide to reproducible research and it's stucture illustrated to show a set of doors to represent how it's built on chapters and sub chapters of the different areas of the guide

@@ -1,4 +1,4 @@
-(fw-citing)=
+(fw-cite-us)=
 # Citing _The Turing Way_
 
 All material in _The Turing Way_ is available under a [CC-BY 4.0 licence](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md).
@@ -20,9 +20,9 @@ If you have any questions please get in touch.
 
 ## Citing The Turing Way Illustrations
 
-```{figure} ../figures/evolution-open-research.jpg
+```{figure} ../figures/banner-thanks.jpg
 ---
-name: evolution-open-research
+name: banner-thanks
 alt: This image shows the evolving interest of a new researcher in sharing their work using open science practices.
 ---
 This is an example of one of _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
