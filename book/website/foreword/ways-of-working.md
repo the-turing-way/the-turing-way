@@ -5,11 +5,8 @@
 
 ## Overview of Resources You Can Use
 
-First, we provide an overview of different platforms, community-led efforts, possible roles and opportunities for collaboration in the community.
-
-In the next subchapters, you will find descriptions of different resources mentioned in the overview table.
-Then we describe other ongoing efforts in the project that you can use to join and ideas for the kind of initiatives you can lead while collaborating with others in continuing your journey within *The Turing Way*.
-Finally, we share some personal motivations of our current members for participating in this project and aspects of their work they find meaningful and beneficial.
+In this document, we provide an overview of different platforms, community-led efforts and ways of working in the community.
+Although, most of these resources are mentioned in different chapters, you can return to this page to find useful links and resources.
 
 ## 1. Get to Know the Project
 

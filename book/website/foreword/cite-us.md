@@ -41,10 +41,3 @@ The latest version from Zenodo can be cited as:
 > The Turing Way Community, & Scriberia. (2020, March 3). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.3332807.
 
 We have used a few of these illustrations in the Welcome Bot's responses to new members' contributions in this GitHub repository.
-
-## Represent _The Turing Way_
-
-We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) to help you in presenting and sharing about The Turing Way in your network.
-
-_The Turing Way_ team will be happy to provide help in delivering a talk by providing training or feedback.
-Please email [theturingway@gmail.com](mailto:theturingway@gmail.com) to set 1:1 meeting.

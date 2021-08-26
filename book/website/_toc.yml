@@ -17,6 +17,21 @@ parts:
 # ===== Foreword Section ========================================
 
   - file: foreword/foreword
+    sections:
+    - title: Vision and Mission
+      file: foreword/vision-mission
+    - title: Background and History
+      file: foreword/background
+    - title: Navigating the Book
+      file: foreword/navigate
+    - title: Community and Roles
+      file: foreword/community
+    - title: Ways of Working
+      file: foreword/ways-of-working
+    - title: Notable Impacts
+      file: foreword/impact
+    - title: Cite us
+      file: foreword/cite
 
 # ===== Guide for Reproducible Research ========================================
   - file: reproducible-research/reproducible-research
