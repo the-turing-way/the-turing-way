@@ -115,7 +115,6 @@ The project is coordinated by the community manager **Malvika Sharan**, who is a
 **Community Acknowledgement** 
 ^^^
 
-_The Turing Way_ can simply not exist without the collaborative nature of this project and the willingness of our community members to support each other.
 All contributors to this project, no matter how small or big their contributions are, is recognised as a contributor and a community member.
 Please see the {ref}`contributors-record-highlights` to learn our contributors and collaborators, and read about the {ref}`acknowledgement process<ch-acknowledgement-members>`.
 
@@ -126,8 +125,6 @@ Please see the {ref}`contributors-record-highlights` to learn our contributors a
 ^^^
 
 We value your participation in _The Turing Way_ community and want to ensure that every contributor has an enjoyable and fulfilling experience.
-Accordingly, everyone who participates in _The Turing Way_ project is expected to show respect and courtesy to other community members at all times.
-
 Please check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) for more information on how you can contribute.
 Everyone who joins the project is expected to follow our {ref}`Code of Conduct<ch-coc>`.
 :::

@@ -5,8 +5,8 @@
 
 ## Overview of Resources You Can Use
 
-In this document, we provide an overview of different platforms, community-led efforts and ways of working in the community.
-Although, most of these resources are mentioned in different chapters, you can return to this page to find useful links and resources.
+In this document, we provide an overview of resources and ways of working in the community.
+Although, most of these resources are described in different chapters, you can always return to this page to find quick access to useful pointers and links.
 
 ## 1. Get to Know the Project
 
