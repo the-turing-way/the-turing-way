@@ -5,8 +5,7 @@
 
 The Turing Way is an online handbook – and global community – dedicated to fostering gold-standard reproducible research. 
 It’s a cultural movement with the potential to transform data science.
-
-***Our moonshot goal is to make reproducibility too easy not to do!***
+Our moonshot goal is to make reproducibility too easy not to do!
 
 (fw-vision)=
 ## Vision Statement

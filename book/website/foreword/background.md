@@ -7,9 +7,9 @@ This is sometimes easier said than done.
 Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists.
 Furthermore, 'technical skill' alone is not sufficient for making research reproducible and open for all.
 
-_The Turing Way_ provides resources as chapters to improve research habits in a self-contained handbook.
-Lessons learned through _The Turing Way_ series of guides will help design projects with reproducible, collaborative and ethical research framework. 
-It will also ensure that PhD students, postdocs, PIs and funding teams know which parts of the "responsibility of reproducibility" they can affect, and what they should do to nudge research and data science to being more efficient, effective and understandable.
+_The Turing Way_ provides resources to build an understanding of good practices and improve research habits through modular chapters in a self-contained handbook.
+Lessons learned through _The Turing Way_ series of guides will help design projects with reproducible, collaborative and ethical research frameworks. 
+It will also ensure that PhD students, postdocs, PIs and funding teams know which parts of the "responsibility of reproducibility" they can affect, and what they should do to nudge research and data science to be more efficient, effective and understandable.
 
 ```{figure} ../figures/evolution-openscience.jpg
 ---
