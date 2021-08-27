@@ -3,34 +3,33 @@
 
 *Welcome to The Turing Way handbook to reproducible, ethical and collaborative data science.*
 
-The Turing Way is an open source, open collaboration, and community-driven project. 
+_The Turing Way_ is an open source, open collaboration, and community-driven project. 
 We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone.
 
 :::{panels}
 :container: +full-width
-:column: col-lg-6 px-2 py-2
+:column: col-lg-4 px-2 py-2
 ---
 :header: bg-jb-one
 
-**{ref}`About the project<fw>`** 📢
+ℹ️ **About the project**
 ^^^
 
 _The Turing Way_ is:
-
 * a handbook,
 * a community,
 * a global collaboration
 
-Our goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.
+Our goal is to provide all the information that researchers and data scientists in **academia, industry and the public sector** need to ensure that the projects they work on are easy to reproduce and reuse.
 
 Please learn more about the project in the {ref}`fw` section.
 
 ---
 :header: bg-jb-two
 
-**{ref}`_The Turing Way_ Handbook<rr>`** 🛠
+📚 **_The Turing Way_ Handbook** 
 ^^^
-The handbook is organized into five guides and a community handbook.
+The handbook is organised into five guides with multiple chapters and subchapters.
 * {ref}`rr`
 * {ref}`pd`
 * {ref}`cm`
@@ -38,96 +37,97 @@ The handbook is organized into five guides and a community handbook.
 * {ref}`er`
 * {ref}`ch`
 
-Each guide contains multiple chapters with modular subchapters.
+All community processes are described in {ref}`ch`.
+{ref}`Foreword<fw>` and {ref}`Afterword<aw>` sections provide background details and additional documents in the project.
+
+---
+:header: bg-jb-three
+
+📣 **News & Updates** 
+^^^
+* Join the **next Book Dash, 08 - 12 November 2021**. [Read details and apply](https://tinyurl.com/ttw-bookdash-nov21) - deadline: **1 October 2021**.
+* We are launching the **Themed Community Call series**. [Share your suggestions](https://tinyurl.com/ttw-community-call)- deadline: **6 September 2021**.
+* Read monthly [updates and news roundup on TinyLetter](https://tinyletter.com/TuringWay/archive).
+
+Have some updates to share? Email [theturingway@gmail.com](mailto:theturingway@gmail.com).
 :::
+
+(howto-ttw)=
+## How to use _The Turing Way_?
+
+All stakeholders in research  are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
+
+:::{panels}
+:container: +full-width
+:column: col-lg-4 px-2 py-2
+---
+:header: bg-jb-one
+
+🎯 **{ref}`Target Audience<fw-community-roles>`**
+^^^
+Our audience in academia, industry and public sectors includes, but is not limited to:
+* students, PhD and postdocs
+* software engineers, librarians and other data experts
+* managers, funders and policymakers
+* educators, managers and members in other supporting roles
+
+Please read more about {ref}`our community<fw-community-roles>` and learn how you can {ref}`cite us<fw-cite-us>`.
+
+---
+:header: bg-jb-two
+
+✅ **{ref}`Tips for Participants<fw-ways-of-working>`**
+^^^
+*_The Turing Way_ is not meant to be read from start to finish.*
+* **Users**, please browse the different guides that you are interested in, or use the search box to find chapters on topics you would like to learn about first.
+* **Contributors**, please choose suitable entry points as per your interest, availability or requirements as described in {ref}`fw-ways-of-working`.
+
+---
+:header: bg-jb-three
+
+**📑 {ref}`Participation Guidelines<ch>`** 
+^^^
+We value your participation and want to ensure that every contributor has an enjoyable and fulfilling experience.
+* Everyone who joins the project is expected to follow our {ref}`Code of Conduct<ch-coc>`.
+* All contributors to this project are recognised for their work. See our {ref}`acknowledgement process<ch-acknowledgement-members>`.
+* Please read the [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) to learn how you can contribute.
+:::
+
+(team-community)=
+## _The Turing Way_ Team and Community
+
+_The Turing Way_ is developed, maintained and driven by our wonderful {ref}`community of contributors<contributors-record-highlights>`.
+
+_The Turing Way_ receives support and funding from [The Alan Turing Institute](https://www.turing.ac.uk/) and is hosted under the [Tools, Practices and Systems programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) led by _The Turing Way_ project lead **Kirstie Whitaker**.
+The project is coordinated by the community manager **Malvika Sharan**, who is a research associate at the Alan Turing Institute.
+
+Together, we are dedicated to making collaborative, reusable and transparent research “too easy not to do”.
+This means bringing together people with diverse perspectives, socio-technical skills and lived experiences to build something more significant than any individual could deliver alone.
 
 :::{admonition} Important Links
 :class: tip full-width
 
-📝 **Visit the GitHub repository**
+📝 **Visit GitHub**
 : All contributions and discussions are coordinated via the online GitHub repository: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way).
-  Please see [issues](https://github.com/alan-turing-institute/the-turing-way/issues) for current plans, ideas and discussions.
-You can also review or create a [Pull Request](https://github.com/alan-turing-institute/the-turing-way/pulls) to start contributing.
+  Please see [issues](https://github.com/alan-turing-institute/the-turing-way/issues) for current ideas and discussions or review/create [Pull Requests](https://github.com/alan-turing-institute/the-turing-way/pulls) to start contributing. Are you new to GitHub? See {ref}`cl-github-novice`.
 
-🗓 **Attend an event**
-: We host community discussions, {ref}`ch-coworking-weekly` , {ref}`ch-coworking-collabcafe`, {ref}`ch-bookdash` and regular workshops. 
+🗓 **Attend an Event**
+: We host community discussions, {ref}`ch-coworking-weekly`, {ref}`ch-coworking-collabcafe`, {ref}`ch-bookdash` and regular workshops. 
   Please sign up to receive {ref}`ch-newsletters` to receive announcements and details of upcoming events.
 
-💬 **Join the community chat**
+💬 **Join Discussions**
 : Connect with others and discuss your ideas on Slack (theturingway.slack.com) using [this invitation link](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw).
   We also have a Gitter chat room (if you prefer an open source alternative for chat) and we'd love for you to swing by to say hello at https://gitter.im/alan-turing-institute/the-turing-way. 
-  The room is also accessible with a Matrix account at #alan-turing-institute_the-turing-way:gitter.im
+  The room is also accessible with a Matrix account at #alan-turing-institute_the-turing-way:gitter.im.
 
-💌 **Get in touch**
+💌 **Get in Touch**
 : You can contact The Turing Way team by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
   You can also contact Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) or Kirstie Whitaker by emailing [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
 :::
 
-(use)=
-## Using _The Turing Way_
-
-_The Turing Way_ is dedicated to making collaborative, reusable and transparent research “too easy not to do”.
-This means bringing together people with diverse perspectives, socio-technical skills and lived experiences to build something more significant than any individual could deliver alone.
-Everything here is available for free under a [CC-BY licence](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md).
+*Everything here is available for free under a [CC-BY licence](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md).
 Please use and re-use whatever you need, for any purpose.
-We hope you find the content in the book helpful.
-
-:::{panels}
-:container: +full-width
-:column: col-lg-6 px-2 py-2
----
-:header: bg-jb-two
-
-**{ref}`Tips for users and participants<fw-ways-of-working>`** 💡
-^^^
-**Top tip for the users**: 
-❎ _The Turing Way_ is not meant to be read from start to finish.
-✅ Browse the different guides that you are interested in, or use the search box to find chapters on topics you would like to learn about first.
-
-**Top tip for the participants**: We provide multiple entry points for you to start contributing based on your interest, availability or skill requirements.
-Please {ref}`fw-ways-of-working` in _The Turing Way_.
-
-For all processes and workflows for community participation and involvements, please see the {ref}`ch`.
-
----
-:header: bg-jb-one
-
-**{ref}`Who should use _The Turing Way_?<fw-community-roles>`** 👋
-^^^
-**All stakeholders in research**, including funders, policymakers and public sectors are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
-
-Our audience includes, but are not limited to, undergrad students, PhD researchers, postdocs, software engineers, Principle Investigators, project coordinators, community managers, data stewards, librarians, data science educators and other roles in research.
-
-Please read more about {ref}`fw-community-roles` and learn how you can {ref}`fw-cite-us`.
-:::
-
-## _The Turing Way_ Community
-
-_The Turing Way_ receives support and funding from [The Alan Turing Institute](https://www.turing.ac.uk/) and hosted under the [Tools, Practices and Systems programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) led by _The Turing Way_ project lead **Kirstie Whitaker**.
-The project is coordinated by the community manager **Malvika Sharan**, who is a research associate at the Alan Turing Institute.
-
-:::{panels}
-:container: +full-width
-:column: col-lg-6 px-2 py-2
----
-:header: bg-jb-one
-
-**Community Acknowledgement** 
-^^^
-
-All contributors to this project, no matter how small or big their contributions are, is recognised as a contributor and a community member.
-Please see the {ref}`contributors-record-highlights` to learn our contributors and collaborators, and read about the {ref}`acknowledgement process<ch-acknowledgement-members>`.
-
----
-:header: bg-jb-two
-
-**Participate or Contribute** 
-^^^
-
-We value your participation in _The Turing Way_ community and want to ensure that every contributor has an enjoyable and fulfilling experience.
-Please check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) for more information on how you can contribute.
-Everyone who joins the project is expected to follow our {ref}`Code of Conduct<ch-coc>`.
-:::
+We hope you find the content in the book helpful.*
 
 ```{figure} figures/welcome.jpg
 ---

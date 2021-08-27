@@ -1,5 +1,5 @@
 (fw-impact)=
-# Impact
+# Impact Reports
 
 _The Turing Way_ is an online handbook – and global community – dedicated to fostering gold-standard reproducible research. 
 It’s a cultural movement with the potential to transform data science.

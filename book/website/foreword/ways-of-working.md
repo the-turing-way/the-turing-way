@@ -1,6 +1,5 @@
 (fw-ways-of-working)=
-# Join _The Turing Way_
-
+# Ways of Working
 *We want to meet you where you are.* 
 
 ## Overview of Resources You Can Use

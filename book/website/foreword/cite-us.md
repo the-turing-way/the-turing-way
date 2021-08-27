@@ -1,5 +1,5 @@
 (fw-cite-us)=
-# Citing _The Turing Way_
+# Cite _The Turing Way_
 
 All material in _The Turing Way_ is available under a [CC-BY 4.0 licence](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md).
 
