@@ -11,8 +11,8 @@ The foreword section of _The Turing Way_ handbook provides the following informa
 
 - {ref}`Vision and Mission<fw-vision-mission>` 
 - {ref}`Background and history<fw-background>`
-- {ref}`Navigating the handbook and guides<fw-navigate>`
-- {ref}`Community and roles<fw-community-role>`
+- {ref}`Navigating the book<fw-navigate>`
+- {ref}`Community and roles<fw-community-roles>`
 - {ref}`Ways of working<fw-ways-of-working>`
 - {ref}`Notable impacts<fw-impact>`
 - {ref}`How to cite us<fw-cite-us>`

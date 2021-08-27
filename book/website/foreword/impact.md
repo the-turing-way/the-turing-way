@@ -1,18 +1,14 @@
 (fw-impact)=
-# Impact Reports
+# Notable Impacts
 
-_The Turing Way_ is an online handbook – and global community – dedicated to fostering gold-standard reproducible research. 
-It’s a cultural movement with the potential to transform data science.
-
-_The Turing Way_ is shared through its growing, global community of like-minded expert advocates. 
-It shines a light on a broken publishing system that works against sharing and makes research less effective. It represents the Institute’s commitment to changing data science for the better.
+_The Turing Way_ is a global community of like-minded expert advocates. 
+It shines a light on broken academic system and represents a commitment to changing data science for the better.
 
 We really appreciate any references that you make to _The Turing Way_ project in your work, and we hope it is useful.
 
 ## Impact Story
 
 We provide an overview of the impact story featured by The Alan Turing Institute in 2020. 
-
 Please read the full report online written by Sean O'Neil through an interview with the project lead, Kirstie Whitaker: [https://www.turing.ac.uk/research/impact-stories/changing-culture-data-science](https://www.turing.ac.uk/research/impact-stories/changing-culture-data-science).
 
 - There is a crisis of reproducibility  in science. 
