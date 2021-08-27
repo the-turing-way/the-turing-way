@@ -2728,6 +2728,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "BeastyBlacksmith",
+      "name": "Simon Christ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18145188?v=4",
+      "profile": "https://github.com/BeastyBlacksmith",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
