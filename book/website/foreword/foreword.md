@@ -10,13 +10,13 @@ Chapters have been written, reviewed and curated by members of research institut
 
 The foreword section of _The Turing Way_ handbook provides the following information:
 
-- {ref}`Vision and Mission of _The Turing Way_<fw-vision-mission>` 
+- {ref}`Vision and Mission<fw-vision-mission>` 
 - {ref}`Background and history<fw-background>`
-- {ref}`Guidance on navigating the handbook and guides<fw-navigate>`
-- {ref}`Our community and roles you can take<fw-community>`
+- {ref}`Navigating the handbook and guides<fw-navigate>`
+- {ref}`Community and roles<fw-community-role>`
 - {ref}`Ways of working<fw-ways-of-working>`
-- {ref}`Natable impacts of the project<fw-impact>`
-- {ref}`Citing _The Turing Way_ resources<fw-cite-us>`
+- {ref}`Notable impacts<fw-impact>`
+- {ref}`How to cite us<fw-cite-us>`
 
 We are committed to creating a space where people with diverse expertise and lived experiences can share their knowledge with others, and help us use data science to improve the world.
 
