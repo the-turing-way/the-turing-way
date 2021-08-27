@@ -69,7 +69,7 @@ All stakeholders in research  are encouraged to use _The Turing Way_ to understa
 Our audience in academia, industry and public sectors includes, but is not limited to:
 * students, PhD and postdocs
 * software engineers, librarians and other data experts
-* managers, funders and policymakers
+* leaders, funders and policymakers
 * educators, managers and members in other supporting roles
 
 Please read more about {ref}`our community<fw-community-roles>` and learn how you can {ref}`cite us<fw-cite-us>`.
