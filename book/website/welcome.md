@@ -37,16 +37,17 @@ The handbook is organised into five guides with multiple chapters and subchapter
 * {ref}`er`
 * {ref}`ch`
 
-All community processes are described in {ref}`ch`.
-{ref}`Foreword<fw>` and {ref}`Afterword<aw>` sections provide background details and additional documents in the project.
+The {ref}`ch` contains chapters on community processes.
+{ref}`Foreword<fw>` and {ref}`Afterword<aw>` provide background details and additional documents in the project.
 
 ---
 :header: bg-jb-three
 
 📣 **News & Updates** 
 ^^^
+Important announcements:
 * Join the **next Book Dash, 08 - 12 November 2021**. [Read details and apply](https://tinyurl.com/ttw-bookdash-nov21) - deadline: **1 October 2021**.
-* We are launching the **Themed Community Call series**. [Share your suggestions](https://tinyurl.com/ttw-community-call)- deadline: **6 September 2021**.
+* We are launching the **Themed Community Call series**. [Share suggestions](https://tinyurl.com/ttw-community-call) - deadline: **6 September 2021**.
 * Read monthly [updates and news roundup on TinyLetter](https://tinyletter.com/TuringWay/archive).
 
 Have some updates to share? Email [theturingway@gmail.com](mailto:theturingway@gmail.com).
@@ -79,18 +80,18 @@ Please read more about {ref}`our community<fw-community-roles>` and learn how yo
 ✅ **{ref}`Tips for Participants<fw-ways-of-working>`**
 ^^^
 *_The Turing Way_ is not meant to be read from start to finish.*
-* **Users**, please browse the different guides that you are interested in, or use the search box to find chapters on topics you would like to learn about first.
-* **Contributors**, please choose suitable entry points as per your interest, availability or requirements as described in {ref}`fw-ways-of-working`.
+* **Users** should browse the different guides that they are interested in, or use the search box to find chapters on topics you would like to learn about first.
+* **Contributors** can choose suitable entry points as per their interest, availability and requirements as described in {ref}`fw-ways-of-working`.
 
 ---
 :header: bg-jb-three
 
-**📑 {ref}`Participation Guidelines<ch>`** 
+📋 **{ref}`Participation Guidelines<ch>`** 
 ^^^
 We value your participation and want to ensure that every contributor has an enjoyable and fulfilling experience.
-* Everyone who joins the project is expected to follow our {ref}`Code of Conduct<ch-coc>`.
-* All contributors to this project are recognised for their work. See our {ref}`acknowledgement process<ch-acknowledgement-members>`.
-* Please read the [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) to learn how you can contribute.
+* Everyone who joins _The Turing Way_ is expected to follow our {ref}`Code of Conduct<ch-coc>`.
+* All contributors to this project are recognised for their work - see our {ref}`acknowledgement process<ch-acknowledgement-members>`.
+* Read the [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) to learn how you can contribute.
 :::
 
 (team-community)=
@@ -98,7 +99,7 @@ We value your participation and want to ensure that every contributor has an enj
 
 _The Turing Way_ is developed, maintained and driven by our wonderful {ref}`community of contributors<contributors-record-highlights>`.
 
-_The Turing Way_ receives support and funding from [The Alan Turing Institute](https://www.turing.ac.uk/) and is hosted under the [Tools, Practices and Systems programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) led by _The Turing Way_ project lead **Kirstie Whitaker**.
+_The Turing Way_ project receives support and funding from [The Alan Turing Institute](https://www.turing.ac.uk/) and is hosted under the [Tools, Practices and Systems programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) led by the project lead **Kirstie Whitaker**.
 The project is coordinated by the community manager **Malvika Sharan**, who is a research associate at the Alan Turing Institute.
 
 Together, we are dedicated to making collaborative, reusable and transparent research “too easy not to do”.
