@@ -5,7 +5,7 @@ The Turing Way Newsletter: 01 September 2021
 
 Hello Turing Way friends!
 
-Last month was relatively quieter for *The Turing Way* community as many of you (in Europe) were on annual leave. 
+August was relatively quieter for *The Turing Way* community as many of you (in Europe) were on annual leave. 
 Next month will be busy with conferences and new collaborations, a few of which we highlight in this newsletter.
 
 - 📚 Book Dash’s call for application is open, the deadline is 1 October 2021 - [apply](https://forms.gle/817Nj3fypRDK1q1v7).
@@ -16,7 +16,7 @@ Congrats to the JupyterHub team for receiving a Chan Zuckerberg Initiative grant
 
 Find more details on these topics below these beautiful Turing Way themed cupcakes. 👇
 
-![Five cupckaes in different colors, one of them have The Turing Way logo](images/2021-sep-cupcakes.jpg)
+![Five cupckaes in different colors, one of them have The Turing Way logo](images/2021-09-cupcakes.jpg)
 
 *The Turing Way Themed Cupcakes.*
 
@@ -53,7 +53,7 @@ The first community call will be hosted in October.
 Among other ideas, we welcome suggestions and input on cross-community calls to highlight other value and mission-aligned projects.
 Please respond to the application form by **6 September 2021**: [https://tinyurl.com/ttw-community-call](https://tinyurl.com/ttw-community-call).
 
-![Illustration shows a garden that is being watered by different people in different locations - depicting how small individual actions help make a large collective impact](images/2021-sep-leadership.jpg)
+![Illustration shows a garden that is being watered by different people in different locations - depicting how small individual actions help make a large collective impact](images/2021-09-leadership.jpg)
 
 *The Turing Way Illustrations on Leadership by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807*
 
@@ -85,7 +85,7 @@ Help us create an [image gallery](https://github.com/alan-turing-institute/the-t
 We are excited to put a spotlight on [*The Turing Way* Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) planning committee members: Arielle Bennett, Batool Almarzouq, Brigitta Sipőcz, Carlos Martinez, Emma Karoune and Esther Plomp.
 They joined the planning committee early this year and successfully delivered their first Book Dash in May that featured 15 contributors, 13 online working sessions, four discussions and social events and two community share-outs.
 
-![Headshots of Arielle Bennett, Batool Almarzouq, Brigitte Sipocz, Carlos Martinez, Emma Karoune and Esther Plomp](images/2021-sep-bookdash.jpg)
+![Headshots of Arielle Bennett, Batool Almarzouq, Brigitte Sipocz, Carlos Martinez, Emma Karoune and Esther Plomp](images/2021-09-bookdash.jpg)
 
 Learn more about them:
 - Arielle is the Research Project Manager for the Tools, Practices & Systems Programme at the Alan Turing Institute. 
@@ -115,7 +115,7 @@ The team will partner with *The Turing Way* to help build a community strategy t
 Congratulations to Chris, Sarah and the entire JupyterHub community.
 You can read more about the project on the [CZI EOSS page](https://chanzuckerberg.com/eoss/proposals/jupyterhub-community-strategic-lead/).
 
-![Tweet by Chris Holdgraf sharing about the successful funding of JupyterHub application for the community lead position](images/2021-sep-christweet.jpg)
+![Tweet by Chris Holdgraf sharing about the successful funding of JupyterHub application for the community lead position](images/2021-09-christweet.jpg)
 
 *[Chris Holdgraf](https://twitter.com/choldgraf/status/1432797304914731012?s=20) Tweet about the CZI EOSS announcement.*
 
@@ -153,7 +153,7 @@ You can [register for free](https://www.opensciencefair.eu/register).
 
 ### Twitter Mentions!
 
-![Tweet collage with screenshots of two tweets](https://i.imgur.com/mZxCJJY.png)
+![Tweet collage with screenshots of two tweets](images/2021-09-tweetcollage.jpg)
 
 **1.** [The Turing Way](https://twitter.com/turingway/status/1432821729613787136?s=20) team is developing a foreword section if the handbook. Share with them what information is currently missing that you would like to learn about.
 **2.** [Susanna Asunta Sansone](https://twitter.com/SusannaASansone/status/1422239038170357762?s=20) quote Tweeting The Turing Way, where we features [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html) team as contributors in focus last month.
