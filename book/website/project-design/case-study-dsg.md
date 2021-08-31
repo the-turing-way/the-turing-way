@@ -1,6 +1,5 @@
 # The Turing Way - Project Design Chapter based on Data Study Group
 
-## Life cycle of a project overview
 
 ## Life Cycle of a Project Overview
 
