@@ -280,6 +280,16 @@ parts:
         file: project-design/code-styling/code-styling-readability
       - title: Code Styling Tools
         file: project-design/code-styling/code-styling-tools
+    - title: Case Study on Data Study Group
+      file: project-design/case-study-dsg
+      sections:
+      - title: Scoping - Initial Proposal 
+        file: project-design/case-study-dsg/case-study-dsg-scoping
+      - title: Planning - Data Preparation
+        file: project-design/case-study-dsg/case-study-dsg-planning
+      - title: Implementation - Recruiment, Ethics & Impact
+        file: project-design/case-study-dsg/case-study-dsg-implement
+        
 
   # ===== Guide for Communication ========================================
 
