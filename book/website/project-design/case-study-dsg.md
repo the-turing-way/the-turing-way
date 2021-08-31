@@ -2,7 +2,7 @@
 
 ## Life cycle of a project overview
 
-## Overview 
+## Life Cycle of a Project Overview
 
 This case study gives an overview of the various elements that project manager must consider when embarking on a new data science project, from the proposal to research phase, including: 
 
