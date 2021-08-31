@@ -1,7 +1,7 @@
 
 The Turing Way Newsletter: 01 September 2021
 
-# Monthly round-ups; Join the Book Dash Event, Community Calls and Collaboration Cafés; Community Strategy Partnership with JupyterHub; and More Updates
+# Monthly round-ups, Upcoming Events, JupyterHub Community Strategy Partnership and More Updates
 
 Hello Turing Way friends!
 
@@ -155,8 +155,8 @@ You can [register for free](https://www.opensciencefair.eu/register).
 
 ![Tweet collage with screenshots of two tweets](images/2021-09-tweetcollage.jpg)
 
-**1.** [The Turing Way](https://twitter.com/turingway/status/1432821729613787136?s=20) team is developing a foreword section if the handbook. Share with them what information is currently missing that you would like to learn about.
-**2.** [Susanna Asunta Sansone](https://twitter.com/SusannaASansone/status/1422239038170357762?s=20) quote Tweeting The Turing Way, where we features [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html) team as contributors in focus last month.
+**1.** [The Turing Way](https://twitter.com/turingway/status/1432821729613787136?s=20) team is developing a foreword section of the handbook. Share with them what information is currently missing that you would like to learn about.
+**2.** [Susanna Asunta Sansone](https://twitter.com/SusannaASansone/status/1422239038170357762?s=20) quote Tweeting The Turing Way, where we feature [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html) team as contributors in focus last month.
 
 ## Connect with us!
 
