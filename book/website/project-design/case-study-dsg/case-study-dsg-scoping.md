@@ -1,4 +1,4 @@
-# Scoping and Planning for Proposal 
+# Scoping: Initial Proposal 
 
 ## Initial Considerations 
 
