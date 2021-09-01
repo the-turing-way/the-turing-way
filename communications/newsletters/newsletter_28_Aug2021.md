@@ -5,7 +5,7 @@ The Turing Way Newsletter: 01 September 2021
 
 Hello Turing Way friends!
 
-We are bringing more opportunities for you to connect and collaborate with The Turing Way community, a few of which we highlight in this newsletter.
+We are bringing more opportunities for you to connect and collaborate with The Turing Way community, a few of which we highlight here.
 
 - 📚 Book Dash xall for applications is open, the deadline is 1 October 2021 - [apply](https://forms.gle/817Nj3fypRDK1q1v7).
 - 🗣 Share your suggestions to help shape the community call series - [details](https://tinyurl.com/ttw-community-call).
