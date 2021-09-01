@@ -20,8 +20,8 @@ parts:
     sections:
     - title: Vision and Mission
       file: foreword/vision-mission
-    - title: Background and History
-      file: foreword/background
+    - title: History
+      file: foreword/history
     - title: Navigating the Book
       file: foreword/navigate
     - title: Community and Roles
