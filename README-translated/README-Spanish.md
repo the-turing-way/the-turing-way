@@ -25,7 +25,7 @@ Nuestro objetivo es proporcionar toda la información que los investigadores y c
 
 *The Turing Way es un libro, una comunidad y una colaboración global.*
 
-Todas las partes interesadas, incluyendo estudiantes, investigadores, ingenieros de software, líderes de proyectos y equipos fundadores, están invitados a usar The Turing Way para entender sus roles y sus responsabilidades en la reproducibilidad de la ciencia de datos.
+Todas las partes interesadas, incluyendo estudiantes, investigadores/as, ingenieros/as de software, líderes de proyectos y equipos fundadores, están invitados/as a usar The Turing Way para entender sus roles y sus responsabilidades en la reproducibilidad de la ciencia de datos.
 Puede leer el libro [online](https://github.com/alan-turing-institute/the-turing-way), contribuir al proyecto tal como se describe en nuestras [guías para contribuir al proyecto](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) y reutilizar todos los materiales ([ver la Licencia](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
 
 [![Captura de pantalla del libro en línea de Turing Way. También muestra una de las ilustraciónes de Turing Way al comienzo del libro. En esta ilustración, podemos ver una carretera o camino con tiendas para las diferentes habilidades de ciencia de datos. La gente puede entrar y salir con su lista de la compra y escoger lo que necesiten.](../book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
@@ -34,7 +34,7 @@ Puede leer el libro [online](https://github.com/alan-turing-institute/the-turing
 
 The Turing Way comenzó en 2019 como una pequeña guía de ciencia de datos, y desde entonces se ha expandido hasta formar manual mucho más completo formado por múltiples guías que abarcan varios temas: Investigación Reproducible, Diseño de Proyectos, Comunicación, Colaboración e Investigación Ética.
 Cada guía ofrece capítulos sobre una variedad de temas que cubren buenas prácticas y recomendaciones.
-Estos capítulos han sido co-escritos por colaboradores que son estudiantes, investigadores, educadores, líderes comunitarios, políticos y profesionales de diversos orígenes, experiencias vividas y conocimiento del dominio.
+Estos capítulos han sido co-escritos por personas que colaboran y que son estudiantes, investigadores/as, docentes, líderes comunitarios, políticos/as y profesionales de diversos orígenes, experiencias vividas y conocimiento del dominio.
 
 ***Nuestro objetivo es hacer que la reproducibilidad sea "demasiado fácil como para no hacerla".***
 
