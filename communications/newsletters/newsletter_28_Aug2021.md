@@ -1,16 +1,15 @@
 
 The Turing Way Newsletter: 01 September 2021
 
-# Monthly round-ups, Upcoming Events, JupyterHub Community Strategy Partnership and More Updates
+# Monthly Round-ups, Upcoming Events, JupyterHub Community Strategy Partnership and More Updates
 
 Hello Turing Way friends!
 
-August was relatively quieter for *The Turing Way* community as many of you (in Europe) were on annual leave. 
-Next month will be busy with conferences and new collaborations, a few of which we highlight in this newsletter.
+We are bringing more opportunities for you to connect and collaborate with The Turing Way community, a few of which we highlight in this newsletter.
 
 - 📚 Book Dash’s call for application is open, the deadline is 1 October 2021 - [apply](https://forms.gle/817Nj3fypRDK1q1v7).
 - 🗣 We are inviting your ideas and suggestions to help share our community call series - [details](https://tinyurl.com/ttw-community-call).
-- 📢 The Tools, Practices and Systems Programme is accepting applications to join the leadership team - [information](https://www.turing.ac.uk/work-turing/tools-practices-and-systems-open-leadership-team-call-volunteering).
+- 📢 Join the Tools, Practices and Systems Programme's leadership team - [information](https://www.turing.ac.uk/work-turing/tools-practices-and-systems-open-leadership-team-call-volunteering).
 
 Congrats to the JupyterHub team for receiving a Chan Zuckerberg Initiative grant to develop their community strategy in partnership with The Turing Way! 🎊
 
@@ -24,14 +23,14 @@ Find more details on these topics below these beautiful Turing Way themed cupcak
 
 ## Community meetings
 
-### Apply to attend the Book Dash, deadline - 01 October 2021
+### Apply to Attend the Book Dash, Deadline - 01 October 2021
 The next Book Dash collaboration event will take place from 08 to 12 November 2021 - [please apply via this Google form](https://forms.gle/817Nj3fypRDK1q1v7).
 Following the success of the previous Book Dash, we will host 13 coworking slots that you can flexibly choose from based on your time zone and availability (each 2.5 hours long).
 There will be networking opportunities, and accessibility funding will be available for each participant.
 Read the [details online](https://the-turing-way.netlify.app/community-handbook/bookdash.html#who-should-apply-to-join-the-book-dash).
 
 ### Collaboration Café and Coworking Calls
-**Collaboration Cafes** this month are being hosted on 1 September (Today!) and 15 September 2021.
+**Collaboration Cafés** this month are being hosted on 1 September (Today!) and 15 September 2021.
 These calls are places for co-working, discussion, onboarding and collaboration.
 As usual, these calls will take place from 15:00 - 17:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2021-09-01/15:00)) and you can sign up on this shared HackMD: [hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
 
@@ -44,9 +43,9 @@ Subscribe to [The Turing Way calendar](https://calendar.google.com/calendar?cid=
 
 <hr/>
 
-## News from the community and Calls for Applications
+## News from the Community and Calls for Applications
 
-### Themed Community Calls - Last week to share your response!
+### Themed Community Calls - Share Your Response!
 
 *The Turing Way* Themed Community Calls will help us involve members and communities beyond contribution via GitHub. 
 The first community call will be hosted in October.
@@ -57,21 +56,21 @@ Please respond to the application form by **6 September 2021**: [https://tinyurl
 
 *The Turing Way Illustrations on Leadership by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807*
 
-### Join Tools, Practices and Systems (TPS) leadership team
+### Join Tools, Practices and Systems (TPS) Leadership
 
 *The Turing Way* and [TPS research programme ](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems)lead Kirstie Whitaker is inviting applications to join the leadership team (volunteer-based roles).
 This is an opportunity to help shape the future of open infrastructure in data science, building on the success of programme projects such as *The Turing Way*. 
 Please [read more details here and apply](https://www.turing.ac.uk/work-turing/tools-practices-and-systems-open-leadership-team-call-volunteering) before the **deadline, 12 September 2021**. 
 Please contact [Arielle Bennett](mailto:abennett@turing.ac.uk) for further questions.
 
-### Suggest a panellist for the SeptembRSE Diversity and Inclusion panel
+### Suggest a Panellist for the SeptembRSE Diversity and Inclusion Panel
 
 Malvika will be hosting a [SeptembRSE](https://septembrse.github.io/#/event/L1001) panel on **Missing narratives in discussions around diversity and inclusion in research**. 
 The panel will take place on 28 September 2021 and outputs from the events will be shared openly in *The Turing Way*.
 Thanks to Rowland Mosbergen for joining the organising team and adding really valuable elements to this panel proposal, and Jeremy Cohen for supporting the logistics. 
 Please suggest a panellist by responding to this form before **8 September 2021**: [online Google form](https://forms.gle/A5u3wNx9JzcPfDsv8).
 
-### Share your creative solutions
+### Share Creative Ideas
 
 In [last month's newsletter](https://tinyletter.com/TuringWay/letters/new-job-opportunities-community-call-plans-chapters-and-other-updates), we invited contributions to several open issues on *The Turing Way* repository, several of which are still looking for creative solutions.
 Help us create an [image gallery](https://github.com/alan-turing-institute/the-turing-way/issues/2046) in Jupyter Book, document short [guidance on Alt Text](https://github.com/alan-turing-institute/the-turing-way/issues/2043), share your [user experience and wishes](https://github.com/alan-turing-institute/the-turing-way/issues/2034) and help us [update the translated versions of the README page](https://github.com/alan-turing-institute/the-turing-way/issues/2051).
@@ -80,7 +79,7 @@ Help us create an [image gallery](https://github.com/alan-turing-institute/the-t
 
 ## Acknowledgements and Celebrations
 
-### Contributors in focus: Meet the Book Dash planning committee!
+### Contributors in focus: Meet the Book Dash Planning Committee!
 
 We are excited to put a spotlight on [*The Turing Way* Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) planning committee members: Arielle Bennett, Batool Almarzouq, Brigitta Sipőcz, Carlos Martinez, Emma Karoune and Esther Plomp.
 They joined the planning committee early this year and successfully delivered their first Book Dash in May that featured 15 contributors, 13 online working sessions, four discussions and social events and two community share-outs.
@@ -155,8 +154,8 @@ You can [register for free](https://www.opensciencefair.eu/register).
 
 ![Tweet collage with screenshots of two tweets](images/2021-09-tweetcollage.jpg)
 
-**1.** [The Turing Way](https://twitter.com/turingway/status/1432821729613787136?s=20) team is developing a foreword section of the handbook. Share with them what information is currently missing that you would like to learn about.
-**2.** [Susanna Asunta Sansone](https://twitter.com/SusannaASansone/status/1422239038170357762?s=20) quote Tweeting The Turing Way, where we feature [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html) team as contributors in focus last month.
+***1.** [The Turing Way](https://twitter.com/turingway/status/1432821729613787136?s=20) team is developing a foreword section of the handbook. Share with them what information is currently missing that you would like to learn about.
+**2.** [Susanna Asunta Sansone](https://twitter.com/SusannaASansone/status/1422239038170357762?s=20) quote Tweeting The Turing Way, where we feature [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html) team as contributors in focus last month.*
 
 ## Connect with us!
 
