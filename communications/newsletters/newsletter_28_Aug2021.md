@@ -7,7 +7,7 @@ Hello Turing Way friends!
 
 We are bringing more opportunities for you to connect and collaborate with The Turing Way community, a few of which we highlight in this newsletter.
 
-- 📚 Book Dash applications is open, the deadline is 1 October 2021 - [apply](https://forms.gle/817Nj3fypRDK1q1v7).
+- 📚 Book Dash xall for applications is open, the deadline is 1 October 2021 - [apply](https://forms.gle/817Nj3fypRDK1q1v7).
 - 🗣 Share your suggestions to help shape the community call series - [details](https://tinyurl.com/ttw-community-call).
 - 📢 Join the Tools, Practices and Systems Programme's leadership team - [information](https://www.turing.ac.uk/work-turing/tools-practices-and-systems-open-leadership-team-call-volunteering).
 
