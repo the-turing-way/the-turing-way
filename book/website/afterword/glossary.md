@@ -162,7 +162,7 @@ FAIR
   Findable, Accessible, Interoperable and Reusable.
   
 First author
- The most prominent position in academic authorship. It conveys this persons position as the researcher than has made the greatest contribution to the research. 
+ The most prominent position in academic authorship. It conveys this person's position as the researcher who has made the greatest contribution to the research. 
   
 ```
 ---
