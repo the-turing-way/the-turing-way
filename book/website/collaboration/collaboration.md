@@ -29,8 +29,8 @@ In this guide we prompt you to think of a few different questions before plannin
 * **How**: Is this project developed following open source or [inner source](https://en.wikipedia.org/wiki/Inner_source) practices?
 * **Who**: Who are your community or team? Are you open to new members joining or would you prefer to work with a predefined group?
 * **Why**: What is the purpose of this specific task? Why are these people coming together to collaborate as part of the broader project plan?
-* **Where**: Are your team connecting remotely, in person, or a hybrid combination of both options?
 * **When**: Is the specific interaction you're thinking of best supported by synchronous or asynchronous collaboration?
+* **Where**: Are your team connecting remotely, in person, or a hybrid combination of both options?
 
 Once you have decided on the "how", "who", "why", "when" and "where" you can jump into our technical support chapters on:
 
