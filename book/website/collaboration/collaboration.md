@@ -32,7 +32,7 @@ In this guide we prompt you to think of a few different questions before plannin
 * **Where**: Are your team connecting remotely, in person, or a hybrid combination of both options?
 * **When**: Is the specific interaction you're thinking of best supported by synchronous or asynchronous collaboration?
 
-Once you have decided on the "how", "who", "why", "where" and "when" you can jump into our technical support chapters on:
+Once you have decided on the "how", "who", "why", "when" and "where" you can jump into our technical support chapters on:
 
 * Using GitHub to allow teams to work transparently with each other without needing to be in the same location at the same time.
 * Team and community building.
