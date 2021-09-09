@@ -37,5 +37,5 @@ There are also ghost contributors that are contributors to a project but are not
 It is common that those on temporary or short-term contracts, such as postdoctoral researchers, may have moved on to another project before publications are finalised. 
 This can also include voluntary work such as University students working on a project during their studies. 
 
-These contributions may therefore be missed off the authorship of any publications even though they have contributed to the research in some way. Therefore, without significant effort on the part of the article writers or whoever is in over charge of the article, and also without a more inclusive authorship policy, these researchers will not get a chance for their contributions to be recognised. 
+These contributions may therefore be missed off the authorship of any publications even though they have contributed to the research in some way. Therefore, without significant effort on the part of the article writers or whoever is in overall charge of the article, and also without a more inclusive authorship policy, these researchers will not get a chance for their contributions to be recognised. 
 
