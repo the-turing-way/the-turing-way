@@ -330,7 +330,7 @@ Open Source Software
   Documenting research code and routines, and making them freely accessible and available.
 
 ORCID
-  Open Researchers and Contibutor iD. It is a long lasting unique identifier for you as a researcher. A peristent digital identifier for researchers that can be used on publications to ensure fair credit is given for all the researchers works. 
+  Open Researchers and Contributor iD. It is a long lasting unique identifier for you as a researcher. A persistent digital identifier for researchers' that can be used on publications to ensure fair credit is given for all the researchers works. 
 
 Owner
   The person/s who has administrative ownership over the organization or repository (not always the same as the original author).
