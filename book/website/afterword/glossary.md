@@ -185,7 +185,7 @@ Ghost author
  It is a person who writes an academic article without having carried out the research. It could be a professional writer. They would often not qualify as an author under the ICMJE criteria for authorship.
  
 Gift author
- People who are listed as authors but who did not make significant contribution to the research. This is also known as a guest author.
+ People who are listed as authors but who did not make significant contributions to the research. This is also known as a guest author.
  
 Group authorship
  Some journals permit the use of group names but many require contributors to be listed and/or the writing group to be named. This is the same as shared authorship.
