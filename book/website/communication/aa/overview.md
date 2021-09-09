@@ -2,7 +2,7 @@
 # Overview of Academic Authorship
 
 A great deal of value is placed on academic authorship because a peer-reviewed journal article is still seen as the most valued output from a research project. 
-The number of articles an academic researcher is named on, and particularly whether the person is named as first author, has significant impact on their career.  
+The number of articles an academic researcher is named on, and particularly whether the person is named as the first author, has a significant impact on their career.  
 
 But who should be an author on an article? And can we move away from the idea of first author taking the most credit?
 
