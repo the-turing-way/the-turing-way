@@ -1,4 +1,4 @@
-(rr-vcs-merge)=
+(rr-vcs-git-merge)=
 # Merging Branches in Git
 
 (rr-vcs-merge-command)=
@@ -128,5 +128,5 @@ git mergetool
 
 Fundamentally, the best way to deal with merge conflicts is, as far as it is possible, to try to avoid them in the first place.
 You can improve your odds on this by keeping branches clean and focused on a single issue and involving as few files as possible.
-Before merging, make sure you know what is in both branches. 
+Before merging, make sure you know what is in both branches.
 If you are not the only one that has worked on the branches, then keep the lines of communication open, so you are all aware of what the others are doing.

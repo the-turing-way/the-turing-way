@@ -12,9 +12,11 @@ name: collaboration
 width: 500px
 alt: An iceberg's tip is labelled with the project related technical terms, and a few divers are exploring a huge part of iceberg underwater which are labelled with community oriented collaborative terms
 ---
+
 _The Turing Way_ project illustration by Scriberia.
 Used under a CC-BY licence.
 DOI: [10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807).
+
 ```
 
 Working in diverse groups requires careful thought and alignment around the shared goals of the project team or community.

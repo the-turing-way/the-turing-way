@@ -1,4 +1,4 @@
-(ch-template-newsltter-draft)=
+(ch-template-newsletter-draft)=
 # Template for drafting _The Turing Way_ Newsletters
 
 ```

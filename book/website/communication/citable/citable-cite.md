@@ -1,4 +1,4 @@
-(rr-credit-cite)=
+(cm-citable-cite)=
 # Citing Research Objects
 
 You should cite research objects directly in the paper in places where it is relevant.
@@ -21,7 +21,7 @@ For instance, the MLA style was developed by Modern Language Association (origin
 See [Scribbr Citation Styles Guide](https://www.scribbr.com/citing-sources/citation-styles/).
 See also [FORCE11 resource](https://www.force11.org/node/4771).
 
-(rr-credit-cite-data)=
+(cm-citable-cite-data)=
 ## Citing Data
 
 When sharing a dataset, use dedicated DOIs and add a **data availability statement** at the end of the paper or in online repository details (similar to the acknowledgement section).
@@ -45,7 +45,11 @@ You can find examples of these statements in the publishers' (research data) aut
 -  “The data that support the findings of this study are available upon request.
 Access conditions and procedures can be found at [URL to restricted access repository such as [EASY](https://easy.dans.knaw.nl/ui/home).]”
 
-(rr-credit-cite-software)=
+**More Data Availability Statement examples:**
+
+You can find more examples on the [Manchester's Data Access Statements page](https://www.library.manchester.ac.uk/using-the-library/staff/research/research-data-management/sharing/data-access-statements/), the [Cambridge Data Availability Statement examples](https://www.cambridge.org/core/services/authors/open-data/data-availability-statements), the [AMS Data Availability Statement examples](https://www.ametsoc.org/index.cfm/ams/publications/author-information/formatting-and-manuscript-components/data-availability-statement-examples/), or [Nature's Tips for writing a dazzling Data Availability Statement](https://researchdata.springernature.com/posts/tips-for-writing-a-dazzling-das-data-availability-statement).
+
+(cm-citable-cite-software)=
 ## Citing Software
 
 A software citation has a lot of the same elements as a data citation, described above, and are described in more detail in the [Software Citation Principles](https://www.force11.org/software-citation-principles).

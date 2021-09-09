@@ -4,7 +4,7 @@
 (rr-rdm-resources-learn)=
 ## What to Learn Next
 
-If you have not read the chapters on {ref}`rr-open` and {ref}`rr-credit` yet, you might want to read it now for more context on how Research Data Management supports Open Research and how these practises can result in getting attribution for your work.
+If you have not read the chapters on {ref}`rr-open` and {ref}`cm-citable` yet, you might want to read it now for more context on how Research Data Management supports Open Research and how these practises can result in getting attribution for your work.
 
 (rr-rdm-resources-reading)=
 ## Further Reading

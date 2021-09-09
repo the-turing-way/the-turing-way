@@ -14,19 +14,19 @@
 ## Summary
 
 A research compendium is a collection of all digital parts of a research project including data, code, texts (protocols, reports, questionnaires, meta data).
-The collection is created in such a way that reproducing all results is straightforward {cite}`Nuest2017compendia,Gentleman2007statistical`.
+The collection is created in such a way that reproducing all results is straightforward {cite:ps}`Nuest2017compendia,Gentleman2007statistical`.
 
 This chapter has many prerequisites as it takes all digital components of a project together into a reproducible research package.
 That said: a research compendium can be constructed with minimal technical knowledge.
 The main purpose is that all elements of a project are published together, so a basic folder structure combining all components can be sufficient.
 
-```{figure} ../figures/ResearchCompendium.jpg
+```{figure} ../figures/research-compendium.jpg
 ---
 height: 500px
-name: ResearchCompendium
-alt: An illustration showing a person chruning a big machine that takes scientific information from multiple papers and gives one output of readable file.
+name: research-compendium
+alt: An illustration showing a person churning a big machine that takes scientific information from multiple papers and gives one output of readable file.
 ---
-_The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 ## Motivation
@@ -45,7 +45,7 @@ Executable research compendia aim to make the computational part of a scientific
 
 ### Structure of a Research Compendium
 
-Three principles should be kept in mind when constructing a research compendium {cite}`Marwick2018compendia`.
+Three principles should be kept in mind when constructing a research compendium {cite:ps}`Marwick2018compendia`.
 
 - Files should be organized in a conventional folder structure;
 - Data, methods, and output should be clearly separated;

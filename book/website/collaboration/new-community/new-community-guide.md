@@ -7,7 +7,7 @@ However, if you want to develop this project - you become responsible for making
 
 As a 'project lead', you want to set up a welcoming and inclusive environment and create the first set of visions and goals for your collaborators.
 You cannot assume that everyone you collaborate with knows what is expected of them when they start to work with others on your project.
-Therefore, it’s important to set the right expectations from the beginning for your community, even though you might not have planned on having one (see more details: {cite}`Sharan2020Apr`).
+Therefore, it’s important to set the right expectations from the beginning for your community, even though you might not have planned on having one (see more details: {cite:ps}`Sharan2020Apr`).
 
 (cl-new-community-guide-checklist)=
 ## A Checklist for Planning Collaboration in Your Project
@@ -97,4 +97,4 @@ While reading this chapter, please be aware that you may need to make adjustment
 
 Two more points are crucial for ensuring the effectiveness of a collaborative project: addressing technical issues and valuing the importance of diversity in team building.
 
-We have explained them in the next subchapters on {ref}`Addressing Technical Issues<cm-new-community-techissue>` and {ref}`Valuing Diversity and Differences<cm-new-community-differences>`.
+We have explained them in the next subchapters on {ref}`Addressing Technical Issues<cm-new-community-techissue>` and {ref}`Valuing Diversity and Differences<cl-new-community-differences>`.

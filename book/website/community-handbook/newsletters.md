@@ -1,3 +1,4 @@
+(ch-newsletters)=
 # _The Turing Way_ Monthly Newsletters
 
 _The Turing Way_ team releases newsletters every month to share the latest updates with the community and beyond.
@@ -8,10 +9,10 @@ While we send our newsletters by email to our subscribed members, we simultaneou
 ```{figure} ../figures/scriberia-newsletter.png
 ---
 height: 400px
-name: newsletter
+name: scriberia-newsletter
 alt: two people collecting information and pushing it through a device that produces a newsletter
 ---
-A newsletter illustration. Adapted from the _The Turing Way_ project illustration by Scriberia. Zenodo. http://doi.org/10.5281/zenodo.3695300
+A newsletter illustration. Adapted from _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 The main motivations to draft these newsletters are the following:
