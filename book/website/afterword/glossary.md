@@ -191,7 +191,7 @@ Group authorship
  Some journals permit the use of group names but many require contributors to be listed and/or the writing group to be named. This is the same as shared authorship.
  
 Guarantor
- As well as fullfilling criteria for being a named author, some journals require one or more authors that take responsibility for the integrity of the work as a whole from inception to published article.
+ As well as fulfilling criteria for being a named author, some journals require one or more authors that take responsibility for the integrity of the work as a whole from inception to the published article.
 ```
 ---
 ## H
