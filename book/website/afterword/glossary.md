@@ -458,7 +458,7 @@ Shared authorship
  Some journals permit the use of group names but many require contributors to be listed and/or the writing group to be named. This is the same as group authorship.
 
 Smoke Testing
-  Very brief initial checks that ensures the basic requirements required to run the project hold. If these fail there is no point proceeding to additional levels of testing until they are fixed.
+  Very brief initial checks that ensure the basic requirements required to run the project hold. If these fail there is no point proceeding to additional levels of testing until they are fixed.
 
 Staged
   Staging the changes that will be included in the next git commit.
