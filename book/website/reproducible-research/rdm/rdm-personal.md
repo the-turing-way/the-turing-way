@@ -22,6 +22,7 @@ There are various policies in place in different countries to protect the rights
 For example, in the European Union the **GDPR** (General Data Protection Regulation) applies to the processing of personal data and may require you to carry out a Data Protection Impact Assessment ([DPIA](https://youtu.be/YRiCb3unz3g?t=988)).
 Processing means doing anything with a person's information, including collection, storage, analysis, sharing, deletion and destruction. 
 To ensure that you are up to date with the requirements of managing sensitive data, please review the national/institutional policies that apply to your research. 
+See {cite}`Smith2015participantdata` for recommended practices for sharing clinical trial data.
 
 
 (rr-rdm-informed-consent)=
