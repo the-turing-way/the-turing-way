@@ -108,6 +108,7 @@ Contact you research data, privacy or IT support team for guidance.
     * File level / Exchange information:
       * Simple method: use 7zip, and pack with a password
       * More complicated to setup: use PGP tooling (can also be used to securely send email)
+    * See the [Ghent University Encryption for Researchers manual](https://osf.io/nx8km/) for more details and step-by-step guides
 
 **5. Access permissions**
 * Management of shared folder permissions.
