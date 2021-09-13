@@ -3,7 +3,7 @@
 # this will publish the contributors file online in The Turing Way book
 
 all_contributors="./README.md" # Path to the main README file of The Turing Way
-contributors_highlight="./contributors.md"
+contributor_highlights="./contributors.md"
 collaborating_projects="./collaborating_projects.md"
 contributors_record="./book/website/afterword/contributors-record.md"
 

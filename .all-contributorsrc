@@ -815,7 +815,8 @@
       "profile": "https://federiconanni.com/",
       "contributions": [
         "bug",
-        "content"
+        "content",
+        "review"
       ]
     },
     {
@@ -2690,6 +2691,51 @@
       "profile": "https://github.com/ZoeIngr",
       "contributions": [
         "content"
+      ]
+    },
+    {
+      "login": "mcollardanuy",
+      "name": "Mariona",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46483603?v=4",
+      "profile": "https://www.turing.ac.uk/people/researchers/mariona-coll-ardanuy",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Sergih28",
+      "name": "Sergi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16263046?v=4",
+      "profile": "https://github.com/Sergih28",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "perluna",
+      "name": "Luna",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47083632?v=4",
+      "profile": "https://github.com/perluna",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "acocac",
+      "name": "Alejandro ©",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13321552?v=4",
+      "profile": "https://github.com/acocac",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "BeastyBlacksmith",
+      "name": "Simon Christ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18145188?v=4",
+      "profile": "https://github.com/BeastyBlacksmith",
+      "contributions": [
+        "bug"
       ]
     }
   ],
