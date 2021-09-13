@@ -137,11 +137,15 @@ Further, data and outputs containing small cell counts may be potentially disclo
 If you plan to share or publish your data you must ensure that your data are appropriate and safe to share. 
 For example, you should consider whether the data can be adequately anonymised, and whether anonymised data will remain useful (see also {ref}`Barriers to data sharing<rr-rdm-sharing>`Open Research Chapter).
 After applying methods to de-identify and anonymise sensitive data, there may still be a risk of re-identification (see {cite}`Meyer2018personaldata`). 
+
 An additional safety measure, or alternative to anonimisation, is applying access controls to ensure the data are shared appropriately and securely. 
 This may involve finding a data repository which can provide suitable access controls (see [here](https://osf.io/tvyxz/wiki/8.%20Approved%20Protected%20Access%20Repositories/) for a list of protected Access Repositories).
 These repositories can provide access to the metadata of the project, which allows others to find and {ref}`cite the data<cm-citable-cite>`. 
-Restricted access also provides potential re-users with the information they need to access the data, making the data {ref}`FAIR <rr-rdm-fair>`. 
-
+Restricted/conditional access also provides potential re-users with the information they need to access the data, making the data {ref}`FAIR <rr-rdm-fair>`. 
+For example, conditions to access the data could require the potential data re-user to: 
+  * Register and/or provide contact details to ensure reusers are genuine and aware of their responsibilities
+  * Provide information about how they use the data
+  * Agree to conditions (data security, privacy, restrictions included in consent forms)
 
 **Resources**
 * [Protecting sensitive data course](https://mantra.edina.ac.uk/protectionrightsandaccess) by [MANTRA](https://mantra.edina.ac.uk)
@@ -156,3 +160,4 @@ See [here](https://www.aalto.fi/en/services/rdm-training) for the full course.
 * [Presentation](https://vimeo.com/362161972) and [article](https://www.smashingmagazine.com/2017/07/privacy-by-design-framework/ ) on **privacy by design**.
 * [Presentation](https://www.youtube.com/watch?v=2WebuDlzEIw&list=PLG87Imnep1Sln3F69_kBROUrIbT5iderf&index=2) on Ethical and legal issues in data sharing by Hina Zahid.
 * [Slides](https://osf.io/5xhya/) by Hanne Elsen on Privacy and the GDPR in the Research Life Cycle. 
+* [Workshop materials](https://osf.io/em3da/) on data de-identification procedures for data sharing.
