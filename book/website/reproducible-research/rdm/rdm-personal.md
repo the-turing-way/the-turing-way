@@ -1,6 +1,7 @@
 (rr-rdm-personal)=
 
 ## Personal data management
+This section provides a general overview of things to consider when working with personal data. For a more practical overview on tools and practises that facilitate reproducibility, please see the {ref}`Sensitive Data Projects<pd-sdp>` chapter.
 
 ### Personal data
 
