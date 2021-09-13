@@ -20,7 +20,8 @@ Particularly sensitive data include data relating to a person's:
 
 ### Personal data policies
 There are various policies in place in different countries to protect the rights of individuals over their personal data. 
-For example, in the European Union the **GDPR** (General Data Protection Regulation) applies to the processing of personal data and may require you to carry out a Data Protection Impact Assessment ([DPIA](https://youtu.be/YRiCb3unz3g?t=988)).
+For example, in Australia personal data is regulated under the [Australian Privacy Act](https://www.oaic.gov.au/privacy/the-privacy-act/).
+In the European Union the **GDPR** (General Data Protection Regulation) applies to the processing of personal data and may require you to carry out a Data Protection Impact Assessment ([DPIA](https://youtu.be/YRiCb3unz3g?t=988)).
 Processing means doing anything with a person's information, including collection, storage, analysis, sharing, deletion and destruction. 
 To ensure that you are up to date with the requirements of managing sensitive data, please review the national/institutional policies that apply to your research. 
 See {cite}`Smith2015participantdata` for recommended practices for sharing clinical trial data.
@@ -136,8 +137,10 @@ Further, data and outputs containing small cell counts may be potentially disclo
 If you plan to share or publish your data you must ensure that your data are appropriate and safe to share. 
 For example, you should consider whether the data can be adequately anonymised, and whether anonymised data will remain useful (see also {ref}`Barriers to data sharing<rr-rdm-sharing>`Open Research Chapter).
 After applying methods to de-identify and anonymise sensitive data, there may still be a risk of re-identification (see {cite}`Meyer2018personaldata`). 
-Consider applying access controls to ensure the data are shared appropriately and securely. 
+An additional safety measure, or alternative to anonimisation, is applying access controls to ensure the data are shared appropriately and securely. 
 This may involve finding a data repository which can provide suitable access controls (see [here](https://osf.io/tvyxz/wiki/8.%20Approved%20Protected%20Access%20Repositories/) for a list of protected Access Repositories).
+These repositories can provide access to the metadata of the project, which allows others to find and {ref}`cite the data<cm-citable-cite>`. 
+Restricted access also provides potential re-users with the information they need to access the data, making the data {ref}`FAIR <rr-rdm-fair>`. 
 
 
 **Resources**
