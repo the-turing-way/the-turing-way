@@ -11,7 +11,7 @@ Single author publications are more common in Humanities disciplines than in Sci
 Research, and the writing aspect of this, is more often seen as a solo endeavour due to the nature of the subjects involved and therefore single author papers and books are highly valued. 
 However, a recent [white paper by Taylor & Francis](https://authorservices.taylorandfrancis.com/co-authorship-in-the-humanities-and-social-sciences/) concerning co-authorship in the humanities and social sciences found that co-authorship seems to be increasing with 74% of respondents to a recent survey reporting their typical number of authors per paper being two or more.
 
-This tradition though does mean that co-authorship is less well discussed and there seems to be no concensus on how it should be approached. 
+This tradition though does mean that co-authorship is less well discussed and there seems to be no consensus on how it should be approached. 
 The Taylor & Francis white paper also states that issues have arisen concerning the over-crediting of senior or supervisory researchers and only 18% of respondents reporting having received training in determining academic authorship.
 
 (communication-aa-traditions-med)=
