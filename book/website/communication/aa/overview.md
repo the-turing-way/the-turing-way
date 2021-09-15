@@ -29,7 +29,7 @@ It also raises ethical issues concerning who takes credit for the work on a proj
 Being the first author impacts that person's reputation and visibility due to a perceived view that this person makes the greatest contribution, citation indices that in the past only counted citations for the first-named author, and citations within academic articles being shortened to the first author's name with *et al* (Ref: Frandsen & Nicolaisen 2010). 
 The number of citations that papers have and what journals they are published in are often important criteria for obtaining new jobs, getting promoted and winning funding applications.
 
-The practice of first author taking prominence over others also has social implications. 
+The practice of the first author taking prominence over others also has social implications. 
 For example, it might be a difficult decision for a researcher to change their name, due to marriage or divorce, as this action could have an negative impact on their research career. 
 
 Links to discussions about the impact of changing names in academia: 
