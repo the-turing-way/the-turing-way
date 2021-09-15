@@ -58,6 +58,6 @@ In social sciences, the first author indicates who should get the most credit fo
 However, in many disciplines the last author or the last two authors have significance and are senior members of the research team. 
 These team members are likely to be in supervisory roles in the project. This could be as PhD supervisors, Principal Investigators or Co-investigators. 
 
-The authors in the middle of the list, between the first author and last author/s, can be in order of most contributions to least, or as an alphabetical list. 
+The authors in the middle of the list, between the first author and last author/s, can be in the order of most contributions to least, or as an alphabetical list. 
 
 Some disciplines, such as mathematics (see this [Wikipedia page on academic authorship](https://en.wikipedia.org/wiki/Academic_authorship) for more information), have always used alphabetical lists with no indication in the order given to the amount of contributions made. 
