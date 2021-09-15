@@ -30,7 +30,7 @@ Being the first author impacts that person's reputation and visibility due to a 
 The number of citations that papers have and what journals they are published in are often important criteria for obtaining new jobs, getting promoted and winning funding applications.
 
 The practice of the first author taking prominence over others also has social implications. 
-For example, it might be a difficult decision for a researcher to change their name, due to marriage or divorce, as this action could have an negative impact on their research career. 
+For example, it might be a difficult decision for a researcher to change their name, due to marriage or divorce, as this action could have a negative impact on their research career. 
 
 Links to discussions about the impact of changing names in academia: 
 * Article from The Conversation - [How three scientists navigated the personal and career implications of a name change with marriage](https://theconversation.com/how-three-scientists-navigated-the-personal-and-career-implications-of-a-name-change-with-marriage-114918)
