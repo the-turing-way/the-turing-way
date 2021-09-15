@@ -22,7 +22,7 @@ Team members that are not interested in a purely academic career but still are a
 There may be unethical practices that exist in your discipline, or even in your institution, but this does not mean that you have to follow them. 
 You can implement a more ethical and equitable authorship approach in your own research.
 
-* Find out about your own institutions authorship policy or make one yourself.
+* Find out about your own institution's authorship policy or make one yourself.
 * If you know what journal you are going to target for your publications, then find out about their authorship policy. 
 * Read about ethical authorship such as on the [Committee on Publication Ethics (COPE) website](https://publicationethics.org/).
 
