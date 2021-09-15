@@ -53,7 +53,7 @@ However, in general the first author is seen as the person that has given the ma
 They are also often the corresponding author that deals with any queries regarding the article. 
 Although, in some academic circles being the corresponding author is a measure of academic status and does not have to be the same person as the first author. 
 
-In social sciences, the first author indicates who should get most credit for the research and the authors are then listed in order of descending contributions, all the way to the last author who has made the least contribution. See the LSE Impact of social sciences blog - [First among equals](https://blogs.lse.ac.uk/impactofsocialsciences/2015/06/18/first-among-equals-guidelines-authorship-credit/) for a wider discussion on first authors. 
+In social sciences, the first author indicates who should get the most credit for the research and the authors are then listed in order of descending contributions, all the way to the last author who has made the least contribution. See the LSE Impact of social sciences blog - [First among equals](https://blogs.lse.ac.uk/impactofsocialsciences/2015/06/18/first-among-equals-guidelines-authorship-credit/) for a wider discussion on first authors. 
 
 However, in many disciplines the last author or the last two authors have significance and are senior members of the research team. 
 These team members are likely to be in supervisory roles in the project. This could be as PhD supervisors, Principal Investigators or Co-investigators. 
