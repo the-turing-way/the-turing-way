@@ -488,7 +488,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * Role: Book Dash 2021 participant
 * GitHub id: [marianaiv](http://github.com/marianaiv)
 
-* Short bio:  
+* Short bio:
 > I'm an undergrad physics student at the Central University of Venezuela. Working on my thesis and trying to do it reproducible.
 
 * Personal highlights:
@@ -694,20 +694,20 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Sarah Gibson
 
-* Role: Core contributor, Infrastructure Maintainer (2019 - present), OLS-2 for Turing mentor, Book Dash 2020 helper
+* Role: Core contributor, Infrastructure Maintainer (2019 - present), OLS-2 and OLS-3 for Turing mentor, Book Dash 2020 helper
 * GitHub id: [sgibson91](http://github.com/sgibson91)
 * ORCID: [0000-0003-0356-2765](https://orcid.org/0000-0003-0356-2765)
 * Short bio:
-> I am a Research Software Engineer at The Alan Turing Institute where I implement software best practices to translate academic research into real world solutions through the Turing's collaborative network.
-> I am also an operator and maintainer for the Binder project and runs a BinderHub cluster at the Turing which receives traffic from mybinder.org.
-> In 2020, I am also honoured to be a Software Sustainability Institute Fellow and to continue advocating for reproducible and sustainable research through software.
+> Sarah Gibson is an Open Source Infrastructure Engineer at 2i2c, an open source contributor and advocate.
+> She holds more than two years of experience as a Research Engineer at a national institute for data science and artificial intelligence, as well as holding a core contributor role in the open source projects Binder, JupyterHub, and the Turing Way.
+> She is a member of the mybinder.org operating team and maintains infrastructure supporting a global community in sharing reproducible computational environments.
 
 * Personal highlights:
-> Becoming a core member of _The Turing Way_ and Project Binder, and helping people all around the world launch and share their analyses in the cloud.
+> Being invited to join the mybinder.org operating team after working with them through _The Turing Way_ and helping people get up-and-running on mybinder.org through _From Zero to Binder_ workshops.
 
 * More information:
-> I'm passionate about applying the skills I learnt during my PhD somewhere closer to home and learning new skills along the way.
-> The Turing Way is an ideal opportunity for me to learn better research practices and widen my horizons from what academia has taught me.
+> Sarah is passionate about working with domain experts to leverage cloud computing in order to accelerate cutting-edge, data-intensive research and disseminating the results in an open, reproducible and reusable manner.
+> She also holds a Fellowship with the Software Sustainability Institute and advocates for best software practices in research.
 
 
 ### Sophia Batchelor
@@ -1284,7 +1284,7 @@ This project includes links to (1) general tutorials for the complete beginner, 
 * ORCID: [0000-0001-8173-3879](https://orcid.org/0000-0001-8173-3879)
 * Short bio:
 > Isabel is a PhD candidate at University of Leeds working on dissecting the function and molecular evolution of long non-coding RNAs Supervised by Dr Julie Aspden, Dr Mary J O’Connell and Dr David Westhead.
-> She has been interested in molecular evolution and the applications of bioinformatic techniques throughout her degree, and developed these interests while undertaking research projects in the Aspden and O’Connell labs.  
+> She has been interested in molecular evolution and the applications of bioinformatic techniques throughout her degree, and developed these interests while undertaking research projects in the Aspden and O’Connell labs.
 > She also has experience of scientific research from a funders perspective, gained during her year in industry and numerous summer internships with Yorkshire Cancer Research.
 
 * Personal highlights:
