@@ -77,6 +77,14 @@ In this section, there are some related terms, which will be outlined here for c
 (binder-faqs)=
 ## FAQs
 
+### How do I save my changes back to my repository?
+
+### How can I collaborate with my peers on mybinder.org?
+
+### How is mybinder.org different to Google Colab?
+
+### Can I connect to `INSERT DATA PROVIDER HERE`?
+
 (binder-segue)=
 ## How to create a Binder-ready project
 
