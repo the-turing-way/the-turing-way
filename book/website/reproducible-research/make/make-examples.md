@@ -398,7 +398,7 @@ more detail. The complete file is:
 
 ALL_CSV = $(wildcard data/*.csv)
 INPUT_CSV = $(wildcard data/input_file_*.csv)
-DATA = $(filter-out $(INPUT_CSV),$(ALL_CSV))
+DATA = $(filter $(INPUT_CSV),$(ALL_CSV))
 FIGURES = $(patsubst data/%.csv,output/figure_%.png,$(DATA))
 
 .PHONY: all clean
@@ -432,12 +432,12 @@ Next, we create a variable to list only the data files that we're interested
 in by filtering out the ``INPUT_CSV`` from ``ALL_CSV``:
 
 ```makefile
-DATA = $(filter-out $(INPUT_CSV),$(ALL_CSV))
+DATA = $(filter $(INPUT_CSV),$(ALL_CSV))
 ```
 
 This line uses the
-[``filter-out``](https://www.gnu.org/software/make/manual/make.html#index-filter_002dout)
-function to remove items in the ``INPUT_CSV`` variable from the ``ALL_CSV``
+[``filter``](https://www.gnu.org/software/make/manual/make.html#index-filter)
+function to remove items that don't match the ``INPUT_CSV`` variable from the ``ALL_CSV``
 variable.  Note that we use both the ``$( ... )`` syntax for functions and
 variables. Finally, we'll use the ``DATA`` variable to create a ``FIGURES``
 variable with the desired output:
