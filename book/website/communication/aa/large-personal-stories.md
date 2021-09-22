@@ -95,7 +95,7 @@ To speed up the process, we found some core members needed to make decisions, bu
 **Remi:** Our guidelines set out that we list authors into three groups: 
     
 * Group 1 are a core team of people that are actively working in the project and writing the paper. 
-This includes the actual writing of the paper, brainstorming, recording agendas for meetings, etc. 
+For example, the actual writing of the paper, brainstorming and recording agendas for meetings. 
 We are using an all contributors model like *The Turing Way's* but with our own emojis in a checklist. 
 This core team were ranked in terms of their contributions but this did create an issue of how to decide the value of different contributions and I would suggest that this should be decided firmly at the beginning.
     
