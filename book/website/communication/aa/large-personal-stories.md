@@ -146,15 +146,16 @@ Although this was helpful given the race we were in against the time in completi
 **6. What have been the problems with doing this?**
 
 **Remi:** We under specified the ranking system for the core team.
-    - We did not want the core team to do the ranking, we wanted more of a bottom up approach. 
-    Like a tiering system of what their contributions were. 
-    We wanted to use the contributions checklist to rank people such as the number of boxes that they had ticked. 
-    - We tried to go about this by ranking people in subteams, but this made people very uncomfortable. 
-    The community ethos was against a ranking system and also it was unclear that they would not rank themselves. 
-    This lack of clarity made it hard to decide how to make a change to this system once it was in place. 
-    The process needed to be slowed down and discussed more thoroughly about how to rank people fairly. 
-    Decisions were finally made about how to rank authors by a core team. 
-    But it was time constraints and the ever increasing people onboarding to the community that caused an issue.
+We did not want the core team to do the ranking, we wanted more of a bottom up approach. 
+Like a tiering system of what their contributions were. 
+
+We wanted to use the contributions checklist to rank people such as the number of boxes that they had ticked. 
+We tried to go about this by ranking people in subteams, but this made people very uncomfortable. 
+The community ethos was against a ranking system and also it was unclear that they would not rank themselves. 
+This lack of clarity made it hard to decide how to make a change to this system once it was in place. 
+The process needed to be slowed down and discussed more thoroughly about how to rank people fairly. 
+Decisions were finally made about how to rank authors by a core team. 
+But it was time constraints and the ever increasing people onboarding to the community that caused an issue.
 
 For other publications we will probably just use the 'Brainhack community' as consortium authorship. 
 Each person's name will appear underneath the community name as a list and therefore all named authors will get the citation. 
