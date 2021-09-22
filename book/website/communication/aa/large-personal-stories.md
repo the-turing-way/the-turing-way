@@ -2,7 +2,8 @@
 
 ## Discussion with Remi Gau and Isil Poraz Bilgin from the Brainhack community
 
-Brainhack is an open science community that has an innovative meeting format to promote scientific collaboration and education in an open, inclusive environment. Remi and his colleagues have been dealing with the issue of how to determine contributions and authorship in such a large community.
+Brainhack is an open science community that has an innovative meeting format to promote scientific collaboration and education in an open, inclusive environment. 
+Remi, Isil and their colleagues have been dealing with the issue of how to determine contributions and authorship in such a large community.
 
 **More information about Remi Gau:**
 * [Website](https://remi-gau.github.io/)
