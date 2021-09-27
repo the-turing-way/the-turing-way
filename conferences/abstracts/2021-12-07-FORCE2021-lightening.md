@@ -29,7 +29,7 @@ The book is openly available under a CC-BY 4.0 licence, and presents a sustainab
 The Turing Way aims to bridge the gap between innovative data research techniques and best practices that make them accessible and comprehensible for everyone. 
 The Turing Way is designed to be inclusive and accessible to its members from diverse backgrounds and expertise. 
 We welcome ideas, case studies, impact stories, educational resources, or any sort of participation that individuals can benefit from or use to advance their knowledge in data research. 
-All contributions, questions, comments, and discussions via an online repository: https://github.com/alan-turing-institute/the-turing-way. 
+All contributions, questions, comments, and discussions are made via an online repository: https://github.com/alan-turing-institute/the-turing-way. 
 This ensures that all the contributions are openly accessible. 
 To ensure long term preservation, a snapshot of the repository is also hosted on a data repository (10.5281/zenodo.3233853).
 
