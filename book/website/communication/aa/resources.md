@@ -2,10 +2,11 @@
 # Resources: 
 * AJE [The ethics of manuscript authorship](https://www.aje.com/en/arc/ethics-manuscript-authorship/e) including a link to the white paper - credit where credits due. 
 
-* [British sociological association authorship guidelines](https://www.britsoc.co.uk/publications/guidelines-reports/authorship-guidelines.aspx
+* [British sociological association authorship guidelines](https://www.britsoc.co.uk/publications/guidelines-reports/authorship-guidelines.aspx)
 
 * [Committe of Publication Ethics (COPE) website](https://publicationethics.org/).
-  * [How to handle authorship disputes: a guide for new researchers](https://publicationethics.org/files/2003pdf12_0.pdf).
+  
+* [How to handle authorship disputes: a guide for new researchers](https://publicationethics.org/files/2003pdf12_0.pdf).
 
 * [CRediT Taxonomy](https://casrai.org/credit/)
 
