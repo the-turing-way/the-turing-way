@@ -1,6 +1,6 @@
 (communication-aa-resources)=
 # Resources: 
-* AJE [The ethics of manuscript authorship](https://www.aje.com/en/arc/ethics-manuscript-authorship/e) including a link to the white paper - credit where credits due. 
+* American Journal of Experts [The ethics of manuscript authorship](https://www.aje.com/en/arc/ethics-manuscript-authorship/e) including a link to the white paper - credit where credits due. 
 
 * [British sociological association authorship guidelines](https://www.britsoc.co.uk/publications/guidelines-reports/authorship-guidelines.aspx)
 
