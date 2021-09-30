@@ -28,18 +28,6 @@ body:
 
   - type: textarea
     attributes:
-      label: Summary
-      description:
-        Please provide a detailed description of the change or addition you are
-        proposing, or the question you're asking. Please provide as much context
-        as possible and link to related issues and/or pull requests.
-      render: markdown
-      placeholder: "*Lorem ipsum dolor sit amet, consectetur adipiscing.*"
-    validations:
-      required: false
-
-  - type: textarea
-    attributes:
       label: What needs to be done?
       description:
         We suggest using bullets (indicated by * or -) and filled checkboxes [x]
