@@ -15,8 +15,8 @@ body:
     attributes:
       value: |
         Use this template to raise issues about installing or running _The Turing Way_ locally on your computer. 
-        If you would like to raise an issue about fixing typos, or formatting issues in chapters, 
-        please use the [Editor's Issue template](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&labels=&template=EDITOR_ISSUE_TEMPLATE.yml).
+
+        If you would like to raise an issue about fixing typos, or formatting issues in chapters, please use the [Editor's Issue template](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&labels=&template=EDITOR_ISSUE_TEMPLATE.yml).
 
   - type: textarea
     attributes:
