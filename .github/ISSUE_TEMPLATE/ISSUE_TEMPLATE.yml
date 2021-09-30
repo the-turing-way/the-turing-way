@@ -8,20 +8,20 @@ description: Have a different idea?
 body:
   - type: markdown
     attributes:
-      value:
-        Please complete the following sections when you open an issue. You are
-        encouraged to keep this top level comment box updated as you develop and
-        respond to reviews. If you have write access to the repository please
-        also assign the appropriate label (or labels) to your issue. Note that
-        text within html comment tags will not be rendered.
+      value: |
+        Please complete the following sections when you open an issue. 
+        
+        You are encouraged to keep this top level comment box updated as you develop and respond to reviews. 
+        
+        If you have write access to the repository please also assign the appropriate label (or labels) to your issue.
 
   - type: textarea
     attributes:
       label: Summary
-      description:
-        Please provide a detailed description of the change or addition you are
-        proposing, or the question you're asking. Please provide as much context
-        as possible and link to related issues and/or pull requests.
+      description: |
+        Please provide a detailed description of the change or addition you are proposing, or the question you're asking. 
+        
+        Please provide as much context as possible and link to related issues and/or pull requests.
       render: markdown
     validations:
       required: false
@@ -55,12 +55,10 @@ body:
   - type: textarea
     attributes:
       label: Updates
-      description:
-        To avoid that others have to read through the full thread of comments,
-        please update the initial issue with important updates (e.g. decisions
-        taken) regularly. You can update the task list and summary above
-        directly (this is encouraged!) or add new information below in this new
-        section.
+      description: |
+        To avoid that others have to read through the full thread of comments, please update the initial issue with important updates (e.g. decisions taken) regularly. 
+        
+        You can update the task list and summary above directly (this is encouraged!) or add new information below in this new section.
       render: markdown
       placeholder: "*Lorem ipsum dolor sit amet, consectetur adipiscing.*"
     validations:
