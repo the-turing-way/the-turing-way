@@ -1,4 +1,4 @@
-name: "Bug report"
+name: "\U0001F41B Bug report"
 
 # See the json schema to help you create / update this form
 # https://json.schemastore.org/github-issue-forms.json
@@ -9,8 +9,6 @@ description:
 title: "[BUG]"
 
 labels: ["bug"]
-
-assignees: " "
 
 body:
   - type: markdown
