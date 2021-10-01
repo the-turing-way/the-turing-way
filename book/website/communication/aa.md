@@ -18,7 +18,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 (communication-aa-summary)=
 ## Summary
-This chapter sets out information about who are considered authors, academic authorship traditions in different disciplines, how practices concerning authorship are changing and how you might go about trying to achieve the authorship model you want to use.
+This chapter sets out information about who is traditionally considered an 'author' in academia, academic authorship traditions in different disciplines, how practices concerning authorship are changing, and how you might go about finding and implementing the authorship model you want to use.
 
 (communication-aa-motivation)=
 ## Motivation and Background
