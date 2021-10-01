@@ -17,16 +17,16 @@ Therefore, if you want to publish in a specific journal you will have to adhere 
 
 A general definition of an author is seen as the person that is the creator of the written work (creator of the ideas and the actual physical writing) and there is an ownership for the author regarding the content of what is written. 
 
-However, most research involves a team of people to make it happen. So who decides whether these contributions are worthy of authorship or are they just to be acknowledged? 
+However, most research involves a team of people to make it happen. So who decides whether these contributions are worthy of authorship or just an acknowledgement? 
 
-Therefore, it is still common to give authorship to only those that have actually taken part in the writing or editing of the article as well as other substantial aspects of the research. 
+It is common to give authorship to only those that have actually taken part in the writing or editing of the article as well as other substantial aspects of the research. 
 This often excludes large contributions to the project from technicians, undergraduate and postgraduate students, and people involved in the infrastructure of the project such as research software engineers. 
 It also raises ethical issues concerning who takes credit for the work on a project.
 
 (communication-aa-overview-first)=
 ## First author dominance
 
-Being the first author impacts that person's reputation and visibility due to a perceived view that this person makes the greatest contribution, citation indices that in the past only counted citations for the first-named author, and citations within academic articles being shortened to the first author's name with *et al* (Ref: Frandsen & Nicolaisen 2010). 
+Being the first author impacts that person's reputation and visibility due to: a perceived view that this person makes the greatest contribution, citation indices that in the past only counted citations for the first-named author, and citations within academic articles being shortened to the first author's surname followed by "et al." (latin for "and others") {cite:ps}`Frandsen2010name,VanPraag2008benefits`. 
 The number of citations that papers have and what journals they are published in are often important criteria for obtaining new jobs, getting promoted and winning funding applications.
 
 The practice of the first author taking prominence over others also has social implications. 
