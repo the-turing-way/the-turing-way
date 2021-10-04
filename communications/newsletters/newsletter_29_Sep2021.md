@@ -7,22 +7,22 @@ Hello Turing Way friends!
 This newsletter is packed with exciting updates from last month and noteworthy announcements for the upcoming weeks.
 
 Some highlights are:
-📢 We are **hiring a Community Manager** - [send your application](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager_the_turing_way_16817/en/) (deadline: 24 October).
-⛺ Attend the first **Turing Way Fireside Chat** on 22 October - [register](https://www.eventbrite.co.uk/e/the-turing-way-fireside-chat-tickets-185011543507).
-📚 Participate in the **Book Dash - Community Share Outs** on 12 November - [find details](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebration-tickets-184957170877).
+* 📢 We are **hiring a Community Manager** - [send your application](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager_the_turing_way_16817/en/) (deadline: 24 October).
+* ⛺ Attend the first **Turing Way Fireside Chat** on 22 October - [register](https://www.eventbrite.co.uk/e/the-turing-way-fireside-chat-tickets-185011543507).
+* 📚 Participate in the **Book Dash - Community Share Outs** on 12 November - [find details](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebration-tickets-184957170877).
 
 We are looking forward to these events, and expect a busy month ahead.
 Therefore, *the next newsletter will arrive in your mailbox in November*.
-
-👋 Meanwhile, join us at the Fireside Chat, Community Share Out events, biweekly Collaboration Cafés, weekly Coworking Calls and the community Slack ([details](https://hackmd.io/@turingway/demo-intro)).
+Meanwhile, join us at the Fireside Chat, Community Share Out events, biweekly Collaboration Cafés, weekly Coworking Calls and the community Slack ([details](https://hackmd.io/@turingway/demo-intro)).
 
 Find more details on these topics below 👇
 
 ## We are hiring a community manager! 
 
-**Deadline for application is extended to 24 October** - Please see the [detailed job description online](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager_the_turing_way_16817/en/).
-The Turing Way project and community has been growing and so is the team.
-We are recruiting a Community Manager who will work to build and support an international community of researchers and data scientists in The Turing Way.
+***Deadline for application is extended to 24 October** - Please see the [detailed job description online](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager_the_turing_way_16817/en/).*
+
+*The Turing Way* project and community has been growing and so is the team.
+We are recruiting a Community Manager who will work to build and support an international community of researchers and data scientists in *The Turing Way*.
 The ideal candidate will support people to share and promote the skills that they already have, understand the experiences of people from a range of diverse backgrounds, and identify what they need to effectively work together. 
 They will collaborate with experts in The Alan Turing Institute, our existing community of international researchers and beyond.
 
@@ -34,21 +34,21 @@ They will collaborate with experts in The Alan Turing Institute, our existing co
 
 ### Join the First Fireside Chat on 22 October
 
-On 22 October, 14:00 - 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2021-10-22/14:00)), Cassandra Gould van Praag will kick off The Turing Way Fireside Chat Series with Kirstie Whitaker and Malvika Sharan.
-They will discuss the history, goals and vision of The Turing Way in the context of research reproducibility and share stories from their work in community building and open science.
+On 22 October, 14:00 - 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2021-10-22/14:00)), Cassandra Gould van Praag will kick off *The Turing Way* Fireside Chat Series with Kirstie Whitaker and Malvika Sharan.
+They will discuss the history, goals and vision of *The Turing Way* in the context of research reproducibility and share stories from their work in community building and open science.
 Please [register via the Eventbrite page](https://www.eventbrite.co.uk/e/the-turing-way-fireside-chat-tickets-185011543507).
 
-**The Turing Way Fireside Chat Series**
+**_The Turing Way_ Fireside Chat Series**
 
-We are launching **The Turing Way Fireside Chat Series** to facilitate cross-community engagement, knowledge exchange and open discussions with the participants.
+We are launching **_The Turing Way_ Fireside Chat Series** to facilitate cross-community engagement, knowledge exchange and open discussions with the participants.
 Every month, this event will feature 2-3 international community leaders and champions who will discuss reproducibility, research ethics, collaboration and everything in between in an informal setting.
 
 ### Book Dash - Community Share outs, Register soon!
 
-Applications for the upcoming Book Dash are in and the members of the [Book Dash planning Committee](https://twitter.com/turingway/status/1434814172135673866?s=20) are reviewing them to select and invite participants to collaborate on The Turing Way from 08 to 11 November 2021.
-On **12 November**, we will hold two public Community Share Outs to demonstrate what we have been working on in The Turing Way and all the projects that the attendees will drive during the Book Dash week.
-Please share it in your network to invite those who would like to learn more about The Turing Way.
+On **12 November**, we will hold two public Community Share Outs to demonstrate what we have been working on in *The Turing Way* and all the projects that the attendees will drive during the Book Dash week.
+Please share it in your network to invite those who would like to learn more about *The Turing Way*.
 Learn [more about the event and register here](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebration-tickets-184957170877).
+Currently, the members of the [Book Dash planning Committee](https://twitter.com/turingway/status/1434814172135673866?s=20) are reviewing the Book Dash applicaton to select and invite participants to collaborate on *The Turing Way* from 08 to 11 November 2021.
 
 ### Collaboration Cafe and Coworking Call
 
@@ -87,17 +87,17 @@ In her post, she writes:
 
 ### Talks and Workshops
 
-- Martina G. Vilas gave the talk **The Turing Way and approaches to reproducible and generalizable research**.
+- Martina G. Vilas gave the talk **_The Turing Way_ and approaches to reproducible and generalizable research**.
 Building on her previous talks, she added more context on how to investigate the generalisability of research claims.
 Find her slides [on Zenodo](https://zenodo.org/record/5497717).
 - Kirstie Whitaker and Malvika Sharan delivered a workshop to the new graduate students at The Alan Turing Institute on 08 September.
 Under the theme, [Effective Collaboration in a Distributed (Research) World](https://zenodo.org/record/5484384), they discussed what challenges early career researchers to face and how they can prepare in advance for collaboration.
-- At SeptembRSE 2021, Malvika gave a talk on 09 September - [The Turing Way Guide to Reproducible, Ethical and Collaborative Research](https://zenodo.org/record/5497457). 
+- At SeptembRSE 2021, Malvika gave a talk on 09 September - [_The Turing Way_ Guide to Reproducible, Ethical and Collaborative Research](https://zenodo.org/record/5497457). 
 Providing an overview of different guides, she discussed how researchers working on computational projects can plan their work while collaborating with others.
 - On 21 September, Malvika gave a keynote at Open Science Fair 2021 under the title “Can we reimagine FAIR for building communities in Open Science”.
 You can watch the recording [on YouTube](https://youtu.be/f960OXPzQO4?t=297), and find her slides on [Zenodo](https://zenodo.org/record/5518163).
-- Rachael Ainsworth, Emma Karoune and Esther Plomp delivered the [Open Science Fair 2021](https://www.opensciencefair.eu/) workshop: [Good Practices for Collaboration (The Turing Way)](https://zenodo.org/record/5511878).
-They demonstrated The Turing Way Guide for Collaboration and facilitated discussions and contributions from the participants around common mistakes and good practices in research reproducibility.
+- Rachael Ainsworth, Emma Karoune and Esther Plomp delivered the [Open Science Fair 2021](https://www.opensciencefair.eu/) workshop: [Good Practices for Collaboration](https://zenodo.org/record/5511878).
+They demonstrated _The Turing Way_ Guide for Collaboration and facilitated discussions and contributions from the participants around common mistakes and good practices in research reproducibility.
 Recording from the session is available [on YouTube]
 
 (https://www.youtube.com/watch?v=h3GQiw7JGAM).
@@ -114,8 +114,8 @@ You can watch the recording [on YouTube](https://youtu.be/tpxCWCTSZUc?t=2016) an
 
 The hidden REF is a competition that recognises all research outputs and every role that makes research possible. 
 The Award Ceremony was moderated by Patricia Herterich on 2nd September and the winners were announced by the committee for the five categories: Communicative Outputs, Applications of Research, Practices, Contexts and Hidden Role.
-Thanks to Emma Karoune for leading *The Turing Way* submission and representing *The Turing Way* at the award ceremony.
-We are very delighted to hear that The Turing Way was commended under the ‘practices’ category.
+Thanks to Emma Karoune for leading *The Turing Way* submission and representing the project at the award ceremony.
+We are very delighted to hear that _The Turing Way_ was commended under the ‘practices’ category.
 
 ![Emma tweeted "Super happy to see the hard work of the Turing Way community recognised in the HiddenRe ceremony.](images/2021-10-emmaweet.png)
 
@@ -132,7 +132,7 @@ You can [read about her and the other fellows online](https://elixiruknode.org/f
 
 ### HDR UK Applied Analytics Seminar
 
-As part of [Applied Analytics scientific theme](https://www.hdruk.ac.uk/science/research-priorities/actionable-nhs-analytics/), Heidi Seibold will give a seminar on The Turing Way – a community and handbook for reproducible, ethical and collaborative data science on 28 October from 14:00 – 15:00 London time.
+As part of [Applied Analytics scientific theme](https://www.hdruk.ac.uk/science/research-priorities/actionable-nhs-analytics/), Heidi Seibold will give a seminar on _The Turing Way_ – a community and handbook for reproducible, ethical and collaborative data science on 28 October from 14:00 – 15:00 London time.
 [Register to attend the event](https://zoom.us/meeting/register/tJIof--vpzIoEtdBKWtHtc46I5KBQHr60L4Q).
 
 ### Open Science Skills Workshop (AEA)
