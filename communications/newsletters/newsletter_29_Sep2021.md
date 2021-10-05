@@ -1,19 +1,18 @@
 The Turing Way Newsletter: 05 October 2021
 
-# Join the First Fireside Chat, Attend the Community Share Outs, Apply for the Community Manager Position and More Updates!
+# We are Hiring; Meet us at the Fireside Chat; Community Share-out and Contributor Celebration Dates!
 
-Hello Turing Way friends!
+Hello Turing Way friends!  
 
-This newsletter is packed with exciting updates from last month and noteworthy announcements for the upcoming weeks.
+This newsletter is packed with exciting updates from last month and noteworthy announcements for the upcoming weeks.  
 
 Some highlights are:
-* 📢 We are **hiring a Community Manager** - [send your application](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager_the_turing_way_16817/en/) (deadline: 24 October).
-* ⛺ Attend the first **Turing Way Fireside Chat** on 22 October - [register](https://www.eventbrite.co.uk/e/the-turing-way-fireside-chat-tickets-185011543507).
-* 📚 Participate in the **Book Dash - Community Share Outs** on 12 November - [find details](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebration-tickets-184957170877).
 
-We are looking forward to these events, and expect a busy month ahead.
-Therefore, *the next newsletter will arrive in your mailbox in November*.
-Meanwhile, join us at the Fireside Chat, Community Share Out events, biweekly Collaboration Cafés, weekly Coworking Calls and the community Slack ([details](https://hackmd.io/@turingway/demo-intro)).
+-   📢 We are **hiring a Community Manager** \- [send your application](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager_the_turing_way_16817/en/) (deadline: 24 October).
+-   ⛺ Join the first **Turing Way Fireside Chat** on 22 October - [register](https://www.eventbrite.co.uk/e/the-turing-way-fireside-chat-tickets-185011543507).  
+-   📚 Attend the  **Community Share-out and Contributor Celebration** on 12 November - [find details](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebration-tickets-184957170877).
+
+_The next newsletter will arrive in your mailbox in November_. Meanwhile, meet us at the Fireside Chat, Community Share Out events, biweekly Collaboration Cafés, weekly Coworking Calls and the community Slack ([details](https://hackmd.io/@turingway/demo-intro)). 👋  
 
 Find more details on these topics below 👇
 
