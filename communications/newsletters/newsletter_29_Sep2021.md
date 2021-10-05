@@ -18,10 +18,9 @@ Find more details on these topics below 👇
 
 ## We are hiring a community manager! 
 
-***Deadline for application is extended to 24 October** - Please see the [detailed job description online](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager_the_turing_way_16817/en/).*
+See the [detailed job description online](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager_the_turing_way_16817/en/) and **apply before 24 October.**  
 
-*The Turing Way* project and community has been growing and so is the team.
-We are recruiting a Community Manager who will work to build and support an international community of researchers and data scientists in *The Turing Way*.
+_The Turing Way_ project and community has been growing and so is the team. We are recruiting a Community Manager who will work to build and support an international community of researchers and data scientists in _The Turing Way_. 
 The ideal candidate will support people to share and promote the skills that they already have, understand the experiences of people from a range of diverse backgrounds, and identify what they need to effectively work together. 
 They will collaborate with experts in The Alan Turing Institute, our existing community of international researchers and beyond.
 
@@ -33,8 +32,9 @@ They will collaborate with experts in The Alan Turing Institute, our existing co
 
 ### Join the First Fireside Chat on 22 October
 
-On 22 October, 14:00 - 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2021-10-22/14:00)), Cassandra Gould van Praag will kick off *The Turing Way* Fireside Chat Series with Kirstie Whitaker and Malvika Sharan.
-They will discuss the history, goals and vision of *The Turing Way* in the context of research reproducibility and share stories from their work in community building and open science.
+On 22 October, 14:00 - 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2021-10-22/14:00)), we will host our first _Turing Way_ Fireside Chat. 
+Cassandra Gould van Praag, Open Science Community Engagement Coordinator at University of Oxford, will host this call with _The Turing Way_ lead Kirstie Whitaker and researcher Malvika Sharan to discuss research reproducibility, accessible resources in data science and the role of The Turing Way in this landscape. 
+We are particularly excited to bring together existing and new members together who can ask questions such as "what exactly is The Turing Way?", "how did it start?", "what does The Turing Way community stand for?" and "what can we expect next in the project?".
 Please [register via the Eventbrite page](https://www.eventbrite.co.uk/e/the-turing-way-fireside-chat-tickets-185011543507).
 
 **_The Turing Way_ Fireside Chat Series**
@@ -44,16 +44,17 @@ Every month, this event will feature 2-3 international community leaders and cha
 
 ### Book Dash - Community Share outs, Register soon!
 
-On **12 November**, we will hold two public Community Share Outs to demonstrate what we have been working on in *The Turing Way* and all the projects that the attendees will drive during the Book Dash week.
-Please share it in your network to invite those who would like to learn more about *The Turing Way*.
-Learn [more about the event and register here](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebration-tickets-184957170877).
-Currently, the members of the [Book Dash planning Committee](https://twitter.com/turingway/status/1434814172135673866?s=20) are reviewing the Book Dash applicaton to select and invite participants to collaborate on *The Turing Way* from 08 to 11 November 2021.
+On **12 November**, we will hold two public Community Share Outs to demonstrate what we have been working on in _The Turing Way_ and all the projects that the attendees will drive during the Book Dash week from 08 to 11 November 2021. 
+We are inviting the friends of _The Turing Way_ and those who would like to learn more about the project. Learn [more about the event and register here](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebration-tickets-184957170877).
+  
+Book Dash Update: _Currently, the members of the [Book Dash planning Committee](https://twitter.com/turingway/status/1434814172135673866?s=20) are reviewing the Book Dash applicaton to select and invite participants to collaborate on The Turing Way._
 
 ### Collaboration Cafe and Coworking Call
 
 This month’s Collaboration Cafes are taking place on 6 and 20 October (first and third Wednesdays) from 15:00 - 17:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2021-10-06/15:00)).
 This week’s call will be hosted by Emma Karoune.
-Please sign up here: https://hackmd.io/@turingway/collaboration-cafe.
+**Please sign up here:** https://hackmd.io/@turingway/collaboration-cafe.
+
 Weekly coworking calls are taking place each Monday from 11:00 - 12:00 London time.
 Find more details and sign up here: https://hackmd.io/@turingway/coworking-call.
 
@@ -69,12 +70,12 @@ Today’s contributor, Katerina Drakoulaki, did something truly unique - she cre
 Under [issue #2100](https://github.com/alan-turing-institute/the-turing-way/issues/2100), she shares her experience as a researcher, learner and *The Turing Way* user.
 Her post demonstrates that our contributors are not only those who write new chapters but also those who use them to advance their research and teach data science skills to others.
 
-Katerina is a PhD student at the National and Kapodistrian University of Athens, where she investigates the relationship between linguistic, cognitive and music skills of Greek-speaking preschoolers. 
+**About Katerina**: SHe is a PhD student at the National and Kapodistrian University of Athens, where she investigates the relationship between linguistic, cognitive and music skills of Greek-speaking preschoolers. 
 She is a speech and language therapist and I have clinical experience working with paediatric populations.
 She is also the [Frictionless Data for Reproducible Research Fellow](https://fellows.frictionlessdata.io/).
 As part of her fellowship, she read and used several chapters from *The Turing Way* in her work.
-In her post, she writes:
 
+In her post, she writes:
 > As the Frictionless Data Fellow for reproducible research helped me understand, and by extension, the Turing Way project, that many of the issues I was facing were not because of my lack of abilities and knowledge. 
 > They were shortcomings of the way postgraduate education (and research) works: you are expected to magically know how to handle your data, clean it, save it safely, analyse it and communicate your results. 
 > Especially when your background is not data-focused these things can feel intimidating, both in terms of your understanding but also in terms of your mentality toward tackling data issues.
@@ -86,18 +87,17 @@ In her post, she writes:
 
 ### Talks and Workshops
 
-- Martina G. Vilas gave the talk **_The Turing Way_ and approaches to reproducible and generalizable research**.
+- This month, Martina G. Vilas gave a talk - **_The Turing Way_ and approaches to reproducible and generalizable research**.
 Building on her previous talks, she added more context on how to investigate the generalisability of research claims.
 Find her slides [on Zenodo](https://zenodo.org/record/5497717).
 - Kirstie Whitaker and Malvika Sharan delivered a workshop to the new graduate students at The Alan Turing Institute on 08 September.
-Under the theme, [Effective Collaboration in a Distributed (Research) World](https://zenodo.org/record/5484384), they discussed what challenges early career researchers to face and how they can prepare in advance for collaboration.
-- At SeptembRSE 2021, Malvika gave a talk on 09 September - [_The Turing Way_ Guide to Reproducible, Ethical and Collaborative Research](https://zenodo.org/record/5497457). 
-Providing an overview of different guides, she discussed how researchers working on computational projects can plan their work while collaborating with others.
-- On 21 September, Malvika gave a keynote at Open Science Fair 2021 under the title “Can we reimagine FAIR for building communities in Open Science”.
+Under the theme, **Effective Collaboration in a Distributed (Research) World**, they discussed what challenges early career researchers to face and how they can prepare in advance for collaboration.
+Find the workshop materials [on Zenodo](https://zenodo.org/record/5484384).
+- On 21 September, Malvika gave a keynote at Open Science Fair 2021 under the title **Can we reimagine FAIR for building communities in Open Science**.
 You can watch the recording [on YouTube](https://youtu.be/f960OXPzQO4?t=297), and find her slides on [Zenodo](https://zenodo.org/record/5518163).
-- Rachael Ainsworth, Emma Karoune and Esther Plomp delivered the [Open Science Fair 2021](https://www.opensciencefair.eu/) workshop: [Good Practices for Collaboration](https://zenodo.org/record/5511878).
+- Rachael Ainsworth, Emma Karoune and Esther Plomp delivered the [Open Science Fair 2021](https://www.opensciencefair.eu/) workshop: **Good Practices for Collaboration**.
 They demonstrated _The Turing Way_ Guide for Collaboration and facilitated discussions and contributions from the participants around common mistakes and good practices in research reproducibility.
-Recording from the session is available [on YouTube]
+Recording from the session is available [on YouTube] and workshop materials are [on Zenodo](https://zenodo.org/record/5511878).
 
 (https://www.youtube.com/watch?v=h3GQiw7JGAM).
 
@@ -105,6 +105,9 @@ Recording from the session is available [on YouTube]
 
 *[Giulia Malaguarnera’s Tweet](https://twitter.com/GMalaguarnera/status/1440333215785361415?s=20) from her participation at The Turing Way workshop at Open Science 2021.*
 
+- At SeptembRSE 2021, Malvika gave a talk - **_The Turing Way_ Guide to Reproducible, Ethical and Collaborative Research**. 
+Providing an overview of different guides, she discussed how researchers working on computational projects can plan their work while collaborating with others.
+Find her slides [on Zenodo](https://zenodo.org/record/5497457).
 - Moderated by Rowland Mosbergen and co-organised by Jeremy Cohen, Malvika chaired the SeptembRSE panel **Missing narratives around diversity and inclusion in Research Software Engineering (RSE)** on 28 September.
 This event featured panellists from different technical expertise and lived experiences in research who discussed accessibility, participation, disability and representation of developing countries.
 You can watch the recording [on YouTube](https://youtu.be/tpxCWCTSZUc?t=2016) and [read notes on this Etherpad](https://pad.sfconservancy.org/p/missing-narrative-rse-panel-2021).
@@ -112,8 +115,8 @@ You can watch the recording [on YouTube](https://youtu.be/tpxCWCTSZUc?t=2016) an
 ## HiddenRef Awardees Announced
 
 The hidden REF is a competition that recognises all research outputs and every role that makes research possible. 
-The Award Ceremony was moderated by Patricia Herterich on 2nd September and the winners were announced by the committee for the five categories: Communicative Outputs, Applications of Research, Practices, Contexts and Hidden Role.
-Thanks to Emma Karoune for leading *The Turing Way* submission and representing the project at the award ceremony.
+The Award Ceremony was moderated by Patricia Herterich on 2 September 2021 and the winners were announced by the committee for the five categories: Communicative Outputs, Applications of Research, Practices, Contexts and Hidden Role.
+Thanks to Emma Karoune, our core contributor and member of the Book Dash Planning Committee, for leading *The Turing Way* submission and representing the project at the award ceremony.
 We are very delighted to hear that _The Turing Way_ was commended under the ‘practices’ category.
 
 ![Emma tweeted "Super happy to see the hard work of the Turing Way community recognised in the HiddenRe ceremony.](images/2021-10-emmaweet.png)
@@ -122,7 +125,7 @@ We are very delighted to hear that _The Turing Way_ was commended under the ‘p
 
 ## ELIXIR-UK FAIR Data Stewardship Training Fellow
 
-We congratulate our core contributor and member of the Book Dash Planning Committee, Emma Karoune, for being selected for the ELIXIR-UK FAIR data stewardship training Fellowship 2021.
+We congratulate Emma Karoune for being named the ELIXIR-UK FAIR data stewardship training Fellow 2021.
 ELIXIR-UK has partnered with the Software Sustainability Institute to build this Fellowship Programme to support and fund Data Stewards to train researchers in how to manage and share data in the life sciences.
 Emma is particularly interested in how researchers can work with sensitive data to make it FAIR and also how we can build inclusive research communities to bring about more sustainable data sharing.
 You can [read about her and the other fellows online](https://elixiruknode.org/fellows/).
