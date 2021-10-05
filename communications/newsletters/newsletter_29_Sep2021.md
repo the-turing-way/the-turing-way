@@ -20,9 +20,10 @@ Find more details on these topics below 👇
 
 See the [detailed job description online](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager_the_turing_way_16817/en/) and **apply before 24 October.**  
 
-_The Turing Way_ project and community has been growing and so is the team. We are recruiting a Community Manager who will work to build and support an international community of researchers and data scientists in _The Turing Way_. 
-The ideal candidate will support people to share and promote the skills that they already have, understand the experiences of people from a range of diverse backgrounds, and identify what they need to effectively work together. 
-They will collaborate with experts in The Alan Turing Institute, our existing community of international researchers and beyond.
+_The Turing Way_ project and community has been growing and so is the team. We are recruiting a Community Manager who will work to build and support an international community of researchers and data scientists in The Turing Way. Please help us share this job announcement in your networks.
+The community manager will work closely with Malvika and Kirstie to support and sustain the Turing Way community as we enter the next stage of the project. 
+They will support our community to share and promote the skills that they already have, understand the experiences of people from a range of diverse backgrounds, and identify what they need to effectively work together. 
+We encourage interested candidates to get in touch if additional information will be useful.
 
 ![Image showing different groups where people are chatting and moving across different groups to collaborate with each other.](images/2021-10-discussion.png)
 
@@ -44,7 +45,7 @@ Every month, this event will feature 2-3 international community leaders and cha
 
 ### Book Dash - Community Share outs, Register soon!
 
-On **12 November**, we will hold two public Community Share Outs to demonstrate what we have been working on in _The Turing Way_ and all the projects that the attendees will drive during the Book Dash week from 08 to 11 November 2021. 
+On **12 November**, we will hold two public Community Share Outs at 11:00 and 17:00 London time to demonstrate what we have been working on in _The Turing Way_ and all the projects that the attendees will drive during the Book Dash week from 08 to 11 November 2021. 
 We are inviting the friends of _The Turing Way_ and those who would like to learn more about the project. Learn [more about the event and register here](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebration-tickets-184957170877).
   
 Book Dash Update: _Currently, the members of the [Book Dash planning Committee](https://twitter.com/turingway/status/1434814172135673866?s=20) are reviewing the Book Dash applicaton to select and invite participants to collaborate on The Turing Way._
