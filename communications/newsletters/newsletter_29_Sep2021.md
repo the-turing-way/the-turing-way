@@ -33,9 +33,9 @@ We encourage interested candidates to get in touch if additional information wil
 
 ### Join the First Fireside Chat on 22 October
 
-On 22 October, 14:00 - 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2021-10-22/14:00)), we will host our first _Turing Way_ Fireside Chat. 
-Cassandra Gould van Praag, Open Science Community Engagement Coordinator at University of Oxford, will host this call with _The Turing Way_ lead Kirstie Whitaker and researcher Malvika Sharan to discuss research reproducibility, accessible resources in data science and the role of The Turing Way in this landscape. 
-We are particularly excited to bring together existing and new members together who can ask questions such as "what exactly is The Turing Way?", "how did it start?", "what does The Turing Way community stand for?" and "what can we expect next in the project?".
+On 22 October, 14:00 - 15:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2021-10-22/14:00)), we will kick-off The Turing Way Fireside Chat series. 
+At this very first call, The Turing Way lead Kirstie Whitaker and researcher Malvika Sharan will be joined by a core member from our community to discuss research reproducibility, accessible resources in data science and the role of The Turing Way in this landscape.
+We are particularly excited to bring existing and new members together who can ask questions such as "what exactly is The Turing Way?", "how did it start?", "what challenges are we trying to address in data science and research?" and "what can we expect next?". 
 Please [register via the Eventbrite page](https://www.eventbrite.co.uk/e/the-turing-way-fireside-chat-tickets-185011543507).
 
 **_The Turing Way_ Fireside Chat Series**
@@ -48,7 +48,7 @@ Every month, this event will feature 2-3 international community leaders and cha
 On **12 November**, we will hold two public Community Share Outs at 11:00 and 17:00 London time to demonstrate what we have been working on in _The Turing Way_ and all the projects that the attendees will drive during the Book Dash week from 08 to 11 November 2021. 
 We are inviting the friends of _The Turing Way_ and those who would like to learn more about the project. Learn [more about the event and register here](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebration-tickets-184957170877).
   
-Book Dash Update: _Currently, the members of the [Book Dash planning Committee](https://twitter.com/turingway/status/1434814172135673866?s=20) are reviewing the Book Dash applicaton to select and invite participants to collaborate on The Turing Way._
+Book Dash Update: _Currently, the members of the [Book Dash planning Committee](https://twitter.com/turingway/status/1434814172135673866?s=20) are reviewing the Book Dash application to select and invite participants to collaborate on The Turing Way._
 
 ### Collaboration Cafe and Coworking Call
 
@@ -98,7 +98,7 @@ Find the workshop materials [on Zenodo](https://zenodo.org/record/5484384).
 You can watch the recording [on YouTube](https://youtu.be/f960OXPzQO4?t=297), and find her slides on [Zenodo](https://zenodo.org/record/5518163).
 - Rachael Ainsworth, Emma Karoune and Esther Plomp delivered the [Open Science Fair 2021](https://www.opensciencefair.eu/) workshop: **Good Practices for Collaboration**.
 They demonstrated _The Turing Way_ Guide for Collaboration and facilitated discussions and contributions from the participants around common mistakes and good practices in research reproducibility.
-Recording from the session is available [on YouTube] and workshop materials are [on Zenodo](https://zenodo.org/record/5511878).
+Recording from the session is available [on YouTube](https://www.youtube.com/watch?v=h3GQiw7JGAM) and workshop materials are [on Zenodo](https://zenodo.org/record/5511878).
 
 (https://www.youtube.com/watch?v=h3GQiw7JGAM).
 
@@ -169,10 +169,10 @@ Being a Fellow also helps individuals develop skills and knowledge in their area
 
 ![Four tweets from this month as explained below in the title](images/2021-10-tweets.png)
 
-*[Lisa De Bruine](https://twitter.com/LisaDeBruine/status/1438397960279269378?s=20) sharing the definition of reproducibility as described in The Turing Way.
-[Iryna Kuchma’s Tweet](https://twitter.com/irynakuchma/status/1440291162544218114?s=20) from the Open Science Fair 2021 mentioning FAIR for the community as discussed in Malvika's talk.
-[Tom Russell](https://twitter.com/tlrss/status/1438502009351512077?s=20) sharing The Turing Way as one of his go-to resources on research-programming topics.
-[Esther Plomp's Tweet](https://twitter.com/PhDToothFAIRy/status/1432986429135671301?s=20) about Stephen Eglen's talk from a community call hosted at the Open Science Community at TU Delft*
+***1** [Esther Plomp's Tweet](https://twitter.com/PhDToothFAIRy/status/1432986429135671301?s=20) about Stephen Eglen's talk from a community call hosted at the Open Science Community at TU Delft. 
+**2** [Tom Russell](https://twitter.com/tlrss/status/1438502009351512077?s=20) sharing The Turing Way as one of his go-to resources on research-programming topics.
+**3**Lisa De Bruine](https://twitter.com/LisaDeBruine/status/1438397960279269378?s=20) sharing the definition of reproducibility as described in The Turing Way.
+**4**[Iryna Kuchma’s Tweet](https://twitter.com/irynakuchma/status/1440291162544218114?s=20) from the Open Science Fair 2021 mentioning FAIR for the community as discussed in Malvika's talk.*
 
 ## Connect with us!
 
