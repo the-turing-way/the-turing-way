@@ -23,8 +23,7 @@ If you want to start learning hands-on practices, we recommend reading the {ref}
 
 ### Videos
 
-* Markowetz, F. (2016). 5 selfish reasons to work reproducibly. Talk at scidata 2016. https://www.youtube.com/watch?v=Is15CMVPHas&feature=youtu.be
-
+* Markowetz, F. (2016). 5 selfish reasons to work reproducibly. Talk at scidata 2016. https://youtu.be/yVT07Sukv9Q
 ### Other Useful Links
 
 * Markowetz, F. (2018). 5 selfish reasons to work reproducibly. Slides available at https://osf.io/a8wq4/
