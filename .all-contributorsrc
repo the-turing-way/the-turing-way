@@ -2747,6 +2747,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "Aakash-Raj-2001",
+      "name": "Aakash Raj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79682170?v=4",
+      "profile": "https://github.com/Aakash-Raj-2001",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "projectName": "the-turing-way",
