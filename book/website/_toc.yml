@@ -187,8 +187,6 @@ parts:
         file: reproducible-research/reviewing/reviewing-workflow
       - title: Checklist for code reviewing
         file: reproducible-research/reviewing/reviewing-checklist
-      - title: Resources for code reviewing
-        file: reproducible-research/reviewing/reviewing-resources
     - title: Continuous Integration (CI)
       file: reproducible-research/ci
       sections:
