@@ -2757,6 +2757,16 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "guiomar",
+      "name": "Julia Guiomar Niso Galán",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4451818?v=4",
+      "profile": "http://guiomarniso.com",
+      "contributions": [
+        "translation",
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
