@@ -1,0 +1,98 @@
+name: "\U0001F4D6 New Chapter Template"
+description: Template for proposing a new chapter
+
+# See the json schema to help you create / update this form
+# https://json.schemastore.org/github-issue-forms.json
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please complete the following sections when you want to propose a new chapter. 
+
+        You are encouraged to keep this top level comment box updated as you develop and respond to reviews. 
+
+        If you have write access to the repository, please also assign the appropriate label (or labels) to your issue.
+
+  - type: textarea
+    attributes:
+      label: Summary
+      description: |
+        Please provide a detailed description of the chapter you are writing or proposing. 
+
+        If you have started writing the chapter, also provide details about the pull request you've made as well as the branch you've been working from. 
+
+        Please provide as much context as possible and link to other related issues and/or pull requests.
+      value: |
+        Think about answering the following questions:
+
+        - What is the name and purpose of your chapter?
+        - Why are you proposing it?
+        - What Guide is the chapter for?
+        - What branch are you working on?
+        - Have you made any Pull Requests
+      render: markdown
+      placeholder: "*Lorem ipsum dolor sit amet, consectetur adipiscing.*"
+    validations:
+      required: false
+
+  - type: textarea
+    attributes:
+      label: Discussion Points
+      description:
+        Use this section to highlight the outcomes of any discussions you have
+        had with regards the development of this chapter. YOU MAY SKIP THIS
+        SECTION.
+      render: markdown
+      value: |
+        - [ ] *Lorem ipsum dolor sit amet, consectetur adipiscing.*
+    validations:
+      required: false
+
+  - type: textarea
+    attributes:
+      label: Resources
+      description: |
+        List and describe any external resources that may be helpful when writing the chapter. 
+
+        We suggest using bullets (indicated by * or -) and filled checkboxes [x] here.
+      render: markdown
+      value: |
+        - [ ] *Lorem ipsum dolor sit amet, consectetur adipiscing.*
+        - [ ] *Lorem ipsum dolor sit amet, consectetur adipiscing.*
+    validations:
+      required: false
+
+  - type: textarea
+    attributes:
+      label: Who can help?
+      description:
+        We suggest using bullets (indicated by * or -) and filled checkboxes [x]
+        here.
+      render: markdown
+      value: |
+        - [ ] *Lorem ipsum dolor sit amet, consectetur adipiscing.*
+        - [ ] *Lorem ipsum dolor sit amet, consectetur adipiscing.*
+    validations:
+      required: false
+
+  - type: textarea
+    attributes:
+      label: Updates
+      description: |
+        To avoid that others have to read through the full thread of comments, update the initial issue with important updates (for example, actions or decisions taken) regularly so that all the important information is available at one glance. 
+
+        You may use the checklist here to get started, feel free to modify this list.
+
+        We suggest using bullets (indicated by * or -) and filled checkboxes [x] here.
+      render: markdown
+      value: |
+        - [ ] Write chapter outline
+        - [ ] Add material to the chapter
+        - [ ] Combine materials into a readable chapter
+        - [ ] Proofread
+        - [ ] Request reviews
+        - [ ] Address reviews
+        - [ ] Merge to master branch.
+    validations:
+      required: false
