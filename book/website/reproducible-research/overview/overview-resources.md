@@ -21,12 +21,10 @@ If you want to start learning hands-on practices, we recommend reading the {ref}
 (rr-overview-resources-addmaterial)=
 ## Additional Material
 
-### Videos
+### Useful Links
 
-* Markowetz, F. (2016). 5 selfish reasons to work reproducibly. Recording from a talk at  Data Stewardship TU Delft
+* Markowetz, F. (2018). 5 selfish reasons to work reproducibly. Slides available at https://osf.io/a8wq4/. 
+Recording from a talk at  Data Stewardship TU Delft
 in 2019. [https://youtu.be/yVT07Sukv9Q](https://youtu.be/yVT07Sukv9Q).
-### Other Useful Links
-
-* Markowetz, F. (2018). 5 selfish reasons to work reproducibly. Slides available at https://osf.io/a8wq4/
 
 * Leipzig, J (2020). Awesome Reproducible Research: A curated list of reproducible research case studies, projects, tutorials, and media. Github repo. https://github.com/leipzig/awesome-reproducible-research
