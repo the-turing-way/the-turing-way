@@ -29,7 +29,7 @@ Here are some of the questions one might wish to ask when thinking about each fe
 - **Persistent:** Do the conversations remain available and accessible on the platform? If not "forever", for how long? If not all conversations, what proportion?
 - **Noisy:** How many notifications will people receive, and can the number of notifications be managed by users/administrators?
 - **Open:** Can anyone join the platform or is there an invitation/approval process?
-- **Consistent user experience (UX):** Does the platform appear consistent regardless of a user's browser, email client, etc.?
+- **Consistent user experience (UX):** Does the platform appear consistent regardless of the user's browser or email client?
 - **Threading/filtering of conversations:** Is it apparent who is replying to whom and what topic each string of messages is addressing?
 - **Social sharing:** Can conversations easily be shared on social media platforms for the purposes of promotion or community engagement?
 - **User profiles:** Is it easy to tell who is participating in the conversation and what their roles are on the project?
