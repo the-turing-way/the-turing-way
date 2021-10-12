@@ -2769,6 +2769,15 @@
         "translation",
         "review"
       ]
+    },
+    {
+      "login": "Lion-admin",
+      "name": "Lion-admin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72327875?v=4",
+      "profile": "https://github.com/Lion-admin",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
