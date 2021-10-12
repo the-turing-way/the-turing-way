@@ -2778,6 +2778,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "raptorchief",
+      "name": "raptorchief",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55805992?v=4",
+      "profile": "https://github.com/raptorchief",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
