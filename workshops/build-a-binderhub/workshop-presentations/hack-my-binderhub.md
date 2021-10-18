@@ -72,7 +72,7 @@ There a number of options for contribution:
     - View public **Binder [documentation](https://mybinder.readthedocs.io/en/latest/)**
 - **The BinderHub [discussion board](https://discourse.jupyter.org/c/binder/binderhub)** in the Jupyter forum.
 
-- **The Turing Way *Build a Binderhub* [workshop materials](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/build-a-binderhub)** (as a last resort)
+- **The Turing Way *Build a Binderhub* [workshop materials](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/build-a-binderhub)** (as a last resort)
 
 
 ***
@@ -83,7 +83,7 @@ There a number of options for contribution:
 The starting point for any contribution to a community should be the community code of conduct.
 
 - The Jupyter Project [Code of Conduct](https://github.com/jupyter/governance/blob/master/conduct/code_of_conduct.md)
-- The Turing Way [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md)
+- The Turing Way [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md)
 
 <br>
 

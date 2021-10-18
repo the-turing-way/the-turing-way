@@ -102,10 +102,10 @@ You can see the template document: https://hackmd.io/@turingway/template-bookdas
 -  Continuous Integration Services: **Batool Almarzouq (Saudi Arabia) and Brigitta Sipőcz (USA)** together designed a subchapter on GitHub actions that will be added to the Continuous Integration chapter in the Guide for Reproducible Research ([PR #1588](https://github.com/alan-turing-institute/the-turing-way/pull/1588) and [#1558](https://github.com/alan-turing-institute/the-turing-way/pull/1558)). 
 -  *Translation Process*:
     -  Batool managed to translate the README file in Arabic ([PR #1586](https://github.com/alan-turing-institute/the-turing-way/pull/1586)).
-    -  **Samuel Guay (Canada)** started to work on different aspects of translation, set up the Transifex files for the French translation, reviewed the [README-French.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/README-translated/README-French.md) and suggested the hypothes.is for web annotation to merge into the GitHub repository.
+    -  **Samuel Guay (Canada)** started to work on different aspects of translation, set up the Transifex files for the French translation, reviewed the [README-French.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/README-translated/README-French.md) and suggested the hypothes.is for web annotation to merge into the GitHub repository.
     -  **Marilina Santero (Spain)** translated our promotional materials in Spanish, submitted an abstract for PyDay Chile 2020 event to present a talk about _The Turing way_ and after the Book Dash presented the talk. See the slides on Zenodo ([https://zenodo.org/record/4300282](https://zenodo.org/record/4300282))
 -  *Book's Accessibility*: **Paul Owoicho (UK), Neha Moopen (The Netherlands) and Emma Karoune (UK)** worked on book’s accessibility aspects that included a chapter on maintaining consistency, a chapter on GitHub for beginners, compiling glossary terms and designing templates to facilitate future contributions.
-    - Especially, Paul worked on many of his goals from [Google Season of Doc](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/GSOD-applications/GSoD-2020-Project-Report.md).
+    - Especially, Paul worked on many of his goals from [Google Season of Doc](https://github.com/alan-turing-institute/the-turing-way/blob/main/communications/GSOD-applications/GSoD-2020-Project-Report.md).
     -  Paul and Neha completed the chapter on [Maintaining Consistency in the book](https://the-turing-way.netlify.app/community-handbook/consistency.html) and developed a series of [templates for new authors](https://the-turing-way.netlify.app/community-handbook/contributing.html).
     -  Emma edited a chapter on [Getting Started with Github](https://the-turing-way.netlify.app/collaboration/github-novice.html) and populated the [Glossary page](https://the-turing-way.netlify.app/afterword/glossary.html) located in the Afterword of the book.
 -  *Individual Projects*:
@@ -197,7 +197,7 @@ Each of them was able to bring their personal strengths and skills into this eve
 
 ### Attend online Collaboration Cafes and coworking calls
 
-Our [online Collaboration Cafes](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md) take place every first and second Wednesdays from 15:00 to 19:00 GMT. 
+Our [online Collaboration Cafes](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md) take place every first and second Wednesdays from 15:00 to 19:00 GMT. 
 Everyone interested in learning from or developing this project can join us for any duration possible for them.
 See details here: [https://hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
 Every week we host two 1-hour long co-working calls, on Mondays and Thursdays from 11:00 to 12:00 GMT.

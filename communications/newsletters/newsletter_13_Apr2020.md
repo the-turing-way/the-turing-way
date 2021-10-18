@@ -29,7 +29,7 @@ Find more news and fantastic work from our community below. 👇
 We continue to hold our co-working hours through collaboration workshop on the first and third Wednesdays of each month.
 The next Collaboration Cafe is today, 15 April 2020, at 19:00 BST ([check your local time](https://arewemeetingyet.com/London/2020-04-15/19:00/TuringWay-CollaborationCafe)).
 
-We have announced the dates till Jun [on our repository](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md).
+We have announced the dates till Jun [on our repository](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md).
 Sign up on the [collaborative HackMD notes](https://hackmd.io/sTZZwnYdS3umVWHHHLc6Mw) to let us know that you will join us on the call.
 
 ### Want to see more opportunities to work together?
@@ -97,9 +97,9 @@ You can also read [this post](https://sgibson91.github.io/cross-stitch-carpentry
 
 If you are new to GitHub or _The Turing Way_, or both, here are a few resources to orient yourself with our project repository:
 
-* Start by reading our [contribution guideline](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md), that lists the different pathways for the new and existing contributors to interact with this project.
+* Start by reading our [contribution guideline](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md), that lists the different pathways for the new and existing contributors to interact with this project.
 * [GitHub issues](https://github.com/alan-turing-institute/the-turing-way/issues) are opened by different contributors on the topics they are interested in discussing, fixing or working on in the future.
-* You can browse these issues by labels (see [contributing through GitHub section](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#contributing-through-github)) and participate in a conversation by adding your comment under the respective issues. 
+* You can browse these issues by labels (see [contributing through GitHub section](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#contributing-through-github)) and participate in a conversation by adding your comment under the respective issues. 
 * We have [good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to help our new contributors start by contributing little because every little bit helps.
 * You can open a new issue on a topic where you would like to gather feedback from others.
 * You are invited to introduce yourself to others on [our Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way), or reach out to Malvika, _The Turing Way's_ community manager, by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
