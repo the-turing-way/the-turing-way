@@ -1,4 +1,4 @@
-<a href="https://the-turing-way.netlify.app/welcome.html"><img src="book/website/figures/logo/logo.jpg?raw=true)" width="180" align="Right" /></a>
+<a href="https://the-turing-way.netlify.app/welcome.html"><img src="../book/website/figures/logo/logo.jpg?raw=true)" width="180" align="Right" /></a>
 
 # _The Turing Way_
 
@@ -110,7 +110,7 @@ If you have any questions please [get in touch](#get-in-touch).
 
 ### Citing _The Turing Way_ Illustrations
 <p align="center">
-  <img src="book/website/figures/evolution-open-research.jpg" alt="This is an example of one of The Turing Way illustrations. It tries to shows the evolution towards an open science era" width="600">
+  <img src="../book/website/figures/evolution-open-research.jpg" alt="This is an example of one of The Turing Way illustrations. It tries to shows the evolution towards an open science era" width="600">
 </p>
 
 _The Turing Way_ illustrations are created by artists from [Scriberia](https://www.scriberia.co.uk/) as part of [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) in Manchester on 17 May 2019, London on 28 May 2019 and 21 February 2020, and online on 27th November 2020 and 28th May 2021.
