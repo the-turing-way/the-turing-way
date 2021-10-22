@@ -2,9 +2,9 @@
 
 # _The Turing Way_
 
->_This README.md file in also available in Dutch ([README-Dutch](README-translated/README-Dutch.md)), French ([README-French.md](README-translated/README-French.md)), German ([README-German.md](README-translated/README-German.md)), Indonesian ([README-Indonesian](README-translated/README-Indonesian.md)), Italian ([README-Italian](README-translated/README-Italian.md)), Korean ([README-Korean](README-translated/README-Korean.md)), Portuguese ([README-Portuguese](README-translated/README-Portuguese.md)), and Spanish ([README-Spanish](README-translated/README-Spanish.md)) (listed alphabetically)._
+>_Questo file README.md è disponibile anche in Coreano ([README-Korean](../README-translated/README-Korean.md)), Francese ([README-French.md](../README-translated/README-French.md)), Indonesiano ([README-Indonesian](../README-translated/README-Indonesian.md)), Inglese ([Readme.md](../Readme.md)), Olandese ([README-Dutch](../README-translated/README-Dutch.md)), Portoghese ([README-Portuguese](../README-translated/README-Portuguese.md)), Spagnolo ([README-Spanish](../README-translated/README-Spanish.md)), e Tedesco ([README-German.md](../README-translated/README-German.md)) (listed alphabetically)._
 
-*Total Contributors:*
+*Collaboratori totali:*
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-292-orange.svg)](#contributors)
@@ -18,20 +18,20 @@
 | **Build** | [![Netlify build](https://github.com/alan-turing-institute/the-turing-way/workflows/CI/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ACI+branch%3Amaster) [![Latin Phrases](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amaster) [![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amaster) [![Check for Lorem Ipsums](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amaster) |
 | **Cite** |  [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) |
 
-*Welcome to The Turing Way project GitHub repository. This is where all the components of the project are developed, reviewed and maintained.*
+*Benvenuto nella repository Github del progetto The Turing Way. Qui è dve tutti i componenti del progetto vengono sviluppati, rivisti e mantenuti.*
 
-_The Turing Way_ is a handbook to reproducible, ethical and collaborative data science.
-We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone.
-Our goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need at the start of their projects to ensure that they are easy to reproduce at the end.
+_The Turing Way_ è una guida alla riproducibilità, etica e collaborazione nella data science.
+Coinvolgiamo e supportiamo una comunità eterogenea di collaboratori per rendere la data science accessibile, comprensible ed efficace per tutti.
+Il nostro obiettivo è di fornire tutte le informazioni che i ricercatori e i data scientist nelle accademie, nelle industrie e nel settore pubblico hanno bisogno al principio dei loro progetti per assicurarsi che alla fine essi siano facilmente riproducibili.
 
-[![The Turing Way project is a book, community, an open-source project and a culture of collaboration. This is shown in four illustrations, the first one showing the Turing Way book, the second showing how the community can grow, the third one showing two people collaborating on a pull request, the last one is showing a balance where reproducibility is valued more than the number of papers published](book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
+[![Il progetto The Turing Way è un libro, una community, un progetto open-source e una cultura di collaborazione. Tutto ciò è mostrato in quattro illustrazioni, la prima mostra il libro The Turing Way, la seconda mostra come la community può crescere, la terza presenta due persone che collaborano as una pull request, l'ultima espone un equilibrio dove la riproducibilità è valutata maggiormente del numero di articoli pubblicati](book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
 
-*The Turing Way is a book, a community and a global collaboration.*
+*The Turing Way libro, una community e una collaborazione globale.*
 
-All stakeholders, including students, researchers, software engineers, project leaders and funding teams, are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
-You can read the book [online](https://the-turing-way.netlify.app), contribute to the project as described in our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
+Tutte le parti interessate, includsi studenti, ricercatori, ingegneri del software, project leaders e team di finanziamento, sono incoraggiati ad utilizzare _The Turing Way_ per capire i loro ruoli e le loto responsabilità nella riproducibilità della data science.
+Puoi leggere il libro [online](https://the-turing-way.netlify.app), contribuire al progetto come descritto nelle [linee guida alla collaborazione](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) e riutilizzare tutti i materiali ([guarda la Licenza](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
 
-[![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
+[![Screenshot del libro online The Turing Way. Mostra anche una delle illustrazioni de The Turing Way all'inizio del libro. In questa illustrazione, c'è una strada o percorso con dei negozi per diverse skill nel campo della data science. Le persone possono entrare ed uscire con il loro carrello della spesa e scegliere accuratamente cosa hanno bisogno.](book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
 
 *Screenshot of The Turing Way online book ([use this image in a presentation](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
 
