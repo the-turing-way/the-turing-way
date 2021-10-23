@@ -24,14 +24,14 @@ _The Turing Way_ è una guida alla riproducibilità, etica e collaborazione nell
 Coinvolgiamo e supportiamo una comunità eterogenea di collaboratori per rendere la data science accessibile, comprensible ed efficace per tutti.
 Il nostro obiettivo è di fornire tutte le informazioni che i ricercatori e i data scientist nelle accademie, nelle industrie e nel settore pubblico hanno bisogno al principio dei loro progetti per assicurarsi che alla fine essi siano facilmente riproducibili.
 
-[![Il progetto The Turing Way è un libro, una community, un progetto open-source e una cultura di collaborazione. Tutto ciò è mostrato in quattro illustrazioni, la prima mostra il libro The Turing Way, la seconda mostra come la community può crescere, la terza presenta due persone che collaborano as una pull request, l'ultima espone un equilibrio dove la riproducibilità è valutata maggiormente del numero di articoli pubblicati](book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
+[![Il progetto The Turing Way è un libro, una community, un progetto open-source e una cultura di collaborazione. Tutto ciò è mostrato in quattro illustrazioni, la prima mostra il libro The Turing Way, la seconda mostra come la community può crescere, la terza presenta due persone che collaborano as una pull request, l'ultima espone un equilibrio dove la riproducibilità è valutata maggiormente del numero di articoli pubblicati](../book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
 
 *The Turing Way libro, una community e una collaborazione globale.*
 
 Tutte le parti interessate, includsi studenti, ricercatori, ingegneri del software, project leaders e team di finanziamento, sono incoraggiati ad utilizzare _The Turing Way_ per capire i loro ruoli e le loto responsabilità nella riproducibilità della data science.
 Puoi leggere il libro [online](https://the-turing-way.netlify.app), contribuire al progetto come descritto nelle [linee guida alla collaborazione](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) e riutilizzare tutti i materiali ([guarda la Licenza](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
 
-[![Screenshot del libro online The Turing Way. Mostra anche una delle illustrazioni de The Turing Way all'inizio del libro. In questa illustrazione, c'è una strada o percorso con dei negozi per diverse skill nel campo della data science. Le persone possono entrare ed uscire con il loro carrello della spesa e scegliere accuratamente cosa hanno bisogno.](book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
+[![Screenshot del libro online The Turing Way. Mostra anche una delle illustrazioni de The Turing Way all'inizio del libro. In questa illustrazione, c'è una strada o percorso con dei negozi per diverse skill nel campo della data science. Le persone possono entrare ed uscire con il loro carrello della spesa e scegliere accuratamente cosa hanno bisogno.](../book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
 
 *Screenshot del libro online The Turing Way ([usa l'immagine in una presentazione](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
 
@@ -87,9 +87,7 @@ Per questo mettiamo a disposizione diversi punti di partenza per la collaborazio
 
 *I contributi includono lo sviluppo e la condivisione di nuovi capitoli; la manutenzione e le migliorie dei capitoli esistenti; la condivisione di risorse legate a _The Turing Way_; reevisioni e aggior di materiale prodotto in precedenza; la traduzione dei capitoli per aiutare a rendere questo progetto totalmente accessibile, e condividere la buona prassi nella ricerca.*
 
-Ai membri della community è data l'opportunità di imparare nuove skill, condividere le loro idee e collaborare con gli altri.
-
-Inoltre vengono loro fornite opportunità di tutoraggio nel contribuire a _The Turing Way_ o altri progeti open source e sono spronati a guidare i nuovi partecipanti del progetto.
+Ai membri della community è data l'opportunità di imparare nuove skill, condividere le loro idee e collaborare con gli altri. Inoltre vengono loro fornite opportunità di tutoraggio nel contribuire a _The Turing Way_ o altri progeti open source e sono spronati a guidare i nuovi partecipanti del progetto.
 
 Abbiamo realizzato un [pacchetto](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) per aiutarti a presentare e condividere _The Turing Way_ nella tua rete.
 
