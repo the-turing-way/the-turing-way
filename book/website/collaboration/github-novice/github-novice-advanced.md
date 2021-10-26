@@ -21,6 +21,6 @@ Here is a link to why you might want to use [Open Science Framework](https://www
 
 ### Code/repository publications
 Making your code citeable is an important part of open science.
-Several platforms are well integrated with GitHub, reducing friction for creating versioned releases and publishing peer-reviewed software.
+Several platforms are well integrated with GitHub, reducing friction for creating versioned releases and publishing peer-reviewed research software.
 - [Zenodo](https://zenodo.org/) allows you to easily (and automatically, once you've set it up and linked it to your repository) create version-specific and tool-concept level digital object identifiers (DOIs). This makes it easier for you and your users to cite your software, including the version used in a workflow, with unique DOIs.
 - [Journal of Open Source Software (JOSS)](https://joss.theoj.org/) is an open access, peer-reviewed journal for publishing research software packages. Document the effort involved in developing robust software (including testing and documentation) with a peer-reviewed publication.
