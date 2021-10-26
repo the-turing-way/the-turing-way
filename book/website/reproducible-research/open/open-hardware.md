@@ -1,7 +1,7 @@
 (rr-open-hardware)=
 # Open Hardware
 
-"Open hardware", or "open source hardware", refers to the design specifications of a physical object that are licenced in such a way that said object can be studied, modified, created, and distributed by anyone.
+"Open hardware", or "open source hardware" [{term}`def<Open Source Hardware>`], refers to the design specifications of a physical object that are licenced in such a way that said object can be studied, modified, created, and distributed by anyone.
 Like open source software, the "source code" for open hardware - schematics, blueprints, logic designs, Computer Aided Design (CAD) drawings or files, and the like, is available for modification or enhancement by anyone.
 Users with access to the tools that can read and manipulate these source files can update and improve the physical device and the code that underlies it, and, if they wish, proceed to share such modifications.
 
