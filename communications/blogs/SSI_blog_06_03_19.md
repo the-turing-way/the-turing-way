@@ -8,15 +8,15 @@ By [Becky Arnold](https://software.ac.uk/about/fellows/becky-arnold?_ga=2.183212
 - Case studies of reproducible research
 - Workshops teaching researchers and RSEs to use tools to make their work more reproducible
 
-If you want to be kept up to date with the project’s progress, you can [sign up](https://tinyletter.com/TuringWay) to the project’s newsletter. Myself and a lot of the [team](https://github.com/alan-turing-institute/the-turing-way/blob/master/ways_of_working.md) will also be at the [Collaborations Workshop](https://www.software.ac.uk/cw19) 2019 to discuss the project if you’re there and want to chat.
+If you want to be kept up to date with the project’s progress, you can [sign up](https://tinyletter.com/TuringWay) to the project’s newsletter. Myself and a lot of the [team](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) will also be at the [Collaborations Workshop](https://www.software.ac.uk/cw19) 2019 to discuss the project if you’re there and want to chat.
 
 ## A Curated, Open Textbook
 
 There are a lot of fantastic open source resources available providing tutorials and discussions related to practically every facet of reproducible research. However these materials are not centralised or integrated, but scattered across the web. The goal of the textbook is not to spend time reinventing the wheel by writing more, but to synthesise materials that already exist into the form of an open-source textbook covering topics such as
 
-- Why research reproducibility matters and how to define it ([ready for community feedback](https://github.com/alan-turing-institute/the-turing-way/blob/master/chapters/reproducibility.md))
-- Version control ([ready for community feedback](https://github.com/alan-turing-institute/the-turing-way/blob/master/chapters/version_control.md))
-- Open research ([ready for community feedback](https://github.com/alan-turing-institute/the-turing-way/blob/master/chapters/open_research.md))
+- Why research reproducibility matters and how to define it ([ready for community feedback](https://github.com/alan-turing-institute/the-turing-way/blob/main/chapters/reproducibility.md))
+- Version control ([ready for community feedback](https://github.com/alan-turing-institute/the-turing-way/blob/main/chapters/version_control.md))
+- Open research ([ready for community feedback](https://github.com/alan-turing-institute/the-turing-way/blob/main/chapters/open_research.md))
 - Sustainable research data management (in progress)
 - Testing (in progress)
 - Reproducible computational environments (in progress)
@@ -61,7 +61,7 @@ This workshop is geared towards Research Software Engineers and IT staff who are
 
 ## See you soon
 
-Working on this project had been fascinating, and it's been a great excuse to set aside time to learn more about a whole host of topics. It’s also given me the opportunity to work with a lot of fantastic [people](https://github.com/alan-turing-institute/the-turing-way/blob/master/humans.md). I hope to see you in the future on [GitHub](https://github.com/alan-turing-institute/the-turing-way) if you have the time to contribute to the project, or even just saying hello in our [gitter chat room](https://gitter.im/alan-turing-institute/the-turing-way).
+Working on this project had been fascinating, and it's been a great excuse to set aside time to learn more about a whole host of topics. It’s also given me the opportunity to work with a lot of fantastic [people](https://github.com/alan-turing-institute/the-turing-way/blob/main/humans.md). I hope to see you in the future on [GitHub](https://github.com/alan-turing-institute/the-turing-way) if you have the time to contribute to the project, or even just saying hello in our [gitter chat room](https://gitter.im/alan-turing-institute/the-turing-way).
 
 
 Useful links:

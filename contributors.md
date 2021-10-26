@@ -4,7 +4,7 @@
 
 Contributions to _The Turing Way_ may include but are not limited to, bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
 We recognise all these contributions and acknowledge our community members fairly.
-For example, using [all contributors bot](https://allcontributors.org) we update the contributors table with each person's name, where the emoji keys indicate the different tasks they have done (see the [README file](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md#contributors)).
+For example, using [all contributors bot](https://allcontributors.org) we update the contributors table with each person's name, where the emoji keys indicate the different tasks they have done (see the [README file](https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md#contributors)).
 We understand that different contributions mean different things to people and may translate differently towards their personal interest, skill development, value exchange and advancement of their careers.
 Therefore, we also offer the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/contributors.md) file as a dedicated location to capture personal highlights from _The Turing Way_ community members.
 
@@ -340,7 +340,7 @@ I would like to be a part of it.
 
 ### Ismael Kherroubi Garcia
 
-* Role: Core contributor (2020), [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring), Book Dash November 2020 Attendee
+* Role: Core contributor (2020), [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring), Book Dash November 2020 Attendee
 * GitHub id: [Ismael-KG](https://github.com/Ismael-KG)
 * Short bio:
 > I'm Ethics Research Assistant at the Alan Turing Institute.
@@ -407,7 +407,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Laura Carter
 
-* Role: [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring), Book Dash November 2020 Attendee
+* Role: [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring), Book Dash November 2020 Attendee
 * GitHub id: [Laura Carter](https://github.com/LauraCarter)
 * ORCID: [0000-0002-4285-1140](https://orcid.org/0000-0002-4285-1140)
 * Short bio:
@@ -606,7 +606,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Paul Owoicho
 
-* Role: Google Season of Doc: Technical Writer, [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring)(2020)
+* Role: Google Season of Doc: Technical Writer, [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring)(2020)
 * GitHub id: [paulowoicho](http://github.com/paulowoicho)
 * ORCID: TBA
 * Short bio:
@@ -618,7 +618,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > The Turing Way is my first foray into open source and has been a fantastic learning experience.
 > Not only have I gained a deeper understanding and appreciation for how GitHub works, but I am also learning to prioritise sustainability and empowerment in the work that I do.
 > Although The Turing Way is my first open source project, I thoroughly enjoyed the experience and learned a lot along the way. Before the GSoD program, I only used Github to 'store' my projects. Now, I am much more proficient at using Github for collaborative endeavours and I am more adept at working with tools such as Markdown, Jupyter Book, and Sphinx. In addition, I gained familiarity with setting up and working with web analytics software.
-> You can see the full report from GSoD participation [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/GSOD-applications/GSoD-2020-Project-Report.md).
+> You can see the full report from GSoD participation [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/communications/GSOD-applications/GSoD-2020-Project-Report.md).
 > The BookDash November 2020 was great! It was awesome to meet, collaborate, and share ideas with people from around the world. Beyond the Book Dash, The Turing Way is the very first open-source project I have ever worked on. The experience has been fantastic, and I intend to stick around as a contributor after the Google Season of Docs program ends. I also see myself getting involved in other open-source projects.
 
 * Personal Quote:
@@ -710,7 +710,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Sophia Batchelor
 
-* Role: HacktoberFest contribution facilitator, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring) (2020), Book Dash November 2020 Attendee
+* Role: HacktoberFest contribution facilitator, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring) (2020), Book Dash November 2020 Attendee
 * GitHub id: [BrainonSilicon](https://github.com/BrainonSilicon)
 * ORCID: [0000-0002-8572-2058](https://orcid.org/0000-0002-8572-2058)
 * Short bio:

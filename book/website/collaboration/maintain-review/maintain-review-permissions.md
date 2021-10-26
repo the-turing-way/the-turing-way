@@ -12,7 +12,7 @@ In Github, there are five levels of permissions: read, triage, write, maintain, 
 * Maintain permission is for project managers but have no access to sensitive or destructive actions (such as project deletion).
 * Admins are people who have full access to the project, including sensitive and destructive actions, and are responsible for granting permission to make other contributors.
 
-These roles are often defined in a project file such as a [CODEOWNERS file](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners) or a Ways of Working file (see _The Turing Way_'s [Ways of Working](https://github.com/alan-turing-institute/the-turing-way/blob/master/ways_of_working.md) as an example).
+These roles are often defined in a project file such as a [CODEOWNERS file](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners) or a Ways of Working file (see _The Turing Way_'s [Ways of Working](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) as an example).
 These files provide insight into the core project team and members responsible for maintenance roles in the project.
 
 In this chapter, anyone with triage, write and maintain permission is referred to as maintainers.

@@ -27,7 +27,7 @@ In this document, we have listed some guidelines to maintain consistency across 
     - The project name, _The Turing Way_, should be italicised.
     - Use line breaks for each line consistent with _The Turing Way_ writing format.
     - Leave at least one line space after each section and subsection.
-- **Language and tone**: Keep the overall language simple and jargon-free, see [_The Turing Way_ style guide](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#style-guide) for reference.
+- **Language and tone**: Keep the overall language simple and jargon-free, see [_The Turing Way_ style guide](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#style-guide) for reference.
     - The tone should be welcoming, friendly and preferably informal.
     This can be personal to the author's writing style.
     - Ask more than one person to review your draft to make sure that its content is easy to understand and written clearly.
@@ -47,4 +47,4 @@ In this document, we have listed some guidelines to maintain consistency across 
     - Below the image, write a short descriptive title for the image followed by an empty line.
     Link title to the source such as a tweet or related event.
     - When using multiple images as panels in one collective image, number each image clearly (this can be done in any photo or text editor) and provide a numbered title for each image.
-    See an example [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/newsletter_14_May2020.md#tweets-from-the-community).
+    See an example [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/communications/newsletters/newsletter_14_May2020.md#tweets-from-the-community).
