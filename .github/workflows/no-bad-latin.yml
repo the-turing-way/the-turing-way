@@ -3,17 +3,17 @@ name: Check for Latin Phrases
 
 # Decide when to run the tests
 #
-# This configuration sets the test to run on pushes to master
-# and on pull requests that are opened to master
+# This configuration sets the test to run on pushes to main
+# and on pull requests that are opened to main
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - "book/**"
   pull_request:
     branches:
-      - master
+      - main
     paths:
       - "book/**"
 
@@ -41,7 +41,7 @@ jobs:
     # Run a Python script
     - name: Run Python script to check for latin phrases - Master
       working-directory: ./tests
-      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
       run: |
         python no-bad-latin.py
 

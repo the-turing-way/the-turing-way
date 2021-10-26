@@ -115,7 +115,7 @@ Se você possuir alguma dúvida, [entre em contato](#entre-em-contato).
   <img src="book/website/figures/evolution-open-research.jpg" alt="Este é um exemplo de uma das ilustrações de The Turing Way. Tenta mostrar a evolução para uma era de ciência aberta" width="600">
 </p>
 
-As ilustrações do _The Turing Way_ são criadas por artistas da [Scriberia](https://www.scriberia.co.uk/) como parte do [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) em Manchester em 17 de maio de 2019 e em Londres em 28 de maio de 2019 e 21 de fevereiro de 2020.  
+As ilustrações do _The Turing Way_ são criadas por artistas da [Scriberia](https://www.scriberia.co.uk/) como parte do [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/book-dash) em Manchester em 17 de maio de 2019 e em Londres em 28 de maio de 2019 e 21 de fevereiro de 2020.  
 Eles descrevem uma variedade de conteúdo do manual, esforços colaborativos na comunidade e o projeto _The Turing Way_ em geral.  
 Essas ilustrações estão disponíveis no Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) sob uma licença CC-BY.
 
