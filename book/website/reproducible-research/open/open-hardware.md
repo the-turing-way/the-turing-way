@@ -99,7 +99,7 @@ If you are planning to open source a particular piece of hardware, following cer
 
 ### Hosting Your Design Files
 
-A basic way of sharing your files is with a zip file on your website.
+A primary way of sharing your files is with a zip file on your website.
 While this is a great start, it makes it difficult for others to follow your progress or to contribute improvements.
 Using an online source-code repository (like GitHub, GitLab, or NotaBug) may be a better place to store your open source hardware projects.
 
