@@ -5,7 +5,9 @@
 
 In this guide, we compile best practices and guidance for designing research projects by including different aspects of project management and (iterative) development practices derived from academia and industry.
 
-The first step before starting a project is to define scope. Researchers should start by identifying the main questions they aim to address through their work. Scope definition also includes defining the project goals, possible outcomes, resources requirements, people involved (collaborators, users and target audience) and possible constraints.
+Before starting a project, researchers much define the prpject's scope. 
+Researchers should start by identifying the main questions they aim to address through their work. Scope definition also includes defining the project goals, possible outcomes, resources requirements, people involved (collaborators, users and target audience) and possible constraints.
+
 Researchers can then proceed to identify the expected minimum viable product of their project, synergies with other projects (similarities as well as differences), measure(s) of success, and the overall impact they hope to achieve.
 After these crucial questions are addressed, planning can focus on the operational aspects of the project, including ensuring that the project is usable and compliant with appropriate external guidelines (for instance, ethics requirements and regulatory limitations). 
 
