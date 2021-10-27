@@ -58,7 +58,7 @@ Recommended structure for chapters in The Turing Way.
 References to these files should be updated in the table of contents in the `_toc.yml` file.
 ```
 
-Refer to the [chapter template](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/templates/chapter-template) to structure new chapter contributions, and use it to assess current chapters in _The Turing Way_.
+Refer to the [chapter template](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/templates/chapter-template) to structure new chapter contributions, and use it to assess current chapters in _The Turing Way_.
 For chapters that do not fit this structure, please raise a Pull Request.
 
 

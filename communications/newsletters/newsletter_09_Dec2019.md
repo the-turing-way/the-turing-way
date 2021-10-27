@@ -35,7 +35,7 @@ We are accepting applications for the next _Turing Way_ Book Dash 📚💨💨 w
 
 The main aim of this event is to facilitate in-person collaboration and content building of _The Turing Way_ book on topics related to data science, project design, reproducibility, ethics and how to collaborate.
 
-You can read the reports from the events in [Manchester](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-mcr-report.md) and [London](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-ldn-report.md) in May 2019 for more information.
+You can read the reports from the events in [Manchester](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/book-dash/book-dash-mcr-report.md) and [London](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/book-dash/book-dash-ldn-report.md) in May 2019 for more information.
 
 ![Two pictures both of groups of smiling people](images/BookDash-Combo-Dec2019.png)
 
@@ -45,7 +45,7 @@ Deadlines for applications is **16 January 2019** [Anywhere on Earth](https://en
 These events are most successful when we bring together a diverse group of people.
 (You could also suggest that they [sign up for this newsletter](https://tinyletter.com/TuringWay) too 😉)
 
-If you have any questions we're very happy to answer them in the [collaboration cafes](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md) on 18 December and 15 January, or in the _Turing Way_ [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
+If you have any questions we're very happy to answer them in the [collaboration cafes](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md) on 18 December and 15 January, or in the _Turing Way_ [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
 
 
 ## News from the community
@@ -111,9 +111,9 @@ Within one month of its launch, three chapters were added in the handbook, contr
 
 In the next few months, three workshops were successfully conducted on reproducibility with Binder and BinderHub, and the [_The Turing Way_ handbook](https://software.ac.uk/blog/2019-02-21-inspiring-demos-are-waiting-you-collaborations-workshop-2019) was launched and demo-ed at the [Software Sustainability Institute's Collaborations Workshop](https://www.software.ac.uk/cw19) in Loughborough.
 
-Two book-dash events were organised in [Manchester on 16-17 May](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-mcr-report.md) and [London on 27-28 May](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-ldn-report.md), which were attended by 26 new members who came together to exchange their skills with others through the project by reviewing existing chapters and creating new chapters.
+Two book-dash events were organised in [Manchester on 16-17 May](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/book-dash/book-dash-mcr-report.md) and [London on 27-28 May](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/book-dash/book-dash-ldn-report.md), which were attended by 26 new members who came together to exchange their skills with others through the project by reviewing existing chapters and creating new chapters.
 
-[Collaboration Cafes](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md), an online meeting series, started in September, with a goal of facilitating contributions from around the world.
+[Collaboration Cafes](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md), an online meeting series, started in September, with a goal of facilitating contributions from around the world.
 You can see recordings of the Collaboration Cafes at the _Turing Way_'s [YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).
 The last one this year will take place on 18 December 2019 at 19:00 UK time.
 

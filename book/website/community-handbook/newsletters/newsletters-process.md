@@ -111,7 +111,7 @@ Here are the steps for publishing the newsletter draft online and send by email 
 
  **It's published, now what?**
 
-- Update the index table in the [README.md file](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/newsletters/README.md) with the details of the newly published newsletter.
+- Update the index table in the [README.md file](https://github.com/alan-turing-institute/the-turing-way/blob/main/communications/newsletters/README.md) with the details of the newly published newsletter.
 - Tweet about it from [@turingway](https://twitter.com/turingway).
 - Send a notification on [Gitter](https://gitter.im/alan-turing-institute/the-turing-way) and [Slack](https://theturingway.slack.com) channels.
 - Do a celebratory dance! (This is mandatory! 💃)

@@ -43,12 +43,17 @@ Questi capitoli sono stati scritti a più mani da collaboratori quali studenti, 
 
 **Indice:**
 
-- [Il Progetto](#il-progetto)
-- [Il Team](#il-team)
-- [Come Contribuire](#come-contribuire)
-- [Citare _The Turing Way_](#citare-the-turing-way)
-- [Contatti](#contatti)
-- [Collaboratori](#collaboratori)
+- [_The Turing Way_](#the-turing-way)
+    - [Il Progetto](#il-progetto)
+    - [Il Team](#il-team)
+    - [Come Contribuire](#come-contribuire)
+    - [Citare _The Turing Way_](#citare-the-turing-way)
+    - [Citare le immagini di _The Turing Way_](#citare-le-immagini-di-the-turing-way)
+    - [Contatti](#contatti)
+      - [Email](#email)
+      - [Chat](#chat)
+      - [Resta aggiornato](#resta-aggiornato)
+  - [Collaboratori](#collaboratori)
 
 🎧 Se preferisci un'introduzione uditiva al progetto, il nostro membro del team Rachael è stata relatrice alla [Open Science Fair 2019](https://www.opensciencefair.eu/) in Porto e la sua dimostrazione è stata registrata dall'[Orion podcast](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
 La panoramica su _The Turing Way_ inizia al minuto 5:13.
@@ -540,5 +545,4 @@ Vorremmo ringraziare queste persone meravigliose ([emoji key](https://allcontrib
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Questo progetto segue le specifiche riportate su [all-contributors](https://github.com/all-contributors/all-contributors). 
-Ogni tipo di contributo è gradito!
+Questo progetto segue le specifiche riportate su [all-contributors](https://github.com/all-contributors/all-contributors). Ogni tipo di contributo è gradito!
