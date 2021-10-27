@@ -18,7 +18,7 @@
 | **Build** | [![Netlify build](https://github.com/alan-turing-institute/the-turing-way/workflows/CI/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ACI+branch%3Amaster) [![Latin Phrases](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amaster) [![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amaster) [![Check for Lorem Ipsums](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amaster) |
 | **Cite** |  [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) |
 
-*Benvenuto nella repository Github del progetto The Turing Way. Qui è dove tutte le componenti del progetto vengono sviluppate, riviste e mantenute*
+*Benvenuto nella repository Github del progetto The Turing Way. Qui è dove tutte le componenti del progetto vengono sviluppate, riviste e mantenute.*
 
 _The Turing Way_ è una guida alla riproducibilità, etica e collaborazione nella data science.
 Coinvolgiamo e supportiamo una comunità eterogenea di collaboratori per rendere la data science accessibile, comprensible ed efficace per tutti.
@@ -75,7 +75,7 @@ _The Turing Way_ è un progetto guidato dalla community e basato sulla collabora
 Chiunque contribuisca a questo libro, indipendentemente dall'entità della propria partecipazione, è riconosciuto come collaboratore e membro della comunità del progetto. 
 I collaboratori di lunga data del progetto sono considerati come parte del gruppo dei core contributors che assume diversi ruoli guida nel progetto stesso.
 
-Il progetto è coordinato dai lead investigators **Kirstie Whitaker** (fondatore) e **Malvika Sharan** (sviluppatore della community) ed è ospitato su [The Alan Turing Institute](https://www.turing.ac.uk/).
+Il progetto è coordinato dai lead investigators **Kirstie Whitaker** (fondatrice) e **Malvika Sharan** (sviluppatrice della community) ed è ospitato su [The Alan Turing Institute](https://www.turing.ac.uk/).
 
 Puoi leggere del [processo di riconoscimento di _The Turing Way_](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) e dei [Record dei Contributori](https://the-turing-way.netlify.app/afterword/contributors-record.html) per saperne di più su come riconosciamo il tuo lavoro e come i collaboratori vengono messi in evidenza nel progetto.
 Dai uno sguardo alla [Tabella dei collaboratori](#collaboratori) per i profili GitHub di tutti i nostri collaboratori.
@@ -106,7 +106,7 @@ Come apparirà la citazione:
 > The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. <http://doi.org/10.5281/zenodo.3233986>
 
 Puoi anche condividere una pagina del manuale usando un URL leggibile, per esempio: <https://the-turing-way.netlify.com/reproducibility/03/definitions.html>, ma ricorda che il progetto è in via di sviluppo e perciò i link potrebbero cambiare nel tempo.
-Potresti includere un link del web archive, ad esempio:<https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> per essere sicuro di non ritrovarti ovunque con collegamenti obsoleti (broken links)!
+Potresti includere un link del web archive, ad esempio: <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> per essere sicuro di non ritrovarti ovunque con collegamenti obsoleti (broken links)!
 
 Apprezziamo molto qualsiasi tipo di riferimento al progetto _The Turing Way_ project e speramo ti sia utile.
 Se hai ancora dei dubbi [contattaci](#contatti).
@@ -116,7 +116,7 @@ Se hai ancora dei dubbi [contattaci](#contatti).
   <img src="../book/website/figures/evolution-open-research.jpg" alt="Questo è un esempio di una delle illustrazioni di _The Turing Way_, che prova a mostrare l'evoluzione verso un'era di open science" width="600">
 </p>
 
-Le illustrazioni su The Turing Way sono state create da artisti di Scriberia durante il The Turing Way book dashes a Manchester il 17 maggio 2019, e Londra il 28 maggio 2019 ed il 21 febbraio 2020, ed online il 27 novembre 2020 ed il 28 maggio 2021. Descrivono una varietà di contenuti: dal manuale, agli sforzi di collaborazione della community, fino al progetto The Turing Way in generale.
+Le illustrazioni su The Turing Way sono state create da artisti di [Scriberia](https://www.scriberia.co.uk/) durante il [The Turing Way book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/book-dash) a Manchester il 17 maggio 2019, e Londra il 28 maggio 2019 ed il 21 febbraio 2020, ed online il 27 novembre 2020 ed il 28 maggio 2021. Descrivono una varietà di contenuti: dal manuale, agli sforzi di collaborazione della community, fino al progetto The Turing Way in generale.
 
 Le illustrazioni sono disponibili su Zenodo ([https://doi.org/10.5281/zenodo.3332807)](https://doi.org/10.5281/zenodo.3332807) sotto licenza CC-BY.
 
@@ -144,7 +144,7 @@ Puoi anche contattare **Malvika Sharan** tramite questo indirizzo email [msharan
 
 Entra in contatto con altri e discuti le tue idee su Slack usando [questo link d'invito](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw).
 
-Abbiamo anche una chat room itter (se preferisci un'alternativa open source come chat) e saremmo felici se passassi a fare un saluto a <https://gitter.im/alan-turing-institute/the-turing-way>.
+Abbiamo anche una chat room Gitter (se preferisci un'alternativa open source come chat) e saremmo felici se passassi a fare un saluto a <https://gitter.im/alan-turing-institute/the-turing-way>.
 La stanza è accessibile anche con un account [Matrix](https://matrix.org) al [#alan-turing-institute_the-turing-way:gitter.im](https://matrix.to/#/#alan-turing-institute_the-turing-way:gitter.im).
 
 #### Resta aggiornato
