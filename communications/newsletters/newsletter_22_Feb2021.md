@@ -37,7 +37,7 @@ Applications can be submitted via [this Google Form](https://forms.gle/tsMuQSZMp
 The deadline for submission is **15 April 2021**.
 
 The [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) bring together participants to work on *The Turing Way* book synchronously either in person or online. 
-The upcoming book dash will be organised for online participation using the format we developed last year (see an overview [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-nov20-report.md)).
+The upcoming book dash will be organised for online participation using the format we developed last year (see an overview [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/book-dash/book-dash-nov20-report.md)).
 You can find more details in the application form, which will take up to 30 minutes to complete.
 If you are not sure if your idea fits the event, you are welcome to contact Malvika Sharan to discuss it further by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 

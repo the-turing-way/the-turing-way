@@ -3,7 +3,7 @@
 
 *How this will help you/ why this is useful*
 
-As with [testing](#Testing), a key objective of code review is to remove mistakes and bad practice from changes made to a software project before those changes enter the master code base.
+As with [testing](#Testing), a key objective of code review is to remove mistakes and bad practice from changes made to a software project before those changes enter the main code base.
 However, it also has a number of other direct and indirect benefits to projects. These are discussed below.
 
 Code reviews are an effective method for improving software quality. McConnell

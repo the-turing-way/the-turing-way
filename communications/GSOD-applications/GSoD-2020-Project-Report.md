@@ -20,7 +20,7 @@ To address these concerns, my objectives as a GSoD Technical Writer on _The Turi
 
 The project lead, Kirstie Whitaker and community manager, Malvika Sharan from [The Alan Turing Institute, UK](https://www.turing.ac.uk/) were my mentors who supported my GSoD work.
 
-*[Please see our proposal for more details](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/GSOD-applications/GSoD-2020-Project-Proposal.md).*
+*[Please see our proposal for more details](https://github.com/alan-turing-institute/the-turing-way/blob/main/communications/GSOD-applications/GSoD-2020-Project-Proposal.md).*
 
 ## Contribution Overview
 
@@ -63,7 +63,7 @@ The following GitHub pull requests and issues, and online content were developed
 | Designing templates     | [#1507](https://github.com/alan-turing-institute/the-turing-way/pull/1507), [#1571](https://github.com/alan-turing-institute/the-turing-way/pull/1571), [#1601](https://github.com/alan-turing-institute/the-turing-way/pull/1601)     |
 |Writing a contribution workflow Chapter| [#1646](https://github.com/alan-turing-institute/the-turing-way/pull/1646)|
 |Revising existing issue templates | [#1598](https://github.com/alan-turing-institute/the-turing-way/pull/1598) |
-| **PRs merged into online resources** | [Chapter on Templates and Workflow](https://the-turing-way.netlify.app/community-handbook/contributing.html), [Sets of templates](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/templates) |
+| **PRs merged into online resources** | [Chapter on Templates and Workflow](https://the-turing-way.netlify.app/community-handbook/contributing.html), [Sets of templates](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/templates) |
 
 ### 3. Improving the Overall Accessibility of the Online Book
 
@@ -94,7 +94,7 @@ Beyond my GSoD goals, I contributed to _The Turing Way_ project in other ways.
 1. As part of my mentorship in _The Turing Way_, I had the opportunity to join [Open Life Science (OLS)](https://openlifesci.org) mentoring program to gain a practical understanding of open science and leadership that I could integrate into my GSoD project.
 It allowed me to closely work with two members, Neha Moopen (Research Data Manager, Utrecht University, The Netherlands) as my project partner and Samuel Guay (PhD researcher,  University of Montreal, Canada) as our OLS mentor, and interact with international participants working on different open science projects.
     - [Issue on OLS issue tracker](https://github.com/open-life-science/ols-2/issues/25)
-    - [OLS and _The Turing Way_ projects](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring)
+    - [OLS and _The Turing Way_ projects](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring)
 3. Some of Jupyter Book's powerful styling features are underutilised in _The Turing Way_. 
 I co-authored a subchapter in the Style Guide to make contributors aware of those features and use them in their contributions.
     - [GitHub PR #1642](https://github.com/alan-turing-institute/the-turing-way/pull/1642) and [online chapter](https://the-turing-way.netlify.app/community-handbook/style/style-more-styling.html)
