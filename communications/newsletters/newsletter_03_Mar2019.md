@@ -12,12 +12,12 @@ And stay tuned (here's the [sign up page](https://tinyletter.com/TuringWay) for 
 ## Workshops
 We ran three successful workshops in March – many thanks to those who attended!
 
-### [Boost your research reproducibility with Binder](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder)
+### [Boost your research reproducibility with Binder](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/boost-research-reproducibility-binder)
 Our two workshops to boost research reproducibility with Binder in Manchester and London were attended by 30 people.
 We had a great mix of presentations and hands-on exercises and our feedback was really positive.
 Every attendee said they felt confident using Binder to share their work reproducibily!
 
-### [Build a BinderHub](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/build-a-binderhub)
+### [Build a BinderHub](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/build-a-binderhub)
 We hosted the first ever Build a BinderHub workshop in Sheffield on 18 March 2019.
 In addition to learning how to build a BinderHub (and having the most BinderHubs ever in existence in parallel!), participants were introduced to [Mozilla's principles of working openly](http://mozillascience.github.io/working-open-workshop/).
 They practically applied the principles and fed back ideas for new features to the Binder community or enhanced the existing documentation.
@@ -26,7 +26,7 @@ Look at all the fun (and some of the food) we had!
 
 ![](../../figures/TuringWayWorkshops.png)
 
-All workshop materials are available on our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/) and can be re-used to run your own Binder based sessions!
+All workshop materials are available on our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/) and can be re-used to run your own Binder based sessions!
 
 ## Handbook
 Our handbook is shaping up and most of the chapters are written and ready for review.
