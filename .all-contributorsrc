@@ -2814,6 +2814,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "GGn0",
+      "name": "Luigi Scalzone",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44038661?v=4",
+      "profile": "https://github.com/GGn0",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "projectName": "the-turing-way",
