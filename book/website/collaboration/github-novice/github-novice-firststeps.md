@@ -141,7 +141,7 @@ You can see a list of your commits (or your "commit history") by clicking the cl
 
 It is important that all of your work has a license from the very beginning or no one can reuse it. Licenses tell other researchers how they are able to reuse, modify and remix your work.
 No license implies that others are *not* allowed to use your work, even with attribution.
-So it is better to include a license that lets people know what they can and can't do, and how to give you credit for your work.
+So it is better to include a license that lets people know what they can and can't do and how to give you credit for your work.
 
 Depending on your field, much of your work may be documents with only some data or code.
 The standard licenses offered on GitHub are most approriate for software and won’t really be the right kind for documents.
