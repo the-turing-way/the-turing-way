@@ -7,7 +7,7 @@ Now that your repo is set up, you are ready to add more stuff to it and use some
 
 * You can add more files to your repo by clicking the "add file" button and either uploading files or creating a new one.
 * Each time you create a new file or upload files you will need to add a {ref}`commit message`<rr-vcs-commit-messages> to help you remember what changes you made.
-* Note that git (and thus GitHub) do not track folders/directories, so you cannot create an empty folder.
+* Note that git (and thus GitHub) does not track folders/directories, so you cannot create an empty folder.
 
 
 **Create a new folder by adding a new file:**
@@ -30,7 +30,7 @@ If you click on the blue folder symbol, it brings you to the files within that f
   * Here you will find recommended files to include in your repo.
   These files are especially useful when working with collaborators or members in your community.
   * The "License" file is one of the most important, because it tells others how they can (or can't) use the materials in your repo.
-  * For collaboration, be sure to look at "Contributing" and "Description".
+  * For collaborations, be sure to look at "Contributing" and "Description".
   * Whenever possible, add a "Code of conduct" to make your project welcoming and inclusive for others.
 * Other interesting things to look at are “Contributors” (those who contribute to your project), “Traffic” (who and when visits your project page) and “Commits” (a timeline and number of commits made on your project).
 

@@ -18,7 +18,7 @@ Version control is an approach to record changes made in a file or set of files 
 Management of changes or revisions to any types of information made in a file or project is called versioning.
 
 In this chapter, we discuss the best practices that are relevant regardless of tools.
-Versioning practices mainly come from managing changes in the code repositories. 
+Versioning practices mainly come from managing changes in the code repositories.
 However, in reality, you can use version control for nearly any type of file on a computer.
 For example, when writing a paper with multiple collaborators, version control can help track what changed, who changed them, and what updates were made.
 
