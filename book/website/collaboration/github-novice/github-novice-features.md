@@ -32,7 +32,7 @@ If you click on the blue folder symbol, it brings you to the files within that f
   * The "License" file is one of the most important, because it tells others how they can (or can't) use the materials in your repo.
   * For collaborations, be sure to look at "Contributing" and "Description".
   * Whenever possible, add a "Code of conduct" to make your project welcoming and inclusive for others.
-* Other interesting things to look at are “Contributors” (those who contribute to your project), “Traffic” (who and when visits your project page) and “Commits” (a timeline and number of commits made on your project).
+* Other interesting things to look at are “Contributors” (those who contribute to your project), “Traffic” (who visits your project page and when do they do so) and “Commits” (a timeline and number of commits made on your project).
 
 ## Explore the ‘Projects’ features of GitHub
 Project boards on GitHub help you organize and prioritize your work.

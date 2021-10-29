@@ -15,7 +15,7 @@ This resource - [GitHub for collaborative documentation](https://cassgvp.github.
 ## Link this repository with an online platform
 
 ### Open Science Framework
-[Open Science Framework]() is an online platform that enables researchers to link many different tools - such as Dropbox, GitHub and Google workspace - to create a completely open workflow.
+[Open Science Framework](https://osf.io/) is an online platform that enables researchers to link many different tools - such as Dropbox, GitHub and Google workspace - to create a completely open workflow.
 It is like a one-stop shop for all your project work.
 Here is a link to why you might want to use [Open Science Framework](https://www.cos.io/blog/5-ways-to-optimize-your-research-workflow-with-osf).
 
