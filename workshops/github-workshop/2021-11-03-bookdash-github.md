@@ -48,7 +48,7 @@ Name / Institute or affiliation / What specific aspect of GitHub do you find cha
 ### Roll call
 
 - Name / Icebreaker question: Share something from nature that has awed you or brought you peace recently - perhaps a flower, a view, a photo, a scent, a potted plant, a bird that flew past... 
-* 
+* Vicky
 * 
 * 
 * 
