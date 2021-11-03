@@ -232,7 +232,7 @@ This allows other members of _The Turing Way_ team to confirm that you aren't ov
 
 [This blog](https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/) is a nice explanation of why putting this work in upfront is so useful to everyone involved.
 
-Remember, if you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/ISSUE_TEMPLATE/ISSUE_TEMPLATE.md).
+Remember, if you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/ISSUE_TEMPLATE/ISSUE_TEMPLATE.md).
 The issue template will automatically be rendered in the comment section of the new issue page so all you need to do is edit the "_Lorem ipsum_" sections.
 
 ### 2. [Fork][github-fork] [_The Turing Way_ repository][turing-way-repo]
@@ -240,7 +240,7 @@ The issue template will automatically be rendered in the comment section of the 
 This is now your own unique copy of _The Turing Way_.
 Changes here won't affect anyone else's work, so it's a safe space to explore edits to the code!
 
-Make sure to [keep your fork up to date][github-syncfork] with the master repository, otherwise, you can end up with lots of dreaded [merge conflicts][github-mergeconflicts].
+Make sure to [keep your fork up to date][github-syncfork] with the main repository, otherwise, you can end up with lots of dreaded [merge conflicts][github-mergeconflicts].
 If you prefer working in the browser, [these instructions](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser) describe how to sync your fork to the original repository via GitHub.
 
 ### 3. Make the changes you've discussed
@@ -267,7 +267,7 @@ We encourage you to open a pull request as early in your contributing process as
 This allows everyone to see what is currently being worked on.
 It also provides you, the contributor, feedback in real-time from both the community and the continuous integration as you make commits (which will help prevent stuff from breaking).
 
-When you are ready to submit a pull request, you will automatically see the [Pull Request Template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/PULL_REQUEST_TEMPLATE.md) contents in the pull request body.
+When you are ready to submit a pull request, you will automatically see the [Pull Request Template](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/PULL_REQUEST_TEMPLATE.md) contents in the pull request body.
 It asks you to:
 
 - Describe the problem you're trying to fix in the pull request, reference any related issue and use fixes/close to automatically close them, if pertinent.
@@ -304,7 +304,7 @@ GitHub has a [nice introduction][github-flow] to the pull request workflow, but 
 - Fork the repository from [`alan-turing-institute/the-turing-way`](https://github.com/alan-turing-institute/the-turing-way) if you have not done so already.
   - On your fork create a branch with the name as the chapter to be written and create a markdown file on it.
 - If you are a contributor to the project repository, you can also create a branch on the main repository with the same name as the chapter to be written without creating a fork (or a local copy).
-- Copy the relevant part of the [chapter template](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/templates/chapter-template) into the markdown file, and commit.
+- Copy the relevant part of the [chapter template](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/templates/chapter-template) into the markdown file, and commit.
 - Make a pull request to _The Turing Way_ version of the chapter branch.
   The title of this request should have the form "[WIP] Write Chapter_name chapter".
   WIP indicates the chapter is a Work In Progress and not yet ready for review.
@@ -322,7 +322,7 @@ GitHub has a [nice introduction][github-flow] to the pull request workflow, but 
 - Discuss and make low-level changes to the chapter on this pull request, such as rewording sentences, typos and the like.
 - This division of the pull requests into high and low-level changes stops discussion threads from becoming unmanageable.
 - Once this is complete merge the pull request into The Alan Turing Intitute's version of the chapter branch.
-- Merge The Alan Turing Intitute's version of the chapter branch into The Alan Turing Institute's master branch.
+- Merge The Alan Turing Intitute's version of the chapter branch into The Alan Turing Institute's main branch.
 - DO not delete the branch as the chapter may continue to undergo improvement and development in the future.
 
 ## Local development
@@ -355,7 +355,7 @@ You are welcome to contribute to the style guide by opening [a new issue](https:
 ## Representing _The Turing Way_
 
 We would LOVE people to give talks about the project or represent _The Turing Way_ in other ways! 
-We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) for you to reuse.
+We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/main/communications/promotion-pack) for you to reuse.
 You will find useful details about the project, a list of frequently asked questions, slide decks, and contact details.
 
 If you would like to represent the project in your network, please open an issue and ping @malvikasharan and @KirstieJane so
@@ -370,7 +370,7 @@ We welcome and recognise all kinds of contributions, from fixing small errors, t
 In the [community handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html), you can read how your contributions will be acknowledged and recorded in _The Turing Way_.
 _The Turing Way_ follows the [all-contributors][all-contributors] specifications.
 The all-contributors bot usage is described [here](https://allcontributors.org/docs/en/bot/usage).
-You can see a list of current contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md). 😍
+You can see a list of current contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md). 😍
 
 To add yourself or someone else as a contributor, comment on the relevant Issue or Pull Request with the following:
 
@@ -384,14 +384,14 @@ The bot will then create a Pull Request to add the contributor and reply with th
 **PLEASE NOTE: Only one contributor can be added with the bot at a time!**
 Add each contributor in turn, merge the pull request and delete the branch (`all-contributors/add-<username>`) before adding another one.
 Otherwise, you can end up with dreaded [merge conflicts][github-mergeconflicts].
-Therefore, please check the [open pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls) first to make sure there aren't any open requests from the bot before adding another.
+Therefore, please check the open pull requests first to make sure there aren't any [open requests from the bot](https://github.com/alan-turing-institute/the-turing-way/pulls/app%2Fallcontributors) before adding another.
 
 What happens if you accidentally run the bot before the previous run was merged and you got those pesky merge conflicts?
 (Don't feel bad, we have all done it! 🙈)
 Simply close the pull request and delete the branch (`all-contributors/add-<username>`).
 If you are unable to do this for any reason, please let us know in the [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) or by opening an issue, and _The Turing Way_ team members will be very happy to help!
 
-Finally, don't forget to add yourself to the list of contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md)!
+Finally, don't forget to add yourself to the list of contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md)!
 
 ---
 
@@ -410,7 +410,7 @@ _These Contributing Guidelines have been adapted from the [Contributing Guidelin
 [github-pullrequest]: https://help.github.com/articles/creating-a-pull-request
 [github-review]: https://help.github.com/articles/about-pull-request-reviews
 [github-syncfork]: https://help.github.com/articles/syncing-a-fork
-[issue-template]: https://github.com/alan-turing-institute/the-turing-way/blob/master/ISSUE_TEMPLATE.md
+[issue-template]: https://github.com/alan-turing-institute/the-turing-way/blob/main/ISSUE_TEMPLATE.md
 [labels-link]: https://github.com/alan-turing-institute/the-turing-way/labels
 [labels-approval-request]: https://github.com/alan-turing-institute/the-turing-way/labels/approval%20request
 [labels-binderhub]: https://github.com/alan-turing-institute/the-turing-way/labels/binderhub

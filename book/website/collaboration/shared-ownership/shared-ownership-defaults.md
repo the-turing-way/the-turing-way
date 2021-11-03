@@ -1,7 +1,7 @@
 (cl-shared-ownership-defaults)=
 # Nudging for a Better Default
 
-Research has shown that humans making decisions have a strong tendency to go along with the status quo or default option (See the [Nudge Theory](https://www.imperial.ac.uk/nudgeomics/about/what-is-nudge-theory/) by {cite}`ThalerSunstein2009Nudge`).
+Research has shown that humans making decisions have a strong tendency to go along with the status quo or default option (See the [Nudge Theory](https://www.imperial.ac.uk/nudgeomics/about/what-is-nudge-theory/) by {cite:ps}`ThalerSunstein2009Nudge`).
 In the absence of an actively defined default, the prevailing cultural or institutional norm becomes the de-facto option of choice.
 And hence, the default options for ongoing and new projects should nudge strongly towards adopting a shared ownership model.
 
@@ -20,9 +20,9 @@ The companies that host repositories can - as some do - make it easy to add a li
 
 **Call to action: Select a license for your project**
 
-Plan your project from the beginning to be open throughout the lifecycle of your research. 
-When using personal or identifiable data, clearly state what measures are taken to ensure privacy and data security. 
-For everything else in your work, choose an open source license and add it to your repository (see https://choosealicense.com/). 
+Plan your project from the beginning to be open throughout the lifecycle of your research.
+When using personal or identifiable data, clearly state what measures are taken to ensure privacy and data security.
+For everything else in your work, choose an open source license and add it to your repository (see https://choosealicense.com/).
 You can read more about it in the {ref}`Licensing<rr-licensing-software>` chapter.
 
 ## Meaningful Acknowledgement of Contributors
@@ -36,9 +36,9 @@ A more structured programme can be developed that recognises, rewards and incent
 
 **Call to action: Acknowledging contributors visibly**
 
-Recognising contributors by recording their names in visible locations (like a contributors file) should be added to the admins’ or maintainers’ workflows. 
+Recognising contributors by recording their names in visible locations (like a contributors file) should be added to the admins’ or maintainers’ workflows.
 Announce and celebrate all kinds of work by communicating them openly in official community forums and channels.
-You can use GitHub actions, bots or a continuous integration pipeline to automate the process. 
+You can use GitHub actions, bots or a continuous integration pipeline to automate the process.
 To take another easier approach, you can install the all-contributors bot by [https://allcontributors.org](https://allcontributors.org) to your repository, which can help you recognise contributions including those that don’t involve pushing code.
 See it working on [_The Turing Way_ repository](https://github.com/alan-turing-institute/the-turing-way#contributors).
 
@@ -50,9 +50,9 @@ One way to do it is to have essential community documents demonstrating the comm
 These documents should not only be shared but kept open for feedback, contributions and update to make them meaningful for the community.
 Community policy and norms should be communicated from the start to facilitate open, safe and respectful dialogue among the community members.
 
-**Call to action: Set standards for shared ownership** 
+**Call to action: Set standards for shared ownership**
 
 Describe explicitly who is considered the project owner.
-You should share credit with the community of contributors instead of only attributing individuals administering the project. 
+You should share credit with the community of contributors instead of only attributing individuals administering the project.
 For example, when citing the project, use “Community” as the first author [as practised in The Turing Way](https://the-turing-way.netlify.app/welcome.html#citing-the-turing-way).
 Contribution guidelines, Code of Conduct (see Open Source Guide for reference) and other community pages on your project repository can help in setting the tone for the culture you want to promote in the community, and how contributors are supported in their participation.

@@ -275,12 +275,12 @@ We invite more members to help us make _The Turing Way_ accessible for a wider c
 
 ### Attend online Collaboration Cafes
 
-Our [online Collaboration Cafes](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md) take place every 1st Wednesdays at 15:00 GMT and 3rd Wednesdays at 19:00 GMT. 
+Our [online Collaboration Cafes](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md) take place every 1st Wednesdays at 15:00 GMT and 3rd Wednesdays at 19:00 GMT. 
 These calls are 2 hours long co-working spaces for _The Turing Way_ community. 
 Everyone interested in learning from or developing this project can join us for any duration possible for them. 
 At these calls you can work on your contributions to project. 
 
-You can sign up on this HackMD to attend the [upcoming calls](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md): https://hackmd.io/@KirstieJane/CollabCafe. 
+You can sign up on this HackMD to attend the [upcoming calls](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md): https://hackmd.io/@KirstieJane/CollabCafe. 
 If you would like to host these calls at other times, please get in touch with the team members. 
 
 ### Contribute new topics or review open pull requests
