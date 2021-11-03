@@ -3,7 +3,7 @@
 
 It is rare that successful collaborations occur without a person, or group of people, taking on the work of structuring participants interactions, facilitating work, and supporting the impact of the project. 
 These people may be either volunteers or paid, depending on a project's funding, size, length, and number of organisations involved. 
-They're called **research infrastructure roles** because the work they perform is primarily to support the work of researchers, although research can also be a significant proportion of these roles as well!
+They're called **research infrastructure roles** because the work they perform is primarily to support the work of researchers, although research can also be a significant proportion of these roles as well.
 The specifics of these roles will vary but can include handling administrative work, managing data storage, stakeholder engagement, community management, communications, software engineering, events coordination, and a lot more. 
 People performing these types of roles come from varied backgrounds, but will often have some research experience, although not necessarily in the field they are now working in. 
 Examples of role titles include: Community manager, project manager, research software engineer, reproducibility lead, research application manager, programme manager, administrator, or network coordinator.
