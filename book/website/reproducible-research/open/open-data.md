@@ -61,7 +61,7 @@ It may also be possible to provide the data in such a format that researchers ca
 For example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual data points.
 
 Many fields of scientific disciplines involve working with sensitive personal data.
-Their management is well regulated in data protection legislation (in Europe through national implementations of the General Data Protection Regulation) and ethics procedures as they are established in most research institutions {cite:t} `EU2016protection`.
+Their management is well regulated in data protection legislation (in Europe through national implementations of the General Data Protection Regulation) and ethics procedures as they are established in most research institutions {cite:t}`EU2016protection`.
 
 (rr-open-data-barriers-consent)=
 ### Consent
