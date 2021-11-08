@@ -1,11 +1,11 @@
 (cm-citable-cff)=
-# Software citation with CITATION.CFF
+# Software citation with CITATION.Cff
 
-## What is CITATION.CFF
+## What is CITATION.Cff (Abel)
 
 The Citation File Format lets you provide citation metadata for software or datasets in plaintext files that are easy to read by both humans and machines.
 
-## Why to use CITATION.CFF
+## Why use CITATION.cff (Stephan)
 
 When you do this, great things may happen:
 
@@ -14,11 +14,11 @@ When you do this, great things may happen:
 - When you publish your software on Zenodo via the GitHub-Zenodo integration, they will use the metadata from your CITATION.cff file.
 - People can import the correct reference to your software into the Zotero reference manager via a browser plugin.
 
-## How to create a CITATION.CFF file and use it
+## How to create a CITATION.cff file and use it (Faruk)
  - mention cffinit
  - use https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files
 
-## Available tools for CITATION.CFF
+## Available tools for CITATION.cff (Abel and Faruk)
 
 ### cffinit
 
