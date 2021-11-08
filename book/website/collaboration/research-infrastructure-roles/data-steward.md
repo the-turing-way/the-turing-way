@@ -1,20 +1,17 @@
-(sectioninitials-filename)=
+(cl-infrastructure-datastewards)=
 # Data Stewards: Overview
 
-Data Stewards are a growing role within scientific communities. 
-
-*This chapter is to be drafted* 
+Data Stewards are a growing role within scientific communities.
+'Data Steward' is an umbrella term for numerous support roles that involve the creation, management and usage of research data (see also the {ref}`rr-rdm` chapter). 
+The core responsibilities of a Data Steward can vary, ranging from policy advisor/consultant, to hands-on operational tasks, to technical or ICT-related tasks. 
+A Data Steward faciltates the quality, integrity and access to (meta)data in a manner that is consistent with the appropriate laws and institutional policies, ensuring professional treatment of data throughout all stages of the research project. 
 
 > See the [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html) for The Turing Way's recommendations on cross referencing.
 
-> In this template, we assume that our subchapter has three key ideas, your subchapter may have more or less than this. 
-
-> It may be beneficial to run your content through a grammar checker (such as Grammarly) to catch grammatical mistakes.
 -->
 
-<!-- 
-In the label, replace `keyidea1` with a word that best describes the section or key idea you want to explain -->
-(sectioninitials-filename-keyidea1)=
+
+(cl-infrastructure-datastewards-role)=
 ## What do Data Stewards do? 
 
 > **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
