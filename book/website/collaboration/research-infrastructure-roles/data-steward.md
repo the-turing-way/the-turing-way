@@ -34,7 +34,7 @@ The “Towards FAIR data stewardship as profession” report (Scholtens, S., Jet
 
 Next to these specific areas coordination of work and development of soft skills may be important. 
 
-Generally, Data Stewards acquire these skills through learning-on-the-job, which is facilitated by existing networks (such as the [Research Data Alliance](https://www.rd-alliance.org/), and the [DTL-Data Stewards Interest Group](https://www.dtls.nl/about/community/interest-groups/data-stewards-interest-group/), and [Research Data Access & Preservation](https://rdapassociation.org/)). 
+Generally, Data Stewards acquire these skills through learning-on-the-job, which is facilitated by existing networks (see {ref}`cl-infrastructure-datastewards-support` below). 
 Through these networks experiences can be exchanged with peers. 
 Examples of collaborative efforts are the '[23 Things: Support for Research Data](https://doi.org/10.5281/zenodo.3465896)' that provides a good overview of helpful resources for Data Stewards and ... 
 Depending on the role of the Data Steward, learning discipline specific skills may be iportant through contributing to specific projects or attending conferences/meetings on relevant topics. 
@@ -47,7 +47,15 @@ Ref to the Dutch profiles that have just been set up.
 See also:  Mijke Jetten, Marjan Grootveld, Annemie Mordant, Mascha Jansen, Margreet Bloemers, Margriet Miedema, & Celia W.G. van Gelder. (2021). Professionalising data stewardship in the Netherlands. Competences, training and education. Dutch roadmap towards national implementation of FAIR data stewardship. Zenodo. 
 https://doi.org/10.5281/zenodo.4320504
 
-## Challenges? 
+## Benefits 
+
+(cl-infrastructure-datastewards-support)=
+## Supporting Organisations
+* [Research Data Alliance](https://www.rd-alliance.org/)
+* [DTL-Data Stewards Interest Group](https://www.dtls.nl/about/community/interest-groups/data-stewards-interest-group/)
+* [Research Data Access & Preservation](https://rdapassociation.org/)
+
+## Challenges 
 Career-track unclear
 
 Lack of awareness of policies or presence of the Data Steward among researchers
