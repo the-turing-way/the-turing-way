@@ -118,7 +118,7 @@ See the next section for more information.
 
 ## Available tools for CITATION.cff (Abel and Faruk)
 
-Several tools are being created to facilitate the creation and validation of `CITATION.cff` files, as well as the conversion to and from other formats.
+Several tools exist to facilitate the creation and validation of `CITATION.cff` files, as well as the conversion to and from other formats.
 See the [table at the repository's specification](https://github.com/citation-file-format/citation-file-format#tools-to-work-with-citationcff-files-wrench) for a list of all known tools.
 Below we list a few of the main ones.
 
@@ -131,7 +131,9 @@ This approach is recommended due to having validation built-in.
 
 ### cffconvert
 
-[cffconvert](https://github.com/citation-file-format/cff-converter-python) is a command line program to validate and create `CITATION.cff` files.
-It can be used to convert to other formats, like BibTex, Endnote, and Zenodo, as well as validate `CITATION.cff` files locally or in GitHub repositories.
+[cffconvert](https://github.com/citation-file-format/cff-converter-python) is a command line program to validate and convert `CITATION.cff` files.
+It can be used to convert to other formats, like BibTex, EndNote, and Zenodo, as well as validate `CITATION.cff` files locally or in GitHub repositories.
 
 ### cff-validator GitHub Action
+
+To make sure that your GitHub repository always has a valid `CITATION.cff` file, you can use the GitHub Action [cff-validator](https://github.com/marketplace/actions/cff-validator).
