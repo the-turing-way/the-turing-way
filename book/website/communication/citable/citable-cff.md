@@ -35,9 +35,78 @@ When you do this, great things may happen:
 - When you publish your software on Zenodo via the GitHub-Zenodo integration, they will use the metadata from your CITATION.cff file.
 - People can import the correct reference to your software into the Zotero reference manager via a browser plugin.
 
-## How to create a CITATION.cff file and use it (Faruk)
- - mention cffinit
- - use https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files
+## How to create a CITATION.cff file (Faruk)
+
+The `CITATION.cff` is basically a `YAML` file with its own schema definition. The schema defines the rules for each field and which fields are required and which ones are optional. User needs to follow these rules to create a valid `CITATION.cff` file.
+
+A minimal example of a valid CITATION.cff file, that contains only the required keys, would look like this:
+
+```yaml
+authors:
+  - family-names: Druskat
+    given-names: Stephan
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "My Research Software"
+```
+
+However, adding more fields can help you have a more descriptive metadata of your software. The example below also provides important information of software such as version, release date, DOI, license, keywords.
+
+```yaml
+abstract: "This is my awesome research software. It does many things."
+authors:
+  - family-names: Druskat
+    given-names: Stephan
+    orcid: "https://orcid.org/0000-0003-4925-7248"
+cff-version: 1.2.0
+date-released: "2021-07-18"
+identifiers:
+  - description: "This is the collection of archived snapshots of all versions of My Research Software"
+    type: doi
+    value: 10.5281/zenodo.123456
+  - description: "This is the archived snapshot of version 0.11.2 of My Research Software"
+    type: doi
+    value: 10.5281/zenodo.123457
+keywords:
+  - "awesome software"
+  - research
+license: Apache-2.0
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/citation-file-format/my-research-software"
+title: "My Research Software"
+version: 0.11.2
+```
+
+### Steps to have your `CITATION.cff`
+
+There are three steps:
+
+#### 1. Creating the `CITATION.cff` file
+
+There are two ways of creating a `CITATION.cff` file.
+1. Editing the file manually in your favorite code editor. Disadvantage of this will be understanding relatively long error messages.
+2. Using [cffinit](https://citation-file-format.github.io/cff-initializer-javascript/) which guides you through the process of creating your citation file.
+
+#### 2. Validating your `CITATION.cff` file
+
+Once the developer has `CITATION.cff` file, it needs to be validated to make sure there are no issues. You can validate your `CITATION.cff` file on the command line with the [`cffconvert` Python package](https://pypi.org/project/cffconvert/).
+
+```shell
+cffconvert --validate
+```
+
+If you prefer to use Docker, you can use the [`cffconvert` Docker image](https://hub.docker.com/r/citationcff/cffconvert):
+
+```bash
+cd <directory-containing-your-CITATION.cff>
+docker run --rm -v ${PWD}:/app citationcff/cffconvert --validate
+```
+
+If you get error messages, look for the relevant validation error and fix it.
+
+#### 3. Adding your `CITATION.cff` to a public code repository
+
+After creating the `CITATION.cff` file you will need to add it to your GitHub repository so that GitHub can recognize it. For instructions please see [GitHub guide on software citation.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
 
 ## How to cite using CITATION.cff (Abel)
 
