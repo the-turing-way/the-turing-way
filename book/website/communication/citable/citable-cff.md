@@ -124,16 +124,25 @@ alt: Button on GitHub that provides automatically conversion of the CITATION.cff
 "Cite this repository" automatically converts the `CITATION.cff` file to APA's and BibTex's format.
 ```
 
-Alternatively, you can use external tools to convert the CITATION.cff file into the format you want.
+Alternatively, you can use external tools to convert the `CITATION.cff` file into the format you want.
 See the next section for more information.
 
 ## Available tools for CITATION.cff (Abel and Faruk)
 
+Several tools are being created to facilitate the creation and validation of `CITATION.cff` files, as well as the conversion to and from other formats.
+See the [table at the repository's specification](https://github.com/citation-file-format/citation-file-format#tools-to-work-with-citationcff-files-wrench) for a list of all known tools.
+Below we list a few of the main ones.
+
 ### cffinit
+
+The web application [cffinit](https://citation-file-format.github.io/cff-initializer-javascript/) provides an interactive way of creating a `CITATION.cff` file online.
+The app provides a simple interface to create your first `CITATION.cff` file.
+You can use it to add the bare minimum of information or you can add optional, but very important, fields, like the DOI, code repository, release date, etc.
+This approach is recommended due to having validation built-in.
 
 ### cffconvert
 
-### cff-validator GitHub Action
+[cffconvert](https://github.com/citation-file-format/cff-converter-python) is a command line program to validate and create `CITATION.cff` files.
+It can be used to convert to other formats, like BibTex, Endnote, and Zenodo, as well as validate `CITATION.cff` files locally or in GitHub repositories.
 
-### Complete list of tools
-https://github.com/citation-file-format/citation-file-format#tools-to-work-with-citationcff-files-wrench
+### cff-validator GitHub Action
