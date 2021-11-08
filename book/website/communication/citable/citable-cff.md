@@ -18,6 +18,9 @@ When you do this, great things may happen:
  - mention cffinit
  - use https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files
 
+## How to cite using CITATION.cff (Abel)
+
+
 ## Available tools for CITATION.cff (Abel and Faruk)
 
 ### cffinit
