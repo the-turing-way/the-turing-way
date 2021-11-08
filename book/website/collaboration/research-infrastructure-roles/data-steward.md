@@ -3,17 +3,17 @@
 
 Data Stewards are a growing role within scientific communities.
 'Data Steward' is an umbrella term for numerous support roles that involve the creation, management and usage of research data (see also the {ref}`rr-rdm` chapter). 
-The core responsibilities of a Data Steward can vary, ranging from policy advisor/consultant, to hands-on operational tasks, to technical or ICT-related tasks. 
-A Data Steward facilitates the quality, integrity and access to (meta)data in a manner that is consistent with the appropriate laws and institutional policies, ensuring professional treatment of data throughout all stages of the research project. 
+
 
 (cl-infrastructure-datastewards-role)=
 ## What do Data Stewards do? 
-
+The core responsibilities of a Data Steward can vary, ranging from policy advisor/consultant, to hands-on operational tasks, to technical or ICT-related tasks. 
+A Data Steward facilitates the quality, integrity and access to (meta)data in a manner that is consistent with the appropriate laws and institutional policies, ensuring professional treatment of data throughout all stages of the research project. 
 
 See also: Verheul, I., Imming, M., Ringersma, J., Mordant, A., Van der Ploeg, J., Pronk, M. (2019). Data Stewardship on the map: A study of tasks and roles in Dutch research institutes https://doi.org/10.5281/zenodo.2669150, 
 
 ## Who are Data Stewards?
-
+Data Stewards are individuals with an interest in research data, and all the aspects that are related to this. 
 
 
 ## What qualifications or skills do you need to be a Data Steward? 
@@ -34,18 +34,29 @@ The “Towards FAIR data stewardship as profession” report (Scholtens, S., Jet
 
 Next to these specific areas coordination of work and development of soft skills may be important. 
 
-Generally, Data Stewards acquire these skills through learning-on-the-job, which is facilitated by existing networks (such as the [Research Data Alliance](https://www.rd-alliance.org/), and the [DTL-Data Stewards Interest Group](https://www.dtls.nl/about/community/interest-groups/data-stewards-interest-group/), and [Research Data Access & Preservation](https://rdapassociation.org/)) and sharing experiences with peers, learning discipline specific skills, joining community activities and personal/professional development. 
+Generally, Data Stewards acquire these skills through learning-on-the-job, which is facilitated by existing networks (such as the [Research Data Alliance](https://www.rd-alliance.org/), and the [DTL-Data Stewards Interest Group](https://www.dtls.nl/about/community/interest-groups/data-stewards-interest-group/), and [Research Data Access & Preservation](https://rdapassociation.org/)). 
+Through these networks experiences can be exchanged with peers. 
 Examples of collaborative efforts are the '[23 Things: Support for Research Data](https://doi.org/10.5281/zenodo.3465896)' that provides a good overview of helpful resources for Data Stewards and ... 
+Depending on the role of the Data Steward, learning discipline specific skills may be iportant through contributing to specific projects or attending conferences/meetings on relevant topics. 
+, joining community activities and personal/professional development. 
+
 As the research culture adapts to (inter)national changes, so too have the skills of the Data Steward have to be continuously updated. 
 
 Ref to the Dutch profiles that have just been set up.
 
+See also:  Mijke Jetten, Marjan Grootveld, Annemie Mordant, Mascha Jansen, Margreet Bloemers, Margriet Miedema, & Celia W.G. van Gelder. (2021). Professionalising data stewardship in the Netherlands. Competences, training and education. Dutch roadmap towards national implementation of FAIR data stewardship. Zenodo. 
+https://doi.org/10.5281/zenodo.4320504
 
 ## Challenges? 
 Career-track unclear
-Lack of awareness of policies or presence of the data steward
+
+Lack of awareness of policies or presence of the Data Steward among researchers
+
 Part of cultural change towards more  transparent research culture: cultural change is generally met with resistance
+
 Institutional support: Often there is only a small team available for each institute, which might not always cover the needs
+
+Difficult to benchmark your support: when did you do a good job?
 
 
 (cl-infrastructure-datastewards-summary)=
