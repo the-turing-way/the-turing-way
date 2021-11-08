@@ -11,14 +11,14 @@ Please write all sentences in the markdown file on separate lines.
 Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it will mean that any pull requests will be easier to check; the changes will be on a single line instead of somewhere in a paragraph.
 Consider the example below.
 
- ```
+ ```markdown
 Today you are you, that is truer than true. There is no one alive who is youer than you. - Dr Seuss
 ```
 
 A pull request on this correcting it to have a ‘.’ after Dr would show as a change to the whole paragraph.
 Contrast this with the next example which will be displayed online in the exact same way, but would see a change to a single line.
 
- ```
+ ```markdown
 Today you are you, that is truer than true.
 There is no one alive who is youer than you.
 - Dr Seuss
@@ -32,7 +32,7 @@ The best way to do this is by displaying it in a quote box.
 This can be done by either prefixing every line with the greater than symbol `>`.
 Note, that the formatting will be retained, so we can split each sentence to a new line as recommended before.
 
-```
+```markdown
 > I will not eat them in a house,
 > i will not eat them with a mouse,
 > i will not eat them in a box i will not eat them with a fox,
@@ -77,14 +77,14 @@ If the content is unindented, the list numbering will be reset.
 
 For instance, please avoid:
 1. First list item
-```
+```markdown
 This content belongs to the first list item.
 ```
 2. Second list item
 
 Instead, the following is recommended:
 1. First list item
-   ```
+   ```markdown
    This content belongs to the first list item.
    ```
 
