@@ -10,13 +10,39 @@ A Data Steward faciltates the quality, integrity and access to (meta)data in a m
 ## What do Data Stewards do? 
 
 
+See also: Verheul, I., Imming, M., Ringersma, J., Mordant, A., Van der Ploeg, J., Pronk, M. (2019). Data Stewardship on the map: A study of tasks and roles in Dutch research institutes https://doi.org/10.5281/zenodo.2669150, 
 
 ## Who are Data Stewards?
 
 
 
 ## What qualifications or skills do you need to be a Data Steward? 
+There is currently no formal track to take to become a Data Steward. Most Data Stewards have a master or doctoral education, or a background in research and education. 
+This background is needed to speak the same language as scientific staff, so that it becomes easier to understand their requirements and concerns. 
+Pending on the particular focus of the position, you would need a more technical/ICT background, knowledge of discipline specific matters or experience with advising and policy construction. 
+Soft skills are important in the advisory/policy roles, as you need to..
 
+The “Towards FAIR data stewardship as profession” report (Scholtens, S., Jetten, M., Böhmer, J., Staiger, Ch., Slouwerhof, I., Van der Geest, M. & Van Gelder, C.W.G. (2019, October 3). Final report: Towards FAIR data steward as profession for the lifesciences. Report of a ZonMw funded collaborative approach built on existing expertise. http://doi.org/10.5281/zenodo.3474789) concluded that there are eight compentency areas that of importance to Data Stewards: 
+1. policy/strategy
+2. compliance
+3. alignment with FAIR
+4. services
+5. infrastructure
+6. knowledge management
+7. network
+8. data archiving
+
+Generally, Data Stewards aquire these skills through learning-on-the-job, which is facilitated by existing networks (such as the [Research Data Alliance](https://www.rd-alliance.org/), and the [DTL-Data Stewards Interest Group](https://www.dtls.nl/about/community/interest-groups/data-stewards-interest-group/), and [Research Data Access & Preservation](https://rdapassociation.org/)) and sharing experiences with peers, learning discipline specific skills, joining community activities and personal/professional development. Examples of collaborative efforts are the '[23 Things: Support for Research Data](https://doi.org/10.5281/zenodo.3465896)' that provides a good overview of helpful resources for Data Stewards and ... 
+As the research culture adapts to (inter)national changes, so too have the skills of the Data Steward have to be continously updated. 
+
+Ref to the Dutch profiles that have just been set up.
+
+
+## Challenges? 
+Career-track unclear
+Lack of awareness of policies or presence of the data steward
+Part of cultural change towards more transparant research culture: cultural change is generally met with resistance
+Institutional support: Often there is only a small team available for each instutite, which might not always cover the needs
 
 
 (cl-infrastructure-datastewards-summary)=
