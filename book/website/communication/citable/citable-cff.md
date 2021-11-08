@@ -5,20 +5,20 @@ The [Citation File Format](https://citation-file-format.github.io) lets you prov
 To provide this metadata, write a `CITATION.cff` file and ship it with your software or dataset.
 A `CITATION.cff` file aggregates the information in a key-value format that can be easily interpreted and updated by humans, and easily parsed and converted with existing tools.
 
-## Why use CITATION.cff (Stephan)
+## Why use `CITATION.cff` (Stephan)
 
 When you do this, great things may happen:
 
 - Users of your software can easily cite it using the metadata from CITATION.cff!
 - If your repository is hosted on GitHub, they will show the citation information in the sidebar, which makes it easy for visitors to cite your software or dataset correctly.
-- When you publish your software on Zenodo via the GitHub-Zenodo integration, they will use the metadata from your CITATION.cff file.
+- When you publish your software on Zenodo via the GitHub-Zenodo integration, they will use the metadata from your `CITATION.cff` file.
 - People can import the correct reference to your software into the Zotero reference manager via a browser plugin.
 
-## How to create a CITATION.cff file (Faruk)
+## How to create a `CITATION.cff` file (Faruk)
 
 The `CITATION.cff` is basically a `YAML` file with its own schema definition. The schema defines the rules for each field and which fields are required and which ones are optional. The user needs to follow these rules to create a valid `CITATION.cff` file.
 
-A minimal example of a valid CITATION.cff file, that contains only the required keys, would look like this:
+A minimal example of a valid `CITATION.cff` file, that contains only the required keys, would look like this:
 
 ```yaml
 authors:
@@ -93,35 +93,35 @@ docker run --rm -v ${PWD}:/app citationcff/cffconvert --validate
 
 If you get an error messages, look for the relevant validation error and fix it.
 
+To make sure that your GitHub repository always has a valid `CITATION.cff` file, you can use the GitHub Action [cff-validator](https://github.com/marketplace/actions/cff-validator).
+
 #### 3. Adding your `CITATION.cff` to a public code repository
 
 After creating a `CITATION.cff` file you will need to add it to your GitHub repository so that GitHub can recognize it. For instructions please see [GitHub guide on software citation.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
 
-## How to cite using CITATION.cff (Abel)
+## How to cite using `CITATION.cff` (Abel)
 
-You have found a software or dataset that contains a `CITATION.cff` that you want to cite in your publication.
-You can, naturally, just copy the information on the file to whatever format you use, like BibTex or EndNote.
-However, you can also use one of the tools or integrations available to do that automatically.
+If you have found a software or dataset that contains a `CITATION.cff`, there are a few ways to obtain the reference information to cite it in your publication.
 
-If the software or dataset you are using is available on GitHub, for instance, you can use GitHub's integration to just copy the information you need.
+You can use one of the tools, such as the `cffconvert` command line program, to convert your `CITATION.cff` file to one of the [supported formats](https://github.com/citation-file-format/cff-converter-python#supported-output-formats), such as APA, BibTeX or EndNote.
 
+Alternatively, if the software or dataset you want to cite is available on GitHub, you can use GitHub's interface to copy the reference in either APA or BibTeX formats, by clicking the "Cite this repository" button (see the green area in the image below).
+This button only appears when there is a `CITATION.cff` file on the repository.
 ```{figure} ../../figures/github-cff-integration.png
 ---
 name: github-cff-integration
-alt: Button on GitHub that provides automatically conversion of the CITATION.cff file to APA's and BibTex's format.
+alt: Button on GitHub that provides automatically conversion of the `CITATION.cff` file to APA's and BibTex's format.
 ---
 "Cite this repository" automatically converts the `CITATION.cff` file to APA's and BibTex's format.
 ```
 
-Alternatively, you can use external tools to convert the `CITATION.cff` file into the format you want.
-See the next section for more information.
-
-## Available tools for CITATION.cff (Abel and Faruk)
+## Available tools (Abel and Faruk)
 
 Several tools exist to facilitate the creation and validation of `CITATION.cff` files, as well as the conversion to and from other formats.
 See the [table at the repository's specification](https://github.com/citation-file-format/citation-file-format#tools-to-work-with-citationcff-files-wrench) for a list of all known tools.
 Below we list a few of the main ones.
 
+<!--
 ### cffinit
 
 The web application [cffinit](https://citation-file-format.github.io/cff-initializer-javascript/) provides an interactive way of creating a `CITATION.cff` file online.
@@ -133,7 +133,4 @@ This approach is recommended due to having validation built-in.
 
 [cffconvert](https://github.com/citation-file-format/cff-converter-python) is a command line program to validate and convert `CITATION.cff` files.
 It can be used to convert to other formats, like BibTex, EndNote, and Zenodo, as well as validate `CITATION.cff` files locally or in GitHub repositories.
-
-### cff-validator GitHub Action
-
-To make sure that your GitHub repository always has a valid `CITATION.cff` file, you can use the GitHub Action [cff-validator](https://github.com/marketplace/actions/cff-validator).
+-->
