@@ -58,15 +58,23 @@ version: 0.11.2
 
 The complete list of fields is described in the [CFF specification](https://citation-file-format.github.io/specification/), but keep reading to find out which tools can help you create and use the `CITATION.cff` file.
 
-### Steps to have your `CITATION.cff`
+### Steps to make your software citable
 
-There are three steps:
+To make your software citable you need to follow the three steps below.
 
-#### 1. Creating the `CITATION.cff` file
+#### 1. Creating a `CITATION.cff` file
 
 There are two ways of creating a `CITATION.cff` file.
-1. Editing the file manually in your favorite code editor. Disadvantage of this will be understanding relatively long error messages.
-2. Using [cffinit](https://citation-file-format.github.io/cff-initializer-javascript/) which guides you through the process of creating your citation file.
+
+1. Editing the file manually in your favorite code editor. The disadavantages of this method are installing the required tools on your system and doing the validation yourself. The error messages of the validation can be relatively long and difficult to understand understanding.
+2. Using [cffinit](https://citation-file-format.github.io/cff-initializer-javascript/) which guides you through the process of creating your citation file. The `cffinit` has a few advantages over manual editing such as
+
+- no need for installing extra tools
+- no need automatic validation
+- guidance for each fields
+- visual feedback to indicate issues.
+
+If you prefer to create your `CITATION.cff` using `cffinit` you can skip to [step 3](citable-cff.html#adding-your-citation-cff-to-a-public-code-repository).
 
 #### 2. Validating your `CITATION.cff` file
 
