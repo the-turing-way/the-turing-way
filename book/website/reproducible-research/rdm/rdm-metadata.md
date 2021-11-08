@@ -4,9 +4,17 @@
 Having data available is of no use if it cannot be understood.
 For example, a table of numbers is useless if there are no headings that describe what the columns/rows contain.
 Therefore you should ensure that open datasets include consistent metadata, that is information about the data, so that the data is fully described.
-This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.
 
+## Documentation
+Documentation provides context for your work. 
+It allows your collaborators, colleagues and future you understand what has been done and why.
+Data documentation can be done on different levels. 
+All documentation accompanying data shouldb be written in clear, plain language. 
+Documentation allows data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it. 
+
+- The type of research and the nature of the data also influence what kind of documentation is necessary. 
 - The level of documentation and metadata [{term}`def<Metadata>`] will vary according to the project, and the range of people the data needs to be understood by.
+- Examples of documentation may include items like Codebooks, protocols, logbooks or lab journals, README files, research logs, analysis syntax, algorithms and code comments.  
 - Variables should be defined and explained using [data dictionaries](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary).
 - Data should be stored in logical and hierarchical folder structures, with a README file used to describe the structure.
 The README file is helpful for others and will also help you find your data in the future {cite:ps}`Fuchs2018documentation`.
