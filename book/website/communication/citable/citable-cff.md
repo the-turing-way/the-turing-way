@@ -1,7 +1,7 @@
 (cm-citable-cff)=
-# Software citation with CITATION.Cff
+# Software citation with CITATION.cff
 
-## What is CITATION.Cff (Abel)
+## What is CITATION.cff (Abel)
 
 The Citation File Format lets you provide citation metadata for software or datasets in plaintext files that are easy to read by both humans and machines.
 
