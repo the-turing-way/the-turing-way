@@ -66,19 +66,19 @@ To make your software citable you need to follow the three steps below.
 
 There are two ways of creating a `CITATION.cff` file.
 
-1. Editing the file manually in your favorite code editor. The disadavantages of this method are installing the required tools on your system and doing the validation yourself. The error messages of the validation can be relatively long and difficult to understand understanding.
+1. Editing the file manually in your favorite code editor. The disadvantages of this method are installing the required tools on your system and doing the validation yourself. The error messages of the validation can be relatively long and difficult to understand.
 2. Using [cffinit](https://citation-file-format.github.io/cff-initializer-javascript/) which guides you through the process of creating your citation file. The `cffinit` has a few advantages over manual editing such as
 
-- no need for installing extra tools
-- no need automatic validation
-- guidance for each fields
+- no need for installing extra tools;
+- no need for automatic validation;
+- guidance for each fields;
 - visual feedback to indicate issues.
 
 If you prefer to create your `CITATION.cff` using `cffinit` you can skip to [step 3](citable-cff.html#adding-your-citation-cff-to-a-public-code-repository).
 
 #### 2. Validating your `CITATION.cff` file
 
-Once the developer has `CITATION.cff` file, it needs to be validated to make sure there are no issues. You can validate your `CITATION.cff` file on the command line with the [`cffconvert` Python package](https://pypi.org/project/cffconvert/).
+Once you have a `CITATION.cff` file, it needs to be validated to make sure there are no issues. You can validate your `CITATION.cff` file on the command line with the [`cffconvert` Python package](https://pypi.org/project/cffconvert/).
 
 ```shell
 cffconvert --validate
@@ -91,11 +91,11 @@ cd <directory-containing-your-CITATION.cff>
 docker run --rm -v ${PWD}:/app citationcff/cffconvert --validate
 ```
 
-If you get error messages, look for the relevant validation error and fix it.
+If you get an error messages, look for the relevant validation error and fix it.
 
 #### 3. Adding your `CITATION.cff` to a public code repository
 
-After creating the `CITATION.cff` file you will need to add it to your GitHub repository so that GitHub can recognize it. For instructions please see [GitHub guide on software citation.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
+After creating a `CITATION.cff` file you will need to add it to your GitHub repository so that GitHub can recognize it. For instructions please see [GitHub guide on software citation.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
 
 ## How to cite using CITATION.cff (Abel)
 
