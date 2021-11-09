@@ -1,0 +1,15 @@
+{
+  "creators": [{
+    "name": "The Turing Way Community"
+  }],
+  "title": "The Turing Way",
+  "description": "A collection of boilerplate code for various NLP tasks with standardized input and output data types to make it easier to combine NLP tasks with different libraries and models. The main focus lies on the German language.",
+  "license": "CC-BY 4.0 & MIT",
+  "upload_type": "Book",
+  "keywords": [
+    "reproducibility",
+    "data-science",
+    "ethics",
+    "research-collaboration"
+  ]
+}
