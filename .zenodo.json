@@ -5,7 +5,7 @@
   "title": "The Turing Way",
   "description": "The Turing Way is an open source community-driven guide to reproducible, ethical, inclusive and collaborative data science. The Turing Way book is collaboratively developed by its diverse community of researchers, learners, educators, and other stakeholders and shared under an open license.",
   "license": "CC-BY 4.0 & MIT",
-  "upload_type": "Book",
+  "upload_type": "Publication",
   "keywords": [
     "reproducibility",
     "data-science",
