@@ -376,7 +376,8 @@ If the second part (the `path_to_where_to_put_file/file_name`) is substituted fo
 ## Volumes
 
 Every time a container is opened from an image, that container is completely new.
-Say a container is opened, and work is done within it. If that container is closed, and the image it came from is again used to start another container, none of that work will be in the new one.
+Say a container is opened, and work is done within it. 
+If that container is closed, and the image it came from is again used to start another container, none of that work will be in the new one.
 It will simply have the starting state described in the image.
 
 This can be a problem if a researcher wants to work in a container over time. Fortunately, there is a way around this using volumes.
