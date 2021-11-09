@@ -36,7 +36,7 @@ Reflexivity is the process of using self-reflection to understand ourselves and 
 - What do I believe are 'truths' about the concept I study?
     - What evidence do I base those truths on? Who developed this evidence?
 - Who do I most commonly cite in my research area, and how are their perspectives similar or different to mine?
--  Whose perspectives are important in answering this research topic? (consider participatory approaches, the diversity of the team investigating the question etc etc)
+-  Whose perspectives are important in answering this research topic?
 - Am I the best person to answer this question - what might I be missing?
 
 ## Questions about my data
