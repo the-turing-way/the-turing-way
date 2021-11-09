@@ -47,25 +47,24 @@ Ref to the Dutch profiles that have just been set up.
 See also:  Mijke Jetten, Marjan Grootveld, Annemie Mordant, Mascha Jansen, Margreet Bloemers, Margriet Miedema, & Celia W.G. van Gelder. (2021). Professionalising data stewardship in the Netherlands. Competences, training and education. Dutch roadmap towards national implementation of FAIR data stewardship. Zenodo. 
 https://doi.org/10.5281/zenodo.4320504
 
-## Benefits 
+## Challenges for Data Stewards
+* As Data Steward is a relatively new profession (~2017), their job profile is not always formally defined and their career-track may be unclear.
+* It is difficult to increase the awareness of the presence of the data steward and/or existing data policies, especially when resources are limited.
+* Not everyone sees the move towards a more transparent research culture as beneficial, and you can be met with resistance from researchers that do not want to change their existing workflows.
+* There might be limited resources/time to cover all the support requests from researchers. 
+Often there's only a small central team of Data Stewards available to the entire instutite. 
+* It is not always clear when you're providing high quality support and where you could improve, as there is no formal education and there is not always a strong feedback culture at your institute. 
+
+## Benefits of having Data Stewards
+* Sharing recommended practices around data management so that researchers don't have to reinvent the wheel themselves
+* Data Stewards can provide reassurance to researchers, by providing feedback on their Data Management Plans, practises and providing advise on alternative solutions
+* Support for larger, collaborative grants where data management and open science are an integral part of the proposal (Horizon Europe)
 
 (cl-infrastructure-datastewards-support)=
-## Supporting Organisations
+## Organisations that support Data Stewards
 * [Research Data Alliance](https://www.rd-alliance.org/)
 * [DTL-Data Stewards Interest Group](https://www.dtls.nl/about/community/interest-groups/data-stewards-interest-group/)
 * [Research Data Access & Preservation](https://rdapassociation.org/)
-
-## Challenges 
-Career-track unclear
-
-Lack of awareness of policies or presence of the Data Steward among researchers
-
-Part of cultural change towards more  transparent research culture: cultural change is generally met with resistance
-
-Institutional support: Often there is only a small team available for each institute, which might not always cover the needs
-
-Difficult to benchmark your support: when did you do a good job?
-
 
 (cl-infrastructure-datastewards-summary)=
 ## Summary
