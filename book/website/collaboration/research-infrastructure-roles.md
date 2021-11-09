@@ -8,13 +8,13 @@ The specifics of these roles will vary but can include handling administrative w
 People performing these types of roles come from varied backgrounds, but will often have some research experience, although not necessarily in the field they are now working in. 
 Examples of role titles include: Community manager, project manager, research software engineer, reproducibility lead, research application manager, programme manager, administrator, or network coordinator.
 
-(cl-nonresearch-roles-prerequisites)=
+(cl-research-infrastructure-roles-prerequisites)=
 ## Prerequisites
 
 There are no prerequisites for this chapter. 
 
 
-(cl-extraresearcher-roles-summary)=
+(cl-research-infrastructure-roles-summary)=
 ## Summary
 
 This chapter of the Turing Way covers examples of different research infrastructure roles, their importance in promoting collaboration, ethical research, and reproducibility, and additional resources to find out more about them. 
@@ -22,7 +22,7 @@ This chapter of the Turing Way covers examples of different research infrastruct
 We invite anyone who works in a research infrastructure role to share their experiences as a case study. 
 
 
-(cl-community-manager-motivation)=
+(cl-research-infrastructure-roles-motivation)=
 ## Motivation and Background
 
 Without research infrastructure roles, a lot of projects would never succeed! 
