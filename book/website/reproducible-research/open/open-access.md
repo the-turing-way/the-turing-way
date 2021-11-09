@@ -4,7 +4,7 @@
 (rr-open-access-whatis)=
 ## What Is Open Access?
 
-of the most common ways to disseminate research results is by writing a manuscript and publishing it in a journal, conference proceedings or book. For many years those publications were available to the public if purchased through a subscription fee or individually.
+One of the most common ways to disseminate research results is by writing a manuscript and publishing it in a journal, conference proceedings or book. For many years those publications were available to the public if purchased through a subscription fee or individually.
 However, new knowledge is built by synthesizing current scholarship and then building upon it.
 At the turn of the 21st century, a new movement appeared with a clear objective: make all the research results available to anyone interested in reading it, free of charge by any user, with no technical obstacles such as mandatory registration or login to specific platforms.
 This movement took the name of "open access" [{term}`def<Open Access>`] and established two initial strategies to achieve its final goal: self-archiving and open access publishing.
@@ -81,7 +81,7 @@ It also benefits researchers by providing better visibility, and therefore highe
 Numerous publishers, both non-profit and for-profit, voluntarily make their articles openly available at the time of publication or within 6-12 months.
 Many have switched from a closed, subscription model to an open one as a strategic business decision to increase their journal's exposure and impact.
 Further, it can be argued that taxpayers who pay for much of the research published in journals have a right to access the information resulting from that investment without charge.
-Finally, if research is available to the broadest possible pool of readers, then it is more likely to be checked and reproduced.  
+Finally, if research is available to the broadest possible pool of readers, then it is more likely to be checked and reproduced {cite}`Tennant2016openaccess`.  
 
 (rr-open-access-practice)=
 ## Best Practice for Open Access
