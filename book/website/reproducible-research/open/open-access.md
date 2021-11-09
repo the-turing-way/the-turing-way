@@ -81,7 +81,7 @@ It also benefits researchers by providing better visibility, and therefore highe
 Numerous publishers, both non-profit and for-profit, voluntarily make their articles openly available at the time of publication or within 6-12 months.
 Many have switched from a closed, subscription model to an open one as a strategic business decision to increase their journal's exposure and impact.
 Further, it can be argued that taxpayers who pay for much of the research published in journals have a right to access the information resulting from that investment without charge.
-Finally, if research is available to the broadest possible pool of readers, then it is more likely to be checked and reproduced.  
+Finally, if research is available to the broadest possible pool of readers, then it is more likely to be checked and reproduced {cite}`Tennant2016openaccess`.  
 
 (rr-open-access-practice)=
 ## Best Practice for Open Access
