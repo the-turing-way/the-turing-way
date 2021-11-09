@@ -3,7 +3,7 @@
     "name": "The Turing Way Community"
   }],
   "title": "The Turing Way",
-  "description": "A collection of boilerplate code for various NLP tasks with standardized input and output data types to make it easier to combine NLP tasks with different libraries and models. The main focus lies on the German language.",
+  "description": "The Turing Way is an open source community-driven guide to reproducible, ethical, inclusive and collaborative data science. The Turing Way book is collaboratively developed by its diverse community of researchers, learners, educators, and other stakeholders and shared under an open license.",
   "license": "CC-BY 4.0 & MIT",
   "upload_type": "Book",
   "keywords": [
