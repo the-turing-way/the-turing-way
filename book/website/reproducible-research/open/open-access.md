@@ -22,7 +22,6 @@ Some preprint servers include open peer-review services and the option to post n
 At the beginning of 2019, more than 4000 repositories were available for researchers to self-archive their publications according to the [Registry of Open Access Repositories](http://roar.eprints.org/).
 This list features institutional repositories, subject-based or thematic repositories, and harvesters.
 
-
 Institutional repositories are generally managed by research performing institutions to provide to their community a place to archive and share papers and other research outputs openly.
 Research communities usually manage subject-based repositories, and most of the contents are related to a specific discipline.
 Finally, harvesters aggregate content from different repositories, becoming sites to perform general searches and build other value-added services.
@@ -88,7 +87,6 @@ Finally, if research is available to the broadest possible pool of readers, then
 
 (rr-open-access-practice-archiving)=
 ### Self-Archiving
-
 
 Self-archive a publication in a suitable repository, institutional or subject-based, following the possible restrictions posed by the publisher.
 A restriction could be an embargo period, or limits on the allowed version to be deposited in such archives.
