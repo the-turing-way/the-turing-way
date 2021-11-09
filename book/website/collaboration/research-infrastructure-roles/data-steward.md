@@ -50,15 +50,19 @@ https://doi.org/10.5281/zenodo.4320504
 ## Challenges for Data Stewards
 * As Data Steward is a relatively new profession (~2017), their job profile is not always formally defined and their career-track may be unclear.
 * It is difficult to increase the awareness of the presence of the data steward and/or existing data policies, especially when resources are limited.
+* It takes time to know the researchers and earn their trust, which is important to be able to adequately advise them and work together to improve data management practises. 
 * Not everyone sees the move towards a more transparent research culture as beneficial, and you can be met with resistance from researchers that do not want to change their existing workflows.
 * There might be limited resources/time to cover all the support requests from researchers. 
 Often there's only a small central team of Data Stewards available to the entire instutite. 
 * It is not always clear when you're providing high quality support and where you could improve, as there is no formal education and there is not always a strong feedback culture at your institute. 
 
 ## Benefits of having Data Stewards
-* Sharing recommended practices around data management so that researchers don't have to reinvent the wheel themselves
-* Data Stewards can provide reassurance to researchers, by providing feedback on their Data Management Plans, practises and providing advise on alternative solutions
-* Support for larger, collaborative grants where data management and open science are an integral part of the proposal (Horizon Europe)
+* Sharing  information or provide training for data management so that researchers don't have to reinvent the wheel themselves and can easily learn about recommended practises which will ultimately improve the quality of research.
+* Data Stewards can provide reassurance to researchers, by providing feedback on their Data Management Plans, practises and providing advise on alternative solutions.
+* Support for larger, collaborative grants where data management and open science are an integral part of the proposal (Horizon Europe).
+* Data Stewards can play a leading role in developing policies regarding data/software management.
+* Data Stewards can provide answers to questions from researchers, or direct them to other relevant staff that will be able to answer the question. 
+
 
 (cl-infrastructure-datastewards-support)=
 ## Organisations that support Data Stewards
