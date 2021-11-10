@@ -1,45 +1,45 @@
-(sectioninitials-filename)=
+(pd-impact-checklist)=
 # Checklist For Measuring Impact
 
+<!--
 > List out the action points you want the readers to take based on the key ideas in your chapter.
 > The action points can be categorised according to your subchapters (the key topics of your chapter), and may have sub-action points if necessary.
 > Alternatively, you can have a single checklist chronologically ordered to guide your readers to understanding or applying the skills discussed in your subchapter in a step-by-step manner.
 > Aim for three action points for each topic, however, you can have more than this threshold.
-
-(sectioninitials-filename-subchapter1)=
-## Subchapter/Topic 1
-
-- Action point 1
-- Action point 2
-- Action point 3
-
-(sectioninitials-filename-subchapter2)=
-## Subchapter/Topic 2
-
-- Action point 1
-- Action point 2
-- Action point 3
-
-(sectioninitials-filename-subchapter3)=
-## Subchapter/Topic 3
-
-- Action point 1
-- Action point 2
-- Action point 3
+-->
+Event (or project) impact can be measured in a number of ways. Below are some categories to consider.
 
 ## Pre-event
-- measuring prerequisite skills
-- measuring any demographic information
+The pre-event includes data gathered during the application and outreach process.
+
+- Measuring prerequisite skills
+- Measuring demographic information on potential participants.
 
 ## Event
-- measuring diversity of participants
->Diversity of participants, organizing and teaching teams in terms of different dimensions of interest, such as age, gender identity/expression, body ability, career stage, geographic origin, region, language, neurodiversity, race, socioeconomic background, sector (academic-industry-student-retired-unemployed-volunteer), etc.
-- via Google Analytics
->how many views of the event website?- how many people signed up?- how many people attend?- Attendee Attrition:  how many people stay until the end?Zoom Videos. After the event ends, you can access webinar and meeting reports through Zoom. These allow you to see numbers related to registrations, attendees, engagement, participant feedback and the results of polls or Q&As.
+This "event" refers to the event or "series of events." The data collected here refers to those who participated in the event.
 
-### Social media
-- what of the event is shared on social media
-- are there any blogs written?
+## Ways to Collect Feedback
+- Surveys
+- 1:1 meetings with participants
+- social media comments
+
+## Ways to measure impact
+
+- Measuring diversity of participants
+    - Measurements may include various dimentions of diversity: gender, age, geographical location, language, race, experience in event topic, etc.
+    
+
+- Website traffic
+    - Includes views of website, pages of interest, etc.
+- Number of participants who signed up for event.
+- Number of participants who attended the event.
+    - Attrition rate.
+    - How many people stayed until the end of the event?
+
+## Social Media
+- Is the event shared and mentioned on social media?
+- Were any blogs written by participants?
+
 
 ### Surveys / Feedback
 - what feedback is received from formal surveys?
@@ -47,23 +47,26 @@
 - NPS (Net Promoter Score)
 
 ## Results 
-- measuring accomplishments at event.
-- could be code written for hackathons
-- could be pull requests begun / merged at open source events
+- Measuring accomplishments at event.
+- Could be code written for hackathons.
+- Could be pull requests begun / merged at open source events.
 
 ## Post-event
-- Long term- measuring long term impact of event
 
-## Ways to measure impact
-- surveys- 1:1 meetings with participants
-- social media comments
+### Long term
+- Measuring long term impact of event
 
-Event engagement able to track the number of comments/chats or participation in live polls.
+## Available Data for Measurement
 
-topic:  impact, measurement
+### Website Analytics
+- Google Analytics
 
-How do you design an engagement with an event.Who is the audience?  People who are running community engagementsWhere would those leaders go to get guidance?
-Ways to measure community health / impact.community health
+### Zoom (or other platform) Analytics
+- After the event ends, you can access webinar and meeting reports through Zoom. These allow you to see numbers related to registrations, attendees, engagement, participant feedback and the results of polls or Q&As.
+- Data may be available related to number of comments/chats or participation in live polls.
+
+### Social media
+- Summarizing the views and engagement of various social media platforms such as LinkedIn, Twitter, YouTube, Instagram, Facebook, etc.
 
 ## References
 - [Tracking Impact and Measuring Success in Data Education Events](https://eventfund.codeforscience.org/tracking-impact-and-measuring-success-in-data-education-events/)
