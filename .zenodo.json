@@ -1,0 +1,22 @@
+{
+  "creators": [
+    {
+      "name": "all contributors, The Turing Way Community"
+    }
+  ],
+  "keywords": [
+    "research practices",
+    "data science",
+    "reproducibility",
+    "collaboration",
+    "ethics",
+    "community",
+    "handbook"
+  ],
+  "license": {
+    "id": "CC-BY-4.0"
+  },
+  "publication_date": "2021-11-10",
+  "title": "the-turing-way",
+  "version": "1.0.1"
+}
