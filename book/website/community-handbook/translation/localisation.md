@@ -25,7 +25,7 @@ Translation Memory can be described as a database of sentences or texts and thei
 A glossary is a collection of the key terms that are used in the project to ensure consistency. The glossary helps in creating, storing, and managing all the project terminology in one place.
 - **Machine Translation**
 
-Machine Translation can speed up the translation process. It provides translation suggestions from automatic translation services like Google Translate and AutoML Translation, Microsoft Translate, and more. 
+Machine Translation can speed up the translation process. It provides translation suggestions from automatic translation services like Google Translate and AutoML Translation, Microsoft Translate, and more.
 - **Integration with GitHub**
 
 Continuous integration is vital for automation in open sources projects. Many localisation platforms offer integration with GitHub, which synchronises source and translation files between your GitHub repository and translation project.
