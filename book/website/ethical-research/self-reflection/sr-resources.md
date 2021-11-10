@@ -27,4 +27,6 @@ Some of these resources refer to qualitative research but are widely applicable 
 
 [Costanza-Chock, S., (2020) Design Justice: Community-Led Practices to Build the World We Need](https://design-justice.pubpub.org/) {cite:ps}`costanza2020design` 
 
+[D'ignazio, C., & Klein, L. F. (2020). Data Feminism](https://mitpress.mit.edu/books/data-feminism) {cite:ps}`datafeminism2020`
+
 [Birhane, A. (2021) Algorithmic Injustices: A Relational Ethics Approach](https://www.sciencedirect.com/science/article/pii/S2666389921000155) {cite:ps}`birhane2021algorithmic`
