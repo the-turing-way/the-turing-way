@@ -47,7 +47,7 @@ Your image caption here
 
 > To include code blocks, simply enclose your code in three sets of backticks shown below.
 
-```
+```python
 def simple_function():
     pass
 ```

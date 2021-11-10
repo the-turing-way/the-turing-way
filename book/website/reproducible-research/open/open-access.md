@@ -50,9 +50,9 @@ For instance, the accepted version could be made publicly available after public
 (rr-open-access-whatis-publishing)=
 ### Open Access Publishing
 
-Open access publishing attempts to ensure permanent open access to all the articles published in journals and results in the creation of the open access journals.
+Open access publishing attempts to ensure permanent open access to all the articles published in journals and results in the creation of open access journals.
 The number of open access journals has increased during the last years, according to the Directory of Open Access Journals \([DOAJ](http://www.doaj.org)\). Currently, there are more than 12,000.
-Open access journals must provide free access to its contents, but it also must licence them to allow reusability.
+Open access journals must provide free access to their contents, but they also must licence them to allow reusability.
 
 Currently, many paywalled journals offer individual open access options to researchers once the paper is accepted after peer review.
 Those options include the publication under a free content licence and give free accessibility to anyone since its first publication.

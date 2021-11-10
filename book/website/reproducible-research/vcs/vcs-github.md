@@ -105,7 +105,7 @@ It is also possible to make pull requests via the command line (see the GitLab d
 ## Contributing to Other Projects
 
 When you create a local copy of a repository, you only keep the versions of the files that are in the repository at the time of creating that copy.
-If any changes are made in the original repository afterwards, your copy will get out of sync out-of-sync.
+If any changes are made in the original repository afterwards, your copy will get out of sync.
 This can lead to problems like conflicting file contents when making a pull request or merging changes from your branch to the main repository.
 Therefore, when working on different branches or forks of a repository, it is a good practice to keep them updated with the main repository and in sync with the original repository.
 
