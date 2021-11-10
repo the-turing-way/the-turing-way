@@ -1,9 +1,9 @@
+(cm-pr-guidance)=
 # Peer review for a journal: guidance
 
 
 The text is inspired by this [blog post](https://renebekkers.wordpress.com/2020/06/24/how-to-review-a-paper/) by [Rene Bekkers](https://research.vu.nl/en/persons/rene-bekkers), released under the CC BY 4.0 licence.
 
----
 
 One of the added values of a journal articles, compared to, for instance, a preprint is that it has been peer reviewed and modified by the author in response to the reviewer's suggestions. 
 [{term}`def<Peer Review>`] should be seen as improving the quality of the research. 
@@ -13,6 +13,7 @@ Another complicating factor is that there is no consensus among journals and edi
 The extensive set of criteria provided here are general considerations from the perspectives of opennnes and reproducibility.
 The bar is set pretty high: a review checking each of the criteria will take you at least three hours, but more likely between five and eight hours. 
 
+(cm-pr-guidance-before)=
 ## Before you accept the invitation
 
 The following steps will help you make a decision whether to review the paper or not.
@@ -47,6 +48,7 @@ You might get requests to review a paper that you have reviewed before, for a co
 In these cases, you can let the editor know and ask the editor whether she would like to see the previous review. 
 For the editor it will be useful to know whether the current manuscript is the same as the version, or includes revisions.
 
+(cm-pr-guidance-writing)=
 ## Writing a review
 
 ### How to organize the review work
@@ -108,6 +110,7 @@ Also some editors do not appreciate signed reviews and may take away the identif
 If the authors have revised their paper, check if your suggestions have been implemented. 
 It is a good principle to avoid making new demands for the second round that you have not made before. 
 
+(cm-pr-guidance-refs)=
 ## Further references
 
 * Alexander, G.R. (2005). A Guide to Reviewing Manuscripts. Maternal and Child Health Journal, 9 (1): 113-117. https://doi.org/10.1007/s10995-005-2423-y
