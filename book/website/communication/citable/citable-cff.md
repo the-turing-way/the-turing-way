@@ -1,12 +1,12 @@
 (cm-citable-cff)=
-# Software citation with CITATION.cff
+# Software Citation with CITATION.cff
 
 The [Citation File Format](https://citation-file-format.github.io) lets you provide citation metadata for software or datasets in plaintext files that are easy to read by both humans and machines.
 To provide this metadata, write a `CITATION.cff` file and ship it with your software or dataset.
 A `CITATION.cff` file aggregates the information in a key-value format that can be easily interpreted and updated by humans, and easily parsed and converted with existing tools.
 
 (cm-citable-cff-why)=
-## Why use `CITATION.cff` (Stephan)
+## Why Use `CITATION.cff` (Stephan)
 
 When you do this, great things may happen:
 
@@ -16,7 +16,7 @@ When you do this, great things may happen:
 - People can import the correct reference to your software into the Zotero reference manager via a browser plugin.
 
 (cm-citable-cff-how-to-create)=
-## How to create a `CITATION.cff` file (Faruk)
+## How to Create a `CITATION.cff` File (Faruk)
 
 The `CITATION.cff` is basically a `YAML` file with its own schema definition. The schema defines the rules for each field and which fields are required and which ones are optional. The user needs to follow these rules to create a valid `CITATION.cff` file.
 
@@ -60,11 +60,11 @@ version: 0.11.2
 
 The complete list of fields is described in the [CFF specification](https://citation-file-format.github.io/specification/), but keep reading to find out which tools can help you create and use the `CITATION.cff` file.
 
-### Steps to make your software citable
+### Steps to Make Your Software Citable
 
 To make your software citable you need to follow the three steps below.
 
-#### 1. Creating a `CITATION.cff` file
+#### 1. Creating a `CITATION.cff` File
 
 There are two ways of creating a `CITATION.cff` file.
 
@@ -189,7 +189,7 @@ alt: Last page of the complete form.
 ---
 Last page of the complete form. CC-BY-SA.
 ```
-#### 2. Validating your `CITATION.cff` file
+#### 2. Validating Your `CITATION.cff` File
 
 ```{note}
 If you used `cffinit` to create your `CITATION.cff`, then you can skip to [step 3](citable-cff.html#adding-your-citation-cff-to-a-public-code-repository).
@@ -212,12 +212,12 @@ If you get an error messages, look for the relevant validation error and fix it.
 
 To make sure that your GitHub repository always has a valid `CITATION.cff` file, you can use the GitHub Action [cff-validator](https://github.com/marketplace/actions/cff-validator).
 
-#### 3. Adding your `CITATION.cff` to a public code repository
+#### 3. Adding Your `CITATION.cff` to a Public Code Repository
 
 After creating a `CITATION.cff` file you will need to add it to your GitHub repository so that GitHub can recognize it. For instructions please see [GitHub guide on software citation.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
 
 (cm-citable-cff-how-to-cite)=
-## How to cite using `CITATION.cff` (Abel)
+## How to Cite Using `CITATION.cff` (Abel)
 
 If you have found a software or dataset that contains a `CITATION.cff`, there are a few ways to obtain the reference information to cite it in your publication.
 
@@ -234,7 +234,7 @@ alt: Button on GitHub that provides automatically conversion of the `CITATION.cf
 ```
 
 (cm-citable-cff-available-tools)=
-## Available tools (Abel and Faruk)
+## Available Tools (Abel and Faruk)
 
 Several tools exist to facilitate the creation and validation of `CITATION.cff` files, as well as the conversion to and from other formats.
 See the [table at the repository's specification](https://github.com/citation-file-format/citation-file-format#tools-to-work-with-citationcff-files-wrench) for a list of all known tools.
