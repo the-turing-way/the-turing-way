@@ -241,7 +241,8 @@ parts:
       sections:
       - title: Planning for Project Design
         file: project-design/pd-overview/pd-overview-planning
-      - title: Communication and Collaboration
+      - title: 
+      cation and Collaboration
         file: project-design/pd-overview/pd-overview-repro
       - title: Reproducibility Methods
         file: project-design/pd-overview/pd-overview-methods
@@ -366,6 +367,11 @@ parts:
         file: communication/aa/large-personal-stories
       - title: Resources
         file: communication/aa/resources
+    - title: Peer Review
+      file: communication/peer-review
+      sections:
+      - title: Peer Review for a Journal: Guidance
+        file: communication/peer-review/peer-review-guidance
 
   # ===== Guide for Collaboration ========================================
 
