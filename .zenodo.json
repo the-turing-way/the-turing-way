@@ -1,7 +1,7 @@
 {
   "creators": [
     {
-      "name": "all contributors, The Turing Way Community"
+      "name": "All Contributors, The Turing Way Community"
     }
   ],
   "keywords": [
@@ -17,6 +17,6 @@
     "id": "CC-BY-4.0"
   },
   "publication_date": "2021-11-10",
-  "title": "the-turing-way",
+  "title": "The Turing Way: Handbook to reproducible, ethical and collaborative research",
   "version": "1.0.1"
 }
