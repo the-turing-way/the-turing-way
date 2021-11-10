@@ -66,7 +66,7 @@ The complete list of fields is described in the [CFF schema guide](https://githu
 
 To make your software citable you need to follow the three steps below.
 
-#### 1. Creating a `CITATION.cff` File
+#### 1. Create a `CITATION.cff` File
 
 There are two ways of creating a `CITATION.cff` file.
 
@@ -191,7 +191,7 @@ alt: Last page of the complete form.
 ---
 Last page of the complete form. CC-BY-SA.
 ```
-#### 2. Validating Your `CITATION.cff` File
+#### 2. Validate Your `CITATION.cff` File
 
 ```{note}
 If you used `cffinit` to create your `CITATION.cff`, then you can skip to [step 3](citable-cff.html#adding-your-citation-cff-to-a-public-code-repository).
@@ -214,7 +214,7 @@ If you get an error messages, look for the relevant validation error and fix it.
 
 To make sure that your GitHub repository always has a valid `CITATION.cff` file, you can use the GitHub Action [cff-validator](https://github.com/marketplace/actions/cff-validator).
 
-#### 3. Adding Your `CITATION.cff` to a Public Code Repository
+#### 3. Add Your `CITATION.cff` to a Public Code Repository
 
 After creating a `CITATION.cff` file you will need to add it to your GitHub repository so that GitHub can recognize it. For instructions please see [GitHub guide on software citation.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
 
