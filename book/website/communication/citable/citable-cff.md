@@ -14,7 +14,7 @@ It's *easier for you*: When you host your software source code on GitHub and hav
 
 It's *easier for the users of your software*:
 1. They can directly use the citation information from `CITATION.cff` to cite your software.
-2. If your source code is on GitHub, they will show the citation information in the sidebar as a formatted citation, and also in BibTex. Users can copy either, paste it into their manuscripts, and cite your software correctly.
+2. If your source code is on GitHub, they will show the citation information in the sidebar as a formatted citation, and also in the BibTeX format. Users can copy either, paste it into their manuscripts, and cite your software correctly.
 3. If they use the Zotero reference manager, they can import the citation metadata directly from the `CITATION.cff` file in the GitHub repository to their reference manager.
 
 (cm-citable-cff-how-to-create)=
