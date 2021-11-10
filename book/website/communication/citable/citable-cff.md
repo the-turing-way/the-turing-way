@@ -2,7 +2,7 @@
 # Software Citation with CITATION.cff
 
 The [Citation File Format](https://citation-file-format.github.io) lets you provide citation metadata for software or datasets in plaintext files that are easy to read by both humans and machines.
-To provide this metadata, write a `CITATION.cff` file and ship it with your software or dataset.
+To provide this metadata, create a `CITATION.cff` file and include it with your software or dataset.
 A `CITATION.cff` file aggregates the information in a key-value format that can be easily interpreted and updated by humans, and easily parsed and converted with existing tools.
 
 (cm-citable-cff-why)=
