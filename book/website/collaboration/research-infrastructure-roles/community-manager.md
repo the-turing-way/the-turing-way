@@ -52,9 +52,12 @@ You can find the Skills Wheel on Zendo here: [https://zenodo.org/record/4437294#
 (rir-communitymanagers-challenges)=
 ## Challenges for Community Managers 
 * Need to mediate between community members 
-* May not be seen as a part of the community themselves
+* May not be seen as a part of the community themselves and need to build trust and credibility within it
 * Need to have a lot of different skills (technical, interpersonal, project management)
+* Supporting and encouraging engagement in the community 
+* Building infrastructure from scratch in newly created roles 
 * Being seen as a professional in their own right and not just adminstrative staff 
+* Connecting with new audiences who are not aware of the community
 * Translating between different groups in the same field or institution 
 * Managing tasks where there is little formal process in place 
 * Managing the different priorities of different stakeholder groups 
@@ -65,6 +68,7 @@ You can find the Skills Wheel on Zendo here: [https://zenodo.org/record/4437294#
 ## Benefits to having Community Managers
 * Able to offer meta-thinking about how the community is structured and run 
 * Shares best practices around communication, collaboration, diversity, equity and inclusion, and other areas of research 
+* Supports the upskilling of members via technical skill sharing and training
 * Supports other members of the community to take on more active roles, increasing resilience and expansion of the community
 * Stewarding initiatives to develop the community such as data standards, a code of conduct, or training workshops
 * Offers a stable base for the community, to make sure meetings happen on time
