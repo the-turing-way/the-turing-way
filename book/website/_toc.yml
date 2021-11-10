@@ -369,7 +369,7 @@ parts:
     - title: Peer Review
       file: communication/peer-review
       sections:
-      - title: Peer Review for a Journal: Guidance
+      - title: Peer Review for a Journal
         file: communication/peer-review/peer-review-guidance
 
   # ===== Guide for Collaboration ========================================
