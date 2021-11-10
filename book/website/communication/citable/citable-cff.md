@@ -194,7 +194,7 @@ Last page of the complete form. CC-BY-SA.
 #### 2. Validate Your `CITATION.cff` File
 
 ```{note}
-If you used `cffinit` to create your `CITATION.cff`, then you can skip to [step 3](citable-cff.html#adding-your-citation-cff-to-a-public-code-repository).
+If you used `cffinit` to create your `CITATION.cff`, then you can skip to [step 3](citable-cff.html#add-your-citation-cff-to-a-public-code-repository).
 ```
 
 Once you have a `CITATION.cff` file, it needs to be validated to make sure there are no issues. You can validate your `CITATION.cff` file on the command line with the [`cffconvert` Python package](https://pypi.org/project/cffconvert/).
