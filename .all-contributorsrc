@@ -2841,6 +2841,24 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "pc494",
+      "name": "Phillip Crout",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32455330?v=4",
+      "profile": "https://github.com/pc494",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "aldenc",
+      "name": "Alden Conner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20688591?v=4",
+      "profile": "https://github.com/aldenc",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",

@@ -89,6 +89,9 @@ Some journals include or exclude embargoes depending on the versions.
 For instance, the accepted version could be made publicly available after publication, but the published version must wait 12 months. You can check journal policies on self-archiving using [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/index.php).
 
 An overview of Open Access and all the routes mentioned above are covered in these videos from [Welch Medical Library](https://www.youtube.com/watch?v=CFa2QeMgk9k) and the  [Unpaywall team](http://go.sirsidynix.com/2020-04-29-Episode-1-Introduction-to-Open-Access.html).
+Open access publishing attempts to ensure permanent open access to all the articles published in journals and results in the creation of open access journals.
+The number of open access journals has increased during the last years, according to the Directory of Open Access Journals \([DOAJ](http://www.doaj.org)\). Currently, there are more than 12,000.
+Open access journals must provide free access to their contents, but they also must licence them to allow reusability.
 
 
 (rr-open-access-why)=
