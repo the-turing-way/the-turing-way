@@ -66,7 +66,7 @@ This "event" refers to the event or "series of events." The data collected here 
 - Data may be available related to number of comments/chats or participation in live polls.
 
 ### Social media
-- Summarizing the views and engagement of various social media platforms such as LinkedIn, Twitter, YouTube, Instagram, Facebook, etc.
+- Summarizing the views and engagement of various social media platforms.
 
 ## References
 - [Tracking Impact and Measuring Success in Data Education Events](https://eventfund.codeforscience.org/tracking-impact-and-measuring-success-in-data-education-events/)
