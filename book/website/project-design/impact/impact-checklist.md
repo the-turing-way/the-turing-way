@@ -1,5 +1,5 @@
 (sectioninitials-filename)=
-# Checklist
+# Checklist For Measuring Impact
 
 > List out the action points you want the readers to take based on the key ideas in your chapter.
 > The action points can be categorised according to your subchapters (the key topics of your chapter), and may have sub-action points if necessary.
@@ -27,9 +27,9 @@
 - Action point 2
 - Action point 3
 
-Checklist
-Ways to Measure Impact
-Pre-event- measuring prerequisite skills
+## Pre-event
+- measuring prerequisite skills
+- measuring any demographic information
 
 ## Event
 - measuring diversity of participants
