@@ -5,13 +5,12 @@ Reflexivity is the process of using self-reflection to understand ourselves and 
 
 ## Questions about my own identity 
 
-- What are my own GRACES? 
-- How have my GRACES shaped my experiences of life? 
-- How have my GRACES shaped the decisions that have led me to do what I do now?
-- What are the GRACES of my family and friends? 
-  - What ideas and identities am I reguarly exposed to?
-- How much do I know about the ethical frameworks of different countries?
 - What is considered ethical in my culture, that other cultures may see differently?
+- What are my own {ref}`Social Graces<er-self-reflection-social-graces>`? 
+- How have my Social Graces shaped my experiences of life? 
+- How have my Social Graces shaped the decisions that have led me to do what I do now?
+- What are the Social Graces of my family and friends? 
+  - Are there Graces where we vary a lot/little?
 
 ## Questions about my research environment
 
@@ -26,6 +25,7 @@ Reflexivity is the process of using self-reflection to understand ourselves and 
 
 - What types of knowledge do I value? 
 - Am I more convinced by a certain type of data over another - why is that?
+- Are there certain people I am more likely to believe, or find convincing? 
 - What type of data presentation do I find convincing? 
 - What type of statistics do I view as more robust (and why)? 
 - What checks do I think data and analysis needs to go through to be considered robust? 
@@ -46,4 +46,4 @@ Reflexivity is the process of using self-reflection to understand ourselves and 
 - What were the dominant beliefs at the time?
 - What do you know about the people who created this data?
 
-Note, if you are creating a dataset and would like to record this information about your data for future users then consider using 'Datasheets for Datasets' as a guide. 
+Note, if you are creating a dataset and would like to record this information about your data for future users then consider using 'Datasheets for Datasets' {cite:ps}`gebru2018datasheets` as a guide. 
