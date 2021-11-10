@@ -6,14 +6,16 @@ To provide this metadata, create a `CITATION.cff` file and include it with your 
 A `CITATION.cff` file aggregates the information in a key-value format that can be easily interpreted and updated by humans, and easily parsed and converted with existing tools.
 
 (cm-citable-cff-why)=
-## Why Use `CITATION.cff` (Stephan)
+## Why Use `CITATION.cff`?
 
-When you do this, great things may happen:
+There are great advantages in using a `CITATION.cff` file for the citation information for your software!
 
-- Users of your software can easily cite it using the metadata from CITATION.cff!
-- If your repository is hosted on GitHub, they will show the citation information in the sidebar, which makes it easy for visitors to cite your software or dataset correctly.
-- When you publish your software on Zenodo via the GitHub-Zenodo integration, they will use the metadata from your `CITATION.cff` file.
-- People can import the correct reference to your software into the Zotero reference manager via a browser plugin.
+It's *easier for you*: When you host your software source code on GitHub and have a `CITATION.cff` in your repository, you can use the Zenodo-GitHub integration to automatically publish new releases of the software. Zenodo will use the information from `CITATION.cff` and show it together with the publication. You don't have to edit this information manually on Zenodo anymore.
+
+It's *easier for the users of your software*:
+1. They can directly use the citation information from `CITATION.cff` to cite your software.
+2. If your source code is on GitHub, they will show the citation information in the sidebar as a formatted citation, and also in BibTex. Users can copy either, paste it into their manuscripts, and cite your software correctly.
+3. If they use the Zotero reference manager, they can import the citation metadata directly from the `CITATION.cff` file in the GitHub repository to their reference manager.
 
 (cm-citable-cff-how-to-create)=
 ## How to Create a `CITATION.cff` File (Faruk)
