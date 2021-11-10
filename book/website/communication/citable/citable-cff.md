@@ -33,7 +33,7 @@ message: "If you use this software, please cite it using these metadata."
 title: "My Research Software"
 ```
 
-However, adding more fields can help you have a more descriptive metadata of your software. The example below also provides important information of software such as version, release date, DOI, license, keywords.
+However, adding more fields can help you have more descriptive metadata of your software. The example below also provides important information of software such as version, release date, DOI, license, keywords.
 
 ```yaml
 abstract: "This is my awesome research software. It does many things."
