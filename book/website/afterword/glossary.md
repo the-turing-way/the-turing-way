@@ -363,6 +363,9 @@ Phony Target
 
 Power Users
   These are people who are already familiar enough with a platform to know the gotchas and tricks that make their experience more efficient.
+  
+Preprint
+   A preprint is a version of a scholarly or scientific paper that precedes formal peer review and publication in a peer-reviewed scholarly or scientific journal. It is usually uploaded by the authors to a public server where it is available openly.
 
 Prerequisite
   The prerequisite(s) of a rule correspond to files or other targets in the Makefile that must be up to date before the rule is run.
