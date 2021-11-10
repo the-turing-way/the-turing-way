@@ -2,7 +2,7 @@
 # Power and privilege
 
 When thinking about positionality, it is important to understand how we might hold power and privilege relative to the people we work with, those whose data we are studying, or the problems we are attempting to solve. 
-Our experiences of power and privilege or oppression are tightly interwoven with our experiences of class, race, and gender and more {cite:ps}`crenshaw1989demarginalizing, collins1990black`. These are important to consider because themes of power and privilege are present in all of our contexts, even if they are not immediately obvious, and often being privileged can make us 
+Our experiences of power and privilege or oppression are tightly interwoven with our experiences of class, race, and gender and more {cite:ps}`crenshaw1989demarginalizing, collins1990black`. These are important to consider because themes of power and privilege are present in all of our contexts, and having privilege can make us unaware of related issues that do not affect us directly.
 
 To illustrate, here are some examples of how power and privilege present as structural issues in data science:  
 <!-- Welcome more examples here! -->
