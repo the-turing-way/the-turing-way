@@ -26,11 +26,11 @@ This "event" refers to the event or "series of events." The data collected here 
 ## Ways to measure impact
 
 - Measuring diversity of participants
-    - Measurements may include various dimentions of diversity: gender, age, geographical location, language, race, experience in event topic, etc.
+    - Measurements may include various dimentions of diversity: gender, age, geographical location, language, race, experience in event topic.
     
 
 - Website traffic
-    - Includes views of website, pages of interest, etc.
+    - Includes views of website, pages of interest.
 - Number of participants who signed up for event.
 - Number of participants who attended the event.
     - Attrition rate.
