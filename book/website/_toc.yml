@@ -476,6 +476,15 @@ parts:
         file: ethical-research/activism/activism-case-study-google.md
     - title: Internal Policy Advocacy
       file: ethical-research/internal-policy
+    - title: Self-Reflection
+      file: ethical-research/self-reflection
+      sections: 
+      - title: Identity and Positionality
+        file: ethical-research/self-reflection/identity-positionality
+      - title: Self-Reflection Prompts
+        file: ethical-research/self-reflection/sr-prompts
+      - title: Further Resources
+        file: ethical-research/self-reflection/sr-resources
 
   # ===== Community Handbook ========================================
 
