@@ -9,7 +9,7 @@ The first scientific journal, Philosophical Transactions, was established in 166
 The 'commercialisation' of scientific publishing began in the 1940s and for many years publications, such as through a journal, conference proceedings or book were available to the public if purchased through a subscription fee or individually.
 
 However, new knowledge is built by synthesizing current scholarship and then building upon it.
-At the turn of the 21st century, the Open Access [{term}`def<Open Access>`] movement was established, principally through the Budapest Open Access Initative and the Berlin Declaration on Open Access. 
+At the turn of the 21st century, the Open Access [{term}`def<Open Access>`] movement was established, principally through the [Budapest Open Access Initative](https://www.budapestopenaccessinitiative.org/) and the Berlin Declaration on Open Access. 
 A quote from the Budapest Open Access Initative sums up the objective:
 >"We mean its free availability on the public internet, permitting any users to read, download, copy, distribute, print, search, or link to the full texts of these articles...the only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited"
 
@@ -17,12 +17,18 @@ It has been estimated around 28% of the scholarly literature is Open Access {cit
 
 (rr-open-access-routes)=
 ## Routes for Open Access
+
+An overview of Open Access and all the routes mentioned below are covered in these videos from [Welch Medical Library](https://www.youtube.com/watch?v=CFa2QeMgk9k) and the [Unpaywall team](http://go.sirsidynix.com/2020-04-29-Episode-1-Introduction-to-Open-Access.html).
+
+There is no 'correct' way to do Open Access and there are many different routes to sharing your research openly- we have shared 3 below that may help you.
+However, deciding on whether to share your research openly may depend on how promiment Open Access is in your field of research, how much resource you have to do this and whether there are restrictions or mandates from your funder or institution.
+
 (rr-open-access-preprints)=
 ### Preprints
 
-A preprint is a scientific manuscript that is uploaded by the authors to a public server before peer review. 
-The first preprint server called arXiv was established in 1991 for physical sciences. 
-Likely due to the inefficiency of traditonal journals, preprint servers for other disciplines have grown hugely in popularity over the last 5 years, with the emergence of bioRxiv, medRxiv, ChemRxiv, SocArXiv and many more.
+A preprint [{term}`def<Preprint>`] is a scientific manuscript that is uploaded by the authors to a public server before peer review. 
+The first preprint server called [arXiv](https://arxiv.org/) was established in 1991 for physical sciences. 
+Likely due to the inefficiency of traditonal journals, preprint servers for other disciplines have grown hugely in popularity over the last 5 years, with the emergence of [bioRxiv](https://www.biorxiv.org/), [medRxiv](https://www.medrxiv.org/), [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard), [SocArXiv](https://osf.io/preprints/socarxiv) and many more.
 Preprints allow researchers to get their results out quickly and gives the opportunity to get feedback on a manuscript before submitting it to a journal.
 Some journals will not allow a paper to be submitted if its already been posted on a preprint server as they consider it 'prior publication', however the ongoing popularity of preprints has forced many publishers to embrace preprints, or in the case of journals like eLife, actively encourage them {cite}`elife2020preprints`.
 You can find out more about preprints at [ASAPbio](https://asapbio.org/preprint-info).
@@ -33,14 +39,14 @@ You can find out more about preprints at [ASAPbio](https://asapbio.org/preprint-
 Traditionally many journals are subscription journals, meaning their content is behind a paywall. 
 Universities may have subscriptions to that journal, allowing you to access its content if you are based at a subscribing institution or you may be able to pay a one off fee to access an individual article.
 
-The Open Access movement led to the creation of Open Access journals, where the content is open for anyone to access. 
+The Open Access movement led to the creation of Open Access journals, where the content is open for everyone, with no need to pay, or be a member of a subscribing institution.
 The number of these journals is still increasing rapidly, with 17,000 listed in the Directory of Open Access Journals [DOAJ](http://www.doaj.org) (data fetched November 2021). 
 
 (rr-open-access-gold-publishing)=
 #### Gold Open Access publishing
 
-Gold Open Access Publishing (or sometimes referred to as libre) can be defined as paying an Article Processing Charge (APC) to a journal so they publish the final version of your article, which is then permanently and freely available online for anyone.
-The author will retain copyright of their article, usually via a Creative Commons licence of their choice, which dictates what others can do with the article. 
+Gold Open Access Publishing (or sometimes referred to as libre) can be defined as paying an Article Processing Charge (APC) to a journal so they publish the final version of your article under an open access license, which is then permanently and freely available online for anyone.
+The author will retain copyright of their article, usually via a [Creative Commons licence](https://creativecommons.org/) of their choice, which dictates what others can do with the article. 
 You can find out more about APCs in this [video](https://www.youtube.com/watch?v=QAeTKUpZq_Y).
 
 There can often be misconceptions around publishing in Open Access journals- as they are newer to the system they are often wrongly thought of as 'less rigorous' or 'lower quality' than the 'traditional' journals. 
@@ -48,7 +54,7 @@ Some researchers have also been caught up in what is referred to as 'predatory p
 Following the [Think.Check.Submit guidelines](https://thinkchecksubmit.org/) can help researchers to avoid predatory journals.
 
 A criticism around gold Open Access publishing is also the cost. 
-Article Processing Charges (APCs) can generally be around $2000 or in some cases more, which can therefore be prohibitive for authors across the globe. 
+APCs can generally be around $2000 or in some cases more, which can therefore be prohibitive for authors across the globe. 
 Some publishers offer discounts or waivers to authors from countries classified by the World Bank as low-income economies or APCs may be covered by your funder as part of your grant. 
 
 Whilst some journals are fully Open Access, meaning all the articles they publish are open and free to read, some journals are hybrid.
@@ -88,12 +94,6 @@ Concerning the moment to make the paper publicly available, many journals establ
 Some journals include or exclude embargoes depending on the versions.
 For instance, the accepted version could be made publicly available after publication, but the published version must wait 12 months. You can check journal policies on self-archiving using [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/index.php).
 
-An overview of Open Access and all the routes mentioned above are covered in these videos from [Welch Medical Library](https://www.youtube.com/watch?v=CFa2QeMgk9k) and the  [Unpaywall team](http://go.sirsidynix.com/2020-04-29-Episode-1-Introduction-to-Open-Access.html).
-Open access publishing attempts to ensure permanent open access to all the articles published in journals and results in the creation of open access journals.
-The number of open access journals has increased during the last years, according to the Directory of Open Access Journals \([DOAJ](http://www.doaj.org)\). Currently, there are more than 12,000.
-Open access journals must provide free access to their contents, but they also must licence them to allow reusability.
-
-
 (rr-open-access-why)=
 ## Why Should You Share Your Research Openly?
 
@@ -114,12 +114,11 @@ They have also switched many of their journals from a closed, subscription model
 However, [many are critical](https://www.the-scientist.com/news-opinion/for-a-hefty-fee-nature-journals-offer-open-access-publishing-68181) of the increasing cost publishers are charging to publish in Open Access.
 
 Further pushes to make more research open and advocate for change in slow-changing publishers has come from initiatives such as [Plan S](https://www.coalition-s.org/why-plan-s/) which is backed by a coalition of funders and stakeholders. 
-UKRI have also recently announced a new [Open Access policy](https://www.ukri.org/news/ukri-announces-new-open-access-policy/) for work they fund, requiring immediate open access for peer-reviewed research articles submitted for publication from 1st April 2022.
+UKRI have also recently announced a new Open Access policy {cite}`ukri2021openaccess`for work they fund, requiring immediate open access for peer-reviewed research articles submitted for publication from 1st April 2022.
 
-The push for open is prevalent across the globe- [SciELO](https://en.wikipedia.org/wiki/SciELO) was created to meet the scientific communication needs of developing countries and provides an efficient way to increase visibility and access to scientific literature.
+The push for open is also prevalent across the globe- initiatives such as [SciELO](https://en.wikipedia.org/wiki/SciELO) which was created to meet the scientific communication needs of developing countries and provides an efficient way to increase visibility and access to scientific literature.
 
-Funders have also taken acion by becoming publishers themselves (referred to as Diamond Open Access). Platforms such as [Open Research Europe](https://open-research-europe.ec.europa.eu/) and [Wellcome Open Research](https://wellcomeopenresearch.org/) are Open Access publishing platforms for researchers funded by that specific funder.
+Funders have also taken action by becoming publishers themselves (referred to as Diamond Open Access). Platforms such as [Open Research Europe](https://open-research-europe.ec.europa.eu/) and [Wellcome Open Research](https://wellcomeopenresearch.org/) are Open Access publishing platforms for researchers funded by that specific funder.
 Funders see this as a service for their grantees- allowing them a venue to publish rapidly and openly for free (funders cover the cost of the infrastructure and the article processing charges) and to have more flexibility than publishing in a journal.
 These platforms allow researchers to publish a range of article types beyond the 'traditional research article', such as data notes, software tool articles, methods, research notes and more.
 These funder supported platforms also help shift the needle and inform new policies on researcher assessment, such as moving away from impact factor.
-
