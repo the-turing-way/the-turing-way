@@ -60,7 +60,7 @@ title: "My Research Software"
 version: 0.11.2
 ```
 
-The complete list of fields is described in the [CFF specification](https://citation-file-format.github.io/specification/), but keep reading to find out which tools can help you create and use the `CITATION.cff` file.
+The complete list of fields is described in the [CFF schema guide](https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md), but keep reading to find out which tools can help you create and use the `CITATION.cff` file.
 
 ### Steps to Make Your Software Citable
 
