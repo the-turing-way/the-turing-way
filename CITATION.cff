@@ -1,0 +1,10 @@
+cff-version: 1.0.1
+message: "To reference the latest version of The Turing Way, please cite it as below."
+authors:
+- family-names: "all contributors"
+  given-names: "The Turing Way Community"
+title: "the-turing-way"
+version: 1.0.1
+doi: https://doi.org/10.5281/zenodo.3233853
+date-released: 2021-11-10
+url: "https://github.com/alan-turing-institute/the-turing-way"
