@@ -480,7 +480,9 @@ parts:
       file: ethical-research/self-reflection
       sections: 
       - title: Identity and Positionality
-        file: ethical-research/self-reflection/identity-positionality
+        file: ethical-research/self-reflection/sr-positionality
+      - title: Power and Privilege
+        file: ethical-research/self-reflection/sr-power
       - title: Self-Reflection Prompts
         file: ethical-research/self-reflection/sr-prompts
       - title: Further Resources
