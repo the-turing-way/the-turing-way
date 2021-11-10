@@ -1,5 +1,5 @@
 (cm-pr-guidance)=
-# Peer review for a journal: guidance
+# Guidance on Peer Review for a Journal
 
 
 The text is inspired by this [blog post](https://renebekkers.wordpress.com/2020/06/24/how-to-review-a-paper/) by [Rene Bekkers](https://research.vu.nl/en/persons/rene-bekkers), released under the CC BY 4.0 licence.
