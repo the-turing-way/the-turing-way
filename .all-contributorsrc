@@ -2908,6 +2908,15 @@
         "review",
         "content"
       ]
+    },
+    {
+      "login": "rafaelaqueirozg",
+      "name": "Rafaela Queiroz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42815135?v=4",
+      "profile": "https://www.linkedin.com/in/rafaelaqueirozg/",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "projectName": "the-turing-way",
