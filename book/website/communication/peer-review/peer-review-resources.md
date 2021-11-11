@@ -3,7 +3,7 @@
 # Resources
 
 ## What to Learn Next
-If you have not read the {ref} chapter on Open Research<rr-open>, you might want to read it now for more context on how Peer Review fits into Open Research. Reading {ref}Guide for Collaboration <cl> might also help to think of your role in the scietific process.
+If you have not read the {ref}`chapter on Open Research<rr-open>`, you might want to read it now for more context on how Peer Review fits into Open Research. Reading {ref}`Guide for Collaboration <cl>` might also help to think of your role in the scietific process.
 
 ## Further Reading
 * Alexander, G.R. (2005). A Guide to Reviewing Manuscripts. Maternal and Child Health Journal, 9 (1): 113-117. https://doi.org/10.1007/s10995-005-2423-y
