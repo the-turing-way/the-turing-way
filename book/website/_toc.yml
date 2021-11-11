@@ -418,7 +418,7 @@ parts:
         file: collaboration/research-infrastructure-roles/data-steward
       - title: Data Steward Case Study
         file: collaboration/research-infrastructure-roles/data-steward/data-steward-case-study
-      - title: Research Software Engineers: Overview
+      - title: Research Software Engineers Overview
         file: collaboration/research-infrastructure-roles/research-software-engineer
     - title: Remote Collaboration
       file: collaboration/remote-collab
