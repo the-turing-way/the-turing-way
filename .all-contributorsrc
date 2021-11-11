@@ -2870,6 +2870,16 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "vhellon",
+      "name": "vhellon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93144591?v=4",
+      "profile": "https://github.com/vhellon",
+      "contributions": [
+        "review",
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",

@@ -7,7 +7,7 @@
 *Total Contributors:*
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-298-orange.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-299-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 | Information | Links |
@@ -541,6 +541,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/tugceoruc"><img src="https://avatars0.githubusercontent.com/u/20405276?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tugceoruc</b></sub></a><br /><a href="#ideas-tugceoruc" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/vasilisstav"><img src="https://avatars0.githubusercontent.com/u/55793023?v=4?s=100" width="100px;" alt=""/><br /><sub><b>vasilisstav</b></sub></a><br /><a href="#ideas-vasilisstav" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/vcpope"><img src="https://avatars.githubusercontent.com/u/62377353?v=4?s=100" width="100px;" alt=""/><br /><sub><b>vcpope</b></sub></a><br /><a href="#talk-vcpope" title="Talks">📢</a></td>
+    <td align="center"><a href="https://github.com/vhellon"><img src="https://avatars.githubusercontent.com/u/93144591?v=4?s=100" width="100px;" alt=""/><br /><sub><b>vhellon</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Avhellon" title="Reviewed Pull Requests">👀</a> <a href="#content-vhellon" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/yaseminturkyilmaz"><img src="https://avatars3.githubusercontent.com/u/45484225?v=4?s=100" width="100px;" alt=""/><br /><sub><b>yaseminturkyilmaz</b></sub></a><br /><a href="#blog-yaseminturkyilmaz" title="Blogposts">📝</a> <a href="#ideas-yaseminturkyilmaz" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
