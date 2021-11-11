@@ -95,14 +95,18 @@ We have created a [promotion pack](https://github.com/alan-turing-institute/the-
 
 ### Citing _The Turing Way_
 
-You can reference _The Turing Way_ through the project's Zenodo archive using DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
+We release the latest version of _The Turing Way_ through the project's Zenodo archive using DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
+This DOI is a "[concept DOI](https://help.zenodo.org)" which means it will always resolve to the latest version.
+If you need to cite a specific version you can find those DOIs at the zenodo page above. 
 DOIs allow us to archive the repository and they are really valuable to ensure that the work is tracked in academic publications.
 
 The citation will look something like this:
+> The Turing Way Community. (2021, November 10). The Turing Way: A handbook for reproducible, ethical and collaborative research. Zenodo. [http://doi.org/10.5281/zenodo.3233853](http://doi.org/10.5281/zenodo.3233853)
 
-> The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. <http://doi.org/10.5281/zenodo.3233986>
 
-You can also share the human-readable URL to a page in the book, for example, <https://the-turing-way.netlify.com/reproducibility/03/definitions.html>, but be aware that the project is under development and therefore these links may change over time.
+To see our workflow for making releases for different versions and to suggest improvements, please head over to the [release workflow document](./release-workflow.md).
+
+You can share the human-readable URL to a page in the book, for example, <https://the-turing-way.netlify.app/reproducible-research/overview/overview-definitions.html>, but be aware that the project is under development and therefore these links may update over time.
 You might want to include a web archive link such as <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> to make sure that you don't end up with broken links everywhere!
 
 We really appreciate any references that you make to _The Turing Way_ project in your and we hope it is useful.
