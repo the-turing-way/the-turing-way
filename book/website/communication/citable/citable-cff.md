@@ -8,7 +8,6 @@ A `CITATION.cff` file aggregates the information in a key-value format that can 
 (cm-citable-cff-why)=
 ## Why Use `CITATION.cff`?
 
-<<<<<<< HEAD
 There are great advantages in using a `CITATION.cff` file for the citation information for your software!
 
 It's *easier for you*: When you host your software source code on GitHub and have a `CITATION.cff` in your repository, you can use the Zenodo-GitHub integration to automatically publish new releases of the software. Zenodo will use the information from `CITATION.cff` and show it together with the publication. You don't have to edit this information manually on Zenodo anymore.
@@ -17,16 +16,6 @@ It's *easier for the users of your software*:
 1. They can directly use the citation information from `CITATION.cff` to cite your software.
 2. If your source code is on GitHub, they will show the citation information in the sidebar as a formatted citation, and also in the BibTeX format. Users can copy either, paste it into their manuscripts, and cite your software correctly.
 3. If they use the Zotero reference manager, they can import the citation metadata directly from the `CITATION.cff` file in the GitHub repository to their reference manager.
-=======
-UNDER CONSTRUCTION
-
-<!-- When you do this, great things may happen:
-
-- Users of your software can easily cite it using the metadata from CITATION.cff!
-- If your repository is hosted on GitHub, they will show the citation information in the sidebar, which makes it easy for visitors to cite your software or dataset correctly.
-- When you publish your software on Zenodo via the GitHub-Zenodo integration, they will use the metadata from your `CITATION.cff` file.
-- People can import the correct reference to your software into the Zotero reference manager via a browser plugin. -->
->>>>>>> origin/software-citation
 
 (cm-citable-cff-how-to-create)=
 ## How to Create a `CITATION.cff` File (Faruk)
@@ -71,21 +60,13 @@ title: "My Research Software"
 version: 0.11.2
 ```
 
-<<<<<<< HEAD
-The complete list of fields is described in the [CFF schema guide](https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md), but keep reading to find out which tools can help you create and use the `CITATION.cff` file.
-=======
-The complete list of fields is given in the [CFF specification](https://citation-file-format.github.io/specification/). In the next section you can find out which tools can help you create and use the `CITATION.cff` file.
->>>>>>> origin/software-citation
+The complete list of fields is described in the [CFF schema guide](https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md). In the next section you can find out which tools can help you create and use the `CITATION.cff` file.
 
 ### Steps to Make Your Software Citable
 
 To make your software citable you need to follow the three steps below.
 
-<<<<<<< HEAD
-#### 1. Create a `CITATION.cff` File
-=======
-#### Step 1. Creating a `CITATION.cff` file
->>>>>>> origin/software-citation
+#### Step 1. Create a `CITATION.cff` File
 
 There are two ways of creating a `CITATION.cff` file.
 
@@ -227,12 +208,7 @@ alt: Last page of the complete form.
 ---
 Last page of the complete form. CC-BY-SA.
 ```
-<<<<<<< HEAD
-#### 2. Validate Your `CITATION.cff` File
-=======
-
-#### Step 2. Validating your `CITATION.cff` file
->>>>>>> origin/software-citation
+#### Step 2. Validate Your `CITATION.cff` File
 
 ```{note}
 If you used `cffinit` to create your `CITATION.cff`, then you can skip to [step 3](citable-cff.html#add-your-citation-cff-to-a-public-code-repository).
@@ -256,11 +232,7 @@ If you get error messages, look for the relevant validation error and fix it.
 
 To make sure that your GitHub repository always has a valid `CITATION.cff` file, you can use the GitHub Action [cff-validator](https://github.com/marketplace/actions/cff-validator).
 
-<<<<<<< HEAD
-#### 3. Add Your `CITATION.cff` to a Public Code Repository
-=======
-#### Step 3. Adding your `CITATION.cff` to a public code repository
->>>>>>> origin/software-citation
+#### Step 3. Add Your `CITATION.cff` to a Public Code Repository
 
 After creating a `CITATION.cff` file you will need to add it to your GitHub repository so that GitHub can recognize it. GitHub already has instructions to show how to do this.For instructions please see [GitHub guide on software citation.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
 
