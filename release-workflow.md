@@ -2,6 +2,7 @@
 
 We release the latest versions of the main repository including the content from _The Turing Way_ book on Zenodo (DOI for all versions: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853)).
 In this document, we describe the process for making a release on Zenodo through GitHub.
+
 We don't describe how to connect a GitHub account/repository to a Zenodo account.
 To learn more about that, please read the details in [this post](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content).
 
