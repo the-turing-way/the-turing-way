@@ -22,6 +22,10 @@ Please note that we have currently left out individual names from the CITATION f
 - Click on [the release option](https://github.com/alan-turing-institute/the-turing-way/releases) on GitHub main repository
 - Draft a [new release](https://github.com/alan-turing-institute/the-turing-way/releases/new)
 - Click 'Choose a tag', provide a new version name (such as v1.0.1, v1.02, ...) and click the 'create a new tag on release' option
+- A note on when we consider a version to be [major, minor or patch](https://semver.org/):
+  - patch: Small additions to chapters are patch such as bug fixing, editing or minor contributions between the Book Dashes
+  - minor: Significant number of the new content & new chapters such as during a Book Dash
+  - major: Major changes such as major re-arranging of chapters into different guides or addition of a new guide
 - Create a release title such as 'v1.0.1 The Turing Way: 2021 release'
 - Add details similar to what we have provided below that summarises what changes are in this version and provide a short sentence under the release log:
 
