@@ -39,7 +39,7 @@ This release in 2021 includes additional chapters developed by our contributors 
 Release log:
 
     v1.0.1: Zenodo metadata information and additional chapters.
-    v1.0.0: Five guide expansion of The Turing Way with a community handbook
+    v1.0.0: Five guide expansion of The Turing Way with a community handbook.
     v0.0.4: Continuous integration chapter merged to master.
     v0.0.3: Reproducible environments chapter merged to master.
     v0.0.2: Version control chapter merged to master.
