@@ -30,6 +30,38 @@ It is important to assure that team members can easily access resources both for
 - Create opportunities for informal interactions that can help create a friendly work environment and build a strong sense of team spirit.
 - Encourage and embrace diversity and a culture of collaboration.
 
+
+### Tools
+<!--
+Moved from the "Tools for Remote Collaboration" subchapter"
+-->
+
+#### Task Management Tools
+
+Every event has several stages of planning and organising that involve numerous tasks as discussed in earlier subchapters.
+Therefore, it is important to track those tasks in an online event management tool, where the responsible individuals can see their to-dos and deadlines, and collaborate with others.
+
+- [Trello](https://trello.com/): online kanban like tools to assign tasks and checklists to individual users and monitor their progress.
+- [Asana](https://asana.com/): online kanban tool that can be used for creating different teams create tasks, set deadlines and send reminders.
+- [Jira](https://www.atlassian.com/software/jira): useful for large event teams to help them track tasks before, during, and after the event.
+- [GitHub project board](https://github.com/features/project-management/): every repository on GitHub can have a project board where tasks can be issues and Pull Requests that can be coordinated, tracked, and updated transparently by all contributors.
+- [notion.so](https://www.notion.so/): This is a high-level project management tool that allows storing reports, creating documents and integrate different tools.
+
+
+#### Maintaining Shared Notes
+
+<!--
+Possible subcategories: storage; real-time collaboration; version control
+-->
+
+It is important to create shared notes, but also to save them to share with others and to make them available to refer back to later.
+
+- [Google Drive](https://en.wikipedia.org/wiki/Google_Drive): Google Drive is a file storage and synchronization service developed by Google.
+- [DropBox](https://www.dropbox.com/): Dropbox is a file hosting service operated by the American company Dropbox.
+- [owncloud](https://owncloud.com/): ownCloud is a suite of client-server software for creating and using file hosting services. ownCloud functionally has similarities to the widely used Dropbox.
+- [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/free-trial/) and [BitBucket](https://bitbucket.org/product): Platforms for hosting, sharing and collaborating on documents and software with a version control system (see [this post for detail/difference](https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab)).
+
+
 ## Further reading
 
 - Read this post by Zapier on [How to Manage a Remote Team](https://zapier.com/learn/remote-work/how-manage-remote-team/)
