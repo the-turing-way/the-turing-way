@@ -412,12 +412,12 @@ parts:
     - title: Research Infrastructure Roles
       file: collaboration/research-infrastructure-roles
       sections:
-      - title: Community Managers: Overview
+      - title: Community Managers Overview
         file: collaboration/research-infrastructure-roles/community-manager
-      - title: Data Stewards: Overview
+      - title: Data Stewards Overview
         file: collaboration/research-infrastructure-roles/data-steward
-        - title: Data Steward Case Study
-          file: collaboration/research-infrastructure-roles/data-steward/data-steward-case-study
+      - title: Data Steward Case Study
+        file: collaboration/research-infrastructure-roles/data-steward/data-steward-case-study
       - title: Research Software Engineers: Overview
         file: collaboration/research-infrastructure-roles/research-software-engineer
     - title: Remote Collaboration
