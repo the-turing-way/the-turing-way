@@ -10,7 +10,7 @@ Data Stewards are a growing role within scientific communities.
 The core responsibilities of a Data Steward can vary, ranging from policy advisor/consultant, to hands-on operational tasks, to technical or ICT-related tasks. 
 A Data Steward facilitates the quality, integrity and access to (meta)data in a manner that is consistent with the appropriate laws and institutional policies, ensuring professional treatment of data throughout all stages of the research project. 
 
-See also: Verheul, I., Imming, M., Ringersma, J., Mordant, A., Van der Ploeg, J., Pronk, M. (2019). Data Stewardship on the map: A study of tasks and roles in Dutch research institutes https://doi.org/10.5281/zenodo.2669150, 
+See also: {cite:ps}`Verheul2019DataStewardship`
 
 ## Who are Data Stewards?
 Data Stewards are individuals with an interest in research data, and all the aspects that are related to this. 
@@ -22,7 +22,7 @@ This background is needed to speak the same language as scientific staff, so tha
 Pending on the particular focus of the position, you would need a more technical/ICT background, knowledge of discipline specific matters or experience with advising and policy construction. 
 Soft skills are important in the advisory/policy roles, as you need to..
 
-The “Towards FAIR data stewardship as profession” report (Scholtens, S., Jetten, M., Böhmer, J., Staiger, Ch., Slouwerhof, I., Van der Geest, M. & Van Gelder, C.W.G. (2019, October 3). Final report: Towards FAIR data steward as profession for the lifesciences. Report of a ZonMw funded collaborative approach built on existing expertise. http://doi.org/10.5281/zenodo.3474789) concluded that there are eight competency areas that of importance to Data Stewards: 
+The “Towards FAIR data stewardship as profession” report ({cite:ps}`Scholtens2019FAIRSteward`) concluded that there are eight competency areas that of importance to Data Stewards: 
 1. Policy/strategy: designing or raising awareness of research data management policies and regulations
 2. Compliance: advise on how to confer to research data management policies and regulations
 3. Facilitating FAIR/recommended research data management practices
@@ -33,19 +33,15 @@ The “Towards FAIR data stewardship as profession” report (Scholtens, S., Jet
 8. Data sharing: archiving and publishing
 
 Next to these specific areas coordination of work and development of soft skills may be important. 
+See also: {cite:ps}`Jetten2021DataStewardship`
 
 Generally, Data Stewards acquire these skills through learning-on-the-job, which is facilitated by existing networks (see {ref}`cl-infrastructure-datastewards-support` below). 
-Through these networks experiences can be exchanged with peers. 
-Examples of collaborative efforts are the '[23 Things: Support for Research Data](https://doi.org/10.5281/zenodo.3465896)' that provides a good overview of helpful resources for Data Stewards and ... 
+Through these networks experiences can be exchanged with peers, which is beneficial for personal and professional development. 
+An examples of these collaborative efforts is the '[23 Things: Support for Research Data]({cite:ps}`Jetten201923ThingsData`)' that provides a good overview of helpful resources for Data Stewards.
 Depending on the role of the Data Steward, learning discipline specific skills may be iportant through contributing to specific projects or attending conferences/meetings on relevant topics. 
-, joining community activities and personal/professional development. 
-
 As the research culture adapts to (inter)national changes, so too have the skills of the Data Steward have to be continuously updated. 
 
-Ref to the Dutch profiles that have just been set up.
 
-See also:  Mijke Jetten, Marjan Grootveld, Annemie Mordant, Mascha Jansen, Margreet Bloemers, Margriet Miedema, & Celia W.G. van Gelder. (2021). Professionalising data stewardship in the Netherlands. Competences, training and education. Dutch roadmap towards national implementation of FAIR data stewardship. Zenodo. 
-https://doi.org/10.5281/zenodo.4320504
 
 ## Challenges for Data Stewards
 * As Data Steward is a relatively new profession (~2017), their job profile is not always formally defined and their career-track may be unclear.
