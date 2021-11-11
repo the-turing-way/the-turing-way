@@ -2,7 +2,7 @@
 # (WIP) Software Citation with CITATION.cff
 
 The [Citation File Format](https://citation-file-format.github.io) lets you provide citation metadata for software or datasets in plaintext files that are easy to read by both humans and machines.
-To provide this metadata, create a `CITATION.cff` file and include it with your software or dataset.
+To provide this metadata, start by writing a `CITATION.cff` file and include it with your software or dataset.
 A `CITATION.cff` file aggregates the information in a key-value format that can be easily interpreted and updated by humans, and easily parsed and converted with existing tools.
 
 (cm-citable-cff-why)=
@@ -20,9 +20,9 @@ It's *easier for the users of your software*:
 (cm-citable-cff-how-to-create)=
 ## How to Create a `CITATION.cff` File (Faruk)
 
-The `CITATION.cff` is a `YAML` file with its own schema definition. The schema defines the rules for each field and which fields are required and which ones are optional. The user needs to follow these rules to create a valid `CITATION.cff` file.
+The `CITATION.cff` is a `YAML` file with its own schema definition. The schema defines the rules for each field, and which fields are required and which ones are optional. The user must follow these rules in order to create a valid `CITATION.cff` file.
 
-A minimal example of a valid `CITATION.cff` file, that contains only the required keys, would look like this:
+A minimal example of a valid `CITATION.cff` file, that only contains the required keys, would look like this:
 
 ```yaml
 authors:
@@ -33,7 +33,7 @@ message: "If you use this software, please cite it using the metadata from this 
 title: "My research software"
 ```
 
-However, adding more fields can help you have more descriptive metadata of your software. The example below also provides important information of software such as version, release date, DOI, license, keywords.
+However, adding more fields can help you create more descriptive metadata of your software. The example below also provides important information of software such as version, release date, DOI, license, keywords.
 
 ```yaml
 abstract: "This is my awesome research software. It does many things."
@@ -60,19 +60,19 @@ title: "My Research Software"
 version: 0.11.2
 ```
 
-The complete list of fields is described in the [CFF schema guide](https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md). In the next section you can find out which tools can help you create and use the `CITATION.cff` file.
+The complete list of fields is described in the [CFF schema guide](https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md). In the next section, you can find out which tools can help you create and use the `CITATION.cff` file.
 
 ### Steps to Make Your Software Citable
 
-To make your software citable you need to follow the three steps below.
+To make your software citable, you need to follow the three steps below.
 
 #### Step 1. Create a `CITATION.cff` File
 
 There are two ways of creating a `CITATION.cff` file.
 
-1. Editing the file manually in your favorite code editor. The disadvantages of this method are installing the required tools on your system and doing the validation yourself. The error messages of the validation can be relatively long and difficult to understand.
+1. Edit the file manually in your favorite code editor. The disadvantages of this method are installing the required tools on your system and doing the validation yourself. The error messages of the validation can be relatively long and difficult to understand.
 
-2. Using [cffinit](https://citation-file-format.github.io/cff-initializer-javascript/) which guides you through the process of creating your citation file. The `cffinit` has a few advantages over manual editing such as
+2. Use [cffinit](https://citation-file-format.github.io/cff-initializer-javascript/) which guides you through the process of creating your citation file. The `cffinit` has a few advantages compared to manual editing such as
 
     - no need for installing extra tools;
     - no need for automatic validation;
@@ -103,11 +103,11 @@ docker run --rm -v ${PWD}:/app citationcff/cffconvert --validate
 
 If you get error messages, look for the relevant validation error and fix it.
 
-To make sure that your GitHub repository always has a valid `CITATION.cff` file, you can use the GitHub Action [cff-validator](https://github.com/marketplace/actions/cff-validator).
+To make sure your GitHub repository always has a valid `CITATION.cff` file, you can use the GitHub Action [cff-validator](https://github.com/marketplace/actions/cff-validator).
 
 #### Step 3. Add Your `CITATION.cff` to a Public Code Repository
 
-After creating a `CITATION.cff` file you will need to add it to your GitHub repository so that GitHub can recognize it. GitHub already has instructions to show how to do this.For instructions please see [GitHub guide on software citation.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
+After creating a `CITATION.cff` file, you will need to add it to your GitHub repository so that GitHub can recognize it. GitHub already has instructions to show how to do this.For instructions please see [GitHub's guide on software citation.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
 
 (cm-citable-cff-how-to-cite)=
 ## How to Cite Using `CITATION.cff` (Abel)
@@ -116,7 +116,7 @@ If you have found a software or dataset that contains a `CITATION.cff`, there ar
 
 - You can use one of the tools, such as the `cffconvert` command line program, to convert your `CITATION.cff` file to one of the [supported formats](https://github.com/citation-file-format/cff-converter-python#supported-output-formats), such as APA, BibTeX or EndNote.
 
-- Alternatively, if the software or dataset you want to cite is available on GitHub, you can use GitHub's interface to copy the reference in either APA or BibTeX formats, by clicking the "Cite this repository" button (see the green area in the image below).
+- Alternatively, if the software or dataset you want to cite is available on GitHub, you can use GitHub's interface to copy the reference in either APA or BibTeX formats by clicking the "Cite this repository" button (see the green area in the image below).
 
   ```{note}
   "Cite this repository" button only appears when there is a `CITATION.cff` file on the repository.

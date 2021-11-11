@@ -1,7 +1,7 @@
 (cm-citable-cffinit)=
 # (WIP) Create a `CITATION.cff` using CFFinit
 
-Go to [cffinit](https://citation-file-format.github.io/cff-initializer-javascript/), click on the "Create" button at the bottom.
+Go to [cffinit](https://citation-file-format.github.io/cff-initializer-javascript/) and click on the "Create" button at the bottom.
 
 ```{figure} ../../figures/cffinit-0.jpg
 ---
@@ -16,7 +16,7 @@ Below you can find details about each step of the process.
 
 ##### Start screen
 
-In the first page of the application, enter the title of your work, write a message to indicate how your software to be mentioned, and select whether you are creating the `CITATION.cff` file for a software or a dataset.
+On the first page of the application, enter the title of your work, write a message to indicate how you want your software to be mentioned, and select whether you are creating a `CITATION.cff` file for a software or dataset.
 
 ```{figure} ../../figures/cffinit-1.jpg
 ---
@@ -29,7 +29,7 @@ First page of the application, for Title, Message and Type. CC-BY-SA.
 
 You can see the preview of the generated `CITATION.cff` file on the right.
 
-If there are issues in the fields, the error message will be shown in red text and the preview widget will have a red border around it.
+If there are issues in any of the fields, an error message will be shown in red text, and the preview widget will have a red border around it.
 
 The error message should disappear from this screen after you have filled the required fields, although the border of the generated CFF will remain red until you have filled all the required fields.
 Click next to continue to Authors screen.
@@ -48,7 +48,7 @@ First page of the form, for Title, Message and Type. Fields are filled. CC-BY-SA
 
 The CFF schema requires at least one author in the `CITATION.cff` file.
 Click the "Add author" button to open a form for adding an author.
-Fill the relevant fields for authors. Adding the ORCID is recommended.
+Fill the relevant fields for authors. Adding their ORCID is recommended.
 
 ```{figure} ../../figures/cffinit-2.jpg
 ---
