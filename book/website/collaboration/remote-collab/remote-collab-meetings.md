@@ -124,6 +124,8 @@ We have listed them in chronological order and divided into sections for "before
 Moved from the "Tools for Remote Collaboration" subchapter"
 -->
 
+### Finding a common availability
+
 Meeting scheduling platforms help find a common availability without having to check multiple times with all the intended participants.
 
 <!--
@@ -145,5 +147,23 @@ Below: different subtopic:
 It is particularly crucial to use meeting links like [arewemeetingyet](https://arewemeetingyet.com/#form) or [create/send calendar invitations](https://www.calendar.com/blog/how-to-send-a-google-calendar-invite/) to communicate these schedules to invitees from different countries and time zones.
 
 
+### Managing event registration
+
+<!--
+There could be separate categories for events and for daily or more regular collaboration
+- Events
+- Tools for asynchronous remote collab (creating shared notes goes here)
+- Tools for synchronous remote collab (hosting online calls)
+-->
+
+Effective event registration is the first place to get to know who will attend your event.
+It's especially important when the events are intended for a large group of people.
+
+- [Zoom](https://support.zoom.us/hc/en-us/articles/204619915-Scheduling-a-Webinar-with-Registration): Scheduling an online meeting and webinar with registration on Zoom provides an automatic brief form before receiving the link to join your webinar.
+- [Eventbrite](https://www.eventbrite.com/): An event management and ticketing website. The service allows users to browse, create, and promote local events. The service charges a fee to event organizers in exchange for the online ticketing services, unless the event is free.
+- [Google Form](https://en.wikipedia.org/wiki/Google_Forms): Google Forms is a survey administration software that allows registration/data collection that can be automatically entered into a spreadsheet.
+
+
+<br>
 
 ***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*
