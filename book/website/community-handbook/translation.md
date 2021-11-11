@@ -1,1 +1,2 @@
-Landing page (engaging, motivation) 
+(ch-translation)=
+# Translating _The Turing Way_

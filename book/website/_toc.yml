@@ -530,6 +530,8 @@ parts:
         file: community-handbook/acknowledgement/acknowledgement-record
       - title: Different Contributions and Acknowledgements
         file: community-handbook/acknowledgement/acknowledgement-examples
+    - title: Translating
+      file: community-handbook/translation  
     - title: Monthly Newsletters
       file: community-handbook/newsletters
       sections:
