@@ -1,6 +1,6 @@
 (cm-pr-overview)=
 
-# Peer Review
+# Peer Review Types
 
 [{term}`def<Peer Review>`] should be seen as improving the quality of the research. 
 Peer review can be formal or informal and ideally occurs at different levels throughout a project.
