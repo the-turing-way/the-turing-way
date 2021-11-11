@@ -37,7 +37,7 @@ See also: {cite:ps}`Jetten2021DataStewardship`
 
 Generally, Data Stewards acquire these skills through learning-on-the-job, which is facilitated by existing networks (see {ref}`cl-infrastructure-datastewards-support` below). 
 Through these networks experiences can be exchanged with peers, which is beneficial for personal and professional development. 
-An examples of these collaborative efforts is the '[23 Things: Support for Research Data]({cite:ps}`Jetten201923ThingsData`)' that provides a good overview of helpful resources for Data Stewards.
+An examples of these collaborative efforts is the '23 Things: Support for Research Data'({cite:ps}`Jetten201923ThingsData`) that provides a good overview of helpful resources for Data Stewards.
 Depending on the role of the Data Steward, learning discipline specific skills may be iportant through contributing to specific projects or attending conferences/meetings on relevant topics. 
 As the research culture adapts to (inter)national changes, so too have the skills of the Data Steward have to be continuously updated. 
 
