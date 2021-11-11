@@ -62,7 +62,8 @@ Some examples include:
 You can go a step further by allowing people to import information about your research objects into their preferred referencing database.
 If [BibTeX](https://en.wikipedia.org/wiki/BibTeX) is popular in your field for managing references, post a `.bib` file of *all* your outputs (not just your papers).
 If [Endnote](https://endnote.com/) is more popular, make an Endnote export available.
-If you use GitHub, GitLab or a similar public code repository, consider creating a `CITATION.cff` file in each repository containing guidance to describe how someone can refer to different research outputs from your project. You can read more about `CITATION.cff` in {ref}`Software citation with CITATION.CFF <cm-citable-cff>`.
+If you use GitHub, GitLab or a similar public repository, consider creating a `CITATION.cff` file in each repository, which will describe how someone can refer to different research outputs from your project.
+You can read more about `CITATION.cff` in {ref}`Software citation with CITATION.CFF <cm-citable-cff>`.
 
 If possible, provide several formats: you won't need to update these very often and it will pay off.
 
