@@ -2,7 +2,9 @@
 # Power and privilege
 
 When thinking about positionality, it is important to understand how we might hold power and privilege relative to the people we work with, those whose data we are studying, or the problems we are attempting to solve. 
-Our experiences of power and privilege or oppression are tightly interwoven with our experiences of class, race, and gender and more {cite:ps}`crenshaw1989demarginalizing, collins1990black`. These are important to consider because themes of power and privilege are present in all of our contexts. Having privilege can make us unaware of related issues that do not directly affect us.
+Our experiences of power and privilege or oppression are tightly interwoven with our experiences of class, race, and gender and more {cite:ps}`crenshaw1989demarginalizing, collins1990black`. 
+These are important to consider because themes of power and privilege are present in all of our contexts. 
+Having privilege can make us unaware of related issues that do not directly affect us.
 
 To illustrate, here are some examples of how power and privilege present as structural issues in data science:  
 <!-- Welcome more examples here! -->
@@ -17,7 +19,8 @@ By understanding systems and structures of power and oppression, and where we si
 
 Intersectionality is an important concept to know and understand when thinking about power, privilege and identity. 
 
-The term **intersectionality** refers to how multiple identities can intersect, and so people can be oppressed on the basis of combinations of their identities instead of, or as well as, their separate identities. The term was coined by Kimberlie Crenshaw in 1989 {cite:ps}`crenshaw1989demarginalizing` to describe the way that laws that protected Black people and women did not protect against discrimination that exclusively affected Black women. 
+The term **intersectionality** refers to how multiple identities can intersect, and so people can be oppressed on the basis of combinations of their identities instead of, or as well as, their separate identities. 
+The term was coined by Kimberlie Crenshaw in 1989 {cite:ps}`crenshaw1989demarginalizing` to describe the way that laws that protected Black people and women did not protect against discrimination that exclusively affected Black women. 
 Now, the term 'intersectionality' has become more widely used and broadly refers to how people are often disadvantaged by multiple sources of oppression. 
 
 Intersectionality has sometimes incorrectly been assumed to be a way of making a 'heirarchy of oppression', which is not its purpose. We must recognise that power and privilege is a case of _both/and_ rather than _either/or_. 

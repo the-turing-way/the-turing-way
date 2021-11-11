@@ -1,7 +1,8 @@
 (er-self-reflection-promts)=
 # Self Reflection Prompts
 
-Reflexivity is the process of using self-reflection to understand ourselves and our beliefs, and how these influence how we create knowledge through our work in data science. There are lots of different aspects you could consider, and the questions below are some prompts to help get you started. 
+Reflexivity is the process of using self-reflection to understand ourselves and our beliefs, and how these influence how we create knowledge through our work in data science. 
+There are lots of different aspects you could consider, and the questions below are some prompts to help get you started. 
 
 ## Questions about my own identity 
 

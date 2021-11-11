@@ -4,15 +4,20 @@
 (er-self-reflection-prerequisites)=
 ## Prerequisites
 
-There are no prerequisites for this chapter. However, it's advised that you should be aware of the {ref}`legal and human rights<er-law-policy>` context first if you are considering an ethical dialemma.
+There are no prerequisites for this chapter. 
+However, it's advised that you should be aware of the {ref}`legal and human rights<er-law-policy>` context first if you are considering an ethical dialemma.
 
 
 (er-self-reflection-summary)=
 ## Summary
 
-Our lived experiences and identities give us a particular lens to view the world through, which can be shaped by where we live, the places we work, the education we receive, or the dominant culture we were brought up in. However, this can also lead us to see a situation or problem in one particular way, or to take approaches that exclude certain people or groups. When it comes to ethical dilemmas, our lived experiences also shape our *personal ethics*, which are the way we make decisions about what is right or wrong. 
+Our lived experiences and identities give us a particular lens to view the world through, which can be shaped by where we live, the places we work, the education we receive, or the dominant culture we were brought up in. 
+However, this can also lead us to see a situation or problem in one particular way, or to take approaches that exclude certain people or groups. 
+When it comes to ethical dilemmas, our lived experiences also shape our *personal ethics*, which are the way we make decisions about what is right or wrong. 
 
-Self-reflection is a method we can use to examine our personal assumptions, patterns and actions. When we understand ourselves better, we can ask questions about why we do things in a certain way and challenge ourselves to consider new perspectives or to act differently. This can help to make sure the research we are conducting is responsible, inclusive, fair and ultimately ethical!
+Self-reflection is a method we can use to examine our personal assumptions, patterns and actions. 
+When we understand ourselves better, we can ask questions about why we do things in a certain way and challenge ourselves to consider new perspectives or to act differently. 
+This can help to make sure the research we are conducting is responsible, inclusive, fair and ultimately ethical!
 
 ```{figure} ../figures/ethics-self-reflection.jpg
 ---
@@ -25,9 +30,12 @@ Self Reflection. _The Turing Way_ project illustration by Scriberia. Used under 
 (er-self-reflection-motivation)=
 ## Motivation and Background
 
-As data scientists, we may not always see ourselves as people with much power. However, we are constantly creating tools and technologies that alter the course of many people's lives. In that sense, we have a **lot** of power, and with it comes responsibility for working towards justice and equality in our data science work. 
+As data scientists, we may not always see ourselves as people with much power. 
+However, we are constantly creating tools and technologies that alter the course of many people's lives. 
+In that sense, we have a **lot** of power, and with it comes responsibility for working towards justice and equality in our data science work. 
 
-We know we must be aware of fairness and bias in data science and AI, but the tools we make do not passively inherit these features - they are built into systems by decisions we make. By being aware of the kinds of biases we hold, we can do more to challenge them and create data science technologies that help people rather than harming them. 
+We know we must be aware of fairness and bias in data science and AI, but the tools we make do not passively inherit these features - they are built into systems by decisions we make. 
+By being aware of the kinds of biases we hold, we can do more to challenge them and create data science technologies that help people rather than harming them. 
 
 (er-self-reflection-influences)=
 ## Influences
