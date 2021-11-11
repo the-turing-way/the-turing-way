@@ -116,6 +116,11 @@ To make sure your GitHub repository always has a valid `CITATION.cff` file, you 
 
 After creating a valid `CITATION.cff` file, you will need to add it to root of your code or data repository so that it can be easily found and cited.
 
+(cm-citable-cff-updating)=
+## Updating your `CITATION.cff` file
+
+When you need to update your `CITATION.cff` file, for example to add an author or to change the information about releases, you will need to edit the file manually. It is recommended to update your `CITATION.cff` file before making a software release.
+
 (cm-citable-cff-how-to-cite)=
 ## How to Cite Using `CITATION.cff`
 
@@ -137,9 +142,6 @@ For more details on software citation on GitHub please see [GitHub's guide on so
   ```{note}
   "Cite this repository" button only appears when there is a `CITATION.cff` file in the repository.
   ```
-
-## Updating your `CITATION.cff` file
-UNDER CONSTRUCTION
 
 (cm-citable-cff-available-tools)=
 ## Available Tools
