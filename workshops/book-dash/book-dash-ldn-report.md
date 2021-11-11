@@ -92,13 +92,13 @@ Specifically:
 * Two underscores in file names break Travis/something with the CI and prevent you merging.
 * Learned how to make a pull request, discovered an online resource for hosting large datasets (Dataverse).
 * How to use travis for continuous integration and how to use GitHub better for doing a big collaborative project.
-* Create a `book-dash` branch that people can merge their PRs into. This could skip the requirement for CI in the short term, and then we could merge that branch to master at the end of the day.
+* Create a `book-dash` branch that people can merge their PRs into. This could skip the requirement for CI in the short term, and then we could merge that branch to main at the end of the day.
   * So a suggested work flow could be:
     * Fork and make changes
     * Open PR to `book-dash` branch
     * Review (interate)
     * Approve (no CI needed)
-  * At the end of the day, merge the `book-dash` branch to master if all tests pass.
+  * At the end of the day, merge the `book-dash` branch to main if all tests pass.
 * Emphasise style guide in introduction in addition to all the available templates (issue, pull request, chapter).
 
 ## Feedback

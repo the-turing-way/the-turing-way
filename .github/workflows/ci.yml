@@ -1,15 +1,15 @@
 name: CI
 
-# run on pushes and pull requests to master
+# run on pushes and pull requests to main
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - "book/**"
   pull_request:
     branches:
-      - master
+      - main
     paths:
       - "book/**"
 

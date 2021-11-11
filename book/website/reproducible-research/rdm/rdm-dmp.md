@@ -60,12 +60,12 @@ If you do not select a license others will not be able to reuse your data withou
 * You can put your research outputs into context using and introduction text, such as a README.txt file
     * See the {ref}`documentation and metadata section<rr-rdm-metadata>`
 
-You can use this [checklist](https://www.ukdataservice.ac.uk/manage-data/plan/checklist.aspx) to see if you have everything covered in your Data Management Plan. 
+You can use this [checklist](https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/checklist/) to see if you have everything covered in your Data Management Plan. 
 
 ## Further Reading Recommendations
 
 - [DataOne education modules](https://www.dataone.org/education-modules)
-- [UK Data Services data management information](https://www.ukdataservice.ac.uk/manage-data.aspx)
+- [UK Data Services data management information](https://ukdataservice.ac.uk/learning-hub/research-data-management/)
 - [TU Delft Research Data Management portal](https://www.tudelft.nl/en/library/research-data-management)
 - [Videos (3-7 min) on data management by Kristin Briney](https://www.youtube.com/watch?v=K5_ocBG5xek&list=PLEor4jq8YPgK_sgEiAcpHZLw-62mufXus)
 - Briney, Kristin. Data Management for Researchers : Organize, maintain and share your data for research success, Pelagic

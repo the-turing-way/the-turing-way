@@ -45,7 +45,7 @@ Outputs should be written straightforwardly to make them more accessible to thos
 * However, not all communications should be in English.
 Researchers need to consider the wider audience of their communications.
 There may be a specific community with another language that needs to be engaged fully in the research and therefore communications should be translated.
-* Global research communities should also consider translating key documents into additional languages as has been done for our project [README file](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md).
+* Global research communities should also consider translating key documents into additional languages as has been done for our project [README file](https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md).
 
 ## FAIR resources
 
