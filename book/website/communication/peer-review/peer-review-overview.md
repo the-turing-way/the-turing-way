@@ -22,8 +22,8 @@ Peer review is a critical component of advancing research. Types of peer review 
 * manuscripts
 * software (including code, documentation, and examples)
 * communication and presentation materials
-​
-​
+
+
 For manuscripts, one of the added values of a journal articles, compared to, for instance, a preprint is that it has been [peer reviewed and modified by the author in response to the reviewer's suggestions](here we need to ling to guidlines). 
 
-​
+
