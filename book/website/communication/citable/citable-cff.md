@@ -73,7 +73,7 @@ There are two ways of creating a `CITATION.cff` file.
 1. Use [cffinit](https://citation-file-format.github.io/cff-initializer-javascript/) which guides you through the process of creating your citation file. The `cffinit` has a few advantages compared to manual editing such as
 
     - no need for installing extra tools;
-    - no need for automatic validation;
+    - no need for manual validation;
     - guidance for each fields;
     - visual feedback to indicate issues.
 

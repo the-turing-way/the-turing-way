@@ -1,7 +1,13 @@
 (cm-citable-cffinit)=
-# (WIP) Create a `CITATION.cff` using CFFinit
+# Create a `CITATION.cff` using `cffinit`
 
-Go to [cffinit](https://citation-file-format.github.io/cff-initializer-javascript/) and click on the "Create" button at the bottom.
+`cffinit` is a web application which helps users create a `CITATION.cff` file.
+The application provides guidance for each field of the [CFF schema](https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md) and does the validation automatically.
+When there are issues it provides a visual feedback on relevant fields.
+
+In the following sections you can find details about each step of the process.
+
+To get started, visit [cffinit](https://citation-file-format.github.io/cff-initializer-javascript/) and click on the "Create" button to continue to screen `Start`.
 
 ```{figure} ../../figures/cffinit-0.jpg
 ---
@@ -12,9 +18,7 @@ alt: Landing page of cffinit.
 Landing page of cffinit. CC-BY-SA.
 ```
 
-Below you can find details about each step of the process.
-
-##### Start screen
+## Start
 
 On the first page of the application, enter the title of your work, write a message to indicate how you want your software to be mentioned, and select whether you are creating a `CITATION.cff` file for a software or dataset.
 
@@ -29,11 +33,14 @@ First page of the application, for Title, Message and Type. CC-BY-SA.
 
 You can see the preview of the generated `CITATION.cff` file on the right.
 
-If there are issues in any of the fields, an error message will be shown in red text, and the preview widget will have a red border around it.
+If there are issues in any of the fields, they will be highlighted and error messages will be shown in red.
+When the generated `CITATION.cff` file is not valid, the preview widget will have a red border.
 
-The error message should disappear from this screen after you have filled the required fields, although the border of the generated CFF will remain red until you have filled all the required fields.
-Click next to continue to Authors screen.
+```{note}
+As title, message and author are required fields by the schema, these fields will be highlighted until you provide them.
+```
 
+Click next to continue to screen `Authors`.
 
 ```{figure} ../../figures/cffinit-1-filled.jpg
 ---
@@ -44,11 +51,11 @@ alt: First page of the form, for Title, Message and Type. Fields are filled.
 First page of the form, for Title, Message and Type. Fields are filled. CC-BY-SA.
 ```
 
-##### Authors screen
+## Authors
 
 The CFF schema requires at least one author in the `CITATION.cff` file.
 Click the "Add author" button to open a form for adding an author.
-Fill the relevant fields for authors. Adding their ORCID is recommended.
+Fill the relevant fields for authors. Adding ORCID for authors is highly recommended. See {ref}`cm-citable-orcid` to learn more about ORCID.
 
 ```{figure} ../../figures/cffinit-2.jpg
 ---
@@ -58,6 +65,7 @@ alt: Second page of the form, for Authors.
 ---
 Second page of the form, for Authors. CC-BY-SA.
 ```
+
 ```{figure} ../../figures/cffinit-2-add-author.jpg
 ---
 name: cffinit-2-add-author
@@ -67,7 +75,7 @@ alt: Second page of the form, for Authors. Author addition in progress.
 Second page of the form, for Authors. Author addition in progress. CC-BY-SA.
 ```
 
-After adding one author, you have the minimum required information for a CFF file.
+After adding one author, you have the minimum required information for a valid `CITATION.cff` file.
 Add more authors as needed.
 Click next afterwards to continue.
 
@@ -79,11 +87,11 @@ alt: Second page of the form, for Authors. One author filled.
 ---
 Second page of the form, for Authors. One author filled. CC-BY-SA.
 ```
-##### (TODO: Check the title)
+## Minimal `CITATION.cff` file
 
-Well done! Now your `CITATION.cff` file meets the minimum requirements. In this screen you can download the CFF file or copy it from the preview widget.
+Well done! Now your `CITATION.cff` file meets the minimum requirements. In this screen you can download the generated file or copy it from the preview widget.
 We highly recommend to add more information.
-Click the "Add more" button for that.
+Click the "Add more" button to add more fields to your citation file to make it even better.
 
 ```{figure} ../../figures/cffinit-3.jpg
 ---
@@ -94,13 +102,17 @@ alt: Last page of the minimal form.
 Last page of the minimal form. CC-BY-SA.
 ```
 
-##### (TODO: Check the title)
+## Additional fields
 
-All additional keys are optional, but it is recommended that you fill the most relevant for your work.
+All additional fields are optional, but it is recommended that you fill the most relevant for your work.
 
-Here is a brief description of each screen:
+```{note}
+If you decide not to continue further, you can press the "Finish" button to skip all remaining steps and go to the final screen.
+```
+
+On this screen, you will see new steps in the stepper. Here is a brief description of the additional screens:
 - Identifiers: Add DOIs, URLs, and Software Heritage identifiers;
-- Related resources: URLs of repositories related to the work and its website/landing page;
+- Related resources: URLs of repositories related to the work and its website;
 - Abstract: A short summary of the work;
 - Keywords: Keywords describing the work;
 - License: The license under which the work is available;
@@ -115,10 +127,12 @@ alt: Third page of the form. More options appear on the left. CC-BY-SA.
 Third page of the form. More options appear on the left.
 ```
 
-##### (TODO: Check the title)
+Click next to start adding additional fields.
 
-After adding all the relevant information, or clicking `finish` to skip, you will have the validated CFF file.
-Download or copy it and you are ready to use it.
+## Final screen
+
+Great that you made to the final screen! After adding all the relevant information, you will have a validated `CITATION.cff` file.
+Download or copy it and add it to your public repository to get the credit you deserve!
 
 ```{figure} ../../figures/cffinit-final.jpg
 ---
