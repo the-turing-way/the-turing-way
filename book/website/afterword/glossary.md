@@ -349,7 +349,7 @@ Persistent Identifier
 Pattern
   A pattern rule is a rule that contains exactly one % character in the target, which can be used to match a part of a filename.
 
-Peer review
+Peer Review
   A process of evaluating one's work by others working in the same field.
 
 Persona
