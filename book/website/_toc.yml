@@ -369,7 +369,6 @@ parts:
 
   # ===== Guide for Collaboration ========================================
 
-
   - file: collaboration/collaboration
     sections:
     - title: Getting Started With GitHub
