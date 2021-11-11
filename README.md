@@ -99,7 +99,7 @@ We release the latest version of _The Turing Way_ through the project's Zenodo a
 DOIs allow us to archive the repository and they are really valuable to ensure that the work is tracked in academic publications.
 
 The citation will look something like this:
-> All Contributors, The Turing Way Community. (2021, November 10). The Turing Way: A Handbook for Reproducible Data Science (Version v1.0.1). Zenodo. <http://doi.org/10.5281/zenodo.3233853>
+> The Turing Way Community. (2021, November 10). The Turing Way: A handbook for reproducible, ethical and collaborative research. Zenodo. [http://doi.org/10.5281/zenodo.3233853](http://doi.org/10.5281/zenodo.3233853)
 
 
 To see our workflow for making releases for different versions and to suggest improvements, please head over to the [release workflow document](./release-workflow.md).
