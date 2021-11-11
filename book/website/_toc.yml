@@ -327,7 +327,6 @@
       file: collaboration/research-infrastructure-roles/data-steward
     - title: Research Software Engineers: Overview
       file: collaboration/research-infrastructure-roles/research-software-engineer
-      
  - title: Remote Collaboration
     file: collaboration/remote-collab
     sections: 
