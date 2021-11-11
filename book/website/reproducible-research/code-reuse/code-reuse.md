@@ -20,7 +20,7 @@ We can map the definitions of reproducibly on the Freire framework as follows:
 | Extendable       | (partly) Generalisable |
 | Modifiable       | (partly) Generalisable |
 
-Portability was not previously considered, but for software a different environment (hardware, operating system, etc) may affect the ability for the software to work (e.g. it may affect dependencies).
+Portability was not previously considered, but for software a different environment (such as hardware, and operating system) may affect the ability for the software to work (for example it may affect dependencies).
 
 Also, Generalisable encapsulates two concepts: Extendable (the ability to integrate with other software)
 and Modifiable (the ability to change part of the implementation to extend its functionality).
@@ -75,9 +75,9 @@ The documentation:
   - what options/parameters are available. (required for repeatable)
 - contains examples of how to run it. (required for repeatable)
 - has installation instructions, including good descriptions of:
-  - the hardware it depends on (e.g. GPUs); (required for portable)
+  - the hardware it depends on (for example GPUs); (required for portable)
   - the operating system the software has been tested on; (required for portable)
-  - software requirements (libraries, shell settings, etc). (required for portable)
+  - software requirements (such as libraries and shell settings). (required for portable)
 
 (cr-code-reuse-recommendation-details)=
 ## Recommendations for reusable code
