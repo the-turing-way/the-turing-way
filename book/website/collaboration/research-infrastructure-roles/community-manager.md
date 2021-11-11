@@ -1,10 +1,10 @@
-(rir-communitymanagers)=
+(cl-infrastructure-communitymanagers)=
 # Community Managers: Overview
 
 Community Managers are a growing role within scientific communities. 
 They organise, support, maintain, grow, develop, evaluate and collaborate with people involved in research and scientific communities.
 
-(rir-communitymanagers-tasks)=
+(cl-infrastructure-communitymanagers-tasks)=
 ## What do Community Managers do? 
 
 Community Managers main objective is to organise groups of scientists, researchers and/or patients and the public around shared research topics and objectives. 
@@ -32,7 +32,7 @@ The day-to-day tasks of a community manager could include:
 * Mentoring community contributions
 * And a lot more!
 
-(rir-communitymanagers-skills)=
+(cl-infrastructure-communitymanagers-skills)=
 ## What qualifications or skills do you need to be a Community Manager? 
 The vast majority of community managers will have a scientific background that may include advanced degrees (at a masters or doctoral level). 
 Many community managers also have a background related to the specific field or discipline they manage a community in, but not all of them do. 
@@ -49,7 +49,7 @@ Every community manager role will need a different balance of these skills depen
 You can find the Skills Wheel on Zendo here: [https://zenodo.org/record/4437294#.YYjzg07P1aQ](https://zenodo.org/record/4437294#.YYjzg07P1aQ)
 ```
 
-(rir-communitymanagers-challenges)=
+(cl-infrastructure-communitymanagers-challenges)=
 ## Challenges for Community Managers 
 * Need to mediate between community members 
 * May not be seen as a part of the community themselves and need to build trust and credibility within it
@@ -64,7 +64,7 @@ You can find the Skills Wheel on Zendo here: [https://zenodo.org/record/4437294#
 * Not always visible when things go well!
 * Lack of formal career progression
 
-(rir-communitymanagers-benefits)=
+(cl-infrastructure-communitymanagers-benefits)=
 ## Benefits to having Community Managers
 * Able to offer meta-thinking about how the community is structured and run 
 * Shares best practices around communication, collaboration, diversity, equity and inclusion, and other areas of research 
@@ -77,12 +77,12 @@ You can find the Skills Wheel on Zendo here: [https://zenodo.org/record/4437294#
 * Greater understanding of the needs of the community 
 
 
-(rir-communitymanagers-organisations)=
+(cl-infrastructure-communitymanagers-organisations)=
 ## Organisations that support Community Managers
 The Center for Scientific Collaboration and Community Engagement ([cscce.org](https://www.cscce.org/) works to _"professionalize and institutionalize the role of the community engagement manager (CEM) within science."_ 
 They offer training, co-created resources, research, and an active community of practice for scientific community managers to connect and support each other. 
 
-(rir-communitymanagers-summary)=
+(cl-infrastructure-communitymanagers-summary)=
 ## Summary
 Community Managers are an important part of scientific communities, supporting collaboration, best practices, and stewarding their communities as they develop. 
 They do not have a formal career path or qualifications, but typically have a scientific or research background themselves. 
