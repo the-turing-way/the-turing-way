@@ -49,8 +49,7 @@ Although, most of these resources are described in different chapters, you can a
 |:----------------------- |:---------------------------------|
 | Weekly coworking calls | Every week on Monday, 11:00 - 12:00 UTC, [Shared Notes](https://hackmd.io/@turingway/coworking-call). Read more in [this chapter](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html) |
 | Collaboration cafes | Every first and third Wednesday of each month, 15:00 - 17:00 UTC, [Shared Notes](https://hackmd.io/@turingway/collaboration-cafe) |
-| Coworking calls - West Time Zone | Wednesdays when Collaboration Cafe is not already scheduled, 15:00 - 16:00 UTC, [Shared Notes](https://hackmd.io/@turingway/coworking-call). |
-| Informal chat and onboarding sessions | Every week on Monday, 11:00 - 12:00 UTC, [Shared Notes](https://hackmd.io/@turingway/chat-onboard). |
+| Informal chat and onboarding calls | To schedule a meeting with a team member to have informal chat or get onboarded in the project, please connect with us on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw) |
 | Book Dash Events | These are 1.5 days to 4 half days events twice a year, which invite applications of interest by open calls. |
 | Joining community members at other events | Our community members often attend several conferences where you can plan to join them! You can check these by interacting on appropriate Slack Channels. |
 
