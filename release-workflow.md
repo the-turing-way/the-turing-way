@@ -4,7 +4,7 @@ We release the latest versions of the main repository including the content from
 In this document, we describe the process for making a release on Zenodo through GitHub.
 
 We don't describe how to connect a GitHub account/repository to a Zenodo account.
-To learn more about that, please read the details in [this post](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content).
+To learn more about that, please read the details in [the GitHub documentation](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content).
 
 ## Updating release information
 
