@@ -96,6 +96,8 @@ We have created a [promotion pack](https://github.com/alan-turing-institute/the-
 ### Citing _The Turing Way_
 
 We release the latest version of _The Turing Way_ through the project's Zenodo archive using DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
+This DOI is a "[concept DOI](https://help.zenodo.org)" which means it will always resolve to the latest version.
+If you need to cite a specific version you can find those DOIs at the zenodo page above. 
 DOIs allow us to archive the repository and they are really valuable to ensure that the work is tracked in academic publications.
 
 The citation will look something like this:
