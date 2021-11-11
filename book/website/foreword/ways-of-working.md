@@ -2,8 +2,6 @@
 # Ways of Working
 *We want to meet you where you are.* 
 
-## Overview of Resources You Can Use
-
 In this document, we provide an overview of resources and ways of working in the community.
 Although, most of these resources are described in different chapters, you can always return to this page to find quick access to useful pointers and links.
 
@@ -22,7 +20,7 @@ Although, most of these resources are described in different chapters, you can a
 | Where can I learn about the next community event that I can join? | Check out our [Community Calendar](https://calendar.google.com/calendar/u/1?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ). |
 
 
-## 2. Read Helpful Documents and Guidelines
+## 2. Documents and Participation Guidelines 
 
 | You might be wondering | You can learn about that here |
 |:----------------------- |:---------------------------------|
@@ -44,7 +42,8 @@ Although, most of these resources are described in different chapters, you can a
 | What contributions are currently being made by others? | Browse open [Pull Requests (PR) on GitHub](https://github.com/alan-turing-institute/the-turing-way/pulls) |
 | How do people interact with each other when reviewing contributions? | Click on an open PR that has been commented on to see how people exchange ideas and feedback. [See this example](https://github.com/alan-turing-institute/the-turing-way/pull/1656) |
 
-## 4. Participate in Meetings
+
+## 4. Participation in Meetings
 
 | Types of calls/meetings | When |
 |:----------------------- |:---------------------------------|
@@ -55,7 +54,7 @@ Although, most of these resources are described in different chapters, you can a
 | Book Dash Events | These are 1.5 days to 4 half days events twice a year, which invite applications of interest by open calls. |
 | Joining community members at other events | Our community members often attend several conferences where you can plan to join them! You can check these by interacting on appropriate Slack Channels. |
 
-## 5. Participate and Contribute Asynchronously
+## 5. Participating Asynchronously
 
 | You might be wondering this | You can learn about that here |
 |:----------------------- |:---------------------------------|
@@ -68,6 +67,16 @@ Although, most of these resources are described in different chapters, you can a
 | I have an idea for a chapter, how should I share it? | You can open an issue using [this issue template for a new chapter](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&labels=&template=CHAPTER_ISSUE_TEMPLATE.md) to describe your idea. |
 | Do I have to write the whole chapter when I propose an idea? | You can always invite contributions from others. Do as little as you can, or as much you would like. |
 | I saw someone working on a topic that I know a few things about. Can I collaborate in their Pull Request or issue? | Please do comment under the appropriate issue of Pull Request to indicate your interest to collaborate. You can offer your support to review the chapter or co-write the chapter. You can also contribute by creating illustrations of helping add references. |
+
+## 6. Receiving Acknowledgement
+
+| You might be wondering this | You can learn about that here |
+|:----------------------- |:---------------------------------|
+| I just contributed to The Turing Way, am I a contributor now? | Yes, you will be added as a contributor to The Turing Way using [all-contributors](https://allcontributors.org/) bot. Your name will appear on our [Contributors table](https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md#contributors). |
+| My contribution to The Turing Way was not on GitHub, will I still be acknowledged? | Absolutely! the all-contributors bot allows us to give attribution to people even when they don't work on GitHub. You might however need a [GitHub account](https://github.com). |
+| Can I describe my contributions in detail? | Yes! We have a dedicated page [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) where you are encouraged to create an entry with your name, bio and description of your contribution. This is published in the afterword of the book as [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html). |
+| My research project collaborated with The Turing Way. Can I mention it somewhere? | We have a [contributing project](https://github.com/alan-turing-institute/the-turing-way/blob/main/collaborating_projects.md) document where our collaborating projects, organisations and sponsors are listed. You can describe your project in this document. |
+| My organisation supports by participation in The Turing Way. Can I mention it somewhere? | We have a [contributing project](https://github.com/alan-turing-institute/the-turing-way/blob/main/collaborating_projects.md) document where our collaborating projects, organisations and sponsors are listed. You can describe your organisation with your profile in this document. |
 
 Have more questions that are not covered here? Ask us directly via the communication channels listed in the table above.
 Check out next subchapters to read what motivations others have for working the project, what other community initiatives are led by them and how you can stay involved.
