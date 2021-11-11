@@ -118,4 +118,32 @@ We have listed them in chronological order and divided into sections for "before
 - If the meeting call was recorded, process and share the recorded video with everyone.
 - Send a thank you email with the link to the complete notes and other relevant information.
 
+
+## Tools
+<!--
+Moved from the "Tools for Remote Collaboration" subchapter"
+-->
+
+Meeting scheduling platforms help find a common availability without having to check multiple times with all the intended participants.
+
+<!--
+- Add unordered list for the tools mentioned below + possibly add more tools.
+- For some cases, such as one-to-one meetings, Calendly helps find a common availability.
+- Split it into two lists -- different use cases: group meetings (Doodle, When2Meet) vs. one-to-one (sending your availability for someone to book a time with you)
+-->
+
+Some commonly used options are [Doodle](https://doodle.com/poll/) and [when2meet.com](https://www.when2meet.com/).
+See more options [here](https://zapier.com/blog/best-meeting-scheduler-apps/).
+
+<!--
+Below: different subtopic:
+### Managing time zones
+>> More tools can be added here - such as timeanddate.com -- add a screenshot showing how it highlights times when people are asleep
+- Add clarification on what Arewemeetingyet does
+-->
+
+It is particularly crucial to use meeting links like [arewemeetingyet](https://arewemeetingyet.com/#form) or [create/send calendar invitations](https://www.calendar.com/blog/how-to-send-a-google-calendar-invite/) to communicate these schedules to invitees from different countries and time zones.
+
+
+
 ***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*
