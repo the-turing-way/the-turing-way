@@ -15,7 +15,7 @@ name: cffinit-0
 width: 80%
 alt: Landing page of cffinit.
 ---
-Landing page of cffinit. CC-BY-SA.
+Landing page of cffinit. `cffinit` v2.0.0.
 ```
 
 ## Start
@@ -28,7 +28,7 @@ name: cffinit-1
 width: 80%
 alt: First page of the application, for Title, Message and Type. Fields are empty.
 ---
-First page of the application, for Title, Message and Type. CC-BY-SA.
+First page of the application, for Title, Message and Type. `cffinit` v2.0.0.
 ```
 
 You can see the preview of the generated `CITATION.cff` file on the right.
@@ -48,7 +48,7 @@ name: cffinit-1-filled
 width: 80%
 alt: First page of the form, for Title, Message and Type. Fields are filled.
 ---
-First page of the form, for Title, Message and Type. Fields are filled. CC-BY-SA.
+First page of the form, for Title, Message and Type. Fields are filled. `cffinit` v2.0.0.
 ```
 
 ## Authors
@@ -63,7 +63,7 @@ name: cffinit-2
 width: 80%
 alt: Second page of the form, for Authors.
 ---
-Second page of the form, for Authors. CC-BY-SA.
+Second page of the form, for Authors. `cffinit` v2.0.0.
 ```
 
 ```{figure} ../../figures/gifs/cffinit-2-add-author.gif
@@ -72,7 +72,7 @@ name: cffinit-2-add-author
 width: 80%
 alt: Second page of the form, for Authors. Author addition in progress.
 ---
-Second page of the form, for Authors. Author addition in progress. CC-BY-SA.
+Second page of the form, for Authors. Author addition in progress. `cffinit` v2.0.0.
 ```
 
 After adding one author, you have the minimum required information for a valid `CITATION.cff` file.
@@ -85,7 +85,7 @@ name: cffinit-2-filled
 width: 80%
 alt: Second page of the form, for Authors. One author filled.
 ---
-Second page of the form, for Authors. One author filled. CC-BY-SA.
+Second page of the form, for Authors. One author filled. `cffinit` v2.0.0.
 ```
 ## Minimal `CITATION.cff` file
 
@@ -99,7 +99,7 @@ name: cffinit-3
 width: 80%
 alt: Last page of the minimal form.
 ---
-Last page of the minimal form. CC-BY-SA.
+Last page of the minimal form. `cffinit` v2.0.0.
 ```
 
 ## Additional fields
@@ -122,9 +122,9 @@ On this screen, you will see new steps in the stepper. Here is a brief descripti
 ---
 name: cffinit-3-advanced
 width: 80%
-alt: Third page of the form. More options appear on the left. CC-BY-SA.
+alt: Third page of the form. More options appear on the left.
 ---
-Third page of the form. More options appear on the left.
+Third page of the form. More options appear on the left. `cffinit` v2.0.0.
 ```
 
 Click next to start adding additional fields.
@@ -140,5 +140,5 @@ name: cffinit-final
 width: 80%
 alt: Last page of the complete form.
 ---
-Last page of the complete form. CC-BY-SA.
+Last page of the complete form. `cffinit` v2.0.0.
 ```
