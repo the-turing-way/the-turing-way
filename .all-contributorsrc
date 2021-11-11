@@ -2889,6 +2889,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "bantya",
+      "name": "Rahul Thakare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16685565?v=4",
+      "profile": "https://github.com/bantya",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "projectName": "the-turing-way",
