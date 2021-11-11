@@ -1,10 +1,14 @@
-(rr-code-reuse)=
+(cr-code-reuse)=
 # Reusable code
-Your software project could range from a small script you use for data processing, a notebook used for data analysis, or a software library implementing your algorithms. Regardless of how big or small your software project is, it is important to make your code reusable.
+Your software project could range from a small script you use for data processing to a notebook used for data analysis, or a software library implementing your algorithms.
+Regardless of how big or small your software project is, it is important to make your code reusable.
 
-Different types of software have different requirements for being reusable: for a small script, having sufficient documentation might be enough, while for a mission critical software library, thorough testing might be necessary. At the most basic level, all you need to do is put your code online somewhere that is likely to last a long time. A more elaborate approach to making your research software more reusable is by following the FAIR Principles for Research Software (FAIR4RS Principles) {cite:ps}`ChueHong2021FAIR4RS`.
+Different types of software have different requirements for being reusable: for a small script, having sufficient documentation might be enough, while for a mission critical software library, thorough testing might be necessary.
+At the most basic level, all you need to do is put your code online somewhere that is likely to last a long time. A more elaborate approach to making your research software more reusable is by following the FAIR Principles for Research Software (FAIR4RS Principles) {cite:ps}`ChueHong2021FAIR4RS`.
 
-When we talk about making code reusable, it is useful to clarify what is we mean. In the {ref}`Table of Definitions for Reproducibility<rr-overview-definitions-reproducibility>` we defined reproducible research as using the same data and the same code. However, when we talk about code re-use this can take many forms: we may want to run the exact same code (for compiled programming languages, this could even mean the exact same binary file), or we may want to modify the source code and extend it in some particular way to fit our needs. Freire and Chirigati {cite:ps}`Freire2018Reproducibility` provide a framework of different levels of reproducibility, depending on what can be modified. They define the following levels of reproducibility: repeatable, re-runnable, portable, extendable and modifiable.
+When we talk about making code reusable, it is useful to clarify what is we mean. In the {ref}`Table of Definitions for Reproducibility<rr-overview-definitions-reproducibility>` we defined reproducible research as using the same data and the same code.
+However, when we talk about code re-use this can take many forms: we may want to run the exact same code (for compiled programming languages, this could even mean the exact same binary file), or we may want to modify the source code and extend it in some particular way to fit our needs.
+Freire and Chirigati {cite:ps}`Freire2018Reproducibility` provide a framework of different levels of reproducibility, depending on what can be modified. They define the following levels of reproducibility: repeatable, re-runnable, portable, extendable and modifiable.
 
 We can map the definitions of reproducibly on the Freire framework as follows:
 
@@ -24,7 +28,8 @@ and Modifiable (the ability to change part of the implementation to extend its f
 In the rest of this chapter we provide list of recommendations you can follow to make sure your code is reusable.
 
 ## How to make your code more reusable
-This section contains a checklist of recommendations for making your software more reusable. The {ref}`rr-code-reuse-recommendation-details` section contains a more in-depth explanation of each of these recommendations. You can follow the recommendations that are more suitable for your type of software and skip the ones which are not relevant in your case.
+This section contains a checklist of recommendations for making your software more reusable.
+The {ref}`cr-code-reuse-recommendation-details` section contains a more in-depth explanation of each of these recommendations. You can follow the recommendations that are more suitable for your type of software and skip the ones which are not relevant in your case.
 
 ### Repeatable recommendations
 1. Make sure you can find it (in space)
@@ -56,7 +61,8 @@ This section contains a checklist of recommendations for making your software mo
 1. Make sure comments are present
 1. Write useful documentation*
 
-The observant reader might will notice that `Write useful documentation` is mentioned for every level of reuse. This is because different levels of documentation are required for different levels of reuse.
+The observant reader might will notice that `Write useful documentation` is mentioned for every level of reuse.
+This is because different levels of documentation are required for different levels of reuse.
 
 ### Different documentation requirements for different levels of reuse
 
@@ -73,6 +79,6 @@ The documentation:
   - the operating system the software has been tested on; (required for portable)
   - software requirements (libraries, shell settings, etc). (required for portable)
 
-(rr-code-reuse-recommendation-details)=
+(cr-code-reuse-recommendation-details)=
 ## Recommendations for reusable code
 UNDER CONSTRUCTION
