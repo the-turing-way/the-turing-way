@@ -12,8 +12,8 @@ To learn more about that, please read the details in [the GitHub documentation](
   - Update `version: 1.0.1` (currently in line 7), `date-released: "2021-11-10"` (currently in line 13)
 - Validate the file locally on your computer using `cffconvert` (here we assume that the user knows how to use their terminal)
   - Step 1: Please install cffconvert using the following command: `python3 -m pip install --user cffconvert` (details here: https://pypi.org/project/cffconvert/)
-  - Run the following command: `cffconvert --validate`
-- Once validated, create `.zenodo.json` file using the following command: `cffconvert --format zenodo > .zenodo.json`
+  - Step 2: Run the following command: `cffconvert --validate`
+  - Step 3: Once validated, create `.zenodo.json` file using the following command: `cffconvert --format zenodo > .zenodo.json`
 
 Please note that we have currently left out individual names from the CITATION file, however, this is open for discussion if we will add all the authors manually or have some other automated ways to do that.
 
@@ -54,5 +54,5 @@ Full Changelog: v1.0.0...v1.0.1 (Previous release: v0.0.3...v1.0.0)
 - When you are ready (and have double-checked the details), click 'Publish release'
 - After a few seconds, you can see a new version appear at [https://doi.org/10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853)
 
-This is the workflow we have recently used and would work towards automating our workflow.
+This is the workflow we have recently used and would work towards automating this process.
 Meanwhile, to suggest any improvements, please contact _The Turing Way_ team by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
