@@ -2859,6 +2859,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "aseyq",
+      "name": "Ali Seyhun Saral",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82848414?v=4",
+      "profile": "http://www.saral.it",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
