@@ -2898,6 +2898,16 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "melibleq",
+      "name": "Melissa Black",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16723182?v=4",
+      "profile": "https://github.com/melibleq",
+      "contributions": [
+        "review",
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
