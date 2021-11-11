@@ -132,4 +132,35 @@ You can read an adapted version of their blog post along with other ideas for vi
 
 If you organise or host a coworking call in your community, you are welcome to highlight them in this chapter by creating a [pull request](https://github.com/alan-turing-institute/the-turing-way/pulls) on the GitHub repository (see [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) for details).
 
+
+## Tools
+<!--
+Moved from the "Tools for Remote Collaboration" subchapter"
+-->
+
+### Creating shared notes
+
+A document that can be edited collaboratively in real-time allows all attendees to participate equitably during the online call.
+This is especially important for creating an opportunity for those who can not (or do not feel comfortable to) actively speak up in group meetings.
+
+- [Google doc](https://en.wikipedia.org/wiki/Google_Docs): Google Docs is a word processor included as part of a free, web-based Google Docs suite offered by Google within its Google Workspace service.
+- [Etherpad](https://etherpad.org/): Etherpad is an Open Source customisable online editor.
+- [HackMD](https://hackmd.io/): HackMD is an online collaborative document that can be written in [Markdown](https://www.markdownguide.org/) format.
+- [HedgeDoc (previously CodiMD)](https://demo.hedgedoc.org/): HedgeDoc is the community-driven fork of CodiMD, which is the open source version of HackMD.
+
+
+### Hosting online calls
+
+Video conferencing is probably the most important aspect of organising and hosting an online event.
+An effective software allows the creation of a meeting link or dial-in number that can be shared with others who can join scheduled or in-progress calls.
+
+- [Zoom](https://zoom.us): Zoom is a cloud-based video conferencing service that can be attended either by video or audio-only or both, with live chats that can be recorded to view/share.
+- [Google Meet](https://en.wikipedia.org/wiki/Google_Meet): Google Meet is a communications platform that facilitates messaging and video chatting.
+- [Skype](https://www.skype.com/en/): Skype is a telecommunications application that specializes in providing video chat and voice calls.
+- [Jisti](https://meet.jit.si/): Jitsi is a collection of free and open-source multiplatform voice, videoconferencing and instant messaging applications for the web platform.
+- [Webex](https://www.webex.com/): Cisco Webex develops and sells web conferencing and videoconferencing applications.
+
+
+<br>
+
 ***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*
