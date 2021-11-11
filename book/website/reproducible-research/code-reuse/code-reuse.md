@@ -32,8 +32,8 @@ This section contains a checklist of recommendations for making your software mo
 1. Make sure you can execute the same sequence of operations
 1. Make sure your environment and sequence of operations is robust and no human is needed to replicate what was done
 1. License your code
-  - with a license that allows for reuse;
-  - with a license compatible with the dependencies’ licenses
+    - with a license that allows for reuse;
+    - with a license compatible with the dependencies’ licenses
 1. Make sure it is citatable
 1. Write useful documentation*
 1. If the software depends on any sort of data, the data should be available
