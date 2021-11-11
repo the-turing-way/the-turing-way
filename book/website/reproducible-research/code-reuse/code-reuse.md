@@ -34,7 +34,7 @@ This section contains a checklist of recommendations for making your software mo
 1. License your code
     - with a license that allows for reuse;
     - with a license compatible with the dependencies’ licenses
-1. Make sure it is citatable
+1. Make sure it is citable
 1. Write useful documentation*
 1. If the software depends on any sort of data, the data should be available
 
