@@ -108,3 +108,28 @@ In this subchapter, we provide guidelines for the chairs of different types of s
 - Send messages periodically reminding everyone of how much time for discussion is left.
   - Remind them to move on to the next person if only one person has spoken so far in their Groups.
 - When people come back from their breakout rooms, ask them to share main points from their discussion.
+
+## Tools
+<!--
+Moved from the "Tools for Remote Collaboration" subchapter"
+-->
+
+### Web-based timers
+
+An online timer that can be created on a web-browser and shared with a distributed team to have more productive meeting formats.
+- [cuckoo.team](https://cuckoo.team/)
+- [vclock](https://vclock.com/timer/)
+
+
+### Online polling
+
+Event Polling tools can be used for asking questions and receiving feedback from attendees in real-time.
+They create an interactive experience for the participants through question and answer (Q&A) sessions during the event.
+A dedicated link can be created for each event to share with the participants who can post their questions to be discussed in the meeting or respond to polls set by the speakers or organisers before the event.
+Such tools not only collect answers but also analyse, summarise and visualise them as word clouds and plots in real-time that can be shared with everyone.
+Two commonly used tools are:
+
+- [sli.do](https://www.sli.do/)
+- [mentimeter](https://www.mentimeter.com/)
+
+Read more about event polling in [this post](https://www.encore-anzpac.com/event-services/live-polling-for-events) and find more apps with feature analysis in [this post](https://www.worksup.com/event-interaction-app-feature-comparison/).
