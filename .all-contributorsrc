@@ -2880,6 +2880,15 @@
         "review",
         "content"
       ]
+    },
+    {
+      "login": "fdiblen",
+      "name": "Faruk D.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144492?v=4",
+      "profile": "https://github.com/fdiblen",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
