@@ -50,5 +50,5 @@ Full Changelog: v1.0.0...v1.0.1 (Previous release: v0.0.3...v1.0.0)
 - When you are ready (and have double-checked the details), click 'Publish release'
 - After a few seconds, you can see a new version appear at [https://doi.org/10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853)
 
-This is the workflow we have recently used and would work towards automating this process soon.
+This is the workflow we have recently used and would work towards automating our workflow.
 Meanwhile, to suggest any improvements, please contact _The Turing Way_ team by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
