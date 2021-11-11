@@ -2,9 +2,7 @@
 
 # _The Turing Way_
 
->_यह README-Spanish.md फ़ाइल जर्मन ([README-German](README-German.md)), कोरियाई ([README-Korean](README-Korean.md)), फ़्रेंच ([README-French](README-French.md)), इन्डोनेशियाई ([README-Indonesian](README-Indonesian.md)), अंग्रेज़ी ([README](../README.md)), इतालवी ([README-Italian](README-Italian.md)), डच ([README-Dutch](README-Dutch.md)) और पुर्तगाली ([README-Portuguese](README-Portuguese.md)) भाषाओ में भी उपलब्ध है। (वर्णानुक्रम में क्रमबद्ध)।_
-
-*कुल योगदानकर्ता:*
+>_यह README.md फ़ाइल/दस्तावेज जर्मन ([README-German](README-German.md)), कोरियाई ([README-Korean](README-Korean.md)), फ़्रेंच ([README-French](README-French.md)), इन्डोनेशियाई ([README-Indonesian](README-Indonesian.md)), अंग्रेज़ी ([README](../README.md)), इतालवी ([README-Italian](README-Italian.md)), डच ([README-Dutch](README-Dutch.md)), पुर्तगाली ([README-Portuguese](README-Portuguese.md)) और स्पेनिश ([README-Spanish](README-Spanish.md)) भाषाओ में भी उपलब्ध है। (अंग्रेज़ी वर्णानुक्रम में क्रमबद्ध)।_
 
 | जानकारी | लिंक |
 | :--- | :--- |
@@ -14,11 +12,13 @@
 | **संकलन** | [![Netlify build](https://github.com/alan-turing-institute/the-turing-way/workflows/CI/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ACI+branch%3Amaster) [![Latin Phrases](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amaster) [![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amaster) [![Check for Lorem Ipsums](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amaster) |
 | **मुलाकात** |  [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) |
 
-*द ट्यूरिंग वे परियोजना के लिए गीटहब भंडार में आपका स्वागत है। यह वह जगह है जहां सभी परियोजना घटकों का विकास, समीक्षा और रखरखाव किया जाता है।.*
+*"द ट्यूरिंग वे" परियोजना के गीटहब (GitHub) भंडार में आपका स्वागत है। यहां सभी परियोजना घटकों का विकास, समीक्षा और रख-रखाव किया जाता है।.*
 
-_द ट्यूरिंग वे_ प्रतिलिपि प्रस्तुत करने योग्य, नैतिक और सहयोगी डेटा विज्ञान के लिए एक व्यावहारिक मार्गदर्शिका है। हम सभी के लिए सुलभ, समझने योग्य और प्रभावी डेटा विज्ञान प्राप्त करने के लिए योगदानकर्ताओं के एक विविध समुदाय का समर्थन करते हैं। हमारा लक्ष्य शिक्षा जगत, उद्योग और सार्वजनिक क्षेत्र के शोधकर्ताओं और डेटा वैज्ञानिकों को अपनी परियोजनाओं की शुरुआत में सभी जानकारी प्रदान करना है ताकि यह सुनिश्चित किया जा सके कि अंत में उन्हें पुन: पेश करना आसान हो।
+_द ट्यूरिंग वे_ प्रतिलिपि प्रस्तुत करने योग्य, नैतिक और सहयोगी डेटा विज्ञान के लिए एक व्यावहारिक मार्गदर्शिका है। 
+हम सभी के लिए सुलभ, समझने योग्य और प्रभावी डेटा विज्ञान प्राप्त करने के लिए योगदानकर्ताओं के एक विविध समुदाय का समर्थन करते हैं। 
+हमारा लक्ष्य शिक्षा जगत, उद्योग और सार्वजनिक क्षेत्र के शोधकर्ताओं और डेटा वैज्ञानिकों को अपनी परियोजनाओं की शुरुआत में सभी जानकारी प्रदान करना है ताकि यह सुनिश्चित किया जा सके कि अंत में उन्हें पुन: पेश करना आसान हो।
 
-[![द ट्यूरिंग वे प्रोजेक्ट एक किताब, एक समुदाय, एक ओपन सोर्स प्रोजेक्ट और एक सहयोगी संस्कृति है। यह चार दृष्टांतों में दिखाया गया है, पहला द ट्यूरिंग वे पुस्तक दिखा रहा है, दूसरा समुदाय कैसे विकसित हो सकता है, तीसरा दो लोगों को पुल अनुरोध पर सहयोग कर रहा है, और अंतिम संतुलन दिखा रहा है जहां प्रतिलिपि प्रस्तुत करने की संख्या प्रकाशित की संख्या से अधिक मूल्यवान है दस्तावेज।](../book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
+[![द ट्यूरिंग वे प्रोजेक्ट एक किताब, एक समुदाय, एक ओपन सोर्स (Open Source) प्रोजेक्ट और एक सहयोगी संस्कृति है। यह चार दृष्टांतों में दिखाया गया है, पहला द ट्यूरिंग वे पुस्तक दिखा रहा है, दूसरा समुदाय कैसे विकसित हो सकता है, तीसरा दो लोगों को पुल अनुरोध पर सहयोग कर रहा है, और अंतिम संतुलन दिखा रहा है जहां प्रतिलिपि प्रस्तुत करने की संख्या प्रकाशित की संख्या से अधिक मूल्यवान है दस्तावेज।](../book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
 
 *द ट्यूरिंग वे एक किताब, एक समुदाय और एक वैश्विक सहयोग है।.*
 
