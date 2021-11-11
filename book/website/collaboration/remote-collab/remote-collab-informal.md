@@ -49,3 +49,21 @@ Once you know what you want the purpose of the coffee chat to be, you can schedu
 - **Identify the online medium**: There are many online tools that allow you to have online face to face conversations with others, such as Zoom, Google meet and Facetime.
 - **Maintain consistency**: Try to ensure that the times are predictable if not always identical across different days.
 - **Invite people**: Send a calendar invitation to the invited participants so they are reminded to take the break at that time.
+
+
+## Tools
+<!--
+Moved from the "Tools for Remote Collaboration" subchapter"
+-->
+
+### Facilitating informal interactions
+
+<!--
+- Add Zulip, Element, Discord
+- Should we list the downsides of certain tools? (for instance, features that don't work so well or privacy issues)
+-->
+
+A communication platform and chat system is a good way to connect all the attendees before, during and after the event.
+- [Slack](https://slack.com/): Slack offers real-time chat features, including persistent chat rooms organized by topic, private groups, and direct messaging.
+- [Gitter](https://gitter.im/): Gitter is a chat and networking platform for messaging for communities.
+- Web-based or phone applications like WhatsApp and telegram ([see more](https://www.makeuseof.com/tag/messaging-apps-phone-computer/)).
