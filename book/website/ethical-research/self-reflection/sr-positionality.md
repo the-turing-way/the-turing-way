@@ -6,11 +6,9 @@ This tends to be because most sciences, and data, are often seen as being inhere
 However, we know now that the way data is collected, recorded and used can create significant problems for fairness, accountability and bias in data science systems. 
 For example, we might choose training data for a model without thinking to consider whether it is representative in a particular way, or we might not consider whether a data visualisation is accessible to people with color blindness. 
 
-There are some schools of thought that say that true objectivity is impossible, because every person comes with their own lived experiences which provide the lenses through which we see the world, and influence the way we behave, including how we do research.
-This could be 'macro' influences like our motivations to address a particular problem, or 'micro' like the way we numerically represent a social concept. 
-Whilst there are lots of benefits to the individual ways we all experience the world, the single view each person takes can also embed unseen biases into how we think and work. 
+Some schools of thought say that true objectivity is impossible because every person comes with their own lived experiences, which provide the lenses through which we see the world and influence the way we behave, including how we do research. These could be 'macro' influences like our motivations to address a particular problem, or 'micro' like the way we numerically represent a social concept.  While there are lots of benefits to the individual ways we all experience the world, the single view each person takes can also embed unseen biases into how we think and work. 
 
-By better understanding ourselves we can be more proactive about spotting where we might hold biases or gaps in our knowledge. 
+By better understanding ourselves, we can be more proactive about spotting where we might hold biases or gaps in our knowledge. 
 This means we can be transparent about how our unique view has influenced the way we work, which is beneficial to scientific integrity and reproducibility. 
 It can also help us to identify and work against systemic and structural barriers that might otherwise go unchallenged, in order to make our research environments more inclusive (see {ref}`Activism<er-activism>`).
 
@@ -21,9 +19,9 @@ We can understand our positionality through the practice of *reflexivity*, which
 ## Understanding ourselves
 
 Self-reflection and reflexivity can be challenging, and take time and practice to feel natural.
-To be most effective they should be employed throughout our work and will never be 'finished', because we change and so does the world around us.
+To be most effective, they should be employed throughout our work and will never be 'finished', because we change and so does the world around us.
 
-In order to help get started there are lots of frameworks which can be used as a guide.
+In order to help get started, there are lots of frameworks which can be used as a guide.
 One of these is called the 'Social Graces' which was developed by psychotherapists John Burnham, Alison Roper-Hall and colleagues in the 1990s {cite:ps}`burnham2018developments`.
 
 The Social Graces are a mnemonic to help cover aspects of identity that affect our power and privilege.
@@ -39,5 +37,5 @@ The idea of the Social Graces was to explicitly name power differentials, which 
 
 The Graces are a helpful place to start thinking about your intersecting identities.
 It can also be helpful to ask:
-- Which of the Social Graces do I particuarly identify with? Are there some that stood out to me right away?
+- Which of the Social Graces do I particularly identify with? Are there some that stood out to me right away?
 - Which Social Graces did not stand out to me, and why might that be? 

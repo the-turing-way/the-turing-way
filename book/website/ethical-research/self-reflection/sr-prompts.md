@@ -28,8 +28,8 @@ Reflexivity is the process of using self-reflection to understand ourselves and 
 - Are there certain people I am more likely to believe, or find convincing? 
 - What type of data presentation do I find convincing? 
 - What type of statistics do I view as more robust (and why)? 
-- What checks do I think data and analysis needs to go through to be considered robust? 
-- What are my views on qualitative data vs quantitative data?
+- What checks do I think data and analysis need to go through to be considered robust? 
+- What are my views on qualitative data vs. quantitative data?
 
 ## Questions about my relationship to my research topic
 
@@ -42,8 +42,8 @@ Reflexivity is the process of using self-reflection to understand ourselves and 
 ## Questions about my data
 
 - Who isn't included in the data I have collected or am using second-hand?
-- When and were was this data created?
+- When and where was this data created?
 - What were the dominant beliefs at the time?
 - What do you know about the people who created this data?
 
-Note, if you are creating a dataset and would like to record this information about your data for future users then consider using 'Datasheets for Datasets' {cite:ps}`gebru2018datasheets` as a guide. 
+Note, if you are creating a dataset and would like to record this information about your data for future users, consider using 'Datasheets for Datasets' {cite:ps}`gebru2018datasheets` as a guide. 
