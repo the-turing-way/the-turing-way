@@ -7,13 +7,11 @@ Peer review can be formal or informal and ideally occurs at different levels thr
 
 ​
 ## Levels of Peer Review
-Step 1 - Peer review often happens informally among team members.
-Feedback helps improve your project, on its way to being shared with the broader community.
-​
-Step 2 - The project is going well, but it needs input from the broader community to reach it's full potential.
-This stage is often where the formal peer review process happens, but in an open project this level of feedback is often provided throughout.
-​
-Step 3 - By incorporating everyone's ideas, the project unites the community and percieves feedback as a way to improve projects rather than as a competitive process.
+* *Step 1* - Peer review often happens informally among team members.
+Feedback helps improve your project, on its way to being shared with the broader community.​
+* *Step 2* - The project is going well, but it needs input from the broader community to reach it's full potential.
+This stage is often where the formal peer review process happens, but in an open project this level of feedback is often provided throughout.​
+* *Step 3* - By incorporating everyone's ideas, the project unites the community and percieves feedback as a way to improve projects rather than as a competitive process.
 
 We see peer review as an important exercise in [collaboration](We need to add links to collaboration here) not limited to a quality-safeguard procedure.
 However, in current research practice, peer review often appears as a hurdle everyone needs to pass through.
