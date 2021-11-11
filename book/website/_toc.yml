@@ -770,6 +770,9 @@ parts:
         file: community-handbook/acknowledgement/acknowledgement-examples
     - title: Translating
       file: community-handbook/translation
+      sections:
+      - title: Translation Management System
+        file: community-handbook/translation/localisation.md
     - title: Monthly Newsletters
       file: community-handbook/newsletters
       sections:
