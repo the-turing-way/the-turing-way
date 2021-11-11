@@ -369,8 +369,12 @@ parts:
     - title: Peer Review
       file: communication/peer-review
       sections:
+      - title: Peer Review
+        file: communication/peer-review/peer-review-overview
       - title: Guidance on Peer Review for a Journal
         file: communication/peer-review/peer-review-guidance
+      - title: Resources
+        file: communication/peer-review/peer-review-resources
 
   # ===== Guide for Collaboration ========================================
 
