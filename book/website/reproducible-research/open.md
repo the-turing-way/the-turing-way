@@ -9,13 +9,13 @@
 | {ref}`rr-vcs` | Helpful | Experience with GitHub is particularly useful |
 
 
-```{figure} ../figures/EvolutionOpenResearch.jpg
+```{figure} ../figures/evolution-open-research.jpg
 ---
-name: EvolutionOpenResearch
-alt: This image shows a researcher evolving their research practices to move towards the era of open research. 
+name: evolution-open-research
+alt: This image shows a researcher evolving their research practices to move towards the era of open research.
 ---
-_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. ```
-
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
 
 (rr-open-summary)=
 ## Summary
@@ -57,16 +57,18 @@ There are five main schools of thought motivating open practices to benefit rese
 | Democratic | The access to knowledge is unequally distributed. | Making knowledge freely available for everyone. |
 | Public | Research needs to be made accessible to the public. | Making research accessible for citizens. |
 
-Open practices also benefit the researchers that propagate them. 
-For example, there is evidence {cite}`McKiernan et al. 2016<McKiernan2016Open>` that open access articles are cited more often, as shown by the metastudy presented in the figure below.
+Open practices also benefit the researchers that propagate them.
+For example, there is evidence {cite:ps}`McKiernan et al. 2016<McKiernan2016Open>` that open access articles are cited more often, as shown by the metastudy presented in the figure below.
 
-```{figure} ../figures/new-community.png
+```{figure} ../figures/open-access-citations.jpg
 ---
 height: 500px
-name: open_access_citations
+name: open-access-citations
 alt: A scatter plot of the relationship between citation rates and discipline
 ---
 The relative citation rate (OA: non-OA) in 19 fields of research. This rate is defined as the mean citation rate of OA articles divided by the mean citation rate of non-OA articles. Multiple points for the same discipline indicate different estimates from the same study or estimates from several studies. (See footnote 1 for references.)
 ```
 
 Another benefit of openness is that while research collaborations are essential to advancing knowledge, identifying and connecting with appropriate collaborators is not trivial. Open practices can make it easier for researchers to connect by increasing the discoverability and visibility of one's work, facilitating rapid access to novel data and software resources, and creating new opportunities to interact with and contribute to ongoing communal projects.
+
+***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*

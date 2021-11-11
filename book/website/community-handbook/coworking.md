@@ -1,3 +1,4 @@
+(ch-coworking)=
 # Community Coworking Calls
 
 The concept of coworking is generally associated with the practice of sharing physical office space with different people who work independently such as remote employees or freelancers.

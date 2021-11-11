@@ -1,7 +1,7 @@
 # The Turing Way | Book Dash - Manchester
 
 
-* Intro to Book Dash MCR slides: https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/IntroBookDashMCR.pdf
+* Intro to Book Dash MCR slides: https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/book-dash/IntroBookDashMCR.pdf
 * HackMD: http://bit.ly/book-dash-mcr
 
 ## The participants
@@ -51,7 +51,7 @@ There was a great diversity of lightning talks which were really fun:
 ![/figures/book_dash_mcr_dinner.jpg](figures/book_dash_mcr_dinner.jpg)
 *Networking dinner in the Jamie's Italian Vault. Photo credit: Jez Cope*
 
-During the dash, we set out to build upon the [Collaborations Workshop Hackday experience](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/collabw19/hackdayreport_20190403.md): we wanted to enhance the first version of *The Turing Way* book and ensure that contributing to the project is as straightforward as possible.
+During the dash, we set out to build upon the [Collaborations Workshop Hackday experience](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/collabw19/hackdayreport_20190403.md): we wanted to enhance the first version of *The Turing Way* book and ensure that contributing to the project is as straightforward as possible.
 We had a mixture of contributions including curating and editing existing content, expanding existing content and writing entirely new content.
 Specifically:
 * 38 new [issues and pull requests](https://github.com/alan-turing-institute/the-turing-way/labels/book-dash-mcr)! (13 issues, 25 pull requests tagged with ```book-dash-mcr```)

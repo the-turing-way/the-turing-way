@@ -1,5 +1,12 @@
 (rr-renv-resources)=
-# Resources
+# Resources and Checklist
+
+(rr-renv-resources-checklist)=
+## Checklist
+
+- Choose the most appropriate method for your project for capturing your computational environment
+- Capture your computational environment
+- Share your captured computational environment along with your results/analysis
 
 (rr-renv-resources-learn)=
 ## What to Learn Next
@@ -36,7 +43,7 @@ The [Docker documentation](https://docs.docker.com/get-started/) contains a lot 
 
 - [Zero to Binder - official tutorial](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
 
-- [Zero to Binder - adapted version](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder.md) **MIT**
+- [Zero to Binder - adapted version](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder.md) **MIT**
 
 - [Zero to Binder](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md) **[BSD 3-Clause](https://github.com/binder-examples/requirements/blob/master/LICENSE)**
 

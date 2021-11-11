@@ -5,7 +5,7 @@ Although content contributed to _The Turing Way_ should be written in {ref}`Mark
 Already, Jupyter Book converts Markdown syntax to `HTML`, making it possible to have a web version of _The Turing Way_ book.
 As a result, writing your own custom `HTML` may introduce some variation in the way your new content appears online compared to the rest of the book.
 
-To minimise this disparity, _The Turing Way_ maintains book-wide [stylesheets](https://github.com/alan-turing-institute/the-turing-way/blob/master/book/website/_static/book-stylesheet.css) that control the look and feel of the book's content.
+To minimise this disparity, _The Turing Way_ maintains book-wide [stylesheets](https://github.com/alan-turing-institute/the-turing-way/blob/main/book/website/_static/book-stylesheet.css) that control the look and feel of the book's content.
 When including `HTML` in your contributions, please refer to these stylesheets and add the relevant classes and IDs defined there to your `HTML` elements.
 This ensures that your new content fits the overall style of _The Turing Way_ book.
 
@@ -15,7 +15,7 @@ If you want to improve the style of the book, this subchapter also provides a br
 (ch-style-custom-styling-stylesheets)=
 ## Using the Stylesheets
 
-(ch-style-custom-styling-stylesheets-videos)=
+(ch-style-custom-styling-videos)=
 ### Videos
 
 While it is possible to embed images and GIFs in your content using Markdown syntax, it is currently only possible to embed videos with `HTML`.
@@ -63,7 +63,7 @@ All web browsers allow you to view the source code of websites easily.
 On computers running the Windows OS, this is done using `CTRL + U`.
 For computers running Mac OS, this is done using `Option + Command + U`.
 
-Once you have determined the element(s) you want to modify, write your CSS in _The Turing Way's_ [stylesheet file](https://github.com/alan-turing-institute/the-turing-way/blob/master/book/website/_static/book-stylesheet.css).
+Once you have determined the element(s) you want to modify, write your CSS in _The Turing Way's_ [stylesheet file](https://github.com/alan-turing-institute/the-turing-way/blob/main/book/website/_static/book-stylesheet.css).
 If, for example, you wanted to change the `font-family` of the paragraph text across the entire _The Turing Way_ book, then you could add the following CSS rule to the stylesheets which target
 all elements with a `<p>` tag:
 

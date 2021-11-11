@@ -7,7 +7,7 @@ However, if you want to develop this project - you become responsible for making
 
 As a 'project lead', you want to set up a welcoming and inclusive environment and create the first set of visions and goals for your collaborators.
 You cannot assume that everyone you collaborate with knows what is expected of them when they start to work with others on your project.
-Therefore, it’s important to set the right expectations from the beginning for your community, even though you might not have planned on having one (see more details: {cite}`Sharan2020Apr`).
+Therefore, it’s important to set the right expectations from the beginning for your community, even though you might not have planned on having one (see more details: {cite:ps}`Sharan2020Apr`).
 
 (cl-new-community-guide-checklist)=
 ## A Checklist for Planning Collaboration in Your Project
@@ -55,7 +55,7 @@ While reading this chapter, please be aware that you may need to make adjustment
 - Value different types of contributions - coding projects are not only about code, therefore list documentation and other management skills as well.
 - You can use the {ref}`Persona Creation Tool<pd-persona-creation>` or the [Personas and Pathways exercise](https://mozillascience.github.io/working-open-workshop/personas_pathways/) to brainstorm who could be your possible community members.
 - Here is a [template of community guideline](https://gist.github.com/PurpleBooth/b24679402957c63ec426) provided by the GitHub user [PurpleBooth](https://gist.github.com/PurpleBooth).
-  - See [_The Turing Way_'s contributing file](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) for reference.
+  - See [_The Turing Way_'s contributing file](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) for reference.
 
 (cl-new-community-leadership)=
 ### 5. Create a Basic Management/Leadership Structure:
@@ -97,4 +97,4 @@ While reading this chapter, please be aware that you may need to make adjustment
 
 Two more points are crucial for ensuring the effectiveness of a collaborative project: addressing technical issues and valuing the importance of diversity in team building.
 
-We have explained them in the next subchapters on {ref}`Addressing Technical Issues<cm-new-community-techissue>` and {ref}`Valuing Diversity and Differences<cm-new-community-differences>`.
+We have explained them in the next subchapters on {ref}`Addressing Technical Issues<cm-new-community-techissue>` and {ref}`Valuing Diversity and Differences<cl-new-community-differences>`.

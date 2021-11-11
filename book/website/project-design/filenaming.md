@@ -16,7 +16,7 @@ Using good names is probably the easiest way to improve reproducibility and reus
 
 ## Chapter content
 
-There are three principles to naming things; the first two apply to all kinds of things and the third is optional but valuable for keeping track of your files {cite}`Bryan2015Filenaming`.
+There are three principles to naming things; the first two apply to all kinds of things and the third is optional but valuable for keeping track of your files {cite:ps}`Bryan2015Filenaming`.
 
 File names should be:
 1. Machine readable
@@ -68,7 +68,7 @@ This happens a lot and clearly, this has more downsides than upsides.
 
 ## Checklist
 
-Here are some tips for naming files within a research project, which are both human- and machine-readable {cite}`Cowles2019Filenaming,Hodge2015Filenaming`:
+Here are some tips for naming files within a research project, which are both human- and machine-readable {cite:ps}`Cowles2019Filenaming,Hodge2015Filenaming`:
 
 - Name your files consistently
 - Keep it short but descriptive
@@ -83,10 +83,4 @@ Here are some tips for naming files within a research project, which are both hu
 ## What to learn next
 
 Want to build a folder with all the files from your research project?
-Check out our chapter on [research compendia](research_compendia/research_compendia).
-
-
-## Bibliography
-
-```{bibliography} ../../_bibliography/references.bib
-```
+Check out our chapter on {ref}`research compendia<rr-compendia>`.

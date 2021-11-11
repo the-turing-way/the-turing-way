@@ -1,4 +1,4 @@
-(rr-vcs-commit)=
+(rr-vcs-git-commit)=
 # The `git commit` Command
 
 Every time you 'add' changes (new files or existing files with some changes) and 'commit' those in your Git repository, you create a version of your project that is stored in your project history and can be accessed any time.
@@ -98,5 +98,5 @@ Further paragraphs come after blank lines.
 ## Git commit: Summary
 
 By committing your changes throughout the development of your project in meaningful units with descriptive and clear commit messages, you can create an easily understandable history.
-This will help you and others to understand the progress of your work. 
+This will help you and others to understand the progress of your work.
 Furthermore, as the next section will demonstrate, it will also make it easy to view past versions of your history or revert changes you have made.
