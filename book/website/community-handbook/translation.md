@@ -11,6 +11,17 @@ There are no prerequisites for this chapter
 
 This chapter covers the motivation for translating _The Turing Way_ to to other languages, some technical aspects about localisation and internationalisation, and the workflows to start a new language translation or contributing to existing ones. 
 
+```{figure} ../figures/Translation.jpg
+---
+height: 500px
+name: Translation
+alt: This illustration shows how global accessibility is reached through translation. A diverse team of three people are writing their contribution in each of the pieces of a puzzle. The pieces complete parallel arrows around the Globe. The arrows are labeled "Constantly updated" because this process is continuous.
+---
+Illustration of translation as a way to reach global accessibility. _The Turing Way_ project illustration by Scriberia.
+Used under a CC-BY 4.0 licence.
+DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
+```
+
 (ch-translation-motivation)=
 ## Motivation
 
