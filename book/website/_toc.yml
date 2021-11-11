@@ -587,6 +587,8 @@ parts:
       sections:
       - title: Translation Management System
         file: community-handbook/translation/localisation.md      
+      - title: Translation Workflow
+        file: community-handbook/translation/workflow.md 
     - title: Monthly Newsletters
       file: community-handbook/newsletters
       sections:
