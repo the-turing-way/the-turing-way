@@ -1,6 +1,8 @@
+(ch-translation-localisation)=
+
 ## Localisation platforms and translation
 
-Localisation involves more than just translation, which only transforms text. Localisation addresses other factors such as text length and cultural references.  A Translation Management System (TMS) manages the localisation process from the beginning of a translation process until the finished product. They are widely used in Open source projects because they offer many advantages such as workflow,  automation, transparency, and fast project delivery.
+Localisation involves more than just translation, which only transforms text. Localisation addresses other factors such as text length and cultural references.  **A Translation Management System (TMS)** manages the localisation process from the beginning of a translation process until the finished product. They are widely used in Open source projects because they offer many advantages such as workflow,  automation, transparency, and fast project delivery.
 
 ### Features of localisation Platforms:
 
@@ -27,7 +29,6 @@ Many TMS support QA checks. These can include Spelling and/or grammatical errors
 ### Examples for localisation Platforms:
 
 - [Transifex](https://www.transifex.com/)
-- [Crowdin]()
-- [Lokalise]()
-- [Website]()
-- [Pontoon]()
+- [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE)
+- [Lokalise](https://lokalise.com/)
+- [Pontoon](https://pontoon.mozilla.org/)
