@@ -20,7 +20,7 @@ It has been estimated around 28% of the scholarly literature is Open Access {cit
 
 An overview of Open Access and all the routes mentioned below are covered in these videos from [Welch Medical Library](https://www.youtube.com/watch?v=CFa2QeMgk9k) and the [Unpaywall team](http://go.sirsidynix.com/2020-04-29-Episode-1-Introduction-to-Open-Access.html).
 
-There is no 'correct way' to do Open Access and there are many different routes to sharing your research openly- we have shared 3 below that may help you.
+There is no 'correct' way to do Open Access and there are many different routes to sharing your research openly- we have shared 3 below that may help you.
 However, deciding on whether to share your research openly may depend on how prominent Open Access is in your field of research, how many resources you have to do this and whether there are restrictions or mandates from your funder or institution.
 
 (rr-open-access-preprints)=
@@ -54,7 +54,7 @@ Some researchers have also been caught up in what is referred to as 'predatory p
 Following the [Think.Check.Submit guidelines](https://thinkchecksubmit.org/) can help researchers to avoid predatory journals.
 
 A criticism around gold Open Access publishing is also the cost. 
-APCs can generally be around $2000 or in some cases more, which can therefore be prohibitive for authors across the globe. 
+APCs can generally be around 2000 USD or in some cases more, which can therefore be prohibitive for authors across the globe. 
 Some publishers offer discounts or waivers to authors from countries classified by the World Bank as low-income economies or APCs may be covered by your funder as part of your grant. 
 
 Whilst some journals are fully Open Access, meaning all the articles they publish are open and free to read, some journals are hybrid.
