@@ -6,7 +6,7 @@
 
 Disseminating and sharing scientific results has been part of research since it was established.
 The first scientific journal, Philosophical Transactions, was established in 1665 and published letters about scientific observations and experimentations.
-The 'commercialisation' of scientific publishing began in the 1940s and for many years publications, such as through a journal, conference proceedings or book were available to the public if purchased through a subscription fee or individually.
+The 'commercialisation' of scientific publishing began in the 1940s and for many years publications, such as through a journal, conference proceedings or book, were available to the public if purchased through a subscription fee or individually.
 
 However, new knowledge is built by synthesizing current scholarship and then building upon it.
 At the turn of the 21st century, the Open Access [{term}`def<Open Access>`] movement was established, principally through the [Budapest Open Access Initative](https://www.budapestopenaccessinitiative.org/) and the Berlin Declaration on Open Access. 
