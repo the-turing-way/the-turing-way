@@ -17,6 +17,9 @@ See the [README template from Cornell](https://cornell.app.box.com/v/ReadmeTempl
 ## Community Standards - Metadata
 
 The use of community-defined standards for metadata is vital for reproducible research and allows for comparison of heterogeneous data from multiple sources, domains and disciplines.
+Metadata standards include content and structural standards.
+The content standards explain what information should be recorded when describing a particular type of resource and how that information should be recorded. 
+While the structural standards define what the fields are and what types of information should be recorded in them.
 Metadata standards are discipline specific.
 For example, for brain data, the [Brain Imaging Data Structure](https://doi.org/10.25504/FAIRsharing.rd1j6t) is the standard to use.
 Not every discipline may use metadata standards, however.
