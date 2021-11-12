@@ -1,6 +1,6 @@
 (ch-translation-localisation)=
 
-## Localisation platforms and translation
+## Localisation Platforms and Translation
 
 Localisation involves more than just translation, which only transforms text. Localisation addresses other factors such as text length and cultural references.  **A Translation Management System (TMS)** manages the localisation process from the beginning of a translation process until the finished product. They are widely used in Open source projects because they offer many advantages such as workflow,  automation, transparency, and fast project delivery.
 
