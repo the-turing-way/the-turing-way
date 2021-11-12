@@ -16,6 +16,7 @@ Add
 
 Authors
   Authors in this context are the contributors to _The Turing Way_ project who have made a substantial contribution to the project such as writing a subchapter, facilitating community interactions, maintaining project’s infrastructure and supporting the participation of others through mentored-contributions. All authors are named co-authors on the book as a whole.
+
 ```
 ---
 
@@ -40,6 +41,7 @@ Bug
 
 Build
   A group of jobs. For example, a build might have two jobs, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
+
 ```
 ---
 
@@ -87,7 +89,7 @@ Conda
   A commonly used package management system.
 
 Consortia authorship
- A collective or community group authorship model. All members of the consortium are considered authors and are usually required to be listed in the published article although sometimes the article is published in the groups name. If not all members of the consortium agree to the responsibilities of authorship, the members that are authors will be listed separately from those who are not. 
+ A collective or community group authorship model. All members of the consortium are considered authors and are usually required to be listed in the published article although sometimes the article is published in the groups name. If not all members of the consortium agree to the responsibilities of authorship, the members that are authors will be listed separately from those who are not.
 
 Container
   Lightweight files that can encapsulate an entire computational environment including its operating system, customised settings, software and files.
@@ -105,11 +107,11 @@ Contributing Guidelines
   Guidelines outlining how a person should go about contributing to an open source project.
 
 Contributors
-  Everyone who has contributed something back to the project. These are members of a research project that have done some work that has made a contribution to the overall completion of the research. This could be a small contribution such as fixing a bug in software or a much larger contribution such as writing an academic article. 
-  
+  Everyone who has contributed something back to the project. These are members of a research project that have done some work that has made a contribution to the overall completion of the research. This could be a small contribution such as fixing a bug in software or a much larger contribution such as writing an academic article.
+
 Corresponding author
  The person who administers an academic article for the research group. They are responsible for receiving the reviewers comments, the proofs, corresponding with the editors and their details are printed on the final version of the published article.
- 
+
 CRediT Taxonomy
  The CRediT Taxonomy is a high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. These details are becoming increasingly required by journals as well as authors meeting authorship criteria.
 
@@ -140,6 +142,7 @@ Docker Registry
 
 Digital Object Identifier
   A digital object identifier (DOI) is a persistent identifier or handle used to identify objects uniquely, standardized by the International Organization for Standardization (ISO). An implementation of the Handle System, DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports, data sets, and official publications. However, they also have been used to identify other types of information resources, such as commercial videos.
+
 ```
 ---
 ## E
@@ -160,10 +163,10 @@ End to End Test
 
 FAIR
   Findable, Accessible, Interoperable and Reusable.
-  
+
 First author
- The most prominent position in academic authorship. It conveys this person's position as the researcher who has made the greatest contribution to the research. 
-  
+ The most prominent position in academic authorship. It conveys this person's position as the researcher who has made the greatest contribution to the research.
+
 ```
 ---
 ## G
@@ -180,16 +183,16 @@ Github
 
 GitLab
   GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
-  
+
 Ghost author
  It is a person who writes an academic article without having carried out the research. It could be a professional writer. They would often not qualify as an author under the ICMJE criteria for authorship.
- 
+
 Gift author
  People who are listed as authors but who did not make significant contributions to the research. This is also known as a guest author.
- 
+
 Group authorship
  Some journals permit the use of group names but many require contributors to be listed and/or the writing group to be named. This is the same as shared authorship.
- 
+
 Guarantor
  As well as fulfilling criteria for being a named author, some journals require one or more authors that take responsibility for the integrity of the work as a whole from inception to the published article.
 ```
@@ -202,7 +205,7 @@ Head
 
 Helm
   A package manager for Kubernetes applications.
-  
+
 Honorary authorship
  This is when an individual becomes a named author even though they have not made a substantial contribution and/or met authorship criteria.
 
@@ -252,7 +255,7 @@ Kubernetes
 
 License
   This is a legal document that sets out the permissions for creative and academic work. It explains copyright, ensures proper attribution and sets out how others can copy, distribute and make use of the works.
-  
+
 Last author
  Usually the person in the research team with a supervisory role such as a PhD supervisor or Principal investigator. This is discipline dependent as sometimes the last author is the person that has made the smallest contribution to the research.
 ```
@@ -330,7 +333,7 @@ Open Source Software
   Documenting research code and routines, and making them freely accessible and available.
 
 ORCID
-  Open Researchers and Contributor iD. It is a long lasting unique identifier for you as a researcher. A persistent digital identifier for researchers' that can be used on publications to ensure fair credit is given for all the researchers works. 
+  Open Researchers and Contributor iD. It is a long lasting unique identifier for you as a researcher. A persistent digital identifier for researchers' that can be used on publications to ensure fair credit is given for all the researchers works.
 
 Owner
   The person/s who has administrative ownership over the organization or repository (not always the same as the original author).
@@ -360,6 +363,9 @@ Phony Target
 
 Power Users
   These are people who are already familiar enough with a platform to know the gotchas and tricks that make their experience more efficient.
+  
+Preprint
+   A preprint is a version of a scholarly or scientific paper that precedes formal peer review and publication in a peer-reviewed scholarly or scientific journal. It is usually uploaded by the authors to a public server where it is available openly.
 
 Prerequisite
   The prerequisite(s) of a rule correspond to files or other targets in the Makefile that must be up to date before the rule is run.
@@ -541,3 +547,4 @@ YAML
 ```{glossary}
 
 ```
+--->
