@@ -17,7 +17,7 @@ By understanding systems and structures of power and oppression, and where we si
 
 ## Intersectionality 
 
-Intersectionality is an important concept to know and understand when thinking about power, privilege and identity. 
+Intersectionality [{term}`def<Intersectionality>`] is an important concept to know and understand when thinking about power, privilege and identity. 
 
 The term **intersectionality** refers to how multiple identities can intersect, and so people can be oppressed on the basis of combinations of their identities instead of, or as well as, their separate identities. 
 The term was coined by Kimberlie Crenshaw in 1989 {cite:ps}`crenshaw1989demarginalizing` to describe the way that laws that protected Black people and women did not protect against discrimination that exclusively affected Black women. 
