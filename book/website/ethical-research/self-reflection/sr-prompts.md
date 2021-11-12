@@ -18,7 +18,7 @@ There are lots of different aspects you could consider, and the questions below 
 - What are the shared values of my lab? My department? My university?
 - Who is visibly present in my department? Who isn't?
     - What understanding do I have of why that is, and how have I formed this understanding?
-- What do I know about the visible and invisible GRACES of people in my department or field? 
+- What do I know about the visible and invisible Social Graces of people in my department or field? 
 - How do the people who work in my field represent the people our work serves?
   - How do I relate to the people I am trying to serve with my work? 
 
