@@ -10,12 +10,12 @@ height: 500px
 name: Translation
 alt: This illustration shows the features of Translation Management System. It contains Translation Memory, Machine Translation, glossary, QA checks and easily integrated with GitHub.
 ---
-Illustration of translation as a way to reach global accessibility. _The Turing Way_ project illustration by Scriberia.
+_The Turing Way_ project illustration by Scriberia.
 Used under a CC-BY 4.0 licence.
 DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 ```
 
-### Features of localisation Platforms:
+### Features of Localisation Platforms:
 
 - **Translation Memory**
 
@@ -37,7 +37,7 @@ Screenshots provide context to the text for translation. TMS offers the opportun
 Many TMS support QA checks. These can include Spelling and/or grammatical errors, inconsistent placeholders and unbalanced brackets. These QA checks make the translation process smoother for translators.
 
 
-### Examples for localisation Platforms:
+### Examples for Localisation Platforms:
 
 - [Transifex](https://www.transifex.com/)
 - [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE)
