@@ -6,7 +6,7 @@ Now that your repo is set up, you are ready to add more stuff to it and use some
 ## Adding more folders (directories), files and commits
 
 * You can add more files to your repo by clicking the "add file" button and either uploading files or creating a new one.
-* Each time you create a new file or upload files you will need to add a {ref}`commit message`<rr-vcs-commit-messages> to help you remember what changes you made.
+* Each time you create a new file or upload files you will need to add a {ref}`commit message<rr-vcs-commit-messages>` to help you remember what changes you made.
 * Note that git (and thus GitHub) does not track folders/directories, so you cannot create an empty folder.
 
 
@@ -16,7 +16,7 @@ Now that your repo is set up, you are ready to add more stuff to it and use some
 * This will give you a blank file to edit.
 * When naming the file, first type in the name of the folder (existing or new) and then a forward slash, followed by the name of the file: "folder-name/file-name.ext".
 * Edit the content of the file.
-* Save your changes using the "commit" button. Remember to type a {ref}`commit message`<rr-vcs-commit-messages> to help you remember what changes you made.
+* Save your changes using the "commit" button. Remember to type a {ref}`commit message<rr-vcs-commit-messages>` to help you remember what changes you made.
 
 This file will appear in the folder that you named.
 You will be able to see the folder on your landing page.
