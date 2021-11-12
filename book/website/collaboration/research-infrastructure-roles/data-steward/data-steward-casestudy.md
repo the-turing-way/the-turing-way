@@ -3,7 +3,7 @@
 
 ## Intro
 My name is [Esther Plomp](https://estherplomp.github.io/) and I’m currently a Data Steward at the Delft University of Technology in the Netherlands. 
-I work at the Faculty of Applied Sciences since 2018. 
+I have worked at the Faculty of Applied Sciences since 2018. 
 Before I joined the Data Stewards at TU Delft I studied archaeology in Leiden and I did a PhD in bioarchaeology at the Vrije Universiteit Amsterdam at the Earth Science department. 
 My [research focused on the chemical composition of human teeth](https://doi.org/10.5281/zenodo.3929551). 
 This chemical composition, or isotope ratio, in your teeth may reveal where you grew up when your teeth formed. 
@@ -12,11 +12,11 @@ While I don’t use the same terminology as all of these researchers (some of th
 
 ## Embedding of the role
 At TU Delft we have a large team of Data Stewards, one per faculty, and a Data Stewardship Coordinator. 
-This team meets once a week to discuss on anything data related. 
+This team meets once a week to discuss anything data related. 
 It is very beneficial to be part of a team so that I can ask questions when I don’t know the answer myself, or to be able to work together on training sessions or working groups. 
 
 ## Changing of the role
-The data steward role has changed since I started in 2018. 
+The Data Steward role has changed since I started in 2018. 
 First it was very much focused on data requests and it involved setting up the Research Data Management policy of the Faculty (based on the TU Delft policy). 
 Together with the Data Steward of another faculty, I reached out to every department to gather feedback on the policy. 
 This process took almost a year, but ensured that the awareness of the policy increased and more importantly: the policy is practically relevant and provides guidelines that researchers appreciated. 
@@ -27,14 +27,14 @@ While I do not use programming for my daily work necessarily (I use it for parts
 At a technical university this is quite crucial, as most of the researchers at the faculty use programming languages on a daily basis. 
 It also allowed me to co-organise a [genetic data workshop](https://openworking.wordpress.com/2019/06/07/tu-delfts-first-genomics-data-carpentry/) together with researchers from my faculty for their department. 
 
-Since 2020 I’m also increasingly focusing on general Open Science support. 
-This was something which was already a part of the role from the very start, but now I’m actively promoted as the contact person for Open Science support at the Faculty level. 
+Since 2020, I’m also increasingly focusing on general Open Science support. 
+This was something that was already a part of the role from the very start, but now I’m actively promoted as the contact person for Open Science support at the Faculty level. 
 There is additional support for Open Science at the Library, in particular the [Open Science Programme](https://www.tudelft.nl/library/tu-delft-open-science) at the TU Delft. 
 
 ## Challenges
-Downside of the role is that it can sometimes be lonely to be the only person working on the topic at the Faculty level. 
+A downside of the role is that it can sometimes be lonely to be the only person working on the topic at the Faculty level. 
 It is difficult to connect to other types of support that are less closely related to research. 
-I’m very fortunate that I have fantastic colleagues in the Graduate School and a Faculty Information Office which are happy to collaborate on faculty related matters, such as the duration of PhD projects that we’re trying to decrease or any data regarding Open Access publications. 
+I’m very fortunate that I have fantastic colleagues in the Graduate School and a Faculty Information Office, which are happy to collaborate on faculty related matters, such as the duration of PhD projects that we’re trying to decrease or any data regarding Open Access publications. 
 Another downside to the role is that there is no clear career track laid out. 
 A way to move up the career ladder would be the Data Stewardship Coordinator role, which would remove me further from researchers than I would like. 
 One of the things that I enjoy most in my work is the interaction with researchers. 
