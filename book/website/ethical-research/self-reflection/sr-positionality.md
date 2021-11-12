@@ -14,7 +14,7 @@ By better understanding ourselves, we can be more proactive about spotting where
 This means we can be transparent about how our unique view has influenced the way we work, which is beneficial to scientific integrity and reproducibility. 
 It can also help us to identify and work against systemic and structural barriers that might otherwise go unchallenged, in order to make our research environments more inclusive (see {ref}`Activism<er-activism>`).
 
-The placement of our identities, socio-cultural position and epistemological approach [{term}`def<Epistimology>`] to knowledge in the context of our research is called our *positionality*.
+The placement of our identities, socio-cultural position and epistemological approach [{term}`def<Epistemology>`] to knowledge in the context of our research is called our *positionality*.
 We can understand our positionality through the practice of *reflexivity*, which is the process of using *self-reflection* [{term}`def<Self Reflection>`] to better understand how our identities and experiences influence the way we behave in our work. 
 
 (er-self-reflection-social-graces)= 
