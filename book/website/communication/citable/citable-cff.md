@@ -8,7 +8,7 @@ A `CITATION.cff` file aggregates the information in a key-value format that can 
 (cm-citable-cff-why)=
 ## Why Use `CITATION.cff`?
 
-There are great advantages in using a `CITATION.cff` file for the citation information for your software!
+There are great advantages when using a `CITATION.cff` file for the citation information for your software!
 
 It's easier for you:
 When you host your software source code on GitHub and have a `CITATION.cff` in your repository, you can use the Zenodo-GitHub integration to automatically publish new releases of the software.
@@ -18,7 +18,7 @@ You don't have to edit this information manually on Zenodo anymore.
 It's easier for the users of your software:
 1. They can directly use the citation information from `CITATION.cff` to cite your software.
 2. If your source code is on GitHub, they will show the citation information in the sidebar as a formatted citation, and also in the BibTeX format.
-Users can copy either, paste it into their manuscripts, and cite your software correctly.
+Users can copy either, paste it into their manuscripts, and/or cite your software correctly.
 3. If they use the Zotero reference manager, they can import the citation metadata directly from the `CITATION.cff` file in the GitHub repository to their reference manager.
 
 (cm-citable-cff-how-to-create)=

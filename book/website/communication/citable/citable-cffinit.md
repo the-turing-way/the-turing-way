@@ -3,7 +3,7 @@
 
 `cffinit` is a web application which helps users create a `CITATION.cff` file.
 The application provides guidance for each field of the [CFF schema](https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md) and does the validation automatically.
-When there are issues it provides a visual feedback on relevant fields.
+When there are issues, `cffinit` will provide a visual feedback on relevant fields.
 
 In the following sections you can find details about each step of the process.
 
