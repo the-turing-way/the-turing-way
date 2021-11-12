@@ -1,7 +1,7 @@
 (er-self-reflection-power-privilege)= 
 # Power and privilege
 
-When thinking about positionality [{term}`def<Positionality>`], it is important to understand how we might hold power and privilege relative to the people we work with, those whose data we are studying, or the problems we are attempting to solve. 
+When thinking about positionality [{term}`def<Positionality>`], it is important to understand how we might hold power and privilege relative to the people we work with, those whose data we are studying, and the problems we are attempting to solve. 
 Our experiences of power and privilege, or oppression, are tightly interwoven with our experiences of class, race, gender and more {cite:ps}`crenshaw1989demarginalizing, collins1990black`. 
 These experiences are important to consider because themes of power and privilege are present in all of our contexts. 
 Having privilege can make us unaware of related issues that do not directly affect us.
