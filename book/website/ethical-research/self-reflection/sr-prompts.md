@@ -6,12 +6,12 @@ There are lots of different aspects you could consider, and the questions below 
 
 ## Questions about my own identity 
 
-- What is considered ethical in my culture, that other cultures may see differently?
+- What is considered ethical in my culture that other cultures may see differently?
 - What are my own {ref}`Social Graces<er-self-reflection-social-graces>`? 
 - How have my Social Graces shaped my experiences of life? 
 - How have my Social Graces shaped the decisions that have led me to do what I do now?
 - What are the Social Graces of my family and friends? 
-  - Are there Graces where we vary a lot/little?
+  - Are there Social Graces where we vary a lot/little?
 
 ## Questions about my research environment
 
@@ -42,7 +42,7 @@ There are lots of different aspects you could consider, and the questions below 
 
 ## Questions about my data
 
-- Who isn't included in the data I have collected or am using second-hand?
+- Who isn't included in the data I have collected or reusing an existing dataset?
 - When and where was this data created?
 - What were the dominant beliefs at the time?
 - What do you know about the people who created this data?

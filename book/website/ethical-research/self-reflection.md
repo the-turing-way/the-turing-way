@@ -15,7 +15,7 @@ Our lived experiences and identities give us a particular lens to view the world
 However, this can also lead us to see a situation or problem in one particular way, or to take approaches that exclude certain people or groups. 
 When it comes to ethical dilemmas, our lived experiences also shape our *personal ethics*, which are the way we make decisions about what is right or wrong. 
 
-Self-reflection is a method we can use to examine our personal assumptions, patterns and actions. 
+**Self-reflection** is a method we can use to examine our personal assumptions, patterns and actions. 
 When we understand ourselves better, we can ask questions about why we do things in a certain way and challenge ourselves to consider new perspectives or to act differently. 
 This can help to make sure the research we are conducting is responsible, inclusive, fair and ultimately ethical!
 
