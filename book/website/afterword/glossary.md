@@ -149,6 +149,9 @@ Digital Object Identifier
 
 ```{glossary}
 
+Epistemology
+ Theory of knowledge and deals with how knowledge is gathered and from which sources. In research terms your view of the world and of knowledge strongly influences your interpretation of data and therefore your philosophical standpoint should be made clear from the beginning. (Source: [Post by Nicole Brown](https://www.nicole-brown.co.uk/epistemology/))
+
 Equitable, Diverse and Inclusive Practices
   Ensuring scholarship is open to anyone without barriers based on factors such as race, background, gender, and sexual orientation.
 
@@ -222,6 +225,9 @@ Image
 
 Integration Testing
   A level of software testing where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units.
+  
+Intersectionality
+People's own unique experiences of social status, discrimination, oppression and anything that can marginalise them based on the hierarchy or combination or identities and backgrounds such as gender, race, class, sexual orientation, physical ability and so on. This term was coined by Kimberley Crenshaw. [see the post by Womankind](https://www.womankind.org.uk/intersectionality-101-what-is-it-and-why-is-it-important/)).
 
 Issues
   Bug tracking system for GitHub. Collaborators can use issues to report bugs, request features, or set milestones for projects. Issues are tracked, reported, and closed by collaborators during the development process. They’re a great way of communicating with your team and reporting progress.
@@ -360,6 +366,9 @@ Persona Canvas
 
 Phony Target
   A phony target is one that doesn’t correspond to a file on the filesystem. A target is marked as phony by making it a prerequisite of the .PHONY target.
+  
+Positionality
+ Differences in social position and power shape identities and access in society. In acknowledging positionality, we also acknowledge intersecting social locations and complex power dynamics (also see: Intersectionality).
 
 Power Users
   These are people who are already familiar enough with a platform to know the gotchas and tricks that make their experience more efficient.
@@ -456,6 +465,9 @@ Runtime Test
 
 Self Archiving
   Placing a publication or other research outputs in a suitable repository, institutional or subject-based, following the possible restrictions posed by the publisher, for example an embargo period, or limits on the allowed version to be deposited in such archives.
+  
+Self Reflection
+  Activity of thinking about our thoughts, feelings, emotions, behaviour action, and the reasons that may lie behind them. Taking the time for reflection we can grow our understanding of who we are, what our values are, and why we think, feel, and act the way we do. When we self-reflect and become more conscious of what drives us, we can more easily make changes that help us more easily develop our self or improve our life including the way we conduct research (source: [Berkeley Wellbeing](https://www.berkeleywellbeing.com/what-is-self-reflection.html)).
 
 SHA
   Unique string of numbers of letters used to identify every commit or node in the repository.
