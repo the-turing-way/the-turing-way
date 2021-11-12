@@ -47,7 +47,7 @@ We recommend that you look at a translated chapter or section before you start t
 
 #### Machine translation / Translation tools
 
-The translation process can be assisted by machine translation. Localisator platforms such as Crowdin are  integrated with well-known machine translation providers including Google, Microsoft, etc. In contrast, for Transifex, this process is performed outside the platform. In this particular case, we recommend using [DeepL](https://www.deepl.com/) as a translation tool. DeepL tool recommends a series of synonyms when you click in the translated text. These can be useful especially with long texts. 
+The translation process can be assisted by machine translation. Localisator platforms such as Crowdin are  integrated with well-known machine translation providers including Google and Microsoft. In contrast, for Transifex, this process is performed outside the platform. In this particular case, we recommend using [DeepL](https://www.deepl.com/) as a translation tool. DeepL tool recommends a series of synonyms when you click in the translated text. These can be useful especially with long texts. 
 
 #### Read the translation rules
 
