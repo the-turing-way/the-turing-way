@@ -76,7 +76,7 @@ We recommend that you look at a translated chapter or section before you start t
 #### Machine translation / Translation tools
 
 The translation process can be assisted by machine translation.
-Localisation platforms such as [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE) are integrated with well-known machine translation providers, including Google and Microsoft. 
+Localisation platforms such as [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE) are integrated with well-known machine translation providers, including Google and Microsoft.
 In contrast, for [Transifex](https://www.transifex.com/), this process is performed outside the platform.
 In this particular case, we recommend using [DeepL](https://www.deepl.com/) as a translation tool.
 DeepL tool recommends a series of synonyms when you click on the translated text.
