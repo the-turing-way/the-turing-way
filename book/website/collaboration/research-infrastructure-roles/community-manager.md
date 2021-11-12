@@ -17,6 +17,7 @@ Each role is varied but the main activities are typically focused around compass
 * Active community member
 * Communicating technical topics to non-technical colleagues and vice versa
 * Encouraging high standards of reproducible, ethical, inclusive and collaborative data science
+* Creating sub-networks within the community around shared experiences, for example, such as an early career researcher network
 
 The day-to-day tasks of a community manager could include: 
 * Organising and hosting community calls
@@ -30,6 +31,7 @@ The day-to-day tasks of a community manager could include:
 * Reading publications relevant to the community
 * Managing membership lists
 * Mentoring community contributions
+* Creating informational materials to help the wider field or public learn about the community and their projects
 * And a lot more!
 
 (cl-infrastructure-communitymanagers-skills)=
