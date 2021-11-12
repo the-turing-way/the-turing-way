@@ -146,6 +146,9 @@ Digital Object Identifier
 
 ```{glossary}
 
+Epistemology
+ Theory of knowledge and deals with how knowledge is gathered and from which sources. In research terms your view of the world and of knowledge strongly influences your interpretation of data and therefore your philosophical standpoint should be made clear from the beginning. (Source: [Post by Nicole Brown](https://www.nicole-brown.co.uk/epistemology/))
+
 Equitable, Diverse and Inclusive Practices
   Ensuring scholarship is open to anyone without barriers based on factors such as race, background, gender, and sexual orientation.
 
@@ -219,6 +222,9 @@ Image
 
 Integration Testing
   A level of software testing where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units.
+  
+Intersectionality
+People's own unique experiences of social status, discrimination, oppression and anything that can marginalise them based on the hierarchy or combination or identities and backgrounds such as gender, race, class, sexual orientation, physical ability and so on. This term was coined by Kimberley Crenshaw. [see the post by Womankind](https://www.womankind.org.uk/intersectionality-101-what-is-it-and-why-is-it-important/)).
 
 Issues
   Bug tracking system for GitHub. Collaborators can use issues to report bugs, request features, or set milestones for projects. Issues are tracked, reported, and closed by collaborators during the development process. They’re a great way of communicating with your team and reporting progress.
