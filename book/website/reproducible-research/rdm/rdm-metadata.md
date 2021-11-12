@@ -3,7 +3,7 @@
 
 Having data available is of no use if it cannot be understood.
 For example, a table of numbers is useless if there are no headings that describe what the columns/rows contain.
-Therefore you should ensure that open datasets include consistent metadata, that is information about the data, so that the data is fully described.
+Therefore you should ensure that open datasets include consistent metadata, that is information about the data so that the data is fully described.
 This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.
 
 - The level of documentation and metadata [{term}`def<Metadata>`] will vary according to the project, and the range of people the data needs to be understood by.
@@ -16,11 +16,11 @@ See the [README template from Cornell](https://cornell.app.box.com/v/ReadmeTempl
 (rr-rdm-metadata-standards)=
 ## Community Standards - Metadata
 
-The use of community-defined standards for metadata is vital for reproducible research and allows for comparison of heterogeneous data from multiple sources, domains and disciplines.
+The use of community-defined standards for metadata is vital for reproducible research and allows for the comparison of heterogeneous data from multiple sources, domains and disciplines.
 Metadata standards include content and structural standards.
 The content standards explain what information should be recorded when describing a particular type of resource and how that information should be recorded. 
 While the structural standards define what the fields are and what types of information should be recorded in them.
-Metadata standards are discipline specific.
+Metadata standards are discipline-specific.
 For example, for brain data, the [Brain Imaging Data Structure](https://doi.org/10.25504/FAIRsharing.rd1j6t) is the standard to use.
 Not every discipline may use metadata standards, however.
 You can see if your discipline uses metadata standards through [FAIRsharing](https://fairsharing.org/), a resource to identify and cite the metadata or identifier schemas, databases or repositories that exist for your data and discipline.
