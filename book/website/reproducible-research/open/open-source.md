@@ -70,7 +70,7 @@ Blogging, content management, and operating systems are all problems with establ
 While developers could spend their time reinventing wheels that the open-source community has already perfected, it is highly preferable to use the world’s best wheel, especially when that wheel comes at no cost to you.
 This reduces duplication of effort and allows researchers to focus on yet-unsolved challenges.
 
-The {ref}`cr-code-reuse` provides a more in-depth list of different aspects to consider for making your code more reusable, whether this is a small script or a library.
+The {ref}`rr-code-reuse` provides a more in-depth list of different aspects to consider for making your code more reusable, whether this is a small script or a library.
 
 (rr-open-source-benefitsresearch-checkable)=
 ### Checkable
