@@ -42,8 +42,8 @@ You can follow the recommendations that are more suitable for your type of softw
     - with a license that allows for reuse;
     - with a license compatible with the dependencies’ licenses
 1. Make sure it is citable
-1. Write useful documentation*
 1. Include necessary data
+1. Write useful documentation*
 
 ### Re-runnable recommendations
 1. Remove hardcoded bits and make the code modular
@@ -95,35 +95,35 @@ Your code must be stored publicly and shared with collaborators. It has an uniqu
 
 **See also**: {ref}`rr-vcs`
 
-#### 1. Make sure you can find it (in time)
+#### 2. Make sure you can find it (in time)
 Ideally the temporal evolution of the code is documented with version control. This allows you to retrieve a specific version from the past.
 
 **See also**: {ref}`rr-vcs`
 
-#### 1. Make sure you can execute the same sequence of operations
+#### 3. Make sure you can execute the same sequence of operations
 Often the human who set up the environment is also the one who wrote the code and the one who knows the exact order of steps needed to be able to re-run the code and reproduce the results.
 This could surely be carefully documented for another human to re-do it.
 
 **See also**: [CodeRefinery lesson on Reproducible Research](https://coderefinery.github.io/reproducible-research/)
 
-#### 1. Make sure your environment and sequence of operations is robust and no human is needed to replicate what was done
+#### 4. Make sure your environment and sequence of operations is robust and no human is needed to replicate what was done
 You do not want to depend on humans. They tend to make errors even if they do not have bad intentions. So you want your environment to be scripted and be re-created when needed and you want your sequence of operations to be run by a pipeline script that glues together all the sequence of steps.
 
 **See also**: {ref}`rr-renv-options`
 
-#### 1. License your code
+#### 5. License your code
 Make sure you attach a license to your code and specify how you want to be cited when people re-use it.
 Consider using a permissive license that allows for reuse.
 Also, you should choose a license which is compatible with the licenses of libraries or packages your software depends on.
 
 **See also**: {ref}`rr-licensing-software`, {ref}`rr-licensing-software-permissive`, {ref}`rr-licensing-compatibility`
 
-#### 1. Make sure it is citable
+#### 6. Make sure it is citable
 Make sure to specify how you want to be cited when people re-use it.
 
 **See also**: {ref}`cm-citable-cite-software`
 
-#### 1. Include necessary data
+#### 7. Include necessary data
 If the software depends on any sort of data, the data should be available
 
 **See also**: {ref}`rr-rdm-data`
@@ -138,12 +138,12 @@ Make the modules pure: given the same input, a pure function always returns the 
 
 **See also**: [CodeRefinery Modular Code Development lesson](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/modular-code-development/master/talk.md/#1)
 
-#### 1. Test that the modules you made can take different types of input data or parameters
+#### 2. Test that the modules you made can take different types of input data or parameters
 You might not know yet how your code will be re-used in the future, but you can prevent how it should not be used if you can test which parameters are allowed.
 
 **See also**: [CodeRefinery lesson on Automated testing](https://coderefinery.github.io/testing/motivation/)
 
-#### 1. Turn the modules into a package/toolbox
+#### 3. Turn the modules into a package/toolbox
 Separate even more the specifics of your project with the bits that can be reused in other of your projects or by other people.
 
 **See also**: {ref}`rr-renv-package`, [Packaging software](https://scicomp.aalto.fi/scicomp/packaging-software/), [Software packaging in Python](https://aaltoscicomp.github.io/python-for-scicomp/packaging/)
