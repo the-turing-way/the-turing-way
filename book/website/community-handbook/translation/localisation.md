@@ -28,10 +28,10 @@ A glossary is a collection of the key terms that are used in the project to ensu
 Machine Translation can speed up the translation process. It provides translation suggestions from automatic translation services like Google Translate and AutoML Translation, Microsoft Translate, and more. 
 - **Integration with GitHub**
 
-Continues integration is vital for automation in open sources projects. Many localisation platforms offer integration with GitHub, which synchronises source and translation files between your GitHub repository and translation project.
+Continuous integration is vital for automation in open sources projects. Many localisation platforms offer integration with GitHub, which synchronises source and translation files between your GitHub repository and translation project.
 - **Screenshots for the context**
 
-Screenshots provide context to the text for translation. TMS offers the opportunity of attaching screenshots to each of the phrases can provide a visual context to translators
+Screenshots provide context to the text for translation. TMS offers the opportunity of attaching screenshots to each of the phrases to provide a visual context to translators
 - **QA checks**
 
 Many TMS support QA checks. These can include Spelling and/or grammatical errors, inconsistent placeholders and unbalanced brackets. These QA checks make the translation process smoother for translators.
