@@ -1,3 +1,4 @@
+(contributors-record-highlights)=
 # Record of Contributions
 
 *The `contributors.md` file and the contributors table in the `README file` together form the record of contributions in _The Turing Way_.*
@@ -49,6 +50,23 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 <!---A--->
 ## A
 
+### Achintya Rao
+
+* Role: Book Dash 2021 Participant
+* GitHub id: [RaoOfPhysics](http://github.com/RaoOfPhysics)
+* ORCID: [0000-0002-1628-2618](https://orcid.org/0000-0002-1628-2618)
+* Short bio:
+> Achintya is the Community Manager for the _AI for Science and Government_ research programme at The Alan Turing Institute. He has a BSc in physics and an MA in science journalism. Prior to joining The Turing, he spent over a decade as a science communicator at CERN, the European Organization for Nuclear Research, in Geneva. He is also wrapping up a PhD in science communication from UWE Bristol.
+
+* Personal highlights:
+> It was a joy helping people who had never used GitHub before file their first issues and make their first pull requests. I also familiarised myself with the structure of the book and can hopefully help other members of the community make contributions to it in the future! It was a lot of fun co-working with so many wonderful people in a shared virtual space.
+
+* More information:
+> I love that the TTW repo is a place not just to contribute but also to learn, so I wasn't afraid of making mistakes in commits and pull requests. It’s helpful that so many knowledgeable members of the community are there to help!
+
+* Personal Quote:
+> _The Turing Way_ is an ideal place to gather collective knowledge from diverse experiences in data science and open research, and to learn by doing.
+
 ### Alexander Morley
 
 * Role: Infrastructure Maintainer (2018 - 2019)
@@ -67,6 +85,26 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 * More information:
 > I really want research to be accessible, but in a much broader sense than the word is often used. I would love to see a world where re-mixing research is a common thing, whether that be re-mixing figures to make them easier to understand, re-using data to generate new insights, or testing new methods to see how our theories might need to change.
 > Slightly less on topic, but just as important, I am also passionate about the development and adoption of best-practices in governance. Safe and inclusive spaces are all too rare in academia, and I think some part of that can be solved by doing away with our laissez-faire attitude towards governance and management.
+
+## Alejandro Coca
+
+* Role: 
+    * The Turing Way Translation Contributor
+    * Book Dash 2021 participant
+* GitHub id: [acocac](https://github.com/acocac)
+* ORCID: [0000-0002-9264-1539](https://orcid.org/0000-0002-9264-1539)
+* Short bio:
+> Alejandro completed his PhD in Physical Geography at King's College London in September 2020. He is currently affiliated as a Postdoctoral Research Associate at the Alan Turing Institute working on a project aiming to build and deploy open-source toolkits and demonstrators for Environmental Data Science. He is also contributing to `scivision`, a generic framework for scalable image analysis led by the Turing in collaboration with the open-source community.
+
+* Personal highlights:
+> I'm so glad to join _the Turing Way_ community. I've met a large and very active community contributing to a common goal, Open, Inclusive and Collaborative Science. My participation in the Book Dash 2021 was a fantastic experience to learn, discuss, collaborate and network with a wide variety of TTW contributors. My particular contribution during the 2021 book dash was to improve the documentation of translation within the Community Handbook. The documentation summarises learnings and experiences from the Spanish Translation team relevant to future translations. 
+
+* More information:
+> Thanks to the TTW and the Open Life Science training programme, I'm considerably improving a prototype of online and community-driven e-book on Environmental Data Science, named the Environmental AI book.
+
+* Quotes:
+> There's always hope!
+
 
 ### Andreea Avramescu
 
@@ -101,25 +139,28 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Arielle Bennett
 
-* Role: Research Project Manager, Tools, Practices & Systems Programme, Book Dash May 2021 Organising Committee
+* Role: Book Dash 2021 organising committee & participant
 * GitHub id: [Arielle-Bennett](http://github.com/Arielle-Bennett)
 * ORCID: https://orcid.org/0000-0002-0154-2982
 
 * Short bio:
-> I am the Research Project Manager for the Tools, Practices & Systems Programme at the Alan Turing Institute, a critical research infrastructure role ensuring smooth delivery of complex collaborations, initiatives and overall programme strategy.
-> The programme is focused on developing and enhancing the culture change, research tools, and knowledge needed to support open source, multidisciplinary work across data science and beyond.
-> I have worked in research infrastructure roles since graduating with a BA in Natural Sciences, resulting in a breadth of understanding across the complex ecosystem of research publishing, start ups, community and project management.
-> Following my Community Engagement Fellowship in 2019 with the Center for Scientific Collaboration & Community Engagement, I am an active member of the CSCCE community, sitting on their Code of Conduct Committee and organising the Diversity, Equity & Inclusion Special Interest Group.
+> Arielle is the Research Project Manager for the Tools, Practices & Systems programme at the Alan Turing Institute. Prior to this she has worked in a variety of research-adjacent roles across tech, start ups and science publishing. She is also a mentor with the Open Life Sciences programme and a 2019 Community Engagement Fellow with the Center for Scientific Collaboration and Community Engagement.
 
 * Personal highlights:
 > Before participating in the Turing Way, I didn't know what a pull request was, nevermind how to make one!
 > Now I have contributed to several different parts of the five guides, including co-writing the initial chapters on [activism for researchers](https://the-turing-way.netlify.app/ethical-research/activism.html) and given presentations on the topic at conferences.
 > I also now mentor other community contributors on how to create pull requests, contribute to existing chapters, review others work, and draft new ideas.
-> The May 2021 Book Dash was an amazing opportunity to engage with the community and get excited about the project all over again!
-> I came away from it feeling enthused and proud of the contributions people made with my support - it will be brilliant to see how these evolve over the coming months into content and chapters.
+> The **May 2021 Book Dash** was an amazing opportunity to engage with the community and get excited about the project all over again! I came away from it feeling enthused and proud of the contributions people made with my support - it will be brilliant to see how these evolve over the coming months into content and chapters.
+> In the **November 2021 Book Dash** week we have merged a new chapter on research infrastructure roles - the people who do critical tasks to keep research going, open, reproducible, collaborative and reusable! It's great to be able to promote the visibility of roles like mine to the wider community. I am also incredibly proud of all our first attendees who have done brilliant work this week revising old chapters and writing new ones. 
+
+* More information:
+> The research infrastructure roles chapter is not finished! We are hoping that people will contribute overviews of more roles in this space, or share their career trajectory and background as case studies in the future. 
 
 * Personal Quote:
+> It's always a joy to work with Book Dash participants, experienced and new, to create something amazing.
 > The Book Dash is an incredible experience for both newer and established community members. It is joyful work to spend focused time on developing content for the Turing Way and supporting people from across the globe to contribute. I feel lucky to have been able to take part and take on a more prominent role as part of the organising committee.
+
+
 
 <!---B--->
 ## B
@@ -244,6 +285,11 @@ I'm a Research Associate and Community Manager of DECOVID at The Alan Turing Ins
 
 * Personal highlights:
 >I collaborated with a group of researchers from The Alan Turing Institute to draft a chapter of scientific outreach.
+
+### Esther Plomp
+
+Esther Plomp's participation is supported by the Faculty of Applied Sciences at Delft University of Technology.
+Please [see details](https://the-turing-way.netlify.app/afterword/contributors-record.html#esther-plomp) under the [Collaborating Organisations and Projects](https://the-turing-way.netlify.app/afterword/contributors-record.html#delft-university-of-technology-faculty-of-applied-sciences) section.
 
 <!---F
 ## F--->
@@ -467,6 +513,23 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > Besides connecting with members from diverse perspectives, my highlights in _The Turing Way_ are co-developing community governance, acknowledgment pathways, and community resources in the [Community Handbook](https://the-turing-way.netlify.app/community-handbook) for our members.
 > I enjoy designing training resources around leadership in research in collaboration with [Open Life Science](https://openlifesci.org/).
 
+### Margaret Wanjiku 
+
+* Role: Book Dash 2021 participant
+* GitHub id: [Megmugure](https://github.com/Megmugure)
+* ORCID: [0000-0003-2275-2134](https://orcid.org/0000-0003-2275-2134)
+
+* Short bio:
+> Margaret graduated with an MSc in bioinformatics in July 2021. She is a project lead at the Bioinformatics Hub of Kenya Initiative (BHKi), a training and networking platform for aspiring and established bioinformaticians. Its goal is to empower researchers with skills and tools in open science and bioinformatics. In addition to capacity development, she is also interested in genomics and big data analysis. Margaret dabbles in writing stories too!
+
+* Personal highlights:
+> This was my first time contributing to TTW! I enjoyed listening to and reading what fellow participants were working on as I made my contribution. I learnt more about GitHub and research data management as I conducted my research. 
+
+* More information:
+> I look forward to making more contributions to TTW soon, including but not limited to updating the documentation and metadata subsection.
+* Quotes:
+> Creativity is intelligence having fun!
+
 ### María Nanton
 
 * Role: Bookdash May 2021 Attendee.
@@ -504,12 +567,14 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * ORCID: [0000-0001-7995-3717](https://orcid.org/0000-0001-7995-3717)
 
 * Short bio:
-> I am a Research Assistant and Teaching Fellow in Psychology at the University of Leicester. My main research interests involve probabilistic inference, social hypothesis testing, and reasoning biases. I am also passionate about science communication and research dissemination and interested in replicability, open science issues, and the interface between cognitive and social aspects in social psychology.
+> I am a teaching fellow/Research Assistant in the School of Psychology at the University of Leicester. Before moving to the UK, I earned a MSc in Social Psychology and a PhD in Cognitive and Brain Sciences. I am interested in reasoning, judgment, and decision making topics and passionate about scientific communication and outreach.
 
 * Personal highlights:
 > In the **November 2020 book dash**, I used GitHub for the first time! I helped fix some small bugs (grammar and syntax, typos, formatting) and, I proposed two chapters on data visualisation and on study pre-registration.
 > I started familiarising myself with the GitHub environment and learned how to collaborate through it to provide valuable contributions to the project. My work during these 5 days has mostly been individual, but I would really love to collaborate with others to work on the two chapters I suggested!
 > In the **May 2021 book dash**, I was very happy to start where I had left off in the previous bookdash. I believe I made small but relevant contributions and I have a clear idea of where I would like to go next which is much more than what I was hoping for!
+> In the **November 2021 Book Dash** (my third one!), I was invited to lead a discussion on data visualisation, which sparked a very interesting conversation. I also started a dedicated section in the book and I am looking forward to developing it!
+> On November 25th, I will talk about my experience with The Turing way during one of the Leicester [ReproducibiliTEA](https://reproducibilitea.org/) meetings!
 
 * More information:
 > I am passionate about science communication and research dissemination and interested in replicability, open science issues, and the interface between cognitive and social aspects in social psychology topics like intergroup relations and impression formation. At the moment I am particularly fascinated by data visualisation and infographics.
@@ -740,9 +805,25 @@ I am an associate member of the Chartered Institute of Personnel and Development
 ## U--->
 
 
-<!---V
-## V--->
+## V
 
+### Vicky Hellon
+
+* Role: Book Dash 2021 participant
+* GitHub id: vhellon
+* Twitter: @ vickyhellon
+
+* Short bio:
+> Vicky Hellon is the Community Manager at the Alan Turing Institute for the Turing-Roche Partnership. She will be working closely with both organisations to build an engaged and sustainable community around the partnership, with a focus on supporting researchers to embrace and embed Open Science practices. She has a BSc in Biomedical Science from the University of Sheffield and previously had roles in Open Access publishing. She is passionate about supporting forward-thinking changes to the academic publishing system and engaging with researchers from a range of backgrounds.
+
+* Personal highlights:
+> This was a great introduction to the Turing Way and the community. I loved seeing how collaborative everyone was and also the scale of what everyone managed to produce during the dash! I feel proud that I managed to do my first proper pull request to make a tangible contribution and navigated myself round Github to review others work too.
+
+* More information:
+> I will be carrying on working on the Open Access chapter and hope to collaborate with others such as @EKaroune @Karvovskaya to potentially expand a 'publishing' chapter/section
+
+* Quotes:
+> If you want to do 'community' then you can't get a better example than the Turing Way
 
 <!---W
 ## W--->
