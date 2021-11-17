@@ -1,9 +1,6 @@
 ## Workflow for translation within TTW
 
-By translation workflow, we do not refer only to the phases that contributors should follow during the translation process.
-Instead, we refer to a set of key and optional aspects that can lead to a successful and sustainable translation project.
-The translation process can be grouped into four distinct stages.
-Let's jump in each of them!
+By translation workflow, we do not refer only to the phases that contributors should follow during the translation process. Instead, we refer to a set of key and optional aspects that can lead to a successful and sustainable translation project. The translation process can be grouped into four distinct stages. Let's jump in each of them!
 
 1. Before translation
 2. Starting a new language translation
@@ -12,8 +9,7 @@ Let's jump in each of them!
 
 ### Before translation
 
-Building a new translation project is an exciting way to contribute towards a global _The Turing Way_.
-Before starting a translation project, it remains relevant to reflect upon the following questions:
+Building a new translation project is an exciting way to contribute towards a global _The Turing Way_. Before starting a translation project, it remains relevant to reflect upon the following questions:
 - Which are your expectations with translated content?
 - What are the expectations of the target audience?
 - Do you see the target language in the localisation platform?
@@ -22,7 +18,7 @@ Before starting a translation project, it remains relevant to reflect upon the f
 
 ### Starting a new language translation
 
-When starting a new language translation, there are several aspects to consider.
+When starting a new language translation, there are several aspects to consider, apart from [setting up a project in the chosen localisator plaform]().
 
 #### Current workflow
 

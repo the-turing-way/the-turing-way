@@ -33,7 +33,7 @@ Machine Translation can speed up the translation process. It provides translatio
 Continuous integration is vital for automation in open sources projects. Many localisation platforms offer integration with GitHub, which synchronises source and translation files between your GitHub repository and translation project.
 - **Screenshots for the context**
 
-Screenshots provide context to the text for translation. TMS offer the opportunity of attaching screenshots to each of the phrases to provide a visual context to translators
+Screenshots provide context to the text for translation. TMS offers the opportunity of attaching screenshots to each of the phrases to provide a visual context to translators
 - **QA checks**
 
 Many TMS support QA checks. These can include spelling and/or grammatical errors, inconsistent placeholders, and unbalanced brackets. These QA checks make the translation process smoother for translators.
