@@ -61,7 +61,7 @@ Try reading the chapter on reproducible computational environments and then the 
 
 ## Materials used: glossary
 
-- [Netherlands eScience centre](https://guide.esciencecenter.nl/best_practices/testing.html) **Creative Commons Attribution 4.0 International License**
+- [Netherlands eScience centre](https://guide.esciencecenter.nl/#/best_practices/testing) **Creative Commons Attribution 4.0 International License**
 
 ### Definitions/glossary
 

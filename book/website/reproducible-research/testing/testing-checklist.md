@@ -1,6 +1,6 @@
 # Checklist for Code Testing
 
-This checklist contains a lot of items. As [mentioned](#Write_tests_any_tests) it is far better to do some of the items than none of them. Do not be discouraged if this list of tasks seems insurmountable.
+This checklist contains a lot of items. As [mentioned](#Write_tests_any_tests) before, it is far better to do some of the items than none of them. Do not be discouraged if this list of tasks seems insurmountable.
 
 <a name="Writing_tests"></a>
 ### Writing tests
