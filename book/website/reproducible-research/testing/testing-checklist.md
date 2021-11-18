@@ -1,9 +1,11 @@
 # Checklist for Code Testing
 
-This checklist contains a lot of items. As [mentioned](#Write_tests_any_tests) before, it is far better to do some of the items than none of them. Do not be discouraged if this list of tasks seems insurmountable.
+This checklist contains a lot of items.
+As {ref}`mentioned before<rr-testing-write-tests>`, it is far better to do some of the items than none of them.
+Do not be discouraged if this list of tasks seems insurmountable.
 
 <a name="Writing_tests"></a>
-### Writing tests
+## Writing tests
 
 - Write a few smoke tests.
 - Write unit tests for all your code units.
@@ -14,7 +16,7 @@ This checklist contains a lot of items. As [mentioned](#Write_tests_any_tests) b
 - Add runtime tests into your project.
 
 <a name="Good_practice_checks"></a>
-### Good practice checks
+## Good practice checks
 
 - [ ] Document the tests and how to run them.
   - [ ] Write scripts to set up and configure any resources that are needed to run the tests.

@@ -12,7 +12,7 @@ Testing this kind of code can be very difficult because if it is run multiple ti
 Random number seeds are a little difficult to explain so here's an example.
 Here's a little Python script that prints three random numbers.
 
-    ```Python
+    ```python
     import random
 
     # Print three random numbers
@@ -24,7 +24,7 @@ Here's a little Python script that prints three random numbers.
 This script has no bugs but if you run it repeatedly you will get different answers each time.
 Now let's set a random number seed.
 
-    ```Python
+    ```python
     import random
 
     # Set a random number seed
@@ -38,7 +38,7 @@ Now let's set a random number seed.
 
 Now if you run this script it outputs
 
-    ```Python
+    ```python
     0.134364244112
     0.847433736937
     0.763774618977
@@ -47,7 +47,7 @@ Now if you run this script it outputs
 and every time you run this script you will get the *same* output, it will print the *same* three random numbers.
 If the random number seed is changed you will get a different three random numbers:
 
-    ```Python
+    ```python
     0.956034271889
     0.947827487059
     0.0565513677268
@@ -57,7 +57,7 @@ but again you will get those same numbers every time the script is run in the fu
 Random number seeds are a way of making things reliably random. However a risk with tests that depend on random number seeds is they can be brittle.
 Say you have a function structured something like this:
 
-    ```Python
+    ```python
     def my_function()
 
       a = calculation_that_uses_two_random_numbers()
@@ -136,7 +136,7 @@ There is a complication with testing if the answer a piece of code outputs is eq
 
 If we assign 0.1 to `a` and 0.2 to `b` and print their sum, we get 0.3, as expected.
 
-    ```Python
+    ```python
     >>> a = 0.1
     >>> b = 0.2
     >>> print(a + b)
@@ -145,14 +145,14 @@ If we assign 0.1 to `a` and 0.2 to `b` and print their sum, we get 0.3, as expec
 
 If, however, we compare the result of `a` plus `b` to 0.3 we get False.
 
-    ```Python
+    ```python
     >>> print(a + b == 0.3)
     False
     ```
 
 If we show the value of `a` plus `b` directly, we can see there is a subtle margin of error.
 
-    ```Python
+    ```python
     >>> a + b
     0.30000000000000004
     ```
@@ -165,7 +165,7 @@ When comparing floating-point numbers for equality, we have to compare to within
 
 Many testing frameworks provide functions for comparing equality of floating-point numbers to within a given tolerance. For example for the framework pytest:
 
-    ```Python
+    ```python
     import pytest
 
     a = 0.1
