@@ -2,6 +2,15 @@
 # Software Citation with CITATION.cff
 
 The [Citation File Format](https://citation-file-format.github.io) lets you provide citation metadata, for software or datasets, in plaintext files that are easy to read by both humans and machines.
+
+```{figure} ../../figures/recognition.jpg
+---
+name: recognition
+alt: Research software developers get recognition by making software citable.
+---
+Research software developers get recognition by making software citable. _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+```
+
 To provide this metadata, start by writing a `CITATION.cff` file and include it with your software or dataset.
 A `CITATION.cff` file aggregates the information in a key-value format that can be easily interpreted and updated by humans, and easily parsed and converted with existing tools.
 
@@ -14,6 +23,14 @@ It's easier for you:
 When you host your software source code on GitHub and have a `CITATION.cff` in your repository, you can use the Zenodo-GitHub integration to automatically publish new releases of the software.
 Zenodo will use the information from `CITATION.cff` and show it together with the publication.
 You don't have to edit this information manually on Zenodo anymore.
+
+```{figure} ../../figures/software-credit.jpg
+---
+name: software-credit
+alt: More credits for the software creators.
+---
+More credits for the software creators. _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+```
 
 It's easier for the users of your software:
 1. They can directly use the citation information from `CITATION.cff` to cite your software.
