@@ -6,6 +6,7 @@ The [Citation File Format](https://citation-file-format.github.io) lets you prov
 ```{figure} ../../figures/recognition.jpg
 ---
 name: recognition
+width: 500px
 alt: Research software developers get recognition by making software citable.
 ---
 Research software developers get recognition by making software citable. _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
@@ -27,6 +28,7 @@ You don't have to edit this information manually on Zenodo anymore.
 ```{figure} ../../figures/software-credit.jpg
 ---
 name: software-credit
+width: 500px
 alt: More credits for the software creators.
 ---
 More credits for the software creators. _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
