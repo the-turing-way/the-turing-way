@@ -22,6 +22,7 @@ When starting a new language translation, there are several aspects to consider,
 
 #### Current workflow
 
+<<<<<<< HEAD
 The current workflow for all languages is using Crowdin from a fork that is temporarily located under a GitHub organization specifically created to host translated versions of _The Turing Way_.
 This fork is kept updated with the original repository and Crowdin performs automatic machine translations that need review and approval before being accepted as definitive versions.
 The deployment of these translated versions is work in progress and some parts of this workflow may change in the future, but for now, feel free to contact anyone on the `#translation` channel of the _The Turing Way_ Slack.
@@ -45,6 +46,13 @@ Document the translation guidelines for your selected language to be discussed a
 
 We recommend you create a dedicated Slack channel for the language you are translating within the [_The Turing Way_ slack](theturingway.slack.com).
 This space will allow you to bring chat with interested parties in your own language.
+=======
+It is key to set translation norms. These norms will guide newcomers on how to translate and review in the translation platform. For instance, we strongly suggest setting a [glossary] through the localisation platform.
+
+#### Create a dedicated Slack channel
+
+We recommend you create a dedicated Slack channel for the language you are translating within the [_The Turing Way_ slack](theturingway.slack.com). This space will allow you to bring chat with interested parties in your own language.
+>>>>>>> 249631f0 (fix minor typos)
 
 #### Organise co-working calls
 
@@ -71,12 +79,7 @@ We recommend that you look at a translated chapter or section before you start t
 
 #### Machine translation / Translation tools
 
-The translation process can be assisted by machine translation.
-Localisation platforms such as [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE) are integrated with well-known machine translation providers, including Google and Microsoft.
-In contrast, for [Transifex](https://www.transifex.com/), this process is performed outside the platform.
-In this particular case, we recommend using [DeepL](https://www.deepl.com/) as a translation tool.
-DeepL tool recommends a series of synonyms when you click on the translated text.
-This can be useful, especially with long texts.
+The translation process can be assisted by machine translation. Localisation platforms such as [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE) are integrated with well-known machine translation providers, including Google and Microsoft. In contrast, for [Transifex](https://www.transifex.com/), this process is performed outside the platform. In this particular case, we recommend using [DeepL](https://www.deepl.com/) as a translation tool. DeepL tool recommends a series of synonyms when you click on the translated text. These can be useful, especially with long texts.
 
 #### Read the translation guidelines
 
@@ -85,13 +88,9 @@ Make sure you read them before you start translating for the first time.
 
 #### Priority list of chapters to translate
 
-In each co-working or external session, prioritise those chapters that are outdated or close to completion.
-
 ### After translation
 
-As the Turing Way content grows, the translated content does too.
-We strongly encourage monitoring the new content.
-While updates of the translated content might change according to the availability of resources, it is a good practice to:
+As the Turing Way content grows, the translated content does too. We strongly encourage monitoring the new content. While updates of the translated content might change according to the availability of resources, it is a good practice to:
 
 * Set periodical reviews
 * Improve the translation
