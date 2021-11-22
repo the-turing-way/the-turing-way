@@ -22,11 +22,11 @@ When starting a new language translation, there are several aspects to consider,
 
 #### Define norms of translation
 
-It is key to set translation norms. These norms will guide newcomers on how to translate and review in the translation platform. For instance,  we strongly suggest setting a [glossary] through the localisator platform. 
+It is key to set translation norms. These norms will guide newcomers on how to translate and review in the translation platform. For instance, we strongly suggest setting a [glossary] through the localisation platform. 
 
-#### Create a dedicated slack channel
+#### Create a dedicated Slack channel
 
-We recommend you create a dedicated slack channel for the language you are translating within the [_The Turing Way_ slack](theturingway.slack.com). This space will allow you to bring chat with interested parties in your own language. 
+We recommend you create a dedicated Slack channel for the language you are translating within the [_The Turing Way_ slack](theturingway.slack.com). This space will allow you to bring chat with interested parties in your own language. 
 
 #### Organise co-working calls
 
@@ -41,13 +41,13 @@ Everyone interested in participating in a translation effort should be able to w
 ### During translation
 
 #### Before you start translating: 
-Localisator platforms integrate different tools and formats for assisting the translation process. For instance, [Transifex](https://www.transifex.com/) includes the target text blocks to be translated on the left and a translation box on the right. You can select with the cursor which block to translate. 
+Localisation platforms integrate different tools and formats for assisting the translation process. For instance, [Transifex](https://www.transifex.com/) includes the target text blocks to be translated on the left and a translation box on the right. You can select with the cursor which block to translate. 
 
 We recommend that you look at a translated chapter or section before you start translating to familiarise yourself with the process and the translation style.
 
 #### Machine translation / Translation tools
 
-The translation process can be assisted by machine translation. Localisator platforms such as Crowdin are  integrated with well-known machine translation providers, including Google and Microsoft. In contrast, for Transifex, this process is performed outside the platform. In this particular case, we recommend using [DeepL](https://www.deepl.com/) as a translation tool. DeepL tool recommends a series of synonyms when you click on the translated text. These can be useful, especially with long texts. 
+The translation process can be assisted by machine translation. Localisation platforms such as [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE) are integrated with well-known machine translation providers, including Google and Microsoft. In contrast, for [Transifex](https://www.transifex.com/), this process is performed outside the platform. In this particular case, we recommend using [DeepL](https://www.deepl.com/) as a translation tool. DeepL tool recommends a series of synonyms when you click on the translated text. These can be useful, especially with long texts. 
 
 #### Read the translation rules
 
@@ -56,11 +56,10 @@ These rules are essential to harmonise and standardise translations. Make sure y
 #### Priority list of chapters to translate
 In each co-working or external session, prioritise those chapters that are outdated or close to completion.
 
-
 ### After translation
 
-As the Turing Way content grows, the translated content does too. In this regard, we strongly encourage monitoring the TTW content. While updates of the translated content might change according to the availability of resources, it is a good practice to:
-* Have periodical reviewings. 
+As the Turing Way content grows, the translated content does too. We strongly encourage monitoring the new content. While updates of the translated content might change according to the availability of resources, it is a good practice to:
+
+* Set periodical reviews
 * Improve the translation
 * Update glossaries
-

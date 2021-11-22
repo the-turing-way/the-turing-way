@@ -32,6 +32,5 @@ Potential translators are members of _The Turing Way_ community who would like t
 
 The workflows for translation can become confusing at some times and many translation efforts go unfinished for many reasons.
 Our aim is to provide clear documentation so any potential contributor is able to participate. 
-Any new member of the community should be able to step in, enter in touch with other members of the translation teams for their languages,  and start helping using the documentation.
-Bear in mind you do not need to be fluent in English to contribute to the translations, you only need to speak your own language. 
-
+Any new member of the community should be able to step in, enter in touch with other members of the translation teams for their languages, and start helping to use the documentation.
+Bear in mind you do not need to be fluent in English to contribute to the translations, you only need to speak your own language.
