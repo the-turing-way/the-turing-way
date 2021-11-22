@@ -2,13 +2,13 @@
 
 ## Localisation Platforms and Translation
 
-Localisation involves more than just translation, which only transforms text. Localisation addresses other factors such as text length and cultural references.  **A Translation Management System (TMS)** manages the localisation process from the beginning of a translation process until the finished product. They are widely used in Open source projects because they offer many advantages such as workflow,  automation, transparency, and fast project delivery.
+Localisation involves more than just translation, which only transforms text. Localisation addresses other factors such as text length and cultural references.  **A Translation Management System (TMS)** manages the localisation process from the beginning of a translation process until the finished product. They are widely used in Open source projects because they offer many advantages such as workflow, automation, transparency, and fast project delivery.
 
 ```{figure} ../../figures/Translation_management_systems.jpg
 ---
 height: 500px
 name: Translation
-alt: This illustration shows the features of Translation Management System. It contains Translation Memory, Machine Translation, glossary, QA checks and easily integrated with GitHub.
+alt: This illustration shows the features of Translation Management System. It contains Translation Memory, Machine Translation, glossary, QA checks which are easily integrated with GitHub.
 ---
 _The Turing Way_ project illustration by Scriberia.
 Used under a CC-BY 4.0 licence.
@@ -34,7 +34,7 @@ Continuous integration is vital for automation in open sources projects. Many lo
 Screenshots provide context to the text for translation. TMS offers the opportunity of attaching screenshots to each of the phrases to provide a visual context to translators
 - **QA checks**
 
-Many TMS support QA checks. These can include Spelling and/or grammatical errors, inconsistent placeholders and unbalanced brackets. These QA checks make the translation process smoother for translators.
+Many TMS support QA checks. These can include spelling and/or grammatical errors, inconsistent placeholders and unbalanced brackets. These QA checks make the translation process smoother for translators.
 
 
 ### Examples for Localisation Platforms:
