@@ -7,7 +7,7 @@ In this chapter, we will discuss Project Binder as a means to transparently and 
 ## Why should you share your work?
 
 (binder-what)=
-## What is Binder?
+## What is Project Binder?
 
 We've discussed why it's important to share your work and we've reached a point where we've decided to publish some Jupyter Notebooks with analysis code on a collaboration platform, such as GitHub.
 
@@ -38,7 +38,7 @@ Project Binder provides a user with the following infrastructure:
   - and a copy of the code itself (Notebooks or scripts);
 - a URL to where the environment is running so the code can be interacted with by you or your collaborators.
 
-Binder has packaged together all of the moving parts that make sharing computational work challenging into a simple to use interface.
+Project Binder has packaged together all of the moving parts that make sharing computational work challenging into a simple to use interface.
 There is a **free and public** version of this interface running at [**mybinder.org**](https://mybinder.org).
 
 The cartoon below, by Juliette Taka, demonstrates one workflow a scientist using Binder might adopt.
@@ -65,14 +65,14 @@ In this section, there are some related terms, which will be outlined here for c
   It is built upon a range of open source tools, including [JupyterHub](https://z2jh.jupyter.org), for providing cloud compute resources to users via a browser; and [`repo2docker`](https://repo2docker.readthedocs.io/), for building docker images from projects.
   Since it is an open project, it is possible to create other BinderHubs which can support more specialised configurations.
   One such configuration could include authentication to enable private repositories to be shared amongst close collaborators.
-- **Binder**: A sharable version of a project that can be viewed and interacted within a reproducible computational environment running in the cloud via a web browser.
-  By automating the installation of the computing environment (as discussed in the {ref}`rr-renv` chapter), Binder transforms the overhead of sharing such an environment into the act of sharing a URL.
+- **A Binder**: A sharable version of a project that can be viewed and interacted within a reproducible computational environment running in the cloud via a web browser.
+  By automating the installation of the computing environment (as discussed in the {ref}`rr-renv` chapter), Project Binder transforms the overhead of sharing such an environment into the act of sharing a URL.
 - **[mybinder.org](https://mybinder.org)**: A public and free BinderHub.
   Because it is public, you should not use it if your project requires any personal or sensitive information (such as passwords).
 - **Binderize**: The process of making a Binder from a project.
 
 (binder-appropriate)=
-## When is it appropriate to use Binder?
+## When is it appropriate to use mybinder.org?
 
 (binder-faqs)=
 ## FAQs
