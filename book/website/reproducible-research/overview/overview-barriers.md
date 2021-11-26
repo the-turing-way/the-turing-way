@@ -5,7 +5,7 @@ So far we have explained {ref}`what we mean<rr-overview-definitions>` by reprodu
 
 In this section we cover some of the (real and perceived) barriers you may face in making your work reproducible.
 
-```{figure} ../../figures/barriers_reproducibility.png
+```{figure} ../../figures/barriers-reproducibility.png
 ---
 width: 500px
 name: reproducibility-barriers
@@ -35,7 +35,7 @@ We know that no one wants to incriminate themselves, and also that no one is inf
 Putting your code and data online can be very revealing and intimidating, and it is part of the human condition to be nervous of being judged by others.
 Although there is no _law_ governing the communication of reproducible research - unless you commit explicit fraud in your work - sharing errors that you find in your work is heavily disincentivised.
 
-```{figure} ../../figures/make_ok_to_be_human.jpg
+```{figure} ../../figures/make-ok-to-be-human.jpg
 ---
 height: 500px
 name: make-ok-to-be-human
@@ -66,7 +66,7 @@ Similarly, an article might be less likely to be accepted to a journal or a conf
 There's a good chance that reviewers will say "we already know this" and reject the submission.
 
 The bias towards novelty in data science means many researchers are disincentivised from doing the work to document, test and share their code and data.
-John Ioannidis published an influential paper in 2005 titled "Why Most Published Research Findings Are False" {cite}`Ioannidis2005False` which discusses the many factors that contribute to publication bias.
+John Ioannidis published an influential paper in 2005 titled "Why Most Published Research Findings Are False" {cite:ps}`Ioannidis2005False` which discusses the many factors that contribute to publication bias.
 Given these biases, it is very likely that there is a lot of duplicated work in data science.
 Too many different researchers are asking the same question, not getting the answer they expect or want, and then not telling anyone what they have found.
 
@@ -91,7 +91,7 @@ As we described in the {ref}`"Plead the Fifth"<rr-overview-barriers-incentives>`
 
 In the current academic system, a primary consideration for promotion is the proven ability to be awarded grants and recruit students.
 Both funding bodies and prospective students value novelty and this behaviour is reflected in preferentially rewarding papers with a high [journal impact factor](https://en.wikipedia.org/wiki/Impact_factor).
-It is likely part of the human condition to be motivated by things that are new or surprising, but as {ref}`discussed above<rr-overview-publication>`, this bias towards novelty causes a systematic publication bias.
+It is likely part of the human condition to be motivated by things that are new or surprising, but as {ref}`discussed above<rr-overview-barriers-publication>`, this bias towards novelty causes a systematic publication bias.
 
 More broadly, the promotion system in academia tends to reward individuals who have shown themselves to be different from others in their field.
 That means sharing code and data to make it easy for "competitors" to do the same work ends up being discouraged by promotion and funding selection panels.
@@ -116,7 +116,7 @@ The [Apache Hadoop](https://hadoop.apache.org/) framework, for instance, is extr
 
 Even "standard" high performance computing, can be difficult to set up to be perfectly reproducible, particularly across different cloud computing providers or institutional configurations.
 _The Turing Way_ contains chapters to help data scientists learn skills in {ref}`reproducible computational environments<rr-renv>` including {ref}`containers<rr-renv-containers>` such as docker and ways to {ref}`version control your software libraries<rr-renv-package>`.
-We are always [open to more contributions](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) as the technology to support reproducible research in very large datasets or for complex modelling evolves.
+We are always [open to more contributions](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) as the technology to support reproducible research in very large datasets or for complex modelling evolves.
 
 (rr-overview-barriers-notright)=
 ## Being reproducible does not mean the answer is right
@@ -140,7 +140,7 @@ Throughout the project, time may be required to maintain the reproducible pipeli
 Time may also be spent communicating with collaborators to agree on which parts of the project may be open source and when and how these outputs are shared.
 Researchers may find that they need to "upskill" their colleagues to allow the team to benefit from reproducibility tools such as git and GitHub, containers, Jupyter notebooks, or databases.
 
-```{figure} ../../figures/help_you_of_the_future.jpg
+```{figure} ../../figures/help-you-of-the-future.jpg
 ---
 width: 500px
 name: help-you-of-the-future

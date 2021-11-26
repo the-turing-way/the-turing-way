@@ -1,3 +1,4 @@
+(rr-code-style-and-formatting)=
 # Code Style and Formatting
 
 A coding style is a set of conventions on how to format code.
@@ -38,7 +39,7 @@ Note that editors often support using these tools directly from the editing envi
 
 **Quick Tip**: If you use VS Code as your primary text editor, you can enable automatic code formatting right into your browser. Open your preferences page in JSON mode and add the following line:
 
-```json
+```
 "editor.formatOnSave": true,
 ```
 

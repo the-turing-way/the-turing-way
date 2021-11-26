@@ -1,4 +1,4 @@
-(rr-vcs-interactive)=
+(rr-vcs-git-interactive)=
 # Interactive, Visual Git
 
 One of the biggest challenges to getting started with Git can be understanding the file and directory structure and complexity of branches, commits, and remotes and how they interact, particularly on the command line with limited visual representations.
@@ -8,9 +8,9 @@ The [LearnGitBranching](https://learngitbranching.js.org/) tool created by [pcot
 This browser-based, interactive tool includes tutorials and allows you to practice using Git through a virtual "repository" and sandbox.
 Through completion of built-in challenges, becoming comfortable with Git commands is more like a game than a chore.
 
-```{figure} ../../figures/interactive_learn_git.png
+```{figure} ../../figures/interactive-learn-git.png
 ---
-name: interactive_learn_git
+name: interactive-learn-git
 alt: An illustration of the interactive, visual Learn Git Brnaching tool interface
 ---
 A challenge in the LearnGitBranching tool.

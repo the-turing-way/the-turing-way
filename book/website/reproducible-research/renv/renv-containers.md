@@ -70,11 +70,9 @@ However, this leaves a user vulnerable to similar security issues as described i
 The best advice for using images built by others is, as usual, only download and run something on your machine if it comes from a trusted source.
 Docker Hub has "official image" badges for commonly used, verified images as shown here:
 
-![]()
-
-```{figure} ../../figures/docker_official_image.png
+```{figure} ../../figures/docker-official-image.png
 ---
-name: Docker_official_image
+name: docker-official-image
 alt: A screenshot of official image badges
 ---
 ```
@@ -204,9 +202,9 @@ It is good practice to use `COPY`, except where `ADD` is specifically required, 
 
 Here is what happens if a container is opened from an image called `book_example`, built from the example above:
 
-```{figure} ../../figures/container_example.png
+```{figure} ../../figures/container-example.png
 ---
-name: container_example
+name: container-example
 alt: A screenshot of what happens when a container is opened from an image
 ---
 ```
@@ -238,9 +236,9 @@ RUN mkdir B_1
 RUN mkdir B_2
 ```
 
-```{figure} ../../figures/workdir_example.png
+```{figure} ../../figures/workdir-example.png
 ---
-name: workdir_example
+name: workdir-example
 alt: Screenshot of container generated using WORKDIR command
 ---
 ```
@@ -254,9 +252,9 @@ After each `RUN` statement in a Dockerfile, the image is saved, and any followin
 As an example, here is what happens in the above example if the `WORKDIR A` line is swapped
 for `RUN cd A`.
 
-```{figure} ../../figures/cd_example.png
+```{figure} ../../figures/cd-example.png
 ---
-name: cd_example
+name: cd-example
 alt: A screenshot of what happens when the WORKDIR command is swapped with RUN cd
 ---
 ```
@@ -378,8 +376,8 @@ If the second part (the `path_to_where_to_put_file/file_name`) is substituted fo
 ## Volumes
 
 Every time a container is opened from an image, that container is completely new.
-Say a container is opened, and work is done within it.
-Say a container is opened, and work is done within it. If that container is closed, and the image it came from is again used to start another container, none of that work will be in the new one.
+Say a container is opened, and work is done within it. 
+If that container is closed, and the image it came from is again used to start another container, none of that work will be in the new one.
 It will simply have the starting state described in the image.
 
 This can be a problem if a researcher wants to work in a container over time. Fortunately, there is a way around this using volumes.
@@ -421,7 +419,7 @@ Singularity was created with HPC systems and reproducible research in mind (see 
 It does not require root access to run (only to build container _images_!), and thus enables HPC users to locally build container images before running analyses on a high-performance cluster, for example.
 As an added benefit, this makes it possible to use almost any software on an HPC system without having to bother admin staff with installing it.
 
-Furthermore, since Docker is _the_ most well-known containerization approach, singularity aims at maintaining compatibility with docker containers. 
+Furthermore, since Docker is _the_ most well-known containerization approach, singularity aims at maintaining compatibility with docker containers.
 This means that singularity can be used to run normal docker containers (without requiring root access!).
 
 Singularity can be used to run Docker images or extend them by building new images based on docker containers as a base layer.

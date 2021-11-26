@@ -8,7 +8,13 @@ Is there a bus coming? Software is no different, and using a risk assessment app
 A risk matrix is a very popular way of quantifying what’s going on with the thing you’re interested in. One axis measures exposure in some way, and the other the impact of a mishap.
 The further from the origin, the more safeguards are needed to make the risk acceptable.
 
-![Impact vs complexity risk matrix](../../figures/risk_matrix.png)
+```{figure} ../../figures/risk-matrix.png
+---
+name: risk-matrix
+alt: Impact vs complexity risk matrix
+---
+Impact vs complexity risk matrix
+```
 
 In our case, we will use ‘complexity’ and ‘impact’ as the two axes. Some case studies illustrate how it works…
 
@@ -36,6 +42,7 @@ The key point of these case studies is that every piece of software has differen
 The risk assessment approach helps you find the right balance for now. Revisit the topic once in a while, or when something circumstances change.
 
 ## More about measuring complexity
+
 One measure of complexity is line count.
 The more lines you have the more places there are to make a mistake. However, there are other things one might care about.
 How many libraries do you depend on? How many functions are there? All of these measure the complexity of the codebase.
@@ -48,6 +55,7 @@ CPU? GPU? Raspberry Pi?
 Take a broad view of your software.
 
 ## More about measuring impact
+
 What happens when (not if) your software doesn’t work?
 Sometimes, it just annoys you for a few minutes.
 However, other software going wrong can have huge consequences- the retraction of your seminal paper or even lives being lost.

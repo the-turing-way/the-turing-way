@@ -3,15 +3,15 @@ name: TestFileSizes
 
 # Decide when to run the tests
 #
-# This configuration sets the test to run on pushes to master
-# and on pull requests that are opened to master
+# This configuration sets the test to run on pushes to main
+# and on pull requests that are opened to main
 on:
   push:
     branches:
-      - master
+      - main
   pull_request:
     branches:
-      - master
+      - main
 
 # Set up the Continuous Integration job
 jobs:
