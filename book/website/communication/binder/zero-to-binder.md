@@ -4,7 +4,6 @@
 In this chapter, we will create a Binder project from a repository we create on GitHub and launch in on mybinder.org.
 Sections where you are expected to complete a task are denoted by three traffic light 🚦 emojis.
 Some steps have the option of Python, Julia or R languages - click on the tab of the language you would like to use.
-**If you are following R, we have included some alternative steps using the [`holepunch` package](https://github.com/karthik/holepunch) which will build your environment using a [rocker base image](https://github.com/rocker-org/rocker) and should, ultimately, be faster to build and launch.**
 
 ```{admonition} Attributions
 This tutorial is based on Tim Head's _Zero-to-Binder_ workshops which can be found here: <http://bit.ly/zero-to-binder> and <http://bit.ly/zero-to-binder-rise>
@@ -15,6 +14,10 @@ Thank you to Anna Krystalli and Oliver Strickson for their help developing the R
 ```{attention}
 Binder can take a long time to load, but this doesn't necessarily mean that your Binder will fail to launch.
 You can always refresh the window if you see the "... is taking longer to load, hang tight!" message.
+```
+
+```{admonition} If you are using R...
+If you are following the R path, we have included some alternative steps using the [`holepunch` package](https://github.com/karthik/holepunch) which will build your environment using a [rocker base image](https://github.com/rocker-org/rocker) and should, ultimately, be faster to build and launch.
 ```
 
 (z2b-reqs)=
