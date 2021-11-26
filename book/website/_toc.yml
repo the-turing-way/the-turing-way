@@ -367,8 +367,8 @@ parts:
     - title: Binder
       file: communication/binder
       sections:
-        - title: Zero-to-Binder
-          file: communication/binder/zero-to-binder
+      - title: Zero-to-Binder
+        file: communication/binder/zero-to-binder
 
   # ===== Guide for Collaboration ========================================
 
