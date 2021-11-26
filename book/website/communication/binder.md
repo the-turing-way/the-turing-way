@@ -79,11 +79,39 @@ In this section, there are some related terms, which will be outlined here for c
 
 ### How do I save my changes back to my repository?
 
+Unfortunately, you can't.
+At least, not from the command line.
+
+Writing back to a hosted repository, whether it be on GitHub or some other platform, will require a credential of some kind to authorise you to write to that repository.
+And as has been mentioned, mybinder.org is a completely public service and you should not provide any sensitive information to a running Binder instance under any circumstances.
+
+However, mybinder.org does run an add-on called [`jupyter-offlinenotebook`](https://github.com/manics/jupyter-offlinenotebook) which provides a download button to save your notebooks locally, _even if your browser has lost its connection with the cloud infrastructure that is providing the compute!_
+This means you can save your progress locally, update your repository with your saved notebooks, and relaunch your Binder with the updated notebooks.
+
+```{figure} ../figures/binder_notebook_banner.jpg
+---
+name: binder_notebook_banner
+alt: A screenshot of the control panel of a Jupyter Notebook with a download button highlighted by a purple rectangle.
+---
+Using this "Download" button in a Jupyter Notebook running on mybinder.org will allow you to save your notebooks locally, even after the Binder instance has been disconnected from computational resources.
+```
+
 ### How can I collaborate with my peers on mybinder.org?
 
 ### How is mybinder.org different to Google Colab?
 
+Google Colab provides a "kitchen sink" computational environment with many of the most popular data science software packages pre-installed.
+In contrast, mybinder.org builds bespoke images for each repository launched, specifically installing the packages listed in your configuration files.
+
 ### Can I connect to `INSERT DATA PROVIDER HERE`?
+
+Network connections on mybinder.org are quite limited for security and abuse-prevention purposes.
+That being said you should be able to connect to an external data provider so long as it satisfies the following two criteria:
+
+- It can be accessed over an HTTP/HTTPS connection
+- You do not need credentials to access the data
+
+Remember, mybinder.org is an entirely public service and under no circumstances should you provide confidential information, such as credentials, to a Binder instance.
 
 (binder-segue)=
 ## How to create a Binder-ready project
