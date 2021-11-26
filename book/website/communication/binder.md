@@ -74,6 +74,27 @@ In this section, there are some related terms, which will be outlined here for c
 (binder-appropriate)=
 ## When is it appropriate to use mybinder.org?
 
+Maintaining a free, anonymous, cloud compute service is a lot of voluntary work and costs a lot of money.
+In order to reduce the running costs somewhat, mybinder.org places computational restrictions on each running Binder instance.
+These restrictions are:
+
+- 1 CPU, and
+- 1 GB of RAM.
+
+Hence, mybinder.org is **not** an appropriate place to perform end-to-end replications of Machine Learning workflows, for example!
+
+And this is the primary reason why this chapter on Binder has been placed in the "Guide for Communication".
+With these computational restrictions, mybinder.org lends itself very well to hosting interactive demonstrations and learning resources for software packages or research analyses.
+In this scenario, the people clicking the Binder link probably want to learn something, and sitting through a time-consuming model-training process likely won't help them achieve that.
+Instead, you could provide pre-trained models or instructions on how to train the models on their own hardware and _come back_ to the Binder for the remainder of the interactive tutorial.
+
+So, when is it appropriate to use mybinder.org?
+
+- When you want to _communicate_ something in an interactive manner, such as short analyses, tutorials, or even blogs!
+  Check out [Achintya Rao's blog powered by mybinder.org](https://blog.achintyarao.in/about/)!
+- When the code and assoiacted data (if relevant) are publicly available
+- When the code you want to run interactively does not require a lot of resource or specialist resources (for example, GPUs)
+
 (binder-faqs)=
 ## FAQs
 
