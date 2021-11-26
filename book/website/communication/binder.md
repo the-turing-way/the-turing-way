@@ -98,6 +98,10 @@ Using this "Download" button in a Jupyter Notebook running on mybinder.org will 
 
 ### How can I collaborate with my peers on mybinder.org?
 
+It's not impossible, but there's definitely room to develop this feature in comparison to other "free cloud compute" services available.
+
+For those interested in this, I would recommend reading [this Discourse post](https://discourse.jupyter.org/t/collaborating-on-one-binder-instance/407) and checking out the [`jupyterlab-link-share` repository](https://github.com/jtpio/jupyterlab-link-share).
+
 ### How is mybinder.org different to Google Colab?
 
 Google Colab provides a "kitchen sink" computational environment with many of the most popular data science software packages pre-installed.
