@@ -17,6 +17,7 @@ Static code analysis is a method that examines code and detects software vulnera
 This analysis is capable of identifying quality issues, including security weaknesses and errors.
 In addition to finding bugs, many of these tools can also help maintain a consistent coding style.
 
+(rr-code-quality-advantages)=
 ### Advantages of Static code analysis
 
 - Write high-quality code: Early detection of possible programming errors help developers to know where they went wrong.

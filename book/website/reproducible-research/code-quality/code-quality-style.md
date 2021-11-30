@@ -1,3 +1,4 @@
+(rr-code-style-and-formatting)=
 # Code Style and Formatting
 
 A coding style is a set of conventions on how to format code.

@@ -2928,6 +2928,16 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "AndreaSanchezTapia",
+      "name": "Andrea Sánchez-Tapia (she/her)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4183062?v=4",
+      "profile": "https://andreasancheztapia.netlify.app/",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
     }
   ],
   "projectName": "the-turing-way",
