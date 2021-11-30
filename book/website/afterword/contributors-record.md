@@ -1,5 +1,4 @@
 (contributors-record-highlights)=
-(contributors-record-highlights)=
 # Record of Contributions
 
 *The `contributors.md` file and the contributors table in the `README file` together form the record of contributions in _The Turing Way_.*
@@ -68,26 +67,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 * Personal Quote:
 > _The Turing Way_ is an ideal place to gather collective knowledge from diverse experiences in data science and open research, and to learn by doing.
 
-### Alexander Morley
-
-* Role: Infrastructure Maintainer (2018 - 2019)
-* GitHub id: [alexmorley](http://github.com/alexmorley)
-* ORCID: [TBA](https://orcid.org/TBA)
-
-* Short bio:
-> I am a Mozilla Fellow (2018-) and a PhD Candidate at the MRC Brain Network Dynamics Unit at the University of Oxford (2015-).
-> I also receive support from the Software Sustainability Institute Fellowship programme (2018) and Microsoft/Research Software England Cloud Computing Fellowship programme (2018).
-> My undergraduate degree was in Medicine at the University of Oxford (2012-2015).
-
-* Personal Highlight:
-> As a core contributros I want to share "Why I care about the Turing Way?: When people don't use best practices in data science its almost always because they either don't know about them, or feel they don't have time. Advocates will tell people that the time is saved in the long-term, but it's a hard sell.
-> By providing concrete, incremental, but authoritative, guidance I believe the Turing Way could provide the nudge that allows people to realise the benefits for themselves, and lowers the barrier for more researchers to acquire these highly valued skills.
-
-* More information:
-> I really want research to be accessible, but in a much broader sense than the word is often used. I would love to see a world where re-mixing research is a common thing, whether that be re-mixing figures to make them easier to understand, re-using data to generate new insights, or testing new methods to see how our theories might need to change.
-> Slightly less on topic, but just as important, I am also passionate about the development and adoption of best-practices in governance. Safe and inclusive spaces are all too rare in academia, and I think some part of that can be solved by doing away with our laissez-faire attitude towards governance and management.
-
-## Alejandro Coca
+### Alejandro Coca
 
 * Role: 
     * The Turing Way Translation Contributor
@@ -106,6 +86,33 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 * Quotes:
 > There's always hope!
 
+### Alexander Morley
+
+* Role: Infrastructure Maintainer (2018 - 2019)
+* GitHub id: [alexmorley](http://github.com/alexmorley)
+
+* Short bio:
+> I am a Mozilla Fellow (2018-) and a PhD Candidate at the MRC Brain Network Dynamics Unit at the University of Oxford (2015-).
+> I also receive support from the Software Sustainability Institute Fellowship programme (2018) and Microsoft/Research Software England Cloud Computing Fellowship programme (2018).
+> My undergraduate degree was in Medicine at the University of Oxford (2012-2015).
+
+* Personal Highlight:
+> As a core contributros I want to share "Why I care about the Turing Way?: When people don't use best practices in data science its almost always because they either don't know about them, or feel they don't have time. Advocates will tell people that the time is saved in the long-term, but it's a hard sell.
+> By providing concrete, incremental, but authoritative, guidance I believe the Turing Way could provide the nudge that allows people to realise the benefits for themselves, and lowers the barrier for more researchers to acquire these highly valued skills.
+
+* More information:
+> I really want research to be accessible, but in a much broader sense than the word is often used. I would love to see a world where re-mixing research is a common thing, whether that be re-mixing figures to make them easier to understand, re-using data to generate new insights, or testing new methods to see how our theories might need to change.
+> Slightly less on topic, but just as important, I am also passionate about the development and adoption of best-practices in governance. Safe and inclusive spaces are all too rare in academia, and I think some part of that can be solved by doing away with our laissez-faire attitude towards governance and management.
+
+### Andrea Sanchez Tapia
+
+* Role: Book Dash 2021 participant
+* GitHub id: [AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)
+* ORCID: [0000-0002-3521-4338](https://orcid.org/0000-0002-3521-4338)
+* Short bio: Andrea (she/her) is a Colombian ecologist with a a background in Biodiversity Informatics and Plant Ecology. She was based for more than a decade in Rio de Janeiro, where she earned a MSc in Ecology and a PhD in Botany, working in vegetation ecology and nurturing a growing interest in learning and teaching about Open Science, Reproducibility in academic and non-academic communities. She has been saved countless times by R communities of practice and is a member of R-Ladies, a Certified Carpentries Instructor, and part of Forwards, the R Foundation taskforce for diversity, equity, and inclusion. 
+>
+* Personal highlights:
+I joined forces with Batool and Alejandro to help rethink the workflows for deploying translated versions of _The Turing Way_ and working with them was amazing! The task is a little bit daunting, but we are on the right way. I was thinking mostly about what to do with the Spanish translation branch (Spoiler: don't rebase!) and checking the workflow and requirements when new language teams start to translate a new language in Crowdin, using Portuguese as an example. I loved the illustration session, the two thematic conversations I could join, the abundant note-taking.
 
 ### Andreea Avramescu
 
@@ -121,6 +128,24 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 * Quotes:
 > The 2021 May Book Dash was an exciting and inspiring opportunity. The events throughout the week were extremely well organised and the inclusive environment was very welcoming.
+
+### Ankur Kumar
+
+- Role: Book Dash 2021 participant
+- GitHub id: @leoank
+- ORCID: [0000-0002-7686-7335](https://orcid.org/0000-0002-7686-7335)
+
+- Short bio: 
+> Ankur is a research associate at the department of genetics, University of Cambridge. He is trying to create shareable and reproducible software infrastructure for building the next generation of life sciences research platforms by leveraging advances in modern cloud technology. He is always happy to talk about the challenges and opportunities that these distributed systems present. Apart from computers, he is also interested in synthetic biology. One can often find him at related events and seminars around Cambridge.
+
+- Personal highlights:
+>  I  want to thank the organisers for allowing me to join the book dash. I also want to congratulate them for creating such a friendly community around the Turing Way project. I worked on a chapter with the working title of "Reproducible analysis pipelines". I had wonderful conversations about the topic with fellow participants and @KirstieJane . I also reached out to some of the leaders in the field. I'll soon be interviewing them to add their experiences as case studies. All my interactions with the Turing Way community helped me to achieve a better understanding of the topic. I also feel more confident in writing and I am now thinking of starting my blog!
+
+- More Information
+> I'll continue to keep working on the chapter and submit a PR as soon as possible. I am also thinking of improving some technical aspects of the book. I'll hopefully get around doing these soon as well.
+
+- Quotes:
+> May the force be with "The Turing Way"
 
 ### Anna Krystalli
 
@@ -142,7 +167,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 * Role: Book Dash 2021 organising committee & participant
 * GitHub id: [Arielle-Bennett](http://github.com/Arielle-Bennett)
-* ORCID: https://orcid.org/0000-0002-0154-2982
+* ORCID: [0000-0002-0154-2982](https://orcid.org/0000-0002-0154-2982)
 
 * Short bio:
 > Arielle is the Research Project Manager for the Tools, Practices & Systems programme at the Alan Turing Institute. Prior to this she has worked in a variety of research-adjacent roles across tech, start ups and science publishing. She is also a mentor with the Open Life Sciences programme and a 2019 Community Engagement Fellow with the Center for Scientific Collaboration and Community Engagement.
@@ -168,19 +193,27 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Batool Almarzouq
 
-* Role: Book Dash November 2020 Attendee
+* Role: 
+    * Book Dash November 2020 Attendee
+    * Book Dash May and November 2021 Planning Committee member
 * ORCID: [0000-0002-3905-2751](https://orcid.org/my-orcid)
+* Twitter: @batool664
+
 * Short bio:
-> I'm the founder of R-Ladies in Saudi Arabia (Dammam). I initially majored in pharmacology but quickly developed an interest in biochemistry, structural biology, and bioinformatics. I enjoy applying deep learning to answer biological questions.
+> Batool is a computational biologist affiliated with KAIMRC in Saudi Arabia and an honorary research fellow at the University of Liverpool. I'm also an RWeekly member and part of the R-Ladies Global committee. As an advocate for Open Science and its role in improving scientific and economic outputs in the Middle east, I recently established an Open Science Community in Saudi Arabia (OSCSA). OSCSA aims to create significant value towards Saudi Arabia's Vision 2030, which focus on enhancing knowledge and improving equal access to education in the Kingdom. 
 
 * Personal highlights:
-> I am currently co-developing a chapter on "CI services". I have helped upgrade the Jupyter Book Infrastructure and add [hypothes.is](https://web.hypothes.is/) to enable collaborative annotation of _The Turing Way_ chapters. I have also translated the README.me chapter in Arabic.
-> Personal quote: "I find it hard to express my personal thoughts and feelings in words. This was such an amazing experience. It helped me to develop my technical skills. Thank you so much to everyone I met in this Book Dash event :heart:."
+> In May 2021 Book Dash, I co-developed a chapter on "CI services". 
+> In the previous Book Dash, I have helped upgrade the Jupyter Book Infrastructure and add [hypothes.is](https://web.hypothes.is/) to enable collaborative annotation of _The Turing Way_ chapters. I have also translated the README.me chapter in Arabic.
+> Although November 2021 Book Dash week was hectic (homeless twice while looking for a hotel in a foreign country) but looking back it was a fascinating week. I'm always grateful to be part of such a community - in the past week, I was inspired by everyone's work and very thankful for the Book Dash Planning Committee who are always patient with me. I was also so lucky to work with the wonderful Andrea Sanchez Tapia  and Alejandro Coca on a new workflow for the translation. 
+
+* Quote: 
+> Being part of _The Turing Way_ community not only nourish my skills but miraculously treat my anxiety and depression. I always feel grateful for being here. Thank you so much to everyone I met in this Book Dash event :heart:.
 
 ### Becki Green
 * Role: Book Dash 2021 participant
 * Github id: beckigreen
-* ORCID: https://orcid.org/0000-0002-0513-5188
+* ORCID: [0000-0002-0513-5188](https://orcid.org/0000-0002-0513-5188)
 
 * Short bio:
 > I am a PhD student at King’s College London (supervised by Dr Petroula Proitsi & Professor Marcus Richards) and Engage student at The Alan Turing Institute. My PhD project aims to identify early mechanisms and biological markers of dementia, and I am currently also working on the DECOVID project at the Institute.
@@ -259,21 +292,24 @@ I also hope that it can convince people that don't consider themselves capable o
 
 * Role:
     * Core Contributor
-    * Book Dash November 2020 Attendee
-    * Book Dash Planning Committee 2021
+    * Book Dash November 2020, May and November 2021 Attendee
+    * Book Dash Planning Committee May and November 2021
 * GitHub id: [EKaroune](https://github.com/EKaroune)
 * ORCID: [0000-0002-6576-6053](https://orcid.org/0000-0002-6576-6053)
+
 * Short bio:
-I'm a Research Associate and Community Manager of DECOVID at The Alan Turing Institute. I’m also a post-doctoral researcher working in the field of Environmental Archaeology and Palaeoecology. I have a PhD in Palaeoecology from the Institute of Archaeology, University College London. I am leading a project to improve the FAIRness of phytolith data. I am also working on a project with Historic England concerning the development of novel methodologies in phytolith research for application to British Archaeological remains.
+> I'm a Research Associate and Community Manager of DECOVID at The Alan Turing Institute. I’m also a post-doctoral researcher working in the field of Environmental Archaeology and Palaeoecology. I have a PhD in Palaeoecology from the Institute of Archaeology, University College London. I am leading a project to improve the FAIRness of phytolith data. I am also working on a project with Historic England concerning the development of novel methodologies in phytolith research for application to British Archaeological remains.
 
 * Personal highlights:
 >I have really enjoyed working in such a collaborative way during the Book Dash. I have had interesting discussions concerning the accessibility of The Turing way, collaboration, communication and research in general with other contributors.
 >I have further developed my Github skills by working in collaboration with @paulowoicho, @malvikasharan and @KirstieJane to develop a chapter on 'Getting started on Github'.
 >This improvement in my skills will really benefit my own personal research to develop my own collaborative working groups and teach others how to use these research tools.
-> In 2021 Book Dash, I've enjoyed mentoring new contributors contributions, reviewing pull requests and helping to run sessions during the Book Dash. It was great to work collaboratively to improve and publish a new chapter on 'Communicating with wider audiences' in the Guide for Communication.
+> At the May 2021 Book Dash, I enjoyed mentoring new contributors contributions, reviewing pull requests and helping to run sessions during the Book Dash. It was great to work collaboratively to improve and publish a new chapter on 'Communicating with wider audiences' in the Guide for Communication.
+> I've been the lead author and organiser of the academic authorship chapter.
+> At the November 2021 Book Dash, I have been hosting sessions and helping to review pull requests #2160, #1919 and #2167. I've also worked with @MariaEriksson to plan and start writing an overview about sensitive data. 
 
 * More information:
->I try to work as openly as possible and a large part of my current research is developing easy and accessible to all collaborative and open ways of working. I am also working hard to bring together specialists in my field into a working group for Open Science so that we can work collaboratively towards subject-specific FAIR guidelines for phytolith data.
+> I try to work as openly as possible and a large part of my current research is developing easy and accessible to all collaborative and open ways of working. I am also working hard to bring together specialists in my field into a working group for Open Science so that we can work collaboratively towards subject-specific FAIR guidelines for phytolith data.
 
 * Quotes:
 > Such a great week! Supportive collaborative environment to produce some really quality contributions to this wonderful project.
@@ -307,7 +343,7 @@ Please [see details](https://the-turing-way.netlify.app/afterword/contributors-r
 
 * Role: Book Dash 2021 participant
 * GitHub id: hlnicholls
-* ORCID:https://orcid.org/0000-0002-3480-7852
+* ORCID: [0000-0002-3480-7852](https://orcid.org/0000-0002-3480-7852)
 
 * Short bio:
 > I am a PhD student contributing to The Turing Way to develop writing about reproducible research practices. I have a BSc in biomedical science and a background in wet-lab cardiovascular research. My PhD is in applying machine learning to prioritise most likely causal disease genes from genome-wide association studies.
@@ -406,6 +442,18 @@ I am an associate member of the Chartered Institute of Personnel and Development
 <!---J--->
 ## J
 
+### Jessica Scheick
+
+* Role: Book Dash 2021 participant
+* GitHub id: @JessicaS11 
+* ORCID: [0000-0002-3421-4459](https://www.orcid.org/0000-0002-3421-4459)
+
+* Short bio:
+> Jessica is a glaciologist, open*(science, software, source) enthusiast, remote sensor, and lifelong lover of snow, winter, and the outdoors. She is currently a Research Assistant Professor at the University of New Hampshire (US), where she works on glaciological research, research-enabling open-source software projects, and climate justice and diversity, equity, and inclusion initiatives. She is the lead developer and maintainer for the icepyx library and regularly helps run Hackweeks with the University of Washington's eScience Institute.
+
+* Personal highlights:
+> I was thrilled when I first discovered The Turing Way and delighted to have the opportunity to contribute during the Nov 2021 Book Dash after attending Collaboration Cafes for about a year. I ended up working on a few different projects with multiple collaborators, but I think the highlight of the whole experience was brainstorming a visualization and then watching the Scriberia artist bring our idea to life!
+
 ### José María Fernández
 
 * Role: Book Dash November 2020 Attendee (BioHackathon-EU)
@@ -469,6 +517,26 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 * Personal Quote:
 > "I'm not from a tech field but I've learned so much about github as a tool for collaborative working: thanks so much for everyone who was part of the November 2020 book dash for all your useful advice!"
+
+### Lena Karvovskaya
+
+* Role: Book Dash 2021 participant
+* GitHub id: karvovskaya
+* Twitter: @ LangData
+* ORCID: [0000-0001-7777-5603](https://orcid.org/0000-0001-7777-5603)
+
+* Short bio:
+> Lena Karvovskaya is the Community Manager for Research Data Management and Open Science at the Vrije Universiteit Amsterdam (VU Amsterdam). 
+> She works with support staff and researchers to facilitate the organizational change towards reproducible and transparent research culture.
+
+* Personal highlights:
+> I've been excited about the Turing Way for a long time. I am so happy and grateful that I could take part in the book dash. The wonderful team made me feel that every second of my time there was very well spent. With some help, I managed to do with my first proper pull request! Yay! I loved our interactions, our pomodoro sprints, the sharing of personal stuff. A special highlight was an opportunity to work with an artist to visualize my ideas. I feel proud that I contributed to this amazing project.
+
+* More information:
+> I will be carrying on working on the Peer Review chapter and hope to collaborate with @vhellon @EstherPlomp and other participants
+
+* Quotes:
+> Brené Brown: “There is no innovation and creativity without failure. Period.”
 
 
 ### Louise Bowler
@@ -588,7 +656,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 * Role: Core Contributor (2019)
 * GitHub id: [martintoreilly](http://github.com/martintoreilly)
-* ORCID: [TBA](https://orcid.org/TBA)
+
 * Short bio:
 > I'm Principal Research Software Engineer and Deputy Head of the Research Engineering Group at the Alan Turing Institute.
 > My focus is on using good software engineering practices to increase the impact of research software by making it reusable, reliable and robust
@@ -636,7 +704,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 * Role: Book Dash 2021 participant
 * GitHub id: ninadicara
-* ORCID: https://orcid.org/0000-0002-6179-1067
+* ORCID: [0000-0002-6179-1067](https://orcid.org/0000-0002-6179-1067)
 
 * Short bio:
 > I am a PhD student at the University of Bristol, working on data science for mental health using social media data. I also have a masters degree in family social work, and was trained as a social worker before starting my PhD. I co-organise the [Data Ethics Club](https://github.com/very-good-science/data-ethics-club/), and am really interested in how we can understand the way we approach data analysis as a function of our lived experiences and positionality.
@@ -674,7 +742,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 * Role: Google Season of Doc: Technical Writer, [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring)(2020)
 * GitHub id: [paulowoicho](http://github.com/paulowoicho)
-* ORCID: TBA
+
 * Short bio:
 > I am a Technical Writer / Google Season of Docs (GSoD) Participant working to make The Turing Way consistent, sustainable, and accessible.
 > I have a BSc in Software Engineering from the American University of Nigeria. Thereafter, I worked as a Research Analyst in the Fintech & Innovation Division of Guaranty Trust Bank, Nigeria and helped to drive the Bank's push to become a platform by creating innovative digital products.
@@ -703,6 +771,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 * Role: Core Contributor (2019), Book Dash 2019 Attendee and helper
 * GitHub id: [rosiehigman](http://github.com/rosiehigman)
 * ORCID: [0000-0001-5329-7168](https://orcid.org/0000-0001-5329-7168)
+
 * Short bio:
 > I am a Research Data Librarian at the University of Manchester, co-leading the research data management support service.
 > My focus is on data sharing, training and encouraging researchers to engage in Open Research.
@@ -739,6 +808,20 @@ I am an associate member of the Chartered Institute of Personnel and Development
 > *The Turing Way* goal of ensuring that reproducible data science is "too easy not to do" really resonates with me.
 > I find that it can be difficult to get researchers to engage with reproducibility and sharing their research outputs because they perceive that it will take too much time and effort with very little reward - when the opposite is true!
 > Ensuring results are reproducible not only benefits research as a whole and increases efficiency, but working this way also offers researchers more opportunities for impact and collaboration.
+
+
+### Reshama Shaikh
+
+* Role: Book Dash 2021 Participant
+* GitHub id: [reshamas](http://github.com/reshamas)
+* ORCID: [0000-0003-4162-4453](https://orcid.org/0000-0003-4162-4453)
+
+* Short bio:
+> Reshama Shaikh is the Executive Director of [Data Umbrella](https://www.dataumbrella.org). She is also on the Triage Team for [scikit-learn](https://github.com/scikit-learn/scikit-learn) and an organizer for [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
+>Reshama is a statistician/data scientist with skills in Python, R and SAS. She earned her M.S. in statistics from Rutgers University.  She earned her M.B.A. from NYU Stern School of Business where she studied strategy, business analytics and technology management.  
+
+* Personal highlights:
+> Reshama participated in The Turing Way Book Dash and collaborated to discuss plans and draft for a chapter on research impact in data science, with a case study from training events that she organises through Data Umbrella.
 
 <!---S--->
 ## S
@@ -846,7 +929,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 # All Contributors
 
 
-✨Using [all-contributors](https://allcontributors.org/) specification, _The Turing Way_ recognises all contributors, not just the ones who push code. ✨
+✨Using [all-contributors](https://allcontributors.org/) specification, _The Turing Way_ Recognises all contributors, not just the ones who push code. ✨
 
 (contributors-record-contributors)=
 ## Contributors
@@ -1258,7 +1341,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
 Contributions of any kind welcome!
-\n(contributors-record-collaborators)=
+
+(contributors-record-collaborators)=
 # Collaborating Organisations and Projects
 
 *The Turing Way community receives in-kind contributions from members supported by their employers, projects or organisations for their participation.
