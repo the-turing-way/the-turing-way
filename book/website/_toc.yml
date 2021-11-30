@@ -341,6 +341,10 @@ parts:
         file: communication/citable/citable-steps
       - title: Citing Research Objects
         file: communication/citable/citable-cite
+      - title: Software citation with CITATION.cff
+        file: communication/citable/citable-cff
+      - title: Create a CITATION.cff using CFFinit
+        file: communication/citable/citable-cffinit
       - title: Linking Research Objects
         file: communication/citable/citable-linking
       - title: ORCID to Collect your Research Objects
