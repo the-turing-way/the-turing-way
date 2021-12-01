@@ -12,8 +12,9 @@
 name: acknowledging contributors
 alt: The image shows the current system of authorship with many people holding up one person who is receiving the most credit. Then it shows lots of contributors working together to bring together different contributions of a project to publish a project with all these contributions being equally acknowledged.
 ---
-Illustration about acknowledgements on The Turing Way.
+Illustration about acknowledging contributions in academic articles.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
+
 ```
 
 (communication-aa-summary)=
