@@ -3,7 +3,7 @@
 This documents provides details about the project members and contributors working (or previously worked) on _The Turing Way_ in a paid capacity, organisational agreement, in-kind contributions or grant proposal-based collaboration.
 It further outlines expectations and responsibilities with regards to working on the project.
 
-| Name | Role | % working on the project | Time period allocated to the project | Any previou roles |
+| Name | Role | Full Time Equivalent (or %) on the project | Time period allocated to the project | Previous roles |
 |---|---|---|---|---|
 | Kirstie Whitaker | PI | - | Oct 2018 - Present | - |
 | Malvika Sharan | Co-lead investigator | - | Jul 2021 - Present | previously: Community manager, Jan 2020 - Jun 2021 (100%) |
