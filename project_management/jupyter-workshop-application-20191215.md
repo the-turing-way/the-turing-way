@@ -123,7 +123,7 @@ The event will run from Thursday 21 May 2020 to Saturday 23 May 2020, with trave
 
 We have reserved the Enigma room at The Alan Turing Institute for 21 and 22 May and Microsoft Reactor - London for 23 May.
 
-A proposed schedule is provided at [https://github.com/alan-turing-institute/the-turing-way/tree/master/project_management/jupyter-workshop-application-20191215.md#schedule](https://github.com/alan-turing-institute/the-turing-way/tree/master/project_management/jupyter-workshop-application-20191215.md#schedule).
+A proposed schedule is provided at [https://github.com/alan-turing-institute/the-turing-way/tree/main/project_management/jupyter-workshop-application-20191215.md#schedule](https://github.com/alan-turing-institute/the-turing-way/tree/main/project_management/jupyter-workshop-application-20191215.md#schedule).
 
 
 | Location | Day | Time | Activity |
@@ -177,7 +177,7 @@ We will not exceed 15,000 USD which corresponds to approximately 11,250 GBP.
 
 This covers travel and accommodation for 15 people from outside of London to attend the workshop (6,150 GBP), food during the workshop for 25 participants (3,250 GBP), travel and accommodation for mentored sprint mentors and participants (1,150 GBP), and food during the mentored sprint (700 GBP).
 
-A detailed breakdown of costs is available at [https://github.com/alan-turing-institute/the-turing-way/tree/master/project_management/jupyter-workshop-application-20191215.md#budget](https://github.com/alan-turing-institute/the-turing-way/tree/master/project_management/jupyter-workshop-application-20191215.md#budget).
+A detailed breakdown of costs is available at [https://github.com/alan-turing-institute/the-turing-way/tree/main/project_management/jupyter-workshop-application-20191215.md#budget](https://github.com/alan-turing-institute/the-turing-way/tree/main/project_management/jupyter-workshop-application-20191215.md#budget).
 
 | Item | Cost per item (GBP) | Number of items | Total (GBP) |
 | ---- | ----:| ------:| -----:|

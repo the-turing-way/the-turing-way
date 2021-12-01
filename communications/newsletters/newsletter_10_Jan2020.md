@@ -59,7 +59,7 @@ We will review emails on Wednesday 22 January and reply with our selection (in t
 
 ### Looking for helpers to deliver Binder workshop
 
-[The British Antarctic Survey](https://www.bas.ac.uk/) is hosting a half-day [Boost Your Research Reproducibility with Binder](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder) workshop **in Cambridge on 31 January** from 13:30 to 17:00.
+[The British Antarctic Survey](https://www.bas.ac.uk/) is hosting a half-day [Boost Your Research Reproducibility with Binder](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/boost-research-reproducibility-binder) workshop **in Cambridge on 31 January** from 13:30 to 17:00.
 At this workshop, the trainers will discuss reproducible computing environments, with examples of others' projects in [myBinder.org](https://mybinder.org) to help you learn how to prepare a binder-ready project.
 At the end of the workshop, you will be able to take some of your own content (in R, Jupyter notebook, or scripts that can be run in the terminal) and prepare it so that it can be used by others on [myBinder.org](https://mybinder.org).
 
@@ -72,8 +72,8 @@ We will review emails on Monday 20 January and reply with our selection (in the 
 
 ### Binder workshop hosted by PyData Cambridge
 
-Another [Boost Your Research Reproducibility with Binder](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder) workshop will be hosted by the Raspberry Pi Foundation in Cambridge on **29 January** at 19:00.
-Sarah Gibson will be leading participants through the [Zero to Binder](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder.md) code along demonstration.
+Another [Boost Your Research Reproducibility with Binder](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/boost-research-reproducibility-binder) workshop will be hosted by the Raspberry Pi Foundation in Cambridge on **29 January** at 19:00.
+Sarah Gibson will be leading participants through the [Zero to Binder](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder.md) code along demonstration.
 
 Everyone is welcome to attend.
 You can sign up and find more details about the event at [https://www.meetup.com/PyData-Cambridge-Meetup/events/267902974](https://www.meetup.com/PyData-Cambridge-Meetup/events/267902974).
@@ -81,9 +81,9 @@ You can sign up and find more details about the event at [https://www.meetup.com
 ## Tips & Tricks for new contributors
 
 Have you ever wondered what are the pathways to contribute to _The Turing Way_ project and how getting involved in the community can benefit you?
-You can find that out by reading [impact statements](https://github.com/alan-turing-institute/the-turing-way/tree/master/project_management/impact_statements) from our active contributors.
-[Patricia](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/impact_statements/patricia_herterich.md), the Research Data Specialist at Digital Curation Centre, states that *contributing to the Turing Way helped her identify which activities she wants to focus on in her career going forward*.
-[Rachael](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/impact_statements/rachael-ainsworth.md), the Research Software Community Manager at SSI, states that *being a core member empowered her to pursue a community management position in the domain of open research*.
+You can find that out by reading [impact statements](https://github.com/alan-turing-institute/the-turing-way/tree/main/project_management/impact_statements) from our active contributors.
+[Patricia](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/impact_statements/patricia_herterich.md), the Research Data Specialist at Digital Curation Centre, states that *contributing to the Turing Way helped her identify which activities she wants to focus on in her career going forward*.
+[Rachael](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/impact_statements/rachael-ainsworth.md), the Research Software Community Manager at SSI, states that *being a core member empowered her to pursue a community management position in the domain of open research*.
 
 Do you have your _The Turing Way_ stories and experiences to share?
 Contact us ([by email](mailto:theturingway@gmail.com) or at [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/790)) to learn how you can add them on our GitHub repository.

@@ -71,7 +71,7 @@ You are welcome to share, reuse and distribute them by attributing "The Turing W
 Paul has done extremely valuable work to ensure accessibility in our online resources by co-authoring chapters on [Maintaining Consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html), integrating [videos to demonstrate editing work](https://the-turing-way.netlify.app/community-handbook/consistency/consistency-formatting.html#demo), adding [new subchapters in the Style guide](https://the-turing-way.netlify.app/community-handbook/style/style-more-styling.html), creating a [series of templates](https://the-turing-way.netlify.app/community-handbook/contributing.html) for developing new content and [improving the default style of the book](https://the-turing-way.netlify.app/community-handbook/style/style-custom-styling.html) to make it more accessible for screen reader apps.
 We are extremely grateful for his work and excited to see him move on to pursue his PhD in Glasgow.
 We are also very proud to see him graduate from Open Life Science this week along with Neha Moopen who supported his accessibility project that was mentored by Samuel Guay.
-You can read a complete report from his engagement [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/GSOD-applications/GSoD-2020-Project-Report.md).
+You can read a complete report from his engagement [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/communications/GSOD-applications/GSoD-2020-Project-Report.md).
 
 ![Thanks to Christina Hitrova for your early work on this and Laura Carter and Sophia Batchelor for your support during this Open Life Science cohort (and, just, so many other people in OLS-2!)](images/2020-12-ismael-ethics-3.png)
 
@@ -112,7 +112,7 @@ We would love to hear from you, especially if you're not already involved in the
 For example, many people used the online repository structure, used its resources for developing the reproducibility plan, adapted the Code of Conduct for their projects, cited _The Turing Way_ in their manuscripts or grant proposals, and reused the community practices.
 You can see more responses to Kirstie's [Tweet](https://twitter.com/kirstie_j/status/1326126705270984710?s=20) and share your story with us under [issue #1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659). 
 
-All our contributors are invited to add their personal highlights and impact stories in the [Contributors’ file](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) so that we can update our [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html#personal-highlights-from-the-turing-way-contributors) to openly and fairly acknowledge their work.
+All our contributors are invited to add their personal highlights and impact stories in the [Contributors’ file](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) so that we can update our [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html#personal-highlights-from-the-turing-way-contributors) to openly and fairly acknowledge their work.
 
 ### Presentations
 

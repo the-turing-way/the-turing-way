@@ -96,6 +96,8 @@ parts:
         file: reproducible-research/rdm/rdm-dmp
       - title: The FAIR Principles and Practices
         file: reproducible-research/rdm/rdm-fair
+      - title: Personal data management
+        file: reproducible-research/rdm/rdm-personal
       - title: Data Storage and Organisation
         file: reproducible-research/rdm/rdm-storage
       - title: Data Organisation in Spreadsheets
@@ -187,6 +189,13 @@ parts:
         file: reproducible-research/reviewing/reviewing-checklist
       - title: Resources for code reviewing
         file: reproducible-research/reviewing/reviewing-resources
+    - title: Reusable Code
+      file: reproducible-research/code-reuse
+      sections:
+      - title: Overview of Code Reuse
+        file: reproducible-research/code-reuse/code-reuse-overview
+      - title: Detailed Recommendations for Code Reuse
+        file: reproducible-research/code-reuse/code-reuse-details
     - title: Continuous Integration (CI)
       file: reproducible-research/ci
       sections:
@@ -332,6 +341,10 @@ parts:
         file: communication/citable/citable-steps
       - title: Citing Research Objects
         file: communication/citable/citable-cite
+      - title: Software citation with CITATION.cff
+        file: communication/citable/citable-cff
+      - title: Create a CITATION.cff using CFFinit
+        file: communication/citable/citable-cffinit
       - title: Linking Research Objects
         file: communication/citable/citable-linking
       - title: ORCID to Collect your Research Objects
@@ -345,6 +358,25 @@ parts:
         file: communication/os-comms/os-comms-issue-tracking
       - title: Communication Channels
         file: communication/os-comms/os-comms-channels
+    - title: Authorship and Contributions on Academic Articles
+      file: communication/aa
+      sections:
+      - title: Overview of Academic Authorship
+        file: communication/aa/aa-overview
+      - title: Types of Authorship Misconduct
+        file: communication/aa/aa-misconduct
+      - title: Discipline Specific Authorship Traditions
+        file: communication/aa/aa-traditions
+      - title: Large and Equitable Authorships
+        file: communication/aa/aa-equitable  
+      - title: Tips on How to Get Authorship Right
+        file: communication/aa/aa-tips
+      - title: Personal Stories - Authorship on Interdisciplinary Projects
+        file: communication/aa/aa-stories-interdisciplinary
+      - title: Personal Stories - Large Collaborative Research Community
+        file: communication/aa/aa-stories-community
+      - title: Resources
+        file: communication/aa/aa-resources
 
   # ===== Guide for Collaboration ========================================
 
@@ -388,6 +420,17 @@ parts:
       sections:
       - title: Personal Stories of Leadership
         file: collaboration/leadership/leadership-stories
+    - title: Research Infrastructure Roles
+      file: collaboration/research-infrastructure-roles
+      sections:
+      - title: Community Managers Overview
+        file: collaboration/research-infrastructure-roles/community-manager
+      - title: Data Stewards Overview
+        file: collaboration/research-infrastructure-roles/data-steward
+      - title: Data Steward Case Study
+        file: collaboration/research-infrastructure-roles/data-steward/data-steward-casestudy
+      - title: Research Software Engineers Overview
+        file: collaboration/research-infrastructure-roles/research-software-engineer
     - title: Remote Collaboration
       file: collaboration/remote-collab
       sections:
@@ -423,6 +466,7 @@ parts:
       - title: Nudging for a Better Default
         file: collaboration/shared-ownership/shared-ownership-defaults
 
+
   # ===== Guide for Ethical Research ========================================
 
   - file: ethical-research/ethical-research
@@ -455,6 +499,17 @@ parts:
         file: ethical-research/activism/activism-case-study-google.md
     - title: Internal Policy Advocacy
       file: ethical-research/internal-policy
+    - title: Self-Reflection
+      file: ethical-research/self-reflection
+      sections: 
+      - title: Identity and Positionality
+        file: ethical-research/self-reflection/sr-positionality
+      - title: Power and Privilege
+        file: ethical-research/self-reflection/sr-power
+      - title: Self-Reflection Prompts
+        file: ethical-research/self-reflection/sr-prompts
+      - title: Resources
+        file: ethical-research/self-reflection/sr-resources
 
   # ===== Community Handbook ========================================
 
