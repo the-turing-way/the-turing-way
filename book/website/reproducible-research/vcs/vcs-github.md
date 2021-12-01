@@ -57,7 +57,7 @@ git remote add origin <GitHub repository link for your project>
 Then, *push* all the files on your computer to the online version so they match:
 
 ```
-git push -u origin master
+git push -u origin main
 ```
 
 You can then go on and make more commits on your computer.
@@ -78,7 +78,7 @@ git clone git@github.com:your-github-username/repository_name
 They can make and commit changes to the code without impacting the original, and push their changes to *their* online GitHub account using:
 
 ```
-git push -u origin master
+git push -u origin main
 ```
 
 The same procedure applies to you if you want to clone someone else's repository.
@@ -86,9 +86,9 @@ The same procedure applies to you if you want to clone someone else's repository
 (rr-vcs-github-online-pull)=
 ### Pull Requests
 
-If you are working on a personal branch and some other changes were made in the master branch, you can *pull* those changes down to your branch using the Git command:
+If you are working on a personal branch and some other changes were made in the main branch, you can *pull* those changes down to your branch using the Git command:
 ```
-git pull origin master
+git pull origin main
 ```
 
 When everyone has a copy of the project on their own branch (checkout your branch with `git checkout branch-name`), they can *push* their changes to their branch using the following command:
@@ -98,22 +98,22 @@ git push origin branch-name
 ```
 
 However, if you can not directly edit the repository (when you are not an owner or admin of the project), you will be able to share your work with the help of *pull requests*.
-A pull request allows a contributor to get the proposed changes from their branch or repository integrated into the master branch of the project.
+A pull request allows a contributor to get the proposed changes from their branch or repository integrated into the main branch of the project.
 It is also possible to make pull requests via the command line (see the GitLab documentation [here](https://git-scm.com/docs/git-request-pull)).
 
 (rr-vcs-github-contributing)=
 ## Contributing to Other Projects
 
 When you create a local copy of a repository, you only keep the versions of the files that are in the repository at the time of creating that copy.
-If any changes are made in the original repository afterwards, your copy will get out of sync out-of-sync.
+If any changes are made in the original repository afterwards, your copy will get out of sync.
 This can lead to problems like conflicting file contents when making a pull request or merging changes from your branch to the main repository.
-Therefore, when working on different branches or forks of a repository, it is a good practice to keep them updated with the master repository and in sync with the original repository.
+Therefore, when working on different branches or forks of a repository, it is a good practice to keep them updated with the main repository and in sync with the original repository.
 
 (rr-vcs-github-contributing-workflow)=
 ### A Workflow to Contribute to Others Github Projects via `git`:
 
 Using the fork button on the GitHub repository you wish to contribute to, create a copy of the repository in your account.
-The master repository that you forked will be referred to as the "upstream" repository.
+The main repository that you forked will be referred to as the "upstream" repository.
 
 You can now work on your copy using the command line, via the following steps (make sure you replace the placeholder user and repository names):
 
@@ -147,34 +147,34 @@ You can now work on your copy using the command line, via the following steps (m
     git branch -va
     ```
 
-Make sure that you are on your master branch locally, if not, then checkout your master branch using the command `git checkout master`
+Make sure that you are on your main branch locally, if not, then checkout your main branch using the command `git checkout main`
 
-6. Keep your fork updated by merging those commits (fetched from the upstream) to your own local master branch.
+6. Keep your fork updated by merging those commits (fetched from the upstream) to your own local main branch.
 
     ```
-    git merge upstream/master
+    git merge upstream/main
     ```
 
-Now, your local master branch is up-to-date with everything modified upstream.
-If there are no unique commits on the local master branch, git will simply perform a fast-forward.
+Now, your local main branch is up-to-date with everything modified upstream.
+If there are no unique commits on the local main branch, git will simply perform a fast-forward.
 
-*Note: The upstream/master is the original repository's master which you wish to contribute to, whereas origin/master refers to the repository you cloned in your local machine after it was forked on GitHub.*
+*Note: The upstream/main is the original repository's main which you wish to contribute to, whereas origin/main refers to the repository you cloned in your local machine after it was forked on GitHub.*
 
-Once your fork is in sync with the upstream master repository, you can always keep your local cloned repository in sync with origin (fork in this case) by using:
+Once your fork is in sync with the upstream main repository, you can always keep your local cloned repository in sync with origin (fork in this case) by using:
 
 ```
-git checkout master
+git checkout main
 git pull
 ```
 
 The `git pull` command combines two other commands, `git fetch` and `git merge`.
 When using `git fetch`, the resulting commits are stored as the remote branch allows you to review the changes before merging.
 
-Similarly, if you have created more branches other than master, you can also keep them in sync with your master, once it is in sync with the upstream repository.
+Similarly, if you have created more branches other than main, you can also keep them in sync with your main, once it is in sync with the upstream repository.
 
 ```
 git checkout my-other-branch
-git pull origin master
+git pull origin main
 ```
 
 When everything is up-to-date, you can work on your branch and commit changes.
@@ -190,7 +190,7 @@ Now you can make a pull request!
 (rr-vcs-github-contributing-practice)=
 ### Good Practice
 
-Before you create a branch, make sure you have all the upstream changes from the origin/master branch.
+Before you create a branch, make sure you have all the upstream changes from the origin/main branch.
 
 
 **A word of caution on the `rebase` command**: While trying to keep your branches in sync, you may come across the `rebase` command.

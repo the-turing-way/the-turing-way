@@ -128,8 +128,8 @@ If there is something we want to discuss more intensely, we allocate 30 minutes 
 For the time in between, we do a few quiet working sessions (sometimes 25 minutes, sometimes longer).
 This is likely a combination of a co-mentoring call and a co-working Pomodoro call, and it works well for me.
 
-You can read an adapted version of their blog post along with other ideas for virtual events in the document by Center for Scientific Collaboration and Community Engagement {cite}`CSCCE2020virtual`.
+You can read an adapted version of their blog post along with other ideas for virtual events in the document by Center for Scientific Collaboration and Community Engagement {cite:ps}`CSCCE2020virtual`.
 
-If you organise or host a coworking call in your community, you are welcome to highlight them in this chapter by creating a [pull request](https://github.com/alan-turing-institute/the-turing-way/pulls) on the GitHub repository (see [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) for details).
+If you organise or host a coworking call in your community, you are welcome to highlight them in this chapter by creating a [pull request](https://github.com/alan-turing-institute/the-turing-way/pulls) on the GitHub repository (see [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) for details).
 
 ***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*

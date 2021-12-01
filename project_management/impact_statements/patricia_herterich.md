@@ -32,4 +32,4 @@ Working on the Turing Way was my first collaboration on a large openly developed
 It was amazing to see such an interest in the project, especially from early career researchers and I loved building the community around the Turing Way.
 Contributing to the Turing Way helped me identify which activities I want to focus on in my career going forward.
 
-Working with research software engineers and data scientists, I gained new knowledge on computational environments, testing, and continous intergration and I am more confident in having conversations about these topics and pointing researchers to resources that help then such as the Turing Way handbook.
+Working with research software engineers and data scientists, I gained new knowledge on computational environments, testing, and continuous intergration and I am more confident in having conversations about these topics and pointing researchers to resources that help then such as the Turing Way handbook.

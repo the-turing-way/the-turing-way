@@ -28,7 +28,7 @@ You can find more about the practical steps to make your data available in the s
 (rr-open-data-barriers)=
 ## Barriers to Data Sharing
 Many academics find sharing data difficult.
-Recent surveys {cite}`Stuart2018sharing` conducted amongst researchers list the following reasons:
+Recent surveys {cite:ps}`Stuart2018sharing` conducted amongst researchers list the following reasons:
 
 - Organising data in a presentable and useful way is challenging (mentioned by 46%)
 - Researchers are unsure about copyright and licensing (mentioned by 37%)
@@ -61,13 +61,13 @@ It may also be possible to provide the data in such a format that researchers ca
 For example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual data points.
 
 Many fields of scientific disciplines involve working with sensitive personal data.
-Their management is well regulated in data protection legislation (in Europe through national implementations of the General Data Protection Regulation) and ethics procedures as they are established in most research institutions {cite} `EU2016protection`.
+Their management is well regulated in data protection legislation (in Europe through national implementations of the General Data Protection Regulation) and ethics procedures as they are established in most research institutions {cite:ps}`EU2016protection`.
 
 (rr-open-data-barriers-consent)=
 ### Consent
 
 For anonymised research data to be made available for future reuse, consent forms must cover sharing this data with other researchers.
-Research so far suggests that study participants are usually less concerned about the data being archived and shared than researchers think {cite}`Kuula2010archiving`.
+Research so far suggests that study participants are usually less concerned about the data being archived and shared than researchers think {cite:ps}`Kuula2010archiving`.
 Participant information sheets and consent forms should include how research data will be stored, preserved and used in the long term, and how confidentiality will be protected when needed.
 
 (rr-open-data-barriers-anonymisation)=
