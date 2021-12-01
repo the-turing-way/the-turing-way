@@ -1,4 +1,4 @@
-(communication-aa-overview)=
+(cm-aa-overview)=
 # Overview of Academic Authorship
 
 A great deal of value is placed on academic authorship because a peer-reviewed journal article is still seen as the most valued output from a research project. 
@@ -6,7 +6,7 @@ The number of articles an academic researcher is named on, and particularly whet
 
 But who should be an author on an article? And can we move away from the idea of first author taking the most credit?
 
-(communication-aa-overview-who)=
+(cm-aa-overview-who)=
 ## Who is an author? or are they actually contributors?
 
 Assigning names to a publication can be a tricky business. 
@@ -23,7 +23,7 @@ Therefore, it is still common to give authorship to only those that have actuall
 This often excludes large contributions to the project from technicians, undergraduate and postgraduate students, and people involved in the infrastructure of the project such as research software engineers. 
 It also raises ethical issues concerning who takes credit for the work on a project.
 
-(communication-aa-overview-first)=
+(cm-aa-overview-first)=
 ## First author dominance
 
 Being the first author impacts that person's reputation and visibility due to a perceived view that this person makes the greatest contribution, citation indices that in the past only counted citations for the first-named author, and citations within academic articles being shortened to the first author's name with *et al* (Ref: Frandsen & Nicolaisen 2010). 
