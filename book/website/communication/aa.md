@@ -7,13 +7,14 @@
 | -------------|----------|------|----|
 | {ref}`Open Research<rr-open>` | Helpful | Beginner | None |
 
-```{figure} ../figures/theturingway-acknowledgement.jpg
+```{figure} ../figures/acknowledge-authors.jpg
 ---
-name: the turing way acknowledgement
-alt: The image shows the current system of acknowledgement with many people holding up one person. Then the Turing Way recognises all contributors as we think all need to be acknowledged equally so we have everyone standing at the same level. It also shows a robot to represent the all-contributors bot and people writing on their contributors file.
+name: acknowledging contributors
+alt: The image shows the current system of authorship with many people holding up one person who is receiving the most credit. Then it shows lots of contributors working together to bring together different contributions of a project to publish a project with all these contributions being equally acknowledged.
 ---
-Illustration about acknowledgements on The Turing Way.
+Illustration about acknowledging contributions in academic articles.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
+
 ```
 
 (cm-aa-summary)=
