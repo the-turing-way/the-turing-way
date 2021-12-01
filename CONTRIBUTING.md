@@ -71,6 +71,8 @@ There are many ways to get in touch with _The Turing Way_ team!
     - Follow us for regular updates
 - [Our mailing list](https://tinyletter.com/TuringWay) 
     - Receive monthly project updates in a newsletter
+- Attend a Collaboration Cafe
+
 - Contact the Project Lead of _The Turing Way_ project - Kirstie Whitaker - by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
 - Contact the Community Manager of _The Turing Way_ project - Malvika Sharan - by email at [masharan@turing.ac.uk](mailto:masharan@turing.ac.uk).
 
