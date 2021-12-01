@@ -4,7 +4,7 @@ This documents provides details about the project members and contributors worki
 It further outlines expectations and responsibilities with regards to working on the project.
 
 | Name | Role | % working on the project | Time period allocated to the project | Any previou roles |
-|---|---|---|---|
+|---|---|---|---|---|
 | Kirstie Whitaker | PI | - | Oct 2018 - Present | - |
 | Malvika Sharan | Co-lead investigator | - | Jul 2021 - Present | previously: Community manager, Jan 2020 - Jun 2021 (100%) |
 | Arron Lacey | Community Manager | 10% | Nov 2021 - Present | - |
@@ -12,20 +12,19 @@ It further outlines expectations and responsibilities with regards to working on
 | Vicky Hellon | Community Manager | 10% | Nov 2021 - Present | - |
 | Carlos Martinez-Ortiz | Netherlands eScience Center - RSE community manager | in-kind contribution | Feb 2020 - Present | - |
 | Esther Plomp | Faculty of Applied Sciences at Delft University of Technology - Data Steward | in-kind contribution | Feb 2020 - Present | - |
-| Sarah Gibson | 2i2c Research Software Engineer/JupyterHub Community Development | in-kind contribution | - | Prevously: Research Data Scientist, Nov 2018 - Aug 2021 | - |
+| Sarah Gibson | 2i2c Research Software Engineer/JupyterHub Community Development | in-kind contribution | - | Prevously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
 | May Yong | Research Associate | 40% | Oct 2021 - Dec 2021 | - |
 | Lydia France | Research Associate | 50% | Oct 2021 - Dec 2021 | - |
 | Iain Stanson | Research Associate | 30% | Nov 2021 - Dec 2021 | - |
 | Paul Owoicho | Google Season of Docs - Technical Writer | 100% | Sep 2020 - Dec 2020 | - |
 | Rachael Ainsworth | Research Associate | 100% | Apr 2019 - May 2019 | - |
 | Rosie Higman | Research Data Librarian | 20% | Jan 2019 - Mar 2019 | - |
-| Becky Arnold |  | 100% | Dec 2018 - Mar 2019 | - |
+| Becky Arnold | Research Software Engineer | 100% | Dec 2018 - Mar 2019 | - |
 | Louise Bowler | Research Data Scientist | 40% | Nov 2018 - Mar 2019 | - |
 | Patricia Herterich | Data Librarian | 40% | Nov 2018 - Mar 2019 | - |
 | Anna Krystalli | Research Software Engineer | 10% | Dec 2018 - Mar 2019 | - |
 | Alex Morley | Mozilla Fellow | not paid by project |  Nov 2018 - June 2019  | - |
 | Martin O'Reilly | Principal Research Software Engineer | 10% | Nov 2018 - Mar 2019 | - |
-
 
 ## Communication
 
