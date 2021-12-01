@@ -189,6 +189,13 @@ parts:
         file: reproducible-research/reviewing/reviewing-checklist
       - title: Resources for code reviewing
         file: reproducible-research/reviewing/reviewing-resources
+    - title: Reusable Code
+      file: reproducible-research/code-reuse
+      sections:
+      - title: Overview of Code Reuse
+        file: reproducible-research/code-reuse/code-reuse-overview
+      - title: Detailed Recommendations for Code Reuse
+        file: reproducible-research/code-reuse/code-reuse-details
     - title: Continuous Integration (CI)
       file: reproducible-research/ci
       sections:
@@ -355,21 +362,21 @@ parts:
       file: communication/aa
       sections:
       - title: Overview of Academic Authorship
-        file: communication/aa/overview
+        file: communication/aa/aa-overview
       - title: Types of Authorship Misconduct
-        file: communication/aa/misconduct
+        file: communication/aa/aa-misconduct
       - title: Discipline Specific Authorship Traditions
-        file: communication/aa/traditions
+        file: communication/aa/aa-traditions
       - title: Large and Equitable Authorships
-        file: communication/aa/equitable
+        file: communication/aa/aa-equitable  
       - title: Tips on How to Get Authorship Right
-        file: communication/aa/tips
+        file: communication/aa/aa-tips
       - title: Personal Stories - Authorship on Interdisciplinary Projects
-        file: communication/aa/interdisciplinary-personal-stories
+        file: communication/aa/aa-stories-interdisciplinary
       - title: Personal Stories - Large Collaborative Research Community
-        file: communication/aa/large-personal-stories
+        file: communication/aa/aa-stories-community
       - title: Resources
-        file: communication/aa/resources
+        file: communication/aa/aa-resources
 
   # ===== Guide for Collaboration ========================================
 

@@ -3,6 +3,7 @@
 
 ## A
 
+
 ```{glossary}
 
 Acceptance Testing
@@ -14,10 +15,12 @@ Acknowledgements
 Add
  Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit.
 
+
 Authors
   Authors in this context are the contributors to _The Turing Way_ project who have made a substantial contribution to the project such as writing a subchapter, facilitating community interactions, maintaining project’s infrastructure and supporting the participation of others through mentored-contributions. All authors are named co-authors on the book as a whole.
 
 ```
+
 ---
 
 ## B
@@ -43,6 +46,7 @@ Build
   A group of jobs. For example, a build might have two jobs, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
 
 ```
+
 ---
 
 ## C
@@ -116,6 +120,7 @@ CRediT Taxonomy
  The CRediT Taxonomy is a high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. These details are becoming increasingly required by journals as well as authors meeting authorship criteria.
 
 ```
+
 ---
 
 ## D
@@ -144,7 +149,9 @@ Digital Object Identifier
   A digital object identifier (DOI) is a persistent identifier or handle used to identify objects uniquely, standardized by the International Organization for Standardization (ISO). An implementation of the Handle System, DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports, data sets, and official publications. However, they also have been used to identify other types of information resources, such as commercial videos.
 
 ```
+
 ---
+
 ## E
 
 ```{glossary}
@@ -159,7 +166,9 @@ End to End Test
   A test that runs the program from beginning to end and verifies that the output is correct.
 
 ```
+
 ---
+
 ## F
 
 ```{glossary}
@@ -171,7 +180,9 @@ First author
  The most prominent position in academic authorship. It conveys this person's position as the researcher who has made the greatest contribution to the research.
 
 ```
+
 ---
+
 ## G
 
 ```{glossary}
@@ -198,8 +209,11 @@ Group authorship
 
 Guarantor
  As well as fulfilling criteria for being a named author, some journals require one or more authors that take responsibility for the integrity of the work as a whole from inception to the published article.
+
 ```
+
 ---
+
 ## H
 
 ```{glossary}
@@ -214,8 +228,11 @@ Honorary authorship
 
 Human Readable
   A human readable medium or human readable format is any encoding of data or information that can be naturally read by humans. Some human readable formats, such as PDF, are not machine readable as they are not structured data, such as the representation of the data on disk does not represent the actual relationships present in the data.
+
 ```
+
 ---
+
 ## I
 
 ```{glossary}
@@ -234,8 +251,11 @@ Issues
 
 Issue Tracking
   The process of tracking current issues on the project, such as bug fixing, rolling out new features or community engagement plans.
+
 ```
+
 ---
+
 ## J
 
 ```{glossary}
@@ -245,16 +265,22 @@ Job
 
 JupyterHub
   A multi-user server for Jupyter Notebook instances.
+
 ```
+
 ---
+
 ## K
 
 ```{glossary}
 
 Kubernetes
   Autonomous computational cluster manager.
+
 ```
+
 ---
+
 ## L
 
 ```{glossary}
@@ -264,8 +290,11 @@ License
 
 Last author
  Usually the person in the research team with a supervisory role such as a PhD supervisor or Principal investigator. This is discipline dependent as sometimes the last author is the person that has made the smallest contribution to the research.
+
 ```
+
 ---
+
 ## M
 
 ```{glossary}
@@ -293,14 +322,20 @@ Metadata
 
 Mock Test
   Replace a real object with a pretend one to use when running tests.
+
 ```
+
 ---
+
 ## N
 
 ```{glossary}
 
 ```
+
 ---
+
+
 ## O
 
 ```{glossary}
@@ -343,8 +378,11 @@ ORCID
 
 Owner
   The person/s who has administrative ownership over the organization or repository (not always the same as the original author).
+
 ```
+
 ---
+
 ## P
 
 ```{glossary}
@@ -387,14 +425,19 @@ Pull Request
 
 Push
   Sending changes to a remote repo. The remote repository is updated with the changes pushed and now mirrors the local repo.
+
 ```
+
 ---
+
 ## Q
 
 ```{glossary}
 
 ```
+
 ---
+
 ## R
 
 ```{glossary}
@@ -458,7 +501,9 @@ Runtime Test
   Tests embedded within the program which are run as part of it.
 
 ```
+
 ---
+
 ## S
 
 ```{glossary}
@@ -491,7 +536,9 @@ System Testing
   A level of the software testing process where a complete, integrated system is tested. The purpose of this test is to evaluate whether the system as a whole gives the correct outputs for given inputs. Also see end to end test.
 
 ```
+
 ---
+
 ## T
 
 ```{glossary}
@@ -513,8 +560,11 @@ Testing Framework
 
 Travis
   A commonly used continuous integration platform.
+
 ```
+
 ---
+
 ## U
 
 ```{glossary}
@@ -524,8 +574,11 @@ Unit
 
 Unit Testing
   A level of the software testing process where individual units of a software are tested. The purpose is to validate that each unit of the software performs as designed.
+
 ```
+
 ---
+
 ## V
 
 ```{glossary}
@@ -534,27 +587,38 @@ Virtual Machine
   A simulated computer that can encapsulate and entire computational environment including its operating system, customised settings, software and files.
 
 ```
+
 ---
+
 ## W
 
 ```{glossary}
 
 ```
+
 ---
+
 ## X
 
 ```{glossary}
 
 ```
+
 ---
+
 ## Y
 
 ```{glossary}
+
 YAML
   A human readable/writable markup language which used by many projects for configuration files.
+
 ```
+
 ---
+
 ## Z
+
 
 ```{glossary}
 

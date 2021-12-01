@@ -1,11 +1,11 @@
-# Authorship and contributions on Academic Papers
+# Academic Authorship
 
-(communication-aa-prerequisites)=
+(cm-aa-prerequisites)=
 ## Prerequisites
 
 | Prerequisite | Importance | Skill Level | Notes |
 | -------------|----------|------|----|
-| {ref}`Open Research <rr-open-research>` | Helpful | Beginner | None |
+| {ref}`Open Research<rr-open>` | Helpful | Beginner | None |
 
 ```{figure} ../figures/acknowledge-authors.jpg
 ---
@@ -17,11 +17,11 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 ```
 
-(communication-aa-summary)=
+(cm-aa-summary)=
 ## Summary
-This chapter sets out information about who are considered authors, academic authorship traditions in different disciplines, how practices concerning authorship are changing and how you might go about trying to achieve the authorship model you want to use.
+This chapter sets out information about academic authorship traditions in different disciplines,  who are considered authors, how practices concerning authorship are changing and how you might go about trying to achieve the authorship model you want to use.
 
-(communication-aa-motivation)=
+(cm-aa-motivation)=
 ## Motivation and Background
 The academic landscape is rapidly changing in favour of research projects involving large collaborations and interdisciplinary teams. 
 This makes decisions concerning academic authorship hard to navigate and especially the need to consider different types of contributions fairly. 

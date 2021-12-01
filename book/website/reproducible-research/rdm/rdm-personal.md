@@ -1,9 +1,10 @@
 (rr-rdm-personal)=
+# Personal data management
 
-## Personal data management
-This section provides a general overview of things to consider when working with personal data. For a more practical overview on tools and practises that facilitate reproducibility, please see the {ref}`Sensitive Data Projects<pd-sdp>` chapter.
+This section provides a general overview of things to consider when working with personal data. 
+For a more practical overview on tools and practises that facilitate reproducibility, please see the `Sensitive Data` chapter under the {ref}`Guide for Project Design<pd>`.
 
-### Personal data
+## Personal data
 
 Personal data is information about **living people** who can be identified using the data that you are processing, either directly or indirectly (for example, a person's name, address or other unique identifier such as their Social Security number). 
 "[Data related to the deceased are not considered personal data in most cases under the GDPR](https://gdpr.eu/eu-gdpr-personal-data/)."
