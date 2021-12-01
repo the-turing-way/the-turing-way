@@ -2938,6 +2938,15 @@
         "content",
         "ideas"
       ]
+    },
+    {
+      "login": "ubikcan",
+      "name": "Jeremy Crampton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23242626?v=4",
+      "profile": "https://github.com/ubikcan",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
