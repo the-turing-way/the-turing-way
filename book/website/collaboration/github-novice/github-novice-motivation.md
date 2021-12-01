@@ -1,7 +1,7 @@
 (cl-github-novice-motivation)=
 # Motivation for Using GitHub
 
-GitHub is an online web interface for collaborating, developing, sharing and using {ref}`git<rr-vcs-git)>` ({ref}`version control<rr-vcs>`).
+GitHub is an online web interface for collaborating, developing, sharing and using {ref}`git<rr-vcs-git>` ({ref}`version control<rr-vcs>`).
 It’s designed to be easily accessible (you do not need to be a coder!) to share your work and (if you want) allow other people to test, modify, remix and reuse it.
 It also provides space and tools for collaboration and maintenance.
 
