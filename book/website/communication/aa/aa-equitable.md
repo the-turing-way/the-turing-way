@@ -22,7 +22,7 @@ This is a collective of authors and all members of the consortium are considered
 
 Another recent development in the use of the CRediT taxonomy is the idea of providing a cover page to an article much like seen on film-credits. This recent [pre-print by the Living with Machines Project](https://livingwithmachines.ac.uk/highlighting-authors-contributions-and-interdisciplinary-collaborations-in-living-with-machines/) has taken this approach. 
 The authors remark that this model of authorship relies on all authors openly acknowledging the importance of everyone's contributions.
-The Living with Machines project is discussed in the {ref}`personal story about authorship in interdisciplinary projects<aa-interdisciplinary>` at the end of this chapter.
+The Living with Machines project is discussed in the {ref}`personal story about authorship in interdisciplinary projects<aa-stories-interdisciplinary>` at the end of this chapter.
 
 The use of ORCID is another way to ensure equitable authorship. ORCID is a persistent digital identifier for researchers. 
 It means that even if a researchers name changes in some way, such as not using exactly the same name on each paper or a change of surname, their publications will still be linked back to them. 
