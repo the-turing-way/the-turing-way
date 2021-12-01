@@ -59,22 +59,27 @@ See the blogpost [Designing Scientific Figures for Colour Blindness](https://www
 There are many ways to get in touch with _The Turing Way_ team!
 
 - GitHub [issues](https://github.com/alan-turing-institute/the-turing-way/issues) and [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls)
-  - Join a discussion, collaborate one an ongoing task and exchange your thoughts with others.
+  - Join a discussion, collaborate on an ongoing task and exchange your thoughts with others.
   - Can't find your idea being discussed anywhere?
     [Open a new issue](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose)! (See our [Where to start: issues](#where-to-start-issues) section below.)
-- [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way)
-  - We'd love for you to swing by to say hello, if you are new to the project and have any quick question.
 - [Slack Channel](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
   - For structured discussion and sustained engagement with the community members. 
-  - We will also provide notification on upcoming events and share useful resources on Slack.
+  - We will also provide notifications on upcoming events and share useful resources on Slack.
+  - You can also ping us on [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) (open source option).
+- Contact the Project Lead of _The Turing Way_ project - Kirstie Whitaker - by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk) and the co-lead Malvika Sharan - by email at [masharan@turing.ac.uk](mailto:masharan@turing.ac.uk).
+
+### Receiving Updates
+
 - [@turingway](https://twitter.com/turingway) on Twitter
     - Follow us for regular updates
-- [Our mailing list](https://tinyletter.com/TuringWay) 
-    - Receive monthly project updates in a newsletter
-- Attend a [Collaboration Cafe](https://hackmd.io/@turingway/collaboration-cafe): This is a 2 hour long co-working calls. Read more about it in _The Turing Way_: https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html
+- [Our mailing list](https://tinyletter.com/TuringWay): Receive monthly project updates in a newsletter
+- [Fireside Chat Series](https://hackmd.io/@turingway/fireside-chats): Every month, The Turing Way Fireside chat will feature experts, champions and their projects from across different international communities in reproducibility, open research, ethics, collaboration and everything in between. This will be an incredible opportunity for catalysing cross-community collaboration and knowledge sharing.
 
-- Contact the Project Lead of _The Turing Way_ project - Kirstie Whitaker - by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
-- Contact the Community Manager of _The Turing Way_ project - Malvika Sharan - by email at [masharan@turing.ac.uk](mailto:masharan@turing.ac.uk).
+### Coworking and Real-Time Collaboration
+
+- [Bimonthly Collaboration Cafe](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html): Every first and third Wednesday (15:00 - 17:00 London time)/. This is an **online collaboration and coworking event** that engage anyone interested in learning and discussing research best practices and sharing them on The Turing Way book: https://the-turing-way.netlify.com*. Shared notes with joining links: https://hackmd.io/@turingway/collaboration-cafe.
+- [Weekly Coworking Calls](https://the-turing-way.netlify.app/community-handbook/coworking.html): Every Monday (11:00 - 12:00 London time)/. This is a synchronous collaborative space to either discuss your ideas or quietly work in an accountable space with _The Turing Way_ team members. Shared notes with joining links: https://hackmd.io/@turingway/coworking-call.
+- [Book Dash Events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) take place 1-2 times a year for a more engaged sprint for collaboration, networking and development either in person 1-2 days, or online for a week for flexible participation. Announcements are made via mailing list, Twitter, Slack and presentations.
 
 ## Contributing through GitHub
 
