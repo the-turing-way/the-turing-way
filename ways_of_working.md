@@ -16,6 +16,7 @@ It further outlines expectations and responsibilities with regards to working on
 | May Yong | Research Associate | 40% | Oct 2021 - Dec 2021 | - |
 | Lydia France | Research Associate | 50% | Oct 2021 - Dec 2021 | - |
 | Iain Stanson | Research Associate | 30% | Nov 2021 - Dec 2021 | - |
+| Paul Owoicho | Google Season of Docs - Technical Writer | 100% | Sep 2020 - Dec 2020 | - |
 | Rachael Ainsworth | Research Associate | 100% | Apr 2019 - May 2019 | - |
 | Rosie Higman | Research Data Librarian | 20% | Jan 2019 - Mar 2019 | - |
 | Becky Arnold |  | 100% | Dec 2018 - Mar 2019 | - |
