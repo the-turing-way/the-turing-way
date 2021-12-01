@@ -27,4 +27,4 @@ In this guide, we welcome contributions in developing guidance on following (but
 * Defining explicit expectations
 * Participatory co-creation
 
-Check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) to get involved.
+Check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) to get involved.

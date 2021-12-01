@@ -50,7 +50,7 @@ You can create your own CoC by using the following process:
 
 It is recommended to select and adapt a well established Code of Conduct.
 Many openly developed projects have a Code of Conduct in place that often is openly licensed and can be re-used and adapted for your own project.
-The [Turing Way Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md) is one example of a Code of Conduct built on various existing ones and can be adapted further.
+The [Turing Way Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md) is one example of a Code of Conduct built on various existing ones and can be adapted further.
 
 You can also consult the following references and templates to get started on a code of conduct for your project.
 - [opensource.guide for CoC](http://opensource.guide/code-of-conduct/)

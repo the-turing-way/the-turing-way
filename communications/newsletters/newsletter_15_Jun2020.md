@@ -106,7 +106,7 @@ In her words:
 
 Tim Head from the [BinderHub project](https://binderhub.readthedocs.io/) has written a tutorial called [Zero to Binder](https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md) to help learners get started with using BinderHub (the software behind mybinder.org).
 This tutorial provides a step-by-step guide with examples from Python scripts.
-Recently, our core community member Sarah Gibson has co-written versions of this tutorial with Anna Krystalli called [From Zero to Binder in R!](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-r.md), and with Oliver Strickson and Alex Bird called [Zero to Binder in Julia!](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-julia.md) to support new learners who are more comfortable with using R and Julia respectively.
+Recently, our core community member Sarah Gibson has co-written versions of this tutorial with Anna Krystalli called [From Zero to Binder in R!](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-r.md), and with Oliver Strickson and Alex Bird called [Zero to Binder in Julia!](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-julia.md) to support new learners who are more comfortable with using R and Julia respectively.
 
 ## Relevant resources
 
@@ -143,7 +143,7 @@ You can catch up on this session by reading [this twitter thread](https://twitte
 
 ### Binder workshop
 
-On 11 June 2020, _The Turing Way_ team members Kirstie Whitaker, Sarah Gibson and Malvika Sharan delivered a [Binder workshop for research reproducibility](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder) in collaboration with [UKDRI](https://ukdri.ac.uk/).
+On 11 June 2020, _The Turing Way_ team members Kirstie Whitaker, Sarah Gibson and Malvika Sharan delivered a [Binder workshop for research reproducibility](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/boost-research-reproducibility-binder) in collaboration with [UKDRI](https://ukdri.ac.uk/).
 Attended by 25 participants, this half-day workshop introduced attendees to _The Turing Way_ project and discussed the importance of reproducibility when sharing codes online.
 The second part of the workshop was a hands-on session for using Binderhub on a test GitHub repository, which was followed by a group exercise to work on real case examples from their own research.
 

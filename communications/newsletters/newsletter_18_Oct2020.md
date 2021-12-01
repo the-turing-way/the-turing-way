@@ -50,7 +50,7 @@ Bookmark this document, and sign up to join one or multiple of these sessions th
 *[The Turing Way](https://twitter.com/turingway/status/1316750745228713984?s=20) announces the newly translated README files in Dutch, Italian, Spanish and Portuguese*
 
 Thanks to our Hacktoberfest contributors for translating and reviewing _The Turing Way_ README.md file in multiple languages.
-The file has been translated into **Dutch** (by Esther Plomp and Stefan Janssen), **Italian** (by Angelo Varlotta and Luca Bertinetto), **Spanish** (by Camila Rangel-Smith, Reina Camacho Toro and Laura Acion) and **Portuguese** (by Romero Silva and Gustavo Becelli do Nacimento), which are available in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/README-translated).
+The file has been translated into **Dutch** (by Esther Plomp and Stefan Janssen), **Italian** (by Angelo Varlotta and Luca Bertinetto), **Spanish** (by Camila Rangel-Smith, Reina Camacho Toro and Laura Acion) and **Portuguese** (by Romero Silva and Gustavo Becelli do Nacimento), which are available in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/main/README-translated).
 Translation in more languages including **French, German, Indonesian and Turkish** is ongoing with the help of different contributors (see [GitHub issue #1335](https://github.com/alan-turing-institute/the-turing-way/issues/1335)). 
 
 ### Tutorial on creating Jupyter Book with _The Turing Way_
@@ -58,7 +58,7 @@ Translation in more languages including **French, German, Indonesian and Turkish
 Malvika Sharan, Martina Vilas and Sarah Gibson have put together a tutorial on creating Jupyter Book using chapters from _The Turing Way_.
 This tutorial was developed and launched at the JupyterCon 2020, and is available on [GitHub](https://github.com/jupytercon/2020-jupyterbook-with-turing-way) under a CC-BY 4.0 and MIT license.
 Through a step-by-step guide in 7 modules, you will learn about the collaborative nature of both projects and create your own Jupyter Book using files and chapters from The Turing Way as examples.
-These modules are written in [Jupyter Notebooks](https://github.com/jupytercon/2020-jupyterbook-with-turing-way/blob/master/notebooks), which are paired with introductory videos available in this [YouTube playlist](https://www.youtube.com/playlist?list=PLBxcQEfGu3Dmdo6oKg6o9V7Q_e7WSX-vu).
+These modules are written in [Jupyter Notebooks](https://github.com/jupytercon/2020-jupyterbook-with-turing-way/blob/main/notebooks), which are paired with introductory videos available in this [YouTube playlist](https://www.youtube.com/playlist?list=PLBxcQEfGu3Dmdo6oKg6o9V7Q_e7WSX-vu).
 Thanks to Chris Holdgraf and Kirstie Whitaker for supporting this project and contributing introductory videos for the tutorial.
 Check out this tutorial, and share your feedback with us so that we can improve and further develop this resource.
  

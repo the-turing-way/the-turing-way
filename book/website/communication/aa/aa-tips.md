@@ -1,7 +1,7 @@
-(communication-aa-tips)=
-# Tips on how to get authorship right
+(cm-aa-tips)=
+# Tips for Getting Authorship Right
 
-(communication-aa-tips-who)=
+(cm-aa-tips-who)=
 ## Establish who wants to be an author
 
 It is worth considering that not everyone on the same research project or in the same community will have the same motivation when it comes to authorship. 
@@ -17,7 +17,7 @@ Other team members, probably more established academics who already have a subst
 **Low motivation** 
 Team members that are not interested in a purely academic career but still are an integral part of the team and have made substantial contributions to the project, such as research engineers, may not be interested in authorship at all.  
 
-(communication-aa-tips-culture)=
+(cm-aa-tips-culture)=
 ## Encourage a culture of ethical and equitable authorship
 There may be unethical practices that exist in your discipline, or even in your institution, but this does not mean that you have to follow them. 
 You can implement a more ethical and equitable authorship approach in your own research.
@@ -26,7 +26,7 @@ You can implement a more ethical and equitable authorship approach in your own r
 * If you know what journal you are going to target for your publications, then find out about their authorship policy. 
 * Read about ethical authorship such as on the [Committee on Publication Ethics (COPE) website](https://publicationethics.org/).
 
-(communication-aa-tips-plan)=
+(cm-aa-tips-plan)=
 ## Plan an authorship strategy early on in a project
 The earlier that authorship is discussed, the more awareness project members will have. 
 This will hopefully lead to less conflict about authorship when it comes to the paper writing stage of the project. 
@@ -49,14 +49,14 @@ It is not good practice to wait until you have finished writing a paper to have 
 
 * Record a time for the policy to be reviewed, who will do it and what will happen in this review. 
 
-(communication-aa-tips-onboarding)=
+(cm-aa-tips-onboarding)=
 ## Make the authorship policy and agreement part of onboarding
 It is likely that you will have new members join your project at different stages and it is important that you make the authorship policy known to them during onboarding.
 
 * Make sure that onboarding during the project includes documentation explaining your authorship approach and a signed agreement to the project policy. 
     * This might be a choice of whether to be an author with this policy or to opt out of it all together.
 
-(communication-aa-tips-revisit)=
+(cm-aa-tips-revisit)=
 ## Revisit the authorship policy before you start to write each article
 Each article from a project may not have the same authorship due to the specialist nature of certain types of publications and different aspects of a project. 
 
