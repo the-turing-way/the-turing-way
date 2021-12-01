@@ -1898,7 +1898,8 @@
       "avatar_url": "https://avatars3.githubusercontent.com/u/44666630?v=4",
       "profile": "https://github.com/Karvovskaya",
       "contributions": [
-        "blog"
+        "blog",
+        "content"
       ]
     },
     {
@@ -1980,7 +1981,8 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/2507232?v=4",
       "profile": "https://reshamas.github.io",
       "contributions": [
-        "bug"
+        "bug",
+        "content"
       ]
     },
     {
@@ -2730,7 +2732,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/13321552?v=4",
       "profile": "https://github.com/acocac",
       "contributions": [
-        "content"
+        "content",
+        "ideas"
       ]
     },
     {
@@ -2858,6 +2861,82 @@
       "profile": "https://github.com/aldenc",
       "contributions": [
         "bug"
+      ]
+    },
+    {
+      "login": "aseyq",
+      "name": "Ali Seyhun Saral",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82848414?v=4",
+      "profile": "http://www.saral.it",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "vhellon",
+      "name": "vhellon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93144591?v=4",
+      "profile": "https://github.com/vhellon",
+      "contributions": [
+        "review",
+        "content"
+      ]
+    },
+    {
+      "login": "fdiblen",
+      "name": "Faruk D.",
+      "avatar_url": "https://avatars.githubusercontent.com/u/144492?v=4",
+      "profile": "https://github.com/fdiblen",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "bantya",
+      "name": "Rahul Thakare",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16685565?v=4",
+      "profile": "https://github.com/bantya",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "melibleq",
+      "name": "Melissa Black",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16723182?v=4",
+      "profile": "https://github.com/melibleq",
+      "contributions": [
+        "review",
+        "content"
+      ]
+    },
+    {
+      "login": "MarcosEllys",
+      "name": "Marcos Ellys Rocha Honorato",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6751242?v=4",
+      "profile": "https://marcosellys.com",
+      "contributions": [
+        "translation",
+        "review"
+      ]
+    },
+    {
+      "login": "rafaelaqueirozg",
+      "name": "Rafaela Queiroz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42815135?v=4",
+      "profile": "https://www.linkedin.com/in/rafaelaqueirozg/",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "AndreaSanchezTapia",
+      "name": "Andrea Sánchez-Tapia (she/her)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4183062?v=4",
+      "profile": "https://andreasancheztapia.netlify.app/",
+      "contributions": [
+        "content",
+        "ideas"
       ]
     }
   ],

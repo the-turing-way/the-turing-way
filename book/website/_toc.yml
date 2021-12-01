@@ -334,6 +334,10 @@ parts:
         file: communication/citable/citable-steps
       - title: Citing Research Objects
         file: communication/citable/citable-cite
+      - title: Software citation with CITATION.cff
+        file: communication/citable/citable-cff
+      - title: Create a CITATION.cff using CFFinit
+        file: communication/citable/citable-cffinit
       - title: Linking Research Objects
         file: communication/citable/citable-linking
       - title: ORCID to Collect your Research Objects
@@ -357,7 +361,7 @@ parts:
       - title: Discipline Specific Authorship Traditions
         file: communication/aa/traditions
       - title: Large and Equitable Authorships
-        file: communication/aa/equitable  
+        file: communication/aa/equitable
       - title: Tips on How to Get Authorship Right
         file: communication/aa/tips
       - title: Personal Stories - Authorship on Interdisciplinary Projects
@@ -418,6 +422,17 @@ parts:
       sections:
       - title: Personal Stories of Leadership
         file: collaboration/leadership/leadership-stories
+    - title: Research Infrastructure Roles
+      file: collaboration/research-infrastructure-roles
+      sections:
+      - title: Community Managers Overview
+        file: collaboration/research-infrastructure-roles/community-manager
+      - title: Data Stewards Overview
+        file: collaboration/research-infrastructure-roles/data-steward
+      - title: Data Steward Case Study
+        file: collaboration/research-infrastructure-roles/data-steward/data-steward-casestudy
+      - title: Research Software Engineers Overview
+        file: collaboration/research-infrastructure-roles/research-software-engineer
     - title: Remote Collaboration
       file: collaboration/remote-collab
       sections:
@@ -453,6 +468,7 @@ parts:
       - title: Nudging for a Better Default
         file: collaboration/shared-ownership/shared-ownership-defaults
 
+
   # ===== Guide for Ethical Research ========================================
 
   - file: ethical-research/ethical-research
@@ -485,6 +501,17 @@ parts:
         file: ethical-research/activism/activism-case-study-google.md
     - title: Internal Policy Advocacy
       file: ethical-research/internal-policy
+    - title: Self-Reflection
+      file: ethical-research/self-reflection
+      sections: 
+      - title: Identity and Positionality
+        file: ethical-research/self-reflection/sr-positionality
+      - title: Power and Privilege
+        file: ethical-research/self-reflection/sr-power
+      - title: Self-Reflection Prompts
+        file: ethical-research/self-reflection/sr-prompts
+      - title: Resources
+        file: ethical-research/self-reflection/sr-resources
 
   # ===== Community Handbook ========================================
 
