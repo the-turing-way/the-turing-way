@@ -1,7 +1,7 @@
 (rr-rdm-metadata)=
 # Documentation and Metadata
 
-Having data available is of no use if it cannot be understood.
+Having data available is of no use if it cannot be understood. Without metadata to provide provenance and context, the data can't be used effectively.
 For example, a table of numbers is useless if no headings describe what the columns/rows contain.
 Therefore you should ensure that open datasets include consistent metadata, that is information about the data so that the data is fully described.
 This requires that all documentation accompanying data is written in clear, plain language, and that data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.
