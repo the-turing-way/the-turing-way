@@ -154,14 +154,14 @@ It was easy to get started, but our environment is barebones - let's add a **dep
    ```
 
 3) Check for typos! Then commit to `main`.
-4) Visit **<https://mybinder.org/v2/gh/your-username/my-first-binder/HEAD>** again in a new tab
+4) Visit **https://mybinder.org/v2/gh/YOUR-USERNAME/my-first-binder/HEAD** again in a new tab
 ````
 
 ````{tabbed} R
 1) In your repo, create a file called `install.R`
 2) Add a line that says: `install.packages("readr")`
 3) Check for typos! Then commit to the `main` branch.
-4) Visit **<https://mybinder.org/v2/gh/your-username/my-first-binder/HEAD>** again in a new tab
+4) Visit **https://mybinder.org/v2/gh/YOUR-USERNAME/my-first-binder/HEAD** again in a new tab
 
 ```{note}
 In R you can create an `install.R` file and automatically add the code to install all dependencies in your project using `holepunch::write_install()`.
@@ -212,7 +212,7 @@ In the above example, the MRAN snapshot dated `r-2020-05-26` is used and the ver
 For the workflow to work correctly, please ensure you do not supply a date earlier than this example date.
 
 This provides some rudimentary package versioning for R users but is not as robust as pinning versions in a `requirements.txt` in Python.
-For more robust and specific version pinning in R, have a look at package [`renv`](https://rstudio.github.io/renv/).
+For more robust and specific version pinning in R, have a look at the [`renv`](https://rstudio.github.io/renv/) package.
 ````
 
 (z2b-step-5)=
@@ -279,7 +279,7 @@ Pushing changes back to the GitHub repo through the container is not possible wi
 
 Binder is all about sharing your work easily and there are two ways to do it:
 
-- Share the **https://mybinder.org/v2/gh/YOU-USERNAME/my-first-binder/HEAD** URL directly
+- Share the **https://mybinder.org/v2/gh/YOUR-USERNAME/my-first-binder/HEAD** URL directly
 - Visit **<https://mybinder.org>**, type in the URL of your repo and copy the Markdown or ReStructured Text snippet into your `README.md` file.
   This snippet will render a badge that people can click, which looks like this: ![Binder](https://mybinder.org/badge_logo.svg)
 
@@ -517,3 +517,10 @@ Now you've binderized (bound?) this demo repo, it's time to binderize the exampl
   - With `wget`: **<https://github.com/binder-examples/getting-data>**
   - With `quilt`: **<https://github.com/binder-examples/data-quilt>**
   - From remote storage: **<https://github.com/binder-examples/remote_storage>**
+
+**Advanced usage patterns:**
+
+- Separating content from envorinment with `nbgitpuller` to reduced rebuilds:
+  - **<https://discourse.jupyter.org/t/tip-speed-up-binder-launches-by-pulling-github-content-in-a-binder-link-with-nbgitpuller/922>**
+- Tips for reducing the start-up time of your repository:
+  - **<https://discourse.jupyter.org/t/how-to-reduce-mybinder-org-repository-startup-time/4956>**
