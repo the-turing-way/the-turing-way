@@ -1,10 +1,22 @@
 (binder)=
 # Binder
 
-In this chapter, we will discuss Project Binder as a means to transparently and interactively share research.
+In this chapter, we will discuss Project Binder and mybinder.org as a means to transparently and interactively share research.
 
 (binder-share)=
 ## Why should you share your work?
+
+Motivation for sharing research outputs is more deeply explored in the {ref}`rr-open` chapter.
+
+In short, sharing your research code can help provide context to the results you present by illustrating the process you went through to reach them.
+By sharing code, we also avoid reinventing the wheel in order to make progress on a research topic since the previous tools are available to be built on top of.
+
+However, the biggest barrier to sharing code is often installing packages and setting up the computational environment, as we will see in the next section.
+By sharing your work via platform such as mybinder.org:
+
+- Installing software packages is no longer a challenge
+- People using different operating systems have similar experiences since the computation is happing on the platform, not their local machine
+- Your work can be distributed to a broader audience since the technical barrier has been lowered
 
 (binder-what)=
 ## What is Project Binder?
