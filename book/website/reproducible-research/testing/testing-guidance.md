@@ -1,7 +1,8 @@
-<a name="General_guidance_and_good_practice_for_testing"></a>
+(rr-testing-guidance)=
 # General guidance and good practice for testing
 
-There are several {ref}`different kinds`<rr-testing-types-of-testing> of testing which each have best practice specific to them. Nevertheless, there is some general guidance that applies to all of them, which will be outlined here.
+There are several different kinds of testing which each have best practice specific to them (see {ref}`rr-testing-types-of-testing`). 
+Nevertheless, there is some general guidance that applies to all of them, which will be outlined here.
 
 (rr-testing-write-tests)=
 ## Write Tests - Any Tests!
