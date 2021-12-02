@@ -404,7 +404,7 @@ using DataFrames
 using CSV
 using Plots
 
-data = CSV.read("gapminder.csv")
+data = CSV.read("gapminder.csv", DataFrame)
 
 # Extract the row corresponding to Australia
 aus_gdp = data[data[:, :country] .== "Australia", :]
