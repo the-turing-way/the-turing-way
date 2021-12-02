@@ -63,7 +63,9 @@ You will need:
    - Make sure the repository is **public**, _not private_!
    - Don't forget to initialise with a README!
 2) Create a file called `hello.R` via the web interface with `print("Hello from Binder!")` on the first line and commit to the `main` branch.
-3) Create a file called `runtime.txt` with `r-3.6-YYYY-MM-DD` on the first line, where `YYYY-MM-DD` is today's date (eg `r-2020-05-26`). Commit to the `main` branch.
+3) Create a file called `runtime.txt` with `r-3.6-2020-05-26` on the first line.
+   This date represents the snapshot of [CRAN](https://cran.r-project.org/) hosted on [MRAN](https://mran.microsoft.com/) we will use.
+   Commit this file to the `main` branch.
 
    ```{note}
    In R you can use `holepunch::write_runtime()` to create a `runtime.txt` in the `.binder/` directory, configured with today's date.
@@ -92,7 +94,7 @@ If accessing private repositories is a feature you/your team need, we advise tha
 4) Copy it, open a new browser tab and visit that URL.
    - You will see a "spinner" as Binder launches the repo.
 
-If everything ran smoothly, you'll see a Jupyter Notebook interface.
+If everything ran smoothly, you'll see a JupyterLab interface.
 
 (z2b-background-1)=
 ### What's happening in the background? - Part 1
@@ -111,25 +113,22 @@ While you wait, BinderHub (the backend of Binder) is:
 🚦🚦🚦
 
 ````{tabbed} Python
-1. In the top right corner, click "New" :arrow_right: "Terminal"
-2. In the new tab with the terminal, type `python hello.py` and press return
-
-`Hello from Binder!` should be printed to the terminal.
+1. From the launch panel, select "Terminal"
+2. In the new terminal window, type `python hello.py` and press return
 ````
 
 ````{tabbed} Julia
-1. In the top right corner, click "New" :arrow_right: "Terminal"
-2. In the new tab with the terminal, type `julia hello.jl` and press return
-
-`Hello from Binder!` should be printed to the terminal.
+1. From the launch panel, select "Terminal"
+2. In the new terminal window, type `julia hello.jl` and press return
 ````
 
 ````{tabbed} R
-1. In the top right corner, click "New" :arrow_right: "Rstudio"
-2. In the console (the left-side panel) in Rstudio, type `source("hello.R")` and press return
+1. From the launch panel, select "Terminal"
+2. In the new terminal window, type `R` and then return to begin the R REPL.
+   Then type `source("hello.R")` and press return.
+````
 
 `Hello from Binder!` should be printed to the terminal.
-````
 
 (z2b-step-4)=
 ## 4. Pinning Dependencies
@@ -222,7 +221,7 @@ For more robust and specific version pinning in R, have a look at package [`renv
 🚦🚦🚦
 
 ````{tabbed} Python
-1) In the top right corner, click "New" :arrow_right: "Python 3" to open a new notebook
+1) From the launch panel, select "Python 3" from the Notebook section to open a new notebook
 2) Type the following into a new cell:
 
    ```python
@@ -240,7 +239,7 @@ For more robust and specific version pinning in R, have a look at package [`renv
 ````
 
 ````{tabbed} Julia
-1) In the top right corner, click "New" :arrow_right: "Julia" to open a new notebook
+1) From the launch panel, select "Julia" from the Notebook section to open a new Julia notebook
 2) Type the following into a new cell:
 
    ```julia
@@ -253,7 +252,7 @@ For more robust and specific version pinning in R, have a look at package [`renv
 ````
 
 ````{tabbed} R
-1) In the top right corner, click "New" :arrow_right: "R" (under _Notebook_) to open a new R notebook
+1) From the launch panel, select "R" from the Notebook section to open a new R notebook
 2) Type the following into a new cell:
 
    ```r
@@ -360,7 +359,7 @@ However, that is not to say that they are the _only_ groups of people who should
 
 Once the Binder has launched, you should see a new file has appeared that was not part of your repo when you clicked the badge.
 
-Now visualise the data by creating a new notebook ("New" :arrow_right: "Python 3") and run the following code in a cell.
+Now visualise the data by creating a new notebook (selecting "Python 3" from the Notebook section) and run the following code in a cell.
 
 ```python
 %matplotlib inline
@@ -398,7 +397,7 @@ See this [Software Carpentry lesson](https://swcarpentry.github.io/python-novice
 
 Once the Binder has launched, you should see a new file has appeared that was not part of your repo when you clicked the badge.
 
-Now visualise the data by creating a new notebook ("New" :arrow_right: "Julia") and run the following code in a cell.
+Now visualise the data by creating a new notebook (selecting "Julia" from the Notebook section) and run the following code in a cell.
 
 ```julia
 using DataFrames
@@ -437,7 +436,7 @@ plot(years, aus_gdp)
 
 Once the Binder has launched, you should see a new file has appeared that was not part of your repo when you clicked the badge.
 
-Now visualise the data by creating a new notebook ("New" :arrow_right: "R") and running the following code in a cell.
+Now visualise the data by creating a new notebook (selecting "R" from the Notebook section) and running the following code in a cell.
 
 ```r
 library(readr)
@@ -458,23 +457,40 @@ data[data$country == "Australia", ] %>%
 ````
 
 (z2b-beyond-notebooks)=
-## Beyond Notebooks...
+## Changing the Interface
 
-**JupyterLab** is installed into your containerized repo by default.
-You can access the environment by changing the URL you visit to:
+Throughout this tutorial, we have been using the JupyterLab interface.
+However, this is not the only interface available on mybinder.org, the Classic Notebook view and RStudio are available too.
+(An R environment needs to be installed for RStudio to be available.)
 
-> **https://mybinder.org/v2/gh/YOUR-USERNAME/my-first-binder/HEAD?urlpath=lab**
+You can access the different interfaces in different ways.
 
-Here you can access:
+### from inside a running Binder
 
-- Notebooks
-- IPython consoles
-- Terminals
-- A text editor
+Here is the structure of the URL inside a running Binder instance running JupyterLab:
 
-If you use R, you can also open **RStudio** using `?urlpath=rstudio`.
+> **https://<some-prefix>.mybinder.org/user/<a composite of your username, your repo name and a hash>/lab**
 
-You can also set this using the mybinder.org form (instead of editing the URL directly) as demonstrated in the below gif.
+You can change the interface from JupyterLab to either the Classic Notebook or RStudio by changing the `/lab` part of the URL to:
+
+- **Classic Notebook:** `/tree`
+- **RStudio:** `/rstudio`
+
+### by changing the mybinder.org launch link
+
+Here is the launch link you have been using throughout this tutorial:
+
+> **https://mybinder.org/v2/gh/YOUR-USERNAME/my-first-binder/HEAD**
+
+You can access each interface by appending once of the following to the end of you URL:
+
+- **Jupyter Notebook:** `?urlpath=tree`
+- **JupyterLab:** `?urlpath=lab`
+- **RStudio:** `?urlpath=rstudio`
+
+### by using the mybinder.org form
+
+You can also set the interface when constructing your launch link on the mybinder.org website (instead of editing the URL directly) as demonstrated in the below gif.
 
 ![](https://user-images.githubusercontent.com/1448859/53651127-4dabe900-3c46-11e9-8684-2cfde840d4ce.gif)
 
