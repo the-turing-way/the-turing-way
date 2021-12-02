@@ -98,6 +98,8 @@ So, when is it appropriate to use mybinder.org?
 (binder-faqs)=
 ## FAQs
 
+Many common questions are answered on the [About mybinder.org page](https://mybinder.readthedocs.io/en/latest/about/about.html).
+
 ### How do I save my changes back to my repository?
 
 Unfortunately, you can't.
