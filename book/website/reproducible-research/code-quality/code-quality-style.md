@@ -33,6 +33,7 @@ Note that editors often support using these tools directly from the editing envi
 | Java       | [Google Java format](https://github.com/google/google-java-format), [JIndent](http://www.jindent.com/)|
 | PHP        | [phpStylist](http://sourceforge.net/projects/phpstylist/)|
 | Perl       | [PerlTidy](http://perltidy.sourceforge.net/)|
+| R          | [formatR](https://yihui.org/formatr/)|
 | Shell/Bash | [ShellIndent](http://www.bolthole.com/AWK.html)|
 | CSS        | [CSSTidy](http://csstidy.sourceforge.net/)|
 | HTML       | [Tidy](http://tidy.sourceforge.net/)|
