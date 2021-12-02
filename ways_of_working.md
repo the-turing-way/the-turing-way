@@ -63,9 +63,8 @@ You can watch talks, presentations and recordings from different events on our [
 Don't be afraid to nudge if they've not replied after a few days! :sparkling_heart:
 
 ### Pull requests
-- Pull requests should be reviewed on time.
-- If we are unable to review due to specific technical requirements or lack of time (or any reason), please assign a reviewer to the Pull Request for review.
-- When we 
+- Pull requests should be reviewed on time. If we are unable to review due to specific technical requirements or lack of time (or any reason), please assign a reviewer to the Pull Request for review.
+- Whenever possible, post about the issues and Pull Requests in public forums (newsletter, Slack, twitter) to facilitate participation from new members in the community
 - When reviewing a pull request, please do not use the "request a change" function but comment on the change or make a pull request to the file that should be merged.
 
 
