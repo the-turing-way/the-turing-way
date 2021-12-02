@@ -492,7 +492,13 @@ You can access each interface by appending once of the following to the end of y
 
 You can also set the interface when constructing your launch link on the mybinder.org website (instead of editing the URL directly) as demonstrated in the below gif.
 
-![](https://user-images.githubusercontent.com/1448859/53651127-4dabe900-3c46-11e9-8684-2cfde840d4ce.gif)
+```{figure} https://user-images.githubusercontent.com/1448859/53651127-4dabe900-3c46-11e9-8684-2cfde840d4ce.gif
+---
+name: changing_interfaces
+alt: A gif demonstrating how to change the interface of a Binder on the mybinder.org website
+---
+Use the "URL to open" option on the mybinder.org site to select your interface
+```
 
 (z2b-over-to-you)=
 ## Now over to you!
