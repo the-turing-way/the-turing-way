@@ -43,7 +43,7 @@ There is a **free and public** version of this interface running at [**mybinder.
 
 The cartoon below, by Juliette Taka, demonstrates one workflow a scientist using Binder might adopt.
 
-```{figure} ../figures/binder_comic.png
+```{figure} ../figures/binder-comic.png
 ---
 name: binder_comic
 alt: An illustration of the steps a person can take to create a binderized project.
