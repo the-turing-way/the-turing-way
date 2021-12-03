@@ -13,13 +13,15 @@ It further outlines expectations and responsibilities with regard to working on 
 | Arron Lacey | Community Manager | 10% | Nov 2021 - Present | - |
 | Achintya Rao | Community Manager | 10% | Nov 2021 - Present | - |
 | Vicky Hellon | Community Manager | 10% | Nov 2021 - Present | - |
+| Aida Mehonic | Research Application Manager | 10% | 2021 - Present | - |
+| Alden Conner | Research Application Manager | 10% | 2021 - Present | - |
+| Jennifer Ding | Research Application Manager | 10% | 2021 - Present | - |
 | Carlos Martinez-Ortiz | Netherlands eScience Center - RSE community manager | in-kind contribution | Feb 2020 - Present | - |
 | Esther Plomp | Faculty of Applied Sciences at Delft University of Technology - Data Steward | in-kind contribution | Feb 2020 - Present | - |
 | Sarah Gibson | 2i2c Open Source Infrastructure Engineer/JupyterHub Community Development | in-kind contribution | - | Prevously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
 | May Yong | Research Software Engineer | 40% | Oct 2021 - Dec 2021 | - |
 | Lydia France | Research Software Engineer | 50% | Oct 2021 - Dec 2021 | - |
 | Iain Stanson | Research Software Engineer | 30% | Nov 2021 - Dec 2021 | - |
-| Anna Krystalli | The Turing Way Code of Conduct report contact (ombudsperson) | - | Dec 2018 - Mar 2019 | Prevously: Research Software Engineer (10%) |
 
 ## Previous Project Members
 
@@ -35,6 +37,7 @@ You can request contact information through the project members above, or tag th
 | Louise Bowler | Research Data Scientist | 40% | Nov 2018 - Mar 2019 |
 | Patricia Herterich | Data Librarian | 40% | Nov 2018 - Mar 2019 |
 | Alex Morley | Mozilla Fellow | in-kind contribution |  Nov 2018 - June 2019  |
+| Anna Krystalli | Research Software Engineer | 10% | Dec 2018 - Mar 2019 |
 | Martin O'Reilly | Principal Research Software Engineer | 10% | Nov 2018 - Mar 2019 |
 
 ## Commitments
