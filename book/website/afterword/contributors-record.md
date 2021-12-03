@@ -27,7 +27,7 @@ See this entry as an example by Kirstie Whitaker, the project lead:
 
 ### Kirstie Whitaker
 
-* Role: **Project lead**
+* Role: Project Member - Lead Investigator
 * GitHub id: [kirstiejane](http://github.com/kirstiejane)
 * ORCID: [0000-0001-8498-4059](https://orcid.org/0000-0001-8498-4059)
 * Short bio:
@@ -53,7 +53,9 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Achintya Rao
 
-* Role: Book Dash 2021 Participant
+* Role: 
+  * Project Member (2021-Present)
+  * Book Dash Participant 2021
 * GitHub id: [RaoOfPhysics](http://github.com/RaoOfPhysics)
 * ORCID: [0000-0002-1628-2618](https://orcid.org/0000-0002-1628-2618)
 * Short bio:
@@ -71,8 +73,8 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 ### Alejandro Coca
 
 * Role: 
-    * The Turing Way Translation Contributor
-    * Book Dash 2021 participant
+    * Core Contributor - Translation Contributor (2021-Present)
+    * Book Dash Participant 2021
 * GitHub id: [acocac](https://github.com/acocac)
 * ORCID: [0000-0002-9264-1539](https://orcid.org/0000-0002-9264-1539)
 * Short bio:
@@ -89,7 +91,9 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Alexander Morley
 
-* Role: Infrastructure Maintainer (2018 - 2019)
+* Role: 
+  * Core Contributor - Infrastructure Maintainer (2018 - 2019)
+  * Previous Project Member
 * GitHub id: [alexmorley](http://github.com/alexmorley)
 
 * Short bio:
@@ -107,7 +111,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Andrea Sanchez Tapia
 
-* Role: Book Dash 2021 participant
+* Role: Book Dash Participant 2021
 * GitHub id: [AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)
 * ORCID: [0000-0002-3521-4338](https://orcid.org/0000-0002-3521-4338)
 * Short bio: Andrea (she/her) is a Colombian ecologist with a a background in Biodiversity Informatics and Plant Ecology. She was based for more than a decade in Rio de Janeiro, where she earned a MSc in Ecology and a PhD in Botany, working in vegetation ecology and nurturing a growing interest in learning and teaching about Open Science, Reproducibility in academic and non-academic communities. She has been saved countless times by R communities of practice and is a member of R-Ladies, a Certified Carpentries Instructor, and part of Forwards, the R Foundation taskforce for diversity, equity, and inclusion. 
@@ -117,7 +121,7 @@ I joined forces with Batool and Alejandro to help rethink the workflows for depl
 
 ### Andreea Avramescu
 
-* Role: Book Dash 2021 participant
+* Role: Book Dash Participant 2021
 * GitHub id: [andreea-avramescu](https://github.com/andreea-avramescu)
 * ORCID: [0000-0001-6837-6272](https://orcid.org/0000-0001-6837-6272)
 
@@ -132,7 +136,7 @@ I joined forces with Batool and Alejandro to help rethink the workflows for depl
 
 ### Ankur Kumar
 
-- Role: Book Dash 2021 participant
+- Role: Book Dash Participant 2021
 - GitHub id: @leoank
 - ORCID: [0000-0002-7686-7335](https://orcid.org/0000-0002-7686-7335)
 
@@ -150,7 +154,9 @@ I joined forces with Batool and Alejandro to help rethink the workflows for depl
 
 ### Anna Krystalli
 
-* Role: [Code of Conduct Committee](https://the-turing-way.netlify.app/community-handbook/coc/coc-enforcement.html) member (2018 - present)
+* Role: 
+  * [Code of Conduct Committee](https://the-turing-way.netlify.app/community-handbook/coc/coc-enforcement.html) member (2018 - present)
+  * Previous Project Member (2018 - 2019)
 * GitHub id: [annakrystalli](http://github.com/annakrystalli)
 * ORCID: [0000-0002-2378-4915](https://orcid.org/0000-0002-2378-4915)
 * Short bio:
@@ -166,7 +172,10 @@ I joined forces with Batool and Alejandro to help rethink the workflows for depl
 
 ### Arielle Bennett
 
-* Role: Book Dash 2021 organising committee & participant
+* Role: 
+  * Project Member (2021-Present)
+  * Book Dash Planning Committee 2021
+  * Book Dash Participant 2020
 * GitHub id: [Arielle-Bennett](http://github.com/Arielle-Bennett)
 * ORCID: [0000-0002-0154-2982](https://orcid.org/0000-0002-0154-2982)
 
@@ -195,8 +204,9 @@ I joined forces with Batool and Alejandro to help rethink the workflows for depl
 ### Batool Almarzouq
 
 * Role: 
-    * Book Dash November 2020 Attendee
-    * Book Dash May and November 2021 Planning Committee member
+    * Core Contributor, Infrastructure Maintainer (2021-Present)
+    * Book Dash Planning Committee 2021
+    * Book Dash Participant 2021
 * ORCID: [0000-0002-3905-2751](https://orcid.org/my-orcid)
 * Twitter: @batool664
 
@@ -212,7 +222,7 @@ I joined forces with Batool and Alejandro to help rethink the workflows for depl
 > Being part of _The Turing Way_ community not only nourish my skills but miraculously treat my anxiety and depression. I always feel grateful for being here. Thank you so much to everyone I met in this Book Dash event :heart:.
 
 ### Becki Green
-* Role: Book Dash 2021 participant
+* Role: Book Dash participant 2021
 * Github id: beckigreen
 * ORCID: [0000-0002-0513-5188](https://orcid.org/0000-0002-0513-5188)
 
@@ -228,7 +238,7 @@ I joined forces with Batool and Alejandro to help rethink the workflows for depl
 
 ### Becky Arnold
 
-* Role: Core Contributor (2018 - 2019)
+* Role: Previous Project Member (2018 - 2019)
 * GitHub id: [r-j-arnold](http://github.com/r-j-arnold)
 * ORCID: [0000-0003-0355-0617](https://orcid.org/0000-0003-0355-0617)
 * Short bio:
@@ -260,7 +270,9 @@ I also hope that it can convince people that don't consider themselves capable o
 
 ### Camila Rangel Smith
 
-* Role: Book Dash May 2019 Attendee, Translation Lead - Spanish (2020)
+* Role: 
+  * Core Contributor - Project Translation Lead (Spanish) (2020 - Present)
+  * Book Dash May 2019 Attendee
 * GitHub id: [crangelsmith](https://github.com/crangelsmith)
 * ORCID id: [0000-0002-0227-836X](https://orcid.org/0000-0002-0227-836X)
 * Short bio:
@@ -292,9 +304,9 @@ I also hope that it can convince people that don't consider themselves capable o
 ### Emma Karoune
 
 * Role:
-    * Core Contributor
-    * Book Dash November 2020, May and November 2021 Attendee
-    * Book Dash Planning Committee May and November 2021
+    * Project Member (2020-Present)
+    * Book Dash Participant 2020-2021
+    * Book Dash Planning Committee 2021
 * GitHub id: [EKaroune](https://github.com/EKaroune)
 * ORCID: [0000-0002-6576-6053](https://orcid.org/0000-0002-6576-6053)
 
@@ -326,7 +338,7 @@ I also hope that it can convince people that don't consider themselves capable o
 
 ### Esther Plomp
 
-Esther Plomp's participation is supported by the Faculty of Applied Sciences at Delft University of Technology.
+Esther Plomp is a project member and her participation is supported by the Faculty of Applied Sciences at Delft University of Technology.
 Please [see details](https://the-turing-way.netlify.app/afterword/contributors-record.html#esther-plomp) under the [Collaborating Organisations and Projects](https://the-turing-way.netlify.app/afterword/contributors-record.html#delft-university-of-technology-faculty-of-applied-sciences) section.
 
 <!---F
@@ -342,7 +354,7 @@ Please [see details](https://the-turing-way.netlify.app/afterword/contributors-r
 
 ### Hannah Nicholls
 
-* Role: Book Dash 2021 participant
+* Role: Book Dash Participant 2021
 * GitHub id: hlnicholls
 * ORCID: [0000-0002-3480-7852](https://orcid.org/0000-0002-3480-7852)
 
@@ -358,7 +370,9 @@ Please [see details](https://the-turing-way.netlify.app/afterword/contributors-r
 
 ### Heidi Seibold
 
-* Role: Core contributor (2020), Book Dash February 2020 Attendee
+* Role: 
+  * Core contributor (2020-Present)
+  * Book Dash Participant 2020
 * GitHub id: [HeidiSeibold](https://github.com/HeidiSeibold)
 * ORCID id: [0000-0002-8960-9642](https://orcid.org/0000-0002-8960-9642)
 * Short bio:
@@ -406,7 +420,7 @@ I would like to be a part of it.
 
 ### Irene K
 
-* Role: Book Dash November 2020 Attendee
+* Role: Book Dash Participant 2020
 * GitHub id: [irenekp](http://github.com/irenekp)
 * Short bio:
 > I'm an undergraduate student majoring in Information Science and Engineering. While short, my journey with Data Science and Data Management has been varied and I've loved watching how a single concept can mould into so many different disciplines! I have been able to work with data science as an RA for a couple of projects that focused on different aspects of Social Network Analysis. I've also been able to follow data management and related practices during my internships at a fintech and a telecom company.
@@ -424,7 +438,10 @@ I would like to be a part of it.
 
 ### Ismael Kherroubi Garcia
 
-* Role: Core contributor (2020), [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring), Book Dash November 2020 Attendee
+* Role: 
+  * Core contributor - Guide to Ethical Research (2020-2021)
+  * [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring)
+  * Book Dash Participant 2020
 * GitHub id: [Ismael-KG](https://github.com/Ismael-KG)
 * Short bio:
 > I'm Ethics Research Assistant at the Alan Turing Institute.
@@ -445,7 +462,9 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Jessica Scheick
 
-* Role: Book Dash 2021 participant
+* Role: 
+  * Core Contributor (2021-Present)
+  * Book Dash Participant 2021
 * GitHub id: @JessicaS11 
 * ORCID: [0000-0002-3421-4459](https://www.orcid.org/0000-0002-3421-4459)
 
@@ -457,7 +476,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### José María Fernández
 
-* Role: Book Dash November 2020 Attendee (BioHackathon-EU)
+* Role: Book Dash Participant 2020 (BioHackathon-EU)
 * GitHub id: @jmfernandez
 * ORCID: [0000-0002-4806-5140](https://orcid.org/0000-0002-4806-5140).
 
@@ -473,7 +492,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Kim De Ruyck
 
-* Role: Book Dash November 2020 Attendee (BioHackathon-EU)
+* Role: Book Dash Participant 2020 (BioHackathon-EU)
 * GitHub id: [kderuyck](https://github.com/kderuyck)
 * ORCID: [0000-0001-9921-644X](https://orcid.org/0000-0001-9921-644X)
 
@@ -490,7 +509,9 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Laura Acion
 
-* Role: Book Dash November 2020 Attendee
+* Role: 
+  * Core Contributor (2020)
+  * Book Dash Participant 2020
 * GitHub id: [lauracion](http://github.com/lauracion)
 * ORCID: [0000-0001-5213-6012](https://orcid.org/0000-0001-5213-6012)
 * Short bio:
@@ -503,7 +524,11 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Laura Carter
 
-* Role: [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring), Book Dash November 2020 Attendee
+* Role: 
+  * Core Contributor - Guide for Ethical Research (2020-2021)
+  * Book Dash Planning Committee 2021
+  * [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring)
+  * Book Dash Participant 2020
 * GitHub id: [Laura Carter](https://github.com/LauraCarter)
 * ORCID: [0000-0002-4285-1140](https://orcid.org/0000-0002-4285-1140)
 * Short bio:
@@ -521,7 +546,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Lena Karvovskaya
 
-* Role: Book Dash 2021 participant
+* Role: Book Dash Participant 2021 
 * GitHub id: karvovskaya
 * Twitter: @ LangData
 * ORCID: [0000-0001-7777-5603](https://orcid.org/0000-0001-7777-5603)
@@ -542,7 +567,9 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Louise Bowler
 
-* Role: Core Contributor (2019), Book Dash February 2020 helper
+* Role: 
+  * Previous Project Member (2019)
+  * Book Dash Participant/Helper 2020
 * GitHub id: [LouiseABowler](http://github.com/LouiseABowler)
 * ORCID: [0000-0002-4910-9205](https://orcid.org/0000-0002-4910-9205)
 * Short bio:
@@ -567,7 +594,10 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Malvika Sharan
 
-* Role: **Community Manager** (2019 - present), Book Dash May 2019 Attendee
+* Role: 
+  * Project Member - Co-lead Investigator (2021-Present)
+  * Previous Community Manager (2019 - 2021)
+  * Book Dash Participant 2019
 * GitHub id: [malvikasharan](http://github.com/malvikasharan)
 * ORCID: [0000-0001-6619-7369](https://orcid.org/0000-0001-6619-7369)
 * Short bio:
@@ -585,7 +615,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Margaret Wanjiku 
 
-* Role: Book Dash 2021 participant
+* Role: Book Dash Participant 2021
 * GitHub id: [Megmugure](https://github.com/Megmugure)
 * ORCID: [0000-0003-2275-2134](https://orcid.org/0000-0003-2275-2134)
 
@@ -602,7 +632,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### María Nanton
 
-* Role: Bookdash May 2021 Attendee.
+* Role: Book Dash Participant 2021
 * GitHub id: [mcnanton](http://github.com/mcnanton)
 * ORCID: [0000-0003-0426-2879](https://orcid.org/0000-0003-0426-2879)
 
@@ -617,7 +647,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Mariana Vivas
 
-* Role: Book Dash 2021 participant
+* Role: Book Dash Participant 2021
 * GitHub id: [marianaiv](http://github.com/marianaiv)
 
 * Short bio:  
@@ -632,7 +662,8 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Marta Mangiarulo
 
-* Role: Book Dash 2020 & 2021 participant
+* Role: 
+  * Book Dash Participant/Helper (2020-2021)
 * GitHub id: [Marta-MM](http://github.com/Marta-MM)
 * ORCID: [0000-0001-7995-3717](https://orcid.org/0000-0001-7995-3717)
 
@@ -680,7 +711,11 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Martina G. Vilas
 
-* Role: Core contributor, JupyterBook Infrastructure Maintainer (2020), OLS-2 for Turing mentor, Book Dash 2020 Attendee and helper
+* Role: 
+  * Core Contributor (2020 - Present)
+  * JupyterBook Infrastructure Maintainer (2020)
+  * OLS-2 for Turing mentor
+  * Book Dash Participant/Mentor 2020
 * GitHub id: [martinagvilas](http://github.com//martinagvilas)
 * ORCID: [0000-0002-1097-8534](https://orcid.org/0000-0002-1097-8534)
 * Short bio:
@@ -703,7 +738,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Nina Di Cara
 
-* Role: Book Dash 2021 participant
+* Role: Book Dash Participant/Helper 2020
 * GitHub id: ninadicara
 * ORCID: [0000-0002-6179-1067](https://orcid.org/0000-0002-6179-1067)
 
@@ -721,7 +756,8 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Patricia Herterich
 
-* Role: Core contributor (2019 - present)
+* Role: 
+  * Previous Project Member (2019 - 2020)
 * GitHub id: [pherterich](http://github.com/pherterich)
 * ORCID: [0000-0002-4542-9906](https://orcid.org/0000-0002-4542-9906)
 * Short bio:
@@ -741,7 +777,11 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Paul Owoicho
 
-* Role: Google Season of Doc: Technical Writer, [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring)(2020)
+* Role: 
+  * Previous Project Member (2020)
+  * Google Season of Doc: Technical Writer (2020)
+  * [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring)(2020)
+  * Book Dash Participant 2020
 * GitHub id: [paulowoicho](http://github.com/paulowoicho)
 
 * Short bio:
@@ -769,7 +809,9 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Rosie Higman
 
-* Role: Core Contributor (2019), Book Dash 2019 Attendee and helper
+* Role: 
+  * Project Member (2019)
+  * Book Dash Participant/Helper 2019
 * GitHub id: [rosiehigman](http://github.com/rosiehigman)
 * ORCID: [0000-0001-5329-7168](https://orcid.org/0000-0001-5329-7168)
 
@@ -790,7 +832,9 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Rachael Ainsworth
 
-* Role: Core Contributor (2019), Book Dash May 2019 Facilitator
+* Role: 
+  * Previous Project Member - Community Manager (2019)
+  * Book Dash Organiser 2019
 * GitHub id: [rainsworth](http://github.com/rainsworth)
 * ORCID: [0000-0003-2591-9462](https://orcid.org/0000-0003-2591-9462)
 * Short bio:
@@ -813,7 +857,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Reshama Shaikh
 
-* Role: Book Dash 2021 Participant
+* Role: Book Dash Participant 2021
 * GitHub id: [reshamas](http://github.com/reshamas)
 * ORCID: [0000-0003-4162-4453](https://orcid.org/0000-0003-4162-4453)
 
@@ -829,7 +873,9 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Samuel Guay
 
-* Role: OLS-2 for Turing mentor, Book Dash November 2020 Attendee
+* Role: 
+  * OLS-2 for Turing mentor
+  * Book Dash Participant 2020
 * GitHub id: [SamGuay](https://github.com/SamGuay)
 * ORCID: [0000-0001-6990-839X](https://orcid.org/0000-0001-6990-839X)
 
@@ -843,7 +889,11 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Sarah Gibson
 
-* Role: Core contributor, Infrastructure Maintainer (2019 - present), OLS-2 and OLS-3 for Turing mentor, Book Dash 2020 helper
+* Role: 
+  * Project Member
+  * Infrastructure Maintainer (2019 - present)
+  * OLS for Turing mentor
+  * Book Dash Participant/Mentor 2020
 * GitHub id: [sgibson91](http://github.com/sgibson91)
 * ORCID: [0000-0003-0356-2765](https://orcid.org/0000-0003-0356-2765)
 * Short bio:
@@ -860,7 +910,10 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Sophia Batchelor
 
-* Role: HacktoberFest contribution facilitator, [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring) (2020), Book Dash November 2020 Attendee
+* Role: 
+  * Core Contributor (2020) - HacktoberFest contribution facilitator
+  * [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring) (2020)
+  * Book Dash Participant 2020
 * GitHub id: [BrainonSilicon](https://github.com/BrainonSilicon)
 * ORCID: [0000-0002-8572-2058](https://orcid.org/0000-0002-8572-2058)
 * Short bio:
@@ -894,7 +947,9 @@ I am an associate member of the Chartered Institute of Personnel and Development
 
 ### Vicky Hellon
 
-* Role: Book Dash 2021 participant
+* Role: 
+  * Project Member
+  *Book Dash Participant 2021
 * GitHub id: vhellon
 * Twitter: @ vickyhellon
 
@@ -926,8 +981,11 @@ I am an associate member of the Chartered Institute of Personnel and Development
 ## Z--->
 
 (contributors-record-all)=
-# All Contributors\n
-✨Using [all-contributors](https://allcontributors.org/) specification, _The Turing Way_ recognises all contributors, not just the ones who push code. ✨
+
+# All Contributors
+
+
+✨Using [all-contributors](https://allcontributors.org/) specification, _The Turing Way_ Recognises all contributors, not just the ones who push code. ✨
 
 (contributors-record-contributors)=
 ## Contributors
@@ -1341,7 +1399,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
 Contributions of any kind welcome!
-\n(contributors-record-collaborators)=
+
+(contributors-record-collaborators)=
 # Collaborating Organisations and Projects
 
 *The Turing Way community receives in-kind contributions from members supported by their employers, projects or organisations for their participation.
@@ -1359,8 +1418,9 @@ In this effort, the contributions from the Faculty of Applied Sciences have main
 ### Esther Plomp
 
 * Roles:
-  * Book Dash February 2020 Attendee
-  * Book Dash Planning Committee 2021 May, November
+  * Project Memebr (2020-Present)
+  * Book Dash Participant 2020
+  * Book Dash Planning Committee 2021
   * Semi regular co-working call crasher
 * GitHub id: [EstherPlomp](https://github.com/estherplomp)
 * ORCID: [0000-0003-3625-1357](https://orcid.org/0000-0003-3625-1357)
@@ -1393,7 +1453,11 @@ Details of each members with their contributions have been listed alphabetically
 
 ### Carlos Martinez Oritz
 
-* Role: **Community manager**, Book Dash November 2020 attendee/helper
+* Role:
+  * Project Memebr (2020-Present)
+  * Book Dash Participant 2020
+  * Book Dash Planning Committee 2021
+  * Community Manager for eScience Center
 * GitHub id: [c-martinez](http://github.com/c-martinez)
 * ORCID: [0000-0001-5565-7577](https://orcid.org/0000-0001-5565-7577)
 * Short bio:
@@ -1407,7 +1471,9 @@ Details of each members with their contributions have been listed alphabetically
 
 ### Mateusz Kuzak
 
-* Role: **Community manager**, Book Dash November 2020 attendee/helper
+* Role:
+  * Project Memebr (2020-Present)
+  * Book Dash Participant/Helper 2020
 * GitHub id: [mkuzak](http://github.com/mkuzak)
 * ORCID: [0000-0003-0087-6021](https://orcid.org/0000-0003-0087-6021)
 * Short bio:
@@ -1428,7 +1494,8 @@ You can find more details and background in the chapter [Leveraging the Turing W
 
 ### Susanna-Assunta Sansone
 
-* Role: Book Dash May 2019 attendee
+* Role: 
+  * Book Dash Participant 2019
 * GitHub id: [susannasansone](http://github.com/susannasansone)
 * ORCID: [0000-0001-5306-5690](https://orcid.org/0000-0001-5306-5690)
 * Short bio:
@@ -1446,7 +1513,8 @@ You can find more details and background in the chapter [Leveraging the Turing W
 
 ### Philippe Rocca-Serra
 
-* Role: Book Dash May 2020 attendee
+* Role: 
+  * Book Dash Participant 2020
 * GitHub id: [proccaserra](http://github.com/proccaserra)
 * ORCID: [0000-0001-9853-5668](https://orcid.org/0000-0001-9853-5668)
 * Short bio:
@@ -1472,7 +1540,6 @@ This project includes links to (1) general tutorials for the complete beginner, 
 
 ### Isabel Birds
 
-* Role: The Turing Way Contributor
 * GitHub id: [IsabelBirds](http://github.com/IsabelBirds)
 * ORCID: [0000-0001-8173-3879](https://orcid.org/0000-0001-8173-3879)
 * Short bio:
