@@ -890,7 +890,7 @@ I am an associate member of the Chartered Institute of Personnel and Development
 ### Sarah Gibson
 
 * Role: 
-  * Project Member
+  * Project Member (2018-Present)
   * Infrastructure Maintainer (2019 - present)
   * OLS for Turing mentor
   * Book Dash Participant/Mentor 2020
