@@ -15,6 +15,7 @@ It further outlines expectations and responsibilities with regard to working on 
 | Vicky Hellon <br>([@vhellon](https://github.com/vhellon)) | Community Manager | 10% | Nov 2021 - Present | - |
 | Aida Mehonic <br>([@AidaMehonic](https://github.com/AidaMehonic)) | Research Application Manager | 10% | 2021 - Present | - |
 | Alden Conner <br>([@aldenc](https://github.com/aldenc)) | Research Application Manager | 10% | 2021 - Present | - |
+| Arielle Bennett <br>([@Arielle-Bennett](https://github.com/Arielle-Bennett)) | Tools, Practices and Systems - Project Manager | 10% | 2021 - Present | - |
 | Jennifer Ding <br>([@dingaaling](https://github.com/dingaaling)) | Research Application Manager | 10% | 2021 - Present | - |
 | Carlos Martinez-Ortiz <br>([@c-martinez](https://github.com/c-martinez)) | Netherlands eScience Center - RSE community manager | in-kind contribution | Feb 2020 - Present | - |
 | Esther Plomp <br>([@EstherPlomp](https://github.com/EstherPlomp)) | Faculty of Applied Sciences at Delft University of Technology - Data Steward | in-kind contribution | Feb 2020 - Present | - |
