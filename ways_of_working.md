@@ -23,6 +23,9 @@ It further outlines expectations and responsibilities with regard to working on 
 
 ## Previous Project Members
 
+The following people are no longer paid to work on the project (although they remain very valuable members of the community!)
+You can request contact information through the project members above, or tag them in the GitHub issues and Pull Requests so others can answer if the folks you're looking for are not around.
+
 | Name | Role | Full-Time Equivalent (or %) on the project | Time period allocated to the project |
 |---|---|---|---|
 | Paul Owoicho | Google Season of Docs - Technical Writer | 100% | Sep 2020 - Dec 2020 |
