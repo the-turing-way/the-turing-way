@@ -3,6 +3,8 @@
 This document provides details about the project members and contributors working (or previously worked) on _The Turing Way_ in a paid capacity, organisational agreement, in-kind contributions or grant proposal-based collaboration.
 It further outlines expectations and responsibilities with regard to working on the project.
 
+## Current Project Members
+
 | Name | Role | Full-Time Equivalent (or %) on the project | Time period allocated to the project | Previous roles |
 |---|---|---|---|---|
 | Kirstie Whitaker | PI | - | Oct 2018 - Present | - |
@@ -17,15 +19,20 @@ It further outlines expectations and responsibilities with regard to working on 
 | May Yong | Research Software Engineer | 40% | Oct 2021 - Dec 2021 | - |
 | Lydia France | Research Software Engineer | 50% | Oct 2021 - Dec 2021 | - |
 | Iain Stanson | Research Software Engineer | 30% | Nov 2021 - Dec 2021 | - |
-| Paul Owoicho | Google Season of Docs - Technical Writer | 100% | Sep 2020 - Dec 2020 | - |
-| Rachael Ainsworth | Research Associate | 100% | Apr 2019 - May 2019 | - |
-| Rosie Higman | Research Data Librarian | 20% | Jan 2019 - Mar 2019 | - |
-| Becky Arnold | Research Software Engineer | 100% | Dec 2018 - Mar 2019 | - |
-| Louise Bowler | Research Data Scientist | 40% | Nov 2018 - Mar 2019 | - |
-| Patricia Herterich | Data Librarian | 40% | Nov 2018 - Mar 2019 | - |
-| Anna Krystalli | Research Software Engineer | 10% | Dec 2018 - Mar 2019 | - |
-| Alex Morley | Mozilla Fellow | in-kind contribution |  Nov 2018 - June 2019  | - |
-| Martin O'Reilly | Principal Research Software Engineer | 10% | Nov 2018 - Mar 2019 | - |
+| Anna Krystalli | The Turing Way Code of Conduct report contact (ombudsperson) | - | Dec 2018 - Mar 2019 | Prevously: Research Software Engineer (10%) |
+
+## Previous Project Members
+
+| Name | Role | Full-Time Equivalent (or %) on the project | Time period allocated to the project |
+|---|---|---|---|
+| Paul Owoicho | Google Season of Docs - Technical Writer | 100% | Sep 2020 - Dec 2020 |
+| Rachael Ainsworth | Research Associate | 100% | Apr 2019 - May 2019 |
+| Rosie Higman | Research Data Librarian | 20% | Jan 2019 - Mar 2019 |
+| Becky Arnold | Research Software Engineer | 100% | Dec 2018 - Mar 2019 |
+| Louise Bowler | Research Data Scientist | 40% | Nov 2018 - Mar 2019 |
+| Patricia Herterich | Data Librarian | 40% | Nov 2018 - Mar 2019 |
+| Alex Morley | Mozilla Fellow | in-kind contribution |  Nov 2018 - June 2019  |
+| Martin O'Reilly | Principal Research Software Engineer | 10% | Nov 2018 - Mar 2019 |
 
 ## Commitments
 
