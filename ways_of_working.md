@@ -7,7 +7,7 @@ It further outlines expectations and responsibilities with regard to working on 
 |---|---|---|---|---|
 | Kirstie Whitaker | PI | - | Oct 2018 - Present | - |
 | Malvika Sharan | Co-lead investigator | - | Jul 2021 - Present | previously: Community manager, Jan 2020 - Jun 2021 (100%) |
-| Emma Karoune | Community Manager | 10% | Jan 2021 - Present | - |
+| Emma Karoune | Community Manager | 5% | Jan 2021 - Present | - |
 | Arron Lacey | Community Manager | 10% | Nov 2021 - Present | - |
 | Achintya Rao | Community Manager | 10% | Nov 2021 - Present | - |
 | Vicky Hellon | Community Manager | 10% | Nov 2021 - Present | - |
