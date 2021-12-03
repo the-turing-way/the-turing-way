@@ -7,21 +7,21 @@ It further outlines expectations and responsibilities with regard to working on 
 
 | Name | Role | Full-Time Equivalent (or %) on the project | Time period allocated to the project | Previous roles |
 |---|---|---|---|---|
-| Kirstie Whitaker | PI | - | Oct 2018 - Present | - |
-| Malvika Sharan | Co-lead investigator | - | Jul 2021 - Present | previously: Community manager, Jan 2020 - Jun 2021 (100%) |
-| Emma Karoune | Community Manager | 5% | Jan 2021 - Present | - |
-| Arron Lacey | Community Manager | 10% | Nov 2021 - Present | - |
-| Achintya Rao | Community Manager | 10% | Nov 2021 - Present | - |
-| Vicky Hellon | Community Manager | 10% | Nov 2021 - Present | - |
-| Aida Mehonic | Research Application Manager | 10% | 2021 - Present | - |
-| Alden Conner | Research Application Manager | 10% | 2021 - Present | - |
-| Jennifer Ding | Research Application Manager | 10% | 2021 - Present | - |
-| Carlos Martinez-Ortiz | Netherlands eScience Center - RSE community manager | in-kind contribution | Feb 2020 - Present | - |
-| Esther Plomp | Faculty of Applied Sciences at Delft University of Technology - Data Steward | in-kind contribution | Feb 2020 - Present | - |
-| Sarah Gibson | 2i2c Open Source Infrastructure Engineer/JupyterHub Community Development | in-kind contribution | - | Prevously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
-| May Yong | Research Software Engineer | 40% | Oct 2021 - Dec 2021 | - |
-| Lydia France | Research Software Engineer | 50% | Oct 2021 - Dec 2021 | - |
-| Iain Stanson | Research Software Engineer | 30% | Nov 2021 - Dec 2021 | - |
+| Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | PI | - | Oct 2018 - Present | - |
+| Malvika Sharan <br>([@malvikasharan](https://github.com/malvikasharan)) | Co-lead investigator | - | Jul 2021 - Present | Previously: Community manager, Jan 2020 - Jun 2021 (100%) |
+| Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Community Manager | 5% | Jan 2021 - Present | - |
+| Arron Lacey <br>([@arronlacey](https://github.com/arronlacey)) | Community Manager | 10% | Nov 2021 - Present | - |
+| Achintya Rao <br>([@RaoOfPhysics](https://github.com/RaoOfPhysics)) | Community Manager | 10% | Nov 2021 - Present | - |
+| Vicky Hellon <br>([@vhellon](https://github.com/vhellon)) | Community Manager | 10% | Nov 2021 - Present | - |
+| Aida Mehonic <br>([@AidaMehonic](https://github.com/AidaMehonic)) | Research Application Manager | 10% | 2021 - Present | - |
+| Alden Conner <br>([@aldenc](https://github.com/aldenc)) | Research Application Manager | 10% | 2021 - Present | - |
+| Jennifer Ding <br>([@dingaaling](https://github.com/dingaaling)) | Research Application Manager | 10% | 2021 - Present | - |
+| Carlos Martinez-Ortiz <br>([@c-martinez](https://github.com/c-martinez)) | Netherlands eScience Center - RSE community manager | in-kind contribution | Feb 2020 - Present | - |
+| Esther Plomp <br>([@EstherPlomp](https://github.com/EstherPlomp)) | Faculty of Applied Sciences at Delft University of Technology - Data Steward | in-kind contribution | Feb 2020 - Present | - |
+| Sarah Gibson <br>([@sgibson91](https://github.com/sgibson91)) | 2i2c Open Source Infrastructure Engineer/JupyterHub Community Development | in-kind contribution | - | Prevously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
+| May Yong <br>([@myyong](https://github.com/myyong)) | Research Software Engineer | 40% | Oct 2021 - Dec 2021 | - |
+| Lydia France <br>([@LydiaFrance](https://github.com/LydiaFrance)) | Research Software Engineer | 50% | Oct 2021 - Dec 2021 | - |
+| Iain Stanson <br>([@Iain-S](https://github.com/Iain-S)) | Research Software Engineer | 30% | Nov 2021 - Dec 2021 | - |
 
 ## Previous Project Members
 
@@ -30,15 +30,15 @@ You can request contact information through the project members above, or tag th
 
 | Name | Role | Full-Time Equivalent (or %) on the project | Time period allocated to the project |
 |---|---|---|---|
-| Paul Owoicho | Google Season of Docs - Technical Writer | 100% | Sep 2020 - Dec 2020 |
-| Rachael Ainsworth | Research Associate | 100% | Apr 2019 - May 2019 |
-| Rosie Higman | Research Data Librarian | 20% | Jan 2019 - Mar 2019 |
-| Becky Arnold | Research Software Engineer | 100% | Dec 2018 - Mar 2019 |
-| Louise Bowler | Research Data Scientist | 40% | Nov 2018 - Mar 2019 |
-| Patricia Herterich | Data Librarian | 40% | Nov 2018 - Mar 2019 |
-| Alex Morley | Mozilla Fellow | in-kind contribution |  Nov 2018 - June 2019  |
-| Anna Krystalli | Research Software Engineer | 10% | Dec 2018 - Mar 2019 |
-| Martin O'Reilly | Principal Research Software Engineer | 10% | Nov 2018 - Mar 2019 |
+| Paul Owoicho <br>([@paulowoicho](https://github.com/paulowoicho)) | Google Season of Docs - Technical Writer | 100% | Sep 2020 - Dec 2020 |
+| Rachael Ainsworth <br>([@rainsworth](https://github.com/rainsworth)) | Research Associate | 100% | Apr 2019 - May 2019 |
+| Rosie Higman <br>([@rosiehigman](https://github.com/rosiehigman)) | Research Data Librarian | 20% | Jan 2019 - Mar 2019 |
+| Becky Arnold <br>([@r-j-arnold](https://github.com/r-j-arnold)) | Research Software Engineer | 100% | Dec 2018 - Mar 2019 |
+| Louise Bowler <br>([@LouiseABowler](https://github.com/LouiseABowler)) | Research Data Scientist | 40% | Nov 2018 - Mar 2019 |
+| Patricia Herterich <br>([@pherterich](https://github.com/pherterich)) | Data Librarian | 40% | Nov 2018 - Mar 2019 |
+| Alex Morley <br>([@alexmorley](https://github.com/alexmorley)) | Mozilla Fellow | in-kind contribution |  Nov 2018 - June 2019  |
+| Anna Krystalli <br>([@annakrystalli](https://github.com/annakrystalli)) | Research Software Engineer | 10% | Dec 2018 - Mar 2019 |
+| Martin O'Reilly <br>([@martintoreilly](https://github.com/martintoreilly)) | Principal Research Software Engineer | 10% | Nov 2018 - Mar 2019 |
 
 ## Commitments
 
