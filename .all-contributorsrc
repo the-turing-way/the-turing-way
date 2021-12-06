@@ -2947,6 +2947,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "kerchner",
+      "name": "Dan Kerchner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3451175?v=4",
+      "profile": "https://github.com/kerchner",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
