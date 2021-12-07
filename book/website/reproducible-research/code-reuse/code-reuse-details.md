@@ -31,7 +31,10 @@ This could surely be carefully documented for another human to re-do it.
 
 ### 4. Make sure your environment and sequence of operations is robust and no human is needed to replicate what was done
 
-You do not want to depend on humans. They tend to make errors even if they do not have bad intentions. So you want your environment to be scripted and be re-created when needed and you want your sequence of operations to be run by a pipeline script that glues together all the sequence of steps.
+You do not want to depend on humans. 
+They tend to make errors even if they do not have bad intentions. 
+So you want your environment to be scripted and be re-created when needed and you want your sequence of operations to be run by a pipeline script that glues together all the sequence of steps.
+A nice side-effect of scripting the sequence of operations is that this often can serve as documentation of the steps.
 
 **See also**: {ref}`rr-renv-options`
 
@@ -63,6 +66,7 @@ Make sure you (or others) can re-use it to do the thing you did, but with differ
 You do not want to have details specific of your data or analysis parameters hardcoded into the code.
 If something can become a reusable function, separate it from the hardcoded parameters and turn it into something (re)usable on its own.
 Make the modules pure: given the same input, a pure function always returns the same value.
+Instead of specifying file paths inside the scripts, consider passing them as command line arguments for a more portable and general and reusable script.
 
 **See also**: [CodeRefinery Modular Code Development lesson](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/modular-code-development/master/talk.md/#1)
 
@@ -91,12 +95,12 @@ All this can be carefully documented for another human to re-do all the same exa
 ## Extendable and Modifiable Recommendations
 Make sure others can build on your code to extend it and improve it.
 
-### 1. Make sure your code is readable by humans
+### 2. Make sure your code is readable by humans
 It often pays more to write code for other humans so they can read it (including your future self).
 A cryptic oneliner with obscure variable names is not any faster or more efficient than splitting the one liner into multiple steps with readable variable names that make sense.
 Furthermore, using coding conventions will help other readers.
 
 **See also**: {ref}`rr-code-style-and-formatting`, {ref}`rr-code-quality-advantages`
 
-### 1. Make sure comments are present
+### 3. Make sure comments are present
 Write comments before writing the actual code. Imagine that somebody could just read the comments and skip all the code bits between comments and get a full picture of what is going on as if they read the whole code.

@@ -7,8 +7,8 @@ You can follow the recommendations that are more suitable for your type of softw
 
 ## Repeatable Recommendations
 
-1. Make sure you can find it (in space)
-1. Make sure you can find it (in time)
+1. Make sure you can find it (in space; meaning: being able locate the repository/project)
+1. Make sure you can find it (in time; meaning: being able to locate a particular version)
 1. Make sure you can execute the same sequence of operations
 1. Make sure your environment and sequence of operations is robust and no human is needed to replicate what was done
 1. License your code
@@ -20,7 +20,7 @@ You can follow the recommendations that are more suitable for your type of softw
 
 ## Re-runnable Recommendations
 
-1. Remove hardcoded bits and make the code modular
+1. Remove hardcoded bits (such as paths that only existed on the hard drive where the pipeline was run) and make the code modular
 1. Test that the modules you made can take different types of input data or parameters
 1. Turn the modules into a package/toolbox
 1. Write useful documentation*
