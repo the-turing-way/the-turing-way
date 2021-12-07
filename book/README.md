@@ -1,7 +1,7 @@
 ## The Turing Way Book
 
 This is the README file for _The Turing Way_ book hosted online at https://the-turing-way.netlify.app/.
-For the README file of the main repository please [follow this link](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md).
+For the README file of the main repository please [follow this link](https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md).
 
 All the text for each chapter of the `book` lives inside the folder `./website` directory.
 All figures associated to the chapters are stored in and linked from the `./website/figures` directory.
@@ -11,13 +11,13 @@ Everything else is in the `website/` directory.
 
 - The table of contents (TOC) defines the order of chapters as they appear in the book.
 To change the TOC, please edit the `website/_toc.yml` file with correct information on filenames and their relative locations in this repository.
-Documentation on controlling the TOC structure can be found on the [jupyter book website](https://jupyterbook.org/customize/toc.html).
+Documentation on controlling the TOC structure can be found on the [Jupyter Book website](https://jupyterbook.org/customize/toc.html).
 - Same applies for more general configuration using `website/_config.yml`.
-Documentation on configuring book settings can be found on the [jupyter book website](https://jupyterbook.org/customize/config.html).
+Documentation on configuring book settings can be found on the [Jupyter Book website](https://jupyterbook.org/customize/config.html).
 
 ### Deploying
 
-The site is built automatically using these two directories. All of the requirements are specificied in `website/requirements.txt`.
+The site is built automatically using these two directories. All of the requirements are specified in `website/requirements.txt`.
 
 #### Locally (Mac / Linux Only)
 
@@ -42,7 +42,7 @@ You can either manually delete the `book/website/_build` folder every time, or r
 cd book/website
 jupyter-book clean .
 ```
-More details on this process can be read on the [JupyterBook's GitHub repository](https://github.com/executablebooks/jupyter-book/blob/master/docs/advanced/advanced.md#clean-your-books-generated-files).
+More details on this process can be read on the [Jupyter Book's GitHub repository](https://github.com/executablebooks/jupyter-book/blob/master/docs/advanced/advanced.md#clean-your-books-generated-files).
 
 #### Check external links in the book
 
@@ -55,7 +55,7 @@ jupyter-book build . --builder linkcheck
 ```
 
 The link checker checks if the each link resolves and prints the status on your terminal so that you can check and resolve any incorrect links.
-Read more about this on the [JupyterBook's GitHub repository](https://github.com/executablebooks/jupyter-book/blob/master/docs/advanced/advanced.md#check-external-links-in-your-book).
+Read more about this on the [Jupyter Book's GitHub repository](https://github.com/executablebooks/jupyter-book/blob/master/docs/advanced/advanced.md#check-external-links-in-your-book).
 
 #### Installing Dependencies in  a  virtual environment
 
@@ -95,13 +95,14 @@ You can find the build history or logs for _The Turing Way_ at https://app.netli
 ## Bibliography
 
 In the directory `./website/_bibliography` a collection of bibliography from all the chapters exist in the `references.bib` file.
-More details can be read on th [CONTRIBUTING.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#referencing-and-citing) file.
+More details can be read in the [CONTRIBUTING.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#referencing-and-citing) file.
 
 ## Content Templates
 
-Templates for different types of content can be created in the `templates` directory.
+Templates for different types of content can be created in the [`templates` directory](./templates).
 
-As of now, the template section includes:
-* `case-study-template.ipynb` a template for including interactive case studies in the book
+As of now, the template directory includes the following:
+* `case-study-template`: a template for writing and/or revising case studies
+* `chapter-template`: a template for writing new chapters or revising old ones
 
 The template can be copied to create content relevant to a chapter in the `content` directory.

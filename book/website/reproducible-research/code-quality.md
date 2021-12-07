@@ -1,3 +1,4 @@
+(rr-code-quality)=
 # Code Quality
 
 | Prerequisite                                                                                  | Importance |
@@ -16,6 +17,7 @@ Static code analysis is a method that examines code and detects software vulnera
 This analysis is capable of identifying quality issues, including security weaknesses and errors.
 In addition to finding bugs, many of these tools can also help maintain a consistent coding style.
 
+(rr-code-quality-advantages)=
 ### Advantages of Static code analysis
 
 - Write high-quality code: Early detection of possible programming errors help developers to know where they went wrong.
@@ -23,8 +25,8 @@ In addition to finding bugs, many of these tools can also help maintain a consis
 - Achieve regulatory compliance: Achieving software compliance is crucial for the stability and security of products.
 With this, developers can comprehensively test their code in a non-runtime environment, ensuring all code standards are met and enterprise security is achieved.
 
-- Accelerate software development life-cycles: Static code analysis ensures high-quality code reaches testers in lesser time.
-This means, even testers take much time to test the product, thus accelerating software development life-cycles.
+- Accelerate software development life-cycles: Static code analysis ensures high-quality code reaches testers in less time.
+This means that even testers take much less time to test the product, thus accelerating software development life-cycles.
 
 Some of the most widely used `linters` are mentioned in the below table:
 

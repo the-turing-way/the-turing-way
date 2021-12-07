@@ -2,11 +2,11 @@
 # Useful for MyBinder configuration
 pandas==1.0.5
 numpy==1.19.0
-datascience==0.15.6
-folium==0.11.0
 matplotlib==3.2.2
-jupyter-book==0.7.1
-sphinx==2.4.4
-pydata-sphinx-theme==0.3.1
-sphinx-book-theme==0.0.30
-sphinxcontrib-bibtex==1.0.0
+datascience
+folium
+jupyter-book==0.11.2
+sphinxcontrib-bibtex~=2.2.0
+sphinx-click
+sphinx_inline_tabs
+sphinxext-rediraffe~=0.2.3

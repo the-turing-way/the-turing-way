@@ -1,3 +1,4 @@
+(pd-filenaming)=
 # Naming files, folders and other things
 
 ## Prerequisites / recommended skill level
@@ -15,7 +16,7 @@ Using good names is probably the easiest way to improve reproducibility and reus
 
 ## Chapter content
 
-There are three principles to naming things; the first two apply to all kinds of things and the third is optional but valuable for keeping track of your files {cite}`Bryan2015Filenaming`.
+There are three principles to naming things; the first two apply to all kinds of things and the third is optional but valuable for keeping track of your files {cite:ps}`Bryan2015Filenaming`.
 
 File names should be:
 1. Machine readable
@@ -25,7 +26,7 @@ File names should be:
 
 Before we dive into the details of what they mean, let's look at some examples of bad and good file names.
 
-| :x: Bad          | :heavy_check_mark: Good |
+| ❌ Bad          | ✔️ Good |
 | -----------------|-------------------------|
 |`Myabstract.docx` | `2020-06-08_abstract-for-sla.docx` |
 |`Joe’s Filenames Use Spaces and Punctuation.xlsx` | `Joes-filenames-are-getting-better.xlsx` |
@@ -67,25 +68,19 @@ This happens a lot and clearly, this has more downsides than upsides.
 
 ## Checklist
 
-Here are some tips for naming files within a research project, which are both human- and machine-readable {cite}`Cowles2019Filenaming,Hodge2015Filenaming`:
+Here are some tips for naming files within a research project, which are both human- and machine-readable {cite:ps}`Cowles2019Filenaming,Hodge2015Filenaming`:
 
-- [ ] Name your files consistently
-- [ ] Keep it short but descriptive
-- [ ] Avoid special characters or spaces to keep it machine-compatible
-- [ ] Use capitals or underscores to keep it human-readable
-- [ ] Use consistent date formatting, for example ISO 8601: `YYYY-MM-DD` to maintain default order
-- [ ] Include a version number when applicable
-- [ ] Share/establish a naming convention when working with collaborators
-- [ ] Record a naming convention in your data management plan
+- Name your files consistently
+- Keep it short but descriptive
+- Avoid special characters or spaces to keep it machine-compatible
+- Use capitals or underscores to keep it human-readable
+- Use consistent date formatting, for example ISO 8601: `YYYY-MM-DD` to maintain default order
+- Include a version number when applicable
+- Share/establish a naming convention when working with collaborators
+- Record a naming convention in your data management plan
 
 
 ## What to learn next
 
 Want to build a folder with all the files from your research project?
-Check out our chapter on [research compendia](research_compendia/research_compendia).
-
-
-## Bibliography
-
-```{bibliography} ../../_bibliography/references.bib
-```
+Check out our chapter on {ref}`research compendia<rr-compendia>`.
