@@ -1,4 +1,4 @@
-The Turing Way Newsletter: 30 November 2021
+The Turing Way Newsletter: 08 December 2021
 
 # Three years of The Turing Way project, highlights from our community and holiday wishes!
 
@@ -15,7 +15,7 @@ Like every year, in the last newsletter of 2021, we want to take time to review 
 
 Find our little ‘thank you’ notes and updates from the community in the newsletter below. 👇
 
-![](https://lh6.googleusercontent.com/vByVysUYKCjvJak4I3K5dNG5O527wooFIDq0xHOp2Y1XuH8uVlDsYXfzaln428WRlvy7--pzp2zfdRzl7hjTaVRm6X1iIpwAvO9fDZMxGId7xk-Y_0t1UJvdbVF8H1ip8TdzUdfR)
+![](images/2021-12-thankyou-1.jpg)
 
 *The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807*
 
@@ -31,7 +31,7 @@ They will bring their combined perspectives as community builders, educators, tr
 We invite you to host and lead future fireside chats in your network.
 [Connect with us](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#get-in-touch) to discuss more.
 
-![](https://lh6.googleusercontent.com/--S0nrkkMslepYhCgFMsZU3m6_Y4pB5MewI8NWrs3TVdkmzSQ0IKE8VqfYi0X8sjKK6e7ZilnQTh4cr3xMg6IRDp8E92AqCGcmiRZlrqTPCe57yxaEFBk6CaIVyRG2w5GVLum0DT)
+![](images/2021-12-firesidechat-2.jpg)
 
 ### Collaboration Cafe
 
@@ -49,7 +49,7 @@ Next year, we will return on 10 January 2022 with our weekly coworking calls (Mo
 
 ### Take Visible Roles in *The Turing Way*
 
-![](https://lh6.googleusercontent.com/YLMRZAxUFmrYl4D1Bxxl6F6i0kc_0EOU2QZveQzBua-LVNVBG7y563LcWJRjyJsov8tVWAY_2WAq6IxYK52s6oFOiBTHMHqJTDlWA0t0-Eovcb8g7l94DLGrxHOo2T45s-iVU8K-)
+![](images/2021-12-pathway-3.jpg)
 
 *The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807*
 
@@ -64,7 +64,7 @@ You can also comment under [issue #2030](https://github.com/alan-turing-institut
 
 ## Contributor in focus: Book Dash November 2021 Attendees
 
-![](https://lh6.googleusercontent.com/AJ_G2K8qOtyQdPCmTFOTlRiWWVo-QUf3rIxVOfZnrioyno-KacxISmktdAuhTrL42XXKbN1k41FL04UEypg3j_RJ5o8zK25AV2zlDILbNCXXc2ohvfh1gmxR-bSPX4Oy80G0tdDp)
+![](images/2021-12-bookdash-4.png)
 
 We are delighted to share that the sixth Book Dash was hosted successfully from 8 to 13 November 2021 with 24 participants, including our planning committee members: Arielle Bennett, Batool Almarzouq, Brigitta Scipoz, Carlos Martnez, Emma Karoune and Esther Plomp. 
 Invited participants include (in the group picture - left to right and top to bottom): Esther Plomp, Kirstie Whitaker, Malvika Sharan, Andrea Sanchez Tapia, Emma Karoune, Batool Almarzouq, Arielle Bennett, Alejandro Coca, Reshama Shaikh, Lena Karvovskaya, Alden Conner, Vicky Hellon, Achintya Rao, Nina di Cara, (following members not in the group picture:) Ali Seyhun Saral, Maria Eriksson, Jessica Scheick, Marta Mangiarulo, Emmanuelle Rodrigues Nunes, Margaret Wanjiku, Melissa Steda and Ankur Kumar.
@@ -75,6 +75,8 @@ Aida Mehonic, Jez Cope, Martin O’Reilly, Martina Vilas, Patricia Herterich and
 Discussion and collaboration among the attendees at this Book Dash covered a wide range of topics including **data sharing** such as sensitive data and metadata (Emma Karoune, Maria Eriksson and Margaret Wanjiku), **data ethics** (Nina di Cara and Ali Seyhum Saral, **research infrastructure** (Arielle Bennett and Esther Plomp, **research publication** (Lena Karvovskaya, Achintya Rao and Vicky Hellon), **impact assessment in research** (Jessica Scheick and Reshama Shaikh), **translation process in different languages** (Alejandro Coca, Batool Almarzouq and Andrea Sanchez Tapia), **data visualisation** (Marta Magiarulo), **analysis pipelines** (Ankur Kumar, Emmanuelle Rodriguez Nunes), **remote collaboration** (Melissa Black) and **code citation** (the eScience centre team members coordinated by Carlos Martinez include Abel Siqueira and Faruk Diblen).
 In addition to coworking on research ideas, we also hosted three informal discussion sessions, a “show and tell” meal and two community Share-Out events.
 A complete report is shared on [this HackMD](https://hackmd.io/@turingway/bookdash-nov2021).
+
+![](images/2021-12-lktweet-4.png)
 
 *[Lena Karvovskaya’s Tweet](https://twitter.com/LangData/status/1460906192834813954?s=20) with the Illustrations from the Turing Way book dashes. The Turing Way Community, & Scriberia. (2021). Zenodo. https://doi.org/10.5281/zenodo.3332807*
 
@@ -89,7 +91,7 @@ To keep it manageable with the growing number of contributors to the project, we
 
 If your name, personal highlights and specific contributions are not yet recorded, please make a Pull Request on the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) document of the repository, or [contact us](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#get-in-touch) so we can help capture your contributions meaningfully (also see our [Acknowledgement Process](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html)).
 
-![](https://lh6.googleusercontent.com/xOMcWvYTgA0glDK70zkcIWJmhxHw6jbjtfRxHhV09z7bPP6L6i7xtpgnNVvO_vejnl8VR-6ZYPAy33qSKEMyR-et_MLjwEEuqCDsX0ARIx7ANFfi_59RdxV-FbzIxGKh0k7rIGj4)
+![](images/2021-12-recognition-5.png)
 
 *The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807*
 
@@ -105,7 +107,7 @@ This time we had Katya Balakina and Matt Kemp available for three days working w
 We also managed to document some Turing Way specific illustrations such as the history, vision and fire chat.
 Do check them out, and share them in your work and cite them as *The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807* (like we are doing in this newsletter! 😇).
 
-![](https://lh4.googleusercontent.com/KvdEhkaGPpSX2iX9Rr7Ed1YWrPiakpPcK2K71VsCRZKi7ZJFJsKJzie3CLt7OUAP7Xgn84Snc6dzzkkikT90eq6HtM-iYJpcaHicrxeeHn4duHx3VYKtUIfK4etFEChnwUtJo1Di)
+![](images/2021-12-actweet-6.png)
 
 *[Alejandro Coca’s Tweet](https://twitter.com/alejo_coca/status/1459253596533497860?s=20) with the Illustrations from the Turing Way book dashes. The Turing Way Community, & Scriberia. (2021). Zenodo. https://doi.org/10.5281/zenodo.3332807*
 
@@ -121,7 +123,7 @@ We are also grateful for the continued investment and in-kind support of Carlos 
 
 ### UX/UI Enhancement of The Turing Way
  
-![](https://lh3.googleusercontent.com/vTB1kQkxU__WQWHH5_A8Y2RHUOkU7_T68aDtDf6kZOa2G-0XRe3pCyNdDeK4AsPGW9q_Rmx26cRE0Mxmi4vqhezywu8bg2UkX3sh4VFFM72lfkWjzEicDdZuh4VEbXDMuWdVsfjo)
+![](images/2021-12-doors-7.jpg)
 
 *The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807*
 
@@ -134,7 +136,7 @@ You can follow the updates and join the discussion under [issue #2071](https://g
 
 ### Three Award Nominations for *The Turing Way*
 
-![](https://lh6.googleusercontent.com/ybTb9Zqa_dc-RqpvkzNteKUbTidVEEcvCeeCMFEg7JtQhUI-CuUo-1VC98q6tyIPg4EgXTVyaCASi7WauJrAyij4kiauLK4M9yqo70CDbkWc1iIT5FwyHOjRvT_kmJtTrSPh8kwT)
+![](images/2021-12-ektweet-8.png)
 
 *[Emma Karoune’s Tweet](https://twitter.com/ekaroune/status/1446148291658452996?s=20) with the HiddenRef certificate for a ‘Highly Commended’ project.*
 
@@ -154,7 +156,7 @@ After successfully concluding four cohorts, 113 projects and 180 project leads, 
 We will host a **webinar on 14 December** to present about the program and the application process. 
 Visit [https://openlifesci.org](https://openlifesci.org/) for details. use the [promotional material](https://docs.google.com/document/u/1/d/e/2PACX-1vTkl_oNZco3hNrhQeNyCg8EXKyq3Ogs-zVik0eB05iXaPPJodnbRQEDog1ji4VrCwOTMJ3wYUch3WI5/pub) for more info.
 
-![](https://lh6.googleusercontent.com/uyWJodygmzQBlqPEJIMuKH_h1gRrNw1B4fII0Du6H5b40BL5Qm3TACnMPeO4irmDLUg7ymNUxZZbZ9PVvsEiT3qG8i69CNpcVZ9S5-z_8KJYYVUcTEguWQAvHRzTz-ywzx2WAB8M)
+![](images/2021-12-ols-9.jpg)
 
 ## Talks and Workshops
 
@@ -174,7 +176,7 @@ Visit [https://openlifesci.org](https://openlifesci.org/) for details. use the [
   * With **Georgia Aitkenhead**, she presented a workshop at the ‘Facilitation Responsible Participation’ at the Turing Institute titled ‘Contextualising Research Projects and Collaboration’ on 24 November. Slides: [DOI: 10.5281/zenodo.5724333](https://zenodo.org/record/5724333).
   *  On 2 December she joined a panel hosted at the Validate AI conference on diversity and inclusion for building trusted AI (no slides).
 
-![](https://lh5.googleusercontent.com/wbIsRnlzMgzNou38CUX2wFWNofFmQsWOiRNVTtYu-FJJQbRu6Q2Y6dLHgbPFCTTakDg-fSqpFywXLYhWBi7xKefTMPcE7z_IgTMBmafVmjP7nwINLhK2YkBmpvdyq2wv2eLc8Ryh)
+![](images/2021-12-eptweet-10.png)
 
 *Esther sketched her Turing Way journey to share in her talk at the ReproHack Hub launch. Cite as ‘Esther Plomp. (2021, November 18). The Turing Way Community: your guide to reproducible research. Zenodo. https://doi.org/10.5281/zenodo.5675926’*
 
@@ -203,7 +205,7 @@ Thank you for contributing to *The Turing Way*, supporting and mentoring others 
 Reflecting on how *The Turing Way* started as a funding proposal at a coffee shop, we are proud and humbled by the global collaboration it now represents.
 The value *The Turing Way* brings to the broader space of open science, research and data science practice is possible only because of the diverse perspectives each of you have brought into the project.
 
-![](https://lh6.googleusercontent.com/z2LNrpilaOFoUub4MZpgkRXhM94ghwyRPnyAfFpyYb7m65Xj2sHqUK-e1kJ4LavraG55y4iFm8fp_UqeI7c7Qz0QpFPME_luN1rknfNuGRQ8CN_7srmiVF4oazWJq-lw--RgzAcA)
+![](images/2021-12-flavours-11.png)
 
 *The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807*
 
