@@ -7,6 +7,9 @@ In this repository, we store the newsletter drafts in markdown format and we rec
 
 ## 2021
 
+
+| Month | Date | GitHub link | TinyLetter link |
+| ----- | ---- |----------- | --------------- |
 | January 2021 | 2021-01-22 | [21_Jan2021](newsletter_21_Jan2021.md) | [New year wishes from The Turing Way and plans for 2021!](https://tinyletter.com/TuringWay/letters/new-year-wishes-from-the-turing-way-and-plans-for-2021) |
 | February 2021 | 2021-02-25 | [22_Feb2021](newsletter_22_Feb2021.md) | [Next Book Dash event, weekly onboarding calls & preparation for a new release on Zenodo](https://tinyletter.com/TuringWay/letters/next-book-dash-event-weekly-onboarding-calls-preparation-for-a-new-release-on-zenodo) |
 | March 2021 | 2021-04-01 | [23_Mar2021](newsletter_23_Mar2021.md) | [Call for application for the upcoming Book Dash, GSoC 2021 proposal and new community resources](https://tinyletter.com/TuringWay/letters/call-for-application-for-the-upcoming-book-dash-gsoc-2021-proposal-and-new-community-resources) |
