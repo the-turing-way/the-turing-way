@@ -15,7 +15,7 @@ Like every year, in the last newsletter of 2021, we want to take time to review 
 
 Find our little ‘thank you’ notes and updates from the community in the newsletter below. 👇
 
-![](images/2021-12-thankyou-1.jpg)
+![](images/2021-12-thank-you-1.jpg)
 
 *The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807*
 
