@@ -75,10 +75,19 @@ Aida Mehonic, Jez Cope, Martin O’Reilly, Martina Vilas, Patricia Herterich and
 
 ## Book Dash November 2021 Report
 
-Discussion and collaboration among the attendees at this Book Dash covered a wide range of topics including **data sharing** such as sensitive data and metadata (Emma, Maria and Margaret), **data ethics** (Nina and Ali), **research infrastructure** (Arielle, Esther and Lena) **research publication** (Lena, Achintya and Vicky), **impact assessment in research** (Jessica and Reshama), **translation process in different languages** (Alejandro, Batool and Andrea), **data visualisation and analysis pipelines** (Marta, Ankur and Emmanuelle), **remote collaboration** (Melissa) and **code citation** (the eScience centre team members coordinated by Carlos Martinez include Abel Siqueira and Faruk Diblen).
+Discussion and collaboration among the attendees at this Book Dash covered a wide range of topics including the following:
+* **data sharing** such as sensitive data and metadata (Emma, Maria and Margaret)
+* **data ethics** (Nina and Ali)
+* **research infrastructure** (Arielle, Esther and Lena)
+* **research publication** (Lena, Achintya and Vicky)
+* **impact assessment in research** (Jessica and Reshama)
+* **translation process in different languages** (Alejandro, Batool and Andrea)
+* **data visualisation and analysis pipelines** (Marta, Ankur and Emmanuelle)
+* **code citation** (the eScience centre team members coordinated by Carlos Martinez include Abel Siqueira and Faruk Diblen), and
+* **remote collaboration** (Melissa).
 
-In addition to coworking on research ideas, we also hosted three informal discussion sessions, a “show and tell” meal and two community Share-Out events.
-A complete report is shared on [this HackMD](https://hackmd.io/@turingway/bookdash-nov2021).
+In addition to coworking on research ideas, we also hosted three informal discussion sessions, a “show and tell” meal and two community Share-out events.
+A complete report is shared on [this HackMD](https://hackmd.io/@turingway/bookdash-nov2021) along with links to recordings from the Share-outs.
 
 ![](images/2021-12-lktweet-4.png)
 
@@ -104,6 +113,7 @@ If your name, personal highlights and specific contributions are not yet recorde
 
 If you're not already involved in the community as contributors and you use, share or build upon the project, book or community in any way - We would love to hear from you too!
 For example, many people use the online repository structure in their projects, develop the reproducibility plan using our chapters, reuse the Code of Conduct for their projects, cite *The Turing Way* in their manuscripts or grant proposals, and promote our community practises. 
+
 You can see responses to [Kirstie's Tweet](https://twitter.com/kirstie_j/status/1326126705270984710?s=20) from the last year and share your response with us under [issue #1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659).
 
 ### New Set of Illustrations
