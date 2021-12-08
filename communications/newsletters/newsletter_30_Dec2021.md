@@ -91,7 +91,7 @@ To keep it manageable with the growing number of contributors to the project, we
 
 If your name, personal highlights and specific contributions are not yet recorded, please make a Pull Request on the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) document of the repository, or [contact us](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#get-in-touch) so we can help capture your contributions meaningfully (also see our [Acknowledgement Process](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html)).
 
-![](images/2021-12-recognition-5.png)
+![](images/2021-12-recognition-5.jpg)
 
 *The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807*
 
