@@ -103,6 +103,10 @@ To keep it manageable with the growing number of contributors to the project, we
 
 ### Capture Your Contributions
 
+*The Turing Way* community members collaborate with each other, represent local interests, exchange examples from their work, mentor contributions via GitHub, build and maintain the book, share about the project and support each other.
+Many of their work stay hidden.
+Therefore, we ask our contributors to capture contributions in [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) in a way that is meaningful for them.
+
 If your name, personal highlights and specific contributions are not yet recorded, please make a Pull Request on the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) document of the repository, or [contact us](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#get-in-touch) so we can help capture your contributions meaningfully (also see our [Acknowledgement Process](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html)).
 
 ![](images/2021-12-recognition-5.jpg)
@@ -112,9 +116,12 @@ If your name, personal highlights and specific contributions are not yet recorde
 #### Not a Contributor but Use The Turing Way? Tell us About it!
 
 If you're not already involved in the community as contributors and you use, share or build upon the project, book or community in any way - We would love to hear from you too!
-For example, many people use the online repository structure in their projects, develop the reproducibility plan using our chapters, reuse the Code of Conduct for their projects, cite *The Turing Way* in their manuscripts or grant proposals, and promote our community practises. 
-
+For example, many people use *The Turing Way* repository structure and community resources in their projects, use different chapters to develop their reproducibility plan, reuse documentation from the Community Handbook, cite *The Turing Way* in their manuscripts or grant proposals, and promote our community practises.
 You can see responses to [Kirstie's Tweet](https://twitter.com/kirstie_j/status/1326126705270984710?s=20) from the last year and share your response with us under [issue #1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659).
+
+If you have not yet explored the project, we highly encourage you to do so.
+There are many ways to get involved in the project, but you can already start by reading, using and sharing [*The Turing Way* guides](https://the-turing-way.netlify.app).
+We are here to support you in whatever path you want to take to start your journey in *The Turing Way*.
 
 ### New Set of Illustrations
 
@@ -220,21 +227,14 @@ As we complete the third year of *The Turing Way*, we review the year 2021 month
 
 ## Thank you & End of the Year Wishes!
 
-Thank you for contributing to *The Turing Way*, supporting and mentoring others in the community, sharing and building on the resources and representing the project through talks, posts and workshops.
-
 Reflecting on how *The Turing Way* started as a funding proposal at a coffee shop, we are so proud and humbled by the global collaboration it now represents.
-The value *The Turing Way* brings to the broader space of open science, research and data science practice is possible only because of the diverse perspectives each of you have brought into the project.
-So, Thank you for your contributions to *The Turing Way*, we value your participation immensely. 
+The value *The Turing Way* brings to the broader space of open science, research and data science practice is possible only because of the diverse perspectives each of you has brought into the project.
+
+We thank you for your participation, support and contributions to *The Turing Way*. 
 
 ![](images/2021-12-flavours-11.png)
 
 *The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807*
-
-There are many ways to get involved in the project.
-You can start by reading, using and sharing [*The Turing Way* guides](https://the-turing-way.netlify.app).
-If you haven't yet participated in *The Turing Way* but use the resources, we invite you to connect with us and help us understand how best we can serve your area of work.
-Finally, if you have not yet explored the project, we highly encourage you to do so.
-We are here to support you in whatever path you want to take to start your journey in *The Turing Way*.
 
 We hope you can enjoy some break at the end of the year. See you in 2022!
 
