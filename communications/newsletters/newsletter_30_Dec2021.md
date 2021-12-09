@@ -44,7 +44,7 @@ We will return next year with another season of Collaboration Cafes on **19 Janu
 Find more details about the event and sign up here: [hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
 
 The last Coworking Call of this year is on 13 December from 11:00 - 12:00 UTC.
-Find details: [hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call).
+Find details here: [hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call).
 Next year, we will resume hosting them weekly on Mondays starting 10 January 2022.
 
 ### Take Visible Roles in the Community
