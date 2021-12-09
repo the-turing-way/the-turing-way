@@ -19,7 +19,7 @@ Find our ‘thank you’ notes and updates from the community in the newsletter 
 
 *The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807*
 
-**Thanks goas to Emma Karoune for reviewing this month's newsletter.** 🌸
+**Thanks goes to Emma Karoune for reviewing this month's newsletter.** 🌸
 
 ## Community Meetings
 
