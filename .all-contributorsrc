@@ -2965,6 +2965,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "bast",
+      "name": "Radovan Bast",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5120679?v=4",
+      "profile": "https://bast.fr",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
