@@ -38,7 +38,7 @@ We invite you to host and lead future fireside chats in your network.
 ### Collaboration Cafes & Coworking Calls
 
 The last Collaboration Cafe of the year is taking place on **15 December 2021 from 15:00 - 17:00 UTC**.
-Join our project members and core contributors to introduce yourself, about your interests in research and how we can work together.
+Join our project members and core contributors to introduce yourself, your interests in research and how we can work together.
 If you haven’t yet managed to connect with *The Turing Way* community, this would be a good opportunity.
 We will return next year with another season of Collaboration Cafes on **19 January 2022**.
 Find more details about the event and sign up: [hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
