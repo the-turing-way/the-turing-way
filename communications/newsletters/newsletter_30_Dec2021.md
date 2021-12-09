@@ -179,7 +179,7 @@ Winners will be revealed soon, as per [their website](https://openpublishingawar
 
 [Open Life Science](https://openlifesci.org/) is a 16-week mentoring and training program that upskills individuals in open and reproducible research and empowers them to become open science ambassadors in their communities. 
 After successfully concluding four cohorts, 113 projects and 180 project leads, we have opened a call for applications for the next cohort, OLS-5, which will take place from February to June 2022. 
-**Application deadline is 15 January 2021**.
+The **Application deadline is 15 January 2022**.
 
 Please join the **webinar on 14 December** to learn about the program and the application process. 
 Visit [https://openlifesci.org](https://openlifesci.org/) for details and use the [promotional material](https://docs.google.com/document/u/1/d/e/2PACX-1vTkl_oNZco3hNrhQeNyCg8EXKyq3Ogs-zVik0eB05iXaPPJodnbRQEDog1ji4VrCwOTMJ3wYUch3WI5/pub) to share in your network.
