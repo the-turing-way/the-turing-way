@@ -60,7 +60,7 @@ Many of our community members deliver talks and workshops regularly ([see detail
 We want to learn how we can support more people in such visible roles.
 This may include joining the Book Dash Committee, hosting Collaboration Cafes or Coworking Calls, leading fireside chats, documenting case studies that reflect their domains, delivering 'just in time' workshops, offering mentorship and more.
 
-Would you like to take one of these roles or have different ideas to enhance our community member’s visibility? 
+Would you like to take one of these roles or do you have different ideas to enhance our community member’s visibility? 
 Please contact us via one or multiple channels (see [contribution guideline](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)) or comment under [issue #2030](https://github.com/alan-turing-institute/the-turing-way/issues/2230).
 
 ## Contributors in Focus: Book Dash November 2021 Attendees
