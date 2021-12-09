@@ -222,16 +222,19 @@ As we complete the third year of *The Turing Way*, we review the year 2021 month
 
 Thank you for contributing to *The Turing Way*, supporting and mentoring others in the community, sharing and building on the resources and representing the project through talks, posts and workshops.
 
-Reflecting on how *The Turing Way* started as a funding proposal at a coffee shop, we are proud and humbled by the global collaboration it now represents.
+Reflecting on how *The Turing Way* started as a funding proposal at a coffee shop, we are so proud and humbled by the global collaboration it now represents.
 The value *The Turing Way* brings to the broader space of open science, research and data science practice is possible only because of the diverse perspectives each of you have brought into the project.
-
-If you have been with us in *The Turing Way*, we would like you to know that we value your participation immensely. 
-If you have used or benefitted from the resources our community members are building, we invite you to can connect with us and help us maintain those resources.
-Finally, if you have not yet explored the project, please do - we hope you find it useful and one day start your journey in *The Turing Way*.
+So, Thank you for your contributions to *The Turing Way*, we value your participation immensely. 
 
 ![](images/2021-12-flavours-11.png)
 
 *The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807*
+
+There are many ways to get involved in the project.
+You can start by reading, using and sharing [*The Turing Way* guides](https://the-turing-way.netlify.app).
+If you haven't yet participated in *The Turing Way* but use the resources, we invite you to connect with us and help us understand how best we can serve your area of work.
+Finally, if you have not yet explored the project, we highly encourage you to do so.
+We are here to support you in whatever path you want to take to start your journey in *The Turing Way*.
 
 We hope you can enjoy some break at the end of the year. See you in 2022!
 
