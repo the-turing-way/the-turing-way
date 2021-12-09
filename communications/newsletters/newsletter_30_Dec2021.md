@@ -15,7 +15,7 @@ Like every year, in this last newsletter of 2021, we want to take time to review
 
 Find our ‘thank you’ notes and updates from the community in the newsletter below. 👇
 
-![](images/2021-12-thank-you-1.jpg)
+![An illustration of an outdoor graden with many plants and flower. The text says "Thanks for contributing to The Turing Way"](images/2021-12-thank-you-1.jpg)
 
 *The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807*
 
