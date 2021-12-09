@@ -53,7 +53,7 @@ Next year, we will resume hosting co-working calls weekly on Mondays starting 10
 
 *The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807*
 
-As we finish three years of *The Turing Way*, we are reflecting on our growth, as a project, a community and breadth of research interests people represent.
+As we finish three years of *The Turing Way*, we are reflecting on our growth as a project, a community and breadth of research interests people represent.
 We have started working on our next [governance model](https://github.com/alan-turing-institute/the-turing-way/pull/2036) to ensure that the voices and ideas we represent as a community are presented in the impactful roles and decision-making processes as well.
 
 Many of our community members deliver talks and workshops regularly ([see details](https://zenodo.org/communities/the-turing-way/)), but representation within the community spaces is still limited to a few members.
