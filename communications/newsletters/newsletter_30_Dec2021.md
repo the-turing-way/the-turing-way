@@ -28,7 +28,7 @@ We have allocated 30 minutes after the session (18:00 - 18:30 UTC) to have open 
 [Register to join the conversation](https://www.eventbrite.co.uk/e/fireside-chat-shared-concerns-in-open-research-communities-tickets-217634158627?keep_tld=1).
 
 The session will feature Emmy Tsang, Kate Hertweck, Tiago Lubiana, Humberto Julio Debat and Melissa Mendonça.
-They will bring their combined perspectives as community builders, educators, trainers, mentors, researchers, industry professionals and facilitators of open and reproducible practises at both local and global scales.
+They will bring their combined perspectives as community builders, educators, trainers, mentors, researchers, industry professionals and facilitators of open and reproducible practices at both local and global scales.
 
 We invite you to host and lead future fireside chats in your network.
 [Connect with us](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#get-in-touch) to discuss more.
