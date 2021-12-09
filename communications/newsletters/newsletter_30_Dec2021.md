@@ -128,7 +128,7 @@ We are here to support you in whatever path you want to take to start your journ
 As always, our Book Dash participants had an opportunity to work with Scriberia Artists on their chapter and research ideas they were collaborating on.
 Katya Balakina and Matt Kemp were available for three days working with us on day-to-day concepts such as documentation, authorship, public engagement, recognition and collaboration, as well as complex topics such as community management, data stewardship, research infrastructure, code publication, peer review and translation workflow.
 
-We also managed to scribe Turing Way specific illustrations such as the history, vision and Fireside chat event.
+We also managed to scribe Turing Way specific illustrations such as the history, vision and the Fireside chat event.
 Do check them out and share them in your work and cite them as *The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807* (like we are doing in this newsletter! 😇).
 
 ![](images/2021-12-actweet-6.png)
