@@ -115,7 +115,7 @@ If your name, personal highlights and specific contributions are not yet recorde
 
 #### Not a Contributor but Use The Turing Way? Tell us About it!
 
-If you're not already involved in the community as contributors and you use, share or build upon the project, book or community in any way - We would love to hear from you too!
+If you're not already involved in the community as a contributor but you use, share or build upon the project, book or community in any way - We would love to hear from you too!
 For example, many people use *The Turing Way* repository structure and community resources in their projects, use different chapters to develop their reproducibility plan, reuse documentation from the Community Handbook, cite *The Turing Way* in their manuscripts or grant proposals, and promote our community practises.
 You can see responses to [Kirstie's Tweet](https://twitter.com/kirstie_j/status/1326126705270984710?s=20) from the last year and share your response with us under [issue #1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659).
 
