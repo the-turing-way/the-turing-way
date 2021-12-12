@@ -203,7 +203,7 @@ parts:
         file: reproducible-research/ci/ci-options
       - title: Getting started with GitHub actions
         file: reproducible-research/ci/ci-github-actions
-      - title: Building a Block of a Github actions
+      - title: Building a Block of a GitHub actions
         file: reproducible-research/ci/ci-building-gh-actions.md
       - title: Best practices and recommendations
         file: reproducible-research/ci/ci-practices
@@ -387,11 +387,11 @@ parts:
       sections:
       - title: Motivation for Using GitHub
         file: collaboration/github-novice/github-novice-motivation
-      - title: First steps on Github
+      - title: First steps on GitHub
         file: collaboration/github-novice/github-novice-firststeps
-      - title: Using more Github features
+      - title: Using more GitHub features
         file: collaboration/github-novice/github-novice-features
-      - title: Advanced Github features
+      - title: Advanced GitHub features
         file: collaboration/github-novice/github-novice-advanced
     - title: Maintainers and Reviewers on GitHub
       file: collaboration/maintain-review
