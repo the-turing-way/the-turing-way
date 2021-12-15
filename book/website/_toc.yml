@@ -380,22 +380,46 @@ parts:
 
   # ===== Guide for Collaboration ========================================
 
-  - file: collaboration/collaboration
+- file: collaboration/collaboration
+  sections:
+  - title: Defining Collaboration Style
+    file: collaboration/defining-style
     sections:
-    - title: Getting Started With GitHub
-      file: collaboration/github-novice
-      sections:
-      - title: Motivation for Using GitHub
-        file: collaboration/github-novice/github-novice-motivation
-      - title: First steps on Github
-        file: collaboration/github-novice/github-novice-firststeps
-      - title: Using more Github features
-        file: collaboration/github-novice/github-novice-features
-      - title: Advanced Github features
-        file: collaboration/github-novice/github-novice-advanced
-    - title: Maintainers and Reviewers on GitHub
-      file: collaboration/maintain-review
-      sections:
+      - title: Open source or inner source
+        file: collaboration/defining-style/open-inner-source
+      - title: Defining your community or team
+        file: collaboration/defining-style/defining-community
+      - title: Defining the purpose of an individual interaction
+        file: collaboration/defining-style/defining-purpose
+      - title: Asynchronous or synchronous collaboration
+        file: collaboration/defining-style/async-sync
+      - title: Remote, in person and hybrid collaboration
+        file: collaboration/defining-style/remote-inperson-hybrid
+  - title: Getting Started With GitHub
+    file: collaboration/github-novice
+    sections:
+    - title: Motivation for Using GitHub
+      file: collaboration/github-novice/github-novice-motivation
+    - title: First steps on Github
+      file: collaboration/github-novice/github-novice-firststeps
+    - title: Using more Github features
+      file: collaboration/github-novice/github-novice-features
+    - title: Advanced Github features
+      file: collaboration/github-novice/github-novice-advanced
+  - title: Collaborating on GitHub
+    file: collaboration/github-collaboration
+    sections:
+    - title: README and Project Communication
+      file: collaboration/github/github-readme
+    - title: Roadmapping
+      file: collaboration/github/github-roadmapping
+    - title: Getting Contributors
+      file: collaboration/github/github-contributors
+    - title: Checklist and resources
+      file: collaboration/github/github-resources
+  - title: Maintainers and Reviewers on GitHub
+    file: collaboration/maintain-review
+    sections:
       - title: Project Maintenance
         file: collaboration/maintain-review/maintain-review-maintenance
       - title: Ownership and Permissions
@@ -406,7 +430,7 @@ parts:
         file: collaboration/maintain-review/maintain-review-merge
       - title: Resources
         file: collaboration/maintain-review/maintain-review-resources
-    - title: Managing a New Community and Team
+   - title: Managing a New Community and Team
       file: collaboration/new-community
       sections:
       - title: Guide to Planning a Community
