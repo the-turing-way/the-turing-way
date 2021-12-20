@@ -124,8 +124,7 @@ While you wait, BinderHub (the backend of Binder) is:
 
 ````{tabbed} R
 1. From the launch panel, select "Terminal"
-2. In the new terminal window, type `R` and then return to begin the R REPL.
-   Then type `source("hello.R")` and press return.
+2. In the new terminal window, type `Rscript -e 'source("hello.R")'` and then press return
 ````
 
 `Hello from Binder!` should be printed to the terminal.
