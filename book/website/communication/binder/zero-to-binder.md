@@ -63,7 +63,7 @@ You will need:
    - Make sure the repository is **public**, _not private_!
    - Don't forget to initialise with a README!
 2) Create a file called `hello.R` via the web interface with `print("Hello from Binder!")` on the first line and commit to the `main` branch.
-3) Create a file called `runtime.txt` with `r-3.6-2020-05-26` on the first line.
+3) Create a file called `runtime.txt` with `r-2021-12-20` on the first line.
    This date represents the snapshot of [CRAN](https://cran.r-project.org/) hosted on [MRAN](https://mran.microsoft.com/) we will use.
    Commit this file to the `main` branch.
 
