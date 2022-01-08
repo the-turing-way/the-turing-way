@@ -22,7 +22,7 @@ We are also currently developing a guide for hosting these calls ([issue #925](h
 
 Here are the resources we use for these calls:
 
-1. Shared notes by [HackMD](https://hackmd.io/): You can access these notes online at [https://hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe) and can take notes together with others on the call.
+1. Shared notes by [HackMD](https://hackmd.io/): You can access these notes online at [hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe) and can take notes together with others on the call.
 2. Online call by [Zoom](https://www.zoom.us/): The Zoom link is provided in the HackMD before the call, and members can click to join the call by opening zoom window on the web or by using the Zoom app that should be installed locally ([available for free](https://zoom.us/download)).
 3. An online Pomodoro clock on [Cuckoo.team](https://cuckoo.team/collabcafe): During the call, the clock is set for Pomodoro work intervals that can be live-tracked by everyone through their browsers.
 4. Video recordings from some of the earlier calls are available on [our YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).
@@ -49,6 +49,20 @@ We'll run the following schedule during each Collaboration Cafe:
 | 5 mins | ☕️ Break |
 | 30 mins | Open discussion: celebrations, reflections and future directions |
 | 5 mins | 👋 Close |
+
+### Chairing an online Collaboration Cafe
+
+- Please update the shared document ([HackMD](https://hackmd.io/@turingway/collaboration-cafe)) before the event using the following steps:
+  - Update the date for the upcoming call
+  - Move the notes from the previous call below the working area (that will be archived in this Notion page periodically)
+  - Update an icebreaker question
+  - Share the notes on Slack and Twitter announcing the event
+- Use the notes during the call to share information as you chair the call
+- Make sure that you share the Code of Conduct link and use the shared Cuckoo (or other web-based clocks)
+- Create breakout rooms for people before starting the Pomodoro
+- As the Pomodoro ends, close the rooms, ask for any feedback, and call for a 5 minutes break
+- Continue the repeated session for 2-3 Pomodoro, leaving the last 15-30 minutes for discussion on what people worked on.
+- Close the call thanking everyone, and archive the notes for the next call
 
 #### Beginning
 
