@@ -64,7 +64,7 @@ You will need:
    - Don't forget to initialise with a README!
 2) Create a file called `hello.R` via the web interface with `print("Hello from Binder!")` on the first line and commit to the `main` branch.
 3) Create a file called `runtime.txt` with `r-2021-12-20` on the first line.
-   This date represents the snapshot of [CRAN](https://cran.r-project.org/) hosted on [MRAN](https://mran.microsoft.com/) we will use.
+   This date represents the snapshot of [CRAN](https://cran.r-project.org/) hosted on the [RStudio Package Manager](https://www.rstudio.com/products/package-manager/) we will use.
    Commit this file to the `main` branch.
 
    ```{note}
@@ -205,9 +205,9 @@ The truth is that you'd never do it manually, the built-in package manager `Pkg`
 
 ````{tabbed} R
 In the above example, we specified that we want to use R in our project by including a date in `runtime.txt`.
-The date tells Binder which MRAN snapshot to source R and packages from.
-[MRAN](https://mran.microsoft.com/) hosts a "CRAN Time Machine" of daily snapshots of the CRAN R packages and R releases as far back as Sept. 17, 2014.
-In the above example, the MRAN snapshot dated `r-2020-05-26` is used and the version of R and `readr` available at that date and installed.
+The date tells Binder which CRAN snapshot to source R and packages from.
+These snapshots are sourced from the [RStudio Package Manager](https://www.rstudio.com/products/package-manager/).
+In the above example, the MRAN snapshot dated `r-2021-12-20` is used and the version of R and `readr` available at that date and installed.
 For the workflow to work correctly, please ensure you do not supply a date earlier than this example date.
 
 This provides some rudimentary package versioning for R users but is not as robust as pinning versions in a `requirements.txt` in Python.
