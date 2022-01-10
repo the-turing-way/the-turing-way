@@ -64,7 +64,7 @@ You will need:
    - Don't forget to initialise with a README!
 2) Create a file called `hello.R` via the web interface with `print("Hello from Binder!")` on the first line and commit to the `main` branch.
 3) Create a file called `runtime.txt` with `r-2022-01-01` on the first line.
-   This date represents the snapshot of [CRAN](https://cran.r-project.org/) hosted on the [RStudio Package Manager](https://www.rstudio.com/products/package-manager/) we will use.
+   This date represents the snapshot of [CRAN](https://cran.r-project.org/) hosted on the [RStudio Package Manager](https://packagemanager.rstudio.com) we will use.
    Commit this file to the `main` branch.
 
    ```{note}
@@ -206,7 +206,7 @@ The truth is that you'd never do it manually, the built-in package manager `Pkg`
 ````{tabbed} R
 In the above example, we specified that we want to use R in our project by including a date in `runtime.txt`.
 The date tells Binder which CRAN snapshot to source R and packages from.
-These snapshots are sourced from the [RStudio Package Manager](https://www.rstudio.com/products/package-manager/).
+These snapshots are sourced from the [RStudio Package Manager](https://packagemanager.rstudio.com).
 In the above example, the MRAN snapshot dated `r-2022-01-01` is used and the version of R and `readr` available at that date and installed.
 For the workflow to work correctly, please ensure you do not supply a date earlier than this example date.
 
