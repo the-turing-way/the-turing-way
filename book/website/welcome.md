@@ -66,6 +66,9 @@ All contributions must abide by our [code of conduct](https://github.com/alan-tu
 
 ![Gif showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table](https://media.giphy.com/media/gKIUisnjpj2PS75nOJ/giphy.gif)
 
+## Different Pathways
+
+
 (welcome-history)=
 ## History
 
