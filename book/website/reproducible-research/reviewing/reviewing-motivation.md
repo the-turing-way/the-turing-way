@@ -66,5 +66,5 @@ Code review provides an opportunity to ensure all proposed changes meet the mini
 Code review practices provide significant advantages beyond simply defending the health of the trunk code of a project when changes are proposed.
 Peer-to-peer review creates two-way exchange of information across a web strung between all contributing members of a team. This provides effective, organic transfer of best practice.
 
-Reviews conducted in the right spirit (see especially [here](#Be_nice)) also serve an important purpose in bringing team members together and creating group cohesion.
+Reviews conducted in the right spirit (see especially [here](../reviewing-recommend#be-nice)) also serve an important purpose in bringing team members together and creating group cohesion.
 In particular, good reviews by core team members of the work of newcomers to a project can help make those newcomers feel welcomed and valued, and encourage their continued participation.
