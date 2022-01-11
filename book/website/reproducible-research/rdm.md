@@ -1,4 +1,4 @@
-```{figure} ../figures/DataEcosystem.jpg
+```{figure} ../../figures/data-ecosystem.jpg
 ---
 name: data-ecosystem
 alt: image of the data ecosystem with private and public data
