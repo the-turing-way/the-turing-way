@@ -18,6 +18,7 @@ For projects where multiple rounds of review on similar material are likely and 
 A single reviewer is likely to be able to make comments on code they have reviewed before much more efficiently.
 However, letting reviewer-coder pairs like this persist is generally a bad idea, as it can lead to the same kinds of groupthink that the review process is designed to avoid in the first place.
 
+(rr-reviewing-recommendation-be-nice)=
 ## Be nice!
 
 As with all open-source and collaborative enterprises, good internet etiquette makes the whole process go more smoothly.
