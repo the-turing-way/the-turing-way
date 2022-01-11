@@ -1,4 +1,4 @@
-(rr-code-style-and-formatting)=
+(rr-code-style)=
 # Code Style and Formatting
 
 A coding style is a set of conventions on how to format code.
@@ -13,6 +13,7 @@ For example, [PEP8](https://www.python.org/dev/peps/pep-0008/) is the most widel
 For commonly used style guides for various programming languages see the [Language Guides](https://guide.esciencecenter.nl/best_practices/language_guides/languages_overview.html).
 Google also has a [style guide](https://code.google.com/p/google-styleguide/) for many languages that are used in open source projects originating out of Google.
 
+(rr-code-style-and-formatting)=
 ## Automatic formatting
 
 Numerous tools exists to automatically format code such that it follows a certain style. Automatic formatting enables higher code quality, especially when you are collaborating in a team and other people need to look at the code you've written.
@@ -44,6 +45,7 @@ Note that editors often support using these tools directly from the editing envi
 "editor.formatOnSave": true,
 ```
 
+(rr-code-style-service)=
 ## Online services providing software quality checks
 
 There are several web services that analyse code and make the quality of the code visible.
