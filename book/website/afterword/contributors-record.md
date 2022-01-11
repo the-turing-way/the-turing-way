@@ -452,7 +452,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 * Personal highlights:
 > Since my undergraduate degree, I have worked in sales in fintech, HR in arts charities, and in research.
 > I think my highlight is that I've got a great background as a very adaptable generalist!
-> I am really enjoyed working alongside [Laura Carter](https://github.com/LauraCarter) and [Sophia Batchelor](https://github.com/BrainonSilicon) to build a community around the Guide for Ethical Research.
+> I really enjoyed working alongside [Laura Carter](https://github.com/LauraCarter) and [Sophia Batchelor](https://github.com/BrainonSilicon) to build a community around the Guide for Ethical Research.
 > Personal quote: "Research Ethics is complex, and two related concepts are Responsible Research and Innovation (RRI) and Research Integrity. Depending on whether we wear an RRI hat or research integrity goggles, we will encounter different research ethics questions. But it is important to wear the two at all times. I call this Steampunk Research Ethics."
 
 * More information:
