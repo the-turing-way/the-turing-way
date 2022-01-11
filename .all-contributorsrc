@@ -1698,7 +1698,8 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/1506457?v=4",
       "profile": "http://rgaiacs.com",
       "contributions": [
-        "content"
+        "content",
+        "bug"
       ]
     },
     {
@@ -2973,6 +2974,15 @@
       "profile": "https://bast.fr",
       "contributions": [
         "review"
+      ]
+    },
+    {
+      "login": "lukeconibear",
+      "name": "Luke Conibear",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19871268?v=4",
+      "profile": "https://www.lukeconibear.com/",
+      "contributions": [
+        "bug"
       ]
     }
   ],
