@@ -23,7 +23,7 @@ If you want to start learning hands-on practices, we recommend reading the {ref}
 
 ### Useful Links
 
-####**Reproducibility** 
+#### **Reproducibility** 
 
 * Markowetz, F. (2018). 5 selfish reasons to work reproducibly. Slides available at https://osf.io/a8wq4/. 
 Recording from a talk at  Data Stewardship TU Delft
@@ -31,7 +31,7 @@ in 2019. [https://youtu.be/yVT07Sukv9Q](https://youtu.be/yVT07Sukv9Q).
 
 * Leipzig, J (2020). Awesome Reproducible Research: A curated list of reproducible research case studies, projects, tutorials, and media. Github repo. https://github.com/leipzig/awesome-reproducible-research
 
-####**Data Science**
+#### **Data Science**
 
 * _Data science: A guide for society_. Ask for Evidence. (2019). Retrieved October 26, 2021, from https://askforevidence.org/articles/data-science-a-guide-for-society.
 
