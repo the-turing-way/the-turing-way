@@ -1,4 +1,5 @@
 (rr-reviewing-motivation)=
+<!-- omit in toc -->
 # Importance and personal benefits
 
 *How this will help you/ why this is useful*
@@ -12,14 +13,15 @@ testing 35%, integration testing 45%, and code review 55-60%. While that
 means that none of these methods are good enough on their own, and that they
 should be combined, clearly code review is an essential tool here.
 
+<!-- omit in toc -->
 ## Table of contents
 
-  - [Catching bugs and elementary errors](#catching-bugs-and-elementary-errors)
-  - [Improvements to testing](#improvements-to-testing)
-  - [Documentation](#documentation)
-  - [Readability](#readability)
-  - [Style enforcement](#style-enforcement)
-  - [Group Knowledge and Cohesion](#group-knowledge-and-cohesion)
+- [Catching bugs and elementary errors](#catching-bugs-and-elementary-errors)
+- [Improvements to testing](#improvements-to-testing)
+- [Documentation](#documentation)
+- [Readability](#readability)
+- [Style enforcement](#style-enforcement)
+- [Group knowledge and cohesion](#group-knowledge-and-cohesion)
 
 (rr-reviewing-motivation-bugs)=
 ## Catching bugs and elementary errors
@@ -59,7 +61,7 @@ Many projects enforce certain [code style guidelines](../../code_quality/code_qu
 Code review provides an opportunity to ensure all proposed changes meet the minimum required standards for the project.
 
 (rr-reviewing-motivation-knowledge)=
-## Group Knowledge and Cohesion
+## Group knowledge and cohesion
 
 Code review practices provide significant advantages beyond simply defending the health of the trunk code of a project when changes are proposed.
 Peer-to-peer review creates two-way exchange of information across a web strung between all contributing members of a team. This provides effective, organic transfer of best practice.
