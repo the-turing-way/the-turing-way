@@ -104,7 +104,7 @@ So, when is it appropriate to use mybinder.org?
 
 - When you want to _communicate_ something in an interactive manner, such as short analyses, tutorials, or even blogs!
   Check out [Achintya Rao's blog powered by mybinder.org](https://blog.achintyarao.in/about/)!
-- When the code and assoiacted data (if relevant) are publicly available
+- When the code and associated data (if relevant) are publicly available
 - When the code you want to run interactively does not require a lot of resource or specialist resources (for example, GPUs)
 
 (binder-faqs)=
