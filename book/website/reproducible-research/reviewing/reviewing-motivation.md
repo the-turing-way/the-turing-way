@@ -14,8 +14,6 @@ should be combined, clearly code review is an essential tool here.
 
 ## Table of contents
 
-- [Importance and personal benefits](#importance-and-personal-benefits)
-  - [Table of contents](#table-of-contents)
   - [Catching bugs and elementary errors](#catching-bugs-and-elementary-errors)
   - [Improvements to testing](#improvements-to-testing)
   - [Documentation](#documentation)
