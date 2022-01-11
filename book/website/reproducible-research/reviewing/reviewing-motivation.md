@@ -13,16 +13,6 @@ testing 35%, integration testing 45%, and code review 55-60%. While that
 means that none of these methods are good enough on their own, and that they
 should be combined, clearly code review is an essential tool here.
 
-<!-- omit in toc -->
-## Table of Contents
-
-- [Catching Bugs and Elementary Errors](#catching-bugs-and-elementary-errors)
-- [Improvements to Testing](#improvements-to-testing)
-- [Documentation](#documentation)
-- [Readability](#readability)
-- [Style Enforcement](#style-enforcement)
-- [Group Knowledge and Cohesion](#group-knowledge-and-cohesion)
-
 (rr-reviewing-motivation-bugs)=
 ## Catching Bugs and Elementary Errors
 
