@@ -14,12 +14,14 @@ should be combined, clearly code review is an essential tool here.
 
 ## Table of contents
 
-- [Catching bugs and elementary errors](#catching-bugs-and-elementary-errors)
-- [Improvements to testing](#improvements-to-testing)
-- [Documentation](#documentation)
-- [Readability](#readability)
-- [Style enforcement](#style-enforcement)
-- [Group knowledge and cohesion](#group-knowledge-and-cohesion)
+- [Importance and personal benefits](#importance-and-personal-benefits)
+  - [Table of contents](#table-of-contents)
+  - [Catching bugs and elementary errors](#catching-bugs-and-elementary-errors)
+  - [Improvements to testing](#improvements-to-testing)
+  - [Documentation](#documentation)
+  - [Readability](#readability)
+  - [Style enforcement](#style-enforcement)
+  - [Group Knowledge and Cohesion](#group-knowledge-and-cohesion)
 
 (rr-reviewing-motivation-bugs)=
 ## Catching bugs and elementary errors
@@ -55,18 +57,10 @@ The more readable your code is, the easier it will be for other developers to re
 (rr-reviewing-motivation-enforcement)=
 ## Style enforcement
 
-Many projects enforce certain {ref}`code style guidelines<rr-code-quality>`, be the widely-adopted standards (for example, [PEP8](https://www.python.org/dev/peps/pep-0008/), the [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)) or more project-specific conventions. [Automated services](../../code_quality/code_quality#online-services-providing-software-quality-checks) provide a convenient way to enforce a coding style and start the discussion about code quality.
-Code review provides an opportunity to ensure all proposed changes meet the minimum require standards for the project.
-
-(rr-reviewing-motivation-knowledge)=
-## Group knowledge and cohesion
-
-## Style Enforcement
-
 Many projects enforce certain [code style guidelines](../../code_quality/code_quality#coding-style), be they widely-adopted standards (for example, [PEP8](https://www.python.org/dev/peps/pep-0008/), the [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)) or more project-specific conventions. [Automated services](../../code_quality/code_quality#online-services-providing-software-quality-checks) provide a convenient way to enforce a coding style and start the discussion about code quality.
 Code review provides an opportunity to ensure all proposed changes meet the minimum required standards for the project.
 
-
+(rr-reviewing-motivation-knowledge)=
 ## Group Knowledge and Cohesion
 
 Code review practices provide significant advantages beyond simply defending the health of the trunk code of a project when changes are proposed.
