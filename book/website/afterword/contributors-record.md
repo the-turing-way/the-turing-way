@@ -443,19 +443,21 @@ I would like to be a part of it.
   * [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring)
   * Book Dash Participant 2020
 * GitHub id: [Ismael-KG](https://github.com/Ismael-KG)
+* ORCID: [0000-0002-6850-8375](https:///orcid.org/0000-0002-6850-8375)
 * Short bio:
-> I'm Ethics Research Assistant at the Alan Turing Institute.
-I have a BSc in Business Management and Administration and am currently working towards an MSc in Philosophy of the Social Sciences.
-I am an associate member of the Chartered Institute of Personnel and Development (CIPD).
+> Former Ethics Research Assistant at the Alan Turing Institute.
+I have a BSc in Business Management and Administration and have studied philosophy of the social sciences at the Lonson School of Economics & Political Science..
+I am also an associate member of the Chartered Institute of Personnel and Development (CIPD).
 
 * Personal highlights:
-> Since my undergraduate degree, I have worked in fintech and then in arts organisations within human resources teams, finally reaching the Alan Turing Institute and helping support the Ethics Advisory Group.
-> I think my highlight is that I've got a great background as a generalist!
-> I am currently really thrilled to be working alongside [Laura Carter](https://github.com/LauraCarter) and [Sophia Batchelor](https://github.com/BrainonSilicon) to build a community around the Guide for Ethical Research!
+> Since my undergraduate degree, I have worked in sales in fintech, HR in arts charities, and in research.
+> I think my highlight is that I've got a great background as a very adaptable generalist!
+> I really enjoyed working alongside [Laura Carter](https://github.com/LauraCarter) and [Sophia Batchelor](https://github.com/BrainonSilicon) to build a community around the Guide for Ethical Research.
 > Personal quote: "Research Ethics is complex, and two related concepts are Responsible Research and Innovation (RRI) and Research Integrity. Depending on whether we wear an RRI hat or research integrity goggles, we will encounter different research ethics questions. But it is important to wear the two at all times. I call this Steampunk Research Ethics."
 
 * More information:
 > I am really fascinated by philosophical discussions about the social sciences, so I love the thought of questioning what an open science culture looks like and how to get there!
+> You might find me putting some of my learnings to work in an [online book on the history of research ethics](https://github.com/Ismael-KG/A-History-of-Research-Ethics).
 
 <!---J--->
 ## J
