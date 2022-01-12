@@ -334,11 +334,6 @@ I also hope that it can convince people that don't consider themselves capable o
 * Personal highlights:
 >I collaborated with a group of researchers from The Alan Turing Institute to draft a chapter of scientific outreach.
 
-### Esther Plomp
-
-Esther Plomp is a project member and her participation is supported by the Faculty of Applied Sciences at Delft University of Technology.
-Please [see details](https://the-turing-way.netlify.app/afterword/contributors-record.html#esther-plomp) under the [Collaborating Organisations and Projects](https://the-turing-way.netlify.app/afterword/contributors-record.html#delft-university-of-technology-faculty-of-applied-sciences) section.
-
 <!---F
 ## F--->
 

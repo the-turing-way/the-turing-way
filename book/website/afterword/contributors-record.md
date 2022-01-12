@@ -52,7 +52,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Achintya Rao
 
-* Role:
+* Role: 
   * Project Member (2021-Present)
   * Book Dash Participant 2021
 * GitHub id: [RaoOfPhysics](http://github.com/RaoOfPhysics)
@@ -71,7 +71,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Alejandro Coca
 
-* Role:
+* Role: 
     * Core Contributor - Translation Contributor (2021-Present)
     * Book Dash Participant 2021
 * GitHub id: [acocac](https://github.com/acocac)
@@ -80,7 +80,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > Alejandro completed his PhD in Physical Geography at King's College London in September 2020. He is currently affiliated as a Postdoctoral Research Associate at the Alan Turing Institute working on a project aiming to build and deploy open-source toolkits and demonstrators for Environmental Data Science. He is also contributing to `scivision`, a generic framework for scalable image analysis led by the Turing in collaboration with the open-source community.
 
 * Personal highlights:
-> I'm so glad to join _the Turing Way_ community. I've met a large and very active community contributing to a common goal, Open, Inclusive and Collaborative Science. My participation in the Book Dash 2021 was a fantastic experience to learn, discuss, collaborate and network with a wide variety of TTW contributors. My particular contribution during the 2021 book dash was to improve the documentation of translation within the Community Handbook. The documentation summarises learnings and experiences from the Spanish Translation team relevant to future translations.
+> I'm so glad to join _the Turing Way_ community. I've met a large and very active community contributing to a common goal, Open, Inclusive and Collaborative Science. My participation in the Book Dash 2021 was a fantastic experience to learn, discuss, collaborate and network with a wide variety of TTW contributors. My particular contribution during the 2021 book dash was to improve the documentation of translation within the Community Handbook. The documentation summarises learnings and experiences from the Spanish Translation team relevant to future translations. 
 
 * More information:
 > Thanks to the TTW and the Open Life Science training programme, I'm considerably improving a prototype of online and community-driven e-book on Environmental Data Science, named the Environmental AI book.
@@ -90,7 +90,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Alexander Morley
 
-* Role:
+* Role: 
   * Core Contributor - Infrastructure Maintainer (2018 - 2019)
   * Previous Project Member
 * GitHub id: [alexmorley](http://github.com/alexmorley)
@@ -113,7 +113,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 * Role: Book Dash Participant 2021
 * GitHub id: [AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)
 * ORCID: [0000-0002-3521-4338](https://orcid.org/0000-0002-3521-4338)
-* Short bio: Andrea (she/her) is a Colombian ecologist with a a background in Biodiversity Informatics and Plant Ecology. She was based for more than a decade in Rio de Janeiro, where she earned a MSc in Ecology and a PhD in Botany, working in vegetation ecology and nurturing a growing interest in learning and teaching about Open Science, Reproducibility in academic and non-academic communities. She has been saved countless times by R communities of practice and is a member of R-Ladies, a Certified Carpentries Instructor, and part of Forwards, the R Foundation taskforce for diversity, equity, and inclusion.
+* Short bio: Andrea (she/her) is a Colombian ecologist with a a background in Biodiversity Informatics and Plant Ecology. She was based for more than a decade in Rio de Janeiro, where she earned a MSc in Ecology and a PhD in Botany, working in vegetation ecology and nurturing a growing interest in learning and teaching about Open Science, Reproducibility in academic and non-academic communities. She has been saved countless times by R communities of practice and is a member of R-Ladies, a Certified Carpentries Instructor, and part of Forwards, the R Foundation taskforce for diversity, equity, and inclusion. 
 >
 * Personal highlights:
 I joined forces with Batool and Alejandro to help rethink the workflows for deploying translated versions of _The Turing Way_ and working with them was amazing! The task is a little bit daunting, but we are on the right way. I was thinking mostly about what to do with the Spanish translation branch (Spoiler: don't rebase!) and checking the workflow and requirements when new language teams start to translate a new language in Crowdin, using Portuguese as an example. I loved the illustration session, the two thematic conversations I could join, the abundant note-taking.
@@ -139,7 +139,7 @@ I joined forces with Batool and Alejandro to help rethink the workflows for depl
 - GitHub id: @leoank
 - ORCID: [0000-0002-7686-7335](https://orcid.org/0000-0002-7686-7335)
 
-- Short bio:
+- Short bio: 
 > Ankur is a research associate at the department of genetics, University of Cambridge. He is trying to create shareable and reproducible software infrastructure for building the next generation of life sciences research platforms by leveraging advances in modern cloud technology. He is always happy to talk about the challenges and opportunities that these distributed systems present. Apart from computers, he is also interested in synthetic biology. One can often find him at related events and seminars around Cambridge.
 
 - Personal highlights:
@@ -153,7 +153,7 @@ I joined forces with Batool and Alejandro to help rethink the workflows for depl
 
 ### Anna Krystalli
 
-* Role:
+* Role: 
   * [Code of Conduct Committee](https://the-turing-way.netlify.app/community-handbook/coc/coc-enforcement.html) member (2018 - present)
   * Previous Project Member (2018 - 2019)
 * GitHub id: [annakrystalli](http://github.com/annakrystalli)
@@ -171,7 +171,7 @@ I joined forces with Batool and Alejandro to help rethink the workflows for depl
 
 ### Arielle Bennett
 
-* Role:
+* Role: 
   * Project Member (2021-Present)
   * Book Dash Planning Committee 2021
   * Book Dash Participant 2020
@@ -186,10 +186,10 @@ I joined forces with Batool and Alejandro to help rethink the workflows for depl
 > Now I have contributed to several different parts of the five guides, including co-writing the initial chapters on [activism for researchers](https://the-turing-way.netlify.app/ethical-research/activism.html) and given presentations on the topic at conferences.
 > I also now mentor other community contributors on how to create pull requests, contribute to existing chapters, review others work, and draft new ideas.
 > The **May 2021 Book Dash** was an amazing opportunity to engage with the community and get excited about the project all over again! I came away from it feeling enthused and proud of the contributions people made with my support - it will be brilliant to see how these evolve over the coming months into content and chapters.
-> In the **November 2021 Book Dash** week we have merged a new chapter on research infrastructure roles - the people who do critical tasks to keep research going, open, reproducible, collaborative and reusable! It's great to be able to promote the visibility of roles like mine to the wider community. I am also incredibly proud of all our first attendees who have done brilliant work this week revising old chapters and writing new ones.
+> In the **November 2021 Book Dash** week we have merged a new chapter on research infrastructure roles - the people who do critical tasks to keep research going, open, reproducible, collaborative and reusable! It's great to be able to promote the visibility of roles like mine to the wider community. I am also incredibly proud of all our first attendees who have done brilliant work this week revising old chapters and writing new ones. 
 
 * More information:
-> The research infrastructure roles chapter is not finished! We are hoping that people will contribute overviews of more roles in this space, or share their career trajectory and background as case studies in the future.
+> The research infrastructure roles chapter is not finished! We are hoping that people will contribute overviews of more roles in this space, or share their career trajectory and background as case studies in the future. 
 
 * Personal Quote:
 > It's always a joy to work with Book Dash participants, experienced and new, to create something amazing.
@@ -202,7 +202,7 @@ I joined forces with Batool and Alejandro to help rethink the workflows for depl
 
 ### Batool Almarzouq
 
-* Role:
+* Role: 
     * Core Contributor, Infrastructure Maintainer (2021-Present)
     * Book Dash Planning Committee 2021
     * Book Dash Participant 2021
@@ -210,14 +210,14 @@ I joined forces with Batool and Alejandro to help rethink the workflows for depl
 * Twitter: @batool664
 
 * Short bio:
-> Batool is a computational biologist affiliated with KAIMRC in Saudi Arabia and an honorary research fellow at the University of Liverpool. I'm also an RWeekly member and part of the R-Ladies Global committee. As an advocate for Open Science and its role in improving scientific and economic outputs in the Middle east, I recently established an Open Science Community in Saudi Arabia (OSCSA). OSCSA aims to create significant value towards Saudi Arabia's Vision 2030, which focus on enhancing knowledge and improving equal access to education in the Kingdom.
+> Batool is a computational biologist affiliated with KAIMRC in Saudi Arabia and an honorary research fellow at the University of Liverpool. I'm also an RWeekly member and part of the R-Ladies Global committee. As an advocate for Open Science and its role in improving scientific and economic outputs in the Middle east, I recently established an Open Science Community in Saudi Arabia (OSCSA). OSCSA aims to create significant value towards Saudi Arabia's Vision 2030, which focus on enhancing knowledge and improving equal access to education in the Kingdom. 
 
 * Personal highlights:
-> In May 2021 Book Dash, I co-developed a chapter on "CI services".
+> In May 2021 Book Dash, I co-developed a chapter on "CI services". 
 > In the previous Book Dash, I have helped upgrade the Jupyter Book Infrastructure and add [hypothes.is](https://web.hypothes.is/) to enable collaborative annotation of _The Turing Way_ chapters. I have also translated the README.me chapter in Arabic.
-> Although November 2021 Book Dash week was hectic (homeless twice while looking for a hotel in a foreign country) but looking back it was a fascinating week. I'm always grateful to be part of such a community - in the past week, I was inspired by everyone's work and very thankful for the Book Dash Planning Committee who are always patient with me. I was also so lucky to work with the wonderful Andrea Sanchez Tapia  and Alejandro Coca on a new workflow for the translation.
+> Although November 2021 Book Dash week was hectic (homeless twice while looking for a hotel in a foreign country) but looking back it was a fascinating week. I'm always grateful to be part of such a community - in the past week, I was inspired by everyone's work and very thankful for the Book Dash Planning Committee who are always patient with me. I was also so lucky to work with the wonderful Andrea Sanchez Tapia  and Alejandro Coca on a new workflow for the translation. 
 
-* Quote:
+* Quote: 
 > Being part of _The Turing Way_ community not only nourish my skills but miraculously treat my anxiety and depression. I always feel grateful for being here. Thank you so much to everyone I met in this Book Dash event :heart:.
 
 ### Becki Green
@@ -269,7 +269,7 @@ I also hope that it can convince people that don't consider themselves capable o
 
 ### Camila Rangel Smith
 
-* Role:
+* Role: 
   * Core Contributor - Project Translation Lead (Spanish) (2020 - Present)
   * Book Dash May 2019 Attendee
 * GitHub id: [crangelsmith](https://github.com/crangelsmith)
@@ -318,7 +318,7 @@ I also hope that it can convince people that don't consider themselves capable o
 >This improvement in my skills will really benefit my own personal research to develop my own collaborative working groups and teach others how to use these research tools.
 > At the May 2021 Book Dash, I enjoyed mentoring new contributors contributions, reviewing pull requests and helping to run sessions during the Book Dash. It was great to work collaboratively to improve and publish a new chapter on 'Communicating with wider audiences' in the Guide for Communication.
 > I've been the lead author and organiser of the academic authorship chapter.
-> At the November 2021 Book Dash, I have been hosting sessions and helping to review pull requests #2160, #1919 and #2167. I've also worked with @MariaEriksson to plan and start writing an overview about sensitive data.
+> At the November 2021 Book Dash, I have been hosting sessions and helping to review pull requests #2160, #1919 and #2167. I've also worked with @MariaEriksson to plan and start writing an overview about sensitive data. 
 
 * More information:
 > I try to work as openly as possible and a large part of my current research is developing easy and accessible to all collaborative and open ways of working. I am also working hard to bring together specialists in my field into a working group for Open Science so that we can work collaboratively towards subject-specific FAIR guidelines for phytolith data.
@@ -334,11 +334,6 @@ I also hope that it can convince people that don't consider themselves capable o
 
 * Personal highlights:
 >I collaborated with a group of researchers from The Alan Turing Institute to draft a chapter of scientific outreach.
-
-### Esther Plomp
-
-Esther Plomp is a project member and her participation is supported by the Faculty of Applied Sciences at Delft University of Technology.
-Please [see details](https://the-turing-way.netlify.app/afterword/contributors-record.html#esther-plomp) under the [Collaborating Organisations and Projects](https://the-turing-way.netlify.app/afterword/contributors-record.html#delft-university-of-technology-faculty-of-applied-sciences) section.
 
 <!---F
 ## F--->
@@ -369,7 +364,7 @@ Please [see details](https://the-turing-way.netlify.app/afterword/contributors-r
 
 ### Heidi Seibold
 
-* Role:
+* Role: 
   * Core contributor (2020-Present)
   * Book Dash Participant 2020
 * GitHub id: [HeidiSeibold](https://github.com/HeidiSeibold)
@@ -437,7 +432,7 @@ I would like to be a part of it.
 
 ### Ismael Kherroubi Garcia
 
-* Role:
+* Role: 
   * Core contributor - Guide to Ethical Research (2020-2021)
   * [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring)
   * Book Dash Participant 2020
@@ -463,10 +458,10 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Jessica Scheick
 
-* Role:
+* Role: 
   * Core Contributor (2021-Present)
   * Book Dash Participant 2021
-* GitHub id: @JessicaS11
+* GitHub id: @JessicaS11 
 * ORCID: [0000-0002-3421-4459](https://www.orcid.org/0000-0002-3421-4459)
 
 * Short bio:
@@ -510,7 +505,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Laura Acion
 
-* Role:
+* Role: 
   * Core Contributor (2020)
   * Book Dash Participant 2020
 * GitHub id: [lauracion](http://github.com/lauracion)
@@ -525,7 +520,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Laura Carter
 
-* Role:
+* Role: 
   * Core Contributor - Guide for Ethical Research (2020-2021)
   * Book Dash Planning Committee 2021
   * [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring)
@@ -547,13 +542,13 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Lena Karvovskaya
 
-* Role: Book Dash Participant 2021
+* Role: Book Dash Participant 2021 
 * GitHub id: karvovskaya
 * Twitter: @ LangData
 * ORCID: [0000-0001-7777-5603](https://orcid.org/0000-0001-7777-5603)
 
 * Short bio:
-> Lena Karvovskaya is the Community Manager for Research Data Management and Open Science at the Vrije Universiteit Amsterdam (VU Amsterdam).
+> Lena Karvovskaya is the Community Manager for Research Data Management and Open Science at the Vrije Universiteit Amsterdam (VU Amsterdam). 
 > She works with support staff and researchers to facilitate the organizational change towards reproducible and transparent research culture.
 
 * Personal highlights:
@@ -568,7 +563,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Louise Bowler
 
-* Role:
+* Role: 
   * Previous Project Member (2019)
   * Book Dash Participant/Helper 2020
 * GitHub id: [LouiseABowler](http://github.com/LouiseABowler)
@@ -595,7 +590,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Malvika Sharan
 
-* Role:
+* Role: 
   * Project Member - Co-lead Investigator (2021-Present)
   * Previous Community Manager (2019 - 2021)
   * Book Dash Participant 2019
@@ -614,7 +609,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 > Besides connecting with members from diverse perspectives, my highlights in _The Turing Way_ are co-developing community governance, acknowledgment pathways, and community resources in the [Community Handbook](https://the-turing-way.netlify.app/community-handbook) for our members.
 > I enjoy designing training resources around leadership in research in collaboration with [Open Life Science](https://openlifesci.org/).
 
-### Margaret Wanjiku
+### Margaret Wanjiku 
 
 * Role: Book Dash Participant 2021
 * GitHub id: [Megmugure](https://github.com/Megmugure)
@@ -624,7 +619,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 > Margaret graduated with an MSc in bioinformatics in July 2021. She is a project lead at the Bioinformatics Hub of Kenya Initiative (BHKi), a training and networking platform for aspiring and established bioinformaticians. Its goal is to empower researchers with skills and tools in open science and bioinformatics. In addition to capacity development, she is also interested in genomics and big data analysis. Margaret dabbles in writing stories too!
 
 * Personal highlights:
-> This was my first time contributing to TTW! I enjoyed listening to and reading what fellow participants were working on as I made my contribution. I learnt more about GitHub and research data management as I conducted my research.
+> This was my first time contributing to TTW! I enjoyed listening to and reading what fellow participants were working on as I made my contribution. I learnt more about GitHub and research data management as I conducted my research. 
 
 * More information:
 > I look forward to making more contributions to TTW soon, including but not limited to updating the documentation and metadata subsection.
@@ -663,7 +658,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Marta Mangiarulo
 
-* Role:
+* Role: 
   * Book Dash Participant/Helper (2020-2021)
 * GitHub id: [Marta-MM](http://github.com/Marta-MM)
 * ORCID: [0000-0001-7995-3717](https://orcid.org/0000-0001-7995-3717)
@@ -712,7 +707,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Martina G. Vilas
 
-* Role:
+* Role: 
   * Core Contributor (2020 - Present)
   * JupyterBook Infrastructure Maintainer (2020)
   * OLS-2 for Turing mentor
@@ -757,7 +752,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Patricia Herterich
 
-* Role:
+* Role: 
   * Previous Project Member (2019 - 2020)
 * GitHub id: [pherterich](http://github.com/pherterich)
 * ORCID: [0000-0002-4542-9906](https://orcid.org/0000-0002-4542-9906)
@@ -778,7 +773,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Paul Owoicho
 
-* Role:
+* Role: 
   * Previous Project Member (2020)
   * Google Season of Doc: Technical Writer (2020)
   * [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring)(2020)
@@ -810,7 +805,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Rosie Higman
 
-* Role:
+* Role: 
   * Project Member (2019)
   * Book Dash Participant/Helper 2019
 * GitHub id: [rosiehigman](http://github.com/rosiehigman)
@@ -833,7 +828,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Rachael Ainsworth
 
-* Role:
+* Role: 
   * Previous Project Member - Community Manager (2019)
   * Book Dash Organiser 2019
 * GitHub id: [rainsworth](http://github.com/rainsworth)
@@ -874,7 +869,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Samuel Guay
 
-* Role:
+* Role: 
   * OLS-2 for Turing mentor
   * Book Dash Participant 2020
 * GitHub id: [SamGuay](https://github.com/SamGuay)
@@ -890,7 +885,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Sarah Gibson
 
-* Role:
+* Role: 
   * Project Member (2018-Present)
   * Infrastructure Maintainer (2019 - present)
   * OLS for Turing mentor
@@ -911,7 +906,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Sophia Batchelor
 
-* Role:
+* Role: 
   * Core Contributor (2020) - HacktoberFest contribution facilitator
   * [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring) (2020)
   * Book Dash Participant 2020
@@ -948,7 +943,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Vicky Hellon
 
-* Role:
+* Role: 
   * Project Member
   *Book Dash Participant 2021
 * GitHub id: vhellon
@@ -1501,7 +1496,7 @@ You can find more details and background in the chapter [Leveraging the Turing W
 
 ### Susanna-Assunta Sansone
 
-* Role:
+* Role: 
   * Book Dash Participant 2019
 * GitHub id: [susannasansone](http://github.com/susannasansone)
 * ORCID: [0000-0001-5306-5690](https://orcid.org/0000-0001-5306-5690)
@@ -1520,7 +1515,7 @@ You can find more details and background in the chapter [Leveraging the Turing W
 
 ### Philippe Rocca-Serra
 
-* Role:
+* Role: 
   * Book Dash Participant 2020
 * GitHub id: [proccaserra](http://github.com/proccaserra)
 * ORCID: [0000-0001-9853-5668](https://orcid.org/0000-0001-9853-5668)
