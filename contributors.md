@@ -1,4 +1,3 @@
-(contributors-record-highlights)=
 # Record of Contributions
 
 *The `contributors.md` file and the contributors table in the `README file` together form the record of contributions in _The Turing Way_.*
