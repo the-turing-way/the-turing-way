@@ -9,7 +9,7 @@ There are both benefits and downsides of working in teams, and the key is to wor
 name: new-community
 alt: An illustration of 2 people who are working together and discussing a data chart.
 ---
-Decolonising Knowledge through inclusive and collaborative approaches. _The Turing Way_ Community, & Scriberia. (2020, November). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.4323154
+Making teamwork effective. [Royalty free image from Many Pixels](https://www.manypixels.co/gallery/)
 ```
 
 ## Team Framework
