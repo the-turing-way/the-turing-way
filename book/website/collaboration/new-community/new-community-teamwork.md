@@ -4,6 +4,9 @@ The widespread standard in academia has been, and still is, to work individually
 However, if done well, working in a team can be more fun, more productive, and more effective.
 There are both benefits and downsides of working in teams, and the key is to work together in such a way that the advantages outweigh the disadvantages.
 
+
+## Team Framework
+
 There are many popular frameworks that provide useful guidance on how to best work in teams.
 Popular examples are [Kanban](https://www.atlassian.com/agile/kanban), and [Scrum](https://www.scrum.org/),
 which are both practical implementations of the [Agile Manifesto](https://agilemanifesto.org/).
