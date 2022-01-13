@@ -1,4 +1,3 @@
-# 
 (cl-new-community-teamwork)=
 # Teamwork
 The widespread standard in academia has been, and still is, to work individually for the majority of one’s time.
