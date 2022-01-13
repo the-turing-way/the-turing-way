@@ -13,3 +13,7 @@ which are both practical implementations of the [Agile Manifesto](https://agilem
 There are many particularities to working in a data science setting that will make application of these frameworks challenging.
 If you want to have more guidance on how to succesfully work in teams in a data science setting you could checkout 
 [this lesson on Teamwork for Research Software Development](https://nlesc.github.io/teamwork-for-research-software-development/).
+See [this great collection of blogs](https://www.atlassian.com/blog/teamwork) for 
+nice ideas and tips on teamwork. 
+See for example [7 essential teamwork skills](https://www.atlassian.com/blog/teamwork/teamwork-skills-accelerate-career), 
+or [How to run effective meetings and thrive](https://www.atlassian.com/blog/teamwork/how-to-run-effective-meetings).
