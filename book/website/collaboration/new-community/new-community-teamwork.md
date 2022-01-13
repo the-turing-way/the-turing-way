@@ -4,7 +4,7 @@ The widespread standard in academia has been, and still is, to work individually
 However, if done well, working in a team can be more fun, more productive, and more effective.
 There are both benefits and downsides of working in teams, and the key is to work together in such a way that the advantages outweigh the disadvantages.
 
-```{figure} ../figures/new-community.png
+```{figure} ../../figures/new-community.png
 ---
 name: new-community
 alt: An illustration of 2 people who are working together and discussing a data chart.
