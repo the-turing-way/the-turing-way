@@ -6,12 +6,12 @@ As researchers, scientists and 'techies' we look for ways to use our skills to s
 The most recent example is the COVID-19 pandemic and related events {cite:ps}`WHO2020Jul` worldwide including the global lockdown that started in February 2020.
 The research communities responded with a sudden surge of hackathons, data modelling projects, task forces, and working groups to find effective and immediate technical solutions to combat this health crisis.
 
-```{figure} ../figures/new-community.png
+```{figure} ../figures/decolonising-knowledge.jpg
 ---
-name: new-community
-alt: An illustration of 2 people who are working together and discussing a data chart.
+name: managing-community
+alt: An illustration of many people standing on an academic platform. Some of them are helping other people join them in working together.
 ---
-An illustration of analytic process. [Royalty free image from Many Pixels](https://www.manypixels.co/gallery/)
+Decolonising Knowledge through inclusive and collaborative approaches. _The Turing Way_ Community, & Scriberia. (2020, November). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.4323154
 ```
 
 Such action oriented efforts result from a motivation to pull together and combine our scientific knowledge to address unprecedented situations, which is surely an ideal way to move forward.
