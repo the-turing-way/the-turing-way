@@ -102,6 +102,7 @@ Considering good team practices even for a project run by an individual makes it
 For example, you can define goals in your project and identify tasks by asking questions like: 
 how can my work be split, how will it be reviewed, how will decisions be made, and so on.
 Learn how [agile methodologies](http://www.agilenutshell.com/) help adapt to changes.
+Learn about good team practices in our {ref}`section on teamwork<cl-new-community-teamwork>`.
 
 Project design would not ensure that everything will always go as planned or there will be no unexpected challenges.
 However, it helps prepare in advance for risk management and adapt to changes better.
