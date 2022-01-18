@@ -20,9 +20,6 @@ It further outlines expectations and responsibilities with regard to working on 
 | Carlos Martinez-Ortiz <br>([@c-martinez](https://github.com/c-martinez)) | Netherlands eScience Center - RSE community manager | in-kind contribution | Feb 2020 - Present | - |
 | Esther Plomp <br>([@EstherPlomp](https://github.com/EstherPlomp)) | Faculty of Applied Sciences at Delft University of Technology - Data Steward | in-kind contribution | Feb 2020 - Present | - |
 | Sarah Gibson <br>([@sgibson91](https://github.com/sgibson91)) | 2i2c Open Source Infrastructure Engineer/JupyterHub Community Development | in-kind contribution | - | Prevously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
-| May Yong <br>([@myyong](https://github.com/myyong)) | Research Software Engineer | 40% | Oct 2021 - Dec 2021 | - |
-| Lydia France <br>([@LydiaFrance](https://github.com/LydiaFrance)) | Research Software Engineer | 50% | Oct 2021 - Dec 2021 | - |
-| Iain Stanson <br>([@Iain-S](https://github.com/Iain-S)) | Research Software Engineer | 30% | Nov 2021 - Dec 2021 | - |
 
 ## Previous Project Members
 
@@ -31,6 +28,9 @@ You can request contact information through the project members above, or tag th
 
 | Name | Role | Full-Time Equivalent (or %) on the project | Time period allocated to the project |
 |---|---|---|---|
+| May Yong <br>([@myyong](https://github.com/myyong)) | Research Software Engineer | 40% | Oct 2021 - Jan 2022 | - |
+| Lydia France <br>([@LydiaFrance](https://github.com/LydiaFrance)) | Research Software Engineer | 50% | Oct 2021 - Jan 2022 | - |
+| Iain Stanson <br>([@Iain-S](https://github.com/Iain-S)) | Research Software Engineer | 30% | Nov 2021 - Jan 2022 | - |
 | Paul Owoicho <br>([@paulowoicho](https://github.com/paulowoicho)) | Google Season of Docs - Technical Writer | 100% | Sep 2020 - Dec 2020 |
 | Rachael Ainsworth <br>([@rainsworth](https://github.com/rainsworth)) | Research Associate | 100% | Apr 2019 - May 2019 |
 | Rosie Higman <br>([@rosiehigman](https://github.com/rosiehigman)) | Research Data Librarian | 20% | Jan 2019 - Mar 2019 |
