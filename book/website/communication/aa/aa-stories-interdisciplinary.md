@@ -1,5 +1,5 @@
-(communication-aa-intps)=
-# Personal stories - Authorship on Interdisciplinary projects
+(cm-aa-stories-interdisciplinary)=
+# Personal stories - Authorship on Interdisciplinary Projects
 
 ## Federico Nanni and Mariona Coll Ardanuy - Living with Machines
 
@@ -7,7 +7,7 @@
 
 It brings together an interdisciplinary group of researchers from a range of disciplines to create research methods, tools and data. They are working to change perceptions of how collaborations can be done and in doing this are discovering and working through some interesting challenges, including the issue of academic authorship. 
 
-#### Find out more about their work below:
+### Find out more about their work below:
 
 **Federico Nanni:**
 * [ORCID](https://orcid.org/0000-0003-2484-4331) 

@@ -1698,7 +1698,8 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/1506457?v=4",
       "profile": "http://rgaiacs.com",
       "contributions": [
-        "content"
+        "content",
+        "bug"
       ]
     },
     {
@@ -2937,6 +2938,60 @@
       "contributions": [
         "content",
         "ideas"
+      ]
+    },
+    {
+      "login": "ubikcan",
+      "name": "Jeremy Crampton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23242626?v=4",
+      "profile": "https://github.com/ubikcan",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "kerchner",
+      "name": "Dan Kerchner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3451175?v=4",
+      "profile": "https://github.com/kerchner",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "arronlacey",
+      "name": "Arron Lacey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4941299?v=4",
+      "profile": "http://www.getmarkup.com",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "bast",
+      "name": "Radovan Bast",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5120679?v=4",
+      "profile": "https://bast.fr",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "lukeconibear",
+      "name": "Luke Conibear",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19871268?v=4",
+      "profile": "https://www.lukeconibear.com/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "svenvanderburg",
+      "name": "Sven van der Burg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9945255?v=4",
+      "profile": "https://github.com/svenvanderburg",
+      "contributions": [
+        "content"
       ]
     }
   ],

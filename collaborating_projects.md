@@ -15,8 +15,9 @@ In this effort, the contributions from the Faculty of Applied Sciences have main
 ### Esther Plomp
 
 * Roles:
-  * Book Dash February 2020 Attendee
-  * Book Dash Planning Committee 2021 May, November
+  * Project Memebr (2020-Present)
+  * Book Dash Participant 2020
+  * Book Dash Planning Committee 2021
   * Semi regular co-working call crasher
 * GitHub id: [EstherPlomp](https://github.com/estherplomp)
 * ORCID: [0000-0003-3625-1357](https://orcid.org/0000-0003-3625-1357)
@@ -49,7 +50,11 @@ Details of each members with their contributions have been listed alphabetically
 
 ### Carlos Martinez Oritz
 
-* Role: **Community manager**, Book Dash November 2020 attendee/helper
+* Role:
+  * Project Memebr (2020-Present)
+  * Book Dash Participant 2020
+  * Book Dash Planning Committee 2021
+  * Community Manager for eScience Center
 * GitHub id: [c-martinez](http://github.com/c-martinez)
 * ORCID: [0000-0001-5565-7577](https://orcid.org/0000-0001-5565-7577)
 * Short bio:
@@ -63,7 +68,9 @@ Details of each members with their contributions have been listed alphabetically
 
 ### Mateusz Kuzak
 
-* Role: **Community manager**, Book Dash November 2020 attendee/helper
+* Role:
+  * Project Memebr (2020-Present)
+  * Book Dash Participant/Helper 2020
 * GitHub id: [mkuzak](http://github.com/mkuzak)
 * ORCID: [0000-0003-0087-6021](https://orcid.org/0000-0003-0087-6021)
 * Short bio:
@@ -84,7 +91,8 @@ You can find more details and background in the chapter [Leveraging the Turing W
 
 ### Susanna-Assunta Sansone
 
-* Role: Book Dash May 2019 attendee
+* Role: 
+  * Book Dash Participant 2019
 * GitHub id: [susannasansone](http://github.com/susannasansone)
 * ORCID: [0000-0001-5306-5690](https://orcid.org/0000-0001-5306-5690)
 * Short bio:
@@ -102,7 +110,8 @@ You can find more details and background in the chapter [Leveraging the Turing W
 
 ### Philippe Rocca-Serra
 
-* Role: Book Dash May 2020 attendee
+* Role: 
+  * Book Dash Participant 2020
 * GitHub id: [proccaserra](http://github.com/proccaserra)
 * ORCID: [0000-0001-9853-5668](https://orcid.org/0000-0001-9853-5668)
 * Short bio:
@@ -128,7 +137,6 @@ This project includes links to (1) general tutorials for the complete beginner, 
 
 ### Isabel Birds
 
-* Role: The Turing Way Contributor
 * GitHub id: [IsabelBirds](http://github.com/IsabelBirds)
 * ORCID: [0000-0001-8173-3879](https://orcid.org/0000-0001-8173-3879)
 * Short bio:

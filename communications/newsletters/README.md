@@ -5,6 +5,24 @@ To learn about how you can edit a newsletter draft, please read this chapter in 
 
 In this repository, we store the newsletter drafts in markdown format and we recommend using this excellent [Markdown to HTML](https://www.browserling.com/tools/markdown-to-html) tool to make it nice and easy to transfer the content to TinyLetter before publishing.
 
+## 2021
+
+
+| Month | Date | GitHub link | TinyLetter link |
+| ----- | ---- |----------- | --------------- |
+| January 2021 | 2021-01-22 | [21_Jan2021](newsletter_21_Jan2021.md) | [New year wishes from The Turing Way and plans for 2021!](https://tinyletter.com/TuringWay/letters/new-year-wishes-from-the-turing-way-and-plans-for-2021) |
+| February 2021 | 2021-02-25 | [22_Feb2021](newsletter_22_Feb2021.md) | [Next Book Dash event, weekly onboarding calls & preparation for a new release on Zenodo](https://tinyletter.com/TuringWay/letters/next-book-dash-event-weekly-onboarding-calls-preparation-for-a-new-release-on-zenodo) |
+| March 2021 | 2021-04-01 | [23_Mar2021](newsletter_23_Mar2021.md) | [Call for application for the upcoming Book Dash, GSoC 2021 proposal and new community resources](https://tinyletter.com/TuringWay/letters/call-for-application-for-the-upcoming-book-dash-gsoc-2021-proposal-and-new-community-resources) |
+| April 2021 | 2021-04-30 | [24_Apr2021](newsletter_24_Apr2021.md) | [Join the Community Share-out event, meet the Book Dash Planning Committee and find more updates](https://tinyletter.com/TuringWay/letters/join-the-community-share-out-event-meet-the-book-dash-planning-committee-and-find-more-updates) |
+| May 2021 | 2021-06-01 | [25_May2021](newsletter_25_Jun2021.md) | [Book Dash Report, Job Announcements, New Illustrations and Community Updates](https://tinyletter.com/TuringWay/letters/book-dash-report-job-announcements-new-illustrations-and-community-updates) |
+| June 2021 | 2021-07-01 | [26_Jun2021](newsletter_26_Jul2021.md) | [Success Stories from Book Dash Collaborations, Videos from Past Events & More Community Updates](https://tinyletter.com/TuringWay/letters/success-stories-from-book-dash-collaborations-videos-from-past-events-more-community-updates) |
+| July 2021 | 2021-07-30 | [27_Jul2021](newsletter_27_Jul2021.md) | [New Job Opportunities, Community Call Plans, Chapters and Other Updates](https://tinyletter.com/TuringWay/letters/new-job-opportunities-community-call-plans-chapters-and-other-updates) |
+| August 2021 | 2021-09-01 | [28_Aug2021](newsletter_28_Aug2021.md) | [Monthly Round-ups, Upcoming Events, JupyterHub Community Strategy Partnership and More Updates](https://tinyletter.com/TuringWay/letters/monthly-round-ups-upcoming-events-jupyterhub-community-strategy-partnership-and-more-updates) |
+| September 2021 | 2021-10-05 | [29_Sep2021](newsletter_21_Jan2021.md) | [We are Hiring; Meet us at the Fireside Chat; Community Share-out and Contributor Celebration Date!](https://tinyletter.com/TuringWay/letters/we-are-hiring-meet-us-at-the-fireside-chat-community-share-out-and-contributor-celebration-date) |
+| December 2021 | 2021-12-22 | [30_Dec2021](newsletter_30_Dec2021.md) | [Three years of The Turing Way project, highlights from our community and holiday wishes!](https://tinyletter.com/TuringWay/letters/three-years-of-the-turing-way-project-highlights-from-our-community-and-holiday-wishes) |
+
+## 2019-2020
+
 | Month | Date | GitHub link | TinyLetter link |
 | ----- | ---- |----------- | --------------- |
 | January 2019 |    | [01_Jan2019](newsletter_01_Jan2019.md) | [The Turing Way - project announcement](https://tinyletter.com/TuringWay/letters/the-turing-way-project-announcement) |

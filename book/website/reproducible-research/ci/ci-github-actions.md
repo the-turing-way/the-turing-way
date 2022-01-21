@@ -72,7 +72,7 @@ You can choose any of these starter workflows and customise them further.  An ex
 Github Action template is not the only starter kit available; there are libraries-specific templates for the language of interest. For example, you can  use  {usethis} package in R to create a template for R packages by running `usethis::use_github_action_check_standard()`. This will generate GitHub Actions to run CRAN checks after every commit or pull request. That’s all you have to do!
 
 
-### 3- Using the configuration of other projects as inspriration
+### 3- Using the configuration of other projects as inspiration
 
 Many well maintained open source libraries and estableshed projects use GitHub Actions for their CI.
 Have a look at the checks lists on pull requests of these projects for inspiration and ideas;
