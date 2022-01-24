@@ -1,4 +1,4 @@
-- name: DSG
+- name: Data Study Group
   files:
     - reproducible-research/reproducible-research
     - reproducible-research/overview
