@@ -11,7 +11,8 @@ Academic incentives encourage the creation of novel knowledge, such as creating 
 
 In other words, academia highly prizes knowledge creation. Investment in dissemination and interconnectivity and usability beyond the original academic field is typically not rewarded with the greatest academic prizes. In the highly competitive world of early career research, such work is therefore often not prioritised. 
 
-![Research Application Managers work with the research team to embed outputs into user organisations.](![image](https://user-images.githubusercontent.com/45169136/151714913-79ada42a-ded7-449b-8703-083d2a666bf5.png))
+_Research Application Managers work with the research team to embed outputs into user organisations._![image](https://user-images.githubusercontent.com/45169136/151715071-6565470d-c5e0-43b5-8272-52f32da6f415.png)
+
 
 # A RAM as a connecting role in the research ecosystem
 
