@@ -1,4 +1,5 @@
-# Research Application Managers
+(cl-infrastructure-ram)=
+# Research Application Managers: Overview
 
 ## Context and the unmet need
 
@@ -11,10 +12,16 @@ Academic incentives encourage the creation of novel knowledge, such as creating 
 
 In other words, academia highly prizes knowledge creation. Investment in dissemination and interconnectivity and usability beyond the original academic field is typically not rewarded with the greatest academic prizes. In the highly competitive world of early career research, such work is therefore often not prioritised. 
 
-_Research Application Managers work with the research team to embed outputs into user organisations._![image](https://user-images.githubusercontent.com/45169136/151715071-6565470d-c5e0-43b5-8272-52f32da6f415.png)
+```{figure} ../../figures/research-application-managers.jpg
+---
+name: research-application-managers
+alt: An illustration depicting the animal rams as the research application managers who are connecting with users, applying research in real world and facilitating innovative process in research infrastructure.
+---
+Research Application Managers work with the research team to embed outputs into user organisations. _The Turing Way_ Community, & Scriberia. (2020, November). Illustrations from the Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.4323154
+```
 
 
-# A RAM as a connecting role in the research ecosystem
+## A RAM as a connecting role in the research ecosystem
 
 We have created a role of a Research Application Manager (RAM) at The Alan Turing Institute with the aim of addressing this incentive gap. RAMs are specifically incentivised and rewarded to conduct the work that traditionally sits on the margins for a typical early career researcher engaging in creating outputs such as open source software. 
 
