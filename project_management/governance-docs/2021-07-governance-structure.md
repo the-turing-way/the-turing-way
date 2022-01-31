@@ -125,7 +125,7 @@ This will be a list of resources that are described in community handbook)
     - Monthly updates: newsletter
     - Quarterly: TPS report
     - Yearly: review and impact report
-    - Communication: email (may need update), Slack, Twitter
+    - Communication: email (may need update), Slack, Twitter, Google calendar, Gitter (mostly to direct people to different channels where we are engaging in active discussions)
 - *Infrastructure: technology and platforms*
     - JupyterBook
     - Netlify
