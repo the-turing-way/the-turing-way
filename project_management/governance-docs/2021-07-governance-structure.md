@@ -131,7 +131,7 @@ This will be a list of resources that are described in community handbook)
     - Netlify
     - GitHub
     - Binder (partner)
-    - ?
+    - HackMD
 
 <!--Foreword-->
 ## Community Profiles/health report
