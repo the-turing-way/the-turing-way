@@ -13,7 +13,7 @@ Here are a few opportunities to engage with *The Turing Way* community:
 * 💼 Apply for the Community Manager positions at The Alan Turing Institute to work closely with *The Turing Way*.
 * 👋 Sign  up to attend a short workshop on Facilitating Inclusive Events online on 14 and 18 February. 
 
-Read on for details, updates on new chapters,  👇
+Read on for details, updates on new chapters and other news from the project! 👇
 
 ## Community Events
 
