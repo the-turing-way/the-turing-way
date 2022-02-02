@@ -6,7 +6,8 @@ Hello Turing Way friends!
 
 We hope you had a good start to the year 2022! ⭐️
 
-It has been lovely to see many of you at our January’s Collaboration Café and we hope to connect with you in the coming weeks.
+It has been lovely to see many of you at our Collaboration Cafés and Coworking Calls. 
+We hope to connect with more of our community members in the coming weeks.
 Here are a few opportunities to engage with *The Turing Way* community:
 * 🔥 Attend the Fireside Chat on *Gaps and Opportunities for Inclusive Multilingual Data Science* - 11 February, 14:00 - 15:30 UTC ([register](https://www.eventbrite.co.uk/e/fireside-chat-gaps-opportunities-for-inclusive-multilingual-data-science-tickets-255972068347)).
 * 💼 Apply for the Community Manager positions at The Alan Turing Institute to work closely with *The Turing Way*.
@@ -40,9 +41,9 @@ Sign up on this shared HackMD: [hackmd.io/@turingway/collaboration-cafe](https:/
 
 ### Weekly Coworking Calls
 
-We host a weekly Coworking Call **every week on Monday from 11:00 to 12:00** London time.
+We host weekly Coworking Calls **every week on Monday from 11:00 to 12:00** London time.
 These meetings are often attended by folks working on *The Turing Way* issues or Pull Requests, leading on subprojects in collaboration with us or other projects where they use *The Turing Way* resources.
-Find details about these calls in this shared HackMD: [hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call).
+Find details about these calls in this shared HackMD and join us: [hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call).
 
 ### Workshop: Facilitating Collaborative Sessions
 
@@ -61,11 +62,12 @@ Please sign up by selecting one of the two sessions:
 ### Jobs at Turing!
 
 Apply for **Community Manager roles** within the *AI for Multiple Long Term Conditions Research Support Facility*.
-The Community Manager for *Patient and Public Involvement and Engagement* will work with researchers to elevate the voices of people living with multiple long term conditions, their family members and carers: [apply here](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager_patient_and_public_involvement_and_engagement_aim_rsf_19281). 
-The Open Collaboration Community Manager will work with Theme Lead with researchers to deliver scientific community building and training: [apply here](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager_open_collaboration_aim_rsf_19278).
+* The Community Manager for *Patient and Public Involvement and Engagement* will work with researchers to elevate the voices of people living with multiple long term conditions, their family members and carers: [apply here](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager_patient_and_public_involvement_and_engagement_aim_rsf_19281). 
+*The Open Collaboration Community Manager will work with Theme Lead with researchers to deliver scientific community building and training: [apply here](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager_open_collaboration_aim_rsf_19278).
+
 Both positions have a central role in laying the groundwork for inclusive co-creation and contribute to *The Turing Way* acting as a bi-directional conduit to implement best practices for data science.
 The **deadline for application is 6 February 2022**.
-Please see this [Twitter thread by Kirstie Whitaker](https://twitter.com/turingway/status/1486685227858767874.
+Please see this [Twitter thread by Kirstie Whitaker](https://twitter.com/turingway/status/1486685227858767874).
 
 ### Capturing Impact from Your Work
 
@@ -84,10 +86,11 @@ Read more responses in [issue #1659](https://github.com/alan-turing-institute/th
 
 ### Contributor in focus: Carlos Martinez-Ortiz 
 
-Carlos Martinez is a Community Manager - *Natural Sciences & Engineering* at the Netherlands eScience Center.
+Carlos Martinez is a 'Community Manager - Natural Sciences & Engineering' at the Netherlands eScience Center.
 He has worked as an engineer in diverse projects in digital humanities and life sciences, developing expertise in natural language processing, linked open data and software sustainability. 
 Carlos obtained his PhD in Computer Science at the University of Exeter and worked on various research projects at the University of Exeter and Plymouth University before moving to the Netherlands. 
 He is a certified Software Carpentry instructor and is frequently involved in organising training events.
+
 As a member of *The Turing Way* core team, he supports researchers from eScience Center in sharing internally developed resources and recommended practices for the [Netherlands eScience Center guide](https://guide.esciencecenter.nl/#/) to *The Turing Way*.
 
 ![Carlos Martinez's headshot](images/2022-01-carlos-4.png)
@@ -104,11 +107,12 @@ We are using this example to **encourage documentation of internal practises** f
 ### New Chapters
 
 * Arielle Bennett, Esther Plomp, Emma Karoune, Vicky Hellon and Lena Karvovskaya collaborated to document [Research Infrastructure Roles](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html) that includes subchapters on Community Managers, Data Stewards and Research Software Engineers.
+* Aida Mehonic, Jennifer Ding and Alden Conner, a team of Research Application Managers (RAM) at The Alan Turing Institute also wrote a subchapter describing their role as RAMs](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/ram.html). 🐏
 * Nina di Cara published a chapter on [self-reflection guidance for ethical research](https://the-turing-way.netlify.app/ethical-research/self-reflection.html).
 * Faruk D., Abel Siqiera and Carlos Martinez worked on [Software Citation with CITATION.cff](https://the-turing-way.netlify.app/communication/citable/citable-cff.html) and using [CFFLint](https://the-turing-way.netlify.app/communication/citable/citable-cffinit.html).
 * Margaret Wanjiku added the [documentation and metadata](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html) subchapter in the Research Data Management chapter.
 * Vicky Hellon revised and updated the [Open Access](https://the-turing-way.netlify.app/reproducible-research/open/open-access.html) publication subchapter.
-* Malvika ana Alejandro Coca added a simple guidance for chairing [Collaboration Café](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#chairing-an-online-collaboration-cafe) and [Coworking Calls](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html#chairing-coworking-calls).
+* Malvika ana Alejandro Coca added checklists for chairing [Collaboration Café](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#chairing-an-online-collaboration-cafe) and [Coworking Calls](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html#chairing-coworking-calls).
 
 *Have an idea for collaborations or a chapter? [Connect with us](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#get-in-touch). Please explore [issues](https://github.com/alan-turing-institute/the-turing-way/issues) and Pull Requests](https://github.com/alan-turing-institute/the-turing-way/pulls) to collaborate with others on ongoing work.*
 
