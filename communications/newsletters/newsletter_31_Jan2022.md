@@ -116,7 +116,7 @@ We are using this example to **encourage documentation of internal practises** f
 
 ### Collaboration Workshop 2022: Register and Submit abstract!
 
-[Collaborations Workshop 2022 (CW22)](https://software.ac.uk/cw22) will take place online from Monday 4 April - Thursday 7 April 2022.
+[Collaborations Workshop 2022 (CW22)](https://software.ac.uk/cw22) will take place online from Monday 4 April to Thursday 7 April 2022.
 The Software Sustainability Institute’s Collaborations Workshop series brings together researchers, developers, innovators, managers, funders, publishers, policy-makers, leaders and educators to explore best practices and the future of research software. 
 The themes of the CW22 keynote presentations, discussion groups, mini-workshops, collaborative ideas, and hack day will be around the following areas of research software: Code Review, Ethics, Hybrid Working, and Software Sustainability. 
 To find out more information including registration, agenda, call for submissions (deadline is 4 February) and how to sponsor the unconference, please visit the CW22 website: [https://software.ac.uk/cw22](https://software.ac.uk/cw22).
