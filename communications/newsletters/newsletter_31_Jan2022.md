@@ -56,7 +56,7 @@ Please sign up by selecting one of the two sessions:
 
 ![Illustration showing two people saying Welcome!](images/2022-01-welcome-2.png)
 
-*The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807*
+*The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes shared under the CC BY 4.0 License. Zenodo. https://doi.org/10.5281/zenodo.3332807*
 
 ### Jobs at Turing!
 
