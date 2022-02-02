@@ -40,7 +40,7 @@ Sign up on this shared HackMD: [hackmd.io/@turingway/collaboration-cafe](https:/
 
 ### Weekly Coworking Calls
 
-We host a weekly Coworking Call **every week on Monday from 11:00 - 12:00** London time.
+We host a weekly Coworking Call **every week on Monday from 11:00 to 12:00** London time.
 These meetings are often attended by folks working on *The Turing Way* issues or Pull Requests, leading on subprojects in collaboration with us or other projects where they use *The Turing Way* resources.
 Find details about these calls in this shared HackMD: [hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call).
 
