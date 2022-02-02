@@ -98,7 +98,7 @@ In his words:
 > I am a big advocate of improving software quality. 
 > I am really glad that the eScience center is collaborating with The Turing Way in providing guidelines and helping build better research software.
 
-Thanks to Carlos’ work at organisation level.
+Thanks to Carlos’ work at the organisation level.
 We are using this example to **encourage documentation of internal practises** from different research teams and cross-reference them to *The Turing Way* **enabling community-led support and sustainability** for their work.
 
 ### New Chapters
