@@ -116,7 +116,16 @@ We are using this example to **encourage documentation of internal practises** f
 
 *Have an idea for collaborations or a chapter? [Connect with us](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#get-in-touch). Please explore [issues](https://github.com/alan-turing-institute/the-turing-way/issues) and Pull Requests](https://github.com/alan-turing-institute/the-turing-way/pulls) to collaborate with others on ongoing work.*
 
-## News and Announcements from Software Sustainability Institute
+## News and Announcements from Other Projects
+
+### Open Science Conference: 08-10 March
+
+The ninth international [Open Science Conference (OSC)](https://www.open-science-conference.eu/) will take place from 08 to 10 March 2022. 
+The OSC 2022 is dedicated to the Open Science movement and provides a forum for researchers, librarians, practitioners, infrastructure providers, policymakers, and other important stakeholders to discuss the latest and future developments in Open Science.
+The conference offers insights into both practical and technical innovations, discussions about the relation between Open Science and knowledge equity and opportunities for networking and exchange.
+This year’s conference is cooperating with the German Commission for UNESCO.
+They will organise a panel discussion and a workshop in the context of the recently adopted UNESCO Recommendation on Open Science.
+Register to [attend the conference](https://www.open-science-conference.eu/registration) and the [Barcamp Open Science](https://www.open-science-conference.eu/barcamp/) on 7 March.
 
 ### Collaboration Workshop 2022: Register and Submit abstract!
 
@@ -125,7 +134,7 @@ The Software Sustainability Institute’s Collaborations Workshop series brings 
 The themes of the CW22 keynote presentations, discussion groups, mini-workshops, collaborative ideas and hack day will be around the following areas of research software: Code Review, Ethics, Hybrid Working and Software Sustainability. 
 To find out more information including registration, agenda, call for submissions (deadline is 4 February) and how to sponsor the unconference, please visit the CW22 website: [https://software.ac.uk/cw22](https://software.ac.uk/cw22).
 
-### 2022 Fellows Announced!
+### Software Sustainability Institute 2022 Fellows Announced!
 
 ![The Software Sustainability Institute 2022 Fellows Banner with their picture](images/2022-01-ssi-5.png)
 
@@ -133,6 +142,30 @@ To find out more information including registration, agenda, call for submission
 In addition, for the first time, four International Fellows were selected under the International Fellowship pilot! 
 Two of these fellows are **Sophia Batchelor and Bastian Greshake Tzovaras** who are *The Turing Way* contributors and researchers collaborating on the [AutSPACEs](https://github.com/alan-turing-institute/AutSPACEs) and [Open Humans](https://www.openhumans.org/) project. 
 Congrats to all the fellows! Read [more about them](https://www.software.ac.uk/news/announcing-2022-software-sustainability-institute-fellows).
+
+### Open Life Science Received Funding for 2022-2023
+
+The [Open Life Science (OLS)](https://openlifesci.org) training and mentoring programme have received two grants from the Wellcome Trust and Chan Zuckerberg Initiative (CZI).
+These fundings will enable research and sustainability of the program for the next two years.
+Specifically, the Wellcome Trust Open Research Fund will enable the OLS team to conduct a research-based assessment, decolonisation and dissemination of our resources for their adoption and reuse across different open science communities.
+CZI grant will provide OLS with a truly valuable opportunity to improve sustainability for the organisation and community by enabling a funded position that will focus on planning for the longer term.
+Congratulations to the OLS team! 
+Read details in their blogposts](https://openlifesci.org/posts).
+
+### Next Building Laterally Event on 23 February
+
+The Digital Infrastructure Incubator at Code for Science & Society has been hosting a Building Laterally Event Series.
+**Building Laterally: Political Imagination to Support and Sustain Digital Infrastructure** events facilitate discussions on sustainability, governance, and community health in digital public infrastructure to wider political horizons.
+The next event in the series is **Coloniality of Digital Infrastructure** which will take place online on 23 February.
+Read more details and [register to attend](https://www.eventbrite.com/e/coloniality-of-digital-infrastructure-tickets-250812836947).
+
+### Open Research Calendar
+
+We can't possibly announce all the exciting events our friends and colleagues are organising in open research and data science.
+Nevertheless, you can find out about them (or add your events) on Open Research Calendar.
+Open Research Calendar was created as a community-powered tool to serve the open research community in collating worldwide open research events into one database.
+These events are added to a public Google Calendar that anyone can subscribe to and sync with their personal calendar.
+Read more about the project and find links to their resources online at [openresearchcalendar.org](https://openresearchcalendar.org/).
 
 ## Twitter
 
