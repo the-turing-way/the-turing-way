@@ -33,7 +33,7 @@ Please register via [the Eventbrite page](https://www.eventbrite.co.uk/e/firesid
 
 We resumed *The Turing Way* Collaboration Cafés in January and had a chance to catch up with several of our community members.
 The next one is on **2 February (Today!), from 15:00 - 17:00 UTC** ([see in your timezone](https://arewemeetingyet.com/london/2022-02-02/15:00/)).
-Collaboration Cafes are collaborative spaces for you to connect with *The Turing Way* team, share your ideas and exchange feedback.
+Collaboration Cafés are collaborative spaces for you to connect with *The Turing Way* team, share your ideas and exchange feedback.
 Hosted every first and third Wednesday, these are also opportunities for us to onboard new members and share what we are working on.
 Save the dates for the next calls on 16 February and 2 March.
 Sign up on this shared HackMD: [hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
