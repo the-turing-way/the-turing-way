@@ -19,7 +19,7 @@ Read on for details, updates on new chapters,  👇
 
 ### Fireside Chat on 11 February 2022
 
-![Flyer for the Fireside chat with the headshot of the speakers, title and time for the event.](figures/2022-01-fireside-1.png)
+![Flyer for the Fireside chat with the headshot of the speakers, title and time for the event.](images/2022-01-fireside-1.png)
 
 *The Fireside Chat series features experts, champions and their projects from across different international communities in reproducibility, open research, ethics, collaboration and everything in between.*
 
@@ -54,7 +54,7 @@ Please sign up by selecting one of the two sessions:
 
 ## News from the community
 
-![Illustration showing two people saying Welcome!](figures/2022-01-welcome-2.png)
+![Illustration showing two people saying Welcome!](images/2022-01-welcome-2.png)
 
 *The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807*
 
@@ -69,7 +69,7 @@ Please see this [Twitter thread by Kirstie Whitaker](https://twitter.com/turingw
 
 ### Capturing Impact from Your Work
 
-![screenshot of Kisrtie’s Tweet saying - Hey folks! An end of year request please Have you used The Turing Way? For any purpose! Helped you work reproducibly? Inspired a project? Introduced you to someone cool? It would be amazing if you could reply so I can follow up & capture this impact.](figures/2022-01-kwtweet-3.png)
+![screenshot of Kisrtie’s Tweet saying - Hey folks! An end of year request please Have you used The Turing Way? For any purpose! Helped you work reproducibly? Inspired a project? Introduced you to someone cool? It would be amazing if you could reply so I can follow up & capture this impact.](images/2022-01-kwtweet-3.png)
 
 *[Kirstie’s Tweet](https://twitter.com/kirstie_j/status/1469060341606801410?s=20&t=6Jqhf-4GJ58rD0LgwTCFWg) invites The Turing Way users and contributors to share how this project has helped their work.*
 
@@ -91,7 +91,7 @@ Carlos obtained his PhD in Computer Science at the University of Exeter and work
 He is a certified Software Carpentry instructor and is frequently involved in organising training events.
 As a member of *The Turing Way* core team, he supports researchers from eScience Center in sharing internally developed resources and recommended practices for the [Netherlands eScience Center guide](https://guide.esciencecenter.nl/#/) to *The Turing Way*.
 
-![Carlos Martinez's headshot](figures/2022-01-carlos-4.png)
+![Carlos Martinez's headshot](images/2022-01-carlos-4.png)
 
 In his words:
 > We always advocate for software reuse and collaborative development of software. 
@@ -124,7 +124,7 @@ To find out more information including registration, agenda, call for submission
 
 ### 2022 Fellows Announced!
 
-![The Software Sustainability Institute 2022 Fellows Banner with their picture](figures/2022-01-ssi-5.png)
+![The Software Sustainability Institute 2022 Fellows Banner with their picture](images/2022-01-ssi-5.png)
 
 22 new Software Sustainability Institute Fellows have joined the fellows' network in 2022.
 In addition, for the first time, four International Fellows were selected under the International Fellowship pilot! 
@@ -133,7 +133,7 @@ Congrats to all the fellows! Read [more about them](https://www.software.ac.uk/n
 
 ## Twitter
 
-![Screenshot of 4 tweets in a pciture.](figures/2022-01-tweetcollage-6.png)
+![Screenshot of 4 tweets in a pciture.](images/2022-01-tweetcollage-6.png)
 
 **1** [Sara El-Gebali](https://twitter.com/yalahowy/status/1469362864259579910?s=20&t=6Jqhf-4GJ58rD0LgwTCFWg) tweeted a picture of her cat co-watching December’s fireside chat with her.
 **2** Cassandra Gould van Praag recently released a training video introducing version control with GitLab. See [her tweet](https://twitter.com/cassgvp/status/1484606620286038016?s=20&t=6Jqhf-4GJ58rD0LgwTCFWg) for links to her talk along with other training videos.
