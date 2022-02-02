@@ -42,7 +42,7 @@ Sign up on this shared HackMD: [hackmd.io/@turingway/collaboration-cafe](https:/
 
 We host a weekly Coworking Call **every week on Monday from 11:00 - 12:00** London time.
 These meetings are often attended by folks working on *The Turing Way* issues or Pull Requests, leading on subprojects in collaboration with us or other projects where they use *The Turing Way* resources.
-Find details about these calls in this shared HackMD: [hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call)
+Find details about these calls in this shared HackMD: [hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call).
 
 ### Workshop: Facilitating Collaborative Sessions
 
@@ -79,7 +79,6 @@ Here, we are highlighting a response from Emma Rand:
 > [I am] recommending to PGR students and integrated masters students ([online slides](https://3mmarand.github.io/BIO00058M-Data-science-2020/slides/00_intro_to_module.html#17) and basing much of [Cloud-based High-Performance Computing for Specialised Analyses on environmental 'omics](https://cloud-span.york.ac.uk/) practice and [CloudSPAN-handbook](https://cloud-span.github.io/CloudSPAN-handbook/) on The Turing Way!
 
 Read more responses in [issue #1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659) and comment to share your experiences with *The Turing Way*.
-
 
 ## Acknowledgements and celebrations
 
@@ -142,6 +141,7 @@ Congrats to all the fellows! Read [more about them](https://www.software.ac.uk/n
 
 ## Connect with us!
 
+- [Relevant links from *The turing Way*](https://hackmd.io/@turingway/demo-intro)
 - [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
 - [_The Turing Way_ book](https://the-turing-way.netlify.com)
 - [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
