@@ -8,7 +8,7 @@ We hope you had a good start to the year 2022! ⭐️
 
 It has been lovely to see many of you at our January’s Collaboration Café and we hope to connect with you in the coming weeks.
 Here are a few opportunities to engage with *The Turing Way* community:
-* 🍵 Join the Collaboration Café on 2 February (this is today!), from 15:00 - 17:00 London time (see [details](https://hackmd.io/@turingway/collaboration-cafe)).
+* 🍵 Join the Collaboration Café on 2 February (this is today!), from 15:00 to 17:00 London time (see [details](https://hackmd.io/@turingway/collaboration-cafe)).
 * 🔥 Attend the Fireside Chat on *Gaps and Opportunities for Inclusive Multilingual Data Science* - 11 February, 14:00 - 15:30 UTC ([register](https://www.eventbrite.co.uk/e/fireside-chat-gaps-opportunities-for-inclusive-multilingual-data-science-tickets-255972068347)).
 * 💼 Apply for the Community Manager positions at The Alan Turing Institute to work closely with *The Turing Way*.
 * 👋 Sign  up to attend a short workshop on Facilitating Inclusive Events online on 14 and 18 February. 
