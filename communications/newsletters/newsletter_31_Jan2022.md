@@ -15,6 +15,8 @@ Here are a few opportunities to engage with *The Turing Way* community:
 
 Read on for details, updates on new chapters and other news from the project! 👇
 
+_Thanks to Achintya Rao for reviewing an earlier draft of this newsletter! 🌻_
+
 ## Community Events
 
 ### Fireside Chat on 11 February 2022
