@@ -134,7 +134,7 @@ Congrats to all the fellows! Read [more about them](https://www.software.ac.uk/n
 
 ![Screenshot of 4 tweets in a pciture.](images/2022-01-tweetcollage-6.png)
 
-**1** [Sara El-Gebali](https://twitter.com/yalahowy/status/1469362864259579910?s=20&t=6Jqhf-4GJ58rD0LgwTCFWg) tweeted a picture of her cat co-watching December’s fireside chat with her.
+**1** [Sara El-Gebali](https://twitter.com/yalahowy/status/1469362864259579910) tweeted a picture of her cat co-watching December’s fireside chat with her.
 **2** Cassandra Gould van Praag recently released a training video introducing version control with GitLab. See [her tweet](https://twitter.com/cassgvp/status/1484606620286038016?s=20&t=6Jqhf-4GJ58rD0LgwTCFWg) for links to her talk along with other training videos.
 **3** Data Stewardship Council shares The Turing Way illustration on FAIR in a [recent tweet](https://twitter.com/DeltaCouncil/status/1480689241612976131?s=20&t=6Jqhf-4GJ58rD0LgwTCFWg).
 **4** Katie McDonough recommended The Turing Way in [her tweet](https://twitter.com/khetiwe24/status/1484167069058973703?s=20&t=6Jqhf-4GJ58rD0LgwTCFWg) as part of an independent study on machine learning in Digital Humanities.
