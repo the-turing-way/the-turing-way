@@ -25,15 +25,15 @@ _Thanks to Achintya Rao for reviewing an earlier draft of this newsletter! 🌻_
 *The Fireside Chat series features experts, champions and their projects from across different international communities in reproducibility, open research, ethics, collaboration and everything in between.*
 
 On 11 February 2022, 14:00 - 15:30 UTC ([in your timezone](https://arewemeetingyet.com/london/2022-02-11/14:00/ttw-fireside-chat)), the next fireside chat will take place on the topic: **Gaps & Opportunities for Inclusive, Multilingual Data Science**. 
-Chaired by Anelda van der Walt and Malvika Sharan, this panel will feature insights from Batool Almarzouq, Bobby Shabangu, Camila Rangel-Smith, David Pérez-Suárez, Langa Khumalo and Yanina Bellini Saibene. 
-These researchers represent different communities with expertise and insights from working in multilingual research and data science projects (read their bios below). 
+Chaired by Anelda van der Walt and Malvika Sharan, this panel will feature insights from **Batool Almarzouq, Bobby Shabangu, Camila Rangel-Smith, David Pérez-Suárez, Langa Khumalo and Yanina Bellini Saibene**. 
+These researchers represent different communities with expertise and insights from working in multilingual research and data science projects. 
 We will also facilitate open discussions with attendees to learn about their perspectives on the topic via a shared document.
-Please register via [the Eventbrite page](https://www.eventbrite.co.uk/e/fireside-chat-gaps-opportunities-for-inclusive-multilingual-data-science-tickets-255972068347).
+Read more details and register via [the Eventbrite page](https://www.eventbrite.co.uk/e/fireside-chat-gaps-opportunities-for-inclusive-multilingual-data-science-tickets-255972068347).
 
 ### Collaboration Cafés
 
-We had a chance to catch up with several of you at the *The Turing Way* Collaboration Cafés.
-Taking place every first and third Wednesday for 2 hours from 15:00 to 17:00 UTC ([see in your timezone](https://arewemeetingyet.com/london/2022-02-16/15:00/)), Collaboration Cafés are collaborative spaces for you to connect with *The Turing Way* team, share your ideas and exchange feedback.
+We had a chance to catch up with several of you at the *The Turing Way* Collaboration Cafés in the last weeks. 
+Taking place **every month on the first and third Wednesday from 15:00 to 17:00 UTC** ([see in your timezone](https://arewemeetingyet.com/london/2022-02-16/15:00/)), Collaboration Cafés are collaborative spaces for you to connect with *The Turing Way* team, share your ideas and exchange feedback.
 These are also opportunities for us to onboard new members and share what we are working on.
 Save the dates for the next calls on 16 February and 2 March.
 Sign up on this shared HackMD: [hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
@@ -46,7 +46,7 @@ Find details about these calls in this shared HackMD: [hackmd.io/@turingway/cowo
 
 ### Workshop: Facilitating Collaborative Sessions
 
-Many of you expressed interest to host Collaboration Cafés or Coworking Calls but also expressed your interest in attending a guided session on facilitating such events online.
+Many of you expressed interest to host Collaboration Cafés or Coworking Calls but also indicated that you would like to attend a guided session on facilitating such events online.
 Therefore, Malvika will be hosting two short **workshops on Facilitating Collaborative Sessions** such as those organised in *The Turing Way* community.
 Please sign up by selecting one of the two sessions:
 * [Register for the Workshop-1](https://turing-uk.zoom.us/meeting/register/tJMscuqsrj4jEtboVuSPRv1OYlfdWt4zOXKa): **14 February, 17:00 to 18:00 UTC** ([see in your timezone](https://arewemeetingyet.com/london/2022-02-14/17:00/))
@@ -73,12 +73,12 @@ Please see this [Twitter thread by Kirstie Whitaker](https://twitter.com/turingw
 
 *[Kirstie’s Tweet](https://twitter.com/kirstie_j/status/1469060341606801410) invites The Turing Way users and contributors to share how this project has helped their work.*
 
-Like last year, Kirstie asked again how you use The Turing Way.
+Like last year, Kirstie asked again how you use *The Turing Way*.
 Here, we are highlighting a response from Emma Rand:
 
-> [I am] recommending to PGR students and integrated masters students ([online slides](https://3mmarand.github.io/BIO00058M-Data-science-2020/slides/00_intro_to_module.html#17) and basing much of [Cloud-based High-Performance Computing for Specialised Analyses on environmental 'omics](https://cloud-span.york.ac.uk/) practice and [CloudSPAN-handbook](https://cloud-span.github.io/CloudSPAN-handbook/) on The Turing Way!
+> [I am] recommending to PGR students and integrated masters students ([online slides](https://3mmarand.github.io/BIO00058M-Data-science-2020/slides/00_intro_to_module.html#17) and basing much of [Cloud-based High-Performance Computing for Specialised Analyses on environmental 'omics](https://cloud-span.york.ac.uk/) practice and [CloudSPAN-handbook](https://cloud-span.github.io/CloudSPAN-handbook/) on *The Turing Way*!
 
-Read more responses in [issue #1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659) and comment to share your experiences with *The Turing Way*.
+Read more responses in [issue #1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659) and comment to share your experiences with us.
 
 ## Acknowledgements and celebrations
 
@@ -94,9 +94,9 @@ As a member of *The Turing Way* core team, he supports researchers from eScience
 
 In his words:
 > We always advocate for software reuse and collaborative development of software. 
-> I love that we can do the same for software development guidelines: reuse content from the eScience guide and collaboratively develop with The Turing Way community!
+> I love that we can do the same for software development guidelines: reuse content from the eScience guide and collaboratively develop with *The Turing Way* community!
 > I am a big advocate of improving software quality. 
-> I am really glad that the eScience Center is collaborating with The Turing Way in providing guidelines and helping build better research software.
+> I am really glad that the eScience Center is collaborating with *The Turing Way* in providing guidelines and helping build better research software.
 
 Thanks to Carlos’ work at the organisation level.
 We are using this example to **encourage documentation of internal practises** from different research teams and cross-reference them to *The Turing Way* **enabling community-led support and sustainability** for their work.
@@ -136,14 +136,14 @@ Congrats to all the fellows! Read [more about them](https://www.software.ac.uk/n
 
 **1** [Sara El-Gebali](https://twitter.com/yalahowy/status/1469362864259579910) tweeted a picture of her cat co-watching December’s fireside chat with her.
 **2** Cassandra Gould van Praag recently released a training video introducing version control with GitLab. See [her tweet](https://twitter.com/cassgvp/status/1484606620286038016) for links to her talk along with other training videos.
-**3** Data Stewardship Council shares The Turing Way illustration on FAIR in a [recent tweet](https://twitter.com/DeltaCouncil/status/1480689241612976131).
-**4** Katie McDonough recommended The Turing Way in [her tweet](https://twitter.com/khetiwe24/status/1484167069058973703) as part of an independent study on machine learning in Digital Humanities.
+**3** Data Stewardship Council shares *The Turing Way* illustration on FAIR in a [recent tweet](https://twitter.com/DeltaCouncil/status/1480689241612976131).
+**4** Katie McDonough recommended *The Turing Way* in [her tweet](https://twitter.com/khetiwe24/status/1484167069058973703) as part of an independent study on machine learning in Digital Humanities.
 
 ## Connect with us!
 
 - [Relevant links from *The turing Way*](https://hackmd.io/@turingway/demo-intro)
 - [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
-- [_The Turing Way_ book](https://the-turing-way.netlify.com)
+- [*The Turing Way* book](https://the-turing-way.netlify.com)
 - [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 - [Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
 - [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
