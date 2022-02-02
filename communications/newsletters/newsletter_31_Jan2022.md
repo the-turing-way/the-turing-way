@@ -114,7 +114,7 @@ We are using this example to **encourage documentation of internal practises** f
 * Vicky Hellon revised and updated the [Open Access](https://the-turing-way.netlify.app/reproducible-research/open/open-access.html) publication subchapter.
 * Malvika ana Alejandro Coca added checklists for chairing [Collaboration Café](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#chairing-an-online-collaboration-cafe) and [Coworking Calls](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html#chairing-coworking-calls).
 
-*Have an idea for collaborations or a chapter? [Connect with us](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#get-in-touch). Please explore [issues](https://github.com/alan-turing-institute/the-turing-way/issues) and Pull Requests](https://github.com/alan-turing-institute/the-turing-way/pulls) to collaborate with others on ongoing work.*
+*Have an idea for collaborations or a chapter? [Connect with us](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#get-in-touch). Please explore [issues](https://github.com/alan-turing-institute/the-turing-way/issues) and [Pull Requests](https://github.com/alan-turing-institute/the-turing-way/pulls) to collaborate with others on ongoing work.*
 
 ## News and Announcements from Other Projects
 
