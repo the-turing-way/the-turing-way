@@ -3,14 +3,18 @@
 
 ## Context and the unmet need
 
-Academic incentives encourage the creation of novel knowledge, such as creating new software. Traditionally, academia is less interested at supporting and rewarding work on:
+Academic incentives encourage the creation of novel knowledge, such as creating new machine learning algorithms. 
+Often, after ground-breaking work has been published in an academic journal, the algorithm and the software built to deploy it are not supported because the researcher begins a new project or moves to another institution.
+Traditionally, academia is less interested in supporting and rewarding work on:
 - Improving and extending existing research outputs/software
 - Promoting interoperability of new and existing outputs/software
 - Investing in usability, re-usability and user-friendliness of outputs/software (new and existing)
 - Co-creating outputs with users from the early stages of the research output lifecycle
-- Proactively discovering new real-world applications and use-cases beyond the original academic field and investing in its promotion, adaptation and adoption. 
+- Proactively discovering new real-world applications and use cases beyond the original academic field and investing in their promotion, adaptation and adoption 
 
-In other words, academia highly prizes knowledge creation. Investment in dissemination and interconnectivity and usability beyond the original academic field is typically not rewarded with the greatest academic prizes. In the highly competitive world of early career research, such work is therefore often not prioritised. 
+In other words, academia highly prizes knowledge creation. 
+Investment in dissemination, interconnectivity and usability beyond the original academic field is typically not rewarded with the greatest academic prizes. 
+In the highly competitive world of early career research, such work is therefore often not prioritised. 
 
 ```{figure} ../../figures/research-application-managers.jpg
 ---
@@ -23,24 +27,28 @@ Research Application Managers work with the research team to embed outputs into 
 
 ## A RAM as a connecting role in the research ecosystem
 
-We have created a role of a Research Application Manager (RAM) at The Alan Turing Institute with the aim of addressing this incentive gap. RAMs are specifically incentivised and rewarded to conduct the work that traditionally sits on the margins for a typical early career researcher engaging in creating outputs such as open source software. 
+We have created the role of a Research Application Manager (RAM) at The Alan Turing Institute with the aim of addressing this incentive gap. 
+RAMs are specifically incentivised and rewarded to conduct the work that traditionally sits on the margins for a typical early career researcher engaging in creating outputs such as open source software. 
 
-RAMs are in part inspired by the role of a Product Manager in tech firms. They also have similarities with the role of a developer advocate and there are also overlaps with the work of the community manager.
+RAMs are in part inspired by the role of a Product Manager in tech firms. 
+They also have similarities with the role of a developer advocate and their work overlaps with that of the community manager.
+In some cases the RAM workload may include detailed, often technical, input, resembling a Solutions Engineer or a Forward Deployed Engineer, who interface directly with customers to ensure that the tool meets user needs.
 
-The measure of success for a RAM:
-- Engaging with the research team early on in the project to bring the perspective of potential users of their software tools and to proactively co-create from the early stages. 
-- Advocating for the user perspective throughout the development and feature prioritisation process. 
-- Identifying the key users and the target audience. 
-- Researching and understanding the user community. 
-- Engaging with the user community. 
-- Identifying sustainability and funding solutions in collaboration with the research team.
-- Promoting the tools outside the academic field of the original research team.
-- Approaching the output as a research ‘product’ and bringing an appropriate level of ‘market intelligence’ to the academic team.
+The measures of success for a RAM:
+- Engaging with the research team early on in the project to bring the perspective of potential users of their software tools and to proactively co-create from the early stages
+- Advocating for the user perspective throughout the development and feature prioritisation process
+- Identifying the key users and the target audience
+- Researching and understanding the user community
+- Engaging with the user community
+- Identifying sustainability and funding solutions in collaboration with the research team
+- Promoting the tools outside the academic field of the original research team
+- Approaching the output as a research "product" and bringing an appropriate level of "market intelligence" to the academic team
 - "Packaging" or "re-packaging" the tool to improve usability/accessibility to different audiences
 
-RAMs are a solution primarily to the incentive gap problem. They bring a ‘Team Science’ mindset to the research teams and promote research best practice - a task they share with the Community Manager role.
+RAMs are a solution primarily to the incentive gap problem. 
+They bring a "Team Science" mindset to the research teams and promote research best practices - a task they share with the Community Manager role.
 
-Both RAMs and CMs promote best practice in:
+Both RAMs and CMs promote best practices in:
 - Interoperability of outputs 
 - Reproducibility of research findings and outputs
 - Team Science / Open Science
@@ -48,7 +56,8 @@ Both RAMs and CMs promote best practice in:
 - Co-creation
 - Inclusivity
 
-Community managers are becoming an established role in the research ecosystem and in open source software communities in particular. We hope that RAMs will have a similarly successful trajectory. 
+Community managers are becoming an established role in the research ecosystem and in open source software communities in particular. 
+We hope that RAMs will have a similarly successful trajectory. 
 
 Key RAM values: _adaptability, collaboration and legacy_
 
