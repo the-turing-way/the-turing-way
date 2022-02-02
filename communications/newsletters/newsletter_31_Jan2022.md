@@ -150,7 +150,7 @@ These fundings will enable research and sustainability of the program for the ne
 Specifically, the Wellcome Trust Open Research Fund will enable the OLS team to conduct a research-based assessment, decolonisation and dissemination of our resources for their adoption and reuse across different open science communities.
 CZI grant will provide OLS with a truly valuable opportunity to improve sustainability for the organisation and community by enabling a funded position that will focus on planning for the longer term.
 Congratulations to the OLS team! 
-Read details in their blogposts](https://openlifesci.org/posts).
+Read details in [OLS' blogposts](https://openlifesci.org/posts).
 
 ### Next Building Laterally Event on 23 February
 
