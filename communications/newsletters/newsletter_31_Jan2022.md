@@ -65,7 +65,7 @@ The Community Manager for *Patient and Public Involvement and Engagement* will w
 The Open Collaboration Community Manager will work with Theme Lead with researchers to deliver scientific community building and training: [apply here](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager_open_collaboration_aim_rsf_19278).
 Both positions have a central role in laying the groundwork for inclusive co-creation and contribute to *The Turing Way* acting as a bi-directional conduit to implement best practices for data science.
 The **deadline for application is 6 February 2022**.
-Please see this [Twitter thread by Kirstie Whitaker](https://twitter.com/turingway/status/1486685227858767874?s=20&t=6Jqhf-4GJ58rD0LgwTCFWg).
+Please see this [Twitter thread by Kirstie Whitaker](https://twitter.com/turingway/status/1486685227858767874.
 
 ### Capturing Impact from Your Work
 
