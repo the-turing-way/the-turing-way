@@ -31,7 +31,7 @@ We have created the role of a Research Application Manager (RAM) at The Alan Tur
 RAMs are specifically incentivised and rewarded to conduct the work that traditionally sits on the margins for a typical early career researcher engaging in creating outputs such as open source software. 
 
 RAMs are in part inspired by the role of a Product Manager in tech firms. 
-They also have similarities with the role of a developer advocate and their work overlaps with that of the community manager.
+They also have similarities with the role of a Developer Advocate and their work overlaps with that of the Community Manager.
 In some cases the RAM workload may include detailed, often technical, input, resembling a Solutions Engineer or a Forward Deployed Engineer, who interface directly with customers to ensure that the tool meets user needs.
 
 The measures of success for a RAM:
