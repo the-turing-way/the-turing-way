@@ -71,7 +71,7 @@ Please see this [Twitter thread by Kirstie Whitaker](https://twitter.com/turingw
 
 ![screenshot of Kisrtie’s Tweet saying - Hey folks! An end of year request please Have you used The Turing Way? For any purpose! Helped you work reproducibly? Inspired a project? Introduced you to someone cool? It would be amazing if you could reply so I can follow up & capture this impact.](images/2022-01-kwtweet-3.png)
 
-*[Kirstie’s Tweet](https://twitter.com/kirstie_j/status/1469060341606801410?s=20&t=6Jqhf-4GJ58rD0LgwTCFWg) invites The Turing Way users and contributors to share how this project has helped their work.*
+*[Kirstie’s Tweet](https://twitter.com/kirstie_j/status/1469060341606801410) invites The Turing Way users and contributors to share how this project has helped their work.*
 
 Like last year, Kirstie asked again how you use The Turing Way.
 Here, we are highlighting a response from Emma Rand:
