@@ -459,10 +459,13 @@ data[data$country == "Australia", ] %>%
 ## Changing the Interface
 
 Throughout this tutorial, we have been using the JupyterLab interface.
+This is the default interface for newly created Binder instances.
 However, this is not the only interface available on mybinder.org, the Classic Notebook view and RStudio are available too.
 (An R environment needs to be installed for RStudio to be available.)
 
 You can access the different interfaces in different ways.
+The easiest way is to use the buttons in the JupyterLab Launcher, but you can provide URL parameters to directly open a specific interface (or file!) when the Binder instance launches.
+We'll now cover three ways you can manipulate your Binder URL to navigate between interfaces.
 
 ### from inside a running Binder
 
