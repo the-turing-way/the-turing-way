@@ -1,9 +1,9 @@
 (z2b)=
 # Zero-to-Binder
 
-In this chapter, we will create a Binder project from a repository we create on GitHub and launch in on mybinder.org.
+In this chapter, we will create a Binder project from scratch: we will first make a repository on GitHub and then launch in on mybinder.org.
 Sections where you are expected to complete a task are denoted by three traffic light 🚦 emojis.
-Some steps have the option of Python, Julia or R languages - click on the tab of the language you would like to use.
+Some steps give you the option of Python, Julia or R - click on the tab of your preferred language.
 
 ```{admonition} Attributions
 This tutorial is based on Tim Head's _Zero-to-Binder_ workshops which can be found here: <http://bit.ly/zero-to-binder> and <http://bit.ly/zero-to-binder-rise>
@@ -38,18 +38,18 @@ You will need:
 🚦🚦🚦
 
 ````{tabbed} Python
-1) Create a new repo on GitHub called "my-first-binder".
+1) Create a new repo on GitHub called "my-first-binder"
    - Make sure the repository is **public**, _not private_!
-   - Don't forget to initialise with a README!
+   - Don't forget to initialise the repo with a README!
 2) Create a file called `hello.py` via the web interface with `print("Hello from Binder!")` on the first line and commit to the `main` branch
 ````
 
 ````{tabbed} Julia
-1) Create a new repo on GitHub called "my-first-binder".
+1) Create a new repo on GitHub called "my-first-binder"
    - Make sure the repository is **public**, _not private_!
-   - Don't forget to initialise with a README!
+   - Don't forget to initialise the repo with a README!
 2) Create a file called `hello.jl` via the web interface with `println("Hello from Binder!")` on the first line and commit to the `main` branch
-3) Create a file called `Project.toml` (:rotating_light: the capitalisation is important!) with the following content and commit it to `main`.
+3) Create a file called `Project.toml` (WARNING: the capitalisation is important!) with the following content and commit it to `main`.
    This will install Julia into the Binder environment.
 
    ```julia
@@ -59,21 +59,21 @@ You will need:
 ````
 
 ````{tabbed} R
-1) Create a new repo on GitHub called "my-first-binder".
+1) Create a new repo on GitHub called "my-first-binder"
    - Make sure the repository is **public**, _not private_!
-   - Don't forget to initialise with a README!
-2) Create a file called `hello.R` via the web interface with `print("Hello from Binder!")` on the first line and commit to the `main` branch.
+   - Don't forget to initialise the repo with a README!
+2) Create a file called `hello.R` via the web interface with `print("Hello from Binder!")` on the first line and commit to the `main` branch
 3) Create a file called `runtime.txt` with `r-2022-01-01` on the first line.
    This date represents the snapshot of [CRAN](https://cran.r-project.org/) hosted on the [RStudio Package Manager](https://packagemanager.rstudio.com) we will use.
    Commit this file to the `main` branch.
 
    ```{note}
-   In R you can use `holepunch::write_runtime()` to create a `runtime.txt` in the `.binder/` directory, configured with today's date.
+   In R you can use `holepunch::write_runtime()` to create a `runtime.txt` in the `.binder/` directory; it will be configured with today's date.
    ```
 ````
 
 (z2b-public-repo)=
-### Why did the repo have to be public?
+### Why does the repo have to be public?
 
 mybinder.org cannot access private repositories as this would require a secret token.
 The Binder team choose not to take on the responsibility of handling secret tokens as mybinder.org is a public service and proof of technological concept.
@@ -91,8 +91,8 @@ If accessing private repositories is a feature you/your team need, we advise tha
 3) As you type, the webpage generates a link in the "Copy the URL below..." box
    It should look like this:
    > **https://mybinder.org/v2/gh/YOUR-USERNAME/my-first-binder/HEAD**
-4) Copy it, open a new browser tab and visit that URL.
-   - You will see a "spinner" as Binder launches the repo.
+4) Copy it, open a new browser tab and visit that URL
+   - You will see a "spinner" as Binder launches the repo
 
 If everything ran smoothly, you'll see a JupyterLab interface.
 
@@ -139,7 +139,7 @@ It was easy to get started, but our environment is barebones - let's add a **dep
 ````{tabbed} Python
 1) In your repo, create a file called `requirements.txt`
 2) Add a line that says: `numpy==1.14.5`
-3) Check for typos! Then commit to the `main` branch.
+3) Check for typos! Then commit to the `main` branch
 4) Visit **https://mybinder.org/v2/gh/YOUR-USERNAME/my-first-binder/HEAD** again in a new tab
 ````
 
@@ -159,11 +159,11 @@ It was easy to get started, but our environment is barebones - let's add a **dep
 ````{tabbed} R
 1) In your repo, create a file called `install.R`
 2) Add a line that says: `install.packages("readr")`
-3) Check for typos! Then commit to the `main` branch.
+3) Check for typos! Then commit to the `main` branch
 4) Visit **https://mybinder.org/v2/gh/YOUR-USERNAME/my-first-binder/HEAD** again in a new tab
 
 ```{note}
-In R you can create an `install.R` file and automatically add the code to install all dependencies in your project using `holepunch::write_install()`.
+If using `holepunch`, you can create an `install.R` file and automatically add the code to install all dependencies in your project using `holepunch::write_install()`.
 ```
 ````
 
@@ -206,9 +206,9 @@ The truth is that you'd never do it manually, the built-in package manager `Pkg`
 ````{tabbed} R
 In the above example, we specified that we want to use R in our project by including a date in `runtime.txt`.
 The date tells Binder which CRAN snapshot to source R and packages from.
-These snapshots are sourced from the [RStudio Package Manager](https://packagemanager.rstudio.com).
-In the above example, the MRAN snapshot dated `r-2022-01-01` is used and the version of R and `readr` available at that date and installed.
-For the workflow to work correctly, please ensure you do not supply a date earlier than this example date.
+These snapshots are sourced from the [RStudio Package Manager](https://packagemanager.rstudio.com) (RSPM).
+In the above example, the RSPM snapshot dated `r-2022-01-01` is used and the version of R and `readr` available at that date and installed.
+For the example workflow to work correctly, please ensure you do not supply a date earlier than this example date.
 
 This provides some rudimentary package versioning for R users but is not as robust as pinning versions in a `requirements.txt` in Python.
 For more robust and specific version pinning in R, have a look at the [`renv`](https://rstudio.github.io/renv/) package.
@@ -260,11 +260,11 @@ For more robust and specific version pinning in R, have a look at the [`renv`](h
    read_csv(system.file("extdata/mtcars.csv", package = "readr"))
    ```
 
-3) Run the cell.
-    - Press either SHIFT+RETURN or the "Run" button in the Menu bar.
+3) Run the cell
+    - Press either SHIFT+RETURN or the "Run" button in the Menu bar
     You should see the following output:
-      - the version number of the installed version of `readr`.
-      - a tibble of the contents of the `mtcars.csv` which is a csv file included in package `readr`.
+      - the version number of the installed version of `readr`
+      - a tibble of the contents of the `mtcars.csv` which is a csv file included in package `readr`
 ````
 
 ```{attention}
@@ -322,7 +322,7 @@ Therefore, the data is only downloaded once when the Docker image is built, not 
 It is not practical to place large files in your GitHub repo or include them directly in the image that Binder builds.
 The best option for large files is to use a library specific to the data format to stream the data as you're using it or to download it on demand as part of your code.
 
-For security reasons, the outgoing traffic of your Binder is restricted to HTTP or GitHub connections only. You will not be able to use FTP sites to fetch data on mybinder.org.
+For security reasons, the outgoing traffic of your Binder is restricted to HTTP/S or GitHub connections only. You will not be able to use FTP sites to fetch data on mybinder.org.
 
 (z2b-private-files)=
 ### Private files

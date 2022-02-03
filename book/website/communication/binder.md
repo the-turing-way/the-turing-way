@@ -12,10 +12,10 @@ In short, sharing your research code can help provide context to the results you
 By sharing code, we also avoid reinventing the wheel in order to make progress on a research topic since the previous tools are available to be built on top of.
 
 However, the biggest barrier to sharing code is often installing packages and setting up the computational environment, as we will see in the next section.
-By sharing your work via platform such as mybinder.org:
+By sharing your work via platforms such as mybinder.org:
 
 - Installing software packages is no longer a challenge
-- People using different operating systems have similar experiences since the computation is happing on the platform, not their local machine
+- People using different operating systems have similar experiences since the computation is happening on the platform, not their local machine
 - Your work can be distributed to a broader audience since the technical barrier has been lowered
 
 (binder-what)=
@@ -37,7 +37,7 @@ A lot of interdependent parts are required to run code, such as:
 On top of acquiring all those parts, you also have to install them correctly and in such a way that they are not influenced or come into conflict with other software that may be running on your machine.
 It's a lot of work!
 
-How much easier would it be if we could **run code in the browser**, similar to how it's currently displayed?
+How much easier would it be if we could **run code in the browser**, similar to how it's displayed?
 This is what Project Binder aims to achieve.
 
 Project Binder provides a user with the following infrastructure:
@@ -50,10 +50,10 @@ Project Binder provides a user with the following infrastructure:
   - and a copy of the code itself (Notebooks or scripts);
 - a URL to where the environment is running so the code can be interacted with by you or your collaborators.
 
-Project Binder has packaged together all of the moving parts that make sharing computational work challenging into a simple to use interface.
+Project Binder has packaged together all of the moving parts that make it challenging to share computational work into a simple to use interface.
 There is a **free and public** version of this interface running at [**mybinder.org**](https://mybinder.org).
 
-The cartoon below, by Juliette Taka, demonstrates one workflow a scientist using Binder might adopt.
+The cartoon below, by Juliette Taka, demonstrates one workflow a that scientist using Binder might adopt.
 
 ```{figure} ../figures/binder-comic.png
 ---
@@ -86,7 +86,7 @@ In this section, there are some related terms, which will be outlined here for c
 (binder-appropriate)=
 ## When is it appropriate to use mybinder.org?
 
-Maintaining a free, anonymous, cloud compute service is a lot of voluntary work and costs a lot of money.
+Maintaining a free, anonymous service in the cloud is a lot of voluntary work and costs a lot of money.
 In order to reduce the running costs somewhat, mybinder.org places computational restrictions on each running Binder instance.
 These restrictions are:
 
@@ -115,7 +115,7 @@ Many common questions are answered on the [About mybinder.org page](https://mybi
 ### How do I save my changes back to my repository?
 
 Unfortunately, you can't.
-At least, not from the command line.
+At least, not from the command line in a running Binder instance.
 
 Writing back to a hosted repository, whether it be on GitHub or some other platform, will require a credential of some kind to authorise you to write to that repository.
 And as has been mentioned, mybinder.org is a completely public service and you should not provide any sensitive information to a running Binder instance under any circumstances.
@@ -135,7 +135,7 @@ Using this "Download" button in a Jupyter Notebook running on mybinder.org will 
 
 It's not impossible, but there's definitely room to develop this feature in comparison to other "free cloud compute" services available.
 
-For those interested in this, I would recommend reading [this Discourse post](https://discourse.jupyter.org/t/collaborating-on-one-binder-instance/407) and checking out the [`jupyterlab-link-share` repository](https://github.com/jtpio/jupyterlab-link-share).
+Those who are interested in this, can find out more in [this Discourse post](https://discourse.jupyter.org/t/collaborating-on-one-binder-instance/407) and in the [`jupyterlab-link-share` repository](https://github.com/jtpio/jupyterlab-link-share).
 
 ### How is mybinder.org different to Google Colab?
 
