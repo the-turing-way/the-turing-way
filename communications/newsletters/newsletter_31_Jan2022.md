@@ -61,13 +61,14 @@ Please sign up by selecting one of the two sessions:
 
 ### Jobs at Turing!
 
-Apply for **Community Manager roles** within the *AI for Multiple Long Term Conditions Research Support Facility*.
-* The Community Manager for *Patient and Public Involvement and Engagement* will work with researchers to elevate the voices of people living with multiple long term conditions, their family members and carers: [apply here](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager_patient_and_public_involvement_and_engagement_aim_rsf_19281). 
-*The Open Collaboration Community Manager will work with Theme Lead with researchers to deliver scientific community building and training: [apply here](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager_open_collaboration_aim_rsf_19278).
+Apply for **Community Manager** within the *AI for Multiple Long Term Conditions Research Support Facility*.
+* The Community Manager for *Patient and Public Involvement and Engagement* will work with Theme Lead, Lynsey Cross and researchers to elevate the voices of people living with multiple long term conditions, their family members and carers: [apply here](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager_patient_and_public_involvement_and_engagement_aim_rsf_19281/en/). The **deadline is 6 February 2022**.
+* The Open Collaboration Community Manager will work with Theme Lead, Evelina Gabasova and researchers to deliver scientific community building and training: [apply here](https://cezanneondemand.intervieweb.it/turing/jobs/community_manager_open_collaboration_aim_rsf_19278/en/). The **deadline is 13 February 2022**.
 
-Both positions have a central role in laying the groundwork for inclusive co-creation and contribute to *The Turing Way* acting as a bi-directional conduit to implement best practices for data science.
-The **deadline for application is 6 February 2022**.
-Please see this [Twitter thread by Kirstie Whitaker](https://twitter.com/turingway/status/1486685227858767874).
+Apply for the **Research Application Manager** for the Turing Data Safe Haven project (DSH), a flagship research engineering project at The Alan Turing Institute.
+The postholder will work closely with Kirstie Whitaker, Aida Mehonic, Martin O'Reilly and James Robinson, members from the Tools, Practices and Systems research programme and Research Engineering Group at the Institute: [apply here](https://cezanneondemand.intervieweb.it/turing/jobs/research_application_manager_data_safe_haven_19580/en/). The **deadline is 13 February 2022**.
+
+These positions have a central role in laying the groundwork for inclusive co-creation and contribute to *The Turing Way* acting as a bi-directional conduit to implement best practices for data science (share this [Twitter thread](https://twitter.com/turingway/status/1486685227858767874).
 
 ### Capturing Impact from Your Work
 
