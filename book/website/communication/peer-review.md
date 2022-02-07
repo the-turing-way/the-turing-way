@@ -1,4 +1,4 @@
-(cm-pr)=
+(cm-peer-review)=
 # Peer Review
 
 (cm-pr-prerequisites)=
