@@ -12,8 +12,8 @@ Peer review is a critical component of advancing research. Types of peer review 
 
 
 Peer review can be formal or informal and ideally occurs at different levels throughout a project. In the traditional publishing model, there was a lot of focus on the peer review process of a journal article.
-For manuscripts, one of the added values of a journal articles, compared to, for instance, a [preprint](link to preprint chapter needed) is that it has been [peer reviewed and modified by the author in response to the reviewer's suggestions](here we need to link to guidlines). 
-However, there are also initiatives to peer review preprints, for example, [Peer Community In](https://peercommunityin.org/) arranges reviews for manuscripts.
+For manuscripts, one of the added values of a journal articles, compared to, for instance, a {ref}`preprint<rr-open-access-whatis-publishing>` is that it has been [peer reviewed and modified by the author in response to the reviewer's suggestions](here we need to link to guidlines). 
+However, there are also initiatives to peer review preprints, for example, [Peer Community In](https://peercommunityin.org/) arranges reviews for manuscripts. You can read more about preprints in the {ref}`Open Access<rr-open-access>` chapter.
 
 
 ## Levels of Peer Review
