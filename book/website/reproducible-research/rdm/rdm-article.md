@@ -37,31 +37,19 @@ Below you can find some journals that publish data articles or papers. The costs
 | Biodiversity| Data Paper | [Mycokeys](https://mycokeys.pensoft.net/about#Author-Guidelines) | [variable](https://mycokeys.pensoft.net/about#Article-Processing-Charges)|
 | Biodiversity| Data Paper | [Nature Conservation](https://natureconservation.pensoft.net/about#Author-Guidelines) | [€950](https://natureconservation.pensoft.net/about#Article-Processing-Charges) | 
 | Biodiversity| Data Paper | [NeoBiota](https://neobiota.pensoft.net/) | [€950](https://neobiota.pensoft.net/about#ArticleProcessingCharges) | 
+| Biodiversity| Data Paper | [PhytoKeys](https://phytokeys.pensoft.net/about#Author-Guidelines) |  [€780](https://phytokeys.pensoft.net/about#ArticleProcessingCharges) |
+| Biodiversity| Data Paper | [ZooKeys](https://zookeys.pensoft.net/about#SubmissionGuidelines) | [€780](https://zookeys.pensoft.net/about#ArticleProcessingCharges) | 
 | Biology (plant) | Database article | [BMC Plant Biology](https://bmcplantbiol.biomedcentral.com/submission-guidelines/preparing-your-manuscript/database-article) | €2090 |
+| Biodiversity (forest)| Data Paper | [Annals of Forest Science](https://annforsci.biomedcentral.com/submission-guidelines/preparing-your-manuscript/data-paper) | [€€1690](https://annforsci.biomedcentral.com/submission-guidelines/fees-and-funding) | 
 | Botany | Database article | [Botanical Studies](https://as-botanicalstudies.springeropen.com/submission-guidelines/preparing-your-manuscript/database-article) | €1745 | 
 | Chemistry | [Data Notes](https://jcheminf.biomedcentral.com/submission-guidelines/preparing-your-manuscript/data-note)   | Journal of Cheminformatics   | €1,790 |
 | Computer Science| Data paper | [Jaiio](https://www.sadio.org.ar/jaiio/)| [variable](https://50jaiio.sadio.org.ar/aranceles) | 
 | Ecology | Data Paper | [Ecological Research](http://www.esj.ne.jp/er/datapaper.html) | $3000 |
+| Ecology | Data Paper | [Ecology](https://esajournals.onlinelibrary.wiley.com/hub/journal/19399170/resources/types-of-contributions-ecy#Data_Papers) | [variable](https://esajournals.onlinelibrary.wiley.com/hub/journal/19399170/open-access) | 
+| Ecology | Data Article | [Global Ecology and Biogeography](https://onlinelibrary.wiley.com/page/journal/14668238/homepage/forauthors.html) | [€3050](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/article-publication-charges.html) | 
 | Earth Sciences| [Geoscience Data Journal](https://rmets-onlinelibrary-wiley-com.tudelft.idm.oclc.org/journal/20496060)      | Wiley   | €1450  |
 | Earth Sciences| [Earth System Science Data](https://www.earth-system-science-data.net/)      |   | €0  |
 | Earth Sciences| [Data Article](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tbed20) | Big Earth Data | €910 |
 | Ecology | Database Article | [BMC Ecology and Evolution](https://bmcecolevol.biomedcentral.com/submission-guidelines/preparing-your-manuscript/database-article) | €2090 | 
 | Zoology | Data paper | [Arxius de Miscel·lània Zoològica](http://amz.museucienciesjournals.cat/how-it-is-published/?lang=en) | 0 |
 
-<!--  Outdated format
-
-### Options with Article Processing Fees 
-* [Scientific Data](https://www.nature.com/sdata/) by Nature (€1,790)
-* [Data in Brief](https://www.journals.elsevier.com/data-in-brief) by Elsevier (€~450 / $500 dollars)
-* [Data Science Journal](https://datascience.codata.org/) by CODATA (€~775 / £650.00)
-* [Data](https://www.mdpi.com/journal/data) by MDPI (€~1.357 / 1400 CHF)
-* [Patterns](https://www.cell.com/patterns/home) by Cell (€3,800-7,600) (hybrid journal)
-* [Data Notes](https://academic.oup.com/gigascience) in GigaScience (€1,089)
-* [Data Notes](https://think.f1000research.com/about-data-notes/) in F1000Research (€~706 / $800)
-* [Data Notes](https://jcheminf.biomedcentral.com/submission-guidelines/preparing-your-manuscript/data-note) in Journal of Cheminformatics (€1,790)
-* [Geoscience Data Journal](https://rmets-onlinelibrary-wiley-com.tudelft.idm.oclc.org/journal/20496060) by Wiley (€1450)
-
-### No charges 
-* [Experimental Results](https://www.cambridge.org/core/journals/experimental-results) by Cambridge University Press
-* [Earth System Science Data](https://www.earth-system-science-data.net/) (currently no charges)
--->
