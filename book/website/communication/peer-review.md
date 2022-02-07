@@ -28,7 +28,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 Peer review chapter coming soon.
 
-(cm-pr-motivation)=
+(cm-peer-review-motivation)=
 ## Motivation and Background
 
 Peer Review [{term}`def<Peer Review>`] should be seen as improving the quality of the research. 
