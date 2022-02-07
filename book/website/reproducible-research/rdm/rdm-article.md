@@ -18,9 +18,11 @@ Below you can find some journals that publish data articles or papers. The costs
 | [Experimental Results](https://www.cambridge.org/core/journals/experimental-results)      | Cambridge University Press   | €0  |
 | [Scientific Data](https://www.nature.com/sdata/)      | Nature   | €1,790   |
 | [Data in Brief](https://www.journals.elsevier.com/data-in-brief)      | Elsevier   | $500   |
+| [China Scientific Data](http://www.csdata.org/) | Chinese Academy of Sciences | [3000 RMB](http://www.csdata.org/en/p/static/1329/) | 
 | [Data Science Journal](https://datascience.codata.org/)      | CODATA   | £650   |
 | [Data](https://www.mdpi.com/journal/data)      | MDPI   | 1400 CHF   |
 | [Data Notes](https://academic.oup.com/gigascience)      | GigaScience   | €1,089  |
+| Data Release | [Gigabyte](https://gigabytejournal.com/information-for-authors) | [$350](https://gigabytejournal.com/open-access-and-apc#article-processing-charges) | 
 | [Data Notes](https://think.f1000research.com/about-data-notes/)      | F1000Research   | $800  |
 
 
@@ -32,10 +34,14 @@ Below you can find some journals that publish data articles or papers. The costs
 | Biodiversity| Data Paper | [BioRisk](https://biorisk.pensoft.net/about#Author-Guidelines) | ~ €450 |
 | Biodiversity| Data Paper | [Biota Colombiana](http://revistas.humboldt.org.co/index.php/biota/about/submissions#authorGuidelines) | 0 | 
 | Biodiversity | Data Article | [Check List](https://checklist.pensoft.net/about#Authors-Guidelines) | €250 | 
+| Biodiversity| Data Paper | [Mycokeys](https://mycokeys.pensoft.net/about#Author-Guidelines) | [variable](https://mycokeys.pensoft.net/about#Article-Processing-Charges)|
+| Biodiversity| Data Paper | [Nature Conservation](https://natureconservation.pensoft.net/about#Author-Guidelines) | [€950](https://natureconservation.pensoft.net/about#Article-Processing-Charges) | 
+| Biodiversity| Data Paper | [NeoBiota](https://neobiota.pensoft.net/) | [€950](https://neobiota.pensoft.net/about#ArticleProcessingCharges) | 
 | Biology (plant) | Database article | [BMC Plant Biology](https://bmcplantbiol.biomedcentral.com/submission-guidelines/preparing-your-manuscript/database-article) | €2090 |
 | Botany | Database article | [Botanical Studies](https://as-botanicalstudies.springeropen.com/submission-guidelines/preparing-your-manuscript/database-article) | €1745 | 
 | Chemistry | [Data Notes](https://jcheminf.biomedcentral.com/submission-guidelines/preparing-your-manuscript/data-note)   | Journal of Cheminformatics   | €1,790 |
-| Computer Science| Data paper | [Jaiio](https://www.sadio.org.ar/jaiio/)| 
+| Computer Science| Data paper | [Jaiio](https://www.sadio.org.ar/jaiio/)| [variable](https://50jaiio.sadio.org.ar/aranceles) | 
+| Ecology | Data Paper | [Ecological Research](http://www.esj.ne.jp/er/datapaper.html) | $3000 |
 | Earth Sciences| [Geoscience Data Journal](https://rmets-onlinelibrary-wiley-com.tudelft.idm.oclc.org/journal/20496060)      | Wiley   | €1450  |
 | Earth Sciences| [Earth System Science Data](https://www.earth-system-science-data.net/)      |   | €0  |
 | Earth Sciences| [Data Article](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tbed20) | Big Earth Data | €910 |
