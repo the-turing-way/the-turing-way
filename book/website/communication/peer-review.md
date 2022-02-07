@@ -33,7 +33,7 @@ Peer review chapter coming soon.
 
 Peer Review [{term}`def<Peer Review>`] should be seen as process that helps to improve the quality of the research. 
 Peer review can be formal or informal and ideally occurs at different levels throughout a project. 
-In the traditional publishing model, there was a lot of focus on the peer review process of a journal article.
+Traditionally the formal peer review has been associated with publishing a journal article. 
 However, as the publishing models are changing, it is necessary to pay attention to other types of peer review.
 We want to hightlight that peer review happens on different levels throughout a project, and is an ultimate form of engaging with other people's work.
 
