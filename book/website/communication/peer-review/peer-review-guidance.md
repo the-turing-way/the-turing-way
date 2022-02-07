@@ -97,7 +97,7 @@ There could be points that the authors are underselling.
 In that case, you could identify them as strengths that the authors can emphasize more strongly.
 It is handy to refer to issues with direct quotes and page numbers or line numbers. 
 6. Some reviewers sign their reviews. 
-A non-anonymous review can be seen an accountability device: by exposing who they are to the authors of the paper, the reviewrs set higher standards for themselves.
+A non-annonymous review can be seen an accountability device: by exposing who they are to the authors of the paper, the reviewers set higher standards for themselves.
 There are [discussions](??? any reference here) about implementing open peer review model in research more generally.
 However, there are voices that express concerns for graduate student or an early career researcher facing retribution for being critical of more senior researcher.
 Also some editors do not appreciate signed reviews and may take away the identifying information.
