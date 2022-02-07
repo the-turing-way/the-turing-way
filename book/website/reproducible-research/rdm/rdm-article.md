@@ -10,9 +10,10 @@ Data articles are in line with the {ref}`FAIR principles<rr-rdm-fair>`, especial
 
 (rr-rdm-article-options)=
 ## Options to publish a Data Article
+Below you can find some journals that publish data articles or papers. The costs information was collected in February 2022. 
 
 ### Discipline agnostic
-| Article type| Publisher   | Costs         |
+| Article type| Publisher   | Cost estimate         |
 |    :----:   |    :----:   |    :----:     |
 | [Experimental Results](https://www.cambridge.org/core/journals/experimental-results)      | Cambridge University Press   | €0  |
 | [Scientific Data](https://www.nature.com/sdata/)      | Nature   | €1,790   |
@@ -24,15 +25,22 @@ Data articles are in line with the {ref}`FAIR principles<rr-rdm-fair>`, especial
 
 
 ### Discipline specific
-| Discipline | Article type| Publisher/Journal   | Costs         |
+| Discipline | Article type| Publisher/Journal   | Cost estimate        |
 |    :----:  |    :----:   |    :----:   |    :----:     |
-| Zoology | Data paper | [Arxius de Miscel·lània Zoològica](http://amz.museucienciesjournals.cat/how-it-is-published/?lang=en) | 0 |
+| Biodiversity| Data Article | [Biodiversity Data Journal](https://bdj.pensoft.net/) | €650 | 
+| Biodiversity| Data Paper | [BioInvasions Records](https://www.reabic.net/journals/bir/Submission.aspx) | ~ €560 |
+| Biodiversity| Data Paper | [BioRisk](https://biorisk.pensoft.net/about#Author-Guidelines) | ~ €450 |
+| Biodiversity| Data Paper | [Biota Colombiana](http://revistas.humboldt.org.co/index.php/biota/about/submissions#authorGuidelines) | 0 | 
+| Biodiversity | Data Article | [Check List](https://checklist.pensoft.net/about#Authors-Guidelines) | €250 | 
+| Biology (plant) | Database article | [BMC Plant Biology](https://bmcplantbiol.biomedcentral.com/submission-guidelines/preparing-your-manuscript/database-article) | €2090 |
+| Botany | Database article | [Botanical Studies](https://as-botanicalstudies.springeropen.com/submission-guidelines/preparing-your-manuscript/database-article) | €1745 | 
 | Chemistry | [Data Notes](https://jcheminf.biomedcentral.com/submission-guidelines/preparing-your-manuscript/data-note)   | Journal of Cheminformatics   | €1,790 |
 | Computer Science| Data paper | [Jaiio](https://www.sadio.org.ar/jaiio/)| 
 | Earth Sciences| [Geoscience Data Journal](https://rmets-onlinelibrary-wiley-com.tudelft.idm.oclc.org/journal/20496060)      | Wiley   | €1450  |
 | Earth Sciences| [Earth System Science Data](https://www.earth-system-science-data.net/)      |   | €0  |
 | Earth Sciences| [Data Article](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tbed20) | Big Earth Data | €910 |
-
+| Ecology | Database Article | [BMC Ecology and Evolution](https://bmcecolevol.biomedcentral.com/submission-guidelines/preparing-your-manuscript/database-article) | €2090 | 
+| Zoology | Data paper | [Arxius de Miscel·lània Zoològica](http://amz.museucienciesjournals.cat/how-it-is-published/?lang=en) | 0 |
 
 <!--  Outdated format
 
