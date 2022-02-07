@@ -92,7 +92,7 @@ To ease the message you can use the sandwich principle: start with the strengths
 5. Try to give actionable advice. 
 For the weaknesses in the paper, suggest ways to repair them. 
 It is convenient for both the editor and the authors to number your suggestions.
-Distinguish major issues such as not discussing alternative explanations from minor issues such as missing references and typos. 
+Distinguish major issues, such as not discussing alternative explanations, from minor issues such as missing references and typos. 
 There could be points that the authors are underselling. 
 In that case, you could identify them as strengths that the authors can emphasize more strongly.
 It is handy to refer to issues with direct quotes and page numbers or line numbers. 
