@@ -96,11 +96,13 @@ Distinguish major issues, such as not discussing alternative explanations, from 
 There could be points that the authors are underselling. 
 In that case, you could identify them as strengths that the authors can emphasize more strongly.
 It is handy to refer to issues with direct quotes and page numbers or line numbers. 
-6. Some reviewers sign their reviews. 
-A non-annonymous review can be seen an accountability device: by exposing who they are to the authors of the paper, the reviewers set higher standards for themselves.
-There are [discussions](??? any reference here) about implementing open peer review model in research more generally.
-However, there are voices that express concerns for graduate student or an early career researcher facing retribution for being critical of more senior researcher.
-Also some editors do not appreciate signed reviews and may take away the identifying information.
+6. Traditionally, the review process is designed to be anonymous. However, some reviewers sign their reviews. 
+A non-anonymous review can be seen as an accountability device: by exposing who they are to the authors of the paper, the reviewers set higher standards for themselves. This needs to be done carefully: some editors do not appreciate signed reviews. 
+There are voices that express concerns for a graduate student or an early career researcher facing retribution for being critical of a more senior researcher. 
+There is also a process called open peer review; in this case, the review is open for everyone viewing the paper. 
+The peer review might blend these features; for example, one might be able to see the review text but not the name of the reviewer who did it, or the name of the reviewer but not the text itself.
+The design of the peer review process and its transparency varies from journal to journal.
+
 **Second round of reviewing process**
 If the authors have revised their paper, check if your suggestions have been implemented. 
 It is a good principle to avoid making new demands for the second round that you have not made before. 
