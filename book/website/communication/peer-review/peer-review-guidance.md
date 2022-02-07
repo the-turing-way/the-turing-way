@@ -19,7 +19,7 @@ Your non-response means a delay for the authors and the editor.
 
 1. Check what kind of journal this is. 
 Have you heard of it before?
-Does it have a reputaiton in your discipline?
+Does it have a reputation in your discipline?
 Are you planning to submit your own work there? 
 Is this journal an [Open Access](https://the-turing-way.netlify.app/reproducible-research/open/open-access.html) journal?
 Beware of [predatory journals](https://predatoryjournals.com/journals/).
