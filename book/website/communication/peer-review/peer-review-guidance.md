@@ -9,7 +9,7 @@ The bar is set pretty high: a review checking each of the criteria will take you
 
 
 (cm-pr-guidance-before)=
-## Before you accept the invitation
+## Before you accept an invitation to peer review
 
 The following steps will help you make a decision whether to review the paper or not.
 They need to be taken fast. 
