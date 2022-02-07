@@ -123,8 +123,6 @@ parts:
         file: reproducible-research/renv/renv-package
       - title: YAML
         file: reproducible-research/renv/renv-yaml
-      - title: Binder
-        file: reproducible-research/renv/renv-binder
       - title: Virtual Machines
         file: reproducible-research/renv/renv-virtualmachine
       - title: Containers
@@ -368,7 +366,7 @@ parts:
       - title: Discipline Specific Authorship Traditions
         file: communication/aa/aa-traditions
       - title: Large and Equitable Authorships
-        file: communication/aa/aa-equitable  
+        file: communication/aa/aa-equitable
       - title: Tips on How to Get Authorship Right
         file: communication/aa/aa-tips
       - title: Personal Stories - Authorship on Interdisciplinary Projects
@@ -377,6 +375,11 @@ parts:
         file: communication/aa/aa-stories-community
       - title: Resources
         file: communication/aa/aa-resources
+    - title: Binder
+      file: communication/binder
+      sections:
+      - title: Zero-to-Binder
+        file: communication/binder/zero-to-binder
 
   # ===== Guide for Collaboration ========================================
 
@@ -505,7 +508,7 @@ parts:
       file: ethical-research/internal-policy
     - title: Self-Reflection
       file: ethical-research/self-reflection
-      sections: 
+      sections:
       - title: Identity and Positionality
         file: ethical-research/self-reflection/sr-positionality
       - title: Power and Privilege
