@@ -59,7 +59,7 @@ If you think the paper is beyond repair, explain this to the editor.
 Some of the information may be in the supplementary information provided with the paper - read them carefully as well.
 
 **The tone of the review**
-There is a ‘golden rule’ for people writign a review: treat others as you would like to be treated. 
+There is a ‘golden rule’ for people writing a review: treat others as you would like to be treated. 
 Write the review report that you would have liked to receive if you had been the author. 
 The following principles might help you:
 1. Be honest but constructive. 
