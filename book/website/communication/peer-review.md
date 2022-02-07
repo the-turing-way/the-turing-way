@@ -23,7 +23,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 ```
 
-(cm-pr-summary)=
+(cm-peer-review-summary)=
 ## Summary
 
 Peer review chapter coming soon.
