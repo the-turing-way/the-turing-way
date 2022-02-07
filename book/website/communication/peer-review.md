@@ -1,7 +1,7 @@
 (cm-peer-review)=
 # Peer Review
 
-(cm-pr-prerequisites)=
+(cm-peer-review-prerequisites)=
 ## Prerequisites
 
 | Prerequisite | Importance | Skill Level | Notes |
