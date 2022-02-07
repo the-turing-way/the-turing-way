@@ -48,7 +48,7 @@ For the editor it will be useful to know whether the current manuscript is the s
 
 ### How to organize the review work
 
-There is no established procedure, you need to find what works for you. 
+There is no established procedure, you need to find what works for you. The journal you are reviewing for may also provide guidance on how to write a review.
 If you are reviewing for the first time, this workflow might be useful.
 1. It might be a good idea to read a paper twice. 
 First, go over the paper superficially and quickly. This gets you a sense of where the authors are going. 
