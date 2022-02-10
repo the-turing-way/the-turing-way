@@ -30,6 +30,7 @@ Below you can find some journals that publish data articles or papers. The costs
 | Discipline | Publisher/Journal   | Cost estimate  |
 |    :----:  |    :----:   |    :----:     |
 | Archaeology | [Journal of Open Archaeology Data](https://openarchaeologydata.metajnl.com/) | £100 |
+| Archaeology | [Open Quaternary](https://www.openquaternary.com/about/) | [£300](https://www.openquaternary.com/about/submissions/) | 
 | Biodiversity| [Biodiversity Data Journal](https://bdj.pensoft.net/) | [€650](https://bdj.pensoft.net/about#CoreCharges) | 
 | Biodiversity| [BioInvasions Records](https://www.reabic.net/journals/bir/Submission.aspx) | [~€560](https://www.reabic.net/journals/bir/Submission.aspx) |
 | Biodiversity| [BioRisk](https://biorisk.pensoft.net/about#Author-Guidelines) | [€450](https://biorisk.pensoft.net/about#ArticleProcessingCharges) |
@@ -52,5 +53,9 @@ Below you can find some journals that publish data articles or papers. The costs
 | Earth Sciences| [Earth System Science Data](https://www.earth-system-science-data.net/)    | 0  |
 | Earth Sciences| [Big Earth Data](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tbed20) | [€910](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tbed20&#apc) |
 | Ecology | [BMC Ecology and Evolution](https://bmcecolevol.biomedcentral.com/submission-guidelines/preparing-your-manuscript/database-article) | [€2.090](https://preview-bmcecolevol.biomedcentral.com/submission-guidelines/fees-and-funding) | 
+| Health | [Open Health Data](https://openhealthdata.metajnl.com/about/submissions/) | [£100](https://openhealthdata.metajnl.com/about/submissions/) | 
+| Humanities | [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/about/submissions/)  | [£450](https://openhumanitiesdata.metajnl.com/about/submissions/)
+| Psychology | [Journal of Open Psychology Data](https://openpsychologydata.metajnl.com/about/submissions/) | [£450](https://openpsychologydata.metajnl.com/about/submissions/) | 
+| Psychology | [Journal of Cognition](https://www.journalofcognition.org/about/submissions/) | [€1150](https://www.journalofcognition.org/about/submissions/) |
 | Zoology | [Arxius de Miscel·lània Zoològica](http://amz.museucienciesjournals.cat/how-it-is-published/?lang=en) | [0](http://amz.museucienciesjournals.cat/editorial-policy/?lang=en) |
 
