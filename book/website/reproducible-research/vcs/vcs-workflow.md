@@ -9,6 +9,17 @@ A typical procedure for using version control is as follows:
 2. Work on these files, by changing, deleting or adding new content.
 3. Create a snapshot of the file status (also known as version) at this time.
 
+This process is often done manually for text or presentation documents 
+(for instance by naming files with the 
+suffixes `v01`, `v02` and so on). 
+A description of the changes for each version is sometimes made via an external document.
+Finding the latest version can also 
+be facilitated by putting old version in a subfolder.
+This manual process is not very practical when a lot of files are changing,
+like when one creates code or work with data.
+In these cases, the use of a version control software is highly recommended.
+
+
 This process of creating a snapshot is described differently in different version control software.
 For example, Git describes it as "a commit".
 Some systems call it "a time-point" or "a checkpoint"; and this is referred to as "saving your work" in other cases such as in [Google docs](https://docs.google.com/) or [HackMD](http://hackmd.io/).
