@@ -16,6 +16,8 @@ Publishing a data paper will therefore increase the visibility, credibility and 
 ## Options to publish a Data Article
 Below you can find some journals that publish data articles or papers. The costs information was collected in February 2022. 
 
+If you are planning to publish an analysis of your published data, it may be worth checking with the journal that they wouldn't consider a data article on that dataset as 'prior publication'. F1000Research has put together a (non-exhaustive) list of journals about this [here](https://f1000research.com/data-policies?utm_source=CPB&utm_medium=cms&utm_campaign=JPF15157).
+
 ### Discipline agnostic
 
 | Article type|  Cost estimate |
