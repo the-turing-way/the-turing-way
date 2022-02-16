@@ -17,7 +17,7 @@ Below you can find some journals that publish data articles or papers. The costs
 |    :----:   |    :----:     |
 | [Experimental Results](https://www.cambridge.org/core/journals/experimental-results)      |  [£775](https://www.cambridge.org/core/journals/experimental-results/information/instructions-for-authors#articleprocessingcharges) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=775&From=GBP&To=USD)) |
 | [Scientific Data](https://www.nature.com/sdata/)      | [€1.790](https://www.nature.com/sdata/oa) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=1790&From=EUR&To=USD))  |
-| [Data in Brief](https://www.journals.elsevier.com/data-in-brief)      | [USD500](https://www.journals.elsevier.com/data-in-brief)   |
+| [Data in Brief](https://www.journals.elsevier.com/data-in-brief)      | [USD&nbsp;500](https://www.journals.elsevier.com/data-in-brief)   |
 | [China Scientific Data](http://www.csdata.org/) | [RMB&nbsp;3000 ](http://www.csdata.org/en/p/static/1329/) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=3000&From=CNY&To=USD)) | 
 | [Data Science Journal](https://datascience.codata.org/)      | [£650](https://datascience.codata.org/about/submissions/) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=650&From=GBP&To=USD)) |
 | [Data](https://www.mdpi.com/journal/data)     | [CHF&nbsp;1400 ](https://www.mdpi.com/journal/data/apc) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=1400&From=CHF&To=USD)) |
