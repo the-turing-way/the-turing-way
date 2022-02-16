@@ -1,5 +1,6 @@
 (rr-rdm-article)=
 # Sharing your data through a Data Article
+
 A Data Article (also known as a Data Paper/Note/Release, or Database article) is a publication that is focused on the description of a dataset. It makes use of the traditional journal article structure, but focuses on the data collection and methodological aspects and generally not on the interpretation or discussion of the results.
 
 (rr-rdm-article-motivations)=
