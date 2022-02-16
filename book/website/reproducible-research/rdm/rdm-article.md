@@ -20,7 +20,7 @@ Below you can find some journals that publish data articles or papers. The costs
 | [Data in Brief](https://www.journals.elsevier.com/data-in-brief)      | [USD500](https://www.journals.elsevier.com/data-in-brief)   |
 | [China Scientific Data](http://www.csdata.org/) | [RMB3000 ](http://www.csdata.org/en/p/static/1329/) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=3000&From=CNY&To=USD)) | 
 | [Data Science Journal](https://datascience.codata.org/)      | [£650](https://datascience.codata.org/about/submissions/) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=650&From=GBP&To=USD)) |
-| [Data](https://www.mdpi.com/journal/data)     | [CHF1.400 ](https://www.mdpi.com/journal/data/apc) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=1400&From=CHF&To=USD)) |
+| [Data](https://www.mdpi.com/journal/data)     | [CHF&nbsp;1400 ](https://www.mdpi.com/journal/data/apc) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=1400&From=CHF&To=USD)) |
 | [GigaScience](https://academic.oup.com/gigascience)      | [€1.089](https://academic.oup.com/gigascience/pages/charges_licensing_and_self_archiving) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=1089&From=EUR&To=USD))  |
 | [Gigabyte](https://gigabytejournal.com/information-for-authors)| [USD350](https://gigabytejournal.com/open-access-and-apc#article-processing-charges) | 
 | [F1000Research](https://think.f1000research.com/about-data-notes/)      | [USD800](https://f1000research.com/for-authors/article-processing-charges)  |
