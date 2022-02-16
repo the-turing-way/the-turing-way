@@ -17,6 +17,7 @@ Publishing a data paper will therefore increase the visibility, credibility and 
 Below you can find some journals that publish data articles or papers. The costs information was collected in February 2022. 
 
 ### Discipline agnostic
+
 | Article type|  Cost estimate |
 |    :----:   |    :----:     |
 | [Experimental Results](https://www.cambridge.org/core/journals/experimental-results)      |  [£775](https://www.cambridge.org/core/journals/experimental-results/information/instructions-for-authors#articleprocessingcharges) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=775&From=GBP&To=USD)) |
