@@ -10,7 +10,7 @@ It uses the traditional journal article structure, but focuses on the data-colle
 Data articles are in line with the {ref}`FAIR principles<rr-rdm-fair>`, especially since most publishers will encourage you to share the data through a data repository.
 The benefit of a Data Article is that your output will be {ref}`peer reviewed<cm-peer-review>`, something which is generally not the case for datasets that are archived on {ref}`data repositories<rr-rdm-sharing>`.
 It also facilitates recognition for datasets through research assessment procedures that are more traditionally focused on publication output.
-Publishing a data paper will therefore increase the visibility, credibility and usability of the data.
+Publishing a data paper will therefore increase the visibility, credibility and usability of the data, as well as giving you credit as a data producer.
 
 
 (rr-rdm-article-options)=
@@ -19,7 +19,8 @@ Publishing a data paper will therefore increase the visibility, credibility and 
 Below you can find some journals that publish data articles or papers.
 The costs information was collected in February 2022. 
 
-If you are planning to publish an analysis of your published data, it may be worth checking with the journal that they wouldn't consider a data article on that dataset as 'prior publication'. F1000Research has put together a (non-exhaustive) list of journals about this [here](https://f1000research.com/data-policies?utm_source=CPB&utm_medium=cms&utm_campaign=JPF15157).
+If you are planning to publish an analysis of your published data, it may be worth checking with the journal that they wouldn't consider a data article on that dataset as 'prior publication' (see the [F1000Research (non-exhaustive) list of journals on 'prior publications'](https://f1000research.com/data-policies)). 
+
 
 ### Discipline agnostic
 
