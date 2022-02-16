@@ -20,9 +20,22 @@ Building a new translation project is an exciting way to contribute towards a gl
 
 When starting a new language translation, there are several aspects to consider, apart from [setting up a project in the chosen localisator plaform]().
 
+#### Current workflow
+
+The current workflow for all languages is using Crowdin from a fork that is temporarily located under a GitHub organization specifically created to host translated versions of _The Turing Way_. 
+This fork is kept updated with the original repository and Crowdin performs automatic machine translations that need review and approval before being accepted as definite versions.
+The deployment of these translated versions is work in progress and some parts of this workflow may change in the future, but for now, feel free to contact anyone on the `#translation` channel of the _The Turing Way_ Slack.
+
+
 #### Define norms of translation
 
-It is key to set translation norms. These norms will guide newcomers on how to translate and review in the translation platform. For instance, we strongly suggest setting a [glossary] through the localisation platform. 
+It is key to set translation norms for each language. These norms will guide newcomers on how to translate and review in the translation platform. For instance, we strongly suggest setting a [glossary] through the localisation platform. 
+
+We also suggest settting language-specific guidelines to use inclusive language.
+For example, the book [Teaching Tech Together](https://teachtogether.tech/) was translated to Spanish in a collaborative way and they defined their guidelines to account for regional differences and to avoid gendered and other non-inclusive expressions.
+Their original guidelines (in Spanish) can be found [here](https://github.com/gvwilson/teachtogether.tech/blob/master/es/README.md) and an adaptation of these guidelines to English can be found [here](https://github.com/gvwilson/teachtogether.tech#translations). 
+Document the norms of translation for your selected language to be discussed and updated by the rest of the team.
+
 
 #### Create a dedicated Slack channel
 
@@ -34,20 +47,21 @@ We suggest defining co-working calls to progress on the translation. These sessi
 
 You can also work on the translation in the co-working calls of The Turing Way project. You can find this activity in [_The Turing Way_ calendar](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ). Please note that these calls are in English.
 
-#### Asynchronous translation:
+#### Asynchronous translation
 
 Everyone interested in participating in a translation effort should be able to work asynchronously, have this in mind when writing the translation norms and any other documentation for your language.
 
 ### During translation
 
-#### Before you start translating: 
+#### Before you start translating
+
 Localisation platforms integrate different tools and formats for assisting the translation process. For instance, [Transifex](https://www.transifex.com/) includes the target text blocks to be translated on the left and a translation box on the right. You can select with the cursor which block to translate. 
 
 We recommend that you look at a translated chapter or section before you start translating to familiarise yourself with the process and the translation style.
 
 #### Machine translation / Translation tools
 
-The translation process can be assisted by machine translation. Localisation platforms such as [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE) are integrated with well-known machine translation providers, including Google and Microsoft. In contrast, for [Transifex](https://www.transifex.com/), this process is performed outside the platform. In this particular case, we recommend using [DeepL](https://www.deepl.com/) as a translation tool. DeepL tool recommends a series of synonyms when you click on the translated text. These can be useful, especially with long texts. 
+The translation process can be assisted by machine translation. Localisation platforms such as [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE) are integrated with well-known machine translation providers, including Google and Microsoft. In contrast, for [Transifex](https://www.transifex.com/), this process is performed outside the platform. In this particular case, we recommend using [DeepL](https://www.deepl.com/) as a translation tool. DeepL tool recommends a series of synonyms when you click on the translated text. This can be useful, especially with long texts. 
 
 #### Read the translation rules
 
