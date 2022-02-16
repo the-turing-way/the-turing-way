@@ -31,9 +31,9 @@ The deployment of these translated versions is work in progress and some parts o
 
 It is key to set translation norms for each language. These norms will guide newcomers on how to translate and review in the translation platform. For instance, we strongly suggest setting a [glossary] through the localisation platform. 
 
-We also suggest settting language-specific guidelines to use inclusive language.
+We also suggest setting language-specific guidelines to use inclusive language.
 For example, the book [Teaching Tech Together](https://teachtogether.tech/) was translated to Spanish in a collaborative way and they defined their guidelines to account for regional differences and to avoid gendered and other non-inclusive expressions.
-Their original guidelines (in Spanish) can be found [here](https://github.com/gvwilson/teachtogether.tech/blob/master/es/README.md) and an adaptation of these guidelines to English can be found [here](https://github.com/gvwilson/teachtogether.tech#translations). 
+They describe the whole process (in Spanish) [here](https://teachtogether.tech/es/index.html#s:traduccion) and an adaptation of their guidelines to English can be found [here](https://github.com/gvwilson/teachtogether.tech#translations). 
 Document the norms of translation for your selected language to be discussed and updated by the rest of the team.
 
 
