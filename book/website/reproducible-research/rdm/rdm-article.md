@@ -14,6 +14,7 @@ Publishing a data paper will therefore increase the visibility, credibility and 
 
 (rr-rdm-article-options)=
 ## Options to publish a Data Article
+
 Below you can find some journals that publish data articles or papers.
 The costs information was collected in February 2022. 
 
