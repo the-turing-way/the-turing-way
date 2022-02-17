@@ -106,6 +106,8 @@ parts:
         file: reproducible-research/rdm/rdm-metadata
       - title: Sharing and Archiving Data
         file: reproducible-research/rdm/rdm-sharing
+      - title: Data Article
+        file: reproducible-research/rdm/rdm-article
       - title: Research Data Management Toolkits
         file: reproducible-research/rdm/rdm-toolkits
       - title: Personal Impact Stories
