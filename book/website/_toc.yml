@@ -533,7 +533,7 @@ parts:
         file: community-handbook/coc/coc-reporting
       - title: Enforcement Manual
         file: community-handbook/coc/coc-enforcement
-      - title: Acnowledgements
+      - title: Acknowledgements
         file: community-handbook/coc/coc-acknowledgement
     - title: Style Guide
       file: community-handbook/style
