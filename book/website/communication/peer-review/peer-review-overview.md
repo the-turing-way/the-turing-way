@@ -12,7 +12,7 @@ Peer review is a critical component of advancing research. Peer review can be do
 
 
 Peer review can be formal or informal and ideally occurs at different levels throughout a project. When most people think of peer review they think of this in the context of reviewing a journal article.
-For manuscripts, one of the added values of a journal articles, compared to, for instance, a {ref}`preprint<rr-open-access-whatis-publishing>` is that it has been [peer reviewed and modified by the author in response to the reviewer's suggestions](here we need to link to guidlines). 
+Journal articles, as opposed to preprints {ref}`preprint<rr-open-access-whatis-publishing>`, have gone through the peer review process- the paper has been peer reviewed and modified by the author in response to the reviewer's suggestions, so these papers are seen to have added value. 
 However, there are also initiatives to peer review preprints, for example, [Peer Community In](https://peercommunityin.org/) arranges reviews for manuscripts. You can read more about preprints in the {ref}`Open Access<rr-open-access>` chapter.
 
 
