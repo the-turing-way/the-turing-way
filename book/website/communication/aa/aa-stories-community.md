@@ -1,3 +1,4 @@
+(cm-aa-stories-community)=
 # Personal stories - Large Collaborative Research Community
 
 ## Discussion with Remi Gau and Isil Poraz Bilgin from the Brainhack community
@@ -123,7 +124,7 @@ There was also a master editing team to unify all these sections and another tea
 Very early on we realised that the paper would be this fixed thing. 
 However, we wanted there to be an evolving version. 
 We were restricted with the word limit to the paper and we wanted to spill over with all the ideas and keep evolving so we started a Jupyter book. 
-So there is also a team working on the [Jupyter book](brainhack.org/brainhack_jupyter_book/).
+So there is also a team working on the [Jupyter book](http://brainhack.org/brainhack_jupyter_book/).
 
 Once all of the sections were written and then passed to the editing team, they were sent to the co-authors.
 

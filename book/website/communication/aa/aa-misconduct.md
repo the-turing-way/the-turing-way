@@ -1,4 +1,4 @@
-(communication-aa-misconduct)=
+(cm-aa-misconduct)=
 # Types of authorship misconduct
 
 There are various forms of authorship misconduct. 
@@ -8,7 +8,7 @@ Authorship misconduct results in a lack of transparency and accountability in re
 A study of inappropriate authorship in biomedical journals found 21.0% of the article included honorary authorship, ghost authorship or both in 2008. 
 This is a reduction from a study in 1996 (29.2%) but shows that these practices are still prevalent {cite}`wislar2011honorary`. 
 
-(communication-aa-misconduct-honorary)=
+(cm-aa-misconduct-honorary)=
 ## Honorary authorship
 Honorary authorship is when an individual becomes a named author even though they have not made a substantial contribution and/or met authorship criteria. 
 
@@ -24,7 +24,7 @@ This practice happens for a number of reasons:
 * In some disciplines, department head or senior researchers may be added regardless of their contribution.
 * It could also be seen as a good move to include more experienced colleagues to raise the apparent quality of the paper and therefore give more chance for publication.  
 
-(communication-aa-misconduct-ghost)=
+(cm-aa-misconduct-ghost)=
 ## Ghost authorship
 Ghost authorship is an author that makes a significant contribution to the writing of the article without getting acknowledged. 
 
