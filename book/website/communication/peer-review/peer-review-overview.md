@@ -4,7 +4,7 @@
 
 ## Types of Peer Review
 ​
-Peer review is a critical component of advancing research. Types of peer review include:
+Peer review is a critical component of advancing research. Peer review can be done on many different research outputs, including:
 * manuscripts 
 * software (including code, documentation, and examples)
 * dataseets
