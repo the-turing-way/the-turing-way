@@ -4,7 +4,7 @@
 
 The text is inspired by this [blog post](https://renebekkers.wordpress.com/2020/06/24/how-to-review-a-paper/) by [Rene Bekkers](https://research.vu.nl/en/persons/rene-bekkers), released under the CC BY 4.0 licence.
 There is no consensus among journals and editors on a set of minimum criteria that the peer review process should cover. 
-The extensive set of criteria provided here are general considerations from the perspectives of opennnes and reproducibility.
+The extensive set of criteria provided here are general considerations from the perspectives of openness and reproducibility.
 The bar is set pretty high: a review checking each of the criteria will take you at least three hours, but more likely between five and eight hours. 
 
 
