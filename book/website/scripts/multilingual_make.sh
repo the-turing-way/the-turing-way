@@ -15,7 +15,7 @@ do
     # Make language specific table of content
     sed "s/url: /url: \/${lang}\//g" ../content/po/toc.yml > _data/toc.yml
     # Use the locale config to build each language version of the book
-    jupyter-book build ./ --overwrite --config _config-locale.yml
+    jupyter-book build ./ --config _config-locale.yml
     # Change the path to figures directory one level higher
     # This will use the figures from the English version
     # Should a translated figure exist, it will reside in a folder different
