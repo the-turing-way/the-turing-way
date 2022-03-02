@@ -3003,6 +3003,16 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "alekszaf",
+      "name": "Aleksandra Zaforemska",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15204615?v=4",
+      "profile": "https://github.com/alekszaf",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
