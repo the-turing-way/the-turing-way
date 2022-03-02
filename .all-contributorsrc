@@ -3033,6 +3033,16 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "davidegregg",
+      "name": "David Gregg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45788793?v=4",
+      "profile": "https://research.ncl.ac.uk/geospatial-systems/phdresearchers/profiles/davidgregg.html",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
