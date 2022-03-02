@@ -3083,6 +3083,16 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "sophiejean",
+      "name": "Sophie J Mann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100791169?v=4",
+      "profile": "https://github.com/sophiejean",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
