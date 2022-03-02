@@ -3023,6 +3023,16 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "DACNC",
+      "name": "DACNC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57093439?v=4",
+      "profile": "https://github.com/DACNC",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
