@@ -3093,6 +3093,15 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "eddybruv",
+      "name": "Edwin Ajong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80322163?v=4",
+      "profile": "https://www.linkedin.com/in/edwin-ajong-51601a217/",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
