@@ -2,7 +2,7 @@
 # Online Collaboration Cafe
 
 _The Turing Way_ Collaboration Cafes (or 'Cafés' with an accent) are virtual co-working spaces that are held fortnightly on the first and third Wednesdays of each month for 2 hours.
-The schedule will be updated periodically on the [GitHub page](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md) as per the community requirement.
+The schedule will be updated periodically on our [Community Calendar](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ) as per the community requirement.
 
 We host these calls online using [Zoom](https://www.zoom.us/) where we make use of the [breakout rooms](#breakout-rooms) feature to allow small groups to use the 2 hours as best fits them.
 One or two members from the core team are always available on the call to support anyone wanting to learn more about collaborating on GitHub, getting a virtual tour of our GitHub repository or the book, and help you to make your first pull request (PR).
