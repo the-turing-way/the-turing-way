@@ -5,4 +5,5 @@ numpy
 datascience
 folium
 matplotlib
+nbconvert==5.5
 jupyter-book==0.6.4
