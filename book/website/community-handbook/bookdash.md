@@ -23,7 +23,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 ## Inviting Diverse Contributions
 
 Our Book Dash attendees are:
-- First time Book Dash attendees who have previously interacted with the project or community to send in their application describing where/how in the project and community they would like to contribute.
+- First time Book Dash attendees who have previously interacted with the project or community who send in their application describing where/how in the project and community they would like to contribute. See the {ref}`eligibility<ch-bookdash-eligibility>` section for details.
 - Previous Book Dash attendees to express their interest to participate again as a contributors, members of planning committee and/or mentors. Book Dash mentors facilitating other attendees' contributions in one or multiple of the contribution sessions based on their interest and availability.
 
 As a community-driven guidebook, _The Turing Way_ aims to co-create contents that are comprehensible and beneficial for the wider community of researchers, data scientists and individuals working in research infrastructure roles.
@@ -46,18 +46,19 @@ The skills and contributions that we invite at the Book Dash include, but are no
 - Data visualisation skills and best practices.
 - Storytelling skills that can help make our content more engaging.
 
-## Who Should Apply to Join the Book Dash
+(ch-bookdash-eligibility)=
+## Eligibility: Who Should Apply to Join the Book Dash
 
 We want to support participants in getting the most out of these Book Dash events. 
 Therefore, we encourage applications from members of our community, including both new and existing contributors. 
 More specifically, we want applicants to know about _The Turing Way_, how we work collaboratively and have a good idea of how they can contribute to our resources. 
 
-This does not mean that you must have contributed to the project before - it is more about having used the project and/or interacted with our community in some way.
+This does not mean that you must have contributed to the project before - it is more about having used the project and/or interacted with our community in some way, such as during a community event or via our GitHub repository.
 Some familiarity with the project and how we work in the community will help our participants collaborate during the Book Dash more easily, even if this is with the support of more experienced community members. 
 If you have previously contributed to a collaborative project or have a specific proposal for contribution in mind, you are highly encouraged to apply.
 Do get in touch with one of the core contributors who can help you shape your idea by identifying where and how they fit in the bigger vision of the project.
 
-If you have not interacted with our community before, but want to take part in a Book Dash, please join one of our community events such as [co-working sessions](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html) or the [collaboration cafe](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#ch-coworking-collabcafe). 
+If you have not interacted with our community before, but want to take part in a Book Dash, please join one of our community events such as {ref}`Co-working calls<ch-coworking-weekly>` call or {ref}`Collaboration Cafés<ch-coworking-collabcafe>`,. 
 This way, you will get to know about our project and understand more about how you could contribute during a Book Dash.
 
 ## Support In-Person, Hybrid and Remote Participation
