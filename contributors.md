@@ -70,7 +70,9 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Aida Mehonic
 
-* Role: Project Member - Senior Researcher - Research Applications
+* Roles: 
+  * Project Core Member, Senior Researcher - Research Applications
+  * Book Dash Attendee 2021
 * GitHub id: [AidaMehonic](http://github.com/AidaMehonic)
 * Short bio:
 > I am a Senior Researcher in the Tools, Practices and Systems Programme and I am leading on Research Applications at The Alan Turing Institute. My focus is making sure that research outputs are not just openly available but that they meet stakeholder needs. I am leading a growing team of Research Application Managers (RAMs) whose goal is to increase the reach and maximise the positive impact of research outputs. The role of a RAM has been inspired by that of a product manager in a tech firm, but adapted for research purposes.
