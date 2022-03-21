@@ -71,7 +71,8 @@ _The Turing Way_ is an open collaboration and community-driven project.
 Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member. 
 Long-term contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project.
 
-The project is coordinated by the lead investigators **Kirstie Whitaker** (founder) and **Malvika Sharan** (community developer) and hosted at [The Alan Turing Institute](https://www.turing.ac.uk/).
+The project is coordinated by the co-lead investigators **Kirstie Whitaker** (founder) and **Malvika Sharan**, and hosted at [The Alan Turing Institute](https://www.turing.ac.uk/).
+**Anne Lee Steele** is the Community Manager of The Turing Way since March 2022.
 
 You can read [_The Turing Way_ acknowledgement process](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) and [Record of Contributions](https://the-turing-way.netlify.app/afterword/contributors-record.html) to learn about how we acknowledge your work and how our contributors are highlighted in the project.
 Please see the [Contributors Table](#contributors) for the GitHub profiles of all our contributors.
@@ -137,8 +138,7 @@ We have used a few of these illustrations in the [Welcome Bot](https://github.co
 
 You can contact *The Turing Way* team by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
 
-You can also contact **Malvika Sharan** by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) or **Kirstie Whitaker** by emailing [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
-
+You can also contact **Anne Lee Steele** ([asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)), **Malvika Sharan** ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)) or **Kirstie Whitaker** ([kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)).
 
 
 #### Chat
