@@ -60,7 +60,7 @@ The rest of the contribution sessions throughout the Book Dash will be facilitat
 Participants can also work in self-organised groups or individually on their contribution ideas with the support of mentors.
 This is also a chance for everyone to meet the participants and helpers informally, learn about each other and connect with specific members who plan to work on the related topic during the book dash.
 Participants will be supported to collaborate in small groups, organising their thoughts and ideas for contributions during or after the Book Dash.
-Each collaboration session will end with participants sharing their work with others and identifying new collaborators based on the similarity of their interests.
+Each contribution session will end with participants sharing their work with others and identifying new collaborators based on the similarity of their interests.
 
 For participants who are unfamiliar with GitHub or would like a refresher (and did not manage to attend the GitHub introduction session), the planning committee members will guide them through the process of making their first pull request.
 
