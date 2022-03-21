@@ -77,7 +77,7 @@ Based on their evaluation of the applications they will provide scores for diffe
 
 **Table summarising our scoring rubric and criteria for each score:**
 
-*This scoring rubric is based on the Mozilla Open Leaders and Open Life Science (OLS) selection criteria as described in [this GitHub repository](https://github.com/open-life-science/application-forms/blob/master/review-rubrics.md).*
+*This scoring rubric is based on the Mozilla Open Leaders and Open Life Science (OLS) selection criteria as described in the 'Review Rubrics' on [this GitHub repository](https://github.com/open-life-science/application-forms).*
 
 | Sections | Score 1 | Score 2 | Score 3 |
 | -------- | ------- | ------- | -------:|
