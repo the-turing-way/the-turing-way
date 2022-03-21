@@ -11,7 +11,7 @@ The book dash event is organised for a minimum of 15 participants.
 The event is divided into multiple sessions with small groups of participants attending in their time zone.
 This allows the core team members to offer specific mentorship to the invited participants and make this an interactive, intimate, fun, and productive event.
 
-To fairly make this selection, a call for applications is opened at least 2 months in advance so that interested members can share their skills, interest, and expected outcomes through a short application.
+To fairly make this selection, a call for applications is opened at least two months in advance so that interested members can share their skills, interest, and expected outcomes through a short application.
 The applications are kept open for a minimum of 4 weeks and the timeline is communicated clearly through our newsletters, Twitter feed, and application form.
 
 This application can take 30-45 minutes to complete. 
