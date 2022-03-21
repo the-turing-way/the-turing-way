@@ -2,7 +2,7 @@
 # Book Dash Event Plans
 
 This subchapter provides information on the events that are organised for the book dash attendees.
-These events include a pre-event webinar for information, onboarding calls, GitHub introduction, collaboration (coworking) sessions during the Book Dash and Community Share-Outs, which are explained below.
+These events include a pre-event webinar for information, onboarding calls, GitHub introduction, contribution sessions during the Book Dash and Community Share-Outs, which are explained below.
 
 _The Turing Way_ participation guidelines, [Code of Conduct](https://the-turing-way.netlify.app/community-handbook/coc.html) and [Contribution guideline](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) apply to all these events:
 
