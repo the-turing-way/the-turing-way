@@ -66,7 +66,7 @@ For participants who are unfamiliar with GitHub or would like a refresher (and d
 
 ### Social Sessions
 
-There will also be themed social discussion or networking session where participants can interact with others, continue their discussions outside the collaboration session or take a break as it's most sustainable and helpful for their participation.
+There will also be themed social discussion or networking session where participants can interact with others, continue their discussions outside the contribution session or take a break as it's most sustainable and helpful for their participation.
 For a virtual Book Dash, a support fund will be provided to cover the subsistence cost including paying for meals for the social sessions.
 If hosting an in-person event, the core team members will plan a dinner or social event to allow participants to relax after an intense discussion session and enjoy meals together in an informal setting.
 
