@@ -73,7 +73,7 @@ If hosting an in-person event, the core team members will plan a dinner or socia
 ### Reporting and Documentation
 
 At the end of each day, participants can gather all their contributions on _The Turing Way_ GitHub repository (issues, pull requests and notes) and add that in the shared notes.
-Specifically, during the last collaboration session, they will be asked to add their details to the [contributors](https://github.com/alan-turing-institute/the-turing-way/tree/book-dash-chapter/contributors.md) file and provide anonymous feedback on a {ref}`Pluses and Delta<ch-template-bookdash-feedback>` notes.
+Specifically, during the last contribution session, they will be asked to add their details to the [contributors](https://github.com/alan-turing-institute/the-turing-way/tree/book-dash-chapter/contributors.md) file and provide anonymous feedback on a {ref}`Pluses and Delta<ch-template-bookdash-feedback>` notes.
 This will help the planning committee to collect notes for their final report and improve future events.
 
 ### Community Share-Outs & Contributor Celebration
