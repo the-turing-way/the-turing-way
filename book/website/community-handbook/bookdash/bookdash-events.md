@@ -46,7 +46,7 @@ In the previous events, we have used the following materials:
 
 ## During the Book Dash
 
-### Collaboration Sessions
+### Contribution Sessions
 
 On each day of Book Dash, we will hold three 2.5 hour-long collaboration sessions when hosting virtually each followed by a break or social event.
 When hosting an in-person Book Dash, four 75 minutes long collaboration sessions will be facilitated, each separated by 15 minutes for report out followed by a break.
