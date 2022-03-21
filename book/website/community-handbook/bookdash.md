@@ -7,7 +7,8 @@ They also contribute to enhancing the project by improving the ways we work in t
 In the past, we have organised 1-2 days long Book Dash events in person or in a hybrid format, where one of the participants coordinated with their team remotely. 
 However, to ensure that international participants have an equal chance to join and address the challenges of hosting in-person events during the COVID-19 pandemic, we started hosting Book Dashes virtually. 
 These virtual Book Dashes are five days long, designed for flexible participation by members in different time zones. 
-Meaning, rather than committing their entire working day, participants can choose one or multiple 2.5 hours short co-working sessions each day based on their availability.
+Meaning, rather than committing their entire working day, participants can choose one or multiple 2.5 hours short collaborative co-working sessions each day based on their availability.
+In the future, we would like to co-design hybrid events with virtual first plans for the event with the opportunity for participants to organise small local meet-ups for collaboration and social events.
 
 ```{figure} ../figures/first-pull-request.png
 ---
@@ -18,13 +19,14 @@ alt: A person helping out another person making their first pull request on GitH
 Making your first pull request on GitHub.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
+
 ## Inviting Diverse Contributions
 
 As a community-driven guidebook, _The Turing Way_ aims to co-create contents that are comprehensible and beneficial for the wider community of data scientists and researchers.
 Hence, _The Turing Way_ specifically welcomes contributors from diverse fields, identities, and backgrounds who can propose ideas and work on new aspects of an existing chapter or create new chapters in its guides.
 
 All the contributions are managed through GitHub.
-Since many participants of the Book Dash are new community members, and often new users of GitHub, the team members make sure that they take time to introduce the project and teach collaboration through GitHub before the Book Dash.
+Since many participants of the Book Dash are relatively new community members, and often new users of GitHub, the team members make sure that they take time to introduce the project and teach collaboration through GitHub before the Book Dash.
 
 The skills and contributions that we invite at the Book Dash include, but are not limited to:
 
@@ -44,9 +46,10 @@ The skills and contributions that we invite at the Book Dash include, but are no
 
 We want to support participants in getting the most out of these Book Dash events. 
 Therefore, we encourage applications from members of our community, including both new and existing contributors. 
-We want applicants to know about _The Turing Way_, how we work collaboratively and have a good idea of how they can contribute to our resources. 
+More specifically, we want applicants to know about _The Turing Way_, how we work collaboratively and have a good idea of how they can contribute to our resources. 
 
-This does not mean that you must have made a contribution before - it is more about having interacted with our community in some way so that you will be able to make a contribution during the Book Dash more easily, even if this is with the support of more experienced community members. 
+This does not mean that you must have contributed to the project before - it is more about having used the project and/or interacted with our community in some way.
+Some familiarity with the project and how we work in the community will help our participants collaborate during the Book Dash more easily, even if this is with the support of more experienced community members. 
 If you have previously contributed to a collaborative project or have a specific proposal for contribution in mind, you are highly encouraged to apply.
 Do get in touch with one of the core contributors who can help you shape your idea by identifying where and how they fit in the bigger vision of the project.
 
