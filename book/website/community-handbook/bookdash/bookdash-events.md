@@ -56,7 +56,7 @@ Attendees will be then allocated in small groups with their collaborators based 
 The collaborating groups will work together to build a roadmap and plans for their contributions as chapters, subchapters or other types of content.
 Participants are also encouraged to come up with the main sections of their contributions and collect their thoughts in bullet points on a GitHub issue.
 
-The rest of the collaboration sessions throughout the Book Dash will be facilitated in breakouts allowing members with similar ideas to collaborate.
+The rest of the contribution sessions throughout the Book Dash will be facilitated in breakouts allowing members with similar ideas to collaborate.
 Participants can also work in self-organised groups or individually on their contribution ideas with the support of mentors.
 This is also a chance for everyone to meet the participants and helpers informally, learn about each other and connect with specific members who plan to work on the related topic during the book dash.
 Participants will be supported to collaborate in small groups, organising their thoughts and ideas for contributions during or after the Book Dash.
