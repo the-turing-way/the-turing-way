@@ -8,7 +8,7 @@ In the past, we have organised 1-2 days long Book Dash events in person or in a 
 However, to ensure that international participants have an equal chance to join and address the challenges of hosting in-person events during the COVID-19 pandemic, we started hosting Book Dashes virtually. 
 These virtual Book Dashes are five days long, designed for flexible participation by members in different time zones. 
 Meaning, rather than committing their entire working day, participants can choose one or multiple 2.5 hours short collaborative co-working sessions each day based on their availability.
-In the future, we would like to co-design hybrid events with virtual first plans for the event with the opportunity for participants to organise small local meet-ups for collaboration and social events.
+In the future, we would like to co-design hybrid events with "virtual-first" approach for the Book Dash and additional opportunity for participants to organise small local meet-ups for collaboration and social events.
 
 ```{figure} ../figures/first-pull-request.png
 ---
@@ -22,7 +22,11 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 ## Inviting Diverse Contributions
 
-As a community-driven guidebook, _The Turing Way_ aims to co-create contents that are comprehensible and beneficial for the wider community of data scientists and researchers.
+Our Book Dash attendees are:
+- First time Book Dash attendees who have previously interacted with the project or community to send in their application describing where/how in the project and community they would like to contribute.
+- Previous Book Dash attendees to express their interest to participate again as a contributors, members of planning committee and/or mentors. Book Dash mentors facilitating other attendees' contributions in one or multiple of the contribution sessions based on their interest and availability.
+
+As a community-driven guidebook, _The Turing Way_ aims to co-create contents that are comprehensible and beneficial for the wider community of researchers, data scientists and individuals working in research infrastructure roles.
 Hence, _The Turing Way_ specifically welcomes contributors from diverse fields, identities, and backgrounds who can propose ideas and work on new aspects of an existing chapter or create new chapters in its guides.
 
 All the contributions are managed through GitHub.
