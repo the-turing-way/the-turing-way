@@ -7,7 +7,7 @@ They also contribute to enhancing the project by improving the ways we work in t
 In the past, we have organised 1-2 days long Book Dash events in person or in a hybrid format, where one of the participants coordinated with their team remotely. 
 However, to ensure that international participants have an equal chance to join and address the challenges of hosting in-person events during the COVID-19 pandemic, we started hosting Book Dashes virtually. 
 These virtual Book Dashes are five days long, designed for flexible participation by members in different time zones. 
-Meaning, rather than committing their entire working day, participants can choose one or multiple 2.5 hours short collaborative co-working calls, called contribution sessions each day based on their availability.
+Meaning, rather than committing their entire working day, participants can choose one or multiple 2.5 hours short collaborative co-working calls, called "contribution sessions" each day based on their availability.
 In the future, we would like to co-design hybrid events with "virtual-first" approach for the Book Dash and additional opportunity for participants to organise small local meet-ups for collaboration and social events.
 
 ```{figure} ../figures/first-pull-request.png
