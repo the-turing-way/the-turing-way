@@ -107,7 +107,7 @@ These roles are maternity covers for Kirstie Whitaker, TPS Programme Director an
 
 #### TPS Research Project Manager
 
-A Research Project Manager will coordinate and support work across the TPS programme and They will play a central role in assisting with the overall delivery process. This position will also be working closely with _The Turing Way_ core team members. They will be supported to share their expertise in project design and collaborative skills by creating new content, reviewing existing chapters, or promoting the project to new audiences. See this [Twitter thread by Arielle Bennett](https://twitter.com/biotechchat/status/1500810442217857024?s=20&t=ZhCl7r3zrp8d1NstXaNFHA) for details and [apply online](https://cezanneondemand.intervieweb.it/turing/jobs/research_project_manager_tools_practices_and_systems_21254/en/).
+A Research Project Manager will coordinate and support work across the TPS programme, playing a central role in assisting with the overall delivery process. This position will also be working closely with _The Turing Way_ core team members. They will be supported to share their expertise in project design and collaborative skills by creating new content, reviewing existing chapters, or promoting the project to new audiences. See this [Twitter thread by Arielle Bennett](https://twitter.com/biotechchat/status/1500810442217857024?s=20&t=ZhCl7r3zrp8d1NstXaNFHA) for details and [apply online](https://cezanneondemand.intervieweb.it/turing/jobs/research_project_manager_tools_practices_and_systems_21254/en/).
 
 * * *
 
