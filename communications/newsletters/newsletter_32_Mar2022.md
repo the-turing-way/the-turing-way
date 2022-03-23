@@ -75,7 +75,7 @@ This project has led to the development of **two training modules** on data scie
 
 #### Pre-Event Webinar
 
-We will host a webinar on 11 April at 17:00 London Time to present the project and answer any questions our applicants may have. Register in advance for this meeting: [https://turing-uk.zoom.us/meeting/register/tJUrduGsqz0qEty19kV8JdA7e29AWkOgCYrM](https://turing-uk.zoom.us/meeting/register/tJUrduGsqz0qEty19kV8JdA7e29AWkOgCYrM). After registering, you will receive a confirmation email containing information about joining the meeting.
+We will host a webinar on 11 April at 17:00 (London Time) to present the project and answer any questions our applicants may have. Register in advance for this meeting: [https://turing-uk.zoom.us/meeting/register/tJUrduGsqz0qEty19kV8JdA7e29AWkOgCYrM](https://turing-uk.zoom.us/meeting/register/tJUrduGsqz0qEty19kV8JdA7e29AWkOgCYrM). After registering, you will receive a confirmation email containing information about joining the meeting.
 
 * * *
 
