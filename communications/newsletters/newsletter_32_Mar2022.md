@@ -53,6 +53,7 @@ This application will likely take 30 minutes to complete.
 You can use this template document with all the questions to prepare your draft in your time: [https://tinyurl.com/tw-bookdash-template](https://tinyurl.com/tw-bookdash-template).
 
 ![Malvika's tweet inviting application to this Book Dash.](images/2022-03-bookdash-03.png)
+
 _[Tweet by Malvika](https://twitter.com/MalvikaSharan/status/1505906141921951745?s=20&t=xHT7RiowG8hRJytNqMpPjQ) sharing report from [the 6th Book Dash in 2022](https://hackmd.io/@turingway/bookdash-nov2021)_
 
 Previous Book Dash attendees are welcome to send their application to participate again in the Book Dash. 
@@ -80,6 +81,7 @@ _Have more ways to connect and work with The Turing Way? [Get in touch](https://
 ### Introduction to Data Science and AI Training : Review and Illustration Sprint
 
 ![The Turing Way Tweet inviting contributions to the training materials.](images/2022-03-turingcrick-04.png)
+
 _Lydia France, Federico Nanni and Malvika are developing training materials for data science for biomedical researchers on GitHub (see an [early Tweet inviting case studies and examples](https://twitter.com/turingway/status/1491849730996981770?s=20&t=RENtZhQDQ2WWCclDxxhjlA))_
 
 On 28 and 29 April 2022 (1.5 days), we are organising a review and illustration sprint for the [Introduction to Data Science for Biomedical Scientists: Turing-Crick Partnership](https://github.com/alan-turing-institute/data-training-for-bioscience). 
@@ -115,6 +117,7 @@ The [Tools, Practices and Systems (TPS)](https://www.turing.ac.uk/research/resea
 _The Turing Way_ is a flagship project hosted by TPS to learn, exchange and adopt best practices in data science and research with the Turing and beyond.
 
 ![Kirstie's Tweet announcing TPS jobs.](images/2022-03-tpsjobs-05.png)
+
 _See [Kirstie’s Twitter thread](https://twitter.com/kirstie_j/status/1502773236823728130?s=20&t=RENtZhQDQ2WWCclDxxhjlA) sharing job opportunities at the Turing with details on what these positions entail._
 
 TPS is recruiting for the following positions – the deadline for applications is 3 April 2022.
@@ -168,6 +171,7 @@ See this [Twitter thread by Arielle Bennett](https://twitter.com/biotechchat/sta
 *   Kirstie and Malvika will be delivering a stakeholder engagement workshop at the AI-UK 2022 conference. Presentation for their talk can be seen in Zenodo under the title **Investing in Human Infrastructure for Culture Change**. Zenodo. [DOI: 10.5281/zenodo.6378011](https://doi.org/10.5281/zenodo.6378011).
 
 ![Illustration of a woman taking steps from 'not reproducible' to 'reproducible & sustainable' by sharing protocol, data and computational environment. ](images/2022-03-publish-07.jpg)
+
 _The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. [https://doi.org/10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)_
 
 ### Recent Articles & Publications
