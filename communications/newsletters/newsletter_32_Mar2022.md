@@ -12,6 +12,8 @@ This post is packed with exciting updates and news from _The Turing Way_ communi
 
 There are several community events, collaborative projects and job opportunities to work strategically alongside _The Turing Way_, read on for details on these topics below 👇
 
+Thanks to Esther Plomp and Georgia Aitkenhead for reviewing an earlier drafts of this newsletter! 🌻
+
 * * *
 
 ## Meet Anne Lee Steele, _The Turing Way_ Community Manager
