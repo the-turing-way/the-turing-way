@@ -46,7 +46,7 @@ We invite applications from members of our community, including both new and exi
 
 This application will likely take 30 minutes to complete. You can use this template document with all the questions to prepare your draft in your time: [https://tinyurl.com/tw-bookdash-template](https://tinyurl.com/tw-bookdash-template).
 
-![Malvika's tweet inviting application to this Book Dash.](images/2022-03-bookdash-03.jpg)
+![Malvika's tweet inviting application to this Book Dash.](images/2022-03-bookdash-03.png)
 _[Tweet by Malvika](https://twitter.com/MalvikaSharan/status/1505906141921951745?s=20&t=xHT7RiowG8hRJytNqMpPjQ) sharing report from [the 6th Book Dash in 2022](https://hackmd.io/@turingway/bookdash-nov2021)_
 
 #### Express Your Interest to Join the Planning Committee or Host a Local Meet Up
@@ -69,7 +69,7 @@ _Have more ways to connect and work with The Turing Way? [Get in touch](https://
 
 ### Introduction to Data Science and AI Training : Review and Illustration Sprint
 
-![The Turing Way Tweet inviting contributions to the training materials.](images/2022-03-turingcrick-04.jpg)
+![The Turing Way Tweet inviting contributions to the training materials.](images/2022-03-turingcrick-04.png)
 _Lydia France, Federico Nanni and Malvika are developing training materials for data science for biomedical researchers on GitHub (see an [early Tweet inviting case studies and examples](https://twitter.com/turingway/status/1491849730996981770?s=20&t=RENtZhQDQ2WWCclDxxhjlA))_
 
 On 28 and 29 April 2022 (1.5 days), we are organising a review and illustration sprint for the [Introduction to Data Science for Biomedical Scientists: Turing-Crick Partnership](https://github.com/alan-turing-institute/data-training-for-bioscience). Please express your interest to attend this event before **21 April 2022** via [this Google form](https://forms.gle/fXPZ9yPzMkqMxrdQ8).
@@ -94,7 +94,7 @@ We are inviting interested [Google Season of Code (GSoC)](https://summerofcode.w
 
 The [Tools, Practices and Systems (TPS)](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) programme at The Alan Turing Institute represents a cross-cutting set of initiatives that seek to build open source infrastructure that is accessible to all and empower a global, decentralised network of people who connect data with domain experts. _The Turing Way_ is a flagship project hosted by TPS to learn, exchange and adopt best practices in data science and research with the Turing and beyond.
 
-![Kirstie's Tweet announcing TPS jobs.](images/2022-03-tpsjobs-05.jpg)
+![Kirstie's Tweet announcing TPS jobs.](images/2022-03-tpsjobs-05.png)
 _See [Kirstie’s Twitter thread](https://twitter.com/kirstie_j/status/1502773236823728130?s=20&t=RENtZhQDQ2WWCclDxxhjlA) sharing job opportunities at the Turing with details on what these positions entail._
 
 TPS is recruiting for the following positions – the deadline for applications is 3 April 2022.
@@ -127,7 +127,7 @@ A Research Project Manager will coordinate and support work across the TPS progr
 
 ### Twitter Shout Outs
 
-![Screenshot of Tweets by Emma Karoune, Sarah Gibson, Esther Plomp and Cassandra Gould van Praag.](images/2022-03-tweetcollage-06.jpg)
+![Screenshot of Tweets by Emma Karoune, Sarah Gibson, Esther Plomp and Cassandra Gould van Praag.](images/2022-03-tweetcollage-06.png)
 
 *   **1.** Congratulations **Emma Karoune** for the publication of her research paper [Assessing Open Science Practices in Phytolith Research](https://www.openquaternary.com/articles/10.5334/oq.88/). See [her Tweet](https://twitter.com/ekaroune/status/1502208208571703298?s=20&t=ZhCl7r3zrp8d1NstXaNFHA) sharing her paper.
 *   **2.** Congratulations **Sarah Gibson** for being named a [JupyterHub Distinguished Contributor](https://blog.jupyter.org/congratulations-distinguished-contributors-bc349fa60d68). See [her Tweet](https://twitter.com/drsarahlgibson/status/1504376954325196800?s=20&t=ZhCl7r3zrp8d1NstXaNFHA) with the announcement.
