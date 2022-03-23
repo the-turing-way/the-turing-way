@@ -7,7 +7,7 @@ Hello Turing Way friends!
 This post is packed with exciting updates and news from _The Turing Way_ community.
 
 *   📢 Meet **Anne Lee-Steele, _The Turing Way_ Community Manager**. Learn more about her in this newsletter.
-*   🔥 Join the **Fireside Chat this Friday, on 25 March 2022**, 17:00 - 18:30 UTC. Under the title: “Emergent Roles in Research Infrastructure and technology”, this event co-hosted with Open Post Academics ([register](https://www.eventbrite.co.uk/e/fireside-chat-emergent-roles-in-research-infrastructure-technology-tickets-294499364527)).
+*   🔥 Join the **Fireside Chat this Friday, on 25 March 2022**, 17:00 - 18:30 UTC. Under the title: “Emergent Roles in Research Infrastructure and Technology”, this event is co-hosted with Open Post Academics ([register](https://www.eventbrite.co.uk/e/fireside-chat-emergent-roles-in-research-infrastructure-technology-tickets-294499364527)).
 *   📚💨 The next **Book Dash is taking place from 16 to 20 May 2022**. [Send your application](https://forms.gle/9hyQQC5KCsRJC3Yv8) to attend virtually, as well as indicate your interest to host local meet-ups.
 
 There are several community events, collaborative projects and job opportunities to work strategically alongside _The Turing Way_, read on for details on these topics below 👇
@@ -20,7 +20,7 @@ We are delighted to welcome [Anne Lee Steele](http://twitter.com/aleesteele) as 
 
 ![Anne Lee Steele's headshot](images/2022-03-aleesteele-01.png)
 
-> I’m truly excited to join The Turing Way community and to support such an important project in open science and the broader free/open ecosystem. Most relevant for the community, I’m an anthropologist by training… So in the coming weeks and months, I’ll be playing the role of an ethnographer, getting to know you all and The Turing Way, listening in, and learning how I can support you and your contributions to the project, whatever that may look like. I’ll be the first to admit that I’ll probably make mistakes along the way, but I’m excited to join you on this new chapter of The Turing Way together.
+> I’m truly excited to join _The Turing Way_ community and to support such an important project in open science and the broader free/open ecosystem. Most relevant for the community, I’m an anthropologist by training… So in the coming weeks and months, I’ll be playing the role of an ethnographer, getting to know you all and _The Turing Way_, listening in, and learning how I can support you and your contributions to the project, whatever that may look like. I’ll be the first to admit that I’ll probably make mistakes along the way, but I’m excited to join you on this new chapter of _The Turing Way_ together.
 > 
 > I’ll be reaching out to people individually, but you will also see me in the slack channels, GitHub Pull Requests or Twitter. Please don’t hesitate to say hello! I’ve opened my calendar for (digital) coffee calls: [Book a chat with me](https://calendly.com/aleesteele/) or connnect [@aleesteele](http://twitter.com/aleesteele). There’s a lot I have to learn from you all, and I’m looking forward to getting to know you.
 
@@ -128,16 +128,16 @@ A Research Project Manager will coordinate and support work across the TPS progr
 
 *   **1.** Congratulations **Emma Karoune** for the publication of her research paper [Assessing Open Science Practices in Phytolith Research](https://www.openquaternary.com/articles/10.5334/oq.88/). See [her Tweet](https://twitter.com/ekaroune/status/1502208208571703298?s=20&t=ZhCl7r3zrp8d1NstXaNFHA) sharing her paper.
 *   **2.** Congratulations **Sarah Gibson** for being named a [JupyterHub Distinguished Contributor](https://blog.jupyter.org/congratulations-distinguished-contributors-bc349fa60d68). See [her Tweet](https://twitter.com/drsarahlgibson/status/1504376954325196800?s=20&t=ZhCl7r3zrp8d1NstXaNFHA) with the announcement.
-*   **3.** Thanks to **Esther Plomp** for writing a [chapter on Data Article in The Turing Way](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-article.html), and Achintya Rao and Vicky Hellon for review. See [Esther’s tweet](https://twitter.com/PhDToothFAIRy/status/1494386704517636110?s=20&t=uWN4ovGAHUUk4I5coZhXsg) inviting examples from data articles.
-*   **4.** Congratulations to **Stephan Druskat** and the team for winning the [campusSOURCE Award 2022 for the Citation File Format](https://ev.campussource.de/publikationen/csa2022/) project. See [Cassandra Gould van Praag’s Tweet](https://twitter.com/cassgvp/status/1494198893193711626?s=20&t=uWN4ovGAHUUk4I5coZhXsg) sharing a [chapter on CFF File Format](https://the-turing-way.netlify.app/communication/citable/citable-cffinit.html) in The Turing Way.
+*   **3.** Thanks to **Esther Plomp** for writing a [chapter on Data Article in _The Turing Way_](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-article.html), and Achintya Rao and Vicky Hellon for review. See [Esther’s tweet](https://twitter.com/PhDToothFAIRy/status/1494386704517636110?s=20&t=uWN4ovGAHUUk4I5coZhXsg) inviting examples from data articles.
+*   **4.** Congratulations to **Stephan Druskat** and the team for winning the [campusSOURCE Award 2022 for the Citation File Format](https://ev.campussource.de/publikationen/csa2022/) project. See [Cassandra Gould van Praag’s Tweet](https://twitter.com/cassgvp/status/1494198893193711626?s=20&t=uWN4ovGAHUUk4I5coZhXsg) sharing a [chapter on CFF File Format](https://the-turing-way.netlify.app/communication/citable/citable-cffinit.html) in _The Turing Way_.
 
 * * *
 
 ### Recent Talks & Workshops
 
 *   On 11 February, a fireside chat took place on the topic **Gaps & Opportunities for Inclusive, Multilingual Data Science**. Chaired by Anelda van der Walt and Malvika Sharan, this panel featured insights from Batool Almarzouq, Bobby Shabangu, Camila Rangel-Smith, David Pérez-Suárez, Langa Khumalo and Yanina Bellini Saibene. The [recording is available on YouTube](https://www.youtube.com/watch?v=Ydogg2tQljA).
-*   On March 22, Malvika delivered a workshop for the MRes **Responsible Research and Innovation Cohort 3: RRI Module Week** under the title The Turing Way: Workshop for Responsible Research and Innovation: Geospatial Data. Zenodo. [DOI: 10.5281/zenodo.6377969](https://doi.org/10.5281/zenodo.6377969)
-*   On 4 and 11 March, Emma Karoune and Malvika delivered a The Turing Way Workshop on **Reproducible, Open and FAIR Research** for AI for the study of Environmental Risks (AI4ER) for the doctoral students at UKRI Centre for Doctoral Training. Zenodo. [DOI: 10.5281/zenodo.6346555](https://doi.org/10.5281/zenodo.6346555).
+*   On March 22, Malvika delivered a workshop for the MRes **Responsible Research and Innovation Cohort 3: RRI Module Week** under the title _The Turing Way_: Workshop for Responsible Research and Innovation: Geospatial Data. Zenodo. [DOI: 10.5281/zenodo.6377969](https://doi.org/10.5281/zenodo.6377969)
+*   On 4 and 11 March, Emma Karoune and Malvika delivered a _The Turing Way_ Workshop on **Reproducible, Open and FAIR Research** for AI for the study of Environmental Risks (AI4ER) for the doctoral students at UKRI Centre for Doctoral Training. Zenodo. [DOI: 10.5281/zenodo.6346555](https://doi.org/10.5281/zenodo.6346555).
 *   Under the title **Engaging Community in Sharing Open and Reproducible Research Practices**, Malvika gave a talk at the STFC Open Science Cafe webinar. Zenodo. [DOI: 10.5281/zenodo.6114015](https://doi.org/10.5281/zenodo.6114015).
 *   Kirstie and Malvika will be delivering a stakeholder engagement workshop at the AI-UK 2022 conference. Presentation for their talk can be seen in Zenodo under the title **Investing in Human Infrastructure for Culture Change**. Zenodo. [DOI: 10.5281/zenodo.6378011](https://doi.org/10.5281/zenodo.6378011).
 
@@ -146,7 +146,7 @@ _The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Wa
 
 ### Recent Articles & Publications
 
-*   Post [Publishing a Data Article](https://openworking.wordpress.com/) by Esther Plomp. Contributions from Vicky Hellon, Achintya Rao, Yanina Bellini Saibene, and Lora Armstrong. See the related [chapter on The Turing Way](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-article.html).
+*   Post [Publishing a Data Article](https://openworking.wordpress.com/) by Esther Plomp. Contributions from Vicky Hellon, Achintya Rao, Yanina Bellini Saibene, and Lora Armstrong. See the related [chapter on _The Turing Way_](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-article.html).
 *   Seminar Announcement for 24 March 2022. Python (or R) for Open and Reproducible Science, with Andrew Mitchell - Department of Psychology. [See details](https://www.su.se/department-of-psychology/calendar/python-or-r-for-open-and-reproducible-science-with-andrew-mitchell-1.604754).
 *   Coderefinery. (2022, March 22) [Sharing code and data — Reproducible research documentation](https://coderefinery.org/reproducible-research/sharing).
 *   Louise Corti, Professor Felix Ritchie and Martin O’Reilly (2022, March 22). [To share or not to share: code sharing in social science.](https://www.ncrm.ac.uk/news/show.php?article=5705).
