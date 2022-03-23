@@ -18,7 +18,7 @@ There are several community events, collaborative projects and job opportunities
 
 We are delighted to welcome [Anne Lee Steele](http://twitter.com/aleesteele) as the Community Manager of _The Turing Way_. We asked Anne to share a few sentences about herself that you can read below.
 
-![Anne Lee Steele's headshot](images/2022-03-aleesteele-01.jpg)
+![Anne Lee Steele's headshot](images/2022-03-aleesteele-01.png)
 
 > I’m truly excited to join The Turing Way community and to support such an important project in open science and the broader free/open ecosystem. Most relevant for the community, I’m an anthropologist by training… So in the coming weeks and months, I’ll be playing the role of an ethnographer, getting to know you all and The Turing Way, listening in, and learning how I can support you and your contributions to the project, whatever that may look like. I’ll be the first to admit that I’ll probably make mistakes along the way, but I’m excited to join you on this new chapter of The Turing Way together.
 > 
@@ -30,7 +30,7 @@ We are delighted to welcome [Anne Lee Steele](http://twitter.com/aleesteele) as 
 
 ### Join us at the Fireside Chat on 25 March 2022
 
-![Fireside chat's Flyer]((images/2022-03-fireside-02.jpg))
+![Fireside chat's Flyer](images/2022-03-fireside-02.png)
 
 On 25 March 2022, 17:00 - 18:30 UTC ([in your timezone](https://arewemeetingyet.com/london/2022-03-25/17:00)), the next Fireside Chat's title is "Emergent Roles in Research Infrastructure & Technology". Chaired by Beth Duckles and Arielle Bennett, this panel will feature insights from Noor Shaker, Esther Plomp and Borhane (Bo) Blili-Hamelin. [Register on Eventbrite](https://www.eventbrite.co.uk/e/fireside-chat-emergent-roles-in-research-infrastructure-technology-tickets-294499364527).
 
