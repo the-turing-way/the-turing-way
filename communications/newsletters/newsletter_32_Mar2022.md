@@ -43,15 +43,12 @@ These individuals represent diverse positions in the research infrastructure and
 The 7th Book Dash event is taking place online from **16 to 20 May 2022**. Submit your application via [this Google form](https://forms.gle/uEbu1FJMmdfgGwvW6). The Deadline for submission is 21 April 2022.
 
 We invite applications from members of our community, including both new and existing contributors. Our attendees bring some understanding of where they can contribute and collaboratively improve _The Turing Way_ as a whole. If participating in _The Turing Way_ community for the first time, we encourage you to first participate in a Collaboration Café or other community events (see: [bit.ly/turingway](http://bit.ly/turingway)).
-
 This application will likely take 30 minutes to complete. You can use this template document with all the questions to prepare your draft in your time: [https://tinyurl.com/tw-bookdash-template](https://tinyurl.com/tw-bookdash-template).
 
 ![Malvika's tweet inviting application to this Book Dash.](images/2022-03-bookdash-03.png)
 _[Tweet by Malvika](https://twitter.com/MalvikaSharan/status/1505906141921951745?s=20&t=xHT7RiowG8hRJytNqMpPjQ) sharing report from [the 6th Book Dash in 2022](https://hackmd.io/@turingway/bookdash-nov2021)_
 
-#### Express Your Interest to Join the Planning Committee or Host a Local Meet Up
-
-Previous Book Dash attendees are welcome to send their application to participate again in the Book Dash. They are particularly encouraged to indicate their interest to join the **Book Dash Review and Planning Committee**. A Book Dash committee members are facilitators and mentors who support other attendees’ contributions in one or multiple of the contribution sessions based on their interest and availability. We are also looking to support **small scale local meetups** if multiple members from the same city are participating. In the application form, please indicate your interest if you would like to attend or host if a local meet-up in your city will be possible.
+Previous Book Dash attendees are welcome to send their application to participate again in the Book Dash. They are particularly encouraged to indicate their interest to join the **Book Dash Review and Planning Committee**. Book Dash committee members are facilitators and mentors who support other attendees’ contributions in one or multiple of the contribution sessions based on their interest and availability. We are also looking to support **small scale local meetups** if multiple members from the same city are participating. In the application form, please indicate your interest if you would like to attend or host if a local meet-up in your city will be possible.
 
 * * *
 
