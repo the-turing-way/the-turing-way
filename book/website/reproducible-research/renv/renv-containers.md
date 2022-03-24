@@ -54,7 +54,7 @@ That person can then use the image to generate a container containing a working 
 
 There are many tools available for creating and working with containers.
 We will focus on Docker, which is widely used, but be aware that others such as Singularity also exist.
-Singularity is sometimes preferred for use on high-performance computing systems as it does not need `sudo` permissions to be run, while Docker does.
+Singularity is sometimes preferred for use on high-performance computing systems as it does not need `sudo` permissions to be run, while up until April 2020 Docker did (please see the [Docker without root access](#docker-without-root-access) section)
 
 In Docker, the recipe files used to generate images are known as Dockerfiles, and should be named `Dockerfile`.
 
@@ -395,7 +395,7 @@ Once the researcher is done, they can close the container as normal.
 When they come back to the project and want to continue their work, they only need to use the same command as above, and it will load the work contained in `volume_name` into the new container.
 It will save any new work there too.
 
-Below is a list of volume related commands:
+Below is a list of volume related commands: 
 
 - To list volumes: `sudo docker volume ls`
 - To delete a volume: `sudo docker volume rm volume_name`
@@ -403,14 +403,31 @@ Below is a list of volume related commands:
 
 If, when deleting a container, a `-v` is included after `rm` in `sudo docker rm container_ID`, any volumes associated with the container will also be deleted.
 
+(rr-renv-containers-rootless)=
+## Docker without root access
+
+Up until April 2020, the only way to run Docker was with root access. 
+"Rootless" mode was made available as part of the [v20.10](https://docs.docker.com/engine/security/rootless/) release.
+ Rootless mode is currently only avaliable on Linux and requires an initial install of Docker >= v20.10. 
+ 
+ The underyling difference between Docker and rootless mode is that perviously any system running docker had a daemon running as `uid0` that creates and owns all images, but with rootless mode the user creates and owns any images that they initialize.
+ To install and run the rootless version of Docker as a non-root user, use the following commands:
+
+```
+dockerd-rootless-setuptool.sh install
+docker run -d --name dind-rootless --privileged docker:20.10-dind-rootless
+```
+
+The following prequisites are required to run Docker rootless: `newuidmap` and `newgidmap`. 
+
 (rr-renv-containers-singularity)=
 ## Singularity
 
 
 > **Prerequisites**: At present, Singularity only runs on Linux systems (for example Ubuntu). If you use macOS, [Singularity Desktop for macOS](https://www.sylabs.io/singularity-desktop-macos/) is in "Beta" release stage.
 
-A significant drawback of using Docker for reproducible research is that it is not intended as a user-space application but as a tool for server administrators.
-As such, it requires root access to operate.
+Historically, a significant drawback of using Docker for reproducible research is that it was not intended as a user-space application but as a tool for server administrators.
+As such, it required root access to operate.
 There is, however, no reason why the execution of an analysis should require root access for the user.
 This is especially important when computations are conducted on a shared resource like HPC systems where users will never have root access.
 
@@ -506,7 +523,7 @@ Thus, it is ideally suited for storing scientific containers associated with par
 ## Words of Warning
 
 Even though singularity and docker might look similar, they are conceptually very different.
-Besides the obvious fact that singularity does not require root access to run containers, it also handles the distinction between the host and container file system differently.
+Singularity handles the distinction between the host and container file system differently.
 For instance, by default, singularity includes a few bind points in the container, namely:
 
 - `$HOME`
