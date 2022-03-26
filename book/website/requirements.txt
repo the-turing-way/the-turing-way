@@ -6,6 +6,7 @@ matplotlib==3.2.2
 datascience
 folium
 jupyter-book==0.12.2
+sphinx-book-theme==0.3.0
 sphinxcontrib-bibtex~=2.2.0
 sphinx-click
 sphinx_inline_tabs
