@@ -44,19 +44,17 @@ All our chapters are written in Markdown files.
 Therefore, using Markdown syntax to include a figure in a Markdown file will work fine, for example, `![](../../figures/file-collection.jpg)`, where the relative path of the image file is provided inside the round brackets '()'.
 
 **However**, this formatting does not allow images to be responsive to screen sizes, making them inaccessible to read on small screens and smartphones.
-Furthermore, this doesn't allow authors to resize figures in their chapters or cross reference them somewhere else in the book.
+Furthermore, this doesn't allow authors to cross reference them somewhere else in the book.
 
 Therefore, our recommendation is to use [Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/) (MyST) format available in Jupyter Book.
 
-You can resize figures to adjust how they appear in our chapters using the parameters: `width` and `height` (takes value in px, for example, 400px) or `scale` (takes value in percentage, for example, 50%), especially if your original figure is large.
 Using the parameter: `name`, you can reference figures in other chapters in a similar manner as defined in {ref}`ch-style-crossref`.
 
-All the components of your figure (figures location, size and name) can be encapsulated in section within a markdown file using the following directive:
+Your figure location and name can be encapsulated in section within a markdown file using the following directive:
 
 ````
 ```{figure} ../../figures/file-collection.jpg
 ---
-height: 500px
 name: file-collection
 ---
 ```
@@ -68,8 +66,6 @@ This figure can be referred in other files using the {ref} role like:
 {ref}`file-collection`
 ```
 
-Please note that a height of 500px works very well with _The Turing Way_ book, but this is only a suggestion.
-
 (ch-style-figures-alttext)=
 ## Alternative text
 
@@ -79,16 +75,14 @@ Our example figure can be explained with this sentence: *Two people happily brow
 Adding alternative text to figure is one of the first principles of web accessibility.
 Screen reader software can read an alt text to better explain the content of the figure to its users.
 
-All the components of your figure (image file location, size, name, alt text and title) can be encapsulated in section within a markdown file using the following directive:
+All the components of your figure (image file location, name, alt text and title) can be encapsulated in section within a markdown file using the following directive:
 
 ````
 ```{figure} ../../figures/file-collection.jpg
 ---
-height: 500px
 name: file-collection
 alt: Two people happily browsing files in a drawer of documents.
 ---
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 ````
 
@@ -99,18 +93,15 @@ Another advantage of using alt text is when an image cannot be loaded in a brows
 name: alt-text-demo
 alt: Two people happily browsing files in a drawer of documents.
 ---
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 When all these components are used correctly, a figure included in a file will be rendered in the online book like in this page:
 
 ```{figure} ../../figures/file-collection.jpg
 ---
-height: 500px
 name: file-collection
 alt: Two people happily browsing files in a drawer of documents.
 ---
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 (ch-style-figures-caption)=
@@ -132,7 +123,6 @@ The syntax for this image is as follows, and the way it appears in the book is b
 ````
 ```{figure} ../../figures/first-pull-request.png
 ---
-height: 400px
 name: first-pull-request
 alt: A person helping out another person making their first pull request on GitHub
 ---
@@ -143,7 +133,6 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 ```{figure} ../../figures/first-pull-request.png
 ---
-height: 400px
 name: first-pull-request
 alt: A person helping out another person making their first pull request on GitHub
 ---
