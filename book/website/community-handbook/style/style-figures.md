@@ -97,9 +97,8 @@ Another advantage of using alt text is when an image cannot be loaded in a brows
 ```{figure} ../../figures/alt-text-demo.png
 ---
 name: alt-text-demo
-alt: Two people happily browsing files in a drawer of documents.
+alt: A visual example of a web browser when it is not able to access an image.
 ---
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 When all these components are used correctly, a figure included in a file will be rendered in the online book like in this page:
