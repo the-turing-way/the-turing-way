@@ -19,7 +19,6 @@ Please see the subchapter {ref}`Acknowledgement Examples <ch-acknowledgement-exa
 
 ```{figure} ../../figures/allcontributorsbot-emoji.png
 ---
-height: 400px
 name: AllContributorsEmojiKey
 alt: Table with different emojis that is used by the contributors bot
 ---

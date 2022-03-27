@@ -13,7 +13,6 @@ The output provides a list of markers with recommendations for changing the form
 
 ```{figure} ../../figures/lintr-output.png
 ---
-height: 500px
 name: lintr_output
 alt: lintr output showing recommendations to add space, remove commented code, remove training whitespace, have character size per line less than 80 where needed in the input code.
 ---

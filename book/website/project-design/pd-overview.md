@@ -9,7 +9,6 @@ A project design requires project leads, managers and organisers to be deliberat
 
 ```{figure} ../figures/project-design-overview.jpg
 ---
-height: 500px
 name: project-design-overview
 alt: This illustration shows a stage with a trophy labeled as 'reproducible research trophy'. A diverse team of four people are helping each other take staircase towards the trophy. The staircase has three sets of labels indicating research stages as (1) before, that includes 'team, funding, question, methodology, approval, license', (2) during that includes version control and documentation, and (3) after that includes archiving and publishing steps.
 ---

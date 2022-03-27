@@ -120,7 +120,6 @@ This chapter (and most, if not all, of this book) has a new line after every sen
 
 ```{figure} ../../figures/xkcd1285.png
 ---
-height: 500px
 name: xkcd1285
 alt: Two groups holding different flags and fighting, one says "two spaces after a period" and other says "one space after a period". While a person stands with their flag that says "Line break after every sentence"
 ---

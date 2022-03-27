@@ -40,7 +40,6 @@ Below, we discuss some reasons explaining why this may be the case.
 
 ```{figure} ../../figures/data-privacy.jpg
 ---
-height: 500px
 name: data-privacy
 alt: An image detailing why private data should be used. A person stands next to a well with 'private data' written on it and a padlock around it. It is black and white and blue. The text lists that 'people deserve - dignity, agency, privacy, rights, confirmed consent.'
 ---

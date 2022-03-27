@@ -8,7 +8,6 @@ Since _The Turing Way_ is written asynchronously by multiple authors around the 
 
 ```{figure} ../figures/that-could-be-a-chapter.jpg
 ---
-height: 400px
 name: that-could-be-a-chapter
 alt: A sketch of Kirstie saying “That could be a chapter”
 ---

@@ -6,7 +6,6 @@ Remote collaboration is extremely valuable for removing physical barrier in comm
 
 ```{figure} ../figures/distributed-collaboration.jpg
 ---
-height: 500px
 name: distributed-collaboration
 alt: A person standing on a globe and interacting virtually with people in different time zones on different computer screens
 ---

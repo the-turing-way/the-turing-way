@@ -96,7 +96,6 @@ For instance, the accepted version could be made publicly available after public
 
 ```{figure} ../../figures/routes-to-OA.jpg
 ---
-height: 500px
 name: routes-to-OA
 alt: An image of a train showing the routes to open access publishing. The green route is signalled as free and shows a preprint server at the start of the journey and self archive at the end. The gold and diamond routes are signalled as author pay and funder or institution pay and show the publish in an open access journal part of the journey.
 ---
@@ -118,7 +117,6 @@ Papers published openly are also more likely to have a citation advantage {cite}
 
 ```{figure} ../../figures/share-work-openly.jpg
 ---
-height: 500px
 name: share-work-openly
 alt: An poster image of a train journey and along the way five reasons why you should share your research openly are annotated.
 ---

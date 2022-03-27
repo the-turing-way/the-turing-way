@@ -7,7 +7,6 @@ The community collaboration and development aspects of the book has been written
 
 ```{figure} ../figures/road-to-reproducibility.jpg
 ---
-height: 400px
 name: road-to-reproducibility
 alt: Three hands holding magnifying glasses and varifying 'road to reproducibility' of The Turig Way.
 ---

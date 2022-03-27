@@ -22,7 +22,6 @@ Together with all other components of a research project, data identified in pre
 
 ```{figure} ../../figures/provenance.jpg
 ---
-height: 500px
 name: provenance
 alt: Provenance on which data in which version was underlying which computation is crucial for reproducibility.
 ---

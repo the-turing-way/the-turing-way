@@ -13,7 +13,6 @@ Continuous integration (CI) is the practice of integrating changes to a project 
 
 ```{figure} ../figures/continuous-integration-may19.jpg
 ---
-height: 500px
 name: continuous-integration-may19
 alt: A sketch showing how continuous integration helps developers plan, design, integrate code into a shared repository, and then observe the influence of any changes.
 ---

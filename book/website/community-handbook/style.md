@@ -49,7 +49,6 @@ Some of these abbreviations are:
 
 ```{figure} ../figures/latin-abbreviation.png
 ---
-height: 400px
 name: latin-abbreviation
 alt: an image with a list of 3 latin abbreviations
 ---

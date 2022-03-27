@@ -12,7 +12,6 @@ It is meaningful when paired with pathways through which these personas engage w
 
 ```{figure} ../figures/personas.png
 ---
-height: 400px
 name: personas
 alt: 4 people with diverse appearances are talking to each other, sharing ideas directly with each other and also sharing on social media.
 ---

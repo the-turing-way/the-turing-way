@@ -11,7 +11,6 @@ Meaning, rather than committing their entire working day, participants can choos
 
 ```{figure} ../figures/first-pull-request.png
 ---
-height: 400px
 name: book-dash
 alt: A person helping out another person making their first pull request on GitHub
 ---
