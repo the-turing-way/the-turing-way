@@ -1,7 +1,6 @@
 (glossary)=
 # Glossary
 
-
 ## A
 
 ```{glossary}
@@ -14,7 +13,6 @@ Acknowledgements
 
 Add
   Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit.
-
 
 Authors
   Authors in this context are the contributors to _The Turing Way_ project who have made a substantial contribution to the project such as writing a subchapter, facilitating community interactions, maintaining project’s infrastructure and supporting the participation of others through mentored-contributions. All authors are named co-authors on the book as a whole.
