@@ -97,7 +97,7 @@ Another advantage of using alt text is when an image cannot be loaded in a brows
 ```{figure} ../../figures/alt-text-demo.png
 ---
 name: alt-text-demo
-alt: A visual example of a web browser when it is not able to access an image.
+alt: This example shows when a wrong image path is used, the web browser can't access it and hence does not display correctly.
 ---
 ```
 
