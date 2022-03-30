@@ -54,7 +54,7 @@ That person can then use the image to generate a container containing a working 
 
 There are many tools available for creating and working with containers.
 We will focus on Docker, which is widely used, but be aware that others such as Singularity also exist.
-Singularity is sometimes preferred for use on high-performance computing systems as it does not need `sudo` permissions to be run, while up until April 2020 Docker did (please see the [Docker without root access](#docker-without-root-access) section)
+Singularity is sometimes preferred for use on high-performance computing systems as it does not need `sudo` permissions to be run, while up until April 2020 Docker did (please see the {ref}`rr-renv-containers-rootless` section).
 
 In Docker, the recipe files used to generate images are known as Dockerfiles, and should be named `Dockerfile`.
 
@@ -408,17 +408,17 @@ If, when deleting a container, a `-v` is included after `rm` in `sudo docker rm 
 
 Up until April 2020, the only way to run Docker was with root access. 
 "Rootless" mode was made available as part of the [v20.10](https://docs.docker.com/engine/security/rootless/) release.
- Rootless mode is currently only avaliable on Linux and requires an initial install of Docker >= v20.10. 
+Rootless mode is currently only avaliable on Linux and requires an initial install of Docker >= v20.10. 
  
- The underyling difference between Docker and rootless mode is that perviously any system running docker had a daemon running as `uid0` that creates and owns all images, but with rootless mode the user creates and owns any images that they initialize.
- To install and run the rootless version of Docker as a non-root user, use the following commands:
+The underyling difference between Docker without and with rootless mode is that perviously any system running Docker had a daemon running as `uid0` that creates and owns all images, but with rootless mode the user creates and owns any images that they initialize.
+To install and run the rootless version of Docker as a non-root user, use the following commands (where `20.10` refers to the installed version of Docker):
 
 ```
 dockerd-rootless-setuptool.sh install
 docker run -d --name dind-rootless --privileged docker:20.10-dind-rootless
 ```
 
-The following prequisites are required to run Docker rootless: `newuidmap` and `newgidmap`. 
+The following prequisites, which are part of the [`shadow-utils`](https://github.com/shadow-maint/shadow) package are required to run Docker rootless: `newuidmap` and `newgidmap`.
 
 (rr-renv-containers-singularity)=
 ## Singularity
