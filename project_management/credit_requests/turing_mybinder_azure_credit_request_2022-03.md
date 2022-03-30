@@ -6,7 +6,7 @@ Turing membership of the International Binder Federation
 
 ## Project PI
 
-Kirstie Whitaker
+Callum Mole; cmole@turing.ac.uk
 
 ## Existing Subscription
 
