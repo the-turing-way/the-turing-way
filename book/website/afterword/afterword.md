@@ -8,7 +8,7 @@ The community collaboration and development aspects of the book has been written
 ```{figure} ../figures/road-to-reproducibility.jpg
 ---
 name: road-to-reproducibility
-alt: Three hands holding magnifying glasses and varifying 'road to reproducibility' of The Turig Way.
+alt: Three hands holding magnifying glasses and verifying the 'road to reproducibility' of The Turing Way.
 ---
 Road to Reproducibility. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
