@@ -3114,6 +3114,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "abelsiqueira",
+      "name": "Abel Siqueira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1068752?v=4",
+      "profile": "http://abelsiqueira.github.io",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
