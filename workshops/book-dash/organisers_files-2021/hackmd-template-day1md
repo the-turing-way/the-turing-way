@@ -1,13 +1,13 @@
-# Book Dash, DD Month YYYY - Day X
+# Book Dash, DD Month YYYY - Day 1
 
-###### tags: `bookdash YYYY` `monh` `event`
+###### tags: `bookdash 2022` `month` `event`
 
 ==If you are new to HackMD, please see this short guide: [https://hackmd.io/@turingway/hackmd-guide](https://hackmd.io/@turingway/hackmd-guide)==
 
 :::info
-- **Location:** Online, 08-12 November 2021 <-- update
-- **Date:** 08 November 2021 <-- update
-- **Document with all links:** https://hackmd.io/@turingway/bookdash-nov2021-index <-- update
+- **Location:** Online 
+- **Date:** DD Month YYYY
+- **Document with all links:** https://hackmd.io/@turingway/bookdash-may2022-index
 :::
 
 **Development sessions**
@@ -18,7 +18,7 @@ Each day we will hold 3 development sessions and an one themed discussion/networ
 
 Each development session will follow the Pomodoro technique that we also use for our coworking calls. We will use [browser-based shared (cuckoo) clock](https://cuckoo.team/tw-bookdash) to manage our time ([Coworking chapter in The Turing Way](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-motivation.html))
 
-All time provided in London Time (UTC). Please use this link to convert in your time zone: convert time: https://arewemeetingyet.com/london/2021-11-**DD**/**hh:mm** (update DD: date, hh:mm: hours:minutes)
+All time provided in London Time (UTC). Please use this link to convert in your time zone: convert time: https://arewemeetingyet.com/london/2022-05-**DD**/**hh:mm** (update DD: date, hh:mm: hours:minutes)
 
 **Use the Pomodoro sessions for comfort breaks as needed**
 
@@ -36,7 +36,7 @@ All time provided in London Time (UTC). Please use this link to convert in your 
 
 > Feel free to move between the breakout rooms! 
 
-<!-- Updatee this
+<!-- Update this
 **Room 1**: **Data Sharing (sensitive data, metadata, etc.)**: 
 **Room 2**: **Ethics**: 
 **Room 3**: **Research infrastructure** (people, roles, support): 
@@ -46,7 +46,7 @@ All time provided in London Time (UTC). Please use this link to convert in your 
 **Room 7**: **Translation process**:
 -->
 
-:one: Day 1: DD Month YYYY
+:one: Day 1:
 ---
 
 ### :wave: Sign up
@@ -59,11 +59,15 @@ All time provided in London Time (UTC). Please use this link to convert in your 
 *
 *
 *
+*
+*
+*
+*
 
 ## :books: Turing Way and Book Dash
 
-* Intro to The Turing Way & the Book Dash: [Intro slides for you](https://docs.google.com/presentation/d/1uV3bK6CPaFS4x6YC2uXXHw7_rfzllqeyPPP7R-N0TyM/edit?usp=sharing) - [Zenodo link TBA]
-* Predash drop-in calls: https://hackmd.io/@turingway/bookdash-nov2021-onboarding
+* Intro to The Turing Way & the Book Dash: [Intro slides for you](Link) - [Zenodo link TBA]
+* Predash drop-in calls: https://hackmd.io/@turingway/bookdash-may2022-onboarding
 * Project repository on GitHub: https://github.com/alan-turing-institute/the-turing-way
 * Book is hosted online at: https://the-turing-way.netlify.com
 * Join Slack channel: an email will be sent to you
@@ -87,53 +91,16 @@ _Share your ideas for contributions and collaboration during the book dash_
 *
 *
 *
+*
+*
+*
+*
 
 ### Names are added as per your registration form
 
 * Check here if you not sure which session you planned to join (you can change sessions too!): https://hackmd.io/@turingway/bookdash-nov2021-index#Day-1-08-November-2021 <-- Update
 
-#### Development session (time block 3)
-
-| Time (ET)       |  Time (UTC)   |           Suggested agenda |
-| ----------------| --------------|---------------------------:|
-| 9:00 - 9:15 am  | 14:00 - 14:15 |        Kick-off, check-ins |
-| 9:15 - 10:05am  | 14:15 - 15:05 |   Onboarding and resource  |
-| 10:05 - 10:15am | 15:05 - 15:15 |           Quick report out |
-| 10:15 - 10:50am | 15:15 - 15:50 |   Second Pomodoro :tomato: |
-| 10:50 - 11:00am | 15:50 - 16:00 |           Quick report out |
-| 11:00 - 11:30am | 16:00 - 16:30 |Troubleshoot, mentored-work | 
-
-*Notes from Development session (time block 3)*
-
-#### Development session (time block 4)
-
-| Time (UTC)    |               Suggested agenda |
-| ------------- | ------------------------------:|
-| 17:00 - 17:15 | Kick-off, check-ins |
-| 17:15 - 18:05 | Onboarding and  resources |
-| 18:00 - 18:45 | Second Pomodoro :tomato: |
-| 18:45 - 18:55 | Quick report out |
-| 19:00 - 19:30 | Troubleshoot, mentored-work | 
-
-*Notes from Development session (time block 4)*
-
-**Notes**
-
-Name/Comment
-*
-*
-*
-*
-
-*Report Out*
-Name/Comment
-*
-*
-*
-*
-
-
-#### Development session (time block 1)
+#### Contribution Session (time block 1)
 
 | Time (UTC)    |               Suggested agenda |
 | ------------- | ------------------------------:|
@@ -155,8 +122,7 @@ Name/Comment
 *
 *
 
-*Report Out*
-
+**Insights and report out**
 Name/Comment
 *
 *
@@ -166,8 +132,6 @@ Name/Comment
 #### Themed Discussion and networking Session (time block 2)
 
 ==11:00 - 13:30: Themed Discussion and Networking==: [Theme]
-
-*Taking charge in a situation without a formal hierarchy in place is also called “emergent leadership.”* - [Source: Slack Blog](https://slack.com/intl/en-gb/blog/collaboration/emergent-leadership-team-trait)
 
 | Time (UTC)    |              Suggested agenda |
 | ------------- | -----------------------------:|
@@ -199,3 +163,45 @@ Name/Comment
 *
 *
 *
+
+#### Contribution Session (time block 3)
+
+| Time (ET)       |  Time (UTC)   |           Suggested agenda |
+| ----------------| --------------|---------------------------:|
+| 9:00 - 9:15 am  | 14:00 - 14:15 |        Kick-off, check-ins |
+| 9:15 - 10:05am  | 14:15 - 15:05 |   Onboarding and resource  |
+| 10:05 - 10:15am | 15:05 - 15:15 |           Quick report out |
+| 10:15 - 10:50am | 15:15 - 15:50 |   Second Pomodoro :tomato: |
+| 10:50 - 11:00am | 15:50 - 16:00 |           Quick report out |
+| 11:00 - 11:30am | 16:00 - 16:30 |Troubleshoot, mentored-work | 
+
+*Notes from Development session (time block 3)*
+
+#### Contribution Session (time block 4)
+
+| Time (UTC)    |               Suggested agenda |
+| ------------- | ------------------------------:|
+| 17:00 - 17:15 | Kick-off, check-ins |
+| 17:15 - 18:05 | Onboarding and  resources |
+| 18:00 - 18:45 | Second Pomodoro :tomato: |
+| 18:45 - 18:55 | Quick report out |
+| 19:00 - 19:30 | Troubleshoot, mentored-work | 
+
+*Notes from Development session (time block 4)*
+
+**Notes**
+
+Name/Comment
+*
+*
+*
+*
+
+
+**Insights and report out**
+Name/Comment
+*
+*
+*
+*
+
