@@ -990,10 +990,11 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 <!---Z
 ## Z--->
-\n(contributors-record-all)=
-\n# All Contributors\n
-\n✨Using [all-contributors](https://allcontributors.org/) specification, _The Turing Way_ recognises all contributors, not just the ones who push code. ✨
-\n(contributors-record-contributors)=
+(contributors-record-all)=
+# All Contributors
+✨Using [all-contributors](https://allcontributors.org/) specification, _The Turing Way_ recognises all contributors, not just the ones who push code. ✨
+
+(contributors-record-contributors)=
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
