@@ -26,7 +26,8 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 (cm-peer-review-summary)=
 ## Summary
 
-Peer review chapter coming soon.
+This chapter introduces the process of peer review of journal articles as a part of the more general process of peer review of each other's work and scientific collaboration. Its first part talks about different types and levels of peer review, depending on the type of scientific output. The second part of the chapter is specific to peer review of a manuscript and provides practical guidance for those who need to do a formal peer review for a journal.
+
 
 (cm-peer-review-motivation)=
 ## Motivation and Background
