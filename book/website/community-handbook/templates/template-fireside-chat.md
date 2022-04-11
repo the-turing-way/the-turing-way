@@ -1,5 +1,4 @@
-(ch-fireside-chat-template)=
-
+(ch-template-fireside-chat)=
 # Fireside Chat Template for Shared Note-taking
 
  Below we provide a template to enable shared note-taking during the event.
