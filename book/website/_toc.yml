@@ -615,6 +615,8 @@ parts:
         file: community-handbook/coworking/coworking-weekly
       - title: Organising coworking calls
         file: community-handbook/coworking/coworking-organisation
+    - title: Fireside Chat
+      file: community-handbook/fireside-chat
     - title: Template Collection
       file: community-handbook/templates
       sections:
@@ -634,6 +636,8 @@ parts:
         file: community-handbook/templates/template-coworking-weekly
       - title: Template for Drafting Newsletters
         file: community-handbook/templates/template-newsletter-draft
+      - title: Template for Fireside Chat Shared Notes
+        file: community-handbook/templates/template-fireside-chat
 
   # ===== Afterword ========================================
 
