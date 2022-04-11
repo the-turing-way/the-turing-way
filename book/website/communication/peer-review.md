@@ -13,14 +13,10 @@
 ```{figure} ../figures/peer-review-process.jpg
 ---
 name: Peer review
-alt: The reviewer wolf really wants to be friends with the pigs, but the pigs perceive the wolf as a threat.
-The pigs work amongst themselves (with their coauthors, colleagues, and office-mates) to improve their defenses against the world.
-However, it is not until the pigs open their work to input from the entire community (including the wolf!) that they can build sturdy house.
-Ultimately, the wolf and pigs work together to build a sturdy house that protects them all from the storm.
+alt: The reviewer wolf really wants to be friends with the pigs, but the pigs perceive the wolf as a threat. The pigs work amongst themselves (with their coauthors, colleagues, and office-mates) to improve their defenses against the world. However, it is not until the pigs open their work to input from the entire community (including the wolf!) that they can build sturdy house. Ultimately, the wolf and pigs work together to build a sturdy house that protects them all from the storm.
 ---
 Illustration about peer review.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
-
 ```
 
 (cm-peer-review-summary)=
