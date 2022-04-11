@@ -2,7 +2,7 @@
 # Book Dash Event Plans
 
 This subchapter provides information on the events that are organised for the book dash attendees.
-These events include a pre-event webinar for information, onboarding calls, GitHub introduction, development (coworking) sessions during the Book Dash and Community Share-Outs, which are explained below.
+These events include a pre-event webinar for information, onboarding calls, GitHub introduction, contribution sessions during the Book Dash and Community Share-Outs, which are explained below.
 
 _The Turing Way_ participation guidelines, [Code of Conduct](https://the-turing-way.netlify.app/community-handbook/coc.html) and [Contribution guideline](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) apply to all these events:
 
@@ -46,35 +46,34 @@ In the previous events, we have used the following materials:
 
 ## During the Book Dash
 
-### Development Sessions
+### Contribution Sessions
 
-On each day of Book Dash, we will hold three 2.5 hour-long development sessions, when hosting virtually each followed by a break or social event.
-When hosting an in-person Book Dash, four 75 minutes long development sessions will be facilitated, each separated by 15 minutes for report out followed by a break.
-Each development session will follow the Pomodoro technique that we also use for the {ref}`coworking calls<ch-coworking-motivation>` using the [browser-based shared (cuckoo) clock](https://cuckoo.team/tw-bookdash) to coordinate the time.
+On each day of Book Dash, we will hold three 2.5 hour-long contribution sessions when hosting virtually each followed by a break or social event.
+Each contribution session will follow the Pomodoro technique for coworking that we also use for the {ref}`coworking calls<ch-coworking-motivation>` using the [browser-based shared (cuckoo) clock](https://cuckoo.team/tw-bookdash) to coordinate the time.
 
 In the opening session of the first day, one of the planning committee members will provide an overview of _The Turing way_ project and the resources that are available for the participants for their book dash contributions.
 Attendees will be then allocated in small groups with their collaborators based on their SMART goals.
 The collaborating groups will work together to build a roadmap and plans for their contributions as chapters, subchapters or other types of content.
 Participants are also encouraged to come up with the main sections of their contributions and collect their thoughts in bullet points on a GitHub issue.
 
-The rest of the development sessions throughout the Book Dash will be facilitated in breakouts allowing members with similar ideas to collaborate.
+The rest of the contribution sessions throughout the Book Dash will be facilitated in breakouts allowing members with similar ideas to collaborate.
 Participants can also work in self-organised groups or individually on their contribution ideas with the support of mentors.
 This is also a chance for everyone to meet the participants and helpers informally, learn about each other and connect with specific members who plan to work on the related topic during the book dash.
 Participants will be supported to collaborate in small groups, organising their thoughts and ideas for contributions during or after the Book Dash.
-Each development session will end with participants sharing their work with others and identifying new collaborators based on the similarity of their interests.
+Each contribution session will end with participants sharing their work with others and identifying new collaborators based on the similarity of their interests.
 
 For participants who are unfamiliar with GitHub or would like a refresher (and did not manage to attend the GitHub introduction session), the planning committee members will guide them through the process of making their first pull request.
 
 ### Social Sessions
 
-There will also be themed social discussion or networking session where participants can interact with others, continue their discussions outside the development session or take a break as it's most sustainable and helpful for their participation.
+There will also be themed social discussion or networking session where participants can interact with others, continue their discussions outside the contribution session or take a break as it's most sustainable and helpful for their participation.
 For a virtual Book Dash, a support fund will be provided to cover the subsistence cost including paying for meals for the social sessions.
 If hosting an in-person event, the core team members will plan a dinner or social event to allow participants to relax after an intense discussion session and enjoy meals together in an informal setting.
 
 ### Reporting and Documentation
 
 At the end of each day, participants can gather all their contributions on _The Turing Way_ GitHub repository (issues, pull requests and notes) and add that in the shared notes.
-Specifically, during the last development session, they will be asked to add their details to the [contributors](https://github.com/alan-turing-institute/the-turing-way/tree/book-dash-chapter/contributors.md) file and provide anonymous feedback on a {ref}`Pluses and Delta<ch-template-bookdash-feedback>` notes.
+Specifically, during the last contribution session, they will be asked to add their details to the [contributors](https://github.com/alan-turing-institute/the-turing-way/tree/book-dash-chapter/contributors.md) file and provide anonymous feedback on a {ref}`Pluses and Delta<ch-template-bookdash-feedback>` notes.
 This will help the planning committee to collect notes for their final report and improve future events.
 
 ### Community Share-Outs & Contributor Celebration
