@@ -394,6 +394,9 @@ Persistent Identifier
 Pattern
   A pattern rule is a rule that contains exactly one % character in the target, which can be used to match a part of a filename.
 
+Peer Review
+  A process of evaluating one's work by others working in the same field.
+
 Persona
   A persona is the detail of an imaginary user or member, based on real-world observations and understandings of existing members or potential future members.
 
