@@ -82,6 +82,9 @@ While modern C++ and C are still mostly compatible, they're not completely and u
 - Fortran unit-tests:
   - funit
   - pfunit (works with MPI)
+- julia
+  - Test.jl (stdlib)
+  - ReTest.jl  
 
 ## Aim to have a good code coverage
 
