@@ -44,7 +44,7 @@ The schedule is decided based on the availability of individuals invited as spea
 - **Zoom**: We host Fireside events online using [Zoom](https://zoom.us/) (with live transcription), however, the platform for the participants can change based on the preference of the majority of speakers.
 - **Online promotion**: Announcements are shared on *The Turing Way* [Twitter](https://twitter.com/turingway), [Slack workspace](https://tinyurl.com/jointuringwayslack) and [monthly newsletters](https://tinyletter.com/TuringWay), which are then cross-posted by other communities in their network.
 - **Shared Documents**: We currently use Etherpad by Software Freedom Conservancy to enable shared note-taking during the event. See this for example - https://pad.sfconservancy.org/p/ttw-fireside-chat-mar2022. 
-    - **Template** is provided as a subchapter: {ref}`ch-fireside-chat-template`.
+    - **Template** is provided as a subchapter: {ref}`ch-template-fireside-chat`.
     - **Archived notes** are currently shared via HackMD: https://hackmd.io/@turingway/fireside-chats.
 - **Video Recording**: Video recordings with closed captioning are shared on *The Turing Way* YouTube channel in the [Fireside Chat video playlist](https://www.youtube.com/watch?v=nuNA3Qa8A-k&list=PLBxcQEfGu3DmBcSmt9GVfo4wN1KP1y2yl).
 
