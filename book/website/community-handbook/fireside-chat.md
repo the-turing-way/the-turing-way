@@ -74,4 +74,4 @@ The schedule is decided based on the availability of individuals invited as spea
 - **Speakers**: 3-4 speakers are invited from multiple communities to allow multiple perspectives to be shared. Speakers are invited several weeks before the event to contribute to the event at the planning phase by sharing questions they hope to discuss during the event.
 - **Open participation**: To enable open collaboration during the event, we facilitate open collaboration via Zoom chat and shared note-taking. Although the event is an informal discussion, we record the session upon speakers' permission. We do not run interactive sessions to avoid recording anyone who may not have consented to be recorded. Call hosts can plan to allocate part of the event for open discussions that should not be recorded.
  
-*The Turing Way* Code of Conduct applies to the Fireside Chat participants and all interactions taking place as a part of the event.
+*The Turing Way* {ref}`Code of Conduct<ch-coc>` applies to the Fireside Chat participants and all interactions taking place as a part of the event.
