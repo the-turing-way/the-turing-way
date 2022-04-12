@@ -17,11 +17,11 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 ## Background
 
-```{admonition} Definition and History
-*A fireside chat is a personal and interactive discussion involving a moderator and guest, allowing an audience to gain insights into the guest’s personal stories and thoughts on various topics.* - [What is a fireside chat? Vimeo. (2022)](https://vimeo.com/blog/post/what-is-a-fireside-chat)
+```{admonition} What is a fireside chat?
+A fireside chat is a personal and interactive discussion involving a moderator and guest, allowing an audience to gain insights into the guest’s personal stories and thoughts on various topics. - [Source: Vimeo. (2022)](https://vimeo.com/blog/post/what-is-a-fireside-chat)
 
-*The term was first used to describe a series of 30 evening radio addresses given by U.S. President Franklin D. Roosevelt between 1933 and 1944.
-Since then, the concept evolved from one-way addresses to two-way debates and was popularized by tech startup community events, [...] occasionally even replace solo keynotes.* - [Why and How to Organize Fireside Chats, Slido. (2018)](https://medium.com/@Slidoapp/why-and-how-to-organize-fireside-chats-at-your-event-74ee55e90334)
+The term was first used to describe a series of 30 evening radio addresses given by U.S. President Franklin D. Roosevelt between 1933 and 1944.
+Since then, the concept evolved from one-way addresses to two-way debates and was popularized by tech startup community events, [...] occasionally even replace solo keynotes. - [Why and How to Organize Fireside Chats, Slido. (2018)](https://medium.com/@Slidoapp/why-and-how-to-organize-fireside-chats-at-your-event-74ee55e90334)
 ```
 
 ### Fireside Chats in _The Turing Way_
@@ -37,7 +37,7 @@ With the Fireside Chat series, we aim to enable discussions that are of broader 
 
 ## Scope
 
-Fireside Chat series has so far hosted events online on topics of interest within *The Turing Way* community as well as members across other mission-aligned projects such as The Carpentries, Open Post Academics, Open Science Community in Saudi Arabia, Wikimedia and Talarify in South Africa and MetaDocencia.
+Fireside Chat series is hosted online on topics of interest within *The Turing Way* community as well as members across other mission-aligned projects such as Open Life Science, The Carpentries, Open Post Academics, Open Science Community in Saudi Arabia, Wikimedia and Talarify in South Africa and MetaDocencia.
 We will continue to collaborate with other communities working in participatory, open research and citizen space to organise future events on topics that they are working on.
 
 Although, *The Turing Way* hosts these calls in English, we encourage our collaborative projects to consider hosting a future event in their time zones, in their primary languages and on topics relevant to their local contexts.
