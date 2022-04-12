@@ -84,7 +84,7 @@ We are looking for proposals for future discussions on *building cross-community
 * The Turing Way GitHub repository: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
 * All about online Collaboration Cafes
 * Turing Way calendar: [https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ)
-* Contribution guidelines: [https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)
+* Contribution guidelines: [https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)
 * Join us on Slack: [https://tinyurl.com/jointuringwayslack](https://tinyurl.com/jointuringwayslack)
 * Join the mailing list: [https://tinyletter.com/TuringWay](https://tinyletter.com/TuringWay)
 
