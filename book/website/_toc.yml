@@ -533,8 +533,14 @@ parts:
     - title: Translating
       file: community-handbook/translation 
       sections:
-      - title: Translation Management System
+      - title: Translating Open Source with Localisation Platforms
         file: community-handbook/translation/localisation.md      
+      - title: Getting Started in Translate the TW
+        file: community-handbook/translation/getting-started.md 
+      - title: Hello Crowdin
+        file: community-handbook/translation/hello-crowdin.md 
+      - title: Translation of the Illustrations     
+        file: community-handbook/translation/illustrations.md 
       - title: Translation Workflow
         file: community-handbook/translation/workflow.md 
     - title: Monthly Newsletters
