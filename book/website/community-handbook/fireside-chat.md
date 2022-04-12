@@ -1,18 +1,38 @@
 (ch-fireside-chat)=
 # Fireside Chat Series
 
-*The Turing Way* Fireside Chat is a series of public seminar/webinar like events that feature experts, champions and their projects in reproducibility, open research, ethics, collaboration and opportunities in data science and research.
+*The Turing Way* Fireside Chat Series features public events with experts, champions and their projects in reproducibility, open research, ethics, collaboration and other opportunities in data science and research.
 
-*The Turing Way* team collaborates with different international communities to co-design and co-host Fireside informal discussions on topics of shared interests. 
-Speakers are invited from diverse backgrounds and perspectives to present their views, contextualise the topics in their areas of work and catalyse cross-community collaboration through knowledge sharing.
+*The Turing Way* team collaborates with different international communities to co-design and co-host Fireside Chat events that are online hosted informal discussions on topics of shared interests across research communities. 
+Speakers are invited from diverse backgrounds and perspectives to present their views, contextualise the topics in their areas of work and catalyse cross-community collaborations through knowledge sharing.
+
+```{figure} ../figures/fireside-chat.png
+---
+name: fireside-chat
+alt: People sitting around fire and talking to each other in an informal way.
+---
+Fireside Chat in The Turing Way.
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
 
 ## Background
 
-Different stakeholders in open research have a shared mission of making scientific knowledge freely available for public access. 
-However, most of these communities operate independently of other initiatives, either lacking the capacity to build meaningful collaboration or competing for limited resources. 
-This often results in scientific outputs that most users can find, but not access, or build upon in their local contexts.
+```{admonition} Definition and history
+*A fireside chat is a personal and interactive discussion involving a moderator and guest, allowing an audience to gain insights into the guest’s personal stories and thoughts on various topics.* - [What is a fireside chat? Vimeo. (2022)](https://vimeo.com/blog/post/what-is-a-fireside-chat)
 
-In *The Turing Way*, we believe that cross-community collaborations are crucial for exchanging resources and experiences that can contribute to individual progress as well as the overall sustainability of the open science ecosystem. (Sharan, M. (2021). Can we reimagine FAIR for building communities in open science? Zenodo. DOI: 10.5281/zenodo.5518163)
+*The term was first used to describe a series of 30 evening radio addresses given by U.S. President Franklin D. Roosevelt between 1933 and 1944.
+Since then, the concept evolved from one-way addresses to two-way debates and was popularized by tech startup community events, [...] occasionally even replace solo keynotes.* - [Why and How to Organize Fireside Chats, Slido. (2018)](https://medium.com/@Slidoapp/why-and-how-to-organize-fireside-chats-at-your-event-74ee55e90334)
+```
+
+### Fireside Chats in _The Turing Way_
+
+Through the Fireside Chat series in *The Turing Way*, we want to build an intentional space to gather, facilitate important conversations and establish cross-community collaborations.
+
+Different stakeholders in open research and grassroots communities have a shared mission of making scientific knowledge freely available for public access and for the benefit of society. 
+However, most of these communities operate independently of other initiatives, either lacking the capacity to build meaningful collaboration or competing for limited resources. 
+This often results in scientific outputs that most users can find, but not access, or build upon in their local contexts {cite}`Sharan2021reimagine`.
+
+Through collaboratively organised Fireside Chat discussions, we create dedicated opportunities are crucial for exchanging resources and experiences that can contribute to individual progress, research as well as the overall sustainability of the open science ecosystem. 
 With the Fireside Chat series, we aim to enable discussions that are of broader interest and can enable cross-community interactions and exchanges.
 
 ## Scope
