@@ -17,7 +17,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 ## Background
 
-```{admonition} Definition and history
+```{admonition} Definition and History
 *A fireside chat is a personal and interactive discussion involving a moderator and guest, allowing an audience to gain insights into the guest’s personal stories and thoughts on various topics.* - [What is a fireside chat? Vimeo. (2022)](https://vimeo.com/blog/post/what-is-a-fireside-chat)
 
 *The term was first used to describe a series of 30 evening radio addresses given by U.S. President Franklin D. Roosevelt between 1933 and 1944.
