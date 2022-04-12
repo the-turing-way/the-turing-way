@@ -376,7 +376,7 @@ parts:
       - title: Personal Stories - Large Collaborative Research Community
         file: communication/aa/aa-stories-community
       - title: Resources
-        file: communication/aa/resources
+        file: communication/aa/aa-resources
     - title: Peer Review
       file: communication/peer-review
       sections:
