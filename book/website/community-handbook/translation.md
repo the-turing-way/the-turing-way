@@ -38,4 +38,5 @@ You do not need to be fluent in English to contribute to the translations, you o
 
 The workflows for translation can become confusing at some times and many translation efforts go unfinished for many reasons.
 Our aim is to provide clear documentation so any potential contributor is able to participate. 
-Any new member of the community should be able to step in, enter in touch with other members of the translation teams for their languages, and start helping to use the documentation. **In the next few pages, you will learn how open source are translated uisng translation management system (TMS) and how you get started in translating _The Turing Way_ using Crowdin, a type of TMS.**
+
+In the next few pages, you will learn how open source projects are translated uisng translation management system (TMS) and how you can get started in translating _The Turing Way_ using [Crowdin](https://crowdin.com/), a type of TMS. Any new member of the community should be able to step in, enter in touch with other members of the translation teams for their languages, and start helping to use the documentation. 
