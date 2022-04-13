@@ -582,16 +582,16 @@ parts:
         file: community-handbook/acknowledgement/acknowledgement-record
       - title: Different Contributions and Acknowledgements
         file: community-handbook/acknowledgement/acknowledgement-examples
-    - title: Translating
+    - title: Translation
       file: community-handbook/translation 
       sections:
-      - title: Translating Open Source with Localisation Platforms
+      - title: Translation of Open Source Projects
         file: community-handbook/translation/localisation.md      
-      - title: Getting Started in Translate the TW
+      - title: Get Started Now!
         file: community-handbook/translation/getting-started.md 
-      - title: Hello Crowdin
+      - title: Demystifying Crowdin! 
         file: community-handbook/translation/hello-crowdin.md 
-      - title: Translation of the Illustrations     
+      - title: l10n of the Illustrations     
         file: community-handbook/translation/illustrations.md 
       - title: Translation Workflow
         file: community-handbook/translation/workflow.md 
