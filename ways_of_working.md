@@ -5,7 +5,7 @@ It further outlines expectations and responsibilities with regard to working on 
 
 ## Current Project Members
 
-| Name | Affliation | Full-Time Equivalent on the Project OR Community Roles | Time period allocated to the project | Previous roles |
+| Name | Affiliation | Full-Time Equivalent on the Project OR Community Roles | Time period allocated to the project | Previous roles |
 |---|---|---|---|---|
 | Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | PI, The Alan Turing Institute | - | Oct 2018 - Present | - |
 | Malvika Sharan <br>([@malvikasharan](https://github.com/malvikasharan)) | Co-lead investigator, The Alan Turing Institute | - | Jul 2021 - Present | Previously: Community manager, Jan 2020 - Jun 2021 (100%) |
@@ -25,7 +25,7 @@ It further outlines expectations and responsibilities with regard to working on 
 | Camila Rangel-Smith <br>([crangelsmith](https://github.com/crangelsmith)) | Senior Research Data Scientist, The Alan Turing Institute | The Turing Way Translation and Localisation Co-Lead | 2020 - Present | - |
 |  Batool Almarzouq <br>([BatoolMM](https://github.com/BatoolMM)) | Postdoctoral Researcher, KAIMRC and Honorary Research Fellow, The University of Liverpool  | The Turing Way Translation and Localisation Co-Lead | 2020 - Present | - |
 | Alejandro Coca Castro <br>([acocac](https://github.com/acocac)) | Postdoctoral Research Associate, The Alan Turing Institute | The Turing Way Translation and Localisation Co-Lead | 2021 - Present | - |
-| Andrea Sánchez-Tapia <br>([AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)) | [ADD] | The Turing Way Translation and Localisation Co-Lead | 2021 - Present | - |
+| Andrea Sánchez-Tapia <br>([AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)) | Independent researcher | The Turing Way Translation and Localisation Co-Lead | 2021 - Present | - |
 
 ## Previous Project Members
 
