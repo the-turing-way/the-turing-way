@@ -21,7 +21,7 @@ It further outlines expectations and responsibilities with regard to working on 
 | Carlos Martinez-Ortiz <br>([@c-martinez](https://github.com/c-martinez)) | RSE community manager, Netherlands eScience Center | in-kind contribution | Feb 2020 - Present | - |
 | Esther Plomp <br>([@EstherPlomp](https://github.com/EstherPlomp)) | Data Steward, Faculty of Applied Sciences at Delft University of Technology | in-kind contribution | Feb 2020 - Present | - |
 | Sarah Gibson <br>([@sgibson91](https://github.com/sgibson91)) | Open Source Infrastructure Engineer, 2i2c & JupyterHub Community Development | in-kind contribution | - | Prevously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
-| Callum Mole <br>([callummole](https://github.com/callummole)) | Research Software Engineer, The Alan Turing Institute | Turing Binder Federation Membership - Project Contact | 2021 - Present | - |
+| Callum Mole <br>([callummole](https://github.com/callummole)) | Research Data Scientist, The Alan Turing Institute | Turing Binder Federation Membership - Project Contact | 2021 - Present | - |
 | Camila Rangel-Smith <br>([crangelsmith](https://github.com/crangelsmith)) | Senior Research Data Scientist, The Alan Turing Institute | The Turing Way Translation and Localisation Co-Lead | 2020 - Present | - |
 |  Batool Almarzouq <br>([BatoolMM](https://github.com/BatoolMM)) | Postdoctoral Researcher, KAIMRC and Honorary Research Fellow, The University of Liverpool  | The Turing Way Translation and Localisation Co-Lead | 2020 - Present | - |
 | Alejandro Coca Castro <br>([acocac](https://github.com/acocac)) | Postdoctoral Research Associate, The Alan Turing Institute | The Turing Way Translation and Localisation Co-Lead | 2021 - Present | - |
@@ -34,8 +34,8 @@ You can request contact information through the project members above, or tag th
 
 | Name | Role | Full-Time Equivalent (or %) on the project | Time period allocated to the project |
 |---|---|---|---|
-| May Yong <br>([@myyong](https://github.com/myyong)) | Research Software Engineer | 40% | Oct 2021 - Jan 2022 |
-| Lydia France <br>([@LydiaFrance](https://github.com/LydiaFrance)) | Research Software Engineer | 50% | Oct 2021 - Jan 2022 |
+| May Yong <br>([@myyong](https://github.com/myyong)) | Senior Research Software Engineer | 40% | Oct 2021 - Jan 2022 |
+| Lydia France <br>([@LydiaFrance](https://github.com/LydiaFrance)) | Research Data Scientist | 50% | Oct 2021 - Jan 2022 |
 | Iain Stanson <br>([@Iain-S](https://github.com/Iain-S)) | Research Software Engineer | 30% | Nov 2021 - Jan 2022 |
 | Paul Owoicho <br>([@paulowoicho](https://github.com/paulowoicho)) | Google Season of Docs - Technical Writer | 100% | Sep 2020 - Dec 2020 |
 | Rachael Ainsworth <br>([@rainsworth](https://github.com/rainsworth)) | Research Associate | 100% | Apr 2019 - May 2019 |
