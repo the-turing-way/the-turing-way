@@ -5,8 +5,14 @@ To learn about how you can edit a newsletter draft, please read this chapter in 
 
 In this repository, we store the newsletter drafts in markdown format and we recommend using this excellent [Markdown to HTML](https://www.browserling.com/tools/markdown-to-html) tool to make it nice and easy to transfer the content to TinyLetter before publishing.
 
-## 2021
+## 2022
 
+| Month | Date | GitHub link | TinyLetter link |
+| ----- | ---- |----------- | --------------- |
+| March 2022 | 2022-03-21 | [_Mar2022](newsletter_21_Mar2022.md) | [Introducing the next Fireside Chat, Book Dash, Collaborative projects and Our Community Manager!](https://tinyletter.com/TuringWay/letters/introducing-the-next-fireside-chat-book-dash-collaborative-projects-and-our-community-manager) |
+| April 2022 | 2022-03-20 | [_Apr2022](newsletter_20_Apr2022.md) | [XXX](https://tinyletter.com/TuringWay/letters/introducing-the-next-fireside-chat-book-dash-collaborative-projects-and-our-community-manager) |
+
+## 2021
 
 | Month | Date | GitHub link | TinyLetter link |
 | ----- | ---- |----------- | --------------- |
@@ -45,4 +51,3 @@ In this repository, we store the newsletter drafts in markdown format and we rec
 | October 2020 | 2020-10-20 | [18_Oct2020](newsletter_18_Oct2020.md) | [Call for application for the Book Dash, plans for community share-out event and more updates about our fabulous community!](https://tinyletter.com/TuringWay/letters/call-for-application-for-the-book-dash-plans-for-community-share-out-event-and-more-updates-about-our-fabulous-community) |
 | November 2020 | 2020-11-30 | [19_Nov2020](newsletter_19_Nov2020.md) | [Meet our Book Dash attendees, read new chapters and join the holiday-themed Collaboration Café!](https://tinyletter.com/TuringWay/letters/meet-our-book-dash-attendees-read-new-chapters-and-join-the-holiday-themed-collaboration-caf) |
 | December 2020 | 2020-12-14 | [20_Dec2020](newsletter_20_Dec2020.md) | [Two year of The Turing Way project, highlights from our community and holiday wishes!](https://tinyletter.com/TuringWay/letters/two-years-of-the-turing-way-project-highlights-from-our-community-and-holiday-wishes) |
-
