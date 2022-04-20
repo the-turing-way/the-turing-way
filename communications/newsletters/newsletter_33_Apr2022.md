@@ -9,7 +9,7 @@ Anne, your [new Community Manager](https://twitter.com/aleesteele/status/1503400
 📚💨 **The next Book Dash is taking place from 16 to 20 May 2022.** [Apply by 21 April](https://forms.gle/9hyQQC5KCsRJC3Yv8) to attend virtually, and let us know if you're interested in hosting a local meet-up.
 📣 This month we've published new chapters, hosted workshops, and have many opportunities for collaboration to share with you. **Check out 'community news' and 'opportunities' for more!**
 🔥 Join us at our upcoming Fireside Chat on **"Making Virtual Conferencing the Global Default" on 29 April 2022 at 16:00 BST (15:00 UTC)**. Sign up on [Eventbrite](https://www.eventbrite.co.uk/e/318719758377/) and share with others.
-☕ **Collaboration Cafe is happening this week on 20 April at 16:00 BST (15:00 UTC)**. ([See details](https://https://hackmd.io/@turingway/collaboration-cafe))
+☕ The next **Collaboration Cafe is happening on 04 May at 16:00 BST (15:00 UTC)**. ([See details](https://https://hackmd.io/@turingway/collaboration-cafe))
 
 _Thank you to Malvika Sharan and Esther Plomp for reviewing drafts of this newsletter!_
 
@@ -47,11 +47,10 @@ Don't forget that Book Dashes usually end with a [Community Share Out and Contri
 
 ## Join us at Collaboration Cafe ☕
 
-**The next Collaboration Café will is TODAY on 20 April 2022 15:00 BST (UTC+1).**
-We will host a room on pre-applications discussions for the upcoming Book Dash.
+**The next Collaboration Café will happen on 4 May 2022 at 15:00 BST (UTC+1).**
 
-Please find details and sign up here: [hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
-You can also sign up to host one of the future Collaboration Cafés on 4 May and 18 May 2022. We hope to see you there!
+You can find the details and sign up here: [hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
+You can also sign up to host one of the future Collaboration Cafés on 18 May and 1 June 2022. We hope to see you there!
 
 ---
 
@@ -59,7 +58,7 @@ You can also sign up to host one of the future Collaboration Cafés on 4 May and
 
 ### Featured: UK's Goldacre review!
 
-![Alt:Screenshot of Goldacre report page and title](https://i.imgur.com/RFFH8iP.jpg)
+![Alt:Screenshot of Goldacre report page and title](images/2022-04-goldacre-review.png)
 _The Goldacre Review was published on 7 April 2022._
 
 We are thrilled and honoured that [_The Turing Way_ was recently featured in the Goldacre Review](https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis/better-broader-safer-using-health-data-for-research-and-analysis).
@@ -71,7 +70,7 @@ The study was commissioned by the Secretary of State for Health and Care in the 
 
 ### New chapter: Peer Review!
 
-![Alt:Screenshot of tweet by Lena](https://i.imgur.com/Lfr2AzN.png)
+![Alt:Screenshot of tweet by Lena](images/2022-04-lena-tweet.png)
 _Lena's tweet about the new chapter!_
 
 Lena Karvovskaya recently published a new chapter in the Turing Way on [Peer Review](https://the-turing-way.netlify.app/communication/peer-review/peer-review-overview.html)!
@@ -84,7 +83,7 @@ If you'd like to get involved with new and ongoing chapters, please get in touch
 
 ## Co-leads of _The Turing Way_ Translation and Localisation team!
 
-![Alt: Screenshot of Ways of Working Github page](https://i.imgur.com/hiEFGUx.jpg)
+![Alt: Screenshot of Ways of Working Github page](images/2022-04-translation-team.png)
 _The Ways of Working Github page provides details about the project members and contributors working (or previously worked) on The Turing Way._
 
 Camila Rangel-Smith, Batool Almarzouq, Alejandro Coca Castro, and Andrea Sánchez-Tapia have been added as joint Co-Leads of the new Translation and Localisation team.
@@ -94,7 +93,7 @@ You can read about transation and localisation process in [Pull Request #2202](h
 
 ### Translating _The Turing Way_
 
-![Alt:Screenshot of Github pull request](https://i.imgur.com/FLqNVpD.jpg)
+![Alt:Screenshot of Github pull request](images/2022-04-outreachy.png)
 _Batool's welcome message to the 2022 Contributors to the Outreachy program, organised through Open Science Community Saudi Arabia_
 
 Batool Almarzouq has also been working with Outreachy applicants, who will be working to translation chapters of _The Turing Way_ into Arabic.
@@ -106,7 +105,7 @@ Good luck to the applicants, we can't wait to see what you'll accomplish togethe
 
 ### AI-UK
 
-![Alt:Malvika and Kirstie giving online presentation at AI-UK conference](https://i.imgur.com/PUQWMl8.jpg)
+![Alt:Malvika and Kirstie giving online presentation at AI-UK conference](images/2022-04-ai-uk.png)
 _Discussing the Turing Way, and the benefit of community-led, open research practices at AI-UK._
 
 Kirstie Whitaker and Malvika Sharan, the co-leads of the project, spoke about the impact of _The Turing Way_ and reproducible research at [AI-UK](https://www.turing.ac.uk/ai-uk).
