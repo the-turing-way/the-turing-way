@@ -7,17 +7,17 @@ Hiya everyone!
 Anne, your [new Community Manager](https://twitter.com/aleesteele/status/1503400525110427650), here! It's my first time sending _The Turing Way_ newsletter... and I'm excited to share the many updates, upcoming events, and opportunities we have to share from our community.
 
 📚💨 **The next Book Dash is taking place from 16 to 20 May 2022.** [Apply by 21 April](https://forms.gle/9hyQQC5KCsRJC3Yv8) to attend virtually, and let us know if you're interested in hosting a local meet-up.
-📣 This month we've published new chapters, hosted workshops, and have many opportunities for collaboration to share with you. **Check out 'community news' and 'opportunities' for more!**
 🔥 Join us at our upcoming Fireside Chat on **"Making Virtual Conferencing the Global Default" on 29 April 2022 at 16:00 BST (15:00 UTC)**. Sign up on [Eventbrite](https://www.eventbrite.co.uk/e/318719758377/) and share with others.
-☕ **Collaboration Cafe is happening this week on 20 April at 16:00 BST (15:00 UTC)**. ([See details](https://https://hackmd.io/@turingway/collaboration-cafe))
+📣 This month we've published new chapters, hosted workshops, and have many opportunities for collaboration to share with you. **Check out 'community news' and 'opportunities' for more!**
+☕ **The next Collaboration Cafe is happening on 04 May at 15:00 BST (14:00 UTC)**. ([See details](https://https://hackmd.io/@turingway/collaboration-cafe))
 
 _Thank you to Malvika Sharan and Esther Plomp for reviewing drafts of this newsletter!_
 
 ---
 
-# Upcoming Events
+## Upcoming Events
 
-## Tune into our Fireside Chat 🔥
+### Tune into our Fireside Chat 🔥
 
 ![](https://i.imgur.com/CQFTKn8.jpg)
 
@@ -29,7 +29,7 @@ But as many events begin to move back to in-person events in the coming months a
 **Chaired by Anne Lee Steele, this panel will feature insights from Dorothea Hug Peter, Elio Campitelli, Lilly Winfree, Gilbert Beyamba, and Ben Krikler.** These individuaals represent different communities with expertise and insights from organising and participating in international conferences.  
 [Sign up on the Eventbrite](https://www.eventbrite.co.uk/e/fireside-chat-making-virtual-participation-a-global-default-tbc-tickets-318719758377).
 
-## Sign up for our Book Dash 📚💨
+### Send your applications to attend our Book Dash 📚💨
 
 **The 7th [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) event will take place online from 16 to 20 May 2022.** Submit your application via this [Google form](https://forms.gle/uEbu1FJMmdfgGwvW6).
 The Deadline for submission is 21 April 2022.
@@ -43,15 +43,20 @@ You can use the [template document](https://tinyurl.com/tw-bookdash-template) to
 If you'd like to work with someone on drafting your application, please join us at Collaboration Cafe.
 Don't hesitate to reach out – we're here to give you the support you need.
 
-Don't forget that Book Dashes usually end with a [Community Share Out and Contributor Celebrations Event](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-events.html#community-share-outs-contributor-celebration), which you can sign up for on [Eventbrite](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebrations-may-2022-tickets-323373307267).
+### Join us at Collaboration Cafe ☕
 
-## Join us at Collaboration Cafe ☕
-
-**The next Collaboration Café will is TODAY on 20 April 2022 15:00 BST (UTC+1).**
-We will host a room on pre-applications discussions for the upcoming Book Dash.
-
+**The next Collaboration Café will is on 04 May 2022 15:00 BST (UTC+1).**
 Please find details and sign up here: [hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
 You can also sign up to host one of the future Collaboration Cafés on 4 May and 18 May 2022. We hope to see you there!
+Due to Book Dash in the third week of May, we won't be hosting a Collaboration Café on that week.
+
+#### Community Share-Outs on 20 May
+
+On 20 May 2022, on the last day of Book Dash, we will host two [Community Share Out and Contributor Celebrations Events](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-events.html#community-share-outs-contributor-celebration)
+This is a public event for folks interested to learn about The Turing Way, seeing what recent updates have been made in the project and celebrating the incredible work of our contributors.
+You can sign up to attend one or both sessions on [Eventbrite](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebrations-may-2022-tickets-323373307267).
+Our Book Dash attendees will showcase their contributions to the book, share what they are working on and invite collaborations.
+We will also give an early preview of new set of illustrations as well as launch the new version of _The Turing Way_ book.
 
 ---
 
