@@ -1,5 +1,3 @@
-The Turing Way Newsletter: 20 April 2022
-
 # New chapters, sign up for book dash, the upcoming fireside chat, and (many) other community updates
 
 Hiya everyone!
@@ -11,7 +9,7 @@ Anne, your [new Community Manager](https://twitter.com/aleesteele/status/1503400
 🔥 Join us at our upcoming Fireside Chat on **"Making Virtual Conferencing the Global Default" on 29 April 2022 at 15:00** (UTC+1). Sign up on [Eventbrite](https://www.eventbrite.co.uk/e/318719758377/) and share on [Twitter](https://).
 ☕ **Collaboration Cafe is happening this week on 20 April at 15:00 London time** (UTC+1). (See the bottom of this update or this [HackMD](https://https://hackmd.io/@turingway/collaboration-cafe) for details)
 
-Thank you to Malvika Sharan for reviewing this draft!
+Thank you to Malvika Sharan and Esther Plomp for reviewing drafts of this newsletter!
 
 ---
 
@@ -21,13 +19,13 @@ Thank you to Malvika Sharan for reviewing this draft!
 
 ![](https://i.imgur.com/CQFTKn8.jpg)
 
-**On 29 April 2022, 15:00-16:30 UTC (in your timezone): the next fireside chat will take place on the topic: “Enabling Inclusive Conferencing in the 'Post-Pandemic Era'”.** Over the past 2 and a half years, the COVID-19 pandemic has brought about a reckoning with how scientific research is done across international borders – and how scientific conferencing is done in turn. Alongside the shift to “working from home”, conferences also moved online. But as many events begin to move back to in-person events in the coming months and years, this Fireside chat brings together diverse voices from different projects and communities to talk more about the role of conferences in scientific collaboration, and the trade-offs involved in this shift back to in-person conferences.
+**On 29 April 2022, 15:00-16:30 UTC ([in your timezone](https://arewemeetingyet.com/UTC/2022-04-29/15:00)): the next fireside chat will take place on the topic: “Enabling Inclusive Conferencing in the 'Post-Pandemic Era'”.** Over the past 2 and a half years, the COVID-19 pandemic has brought about a reckoning with how scientific research is done across international borders – and how scientific conferencing is done in turn. Alongside the shift to “working from home”, conferences also moved online. But as many events begin to move back to in-person events in the coming months and years, this Fireside chat brings together diverse voices from different projects and communities to talk more about the role of conferences in scientific collaboration, and the trade-offs involved in this shift back to in-person conferences.
 
 **Chaired by Anne Lee Steele, this panel will feature insights from Dorothea Hug Peter, Elio Campitelli, Lilly Winfree, Gilbert Beyamba, and Ben Krikler.** These researchers represent different communities with expertise and insights from working with and participating in conferences (read their bios below). We will also facilitate open discussions with attendees to learn about their perspectives on the topic via a shared document (links shared upon registration). [Sign up on the Eventbrite here.](https://www.eventbrite.co.uk/e/fireside-chat-making-virtual-participation-a-global-default-tbc-tickets-318719758377)
 
 ## Sign up for our Book Dash 📚💨
 
-**The 7th [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) event will take place online from 16 to 20 May 2022.** Submit your application via this Google form. The Deadline for submission is 21 April 2022.
+**The 7th [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) event will take place online from 16 to 20 May 2022.** Submit your application via this [Google form](https://forms.gle/uEbu1FJMmdfgGwvW6). The Deadline for submission is 21 April 2022.
 
 We invite applications from members of our community, including both new and existing contributors. Our attendees bring some understanding of where they can contribute and collaboratively improve The Turing Way as a whole. If participating in The Turing Way community for the first time, we encourage you to first participate in a Collaboration Café or other community events (see: below or bit.ly/turingway).
 
