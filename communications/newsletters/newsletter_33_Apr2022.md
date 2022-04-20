@@ -8,10 +8,10 @@ Anne, your [new Community Manager](https://twitter.com/aleesteele/status/1503400
 
 📚💨 **The next Book Dash is taking place from 16 to 20 May 2022.** [Apply by 21 April](https://forms.gle/9hyQQC5KCsRJC3Yv8) to attend virtually, and let us know if you're interested in hosting a local meet-up.
 📣 This month we've published new chapters, hosted workshops, and have many opportunities for collaboration to share with you. **Check out 'community news' and 'opportunities' for more!**
-🔥 Join us at our upcoming Fireside Chat on **"Making Virtual Conferencing the Global Default" on 29 April 2022 at 15:00** (UTC+1). Sign up on [Eventbrite](https://www.eventbrite.co.uk/e/318719758377/) and share with others.
-☕ **Collaboration Cafe is happening this week on 20 April at 15:00 London time** (UTC+1). (See the bottom of this update or this [HackMD](https://https://hackmd.io/@turingway/collaboration-cafe) for details)
+🔥 Join us at our upcoming Fireside Chat on **"Making Virtual Conferencing the Global Default" on 29 April 2022 at 16:00 BST (15:00 UTC)**. Sign up on [Eventbrite](https://www.eventbrite.co.uk/e/318719758377/) and share with others.
+☕ **Collaboration Cafe is happening this week on 20 April at 16:00 BST (15:00 UTC)**. ([See details](https://https://hackmd.io/@turingway/collaboration-cafe))
 
-Thank you to Malvika Sharan and Esther Plomp for reviewing drafts of this newsletter!
+_Thank you to Malvika Sharan and Esther Plomp for reviewing drafts of this newsletter!_
 
 ---
 
