@@ -52,7 +52,7 @@ You can also sign up to host one of the future Collaboration Cafés on 4 May and
 
 ![](https://i.imgur.com/RFFH8iP.jpg)
 
-We are thrilled and honoured that [The Turing Way was recently featured in the Goldacre Review](https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis/better-broader-safer-using-health-data-for-research-and-analysis). You can read the [full report online here](https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis/better-broader-safer-using-health-data-for-research-and-analysis), or [download the report here](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1067053/goldacre-review-using-health-data-for-research-and-analysis.pdf).
+We are thrilled and honoured that [The Turing Way was recently featured in the Goldacre Review](https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis/better-broader-safer-using-health-data-for-research-and-analysis). You can read the [full report online here](https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis/better-broader-safer-using-health-data-for-research-and-analysis), or [download the PDF here](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1067053/goldacre-review-using-health-data-for-research-and-analysis.pdf).
 
 Led by Dr. Ben Goldacre at the University of Oxford, the report explored how health data can be used efficiently and safely by researchers and for patients within the heathcare sector. The study was commissioned by the Secretary of State for Health and Care in the UK. [Learn more about the Goldacre Review here](https://www.goldacrereview.org/).
 
@@ -60,7 +60,7 @@ Led by Dr. Ben Goldacre at the University of Oxford, the report explored how hea
 
 ![](https://i.imgur.com/Lfr2AzN.png)
 
-Lena Karvovskaya ([@LangData](https://twitter.com/LangData/)), recently published a new chapter in the Turing Way on Peer Review! You can find [the new chapter in our Guide for Communication]((https://the-turing-way.netlify.app/communication/peer-review/peer-review-overview.html)).
+Lena Karvovskaya ([@LangData](https://twitter.com/LangData/)), recently published a new chapter in the Turing Way on [Peer Review](https://the-turing-way.netlify.app/communication/peer-review/peer-review-overview.html)! You can find [the new chapter in our Guide for Communication]((https://the-turing-way.netlify.app/communication/)).
 
 This new chapter includes helpful suggestions on what to do before accepting an invitation for peer review, and how to structure writing one. It also includes tips drawn from work by Rene Bekkers, called ["How to review a paper"](https://renebekkers.wordpress.com/2020/06/24/how-to-review-a-paper/). Thank you to Lena for writing, and to Vicky Hellon, Emma Karoune, and Achintya Rao for reviews!
 
@@ -146,14 +146,14 @@ Thanks for the shout-outs this month, reminding us that open research practices 
 
 ## Introduction to Data Science and AI Training: Review and Illustration Sprint
 
-Lydia France, Federico Nanni ([@f_nanni](https://twitter.com/f_nanni)) and Malvika ([@MalvikaSharan](https://twitter.com/MalvikaSharan)) are developing training materials for data science for biomedical researchers on GitHub (see an [early Tweet inviting case studies and examples](https://twitter.com/turingway/status/1491849730996981770?s=20&t=RENtZhQDQ2WWCclDxxhjlA))
-
-On 28 and 29 April 2022 (1.5 days), they are organising a review and illustration sprint for the [Introduction to Data Science for Biomedical Scientists: Turing-Crick Partnership](https://github.com/alan-turing-institute/data-training-for-bioscience).
+Lydia France, Federico Nanni ([@f_nanni](https://twitter.com/f_nanni)) and Malvika ([@MalvikaSharan](https://twitter.com/MalvikaSharan)) are developing training materials for data science for biomedical researchers on GitHub (see an [early Tweet inviting case studies and examples](https://twitter.com/turingway/status/1491849730996981770?s=20&t=RENtZhQDQ2WWCclDxxhjlA)). They are organising a review and illustration sprint for the [Introduction to Data Science for Biomedical Scientists: Turing-Crick Partnership](https://github.com/alan-turing-institute/data-training-for-bioscience).
+This project has led to the development of **two training modules** on data science and AI practices for senior researchers, group leaders, late PhD/Postdocs, and mid to late-career biomedical scientists.
+**Note: They encourage anyone with overlapping experience in biomedical research and computational best practices with some project management skills to join them at this event.**
 
 ⏰ Express your interest to attend this event before **21 April 2022** via [this Google form](https://forms.gle/fXPZ9yPzMkqMxrdQ8).
+🗓️ Program dates: Thursday, 28 and Friday, 29 April 2022 (1.5 days)
 
-This project has led to the development of **two training modules** on data science and AI practices for senior researchers, group leaders, late PhD/Postdocs, and mid to late-career biomedical scientists.
-They encourage anyone with overlapping experience in biomedical research and computational best practices with some project management skills to join them at this event.
+
 Participants can choose to attend from **five 2-hour long sessions for collaborative review** of these training materials.
 They will also work with a professional scribe from [Scriberia](https://www.scriberia.com/) to help develop accessible illustrations during the event.
 
