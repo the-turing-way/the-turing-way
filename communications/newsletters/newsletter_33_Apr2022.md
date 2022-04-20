@@ -153,8 +153,6 @@ Thanks for the shout-outs this month, reminding us that open research practices 
 
 Tech companies have been criticised for their surveillance practices, privacy breaches and monopolistic ambitions. Instead of inquiring as to how we could ‘fix’ Facebook this paper explores alternatives that could replace them. It presents the idea of platform socialism - the organisation of the digital economy through the social ownership of digital assets and democratic control over the infrastructure and systems that govern our digital lives. This framework facilitates holistic thinking about the systemic nature of the problems we face and the need for genuine alternatives. To develop the principles and institutional sketch of platform socialism, I draw inspiration from the writings of two early twentieth century writers: the libertarian socialist, G. D. H. Cole and the Austrian philosopher and economist Otto Neurath. I propose new forms of participatory and decentralised governance through an ecosystem of alternative ownership models of digital platforms. How would socially-owned and controlled apps operate in transport, food delivery and short-term accommodation? Drawing from historical examples and contemporary prototypes, platform socialism examines a variety of ways communities could reclaim ownership and control over digital platforms.
 
-
-
 ## Introduction to Data Science and AI Training: Review and Illustration Sprint
 
 Lydia France, Federico Nanni ([@f_nanni](https://twitter.com/f_nanni)) and Malvika ([@MalvikaSharan](https://twitter.com/MalvikaSharan)) are developing training materials for data science for biomedical researchers on GitHub (see an [early Tweet inviting case studies and examples](https://twitter.com/turingway/status/1491849730996981770?s=20&t=RENtZhQDQ2WWCclDxxhjlA)). They are organising a review and illustration sprint for the [Introduction to Data Science for Biomedical Scientists: Turing-Crick Partnership](https://github.com/alan-turing-institute/data-training-for-bioscience).
@@ -163,7 +161,6 @@ This project has led to the development of **two training modules** on data scie
 
 ⏰ Express your interest to attend this event before **21 April 2022** via [this Google form](https://forms.gle/fXPZ9yPzMkqMxrdQ8).
 🗓️ Program dates: Thursday, 28 and Friday, 29 April 2022 (1.5 days)
-
 
 Participants can choose to attend from **five 2-hour long sessions for collaborative review** of these training materials.
 They will also work with a professional scribe from [Scriberia](https://www.scriberia.com/) to help develop accessible illustrations during the event.
