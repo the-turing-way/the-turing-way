@@ -116,20 +116,20 @@ AI-UK is the UK's national showcase of artificial intelligence (AI) and data sci
 Many of our community members were at [Collaborations Workshop](https://software.ac.uk/cw22) this year, which took place from 4 April - 7 April.
 Hosted by the [Software Sustainability Institute](https://software.ac.uk/), #CollabW22 brought together an interdisciplinary group of people to explore best practices and the future of research software.
 
-![Alt:Ester Plomp at Collaborations Workshop](https://i.imgur.com/3mMIeYX.jpg)
+![Alt:Ester Plomp at Collaborations Workshop](images/2022-04-ep-cw22.png)
 _Thank you for supporting our community, Esther!_
 
 - Esther Plomp gave a lightning talk presentation called "The Turing Way: Reflection on the community-led development since 2019".
 You can view [the slide here](https://doi.org/10.6084/m9.figshare.19461026).
 
-![Alt:Panelists at Collaborations Workshop](https://i.imgur.com/Mb3sGDO.jpg)
+![Alt:Panelists at Collaborations Workshop](images/2022-04-ethics-cw22.png)
 _The panel discussed the implementations of ethics in research and software, and give practical guidance to workshop participants on how ethical considerations can strengthen the work they are doing._
 
 - Arielle Bennett joined a Panel on Ethics, chaired by Laura Carter.
 Both are authors and mentors of several chapters in our [Guide for Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethical-research.html?highlight=ethics).
 [Watch the recording here](https://www.youtube.com/watch?v=AfotGso8rDI)!
 
-![Alt:Screenshots of Slack posts and presentation titles](https://i.imgur.com/NYfMx7q.jpg)
+![Alt:Screenshots of Slack posts and presentation titles](images/2022-04-cw22-collage.png)
 _Congratulations to the participants and presenters at #CW22!_
 
 - Achintya Rao and his team members developed a [Carpentries-style](https://carpentries.org/) lesson on R's bug tracking process, that was awarded third place during the hack day.
@@ -144,7 +144,7 @@ Thank you to the organisers, and to Rachael Ainsworth for keeping us on schedule
 
 ### Interview with Malvika
 
-![Alt:Screenshot of online interview with Raniere and Malvika](https://i.imgur.com/frLHFvD.jpg)
+![Alt:Screenshot of online interview with Raniere and Malvika](images/2022-04-ms-interview.png)
 _Discussing the importance of open science and reproducibility in research._
 
 Malvika Sharan was recently interviewed by Raniere Silva for [Reproducible Research Scout](https://gitlab.com/reproducible-research-scout), a group dedicated to computational reproducibility and related topics.
@@ -152,7 +152,7 @@ Malvika Sharan was recently interviewed by Raniere Silva for [Reproducible Resea
 
 ### Community Research
 
-![Alt:Screenshot of miro board with virtual stickynotes](https://i.imgur.com/yxPzAxH.jpg)
+![Alt:Screenshot of miro board with virtual stickynotes](images/2022-04-research.png)
 _Brainstorming the role of tools and research infrastructure within The Turing Way_
 
 Over the past few weeks, Anne has been doing community research within _The Turing Way_, learning from contributors to the project at all stages.
@@ -162,7 +162,7 @@ Alternatively, you can also [schedule time in her calendly](https://calendly.com
 
 ### Research on Open Governance Models
 
-![Alt:Screenshot of Github pull request](https://i.imgur.com/F30aRgk.jpg)
+![Alt:Screenshot of Github pull request](images/2022-04-opengov.png)
 _Check out the Github issue to learn more about the research done so far on open governance models_
 
 Malvika and Anne are also co-leading an investigation into open research governance practices in the fifth cohort of [Open Life Science program](https://openlifesci.org/) (OLS-5).
@@ -171,7 +171,7 @@ We would love to involve members of our community in this research as well as , 
 
 ## Tweets & mentions
 
-![Alt: Screenshot of tweets](https://i.imgur.com/lBK7RAZ.jpg)
+![Alt: Screenshot of tweets](images/2022-04-tweet-collage.png)
 _Thanks for the shout-outs this month, reminding us that open research practices begin with the community of people that contribute to them!_
 
 1. Tweet by Sarah Villa: https://twitter.com/VillaScience/status/1513886661708505102
