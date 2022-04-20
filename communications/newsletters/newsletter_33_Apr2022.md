@@ -29,7 +29,7 @@ Thank you to Malvika Sharan and Esther Plomp for reviewing drafts of this newsle
 
 We invite applications from members of our community, including both new and existing contributors. Our attendees bring some understanding of where they can contribute and collaboratively improve The Turing Way as a whole. If participating in The Turing Way community for the first time, we encourage you to first participate in a Collaboration Café or other community events (see: below or bit.ly/turingway).
 
-This application will likely take 30 minutes to complete. You can use this template document with all the questions to prepare your draft in your time: https://tinyurl.com/tw-bookdash-template.
+This application will likely take 30 minutes to complete. You can use this template document with all the questions to prepare your draft in your time.: https://tinyurl.com/tw-bookdash-template.
 
 While we won't be extending the deadline, please reach out to Anne at asteele@turing.ac.uk if you think you'll need need more time to complete the application. If you'd like to work with someone on drafting your application, please join us at Collaboration Cafe. Don't hesitate to reach out – we're here to give you the support you need.
 
@@ -143,6 +143,17 @@ Thanks for the shout-outs this month, reminding us that open research practices 
 ---
 
 # Opportunities in the Turing Orbit
+
+## Upcoming event: Tools, Practices & Systems Programme Seminar
+
+⏰ Registration link: https://turing-uk.zoom.us/meeting/register/tJMtc-qtpzsqE9DB9M9x4_kpcnYN_e-bJP3d
+🗓️ Wednesday 27 April 2022 | 12:30 - 14:00
+
+**Join the Turing's Tools, Practices & Systems programme at their monthly seminar. This month, they'll be welcoming James Muldoon (author of Platform Socialism - Social Ownership in the Digital Economy).**
+
+Tech companies have been criticised for their surveillance practices, privacy breaches and monopolistic ambitions. Instead of inquiring as to how we could ‘fix’ Facebook this paper explores alternatives that could replace them. It presents the idea of platform socialism - the organisation of the digital economy through the social ownership of digital assets and democratic control over the infrastructure and systems that govern our digital lives. This framework facilitates holistic thinking about the systemic nature of the problems we face and the need for genuine alternatives. To develop the principles and institutional sketch of platform socialism, I draw inspiration from the writings of two early twentieth century writers: the libertarian socialist, G. D. H. Cole and the Austrian philosopher and economist Otto Neurath. I propose new forms of participatory and decentralised governance through an ecosystem of alternative ownership models of digital platforms. How would socially-owned and controlled apps operate in transport, food delivery and short-term accommodation? Drawing from historical examples and contemporary prototypes, platform socialism examines a variety of ways communities could reclaim ownership and control over digital platforms.
+
+
 
 ## Introduction to Data Science and AI Training: Review and Illustration Sprint
 
