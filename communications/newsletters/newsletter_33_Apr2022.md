@@ -29,7 +29,7 @@ Thank you to Malvika Sharan and Esther Plomp for reviewing drafts of this newsle
 
 We invite applications from members of our community, including both new and existing contributors. Our attendees bring some understanding of where they can contribute and collaboratively improve The Turing Way as a whole. If participating in The Turing Way community for the first time, we encourage you to first participate in a Collaboration Café or other community events (see: below or bit.ly/turingway).
 
-This application will likely take 30 minutes to complete. You can use this template document with all the questions to prepare your draft in your time.: https://tinyurl.com/tw-bookdash-template.
+This application will likely take 30 minutes to complete. You can use this template document with all the questions to prepare your draft in your time: https://tinyurl.com/tw-bookdash-template.
 
 While we won't be extending the deadline, please reach out to Anne at asteele@turing.ac.uk if you think you'll need need more time to complete the application. If you'd like to work with someone on drafting your application, please join us at Collaboration Cafe. Don't hesitate to reach out – we're here to give you the support you need.
 
