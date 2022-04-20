@@ -9,8 +9,9 @@ In this repository, we store the newsletter drafts in markdown format and we rec
 
 | Month | Date | GitHub link | TinyLetter link |
 | ----- | ---- |----------- | --------------- |
-| March 2022 | 2022-03-21 | [_Mar2022](newsletter_21_Mar2022.md) | [Introducing the next Fireside Chat, Book Dash, Collaborative projects and Our Community Manager!](https://tinyletter.com/TuringWay/letters/introducing-the-next-fireside-chat-book-dash-collaborative-projects-and-our-community-manager) |
-| April 2022 | 2022-03-20 | [_Apr2022](newsletter_20_Apr2022.md) | [XXX](https://tinyletter.com/TuringWay/letters/introducing-the-next-fireside-chat-book-dash-collaborative-projects-and-our-community-manager) |
+| February 2022 | 2022-02-03 | [31_Jan2022](newsletter_31_Jan2022.md) | [January Round-Up, next Fireside Chat and other updates from The Turing Way](https://tinyletter.com/TuringWay/letters/january-round-up-next-fireside-chat-and-other-updates-from-the-turing-way) |
+| March 2022 | 2022-03-21 | [32_Mar2022](newsletter_32_Mar2022.md) | [Introducing the next Fireside Chat, Book Dash, Collaborative projects and Our Community Manager!](https://tinyletter.com/TuringWay/letters/introducing-the-next-fireside-chat-book-dash-collaborative-projects-and-our-community-manager) |
+| April 2022 | 2022-03-20 | [33_Apr2022](newsletter_33_Apr2022.md) | [XXX](https://tinyletter.com/TuringWay/letters/introducing-the-next-fireside-chat-book-dash-collaborative-projects-and-our-community-manager) |
 
 ## 2021
 
