@@ -33,7 +33,7 @@ But as many events begin to move back to in-person events in the coming months a
 
 **The 7th [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) event will take place online from 16 to 20 May 2022.** Submit your application via this [Google form](https://forms.gle/uEbu1FJMmdfgGwvW6).
 The deadline for submission is 21 April 2022.
-Please reach email me at [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk) if you think you'll need need more time to complete the application.
+Please email me at [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk) if you think you'll need need more time to complete the application.
 
 We invite applications from members of our community, including both new and existing contributors. Our attendees bring some understanding of where they can contribute and collaboratively improve _The Turing Way_ as a whole.
 If participating in _The Turing Way_ community for the first time, we encourage you to first participate in a Collaboration Café or other community events shared in this newsletter (also see: [bit.ly/turingway](http://bit.ly/turingway)).
