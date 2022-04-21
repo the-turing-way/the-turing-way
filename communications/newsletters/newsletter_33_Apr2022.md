@@ -26,10 +26,18 @@ Over the past 2 and a half years, the COVID-19 pandemic has brought about a reck
 Alongside the shift to “working from home”, conferences also moved online.
 But as many events begin to move back to in-person events in the coming months and years, this Fireside Chat brings together diverse voices from different projects and communities to talk more about the role of conferences in scientific collaboration, and the trade-offs involved in this shift back to in-person conferences.
 
-**Chaired by Anne Lee Steele, this panel will feature insights from Dorothea Hug Peter, Elio Campitelli, Lilly Winfree, Gilbert Beyamba, and Ben Krikler.** These individuals represent different communities with expertise and insights from organising and participating in international conferences.  
+**Chaired by Anne Lee Steele and Lilly Winfree (Frictionless Data), this panel will feature insights from Dorothea Hug Peter (UseR), Elio Campitelli (MetaDocencia), Gilbert Beyamba (Pollicy), and Ben Krikler (RemotelyGreen).**
+These individuals represent different communities with expertise and insights from organising and participating in international conferences.  
 [Sign up on the Eventbrite](https://www.eventbrite.co.uk/e/fireside-chat-making-virtual-participation-a-global-default-tbc-tickets-318719758377).
 
-## Sign up for our Book Dash 📚💨
+## Join us at Collaboration Cafe ☕
+
+**The next Collaboration Café is on 4 May 2022 at 15:00 BST (UTC+1).**
+You can find the details and sign up here: [hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
+You can also sign up to host one of the future Collaboration Cafés on 18 May and 1 June 2022.
+We hope to see you there!
+
+## Applications to attend our Book Dash 📚💨
 
 **The 7th [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) event will take place online from 16 to 20 May 2022.** Submit your application via this [Google form](https://forms.gle/uEbu1FJMmdfgGwvW6).
 The deadline for submission is 21 April 2022.
@@ -40,15 +48,23 @@ If participating in _The Turing Way_ community for the first time, we encourage 
 
 This application will take 20-30 minutes to complete.
 You can use the [template document](https://tinyurl.com/tw-bookdash-template) to prepare your draft.
-If you'd like to work with someone on drafting your application, please join us at Collaboration Cafe.
-Don't hesitate to reach out – we're here to give you the support you need.
+**Don't hesitate to reach out if extra time might be needed to draft your application** – we're here to give you the support you need.
 
+<<<<<<< HEAD
 ## Join us at Collaboration Cafe ☕
 
 **The next Collaboration Café will happen on 4 May 2022 at 15:00 BST (UTC+1).**
 
 You can find the details and sign up here: [hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
 You can also sign up to host one of the future Collaboration Cafés on 18 May and 1 June 2022. We hope to see you there!
+=======
+### Community Share-Outs on 20 May
+
+On 20 May 2022, the last day of Book Dash, we will host two [Community Share Out and Contributor Celebrations Events](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-events.html#community-share-outs-contributor-celebration)
+This is a public event for folks interested to learn about The Turing Way, seeing what recent updates have been made in the project and celebrating the incredible work of our contributors.
+We will also release the new version of _The Turing Way_ book and give an early preview of a new set of illustrations developed during the Book Dash.
+You are invited to attend one or both sessions, please sign up on [Eventbrite](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebrations-may-2022-tickets-323373307267).
+>>>>>>> aabbe6ca1d660f4e97c715a14c9348aebdb21893
 
 ## Community Share-Outs on 20 May
 
@@ -66,6 +82,7 @@ You are invited to attend one or both sessions, please sign up on [Eventbrite](h
 _The Goldacre Review was published on 7 April 2022._
 
 We are thrilled and honoured that [_The Turing Way_ was recently featured in the Goldacre Review](https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis/better-broader-safer-using-health-data-for-research-and-analysis).
+_The Turing Way_ was highlighted in the context of addressing *a range of specific challenges around open working, the limits of open code, and the strong positive relationship between open working methods and innovative commercial activity in health data science*.
 You can read the [full report online](https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis/better-broader-safer-using-health-data-for-research-and-analysis).
 
 Led by Dr. Ben Goldacre at the University of Oxford, the report explored how health data can be used efficiently and safely by researchers and for patients within the heathcare sector.
@@ -141,7 +158,11 @@ Both are authors and mentors of several chapters in our [Guide for Ethical Resea
 _Congratulations to the participants and presenters at #CW22!_
 
 - Achintya Rao and his team members developed a [Carpentries-style](https://carpentries.org/) lesson on R's bug tracking process, that was awarded third place during the hack day.
+<<<<<<< HEAD
 - Malvika Sharan and her team members developed the project idea, "Hi-Brid! Leaving no one behind in hybrid working!" that won second place during the Collaborative Idea's session.
+=======
+- Malvika Sharan and her team members developed a collaborative project idea, "Hi-Brid! Leaving no one behind in hybrid working!" that won second place during the Collaborative Idea's session.
+>>>>>>> aabbe6ca1d660f4e97c715a14c9348aebdb21893
 - Jez Cope, Stephan Druskat, and Anne Lee Steele were awarded third place for their idea of creating a "Interdisciplinary Glossary of Glossaries".
 
 Many Turing Way core team members also gave talks and workshops about various projects: including Sarah Gibson, Emma Karoune and Vicky Hellon.
@@ -175,7 +196,7 @@ _Check out the Github issue to learn more about the research done so far on open
 
 Malvika and Anne are also co-leading an investigation into open research governance practices in the fifth cohort of [Open Life Science program](https://openlifesci.org/) (OLS-5).
 This research will inform the next stage of mature governance structure in _The Turing Way_.
-We would love to involve members of our community in this research as well as those within open research more broadly. Please comment on [Pull Request #31 on OLS-5 Github](https://github.com/open-life-science/ols-5/issues/31) or reach out to us on Slack directly if you're interested in getting involved.
+We would love to involve members of our community in this research, please comment on [Pull Request #31 on OLS-5 Github](https://github.com/open-life-science/ols-5/issues/31) or reach out to us on Slack directly.
 
 ## Tweets & mentions
 
