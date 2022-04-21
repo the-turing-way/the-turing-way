@@ -62,11 +62,12 @@ On 20 May 2022, the last day of Book Dash, we will host two [Community Share Out
 This is a public event for folks interested in learning more about The Turing Way, seeing what recent updates have been made in the project and celebrating the incredible work of our contributors.
 We will also release the new version of _The Turing Way_ book and give an early preview of a new set of illustrations developed during the Book Dash.
 You are invited to attend one or both sessions, please sign up on [Eventbrite](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebrations-may-2022-tickets-323373307267).
+
 ---
 
-## Community News
+# Community News
 
-### Featured: UK's Goldacre review!
+## Featured: UK's Goldacre review!
 
 ![Alt:Screenshot of Goldacre report page and title](images/2022-04-goldacre-review.png)
 _The Goldacre Review was published on 7 April 2022._
@@ -79,7 +80,7 @@ Led by Dr Ben Goldacre at the University of Oxford, the report explored how heal
 The study was commissioned by the Secretary of State for Health and Care in the UK.
 [Learn more about the Goldacre Review](https://www.goldacrereview.org/).
 
-### New chapter: Peer Review!
+## New chapter: Peer Review!
 
 ![Alt:Screenshot of tweet by Lena](images/2022-04-lena-tweet.png)
 _Lena's tweet about the new chapter!_
@@ -102,7 +103,7 @@ You can see their updated information on our [Ways of Working page](https://gith
 We hope that this formalisation will enable greater recognition of the incredible work they are doing within _The Turing Way_ and more widely across the communities they lead.
 You can read about the translation and localisation process in [Pull Request #2202](https://github.com/alan-turing-institute/the-turing-way/pull/2202).
 
-### Translating _The Turing Way_
+## Translating _The Turing Way_
 
 ![Alt:Screenshot of Github pull request](images/2022-04-outreachy.png)
 _Batool's welcome message to the 2022 Contributors to the Outreachy program, organised through Open Science Community Saudi Arabia_
@@ -161,7 +162,7 @@ _Discussing the importance of open science and reproducibility in research._
 Malvika Sharan was recently interviewed by Raniere Silva for [Reproducible Research Scout](https://gitlab.com/reproducible-research-scout), a group dedicated to computational reproducibility and related topics.
 [Watch the recording here](https://www.youtube.com/watch?v=GMwRyAwnlEk)!
 
-### Community Research
+## Community Research
 
 ![Alt:Screenshot of miro board with virtual stickynotes](images/2022-04-research.png)
 _Brainstorming the role of tools and research infrastructure within The Turing Way_
@@ -171,7 +172,7 @@ She posts [weekly updates on Friday on this Github Issue](https://github.com/ala
 If you'd like to get involved in the process or talk to her more about it, reach out to her directly on Slack or by [email](mailto:asteele@turing.ac.uk).
 Alternatively, you can also [schedule time in her calendly](https://calendly.com/aleesteele/).
 
-### Research on Open Governance Models
+## Research on Open Governance Models
 
 ![Alt:Screenshot of Github pull request](images/2022-04-opengov.png)
 _Check out the Github issue to learn more about the research done so far on open governance models_
@@ -194,11 +195,6 @@ _Thanks for the shout-outs this month, reminding us that open research practices
 
 ---
 
-## Upcoming event
-Join us next Wednesday (27th of April at 8:30 pm Riyadh time) in "The Practice of Digital Infrastructure" to celebrate the first cohort as we share out our research from the past six months. During the cohort, we launched a survey in which many of you filled in and interviewed leaders for the open projects in Arabic-speaking countries. We are happy to share our findings with all of you next Wednesday!
-
----
-
 ## Opportunities in the Turing Orbit
 
 ### Introduction to Data Science and AI Training: Review and Illustration Sprint
@@ -216,7 +212,7 @@ They will also work with a professional scribe from [Scriberia](https://www.scri
 ### Upcoming event: Tools, Practices & Systems Programme Seminar
 
 ⏰ Registration link: https://turing-uk.zoom.us/meeting/register/tJMtc-qtpzsqE9DB9M9x4_kpcnYN_e-bJP3d
-🗓️ Wednesday 27 April 2022 | 12:30 - 14:00
+🗓️ Wednesday 27 April 2022 | 12:30 - 14:00 BST (UTC+1)
 
 **Join the Turing's Tools, Practices & Systems programme at their monthly seminar. This month, they'll be welcoming James Muldoon (author of Platform Socialism - Social Ownership in the Digital Economy).**
 
@@ -228,17 +224,25 @@ To develop the principles and institutional sketch of platform socialism, I draw
 I propose new forms of participatory and decentralised governance through an ecosystem of alternative ownership models of digital platforms.
 How would socially-owned and controlled apps operate in transport, food delivery and short-term accommodation? Drawing from historical examples and contemporary prototypes, platform socialism examines a variety of ways communities could reclaim ownership and control over digital platforms.
 
-### TPS Peer-Mentorship & Training Programme
+### Upcoming event: "The Practice of Digital Infrastructure"
 
-The Turing Skills Team at the Alan Turing Institute is collaborating with the Tools, Practices, and Systems (TPS) Research Programme to launch applications for the **TPS Peer Mentorship & Training Programme** this summer!
-The aim is to promote and incorporate the principles of _The Turing Way_ across our community to nurture open research design, collaboration, and community-driven interactions.
-**Note: Applicants for this pilot should be affiliated with the Turing.**
+![Alt:Code for Science & Society event](images/2022-04-css.png)
 
-⏰ Applications due by Sunday, 22 May 2022  
-🗓️ Programme dates: Wednesday, 1 June – Wednesday, 27 July 2022
-📌 Pre-Application Webinar and Drop-in session: Thursday, 28 April 2022 @ 12:30, https://turing-uk.zoom.us/j/97248428609?pwd=S1NuOVhQRFg0RU91ODVlckgxZU9PUT09, Meeting ID: 972 4842 8609, Passcode: 789019
-For more information about the application process, [please visit the event page](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=61990&eventID=188).
-Reach out with questions or interest to training@turing.ac.uk
+Join a celebration of the first cohort of the digital [infrastructure incubator at Code for Science & Society](https://incubator.codeforscience.org/) as they share out learnings from the past six months.
+Teams open their project notebooks to discuss approaches to governance, community engagement, and the practice of building cultural infrastructure.
+After lightning talks by project leads, we turn to the audience to further discuss the practices of building sustainably.
+
+🗓️ Wednesday 27 April | 18:30 - 20:00 BST (UTC+1)
+📌 Sign up on Eventbrite: https://www.eventbrite.com/e/the-practice-of-digital-infrastructure-tickets-275365083377
+
+### Training series: Reproducibility Bootcamp at NCRM
+
+This training series, provided by the UK Data Service, walks you through how to: make your research ready for open science, apply reproducibility to social science and other “tricky” topics, and collaborate, document and share research in diverse contexts. Each week of activity in this bootcamp will comprise a range of components, some synchronous (e.g. workshop sessions led by the instructors and delivered over Zoom) and some asynchronous (e.g. video-recorded talks, contributing to discussion boards, completing work independently/in small groups, etc).
+
+⏰ Live calls: every Tuesday 09:45 - 12:00 BST (UTC+1)
+🗓️ Applications due by Sunday, 24 April 2022
+
+📌 For more information about the program and how to book, visit: [ncrm.ac.uk](https://www.ncrm.ac.uk/training/show.php?article=11856)
 
 ### Data Science and AI Educators' Programme
 
@@ -250,6 +254,25 @@ Applications are now open for **The Data Science and AI Educators' Programme** a
 
 📌 Full details, including how to apply, can be found on our [application page](https://www.turing.ac.uk/data-science-and-ai-educators-programme).
 Please feel free to share with anyone in your network who may be interested or get in touch with the team via skills@turing.ac.uk.
+
+### Research Software Camp: Next steps in coding
+
+Are you thinking of attending a foundational research software course? Have you recently attended one but don’t know where to go from there? Are you an intermediate research software developer and would like to further develop your skills or train others? The Software Sustainability Institute's spring Research Software Camp: Next steps in coding will focus on improving computational and training skills and exploring existing resources out there. The Camp will be held from 16th to 27th May 2022.
+
+🗓️ Programme dates: Monday, 16 May to Friday, 27 May 2022
+📌 For more information on how to sign up, visit: https://www.software.ac.uk/RSCamp-next-steps-coding
+
+### TPS Peer-Mentorship & Training Programme
+
+The Turing Skills Team at the Alan Turing Institute is collaborating with the Tools, Practices, and Systems (TPS) Research Programme to launch applications for the **TPS Peer Mentorship & Training Programme** this summer!
+The aim is to promote and incorporate the principles of _The Turing Way_ across our community to nurture open research design, collaboration, and community-driven interactions.
+**Note: Applicants for this pilot should be affiliated with the Turing.**
+
+⏰ Applications due by Sunday, 22 May 2022  
+🗓️ Programme dates: Wednesday, 1 June – Wednesday, 27 July 2022
+📌 Pre-Application Webinar and Drop-in session: Thursday, 28 April 2022 @ 12:30 BST (UTC+1), https://turing-uk.zoom.us/j/97248428609?pwd=S1NuOVhQRFg0RU91ODVlckgxZU9PUT09, Meeting ID: 972 4842 8609, Passcode: 789019
+For more information about the application process, [please visit the event page](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=61990&eventID=188).
+Reach out with questions or interest to training@turing.ac.uk
 
 -----
 
@@ -266,7 +289,7 @@ If you are interested in joining our community, or learning more about the proje
 *   [YouTube Channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
 *   [Twitter Page](https://twitter.com/turingway)
 
-If you'd like to contribute to the next newsletter, please email Anne Lee Steele at asteele@turing.ac.uk! Feel free to send me a message on Slack, or [book some time in on my calendly](calendly.com/aleesteele/) to say hello.
+If you'd like to contribute events or opportunities to the next newsletter, please email me at asteele@turing.ac.uk. Feel free to send me a message on Slack, or [book some time in on my calendly](calendly.com/aleesteele/) to say hello.
 
 We'll also be experimenting with new sections and formats for the newsletter in the coming months... stay tuned for those!
 
