@@ -67,6 +67,7 @@ You are invited to attend one or both sessions, please sign up on [Eventbrite](h
 _The Goldacre Review was published on 7 April 2022._
 
 We are thrilled and honoured that [_The Turing Way_ was recently featured in the Goldacre Review](https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis/better-broader-safer-using-health-data-for-research-and-analysis).
+_The Turing Way_ was highlighted in the context of addressing *a range of specific challenges around open working, the limits of open code, and the strong positive relationship between open working methods and innovative commercial activity in health data science*.
 You can read the [full report online](https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis/better-broader-safer-using-health-data-for-research-and-analysis).
 
 Led by Dr. Ben Goldacre at the University of Oxford, the report explored how health data can be used efficiently and safely by researchers and for patients within the heathcare sector.
