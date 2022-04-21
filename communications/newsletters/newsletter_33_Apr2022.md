@@ -1,6 +1,6 @@
 The Turing Way Newsletter: 20 April 2022
 
-# New chapters, sign up for book dash, the upcoming fireside chat, and (many) other community updates
+# New chapters, sign up for Book Dash, the upcoming Fireside Chat, and other community updates
 
 Hiya everyone!
 
