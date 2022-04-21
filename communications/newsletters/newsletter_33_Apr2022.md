@@ -21,7 +21,7 @@ _Thank you to Malvika Sharan and Esther Plomp for reviewing drafts of this newsl
 
 ![Flyer for the fireside chat on Enabling Inclusive Research Conferencing in the ‘Post-Pandemic Era’, 29 April 2022](images/2022-04-fireside.jpg)
 
-**On 29 April 2022, 15:00-16:30 UTC ([in your timezone](https://arewemeetingyet.com/UTC/2022-04-29/15:00)): the next fireside chat will take place on the topic: “Enabling Inclusive Conferencing in the 'Post-Pandemic Era'”.**
+**On 29 April 2022, 15:00-16:30 UTC ([in your timezone](https://arewemeetingyet.com/UTC/2022-04-29/15:00)): the next Fireside Chat will take place on the topic: “Enabling Inclusive Conferencing in the 'Post-Pandemic Era'”.**
 Over the past 2 and a half years, the COVID-19 pandemic has brought about a reckoning with how scientific research is done across international borders – and how scientific conferencing is done in turn.
 Alongside the shift to “working from home”, conferences also moved online.
 But as many events begin to move back to in-person events in the coming months and years, this Fireside chat brings together diverse voices from different projects and communities to talk more about the role of conferences in scientific collaboration, and the trade-offs involved in this shift back to in-person conferences.
