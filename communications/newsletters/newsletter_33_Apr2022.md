@@ -1,6 +1,6 @@
 The Turing Way Newsletter: 21 April 2022
 
-# New chapters, sign up for book dash, the upcoming fireside chat, and (many) other community updates
+# New chapters, sign up for Book Dash, the upcoming Fireside Chat, and other community updates
 
 Hiya everyone!
 
@@ -21,10 +21,10 @@ _Thank you to Malvika Sharan, Esther Plomp, and Arielle Bennett for reviewing dr
 
 ![Alt: Fireside chat image](images/2022-04-fireside.png)
 
-**On 29 April 2022, 15:00-16:30 UTC ([in your timezone](https://arewemeetingyet.com/UTC/2022-04-29/15:00)): the next fireside chat will take place on the topic: “Enabling Inclusive Conferencing in the 'Post-Pandemic Era'”.**
+**On 29 April 2022, 15:00-16:30 UTC ([in your timezone](https://arewemeetingyet.com/UTC/2022-04-29/15:00)): the next Fireside Chat will take place on the topic: “Enabling Inclusive Conferencing in the 'Post-Pandemic Era'”.**
 Over the past 2 and a half years, the COVID-19 pandemic has brought about a reckoning with how scientific research is done across international borders – and how scientific conferencing is done in turn.
 Alongside the shift to “working from home”, conferences also moved online.
-But as many events begin to move back to in-person events in the coming months and years, this Fireside chat brings together diverse voices from different projects and communities to talk more about the role of conferences in scientific collaboration, and the trade-offs involved in this shift back to in-person conferences.
+But as many events begin to move back to in-person events in the coming months and years, this Fireside Chat brings together diverse voices from different projects and communities to talk more about the role of conferences in scientific collaboration, and the trade-offs involved in this shift back to in-person conferences.
 
 **Chaired by Anne Lee Steele, this panel will feature insights from Dorothea Hug Peter, Elio Campitelli, Lilly Winfree, Gilbert Beyamba, and Ben Krikler.** These individuals represent different communities with expertise and insights from organising and participating in international conferences.  
 [Sign up on the Eventbrite](https://www.eventbrite.co.uk/e/fireside-chat-making-virtual-participation-a-global-default-tbc-tickets-318719758377).
@@ -32,7 +32,7 @@ But as many events begin to move back to in-person events in the coming months a
 ## Sign up for our Book Dash 📚💨
 
 **The 7th [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) event will take place online from 16 to 20 May 2022.** Submit your application via this [Google form](https://forms.gle/uEbu1FJMmdfgGwvW6).
-The Deadline for submission is 21 April 2022.
+The deadline for submission is 21 April 2022.
 Please email me at [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk) if you think you'll need need more time to complete the application.
 
 We invite applications from members of our community, including both new and existing contributors. Our attendees bring some understanding of where they can contribute and collaboratively improve _The Turing Way_ as a whole.
@@ -43,13 +43,6 @@ You can use the [template document](https://tinyurl.com/tw-bookdash-template) to
 If you'd like to work with someone on drafting your application, please join us at Collaboration Cafe.
 Don't hesitate to reach out – we're here to give you the support you need.
 
-## Community Share-Outs on 20 May
-
-On 20 May 2022, the last day of Book Dash, we will host two [Community Share Out and Contributor Celebrations Events](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-events.html#community-share-outs-contributor-celebration)
-This is a public event for folks interested in learning more about The Turing Way, seeing what recent updates have been made in the project and celebrating the incredible work of our contributors.
-We will also release the new version of _The Turing Way_ book and give an early preview of a new set of illustrations developed during the Book Dash.
-You are invited to attend one or both sessions, please sign up on [Eventbrite](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebrations-may-2022-tickets-323373307267).
-
 ## Join us at Collaboration Cafe ☕
 
 **The next Collaboration Café will happen on 4 May 2022 at 15:00 BST (UTC+1).**
@@ -57,6 +50,12 @@ You are invited to attend one or both sessions, please sign up on [Eventbrite](h
 You can find the details and sign up here: [hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
 You can also sign up to host one of the future Collaboration Cafés on 18 May and 1 June 2022. We hope to see you there!
 
+## Community Share-Outs on 20 May
+
+On 20 May 2022, the last day of Book Dash, we will host two [Community Share Out and Contributor Celebrations Events](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-events.html#community-share-outs-contributor-celebration)
+This is a public event for folks interested in learning more about The Turing Way, seeing what recent updates have been made in the project and celebrating the incredible work of our contributors.
+We will also release the new version of _The Turing Way_ book and give an early preview of a new set of illustrations developed during the Book Dash.
+You are invited to attend one or both sessions, please sign up on [Eventbrite](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebrations-may-2022-tickets-323373307267).
 ---
 
 ## Community News
@@ -84,7 +83,11 @@ This new chapter includes helpful suggestions on what to do before accepting an 
 It also includes tips drawn from work by Rene Bekkers, called ["How to review a paper"](https://renebekkers.wordpress.com/2020/06/24/how-to-review-a-paper/).
 Thank you to Lena for writing, and to Vicky Hellon, Emma Karoune, and Achintya Rao for reviews!
 
+<<<<<<< HEAD
 If you'd like to get involved with new and ongoing chapters, please get in touch with us: join a co-working hour, Collaboration Cafe, or message one of the core team directly.
+=======
+If you'd like to get involved with new and ongoing chapters, please get in touch with us: join a co-working hour, Collaboration Cafe, or message one of the team directly.
+>>>>>>> c9d75a424f77104602e09da4b36be140388aed32
 
 ## Co-leads of _The Turing Way_ Translation and Localisation team!
 
