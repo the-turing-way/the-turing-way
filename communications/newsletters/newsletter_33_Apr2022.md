@@ -26,7 +26,7 @@ Over the past 2 and a half years, the COVID-19 pandemic has brought about a reck
 Alongside the shift to “working from home”, conferences also moved online.
 But as many events begin to move back to in-person events in the coming months and years, this Fireside Chat brings together diverse voices from different projects and communities to talk more about the role of conferences in scientific collaboration, and the trade-offs involved in this shift back to in-person conferences.
 
-**Chaired by Anne Lee Steele, this panel will feature insights from Dorothea Hug Peter, Elio Campitelli, Lilly Winfree, Gilbert Beyamba, and Ben Krikler.** These individuaals represent different communities with expertise and insights from organising and participating in international conferences.  
+**Chaired by Anne Lee Steele, this panel will feature insights from Dorothea Hug Peter, Elio Campitelli, Lilly Winfree, Gilbert Beyamba, and Ben Krikler.** These individuals represent different communities with expertise and insights from organising and participating in international conferences.  
 [Sign up on the Eventbrite](https://www.eventbrite.co.uk/e/fireside-chat-making-virtual-participation-a-global-default-tbc-tickets-318719758377).
 
 ## Sign up for our Book Dash 📚💨
