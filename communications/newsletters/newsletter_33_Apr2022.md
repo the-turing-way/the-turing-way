@@ -133,7 +133,7 @@ Both are authors and mentors of several chapters in our [Guide for Ethical Resea
 _Congratulations to the participants and presenters at #CW22!_
 
 - Achintya Rao and his team members developed a [Carpentries-style](https://carpentries.org/) lesson on R's bug tracking process, that was awarded third place during the hack day.
-- Malvika Sharan and her team members developed collaboration project idea, "Hi-Brid! Leaving no one behind in hybrid working!" that won second place during the Collaborative Idea's session.
+- Malvika Sharan and her team members developed a collaborative project idea, "Hi-Brid! Leaving no one behind in hybrid working!" that won second place during the Collaborative Idea's session.
 - Jez Cope, Stephan Druskat, and Anne Lee Steele were awarded third place for their idea of creating a "Interdisciplinary Glossary of Glossaries".
 
 Many Turing Way core team members also gave talks and workshops about various projects: including Sarah Gibson, Emma Karoune and Vicky Hellon.
