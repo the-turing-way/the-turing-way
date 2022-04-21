@@ -274,6 +274,13 @@ The aim is to promote and incorporate the principles of _The Turing Way_ across 
 For more information about the application process, [please visit the event page](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=61990&eventID=188).
 Reach out with questions or interest to training@turing.ac.uk
 
+### UNESCO Global Call for Best Practices in Open Science
+
+Further to the adoption of the [UNESCO Recommendation on Open Science](https://en.unesco.org/science-sustainable-future/open-science/recommendation) in November 2021, UNESCO is launching a Global Call for Best Practices in Open Science. They are aiming to collect best practices in open science at individual, institutional, national, regional and international levels with a particular focus on the [seven priority areas of action highlighted in the Recommendation](https://unesdoc.unesco.org/ark:/48223/pf0000379949/PDF/379949eng.pdf.multi#page=20). If you are involved in an open science initiative that you consider to be a good example or best practice in open science, please provide your input to the survey in English, French or Spanish, by 15 July 2022.
+
+⏰ Submissions due in English, French or Spanish by 15 July 2022
+📌 For more information about the call, visit: https://www.unesco.org/en/articles/unesco-launches-global-call-best-practices-open-science
+
 -----
 
 ## Get involved + Connect with us!
