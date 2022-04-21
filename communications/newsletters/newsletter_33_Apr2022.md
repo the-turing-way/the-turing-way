@@ -1,4 +1,4 @@
-The Turing Way Newsletter: 20 April 2022
+The Turing Way Newsletter: 21 April 2022
 
 # New chapters, sign up for book dash, the upcoming fireside chat, and (many) other community updates
 
@@ -6,12 +6,12 @@ Hiya everyone!
 
 Anne, your [new Community Manager](https://twitter.com/aleesteele/status/1503400525110427650), here! It's my first time sending _The Turing Way_ newsletter... and I'm excited to share the many updates, upcoming events, and opportunities we have to share from our community.
 
-📚💨 **The next Book Dash is taking place from 16 to 20 May 2022.** [Apply by 21 April](https://forms.gle/9hyQQC5KCsRJC3Yv8) to attend virtually, and let us know if you're interested in hosting a local meet-up.
+📚💨 **The next Book Dash is taking place from 16 to 20 May 2022.** [Apply by TODAY 21 April](https://forms.gle/9hyQQC5KCsRJC3Yv8) to attend virtually, and let us know if you're interested in hosting a local meet-up.
 📣 This month we've published new chapters, hosted workshops, and have many opportunities for collaboration to share with you. **Check out 'community news' and 'opportunities' for more!**
 🔥 Join us at our upcoming Fireside Chat on **"Making Virtual Conferencing the Global Default" on 29 April 2022 at 16:00 BST (15:00 UTC)**. Sign up on [Eventbrite](https://www.eventbrite.co.uk/e/318719758377/) and share with others.
 ☕ The next **Collaboration Cafe is happening on 04 May at 16:00 BST (15:00 UTC)**. ([See details](https://https://hackmd.io/@turingway/collaboration-cafe))
 
-_Thank you to Malvika Sharan and Esther Plomp for reviewing drafts of this newsletter!_
+_Thank you to Malvika Sharan, Esther Plomp, and Arielle Bennett for reviewing drafts of this newsletter!_
 
 ---
 
@@ -19,14 +19,14 @@ _Thank you to Malvika Sharan and Esther Plomp for reviewing drafts of this newsl
 
 ## Tune into our Fireside Chat 🔥
 
-![](https://i.imgur.com/CQFTKn8.jpg)
+![Alt: Fireside chat image](images/2022-04-fireside.png)
 
 **On 29 April 2022, 15:00-16:30 UTC ([in your timezone](https://arewemeetingyet.com/UTC/2022-04-29/15:00)): the next fireside chat will take place on the topic: “Enabling Inclusive Conferencing in the 'Post-Pandemic Era'”.**
 Over the past 2 and a half years, the COVID-19 pandemic has brought about a reckoning with how scientific research is done across international borders – and how scientific conferencing is done in turn.
 Alongside the shift to “working from home”, conferences also moved online.
 But as many events begin to move back to in-person events in the coming months and years, this Fireside chat brings together diverse voices from different projects and communities to talk more about the role of conferences in scientific collaboration, and the trade-offs involved in this shift back to in-person conferences.
 
-**Chaired by Anne Lee Steele, this panel will feature insights from Dorothea Hug Peter, Elio Campitelli, Lilly Winfree, Gilbert Beyamba, and Ben Krikler.** These individuaals represent different communities with expertise and insights from organising and participating in international conferences.  
+**Chaired by Anne Lee Steele, this panel will feature insights from Dorothea Hug Peter, Elio Campitelli, Lilly Winfree, Gilbert Beyamba, and Ben Krikler.** These individuals represent different communities with expertise and insights from organising and participating in international conferences.  
 [Sign up on the Eventbrite](https://www.eventbrite.co.uk/e/fireside-chat-making-virtual-participation-a-global-default-tbc-tickets-318719758377).
 
 ## Sign up for our Book Dash 📚💨
@@ -79,7 +79,7 @@ This new chapter includes helpful suggestions on what to do before accepting an 
 It also includes tips drawn from work by Rene Bekkers, called ["How to review a paper"](https://renebekkers.wordpress.com/2020/06/24/how-to-review-a-paper/).
 Thank you to Lena for writing, and to Vicky Hellon, Emma Karoune, and Achintya Rao for reviews!
 
-If you'd like to get involved with new and ongoing chapters, please get in touch with us: join a co-working hour, collaboration cafe, or message one of the team directly.
+If you'd like to get involved with new and ongoing chapters, please get in touch with us: join a co-working hour, Collaboration Cafe, or message one of the core team directly.
 
 ## Co-leads of _The Turing Way_ Translation and Localisation team!
 
@@ -133,7 +133,7 @@ Both are authors and mentors of several chapters in our [Guide for Ethical Resea
 _Congratulations to the participants and presenters at #CW22!_
 
 - Achintya Rao and his team members developed a [Carpentries-style](https://carpentries.org/) lesson on R's bug tracking process, that was awarded third place during the hack day.
-- Malvika Sharan and her team members developed collaboration project idea, "Hi-Brid! Leaving no one behind in hybrid working!" that won second place during the Collaborative Idea's session.
+- Malvika Sharan and her team members developed the project idea, "Hi-Brid! Leaving no one behind in hybrid working!" that won second place during the Collaborative Idea's session.
 - Jez Cope, Stephan Druskat, and Anne Lee Steele were awarded third place for their idea of creating a "Interdisciplinary Glossary of Glossaries".
 
 Many Turing Way core team members also gave talks and workshops about various projects: including Sarah Gibson, Emma Karoune and Vicky Hellon.
@@ -167,7 +167,7 @@ _Check out the Github issue to learn more about the research done so far on open
 
 Malvika and Anne are also co-leading an investigation into open research governance practices in the fifth cohort of [Open Life Science program](https://openlifesci.org/) (OLS-5).
 This research will inform the next stage of mature governance structure in _The Turing Way_.
-We would love to involve members of our community in this research as well as , please comment on [Pull Request #31 on OLS-5 Github](https://github.com/open-life-science/ols-5/issues/31) or reach out to us on Slack directly.
+We would love to involve members of our community in this research as well as those within open research more broadly. Please comment on [Pull Request #31 on OLS-5 Github](https://github.com/open-life-science/ols-5/issues/31) or reach out to us on Slack directly if you're interested in getting involved.
 
 ## Tweets & mentions
 
@@ -180,6 +180,11 @@ _Thanks for the shout-outs this month, reminding us that open research practices
 4. Tweet by Rose O'Dea: https://twitter.com/rose_odea/status/1512014446767525892
 5. Tweet by Anne Lee Steele: https://twitter.com/aleesteele/status/1514553042611412992
 6. Tweet by Arielle Bennett: https://twitter.com/biotechchat/status/1510942637934751744
+
+---
+
+## Upcoming event
+Join us next Wednesday (27th of April at 8:30 pm Riyadh time) in "The Practice of Digital Infrastructure" to celebrate the first cohort as we share out our research from the past six months. During the cohort, we launched a survey in which many of you filled in and interviewed leaders for the open projects in Arabic-speaking countries. We are happy to share our findings with all of you next Wednesday!
 
 ---
 
