@@ -79,7 +79,7 @@ This new chapter includes helpful suggestions on what to do before accepting an 
 It also includes tips drawn from work by Rene Bekkers, called ["How to review a paper"](https://renebekkers.wordpress.com/2020/06/24/how-to-review-a-paper/).
 Thank you to Lena for writing, and to Vicky Hellon, Emma Karoune, and Achintya Rao for reviews!
 
-If you'd like to get involved with new and ongoing chapters, please get in touch with us: join a co-working hour, collaboration cafe, or message one of the team directly.
+If you'd like to get involved with new and ongoing chapters, please get in touch with us: join a co-working hour, Collaboration Cafe, or message one of the team directly.
 
 ## Co-leads of _The Turing Way_ Translation and Localisation team!
 
