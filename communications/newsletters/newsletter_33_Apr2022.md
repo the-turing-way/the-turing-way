@@ -11,7 +11,7 @@ Anne, your [new Community Manager](https://twitter.com/aleesteele/status/1503400
 🔥 Join us at our upcoming Fireside Chat on **"Making Virtual Conferencing the Global Default" on 29 April 2022 at 16:00 BST (15:00 UTC)**. Sign up on [Eventbrite](https://www.eventbrite.co.uk/e/318719758377/) and share with others.
 ☕ The next **Collaboration Cafe is happening on 04 May at 16:00 BST (15:00 UTC)**. ([See details](https://https://hackmd.io/@turingway/collaboration-cafe))
 
-_Thank you to Malvika Sharan and Esther Plomp for reviewing drafts of this newsletter!_
+_Thank you to Arielle Bennett, Esther Plomp and Malvika Sharan for reviewing drafts of this newsletter!_
 
 ---
 
@@ -41,14 +41,13 @@ We hope to see you there!
 
 **The 7th [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) event will take place online from 16 to 20 May 2022.** Submit your application via this [Google form](https://forms.gle/uEbu1FJMmdfgGwvW6).
 The deadline for submission is 21 April 2022.
-Please email me at [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk) if you think you'll need need more time to complete the application.
 
 We invite applications from members of our community, including both new and existing contributors. Our attendees bring some understanding of where they can contribute and collaboratively improve _The Turing Way_ as a whole.
 If participating in _The Turing Way_ community for the first time, we encourage you to first participate in a Collaboration Café or other community events shared in this newsletter (also see: [bit.ly/turingway](http://bit.ly/turingway)).
 
 This application will take 20-30 minutes to complete.
 You can use the [template document](https://tinyurl.com/tw-bookdash-template) to prepare your draft.
-**Don't hesitate to reach out if extra time might be needed to draft your application** – we're here to give you the support you need.
+**Don't hesitate to reach out (email [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)) if extra time might be useful to draft your application** – we're here to give you the support you need.
 
 ### Community Share-Outs on 20 May
 
@@ -70,7 +69,7 @@ We are thrilled and honoured that [_The Turing Way_ was recently featured in the
 _The Turing Way_ was highlighted in the context of addressing *a range of specific challenges around open working, the limits of open code, and the strong positive relationship between open working methods and innovative commercial activity in health data science*.
 You can read the [full report online](https://www.gov.uk/government/publications/better-broader-safer-using-health-data-for-research-and-analysis/better-broader-safer-using-health-data-for-research-and-analysis).
 
-Led by Dr. Ben Goldacre at the University of Oxford, the report explored how health data can be used efficiently and safely by researchers and for patients within the heathcare sector.
+Led by Dr Ben Goldacre at the University of Oxford, the report explored how health data can be used efficiently and safely by researchers and for patients within the healthcare sector.
 The study was commissioned by the Secretary of State for Health and Care in the UK.
 [Learn more about the Goldacre Review](https://www.goldacrereview.org/).
 
@@ -94,15 +93,15 @@ _The Ways of Working Github page provides details about the project members and 
 
 Camila Rangel-Smith, Batool Almarzouq, Alejandro Coca Castro, and Andrea Sánchez-Tapia have been added as joint Co-Leads of the new Translation and Localisation team.
 You can see their updated information on our [Ways of Working page](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) on Github.
-We hope that this formalisation will enable greater recognition of the incredible work they are doing within _The Turing Way_ and more widely across communities they lead.
-You can read about transation and localisation process in [Pull Request #2202](https://github.com/alan-turing-institute/the-turing-way/pull/2202).
+We hope that this formalisation will enable greater recognition of the incredible work they are doing within _The Turing Way_ and more widely across the communities they lead.
+You can read about the translation and localisation process in [Pull Request #2202](https://github.com/alan-turing-institute/the-turing-way/pull/2202).
 
 ### Translating _The Turing Way_
 
 ![Alt:Screenshot of Github pull request](images/2022-04-outreachy.png)
 _Batool's welcome message to the 2022 Contributors to the Outreachy program, organised through Open Science Community Saudi Arabia_
 
-Batool Almarzouq has also been working with Outreachy applicants, who will be working to translation chapters of _The Turing Way_ into Arabic.
+Batool Almarzouq has also been working with Outreachy applicants, who will be working to translate chapters of _The Turing Way_ into Arabic.
 Outreachy provides paid remote, three-month internships to support diversity in Free and Open Source Software (FOSS).
 [Learn more about the Outreachy program here](https://www.outreachy.org/).
 Good luck to the applicants, we can't wait to see what you'll accomplish together!
@@ -119,7 +118,7 @@ AI-UK is the UK's national showcase of artificial intelligence (AI) and data sci
 
 ### Collaborations Workshop
 
-Many of our community members were at [Collaborations Workshop](https://software.ac.uk/cw22) this year, which took place from 4 April - 7 April.
+Many of our community members were at [Collaborations Workshop](https://software.ac.uk/cw22) this year, which took place from 4 April to 7 April.
 Hosted by the [Software Sustainability Institute](https://software.ac.uk/), #CollabW22 brought together an interdisciplinary group of people to explore best practices and the future of research software.
 
 ![Alt:Ester Plomp at Collaborations Workshop](images/2022-04-ep-cw22.png)
@@ -139,8 +138,8 @@ Both are authors and mentors of several chapters in our [Guide for Ethical Resea
 _Congratulations to the participants and presenters at #CW22!_
 
 - Achintya Rao and his team members developed a [Carpentries-style](https://carpentries.org/) lesson on R's bug tracking process, that was awarded third place during the hack day.
-- Malvika Sharan and her team members developed a collaborative project idea, "Hi-Brid! Leaving no one behind in hybrid working!" that won second place during the Collaborative Idea's session.
-- Jez Cope, Stephan Druskat, and Anne Lee Steele were awarded third place for their idea of creating a "Interdisciplinary Glossary of Glossaries".
+- Malvika Sharan and her team members developed a collaborative project idea, "Hi-Brid! Leaving no one behind in hybrid working!" that won second place during the Collaborative Idea session.
+- Jez Cope, Stephan Druskat, and Anne Lee Steele were awarded third place for their idea of creating an "Interdisciplinary Glossary of Glossaries".
 
 Many Turing Way core team members also gave talks and workshops about various projects: including Sarah Gibson, Emma Karoune and Vicky Hellon.
 [Look at their slides on Figshare here](https://ssi-cw.figshare.com/Collaborations_Workshop_2022_CW22).
@@ -171,8 +170,8 @@ Alternatively, you can also [schedule time in her calendly](https://calendly.com
 ![Alt:Screenshot of Github pull request](images/2022-04-opengov.png)
 _Check out the Github issue to learn more about the research done so far on open governance models_
 
-Malvika and Anne are also co-leading an investigation into open research governance practices in the fifth cohort of [Open Life Science program](https://openlifesci.org/) (OLS-5).
-This research will inform the next stage of mature governance structure in _The Turing Way_.
+Malvika and Anne are also co-leading an investigation into open research governance practices in the fifth cohort of [Open Life Science](https://openlifesci.org/) (OLS-5).
+This research will inform the next stage of the mature governance structure in _The Turing Way_.
 We would love to involve members of our community in this research, please comment on [Pull Request #31 on OLS-5 Github](https://github.com/open-life-science/ols-5/issues/31) or reach out to us on Slack directly.
 
 ## Tweets & mentions
@@ -197,10 +196,10 @@ _Thanks for the shout-outs this month, reminding us that open research practices
 🗓️ Program dates: Thursday, 28 and Friday, 29 April 2022 (1.5 days)
 
 Lydia France, Federico Nanni and Malvika are developing training materials for data science for biomedical researchers: [Introduction to Data Science for Biomedical Scientists: Turing-Crick Partnership](https://github.com/alan-turing-institute/data-training-for-bioscience).
-These materials cover a range of topics on data science and AI practices for senior researchers, group leaders, late PhD/Postdocs, and mid to late-career biomedical scientists in twi training madules.
+These materials cover a range of topics on data science and AI practices for senior researchers, group leaders, late PhD/Postdocs, and mid to late-career biomedical scientists in two training modules.
 
 They are hosting a review and illustration sprint on 28 and 29 April and inviting applications from external members to review, give feedback and improve these materials for their use.
-Participants can choose to attend from **five 2-hour long sessions for collaborative review** of these training materials.
+Participants can choose to attend from **five 2-hour long sessions for a collaborative review** of these training materials.
 They will also work with a professional scribe from [Scriberia](https://www.scriberia.com/) to help develop accessible illustrations to include in the materials.
 
 ### Upcoming event: Tools, Practices & Systems Programme Seminar
@@ -211,13 +210,12 @@ They will also work with a professional scribe from [Scriberia](https://www.scri
 **Join the Turing's Tools, Practices & Systems programme at their monthly seminar. This month, they'll be welcoming James Muldoon (author of Platform Socialism - Social Ownership in the Digital Economy).**
 
 Tech companies have been criticised for their surveillance practices, privacy breaches and monopolistic ambitions.
-Instead of inquiring as to how we could ‘fix’ Facebook this paper explores alternatives that could replace them.
+Instead of inquiring as to how we could ‘fix’ Facebook, this paper explores alternatives that could replace them.
 It presents the idea of platform socialism - the organisation of the digital economy through the social ownership of digital assets and democratic control over the infrastructure and systems that govern our digital lives.
 This framework facilitates holistic thinking about the systemic nature of the problems we face and the need for genuine alternatives.
 To develop the principles and institutional sketch of platform socialism, I draw inspiration from the writings of two early twentieth century writers: the libertarian socialist, G. D. H. Cole and the Austrian philosopher and economist Otto Neurath.
 I propose new forms of participatory and decentralised governance through an ecosystem of alternative ownership models of digital platforms.
 How would socially-owned and controlled apps operate in transport, food delivery and short-term accommodation? Drawing from historical examples and contemporary prototypes, platform socialism examines a variety of ways communities could reclaim ownership and control over digital platforms.
-nt.
 
 ### TPS Peer-Mentorship & Training Programme
 
@@ -233,7 +231,7 @@ Reach out with questions or interest to training@turing.ac.uk
 
 ### Data Science and AI Educators' Programme
 
-Applications are now open for **The Data Science and AI Educators' Programme** at The Alan Turing Institute. This programme takes a ‘Train the Trainer’ approach to equipping educators and domain experts with pedagogical knowledge.
+Applications are now open for **The Data Science and AI Educators' Programme** at The Alan Turing Institute. This programme takes a ‘Train the Trainer’ approach to equip educators and domain experts with pedagogical knowledge.
 **Note: Applications are open to anyone (both internal and external to the Turing) with an interest in training and teaching at all levels.**
 
 ⏰ Applications due by Sunday, 24 April 2022  
