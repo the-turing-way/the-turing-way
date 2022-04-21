@@ -33,7 +33,7 @@ But as many events begin to move back to in-person events in the coming months a
 
 **The 7th [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) event will take place online from 16 to 20 May 2022.** Submit your application via this [Google form](https://forms.gle/uEbu1FJMmdfgGwvW6).
 The Deadline for submission is 21 April 2022.
-Please reach email me at [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk) if you think you'll need need more time to complete the application.
+Please email me at [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk) if you think you'll need need more time to complete the application.
 
 We invite applications from members of our community, including both new and existing contributors. Our attendees bring some understanding of where they can contribute and collaboratively improve _The Turing Way_ as a whole.
 If participating in _The Turing Way_ community for the first time, we encourage you to first participate in a Collaboration Café or other community events shared in this newsletter (also see: [bit.ly/turingway](http://bit.ly/turingway)).
@@ -43,7 +43,12 @@ You can use the [template document](https://tinyurl.com/tw-bookdash-template) to
 If you'd like to work with someone on drafting your application, please join us at Collaboration Cafe.
 Don't hesitate to reach out – we're here to give you the support you need.
 
-Don't forget that Book Dashes usually end with a [Community Share Out and Contributor Celebrations Event](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-events.html#community-share-outs-contributor-celebration), which you can sign up for on [Eventbrite](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebrations-may-2022-tickets-323373307267).
+## Community Share-Outs on 20 May
+
+On 20 May 2022, the last day of Book Dash, we will host two [Community Share Out and Contributor Celebrations Events](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-events.html#community-share-outs-contributor-celebration)
+This is a public event for folks interested in learning more about The Turing Way, seeing what recent updates have been made in the project and celebrating the incredible work of our contributors.
+We will also release the new version of _The Turing Way_ book and give an early preview of a new set of illustrations developed during the Book Dash.
+You are invited to attend one or both sessions, please sign up on [Eventbrite](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebrations-may-2022-tickets-323373307267).
 
 ## Join us at Collaboration Cafe ☕
 
