@@ -167,7 +167,7 @@ _Check out the Github issue to learn more about the research done so far on open
 
 Malvika and Anne are also co-leading an investigation into open research governance practices in the fifth cohort of [Open Life Science program](https://openlifesci.org/) (OLS-5).
 This research will inform the next stage of mature governance structure in _The Turing Way_.
-We would love to involve members of our community in this research as well as , please comment on [Pull Request #31 on OLS-5 Github](https://github.com/open-life-science/ols-5/issues/31) or reach out to us on Slack directly.
+We would love to involve members of our community in this research, please comment on [Pull Request #31 on OLS-5 Github](https://github.com/open-life-science/ols-5/issues/31) or reach out to us on Slack directly.
 
 ## Tweets & mentions
 
