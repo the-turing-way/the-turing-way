@@ -30,9 +30,10 @@ Through the Fireside Chat series in *The Turing Way*, we want to build an intent
 
 Different stakeholders in open research and grassroots communities have a shared mission of making scientific knowledge freely available for public access and for the benefit of society. 
 However, most of these communities operate independently of other initiatives, either lacking the capacity to build meaningful collaboration or competing for limited resources. 
-This often results in scientific outputs that most users can find, but not access, or build upon in their local contexts {cite}`Sharan2021reimagine`.
+This often results in scientific outputs that most users can find, but not access, or build upon in their local contexts.
+Open discussions and spaces for collaborations can contribute to individual benefit, team efforts as well as the overall sustainability of the open science ecosystem {cite}`Sharan2021reimagine`.
 
-Through collaboratively organised Fireside Chat discussions, we create dedicated opportunities are crucial for exchanging resources and experiences that can contribute to individual progress, research as well as the overall sustainability of the open science ecosystem. 
+Through collaboratively organised Fireside Chat discussions, we create dedicated opportunities crucial for exchanging experiences and resources. 
 With the Fireside Chat series, we aim to enable discussions that are of broader interest and can enable cross-community interactions and exchanges.
 
 ## Scope
