@@ -36,7 +36,7 @@ Please make sure that you share your feedback and experience from the last 5 day
 * Short bio:
 > I am a Technical Writer / Google Season of Docs (GSoD) Participant working to make The Turing Way consistent, sustainable, and accessible.
 > I have a BSc in Software Engineering from the American University of Nigeria. Thereafter, I worked as a Research Analyst in the Fintech & Innovation Division of Guaranty Trust Bank, Nigeria and helped to drive the Bank's push to become a platform by creating innovative digital products.
-> I completed a Master's in Data Science from the University of Glasgow and starting my PhD in January 2021 studying conversational information-seeking systems. I spent two years as a Research Analyst at Guaranty Trust Bank in Lagos, Nigeria helping to build innovative digital products to meet the Bank's customer objectives.
+> I completed a MS in Data Science from the University of Glasgow and starting my PhD in January 2021 studying conversational information-seeking systems. I spent two years as a Research Analyst at Guaranty Trust Bank in Lagos, Nigeria helping to build innovative digital products to meet the Bank's customer objectives.
 
 * Personal highlights:
 > The Turing Way is my first foray into open source and has been a fantastic learning experience.
