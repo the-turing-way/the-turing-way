@@ -38,7 +38,7 @@ With the Fireside Chat series, we aim to enable discussions that are of broader 
 
 ## Scope
 
-Fireside Chat series is hosted online on topics of interest within *The Turing Way* community as well as members across other mission-aligned projects such as Open Life Science, The Carpentries, Open Post Academics, Open Science Community in Saudi Arabia, Wikimedia and Talarify in South Africa and MetaDocencia.
+Fireside Chat series is hosted online on topics of interest within *The Turing Way* community as well as members across other mission-aligned projects such as Open Life Science, The Carpentries, Open Post Academics, Open Science Community in Saudi Arabia, Wikimedia, Frictionless Data, Talarify in South Africa and MetaDocencia (some of our collaborators so far).
 We will continue to collaborate with other communities working in participatory, open research and citizen space to organise future events on topics that they are working on.
 
 Although, *The Turing Way* hosts these calls in English, we encourage our collaborative projects to consider hosting a future event in their time zones, in their primary languages and on topics relevant to their local contexts.
