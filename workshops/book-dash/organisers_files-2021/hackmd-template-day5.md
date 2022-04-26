@@ -19,7 +19,7 @@
 
 * *The Turing Way* participation guidelines apply to this event:
     * Code of Conduct: https://the-turing-way.netlify.app/community-handbook/coc.html
-    * Contribution guideline: https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md
+    * Contribution guideline: https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md
 * Time is provided in London Time (UTC+1). Please use this link to convert in your time zone: convert time: https://arewemeetingyet.com/london/2021-11-**DD**/**hh:mm** (update DD: date, hh:mm: hours:minutes)
 * Today we will host two *Community Share-out and Contributor Celebration* sessions from 11:00 - 13:00 and 17:00 - 19:00
 * The community share-out sessions will be recorded - please feel free to turn off your camera if you don't wish to be in the recording
