@@ -64,6 +64,6 @@ You can also add sections on:
 
 ### What happens next
 
-- We will add your bio to the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) which will be updated to the online book in the afterword of the book
+- We will add your bio to the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) which will be updated to the online book in the afterword of the book
 - We will use this to add to our report from the event that will be added to this repository
 - Finally, we will ask for your permission to give you the spotlight in one of our next newsletters
