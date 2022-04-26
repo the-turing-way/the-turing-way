@@ -163,7 +163,7 @@ Here are a few suggestions for good first contributions:
 -   Flag the unclear or duplicated information in the book by opening an [issue on the GitHub](https://github.com/alan-turing-institute/the-turing-way/issues).
 -   Fix an [old issue](https://github.com/alan-turing-institute/the-turing-way/issues) or comment on the the [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls).
 -   Write your personal experience of reproducible research in this [google form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
--   See more info on the GitHub: [https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md)
+-   See more info on the GitHub: [https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md)
 
 
 ### Relevant links & references from Book Dash
@@ -183,7 +183,7 @@ Here are a few suggestions for good first contributions:
     * **Day 5, 12 November**: https://hackmd.io/@turingway/bookdash-nov2021-day5
 * Post-event feedback: https://hackmd.io/@turingway/bookdash-nov2021-feedback
 * Reports from the previous events:
-    * https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash
+    * https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/book-dash
 
 **Bonus Playlist with songs selected by our attendees**
 Link: https://www.youtube.com/watch?v=MTIzsTv1ENY&list=PLBxcQEfGu3DldMWK2Z9xz_CEaHHp19Vma
