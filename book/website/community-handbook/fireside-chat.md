@@ -33,8 +33,7 @@ However, most of these communities operate independently of other initiatives, e
 This often results in scientific outputs that most users can find, but not access, or build upon in their local contexts.
 Open discussions and spaces for collaborations can contribute to individual benefit, team efforts as well as the overall sustainability of the open science ecosystem {cite}`Sharan2021reimagine`.
 
-Through collaboratively organised Fireside Chat discussions, we create dedicated opportunities crucial for exchanging experiences and resources. 
-With the Fireside Chat series, we aim to enable discussions that are of broader interest and can enable cross-community interactions and exchanges.
+*The Turing way* Fireside Chat series will facilitate discussions on topics of broader interest, create shared spaces for cross-community collaborations and build opportunities for exchanging common experiences and resources. 
 
 ## Scope
 
