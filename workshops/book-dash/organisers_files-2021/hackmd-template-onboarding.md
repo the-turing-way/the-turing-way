@@ -24,7 +24,7 @@
 
 This call is scheduled for the invited participants of the next Book Dash event hosted by The Turing Way taking place from DD to DD Month YYYY online.
 
-Please note that everyone who participates in _The Turing Way_ project is expected to abide by our [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md).
+Please note that everyone who participates in _The Turing Way_ project is expected to abide by our [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
 
 Please see more details on [the project](https://github.com/alan-turing-institute/the-turing-way), [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) and logistics details (shared by email before the event) for the upcoming book dash below the notes.
 
