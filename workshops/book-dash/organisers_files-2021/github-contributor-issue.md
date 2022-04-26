@@ -42,7 +42,7 @@ Please make sure that you share your feedback and experience from the last 5 day
 > The Turing Way is my first foray into open source and has been a fantastic learning experience.
 > Not only have I gained a deeper understanding and appreciation for how GitHub works, but I am also learning to prioritise sustainability and empowerment in the work that I do.
 > Although The Turing Way is my first open source project, I thoroughly enjoyed the experience and learned a lot along the way. Before the GSoD program, I only used Github to 'store' my projects. Now, I am much more proficient at using Github for collaborative endeavours and I am more adept at working with tools such as Markdown, Jupyter Book, and Sphinx. In addition, I gained familiarity with setting up and working with web analytics software.
-> You can see the full report from GSoD participation [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/GSOD-applications/GSoD-2020-Project-Report.md).
+> You can see the full report from GSoD participation [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/communications/GSOD-applications/GSoD-2020-Project-Report.md).
 > The BookDash November 2020 was great! It was awesome to meet, collaborate, and share ideas with people from around the world. Beyond the Book Dash, The Turing Way is the very first open-source project I have ever worked on. The experience has been fantastic, and I intend to stick around as a contributor after the Google Season of Docs program ends. I also see myself getting involved in other open-source projects.
 
 * Personal Quote:
