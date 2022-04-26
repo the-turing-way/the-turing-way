@@ -30,7 +30,7 @@ Please make sure that you share your feedback and experience from the last 5 day
 * Role: 
   * Google Season of Doc: Technical Writer
   * Book Dash 2021 Participant
-  * [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring)(2020)
+  * [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring)(2020)
 * GitHub id: [paulowoicho](http://github.com/paulowoicho)
 * ORCID: TBA
 * Short bio:
