@@ -186,7 +186,7 @@ You'll see a breakout section in the shared notes:
 > *If you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it.*
 > *If you like one of the topics that are already suggested, please add your name next to that one.*
 > *Teamwork makes the dream work.*
-> *For more information about breakout rooms see [the description on GitHub](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md#breakout-rooms).*
+> *For more information about breakout rooms see [the description on The Turing Way](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms).*
 
 For each session, you can propose a conversation to have in a breakout room or add your name to join a suggestion that is already on the list.
 
