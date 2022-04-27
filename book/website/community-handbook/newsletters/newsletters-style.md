@@ -18,6 +18,7 @@ In this document, we have listed some guidelines to maintain consistency across 
 - **Links**: Use the Markdown formatting for link like this, `[text that needs to be linked](full HTTP link)`
     - Provide links wherever useful, for example, [HackMD for Collaboration Café](https://hackmd.io/@KirstieJane/CollabCafe), [GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues), [registration pages](https://www.eventbrite.co.uk/) and [see details](https://github.com/alan-turing-institute/the-turing-way).
     - Create link for email ids using this Markdown syntax - ``[real-email-id](mailto:real-email-id)``
+    - [Too many links](https://intelligentcontacts.com/7-tips-to-keep-your-emails-out-of-the-spam-filter/) can trigger the spam filter on a recipient's inbox. try to keep them to a mimumum if you can.
 - **Quoting others**: Use smaller than (>) symbol followed by a space before the quoted sentence. For example:
     `> This is my legendary quote.` will appear as:
     > This is my legendary quote.
