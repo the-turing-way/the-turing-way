@@ -12,7 +12,8 @@
 
 In this chapter, we describe tools and practices that can help you work reproducibly, even when your project deals with sensitive data. 
 We describe steps that are good to think about already at the start of your project, such as how to {ref}`ensure that your sensitive files remain secure<pd-sdp-sensitive-files>` when using GitHub. 
-We also show how you can {ref}`safely share your code<pd-sdp-sensitive-code>`, even though it uses sensitive data, and draw attention to {ref}`what you should do if you inadvertently expose sensitive data on GitHub<pd-sdp-exposing-data>`.
+We also show how you can {ref}`safely share your code<pd-sdp-sensitive-code>`, even though it uses sensitive data, and draw attention to {ref}`what you should do if you inadvertently expose sensitive data on GitHub<pd-sdp-exposing-data>`. 
+We also describe some ways to use statistical tools to avoid inadvertently exposing {ref}`personally identifying data when working with machine learning models and sharing datasets<pd-sdp-private-learning>`.
 
 ## Motivation
 
