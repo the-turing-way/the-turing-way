@@ -6,7 +6,7 @@ Our current Translation Management System is Crowdin. Crowdin is integrated to a
 
 ### Join the Translation Team in Crowdin
 
-- Create an account in Crowdin
+- Create an account in Crowdin through [this link](https://accounts.crowdin.com/register?domain=turingway&continue=%2Fturing-way)
 
 ```{figure} ../../figures/create-account-crowdin.gif
 ---
@@ -31,7 +31,12 @@ alt: Crowdsourcing page in Crowdin which has three tabs, one showing the languag
   - It is essential to harmonise and standardise translations. Make sure you read them before you start translating for the first time.
   - Each language has the Translation Priorities list, which you can find it in the README file. Choose one one of the high priorities files.
 
-- Choose the language you want to contribute to it. If your language isn't in the list, contact one of the managers and ask for new language as you can see below.
+- Choose the language you want to contribute to it. We have currently 4 languages with active contributors, which are Spanish, Arabic, Portuguese and Chinese.   
+
+```{admonition} Add New Language
+:class: tip
+If your language isn't in the list, please feel free to contact one of the managers and ask for new language through Crowdin or Slack.
+```
 
 ```{figure} ../../figures/add-language.gif
 ---
@@ -40,3 +45,5 @@ width: 80%
 alt: You can add a new language by contacting one of the managers.
 ---
 ```
+
+- Start Translating chapters from the Translation Priorities by clicking on the file. This will direct you to Crowdin Editor which you will learn more about it in the next chapter.
