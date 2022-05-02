@@ -3,6 +3,7 @@
 # _The Turing Way_
 
 >_This README.md file in also available in Dutch ([README-Dutch](README-translated/README-Dutch.md)), French ([README-French.md](README-translated/README-French.md)), German ([README-German.md](README-translated/README-German.md)), Indonesian ([README-Indonesian](README-translated/README-Indonesian.md)), Italian ([README-Italian](README-translated/README-Italian.md)), Korean ([README-Korean](README-translated/README-Korean.md)), Portuguese ([README-Portuguese](README-translated/README-Portuguese.md)), and Spanish ([README-Spanish](README-translated/README-Spanish.md)) (listed alphabetically)._
+> Call for translators! We’re looking for translators to help translate this space for everyone! Read more about our translation workflow and how you can contribute to it.
 
 *Total Contributors:*
 
@@ -59,7 +60,7 @@ Reproducible research is necessary to ensure that scientific work can be trusted
 Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code.
 The goal is to ensure that all results can be independently verified and built upon in future work.
 This is sometimes easier said than done.
-Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists. 
+Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists.
 As these activities are not commonly taught, we recognise that the burden of requirement and new skill acquisition can be intimidating to individuals who are new to this world.
 _The Turing Way_ is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do" even for people who have never worked in this way before.
 It will include training material on version control, analysis testing, and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
@@ -68,7 +69,7 @@ This project is openly developed and any and all questions, comments and recomme
 ### The Team
 
 _The Turing Way_ is an open collaboration and community-driven project.
-Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member. 
+Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member.
 Long-term contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project.
 
 The project is coordinated by the co-lead investigators **Kirstie Whitaker** (founder) and **Malvika Sharan**, and hosted at [The Alan Turing Institute](https://www.turing.ac.uk/).
