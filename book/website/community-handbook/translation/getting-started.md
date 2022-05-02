@@ -6,7 +6,7 @@ Our current Translation Management System is Crowdin. Crowdin is integrated to a
 
 ### Join the Translation Team in Crowdin
 
-- Create an account in Crowdin through [this link](https://accounts.crowdin.com/register?domain=turingway&continue=%2Fturing-way)
+- Create an account in Crowdin through [this link](https://accounts.crowdin.com/register?domain=turingway&continue=%2Fturing-way).
 
 ```{figure} ../../figures/create-account-crowdin.gif
 ---
@@ -15,7 +15,7 @@ width: 80%
 alt: Sign up in crowdin or log in before you start the translation. You can also log in suing your GitHub or Google account.
 ---
 ```
-You can either create an account by adding your email and choosing a username/password or through loggin in using your GitHub/Google account.
+You can either create an account by adding your email and choosing a username/password or through loggin in using your GitHub/Facebook/Twitter/GitLab/Google account.
 
 - Read the landing page of the Turing Way and README to understand the vision and mission of the Turing Way Book.
 
