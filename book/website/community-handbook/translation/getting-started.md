@@ -13,7 +13,7 @@ alt: The workflow used in Crowdin.
 The Translation workflow which relies on a fork for the Turing Way repository inside [TWTranslation](https://github.com/TWTranslation) GitHub Organisation account.
 ```
 
-This is updated automatically and any new content is added to Crowdin, our Translation Management System. New translated and approved files will generate a PR and automatically be added to the repository.
+All translations are stored in a fork for the Turing Way repository inside [TWTranslation](https://github.com/TWTranslation) GitHub Organisation account. This fork is updated automatically and any new content is added to Crowdin automatically. New translated and approved files will generate a PR and automatically be added to the repository as shown in the figure above.
 
 #### Join the Translation Team in Crowdin
 
@@ -26,7 +26,12 @@ width: 90%
 alt: Sign up in crowdin or log in before you start the translation. You can also log in suing your GitHub or Google account.
 ---
 ```
-You can either create an account by adding your email and choosing a username/password or through loggin in using your GitHub/Facebook/Twitter/GitLab/Google account.
+You can either create an account in Crowdin by fill in the requested details or through sign up using your GitHub, Facebook, Twitter, GitLab or Google account.
+
+```{warning}
+Turing Way is using [Crowdin Enterprise](https://crowdin.com/enterprise), which is not connected to [crowdin.com](https://crowdin.com/) and needs a separate account . If you have an account in [crowdin.com](https://crowdin.com/), you will still need to sign up again in [Crowdin Enterprise](https://crowdin.com/enterprise) using [this link](https://accounts.crowdin.com/register?domain=turingway&continue=%2Fturing-way).  
+```
+
 
 - Read the landing page of the Turing Way and README to understand the vision and mission of the Turing Way Book.
 
