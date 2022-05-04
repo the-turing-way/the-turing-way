@@ -62,4 +62,10 @@ alt: You can add a new language by contacting one of the managers.
 ---
 ```
 
-- Start Translating chapters from the Translation Priorities by clicking on the file. This will direct you to Crowdin Editor which you will learn more about it in the next chapter.
+- Start Translating chapters from the translation priorities list. This will direct you to Crowdin Editor which you will learn more about it in the next chapter.
+  - You can view the translation priorities list in the task tab in Crowdin, they are also marked with red arrow. The same list is copied below:
+    - **Urgent** (Welcome, afterword)
+    - **Priority +++** (Overview of the guide of reproducible research, open research)
+    - **Priority ++** (Research data Management, Research Compendia, Licensing)
+    - **Priority +** (Version Control, Overview of Project Design, Creating Project Repositories)
+    - **Intermediate** (Overview of the Guide for Communication, Making Research Objects Citable, Communications in Open Source Projects, Getting Started With GitHub, Research Infrastructure Roles, Introduction to Research Ethics)
