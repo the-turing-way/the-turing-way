@@ -17,7 +17,7 @@ All translations are stored in a fork for the Turing Way repository inside [TWTr
 
 #### Join the Translation Team in Crowdin
 
-- Create an account in Crowdin through [this link](https://accounts.crowdin.com/register?domain=turingway&continue=%2Fturing-way).
+- **Create an account in Crowdin** through [this link](https://accounts.crowdin.com/register?domain=turingway&continue=%2Fturing-way).
 
 ```{figure} ../../figures/Create-accunt-Crowdin.gif
 ---
@@ -33,7 +33,7 @@ Turing Way is using [Crowdin Enterprise](https://crowdin.com/enterprise), which 
 ```
 
 
-- Read the landing page of the Turing Way and README to understand the vision and mission of the Turing Way Book.
+- **Read the landing page of the Turing Way** and README to understand the vision and mission of the Turing Way Book.
 
 ```{figure} ../../figures/README.gif
 ---
@@ -42,12 +42,12 @@ width: 90%
 alt: Crowdsourcing page in Crowdin which has three tabs, one showing the languages, the 2nd one showing the names of the managers and the third one showing README file.
 ---
 ```
-- Review the Translation Guidelines.
+- **Review the Translation Guidelines.**
   - What should *not* be translated for consistency and structural integrity.
   - It is essential to harmonise and standardise translations. Make sure you read them before you start translating for the first time.
   - Each language has the Translation Priorities list, which you can find it in the README file. Choose one one of the high priorities files.
 
-- Choose the language you want to contribute to it. We have currently 4 languages with active contributors, which are Spanish, Arabic, Portuguese and Chinese.   
+- **Choose the language you want to contribute to it.** We have currently 4 languages with active contributors, which are Spanish, Arabic, Portuguese and Chinese.   
 
 ```{admonition} Add New Language
 :class: tip
@@ -62,10 +62,35 @@ alt: You can add a new language by contacting one of the managers.
 ---
 ```
 
-- Start Translating chapters from the translation priorities list. This will direct you to Crowdin Editor which you will learn more about it in the next chapter.
+- **Start Translating chapters from the translation priorities list.**
   - You can view the translation priorities list in the task tab in Crowdin, they are also marked with red arrow. The same list is copied below:
     - **Urgent** (Welcome, afterword)
     - **Priority +++** (Overview of the guide of reproducible research, open research)
     - **Priority ++** (Research data Management, Research Compendia, Licensing)
     - **Priority +** (Version Control, Overview of Project Design, Creating Project Repositories)
     - **Intermediate** (Overview of the Guide for Communication, Making Research Objects Citable, Communications in Open Source Projects, Getting Started With GitHub, Research Infrastructure Roles, Introduction to Research Ethics)
+
+    - In order to navigate to the tasks tab inside crowdin, you need to click in "Go to the Console" at the top right and navigate back to _The Turing Way_ project which will direct you to a similar interface but with additional tabs on the left, one of the these is the task tab. In the Tasks, we assign tasks to get files translated or proofread by the community or set the due dates and receive notifications about the changes and updates in tasks.
+
+```{figure} ../../figures/tasks-crowdin.gif
+---
+name: tasks-crowdin
+width: 90%
+alt: You can add a new language by contacting one of the managers.
+---
+```
+
+  - Once you decide which file you'll work on, you can type its name in the search bar and click on it. This will direct you to Crowdin Editor which you will learn more about it in the next chapter.
+
+```{admonition} Top Tip
+:class: tip
+The arrow icon next to the the priorities files are always pointing up and coloured red!  
+```
+
+```{figure} ../../figures/choose-file-crowdin.gif
+---
+name: choose-file-crowdin
+width: 90%
+alt: You can add a new language by contacting one of the managers.
+---
+```  
