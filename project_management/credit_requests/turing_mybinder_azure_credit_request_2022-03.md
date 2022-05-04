@@ -7,6 +7,7 @@ Turing membership of the International Binder Federation
 ## Project PI
 
 Callum Mole; cmole@turing.ac.uk
+Malvika Sharan; msharan@turing.ac.uk
 
 ## Existing Subscription
 
