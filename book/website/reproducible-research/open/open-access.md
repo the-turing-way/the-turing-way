@@ -43,6 +43,7 @@ Watch this talk by Vicky Hellon on "Brief History of scientific publishing, and 
   <p><a href="https://www.youtube.com/embed/Mycp7SzBWB0">History of  Scientific Publishing - Where do we go from here??</a> from <a href="https://vimeo.com/orcidvideos">ORCID</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
+*Slides for this talk can be cited as Victoria Hellon. (2022, May 4). Scientific Publishing: a brief history and where do we go from here?. Zenodo. https://doi.org/10.5281/zenodo.6516871.*
 Traditionally many journals are subscription journals, meaning their content is behind a paywall. 
 Universities may have subscriptions to that journal, allowing you to access its content if you are based at a subscribing institution or you may be able to pay a one-off fee to access an individual article.
 
