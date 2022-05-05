@@ -10,7 +10,7 @@ It further outlines expectations and responsibilities with regard to working on 
 | Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | PI, The Alan Turing Institute | - | Oct 2018 - Present | - |
 | Malvika Sharan <br>([@malvikasharan](https://github.com/malvikasharan)) | Co-lead investigator, The Alan Turing Institute | - | Jul 2021 - Present | Previously: Community manager, Jan 2020 - Jun 2021 (100%) |
 | Anne Lee Steele <br>([@aleesteele](https://github.com/aleesteele)) | The Turing Way Community Manager, The Alan Turing Institute | 100% | March 2022 - Present | - |
-| Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Senior Community Manager, The Alan Turing Institute | 5% | Jan 2021 - Present | - |
+| Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Senior Community Manager, The Alan Turing Institute | 10% | Jan 2021 - Present | - |
 | Arron Lacey <br>([@arronlacey](https://github.com/arronlacey)) | Senior Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Present | - |
 | Achintya Rao <br>([@RaoOfPhysics](https://github.com/RaoOfPhysics)) | Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Present | - |
 | Vicky Hellon <br>([@vhellon](https://github.com/vhellon)) | Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Present | - |
@@ -18,6 +18,7 @@ It further outlines expectations and responsibilities with regard to working on 
 | Alden Conner <br>([@aldenc](https://github.com/aldenc)) | Research Application Manager, The Alan Turing Institute| 10% | 2021 - Present | - |
 | Arielle Bennett <br>([@Arielle-Bennett](https://github.com/Arielle-Bennett)) | Project Manager, The Alan Turing Institute | 10% | 2021 - Present | - |
 | Jennifer Ding <br>([@dingaaling](https://github.com/dingaaling)) | Research Application Manager, The Alan Turing Institute | 10% | 2021 - Present | - |
+| Sophia Batchelor <br>([@BrainonSilicon](https://github.com/BrainonSilicon)) | Community Manager, The Alan Turing Institute | 10% | 2022 - Present | - |
 | Carlos Martinez-Ortiz <br>([@c-martinez](https://github.com/c-martinez)) | RSE community manager, Netherlands eScience Center | in-kind contribution | Feb 2020 - Present | - |
 | Esther Plomp <br>([@EstherPlomp](https://github.com/EstherPlomp)) | Data Steward, Faculty of Applied Sciences at Delft University of Technology | in-kind contribution | Feb 2020 - Present | - |
 | Sarah Gibson <br>([@sgibson91](https://github.com/sgibson91)) | Open Source Infrastructure Engineer, 2i2c & JupyterHub Community Development | in-kind contribution | - | Prevously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
