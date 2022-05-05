@@ -36,6 +36,12 @@ You can find out more about preprints at [ASAPbio](https://asapbio.org/preprint-
 (rr-open-access-journal-publishing)=
 ### Open Access Journal publishing
 
+Traditionally many journals are subscription journals, meaning their content is behind a paywall. 
+Universities may have subscriptions to that journal, allowing you to access its content if you are based at a subscribing institution or you may be able to pay a one-off fee to access an individual article.
+
+The Open Access movement led to the creation of Open Access journals, where the content is open for everyone, with no need to pay or be a member of a subscribing institution.
+The number of these journals is still increasing rapidly, with 17,000 listed in the Directory of Open Access Journals [DOAJ](http://www.doaj.org) (data fetched November 2021). 
+
 Watch this talk by Vicky Hellon on "Brief History of scientific publishing, and where do we go from here?", where she provides an overview of how different models of scientific publication look like, and how we can take an informed approach to Open Access.
 
 <div class="video-container">
@@ -44,11 +50,6 @@ Watch this talk by Vicky Hellon on "Brief History of scientific publishing, and 
 </div>
 
 *Slides for this talk can be cited as Victoria Hellon. (2022, May 4). Scientific Publishing: a brief history and where do we go from here?. Zenodo. https://doi.org/10.5281/zenodo.6516871.*
-Traditionally many journals are subscription journals, meaning their content is behind a paywall. 
-Universities may have subscriptions to that journal, allowing you to access its content if you are based at a subscribing institution or you may be able to pay a one-off fee to access an individual article.
-
-The Open Access movement led to the creation of Open Access journals, where the content is open for everyone, with no need to pay or be a member of a subscribing institution.
-The number of these journals is still increasing rapidly, with 17,000 listed in the Directory of Open Access Journals [DOAJ](http://www.doaj.org) (data fetched November 2021). 
 
 (rr-open-access-gold-publishing)=
 #### Gold Open Access publishing
