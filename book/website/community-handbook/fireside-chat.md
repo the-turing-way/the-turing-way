@@ -50,7 +50,8 @@ Suggestions of topics for the future Fireside chat include:
 1) Hidden labour in open source: How are we changing volunteer culture?
 3) Planning sustainability for our grassroots projects
 4) Cross-community resource exchange: learning from citizen spaces
-
+5) Harnessing potential for research communication in 21st century
+6) Challenges for creating open (research) infrastructures
 ### Frequency and Duration
 
 These calls are hosted every month on the third or fourth Friday as per the common availability of all speakers.
