@@ -32,7 +32,8 @@
 
 *Can’t join this event but want to get involved? Check out other ways of connecting with us:* [http://bit.ly/turingway](*http://bit.ly/turingway*)
 
-We are looking for proposals for future discussions on *building cross-community collaborations, establishing context-specific support systems and working together towards global sustainability of the open infrastructure as part of this event series. Please propose your suggestion below or reach out to Malvika Sharan by emailing theturingway@gmail.com.*
+We are looking for proposals for future discussions on *building cross-community collaborations, establishing context-specific support systems and working together towards global sustainability of the open infrastructure as part of this event series. 
+Please propose your suggestion below or reach out to *The Turing Way* team members by emailing theturingway@gmail.com, or directly reach out to our Community Manager Anne Lee Steele on Slack.*
 
 ### 📢 Who should we feature/invite in the next session?
 
