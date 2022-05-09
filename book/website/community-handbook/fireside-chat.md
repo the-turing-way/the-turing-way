@@ -44,7 +44,7 @@ Although, *The Turing Way* hosts these calls in English, we encourage our collab
 
 ### Themes
 
-Titles of past events include "Project, Community, Reproducible Research: What Exactly is The Turing Way?", "Shared Concerns in Open Research Communities", "Gaps and opportunities for multilingual data science" and "Emergent Roles in Research Infrastructure & Technology".
+Titles of past events include "Project, Community, Reproducible Research: What Exactly is The Turing Way?", "Shared Concerns in Open Research Communities", "Gaps and opportunities for multilingual data science", "Emergent Roles in Research Infrastructure & Technology" and "Enabling inclusive research conferencing in the 'post-pandemic era'".
 
 Suggestions of topics for the future Fireside chat include:
 1) Hidden labour in open source: How are we changing volunteer culture?
