@@ -39,6 +39,7 @@ Name / Institute or affiliation / What specific aspect of GitHub do you find cha
 * Vicky
 * Andrea Sanchez Tapia
 * Malvika Sharan
+* Elisa Rodenburg
 
 🗣️ Welcome!
 
