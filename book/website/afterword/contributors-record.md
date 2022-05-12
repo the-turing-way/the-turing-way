@@ -193,14 +193,12 @@ I joined forces with Batool and Alejandro to help rethink the workflows for depl
   * GitHub id: [aleesteele](github.com/aleesteele)
   * ORCID: [0000-0002-9262-8641](https://orcid.org/0000-0002-9262-8641)
   * Short bio:
-  > Anne is the Community Manager for the Turing Way project (starting March 22), and passionate about the capacity for open source practices to make research more accessible, collaborative, and inclusive
-  > Participating in Open Life Science (OLS-5) to discuss open governance practices
-  > Early Career Fellow at The Internet Society, investigating
-  where she facilitates a collaborative resource for
-  > Curating a little project called "open source social science"
-  > Ex-resident of Wikimedia Deutschland's Unlock Accelerator & Ex-fellow at the Open Knowledge Foundation (Frictionless Data Reproducible Research)
-  > Anthropologist by training, and holds holds a bachelor's degree from Columbia University, and an MA from The Graduate Institute of International and Development Studies in Geneva, both in anthropology and sociology.
-
+  > Anne is the Community Manager for the Turing Way project (starting March 2022), and passionate about the capacity for open source practices to make research more accessible, collaborative, and inclusive
+  > Participating in Open Life Science (OLS-5) to discuss and develop open governance practices at TTW, and share resources for other
+  > Curating a little project called "open source social science":
+  > Early Career Fellow at The Internet Society, former Frictionless Data Reproducible Research Fellow at Open Knowledge Foundation, Ex-resident of Wikimedia Deutschland's Unlock Accelerator
+  > Background in data journalism and anthropology. Holds a bachelor's degree from Columbia University, and an MA from The Graduate Institute of International and Development Studies in Geneva, both in anthropology and sociology.
+  >
 
   * Personal highlights:
   >
