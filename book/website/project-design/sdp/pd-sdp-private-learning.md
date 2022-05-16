@@ -46,6 +46,6 @@ Differential privacy has also seen significant use as a technique for preserving
 ### Useful resources
 
 - [Privacy in Deep Learning: A Survey](https://cseweb.ucsd.edu/~fmireshg/survey_pvdl_2020.pdf) *A useful brief overview of some extant threats and mitigation strategies.*
-- [Deep learning and differential privacy](https://github.com/frankmcsherry/blog/blob/master/posts/2017-10-27.md) *Frank McSherry's thought provoking blog about the privacy research landscape.*
+- [Deep learning and differential privacy](https://github.com/frankmcsherry/blog/blob/fdc265de245a82beb38b9a4f28799ef12f556ac1/posts/2017-10-27.md) *Frank McSherry's thought provoking blog about the privacy research landscape.*
 - [Privacy Preserving Machine Learning: Maintaining confidentiality and preserving trust](https://www.microsoft.com/en-us/research/blog/privacy-preserving-machine-learning-maintaining-confidentiality-and-preserving-trust/) *A recent overview from Microsoft Research of privacy-preserving learning*
 - [PySyft](https://github.com/OpenMined/PySyft) *A Federated Learning and privacy preservation library designed for compatibility with major machine learning frameworks PyTorch and TensorFlow*
