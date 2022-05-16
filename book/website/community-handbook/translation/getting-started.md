@@ -76,7 +76,7 @@ alt: You can add a new language by contacting one of the managers.
 ---
 name: tasks-crowdin
 width: 90%
-alt: You can add a new language by contacting one of the managers.
+alt: You can add a new task to Crowdin by clicking on the console at the top and then navigating to the task tab at the side.
 ---
 ```
 
@@ -91,6 +91,7 @@ The arrow icon next to the the priorities files are always pointing up and colou
 ---
 name: choose-file-crowdin
 width: 90%
-alt: You can add a new language by contacting one of the managers.
+alt: Use the search box to look into the file that you would like to start translating.
 ---
 ```  
+You are now all set-up to start translating the Turing Way. In the next chapter, you will learn how to take advantage of the crowdin editor to translate strings, proofread or add comments.
