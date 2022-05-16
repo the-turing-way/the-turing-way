@@ -408,9 +408,9 @@ If, when deleting a container, a `-v` is included after `rm` in `sudo docker rm 
 
 Up until April 2020, the only way to run Docker was with root access. 
 "Rootless" mode was made available as part of the [v20.10](https://docs.docker.com/engine/security/rootless/) release.
-Rootless mode is currently only avaliable on Linux and requires an initial install of Docker >= v20.10. 
- 
-The underyling difference between Docker without and with rootless mode is that perviously any system running Docker had a daemon running as `uid0` that creates and owns all images, but with rootless mode the user creates and owns any images that they initialize.
+Rootless mode is currently only available on Linux and requires an initial install of Docker >= v20.10.
+
+The underlying difference between Docker without and with rootless mode is that previously any system running Docker had a daemon running as `uid0` that creates and owns all images, but with rootless mode the user creates and owns any images that they initialize.
 To install and run the rootless version of Docker as a non-root user, use the following commands (where `20.10` refers to the installed version of Docker):
 
 ```
