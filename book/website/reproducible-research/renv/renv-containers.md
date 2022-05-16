@@ -420,6 +420,26 @@ docker run -d --name dind-rootless --privileged docker:20.10-dind-rootless
 
 The following prequisites, which are part of the [`shadow-utils`](https://github.com/shadow-maint/shadow) package are required to run Docker rootless: `newuidmap` and `newgidmap`.
 
+(rr-renv-containers-podman)=
+## Podman
+
+[Podman](https://podman.io/) is an open-source container engine that can be seen as a compelling alternative to Docker.
+In fact, Podman provides a Docker-compatible command line interface.
+For most use cases a user familiar with Docker can simply alias the Docker command to Podman (`alias docker=podman`) and carry on as normal.
+Podman includes a [full set of tools](https://docs.podman.io/en/latest/Commands.html) to create, run and manage and share containers.
+
+Podman is free and open-source software released under the Apache License 2.0.
+This is in contrast to Docker which has some open-source components, such as the engine and command line interface, but also develops closed-source, [subscription-requiring](https://www.docker.com/blog/updating-product-subscriptions/) software including the Docker Desktop clients for Mac and Windows.
+
+Podman can interact with [Open Container Initiative](https://opencontainers.org/) containers images, which includes Docker images hosted on Docker Hub.
+This means it is likely existing projects using Docker can be migrated to Podman.
+
+Unlike Docker which uses a daemon running as root, Podman is daemonless.
+Unprivileged users can run Podman commands, most likely with no additional configuration needed.
+By default, Podman containers are unprivileged and are not able to modify the host system.
+Containers can be run in privileged mode which lifts these restrictions but containers never have more privileges than the account that runs them.
+This avoids a problem with Docker where users able to run containers have implicit access to the Docker daemon. The Daemon is run by root by default and provides a fairly trivial way to escalate privileges.
+
 (rr-renv-containers-singularity)=
 ## Singularity
 
