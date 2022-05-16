@@ -15,4 +15,16 @@ The comfortable mode is divided into four sections:
 4. **Right sidebar:** You can use it to add comments, report issues and see the existing glossary available for the strings.
 
 
-Using the Main menu in the top left corner you can switch between
+```{figure} ../../figures/crowdin-editor.png
+---
+name: crowdin-editor
+width: 90%
+alt: The crowdin editor with four sections labelled from number 1-4.
+---
+```  
+
+The Middle-top area (3) is the main working area with the source string on the top, and the section where you can type in translations below.
+
+The context to the string is shown right below the source string. Typically it can include descriptions and screenshots. You can request context from here if necessary.
+
+The terms that were added to the project glossary will be underlined in the source string. You can check additional explanation added to the term for the accurate translation. A project manager can also give you permission to add terms to the project glossary.
