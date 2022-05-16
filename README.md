@@ -765,17 +765,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
                   <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
                   <br />
                   <sub>
-                      <b>OSCSA</b>
-                  </sub>
-                  <br />
-                  <sub>
-                      <b>0 words</b>
-                  </sub>
-              </td>
-              <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
-                  <br />
-                  <sub>
                       <b>Daliyah</b>
                   </sub>
                   <br />
@@ -816,17 +805,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
                       <b>0 words</b>
                   </sub>
               </td>
-              <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
-                  <br />
-                  <sub>
-                      <b>Batool M (alternatives-test)</b>
-                  </sub>
-                  <br />
-                  <sub>
-                      <b>0 words</b>
-                  </sub>
-              </td></tr><tr>
               <td style="text-align:center; vertical-align: top;">
                   <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
                   <br />
