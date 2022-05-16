@@ -62,7 +62,8 @@ We are committed to creating a space where people with diverse expertise and liv
 
 ```{admonition} Translation
 :class: tip
-Call for translators! We’re looking for translators to help translate this space for everyone! Read more about our translation workflow and how you can contribute to it..
+**Call for translators!** We’re looking for translators to help translate this space for everyone! 
+Read more about our translation workflow and how you can contribute to it [here]().
 ```
 
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
