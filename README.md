@@ -59,7 +59,7 @@ Reproducible research is necessary to ensure that scientific work can be trusted
 Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code.
 The goal is to ensure that all results can be independently verified and built upon in future work.
 This is sometimes easier said than done.
-Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists. 
+Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists.
 As these activities are not commonly taught, we recognise that the burden of requirement and new skill acquisition can be intimidating to individuals who are new to this world.
 _The Turing Way_ is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do" even for people who have never worked in this way before.
 It will include training material on version control, analysis testing, and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
@@ -68,7 +68,7 @@ This project is openly developed and any and all questions, comments and recomme
 ### The Team
 
 _The Turing Way_ is an open collaboration and community-driven project.
-Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member. 
+Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member.
 Long-term contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project.
 
 The project is coordinated by the co-lead investigators **Kirstie Whitaker** (founder) and **Malvika Sharan**, and hosted at [The Alan Turing Institute](https://www.turing.ac.uk/).
@@ -98,7 +98,7 @@ We have created a [promotion pack](https://github.com/alan-turing-institute/the-
 
 We release the latest version of _The Turing Way_ through the project's Zenodo archive using DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
 This DOI is a "[concept DOI](https://help.zenodo.org)" which means it will always resolve to the latest version.
-If you need to cite a specific version you can find those DOIs at the zenodo page above. 
+If you need to cite a specific version you can find those DOIs at the zenodo page above.
 DOIs allow us to archive the repository and they are really valuable to ensure that the work is tracked in academic publications.
 
 The citation will look something like this:
@@ -591,6 +591,298 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+### Crowdin Contributors
+
+<!-- CROWDIN-TRANSLATORS-START -->
+<table style="width: 100%;"><tr>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>Batool Almarzouq (batool664)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>19859 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>Mohamed Alaa Eddine Mejri (alaamejri)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>2658 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>Asma Kacem (asmakacem)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>2084 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>Boutainaelatbaoui</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>1259 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>ثناء (Thana)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>1094 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>seunlijoka</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>861 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>Muluh</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>713 words</b>
+                  </sub>
+              </td></tr><tr>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>crangelsmith</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>301 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>Nancy Aswad (nancyalaswad90)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>230 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>Salma Abdelfattah (salmaabdelfatah77)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>225 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>Andrea Sánchez-Tapia (andreasancheztapia)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>1092 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>IssaAlrubaye</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>231 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>Iman Al Hasani (ImanAlhasani)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>48 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>Gültekin Ünal (cinnetcrash)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>7 words</b>
+                  </sub>
+              </td></tr><tr>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>m (mariam.marzouq)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>4 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>OSCSA</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>0 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>Daliyah</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>0 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>Mohamed Abdelfatah (mohamedabdelfatah)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>0 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>R.Ali</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>0 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>EsraaAbdelmaksoud</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>0 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>Batool M (alternatives-test)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>0 words</b>
+                  </sub>
+              </td></tr><tr>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>Fatima Ibrahim (bintzahra97)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>0 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>ahmedeid1</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>0 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>Anne Lee Steele (aleesteele)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>0 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>acocac</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>0 words</b>
+                  </sub>
+              </td>
+              <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <br />
+                  <sub>
+                      <b>timothy22000</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>0 words</b>
+                  </sub>
+              </td></tr></table>
+<!-- CROWDIN-TRANSLATORS-END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
 Contributions of any kind welcome!
