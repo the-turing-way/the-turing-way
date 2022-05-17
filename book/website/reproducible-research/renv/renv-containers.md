@@ -446,7 +446,7 @@ This avoids a problem with Docker where users able to run containers have implic
 The Podman documentation has up-to-date instructions for [installing Podman](https://podman.io/getting-started/installation).
 
 It is important to understand that Podman is a tool for running Linux containers, which requires a Linux host.
-If your computing is running Windows or MacOS, you can use the [Podman remote client](https://github.com/containers/podman/blob/main/docs/tutorials/mac_win_client.md) to interact with Podman on a Linux virtual machine or remote Linux Host.
+If your computer is running Windows or MacOS, you can use the [Podman remote client](https://github.com/containers/podman/blob/main/docs/tutorials/mac_win_client.md) to interact with Podman on a Linux virtual machine or remote Linux Host.
 
 Alternatively, the MacOS Podman client includes the experimental `podman machine` subcommand for managing a Linux virtual machine that Podman can use.
 Detailed instructions can be found [on Podman's GitHub repository](https://github.com/containers/podman/blob/main/docs/tutorials/mac_experimental.md)
