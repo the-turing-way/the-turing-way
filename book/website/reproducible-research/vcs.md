@@ -31,7 +31,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 In this chapter, we introduce  versioning best practices regardless of tools 
 {ref}`in the workflow chapter<rr-vcs-workflow>`,
-before describing in more details the use of {ref}`git for research projects<rr-vcs-git-in-research>`
+before describing in more details the use of {ref}`git for research projects<rr-vcs-git4research>`
 that comprise documentation, datasets and code.
 Most instructions given in this chapter will be indeed geared towards Git,
 which is most commonly used by researchers,
