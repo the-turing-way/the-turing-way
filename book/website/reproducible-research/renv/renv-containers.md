@@ -435,10 +435,9 @@ Podman can interact with [Open Container Initiative](https://opencontainers.org/
 This means it is likely existing projects using Docker can be migrated to Podman.
 
 Unlike Docker which uses a daemon running as root, Podman is daemonless.
-Unprivileged users can run Podman commands, most likely with no additional configuration needed.
-By default, Podman containers are unprivileged and are not able to modify the host system.
-Containers can be run in privileged mode which lifts these restrictions but containers never have more privileges than the account that runs them.
-This avoids a problem with Docker where users able to run containers have implicit access to the Docker daemon. The Daemon is run by root by default and provides a fairly trivial way to escalate privileges.
+Unprivileged users can run containers using Podman, most likely with no additional configuration needed.
+This avoids a problem with the standard Docker configuration where users able to run containers have implicit access to the Docker daemon.
+The Daemon is run by root by default and provides a fairly trivial way to escalate privileges.
 
 (rr-renv-containers-installpodman)=
 ### Installing Podman
@@ -458,11 +457,68 @@ Many distributions (including Arch, Debian, Fedora, and Ubuntu) will apply the a
 If there are any problems the Podman documentation [has instructions for configuration](https://docs.podman.io/en/latest/markdown/podman.1.html?highlight=rootless#rootless-mode), which are as simple as two commands per user who should be able to run Podman.
 
 (rr-renv-containers-commandspodman)=
-### Podman commands
+### Podman Commands
 
 Podman has a Docker-compatible command line interface so those commands will not be reiterated here.
 The Docker commands in the {ref}`key commands <rr-renv-containers-commands>` should all work by substituting `sudo docker` with `podman`.
 Details of all commands and their options can be found [in the Podman documentation](https://docs.podman.io/en/latest/Commands.html).
+
+(rr-renv-containers-rootlesspodman)=
+### Rootless Containers
+
+Rootless containers (those run as a normal user) never have more privileges than the account that runs them.
+This is an strong security advantage to rootless containers compared to running containers as root or through the Docker daemon.
+
+```{note}
+If you are running a distribution with SELinux (for example Fedora or CentOS) you may need to add the `--privileged` flag to the Podman commands below in order to access the host filesystem inside of containers.
+```
+
+This can be demonstrated with a simple example. Create a directory and put file with some text in it:
+```
+$ mkdir tmp
+$ echo "Hello" > tmp/a.txt
+```
+
+Now mount this directory into an interactive [busybox](https://www.busybox.net/) container:
+```
+$ podman run --mount=type=bind,source=./tmp,destination=/tmp -it docker.io/library/busybox
+```
+
+In the containers shell, confirm that the session belongs to the root user:
+```
+/ # id
+uid=0(root) gid=0(root) groups=10(wheel)
+/ # whoami
+root
+```
+
+Append some text to the file created on the host, mounted at `/tmp/a.txt` in the container:
+```
+/ # echo "World!" >> /tmp/a.txt
+```
+
+Create a new file in the `tmp` directory and close the container:
+```
+/ # touch /tmp/b.txt
+/ # exit
+```
+
+Inspect the files in `tmp` on the host. The file `a.txt` was modified by the container process:
+```
+$ cat tmp/a.txt
+Hello
+World!
+```
+
+The file `b.txt` was created. However, despite being created by `root` inside the container, on the host it is owned by the user which ran the container. This can be checked with `ls -l tmp/b.txt`.
+
+It is also impossible to read or modify files that the user running the container would not be able to. For example, the `/etc/shadow` file which contains users' hashed passwords:
+
+```
+$ podman run --mount=type=bind,source=/etc/shadow,destination=/shadow -it docker.io/library/busybox/
+/ # cat /shadow
+cat: can't open '/shadow': Permission denied
+```
 
 (rr-renv-containers-singularity)=
 ## Singularity
