@@ -588,7 +588,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 </table>
 
 <!-- markdownlint-restore -->
+
 <!-- prettier-ignore-end -->
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
+Contributions of any kind welcome!
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
@@ -597,7 +600,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- CROWDIN-TRANSLATORS-START -->
 <table style="width: 100%;"><tr>
               <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/1/medium/0c17284a2e87d9a1933f711746212298.jpeg"/>
                   <br />
                   <sub>
                       <b>Batool Almarzouq (batool664)</b>
@@ -608,7 +611,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
                   </sub>
               </td>
               <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/12/medium/112dffa3e5cc1fbd7fbbd3e9bfd520dc_default.png"/>
                   <br />
                   <sub>
                       <b>Mohamed Alaa Eddine Mejri (alaamejri)</b>
@@ -619,7 +622,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
                   </sub>
               </td>
               <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/26/medium/5b77163808ce530c50d295f1336507d8_default.png"/>
                   <br />
                   <sub>
                       <b>Asma Kacem (asmakacem)</b>
@@ -630,7 +633,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
                   </sub>
               </td>
               <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/10/medium/1b1667031f9e47e186ffdd6b8a184dfe.png"/>
                   <br />
                   <sub>
                       <b>Boutainaelatbaoui</b>
@@ -641,7 +644,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
                   </sub>
               </td>
               <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/20/medium/32627112ab709769f5d1406937ed9558.jpg"/>
                   <br />
                   <sub>
                       <b>ثناء (Thana)</b>
@@ -652,7 +655,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
                   </sub>
               </td>
               <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/18/medium/4eaefb611f9a4efb0dbe090002e56c31_default.png"/>
                   <br />
                   <sub>
                       <b>seunlijoka</b>
@@ -663,7 +666,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
                   </sub>
               </td>
               <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/52/medium/1270d5b75e2b6b35d222b9e1c19b973f_default.png"/>
                   <br />
                   <sub>
                       <b>Muluh</b>
@@ -674,7 +677,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
                   </sub>
               </td></tr><tr>
               <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/7/medium/ba8209f4544bc4fcf882f35ba295bc5c_default.png"/>
                   <br />
                   <sub>
                       <b>crangelsmith</b>
@@ -685,7 +688,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
                   </sub>
               </td>
               <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/8/medium/d6d807e129e1bb3c24aa1635afeb6d09.jpeg"/>
                   <br />
                   <sub>
                       <b>Nancy Aswad (nancyalaswad90)</b>
@@ -696,7 +699,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
                   </sub>
               </td>
               <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/48/medium/42082ab79726e9cee6033ad20c017722.jpeg"/>
                   <br />
                   <sub>
                       <b>Salma Abdelfattah (salmaabdelfatah77)</b>
@@ -707,7 +710,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
                   </sub>
               </td>
               <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/3/medium/83bd007136a00d1a9fa70f1f14afbb66_default.png"/>
                   <br />
                   <sub>
                       <b>Andrea Sánchez-Tapia (andreasancheztapia)</b>
@@ -718,7 +721,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
                   </sub>
               </td>
               <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/36/medium/7fedad8f1ac74abc71cb774f8b7236ca.png"/>
                   <br />
                   <sub>
                       <b>IssaAlrubaye</b>
@@ -729,7 +732,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
                   </sub>
               </td>
               <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/60/medium/dd415fa9f35bc08f229498c49bf053ea.JPG"/>
                   <br />
                   <sub>
                       <b>Iman Al Hasani (ImanAlhasani)</b>
@@ -740,7 +743,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
                   </sub>
               </td>
               <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/62/medium/ba0593097d63731f2da78ae9e0ed3296.jpeg"/>
                   <br />
                   <sub>
                       <b>Gültekin Ünal (cinnetcrash)</b>
@@ -751,7 +754,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
                   </sub>
               </td></tr><tr>
               <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/44/medium/8ccfacf885f9ced9a03d32d7c71cad82.jpeg"/>
                   <br />
                   <sub>
                       <b>m (mariam.marzouq)</b>
@@ -762,105 +765,17 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
                   </sub>
               </td>
               <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
+                  <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/56/medium/0bd616fb7b1b40cd49f33af973d4dc8b_default.png"/>
                   <br />
                   <sub>
                       <b>Daliyah</b>
                   </sub>
                   <br />
                   <sub>
-                      <b>0 words</b>
+                      <b>50 words</b>
                   </sub>
               </td>
-              <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
-                  <br />
-                  <sub>
-                      <b>Mohamed Abdelfatah (mohamedabdelfatah)</b>
-                  </sub>
-                  <br />
-                  <sub>
-                      <b>0 words</b>
-                  </sub>
-              </td>
-              <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
-                  <br />
-                  <sub>
-                      <b>R.Ali</b>
-                  </sub>
-                  <br />
-                  <sub>
-                      <b>0 words</b>
-                  </sub>
-              </td>
-              <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
-                  <br />
-                  <sub>
-                      <b>EsraaAbdelmaksoud</b>
-                  </sub>
-                  <br />
-                  <sub>
-                      <b>0 words</b>
-                  </sub>
-              </td>
-              <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
-                  <br />
-                  <sub>
-                      <b>Fatima Ibrahim (bintzahra97)</b>
-                  </sub>
-                  <br />
-                  <sub>
-                      <b>0 words</b>
-                  </sub>
-              </td>
-              <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
-                  <br />
-                  <sub>
-                      <b>ahmedeid1</b>
-                  </sub>
-                  <br />
-                  <sub>
-                      <b>0 words</b>
-                  </sub>
-              </td>
-              <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
-                  <br />
-                  <sub>
-                      <b>Anne Lee Steele (aleesteele)</b>
-                  </sub>
-                  <br />
-                  <sub>
-                      <b>0 words</b>
-                  </sub>
-              </td>
-              <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
-                  <br />
-                  <sub>
-                      <b>acocac</b>
-                  </sub>
-                  <br />
-                  <sub>
-                      <b>0 words</b>
-                  </sub>
-              </td>
-              <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://i2.wp.com/crowdin.com/images/user-picture.png?ssl=1"/>
-                  <br />
-                  <sub>
-                      <b>timothy22000</b>
-                  </sub>
-                  <br />
-                  <sub>
-                      <b>0 words</b>
-                  </sub>
-              </td></tr></table>
+
 <!-- CROWDIN-TRANSLATORS-END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
-Contributions of any kind welcome!
+Contributors from [Crowdin](https://turingway.crowdin.com/turing-way) are added using the [crowdin-contributors](https://github.com/dies/crowdin-contributors) specification! Please let us know if your contribution isn't added!
