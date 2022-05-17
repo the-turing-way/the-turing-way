@@ -17,6 +17,13 @@ Used under a CC-BY 4.0 licence.
 DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 ```
 
+### Examples for Localisation Platforms:
+
+- [Transifex](https://www.transifex.com/)
+- [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE)
+- [Lokalise](https://lokalise.com/)
+- [Pontoon](https://pontoon.mozilla.org/)
+
 ### Features of Localisation Platforms:
 
 - **Translation Memory**
@@ -37,11 +44,3 @@ Screenshots provide context to the text for translation. TMS offers the opportun
 - **QA checks**
 
 Many TMS support QA checks. These can include spelling and/or grammatical errors, inconsistent placeholders, and unbalanced brackets. These QA checks make the translation process smoother for translators.
-
-
-### Examples for Localisation Platforms:
-
-- [Transifex](https://www.transifex.com/)
-- [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE)
-- [Lokalise](https://lokalise.com/)
-- [Pontoon](https://pontoon.mozilla.org/)
