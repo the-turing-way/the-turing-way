@@ -15,6 +15,13 @@ Used under a CC-BY 4.0 licence.
 DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 ```
 
+### Examples for Localisation Platforms:
+
+- [Transifex](https://www.transifex.com/)
+- [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE)
+- [Lokalise](https://lokalise.com/)
+- [Pontoon](https://pontoon.mozilla.org/)
+
 ### Features of Localisation Platforms:
 
 - **Translation Memory**
@@ -25,7 +32,7 @@ Translation Memory can be described as a database of sentences or texts and thei
 A glossary is a collection of the key terms that are used in the project to ensure consistency. The glossary helps in creating, storing, and managing all the project terminology in one place.
 - **Machine Translation**
 
-Machine Translation can speed up the translation process. It provides translation suggestions from automatic translation services like Google Translate and AutoML Translation, Microsoft Translate, and more. 
+Machine Translation can speed up the translation process. It provides translation suggestions from automatic translation services like Google Translate and AutoML Translation, Microsoft Translate, and more.
 - **Integration with GitHub**
 
 Continuous integration is vital for automation in open sources projects. Many localisation platforms offer integration with GitHub, which synchronises source and translation files between your GitHub repository and translation project.
@@ -35,11 +42,3 @@ Screenshots provide context to the text for translation. TMS offer the opportuni
 - **QA checks**
 
 Many TMS support QA checks. These can include spelling and/or grammatical errors, inconsistent placeholders, and unbalanced brackets. These QA checks make the translation process smoother for translators.
-
-
-### Examples for Localisation Platforms:
-
-- [Transifex](https://www.transifex.com/)
-- [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE)
-- [Lokalise](https://lokalise.com/)
-- [Pontoon](https://pontoon.mozilla.org/)
