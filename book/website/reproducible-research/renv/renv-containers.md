@@ -463,6 +463,14 @@ Podman has a Docker-compatible command line interface so those commands will not
 The Docker commands in the {ref}`key commands <rr-renv-containers-commands>` should all work by substituting `sudo docker` with `podman`.
 Details of all commands and their options can be found [in the Podman documentation](https://docs.podman.io/en/latest/Commands.html).
 
+
+(rr-renv-containers-imagespodman)=
+### Building Container Images
+
+Podman can build container images using the `podman build` command.
+Podman will build images from either Dockerfiles or Containerfiles.
+Containerfiles use the same format as Dockerfiles, which are discussed in {ref}`Writing Dockerfiles <rr-renv-containers-dockerfiles>`
+
 (rr-renv-containers-rootlesspodman)=
 ### Rootless Containers
 
