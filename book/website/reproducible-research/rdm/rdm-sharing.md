@@ -18,7 +18,7 @@ You can read more about why data should be available, and why some data should r
 
 ### Step 1: Select what data you want to share
 
-Not all data can be made openly available, due to ethical and commercial concerns (see the {ref}`Open Data section <rr-open-data>), and you may decide that some of your intermediate data is too large to share.
+Not all data can be made openly available, due to ethical and commercial concerns (see the {ref}`Open Data section <rr-open-data>`), and you may decide that some of your intermediate data is too large to share.
 As such, you first need to decide which data you need to share for others to be able to reproduce your research.
 
 ### Step 2: Choose a data repository or other sharing platform
