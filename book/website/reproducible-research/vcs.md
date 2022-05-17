@@ -20,8 +20,7 @@ For example, when writing a paper with multiple collaborators, version control c
 
 
 
-```
-{figure}  ../figures/project-history.jpg
+```{figure}  ../figures/project-history.jpg
 ---
 name: project-history
 alt: Contrast in project history management. On the left - choosing between ambiguously named files. On the right - picking between successive versions (from V01 to V06).
@@ -31,7 +30,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 
 In this chapter, we introduce  versioning best practices regardless of tools 
-{ref}`in the workflow chapter<vcs-workflow>`,
+{ref}`vcs-workflow<in the workflow chapter>`,
 before describing in more details the use of {ref}`git for research projects<vcs-git-in-research>`
 that comprise documentation, datasets and code.
 Most instructions given in this chapter will be indeed geared towards Git,
