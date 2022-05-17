@@ -114,7 +114,7 @@ While you wait, BinderHub (the backend of Binder) is:
 
 ````{tabbed} Python
 1. From the launch panel, select "Terminal"
-2. In the new terminal window, type `python hello.py` and press return
+2. In the new terminal window, type `run hello.py` and press return
 ````
 
 ````{tabbed} Julia
