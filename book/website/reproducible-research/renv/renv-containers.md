@@ -457,6 +457,13 @@ For most recent Linux distributions you should [find Podman in the official repo
 Many distributions (including Arch, Debian, Fedora, and Ubuntu) will apply the appropriate configuration to let unprivileged users run Podman automatically.
 If there are any problems the Podman documentation [has instructions for configuration](https://docs.podman.io/en/latest/markdown/podman.1.html?highlight=rootless#rootless-mode), which are as simple as two commands per user who should be able to run Podman.
 
+(rr-renv-containers-commandspodman)=
+### Podman commands
+
+Podman has a Docker-compatible command line interface so those commands will not be reiterated here.
+The Docker commands in the {ref}`key commands <rr-renv-containers-commands>` should all work by substituting `sudo docker` with `podman`.
+Details of all commands and their options can be found [in the Podman documentation](https://docs.podman.io/en/latest/Commands.html).
+
 (rr-renv-containers-singularity)=
 ## Singularity
 
