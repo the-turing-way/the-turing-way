@@ -1,7 +1,9 @@
 (rr-rdm-ro)=
 # Research Object to capture the Research Life Cycle
 
-A Research Object ...
+Research outcomes encompass publications, data, software, bibliographical material and any other resources (experimental protocols, standards, etc.) that can be potentially useful for conduting the research. 
+
+A Research Object is a **machine readable "bundle"** of all research artefacts as a whole.
 
 (rr-rdm-ro-motivations)=
 ##  Motivations for working with Research Objects 
