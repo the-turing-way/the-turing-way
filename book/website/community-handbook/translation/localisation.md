@@ -2,6 +2,11 @@
 
 ## Localisation Platforms and Translation
 
+
+Localization (l10n) and internationalization (i18n) are important aspects in the design of any open-source project or documents.  Internationalization allows open-source project to support and satisfy the needs of multiple locales, thus “enabling” localization, which is the adaptation of it to meet the language, cultural of a specific target locale.  World Wide Web Consortium (W3C) define internationalization (i18n) as:
+> The design and development of a product, application or document content that enables easy localization for target audiences that vary in culture, region, or language.
+
+
 Localisation involves more than just translation, which only transforms text. Localisation addresses other factors such as text length and cultural references.  **A Translation Management System (TMS)** manages the localisation process from the beginning of a translation process until the finished product. They are widely used in Open source projects because they offer many advantages such as workflow, automation, transparency, and fast project delivery.
 
 ```{figure} ../../figures/Translation_management_systems.jpg
