@@ -600,17 +600,6 @@ Contributions of any kind welcome!
 <!-- CROWDIN-TRANSLATORS-START -->
 <table style="width: 100%;"><tr>
               <td style="text-align:center; vertical-align: top;">
-                  <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/1/medium/0c17284a2e87d9a1933f711746212298.jpeg"/>
-                  <br />
-                  <sub>
-                      <b>Batool Almarzouq (batool664)</b>
-                  </sub>
-                  <br />
-                  <sub>
-                      <b>19859 words</b>
-                  </sub>
-              </td>
-              <td style="text-align:center; vertical-align: top;">
                   <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/12/medium/112dffa3e5cc1fbd7fbbd3e9bfd520dc_default.png"/>
                   <br />
                   <sub>
@@ -667,7 +656,6 @@ Contributions of any kind welcome!
               </td>
               <td style="text-align:center; vertical-align: top;">
                   <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/52/medium/1270d5b75e2b6b35d222b9e1c19b973f_default.png"/>
-                  <br />
                   <sub>
                       <b>Muluh</b>
                   </sub>
@@ -729,6 +717,17 @@ Contributions of any kind welcome!
                   <br />
                   <sub>
                       <b>231 words</b>
+                  </sub>
+              </td>
+                <td style="text-align:center; vertical-align: top;">
+                  <img style="width: 58px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/1/medium/0c17284a2e87d9a1933f711746212298.jpeg"/>
+                  <br />
+                  <sub>
+                      <b>Batool Almarzouq (batool664)</b>
+                  </sub>
+                  <br />
+                  <sub>
+                      <b>19859 words</b>
                   </sub>
               </td>
               <td style="text-align:center; vertical-align: top;">
