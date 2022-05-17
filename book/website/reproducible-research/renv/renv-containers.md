@@ -440,6 +440,23 @@ By default, Podman containers are unprivileged and are not able to modify the ho
 Containers can be run in privileged mode which lifts these restrictions but containers never have more privileges than the account that runs them.
 This avoids a problem with Docker where users able to run containers have implicit access to the Docker daemon. The Daemon is run by root by default and provides a fairly trivial way to escalate privileges.
 
+(rr-renv-containers-installpodman)=
+### Installing Podman
+
+The Podman documentation has up-to-date instructions for [installing Podman](https://podman.io/getting-started/installation).
+
+It is important to understand that Podman is a tool for running Linux containers, which requires a Linux host.
+If your computing is running Windows or MacOS, you can use the [Podman remote client](https://github.com/containers/podman/blob/main/docs/tutorials/mac_win_client.md) to interact with Podman on a Linux virtual machine or remote Linux Host.
+
+Alternatively, the MacOS Podman client includes the experimental `podman machine` subcommand for managing a Linux virtual machine that Podman can use.
+Detailed instructions can be found [on Podman's GitHub repository](https://github.com/containers/podman/blob/main/docs/tutorials/mac_experimental.md)
+On Windows you can also run Podman in the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/) (>= 2.0).
+[This RedHat blog post](https://www.redhat.com/sysadmin/podman-windows-wsl2) has instructions.
+
+For most recent Linux distributions you should [find Podman in the official repositories](https://podman.io/getting-started/installation#linux-distributions).
+Many distributions (including Arch, Debian, Fedora, and Ubuntu) will apply the appropriate configuration to let unprivileged users run Podman automatically.
+If there are any problems the Podman documentation [has instructions for configuration](https://docs.podman.io/en/latest/markdown/podman.1.html?highlight=rootless#rootless-mode), which are as simple as two commands per user who should be able to run Podman.
+
 (rr-renv-containers-singularity)=
 ## Singularity
 
