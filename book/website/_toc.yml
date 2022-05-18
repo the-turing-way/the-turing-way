@@ -335,7 +335,7 @@ parts:
       - title: Managing multiple twitter accounts
         file: communication/social-media/social-media-twitter-multiple
     - title: Research Objects in Action
-      file: communication/research-object
+      file: communication/research-objects
     - title: Making Research Objects Citable
       file: communication/citable
       sections:
