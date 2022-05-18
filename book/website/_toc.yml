@@ -431,7 +431,7 @@ parts:
         file: collaboration/new-community/new-community-differences
       - title: Teamwork
         file: collaboration/new-community/new-community-teamwork
-    - title: Leadership in Data Science
+    - title: Leadership in Research and Data Science
       file: collaboration/leadership
       sections:
       - title: Important Features of Leadership
@@ -444,8 +444,8 @@ parts:
         file: collaboration/leadership/leadership-opportunities
       - title: What to Avoid in Leadership
         file: collaboration/leadership/leadership-avoid
-      - title: Personal Stories of Leadership
-        file: collaboration/leadership/leadership-stories
+      - title: Personal Story from Running a Hackathon
+        file: collaboration/leadership/leadership-story-hackathon
     - title: Research Infrastructure Roles
       file: collaboration/research-infrastructure-roles
       sections:

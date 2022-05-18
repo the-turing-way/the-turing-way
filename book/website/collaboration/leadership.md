@@ -1,5 +1,5 @@
 (cl-leadership)=
-# Leadership in Data Science
+# Leadership in Data Science and Research
 
 ## Overview
 
