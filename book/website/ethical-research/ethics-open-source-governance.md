@@ -1,5 +1,5 @@
 (er-ethics-open-source-governance)=
-# Ethical considerations when choosing an Open Source governance model
+# Ethical Considerations when Choosing an Open Source Governance Model
 
 
 (er-ethics-open-source-governance-summary)=
