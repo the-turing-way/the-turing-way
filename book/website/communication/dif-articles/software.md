@@ -1,5 +1,5 @@
 (cm-dif-articles-software)=
-# Software papers 
+# Software Papers 
 
 (cm-dif-articles-software-what)=
 ## What are Software Papers?
