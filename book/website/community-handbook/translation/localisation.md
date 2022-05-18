@@ -4,10 +4,10 @@
 
 
 Localization (l10n) and internationalization (i18n) are important aspects in the design of any open-source project or documents.  Internationalization allows open-source project to support and satisfy the needs of multiple locales, thus “enabling” localization, which is the adaptation of it to meet the language, cultural of a specific target locale.  World Wide Web Consortium (W3C) define internationalization (i18n) as:
-> The design and development of a product, application or document content that enables easy localization for target audiences that vary in culture, region, or language.
+> "The design and development of a product, application or document content that enables easy localization for target audiences that vary in culture, region, or language"
 
 
-Localisation involves more than just translation, which only transforms text. Localisation addresses other factors such as text length and cultural references.  **A Translation Management System (TMS)** manages the localisation process from the beginning of a translation process until the finished product. They are widely used in Open source projects because they offer many advantages such as workflow, automation, transparency, and fast project delivery.
+ **A Translation Management System (TMS)** manages the localisation process from the beginning of a translation process until the finished product. They are widely used in Open source projects because they offer many advantages such as workflow, automation, transparency, and fast project delivery.
 
 Localisation involves more than just translation, which only transforms text. Localisation addresses other factors such as text length and cultural references.  **A Translation Management System (TMS)** manages the localisation process from the beginning of a translation process until the finished product. They are widely used in Open source projects because they offer many advantages such as workflow, automation, transparency, and fast project delivery.
 
@@ -23,6 +23,8 @@ DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 ```
 
 ### Examples for Localisation Platforms:
+
+Many open source projects are localised using Translation Management System (TMS) such as [GitLab](https://crowdin.com/project/gitlab-ee), [FreeCAD](https://crowdin.com/project/freecad), [electron](https://crowdin.com/project/electron), [PostgreSQL](https://crowdin.com/project/postgresql), [OBS Studio](https://crowdin.com/project/obs-studio).
 
 - [Transifex](https://www.transifex.com/)
 - [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE)
@@ -49,3 +51,5 @@ Screenshots provide context to the text for translation. TMS offers the opportun
 - **QA checks**
 
 Many TMS support QA checks. These can include spelling and/or grammatical errors, inconsistent placeholders, and unbalanced brackets. These QA checks make the translation process smoother for translators.
+
+In the next chapter, you'll be introduced to Crowdin and how we use it translate _The Turing Way_.
