@@ -103,7 +103,7 @@ This structured approach, using a template, makes data papers simple to write.
 They are meant to be fairly short and to the point therefore much less time consuming than writing a research article.
 
 (cm-dif-articles-data-review)=
-## How do you review a Data Paper
+## How do you review a Data Paper?
 
 You can find general guidance on how to peer review a paper in our peer review chapter [here](https://the-turing-way.netlify.app/communication/peer-review.html). 
 
