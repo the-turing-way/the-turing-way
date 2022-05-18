@@ -1,5 +1,5 @@
 (cl-leadership-features)=
-# Important features of leadership
+# Important Features of Leadership
 
 Leaders empower others to identify solutions and make their own decisions to address the challenges they face.
 
@@ -9,7 +9,7 @@ Her statement points to the leadership skill of involving the members of a group
 
 With this basic understanding of leadership, we discuss some essential leadership features, in contrast to management, in this subchapter.
 
-## Assigned leadership
+## Assigned Leadership
 
 Like a project manager in a team-based research project or a tech company CEO, there are formally-assigned leadership positions.
 
@@ -27,13 +27,13 @@ As soon as there is more than one person involved, for example, in a group proje
 
 Such emergent leadership opportunities allow individuals to explore, learn, and exhibit leadership skills and ultimately become leaders themselves.
 
-## Others grant leadership
+## Leadership is Granted by Others
 
 Outstanding leadership is often sought and studied because teams, organizations, and people work at their highest potential, building extraordinary results when following good leaders.
 
 Yet, one main characteristic of leadership is that it is granted by others who decide to follow someone as a leader in a specific setting.
 
-## Leaders are made, not born
+## Leaders are Made, not Born
 
 As with any other human aspect, leadership can be built and learned.
 

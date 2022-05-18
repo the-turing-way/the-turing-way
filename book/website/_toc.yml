@@ -431,6 +431,19 @@ parts:
         file: collaboration/new-community/new-community-differences
       - title: Teamwork
         file: collaboration/new-community/new-community-teamwork
+    - title: Research Infrastructure Roles
+      file: collaboration/research-infrastructure-roles
+      sections:
+      - title: Community Managers Overview
+        file: collaboration/research-infrastructure-roles/community-manager
+      - title: Data Stewards Overview
+        file: collaboration/research-infrastructure-roles/data-steward
+      - title: Data Steward Case Study
+        file: collaboration/research-infrastructure-roles/data-steward/data-steward-casestudy
+      - title: Research Software Engineers Overview
+        file: collaboration/research-infrastructure-roles/research-software-engineer
+      - title: Research Application Manager Overview
+        file: collaboration/research-infrastructure-roles/ram
     - title: Leadership in Research and Data Science
       file: collaboration/leadership
       sections:
@@ -446,19 +459,6 @@ parts:
         file: collaboration/leadership/leadership-avoid
       - title: Personal Story from Running a Hackathon
         file: collaboration/leadership/leadership-story-hackathon
-    - title: Research Infrastructure Roles
-      file: collaboration/research-infrastructure-roles
-      sections:
-      - title: Community Managers Overview
-        file: collaboration/research-infrastructure-roles/community-manager
-      - title: Data Stewards Overview
-        file: collaboration/research-infrastructure-roles/data-steward
-      - title: Data Steward Case Study
-        file: collaboration/research-infrastructure-roles/data-steward/data-steward-casestudy
-      - title: Research Software Engineers Overview
-        file: collaboration/research-infrastructure-roles/research-software-engineer
-      - title: Research Application Manager Overview
-        file: collaboration/research-infrastructure-roles/ram       
     - title: Remote Collaboration
       file: collaboration/remote-collab
       sections:

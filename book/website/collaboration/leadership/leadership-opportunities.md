@@ -1,9 +1,11 @@
 (cl-leadership-opportunities)=
 # Creating Leadership Opportunities
 
-<!---need to add content--->
+Add contents from the Book Dash social discussions on Emergent leadership and infrastructure roles.
 
-## Onboarding new leaders
+## Onboarding, Nurturing and Offboarding Gracefully
+
+### Onboarding new leaders
 
 <!---[this video](https://www.youtube.com/watch?v=HQjRnWVmL28) and these notes https://github.com/jupytercon/2020-willingc/tree/master/notebooks
 
@@ -23,36 +25,3 @@ Blind spots are particularly challenging in multicultural, sometimes even global
 ## Offboarding gracefully
 
 Offboarding leaders gracefully, maybe using a guide, so they can step down if needed. Allow leaders to step down before they burn out.
-
-## Some examples of leadership in data science and data science-related community projects
-
-### The Turing Way
-
-* Lead of translation effort at The Turing Way
-* Lead of maintenance
-* Gove
-
-<!---need to add content--->
-
-### Open Life Science and Mozilla Life Science
-
-<!---need to add content--->
-
-### The Carpentries
-
-* Champions
-* Executive committees
-
-<!---need to add content--->
-
-### PyLadies
-
-<!---need to add content--->
-
-### R-Ladies
-
-<!---need to add content--->
-
-### MetaDocencia
-
-<!---need to add content--->
