@@ -1,3 +1,4 @@
+(cm-dif-articles-registered-reports)=
 ## What are Registered Reports?
 Registered Reports are an article type divided into two published parts- a study protocol and a research article. 
 The study protocol is reviewed **prior** to the data being collected and the research being carried out. 
@@ -17,7 +18,7 @@ Registered reports are a form of pre-registration, which you can read more about
 Around 300 journals publish the registered report format. 
 You can find a full list [here](https://www.cos.io/initiatives/registered-reports).
 
-
+(cm-dif-articles-registered-reports-why)=
 ## Why write a Registered Report?
 
 Registered reports began in psychology, but this format has now spread and can be used in any field.
@@ -34,7 +35,7 @@ This frees up researchers to be rewarded for simply doing good and transparent s
 
 Registered reports are also a useful format for researchers who want to carry out replication studies and other novel, resource-intensive projects that may otherwise be too risky to attempt where successful publication is contingent on the results. More info here- https://royalsociety.org/blog/2016/11/registered-reports-what-are-they-and-why-are-they-important/
 
-
+(cm-dif-articles-registered-reports-how)=
 ## How do you write a Registered Report?
 
 You will write your registered report in two parts. 
@@ -48,7 +49,7 @@ This should include the introduction and methods from your original stage 1 arti
 You should include the outcome of all the analyses you outlined in your stage 1 protocol. 
 If you undertook any further analyses that you didn't outline in your protocol then you should report these too with clear justification and methodological details.
 
-
+(cm-dif-articles-registered-reports-review)=
 ## How do you review a Registered Report?
 
 You can find general guidance on how to peer review a paper in our peer review chapter [here](https://the-turing-way.netlify.app/communication/peer-review.html). 
