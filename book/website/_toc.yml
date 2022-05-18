@@ -448,7 +448,7 @@ parts:
       - title: Research Software Engineers Overview
         file: collaboration/research-infrastructure-roles/research-software-engineer
       - title: Research Application Manager Overview
-        file: collaboration/research-infrastructure-roles/ram       
+        file: collaboration/research-infrastructure-roles/ram
     - title: Remote Collaboration
       file: collaboration/remote-collab
       sections:
@@ -583,18 +583,18 @@ parts:
       - title: Different Contributions and Acknowledgements
         file: community-handbook/acknowledgement/acknowledgement-examples
     - title: Translation
-      file: community-handbook/translation 
+      file: community-handbook/translation
       sections:
       - title: Translation of Open Source Projects
-        file: community-handbook/translation/localisation.md      
+        file: community-handbook/translation/localisation.md
       - title: Get Started Now!
-        file: community-handbook/translation/getting-started.md 
-      - title: Demystifying Crowdin! 
-        file: community-handbook/translation/hello-crowdin.md 
-      - title: l10n of the Illustrations     
-        file: community-handbook/translation/illustrations.md 
+        file: community-handbook/translation/getting-started.md
+      - title: Crowdin 101 
+        file: community-handbook/translation/hello-crowdin.md
+      - title: l10n of the Illustrations
+        file: community-handbook/translation/illustrations.md
       - title: Translation Workflow
-        file: community-handbook/translation/workflow.md 
+        file: community-handbook/translation/workflow.md
     - title: Monthly Newsletters
       file: community-handbook/newsletters
       sections:
