@@ -1,5 +1,8 @@
+
+(cm-dif-articles-micropublishing)=
 # Micropublishing
 
+(cm-dif-articles-micropublishing-what)=
 ## What is Micropublishing?
 
 A micropublication can be thought of as a mini research article - they are a small, simple article describing a single result or claim without a broader narrative. 
@@ -19,7 +22,7 @@ You can find out more at each of the platforms:
 * [Research Equals](https://www.researchequals.com/)
 * [microPublication Biology](https://www.micropublication.org/)
 
-
+(cm-dif-articles-micropublishing-why)=
 ## Why Micropublish?
 
 Micropublishing allows you to get your work out sooner, rather than waiting till the end of your research lifecycle to just publish a traditional research article. 
@@ -31,13 +34,13 @@ Micropublications are easy to put together - the journals that publish them are 
 By publishing your smaller outputs you also get credit by having it as a citable research object. 
 This sharing of smaller outputs gets your work out into the community with potential for new collaborations. 
 
-
+(cm-dif-articles-micropublishing-how)=
 ## How do you write a Micropublication?
 
 Micropublications are designed to be concise so you should approach writing these in a short and easy to read format. 
 You may want to include the same sections you would include in a research article such as introduction, methods, results and discussion as well as a single figure.
 
-
+(cm-dif-articles-micropublishing-review)=
 ## How do you review Micropublications?
 
 You can find general guidance on how to peer review a paper in our peer review chapter [here](https://the-turing-way.netlify.app/communication/peer-review.html). 
