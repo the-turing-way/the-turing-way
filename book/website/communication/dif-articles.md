@@ -22,7 +22,7 @@ Chapters included are:
 * Methods Papers
 * Micropublishing
 * Software Papers
-* Registered reports
+* Registered Reports
 
 
 (cm-dif-articles-motivation)=
