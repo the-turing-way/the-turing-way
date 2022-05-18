@@ -351,6 +351,19 @@ parts:
         file: communication/citable/citable-orcid
       - title: Checklists and Resources
         file: communication/citable/citable-resources
+    - title: Publishing different article types
+      file: communication/dif-articles
+      sections: 
+      - title: Data Papers
+        file: communication/dif-articles/data
+      - title: Methods Paper
+        file: communication/dif-articles/methods
+      - title: Micropublishing
+        file: communication/dif-articles/micro
+      - title: Registered Reports
+        file: communication/dif-articles/reg
+      - title: Software Papers
+        file: communication/dif-articles/software   
     - title: Communications in Open Source Projects
       file: communication/os-comms
       sections:
