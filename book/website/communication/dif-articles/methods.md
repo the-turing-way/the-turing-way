@@ -8,7 +8,7 @@ Simply put methods papers detail how your research was conducted.
 Method sections have always been part of a traditional research article but have recently gained more prominence as a separate article type - allowing the method to be written in more detail and in a way that can be replicated.
 
 Method articles can describe observational, experimental, theoretical or computational methods or procedures. 
-Some method articles may also be describing how to apply exisiting methods to new areas/models.
+Some method articles may also be describing how to apply existing methods to new areas.
 
 Many journals accept methods articles and there are also journals that are methods only such as [Nature Methods](https://www.nature.com/nmeth/) and [BMC Medical Research Methodology](https://bmcmedresmethodol.biomedcentral.com/) which is discipline specific.
 
