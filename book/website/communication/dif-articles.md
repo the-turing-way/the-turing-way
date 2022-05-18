@@ -18,7 +18,7 @@ This chapter describes the new types of articles born out of the growth of open 
 
 Chapters included are:
 
-* Data papers 
+* Data Papers 
 * Methods papers
 * Micropublishing
 * Software papers
