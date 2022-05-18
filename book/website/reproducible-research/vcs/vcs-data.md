@@ -32,7 +32,7 @@ The reproducibility aspect of a scientific project can improve a lot if we can t
 
 
 
-```{figure} ../figures/provenance.jpg
+```{figure} ../../../figures/provenance.jpg
 ---
 height: 500px
 name: provenance
@@ -90,6 +90,14 @@ Instead, they can be pushed to a storage system (such as a web server, but also 
 If a repository with an annex is cloned, the clone will not contain the _contents_ of all annexed files by default, but display only file names.
 This makes the repository small, even if it tracks hundreds of gigabytes of data, and cloning fast, while file contents are stored in one or more free or commercial external storage solutions.
 On-demand, any file content can then be obtained with a `git-annex get` command from the external file storage.
+
+(rr-vcs-data-tools-submodules)=
+### git submodules
+
+Submodules allows to split the data in different repositories,
+while keeping everything under a single "parent" repository.
+It is very powerful, but difficult to use. 
+Especially, using  {ref}`git branches<rr-vcs-workflow-branches>` in  submodules make it complex to handle.
 
 (rr-vcs-data-tools-datalad)=
 ### DataLad
