@@ -11,6 +11,14 @@ Research Objects allow to work open by design and share during the research proc
 
 A Research Object can be implemented as a "Research Object Crate" that is a **machine readable "bundle"** of all research artefacts as a whole.
 
+```{figure} ../figures/research-object.jpg
+---
+name: orcid-ids
+alt: This image shows how research objects evolve and grow during collaboration process and how new research objects can be created.
+---
+Research Objects allow to work open by design and share during the research process and not only the research outputs at the end. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
 (cm-ro-motivation)=
 ## Background & Motivation
 
