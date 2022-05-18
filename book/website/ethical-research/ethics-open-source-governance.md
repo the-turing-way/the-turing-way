@@ -38,13 +38,13 @@ These questions may not always be captured in the initial README, however by sco
 For many projects that are community led, this means involving the people that are affected by the project’s outcome in the design, development, and deployment stages.
 True co-creation is an active process of inclusion, and there are many levels of engagement that can be tailored to a projects’ individual needs (see Figure 1. Arnstein's Ladder of Citizen Participation), which a governance model might also need to take into account, for example, how is delegated power dealt with by the project?  
 
-<this is where the Ladder of Participation Graphic should go></this>
-```{figure} ../../figures/image-name.png
+
+```{figure} ../../figures/ladder-of-participation.png
 ---
-name: image-name
-alt: describe your image for readers who rely on screen readers
+name: Ladder of Participation
+alt: Colourful graphic of Arnstein's Ladder of Participation (1969) drawn by Juliet Young. A rainbow ladder describes the different types of participation in research: manipulation, educating, informing, consultation, placation, partnership, delegated power and citizen control. 
 ---
-Your image caption here
+Figure 1. Arnstein's Ladder of Citizen Participation, illustration credit: [@clinical.creative.psychologist (Juliet Young)](https://twitter.com/juliet_young1/status/1384604477697761281)
 ```
 
 No open source project is an island, and the goal of making projects open source is to explicitly invite the use and collaboration on a project which leads to a community of contributors and collaborators making the world a better place, one commit at a time.
