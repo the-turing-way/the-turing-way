@@ -555,7 +555,95 @@ parts:
               - title: Nudging for a Better Default
                 file: collaboration/shared-ownership/shared-ownership-defaults
 
-      # ===== Guide for Ethical Research ========================================
+  - file: collaboration/collaboration
+    sections:
+    - title: Getting Started With GitHub
+      file: collaboration/github-novice
+      sections:
+      - title: Motivation for Using GitHub
+        file: collaboration/github-novice/github-novice-motivation
+      - title: First steps on GitHub
+        file: collaboration/github-novice/github-novice-firststeps
+      - title: Using more GitHub features
+        file: collaboration/github-novice/github-novice-features
+      - title: Advanced GitHub features
+        file: collaboration/github-novice/github-novice-advanced
+    - title: Maintainers and Reviewers on GitHub
+      file: collaboration/maintain-review
+      sections:
+      - title: Project Maintenance
+        file: collaboration/maintain-review/maintain-review-maintenance
+      - title: Ownership and Permissions
+        file: collaboration/maintain-review/maintain-review-permissions
+      - title: Reviewing Contributions
+        file: collaboration/maintain-review/maintain-review-review
+      - title: Merging Contributions
+        file: collaboration/maintain-review/maintain-review-merge
+      - title: Resources
+        file: collaboration/maintain-review/maintain-review-resources
+    - title: Managing a New Community and Team
+      file: collaboration/new-community
+      sections:
+      - title: Guide to Planning a Community
+        file: collaboration/new-community/new-community-guide
+      - title: Addressing Technical Issues
+        file: collaboration/new-community/new-community-techissues
+      - title: Valuing Diversity and Differences
+        file: collaboration/new-community/new-community-differences
+      - title: Teamwork
+        file: collaboration/new-community/new-community-teamwork
+    - title: Leadership in Data Science
+      file: collaboration/leadership
+      sections:
+      - title: Personal Stories of Leadership
+        file: collaboration/leadership/leadership-stories
+    - title: Research Infrastructure Roles
+      file: collaboration/research-infrastructure-roles
+      sections:
+      - title: Community Managers Overview
+        file: collaboration/research-infrastructure-roles/community-manager
+      - title: Data Stewards Overview
+        file: collaboration/research-infrastructure-roles/data-steward
+      - title: Data Steward Case Study
+        file: collaboration/research-infrastructure-roles/data-steward/data-steward-casestudy
+      - title: Research Software Engineers Overview
+        file: collaboration/research-infrastructure-roles/research-software-engineer
+      - title: Research Application Manager Overview
+        file: collaboration/research-infrastructure-roles/ram
+    - title: Remote Collaboration
+      file: collaboration/remote-collab
+      sections:
+      - title: Organising Remote Meetings
+        file: collaboration/remote-collab/remote-collab-meetings
+      - title: Guidelines for Remote Collaboration
+        file: collaboration/remote-collab/remote-collab-guidelines
+      - title: Tools for Remote Collaboration
+        file: collaboration/remote-collab/remote-collab-tools
+      - title: Organising Online Coworking Calls
+        file: collaboration/remote-collab/remote-collab-coworking
+      - title: Organising Remote Conferences
+        file: collaboration/remote-collab/remote-collab-conferences
+      - title: Chairing Remote Events
+        file: collaboration/remote-collab/remote-collab-chairs
+      - title: Participating in Remote Events
+        file: collaboration/remote-collab/remote-collab-participation
+      - title: Managing Distributed Teams
+        file: collaboration/remote-collab/remote-collab-management
+      - title: Informal Coffee Chats
+        file: collaboration/remote-collab/remote-collab-informal
+      - title: Perceived Pros and Cons
+        file: collaboration/remote-collab/remote-collab-prosandcons
+    - title: Shared Ownership in Open Source Projects
+      file: collaboration/shared-ownership
+      sections:
+      - title: Project Ownership
+        file: collaboration/shared-ownership/shared-ownership-projects
+      - title: Shared Ownership Models
+        file: collaboration/shared-ownership/shared-ownership-models
+      - title: Challenges with Applying Ownership Models Retroactively
+        file: collaboration/shared-ownership/shared-ownership-challenges
+      - title: Nudging for a Better Default
+        file: collaboration/shared-ownership/shared-ownership-defaults
 
       - file: ethical-research/ethical-research
         sections:
@@ -775,7 +863,7 @@ parts:
         file: community-handbook/translation/localisation.md
       - title: Get Started Now!
         file: community-handbook/translation/getting-started.md
-      - title: Demystifying Crowdin!
+      - title: Crowdin 101
         file: community-handbook/translation/hello-crowdin.md
       - title: l10n of the Illustrations
         file: community-handbook/translation/illustrations.md

@@ -1,6 +1,6 @@
 (ch-translation-hello-crowdin)=
 
-## Demystifying Crowdin
+## Crowdin 101
 
 Crowdin editor is your friend, you can use it to change translation language, proofread, add comments for contributors, contact manager, vote translations, view suggestions for translation from translation memory or find Machine Translation from Google, Crowdin and DeepL.
 
