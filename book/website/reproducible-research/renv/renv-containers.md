@@ -631,7 +631,7 @@ zenodo is also clearly geared towards long-term storage and discoverability via 
 Thus, it is ideally suited for storing scientific containers associated with particular analyses since these tend to not change over time.
 
 (rr-renv-containers-warning)=
-## Words of Warning
+### Words of Warning
 
 Even though singularity and docker might look similar, they are conceptually very different.
 Singularity handles the distinction between the host and container file system differently.
