@@ -11,6 +11,10 @@ To make this reproducible, not only do (i) the respective R packages need to be 
 Instead of trying to resolve these dependencies via a package manager (such as conda) -  which also depends on all required software being available in a single package manager - it might be easier to create a snapshot of the entire computing environment including all dependencies.
 These computing environments are then self-contained, hence the name 'containers'.
 
+[This RedHat blog
+post](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction)
+provides an introduction to containers and container terminology.
+
 (rr-renv-containers-what)=
 ## What are Containers?
 
