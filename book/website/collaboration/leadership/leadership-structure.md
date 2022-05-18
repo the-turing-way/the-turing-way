@@ -9,7 +9,7 @@ A way to fix structurelessness is by bringing some governance, policies, or rule
 
 Governance helps open source projects function, particularly during times of change.
 
-This tutorial by Carol Willing on [Open-source governance and leadership](https://github.com/jupytercon/2020-willingc/tree/master/notebooks) (supplementary [video](https://www.youtube.com/watch?v=HQjRnWVmL28)) is an excellent starter for learning more about forms and models of governance.
+This tutorial by Carol Willing on [Open-source governance and leadership](https://github.com/jupytercon/2020-willingc/) (supplementary [video](https://www.youtube.com/watch?v=HQjRnWVmL28)) is an excellent starter for learning more about forms and models of governance.
 
 ## Creating inclusive pathways for participation
 

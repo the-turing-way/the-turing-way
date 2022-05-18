@@ -7,7 +7,7 @@ Add contents from the Book Dash social discussions on Emergent leadership and in
 
 ### Onboarding new leaders
 
-<!---[this video](https://www.youtube.com/watch?v=HQjRnWVmL28) and these notes https://github.com/jupytercon/2020-willingc/tree/master/notebooks
+<!---[this video](https://www.youtube.com/watch?v=HQjRnWVmL28) and these notes https://github.com/jupytercon/2020-willingc/
 
 Onboarding guide.
 Increasing responsibility over time.--->
