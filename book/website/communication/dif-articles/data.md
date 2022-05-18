@@ -71,7 +71,7 @@ So writing a data paper means more impact for your research!
 
 The transparency produced by writing down your methodology in a structured way in a data paper means that your research will be easier for others to understand, reproduce and reuse. 
 A data paper accompanied with a research compendium attached to a research article is a great way to signal to others that your research is reproducible. 
-You are offering a completely transparent record of your research.
+You are providing a more transparent record of your research.
 
 Being more open and transparent, and particularly taking a reproducible research approach, makes your research more sustainable. 
 But why is this such a good thing? 
