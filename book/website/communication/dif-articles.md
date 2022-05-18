@@ -34,7 +34,7 @@ This format was often quite limiting and meant things like datasets, software (s
 This has led to the development of new article types, which allows all research outputs produced during the research lifecycle to be published in their own right and linked to the final interpretations and conclusions of a research project. 
 The linking of these articles is one way to fully publish a reproducible research project. 
 
-Having separate article types for these outputs allows the people involved (such as research software engineers, data stewards) to receive sufficient credit and impact for their work, particularly as publications are still the main currency by which researchers are evaluated.
+Having separate article types for these outputs allows the people involved, such as research software engineers, data stewards, to receive sufficient credit and impact for their work, particularly as publications are still the main currency by which researchers are evaluated.
 
 Theses articles are also important for the sustainability, reproducibility and openness of these research outputs as writing detailed publications means greater care and attention is directed at describing and explaining these outputs and in turn makes these outputs more FAIR (findable, accessible, interoperable and reusable).
 
