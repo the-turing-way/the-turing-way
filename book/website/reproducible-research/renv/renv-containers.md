@@ -333,8 +333,8 @@ To do this, Alice must:
 
 - Write a Dockerfile to produce an image of her work.
 - Build the image. She (being inventive) calls it image_name
-- Go to DockerHub and sign up for an account. Say Alice (again, being inventive) chooses the username `username_Alice`
-- Log into DockerHub via the terminal on her machine using:
+- Go to Docker Hub and sign up for an account. Say Alice (again, being inventive) chooses the username `username_Alice`
+- Log into Docker Hub via the terminal on her machine using:
   ```
   sudo docker login
   ```
@@ -355,7 +355,7 @@ sudo docker run -i -t username_Alice/image_name:version_1
 ```
 
 Initially, Docker will search for this image on Bob's machine.
-When it does not find it, it will _automatically_ search DockerHub, download Alice's image, and open the container with Alice's work and environment on Bob's machine.
+When it does not find it, it will _automatically_ search Docker Hub, download Alice's image, and open the container with Alice's work and environment on Bob's machine.
 
 (rr-renv-containers-copying)=
 ### Copying Files To And From Containers
@@ -435,22 +435,23 @@ For most use cases a user familiar with Docker can simply alias the Docker comma
 Podman includes a [full set of tools](https://docs.podman.io/en/latest/Commands.html) to create, run and manage and share containers.
 
 Podman is free and open-source software released under the Apache License 2.0.
-This is in contrast to Docker which has some open-source components, such as the engine and command line interface, but also develops closed-source, [subscription-requiring](https://www.docker.com/blog/updating-product-subscriptions/) software including the Docker Desktop clients for Mac and Windows.
+This is in contrast to Docker which has some open-source components, such as the engine and command line interface, but also develops closed-source, [subscription-requiring](https://www.docker.com/blog/updating-product-subscriptions/) software including the Docker Desktop clients for MacOS and Windows.
 
-Podman can interact with [Open Container Initiative](https://opencontainers.org/) containers images, which includes Docker images hosted on Docker Hub.
-This means it is likely existing projects using Docker can be migrated to Podman.
+All [Open Container Initiative](https://opencontainers.org/) container images can be used with Podman including Docker images hosted on Docker Hub.
+It is likely existing projects using Docker can be migrated to Podman.
 
 Unlike Docker which uses a daemon running as root, Podman is daemonless.
-Unprivileged users can run containers using Podman, most likely with no additional configuration needed.
+Unprivileged users can run containers using Podman.
+In most cases this will be configured automatically.
 This avoids a problem with the standard Docker configuration where users able to run containers have implicit access to the Docker daemon.
-The Daemon is run by root by default and provides a fairly trivial way to escalate privileges.
+The Docker Daemon is run by root by default and provides a trivial way to escalate privileges and get a high level of access to the hosts devices and filesystem.
 
 (rr-renv-containers-installpodman)=
 ### Installing Podman
 
 The Podman documentation has up-to-date instructions for [installing Podman](https://podman.io/getting-started/installation).
 
-It is important to understand that Podman is a tool for running Linux containers, which requires a Linux host.
+It is important to understand that Podman is a tool for running Linux containers and so it requires a Linux host.
 If your computer is running Windows or MacOS, you can use the [Podman remote client](https://github.com/containers/podman/blob/main/docs/tutorials/mac_win_client.md) to interact with Podman on a Linux virtual machine or remote Linux Host.
 
 Alternatively, the MacOS Podman client includes the experimental `podman machine` subcommand for managing a Linux virtual machine that Podman can use.
@@ -459,8 +460,9 @@ On Windows you can also run Podman in the [Windows Subsystem for Linux](https://
 [This RedHat blog post](https://www.redhat.com/sysadmin/podman-windows-wsl2) has instructions.
 
 For most recent Linux distributions you should [find Podman in the official repositories](https://podman.io/getting-started/installation#linux-distributions).
-Many distributions (including Arch, Debian, Fedora, and Ubuntu) will apply the appropriate configuration to let unprivileged users run Podman automatically.
-If there are any problems the Podman documentation [has instructions for configuration](https://docs.podman.io/en/latest/markdown/podman.1.html?highlight=rootless#rootless-mode), which are as simple as two commands per user who should be able to run Podman.
+Most distributions (including Arch, Debian, Fedora, and Ubuntu) will apply the appropriate configuration to let unprivileged users run Podman automatically.
+If there are any problems, the Podman documentation [has instructions for configuration](https://docs.podman.io/en/latest/markdown/podman.1.html?highlight=rootless#rootless-mode).
+This is as simple as two commands per user who should be able to run Podman.
 
 (rr-renv-containers-commandspodman)=
 ### Podman Commands
@@ -468,7 +470,6 @@ If there are any problems the Podman documentation [has instructions for configu
 Podman has a Docker-compatible command line interface so those commands will not be reiterated here.
 The Docker commands in the {ref}`key commands <rr-renv-containers-commands>` should all work by substituting `sudo docker` with `podman`.
 Details of all commands and their options can be found [in the Podman documentation](https://docs.podman.io/en/latest/Commands.html).
-
 
 (rr-renv-containers-imagespodman)=
 ### Building Container Images
@@ -480,7 +481,8 @@ Containerfiles use the same format as Dockerfiles, which are discussed in {ref}`
 (rr-renv-containers-rootlesspodman)=
 ### Rootless Containers
 
-Rootless containers (those run as a normal user) never have more privileges than the account that runs them.
+Rootless containers are containers run by a normal user (not using `sudo` or with the `root` account).
+These containers never have more privileges than the account that runs them.
 This is an strong security advantage to rootless containers compared to running containers as root or through the Docker daemon.
 
 ```{note}
@@ -488,18 +490,18 @@ If you are running a distribution with SELinux (for example Fedora or CentOS) yo
 ```
 
 This can be demonstrated with a simple example. Create a directory and put file with some text in it:
-```
+```bash
 $ mkdir tmp
 $ echo "Hello" > tmp/a.txt
 ```
 
 Now mount this directory into an interactive [busybox](https://www.busybox.net/) container:
-```
+```bash
 $ podman run --mount=type=bind,source=./tmp,destination=/tmp -it docker.io/library/busybox
 ```
 
-In the containers shell, confirm that the session belongs to the root user:
-```
+In the container's shell, confirm that the session belongs to the root user:
+```bash
 / # id
 uid=0(root) gid=0(root) groups=10(wheel)
 / # whoami
@@ -507,32 +509,36 @@ root
 ```
 
 Append some text to the file created on the host, mounted at `/tmp/a.txt` in the container:
-```
+```bash
 / # echo "World!" >> /tmp/a.txt
 ```
 
 Create a new file in the `tmp` directory and close the container:
-```
+```bash
 / # touch /tmp/b.txt
 / # exit
 ```
 
 Inspect the files in `tmp` on the host. The file `a.txt` was modified by the container process:
-```
+```bash
 $ cat tmp/a.txt
 Hello
 World!
 ```
 
-The file `b.txt` was created. However, despite being created by `root` inside the container, on the host it is owned by the user which ran the container. This can be checked with `ls -l tmp/b.txt`.
+The file `b.txt` was created. However, despite being created by `root` inside the container, on the host it is owned by the user which ran the container.
+This can be confirmed with `ls -l tmp/b.txt`.
 
-It is also impossible to read or modify files that the user running the container would not be able to. For example, the `/etc/shadow` file which contains users' hashed passwords:
+It is also impossible to read or modify files that the user running the container would not be able to.
+For example, the `/etc/shadow` file which contains users' hashed passwords:
 
-```
+```bash
 $ podman run --mount=type=bind,source=/etc/shadow,destination=/shadow -it docker.io/library/busybox/
 / # cat /shadow
 cat: can't open '/shadow': Permission denied
 ```
+
+If the above Podman command were run as root, using `sudo`, then the container would not be rootless and it would be possible to read and modify `etc/shadow`.
 
 (rr-renv-containers-singularity)=
 ## Singularity
@@ -591,7 +597,7 @@ A container image can then be built (requiring root!) via:
 sudo singularity build lolcow.simg lolcow.def
 ```
 
-This will pull the ubuntu image from DockerHub, run the steps of the recipe in the definition file and produce a single output image file (`lolcow.simg`).
+This will pull the ubuntu image from Docker Hub, run the steps of the recipe in the definition file and produce a single output image file (`lolcow.simg`).
 Finally the `runscript` is executed as
 
 ```
