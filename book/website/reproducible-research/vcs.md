@@ -13,7 +13,12 @@
 (rr-vcs-summary)=
 ## Summary
 
-No matter how your group is organized, the work of many contributors needs to be managed into a single set of shared working documents.
+Reproducibility requires the provision of the code and the data that was used to produce a figure.
+In practice, data and code are modified regularly and one needs to record
+what was changed when, in order to provide provenance information. 
+As we will see in this chapter, version control has a lot of other advantages,
+which explains why most data science project are hosted on git platforms.
+
 **Version control is an approach to record changes made in a file** or set of files over time so that you and your collaborators can track their history, review any changes, and revert or go back to earlier versions.
 Management of changes or revisions to any types of information made in a file or project is called versioning.
 For example, when writing a paper with multiple collaborators, version control can help track what changed, who changed them, and what updates were made.
