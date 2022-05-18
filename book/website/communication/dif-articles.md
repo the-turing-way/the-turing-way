@@ -21,7 +21,7 @@ Chapters included are:
 * Data Papers 
 * Methods Papers
 * Micropublishing
-* Software papers
+* Software Papers
 * Registered reports
 
 
