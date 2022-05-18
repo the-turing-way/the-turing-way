@@ -487,7 +487,7 @@ Containerfiles use the same format as Dockerfiles, which are discussed in {ref}`
 
 Rootless containers are containers run by a normal user (not using `sudo` or with the `root` account).
 These containers never have more privileges than the account that runs them.
-This is an strong security advantage to rootless containers compared to running containers as root or through the Docker daemon.
+This is an strong security advantage for rootless containers compared to running containers as root or through the Docker daemon.
 
 ```{note}
 If you are running a distribution with SELinux (for example Fedora or CentOS) you may need to add the `--privileged` flag to the Podman commands below in order to access the host filesystem inside of containers.
