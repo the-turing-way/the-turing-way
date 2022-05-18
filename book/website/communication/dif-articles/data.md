@@ -1,5 +1,7 @@
+(cm-dif-articles-data)=
 # Data papers
 
+(cm-dif-articles-data-what)=
 ## What are Data Papers?
 
 The purpose of a data paper is to describe a dataset and make it more FAIR (findable, accessible, interoperable and reusable). 
@@ -12,6 +14,7 @@ Data journals are usually open access journals so a data paper does normally com
 The APC can be anywhere between £0 to several thousand pounds. 
 There is a helpful list of journals on the GBIF data papers page: (ref- https://www.gbif.org/data-papers) or see our list of data journals in the {ref}`sub-chapter on Data Articles<rr-rdm-article>` in the Research Data Management chapter.
 
+(cm-dif-articles-data-why)=
 ## Why write a Data Paper?
 
 There are lots of reasons why you would want to write a data paper.
@@ -79,6 +82,7 @@ The research has more longevity and therefore is more cost effective.
 This is especially important when it comes to developing new scientific methods for applied sciences. 
 The methods need to be robust so that the investigations using them and subsequent interpretations made from the results must hold up to scrutiny.
 
+(cm-dif-articles-data-how)=
 ## How do you write a Data Paper?
 First you need to deposit the dataset in an open repository of your choice. 
 This can be done for free using one of many free open repositories such as Zenodo, Open Science Framework or Figshare. 
@@ -98,6 +102,7 @@ For data journals, the data paper templates are all very similar and include sec
 This structured approach, using a template, makes data papers simple to write. 
 They are meant to be fairly short and to the point therefore much less time consuming than writing a research article.
 
+(cm-dif-articles-data-review)=
 ## How do you review a Data Paper
 
 You can find general guidance on how to peer review a paper in our peer review chapter [here](https://the-turing-way.netlify.app/communication/peer-review.html). 
