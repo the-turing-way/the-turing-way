@@ -1,5 +1,9 @@
-(rr-rdm-ro)=
+(cm-ro)=
 # Research Object to capture the Research Life Cycle
+
+## Prerequisites / recommended skill level
+
+## Summary
 
 Research outcomes encompass publications, data, software, bibliographical material and any other resources (such as experimental protocols, standards) that can be potentially useful for conduting the research. 
 
@@ -7,8 +11,8 @@ Research Objects allow to work open by design and share during the research proc
 
 A Research Object can be implemented as a "Research Object Crate" that is a **machine readable "bundle"** of all research artefacts as a whole.
 
-(rr-rdm-ro-motivations)=
-##  Motivations for working with Research Objects 
+(cm-ro-motivation)=
+## Background & Motivation
 
 The main motivations are:
 - to organize and describe the resources, materials, and methods of the research while conducting the research and not only at the end when publishing the outcomes of the research;
@@ -21,8 +25,5 @@ The main motivations are:
 - to provide evidence and support validation of findings claimed in scholarly articles;
 - to acknowledge all the research work and all the individuals who contributed to the research, including potential failures, dead ends or any other information that is usually not captured;
 
-(rr-rdm-ro-types)=
-## Different types of Research Objects
-
-(rr-rdm-ro-options)=
-## Options to publish a Research Object
+(cm-ro-contribute)=
+## Contribute to this Chapter
