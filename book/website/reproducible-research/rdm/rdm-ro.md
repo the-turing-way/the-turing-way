@@ -1,9 +1,9 @@
 (rr-rdm-ro)=
 # Research Object to capture the Research Life Cycle
 
-Research outcomes encompass publications, data, software, bibliographical material and any other resources (experimental protocols, standards, etc.) that can be potentially useful for conduting the research. 
+Research outcomes encompass publications, data, software, bibliographical material and any other resources (such as experimental protocols, standards) that can be potentially useful for conduting the research. 
 
-The goal is to go beyond the publication and work open by design and share all the research process and not only the research outputs.
+Research Objects allow to work open by design and share during the research process and not only the research outputs at the end.
 
 A Research Object can be implemented as a "Research Object Crate" that is a **machine readable "bundle"** of all research artefacts as a whole.
 
