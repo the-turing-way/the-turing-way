@@ -1,3 +1,11 @@
+```{figure} ../../figures/provenance.jpg
+---
+name: provenance
+alt: Different people work at different stations to enable provenance.
+---
+Provenance on which data in which version was underlying which computation is crucial for reproducibility. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
 (rr-vcs-data)=
 # Version Control for Data
 
@@ -31,14 +39,7 @@ Together with all other components of a research project, data identified in pre
 The reproducibility aspect of a scientific project can improve a lot if we can track the subset or version of data a certain analysis or result is based upon.
 
 
-```{figure} ../../figures/provenance.jpg
----
-height: 500px
-name: provenance
-alt: Provenance on which data in which version was underlying which computation is crucial for reproducibility.
----
-Provenance on which data in which version was underlying which computation is crucial for reproducibility. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
-```
+
 
 (rr-vcs-data-challenges)=
 ## Challenges in Version Controlling Data
