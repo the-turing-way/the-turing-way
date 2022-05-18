@@ -17,7 +17,7 @@ The main motivations are:
 - to enhance the findability and accessibility of all the scientific outcomes through a single information unit associated with rich, machine-readable metadata;
 - to facilitate reproducibility and reuse of the scientific methods and results via access to resources, context and metadata, and the possibility of forking existing results;
 - to be recognized and cited (even of constituent parts) encouraging a faster release and publication of research materials;
-- to preserve results and prevent decay (e.g., using provenance for partial rerun);
+- to preserve results and prevent decay using provenance for partial rerun;
 - to provide evidence and support validation of findings claimed in scholarly articles;
 - to acknowledge all the research work and all the individuals who contributed to the research, including potential failures, dead ends or any other information that is usually not captured;
 
