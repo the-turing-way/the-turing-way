@@ -24,9 +24,11 @@ before even mentioning the possibility to `clone` the repository and work with g
 ## git limitation
 
 Git is not magic and it is good to know of its limitation.
-Especially, git works best with small text files.
-Git does not work well when too many files are present, 
+Especially, git works best with small text files,
+but start to be impracticable when too many files are present, 
 or when the repository becomes too big (1 TB is about the limit of practicability).
+As a Git repository stores every version of every file that is added to it, 
+large files that undergo regular modifications can inflate the size of a·project significantly.
 In research projects, datasets often contains thousands of files 
 and/or contain (very) large files.
 While one can use of git for non-software application,

@@ -44,17 +44,16 @@ The reproducibility aspect of a scientific project can improve a lot if we can t
 (rr-vcs-data-challenges)=
 ## Challenges in Version Controlling Data
 
-Depending on the size of the data and the modifications it undergoes, version control tools such as Git may not be suitable for data.
-As long as the files to version control are small in size and can be stored in a few `csv` or character separated files, tools such as [Git](https://git-scm.com/) are appropriate.
+As we described earlier, there are  {ref}`limitation to git <rr-vcs-git-limitations>`.
+As long as the files to version control are small in size, not too numerous and can be stored in a few `csv` or character separated files, tools such as [Git](https://git-scm.com/) are appropriate.
 
-When you work, share, and collaborate on large, potentially [binary](https://en.wikipedia.org/wiki/Binary_file) files (such as many scientific data formats), you need to think about ways to version control this data with specialised tools.
-This is because most version control tools - such as Git - are not well suited to handle large binary data.
-As a Git repository stores every version of every file that is added to it, large files that undergo regular modifications can inflate the size of a·project significantly.
+However,when you work, share, and collaborate on large, potentially [binary](https://en.wikipedia.org/wiki/Binary_file) files (such as many scientific data formats), you need to think about ways to version control this data with specialised tools.
 If others try to clone your repository or fetch/pull to update it locally, it will take longer to do this if it contains larger files that have been versioned and modified.
 
-What is especially inconvenient is that repository hosting services such as GitHub impose maximum file sizes on users (at least in their free versions).
+Accordingly, repository hosting services usually impose maximum file sizes on users.
 For example, if a single file in your repository exceeds 100MB, you will not be able to push this file to a GitHub repository.
 Furthermore, if a large file was accidentally added to a repository, removing the file from the repository can be tedious, as this file needs to be [purged](https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository).
+
 These shortcomings can make version controlling files tedious and slow, impede collaborations on repositories with large data, and prevent data or projects with data from being shared on platforms like GitHub.
 
 (rr-vcs-data-tools)=
@@ -104,3 +103,18 @@ Especially, using  {ref}`git branches<rr-vcs-workflow-branches>` in  submodules 
 [DataLad](https://www.datalad.org/), builds upon Git and git-annex.
 Like `git-annex`, it allows you to version control data and share it via third-party providers but simplifies and extends this functionality.
 In addition to sharing and version controlling large files; it allows recording, sharing, and using software environments, recording and re-executing commands or data analyses, and operating seamlessly across a hierarchy of repositories.
+
+(rr-vcs-data-inclusivity)=
+## Data versioning and inclusivity
+
+Data versioning in git require the use of more complex tools,
+and this means that accessibility to the data will be more difficult.
+For instance, if you use datalad with Github, newcomers tryling to see one of the large file will have difficulties:
+he will be able to see that the file exists, 
+but will not be able to download or see it without cloning the repository and running git-annex or datalad commands. 
+
+So while using these tools will make git commands to run faster, one may want to disable them for critical binary files, like presentations or pdfs. A solution can be to pack them in submodules, so that the repositories are keeping a small size.
+
+As an example, we can take the repository creating the turing book. 
+The repository is slow to work with, because a lot of binary files were used over the time.
+However, it makes the onboarding of new users easier.
