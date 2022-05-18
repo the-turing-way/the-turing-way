@@ -1,11 +1,14 @@
+(cm-dif-articles-software)=
 # Software papers 
 
+(cm-dif-articles-software-what)=
 ## What are Software Papers?
 
 In comparison to more traditional publications, which usually aim to share some new result, a software paper (sometimes known as a software metapaper) aims to share a new piece of software with the research community. 
 In this sense, software papers are close to method papers traditionally published in experimental sciences. Software papers tend to be shorter than traditional articles, typically ranging between 2 and 10 pages, and focus on describing the software, its use and its relationship to other pieces of software in the community. 
 This helps fill the niche between methods sections in traditional publications and papers on algorithms or techniques.
 
+(cm-dif-articles-software-why)=
 ## Why write a Software Paper?
 
 Software papers are much shorter than traditional publications, allowing more time to be spent on the software while still providing an avenue for publication. 
@@ -20,6 +23,7 @@ In short, you should write software papers to:
 - increase the visibility of your code and community
 - improve your software through peer-review
 
+(cm-dif-articles-software-how)=
 ## How do you write a Software Paper?
 
 In a broad sense, software papers tend to focus on answering the questions:
@@ -46,6 +50,7 @@ Both the Journal of Open Research Software and the Journal of Open Source Softwa
 
 There are also a number of other journals that publish software papers- the Software Sustainability Institute maintain a [list of these](https://www.software.ac.uk/which-journals-should-i-publish-my-software).
 
+(cm-dif-articles-software-review)=
 ### How do you review a Software Paper?
 
 Some journals (such as [the Journal of Open Research Software](https://openresearchsoftware.metajnl.com)) adopt the philosophy that the review process only applies to the paper itself, not the software, although basic standards in the software are still enforced, i.e. that the software installs and operates as described. 
