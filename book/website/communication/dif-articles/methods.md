@@ -1,5 +1,5 @@
 (cm-dif-articles-methods)=
-# Methods papers 
+# Methods Papers 
 
 (cm-dif-articles-methods-what)=
 ## What are Methods Papers?
