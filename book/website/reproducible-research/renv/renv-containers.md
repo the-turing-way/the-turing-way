@@ -56,8 +56,11 @@ That person can then use the image to generate a container containing a working 
 ### What is Docker?
 
 There are many tools available for creating and working with containers.
-We will focus on Docker, which is widely used, but be aware that others such as Singularity also exist.
-Singularity is sometimes preferred for use on high-performance computing systems as it does not need `sudo` permissions to be run, while up until April 2020 Docker did (please see the {ref}`rr-renv-containers-rootless` section).
+We will focus on [Docker](https://www.docker.com/), which is widely used, but be aware that others such as [Apptainer](http://apptainer.org/), [LXC](https://linuxcontainers.org/), [Podman](https://podman.io/), [Singularity](https://sylabs.io/singularity/) also exist.
+Apptainer and Singularity are designed with a focus on high-performance computing and tend to be well supported and preferred on such systems.
+Podman may be seen as a completely free and open-source alternative to Docker.
+It has a Docker compatible command line interface and can run Docker container images.
+Apptainer, Singularity and Podman do not need `sudo` permissions to be run, while up until April 2020 Docker did (please see the {ref}`rr-renv-containers-rootless` section).
 
 In Docker, the recipe files used to generate images are known as Dockerfiles, and should be named `Dockerfile`.
 
