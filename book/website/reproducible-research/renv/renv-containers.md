@@ -439,7 +439,7 @@ For most use cases, a user familiar with Docker can simply alias the Docker comm
 Podman includes a [full set of tools](https://docs.podman.io/en/latest/Commands.html) to create, run, manage, and share containers.
 
 Podman is free and open-source software released under the Apache License 2.0.
-This is in contrast to Docker which has some open-source components, such as the engine and command line interface, but also develops closed-source, [subscription-requiring](https://www.docker.com/blog/updating-product-subscriptions/) software including the Docker Desktop clients for MacOS and Windows.
+This is in contrast to Docker which has some open-source components, such as the engine and command-line interface, but also develops closed-source, [subscription-requiring](https://www.docker.com/blog/updating-product-subscriptions/) software, including the Docker Desktop clients for MacOS and Windows.
 
 All [Open Container Initiative](https://opencontainers.org/) container images can be used with Podman including Docker images hosted on Docker Hub.
 It is likely existing projects using Docker can be migrated to Podman.
