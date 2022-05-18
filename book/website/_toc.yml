@@ -336,6 +336,9 @@ parts:
         file: communication/social-media/social-media-twitter-multiple
     - title: Research Objects in Action
       file: communication/research-objects
+      sections:
+        - title: Types of Research Objects
+          file: communication/research-objects/ro-types
     - title: Making Research Objects Citable
       file: communication/citable
       sections:
