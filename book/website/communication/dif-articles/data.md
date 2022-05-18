@@ -12,7 +12,7 @@ It is a peer-reviewed article focused on describing datasets and the circumstanc
 There are specific data journals for data papers such as Scientific Data or Biodiversity Data Journal. 
 Data journals are usually open access journals so a data paper does normally come with an article processing cost (APC), but this can vary considerably depending on the journal you choose. 
 The APC can be anywhere between £0 to several thousand pounds. 
-There is a helpful list of journals on the GBIF data papers page: (ref- https://www.gbif.org/data-papers) or see our list of data journals in the {ref}`sub-chapter on Data Articles<rr-rdm-article>` in the Research Data Management chapter.
+There is a helpful list of journals on the [GBIF data papers page](https://www.gbif.org/data-papers) or see our list of data journals in the {ref}`sub-chapter on Data Articles<rr-rdm-article>` in the Research Data Management chapter.
 
 (cm-dif-articles-data-why)=
 ## Why write a Data Paper?
