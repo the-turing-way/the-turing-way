@@ -5,12 +5,6 @@
 (cm-dif-articles-prerequisites)=
 ## Prerequisites
 
->**Itemise other chapters in _The Turing Way_ or topics that readers should be familiar with to understand your chapter better.**
-> Ensure that you link to those chapters using the [Style Guide's](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html) cross referencing recommendations.
-> If the topics are only available on the web, appropriately link to them too.
-> Importance should either be `Helpful` or `Necessary`
-
-
 | Prerequisite | Importance | Skill Level | Notes |
 | -------------|----------|------|----|
 | {ref}`Open Research <rr-open>` | Helpful | Beginner | Of particular relevance is the chapter on Open Access |
@@ -40,7 +34,7 @@ This format was often quite limiting and meant things like datasets, software (s
 This has led to the development of new article types, which allows all research outputs produced during the research lifecycle to be published in their own right and linked to the final interpretations and conclusions of a research project. 
 The linking of these articles is one way to fully publish a reproducible research project. 
 
-Having separate article types for these outputs allows the people involved (e.g research software engineers, data stewards etc) to receive sufficient credit and impact for their work, particularly as publications are still the main currency by which researchers are evaluated.
+Having separate article types for these outputs allows the people involved (such as research software engineers, data stewards) to receive sufficient credit and impact for their work, particularly as publications are still the main currency by which researchers are evaluated.
 
 Theses articles are also important for the sustainability, reproducibility and openness of these research outputs as writing detailed publications means greater care and attention is directed at describing and explaining these outputs and in turn makes these outputs more FAIR (findable, accessible, interoperable and reusable).
 
