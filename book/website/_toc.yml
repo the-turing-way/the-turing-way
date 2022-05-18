@@ -50,8 +50,10 @@ parts:
     - title: Version Control
       file: reproducible-research/vcs
       sections:
-      - title: General Workflow
+      - title: Version control Workflow
         file: reproducible-research/vcs/vcs-workflow
+      - title: Version control and branches
+        file: reproducible-research/vcs/vcs-workflow-branches  
       - title: The git version control Software 
         file: reproducible-research/vcs/vcs-git-general 
       - title: git for research projects 
