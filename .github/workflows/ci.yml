@@ -1,13 +1,17 @@
 name: CI
 
-# run on pushes and pull requests to master
+# run on pushes and pull requests to main
 on:
   push:
     branches:
-      - master
+      - main
+    paths:
+      - "book/**"
   pull_request:
     branches:
-      - master
+      - main
+    paths:
+      - "book/**"
 
 # set the default shell to bash for all jobs
 # this is important for the windows OS!
@@ -18,6 +22,7 @@ defaults:
 # run job
 jobs:
   build-jb-and-check-links:
+    if: (github.event.pull_request) && !contains(github.head_ref, 'all-contributors')
     strategy:
       matrix:
         os: [ubuntu-latest, macos-latest, windows-latest]

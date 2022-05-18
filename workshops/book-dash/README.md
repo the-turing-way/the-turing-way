@@ -4,7 +4,7 @@ You can read more about the book dash in our [community handbook](https://the-tu
 
 ## Book Dash Events in 2020
 
-* Reports of the [Februray 2020](book-dash-feb20-report.md) book dash events summarising the participants, contributions during the event and feedback.
+* Reports of the [February 2020](book-dash-feb20-report.md) book dash events summarising the participants, contributions during the event and feedback.
 * Presentation with the introduction to the project and book dash used at this event is available on Zenodo: [https://zenodo.org/record/3676553](https://zenodo.org/record/3676553).
 Cite as:
 > Malvika Sharan. (2020, February). The Turing Way Book Dash (Version 1). The Turing Way. Zenodo. http://doi.org/10.5281/zenodo.3676553
