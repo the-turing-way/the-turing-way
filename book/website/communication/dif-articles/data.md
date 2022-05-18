@@ -1,5 +1,5 @@
 (cm-dif-articles-data)=
-# Data papers
+# Data Papers
 
 (cm-dif-articles-data-what)=
 ## What are Data Papers?
