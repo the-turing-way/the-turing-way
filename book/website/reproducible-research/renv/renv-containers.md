@@ -50,7 +50,10 @@ They can then share this image file with anyone who wants to replicate their wor
 That person can then use the image to generate a container containing a working version of the project.
 
 (rr-renv-containers-docker)=
-## What is Docker?
+## Docker
+
+(rr-renv-containers-whatdocker)=
+### What is Docker?
 
 There are many tools available for creating and working with containers.
 We will focus on Docker, which is widely used, but be aware that others such as Singularity also exist.
@@ -78,13 +81,13 @@ alt: A screenshot of official image badges
 ```
 
 (rr-renv-containers-installdocker)=
-## Installing Docker
+### Installing Docker
 
 Installers for Docker on a variety of different systems are available [here](https://docs.docker.com/install/).
 Detailed installation instructions are also available for a variety of operating systems such as [Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/), [Debian](https://docs.docker.com/install/linux/docker-ce/debian/), [Macs](https://docs.docker.com/docker-for-mac/install/), and [Windows](https://docs.docker.com/docker-for-windows/install/).
 
 (rr-renv-containers-commands)=
-## Key Commands
+### Key Commands
 
 Here are a few key commands for creating and working with containers:
 
@@ -133,7 +136,7 @@ Here are a few key commands for creating and working with containers:
   sudo docker rm container_ID
   ```
 (rr-renv-containers-dockerfiles)=
-## Writing Dockerfiles
+### Writing Dockerfiles
 
 Let us go through the anatomy of a very simple Dockerfile:
 
@@ -264,7 +267,7 @@ This is because the image was restarted after the `RUN cd A` command and opened 
 `mkdir B_1` and `mkdir B_2` commands took effect.
 
 (rr-renv-containers-dockerfiles-commands)=
-### Other Commands
+#### Other Commands
 
 Other commands that are sometimes used in Dockerfiles include:
 
@@ -284,7 +287,7 @@ It is more relevant to people using Docker to share web apps.
 - `USER`: Change the user that a command is run as (useful for dropping privileges).
 
 (rr-renv-containers-dockerignore)=
-## Building Images and `.dockerignore` Files
+### Building Images and `.dockerignore` Files
 
 As mentioned in the {ref}`key commands <rr-renv-containers-commands>` section, to build an image open a terminal in the same directory as
 the Dockerfile to be used and run:
@@ -318,7 +321,7 @@ This excludes from the context:
 - The file named `file_to_exclude.txt`
 
 (rr-renv-containers-sharing)=
-## Sharing Images
+### Sharing Images
 
 Docker images can be shared most easily via [Docker Hub](https://hub.docker.com/), which requires an account.
 Say two researchers, Alice and Bob, are collaborating on a project and Alice wishes to share an image of some of her work with Bob.
@@ -352,7 +355,7 @@ Initially, Docker will search for this image on Bob's machine.
 When it does not find it, it will _automatically_ search DockerHub, download Alice's image, and open the container with Alice's work and environment on Bob's machine.
 
 (rr-renv-containers-copying)=
-## Copying Files To And From Containers
+### Copying Files To And From Containers
 
 Containers act much like virtual machines; as a result, copying files into and out of them is not as trivial as copying files to different locations within the same computer is.
 
@@ -373,10 +376,10 @@ sudo docker cp container_ID:path_to_file/file_name path_to_where_to_put_file/fil
 If the second part (the `path_to_where_to_put_file/file_name`) is substituted for a `.`, then the file will be copied to whatever directory the terminal running the command is in.
 
 (rr-renv-containers-volumes)=
-## Volumes
+### Volumes
 
 Every time a container is opened from an image, that container is completely new.
-Say a container is opened, and work is done within it. 
+Say a container is opened, and work is done within it.
 If that container is closed, and the image it came from is again used to start another container, none of that work will be in the new one.
 It will simply have the starting state described in the image.
 
@@ -395,7 +398,7 @@ Once the researcher is done, they can close the container as normal.
 When they come back to the project and want to continue their work, they only need to use the same command as above, and it will load the work contained in `volume_name` into the new container.
 It will save any new work there too.
 
-Below is a list of volume related commands: 
+Below is a list of volume related commands:
 
 - To list volumes: `sudo docker volume ls`
 - To delete a volume: `sudo docker volume rm volume_name`
@@ -404,9 +407,9 @@ Below is a list of volume related commands:
 If, when deleting a container, a `-v` is included after `rm` in `sudo docker rm container_ID`, any volumes associated with the container will also be deleted.
 
 (rr-renv-containers-rootless)=
-## Docker without root access
+### Docker without root access
 
-Up until April 2020, the only way to run Docker was with root access. 
+Up until April 2020, the only way to run Docker was with root access.
 "Rootless" mode was made available as part of the [v20.10](https://docs.docker.com/engine/security/rootless/) release.
 Rootless mode is currently only available on Linux and requires an initial install of Docker >= v20.10.
 
