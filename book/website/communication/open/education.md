@@ -1,7 +1,9 @@
-
+(cm-open-education)=
 ## Open Education 
 
-(rr-open-scholarship-resources)=
+
+
+(rr-open-education-resources)=
 ## Open Educational Resources
 
 Open educational resources (OERs) [{term}`def<Open Educational Resources>`] are teaching and learning materials that can be freely used and reused for learning or teaching at no cost, and without needing to ask permission. Examples are courses, including Massive Online Open Courses (MOOCs), lectures, teaching materials, assignments, and various other resources. OERs are available in many different formats compatible with online usage, most obviously text, images, audio, and video. Anyone with internet access can access and use OERs; access is not dependent on location or membership of a particular institution.
