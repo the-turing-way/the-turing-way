@@ -10,7 +10,7 @@ Being clear about the roles people can take on and the commitment that is expect
 
 One way to do this is to have people commit for a certain period and re-evaluate leadership regularly. 
 This allows active leaders to reflect on their contributions and offboard if necessary and is an opportunity to identify if more or other community members have emerged and should be formally recognised for their work.
-The Carpentries are one example where some of the community leadership roles have been formalized and are documented in the [Carpentries' handbook](https://docs.carpentries.org/topic_folders/governance/index.html).
+The Carpentries are one example where some of the community leadership roles have been formalized and are documented in [The Carpentries' Handbook](https://docs.carpentries.org/topic_folders/governance/index.html).
 
 ## Onboarding, Nurturing and Offboarding Gracefully
 
@@ -29,9 +29,9 @@ This group will become the next leaders after some reasonable time.
 Such a group will also be a trusted source of changes and updates in data science domains. 
 
 When too busy leading, leaders will run out of time to learn about the latest advances both at technical and human levels.  
-This team keeps leaders from different blind spots and allows the projects led to transform accordingly.
+This team keeps leaders from different awareness gaps and allows the projects led to transform accordingly.
 
-Blind spots are particularly challenging in multicultural, sometimes even globally-distributed teams.
+Awareness gaps are particularly challenging in multicultural, sometimes even globally-distributed teams.
 
 ## Offboarding gracefully
 
