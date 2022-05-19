@@ -11,7 +11,7 @@ In the ten years I have worked in the open science space in research infrastruct
 
 Many of these roles contain a degree of coordination and project management, so our leadership brings people together, facilitates conversations that otherwise might not happen and while we might not be decision makers, we certainly can get others to make decisions and hold them accountable for enacting them.
 
-I have managed a range of services (data repositories, service to support data management planning) working closely with software developers on delivering a smooth service to users.
+I have managed a range of services (data repositories, service to support data management planning), working closely with software developers on delivering a smooth service to users.
 As I prefer decision making by consensus, it often feels more like a collaboration and less like me leading the team and service development. 
 
 
