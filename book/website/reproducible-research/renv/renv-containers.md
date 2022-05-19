@@ -558,7 +558,7 @@ If the above Podman command were run as root, using `sudo`, then the container w
 (rr-renv-containers-singularity)=
 ## Singularity
 
-```note
+```{note}
 As Singularity is a tool for running Linux containers it can not run natively on
 Windows or MacOS.
 
