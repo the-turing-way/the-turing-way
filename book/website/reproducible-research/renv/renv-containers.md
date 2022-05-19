@@ -571,29 +571,29 @@ documentation](https://sylabs.io/guides/latest/admin-guide/installation.html#ins
 Historically, a significant drawback of using Docker for reproducible research is that it was not intended as a user-space application but as a tool for server administrators.
 As such, it required root access to operate.
 There is, however, no reason why the execution of an analysis should require root access for the user.
-This is especially important when computations are conducted on a shared resource like HPC systems where users will never have root access.
+This is especially important when computations are conducted on a shared resource like high-performance computing (HPC) systems where users will never have root access.
 
 The [singularity](https://www.sylabs.io/) container software was introduced to address this issue.
 Singularity was created with HPC systems and reproducible research in mind (see [this](https://www.youtube.com/watch?v=DA87Ba2dpNM) video).
-It does not require root access to run (only to build container _images_!), and thus enables HPC users to locally build container images before running analyses on a high-performance cluster, for example.
-As an added benefit, this makes it possible to use almost any software on an HPC system without having to bother admin staff with installing it.
+Singularity containers do not require root access to run.
+Root access is normally required to build container images.
+However it is possible to build images as a normal user (with some restrictions) using the [fakeroot feature](https://sylabs.io/guides/latest/user-guide/fakeroot.html).
+This enables users to build container images locally before running them on a high-performance cluster.
+As an added benefit, this makes it possible to bring software and project dependencies to an HPC system without requiring the system administrators to install or maintain them.
 
-Furthermore, since Docker is _the_ most well-known containerization approach, singularity aims at maintaining compatibility with docker containers.
-This means that singularity can be used to run normal docker containers (without requiring root access!).
+Furthermore, Singularity can take advantage of the large Docker ecosystem by building Singularity container images from Docker container images.
+Docker images can also be extend by building new images based on docker containers as a base layer.
 
-Singularity can be used to run Docker images or extend them by building new images based on docker containers as a base layer.
-For instance, we could use singularity to create a vanilla ubuntu container with a shell using the ubuntu docker image:
+(rr-renv-containers-singularity-images)=
+## Singularity Container Images
 
-```
-singularity shell docker://ubuntu
-```
+Just as Docker images are built using `Dockerfile` files, singularity containers are built from singularity definition files.
+The Singularity documentation has a complete [specification of the definition file format](https://sylabs.io/guides/latest/user-guide/definition_files.html)
 
-> (type `exit` to leave the interactive shell again).
-
-Just as docker images are built using `Dockerfile` files, singularity containers are built from singularity definition files.
-The process and syntax are similar to docker files, but there are subtle differences.
 As a minimal working example, we can build a `lolcow` container based on the official ubuntu docker container image.
-Put the following in a `lolcow.def` file (based on the [Singularity documentation](https://www.sylabs.io/guides/3.2/user-guide/build_a_container.html)):
+This is based on [an example](https://sylabs.io/guides/latest/user-guide/build_a_container.html) in the Singularity documentation.
+Put the following text in a file named `lolcow.def`:
+
 ```
 Bootstrap: docker
 From: ubuntu
@@ -610,23 +610,40 @@ From: ubuntu
     fortune | cowsay | lolcat
 ```
 
-This 'recipe' uses a docker image as a basis (`ubuntu`), installs a few `apt` packages, modifies a few environment variables, and specifies the `runscript` (which is executed using the `singularity run` command).
-Details on the singularity definition file format can be found in the official [documentation](https://www.sylabs.io/docs/).
+This example uses a docker image (`ubuntu`) as a basis.
+The required packages are installed packages with `apt-get`.
+The `PATH` variable is updated so that the run commands will be found when the container is run.
+The `%runscript` defines the command to be executed when the container is run.
 
-A container image can then be built (requiring root!) via:
-
-```
-sudo singularity build lolcow.simg lolcow.def
-```
-
-This will pull the ubuntu image from Docker Hub, run the steps of the recipe in the definition file and produce a single output image file (`lolcow.simg`).
-Finally the `runscript` is executed as
+A container image can then be built:
 
 ```
-singularity run lolcow.simg
+sudo singularity build lolcow.sif lolcow.def
 ```
 
-Ideally, you should see a nice ASCII cow and a few words of wisdom:
+This will pull the ubuntu image from Docker Hub, run the steps of the recipe in the definition file and produce a Singularity image file (`lolcow.sif`).
+The container can be run with:
+
+```
+singularity run lolcow.sif
+```
+
+or, simply:
+
+```
+./lolcow.sif
+```
+
+````{note}
+The way that Singularity packages container images as a single file in your working directory is convenient for migrating your work to HPC.
+You may simply copy your container image to a cluster using `scp` or `rsync`:
+
+```bash
+rsync -avz lolcow.sif <user>@<hpc_system>:~/
+```
+````
+
+You should see a nice ASCII cow and a few words of wisdom:
 
 ```
 ___________________________________
@@ -639,6 +656,9 @@ ___________________________________
                ||----w |
                ||     ||
 ```
+
+(rr-renv-containers-singularity-hpc)=
+### Singularity on HPC
 
 Being HPC compatible, singularity containers are also supported by a wide range of workflow management tools.
 For example, both [snakemake](https://snakemake.readthedocs.io/en/stable/) and [nextflow](https://www.nextflow.io/docs/latest/singularity.html) support job-specific singularity containers.
