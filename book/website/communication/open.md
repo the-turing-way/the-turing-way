@@ -15,7 +15,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 ## Prerequisites
 
 No previous knowledge is needed. 
-Related information to Open Scholarship can be found in the Open Research chapter, that also has a more detailed summary of the importance and motivation behind Open Scholarship. 
+Related information to Open Scholarship can be found in the {ref}`rr-open` chapter, that also has a more detailed summary of the importance and motivation behind Open Scholarship. 
 
 (rr-open-summary)=
 ## Summary
