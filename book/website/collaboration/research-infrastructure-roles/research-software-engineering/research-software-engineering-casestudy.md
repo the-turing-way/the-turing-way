@@ -8,7 +8,7 @@ The [Society of Research Software Engineering](https://society-rse.org/) was fou
   
 Although originating in the UK, the concept of Research Software Engineering (RSE) has been widely adopted and specialised roles across academia, industry and other sectors are being recognised across the globe (see [list of International RSE communities](https://society-rse.org/international-rse-organisations/)).
 
-In this chapter, we share a case study in the form of an open interview with [Saranjeet Kaur Bhogal](https://saranjeetkaur.github.io/About-Me/) who has been spearheading efforts to establish recognition for RSE skills and roles in India.	 
+In this chapter, we share a personal story in the form of an open interview with [Saranjeet Kaur Bhogal](https://saranjeetkaur.github.io/About-Me/) who has been spearheading efforts to establish recognition for RSE skills and roles in India.	 
 
 Recently, she has set up the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) to connect with different Asian researchers working in this space and establish pathways for early career researchers to build their skills in RSE in preparation for their RSE careers.
 
@@ -110,4 +110,4 @@ With the hope to achieve this, we are planning to set up a working group soon.
 I feel the RSE Asia Association would expand more and include more representatives across the Asian region in the future. 
 We are also planning to set up a Working Group and an Advisory Board for RSE Asia.
 
-_This case study in the form of an open interview was originally written during the Turing Way book Dash in May 2022. We acknowledge all the people who contributed their time for asking the questions: Arielle Bennett, Carlos Martinez, Elisa Rodenburg, Emma Karoune, Esther Plomp, and Lena Karvovskaya (names are in alphabetical order); and Saranjeet Kaur Bhogal for writing the answers._
+_This personal story in the form of an open interview was originally written during the Turing Way book Dash in May 2022. We acknowledge all the people who contributed their time for asking the questions: Arielle Bennett, Carlos Martinez, Elisa Rodenburg, Emma Karoune, Esther Plomp, and Lena Karvovskaya (names are in alphabetical order); and Saranjeet Kaur Bhogal for writing the answers._
