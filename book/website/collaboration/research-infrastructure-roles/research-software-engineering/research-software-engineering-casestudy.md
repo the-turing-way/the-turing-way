@@ -10,7 +10,7 @@ Although originated in the UK, the concept of Research Software Engineering (RSE
 
 In this chapter, we share a case study in the form of an open interview with [Saranjeet Kaur Bhogal](https://saranjeetkaur.github.io/About-Me/) who has been spearheading efforts to establish recognition for RSE skills and roles in India.	 
 
-Recently, she has set up the RSE Asia Association to connect with different Asian researchers working in this space and establish pathways for early career researchers to build their skills in RSE in preparation for their RSE careers.
+Recently, she has set up the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) to connect with different Asian researchers working in this space and establish pathways for early career researchers to build their skills in RSE in preparation for their RSE careers.
 
 Before you dive into the interview, please note that we have a chapter describing the {ref}`Research Software Engineering in Research Infrastructure Roles<cl-infrastructure-rse>` as well as specific recommendation for {ref}`starting a new community<cl-new-community>`. 
 
