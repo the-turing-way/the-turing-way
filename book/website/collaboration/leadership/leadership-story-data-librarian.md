@@ -24,7 +24,8 @@ While it thought me technical skills on how to use GitHub, it highlighted that t
 It also brought me into the Turing Way core team when it was initially set up. 
 
 ## Addressing my weaknesses
-One of the main skills leaders should have is understand their weaknesses and actively work on them as well as bringing other people into the space they lead in that might balance out areas of weakness.
+One of the main skills leaders should have is understand their weaknesses and actively work on them.
+They should also bring other people into the space they lead in that might balance out areas of weakness.
 
 I personally struggle with delegating and often just did tasks myself to make sure they are done the way I expected. 
 Joining [Open Life Science](https://openlifesci.org/) as a mentor was crucial for me to learn that I can still be helpful to others without taking over. 
