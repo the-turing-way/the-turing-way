@@ -1,9 +1,11 @@
-# Challenges with sustainability of open source projects
+(cl-oss-sustainability-challenges)=
+
+# Challenges with sustainability of Open Source projects
 
 Early-career researchers often reach a point when funding has run out for a project that they have spent years developing, and they can face a daunting array of choices and obstacles on the road to turning an academic or community-led project into a strong, sustainable enterprise that will outlive its original funding source. 
-In this chapter we will outline the factors that must be considered when you want to turn a project into a self-sustaining organisation, and we will provide several case studies as examples of how sustainability can be achieved through a variety of organisational structures.
+In this chapter we will outline the factors that must be considered when you want to turn a project into an Open Source Software (OSS) with a self-sustaining organisation, and we will provide several case studies as examples of how sustainability can be achieved through a variety of organisational structures.
 
-## Misconceptions about open source models
+## Misconceptions about Open Source models
 
 To begin, we'd like to dispel the notion that "open source" simply means "free" and therefore an open source project can never generate revenue or profit.
 The [definition](https://the-turing-way.netlify.app/reproducible-research/open.html) used by The Turing Way states that open research should:
