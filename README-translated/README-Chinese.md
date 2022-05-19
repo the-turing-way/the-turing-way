@@ -22,14 +22,14 @@
 
 _The Turing Way_ 是一本关于可重复的、合乎道德的和协作的数据科学的手册。我们参与并支持由不同贡献者组成的社区，使数据科学对每个人都是可访问的、可理解的和有效的。 我们的目标是提供学术界、工业界和公共部门的研究人员和数据科学家在项目开始时所需的所有信息，以确保项目结束后易于复制。
 
-[![The Turing Way project is a book, community, an open-source project and a culture of collaboration. This is shown in four illustrations, the first one showing the Turing Way book, the second showing how the community can grow, the third one showing two people collaborating on a pull request, the last one is showing a balance where reproducibility is valued more than the number of papers published](book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
+[![The Turing Way project is a book, community, an open-source project and a culture of collaboration. This is shown in four illustrations, the first one showing the Turing Way book, the second showing how the community can grow, the third one showing two people collaborating on a pull request, the last one is showing a balance where reproducibility is valued more than the number of papers published](../book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
 
 *The Turing Way是一本书、一个社区和一个全球合作。*
 
 我们鼓励所有的利益相关者，包括学生、研究人员、软件工程师、项目负责人和融资团队，使用The Turing Way来了解他们在数据科学中的角色和可重复性责任。，。
 您可以线上阅读这本书 [在线版本](https://the-turing-way.netlify.app), 按照我们的贡献指南所述为项目做出贡献 [贡献指南](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) and 并重新使用所有材料 ([（见许可证）](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md)).
 
-[![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
+[![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](../book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
 
 *The Turing Way 线上书籍的截图 ([use this image in a presentation](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
 
@@ -73,7 +73,7 @@ _The Turing Way_ 是一个开放式协作和社区主导的项目。
 我们希望能够满足我们的贡献者的需求。
 因此，我们根据你的兴趣、有效性或技能要求，为你的贡献提供多个切入点。
 
-![This image shows six of many kinds of contributions that anyone can make. These are: Develop and share, Maintain and improve, Share resources, Review and update, Make it global through translation, and Share best practices](book/website/figures/README_imgs/README_contributions.png)
+![This image shows six of many kinds of contributions that anyone can make. These are: Develop and share, Maintain and improve, Share resources, Review and update, Make it global through translation, and Share best practices](../book/website/figures/README_imgs/README_contributions.png)
 
 *Contributions include development and sharing of new chapters; maintenance and improvement of existing chapters; sharing _The Turing Way_ resources; review and updating of previously developed materials; translating its chapter to help make this project globally accessible, and sharing best practices in research.*
 
