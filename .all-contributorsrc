@@ -3173,6 +3173,15 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "richplant",
+      "name": "Richard Plant",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11060480?v=4",
+      "profile": "http://rplant.netlify.app",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
