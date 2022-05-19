@@ -25,7 +25,7 @@ Providing links to sections you're referencing for clarity is highly encouraged.
 We suggest using bullets (indicated by * or -) and filled checkboxes [x] here -->
 
 - [ ] *Target langauge is .*
-- [ ] *I wish to be manager in Crowdin to entries for this language.*
+- [ ] *I wish to be manager in Crowdin for entries in this language.*
 - [ ] *I will only proofread translation for this language.*
 
 
