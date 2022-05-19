@@ -59,7 +59,7 @@ If possible try to start with a structured mentoring programme, like the [Open L
 
 Try to collaborate more and avoid working solo when you start with community building, it can get too big, too soon - so it is always helpful to have a group of collaborators along.
 
-### Are there any other organisations/networks that you're collaborating with? I'm not very familiar, sorry!
+### Are there any other organisations/networks that you're collaborating with?
 I (with my Co-Founder [Jyoti](https://jyoti-bhogal.github.io/about-me/)) started building the RSE Asia Association as a project during my participation in the [Open Life Science Cohort-4 (OLS-4) programme](https://openlifesci.org/ols-4/projects-participants/) with [Anne Fouilloux](https://github.com/annefou) as our mentor. 
 After OLS-4, I participated in the [Pilot Mentoring Programme by the Society of Research Software Engineering](https://society-rse.org/events/pilot-mentoring-programme/) to further build the community around RSE Asia under the mentorship of [Michelle Barker](https://www.researchsoft.org/people/), whereas Jyoti joined [OLS-5 with a project to create onboardings pathways](https://openlifesci.org/ols-5/projects-participants/) under the mentorship of Malvika Sharan. 
 Recently, I presented talks about the work being done at RSE Asia at various events organized by groups and networks like the Asia Pacific Advanced Network (APAN53), the Research Software Alliance, the Collaborations Workshop (CW22) by the Software Sustainability Institute (All these talks are shared on our [website](https://rse-asia.github.io/RSE_Asia/talks.html).). 
