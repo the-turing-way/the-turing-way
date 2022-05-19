@@ -1,21 +1,34 @@
 (pd-sdp)=
-
 # Sensitive Data Projects
 
+(pd-sdp-prerequisites)=
 ## Prerequisites
 
-| Prerequisite |  Importance  | 
-| ------------ |------------- |
-| {ref}`cl-github-novice` | Helpful |
+| Prerequisite | Importance | Skill Level | Notes |
+| -------------|----------|------|----|
+| {ref}`Research Data Management <rr-rdm>` | Helpful | Beginner |  |
 
+(pd-sdp-summary)=
 ## Summary
 
-In this chapter, we describe tools and practices that can help you work reproducibly, even when your project deals with sensitive data. 
-We describe steps that are good to think about already at the start of your project, such as how to {ref}`ensure that your sensitive files remain secure<pd-sdp-sensitive-files>` when using GitHub. 
-We also show how you can {ref}`safely share your code<pd-sdp-sensitive-code>`, even though it uses sensitive data, and draw attention to {ref}`what you should do if you inadvertently expose sensitive data on GitHub<pd-sdp-exposing-data>`. 
-We also describe some ways to use statistical tools to avoid inadvertently exposing {ref}`personally identifying data when working with machine learning models and sharing datasets<pd-sdp-private-learning>`.
 
+As researchers, we need to learn how to work with sensitive data so that we can tackle many challenging research questions. 
+It can often be harder to work with sensitive data due to the regulations and restrictions that are required. Abiding by these legal requirements can come with added technical steps such as de-identification of the data or the use of trusted research environments. 
+There are considerations that need to be taken as to how to work in an inner source (wikipedia: https://en.wikipedia.org/wiki/Inner_source - open collaboration and open communication in a team) manner, which builds a closed but transparent research record enabling reproducible research.  
+In addition, researchers must also plan how to publish sensitive data projects in a FAIR but as open as possible way.
+
+In this chapter, we give an overview of different types of sensitive data. We then go on, in the next two chapters, to describe tools and practices that can help you manage, as well as, work reproducibly with these types of research projects. 
+
+In this chapter we will cover:
+* Types of sensitive data
+* Personal data
+* Confidential data
+* Biological data
+* Metadata
+* Combined datasets
+
+(pd-sdp-motivation)=
 ## Motivation
+Researchers who are part of sensitive data projects may think that the nature of their data prohibits them from working in an open and reproducible manner. We want to show that - while it may require a bit of extra thinking and management - working openly with sensitive data, is possible, and should be encouraged.
 
-Researchers who are part of sensitive data projects may think that the nature of their data prohibits them from working in an open and reproducible manner. 
-  We want to show that - while it may require a bit of extra thinking and management - working openly with sensitive data (whilst keeping the data secure), is possible, and should be encouraged.
+

@@ -1,5 +1,4 @@
-(pd-sdp-sensitive-code)=
-
+(pd-sdpw-sensitive-code)=
 # Sharing your Jupyter notebook
 
 One neat way of sharing your research workflow - whether that is your data cleaning process, the statistical modelling that you have applied to your data set, or how you have visualised your results  - is through [Jupyter notebooks](https://www.dataquest.io/blog/jupyter-notebook-tutorial/).

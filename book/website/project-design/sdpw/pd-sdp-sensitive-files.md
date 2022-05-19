@@ -1,4 +1,4 @@
-(pd-sdp-sensitive-files)=
+(pd-sdpw-sensitive-files)=
 
 # Keeping sensitive files secure
 
@@ -62,3 +62,4 @@ In most cases (or at least in the simplest of cases), your repository will have 
 It is, however, possible to have multiple `.gitignore` files within subdirectories of the same repository.
 In such cases, the rules within the `.gitignore` file will only be applied to the subdirectory within which it is located.
 This means that different `.gitignore` rules can be applied across the same repository.
+

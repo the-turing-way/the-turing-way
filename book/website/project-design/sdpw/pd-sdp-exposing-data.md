@@ -1,4 +1,4 @@
-(pd-sdp-exposing-data)=
+(pd-sdpw-exposing-data)=
 
 # What do you do if you inadvertently expose sensitive data on GitHub?
 

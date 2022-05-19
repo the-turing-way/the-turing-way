@@ -1,4 +1,4 @@
-(pd-sdp-resources)=
+(pd-sdpw-resources)=
 
 # Resources
 

@@ -283,14 +283,42 @@ parts:
     - title: Sensitive Data Projects
       file: project-design/sdp
       sections:
+      - title: Types of Sensitive Data
+        file: project-design/sdp/types
+      - title: Personal Data
+        file: project-design/sdp/personal
+      - title: Confidential Data
+        file: project-design/sdp/confidential
+      - title: Biological Data
+        file: project-design/sdp/biological
+      - title: Metadata
+        file: project-design/sdp/metadata
+      - title: Combined Datasets
+        file: project-design/sdp/combined  
+    - title: Managing Sensitive Data Projects
+      file: project-design/sdpm
+      sections:
+      - title: Informed consent
+        file: project-design/sdpm/informed
+      - title: Data Privacy Strategies
+        file: project-design/sdpm/data-privacy-strategies
+      - title: Sharing Sensitive Data
+        file: project-design/sdpm/sharing-sensitive-data
+      - title: Resources
+        file: project-design/sdpm/resources
+    - title: Working on Sensitive Data Projects
+      file: project-design/sdpw
+      sections:
+      - title: Working with Trusted Research Environments
+        file: project-design/sdpw/trew
       - title: Keeping Sensitive Files Secure
-        file: project-design/sdp/pd-sdp-sensitive-files
+        file: project-design/sdpw/pd-sdp-sensitive-files
       - title: Sharing Your Jupyter Notebook
-        file: project-design/sdp/pd-sdp-sensitive-code
+        file: project-design/sdpw/pd-sdp-sensitive-code
       - title: Removing Sensitive Data From GitHub
-        file: project-design/sdp/pd-sdp-exposing-data
+        file: project-design/sdpw/pd-sdp-exposing-data
       - title: Further Recommendations
-        file: project-design/sdp/pd-sdp-resources
+        file: project-design/sdpw/pd-sdp-resources
         
   # ===== Guide for Communication ========================================
 
