@@ -1,7 +1,7 @@
-(pd-sd-confidential)=
+(pd-sdp-confidential)=
 # Confidential data
 
-
+(pd-sdp-confidential-def)=
 ## Definition of confidential data
 
 Confidential data is sensitive data that doesn't identify someone personally, but it is information that still needs to remain private. 
