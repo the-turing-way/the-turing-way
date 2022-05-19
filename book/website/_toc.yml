@@ -447,7 +447,7 @@ parts:
         file: collaboration/research-infrastructure-roles/data-steward/data-steward-casestudy
       - title: Research Software Engineers Overview
         file: collaboration/research-infrastructure-roles/research-software-engineer
-      - title: Research Software Engineering Case Study
+      - title: Research Software Engineering Personal Story
         file: collaboration/research-infrastructure-roles/infrastructure-rse-casestudy
       - title: Research Application Manager Overview
         file: collaboration/research-infrastructure-roles/ram       
