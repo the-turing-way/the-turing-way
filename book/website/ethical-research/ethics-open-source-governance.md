@@ -14,7 +14,7 @@ This chapter discusses some of the key points to take into consideration when de
 (er-ethics-open-source-governance-motivation)=
 ## Motivation and Background
 
-When setting up open source projects, it is important to pick a structure for organising the community that takes into account ethical considerations 
+When setting up open source projects, it is important to pick a structure for organising the community that takes into account ethical considerations.
 The way that your governance model is designed has a significant impact on the ethics, diversity and inclusion in your project, so critically examining what the implied ethics are of a particular structure is a crucial part of the process of selecting one. 
 It can be difficult to know where to start when considering this aspect of open source projects, so this chapter offers some starting points to consider. 
 
