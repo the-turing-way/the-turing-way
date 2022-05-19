@@ -8,7 +8,8 @@ This can be done through inviting people for individual contributions and facili
 Once a community or project team has grown to a certain size, a more formal structure can help to ensure leadership responsibility scale accordingly to keep everyone supported.
 Being clear about the roles people can take on and the commitment that is expected from them will allow people to manage expectations around skills, workload, and responsibilities.  
 
-One way to do this is to have people commit for a certain period and re-evaluate regularly if more or other community members have emerged and should be formally recognised for their work.
+One way to do this is to have people commit for a certain period and re-evaluate leadership regularly. 
+This allows active leaders to reflect on their contributions and offboard if necessary and is an opportunity to identify if more or other community members have emerged and should be formally recognised for their work.
 The Carpentries are one example where some of the community leadership roles have been formalized and are documented in the [Carpentries' handbook](https://docs.carpentries.org/topic_folders/governance/index.html).
 
 ## Onboarding, Nurturing and Offboarding Gracefully
