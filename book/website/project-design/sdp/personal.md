@@ -1,5 +1,7 @@
+(pd-sdp-personal)=
 # Personal data
 
+(pd-sdp-personal-def)=
 ## Definition of personal data
 
 Personal data is information about living people who can be identified using the data that you are processing, either directly or indirectly.  
@@ -19,6 +21,7 @@ Particularly sensitive data include data relating to a person’s:
 * physical or mental health
 * sexual orientation
 
+(pd-sdp-personal-policies)=
 ## Personal data policies
 There are various policies in place in different countries to protect the rights of individuals over their personal data. 
 For example, in Australia personal data is regulated under the Australian Privacy Act. In the European Union the GDPR (General Data Protection Regulation) applies to the processing of personal data and may require you to carry out a Data Protection Impact Assessment (DPIA). 
