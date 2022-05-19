@@ -2,12 +2,14 @@ TTW Newsletter, May 2022
 
 # Book dash is happening this week! Sign up for Community Share-out and more!
 
-Hi everyone! It's been another busy month within *The Turing Way* community, full of new (and ongoing) chapters, community features, and upcoming events.
+Hi everyone!
+
+It's been another busy month within *The Turing Way* community, full of new (and ongoing) chapters, community features, and upcoming events.
 This newsletter is full of updates about what we've been up to–– and a test of a new newsletter format as well!
 
-📚💨 **Book Dash is happening this week!** Don't forget to sign up for our Community Share-outs sessions (open to all), happening this Friday (20 May).
-☕ The next **Collaboration Cafe is happening this week on 1 June at 15:00 London time** (UTC+1). See 'Upcoming events' for details.
-📣 Check out 'Community News' and 'Opportunities in the Turing orbit' to learn more about upcoming roles, calls for proposals, and events we are excited about.
+📚💨 Book dash is happening this week! Join us on 20 May for a public **Community Share Out and Contributors Celebration**! [Register to attend](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebrations-may-2022-tickets-323373307267)
+☕ The next **Collaboration Cafe is happening this week on 1 June at 15:00 London time** (UTC+1). (See [details](https://https://hackmd.io/@turingway/collaboration-cafe))
+📣 Check out 'community news' and 'opportunities in *The Turing Way* orbit' to learn more about what we are up to and where you can get involved.
 
 Thank you to XXX and XXX for reviewing drafts of this newsletter!
 
