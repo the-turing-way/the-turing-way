@@ -865,8 +865,6 @@ parts:
         file: community-handbook/translation/getting-started.md
       - title: Crowdin 101
         file: community-handbook/translation/hello-crowdin.md
-      - title: l10n of the Illustrations
-        file: community-handbook/translation/illustrations.md
       - title: Translation Workflow
         file: community-handbook/translation/workflow.md
     - title: Monthly Newsletters
