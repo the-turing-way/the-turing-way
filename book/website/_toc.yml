@@ -337,8 +337,10 @@ parts:
     - title: Research Objects in Action
       file: communication/research-objects
       sections:
-        - title: Types of Research Objects
-          file: communication/research-objects/ro-types
+        - title: Concepts
+          file: communication/research-objects/ro-concepts
+        - title: Implementation
+          file: communication/research-objects/ro-implementation
     - title: Making Research Objects Citable
       file: communication/citable
       sections:
