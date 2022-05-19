@@ -7,7 +7,7 @@ No previous knowledge is needed.
 
 Research outcomes encompass publications, data, software, bibliographical material and any other resources (such as experimental protocols, standards) that can be potentially useful for conducting the research. 
 
-Research Objects allow to work open by design and share during the research process and not only the research outputs at the end.
+Research Objects allow to work open by design and share during the research process, instead of only sharing the research outputs at the end of a research project.
 
 A Research Object can be implemented as a "Research Object Crate" that is a **machine readable "bundle"** of all research artefacts as a whole.
 
