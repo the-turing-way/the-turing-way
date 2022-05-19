@@ -3,35 +3,35 @@
 
 ## Prerequisites / recommended skill level
 No previous knowledge is needed.
+
 ## Summary
+Research outcomes encompass publications, data, software, bibliographical material and any other resources (such as experimental workflows, standards) that can be potentially useful for conducting research.
 
-Research outcomes encompass publications, data, software, bibliographical material and any other resources (such as experimental protocols, standards) that can be potentially useful for conducting the research. 
+Research Objects (ROs) allow working open by design and share during the research process and not only the research outputs at the end.
 
-Research Objects allow to work open by design and share during the research process, instead of only sharing the research outputs at the end of a research project.
-
-A Research Object can be implemented as a "Research Object Crate" that is a **machine readable "bundle"** of all research artefacts as a whole.
+In this chapter, we will describe the definition of ROs, their typologies and which platform and technologies exist. 
 
 ```{figure} ../figures/research-object.jpg
 ---
-name: orcid-ids
-alt: This image shows how research objects evolve and grow during collaboration process and how new research objects can be created.
+name: ro-lifecyle
+alt: This image shows how research objects evolve and grow in content during the collaboration process and how new research objects can be derived from existing ones.
 ---
-Research Objects allow to work open by design and share during the research process and not only the research outputs at the end. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+Research Objects allow working open by design and share during the research process and not only the research outputs at the end. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 (cm-ro-motivation)=
 ## Background & Motivation
+Research objects (ROs) are living resources helping to organise and describe the inputs, materials, and methods in open science and not only at the end when publishing the research outcomes. In short, ROs can be seen as a single information unit where any research material can be shared with other scientists at discrete milestones of the investigation identified by an PID, possibly a DOI. 
 
-The main motivations are:
-- to organize and describe the resources, materials, and methods of the research while conducting the research and not only at the end when publishing the outcomes of the research;
-- to manage the entire research lifecycle, and allow the release and publication of results progressively, keeping track of versioning and change information;
-- to share your research materials with other scientists at discrete milestones of your investigation, and collaborate via a single information unit uniquely identified by an PID, possible a DOI;
-- to enhance the findability and accessibility of all the scientific outcomes through a single information unit associated with rich, machine-readable metadata;
-- to facilitate reproducibility and reuse of the scientific methods and results via access to resources, context and metadata, and the possibility of forking existing results;
-- to be recognized and cited (even of constituent parts) encouraging a faster release and publication of research materials;
-- to preserve results and prevent decay using provenance for partial rerun;
-- to provide evidence and support validation of findings claimed in scholarly articles;
-- to acknowledge all the research work and all the individuals who contributed to the research, including potential failures, dead ends or any other information that is usually not captured;
+The entire research lifecycle can be captured, allowing the release and publication of results progressively, keeping track of versioning and change information. ROs facilitate reproducibility and reuse of the scientific methods and results through access to resources, context and metadata, and the possibility of forking existing ROs. As a result, ROs support evidence and support validation of findings claimed in scholarly articles.
+
+ROs and their content have rich machine-readable metadata that can be complemented by automatically discovered metadata through text enrichment service, to enhance the findability and accessibility of all scientific work. 
+
+All the research work, including potential failures, dead ends or any other information such as experimental protocols, standards as well as all the individuals who contributed to the research can be recorded in the RO. 
 
 (cm-ro-contribute)=
 ## Contribute to this Chapter
+We invite all contributions in the following areas:
+- Add or update relevant concepts regarding ROs;
+- Complete and/or add information about typologies;
+- Include additional implementation of ROs and associated services;
