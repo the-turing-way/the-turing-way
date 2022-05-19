@@ -38,7 +38,7 @@ Along with [Jyoti Bhogal](https://jyoti-bhogal.github.io/about-me/)), I started 
 The [Open Life Science](https://openlifesci.org/) programme's Cohort-4 (OLS-4) is where we started scoping out our work and built initial social presence as well as public infrastructure like our [website](https://rse-asia.github.io/RSE_Asia/) and [Twitter account](https://twitter.com/RSE_Asia).
 We launched RSE Asia on 14th October 2021 during our participation in OLS-4.
 
-### What impact do you think is the RSE Asia Association making on your research/project/community?
+### What impact do you think is the RSE Asia Association is making in your community?
 
 Within less than a year from our launch, we already have crossed 100 followers on our official [Twitter account](https://twitter.com/RSE_Asia). 
 I also represent RSE Asia as an [observer](https://researchsoftware.org/council.html) at the international council of RSEs. 
