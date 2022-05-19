@@ -300,20 +300,12 @@ parts:
       sections:
       - title: Informed consent
         file: project-design/sdpm/informed
-      - title: Data minimisation
-        file: project-design/sdpm/min
-      - title: De-identification
-        file: project-design/sdpm/deid
-      - title: Encryption
-        file: project-design/sdpm/encryption
-      - title: Controlled access
-        file: project-design/sdpm/control
-      - title: Secure data transfer
-        file: project-design/sdpm/secure
-      - title: Publishing sensitive data
-        file: project-design/sdpm/publishing
-      - title: Synthetic Data
-        file: project-design/sdpm/synthetic
+      - title: Data Privacy Strategies
+        file: project-design/sdpm/data-privacy-strategies
+      - title: Sharing Sensitive Data
+        file: project-design/sdpm/sharing-sensitive-data
+      - title: Resources
+        file: project-design/sdpm/resources
     - title: Working on Sensitive Data Projects
       file: project-design/sdpw
       sections:
