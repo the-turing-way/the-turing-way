@@ -34,7 +34,7 @@ Hence, we started RSE Asia to conduct events in a more Asia friendly timezone, a
 
 ### How did you get started?
 
-Along with [Jyoti Bhogal](https://jyoti-bhogal.github.io/about-me/)), I started by getting a structured mentorship for building RSE Asia. 
+Along with [Jyoti Bhogal](https://jyoti-bhogal.github.io/about-me/), I started by getting a structured mentorship for building RSE Asia. 
 The [Open Life Science](https://openlifesci.org/) programme's Cohort-4 (OLS-4) is where we started scoping out our work and built initial social presence as well as public infrastructure like our [website](https://rse-asia.github.io/RSE_Asia/) and [Twitter account](https://twitter.com/RSE_Asia).
 We launched RSE Asia on 14th October 2021 during our participation in OLS-4.
 The launch invitation and our graduation video from OLS-4 are available on our [website](https://rse-asia.github.io/RSE_Asia/talks.html).
