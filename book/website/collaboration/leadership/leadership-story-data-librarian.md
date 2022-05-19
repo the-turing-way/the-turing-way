@@ -1,6 +1,6 @@
 # Open leadership by a data librarian
 
-The following are personal reflections by The Turing Way contributor Patricia Herterich and is based on her leading a discussion session at the book dash in May 2022.
+The following are personal reflections by The Turing Way contributor Patricia Herterich and are based on a discussion she led at the Book Dash in May 2022.
 
 ## What does leadership for research infrastructure roles look like?
 
