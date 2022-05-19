@@ -53,7 +53,7 @@ At the end of the workshop you will know why this would be a useful resource for
 ## Handbook
 
 Three chapters are written and ready for your comments! 
-[Version Control](https://github.com/alan-turing-institute/the-turing-way/blob/master/chapters/version_control.md), [Reproducibility](https://github.com/alan-turing-institute/the-turing-way/blob/master/chapters/reproducibility.md) and [Open Research](https://github.com/alan-turing-institute/the-turing-way/blob/master/chapters/open_research.md) are ready for feedback.  
+[Version Control](https://github.com/alan-turing-institute/the-turing-way/blob/main/chapters/version_control.md), [Reproducibility](https://github.com/alan-turing-institute/the-turing-way/blob/main/chapters/reproducibility.md) and [Open Research](https://github.com/alan-turing-institute/the-turing-way/blob/main/chapters/open_research.md) are ready for feedback.  
 We're currently working on the chapters on Research Data Management, Reproducible Computing Environments, Testing, and Continuous Integration. 
 You can follow the progress through the [pull requests on our GitHub repsoitory](https://github.com/alan-turing-institute/the-turing-way/pulls): [#146](https://github.com/alan-turing-institute/the-turing-way/pull/146), [#147](https://github.com/alan-turing-institute/the-turing-way/pull/147) & [#148](https://github.com/alan-turing-institute/the-turing-way/pull/148).  
 We're still building up our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way) to make sure it's easy for you to feed back and add your knowledge to the Turing Way. 
@@ -64,7 +64,7 @@ The team has been spreading the word about the Turing Way project through variou
 * Kirstie Whitaker presented at the Cambridge Psychiatry PI Day on 30 January 2019. 
 Her slides can be found on [figshare](https://doi.org/10.6084/m9.figshare.7649156).
 * Sarah Gibson presented at the [UKRI Cloud workshop](https://cloud.ac.uk/workshops/feb2019/). 
-Resources for her talk can be found [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/conferences/presentations/UKRI_cloud_2019-02-12/UKRI_cloud_demo_2019-02-12.md).
+Resources for her talk can be found [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/conferences/presentations/UKRI_cloud_2019-02-12/UKRI_cloud_demo_2019-02-12.md).
 * Patricia Herterich introduced the Turing Way to the Birmingham Hacker Within community on 18 February 2019. 
 Slides for her talk are published on [zenodo](http://doi.org/10.5281/zenodo.2566430).
 

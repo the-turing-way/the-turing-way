@@ -214,7 +214,7 @@ and generate them again after the second.
 
 Typically, ``all`` and ``clean`` are defined as so-called [Phony
 Targets](https://www.gnu.org/software/make/manual/make.html#Phony-Targets).
-These are targets that don't actually create an output file. Such targets will
+These are targets that don't actually create an output file. If not marked as ``.PHONY`` these targets would
 always be run if they come up in a dependency, but will no longer be run if a
 directory/file is ever created that is called ``all`` or ``clean``. We
 therefore add a line at the top of the Makefile to define these two as phony

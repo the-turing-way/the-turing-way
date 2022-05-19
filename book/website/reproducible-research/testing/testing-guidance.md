@@ -1,12 +1,15 @@
+(rr-testing-guidance)=
 # General guidance and good practice for testing
 
-There are a number of of testing which each have best practice specific to them. Nevertheless there is some general guidance that applies to all of them, which will be outlined here.
+There are several different kinds of testing which each have best practice specific to them (see {ref}`rr-testing-types-of-testing`). 
+Nevertheless, there is some general guidance that applies to all of them, which will be outlined here.
 
+(rr-testing-write-tests)=
 ## Write Tests - Any Tests!
 
 Starting the process of writing tests can be overwhelming, especially if you have a large code base. Further to that, as mentioned, there are many kinds of tests, and implementing all of them can seem like an impossible mountain to climb.
 That is why the single most important piece of guidance in this chapter is as follows: **write some tests**.
-Testing one tiny thing in a code that's thousands of lines long is infinitely better than testing no things in a code that's thousands of lines long.
+Testing one tiny thing in a code that's thousands of lines long is infinitely better than testing nothing in a code that's thousands of lines long.
 You may not be able to do everything, but doing *something* is valuable.
 
 Make improvements where you can, and do your best to include tests with new code you write even if it's not feasible to write tests for all the code that's already written.
@@ -15,20 +18,20 @@ Make improvements where you can, and do your best to include tests with new code
 
 The second most important piece of advice in this chapter: run the tests.
 Having a beautiful, perfect test suite is no use if you rarely run it.
-Leaving long gaps between test runs makes it more difficult to track down what has gone wrong when a test fails because a great deal in the code will have changed.
-Also if it's been weeks or months since tests have been run and they fail it is difficult or impossible to know what work/results that have been done in the intervening time are still valid, and which have to be thrown away as they could have been impacted by the bug.
+Leaving long gaps between test runs makes it more difficult to track down what has gone wrong when a test fails because, a lot of the code will have changed.
+Also, if it has been weeks or months since tests have been run and they fail, it is difficult or impossible to know which results that have been obtained in the mean time are still valid, and which have to be thrown away as they could have been impacted by the bug.
 
-As such it is best to automate your testing as far as possible.
+It is best to automate your testing as far as possible.
 If each test needs to be run individually then that boring painstaking process is likely to get neglected.
-This can be done by making use of a testing framework ([discussed later](#Use_a_testing_framework)).
-[Jenkins](https://jenkins.io) is another good tool for this. Ideally set your tests up to run at regular intervals, possibly each night.
+This can be done by making use of a testing framework ([discussed later](#use-a-testing-framework)).
+[Jenkins](https://jenkins.io) is another good tool for this. Ideally set your tests up to run at regular intervals, possibly every night.
 
 Consider setting up continuous integration (discussed in the continuous integration chapter) on your project. This will automatically run your tests each time you make a change to your code and, depending on the continuous integration software you use, will notify you if any of the tests fail.
 
 ## Consider how long it takes your tests to run
 
-Some tests, like [unit tests](#Unit_tests) only test a small piece of code and so typically are very fast.
-However other kinds of tests, such as [system tests](#System_tests) which test the entire code from end to end, may take a long time to run depending on the code.
+Some tests, like {ref}`rr-testing-unittest` only test a small piece of code and so typically are very fast.
+However other kinds of tests, such as {ref}`rr-testing-systemtest` which test the entire code from end to end, may take a long time to run depending on the code.
 As such it can be obstructive to run the entire test suite after each little bit of work.
 In that case it is better to run lighter weight tests such as unit tests frequently, and longer tests only once per day overnight. It is also good to scale the number of each kind of tests you have in relation to how long they take to run.
 You should have a lot of unit tests (or other types of tests that are fast) but much fewer tests which take a long time to run.
@@ -40,7 +43,7 @@ This documentation should also cover subjects such as
 
 - Any resources, such as test dataset files that are required
 - Any configuration/settings adjustments needed to run the tests
-- What software (such as [testing frameworks](#Use_a_testing_framework)) need to be installed
+- What software (such as [testing frameworks](#use-a-testing-framework)) need to be installed
 
 Ideally, you would provide scripts to set up and configure any resources that are needed.
 
@@ -79,23 +82,26 @@ While modern C++ and C are still mostly compatible, they're not completely and u
 - Fortran unit-tests:
   - funit
   - pfunit (works with MPI)
+- julia
+  - Test.jl (stdlib)
+  - ReTest.jl  
 
 ## Aim to have a good code coverage
 
 Code coverage is a measure of how much of your code is "covered" by tests.
 More precisely it a measure of how much of your code is run when tests are conducted.
-So for example, if you have a `if` statement but only test things where that if statement evaluates to "True" then none of the code that comes under "False" will be run.
-As a result your code coverage would be < 100% (the exact number would depend on how much code comes under the True and False cases).
+So for example, if you have an `if` statement but only test things where that if statement evaluates to "False" then none of the code in the if block will be run.
+As a result your code coverage would be < 100%.
 Code coverage doesn't include documentation like comments, so adding more documentation doesn't affect your percentages.
 
 As discussed any tests are an improvement over no tests.
 Nevertheless it is good to at least aspire to having your code coverage as high as feasible.
 
 Most programming languages have tools either built into them, or that can be imported, or as part of testing frameworks, which automatically measure code coverage.
-There's also a nice little [bot](https://codecov.io/) for measuring code coverage available too.
+There's a nice little [bot](https://codecov.io/) for measuring code coverage available too.
 
 **Pitfall: The illusion of good coverage.** In some instances, the same code can and probably should be tested in multiple ways.
-For example, coverage can quickly increase on code that applies "sanity check" tests to its output ([see below](#tests-that-are-difficult-to-quantify)), but this doesn't preclude the risk that the code is producing the broadly right answer for the wrong reasons.
+For example, coverage can quickly increase on code that applies "sanity check" tests to its output (see also {ref}<rr-testing-challenges-difficult-quatify>), but this doesn't preclude the risk that the code is producing the broadly right answer for the wrong reasons.
 In general, the best tests are those that isolate the smaller rather than larger chunks of coherent code, and so pick out individual steps of logic.
 Try to be guided by thinking about the possible things that might happen to a particular chunk of code in the execution of the whole, and test these individual cases.
 Often, this will result in the same code being tested multiple times - this is a good thing!
