@@ -41,7 +41,7 @@ The launch invitation and our graduation video from OLS-4 are available on our [
 
 ### What impact do you think is the RSE Asia Association is making in your community?
 
-Within less than a year from our launch, we already have crossed 100 followers on our official [Twitter account](https://twitter.com/RSE_Asia), with more and more people recognising that for a very long representation of Asian communities was missing in the international RSE network. 
+Within less than a year from our launch, we already have followers from around the work on our official [Twitter account](https://twitter.com/RSE_Asia).
 I represent RSE Asia as an [observer](https://researchsoftware.org/council.html) at the international council of RSE.
 I was also invited to various RSE events taking place at the international levels, including direct mentorship and support from the Society of RSE.
 Thus, the impact I see is that RSE Asia is gaining momentum & receiving recognition in the international RSE community.
