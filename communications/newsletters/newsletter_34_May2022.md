@@ -151,6 +151,8 @@ If you are interested in joining our community, or learning more about the proje
 *   [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 *   [Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
 *   [Gitter Conversation](https://gitter.im/alan-turing-institute/the-turing-way)
+*   [Mastodon profile](fosstodon.org/@turingway )
+*
 *   [YouTube Channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
 *   [Twitter Page](https://twitter.com/turingway)
 
