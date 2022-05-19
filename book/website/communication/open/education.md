@@ -10,21 +10,28 @@ In open educational practices there is more space for [participation of learners
 (cm-open-education-why)=
 ## Why Open Education?
 
-- Broader and more equal access to access to knowledge and knowledge generation.
-Open Education is rooted in the human right to access high-quality education.
-- Easier to build upon and correct the materials, which facilitates customisation of your education curriculum and 
-- Reduces duplication of effort: If an educator needs materials for teaching and such materials already exist openly, then they need not make their own from scratch, thereby saving time.
-- Easier to collaborate, participate and share resources.
-- Generally more accessible due to open formats compared to proprietary formats in which files cannot be changed. 
-    - Formats like Microsoft docx requires access to Microsoft Word, wheras open formats such as RTF and HTML work with a variety of software. 
-    - While .pdf is an open format, it is also more closed in the sense that it is difficult to edit compared to formats such as RTF and HTML. 
-    - [How to Create Engaging Open Educational Resources without Sacrificing Accessibility](https://www.youtube.com/watch?v=UtOCI5TqtQI)
-    - [OER and Accessibility: Working Toward Inclusive Learning](https://sparcopen.org/news/2018/oer-accessibility-working-toward-inclusive-learning/)
-- Videos: '[Open Education Matters: Why is it important to share content?](https://www.youtube.com/watch?v=dTNnxPcY49Q)' and '[Why Open Education Matters](https://www.youtube.com/watch?v=gJWbVt2Nc-I&list=PL741678F352148469)'
-- Open [does not necessairly exclude revenue generation](https://edscoop.com/how-traditional-textbook-publishers-can-do-well-by-the-oer-community/)
-- Open Educational resources [may be more effective](http://openedgroup.org/review) than [traditional materials that are more expensive](https://www.huffpost.com/entry/college-textbooks-do-you_b_8261086). See also Colvard et al. 2018. 
+Open Education is important as it:
 
-For more information on [benefits (and stakeholders)](https://openeducationalresources.pbworks.com/w/page/24838012/Stakeholders%20and%20benefits)
+- Facilitates broader and more equal access to access to knowledge and knowledge generation.
+Open Education is rooted in the human right to access high-quality education.
+- Is easier to build upon and correct the materials, which facilitates customisation of your education curriculum.
+- Reduces duplication of effort: If an educator needs materials for teaching and such materials already exist openly, then they need not make their own from scratch, thereby saving time.
+- Is easier to collaborate, participate and share resources.
+- Is generally more accessible due to open formats compared to proprietary formats in which files cannot be changed. 
+    - Formats like Microsoft docx requires access to Microsoft Word, whereas open formats such as RTF and HTML work with a variety of software. 
+    - While .pdf is an open format, it is also more closed in the sense that it is difficult to edit compared to formats such as RTF and HTML. 
+    - Accessibility is not guaranteed! 
+Learn more about how to improve the accessibility of your resources: 
+        - [How to Create Engaging Open Educational Resources without Sacrificing Accessibility](https://www.youtube.com/watch?v=UtOCI5TqtQI)
+        - [OER and Accessibility: Working Toward Inclusive Learning](https://sparcopen.org/news/2018/oer-accessibility-working-toward-inclusive-learning/)
+- Open [does not necessairly exclude revenue generation](https://edscoop.com/how-traditional-textbook-publishers-can-do-well-by-the-oer-community/)
+- Open Educational resources [may be more effective](http://openedgroup.org/review) than [traditional materials that are more expensive](https://www.huffpost.com/entry/college-textbooks-do-you_b_8261086). 
+See also {cite:ps}`Colvard2018OERsuccess`. 
+
+Learn more about why Open Education matters: 
+- '[Open Education Matters: Why is it important to share content?](https://www.youtube.com/watch?v=dTNnxPcY49Q)' 
+- '[Why Open Education Matters](https://www.youtube.com/watch?v=gJWbVt2Nc-I&list=PL741678F352148469)'
+- Open Education [benefits (and stakeholders)](https://openeducationalresources.pbworks.com/w/page/24838012/Stakeholders%20and%20benefits)
 
 (cm-open-education-promotion)=
 ## Examples of promotion of Open Education
