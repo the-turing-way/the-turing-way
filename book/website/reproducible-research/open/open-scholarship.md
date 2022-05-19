@@ -11,6 +11,8 @@ alt: A depiction of Open Scholarship as an umbrella with other elements of Open 
 ---
 ```
 
+## Open Education 
+
 (rr-open-scholarship-resources)=
 ## Open Educational Resources
 
