@@ -11,6 +11,7 @@
 (pd-sdp-summary)=
 ## Summary
 
+
 As researchers, we need to learn how to work with sensitive data so that we can tackle many challenging research questions. 
 It can often be harder to work with sensitive data due to the regulations and restrictions that are required. Abiding by these legal requirements can come with added technical steps such as de-identification of the data or the use of trusted research environments. 
 There are considerations that need to be taken as to how to work in an inner source (wikipedia: https://en.wikipedia.org/wiki/Inner_source - open collaboration and open communication in a team) manner, which builds a closed but transparent research record enabling reproducible research.  
