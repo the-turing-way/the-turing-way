@@ -17,4 +17,4 @@ References: https://libguides.jcu.edu.au/rdm-toolkit/sharing-sensitive-data
 (pd-sdp-combined-examples)=
 ## Examples of projects with a combination of different datasets
 
-* Hardelid et al. (2014) "Estimating the prevalence of chronic conditions in children who die in England, Scotland and Wales: a data linkage cohort study" BMJ Open. https://bmjopen.bmj.com/content/bmjopen/4/8/e005331.full.pdf
+* Hardelid (2014) "Estimating the prevalence of chronic conditions in children who die in England, Scotland and Wales: a data linkage cohort study" BMJ Open. https://bmjopen.bmj.com/content/bmjopen/4/8/e005331.full.pdf
