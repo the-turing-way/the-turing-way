@@ -1,4 +1,4 @@
-(cl-oss-sustainability-challenges)=
+
 
 # Challenges with sustainability of Open Source projects
 
