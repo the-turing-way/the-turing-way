@@ -3214,6 +3214,15 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "K-C-Martin",
+      "name": "K-C-Martin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57388565?v=4",
+      "profile": "https://github.com/K-C-Martin",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
