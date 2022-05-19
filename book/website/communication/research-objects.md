@@ -2,7 +2,7 @@
 # Research Object to capture the Research Life Cycle
 
 ## Prerequisites / recommended skill level
-
+No previous knowledge is needed.
 ## Summary
 
 Research outcomes encompass publications, data, software, bibliographical material and any other resources (such as experimental protocols, standards) that can be potentially useful for conduting the research. 
