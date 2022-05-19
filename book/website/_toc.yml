@@ -319,10 +319,6 @@ parts:
       sections:
       - title: Working with Trusted Research Environments
         file: project-design/sdpw/trew
-      - title: Conducting research with Trusted Research Environments
-        file: project-design/sdpw/trec
-      - title: Publishing output from Trusted Research Environments
-        file: project-design/sdpw/trep
       - title: Keeping Sensitive Files Secure
         file: project-design/sdpw/pd-sdp-sensitive-files
       - title: Sharing Your Jupyter Notebook
