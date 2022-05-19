@@ -28,7 +28,7 @@ I am also participating in the [Pilot Mentorship Programme](https://society-rse.
 
 ### What is the main motivation behind starting the RSE Asia Association?
 
-The RSE Asia Association was started before there was a lack of representation from the Asian region in the international RSE community. Another reason was the significant timezone difference with the global north. 
+The RSE Asia Association was started because there was a lack of representation from the Asian region in the international RSE community. Another reason was the significant timezone difference with the global north. 
 Despite the shift of events to online mode due to the pandemic, the timezone difference remains a challenge for us when attending the events. 
 Hence, we started RSE Asia to conduct events in a more Asia friendly timezone, and promote the RSE community and profession in Asia.
 
@@ -37,6 +37,7 @@ Hence, we started RSE Asia to conduct events in a more Asia friendly timezone, a
 Along with [Jyoti Bhogal](https://jyoti-bhogal.github.io/about-me/)), I started by getting a structured mentorship for building RSE Asia. 
 The [Open Life Science](https://openlifesci.org/) programme's Cohort-4 (OLS-4) is where we started scoping out our work and built initial social presence as well as public infrastructure like our [website](https://rse-asia.github.io/RSE_Asia/) and [Twitter account](https://twitter.com/RSE_Asia).
 We launched RSE Asia on 14th October 2021 during our participation in OLS-4.
+The launch invitation and our graduation video from OLS-4 are available on our [website](https://rse-asia.github.io/RSE_Asia/talks.html).
 
 ### What impact do you think is the RSE Asia Association is making in your community?
 
