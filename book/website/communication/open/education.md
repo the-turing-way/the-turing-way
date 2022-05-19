@@ -14,9 +14,10 @@ Open Education is important as it:
 
 - Facilitates broader and more equal access to access to knowledge and knowledge generation.
 Open Education is rooted in the human right to access high-quality education.
-- Is easier to build upon and correct the materials, which facilitates customisation of your education curriculum.
+- Is more easy to use: 
+    - Easier to build upon and correct the materials, which facilitates customisation of your education curriculum.
+    - Easier to collaborate, participate and share resources.
 - Reduces duplication of effort: If an educator needs materials for teaching and such materials already exist openly, then they need not make their own from scratch, thereby saving time.
-- Is easier to collaborate, participate and share resources.
 - Is generally more accessible due to open formats compared to proprietary formats in which files cannot be changed. 
     - Formats like Microsoft docx requires access to Microsoft Word, whereas open formats such as RTF and HTML work with a variety of software. 
     - While .pdf is an open format, it is also more closed in the sense that it is difficult to edit compared to formats such as RTF and HTML. 
@@ -57,24 +58,23 @@ Fully open OERs comply with the [5 Rs](http://opencontent.org/definition/):
 (cm-open-education-oers-how)=
 ## How to set up OERs? 
 
-1. Choose a platform
-2. Collect resources under an open license (see [Attribution & Fair Use: Copyright in Open Education](https://www.youtube.com/watch?v=jGTUHdadqJU) and {ref} section on data licenses<rr-licensing-data>
-3. Ask for feedback
-4. Share and promote your resources
+1. Choose a platform.
+2. Collect resources under an open license (see [Attribution & Fair Use: Copyright in Open Education](https://www.youtube.com/watch?v=jGTUHdadqJU) and {ref} section on data licenses<rr-licensing-data>.
+3. Ask for feedback.
+4. Share and promote your resources.
 
 See also a short video on '[Creating Open Educational Resources: Tips for New Creators](https://www.youtube.com/watch?v=DV-HiWtMq1U)' and '[A Guide to Making Open Textbooks with Students](https://press.rebus.community/makingopentextbookswithstudents/)'
 
 (cm-open-education-oers-examples)=
 ## Examples of OERs
 - The Turing Way
-- Data science R boeken
-- University presses
+- [R for Data Science](https://r4ds.had.co.nz/)
+- [OER Commons](https://www.oercommons.org/)
 
 (cm-open-education-resources)=
 # Resources
 - [SPARC Open Education Leadership Program curriculum](https://sparcopen.org/our-work/open-education-leadership-program/curriculum/)
 - [Open Education Group](https://openedgroup.org/)
-- [OER Commons](https://www.oercommons.org/)
 - [Open Education Network](https://open.umn.edu/oen/)
 - Webinar on '[Creating and Sharing Open Educational Resources (OER)](https://www.youtube.com/watch?v=6JgoUbED4rM)'
 - [Podcast interview with Nicole Allen](https://leadinglinespod.com/episodes/episode-029-nicole-allen/)
