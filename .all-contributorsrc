@@ -2122,7 +2122,9 @@
         "content",
         "translation",
         "infra",
-        "review"
+        "review",
+        "maintenance",
+        "doc"
       ]
     },
     {
