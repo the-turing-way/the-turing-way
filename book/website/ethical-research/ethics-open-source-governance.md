@@ -4,7 +4,7 @@
 (er-ethics-open-source-governance-summary)=
 ## Summary
 
-Open source projects are rooted in ethical principles. 
+Open source projects should be rooted in ethical principles. 
 Sharing the code so that anyone can use it, welcoming contributors and creating communities around specific projects are the core of open source. 
 But open source communities also have the responsibility to ensure they are a safe, inclusive environment, understand who might be affected by their projects or check that their tools are not being misused. 
 Therefore, Open Source Governance Models should embed those ethical considerations within their structure, but the framework to do so is far from well-established. 
