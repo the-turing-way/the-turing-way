@@ -5,7 +5,19 @@
 
 In this chapter, we share a case study in the form of an open interview with [Saranjeet Kaur Bhogal](https://saranjeetkaur.github.io/About-Me/) about how the RSE Asia Association was set up. 
 
-### Why did you start the RSE Asia Association?
+### Tell us about your background, and what led you to set up the RSE Asia Association?
+
+My name is [Saranjeet Kaur Bhogal](https://saranjeetkaur.github.io/About-Me/) and I'm a Statistician based in India. 
+I am interested to learn about open source and open science and like to remain involved with open science community work. 
+In early 2021, I wrote the first draft of the [R Development Guide](https://github.com/r-devel/rdevguide) through a project funded by the R Foundation. Furthermore, I co-lead the work on the outreach of the R Development Guide at the [Digital Infrastructure Incubator at Code for Science & Society](https://incubator.codeforscience.org/). 
+Recently, I am working as a Technical Writer with The R Project at the Google Season of Docs 2022 for a project to ["Expand and Reorganize the R Development Guide"](https://github.com/rstats-gsod/gsod2022/wiki/GSOD-2022-Proposal).
+Previously, I have also worked with the Julia Language organization for [Google Summer of Code 2020](https://gist.github.com/SaranjeetKaur/37086fea06076bd3ec76d052cc166378). 
+In early 2022, I was selected as the founding committee of NumFOCUS Project Incubator. 
+This Incubator is designed to support the growth of open-source scientific projects and communities and provide such projects with the required tools for becoming NumFOCUS Affiliated.
+I co-founded the [Research Software Engineering (RSE) Asia Association](https://rse-asia.github.io/RSE_Asia/) during my participation in the [Cohort 4 of the Open Life Science programme](https://openlifesci.org/ols-4/projects-participants/), to promote the RSE community and profession in the Asia region. 
+I am also participating in the [Pilot Mentorship Programme](https://society-rse.org/events/pilot-mentoring-programme/) of the Society of Research Software Engineering to further build the RSE Asia community.
+
+### What is the main motivation behind starting the RSE Asia Association?
 
 The RSE Asia Association was started before there was a lack of representation from the Asian region in the international RSE community. Another reason was the significant timezone difference with the global north. 
 Despite the shift of events to online mode due to the pandemic, the timezone difference remains a challenge for us when attending the events. 
@@ -85,17 +97,5 @@ With the hope to achieve this, we are planning to set up a working group soon.
 
 I feel the RSE Asia Association would expand more and include more representatives across the Asian region in the future. 
 We are also planning to set up a Working Group and an Advisory Board for RSE Asia.
-
-### About RSE Asia Association project lead
-
-My name is [Saranjeet Kaur Bhogal](https://saranjeetkaur.github.io/About-Me/) and I'm a Statistician based in India. 
-I am interested to learn about open source and open science and like to remain involved with open science community work. 
-In early 2021, I wrote the first draft of the [R Development Guide](https://github.com/r-devel/rdevguide) through a project funded by the R Foundation. Furthermore, I co-lead the work on the outreach of the R Development Guide at the [Digital Infrastructure Incubator at Code for Science & Society](https://incubator.codeforscience.org/). 
-Recently, I am working as a Technical Writer with The R Project at the Google Season of Docs 2022 for a project to ["Expand and Reorganize the R Development Guide"](https://github.com/rstats-gsod/gsod2022/wiki/GSOD-2022-Proposal).
-Previously, I have also worked with the Julia Language organization for [Google Summer of Code 2020](https://gist.github.com/SaranjeetKaur/37086fea06076bd3ec76d052cc166378). 
-In early 2022, I was selected as the founding committee of NumFOCUS Project Incubator. 
-This Incubator is designed to support the growth of open-source scientific projects and communities and provide such projects with the required tools for becoming NumFOCUS Affiliated.
-I co-founded the [Research Software Engineering (RSE) Asia Association](https://rse-asia.github.io/RSE_Asia/) during my participation in the [Cohort 4 of the Open Life Science programme](https://openlifesci.org/ols-4/projects-participants/), to promote the RSE community and profession in the Asia region. 
-I am also participating in the [Pilot Mentorship Programme](https://society-rse.org/events/pilot-mentoring-programme/) of the Society of Research Software Engineering to further build the RSE Asia community.
 
 _This case study in the form of an open interview was originally written during the Turing Way book Dash in May 2022. We acknowledge all the people who contributed their time for asking the questions: Arielle Bennett, Carlos Martinez, Elisa Rodenburg, Emma Karoune, Esther Plomp, and Lena Karvovskaya (names are in alphabetical order); and Saranjeet Kaur Bhogal for writing the answers._
