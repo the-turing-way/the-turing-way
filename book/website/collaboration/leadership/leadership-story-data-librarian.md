@@ -11,7 +11,7 @@ In the ten years I have worked in the open science space in research infrastruct
 
 Many of these roles contain a degree of coordination and project management, so our leadership brings people together, facilitates conversations that otherwise might not happen and while we might not be decision makers, we certainly can get others to make decisions and hold them accountable for enacting them.
 
-I have managed a range of services (data repositories, service to support data management planning), working closely with software developers on delivering a smooth service to users.
+I have managed a range of services (data repositories, service to support [data management planning](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html)) working closely with software developers on delivering a smooth service to users.
 As I prefer decision making by consensus, it often feels more like a collaboration and less like me leading the team and service development. 
 
 
@@ -21,11 +21,11 @@ Many of my leadership inspirations and ways how I acquired skills where not  par
 I also often lead on projects that are based around ideas mentioned on Twitter.
 Not all of them are followed up on, but I have organised events and started collaborations based on others co-leading with me.
 Learning about the [Mozilla Open Leadership principles](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/) was life-changing for me. 
-While the program taught me technical skills like how to use GitHub, it also highlighting that thinking about workflows, project contributors and documentation are just as important as the technical skills.
+While the program taught me technical skills like how to use GitHub, it also highlighted that thinking about workflows, project contributors and documentation are just as important as the technical skills.
 It also brought me into the Turing Way core team when it was initially set up. 
 
 ## Addressing my weaknesses
-One of the main skills leaders should have is understand their weaknesses and actively work on them.
+One of the main skills leaders should have is the ability to understand their weaknesses and actively work on them.
 They should also bring other people into the space they lead in that might balance out areas of weakness.
 
 I personally struggle with delegating and often just did tasks myself to make sure they are done the way I expected. 
