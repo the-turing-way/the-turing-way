@@ -574,7 +574,7 @@ There is, however, no reason why the execution of an analysis should require roo
 This is especially important when computations are conducted on a shared resource like HPC systems where users will never have root access.
 
 The [singularity](https://www.sylabs.io/) container software was introduced to address this issue.
-Singularity was created with HPC systems and reproducible research in mind (see [this](https://www.youtube.com/watch?v=DA87Ba2dpNM video).
+Singularity was created with HPC systems and reproducible research in mind (see [this](https://www.youtube.com/watch?v=DA87Ba2dpNM) video).
 It does not require root access to run (only to build container _images_!), and thus enables HPC users to locally build container images before running analyses on a high-performance cluster, for example.
 As an added benefit, this makes it possible to use almost any software on an HPC system without having to bother admin staff with installing it.
 
