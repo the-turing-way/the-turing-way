@@ -1,143 +1,220 @@
 TTW Newsletter, May 2022
 
-# Book dash is happening this week!
+# Book dash is happening this week! Sign up for Community Share-out and more!
 
-Hi everyone! It's been another busy month within The Turing Way community, full of new chapters, community features, and . Check out
+Hi everyone! It's been another busy month within *The Turing Way* community, full of new (and ongoing) chapters, community features, and upcoming events.
+This newsletter is full of updates about what we've been up to–– and a test of a new newsletter format as well!
 
-📚💨 Book dash is happening this week! We're happy to be piloting a 'hub' model in Amsterdam, Netherlands and both London and Bristol in the UK. Learn more in
-☕ The next **Collaboration Cafe is happening this week on 1 June at 15:00 London time** (UTC+1). (See the bottom of this update or this [HackMD](https://https://hackmd.io/@turingway/collaboration-cafe) for details)
-📣 Check out 'community news' and 'opportunities in the Turing orbit' to learn more about roles, calls for pe
+📚💨 **Book Dash is happening this week!** Don't forget to sign up for our Community Share-outs sessions (open to all), happening this Friday (20 May).
+☕ The next **Collaboration Cafe is happening this week on 1 June at 15:00 London time** (UTC+1). See 'Upcoming events' for details.
+📣 Check out 'Community News' and 'Opportunities in the Turing orbit' to learn more about upcoming roles, calls for proposals, and events we are excited about.
 
 Thank you to XXX and XXX for reviewing drafts of this newsletter!
 
 ---
 
+![Alt: Collaboration image](images/2022-05-collaboration-scriberia.jpg)
+_Illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://zenodo.org/record/5706310#.YoS-RmDMK58)._
+
 # Upcoming Events
 
-[ PHOTO HERE ]
+## Community Share-Out on 20 May
 
-## Book dash is happening now!
-
-Book dash is happening this week, and community members are hard at work collaborating on new chapters related to XX and XXX.
-
-### Contributors in Focus: Book dash
-
-### Community Share-Outs on 20 May
-
-On 20 May 2022, the last day of Book Dash, we will host two [Community Share Out and Contributor Celebrations Events](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-events.html#community-share-outs-contributor-celebration)
+On 20 May 2022, the last day of Book Dash, we will host two [Community Share-Out and Contributor Celebrations Events](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-events.html#community-share-outs-contributor-celebration)
 This is a public event for folks interested in learning more about The Turing Way, seeing what recent updates have been made in the project and celebrating the incredible work of our contributors.
-We will also release the new version of _The Turing Way_ book and give an early preview of a new set of illustrations developed during the Book Dash.
-You are invited to attend one or both sessions, please sign up on [Eventbrite](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebrations-may-2022-tickets-323373307267).
+At the Community Share-Out, we will also release the new version of _The Turing Way_ book and give an early preview of a new set of illustrations developed during the Book Dash.
+Sign up to attend one or both sessions on [Eventbrite](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebrations-may-2022-tickets-323373307267).
 
 ## Collaboration Cafes and Coworking calls ☕
 
-Collaboration Cafés this month are being hosted on 1 June and 15 September 2021. These calls are places for co-working, discussion, onboarding, and collaboration. As usual, these calls will take place from 15:00 - 17:00 London time (see in your time zone) and you can sign up on this shared HackMD: hackmd.io/@turingway/collaboration-cafe.
+This month, **Collaboration Cafés** are being hosted on 1 June and 15 June 2022.
+Have a question about The Turing Way?
+These calls are places for co-working, discussion, onboarding, and collaboration.
+As usual, they take place from 15:00 - 17:00 London time ([see in your time zone](https://arewemeetingyet.com/London/2022-06-01/15:00)) and you can sign up on this shared HackMD: hackmd.io/@turingway/collaboration-cafe.
 
-Weekly coworking calls are hosted every Monday, 6, 13, 20 and 27 September 2021, from 11:00 - 12:00 London time (see the first slot in your time zone). These calls are accountable space for coworking on your contributions or discuss your idea for The Turing Way. Find the joining link on this shared HackMD: hackmd.io/@turingway/coworking-calls.
+**Weekly coworking calls** are hosted every Monday from 11:00 - 12:00 London time ([in your time zone](https://arewemeetingyet.com/London/2022-05-23/15:00)). These calls are accountable space for coworking on your contributions or discuss your idea for *The Turing Way*. Find the joining link on this shared HackMD: hackmd.io/@turingway/coworking-calls.
+
+## Upcoming Fireside Chat
+No Fireside chat is happening this month due to Book Dash! Stay tuned for our June Fireside chat. Both the March event, ["Emergent Roles in Research & Technology"](https://www.youtube.com/watch?v=i3_GFRS-u-Q&t=757s), and April event, ["Enabling Inclusive Research Conferencing in the 'Post-Pandemic Era'"](https://www.youtube.com/watch?v=ImwJqo1zbMI&t=15s) have been uploaded to YouTube.
+
+
+## Join TPS @ The Turing
+
+The Alan Turing Institute is recruiting a Research Project Manager to join the Tools, Practices & Systems programme (which hosts *The Turing Way*).
+The PM will work to embed collaborative, open, reproducible, and ethical practices across the Turing & beyond.
+⏰ Applications due by Monday, 13 June 2022  ([apply here](https://cezanneondemand.intervieweb.it/turing/jobs/research_project_manager_tools_practices_and_systems_23438/en/))
+📌 *For questions about the role, please contact Arielle Bennett at abennett@turing.ac.uk.*
 
 ---
+
+![Alt: 'Our Community' Scriberia Illustration](images/2022-05-community-scriberia.jpg)
+_Illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://zenodo.org/record/5706310#.YoS-RmDMK58)._
 
 # Community News
 
-## The Turing Way featured in HiddenREF
+## Book dash is happening now!
 
-Emma Karoune, core team member of The Turing Way, was recently featured on XX
+Book dash is happening this week!
+It has been so exciting and  and community members are hard at work creating new chapters, revisiting long-held ideas, and collaborating on projects within *The Turing Way*.
+Thank you for giving your time to us this week, and for supporting each others' work!
+As always, Scriberia has been joining us to work on illustrations.
 
+### Contributors in Focus: Book Dash Planning Committee and participants
 
+Thank you to the The Turing Way Book Dash planning committee members: Anne Lee Steele, Arielle Bennett, Brigitta Sipőcz, Carlos Martinez, Emma Karoune, Esther Plomp, Laura Carter, Lena Karvovskaya, and Malvika Sharan – who planned The Turing Way's 7th book dash!
 
+This week, we have 24 invited contributors participating in 14 online working sessions, two discussions and social events, and two community share-outs across more than four timezones.
+Thank you for joining us: Aida Mehonic, Achintya Rao, Alejandro Coca-Castro, Alden Conner, Anne Fouilloux, Batool Almarzouq, Daliyah Alzeer, Ed Chalstrey, Elisa Rodenburg, Eric Charles, Evelina Gabasova, Hari Sood, Iman Al Hasani, Jennifer Ding, Jim Madge, Johanna Bayer, Julien Colomb, Lena Kavovskaya, Mishka Nemes, Patricia Herterich, Saranjeet Kaur, Timothy Sum Hon Mun, and Vicky Hellon.
+Sign up for the Community Share-out to learn more!
+
+As always, thank you to Scriberia as well for visualising our work, and to Adrien Liard in particular for joining us at this Book Dash!
+
+### Bookdash hubs: Amsterdam, Bristol, and London
+
+![Alt: Image of London, Amsterdam, and Bristol hubs for the Book Dash event](images/2022-05-bookdash-hubs.jpg)
+_Book Dashers at the London, Amsterdam, and Bristol hubs! Pictured (left to right): Arielle Bennett, Laura Carter, Carlos Martinez, Lena Karvovskaya, Esther Plomp, Elisa Rodenburg, and Achintya Rao._
+
+This book dash, we have been piloting a hub-format in Amsterdam in the Netherlands, and both London and Bristol in the UK.
+It has been an experiment in organising hybrid events across timezones, and we are interested in learning more about how we can support hybrid events to ensure enclusive participation in events like Book Dashes for our amazing community.  
+
+The London hub is being hosted at the Alan Turing Institute.
+Thank you to Lena Karvovskaya, who is hosting the Amsterdam hub at the Vrije Universiteit and to John Newby for hosting the Bristol hub at the Jean Golding Institute, University of Bristol.
+
+## The Turing Way in HiddenREF
+
+![Alt: Emma Karoune featured in HiddenREF](images/2022-05-hiddenref.jpg)
+_Emma Karoune, featured in The HiddenREF project representing The Turing Way!_
+
+*The Turing Way* was recently awarded as a 'highly commended' project in The Hidden REF competition, which highlights non-traditional contributions to research.
+Emma Karoune, core team member of The Turing Way was invited to give a short interview about the project, and you can [read the feature here](https://www.emeraldgrouppublishing.com/news-and-press-releases/progress-science-depends-a-team?utm_source=twitter&utm_medium=social&utm_campaign=bnd_HiddenRefBlog_existing_20220426).
+See the list of incredible winners for each category on the [HiddenREF website](https://hidden-ref.org/).
+Thank you for representing our community, Emma!
+
+## *The Turing Way* is in the Fediverse!
+
+![Alt: Screenshot of mastodon profile](images/2022-05-mastodon-screenshot.jpg)
+_The Fediverse is a common name for federated social networks that run on free/open software on a number of different servers across the world. [Source](https://fediverse.party/en/fediverse/)_
+
+Thank you to Danny Garcide for creating a profile on a Mastodon instance (called Fosstodon - dedicated to Free & Open Source Software) for *The Turing Way*.
+Mastodon is similar to Twitter, but is both open source and decentralised.
+Learn more about [Mastodon](https://fosstodon.org/@turingway) here, and follow us at: https://fosstodon.org/@turingway.
+
+For now, we've set up our profile to mirror our Twitter activity (with the help of the open source tool: http://moa.party) and we're working out how we want to manage it going forwards.
+If you have ideas, let us know!
+
+## JISC Nomination
+
+![Alt: Screenshot of JISC article](images/2022-05-jisc.jpg)
+_JISC is one of the UK's expert bodies for digital technology and digital resources in both higher and further education as well as research._
+
+Malvika Sharan, co-lead of *The Turing Way*, was recently named a "Community Champion" by the Joint Information Systems Committee (JISC).
+[Read the article here](https://www.jisc.ac.uk/membership/stories/the-turing-way-forward). Congratulations Malvika, and thank you for representing our community!
+
+## Chapter Updates
+
+### Open Access Chapter
+
+![Alt:Screenshot of YouTube recording: "History of Scientific Publishing - Where do we go from here?"](images/2022-05-scientific-pub-vicky.jpg)
+_Vicky's talk was first presented at the Turing's "Lunch and Learn" Series on 4 May 2022._
+
+Core contributor Vicky Hellon's talk, titled "History of scientific publishing, and where do we go from here?", was recently added to the [chapter on Open Access](https://the-turing-way.netlify.app/reproducible-research/open/open-access.html?highlight=open%20access%20vicky), located in the Guide for Reproducible Research.
+
+### Fireside Chat Chapter
+
+![Alt:Drawing by Scriberia about Fireside chats](images/2022-05-fireside-scriberia.jpg)
+_Illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://zenodo.org/record/5706310#.YoS-RmDMK58)._
+
+A new section has been added to the Community Handbook on [Fireside Chats](https://the-turing-way.netlify.app/community-handbook/fireside-chat.html?highlight=fireside%20chat).
+We hope this section will be useful for others planning similar events, and apply lessons we have learned along the way.
+
+In the future, we'd like to add more information about each Fireside chat hosted so far, to ensure that these conversations can live beyond the events themselves. We hope that they can provide ideas for best practices and shared experiences for others interested in similar topics.
+
+If you'd like to get involved in that process, join the [Issue](https://github.com/alan-turing-institute/the-turing-way/issues/2344) on Github.
 
 ## Talks and Workshops
+![Alt: Compilation of screenshots of talks](images/2022-05-talks-workshops.jpg)
 
-### Frictionless Community Call
+_A busy month of presentations, workshops, and conferences within the community!_
 
-### RSC Camps
+- **Emma Karoune** gave a talk about *The Turing Way* and reproducible research at Durham University's Reprohack event on 19 May. [DOI: XXXX]()
+- **Esther Plomp** gave a talk on "Research Integrity @ MTU - From Idea to Dissemination" at Munster Technological University on 18 May. Slides: [DOI: 10.5281/zenodo.6558216](https://zenodo.org/record/6558216#.YoVCSGDML9s).
+- **Anne Lee Steele** joined the Software Sustainability Institute's "Research Software Camp: Next steps in coding" event as a panelists on 16 May. [Watch the recording here](https://www.youtube.com/watch?v=NDM3qk3laPc).
+- **Malvika Sharan** spoke about "Creating visible roles and recognitions for maintainers in our community" at PyCon US on 29 April. [Watch the recording here](https://www.youtube.com/watch?v=_k7rg_3qNq4). Slides: [DOI:  10.5281/zenodo.6475654](https://zenodo.org/record/6475654#.YoYUgGDML9s)
+- **Anne Lee Steele** joined the Frictionless Data Community Call to speak about *The Turing Way* and open science principles on 28 April. [Watch the recording here](https://frictionlessdata.io/blog/2022/05/05/april-community-call/) and read the blog [here](https://frictionlessdata.io/blog/2022/05/05/april-community-call/).
+- **Vicky Hellon** spoke about Open Access publishing at a "Lunch and Learn" Seminar at the Alan Turing Institute on 4 May. Slides: [DOI: 10.5281/zenodo.6516871](https://zenodo.org/record/6516871#.YoYQx2DMJjM)
 
+## Ongoing projects
 
-### Frictionless Community Call
-Anne patricipated in a
+### Open Governance Models Project
 
-## Open Governance Models Project
+Malvika and Anne are continuing their investigation into open governance practices, which is being developed through the [Open Life Science program](https://openlifesci.org/).
+If you'd like to get involved, please comment on their project [Pull Request on Github](https://github.com/open-life-science/ols-5/issues/31), email them at msharan@turing.ac.uk or asteele@turing.ac.uk, or reach out to them on Slack directly.
 
-Malvika and Anne are continuing their investigation into open governance practices, which is being developed through the [Open Life Science program](https://openlifesci.org/). If you'd like to get involved, please comment on their project [Pull Request on Github](https://github.com/open-life-science/ols-5/issues/31), email them at msharan@turing.ac.uk or asteele@turing.ac.uk, or reach out to them on Slack directly.
+### Community Research Updates
 
-## Community Research
-
-
+Anne's community research within The Turing Way forges on! She posts [weekly updates on Friday on this Github Issue](https://github.com/alan-turing-institute/the-turing-way/issues/2318).
+If you'd like to get involved in the process or talk to her more about it, reach out to her directly on Slack or by [email](mailto:asteele@turing.ac.uk).
 
 ## Tweets & mentions
+![](https://i.imgur.com/cw5QhKa.jpg)
 
-1.
-2.
-3.
-
-
+1. Tweet by Arielle Bennett: https://twitter.com/biotechchat/status/1526112952486703104
+2. Tweet by Malvika Sharan: https://twitter.com/MalvikaSharan/status/1522221203544453122
+3. Tweet by Saranjeet Kaur: https://twitter.com/qwertyquesting/status/1526126435903340549
+4. Tweet by Elisa Rodenburg: https://twitter.com/Elisa_in_tweets/status/1521877919563497472
+5. Tweet by Laurie Baker: https://twitter.com/llbaker1707/status/1521806855793782787
 
 ---
 
-# Opportunities in the Turing Orbit
+![](https://i.imgur.com/OQXRn5U.jpg)
 
-## Roles
+# In the Turing Orbit
 
-- Turing: TPS Research Project Manager
-    - ⏰ Applications due by Monday, 13 June 2022  
-    - 📌 Full details about the role, including how to apply, can be found on the [application page](https://cezanneondemand.intervieweb.it/turing/jobs/research_project_manager_tools_practices_and_systems_23438/en/).
-    For questions about the role, please contact Arielle Bennett at abennett@turing.ac.uk.
+## Opportunities
+- **eLife: Early-Career Advisory Group**
+    - ⏰ Applications due by Friday, 24 May Tuesday 2022 ([apply here](https://crm.elifesciences.org/crm/ECAGcandidate2022))
+- **Pollicy: Director of Research**
+    - ⏰ Applications due by Tuesday, 31 May 2022 [(apply here)](https://pollicy.org/events/director-of-research/)
+    - 📌 _Note: Candidates must be located +3 hours or -3 hours of East African Time zone._
+- **Code for Science & Society: Operations Coordinator**
+    - ⏰ Applications due by Tuesday, 24 May 2022  
+    - 📌 Learn more about the role and how to apply [on the CS&S website](https://codeforscience.org/jobs/operations-coordinator-people/)
+- **Quantsight: Open Source Software Developer Advocate**
+    - ⏰ Applications due by Tuesday, 24 May 2022  [(apply here)](https://boards.greenhouse.io/quansight/jobs/4001517005?t=6c3175585us)
+- **A4AI: Sustainable Access Fellowship**
+    - ⏰ Applications due by Tuesday, 31 May 2022  
+    - 📌 More information about the application process on the [A4AI website](https://a4ai.org/get-involved/careers/)
+    - *Note: Candidates can be located anywhere in the world.*
+- **Carpentries: Lesson Maintainer**
+    - ⏰ Applications due by Tuesday, 24 May 2022 [(apply here)](https://carpentries.org/blog/2022/05/maintainer-application/)
+- **Correlation One: Data Science for All / Women Fellowship**
+    - ⏰ Applications due by Tuesday, 31 May 2022 [(apply here)](https://www.correlation-one.com/data-science-for-all-women?utm_source=referral&utm_medium=direct&utm_campaign=ds4a_tena)
 
-### Pollicy: Director of Research
-**Note: Candidates must be located +3 hours or -3 hours of East African Time zone.**
-⏰ Applications due by Tuesday, 31 May 2022  
-📌 Learn more about the role and how to apply [on the Pollicy website](https://pollicy.org/events/director-of-research/)
+## Calls for Submissions
+- **Alan Turing Institute: TPS Peer Mentorship & Training Programme**
+    - ⏰ Applications due by Sunday, 22 May 2022  [(learn more here)](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=61990&eventID=188)
+    - 🗓️ Programme dates: Wednesday, 1 June – Wednesday, 27 July 2022
+    - Reach out with questions or interest to training@turing.ac.uk
+    - 📌 *Note: Applicants for this pilot should be affiliated with the Turing.*
+- **Alan Turing Institute: Online Training call**
+    - ⏰ Applications due by Thursday, 26 May 2022 [(apply here)](https://www.turing.ac.uk/funding-call-online-learning-courses-responsible-ai)
+    - Reach out with questions or interest to training@turing.ac.uk
+    - 📌 *Note: Applications are open to any researcher or practitioner affiliated with a UK-based university, organisation or research institution.*
+- **UCL: Open Source Software Sustainability Funding Call**
+    - ⏰ Applications due by Tuesday, 14 June 2022  [(learn more here)](https://www.ucl.ac.uk/advanced-research-computing/research/funding-calls/open-source-software-sustainability-funding-call)
+- **UNESCO: Global Call for Best Practices in Open Science**
+    - ⏰ Applications due by Friday, 15 July 2022  [(learn more here)](https://en.unesco.org/feedback/unescos-global-call-best-practices-open-science)
+- **CarpentryCon**
+    - ⏰ Applications due by Sunday, 22 May 2022  [(learn more here)](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=61990&eventID=188)
+    - 🗓️ Programme dates: Wednesday, 1 June – Wednesday, 27 July 2022
 
-### Code for Science & Society: Operations Coordinator
-⏰ Applications due by Tuesday, 24 May 2022  
-📌 Learn more about the role and how to apply [on the CS&S website](https://codeforscience.org/jobs/operations-coordinator-people/)
+## Upcoming Events and Workshops
+- **Software Sustainability Institute: Empowering communities with open principles workshop**
+    - 🗓️ Monday, 23 May 2022 [(tickets on Eventbrite)](https://eventbrite.co.uk/e/empowering-communities-with-open-principles-tickets-328167687387?aff=odeimcmailchimp&mc_cid=1db97e1a1b&mc_eid=6d43989b19)
+- **Bristol Data Week**
+    - 🗓️ Showcase dates: Monday, 13 - Friday, 17 June 2022 [(book a place here)](http://www.bristol.ac.uk/golding/get-involved/data-week/)
 
-### Quantsight
-⏰ Applications due by Tuesday, 24 May 2022  
-📌 Learn more about the role and how to apply https://boards.greenhouse.io/quansight/jobs/4001517005?t=6c3175585us
-
-### A4AI: Sustainable Access Fellowship
-**Note: Candidates can be located anywhere in the world.**
-⏰ Applications due by Tuesday, 31 May 2022  
-📌 More information about the application process on the [A4AI website](https://a4ai.org/get-involved/careers/)
-
-## Calls for Submissions or Applications
-
-### Turing: TPS Peer Mentorship & Training Programme
-**Note: Applicants for this pilot should be affiliated with the Turing.**
-⏰ Applications due by Sunday, 22 May 2022  
-🗓️ Programme dates: Wednesday, 1 June – Wednesday, 27 July 2022
-📌 Learn more on the [event page](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=61990&eventID=188).
-Reach out with questions or interest to training@turing.ac.uk
-
-### Turing: Online Training call
-**Note: Applications are open to any researcher or practitioner affiliated with a UK-based university, organisation or research institution.**
-⏰ Applications due by Thursday, 26 May 2022
-📌 Full details can be found on our [application page](https://www.turing.ac.uk/funding-call-online-learning-courses-responsible-ai).
-Reach out with questions or interest to training@turing.ac.uk
-
-### eLife: Early-Career Advisory Group
-⏰ Applications due by Friday, 24 May Tuesday 2022  
-📌 Fill out the [application form](https://crm.elifesciences.org/crm/ECAGcandidate2022) to apply
-
-### Sense About Science: Quality and Peer Review Workshop
-⏰ Applications due by Wednesday, 18 May 2022  
-📌 Learn more about the role and how to apply [on the CS&S website](https://forms.office.com/Pages/ResponsePage.aspx?id=fsrTzSEml0S0JP8DHsxZmB2Ip-qwr4pPgZRN9MvnCE5UMUpBVFZUR0NJNVo1RUs5VVpPV0Q1SlRYMyQlQCN0PWcu&utm_source=Twitter&utm_medium=social&utm_campaign=Orlo)
-
-### UCL: Open Source Software Sustainability Funding Call
-⏰ Applications due by Tuesday, 14 June 2022  
-📌 Learn how to apply: https://www.ucl.ac.uk/advanced-research-computing/research/funding-calls/open-source-software-sustainability-funding-call
-
-### UNESCO: Global Call for Best Practices in Open Science
-⏰ Applications due by Friday, 15 July 2022  
-📌 Learn how to apply: https://en.unesco.org/feedback/unescos-global-call-best-practices-open-science
-
-## Events
-
-### Software Sustainability Institute: Empowering communities with open principles workshop
-🗓️ Monday, 23 May
-📌 Grab https://eventbrite.co.uk/e/empowering-communities-with-open-principles-tickets-328167687387?aff=odeimcmailchimp&mc_cid=1db97e1a1b&mc_eid=6d43989b19
-
+For more events, subscribe to the [Open Research Calendar](https://openresearchcalendar.org/).
 
 -----
 
@@ -150,9 +227,8 @@ If you are interested in joining our community, or learning more about the proje
 *   [HackMD Intro Page](https://hackmd.io/@turingway/demo-intro)
 *   [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 *   [Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
+*   [Mastodon profile](https://scholar.social/web/@turingway@fosstodon.org)
 *   [Gitter Conversation](https://gitter.im/alan-turing-institute/the-turing-way)
-*   [Mastodon profile](fosstodon.org/@turingway )
-*
 *   [YouTube Channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
 *   [Twitter Page](https://twitter.com/turingway)
 
