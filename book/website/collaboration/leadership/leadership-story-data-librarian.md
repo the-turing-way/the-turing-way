@@ -17,7 +17,7 @@ As I prefer decision making by consensus, it often feels more like a collaborati
 
 ## Inspirations
 
-Many of my leadership inspirations and ways how I acquired skills where not as part of my day to day jobs or formal certifications but communities I joined to grow my professional network.
+Many of my leadership inspirations and ways how I acquired skills where not  part of my day to day jobs or formal certifications, but communities I joined to grow my professional network.
 Usually, I lead when people hold me accountable for about 10% of the ideas that I throw out on Twitter.
 Learning about the [Mozilla Open Leadership principles](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/) was life-changing for me. 
 While it thought me technical skills on how to use GitHub, it highlighted that thinking about workflows, project contributors and coumentation are as important as the technical skills.
