@@ -44,6 +44,7 @@ The launch invitation and our graduation video from OLS-4 are available on our [
 Within less than a year from our launch, we already have followers from around the work on our official [Twitter account](https://twitter.com/RSE_Asia).
 I now represent RSE Asia as an observer at the [international council of RSE](https://researchsoftware.org/council.html).
 I was also invited to various RSE events taking place at the international levels, including direct mentorship and support from the Society of RSE.
+Based on these interactions and connections, it has become evident that representation from Asian communities had been long missing in the international RSE networks and RSE Asia Association is committed to address that. 
 Thus, the impact I see is that RSE Asia is gaining momentum & receiving recognition in the international RSE community.
 
 ### What tools/software do you use most for the RSE Asia Association digital infrastructure?
