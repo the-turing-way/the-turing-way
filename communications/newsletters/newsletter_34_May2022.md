@@ -138,7 +138,7 @@ If you'd like to get involved in that process, join the [Issue](https://github.c
 
 _A busy month of presentations, workshops, and conferences within the community!_
 
-- **Emma Karoune** gave a talk about *The Turing Way* and reproducible research at Durham University's Reprohack event on 19 May. [DOI: XXXX]()
+- **Emma Karoune** gave a talk about *The Turing Way* and reproducible research at Durham University's Reprohack event on 19 May. [DOI: 10.5281/zenodo.6533251](https://doi.org/10.5281/zenodo.6533251)
 - **Esther Plomp** gave a talk on "Research Integrity @ MTU - From Idea to Dissemination" at Munster Technological University on 18 May. Slides: [DOI: 10.5281/zenodo.6558216](https://zenodo.org/record/6558216#.YoVCSGDML9s).
 - **Anne Lee Steele** joined the Software Sustainability Institute's "Research Software Camp: Next steps in coding" event as a panelists on 16 May. [Watch the recording here](https://www.youtube.com/watch?v=NDM3qk3laPc).
 - **Malvika Sharan** spoke about "Creating visible roles and recognitions for maintainers in our community" at PyCon US on 29 April. [Watch the recording here](https://www.youtube.com/watch?v=_k7rg_3qNq4). Slides: [DOI:  10.5281/zenodo.6475654](https://zenodo.org/record/6475654#.YoYUgGDML9s)
