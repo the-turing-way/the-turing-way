@@ -27,7 +27,8 @@ It also brought me into the Turing Way core team when it was initially set up.
 One of the main skills leaders should have is understand their weaknesses and actively work on them as well as bringing other people into the space they lead in that might balance out areas of weakness.
 
 I personally struggle with delegating and often just did tasks myself to make sure they are done the way I expected. 
-Joining Open Life Science as a mentor was crucial for me to learn that I can still be helpful to others without taking over and learning the basics of mentoring and coaching helped me reflect where I can empower colleagues more.
+Joining [Open Life Science](https://openlifesci.org/) as a mentor was crucial for me to learn that I can still be helpful to others without taking over. 
+I learned the basics of mentoring and coaching helped me reflect where I can empower colleagues more.
 
 Another important skill to learn is to say "no" and not take on too much. 
 [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out) is definitely an issue for me, but I got better at managing my energy. 
