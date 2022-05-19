@@ -433,7 +433,7 @@ The following prequisites, which are part of the [`shadow-utils`](https://github
 (rr-renv-containers-podman)=
 ## Podman
 
-[Podman](https://podman.io/) is an open-source container engine that can be seen as a compelling alternative to Docker.
+[Podman](https://podman.io/) is an open-source container engine that can be seen as a meaningful alternative to Docker.
 In fact, Podman provides a Docker-compatible command-line interface.
 For most use cases, a user familiar with Docker can simply alias the Docker command to Podman (`alias docker=podman`) and carry on as normal.
 Podman includes a [full set of tools](https://docs.podman.io/en/latest/Commands.html) to create, run, manage, and share containers.
