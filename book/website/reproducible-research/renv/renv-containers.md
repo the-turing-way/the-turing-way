@@ -657,6 +657,34 @@ ___________________________________
                ||     ||
 ```
 
+(rr-renv-containers-singularity-gpu)=
+### GPU Support
+
+A key distinction of Singularity is that it is able to natively utilise host GPUs in containers.
+Singularity has support for CUDA supporting GPUs from Nvidia and ROCm supporting GPUs from AMD.
+Running containers with GPU support does not require root privileges.
+Complete details on using GPUs can be found [in the Singularity documentation](https://sylabs.io/guides/latest/user-guide/gpu.html)
+
+To use Nvidia GPUs in a container pass the `--nv` flag to the `run`, `exec` or `shell` command.
+For example:
+
+```bash
+$ singularity pull docker://tensorflow/tensorflow:latest-gpu
+$ singularity exec --nv tensorflow_latest_gpu.sif nvidia-smi
+```
+
+Using AMD GPUs is similar but the `--rocm` flag is used.
+For example:
+
+```bash
+$ singularity pull docker://rocm/tensorflow:latest
+$ singularity run --rocm tensorflow_latest.sif
+```
+
+When using the `--nv` and `--rocm` graphics drivers and libraries from the host are passed to the container.
+You must therefore ensure that the application inside the container is compatible with the driver stack on the host.
+For example, if the host has support for CUDA 10.2 a container featuring PyTorch build for CUDA 11.3 is likely to problems running.
+
 (rr-renv-containers-singularity-hpc)=
 ### Singularity on HPC
 
