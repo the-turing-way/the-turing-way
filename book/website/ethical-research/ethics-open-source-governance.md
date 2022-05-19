@@ -1,7 +1,6 @@
 (er-ethics-open-source-governance)=
 # Ethical Considerations when Choosing an Open Source Governance Model
 
-
 (er-ethics-open-source-governance-summary)=
 ## Summary
 
@@ -20,8 +19,7 @@ The way that your governance model is designed has a significant impact on the e
 It can be difficult to know where to start when considering this aspect of open source projects, so this chapter offers some starting points to consider. 
 
 *This chapter is adapted a speedblog from the Collaborations Workshop 2022, authored by  Yo Yehudi,
-Arielle Bennett, Gemma Turon, Declan Bays, Sarah Gibson, Stephan Druskat, Yadira Sanchez, Sophia Batchelor, which is published under a CC-BY license. Read the original article here: XXXXXXX* 
-
+Arielle Bennett, Gemma Turon, Declan Bays, Sarah Gibson, Stephan Druskat, Yadira Sanchez, Sophia Batchelor, which is published under a CC-BY license. Read the original article on Software Sustainability Institute's Blog page* 
 
 (er-ethics-open-source-governance-selfreflection)=
 ## Ethical Governance Starts with Self-Reflection 
@@ -42,18 +40,14 @@ True co-creation is an active process of inclusion, and there are many levels of
 ```{figure} ../../figures/ladder-of-participation.jpg
 ---
 name: ladder-of-participation
-alt: Colourful graphic of Arnstein's Ladder of Participation (1969) drawn by Juliet Young. A rainbow ladder describes the different types of participation in research: manipulation, educating, informing, consultation, placation, partnership, delegated power and citizen control. 
+alt: Colourful graphic of Arnstein's Ladder of Participation (1969) drawn by Juliet Young. A rainbow ladder describes the different types of participation in research - manipulation, educating, informing, consultation, placation, partnership, delegated power and citizen control. 
 ---
-Figure 1. Arnstein's Ladder of Citizen Participation, illustration credit: [@clinical.creative.psychologist (Juliet Young)](https://twitter.com/juliet_young1/status/1384604477697761281)
+Arnstein's Ladder of Citizen Participation, illustration credit: [@clinical.creative.psychologist (Juliet Young)](https://twitter.com/juliet_young1/status/1384604477697761281)
 ```
 
 No open source project is an island, and the goal of making projects open source is to explicitly invite the use and collaboration on a project which leads to a community of contributors and collaborators making the world a better place, one commit at a time.
 It's important that the governance model you select provides robust mechanisms for the level of community participation you are hoping to achieve with your project, with self-reflection being a useful starting point to guide your decision making. 
 
-
-
-<!-- 
-In the label, replace `keyidea2` with a word that best describes the section or key idea you want to explain -->
 (er-ethics-open-source-governance-continuous-process)=
 ## Ethical Governance is a Continuous Process
 There are many ways in which your project can (and probably will) change over its lifetime, and some of these changes may be unexpected. 
@@ -65,9 +59,8 @@ For instance, is your governance structure built to allow the whole community to
 
 It may feel like a giant leap to go from, say, a free-form do-ocracy to something more structured, or to give up your position of benevolent dictator, or to introduce different voting rules for the steering committee, but if you want your project to reflect your ethics, you will need to allow your ethics to impact the project, and iterate on this process. 
 It is a bit like putting debugging checkpoints in the way you run your project: run, but halt to reflect if you encounter a state that is unethical, based on your definition of ethical. 
-In short: if (ethical == true) { // Do stuff } else { // FIXME }.
 
-
+In short: `if (ethical == true) { // Do stuff } else { // FIXME }`
 
 (er-ethics-open-source-governance-action)=
 ## Ethics Need Governance to become Actionable
@@ -77,7 +70,6 @@ However, unless these ethics are being made explicit, and inform a structured mo
 In order to empower your project to act on your ethics, it will need some governance model to adhere to. 
 There already exist a number of more-or-less established governance models, and you can take a look at the resources section of this chapter for links to more information on them. 
 Keep in mind, though, that not all of them may cater well for an ethical framework, or the specific ethical framework you have in mind, in fact….
-
 
 (er-ethics-open-source-governance-technology)=
 ## Do Not Rely on Technology to do Your Ethics for You
