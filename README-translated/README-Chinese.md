@@ -75,9 +75,7 @@ _The Turing Way_ 是一个开放式协作和社区主导的项目。
 
 ![This image shows six of many kinds of contributions that anyone can make. These are: Develop and share, Maintain and improve, Share resources, Review and update, Make it global through translation, and Share best practices](../book/website/figures/README_imgs/README_contributions.png)
 
-*Contributions include development and sharing of new chapters; maintenance and improvement of existing chapters; sharing _The Turing Way_ resources; review and updating of previously developed materials; translating its chapter to help make this project globally accessible, and sharing best practices in research.*
-
-贡献包括开发和分享新的章节；维护和改进现有的章节；分享 _The Turing Way_ 资源；审查和更新以前开发的材料；翻译其章节，以帮助该项目在全球范围内使用，并分享研究的最佳实践。
+*贡献包括开发和分享新的章节；维护和改进现有的章节；分享 _The Turing Way_ 资源；审查和更新以前开发的材料；翻译其章节，以帮助该项目在全球范围内使用，并分享研究的最佳实践。*
 
 社区成员有机会学习新技能，分享他们的想法和与他人合作。 当他们为 _The Turing Way_ 或其他开源项目做出贡献时，他们也会在项目中获得指导机会，并被鼓励指导项目的新参与者。
 
@@ -85,8 +83,8 @@ _The Turing Way_ 是一个开放式协作和社区主导的项目。
 
 ### Citing _The Turing Way_
 
-我们通过项目的Zenodo归档使用DOI：[10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853)发布了 _The Turing Way_ 的最新版本。这个DOI是一个 “"[concept DOI](https://help.zenodo.org)"，意味着它将永远解析到最新版本。
-如果你需要引用一个特定的版本，你可以在上面的zenodo页面上找到这些DOI。
+我们通过项目的Zenodo归档使用DOI：[10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853)发布了 _The Turing Way_ 的最新版本。这个DOI是一个"[概念DOI](https://help.zenodo.org)"，意味着它将永远解析到最新版本。
+如果你需要引用一个特定的版本，你可以在上面的Zenodo页面上找到这些DOI。
 DOI允许我们对资源库进行归档，它们对于确保学术出版物对研究进行追踪。
 
 引用应该是这样看:
@@ -101,9 +99,8 @@ DOI允许我们对资源库进行归档，它们对于确保学术出版物对�
 我们非常感谢您在您的工作中对The Turing Way项目所做的任何参考，我们希望它是有用的。 如果您有任何问题，请[联系我们](#get-in-touch).
 
 ### 引用 _The Turing Way_ 插图
-<p align="center">
-  <img src="book/website/figures/evolution-open-research.jpg" alt="This is an example of one of The Turing Way illustrations. It tries to shows the evolution towards an open science era" width="600">
-</p>
+
+![This is an example of one of The Turing Way illustrations. It tries to shows the evolution towards an open science era](../book/website/figures/evolution-open-research.jpg)
 
 _The Turing Way_ 插图由[Scriberia](https://www.scriberia.co.uk/)的艺术家进行创作，作为[_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/book-dash)书冲入市场的一部分，分别于 2019 年 5 月 17 日在曼彻斯特、2019 年 5 月 28 日和 2020 年 2 月 21 日在伦敦以及 2020 年 11 月 27 日和 2021 年 5 月 28 日在网上发布。它们描绘了各种 手册中的内容、社区中的协同努力以及 _The Turing Way_ 项目的总体情况。 在 CC-BY 许可下，可在 Zenodo ([https://doi.org/10.5281/zenodo.3332807)](https://doi.org/10.5281/zenodo.3332807)上获得这些插图。
 
