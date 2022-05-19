@@ -24,7 +24,7 @@ Providing links to sections you're referencing for clarity is highly encouraged.
 <!-- Is your langauge added to Crowdin or you need to be added?
 We suggest using bullets (indicated by * or -) and filled checkboxes [x] here -->
 
-- [ ] *Target langauge is .*
+- [ ] *Target language is .*
 - [ ] *I wish to be manager in Crowdin for entries in this language.*
 - [ ] *I will only proofread translation for this language.*
 
