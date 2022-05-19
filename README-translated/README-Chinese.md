@@ -26,7 +26,7 @@ _The Turing Way_ 是一本关于可重复的、合乎道德的和协作的数据
 
 *The Turing Way是一本书、一个社区和一个全球合作。*
 
-我们鼓励所有的利益相关者，包括学生、研究人员、软件工程师、项目负责人和融资团队，使用The Turing Way来了解他们在数据科学中的角色和可重复性责任。，。
+我们鼓励所有的利益相关者，包括学生、研究人员、软件工程师、项目负责人和融资团队，使用The Turing Way来了解他们在数据科学中的角色和可重复性责任。
 您可以线上阅读这本书 [在线版本](https://the-turing-way.netlify.app), 按照我们的贡献指南所述为项目做出贡献 [贡献指南](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) and 并重新使用所有材料 ([（见许可证）](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md)).
 
 [![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](../book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
@@ -35,7 +35,7 @@ _The Turing Way_ 是一本关于可重复的、合乎道德的和协作的数据
 
 始于2019年，_The Turing Way_是一本固执己见的数据科学指南，后来扩展为一系列关于可重复研究、项目设计、沟通、协作和伦理研究的指南。每个指南都提供了关于一系列主题的章节，涵盖了最佳实践、指导和建议。这些章节是由来自不同的背景、生活经历和领域知识的学生、研究人员、教育工作者、社区领袖、政策制定者和专业人士共同撰写的。
 
-***我们的服务器目标是使可重复性变得“太简单”***
+***我们的服务器目标是使可重复性变得“太简单到不能不做”***
 
 **目录:**
 
@@ -52,7 +52,7 @@ _The Turing Way_ 的概述从第5:13分钟开始。
 ### 关于项目
 
 可重复性研究对于确保科学工作的可信性是必要的。 资助者和出版商开始要求出版物包含访问基础数据和分析代码的权限。其目的是确保所有的结果都能被独立验证，并在未来的工作中得到巩固。说起来容易做起来难。共享这些研究成果意味着理解数据管理、图书馆学、软件开发和持续集成技术：这些技能并没有被广泛教授，也不是学术研究人员和数据科学家所期望的。 由于这些活动通常不被教授，我们认识到，需求的负担以及新技能的获取可能会吓到刚接触这些的人。
-_The Turing Way_ 是一本手册，帮助学生、他们的导师、融资者以及期刊编辑确保可再生数据科学“太简单到不得不做”，即使对从未以这种方式工作过的人来说也是如此。 它将包括关于版本控制、分析测试以及与未来用户进行公开透明沟通的培训材料，并以Turing研究所的案例研究和研讨会为基础。这个项目是公开开发的，欢迎在我们的GitHub存储库中提出任何问题、评论和建议： <https://github.com/alan-turing-institute/the-turing-way>.
+_The Turing Way_ 是一本手册，帮助学生、他们的导师、融资者以及期刊编辑确保可再生数据科学“太简单到不能不做”，即使对从未以这种方式工作过的人来说也是如此。 它将包括关于版本控制、分析测试以及与未来用户进行公开透明沟通的培训材料，并以Turing研究所的案例研究和研讨会为基础。这个项目是公开开发的，欢迎在我们的GitHub存储库中提出任何问题、评论和建议： <https://github.com/alan-turing-institute/the-turing-way>.
 
 ### 团队
 
@@ -576,5 +576,5 @@ Zenodo的最新版本可以引用如下：
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
-Contributions of any kind welcome!
+这个项目使用[all-contributors](https://github.com/all-contributors/all-contributors)的规格.
+欢迎所有的贡献！
