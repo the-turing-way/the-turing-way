@@ -450,6 +450,19 @@ In most cases this will be configured automatically.
 This avoids a problem with the standard Docker configuration where users able to run containers have implicit access to the Docker daemon.
 The Docker Daemon is run by root by default and provides a trivial way to escalate privileges and get a high level of access to the hosts devices and filesystem.
 
+```{note}
+Adding a user to the docker group is essentially giving them a high-level of
+access to the host with a very simple route to privilege escalation. For
+example:
+
+```bash
+$ docker run --mount=type=bind,source=/,destination=/host -it busybox
+```
+
+The user now has access to the filesystem of the host with the permissions of
+`root`
+```
+
 (rr-renv-containers-installpodman)=
 ### Installing Podman
 
