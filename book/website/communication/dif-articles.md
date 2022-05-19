@@ -38,4 +38,4 @@ Having separate article types for these outputs allows the people involved, such
 
 Theses articles are also important for the sustainability, reproducibility and openness of these research outputs as writing detailed publications means greater care and attention is directed at describing and explaining these outputs and in turn makes these outputs more FAIR (findable, accessible, interoperable and reusable).
 
-Note: in this chapter and subchapter we are using the phrase article and paper interchangeably. 
+Note: in this chapter and subchapter we are using the word 'article' and 'paper' interchangeably. 
