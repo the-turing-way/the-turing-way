@@ -29,7 +29,7 @@ Chapters included are:
 ## Motivation and Background
 Traditionally journal publications have been in the format of stand alone research articles, often with a format of abstract, introduction, methods, results and discussion sections.
 
-This format was often quite limiting and meant things like datasets, software (scripts, code, apps, tools) and methods were often squeezed into research articles with little detail due to word limits, or hidden in supplementary material or not included at all. 
+This format was often quite limiting and meant things like datasets, software (scripts, code, apps, tools) and methods were often squeezed into research articles with little detail due to word limits, hidden in supplementary material or not included at all. 
 
 This has led to the development of new article types, which allows all research outputs produced during the research lifecycle to be published in their own right and linked to the final interpretations and conclusions of a research project. 
 The linking of these articles is one way to fully publish a reproducible research project. 
