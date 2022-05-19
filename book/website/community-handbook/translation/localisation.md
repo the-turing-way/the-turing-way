@@ -22,7 +22,7 @@ DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 
 ### Examples for Localisation Platforms:
 
-Many open source projects are localised using Translation Management System (TMS) such as [GitLab](https://crowdin.com/project/gitlab-ee), [FreeCAD](https://crowdin.com/project/freecad), [electron](https://crowdin.com/project/electron), [PostgreSQL](https://crowdin.com/project/postgresql), [OBS Studio](https://crowdin.com/project/obs-studio).
+Many open source projects such as [GitLab](https://crowdin.com/project/gitlab-ee), [FreeCAD](https://crowdin.com/project/freecad), [electron](https://crowdin.com/project/electron), [PostgreSQL](https://crowdin.com/project/postgresql), [OBS Studio](https://crowdin.com/project/obs-studio) are localised using different Translation Management System (TMS).
 
 - [Transifex](https://www.transifex.com/)
 - [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE)
