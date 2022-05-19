@@ -3192,6 +3192,16 @@
         "review",
         "content"
       ]
+    },
+    {
+      "login": "timothy22000",
+      "name": "timothy22000",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9934371?v=4",
+      "profile": "https://github.com/timothy22000",
+      "contributions": [
+        "translation",
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
