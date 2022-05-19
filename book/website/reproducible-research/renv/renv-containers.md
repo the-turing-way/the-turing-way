@@ -558,8 +558,15 @@ If the above Podman command were run as root, using `sudo`, then the container w
 (rr-renv-containers-singularity)=
 ## Singularity
 
+```note
+As Singularity is a tool for running Linux containers it can not run natively on
+Windows or MacOS.
 
-> **Prerequisites**: At present, Singularity only runs on Linux systems (for example Ubuntu). If you use macOS, [Singularity Desktop for macOS](https://www.sylabs.io/singularity-desktop-macos/) is in "Beta" release stage.
+Singularity provides [Vagrant](https://www.vagrantup.com/) boxes which let users
+on Windows or MacOS quickly deploy a virtual machine with Singularity installed.
+Instuctions can be found [in the Singularity
+documentation](https://sylabs.io/guides/latest/admin-guide/installation.html#installation-on-windows-or-mac)
+```
 
 Historically, a significant drawback of using Docker for reproducible research is that it was not intended as a user-space application but as a tool for server administrators.
 As such, it required root access to operate.
