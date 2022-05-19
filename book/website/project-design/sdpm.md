@@ -13,13 +13,8 @@
 In this chapter, we describe specific ways that you can manage sensitive data. 
 This includes:
 * Informed consent
-* Data minimisation
-* De-identification
-* Encryption
-* Controlled access
-* Secure data transfer
-* Publishing sensitive data
-* Synthetic data
+* Data Privacy Strategies
+* Sharing sensitive data
 
 (pd-sdpm-motivation)=
 ## Motivation
