@@ -18,7 +18,7 @@ Before you dive into the interview, please note that we have a chapter describin
 
 My name is [Saranjeet Kaur Bhogal](https://saranjeetkaur.github.io/About-Me/) and I'm a Statistician based in India. 
 I am interested to learn about open source and open science and like to remain involved with open science community work. 
-In early 2021, I wrote the first draft of the [R Development Guide](https://github.com/r-devel/rdevguide) through a project funded by the R Foundation. Furthermore, I co-lead the work on the outreach of the R Development Guide at the [Digital Infrastructure Incubator at Code for Science & Society](https://incubator.codeforscience.org/). 
+In early 2021, I wrote the first draft of the [R Development Guide](https://github.com/r-devel/rdevguide) through a project funded by the [R Foundation](https://www.r-project.org/foundation/). Furthermore, I co-lead the work on the outreach of the R Development Guide at the [Digital Infrastructure Incubator at Code for Science & Society](https://incubator.codeforscience.org/). 
 Recently, I am working as a Technical Writer with The R Project at the Google Season of Docs 2022 for a project to ["Expand and Reorganize the R Development Guide"](https://github.com/rstats-gsod/gsod2022/wiki/GSOD-2022-Proposal).
 Previously, I have also worked with the Julia Language organization for [Google Summer of Code 2020](https://gist.github.com/SaranjeetKaur/37086fea06076bd3ec76d052cc166378). 
 In early 2022, I was selected as the founding committee of NumFOCUS Project Incubator. 
