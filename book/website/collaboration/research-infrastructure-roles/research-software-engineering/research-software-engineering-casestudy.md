@@ -1,5 +1,5 @@
 (cl-infrastructure-rse-casestudy)=
-# Research Software Engineering Case Study
+# Research Software Engineering Personal Story
 
 ## Introduction
 
