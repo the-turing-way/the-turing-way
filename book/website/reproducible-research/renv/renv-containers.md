@@ -585,7 +585,7 @@ Furthermore, Singularity can take advantage of the large Docker ecosystem by bui
 Docker images can also be extend by building new images based on docker containers as a base layer.
 
 (rr-renv-containers-singularity-images)=
-## Singularity Container Images
+### Singularity Container Images
 
 Just as Docker images are built using `Dockerfile` files, singularity containers are built from singularity definition files.
 The Singularity documentation has a complete [specification of the definition file format](https://sylabs.io/guides/latest/user-guide/definition_files.html)
