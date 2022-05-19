@@ -21,7 +21,7 @@ Many of my leadership inspirations and ways how I acquired skills where not  par
 I also often lead on projects that are based around ideas mentioned on Twitter.
 Not all of them are followed up on, but I have organised events and started collaborations based on others co-leading with me.
 Learning about the [Mozilla Open Leadership principles](https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/) was life-changing for me. 
-While it thought me technical skills on how to use GitHub, it highlighted that thinking about workflows, project contributors and coumentation are as important as the technical skills.
+While the program taught me technical skills like how to use GitHub, it also highlighting that thinking about workflows, project contributors and documentation are just as important as the technical skills.
 It also brought me into the Turing Way core team when it was initially set up. 
 
 ## Addressing my weaknesses
