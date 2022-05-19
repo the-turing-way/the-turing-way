@@ -50,7 +50,7 @@ It's therefore important to consider the time constraints associated with export
 Developing research code within the TRE may be more appropriate where progress is overly slowed by developing externally, such as when data access is critical for any development. 
 As such, it's important to consider the trade-off between developing research code within the TRE and outside of it.
     
-4. Do you aim to use notebooks (e.g. Jupyter) for analyses carried out in TREs? 
+4. Do you aim to use notebooks (such as Jupyter) for analyses carried out in TREs? 
 
 Notebooks are a fantastic resource for data analysis, and this is no different in the context of working with sensitive data in a TRE. 
 However, notebooks are a particularly risky for export from TRE, for the reasons outlined in the previous paragraph. 
