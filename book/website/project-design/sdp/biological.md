@@ -55,7 +55,7 @@ Sensitive occurrence data that includes exact locations for organisms can be gen
 Current best practice is discussed by [Chapham (2020)](https://docs.gbif.org/sensitive-species-best-practices/master/en/current-best-practices-for-generalizing-sensitive-species-occurrence-data.en.pdf), who sets out 10 principles for generalising sensitive primary species occurrence data to enable data sharing.
 
 It is also worth researchers conducting an assessment of the risks versus benefits of publishing biological data.   
-The majority of the biodiversity community feel there are more benefits publishing open datasets as its future reuse could lead to greater conservation opportunities, promote community engagement and reduce duplication of survey efforts (Add ref - Tulloch et al. 2018 - https://www.researchgate.net/publication/326558644_A_decision_tree_for_assessing_the_risks_and_benefits_of_publishing_biodiversity_data)
+The majority of the biodiversity community feel there are more benefits publishing open datasets as its future reuse could lead to greater conservation opportunities, promote community engagement and reduce duplication of survey efforts (Add ref - Tulloch 2018 - https://www.researchgate.net/publication/326558644_A_decision_tree_for_assessing_the_risks_and_benefits_of_publishing_biodiversity_data)
 
 (pd-sdp-biological-examples)=
 ## Examples of projects and issues with biological data
