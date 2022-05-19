@@ -40,7 +40,7 @@ Mozilla's resources on [personal ecology](https://foundation.mozilla.org/en/blog
 ## Summary
 
 I hope that this case study inspires others to think about their leadership potential, especially if they feel they are not a leader because they are not in a formal leadership position.
-Often others see us as leaders when we do not identify with that label yet, thus I encourage anyone to **tell the people that inspire yourself that you appreciate their leadership**! 
+Often others see us as leaders when we do not identify with that label yet, thus I encourage anyone to **tell the people that inspire you that you appreciate their leadership**! 
 
 
 ### Reading I found helpful:
