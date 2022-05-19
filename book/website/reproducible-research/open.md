@@ -26,7 +26,7 @@ Open research aims to transform research by making it more reproducible, transpa
 - _Be reusable_: Research outputs need to be licensed appropriately, so that prospective users know any limitations on re-use.
 - _Be transparent_: With appropriate metadata to provide clear statements of how research output was produced and what it contains.
 
-The research process typically has the following form: data is collected and then analysed (usually using software). This process may involve the use of specialist hardware. The results of the research are then published. Throughout the process, it is good practice for researchers to document their working in notebooks. Open research aims to make each of these elements open:
+Schematically, the research process has the following form: data are collected and then analysed (often using software). This process may involve the use of specialist hardware. The results of the research are then published. Throughout the process, it is good practice for researchers to document their work. This can happen in notebooks or other forms of documentation. For experimental studies, Electronic Lab Notebooks are common. Open research aims to make each of these elements open:
 
 - _Open Data_: Documenting and sharing research data openly for re-use.
 - _Open Source Software_: Documenting research code and routines, and making them freely accessible and available.
