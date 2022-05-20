@@ -1,13 +1,10 @@
 (rr-vcs-git4research)=
 # Git for research projects
 
-```{figure}  ../figures/datascience-tree.jpg
+```{figure}  ../../figures/healthy-research-tree.jpg
 ---
 name: Data science feeds research
-alt: Researchers are pouring water on a tree.
-The water represents data science principles and tooling,
-the tree represents the research.
-The tree is big and beautiful, on its branches are specific outcome written: more outputs, reproducibility, ...
+alt: Researchers are pouring water on a tree. The water represents data science principles and tooling, the tree represents the research. The tree is big and beautiful, on its branches are specific outcome written: more outputs, reproducibility, et cetera
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
