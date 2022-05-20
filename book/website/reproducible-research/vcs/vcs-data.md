@@ -1,4 +1,4 @@
-```{figure} ../../figures/provenance.jpg
+```{figure} ../../figures/data-provenance.jpg
 ---
 name: provenance
 alt: Different people work at different stations to enable provenance.

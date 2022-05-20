@@ -26,8 +26,10 @@
 | eyeball_test_3             | Testing                   | Results tested by seeing if they 'look right'     |
 | eyeball_test_error         | Testing                   | Bug detected by result 'looking wrong'            |
 | file_collection            | Style guide               | Two people looking in an organised filing cabinet smiling and giving a thumbs up |
+| file-management-manual            | rdm-storage               | importance of a folder structure to organise your files |
 | first_pull_request         | Style guide               | Two people making a first pull request on GitHub |
 | flipped_taj_mahal          | Version control           | Upside down taj mahal to confuse people           |
+| healthy-research-tree.jpg          | rdm-storage           | data science make research grow faster          |
 | help_you_of_the_future     | Reproducible research overview | A woman passing documentation to another version of herself |
 | master_branch              | Version control           | Illustrates commits on master branch              |
 | make_ok_to_be_human        | Reproducible research overview | A woman looking worried that she has made a mistake |
