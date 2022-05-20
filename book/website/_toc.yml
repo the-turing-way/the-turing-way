@@ -338,9 +338,9 @@ parts:
       file: communication/research-objects
       sections:
         - title: Concepts
-          file: communication/research-object/ro-concepts
+          file: communication/research-objects/ro-concepts
         - title: Implementation
-          file: communication/research-object/ro-implementation
+          file: communication/research-objects/ro-implementation
     - title: Making Research Objects Citable
       file: communication/citable
       sections:
