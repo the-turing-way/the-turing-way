@@ -41,7 +41,7 @@ Take things right back to first principles and ask yourself (and the project tea
 These questions may not always be captured in a general document such as the README page, however by scoping the impact and influence of a project before it begins, a team can lay an ethical foundation from the outset. 
 
 For many projects that are community led, this means involving the people that are affected by the project’s outcome in the design, development, and deployment stages.
-True co-creation is an active process of inclusion, and there are many levels of engagement that can be tailored to a projects’ individual needs (see Figure 1. Arnstein's Ladder of Citizen Participation), which a governance model might also need to take into account, for example, how is delegated power dealt with by the project?  
+True co-creation is an active process of inclusion, and there are many levels of engagement that can be tailored to a projects’ individual needs (see the figure - Arnstein's Ladder of Citizen Participation), which a governance model might also need to take into account, for example, how is delegated power dealt with by the project?  
 
 
 ```{figure} ../../figures/ladder-of-participation.jpg
