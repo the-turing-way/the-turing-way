@@ -72,7 +72,7 @@ In short: `if (ethical == true) { // Do stuff } else { // FIXME }`
 (er-ethics-open-source-governance-action)=
 ## Ethics Need Governance to become Actionable
 Open source project communities may already have an implicit set of ethics regarding their project in place. 
-However, unless these ethics are being made explicit, and inform a structured model of governance, they will remain inconsequential or, as Jo Freeman has put it in her essay [“The Tyranny of Structurelessness”](https://www.google.com/url?q=https://www.jofreeman.com/joreen/tyranny.htm&sa=D&source=docs&ust=1652716021793901&usg=AOvVaw2m6_oS7n1u7IvfHamGJDBs), impotent.
+However, unless these ethics are being made explicit, and inform a structured model of governance, they will remain inconsequential or, as Jo Freeman has put it in her essay {cite}`The Tyranny of Structurelessness<Freeman2012Stuctureless>`, impotent.
 
 In order to empower your project to act on your ethics, it will need some governance model to adhere to. 
 There already exist a number of more-or-less established governance models, and you can take a look at the resources section of this chapter for links to more information on them. 
