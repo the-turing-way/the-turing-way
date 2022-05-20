@@ -7,6 +7,14 @@ In this chapter we will outline the factors that must be considered when you wan
 
 ## The big misconception about Open Source
 
+![]('../../figures/oss-sustainability-pathways-problem.jpg')
+
+```{figure} figures/oss-sustainability-pathways-problem.jpg
+---
+name: oss-sustainability-pathways-problem
+alt: A researcher is torn between taking the path of private commercialisation or the path of open source.
+```
+
 One of the most common beliefs about Open Source is that it simply means "free" and therefore an open source project can never generate revenue or profit.
 The [definition](https://the-turing-way.netlify.app/reproducible-research/open.html) used by The Turing Way states that OSS should:
 >Be publicly available: It is difficult to use and benefit from knowledge hidden behind barriers such as passwords and paywalls.
