@@ -36,7 +36,7 @@ Take things right back to first principles and ask yourself (and the project tea
 * Why are you doing this project? 
 * Who is the project for?
 * Who creates and maintains it? 
-* How is the project to be used? 
+* How will project be used? 
 
 These questions may not always be captured in a general document such as the README page, however by scoping the impact and influence of a project before it begins, a team can lay an ethical foundation from the outset. 
 
