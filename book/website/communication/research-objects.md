@@ -7,7 +7,7 @@ No previous knowledge is needed.
 ## Summary
 Research outcomes encompass publications, data, software, bibliographical material and any other resources (such as experimental workflows, standards) that can be potentially useful for conducting research.
 
-Research Objects (ROs) allow working open by design and share during the research process and not only the research outputs at the end.
+Research Objects (ROs) {cite:ps}`Garciasilva2019-research-objects` allow working open by design and share during the research process and not only the research outputs at the end.
 
 In this chapter, we will describe the definition of ROs, their typologies and which platform and technologies exist. 
 
