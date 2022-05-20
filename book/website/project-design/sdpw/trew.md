@@ -56,7 +56,7 @@ Notebooks are a fantastic resource for data analysis, and this is no different i
 However, notebooks are a particularly risky for export from TRE. Jupyter notebook files in particular (.ipynb extension) are JSON documents that include metadata not viewable in the rendered form, which could increase the risk of sensitive data being included in any exported notebook by mistake.
 One recommendation when preparing the output of a data analysis carried out in a notebook within a TRE for publication is to convert it to a static format such as PDF.
     
-5. Do you want those without access to the TRE to be able to run the code used in your research?
+**5) Do you want those without access to the TRE to be able to run the code used in your research?**
     
 Another suggestion could be to include a small synthetic dataset alongside any published code, which any publicly available code or notebooks containing the data analysis can be run with in lieu of access to the "real" (non-synthetic data) sensitive data from the TRE. 
 For more information on synthetic data, read the [synthetic data section]().
