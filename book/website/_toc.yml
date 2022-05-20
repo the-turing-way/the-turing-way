@@ -303,6 +303,11 @@ parts:
         file: communication/comms-overview/comms-overview-accessibly
       - title: Resources and Recommendations
         file: communication/comms-overview/comms-overview-resources
+    - title: Open Scholarship
+      file: communication/open
+      sections:
+      - title: Open Education
+        file: communication/open/education
     - title: Blogs for Research Communication
       file: communication/blogs
       sections:
