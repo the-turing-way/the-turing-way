@@ -1,4 +1,4 @@
-# Open Leadership by a Data Librarian
+# Personal Story of Leadership by a Data Librarian
 
 The following are personal reflections by The Turing Way contributor Patricia Herterich and are based on a discussion she led at the Book Dash in May 2022.
 
