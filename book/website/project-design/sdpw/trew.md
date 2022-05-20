@@ -24,7 +24,7 @@ In general, researchers working in TREs will find that much of the same guidance
 
 There are however some important questions to consider when working in TREs that will affect the your development workflow for scientific code writing and data analysis:
     
-1. Does the TRE have internet access?
+**1) Does the TRE have internet access?**
     
 TREs set up for researchers to work on particularly sensitive data will likely lack internet access, in order to prevent a data breach or the accidental disclosure of sensitive data outside the TRE. 
 Where this is the case, it is important to understand how the processes particular to your TRE work for things like software ingress (for important software libraries you may require) and code/data egress (to understand what, if anything, can be exported from the TRE). 
