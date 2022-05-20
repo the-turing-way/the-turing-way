@@ -86,7 +86,7 @@ In an age of automation, bots, and exceptional investment into AI, you might be 
 1. Do I adopt an existing governance model? 
 2. Maybe I should get a computer system to do it for me, or at least help me out?
 
-Pulling a governance system out of the box is a great way to get started, but don’t assume that because a governance system has been in use before - perhaps even successfully - that the governance system has all the ethical kinks worked out, or even all the practical challenges. 
+Pulling a governance system out of the box is a great way to get started, but don’t assume that because a governance system has been in use before - perhaps even successfully - that the governance system has all the ethical solutions worked out, or even all the practical challenges have been considered. 
 For instance, the “benevolent dictator for life” (BDFL) open source governance model has practical as well as ethical issues: what if that BDFL has an unexpected health crisis and disappears? 
 How do we ensure that the dictator stays benevolent?
 What if they’re missing viewpoints that were obvious if only the governance committee was more than one person?
