@@ -2,6 +2,16 @@
 # Publishing Different Article Types
 
 
+```{figure} ../figures/publishing-diff-articles.jpg
+---
+height: 500px
+name: publishing different articles types
+alt: A person dressed in a lab coat with many arms holding different types of publications such as social media posts, data paper and software papers.
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
+
 (cm-dif-articles-prerequisites)=
 ## Prerequisites
 
