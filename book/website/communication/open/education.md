@@ -60,7 +60,7 @@ Fully open OERs comply with the [5 Rs](http://opencontent.org/definition/):
 ## How to set up OERs? 
 
 1. Choose a platform.
-2. Collect resources under an open license (see [Attribution & Fair Use: Copyright in Open Education](https://www.youtube.com/watch?v=jGTUHdadqJU) and {ref}`Licensing data section<rr-licensing-data>`.
+2. Collect resources under an open license (see [Attribution & Fair Use: Copyright in Open Education](https://www.youtube.com/watch?v=jGTUHdadqJU) and {ref}`Licensing data section<rr-licensing-data>` for more information).
 3. Ask for feedback.
 4. Share and promote your resources.
 
