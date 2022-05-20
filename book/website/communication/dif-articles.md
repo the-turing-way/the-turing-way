@@ -26,7 +26,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 ## Summary
 This chapter describes the new types of articles born out of the growth of open research and the expansion in publishing all aspects of the research lifecycle. Each subchapter gives an overview of an article type.
 
-Chapters included are:
+Subchapters included are:
 
 * Data Papers 
 * Methods Papers
