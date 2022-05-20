@@ -21,7 +21,9 @@ Source: Dessain, V., Meier, O., & Salas, V. (2011). {cite}`Corporate Governance 
 
 When setting up open source projects, it is important to pick a structure for organising the community that takes into account ethical considerations.
 The way that your governance model is designed has a significant impact on the ethics, diversity and inclusion in your project, so critically examining what the implied ethics are of a particular structure is a crucial part of the process of selecting one. 
-It can be difficult to know where to start when considering this aspect of open source projects, so this chapter offers some starting points to consider. 
+However, it is difficult to know where to start when planning governance structure for your open source projects.
+It can be even more challenging when considering if a particular governance model align with ethical framework of your project.
+Therefore, we have designed this chapter to offer some starting points to consider. 
 
 *This chapter is adapted a speedblog from the Collaborations Workshop 2022, authored by  Yo Yehudi,
 Arielle Bennett, Gemma Turon, Declan Bays, Sarah Gibson, Stephan Druskat, Yadira Sanchez, Sophia Batchelor, which is published under a CC-BY license. Read the original article on Software Sustainability Institute's Blog page* 
