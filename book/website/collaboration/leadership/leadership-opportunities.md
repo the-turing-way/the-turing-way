@@ -1,8 +1,7 @@
 (cl-leadership-opportunities)=
 # Creating Leadership Opportunities
-The following testimony was written by The Turing Way contributor and founding member [Patricia Heterich](https://the-turing-way.netlify.app/afterword/contributors-record.html#patricia-herterich).
-While leadership opportunities can emerge, it can be helpful to create clear opportunities and invite individuals to lead.  
 
+While leadership opportunities can emerge, it can be helpful to create clear opportunities and invite individuals to lead.  
 This can be done through inviting people for individual contributions and facilitating a culture where people feel empowered and trusted to lead when opportunities arise.  
 
 Once a community or project team has grown to a certain size, a more formal structure can help to ensure leadership responsibility scale accordingly to keep everyone supported.
