@@ -30,7 +30,7 @@ Chapters included are:
 Traditionally journal publications have been in the format of stand alone research articles, often with a format of abstract, introduction, methods, results and discussion sections.
 
 This format was often quite limiting and meant things like datasets, software (scripts, code, apps, tools) and methods were often squeezed into research articles with little detail due to word limits, hidden in supplementary material or not included at all. 
-
+Researchers therefore have often deposited these research objects in a repository to make them usable and discoverable by others. Depositing them with rich metadata is best practice and you can find out more about how to do that in our [Making Research Objects Citable chapter](https://the-turing-way.netlify.app/communication/citable.html).
 This has led to the development of new article types, which allows all research outputs produced during the research lifecycle to be published in their own right and linked to the final interpretations and conclusions of a research project. 
 The linking of these articles is one way to fully publish a reproducible research project. 
 
