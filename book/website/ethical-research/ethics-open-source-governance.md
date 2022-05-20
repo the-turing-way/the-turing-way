@@ -11,6 +11,11 @@ Therefore, Open Source Governance Models should embed those ethical consideratio
 This chapter discusses some of the key points to take into consideration when designing and implementing ethical guidelines in governance models.
 
 
+```{note}
+**What does ethics in governance mean?**
+
+*Ethical behaviour in governance is defined as the way in which stakeholders try to manage collective action from the perspective, and in the interest, of the majority, thus avoiding damaging behaviours, and through a better control of the power and responsibilities of the leaders. In the area of governance, therefore, ethics aims at raising awareness of the others' rights and common needs, by imposing some principles of minimum requirement. 
+Source: Dessain, V., Meier, O., & Salas, V. (2011). {cite}`Corporate Governance and Ethics<Dessain2011governance>`.
 (er-ethics-open-source-governance-motivation)=
 ## Motivation and Background
 
