@@ -25,7 +25,7 @@ alt: The crowdin editor with four sections labelled from number 1-4.
 
 As shown in the image below, the Middle-top area (3) is the main working area with the source string on the top, and the section where you can type in translations below. Crowdin will show you suggestions for translation carried out using three different engines (Google Translate, Crowdin Translate, DeepL), which will show you several possible translations that you can further edit.
 
-```{admonition} Add New Language
+```{admonition} Add Translation Engine
 :class: tip
 If your language of interest works better with different engines (e.g. Microsoft Translator, Yandex.Translate, Amazon Translate), please request it and we'll do our best to integrate it.  
 ```
@@ -71,6 +71,15 @@ alt: Glossary in Crowdin which is table showing the terms in multiple languages.
 :class: tip
 You can upload Glossary or share Glossay across different projects.
 ```
+
+```{figure} ../../figures/Adding-glossary.gif
+---
+name: Adding-glossary
+width: 90%
+alt: The Crowdin editor shows the glossary term underlined and you can also add new one by highlighting the term and clicking on add term. A new window will be prompt which you can fill its details.
+---
+```  
+
 The terms that were added to the project glossary will be underlined in the source string. You can check additional explanations added to the term for an accurate translation.
 
 
@@ -90,11 +99,20 @@ The translated files won't be exported to the GitHub unless it has been complete
 - References
 - Tag and variable order `{ref}<0>text</0>` should have the same structure
 ```
+
+```{figure} ../../figures/proofreading.gif
+---
+name: proofreading.gif
+width: 90%
+alt: The proofreading mode in Crowdin editor where you can click in the tick to approve the translation.
+---
+```  
+
 When you proofreading, pay extra attention to punctuation. You can either choose one of these or edit directly in each string's field. When you reach a satisfactory translation, click on Save.
 
 
 #### Adding Comments
 
-You can discuss the meaning of the source string or report the issues regarding the source strings in the comment tab. You can also `@` and username to direct your message to a specific person. You can point out if the current translation is wrong or if the translation lack of contextual information. The issues are reported to the project managers to correct mistakes or add context and resolve the issues.
+You can discuss the meaning of the source string or report the issues regarding the source strings in the comment tab (**Right sidebar**). You can also `@` and username to direct your message to a specific person. You can point out if the current translation is wrong or if the translation lack of contextual information. The issues are reported to the project managers to correct mistakes or add context and resolve the issues.
 
 In the next chapter, we'll go through how you can manage the project and manage your translation team.
