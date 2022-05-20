@@ -12,21 +12,22 @@ In open educational practices there is more space for [participation of learners
 
 Open Education is important as it:
 
-- Facilitates broader and more equal access to access to knowledge and knowledge generation.
+- Facilitates broader and more **equal access** to access to knowledge and knowledge generation.
 Open Education is rooted in the human right to access high-quality education.
-- Is easier to use: 
+- Is **easier to use**: 
     - Easier to build upon and correct the materials, which facilitates customisation of your education curriculum.
     - Easier to collaborate, participate and share resources.
-- Reduces duplication of effort: If an educator needs materials for teaching and they can access open materials, then they need not make their own from scratch, thereby saving time.
-- Is generally more accessible due to the use of open formats compared to proprietary formats in which files cannot be changed. 
+- **Reduces duplication of effort**: If an educator needs materials for teaching and they can access open materials, then they need not make their own from scratch, thereby saving time.
+- Is generally **more accessible** due to the use of open formats compared to proprietary formats in which files cannot be changed. 
     - Formats like Microsoft docx require access to Microsoft Word, whereas open formats such as RTF and HTML work with a variety of software. 
     - While .pdf is an open format, it is also more closed in the sense that it is difficult to edit compared to formats such as RTF and HTML. 
     - Accessibility is not guaranteed! 
 Learn more about how to improve the accessibility of your resources: 
         - [How to Create Engaging Open Educational Resources without Sacrificing Accessibility](https://www.youtube.com/watch?v=UtOCI5TqtQI)
         - [OER and Accessibility: Working Toward Inclusive Learning](https://sparcopen.org/news/2018/oer-accessibility-working-toward-inclusive-learning/)
+        - Read the {ref}`Communicating Accessibly section<cm-comms-overview-accessibly>`
 - Open [does not necessarily exclude revenue generation](https://edscoop.com/how-traditional-textbook-publishers-can-do-well-by-the-oer-community/)
-- Open Educational resources [may be more effective](http://openedgroup.org/review) than [traditional materials that are more expensive](https://www.huffpost.com/entry/college-textbooks-do-you_b_8261086). 
+- Open Educational resources [may be **more effective**](http://openedgroup.org/review) than [traditional materials that are more expensive](https://www.huffpost.com/entry/college-textbooks-do-you_b_8261086). 
 See also {cite:ps}`Colvard2018OERsuccess`. 
 
 Learn more about why Open Education matters: 
@@ -59,7 +60,7 @@ Fully open OERs comply with the [5 Rs](http://opencontent.org/definition/):
 ## How to set up OERs? 
 
 1. Choose a platform.
-2. Collect resources under an open license (see [Attribution & Fair Use: Copyright in Open Education](https://www.youtube.com/watch?v=jGTUHdadqJU) and {ref}'rr-licensing-data' section.
+2. Collect resources under an open license (see [Attribution & Fair Use: Copyright in Open Education](https://www.youtube.com/watch?v=jGTUHdadqJU) and {ref}`Licensing data section<rr-licensing-data>`.
 3. Ask for feedback.
 4. Share and promote your resources.
 
