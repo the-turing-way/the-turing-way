@@ -1,7 +1,7 @@
 (rr-vcs-git4research)=
 # Git for research projects
 
-```{figure}  ../figures/datascience-tree.jpg
+```{figure}  ../figures/healthy-research-tree.jpg
 ---
 name: Data science feeds research
 alt: Researchers are pouring water on a tree.

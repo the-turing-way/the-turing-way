@@ -37,7 +37,7 @@ To organise your data, you should use a clear folder structure to ensure that yo
 We encourage you to use an existing template.
 An open source project created a quite complete one at https://github.com/tonic-team/Tonic-Research-Project-Template 
 
-```{figure}  ../figures/folderorga.jpg
+```{figure}  ../figures/file-management-manual.jpg
 ---
 name: Folder structure for research data
 alt: A protagonist has a file written "readme" on it and bring it to another protagonist who stays in front of a file drawer system.
