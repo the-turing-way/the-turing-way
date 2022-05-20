@@ -1,6 +1,6 @@
 # Personal Story of Leadership by a Data Librarian
 
-The following are personal reflections by The Turing Way contributor Patricia Herterich and are based on a discussion she led at the Book Dash in May 2022.
+The following testimony was written by _The Turing Way_ contributor and founding member [Patricia Heterich](https://the-turing-way.netlify.app/afterword/contributors-record.html#patricia-herterich), based on a discussion she led at the Book Dash in May 2022.
 
 ## What does leadership for research infrastructure roles look like?
 
