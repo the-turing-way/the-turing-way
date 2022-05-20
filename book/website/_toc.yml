@@ -361,7 +361,7 @@ parts:
       sections: 
       - title: Data Papers
         file: communication/dif-articles/data
-      - title: Methods Paper
+      - title: Methods Papers
         file: communication/dif-articles/methods
       - title: Micropublishing
         file: communication/dif-articles/micro
