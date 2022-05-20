@@ -2,7 +2,7 @@
 # Using figures in _The Turing Way_
 
 We encourage you to add images to _The Turing Way_ book chapters.
-This section of the style guide will explain how to use [Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/) (MyST) format to add them to the book with appropriate {ref}`alt text<ch-style-figures-alttext>` and {ref}`captions<ch-style-figures-caption>`.
+This section of the style guide will explain how to use [Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/) (MyST) format to add them to the book with appropriate {ref}`alt text<ch-style-figures-alttext>` and {ref}`captions<ch-style-figures-caption>`. This is sometimes tricky, refer to the {ref}`ch-style-figures-advanced` section for troubleshooting.
 
 We are very passionate about ensuring that the creators of the original image files (including you!) are {ref}`acknowledged appropriately<ch-style-figures-licence>`.
 Please do not use images that are not licenced for reuse.
@@ -162,5 +162,10 @@ That page includes information on how to [scale and align](https://jupyterbook.o
 
 We've noticed a couple of "gotchas" from contributors to _The Turing Way_ and we'll try to keep this section of the guide up to date for anyone else learning the MyST syntax for figures
 
+* If things do not work, looking at the **deploy log** (visible at the beginning of your PR) might well give you hints about the issues are.
+* Figure path are case-sensitive, make sure the name of the file is all lowercase
+* `name:` is for including in reference links, it cannot have spaces
+* The path to the figure will depend on the position of the .md file in the repo (one or two folders away from `website` will give `../` or `../../` respectively.
+* You cannot have line breaks in the alt text, but you can have it in the caption.
 * Both `:` and `"` have syntactic meaning for Sphinx.
   That means it is important that you do not use these characters in your alt text.
