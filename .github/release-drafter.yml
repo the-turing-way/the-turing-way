@@ -15,10 +15,10 @@ template: |
   v1.0.2: Zenodo metadata information and additional chapters since Book Dash November 2021
   v1.0.1: Zenodo metadata information and additional chapters.
   v1.0.0: Five guide expansion of The Turing Way with a community handbook
-  v0.0.4: Continuous integration chapter merged to master.
-  v0.0.3: Reproducible environments chapter merged to master.
-  v0.0.2: Version control chapter merged to master.
-  v0.0.1: Reproducibility chapter merged to master.
+  v0.0.4: Continuous integration chapter merged to main.
+  v0.0.3: Reproducible environments chapter merged to main.
+  v0.0.2: Version control chapter merged to main.
+  v0.0.1: Reproducibility chapter merged to main.
 
   Full Changelog: https://github.com/alan-turing-institute/the-turing-way/compare/v1.0.1...v1.0.2 (Previous release: https://github.com/alan-turing-institute/the-turing-way/compare/v0.0.3...v1.0.1)
 
