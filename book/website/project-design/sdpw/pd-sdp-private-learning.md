@@ -43,6 +43,21 @@ We can also draw on the experience of research in the field of cross-domain trai
 
 Differential privacy has also seen significant use as a technique for preserving privacy during model training, reducing the risk of the model learning individual data points too well by adding small amounts of statistical noise during training {cite:ps}`boulemtafesReviewPrivacypreservingTechniques2020,feyisetanPrivacyUtilitypreservingTextual2020`. 
 
+## Case study: Data privacy in ML neuroimaging
+### Why do we want to share neuroimages?
+Neuroimaging is an emerging medical technique focusing on the collection and analysis of brain-related data. Typical sub-fields are EEG, MEG, MRI, fMRI and PET. Neuroimaging methods commonly result in one large, longitudinal data set per individual, which in turn makes the method suitable for the application of machine learning algorithms. At the same time, ML techniques can be costly and time consuming (for example, the average scanning cost for 1hr of fMRI analysis is estimated to be [between USD 1.600-8.400](https://www.itnonline.com/content/mri-costs), with scanning times for an fMRI experiment lasting between 1.5 and 3hrs.)  These efforts associated with the collection of neuroimaging data have led to the foundation of large neuroimaging consortia, with the aim to create data sets that go beyond sample sizes of N=20-30 of a typical single neuroimaging study. Often, such consortia focus on a specific disorder or mental or cognitive state.
+As outlines in this chapter, sharing data is good, but can be particularly dangerous especially in the case of neuroimaging. 
+
+### What are issues related to sharing neuroimaging data?
+Common neuroimaging sharing standards warrant the removal of sensitive information and meta data from neuroimages.
+However, given the focus on the brain, MRI and fMRI data naturally consists of images of the head and skull. Given the power of recent image processing machine learning algorithms, it has already been demonstrated that anonymized neuroimaging data can be matched and thus identified from images of the internet, especially in the presence of additional information {cite:ps}`schwarzIdentification2019`. A second risk associated with neuroimaging data is that a brain scan is often indicated in a combination with a health or medical condition. This adds to the sensitivity of those data and makes a potential leak of information even more dangerous. In the most extreme case, un-anonymized leakage of such health-related information with the de-anonymized neuroimage could result in severe personal disadvantages (for example, reduced employability, insurance cover) .
+ 
+ ### What are possible solutions?
+ This evidence that it is feasible to re-identify individuals based on the facial reconstruction from structural MRI data has led to the development of software packages that are able to “de-face” MR images {cite:ps} `bischoff‐GretheAtechnique2007` `MilchenkoObscuring2013`. Thus, for data sharing of structural MRI images it is important to first remove or blur the surface-based features in the images. While programs that remove the possibility of re-identify individuals based on their surface anatomy exist, they may reduce the image quality for downstream pre-processing algorithms {cite:ps}`SitterFacingprivacy2020`.
+
+Lastly, also education of participants is important. In a longitudinal study of child development, children were given some images of their brain (for example, one slice from the structural MRI) after the study had finished {cite:ps}`whitePediatric2018`. The authors learned later that some of those of images were later uploaded to social media profiles. {cite:ps}`whiteDatasharing2020`. Thus even following anonymisation standards and removal of facial features from an MRI scan may not completely ensure privacy.
+
+
 ### Useful resources
 
 - [Privacy in Deep Learning: A Survey](https://cseweb.ucsd.edu/~fmireshg/survey_pvdl_2020.pdf) *A useful brief overview of some extant threats and mitigation strategies.*
