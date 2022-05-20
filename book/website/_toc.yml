@@ -459,7 +459,7 @@ parts:
         file: collaboration/leadership/leadership-avoid
       - title: Personal Story from Running a Hackathon
         file: collaboration/leadership/leadership-story-hackathon
-      - title: Open Leadership by a Data Librarian
+      - title: Personal Story by a Data Librarian
         file: collaboration/leadership/leadership-story-data-librarian
     - title: Remote Collaboration
       file: collaboration/remote-collab
