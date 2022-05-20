@@ -39,7 +39,7 @@ For example, [GitLab](https://about.gitlab.com/) can be used for code developed 
 If the TRE does not have a collaboration/VCS tool such as GitLab installed, it may be preferable to develop the research code outside the TRE, bringing it into the TRE via secure code ingress at appropriate intervals. 
 To learn more about version control, consult the [Guide for Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/vcs.html).
 
-3. Do you aim to publish research carried out on sensitive data in a TRE?
+**3) Do you aim to publish research carried out on sensitive data in a TRE?**
     
 Developing research code outside the TRE, for example in a public GitHub repository, can also make publishing the research methods for TRE projects simpler. 
 Developing code you wish to export from the TRE inside the environment carries risks. 
