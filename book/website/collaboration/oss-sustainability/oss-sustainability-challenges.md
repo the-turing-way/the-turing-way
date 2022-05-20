@@ -1,13 +1,11 @@
 
 
-# Challenges with sustainability of Open Source projects
+# Sustainability of Open Source Projects
 
 Early-career researchers often reach a point when funding has run out for a project that they have spent years developing, and they can face a daunting array of choices and obstacles on the road to turning an academic or community-led project into a strong, sustainable enterprise that will outlive its original funding source. 
 In this chapter we will outline the factors that must be considered when you want to turn a project into an Open Source Software (OSS) with a self-sustaining organisation, and we will explore how different projects have achieved sustainability through a variety of organisational structures.
 
 ## The big misconception about Open Source
-
-
 ```{figure} ../../figures/oss-sustainability-pathways-problem.jpg
 ---
 name: oss-sustainability-pathways-problem
@@ -39,7 +37,6 @@ alt: A researcher considers the 4 pathways/pillars of OSS sustainability.
 ---
 This image was created by Scriberia for The Turing Way community and is used under a CC-BY 4.0 licence for reuse. Zenodo. DOI 10.5281/zenodo.3332807
 ```
-
 ## Four pillars of OSS sustainability
 The resulting project and any related enterprise will look different in each case, we've identified four key ingredients that we think all projects aiming for sustainability should consider:
 
