@@ -27,11 +27,14 @@ Chapters included are:
 
 (cm-dif-articles-motivation)=
 ## Motivation and Background
-Traditionally journal publications have been in the format of stand alone research articles, often with a format of abstract, introduction, methods, results and discussion sections.
+Traditionally journal publications have been stand alone research articles, often with a format of abstract, introduction, methods, results and discussion sections.
 
 This format was often quite limiting and meant things like datasets, software (scripts, code, apps, tools) and methods were often squeezed into research articles with little detail due to word limits, hidden in supplementary material or not included at all. 
-Researchers therefore have often deposited these research objects in a repository to make them usable and discoverable by others. Depositing them with rich metadata is best practice and you can find out more about how to do that in our [Making Research Objects Citable chapter](https://the-turing-way.netlify.app/communication/citable.html).
-There also has been the development of new article types, which allows all deposited research outputs produced during the research lifecycle to be publications in their own right and further linked to the final interpretations and conclusions of a research project. 
+
+Researchers therefore increasingly deposit these research objects in repositories to make them usable and discoverable by others. 
+Depositing them with rich metadata and linking to a research articles is best practice and you can find out more about how to do that in our [Making Research Objects Citable chapter](https://the-turing-way.netlify.app/communication/citable.html).
+
+However, recently there has been the development of new article types, which allows all deposited research outputs produced during the research lifecycle to be published in their own right and further linked to the final interpretations and conclusions of a research project. 
 The linking of these articles is one way to fully publish a reproducible research project. 
 
 Having separate article types for these outputs allows the people involved, such as research software engineers and data stewards, to receive sufficient credit, attribution and visibility for their work and contributions, particularly as publications are still the main currency by which researchers are evaluated.
