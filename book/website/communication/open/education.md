@@ -4,7 +4,7 @@
 (cm-open-education-what)=
 ## What is Open Education
 Open Education is a collective term that encompasses educational resources, tools and practices that can be freely used in the digital environment without legal, financial or technical barriers. 
-Open Education can also include [Open Pedagogy](http://openpedagogy.org/open-pedagogy/) which also focuses on the conversation with each other to develop educational practices and structures. 
+Open Education can also include [Open Pedagogy](http://openpedagogy.org/open-pedagogy/) which also focuses on the process of collaboratively developing educational practices and structures. 
 In open educational practices there is more space for [participation of learners in the knowledge creation and sharing](https://opencontent.org/blog/archives/2975), empowering learners and stimulating peer-learning and colllaboration.  
 
 (cm-open-education-why)=
@@ -14,18 +14,18 @@ Open Education is important as it:
 
 - Facilitates broader and more equal access to access to knowledge and knowledge generation.
 Open Education is rooted in the human right to access high-quality education.
-- Is more easy to use: 
+- Is easier to use: 
     - Easier to build upon and correct the materials, which facilitates customisation of your education curriculum.
     - Easier to collaborate, participate and share resources.
-- Reduces duplication of effort: If an educator needs materials for teaching and such materials already exist openly, then they need not make their own from scratch, thereby saving time.
-- Is generally more accessible due to open formats compared to proprietary formats in which files cannot be changed. 
-    - Formats like Microsoft docx requires access to Microsoft Word, whereas open formats such as RTF and HTML work with a variety of software. 
+- Reduces duplication of effort: If an educator needs materials for teaching and they can access open materials, then they need not make their own from scratch, thereby saving time.
+- Is generally more accessible due to the use of open formats compared to proprietary formats in which files cannot be changed. 
+    - Formats like Microsoft docx require access to Microsoft Word, whereas open formats such as RTF and HTML work with a variety of software. 
     - While .pdf is an open format, it is also more closed in the sense that it is difficult to edit compared to formats such as RTF and HTML. 
     - Accessibility is not guaranteed! 
 Learn more about how to improve the accessibility of your resources: 
         - [How to Create Engaging Open Educational Resources without Sacrificing Accessibility](https://www.youtube.com/watch?v=UtOCI5TqtQI)
         - [OER and Accessibility: Working Toward Inclusive Learning](https://sparcopen.org/news/2018/oer-accessibility-working-toward-inclusive-learning/)
-- Open [does not necessairly exclude revenue generation](https://edscoop.com/how-traditional-textbook-publishers-can-do-well-by-the-oer-community/)
+- Open [does not necessarily exclude revenue generation](https://edscoop.com/how-traditional-textbook-publishers-can-do-well-by-the-oer-community/)
 - Open Educational resources [may be more effective](http://openedgroup.org/review) than [traditional materials that are more expensive](https://www.huffpost.com/entry/college-textbooks-do-you_b_8261086). 
 See also {cite:ps}`Colvard2018OERsuccess`. 
 
@@ -45,7 +45,7 @@ Learn more about why Open Education matters:
 
 Open educational resources (OERs) [{term}`def<Open Educational Resources>`] are teaching and learning materials that can be freely used and reused for learning or teaching at no cost, and without needing to ask permission. Examples are courses, including Massive Online Open Courses (MOOCs), lectures, teaching materials, assignments, and various other resources. OERs are available in many different formats compatible with online usage, most obviously text, images, audio, and video. Anyone with internet access can access and use OERs; access is not dependent on location or membership of a particular institution.
 
-Unlike copyrighted resources, OERs have been authored or created by an individual or organization that chooses to retain few, if any, ownership rights. In some cases, that means anyone can download a resource and share it with colleagues and students. In other cases, this may go further and enable people to edit resources and then re-post them as a remixed work. How do you know your options? OERs often have a Creative Commons licence or other permission to let you know how the material may be used, reused, adapted, and shared.
+Unlike copyrighted resources, OERs have been authored or created by an individual or organization that chooses to retain few, if any, ownership rights. In some cases, that means anyone can download a resource and share it with colleagues and students. In other cases, this may go further and enable people to edit resources and then re-post them as a remixed work. How do you know your options? OERs often have a [Creative Commons licence](https://creativecommons.org/) or other permission to let you know how the material may be used, reused, adapted, and shared.
 
 Fully open OERs comply with the [5 Rs](http://opencontent.org/definition/):
 
@@ -59,7 +59,7 @@ Fully open OERs comply with the [5 Rs](http://opencontent.org/definition/):
 ## How to set up OERs? 
 
 1. Choose a platform.
-2. Collect resources under an open license (see [Attribution & Fair Use: Copyright in Open Education](https://www.youtube.com/watch?v=jGTUHdadqJU) and {ref} section on data licenses<rr-licensing-data>.
+2. Collect resources under an open license (see [Attribution & Fair Use: Copyright in Open Education](https://www.youtube.com/watch?v=jGTUHdadqJU) and {ref}'rr-licensing-data' section.
 3. Ask for feedback.
 4. Share and promote your resources.
 
