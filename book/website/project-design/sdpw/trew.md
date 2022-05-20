@@ -53,7 +53,7 @@ As such, it's important to consider the trade-off between developing research co
 **4) Do you aim to use notebooks (such as Jupyter) for analyses carried out in TREs?** 
 
 Notebooks are a fantastic resource for data analysis, and this is no different in the context of working with sensitive data in a TRE. 
-However, notebooks are a particularly risky for export from TRE, for the reasons outlined in the previous paragraph. 
+However, notebooks are a particularly risky for export from TRE. Jupyter notebook files in particular (.ipynb extension) are JSON documents that include metadata not viewable in the rendered form, which could increase the risk of sensitive data being included in any exported notebook by mistake.
 One recommendation when preparing the output of a data analysis carried out in a notebook within a TRE for publication is to convert it to a static format such as PDF.
     
 5. Do you want those without access to the TRE to be able to run the code used in your research?
