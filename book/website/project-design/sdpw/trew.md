@@ -30,7 +30,7 @@ TREs set up for researchers to work on particularly sensitive data will likely l
 Where this is the case, it is important to understand how the processes particular to your TRE work for things like software ingress (for important software libraries you may require) and code/data egress (to understand what, if anything, can be exported from the TRE). 
 These policies will likely be set by those managing the TRE, for example the IT department at your University.
     
-2. Does the TRE have a version control system, such as GitLab?
+**2) Does the TRE have a version control system, such as GitLab?**
     
 Without internet access, websites like GitHub are unavailable for the development of research code within TREs. 
 Version Control Systems (VCS) like Git can be useful even where access to GitHub is impossible. 
