@@ -7,12 +7,12 @@ In this chapter we will outline the factors that must be considered when you wan
 
 ## The big misconception about Open Source
 
-![]('../../figures/oss-sustainability-pathways-problem.jpg')
-
 ```{figure} figures/oss-sustainability-pathways-problem.jpg
 ---
 name: oss-sustainability-pathways-problem
 alt: A researcher is torn between taking the path of private commercialisation or the path of open source.
+---
+This image was created by Scriberia for The Turing Way community and is used under a CC-BY 4.0 licence for reuse. Zenodo. DOI 10.5281/zenodo.3332807
 ```
 
 One of the most common beliefs about Open Source is that it simply means "free" and therefore an open source project can never generate revenue or profit.
@@ -30,6 +30,14 @@ For a researcher at the end of an academic project, it can seem like there is a 
 However, these two paths should not be considered mutually exclusive, and an open-source, community-governed project can work in tandem with a business based on that same project. 
 There are several pathways to generating revenue from an open source project, whether for profit or to sustain a not-for-profit enterprise. 
 In this chapter we'll present some of key considerations when looking to make a project sustainable, and how these differ depending on the organisational structure you want to pursue.
+
+```{figure} figures/oss-sustainability-pathways-solution.jpg
+---
+name: oss-sustainability-pathways-solution
+alt: A researcher considers the 4 pathways/pillars of OSS sustainability.
+---
+This image was created by Scriberia for The Turing Way community and is used under a CC-BY 4.0 licence for reuse. Zenodo. DOI 10.5281/zenodo.3332807
+```
 
 ## Four pillars of OSS sustainability
 The resulting project and any related enterprise will look different in each case, we've identified four key ingredients that we think all projects aiming for sustainability should consider:
