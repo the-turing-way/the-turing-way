@@ -78,11 +78,12 @@ With the help of comments and commit messages in git, for instance, each version
 This is helpful when we share our analysis (not only data), and make it auditable or **reproducible** - which is good scientific practice.
 
 A version control system **neatly hide older versions** of the data. 
-So your working directory is not cluttered by the debris of previous versions, while they remain accessible, in case you need them
+So your working directory is not cluttered by the debris of previous versions, while they remain accessible, in case you need them.
 Similarly, with version control, there is no need to leave unused chunks of code  should you ever need to come back to an old version again.
 
 
 Finally, version control is invaluable for collaborative projects where different people work on the same data or code simultaneously and build on each other's work.
-Using a version contols system, **Changes made by different people can be tracked and often automatically combined**, saving a great deal of painstaking efforts.
-Using version control for your research project means that your work is more transparent. Because all your actions are recorded, your studies are easier to reproduce and build upon.
+Using a version contols system, **Changes made by different people can be tracked and often automatically combined**, saving a great deal of painstaking manual efforts.
+Using version control for your research project means that your work is more transparent. 
+Because all your actions are recorded, your studies are easier to reproduce and build upon.
 Moreover, version control hosting services such as {ref}`GitHub<cl-github-novice-motivation>`, Gitlab and others provide a way to communicate and collaborate in a more structured way, such as in pull requests, code reviews, and issues.
