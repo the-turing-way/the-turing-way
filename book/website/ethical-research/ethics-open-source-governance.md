@@ -81,7 +81,7 @@ Keep in mind, though, that not all of them may cater well for an ethical framewo
 (er-ethics-open-source-governance-technology)=
 ## Do Not Rely on Technology to do Your Ethics for You
 
-In an age of automation, of bots, and of exceptional investment into AI, you might be inclined to think “This all sounds like a heavy workload - how do I even get started?” You might consider a couple of options - 
+In an age of automation, bots, and exceptional investment into AI, you might be inclined to think “This all sounds like a heavy workload - how do I even get started?” You might consider a couple of options - 
 
 1. Do I adopt an existing governance model? 
 2. Maybe I should get a computer system to do it for me, or at least help me out?
