@@ -6,7 +6,14 @@
 Registered Reports are an article type divided into two published parts- a study protocol and a research article. 
 The study protocol is reviewed **prior** to the data being collected and the research being carried out. 
 
-(image to go here)
+```{figure} ../figures/cos-reg-reports.png
+---
+height: 500px
+name: registered reports
+alt: a timeline showing the stages of publishing a registered report
+---
+Image from Centre for Open Science- https://www.cos.io/initiatives/registered-reports
+```
 
 For the first stage of registered reports, researchers detail their proposed methods, hypotheses and analyses in a published study protocol. 
 This is then peer reviewed, allowing authors to refine their methodology from reviewer feedback if needed. 
