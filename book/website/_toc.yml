@@ -41,6 +41,8 @@ parts:
         file: reproducible-research/open/open-access
       - title: Open Notebooks
         file: reproducible-research/open/open-notebooks
+      - title: Open Infrastructure
+        file: reproducible-research/open/open-infrastructure
       - title: Open Scholarship
         file: reproducible-research/open/open-scholarship
       - title: Checklist
