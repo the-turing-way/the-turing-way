@@ -1,4 +1,7 @@
 (cm-dif-articles-registered-reports)=
+# Registered Reports
+
+(cm-dif-articles-registered-reports-what)=
 ## What are Registered Reports?
 Registered Reports are an article type divided into two published parts- a study protocol and a research article. 
 The study protocol is reviewed **prior** to the data being collected and the research being carried out. 
