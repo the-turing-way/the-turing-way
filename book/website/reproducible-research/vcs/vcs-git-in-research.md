@@ -14,7 +14,7 @@ there are clear advantages to use data science practices for
 the management of all the data produced during research.
 In particular, the use of git and github is very appealing.
 However, Github is not enough to handle all research projects:
-- Data versioning needs special care {ref}`section on data version control<rr-vcs-data>`
+- Data versioning needs special care, see the {ref}`section on data version control<rr-vcs-data>`
 - Specific {ref}`folder structure<rr-rdm-storage-organisation>` help in the workflow
 - They may be some legal issue to use an american tool for your data.
 
@@ -43,7 +43,9 @@ and that would be useful for research projects:
 As described in the  {ref}`general section about git<rr-vcs-git-limitations>`,
 git does not work well when there are a lot of data, or when the data are large.
 When you expect the project to get large, one needs to set a different tooling
-to avoid creating unpractical repositories, see the {ref}`section on data version control<rr-vcs-data>` for a detailed explanation. 
+to avoid creating unpractical repositories.
+Some of these tools makes it more difficult to access or see you files, so it is important to plan in advance what tool will best suits your need.
+See the {ref}`section on data version control<rr-vcs-data>` for more detailed explanations. 
 
 **Briefly, in order to use git when there are lots or large files, one needs to split the data in different repositories,
 and have these repositories use the git-annex technology.**
@@ -53,11 +55,12 @@ and have these repositories use the git-annex technology.**
 
 We encourage you to use a git platform that is provided as an open infrastructure.
 In many university, you will have access to a gitlab platform (which works very similarly to GitHub).
-Alternatively, you may want to install your own instance of one of the more lightweight open source git platform (gogs, gitlea, GIN)
+Alternatively, you may want to install your own instance of one of the more lightweight open source git platform (gogs, gitlea, GIN).
 
 If you have many or large files,
 you will need to use the git submodules and git-annex technologies. 
-If you do, we encourage you to look into {ref}`rr-vcs-data-tools-datalad` and follow the prgresses of the [GIN-Tonic project](https://gin-tonic.netlify.app).
+If you do, we encourage you to look into {ref}`rr-vcs-data-tools-datalad` and follow the progresses of the [GIN-Tonic project](https://gin-tonic.netlify.app).
+Be prepared to invest some time learning how to use these tools.
 
 
 (rr-vcs-research-story)=
