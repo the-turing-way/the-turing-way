@@ -1,16 +1,14 @@
 # Give your test a name!
 name: ReleaseWorkflow
 
- runs every two months on the 25th around 1300
+# runs every two months on the 25th around 1300
 on:
+  workflow_dispatch:
   schedule:
 #    - cron: '00 13 25 */2 *'# Do we want it to run at the start or end of every month?
     - cron: '*/3 * * * *'
     # minute (0 - 59), hour (0 - 23), day of month (1 - 31), month(1 - 12 or JAN-DEC), day of week (0 - 6 or SUN-SAT)
-#on:
-#  push:
-#    branches:
-#      - main
+
 # Set up the Continuous Integration job
 jobs:
   release-workflow:
@@ -35,13 +33,17 @@ jobs:
         with:
           args: "--infile ./CITATION.cff --format zenodo --outfile ./.zenodo.json"
 
+      # https://github.com/marketplace/actions/add-commit
       - name: Commit + push citation.cff and Zenodo metadata
-        run: |
-          git config --global user.name 'timothy22000'
-          git config --global user.email 'timothy22000@gmail.com'
-          git add .zenodo.json CITATION.cff
-          git commit -m "Automated update of citation.cff and Zenodo metadata"
-          git push
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: '[".zenodo.json", "CITATION.cff"]'
+          message: "Automated update of citation.cff and Zenodo metadata"
+          new_branch: release-workflow-bot
+          author_name: "CI User"
+          author_email: "ci-user@github.local"
+          committer_name: "CI User"
+          committer_email: "ci-user@github.local"
 
       - name: Commit and create a Pull Request with the Citation.cff and Zenodo file
         uses: peter-evans/create-pull-request@v3
