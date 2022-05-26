@@ -13,6 +13,11 @@ jobs:
       - name: Checkout branch
         uses: actions/checkout@v2
 
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install ruamel.yaml
+
       - name: Update CITATION.cff file
         working-directory: ./tests
         run: |
