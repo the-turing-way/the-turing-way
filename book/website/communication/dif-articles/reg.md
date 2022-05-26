@@ -43,7 +43,7 @@ The registered report format means that when you have your protocol approved, yo
 
 This frees up researchers to be rewarded for simply doing good and transparent science without having to sell an impactful story about their research. 
 
-Registered reports are also a useful format for researchers who want to carry out replication studies and other novel, resource-intensive projects that may otherwise be too risky to attempt where successful publication is contingent on the results. More info can be found [here](https://royalsociety.org/blog/2016/11/registered-reports-what-are-they-and-why-are-they-important/).
+Registered reports are also a useful format for researchers who want to carry out replication studies and other novel, resource-intensive projects that may otherwise be too risky to attempt where successful publication is contingent on the results. More info can be found [in this Royal Society blog on registered reports](https://royalsociety.org/blog/2016/11/registered-reports-what-are-they-and-why-are-they-important/).
 
 (cm-dif-articles-registered-reports-how)=
 ## How do you write a Registered Report?
