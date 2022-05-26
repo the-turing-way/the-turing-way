@@ -8,7 +8,7 @@ The study protocol is reviewed **prior** to the data being collected and the res
 
 ```{figure} ../../figures/cos-reg-reports.png
 ---
-height: 300px
+height: 200px
 name: registered reports
 alt: a timeline showing the stages of publishing a registered report
 ---
