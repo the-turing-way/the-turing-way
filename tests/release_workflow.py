@@ -30,8 +30,7 @@ def update_citation_file(citation_file_path):
         minor = 0
         major += 1
 
-    version_str = f"{major}.{minor}.{tiny}"
-    file_content["version"] = version_str
+    file_content["version"] = f"{major}.{minor}.{tiny}"
 
     file_content["date-released"] = datetime.today().strftime("%Y-%m-%d")
 
