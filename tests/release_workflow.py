@@ -17,6 +17,7 @@ def update_citation_file(citation_file_path):
         file_content = yaml.load(stream)
 
     major, minor, tiny = file_content["version"].split(".")
+    major, minor, tiny = int(major), int(minor), int(tiny)
 
     # Maybe we want to provide an input to determine what the release version
     # should be? Here we are restricting the patch and minor versions to be less
