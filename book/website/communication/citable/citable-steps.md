@@ -56,6 +56,8 @@ Some examples include:
 - [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/)
 - [Journal of Open Source Software](https://joss.theoj.org/)
 
+You can read more about these different article types in our {ref}`Chapter on Publishing Different Article Types<cm-dif-articles>`.
+
 (cm-citable-steps-referencing)=
 ## 3. Add Machine-Readable Referencing Information
 

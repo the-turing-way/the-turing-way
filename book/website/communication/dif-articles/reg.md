@@ -1,9 +1,19 @@
 (cm-dif-articles-registered-reports)=
+# Registered Reports
+
+(cm-dif-articles-registered-reports-what)=
 ## What are Registered Reports?
 Registered Reports are an article type divided into two published parts- a study protocol and a research article. 
 The study protocol is reviewed **prior** to the data being collected and the research being carried out. 
 
-(image to go here)
+```{figure} ../../figures/cos-reg-reports.png
+---
+height: 200px
+name: registered reports
+alt: a timeline showing the stages of publishing a registered report
+---
+Image from Centre for Open Science- https://www.cos.io/initiatives/registered-reports
+```
 
 For the first stage of registered reports, researchers detail their proposed methods, hypotheses and analyses in a published study protocol. 
 This is then peer reviewed, allowing authors to refine their methodology from reviewer feedback if needed. 
@@ -33,7 +43,7 @@ The registered report format means that when you have your protocol approved, yo
 
 This frees up researchers to be rewarded for simply doing good and transparent science without having to sell an impactful story about their research. 
 
-Registered reports are also a useful format for researchers who want to carry out replication studies and other novel, resource-intensive projects that may otherwise be too risky to attempt where successful publication is contingent on the results. More info here- https://royalsociety.org/blog/2016/11/registered-reports-what-are-they-and-why-are-they-important/
+Registered reports are also a useful format for researchers who want to carry out replication studies and other novel, resource-intensive projects that may otherwise be too risky to attempt where successful publication is contingent on the results. More info can be found [in this Royal Society blog on registered reports](https://royalsociety.org/blog/2016/11/registered-reports-what-are-they-and-why-are-they-important/).
 
 (cm-dif-articles-registered-reports-how)=
 ## How do you write a Registered Report?
