@@ -3249,6 +3249,15 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "loleg",
+      "name": "Oleg Lavrovsky",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31819?v=4",
+      "profile": "https://datalets.ch",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
