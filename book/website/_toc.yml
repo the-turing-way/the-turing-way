@@ -513,6 +513,8 @@ parts:
       file: ethical-research/ethics-committees
     - title: Ethical Decisions in Preclinical Research
       file: ethical-research/preclinical-research
+    - title: Data Anonymization
+      file: ethical-research/data-anonymization
     - title: Law, Policy and Human Rights in Ethics
       file: ethical-research/law-policy
       sections:
