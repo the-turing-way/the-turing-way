@@ -19,7 +19,7 @@ Providing links to sections you're referencing for clarity is highly encouraged.
 
 *Lorem ipsum dolor sit amet, consectetur adipiscing.*
 
-### What is the target language/languages?
+### What is/are the target language/languages?
 
 <!-- Is your language added to Crowdin or you need to be added?
 We suggest using bullets (indicated by * or -) and filled checkboxes [x] here -->
@@ -27,7 +27,7 @@ We suggest using bullets (indicated by * or -) and filled checkboxes [x] here --
 - [ ] * Target language/languages is/are .*
 - [ ] *I wish to be manager in Crowdin for entries in this language.*
 - [ ] *I will only proofread translation for this language.*
-
+- [ ] *Do you have a local translation to be uploaded to the Translation Memory?*
 
 ### What is the sections/chapters you want to translate?
 
