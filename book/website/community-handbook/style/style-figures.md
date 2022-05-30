@@ -2,7 +2,8 @@
 # Using figures in _The Turing Way_
 
 We encourage you to add images to _The Turing Way_ book chapters.
-This section of the style guide will explain how to use [Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/) (MyST) format to add them to the book with appropriate {ref}`alt text<ch-style-figures-alttext>` and {ref}`captions<ch-style-figures-caption>`. This is sometimes tricky, refer to the {ref}`ch-style-figures-advanced` section for troubleshooting.
+This section of the style guide will explain how to use [Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/) (MyST) format to add them to the book with appropriate {ref}`alt text<ch-style-figures-alttext>` and {ref}`captions<ch-style-figures-caption>`. 
+This is sometimes tricky, see the {ref}`ch-style-figures-advanced` section for troubleshooting.
 
 We are very passionate about ensuring that the creators of the original image files (including you!) are {ref}`acknowledged appropriately<ch-style-figures-licence>`.
 Please do not use images that are not licenced for reuse.
