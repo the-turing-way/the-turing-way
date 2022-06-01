@@ -3259,6 +3259,16 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "JimCircadian",
+      "name": "Jim Circadian",
+      "avatar_url": "https://avatars.githubusercontent.com/u/731727?v=4",
+      "profile": "http://inconsistentrecords.co.uk",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
     }
   ],
   "projectName": "the-turing-way",
