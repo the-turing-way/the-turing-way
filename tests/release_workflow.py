@@ -7,9 +7,10 @@ from ruamel.yaml import YAML
 
 # Configure the YAML parser
 yaml = YAML()
-yaml.indent(mapping=3, sequence=2, offset=0)
+yaml.indent(mapping=2, sequence=4, offset=2)
 yaml.allow_duplicate_keys = True
 yaml.explicit_start = False
+yaml.preserve_quotes = True
 
 
 def update_citation_file(citation_file_path):
