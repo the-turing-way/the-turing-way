@@ -1,46 +1,44 @@
 """
 Script to update citation.cff file and validate it then draft a release note.
 """
-import argparse
 from datetime import datetime
 
-def read_from_file(infile):
-    with open(infile, "r", encoding="utf8") as fid:
-        return fid.readlines()
+from ruamel.yaml import YAML
 
-def int_to_version(major, minor, tiny):
-    return f"{major}.{minor}.{tiny}"
+# Configure the YAML parser
+yaml = YAML()
+yaml.indent(mapping=2, sequence=4, offset=2)
+yaml.allow_duplicate_keys = True
+yaml.explicit_start = False
+yaml.preserve_quotes = True
+
 
 def update_citation_file(citation_file_path):
-    file_content = read_from_file(citation_file_path)
-    for idx, line in enumerate(file_content):
-        word_array = line.split(" ")
-        if ("version:" in word_array):
-            major, minor, tiny = map(int, word_array[1].split("."))
+    with open(citation_file_path) as stream:
+        file_content = yaml.load(stream)
 
-            tiny = tiny + 1
-            if (tiny > 10 and minor < 10):
-                tiny = 0
-                minor = minor + 1
-            elif (tiny > 10 and minor > 10):
-                minor = 0
-                major = major + 1
+    major, minor, tiny = file_content["version"].split(".")
+    major, minor, tiny = int(major), int(minor), int(tiny)
 
-            version_number_str = str(major) + "." + str(minor) + "." + str(tiny) + "\n"
+    # Maybe we want to provide an input to determine what the release version
+    # should be? Here we are restricting the patch and minor versions to be less
+    # than or equal to 10, but there's nothing in semver practices that enforces this.
+    tiny += 1
+    if (tiny > 10) and (minor < 10):
+        tiny = 0
+        minor += 1
+    elif (tiny > 10) and (minor > 10):
+        minor = 0
+        major += 1
 
-            file_content[idx] = "version: " + version_number_str
-        elif ("date-released:" in word_array):
+    file_content["version"] = f"{major}.{minor}.{tiny}"
 
-            file_content[idx] = "date-released: " + "\"" + datetime.today().strftime("%Y-%m-%d") + "\" \n"
-        else:
-            file_content[idx] = line
+    file_content["date-released"] = datetime.today().strftime("%Y-%m-%d")
 
-    with open(citation_file_path, "w", encoding="utf8") as file:
-        file.writelines(file_content)
+    with open(citation_file_path, "w") as fp:
+        yaml.dump(file_content, fp)
+
 
 if __name__ == "__main__":
     citation_file_path = "../CITATION.cff"
     update_citation_file(citation_file_path)
-
-
-
