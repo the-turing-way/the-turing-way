@@ -1,343 +1,570 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Place Holder <test@test.com>, 2020.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Camila Rangel Smith <camila.rangel.smith@gmail.com>, 2020
+# Pamela Villar González <pamela.villar.gonzalez@psych.uw.edu.pl>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: content\n"
 "Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
 "POT-Creation-Date: 2020-02-05 19:08:03+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Place Holder <test@test.com>\n"
-"Language-Team: Spanish <LL@li.org>\n"
+"PO-Revision-Date: 2020-04-07 14:20+0000\n"
+"Last-Translator: Pamela Villar González <pamela.villar.gonzalez@psych.uw.edu.pl>, 2020\n"
+"Language-Team: Spanish (https://www.transifex.com/theturingway/teams/107194/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: collaborating_github/1/readme_communication.md:1
 # header
+#: collaborating_github/1/readme_communication.md:1
 msgid "## README and project communication"
-msgstr ""
+msgstr "## README y la comunicación en proyectos "
 
 #: collaborating_github/1/readme_communication.md:3
 msgid "README files are the welcome mat for your project. "
-msgstr ""
+msgstr "Los archivos README son la bienvenida a tu proyecto."
 
 #: collaborating_github/1/readme_communication.md:4
-msgid "They are the first thing new visitors to your project will see and thus are part of a set of really important documents to make potential contributors feel welcome and invite them to get involved."
+msgid ""
+"They are the first thing new visitors to your project will see and thus are "
+"part of a set of really important documents to make potential contributors "
+"feel welcome and invite them to get involved."
 msgstr ""
+"Son lo primero que verán los nuevos visitantes de tu proyecto y, por lo "
+"tanto, forman parte de un conjunto de documentos importantes para que los "
+"posibles colaboradores se sientan bienvenidos e invitarlos a participar."
 
 #: collaborating_github/1/readme_communication.md:5
-msgid "Your [README file](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/) should cover:"
+msgid ""
+"Your [README file](https://mozilla.github.io/open-leadership-training-"
+"series/articles/opening-your-project/write-a-great-project-readme/) should "
+"cover:"
 msgstr ""
+"Tu [archivo README] (https://mozilla.github.io/open-leadership-training-"
+"series/articles/opening-your-project/write-a-great-project-readme/) debe "
+"incluir:"
 
+# unordered list
 #: collaborating_github/1/readme_communication.md:6
-# unordered list
 msgid "* What you are doing, for who, and why."
-msgstr ""
+msgstr "* Qué estás haciendo, para quién y por qué."
 
+# unordered list
 #: collaborating_github/1/readme_communication.md:7
-# unordered list
 msgid "* What makes your project special and exciting."
-msgstr ""
+msgstr "* Qué hace que tu proyecto sea especial y emocionante."
 
+# unordered list
 #: collaborating_github/1/readme_communication.md:8
-# unordered list
 msgid "* How to get started."
-msgstr ""
+msgstr "* Cómo empezar."
 
-#: collaborating_github/1/readme_communication.md:9
 # unordered list
+#: collaborating_github/1/readme_communication.md:9
 msgid "* Where to find key resources."
-msgstr ""
+msgstr "* Dónde encontrar recursos clave."
 
 #: collaborating_github/1/readme_communication.md:11
-msgid "An [Open Canvas](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/) can be a good tool to help you clarify what you want to achieve with your project and what you should cover in your README."
+msgid ""
+"An [Open Canvas](https://mozilla.github.io/open-leadership-training-"
+"series/articles/opening-your-project/develop-an-open-project-strategy-with-"
+"open-canvas/) can be a good tool to help you clarify what you want to "
+"achieve with your project and what you should cover in your README."
 msgstr ""
+"Un [Open Canvas (o lienzo en blanco en español)] (https://mozilla.github.io"
+"/open-leadership-training-series/articles/opening-your-project/develop-an-"
+"open-project-strategy-with-open-canvas/) puede ser una buena herramienta que"
+" te ayude a aclarar qué quieres lograr con tu proyecto y qué debes cubrir en"
+" tu README."
 
-#: collaborating_github/2/roadmapping.md:1
 # header
+#: collaborating_github/2/roadmapping.md:1
 msgid "## Roadmapping"
-msgstr ""
+msgstr "## Plan de trabajo"
 
 #: collaborating_github/2/roadmapping.md:3
-msgid "If you plan a larger piece of work, it is very useful to have an outline for the work you need to do and share it with potential contributors."
+msgid ""
+"If you plan a larger piece of work, it is very useful to have an outline for"
+" the work you need to do and share it with potential contributors."
 msgstr ""
+"Si planeas un trabajo grande, es muy útil tener un esquema del trabajo que "
+"necesitas hacer y compartirlo con posibles colaboradores."
 
 #: collaborating_github/2/roadmapping.md:4
-msgid "Your roadmap covers your goal and vision and should include a timeline for tasks that need to be completed, thus helping anyone new to your project to develop an understanding of what is currently happening on the project and what's coming next."
+msgid ""
+"Your roadmap covers your goal and vision and should include a timeline for "
+"tasks that need to be completed, thus helping anyone new to your project to "
+"develop an understanding of what is currently happening on the project and "
+"what's coming next."
 msgstr ""
+"Tu plan de trabajo incluye tu objetivo y visión y debe incluir una línea de "
+"tiempo para las tareas que deben completarse, ayudando así a cualquier "
+"persona nueva en tu proyecto a desarrollar una comprensión de lo que está "
+"sucediendo actualmente en el proyecto y lo que viene a continuación."
 
 #: collaborating_github/2/roadmapping.md:5
-msgid "A roadmap is also a great tool to highlight dependencies among tasks, helping you to schedule work on them efficiently."
+msgid ""
+"A roadmap is also a great tool to highlight dependencies among tasks, "
+"helping you to schedule work on them efficiently."
 msgstr ""
+"Un plan de trabajo también es una gran herramienta para resaltar las "
+"dependencias entre las tareas, ayudándote a programar el trabajo en ellas de"
+" manera eficiente."
 
 #: collaborating_github/2/roadmapping.md:7
 msgid "Milestones can be really helpful to get to your main goal."
 msgstr ""
+"Los hitos pueden ser realmente útiles para alcanzar tu objetivo principal."
 
 #: collaborating_github/2/roadmapping.md:8
-msgid "Milestones can be organised around project goals, dates, events, or timeframes."
+msgid ""
+"Milestones can be organised around project goals, dates, events, or "
+"timeframes."
 msgstr ""
+"Los hitos se pueden organizar en torno a los objetivos, fechas, eventos o "
+"plazos del proyecto."
 
 #: collaborating_github/2/roadmapping.md:9
-msgid "If you work on GitHub, you can use [GitHub's Project board](https://help.github.com/en/articles/tracking-the-progress-of-your-work-with-project-boards) to manage tasks and issues. "
+msgid ""
+"If you work on GitHub, you can use [GitHub's Project "
+"board](https://help.github.com/en/articles/tracking-the-progress-of-your-"
+"work-with-project-boards) to manage tasks and issues. "
 msgstr ""
+"Si trabaja en GitHub, puede usar el [Tablero del proyecto de GitHub] "
+"(https://help.github.com/en/articles/tracking-the-progress-of-your-work-"
+"with-project-boards) para administrar tareas y problemas."
 
-#: collaborating_github/3/getting_contributors.md:1
 # header
+#: collaborating_github/3/getting_contributors.md:1
 msgid "## Getting contributors"
-msgstr ""
+msgstr "## Conseguir colaboradores"
 
 #: collaborating_github/3/getting_contributors.md:3
-msgid "Your project is likely to be better if what you create is used by others and they feed back their ideas for additional features or improvements."
+msgid ""
+"Your project is likely to be better if what you create is used by others and"
+" they feed back their ideas for additional features or improvements."
 msgstr ""
+"Es probable que tu proyecto sea mejor si lo que creas es utilizado por otros"
+" y estos envían sus ideas sobre funcionalidades adicionales o mejoras ."
 
-#: collaborating_github/3/getting_contributors.md:5
 # header
+#: collaborating_github/3/getting_contributors.md:5
 msgid "### Personas and pathways"
-msgstr ""
+msgstr "###Personas y rutas"
 
 #: collaborating_github/3/getting_contributors.md:7
 msgid "A persona is a description of a user of your project or tool."
 msgstr ""
+"En este contexto una \"persona\" es una descripción de un usuario de su "
+"proyecto o herramienta."
 
 #: collaborating_github/3/getting_contributors.md:8
-msgid "It should describe an imaginary person based on observations and knowledge of real life, and existing or potential users which provide enough detail for someone to imagine the persona's needs and reactions to the project."
+msgid ""
+"It should describe an imaginary person based on observations and knowledge "
+"of real life, and existing or potential users which provide enough detail "
+"for someone to imagine the persona's needs and reactions to the project."
 msgstr ""
+"Debe describir a una persona imaginaria basada en observaciones y "
+"conocimientos de la vida real, y usuarios existentes o potenciales que "
+"proporcionen suficientes detalles para que alguien pueda imaginar las "
+"necesidades y reacciones de la \"persona\" al proyecto."
 
 #: collaborating_github/3/getting_contributors.md:10
-msgid "Once you have created personas for your main users, you can imagine how they will interact with your project following these engagement phases:"
+msgid ""
+"Once you have created personas for your main users, you can imagine how they"
+" will interact with your project following these engagement phases:"
 msgstr ""
+"Una vez que hayas creado \"personas\" para tus principales usuarios, puedes "
+"imaginar cómo interactuarán con tu proyecto después de estas fases de "
+"participación:"
 
+# ordered list
 #: collaborating_github/3/getting_contributors.md:12
-# ordered list
 msgid "1. Discovery: How they first hear about the project or group."
-msgstr ""
+msgstr "1. Descubrimiento: cómo supieron del proyecto o grupo."
 
+# ordered list
 #: collaborating_github/3/getting_contributors.md:13
-# ordered list
-msgid "2. First Contact: How they first engage with the project or group, their initial interaction."
+msgid ""
+"2. First Contact: How they first engage with the project or group, their "
+"initial interaction."
 msgstr ""
+"2. Primer contacto: cómo se involucran por primera vez con el proyecto o "
+"grupo, su interacción inicial."
 
+# ordered list
 #: collaborating_github/3/getting_contributors.md:14
-# ordered list
 msgid "3. Participation: How they first participate or contribute."
-msgstr ""
+msgstr "3. Participación: cómo participan o contribuyen por primera vez."
 
+# ordered list
 #: collaborating_github/3/getting_contributors.md:15
-# ordered list
-msgid "4. Sustained Participation: How their contribution or involvement can continue."
+msgid ""
+"4. Sustained Participation: How their contribution or involvement can "
+"continue."
 msgstr ""
+"4. Participación sostenida: cómo puede continuar su contribución o "
+"participación."
 
-#: collaborating_github/3/getting_contributors.md:16
 # ordered list
+#: collaborating_github/3/getting_contributors.md:16
 msgid "5. Networked Participation: How they may network within the community."
 msgstr ""
+"5. Participación en red: cómo pueden trabajar en red dentro de la comunidad."
 
-#: collaborating_github/3/getting_contributors.md:17
 # ordered list
-msgid "6. Leadership: How they may take on some additional responsibility on the project, or begin to lead."
+#: collaborating_github/3/getting_contributors.md:17
+msgid ""
+"6. Leadership: How they may take on some additional responsibility on the "
+"project, or begin to lead."
 msgstr ""
+"6. Liderazgo: cómo pueden asumir alguna responsabilidad adicional en el "
+"proyecto o comenzar a liderar."
 
 #: collaborating_github/3/getting_contributors.md:19
-msgid "For an example persona and its pathway through an open project as well as further resources to help you create your own personas, see the [Mozilla Open leadership training](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/)."
+msgid ""
+"For an example persona and its pathway through an open project as well as "
+"further resources to help you create your own personas, see the [Mozilla "
+"Open leadership training](https://mozilla.github.io/open-leadership-"
+"training-series/articles/building-communities-of-contributors/bring-on-"
+"contributors-using-personas-and-pathways/)."
 msgstr ""
+"Para ver un ejemplo de una \"persona\" y su camino a través de un proyecto "
+"abierto, así como otros recursos para ayudarte a crear tus propias personas,"
+" consulta la [Capacitación de liderazgo de Mozilla Open] "
+"(https://mozilla.github.io/open-leadership-training-series/articles"
+"/building-communities-of-contributors/bring-on-contributors-using-personas-"
+"and-pathways/)."
 
-#: collaborating_github/3/getting_contributors.md:21
 # header
+#: collaborating_github/3/getting_contributors.md:21
 msgid "### Code of Conduct"
-msgstr ""
+msgstr "### Código de Conducta"
 
 #: collaborating_github/3/getting_contributors.md:23
-msgid "If your project is open for individuals to contribute and you grow a community, this community will need to be welcoming and inclusive to thrive."
+msgid ""
+"If your project is open for individuals to contribute and you grow a "
+"community, this community will need to be welcoming and inclusive to thrive."
 msgstr ""
+"Si tu proyecto está abierto para que las personas contribuyan y haces crecer"
+" una comunidad, esta comunidad deberá ser acogedora e inclusiva para que "
+"prospere."
 
 #: collaborating_github/3/getting_contributors.md:24
-msgid "One way to establish guidelines for participating in your project is to create a Code of Conduct or Participating Guidelines."
+msgid ""
+"One way to establish guidelines for participating in your project is to "
+"create a Code of Conduct or Participating Guidelines."
 msgstr ""
+"Una forma de establecer pautas para participar en tu proyecto es crear un "
+"Código de conducta o Pautas de participación."
 
 #: collaborating_github/3/getting_contributors.md:25
-msgid "These documents can be used for virtual interactions but also for any events you might host related to your project."
+msgid ""
+"These documents can be used for virtual interactions but also for any events"
+" you might host related to your project."
 msgstr ""
+"Estos documentos se pueden utilizar para interacciones virtuales, pero "
+"también para cualquier evento que pueda albergar relacionado con tu "
+"proyecto."
 
 #: collaborating_github/3/getting_contributors.md:26
 msgid "Codes of Conducts serve two main purposes:"
-msgstr ""
+msgstr "Los códigos de conducta tienen dos propósitos principales:"
 
+# unordered list
 #: collaborating_github/3/getting_contributors.md:27
-# unordered list
-msgid "* Establishing the kind of behaviour encouraged in the community you would like to create as well as clearly outlining unacceptable behaviour."
+msgid ""
+"* Establishing the kind of behaviour encouraged in the community you would "
+"like to create as well as clearly outlining unacceptable behaviour."
 msgstr ""
+"* Establecer el tipo de comportamiento fomentado en la comunidad que les "
+"gustaría crear, así como también delinear claramente el comportamiento "
+"inaceptable."
 
-#: collaborating_github/3/getting_contributors.md:28
 # unordered list
-msgid "* Outlining the process by which problems or violations of the guidelines will be addressed and who will be in charge of enforcing the Code of Conduct."
+#: collaborating_github/3/getting_contributors.md:28
+msgid ""
+"* Outlining the process by which problems or violations of the guidelines "
+"will be addressed and who will be in charge of enforcing the Code of "
+"Conduct."
 msgstr ""
+"* Describir el proceso mediante el cual se abordarán los problemas o "
+"violaciones de las pautas y quién estará a cargo de hacer cumplir el Código "
+"de Conducta."
 
 #: collaborating_github/3/getting_contributors.md:30
-msgid "Many openly developed projects have a Code of Conduct in place that often is openly licensed and can be re-used and adapted for your own project."
+msgid ""
+"Many openly developed projects have a Code of Conduct in place that often is"
+" openly licensed and can be re-used and adapted for your own project."
 msgstr ""
+"Muchos proyectos desarrollados abiertamente cuentan con un Código de "
+"Conducta que a menudo tiene licencia abierta y se puede reutilizar y adaptar"
+" para tu propio proyecto."
 
 #: collaborating_github/3/getting_contributors.md:31
-msgid "The [Turing Way Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md) is one example of a Code of Conduct built on various existing ones and can be adapted further."
+msgid ""
+"The [Turing Way Code of Conduct](https://github.com/alan-turing-institute"
+"/the-turing-way/blob/master/CODE_OF_CONDUCT.md) is one example of a Code of "
+"Conduct built on various existing ones and can be adapted further."
 msgstr ""
+"El [Código de conducta de Turing Way] (https://github.com/alan-turing-"
+"institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md) es un ejemplo de un"
+" Código de conducta basado en varios existentes y se puede adaptar más."
 
 #: collaborating_github/3/getting_contributors.md:32
-msgid "You can also consult the Mozilla Open Leadership Series [section on codes of conduct](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/) for further guidelines and examples to get started on a code of conduct for your project."
+msgid ""
+"You can also consult the Mozilla Open Leadership Series [section on codes of"
+" conduct](https://mozilla.github.io/open-leadership-training-series/articles"
+"/building-communities-of-contributors/write-a-code-of-conduct/) for further "
+"guidelines and examples to get started on a code of conduct for your "
+"project."
 msgstr ""
+"También puedes consultar la Serie de liderazgo abierto de Mozilla [sección "
+"sobre códigos de conducta](https://mozilla.github.io/open-leadership-"
+"training-series/articles/building-communities-of-contributors/write-a-code "
+"-of-conduct/) para obtener más pautas y ejemplos para comenzar con un código"
+" de conducta para tu proyecto."
 
-#: collaborating_github/3/getting_contributors.md:34
 # header
+#: collaborating_github/3/getting_contributors.md:34
 msgid "### Contributor guidelines"
-msgstr ""
+msgstr "### Directrices para colaboradores"
 
 #: collaborating_github/3/getting_contributors.md:36
-msgid "In addition to setting out some ground rules for the behaviour expected when collaborating on your project, you might want to provide some hands-on steps that potential collaborators should follow to add their contributions."
+msgid ""
+"In addition to setting out some ground rules for the behaviour expected when"
+" collaborating on your project, you might want to provide some hands-on "
+"steps that potential collaborators should follow to add their contributions."
 msgstr ""
+"Además de establecer algunas reglas básicas para el comportamiento esperado "
+"al colaborar en tu proyecto, es posible que desees proporcionar algunos "
+"pasos prácticos que los posibles colaboradores deben seguir para agregar sus"
+" contribuciones."
 
 #: collaborating_github/3/getting_contributors.md:37
-msgid "Those instructions are laid out in a CONTRIBUTING file (this is an idea borrowed from software engineering where capitalized filenames are the norm for the most important files of a project)."
+msgid ""
+"Those instructions are laid out in a CONTRIBUTING file (this is an idea "
+"borrowed from software engineering where capitalized filenames are the norm "
+"for the most important files of a project)."
 msgstr ""
+"Esas instrucciones se presentan en un archivo llamado \"CONTRIBUTING\" en "
+"inglés (esta es una idea tomada de la ingeniería de software donde los "
+"nombres de archivo en mayúsculas son la norma para los archivos más "
+"importantes de un proyecto)."
 
 #: collaborating_github/3/getting_contributors.md:38
-msgid "Your audiences for the contributing guidelines are your potential contributors who need to understand what is expected from them, project consumers who need to know how they can remix and re-use your work, and yourself who creates and maintains the file as a key part to outline interactions with your community."
+msgid ""
+"Your audiences for the contributing guidelines are your potential "
+"contributors who need to understand what is expected from them, project "
+"consumers who need to know how they can remix and re-use your work, and "
+"yourself who creates and maintains the file as a key part to outline "
+"interactions with your community."
 msgstr ""
+"La audiencia para las pautas de contribuición son tus contribuyentes "
+"potenciales que necesitan comprender lo que se espera de ellos, los "
+"consumidores del proyecto que necesitan saber cómo pueden mezclar y "
+"reutilizar tu trabajo, y tú mismo, quien crea y mantiene el archivo como una"
+" parte clave para describa las interacciones con tu comunidad."
 
 #: collaborating_github/3/getting_contributors.md:39
-msgid "Similar to other key documents, is it recommended that you look at examples of contributing guidelines of similar projects and re-use those."
+msgid ""
+"Similar to other key documents, is it recommended that you look at examples "
+"of contributing guidelines of similar projects and re-use those."
 msgstr ""
+"Al igual que en otros documentos clave, se recomienda que mires ejemplos de "
+"pautas de contribución de proyectos similares y los vuelvas a utilizar."
 
 #: collaborating_github/3/getting_contributors.md:40
-msgid "Here are a few suggestions of what your contributing guidelines could cover:"
+msgid ""
+"Here are a few suggestions of what your contributing guidelines could cover:"
 msgstr ""
+"Aquí hay algunas sugerencias de lo que podrían cubrir tus pautas de "
+"contribución:"
 
+# unordered list
 #: collaborating_github/3/getting_contributors.md:41
-# unordered list
 msgid "* Your project vision."
-msgstr ""
+msgstr "* Tu visión de proyecto."
 
+# unordered list
 #: collaborating_github/3/getting_contributors.md:42
-# unordered list
 msgid "* A welcome to potential contributors."
-msgstr ""
+msgstr "* Una bienvenida a los posibles contribuyentes."
 
+# unordered list
 #: collaborating_github/3/getting_contributors.md:43
-# unordered list
 msgid "* Pointers to the Code of Conduct."
-msgstr ""
+msgstr "* Notas apuntando hacia el Código de Conducta. "
 
+# unordered list
 #: collaborating_github/3/getting_contributors.md:44
-# unordered list
-msgid "* A list of other important resources such as the README file or your project's roadmap."
+msgid ""
+"* A list of other important resources such as the README file or your "
+"project's roadmap."
 msgstr ""
+"* Una lista de otros recursos importantes como el archivo README o el plan "
+"de trabajo de tu proyecto."
 
+# unordered list
 #: collaborating_github/3/getting_contributors.md:45
-# unordered list
 msgid "* Communication channels where contributors can reach you."
-msgstr ""
+msgstr "* Canales de comunicación donde los colaboradores pueden contactarte."
 
+# unordered list
 #: collaborating_github/3/getting_contributors.md:46
-# unordered list
 msgid "* How to submit changes."
-msgstr ""
+msgstr "* Cómo hacer cambios."
 
+# unordered list
 #: collaborating_github/3/getting_contributors.md:47
-# unordered list
 msgid "* Good first bugs or issues to start working on."
-msgstr ""
+msgstr "* Primeros problemas or errores (\"bugs\") en los que empezar a trabajar."
 
+# unordered list
 #: collaborating_github/3/getting_contributors.md:48
-# unordered list
 msgid "* How to report a bug."
-msgstr ""
+msgstr "* Cómo reportar un error o \"bug\"."
 
-#: collaborating_github/3/getting_contributors.md:49
 # unordered list
+#: collaborating_github/3/getting_contributors.md:49
 msgid "* Your recognition model and how contributions will get acknowledged."
 msgstr ""
+"* El modelo de reconocimiento y cómo se reconocerán las contribuciones."
 
-#: collaborating_github/3/getting_contributors.md:50
 # unordered list
+#: collaborating_github/3/getting_contributors.md:50
 msgid "* Where to go for help."
-msgstr ""
+msgstr "*  Dónde buscar ayuda."
 
 #: collaborating_github/3/getting_contributors.md:52
-msgid "Have a look at the [Turing Way contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) to understand how you can contribute to this book and re-use some ideas for your own project."
+msgid ""
+"Have a look at the [Turing Way contributing guidelines](https://github.com"
+"/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) to "
+"understand how you can contribute to this book and re-use some ideas for "
+"your own project."
 msgstr ""
+"Echa un vistazo a las [pautas de contribución de Turing Way] "
+"(https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/CONTRIBUTING.md) para comprender cómo puedes contribuir a "
+"este libro y reutiliza algunas ideas para tu propio proyecto."
 
-#: collaborating_github/4/checklist_bibliography.md:1
 # header
+#: collaborating_github/4/checklist_bibliography.md:1
 msgid "## GitHub contributor section as your checklist"
-msgstr ""
+msgstr "## Sección de colaboración en GitHub como lista de verificación"
 
 #: collaborating_github/4/checklist_bibliography.md:3
-msgid "GitHub encourages collaboration practice in their community guidelines. "
+msgid ""
+"GitHub encourages collaboration practice in their community guidelines. "
 msgstr ""
+"GitHub fomenta la práctica de colaboración en tus pautas comunitarias."
 
 #: collaborating_github/4/checklist_bibliography.md:4
-msgid "The insights tab of your GitHub project provides a section called \"Community\" that includes a list of recommended documents that your project should have."
+msgid ""
+"The insights tab of your GitHub project provides a section called "
+"\"Community\" that includes a list of recommended documents that your "
+"project should have."
 msgstr ""
+"La pestaña de \"insights\" (información) de tu proyecto de GitHub "
+"proporciona una sección llamada \"Community\" (o comunidad) que incluye una "
+"lista de documentos recomendados que tu proyecto debería tener."
 
 #: collaborating_github/4/checklist_bibliography.md:5
-msgid "Those include a README, Code of Conduct, Contributing guidelines, licence, and templates for issues and pull requests."
+msgid ""
+"Those include a README, Code of Conduct, Contributing guidelines, licence, "
+"and templates for issues and pull requests."
 msgstr ""
+"Entre ellos se incluyen un README, un código de conducta, pautas de "
+"contribución, una licencia y plantillas para \"issues\" y \"pull requests\"."
 
 #: collaborating_github/4/checklist_bibliography.md:7
-msgid "![Community profile on GitHub](/assets/figures/community_profile_github.png)"
+msgid ""
+"![Community profile on GitHub](/assets/figures/community_profile_github.png)"
 msgstr ""
+"![Community profile on GitHub](/assets/figures/community_profile_github.png)"
 
-#: collaborating_github/4/checklist_bibliography.md:9
 # header
+#: collaborating_github/4/checklist_bibliography.md:9
 msgid "## Bibliography"
-msgstr ""
+msgstr "## Bibliografía"
 
 #: collaborating_github/4/checklist_bibliography.md:11
-msgid "This chapter is an abbreviated version of the Mozilla Open Leadership Series material which is licensed under a [Creative Commons Attribution 4.0 licence](https://creativecommons.org/licenses/by/4.0/)."
+msgid ""
+"This chapter is an abbreviated version of the Mozilla Open Leadership Series"
+" material which is licensed under a [Creative Commons Attribution 4.0 "
+"licence](https://creativecommons.org/licenses/by/4.0/)."
 msgstr ""
+"Este capítulo es una versión abreviada del material de la Serie Open "
+"Leadership de Mozilla que está bajo una [licencia Creative Commons "
+"Attribution 4.0] (https://creativecommons.org/licenses/by/4.0/)."
 
 #: collaborating_github/4/checklist_bibliography.md:12
-msgid "The complete Open Leadership Handbook is available at https://mozilla.github.io/open-leadership-training-series/articles/readme/ and is highly recommended it as additional reading."
+msgid ""
+"The complete Open Leadership Handbook is available at "
+"https://mozilla.github.io/open-leadership-training-series/articles/readme/ "
+"and is highly recommended it as additional reading."
 msgstr ""
+"El \"Open Leadership Handbook\" (manual de liderazgo abierto) está "
+"disponible en https://mozilla.github.io/open-leadership-training-"
+"series/articles/readme/ y se recomienda encarecidamente como lectura "
+"adicional."
 
+# header
 #: collaborating_github/collaborating_github.md:1
-# header
 msgid "# Collaborating on GitHub/GitLab"
-msgstr ""
+msgstr "# Colaborando en GitHub/GitLab"
 
-#: collaborating_github/collaborating_github.md:4
 # header
+#: collaborating_github/collaborating_github.md:4
 msgid "## Prerequisites/recommended skill level"
-msgstr ""
+msgstr "## Requisitos previos / nivel de habilidad recomendado"
 
 #: collaborating_github/collaborating_github.md:6
 msgid "| Prerequisite | Importance |"
-msgstr ""
+msgstr "| Prerrequisito | Importancia |"
 
 #: collaborating_github/collaborating_github.md:7
 msgid "| -------------|----------|"
-msgstr ""
+msgstr "| -------------|----------|"
 
 #: collaborating_github/collaborating_github.md:8
-msgid "| [Experience with version control](/version_control/version_control) | Helpful |"
+msgid ""
+"| [Experience with version control](/version_control/version_control) | "
+"Helpful |"
 msgstr ""
+"| [Experiencia con control de versiones](/version_control/version_control) |"
+" Útil |"
 
+# header
 #: collaborating_github/collaborating_github.md:11
-# header
 msgid "## Summary"
-msgstr ""
+msgstr "## Resumen"
 
-#: collaborating_github/collaborating_github.md:13
 # header
+#: collaborating_github/collaborating_github.md:13
 msgid "## Why this is useful"
-msgstr ""
+msgstr "## Por qué esto es útil"
 
 #: collaborating_github/collaborating_github.md:15
-msgid "Developing your project or analysis collaboratively on GitHub or GitLab provides a prompter to document your work in detail and it provides a great opportunity to get additional contributors to your idea."
+msgid ""
+"Developing your project or analysis collaboratively on GitHub or GitLab "
+"provides a prompter to document your work in detail and it provides a great "
+"opportunity to get additional contributors to your idea."
 msgstr ""
+"El desarrollo de tu proyecto o análisis en colaboración en GitHub o GitLab "
+"proporcionan un indicador para documentar su trabajo en detalle y brinda una"
+" gran oportunidad para obtener colaboradores adicionales para tu idea."
 
 #: collaborating_github/collaborating_github.md:16
-msgid "Contributions can be everything from new ideas, to bug reports and actual code contributions."
+msgid ""
+"Contributions can be everything from new ideas, to bug reports and actual "
+"code contributions."
 msgstr ""
-
+"Las contribuciones pueden ser de todo tipo, desde nuevas ideas hasta "
+"informes de errores y contribuciones de código."
