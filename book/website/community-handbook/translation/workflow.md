@@ -2,14 +2,12 @@
 
 ## Workflow for translation within TTW
 
-<<<<<<< HEAD
-By translation workflow, we do not refer only to the phases that contributors should follow during the translation process. Instead, we refer to a set of key and optional aspects that can lead to a successful and sustainable translation project. The translation process can be grouped into four distinct stages. Let's jump in each of them!
-=======
+
 By translation workflow, we do not refer only to the phases that contributors should follow during the translation process.
 Instead, we refer to a set of key and optional aspects that can lead to a successful and sustainable translation project.
 The translation process can be grouped into four distinct stages.
 Let's jump in each of them!
->>>>>>> 86c5adb2 (review alejandro part)
+
 
 1. Before translation
 2. Starting a new language translation
@@ -22,7 +20,7 @@ Building a new translation project is an exciting way to contribute toward a glo
 Before starting a translation project, it remains relevant to reflect upon the following questions:
 - What are your expectations with translated content?
 - What are the expectations of the target audience?
-- If you are using RTL language (e.g. Arabic, Urdu), does your localisation platform support RTL language?
+- If you are using right-to-left (RTL) languages (e.g. Arabic, Urdu), does your localisation platform support RTL languages?
 - Do you see the target language in the localisation platform?
     - Check out the existing languages being translated.
     - Reach out to existing translation teams and ask them for good practices.
@@ -35,35 +33,39 @@ When starting a new language translation, there are several aspects to consider 
 
 The current workflow for all languages is using Crowdin from [a fork](https://github.com/TWTranslation/the-turing-way) that is temporarily located under [a GitHub organisation](https://github.com/TWTranslation) specifically created to host translated versions of _The Turing Way_.
 This fork is kept updated with the original repository automatically, and Crowdin performs automatic machine translations that need review and approval before being accepted as definitive versions.
-The deployment of these translated versions is a work in progress, and some parts of this workflow may change in the future, but for now, feel free to contact anyone on the `#translation` channel of the _The Turing Way_ Slack.
+The deployment of these translated versions is work in progress, and some parts of this workflow may change in the future, but for now, feel free to contact anyone on the `#translation` channel of the _The Turing Way_ Slack.
 
 
 ##### Define translation guidelines
 
 It is key to set translation norms for each language.
-These norms will guide newcomers on how to translate and review in the translation platform.
+These norms will guide newcomers on how to translate and review translations.
 For instance, we strongly suggest setting a glossary through the localisation platform.
 The Carpentries [Glosario](https://glosario.carpentries.org/) and the [Localization Lab glossary](https://www.localizationlab.org/glossaries) are two good examples of such glossaries.
 The decisions at this stage include deciding what terms not to translate, deciding on the translation of some terms, and the governance, for example, determining who is responsible for each section.
 
 We also suggest setting language-specific guidelines to use inclusive language.
-For example, the book [Teaching Tech Together](https://teachtogether.tech/) was collaboratively translated to Spanish. They defined their guidelines to account for regional differences and avoid gendered and other non-inclusive expressions.
+For example, the book [Teaching Tech Together](https://teachtogether.tech/) was collaboratively translated to Spanish.
+The team defined their guidelines to account for regional differences and avoid gendered and other non-inclusive expressions.
 They describe the whole process (in Spanish) [here](https://teachtogether.tech/es/index.html#s:traduccion) and an adaptation of their guidelines to English can be found [here](https://github.com/gvwilson/teachtogether.tech#translations).
 Document the translation guidelines for your selected language to be discussed and updated by the rest of the team.
+They may be useful for future teams translating other projects.
 
-We suggest having roles of project members, which include manager, Translator and Proofreader.
-- **Manager** – has similar rights as a project owner except the ability to manage some of the owner's Resources (e.g., configuring MT engines, advanced workflows, etc.) and delete projects.
-- **Proofreader** – can translate and approve strings. Unlike the manager, the Proofreader doesn't have access to project settings.
-- **Translator** – can translate strings and vote for translations added by other members
+We suggest having roles of project members, which include manager, translator, and proofreader.
+- **Manager** – has similar rights as a project owner except for the ability to manage some of the owner's Resources (e.g., configuring MT engines, advanced workflows, etc.) and delete projects.
+- **Proofreader** – can translate and approve strings.
+Unlike the manager, the Proofreader doesn't have access to project settings.
+- **Translator** – can translate strings and vote for translations added by other members.
 
-In order to facilitate and speed up the translation of a new language, we recommend sharing translation memory with other projects so similar strings can be translated automatically. The Turing Way project is linked with the translation memory of a previous version of the Turing Way translated in Transifex and another translation for [Open Life Science](https://openlifesci.org/) materials in OLS.
+In order to facilitate and speed up the translation of a new language, we recommend sharing translation memory with other projects so similar strings can be translated automatically.
+The Turing Way project is linked with the translation memory of a previous version of the Turing Way translated in Transifex and another translation for [Open Life Science](https://openlifesci.org/) materials in OLS.
 
 It is key to set translation norms. These norms will guide newcomers on how to translate and review in the translation platform. For instance, we strongly suggest setting a [glossary] through the localisation platform.
 
 #### Create a dedicated Slack channel
 
 We recommend you create a dedicated Slack channel for the language you are translating within the [_The Turing Way_ slack](theturingway.slack.com). This space will allow you to bring chat with interested parties in your own language.
-=======
+
 ```{figure} ../../figures/translation-memory.jpeg
 ---
 name: translation-memory
@@ -74,18 +76,24 @@ Illustration of translation as a way to reach global accessibility. _The Turing 
 Used under a CC-BY 4.0 licence.
 DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 ```  
->>>>>>> 86c5adb2 (review alejandro part)
+
 
 #### Create a dedicated Slack channel and co-working calls
 
-We recommend creating a dedicated Slack channel for the language you are translating within the [_The Turing Way_ slack](theturingway.slack.com). This space will allow you to bring chat with interested parties in your own language. YOu can join out `#translation` channel in [_The Turing Way_ slack](theturingway.slack.com).
+We recommend creating a dedicated Slack channel for the language you are translating within the [_The Turing Way_ slack](theturingway.slack.com).
+This space will allow you to chat with interested parties in your own language.
+You can join the `#translation` channel in [_The Turing Way_ slack](theturingway.slack.com).
 
-We also suggest defining co-working calls to progress on the translation.
-These sessions should be open to anyone interested in participating. You can also work on the translation in the co-working calls of The Turing Way project. You can find this activity in [_The Turing Way_ calendar](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ). Please note that these calls are in English but happy to facilitate other co-working calls in different languages.
+We also suggest defining co-working calls to check progress on the translation.
+These sessions should be open to anyone interested in participating.
+You can also work on the translation in the co-working calls of The Turing Way project.
+You can find this activity in [_The Turing Way_ calendar](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ).
+Please note that these calls are in English but we are happy to facilitate other co-working calls in different languages.
 
 #### Asynchronous translation
 
-Everyone interested in participating in a translation effort should be able to work asynchronously, have this in mind when writing the translation norms and any other documentation for your language. We have set up a public page for _The Turing Way_ in [Crowdin](https://turingway.crowdin.com/turing-way) with a README file summarising some of the translation guidelines.
+Everyone interested in participating in a translation effort should be able to work asynchronously, have this in mind when writing the translation norms and any other documentation for your language.
+We have set up a public page for _The Turing Way_ in [Crowdin](https://turingway.crowdin.com/turing-way) with a README file summarising some of the translation guidelines.
 
 ### During translation
 
@@ -123,6 +131,7 @@ As the Turing Way content grows, the translated content does too. We strongly en
 * Improve the translation
 * Update glossaries
 
-If you have any recommendations for improving the translation guidelines or setting up a language-specific rules, contact [the translation and localisation team](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md). We are very eager to improve the workflow and make the _The Turing Way_ a global project accessible to the wider community.
+If you have any recommendations for improving the translation guidelines or setting up a language-specific rules, contact [the translation and localisation team](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md).
+We are very eager to improve the workflow and make the _The Turing Way_ a global project accessible to the wider community.
 
 [^1]: This image and description are borrowed directly from [Crowdin docs](https://support.crowdin.com/translation-consistency/).
