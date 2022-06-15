@@ -9,7 +9,7 @@ A micropublication can be thought of as a mini research article - they are a sma
 They are also referred to as a brief or short report. 
 
 The idea behind micropublishing is to get more research published and out in the open so it can be used by other researchers. 
-For example during a research lifecycle, you may get small results from pilot experiments that won't fit the narrative of your final traditonal research article, therefore micropublishing allows you to get this kind of thing published.
+For example during a research lifecycle, you may get small results from pilot experiments that won't fit the narrative of your final traditional research article, therefore micropublishing allows you to get this kind of thing published.
 
 Micropublications gained more popularity during the COVID-19 pandemic (see blog here- https://elifesciences.org/labs/77a64938/outbreak-a-micropublishing-journal-for-collaborative-covid-19-research) where there was an emphasis on getting data and results out, no matter how small. 
 
