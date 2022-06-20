@@ -124,7 +124,7 @@ You can learn more about the [Outreachy program here](https://www.outreachy.org/
 
 ✨ **Meet Asma Kacem** ✨
 
-<img src="images/2022-06-asma.jpg" alt="Asma photo wearing a brown scarf" width="250">
+<img src="images/2022-06-asma.png" alt="Asma is a woman wearing a head scarf" width="250">
 
 > [Asma Kacem](https://asmakacem.me/) is an undergradute student from Tunisia studying Technology in Computer Science and Engineering. You can read about her experience in [her 1st blog post](https://oscsa-en-blog.netlify.app/posts/asmaa-intro/).
 
