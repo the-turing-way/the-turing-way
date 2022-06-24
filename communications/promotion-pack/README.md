@@ -7,6 +7,21 @@
 - A community: *The Turing Way is an Open Source collaborative project that involves and supports its members of diverse skills and backgrounds to ensure that data science is accessible and useful for everyone.
 Its moonshot goal is to make reproducible research 'too easy not to do'.*
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+## Who are the community members? 
+- Project co-leads: 
+  - Dr. Kirstie Whitaker, Director of the [Tools, Practices, and Systems research programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems), The Alan Turing Institute
+  - Dr. Malvika Sharan, Senior Researcher - Open Research, Practices, and Systems research programme, The Alan Turing Institute
+- Community Manager: Anne Lee-Steele, The Alan Turing Institute
+- Members of [*The Turing Way* core team](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) are:
+  - the members of the [Community Management](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research), Research Application Management and Project Management teams of the Tools, Practices and Systems research programme. 
+  - in-kind contributors and community volunteers who engage with the project in a sustained manner, often leading on important tasks related to the project. 
+- All contributors of *The Turing Way* collaborate on GitHub to develop The Turing Way materials online and participate in the project in different capacities. You can learn about them in our [Record of Contributions](https://the-turing-way.netlify.app/afterword/contributors-record.html).
+- Users: Hundreds of readers/users across the globe (average 3000 unique visitors monthly - as noted in April 2021).
+=======
+>>>>>>> Stashed changes
 ## Who are the community members?
 - Project co-leads: Dr. Kirstie Whitaker, head of the Tools, Practices, and Systems research programme, The Alan Turing Institute and Dr. Malvika Sharan, Senior Researcher within the Tools, Practices, and Systems research programme, The Alan Turing Institute
 - Community Manager: Anne Lee Steele
@@ -20,6 +35,10 @@ Its moonshot goal is to make reproducible research 'too easy not to do'.*
     - Anna Krystalli and Ben Murton (Code of Conduct contacts)
 - Contributors: 175 contributors (as of August 2020) who collaborate to develop The Turing Way materials online via GitHub.
 - Users: Hundreds of readers/users across the globe
+<<<<<<< Updated upstream
+=======
+>>>>>>> 0af3a92af6474813e9a001e0878880f28c8739b1
+>>>>>>> Stashed changes
 
 ## Important links:
 - GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
