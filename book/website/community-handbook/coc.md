@@ -25,8 +25,9 @@ All participants in our in-person events and online communications are expected 
 To make clear what is expected, everyone participating in activities associated with the Turing Way project is required to conform to this Code of Conduct.
 This Code of Conduct applies to all spaces managed by the Turing Way project including, but not limited to, in-person focus groups and workshops, and communications online via GitHub.
 
-The lead investigator of the Turing Way - Dr Kirstie Whitaker - is responsible for enforcing the Code of Conduct.
-She can be contacted by emailing [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
-You may contact [Anna Krystalli](mailto:a.krystalli@sheffield.ac.uk) or [Ben Murton](mailto:bmurton@turing.ac.uk) if you would prefer not to contact Dr Whitaker.
+The co lead-investigator of _The Turing Way_ - Dr. Kirstie Whitaker and Dr. Malvika Sharan - are responsible for enforcing the Code of Conduct.
+They can be contacted by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) or [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
+You may contact Anne Lee Steele (Community Manager) at [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk), if you would prefer not to contact Dr. Whitaker or Dr. Sharan.
+Alternatively, you may also contact [Anna Krystalli](mailto:a.krystalli@sheffield.ac.uk) or [Ben Murton](mailto:bmurton@turing.ac.uk).
 
 Reports may be reviewed by other members of the core development team, unless there is a conflict of interest, and will be kept confidential.

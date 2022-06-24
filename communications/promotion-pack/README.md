@@ -4,26 +4,26 @@
 ## What is The Turing Way?
 - A book: [https://the-turing-way.netlify.com/](https://the-turing-way.netlify.com/)
 - An open source project: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
-- A community: *The Turing Way is an Open Source collaborative project that involves and supports its members of diverse skills and backgrounds to ensure that data science is accessible and useful for everyone. 
+- A community: *The Turing Way is an Open Source collaborative project that involves and supports its members of diverse skills and backgrounds to ensure that data science is accessible and useful for everyone.
 Its moonshot goal is to make reproducible research 'too easy not to do'.*
 
-## Who are the community members? 
-- Project lead: Dr. Kirstie Whitaker, head of the Tools, Practices, and Systems research programme, The Alan Turing Institute
-- Community Manager: Dr. Malvika Sharan, Research Associate, Whitaker Lab, The Alan Turing Institute
-- Core contributors: Our core members are a group of volunteers who engage with the project in a sustained manner, often taking a lead on executing important tasks related to the project. 
+## Who are the community members?
+- Project co-leads: Dr. Kirstie Whitaker, head of the Tools, Practices, and Systems research programme, The Alan Turing Institute and Dr. Malvika Sharan, Senior Researcher within the Tools, Practices, and Systems research programme, The Alan Turing Institute
+- Community Manager: Anne Lee Steele
+- Core contributors: Our core members are a group of volunteers who engage with the project in a sustained manner, often taking a lead on executing important tasks related to the project.
   - Our current core members are the following:
     - Sarah Gibson (GitHub actions and CI workflow, maintainer)
     - Martina G. Vilas (Jupyterbook infrastructure, maintainer)
     - Louise Bowler and Heidi Siebold (Consistent reviewers and maintainers)
     - Tony Yang and Camila Rangel-Smith (translation efforts)
-    - Mateusz Kuzak and Carlos Martinez (eScience Netherlands collaborators) 
+    - Mateusz Kuzak and Carlos Martinez (eScience Netherlands collaborators)
     - Anna Krystalli and Ben Murton (Code of Conduct contacts)
 - Contributors: 175 contributors (as of August 2020) who collaborate to develop The Turing Way materials online via GitHub.
 - Users: Hundreds of readers/users across the globe
 
 ## Important links:
 - GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
-- Newsletter: [https://tinyletter.com/TuringWay/](https://tinyletter.com/TuringWay/) 
+- Newsletter: [https://tinyletter.com/TuringWay/](https://tinyletter.com/TuringWay/)
 - Twitter: [https://twitter.com/turingway](https://twitter.com/turingway)
 - Slack channel: [theturingway.slack.com](theturingway.slack.com)
 - Join Slack channel: [https://tinyurl.com/jointuringwayslack](https://tinyurl.com/jointuringwayslack)
