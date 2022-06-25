@@ -12,6 +12,7 @@ on:
 jobs:
   compress-images:
     runs-on: ubuntu-latest
+    environment: compress-images
     permissions:
       contents: write
       pull-requests: write
@@ -22,4 +23,4 @@ jobs:
         uses: crush-pics/crush-pics-github-action@v1.0
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          api-key: ${{ secrets.CRUSH_API_KEY }}
+          api-key: ${{ secrets.CRUSHPICS_API_KEY }}
