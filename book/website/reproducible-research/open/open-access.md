@@ -20,7 +20,7 @@ It has been estimated around 28% of the scholarly literature is Open Access {cit
 
 An overview of Open Access and all the routes mentioned below are covered in these videos from [Welch Medical Library](https://www.youtube.com/watch?v=CFa2QeMgk9k) and the [Unpaywall team](http://go.sirsidynix.com/2020-04-29-Episode-1-Introduction-to-Open-Access.html).
 
-There is no 'correct' way to do Open Access and there are many different routes to sharing your research openly- we have shared 3 below that may help you.
+There is no 'correct' way to do Open Access and there are many different routes to sharing your research openly - we have shared 3 below that may help you.
 However, deciding on whether to share your research openly may depend on how prominent Open Access is in your field of research, how many resources you have to do this and whether there are restrictions or mandates from your funder or institution.
 
 (rr-open-access-preprints)=
@@ -41,6 +41,15 @@ Universities may have subscriptions to that journal, allowing you to access its 
 
 The Open Access movement led to the creation of Open Access journals, where the content is open for everyone, with no need to pay or be a member of a subscribing institution.
 The number of these journals is still increasing rapidly, with 17,000 listed in the Directory of Open Access Journals [DOAJ](http://www.doaj.org) (data fetched November 2021). 
+
+Watch this talk by Vicky Hellon on "Brief History of scientific publishing, and where do we go from here?", where she provides an overview of how different models of scientific publication look like, and how we can take an informed approach to Open Access.
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/Mycp7SzBWB0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+  <p><a href="https://www.youtube.com/embed/Mycp7SzBWB0">History of  Scientific Publishing - Where do we go from here??</a> from <a href="https://vimeo.com/orcidvideos">ORCID</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
+
+*Slides for this talk can be cited as Victoria Hellon. (2022, May 4). Scientific Publishing: a brief history and where do we go from here?. Zenodo. https://doi.org/10.5281/zenodo.6516871.*
 
 (rr-open-access-gold-publishing)=
 #### Gold Open Access publishing
@@ -64,7 +73,7 @@ Whilst publishers argue hybrid journals allow authors to publish openly in tradi
 (rr-open-access-self-archiving)=
 ### Self-Archiving
 
-You can also make your research open via self-archiving which is often referred to (along with preprints) as Green Open Access or gratis. 
+You can also make your research open via self-archiving which is often referred to (along with preprints) as **Green Open Access** or gratis. 
 The self-archiving [{term}`def<Self Archiving>`] movement aims to provide tools and assistance to scholars to deposit and disseminate their refereed journal articles in open institutional or subject-based repositories. 
 You may choose to self-archive your work to make it more discoverable and/or after you've published it in a subscription journal to ensure there is an open version of your paper. 
 
@@ -98,7 +107,8 @@ For instance, the accepted version could be made publicly available after public
 ---
 height: 500px
 name: routes-to-OA
-alt: An image of a train showing the routes to open access publishing. The green route is signalled as free and shows a preprint server at the start of the journey and self archive at the end. The gold and diamond routes are signalled as author pay and funder or institution pay and show the publish in an open access journal part of the journey.
+alt: An image of a train showing the routes to open access publishing. The green route is signalled as free and shows a preprint server at the start of the journey and self archive at the end. 
+The **gold and diamond** routes are signalled as author pay and funder or institution pay and show the publish in an open access journal part of the journey.
 ---
 Routes to publishing openly.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. Original version on Zenodo. [http://doi.org/10.5281/zenodo.5706310](http://doi.org/10.5281/zenodo.5706310)
@@ -140,5 +150,5 @@ The push for open is also prevalent across the globe- initiatives such as [SciEL
 
 Funders have also taken action by becoming publishers themselves (referred to as Diamond Open Access). Platforms such as [Open Research Europe](https://open-research-europe.ec.europa.eu/) and [Wellcome Open Research](https://wellcomeopenresearch.org/) are Open Access publishing platforms for researchers funded by that specific funder.
 Funders see this as a service for their grantees- allowing them a venue to publish rapidly and openly for free (funders cover the cost of the infrastructure and the article processing charges) and to have more flexibility than publishing in a journal.
-These platforms allow researchers to publish a range of article types beyond the 'traditional research article', such as data notes, software tool articles, methods, research notes and more.
+These platforms allow researchers to publish a range of article types beyond the 'traditional research article', such as data notes, software tool articles, methods, research notes and more. You can find out more in our {ref}`Chapter on Publishing Different Article Types<cm-dif-articles>`.
 These funder supported platforms also help shift the needle and inform new policies on researcher assessment, such as moving away from impact factors.

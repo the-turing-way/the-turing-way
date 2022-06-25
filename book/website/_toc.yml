@@ -106,6 +106,8 @@ parts:
         file: reproducible-research/rdm/rdm-metadata
       - title: Sharing and Archiving Data
         file: reproducible-research/rdm/rdm-sharing
+      - title: Data Article
+        file: reproducible-research/rdm/rdm-article
       - title: Research Data Management Toolkits
         file: reproducible-research/rdm/rdm-toolkits
       - title: Personal Impact Stories
@@ -123,8 +125,6 @@ parts:
         file: reproducible-research/renv/renv-package
       - title: YAML
         file: reproducible-research/renv/renv-yaml
-      - title: Binder
-        file: reproducible-research/renv/renv-binder
       - title: Virtual Machines
         file: reproducible-research/renv/renv-virtualmachine
       - title: Containers
@@ -303,6 +303,11 @@ parts:
         file: communication/comms-overview/comms-overview-accessibly
       - title: Resources and Recommendations
         file: communication/comms-overview/comms-overview-resources
+    - title: Open Scholarship
+      file: communication/open
+      sections:
+      - title: Open Education
+        file: communication/open/education
     - title: Blogs for Research Communication
       file: communication/blogs
       sections:
@@ -351,6 +356,19 @@ parts:
         file: communication/citable/citable-orcid
       - title: Checklists and Resources
         file: communication/citable/citable-resources
+    - title: Publishing Different Article Types
+      file: communication/dif-articles
+      sections: 
+      - title: Data Papers
+        file: communication/dif-articles/data
+      - title: Methods Papers
+        file: communication/dif-articles/methods
+      - title: Micropublishing
+        file: communication/dif-articles/micro
+      - title: Registered Reports
+        file: communication/dif-articles/reg
+      - title: Software Papers
+        file: communication/dif-articles/software   
     - title: Communications in Open Source Projects
       file: communication/os-comms
       sections:
@@ -368,7 +386,7 @@ parts:
       - title: Discipline Specific Authorship Traditions
         file: communication/aa/aa-traditions
       - title: Large and Equitable Authorships
-        file: communication/aa/aa-equitable  
+        file: communication/aa/aa-equitable
       - title: Tips on How to Get Authorship Right
         file: communication/aa/aa-tips
       - title: Personal Stories - Authorship on Interdisciplinary Projects
@@ -377,6 +395,20 @@ parts:
         file: communication/aa/aa-stories-community
       - title: Resources
         file: communication/aa/aa-resources
+    - title: Peer Review
+      file: communication/peer-review
+      sections:
+      - title: Peer Review
+        file: communication/peer-review/peer-review-overview
+      - title: Guidance on Peer Review for a Journal
+        file: communication/peer-review/peer-review-guidance
+      - title: Resources
+        file: communication/peer-review/peer-review-resources
+    - title: Binder
+      file: communication/binder
+      sections:
+      - title: Zero-to-Binder
+        file: communication/binder/zero-to-binder
 
   # ===== Guide for Collaboration ========================================
 
@@ -415,6 +447,8 @@ parts:
         file: collaboration/new-community/new-community-techissues
       - title: Valuing Diversity and Differences
         file: collaboration/new-community/new-community-differences
+      - title: Teamwork
+        file: collaboration/new-community/new-community-teamwork
     - title: Leadership in Data Science
       file: collaboration/leadership
       sections:
@@ -431,6 +465,8 @@ parts:
         file: collaboration/research-infrastructure-roles/data-steward/data-steward-casestudy
       - title: Research Software Engineers Overview
         file: collaboration/research-infrastructure-roles/research-software-engineer
+      - title: Research Application Manager Overview
+        file: collaboration/research-infrastructure-roles/ram       
     - title: Remote Collaboration
       file: collaboration/remote-collab
       sections:
@@ -501,7 +537,7 @@ parts:
       file: ethical-research/internal-policy
     - title: Self-Reflection
       file: ethical-research/self-reflection
-      sections: 
+      sections:
       - title: Identity and Positionality
         file: ethical-research/self-reflection/sr-positionality
       - title: Power and Privilege
@@ -524,7 +560,7 @@ parts:
         file: community-handbook/coc/coc-reporting
       - title: Enforcement Manual
         file: community-handbook/coc/coc-enforcement
-      - title: Acnowledgements
+      - title: Acknowledgements
         file: community-handbook/coc/coc-acknowledgement
     - title: Style Guide
       file: community-handbook/style
@@ -597,6 +633,8 @@ parts:
         file: community-handbook/coworking/coworking-weekly
       - title: Organising coworking calls
         file: community-handbook/coworking/coworking-organisation
+    - title: Fireside Chat Series
+      file: community-handbook/fireside-chat
     - title: Template Collection
       file: community-handbook/templates
       sections:
@@ -616,6 +654,8 @@ parts:
         file: community-handbook/templates/template-coworking-weekly
       - title: Template for Drafting Newsletters
         file: community-handbook/templates/template-newsletter-draft
+      - title: Template for Fireside Chat Shared Notes
+        file: community-handbook/templates/template-fireside-chat
 
   # ===== Afterword ========================================
 

@@ -1,7 +1,6 @@
 (glossary)=
 # Glossary
 
-
 ## A
 
 ```{glossary}
@@ -14,7 +13,6 @@ Acknowledgements
 
 Add
   Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit.
-
 
 Authors
   Authors in this context are the contributors to _The Turing Way_ project who have made a substantial contribution to the project such as writing a subchapter, facilitating community interactions, maintaining project’s infrastructure and supporting the participation of others through mentored-contributions. All authors are named co-authors on the book as a whole.
@@ -244,7 +242,7 @@ Integration Testing
   A level of software testing where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units.
   
 Intersectionality
-  People's own unique experiences of social status, discrimination, oppression and anything that can marginalise them based on the hierarchy or combination or identities and backgrounds such as gender, race, class, sexual orientation, physical ability and so on. This term was coined by Kimberley Crenshaw. [see the post by Womankind](https://www.womankind.org.uk/intersectionality-101-what-is-it-and-why-is-it-important/)).
+  The way in which a person's identities (gender, race, class, sexual orientation, physical ability and others) can overlap and intersect to form a unique experience of social status, discrimination or oppression. This term was coined by Professor Kimberlé Crenshaw.
 
 Issues
   Bug tracking system for GitHub. Collaborators can use issues to report bugs, request features, or set milestones for projects. Issues are tracked, reported, and closed by collaborators during the development process. They’re a great way of communicating with your team and reporting progress.
@@ -395,6 +393,9 @@ Persistent Identifier
 
 Pattern
   A pattern rule is a rule that contains exactly one % character in the target, which can be used to match a part of a filename.
+
+Peer Review
+  A process of evaluating one's work by others working in the same field.
 
 Persona
   A persona is the detail of an imaginary user or member, based on real-world observations and understandings of existing members or potential future members.

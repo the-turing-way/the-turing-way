@@ -5,24 +5,30 @@ It further outlines expectations and responsibilities with regard to working on 
 
 ## Current Project Members
 
-| Name | Role | Full-Time Equivalent (or %) on the project | Time period allocated to the project | Previous roles |
+| Name | Affiliation | Full-Time Equivalent on the Project OR Community Roles | Time period allocated to the project | Previous roles |
 |---|---|---|---|---|
-| Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | PI | - | Oct 2018 - Present | - |
-| Malvika Sharan <br>([@malvikasharan](https://github.com/malvikasharan)) | Co-lead investigator | - | Jul 2021 - Present | Previously: Community manager, Jan 2020 - Jun 2021 (100%) |
-| Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Senior Community Manager | 5% | Jan 2021 - Present | - |
-| Arron Lacey <br>([@arronlacey](https://github.com/arronlacey)) | Senior Community Manager | 10% | Nov 2021 - Present | - |
-| Achintya Rao <br>([@RaoOfPhysics](https://github.com/RaoOfPhysics)) | Community Manager | 10% | Nov 2021 - Present | - |
-| Vicky Hellon <br>([@vhellon](https://github.com/vhellon)) | Community Manager | 10% | Nov 2021 - Present | - |
-| Aida Mehonic <br>([@AidaMehonic](https://github.com/AidaMehonic)) | Research Application Manager | 10% | 2021 - Present | - |
-| Alden Conner <br>([@aldenc](https://github.com/aldenc)) | Research Application Manager | 10% | 2021 - Present | - |
-| Arielle Bennett <br>([@Arielle-Bennett](https://github.com/Arielle-Bennett)) | Tools, Practices and Systems - Project Manager | 10% | 2021 - Present | - |
-| Jennifer Ding <br>([@dingaaling](https://github.com/dingaaling)) | Research Application Manager | 10% | 2021 - Present | - |
-| Carlos Martinez-Ortiz <br>([@c-martinez](https://github.com/c-martinez)) | Netherlands eScience Center - RSE community manager | in-kind contribution | Feb 2020 - Present | - |
-| Esther Plomp <br>([@EstherPlomp](https://github.com/EstherPlomp)) | Faculty of Applied Sciences at Delft University of Technology - Data Steward | in-kind contribution | Feb 2020 - Present | - |
-| Sarah Gibson <br>([@sgibson91](https://github.com/sgibson91)) | 2i2c Open Source Infrastructure Engineer/JupyterHub Community Development | in-kind contribution | - | Prevously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
-| May Yong <br>([@myyong](https://github.com/myyong)) | Research Software Engineer | 40% | Oct 2021 - Dec 2021 | - |
-| Lydia France <br>([@LydiaFrance](https://github.com/LydiaFrance)) | Research Software Engineer | 50% | Oct 2021 - Dec 2021 | - |
-| Iain Stanson <br>([@Iain-S](https://github.com/Iain-S)) | Research Software Engineer | 30% | Nov 2021 - Dec 2021 | - |
+| Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | PI, The Alan Turing Institute | - | Oct 2018 - Present | - |
+| Malvika Sharan <br>([@malvikasharan](https://github.com/malvikasharan)) | Co-lead investigator, The Alan Turing Institute | - | Jul 2021 - Present | Previously: Community manager, Jan 2020 - Jun 2021 (100%) |
+| Anne Lee Steele <br>([@aleesteele](https://github.com/aleesteele)) | The Turing Way Community Manager, The Alan Turing Institute | 100% | March 2022 - Present | - |
+| Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Senior Community Manager, The Alan Turing Institute | 10% | Jan 2021 - Present | - |
+| Arron Lacey <br>([@arronlacey](https://github.com/arronlacey)) | Senior Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Present | - |
+| Achintya Rao <br>([@RaoOfPhysics](https://github.com/RaoOfPhysics)) | Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Present | - |
+| Vicky Hellon <br>([@vhellon](https://github.com/vhellon)) | Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Present | - |
+| Aida Mehonic <br>([@AidaMehonic](https://github.com/AidaMehonic)) | Research Application Manager, The Alan Turing Institute | 10% | 2021 - Present | - |
+| Alden Conner <br>([@aldenc](https://github.com/aldenc)) | Research Application Manager, The Alan Turing Institute| 10% | 2021 - Present | - |
+| Arielle Bennett <br>([@Arielle-Bennett](https://github.com/Arielle-Bennett)) | Project Manager, The Alan Turing Institute | 10% | 2021 - Present | - |
+| Jennifer Ding <br>([@dingaaling](https://github.com/dingaaling)) | Research Application Manager, The Alan Turing Institute | 10% | 2021 - Present | - |
+| Sophia Batchelor <br>([@BrainonSilicon](https://github.com/BrainonSilicon)) | Community Manager, The Alan Turing Institute | 10% | 2022 - Present | - |
+| Hari Sood <br>([@harisood](https://github.com/harisood)) | Research Application Manager, The Alan Turing Institute | 10% | 2022 - Present | - |
+| Carlos Martinez-Ortiz <br>([@c-martinez](https://github.com/c-martinez)) | RSE community manager, Netherlands eScience Center | in-kind contribution | Feb 2020 - Present | - |
+| Esther Plomp <br>([@EstherPlomp](https://github.com/EstherPlomp)) | Data Steward, Faculty of Applied Sciences at Delft University of Technology | in-kind contribution | Feb 2020 - Present | - |
+| Sarah Gibson <br>([@sgibson91](https://github.com/sgibson91)) | Open Source Infrastructure Engineer, 2i2c & JupyterHub Community Development | in-kind contribution | - | Prevously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
+| Callum Mole <br>([callummole](https://github.com/callummole)) | Research Data Scientist, The Alan Turing Institute | Turing Binder Federation Membership - Project Contact | 2021 - Present | - |
+| Luke Hare <br>([lukehare](https://github.com/lukehare)) | Research Data Scientist, The Alan Turing Institute | Turing Binder Administrator | 2021 - Present | - |
+| Camila Rangel-Smith <br>([crangelsmith](https://github.com/crangelsmith)) | Senior Research Data Scientist, The Alan Turing Institute | The Turing Way Translation and Localisation Co-Lead | 2020 - Present | - |
+|  Batool Almarzouq <br>([BatoolMM](https://github.com/BatoolMM)) | Postdoctoral Researcher, KAIMRC and Honorary Research Fellow, The University of Liverpool  | The Turing Way Translation and Localisation Co-Lead | 2020 - Present | - |
+| Alejandro Coca Castro <br>([acocac](https://github.com/acocac)) | Postdoctoral Research Associate, The Alan Turing Institute | The Turing Way Translation and Localisation Co-Lead | 2021 - Present | - |
+| Andrea Sánchez-Tapia <br>([AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)) | Independent researcher | The Turing Way Translation and Localisation Co-Lead | 2021 - Present | - |
 
 ## Previous Project Members
 
@@ -31,6 +37,9 @@ You can request contact information through the project members above, or tag th
 
 | Name | Role | Full-Time Equivalent (or %) on the project | Time period allocated to the project |
 |---|---|---|---|
+| May Yong <br>([@myyong](https://github.com/myyong)) | Senior Research Software Engineer | 40% | Oct 2021 - Jan 2022 |
+| Lydia France <br>([@LydiaFrance](https://github.com/LydiaFrance)) | Research Data Scientist | 50% | Oct 2021 - Jan 2022 |
+| Iain Stanson <br>([@Iain-S](https://github.com/Iain-S)) | Research Software Engineer | 30% | Nov 2021 - Jan 2022 |
 | Paul Owoicho <br>([@paulowoicho](https://github.com/paulowoicho)) | Google Season of Docs - Technical Writer | 100% | Sep 2020 - Dec 2020 |
 | Rachael Ainsworth <br>([@rainsworth](https://github.com/rainsworth)) | Research Associate | 100% | Apr 2019 - May 2019 |
 | Rosie Higman <br>([@rosiehigman](https://github.com/rosiehigman)) | Research Data Librarian | 20% | Jan 2019 - Mar 2019 |
@@ -57,14 +66,13 @@ All The Turing Way project members commit to
 You can reach out to all members by tagging them on GitHub issues or Pull Requests or on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw).
 
 You can reach the lead investigators of the project through their preferred way of communication:
-- You can mention Malvika Sharan (@malvikasharan) and Kirstie Whitaker (@KirstieJane) on a Github issue or pull request, or tag in Slack.
-
+You can mention Malvika Sharan (@malvikasharan) and Kirstie Whitaker (@KirstieJane) on a Github issue or pull request, or tag in Slack.
 In addition, you can reach _The Turing Way_ by email (managed by the community manager): theturingway@gmail.com. 
 You can also contact Malvika by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 
-You can join the project members and the wider Turing Way community at our twice-monthly [Collaboration Cafes](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html), which are great places to discuss ideas for new contributions and to get started with making them. :rocket:
+Please join the project members and the wider Turing Way community at our twice-monthly [Collaboration Cafes](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html), which are great places to discuss ideas for new contributions and to get started with making them. :rocket:
 
-You can watch talks, presentations and recordings from different events on our [YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).
+Talks, presentations and recordings from different events are posted on our [YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA) regularly.
 
 ## Project management
 

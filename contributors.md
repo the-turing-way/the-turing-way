@@ -68,6 +68,21 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 * Personal Quote:
 > _The Turing Way_ is an ideal place to gather collective knowledge from diverse experiences in data science and open research, and to learn by doing.
 
+### Aida Mehonic
+
+* Roles: 
+  * Project Core Member, Senior Researcher - Research Applications
+  * Book Dash Attendee 2021
+* GitHub id: [AidaMehonic](http://github.com/AidaMehonic)
+* Short bio:
+> I am a Senior Researcher in the Tools, Practices and Systems Programme and I am leading on Research Applications at The Alan Turing Institute. My focus is making sure that research outputs are not just openly available but that they meet stakeholder needs. I am leading a growing team of Research Application Managers (RAMs) whose goal is to increase the reach and maximise the positive impact of research outputs. The role of a RAM has been inspired by that of a product manager in a tech firm, but adapted for research purposes.
+
+* Personal highlights:
+> I get a lot of joy when I think about how far I have personally come in learning about and adopting open research practices over the past 1.5 years. The Turing Way community has been central to my education and general empoweremed in this area.  
+
+* More information:
+> I'm passionate about making research outputs relevant for a wide range of communities. 
+
 ### Alejandro Coca
 
 * Role: 
