@@ -13,9 +13,10 @@ jobs:
   compress-images:
     runs-on: ubuntu-latest
     environment: compress-images
+    # Set permissions on GITHUB_TOKEN
     permissions:
-      contents: write
-      pull-requests: write
+      contents: write  # Make commits
+      pull-requests: write  # Post a comment on a PR
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
