@@ -1,8 +1,8 @@
 name: Automatically compress image files
 
-# Only trigger when images have changed
 on:
-  pull_request:
+  pull_request_target:
+    # Only trigger when images have changed
     paths:
       - '**.jpg'
       - '**.jpeg'
