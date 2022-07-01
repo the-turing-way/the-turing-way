@@ -3302,6 +3302,16 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "mariadelmarq",
+      "name": "Maria del Mar Quiroga",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12743476?v=4",
+      "profile": "https://github.com/mariadelmarq",
+      "contributions": [
+        "content",
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
