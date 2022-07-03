@@ -54,7 +54,8 @@ Arnstein's Ladder of Citizen Participation, illustration credit - [@clinical.cre
 ```
 
 No open source project is an island, and the goal of making projects open source is to explicitly invite the use and collaboration on a project which leads to a community of contributors and collaborators making the world a better place, one commit at a time.
-It's important that the governance model you select provides robust mechanisms for the level of community participation you are hoping to achieve with your project, with self-reflection being a useful starting point to guide your decision making. 
+It's important that the governance model you select provides robust mechanisms for the level of community participation you are hoping to achieve with your project.
+Self-reflection is a useful starting point to guide your decision making. 
 
 (er-ethics-open-source-governance-continuous-process)=
 ## Ethical Governance is a Continuous Process
