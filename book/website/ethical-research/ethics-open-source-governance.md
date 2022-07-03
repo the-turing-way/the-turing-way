@@ -53,7 +53,8 @@ alt: Colourful graphic of Arnstein's Ladder of Participation (1969) drawn by Jul
 Arnstein's Ladder of Citizen Participation, illustration credit - [@clinical.creative.psychologist (Juliet Young)](https://twitter.com/juliet_young1/status/1384604477697761281)
 ```
 
-No open source project is an island, and the goal of making projects open source is to explicitly invite the use and collaboration on a project which leads to a community of contributors and collaborators making the world a better place, one commit at a time.
+No open source project is an island.
+The goal of making projects open source is to explicitly invite the kind of use and collaboration which leads to a community of contributors and collaborators; making the world a better place, one commit at a time.
 It's important that the governance model you select provides robust mechanisms for the level of community participation you are hoping to achieve with your project.
 Self-reflection is a useful starting point to guide your decision making. 
 
