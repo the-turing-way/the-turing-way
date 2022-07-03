@@ -67,7 +67,8 @@ This may also mean that you have to change the way that the project is run, to a
 In this scenario, try and reflect the ways in which the governance of your project should evolve to reflect the ethics you commit to.
 For instance, is your governance structure built to allow the whole community to participate and influence a project that will in turn influence themselves and their work?
 
-It may feel like a giant leap to go from, say, a free-form do-ocracy to something more structured, or to give up your position of benevolent dictator, or to introduce different voting rules for the steering committee, but if you want your project to reflect your ethics, you will need to allow your ethics to impact the project, and iterate on this process. 
+It may feel like a giant leap to go from, say, a free-form do-ocracy to something more structured, or to give up your position of benevolent dictator, or to introduce different voting rules for the steering committee.
+However, if you want your project to reflect your ethics, you will need to allow your ethics to impact the project and iterate on this process. 
 It is a bit like putting debugging checkpoints in the way you run your project: run, but halt to reflect if you encounter a state that is unethical, based on your definition of ethical. 
 
 In short: `if (ethical == true) { // Do stuff } else { // FIXME }`
