@@ -93,7 +93,7 @@ How do we ensure that the dictator stays benevolent?
 What if they’re missing viewpoints that were obvious if only the governance committee was more than one person?
 
 Relying on technology to be your governance is equally risky.
-Technology can be an incredible tool, but so long as it’s the only tool you have making governance decisions, it’s likely to be a potential problem.
+Technology can be an incredible tool, but so long as it’s the only tool you have put in place for making governance decisions, it’s likely to be a potential problem.
 This is why it is important to start the process of governance selections with self-reflection, so that you are aware of all the requiremeents in the projects and prepared to implement ethical measures for them.
 
 (er-ethics-open-source-governance-summary)=
