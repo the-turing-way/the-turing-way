@@ -36,9 +36,6 @@ Its moonshot goal is to make reproducible research 'too easy not to do'.*
 - Contributors: 175 contributors (as of August 2020) who collaborate to develop The Turing Way materials online via GitHub.
 - Users: Hundreds of readers/users across the globe
 <<<<<<< Updated upstream
-=======
->>>>>>> 0af3a92af6474813e9a001e0878880f28c8739b1
->>>>>>> Stashed changes
 
 ## Important links:
 - GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
