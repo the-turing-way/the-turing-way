@@ -36,7 +36,7 @@ We also host bimonthly [online Collaboration Cafés](https://github.com/alan-tur
 This would be the right place to get opinions from other community members and request their feedback and review on your work.
 
 For specific questions or concerns, you can contact our community manager **Anne Lee Steele** by email at [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk) .
-Alternatively, you can contact the co-lead investigators **Malvika Sharan** by email at [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) or **Kirstie Whitaker** by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
+Alternatively, you can contact the co-lead investigators **Malvika Sharan** by email at [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) or **Kirstie Whitaker** (please note that Kirstie is on maternity leave for the rest of 2022).
 
 To stay updated with our community events, subscribe to [_The Turing Way_ calendar](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ).
 To receive monthly newsletters, [join our mailing list](https://tinyletter.com/TuringWay)
