@@ -7,9 +7,6 @@
 - A community: *The Turing Way is an Open Source collaborative project that involves and supports its members of diverse skills and backgrounds to ensure that data science is accessible and useful for everyone.
 Its moonshot goal is to make reproducible research 'too easy not to do'.*
 
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
 ## Who are the community members? 
 - Project co-leads: 
   - Dr. Kirstie Whitaker, Director of the [Tools, Practices, and Systems research programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems), The Alan Turing Institute
