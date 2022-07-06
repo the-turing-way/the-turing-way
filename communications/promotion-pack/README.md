@@ -9,8 +9,8 @@ Its moonshot goal is to make reproducible research 'too easy not to do'.*
 
 ## Who are the community members? 
 - Project co-leads: 
-  - Dr. Kirstie Whitaker, Director of the [Tools, Practices, and Systems research programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems), The Alan Turing Institute
-  - Dr. Malvika Sharan, Senior Researcher - Open Research, Practices, and Systems research programme, The Alan Turing Institute
+  - Dr. Kirstie Whitaker, Director of the [Tools, Practices, and Systems (TPS) Research Programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems), The Alan Turing Institute
+  - Dr. Malvika Sharan, Senior Researcher - Open Research, TPS, The Alan Turing Institute
 - Community Manager: Anne Lee-Steele, The Alan Turing Institute
 - Members of [*The Turing Way* core team](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) are:
   - the members of the [Community Management](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research), Research Application Management and Project Management teams of the Tools, Practices and Systems research programme. 
