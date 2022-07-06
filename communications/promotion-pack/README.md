@@ -17,22 +17,6 @@ Its moonshot goal is to make reproducible research 'too easy not to do'.*
   - in-kind contributors and community volunteers who engage with the project in a sustained manner, often leading on important tasks related to the project. 
 - All contributors of *The Turing Way* collaborate on GitHub to develop The Turing Way materials online and participate in the project in different capacities. You can learn about them in our [Record of Contributions](https://the-turing-way.netlify.app/afterword/contributors-record.html).
 - Users: Hundreds of readers/users across the globe (average 3000 unique visitors monthly - as noted in April 2021).
-=======
->>>>>>> Stashed changes
-## Who are the community members?
-- Project co-leads: Dr. Kirstie Whitaker, head of the Tools, Practices, and Systems research programme, The Alan Turing Institute and Dr. Malvika Sharan, Senior Researcher within the Tools, Practices, and Systems research programme, The Alan Turing Institute
-- Community Manager: Anne Lee Steele
-- Core contributors: Our core members are a group of volunteers who engage with the project in a sustained manner, often taking a lead on executing important tasks related to the project.
-  - Our current core members are the following:
-    - Sarah Gibson (GitHub actions and CI workflow, maintainer)
-    - Martina G. Vilas (Jupyterbook infrastructure, maintainer)
-    - Louise Bowler and Heidi Siebold (Consistent reviewers and maintainers)
-    - Tony Yang and Camila Rangel-Smith (translation efforts)
-    - Mateusz Kuzak and Carlos Martinez (eScience Netherlands collaborators)
-    - Anna Krystalli and Ben Murton (Code of Conduct contacts)
-- Contributors: 175 contributors (as of August 2020) who collaborate to develop The Turing Way materials online via GitHub.
-- Users: Hundreds of readers/users across the globe
-<<<<<<< Updated upstream
 
 ## Important links:
 - GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
