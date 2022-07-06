@@ -61,6 +61,6 @@ The co-lead investigators for this project are [Dr Kirstie Whitaker](https://whi
 
 You can contact them on the community Gitter Channel [https://gitter.im/alan-turing-institute/the-turing-way](https://gitter.im/alan-turing-institute/the-turing-way).
 You can write an email to Anne Lee Steele for any question or query by using the community email [theturingway@gmail.com](mailto:theturingway@gmail.com) or contact her directly by emailing [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk).
-In case you want to directly reach Malvika or Kirstie, email them at [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
+In case you want to directly reach Malvika or Kirstie, email them at [theturingway@gmail.com](mailto:theturingway@gmail.com).
 
 For contact details for Code of Conduct related query and reporting, please see the {ref}`Code of Conduct file <ch-coc>` in this Community Handbook.
