@@ -27,7 +27,7 @@ It can be even more challenging when considering if a particular governance mode
 Therefore, we have designed this chapter to offer some starting points to consider. 
 
 *This chapter is adapted a speedblog from the Collaborations Workshop 2022, authored by  Yo Yehudi,
-Arielle Bennett, Gemma Turon, Declan Bays, Sarah Gibson, Stephan Druskat, Yadira Sanchez, Sophia Batchelor, which is published under a CC-BY license. Read the original article on Software Sustainability Institute's Blog page* 
+Arielle Bennett, Gemma Turon, Declan Bays, Sarah Gibson, Stephan Druskat, Yadira Sanchez, Sophia Batchelor, which is published under a CC-BY license. Read the original article on Software Sustainability Institute's Blog page: [Ethical Considerations for Your Open Source Governance](https://software.ac.uk/blog/2022-07-07-ethical-considerations-your-open-source-governance)* 
 
 (er-ethics-open-source-governance-selfreflection)=
 ## Ethical Governance Starts with Self-Reflection 
