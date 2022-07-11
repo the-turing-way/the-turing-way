@@ -495,7 +495,8 @@ I would like to be a part of it.
 
 ### Iman Al Hasani
 
-* Role: Book Dash 2022 participant
+* Role: 
+  * Book Dash 2022 participant
 * GitHub id: Imanalhasani
 * ORCID: 0000-0001-9998-772X
 
