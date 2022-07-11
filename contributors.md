@@ -129,10 +129,12 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
   * Book Dash Participant 2021
 * GitHub id: [AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)
 * ORCID: [0000-0002-3521-4338](https://orcid.org/0000-0002-3521-4338)
-* Short bio: Andrea (she/her) is a Colombian ecologist with a a background in Biodiversity Informatics and Plant Ecology. She was based for more than a decade in Rio de Janeiro, where she earned a MSc in Ecology and a PhD in Botany, working in vegetation ecology and nurturing a growing interest in learning and teaching about Open Science, Reproducibility in academic and non-academic communities. She has been saved countless times by R communities of practice and is a member of R-Ladies, a Certified Carpentries Instructor, and part of Forwards, the R Foundation taskforce for diversity, equity, and inclusion.
->
+
+* Short bio: 
+> Andrea (she/her) is a Colombian ecologist with a a background in Biodiversity Informatics and Plant Ecology. She was based for more than a decade in Rio de Janeiro, where she earned a MSc in Ecology and a PhD in Botany, working in vegetation ecology and nurturing a growing interest in learning and teaching about Open Science, Reproducibility in academic and non-academic communities. She has been saved countless times by R communities of practice and is a member of R-Ladies, a Certified Carpentries Instructor, and part of Forwards, the R Foundation taskforce for diversity, equity, and inclusion.
+
 * Personal highlights:
-I joined forces with Batool and Alejandro to help rethink the workflows for deploying translated versions of _The Turing Way_ and working with them was amazing! The task is a little bit daunting, but we are on the right way. I was thinking mostly about what to do with the Spanish translation branch (Spoiler: don't rebase!) and checking the workflow and requirements when new language teams start to translate a new language in Crowdin, using Portuguese as an example. I loved the illustration session, the two thematic conversations I could join, the abundant note-taking.
+> I joined forces with Batool and Alejandro to help rethink the workflows for deploying translated versions of _The Turing Way_ and working with them was amazing! The task is a little bit daunting, but we are on the right way. I was thinking mostly about what to do with the Spanish translation branch (Spoiler: don't rebase!) and checking the workflow and requirements when new language teams start to translate a new language in Crowdin, using Portuguese as an example. I loved the illustration session, the two thematic conversations I could join, the abundant note-taking.
 
 ### Andreea Avramescu
 
@@ -564,8 +566,11 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 - GitHub id: dingaaling
 - ORCID: [0000-0002-8266-4358](https://www.orcid.org/0000-0002-8266-4358)
 
-- Short bio: Jennifer is a Research Application Manager in the AI for Science and Government programme at the Alan Turing Institute, where she focuses on Digital Twins projects in Data-Centric Engineering and Urban Analytics. She is also a data scientist, with experience conducting R&D and creating applied AI products at startups such as Thresher and Numina, which acquired her first startup ParkIT. Her research interests lie in AI ethics and privacy by design, and she has a personal interest in small data projects and data visualisation.
-- Personal highlights: working collaboratively with Book Dashers and artists from different countries! Contributing to a translation update was particularly cool, as this will make the Turing Way available to even more people around the world.
+- Short bio: 
+> Jennifer is a Research Application Manager in the AI for Science and Government programme at the Alan Turing Institute, where she focuses on Digital Twins projects in Data-Centric Engineering and Urban Analytics. She is also a data scientist, with experience conducting R&D and creating applied AI products at startups such as Thresher and Numina, which acquired her first startup ParkIT. Her research interests lie in AI ethics and privacy by design, and she has a personal interest in small data projects and data visualisation.
+
+- Personal highlights: 
+> Working collaboratively with Book Dashers and artists from different countries! Contributing to a translation update was particularly cool, as this will make the Turing Way available to even more people around the world.
 
 ### Jessica Scheick
 
@@ -588,13 +593,17 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 * Twitter id: likeajumprope
 * ORCID: 0000-0003-4891-6256
 
-* Short bio: Johanna is a PhD candidate in computational neuroscience at the University of Melbourne, Australia and also and undergrad student in computer science at the University of Hagen, Germany. Johanna’s PhD projects focus on the identification of neuroimaging biomarkers for depression in large structural neuroimaging data using a machine learning  brain charting method. She also works on developing additional methods to make those analyses more reproducible by compensating for  biases caused by hard- and software differences in neuroimaging scanners. Johanna is also secretary of the open science group of the [Organisation for Human Brain Mapping](https://ossig.netlify.app/#OSSIG_team) and she has helped organising [brain-related hackathons in Australia and Asia](https://brainhack-aus.github.io/global2021/) 
+* Short bio: 
+> Johanna is a PhD candidate in computational neuroscience at the University of Melbourne, Australia and also and undergrad student in computer science at the University of Hagen, Germany. Johanna’s PhD projects focus on the identification of neuroimaging biomarkers for depression in large structural neuroimaging data using a machine learning  brain charting method. She also works on developing additional methods to make those analyses more reproducible by compensating for  biases caused by hard- and software differences in neuroimaging scanners. Johanna is also secretary of the open science group of the [Organisation for Human Brain Mapping](https://ossig.netlify.app/#OSSIG_team) and she has helped organising [brain-related hackathons in Australia and Asia](https://brainhack-aus.github.io/global2021/) 
+
+* Personal highlights: 
+> working collaboratively via zoom, the discovery of the cocoo clock (already introduced to my lab), meeting people from all over the worlds and learning about their lives and what brought them to the Turing Way.
 >
-* Personal highlights: working collaboratively via zoom, the discovery of the cocoo clock (already introduced to my lab), meeting people from all over the worlds and learning about their lives and what brought them to the Turing Way.
->
-* More information: loves cats & coffee
->
-* Quotes: It was totally worth staying up late!
+* More information: 
+> Loves cats & coffee
+
+* Quotes: 
+> It was totally worth staying up late!
 
 ### José María Fernández
 
