@@ -1,7 +1,7 @@
 # Requirements for the demo notebooks
 # Useful for MyBinder configuration
 pandas==1.0.5
-numpy==1.21.0
+numpy==1.22.0
 matplotlib==3.2.2
 datascience
 folium
