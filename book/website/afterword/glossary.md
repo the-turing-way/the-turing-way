@@ -1,6 +1,12 @@
 (glossary)=
 # Glossary
 
+In this section, we provide simple definitions for the terms and concepts that appear in The Turing Way guides across different chapters. 
+This glossary is by no means complete!
+
+We invite you to add new entries for any term that you would like to simplify for our readers and the research community more broadly. 
+We also recommend checking out community-maintained resources: [The Carpentries Glosario](https://glosario.carpentries.org/) -- a multilingual glossary for computing and data science terms and [FORRT - Framework for Open and Reproducible Research Training Glossary](https://forrt.org/glossary/) -- terms relating to open scholarship.
+
 ## A
 
 ```{glossary}
@@ -296,6 +302,9 @@ Last author
 ## M
 
 ```{glossary}
+
+Machine Learning
+  Machine learning is the concept that a computer program can learn and adapt to new data without human intervention. Machine learning is a field of artificial intelligence (AI) that keeps a computer’s built-in algorithms current regardless of changes in the worldwide economy. Retrieved from [Investopedia](https://www.investopedia.com/terms/m/machine-learning.asp)
 
 Machine Readable
   Machine readable refers to documents, data or other digital outputs whose content can be readily processed by computers. Such documents are distinguished from machine readable data by virtue of having sufficient structure to provide the necessary context to support the business processes for which they are created. Machine readable data can be defined as data in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost.
