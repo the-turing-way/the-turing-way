@@ -546,6 +546,8 @@ parts:
         file: ethical-research/self-reflection/sr-prompts
       - title: Resources
         file: ethical-research/self-reflection/sr-resources
+    - title: Ethical Considerations for Open Source Governance Models
+      file: ethical-research/ethics-open-source-governance
 
   # ===== Community Handbook ========================================
 
