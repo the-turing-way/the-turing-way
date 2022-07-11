@@ -26,7 +26,7 @@ The good news is that helping you learn those skills is exactly what _The Turing
 (rr-overview-barriers-incentives)=
 ## Limited incentives to give evidence against yourself
 
-The [Fifth Amendment](https://en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution) to the United States Constitution includes a clause that no one "shall be compelled in any criminal case to be a witness against [them]sel[ves]".
+The [Fifth Amendment](https://en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution) to the United States Constitution includes a clause that no one "shall be compelled in any criminal case to be a witness against themselves".
 (Edited to gender-neutral language.)
 To "plead the fifth" means that someone chooses not to give evidence that there might have been something wrong in their past behaviour.
 They have the right to remain silent.
