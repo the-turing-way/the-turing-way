@@ -35,7 +35,7 @@ It is good practice to **specify the files to be committed**, that is, adding fi
 This prevents you from unintentionally bundling different changes together.
 For example, if you have made a change to file A while primarily working on file B, you may have forgotten this when you go to commit.
 With `git add .`, file A would be brought along for the ride.
-If there are several *unrelated* changes that should not be added together in a *single* file, `git add -p your_file_name` will let you interactively chose which changes to add.
+If there are several *unrelated* changes that should not be added together in a *single* file, `git add -p your_file_name` will let you interactively choose which changes to add.
 That said, **you do not necessarily need to do per-file commits** when working on multiple files, but for one single problem.
 For example, if we add a figure to this chapter here, choosing one to catch the attention of someone skimming through:
 
