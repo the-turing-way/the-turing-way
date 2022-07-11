@@ -1,10 +1,10 @@
-(cl-infrastructure-datastewards)=
+(cl-infrastructure-data-stewards)=
 # Data Stewards: Overview
 
 Data Stewards are a growing role within scientific communities.
 'Data Steward' is an umbrella term for numerous support roles that involve the creation, management and usage of research data (see also the {ref}`rr-rdm` chapter). 
 
-(cl-infrastructure-datastewards-tasks)=
+(cl-infrastructure-data-stewards-tasks)=
 ## What do Data Stewards do?
 The core responsibilities of a Data Steward can vary, ranging from policy advisor/consultant, to hands-on operational tasks, to technical or ICT-related tasks. 
 A Data Steward facilitates the quality, integrity and access to (meta)data in a manner that is consistent with the appropriate laws and institutional policies, ensuring professional treatment of data throughout all stages of the research project. 
@@ -30,7 +30,7 @@ The day-to-day tasks of a Data Steward could include:
 * And a lot more! 
 
 
-(cl-infrastructure-datastewards-skills)=
+(cl-infrastructure-data-stewards-skills)=
 ## What qualifications or skills do you need to be a Data Steward? 
 There is currently no formal track to take to become a Data Steward. Most Data Stewards have a masters or doctoral education, or a background in research and education. 
 This background is needed to speak the same language as scientific staff, so that it becomes easier to understand their requirements and concerns. 
@@ -57,7 +57,7 @@ Depending on the role of the Data Steward, learning discipline specific skills m
 As the research culture adapts to (inter)national changes, so too do the skills of the Data Steward that have to be continuously updated. 
 
 
-(cl-infrastructure-datastewards-challenges)=
+(cl-infrastructure-data-stewards-challenges)=
 ## Challenges for Data Stewards
 * As Data Steward is a relatively new profession (~2017), their job profile is not always formally defined and their career-track may be unclear.
 * It is difficult to increase the awareness of the presence of the data steward and/or existing data policies, especially when resources are limited.
@@ -67,7 +67,7 @@ As the research culture adapts to (inter)national changes, so too do the skills 
 Often there's only a small central team of Data Stewards available to the entire instutite. 
 * It is not always clear when you're providing high quality support and where you could improve, as there is no formal education and there is not always a strong feedback culture at your institute. 
 
-(cl-infrastructure-datastewards-benefits)=
+(cl-infrastructure-data-stewards-benefits)=
 ## Benefits of having Data Stewards
 * Sharing  information or provide training for data management so that researchers don't have to reinvent the wheel themselves and can easily learn about recommended practises, which will ultimately improve the quality of research.
 * Data Stewards can provide reassurance to researchers, by providing feedback on their Data Management Plans, practises and providing advise on alternative solutions.
@@ -75,63 +75,13 @@ Often there's only a small central team of Data Stewards available to the entire
 * Data Stewards can play a leading role in developing policies regarding data and software management.
 * Data Stewards can provide answers to questions from researchers, or direct them to other relevant staff that will be able to answer the question. 
 
-(cl-infrastructure-datastewards-support)=
+(cl-infrastructure-data-stewards-support)=
 ## Organisations that support Data Stewards
 * [Research Data Alliance](https://www.rd-alliance.org/)
 * [DTL-Data Stewards Interest Group](https://www.dtls.nl/about/community/interest-groups/data-stewards-interest-group/)
 * [Research Data Access & Preservation](https://rdapassociation.org/)
 
 
-(cl-infrastructure-datastewards-summary)=
+(cl-infrastructure-data-stewards-summary)=
 ## Summary
 Data Stewards are an important part of scientific communities, supporting recommended data management practices and saving researchers time by supporting them in these efforts. They do not have a formal career path or qualifications, but typically have a scientific or research background themselves.
-
-<!-- 
-> See the [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html) for The Turing Way's recommendations on cross referencing.
-> To include an image in your writing, use the MyST directive shown below. 
-> Remember to add your image to the `figures` [folder](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/website/figures) and use the correct path, else it will not be displayed.
-
-```{figure} ../../figures/image-name.png
----
-name: image-name
-alt: describe your image for readers who rely on screen readers
----
-Your image caption here
-```
-
-> To include code blocks, simply enclose your code in three sets of backticks shown below.
-
-```
-def simple_function():
-    pass
-```
-
-> To include an admonition or to highlight a block of text that exists slightly apart from the narrative of your section, use the directive shown below. Jupyter Book's [documentation](https://jupyterbook.org/content/content-blocks.html#) has other useful examples.
-
-```{note}
-Here is a note!
-```
-
-
-
-
-<!-- IMPORTANT!
-
-- Use this template to create your chapter's subchapters.
-- Refrain from writing very long subchapters as readers may be unwilling to read them. Rather, you should split long subchapters into smaller subchapters if necessary.
-
-
-
-BEFORE YOU GO
-
-- Have a look at the Style Guide and the Maintaining Consistency chapters to ensure that you have followed the relevant recommendations on
-  - Avoiding HTML
-  - Consecutive headers
-  - Labels and cross referencing
-  - Using images
-  - Latin abbreviations
-  - References and citations
-  - Title casing
-  - Matching headers with reference in table of content
-
--->
