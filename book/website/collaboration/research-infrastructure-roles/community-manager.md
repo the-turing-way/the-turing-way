@@ -2,7 +2,7 @@
 # Community Managers: Overview
 
 Community Managers roles are well established in technical industry but only over the last years they have gained recognition within academia and scientific communities.
-Often these roles may not be call community managers, but their responsibilities include estabishing engagement, organising community spaces and events, supporting people through inclusive practices, developing and maintaining resources, growing and evaluating use cases and collaborating with people involved in research and scientific communities.
+Often these roles may not be called community managers, but their responsibilities include establishing engagement, organising community spaces and events, supporting people through inclusive practices, developing and maintaining resources, growing and evaluating use cases and collaborating with people involved in research and scientific communities.
 
 (cl-infrastructure-community-managers-tasks)=
 ## What do Community Managers do? 
