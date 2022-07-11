@@ -146,7 +146,7 @@ width: 500px
 name: help-you-of-the-future
 alt: A cartoon of a woman passing a folder of documents back to herself. Speech bubble says You're mainly keeping records for you in the future.
 ---
-Although making clear documentation may feel like it is taking a lot of time at the moment, you are helping your and your collaborators remember what you have done so it is easy to reuse the work or make changes in the future.
+Although making clear documentation may feel like it is taking a lot of time at the moment, you are helping yourself and your collaborators remember what you have done so it is easy to reuse the work or make changes in the future.
 Illustration by The Ludic Group LLP from Kirstie Whitaker's keynote presentation at Scientific Data in 2017.
 Used under a CC-BY 4.0 license.
 DOI: [10.6084/m9.figshare.5577340.v1](https://doi.org/10.6084/m9.figshare.5577340.v1).
