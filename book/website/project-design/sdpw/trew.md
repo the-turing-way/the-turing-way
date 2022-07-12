@@ -15,12 +15,12 @@ Typically TREs offer researchers collaborating on a project involving sensitive 
 There are a variety of TREs being used in the real world, which vary from deployable cloud infrastructure such as The Alan Turing Institute's [Data Safe Haven](https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud) platform, to bespoke environments hosted at a particular University or other institution with access to sensitive data.
 
 You may find TREs also described as "Data Safe Havens" or "Secure Research Environments" or other synonymous names, since the use of such platforms is relatively new and there is no strict consensus on the terminology. 
-To learn more about what TREs are, check [this graphic](https://www.hdruk.ac.uk/access-to-health-data/trusted-research-environments/) produced by Health Data Research UK.
+To learn more about what TREs are, check out [the graphic and video on this page](https://www.hdruk.ac.uk/access-to-health-data/trusted-research-environments/) produced by Health Data Research UK.
 
 (pd-sdpw-trew-conducting)=
 ## Conducting research with TREs
 
-In general, researchers working in TREs will find that much of the same guidance for working effectively and reproducibly as outlined in the [Guide for Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html) section will be just as relevant as in any other computing environment.
+In general, researchers working in TREs will find that much of the same guidance for working effectively and reproducibly as outlined in the {ref}`Guide for Reproducible Research<rr-overview>` section will be just as relevant as in any other computing environment.
 
 There are however some important questions to consider when working in TREs that will affect the your development workflow for scientific code writing and data analysis:
     
@@ -37,7 +37,7 @@ Version Control Systems (VCS) like Git can be useful even where access to GitHub
 For example, [GitLab](https://about.gitlab.com/) can be used for code developed within the TRE, if it's installed in the environment. 
 
 If the TRE does not have a collaboration/VCS tool such as GitLab installed, it may be preferable to develop the research code outside the TRE, bringing it into the TRE via secure code ingress at appropriate intervals. 
-To learn more about version control, consult the [Guide for Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/vcs.html).
+To learn more about version control, consult the {ref}`Chapter on Version Control<rr-vcs>`.
 
 **3) Do you aim to publish research carried out on sensitive data in a TRE?**
     
@@ -60,4 +60,4 @@ One recommendation when preparing the output of a data analysis carried out in a
     
 Another suggestion could be to include a small synthetic dataset alongside any published code, which any publicly available code or notebooks containing the data analysis can be run with in lieu of access to the "real" (non-synthetic data) sensitive data from the TRE. 
     
-For additional guidance on publishing the output of TRE research, see [this report](https://zenodo.org/record/5675093#.YoIpXBPMJhH).
+For additional guidance on publishing the output of TRE research, see [this report on Developing and Publishing Code for Trusted Research Environments: Best Practices and Ways of Working by Ed Chalstrey](https://zenodo.org/record/5675093#.YoIpXBPMJhH).
