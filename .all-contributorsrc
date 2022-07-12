@@ -3321,6 +3321,16 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "edwardchalstrey1",
+      "name": "Ed Chalstrey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5486164?v=4",
+      "profile": "http://edchalstrey.com/",
+      "contributions": [
+        "content",
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
