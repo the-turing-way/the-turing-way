@@ -29,6 +29,7 @@ Sub-chapters include:
 ## Motivation
 
 Working in sensitive data projects can be challenging and it often requires the development of a bespoke way of working for each project.  
+
 Researchers need to consider how they are going to work collaboratively using Trusted Research Environments and how they can enable reproducible research and publish as openly as possible. 
 We must also consider how to keep our data secure and prevent unintentional sharing of data. 
 
