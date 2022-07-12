@@ -12,9 +12,9 @@ For example, merging information about a participant's age with information abou
 In data linkage, two or more anonymised datasets containing the same individuals are combined, which in turn increases the risk of identification. 
 For example, combining a dataset of hospital episode statistics with a dataset of educational information may make it possible to identify individuals within the dataset.
 
-References: https://libguides.jcu.edu.au/rdm-toolkit/sharing-sensitive-data
+A useful link about this issue is the section on planning, and particularly triangulation, in the guide for [Research Data and Information management](https://www.jcu.edu.au/rdim/step-1-plan) by James Cook University.
 
 (pd-sdp-combined-examples)=
 ## Examples of projects with a combination of different datasets
 
-* Hardelid (2014) "Estimating the prevalence of chronic conditions in children who die in England, Scotland and Wales: a data linkage cohort study" BMJ Open. https://bmjopen.bmj.com/content/bmjopen/4/8/e005331.full.pdf
+* Hardelid (2014) ["Estimating the prevalence of chronic conditions in children who die in England, Scotland and Wales: a data linkage cohort study" BMJ Open](https://bmjopen.bmj.com/content/bmjopen/4/8/e005331.full.pdf).
