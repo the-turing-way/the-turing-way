@@ -20,9 +20,12 @@ Being on these lists does not necessarily mean that data about these species can
 An individual risk assessment must be done in each case.
 
 However, some examples of threats that could result from sharing biological data and therefore this data needing to be restricted are:
-        * **Collection for the pet trade and international wildlife market** - for example, nesting locations of rare birds that might lead to poaching of eggs or the collection of a new species such as fish from a coral reef.
-        * **Killing of organisms for recreational hunting, for food and for cultural, social or belief reasons** - for example, killing sharks to reduce human-shark interactions or for shark-fin soup. 
-        * **Threat of habitat destruction or disturbance by humans for recreational purposes, farming, housing or to stop conservation efforts** - for example, disturbance of habitats by bird watchers leading to a decline in breeding or destruction of forests for monoculture farming. 
+        
+* **Collection for the pet trade and international wildlife market** - for example, nesting locations of rare birds that might lead to poaching of eggs or the collection of a new species such as fish from a coral reef.
+        
+* **Killing of organisms for recreational hunting, for food and for cultural, social or belief reasons** - for example, killing sharks to reduce human-shark interactions or for shark-fin soup. 
+        
+* **Threat of habitat destruction or disturbance by humans for recreational purposes, farming, housing or to stop conservation efforts** - for example, disturbance of habitats by bird watchers leading to a decline in breeding or destruction of forests for monoculture farming. 
         
 ### Biosafety
 
@@ -31,7 +34,7 @@ This can also include newly developed organisms such as genetically-modified pla
 The whereabouts and the methods of development of these organisms may be considered sensitive.  At the same time, it must be considered that it may be important to share this data openly to prevent harm. 
 
 Some biosafety data may fall under the confidential data category due to a need to protect the commercial interests of these developed organisms. 
-However, this unnecessarily limits transparency and public peer review of these datasets, which are then submitted to regulatory authorities (ADD ref - https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001499#s10). 
+However, this unnecessarily limits transparency and public peer review of these datasets, which are then submitted to regulatory authorities {cite:ps}`Nielsen2013biosafety`. 
 
 (pd-sdp-biological-benefits)=
 ## Benefits of opening up sensitive biological data
@@ -55,7 +58,7 @@ Sensitive occurrence data that includes exact locations for organisms can be gen
 Current best practice is discussed by [Chapham (2020)](https://docs.gbif.org/sensitive-species-best-practices/master/en/current-best-practices-for-generalizing-sensitive-species-occurrence-data.en.pdf), who sets out 10 principles for generalising sensitive species occurrence data to enable data sharing.
 
 It is also worth researchers conducting an assessment of the risks versus benefits of publishing biological data.   
-The majority of the biodiversity community feel there are more benefits publishing open datasets as its future reuse could lead to greater conservation opportunities, promote community engagement and reduce duplication of survey efforts (Add ref - Tulloch 2018 - https://www.researchgate.net/publication/326558644_A_decision_tree_for_assessing_the_risks_and_benefits_of_publishing_biodiversity_data)
+The majority of the biodiversity community feel there are more benefits publishing open datasets as its future reuse could lead to greater conservation opportunities, promote community engagement and reduce duplication of survey efforts {cite:ps}`tulloch2018decision`.
 
 (pd-sdp-biological-examples)=
 ## Examples of projects and issues with biological data
