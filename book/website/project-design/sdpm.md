@@ -9,18 +9,17 @@ alt: The image shows a traing taking a different track when delaing with sensiti
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
-
-
 ## Prerequisites
 
 | Prerequisite |  Importance  |  Skill Level | Notes |
 | ------------ |------------- | ------|----|
-| {ref}`Sensitive Data Projects <pd-sdp>` | Helpful | | Beginner |  |
+| {ref}`Sensitive Data Projects <pd-sdp>` | Helpful | Beginner |  |
 
 (pd-sdpm-summary)=
 ## Summary
 
 In this chapter, we describe specific ways that you can manage sensitive data. 
+
 This includes:
 * Informed consent
 * Data Privacy Strategies
