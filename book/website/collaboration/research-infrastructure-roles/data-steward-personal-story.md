@@ -1,7 +1,8 @@
-(cl-infrastructure-datasteward-casestudy)=
-# Data Steward Case Study
+(cl-infrastructure-data-steward-personal-story)=
+# Data Steward Personal Story
 
-## Intro
+## Introduction
+
 My name is [Esther Plomp](https://estherplomp.github.io/) and I’m currently a Data Steward at the Delft University of Technology in the Netherlands. 
 I have worked at the Faculty of Applied Sciences since 2018. 
 Before I joined the Data Stewards at TU Delft I studied archaeology in Leiden and I did a PhD in bioarchaeology at the Vrije Universiteit Amsterdam at the Earth Science department. 
@@ -11,11 +12,13 @@ My background involved lab work and method development, experiences which allows
 While I don’t use the same terminology as all of these researchers (some of them work on quantum nanoscience or biotechnology!), my general background in research equips me with the context I need in order to interpret researcher’s needs and questions. 
 
 ## Embedding of the role
+
 At TU Delft we have a large team of Data Stewards, one per faculty, and a Data Stewardship Coordinator. 
 This team meets once a week to discuss anything data related. 
 It is very beneficial to be part of a team so that I can ask questions when I don’t know the answer myself, or to be able to work together on training sessions or working groups. 
 
 ## Changing of the role
+
 The Data Steward role has changed since I started in 2018. 
 First it was very much focused on data requests and it involved setting up the Research Data Management policy of the Faculty (based on the TU Delft policy). 
 Together with the Data Steward of another faculty, I reached out to every department to gather feedback on the policy. 
@@ -32,6 +35,7 @@ This was something that was already a part of the role from the very start, but 
 There is additional support for Open Science at the Library, in particular the [Open Science Programme](https://www.tudelft.nl/library/tu-delft-open-science) at the TU Delft. 
 
 ## Challenges
+
 A downside of the role is that it can sometimes be lonely to be the only person working on the topic at the Faculty level. 
 It is difficult to connect to other types of support that are less closely related to research. 
 I’m very fortunate that I have fantastic colleagues in the Graduate School and a Faculty Information Office, which are happy to collaborate on faculty related matters, such as the duration of PhD projects that we’re trying to decrease or any data regarding Open Access publications. 
@@ -40,6 +44,7 @@ A way to move up the career ladder would be the Data Stewardship Coordinator rol
 One of the things that I enjoy most in my work is the interaction with researchers. 
 
 ## Benefits
+
 As a Data Steward I have a lot of autonomy in deciding which activities I should pick up, for example, improving my skills or learn new ones such as programming. 
 I also get to participate in (inter)national networks, such as the [Data Steward Interest Group](https://www.dtls.nl/about/community/interest-groups/data-stewards-interest-group/), The Turing Way, [Open Life Sciences](https://openlifesci.org/), the [Open Research Calendar](https://openresearchcalendar.org/) team, and the [Research Data Alliance](https://www.rd-alliance.org/groups/physical-samples-and-collections-research-data-ecosystem-ig). 
 All these activities and the very diverse range of questions for support that I receive result in a very varied schedule, where there is never a day that is exactly the same.

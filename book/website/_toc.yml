@@ -502,10 +502,12 @@ parts:
         file: collaboration/research-infrastructure-roles/community-manager
       - title: Data Stewards Overview
         file: collaboration/research-infrastructure-roles/data-steward
-      - title: Data Steward Case Study
-        file: collaboration/research-infrastructure-roles/data-steward/data-steward-casestudy
+      - title: Data Steward Personal Story
+        file: collaboration/research-infrastructure-roles/data-steward-personal-story
       - title: Research Software Engineers Overview
-        file: collaboration/research-infrastructure-roles/research-software-engineer
+        file: collaboration/research-infrastructure-roles/rse
+      - title: Research Software Engineering Personal Story
+        file: collaboration/research-infrastructure-roles/rse-personal-story
       - title: Research Application Manager Overview
         file: collaboration/research-infrastructure-roles/ram       
     - title: Remote Collaboration
