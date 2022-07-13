@@ -14,8 +14,15 @@ Recently, she has set up the [RSE Asia Association](https://rse-asia.github.io/R
 
 Before you dive into the interview, please note that we have a chapter describing the {ref}`Research Software Engineering in Research Infrastructure Roles<cl-infrastructure-rse>` as well as specific recommendation for {ref}`starting a new community<cl-new-community>`.
 
-![RSE Asia community - with text](https://user-images.githubusercontent.com/28556616/169505701-d0e59090-61bd-4955-bd1d-c9f700ee1eba.jpg)
-(Cite the image as: This image was created by [Scriberia](http://www.scriberia.co.uk/) for The Turing Way community and is used under a CC-BY 4.0 licence for reuse. Zenodo. DOI [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).).
+
+```{figure} ../../figures/rse-community.jpg
+---
+height: 400px
+name: rse-community
+alt: International RSE community is shown as a world map with different people helping each other jump from one continent to other. Especially shows people in India joining in the RSE network in Europe.
+---
+RSE Asia Community joins the International RSE Network. This image was created by [Scriberia](http://www.scriberia.co.uk/) for The Turing Way community and is used under a CC-BY 4.0 licence for reuse. Zenodo. DOI [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)).
+```
 
 ### Tell us about your background, and what led you to set up the RSE Asia Association?
 
@@ -113,4 +120,4 @@ With the hope to achieve this, we are planning to set up a working group soon.
 I feel the RSE Asia Association would expand more and include more representatives across the Asian region in the future.
 We are setting up a Working Group and an Advisory Board for RSE Asia, details for which are shared on the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/).
 
-_This personal story in the form of an open interview was originally written by Saranjeet Kaur Bhogal during the Turing Way book Dash in May 2022. We acknowledge all the people who contributed their time asking questions and reviewing the writen draft: Anne Lee Steele, Arielle Bennett, Carlos Martinez, Elisa Rodenburg, Emma Karoune, Esther Plomp, Kim Martin, Lena Karvovskaya and Malvika Sharan (names are in alphabetical order)._
+_This personal story in the form of an open interview was originally written by Saranjeet Kaur Bhogal during the Turing Way book Dash in May 2022. We acknowledge all the people who contributed their time asking questions and reviewing the written draft: Anne Lee Steele, Arielle Bennett, Carlos Martinez, Elisa Rodenburg, Emma Karoune, Esther Plomp, Kim Martin, Lena Karvovskaya and Malvika Sharan (names are in alphabetical order)._
