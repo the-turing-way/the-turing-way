@@ -1,6 +1,6 @@
 (cm-ro-concepts)=
 # Lifecycle
-A RO commonly starts its life as an empty Live Research Object. ROs aggregate new objects through their whole lifecycle. This means, a RO is filled incrementally by aggregating new relevant resources such as workflows, datasets, documents, etc that are being created, reused or repurposed. These resources can be modified at any point in time. 
+A RO commonly starts its life as an empty Live Research Object. ROs aggregate new objects through their whole lifecycle. This means, a RO is filled incrementally by aggregating new relevant resources such as workflows, datasets, documents that are being created, reused or repurposed. These resources can be modified at any point in time. 
 
 We can copy and keep ROs in time through snapshots which reflect their status at a given point in time. Snapshots can have their own identifiers which facilitates tracking the evolution of a research. At some point in time, a RO can be published and archived (so called Archived Research Object) with a permanent identifier. New Live Research Objects can be derived based on an existing Archived Research Object.
 
