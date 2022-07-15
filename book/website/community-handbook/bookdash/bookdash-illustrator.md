@@ -88,9 +88,9 @@ For each event, we have worked with different scribes and enjoy the diverse styl
 Our illustrations are a mix of simple and complex concepts and are often described with cartoon-like characters. 
 The Scribria company is given equal authorship with *The Turing Way* community members who contribute to the development of those images during the Book Dash. 
 
+Costs for freelance illustrators may be lower and often can provide bespoke services (creating specific styles, details and number of images).
 Our colleagues in [Turing Commons](https://turing-commons.netlify.app/) work with freelance scribe artists and illustrators to create illustrations asynchronously.
-Costs for freelance illustrators may be lower and often can flexibly collaborate on bespoke terms (creating specific styles, details and number of images).
-All images by Turing Comms are also available under CC-BY 4.0 license for reuse on their [GitHub repository](https://github.com/alan-turing-institute/ethics-and-rri-resources/tree/main/images).
+All images by Turing Commons are available in their [GitHub repository](https://github.com/alan-turing-institute/ethics-and-rri-resources/tree/main/images) also under CC-BY 4.0 license for reuse.
 
 When planning, it is always good to contact the company's account manager or the freelance artist directly to set a 20-30 minutes meeting to discuss your brief and any detail they should know. 
 Based on your request, they will share their quotes for each service and block the dates/times in their calendar as discussed with you. 
