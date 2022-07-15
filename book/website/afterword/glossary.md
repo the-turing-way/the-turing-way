@@ -482,6 +482,9 @@ Research Data Management
 Research Ethics
   Research ethics are the moral principles that govern how researchers should carry out their work. These principles are used to shape research regulations agreed by groups such as university governing bodies, communities or governments. All researchers should follow any regulations that apply to their work.
 
+Research Objects
+  Research objects are living resources aggregating inputs, materials, methods and/or software used in research.
+
 Review
   Suggesting changes or asking for committing something to an already created pull request.
 
