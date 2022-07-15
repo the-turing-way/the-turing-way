@@ -38,7 +38,7 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 
 _The Turing Way_ is a community-led and collaboratively developed project.
 We, therefore, require that all our members and their contributions **adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) (CoC)**.
-Please familiarize yourself with our [CoC](CODE_OF_CONDUCT.md) that lists the expected behaviours. 
+Please familiarize yourself with our [CoC](CODE_OF_CONDUCT.md) that lists the expected behaviours.
 We have also provided details for CoC reporting and enforcement, which can be read in our [Community Handbook](https://the-turing-way.netlify.app/community-handbook/coc.html).
 
 ## Inclusivity
@@ -63,10 +63,11 @@ There are many ways to get in touch with _The Turing Way_ team!
   - Can't find your idea being discussed anywhere?
     [Open a new issue](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose)! (See our [Where to start: issues](#where-to-start-issues) section below.)
 - [Slack Channel](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
-  - For structured discussion and sustained engagement with the community members. 
+  - For structured discussion and sustained engagement with the community members.
   - We will also provide notifications on upcoming events and share useful resources on Slack.
   - You can also ping us on [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) (open source option).
-- Contact the Project Lead of _The Turing Way_ project - Kirstie Whitaker - by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk) and the co-lead Malvika Sharan - by email at [masharan@turing.ac.uk](mailto:masharan@turing.ac.uk).
+- Contact the Community Manager of _The Turing Way_ project – Anne Lee Steele – by email at [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)
+- Contact the co-leads of _The Turing Way_ project - Kirstie Whitaker - by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk) and Malvika Sharan - by email at [masharan@turing.ac.uk](mailto:masharan@turing.ac.uk).
 
 ### Receiving Updates
 
@@ -84,7 +85,7 @@ There are many ways to get in touch with _The Turing Way_ team!
 
 ## Contributing through GitHub
 
-[Git][git] is a really useful tool for version control. 
+[Git][git] is a really useful tool for version control.
 [GitHub][github] sits on top of Git and supports collaborative and distributed working.
 
 We know that it can be daunting to start using Git and GitHub if you haven't worked with them in the past, but _The Turing Way_ maintainers are here to help you figure out any of the jargon or confusing instructions you encounter! :heart:
@@ -362,11 +363,11 @@ You are welcome to contribute to the style guide by opening [a new issue](https:
 
 ## Representing _The Turing Way_
 
-We would LOVE people to give talks about the project or represent _The Turing Way_ in other ways! 
+We would LOVE people to give talks about the project or represent _The Turing Way_ in other ways!
 We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/main/communications/promotion-pack) for you to reuse.
 You will find useful details about the project, a list of frequently asked questions, slide decks, and contact details.
 
-If you would like to represent the project in your network, please open an issue and ping @malvikasharan and @KirstieJane so
+If you would like to represent the project in your network, please open an issue and ping @aleesteele, @malvikasharan and @KirstieJane so
 that they can do their best to support you.
 
 We would appreciate if you could share a short abstract and your presentation by adding them to the
@@ -397,7 +398,7 @@ Therefore, please check the open pull requests first to make sure there aren't a
 What happens if you accidentally run the bot before the previous run was merged and you got those pesky merge conflicts?
 (Don't feel bad, we have all done it! 🙈)
 Simply close the pull request and delete the branch (`all-contributors/add-<username>`).
-If you are unable to do this for any reason, please let us know in the [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) or by opening an issue, and _The Turing Way_ team members will be very happy to help!
+If you are unable to do this for any reason, please let us know on [Slack](https://tinyurl.com/jointuringwayslack), the [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) or by opening an issue, and _The Turing Way_ team members will be very happy to help!
 
 Finally, don't forget to add yourself to the list of contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md)!
 

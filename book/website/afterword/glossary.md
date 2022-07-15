@@ -237,6 +237,9 @@ Human Readable
 
 Image
   Files used for generating containers.
+  
+Inner source
+  Inner source is the use of open source software development best practices (open collboration, open communication and peer review practices) and the establishment of an open source-like culture within an organisation for the development of a non-open source output. 
 
 Integration Testing
   A level of software testing where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units.

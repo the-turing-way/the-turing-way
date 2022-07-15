@@ -150,5 +150,5 @@ The push for open is also prevalent across the globe- initiatives such as [SciEL
 
 Funders have also taken action by becoming publishers themselves (referred to as Diamond Open Access). Platforms such as [Open Research Europe](https://open-research-europe.ec.europa.eu/) and [Wellcome Open Research](https://wellcomeopenresearch.org/) are Open Access publishing platforms for researchers funded by that specific funder.
 Funders see this as a service for their grantees- allowing them a venue to publish rapidly and openly for free (funders cover the cost of the infrastructure and the article processing charges) and to have more flexibility than publishing in a journal.
-These platforms allow researchers to publish a range of article types beyond the 'traditional research article', such as data notes, software tool articles, methods, research notes and more.
+These platforms allow researchers to publish a range of article types beyond the 'traditional research article', such as data notes, software tool articles, methods, research notes and more. You can find out more in our {ref}`Chapter on Publishing Different Article Types<cm-dif-articles>`.
 These funder supported platforms also help shift the needle and inform new policies on researcher assessment, such as moving away from impact factors.
