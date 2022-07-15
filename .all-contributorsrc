@@ -3333,6 +3333,15 @@
         "content",
         "review"
       ]
+    },
+    {
+      "login": "ocorcho",
+      "name": "Oscar Corcho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1067341?v=4",
+      "profile": "http://www.oeg-upm.net/index.php/en/teachers/11-ocorcho/index.html",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
