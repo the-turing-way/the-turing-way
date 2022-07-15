@@ -112,4 +112,4 @@ We encourage the use and re-use of these images as much as possible.
 This includes remixing the images, for example changing the colours, translating text or merging them xwith additional (openly licensed) images. 
 If you create something that others may benefit from, we encourage you to contribute your image back to *The Turing Way*.
 
-If you'd like to change the colours of the image to align with other elements of your presentation, see this post by Alex Chan for changing the dominant colour in an image](https://alexwlchan.net/2020/02/adjusting-the-dominant-colour-of-an-image/).
+If you'd like to change the colours of the image to align with other elements of your presentation, see this [post by Alex Chan for changing the dominant colour in an image](https://alexwlchan.net/2020/02/adjusting-the-dominant-colour-of-an-image/).
