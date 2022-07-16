@@ -28,7 +28,7 @@ All illustrations generated within *The Turing Way* are shared under the CC-BY 4
 We encourage the use and reuse of these illustrations not just within *The Turing Way* book, but wherever appropriate in the context of science communication.
 When citing, please include the following attribution with the specific DOI as listed on the particular Zenodo page.
 
-> Illustration created by Scriberia with The Turing Way community. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
+> _This illustration is created by Scriberia with The Turing Way community. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)_
 
 Please note that all images on Zenodo are shared in the original format and size. 
 We use smaller files in *The Turing Way* guides that you can find in [our GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/website/figures).
