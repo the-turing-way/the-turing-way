@@ -19,9 +19,9 @@ This experience was brought back in subsequent Book Dash events in person and on
 ---
 height: 400px
 name: book_dash_mcr_art
-alt: A set of hand-drawn sketches about stuck horizontally against a txtured wooden wall. The first three sketches describe FAIR principles (findable, accessible, interoperable and reusable). Other three images are blurry.
+alt: A set of hand-drawn sketches about stuck horizontally against a textured wooden wall. The first three sketches describe FAIR principles (findable, accessible, interoperable and reusable). Other three images are blurry.
 ---
-The image was taken by Jez Cope in Book Dash 2019 in Manchester. Illustrations by Matthew Kemp of [Scriberia](http://www.scriberia.co.uk/).
+Picture taken by Jez Cope at the Book Dash 2019 in Manchester. Hand sketched illustrations by Matthew Kemp of [Scriberia](http://www.scriberia.co.uk/).
 ```
 
 All illustrations generated within *The Turing Way* are shared under the CC-BY 4.0 license on Zenodo: [https://zenodo.org/record/3332807](https://zenodo.org/record/3332807).
