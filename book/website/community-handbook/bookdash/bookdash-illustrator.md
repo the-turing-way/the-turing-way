@@ -46,7 +46,7 @@ Here are some examples:
 - **News article**: [Connecting the dots between research methods, academic cultures and technical solutions: Three reflections on publishing reproducible research outputs - News - Knowledge Exchange](https://www.knowledge-exchange.info/news/articles/29-01-2021), Knowledge Exchange, Chiarelli, A. (2021)
 - **Training Materials**: [Reproducible research](https://eglerean.github.io/reproducible-research/03-sharing), (2019)
 
-## Benefits of illustrations and why you should get a professional scribe
+## Benefits of Illustrations and Why Hire a Professional Scribe
 
 *The Turing Way* chapters often include research or scientific concepts described by professionals. 
 As experts, many of us do not always effictively communicate our ideas in simple terms for people who are new to those research concepts. 
@@ -62,11 +62,10 @@ These scribes/artists generally talk to researchers for 10-20 minutes to gather 
 Sometimes, these can be done as scribing of a talk or discussion as explained in [this video by Scriberia](https://www.youtube.com/watch?v=LjrtKaZVEio). 
 
 These illustrations are available at the end of the event, or after a few days if post-processing, editing, modification or digitalisation of hand-drawn sketches might be needed.
-
 Having a scribe at an event can also improve engagement and help participants contribute to something that is immediately and visually achievable in a short duration. 
-Furthermore, if shared on the spot, researchers can use their illustrations as a way to exchange their ideas more widely, even with those they won't meet at the ebent.
+Furthermore, if shared on the spot, researchers can use their illustrations as a way to exchange their ideas more widely, even with those they won't meet.
 
-## This is what you should think about when creating a brief
+### Considerations for Creating a Brief
 
 Finding a good illustrator or scribe can be a new challenge if you have not worked with one before. 
 It is always useful to ask in your network if someone has previously worked with someone who they may recommend. The cost may vary based on the country, type of service or experience of the scribe/company. 
@@ -85,23 +84,26 @@ Your request/brief may include the following details:
 - what kind of details do you need to include that should be maintained consistently in all illustrations
 - If you need raw and vector (layered) versions of your image files, you will have to communicate this in advance and prepare to pay extra for the postprocessing.
 
-## Service provider for the previous illustrations
+### Service Providers
 
-In previous Book Dash, *The Turing Way* has worked with [Scriberia](https://www.scriberia.com/) artists/scribes that are hired on per day cost for live scribing. 
+Budget for hiring a professional scribe can vary based on the kind of service they provide.
+In *The Turing Way*, we have worked with [Scriberia](https://www.scriberia.com/) artists/scribes who are hired on per day cost for live scribing. 
 The cost is less for half-day, and additional charges apply for infographics.
 For each event, we have worked with different scribes and enjoy the diverse style and skills they bring to the event. 
 Our illustrations are a mix of simple and complex concepts and are often described with cartoon-like characters. 
 The Scribria company is given equal authorship with *The Turing Way* community members who contribute to the development of those images during the Book Dash. 
 
-Costs for freelance illustrators may be lower and often can provide bespoke services (creating specific styles, details and number of images).
+Costs of hiring freelance illustrators may be lower and they can often provide bespoke services (creating specific styles, details and number of images).
 Our colleagues in [Turing Commons](https://turing-commons.netlify.app/) work with freelance scribe artists and illustrators to create illustrations asynchronously.
 All images by Turing Commons are available in their [GitHub repository](https://github.com/alan-turing-institute/ethics-and-rri-resources/tree/main/images) also under CC-BY 4.0 license for reuse.
 
-When planning, it is always good to contact the company's account manager or the freelance artist directly to set a 20-30 minutes meeting to discuss your brief and any detail they should know. 
-Based on your request, they will share their quotes for each service and block the dates/times in their calendar as discussed with you. 
+When planning, it is always good to look for more than one service providers to compare the cost.
+Contact the company's account manager or the freelance artist directly to set a 20-30 minutes meeting to discuss your brief and any detail they should know. 
+Based on your request, they will share their quotes for each service.
+When confirmed, block the dates/times and share details about your event (agenda, logistics, and anything else they should know). 
 When agreed, you will receive a contract for the service, terms and conditions and an invoice to be paid after the service is delivered.
 
-## Pro tips
+## Pro Tips
 
 To enhance the use of these illustrations, we have learned to keep the concepts simple, self-contained and reusable in different contexts. 
 If texts or sentences are used in the image, we request a copy of those illustrations without text to make sure that they can be translated into other languages. 
