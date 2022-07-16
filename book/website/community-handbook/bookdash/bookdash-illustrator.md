@@ -19,21 +19,23 @@ This experience was brought back in subsequent Book Dash events in person and on
 ---
 height: 400px
 name: book_dash_mcr_art
-alt: A set of hand-drawn images stuck to a wall.
+alt: A set of hand-drawn sketches about stuck horizontally against a txtured wooden wall. The first three sketches describe FAIR principles (findable, accessible, interoperable and reusable). Other three images are blurry.
 ---
 The image was taken by Jez Cope in Book Dash 2019 in Manchester. Illustrations by Matthew Kemp of [Scriberia](http://www.scriberia.co.uk/).
 ```
 
 All illustrations generated within *The Turing Way* are shared under the CC-BY 4.0 license on Zenodo: [https://zenodo.org/record/3332807](https://zenodo.org/record/3332807).
-We encourage the use and reuse of these illustrations not just within *The Turing Way* book, but wherever appropriate in the context of science communication.
-When citing, please include the following attribution with the specific DOI as listed on the particular Zenodo page.
+All images on Zenodo are shared in the original format and size, but we use smaller files in *The Turing Way* guides that you can find in [our GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/website/figures).
 
+When citing, please include the following attribution with the specific DOI as listed on the particular Zenodo page.
 > _This illustration is created by Scriberia with The Turing Way community. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)_
 
-Please note that all images on Zenodo are shared in the original format and size. 
-We use smaller files in *The Turing Way* guides that you can find in [our GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/website/figures).
+When using these illustrations in a digital document, please describe them using Alt Text feature for the users of screen reading apps.
+Alt Text is an important criteria to ensure accessible web design used for describing abstract concepts captured in images to readers who are unable to see them.
+For guidance, please read [Write good Alt Text to describe images](https://accessibility.huit.harvard.edu/describe-content-images) by Digital Accessibility service of Harvard University.
 
-You can see those illustrations throughout this book, as well as by the broader community of researchers, science communicators, policymakers and more, as reflected by over 12,000 downloads as on 2022.
+We encourage using these illustrations not just within *The Turing Way*, but wherever appropriate in the context of science communications or to enhance public engagement with data science and research.
+We already see the reuse by the broader community of researchers, science communicators, policymakers and more, as reflected by over 12,000 downloads as on 2022.
 
 Here are some examples:
 - **Scoping Report: EU Policy**: [Reproducibility of scientific results in the EU: scoping report. Publications Office of the European Union](https://op.europa.eu/en/publication-detail/-/publication/6bc538ad-344f-11eb-b27b-01aa75ed71a1),  Directorate-General for Research and Innovation (European Commission), author(s): Baker, L., Cristea, I. A., Errington, T. M., Jaśko, K., Lusoli, W., MacCallum, C. J., Parry, V.,  Pérignon, C.,  Šimko, T.,  Winchester, C. (2020)
@@ -47,23 +49,22 @@ Here are some examples:
 ## Benefits of illustrations and why you should get a professional scribe
 
 *The Turing Way* chapters often include research or scientific concepts described by professionals. 
-As experts, many of us are not always efficient at communicating our ideas in simple terms to those who are new to those research concepts. 
-This is where illustrations are quite powerful at communicating complex ideas simply and accessibly.
+As experts, many of us do not always effictively communicate our ideas in simple terms for people who are new to those research concepts. 
+This is where illustrations are quite powerful at communicating complex ideas simply.
 
-Simple images, tables and flow charts are something that many of us can do. 
+Simple images, tables and flow charts are something that many of us can create. 
 Sketchnote is another way to visually describe a set of ideas. 
 Several resources can be found for people interested in sketch-noting and visual thinking, for example, see this [post from Sketchnote Academy about sketchnote](https://sketchnoteacademy.com/what-is-sketchnoting/) and [videos on visual thinking by Scriberia](https://www.youtube.com/watch?v=-Owxi2QNjlI).
 
-It is an advantage for scientists who are also excellent visual communicators, but most people may find it challenging and time taking to create both written and visual materials. 
+It is an advantage for scientists who are also excellent in visual communications, but most people may find it challenging and time taking to create both written and visual materials. 
 Therefore, it is useful to hire expert/professional scribes if a project or event budget allows. 
 These scribes/artists generally talk to researchers for 10-20 minutes to gather all information they need to express their ideas through drawings, illustrations or infographics. 
 Sometimes, these can be done as scribing of a talk or discussion as explained in [this video by Scriberia](https://www.youtube.com/watch?v=LjrtKaZVEio). 
 
-These illustrations are available at the end of the day/event, or after a few days if post-processing, editing, modification or digitalisation of hand-drawn sketches might be needed. 
-These illustrations can be described for the screen reading apps as well to express abstract concepts more clearly.
+These illustrations are available at the end of the event, or after a few days if post-processing, editing, modification or digitalisation of hand-drawn sketches might be needed.
 
 Having a scribe at an event can also improve engagement and help participants contribute to something that is immediately and visually achievable in a short duration. 
-Furthermore, even if they are not able to interact with everyone in person, can use their illustrations as a way to exchange their ideas more widely.
+Furthermore, if shared on the spot, researchers can use their illustrations as a way to exchange their ideas more widely, even with those they won't meet at the ebent.
 
 ## This is what you should think about when creating a brief
 
