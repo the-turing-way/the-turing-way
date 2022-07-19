@@ -27,15 +27,21 @@ Research Objects allow working open by design and share during the research proc
 ## Background & Motivation
 
 Research objects (ROs) are living resources helping to organise and describe the inputs, materials, and methods used in a scientific experiment and obtained as a result and not only at the end when publishing the research outcomes. 
-In short, ROs can be seen as a single information unit where any research material can be shared with other scientists at discrete milestones of the investigation. 
+ROs encompass research outputs created, revised and shared throughout the research lifecycle that help validate findings claimed in scholarly publications.
+In short, ROs can be seen as a "single information unit" where any research material can be shared with other scientists at discrete milestones of the investigation within and outside the project.
 
+Motivation behind RO is the need to identify and share all components such as data, source code, tools, method documentation, as well as communication materials such as presentations, videos, blogs and other tangible outcomes. 
 The entire research lifecycle can be captured, allowing the release and publication of results progressively, keeping track of versioning and change information. 
 ROs facilitate reproducibility and reuse of the scientific methods and results through access to resources, context and metadata, and the possibility of forking existing ROs. 
+
+RO helps ensure that research outputs can be identified, stored and shared for reuse. There are three guiding principles for RO:
+- Digital identity - Using unique identifiers, such as DOIs for tangible outcomes such as publications or data, and ORCID ids for researchers (explain in details in the next lesson).
+- Data aggregation - Using a method to aggregate all outcomes so that they are discoverable and hence allow anyone to investigate and reproduce the research.
+- Annotation - Use rich machine-readable metadata (discussed in open data) that help ensure findability and accessibility of all scientific work.
+RO helps understand the entire research lifecycle through research outcomes including publication shared progressively, allowing to track the versioning and development of the entire project.
+
+All the research work, including potential failures, dead ends or any other information such as experimental protocols, software code, standards as well as all the individuals who contributed to the research can also be recorded in the RO. 
 As a result, ROs support evidence and support validation of findings claimed in scholarly articles.
-
-ROs and their content should have rich machine-readable metadata to enhance the findability and accessibility of all scientific work. 
-
-All the research work, including potential failures, dead ends or any other information such as experimental protocols, software code, standards as well as all the individuals who contributed to the research can be recorded in the RO. 
 
 (cm-ro-contribute)=
 ## Contribute to this Chapter
