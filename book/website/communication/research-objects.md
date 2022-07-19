@@ -9,7 +9,9 @@
 ## Summary
 Research outcomes encompass publications, data, software, bibliographical material and any other resources (such as experimental workflows, standards) that can be potentially useful for conducting research.
 
-Research Objects (ROs) {cite:ps}`Garciasilva2019-research-objects` allow working open by design and share during the research process and not only the research outputs at the end.
+A Research Object (RO) {cite:ps}`Garciasilva2019-research-objects` is a method for the identification, aggregation and exchange of scholarly information on the Web. 
+ROs allow working 'open by design' and share research outputs during the research process and not only results at the end.
+The primary goal of the research object approach is to provide a mechanism to associate related resources about a scientific investigation so that they can be shared using a single identifier [{term}`def<Identifier>`] {cite:ps}`Belhajjame2015RO`.
 
 In this chapter, we will introduce ROs, their typologies and which platform and technologies exist to create and publish them.
 
@@ -23,9 +25,13 @@ Research Objects allow working open by design and share during the research proc
 
 (cm-ro-motivation)=
 ## Background & Motivation
-Research objects (ROs) are living resources helping to organise and describe the inputs, materials, and methods used in a scientific experiment and obtained as a result and not only at the end when publishing the research outcomes. In short, ROs can be seen as a single information unit where any research material can be shared with other scientists at discrete milestones of the investigation. 
 
-The entire research lifecycle can be captured, allowing the release and publication of results progressively, keeping track of versioning and change information. ROs facilitate reproducibility and reuse of the scientific methods and results through access to resources, context and metadata, and the possibility of forking existing ROs. As a result, ROs support evidence and support validation of findings claimed in scholarly articles.
+Research objects (ROs) are living resources helping to organise and describe the inputs, materials, and methods used in a scientific experiment and obtained as a result and not only at the end when publishing the research outcomes. 
+In short, ROs can be seen as a single information unit where any research material can be shared with other scientists at discrete milestones of the investigation. 
+
+The entire research lifecycle can be captured, allowing the release and publication of results progressively, keeping track of versioning and change information. 
+ROs facilitate reproducibility and reuse of the scientific methods and results through access to resources, context and metadata, and the possibility of forking existing ROs. 
+As a result, ROs support evidence and support validation of findings claimed in scholarly articles.
 
 ROs and their content should have rich machine-readable metadata to enhance the findability and accessibility of all scientific work. 
 
