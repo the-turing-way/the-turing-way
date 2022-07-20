@@ -34,7 +34,7 @@ Motivation behind RO is the need to identify and share all components such as da
 The entire research lifecycle can be captured, allowing the release and publication of results progressively, keeping track of versioning and change information. 
 ROs facilitate reproducibility and reuse of the scientific methods and results through access to resources, context and metadata, and the possibility of forking existing ROs. 
 
-RO helps ensure that research outputs can be identified, stored and shared for reuse. There are three guiding principles for RO:
+There are three guiding principles for RO:
 - Digital identity - Using unique identifiers, such as DOIs for tangible outcomes such as publications or data, and ORCID ids for researchers (explain in details in the next lesson).
 - Data aggregation - Using a method to aggregate all outcomes so that they are discoverable and hence allow anyone to investigate and reproduce the research.
 - Annotation - Use rich machine-readable metadata (discussed in open data) that help ensure findability and accessibility of all scientific work.
