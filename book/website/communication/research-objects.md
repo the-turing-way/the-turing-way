@@ -11,7 +11,7 @@ Research outcomes encompass publications, data, software, bibliographical materi
 
 A Research Object (RO) {cite:ps}`Garciasilva2019-research-objects` is a method for the identification, aggregation and exchange of scholarly information on the Web. 
 ROs allow working 'open by design' and share research outputs during the research process and not only results at the end.
-The primary goal of the research object approach is to provide a mechanism to associate related resources about a scientific investigation so that they can be shared using a single identifier [{term}`def<Identifier>`] {cite:ps}`Belhajjame2015RO`.
+The primary goal of the RO approach is to provide a mechanism to associate or link related resources about a research investigation so that they can be shared using a single identifier [{term}`def<Identifier>`] {cite:ps}`Belhajjame2015RO`.
 
 In this chapter, we will introduce ROs, their typologies and which platform and technologies exist to create and publish them.
 
