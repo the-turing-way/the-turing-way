@@ -661,6 +661,8 @@ parts:
         file: community-handbook/bookdash/bookdash-application
       - title: Book Dash Logistics
         file: community-handbook/bookdash/bookdash-logistics
+      - title: Working With an Illustrator
+        file: community-handbook/bookdash/bookdash-illustrator
       - title: Participant Selection Process
         file: community-handbook/bookdash/bookdash-selection
       - title: Book Dash Main Event Plans
