@@ -3333,6 +3333,15 @@
         "content",
         "review"
       ]
+    },
+    {
+      "login": "ClauFischer",
+      "name": "ClauFischer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104078689?v=4",
+      "profile": "https://github.com/ClauFischer",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
