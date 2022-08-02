@@ -1,7 +1,7 @@
 ## The Turing Way Book
 
 This is the README file for _The Turing Way_ book hosted online at https://the-turing-way.netlify.app/.
-For the README file of the main repository please [follow this link](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md).
+For the README file of the main repository please [follow this link](https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md).
 
 All the text for each chapter of the `book` lives inside the folder `./website` directory.
 All figures associated to the chapters are stored in and linked from the `./website/figures` directory.
@@ -95,7 +95,7 @@ You can find the build history or logs for _The Turing Way_ at https://app.netli
 ## Bibliography
 
 In the directory `./website/_bibliography` a collection of bibliography from all the chapters exist in the `references.bib` file.
-More details can be read in the [CONTRIBUTING.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#referencing-and-citing) file.
+More details can be read in the [CONTRIBUTING.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#referencing-and-citing) file.
 
 ## Content Templates
 
