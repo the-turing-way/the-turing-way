@@ -3,8 +3,8 @@
 ## About 
 This is a repo for our awesome collaboration workshop called "Git Good" :tada:
 
-## Introductions
-1. 
+## Add your name here
+1. Anne Lee Steele 
 2. 
 3. 
 4.
