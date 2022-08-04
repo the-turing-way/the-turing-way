@@ -12,7 +12,7 @@
 ```{figure} ../figures/evolution-open-research.jpg
 ---
 name: evolution-open-research
-alt: This image shows a researcher evolving their research practices to move towards the era of open research.
+alt: This image shows a researcher evolving their research practices to move towards the era of open research. The image starts with the person looking anxious about engaging with open science, slowly they take a few steps, feel comfortable about sharing their work, and finally start to collaborate with others.
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
@@ -26,7 +26,7 @@ Open research aims to transform research by making it more reproducible, transpa
 - _Be reusable_: Research outputs need to be licensed appropriately, so that prospective users know any limitations on re-use.
 - _Be transparent_: With appropriate metadata to provide clear statements of how research output was produced and what it contains.
 
-The research process typically has the following form: data is collected and then analysed (usually using software). This process may involve the use of specialist hardware. The results of the research are then published. Throughout the process, it is good practice for researchers to document their working in notebooks. Open research aims to make each of these elements open:
+Schematically, the research process has the following form: data are collected and then analysed (often using software). This process may involve the use of specialist hardware. The results of the research are then published. Throughout the process, it is good practice for researchers to document their work. This can happen in notebooks or other forms of documentation. For experimental studies, Electronic Lab Notebooks are common. Open research aims to make each of these elements open:
 
 - _Open Data_: Documenting and sharing research data openly for re-use.
 - _Open Source Software_: Documenting research code and routines, and making them freely accessible and available.
@@ -34,7 +34,7 @@ The research process typically has the following form: data is collected and the
 - _Open Access_: Making all published outputs freely accessible for maximum use and impact.
 - _Open Notebooks_: An emerging practice, documenting and sharing the experimental process of trial and error.
 
-These elements are expanded upon in this chapter.
+See the [Open Definition](https://opendefinition.org/) for a set of principles that define “openness” in relation to data and content. The above elements are expanded upon in this chapter.
 
 Open scholarship [{term}`def<Open Scholarship>`] is a concept that extends open research further. It relates to making other aspects of scientific research open to the public, for example:
 
@@ -58,7 +58,7 @@ There are five main schools of thought motivating open practices to benefit rese
 | Public | Research needs to be made accessible to the public. | Making research accessible for citizens. |
 
 Open practices also benefit the researchers that propagate them.
-For example, there is evidence {cite}`McKiernan et al. 2016<McKiernan2016Open>` that open access articles are cited more often, as shown by the metastudy presented in the figure below.
+For example, there is evidence {cite:ps}`McKiernan et al. 2016<McKiernan2016Open>` that open access articles are cited more often, as shown by the metastudy presented in the figure below.
 
 ```{figure} ../figures/open-access-citations.jpg
 ---

@@ -42,17 +42,18 @@ Questi capitoli sono stati scritti in collaborazione con studenti, ricercatori, 
 
 **Indice:**
 
-- [Il progetto](#about-the-project)
-- [Il team](#the-team)
-- [Come contribuire](#contributing)
-- [Citare _The Turing Way_](#citing-the-turing-way)
-- [Contatti](#get-in-touch)
-- [Collaboratori](#contributors)
+- [Il Progetto](#il-progetto)
+- [Il Team](#il-team)
+- [Come Contribuire](#come-contribuire)
+- [Citare _The Turing Way_](#citare-the-turing-way)
+- [Citare le immagini di _The Turing Way_](#citare-le-immagini-di-the-turing-way)
+- [Contattaci](#contattaci)
+- [Collaboratori](#collaboratori)
 
 🎧 Se preferisci un'introduzione audio al progetto, Rachael ha partecipato all'[Open Science Fair 2019](https://www.opensciencefair.eu/) (Porto, Portogallo) e la sua presentazione è disponibile su [Orion podcast](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
 Una panoramica di _The Turing Way_ inizia al minuto 5:13 (in Inglese).
 
-### Il progetto
+### Il Progetto
 
 La riproducibilità della ricerca è necessaria per garantire l'affidabilità del lavoro scientifico.
 Finanziatori ed editori richiedono sempre più spesso che le pubblicazioni includano l'accesso ai dati grezzi ed al codice sorgente.
@@ -63,7 +64,7 @@ _The Turing Way_ è un manuale per aiutare gli studenti, i loro supervisori, fin
 Il manuale comprende materiale di formazione sul version control, test di analisi e comunicazione aperta e trasparente con i nuovi utenti e si baserà su casi di studio e workshop del Turing Institute.
 Questo progetto è sviluppato in maniera aperta e nel nostro repository GitHub sono benvenuti suggerimenti, domande e commenti: <https://github.com/alan-turing-institute/the-turing-way>.
 
-### Il team
+### Il Team
 
 _The Turing Way_ è una collaborazione aperta e guidata dalla comunità. Chiunque partecipi a questo libro, indipendentemente dall'importanza del contributo, è riconosciuto in questo progetto come contributore e membro della comunità. Collaboratori di lunga data sono considerati come collaboratori principali ed hanno ruoli di leadership all'interno del progetto.
 Il progetto è coordinato da **Kirstie Whitaker** (founder) e **Malvika Sharan** (community developer) ed è ospitato dal [The Alan Turing Institute](https://www.turing.ac.uk/).
@@ -72,7 +73,7 @@ Per maggiori informazioni, puoi leggere [questa guida](https://the-turing-way.ne
 
 Consulta [l'elenco dei collaboratori](#contributors) per i profili GitHub di tutti i contributori.
 
-### Come contribuire
+### Come Contribuire
 
 :construction: Questo repository è sempre in costruzione e **tutti** sono incoraggiati ad aiutarci in questo progetto che può essere utile a molti. :construction:
 
@@ -99,7 +100,7 @@ Come apparirà la citazione:
 > The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. <http://doi.org/10.5281/zenodo.3233986>
 
 Puoi anche condividere una pagina del manuale usando un URL leggibile, per esempio: <https://the-turing-way.netlify.com/reproducibility/03/definitions.html>, ma ricorda che il progetto è in via di sviluppo e perciò i link potrebbero cambiare nel tempo.
-Potresti includere un link del web archive, ad esempio: <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> per essere sicuro di non ritrovarti ovunque con (broken links) collegamenti obsoleti!
+Potresti includere un link del web archive, ad esempio: <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> per essere sicuro di non ritrovarti ovunque con collegamenti obsoleti (broken links)!
 
 Apprezziamo molto qualsiasi tipo di riferimento al progetto _The Turing Way_ .
 Se hai ancora dei dubbi o delle domande [contattaci](#get-in-touch).
@@ -121,7 +122,9 @@ L'ultima versione di Zenodo può essere menzionata come:
 
 Abbiamo utilizzato alcune di queste immagini nelle risposte del [Welcome Bot](https://github.com/apps/welcome) ai contributi dei nuovi membri nel nostro repository su GitHub.
 
-### Contattaci (in inglese)
+### Contattaci
+
+(In inglese)
 
 #### Email
 
@@ -136,13 +139,12 @@ Discuti le tue idee e connetti con altri su Slack usando [questo invito](https:/
 Abbiamo una chat room su Gitter (se preferisci un'alternativa open source) e ci farebbe piacere se passassi a salutarci a <https://gitter.im/alan-turing-institute/the-turing-way>.
 La chat room è sincronizzata con [Matrix](https://matrix.org) su [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) e puoi raggiungerci anche qui se preferisci.
 
-#### Recieve Updates
+#### Receive Updates
 
 Abbiamo anche una mailing list su *tinyletter* con la quale inviamo aggiornamenti mensili sul progetto.
 Iscriviti a questo link <https://tinyletter.com/TuringWay>.
 
 Puoi anche seguirci su Twitter ([@turingway](https://twitter.com/turingway)).
-
 
 ## Collaboratori
 

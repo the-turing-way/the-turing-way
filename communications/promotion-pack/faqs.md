@@ -6,10 +6,10 @@ The project is maintained and developed via a public [GitHub repository](https:/
 You can help review the contributions added to the project through currently [open pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls).
 You can start a discussion on a new topic by opening a [new issue](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose).
 If you are new to GitHub, connect with the community via [Gitter](https://gitter.im/alan-turing-institute/the-turing-way) or [Slack](https://tinyurl.com/jointuringwayslack) and the core members will help you by pointing you to the right materials.
-There are also community co-working calls every week and [Online Collaboration Cafes](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md) every month where you can work with the core members in real-time.
+There are also community co-working calls every week and [Online Collaboration Cafes](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html) every month where you can work with the core members in real-time.
 
 ## Is there an onboarding process?
-- There is a community [contribution guideline](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) and [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md) that is required for new contributors to get familiar with.
+- There is a community [contribution guideline](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md) that is required for new contributors to get familiar with.
 With the details provided there, you would be able to identify the best available options for you to get involved in the project.
 In any case, the community members can be contacted via [Gitter](https://gitter.im/alan-turing-institute/the-turing-way) or [Slack](https://tinyurl.com/jointuringwayslack), or the core team can be reached out to by [email](mailto:theturingway@gmail.com).
 

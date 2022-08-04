@@ -33,6 +33,8 @@ mybinder.org is already hosted by four cloud platforms: Microsoft Azure, Google 
 This diversity of hosts consolidates Project Binder's status as a cloud-neutral, open source project.
 As a substantial contributor to the service, we are propagating knowledge related to maintaining a BinderHub on Azure into the wider Binder community and contributing to a sustainable and resilient open infrastructure by decentralising resources and knowledge throughout the Federation.
 
+It is worth noting that the mybinder.org operating team are specifically soliciting diverse sources of funding for a range of hosted infrastructure as part of its long-term sustainability plan to avoid being locked into a single cloud provider or funding source.
+
 ## Research Justification
 
 The Binder Federation (https://blog.jupyter.org/the-international-binder-federation-4f6235c1537e) is an experiment in open infrastructure for data science and beyond.
