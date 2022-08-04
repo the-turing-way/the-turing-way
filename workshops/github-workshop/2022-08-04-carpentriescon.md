@@ -3,17 +3,19 @@
 ## About 
 This is a repo for our awesome collaboration workshop called "Git Good" :tada:
 
+The link to this page can be found here: https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/github-workshop/2022-08-04-carpentriescon.md
+
 ## Add your name here
-1. Anne Lee Steele 
+1. Jade Hotchkiss 
 2. 
-3. 
+3. Susan Gichuki 
 4.
 5.
 6.
-7.
+7.Asma Kacem
 8.
 9.
-10.
+10. Hanna Varachkina
 11.
 12.
 13.
@@ -22,15 +24,6 @@ This is a repo for our awesome collaboration workshop called "Git Good" :tada:
 16.
 17.
 18.
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
+19. Anne Lee Steele
+20. Sophia Batchelor
+
