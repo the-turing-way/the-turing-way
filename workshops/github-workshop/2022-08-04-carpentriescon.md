@@ -6,7 +6,7 @@ This is a repo for our awesome collaboration workshop called "Git Good" :tada:
 ## Name
 1.
 2. 
-3. 
+3. Susan Gichuki 
 4.
 5.
 6.
