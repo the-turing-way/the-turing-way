@@ -1,8 +1,7 @@
 (rr-rdm-personal)=
 # Personal data management
 
-This section provides a general overview of things to consider when working with personal data. 
-For a more practical overview on tools and practises that facilitate reproducibility, please see the `Sensitive Data` chapter under the {ref}`Guide for Project Design<pd>`.
+For a more practical overview on tools and practises that facilitate reproducibility, please see the [Sensitive Data chapters](https://the-turing-way.netlify.app/project-design/sdp.html) on [managing](https://the-turing-way.netlify.app/project-design/sdpm.html) and [working on](https://the-turing-way.netlify.app/project-design/sdpw.html) sensitive data under the [Guide for Project Design](https://the-turing-way.netlify.app/project-design/project-design.html#pd).
 
 ## Personal data
 
