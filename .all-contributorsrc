@@ -3371,6 +3371,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "shashank-k-y",
+      "name": "Shashank",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74789167?v=4",
+      "profile": "https://github.com/shashank-k-y",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
