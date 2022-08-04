@@ -3369,7 +3369,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/22443239?v=4",
       "profile": "https://gitlab.gwdg.de/users/hanna.varachkina/contributed",
       "contributions": [
-        "content"
+        "content",
+        "bug"
       ]
     }
   ],
