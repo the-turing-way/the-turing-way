@@ -11,7 +11,7 @@ This is a repo for our awesome collaboration workshop called "Git Good" :tada:
 5.
 6.
 7.
-8.
+8.Winny Nekesa Akullo
 9.
 10.
 11.
