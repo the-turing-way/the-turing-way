@@ -23,6 +23,6 @@ This is a repo for our awesome collaboration workshop called "Git Good" :tada:
 17.
 18.
 19.
-20.
+20. Sophia Batchelor
 
 *
