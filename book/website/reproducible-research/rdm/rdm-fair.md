@@ -26,8 +26,8 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 In brief, FAIR data should be:
 
-**Findable:** The first step in (re)using data is to find them!
-Descriptive metadata (information about the data such as keywords) are essential.
+**Findable:** The first step in (re)using data is to find it!
+Descriptive metadata (information about the data such as keywords) is essential.
 
 **Accessible:** Once the user finds the data and software they need to know how to access it.
 Data could be openly available but it is also possible that authentication and authorisation procedures are necessary.
