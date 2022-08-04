@@ -7,7 +7,7 @@ This is a repo for our awesome collaboration workshop called "Git Good" :tada:
 1.
 2. 
 3. 
-4.
+4. Sara King
 5.
 6.
 7.
