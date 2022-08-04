@@ -3360,7 +3360,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/53834942?v=4",
       "profile": "https://www.linkedin.com/in/susanwg/",
       "contributions": [
-        "content"
+        "content",
+        "bug"
       ]
     },
     {
@@ -3377,6 +3378,15 @@
       "name": "Danping",
       "avatar_url": "https://avatars.githubusercontent.com/u/54056456?v=4",
       "profile": "https://github.com/dpdong19",
+      "contributions": [
+        "bug"
+        ]
+      },
+      {
+      "login": "JadeHotchkiss",
+      "name": "JadeHotchkiss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25898078?v=4",
+      "profile": "https://github.com/JadeHotchkiss",
       "contributions": [
         "bug"
       ]
