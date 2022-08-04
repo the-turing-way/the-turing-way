@@ -19,5 +19,5 @@ Communication network for sharing, learning and teaching. _The Turing Way_ proje
 In this guide, we welcome contributions to developing chapters and guidance on effectively communicating the data-driven outcome to different audience types who may or may not be aware of scientific data analytics.
 We are excited to support data scientists develop skills ranging from how to make your work openly available, interactive visualisation, how to give a talk, writing your first paper, and being interviewed by the media.
 
-_The Turing Way_ itself is a [Jupyter Book](https://jupyterbook.org/intro.html), so please also consider how we can make our communications more exciting!
+_The Turing Way_ itself is a [Jupyter Book](https://jupyterbook.org/intro.html), which is an open source tool for building beautiful, **publication-quality** books, websites and documents from source material that contains computational content. Please also consider how we can make our communications about this more exciting!
 Check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) to get involved.
