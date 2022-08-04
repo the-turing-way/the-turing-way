@@ -8,7 +8,7 @@ This is a repo for our awesome collaboration workshop called "Git Good" :tada:
 2. 
 3. 
 4.
-5.
+5.TueloNtlotlang
 6.
 7.
 8.
