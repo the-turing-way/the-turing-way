@@ -13,7 +13,7 @@ This is a repo for our awesome collaboration workshop called "Git Good" :tada:
 7.Asma Kacem
 8.
 9.
-10.
+10. Hanna Varachkina
 11.
 12.
 13.
