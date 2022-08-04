@@ -3363,6 +3363,15 @@
         "content",
         "bug"
       ]
+    },
+    {
+      "login": "TueloNtlotlang",
+      "name": "TueloNtlotlang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72657722?v=4",
+      "profile": "https://github.com/TueloNtlotlang",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
