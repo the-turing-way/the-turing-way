@@ -4,7 +4,7 @@
 This is a repo for our awesome collaboration workshop called "Git Good" :tada:
 
 ## Name
-1.
+1. Jade Hotchkiss 
 2. 
 3. 
 4.
