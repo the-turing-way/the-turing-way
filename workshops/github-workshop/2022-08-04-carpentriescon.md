@@ -3,17 +3,21 @@
 ## About 
 This is a repo for our awesome collaboration workshop called "Git Good" :tada:
 
+The link to this page can be found here: https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/github-workshop/2022-08-04-carpentriescon.md
+
 ## Name
-1.
+1. Jade Hotchkiss 
 2. 
-3. 
+3. Susan Gichuki 
 4.
 5.
 6.
-7.
-8.Winny Nekesa Akullo
+7. Asma Kacem
+8. Winny Nekesa Akullo
+7. Asma Kacem
+8.
 9.
-10.
+10. Hanna Varachkina
 11.
 12.
 13.
@@ -23,6 +27,6 @@ This is a repo for our awesome collaboration workshop called "Git Good" :tada:
 17.
 18.
 19.
-20.
+20. Sophia Batchelor
 
 *
