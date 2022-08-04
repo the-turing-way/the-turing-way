@@ -10,7 +10,7 @@ This is a repo for our awesome collaboration workshop called "Git Good" :tada:
 4.
 5.
 6.
-7.
+7.Asma Kacem
 8.
 9.
 10.
