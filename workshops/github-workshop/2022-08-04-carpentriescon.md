@@ -14,8 +14,6 @@ The link to this page can be found here: https://github.com/alan-turing-institut
 6.
 7. Asma Kacem
 8. Winny Nekesa Akullo
-7. Asma Kacem
-8.
 9.
 10. Hanna Varachkina
 11.
