@@ -10,8 +10,8 @@ This is a repo for our awesome collaboration workshop called "Git Good" :tada:
 4.
 5.
 6.
-7.
-8.Winny Nekesa Akullo
+7. Asma Kacem
+8. Winny Nekesa Akullo
 9.
 10.
 11.
@@ -23,6 +23,6 @@ This is a repo for our awesome collaboration workshop called "Git Good" :tada:
 17.
 18.
 19.
-20.
+20. Sophia Batchelor
 
 *
