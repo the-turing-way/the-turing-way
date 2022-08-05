@@ -24,7 +24,7 @@ _The Turing Way_ è una guida per condurre data science in maniera riproducibile
 *The Turing Way è un libro, una comunità e una collaborazione globale.*
 
 Tutte le parti interessate, tra cui studenti, ricercatori, software engineers, capi progetto e team di finanziamento, sono incoraggiati a usare _The Turing Way_ per capire i propri ruoli e responsabilità nella riproducibilità in data science. 
-Puoi leggere il libro [online](https://github.com/alan-turing-institute/the-turing-way), contribuire al progetto come dettagliato in [questa guida](/CONTRIBUTING.md) e riusare tutti i materiali (controlla la [licenza](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
+Puoi leggere il libro [online](https://github.com/alan-turing-institute/the-turing-way), contribuire al progetto come dettagliato in [questa guida](/CONTRIBUTING.md) e riusare tutti i materiali (controlla la [licenza](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md)).
 
 [![Questo è uno screenshot del libro online. Mostra una delle illustrazioni all'inizio del libro. In questa figura, c'è una strada dove ci sono negozi per le varie data science skills. I clienti, con il loro carrello, possono entrare e uscire a loro piacimento e scegliere ciò che gli serve.](/book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
 
@@ -84,7 +84,7 @@ Per questo motivo, ci sono diversi modi in cui è possibile contribuire in base 
 Ai membri della comunità vengono date opportunità per imparare nuove abilità, condividere le proprie idee e collaborare con altri.
 Questa comunità rende possibile per i propri membri, e li incoraggia, a fare da guida per contribuzioni a The Turing way e ad altri progetti open source.
 
-Abbiamo creato un [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) per aiutarti a presentare e condividere _The Turing Way_.
+Abbiamo creato un [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/main/communications/promotion-pack) per aiutarti a presentare e condividere _The Turing Way_.
 
 ### Citare _The Turing Way_
 
@@ -103,7 +103,7 @@ Se hai ancora dei dubbi o delle domande [contattaci](#get-in-touch).
 
 ### Citare le immagini di _The Turing Way_
 
-Le illustrazioni su _The Turing Way_ sono state create da artisti di [Scriberia](https://www.scriberia.co.uk/) durante i [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) il 17 maggio 2019 a Manchester ed il 28 maggio 2019 e il 21 febbraio 2020 a Londra.
+Le illustrazioni su _The Turing Way_ sono state create da artisti di [Scriberia](https://www.scriberia.co.uk/) durante i [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/book-dash) il 17 maggio 2019 a Manchester ed il 28 maggio 2019 e il 21 febbraio 2020 a Londra.
 Descrivono una varietà di contenuti del manuale, gli sforzi collaborativi della community e il progetto _The Turing Way_ in generale.
 
 Le illustrazioni sono disponibili su Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) sotto licenza CC-BY.
