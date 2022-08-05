@@ -8,8 +8,8 @@ The link to this page can be found here: https://github.com/alan-turing-institut
 ## Name
 1. Jade Hotchkiss 
 2. 
-3. Susan Gichuki 
-4.
+3. Susan Gichuki
+4. Sara King
 5.
 6.
 7. Asma Kacem
