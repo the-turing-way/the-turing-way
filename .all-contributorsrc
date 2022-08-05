@@ -3381,17 +3381,17 @@
       "contributions": [
         "bug"
       ]
-     },
-     {
+    },
+    {
       "login": "dpdong19",
       "name": "Danping",
       "avatar_url": "https://avatars.githubusercontent.com/u/54056456?v=4",
       "profile": "https://github.com/dpdong19",
       "contributions": [
         "bug"
-        ]
-      },
-      {
+      ]
+    },
+    {
       "login": "JadeHotchkiss",
       "name": "JadeHotchkiss",
       "avatar_url": "https://avatars.githubusercontent.com/u/25898078?v=4",
@@ -3407,6 +3407,16 @@
       "profile": "https://github.com/sarasrking",
       "contributions": [
         "bug"
+        ]
+    },
+    {
+      "login": "gcroci2",
+      "name": "Giulia Crocioni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55382553?v=4",
+      "profile": "https://www.linkedin.com/in/giulia-crocioni/",
+      "contributions": [
+        "translation",
+        "review"
       ]
     }
   ],
