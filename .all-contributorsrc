@@ -3129,7 +3129,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/18509789?v=4",
       "profile": "http://www.aleesteele.com",
       "contributions": [
-        "review"
+        "review",
+        "bug"
       ]
     },
     {
@@ -3407,7 +3408,7 @@
       "profile": "https://github.com/sarasrking",
       "contributions": [
         "bug"
-        ]
+      ]
     },
     {
       "login": "gcroci2",
