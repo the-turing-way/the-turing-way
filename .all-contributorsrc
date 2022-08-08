@@ -1736,7 +1736,8 @@
         "maintenance",
         "talk",
         "test",
-        "eventOrganizing"
+        "eventOrganizing",
+        "bug"
       ]
     },
     {
@@ -3407,7 +3408,7 @@
       "profile": "https://github.com/sarasrking",
       "contributions": [
         "bug"
-        ]
+      ]
     },
     {
       "login": "gcroci2",
