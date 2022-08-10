@@ -3438,6 +3438,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "klbarnes20",
+      "name": "Kelly Barnes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64787509?v=4",
+      "profile": "https://github.com/klbarnes20",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
