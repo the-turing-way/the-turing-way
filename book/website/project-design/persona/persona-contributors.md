@@ -94,7 +94,7 @@ They attend online webinars and watch videos on Youtube in their spare time to l
 5. **Networked Participation** - Robin mentions _The Turing Way_ and what she learned about using GitHub Actions during one of her team's stand-ups, promoting their use to her colleagues.
 6. **Leadership** - Robin gives a lightning talk at a London tech event about GitHub Actions and her contributions to _The Turing Way_. She praises the inclusiveness of the project and invites more industry experts to check out the resource and open issues on topics that they can contribute to or would like to learn more about.
 
-If the personas described here do not reflect your experience, and if getting involved with _The Turing Way_ or using its resource are challenging in any way for you, please open an issue or get in contact on our [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) letting us know what your persona or pathway might look like!
+If the personas described here do not reflect your experience, and if getting involved with The Turing Way or using its resource are challenging in any way for you, please open an issue or get in contact on our [Slack channel](https://theturingway.slack.com/) letting us know what your persona or pathway might look like!
 This process will not only help the _The Turing Way_ team members in getting you onboarded, but we will be able to improve the community documents including the [README](https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md) and [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) to make it more relatable and usable for the wider community.
 
 ## Reference:
