@@ -3,8 +3,6 @@
 
 ## Summary
 
-> Conversation as Collaboration
-
 In an Open Source project, a significant amount of collaboration between the core or leadership team and the wider community takes place in the form of online interactions (likely many of them!).
 It is therefore really important to plan carefully _how_ and _where_ these interactions take place.
 Community interactions should maintain the transparency and openness of the project to facilitate the growth of your community, and the choice of the platforms should ensure that your project is welcoming, accessible, and secure for its collaborators.
