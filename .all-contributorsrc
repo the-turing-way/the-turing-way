@@ -1736,7 +1736,8 @@
         "maintenance",
         "talk",
         "test",
-        "eventOrganizing"
+        "eventOrganizing",
+        "bug"
       ]
     },
     {
