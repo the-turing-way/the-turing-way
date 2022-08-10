@@ -36,7 +36,7 @@ This is another contribution that can be discussed and prepared collaboratively 
 
 ## Connecting through social media
 
-Everyone is welcome to join our Gitter channel for informal discussions.
+Everyone is welcome to join our [Slack workspace](https://theturingway.slack.com/) for informal discussions.
 They can also sign up to receive our monthly newsletter: [https://tinyletter.com/TuringWay/](https://tinyletter.com/TuringWay/).
 We are on Twitter as [@turingway](https://twitter.com/turingway), where we send regular updates.
 

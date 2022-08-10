@@ -1736,7 +1736,8 @@
         "maintenance",
         "talk",
         "test",
-        "eventOrganizing"
+        "eventOrganizing",
+        "bug"
       ]
     },
     {
@@ -3129,7 +3130,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/18509789?v=4",
       "profile": "http://www.aleesteele.com",
       "contributions": [
-        "review"
+        "review",
+        "bug"
       ]
     },
     {
@@ -3352,6 +3354,89 @@
       "contributions": [
         "content",
         "review"
+      ]
+    },
+    {
+      "login": "sgichuki",
+      "name": "sgichuki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53834942?v=4",
+      "profile": "https://www.linkedin.com/in/susanwg/",
+      "contributions": [
+        "content",
+        "bug"
+      ]
+    },
+    {
+      "login": "TueloNtlotlang",
+      "name": "TueloNtlotlang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72657722?v=4",
+      "profile": "https://github.com/TueloNtlotlang",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "shashank-k-y",
+      "name": "Shashank",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74789167?v=4",
+      "profile": "https://github.com/shashank-k-y",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "dpdong19",
+      "name": "Danping",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54056456?v=4",
+      "profile": "https://github.com/dpdong19",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "JadeHotchkiss",
+      "name": "JadeHotchkiss",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25898078?v=4",
+      "profile": "https://github.com/JadeHotchkiss",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "sarasrking",
+      "name": "Sara King",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48195568?v=4",
+      "profile": "https://github.com/sarasrking",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "gcroci2",
+      "name": "Giulia Crocioni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55382553?v=4",
+      "profile": "https://www.linkedin.com/in/giulia-crocioni/",
+      "contributions": [
+        "translation",
+        "review"
+      ]
+    },
+    {
+      "login": "snehashish-ghosh98",
+      "name": "snehashish-ghosh98",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106345869?v=4",
+      "profile": "https://github.com/snehashish-ghosh98",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "FrozenLines",
+      "name": "FrozenLines",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103727912?v=4",
+      "profile": "https://github.com/FrozenLines",
+      "contributions": [
+        "bug"
       ]
     }
   ],
