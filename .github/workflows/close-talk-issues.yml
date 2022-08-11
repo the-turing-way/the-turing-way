@@ -7,6 +7,8 @@ on:
     # Run every Monday at 00:00 UTC
     - cron: "0 0 * * 1"
 
+# We set environment variables here so that they are easy to change if the labels
+# or the Community Manager changes
 env:
   # The label assigned to talks issues
   TALK_LABEL: "talks-and-workshops"
