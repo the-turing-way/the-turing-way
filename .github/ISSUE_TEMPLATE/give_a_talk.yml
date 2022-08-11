@@ -21,7 +21,7 @@ body:
       label: Details of the talk
       description: Where are you presenting? Please provide a link to the event if available
   - type: checkboxes
-    id: checklist
+    id: pre-talk-checklist
     attributes:
       label: Pre-talk checklist
       description: Steps to prepare your presentation
