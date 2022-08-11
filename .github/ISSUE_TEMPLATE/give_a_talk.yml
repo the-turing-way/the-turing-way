@@ -15,7 +15,7 @@ body:
       placeholder: please use the format YYYY-MM-DD
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: talk_details
     attributes:
       label: Details of the talk
