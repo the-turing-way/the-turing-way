@@ -32,7 +32,7 @@ body:
         - label: Double check acknowledgements slide for TTW team, license info, Scriberia link, any additional acknowledgements
         - label: Double check contact info for TTW links (book, Twitter, GitHub, Slack, newsletter), your own contact into
   - type: checkboxes
-    id: checklist
+    id: post-talk-checklist
     attributes:
       label: Post-talk checklist
       description: Steps to share your presentation
