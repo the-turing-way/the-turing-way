@@ -3446,6 +3446,24 @@
       "profile": "https://github.com/peranti",
       "contributions": [
         "bug"
+        ]
+      },
+      {
+      "login": "acrall",
+      "name": "acrall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17599316?v=4",
+      "profile": "https://github.com/acrall",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "ubdbra001",
+      "name": "Dan Brady",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18421270?v=4",
+      "profile": "https://github.com/ubdbra001",
+      "contributions": [
+        "bug"
       ]
     }
   ],
