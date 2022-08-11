@@ -3447,6 +3447,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "ubdbra001",
+      "name": "Dan Brady",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18421270?v=4",
+      "profile": "https://github.com/ubdbra001",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
