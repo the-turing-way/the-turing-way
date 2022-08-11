@@ -21,23 +21,16 @@ body:
       label: Details of the talk
       description: Where are you presenting? Please provide a link to the event if available
   - type: checkboxes
-    id: pre-talk-checklist
+    id: checklist
     attributes:
-      label: Pre-talk checklist
-      description: Steps to prepare your presentation
+      label: Checklist
+      description: Access TTW slides, check acknowledgements, and share your presentation
       options:
         - label: Schedule your talk and let the community know in TTW Slack. If you’d like feedback and/or to schedule a practice talk, ask in the TTW Slack!
         - label: Download template(s) from the [promotion pack](https://drive.google.com/drive/folders/1mzGmbJkPnP5q1goQesxDc_E5zAPL0eTF?usp=sharing) to ensure stylistic concistency
         - label: If you re-used slides from a specific talk, please acknowledge the original author of the slides 
         - label: Double check acknowledgements slide for TTW team, license info, Scriberia link, any additional acknowledgements
         - label: Double check contact info for TTW links (book, Twitter, GitHub, Slack, newsletter), your own contact into
-  - type: checkboxes
-    id: post-talk-checklist
-    attributes:
-      label: Post-talk checklist
-      description: Steps to share your presentation
-      options:
-        - label: Upload your slides as a PDF to [Zenodo](zenodo.org/)
-        - label: Under "Communities", tag with the-turing-way
+        - label: Upload your slides to [Zenodo](zenodo.org/), tag with the-turing-way under "Communities"
         - label: Share the Zenodo link and a recording (if available) in TTW Slack!
  
