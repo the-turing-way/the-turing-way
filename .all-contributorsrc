@@ -3446,9 +3446,9 @@
       "profile": "https://github.com/peranti",
       "contributions": [
         "bug"
-        ]
-      },
-      {
+      ]
+    },
+    {
       "login": "acrall",
       "name": "acrall",
       "avatar_url": "https://avatars.githubusercontent.com/u/17599316?v=4",
@@ -3462,6 +3462,15 @@
       "name": "Dan Brady",
       "avatar_url": "https://avatars.githubusercontent.com/u/18421270?v=4",
       "profile": "https://github.com/ubdbra001",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "RabeaMue",
+      "name": "Rabea Müller",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42644523?v=4",
+      "profile": "https://github.com/RabeaMue",
       "contributions": [
         "bug"
       ]
