@@ -28,7 +28,7 @@ body:
       options:
         - label: Schedule your talk and let the community know in TTW Slack. If you’d like feedback and/or to schedule a practice talk, ask in the TTW Slack!
         - label: Download template(s) from the [promotion pack](https://drive.google.com/drive/folders/1mzGmbJkPnP5q1goQesxDc_E5zAPL0eTF?usp=sharing) to ensure stylistic concistency
-        - label: Generate a DOI on [Zenodo](zenodo.org/) and upload slides when ready. Tag with the-turing-way under "Communities". Zenodo allows [versioning](https://help.zenodo.org/#versioning), so we encourage you to upload your slides before your talk and update the file with any changes after
+        - label: Generate a DOI on [Zenodo](zenodo.org/) and upload your slides when ready, preferably in the original format along with a PDF or any other format you are using. Tag with "the-turing-way" under **Communities**. Zenodo allows [versioning](https://help.zenodo.org/#versioning), so we encourage you to upload your slides before your talk and add additional file(s) with any changes after
         - label: Check all ackowledgements (bottom right corner of each slide) and add the DOI for your presentation and your personal contact info if desired
         - label: If you re-used slides from a specific talk, please acknowledge the original author of the slides 
         - label: Double check acknowledgements slide for TTW team, license info, Scriberia link, any additional acknowledgements
