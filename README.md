@@ -463,10 +463,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://pranavmahajan25.github.io/"><img src="https://avatars0.githubusercontent.com/u/33349653?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pranav Mahajan</b></sub></a><br /><a href="#content-PranavMahajan25" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/przemekdolata96"><img src="https://avatars3.githubusercontent.com/u/26312462?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Przemek Dolata</b></sub></a><br /><a href="#translation-przemekdolata96" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/RabeaMue"><img src="https://avatars.githubusercontent.com/u/42644523?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rabea Müller</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3ARabeaMue" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://rainsworth.github.io"><img src="https://avatars3.githubusercontent.com/u/10600877?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rachael Ainsworth</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=rainsworth" title="Documentation">📖</a> <a href="#eventOrganizing-rainsworth" title="Event Organizing">📋</a> <a href="#ideas-rainsworth" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-rainsworth" title="Answering Questions">💬</a> <a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Arainsworth" title="Reviewed Pull Requests">👀</a> <a href="#talk-rainsworth" title="Talks">📢</a></td>
     <td align="center"><a href="https://github.com/radka-j"><img src="https://avatars2.githubusercontent.com/u/29207091?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Radka Jersakova</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Aradka-j" title="Bug reports">🐛</a> <a href="#content-radka-j" title="Content">🖋</a></td>
     <td align="center"><a href="https://bast.fr"><img src="https://avatars.githubusercontent.com/u/5120679?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Radovan Bast</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Abast" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/rafaelaqueirozg/"><img src="https://avatars.githubusercontent.com/u/42815135?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rafaela Queiroz</b></sub></a><br /><a href="#translation-rafaelaqueirozg" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/bantya"><img src="https://avatars.githubusercontent.com/u/16685565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rahul Thakare</b></sub></a><br /><a href="#translation-bantya" title="Translation">🌍</a></td>
   </tr>
   <tr>
@@ -476,6 +479,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://remi-gau.github.io/"><img src="https://avatars3.githubusercontent.com/u/6961185?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Remi Gau</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3ARemi-Gau" title="Bug reports">🐛</a> <a href="#content-Remi-Gau" title="Content">🖋</a></td>
     <td align="center"><a href="https://reshamas.github.io"><img src="https://avatars0.githubusercontent.com/u/2507232?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Reshama Shaikh</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Areshamas" title="Bug reports">🐛</a> <a href="#content-reshamas" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/rjjgilham"><img src="https://avatars0.githubusercontent.com/u/18323072?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Richard Gilham</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=rjjgilham" title="Documentation">📖</a> <a href="#ideas-rjjgilham" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="http://rplant.netlify.app"><img src="https://avatars.githubusercontent.com/u/11060480?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Richard Plant</b></sub></a><br /><a href="#content-richplant" title="Content">🖋</a></td>
   </tr>
   <tr>
@@ -485,6 +490,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://rohitmidha23.github.io"><img src="https://avatars1.githubusercontent.com/u/38888530?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rohit Midha</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=RohitMidha23" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/romeroclaudino"><img src="https://avatars1.githubusercontent.com/u/6520331?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Romero Silva</b></sub></a><br /><a href="#translation-romeroclaudino" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/rosesisk"><img src="https://avatars2.githubusercontent.com/u/52324551?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rose Sisk</b></sub></a><br /><a href="#ideas-rosesisk" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/rosiehigman"><img src="https://avatars2.githubusercontent.com/u/15738325?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rosie Higman</b></sub></a><br /><a href="#question-rosiehigman" title="Answering Questions">💬</a> <a href="#eventOrganizing-rosiehigman" title="Event Organizing">📋</a> <a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Arosiehigman" title="Reviewed Pull Requests">👀</a> <a href="#ideas-rosiehigman" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
   <tr>
@@ -494,6 +501,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://snastase.github.io/"><img src="https://avatars2.githubusercontent.com/u/3496566?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Samuel Nastase</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Asnastase" title="Bug reports">🐛</a></td>
     <td align="center"><a href="http://www.svrijn.nl"><img src="https://avatars.githubusercontent.com/u/8833517?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sander</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Asjvrijn" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://sksahu.net"><img src="https://avatars1.githubusercontent.com/u/23085664?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sangram K Sahu</b></sub></a><br /><a href="#ideas-sk-sahu" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://github.com/sarasrking"><img src="https://avatars.githubusercontent.com/u/48195568?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sara King</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Asarasrking" title="Bug reports">🐛</a></td>
   </tr>
   <tr>
@@ -526,6 +535,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://stefanjanssen.nl"><img src="https://avatars1.githubusercontent.com/u/6250246?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stefan Janssen</b></sub></a><br /><a href="#translation-StefanJanssen95" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/sverhoeven"><img src="https://avatars1.githubusercontent.com/u/1713488?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stefan Verhoeven</b></sub></a><br /><a href="#content-sverhoeven" title="Content">🖋</a></td>
     <td align="center"><a href="http://sdruskat.net"><img src="https://avatars0.githubusercontent.com/u/3007126?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stephan Druskat</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/commits?author=sdruskat" title="Documentation">📖</a> <a href="#content-sdruskat" title="Content">🖋</a> <a href="#ideas-sdruskat" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://damtp.cam.ac.uk/user/eglen"><img src="https://avatars1.githubusercontent.com/u/1095067?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stephen Eglen</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Asje30" title="Reviewed Pull Requests">👀</a></td>
   </tr>
   <tr>
     <td align="center"><a href="http://damtp.cam.ac.uk/user/eglen"><img src="https://avatars1.githubusercontent.com/u/1095067?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Stephen Eglen</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Asje30" title="Reviewed Pull Requests">👀</a></td>
