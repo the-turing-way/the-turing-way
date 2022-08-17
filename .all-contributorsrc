@@ -3448,6 +3448,7 @@
         "bug"
       ]
     },
+    {
       "login": "peranti",
       "name": "Pradeep Eranti",
       "avatar_url": "https://avatars.githubusercontent.com/u/9472741?v=4",
@@ -3479,6 +3480,8 @@
       "name": "Rabea Müller",
       "avatar_url": "https://avatars.githubusercontent.com/u/42644523?v=4",
       "profile": "https://github.com/RabeaMue",
+      "contributions": [
+        "bug"
       ]
     },
     {
@@ -3486,6 +3489,8 @@
       "name": "Sarah Young",
       "avatar_url": "https://avatars.githubusercontent.com/u/11933741?v=4",
       "profile": "https://github.com/rootsandberries",
+      "contributions": [
+        "bug"
       ]
     },
     {
