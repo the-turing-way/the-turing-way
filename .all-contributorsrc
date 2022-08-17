@@ -3528,6 +3528,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "martinjeanphd",
+      "name": "Martin Jean",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44728169?v=4",
+      "profile": "https://github.com/martinjeanphd",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
