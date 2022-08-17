@@ -3440,13 +3440,13 @@
       ]
     },
     {
-       "login": "brynnelliott",
-       "name": "brynnelliott",
-       "avatar_url": "https://avatars.githubusercontent.com/u/104380698?v=4",
-       "profile": "https://github.com/brynnelliott",
-        "contributions": [
-         "bug"
-     ]
+      "login": "brynnelliott",
+      "name": "brynnelliott",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104380698?v=4",
+      "profile": "https://github.com/brynnelliott",
+      "contributions": [
+        "bug"
+      ]
     },
     {
       "login": "pascalflohr",
@@ -3507,6 +3507,15 @@
       "name": "iramosp",
       "avatar_url": "https://avatars.githubusercontent.com/u/8619939?v=4",
       "profile": "https://github.com/iramosp",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "merlijn-de-smit",
+      "name": "merlijn-de-smit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110983126?v=4",
+      "profile": "https://github.com/merlijn-de-smit",
       "contributions": [
         "bug"
       ]
