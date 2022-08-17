@@ -52,3 +52,4 @@ There are also situations when researchers make use of more general metadata sta
 
 In this case, a text file with discipline specific metadata can be added as part of the documentation.
 
+Want to learn more about Metadata and Metadata Standards? Watch an [introduction video](https://commons.esipfed.org/node/1422).

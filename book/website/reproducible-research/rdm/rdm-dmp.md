@@ -62,7 +62,7 @@ If you do not select a license others will not be able to reuse your data withou
 
 You can use this [checklist](https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/checklist/) to see if you have everything covered in your Data Management Plan. 
 
-## Further Reading Recommendations
+## Additional Resources
 
 - [DataOne education modules](https://www.dataone.org/education-modules)
 - [UK Data Services data management information](https://ukdataservice.ac.uk/learning-hub/research-data-management/)
@@ -72,3 +72,4 @@ You can use this [checklist](https://ukdataservice.ac.uk/learning-hub/research-d
 Publishing, 2015.
 - Briney, K.A., Coates, H. and Goben, A., 2020 Foundational Practices of Research Data Management. Research Ideas and Outcomes 6: e56508. [https://doi.org/10.3897/rio.6.e56508](https://doi.org/10.3897/rio.6.e56508)
 - Hart EM, Barmby P, LeBauer D, Michonneau F, Mount S, Mulrooney P, et al. (2016) Ten Simple Rules for Digital Data Storage. PLoS Comput Biol 12(10): e1005097. [https://doi.org/10.1371/journal.pcbi.1005097](https://doi.org/10.1371/journal.pcbi.1005097)
+- Video on [elements of a DMP](https://commons.esipfed.org/node/1442).
