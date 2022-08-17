@@ -3440,11 +3440,20 @@
       ]
     },
     {
-      "login": "brynnelliott",
-      "name": "brynnelliott",
-      "avatar_url": "https://avatars.githubusercontent.com/u/104380698?v=4",
-      "profile": "https://github.com/brynnelliott",
-       "contributions": [
+       "login": "brynnelliott",
+       "name": "brynnelliott",
+       "avatar_url": "https://avatars.githubusercontent.com/u/104380698?v=4",
+       "profile": "https://github.com/brynnelliott",
+        "contributions": [
+         "bug"
+     ]
+    },
+    {
+      "login": "pascalflohr",
+      "name": "pascalflohr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43570914?v=4",
+      "profile": "https://github.com/pascalflohr",
+      "contributions": [
         "bug"
       ]
     },
@@ -3489,7 +3498,7 @@
       "name": "Sarah Young",
       "avatar_url": "https://avatars.githubusercontent.com/u/11933741?v=4",
       "profile": "https://github.com/rootsandberries",
-       "contributions": [
+      "contributions": [
         "bug"
       ]
     },
