@@ -3519,6 +3519,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "jsteyn",
+      "name": "Jannetta Steyn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6432530?v=4",
+      "profile": "http://www.jannetta.com",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
