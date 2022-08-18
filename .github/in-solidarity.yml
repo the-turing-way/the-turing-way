@@ -1,10 +1,6 @@
 rules:
   master:
-    level: off
-  master_excluding_when_with_preceding_slash:
-  regex:
-    - /(?<!\/)master/g
-  level: failure
+    level: warning
   slave:
     level: failure
   whitelist:
