@@ -15,7 +15,7 @@
 
 ## Emergent strategy
 
-Emergent strategy by [adrienne marie brown](https://adriennemareebrown.net/) teaches us that change is inevitable, and that we can shape change. 
+Emergent strategy by [adrienne marie brown](https://adriennemareebrown.net/) ({cite:ps}`brown2017emergent`) teaches us that change is inevitable, and that we can shape change. 
 By practising at the small scale/fractals we set the patterns for the whole system. 
 We all hold pieces of the solution and will need to transform ourselves to transform the world. 
 By being accountable, practising generosity and vulnerability, we can connect better to others build lasting relationships. 
@@ -40,7 +40,7 @@ There should be time for reflection and evaluation to apply lessons learned to f
 (er-activism-cultural-change-transitions)=
 ## Managing Transitions
 
-Managing Transitions by William Bridges teaches us that a change will always be accompanied by a transition. 
+Managing Transitions by William Bridges ({cite:ps}`Bridges2017transitions`) teaches us that a change will always be accompanied by a transition. 
 A transition begins when something needs to be let go, and sits in between the old and the new situation. 
 This transition phase can be insecure for people who will have to adjust to a new situation, but also an opportunity for innovation to happen if people are adequately resourced and supported (by policies, groupings, procedures). 
 
@@ -70,7 +70,7 @@ People will not be able to invest in this, if the new behaviours are not adequat
 (er-activism-cultural-change-leading)=
 ## Leading change
 
-According to John P Kotter there are eight steps in change:
+According to John P Kotter (({cite:ps}`Kotter2012change`)) there are eight steps in change:
 1.	Establishing a sense of urgency by identifying potential crises/opportunities.
 2.	Creating the guiding coalition, a team that works together to lead the change.
 3.	Developing a vision to direct the change and strategy to achieve this vision.
