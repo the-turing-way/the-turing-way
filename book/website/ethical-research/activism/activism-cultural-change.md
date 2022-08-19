@@ -3,16 +3,25 @@
 # Cultural Change
 
 (er-activism-cultural-change-what)=
-
 ## What is cultural change?
 
-“inspiring a change in behaviour in persons/organisations, with a lasting impact, strengthening the core values of persons/organisation
+Culture is the social environment in which you partake. 
+Culture has an influence on your views, values, concerns and your identity. 
+Culture can be difficult to change as it is hard to address directly and shared values can be deeply ingrained ({cite:ps}`Kotter2012change`). 
+Instead, norms of behaviour may be easier to change. 
 
+Here, cultural change is defined as “inspiring a change in behaviour in persons/organisations, with a lasting impact, strengthening the core values of persons/organisation"
+
+(er-activism-cultural-change-when)=
 ## Where/when will you encounter cultural change?
+As your social environment is continuously changing, you're likely to experience some degree of cultural change on a daily basis. 
+This might not feel like it, because the actual change that takes place will take months or even years. 
+Generally, you will either be affected by cultural change, or, you want to invoke cultural change by adjusting existing practices yourself. 
+When you're affected by cultural change taking place in your environment, it may be difficult to change your practises and behaviour. 
+Cassandra Worthy wrote 'Change Enthusiasm' ({cite:ps}`Worthy2021change`) to provide you with exercises and tools to see changes as an opportunity for learning and growth. Below follow short summaries of work on cultural change, written by adrienne marie brown, William and Susan Bridges and John P Kotter. 
 
 
 (er-activism-cultural-change-emergent-strategy)=
-
 ## Emergent strategy
 
 Emergent strategy by [adrienne marie brown](https://adriennemareebrown.net/) ({cite:ps}`brown2017emergent`) teaches us that change is inevitable, and that we can shape change. 
@@ -40,15 +49,15 @@ There should be time for reflection and evaluation to apply lessons learned to f
 (er-activism-cultural-change-transitions)=
 ## Managing Transitions
 
-Managing Transitions by William Bridges ({cite:ps}`Bridges2017transitions`) teaches us that a change will always be accompanied by a transition. 
+Managing Transitions by William and Susan Bridges ({cite:ps}`Bridges2017transitions`) teaches us that a change will always be accompanied by a transition. 
 A transition begins when something needs to be let go, and sits in between the old and the new situation. 
 This transition phase can be insecure for people who will have to adjust to a new situation, but also an opportunity for innovation to happen if people are adequately resourced and supported (by policies, groupings, procedures). 
 
-There are four P's in transitions (see Managing Transitions by William Bridges): 
-- Purpose: people have to understand the logic behind the outcome and feel that the change is necessary
-- Picture: people need to experience how the outcome will look and feel
-- Plan: people need a step-by-step plan to know what they have to do
-- Part to play: especially if people have something to loose, they need to be able to play a part in the transition phase and eventual outcome
+There are four P's in transitions ({cite:ps}`Bridges2017transitions`): 
+- Purpose: people have to understand the logic behind the outcome and feel that the change is necessary.
+- Picture: people need to experience how the outcome will look and feel.
+- Plan: people need a step-by-step plan to know what they have to do.
+- Part to play: especially if people have something to loose, they need to be able to play a part in the transition phase and eventual outcome.
 
 To manage transitions it needs to be clear what the problem (reason for change) is. 
 People will not change if they are not experiencing the problem and are convinced something needs to be adjusted. 
@@ -70,7 +79,7 @@ People will not be able to invest in this, if the new behaviours are not adequat
 (er-activism-cultural-change-leading)=
 ## Leading change
 
-According to John P Kotter (({cite:ps}`Kotter2012change`)) there are eight steps in change:
+According to John P Kotter ({cite:ps}`Kotter2012change`) there are eight steps in change:
 1.	Establishing a sense of urgency by identifying potential crises/opportunities.
 2.	Creating the guiding coalition, a team that works together to lead the change.
 3.	Developing a vision to direct the change and strategy to achieve this vision.
@@ -95,11 +104,12 @@ An effective vision is imaginable (it conveys a picture of the future), desirabl
 This vision should be easy to communicate, in under five minutes. 
 The effective communication of the vision depends on the simplicity of the message, whether appropriate metaphors or pictures are used, the communication channels used, how often the message is repeated and how the behaviour is modelled by important people. 
 
-**Culture** can be difficult to change as it is hard to address directly and has impact on human behaviour. 
-Shared values are more deeply ingrained than norms of behaviour, which may be easier to change. 
 
+
+(er-activism-cultural-change-summary)=
 ## Summary
 
+(er-activism-cultural-change-resources)=
 ## Resources
 
 - Change Enthusiasm by Cassandra Worthy ([podcast episode](https://open.spotify.com/episode/4J0o5Ob5NsTTfrfkJgHqP4?si=85ad27579ce64308))
