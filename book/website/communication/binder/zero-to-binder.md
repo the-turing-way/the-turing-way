@@ -40,6 +40,7 @@ You will need:
 
 `````{tab-set}
 ````{tab-item} Python
+:sync: key1
 1) Create a new repo on GitHub called "my-first-binder"
    - Make sure the repository is **public**, _not private_!
    - Don't forget to initialise the repo with a README!
@@ -47,6 +48,7 @@ You will need:
 ````
 
 ````{tab-item} Julia
+:sync: key2
 1) Create a new repo on GitHub called "my-first-binder"
    - Make sure the repository is **public**, _not private_!
    - Don't forget to initialise the repo with a README!
@@ -61,6 +63,7 @@ You will need:
 ````
 
 ````{tab-item} R
+:sync: key3
 1) Create a new repo on GitHub called "my-first-binder"
    - Make sure the repository is **public**, _not private_!
    - Don't forget to initialise the repo with a README!
@@ -117,16 +120,19 @@ While you wait, BinderHub (the backend of Binder) is:
 
 ````{tab-set}
 ```{tab-item} Python
+:sync: key1
 1. From the launch panel, select "Terminal"
 2. In the new terminal window, type `python hello.py` and press return
 ```
 
 ```{tab-item} Julia
+:sync: key2
 1. From the launch panel, select "Terminal"
 2. In the new terminal window, type `julia hello.jl` and press return
 ```
 
 ```{tab-item} R
+:sync: key3
 1. From the launch panel, select "Terminal"
 2. In the new terminal window, type `Rscript -e 'source("hello.R")'` and then press return
 ```
@@ -143,6 +149,7 @@ It was easy to get started, but our environment is barebones - let's add a **dep
 
 `````{tab-set}
 ````{tab-item} Python
+:sync: key1
 1) In your repo, create a file called `requirements.txt`
 2) Add a line that says: `numpy==1.14.5`
 3) Check for typos! Then commit to the `main` branch
@@ -150,6 +157,7 @@ It was easy to get started, but our environment is barebones - let's add a **dep
 ````
 
 ````{tab-item} Julia
+:sync: key2
 1) In your repo, edit the `Project.toml` file
 2) Add a new block that says:
 
@@ -163,6 +171,7 @@ It was easy to get started, but our environment is barebones - let's add a **dep
 ````
 
 ````{tab-item} R
+:sync: key3
 1) In your repo, create a file called `install.R`
 2) Add a line that says: `install.packages("readr")`
 3) Check for typos! Then commit to the `main` branch
@@ -193,6 +202,7 @@ This time, BinderHub will read the configuration file you added and install the 
 
 ````{tab-set}
 ```{tab-item} Python
+:sync: key1
 In the above example, we used two equals signs (`==`) to pin the version of `numpy`.
 This tells Binder to install that _specific_ version.
 
@@ -203,6 +213,7 @@ Finally, you could not provide a version number at all (just the name of the lib
 ```
 
 ```{tab-item} Julia
+:sync: key2
 In the above example, we copied a hash into our `Project.toml` file which is related to the version of the package we'd like to install.
 For a full dependency graph, we would also need to include a `Manifest.toml` file which would document dependencies of dependencies.
 Between these two files, we are able to instantiate an exact replication of a Julia environment.
@@ -212,6 +223,7 @@ The truth is that you'd never do it manually, the built-in package manager `Pkg`
 ```
 
 ```{tab-item} R
+:sync: key3
 In the above example, we specified that we want to use R in our project by including a date in `runtime.txt`.
 The date tells Binder which CRAN snapshot to source R and packages from.
 These snapshots are sourced from the [RStudio Package Manager](https://packagemanager.rstudio.com) (RSPM).
@@ -230,6 +242,7 @@ For more robust and specific version pinning in R, have a look at the [`renv`](h
 
 `````{tab-set}
 ````{tab-item} Python
+:sync: key1
 1) From the launch panel, select "Python 3" from the Notebook section to open a new notebook
 2) Type the following into a new cell:
 
@@ -248,6 +261,7 @@ For more robust and specific version pinning in R, have a look at the [`renv`](h
 ````
 
 ````{tab-item} Julia
+:sync: key2
 1) From the launch panel, select "Julia" from the Notebook section to open a new Julia notebook
 2) Type the following into a new cell:
 
@@ -261,6 +275,7 @@ For more robust and specific version pinning in R, have a look at the [`renv`](h
 ````
 
 ````{tab-item} R
+:sync: key3
 1) From the launch panel, select "R" from the Notebook section to open a new R notebook
 2) Type the following into a new cell:
 
@@ -359,6 +374,7 @@ However, that is not to say that they are the _only_ groups of people who should
 
 `````{tab-set}
 ````{tab-item} Python
+:sync: key1
 1) Go to your GitHub repo and create a file called `postBuild`
 2) In `postBuild`, add a single line reading: `wget -q -O gapminder.csv http://bit.ly/2uh4s3g`
    - `wget` is a program which retrieves content from web servers.
@@ -391,6 +407,7 @@ See this [Software Carpentry lesson](https://swcarpentry.github.io/python-novice
 ````
 
 ````{tab-item} Julia
+:sync: key2
 1) Go to your GitHub repo and create a file called `postBuild`
 2) In `postBuild`, add a single line reading: `wget -q -O gapminder.csv http://bit.ly/2uh4s3g`
    - `wget` is a program which retrieves content from web servers.
@@ -431,6 +448,7 @@ plot(years, aus_gdp)
 ````
 
 ````{tab-item} R
+:sync: key3
 1) Go to your GitHub repo and create a file called `postBuild`
 2) In `postBuild`, add a single line reading: `wget -q -O gapminder.csv http://bit.ly/2uh4s3g`
    - `wget` is a program which retrieves content from web servers.
