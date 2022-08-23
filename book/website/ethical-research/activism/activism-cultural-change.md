@@ -21,6 +21,9 @@ When you're affected by cultural change taking place in your environment, it may
 Cassandra Worthy wrote 'Change Enthusiasm' ({cite:ps}`Worthy2021change`) to provide you with exercises and tools to see changes as an opportunity for learning and growth.
 As an Early Career Researcher you may also have to deal with systemic cultural change in your discipline. 
 The work by {cite:ps}`Kent2022change` contains recommendations that may support you in this change journey.
+You might be involved at your institute in a committee that is trying to update a policy, or add a new one (see the [Guide to Accelerate Public Access to Research Data](https://www.aplu.org/news-and-media/News/aplu-and-aau-issue-guide-to-accelerate-public-access-to-research-data) for some pointers that are applicable beyond a research data policy). 
+You may be advocating to make your work environment more inclusive, at the office or within your research association.
+
 Below follow short summaries of work on cultural change, written by adrienne marie brown, William and Susan Bridges and John P Kotter. 
 
 
