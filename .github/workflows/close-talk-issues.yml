@@ -75,7 +75,7 @@ jobs:
           for paged_issues in all_issues:
               for issue in paged_issues:
                   # Extract date from issue body
-                  match = pattern.match(issue.body)
+                  match = pattern.search(issue.body)
 
                   # Convert into a datetime object
                   talk_date = datetime.strptime(match[0], "%Y-%m-%d")
