@@ -93,7 +93,8 @@ jobs:
 
           # Cleanly exist the script if there are no issues to close
           if len(issues_to_close) == 0:
-              sys.exit("No issues to close")
+              print("No issues to close")
+              sys.exit()
 
           # Close talk issues that are in the past
           for issue in issues_to_close:
@@ -136,10 +137,10 @@ jobs:
               api.issues.create(
                   owner=owner,
                   repo=repo,
-                  title="Recent talks to promote in the newsletter",
+                  title=":robot: Recent talks to promote in the newsletter",
                   body=body,
                   labels=newsletter_label,
-                  assignee=community_manager,
+                  assignees=community_manager,
               )
           else:
               # An issue exists, add list of newly closed issues as a comment
