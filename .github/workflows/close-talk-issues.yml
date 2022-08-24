@@ -135,18 +135,26 @@ jobs:
 
           if create_new_issue:
               # An issue doesn't exist, create one
-              url = f"https://api.github.com/repos/{owner}/{repo}/issues"
-              headers = {
-                  "Accept": "application/vnd.github+json",
-                  "Authorization": "token ${{ secrets.GITHUB_TOKEN }}",
-              }
-              params = {
-                  "title": ":robot: Recent talks to promote in the newsletter",
-                  "body": body,
-                  "assignees": [community_manager],
-                  "labels": [newsletter_label],
-              }
-              resp = requests.post(url, headers=headers, json=params)
+            #   url = f"https://api.github.com/repos/{owner}/{repo}/issues"
+            #   headers = {
+            #       "Accept": "application/vnd.github+json",
+            #       "Authorization": "token ${{ secrets.GITHUB_TOKEN }}",
+            #   }
+            #   params = {
+            #       "title": ":robot: Recent talks to promote in the newsletter",
+            #       "body": body,
+            #       "assignees": [community_manager],
+            #       "labels": [newsletter_label],
+            #   }
+            #   resp = requests.post(url, headers=headers, json=params)
+              api.issues.create(
+                  owner=owner,
+                  repo=repo,
+                  title="Recent talks to promote in the newsletter",
+                  body=body,
+                  labels=[newsletter_label],
+                  assignee=[community_manager],
+              )
           else:
               # An issue exists, add list of newly closed issues as a comment
               api.issues.create_comment(
