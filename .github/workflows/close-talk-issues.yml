@@ -37,6 +37,7 @@ jobs:
       - name: Close talk issues that have happened and create a new issue to promote them in the newsletter
         shell: python
         run: |
+          import sys
           import re
           from datetime import datetime
 
@@ -89,6 +90,10 @@ jobs:
                           "issue_number": issue.number,
                       }
                       issues_to_close.append(issue_info)
+
+          # Cleanly exist the script if there are no issues to close
+          if len(issues_to_close) == 0:
+              sys.exit("No issues to close")
 
           # Close talk issues that are in the past
           for issue in issues_to_close:
