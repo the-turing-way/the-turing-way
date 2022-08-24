@@ -40,7 +40,7 @@ jobs:
           import re
           from datetime import datetime
 
-          from ghapi import GhApi, paged
+          from ghapi.all import GhApi, paged
 
           # Set variables
           owner, repo = r"""${{ github.repository }}""".split("/")
