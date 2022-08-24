@@ -30,8 +30,16 @@ body:
         - label: Download template(s) from the [promotion pack](https://drive.google.com/drive/folders/1mzGmbJkPnP5q1goQesxDc_E5zAPL0eTF?usp=sharing) to ensure stylistic consistency
         - label: Generate a DOI on [Zenodo](zenodo.org/) and upload your slides when ready, preferably in the original format along with a PDF or any other format you are using. Tag with "the-turing-way" under **Communities**. Zenodo allows [versioning](https://help.zenodo.org/#versioning), so we encourage you to upload your slides before your talk and add additional file(s) with any changes after
         - label: Check all ackowledgements (bottom right corner of each slide) and add the DOI for your presentation and your personal contact info if desired
-        - label: If you re-used slides from a specific talk, please acknowledge the original author of the slides 
+        - label: If you re-used slides from a specific talk, please acknowledge the original author of the slides
         - label: Double check acknowledgements slide for TTW team, license info, Scriberia link, any additional acknowledgements
         - label: Double check contact info for TTW links (book, Twitter, GitHub, Slack, newsletter), your own contact into
         - label: Share the Zenodo link and a recording (if available) in TTW Slack!
- 
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        :warning: _Warning_ :warning:
+
+        _This issue will be automatically closed by a GitHub Actions workflow when more_
+        _than 7 days have passed since the date of the talk. If you are still working_
+        _on this issue when that happens, please feel free to reopen it!_
