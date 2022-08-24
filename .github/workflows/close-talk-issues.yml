@@ -87,7 +87,7 @@ jobs:
 
                   if to_be_closed:
                       issue_info = {
-                          "repository_url": issue.repository_url,
+                          "issue_url": issue.html_url,
                           "issue_number": issue.number,
                       }
                       issues_to_close.append(issue_info)
@@ -109,7 +109,7 @@ jobs:
           # Construct Markdown text listing all the issues that have been closed
           body = (
               "Please add the following talks to the next newsletter!\n\n"
-              + "\n".join([f"- {issue['repository_url']}" for issue in issues_to_close])
+              + "\n".join([f"- {issue['issue_url']}" for issue in issues_to_close])
           )
 
           # Check if a newsletter issue is already open
@@ -135,15 +135,6 @@ jobs:
 
           if create_new_issue:
               # An issue doesn't exist, create one
-              # api.issues.create(
-              #     owner=owner,
-              #     repo=repo,
-              #     title=":robot: Recent talks to promote in the newsletter",
-              #     body=body,
-              #     labels=newsletter_label,
-              #     assignees=community_manager,
-              # )
-
               url = f"https://api.github.com/repos/{owner}/{repo}/issues"
               headers = {
                   "Accept": "application/vnd.github+json",
@@ -156,8 +147,6 @@ jobs:
                   "labels": [newsletter_label],
               }
               resp = requests.post(url, headers=headers, json=params)
-              print(resp)
-              print(resp.text)
           else:
               # An issue exists, add list of newly closed issues as a comment
               api.issues.create_comment(
