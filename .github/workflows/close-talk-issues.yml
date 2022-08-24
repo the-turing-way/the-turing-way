@@ -137,7 +137,7 @@ jobs:
               api.issues.create(
                   owner=owner,
                   repo=repo,
-                  title="Recent talks to promote in the newsletter",
+                  title=":robot: Recent talks to promote in the newsletter",
                   body=body,
                   labels=[newsletter_label],
                   assignees=[community_manager],
