@@ -30,9 +30,9 @@ jobs:
         with:
           python-version: "3.10"
 
-      - name: Install ghapi to interact with the GitHub REST API
+      - name: Install ghapi and requests to interact with the GitHub REST API
         run: |
-          pip install ghapi
+          pip install ghapi requests
 
       - name: Close talk issues that have happened and create a new issue to promote them in the newsletter
         shell: python
@@ -41,6 +41,7 @@ jobs:
           import re
           from datetime import datetime
 
+          import requests
           from ghapi.all import GhApi, paged
 
           # Set variables
@@ -134,14 +135,29 @@ jobs:
 
           if create_new_issue:
               # An issue doesn't exist, create one
-              api.issues.create(
-                  owner=owner,
-                  repo=repo,
-                  title=":robot: Recent talks to promote in the newsletter",
-                  body=body,
-                  labels=newsletter_label,
-                  assignees=community_manager,
-              )
+              # api.issues.create(
+              #     owner=owner,
+              #     repo=repo,
+              #     title=":robot: Recent talks to promote in the newsletter",
+              #     body=body,
+              #     labels=newsletter_label,
+              #     assignees=community_manager,
+              # )
+
+              url = f"https://api.github.com/repos/{owner}/{repo}/issues"
+              headers = {
+                  "Accept": "application/vnd.github+json",
+                  "Authorization": "token ${{ secrets.GITHUB_TOKEN }}",
+              }
+              params = {
+                  "title": ":robot: Recent talks to promote in the newsletter",
+                  "body": body,
+                  "assignees": [community_manager],
+                  "labels": [newsletter_label],
+              }
+              resp = requests.post(url, headers=headers, json=params)
+              print(resp)
+              print(resp.text)
           else:
               # An issue exists, add list of newly closed issues as a comment
               api.issues.create_comment(
