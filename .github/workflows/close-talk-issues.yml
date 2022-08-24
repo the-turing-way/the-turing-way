@@ -117,6 +117,7 @@ jobs:
           )
 
           for paged_issues in all_issues:
+              print(bool(paged_issues))
               if paged_issues:
                   create_new_issue = False
                   # We take the number of the first returned issue here
