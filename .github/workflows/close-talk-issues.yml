@@ -116,17 +116,15 @@ jobs:
               per_page=100,
           )
 
-          for paged_issues in all_issues:
-              for issue in paged_issues:
-                print(bool(issue))
-                if issue:
-                    create_new_issue = False
-                    # We take the number of the first returned issue here
-                    issue_number = issue.number
-                else:
-                    create_new_issue = True
-                    issue_number = None
-                break
+          paged_issues = next((p for p in all_issues), False)
+
+          if paged_issues:
+              create_new_issue = False
+              # We take the number of the first returned issue here
+              issue_number = paged_issues[0].number
+          else:
+              create_new_issue = True
+              issue_number = None
 
           if create_new_issue:
               # An issue doesn't exist, create one
