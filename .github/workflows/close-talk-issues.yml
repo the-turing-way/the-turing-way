@@ -37,6 +37,9 @@ jobs:
       - name: Close talk issues that have happened and create a new issue to promote them in the newsletter
         shell: python
         run: |
+          import re
+          from datetime import datetime
+
           from ghapi import GhApi, paged
 
           # Set variables
@@ -62,14 +65,23 @@ jobs:
           # Blank list to store issues to be closed in
           issues_to_close = []
 
+          # Get today's date
+          today = datetime.now()
+
+          # Establish regular expression for matching dates
+          pattern = re.compile("[0-9]{4}-[0-1][0-9]-[0-3][0-9]")
+
           # Loop over talk issues and determine if they have happened or not yet
           for paged_issues in all_issues:
               for issue in paged_issues:
-                  #=== Add in code to extract date from issue body here ===#
-                  # body = issue.body
+                  # Extract date from issue body
+                  match = pattern.match(issue.body)
 
-                  #=== Add code to establish if date is in the past or not here ===#
-                  # to_be_closed = some_bool_expr
+                  # Convert into a datetime object
+                  talk_date = datetime.strptime(match[0], "%Y-%m-%d")
+
+                  # Establish if talk_date is more than 7 days in the past from today
+                  to_be_closed = (talk_date - today).days < -7
 
                   if to_be_closed:
                       issue_info = {
