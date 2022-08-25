@@ -10,4 +10,3 @@ sphinxcontrib-bibtex~=2.2.0
 sphinx-click
 sphinx_inline_tabs
 sphinxext-rediraffe~=0.2.3
-Jinja2<3.1
