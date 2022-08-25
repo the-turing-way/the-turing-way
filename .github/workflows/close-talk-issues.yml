@@ -37,10 +37,11 @@ jobs:
       - name: Close talk issues that have happened and create a new issue to promote them in the newsletter
         shell: python
         run: |
+          import sys
           import re
           from datetime import datetime
 
-          from ghapi import GhApi, paged
+          from ghapi.all import GhApi, paged
 
           # Set variables
           owner, repo = r"""${{ github.repository }}""".split("/")
@@ -75,7 +76,7 @@ jobs:
           for paged_issues in all_issues:
               for issue in paged_issues:
                   # Extract date from issue body
-                  match = pattern.match(issue.body)
+                  match = pattern.search(issue.body)
 
                   # Convert into a datetime object
                   talk_date = datetime.strptime(match[0], "%Y-%m-%d")
@@ -85,10 +86,15 @@ jobs:
 
                   if to_be_closed:
                       issue_info = {
-                          "repository_url": issue.repository_url,
+                          "issue_url": issue.html_url,
                           "issue_number": issue.number,
                       }
                       issues_to_close.append(issue_info)
+
+          # Cleanly exist the script if there are no issues to close
+          if len(issues_to_close) == 0:
+              print("No issues to close")
+              sys.exit()
 
           # Close talk issues that are in the past
           for issue in issues_to_close:
@@ -102,7 +108,7 @@ jobs:
           # Construct Markdown text listing all the issues that have been closed
           body = (
               "Please add the following talks to the next newsletter!\n\n"
-              + "\n".join([f"- {issue['repository_url']}" for issue in issues_to_close])
+              + "\n".join([f"- {issue['issue_url']}" for issue in issues_to_close])
           )
 
           # Check if a newsletter issue is already open
@@ -116,25 +122,25 @@ jobs:
               per_page=100,
           )
 
-          for paged_issues in all_issues:
-              if paged_issues:
-                  create_new_issue = False
-                  # We take the number of the first returned issue here
-                  issue_number = paged_issues[0].number
-              else:
-                  create_new_issue = True
-                  issue_number = None
-              break
+          paged_issues = next((p for p in all_issues), False)
+
+          if paged_issues:
+              create_new_issue = False
+              # We take the number of the first returned issue here
+              issue_number = paged_issues[0].number
+          else:
+              create_new_issue = True
+              issue_number = None
 
           if create_new_issue:
               # An issue doesn't exist, create one
               api.issues.create(
                   owner=owner,
                   repo=repo,
-                  title="Recent talks to promote in the newsletter",
+                  title=":robot: Recent talks to promote in the newsletter",
                   body=body,
-                  labels=newsletter_label,
-                  assignee=community_manager,
+                  labels=[newsletter_label],
+                  assignees=[community_manager],
               )
           else:
               # An issue exists, add list of newly closed issues as a comment
