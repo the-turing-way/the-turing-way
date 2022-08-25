@@ -11,4 +11,4 @@ Please create a GitHub issue using the ["Give a talk" issue template](https://gi
 We ask that you include certain acknowledgments in your talk to make sure contributors are credited. You'll find all the info you need in the presentation templates as well as the GitHub issue checklist.
 
 ### After Your Talk
-Keep spreading the word! Please [save your slides as a PDF](https://www.wikihow.com/Convert-Powerpoint-to-PDF) and upload to [Zenodo](https://zenodo.org/), and don't forget to tag "the-turing-way" under Communities.
+Keep spreading the word! Please save your slides in their original format and [as a PDF](https://www.wikihow.com/Convert-Powerpoint-to-PDF) and upload to [Zenodo](https://zenodo.org/communities/the-turing-way/), and don't forget to tag "the-turing-way" under Communities.
