@@ -40,6 +40,6 @@ body:
         ---
         :warning: _Warning_ :warning:
 
-        _This issue will be automatically closed by a GitHub Actions workflow when more_
+        _This issue will be automatically closed by a [GitHub Actions](https://docs.github.com/en/actions) workflow when more_
         _than 7 days have passed since the date of the talk. If you are still working_
         _on this issue when that happens, please feel free to reopen it!_
