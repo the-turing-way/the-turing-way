@@ -11,7 +11,7 @@ body:
     id: summary
     attributes:
       label: Summary of proposed chapter
-      description: Please provide a detailed description of the chapter you are writing or proposing. If you have started writing the chapter, also provide details about the pull request you've made as well as the branch you've been working from. Please provide as much context as possible and link to other related issues and/or pull requests. Think about answering the following questions:
+      description: Please provide a detailed description of the chapter you are writing or proposing. If you have started writing the chapter, also provide details about the pull request you've made as well as the branch you've been working from. Please provide as much context as possible and link to other related issues and pull requests. Think about answering the following questions:
     What is the name and purpose of your chapter?
     Why are you proposing it?
     What Guide is the chapter for?
