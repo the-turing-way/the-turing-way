@@ -1,4 +1,4 @@
-name: "New Chapter Template"
+name: "\U0001F4D6 New Chapter Template"
 description: Template for proposing a new chapter
 title: 
 labels: 
@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please complete the following sections when you want to propose a new chapter. If you have write access to the repository, please also assign the appropriate label (or labels) to your issue. Note that text within html comment tags will not be rendered.
+      Please complete the following sections when you want to propose a new chapter. If you have write access to the repository, please also assign the appropriate label (or labels) to your issue.
   - type: textarea
     id: summary
     attributes:
@@ -28,7 +28,7 @@ body:
       label: Resources
       description: List and describe any external resources that may be helpful when writing the chapter. We suggest using bullets (-) and/or checkboxes (-[])
 - type: textarea
-    id: who
+    id: who_can_help
     attributes:
       label: Who can help?
       description: We suggest using bullets (-) and/or checkboxes (-[])
