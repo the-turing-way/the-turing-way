@@ -17,7 +17,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 No previous knowledge is needed. 
 Related information to Open Scholarship can be found in the {ref}`rr-open` chapter, that also has a more detailed summary of the importance and motivation behind Open Scholarship. 
 
-(rr-open-summary)=
+(rr-open-summary-1)=
 ## Summary
 
 Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship [{term}def<Open Scholarship>]. 
