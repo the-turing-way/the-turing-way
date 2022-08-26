@@ -5,8 +5,7 @@ labels:
 body:
   - type: markdown
     attributes:
-      value: |
-      Please complete the following sections when you want to propose a new chapter. If you have write access to the repository, please also assign the appropriate label (or labels) to your issue.
+      value: "Please complete the following sections when you want to propose a new chapter. If you have write access to the repository, please also assign the appropriate label (or labels) to your issue."
   - type: textarea
     id: summary
     attributes:
