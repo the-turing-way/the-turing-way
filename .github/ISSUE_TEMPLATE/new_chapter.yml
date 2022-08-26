@@ -1,6 +1,6 @@
 name: "\U0001F4D6 New Chapter Template"
 description: Template for proposing a new chapter
-title: 
+title: "<title>"
 labels: 
 body:
 - type: markdown
