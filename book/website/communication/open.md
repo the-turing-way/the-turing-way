@@ -4,7 +4,7 @@
 
 ```{figure} ../figures/evolution-open-research.jpg
 ---
-name: evolution-open-research
+name: evolution-open-research-2
 alt: This image shows a researcher evolving their research practices to move towards the era of open research. The image starts with the person looking anxious about engaging with open science, slowly they take a few steps, feel comfortable about sharing their work, and finally start to collaborate with others.
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
