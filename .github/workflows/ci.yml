@@ -7,11 +7,13 @@ on:
       - main
     paths:
       - "book/**"
+      - ".github/workflows/**"
   pull_request:
     branches:
       - main
     paths:
       - "book/**"
+      - ".github/workflows/**"
 
 # set the default shell to bash for all jobs
 # this is important for the windows OS!
