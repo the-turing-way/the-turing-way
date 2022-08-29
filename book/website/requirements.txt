@@ -2,7 +2,7 @@
 # Useful for MyBinder configuration
 pandas==1.4.3
 numpy==1.23.2
-matplotlib==3.2.2
+matplotlib==3.5.2
 datascience
 folium
 jupyter-book==0.13
