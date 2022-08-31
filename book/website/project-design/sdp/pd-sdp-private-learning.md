@@ -29,7 +29,7 @@ of Differential Privacy](https://privacytools.seas.harvard.edu/files/privacytool
 
 ## Learning with privacy
 
-Beyond sharing data with other researchers, we can also share our trained models, or make them available as a service: carrying out predictions on data provided by others without the need for them to invest time and resources in training their own systems. However, this sharing can also carry risks for personal privacy. For instance, many ML solutions require users to send personal data to a central server to process, exposing them to the risk of interception or misuse. The model itself may learn sequences from the dataset that we don't wish to be retained, a process referred to as unintended memorization {ref:ps}`carliniSecretSharerEvaluating2019`. This could be particularly harmful when considering models dealing with large amounts of user-created text {cite:ps}`brownWhatDoesIt2022`.
+Beyond sharing data with other researchers, we can also share our trained models, or make them available as a service: carrying out predictions on data provided by others without the need for them to invest time and resources in training their own systems. However, this sharing can also carry risks for personal privacy. For instance, many ML solutions require users to send personal data to a central server to process, exposing them to the risk of interception or misuse. The model itself may learn sequences from the dataset that we don't wish to be retained, a process referred to as unintended memorization {cite:ps}`carliniSecretSharerEvaluating2019`. This could be particularly harmful when considering models dealing with large amounts of user-created text {cite:ps}`brownWhatDoesIt2022`.
 
 ### Federated learning
 
