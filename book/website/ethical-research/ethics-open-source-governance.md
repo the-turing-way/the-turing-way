@@ -104,8 +104,8 @@ Relying on technology to be your governance is equally risky.
 Technology can be an incredible tool, but so long as it’s the only tool you have put in place for making governance decisions, it’s likely to be a potential problem.
 This is why it is important to start the process of governance selections with self-reflection, so that you are aware of all the requiremeents in the projects and prepared to implement ethical measures for them.
 
-(er-ethics-open-source-governance-summary)=
-## Summary
+(er-ethics-open-source-governance-conclusion)=
+## Conclusion
 
 By its nature, open source technology can deliver benefits to all societies. 
 However, projects started with all the best of intentions can still evolve into something malicious through poor guidance and oversight. 
