@@ -16,7 +16,7 @@ body:
       - Why are you proposing it?
       - What Guide is the chapter for?
       - What branch are you working on?
-      - Have you made any Pull Requests
+      - Have you made any Pull Requests?
   validations:
     required: true
 - type: textarea
