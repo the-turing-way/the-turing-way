@@ -23,12 +23,6 @@ body:
   validations:
     required: true
 - type: input
-  id: prs
-  attributes:
-    label: Pull request
-    description: |
-      Please link to any pull requests created for your chapter
-- type: input
   id: branch
   attributes:
     label: Branch
@@ -58,12 +52,16 @@ body:
   id: updates
   attributes:
     label:  Updates
-    description: Please update the initial issue with important updates (for example, actions or decisions taken) regularly so that all the important information is available at one glance. You may use the checklist here to get started or create a new checklist in the comments.
+    description: Please add comments to this issue with important updates (for example, actions or decisions taken) regularly so that all the important information is available at one glance. You may use the checklist here to get started or create a new checklist in the comments.
     options:
       - label: Write chapter outline
       - label: Add material to the chapter
       - label: Combine materials into a readable chapter
       - label: Proofread
+      - label: Create PR and link in the comments
       - label: Request reviews
       - label: Address reviews
       - label: Merge to main branch
+- type: markdown
+  attributes:
+    value: "When you are ready to create a pull request for your chapter don't forget to add a link in the comments on this issue"
