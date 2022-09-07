@@ -5,25 +5,45 @@ labels: book
 body:
 - type: markdown
   attributes:
-    value: "Please complete the following sections when you want to propose a new chapter. If you have write access to the repository, please also assign the appropriate label (or labels) to your issue."
+    value: "Please complete the following sections to propose a new chapter. If you have the necessary permissions, please also assign the appropriate label (or labels) to your issue, otherwise at TTW team member will assign labels later."
+- type: input
+  id: title
+  attributes:
+    label: Title of proposed chapter
+    description: |
+      Please provide a proposed title
+  validations:
+    required: true
+- type: input
+  id: guide
+  attributes:
+    label: Guide
+    description: |
+      Which Guide will you chapter be a part of? Please reference the (book)[https://the-turing-way.netlify.app/welcome.html]'s table of contents to see which Guides make up the book
+  validations:
+    required: true
+- type: input
+  id: prs
+  attributes:
+    label: Pull request
+    description: |
+      Please link to any pull requests created for your chapter
+- type: input
+  id: branch
+  attributes:
+    label: Branch
+    description: |
+      Please provide the name of the branch you are working from
 - type: textarea
   id: summary
   attributes:
     label: Summary of proposed chapter
     description: |
-      Please provide a detailed description of the chapter you are writing or proposing. If you have started writing the chapter, also provide details about the pull request you've made as well as the branch you've been working from. Please provide as much context as possible and link to other related issues and pull requests. Consider the following questions:
-      - What is the name and purpose of your chapter?
+      Please provide a detailed description of the chapter you are proposing. 
+      - What is the purpose of your chapter?
       - Why are you proposing it?
-      - What Guide is the chapter for?
-      - What branch are you working on?
-      - Have you made any Pull Requests?
   validations:
     required: true
-- type: textarea
-  id: discussion
-  attributes:
-    label: Discussion points
-    description: Use this section to highlight the outcomes of any discussions you have had with regards the development of this chapter. YOU MAY SKIP THIS SECTION
 - type: textarea
   id: resources
   attributes:
@@ -38,7 +58,7 @@ body:
   id: updates
   attributes:
     label:  Updates
-    description: Please update the initial issue with important updates (for example, actions or decisions taken) regularly so that all the important information is available at one glance. You may use the checklist here to get started, feel free to modify this list.
+    description: Please update the initial issue with important updates (for example, actions or decisions taken) regularly so that all the important information is available at one glance. You may use the checklist here to get started or create a new checklist in the comments.
     options:
       - label: Write chapter outline
       - label: Add material to the chapter
