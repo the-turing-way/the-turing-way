@@ -207,6 +207,11 @@ We recognise that the list below is very UK-centric and would welcome additions 
 * **Professional Scientists Australia**, Australia (union covering industry scientists)[website](https://scientists.professionalsaustralia.org.au/)
 * [General list of Trade Unions in Australia](https://en.wikipedia.org/wiki/List_of_trade_unions_in_Australia)
 
+#### The Netherlands
+* **Federatie Nederlandse Vakbeweging (FNV)** is the largest trade union in The Netherlands with over 1 million members [website](https://www.fnv.nl/)
+* **Algemene Onderwijsbond (AOb)** has over 83.000 members and represents teachers and researchers in all education sectors [website](https://www.aob.nl/)
+* **Vakbond voor de wetenschap (VAWO)** was a labour union that specifically targetted scientific researchers which merged with the AOb in early 2022.
+
 (er-activism-unionisation-summary)=
 ## Summary
 
