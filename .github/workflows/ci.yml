@@ -7,11 +7,13 @@ on:
       - main
     paths:
       - "book/**"
+      - ".github/workflows/**"
   pull_request:
     branches:
       - main
     paths:
       - "book/**"
+      - ".github/workflows/**"
 
 # set the default shell to bash for all jobs
 # this is important for the windows OS!
@@ -26,7 +28,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest, macos-latest, windows-latest]
-        python_version: [3.10]
+        python_version: ['3.10']
       fail-fast: false  # Don't cancel all jobs if one fails
 
     runs-on: ${{ matrix.os }}
