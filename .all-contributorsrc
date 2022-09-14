@@ -3548,6 +3548,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "rickdkk",
+      "name": "rickdkk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33315062?v=4",
+      "profile": "https://orcid.org/0000-0003-2745-1963",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
