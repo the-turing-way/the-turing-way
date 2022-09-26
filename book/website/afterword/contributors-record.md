@@ -1658,6 +1658,13 @@ Such contributions are applicable when one or multiple members from a project or
 These contributions also include projects that build upon The Turing Way resources or collaborate with The Turing Way team members in various capacities.
 We acknowledge each of these contributing members individually and list their profiles under “Collaborating organisations and projects”.*
 
+## [Vrije Universiteit Amsterdam](https://vu.nl/en)
+
+The Vrije Universiteit Amsterdam (abbreviated as VU Amsterdam) is a public research university in Amsterdam, Netherlands, being founded in 1880. Although founded as a private institution, the VU has received government funding on a parity basis with public universities since 1970. 
+The Vrije Universiteit Amsterdam is commited to Open Science and to the accessibility of research output, namely publications and data. They are important to the visibility, verifiability and reusability of research, as stated in [VU Research Data Management policy](https://vu.nl/en/about-vu/more-about/rdm-policies).
+The contributions from VU Amsterdam have mainly focused on the Reproducible Research Chapter of _The Turing Way_.
+
+
 ## [Delft University of Technology - Faculty of Applied Sciences](https://www.tudelft.nl/en/faculty-of-applied-sciences)
 
 The Faculty of Applied Sciences is the largest of Delft University of Technology and focuses on finding innovative solutions to some of the problems faced by society.
