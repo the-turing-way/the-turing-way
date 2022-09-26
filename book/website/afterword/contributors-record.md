@@ -689,29 +689,6 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 * Personal Quote:
 > "I'm not from a tech field but I've learned so much about github as a tool for collaborative working: thanks so much for everyone who was part of the November 2020 book dash for all your useful advice!"
 
-### Lena Karvovskaya
-
-* Role: 
-  * Project Member: Volunteer (2021-Present)
-  * Book Dash Participant 2021
-  * Book Dash Planning Committee Member 2022
-* GitHub id: karvovskaya
-* Twitter: @ LangData
-* ORCID: [0000-0001-7777-5603](https://orcid.org/0000-0001-7777-5603)
-
-* Short bio:
-> Lena Karvovskaya is the Community Manager for Research Data Management and Open Science at the Vrije Universiteit Amsterdam (VU Amsterdam).
-> She works with support staff and researchers to facilitate the organizational change towards reproducible and transparent research culture.
-
-* Personal highlights:
-> I've been excited about the Turing Way for a long time. I am so happy and grateful that I could take part in the book dash. The wonderful team made me feel that every second of my time there was very well spent. With some help, I managed to do with my first proper pull request! Yay! I loved our interactions, our pomodoro sprints, the sharing of personal stuff. A special highlight was an opportunity to work with an artist to visualize my ideas. I feel proud that I contributed to this amazing project.
-
-* More information:
-> I will be carrying on working on the Peer Review chapter and hope to collaborate with @vhellon @EstherPlomp and other participants
-
-* Quotes:
-> Brené Brown: “There is no innovation and creativity without failure. Period.”
-
 
 ### Louise Bowler
 
@@ -1663,6 +1640,49 @@ We acknowledge each of these contributing members individually and list their pr
 The Vrije Universiteit Amsterdam (abbreviated as VU Amsterdam) is a public research university in Amsterdam, Netherlands, being founded in 1880. Although founded as a private institution, the VU has received government funding on a parity basis with public universities since 1970. 
 The Vrije Universiteit Amsterdam is commited to Open Science and to the accessibility of research output, namely publications and data. They are important to the visibility, verifiability and reusability of research, as stated in [VU Research Data Management policy](https://vu.nl/en/about-vu/more-about/rdm-policies).
 The contributions from VU Amsterdam have mainly focused on the Reproducible Research Chapter of _The Turing Way_.
+
+### Elisa Rodenburg
+
+* Role: Book Dash 2021 participant
+* GitHub id: @Elisa-on-GitHub 
+* ORCID: 0000-0001-6068-9792
+
+* Short bio: 
+> I'm a Research Data Steward in the University Library of Vrije Universiteit Amsterdam. I support researchers with questions about Research Data Management and Open Science, and I try to write some good guidance for them as part of this. With a team of IT colleagues, I'm also trying to build tools that support researchers with RDM. With @Karvovskaya and other colleagues I built two RDM- and Open Science-themed Escape Rooms, hoping that they teach the player something nice *and* let them have fun.
+
+* Personal highlights: 
+> Working together with the Scriberia artist Adrien Liard; meeting more of the community; creating my first pull request *and* having it merged; start contributing to this wonderful project.
+
+* More information: 
+> In my free time, I bake :cake: and swim :swimming_woman: (not always in that order)
+
+* Quotes: 
+> The Turing Way is not only a guidebook, but also a lovely community of creative, talented and welcoming professionals. It was great to have the chance to join the Book Dash and contribute to the project. I hope to be back the next time!
+
+### Lena Karvovskaya
+
+* Role: 
+  * Project Member: Volunteer (2021-Present)
+  * Book Dash Participant 2021
+  * Book Dash Planning Committee Member 2022
+* GitHub id: karvovskaya
+* Twitter: @ LangData
+* ORCID: [0000-0001-7777-5603](https://orcid.org/0000-0001-7777-5603)
+
+* Short bio:
+> Lena Karvovskaya is the Community Manager for Research Data Management and Open Science at the Vrije Universiteit Amsterdam (VU Amsterdam).
+> She works with support staff and researchers to facilitate the organizational change towards reproducible and transparent research culture.
+
+* Personal highlights:
+> I've been excited about the Turing Way for a long time. I am so happy and grateful that I could take part in the book dash. The wonderful team made me feel that every second of my time there was very well spent. With some help, I managed to do with my first proper pull request! Yay! I loved our interactions, our pomodoro sprints, the sharing of personal stuff. A special highlight was an opportunity to work with an artist to visualize my ideas. I feel proud that I contributed to this amazing project.
+
+* More information:
+> I will be carrying on working on the Peer Review chapter and hope to collaborate with @vhellon @EstherPlomp and other participants
+
+* Quotes:
+> Brené Brown: “There is no innovation and creativity without failure. Period.”
+
+
 
 
 ## [Delft University of Technology - Faculty of Applied Sciences](https://www.tudelft.nl/en/faculty-of-applied-sciences)
