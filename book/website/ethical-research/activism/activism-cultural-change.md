@@ -24,7 +24,7 @@ The work by {cite:ps}`Kent2022change` contains recommendations that may support 
 You might be involved at your institute in a committee that is trying to update a policy, or add a new one (see the [Guide to Accelerate Public Access to Research Data](https://www.aplu.org/news-and-media/News/aplu-and-aau-issue-guide-to-accelerate-public-access-to-research-data) for some pointers that are applicable beyond a research data policy). 
 You may be advocating to make your work environment more inclusive, at the office or within your research association.
 
-Below follow short summaries of work on cultural change, written by adrienne marie brown, William and Susan Bridges and John P Kotter. 
+Below follow short summaries of work on cultural change, written by Adrienne Marie Brown, William and Susan Bridges and John P. Kotter. 
 
 
 (er-activism-cultural-change-emergent-strategy)=
