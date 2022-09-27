@@ -3606,6 +3606,16 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "Trish-hub",
+      "name": "Trish",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78088054?v=4",
+      "profile": "https://github.com/Trish-hub",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
