@@ -3616,6 +3616,16 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "scjjb",
+      "name": "Jack Breen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77981425?v=4",
+      "profile": "https://github.com/scjjb",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
