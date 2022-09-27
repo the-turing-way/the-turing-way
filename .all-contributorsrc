@@ -3626,6 +3626,16 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "rdnfn",
+      "name": "Arduin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75615911?v=4",
+      "profile": "http://arduin.io",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
