@@ -26,6 +26,16 @@ Responsible AI licenses target specific concerns stemming from specific uses of 
 
 While RAILs are the first step towards enabling ethics-informed behavioral restrictions, OpenRAILs make a step further and seek to strike a balance between open access and responsible use of the licensed AI artifact. For further information on the implementation of a Responsible AI License, check the material jointly provided by [BigScience and RAIL Initiative](https://www.licenses.ai/blog/2022/8/18/naming-convention-of-responsible-ai-licenses).
 
+### Choosing an OpenRAIL
+
+```{figure} ../../figures/rail-diagram.png
+---
+name: rail-diagram
+alt: An illustration depicting a flow chart diagram for a decision making process on which OpenRAIL is the best choice for an ML project.
+---
+The OpenRAIL flow chart aids the selection and naming of a license for an ML project. Danish Contractor, Carlos Muñoz Ferrandis, Jenny Lee, & Daniel Mcduff. (2022, August).
+```
+
 ### Example: OpenRAIL-M
 
 The 2 main features of an OpenRAIL license are:
