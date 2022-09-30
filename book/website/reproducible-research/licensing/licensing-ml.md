@@ -1,10 +1,10 @@
 (rr-licensing-ml)=
 # Machine Learning Model Licenses
 
-Like a software license, a Machine Learning (ML) model license governs the use, redistribution of the model and/or algorithm, and distribution any derivatives of it. However, there are other components to an AI system, such as [data](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html), 
-[software and source code](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-software.html), or applications, which may have their own separate licenses. ML model licenses may restrict the use of the model for specific scenarios for which, due to ethics-informed concerns, or technical limitations of the model informed by its model card, the licensor is not comfortable that the model is used.
+Like a software license, a Machine Learning (ML) model license governs the use, redistribution of the model and/or algorithm, and distribution of any derivatives of it. However, there are other components to an AI system, such as [data](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html), 
+[source code](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-software.html), or applications, which may have their own separate licenses. ML model licenses may restrict the use of the model for specific scenarios for which, due to ethics-informed concerns and/or technical limitations of the model informed by its model card, the licensor is not comfortable that the model is used.
 
-While many ML models may utilise traditional software licensing models (e.g. MIT, Apache 2.0), 
+While many ML models may utilise open software licensing (e.g. MIT, Apache 2.0), 
 there are a number of ML model-specific licenses that may be developed for a specific model (e.g. [OPT-175B license](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/MODEL_LICENSE.md), [BigScience BLOOM RAIL v1.0 License](https://https://bigscience.huggingface.co/blog/the-bigscience-rail-license)), 
 company (e.g. [Microsoft Data Use Agreement for Open AI Model Development](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Rjfq)), or series of models (e.g. [BigScience OpenRAIL-M](https://www.licenses.ai/blog/2022/8/26/bigscience-open-rail-m-license) (Responsible AI License)). 
 
@@ -12,9 +12,7 @@ In summary, the growing list of ML licenses reflects the understanding that the 
 
 ## Reproduction and propagation of ML models
 
-Many similar or related versions of a model may exist, whether it is the evolution of a model family (e.g. [GPT-2](https://github.com/openai/gpt-2) and [GPT-3](https://github.com/openai/gpt-3)) or implementations of the model in different languages and frameworks (e.g. pix2pix in [Pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [Tensorflow](https://github.com/affinelayer/pix2pix-tensorflow)). This phenomenon is characteristic of modern ML models, where an active community creates many new versions based on an original ML model that may enable greater use for different user groups. Each version may have is own license, though some model developers are now requiring all downstream models to at least have the same base license as the original. In the most extreme cases, a model developer may choose to grant the license exclusively to a single entity or open every aspect of the model to the public domain. 
-
-For these model derivatives, licensing can also play an important role. In some cases, the original versions of the models may not be open source, but versions created by the community may be made available under open licenses on other platforms such as Github or HuggingFace. It may also be that each version has its own license, but like the "copyleft" license in the software world, some ML model developers are now requiring all downstream models to at least have the same base license as the original.
+Many similar or related versions of a model may exist, whether it is the evolution of a model family (e.g. [GPT-2](https://github.com/openai/gpt-2) and [GPT-3](https://github.com/openai/gpt-3)) or implementations of the model in different languages and frameworks (e.g. pix2pix in [Pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and [Tensorflow](https://github.com/affinelayer/pix2pix-tensorflow)). This phenomenon is characteristic of modern ML models, where an active community creates many new versions based on an original ML model that may enable greater use for different user groups. Each version may have its own license, though some model developers are now requiring all downstream models to at least have the same use-based restrictions as included in the original license. In the most extreme cases, a model developer may choose to grant the license exclusively to a single entity or open every aspect of the model to the public, by means of an open license, such as an Apache 2.0 or MIT open source licenses. 
 
 ## Open & Responsible ML Licenses
 
@@ -22,11 +20,11 @@ The "open source" approach to collaborative software development has permeated a
 
 However, open source licenses do not take the technical nature and capabilities of the ML model as a different artifact to software/source code into account, and are therefore ill-adapted to enabling a more responsible use of ML models.
 
-In order to balance the principles from open source with a growing demand of responsible ML development, use, and access, a new branch of ML licenses called Responsible AI Licenses (RAIL) emerged in 2019 with the [RAIL Initiative](https://www.licenses.ai/).Research initiatives such as [BigScience](https://bigscience.huggingface.co/) and companies such as [Hugging Face](https://huggingface.co/blog/open_rail) have decided to join efforts and push towards this direction along with the RAIL Initiative.
+In order to balance the principles from open source with a growing demand of responsible ML development, use, and access, a new branch of ML licenses called Responsible AI Licenses (RAIL) emerged in 2019 with the [RAIL Initiative](https://www.licenses.ai/). Research initiatives such as [BigScience](https://bigscience.huggingface.co/) and companies such as [Hugging Face](https://huggingface.co/blog/open_rail) have decided to join efforts and push towards this direction along with the RAIL Initiative.
 
-Responsible AI licenses target specific ethics-informed concerns by enacting use-based restrictions to mitigate potential harms associated with the use of AI-related products and services or component parts such as data, model, code, or applications. The integration of use-based restrictions clauses into open AI licenses brings up the ability to better control the use of AI artifacts and the capacity of enforcement to the licensor of the ML model, standing up for a responsible use of the released AI artifact, in case a misuse of the model is identified.
+Responsible AI licenses target specific concerns stemming from specific uses of an AI artefact by enacting use-based restrictions to mitigate potential harms associated with the use of AI-related products and services or component parts such as data, model, code, or applications. The integration of use-based restrictions clauses into open AI licenses brings up the ability to better control the use of AI artifacts and the capacity of enforcement to the licensor of the ML model, standing up for a responsible use of the released AI artifact, in case a misuse of the model is identified.
 
-While RAILs are the first step towards enabling ethics-informed behavioral restrictions, OpenRAILs go a step further and seek to strike a balance between open access and responsible use of the licensed AI artifact. For further information on the implementation of a Responsible AI License, check the material jointly provided by [BigScience and RAIL Initiative](https://www.licenses.ai/blog/2022/8/18/naming-convention-of-responsible-ai-licenses).
+While RAILs are the first step towards enabling ethics-informed behavioral restrictions, OpenRAILs make a step further and seek to strike a balance between open access and responsible use of the licensed AI artifact. For further information on the implementation of a Responsible AI License, check the material jointly provided by [BigScience and RAIL Initiative](https://www.licenses.ai/blog/2022/8/18/naming-convention-of-responsible-ai-licenses).
 
 ### Example: OpenRAIL-M
 
@@ -43,14 +41,14 @@ It is important to acknowledge that RAILs and OpenRAILs should not be conceived 
 
 ## Examples of ML models and their licenses
 
-The table below showcases several well-known examples of ML models in the filds of NLP, vision, and multimodal generatives. The aim of it is to inform the reader on the licensing options chosen by each of the projects which sometimes differ from one another. Licensing difference might stem from business models, research purposes or ethics-informed community values. Each license carries licensor's values and a message from the former to potential users.
+The table below showcases several well-known examples of ML models in the fields of NLP, vision, and multimodal generatives. The aim of it is to inform the reader on the licensing options chosen by each of the projects which sometimes differ from one another. Licensing differences might stem from business models, research purposes or ethics-informed community values. Each license carries licensor's values and a message from the former to potential users on how the model should be used.
 
 | Model | Model License | Description | Link to License |
 | -------- | -------- | -------- | -------- |
 | GPT-2  | MIT License + generated output disclaimer | Permissive open source license |https://github.com/openai/gpt-2/blob/master/LICENSE  
-| GPT-3  | Exclusive | Licensed to |Microsoft | https://openai.com/blog/openai-licenses-gpt-3-technology-to-microsoft/    |
+| GPT-3  | Exclusive | Licensed to |OpenAI Terms of Use | https://openai.com/blog/openai-licenses-gpt-3-technology-to-microsoft/    |
 | YOLO     | YOLO License    | Public domain license  | https://github.com/pjreddie/darknet/blob/master/LICENSE |
-| DALLE-pytorch     | MIT License | Pytorch implementation of DALLE created by individual researcher  | https://github.com/lucidrains/DALLE-pytorch/blob/main/LICENSE     |
+| DALLE-pytorch     | MIT License | Permissive open source license  | https://github.com/lucidrains/DALLE-pytorch/blob/main/LICENSE     |
 | Stable Diffusion | CreativeML Open RAIL-M | Open & Responsible AI License (RAIL) created by Stability.ai and adapted from the BLOOM RAIL license, including use-based restrictions (see attachment A) | https://huggingface.co/spaces/CompVis/stable-diffusion-license |
 | OPT | OPT-175B License | Meta restrictive license enabling use of the model weights for research purposes while establishing a set of use-based restrictions, which could be considered a RAIL | https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/MODEL_LICENSE.md |
 | BigScience | BigScience OpenRAIL-M | Open & Responsible AI License (RAIL) created by BigScience and adapted from the BLOOM RAIL license, including use-based restrictions (see attachment A) | https://huggingface.co/spaces/bigscience/license|
