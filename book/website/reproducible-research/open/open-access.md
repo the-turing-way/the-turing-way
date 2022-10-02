@@ -107,8 +107,7 @@ For instance, the accepted version could be made publicly available after public
 ---
 height: 500px
 name: routes-to-OA
-alt: An image of a train showing the routes to open access publishing. The green route is signalled as free and shows a preprint server at the start of the journey and self archive at the end. 
-The **gold and diamond** routes are signalled as author pay and funder or institution pay and show the publish in an open access journal part of the journey.
+alt: An image of a train showing the routes to open access publishing. The green route is signalled as free and shows a preprint server at the start of the journey and self archive at the end. The gold and diamond routes are signalled as author pay and funder or institution pay and show the publish in an open access journal part of the journey.
 ---
 Routes to publishing openly.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. Original version on Zenodo. [http://doi.org/10.5281/zenodo.5706310](http://doi.org/10.5281/zenodo.5706310)
