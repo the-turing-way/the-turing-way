@@ -548,7 +548,7 @@ It is also impossible to read or modify files that the user running the containe
 For example, the `/etc/shadow` file which contains users' hashed passwords:
 
 ```bash
-$ podman run --mount=type=bind,source=/etc/shadow,destination=/shadow -it docker.io/library/busybox/
+$ podman run --mount=type=bind,source=/etc/shadow,destination=/shadow -it docker.io/library/busybox
 / # cat /shadow
 cat: can't open '/shadow': Permission denied
 ```
