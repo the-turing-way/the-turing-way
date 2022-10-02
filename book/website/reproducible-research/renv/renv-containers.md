@@ -454,7 +454,7 @@ The Docker Daemon is run by root by default and provides a trivial way to escala
 Adding a user to the docker group is essentially giving them a high-level of access to the host with a very simple route to privilege escalation.
 For example:
 
-```bash
+```console
 $ docker run --mount=type=bind,source=/,destination=/host -it busybox
 ```
 
@@ -505,18 +505,18 @@ If you are running a distribution with SELinux (for example Fedora or CentOS) yo
 ```
 
 This can be demonstrated with a simple example. Create a directory and put file with some text in it:
-```bash
+```console
 $ mkdir tmp
 $ echo "Hello" > tmp/a.txt
 ```
 
 Now mount this directory into an interactive [busybox](https://www.busybox.net/) container:
-```bash
+```console
 $ podman run --mount=type=bind,source=./tmp,destination=/tmp -it docker.io/library/busybox
 ```
 
 In the container's shell, confirm that the session belongs to the root user:
-```bash
+```console
 / # id
 uid=0(root) gid=0(root) groups=10(wheel)
 / # whoami
@@ -524,18 +524,18 @@ root
 ```
 
 Append some text to the file created on the host, mounted at `/tmp/a.txt` in the container:
-```bash
+```console
 / # echo "World!" >> /tmp/a.txt
 ```
 
 Create a new file in the `tmp` directory and close the container:
-```bash
+```console
 / # touch /tmp/b.txt
 / # exit
 ```
 
 Inspect the files in `tmp` on the host. The file `a.txt` was modified by the container process:
-```bash
+```console
 $ cat tmp/a.txt
 Hello
 World!
@@ -547,7 +547,7 @@ This can be confirmed with `ls -l tmp/b.txt`.
 It is also impossible to read or modify files that the user running the container would not be able to.
 For example, the `/etc/shadow` file which contains users' hashed passwords:
 
-```bash
+```console
 $ podman run --mount=type=bind,source=/etc/shadow,destination=/shadow -it docker.io/library/busybox
 / # cat /shadow
 cat: can't open '/shadow': Permission denied
@@ -617,29 +617,29 @@ The `%runscript` defines the command to be executed when the container is run.
 
 A container image can then be built:
 
-```
-sudo singularity build lolcow.sif lolcow.def
+```console
+$ sudo singularity build lolcow.sif lolcow.def
 ```
 
 This will pull the ubuntu image from Docker Hub, run the steps of the recipe in the definition file and produce a Singularity image file (`lolcow.sif`).
 The container can be run with:
 
-```
-singularity run lolcow.sif
+```console
+$ singularity run lolcow.sif
 ```
 
 or, simply:
 
-```
-./lolcow.sif
+```console
+$ ./lolcow.sif
 ```
 
 ````{note}
 The way that Singularity packages container images as a single file in your working directory is convenient for migrating your work to HPC.
 You may simply copy your container image to a cluster using `scp` or `rsync`:
 
-```bash
-rsync -avz lolcow.sif <user>@<hpc_system>:~/
+```console
+$ rsync -avz lolcow.sif <user>@<hpc_system>:~/
 ```
 ````
 
@@ -668,7 +668,7 @@ Complete details on using GPUs can be found [in the Singularity documentation](h
 To use Nvidia GPUs in a container pass the `--nv` flag to the `run`, `exec` or `shell` command.
 For example:
 
-```bash
+```console
 $ singularity pull docker://tensorflow/tensorflow:latest-gpu
 $ singularity exec --nv tensorflow_latest_gpu.sif nvidia-smi
 ```
@@ -676,7 +676,7 @@ $ singularity exec --nv tensorflow_latest_gpu.sif nvidia-smi
 Using AMD GPUs is similar but the `--rocm` flag is used.
 For example:
 
-```bash
+```console
 $ singularity pull docker://rocm/tensorflow:latest
 $ singularity run --rocm tensorflow_latest.sif
 ```
