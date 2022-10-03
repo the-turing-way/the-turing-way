@@ -3695,6 +3695,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "BrianAndrewOneil",
+      "name": "Brian O'Neil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/102704305?v=4",
+      "profile": "https://brianoneil.netlify.app/",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
