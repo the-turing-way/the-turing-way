@@ -1,15 +1,15 @@
 (pd-sdpm-informed)=
-### Informed consent
+# Informed consent
 
-Informed, voluntary and fair consent to participate in a study is very important for any research project that involves human participants. 
-It is through this consent process that research participants can understand what taking part in a specific study will mean for them. 
-Each person can then choose whether to participate using the consent form. 
+Informed, voluntary and fair consent to participate in a study is very important for any research project that involves human participants.
+It is through this consent process that research participants can understand what taking part in a specific study will mean for them.
+Each person can then choose whether to participate using the consent form.
 See also the {ref}`Guide for Ethical Research<er>`.
 
-Note that the informed consent form is considered to be personal data and should therefore be handled with the same care as other personal data. 
+Note that the informed consent form is considered to be personal data and should therefore be handled with the same care as other personal data.
 Do not store the consent forms where you store the rest of the data you collect; use a separate locked cabinet or an encrypted folder for example.
 
-In case you cannot use a written consent form, try to make a recording of verbal consent. 
+In case you cannot use a written consent form, try to make a recording of verbal consent.
 
 **Consent documentation should include:**
 
@@ -17,16 +17,16 @@ In case you cannot use a written consent form, try to make a recording of verbal
 
 * a consent form signed by the participant.
 
-The **participant information sheet** is used to inform participants about the study. 
+The **participant information sheet** is used to inform participants about the study.
 The information should be clear and easy to understand and should cover the following:
 * What the project is about.
 * What their participation will involve.
 * Any risks involved for participants and safeguards to minimise those risks.
 * Assurances about data security and participant confidentiality.
-   * Mention who has access to the data 
+   * Mention who has access to the data
 * How the data will be used in the study (for published articles, reports and presentations).
 * Proposed plans for archiving data at the end of the study and potential future secondary re-use of data.
-    * Tiered consent may be a solution here, by allowing the participants to choose what type of information will be shared publicly 
+    * Tiered consent may be a solution here, by allowing the participants to choose what type of information will be shared publicly
 * Details of the organisation overseeing the research.
 * Whom to contact for more information about the study.
 
@@ -48,4 +48,3 @@ Think ahead and plan how you will:
 * control access permissions
 
 * prepare data for archiving/sharing at the end of the project if possible (see {ref}`Sharing and archiving data<rr-rdm-sharing>`)
-
