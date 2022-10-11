@@ -27,7 +27,7 @@ You can learn more about the different types of research objects in the chapters
 (cm-citable-steps-publish)=
 ## 2. Publish your work online
 
-Online publications are attached to persistent identifiers that are used for citing them.
+Online publications are attached to [persistent identifiers](https://www.youtube.com/watch?v=iea6d5oI8Ag) that are used for citing them.
 It's important to note that not everything published online gets a unique identifier but it is important that research objects are published online with DOIs as described below.
 
 (cm-citable-steps-doi)=
