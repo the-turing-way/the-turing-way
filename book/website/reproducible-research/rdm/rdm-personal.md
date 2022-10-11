@@ -135,7 +135,7 @@ Further, data and outputs containing small cell counts may be potentially disclo
 **7. Sharing sensitive data**
 
 If you plan to share or publish your data you must ensure that your data are appropriate and safe to share. 
-For example, you should consider whether the data can be adequately anonymised, and whether anonymised data will remain useful (see also {ref}`Barriers to data sharing<rr-rdm-sharing>`Open Research Chapter).
+For example, you should consider whether the data can be adequately anonymised, and whether anonymised data will remain useful (see also [Barriers to data sharing](https://the-turing-way.netlify.app/reproducible-research/open/open-data.html?highlight=barriers#barriers-to-data-sharing) within the Open Research Chapter).
 After applying methods to de-identify and anonymise sensitive data, there may still be a risk of re-identification (see {cite}`Meyer2018personaldata`). 
 
 An additional safety measure, or alternative to anonimisation, is applying access controls to ensure the data are shared appropriately and securely. 
