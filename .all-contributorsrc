@@ -3722,6 +3722,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "v-smith",
+      "name": "Vicky Smith",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72864814?v=4",
+      "profile": "https://www.linkedin.com/in/victoria-smith-754602104/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
