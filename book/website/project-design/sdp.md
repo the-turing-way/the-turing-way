@@ -24,7 +24,7 @@ In this chapter we will cover:
 * Types of sensitive data
 * Personal data
 * Confidential data
-* Biological data
+* {ref}`Biological data<pd-sdp-biological>`
 * Metadata
 * Combined datasets
 
