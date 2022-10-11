@@ -25,7 +25,7 @@ In this chapter we will cover:
 * Personal data
 * Confidential data
 * Biological data
-* Metadata
+* {ref}`Metadata<pd-sdp-metadata>`
 * Combined datasets
 
 (pd-sdp-motivation)=
