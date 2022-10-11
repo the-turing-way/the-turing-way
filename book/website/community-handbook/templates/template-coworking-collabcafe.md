@@ -43,7 +43,7 @@ https://cuckoo.team/collabcafe
 
 ### Sign up below
 
-*Name + <A fun Icebreaker> + an emoji to represent it ([emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md))*
+*Name <A fun Icebreaker> + an emoji to represent it ([emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md))*
 
 *(Remember that this is a public document. You can use a pseudonym if you'd prefer.)*
 
