@@ -3704,6 +3704,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "selvi-aras",
+      "name": "Aras Selvi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55166614?v=4",
+      "profile": "http://linkedin.com/in/arasselvi",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
