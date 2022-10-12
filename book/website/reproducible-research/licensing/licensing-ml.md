@@ -8,7 +8,7 @@ While many ML models may utilise open software licensing (e.g. MIT, Apache 2.0),
 there are a number of ML model-specific licenses that may be developed for a specific model (e.g. [OPT-175B license](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/MODEL_LICENSE.md), [BigScience BLOOM RAIL v1.0 License](https://https://bigscience.huggingface.co/blog/the-bigscience-rail-license)), 
 company (e.g. [Microsoft Data Use Agreement for Open AI Model Development](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Rjfq)), or series of models (e.g. [BigScience OpenRAIL-M](https://www.licenses.ai/blog/2022/8/26/bigscience-open-rail-m-license) (Responsible AI License)). 
 
-In summary, the growing list of ML licenses reflects the understanding that the ML model and other artefacts are distinct from the code, and thus in need of new licensing options. 
+In summary, the growing list of ML licenses reflects the understanding that the ML model and other artifacts are distinct from the code, and thus in need of new licensing options. 
 
 ## Reproduction and propagation of ML models
 
