@@ -1,0 +1,21 @@
+# pre-commit is a tool to perform a predefined set of tasks manually and/or
+# automatically before git commits are made. pre-commit can also be run in CI
+# on Pull Requests and will auto-commit corrections to the PR for consistency.
+#
+# Config reference: https://pre-commit.com/#pre-commit-configyaml---top-level
+#
+# How to install locally
+#
+# - pip install pre-commit
+#
+# Common tasks
+#
+# - Run on all files:   pre-commit run --all-files
+# - Register git hooks: pre-commit install --install-hooks
+#
+repos:
+  # Autoformat: yaml
+  - repo: https://github.com/pre-commit/mirrors-prettier
+    rev: v3.0.0-alpha.1
+    hooks:
+      - id: prettier
