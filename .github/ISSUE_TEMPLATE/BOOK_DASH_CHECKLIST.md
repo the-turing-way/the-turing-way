@@ -1,5 +1,5 @@
 ---
-name: "\u2728 General"
+name: "\u1F4DA Book Dash Checklist"
 about: Book Dash Planning Checklist
 title:
 labels:
