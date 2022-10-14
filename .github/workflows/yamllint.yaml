@@ -10,6 +10,9 @@ jobs:
   yamllint:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
       - name: Setup Python 3.10
         uses: actions/setup-python@v3
         with:
@@ -19,6 +22,6 @@ jobs:
         run: |
           python -m pip install yamllint
 
-      - name: Run yamllint and all files in the repo
+      - name: Run yamllint on all files in the repo
         run: |
           yamllint -f colored .
