@@ -2,7 +2,7 @@
 
 # Case Studies: Choosing an ML License 
 
-Below are two hypothetical case studies based on examples encountered during the BigScience Workshop.
+Below are two hypothetical case studies based on examples encountered during [BigScience](https://bigscience.huggingface.co/), a one-year long research workshop on large multilingual models and datasets.
 
 ## Responsible AI License for Research & Academia
 
