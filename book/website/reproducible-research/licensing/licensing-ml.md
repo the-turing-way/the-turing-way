@@ -56,7 +56,7 @@ The table below showcases several well-known examples of ML models in the fields
 | Model | Model License | Description | Link to License |
 | -------- | -------- | -------- | -------- |
 | GPT-2  | MIT License + generated output disclaimer | Permissive open source license | https://github.com/openai/gpt-2/blob/master/LICENSE  
-| GPT-3  | Exclusive | Licensed to Microsoft | OpenAI Terms of Use https://openai.com/blog/openai-licenses-gpt-3-technology-to-microsoft/    |
+| GPT-3  | Exclusive | Licensed to Microsoft | https://openai.com/blog/openai-licenses-gpt-3-technology-to-microsoft/    |
 | YOLO     | YOLO License    | Public domain license  | https://github.com/pjreddie/darknet/blob/master/LICENSE |
 | DALLE-pytorch     | MIT License | Permissive open source license  | https://github.com/lucidrains/DALLE-pytorch/blob/main/LICENSE     |
 | Stable Diffusion | CreativeML Open RAIL-M | Open & Responsible AI License (RAIL) created by Stability.ai and adapted from the BLOOM RAIL license, including use-based restrictions (see attachment A) | https://huggingface.co/spaces/CompVis/stable-diffusion-license |
