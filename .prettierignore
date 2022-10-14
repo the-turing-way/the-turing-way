@@ -1,0 +1,13 @@
+# To create a minimal change suggestion, prettier was introduced to auto-format
+# the YAML files only. It is absolutely reasonable to auto-format markdown files
+# and json files as well, but for now, let's make prettier only auto-format
+# YAML.
+# NOTE: .cff files are a type of YAML
+#
+**/*.md
+**/*.json
+
+# Other file types we should always ignore as they are likely auto-generated
+#
+**/*.css
+**/*.js
