@@ -21,4 +21,4 @@ jobs:
 
       - name: Run yamllint and all files in the repo
         run: |
-          yamllint .
+          yamllint -f colored .
