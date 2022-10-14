@@ -2,6 +2,8 @@
 
 # Case Studies: Choosing an ML License 
 
+Below are two hypothetical case studies based on examples encountered during the BigScience Workshop.
+
 ## Responsible AI License for Research & Academia
 
 Cidney, a hypothetical ML researcher, is working for a university lab, has developed as part of her PhD research an ML vision model for facial recognition. She is well aware of both the good quality of the model and its limitations, and is willing to inform users about it in the model card she is planing to release along with the model. 
