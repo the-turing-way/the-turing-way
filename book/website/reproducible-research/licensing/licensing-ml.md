@@ -55,11 +55,11 @@ The table below showcases several well-known examples of ML models in the fields
 
 | Model | Model License | Description | Link to License |
 | -------- | -------- | -------- | -------- |
-| GPT-2  | MIT License + generated output disclaimer | Permissive open source license | https://github.com/openai/gpt-2/blob/master/LICENSE  
-| GPT-3  | Exclusive | Licensed to Microsoft | https://openai.com/blog/openai-licenses-gpt-3-technology-to-microsoft/    |
-| YOLO     | YOLO License    | Public domain license  | https://github.com/pjreddie/darknet/blob/master/LICENSE |
-| DALLE-pytorch     | MIT License | Permissive open source license  | https://github.com/lucidrains/DALLE-pytorch/blob/main/LICENSE     |
-| Stable Diffusion | CreativeML Open RAIL-M | Open & Responsible AI License (RAIL) created by Stability.ai and adapted from the BLOOM RAIL license, including use restrictions (see attachment A) | https://huggingface.co/spaces/CompVis/stable-diffusion-license |
-| OPT | OPT-175B License | Meta restrictive license enabling use of the model weights for research purposes while establishing a set of use restrictions, which could be considered a RAIL | https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/MODEL_LICENSE.md |
-| BigScience | BigScience OpenRAIL-M | Open & Responsible AI License (RAIL) created by BigScience and adapted from the BLOOM RAIL license, including use restrictions (see attachment A) | https://huggingface.co/spaces/bigscience/license|
-| Tsinghua University | GLM-130B license | Restrictive license enabling use of the model weights for research purposes | https://github.com/THUDM/GLM-130B/blob/main/MODEL_LICENSE
+| GPT-2  | MIT License + generated output disclaimer | Permissive open source license | [Link to license](https://github.com/openai/gpt-2/blob/master/LICENSE)  |
+| GPT-3  | Exclusive | Licensed to Microsoft | [News Article](https://openai.com/blog/openai-licenses-gpt-3-technology-to-microsoft/)    |
+| YOLO     | YOLO License    | Public domain license  | [Link to license](https://github.com/pjreddie/darknet/blob/master/LICENSE) |
+| DALLE-pytorch     | MIT License | Permissive open source license  | [Link to license](https://github.com/lucidrains/DALLE-pytorch/blob/main/LICENSE)     |
+| Stable Diffusion | CreativeML Open RAIL-M | Open & Responsible AI License (RAIL) created by Stability.ai and adapted from the BLOOM RAIL license, including use restrictions (see attachment A) | [Link to license](https://huggingface.co/spaces/CompVis/stable-diffusion-license) |
+| OPT | OPT-175B License | Meta restrictive license enabling use of the model weights for research purposes while establishing a set of use restrictions, which could be considered a RAIL | [Link to license](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/MODEL_LICENSE.md) |
+| BigScience | BigScience OpenRAIL-M | Open & Responsible AI License (RAIL) created by BigScience and adapted from the BLOOM RAIL license, including use restrictions (see attachment A) | [Link to license](https://huggingface.co/spaces/bigscience/license) |
+| Tsinghua University | GLM-130B license | Restrictive license enabling use of the model weights for research purposes | [Link to license](https://github.com/THUDM/GLM-130B/blob/main/MODEL_LICENSE) |
