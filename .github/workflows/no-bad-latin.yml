@@ -39,7 +39,7 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
       # Run a Python script
-      - name: Run Python script to check for latin phrases - Master
+      - name: Run Python script to check for latin phrases - Main branch
         working-directory: ./tests
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         run: |

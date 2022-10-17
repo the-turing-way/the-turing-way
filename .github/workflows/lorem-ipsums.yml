@@ -45,7 +45,7 @@ jobs:
         run: |
           python lorem-ipsums.py --pull-request ${{ github.event.pull_request.number }}
 
-      - name: Run Python script to check for rogue "Lorem ipsums" - Master
+      - name: Run Python script to check for rogue "Lorem ipsums" - Main branch
         working-directory: ./tests
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         run: |
