@@ -2,7 +2,7 @@
 # Machine Learning Model Licenses
 
 Like a software license, a Machine Learning (ML) model license governs the use, redistribution of the model and/or algorithm, and distribution of any derivatives of it. However, there are other components to an AI system, such as [data](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html), 
-[source code](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-software.html), or applications, which may have their own separate licenses. ML model licenses may restrict the use of the model for specific scenarios for which, due to the technical capabilities and limitations  of the model informed by its model card, the licensor is not comfortable that the model is used.
+{ref}`source code<rr-licensing-software>`, or applications, which may have their own separate licenses. ML model licenses may restrict the use of the model for specific scenarios for which, due to the technical capabilities and limitations  of the model informed by its model card, the licensor is not comfortable that the model is used.
 
 While many ML models may utilise open software licensing (e.g. MIT, Apache 2.0), 
 there are a number of ML model-specific licenses that may be developed for a specific model (e.g. [OPT-175B license](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/MODEL_LICENSE.md), [BigScience BLOOM RAIL v1.0 License](https://https://bigscience.huggingface.co/blog/the-bigscience-rail-license)), 
