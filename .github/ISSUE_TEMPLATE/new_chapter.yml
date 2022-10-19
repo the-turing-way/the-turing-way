@@ -5,7 +5,7 @@ labels: book
 body:
 - type: markdown
   attributes:
-    value: "Please complete the following sections to propose a new chapter. If you have the necessary permissions, please also assign the appropriate label (or labels) to your issue, otherwise at TTW team member will assign labels later."
+    value: "Please complete the following sections to propose a new chapter. If you have the necessary permissions, please also assign the appropriate label (or labels) to your issue, otherwise a _Turing Way_ team member will assign labels later."
 - type: input
   id: title
   attributes:
