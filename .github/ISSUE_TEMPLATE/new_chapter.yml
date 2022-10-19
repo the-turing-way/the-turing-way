@@ -27,7 +27,7 @@ body:
   attributes:
     label: Branch
     description: |
-      Please provide the name of the branch you are working from
+      Please provide the name of the branch you are working from. You can provide this later if you haven't started yet!
 - type: textarea
   id: summary
   attributes:
