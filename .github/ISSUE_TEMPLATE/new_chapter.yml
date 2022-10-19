@@ -19,7 +19,7 @@ body:
   attributes:
     label: Guide
     description: |
-      Which Guide will you chapter be a part of? Please reference the [book](https://the-turing-way.netlify.app/welcome.html)'s table of contents to see which Guides make up the book
+      Which Guide will your chapter be a part of? Please reference the [book](https://the-turing-way.netlify.app/welcome.html)'s table of contents to see which Guides make up the book
   validations:
     required: true
 - type: input
