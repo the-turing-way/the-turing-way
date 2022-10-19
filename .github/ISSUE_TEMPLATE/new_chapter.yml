@@ -42,7 +42,7 @@ body:
   id: resources
   attributes:
     label: Resources
-    description: List and describe any external resources that may be helpful when writing the chapter. We suggest using bullets (-) and/or checkboxes (-[])
+    description: List and describe any external resources that may be helpful when writing the chapter. We suggest using bullets (-) and/or checkboxes (- [ ])
 - type: textarea
   id: who_can_help
   attributes:
