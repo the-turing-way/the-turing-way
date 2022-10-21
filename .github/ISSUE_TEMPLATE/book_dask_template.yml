@@ -54,13 +54,13 @@ body:
     description: 
     options:
       - label: Set up the Book Dash Planning meeting to discuss these details before the announcement is sent out
-        - label: Discuss with co-organisers if some resources (such as email drafts or templates) need to be updated
-        - label: Find volunteers from the organisers who would like to host onboarding calls (1 week before the event)
-        - label: Find volunteers from the organisers who would like to host a GitHub introduction session (1 week before the event)
-        - label: Find volunteers from the organisers who would like to run social events (discussion session, meal, informal chat)
-        - label: For during the event find volunteers from the organisers who would like to run community share out sessions - on the last day
-        - label:  Check with them if there is anything else they would like to suggest or get involved in
-        - label:  Think about who else needs to be invited, like Artists, speakers, more diverse participants
+      - label: Discuss with co-organisers if some resources (such as email drafts or templates) need to be updated
+      - label: Find volunteers from the organisers who would like to host onboarding calls (1 week before the event)
+      - label: Find volunteers from the organisers who would like to host a GitHub introduction session (1 week before the event)
+      - label: Find volunteers from the organisers who would like to run social events (discussion session, meal, informal chat)
+      - label: For during the event find volunteers from the organisers who would like to run community share out sessions - on the last day
+      - label:  Check with them if there is anything else they would like to suggest or get involved in
+      - label:  Think about who else needs to be invited, like Artists, speakers, more diverse participants
       - label: Identify helpers and mentors from the applicants and core members -- invite them
       - label: Review applications in a designated panel (Book Dash Planning Committee) using Book Dash Rubrics for selection
       - label: Set up another meeting with the Book Dash Planning Committee to discuss the applications and finalise the selection
