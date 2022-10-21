@@ -1,6 +1,6 @@
 name: "\u1F4DA Book Dash Checklist"
 description: Book Dash Planning Checklist
-title: "Book Dash checklist "<DATE>"
+title: "Book Dash checklist <DATE>"
 labels: book_dash
 body:
 - type: markdown
