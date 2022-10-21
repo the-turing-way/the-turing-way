@@ -25,9 +25,9 @@ body:
 - type: input
   id: branch
   attributes:
-    label: Branch
+    label: Draft
     description: |
-      Please provide the name of the branch you are working from. You can provide this later if you haven't started yet!
+      Please provide a link to your draft. This might be in a document such as a hackmd or a new file on your GitHub branch. If you already have a PR you can update the PR with a keyword to link directly to this issue - see instructions [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue). You can provide this later if you haven't started yet!
 - type: textarea
   id: summary
   attributes:
