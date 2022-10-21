@@ -37,7 +37,7 @@ body:
       - label: Close the application round in time (minimum 1 month ahead of the event)
       - label: Set-up a form for reviewing applications (see Rubrics for scoring applications for details)
       - label: Set up an online platform (Zoom, or other accessible software) for remote collaboration
-      - label: Copy the HackMD index page for the event using last round for reference: https://hackmd.io/@turingway/bookdash-nov2022-index
+      - label: Copy the HackMD index page for the event using last round for reference [link](https://hackmd.io/@turingway/bookdash-nov2022-index)
       - label: Update shared HackMD for pre-event calls, book dash event and feedback
       - label: Copy the Eventbrite page from last round for the Book Dash attendees - set a registration code
       - label: Send a reminder in next newsletters with more details if needed
