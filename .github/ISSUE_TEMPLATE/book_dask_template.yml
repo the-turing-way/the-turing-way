@@ -136,7 +136,7 @@ body:
                * Give 5 minutes break before entering the next Pomodoro
                * Keep last 10 minutes for final reporting and co-documenting the work that took place during the Pomodoro
       - label: If an artist, illustrator or consultant is invited, coordinate the schedule with participants so they have the chance to engage
-      - label: Run a social session each day: These are run by organisers to ensure everyone has the chance to connect informally
+      - label: Run a social session each day. These are run by organisers to ensure everyone has the chance to connect informally
       - label: Host community share out the event on the last day to demonstrate and celebrate the contributions made by everyone during the Book Dash
       - label: Ask for feedback on the last day (plus and delta)
       - label: Share the GitHub issue for adding bio and highlight
