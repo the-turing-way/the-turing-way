@@ -25,19 +25,34 @@ body:
 - type: checkboxes
   id: before
   attributes:
-    label:  Schedule the Book Dash and open applications
+    label:  Schedule the Book Dash and prepare the application
     description: 
     options:
       - label: Finalise dates based on the location and core team’s availability
-      - label: Update the application form (see a template here)
-      - label: Check that the [application template](https://tinyurl.com/tw-bookdash-template) is up to date 
-      - label: Open a call for applications as well as invite interest to join the committee
-     
-      - label: Write a short description for online advertisement
+      - label: Update the application form (NEED LINK)
+      - label: Update the [application template](https://tinyurl.com/tw-bookdash-template)
+      - label: "**Be sure to include the following information**"
+      - label: What financial support will be available for either online or in-person events?
+      - label: What arrangements will be available online (such as online helpers and designated mentors) or on-site (such as quiet room and child care) for in-person events?
+      - label: Accessibility information such as live captioning for in-person events and quiet room/child nursing room for in-person events
+      - label: The maximum limit for financial support requests for online (such as for headphones) and in-person (such as for travel and accommodation) events
+- type: checkboxes
+  id: announcement
+  attributes:
+    label:  Announce the Book Dash and invite applications
+    description: 
+    options:
+      - label: Write a short description for promoting the event, including a link to the application
       - label: Announce the Book Dash in the newsletter and promote on Twitter at least 2-3 months in advance
-      - label: Establish a Book Dash planning committee by inviting returning members of the event
+      - label: Invite returing participants to join the Book Dash planning committee
       - label: Close the application round in time (minimum 1 month ahead of the event)
       - label: Set up a form for reviewing applications (see rubrics for scoring applications for details)
+- type: checkboxes
+  id: logistics
+  attributes:
+    label:  Update documents and set up online platform
+    description: 
+    options:   
       - label: Set up an online platform (Zoom, or other accessible software) for remote collaboration
       - label: Create a HackMD index page for the event [template](https://hackmd.io/@turingway/bookdash-nov2022-index)
       - label: Update shared HackMD for pre-event calls, book dash event and feedback
@@ -45,10 +60,7 @@ body:
       - label: Send a reminder in next newsletter with more details if needed
       - label: Copy the share out Eventbrite page (2 sessions)
       - label: "**Clearly state the following information in an application form and later communicate by email with the selected participants**"
-      - label: What financial support will be available for either online or in-person events
-      - label: What arrangements will be available online (such as online helpers and designated mentors) or on-site (such as quiet room and child care) for in-person events
-      - label: Include accessibility information such as live captioning for in-person events and quiet room/child nursing room for in-person events
-      - label: Mention the maximum limit for financial support requests for online (such as for headphones) and in-person (such as for travel and accommodation) events
+      
 - type: checkboxes
   id: planning
   attributes:
