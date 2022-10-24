@@ -1,0 +1,109 @@
+name: "Fireside Chat Checklist"
+description: Fireside Chat planning checklist
+title: "Fireside Chat checklist <DATE>"
+labels: fireside_chat
+body:
+- type: input
+  id: date
+  attributes:
+    label: Date
+    description: |
+      What is the date of the Fireside Chat?
+  validations:
+    required: true
+- type: input
+  id: registration
+  attributes:
+    label: Registration link
+    description: |
+      Add the registration link here
+- type: checkboxes
+  id: before
+  attributes:
+    label:  Six to eight weeks before the event
+    description:
+    options:
+      - label: Identify an overarching theme that we share with a different community - fireside chats are intended to promote cross-community collaboration
+      - label: Reach out to a community representative who can co-facilitate the event with a core team member in The Turing Way
+      - label: Set up an internal shared document for discussions and notes [template here](https://docs.google.com/document/d/1X_NfRkkH6p47yRgpd6xlw8yrvo6jIsbF_mV0BinjcaQ/edit?usp=sharing)
+      - label: "Discuss what the co-hosts might want to highlight at this fireside chat (these discussions don't necessarily need to identify a solution but should address shared themes, challenges, and spaces that the research communities share)"
+      - label: Identify speakers from the community and invite them
+      - label: Create a private Slack channel with all speakers and hosts and discuss some overarching topics they are interested in sharing
+      - label: Ask each speaker to send a bio and photo and provide their permission to record the session
+      - label: Decide on a date
+      - label: Schedule a meeting with hosts and speakers 4-5 weeks in advance 
+- type: checkboxes
+  id: planning
+  attributes:
+    label:  Four to five weeks before the event
+    description:
+    options:      
+      - label: Hold first meeting with hosts and speakers to surface some common themes, pick the title, and identify questions
+      - label: Create a Zoom link with a waiting room and live transcription enabled
+      - label: Send a placeholder calendar invite to all hosts and speakers (15 mins pre-event tech-check/Green room, 60 minutes live and 15-30 minutes unrecorded discussion with the audience)
+      - label: Create an Eventbrite page in The Turing Way account - create and copy from this [example](https://www.eventbrite.co.uk/e/navigating-growth-and-scale-to-sustain-open-communities-tickets-360328802147)
+      - label: Set up the Etherpad using this [template](https://hackmd.io/@turingway/fireside-chats) ([see example](https://pad.sfconservancy.org/p/ttw-fireside-chat-mar2022))
+      - label: Write a paragraph to add to the Eventbrite page along with bios of the hosts and speakers
+      - label: Create a flyer to share on social media using [this template](https://docs.google.com/presentation/d/1Fx2WcVvGX6dM3z74VDQp_UD8edKp6Phl/edit?usp=sharing&ouid=102682705838770934280&rtpof=true&sd=true)
+      - label: Coordinate on Slack with the speakers to check if if they are happy with the announcements and if their info is correct
+- type: checkboxes
+  id: promotion
+  attributes:
+    label:  Three to four weeks before the event
+    description:
+    options: 
+      - label: Announce the event advance on Slack, newsletter, Twitter and different talks
+      - label: Add information to the [intro hackmd](https://hackmd.io/@turingway/demo-intro)
+      - label: Schedule a second meeting 2-3 weeks in advance
+- type: checkboxes
+  id: agenda
+  attributes:
+    label:  Two to three weeks before the event
+    description:
+    options: 
+      - label: Hold second meeting with hosts and speakers to define an agenda and articulate questions
+      - label: Assign 1-2 questions for each speaker to begin 
+      - label: Plan with cohost who will ask which question, how you will time keep, what channel you will use to ask questions to each other privately, who will monitor the chat (maybe ask someone outside this group to help with note taking and chat monitoring)
+      - label: Update the calendar invite with Zoom, Etherpad and Eventbrite  
+      - label: Encourage hosts and speakers to share the Eventbrite page in their network
+      - label: Identify someone from the community who can do the introduction of The Turing Way, code of conduct reminder and pass it to the speakers
+- type: checkboxes
+  id: during
+  attributes:
+    label:  During the event
+    description:
+    options:
+      - label: Open the Zoom call 15 minutes in advance (keep the waiting room enabled)
+      - label: "Test if speakers' microphone, camera and internet work - help troubleshoot any tech challenges"
+      - label: Let participants in right on time
+      - label: Welcome them and share Etherpad
+      - label: Remind them that the call will be recorded and that participants can use chat (but may not have the chance to speak during the 60 minutes live)
+      - label: Start recording and enable transcription
+      - label: 5 minutes after the start time, the person designated to welcome them will introduce the Turing Way, CoC, and Etherpad information and present the topic
+      - label: Hosts then introduce themselves and post the opening questions allowing all speakers including the co-host to share their position on the topic in 2 minutes
+      - label: As planned in the agenda, hosts ask speakers predetermined questions, and invite a follow up response from the other speaker
+      - label: Speakers will make sure that everyone on the panel has had an equal chance to discuss and share their opinions
+      - label: Any question from the chat is copied over the Etherpad
+      - label: In the last 10 minutes ask questions from the Ehterpad
+      - label: Each speaker finishes with a 30 second closing argument
+      - label: End recording
+      - label: Begin 30 minute session for informal discussion with the speakers 
+      - label: Close the call 30 minutes after the end of the recording 
+- type: checkboxes
+  id: after
+  attributes:
+    label:  After the event
+    description:
+    options:
+      - label: Send a thank you email to the speakers within 1 day
+      - label: Archive all notes [here](https://hackmd.io/@turingway/fireside-chats)
+      - label: Download the video from Zoom and edit the live transcript (proofread cc)
+      - label: Upload the video on The Turing Way youtube - label and annotate well and add the flyer as the video's front page
+      - label: Share the published videos with the speakers
+      - label: Invite someone from the communitu to summarise the session to add to The Turing Way
+      - label: Promote the video via Slack, newsletter, Twitter
+      - label: Send a thank you email to the Eventbrite participants sharing the video and inviting any ideas and suggestions for improvement via a standard feedback form
+      - label: Update the book chapter and templates if needed
+      - label: Update the video link here (NEED LINK) and update the section for the upcoming Fireside chat
+      - label: Add speakers to this GitHub repo using all contributors bot for presentation
+      - label: Close this issue
