@@ -23,7 +23,7 @@ body:
   validations:
     required: true
 - type: checkboxes
-  id: checklist1
+  id: before
   attributes:
     label:  Before the event
     description: 
@@ -48,12 +48,11 @@ body:
       - label: Include accessibility information such as live captioning for in-person events and quiet room/child nursing room for in-person events
       - label: Mention the maximum limit for financial support requests for online (such as for headphones) and in-person (such as for travel and accommodation) events
 - type: checkboxes
-  id: checklist2
+  id: planning
   attributes:
-    label:  During and after the application phase
+    label:  Planning meeting - before announcement
     description: 
     options:
-      - label: "**Set up the Book Dash Planning meeting to discuss these details before the announcement is sent out**"
       - label: Discuss with co-organisers if some resources (such as email drafts or templates) need to be updated
       - label: Find volunteers from the organisers who would like to host onboarding calls (1 week before the event)
       - label: Find volunteers from the organisers who would like to host a GitHub introduction session (1 week before the event)
@@ -61,12 +60,22 @@ body:
       - label: For during the event find volunteers from the organisers who would like to run community share out sessions - on the last day
       - label: Check with them if there is anything else they would like to suggest or get involved in
       - label: Think about who else needs to be invited, like Artists, speakers, more diverse participants
-      - label: "**Identify helpers and mentors from the applicants and core members and invite them**"
-      - label: "**Review applications in a designated panel (Book Dash Planning Committee) using Book Dash Rubrics for selection**"
-      - label: "**Set up another meeting with the Book Dash Planning Committee to discuss the applications and finalise the selection**"
-      - label: Use this meeting to also allocate tasks for during and after the event (indicate that on the GitHub issues)
 - type: checkboxes
-  id: checklist3
+  id: application
+  attributes:
+    label:  Application phase
+    description: 
+    options:
+      - label: Identify helpers and mentors from the applicants and core members and invite them
+      - label: Review applications in a designated panel (Book Dash Planning Committee) using Book Dash Rubrics for selection
+      - label: Set up another meeting with the Book Dash Planning Committee to discuss the applications and finalise the selection. Use this meeting to also allocate tasks for during and after the event.
+- type: textarea
+  id: tasks
+  attributes:
+    label: Tasks
+    description: "Record your assigned tasks here"
+- type: checkboxes
+  id: decisions
   attributes:
     label: After the selection phase
     description: 
@@ -81,7 +90,7 @@ body:
       - label: Send a reminder email to register on Eventbrite sharing important links and information including support grant, GitHub session, onboarding call info and reimbursement process
       - label: Create a GitHub issue to collect bio and highlight of the participants to add them to the Contributors Record
 - type: checkboxes
-  id: checklist4
+  id: online
   attributes:
     label: Additional tasks for an online event
     description: 
@@ -97,9 +106,9 @@ body:
       - label: Familiarity with The Turing Way contribution guidelines and Code of Conduct
       - label: Willingness to collaborate with others
 - type: checkboxes
-  id: checklist5
+  id: in_person
   attributes:
-    label:  Additional tasks for an in-person event - local hubs
+    label:  Additional tasks for an in-person event
     description: 
     options:
       - label: Book location for in-person events
@@ -108,9 +117,9 @@ body:
       - label: Book catering for lunch and coffee breaks
       - label: Double-check with each participant if their plan as given on their registration hasn’t changed       
 - type: checkboxes
-  id: checklist6
+  id: travel
   attributes:
-    label:  When funding for travel and accommodation is available
+    label:  Funding for travel and accommodation (if applicable)
     description: 
     options:
       - label: Book hotels rooms for people who requested accommodation
@@ -119,35 +128,38 @@ body:
       - label: Book meals/catering for people
       - label: Mention what meals will be offered as default - and ask participants to get in touch if another meal type is required
 - type: checkboxes
-  id: checklist7
+  id: onboarding
   attributes:
-    label: Day 1
+    label: Day 1 onboarding
     description: 
     options:
-      - label: "**Run onboarding sessions on the first day**"
       - label: Welcome everyone (for each slot)
       - label: Ask to fill the icebreaker
       - label: One of the organisers delivers introduction talk
       - label: Create breakout groups for people working on
 - type: checkboxes
-  id: checklist8
+  id: sessions
   attributes:
-    label: During the event
+    label: During the event - host coworking sessions with Pomodoro sessions 30-35 mins long
     description: 
     options:
-      - label: "**Host coworking sessions with Pomodoro sessions 30-35 mins long**"
       - label: At the beginning of the session, ask people to document or verbally share their plan for the session
       - label: End each session with any report people want to make
-      - label: Give 5 minutes break before entering the next Pomodoro
+      - label: Give a 5 minute break before entering the next Pomodoro
       - label: Keep last 10 minutes for final reporting and co-documenting the work that took place during the Pomodoro
       - label: If an artist, illustrator or consultant is invited, coordinate the schedule with participants so they have the chance to engage
       - label: Run a social session each day. These are run by organisers to ensure everyone has the chance to connect informally
-      - label: Host community share out the event on the last day to demonstrate and celebrate the contributions made by everyone during the Book Dash
-      - label: Ask for feedback on the last day (plus and delta)
-      - label: Share the GitHub issue for adding bio and highlight
+- type: checkboxes
+  id: last_day
+  attributes:
+    label: Final day - host a community share out the event on the last day to demonstrate and celebrate the contributions made by everyone during the Book Dash
+    description: 
+    options:
+      - label: Ask for feedback (plus and delta)
+      - label: Share the GitHub issue for adding bios and highlight
       - label: Take screenshots or group photos (with permission) to share in reports or social media
 - type: checkboxes
-  id: checklist9
+  id: after
   attributes:
     label: After the event
     description: 
