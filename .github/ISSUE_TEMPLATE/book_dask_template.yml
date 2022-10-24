@@ -124,12 +124,12 @@ body:
     label: During the event
     description: 
     options:
-      - label: **Run onboarding sessions on the first day**
+      - label: "**Run onboarding sessions on the first day**"
       - label: Welcome everyone (for each slot)
       - label: Ask to fill the icebreaker
       - label: One of the organisers delivers introduction talk
       - label: Create breakout groups for people working on
-      - label: **Host coworking sessions with Pomodoro sessions 30-35 mins long**
+      - label: "**Host coworking sessions with Pomodoro sessions 30-35 mins long**"
       - label: At the beginning of the session, ask people to document or verbally share their plan for the session
       - label: End each session with any report people want to make
       - label: Give 5 minutes break before entering the next Pomodoro
