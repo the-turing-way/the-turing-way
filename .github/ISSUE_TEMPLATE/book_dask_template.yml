@@ -34,11 +34,11 @@ body:
 - type: checkboxes
   id: announcement
   attributes:
-    label:  Announce the Book Dash and invite applications
+    label:  Two to three months ahead - announce the Book Dash and invite applications
     description: 
     options:
       - label: Write a short description for promoting the event, including a link to the application
-      - label: Announce the Book Dash in the newsletter and promote on Twitter at least 2-3 months in advance
+      - label: Announce the Book Dash in the newsletter and promote on Twitter
       - label: Invite returing participants to join the Book Dash planning committee
       - label: Close the application round in time (minimum 1 month ahead of the event)
       - label: Set up a form for reviewing applications (see rubrics for scoring applications for details) (NEED LINK)
