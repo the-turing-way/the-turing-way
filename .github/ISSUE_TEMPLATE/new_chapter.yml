@@ -1,6 +1,6 @@
-name: "\U0001F4D6 New Chapter Template 2"
+name: "\U0001F4D6 New Chapter Template"
 description: Template for proposing a new chapter
-title: "<title>"
+title: "New chapter proposal - <TOPIC>"
 labels: book
 body:
 - type: markdown
@@ -33,7 +33,7 @@ body:
   attributes:
     label: Summary of proposed chapter
     description: |
-      Please provide a detailed description of the chapter you are proposing. 
+      Please provide a detailed description of the chapter you are proposing.
       - What is the purpose of your chapter?
       - Why are you proposing it?
   validations:
@@ -51,7 +51,7 @@ body:
 - type: checkboxes
   id: updates
   attributes:
-    label:  Updates
+    label: Updates
     description: Please comment on this issue with updates so that all the important information is available at a glance. You may use the checklist here to get started or create a new checklist in the comments.
     options:
       - label: Write chapter outline
