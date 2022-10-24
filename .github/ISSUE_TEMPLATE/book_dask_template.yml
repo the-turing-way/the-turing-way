@@ -136,7 +136,7 @@ body:
     label: Two weeks before (IS THIS CORRECT? OR SOONER?)
     description: 
     options:      
-      - label: Create a GitHub issue to collect bios and add participants to the Contributors Record
+      - label: Create a GitHub issue to collect bios and highlights in order to add participants to the Contributors Record
       - label: "**Send a reminder email to register on Eventbrite. Include the following formation**" 
       - label: Available grants for financial support
       - label: GitHub intro session details
@@ -188,7 +188,7 @@ body:
     label: After the Book Dash
     options:
       - label: Send a thank you email to everyone for their work
-      - label: Move bio and highlight from the GitHub issue to the Contributors Record
+      - label: Move bios and highlights from the GitHub issue to the Contributors Record
       - label: Summarise the event (number of pull requests, issue, chapters, and other significant news) to share with the participants
       - label: Share the update via the newsletter
       - label: Develop a report with highlights and updates on GitHub
