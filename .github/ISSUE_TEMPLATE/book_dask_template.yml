@@ -53,29 +53,29 @@ body:
       - label: Update shared HackMD for pre-event calls, book dash event and feedback (NEED LINKS)
       - label: Copy the Book Dash attendees Eventbrite page from last round and set a registration code
       - label: Copy the share out Eventbrite page (2 sessions)
-      - label: Send a reminder in next newsletter with more details if needed   
+      - label: Send a reminder in next newsletter  
 - type: checkboxes
   id: planning
   attributes:
-    label:  Initial organisers planning meeting 
+    label:  Initial planning committee meeting
     description: 
     options:
-      - label: Check if resources (such as email drafts or templates) need to be updated
+      - label: Check that all documents and forms have been updated with correct dates and links (email drafts, templates, Eventbrite) 
       - label: Schedule onboarding calls 1 week before the event, find volunteers to host
       - label: Schedule GitHub intro session 1 week before the event, find volunteer(s) to host
       - label: Find volunteers to run social events during the Book Dash (discussion sessions, meals, informal chats)
       - label: Find volunteers to run community share out sessions on the last day
       - label: Check if there is anything else organisers would like to suggest or get involved in
-      - label: Think about who else needs to be invited, like artists, speakers, more diverse participants
+      - label: Think about who else needs to be invited, like artists, speakers, more diverse participants    
 - type: checkboxes
-  id: application
+  id: planning2
   attributes:
-    label:  Review applications
+    label:  Application review meeting
     description: 
     options:
+      - label: Review applications using Book Dash Rubrics for selection (NEED LINK)
       - label: Identify helpers and mentors from the applicants and core members and invite them
-      - label: Review applications in a designated panel (Book Dash Planning Committee) using Book Dash Rubrics for selection
-      - label: Set up another meeting with the Book Dash Planning Committee to discuss the applications and finalise the selection. Use this meeting to also allocate tasks for during and after the event.
+      - label: Allocate tasks for during and after the event
 - type: textarea
   id: tasks
   attributes:
@@ -91,11 +91,7 @@ body:
       - label: Send an email to the unselected attendees with feedback
       - label: Set up an email chain and a Slack channel to connect all members and share updates
       - label: Provide details on Code of Conduct, contribution guideline and ways to get involved in an ongoing discussion
-      - label: Update presentation for introducing the project to the participants on day-1 of the Book Dash
-      - label: Host the onboarding call one week before the event to share logistics and facilitate the drafting of SMART goals
-      - label: Group participants into the proposed working groups as per their SMART goals from the onboarding call
-      - label: Send a reminder email to register on Eventbrite sharing important links and information including support grant, GitHub session, onboarding call info and reimbursement process
-      - label: Create a GitHub issue to collect bio and highlight of the participants to add them to the Contributors Record
+      - label: Update presentation for introducing the project to the participants on day one of the Book Dash   
 - type: checkboxes
   id: online
   attributes:
@@ -135,13 +131,26 @@ body:
       - label: Book meals/catering for people
       - label: Mention what meals will be offered as default - and ask participants to get in touch if another meal type is required
 - type: checkboxes
+  id: 2weeks_before
+  attributes:
+    label: Two weeks before (IS THIS CORRECT? OR SOONER?)
+    description: 
+    options:      
+      - label: Create a GitHub issue to collect bios and add participants to the Contributors Record
+      - label: "**Send a reminder email to register on Eventbrite. Include the following formation**" 
+      - label: Available grants for financial support
+      - label: GitHub intro session details
+      - label: Onboarding call details 
+      - label: Reimbursement process
+- type: checkboxes
   id: week_before
   attributes:
     label: One week before
     description: 
     options:
       - label: Hold intro to GitHub session
-      - label: Hold onboarding calls
+      - label: Hold onboarding calls to share logistics and facilitate the drafting of SMART goals
+      - label: Group participants into the proposed working groups as per their SMART goals from the onboarding call
 - type: checkboxes
   id: onboarding
   attributes:
