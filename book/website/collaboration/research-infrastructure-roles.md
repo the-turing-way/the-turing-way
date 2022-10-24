@@ -8,7 +8,6 @@ They're called **research infrastructure roles** because the work they perform i
 The specifics of these roles will vary but can include handling administrative work, managing data storage, stakeholder engagement, community management, communications, software engineering, events coordination, and a lot more. 
 
 People performing these types of roles come from varied backgrounds, but will often have some research experience, although not necessarily in the field they are now working in. 
-Examples of role titles include: Community manager, project manager, research software engineer, reproducibility lead, research application manager, programme manager, administrator, or network coordinator.
 
 (cl-research-infrastructure-roles-prerequisites)=
 ## Prerequisites
@@ -23,7 +22,6 @@ This chapter of the Turing Way covers examples of different research infrastruct
 
 We invite anyone who works in a research infrastructure role to share their experiences as a case study. 
 
-
 (cl-research-infrastructure-roles-motivation)=
 ## Motivation and Background
 
@@ -32,3 +30,21 @@ But this work is often hidden and not visible in academia, where papers and cita
 The motivation for writing this chapter and providing examples of the type of work that goes into research infrastructure is to make this hidden labour visible to a wider audience and highlight just how critical these aspects of research are for any community or project. 
 
 Other initiatives such as the [Software Sustainability Institute](https://www.software.ac.uk/), the [Center for Scientific Collaboration & Community Engagement](https://www.cscce.org/), and the [Hidden REF](https://hidden-ref.org/), are all contributing to the growing recognition of the importance of these roles for research. 
+
+(cl-research-infrastructure-roles-list)=
+## Example Role Title List
+
+This initial list of examples of Research Infrastructure Roles that has been expanded as part of _The Turing Way_ Hackathon Workshop at Big Team Science conference 2022.
+
+* Community manager
+* Project manager
+* Research software engineer
+* Research application manager
+* Programme manager
+* Data Steward
+* X
+* X
+* X
+* x
+* x
+* x
