@@ -43,7 +43,7 @@ body:
       - label: Send a reminder in next newsletters with more details if needed
       - label: Copy the share out Eventbrite page (2 sessions)
       - label: Clearly state the following information in an application form and later communicate by email with the selected participants
-      - label: what financial support will be available for either online or in-person events
+      - label: What financial support will be available for either online or in-person events
       - label: What arrangements will be available online (such as online helpers and designated mentors) or on-site (such as quiet room and child care) for in-person events
       - label: Include accessibility information such as live captioning for in-person events and quiet room/child nursing room for in-person events
       - label: Mention the maximum limit for financial support requests for online (such as for headphones) and in-person (such as for travel and accommodation) events
@@ -64,7 +64,7 @@ body:
       - label: Identify helpers and mentors from the applicants and core members -- invite them
       - label: Review applications in a designated panel (Book Dash Planning Committee) using Book Dash Rubrics for selection
       - label: Set up another meeting with the Book Dash Planning Committee to discuss the applications and finalise the selection
-               * Use this meeting to also allocate tasks for during and after the event (indicate that on the GitHub issues)
+      - label: Use this meeting to also allocate tasks for during and after the event (indicate that on the GitHub issues)
 - type: checkboxes
   id: checklist3
   attributes:
@@ -89,11 +89,11 @@ body:
       - label: Set up a Slack channel and invite all attendees
       - label: Share all notes, agenda and info by email, and pin on the Slack channel
       - label: State the prerequisites to attend the event
-               * An active GitHub account
-               * Participation in at least one pre-event onboarding call or a Collaboration Cafe
-               * Some experience with using GitHub or attend the Book Dash GitHub session
-               * Familiarity with The Turing Way contribution guidelines and Code of Conduct
-               * Willingness to collaborate with others
+      - label: An active GitHub account
+      - label: Participation in at least one pre-event onboarding call or a Collaboration Cafe
+      - label: Some experience with using GitHub or attend the Book Dash GitHub session
+      - label: Familiarity with The Turing Way contribution guidelines and Code of Conduct
+      - label: Willingness to collaborate with others
       - label: Ask them to choose at least one contribution session (2.5 hours) for each day of the Book Dash to ensure flexibility (rather than blocking the full day) -- this is for everyone joining online (see in person participation requirement below)
       - label: Collect address if something needs to be posted
 - type: checkboxes
@@ -124,16 +124,16 @@ body:
     label: During the event
     description: 
     options:
-      - label: Run onboarding sessions on the first day
-               * Welcome everyone (for each slot)
-               * Ask to fill the icebreaker
-               * One of the organisers delivers introduction talk
-               * Create breakout groups for people working on
-      - label: Host coworking sessions with Pomodoro sessions 30-35 mins long
-               * At the beginning of the session, ask people to document or verbally share their plan for the session
-               * End each session with any report people want to make
-               * Give 5 minutes break before entering the next Pomodoro
-               * Keep last 10 minutes for final reporting and co-documenting the work that took place during the Pomodoro
+      - label: **Run onboarding sessions on the first day**
+      - label: Welcome everyone (for each slot)
+      - label: Ask to fill the icebreaker
+      - label: One of the organisers delivers introduction talk
+      - label: Create breakout groups for people working on
+      - label: **Host coworking sessions with Pomodoro sessions 30-35 mins long**
+      - label: At the beginning of the session, ask people to document or verbally share their plan for the session
+      - label: End each session with any report people want to make
+      - label: Give 5 minutes break before entering the next Pomodoro
+      - label: Keep last 10 minutes for final reporting and co-documenting the work that took place during the Pomodoro
       - label: If an artist, illustrator or consultant is invited, coordinate the schedule with participants so they have the chance to engage
       - label: Run a social session each day. These are run by organisers to ensure everyone has the chance to connect informally
       - label: Host community share out the event on the last day to demonstrate and celebrate the contributions made by everyone during the Book Dash
