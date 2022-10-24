@@ -25,7 +25,7 @@ body:
 - type: checkboxes
   id: before
   attributes:
-    label:  Before the event
+    label:  Schedule the Book Dash and invite applications
     description: 
     options:
       - label: Finalise dates based on the location and core team’s availability
@@ -50,7 +50,7 @@ body:
 - type: checkboxes
   id: planning
   attributes:
-    label:  Planning meeting - before announcement
+    label:  Initial planning meeting
     description: 
     options:
       - label: Discuss with co-organisers if some resources (such as email drafts or templates) need to be updated
@@ -63,7 +63,7 @@ body:
 - type: checkboxes
   id: application
   attributes:
-    label:  Application phase
+    label:  Review applications
     description: 
     options:
       - label: Identify helpers and mentors from the applicants and core members and invite them
@@ -75,9 +75,9 @@ body:
     label: Tasks
     description: "Record your assigned tasks here"
 - type: checkboxes
-  id: decisions
+  id: invites
   attributes:
-    label: After the selection phase
+    label: Invite participants
     description: 
     options:
       - label: Send an email to the selected attendees with Eventbrite page and registration code
@@ -130,7 +130,7 @@ body:
 - type: checkboxes
   id: onboarding
   attributes:
-    label: Day 1 onboarding
+    label: Day 1 - onboarding
     description: 
     options:
       - label: Welcome everyone (for each slot)
@@ -161,8 +161,7 @@ body:
 - type: checkboxes
   id: after
   attributes:
-    label: After the event
-    description: 
+    label: After the Book Dash
     options:
       - label: Send a thank you email to everyone for their work
       - label: Move bio and highlight from the GitHub issue to the Contributors Record
