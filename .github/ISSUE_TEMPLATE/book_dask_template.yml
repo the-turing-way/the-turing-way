@@ -7,7 +7,6 @@ body:
   attributes:
     value: |
       This issue is for the event organisers, **if you are an applicant please use this form to submit your application: (NEED LINK).** This application will likely take 30 minutes to complete. You can use this template document with all the questions to prepare your draft: [https://tinyurl.com/tw-bookdash-template](https://tinyurl.com/tw-bookdash-template)
-    
       **If you would like to host a local hub please use this google form to register you interest** (NEED LINK)
 - type: input
   id: date
@@ -21,7 +20,7 @@ body:
   id: before
   attributes:
     label:  Schedule the Book Dash and prepare the application
-    description: 
+    description:
     options:
       - label: Finalise dates based on the location and core team’s availability
       - label: Update the application form (NEED LINK)
@@ -35,7 +34,7 @@ body:
   id: announcement
   attributes:
     label:  Two to three months ahead - announce the Book Dash and invite applications
-    description: 
+    description:
     options:
       - label: Write a short description for promoting the event, including a link to the application
       - label: Announce the Book Dash in the newsletter and promote on Twitter
@@ -46,32 +45,32 @@ body:
   id: logistics
   attributes:
     label:  Update documents and set up online platform
-    description: 
-    options:   
+    description:
+    options:
       - label: Set up an online platform (Zoom or other accessible software) for remote collaboration
       - label: Create a HackMD index page for the event - [template](https://hackmd.io/@turingway/bookdash-nov2022-index)
       - label: Update shared HackMD for pre-event calls, book dash event and feedback (NEED LINKS)
       - label: Copy the Book Dash attendees Eventbrite page from last round and set a registration code
       - label: Copy the share out Eventbrite page (2 sessions)
-      - label: Send a reminder in next newsletter  
+      - label: Send a reminder in next newsletter
 - type: checkboxes
   id: planning
   attributes:
     label:  Initial planning committee meeting (TIMELINE?)
-    description: 
+    description:
     options:
-      - label: Check that all documents and forms have been updated with correct dates and links (email drafts, templates, Eventbrite) 
+      - label: Check that all documents and forms have been updated with correct dates and links (email drafts, templates, Eventbrite)
       - label: Schedule onboarding calls 1 week before the event, find volunteers to host
       - label: Schedule GitHub intro session 1 week before the event, find volunteer(s) to host
       - label: Find volunteers to run social events during the Book Dash (discussion sessions, meals, informal chats)
       - label: Find volunteers to run community share out sessions on the last day
       - label: Check if there is anything else organisers would like to suggest or get involved in
-      - label: Think about who else needs to be invited, like artists, speakers, more diverse participants    
+      - label: Think about who else needs to be invited, like artists, speakers, more diverse participants
 - type: checkboxes
   id: planning2
   attributes:
     label:  Application review meeting (TIMELINE?)
-    description: 
+    description:
     options:
       - label: Review applications using Book Dash Rubrics for selection (NEED LINK)
       - label: Identify helpers and mentors from the applicants and core members and invite them
@@ -85,18 +84,18 @@ body:
   id: invites
   attributes:
     label: Invite participants (TIMELINE?)
-    description: 
+    description:
     options:
       - label: Send an email to the selected attendees with Eventbrite page and registration code
       - label: Send an email to the unselected attendees with feedback
       - label: Set up an email chain and a Slack channel to connect all members and share updates
       - label: Provide details on Code of Conduct, contribution guideline and ways to get involved in an ongoing discussion
-      - label: Update presentation for introducing the project to the participants on day one of the Book Dash   
+      - label: Update presentation for introducing the project to the participants on day one of the Book Dash
 - type: checkboxes
   id: online
   attributes:
     label: Additional tasks for an online event
-    description: 
+    description:
     options:
       - label: Set up a Slack channel and invite all attendees
       - label: Share all notes, agenda and info by email, and pin on the Slack channel
@@ -112,18 +111,18 @@ body:
   id: in_person
   attributes:
     label:  Additional tasks for an in-person event
-    description: 
+    description:
     options:
       - label: Book location for in-person events
       - label: Collate participants’ preference for travel, meal, accommodation, and accessibility request through the registration form
       - label: Send an email to the participants regarding their travel, accommodation, schedule, and meal
       - label: Book catering for lunch and coffee breaks
-      - label: Double-check with each participant if their plan as given on their registration hasn’t changed       
+      - label: Double-check with each participant if their plan as given on their registration hasn’t changed
 - type: checkboxes
   id: travel
   attributes:
     label:  Funding for travel and accommodation, if applicable
-    description: 
+    description:
     options:
       - label: Book hotels rooms for people who requested accommodation
       - label: Book travel for those who requested - or provide reimbursement option
@@ -134,19 +133,19 @@ body:
   id: 2weeks_before
   attributes:
     label: Two weeks before (IS THIS CORRECT? OR SOONER?)
-    description: 
-    options:      
+    description:
+    options: 
       - label: Create a GitHub issue to collect bios and highlights in order to add participants to the Contributors Record
-      - label: "**Send a reminder email to register on Eventbrite. Include the following formation**" 
+      - label: "**Send a reminder email to register on Eventbrite. Include the following formation**"
       - label: Available grants for financial support
       - label: GitHub intro session details
-      - label: Onboarding call details 
+      - label: Onboarding call details
       - label: Reimbursement process
 - type: checkboxes
   id: week_before
   attributes:
     label: One week before
-    description: 
+    description:
     options:
       - label: Hold intro to GitHub session
       - label: Hold onboarding calls to share logistics and facilitate the drafting of SMART goals
@@ -155,7 +154,7 @@ body:
   id: onboarding
   attributes:
     label: Day one - onboarding
-    description: 
+    description:
     options:
       - label: Welcome everyone (for each slot)
       - label: Ask to fill the icebreaker
@@ -165,7 +164,7 @@ body:
   id: sessions
   attributes:
     label: During the event - host coworking sessions with Pomodoro sessions 30-35 mins long
-    description: 
+    description:
     options:
       - label: At the beginning of the session, ask people to document or verbally share their plan for the session
       - label: End each session with any report people want to make
@@ -177,7 +176,7 @@ body:
   id: last_day
   attributes:
     label: Final day - host a community share out the event on the last day to demonstrate and celebrate the contributions made by everyone during the Book Dash
-    description: 
+    description:
     options:
       - label: Ask for feedback (plus and delta)
       - label: Share the GitHub issue for adding bios and highlight
