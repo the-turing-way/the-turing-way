@@ -16,7 +16,7 @@ body:
     required: true
 - type: markdown
   attributes:
-    value: "##If you would like to host a local hub please use this google form to reigster you interest (NEED LINK)"
+    value: "## If you would like to host a local hub please use this google form to reigster you interest (NEED LINK)"
 - type: checkboxes
   id: before
   attributes:
