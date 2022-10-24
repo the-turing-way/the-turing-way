@@ -502,6 +502,10 @@ parts:
           - title: Research Infrastructure Roles
             file: collaboration/research-infrastructure-roles
             sections:
+              - title: Introducing Research Infrastructure Roles to an Institution
+                file: collaboration/research-infrastructure-roles/intro-rirs-institution
+              - title: Sustaining Research Infrastructure Roles
+                file: collaboration/research-infrastructure-roles/sustain-rirs
               - title: Community Managers Overview
                 file: collaboration/research-infrastructure-roles/community-manager
               - title: Data Stewards Overview
@@ -514,6 +518,8 @@ parts:
                 file: collaboration/research-infrastructure-roles/rse-personal-story
               - title: Research Application Manager Overview
                 file: collaboration/research-infrastructure-roles/ram
+              - title: Research Infrastructure Roles Personal Stories
+                file: collaboration/research-infrastructure-roles/rir-personal-stories
           - title: Remote Collaboration
             file: collaboration/remote-collab
             sections:
