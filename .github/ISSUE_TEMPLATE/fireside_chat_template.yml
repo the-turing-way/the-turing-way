@@ -49,8 +49,8 @@ body:
 - type: textarea
   id: theme
   attributes:
-    label: Tasks
-    description: "Take notes on the theme and title here"
+    label: Title and theme
+    description: "Note title and themes here"
 - type: checkboxes
   id: promotion
   attributes:
@@ -75,7 +75,7 @@ body:
 - type: textarea
   id: agenda
   attributes:
-    label: Tasks
+    label: Agenda
     description: "Describe the agenda here"
 - type: checkboxes
   id: during
