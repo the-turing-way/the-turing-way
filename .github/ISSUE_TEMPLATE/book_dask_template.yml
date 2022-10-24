@@ -134,7 +134,7 @@ body:
   attributes:
     label: Two weeks before (IS THIS CORRECT? OR SOONER?)
     description:
-    options: 
+    options:
       - label: Create a GitHub issue to collect bios and highlights in order to add participants to the Contributors Record
       - label: "**Send a reminder email to register on Eventbrite. Include the following formation**"
       - label: Available grants for financial support
