@@ -48,7 +48,7 @@ body:
     label:  Update documents and set up online platform
     description: 
     options:   
-      - label: Set up an online platform (Zoom, or other accessible software) for remote collaboration
+      - label: Set up an online platform (Zoom or other accessible software) for remote collaboration
       - label: Create a HackMD index page for the event - [template](https://hackmd.io/@turingway/bookdash-nov2022-index)
       - label: Update shared HackMD for pre-event calls, book dash event and feedback (NEED LINKS)
       - label: Copy the Book Dash attendees Eventbrite page from last round and set a registration code
