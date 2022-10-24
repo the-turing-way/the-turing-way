@@ -31,10 +31,10 @@ The motivation for writing this chapter and providing examples of the type of wo
 
 Other initiatives such as the [Software Sustainability Institute](https://www.software.ac.uk/), the [Center for Scientific Collaboration & Community Engagement](https://www.cscce.org/), and the [Hidden REF](https://hidden-ref.org/), are all contributing to the growing recognition of the importance of these roles for research. 
 
-(cl-research-infrastructure-roles-list)=
-## Example Role Title List
+(cl-research-infrastructure-roles-examples)=
+## Examples of Research Infrastructure Roles
 
-This initial list of examples of Research Infrastructure Roles that has been expanded as part of _The Turing Way_ Hackathon Workshop at Big Team Science conference 2022.
+This initial list of examples of Research Infrastructure Roles that has been expanded as part of _The Turing Way_ Hackathon Workshop at the [Big Team Science conference 2022](https://bigteamscienceconference.github.io/).
 
 * Community manager
 * Project manager
