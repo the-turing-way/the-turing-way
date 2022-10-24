@@ -5,7 +5,10 @@ labels: book_dash
 body:
 - type: markdown
   attributes:
-    value: "This issue is for the event organisers, **if you are an applicant please use this form to submit your application: [add registration form link].** This application will likely take 30 minutes to complete. You can use this template document with all the questions to prepare your draft: [https://tinyurl.com/tw-bookdash-template](https://tinyurl.com/tw-bookdash-template)"
+    value: |
+      This issue is for the event organisers, **if you are an applicant please use this form to submit your application: [add registration form link].** This application will likely take 30 minutes to complete. You can use this template document with all the questions to prepare your draft: [https://tinyurl.com/tw-bookdash-template](https://tinyurl.com/tw-bookdash-template)
+    
+      "**If you would like to host a local hub please use this google form to register you interest** (NEED LINK)"
 - type: input
   id: date
   attributes:
@@ -14,9 +17,6 @@ body:
       What is the date of the book dash?
   validations:
     required: true
-- type: markdown
-  attributes:
-    value: "## If you would like to host a local hub please use this google form to reigster you interest (NEED LINK)"
 - type: checkboxes
   id: before
   attributes:
