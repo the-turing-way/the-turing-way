@@ -5,7 +5,7 @@ labels: book_dash
 body:
 - type: markdown
   attributes:
-    value: "This issue is for the event organisers, **if you are an applicant please use this form to submit your application: [add registration form link].** This application will likely take 30 minutes to complete. You can use this template document with all the questions to prepare your draft:[https://tinyurl.com/tw-bookdash-template](https://tinyurl.com/tw-bookdash-template) <-- make sure that this template has been updated."
+    value: "This issue is for the event organisers, **if you are an applicant please use this form to submit your application: [add registration form link].** This application will likely take 30 minutes to complete. You can use this template document with all the questions to prepare your draft: [https://tinyurl.com/tw-bookdash-template](https://tinyurl.com/tw-bookdash-template)"
 - type: input
   id: date
   attributes:
@@ -25,22 +25,24 @@ body:
 - type: checkboxes
   id: before
   attributes:
-    label:  Schedule the Book Dash and invite applications
+    label:  Schedule the Book Dash and open applications
     description: 
     options:
       - label: Finalise dates based on the location and core team’s availability
-      - label: Set up a form (see a template here) for application by updating the previous version of the form
+      - label: Update the application form (see a template here)
+      - label: Check that the [application template](https://tinyurl.com/tw-bookdash-template) is up to date 
+      - label: Open a call for applications as well as invite interest to join the committee
+     
       - label: Write a short description for online advertisement
-      - label: Open a call for application as well as invite interest to join the committee
-      - label: Announce in the newsletter and promote on Twitter at least 2-3 months in advance
-      - label: Establish a Book Dash Planning committee by inviting returning members of the event
+      - label: Announce the Book Dash in the newsletter and promote on Twitter at least 2-3 months in advance
+      - label: Establish a Book Dash planning committee by inviting returning members of the event
       - label: Close the application round in time (minimum 1 month ahead of the event)
-      - label: Set-up a form for reviewing applications (see Rubrics for scoring applications for details)
+      - label: Set up a form for reviewing applications (see rubrics for scoring applications for details)
       - label: Set up an online platform (Zoom, or other accessible software) for remote collaboration
-      - label: Copy the HackMD index page for the event using last round for reference [link](https://hackmd.io/@turingway/bookdash-nov2022-index)
+      - label: Create a HackMD index page for the event [template](https://hackmd.io/@turingway/bookdash-nov2022-index)
       - label: Update shared HackMD for pre-event calls, book dash event and feedback
-      - label: Copy the Eventbrite page from last round for the Book Dash attendees - set a registration code
-      - label: Send a reminder in next newsletters with more details if needed
+      - label: Copy the Book Dash attendees Eventbrite page from last round and set a registration code
+      - label: Send a reminder in next newsletter with more details if needed
       - label: Copy the share out Eventbrite page (2 sessions)
       - label: "**Clearly state the following information in an application form and later communicate by email with the selected participants**"
       - label: What financial support will be available for either online or in-person events
