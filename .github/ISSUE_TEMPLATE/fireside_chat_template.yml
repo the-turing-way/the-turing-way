@@ -46,6 +46,11 @@ body:
       - label: Write a paragraph to add to the Eventbrite page along with bios of the hosts and speakers
       - label: Create a flyer to share on social media using [this template](https://docs.google.com/presentation/d/1Fx2WcVvGX6dM3z74VDQp_UD8edKp6Phl/edit?usp=sharing&ouid=102682705838770934280&rtpof=true&sd=true)
       - label: Coordinate on Slack with the speakers to check if if they are happy with the announcements and if their info is correct
+- type: textarea
+  id: theme
+  attributes:
+    label: Tasks
+    description: "Take notes on the theme and title here"
 - type: checkboxes
   id: promotion
   attributes:
@@ -67,6 +72,11 @@ body:
       - label: Update the calendar invite with Zoom, Etherpad and Eventbrite
       - label: Encourage hosts and speakers to share the Eventbrite page in their network
       - label: Identify someone from the community who can do the introduction of The Turing Way, code of conduct reminder and pass it to the speakers
+- type: textarea
+  id: agenda
+  attributes:
+    label: Tasks
+    description: "Describe the agenda here"
 - type: checkboxes
   id: during
   attributes:
