@@ -31,13 +31,13 @@ body:
       - label: Create a private Slack channel with all speakers and hosts and discuss some overarching topics they are interested in sharing
       - label: Ask each speaker to send a bio and photo and provide their permission to record the session
       - label: Decide on a date
-      - label: Schedule a meeting with hosts and speakers 4-5 weeks in advance 
+      - label: Schedule a meeting with hosts and speakers 4-5 weeks in advance
 - type: checkboxes
   id: planning
   attributes:
     label:  Four to five weeks before the event
     description:
-    options:      
+    options:
       - label: Hold first meeting with hosts and speakers to surface some common themes, pick the title, and identify questions
       - label: Create a Zoom link with a waiting room and live transcription enabled
       - label: Send a placeholder calendar invite to all hosts and speakers (15 mins pre-event tech-check/Green room, 60 minutes live and 15-30 minutes unrecorded discussion with the audience)
@@ -51,7 +51,7 @@ body:
   attributes:
     label:  Three to four weeks before the event
     description:
-    options: 
+    options:
       - label: Announce the event advance on Slack, newsletter, Twitter and different talks
       - label: Add information to the [intro hackmd](https://hackmd.io/@turingway/demo-intro)
       - label: Schedule a second meeting 2-3 weeks in advance
@@ -60,11 +60,11 @@ body:
   attributes:
     label:  Two to three weeks before the event
     description:
-    options: 
+    options:
       - label: Hold second meeting with hosts and speakers to define an agenda and articulate questions
-      - label: Assign 1-2 questions for each speaker to begin 
+      - label: Assign 1-2 questions for each speaker to begin
       - label: Plan with cohost who will ask which question, how you will time keep, what channel you will use to ask questions to each other privately, who will monitor the chat (maybe ask someone outside this group to help with note taking and chat monitoring)
-      - label: Update the calendar invite with Zoom, Etherpad and Eventbrite  
+      - label: Update the calendar invite with Zoom, Etherpad and Eventbrite
       - label: Encourage hosts and speakers to share the Eventbrite page in their network
       - label: Identify someone from the community who can do the introduction of The Turing Way, code of conduct reminder and pass it to the speakers
 - type: checkboxes
@@ -87,8 +87,8 @@ body:
       - label: In the last 10 minutes ask questions from the Ehterpad
       - label: Each speaker finishes with a 30 second closing argument
       - label: End recording
-      - label: Begin 30 minute session for informal discussion with the speakers 
-      - label: Close the call 30 minutes after the end of the recording 
+      - label: Begin 30 minute session for informal discussion with the speakers
+      - label: Close the call 30 minutes after the end of the recording
 - type: checkboxes
   id: after
   attributes:
