@@ -17,7 +17,7 @@ body:
 - type: input
   id: hub
   attributes:
-    label: Local Hub?
+    label: Local hub?
     description: |
       Would you like to host a local hub during the Book Dash? We are also inviting interest from The Turing Way community members to host a local hub, see details and share your response via a separate Google form: [add registration form link] 
   validations:
