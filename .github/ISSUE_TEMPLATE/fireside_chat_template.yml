@@ -61,7 +61,7 @@ body:
       - label: Add information to the [intro hackmd](https://hackmd.io/@turingway/demo-intro)
       - label: Schedule a second meeting 2-3 weeks in advance
 - type: checkboxes
-  id: agenda
+  id: agenda_meeting
   attributes:
     label:  Two to three weeks before the event
     description:
