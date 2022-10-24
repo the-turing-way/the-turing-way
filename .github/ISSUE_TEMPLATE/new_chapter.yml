@@ -64,4 +64,4 @@ body:
       - label: Merge to main branch
 - type: markdown
   attributes:
-    value: "**When you are ready to create a pull request for your chapter please don't forget to add a link in the comments on this issue**"
+    value: "**When you are ready to create a pull request for your chapter please don't forget to add a link in the comments on this issue.**"
