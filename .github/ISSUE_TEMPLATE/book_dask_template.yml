@@ -1,5 +1,5 @@
 name: "Book Dash Checklist"
-description: Book Dash Planning Checklist
+description: Book Dash planning checklist
 title: "Book Dash checklist <DATE>"
 labels: book_dash
 body:
@@ -46,7 +46,7 @@ body:
       - label: Announce the Book Dash in the newsletter and promote on Twitter at least 2-3 months in advance
       - label: Invite returing participants to join the Book Dash planning committee
       - label: Close the application round in time (minimum 1 month ahead of the event)
-      - label: Set up a form for reviewing applications (see rubrics for scoring applications for details)
+      - label: Set up a form for reviewing applications (see rubrics for scoring applications for details) (NEED LINK)
 - type: checkboxes
   id: logistics
   attributes:
@@ -54,26 +54,24 @@ body:
     description: 
     options:   
       - label: Set up an online platform (Zoom, or other accessible software) for remote collaboration
-      - label: Create a HackMD index page for the event [template](https://hackmd.io/@turingway/bookdash-nov2022-index)
-      - label: Update shared HackMD for pre-event calls, book dash event and feedback
+      - label: Create a HackMD index page for the event - [template](https://hackmd.io/@turingway/bookdash-nov2022-index)
+      - label: Update shared HackMD for pre-event calls, book dash event and feedback (NEED LINKS)
       - label: Copy the Book Dash attendees Eventbrite page from last round and set a registration code
-      - label: Send a reminder in next newsletter with more details if needed
       - label: Copy the share out Eventbrite page (2 sessions)
-      - label: "**Clearly state the following information in an application form and later communicate by email with the selected participants**"
-      
+      - label: Send a reminder in next newsletter with more details if needed   
 - type: checkboxes
   id: planning
   attributes:
-    label:  Initial planning meeting
+    label:  Initial organisers planning meeting 
     description: 
     options:
-      - label: Discuss with co-organisers if some resources (such as email drafts or templates) need to be updated
-      - label: Find volunteers from the organisers who would like to host onboarding calls (1 week before the event)
-      - label: Find volunteers from the organisers who would like to host a GitHub introduction session (1 week before the event)
-      - label: Find volunteers from the organisers who would like to run social events (discussion session, meal, informal chat)
-      - label: For during the event find volunteers from the organisers who would like to run community share out sessions - on the last day
-      - label: Check with them if there is anything else they would like to suggest or get involved in
-      - label: Think about who else needs to be invited, like Artists, speakers, more diverse participants
+      - label: Check if resources (such as email drafts or templates) need to be updated
+      - label: Schedule onboarding calls 1 week before the event, find volunteers to host
+      - label: Schedule GitHub intro session 1 week before the event, find volunteer(s) to host
+      - label: Find volunteers to run social events during the Book Dash (discussion sessions, meals, informal chats)
+      - label: Find volunteers to run community share out sessions on the last day
+      - label: Check if there is anything else organisers would like to suggest or get involved in
+      - label: Think about who else needs to be invited, like artists, speakers, more diverse participants
 - type: checkboxes
   id: application
   attributes:
@@ -112,11 +110,11 @@ body:
       - label: Set up a Slack channel and invite all attendees
       - label: Share all notes, agenda and info by email, and pin on the Slack channel
       - label: Ask them to choose at least one contribution session (2.5 hours) for each day of the Book Dash to ensure flexibility (rather than blocking the full day) -- this is for everyone joining online (see in person participation requirement below)
-      - label: Collect address if something needs to be posted
-      - label: "**State the prerequisites to attend the event**"
+      - label: Collect addresses if something needs to be posted
+      - label: "**Communicate the following prerequisites to online attendees**"
       - label: An active GitHub account
       - label: Participation in at least one pre-event onboarding call or a Collaboration Cafe
-      - label: Some experience with using GitHub or attend the Book Dash GitHub session
+      - label: Some experience with using GitHub or attendance at the Book Dash GitHub session
       - label: Familiarity with The Turing Way contribution guidelines and Code of Conduct
       - label: Willingness to collaborate with others
 - type: checkboxes
@@ -142,9 +140,17 @@ body:
       - label: Book meals/catering for people
       - label: Mention what meals will be offered as default - and ask participants to get in touch if another meal type is required
 - type: checkboxes
+  id: week_before
+  attributes:
+    label: One week before
+    description: 
+    options:
+      - label: Hold intro to GitHub session
+      - label: Hold onboarding calls
+- type: checkboxes
   id: onboarding
   attributes:
-    label: Day 1 - onboarding
+    label: Day one - onboarding
     description: 
     options:
       - label: Welcome everyone (for each slot)
