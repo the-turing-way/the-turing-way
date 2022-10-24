@@ -43,10 +43,10 @@ body:
       - label: Send a reminder in next newsletters with more details if needed
       - label: Copy the share out Eventbrite page (2 sessions)
       - label: Clearly state the following information in an application form and later communicate by email with the selected participants
-               * what financial support will be available for either online or in-person events
-               * What arrangements will be available online (such as online helpers and designated mentors) or on-site (such as quiet room and child care) for in-person events
-               * Include accessibility information such as live captioning for in-person events and quiet room/child nursing room for in-person events
-               * Mention the maximum limit for financial support requests for online (such as for headphones) and in-person (such as for travel and accommodation) events
+      - label: what financial support will be available for either online or in-person events
+      - label: What arrangements will be available online (such as online helpers and designated mentors) or on-site (such as quiet room and child care) for in-person events
+      - label: Include accessibility information such as live captioning for in-person events and quiet room/child nursing room for in-person events
+      - label: Mention the maximum limit for financial support requests for online (such as for headphones) and in-person (such as for travel and accommodation) events
 - type: checkboxes
   id: checklist2
   attributes:
