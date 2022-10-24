@@ -47,7 +47,7 @@ body:
   id: who_can_help
   attributes:
     label: Who can help?
-    description: We suggest using bullets (-) and/or checkboxes (- [ ])
+    description: We suggest using bullets (-) and/or checkboxes (- [ ]).
 - type: checkboxes
   id: updates
   attributes:
