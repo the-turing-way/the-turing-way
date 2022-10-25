@@ -63,6 +63,11 @@ jobs:
               per_page=100,
           )
 
+          # If no issues are returned from the API call, exit the script cleanly
+          if all_issues is None:
+              print("No open talk issues found!")
+              sys.exit()
+
           # Blank list to store issues to be closed in
           issues_to_close = []
 
