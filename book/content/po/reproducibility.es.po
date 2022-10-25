@@ -1,444 +1,759 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Place Holder <test@test.com>, 2020.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Reina Camacho Toro <rcamacho07@gmail.com>, 2020
+# Camila Rangel Smith <camila.rangel.smith@gmail.com>, 2020
+# Pamela Villar González <pamela.villar.gonzalez@psych.uw.edu.pl>, 2021
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: content\n"
 "Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
-"POT-Creation-Date: 2020-02-05 19:08:03+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Place Holder <test@test.com>\n"
-"Language-Team: Spanish <LL@li.org>\n"
+"POT-Creation-Date: 2020-02-05 19:08:04+0000\n"
+"PO-Revision-Date: 2020-04-07 14:20+0000\n"
+"Last-Translator: Pamela Villar González <pamela.villar.gonzalez@psych.uw.edu.pl>, 2021\n"
+"Language-Team: Spanish (https://www.transifex.com/theturingway/teams/107194/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: reproducibility/01/importantforscience.md:1
 # header
+#: reproducibility/01/importantforscience.md:1
 msgid "# Why reproducibility is important for science"
-msgstr ""
+msgstr "¿Por qué la reproducibilidad es importante para la ciencia?"
 
 #: reproducibility/01/importantforscience.md:3
-msgid "Major media outlets have [reported on](https://www.theguardian.com/science/2018/aug/27/attempt-to-replicate-major-social-scientific-findings-of-past-decade-fails) investigations showing that a significant percentage of scientific studies cannot be reproduced."
+msgid ""
+"Major media outlets have [reported "
+"on](https://www.theguardian.com/science/2018/aug/27/attempt-to-replicate-"
+"major-social-scientific-findings-of-past-decade-fails) investigations "
+"showing that a significant percentage of scientific studies cannot be "
+"reproduced."
 msgstr ""
+"Grandes medios de comunicación [han reportado] "
+"(https://www.theguardian.com/science/2018/aug/27/attempt-to-replicate-major-"
+"social-scientific-findings-of-past-decade-fails) resultados de "
+"investigaciones que demuestran que un porcentaje significativo de estudios "
+"científicos no puede ser reproducidos."
 
 #: reproducibility/01/importantforscience.md:4
-msgid "This leads to other academics and society losing trust in scientific results (Baker, 2016)."
+msgid ""
+"This leads to other academics and society losing trust in scientific results"
+" (Baker, 2016)."
 msgstr ""
+"En consecuencia tanto académicos como la sociedad  pierden la confianza en "
+"los resultados científicos (Baker, 2016)."
 
 #: reproducibility/01/importantforscience.md:5
-msgid "Working reproducibly means others can check your results - even early on in the research process."
+msgid ""
+"Working reproducibly means others can check your results - even early on in "
+"the research process."
 msgstr ""
+"Trabajar de manera reproducible significa que otros pueden verificar tus "
+"resultados, incluso al principio del proceso de investigación."
 
 #: reproducibility/01/importantforscience.md:6
 msgid "Thus, the full analysis and methodology is transparent."
 msgstr ""
+"Por lo tanto, tanto el proceso de análisis como la metodología son "
+"transparentes."
 
 #: reproducibility/01/importantforscience.md:7
-msgid "Scientific results and evidence are strengthened if they are reproduced and confirmed by several independent researchers."
+msgid ""
+"Scientific results and evidence are strengthened if they are reproduced and "
+"confirmed by several independent researchers."
 msgstr ""
+"Los resultados y la evidencia científica se fortalecen si son reproducidos y"
+" confirmados por varios investigadores de manera independiente."
 
 #: reproducibility/01/importantforscience.md:8
-msgid "With all parts used in an analysis being available and/or documented, valuable time is saved reproducing published results and other researchers can easily build on these resarch results and re-use data or code for their analyses."
+msgid ""
+"With all parts used in an analysis being available and/or documented, "
+"valuable time is saved reproducing published results and other researchers "
+"can easily build on these resarch results and re-use data or code for their "
+"analyses."
 msgstr ""
+"Cuando todas las herramientas y procedimientos usados en un análisis están "
+"disponibles y bien documentados, se ahorra un tiempo valioso reproduciendo "
+"los resultados publicados y otros investigadores pueden aprovechar "
+"fácilmente estos resultados reutilizando datos y/o códigos para sus "
+"análisis."
 
 #: reproducibility/01/importantforscience.md:9
-msgid "In addition, so called \"negative results\" can be published easily, helping avoid other researchers wasting time repeating analyses that will not return the expected results (Dirnagl & Lauritzen, 2010)."
+msgid ""
+"In addition, so called \"negative results\" can be published easily, helping"
+" avoid other researchers wasting time repeating analyses that will not "
+"return the expected results (Dirnagl & Lauritzen, 2010)."
 msgstr ""
+"Además, los llamados \"resultados negativos\" se pueden publicar fácilmente,"
+" lo que ayuda a evitar que otros investigadores pierdan el tiempo repitiendo"
+" análisis que no arrojarán los resultados esperados (Dirnagl y Lauritzen, "
+"2010)."
 
-#: reproducibility/02/whycare.md:1
 # header
+#: reproducibility/02/whycare.md:1
 msgid "# Why you should care about reproducibility"
-msgstr ""
+msgstr "¿Por qué deberías preocuparte por la reproducibilidad?"
 
 #: reproducibility/02/whycare.md:3
-msgid "Markowetz highlights five reasons to work reproducibly (Markowetz, 2015):"
+msgid ""
+"Markowetz highlights five reasons to work reproducibly (Markowetz, 2015):"
 msgstr ""
+"Markowetz destaca cinco razones para trabajar de forma reproducible "
+"(Markowetz, 2015):"
 
+# unordered list
 #: reproducibility/02/whycare.md:5
-# unordered list
-msgid "- **Avoiding disaster**: By working reproducibly, you can trust your own research results and will not have to retract published results or keep publications back because you cannot reproduce your results."
+msgid ""
+"- **Avoiding disaster**: By working reproducibly, you can trust your own "
+"research results and will not have to retract published results or keep "
+"publications back because you cannot reproduce your results."
 msgstr ""
+"- ** Evitar desastres **: al trabajar de forma reproducible, puedes confiar "
+"en los resultados de tu investigación. Reducirás la posibilidad de tener que"
+" retractarte en el caso de resultados publicados o de retener publicaciones "
+"porque no puedes reproducir tus resultados."
 
-#: reproducibility/02/whycare.md:6
 # unordered list
-msgid "- **Writing papers easier**: Well documented analyses ensure that you have easy access to the latest results, your work can easily be written up, and collaborators can easily get on board as additional authors."
+#: reproducibility/02/whycare.md:6
+msgid ""
+"- **Writing papers easier**: Well documented analyses ensure that you have "
+"easy access to the latest results, your work can easily be written up, and "
+"collaborators can easily get on board as additional authors."
 msgstr ""
+"- ** Facilitar la redacción de artículos científicos **: un análisis bien "
+"documentados asegura que tengas fácil acceso a los últimos resultados lo que"
+" facilita la redacción de los artículos científicos y que los colaboradores "
+"puedan también participar fácilmente en el proceso."
 
 #: reproducibility/02/whycare.md:7
-msgid "Furthermore, you can be sure that you easily comply with the highest-level journal guidelines."
+msgid ""
+"Furthermore, you can be sure that you easily comply with the highest-level "
+"journal guidelines."
 msgstr ""
+"Además, puedes estar seguro de cumplir fácilmente con las pautas de las "
+"revistas científicas de más alto nivel."
 
+# unordered list
 #: reproducibility/02/whycare.md:8
-# unordered list
-msgid "- **Convincing reviewers**: Making code and data available to the reviewers means their review comments will be constructive as they are able to develop an in-depth understanding of your work and can even try changes to your analysis themselves and see the impact."
+msgid ""
+"- **Convincing reviewers**: Making code and data available to the reviewers "
+"means their review comments will be constructive as they are able to develop"
+" an in-depth understanding of your work and can even try changes to your "
+"analysis themselves and see the impact."
 msgstr ""
+"- ** Convencer a los revisores **: Poner el código y los datos a disposición"
+" de los revisores incrementa la posibilidad de que sus comentarios serán más"
+" constructivos, ya que pueden desarrollar una comprensión profunda de tu "
+"trabajo e incluso pueden implementar cambios directamente en tu análisis y "
+"ver el impacto."
 
+# unordered list
 #: reproducibility/02/whycare.md:9
-# unordered list
-msgid "- **Facilitating continuity of work**: Well documented work means your work can easily be picked up and continued - either by others in your laboratory, or yourself if you want to build on your own work after a longer period."
+msgid ""
+"- **Facilitating continuity of work**: Well documented work means your work "
+"can easily be picked up and continued - either by others in your laboratory,"
+" or yourself if you want to build on your own work after a longer period."
 msgstr ""
+"- ** Facilitar la continuidad del trabajo **: un trabajo bien documentado "
+"facilita que tu trabajo pueda ser fácilmente continuado, ya sea por otros en"
+" tu laboratorio o por ti mismo en el futuro."
 
-#: reproducibility/02/whycare.md:10
 # unordered list
-msgid "- **Building your reputation**: Putting in effort to make your research reproducible shows that you are a careful researcher and makes your research results more robust."
+#: reproducibility/02/whycare.md:10
+msgid ""
+"- **Building your reputation**: Putting in effort to make your research "
+"reproducible shows that you are a careful researcher and makes your research"
+" results more robust."
 msgstr ""
+"- ** Construir tu reputación **: Hacer un esfuerzo para hacer que tu "
+"investigación sea reproducible demuestra que eres un investigador cuidadoso "
+"y que te preocupas porque los resultados de tu investigación sean más "
+"sólidos."
 
 #: reproducibility/02/whycare.md:12
-msgid "Papers whose underlying data is available get cited more often (Piwowar, Day & Fridsma, 2007; Piwowar & Vision, 2013)."
+msgid ""
+"Papers whose underlying data is available get cited more often (Piwowar, Day"
+" & Fridsma, 2007; Piwowar & Vision, 2013)."
 msgstr ""
+"Los artículos científicos cuyos datos están disponibles son citados con "
+"mayor frecuencia (Piwowar, Day & Fridsma, 2007; Piwowar & Vision, 2013)."
 
 #: reproducibility/02/whycare.md:13
-msgid "All research outputs that are shared can be built upon more easily by others and in some cases, others following up on your work might lead to new collaborations."
+msgid ""
+"All research outputs that are shared can be built upon more easily by others"
+" and in some cases, others following up on your work might lead to new "
+"collaborations."
 msgstr ""
+"Compartir tus resultados permite que tu investigación pueda servir de base "
+"para otros investigadores y, en algunos casos, puede conducir a nuevas "
+"colaboraciones."
 
 #: reproducibility/02/whycare.md:14
-msgid "Other benefits of working openly are covered in our [Open Research](../open_research/open_research) chapter."
+msgid ""
+"Other benefits of working openly are covered in our [Open "
+"Research](../open_research/open_research) chapter."
 msgstr ""
+"Otros beneficios de trabajar de manera abierta son discutidos en nuestro "
+"capítulo [Investigación abierta] (../open_research/open_research)."
 
-#: reproducibility/03/definitions.md:1
 # header
+#: reproducibility/03/definitions.md:1
 msgid "# Definitions of reproducibility"
-msgstr ""
+msgstr "Definiciones de reproducibilidad"
 
 #: reproducibility/03/definitions.md:3
-msgid "The most common definition of reproducibility (and replication) was first noted by Claerbout and Karrenbach in 1992 and has been used in computational science literature since then."
+msgid ""
+"The most common definition of reproducibility (and replication) was first "
+"noted by Claerbout and Karrenbach in 1992 and has been used in computational"
+" science literature since then."
 msgstr ""
+"La definición más común de reproducibilidad (y replicabilidad) es aquella "
+"presentada por Claerbout y Karrenbach en 1992 y se ha utilizado en la "
+"literatura de ciencias computacionales desde entonces."
 
 #: reproducibility/03/definitions.md:4
-msgid "Another popular definition has been introduced in 2013 by the Association for Computing Machinery (ACM), which swapped the meaning of the terms 'reproducible' and 'replicable' compared to Claerbout and Karrenbach."
+msgid ""
+"Another popular definition has been introduced in 2013 by the Association "
+"for Computing Machinery (ACM), which swapped the meaning of the terms "
+"'reproducible' and 'replicable' compared to Claerbout and Karrenbach."
 msgstr ""
+"La Asociación de Maquinaria Informática (ACM, por sus siglas en inglés "
+"\"Association for Computing Machinery\") introdujo en 2013 otra definición, "
+"que cambió el significado de los términos 'reproducible' y 'replicable' en "
+"comparación con Claerbout y Karrenbach."
 
 #: reproducibility/03/definitions.md:5
-msgid "The following table contrasts both definitions following Heroux et al. (2018)."
+msgid ""
+"The following table contrasts both definitions following Heroux et al. "
+"(2018)."
 msgstr ""
+"En la siguiente tabla se comparan ambas definiciones [Heroux et al. (2018)]"
 
 #: reproducibility/03/definitions.md:7
 msgid "| Term | Claerbout & Karrenbach | ACM |"
-msgstr ""
+msgstr "| Concepto | Claerbout & Karrenbach | ACM |"
 
 #: reproducibility/03/definitions.md:8
 msgid "| -----|------------------------|-----|"
-msgstr ""
+msgstr "| -----|------------------------|-----|"
 
 #: reproducibility/03/definitions.md:9
-msgid "| Reproducible | Authors provide all the necessary data and the computer codes to run the analysis again, re-creating the results.| (Different team, different experimental setup.) The measurement can be obtained with stated precision by a different team, a different measuring system, in a different location on multiple trials. For computational experiments, this means that an independent group can obtain the same result using artifacts which they develop completely independently. |"
+msgid ""
+"| Reproducible | Authors provide all the necessary data and the computer "
+"codes to run the analysis again, re-creating the results.| (Different team, "
+"different experimental setup.) The measurement can be obtained with stated "
+"precision by a different team, a different measuring system, in a different "
+"location on multiple trials. For computational experiments, this means that "
+"an independent group can obtain the same result using artifacts which they "
+"develop completely independently. |"
 msgstr ""
+"| Reproducible | Los autores proporcionan todos los datos necesarios y los "
+"códigos para ejecutar el análisis y recrear los resultados.| (Equipo "
+"diferente, configuración experimental diferente). La medición puede ser "
+"obtenida con precisión establecida por un equipo diferente, un sistema de "
+"medición diferente, en una ubicación diferente y en múltiples ensayos. Para "
+"experimentos computacionales, esto significa que un grupo independiente "
+"puede obtener el mismo resultado utilizando artefactos que desarrollan de "
+"forma completamente independiente. |"
 
 #: reproducibility/03/definitions.md:10
-msgid "| Replicable |  A study that arrives at the same scientific findings as another study, collecting new data (possibly with different methods) and completing new analyses. | (Different team, same experimental setup.) The measurement can be obtained with stated precision by a different team using the same measurement procedure, the same measuring system, under the same operating conditions, in the same or a different location on multiple trials. For computational experiments, this means that an independent group can obtain the same result using the author's own artifacts. |"
+msgid ""
+"| Replicable |  A study that arrives at the same scientific findings as "
+"another study, collecting new data (possibly with different methods) and "
+"completing new analyses. | (Different team, same experimental setup.) The "
+"measurement can be obtained with stated precision by a different team using "
+"the same measurement procedure, the same measuring system, under the same "
+"operating conditions, in the same or a different location on multiple "
+"trials. For computational experiments, this means that an independent group "
+"can obtain the same result using the author's own artifacts. |"
 msgstr ""
+"| Replicable | Un estudio que obtiene los mismos hallazgos científicos que "
+"otro estudio recolectando datos nuevos (posiblemente con métodos diferentes)"
+" y completando nuevos análisis. | (Equipo diferente, misma configuración "
+"experimental.) La medición puede ser obtenida con precisión establecida por "
+"un equipo diferente usando el mismo procedimiento de medición, el mismo "
+"sistema de medición, bajo las mismas condiciones de operación, en la misma "
+"ubicación o en una ubicación diferente y en múltiples ensayos. Para "
+"experimentos computacionales, esto significa que un grupo independiente "
+"puede obtener el mismo resultado utilizando los artefactos propios del "
+"autor. |"
 
 #: reproducibility/03/definitions.md:12
-msgid "Barba (2018) conducted a detailed literature review on the usage of reproducible/replicable covering several disciplines."
+msgid ""
+"Barba (2018) conducted a detailed literature review on the usage of "
+"reproducible/replicable covering several disciplines."
 msgstr ""
+"Barba (2018) realizó una revisión detallada de la literatura sobre el uso de"
+" reproducible/replicable cubriendo varias disciplinas."
 
 #: reproducibility/03/definitions.md:13
-msgid "Most papers and disciplines use the terminology as defined by Claerbout and Karrenbach, whereas mircobiology, immunology and computer science tend to follow the ACM use of reproducibility and replication."
+msgid ""
+"Most papers and disciplines use the terminology as defined by Claerbout and "
+"Karrenbach, whereas mircobiology, immunology and computer science tend to "
+"follow the ACM use of reproducibility and replication."
 msgstr ""
+"La mayoría de los artículos y disciplinas científicas utilizan la "
+"terminología definida por Claerbout y Karrenbach, mientras que la "
+"microbiología, la inmunología y las ciencias computacionales tienden a "
+"seguir la definición de reproducibilidad y replicabilidad de la ACM."
 
 #: reproducibility/03/definitions.md:14
-msgid "In political science and economics literature, both terms are used interchangeably."
+msgid ""
+"In political science and economics literature, both terms are used "
+"interchangeably."
 msgstr ""
+"En la literatura de ciencias políticas y economía, ambos términos se usan "
+"indistintamente."
 
 #: reproducibility/03/definitions.md:16
-msgid "In addition to these high level definitions of reporducibility, some authors provide more detailed disctinctions."
+msgid ""
+"In addition to these high level definitions of reporducibility, some authors"
+" provide more detailed disctinctions."
 msgstr ""
+"Además de estas definiciones de reproducibilidad, algunos autores "
+"proporcionan definiciones y comparaciones más detalladas."
 
 #: reproducibility/03/definitions.md:17
-msgid "Victoria Stodden [(2014)](http://edge.org/response-detail/25340), a prominent scholar on this topic, has for example identified the following further distinctions:"
+msgid ""
+"Victoria Stodden [(2014)](http://edge.org/response-detail/25340), a "
+"prominent scholar on this topic, has for example identified the following "
+"further distinctions:"
 msgstr ""
+"Victoria Stodden [(2014)] (http://edge.org/response-detail/25340), una "
+"destacada académica en este tema, ha identificado, por ejemplo, las "
+"siguientes distinciones adicionales:"
 
+# unordered list
 #: reproducibility/03/definitions.md:19
-# unordered list
-msgid "- _Computational reproducibility_: When detailed information is provided about code, software, hardware and implementation details."
+msgid ""
+"- _Computational reproducibility_: When detailed information is provided "
+"about code, software, hardware and implementation details."
 msgstr ""
+"- _Reproducibilidad computacional_: cuando se proporciona información "
+"detallada sobre el código, el software, el hardware y los detalles de "
+"implementación."
 
+# unordered list
 #: reproducibility/03/definitions.md:21
-# unordered list
-msgid "- _Empirical reproducibility_: When detailed information is provided about non-computational empirical scientific experiments and observations. In practice this is enabled by making data freely available, as well as details of how the data was collected."
+msgid ""
+"- _Empirical reproducibility_: When detailed information is provided about "
+"non-computational empirical scientific experiments and observations. In "
+"practice this is enabled by making data freely available, as well as details"
+" of how the data was collected."
 msgstr ""
+"- _Reproducibilidad empírica_: cuando se proporciona información detallada "
+"sobre experimentos y observaciones científicas empíricas no computacionales."
+" En la práctica, esto se habilita haciendo que los datos estén disponibles "
+"gratuitamente, así como también los detalles de cómo se recopilaron los "
+"datos."
 
+# unordered list
 #: reproducibility/03/definitions.md:23
-# unordered list
-msgid "- _Statistical reproducibility_: When detailed information is provided, for example, about the choice of statistical tests, model parameters, and threshold values. This mostly relates to pre-registration of study design to prevent p-value hacking and other manipulations."
+msgid ""
+"- _Statistical reproducibility_: When detailed information is provided, for "
+"example, about the choice of statistical tests, model parameters, and "
+"threshold values. This mostly relates to pre-registration of study design to"
+" prevent p-value hacking and other manipulations."
 msgstr ""
+"- _Reproducibilidad estadística_: cuando se proporciona información "
+"detallada, por ejemplo, sobre la elección de pruebas estadísticas, "
+"parámetros del modelos y valores de umbral/threshold. Esto se relaciona "
+"principalmente con el registro previo del diseño del estudio para evitar "
+"p-hacking y otras manipulaciones."
 
-#: reproducibility/03/definitions.md:25
 # header
+#: reproducibility/03/definitions.md:25
 msgid "## The Turing Way definition of reproducibility"
-msgstr ""
+msgstr "## La definición de reproducibilidad del Turing Way"
 
 #: reproducibility/03/definitions.md:27
-msgid "The Turing Way project will define reproducible research as both data and code being available to fully rerun the analysis."
+msgid ""
+"The Turing Way project will define reproducible research as both data and "
+"code being available to fully rerun the analysis."
 msgstr ""
+"El Turing Way definirá la investigación reproducible como aquella donde "
+"datos y código están disponibles para volver a ejecutar completamente el "
+"análisis."
 
 #: reproducibility/03/definitions.md:29
-msgid "| ![Kirstie's definition of reproducible research](../../figures/reproducibility/ReproducibleMatrix.jpg) |"
+msgid ""
+"| ![Kirstie's definition of reproducible "
+"research](../../figures/reproducibility/ReproducibleMatrix.jpg) |"
 msgstr ""
+"| ![La definición de Kirstie de investigación "
+"reproducible](../../figures/reproducibility/ReproducibleMatrix.jpg) |"
 
 #: reproducibility/03/definitions.md:30
-msgid "| -------------------------------------------------------------------------------------------------------- |"
+msgid ""
+"| "
+"--------------------------------------------------------------------------------------------------------"
+" |"
 msgstr ""
+"| "
+"--------------------------------------------------------------------------------------------------------"
+" |"
 
 #: reproducibility/03/definitions.md:31
 msgid "|  How the Turing Way defines reproducible research  |"
-msgstr ""
+msgstr "| ¿Cómo define el Turing Way la investigación reproducible? |"
 
 #: reproducibility/03/definitions.md:33
-msgid "However, we recognize that some research will use sensitive data that cannot be shared and this handbook will provide guides on how your research can be reproducible without all parts necessarily being open."
+msgid ""
+"However, we recognize that some research will use sensitive data that cannot"
+" be shared and this handbook will provide guides on how your research can be"
+" reproducible without all parts necessarily being open."
 msgstr ""
+"Sin embargo, reconocemos que algunas investigaciones utilizarán datos "
+"confidenciales que no se pueden compartir y este manual proporcionará guías "
+"sobre cómo tu investigación puede ser reproducible sin que todas las partes "
+"estén necesariamente abiertas y disponibles."
 
 #: reproducibility/03/definitions.md:35
 msgid "The handbook will cover:"
-msgstr ""
+msgstr "Esta guia cubrirá:"
 
+# unordered list
 #: reproducibility/03/definitions.md:36
-# unordered list
 msgid "* Open research"
-msgstr ""
+msgstr "* Investigación abierta"
 
+# unordered list
 #: reproducibility/03/definitions.md:37
-# unordered list
 msgid "* Version control (using git)"
-msgstr ""
+msgstr "* Control de versiones (usando git)"
 
+# unordered list
 #: reproducibility/03/definitions.md:38
-# unordered list
 msgid "* Collaborating on GitHub/GitLab"
-msgstr ""
+msgstr "* Colaborando en GitHub / GitLab"
 
+# unordered list
 #: reproducibility/03/definitions.md:39
-# unordered list
 msgid "* Credit for reproducible research"
-msgstr ""
+msgstr "* Crédito por investigación reproducible"
 
+# unordered list
 #: reproducibility/03/definitions.md:40
-# unordered list
 msgid "* Research data management"
-msgstr ""
+msgstr "* Gestión de datos de investigación"
 
+# unordered list
 #: reproducibility/03/definitions.md:41
-# unordered list
 msgid "* Reproducible environments"
-msgstr ""
+msgstr "* Ambientes reproducibles"
 
+# unordered list
 #: reproducibility/03/definitions.md:42
-# unordered list
 msgid "* Testing"
-msgstr ""
+msgstr "* Pruebas"
 
+# unordered list
 #: reproducibility/03/definitions.md:43
-# unordered list
 msgid "* Reviewing"
-msgstr ""
+msgstr "* Revisando"
 
+# unordered list
 #: reproducibility/03/definitions.md:44
-# unordered list
 msgid "* Continuous integration"
-msgstr ""
+msgstr "* Integración continua"
 
+# unordered list
 #: reproducibility/03/definitions.md:45
-# unordered list
 msgid "* Reproducible research with make"
-msgstr ""
+msgstr "* Investigación reproducible con \"make\""
 
+# unordered list
 #: reproducibility/03/definitions.md:46
-# unordered list
 msgid "* Risk assessments"
-msgstr ""
+msgstr "* Evaluaciones de riesgo"
 
+# unordered list
 #: reproducibility/03/definitions.md:47
-# unordered list
 msgid "* Various case studies"
-msgstr ""
+msgstr "* Varios casos de estudio"
 
+# unordered list
 #: reproducibility/03/definitions.md:48
-# unordered list
 msgid "* Checklists to get you started on reproducible practices"
-msgstr ""
+msgstr "* Listas de verificación para comenzar con prácticas reproducibles"
 
+# header
 #: reproducibility/04/resources.md:1
-# header
 msgid "# Resources for reproducibility chapter"
-msgstr ""
+msgstr "# Recursos para el capítulo de reproducibilidad"
 
+# header
 #: reproducibility/04/resources.md:3
-# header
 msgid "## Checklist / Exercise"
-msgstr ""
+msgstr "## Lista de verificación / ejercicio"
 
-#: reproducibility/04/resources.md:4
 # unordered list
+#: reproducibility/04/resources.md:4
 msgid "- [ ] Define reproducibility for yourself."
-msgstr ""
+msgstr "- [ ] Define la reproducibilidad usted mismo."
 
-#: reproducibility/04/resources.md:6
 # header
+#: reproducibility/04/resources.md:6
 msgid "## What to learn next?"
-msgstr ""
+msgstr "## ¿Qué aprender a continuación?"
 
 #: reproducibility/04/resources.md:7
 msgid "Open Research would be a good chapter to read next."
 msgstr ""
+"Investigación abierta sería un buen capítulo para leer a continuación."
 
 #: reproducibility/04/resources.md:8
-msgid "If you want to start learning hands-on practices, we recommend reading the Version Control chapter next."
+msgid ""
+"If you want to start learning hands-on practices, we recommend reading the "
+"Version Control chapter next."
 msgstr ""
+"Si deseas comenzar a aprender principios prácticos, te recomendamos leer el "
+"capítulo Control de versiones a continuación."
 
+# header
 #: reproducibility/04/resources.md:10
-# header
 msgid "## Bibliography"
-msgstr ""
+msgstr "## Bibliografía"
 
+# unordered list
 #: reproducibility/04/resources.md:12
-# unordered list
-msgid "* Baker, M. (2016). 1,500 scientists lift the lid on reproducibility. Nature, 533(7604), 452–454. https://doi.org/10.1038/533452a"
+msgid ""
+"* Baker, M. (2016). 1,500 scientists lift the lid on reproducibility. "
+"Nature, 533(7604), 452–454. https://doi.org/10.1038/533452a"
 msgstr ""
+"* Baker, M. (2016). 1,500 scientists lift the lid on reproducibility. "
+"Nature, 533(7604), 452–454. https://doi.org/10.1038/533452a"
 
+# unordered list
 #: reproducibility/04/resources.md:14
-# unordered list
-msgid "* Barba, L. (2018). Terminologies for Reproducible Research, arXiv preprint: https://arxiv.org/abs/1802.03311"
+msgid ""
+"* Barba, L. (2018). Terminologies for Reproducible Research, arXiv preprint:"
+" https://arxiv.org/abs/1802.03311"
 msgstr ""
+"* Barba, L. (2018). Terminologies for Reproducible Research, arXiv preprint:"
+" https://arxiv.org/abs/1802.03311"
 
+# unordered list
 #: reproducibility/04/resources.md:16
-# unordered list
-msgid "* Claerbout, J. F., & Karrenbach, M. (1992). Electronic documents give reproducible research a new meaning. In SEG Technical Program Expanded Abstracts 1992. Society of Exploration Geophysicists. https://doi.org/10.1190/1.1822162"
+msgid ""
+"* Claerbout, J. F., & Karrenbach, M. (1992). Electronic documents give "
+"reproducible research a new meaning. In SEG Technical Program Expanded "
+"Abstracts 1992. Society of Exploration Geophysicists. "
+"https://doi.org/10.1190/1.1822162"
 msgstr ""
+"* Claerbout, J. F., & Karrenbach, M. (1992). Electronic documents give "
+"reproducible research a new meaning. In SEG Technical Program Expanded "
+"Abstracts 1992. Society of Exploration Geophysicists. "
+"https://doi.org/10.1190/1.1822162"
 
+# unordered list
 #: reproducibility/04/resources.md:18
-# unordered list
-msgid "* Dirnagl, U., & Lauritzen, M. (2010). Fighting Publication Bias: Introducing the Negative Results Section. Journal of Cerebral Blood Flow & Metabolism, 30(7), 1263–1264. https://doi.org/10.1038/jcbfm.2010.51"
+msgid ""
+"* Dirnagl, U., & Lauritzen, M. (2010). Fighting Publication Bias: "
+"Introducing the Negative Results Section. Journal of Cerebral Blood Flow & "
+"Metabolism, 30(7), 1263–1264. https://doi.org/10.1038/jcbfm.2010.51"
 msgstr ""
+"* Dirnagl, U., & Lauritzen, M. (2010). Fighting Publication Bias: "
+"Introducing the Negative Results Section. Journal of Cerebral Blood Flow & "
+"Metabolism, 30(7), 1263–1264. https://doi.org/10.1038/jcbfm.2010.51"
 
+# unordered list
 #: reproducibility/04/resources.md:20
-# unordered list
-msgid "* Heroux, M. A., Barba, L., Parashar, M., Stodden, V., & Taufer, M. (2018). Toward a Compatible Reproducibility Taxonomy for Computational and Computing Sciences. Office of Scientific and Technical Information (OSTI). https://doi.org/10.2172/1481626"
+msgid ""
+"* Heroux, M. A., Barba, L., Parashar, M., Stodden, V., & Taufer, M. (2018). "
+"Toward a Compatible Reproducibility Taxonomy for Computational and Computing"
+" Sciences. Office of Scientific and Technical Information (OSTI). "
+"https://doi.org/10.2172/1481626"
 msgstr ""
+"* Heroux, M. A., Barba, L., Parashar, M., Stodden, V., & Taufer, M. (2018). "
+"Toward a Compatible Reproducibility Taxonomy for Computational and Computing"
+" Sciences. Office of Scientific and Technical Information (OSTI). "
+"https://doi.org/10.2172/1481626"
 
+# unordered list
 #: reproducibility/04/resources.md:22
-# unordered list
-msgid "* Markowetz, F. (2015). Five selfish reasons to work reproducibly. Genome Biology, 16(1). https://doi.org/10.1186/s13059-015-0850-7"
+msgid ""
+"* Markowetz, F. (2015). Five selfish reasons to work reproducibly. Genome "
+"Biology, 16(1). https://doi.org/10.1186/s13059-015-0850-7"
 msgstr ""
+"* Markowetz, F. (2015). Five selfish reasons to work reproducibly. Genome "
+"Biology, 16(1). https://doi.org/10.1186/s13059-015-0850-7"
 
+# unordered list
 #: reproducibility/04/resources.md:24
-# unordered list
-msgid "* Piwowar, H. A., Day, R. S., & Fridsma, D. B. (2007). Sharing Detailed Research Data Is Associated with Increased Citation Rate. PLoS ONE, 2(3), e308. https://doi.org/10.1371/journal.pone.0000308"
+msgid ""
+"* Piwowar, H. A., Day, R. S., & Fridsma, D. B. (2007). Sharing Detailed "
+"Research Data Is Associated with Increased Citation Rate. PLoS ONE, 2(3), "
+"e308. https://doi.org/10.1371/journal.pone.0000308"
 msgstr ""
+"* Piwowar, H. A., Day, R. S., & Fridsma, D. B. (2007). Sharing Detailed "
+"Research Data Is Associated with Increased Citation Rate. PLoS ONE, 2(3), "
+"e308. https://doi.org/10.1371/journal.pone.0000308"
 
+# unordered list
 #: reproducibility/04/resources.md:26
-# unordered list
-msgid "* Piwowar, H. A., & Vision, T. J. (2013). Data reuse and the open data citation advantage. PeerJ, 1, e175. https://doi.org/10.7717/peerj.175"
+msgid ""
+"* Piwowar, H. A., & Vision, T. J. (2013). Data reuse and the open data "
+"citation advantage. PeerJ, 1, e175. https://doi.org/10.7717/peerj.175"
 msgstr ""
+"* Piwowar, H. A., & Vision, T. J. (2013). Data reuse and the open data "
+"citation advantage. PeerJ, 1, e175. https://doi.org/10.7717/peerj.175"
 
+# unordered list
 #: reproducibility/04/resources.md:28
-# unordered list
-msgid "* Whitaker, Kirstie (2018): Barriers to reproducible research (and how to overcome them). figshare. Paper. https://doi.org/10.6084/m9.figshare.7140050.v2"
+msgid ""
+"* Whitaker, Kirstie (2018): Barriers to reproducible research (and how to "
+"overcome them). figshare. Paper. "
+"https://doi.org/10.6084/m9.figshare.7140050.v2"
 msgstr ""
+"* Whitaker, Kirstie (2018): Barriers to reproducible research (and how to "
+"overcome them). figshare. Paper. "
+"https://doi.org/10.6084/m9.figshare.7140050.v2"
 
+# header
 #: reproducibility/04/resources.md:30
-# header
 msgid "## Additional material"
-msgstr ""
+msgstr "## Material adicional"
 
+# header
 #: reproducibility/04/resources.md:31
-# header
 msgid "### Videos"
-msgstr ""
+msgstr "### Videos"
 
+# unordered list
 #: reproducibility/04/resources.md:33
-# unordered list
-msgid "* Markowetz, F. (2016). 5 selfish reasons to work reproducibly. Talk at scidata 2016. https://www.youtube.com/watch?v=Is15CMVPHas&feature=youtu.be"
+msgid ""
+"* Markowetz, F. (2016). 5 selfish reasons to work reproducibly. Talk at "
+"scidata 2016. https://www.youtube.com/watch?v=Is15CMVPHas&feature=youtu.be"
 msgstr ""
+"* Markowetz, F. (2016). 5 selfish reasons to work reproducibly. Talk at "
+"scidata 2016. https://www.youtube.com/watch?v=Is15CMVPHas&feature=youtu.be"
 
+# header
 #: reproducibility/04/resources.md:35
-# header
 msgid "### Recommended reading"
-msgstr ""
+msgstr " ### Lectura recomendada"
 
+# unordered list
 #: reproducibility/04/resources.md:36
-# unordered list
-msgid "* Barba, L. (2017): Barba-group Reproducibility Syllabus. figshare. Paper. https://doi.org/10.6084/m9.figshare.4879928.v1"
+msgid ""
+"* Barba, L. (2017): Barba-group Reproducibility Syllabus. figshare. Paper. "
+"https://doi.org/10.6084/m9.figshare.4879928.v1"
 msgstr ""
+"* Barba, L. (2017): Barba-group Reproducibility Syllabus. figshare. Paper. "
+"https://doi.org/10.6084/m9.figshare.4879928.v1"
 
+# header
 #: reproducibility/04/resources.md:38
-# header
 msgid "### Other useful links"
-msgstr ""
+msgstr "### Otros enlaces útiles"
 
-#: reproducibility/04/resources.md:39
 # unordered list
-msgid "* Markowetz, F. (2018). 5 selfish reasons to work reproducibly. Slides available at https://osf.io/a8wq4/"
+#: reproducibility/04/resources.md:39
+msgid ""
+"* Markowetz, F. (2018). 5 selfish reasons to work reproducibly. Slides "
+"available at https://osf.io/a8wq4/"
 msgstr ""
+"* Markowetz, F. (2018). 5 selfish reasons to work reproducibly. Slides "
+"available at https://osf.io/a8wq4/"
 
+# header
 #: reproducibility/reproducibility.md:1
-# header
 msgid "# What is reproducible science?"
-msgstr ""
+msgstr "# ¿Qué es ciencia reproducible?"
 
-#: reproducibility/reproducibility.md:3
 # header
+#: reproducibility/reproducibility.md:3
 msgid "## Prerequisites / recommended skill level"
-msgstr ""
+msgstr "## Pre-requisitos / nivel de conocimiento recomendado"
 
 #: reproducibility/reproducibility.md:4
 msgid "No previous knowledge needed."
-msgstr ""
+msgstr "Sin necesidad de conocimiento previo."
 
-#: reproducibility/reproducibility.md:6
 # header
+#: reproducibility/reproducibility.md:6
 msgid "## Table of contents"
-msgstr ""
+msgstr "## Tabla de contenidos"
 
+# ordered list
 #: reproducibility/reproducibility.md:8
-# ordered list
-msgid "1. [Why reproducibility is important for science](01/importantforscience)"
+msgid ""
+"1. [Why reproducibility is important for science](01/importantforscience)"
 msgstr ""
+"1. [Por qué la reproducibilidad es importante para la ciencia] (01 / "
+"importantforscience)"
 
-#: reproducibility/reproducibility.md:9
 # ordered list
+#: reproducibility/reproducibility.md:9
 msgid "2. [Why you should care about reproducibility](02/whycare)"
 msgstr ""
+"2. [Por qué deberías preocuparte por la reproducibilidad] (02/whycare)"
 
+# ordered list
 #: reproducibility/reproducibility.md:10
-# ordered list
 msgid "3. [Definitions of reproducibility](03/definitions)"
-msgstr ""
+msgstr "3. [Definiciones de reproducibilidad] (03/definitions)"
 
-#: reproducibility/reproducibility.md:11
 # ordered list
+#: reproducibility/reproducibility.md:11
 msgid "4. [Resources for reproducibility chapter](04/resources)"
-msgstr ""
+msgstr "4. [Capítulo sobre recursos para la reproducibilidad](04/resources)"
 
-#: reproducibility/reproducibility.md:13
 # header
+#: reproducibility/reproducibility.md:13
 msgid "## Summary"
-msgstr ""
+msgstr "## Resumen"
 
 #: reproducibility/reproducibility.md:14
-msgid "There are several definitions of reproducibility in use, and we discuss these in more detail in the [definitions](03/definitions) section of this chapter."
+msgid ""
+"There are several definitions of reproducibility in use, and we discuss "
+"these in more detail in the [definitions](03/definitions) section of this "
+"chapter."
 msgstr ""
+"Hay varias definiciones de reproducibilidad en uso, y las discutimos con más"
+" detalle en la sección [definiciones](03/definitions) de este capítulo."
 
 #: reproducibility/reproducibility.md:15
-msgid "The Turing Way defines reproducibility as data and code being available to fully rerun the analysis."
+msgid ""
+"The Turing Way defines reproducibility as data and code being available to "
+"fully rerun the analysis."
 msgstr ""
+"The Turing Way define la reproducibilidad como los datos y el código "
+"disponible para volver a ejecutar un análisis por completo."
 
 #: reproducibility/reproducibility.md:16
-msgid "This chapter will lay out why reproducibility is important for science and scientists, provide an overview of the most common definitions, and define reproducibility in the context of this handbook."
+msgid ""
+"This chapter will lay out why reproducibility is important for science and "
+"scientists, provide an overview of the most common definitions, and define "
+"reproducibility in the context of this handbook."
 msgstr ""
+"Este capítulo expondrá por qué la reproducibilidad es importante para la "
+"ciencia y los científicos, proporcionará una descripción general de las "
+"definiciones más comunes y definirá la reproducibilidad en el contexto de "
+"esta guía."
 
-#: reproducibility/reproducibility.md:18
 # header
+#: reproducibility/reproducibility.md:18
 msgid "## How this will help you / why this is useful"
-msgstr ""
+msgstr "## Cómo te ayudará esto / por qué es útil"
 
 #: reproducibility/reproducibility.md:19
-msgid "This chapter sets out the definition of reproducibility that the Turing Way project team used when writing this handbook."
+msgid ""
+"This chapter sets out the definition of reproducibility that the Turing Way "
+"project team used when writing this handbook."
 msgstr ""
+"Este capítulo establece la definición de reproducibilidad que el equipo del "
+"proyecto Turing Way utilizó al escribir este manual."
 
 #: reproducibility/reproducibility.md:20
-msgid "It will be useful to avoid misunderstandings when reading the rest of the handbook."
-msgstr ""
-
+msgid ""
+"It will be useful to avoid misunderstandings when reading the rest of the "
+"handbook."
+msgstr "Será útil para evitar malentendidos al leer el resto del manual."
