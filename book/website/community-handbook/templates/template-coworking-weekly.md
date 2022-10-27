@@ -27,8 +27,6 @@ If you would like to join _The Turing Way_ co-working hour - sign up for a slot 
 
 :hourglass_flowing_sand: **Schedule:**
 
-**Schedule:**
-
 | Duration | Activity |
 | ---- | -------- |
 | Start | 👋 Welcome |

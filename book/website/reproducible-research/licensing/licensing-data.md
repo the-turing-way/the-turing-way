@@ -26,7 +26,7 @@ The only exception to this naming scheme is CC0, which will be introduced in the
 |---|---|
 BY | Creator must be credited
 SA | Derivatives or redistributions must have identical license
-NC | Only non-commerical uses are allowed
+NC | Only non-commercial uses are allowed
 ND | No derivatives are allowed
 
 

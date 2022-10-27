@@ -1,0 +1,25 @@
+template: |
+  ## The Turing Way: A handbook for reproducible, ethical and collaborative research
+
+  [The Turing Way March 2022](https://github.com/alan-turing-institute/the-turing-way/releases/tag/v1.0.2) [Latest](https://github.com/alan-turing-institute/the-turing-way/releases/latest)
+
+  The Turing Way is an open source community-driven guide to reproducible, ethical, inclusive and collaborative data science. The Turing Way book is collaboratively developed by its diverse community of researchers, learners, educators, and other stakeholders.
+
+  The Turing Way project is openly developed and any and all questions, comments and recommendations are welcome at our github repository: https://github.com/alan-turing-institute/the-turing-way. In 2020, the project underwent a major overhaul categorising chapters into 5 guides on reproducible research, project design, collaboration, communication and ethical research. Additionally, we added a community handbook to document all the practices designed and implemented towards the development of the project and community.
+
+  This release in 2021 includes additional chapters developed by our contributors across five guides and the community handbook. In addition, all the project documents from the project are provided as they appear on The Turing Way GitHub repository including the Zenodo metadata: https://github.com/alan-turing-institute/the-turing-way.
+
+  Release log
+
+  v1.0.3: Zenodo metadata information and additional chapters from Book Dash May 2022
+  v1.0.2: Zenodo metadata information and additional chapters since Book Dash November 2021
+  v1.0.1: Zenodo metadata information and additional chapters.
+  v1.0.0: Five guide expansion of The Turing Way with a community handbook
+  v0.0.4: Continuous integration chapter merged to main.
+  v0.0.3: Reproducible environments chapter merged to main.
+  v0.0.2: Version control chapter merged to main.
+  v0.0.1: Reproducibility chapter merged to main.
+
+  Full Changelog: https://github.com/alan-turing-institute/the-turing-way/compare/v1.0.1...v1.0.2 (Previous release: https://github.com/alan-turing-institute/the-turing-way/compare/v0.0.3...v1.0.1)
+
+  $PREVIOUS_TAG

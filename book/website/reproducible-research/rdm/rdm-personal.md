@@ -1,8 +1,7 @@
 (rr-rdm-personal)=
 # Personal data management
 
-This section provides a general overview of things to consider when working with personal data. 
-For a more practical overview on tools and practises that facilitate reproducibility, please see the `Sensitive Data` chapter under the {ref}`Guide for Project Design<pd>`.
+For a more practical overview on tools and practises that facilitate reproducibility, please see the [Sensitive Data chapters](https://the-turing-way.netlify.app/project-design/sdp.html) on [managing](https://the-turing-way.netlify.app/project-design/sdpm.html) and [working on](https://the-turing-way.netlify.app/project-design/sdpw.html) sensitive data under the [Guide for Project Design](https://the-turing-way.netlify.app/project-design/project-design.html#pd).
 
 ## Personal data
 
@@ -162,3 +161,5 @@ See [here](https://www.aalto.fi/en/services/rdm-training) for the full course.
 * [Presentation](https://www.youtube.com/watch?v=2WebuDlzEIw&list=PLG87Imnep1Sln3F69_kBROUrIbT5iderf&index=2) on Ethical and legal issues in data sharing by Hina Zahid.
 * [Slides](https://osf.io/5xhya/) by Hanne Elsen on Privacy and the GDPR in the Research Life Cycle. 
 * [Workshop materials](https://osf.io/em3da/) on data de-identification procedures for data sharing.
+* [Presentation](https://www.youtube.com/watch?v=9wu_xGeYsQw) by Manolis Terrovitis on data anonymisation made easy
+* [Anonymisation and Personal Data](https://www.fsd.tuni.fi/en/services/data-management-guidelines/anonymisation-and-identifiers/) by the Finnish Social Science Data Archive

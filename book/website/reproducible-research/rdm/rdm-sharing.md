@@ -13,12 +13,21 @@ Large amounts of research funds and careers of researchers can be wasted by only
 
 You can read more about why data should be available, and why some data should remain closed, in the {ref}`Open Data section <rr-open-data>`
 
+```{figure} ../../figures/birds-of-open-data.jpg
+---
+height: 400px
+name: birds-of-open-data.jpg
+alt: Two birds in a fountain of open data. One asks "You mind if I reuse this data?" The other answers "Go ahead! We can even work together on it!"
+---
+Birds of Open Data. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
 (rr-rdm-sharing-steps)=
 ## Steps To Share Your Data
 
 ### Step 1: Select what data you want to share
 
-Not all data can be made openly available, due to ethical and commercial concerns (see the {ref}`Open Data section <rr-open-data>), and you may decide that some of your intermediate data is too large to share.
+Not all data can be made openly available, due to ethical and commercial concerns (see the {ref}`Open Data section <rr-open-data>`), and you may decide that some of your intermediate data is too large to share.
 As such, you first need to decide which data you need to share for others to be able to reproduce your research.
 
 ### Step 2: Choose a data repository or other sharing platform

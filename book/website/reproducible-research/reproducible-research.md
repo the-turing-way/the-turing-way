@@ -20,7 +20,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 _The Turing Way_ started by defining reproducibility in the context of this handbook, laying out its importance for science and scientists, and providing an overview of the common concepts, tools and resources.
 The first few chapters were on {ref}`version control<rr-vcs>`, {ref}`testing<rr-testing>`, and {ref}`reproducible computational environments<rr-renv>`.
-Since the start of this project in 2019, many additional chapters have been written, edited, reviewed, read and promoted by over 100 contributors.
+Since the start of this project in 2019, many additional chapters have been written, edited, reviewed, read and promoted by over 300 contributors.
 
 We welcome your contributions to improve these chapters, add other important concepts in reproducibility, and empower researchers to work reproducibly from the start.
 Check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) to get involved.
