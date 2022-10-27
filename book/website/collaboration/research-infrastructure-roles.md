@@ -41,10 +41,13 @@ This initial list of examples of Research Infrastructure Roles that has been exp
 * Research software engineer
 * Research application manager
 * Programme manager
-* Data Steward
-* Research Infrastructure Developer
-* Partnership Development Manager
-* Grant Application Manager
-* x
-* x
-* x
+* Data steward
+* Data wrangler
+* Research infrastructure developer
+* Partnerships development manager
+* Grant application manager
+* Community engagement lead
+* Librarian
+* Communications manager
+* Events manager
+* Participatory research manager
