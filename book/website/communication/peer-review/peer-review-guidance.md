@@ -26,9 +26,12 @@ Beware of [predatory journals](https://predatoryjournals.com/journals/).
 
 1. Check if this paper is of interest to review and if you are the right person to review the paper. 
 Reviewers do not need to be experts in all respects. 
+The editor may ask you to focus on a specific aspect of the paper. 
+Alternatively, you may qualify your review with an indication of where you focused your review, if you do not feel you have the necessary expertise to evaluate all aspects of the paper.
 It is a good practice to describe your disciplinary background and expertise in relation to the manuscript you are invited to review.
 If you do not have useful expertise to improve the paper, politely decline.
 If you do not have sufficient time to review the paper, politely decline. 
+Recommending other potential reviewers when declining is helpful, but not necessary - a timely accept/decline response to the review request is more important.
 
 1. Check whether you know the author(s). 
 If you do, you might describe how you know the author(s) and ask the editor whether it is appropriate for you to review the paper.
@@ -101,6 +104,8 @@ Start from the assumption that the authors have invested a great deal of time in
 To ease the message you can use the sandwich principle: start with the strengths, then discuss the weaknesses, and conclude with an encouragement.
 6. Try to give actionable advice. 
 For the weaknesses in the paper, suggest ways to repair them. 
+Constructive criticism does not have to be in the form of a specific solution. 
+It can be much more useful to be specific about the problem and to let the authors identify a solution, than it is to provide the fix for them.
 It is convenient for both the editor and the authors to number your suggestions.
 Distinguish major issues, such as not discussing alternative explanations, from minor issues such as missing references and typos. 
 There could be points that the authors are underselling. 
