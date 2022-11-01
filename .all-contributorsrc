@@ -3803,6 +3803,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "ha0ye",
+      "name": "Hao Ye",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5835366?v=4",
+      "profile": "http://haoye.us",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
