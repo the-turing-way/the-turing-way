@@ -1,5 +1,5 @@
 # Presenting About the Turing Way
-Talks are a great way to engage new communities, teach people about open and reproducible practices, and expand the reach of the Turing Way by introducing the book and inviting new contributors. We encourage any Turing Way contributor to present on behalf of the Turing Way, and we ask that you use the guidelines detailed below to shape your talk and ensure consistency with TTW style. 
+Talks are a great way to engage new communities, teach people about open and reproducible practices, and expand the reach of _The Turing Way_ by introducing the book and inviting new contributors. We encourage any Turing Way contributor to present on behalf of _The Turing Way_, and we ask that you use the guidelines detailed below to shape your talk and ensure consistency with _The Turing Way_ style. 
 
 ### Planning a Talk
 Whether you are submitting an abstract to a conference or you have been invited to speak, a great thing to do is to engage the Turing Way community for support and to publicize the event. Even if the talk is not open to all, you can work with other community members to refine your slides and give a practice talk if you'd like. Please post the details in Slack under the ______ channel.
