@@ -514,6 +514,8 @@ parts:
                 file: collaboration/research-infrastructure-roles/rse-personal-story
               - title: Research Application Manager Overview
                 file: collaboration/research-infrastructure-roles/ram
+              - title: Research Infrastructure Developer Overview
+                file: collaboration/research-infrastructure-roles/rid
           - title: Remote Collaboration
             file: collaboration/remote-collab
             sections:
