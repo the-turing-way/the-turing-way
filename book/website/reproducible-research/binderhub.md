@@ -4,7 +4,7 @@
 ## Prerequisites/recommended skill level
 
 | Prerequisite | Importance |
-|---|---|---|
+|---|---|
 | {ref}`Version Control<rr-vcs>` | Very Important |
 | {ref}`Reproducible Environments<rr-renv>` | Very Important |
 

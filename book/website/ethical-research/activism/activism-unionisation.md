@@ -13,7 +13,7 @@ Larger unions often have full-time employees to support reps and workers, who ar
 
 In some, but not all countries, being a member of a trade union is a protected characteristic.
 This means organisations are not allowed to fire people for being members (but this has not always been the case).
-Under the General Data Protection Regulation (GDPR), the European Union considers union membership to be sensitive data and in the same category as genetic data or data on gender.
+Under the General Data Protection Regulation (GDPR), the European Union considers union membership to be sensitive data and in the same category as genetic data or data on ethnicity.
 
 (er-activism-unionisation-unionactivities)=
 ## What can unions do?
@@ -206,6 +206,11 @@ We recognise that the list below is very UK-centric and would welcome additions 
 #### Australia
 * **Professional Scientists Australia**, Australia (union covering industry scientists)[website](https://scientists.professionalsaustralia.org.au/)
 * [General list of Trade Unions in Australia](https://en.wikipedia.org/wiki/List_of_trade_unions_in_Australia)
+
+#### The Netherlands
+* **Federatie Nederlandse Vakbeweging (FNV)** is the largest trade union in The Netherlands with over 1 million members [website](https://www.fnv.nl/)
+* **Algemene Onderwijsbond (AOb)** has over 83.000 members and represents teachers and researchers in all education sectors [website](https://www.aob.nl/)
+* **Vakbond voor de wetenschap (VAWO)** was a labour union that specifically targetted scientific researchers which merged with the AOb in early 2022.
 
 (er-activism-unionisation-summary)=
 ## Summary
