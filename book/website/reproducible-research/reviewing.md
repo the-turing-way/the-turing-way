@@ -10,7 +10,6 @@
 
 ```{figure} ../figures/bug-catching.jpg
 ---
-height: 500px
 name: bug-catching
 alt: People catching different insects in different ways - representing bugs in our code or project.
 ---

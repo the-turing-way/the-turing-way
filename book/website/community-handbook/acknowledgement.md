@@ -9,7 +9,6 @@ We value all kinds of contributions in this project and are committed to recogni
 
 ```{figure} ../figures/theturingway-acknowledgement.jpg
 ---
-height: 400px
 name: theturingway-acknowledgement
 alt: This illustration shows that the traditional acknowledgement system is broken then it shows how we try to acknowledge them fairly. We have a contributors bot that catches all the contributors information and stores them in contributors record
 ---

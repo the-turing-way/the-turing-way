@@ -7,7 +7,6 @@ In this section we cover some of the (real and perceived) barriers you may face 
 
 ```{figure} ../../figures/barriers-reproducibility.png
 ---
-width: 500px
 name: reproducibility-barriers
 alt: Slide from the presentation showing the different barriers to reproducibility. The text in the center says 'Barriers to reproducible research' and the following barriers are arranged clockwise around the slide - Is not considered for promotion, Held to a higher standard than others, Publication bias towards novel findings, Plead the 5th, Takes time, Support additional users, Requires additional skills.
 ---
@@ -37,7 +36,6 @@ Although there is no _law_ governing the communication of reproducible research 
 
 ```{figure} ../../figures/make-ok-to-be-human.jpg
 ---
-height: 500px
 name: make-ok-to-be-human
 alt: A cartoon of a woman holding a folder of files and looking worried. Thought bubble says, If I share my data people might find mistakes. The caption on the images reads Need to make it ok to be human.
 ---

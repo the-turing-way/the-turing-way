@@ -62,7 +62,6 @@ For example, there is evidence {cite:ps}`McKiernan et al. 2016<McKiernan2016Open
 
 ```{figure} ../figures/open-access-citations.jpg
 ---
-height: 500px
 name: open-access-citations
 alt: A scatter plot of the relationship between citation rates and discipline
 ---

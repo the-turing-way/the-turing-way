@@ -11,7 +11,6 @@ While it is absolutely fine for us each to use different words, it will be usefu
 
 ```{figure} ../figures/reproducibility.jpg
 ---
-height: 500px
 name: reproducible
 alt: A person showing another person what steps to take to make your data research reproducible.
 ---

@@ -69,7 +69,6 @@ This was a trade union for scientists founded in the early 20th Century, which h
 
 ```{figure} ../../figures/scientific-union-badge.jpg
 ---
-height: 500px
 name: scientific-union-badge
 alt: A blue enamel badge with AScW, that stands for Association of Scientific Workers printed on it on a wooden background.
 ---

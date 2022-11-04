@@ -13,7 +13,6 @@ Thank you for joining the incredible journey of _The Turing Way_!
 
 ```{figure} ../figures/community.jpg
 ---
-height: 400px
 name: community
 alt: A garden full of folks working on different parts of the garden. Someone is welcoming others, someone is teaching the basics, someone is writing best practices and someone is helping this community grow.
 ---

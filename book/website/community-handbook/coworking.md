@@ -12,7 +12,6 @@ We bring the practice of coworking to _The Turing Way_ using online coworking ca
 
 ```{figure} ../figures/coworking.png
 ---
-height: 300px
 name: coworking
 alt: An illustration of a group of people who are working together and discussing something
 ---

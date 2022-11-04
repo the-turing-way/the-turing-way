@@ -8,7 +8,6 @@ While we send our newsletters by email to our subscribed members, we simultaneou
 
 ```{figure} ../figures/scriberia-newsletter.png
 ---
-height: 400px
 name: scriberia-newsletter
 alt: two people collecting information and pushing it through a device that produces a newsletter
 ---

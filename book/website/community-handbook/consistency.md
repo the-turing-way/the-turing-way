@@ -32,7 +32,6 @@ If you identify more consistency issues that need to be addressed, join the conv
 
 ```{figure} ../figures/theturingway-consistency.jpg
 ---
-height: 400px
 name: theturingway-consistency
 alt: This illustration shows a staircase indicating pathway to maintain consistency that has three pillars - formatting, structure and language. One person is guiding two new contributors up the staires.
 ---

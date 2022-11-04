@@ -5,7 +5,6 @@ Open research and its subcomponents fit under the umbrella of a broader concept 
 
 ```{figure} ../../figures/open-umbrella.png
 ---
-height: 500px
 name: open-umbrella
 alt: A depiction of Open Scholarship as an umbrella with other elements of Open Research beneath it.
 ---

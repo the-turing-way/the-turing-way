@@ -12,7 +12,6 @@ In the future, we will co-design hybrid events with "online-first" approach for 
 
 ```{figure} ../figures/first-pull-request.png
 ---
-height: 400px
 name: book-dash
 alt: A person helping out another person making their first pull request on GitHub
 ---
