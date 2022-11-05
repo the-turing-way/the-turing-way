@@ -23,11 +23,9 @@ If you would like to join _The Turing Way_ co-working hour - sign up for a slot 
 
 ### Code of conduct
 
-* [Take a moment to read this](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md)
+* [Take a moment to read this](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md)
 
 :hourglass_flowing_sand: **Schedule:**
-
-**Schedule:**
 
 | Duration | Activity |
 | ---- | -------- |

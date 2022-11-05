@@ -72,7 +72,7 @@ You can choose any of these starter workflows and customise them further.  An ex
 Github Action template is not the only starter kit available; there are libraries-specific templates for the language of interest. For example, you can  use  {usethis} package in R to create a template for R packages by running `usethis::use_github_action_check_standard()`. This will generate GitHub Actions to run CRAN checks after every commit or pull request. That’s all you have to do!
 
 
-### 3- Using the configuration of other projects as inspriration
+### 3- Using the configuration of other projects as inspiration
 
 Many well maintained open source libraries and estableshed projects use GitHub Actions for their CI.
 Have a look at the checks lists on pull requests of these projects for inspiration and ideas;
@@ -82,7 +82,7 @@ The advantage of this approach is to use some approaches that are already workin
 
 For example:
 
-- The Turing Way workflow to [build the Turing Way book and to provide a preview for the pull requests](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/workflows/ci.yml)
+- The Turing Way workflow to [build the Turing Way book and to provide a preview for the pull requests](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/workflows/ci.yml)
 - A matrix of tests on [3 operating systems and multiple Python versions for the Python package NetworkX](https://github.com/networkx/networkx/blob/main/.github/workflows/test.yml)
 - A more complex setup of testing the [build in multiple circumstances for the Python package Numpy](https://github.com/numpy/numpy/blob/main/.github/workflows/build_test.yml)
 

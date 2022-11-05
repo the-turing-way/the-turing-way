@@ -26,8 +26,8 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 In brief, FAIR data should be:
 
-**Findable:** The first step in (re)using data is to find them!
-Descriptive metadata (information about the data such as keywords) are essential.
+**Findable:** The first step in (re)using data is to find it!
+Descriptive metadata (information about the data such as keywords) is essential.
 
 **Accessible:** Once the user finds the data and software they need to know how to access it.
 Data could be openly available but it is also possible that authentication and authorisation procedures are necessary.
@@ -45,8 +45,7 @@ Data should be as open as possible, and as closed as necessary.
 
 It is also important to say that the FAIR principles are aspirational: they do not strictly define how to achieve a state of FAIRness, but rather describe a continuum of features, attributes, and behaviours that will move a digital resource closer to that goal.
 
-The FAIR principles are also applied to software (see {cite:ps}`Lamprecht2020FAIRsoftware`and {cite:ps}`Hasselbring2020FAIRsoftware`).
-
+The FAIR principles are also applied to software (see [[LGK+20](https://the-turing-way.netlify.app/afterword/bibliography.html#id10)]and [[HCH+20](https://the-turing-way.netlify.app/afterword/bibliography.html#id9)]). Watch a [ten minute video on FAIR software](https://www.youtube.com/watch?v=ME8_NRGRhSs&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=16) for a short explanation.
 
 (rr-rdm-fair-community)=
 ## Community involvement

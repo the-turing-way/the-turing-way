@@ -2,7 +2,8 @@
 # Using figures in _The Turing Way_
 
 We encourage you to add images to _The Turing Way_ book chapters.
-This section of the style guide will explain how to use [Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/) (MyST) format to add them to the book with appropriate {ref}`alt text<ch-style-figures-alttext>` and {ref}`captions<ch-style-figures-caption>`.
+This section of the style guide will explain how to use [Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/) (MyST) format to add them to the book with appropriate {ref}`alt text<ch-style-figures-alttext>` and {ref}`captions<ch-style-figures-caption>`. 
+This is sometimes tricky, see the {ref}`ch-style-figures-advanced` section for troubleshooting.
 
 We are very passionate about ensuring that the creators of the original image files (including you!) are {ref}`acknowledged appropriately<ch-style-figures-licence>`.
 Please do not use images that are not licenced for reuse.
@@ -34,7 +35,7 @@ Please upload `.jpg` or `.png` files that are under 1MB to allow them to load fa
 If your file is larger than 1MB, please use a local image editing tools, or online tool like [IMG2GO](https://www.img2go.com/compress-image) to compress your file.
 
 To name your image file, please use all-lowercase and separate words with hyphens.
-Every image file used in this book should be located in the file `_figure-list.md` in the directory `book/website/figures` of our [GitHub Repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/website/figures).
+Every image file used in this book should be located in the file `_figure-list.md` in the directory `book/website/figures` of our [GitHub Repository](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/website/figures).
 If you use a new image file, please add the file in the `figures` directory, and add details in the `_figure-list.md`.
 
 (ch-style-figures-syntax)=
@@ -97,9 +98,8 @@ Another advantage of using alt text is when an image cannot be loaded in a brows
 ```{figure} ../../figures/alt-text-demo.png
 ---
 name: alt-text-demo
-alt: Two people happily browsing files in a drawer of documents.
+alt: This example shows when a wrong image path is used, the web browser can't access it and hence does not display correctly.
 ---
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 When all these components are used correctly, a figure included in a file will be rendered in the online book like in this page:
@@ -162,5 +162,10 @@ That page includes information on how to [scale and align](https://jupyterbook.o
 
 We've noticed a couple of "gotchas" from contributors to _The Turing Way_ and we'll try to keep this section of the guide up to date for anyone else learning the MyST syntax for figures
 
+* If things do not work, looking at the **deploy log** (visible at the beginning of your PR) might well give you hints about the issues are.
+* Figure path are case-sensitive, make sure the name of the file is all lowercase
+* `name:` is for including in reference links, it cannot have spaces
+* The path to the figure will depend on the position of the .md file in the repo (one or two folders away from `website` will give `../` or `../../` respectively.
+* You cannot have line breaks in the alt text, but you can have it in the caption.
 * Both `:` and `"` have syntactic meaning for Sphinx.
   That means it is important that you do not use these characters in your alt text.

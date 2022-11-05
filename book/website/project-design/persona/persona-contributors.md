@@ -52,7 +52,7 @@ They have experience with GitHub and contributing to open projects.
 3. **Participation** - They find an issue asking for help on writing the Credit for Reproducible Research chapter and add a few paragraphs on how to properly cite research software.
 4. **Sustained Participation** - After constructive feedback and collaboration with _The Turing Way_ team, Alia follows the community on social media and attend the online Collaboration Cafe.
 5. **Networked Participation** - They invite other friends and colleagues from the Rstats community to get involved, who have expertise on some of the book topics.
-6. **Leadership** - Alia volunteers to write the chapter on "Scoping a data project for RSEs" that they found requested in the [Book Skeleton](https://github.com/alan-turing-institute/the-turing-way/blob/master/book_skeleton.md).
+6. **Leadership** - Alia volunteers to write the chapter on "Scoping a data project for RSEs" that they found requested in the [Book Skeleton](https://github.com/alan-turing-institute/the-turing-way/blob/main/book_skeleton.md).
 
 ### 3. Amal, a PhD supervisor who is an expert in an aspect of reproducible research
 
@@ -94,8 +94,8 @@ They attend online webinars and watch videos on Youtube in their spare time to l
 5. **Networked Participation** - Robin mentions _The Turing Way_ and what she learned about using GitHub Actions during one of her team's stand-ups, promoting their use to her colleagues.
 6. **Leadership** - Robin gives a lightning talk at a London tech event about GitHub Actions and her contributions to _The Turing Way_. She praises the inclusiveness of the project and invites more industry experts to check out the resource and open issues on topics that they can contribute to or would like to learn more about.
 
-If the personas described here do not reflect your experience, and if getting involved with _The Turing Way_ or using its resource are challenging in any way for you, please open an issue or get in contact on our [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) letting us know what your persona or pathway might look like!
-This process will not only help the _The Turing Way_ team members in getting you onboarded, but we will be able to improve the community documents including the [README](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) and [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) to make it more relatable and usable for the wider community.
+If the personas described here do not reflect your experience, and if getting involved with The Turing Way or using its resource are challenging in any way for you, please open an issue or get in contact on our [Slack channel](https://theturingway.slack.com/) letting us know what your persona or pathway might look like!
+This process will not only help the _The Turing Way_ team members in getting you onboarded, but we will be able to improve the community documents including the [README](https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md) and [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) to make it more relatable and usable for the wider community.
 
 ## Reference:
 

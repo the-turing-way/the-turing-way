@@ -12,7 +12,7 @@ name:
     Hello World package
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 Jobs:
   build:
     runs-on: ubuntu-latest
@@ -30,13 +30,13 @@ name:
 
 **2. on**
 
-The `on` field tells GHA when to run. For example, we can run the workflow anytime there's a `push` or a `pull` on the `master` branch.
+The `on` field tells GHA when to run. For example, we can run the workflow anytime there's a `push` or a `pull` on the `main` branch.
 ```
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 ```
 There are many events which can be used to trigger a workflow. You can explore them [here](https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions).
 

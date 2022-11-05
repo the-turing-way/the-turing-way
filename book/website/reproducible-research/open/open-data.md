@@ -28,7 +28,7 @@ You can find more about the practical steps to make your data available in the s
 (rr-open-data-barriers)=
 ## Barriers to Data Sharing
 Many academics find sharing data difficult.
-Recent surveys {cite:t}`Stuart2018sharing` conducted amongst researchers list the following reasons:
+Recent surveys {cite:ps}`Stuart2018sharing` conducted amongst researchers list the following reasons:
 
 - Organising data in a presentable and useful way is challenging (mentioned by 46%)
 - Researchers are unsure about copyright and licensing (mentioned by 37%)
@@ -59,29 +59,18 @@ Preserving privacy may still be possible if partial or generalised datasets are 
 For example, you may provide age bands instead of birth date or only the first two digits of postal codes.
 It may also be possible to provide the data in such a format that researchers can query it whilst keeping the data itself closed.
 For example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual data points.
+Another way to provide anonymised data is to provide [synthetic data](https://en.wikipedia.org/wiki/Synthetic_data), data generated to reflect the conditions and properties of the raw data, without including any personal information.
 
 Many fields of scientific disciplines involve working with sensitive personal data.
-Their management is well regulated in data protection legislation (in Europe through national implementations of the General Data Protection Regulation) and ethics procedures as they are established in most research institutions {cite:t} `EU2016protection`.
+Their management is well regulated in data protection legislation (in Europe through national implementations of the General Data Protection Regulation) and ethics procedures as they are established in most research institutions {cite:ps}`EU2016protection`.
 
 (rr-open-data-barriers-consent)=
 ### Consent
 
 For anonymised research data to be made available for future reuse, consent forms must cover sharing this data with other researchers.
-Research so far suggests that study participants are usually less concerned about the data being archived and shared than researchers think {cite:t}`Kuula2010archiving`.
+Research so far suggests that study participants are usually less concerned about the data being archived and shared than researchers think {cite:ps}`Kuula2010archiving`.
 Participant information sheets and consent forms should include how research data will be stored, preserved and used in the long term, and how confidentiality will be protected when needed.
 
-(rr-open-data-barriers-anonymisation)=
-### Anonymisation
-
-Individuals must be protected from (re)identification through their data
-Anonymisation of the data may be sufficient in some cases, but ensuring that re-identification is not possible is becoming increasingly difficult.
-It might even be impossible due to technical progress, growing computational power and – ironically – more open data.
-
-For example, re-identification may be possible via data-mining of accessible data and so-called quasi-identifiers, a set of (common) properties that are – in their combination – so specific that they can be used to identify an individual.
-Preserving privacy may still be possible if partial or generalised datasets are provided, like age groups instead of birth date, or only the first two digits of postal codes.
-It may also be possible to provide the data in such a format that researchers can query whilst keeping the data itself closed.
-For example, a user may be able to send a query to retrieve the mean of a dataset, but not be able to access any of the individual data points.
-Another way to provide anonymised data is to provide [synthetic data](https://en.wikipedia.org/wiki/Synthetic_data), data generated to reflect the conditions and properties of the raw data, without including any personal information.
 
 (rr-open-data-barriers-national)=
 ### National and Commercially Sensitive Data

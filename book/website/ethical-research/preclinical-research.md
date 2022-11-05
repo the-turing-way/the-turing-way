@@ -17,7 +17,6 @@ If the results are unreliable then the animals used have in effect have been was
 Many preclinical researchers do not think of themselves as data scientists.
 This may be primarily because they work with small datasets.
 However, there are many common open research themes and this chapter aims to assist preclinical scientists in understanding the why, where, when, and how they can employ open research initiatives, some designed specifically for the use by preclinical scientists.
-> The above sentence may not fit with the structure of the book or flow within these chapters - Nadia
 
 ## The Experimental Design Assistant
 The National Centre for the Replacement, Refinement and Reduction of Animals in Research (NC3Rs) have a freely accessible web-based tool – The Experimental Design Assistant (EDA; https://eda.nc3rs.org.uk) which aims to help researchers improve the design, conduct, analysis and reporting of animal experiments.

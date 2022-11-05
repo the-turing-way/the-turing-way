@@ -13,10 +13,10 @@ These tasks usually include the following roles and responsibilities:
 - **Application Review**: review 2-3 applications based on your availability (time commitment: up to 30 minutes)
 - **Selection meeting**: participate in the selection meeting to help ensure that the selection is equitable (time commitment: 1.5-2 hours)
 - **Organisation meeting**: attend 1 call to finalise the logistics for the organisation (program agenda and participant support will be carried out by The Turing Way core members) (time commitment: 1 hour)
-- **Session host and mentorship**: lead one of the 2 onboarding calls or one GitHub introduction session before and 1-2 of the development sessions or social sessions during the Book Dash based on their schedule (three 1.5 to 2.5 hour-long sessions)
+- **Session host and mentorship**: lead one of the 2 onboarding calls or one GitHub introduction session before and 1-2 of the contribution sessions or social sessions during the Book Dash based on their schedule (three 1.5 to 2.5 hour-long sessions)
 - **Debrief meeting**: attend a meeting after the event to discuss what went well and what we can improve going forward (time commitment: 1 hour)
 - **Shared Documents**: set up or review shared notes, application form, review rubrics or other required documents for the Book Dash (time commitment: relative to the type of document)
-- **Post-event Documents**: ensure the update of [contributors file](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md), help document the event report and update the Book Dash chapter online
+- **Post-event Documents**: ensure the update of [contributors file](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md), help document the event report and update the Book Dash chapter online
 
 The invitation to join the planning committee is sent by the core team members based on the applications sent by returning members of the Book Dash expressing their interest in mentoring.
 This is a volunteer position and there are no expectations of commitment to do multiple tasks described above.
@@ -31,7 +31,7 @@ All applicants are contacted at least 4 weeks in advance to ensure that they can
 
 Upon confirmation, they are provided with registration details through which they can share any information that can help them and the organisers prepare for the Book Dash.
 Participants are asked to get familiarised with [_The Turing Way_ GitHub repository](https://github.com/alan-turing-institute/the-turing-way) where they will make their contributions during the Book Dash.
-The project's [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) and {ref}`Code of Conduct<ch-coc>` are also shared with the participants that are applicable to the Book Dash as well.
+The project's [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) and {ref}`Code of Conduct<ch-coc>` are also shared with the participants that are applicable to the Book Dash as well.
 
 To further support the participants, pre-event calls are hosted and further details are shared directly by email (discussed in the next subchapter).
 The names of the selected participants are announced in _The Turing Way_ newsletter and social media platforms upon agreement with the participants.
