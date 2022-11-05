@@ -1,4 +1,4 @@
-```{figure} ../figures/data-ecosystem.jpg
+```{figure} ../figures/data-ecosystem.*
 ---
 height: 400px
 name: data-ecosystem

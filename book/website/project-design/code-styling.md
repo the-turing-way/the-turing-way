@@ -10,7 +10,7 @@ But if you have experienced it then you might know how frustrating it is to work
 
 This chapter will highlight ways to avoid such challenges in your projects by introducing some principals of 'code hygiene', otherwise known as *linting*.
 
-```{figure} ../figures/zen-of-python.png
+```{figure} ../figures/zen-of-python.*
 ---
 height: 500px
 name: zen-of-python

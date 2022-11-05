@@ -25,7 +25,7 @@ analysis pipeline.  We also describe a real-world reproducible research
 project that uses Make to go from the raw input data to the experiments all
 the way to the pdf file of the paper!
 
-```{figure} ../figures/make-research-dag.png
+```{figure} ../figures/make-research-dag.*
 ---
 name: make-research-dag
 alt: Schematic of a research project.

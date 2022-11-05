@@ -15,7 +15,7 @@ Recently, she has set up the [RSE Asia Association](https://rse-asia.github.io/R
 Before you dive into the interview, please note that we have a chapter describing the {ref}`Research Software Engineering in Research Infrastructure Roles<cl-infrastructure-rse>` as well as specific recommendation for {ref}`starting a new community<cl-new-community>`.
 
 
-```{figure} ../../figures/rse-community.jpg
+```{figure} ../../figures/rse-community.*
 ---
 height: 400px
 name: rse-community

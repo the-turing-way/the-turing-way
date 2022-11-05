@@ -28,7 +28,7 @@ While RAILs are the first step towards enabling ethics-informed use restrictions
 
 ### Choosing an OpenRAIL
 
-```{figure} ../../figures/rail-diagram.png
+```{figure} ../../figures/rail-diagram.*
 ---
 name: rail-diagram
 alt: An illustration depicting a flow chart diagram for a decision making process on which OpenRAIL is the best choice for an ML project.

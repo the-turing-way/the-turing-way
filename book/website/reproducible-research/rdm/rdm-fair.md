@@ -13,7 +13,7 @@ variety](https://www.zdnet.com/article/volume-velocity-and-variety-understanding
 
 This chapter provides an abstract and broad view of what the FAIR principles are. How to put the FAIR principles into practise is discussed in other sub chapters ( {ref}`Data Organisation in Spreadsheets<rr-rdm-fair>`, {ref}`Documentation and Metadata<rr-rdm-metadata>` and {ref}`Sharing and Archiving Data<rr-rdm-sharing>`). You can also use the [Wellcome Getting Started Guide](https://f1000researchdata.s3.amazonaws.com/resources/FAIR_Open_GettingStarted.pdf) or the [How To FAIR](https://howtofair.dk/) website to find out more about the FAIR principles and how to get started.
 
-```{figure} ../../figures/fair-principles.jpg
+```{figure} ../../figures/fair-principles.*
 ---
 name: fair-principles
 alt: Illustration of the FAIR principles to show the definition of being Findable, Accessible, Interoperable and Reusable.

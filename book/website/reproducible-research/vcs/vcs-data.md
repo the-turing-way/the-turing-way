@@ -20,7 +20,7 @@ Especially if original data gets replaced with new data with no version control 
 Therefore, version controlling data and other large files in a similar way to version controlling code or manuscripts can help ensure the reproducibility of a project and capture the provenance of results;that is "the precise subset and version of data a set of result originates from".
 Together with all other components of a research project, data identified in precise versions is part of the research outcome.
 
-```{figure} ../../figures/provenance.jpg
+```{figure} ../../figures/provenance.*
 ---
 height: 500px
 name: provenance

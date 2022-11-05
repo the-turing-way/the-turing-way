@@ -20,7 +20,7 @@ This chapter has many prerequisites as it takes all digital components of a proj
 That said: a research compendium can be constructed with minimal technical knowledge.
 The main purpose is that all elements of a project are published together, so a basic folder structure combining all components can be sufficient.
 
-```{figure} ../figures/research-compendium.jpg
+```{figure} ../figures/research-compendium.*
 ---
 height: 500px
 name: research-compendium

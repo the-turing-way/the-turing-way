@@ -7,7 +7,7 @@ This project can simply not exist without the collaborative nature of this proje
 Everyone has a skill that is useful for someone, and therefore anyone can contribute to _The Turing Way_.
 We value all kinds of contributions in this project and are committed to recognising each of them fairly.
 
-```{figure} ../figures/theturingway-acknowledgement.jpg
+```{figure} ../figures/theturingway-acknowledgement.*
 ---
 height: 400px
 name: theturingway-acknowledgement
