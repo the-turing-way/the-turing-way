@@ -79,27 +79,7 @@ This is also described in the {ref}`Style Guide<ch-style-custom-styling-videos>`
 #### Writing Checklists
 
 When writing a new chapter for _The Turing Way_, you might include a Checklist subchapter that itemises key action points you want readers to take based on the chapter content.
-For earlier chapters in _The Turing Way_, this subchapter is written in Markdown as a Task List with checkboxes:
-
-```
-# Checklist
-- [ ] Item One
-- [ ] Item Two
-- [ ] Item Three
-
-```
-
-However, the checkboxes do not display as intended in the online version of the book, for example:
-
-```{figure} ../../figures/checklist-formatting.png
----
-name: checklist-formatting
-alt: When the Checklist subchapter of any chapter is written in Markdown as a Task List with checkboxes, square brackets are displayed rather than checkboxes in the web version of the book.
----
-Checkboxes are displayed as square brackets in the web version of the book.
-```
-
-Thus, we recommend that you format your Checklist subchapters as unordered lists in your future contributions, and edit earlier chapters that follow the other convention:
+We recommend that you format your Checklist subchapters as unordered lists:
 
 ```
 # Checklist
@@ -108,11 +88,6 @@ Thus, we recommend that you format your Checklist subchapters as unordered lists
 - Item Three
 
 ```
-#### Demo
-
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/oe2Up1pU5DY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 (ch-consistency-formatting-hr-headers)=
 ### Check 2: Use headers in sequential order.
