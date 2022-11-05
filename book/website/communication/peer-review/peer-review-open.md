@@ -7,7 +7,7 @@ What is Open Peer Review?
 (cm-pr-open-what)=
 ## Different types of Open Peer Review
 
-There are various [models of Open Peer review](https://plos.org/resource/open-peer-review/):
+There are various [models of Open Peer review](https://plos.org/resource/open-peer-review/) (see Ross-Hellauer et al. 2017 for more details):
 
 - publishing peer review content
 - open discussion between authors, editors and reviewers
@@ -15,6 +15,7 @@ There are various [models of Open Peer review](https://plos.org/resource/open-pe
 - post-publication commenting
 - sharing author or reviewer identities
 - decoupling the peer review process from the publication process (eLife)
+
 
 Nevertheless, not everyone is comfortable signing their reviews - particularly people from minoritized groups in research (Fox 2021). 
 This could result in less critical reviews if revealing identity is a requirement of Peer Review (Fox 2021). 
