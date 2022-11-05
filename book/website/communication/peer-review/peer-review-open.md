@@ -9,8 +9,13 @@ What is Open Peer Review?
 
 There are various [models of Open Peer review](https://plos.org/resource/open-peer-review/) (see Ross-Hellauer et al. 2017 for more details):
 
-- publishing peer review content
-- open discussion between authors, editors and reviewers
+- Open Content
+  - publishing peer review content
+- Open Participation
+  - open review before publication through preprints
+- Open Identities
+  - open discussion between authors, editors and reviewers
+
 - open review before publication through preprints, allowing for open review from a wider community
 - post-publication commenting
 - sharing author or reviewer identities
