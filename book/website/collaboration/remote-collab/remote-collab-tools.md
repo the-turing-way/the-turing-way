@@ -6,7 +6,7 @@ To effectively run an event, it is important to choose tools that can maximise t
 We should also consider how user-friendly they are and how they impact the engagement of different stakeholders such as organisers, helpers and attendees.
 
 Here is a list of some popular tools for facilitating different aspects of remote collaboration discussed in the earlier subchapter.
-Please note that we are not a listing conference or webinar-related tools, but only providing those tools that allow an interactive (hence, collaborative) format for online events.
+Please note that we are not listing conference or webinar-related tools, but only providing those tools that allow an interactive (hence, collaborative) format for online events.
 
 ## Task management tools
 
@@ -22,6 +22,11 @@ Therefore, it is important to track those tasks in an online event management to
 ## Finding a common availability
 
 Meeting scheduling platforms help find a common availability without having to check multiple times with all the intended participant's.
+
+<!--
+Add unordered list for the tools mentioned below + possibly add more tools.
+For some cases, such as one-to-one meetings, Calendly helps find a common availability.
+-->
 
 Some commonly used options are [Doodle](https://doodle.com/poll/) and [when2meet.com](https://www.when2meet.com/).
 See more options [here](https://zapier.com/blog/best-meeting-scheduler-apps/).
@@ -40,6 +45,10 @@ This is especially important for creating an opportunity for those who can not (
 
 ## Maintaining shared notes
 
+<!--
+Possible subcategories: storage; real-time collaboration; version control
+-->
+
 It is important to create shared notes, but also to save them to share with others and to make them available to refer back to later.
 
 - [Google Drive](https://en.wikipedia.org/wiki/Google_Drive): Google Drive is a file storage and synchronization service developed by Google.
@@ -48,6 +57,10 @@ It is important to create shared notes, but also to save them to share with othe
 - [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/free-trial/) and [BitBucket](https://bitbucket.org/product): Platforms for hosting, sharing and collaborating on documents and software with a version control system (see [this post for detail/difference](https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab)).
 
 ## Managing event registration
+
+<!--
+There could be separate categories for events and for daily or more regular collaboration
+-->
 
 Effective event registration is the first place to get to know who will attend your event.
 It's especially important when the events are intended for a large group of people.
@@ -69,6 +82,11 @@ An effective software allows the creation of a meeting link or dial-in number th
 
 ## Facilitating informal interactions
 
+<!--
+- Add Zulip, Element, Discord
+- Should we list the downsides of certain tools?
+-->
+
 A communication platform and chat system is a good way to connect all the attendees before, during and after the event.
 - [Slack](https://slack.com/): Slack offers real-time chat features, including persistent chat rooms organized by topic, private groups, and direct messaging.
 - [Gitter](https://gitter.im/): Gitter is a chat and networking platform for messaging for communities.
@@ -81,6 +99,10 @@ An online timer that can be created on a web-browser and shared with a distribut
 - [vclock](https://vclock.com/timer/)
 
 ## Online polling
+
+<!--
+Maybe a cool illustration here?
+-->
 
 Event Polling tools can be used for asking questions and receiving feedback from attendees in real-time.
 They create an interactive experience for the participants through question and answer (Q&A) sessions during the event.

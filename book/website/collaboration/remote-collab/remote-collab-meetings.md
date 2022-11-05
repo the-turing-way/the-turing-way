@@ -118,4 +118,52 @@ We have listed them in chronological order and divided into sections for "before
 - If the meeting call was recorded, process and share the recorded video with everyone.
 - Send a thank you email with the link to the complete notes and other relevant information.
 
+
+## Tools
+<!--
+Moved from the "Tools for Remote Collaboration" subchapter"
+-->
+
+### Finding a common availability
+
+Meeting scheduling platforms help find a common availability without having to check multiple times with all the intended participants.
+
+<!--
+- Add unordered list for the tools mentioned below + possibly add more tools.
+- For some cases, such as one-to-one meetings, Calendly helps find a common availability.
+- Split it into two lists -- different use cases: group meetings (Doodle, When2Meet) vs. one-to-one (sending your availability for someone to book a time with you)
+-->
+
+Some commonly used options are [Doodle](https://doodle.com/poll/) and [when2meet.com](https://www.when2meet.com/).
+See more options [here](https://zapier.com/blog/best-meeting-scheduler-apps/).
+
+<!--
+Below: different subtopic:
+### Managing time zones
+>> More tools can be added here - such as timeanddate.com -- add a screenshot showing how it highlights times when people are asleep
+- Add clarification on what Arewemeetingyet does
+-->
+
+It is particularly crucial to use meeting links like [arewemeetingyet](https://arewemeetingyet.com/#form) or [create/send calendar invitations](https://www.calendar.com/blog/how-to-send-a-google-calendar-invite/) to communicate these schedules to invitees from different countries and time zones.
+
+
+### Managing event registration
+
+<!--
+There could be separate categories for events and for daily or more regular collaboration
+- Events
+- Tools for asynchronous remote collab (creating shared notes goes here)
+- Tools for synchronous remote collab (hosting online calls)
+-->
+
+Effective event registration is the first place to get to know who will attend your event.
+It's especially important when the events are intended for a large group of people.
+
+- [Zoom](https://support.zoom.us/hc/en-us/articles/204619915-Scheduling-a-Webinar-with-Registration): Scheduling an online meeting and webinar with registration on Zoom provides an automatic brief form before receiving the link to join your webinar.
+- [Eventbrite](https://www.eventbrite.com/): An event management and ticketing website. The service allows users to browse, create, and promote local events. The service charges a fee to event organizers in exchange for the online ticketing services, unless the event is free.
+- [Google Form](https://en.wikipedia.org/wiki/Google_Forms): Google Forms is a survey administration software that allows registration/data collection that can be automatically entered into a spreadsheet.
+
+
+<br>
+
 ***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*
