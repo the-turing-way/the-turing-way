@@ -26,6 +26,8 @@ This chapter introduces the process of peer review of journal articles as a part
 The chapter introduces different types and levels of peer review, depending on the type of scientific output. 
 It explains what Open Peer Review is. 
 Then, peer review of a manuscript is discussed in detail, providing practical guidance for those who need to do a formal peer review for a journal.
+This is followed by guidance for code review, whether for code underlying a research article or for software as a research object on it's own.
+Finally, additional resources are listed.
 
 
 (cm-peer-review-motivation)=
