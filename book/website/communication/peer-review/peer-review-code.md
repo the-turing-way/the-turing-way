@@ -8,11 +8,19 @@ The most important questions during code review are:
 - Are all the files available? If not, ask the editor to request the data/code from the authors.
 - Does it run? 
 - Is it easy to understand? 
+Or is it more complex than it should be?
 - If it is not just a script underlying a publication but part of software infrastructe: how easy is it to maintain? 
 
 [Code does not have to be perfect](https://google.github.io/eng-practices/review/reviewer/standard.html) - it has to work, be accompanied with sufficient documentation and be maintainable if this is needed.
 
-## [Code review in ReproHack style](https://annakrystalli.me/n8cir-reprohacks/slides/#24)
+[Code review can take place asynchronous or synchronous](https://uwescience.github.io/neuroinformatics/2017/10/08/code-review.html). 
+Sometimes face-to-face communication (synchronous) is easier to address any questions that arise during the review {cite:ps}`Petre2014codereview`. 
+
+The [online sustainability evaluation](https://www.software.ac.uk/resources/online-sustainability-evaluation) provided by the Software Sustainability can help address issues that affect the sustainability of the software.
+
+## Code review in [ReproHack style](https://annakrystalli.me/n8cir-reprohacks/slides/#24)
+
+*This is more applicable when you're reviewing the code underlying a research article.*
 
 **1. Access**
 - How easy is it to access the materials? Can you access all the materials?
@@ -20,7 +28,6 @@ The most important questions during code review are:
 
 **2. Installation**
 - Are you able to install everything, did you run into any problems and how did you solve these?
-- Is it easy to understand the code, or is it more complex than it should be?
 
 **3. Documentation**
 Does the documentation contain information on:
@@ -47,27 +54,32 @@ If there are any test, check if they are correct, sensible, and useful.
 - Did code run but results (such as model outputs, tables, figures) differ to those published? By how much?
 
 **5. User perspective**
-- What did you find easy / intuitive? (for example: file structure, file naming, analysis workflow, documentation?)
-- What did you find confusing / difficult? Identify pressure points and provide constructive suggestions
+- What did you find easy / intuitive? 
+(For example: file structure, file naming, analysis workflow, documentation?)
+- What did you find confusing / difficult? 
+Identify pressure points and provide constructive suggestions
 - What did you enjoy? Identify aspects that worked well.
 
-**6. Acknowledge the effort from authors** and give them feedback in good faith. It is the code that is being reviewed, not the authors.
+**6. Acknowledge the effort from authors** and give them feedback in good faith. 
+Also tell them what they did well!
 
+## Code Review in [What to look for in a code review style](https://google.github.io/eng-practices/review/reviewer/looking-for.html)
 
+*This is more applicable to research software as the primary research object.* 
 
-   
-[blog post from Ariel Rokem](https://uwescience.github.io/neuroinformatics/2017/10/08/code-review.html) is a good first introduction. 
- The [online sustainability evaluation](https://www.software.ac.uk/resources/online-sustainability-evaluation) or [Research Software Health Check](https://www.software.ac.uk/programmes-and-events/research-software-healthcheck) provided by the Software Sustainability Institute might be further helpful resources particularly focusing on issues that affect the sustainability of your software.
-
-
-[How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
+* The code is well-designed.
+* The functionality is good for the users of the code.
+* Any UI changes are sensible and look good.
+* Any parallel programming is done safely.
+* The code isn’t more complex than it needs to be.
+* The developer isn’t implementing things they might need in the future but don’t know they need now.
+* Code has appropriate and well-designed unit tests
+* The developer used clear names for everything.
+* Comments are clear and useful, and mostly explain why instead of what.
+* Code is appropriately documented and conforms to style guides
 
 
 # Resources
-
-## General
-* Petre and Wilson 2014 (https://arxiv.org/abs/1407.5648)
-* [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
 
 ## Journal, conference and archive guidelines
 *	[rOpenSci Software Peer Review](https://ropensci.org/software-review/) contains the guidelines used by rOpenSci before they get added to the rOpenSci suite of packages.
