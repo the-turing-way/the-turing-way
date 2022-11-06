@@ -92,5 +92,5 @@ Also tell them what they did well!
 * Tips and Tricks for Reproducing and Reviewing by Anna Krystalli ([slides 24-37 on reviewing](https://annakrystalli.me/n8cir-reprohacks/slides/#24))
 
 ## Sharing Code Review Experiences
-* [’ve code reviewed over 750 pull requests at Amazon. Here’s my exact thought process](https://curtiseinsmann.medium.com/ive-code-reviewed-over-750-pull-requests-at-amazon-here-s-my-exact-thought-process-cec7c942a3a4) - by Curtis Einsmann
+* [I’ve code reviewed over 750 pull requests at Amazon. Here’s my exact thought process](https://curtiseinsmann.medium.com/ive-code-reviewed-over-750-pull-requests-at-amazon-here-s-my-exact-thought-process-cec7c942a3a4) - by Curtis Einsmann
 * [Identifying and overcoming obstacles to adopting code review](https://www.software.ac.uk/blog/2022-08-17-identifying-and-overcoming-obstacles-adopting-code-review)
