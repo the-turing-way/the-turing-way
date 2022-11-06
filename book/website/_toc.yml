@@ -445,8 +445,12 @@ parts:
             sections:
               - title: Peer Review
                 file: communication/peer-review/peer-review-overview
+              - title: Open Peer Review
+                file: communication/peer-review/peer-review-open
               - title: Guidance on Peer Review for a Journal
                 file: communication/peer-review/peer-review-guidance
+              - title: Guidance on Code Review
+                file: communication/peer-review/peer-review-code
               - title: Resources
                 file: communication/peer-review/peer-review-resources
           - title: Binder
