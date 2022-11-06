@@ -3,7 +3,7 @@
 
 ## What is Open Peer Review? 
 
-Open Peer review can refer to various practises, including signing your review, publishing reviews along with the paper, and allowing for the community to contribute to the peer review process ([Open Science Community Utrecht](https://openscience-utrecht.com/peer-review)). Below some different types of Open Peer Review are highlighted, as well as the benefits of opening up the peer review proces.
+Open Peer review can refer to various practises, including signing your review, publishing reviews along with the paper, and allowing for the community to contribute to the peer review process ([Open Science Community Utrecht](https://openscience-utrecht.com/peer-review)). Below some different types of Open Peer Review are highlighted, as well as the benefits of opening up the peer review process.
 
 (cm-pr-open-what)=
 ## Different types of Open Peer Review
