@@ -7,7 +7,7 @@ What is Open Peer Review?
 (cm-pr-open-what)=
 ## Different types of Open Peer Review
 
-There are various [models of Open Peer review](https://plos.org/resource/open-peer-review/) (see Ross-Hellauer et al. 2017 for more details):
+There are various [models of Open Peer review](https://plos.org/resource/open-peer-review/) (see {cite:ps}`RossHellauer2017openreview` for more details):
 
 - Open Content
   - publishing peer review content
@@ -23,9 +23,9 @@ There are various [models of Open Peer review](https://plos.org/resource/open-pe
 
 Similar to open science practices in general - open peer review is not an 'all or nothing' concept. 
 Instead, the open components that make the most sense can be introduced first.
-One of the more debated parts of Open Peer Review is whether reviews should be signed (Ross-Hellauer et al. 2017; Bravo et al. 2019).
-Nevertheless, not everyone is comfortable signing their reviews - particularly people from minoritized groups in research (Fox 2021). 
-This could result in less critical reviews if revealing identity is a requirement of Peer Review (Fox 2021). 
+One of the more debated parts of Open Peer Review is whether reviews should be signed {cite:ps}`RossHellauer2017openreview` {cite:ps}`Bravo2019openreview`.
+Nevertheless, not everyone is comfortable signing their reviews - particularly people from minoritized groups in research {cite:ps}`Fox2021openreview`. 
+This could result in less critical reviews if revealing identity is a requirement of Peer Review {cite:ps}`Fox2021openreview`. 
 
 ## Benefits of Open Peer Review
 
@@ -38,9 +38,9 @@ This could result in less critical reviews if revealing identity is a requiremen
 
 "[Anonymity allows for abuse, which editors do not always moderate successfully](https://polarjournal.org/2022/06/13/dispirited-away-the-peer-review-process/)." - Dada Docot
 
-The ability of double-anonymized review to address biases in peer review remains questionable, as was noted in other responses to Huber et al. (8). But worse, essentially double-anonymized peer review tries to minimize the consequences of these biases without addressing their causes. Horbach et al. 2022
+The ability of double-anonymized review to address biases in peer review remains questionable, as was noted in other responses to Huber et al. (8). But worse, essentially double-anonymized peer review tries to minimize the consequences of these biases without addressing their causes {cite:ps}`Horbach2022openreview`
 
-**Double-anonymous peer review** may impede open science practices in several ways (Horbach et al. 2022): 
+**Double-anonymous peer review** may impede open science practices in several ways {cite:ps}`Horbach2022openreview`: 
 1. Preprinting
 2. Preprint peer review
 3. Review curation
