@@ -9,7 +9,7 @@ The most important questions during code review are:
 - Does it run? 
 - Is it easy to understand? 
 Or is it more complex than it should be?
-- If it is not just a script underlying a publication but part of software infrastructe: how easy is it to maintain? 
+- If it is not just a script underlying a publication but part of software infrastructure: how easy is it to maintain? 
 
 [Code does not have to be perfect](https://google.github.io/eng-practices/review/reviewer/standard.html) - it has to work, be accompanied with sufficient documentation and be maintainable if this is needed.
 
@@ -23,8 +23,10 @@ The [online sustainability evaluation](https://www.software.ac.uk/resources/onli
 *This is more applicable when you're reviewing the code underlying a research article.*
 
 **1. Access**
-- How easy is it to access the materials? Can you access all the materials?
-  - Is the data stored in a seperate directory or data repository? Is there a persistent identifier associated with the data/code?
+- How easy is it to access the materials? 
+Can you access all the materials?
+  - Is the data stored in a separate directory or data repository? 
+Is there a persistent identifier associated with the data/code?
 
 **2. Installation**
 - Are you able to install everything, did you run into any problems and how did you solve these?
