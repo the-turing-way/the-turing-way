@@ -14,21 +14,25 @@ The most important questions during code review are:
 
 ## [Code review in ReproHack style](https://annakrystalli.me/n8cir-reprohacks/slides/#24)
 
-1. Access
+**1. Access**
 - How easy is it to access the materials? Can you access all the materials?
   - Is the data stored in a seperate directory or data repository? Is there a persistent identifier associated with the data/code?
 
-2. Installation
+**2. Installation**
 - Are you able to install everything, did you run into any problems and how did you solve these?
+- Is it easy to understand the code, or is it more complex than it should be?
 
-3. Documentation
+**3. Documentation**
 Does the documentation contain information on:
 - how to install necessary software and dependencies?
 - how to use materials to reproduce the paper?
 - how to cite the materials, ideally in a form that can be copy and pasted?
 Provide suggestions on how to improve the documentation of the code if needed.
+- Are the comments helpful and necessary?
+Comments should explain why some code exists, not what the code is doing. [If the code isn’t clear enough to explain itself, then the code should be made simpler](https://google.github.io/eng-practices/review/reviewer/looking-for.html#comments). 
+- Is the code following applicable style guides? (for example, [Google Style Guide](http://google.github.io/styleguide/)
 
-4. Reproduction
+**4. Reproduction**
 - Were you able to fully reproduce the paper? 
 - How automated was the process of reproducing the paper?
 - How easy was it to link analysis code to the plots it generates and sections in the manuscript in which it is described and results reported
@@ -37,15 +41,17 @@ If you are not able to reproduce the article:
 - Were there missing dependencies? 
 - Was the computational environment not adequately described / captured? 
 - Were there bugs in the code? 
-- Does the code handle errors properly? Where could this be improved?
+- Does the code handle errors properly? 
+Where could this be improved? 
+If there are any test, check if they are correct, sensible, and useful.
 - Did code run but results (such as model outputs, tables, figures) differ to those published? By how much?
 
-5. User perspective
+**5. User perspective**
 - What did you find easy / intuitive? (for example: file structure, file naming, analysis workflow, documentation?)
 - What did you find confusing / difficult? Identify pressure points and provide constructive suggestions
 - What did you enjoy? Identify aspects that worked well.
 
-6. Acknowledge the effort from authors and give them feedback in good faith. It is the code that is being reviewed, not the authors.
+**6. Acknowledge the effort from authors** and give them feedback in good faith. It is the code that is being reviewed, not the authors.
 
 
 
