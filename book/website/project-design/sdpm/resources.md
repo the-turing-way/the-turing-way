@@ -1,5 +1,5 @@
 (pd-sdpm-resources)=
-# Resources for working with senstive data 
+# Resources for working with sensitive data 
 
 * [Protecting sensitive data course](https://mantra.ed.ac.uk/protectingsensitivedata/) by [MANTRA]([https://mantra.edina.ac.uk](https://mantra.ed.ac.uk/))) 
 
@@ -22,6 +22,8 @@ See [here](https://www.aalto.fi/en/services/rdm-training) for the full course.
 
 * [Slides](https://osf.io/5xhya/) by Hanne Elsen on Privacy and the GDPR in the Research Life Cycle. 
 
+* [Slides](https://www.rd-alliance.org/slides-webinar-how-share-qualitative-data-videos-and-interviews-october-27-2021) on 'How to share qualitative data: videos and interviews'.
+
 * [Workshop materials](https://osf.io/em3da/) on data de-identification procedures for data sharing.
 
 * [Sensitive Data](https://rdmkit.elixir-europe.org/sensitive_data) - from Elixir's RDMKit.
@@ -30,4 +32,11 @@ See [here](https://www.aalto.fi/en/services/rdm-training) for the full course.
  
 * [Anonymisation and Personal Data](https://www.fsd.tuni.fi/en/services/data-management-guidelines/anonymisation-and-identifiers/) by the Finnish Social Science Data Archive
 
-* {cite}`Meyer2018personaldata`.
+* {cite}`Meyer2018personaldata`, {cite}`Tsai2016qualdata`
+
+* ARDC guide on [Publishing Sensitive Data](https://doi.org/10.5281/zenodo.7259742)
+
+* Qualitative Data Repository Guidance on [Human Participants](https://qdr.syr.edu/guidance/human-participants)
+
+
+
