@@ -83,20 +83,24 @@ jobs:
                   # Extract date from issue body
                   match = pattern.search(issue.body)
 
-                  # Convert into a datetime object
-                  talk_date = datetime.strptime(match[0], "%Y-%m-%d")
+                  if match is None:
+                      print(f"Date cannot be extracted from: {issue.html_url}")
+                      continue
+                  else:
+                      # Convert into a datetime object
+                      talk_date = datetime.strptime(match[0], "%Y-%m-%d")
 
-                  # Establish if talk_date is more than 7 days in the past from today
-                  to_be_closed = (talk_date - today).days < -7
+                      # Establish if talk_date is more than 7 days in the past from today
+                      to_be_closed = (talk_date - today).days < -7
 
-                  if to_be_closed:
-                      issue_info = {
-                          "issue_url": issue.html_url,
-                          "issue_number": issue.number,
-                      }
-                      issues_to_close.append(issue_info)
+                      if to_be_closed:
+                          issue_info = {
+                              "issue_url": issue.html_url,
+                              "issue_number": issue.number,
+                          }
+                          issues_to_close.append(issue_info)
 
-          # Cleanly exist the script if there are no issues to close
+          # Cleanly exit the script if there are no issues to close
           if len(issues_to_close) == 0:
               print("No issues to close")
               sys.exit()
