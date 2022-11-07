@@ -1,7 +1,7 @@
 (pd-sdpm-resources)=
 # Resources for working with senstive data 
 
-* [Protecting sensitive data course](https://mantra.edina.ac.uk/protectionrightsandaccess) by [MANTRA](https://mantra.edina.ac.uk)
+* [Protecting sensitive data course](https://mantra.ed.ac.uk/protectingsensitivedata/) by [MANTRA]([https://mantra.edina.ac.uk](https://mantra.ed.ac.uk/))) 
 
 * [Presentations](https://www.youtube.com/watch?v=J9kWkzK83i4&list=PLyeHH3bEQqIbgbw75gheV27nFF2ctPPpR&index=1) by [Zosia Beckles](https://youtu.be/J9kWkzK83i4), [Michele Voznick](https://youtu.be/w5v5d6r6irs) and [Tessa Darbyshire](https://youtu.be/jEFu1ykVI_I) on Responsible Data Management: Legal & Ethical Aspects as part of the [Fail to Nail it sessions](https://www.youtube.com/c/AI4ScientificDiscovery).
 
@@ -26,3 +26,8 @@ See [here](https://www.aalto.fi/en/services/rdm-training) for the full course.
 
 * [Sensitive Data](https://rdmkit.elixir-europe.org/sensitive_data) - from Elixir's RDMKit.
  
+* [Presentation](https://www.youtube.com/watch?v=9wu_xGeYsQw) by Manolis Terrovitis on data anonymisation made easy
+ 
+* [Anonymisation and Personal Data](https://www.fsd.tuni.fi/en/services/data-management-guidelines/anonymisation-and-identifiers/) by the Finnish Social Science Data Archive
+
+* {cite}`Meyer2018personaldata`.
