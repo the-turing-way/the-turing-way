@@ -10,7 +10,7 @@ Find out more about what personal data is and what policies apply to this type o
 
 
 (rr-rdm-informed-consent)=
-### Informed consent
+## Informed consent
 
 Informed, voluntary and fair consent to participate in a study is very important for any research project that involves human participants. You can find more information about this in the {ref}`Informed Consent section<pd-sdpm-informed>`.
 
