@@ -282,7 +282,8 @@ For more events, subscribe to the [Open Research Calendar](https://openresearchc
 
 ## Get involved + Connect with us!
 
-If you are interested in joining our community, or learning more about the project, don't forget that we have our [Community Co-working calls](https://hackmd.io/@turingway/coworking-call) on Mondays, [Collaboration Cafes](https://hackmd.io/@turingway/collaboration-cafe) every first and third Wednesdays and Fireside chats monthly.
+You are welcome to join *The Turing Way* community, and learn more about the project.
+We host [Community Co-working calls](https://hackmd.io/@turingway/coworking-call) on Mondays, [Collaboration Cafes](https://hackmd.io/@turingway/collaboration-cafe) every first and third Wednesdays, Office Hours every Friday and Fireside chats monthly.
 
 *   [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
 *   [_The Turing Way_ book](https://the-turing-way.netlify.com)
