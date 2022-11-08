@@ -685,6 +685,8 @@ parts:
                 file: community-handbook/coworking/coworking-organisation
           - title: Fireside Chat Series
             file: community-handbook/fireside-chat
+          - title: Giving a Turing Way Talk
+            file: community-handbook/presenting
           - title: Template Collection
             file: community-handbook/templates
             sections:
