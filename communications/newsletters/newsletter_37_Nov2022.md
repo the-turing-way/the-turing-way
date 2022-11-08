@@ -1,10 +1,4 @@
-# TTW Newsletter: October updates
-
-Newsletter images: https://docs.google.com/presentation/d/1oxeNZ8tBilr7ivQHnLGRw91NHqetca4pmsiklAUu0hI/edit#slide=id.g1388ceabf92_0_0
-
-Issue: https://github.com/alan-turing-institute/the-turing-way/issues/2761
-
---------
+The Turing Way Newsletter: 08 Nov 2022
 
 # Seasonal greetings and updates from _The Turing Way_ Community 
 
