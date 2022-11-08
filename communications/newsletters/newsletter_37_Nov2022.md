@@ -26,7 +26,7 @@ If you're interested in keeping up in real-time, don't forget that you can alway
 
 Community calls are key for _The Turing Way_ community: they're where folks learn about each others' work, collaborate on ideas, and get inspired.
 
-![Alt: A new community member is taking notes as an experienced member of the community are onboarding them in real time.](images/2022-nov-1.jpg)
+![Alt: A new community member is taking notes as an experienced member of the community are onboarding them in real time.](images/2022-nov-1.png)
 
 Image used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://zenodo.org/record/5706310#.YoS-RmDMK58).
 
@@ -99,7 +99,7 @@ Watch a few recent recordings from recent months:
 
 # Community News
 
-![Alt: A person adding a new file on GitHub via a Pull Request, while another member reviews and approves it for them to merge it the the book.](images/2022-nov-3.jpg)
+![Alt: A person adding a new file on GitHub via a Pull Request, while another member reviews and approves it for them to merge it the the book.](images/2022-nov-3.png)
 _Illustration by Scriberia. 
 Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://zenodo.org/record/5706310#.YoS-RmDMK58)._
 
