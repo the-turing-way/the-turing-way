@@ -79,7 +79,7 @@ This is also described in the {ref}`Style Guide<ch-style-custom-styling-videos>`
 #### Writing Checklists
 
 When writing a new chapter for _The Turing Way_, you might include a Checklist subchapter that itemises key action points you want readers to take based on the chapter content.
-We recommend that you format your Checklist subchapters as unordered lists:
+We recommend that you format your Checklist subchapters as unordered lists (checklist items denoted by `[ ]` do not render correctly):
 
 ```
 # Checklist
