@@ -111,7 +111,7 @@ Looking at different aspects of research ethics. _The Turing Way_ project illust
 
  Thirdly, RRI and research integrity question the ethics of how scientific solutions are framed and shaped either by society at large (RRI) or by institutional practices in particular (research integrity).
  With our RRI hat on, we can ask how we communicate the validity of scientific outputs.
- Whilst how scientific findings are communicated is not a new question, it is worth highlighting that artificial intelligence (IA) and machine learning might be framed as delivering much more for research and innovation than what they actually can.
+ Whilst how scientific findings are communicated is not a new question, it is worth highlighting that artificial intelligence (AI) and machine learning might be framed as delivering much more for research and innovation than what they actually can.
  Along these lines, we can ask about the role of “AI” as a marketing tool, as a way to grant research findings undeserved credibility (Lanier and Weyl, 2020).
  A more specific example is available in Nagendran et al.'s' (2020) concerns over exaggerated claims of AI outperforming doctors.
  Switching to our research integrity goggles, we can question how academic infrastructures shape scientific work.
