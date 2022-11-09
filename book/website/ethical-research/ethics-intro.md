@@ -52,7 +52,7 @@ Looking at different aspects of research ethics. _The Turing Way_ project illust
  To this effect, the importance of acting ethically within the academic sphere is heightened.
  Scientists must reflect on the ethical questions their research projects raise.
 
- ## Defining Research Ethics
+ ## Definition Research Ethics
 
  In practice, the historical development of research ethics has been driven due to ethical concerns around how research has traditionally been conducted and cases of clear controversy (European Commission, 2010).
  Unfortunately, this reactive nature of research ethics has led to there being many ethical codes for research, each regarding distinct fields of inquiry, designed by and for different institutions, and sometimes affecting scientific work conducted within specific regions.
@@ -111,7 +111,7 @@ Looking at different aspects of research ethics. _The Turing Way_ project illust
 
  Thirdly, RRI and research integrity question the ethics of how scientific solutions are framed and shaped either by society at large (RRI) or by institutional practices in particular (research integrity).
  With our RRI hat on, we can ask how we communicate the validity of scientific outputs.
- Whilst how scientific findings are communicated is not a new question, it is worth highlighting that artificial intelligence (AI) and machine learning might be framed as delivering much more for research and innovation than what they actually can.
+ Whilst how scientific findings are communicated is not a new question, it is worth highlighting that artificial intelligence (IA) and machine learning might be framed as delivering much more for research and innovation than what they actually can.
  Along these lines, we can ask about the role of “AI” as a marketing tool, as a way to grant research findings undeserved credibility (Lanier and Weyl, 2020).
  A more specific example is available in Nagendran et al.'s' (2020) concerns over exaggerated claims of AI outperforming doctors.
  Switching to our research integrity goggles, we can question how academic infrastructures shape scientific work.
