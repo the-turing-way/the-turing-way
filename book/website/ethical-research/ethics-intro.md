@@ -52,7 +52,7 @@ Looking at different aspects of research ethics. _The Turing Way_ project illust
  To this effect, the importance of acting ethically within the academic sphere is heightened.
  Scientists must reflect on the ethical questions their research projects raise.
 
- ## Definition Research Ethics
+ ## Defining Research Ethics
 
  In practice, the historical development of research ethics has been driven due to ethical concerns around how research has traditionally been conducted and cases of clear controversy (European Commission, 2010).
  Unfortunately, this reactive nature of research ethics has led to there being many ethical codes for research, each regarding distinct fields of inquiry, designed by and for different institutions, and sometimes affecting scientific work conducted within specific regions.
