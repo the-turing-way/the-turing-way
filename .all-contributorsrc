@@ -3812,6 +3812,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "AngelikaKerlin",
+      "name": "AngelikaKerlin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115996571?v=4",
+      "profile": "https://github.com/AngelikaKerlin",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
