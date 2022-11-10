@@ -118,7 +118,7 @@ Looking at different aspects of research ethics. _The Turing Way_ project illust
 
  Consider, for example, how researchers must weigh the noble pursuit of *truth*, with the need to earn *credit* (on this weighing of options, see, for example, Zollman, 2018).
  We can also reflect on the impact of funding on scientific endeavours.
- Questions can be raised regarding the size of research grants (Bloch & Sorensen, 2014) and even the values that motivate the funding of some research projects and not others.
+ Questions can be raised regarding the size of research grants (Bloch & Sorensen, 2015) and even the values that motivate the funding of some research projects and not others.
  Institutional norms might even encourage a “publication bias” whereby positively framed findings will be easier to get published (see Kaiser et al.’s, (2009) finding that studies showing differences in sex/gender are easier to publish than studies *not* supporting such differences).
 
  Below is a table illustrating the three differences outlined above.
