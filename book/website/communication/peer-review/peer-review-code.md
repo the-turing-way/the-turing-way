@@ -65,6 +65,10 @@ Identify pressure points and provide constructive suggestions
 **6. Acknowledge the effort from authors** and give them feedback in good faith. 
 Also tell them what they did well!
 
+## CODECHECK
+[CODECHECK](https://codecheck.org.uk/) provides a workflow, guidelines and tools to evaluate computer programs underlying scientific papers. 
+If you want to get involved as a codechecker in the community, or if you want to apply the CODECHECK principles in your journal or conference, please take a look at the [Get Involved page](https://codecheck.org.uk/get-involved/).
+
 ## Code Review of research software
 
 Please see the {ref}`Code Reviewing Process chapter <rr-reviewing>` for more details when reviewing software as a primary research output, which includes a {ref}`checklist for code review process <rr-checklist-for-code-review>`
