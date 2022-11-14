@@ -10,5 +10,8 @@ We provide below some list of standard ROs described in the literature and emerg
 - Bibliography-centric: includes manuals, anonymize interviews, publications, multimedia (video, songs) and/or other material that support research.
 - Data-centric: refers to datasets which can be indexed, discovered and manipulated. For further info of this typology, we suggest to check the section on {ref}`data papers <cm-dif-articles-data>`.
 - Executable: includes the code, data and computational environment along with a description of the research object and in some cases a workflow. This type of ROs can be executed and is often used for scripts and/or Jupyter Notebooks.
-- Software-centric: also known as “Code as a Research Object”. Software-centric ROs include source codes and associated documentation. They often include sample datasets for running tests. . For further info of this typology, we suggest to check the section on {ref}`software papers <cm-dif-articles-software>`.
+- Software-centric: also known as “Code as a Research Object”. 
+Software-centric ROs include source codes and associated documentation. 
+They often include sample datasets for running tests. 
+For further info of this typology, we suggest to check the section on {ref}`software papers <cm-dif-articles-software>`.
 - Workflow-centric {cite:ps}`Belhajjame-ro-workflow2015`: contains workflow specifications, provenance logs generated when executing the workflows, information about the evolution of the workflow (version) and its components elements, and additional annotations for the workflow as a whole.
