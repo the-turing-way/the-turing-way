@@ -1,6 +1,6 @@
 (cm-ro-implementation)=
 
-# Platforms
+# Implementation and associated platforms
 Among the existing tools and related infrastructure to curate and create ROs, we provide below some of them which are currently in operation:
 
 - [workflowHub](https://workflowhub.eu/) focuses on workflow-centric ROs and supports any workflow in its native repository.
