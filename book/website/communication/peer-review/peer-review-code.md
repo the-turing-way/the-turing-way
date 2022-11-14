@@ -2,7 +2,7 @@
 
 # Guidance on Code Review
 
-Code review can help increase the accuracy of results, improve usability and maintainability of code, and is a great opportunity to learn.
+Code review can help increase the accuracy of results, improve usability and maintainability of code, and is a great opportunity to learn. For a more detailed overview of motivations for Code Review, please see the {ref}`Code Reviewing Process <rr-reviewing-motivation>`.
 
 The most important questions during code review are: 
 - Are all the files available? If not, ask the editor to request the data/code from the authors.
@@ -65,20 +65,9 @@ Identify pressure points and provide constructive suggestions
 **6. Acknowledge the effort from authors** and give them feedback in good faith. 
 Also tell them what they did well!
 
-## Code Review in [What to look for in a code review style](https://google.github.io/eng-practices/review/reviewer/looking-for.html)
+## Code Review of research software
 
-*This is more applicable to research software as the primary research object.* 
-
-* The code is well-designed.
-* The functionality is good for the users of the code.
-* Any UI changes are sensible and look good.
-* Any parallel programming is done safely.
-* The code isn’t more complex than it needs to be.
-* The developer isn’t implementing things they might need in the future but don’t know they need now.
-* Code has appropriate and well-designed unit tests
-* The developer used clear names for everything.
-* Comments are clear and useful, and mostly explain why instead of what.
-* Code is appropriately documented and conforms to style guides
+Please see the {ref}`Code Reviewing Process chapter <rr-reviewing>` for more details when reviewing software as a primary research output, which includes a {ref}`checklist for code review process <rr-checklist-for-code-review>`
 
 
 # Resources
