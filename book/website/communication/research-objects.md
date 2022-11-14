@@ -46,6 +46,6 @@ As a result, ROs support evidence and support validation of findings claimed in 
 (cm-ro-contribute)=
 ## Contribute to this Chapter
 We invite all contributions in the following areas:
-- Add or update relevant concepts regarding ROs;
+- Add or update relevant concepts regarding ROs and related concept such as FAIR Digital Objects {cite:ps}`desmedtetal20202-FAIR-digitalobjects`;
 - Complete and/or add information about typologies;
 - Include additional implementation of ROs and associated services.
