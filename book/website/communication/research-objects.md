@@ -32,7 +32,7 @@ In short, ROs can be seen as a "single information unit" where any research mate
 
 Motivation behind RO is the need to identify and share all components such as data, source code, tools, method documentation, as well as communication materials such as presentations, videos, blogs and other tangible outcomes. 
 The entire research lifecycle can be captured, allowing the release and publication of results progressively, keeping track of versioning and change information. 
-ROs facilitate reproducibility and reuse of the scientific methods and results through access to resources, context and metadata, and the possibility of forking existing ROs. 
+ROs facilitate reproducibility of the scientific methods and results through access to resources, context and metadata, and reuse with the possibility of forking existing ROs. 
 
 There are three guiding principles for RO:
 - Digital identity - Using unique identifiers, such as DOIs for tangible outcomes such as publications or data, and ORCID ids for researchers (explain in details in the next lesson).
