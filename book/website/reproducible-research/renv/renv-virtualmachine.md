@@ -88,3 +88,22 @@ alt: A screenshot showing how to export a Virtual Machine.
 
 Someone that has access to this file and VirtualBox installed just needs to click `File` in the top left, then `Import` to select that file.
 Once it is imported, they can start the VM as described before, by selecting it from the menu clicking the green start arrow at the top.
+
+(rr-renv-vm-vagrant)=
+## Declarative Environments with Vagrant
+
+[Vagrant](https://www.vagrantup.com/) is a tool which *"enables users to create and configure lightweight, reproducible, and portable development environments"*.
+In this context, an environment is a virtual machine (its CPUs, RAM, networking and so on) and the machines state (operating system, packages).
+With Vagrant, users can define the configuration of a virtual machine (or group of virtual machines) in a declarative configuration file.
+This "VagrantFile" is written in the [Ruby](https://www.ruby-lang.org/en/) programming language.
+However, it is not necessary to know Ruby as the syntax is simple and the [documentation](https://developer.hashicorp.com/vagrant/docs/vagrantfile) explains all of the available options.
+
+Defining the virtual machines in plain text has a number of advantages over distributing disk images.
+
+- Can be checked into version control
+- Small size makes them easy and fast to share
+- Users can reproducibly build the environment themselves
+- Can potentially work across multiple hypervisors (like VirtualBox, VMWare, libvirt)
+
+In combination, these attractive qualities address the goals of Vagrant.
+A project can maintain its development environment alongside the source code and every contributor can build and use the environment with minimal barriers.
