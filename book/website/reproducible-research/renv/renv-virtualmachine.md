@@ -108,6 +108,8 @@ Defining the virtual machines in plain text has a number of advantages over dist
 In combination, these attractive qualities address the goals of Vagrant.
 A project can maintain its development environment alongside the source code and every contributor can build and use the environment with minimal barriers.
 
+## How Vagrant Works
+
 Unlike some other tools you may use to create or manage virtual machines, like [VirtualBox](https://www.virtualbox.org/) and [QEMU](https://www.qemu.org/), Vagrant does not have its own hypervisor.
 Instead, Vagrant uses [providers](https://developer.hashicorp.com/vagrant/docs/providers) to interact with other virtualisation tools.
 Vagrant has built in providers for [VirtualBox](https://www.virtualbox.org/), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) and [Docker](https://www.docker.com/).
@@ -119,3 +121,11 @@ For Linux users there is also a [community supported provider](https://github.co
 A hypervisor is software which allows virtual machines to interact with host machines hardware at a low level.
 [This](https://www.redhat.com/en/topics/virtualization/what-is-a-hypervisor) article from Red Hat gives a good overview.
 ```
+
+Vagrant environments can be packed into [boxes](https://developer.hashicorp.com/vagrant/docs/boxes).
+When using Vagrant you will most likely start from an existing box and build your environment on top of it.
+You can browse and search for public boxes [here](https://app.vagrantup.com/boxes/search).
+
+After deploying a box, Vagrant can also use [provisioners](https://developer.hashicorp.com/vagrant/docs/provisioning) to apply further configuration.
+This is useful to adapt a generic box to a specific purpose, for example by installing packages.
+Provisioning can be as simple as a shell script but can also incorporate powerful configuration management tools like [Ansible](https://docs.ansible.com/ansible/latest/index.html), [Puppet](https://puppet.com/) and [Chef](https://www.chef.io/).
