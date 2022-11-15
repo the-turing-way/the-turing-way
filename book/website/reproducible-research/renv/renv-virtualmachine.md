@@ -94,8 +94,8 @@ Once it is imported, they can start the VM as described before, by selecting it 
 
 [Vagrant](https://www.vagrantup.com/) is a tool which *"enables users to create and configure lightweight, reproducible, and portable development environments"*.
 In this context, an environment is a virtual machine (its CPUs, RAM, networking and so on) and the machines state (operating system, packages).
-With Vagrant, users can define the configuration of a virtual machine (or group of virtual machines) in a declarative configuration file.
-This "VagrantFile" is written in the [Ruby](https://www.ruby-lang.org/en/) programming language.
+With Vagrant, users can define the configuration of a virtual machine (or group of virtual machines) in a declarative configuration language.
+This configuration is written in the [Ruby](https://www.ruby-lang.org/en/) programming language.
 However, it is not necessary to know Ruby as the syntax is simple and the [documentation](https://developer.hashicorp.com/vagrant/docs/vagrantfile) explains all of the available options.
 
 Defining the virtual machines in plain text has a number of advantages over distributing disk images.
