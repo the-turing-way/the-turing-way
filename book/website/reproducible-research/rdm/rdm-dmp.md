@@ -50,10 +50,9 @@ If data cannot be made publicly available you will still have to preserve it for
 * You can outsource long term preservation of your data to a data repository. 
 You can find more information on how to select an appropriate repository in {ref}`sharing and archiving data<rr-rdm-sharing>` section
     * Select repositories using, for example, [FAIRsharing](https://fairsharing.org/) or [Nature's recommended repository list](https://www.springernature.com/gp/authors/research-data-policy/repositories/12327124), that provide a persistent identifier such as a DOI for your research output. 
-A repository should have a preservation policy that specifies how long your outputs will be curated. 
-When in doubt, contact your library Research Data Support Team for more information about data repositories. 
 
-A repository should have a preservation policy that specifies how long your outputs will be curated
+A repository should have a preservation policy that specifies how long your outputs will be curated. 
+When in doubt, contact your library Research Data Support Team for more information about data repositories.
 
 * For digital preservation, ensure that the research data can be discovered, accessed, used and understood now and in future. This requires that you address the technological changes, changing user behavior and new requirements on the computer-aided processing of research data as well as evolving organisational.
 
