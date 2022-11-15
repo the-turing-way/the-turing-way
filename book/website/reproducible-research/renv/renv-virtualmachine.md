@@ -94,7 +94,7 @@ Once it is imported, they can start the VM as described before, by selecting it 
 
 [Vagrant](https://www.vagrantup.com/) is a tool which *"enables users to create and configure lightweight, reproducible, and portable development environments"*.
 In this context, an environment is a virtual machine (its CPUs, RAM, networking and so on) and the machines state (operating system, packages).
-With Vagrant, users can define the configuration of a virtual machine (or group of virtual machines) in a declarative configuration language.
+With Vagrant, users can define the configuration of a virtual machine (or group of virtual machines) in a declarative configuration language stored in a Vagrantfile.
 This configuration is written in the [Ruby](https://www.ruby-lang.org/en/) programming language.
 However, it is not necessary to know Ruby as the syntax is simple and the [documentation](https://developer.hashicorp.com/vagrant/docs/vagrantfile) explains all of the available options.
 
@@ -129,3 +129,12 @@ You can browse and search for public boxes [here](https://app.vagrantup.com/boxe
 After deploying a box, Vagrant can also use [provisioners](https://developer.hashicorp.com/vagrant/docs/provisioning) to apply further configuration.
 This is useful to adapt a generic box to a specific purpose, for example by installing packages.
 Provisioning can be as simple as a shell script but can also incorporate powerful configuration management tools like [Ansible](https://docs.ansible.com/ansible/latest/index.html), [Puppet](https://puppet.com/) and [Chef](https://www.chef.io/).
+
+### Syncing Data
+
+Vagrant can help sharing data between the host and the virtual machine by syncing directories.
+By default, the directory containing the Vagrantfile is mounted at `/vagrant` on the guest.
+Therefore, if you keep a Vagrantfile in the root of a git repository, when you use the Vagrant environment you will find your project at `/vagrant`.
+This makes it convenient to develop, build and test your project within the environment.
+
+Additional shared directories can be declared as explained in [the documentation](https://developer.hashicorp.com/vagrant/docs/synced-folders/basic_usage).
