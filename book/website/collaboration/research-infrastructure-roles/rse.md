@@ -1,8 +1,10 @@
 (cl-infrastructure-rse)=
 # Research Software Engineer: Overview
 
-Research Software Engineers (RSEs) are programmers with scientific backgrounds who play increasingly critical roles in the conduct of research and production of research software tools. 
-They are highly skilled team members who can also conduct their own research as part of their role. 
+Research Software Engineers (RSEs) are a broad group of people who combine software engineering expertise with an intimate understanding of research to contribute to the academic community.
+RSEs are involved in developing, maintaining, and deploying research software so that it is widely useable, well-documented, and produces reproducible outputs.
+While RSEs are increasingly critical to academic research, they often come from a variety of backgrounds and make diverse contributions which may not fit neatly into current formal academic roles, creating barriers to recognition and advancement.
+Therefore, this short guide aims to raise awareness of the RSE role, outline pathways for personal development and institutional recognition for RSEs, and list active community groups promoting RSE awareness.
 
 
 (cl-infrastructure-rse-role)=
