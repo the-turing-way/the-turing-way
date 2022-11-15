@@ -108,7 +108,7 @@ Defining the virtual machines in plain text has a number of advantages over dist
 In combination, these attractive qualities address the goals of Vagrant.
 A project can maintain its development environment alongside the source code and every contributor can build and use the environment with minimal barriers.
 
-## How Vagrant Works
+### How Vagrant Works
 
 Unlike some other tools you may use to create or manage virtual machines, like [VirtualBox](https://www.virtualbox.org/) and [QEMU](https://www.qemu.org/), Vagrant does not have its own hypervisor.
 Instead, Vagrant uses [providers](https://developer.hashicorp.com/vagrant/docs/providers) to interact with other virtualisation tools.
