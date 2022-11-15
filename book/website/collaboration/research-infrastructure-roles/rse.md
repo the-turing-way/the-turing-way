@@ -9,8 +9,12 @@ Therefore, this short guide aims to raise awareness of the RSE role, outline pat
 
 (cl-infrastructure-rse-role)=
 ## What do Research Software Engineers do? 
-RSEs work on research projects. 
-They may be assigned to projects based on skills or background from a pool of other RSEs, or be specifically hired to work on a project. 
+As already mentioned, RSEs can come from a wide range of backgrounds. It is important to mention, however, that the overarching characteristic element of research software engineers is that the output of their research is not papers in their field (anymore), but software and toolboxes (which might be accompanied by an overview paper or published manual).   Thus, an important step to allow the acknowledgement of research software work has been the setting up policies that allow the assignment of DOIs for dataset and software. 
+The challenges that are created by shifting the focus of output of research away from the traditional research output will be discussed later. 
+
+https://ieeexplore.ieee.org/abstract/document/8994167
+
+
 
 Additionally, RSEs can also be PIs and run their own independent research projects, depending on the institution and policies of the projects they are working on. 
 
