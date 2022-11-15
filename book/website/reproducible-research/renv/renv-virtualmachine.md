@@ -107,3 +107,15 @@ Defining the virtual machines in plain text has a number of advantages over dist
 
 In combination, these attractive qualities address the goals of Vagrant.
 A project can maintain its development environment alongside the source code and every contributor can build and use the environment with minimal barriers.
+
+Unlike some other tools you may use to create or manage virtual machines, like [VirtualBox](https://www.virtualbox.org/) and [QEMU](https://www.qemu.org/), Vagrant does not have its own hypervisor.
+Instead, Vagrant uses [providers](https://developer.hashicorp.com/vagrant/docs/providers) to interact with other virtualisation tools.
+Vagrant has built in providers for [VirtualBox](https://www.virtualbox.org/), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) and [Docker](https://www.docker.com/).
+Other providers can be supported by plugins.
+In particular, the Vagrant developers maintain an [official plugin](https://developer.hashicorp.com/vagrant/docs/providers/vmware/installation) for [VMWare](https://www.vmware.com/).
+For Linux users there is also a [community supported provider](https://github.com/vagrant-libvirt/vagrant-libvirt) for [libvirt](https://libvirt.org/).
+
+```{note}
+A hypervisor is software which allows virtual machines to interact with host machines hardware at a low level.
+[This](https://www.redhat.com/en/topics/virtualization/what-is-a-hypervisor) article from Red Hat gives a good overview.
+```
