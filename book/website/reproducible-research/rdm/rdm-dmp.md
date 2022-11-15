@@ -54,7 +54,8 @@ You can find more information on how to select an appropriate repository in {ref
 A repository should have a preservation policy that specifies how long your outputs will be curated. 
 When in doubt, contact your library Research Data Support Team for more information about data repositories.
 
-* For digital preservation, ensure that the research data can be discovered, accessed, used and understood now and in future. This requires that you address the technological changes, changing user behavior and new requirements on the computer-aided processing of research data as well as evolving organisational.
+* For digital preservation, ensure that the research data can be discovered, accessed, used and understood now and in future. 
+This requires that you address the technological changes, changing user behavior and new requirements on the computer-aided processing of research data as well as evolving organisational.
 
 ### 5. Reuse of your research outputs by others
 * Select a license when you make your output available on a repository (see the Licensing subchapters on {ref}`data<rr-licensing-data>` and {ref}`software<rr-licensing-software>` for more information). 
