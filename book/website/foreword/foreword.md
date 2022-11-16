@@ -10,7 +10,7 @@ Chapters have been written, reviewed and curated by members from international r
 The foreword section of _The Turing Way_ handbook provides the following information:
 
 - {ref}`Vision and Mission<fw-vision-mission>` 
-- {ref}`Background and history<fw-background>`
+- {ref}`Background and history<fw-history>`
 - {ref}`Navigating the book<fw-navigate>`
 - {ref}`Community and roles<fw-community-roles>`
 - {ref}`Ways of working<fw-ways-of-working>`
