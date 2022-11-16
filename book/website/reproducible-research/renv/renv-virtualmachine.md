@@ -94,19 +94,6 @@ Once it is imported, they can start the VM as described before, by selecting it 
 
 [Vagrant](https://www.vagrantup.com/) is a tool which *"enables users to create and configure lightweight, reproducible, and portable development environments"*.
 In this context, an environment is a virtual machine (its CPUs, RAM, networking and so on) and the machines state (operating system, packages).
-With Vagrant, users can define the configuration of a virtual machine (or group of virtual machines) in a declarative configuration language stored in a Vagrantfile.
-This configuration is written in the [Ruby](https://www.ruby-lang.org/en/) programming language.
-However, it is not necessary to know Ruby as the syntax is simple and the [documentation](https://developer.hashicorp.com/vagrant/docs/vagrantfile) explains all of the available options.
-
-Defining the virtual machines in plain text has a number of advantages over distributing disk images.
-
-- Can be checked into version control
-- Small size makes them easy and fast to share
-- Users can reproducibly build the environment themselves
-- Can potentially work across multiple hypervisors (like VirtualBox, VMWare, libvirt)
-
-In combination, these attractive qualities address the goals of Vagrant.
-A project can maintain its development environment alongside the source code and every contributor can build and use the environment with minimal barriers.
 
 ### How Vagrant Works
 
@@ -129,6 +116,22 @@ You can browse and search for public boxes [here](https://app.vagrantup.com/boxe
 After deploying a box, Vagrant can also use [provisioners](https://developer.hashicorp.com/vagrant/docs/provisioning) to apply further configuration.
 This is useful to adapt a generic box to a specific purpose, for example by installing packages.
 Provisioning can be as simple as a shell script but can also incorporate powerful configuration management tools like [Ansible](https://docs.ansible.com/ansible/latest/index.html), [Puppet](https://puppet.com/) and [Chef](https://www.chef.io/).
+
+### The Vagrantfile
+
+With Vagrant, users can define the configuration of a virtual machine (or group of virtual machines) in a declarative configuration language stored in a Vagrantfile.
+This configuration is written in the [Ruby](https://www.ruby-lang.org/en/) programming language.
+However, it is not necessary to know Ruby as the syntax is simple and the [documentation](https://developer.hashicorp.com/vagrant/docs/vagrantfile) explains all of the available options.
+
+Defining the virtual machines in plain text has a number of advantages over distributing disk images.
+
+- Can be checked into version control
+- Small size makes them easy and fast to share
+- Users can reproducibly build the environment themselves
+- Can potentially work across multiple hypervisors (like VirtualBox, VMWare, libvirt)
+
+In combination, these attractive qualities address the goals of Vagrant.
+A project can maintain its development environment alongside the source code and every contributor can build and use the environment with minimal barriers.
 
 ### Syncing Data
 
