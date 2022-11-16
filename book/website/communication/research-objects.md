@@ -37,7 +37,7 @@ ROs facilitate reproducibility of the scientific methods and results through acc
 There are three guiding principles for RO:
 - Digital identity - Using unique identifiers, such as DOIs for tangible outcomes such as publications or data, and ORCID ids for researchers (explained in detail in the {ref}`ORCID section<cm-citable-orcidd>).
 - Data aggregation - Using a method to aggregate all outcomes so that they are discoverable and hence allow anyone to investigate and reproduce the research.
-- Annotation - Use rich machine-readable metadata (discussed in open data) that help ensure findability and accessibility of all scientific work.
+- Annotation - Use rich machine-readable metadata (discussed in {ref}`Chapter on Documentation and Metadata<rr-rdm-metadata>`) that help ensure findability and accessibility of all scientific work.
 RO helps understand the entire research lifecycle through research outcomes including publication shared progressively, allowing to track the versioning and development of the entire project.
 
 All the research work, including potential failures, dead ends or any other information such as experimental protocols, software code, standards as well as all the individuals who contributed to the research can also be recorded in the RO. 
