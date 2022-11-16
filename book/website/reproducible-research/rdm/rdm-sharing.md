@@ -13,7 +13,7 @@ Large amounts of research funds and careers of researchers can be wasted by only
 
 You can read more about why data should be available, and why some data should remain closed, in the {ref}`Open Data section <rr-open-data>`
 
-```{figure} ../../figures/birds-of-open-data.jpg
+```{figure} ../../figures/birds-of-open-data.*
 ---
 height: 400px
 name: birds-of-open-data.jpg

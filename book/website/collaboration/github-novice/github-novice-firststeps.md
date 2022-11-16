@@ -22,7 +22,7 @@ This is what you should see now.
 It is the landing page for your repository.
 The diagram below explains what all the buttons, tabs and other things do!
 
-```{figure} ../../figures/github-basic-diagram.jpg
+```{figure} ../../figures/github-basic-diagram.*
 ---
 name: github-basic-diagram
 alt: Annotated diagram of repository after its creation, explaining the main features. The main features are explained in the figure legend.
@@ -65,7 +65,7 @@ To edit your README.md file:
 You can now edit the file.
 We'll talk about how to save your changes after some pointers on writing a good README.
 
-```{figure} ../../figures/github-readme-before-edit.jpg
+```{figure} ../../figures/github-readme-before-edit.*
 ---
 name: github-readme-before-edit
 alt: Annotated diagram of README.md file, if you click on the file name on your landing page. The main features are explained in the figure legend.
@@ -82,7 +82,7 @@ Annotated diagram of README.md file, if you click on the file name on your landi
 - **8. Delete file:** click the bin to delete this file.
 ```
 
-```{figure} ../../figures/github-readme-after-edit.jpg
+```{figure} ../../figures/github-readme-after-edit.*
 ---
 name: github-readme-after-edit
 alt: Annotated diagram of README.md file in edit mode – before editing. Explained in the title.
@@ -116,7 +116,7 @@ If you click the link above, it will take you to their README.file. You can use 
 * Remember to check what it looks like by clicking on the preview changes tab.
 * When you have finished editing, you need to scroll down to the bottom of the page and press the green commit changes button.
 
-```{figure} ../../figures/github-edited-readme.jpg
+```{figure} ../../figures/github-edited-readme.*
 ---
 name: /github-edited-readme
 alt: Annotated diagram of README.md file in edit mode – with a template added. Features are explained in the figure legend.

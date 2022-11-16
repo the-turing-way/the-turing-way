@@ -51,4 +51,13 @@ Therefore, decisions about authorship need to be taken and the two main decision
 Contributions to research projects and how these translate into the authorship of a journal article are tackled in many different ways dependent on what discipline the study is based in, the location of the publication (which journal or publisher is used), the motivation of the project contributors and the number of people involved in the project. 
 The name order is heavily based in a discipline specific tradition of what is understood by that order and this can create tension when new research collaborations are set up.
 
+```{figure} ../../figures/acknowledge-authors.* 
+---
+height: 500px
+name: acknowledge-authors
+alt: We need to move away from the concept of 'authorship' (depicted as one person supported by four unindentifiable figures) to acknowledging contributors - represented by lots of visible figures representing investigation, conceptualisation, data curation, formal analysis, and funding acquisition. 
+---
+Acknowledging contributors. _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+```
+
 There is a growing trend pushing against more traditional ideas of authorship; in the number of authors and their order, and that authorship should reflect the contributions of the whole research team or community. Such an inclusive authorship model is hard to achieve and must be planned at the beginning of any project so that all contributions are recorded.
