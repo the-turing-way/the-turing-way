@@ -23,7 +23,9 @@ The set of attributes would clearly be able to identify the individuals by means
 
 ##### Indirect identifiers
 
-Indirect identifiers could include health, economic, cultural or social characteristics. Any information that, either alone or in aggregate could allow people to identify individuals. Especially when a certain combination of these identifiers and additional ones are used to identify a person, care must be taken to manage the data properly. Additional identifiers could include information from a third party or a different source.
+Indirect identifiers could include health, economic, cultural or social characteristics. Any information that, either alone or in aggregate could allow people to identify individuals. 
+Especially when a certain combination of these identifiers and additional ones are used to identify a person, care must be taken to manage the data properly. 
+Additional identifiers could include information from a third party or a different source.
 
 ### What does sensitive data look like and how do we deal with it?
 
@@ -36,7 +38,8 @@ Particularly sensitive data include data relating to a person’s:
 * physical or mental health
 * sexual life or orientation
 
-As per the design of the [UK data protection](https://www.gov.uk/data-protection), anyone responsible for using personal data is instructed to follow a set of ‘data protection principles’. They should ensure that the information is:
+As per the design of the [UK data protection](https://www.gov.uk/data-protection), anyone responsible for using personal data is instructed to follow a set of ‘data protection principles’. 
+They should ensure that the information is:
 * used fairly, lawfully and transparently
 * used for specified, explicit purposes
 * used in a way that is adequate, relevant and limited to only what is necessary
@@ -49,7 +52,9 @@ As per the design of the [UK data protection](https://www.gov.uk/data-protection
 
 There are various policies in place in different countries to protect the rights of individuals over their personal data. 
 
-For example, in Australia personal data is regulated under the [Australian Privacy Act 1988](https://www.oaic.gov.au/privacy/the-privacy-act). In the European Union, the [GDPR (General Data Protection Regulation)](https://gdpr.eu/) applies to the processing of personal data. Similarly, in the UK, it falls under the regulation of the [UK Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted), which is the UK’s implementation of the GDPR, and may be required to carry out a [Data Protection Impact Assessment (DPIA)](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/data-protection-impact-assessments-dpias/what-is-a-dpia/) as a part of their accountability obligations. 
+For example, in Australia personal data is regulated under the [Australian Privacy Act 1988](https://www.oaic.gov.au/privacy/the-privacy-act). 
+In the European Union, the [GDPR (General Data Protection Regulation)](https://gdpr.eu/) applies to the processing of personal data. 
+Similarly, in the UK, it falls under the regulation of the [UK Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted), which is the UK’s implementation of the GDPR, and may be required to carry out a [Data Protection Impact Assessment (DPIA)](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/data-protection-impact-assessments-dpias/what-is-a-dpia/) as a part of their accountability obligations. 
 
 Processing means doing anything with a person’s information, including collection, storage, analysis, sharing, deletion and destruction. 
 To ensure that you are up to date with the requirements of managing sensitive data, please review the national/institutional policies that apply to your research. 
