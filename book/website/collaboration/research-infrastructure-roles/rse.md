@@ -1,25 +1,44 @@
 (cl-infrastructure-rse)=
 # Research Software Engineer: Overview
 
-Research Software Engineers (RSEs) are programmers with scientific backgrounds who play increasingly critical roles in the conduct of research and production of research software tools. 
-They are highly skilled team members who can also conduct their own research as part of their role. 
-
+Research Software Engineers (RSEs) are a broad group of people who combine software engineering expertise with an intimate understanding of research to contribute to the academic community.
+RSEs are involved in developing, maintaining, and deploying research software so that it is widely useable, well-documented, and produces reproducible outputs.
+While RSEs are increasingly critical to academic research, they often come from a variety of backgrounds and make diverse contributions which may not fit neatly into current formal academic roles, creating barriers to recognition and advancement.
+Therefore, this short guide aims to raise awareness of the RSE role, outline pathways for personal development and institutional recognition for RSEs, and list active community groups promoting RSE awareness.
+<!-- 
+To footnote:
+This overview combines parts of the following descriptions and definitions of the RSE role:
+https://rse-aunz.github.io
+https://nl-rse.org/posts/2017-06-13-what-is-rse
+https://us-rse.org/about/what-is-an-rse/
+https://society-rse.org/about/
+-->
 
 (cl-infrastructure-rse-role)=
 ## What do Research Software Engineers do? 
-RSEs work on research projects. 
-They may be assigned to projects based on skills or background from a pool of other RSEs, or be specifically hired to work on a project. 
+As already mentioned, RSEs can come from a wide range of backgrounds.
+It is important to mention, however, that the overarching characteristic element of all RSEs is that the output of their research is not papers, but software and toolboxes (which might be accompanied by an overview paper or published manual).
+Thus, an important step to allow the acknowledgement of research software work  has been setting up policies that allow the assignment of DOIs for dataset and software for example by the FFORCE11 Software Citation Working Group  {cite:ps}`smith2016software,Cohen2021FourPillars`.
+The challenges that are created by shifting the focus of output of research away from the traditional research output will be discussed later. 
+
+https://ieeexplore.ieee.org/abstract/document/8994167
+
+
 
 Additionally, RSEs can also be PIs and run their own independent research projects, depending on the institution and policies of the projects they are working on. 
 
 ## Who are Research Software Engineers?
-RSEs typically have a scientific or research background, often developing programming skills during masters or doctoral studies. 
-You can find out more about the backgrounds of RSEs through the [Software Sustinability Institute's 2018 Survey](https://www.software.ac.uk/blog/2018-03-12-what-do-we-know-about-rses-results-our-international-surveys). 
+
+The term "research software engineer" is meant to be broad and inclusive, and people discover RSE roles from a variety of entry points.
+RSEs usually come from either a domain science background, a pure computer science background, or industry experience as a software developer {cite:ps}`Cosden2022RSECareers`.
+These different backgrounds each bring their own advantages and challenges, making every RSE journey unique!
+You can find out more about the diversity of RSE backgrounds and experiences through the latest [RSE International Survey (2022)](https://softwaresaved.github.io/international-survey-2022/).
 
 ## What qualifications or skills do you need to be a Research Software Engineer? 
-There are not specific formal qualifications needed to become an RSE, but the majority will have at least one advanced degree (masters or doctoral level). 
-However, all RSEs are able to program, with the majority coding in Python, SQL, R, C/C++ or JavaScript.
+RSEs are usually able to program -- from the latest RSE International Survey, the top five languages used by RSEs are Python, C++, R, JavaScript, and SQL.
 RSEs are also likely to understand concepts such as agile development, integration and testing, software architecture, and version control. 
+Most importantly, RSEs apply these skills to academic research, creating and promoting computerized approaches to make research more efficient and reproducible.
+This means that RSEs need to have (and will develop!) excellent communication skills as they bridge the gaps between academia, software engineering, and research infrastructure maintenance.
 
 ## Challenges for Research Software Engineers
 * Lack of formal pathways for development
@@ -34,9 +53,14 @@ RSEs are also likely to understand concepts such as agile development, integrati
 * Software will be more reliable and robust, supporting reuse and reproducibility 
 
 (cl-infrastructure-rse-support)=
-## Organisations that support Research Software Engineers
-* [Society for Research Engineering](https://society-rse.org/)
+## Organisations and Resources for Research Software Engineers
+* [Research Software Engineers International](https://researchsoftware.org)
+    * Maintains a [list of links to national or multinational RSE associations](https://researchsoftware.org/assoc.html)
+* [Research Software Alliance](https://www.researchsoft.org)
+    * Open Slack channel and links to [resources](https://www.researchsoft.org/resa-resources/) and [guidelines](https://www.researchsoft.org/guidelines/)
 * [Software Sustainability Institute](https://www.software.ac.uk/)
+* [Research Software Engineers' GitHub Organization](https://rseng.github.io/) is a GitHub repository dedicated to cool RSE projects, such as a [glossary of RSE terms](https://rseng.github.io/rse-glossary/)
+* [Research Computing Teams](https://www.researchcomputingteams.org/) is a helpful newsletter.
 
 (cl-infrastructure-rse-summary)=
 ## Summary
