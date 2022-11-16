@@ -49,9 +49,14 @@ RSEs are also likely to understand concepts such as agile development, integrati
 * Software will be more reliable and robust, supporting reuse and reproducibility 
 
 (cl-infrastructure-rse-support)=
-## Organisations that support Research Software Engineers
-* [Society for Research Engineering](https://society-rse.org/)
+## Organisations and Resources for Research Software Engineers
+* [Research Software Engineers International](https://researchsoftware.org)
+    * Maintains a [list of links to national or multinational RSE associations](https://researchsoftware.org/assoc.html)
+* [Research Software Alliance](https://www.researchsoft.org)
+    * Open Slack channel and links to [resources](https://www.researchsoft.org/resa-resources/) and [guidelines](https://www.researchsoft.org/guidelines/)
 * [Software Sustainability Institute](https://www.software.ac.uk/)
+* [Research Software Engineers' GitHub Organization](https://rseng.github.io/) is a GitHub repository dedicated to cool RSE projects, such as a [glossary of RSE terms](https://rseng.github.io/rse-glossary/)
+* [Research Computing Teams](https://www.researchcomputingteams.org/) is a helpful newsletter.
 
 (cl-infrastructure-rse-summary)=
 ## Summary
