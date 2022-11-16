@@ -6,6 +6,8 @@ Vagrant.configure("2") do |config|
   # https://app.vagrantup.com/generic/boxes/fedora36
   config.vm.box = "generic/fedora36"
 
+  config.vm.hostname = 'theturingway'
+
   # Sync the project directory between the host and vagrant environment
   config.vm.synced_folder "./", "/vagrant"
 
