@@ -130,7 +130,7 @@ For Vagrant to recognise a Vagrantfile file, it must be called `Vagrantfile`.
 Defining the virtual machines in plain text has a number of advantages over distributing full virtual machine images.
 
 - The files can be checked into version control
-- Small size makes them easy and fast to share
+- Small size makes them fast and easy to share
 - Users can reproducibly build environments
 - A single definition can potentially work across multiple hypervisors (like VirtualBox, VMWare, libvirt)
 
