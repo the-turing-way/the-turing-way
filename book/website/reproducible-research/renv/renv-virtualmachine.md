@@ -138,3 +138,7 @@ Therefore, if you keep a Vagrantfile in the root of a git repository, when you u
 This makes it convenient to develop, build and test your project within the environment.
 
 Additional shared directories can be declared as explained in [the documentation](https://developer.hashicorp.com/vagrant/docs/synced-folders/basic_usage).
+
+Some boxes may not have any shared directories, so it is best to explicitly define any that you want in your Vagrantfile.
+In particular, the 'generic' images built by [Roboxes](https://roboxes.org/) do not have any mounts by default.
+These boxes are popular as they cover a wide variety of distributions and support a multiple hypervisors.
