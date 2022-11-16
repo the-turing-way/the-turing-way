@@ -44,7 +44,7 @@ This feature is a great way to help others contribute to your repo or let them k
 ## Using GitHub Features to foster collaboration
 This is what a repository looks like when it is set up to include many of these features, making it a welcoming, collaborative workspace.
 
-```{figure} ../../figures/github-project.jpg
+```{figure} ../../figures/github-project.*
 ---
 name: github-project
 alt: Annotated diagram of a collaborative project repository. Explained in the caption.

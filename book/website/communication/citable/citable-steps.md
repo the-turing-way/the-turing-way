@@ -33,7 +33,7 @@ It's important to note that not everything published online gets a unique identi
 (cm-citable-steps-doi)=
 ### DOIs
 
-```{figure} ../../figures/DOI.jpg
+```{figure} ../../figures/DOI.*
 ---
 name: doi
 alt: This image shows three boxes with materials on top. The main box in the middle has 'identifiers' written on it with three discs on top of it that are labelled 'data sets'. Both boxes by their side have journal articles on top of them. An arrow on the top of the image points to these images as being 'Digital Object Identifiers'. There is text at the bottom of the image which says 'Persistent', 'Unique', 'Trusted'.

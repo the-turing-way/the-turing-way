@@ -5,7 +5,7 @@
   "imageSize": 100,
   "contributorsPerLine": 7,
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg)](#contributors)",
-  "skipCi": false,
+  "skipCi": true,
   "contributorsSortAlphabetically": true,
   "contributors": [
     {
@@ -3584,7 +3584,8 @@
       "profile": "https://github.com/CariHV",
       "contributions": [
         "ideas",
-        "content"
+        "content",
+        "bug"
       ]
     },
     {
@@ -3701,6 +3702,187 @@
       "name": "Brian O'Neil",
       "avatar_url": "https://avatars.githubusercontent.com/u/102704305?v=4",
       "profile": "https://brianoneil.netlify.app/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "selvi-aras",
+      "name": "Aras Selvi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55166614?v=4",
+      "profile": "http://linkedin.com/in/arasselvi",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "AnkitaGarg95",
+      "name": "AnkitaGarg95",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70006784?v=4",
+      "profile": "https://github.com/AnkitaGarg95",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "v-smith",
+      "name": "Vicky Smith",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72864814?v=4",
+      "profile": "https://www.linkedin.com/in/victoria-smith-754602104/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Elisarau",
+      "name": "Elisa Rauseo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88763664?v=4",
+      "profile": "https://github.com/Elisarau",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "anicusan",
+      "name": "Andrei Leonard Nicusan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20279119?v=4",
+      "profile": "http://anicusan.github.io",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "annarae13",
+      "name": "annarae13",
+      "avatar_url": "https://avatars.githubusercontent.com/u/53874820?v=4",
+      "profile": "https://github.com/annarae13",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Zeena-Shawa",
+      "name": "Zeena-Shawa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72321461?v=4",
+      "profile": "https://github.com/Zeena-Shawa",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "VatsalNagelia",
+      "name": "VatsalNagelia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52467754?v=4",
+      "profile": "https://github.com/VatsalNagelia",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "grczh",
+      "name": "grczh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/92826273?v=4",
+      "profile": "https://github.com/grczh",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "mahmoud-elsherif",
+      "name": "mahmoud-elsherif",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44072961?v=4",
+      "profile": "https://github.com/mahmoud-elsherif",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "owainkenwayucl",
+      "name": "Dr Owain Kenway",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4256093?v=4",
+      "profile": "https://owainkenwayucl.github.io/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ha0ye",
+      "name": "Hao Ye",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5835366?v=4",
+      "profile": "http://haoye.us",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "AngelikaKerlin",
+      "name": "AngelikaKerlin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115996571?v=4",
+      "profile": "https://github.com/AngelikaKerlin",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "s-shivanand",
+      "name": "Sharana Shivanand",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107891112?v=4",
+      "profile": "https://github.com/s-shivanand",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "ClaudiaCAU",
+      "name": "ClaudiaCAU",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32701238?v=4",
+      "profile": "https://github.com/ClaudiaCAU",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Girl-in-Geo",
+      "name": "Laura Mugeha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47306402?v=4",
+      "profile": "https://github.com/Girl-in-Geo",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "TheAbstract",
+      "name": "Siphiwe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56311555?v=4",
+      "profile": "https://theabstract.github.io/",
+      "contributions": [
+        "bug",
+        "review"
+      ]
+    },
+    {
+      "login": "booktrackerGirl",
+      "name": "Aditi Dutta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45264620?v=4",
+      "profile": "https://www.linkedin.com/in/aditi-dutta-22a299135/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "gregcaporaso",
+      "name": "Greg Caporaso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192372?v=4",
+      "profile": "http://www.caporasolab.us",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "SianC",
+      "name": "SianC",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52662865?v=4",
+      "profile": "https://github.com/SianC",
       "contributions": [
         "bug"
       ]

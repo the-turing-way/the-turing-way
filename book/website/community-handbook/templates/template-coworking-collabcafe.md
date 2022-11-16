@@ -6,7 +6,7 @@
 ## _The Turing Way_ online Collaboration Cafe | DATE MONTH YEAR
 
 Thank you for joining the _Turing Way_'s online Collaboration Cafe!
-We're delighted to have you here :coffee: :sparkles: :cake:
+We're delighted to have you here ☕️✨🎂
 
 (*We do recommend bringing your actual tea, coffee, water or your favorite beverage to this cafe! :smile:*)
 
@@ -43,7 +43,7 @@ https://cuckoo.team/collabcafe
 
 ### Sign up below
 
-*Name + <A fun Icebreaker> + an emoji to represent it ([emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md))*
+*Name <A fun Icebreaker> + an emoji to represent it ([emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md))*
 
 *(Remember that this is a public document. You can use a pseudonym if you'd prefer.)*
 

@@ -4,15 +4,15 @@
 
 ### For code auto-formatting
 
-- [ ] Write your development code in your favourite IDE/text-editor.
-- [ ] Enable auto formatting in your editor by tweaking the preferences/settings.
-- [ ] Type `Ctrl + s` (windows, linux) or `⌘ + s` (mac) to save the work to format the code.
+- Write your development code in your favourite IDE/text-editor.
+- Enable auto formatting in your editor by tweaking the preferences/settings.
+- Type `Ctrl + s` (windows, linux) or `⌘ + s` (mac) to save the work to format the code.
 
 ### For static code analysis
 
-- [ ] Build the project to enable `linters` to spot the errors/warnings in the code (if any).
-- [ ] Make relevant changes and repeat the above step.
-- [ ] {ref}`Commit and push<rr-vcs-git-commit>` the changes to remote **Github/GitLab/BitBucket** repository to run the pre-deployment tests.
+- Build the project to enable `linters` to spot the errors/warnings in the code (if any).
+- Make relevant changes and repeat the above step.
+- {ref}`Commit and push<rr-vcs-git-commit>` the changes to remote **Github/GitLab/BitBucket** repository to run the pre-deployment tests.
 
 ## Further reading
 

@@ -9,7 +9,7 @@
 | {ref}`rr-vcs` | Helpful | Experience with GitHub is particularly useful |
 
 
-```{figure} ../figures/evolution-open-research.jpg
+```{figure} ../figures/evolution-open-research.*
 ---
 name: evolution-open-research-rr
 alt: This image shows a researcher evolving their research practices to move towards the era of open research. The image starts with the person looking anxious about engaging with open science, slowly they take a few steps, feel comfortable about sharing their work, and finally start to collaborate with others.
@@ -60,7 +60,7 @@ There are five main schools of thought motivating open practices to benefit rese
 Open practices also benefit the researchers that propagate them.
 For example, there is evidence {cite:ps}`McKiernan et al. 2016<McKiernan2016Open>` that open access articles are cited more often, as shown by the metastudy presented in the figure below.
 
-```{figure} ../figures/open-access-citations.jpg
+```{figure} ../figures/open-access-citations.*
 ---
 height: 500px
 name: open-access-citations

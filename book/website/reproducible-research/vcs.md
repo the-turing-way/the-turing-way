@@ -36,7 +36,7 @@ Most instructions given in this chapter will also be geared towards Git, which i
 Later in this chapter, we also discuss version control for data, which is applied to keep track of revisions of large amounts of data, especially when working collaboratively.
 It is useful to know that data can be volatile and versioning them can improve the reproducibility of your scientific analyses.
 
-```{figure}  ../figures/project-history.jpg
+```{figure}  ../figures/project-history.*
 ---
 name: project-history
 alt: Contrast in project history management. On the left - choosing between ambiguosly named files. On the right - picking between successive versions (from V1 to V6).
