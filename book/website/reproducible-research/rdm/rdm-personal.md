@@ -19,5 +19,7 @@ Informed, voluntary and fair consent to participate in a study is very important
 ## Safeguard privacy
 There are a number of strategies that you can adopt to **safeguard the privacy** of your research subjects, which are described in detail in the {ref}`Data Privacy Strategies section<pd-sdpm-privacy>`. If you do plan to share or publish the data you should ensure that this can be done so safely: read the {ref}`Sharing Sensitive Data section<pd-sdpm-sharing>`
 
+
 ## More resources 
 Check out the resources listed in the {ref}`Resources<pd-sdpm-resources>` of the {ref}`Managing Sensitive Data Projects chapter<pd-sdpm>` 
+
