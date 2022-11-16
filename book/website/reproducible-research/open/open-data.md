@@ -38,7 +38,7 @@ These are cultural challenges that might be addressed in changing practice going
 However, there are also legal, ethical or contractual reasons that sometimes prevent making data publicly available in its entirety or even in parts.
 Below, we discuss some reasons explaining why this may be the case.
 
-```{figure} ../../figures/data-privacy.jpg
+```{figure} ../../figures/data-privacy.*
 ---
 height: 500px
 name: data-privacy

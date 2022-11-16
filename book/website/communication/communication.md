@@ -7,7 +7,7 @@ Data analysis process, statistics and project development can be overwhelming to
 Therefore, data scientists should not only have a good understanding of data analysis techniques but also develop skills to communicate insights from their work in a clear, open, and accessible format that can help key stakeholders make meaningful decisions.
 There are many ways we can convey our insights responsibly that can resonate with and impact our target audience.
 
-```{figure} ../figures/communication.jpg
+```{figure} ../figures/communication.*
 ---
 name: communication
 width: 500px

@@ -26,7 +26,7 @@ You can use ORCID to access or sign up to services that utilise ORCID, for examp
 You can use your ORCID to your CV/resume so that anyone can have a look at all your research outputs.
 You can also use your ORCID profile to create a CV using [ROpenSci package rorcid](rorcid: https://github.com/ropensci/rorcid) as described [here](https://discuss.ropensci.org/t/using-rorcid-to-generate-a-website-cv/1806).
 
-```{figure} ../figures/orcid-ids.jpg
+```{figure} ../../figures/orcid-ids.*
 ---
 name: orcid-ids
 alt: A researcher surrounded by a ring formed of all her different outputs, linked by an ORCID. Text reads "ORCID IDs" and "One Ring to Rule All Outputs."
