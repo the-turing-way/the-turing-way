@@ -90,7 +90,7 @@ Someone that has access to this file and VirtualBox installed just needs to clic
 Once it is imported, they can start the VM as described before, by selecting it from the menu clicking the green start arrow at the top.
 
 (rr-renv-vm-vagrant)=
-## Declarative Environments with Vagrant
+## Declarative Virtual Machines with Vagrant
 
 [Vagrant](https://www.vagrantup.com/) is a tool which *"enables users to create and configure lightweight, reproducible, and portable development environments"*.
 In this context, an environment is a virtual machine (its CPUs, RAM, networking and so on) and the machines state (operating system, packages).
