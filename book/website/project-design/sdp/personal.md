@@ -11,7 +11,7 @@ For example, a person’s name, address or other unique identifier such as their
 
 ##### Direct identifiers
 
-["A person is directly identifiable if it’s possible to identify them using nothing but information (identifiers) at hand, controlled and processed, without introducing additional data from external sources (e.g. first and last name)."](https://infranet.hr/infranet-blog/direct-identification-of-an-individual-using-personal-data/)
+["A person is directly identifiable if it’s possible to identify them using nothing but information (identifiers) at hand, controlled and processed, without introducing additional data from external sources (for example, first and last name)."](https://infranet.hr/infranet-blog/direct-identification-of-an-individual-using-personal-data/)
 
 The information would particularly include, but not limited to:
 * date of birth
@@ -19,7 +19,7 @@ The information would particularly include, but not limited to:
 * names of the parents
 * photograph of the face
 
-The set of attributes would clearly be able to identify the individuals by means of their common traits (like their name, address, etc.) and distinguishable or unique traits (like eye colour, hair colour, height, etc.), even depending on certain contexts (like membership information).
+The set of attributes would clearly be able to identify the individuals by means of their common traits (like their name, and address) and distinguishable or unique traits (like eye colour, hair colour, or height), even depending on certain contexts (like membership information).
 
 ##### Indirect identifiers
 
