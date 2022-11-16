@@ -115,7 +115,7 @@ Instead, Vagrant uses [providers](https://developer.hashicorp.com/vagrant/docs/p
 Vagrant has built in providers for [VirtualBox](https://www.virtualbox.org/), [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) and [Docker](https://www.docker.com/).
 Other providers can be supported by plugins.
 In particular, the Vagrant developers maintain an [official plugin](https://developer.hashicorp.com/vagrant/docs/providers/vmware/installation) for [VMWare](https://www.vmware.com/).
-For Linux users there is also a [community supported provider](https://github.com/vagrant-libvirt/vagrant-libvirt) for [libvirt](https://libvirt.org/).
+For Linux users there is also a [community supported provider](https://vagrant-libvirt.github.io/vagrant-libvirt/) for [libvirt](https://libvirt.org/).
 
 ```{note}
 A hypervisor is software which allows virtual machines to interact with host machines hardware at a low level.
