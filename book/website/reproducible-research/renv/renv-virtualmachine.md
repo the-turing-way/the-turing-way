@@ -123,6 +123,10 @@ With Vagrant, users can define the configuration of a virtual machine (or group 
 This configuration is written in the [Ruby](https://www.ruby-lang.org/en/) programming language.
 However, it is not necessary to know Ruby as the syntax is simple and the [documentation](https://developer.hashicorp.com/vagrant/docs/vagrantfile) explains all of the available options.
 
+```{attention}
+For Vagrant to recognise a Vagrantfile file, it must be called `Vagrantfile`.
+```
+
 Defining the virtual machines in plain text has a number of advantages over distributing disk images.
 
 - The files can be checked into version control
