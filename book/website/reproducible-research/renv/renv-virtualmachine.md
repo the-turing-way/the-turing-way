@@ -95,6 +95,7 @@ Once it is imported, they can start the VM as described before, by selecting it 
 [Vagrant](https://www.vagrantup.com/) is a tool which *"enables users to create and configure lightweight, reproducible, and portable development environments"*.
 In this context, an environment is a virtual machine (its CPUs, RAM, networking and so on) and the machines state (operating system, packages).
 
+(rr-renv-vm-vagrant-details)=
 ### How Vagrant Works
 
 Unlike some other tools you may use to create or manage virtual machines, like [VirtualBox](https://www.virtualbox.org/) and [QEMU](https://www.qemu.org/), Vagrant does not have its own hypervisor.
@@ -117,6 +118,7 @@ After deploying a box, Vagrant can also use [provisioners](https://developer.has
 This is useful to adapt a generic box to a specific purpose, for example by installing packages.
 Provisioning can be as simple as a shell script but can also incorporate powerful configuration management tools like [Ansible](https://docs.ansible.com/ansible/latest/index.html), [Puppet](https://puppet.com/) and [Chef](https://www.chef.io/).
 
+(rr-renv-vm-vagrant-vagrantfile)=
 ### The Vagrantfile
 
 With Vagrant, users can define the configuration of a virtual machine (or group of virtual machines) in a declarative configuration language stored in a Vagrantfile.
@@ -137,6 +139,7 @@ Defining the virtual machines in plain text has a number of advantages over dist
 In combination these qualities support Vagrant's goals of lightweight, portable and reproducible environments.
 A project can maintain its development environment alongside the source code and every contributor can use the environment with minimal barriers.
 
+(rr-renv-vm-vagrant-cli)=
 ### The Vagrant CLI
 
 You will most likely use vagrant through the command line interface.
@@ -149,6 +152,7 @@ The CLI can be used to
 
 Full documentation for all commands can be found [here](https://developer.hashicorp.com/vagrant/docs/cli).
 
+(rr-renv-vm-vagrant-sync)=
 ### Syncing Data
 
 Vagrant can help sharing data between the host and the virtual machine by syncing directories.
@@ -164,12 +168,14 @@ In particular, the 'generic' images built by [Roboxes](https://roboxes.org/) do 
 These boxes are popular as they cover a wide variety of distributions and support a multiple hypervisors.
 ```
 
+(rr-renv-vm-ttw)=
 ## A Virtual Machine for The Turing Way
 
 Here we will walk through some important part of a Vagrantfile by designing an environment to build The Turing Way.
 Building the book this way might help keep your host system clean from build dependencies.
 It could also help debug problems as multiple people can better ensure they are using the same environment to work on the book.
 
+(rr-renv-vm-ttw-vagrantfile)=
 ### The Vagrantfile
 
 You can find the [full Vagrantfile](https://github.com/alan-turing-institute/the-turing-way/blob/main/Vagrantfile) in the root of The Turing Way git repository.
@@ -237,6 +243,7 @@ The script is then passed to the provisioner.
   config.vm.provision "shell", inline: $script
 ```
 
+(rr-renv-vm-ttw-build)=
 ### Building the book
 
 Here we will show how to use The Turing Way Vagrant machine to build the book.
