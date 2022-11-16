@@ -16,7 +16,7 @@
 
 | Prerequisite | Importance | Skill Level | Notes |
 | -------------|----------|------|----|
-| {ref}`Chapter <chapter-label>` | Helpful/Necessary | Beginner/Intermediate/Advanced | Any useful notes the reader should know |
+| Chapter (using `` {ref}`<chapter-label>` `` style cross reference) | Helpful/Necessary | Beginner/Intermediate/Advanced | Any useful notes the reader should know |
 
 
 (sectioninitials-filename-summary)=
