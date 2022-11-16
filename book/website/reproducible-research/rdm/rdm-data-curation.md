@@ -1,0 +1,26 @@
+(rr-rdm-data-curation)=
+# Data Curation
+Data curation is one of the key aspects of RDM. It  involves capturing of research data, appraisal, disposal, description, preservation, access, reuse and transformation. Data curation promotes the use of data from the point of creation to ensuring that its used for the purpose it is intended for.  Data curation  enables you to easily  access data sets and information that you need in an organised format, you can easily extract data from whichever repository it is stored. You can imagine if you don't follow the data curation process, it becomes difficult to access that data.
+
+### 1. Research data capture
+Data capture is a process of gathering or collecting data from different sources which will be processed and used for certain purposes. These sources may be research articles in electronic format; databases like electronic databases among others. This stage focuses on ensuring that the data captured is actually fit for the purpose and ready for curation.
+
+### 2. Data appraisal
+Data appraisal and selection are fundamental stages in the data curation process. In data appraisal, you are required to select the appropriate data by entering, digitizing, transcribing; checking, validating and cleaning the data; in addition to anonymizing  the data where necessary; describing the data; and managing  and storing the data.  As you appraise the data you need to adhere to the documented guidance, policies and legal requirements in evaluating research data in a particular organization and selecting the data that requires long term preservation. Your  Appraisal and selection policy should ensure consistency, transparency and accountable decision making.
+
+### 3. Data disposal 
+Data disposal involves disposing of data that has not be selected for retention. You need to have an appraisal policy which will guide you on the data required for archiving, redeployment, transfer of custody or ownership or destroying the research Data 
+
+### 4. Data description
+Data description requires that you are able to interpret the data; derive data; produce research outputs; author publications; data anonymisation; data visualization; data validation  and prepare the data for preservation. So  its important  you describe the research data so that it is discoverable and usable over time. There are also  metadata standard that already exist to help you with standardised descriptions. 
+
+### 5. Data preservation
+Please find more information using this link:
+https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html
+
+### 6. Data access 
+Data access entails distributing data, sharing data, publishing data, linking data to outputs, controlling access, establishing copyright and promoting or disseminating the data to wider audiences to access it or re-use it.  You can make the  data freely available online  to anyone  who may be interested in reading it or you may restrict access of the data or provide an option of the data accessible.
+Read more information here:
+
+### 7. Data transformation
+Data transformation is a practice of examining large datasets to generate new information. You can re-analysis the research data and make relationships that may not have been previously discovered. 
