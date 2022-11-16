@@ -3904,6 +3904,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "KatrionaGoldmann",
+      "name": "Katriona Goldmann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25952322?v=4",
+      "profile": "https://katrionagoldmann.github.io",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
