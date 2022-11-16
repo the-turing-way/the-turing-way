@@ -67,7 +67,7 @@ These are all workplaces: they have workplace policies, and unions can help crea
 
 This was a trade union for scientists founded in the early 20th Century, which had a leading role in founding similar unions across the globe.
 
-```{figure} ../../figures/scientific-union-badge.jpg
+```{figure} ../../figures/scientific-union-badge.*
 ---
 height: 500px
 name: scientific-union-badge

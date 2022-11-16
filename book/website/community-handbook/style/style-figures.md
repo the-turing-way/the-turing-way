@@ -31,7 +31,7 @@ In general, make sure to always cite the image properly as directed by the image
 (ch-style-figures-image)=
 ## Image type, file name, size and location
 
-Please upload `.jpg` or `.png` files that are under 1MB to allow them to load faster in the online book.
+Please upload `.jpg`, `.png`, or `.svg` files that are under 1MB to allow them to load faster in the online book.
 If your file is larger than 1MB, please use a local image editing tools, or online tool like [IMG2GO](https://www.img2go.com/compress-image) to compress your file.
 
 To name your image file, please use all-lowercase and separate words with hyphens.
@@ -95,7 +95,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 Another advantage of using alt text is when an image cannot be loaded in a browser, or the link to the image breaks, it is displayed in place of an figure like shown below:
 
-```{figure} ../../figures/alt-text-demo.png
+```{figure} ../../figures/alt-text-demo.*
 ---
 name: alt-text-demo
 alt: This example shows when a wrong image path is used, the web browser can't access it and hence does not display correctly.
@@ -166,6 +166,7 @@ We've noticed a couple of "gotchas" from contributors to _The Turing Way_ and we
 * Figure path are case-sensitive, make sure the name of the file is all lowercase
 * `name:` is for including in reference links, it cannot have spaces
 * The path to the figure will depend on the position of the .md file in the repo (one or two folders away from `website` will give `../` or `../../` respectively.
+* You can choose to include the file extension with your path, or you can use the format `path/filename.*` to allow Jupyter Book to decide which file to use in the case that multiple filetypes with the same name exist. Jupyter Book will [choose the one most appropriate to the intended output](https://jupyterbook.org/en/stable/content/figures.html#supported-image-formats). This is useful as it means that filetypes can be changed without breaking the pages that use those files.
 * You cannot have line breaks in the alt text, but you can have it in the caption.
 * Both `:` and `"` have syntactic meaning for Sphinx.
   That means it is important that you do not use these characters in your alt text.

@@ -16,7 +16,7 @@ In other words, academia highly prizes knowledge creation.
 Investment in dissemination, interconnectivity and usability beyond the original academic field is typically not rewarded with the greatest academic prizes. 
 In the highly competitive world of early career research, such work is therefore often not prioritised. 
 
-```{figure} ../../figures/research-application-managers.jpg
+```{figure} ../../figures/research-application-managers.*
 ---
 name: research-application-managers
 alt: An illustration depicting the animal rams as the research application managers who are connecting with users, applying research in real world and facilitating innovative process in research infrastructure.

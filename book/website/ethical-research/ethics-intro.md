@@ -13,7 +13,7 @@ Below is a table summarising these questions.
 | **Who researchers interact with** | With research subjects (for example: do we treat them with respect?) | With fellow researchers (for example: do we adhere to a code of conduct?) |
 | **What shapes research** | Shaped by society (for example: how is AI as a solution generally understood?) | Shaped by institutional norms (for example: what research questions are being funded?) |
 
-```{figure} ../figures/ethical-research.jpg
+```{figure} ../figures/ethical-research.*
 ---
 name: ethical-research
 alt: One person looks for research integrity and another person holds up a map and looks for the research consequences.
@@ -118,7 +118,7 @@ Looking at different aspects of research ethics. _The Turing Way_ project illust
 
  Consider, for example, how researchers must weigh the noble pursuit of *truth*, with the need to earn *credit* (on this weighing of options, see, for example, Zollman, 2018).
  We can also reflect on the impact of funding on scientific endeavours.
- Questions can be raised regarding the size of research grants (Bloch & Sorensen, 2014) and even the values that motivate the funding of some research projects and not others.
+ Questions can be raised regarding the size of research grants (Bloch & Sorensen, 2015) and even the values that motivate the funding of some research projects and not others.
  Institutional norms might even encourage a “publication bias” whereby positively framed findings will be easier to get published (see Kaiser et al.’s, (2009) finding that studies showing differences in sex/gender are easier to publish than studies *not* supporting such differences).
 
  Below is a table illustrating the three differences outlined above.
