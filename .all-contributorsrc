@@ -3895,6 +3895,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "radifar",
+      "name": "Muhammad Radifar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11450417?v=4",
+      "profile": "http://radifar.github.io",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
