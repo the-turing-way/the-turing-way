@@ -13,9 +13,6 @@ Or is it more complex than it should be?
 
 [Code does not have to be perfect](https://google.github.io/eng-practices/review/reviewer/standard.html) - it has to work, be accompanied with sufficient documentation and be maintainable if this is needed.
 
-[Code review can take place asynchronous or synchronous](https://uwescience.github.io/neuroinformatics/2017/10/08/code-review.html). 
-Sometimes face-to-face communication (synchronous) is easier to address any questions that arise during the review {cite:ps}`Petre2014codereview`. 
-
 The [online sustainability evaluation](https://www.software.ac.uk/resources/online-sustainability-evaluation) provided by the Software Sustainability Institute can help address issues that affect the sustainability of the software.
 
 ## Code review in [ReproHack style](https://annakrystalli.me/n8cir-reprohacks/slides/#24)
@@ -53,7 +50,9 @@ If you are not able to reproduce the article:
 - Does the code handle errors properly? 
 Where could this be improved? 
 If there are any tests, check if they are correct, sensible, and useful.
-- Did code run but results (such as model outputs, tables, figures) differ to those published? By how much?
+- Did code run but results (such as model outputs, tables, figures) differ to those published? 
+By how much?
+Was this to be expected (for example, because of use of random numbers in the method)?
 
 **5. User perspective**
 - What did you find easy / intuitive? 
@@ -82,6 +81,8 @@ Please see the {ref}`Code Reviewing Process chapter <rr-reviewing>` for more det
 * [Journal of Open Research Software review form](https://openresearchsoftware.metajnl.com/about/editorialpolicies/)
 * [AGILE reproducible guidelines 2020](https://doi.org/10.17605/OSF.IO/CB7Z8)
 * [Journal of Open Source Education review criteria](https://openjournals.readthedocs.io/en/jose/review_criteria.html/)
+* [pyOpenSci Software Peer Review](https://www.pyopensci.org/peer-review-guide/) contains the guidelines used by pyOpenSci, an initiative promoting open peer review process in the scientific Python ecosystem. Different to JOSS, pyOpenSci aims to followup with the maintainer to ensure that the package is maintained over time.
+
 ## Teaching Code Review
 *	[Teaching Code Review to University Students](https://www.eduflow.com/blog/teaching-code-review-to-university-students)
 * Tips and Tricks for Reproducing and Reviewing by Anna Krystalli ([slides 24-37 on reviewing](https://annakrystalli.me/n8cir-reprohacks/slides/#24))
