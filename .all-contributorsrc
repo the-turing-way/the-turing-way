@@ -3913,6 +3913,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "egpbos",
+      "name": "Patrick Bos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6146598?v=4",
+      "profile": "http://egpbos.nl",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
