@@ -12,19 +12,24 @@ Instead, norms of behaviour may be easier to change.
 
 Here, cultural change is defined as “inspiring a change in behaviour in persons/organisations, with a lasting impact, strengthening the core values of persons/organisation"
 
+This section will continue to describe where you will encounter cultural change. 
+This is followed by short summaries of works on cultural change, written by Adrienne Marie Brown, William and Susan Bridges and John P. Kotter. 
+
 (er-activism-cultural-change-when)=
 ## Where/when will you encounter cultural change?
 As your social environment is continuously changing, you're likely to experience some degree of cultural change on a daily basis. 
 This might not feel like it, because the actual change that takes place will take months or even years. 
+
 Generally, you will either be affected by cultural change, or, you want to invoke cultural change by adjusting existing practices yourself. 
+
 When you're affected by cultural change taking place in your environment, it may be difficult to change your practises and behaviour. 
 Cassandra Worthy wrote 'Change Enthusiasm' ({cite:ps}`Worthy2021change`) to provide you with exercises and tools to see changes as an opportunity for learning and growth.
 As an Early Career Researcher you may also have to deal with systemic cultural change in your discipline. 
 The work by {cite:ps}`Kent2022change` contains recommendations that may support you in this change journey.
-You might be involved at your institute in a committee that is trying to update a policy, or add a new one (see the [Guide to Accelerate Public Access to Research Data](https://www.aplu.org/news-and-media/News/aplu-and-aau-issue-guide-to-accelerate-public-access-to-research-data) for some pointers that are applicable beyond a research data policy). 
-You may be advocating to make your work environment more inclusive, at the office or within your research association.
 
-Below follow short summaries of work on cultural change, written by Adrienne Marie Brown, William and Susan Bridges and John P. Kotter. 
+You can also change the culture and get involved in committees that update policies, or add new ones (see the [Guide to Accelerate Public Access to Research Data](https://www.aplu.org/news-and-media/News/aplu-and-aau-issue-guide-to-accelerate-public-access-to-research-data) for some pointers that are applicable beyond a research data policy). 
+You may be advocating to make your work environment more inclusive, at the office or within your research association.
+To provide you with some guidance to invoke cultural change, you can read the works summarised below:
 
 
 (er-activism-cultural-change-emergent-strategy)=
@@ -68,19 +73,18 @@ There are four P's in transitions ({cite:ps}`Bridges2017transitions`):
 To manage transitions it needs to be clear what the problem (reason for change) is. 
 People will not change if they are not experiencing the problem and are convinced something needs to be adjusted. 
 Those experiencing the problem will also have expertise and knowledge to come up with an effective solution. 
-Individuals will stand to loose something when change is happening and a sense of control over this transition may help making transition phases less uncomfortable. 
+Individuals will stand to loose something when change is happening - a sense of control over this transition helps to make the transition more comfortable. 
 It is important to learn what problems people are facing in a transition face, and recognise individuals that do contribute to the change. 
 People will need to feel safe to experiment and take risks, and not be punished when these experiments fail.
 
 It is important that changes are meaningfully clustered or hold off to avoid a messy change pile. 
-In the first situation the changes are incorporated in the bigger change picture, and it makes sense to act on these further changes right now. 
-In the second situation the changes are not neatly connected to the change that is already happening. 
+* If changes are meaningfully clustered the changes are incorporated in the bigger change picture, and it makes sense to act on these further changes right now. 
+* In a messy change pile the changes are not neatly connected to the change that is already happening. 
 This can feel overwhelming as too many different changes are happening at the same time, which may pull people in different directions. 
-
-Short term goals can give people a sense of achievement and encourage them to move forward.  
 
 To ensure that people will change their behaviour, they will need to learn how to adapt to new behaviours through training. 
 People will not be able to invest in this, if the new behaviours are not adequately rewarded (for example, focused placed on publications written instead of open data/software).
+Short term goals can give people a sense of achievement and encourage them to move forward.  
 
 (er-activism-cultural-change-leading)=
 ## Leading change
@@ -99,8 +103,12 @@ The first four steps in the transformation process help to convince people or an
 Phases five to seven introduce new practices. 
 The last stage focusses on making these new practices stick. 
 
-No one individual is solely going to be able to affect cultural change in an organisation. 
+**Change is a team effort**
+
+A single individual will not affect cultural change in an organisation, as this requires collective action.
 A team with members in position of power, members with expertise or leadership skills and credibility, will be needed. 
+
+**Vision for change**
 
 The **vision** refers to the future and why people should strive to create that future. 
 A vision clarifies the general direction for change and motivates people to take coordinated action. 
@@ -114,6 +122,12 @@ The effective communication of the vision depends on the simplicity of the messa
 
 (er-activism-cultural-change-summary)=
 ## Summary
+
+Cultural change is a long-term effort that you can achieve by taking one step at a time, ideally with some like-minded individuals.
+As it is difficult to achieve change without knowing where you're heading, it is good to outline a vision of what the change should look like. 
+To achieve change there will need to be transition. 
+Transitions can be difficult to navigate for individuals, so patience and support are needed to safely fail in adjusting existing practices. 
+The works described in this section provide some guidance and places to start your cultural change adventure!
 
 (er-activism-cultural-change-resources)=
 ## Resources
