@@ -15,7 +15,7 @@ DOIs allow us to archive the repository and are useful for tracking the work in 
 You can also share the human-readable URL to a page in the book, for example, {ref}`definitions chapter in the Guide for Reproducible Research<rr-overview-definitions>`, but be aware that the project is under development and these links may change over time.
 You might want to include a [web archive link](http://web.archive.org), such as [an archived page for definitions chapter](https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html), to make sure that you do not end up with broken links everywhere!
 
-We really appreciate any references that you make to The Turing Way project in your and we hope it is useful. 
+We really appreciate any references that you make to _The Turing Way_ project in your work, and we hope it is useful. 
 If you have any questions please get in touch.
 
 ## Citing The Turing Way Illustrations
