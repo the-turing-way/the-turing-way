@@ -177,6 +177,7 @@ We will then use some of the Vagrant CLI commands to provision the machine and u
 
 The top level block of the Vagrantfile specifies the Vagrant configuration version.
 This will help maintain backwards compatibility if new versions are released.
+All other configuration is contained within this block.
 
 ```{code-block} ruby
 Vagrant.configure("2") do |config|
