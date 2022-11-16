@@ -116,7 +116,7 @@ All contributions must abide by our [code of conduct](https://github.com/alan-tu
 
 _The Turing Way_ is developed, maintained and driven by our wonderful {ref}`community of contributors<contributors-record-highlights>`.
 
-_The Turing Way_ project receives support and funding from [The Alan Turing Institute](https://www.turing.ac.uk/) and is hosted under the [Tools, Practices and Systems programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) led by the project lead **Kirstie Whitaker**.
+Hosted under the [Tools, Practices and Systems Research Programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems), _The Turing Way_ project receives support and funding from [The Alan Turing Institute](https://www.turing.ac.uk/) and is hosted under the [Tools, Practices and Systems programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) and co-led by **Drs. Kirstie Whitaker** and **Malvika Sharan**.
 The project is coordinated by the community manager **Malvika Sharan**, who is a research associate at the Alan Turing Institute.
 
 Together, we are dedicated to making collaborative, reusable and transparent research “too easy not to do”.
