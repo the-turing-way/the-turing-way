@@ -52,7 +52,7 @@ If you are not able to reproduce the article:
 - Were there bugs in the code? 
 - Does the code handle errors properly? 
 Where could this be improved? 
-If there are any test, check if they are correct, sensible, and useful.
+If there are any tests, check if they are correct, sensible, and useful.
 - Did code run but results (such as model outputs, tables, figures) differ to those published? By how much?
 
 **5. User perspective**
