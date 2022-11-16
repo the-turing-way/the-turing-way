@@ -81,7 +81,7 @@ Please see the {ref}`Code Reviewing Process chapter <rr-reviewing>` for more det
 * [Journal of Open Source Software review criteria](https://joss.readthedocs.io/en/latest/review_criteria.html) and [checklist](https://joss.readthedocs.io/en/latest/review_checklist.html)
 * [Journal of Open Research Software review form](https://openresearchsoftware.metajnl.com/about/editorialpolicies/)
 * [AGILE reproducible guidelines 2020](https://doi.org/10.17605/OSF.IO/CB7Z8)
-
+* [Journal of Open Source Education review criteria](https://openjournals.readthedocs.io/en/jose/review_criteria.html/)
 ## Teaching Code Review
 *	[Teaching Code Review to University Students](https://www.eduflow.com/blog/teaching-code-review-to-university-students)
 * Tips and Tricks for Reproducing and Reviewing by Anna Krystalli ([slides 24-37 on reviewing](https://annakrystalli.me/n8cir-reprohacks/slides/#24))
