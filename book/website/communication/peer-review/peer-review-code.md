@@ -37,7 +37,7 @@ Does the documentation contain information on:
 - how to use materials to reproduce the paper?
 - how to cite the materials, ideally in a form that can be copy and pasted?
 Provide suggestions on how to improve the documentation of the code if needed.
-- Are the comments helpful and necessary?
+- Are the inline comments in the code helpful and necessary?
 Comments should explain why some code exists, not what the code is doing. [If the code isn’t clear enough to explain itself, then the code should be made simpler](https://google.github.io/eng-practices/review/reviewer/looking-for.html#comments). 
 - Is the code following applicable style guides? (for example, [Google Style Guide](http://google.github.io/styleguide/)
 
