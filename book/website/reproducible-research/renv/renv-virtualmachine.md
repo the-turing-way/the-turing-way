@@ -206,7 +206,7 @@ The virtual machine's hostname is defined, and The Turing Way project directory 
 The number of virtual CPUs and amount of memory are set in provider specific blocks.
 In this example two virtual CPUs and 2048MB of RAM are allocated for the VirtualBox and libvirt providers.
 
-Provider specific override can also be specified in provider blocks.
+Provider specific overrides can also be specified in provider blocks.
 In this example the synced directory settings are changed for libvirt to improve NFS compatibility.
 NFS is the default method to sync folders for libvirt.
 
