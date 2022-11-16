@@ -191,7 +191,7 @@ Next the box to build our environment from is specified.
   config.vm.box = "generic/fedora36"
 ```
 
-This is a box for version 36 of the Fedora Linux distribution.
+This is a box for version 36 of the [Fedora Workstation Linux distribution](https://getfedora.org/en/workstation/).
 The generic org creates boxes of many Linux distributions for multiple hypervisors.
 This makes them useful for creating environments which can be run by users on different operating systems.
 
