@@ -125,12 +125,12 @@ However, it is not necessary to know Ruby as the syntax is simple and the [docum
 
 Defining the virtual machines in plain text has a number of advantages over distributing disk images.
 
-- Can be checked into version control
+- The files can be checked into version control
 - Small size makes them easy and fast to share
-- Users can reproducibly build the environment themselves
-- Can potentially work across multiple hypervisors (like VirtualBox, VMWare, libvirt)
+- Users can reproducibly build environments
+- A single definition can potentially work across multiple hypervisors (like VirtualBox, VMWare, libvirt)
 
-In combination, these attractive qualities address the goals of Vagrant.
+In combination these qualities support Vagrant's goals of lightwight, portable and reproducible environments.
 A project can maintain its development environment alongside the source code and every contributor can build and use the environment with minimal barriers.
 
 ### The Vagrant CLI
@@ -138,7 +138,7 @@ A project can maintain its development environment alongside the source code and
 You will most likely use vagrant through the command line interface.
 The CLI can be used to
 
-- manage machines with commands like `vagrant up`, `vagrant halt` and `vagrant destroy`.
+- manage machines with commands like `vagrant up`, `vagrant halt` and `vagrant destroy`
 - connect to machines with `vagrant ssh` and `vagrant powershell`
 - get, package and publish boxes
 - create minimal Vagrantfile with `vagrant init`
