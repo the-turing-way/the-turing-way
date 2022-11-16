@@ -3895,6 +3895,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "sradicwebster",
+      "name": "Stefan Radic Webster",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56719930?v=4",
+      "profile": "https://sradicwebster.me/",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
