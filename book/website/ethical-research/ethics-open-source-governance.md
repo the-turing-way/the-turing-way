@@ -113,3 +113,8 @@ Such considerations should therefore be noted and addressed through the applicat
 While the use of a governance structure doesn’t negate the possibility of bad things from happening, it does however provide a framework which allows us to put such actions into context.
 In this chapter, we have provided some ethical pointers for open source project communities to consider when constructing their governance models, to support the continual evolution of open source towards a more just and equitable ecosystem for all contributors and users. 
 
+(er-ethics-open-source-governance-resources)=
+## Additional Resources
+* [Invest in Open Infrastructure - Resources on Good Community Governance Research + Literature Collection](https://investinopen.org/research/good-community-governance/)
+* [Community Rules - Simple Templates for Great Communities](https://communityrule.info/book/)
+* [RedHat Blog - Understanding Open Source Governance Models](https://www.redhat.com/en/blog/understanding-open-source-governance-models)
