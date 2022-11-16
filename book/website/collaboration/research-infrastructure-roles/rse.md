@@ -1,5 +1,6 @@
 (cl-infrastructure-rse)=
 # Research Software Engineer: Overview
+
 Research Software Engineers (RSEs) are a broad group of people who combine software engineering expertise with an intimate understanding of research to contribute to the academic community.
 RSEs are involved in developing, maintaining, and deploying research software so that it is widely useable, well-documented, and produces reproducible outputs.
 While RSEs are increasingly critical to academic research, they often come from a variety of backgrounds and make diverse contributions which may not fit neatly into current formal academic roles, creating barriers to recognition and advancement.
@@ -15,8 +16,12 @@ https://society-rse.org/about/
 
 (cl-infrastructure-rse-role)=
 ## What do Research Software Engineers do? 
-RSEs work on research projects. 
-They may be assigned to projects based on skills or background from a pool of other RSEs, or be specifically hired to work on a project. 
+As already mentioned, RSEs can come from a wide range of backgrounds. It is important to mention, however, that the overarching characteristic element of all RSEs is that the output of their research is not papers, but software and toolboxes (which might be accompanied by an overview paper or published manual).   Thus, an important step to allow the acknowledgement of research software work  has been setting up policies that allow the assignment of DOIs for dataset and software for example by the FFORCE11 Software Citation Working Group  {cite:ps}`smith2016software,Cohen2021FourPillars`.
+The challenges that are created by shifting the focus of output of research away from the traditional research output will be discussed later. 
+
+https://ieeexplore.ieee.org/abstract/document/8994167
+
+
 
 Additionally, RSEs can also be PIs and run their own independent research projects, depending on the institution and policies of the projects they are working on. 
 
