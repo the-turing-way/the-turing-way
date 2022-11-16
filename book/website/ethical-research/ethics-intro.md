@@ -13,7 +13,7 @@ Below is a table summarising these questions.
 | **Who researchers interact with** | With research subjects (for example: do we treat them with respect?) | With fellow researchers (for example: do we adhere to a code of conduct?) |
 | **What shapes research** | Shaped by society (for example: how is AI as a solution generally understood?) | Shaped by institutional norms (for example: what research questions are being funded?) |
 
-```{figure} ../figures/ethical-research.jpg
+```{figure} ../figures/ethical-research.*
 ---
 name: ethical-research
 alt: One person looks for research integrity and another person holds up a map and looks for the research consequences.

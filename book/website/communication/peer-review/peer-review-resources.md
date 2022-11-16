@@ -14,6 +14,7 @@ If you have not read the {ref}`chapter on Open Research<rr-open>`, you might wan
 * Foster, Antoinette, Hindle, Samantha, Murphy, Katrina M., & Saderi, Daniela. (2021). Open Reviewers Bias Reflection Guide. Zenodo. https://doi.org/10.5281/zenodo.5484052
 * [How to read a manuscript as a peerreviewer](https://plos.org/resource/how-to-read-a-manuscript-as-a-peer-reviewer)
 * [EASE Peer Review Toolkit](https://ease.org.uk/communities/peer-review-committee/peer-review-toolkit/)
+* [Introduction: “Thinking With” When Peer Reviewing](https://polarjournal.org/2022/06/13/introduction-thinking-with-when-peer-reviewing/)
 
 # Courses
 * [FOSTER open peer review course](https://www.fosteropenscience.eu/learning/open-peer-review/#/id/5a17e150c2af651d1e3b1bce)

@@ -7,7 +7,7 @@
 | -------------|----------|------|----|
 | {ref}`Open Research<rr-open>` | Helpful | Beginner | None |
 
-```{figure} ../figures/acknowledge-authors.jpg
+```{figure} ../figures/acknowledge-authors.*
 ---
 name: acknowledging contributors
 alt: The image shows the current system of authorship with many people holding up one person who is receiving the most credit. Then it shows lots of contributors working together to bring together different contributions of a project to publish a project with all these contributions being equally acknowledged.

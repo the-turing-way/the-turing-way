@@ -17,7 +17,7 @@ No contribution is too small, and these emojis allow us to recognise and fairly 
 Those contributions can include (but are not limited to) bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
 Please see the subchapter {ref}`Acknowledgement Examples <ch-acknowledgement-examples>` for details.
 
-```{figure} ../../figures/allcontributorsbot-emoji.png
+```{figure} ../../figures/allcontributorsbot-emoji.*
 ---
 height: 400px
 name: AllContributorsEmojiKey
