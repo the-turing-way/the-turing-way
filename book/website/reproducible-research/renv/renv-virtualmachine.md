@@ -135,7 +135,7 @@ Defining the virtual machines in plain text has a number of advantages over dist
 - A single definition can potentially work across multiple hypervisors (like VirtualBox, VMWare, libvirt)
 
 In combination these qualities support Vagrant's goals of lightweight, portable and reproducible environments.
-A project can maintain its development environment alongside the source code and every contributor can build and use the environment with minimal barriers.
+A project can maintain its development environment alongside the source code and every contributor can use the environment with minimal barriers.
 
 ### The Vagrant CLI
 
