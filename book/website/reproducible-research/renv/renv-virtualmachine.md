@@ -145,9 +145,9 @@ The CLI can be used to
 - manage machines with commands like `vagrant up`, `vagrant halt` and `vagrant destroy`
 - connect to machines with `vagrant ssh` and `vagrant powershell`
 - get, package and publish boxes
-- create minimal Vagrantfile with `vagrant init`
+- create minimal a Vagrantfile with `vagrant init`
 
-Full documentation for all commands can be found [here](https://developer.hashicorp.com/vagrant/docs/cli)
+Full documentation for all commands can be found [here](https://developer.hashicorp.com/vagrant/docs/cli).
 
 ### Syncing Data
 
