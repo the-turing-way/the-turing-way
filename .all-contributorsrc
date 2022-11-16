@@ -3584,7 +3584,8 @@
       "profile": "https://github.com/CariHV",
       "contributions": [
         "ideas",
-        "content"
+        "content",
+        "bug"
       ]
     },
     {
@@ -3811,6 +3812,70 @@
       "profile": "http://haoye.us",
       "contributions": [
         "review"
+      ]
+    },
+    {
+      "login": "AngelikaKerlin",
+      "name": "AngelikaKerlin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115996571?v=4",
+      "profile": "https://github.com/AngelikaKerlin",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "s-shivanand",
+      "name": "Sharana Shivanand",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107891112?v=4",
+      "profile": "https://github.com/s-shivanand",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "ClaudiaCAU",
+      "name": "ClaudiaCAU",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32701238?v=4",
+      "profile": "https://github.com/ClaudiaCAU",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Girl-in-Geo",
+      "name": "Laura Mugeha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47306402?v=4",
+      "profile": "https://github.com/Girl-in-Geo",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "TheAbstract",
+      "name": "Siphiwe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56311555?v=4",
+      "profile": "https://theabstract.github.io/",
+      "contributions": [
+        "bug",
+        "review"
+      ]
+    },
+    {
+      "login": "booktrackerGirl",
+      "name": "Aditi Dutta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45264620?v=4",
+      "profile": "https://www.linkedin.com/in/aditi-dutta-22a299135/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "gregcaporaso",
+      "name": "Greg Caporaso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192372?v=4",
+      "profile": "http://www.caporasolab.us",
+      "contributions": [
+        "bug"
       ]
     }
   ],
