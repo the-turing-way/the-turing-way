@@ -29,9 +29,9 @@ This could result in less critical reviews if revealing identity is a requiremen
 (cm-pr-open-benefits)=
 ## Benefits of Open Peer Review
 
-- Including increasing accountability of reviewers, which should in turn increase the quality, fairness, constructiveness and courteousness of reviews 
-- Transparency allows for validation of peer review and [identifying biases](https://twitter.com/giladfeldman/status/1568391773353037824)
-- Recognition for Peer Review (especially if it can become a {ref}`Research Object that can be cited<cm-citable-cite>`Research Object that can be cited
+- Including increasing accountability of reviewers, which should in turn increase the quality, fairness, constructiveness and courteousness of reviews
+- Transparency allows for validation of peer review and [identifying biases](https://web.archive.org/web/20221116192110/https://twitter.com/giladfeldman/status/1568391773353037824), which may improve diversity/inclusion of the peer review process
+- Recognition for Peer Review (especially if it can become a {ref}`Research Object that can be cited<cm-citable-cite>`
 - Reviews can become reusable (as normally the authors of review retain copyright and if they are anonymous you cannot ask their permission)
 - Reviews can be used as teaching materials to improve the peer review process
 - [Facilitates dialogue](https://polarjournal.org/2022/06/13/__trashed-2/) and [collaboration](https://allegralaboratory.net/who-cares-peer-review-at-allegra/) between authors, reviewers and editors 
@@ -48,3 +48,11 @@ The ability of double-anonymized review to address biases in peer review remains
 2. Preprint peer review
 3. Review curation
 4. Micro-publications
+
+(cm-pr-open-initiatives)=
+## Initiatives suppporting Open Peer Review
+
+* [Open Review](https://openreview.net)
+* [F1000](https://f1000research.com/)
+* [Open Research Europe](https://open-research-europe.ec.europa.eu)
+* [SciPost](https://scipost.org/)
