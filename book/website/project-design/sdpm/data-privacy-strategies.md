@@ -13,7 +13,8 @@ There are a number of strategies that you can adopt to **safeguard the privacy**
 * Decide how long you will retain identifiable data before removing direct identifiers, applying more complex anonymisation techniques, or deleting the data altogether.
 * When deleting sensitive data you need to be aware that standard methods for deleting files (for example moving files to the recycle bin and emptying it) are not secure.
 These deleted files may be recovered. 
-Use software like BleachBit to safely delete the data.
+Use software like BleachBit (Linux, Windows), BC Wipe, DeleteOnClick and Eraser (Windows) or Permanent Eraser or 'secure empty trash' (Mac) to safely delete the data.
+An alternative is the physical destruction of the storage media.
 
 **3. Secure data transfer**
 * Before deciding to transfer personal data, you should consider whether the transfer of identifiable data is necessary.
