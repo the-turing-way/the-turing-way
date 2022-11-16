@@ -1,0 +1,67 @@
+name: "\U0001F4D6 New Chapter Template"
+description: Template for proposing a new chapter
+title: "[NEW CHAPTER] - <TOPIC>"
+labels: book
+body:
+- type: markdown
+  attributes:
+    value: "Please complete the following sections to propose a new chapter. If you have the necessary permissions, please also assign the appropriate label (or labels) to your issue, otherwise a _Turing Way_ team member will assign labels later."
+- type: input
+  id: title
+  attributes:
+    label: Title
+    description: |
+      Please provide a proposed title.
+  validations:
+    required: true
+- type: input
+  id: guide
+  attributes:
+    label: Guide
+    description: |
+      Which Guide will your chapter be a part of? Please reference the [book](https://the-turing-way.netlify.app/welcome.html)'s table of contents to see which Guides make up the book.
+  validations:
+    required: true
+- type: input
+  id: branch
+  attributes:
+    label: Draft
+    description: |
+      Please provide a link to your draft. This might be in a document such as a hackmd or a new file on your GitHub branch. If you already have a PR you can update the PR with a keyword to link directly to this issue - see instructions [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue). You can provide this later if you haven't started yet!
+- type: textarea
+  id: summary
+  attributes:
+    label: Summary of proposed chapter
+    description: |
+      Please provide a detailed description of the chapter you are proposing.
+      - What is the purpose of your chapter?
+      - Why are you proposing it?
+  validations:
+    required: true
+- type: textarea
+  id: resources
+  attributes:
+    label: Resources
+    description: List and describe any external resources that may be helpful when writing the chapter. We suggest using bullets (-) and/or checkboxes (- [ ]).
+- type: textarea
+  id: who_can_help
+  attributes:
+    label: Who can help?
+    description: We suggest using bullets (-) and/or checkboxes (- [ ]).
+- type: checkboxes
+  id: updates
+  attributes:
+    label: Updates
+    description: Please comment on this issue with updates so that all the important information is available at a glance. You may use the checklist here to get started or create a new checklist in the comments.
+    options:
+      - label: Write chapter outline
+      - label: Add material to the chapter
+      - label: Combine materials into a readable chapter
+      - label: Proofread
+      - label: Create PR and link in the comments
+      - label: Request reviews
+      - label: Address reviews
+      - label: Merge to main branch
+- type: markdown
+  attributes:
+    value: "**When you are ready to create a pull request for your chapter please don't forget to add a link in the comments on this issue.**"

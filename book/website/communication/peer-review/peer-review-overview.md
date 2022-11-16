@@ -12,7 +12,7 @@ Peer review is a critical component of advancing research. Peer review can be do
 
 
 Peer review can be formal or informal and ideally occurs at different levels throughout a project. When most people think of peer review they think of this in the context of reviewing a journal article.
-Journal articles, as opposed to preprints {ref}`preprint<rr-open-access-whatis-publishing>`, have gone through the peer review process- the paper has been peer reviewed and modified by the author in response to the reviewer's suggestions, so these papers are seen to have added value. 
+Journal articles, as opposed to {ref}`preprints<rr-open-access-preprints>`, have gone through the peer review process- the paper has been peer reviewed and modified by the author in response to the reviewer's suggestions, so these papers are seen to have added value. 
 However, there are also initiatives to peer review preprints, for example, [Peer Community In](https://peercommunityin.org/) arranges reviews for manuscripts. You can read more about preprints in the {ref}`Open Access<rr-open-access>` chapter.
 
 
@@ -23,7 +23,7 @@ Feedback helps improve your project, on its way to being shared with the broader
 This stage is often where the formal peer review process happens, but in an open project this level of feedback is often provided throughout.​
 * *Step 3* - By incorporating everyone's ideas, the project unites the community and percieves feedback as a way to improve projects rather than as a competitive process.
 
-We see peer review as an important exercise in [collaboration](We need to add links to collaboration here) not limited to a quality-safeguard procedure.
+We see peer review as an important exercise in {ref}`collaboration<cl>` not limited to a quality-safeguard procedure.
 However, in current research practice, peer review often appears as a hurdle everyone needs to pass through.
 
 

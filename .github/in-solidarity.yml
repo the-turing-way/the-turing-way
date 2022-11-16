@@ -1,6 +1,6 @@
 rules:
   master:
-    level: failure
+    level: warning
   slave:
     level: failure
   whitelist:

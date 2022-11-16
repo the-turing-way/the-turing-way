@@ -1,0 +1,39 @@
+name: "\U0001F50D Editor's Issue Template"
+description: Template to propose editing a chapter
+title: "[TO EDIT] <chapter/subchapter>"
+body:
+  - type: markdown
+    attributes:
+      value: "This template will guide you through the steps necessary for you to propose a chapter/subchapter to edit, review or restructure. Please fill in the title above but do not remove the text “[TO EDIT]”. If you have the required permissions, please assign the appropriate label (or labels) to your issue; if you do not have the permissions, one of the project members can help with this after you create the issue."
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: "Please provide a detailed description of the chapter/subchapter you propose to edit, review or restructure. Please provide as much context as possible and link to related issues and/or pull requests. Providing links to sections you're referencing for clarity is highly encouraged."
+    validations:
+      required: true
+  - type: textarea
+    id: todo
+    attributes:
+      label: "What needs to be done?"
+      description: "Please comment on the overall structure of the file. Your response can cover the questions such as, “Do sections need clearer headings? Are there any technical terms that might not be understood? Is something missing that is worth discussing before adding?”"
+      placeholder: Please use bullets (* or -) and filled checkboxes ([x]) as necessary.
+    validations:
+      required: true
+  - type: textarea
+    id: helpers
+    attributes:
+      label: "Who can help?"
+      description: "If you know the original author the chapter/section, it may be useful to tag them here for their input."
+      placeholder: Please use bullets (* or -) and filled checkboxes ([x]) here.
+  - type: checkboxes
+    id: updates
+    attributes:
+      label: Updates
+      description: "Please update the initial issue with important updates (for example, actions or decisions taken) regularly so that all the important information is available at one glance. You may use the checklist here to get started, feel free to modify this list."
+      options:
+        - label: "First set of edits to chapter/subchapter"
+        - label: "Proofread"
+        - label: "Request reviews"
+        - label: "Address reviews"
+        - label: "Merge to main branch"

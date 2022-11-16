@@ -1,13 +1,8 @@
 # Requirements for the demo notebooks
 # Useful for MyBinder configuration
-pandas==1.0.5
-numpy==1.21.0
-matplotlib==3.2.2
+pandas==1.4.3
+numpy==1.23.2
+matplotlib==3.5.2
 datascience
 folium
-jupyter-book==0.11.2
-sphinxcontrib-bibtex~=2.2.0
-sphinx-click
-sphinx_inline_tabs
-sphinxext-rediraffe~=0.2.3
-Jinja2<3.1
+jupyter-book==0.13
