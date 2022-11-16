@@ -133,6 +133,18 @@ Defining the virtual machines in plain text has a number of advantages over dist
 In combination, these attractive qualities address the goals of Vagrant.
 A project can maintain its development environment alongside the source code and every contributor can build and use the environment with minimal barriers.
 
+### The Vagrant CLI
+
+You will most likely use vagrant through the command line interface.
+The CLI can be used to
+
+- manage machines with commands like `vagrant up`, `vagrant halt` and `vagrant destroy`.
+- connect to machines with `vagrant ssh` and `vagrant powershell`
+- get, package and publish boxes
+- create minimal Vagrantfile with `vagrant init`
+
+Full documentation for all commands can be found [here](https://developer.hashicorp.com/vagrant/docs/cli)
+
 ### Syncing Data
 
 Vagrant can help sharing data between the host and the virtual machine by syncing directories.
