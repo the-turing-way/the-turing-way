@@ -25,7 +25,7 @@ Parts of earlier chapters in _The Turing Way_ were written in `HTML`, making som
 
 For example, {ref}`html-to-markdown` depicts a table that was written in `HTML`.
 
-```{figure} ../../figures/html-to-markdown.png
+```{figure} ../../figures/html-to-markdown.*
 ---
 name: html-to-markdown
 alt: A screenshot of a poorly formatted table written in HTML. The table is squished together and does not have column or row borders. This makes it hard for a reader to decipher its meaning.
@@ -35,7 +35,7 @@ Content written in HTML may not render properly.
 
 When reformatted to Markdown, the table became cleaner and easier to read:
 
-```{figure} ../../figures/html-to-markdown2.png
+```{figure} ../../figures/html-to-markdown2.*
 ---
 name: html-to-markdown2
 alt: A screenshot of a table converted to Markdown from HTML. The table becomes easier to read and understand when converted to Markdown.
@@ -175,7 +175,7 @@ Soft requirements that deal with _The Turing Way's_ formatting include:
 Some chapters and subchapters in _The Turing Way_ do not match their corresponding references in the book-wide table of contents that appears on the left of the webpage.
 This may be confusing for users, especially when the chapter/subchapter's reference in the table of contents significantly varies from the chapter/subchapter's name.
 
-```{figure} ../../figures/mismatched-title-toc.png
+```{figure} ../../figures/mismatched-title-toc.*
 ---
 name: mismatched-title-toc
 alt: A subchapter whose title differs from its reference in the table of contents. The title of the subchapter is 'Using Spreadsheets for Research Data', however in the table of contents, it is referred as 'Data Organisation in Spreadsheets'.

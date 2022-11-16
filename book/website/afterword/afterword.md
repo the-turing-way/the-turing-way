@@ -5,7 +5,7 @@ Following this design principle of standard books, we have so far included {ref}
 
 The community collaboration and development aspects of the book has been written into the [Community Handbook](../community-handbook/community-handbook) section of this book.
 
-```{figure} ../figures/road-to-reproducibility.jpg
+```{figure} ../figures/road-to-reproducibility.*
 ---
 height: 400px
 name: road-to-reproducibility

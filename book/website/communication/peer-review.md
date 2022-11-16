@@ -10,7 +10,7 @@
 | {ref}`Section Research Data Management <rr-rdm>` | Helpful |  | A part of review process involves reviewing the data on which the publication is based. Knowledge of Research Data Management can help with evaluation |
 | {ref}`Guide for Collaboration <cl>` | Helpful |  | We see review as a form of collaboration |
 
-```{figure} ../figures/peer-review-process.jpg
+```{figure} ../figures/peer-review-process.*
 ---
 name: Peer review
 alt: The reviewer wolf really wants to be friends with the pigs, but the pigs perceive the wolf as a threat. The pigs work amongst themselves (with their coauthors, colleagues, and office-mates) to improve their defenses against the world. However, it is not until the pigs open their work to input from the entire community (including the wolf!) that they can build sturdy house. Ultimately, the wolf and pigs work together to build a sturdy house that protects them all from the storm.

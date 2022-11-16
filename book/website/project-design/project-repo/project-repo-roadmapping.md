@@ -4,7 +4,7 @@
 If you plan a large piece of work in your project, it is a good idea to produce an outline of the work to share with your potential contributors.
 Your roadmap should cover your goal and vision and include a timeline for tasks that need to be completed, thus helping new contributors to your project to get an understanding of what is currently happening on the project and what's coming next.
 
-```{figure} ../../figures/project-roadmap.jpg
+```{figure} ../../figures/project-roadmap.*
 ---
 name: project-roadmap
 alt: image shows a hand holding a smartphone with a map that is marked with milestones 1, 2 and 3. This phone app for map or navigator analogy is helpful to understand milestones and project roadmaps in research projects.

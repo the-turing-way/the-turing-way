@@ -4,7 +4,7 @@
 Remote collaboration refers to the ability to interact and work with others from anywhere in the world.
 Remote collaboration is extremely valuable for removing physical barrier in communication among members in a distributed teams who work remotely rather than being located in a physical office.
 
-```{figure} ../figures/distributed-collaboration.jpg
+```{figure} ../figures/distributed-collaboration.*
 ---
 height: 500px
 name: distributed-collaboration
