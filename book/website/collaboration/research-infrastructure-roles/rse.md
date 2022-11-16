@@ -28,13 +28,17 @@ https://ieeexplore.ieee.org/abstract/document/8994167
 Additionally, RSEs can also be PIs and run their own independent research projects, depending on the institution and policies of the projects they are working on. 
 
 ## Who are Research Software Engineers?
-RSEs typically have a scientific or research background, often developing programming skills during masters or doctoral studies. 
-You can find out more about the backgrounds of RSEs through the [Software Sustinability Institute's 2018 Survey](https://www.software.ac.uk/blog/2018-03-12-what-do-we-know-about-rses-results-our-international-surveys). 
+
+The term "research software engineer" is meant to be broad and inclusive, and people discover RSE roles from a variety of entry points.
+RSEs usually come from either a domain science background, a pure computer science background, or industry experience as a software developer {cite:ps}`Cosden2022RSECareers`.
+These different backgrounds each bring their own advantages and challenges, making every RSE journey unique!
+You can find out more about the diversity of RSE backgrounds and experiences through the latest [RSE International Survey (2022)](https://softwaresaved.github.io/international-survey-2022/).
 
 ## What qualifications or skills do you need to be a Research Software Engineer? 
-There are not specific formal qualifications needed to become an RSE, but the majority will have at least one advanced degree (masters or doctoral level). 
-However, all RSEs are able to program, with the majority coding in Python, SQL, R, C/C++ or JavaScript.
+RSEs are usually able to program -- from the latest RSE International Survey, the top five languages used by RSEs are Python, C++, R, JavaScript, and SQL.
 RSEs are also likely to understand concepts such as agile development, integration and testing, software architecture, and version control. 
+Most importantly, RSEs apply these skills to academic research, creating and promoting computerized approaches to make research more efficient and reproducible.
+This means that RSEs need to have (and will develop!) excellent communication skills as they bridge the gaps between academia, software engineering, and research infrastructure maintenance.
 
 ## Challenges for Research Software Engineers
 * Lack of formal pathways for development
