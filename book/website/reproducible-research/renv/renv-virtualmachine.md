@@ -280,3 +280,12 @@ We can change to the `book/website` directory and build the book like in the [RE
 ```
 
 As the directory is shared with the host system, you will be able to see the built book on your computer and view it in your browser.
+
+When you are done you can exit the virtual machine, and halt it.
+You can also destroy the virtual machine to clean up all storage associated with it.
+
+```{code-block} console
+[vagrant@theturingway ~]$ exit
+$ vagrant halt
+$ vagrant destroy
+```
