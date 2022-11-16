@@ -16,7 +16,7 @@ Or is it more complex than it should be?
 [Code review can take place asynchronous or synchronous](https://uwescience.github.io/neuroinformatics/2017/10/08/code-review.html). 
 Sometimes face-to-face communication (synchronous) is easier to address any questions that arise during the review {cite:ps}`Petre2014codereview`. 
 
-The [online sustainability evaluation](https://www.software.ac.uk/resources/online-sustainability-evaluation) provided by the Software Sustainability can help address issues that affect the sustainability of the software.
+The [online sustainability evaluation](https://www.software.ac.uk/resources/online-sustainability-evaluation) provided by the Software Sustainability Institute can help address issues that affect the sustainability of the software.
 
 ## Code review in [ReproHack style](https://annakrystalli.me/n8cir-reprohacks/slides/#24)
 
