@@ -60,7 +60,7 @@ In short:
 - **The first row is the header** 
 - Header names must not include a special character (including space) or start with a number
 
-```{figure} ../../figures/tidy-1.png
+```{figure} ../../figures/tidy-1.*
 ---
 name: tidy-1
 alt: The image depicts tidy data. One column represents a variable, one row represents a sample, and one cell represents a piece of information.

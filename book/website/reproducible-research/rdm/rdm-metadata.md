@@ -14,7 +14,7 @@ Data documentation can be done on different levels.
 All documentation accompanying data should be written in clear, plain language. 
 Documentation allows data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it. 
 
-```{figure} ../../figures/documentation.jpg
+```{figure} ../../figures/documentation.*
 ---
 name: documentation
 alt: The figure goes through a dark wood setting lights alongthe way. The lights are blocks of text - one can see that these are pieces of documentation. They make it easy for collegues to find their way. In the darkness one sees another figure - someon got lost in the woods where no documentation was available.

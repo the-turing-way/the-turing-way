@@ -6,7 +6,7 @@
 *The Turing Way* team collaborates with different international communities to co-design and co-host Fireside Chat events that are online hosted informal discussions on topics of shared interests across research communities. 
 Speakers are invited from diverse backgrounds and perspectives to present their views, contextualise the topics in their areas of work and catalyse cross-community collaborations through knowledge sharing.
 
-```{figure} ../figures/fireside-chat.jpg
+```{figure} ../figures/fireside-chat.*
 ---
 name: fireside-chat
 alt: People sitting around fire and talking to each other in an informal way.

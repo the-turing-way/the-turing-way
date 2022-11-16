@@ -2,7 +2,7 @@
 # Open Scholarship
 
 
-```{figure} ../figures/evolution-open-research.jpg
+```{figure} ../figures/evolution-open-research.*
 ---
 name: evolution-open-research-cm
 alt: This image shows a researcher evolving their research practices to move towards the era of open research. The image starts with the person looking anxious about engaging with open science, slowly they take a few steps, feel comfortable about sharing their work, and finally start to collaborate with others.

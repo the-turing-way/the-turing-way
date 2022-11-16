@@ -48,7 +48,7 @@ For many projects that are community led, this means involving the people that a
 True co-creation is an active process of inclusion, and there are many levels of engagement that can be tailored to a projects’ individual needs (see the figure - Arnstein's Ladder of Citizen Participation), which a governance model might also need to take into account, for example, how is delegated power dealt with by the project?  
 
 
-```{figure} ../figures/ladder-of-participation.jpg
+```{figure} ../figures/ladder-of-participation.*
 ---
 name: ladder-of-participation
 alt: Colourful graphic of Arnstein's Ladder of Participation (1969) drawn by Juliet Young. A rainbow ladder describes the different types of participation in research - manipulation, educating, informing, consultation, placation, partnership, delegated power and citizen control. 
@@ -113,3 +113,8 @@ Such considerations should therefore be noted and addressed through the applicat
 While the use of a governance structure doesn’t negate the possibility of bad things from happening, it does however provide a framework which allows us to put such actions into context.
 In this chapter, we have provided some ethical pointers for open source project communities to consider when constructing their governance models, to support the continual evolution of open source towards a more just and equitable ecosystem for all contributors and users. 
 
+(er-ethics-open-source-governance-resources)=
+## Additional Resources
+* [Invest in Open Infrastructure - Resources on Good Community Governance Research + Literature Collection](https://investinopen.org/research/good-community-governance/)
+* [Community Rules - Simple Templates for Great Communities](https://communityrule.info/book/)
+* [RedHat Blog - Understanding Open Source Governance Models](https://www.redhat.com/en/blog/understanding-open-source-governance-models)
