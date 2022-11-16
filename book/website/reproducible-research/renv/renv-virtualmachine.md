@@ -157,3 +157,112 @@ Additional shared directories can be declared as explained in [the documentation
 Some boxes may not have any shared directories, so it is best to explicitly define any that you want in your Vagrantfile.
 In particular, the 'generic' images built by [Roboxes](https://roboxes.org/) do not have any mounts by default.
 These boxes are popular as they cover a wide variety of distributions and support a multiple hypervisors.
+
+## A Virtual Machine for The Turing Way
+
+Here we will walk through some important part of a Vagrantfile by designing an environment to build The Turing Way.
+Building the book this way might help keep your host system clean from build dependencies.
+It could also help debug problems as multiple people can better ensure they are using the same environment to work on the book.
+
+### The Vagrantfile
+
+You can find the [full Vagrantfile](https://github.com/alan-turing-institute/the-turing-way/blob/main/Vagrantfile) in the root of The Turing Way git repository.
+We will then use some of the Vagrant CLI commands to provision the machine and use it to build the book.
+
+The top level block of the Vagrantfile specifies the Vagrant configuration version.
+This will help maintain backwards compatibility if new versions are released.
+
+```{code-block} ruby
+Vagrant.configure("2") do |config|
+  ...
+end
+```
+
+Next the box to build our environment from is specified.
+
+```{code-block} ruby
+  config.vm.box = "generic/fedora36"
+```
+
+This is a box for version 36 of the Fedora Linux distribution.
+The generic org creates boxes of many Linux distributions for multiple hypervisors.
+This makes them useful for creating environments which can be run by users on different operating systems.
+
+The virtual machine's hostname is defined, and The Turing Way project directory is mounted at `/vagrant` inside the virtual machine.
+
+```{code-block} ruby
+  config.vm.hostname = 'theturingway'
+
+  config.vm.synced_folder "./", "/vagrant"
+```
+
+The number of virtual CPUs and amount of memory are set in provider specific blocks.
+In this example two virtual CPUs and 2048MB of RAM are allocated for the VirtualBox and libvirt providers.
+
+Provider specific override can also be specified in provider blocks.
+In this example the synced directory settings are changed for libvirt to improve NFS compatibility.
+NFS is the default method to sync folders for libvirt.
+
+```{code-block} ruby
+  config.vm.provider "virtualbox" do |vb|
+    vb.cpus = 2
+    vb.memory = 2048
+  end
+
+  config.vm.provider "libvirt" do |lv, override|
+    lv.cpus = 2
+    lv.memory = 2048
+
+    override.vm.synced_folder "./", "/vagrant", nfs_udp: false
+  end
+```
+
+The shell provisioner is used to install the packages necessary to build the book.
+First a script is defined to install pip, then use pip to install the python requirements as explained in the [book README](https://github.com/alan-turing-institute/the-turing-way/blob/main/book/README.md).
+The script is then passed to the provisioner.
+
+```{code-block} ruby
+  $script = <<-'SCRIPT'
+  dnf install -y python3-pip
+  sudo -u vagrant pip install --no-warn-script-location -r /vagrant/book/website/requirements.txt
+  SCRIPT
+
+  config.vm.provision "shell", inline: $script
+```
+
+### Building the book
+
+Here we will show how to use The Turing Way Vagrant machine to build the book.
+First you will need to make sure you have [installed Vagrant](https://developer.hashicorp.com/vagrant/docs/installation) and a compatible provider.
+[VirtualBox](https://www.virtualbox.org/) will probably be the easiest provider to use as it is supported on Linux, MacOS and Windows.
+
+If you haven't already, clone The Turing Way repository and change to the projects root directory.
+
+```{code-block} console
+$ git clone https://github.com/alan-turing-institute/the-turing-way.git
+$ cd the-turing-way
+```
+
+Now create the virtual machine.
+The output will show Vagrant creating the machine as well as the provisioner script installing the build dependencies.
+
+```{code-block} console
+$ vagrant up
+```
+
+You can now connect to the machine with SSH.
+Vagrant has a convenient wrapper to make this simple.
+
+```{code-block} console
+$ vagrant ssh
+```
+
+The project directory has been mounted at `/vagrant` on the guest.
+We can change to the `book/website` directory and build the book like in the [README](https://github.com/alan-turing-institute/the-turing-way/blob/main/book/README.md).
+
+```{code-block} console
+[vagrant@theturingway ~]$ cd /vagrant/book/website/
+[vagrant@theturingway website]$ jupyter-book build .
+```
+
+As the directory is shared with the host system, you will be able to see the built book on your computer and view it in your browser.
