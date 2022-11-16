@@ -22,7 +22,12 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 (cm-peer-review-summary)=
 ## Summary
 
-This chapter introduces the process of peer review of journal articles as a part of the more general process of peer review of each other's work and scientific collaboration. Its first part talks about different types and levels of peer review, depending on the type of scientific output. The second part of the chapter is specific to peer review of a manuscript and provides practical guidance for those who need to do a formal peer review for a journal.
+This chapter introduces the process of peer review of journal articles as a part of the more general process of peer review of each other's work and scientific collaboration. 
+The chapter introduces different types and levels of peer review, depending on the type of scientific output. 
+It explains what Open Peer Review is. 
+Then, peer review of a manuscript is discussed in detail, providing practical guidance for those who need to do a formal peer review for a journal.
+This is followed by guidance for code review, whether for code underlying a research article or for software as a research object on it's own.
+Finally, additional resources are listed.
 
 
 (cm-peer-review-motivation)=
