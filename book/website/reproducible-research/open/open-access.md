@@ -56,7 +56,6 @@ Watch this talk by Vicky Hellon on "Brief History of scientific publishing, and 
 
 Gold Open Access Publishing (or sometimes referred to as libre) can be defined as paying an Article Processing Charge (APC) to a journal so they publish the final version of your article under an open access license, which is then permanently and freely available online for anyone.
 The author will retain the copyright of their article, usually via a [Creative Commons licence](https://creativecommons.org/) of their choice, which dictates what others can do with the article. 
-You can find out more about APCs in this [video](https://www.youtube.com/watch?v=QAeTKUpZq_Y).
 
 There can often be misconceptions around publishing in Open Access journals- as they are newer to the system they are often wrongly thought of as 'less rigorous' or 'lower quality' than the 'traditional' journals. 
 Some researchers have also been caught up in what is referred to as 'predatory publishing'- where they are tricked into paying an article processing charge to journals that are fraudulent and do not provide editorial processes that check articles for quality and legitimacy.
@@ -103,12 +102,11 @@ Concerning the moment to make the paper publicly available, many journals establ
 Some journals include or exclude embargoes depending on the versions.
 For instance, the accepted version could be made publicly available after publication, but the published version must wait 12 months. You can check journal policies on self-archiving using [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/index.php).
 
-```{figure} ../../figures/routes-to-OA.jpg
+```{figure} ../../figures/routes-to-OA.*
 ---
 height: 500px
 name: routes-to-OA
-alt: An image of a train showing the routes to open access publishing. The green route is signalled as free and shows a preprint server at the start of the journey and self archive at the end. 
-The **gold and diamond** routes are signalled as author pay and funder or institution pay and show the publish in an open access journal part of the journey.
+alt: An image of a train showing the routes to open access publishing. The green route is signalled as free and shows a preprint server at the start of the journey and self archive at the end. The gold and diamond routes are signalled as author pay and funder or institution pay and show the publish in an open access journal part of the journey.
 ---
 Routes to publishing openly.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. Original version on Zenodo. [http://doi.org/10.5281/zenodo.5706310](http://doi.org/10.5281/zenodo.5706310)
@@ -126,7 +124,7 @@ Publishing openly also has benefits for you as an author.
 Your work is likely to reach a larger audience meaning it may have a broader societal impact.
 Papers published openly are also more likely to have a citation advantage {cite}`Tennant2016openaccess`.  
 
-```{figure} ../../figures/share-work-openly.jpg
+```{figure} ../../figures/share-work-openly.*
 ---
 height: 500px
 name: share-work-openly

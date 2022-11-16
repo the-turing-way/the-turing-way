@@ -1,7 +1,7 @@
 (er-activism-robodebt)=
 # Case Study: Tackling Robodebt
 
-```{figure} ../../figures/robo-debt.jpg
+```{figure} ../../figures/robo-debt.*
 ---
 name: robo-debt
 alt: This illustration shows a big machine that says 'you owe us'. It has a few people automating debt call, which is impacting the low-income community - there is person on wheelchair, a tired looking mother with an infant and a toddler and a distressed man standing next to her.

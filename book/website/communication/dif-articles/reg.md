@@ -6,7 +6,7 @@
 Registered Reports are an article type divided into two published parts- a study protocol and a research article. 
 The study protocol is reviewed **prior** to the data being collected and the research being carried out. 
 
-```{figure} ../../figures/cos-reg-reports.png
+```{figure} ../../figures/cos-reg-reports.*
 ---
 height: 200px
 name: registered reports

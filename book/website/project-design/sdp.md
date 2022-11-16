@@ -22,11 +22,11 @@ In this chapter, we give an overview of different types of sensitive data. We th
 
 In this chapter we will cover:
 * Types of sensitive data
-* Personal data
-* Confidential data
-* Biological data
-* Metadata
-* Combined datasets
+* {ref}`Personal data<pd-sdp-personal>`
+* {ref}`Confidential data<pd-sdp-confidential>`
+* {ref}`Biological data<pd-sdp-biological>`
+* {ref}`Metadata<pd-sdp-metadata>`
+* {ref}`Combined datasets<pd-sdp-combined>`
 
 (pd-sdp-motivation)=
 ## Motivation

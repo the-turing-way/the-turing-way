@@ -13,7 +13,8 @@ There are a number of strategies that you can adopt to **safeguard the privacy**
 * Decide how long you will retain identifiable data before removing direct identifiers, applying more complex anonymisation techniques, or deleting the data altogether.
 * When deleting sensitive data you need to be aware that standard methods for deleting files (for example moving files to the recycle bin and emptying it) are not secure.
 These deleted files may be recovered. 
-Use software like BleachBit to safely delete the data.
+Use software like BleachBit (Linux, Windows), BC Wipe, DeleteOnClick and Eraser (Windows) or Permanent Eraser or 'secure empty trash' (Mac) to safely delete the data.
+An alternative is the physical destruction of the storage media.
 
 **3. Secure data transfer**
 * Before deciding to transfer personal data, you should consider whether the transfer of identifiable data is necessary.
@@ -49,7 +50,10 @@ NOTE: In this instance, the linkage file should be encrypted and stored securely
   * Identification of individuals in pseudonymised or de-identified data may still be possible using combinations of indirect identifiers (such as age, education, employment, geographic area and medical conditions). 
 Further, data and outputs containing small cell counts may be potentially disclosive, particularly where samples are drawn from small populations or include cases with extreme values or relatively rare characteristics.
    * As such, when intending to share potentially identifiable data or the outputs generated from the data, you may need to consider more advanced anonymisation techniques such as statistical disclosure control (SDC, see [this handbook](https://securedatagroup.org/sdc-handbook/) for more information).
-* For more information about anonymisation you can watch [this webinar by Enrico Glerean](https://www.youtube.com/watch?v=ILXeA4fx3cI).
+* For more information about anonymisation 
+   * Watch [this webinar by Enrico Glerean](https://www.youtube.com/watch?v=ILXeA4fx3cI) 
+   * Watch a presentation on [Amnesia – Data Anonymisation Made Easy](https://www.youtube.com/watch?v=9wu_xGeYsQw) or a webinar on [Amnesia - a tool to make anonymisation easy](https://www.youtube.com/watch?v=9wu_xGeYsQw)
+   * Or read an [explanation by the Finnish social science data archive](https://www.fsd.tuni.fi/en/services/data-management-guidelines/anonymisation-and-identifiers/)
 
 
 

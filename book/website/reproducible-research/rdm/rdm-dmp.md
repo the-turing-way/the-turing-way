@@ -50,8 +50,12 @@ If data cannot be made publicly available you will still have to preserve it for
 * You can outsource long term preservation of your data to a data repository. 
 You can find more information on how to select an appropriate repository in {ref}`sharing and archiving data<rr-rdm-sharing>` section
     * Select repositories using, for example, [FAIRsharing](https://fairsharing.org/) or [Nature's recommended repository list](https://www.springernature.com/gp/authors/research-data-policy/repositories/12327124), that provide a persistent identifier such as a DOI for your research output. 
+
 A repository should have a preservation policy that specifies how long your outputs will be curated. 
-When in doubt, contact your library Research Data Support Team for more information about data repositories. 
+When in doubt, contact your library Research Data Support Team for more information about data repositories.
+
+* For digital preservation, ensure that the research data can be discovered, accessed, used and understood now and in future. 
+This requires that you address the technological changes, changing user behavior and new requirements on the computer-aided processing of research data as well as evolving organisational.
 
 ### 5. Reuse of your research outputs by others
 * Select a license when you make your output available on a repository (see the Licensing subchapters on {ref}`data<rr-licensing-data>` and {ref}`software<rr-licensing-software>` for more information). 
@@ -62,7 +66,7 @@ If you do not select a license others will not be able to reuse your data withou
 
 You can use this [checklist](https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/checklist/) to see if you have everything covered in your Data Management Plan. 
 
-## Further Reading Recommendations
+## Additional Resources
 
 - [DataOne education modules](https://www.dataone.org/education-modules)
 - [UK Data Services data management information](https://ukdataservice.ac.uk/learning-hub/research-data-management/)
@@ -72,3 +76,5 @@ You can use this [checklist](https://ukdataservice.ac.uk/learning-hub/research-d
 Publishing, 2015.
 - Briney, K.A., Coates, H. and Goben, A., 2020 Foundational Practices of Research Data Management. Research Ideas and Outcomes 6: e56508. [https://doi.org/10.3897/rio.6.e56508](https://doi.org/10.3897/rio.6.e56508)
 - Hart EM, Barmby P, LeBauer D, Michonneau F, Mount S, Mulrooney P, et al. (2016) Ten Simple Rules for Digital Data Storage. PLoS Comput Biol 12(10): e1005097. [https://doi.org/10.1371/journal.pcbi.1005097](https://doi.org/10.1371/journal.pcbi.1005097)
+- Video on [elements of a DMP](https://commons.esipfed.org/node/1442).
+- Definition of [Long Term Preservation](https://www.gesis.org/en/research/research-data-management/long-time-preservation) from the Leibniz Institute of Social Science.
