@@ -3868,6 +3868,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "gregcaporaso",
+      "name": "Greg Caporaso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/192372?v=4",
+      "profile": "http://www.caporasolab.us",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
