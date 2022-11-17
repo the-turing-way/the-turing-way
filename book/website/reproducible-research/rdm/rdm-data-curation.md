@@ -10,24 +10,34 @@ You can imagine that if you don't follow the data curation process, it becomes d
 ## Data Curation Pipeline
 
 ### 1. Data capture
-Data capture is the process of gathering or collecting data from different sources, which will be processed and used for certain purposes. These sources may be research articles in electronic format or databases like electronic databases among others. This stage focuses on ensuring that the data captured is actually fit for purpose and ready for curation.
+Data capture is the process of gathering or collecting data from different sources, which will be processed and used for certain purposes. 
+These sources may be research articles in electronic format or databases like electronic databases among others. 
+This stage focuses on ensuring that the data captured is actually fit for purpose and ready for curation.
 
 ### 2. Data appraisal
-Data appraisal and selection are fundamental stages in the data curation process. In data appraisal, you are required to select the appropriate data by entering, digitizing, transcribing, checking, validating and cleaning the data; in addition to anonymizing the data where necessary, describing the data and managing and storing the data.  As you appraise the data you need to adhere to the documented guidance, policies and legal requirements in evaluating research data in a particular organization and selecting the data that requires long term preservation. Your appraisal and selection policy should ensure consistency, transparency and accountable decision making.
+Data appraisal and selection are fundamental stages in the data curation process. 
+In data appraisal, you are required to select the appropriate data by entering, digitizing, transcribing, checking, validating and cleaning the data; in addition to anonymizing the data where necessary, describing the data and managing and storing the data.  
+As you appraise the data you need to adhere to the documented guidance, policies and legal requirements in evaluating research data in a particular organization and selecting the data that requires long term preservation. 
+Your appraisal and selection policy should ensure consistency, transparency and accountable decision making.
 
 ### 3. Data disposal 
-Data disposal involves disposing of data that has not be selected for retention. You need to have an appraisal policy which will guide you on the data required for archiving, redeployment, transfer of custody or ownership or destroying the research data.
+Data disposal involves disposing of data that has not be selected for retention. 
+You need to have an appraisal policy which will guide you on the data required for archiving, redeployment, transfer of custody or ownership or destroying the research data.
 
 ### 4. Data description
-Data description requires that you are able to interpret the data; derive data; produce research outputs; author publications; data anonymisation; data visualization; data validation  and prepare the data for preservation. So it is important that you describe the research data so that it is discoverable and usable over time. There are also  metadata standard that already exist to help you with standardised descriptions. 
+Data description requires that you are able to interpret the data; derive data; produce research outputs; author publications; data anonymisation; data visualization; data validation and prepare the data for preservation. 
+So it is important that you describe the research data so that it is discoverable and usable over time. 
+There are also  metadata standard that already exist to help you with standardised descriptions. 
 
 ### 5. Data preservation
 Please find more information in the chapter on [Data Management Plans](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html).
 https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html
 
 ### 6. Data access 
-Data access entails distributing data, sharing data, publishing data, linking data to outputs, controlling access, establishing copyright and promoting or disseminating the data to wider audiences to access it or re-use it.  You can make the data freely available online to anyone who may be interested in reading it or you may restrict access of the data or provide an option of how to access the data.
-Read more information here:
+Data access entails distributing data, sharing data, publishing data, linking data to outputs, controlling access, establishing copyright and promoting or disseminating the data to wider audiences to access it or re-use it.  
+You can make the data freely available online to anyone who may be interested in reading it or you may restrict access of the data or provide an option of how to access the data.
+
 
 ### 7. Data transformation
-Data transformation is the practice of examining large datasets to generate new information. You can re-analysis the research data and make relationships that may not have been previously discovered. 
+Data transformation is the practice of examining large datasets to generate new information. 
+You can re-analysis the research data and make relationships that may not have been previously discovered. 
