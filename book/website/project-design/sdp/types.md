@@ -11,3 +11,9 @@ These are versions of inner source working in which open collaboration and open 
 Therefore each research project needs to find the best solution for their needs.
 
 The following sub-chapters give an overview of the types of sensitive data and metadata that need to be identified in datasets and therefore handled securely in research projects.
+
+Or you could watch this video below that has been created by ELIXIR-UK as an introduction to sensitive data.
+
+<div class="video-container">
+    <iframe width="560" height="315" src="[https://www.youtube.com/embed/MdOS6tPq8fc](https://www.youtube.com/embed/2PXFu33IGVU)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
