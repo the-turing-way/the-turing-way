@@ -26,7 +26,7 @@ RSEs are also likely to understand concepts such as agile development, integrati
 
 ## Challenges for Research Software Engineers
 * Lack of formal pathways for development
- A second barrier is that the *production of software and tools not always recognised as a research output*.  Instead, the current metric to judge a researcher si the number of papers papers that they produce, with little focus on te quality of the underlying code, or outputs that are not publishable in the traditional paper or pdf format, such as software. As already mentioned, efforts to provide DOIs and citeable identifiers for software and data sets are an important step towards acknowledging software as research output {cite:ps}`David2019recognising,Cohen2021FourPillars`. 
+* A second barrier is that the *production of software and tools not always recognised as a research output*. Instead, the current metric to judge a researcher is the number of papers papers that they produce, with little focus on te quality of the underlying code, or outputs that are not publishable in the traditional paper or pdf format, such as software. As already mentioned, efforts to provide DOIs and citeable identifiers for software and data sets are an important step towards acknowledging software as research output {cite:ps}`David2019recognising,Cohen2021FourPillars`. 
 * RSEs not viewed as researchers in their own right
 * Adjusting to working on different projects, possibly far from their original background 
 
