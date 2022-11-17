@@ -30,7 +30,7 @@ So it is important that you describe the research data so that it is discoverabl
 There are also  metadata standards that already exist to help you with standardised descriptions. 
 
 ### 5. Data preservation
-Please find more information in the chapter on [Data Management Plans](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html).
+Please find more information in the chapter on {ref}`Data Management Plans<rr-rdm-dmp>`.
 
 ### 6. Data access 
 Data access entails distributing data, sharing data, publishing data, linking data to outputs, controlling access, establishing copyright and promoting or disseminating the data to wider audiences to access it or re-use it.  
