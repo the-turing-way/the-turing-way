@@ -27,7 +27,7 @@ You need to have an appraisal policy which will guide you on the data required f
 ### 4. Data description
 Data description requires that you are able to interpret the data; derive data; produce research outputs; author publications; data anonymisation; data visualization; data validation and prepare the data for preservation. 
 So it is important that you describe the research data so that it is discoverable and usable over time. 
-There are also  metadata standard that already exist to help you with standardised descriptions. 
+There are also  metadata standards that already exist to help you with standardised descriptions. 
 
 ### 5. Data preservation
 Please find more information in the chapter on [Data Management Plans](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html).
