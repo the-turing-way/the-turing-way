@@ -542,26 +542,12 @@ parts:
           - title: Hybrid Collaboration
             file: collaboration/hybrid-collab
             sections:
-              - title: Organising Hybrid Meetings
-                file: collaboration/hybrid-collab/hybrid-collab-meetings
+              - title: Challenges faced during Hybrid Collaboration
+                file: collaboration/hybrid-collab/hybrid-collab-challenges
               - title: Guidelines for Hybrid Collaboration
                 file: collaboration/hybrid-collab/hybrid-collab-guidelines
-              - title: Tools for Hybrid Collaboration
-                file: collaboration/hybrid-collab/hybrid-collab-tools
-              - title: Organising Coworking Calls
-                file: collaboration/hybrid-collab/hybrid-collab-coworking
-              - title: Organising Hybrid Conferences
-                file: collaboration/hybrid-collab/hybrid-collab-conferences
-              - title: Chairing Hybrid Events
-                file: collaboration/hybrid-collab/hybrid-collab-chairs
-              - title: Participating in Hybrid Events
-                file: collaboration/hybrid-collab/hybrid-collab-participation
-              - title: Early Career Researchers Viewpoint on Hybrid Collaboration
-                file: collaboration/hybrid-collab/hybrid-collab-early-career
-              - title: Informal Coffee Chats
-                file: collaboration/hybrid-collab/hybrid-collab-informal
-              - title: Perceived Pros and Cons
-                file: collaboration/hybrid-collab/hybrid-collab-prosandcons
+              - title: Resources
+                file: collaboration/hybrid-collab/hybrid-collab-resources
           - title: Shared Ownership in Open Source Projects
             file: collaboration/shared-ownership
             sections:
