@@ -54,18 +54,56 @@ Add <https://carpentries-incubator.github.io/managing-computational-projects/03-
 
 <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>
 
-## [DRAFT] Outline
+pandoc
+workflows
 
-- About
-  - General Information
-  - Platforms and services to use
-  - Languages - Markdown, reStructuredText
-  
-- Project Documentation
-
-- Code Documentation
-
-## [DRAFT] References
+## [DRAFT] Resources
 
 - <https://github.com/alan-turing-institute/the-turing-way/issues/2020>
 - <https://github.com/alan-turing-institute/the-turing-way/issues/879>
+
+
+## [DRAFT] Outline
+
+- **Overview**
+  - General Information
+  - Why Document?
+    - Carpentries material
+  - Facilitating Documentation
+    - Carpentries material
+  - How to Document?
+    - Diátaxis framework
+  - What all is covered?
+    - Link to Project documentation
+    - Link to Data documentation
+    - Technical Documentation
+  
+- **Subchapter 1: Technical Documentation**
+  - Overview
+  - Code Comments
+  - API Documentation
+  - Usage Documentation
+  - Development Setup
+  - Descripiton of issue labels
+  - Code Style
+  - What else?
+  
+- **Subchapter 2: Languages and Platforms**
+  - Languages
+    - Markdown
+      - MyST
+    - reStructuredText
+  - Platforms
+    - GitHub
+    - Read the Docs
+    - GitBook
+    - Jupyter Book
+    - Sphinx (Python specific)
+  
+- **Subchapter 3: Workflows and Resources**
+  - Workflows
+    - Tools to use together and use cases
+    - Refer to pandoc
+  - Resources
+    - Diátaxis
+  
