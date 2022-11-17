@@ -18,7 +18,7 @@ This stage focuses on ensuring that the data captured is actually fit for purpos
 Data appraisal and selection are fundamental stages in the data curation process. 
 In data appraisal, you are required to select the appropriate data by entering, digitizing, transcribing, checking, validating and cleaning the data; in addition to anonymizing the data where necessary, describing the data and managing and storing the data.  
 As you appraise the data you need to adhere to the documented guidance, policies and legal requirements in evaluating research data in a particular organization and selecting the data that requires long term preservation. 
-Your appraisal and selection policy should ensure consistency, transparency and accountable decision making.
+Your appraisal and selection policy should ensure consistency, transparency, and accountable decision making.
 
 ### 3. Data disposal 
 Data disposal involves disposing of data that has not be selected for retention. 
