@@ -244,6 +244,8 @@ Human Readable
 ## I
 
 ```{glossary}
+Identifier
+  An identifier is a key or name used as label or the identity of a unique class of objects, represnting an idea or physical objects. Also see: Persistent Identifier, Digital Object Identifier.
 
 Image
   Files used for generating containers.
@@ -402,7 +404,7 @@ Package Management System
   A tool for installing, managing, and uninstalling software packages including specific versions.
 
 Persistent Identifier
-  A long-lived method for identifying a resource that is unique, and widely understandable by a community.
+  A long-lasting reference to a document, file, web page, or other digital object for identifying a resource that is unique, and widely understandable by a community. Also see: Digital Object Identifier.
 
 Pattern
   A pattern rule is a rule that contains exactly one % character in the target, which can be used to match a part of a filename.
@@ -491,6 +493,9 @@ Research Data Management
 
 Research Ethics
   Research ethics are the moral principles that govern how researchers should carry out their work. These principles are used to shape research regulations agreed by groups such as university governing bodies, communities or governments. All researchers should follow any regulations that apply to their work.
+
+Research Objects
+  Research objects are living resources aggregating inputs, materials, methods and/or software used in research.
 
 Review
   Suggesting changes or asking for committing something to an already created pull request.
