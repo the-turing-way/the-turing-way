@@ -1,6 +1,4 @@
-[DRAFT]
-
-# Documentation
+# [DRAFT] Documentation
 
 Documentation is one of the key components of a project, as it adds context to your work.
 
@@ -20,11 +18,37 @@ Add <https://carpentries-incubator.github.io/managing-computational-projects/03-
 
 ### GitHub
 
+<https://docs.github.com/en/pages>
+
 ### Read the Docs
+
+<https://readthedocs.org>
 
 ### ? GitBook
 
+<https://www.gitbook.com>
+
 ### ? Jupyter Book
+
+<https://jupyterbook.org>
+
+### ? Sphinx (Python specific)
+
+<https://www.sphinx-doc.org>
+
+## Languages
+
+### Markdown
+
+<https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
+
+#### ? MyST
+
+<https://myst-parser.readthedocs.io>
+
+### reStructuredText
+
+<https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>
 
 ## Outline
 
