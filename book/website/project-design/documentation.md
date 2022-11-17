@@ -14,6 +14,10 @@ Add <https://carpentries-incubator.github.io/managing-computational-projects/03-
 
 <https://carpentries-incubator.github.io/managing-computational-projects/03-setup/index.html#facilitating-documentation-in-your-team>
 
+## How to Document?
+
+![Diataxis-framework](https://diataxis.fr/_images/diataxis.png)
+
 ## Platforms and Services for Documentation
 
 ### GitHub
