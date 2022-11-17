@@ -16,7 +16,7 @@ Add <https://carpentries-incubator.github.io/managing-computational-projects/03-
 
 ## How to Document?
 
-![Diataxis-framework](https://diataxis.fr/_images/diataxis.png)
+![Diátaxis-framework](https://diataxis.fr/_images/diataxis.png)
 
 ## Platforms and Services for Documentation
 
@@ -54,7 +54,7 @@ Add <https://carpentries-incubator.github.io/managing-computational-projects/03-
 
 <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>
 
-## Outline
+## [DRAFT] Outline
 
 - About
   - General Information
@@ -65,7 +65,7 @@ Add <https://carpentries-incubator.github.io/managing-computational-projects/03-
 
 - Code Documentation
 
-## References
+## [DRAFT] References
 
 - <https://github.com/alan-turing-institute/the-turing-way/issues/2020>
 - <https://github.com/alan-turing-institute/the-turing-way/issues/879>
