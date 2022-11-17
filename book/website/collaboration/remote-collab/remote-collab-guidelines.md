@@ -1,7 +1,7 @@
 (cl-remote-collab-guidelines)=
 # Guidelines for Remote Collaboration
 
-In this context, guidelines are a set of rules or protocols that can create a common ground for everyone to communicate and exchange information within a distributed team for effective and successful collaboration.
+In this chapter, guidelines are a set of rules or protocols that can create a common ground for everyone to communicate and exchange information within a distributed team for effective and successful collaboration.
 
 The main motivation is to set clear guidelines around expectations on communication tools, etiquette for online meetings, tasks, timelines and schedules in advance for the remote and distributed collaborative working arrangement in a team or community.
 
