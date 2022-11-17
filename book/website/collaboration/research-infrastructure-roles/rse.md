@@ -15,6 +15,18 @@ https://us-rse.org/about/what-is-an-rse/
 https://society-rse.org/about/
 -->
 
+(cl-infrastructure-rs-importance)=
+## The Importance of Research Software (and Research Software Engineers!)
+A comprehensive survey of academics indicated that more than nine in ten academics use research software, and seven in ten academics say their research would not be practical without it {cite:ps}`Hettrick2014SIRSurvey`.
+However, support and funding for the development of research software is insufficient, if not non-existent.
+For example, Astropy is a Python package widely used by the astronomical community, from national laboratories to NASA space telescopes, which includes over 200,000 lines of code.
+Hiring professional software developers to write the Astropy package would have required about $8.5 million USD, by one estimate [4](https://arxiv.org/abs/1610.03159).
+But instead the academics who wrote Astropy did so during their own spare time without funding dedicated to software development -- creating great benefits for the astronomical community with no guarantee of financial reward or career recognition.
+
+In 2013 the UK Research Software Engineers Association was launched in response to the lack of recognition and advancement opportunities for software developers in academia [5](https://society-rse.org/about/history).
+Since then the RSE movement has expanded around the world, with the [International Council of RSE Associations](https://researchsoftware.org/council.html) overseeing formal collaboration between national RSE associations.
+The RSE movement is a largely volunteer-driven effort to help RSEs understand their unique roles and capabilities, and help academia establish better career pathways and recognition for the work RSEs do.
+
 (cl-infrastructure-rse-role)=
 ## What do Research Software Engineers do? 
 As already mentioned, RSEs can come from a wide range of backgrounds.
