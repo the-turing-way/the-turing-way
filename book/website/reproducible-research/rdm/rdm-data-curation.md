@@ -10,7 +10,7 @@ You can imagine that if you don't follow the data curation process, it becomes d
 ## Data Curation Pipeline
 
 ### 1. Data capture
-Data capture is a process of gathering or collecting data from different sources which will be processed and used for certain purposes. These sources may be research articles in electronic format; databases like electronic databases among others. This stage focuses on ensuring that the data captured is actually fit for the purpose and ready for curation.
+Data capture is the process of gathering or collecting data from different sources, which will be processed and used for certain purposes. These sources may be research articles in electronic format or databases like electronic databases among others. This stage focuses on ensuring that the data captured is actually fit for purpose and ready for curation.
 
 ### 2. Data appraisal
 Data appraisal and selection are fundamental stages in the data curation process. In data appraisal, you are required to select the appropriate data by entering, digitizing, transcribing, checking, validating and cleaning the data; in addition to anonymizing the data where necessary, describing the data and managing and storing the data.  As you appraise the data you need to adhere to the documented guidance, policies and legal requirements in evaluating research data in a particular organization and selecting the data that requires long term preservation. Your appraisal and selection policy should ensure consistency, transparency and accountable decision making.
