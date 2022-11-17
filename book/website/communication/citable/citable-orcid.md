@@ -28,7 +28,7 @@ You can also use your ORCID profile to create a CV using [ROpenSci package rorci
 
 ```{figure} ../../figures/orcid-ids.*
 ---
-name: orcid-ids
+name: orcid-ids2
 alt: A researcher surrounded by a ring formed of all her different outputs, linked by an ORCID. Text reads "ORCID IDs" and "One Ring to Rule All Outputs."
 ---
 ORCID IDs link all your research outputs together.
