@@ -26,7 +26,7 @@ Please find more information in the chapter on [Data Management Plans](https://t
 https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html
 
 ### 6. Data access 
-Data access entails distributing data, sharing data, publishing data, linking data to outputs, controlling access, establishing copyright and promoting or disseminating the data to wider audiences to access it or re-use it.  You can make the  data freely available online  to anyone  who may be interested in reading it or you may restrict access of the data or provide an option of the data accessible.
+Data access entails distributing data, sharing data, publishing data, linking data to outputs, controlling access, establishing copyright and promoting or disseminating the data to wider audiences to access it or re-use it.  You can make the data freely available online to anyone who may be interested in reading it or you may restrict access of the data or provide an option of how to access the data.
 Read more information here:
 
 ### 7. Data transformation
