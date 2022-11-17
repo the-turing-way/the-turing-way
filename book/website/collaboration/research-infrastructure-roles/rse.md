@@ -32,8 +32,15 @@ RSEs are also likely to understand concepts such as agile development, integrati
 * Apply cross-disciplinary knowledge to different projects 
 * Software will be more reliable and robust, supporting reuse and reproducibility 
 
+## Where should I go if I want to hire a RSE, meet a RSE or become a RSE?
+### Hire a RSE
+If you want to hire a RSe, you can post a job vacancy [on the job board of the Socienty for Research Software Engineering](https://society-rse.org/careers/vacancies/).
+
+### Don't have any RSE's around? Create your own local RSE group
+[This RSE-leaders Github reporsitory](https://github.com/RSE-leaders/evidence-bank) provides material for founding your own local RSE community.
+
 (cl-infrastructure-rse-support)=
-## Organisations that support Research Software Engineers
+### Organisations that support (emerging) Research Software Engineers
 * [Society for Research Engineering](https://society-rse.org/)
 * [Software Sustainability Institute](https://www.software.ac.uk/)
 
