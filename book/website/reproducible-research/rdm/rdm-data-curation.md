@@ -1,6 +1,11 @@
 (rr-rdm-data-curation)=
 # Data Curation
-Data curation is one of the key aspects of Research Data Management (RDM). It involves the capturing, appraisal, disposal, description, preservation, access, reuse and transformation of research data. Data curation promotes the use of data from the point of creation to ensuring that its used for the purpose it is intended for. Data curation also enables you to easily access data sets and information that you need in an organised format, you can easily extract data from whichever repository it is stored. You can imagine that if you don't follow the data curation process, it becomes difficult to access that data.
+
+Data curation is one of the key aspects of Research Data Management (RDM). 
+It involves the capturing, appraisal, disposal, description, preservation, access, reuse and transformation of research data. 
+Data curation promotes the use of data from the point of creation to ensuring that its used for the purpose it is intended for. 
+Data curation also enables you to easily access data sets and information that you need in an organised format, you can easily extract data from whichever repository it is stored. 
+You can imagine that if you don't follow the data curation process, it becomes difficult to access that data.
 
 ### 1. Research data capture
 Data capture is a process of gathering or collecting data from different sources which will be processed and used for certain purposes. These sources may be research articles in electronic format; databases like electronic databases among others. This stage focuses on ensuring that the data captured is actually fit for the purpose and ready for curation.
