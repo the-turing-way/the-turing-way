@@ -16,7 +16,7 @@ Data capture is a process of gathering or collecting data from different sources
 Data appraisal and selection are fundamental stages in the data curation process. In data appraisal, you are required to select the appropriate data by entering, digitizing, transcribing, checking, validating and cleaning the data; in addition to anonymizing the data where necessary, describing the data and managing and storing the data.  As you appraise the data you need to adhere to the documented guidance, policies and legal requirements in evaluating research data in a particular organization and selecting the data that requires long term preservation. Your appraisal and selection policy should ensure consistency, transparency and accountable decision making.
 
 ### 3. Data disposal 
-Data disposal involves disposing of data that has not be selected for retention. You need to have an appraisal policy which will guide you on the data required for archiving, redeployment, transfer of custody or ownership or destroying the research Data 
+Data disposal involves disposing of data that has not be selected for retention. You need to have an appraisal policy which will guide you on the data required for archiving, redeployment, transfer of custody or ownership or destroying the research data.
 
 ### 4. Data description
 Data description requires that you are able to interpret the data; derive data; produce research outputs; author publications; data anonymisation; data visualization; data validation  and prepare the data for preservation. So it is important that you describe the research data so that it is discoverable and usable over time. There are also  metadata standard that already exist to help you with standardised descriptions. 
