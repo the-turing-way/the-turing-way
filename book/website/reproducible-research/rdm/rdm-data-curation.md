@@ -7,7 +7,9 @@ Data curation promotes the use of data from the point of creation to ensuring th
 Data curation also enables you to easily access data sets and information that you need in an organised format, you can easily extract data from whichever repository it is stored. 
 You can imagine that if you don't follow the data curation process, it becomes difficult to access that data.
 
-### 1. Research data capture
+## Data Curation Pipeline
+
+### 1. Data capture
 Data capture is a process of gathering or collecting data from different sources which will be processed and used for certain purposes. These sources may be research articles in electronic format; databases like electronic databases among others. This stage focuses on ensuring that the data captured is actually fit for the purpose and ready for curation.
 
 ### 2. Data appraisal
