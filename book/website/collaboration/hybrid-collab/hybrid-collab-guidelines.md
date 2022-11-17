@@ -31,3 +31,7 @@
     
 - How can you ensure that online participants are able to block off their calendar to have the proper space to attend the event.
 
+## Organising Hybrid Meetings
+
+- Plan earlier so that people can block their calendars
+- Plan on movement (time & space)
