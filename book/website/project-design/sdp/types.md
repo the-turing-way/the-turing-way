@@ -15,5 +15,5 @@ The following sub-chapters give an overview of the types of sensitive data and m
 Or you could watch this video below that has been created by ELIXIR-UK as an introduction to sensitive data.
 
 <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/MdOS6tPq8fc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2PXFu33IGVU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
