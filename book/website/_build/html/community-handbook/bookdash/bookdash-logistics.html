@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Book Dash Logistics &#8212; The Turing Way</title>
     
-  <link href="../../_static/css/theme.css" rel="stylesheet" />
-  <link href="../../_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
+  <link href="../../_static/css/theme.css" rel="stylesheet">
+  <link href="../../_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -22,8 +22,8 @@
       
 
     
-    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="../../_static/sphinx-book-theme.e8e5499552300ddf5d7adccae7cc3b70.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
     <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/mystnb.css" />
@@ -32,9 +32,9 @@
     <link rel="stylesheet" type="text/css" href="../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
     
-  <link rel="preload" as="script" href="../../_static/js/index.1c5a1a01449ed65a7b51.js">
+  <link rel="preload" as="script" href="../../_static/js/index.be7d3bbb2ef33a8344ce.js">
 
-    <script id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
     <script src="../../_static/jquery.js"></script>
     <script src="../../_static/underscore.js"></script>
     <script src="../../_static/doctools.js"></script>
@@ -42,10 +42,10 @@
     <script src="../../_static/clipboard.min.js"></script>
     <script src="../../_static/copybutton.js"></script>
     <script async="async" kind="hypothesis" src="https://hypothes.is/embed.js"></script>
-    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="../../_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
-    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
-    <script >
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../../_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
+    <script>
         const thebe_selector = ".thebe"
         const thebe_selector_input = "pre"
         const thebe_selector_output = ".output"
@@ -58,8 +58,21 @@
     <link rel="next" title="Participant Selection Process" href="bookdash-selection.html" />
     <link rel="prev" title="Application and Review Process" href="bookdash-application.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="docsearch:language" content="en" />
+    <meta name="docsearch:language" content="en">
     
+
+    <!-- Google Analytics -->
+    
+<script async="" src="https://www.google-analytics.com/analytics.js"></script>
+<script>
+                        window.ga = window.ga || function () {
+                            (ga.q = ga.q || []).push(arguments) };
+                        ga.l = +new Date;
+                        ga('create', 'UA-167881009-1', 'auto');
+                        ga('set', 'anonymizeIp', true);
+                        ga('send', 'pageview');
+                    </script>
+
   </head>
   <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
     
@@ -75,6 +88,10 @@
         <div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="../../index.html">
       
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
       <img src="../../_static/logo.jpg" class="logo" alt="logo">
       
       
@@ -84,7 +101,7 @@
 </div><form class="bd-search d-flex align-items-center" action="../../search.html" method="get">
   <i class="icon fas fa-search"></i>
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
-</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
         <ul class="nav bd-sidenav">
  <li class="toctree-l1">
@@ -1122,8 +1139,30 @@
        Personal Stories - Large Collaborative Research Community
       </a>
      </li>
+    </ul>
+   </li>
+   <li class="toctree-l2 has-children">
+    <a class="reference internal" href="../../communication/peer-review.html">
+     Peer Review
+    </a>
+    <input class="toctree-checkbox" id="toctree-checkbox-32" name="toctree-checkbox-32" type="checkbox"/>
+    <label for="toctree-checkbox-32">
+     <i class="fas fa-chevron-down">
+     </i>
+    </label>
+    <ul>
      <li class="toctree-l3">
-      <a class="reference internal" href="../../communication/aa/aa-resources.html">
+      <a class="reference internal" href="../../communication/peer-review/peer-review-overview.html">
+       Peer Review
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../communication/peer-review/peer-review-guidance.html">
+       Guidance on Peer Review for a Journal
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../communication/peer-review/peer-review-resources.html">
        Resources
       </a>
      </li>
@@ -1133,8 +1172,8 @@
     <a class="reference internal" href="../../communication/binder.html">
      Binder
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-32" name="toctree-checkbox-32" type="checkbox"/>
-    <label for="toctree-checkbox-32">
+    <input class="toctree-checkbox" id="toctree-checkbox-33" name="toctree-checkbox-33" type="checkbox"/>
+    <label for="toctree-checkbox-33">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1152,8 +1191,8 @@
   <a class="reference internal" href="../../collaboration/collaboration.html">
    Guide for Collaboration
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-33" name="toctree-checkbox-33" type="checkbox"/>
-  <label for="toctree-checkbox-33">
+  <input class="toctree-checkbox" id="toctree-checkbox-34" name="toctree-checkbox-34" type="checkbox"/>
+  <label for="toctree-checkbox-34">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -1162,8 +1201,8 @@
     <a class="reference internal" href="../../collaboration/github-novice.html">
      Getting Started With GitHub
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-34" name="toctree-checkbox-34" type="checkbox"/>
-    <label for="toctree-checkbox-34">
+    <input class="toctree-checkbox" id="toctree-checkbox-35" name="toctree-checkbox-35" type="checkbox"/>
+    <label for="toctree-checkbox-35">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1194,8 +1233,8 @@
     <a class="reference internal" href="../../collaboration/maintain-review.html">
      Maintainers and Reviewers on GitHub
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-35" name="toctree-checkbox-35" type="checkbox"/>
-    <label for="toctree-checkbox-35">
+    <input class="toctree-checkbox" id="toctree-checkbox-36" name="toctree-checkbox-36" type="checkbox"/>
+    <label for="toctree-checkbox-36">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1231,8 +1270,8 @@
     <a class="reference internal" href="../../collaboration/new-community.html">
      Managing a New Community and Team
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-36" name="toctree-checkbox-36" type="checkbox"/>
-    <label for="toctree-checkbox-36">
+    <input class="toctree-checkbox" id="toctree-checkbox-37" name="toctree-checkbox-37" type="checkbox"/>
+    <label for="toctree-checkbox-37">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1263,8 +1302,8 @@
     <a class="reference internal" href="../../collaboration/leadership.html">
      Leadership in Data Science
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-37" name="toctree-checkbox-37" type="checkbox"/>
-    <label for="toctree-checkbox-37">
+    <input class="toctree-checkbox" id="toctree-checkbox-38" name="toctree-checkbox-38" type="checkbox"/>
+    <label for="toctree-checkbox-38">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1280,8 +1319,8 @@
     <a class="reference internal" href="../../collaboration/research-infrastructure-roles.html">
      Research Infrastructure Roles
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-38" name="toctree-checkbox-38" type="checkbox"/>
-    <label for="toctree-checkbox-38">
+    <input class="toctree-checkbox" id="toctree-checkbox-39" name="toctree-checkbox-39" type="checkbox"/>
+    <label for="toctree-checkbox-39">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1317,8 +1356,8 @@
     <a class="reference internal" href="../../collaboration/remote-collab.html">
      Remote Collaboration
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-39" name="toctree-checkbox-39" type="checkbox"/>
-    <label for="toctree-checkbox-39">
+    <input class="toctree-checkbox" id="toctree-checkbox-40" name="toctree-checkbox-40" type="checkbox"/>
+    <label for="toctree-checkbox-40">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1379,8 +1418,8 @@
     <a class="reference internal" href="../../collaboration/shared-ownership.html">
      Shared Ownership in Open Source Projects
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-40" name="toctree-checkbox-40" type="checkbox"/>
-    <label for="toctree-checkbox-40">
+    <input class="toctree-checkbox" id="toctree-checkbox-41" name="toctree-checkbox-41" type="checkbox"/>
+    <label for="toctree-checkbox-41">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1413,8 +1452,8 @@
   <a class="reference internal" href="../../ethical-research/ethical-research.html">
    Guide for Ethical Research
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-41" name="toctree-checkbox-41" type="checkbox"/>
-  <label for="toctree-checkbox-41">
+  <input class="toctree-checkbox" id="toctree-checkbox-42" name="toctree-checkbox-42" type="checkbox"/>
+  <label for="toctree-checkbox-42">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -1438,8 +1477,8 @@
     <a class="reference internal" href="../../ethical-research/law-policy.html">
      Law, Policy and Human Rights in Ethics
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-42" name="toctree-checkbox-42" type="checkbox"/>
-    <label for="toctree-checkbox-42">
+    <input class="toctree-checkbox" id="toctree-checkbox-43" name="toctree-checkbox-43" type="checkbox"/>
+    <label for="toctree-checkbox-43">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1465,8 +1504,8 @@
     <a class="reference internal" href="../../ethical-research/activism.html">
      Activism for Researchers
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-43" name="toctree-checkbox-43" type="checkbox"/>
-    <label for="toctree-checkbox-43">
+    <input class="toctree-checkbox" id="toctree-checkbox-44" name="toctree-checkbox-44" type="checkbox"/>
+    <label for="toctree-checkbox-44">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1502,8 +1541,8 @@
     <a class="reference internal" href="../../ethical-research/self-reflection.html">
      Self-Reflection
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-44" name="toctree-checkbox-44" type="checkbox"/>
-    <label for="toctree-checkbox-44">
+    <input class="toctree-checkbox" id="toctree-checkbox-45" name="toctree-checkbox-45" type="checkbox"/>
+    <label for="toctree-checkbox-45">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1536,8 +1575,8 @@
   <a class="reference internal" href="../community-handbook.html">
    Community Handbook
   </a>
-  <input checked="" class="toctree-checkbox" id="toctree-checkbox-45" name="toctree-checkbox-45" type="checkbox"/>
-  <label for="toctree-checkbox-45">
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-46" name="toctree-checkbox-46" type="checkbox"/>
+  <label for="toctree-checkbox-46">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -1546,8 +1585,8 @@
     <a class="reference internal" href="../coc.html">
      Code of Conduct
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-46" name="toctree-checkbox-46" type="checkbox"/>
-    <label for="toctree-checkbox-46">
+    <input class="toctree-checkbox" id="toctree-checkbox-47" name="toctree-checkbox-47" type="checkbox"/>
+    <label for="toctree-checkbox-47">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1578,8 +1617,8 @@
     <a class="reference internal" href="../style.html">
      Style Guide
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-47" name="toctree-checkbox-47" type="checkbox"/>
-    <label for="toctree-checkbox-47">
+    <input class="toctree-checkbox" id="toctree-checkbox-48" name="toctree-checkbox-48" type="checkbox"/>
+    <label for="toctree-checkbox-48">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1615,8 +1654,8 @@
     <a class="reference internal" href="../consistency.html">
      Maintaining Consistency
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-48" name="toctree-checkbox-48" type="checkbox"/>
-    <label for="toctree-checkbox-48">
+    <input class="toctree-checkbox" id="toctree-checkbox-49" name="toctree-checkbox-49" type="checkbox"/>
+    <label for="toctree-checkbox-49">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1642,8 +1681,8 @@
     <a class="reference internal" href="../contributing.html">
      Contributing and Developing Chapters - Templates and Workflow
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-49" name="toctree-checkbox-49" type="checkbox"/>
-    <label for="toctree-checkbox-49">
+    <input class="toctree-checkbox" id="toctree-checkbox-50" name="toctree-checkbox-50" type="checkbox"/>
+    <label for="toctree-checkbox-50">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1664,8 +1703,8 @@
     <a class="reference internal" href="../acknowledgement.html">
      Acknowledging Contributors
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-50" name="toctree-checkbox-50" type="checkbox"/>
-    <label for="toctree-checkbox-50">
+    <input class="toctree-checkbox" id="toctree-checkbox-51" name="toctree-checkbox-51" type="checkbox"/>
+    <label for="toctree-checkbox-51">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1688,11 +1727,48 @@
     </ul>
    </li>
    <li class="toctree-l2 has-children">
+    <a class="reference internal" href="../translation.html">
+     Translation
+    </a>
+    <input class="toctree-checkbox" id="toctree-checkbox-52" name="toctree-checkbox-52" type="checkbox"/>
+    <label for="toctree-checkbox-52">
+     <i class="fas fa-chevron-down">
+     </i>
+    </label>
+    <ul>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../translation/localisation.html">
+       Translation of Open Source Projects
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../translation/getting-started.html">
+       Get Started Now!
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../translation/hello-crowdin.html">
+       Demystifying Crowdin!
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../translation/illustrations.html">
+       l10n of the Illustrations
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../translation/workflow.html">
+       Translation Workflow
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toctree-l2 has-children">
     <a class="reference internal" href="../newsletters.html">
      Monthly Newsletters
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-51" name="toctree-checkbox-51" type="checkbox"/>
-    <label for="toctree-checkbox-51">
+    <input class="toctree-checkbox" id="toctree-checkbox-53" name="toctree-checkbox-53" type="checkbox"/>
+    <label for="toctree-checkbox-53">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1718,8 +1794,8 @@
     <a class="reference internal" href="../bookdash.html">
      Book Dash Events
     </a>
-    <input checked="" class="toctree-checkbox" id="toctree-checkbox-52" name="toctree-checkbox-52" type="checkbox"/>
-    <label for="toctree-checkbox-52">
+    <input checked="" class="toctree-checkbox" id="toctree-checkbox-54" name="toctree-checkbox-54" type="checkbox"/>
+    <label for="toctree-checkbox-54">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1755,8 +1831,8 @@
     <a class="reference internal" href="../coworking.html">
      Community Coworking Calls
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-53" name="toctree-checkbox-53" type="checkbox"/>
-    <label for="toctree-checkbox-53">
+    <input class="toctree-checkbox" id="toctree-checkbox-55" name="toctree-checkbox-55" type="checkbox"/>
+    <label for="toctree-checkbox-55">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1787,8 +1863,8 @@
     <a class="reference internal" href="../templates.html">
      Template Collection
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-54" name="toctree-checkbox-54" type="checkbox"/>
-    <label for="toctree-checkbox-54">
+    <input class="toctree-checkbox" id="toctree-checkbox-56" name="toctree-checkbox-56" type="checkbox"/>
+    <label for="toctree-checkbox-56">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1841,8 +1917,8 @@
   <a class="reference internal" href="../../afterword/afterword.html">
    Afterword
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-55" name="toctree-checkbox-55" type="checkbox"/>
-  <label for="toctree-checkbox-55">
+  <input class="toctree-checkbox" id="toctree-checkbox-57" name="toctree-checkbox-57" type="checkbox"/>
+  <label for="toctree-checkbox-57">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -1915,7 +1991,7 @@
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
         <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
     </div>
 </div>
 
@@ -1951,12 +2027,12 @@
         </div>
 
         <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show">
+        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
             
             <div class="tocsection onthispage pt-5 pb-3">
                 <i class="fas fa-list"></i> Contents
             </div>
-            <nav id="bd-toc-nav">
+            <nav id="bd-toc-nav" aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#before-the-event">
@@ -1981,23 +2057,56 @@
 </div>
     <div id="main-content" class="row">
         <div class="col-12 col-md-9 pl-md-3 pr-md-0">
-        
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Book Dash Logistics</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#before-the-event">
+   Before the Event
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#during-the-event">
+   During the Event
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#after-the-event">
+   After the Event
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            
               <div>
                 
-  <div class="section" id="book-dash-logistics">
+  <div class="tex2jax_ignore mathjax_ignore section" id="book-dash-logistics">
 <h1>Book Dash Logistics<a class="headerlink" href="#book-dash-logistics" title="Permalink to this headline">¶</a></h1>
 <p>We have created the following checklists, which are chronologically structured to help organise Book Dash online or in-person.</p>
 <div class="section" id="before-the-event">
 <h2>Before the Event<a class="headerlink" href="#before-the-event" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li><p>[ ] Establish a Book Dash Planning committee by inviting returning members of the event</p></li>
-<li><p>[ ] Finalise dates based on the location and organisers’ availability</p></li>
-<li><p>[ ] Book location for in-person events</p></li>
-<li><p>[ ] Set up an online platform (<a class="reference external" href="https://zoom.us/">Zoom</a>, or other accessible software) for remote collaboration</p></li>
-<li><p>[ ] Set up a form (see a template <a class="reference internal" href="bookdash-selection.html#ch-bookdash-application-additional-materials"><span class="std std-ref">here</span></a>) for application by updating the previous version of the form</p></li>
-<li><p>[ ] Discuss with co-organisers if some resources (such as email drafts or templates) need to be updated</p></li>
-<li><p>[ ] Write a short description for online advertisement</p></li>
-<li><p>[ ] Clearly state the following information in an application form and later communicate by email with the selected participants:</p>
+<ul class="contains-task-list simple">
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Establish a Book Dash Planning committee by inviting returning members of the event</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Finalise dates based on the location and organisers’ availability</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Book location for in-person events</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Set up an online platform (<a class="reference external" href="https://zoom.us/">Zoom</a>, or other accessible software) for remote collaboration</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Set up a form (see a template <a class="reference internal" href="bookdash-selection.html#ch-bookdash-application-additional-materials"><span class="std std-ref">here</span></a>) for application by updating the previous version of the form</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Discuss with co-organisers if some resources (such as email drafts or templates) need to be updated</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Write a short description for online advertisement</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Clearly state the following information in an application form and later communicate by email with the selected participants:</p>
 <ul>
 <li><p>what financial support will be available for either online or in-person events</p></li>
 <li><p>What arrangements will be available online (such as online helpers and designated mentors) or on-site (such as quiet room and child care) for in-person events</p></li>
@@ -2005,7 +2114,7 @@
 <li><p>Mention the maximum limit for financial support requests for online (such as for headphones) and in-person (such as for travel and accommodation) events</p></li>
 </ul>
 </li>
-<li><p>[ ] Set up the Book Dash Planning meeting to discuss these details before the announcement is sent out</p>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Set up the Book Dash Planning meeting to discuss these details before the announcement is sent out</p>
 <ul>
 <li><p>Find volunteers from the organisers who would like to host onboarding calls (1 week before the event)</p></li>
 <li><p>Find volunteers from the organisers who would like to host a GitHub introduction session (1 week before the event)</p></li>
@@ -2014,34 +2123,34 @@
 <li><p>Check with them if there is anything else they would like to suggest or get involved in</p></li>
 </ul>
 </li>
-<li><p>[ ] Announce in the newsletter and promote on Twitter at least 2-3 months in advance</p></li>
-<li><p>[ ] Think about who else needs to be invited, like Artists, speakers, more diverse participants</p></li>
-<li><p>[ ] Identify helpers from the core members and invite them</p></li>
-<li><p>[ ] Send a reminder in next newsletters with more details if needed</p></li>
-<li><p>[ ] Set an Eventbrite page with a registration code for the selected participants</p></li>
-<li><p>[ ] Close the application round in time (1-2 months ahead of the event)</p></li>
-<li><p>[ ] Set-up a form for reviewing applications (see <a class="reference internal" href="bookdash-application.html#ch-bookdash-application-rubrics"><span class="std std-ref">Rubrics for scoring applications</span></a> for details)</p></li>
-<li><p>[ ] Review applications in a designated panel (Book Dash Planning Committee) using Book Dash Rubrics for selection</p></li>
-<li><p>[ ] Set up another meeting with the Book Dash Planning Committee to discuss the applications and finalise the selection</p>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Announce in the newsletter and promote on Twitter at least 2-3 months in advance</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Think about who else needs to be invited, like Artists, speakers, more diverse participants</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Identify helpers from the core members and invite them</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Send a reminder in next newsletters with more details if needed</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Set an Eventbrite page with a registration code for the selected participants</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Close the application round in time (1-2 months ahead of the event)</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Set-up a form for reviewing applications (see <a class="reference internal" href="bookdash-application.html#ch-bookdash-application-rubrics"><span class="std std-ref">Rubrics for scoring applications</span></a> for details)</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Review applications in a designated panel (Book Dash Planning Committee) using Book Dash Rubrics for selection</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Set up another meeting with the Book Dash Planning Committee to discuss the applications and finalise the selection</p>
 <ul>
 <li><p>Use this meeting to also allocate tasks for during and after the event (indicate that on the GitHub issues)</p></li>
 </ul>
 </li>
-<li><p>[ ] Send an email to the selected attendees with registration</p></li>
-<li><p>[ ] Send an email to the unselected attendees with feedback</p></li>
-<li><p>[ ] Set up an email chain and a Slack channel to connect all members and share updates</p></li>
-<li><p>[ ] Update presentation for introducing the project to the participants on day-1 of the Book Dash</p></li>
-<li><p>[ ] Update shared HackMD for <code class="docutils literal notranslate"><span class="pre">pre-event</span> <span class="pre">calls&lt;ch-template-bookdash-precall&gt;</span></code>, <a class="reference internal" href="../templates/template-bookdash-notes.html#ch-template-bookdash-notes"><span class="std std-ref">book dash event</span></a> and <a class="reference internal" href="../templates/template-bookdash-feedback.html#ch-template-bookdash-feedback"><span class="std std-ref">feedback</span></a></p></li>
-<li><p>[ ] Provide details on Code of Conduct, contribution guideline and ways to get involved in an ongoing discussion</p></li>
-<li><p>[ ] Host the onboarding call one week before the event to share logistics and facilitate the drafting of SMART goals</p></li>
-<li><p>[ ] Group participants into the proposed working groups as per their SMART goals from the onboarding call</p></li>
-<li><p>[ ] Host the onboarding call one week before the event to share logistics and facilitate the drafting of SMART goals</p></li>
-<li><p>[ ] Send a reminder email to register on Eventbrite sharing important links and information including support grant, GitHub session, onboarding call info and reimbursement process</p></li>
-<li><p>[ ] Create a GitHub issue to collect bio and highlight of the participants to add them to the Contributors Record</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Send an email to the selected attendees with registration</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Send an email to the unselected attendees with feedback</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Set up an email chain and a Slack channel to connect all members and share updates</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Update presentation for introducing the project to the participants on day-1 of the Book Dash</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Update shared HackMD for <code class="docutils literal notranslate"><span class="pre">pre-event</span> <span class="pre">calls&lt;ch-template-bookdash-precall&gt;</span></code>, <a class="reference internal" href="../templates/template-bookdash-notes.html#ch-template-bookdash-notes"><span class="std std-ref">book dash event</span></a> and <a class="reference internal" href="../templates/template-bookdash-feedback.html#ch-template-bookdash-feedback"><span class="std std-ref">feedback</span></a></p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Provide details on Code of Conduct, contribution guideline and ways to get involved in an ongoing discussion</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Host the onboarding call one week before the event to share logistics and facilitate the drafting of SMART goals</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Group participants into the proposed working groups as per their SMART goals from the onboarding call</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Host the onboarding call one week before the event to share logistics and facilitate the drafting of SMART goals</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Send a reminder email to register on Eventbrite sharing important links and information including support grant, GitHub session, onboarding call info and reimbursement process</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Create a GitHub issue to collect bio and highlight of the participants to add them to the Contributors Record</p></li>
 </ul>
 <p><strong>Additional task for an online event</strong></p>
-<ul class="simple">
-<li><p>[ ] State the prerequisites to attend the event</p>
+<ul class="contains-task-list simple">
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> State the prerequisites to attend the event</p>
 <ul>
 <li><p>An active GitHub account</p></li>
 <li><p>Participation in at least one pre-event onboarding call or a Collaboration Cafe</p></li>
@@ -2050,32 +2159,32 @@
 <li><p>Willingness to collaborate with others</p></li>
 </ul>
 </li>
-<li><p>[ ] Ask them to choose at least one contribution session (2.5 hours) for each day of the Book Dash to ensure flexibility (rather than blocking the full day)</p></li>
-<li><p>[ ] Collect address if something needs to be posted</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Ask them to choose at least one contribution session (2.5 hours) for each day of the Book Dash to ensure flexibility (rather than blocking the full day)</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Collect address if something needs to be posted</p></li>
 </ul>
 <p><strong>Additional task for an in-person Event</strong></p>
-<ul class="simple">
-<li><p>[ ] Collate participants’ preference for travel, meal, accommodation, and accessibility request through the registration form</p></li>
-<li><p>[ ] Send an email to the participants regarding their travel, accommodation, schedule, and meal</p></li>
-<li><p>[ ] Book dinner for people for day-1</p></li>
-<li><p>[ ] Book hotels rooms for people who requested accommodation</p>
-<ul>
-<li><p>[ ] Double-check with each participant if their plan as given on their registration hasn’t changed</p></li>
+<ul class="contains-task-list simple">
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Collate participants’ preference for travel, meal, accommodation, and accessibility request through the registration form</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Send an email to the participants regarding their travel, accommodation, schedule, and meal</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Book dinner for people for day-1</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Book hotels rooms for people who requested accommodation</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Double-check with each participant if their plan as given on their registration hasn’t changed</p></li>
 </ul>
 </li>
-<li><p>[ ] Book travel for those who requested</p>
-<ul>
-<li><p>[ ] Double-check with each participant if their plan as given on their registration hasn’t changed</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Book travel for those who requested</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Double-check with each participant if their plan as given on their registration hasn’t changed</p></li>
 </ul>
 </li>
-<li><p>[ ] Book catering for lunch and coffee breaks</p></li>
-<li><p>[ ] Mention that the event will offer a vegetarian meal as default - and ask participants to get in touch if another meal type is required</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Book catering for lunch and coffee breaks</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Mention that the event will offer a vegetarian meal as default - and ask participants to get in touch if another meal type is required</p></li>
 </ul>
 </div>
 <div class="section" id="during-the-event">
 <h2>During the Event<a class="headerlink" href="#during-the-event" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li><p>[ ] Run onboarding sessions on the first day</p>
+<ul class="contains-task-list simple">
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Run onboarding sessions on the first day</p>
 <ul>
 <li><p>Welcome everyone (for each slot)</p></li>
 <li><p>Ask to fill the icebreaker</p></li>
@@ -2083,7 +2192,7 @@
 <li><p>Create breakout groups for people working on</p></li>
 </ul>
 </li>
-<li><p>[ ] Host coworking sessions with Pomodoro sessions 30-35 mins long</p>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Host coworking sessions with Pomodoro sessions 30-35 mins long</p>
 <ul>
 <li><p>At the beginning of the session, ask people to document or verbally share their plan for the session</p></li>
 <li><p>End each session with any report people want to make</p></li>
@@ -2091,28 +2200,28 @@
 <li><p>Keep last 10 minutes for final reporting and co-documenting the work that took place during the Pomodoro</p></li>
 </ul>
 </li>
-<li><p>[ ] If an artist, illustrator or consultant is invited, coordinate the schedule with participants so they have the chance to engage</p></li>
-<li><p>[ ] Run a social session each day</p>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> If an artist, illustrator or consultant is invited, coordinate the schedule with participants so they have the chance to engage</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Run a social session each day</p>
 <ul>
 <li><p>These are run by organisers to ensure everyone has the chance to connect informally</p></li>
 </ul>
 </li>
-<li><p>[ ] Host community share out the event on the last day to demonstrate and celebrate the contributions made by everyone during the Book Dash</p></li>
-<li><p>[ ] Ask for feedback on the last day (plus and delta)</p></li>
-<li><p>[ ] Share the GitHub issue for adding bio and highlight</p></li>
-<li><p>[ ] Take screenshots or group photos (with permission) to share in reports or social media</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Host community share out the event on the last day to demonstrate and celebrate the contributions made by everyone during the Book Dash</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Ask for feedback on the last day (plus and delta)</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Share the GitHub issue for adding bio and highlight</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Take screenshots or group photos (with permission) to share in reports or social media</p></li>
 </ul>
 </div>
 <div class="section" id="after-the-event">
 <h2>After the Event<a class="headerlink" href="#after-the-event" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li><p>[ ] Send a thank you email to everyone for their work</p></li>
-<li><p>[ ] Move bio and highlight from the GitHub issue to the Contributors Record</p></li>
-<li><p>[ ] Summarise the event (number of pull requests, issue, chapters, and other significant news) to share with the participants</p></li>
-<li><p>[ ] Share the update via the newsletter</p></li>
-<li><p>[ ] Develop a report with highlights and updates on GitHub</p></li>
-<li><p>[ ] Set up a debrief meeting with the planning committee</p></li>
-<li><p>[ ] Send a thank you note (or a package when possible) to the planning committee</p></li>
+<ul class="contains-task-list simple">
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Send a thank you email to everyone for their work</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Move bio and highlight from the GitHub issue to the Contributors Record</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Summarise the event (number of pull requests, issue, chapters, and other significant news) to share with the participants</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Share the update via the newsletter</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Develop a report with highlights and updates on GitHub</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Set up a debrief meeting with the planning committee</p></li>
+<li class="task-list-item"><p><input class="task-list-item-checkbox" disabled="disabled" type="checkbox"> Send a thank you note (or a package when possible) to the planning committee</p></li>
 </ul>
 </div>
 </div>
@@ -2139,44 +2248,42 @@
 
               </div>
               
-        
-        <div class='prev-next-bottom'>
             
-    <a class='left-prev' id="prev-link" href="bookdash-application.html" title="previous page">Application and Review Process</a>
-    <a class='right-next' id="next-link" href="bookdash-selection.html" title="next page">Participant Selection Process</a>
-
+                <!-- Previous / next buttons -->
+<div class='prev-next-area'> 
+    <a class='left-prev' id="prev-link" href="bookdash-application.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">Application and Review Process</p>
         </div>
-        
+    </a>
+    <a class='right-next' id="next-link" href="bookdash-selection.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Participant Selection Process</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
+</div>
+            
         </div>
     </div>
-    <footer class="footer mt-5 mt-md-0">
-    <div class="container">
-      <p>
-        
-          By The Turing Way Community<br/>
-        
-            &copy; Copyright 2020-2021.<br/>
-      </p>
-    </div>
-  </footer>
+    <footer class="footer">
+  <p>
+    
+      By The Turing Way Community<br/>
+    
+        &copy; Copyright 2020-2021.<br/>
+  </p>
+</footer>
 </main>
 
 
       </div>
     </div>
   
-  <script src="../../_static/js/index.1c5a1a01449ed65a7b51.js"></script>
-
-  
-<script async="" src="https://www.google-analytics.com/analytics.js"></script>
-<script>
-                        window.ga = window.ga || function () {
-                            (ga.q = ga.q || []).push(arguments) };
-                        ga.l = +new Date;
-                        ga('create', 'UA-167881009-1', 'auto');
-                        ga('set', 'anonymizeIp', true);
-                        ga('send', 'pageview');
-                    </script>
+  <script src="../../_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
 
   </body>
 </html>

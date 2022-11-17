@@ -2,7 +2,6 @@
 
 ## Localisation Platforms and Translation
 
-
 Localization (l10n) and internationalization (i18n) are important aspects in the design of any open-source project or documents.  Internationalization allows open-source project to support and satisfy the needs of multiple locales, thus “enabling” localization, which is the adaptation of it to meet the language, cultural of a specific target locale.  World Wide Web Consortium (W3C) define internationalization (i18n) as:
 > "The design and development of a product, application or document content that enables easy localization for target audiences that vary in culture, region, or language"
 

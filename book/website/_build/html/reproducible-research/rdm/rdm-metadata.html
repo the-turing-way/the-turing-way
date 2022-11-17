@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Documentation and Metadata &#8212; The Turing Way</title>
     
-  <link href="../../_static/css/theme.css" rel="stylesheet" />
-  <link href="../../_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
+  <link href="../../_static/css/theme.css" rel="stylesheet">
+  <link href="../../_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -22,8 +22,8 @@
       
 
     
-    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" href="../../_static/sphinx-book-theme.e8e5499552300ddf5d7adccae7cc3b70.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
     <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/mystnb.css" />
@@ -32,9 +32,9 @@
     <link rel="stylesheet" type="text/css" href="../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
     
-  <link rel="preload" as="script" href="../../_static/js/index.1c5a1a01449ed65a7b51.js">
+  <link rel="preload" as="script" href="../../_static/js/index.be7d3bbb2ef33a8344ce.js">
 
-    <script id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+    <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js"></script>
     <script src="../../_static/jquery.js"></script>
     <script src="../../_static/underscore.js"></script>
     <script src="../../_static/doctools.js"></script>
@@ -42,10 +42,10 @@
     <script src="../../_static/clipboard.min.js"></script>
     <script src="../../_static/copybutton.js"></script>
     <script async="async" kind="hypothesis" src="https://hypothes.is/embed.js"></script>
-    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="../../_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
-    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
-    <script >
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../../_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
+    <script>
         const thebe_selector = ".thebe"
         const thebe_selector_input = "pre"
         const thebe_selector_output = ".output"
@@ -58,8 +58,21 @@
     <link rel="next" title="Sharing and Archiving Data" href="rdm-sharing.html" />
     <link rel="prev" title="Data Organisation in Spreadsheets" href="rdm-spreadsheets.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="docsearch:language" content="en" />
+    <meta name="docsearch:language" content="en">
     
+
+    <!-- Google Analytics -->
+    
+<script async="" src="https://www.google-analytics.com/analytics.js"></script>
+<script>
+                        window.ga = window.ga || function () {
+                            (ga.q = ga.q || []).push(arguments) };
+                        ga.l = +new Date;
+                        ga('create', 'UA-167881009-1', 'auto');
+                        ga('set', 'anonymizeIp', true);
+                        ga('send', 'pageview');
+                    </script>
+
   </head>
   <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
     
@@ -75,6 +88,10 @@
         <div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="../../index.html">
       
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
       <img src="../../_static/logo.jpg" class="logo" alt="logo">
       
       
@@ -84,7 +101,7 @@
 </div><form class="bd-search d-flex align-items-center" action="../../search.html" method="get">
   <i class="icon fas fa-search"></i>
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
-</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
         <ul class="nav bd-sidenav">
  <li class="toctree-l1">
@@ -1122,8 +1139,30 @@
        Personal Stories - Large Collaborative Research Community
       </a>
      </li>
+    </ul>
+   </li>
+   <li class="toctree-l2 has-children">
+    <a class="reference internal" href="../../communication/peer-review.html">
+     Peer Review
+    </a>
+    <input class="toctree-checkbox" id="toctree-checkbox-32" name="toctree-checkbox-32" type="checkbox"/>
+    <label for="toctree-checkbox-32">
+     <i class="fas fa-chevron-down">
+     </i>
+    </label>
+    <ul>
      <li class="toctree-l3">
-      <a class="reference internal" href="../../communication/aa/aa-resources.html">
+      <a class="reference internal" href="../../communication/peer-review/peer-review-overview.html">
+       Peer Review
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../communication/peer-review/peer-review-guidance.html">
+       Guidance on Peer Review for a Journal
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../communication/peer-review/peer-review-resources.html">
        Resources
       </a>
      </li>
@@ -1133,8 +1172,8 @@
     <a class="reference internal" href="../../communication/binder.html">
      Binder
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-32" name="toctree-checkbox-32" type="checkbox"/>
-    <label for="toctree-checkbox-32">
+    <input class="toctree-checkbox" id="toctree-checkbox-33" name="toctree-checkbox-33" type="checkbox"/>
+    <label for="toctree-checkbox-33">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1152,8 +1191,8 @@
   <a class="reference internal" href="../../collaboration/collaboration.html">
    Guide for Collaboration
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-33" name="toctree-checkbox-33" type="checkbox"/>
-  <label for="toctree-checkbox-33">
+  <input class="toctree-checkbox" id="toctree-checkbox-34" name="toctree-checkbox-34" type="checkbox"/>
+  <label for="toctree-checkbox-34">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -1162,8 +1201,8 @@
     <a class="reference internal" href="../../collaboration/github-novice.html">
      Getting Started With GitHub
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-34" name="toctree-checkbox-34" type="checkbox"/>
-    <label for="toctree-checkbox-34">
+    <input class="toctree-checkbox" id="toctree-checkbox-35" name="toctree-checkbox-35" type="checkbox"/>
+    <label for="toctree-checkbox-35">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1194,8 +1233,8 @@
     <a class="reference internal" href="../../collaboration/maintain-review.html">
      Maintainers and Reviewers on GitHub
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-35" name="toctree-checkbox-35" type="checkbox"/>
-    <label for="toctree-checkbox-35">
+    <input class="toctree-checkbox" id="toctree-checkbox-36" name="toctree-checkbox-36" type="checkbox"/>
+    <label for="toctree-checkbox-36">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1231,8 +1270,8 @@
     <a class="reference internal" href="../../collaboration/new-community.html">
      Managing a New Community and Team
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-36" name="toctree-checkbox-36" type="checkbox"/>
-    <label for="toctree-checkbox-36">
+    <input class="toctree-checkbox" id="toctree-checkbox-37" name="toctree-checkbox-37" type="checkbox"/>
+    <label for="toctree-checkbox-37">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1263,8 +1302,8 @@
     <a class="reference internal" href="../../collaboration/leadership.html">
      Leadership in Data Science
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-37" name="toctree-checkbox-37" type="checkbox"/>
-    <label for="toctree-checkbox-37">
+    <input class="toctree-checkbox" id="toctree-checkbox-38" name="toctree-checkbox-38" type="checkbox"/>
+    <label for="toctree-checkbox-38">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1280,8 +1319,8 @@
     <a class="reference internal" href="../../collaboration/research-infrastructure-roles.html">
      Research Infrastructure Roles
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-38" name="toctree-checkbox-38" type="checkbox"/>
-    <label for="toctree-checkbox-38">
+    <input class="toctree-checkbox" id="toctree-checkbox-39" name="toctree-checkbox-39" type="checkbox"/>
+    <label for="toctree-checkbox-39">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1317,8 +1356,8 @@
     <a class="reference internal" href="../../collaboration/remote-collab.html">
      Remote Collaboration
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-39" name="toctree-checkbox-39" type="checkbox"/>
-    <label for="toctree-checkbox-39">
+    <input class="toctree-checkbox" id="toctree-checkbox-40" name="toctree-checkbox-40" type="checkbox"/>
+    <label for="toctree-checkbox-40">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1379,8 +1418,8 @@
     <a class="reference internal" href="../../collaboration/shared-ownership.html">
      Shared Ownership in Open Source Projects
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-40" name="toctree-checkbox-40" type="checkbox"/>
-    <label for="toctree-checkbox-40">
+    <input class="toctree-checkbox" id="toctree-checkbox-41" name="toctree-checkbox-41" type="checkbox"/>
+    <label for="toctree-checkbox-41">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1413,8 +1452,8 @@
   <a class="reference internal" href="../../ethical-research/ethical-research.html">
    Guide for Ethical Research
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-41" name="toctree-checkbox-41" type="checkbox"/>
-  <label for="toctree-checkbox-41">
+  <input class="toctree-checkbox" id="toctree-checkbox-42" name="toctree-checkbox-42" type="checkbox"/>
+  <label for="toctree-checkbox-42">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -1438,8 +1477,8 @@
     <a class="reference internal" href="../../ethical-research/law-policy.html">
      Law, Policy and Human Rights in Ethics
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-42" name="toctree-checkbox-42" type="checkbox"/>
-    <label for="toctree-checkbox-42">
+    <input class="toctree-checkbox" id="toctree-checkbox-43" name="toctree-checkbox-43" type="checkbox"/>
+    <label for="toctree-checkbox-43">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1465,8 +1504,8 @@
     <a class="reference internal" href="../../ethical-research/activism.html">
      Activism for Researchers
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-43" name="toctree-checkbox-43" type="checkbox"/>
-    <label for="toctree-checkbox-43">
+    <input class="toctree-checkbox" id="toctree-checkbox-44" name="toctree-checkbox-44" type="checkbox"/>
+    <label for="toctree-checkbox-44">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1502,8 +1541,8 @@
     <a class="reference internal" href="../../ethical-research/self-reflection.html">
      Self-Reflection
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-44" name="toctree-checkbox-44" type="checkbox"/>
-    <label for="toctree-checkbox-44">
+    <input class="toctree-checkbox" id="toctree-checkbox-45" name="toctree-checkbox-45" type="checkbox"/>
+    <label for="toctree-checkbox-45">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1536,8 +1575,8 @@
   <a class="reference internal" href="../../community-handbook/community-handbook.html">
    Community Handbook
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-45" name="toctree-checkbox-45" type="checkbox"/>
-  <label for="toctree-checkbox-45">
+  <input class="toctree-checkbox" id="toctree-checkbox-46" name="toctree-checkbox-46" type="checkbox"/>
+  <label for="toctree-checkbox-46">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -1546,8 +1585,8 @@
     <a class="reference internal" href="../../community-handbook/coc.html">
      Code of Conduct
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-46" name="toctree-checkbox-46" type="checkbox"/>
-    <label for="toctree-checkbox-46">
+    <input class="toctree-checkbox" id="toctree-checkbox-47" name="toctree-checkbox-47" type="checkbox"/>
+    <label for="toctree-checkbox-47">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1578,8 +1617,8 @@
     <a class="reference internal" href="../../community-handbook/style.html">
      Style Guide
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-47" name="toctree-checkbox-47" type="checkbox"/>
-    <label for="toctree-checkbox-47">
+    <input class="toctree-checkbox" id="toctree-checkbox-48" name="toctree-checkbox-48" type="checkbox"/>
+    <label for="toctree-checkbox-48">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1615,8 +1654,8 @@
     <a class="reference internal" href="../../community-handbook/consistency.html">
      Maintaining Consistency
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-48" name="toctree-checkbox-48" type="checkbox"/>
-    <label for="toctree-checkbox-48">
+    <input class="toctree-checkbox" id="toctree-checkbox-49" name="toctree-checkbox-49" type="checkbox"/>
+    <label for="toctree-checkbox-49">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1642,8 +1681,8 @@
     <a class="reference internal" href="../../community-handbook/contributing.html">
      Contributing and Developing Chapters - Templates and Workflow
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-49" name="toctree-checkbox-49" type="checkbox"/>
-    <label for="toctree-checkbox-49">
+    <input class="toctree-checkbox" id="toctree-checkbox-50" name="toctree-checkbox-50" type="checkbox"/>
+    <label for="toctree-checkbox-50">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1664,8 +1703,8 @@
     <a class="reference internal" href="../../community-handbook/acknowledgement.html">
      Acknowledging Contributors
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-50" name="toctree-checkbox-50" type="checkbox"/>
-    <label for="toctree-checkbox-50">
+    <input class="toctree-checkbox" id="toctree-checkbox-51" name="toctree-checkbox-51" type="checkbox"/>
+    <label for="toctree-checkbox-51">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1688,11 +1727,48 @@
     </ul>
    </li>
    <li class="toctree-l2 has-children">
+    <a class="reference internal" href="../../community-handbook/translation.html">
+     Translation
+    </a>
+    <input class="toctree-checkbox" id="toctree-checkbox-52" name="toctree-checkbox-52" type="checkbox"/>
+    <label for="toctree-checkbox-52">
+     <i class="fas fa-chevron-down">
+     </i>
+    </label>
+    <ul>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../community-handbook/translation/localisation.html">
+       Translation of Open Source Projects
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../community-handbook/translation/getting-started.html">
+       Get Started Now!
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../community-handbook/translation/hello-crowdin.html">
+       Demystifying Crowdin!
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../community-handbook/translation/illustrations.html">
+       l10n of the Illustrations
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="../../community-handbook/translation/workflow.html">
+       Translation Workflow
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toctree-l2 has-children">
     <a class="reference internal" href="../../community-handbook/newsletters.html">
      Monthly Newsletters
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-51" name="toctree-checkbox-51" type="checkbox"/>
-    <label for="toctree-checkbox-51">
+    <input class="toctree-checkbox" id="toctree-checkbox-53" name="toctree-checkbox-53" type="checkbox"/>
+    <label for="toctree-checkbox-53">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1718,8 +1794,8 @@
     <a class="reference internal" href="../../community-handbook/bookdash.html">
      Book Dash Events
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-52" name="toctree-checkbox-52" type="checkbox"/>
-    <label for="toctree-checkbox-52">
+    <input class="toctree-checkbox" id="toctree-checkbox-54" name="toctree-checkbox-54" type="checkbox"/>
+    <label for="toctree-checkbox-54">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1755,8 +1831,8 @@
     <a class="reference internal" href="../../community-handbook/coworking.html">
      Community Coworking Calls
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-53" name="toctree-checkbox-53" type="checkbox"/>
-    <label for="toctree-checkbox-53">
+    <input class="toctree-checkbox" id="toctree-checkbox-55" name="toctree-checkbox-55" type="checkbox"/>
+    <label for="toctree-checkbox-55">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1787,8 +1863,8 @@
     <a class="reference internal" href="../../community-handbook/templates.html">
      Template Collection
     </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-54" name="toctree-checkbox-54" type="checkbox"/>
-    <label for="toctree-checkbox-54">
+    <input class="toctree-checkbox" id="toctree-checkbox-56" name="toctree-checkbox-56" type="checkbox"/>
+    <label for="toctree-checkbox-56">
      <i class="fas fa-chevron-down">
      </i>
     </label>
@@ -1841,8 +1917,8 @@
   <a class="reference internal" href="../../afterword/afterword.html">
    Afterword
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-55" name="toctree-checkbox-55" type="checkbox"/>
-  <label for="toctree-checkbox-55">
+  <input class="toctree-checkbox" id="toctree-checkbox-57" name="toctree-checkbox-57" type="checkbox"/>
+  <label for="toctree-checkbox-57">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -1915,7 +1991,7 @@
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
         <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
     </div>
 </div>
 
@@ -1951,12 +2027,12 @@
         </div>
 
         <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show">
+        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
             
             <div class="tocsection onthispage pt-5 pb-3">
                 <i class="fas fa-list"></i> Contents
             </div>
-            <nav id="bd-toc-nav">
+            <nav id="bd-toc-nav" aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#documentation">
@@ -1983,10 +2059,45 @@
 </div>
     <div id="main-content" class="row">
         <div class="col-12 col-md-9 pl-md-3 pr-md-0">
-        
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Documentation and Metadata</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#documentation">
+   Documentation
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#metadata">
+   Metadata
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#community-standards-metadata">
+     Community Standards - Metadata
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            
               <div>
                 
-  <div class="section" id="documentation-and-metadata">
+  <div class="tex2jax_ignore mathjax_ignore section" id="documentation-and-metadata">
 <span id="rr-rdm-metadata"></span><h1>Documentation and Metadata<a class="headerlink" href="#documentation-and-metadata" title="Permalink to this headline">¶</a></h1>
 <p>Having data available is of no use if it cannot be understood. Without metadata to provide provenance and context, the data can’t be used effectively.
 For example, a table of numbers is useless if no headings describe what the columns/rows contain.
@@ -1995,16 +2106,21 @@ This requires that information accompanying data is captured in documentation an
 <div class="section" id="documentation">
 <h2>Documentation<a class="headerlink" href="#documentation" title="Permalink to this headline">¶</a></h2>
 <p>Documentation provides context for your work.
-It allows your collaborators, colleagues and future you to understand what has been done and why.
-Data documentation can be done on different levels.
+It allows your collaborators, colleagues and future you to understand what has been done and why.</p>
+<p>Data documentation can be done on different levels.
 All documentation accompanying data should be written in clear, plain language.
 Documentation allows data users have sufficient information to understand the source, strengths, weaknesses, and analytical limitations of the data so that they can make informed decisions when using it.</p>
+<div class="figure align-default" id="id1">
+<img alt="The figure goes through a dark wood setting lights alongthe way. The lights are blocks of text - one can see that these are pieces of documentation. They make it easy for collegues to find their way. In the darkness one sees another figure - someon got lost in the woods where no documentation was available." src="../../_images/documentation.jpg" />
+<p class="caption"><span class="caption-number">Fig. 37 </span><span class="caption-text">Illustration about peer review.
+<em>The Turing Way</em> project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.</span><a class="headerlink" href="#id1" title="Permalink to this image">¶</a></p>
+</div>
 </div>
 <div class="section" id="metadata">
 <h2>Metadata<a class="headerlink" href="#metadata" title="Permalink to this headline">¶</a></h2>
 <p>Metadata is information about the data, descriptors that facilitate cataloguing data and data discovery.
-Often, metadata are intended for machine reading.
-When data is submitted to a trusted data repository, the machine-readable metadata is generated by the repository.
+Often, metadata are intended for machine reading.</p>
+<p>When data is submitted to a trusted data repository, the machine-readable metadata is generated by the repository.
 If the data is not in a repository a text file with machine-readable metadata can be added as part of the documentation.</p>
 <ul class="simple">
 <li><p>The type of research and the nature of the data also influence what kind of documentation is necessary.</p></li>
@@ -2012,22 +2128,19 @@ If the data is not in a repository a text file with machine-readable metadata ca
 <li><p>Examples of documentation may include items like <a class="reference external" href="https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary">data dictionaries</a> or codebooks, protocols, logbooks or lab journals, README files, research logs, analysis syntax, algorithms and code comments.</p></li>
 <li><p>Variables should be defined and explained using data dictionaries or codebooks.</p></li>
 <li><p>Data should be stored in logical and hierarchical folder structures, with a README file used to describe the structure.
-The README file is helpful for others and will also help you find your data in the future <span id="id1">[<a class="reference internal" href="../../afterword/bibliography.html#id19">FK18</a>]</span>.
+The README file is helpful for others and will also help you find your data in the future <span id="id2">[<a class="reference internal" href="../../afterword/bibliography.html#id19">FK18</a>]</span>.
 See the <a class="reference external" href="https://cornell.app.box.com/v/ReadmeTemplate">README template from Cornell</a> for an example.</p></li>
 <li><p>It is best practice to use recognised community metadata standards to make it easier for datasets to be combined.</p></li>
 </ul>
 <div class="section" id="community-standards-metadata">
 <span id="rr-rdm-metadata-standards"></span><h3>Community Standards - Metadata<a class="headerlink" href="#community-standards-metadata" title="Permalink to this headline">¶</a></h3>
-<p>The use of community-defined standards for metadata is vital for reproducible research and allows for the comparison of heterogeneous data from multiple sources, domains and disciplines.</p>
-<p>Metadata standards include content and structural standards.
-The content standards explain what information should be recorded when describing a particular type of resource and how that information should be recorded.
-While the structural standards define what the fields are and what types of information should be recorded in them.</p>
-<p>Metadata standards are also discipline-specific.
+<p>The use of community-defined standards for metadata is vital for reproducible research and allows for the comparison of heterogeneous data from multiple sources, domains and disciplines.
+Metadata standards are also discipline-specific.
 For example, for brain data, the <a class="reference external" href="https://doi.org/10.25504/FAIRsharing.rd1j6t">Brain Imaging Data Structure</a> is the standard to use.
 Not every discipline may use metadata standards, however.
 You can see if your discipline uses metadata standards through <a class="reference external" href="https://fairsharing.org/">FAIRsharing</a>, a resource to identify and cite the metadata or identifier schemas, databases or repositories that exist for your data and discipline.
-There are also situations when researchers make use of more general metadata standards, for example when they use a generic archive to store their data they have to adhere to the metadata standards of the archive.
-In this case, a text file with discipline-specific metadata can be added as part of the documentation.</p>
+There are also situations when researchers make use of more general metadata standards, for example when they use a generic archive to store their data they have to adhere to the metadata standards of the archive.</p>
+<p>In this case, a text file with discipline specific metadata can be added as part of the documentation.</p>
 </div>
 </div>
 </div>
@@ -2054,44 +2167,42 @@ In this case, a text file with discipline-specific metadata can be added as part
 
               </div>
               
-        
-        <div class='prev-next-bottom'>
             
-    <a class='left-prev' id="prev-link" href="rdm-spreadsheets.html" title="previous page">Data Organisation in Spreadsheets</a>
-    <a class='right-next' id="next-link" href="rdm-sharing.html" title="next page">Sharing and Archiving Data</a>
-
+                <!-- Previous / next buttons -->
+<div class='prev-next-area'> 
+    <a class='left-prev' id="prev-link" href="rdm-spreadsheets.html" title="previous page">
+        <i class="fas fa-angle-left"></i>
+        <div class="prev-next-info">
+            <p class="prev-next-subtitle">previous</p>
+            <p class="prev-next-title">Data Organisation in Spreadsheets</p>
         </div>
-        
+    </a>
+    <a class='right-next' id="next-link" href="rdm-sharing.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Sharing and Archiving Data</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
+</div>
+            
         </div>
     </div>
-    <footer class="footer mt-5 mt-md-0">
-    <div class="container">
-      <p>
-        
-          By The Turing Way Community<br/>
-        
-            &copy; Copyright 2020-2021.<br/>
-      </p>
-    </div>
-  </footer>
+    <footer class="footer">
+  <p>
+    
+      By The Turing Way Community<br/>
+    
+        &copy; Copyright 2020-2021.<br/>
+  </p>
+</footer>
 </main>
 
 
       </div>
     </div>
   
-  <script src="../../_static/js/index.1c5a1a01449ed65a7b51.js"></script>
-
-  
-<script async="" src="https://www.google-analytics.com/analytics.js"></script>
-<script>
-                        window.ga = window.ga || function () {
-                            (ga.q = ga.q || []).push(arguments) };
-                        ga.l = +new Date;
-                        ga('create', 'UA-167881009-1', 'auto');
-                        ga('set', 'anonymizeIp', true);
-                        ga('send', 'pageview');
-                    </script>
+  <script src="../../_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
 
   </body>
 </html>
