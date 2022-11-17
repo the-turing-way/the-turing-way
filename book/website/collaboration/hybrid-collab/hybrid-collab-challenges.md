@@ -1,5 +1,5 @@
-(cl-hybrid-collab-participation)=
-# Participating in Hybrid Events
+(cl-hybrid-collab-challenges)=
+# Challenges faced during Hybrid Collaboration
 
 - Online is bit rigid
 - Following an online schedule for in-person is not practical. consider deviating from the schedule and check in at set points to allow for connecting but also not have a super rigid structure that doesn't work in person.
