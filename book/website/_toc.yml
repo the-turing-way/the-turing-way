@@ -108,6 +108,8 @@ parts:
                 file: reproducible-research/rdm/rdm-spreadsheets
               - title: Documentation and Metadata
                 file: reproducible-research/rdm/rdm-metadata
+              - title: Data Curation
+                file: reproducible-research/rdm/rdm-data-curation
               - title: Sharing and Archiving Data
                 file: reproducible-research/rdm/rdm-sharing
               - title: Data Article
@@ -325,7 +327,7 @@ parts:
               - title: Working with Trusted Research Environments
                 file: project-design/sdpw/trew
               - title: Privacy Preserving Machine Learning
-                file: project-design/sdpw/pd-sdp-private-learning.md
+                file: project-design/sdpw/pd-sdp-private-learning
               - title: Keeping Sensitive Files Secure
                 file: project-design/sdpw/pd-sdp-sensitive-files
               - title: Sharing Your Jupyter Notebook

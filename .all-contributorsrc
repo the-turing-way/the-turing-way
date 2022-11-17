@@ -2751,7 +2751,8 @@
         "content",
         "ideas",
         "maintenance",
-        "doc"
+        "doc",
+        "review"
       ]
     },
     {
@@ -3893,6 +3894,61 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/104580892?v=4",
       "profile": "https://github.com/russellmartin321",
       "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "sradicwebster",
+      "name": "Stefan Radic Webster",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56719930?v=4",
+      "profile": "https://sradicwebster.me/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "KatrionaGoldmann",
+      "name": "Katriona Goldmann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25952322?v=4",
+      "profile": "https://katrionagoldmann.github.io",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "egpbos",
+      "name": "Patrick Bos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6146598?v=4",
+      "profile": "http://egpbos.nl",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "radifar",
+      "name": "Muhammad Radifar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11450417?v=4",
+      "profile": "http://radifar.github.io",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "klbarnes20",
+      "name": "Kelly Barnes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64787509?v=4",
+      "profile": "https://github.com/klbarnes20",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Varachkina",
+      "name": "Varachkina",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22443239?v=4",
+      "profile": "https://gitlab.gwdg.de/users/hanna.varachkina/contributed",
+      "contributions": [
+        "content",
         "bug"
       ]
     }
