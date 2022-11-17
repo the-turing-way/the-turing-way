@@ -9,7 +9,7 @@ For example, a person’s name, address or other unique identifier such as their
 
 [“Data related to the deceased are not considered personal data in most cases under the GDPR.”](https://gdpr.eu/eu-gdpr-personal-data/) 
 
-##### Direct identifiers
+### Direct identifiers
 
 ["A person is directly identifiable if it’s possible to identify them using nothing but information (identifiers) at hand, controlled and processed, without introducing additional data from external sources (for example, first and last name)."](https://infranet.hr/infranet-blog/direct-identification-of-an-individual-using-personal-data/)
 
@@ -21,13 +21,13 @@ The information would particularly include, but not limited to:
 
 The set of attributes would clearly be able to identify the individuals by means of their common traits (like their name, and address) and distinguishable or unique traits (like eye colour, hair colour, or height), even depending on certain contexts (like membership information).
 
-##### Indirect identifiers
+### Indirect identifiers
 
 Indirect identifiers could include health, economic, cultural or social characteristics. Any information that, either alone or in aggregate could allow people to identify individuals. 
 Especially when a certain combination of these identifiers and additional ones are used to identify a person, care must be taken to manage the data properly. 
 Additional identifiers could include information from a third party or a different source.
 
-### What does sensitive data look like and how do we deal with it?
+## What does sensitive data look like and how do we deal with it?
 
 Particularly sensitive data include data relating to a person’s:
 * racial/ethnic identity
