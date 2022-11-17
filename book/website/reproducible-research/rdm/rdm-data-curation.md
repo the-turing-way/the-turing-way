@@ -30,4 +30,4 @@ Data access entails distributing data, sharing data, publishing data, linking da
 Read more information here:
 
 ### 7. Data transformation
-Data transformation is a practice of examining large datasets to generate new information. You can re-analysis the research data and make relationships that may not have been previously discovered. 
+Data transformation is the practice of examining large datasets to generate new information. You can re-analysis the research data and make relationships that may not have been previously discovered. 
