@@ -12,9 +12,6 @@ Therefore, this short guide aims to raise awareness of the RSE role, outline pat
 As already mentioned, RSEs can come from a wide range of backgrounds. It is important to mention, however, that the overarching characteristic element of all RSEs is that the output of their research is not papers, but software and toolboxes (which might be accompanied by an overview paper or published manual).   Thus, an important step to allow the acknowledgement of research software work  has been setting up policies that allow the assignment of DOIs for dataset and software for example by the FFORCE11 Software Citation Working Group  {cite:ps}`smith2016software,Cohen2021FourPillars`.
 The challenges that are created by shifting the focus of output of research away from the traditional research output will be discussed later. 
 
-https://ieeexplore.ieee.org/abstract/document/8994167
-
-
 
 Additionally, RSEs can also be PIs and run their own independent research projects, depending on the institution and policies of the projects they are working on. 
 
@@ -29,7 +26,7 @@ RSEs are also likely to understand concepts such as agile development, integrati
 
 ## Challenges for Research Software Engineers
 * Lack of formal pathways for development
-* Production of software and tools not always recognised as a research output 
+ A second barrier is that the *production of software and tools not always recognised as a research output*.  Instead, the current metric to judge a researcher si the number of papers papers that they produce, with little focus on te quality of the underlying code, or outputs that are not publishable in the traditional paper or pdf format, such as software. As already mentioned, efforts to provide DOIs and citeable identifiers for software and data sets are an important step towards acknowledgeing software as research output. 
 * RSEs not viewed as researchers in their own right
 * Adjusting to working on different projects, possibly far from their original background 
 
