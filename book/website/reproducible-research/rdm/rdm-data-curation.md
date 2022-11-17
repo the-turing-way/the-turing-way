@@ -19,7 +19,7 @@ Data appraisal and selection are fundamental stages in the data curation process
 Data disposal involves disposing of data that has not be selected for retention. You need to have an appraisal policy which will guide you on the data required for archiving, redeployment, transfer of custody or ownership or destroying the research Data 
 
 ### 4. Data description
-Data description requires that you are able to interpret the data; derive data; produce research outputs; author publications; data anonymisation; data visualization; data validation  and prepare the data for preservation. So  its important  you describe the research data so that it is discoverable and usable over time. There are also  metadata standard that already exist to help you with standardised descriptions. 
+Data description requires that you are able to interpret the data; derive data; produce research outputs; author publications; data anonymisation; data visualization; data validation  and prepare the data for preservation. So it is important that you describe the research data so that it is discoverable and usable over time. There are also  metadata standard that already exist to help you with standardised descriptions. 
 
 ### 5. Data preservation
 Please find more information using this link:
