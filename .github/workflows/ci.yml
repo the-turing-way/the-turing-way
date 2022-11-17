@@ -50,7 +50,7 @@ jobs:
       - name: Build Jupyter-Book
         run: |
           cd ./book/website
-          jupyter-book build .
+          jupyter-book build . -W --keep-going
 
       - name: Run html proofer
         if: matrix.os == 'ubuntu-latest'
