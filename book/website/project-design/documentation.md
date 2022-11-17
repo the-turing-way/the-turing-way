@@ -1,5 +1,31 @@
 [DRAFT]
 
+# Documentation
+
+Documentation is one of the key components of a project, as it adds context to your work.
+
+{Most researchers find documentation daunting, as they think that research-related responsibilities are already overwhelming for them. It’s obvious that they see documentation as an ‘added labour’ and not important enough for carrying out a research design, implementation, analysis or publication work.
+
+The reality is that documentation is an integral part of all research processes, from start to finish. [Add reference to <https://carpentries-incubator.github.io/managing-computational-projects/03-setup/index.html#provide-a-process-for-documentation>]}
+
+## Why Document?
+
+Add <https://carpentries-incubator.github.io/managing-computational-projects/03-setup/index.html#a-systematic-process-for-documentation-is-more-than-a-formal-book-keeping-practice-because-it>
+
+## ? Facilitating Documentation
+
+<https://carpentries-incubator.github.io/managing-computational-projects/03-setup/index.html#facilitating-documentation-in-your-team>
+
+## Platforms and Services for Documentation
+
+### GitHub
+
+### Read the Docs
+
+### ? GitBook
+
+### ? Jupyter Book
+
 ## Outline
 
 - About
