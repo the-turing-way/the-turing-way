@@ -3,9 +3,10 @@
 Documentation is one of the key components of a project, as it adds context to your work.
 It allows colloborators to understand the project and also provides an easy way for you to come back to the project in the future.
 
-Most researchers find documentation daunting, as they think that research-related responsibilities are already overwhelming for them. It’s obvious that they see documentation as an ‘added labour’ and not important enough for carrying out a research design, implementation, analysis or publication work.
+Most researchers find documentation daunting, as they think that research-related responsibilities are already overwhelming for them.
+It’s obvious that they see documentation as an ‘added labour’ and not important enough for carrying out a research design, implementation, analysis or publication work.
 
-The reality is that documentation is an integral part of all research processes, from start to finish. 
+The reality is that documentation is an integral part of all research processes, from start to finish.
 
 <https://carpentries-incubator.github.io/managing-computational-projects/03-setup/index.html#provide-a-process-for-documentation>
 
@@ -34,10 +35,11 @@ A systematic process for documentation is more than a formal book-keeping practi
 Whatever your approach is, be firm about making documentation a shared responsibility so that this job does not solely fall on the shoulders of early career researchers, members from traditionally marginalised groups or support staff.
 ```
 
-The biggest question here is probably not ‘why’ but ‘how’ to facilitate documentation so that it is not challenging or burdensome for the team members. Here are a few recommendations to make documentation easier:
+The biggest question here is probably not ‘why’ but ‘how’ to facilitate documentation so that it is not challenging or burdensome for the team members.
+Here are a few recommendations to make documentation easier:
 
 - Allocate some time at the beginning of the project to discuss with the main stakeholders of the project about what should be documented.
-- Keep the tasks simple by establishing a shared repository for documentation with standard templates to guide how one should go about documenting their work (It is always easier to start with a template than an empty sheet!).
+- Keep the tasks simple by establishing a shared repository for documentation with standard templates to guide how one should go about documenting their work (*It is always easier to start with a template than an empty sheet!*).
 - Add documentation sprint to your project timelines and milestones to make sure that everyone is aware of their importance in the project.
 - Create visible ways to recognise and incentivise the process of documenting.
 
