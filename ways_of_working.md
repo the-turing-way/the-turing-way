@@ -33,6 +33,7 @@ It further outlines expectations and responsibilities with regard to working on 
 | Andrea Sánchez-Tapia <br>([AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)) | Independent researcher | The Turing Way Translation and Localisation Co-Lead | 2021 - Present | - |
 |  Danny Garside <br>([@da5nsy](https://github.com/da5nsy)) | Postdoctoral Visiting Fellow, National Institutes of Health (NIH) | The Turing Way Infrastructure Maintainers Co-lead | 2021 - Present | - |
 |  Jim Madge <br>([@JimMadge](https://github.com/JimMadge)) | Senior Research Software Engineer, The Alan Turing Institute | The Turing Way Infrastructure Maintainers Co-lead | 2022 - Present | - |
+|  Brigitta Sipöcz <br>([@bsipocz](https://github.com/bsipocz)) | Research Scientist, Caltech/IPAC | The Turing Way Infrastructure Maintainers Co-lead | 2022 - Present | - |
 
 ## Previous Project Members
 
