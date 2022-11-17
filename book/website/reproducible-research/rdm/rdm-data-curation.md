@@ -31,7 +31,6 @@ There are also  metadata standard that already exist to help you with standardis
 
 ### 5. Data preservation
 Please find more information in the chapter on [Data Management Plans](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html).
-https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html
 
 ### 6. Data access 
 Data access entails distributing data, sharing data, publishing data, linking data to outputs, controlling access, establishing copyright and promoting or disseminating the data to wider audiences to access it or re-use it.  
