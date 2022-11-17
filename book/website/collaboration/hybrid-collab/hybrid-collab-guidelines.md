@@ -35,3 +35,5 @@
 
 - Plan earlier so that people can block their calendars
 - Plan on movement (time & space)
+
+## How to manage Hybrid teams
