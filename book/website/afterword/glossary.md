@@ -15,6 +15,9 @@ Acknowledgements
 Add
   Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit.
 
+Adversarial Learning
+  A process under which learning systems are exposed to negative stimuli, such as the addition of purposefully manipulated data samples, in order to obtain potentially-beneficial effects. Examples of this technique may include the addition of additional learning objectives which penalise unwanted characteristics of a learning system, for example the ability to distinguish between data records based on inappropriate demographic attributes.
+
 Authors
   Authors in this context are the contributors to _The Turing Way_ project who have made a substantial contribution to the project such as writing a subchapter, facilitating community interactions, maintaining project’s infrastructure and supporting the participation of others through mentored-contributions. All authors are named co-authors on the book as a whole.
 
@@ -129,6 +132,9 @@ CRediT Taxonomy
 Data repository
   See repository.
 
+Differential privacy
+  A strategy to provide quantifiable privacy guarantees when working with datasets containing personal information. The idea is that if the effect of making a single arbitrary substitution of a single record within the dataset on an aggregated query is below a specific threshold, then the result of any such query would not reveal substantial information about any individual member.
+
 DMP
   Data management plan.
 
@@ -174,6 +180,9 @@ End to End Test
 
 FAIR
   Findable, Accessible, Interoperable and Reusable.
+
+Federated Learning
+  A design paradigm for information processing technologies in which the processing of information is decentralized and local data samples are not exchanged in full with a central entity. Used in machine learning to denote a system where learning is carried out via multiple nodes through the exchange of parameter values or other learning products rather than data samples directly.
 
 First author
   The most prominent position in academic authorship. It conveys this person's position as the researcher who has made the greatest contribution to the research.
@@ -235,6 +244,8 @@ Human Readable
 ## I
 
 ```{glossary}
+Identifier
+  An identifier is a key or name used as label or the identity of a unique class of objects, represnting an idea or physical objects. Also see: Persistent Identifier, Digital Object Identifier.
 
 Image
   Files used for generating containers.
@@ -393,7 +404,7 @@ Package Management System
   A tool for installing, managing, and uninstalling software packages including specific versions.
 
 Persistent Identifier
-  A long-lived method for identifying a resource that is unique, and widely understandable by a community.
+  A long-lasting reference to a document, file, web page, or other digital object for identifying a resource that is unique, and widely understandable by a community. Also see: Digital Object Identifier.
 
 Pattern
   A pattern rule is a rule that contains exactly one % character in the target, which can be used to match a part of a filename.
@@ -482,6 +493,9 @@ Research Data Management
 
 Research Ethics
   Research ethics are the moral principles that govern how researchers should carry out their work. These principles are used to shape research regulations agreed by groups such as university governing bodies, communities or governments. All researchers should follow any regulations that apply to their work.
+
+Research Objects
+  Research objects are living resources aggregating inputs, materials, methods and/or software used in research.
 
 Review
   Suggesting changes or asking for committing something to an already created pull request.
