@@ -62,3 +62,4 @@ One example is [Scientific Python](https://scientific-python.org), which provide
 These examples focus on a small project that isn't neccesarily ready to stand on its own but has a foundation that you can build upon using some of the resources described here.
 If you answer all of the sustainability questions in the affirmative and you think your project is ready to be spun out into an independent enterprise, there is a wide range of possibilities for funding and supporting a non-profit or commercial organization based around open source software.
 We will continue to update this chapter with subchapters detailing case studies of various comapnies and organizations using open source models.
+Please also read the chapter on Ethical Considerations for Open Source Governance Models in the Guide for Ethical Research https://the-turing-way.netlify.app/ethical-research/ethics-open-source-governance.html
