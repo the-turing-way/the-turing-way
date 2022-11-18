@@ -94,7 +94,8 @@ Once it is imported, they can start the VM as described before, by selecting it 
 
 [Vagrant](https://www.vagrantup.com/) is a tool which *"enables users to create and configure lightweight, reproducible, and portable development environments"*.
 In this context, an environment is a virtual machine (its CPUs, RAM, networking and so on) and the machines state (operating system, packages).
-
+Vagrant can set up virtual machines using text scripts, instead of pointing and clicking through a graphical user interface.
+This makes it particularly useful for automating the process of setting up virtual machines and making that process reproducible.
 (rr-renv-vm-vagrant-details)=
 ### How Vagrant Works
 
