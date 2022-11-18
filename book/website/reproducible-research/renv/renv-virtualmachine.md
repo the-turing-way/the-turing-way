@@ -142,7 +142,7 @@ A project can maintain its development environment alongside the source code and
 (rr-renv-vm-vagrant-cli)=
 ### The Vagrant CLI
 
-You will most likely use vagrant through the command line interface.
+You will most likely use vagrant through the command line interface (CLI).
 The CLI can be used to
 
 - manage machines with commands like `vagrant up`, `vagrant halt` and `vagrant destroy`
