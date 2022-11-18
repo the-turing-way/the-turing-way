@@ -1,0 +1,104 @@
+# Repositories and Archives
+
+<!----
+Some inital discussion between Lena, Eirini and Malvika
+
+Clarify the meaning of the term Repository - also for the previous chapter
+
+(ispiration from the FAIR coockbook - the Zenodo posting)
+
+Types of repositories
+
+Originally: How to get started with OSF
+
+OSF itself
+
+Guide for project design
+after creating a project repository chapter add a new chapter
+
+Creating a chapter on different archives (also opens a door to write about Zotero)
+
+cross-reference with Zenodo and Figshare repositories (making research project citable in Communication)
+
+OSF can help you through your whole projects
+
+Sub-projects are similar to subfolders
+Different privacy settings for submodules
+
+Private links for reviewers
+
+Combination of GitHub and Zenodo
+
+(another way to put it is collaboration)
+
+Resources:
+- Malvika's NASA TOPS lesson: https://docs.google.com/document/d/1f-xCJzpSbbvC5w-W1pQIH2qLZgWoXuvS_fENSizls_M/edit#
+- Eirini's presentation on (partly) data repositories: https://doi.org/10.5281/zenodo.4964559
+- Relevant TTW (sub)chapters:
+    - Steps for making research objects citable: https://the-turing-way.netlify.app/communication/citable/citable-steps.html?highlight=figshare (Guide for Communication)
+    - Sharing and archiving data: https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-sharing.html?highlight=repository (Guide for Reproducibility)
+    - Creating project repositories: https://the-turing-way.netlify.app/project-design/project-repo.html (Guide for Project Design)
+ 
+
+
+-->
+
+
+
+## Summary
+
+Intro: all repositories you can use along the way of your research 
+<!-- Tools to store and share research outcomes from various stages of the cycle? 
+Find & compare disciplinary repositories through Repository of Research Data Repositories https://www.re3data.org/
+
+-->
+
+
+## Motivation
+
+Why sharing data is a good idea is covered in other places in these guides, e.g. [Motivations for sharing and archiving data](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-sharing.html?highlight=repository#motivations-for-sharing-data) and [Open data](https://the-turing-way.netlify.app/reproducible-research/open/open-data.html#open-data).
+
+After making the decision to share data, or other research outputs, another decision needs to be made: *where* to share those research outputs. This chapter outlines some od the crucial functionalities that you should look out for when picking where to share your data, code, slides, or any other research output.
+
+### Repositories 101
+
+A repository is a place where digital objects can be stored and shared with others (see also [this repository definition](https://the-turing-way.netlify.app/afterword/glossary.html#term-Repository)).
+
+Selecting an appropriate repository for your research outputs has many benefits:
+- it helps make your research outputs Findable, Accessible, Interoperable, Reusable (FAIR). This is achieved through:
+    - repositories assigning a Persistent Identifier to your digital object. The most commonly used persistent identifiers for research objects is the Digital Object Identifier, usually abbreviated to DOI.
+    - using a metadata standard to consistently describe your digital object. Note that using a disciplinary repository (i.e. a repository for your specific discipline) is the most likely to provide a metadata standard that can handle your research objects best. There are examples of what that means later in the chapter.
+    - allowing you to easily add a usage licence, which describes to potential reusers of your work what they are allowed to do with it. Have a look at the [Licensing chapter](https://the-turing-way.netlify.app/reproducible-research/licensing.html) and subchpapters for a thorough discussion of software and data licensing.
+    - providing landing pages to document projects. These can be in the form of READMEs, wikis, or other and they provide a space to give a high-level description of your project and why it might be relevant to people.
+    - widely-used file formats. Many repositories have restrictions on the file formats used to store digital objects. They do this to ensure the sustainability of research objects, as some file formats (especially proprietary ones with a limited user base) can become deprecated.
+- it helps you choose the levels of access you want to give to different people. As covered in [Barriers to Data Sharing](https://the-turing-way.netlify.app/reproducible-research/open/open-data.html#barriers-to-data-sharing), there are good reasons to not to make all your research outputs completely open. However, it's still useful to put your digital objects in a repository and make the metadata public, but only allow people to access those digital objects if they have certain credentials or if they have been given explicit access. That way, your work will still be findable (because the metadata are public) and secure (because you can control who has access).
+- it helps you comply with the GDPR, if you process data of European citizens. Under the GDPR, storing data of European citizens outside of the EU/EEA is considered an international data transfer, which introduces complications to data sharing. There are many repositories that either have servers only in Europe, or in multiple locations in the world and allow you to choose where you would like your data to be stored.
+
+
+<!-- Maybe we can give some basic structure for a repository case study? I am sure you have it in your slieds. Like what is the crucial functionality of the repository, like licensing, persistent identifiers, etc? What are the governance properties, like how long will it stay available, what organisation or community is behind? 
+
+Once we have this sceleton, I can map OSF description onto it
+  -->
+
+### Types of repositories
+
+#### For everything
+- Zenodo
+- Figshare
+- Open Science Framework (OSF)
+
+#### Generic data repositories
+- Dryad
+- Dataverse
+- 4TU.ResearchData
+
+#### Generic code repositories
+- GitHub
+- GitLab
+- BitBucket
+
+#### National
+
+#### Disciplinary
+
+#### Institutional
