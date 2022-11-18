@@ -29,7 +29,6 @@ The RSE movement is a largely volunteer-driven effort to help RSEs understand th
 
 (cl-infrastructure-rse-role)=
 ## What do Research Software Engineers do? 
-<<<<<<< HEAD
 As already mentioned, RSEs can come from a wide range of backgrounds.
 It is important to mention, however, that the overarching characteristic element of all RSEs is that the output of their research is not papers, but software and toolboxes (which might be accompanied by an overview paper or published manual).
 Thus, an important step to allow the acknowledgement of research software work  has been setting up policies that allow the assignment of DOIs for dataset and software for example by the FFORCE11 Software Citation Working Group  {cite:ps}`smith2016software,Cohen2021FourPillars`.
