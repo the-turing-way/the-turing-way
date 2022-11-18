@@ -129,7 +129,7 @@ However, it is not necessary to know Ruby as the syntax is simple and the [docum
 For Vagrant to recognise a Vagrantfile file, it must be called `Vagrantfile`.
 ```
 
-Defining the virtual machines in plain text has a number of advantages over distributing full virtual machine images.
+Defining the virtual machines in plain text has a number of advantages over distributing full virtual machine images:
 
 - The files can be checked into version control
 - Small size makes them fast and easy to share
@@ -143,7 +143,7 @@ A project can maintain its development environment alongside the source code and
 ### The Vagrant CLI
 
 You will most likely use vagrant through the command line interface (CLI).
-The CLI can be used to
+The CLI can be used to:
 
 - manage machines with commands like `vagrant up`, `vagrant halt` and `vagrant destroy`
 - connect to machines with `vagrant ssh` and `vagrant powershell`
