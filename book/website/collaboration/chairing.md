@@ -1,5 +1,5 @@
-(cl-remote-collab-chairs)=
-# Chairing Remote Events
+(cl-chairing)=
+# Chairing Events
 
 To run an event smoothly, part of planning and preparation is to delegate tasks of leading and chairing different sessions of an event to different individuals.
 The main duties of a chair are to moderate their session by introducing speakers and keep their sessions as planned - within the time limit by keeping their session on the topic, avoid distractors and help address any challenges that may appear.
