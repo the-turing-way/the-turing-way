@@ -58,3 +58,7 @@ By exploring connections within your community, whether through an incubator pro
 
 If you are looking to build a community and find users and contributors, you can contribute your work to an ecosystem that hosts and supports code for related applications. 
 One example is [Scientific Python](https://scientific-python.org), which provides a platform where you can make your code widely available to a broad audience and invite contributors from an established community.
+
+These examples focus on a small project that isn't neccesarily ready to stand on its own but has a foundation that you can build upon using some of the resources described here.
+If you answer all of the sustainability questions in the affirmative and you think your project is ready to be spun out into an independent enterprise, there is a wide range of possibilities for funding and supporting a non-profit or commercial organization based around open source software.
+We will continue to update this chapter with subchapters detailing case studies of various comapnies and organizations using open source models.
