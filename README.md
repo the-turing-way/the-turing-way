@@ -1,4 +1,4 @@
-<a href="https://the-turing-way.netlify.app/welcome.html"><img src="book/website/figures/logo/logo.jpg?raw=true)" width="180" align="Right" /></a>
+<a href="https://the-turing-way.netlify.app/welcome.html"><img src="book/website/figures/logo-detail-with-text.svg?raw=true)" width="180" align="Right" /></a>
 
 # _The Turing Way_
 
