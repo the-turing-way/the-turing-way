@@ -1,9 +1,10 @@
-(cl-remote-collab-participation)=
+(cl-event-participation)=
 # Participating in Remote Events
 
 ## Motivation
 
-Now that you have been invited to attend an online meeting, or have registered to attend an online event, this checklist will help you start preparing for your participation and make the most of it.
+Now that you have been invited to attend a meeting, or have registered to attend an event, this checklist will help you start preparing for your participation and make the most of it.
+Though we assume 'virtual first' approach for inclusive events, these recommendations can be used for remote or in-person meetings as well with minor changes to adapt to a physical location.
 
 This checklist also aims to help participants support the event organisers by being proactive and informed about the resources that are available for them and make the best of their participation.
 The tasks and responsibilities are listed in chronological order and have been divided into "before", "during" and "after" the meeting.
@@ -13,8 +14,8 @@ The tasks and responsibilities are listed in chronological order and have been d
 - Note the date and time of the meeting in your time zone and mark them correctly in your calendar using custom links from the websites like [arewemeetingyet.com](https://www.timeanddate.com/worldclock/meeting.html) and [timeanddate.com](https://www.timeanddate.com/worldclock/fixedform.html).
 - Indicate that you will be participating by completing any formality put in place, like registering through a registration page, signing up on a shared document, or accepting the calendar invite.
 - Check if there is any other information you need to supply as a participant, like adding or approving agenda items, filling a pre-event survey, signing up for different sessions of a longer event.
-- Install software required for you to join the meeting online.
-- Test your microphone, webcam, internet bandwidth and compatibility of the software used for the online meeting with your system minimum 2 days before the meeting.
+- For virtual events, install software required for you to join the meeting online.
+Test your microphone, webcam, internet bandwidth and compatibility of the software used for the online meeting with your system minimum 2 days before the meeting.
 - Check if the event offers any support that you can use for your participation and you are eligible to apply, such as the participation support grant.
   - If the event doesn't offer any support, check if you can seek this support from other resources, for example, as offered by the [Open Bioinformatics Foundation](https://www.open-bio.org/travel-awards/) and [Software Sustainability Institute](https://software.ac.uk/programmes-and-events/fellowship-programme).
 - Reach out to the organisers if you need any help with installation, or join one of their pre-event setup calls.
@@ -32,14 +33,13 @@ The tasks and responsibilities are listed in chronological order and have been d
 
 ## During participating in the meeting
 
-- You must have already tested your system in advance, therefore, log in to the online call (using the links supplied by the organisers) a minimum of 5 minutes in advance so that you can troubleshoot any last-minute software updates.
-- The social media platform, especially for the live chat, will be particularly useful to ask for help or information during the meeting that you may have missed.
-- Videos are very important to have effective interaction with someone on the online calls, so if you do not mind, keep your video on.
-- Check the lighting of your room to ensure that your face is clearly visible and people can see you if you raise your hand or speak.
-  - You can use the blurring options to take your background out of focus.
-- Always mute your microphone when not speaking.
-- Follow the etiquette for online meetings that should have been shared by the organisers in their protocol.
-- Introduce yourself on the shared notes or verbally in short and clear sentences if a slot is assigned for that.
+- For in person events, you must have already received the location, mode of transportation, any accessibility arrangements that you may need and agenda before you get to the event venue.
+For virtual events, this is also valid, except that you might have tested your system in advance to join the online call using the platform links supplied by the organisers.
+- Join a few minutes in advance so that you can troubleshoot any last-minute issue.
+- The social media platform, especially for the live interactions will be particularly useful to ask for help or information during the meeting that you may have missed.
+- For online calls, check the lighting of your room to ensure that your face is clearly visible and people can see you if you raise your hand or speak.You can use the blurring options to take your background out of focus. Always mute your microphone when not speaking.
+- Follow the etiquette for meetings that should have been shared by the organisers in their protocol.
+- Introduce yourself in short and clear sentences if a slot is assigned for that. Or use shared notes, social platforms or verbally
 - Note the Code of Conduct facilitator's contact during the meeting, so that you can directly contact them to report any breach or issue that may occur during the call.
 - When participating in a group discussion, for example, during a breakout session, be mindful that you don't use up a lot of time and give everyone a fair chance to speak and share their thoughts.
 - If someone else raised their hand before you, give them a chance to speak first.

@@ -1,15 +1,18 @@
-(cl-remote-collab-meetings)=
+(cl-organising-meetings)=
 # Organising Remote Meetings
 
-A successful online event is organised by defining goals of the event, setting up tools for collaboration, identifying effective approaches for stakeholder-engagement and successfully managing all the associated tasks.
-An online meeting is such an event.
-A 1:1 meeting may be organised by simply sharing a link to join the call on an agreed date and time.
-However, often online meetings involve multiple participants including team members, speakers and guests from different groups, time zones and locations.
-Furthermore, collaborative activities like breakout discussions and documentation are often integral for creating a welcoming space when bringing a diverse group of participants together online.
-Hence, there is more to organising online meetings than just sharing a joining link.
+A successful meeting in the context of research or team-based science is organised by first defining the purpose - why this meeting is being organised and what input from participants will be expected.
+Some main considerations are the setting up goals of the event, tools for collaboration, identifying effective approaches for stakeholder-engagement and plans for managing all the associated tasks.
+A 1:1 meeting may be organised by simply sharing a link to join the call or details of a physical location on an agreed date and time.
 
-This subchapter provides a structured list of tasks that go into organising remote meetings.
+However, often meetings involve multiple team members, presenters and guests from different groups, possibly some of hem attending the event remotely across different time zones and locations.
+Furthermore, collaborative activities like breakout discussions and documentation are often integral for creating a welcoming space when bringing a diverse group of participants together.
+Hence, there is more to organising a team meetings than just sharing a joining link or location details.
+
+This subchapter provides a structured list of tasks that go into organising a team-based meetings.
 We have listed them in chronological order and divided into sections for "before", "during" and "after" the meeting.
+
+Though we assume 'virtual first' approach for inclusive events, these recommendations have been drawn from in-person conference planning, and hence can be used for remote or in-person meetings with changes to adapt to a physical location.
 
 ## Before the meeting
 

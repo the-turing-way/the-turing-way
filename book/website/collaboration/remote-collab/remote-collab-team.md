@@ -1,4 +1,4 @@
-(cl-remote-collab-manage-teams)=
+(cl-remote-collab-team)=
 # Managing Distributed Teams
 
 In the {ref}`cl-new-community` and {ref}`Leadership in Data Science<cl-leadership>` chapters, we have already discussed in-depth how we can manage a new online community and build healthy leadership for a team.
