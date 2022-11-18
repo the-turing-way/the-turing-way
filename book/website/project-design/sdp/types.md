@@ -5,7 +5,8 @@ Sensitive data is information that must be protected against unauthorised access
 This could be data that personally identifies someone, information that we would not want to openly share with others, or data that might bring harm to other people or organisms.
 Protection of this data may therefore be required for legal or ethical reasons.
 
-When measuring how sensitive a data is, different organizations may follow (or are required to follow) certain structure in identifying different levels of sensitive data and information, based on frameworks. In general, the sensitivity levels are broadly classified into three categories:
+When measuring how sensitive a data is, different organizations may follow (or are required to follow) certain structure in identifying different levels of sensitive data and information, based on frameworks. 
+In general, the sensitivity levels are broadly classified into three categories:
 * **High sensitivity / highly restricted data** - could include details like sensitive personal data, salary information, bank details, research data with significant commercial value or obligations. 
 If this kind of data is compromised or destroyed in an unauthorized way, it could greatly impact the organizations/individuals involved and they could face repercussions. 
 Unauthorized disclosure may result in fines, legal action, reputational damage, economic losses, and other consequences.
