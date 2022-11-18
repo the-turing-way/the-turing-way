@@ -563,21 +563,6 @@ parts:
                 file: collaboration/shared-ownership/shared-ownership-challenges
               - title: Nudging for a Better Default
                 file: collaboration/shared-ownership/shared-ownership-defaults
-          - title: Chairing Events
-            file: collaboration/chairing
-          - title: Organising Coworking Calls
-            file: collaboration/coworking
-          - title: Participating in Remote Events
-            file: collaboration/event-participation
-          - title: Tools for Remote Collaboration
-            file: collaboration/event-tools
-          - title: Informal Coffee Chats
-            file: collaboration/informal-chats
-          - title: Organising Remote Conferences
-            file: collaboration/organising-conference
-          - title: Organising Remote Meetings
-            file: collaboration/organising-meetings
-
 
       # ===== Guide for Ethical Research ========================================
 
