@@ -59,7 +59,6 @@ It is an attempt to help researchers work at different capacities, both in indiv
 The RDMkit is open for suggestions from anyone, as long as they abide by the [contributor responsibilities](https://rdmkit.elixir-europe.org/how_to_contribute).
 
 
-Although initiated by open science communities operating in the life sciences, the FAIR principles have rapidly been adopted by publishers, funders, and pan-disciplinary infrastructure programmes and societies to maximise the openness and reusability of the data.
 
 Many groups and organisations are working to define guidance and tools to help researchers and other stakeholders (like librarians, funders, publishers, and trainers) make data more FAIR.
 There are two global initiatives that act as umbrella organisations and reference points for many discipline-specific efforts, including the ones listed above: [GOFAIR](https://www.go-fair.org) and the [Research Data Alliance (RDA)](https://www.rd-alliance.org).
