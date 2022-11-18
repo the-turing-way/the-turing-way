@@ -1,12 +1,14 @@
+(er-social-data)=
+
 # Research Ethics for Social Data
 
-
+(er-social-data-overview)=
 ## Social Data: Overview
 
 Social data is defined as the publicly available information which is collected from users’ public online activity on social media networks, consisting of information such as their location, language, and content shared. Examples of such data would include images, text, location, biographical data, as well as shared and reposted links.
 Information created by the platform users could also form a part of such data, such as blogtagging, online game playing, photo tagging and instant messenger.
 
-
+(er-social-data-media-platforms)=
 ### What constitutes as social media platforms?
 
 As stated by [Flashpoint](https://flashpoint.io/blog/social-data-enhanced-security/), for most, social media means a collection of popular websites and apps used to facilitate social interaction online—sites including:
@@ -16,7 +18,7 @@ As stated by [Flashpoint](https://flashpoint.io/blog/social-data-enhanced-securi
 * Interactive media networks like Snapchat and TikTok
 * Microblogging sites like Twitter and Tumblr
 
-
+(er-social-data-why)=
 ## Why do we need ethical considerations while working with social data?
 
 Collecting social data for various academic and non-academic research purposes have become quite common in recent years, especially useful in understanding trends or patterns from the collective online activities of the users. This not only helps researchers in understanding the online discourse and the public sentiment, but also gives an opportunity to analyse the vast amount of data reserves. 
