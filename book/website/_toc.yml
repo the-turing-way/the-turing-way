@@ -583,6 +583,8 @@ parts:
                 file: ethical-research/law-policy/law-policy-rights
               - title: Further Recommendations
                 file: ethical-research/law-policy/law-policy-resources
+          - title: Research Ethics for Social Data
+            file: ethical-research/social-data        
           - title: Activism for Researchers
             file: ethical-research/activism
             sections:
