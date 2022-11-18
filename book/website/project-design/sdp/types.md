@@ -16,7 +16,7 @@ This kind of data is usually for internal usages only, and if compromised or des
 This kind of data could also comprise of data intended for public use, like public website contents or press releases.
 
 According to the information guidelines provided by [Imperva](https://www.imperva.com/learn/data-security/data-classification/), data could be classified based on content, context or user-based. 
-* **Content-based classification** - This type of classification would involve inspecting and interpreting files and documents looking for sensitive information while reviewing them, and classifying based on that.
+* **Content-based classification** -  involves inspecting and interpreting files and documents looking for sensitive information while reviewing them, and classifying based on that.
 * **Context-based classification** - This type of classification would involve looking into the metadata to classify, such as the application which created the file, person/people involved in its creation, or the location of its authorization. Some questions one can ask while looking for this classification are:
   * How is the data being used? 
   * Who has the access to it? 
