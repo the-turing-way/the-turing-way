@@ -2961,7 +2961,8 @@
       "contributions": [
         "content",
         "ideas",
-        "bug"
+        "bug",
+        "a11y"
       ]
     },
     {
@@ -3950,6 +3951,15 @@
       "contributions": [
         "content",
         "bug"
+      ]
+    },
+    {
+      "login": "WinnyNekesa",
+      "name": "WNekesa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110591866?v=4",
+      "profile": "https://github.com/WinnyNekesa",
+      "contributions": [
+        "content"
       ]
     }
   ],

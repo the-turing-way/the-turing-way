@@ -108,6 +108,8 @@ parts:
                 file: reproducible-research/rdm/rdm-spreadsheets
               - title: Documentation and Metadata
                 file: reproducible-research/rdm/rdm-metadata
+              - title: Data Curation
+                file: reproducible-research/rdm/rdm-data-curation
               - title: Sharing and Archiving Data
                 file: reproducible-research/rdm/rdm-sharing
               - title: Data Article
@@ -325,7 +327,7 @@ parts:
               - title: Working with Trusted Research Environments
                 file: project-design/sdpw/trew
               - title: Privacy Preserving Machine Learning
-                file: project-design/sdpw/pd-sdp-private-learning.md
+                file: project-design/sdpw/pd-sdp-private-learning
               - title: Keeping Sensitive Files Secure
                 file: project-design/sdpw/pd-sdp-sensitive-files
               - title: Sharing Your Jupyter Notebook
@@ -384,6 +386,13 @@ parts:
                 file: communication/social-media/social-media-twitter-tips
               - title: Managing multiple twitter accounts
                 file: communication/social-media/social-media-twitter-multiple
+          - title: Research Objects in Action
+            file: communication/research-objects
+            sections:
+              - title: Concepts
+                file: communication/research-objects/ro-concepts
+              - title: Implementation
+                file: communication/research-objects/ro-implementation
           - title: Making Research Objects Citable
             file: communication/citable
             sections:
@@ -554,6 +563,21 @@ parts:
                 file: collaboration/shared-ownership/shared-ownership-challenges
               - title: Nudging for a Better Default
                 file: collaboration/shared-ownership/shared-ownership-defaults
+          - title: Chairing Events
+            file: collaboration/chairing
+          - title: Organising Coworking Calls
+            file: collaboration/coworking
+          - title: Participating in Remote Events
+            file: collaboration/event-participation
+          - title: Tools for Remote Collaboration
+            file: collaboration/event-tools
+          - title: Informal Coffee Chats
+            file: collaboration/informal-chats
+          - title: Organising Remote Conferences
+            file: collaboration/organising-conference
+          - title: Organising Remote Meetings
+            file: collaboration/organising-meetings
+
 
       # ===== Guide for Ethical Research ========================================
 

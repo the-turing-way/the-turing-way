@@ -35,10 +35,10 @@ jobs:
 
     steps:
       - name: Checkout-repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Setup Python ${{ matrix.python_version }}
-        uses: actions/setup-python@v1
+        uses: actions/setup-python@v4
         with:
           python-version: ${{ matrix.python_version }}
 
@@ -50,7 +50,7 @@ jobs:
       - name: Build Jupyter-Book
         run: |
           cd ./book/website
-          jupyter-book build .
+          jupyter-book build . -W --keep-going
 
       - name: Run html proofer
         if: matrix.os == 'ubuntu-latest'
