@@ -33,7 +33,8 @@ Such as involvement of human participants, particularly where the research invol
 * Data likely to harm an individual or community or have a significant negative public impact if released
 * Working under the terms of a non-disclosure agreement
 
-Organizations usually share guidances and links on storing sensitive data, controlling access to sensitive data, encrypting sensitive data, anonymising sensitive data, transferring sensitive data, and disposing of sensitive data. Adhering to the safety protocols are highly essential for ensuring data safety and security.
+Organizations usually share guidances and links on storing sensitive data, controlling access to sensitive data, encrypting sensitive data, anonymising sensitive data, transferring sensitive data, and disposing of sensitive data. 
+Adhering to the safety protocols are highly essential for ensuring data safety and security. You can learn more about this in the section on {ref}`Data Privacy Strategy<pd-sdpm-privacy>`.
 
 Reproducible research is often thought to require open data or open workflows, but it is possible to work reproducibly within sensitive data projects to demonstrate research quality and create a transparent research record to enable reproducibility.
 There are a number of ways to do this that still fulfill the legal and ethical requirements of working with sensitive data such as using advanced version control tools within private repositories or data safe havens throughout the project, and considering carefully how the project can be published to protect the privacy needs of the data but demonstrate research quality.
