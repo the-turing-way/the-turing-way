@@ -84,7 +84,7 @@ Following up with the participants after the meeting is a good way to both share
 - Create opportunities for skill-building and training beyond work.
 - Schedule informal meetings like virtual coffees and online games.
 
-We have provided more recommendations in {ref}`cl-collab-team`.
+We have provided more recommendations in {ref}`cl-remote-collab-team`.
 
 ## Further reading
 

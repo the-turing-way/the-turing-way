@@ -79,7 +79,7 @@ As the organiser/s of the event, you will be required to:
 **1. Choose the tools**
 
 The choice in regards to which tools you will use will depend on the purpose and scope of your calls.
-Please see the subchapter {ref}`Tools for Remote Collaboration<cl-remote-collab-tools>` to identify which tools will be most appropriate for communication, chats, shared documentation and scheduling.
+Please see the subchapter {ref}`Tools for Remote Collaboration<cl-event-tools>` to identify which tools will be most appropriate for communication, chats, shared documentation and scheduling.
 
 **2. Plan and host the calls**
 

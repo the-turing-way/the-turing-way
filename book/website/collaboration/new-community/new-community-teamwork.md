@@ -30,9 +30,9 @@ However, teamwork practices discussed here are generally useful for anyone tryin
 ## Further Recommendations
 
 The *The Turing Way* guide for Collaboration, we have also provided useful resources for {ref}`facilitating remote collaboration<cl-remote-collab>`.
-Especially, check out recommendations for {ref}`organising<cl-remote-collab-meetings>`, {ref}`list of tools<cl-remote-collab-tools>` and {ref}`managing remote teams<cl-remote-collab-manage-teams>`.
+Especially, check out recommendations for {ref}`organising<cl-organising-meetings>`, {ref}`list of tools<cl-event-tools>` and {ref}`managing remote teams<cl-remote-team>`.
 
-Atlassian has [a great collection of blogs](https://www.atlassian.com/blog/teamwork) for 
-nice ideas and tips on teamwork. 
-See for example [7 essential teamwork skills](https://www.atlassian.com/blog/teamwork/teamwork-skills-accelerate-career), 
+Atlassian has [a great collection of blogs](https://www.atlassian.com/blog/teamwork) for
+nice ideas and tips on teamwork.
+See for example [7 essential teamwork skills](https://www.atlassian.com/blog/teamwork/teamwork-skills-accelerate-career),
 or [How to run effective meetings and thrive](https://www.atlassian.com/blog/teamwork/how-to-run-effective-meetings).
