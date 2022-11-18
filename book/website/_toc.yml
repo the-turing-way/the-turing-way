@@ -532,24 +532,10 @@ parts:
           - title: Remote Collaboration
             file: collaboration/remote-collab
             sections:
-              - title: Organising Remote Meetings
-                file: collaboration/remote-collab/remote-collab-meetings
               - title: Guidelines for Remote Collaboration
                 file: collaboration/remote-collab/remote-collab-guidelines
-              - title: Tools for Remote Collaboration
-                file: collaboration/remote-collab/remote-collab-tools
-              - title: Organising Online Coworking Calls
-                file: collaboration/remote-collab/remote-collab-coworking
-              - title: Organising Remote Conferences
-                file: collaboration/remote-collab/remote-collab-conferences
-              - title: Chairing Remote Events
-                file: collaboration/remote-collab/remote-collab-chairs
-              - title: Participating in Remote Events
-                file: collaboration/remote-collab/remote-collab-participation
               - title: Managing Distributed Teams
-                file: collaboration/remote-collab/remote-collab-management
-              - title: Informal Coffee Chats
-                file: collaboration/remote-collab/remote-collab-informal
+                file: collaboration/remote-collab/remote-collab-team
               - title: Perceived Pros and Cons
                 file: collaboration/remote-collab/remote-collab-prosandcons
           - title: Shared Ownership in Open Source Projects
@@ -563,6 +549,21 @@ parts:
                 file: collaboration/shared-ownership/shared-ownership-challenges
               - title: Nudging for a Better Default
                 file: collaboration/shared-ownership/shared-ownership-defaults
+          - title: Chairing Events
+            file: collaboration/chairing
+          - title: Organising Coworking Calls
+            file: collaboration/coworking
+          - title: Participating in Remote Events
+            file: collaboration/event-participation
+          - title: Tools for Remote Collaboration
+            file: collaboration/event-tools
+          - title: Informal Coffee Chats
+            file: collaboration/informal-chats
+          - title: Organising Remote Conferences
+            file: collaboration/organising-conference
+          - title: Organising Remote Meetings
+            file: collaboration/organising-meetings
+
 
       # ===== Guide for Ethical Research ========================================
 
