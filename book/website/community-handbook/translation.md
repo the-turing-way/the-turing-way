@@ -22,17 +22,6 @@ Used under a CC-BY 4.0 licence.
 DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 ```
 
-```{figure} ../figures/Translation.jpg
----
-height: 500px
-name: Translation
-alt: This illustration shows how global accessibility is reached through translation. A diverse team of three people are writing their contribution in each of the pieces of a puzzle. The pieces complete parallel arrows around the Globe. The arrows are labeled "Constantly updated" because this process is continuous.
----
-Illustration of translation as a way to reach global accessibility. _The Turing Way_ project illustration by Scriberia.
-Used under a CC-BY 4.0 licence.
-DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
-```
-
 (ch-translation-motivation)=
 ## Motivation
 
@@ -50,9 +39,4 @@ You do not need to be fluent in English to contribute to the translations, you o
 The workflows for translation can become confusing at some times and many translation efforts go unfinished for many reasons.
 Our aim is to provide clear documentation so any potential contributor is able to participate.
 
-<<<<<<< HEAD
 In the next few pages, you will learn how open source projects are translated uisng translation management system (TMS) and how you can get started in translating _The Turing Way_ using [Crowdin](https://crowdin.com/), a type of TMS. Any new member of the community should be able to step in, enter in touch with other members of the translation teams for their languages, and start helping to use the documentation.
-=======
-In the next few pages, you will learn how open source projects are translated uisng translation management system (TMS) and how you can get started with translating _The Turing Way_ using [Crowdin](https://crowdin.com/), a type of TMS.
-Any new member of the community should be able to step in, enter in touch with other members of the translation teams for their languages, and start contributing with translations, proofreading, and documentation.
->>>>>>> c3d12886 (tiny edits to landing page esp. "start helping to use")
