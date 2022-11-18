@@ -1,9 +1,5 @@
 (cl-coworking)=
-<<<<<<< HEAD:book/website/collaboration/coworking.md
 # Organising Coworking Calls or Meetings
-=======
-# Organising Coworking Calls
->>>>>>> adc0849f47f66a87d32ca84bb7faaf08dd71f585:book/website/collaboration/remote-collab/remote-collab-coworking.md
 
 The concept of coworking is generally associated with the practice of sharing physical office space with different people who work independently such as remote employees or freelancers.
 

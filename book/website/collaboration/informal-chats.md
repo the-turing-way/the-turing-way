@@ -1,4 +1,4 @@
-(cl-remote-collab-informal)=
+(cl-informal-chats)=
 # Informal Coffee Chats
 
 When a team is working remotely, they can get together at specific times for "coffee chats".
