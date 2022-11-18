@@ -38,9 +38,14 @@ alt: A researcher considers the 4 pathways/pillars of OSS sustainability.
 This image was created by Scriberia for The Turing Way community and is used under a CC-BY 4.0 licence for reuse. Zenodo. DOI 10.5281/zenodo.3332807
 ```
 ## Four pillars of OSS sustainability
-The resulting project and any related enterprise will look different in each case, we've identified four key ingredients that we think all projects aiming for sustainability should consider:
+When considering whether a research output can develop into a self-sustaining project outside of academia, we urge you to reflect on the following four areas:
 
 - **Research & Innovation**: Is the project contributing to wider societal progress and continuing to improve?
 - **Community Engagement**: Does the project have an active contributor base to carry the project forward?
 - **Infrastructure & Maintenance**: Will the project be able to sustain itself and adapt to technological changes?
 - **Support**: Can the project respond to the needs of its user communities?
+
+It's ok if you don't have an answer to all of these questions! 
+This exercise will help you identify your project's strengths and areas where you need help. 
+A good way to find support and connect with relevant people and organzations is to join an incubator program such as Google's [Summer of Code](https://summerofcode.withgoogle.com) or Code for Science and Society's [Incubator](https://www.codeforsociety.org/incubator/).
+These are only two examples out of several similar programs, and you may find that some programs are more aligned with your needs and values than others, so it's worth doing some research and speaking to your peers to find the best fit.
