@@ -2,7 +2,7 @@
 # Pros and Cons
 
 It is needless to say that the same setting can not always work for everyone, which applies to remote collaboration, working, and event participation.
-For many, remote collaboration is the most ideal setting, whereas for for many working completely online might leave them feeling isolated.
+For many, remote collaboration is the most ideal setting, whereas for many, working completely online might leave them feeling isolated.
 Some people collaborate more effectively when working in physical offices, for example, when they live in a small apartment, share their place with a large family, have an inadequate remote-work setting or feel less connected with their colleagues.
 However, for others, remote working may be the most effective way to contribute, when working with online tools, or directly working on platform that do not require speaking up.
 Therefore, it is important to acknowledge that remote collaboration have advantages as well as disadvantages, and the collaboration formats should accommodate for, or designed to address challenges that come with it.
