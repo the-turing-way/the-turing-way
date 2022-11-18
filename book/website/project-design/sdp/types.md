@@ -26,7 +26,8 @@ Some questions one can ask while looking for this classification are:
 Hence, they would be advising on specifying how sensitive the data is and make necessary changes or edits before they release it.
 
 In terms of research the most common reasons data falls under the high sensitivity data are:
-* Research data containing personal identifying information, 'personal data' and special categories data as defined in UK and European data protection legislation. Such as involvement of human participants, particularly where the research involves sensitive personal data such as health records
+* Research data containing personal identifying information, 'personal data' and special categories data as defined in UK and European data protection legislation. 
+Such as involvement of human participants, particularly where the research involves sensitive personal data such as health records
 * Involvement of commercial collaborators, particularly where the data could be construed as competitive intelligence
 * Data relating to species of plants or animals where the release of data may adversely affect rare or endangered species
 * Data likely to harm an individual or community or have a significant negative public impact if released
