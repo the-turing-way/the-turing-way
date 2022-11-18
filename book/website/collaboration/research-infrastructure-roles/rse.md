@@ -29,6 +29,7 @@ The RSE movement is a largely volunteer-driven effort to help RSEs understand th
 
 (cl-infrastructure-rse-role)=
 ## What do Research Software Engineers do? 
+<<<<<<< HEAD
 As already mentioned, RSEs can come from a wide range of backgrounds.
 It is important to mention, however, that the overarching characteristic element of all RSEs is that the output of their research is not papers, but software and toolboxes (which might be accompanied by an overview paper or published manual).
 Thus, an important step to allow the acknowledgement of research software work  has been setting up policies that allow the assignment of DOIs for dataset and software for example by the FFORCE11 Software Citation Working Group  {cite:ps}`smith2016software,Cohen2021FourPillars`.
@@ -40,11 +41,11 @@ https://ieeexplore.ieee.org/abstract/document/8994167
 
 Additionally, RSEs can also be PIs and run their own independent research projects, depending on the institution and policies of the projects they are working on. 
 
-## Who are Research Software Engineers?
-
+## Who are Research Software Engineers, and what do they do?
 The term "research software engineer" is meant to be broad and inclusive, and people discover RSE roles from a variety of entry points.
-RSEs usually come from either a domain science background, a pure computer science background, or industry experience as a software developer {cite:ps}`Cosden2022RSECareers`.
-These different backgrounds each bring their own advantages and challenges, making every RSE journey unique!
+RSEs usually come from either a domain science background, a pure computer science background, or industry experience as a software developer {cite:ps}`Cosden2022-tc`.
+Their specific duties will also vary depending on the particular role they are hired for, making every RSE journey unique!
+However, what brings RSEs together is that they mainly produce research software and toolboxes, often accompanied by documentation and ongoing user support, instead of traditional research outputs like academic papers.
 You can find out more about the diversity of RSE backgrounds and experiences through the latest [RSE International Survey (2022)](https://softwaresaved.github.io/international-survey-2022/).
 
 ## What qualifications or skills do you need to be a Research Software Engineer? 
@@ -54,16 +55,23 @@ Most importantly, RSEs apply these skills to academic research, creating and pro
 This means that RSEs need to have (and will develop!) excellent communication skills as they bridge the gaps between academia, software engineering, and research infrastructure maintenance.
 
 ## Challenges for Research Software Engineers
-* Lack of formal pathways for development
-* Production of software and tools not always recognised as a research output 
-* RSEs not viewed as researchers in their own right
-* Adjusting to working on different projects, possibly far from their original background 
+* A first challende for RSE is a substantial **lack of awareness** of the role. It is estimated that the awareness of what a RSE is or does lies around 5% for some groups {cite:ps}`Cosden2022-tc`. This imposes additional challenges, such as lack of funding opprtunities or lack of awareness of the benefits of RSEs on a project or lack of recocnition of the needs of an RSE to fulfill their role.
+* A second challenge for RSE is the **lack of formal pathways for development**.  According to Cohen et al., 2021 {cite:ps}`Cosden2022-tc`, 75% of RSE's responding to an US survey come from a background other than traditinal computer science. Often RSE's are "are people who started in a particular discipline but discovered they enjoyed the software aspects more than other aspects" {cite:ps}`Cohen2021FourPillars`. Implicit with this career path is that many RSE have acquired their knowledge on their own, and not as a part of a structured programm. Despite having the potential to be higly effective, this can lead to a gap in knowledge, or, as mentioned by {cite:ps}`Cohen2021FourPillars`, to imposter syndrome.
+* Another barrier for the career of RSEs is that the **production of software and tools not always recognised as a research output**. Instead, the current metric to judge a researcher is the number of papers papers that they produce, with little focus on te quality of the underlying code, or outputs that are not publishable in the traditional paper or pdf format, such as software. Thus, an important step to allow the acknowledgement of research software work  has been setting up policies that allow the assignment of DOIs for dataset and software for example by the FFORCE11 Software Citation Working Group  {cite:ps}`smith2016software,Cohen2021FourPillars`.
+* Despite the potential benefit originating from having a skill set that spans both the RSE's original research field  and software engineering, this duality can also have disadvantages. For example, RSEs might be in danger of **not being viewed  researchers in their own right**. This might lead to competition with "proper" researchers for opportunities and funding. In addition, RSEs will have to keep up with two different fields: their original field and software engineering. In addition, their role will require them to adjusting to working on different a variert of projects, which might be far from their original background.
 
 ## Benefits of having Research Software Engineers
 * Highly technical skills that support researchers who cannot program
 * Sharing of best practices in research software engineering across projects 
 * Apply cross-disciplinary knowledge to different projects 
 * Software will be more reliable and robust, supporting reuse and reproducibility 
+
+## Where should I go if I want to hire a RSE, meet a RSE or become a RSE?
+### Hire a RSE
+If you want to hire a RSe, you can post a job vacancy [on the job board of the Socienty for Research Software Engineering](https://society-rse.org/careers/vacancies/).
+
+### Don't have any RSE's around? Create your own local RSE group
+[This RSE-leaders Github reporsitory](https://github.com/RSE-leaders/evidence-bank) provides material for founding your own local RSE community.
 
 (cl-infrastructure-rse-support)=
 ## Organisations and Resources for Research Software Engineers
