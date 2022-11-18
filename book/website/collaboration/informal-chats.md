@@ -5,7 +5,7 @@ When a team is working remotely, they can get together at specific times for onl
 These are scheduled in advance so that everyone can plan their work and other meetings around them as needed and specifically have no agenda.
 The purpose is to share a social break together.
 
-```{figure} ../../figures/remote-book-dash.*
+```{figure} ../figures/remote-book-dash.*
 ---
 name: remote-book-dash
 width: 500px
