@@ -22,7 +22,8 @@ As stated by [Flashpoint](https://flashpoint.io/blog/social-data-enhanced-securi
 (er-social-data-why)=
 ## Why do we need ethical considerations while working with social data?
 
-Collecting social data for various academic and non-academic research purposes have become quite common in recent years, especially useful in understanding trends or patterns from the collective online activities of the users. This not only helps researchers in understanding the online discourse and the public sentiment, but also gives an opportunity to analyse the vast amount of data reserves. 
+Collecting social data for various academic and non-academic research purposes have become quite common in recent years, especially useful in understanding trends or patterns from the collective online activities of the users. 
+This not only helps researchers in understanding the online discourse and the public sentiment, but also gives an opportunity to analyse the vast amount of data reserves. 
 Essentially it has been used to develop applications facilitating marketing to enriching physical and digital security.
 But with a large amount of data, comes great responsibility.
 While there are initial checks performed by the gatekeepers of these social platforms in deciding who gets access to the data, the onus of responsibly using the available data lies upon the researcher and/or the organization themselves. 
