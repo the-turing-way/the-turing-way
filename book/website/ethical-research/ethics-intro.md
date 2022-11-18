@@ -13,7 +13,7 @@ Below is a table summarising these questions.
 | **Who researchers interact with** | With research subjects (for example: do we treat them with respect?) | With fellow researchers (for example: do we adhere to a code of conduct?) |
 | **What shapes research** | Shaped by society (for example: how is AI as a solution generally understood?) | Shaped by institutional norms (for example: what research questions are being funded?) |
 
-```{figure} ../figures/ethical-research.jpg
+```{figure} ../figures/ethical-research.*
 ---
 name: ethical-research
 alt: One person looks for research integrity and another person holds up a map and looks for the research consequences.
@@ -32,8 +32,8 @@ Looking at different aspects of research ethics. _The Turing Way_ project illust
 
 ### Introducing Ethics
 
- With no intention of doing justice to the vast literature that there is on the topic, we can take *Ethics* to be the subject of study of moral philosophy, which seeks --amongst other things -- to distinguish right from wrong.
- Nowadays, philosophers speak of three levels of discussion in ethics (Fieser, IEP): metaethics, normative ethics and applied ethics.
+ With no intention of doing justice to the vast literature that there is on the topic, we can take *Ethics* to be the subject of study of moral philosophy, which seeks -- amongst other things -- to distinguish right from wrong.
+ Nowadays, philosophers speak of three levels of discussion in ethics {cite:ps}`ditter2022applied`: metaethics, normative ethics and applied ethics.
  Roughly, metaethics questions the nature of good and evil, as well as the underlying assumptions held by different ethical frameworks.
  Normative ethics, then, provides the tools for us to create such ethical frameworks and think within them.
  Applied ethics, finally, is what is most pertinent to this guide, as we will be discussing the ins and outs of ethical and responsible research and innovation.
@@ -54,7 +54,7 @@ Looking at different aspects of research ethics. _The Turing Way_ project illust
 
  ## Defining Research Ethics
 
- In practice, the historical development of research ethics has been driven due to ethical concerns around how research has traditionally been conducted and cases of clear controversy (European Commission, 2010).
+ In practice, the historical development of research ethics has been driven due to ethical concerns around how research has traditionally been conducted and cases of clear controversy {cite:ps}`Innovation2011EUCommission`.
  Unfortunately, this reactive nature of research ethics has led to there being many ethical codes for research, each regarding distinct fields of inquiry, designed by and for different institutions, and sometimes affecting scientific work conducted within specific regions.
  Therefore, researchers are right to feel overwhelmed by the diversity of rules and guidelines they face throughout their careers.
 
@@ -67,7 +67,7 @@ Looking at different aspects of research ethics. _The Turing Way_ project illust
 
 ### Responsible Research and Innovation
 
-  *RRI* is a term which has been around for several decades but which gained traction in 2011, when becoming an important term in the context of European policy (Owen et al., 2012).
+  *RRI* is a term which has been around for several decades but which gained traction in 2011, when becoming an important term in the context of European policy {cite:ps}`Owen2012ResposibleRI`.
   Turning to the European Union’s “Horizon 2020” research programme, we can find one definition of RRI:
 > “[RRI is] an approach that anticipates and assesses potential implications and societal expectations with regard to research and innovation, with the aim to foster the design of inclusive and sustainable research and innovation” (European Commission, n.d.).
 
@@ -80,7 +80,7 @@ Looking at different aspects of research ethics. _The Turing Way_ project illust
 ### Research Integrity
 
  Defined by the Office for Research Integrity:
-> "[Research integrity refers to] active adherence to the ethical principles and professional standards essential for the responsible practice of research” (Korenman, n.d.).
+> "[Research integrity refers to] active adherence to the ethical principles and professional standards essential for the responsible practice of research” - Korenman, 2006 {cite:ps}`korenman2006teaching`.
 
  What this term brings into the discussion about research ethics are “professional standards” and “responsible practice”.
  Unlike in RRI, the question is no longer on the ethics of scientific output and its consequences, but on the ethics of how scientists conduct themselves in practice.
@@ -90,36 +90,36 @@ Looking at different aspects of research ethics. _The Turing Way_ project illust
 
  The two concepts of RRI and research integrity are by no means entirely distinct, as they can overlap in important ways.
  However, three differences between both concepts are outlined below for the purpose of drawing out more diverse questions pertaining to research ethics at large.
- A table with the list of concept spefici questions is shared at the end of this subsection.
+ A table with the list of concept specific questions is shared at the end of this subsection.
 
  Firstly, we can see that who *perceives* the ethical questions differs in either case.
  To start with, RRI can be understood as outward-looking, or visible to the public.
- For example, people might ask for what it means when scientists keep animals’ brains alive hours after their decapitation (Reardon, 2019).
+ For example, people might ask for what it means when scientists keep animals’ brains alive hours after their decapitation {cite:ps}`reardon2019pig`.
  In the meantime, research integrity refers to how research findings are produced — it is inward-looking.
  A common term to describe a *lack* of research integrity is “research misconduct”, for which there are many examples.
- One such example is that of Brian Wansink's work in food science, who endorsed p-hacking and has had a number of papers retracted (see Oransky, 2018).
+ One such example is that of Brian Wansink's work in food science, who endorsed p-hacking and has had a number of papers retracted (see {cite:ps}`marcus2018data`).
 
  Secondly, each term refers to different people scientists interact with during research.
  On the one hand, RRI questions how scientists engage with research subjects.
  Consider, for example, how volunteers are treated during clinical trials.
  The point here is to work with data subjects in a respectful and inclusive way.
- One (in)famous case in which there was no respect for data subjects was the Tuskagee experiments, wherein African-American men were recruited to study the development of untreated syphilis, but the volunteers were falsely told they were receiving free treatment — the monitoring and lies persisted for forty years (CDC, 2020).
+ One (in)famous case in which there was no respect for data subjects was the Tuskagee experiments, wherein African-American men were recruited to study the development of untreated syphilis, but the volunteers were falsely told they were receiving free treatment — the monitoring and lies persisted for forty years {cite:ps}`cdc2021theus`.
  On the other hand, we can question how scientists engage with fellow researchers.
  We can here discuss the importance of codes of conduct in open source collaborations, for example, [*The Turing Way*'s](https://the-turing-way.netlify.app/community-handbook/coc.html?highlight=code%20conduct); or — returning to “research misconduct” — how one might engage in authorship fraud.
  Once again, there are many examples of this sort of practice.
- From being insincere about who contributed to a paper because the academic incentives system almost encourages this (see Harvey, 2018) to inventing entirely fictional authors (see this piece by Marcus & Oransky, 2016), these are questions that are not commonly within the public’s purview.
+ From being insincere about who contributed to a paper because the academic incentives system almost encourages this {cite:ps}`Harvey2018GiftHonorary` to inventing entirely fictional authors {cite:ps}`lowe2016afield,marcus2016why`, these are questions that are not commonly within the public’s purview.
 
  Thirdly, RRI and research integrity question the ethics of how scientific solutions are framed and shaped either by society at large (RRI) or by institutional practices in particular (research integrity).
  With our RRI hat on, we can ask how we communicate the validity of scientific outputs.
  Whilst how scientific findings are communicated is not a new question, it is worth highlighting that artificial intelligence (AI) and machine learning might be framed as delivering much more for research and innovation than what they actually can.
- Along these lines, we can ask about the role of “AI” as a marketing tool, as a way to grant research findings undeserved credibility (Lanier and Weyl, 2020).
- A more specific example is available in Nagendran et al.'s' (2020) concerns over exaggerated claims of AI outperforming doctors.
+ Along these lines, we can ask about the role of “AI” as a marketing tool, as a way to grant research findings undeserved credibility {cite:ps}`lanier2020ai`.
+ A more specific example is available in Nagendran et al.'s concerns over exaggerated claims of AI outperforming doctors {cite:ps}`Nagendran2020AIvsClinician`.
  Switching to our research integrity goggles, we can question how academic infrastructures shape scientific work.
 
- Consider, for example, how researchers must weigh the noble pursuit of *truth*, with the need to earn *credit* (on this weighing of options, see, for example, Zollman, 2018).
+ Consider, for example, how researchers must weigh the noble pursuit of *truth*, with the need to earn *credit* (on this weighing of options, see, for example, {cite:ps}`Zollman2018CreditEconomy`).
  We can also reflect on the impact of funding on scientific endeavours.
- Questions can be raised regarding the size of research grants (Bloch & Sorensen, 2014) and even the values that motivate the funding of some research projects and not others.
- Institutional norms might even encourage a “publication bias” whereby positively framed findings will be easier to get published (see Kaiser et al.’s, (2009) finding that studies showing differences in sex/gender are easier to publish than studies *not* supporting such differences).
+ Questions can be raised regarding the size of research grants {cite:ps}`Bloch2015ResearchFunding` and even the values that motivate the funding of some research projects and not others.
+ Institutional norms might even encourage a “publication bias” whereby positively framed findings will be easier to get published (see {cite:ps}`Kaiser2009fMRIlanguage` finding that studies showing differences in sex/gender are easier to publish than studies *not* supporting such differences).
 
  Below is a table illustrating the three differences outlined above.
  The point here is not to argue for this conceptual distinction but to introduce two important concepts in research ethics and, in doing so, present different questions we must be ready to reflect on when thinking about ethical research.
@@ -139,7 +139,7 @@ There are plenty of ways to navigate the realm of Ethics at large and Research E
 
 * Applied ethics: the subfield of ethics that examines specific moral questions
 * Ethics: moral principles that govern a person's behaviour or the conducting of an activity
-* Ethics Committee: a body within a wider research institution that is responsible for ensuring that research is carried out in an ethical manner in accordance with the law and some ethical principles or framwork
+* Ethics Committee: a body within a wider research institution that is responsible for ensuring that research is carried out in an ethical manner in accordance with the law and some ethical principles or framework
 * Metaethics: the subfield of ethics that investigates where our ethical principles come from, and what they mean
 * Moral philosophy: the branch of philosophy concerned with ethics
 * Normative ethics: the subfield of ethics that seeks to arrive at moral standards that regulate right and wrong conduct

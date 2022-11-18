@@ -36,7 +36,7 @@ git add your_file_name
 
 This command puts your newly added files or any other changes into what is called the "staging" area.
 
-```{figure} ../../figures/change-stage-repo.png
+```{figure} ../../figures/change-stage-repo.*
 ---
 name: change-stage-repo
 alt: An illustration of the `git add` and git commit Commands.

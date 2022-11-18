@@ -7,7 +7,7 @@ Volunteer contributions are central to the success of open source projects who u
 These contributions can be witnessed in the context of coding, reviewing, documenting, error reporting, bug fixing, method selection, mentorship, training, project maintenance and other community interactions.
 In this chapter, we explore the “shared ownership” models to highlight that the open source projects should be owned by the community of contributors who work to ensure their development and sustainability.
 
-```{figure} ../figures/open-source-collaboration.jpg
+```{figure} ../figures/open-source-collaboration.*
 ---
 name: open-source-collaboration
 alt: This illustration shows that closed source projects are driven by the needs of the institution or the individuals whereas the open source community allows different people to interact, exchange ideas, collaborate and build resources using “by the community - for the community” principles

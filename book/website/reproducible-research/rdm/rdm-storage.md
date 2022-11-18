@@ -4,7 +4,7 @@
 Data loss can be catastrophic for your research project and can happen often.
 You can prevent data loss by picking suitable storage solutions and backing your data up frequently.
 
-```{figure} ../../figures/version-control.jpg
+```{figure} ../../figures/version-control.*
 ---
 height: 500px
 name: version-control

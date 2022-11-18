@@ -19,7 +19,7 @@ You can inspect our resources on [GitHub](https://github.com/alan-turing-institu
 
 Please [join our Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw) to connect and discuss your ideas or suggestions with *The Turing Way* members.
 
-```{figure} figures/welcome.jpg
+```{figure} figures/theturingway-pathway.*
 ---
 name: welcome-image
 alt: The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.
