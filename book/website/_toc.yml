@@ -487,6 +487,20 @@ parts:
                 file: collaboration/maintain-review/maintain-review-merge
               - title: Resources
                 file: collaboration/maintain-review/maintain-review-resources
+          - title: Organising Meetings
+            file: collaboration/organising-meetings
+          - title: Organising Online Coworking Calls
+            file: collaboration/coworking
+          - title: Organising Conferences
+            file: collaboration/organising-conferences
+          - title: Chairing Events
+            file: collaboration/chairing
+          - title: Participating in Events
+            file: collaboration/event-participation
+          - title: Informal Coffee Chats
+            file: collaboration/informal-chats
+          - title: Tools for Facilitating Collaboration
+            file: collaboration/event-tools
           - title: Managing a New Community and Team
             file: collaboration/new-community
             sections:
@@ -523,26 +537,12 @@ parts:
           - title: Remote Collaboration
             file: collaboration/remote-collab
             sections:
-              - title: Organising Remote Meetings
-                file: collaboration/remote-collab/remote-collab-meetings
+              - title: Pros and Cons
+                file: collaboration/remote-collab/remote-collab-prosandcons
               - title: Guidelines for Remote Collaboration
                 file: collaboration/remote-collab/remote-collab-guidelines
-              - title: Tools for Remote Collaboration
-                file: collaboration/remote-collab/remote-collab-tools
-              - title: Organising Online Coworking Calls
-                file: collaboration/remote-collab/remote-collab-coworking
-              - title: Organising Remote Conferences
-                file: collaboration/remote-collab/remote-collab-conferences
-              - title: Chairing Remote Events
-                file: collaboration/remote-collab/remote-collab-chairs
-              - title: Participating in Remote Events
-                file: collaboration/remote-collab/remote-collab-participation
               - title: Managing Distributed Teams
-                file: collaboration/remote-collab/remote-collab-management
-              - title: Informal Coffee Chats
-                file: collaboration/remote-collab/remote-collab-informal
-              - title: Perceived Pros and Cons
-                file: collaboration/remote-collab/remote-collab-prosandcons
+                file: collaboration/remote-collab/remote-collab-team
           - title: Shared Ownership in Open Source Projects
             file: collaboration/shared-ownership
             sections:

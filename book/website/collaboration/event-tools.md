@@ -1,17 +1,18 @@
-(cl-remote-collab-tools)=
-# Tools for Remote Collaboration
+(cl-event-tools)=
+# Tools for Collaboration
 
-Many free and commercial tools exist to improve people's experience of planning, organising, and hosting online and hybrid events.
-To effectively run an event, it is important to choose tools that can maximise the overall success and reduce the risk of things going wrong during the event.
+Many free and commercial tools exist to improve people's experience of planning, organising, and hosting online and hybrid collaborations with teams or at events.
+For effectively collaboration, it is important to choose tools that can maximise the overall success and reduce the risk of things going wrong during the event.
 We should also consider how user-friendly they are and how they impact the engagement of different stakeholders such as organisers, helpers and attendees.
 
-Here is a list of some popular tools for facilitating different aspects of remote collaboration discussed in the earlier subchapter.
-Please note that we are not a listing conference or webinar-related tools, but only providing those tools that allow an interactive (hence, collaborative) format for online events.
+Here is a list of some popular tools for facilitating different aspects of collaboration discussed in the other chapters.
+Please note that we are not a listing conference or webinar-related tools, but only providing those tools that facilitate interactive (hence, collaborative) formats.
+Though we assume 'virtual first' approach for inclusive events, these recommendations can be used for remote or in-person meetings as well with minor changes to adapt to a physical location.
 
 ## Task management tools
 
-Every event has several stages of planning and organising that involve numerous tasks as discussed in earlier subchapters.
-Therefore, it is important to track those tasks in an online event management tool, where the responsible individuals can see their to-dos and deadlines, and collaborate with others.
+Every collaboration or event has several stages of planning and organising that involve numerous tasks as discussed in the Guide for Collaboration.
+Therefore, it is important to track those tasks in an online task or event management tool, where the responsible individuals can see their to-dos and deadlines, and collaborate with others.
 
 - [Trello](https://trello.com/): online kanban like tools to assign tasks and checklists to individual users and monitor their progress.
 - [Asana](https://asana.com/): online kanban tool that can be used for creating different teams create tasks, set deadlines and send reminders.
@@ -30,8 +31,8 @@ It is particularly crucial to use meeting links like [arewemeetingyet](https://a
 
 ## Creating shared notes
 
-A document that can be edited collaboratively in real-time allows all attendees to participate equitably during the online call.
-This is especially important for creating an opportunity for those who can not (or do not feel comfortable to) actively speak up in group meetings.
+A document that can be edited collaboratively in real-time allows all attendees to participate equitably during the meeting or online call.
+This is especially important for creating an opportunity for those who can not (or do not feel comfortable to) actively speak up in group meetings, especially for hybrid formats.
 
 - [Google doc](https://en.wikipedia.org/wiki/Google_Docs): Google Docs is a word processor included as part of a free, web-based Google Docs suite offered by Google within its Google Workspace service.
 - [Etherpad](https://etherpad.org/): Etherpad is an Open Source customisable online editor.
@@ -47,13 +48,14 @@ It is important to create shared notes, but also to save them to share with othe
 - [owncloud](https://owncloud.com/): ownCloud is a suite of client-server software for creating and using file hosting services. ownCloud functionally has similarities to the widely used Dropbox.
 - [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/free-trial/) and [BitBucket](https://bitbucket.org/product): Platforms for hosting, sharing and collaborating on documents and software with a version control system (see [this post for detail/difference](https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab)).
 
-## Managing event registration
+## Managing participant's confirmation
 
-Effective event registration is the first place to get to know who will attend your event.
+Often online calendars sent out to all invitees allows them to accept, decline or tentatively indicate to organisers if they can attend a meeting or an event.
 It's especially important when the events are intended for a large group of people.
 
-- [Zoom](https://support.zoom.us/hc/en-us/articles/204619915-Scheduling-a-Webinar-with-Registration): Scheduling an online meeting and webinar with registration on Zoom provides an automatic brief form before receiving the link to join your webinar.
-- [Eventbrite](https://www.eventbrite.com/): An event management and ticketing website. The service allows users to browse, create, and promote local events. The service charges a fee to event organizers in exchange for the online ticketing services, unless the event is free.
+Other way for formal registrations can be set up to collect centralised statistics or data regarding the participants' availability, as well as if they have sepecific requirements such as related to meals, accessibility, travel requirements or accommodations if the event is taking place online:
+- [Zoom](https://support.zoom.us/hc/en-us/articles/204619915-Scheduling-a-Webinar-with-Registration): Zoom provides an automatic brief form before receiving the link to join your webinar.
+- [Eventbrite](https://www.eventbrite.com/): An event management and ticketing website that allows use of standard forms with customised questions that organisers might need to know about their attendees. The service charges a fee to event organizers in exchange for the online ticketing services, unless the event is free.
 - [Google Form](https://en.wikipedia.org/wiki/Google_Forms): Google Forms is a survey administration software that allows registration/data collection that can be automatically entered into a spreadsheet.
 
 ## Hosting online calls

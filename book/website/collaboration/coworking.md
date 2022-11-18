@@ -1,14 +1,15 @@
-(cl-remote-collab-coworking)=
-# Organising Online Coworking Calls
+(cl-coworking)=
+# Organising Coworking Calls or Meetings
 
 The concept of coworking is generally associated with the practice of sharing physical office space with different people who work independently such as remote employees or freelancers.
 
 This allows people - who may otherwise feel isolated while working alone at home - to use traditional office setups, create a work routine, and build a sense of companionship with others who they share their office spaces with.
 
-In our Community Handbook, we discuss coworking calls hosted for _The Turing Way_ community (see the chapter on {ref}`The Turing Way Coworking Calls<ch-coworking>`).
-It includes our motivation, background, techniques, format, templates, and materials, which can be repurposed and adapted to support your teams and communities by setting up coworking calls for them.
+In our Community Handbook, we discuss online coworking calls hosted for _The Turing Way_ community (see the chapter on {ref}`The Turing Way Coworking Calls<ch-coworking>`).
+It includes our motivation, background, techniques, format, templates, and materials, which can be repurposed and adapted to support your teams and communities by setting up virtual coworking calls for them.
 
-Below are descriptions of different aspects that one should take into consideration when planning or designing your coworking calls.
+Below are descriptions of different aspects that one should take into consideration when planning or designing your coworking calls Online.
+These recommendations can be used for remote or in-person meetings as well with minor changes to adapt to a physical location.
 
 ## Designing a format the works for you
 
@@ -16,7 +17,7 @@ To identify what could be the best format for your coworking calls, you need to 
 
 **Purpose of your coworking calls**
 
-As described in the {ref}`motivation <ch-coworking-motivation>` subchapter, we host online calls for our community members for building connections, supporting our contributors, onboarding new members and celebrating their work.
+As described in the {ref}`motivation<ch-coworking-motivation>` subchapter, we host such events for our community members for building connections, supporting our contributors, onboarding new members and celebrating their work in real time.
 
 Your purpose for hosting coworking calls could be completely different and identifying that is important for you to plan the remaining logistics.
 

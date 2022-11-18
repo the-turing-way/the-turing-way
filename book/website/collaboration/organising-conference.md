@@ -1,15 +1,17 @@
-(cl-remote-collab-conferences)=
+(cl-organising-conferences)=
 # Organising a Conference
 
 *Recommendations listed in this subchapter also apply to longer collaborative events like sprints and hackathons.*
 
-Event planning and organisation involves many roles, tasks and responsibilities, which can be challenging, especially for online conferences or other collaborative events that have a large target audience.
+Event planning and organisation involves many roles, tasks and responsibilities, which can be challenging, especially for online/hybrid conferences or other collaborative events that have a large target audience.
 
 This document lists the various tasks for organising such events, which will be useful for people who do not have any former experience or professional support available to them.
 In this subchapter, we discuss different aspects of conference organisation, which are listed in chronological order and divided into sets of tasks and responsibilities "before", "during" and "after" the meeting.
 Though created for longer events, these detailed task lists can be used for planning smaller events that have fewer logistical requirements.
 
-(cl-remote-collab-conferences-before)=
+Though we assume 'virtual first' approach for inclusive events, these recommendations have been drawn from in-person conference planning, and hence can be used for remote or in-person meetings with changes to adapt to a physical location.
+
+(cl-organising-conferences-before)=
 ## Before the event
 
 The different subsections are marked as "Earlier-phase", "Mid-phase", and "Later-phase", based on their importance at the different phases of organisation.
@@ -266,6 +268,7 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 - If organising any location-specific social event, run that in parallel to the remote social event.
   - Book social event venue, transfer, and catering and communicate them clearly.
 
+(cl-organising-conferences-during)=
 ## During the event
 
 ### Kicking off the event
@@ -294,6 +297,7 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 - Provide everyone with a way to keep track of sessions and time, for example, a shared link to [cuckoo.team](https://cuckoo.team) clock.
 - Share how participants can ask for help with troubleshooting, event information or feedback about the event.
 
+(cl-organising-conferences-after)=
 ## After the event
 
 - Create a debrief document to capture what went well and what could be improved in future events.
@@ -305,7 +309,7 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 - Settle all the invoices from the event.
 - Host a post-event community call to thank people and share the lessons learned.
 
-## Bibliography
+## Resources
 
 - The *Checklist for running a meeting* is a summarised version of the [Gallantries (Galaxy+The Carpentries handbook)](https://galaxy-carpentries.github.io/gallantries/handbook) which is an expanded version of [The Carpentries workshop checklist](https://docs.carpentries.org/topic_folders/hosts_instructors/hosts_instructors_checklist.html).
 - The *Checklist for running a longer event such as a conference or sprint* is a summarised version of the debrief document written by the [chairs of the 1st CarpentryCon conference](https://2018.carpentrycon.org/) organisation committee.
