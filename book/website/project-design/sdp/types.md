@@ -17,7 +17,8 @@ This kind of data could also comprise of data intended for public use, like publ
 
 According to the information guidelines provided by [Imperva](https://www.imperva.com/learn/data-security/data-classification/), data could be classified based on content, context or user-based. 
 * **Content-based classification** -  involves inspecting and interpreting files and documents looking for sensitive information while reviewing them, and classifying based on that.
-* **Context-based classification** - This type of classification would involve looking into the metadata to classify, such as the application which created the file, person/people involved in its creation, or the location of its authorization. Some questions one can ask while looking for this classification are:
+* **Context-based classification** -  involves looking into the metadata to classify, such as the application which created the file, person/people involved in its creation, or the location of its authorization. 
+Some questions one can ask while looking for this classification are:
   * How is the data being used? 
   * Who has the access to it? 
   * When are they accessing it? 
