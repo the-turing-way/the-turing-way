@@ -54,7 +54,9 @@ Various online resources are provided for people who are working in the life sci
 * Under the [FAIR Cookbook](https://faircookbook.elixir-europe.org/content/home.html), several resources are offering guidance and assistance in FAIR data management.
  The FAIR Cookbook is designed to serve a variety of audience types and involved in different stages of data management life cycle.
 The FAIR Cookbook is developed and maintained by life sciences professionals, both in the academia and industry sectors, including members of the ELIXIR community. 
-* Under [ELIXIR Research Data Management Kit (RDMkit)](https://rdmkit.elixir-europe.org/), resources are provided for life scientists to guide them in better management of their research data in adhering to the FAIR Principles. It is an attempt to help researchers work at different capacities, both in individual and collaborative workspaces.
+* Under [ELIXIR Research Data Management Kit (RDMkit)](https://rdmkit.elixir-europe.org/), resources are provided for life scientists to guide them in better management of their research data in adhering to the FAIR Principles. 
+It is an attempt to help researchers work at different capacities, both in individual and collaborative workspaces.
+The RDMkit is open for suggestions from anyone, as long as they abide by the [contributor responsibilities](https://rdmkit.elixir-europe.org/how_to_contribute).
 
 [FAIR Cookbook](https://faircookbook.elixir-europe.org/content/recipes/community.html) is developed and maintained by life sciences professionals, both in the academia and industry sectors, including members of the ELIXIR community. [RDMkit](https://rdmkit.elixir-europe.org/how_to_contribute) is open for suggestions from anyone from within the community and outside of it, as long as they abide by the [contributor responsibilities](https://rdmkit.elixir-europe.org/how_to_contribute).
 
