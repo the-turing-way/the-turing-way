@@ -22,7 +22,8 @@ Some questions one can ask while looking for this classification are:
   * How is the data being used? 
   * Who has the access to it? 
   * When are they accessing it? 
-* **User-based classification** - This type of classification would involve the expertise of judgement made by one or more knowledgeable users in classifying the file or document. Hence, they would be advising on specifying how sensitive the data is and make necessary changes or edits before they release it.
+* **User-based classification** -  involves the expertise of judgement made by one or more knowledgeable users in classifying the file or document. 
+Hence, they would be advising on specifying how sensitive the data is and make necessary changes or edits before they release it.
 
 In terms of research, as per the detailed guidelines provided by various universities across the UK (and elsewhere) abiding by the Data Protection Act, the most common reasons data falls under the high sensitivity data are:
 * Research data containing personal identifying information, 'personal data' and special categories data as defined in UK and European data protection legislation. Such as involvement of human participants, particularly where the research involves sensitive personal data such as health records
