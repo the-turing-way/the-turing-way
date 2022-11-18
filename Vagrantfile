@@ -30,6 +30,13 @@ Vagrant.configure("2") do |config|
     override.vm.synced_folder "./", "/vagrant", nfs_udp: false
   end
 
+  # Options for the Hyper-V provider
+  config.vm.provider "hyperv" do |hv|
+    # Set a reasonable amount of virtual CPUs and memory
+    hv.cpus = 2
+    hv.memory = 2048
+  end
+
   # Script to install the build dependencies
   $script = <<-'SCRIPT'
   # Install pip
