@@ -124,13 +124,13 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Andrea Sanchez Tapia
 
-* Role: 
+* Role:
   * Translation and Localisation co-lead (2022-present)    
   * Book Dash Participant 2021
 * GitHub id: [AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)
 * ORCID: [0000-0002-3521-4338](https://orcid.org/0000-0002-3521-4338)
 
-* Short bio: 
+* Short bio:
 > Andrea (she/her) is a Colombian ecologist with a a background in Biodiversity Informatics and Plant Ecology. She was based for more than a decade in Rio de Janeiro, where she earned a MSc in Ecology and a PhD in Botany, working in vegetation ecology and nurturing a growing interest in learning and teaching about Open Science, Reproducibility in academic and non-academic communities. She has been saved countless times by R communities of practice and is a member of R-Ladies, a Certified Carpentries Instructor, and part of Forwards, the R Foundation taskforce for diversity, equity, and inclusion.
 
 * Personal highlights:
@@ -197,17 +197,17 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > Anne is a Research Software Engineer. She is working in the field of Climate Science
 > with the Earth System Modelling community.
 > She is also developing training materials and teaching basic-to-advanced research
-> computing skills to students, researchers, Research Software Engineers from all 
+> computing skills to students, researchers, Research Software Engineers from all
 > disciplines to advance FAIRness of Software management and development practices
 > so that research groups can collaboratively develop, review, discuss, test, share and
 > reuse their codes.
 
-* Personal highlights: 
-> While working on adding a new chapter on Research Object with Alejandro Coca-Castro, 
-> I really enjoyed the discussions on where to place this new chapter in the book. 
+* Personal highlights:
+> While working on adding a new chapter on Research Object with Alejandro Coca-Castro,
+> I really enjoyed the discussions on where to place this new chapter in the book.
 > Communication in an Open Science context is such an interesting topic!
 
-* Quotes: 
+* Quotes:
 > There is so much to learn from The Turing Way handbook and Book Dashes' particpants.
 
 
@@ -228,7 +228,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > She holds a BA from Columbia University, and an MA from The Graduate Institute of International and Development Studies in Geneva, both in anthropology and sociology.
 
 * Personal highlights:
-> After coming to _The Turing Way_ from other stars in the 'open universe' (as I tend to call it), I'm keen to get to know the world of open scholarship & open science, and to learn how to support the community here. I'm particularly interested in helping to develop systems of inclusive governance, project sustainability, involving more perspectives from my own fields (of anthropology and sociology!), and tying the project more closely to other open communities who work on issues of ethics, diversity, and inclusion through data-driven practices. 
+> After coming to _The Turing Way_ from other stars in the 'open universe' (as I tend to call it), I'm keen to get to know the world of open scholarship & open science, and to learn how to support the community here. I'm particularly interested in helping to develop systems of inclusive governance, project sustainability, involving more perspectives from my own fields (of anthropology and sociology!), and tying the project more closely to other open communities who work on issues of ethics, diversity, and inclusion through data-driven practices.
 
 ### Arielle Bennett
 
@@ -366,19 +366,19 @@ I also hope that it can convince people that don't consider themselves capable o
 ### Elisa Rodenburg
 
 * Role: Book Dash 2021 participant
-* GitHub id: @Elisa-on-GitHub 
+* GitHub id: @Elisa-on-GitHub
 * ORCID: 0000-0001-6068-9792
 
-* Short bio: 
+* Short bio:
 > I'm a Research Data Steward in the University Library of Vrije Universiteit Amsterdam. I support researchers with questions about Research Data Management and Open Science, and I try to write some good guidance for them as part of this. With a team of IT colleagues, I'm also trying to build tools that support researchers with RDM. With @Karvovskaya and other colleagues I built two RDM- and Open Science-themed Escape Rooms, hoping that they teach the player something nice *and* let them have fun.
 
-* Personal highlights: 
+* Personal highlights:
 > Working together with the Scriberia artist Adrien Liard; meeting more of the community; creating my first pull request *and* having it merged; start contributing to this wonderful project.
 
-* More information: 
+* More information:
 > In my free time, I bake :cake: and swim :swimming_woman: (not always in that order)
 
-* Quotes: 
+* Quotes:
 > The Turing Way is not only a guidebook, but also a lovely community of creative, talented and welcoming professionals. It was great to have the chance to join the Book Dash and contribute to the project. I hope to be back the next time!
 
 ### Emma Karoune
@@ -495,24 +495,24 @@ I would like to be a part of it.
 
 ### Iman Al Hasani
 
-* Role: 
+* Role:
   * Book Dash 2022 participant
 * GitHub id: Imanalhasani
 * ORCID: 0000-0001-9998-772X
 
-* Short bio: 
-> Iman Al Hasani is interested in the computational applied statistics. She is particularly interested in computational statistics including statistics in digital marketing, statistical modeling, statistical machine learning, simulation, data mining and data visualization. She was the main supervisor 3 projects: 
+* Short bio:
+> Iman Al Hasani is interested in the computational applied statistics. She is particularly interested in computational statistics including statistics in digital marketing, statistical modeling, statistical machine learning, simulation, data mining and data visualization. She was the main supervisor 3 projects:
 > •	Opinion Mining and Sentiment Analysis for Arabic Tweets about Unemployment Issue in Oman.
 > •	A comparison of Term weighting schemes with application to Thesis classification.
 > •	Propensity Score Modelling for Marketing Campaigns
 
-* Personal highlights: 
-> I am impressed with the Turing Way project and its collaborative principle. I enjoyed working with Arabic translation team using Crowdin and creating mini Arabic version of the Turing Way book. My special thanks to the super-talented lady Batool. I’m so glad I've got to know her. Through her, I knew Rstats communities, open-sciences communities and amazing, talented and innovative people; So Grateful! 
+* Personal highlights:
+> I am impressed with the Turing Way project and its collaborative principle. I enjoyed working with Arabic translation team using Crowdin and creating mini Arabic version of the Turing Way book. My special thanks to the super-talented lady Batool. I’m so glad I've got to know her. Through her, I knew Rstats communities, open-sciences communities and amazing, talented and innovative people; So Grateful!
 
-* More information: 
+* More information:
 > Grateful working with some science/tech/Rstats communities.
 
-* Quotes: 
+* Quotes:
 > The Turing Way Project and Thinking illustration with Scriberia are AMAZING. Very thankful had a chance this year to attend the Book Dash!
 
 ### Irene K
@@ -561,16 +561,16 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Jennifer Ding
 
-- Role: 
+- Role:
   - Book Dash 2022 participant
   - Project Member: Staff (2022-Present)
 - GitHub id: dingaaling
 - ORCID: [0000-0002-8266-4358](https://www.orcid.org/0000-0002-8266-4358)
 
-- Short bio: 
+- Short bio:
 > Jennifer is a Research Application Manager in the AI for Science and Government programme at the Alan Turing Institute, where she focuses on Digital Twins projects in Data-Centric Engineering and Urban Analytics. She is also a data scientist, with experience conducting R&D and creating applied AI products at startups such as Thresher and Numina, which acquired her first startup ParkIT. Her research interests lie in AI ethics and privacy by design, and she has a personal interest in small data projects and data visualisation.
 
-- Personal highlights: 
+- Personal highlights:
 > Working collaboratively with Book Dashers and artists from different countries! Contributing to a translation update was particularly cool, as this will make the Turing Way available to even more people around the world.
 
 ### Jessica Scheick
@@ -594,16 +594,16 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 * Twitter id: likeajumprope
 * ORCID: 0000-0003-4891-6256
 
-* Short bio: 
-> Johanna is a PhD candidate in computational neuroscience at the University of Melbourne, Australia and also and undergrad student in computer science at the University of Hagen, Germany. Johanna’s PhD projects focus on the identification of neuroimaging biomarkers for depression in large structural neuroimaging data using a machine learning  brain charting method. She also works on developing additional methods to make those analyses more reproducible by compensating for  biases caused by hard- and software differences in neuroimaging scanners. Johanna is also secretary of the open science group of the [Organisation for Human Brain Mapping](https://ossig.netlify.app/#OSSIG_team) and she has helped organising [brain-related hackathons in Australia and Asia](https://brainhack-aus.github.io/global2021/) 
+* Short bio:
+> Johanna is a PhD candidate in computational neuroscience at the University of Melbourne, Australia and also and undergrad student in computer science at the University of Hagen, Germany. Johanna’s PhD projects focus on the identification of neuroimaging biomarkers for depression in large structural neuroimaging data using a machine learning  brain charting method. She also works on developing additional methods to make those analyses more reproducible by compensating for  biases caused by hard- and software differences in neuroimaging scanners. Johanna is also secretary of the open science group of the [Organisation for Human Brain Mapping](https://ossig.netlify.app/#OSSIG_team) and she has helped organising [brain-related hackathons in Australia and Asia](https://brainhack-aus.github.io/global2021/)
 
-* Personal highlights: 
+* Personal highlights:
 > working collaboratively via zoom, the discovery of the cocoo clock (already introduced to my lab), meeting people from all over the worlds and learning about their lives and what brought them to the Turing Way.
 >
-* More information: 
+* More information:
 > Loves cats & coffee
 
-* Quotes: 
+* Quotes:
 > It was totally worth staying up late!
 
 ### José María Fernández
@@ -625,10 +625,10 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 - GitHub id: colomb
 - orcid: https://orcid.org/0000-0002-3127-5520
 
-- Short bio: 
+- Short bio:
 > Former neuro-geneticist (10 year of research on fruit fly memory and behavior), I have been more recently interested in data analysis and management, as a specialisation for my interests in open science (open research). I am presently working on ways (technical and social) to implement the principles of FAIR and open data in the lab workflow and ways to foster collaboration between researchers via the SmartFigure Gallery project.
 
-- Personal highlights: 
+- Personal highlights:
 > structure of the book and its RDM part, debugging figure views, content: version control for datasets + git for the whole research project data.
 
 <!---K--->
@@ -690,7 +690,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Lena Karvovskaya
 
-* Role: 
+* Role:
   * Project Member: Volunteer (2021-Present)
   * Book Dash Participant 2021
   * Book Dash Planning Committee Member 2022
@@ -909,13 +909,13 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 * GitHub id: [pherterich](http://github.com/pherterich)
 * ORCID: [0000-0002-4542-9906](https://orcid.org/0000-0002-4542-9906)
 
-* Short bio: 
-> Patricia Herterich is an information professional working on research data issues. She is a Software Sustainability Fellow 2019, Open Life Science mentor, and member of the Hidden REF committee. She holds a MA in Library and Information Science from Humboldt University of Berlin, Germany (2013) and has over ten years of experience in research data management working at CERN’s Scientific Information Service and Higher Education institutions in the UK. 
+* Short bio:
+> Patricia Herterich is an information professional working on research data issues. She is a Software Sustainability Fellow 2019, Open Life Science mentor, and member of the Hidden REF committee. She holds a MA in Library and Information Science from Humboldt University of Berlin, Germany (2013) and has over ten years of experience in research data management working at CERN’s Scientific Information Service and Higher Education institutions in the UK.
 
-* Personal highlights: 
+* Personal highlights:
 > Reminding myself of my technical skills and how I love proper GitHub workflows. Thank you for trusting me with the facilitation of a discussion session on leadership and the wonderful input from everyone. It was great coming back and contributing to the Turing Way.
 
-* More information: 
+* More information:
 > I crochet during meetings as it helps me to stay focused. Probably too much into vegan cake and pastries for my own good. Love dance-based exercise.
 
 ### Paul Owoicho
@@ -1011,6 +1011,18 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 * Personal highlights:
 > Reshama participated in The Turing Way Book Dash and collaborated to discuss plans and draft for a chapter on research impact in data science, with a case study from training events that she organises through Data Umbrella.
 
+### Rachael Stickland
+
+* Role: Book Dash Participant 2022
+* GitHub id: [RayStick](https://github.com/RayStick)
+* ORCID: [0000-0003-3398-4272](https://orcid.org/0000-0003-3398-4272)
+
+* Short bio:
+> I am a Data Wrangler based at The Alan Turing Institute. See my profile [here](https://www.turing.ac.uk/people/researchers/rachael-stickland) for more information.
+
+* Personal highlights:
+> Joining the Nov 2022 BookDash was a real pleasure - I met lots of great people with brilliant ideas, and I enjoyed learning more about _The Turing Way_. I am new to this community but felt welcomed and included. Working with the Scriberia artist on visualising the 'Data Wrangler' job role was a really interesting and useful experience, and it encouraged our wider team, based at The Alan Turing Institute, to reflect on our roles as Data Wranglers and how to explain this role to others. My contribution to the book was working with my colleague Mahwish Mohammad on adding a sub-chapter 'Data Wranglers' to the [Research Infrastructure Roles](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html) section, and starting (or joining) discussions with others in this community about Research Infrastructure Roles in general. I hope more collaborations will come out of these discussions, specifically content added to the book which compares and contrasts different Research Infrastructure Roles, and reflects on how to decide which role(s) would be needed for a specific research project.
+
 <!---S--->
 ## S
 
@@ -1058,14 +1070,14 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 * Twitter id: [qwertyquesting](https://twitter.com/qwertyquesting)
 * ORCID: [0000-0002-7038-1457](https://orcid.org/0000-0002-7038-1457)
 
-* Short bio: 
-> [Saranjeet Kaur Bhogal](https://saranjeetkaur.github.io/About-Me/) is a Statistician based in India. She is interested to learn about open source and open science and likes to remain involved with open science community work. In early 2021, she wrote the first draft of the [R Development Guide](https://github.com/r-devel/rdevguide) through a project funded by the [R Foundation](https://www.r-project.org/foundation/). Furthermore, she co-lead the work on the outreach of the R Development Guide at the [Digital Infrastructure Incubator at Code for Science & Society](https://incubator.codeforscience.org/). 
+* Short bio:
+> [Saranjeet Kaur Bhogal](https://saranjeetkaur.github.io/About-Me/) is a Statistician based in India. She is interested to learn about open source and open science and likes to remain involved with open science community work. In early 2021, she wrote the first draft of the [R Development Guide](https://github.com/r-devel/rdevguide) through a project funded by the [R Foundation](https://www.r-project.org/foundation/). Furthermore, she co-lead the work on the outreach of the R Development Guide at the [Digital Infrastructure Incubator at Code for Science & Society](https://incubator.codeforscience.org/).
 > Recently, she is working as a Technical Writer with The R Project at the Google Season of Docs 2022 for a project to ["Expand and Reorganize the R Development Guide"](https://github.com/rstats-gsod/gsod2022/wiki/GSOD-2022-Proposal). Previously, she has also worked with the Julia Language organization for [Google Summer of Code 2020](https://gist.github.com/SaranjeetKaur/37086fea06076bd3ec76d052cc166378). In early 2022, she was selected as the founding committee of NumFOCUS Project Incubator. She co-founded the [Research Software Engineering (RSE) Asia Association](https://rse-asia.github.io/RSE_Asia/) during my participation in the [Cohort 4 of the Open Life Science programme](https://openlifesci.org/ols-4/projects-participants/), to promote the RSE community and profession in the Asia region. She is also participating in the [Pilot Mentorship Programme](https://society-rse.org/events/pilot-mentoring-programme/) of the Society of Research Software Engineering to further build the RSE Asia community.
 
-* Personal highlights: 
+* Personal highlights:
 > Sharing the RSE Asia formation story through an open interview & collaborating with Adrien Liard (Scriberia artist)!
 
-* More information: 
+* More information:
 > I like creating zines & cartoons!
 
 ### Sophia Batchelor
@@ -1106,13 +1118,13 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 - Twitter: [timothy22000](https://twitter.com/timothy22000)
 - Orcid: https://orcid.org/0000-0003-3085-3664
 
-- Short bio: 
+- Short bio:
 > Former software engineer at a startup and former actuary at an insurance company. My research interests are on the intersection of AI with different areas such as healthcare and finance as well as to improve their reliability and interoperability when being deployed. I am also more recently interested in open science, open source collaboration, and reproducible research. My current research work involves the application of deep-learning to develop novel predictive biomarkers of tumour response using real-world imaging data of soft-tissue sarcomas.  My research is funded as part of the international Sarcoma Accelerator, funded by Cancer Research UK, which will collect one of the largest repositories of multi-center sarcoma datasets.
 
-- Personal highlights: 
+- Personal highlights:
 > Working together with the translation team (Batool, Iman, Alejandro), having interesting discussions with other participants of the Book Dash on different topics, contribute to the automation of the TW release workflow, meeting Batool again!
 
-- Quotes: 
+- Quotes:
 > Memorable experience with the Turing Way and Scriberia!! Great to have a chance to attend the Book Dash and collaborate with so many talented individuals.
 
 <!---U
