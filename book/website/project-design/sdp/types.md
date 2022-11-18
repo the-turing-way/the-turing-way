@@ -6,7 +6,9 @@ This could be data that personally identifies someone, information that we would
 Protection of this data may therefore be required for legal or ethical reasons.
 
 When measuring how sensitive a data is, different organizations may follow (or are required to follow) certain structure in identifying different levels of sensitive data and information, based on frameworks. In general, the sensitivity levels are broadly classified into three categories:
-* **High sensitivity / highly restricted data** - It could include details like sensitive personal data, salary information, bank details, research data with significant commercial value or obligations. If this kind of data is compromised or destroyed in an unauthorized way, it could greatly impact the organizations/individuals involved and they could face repercussions. Unauthorized disclosure may result in fines, legal action, reputational damage, economic losses, and other consequences.
+* **High sensitivity / highly restricted data** - could include details like sensitive personal data, salary information, bank details, research data with significant commercial value or obligations. 
+If this kind of data is compromised or destroyed in an unauthorized way, it could greatly impact the organizations/individuals involved and they could face repercussions. 
+Unauthorized disclosure may result in fines, legal action, reputational damage, economic losses, and other consequences.
 * **Medium sensitivity / restricted data** - It could include details like personal data that is not classified as 'sensitive', student/alumni contact details, staff contact details. This kind of data is usually for internal usages only, and if compromised or destroyed in an unauthorized way, would not be as impactful as the former on the organizations/individuals involved.
 * **Low sensitivity / internal data** - It could include details like non-confidential internal correspondence, working group minutes, internal policies and procedures. This kind of data could also comprise of data intended for public use, like public website contents or press releases.
 
