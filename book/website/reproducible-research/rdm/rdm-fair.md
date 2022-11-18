@@ -58,7 +58,6 @@ The FAIR Cookbook is developed and maintained by life sciences professionals, bo
 It is an attempt to help researchers work at different capacities, both in individual and collaborative workspaces.
 The RDMkit is open for suggestions from anyone, as long as they abide by the [contributor responsibilities](https://rdmkit.elixir-europe.org/how_to_contribute).
 
-[FAIR Cookbook](https://faircookbook.elixir-europe.org/content/recipes/community.html) is developed and maintained by life sciences professionals, both in the academia and industry sectors, including members of the ELIXIR community. [RDMkit](https://rdmkit.elixir-europe.org/how_to_contribute) is open for suggestions from anyone from within the community and outside of it, as long as they abide by the [contributor responsibilities](https://rdmkit.elixir-europe.org/how_to_contribute).
 
 Although initiated by open science communities operating in the life sciences, the FAIR principles have rapidly been adopted by publishers, funders, and pan-disciplinary infrastructure programmes and societies to maximise the openness and reusability of the data.
 
