@@ -8,6 +8,16 @@ A Data Management Plan is a roadmap for you to manage your data efficiently and 
 This can prevent data loss or breaches. 
 Planning ahead on how to manage your data consistently can save you time later on! It can also make it easier to {ref}`share<rr-rdm-sharing>` your data with others and therefore make the data more {ref}`FAIR<rr-rdm-fair>`
 
+```{figure} figures/data-management-plan.*
+---
+name: data-management-plan
+alt: There are two women in the illustration. The left one is looking distressed and says 'Oh no, my computer crashed! I lost all the data!' The right woman is holding a map which says DMP (Data Management Plan) and is looking happy. She is saying 'Good thing I had a plan! The data is all backed up! 
+
+---
+Data Management Plan. _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+```
+
+
 ## A Data Management Plan should provide information on five main topics:
 
 ### 1. Roles and Responsibilities
