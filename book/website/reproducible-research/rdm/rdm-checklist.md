@@ -2,7 +2,7 @@
 # Checklist
 Below follow two checklists, one for individual researchers and one for research teams:
 
-# Individual Checklist
+# Individual Researcher Checklist
 
 - Do not touch the raw data. 
 Back it up somewhere reasonable and keep a read-only copy.
