@@ -261,6 +261,7 @@ $ cd the-turing-way
 
 Now create the virtual machine.
 The output will show Vagrant creating the machine as well as the provisioner script installing the build dependencies.
+Windows users can modify this command to `vagrant up --provider hyperv` to use Hyper-V.
 
 ```{code-block} console
 $ vagrant up
