@@ -250,6 +250,7 @@ The script is then passed to the provisioner.
 Here we will show how to use The Turing Way Vagrant machine to build the book.
 First you will need to make sure you have [installed Vagrant](https://developer.hashicorp.com/vagrant/tutorials/getting-started/getting-started-install) and a compatible provider.
 [VirtualBox](https://www.virtualbox.org/) will probably be the easiest provider to use as it is supported on Linux, MacOS and Windows.
+Windows users can also try [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v), which is included in some editions of Windows 10 and Windows 11.
 
 If you haven't already, clone The Turing Way repository and change to the projects root directory.
 
