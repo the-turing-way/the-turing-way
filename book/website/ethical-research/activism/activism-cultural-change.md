@@ -113,7 +113,7 @@ A team with members in position of power, members with expertise or leadership s
 The **vision** refers to the future and why people should strive to create that future. 
 A vision clarifies the general direction for change and motivates people to take coordinated action. 
 A vision will acknowledge that sacrifices will be needed to achieve benefits that would not be achievable without change. 
-An effective vision is imaginable (it conveys a picture of the future), desirable (appealing to anyone involved in the change), feasible (has attainable goals), focused (for clear decision making), and flexible (to allow for alternative responses in light of changing conditions).
+An effective vision is imaginable (it conveys a picture of the future), desirable (appealing to anyone involved in the change), feasible (has attainable goals), focused (for clear decision-making), and flexible (to allow for alternative responses in light of changing conditions).
 
 This vision should be easy to communicate, in under five minutes. 
 The effective communication of the vision depends on the simplicity of the message, whether appropriate metaphors or pictures are used, the communication channels used, how often the message is repeated and how the behaviour is modelled by important people. 
