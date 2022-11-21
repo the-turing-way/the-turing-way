@@ -79,7 +79,7 @@ People will need to feel safe to experiment and take risks, and not be punished 
 
 It is important that changes are meaningfully clustered, or held off until they can be, to avoid a messy change pile. 
 * If changes are meaningfully clustered the changes are incorporated in the bigger change picture, and it makes sense to act on these further changes right now. 
-* In a messy change pile the changes are not neatly connected to the change that is already happening. 
+* In a messy change pile, the changes are not neatly connected to the change that is already happening. 
 This can feel overwhelming as too many different changes are happening at the same time, which may pull people in different directions. 
 
 To ensure that people will change their behaviour, they will need to learn how to adapt to new behaviours through training. 
