@@ -22,7 +22,7 @@ This might not feel like it, because the actual change that takes place will tak
 
 Generally, you will either be affected by cultural change, or, you want to invoke cultural change by adjusting existing practices yourself. 
 
-When you're affected by cultural change taking place in your environment, it may be difficult to change your practises and behaviour. 
+When you are affected by cultural change taking place in your environment, it may be difficult to change your practises and behaviour. 
 Cassandra Worthy wrote 'Change Enthusiasm' ({cite:ps}`Worthy2021change`) to provide you with exercises and tools to see changes as an opportunity for learning and growth.
 As an Early Career Researcher you may also have to deal with systemic cultural change in your discipline. 
 The work by {cite:ps}`Kent2022change` contains recommendations that may support you in this change journey.
