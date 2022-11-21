@@ -94,7 +94,7 @@ According to John P Kotter ({cite:ps}`Kotter2012change`) there are eight steps i
 2.	Creating the guiding coalition, a team that works together to lead the change.
 3.	Developing a vision to direct the change and strategy to achieve this vision.
 4.	Communicating the change vision using every communication channel possible, including role modelling.
-5.	Empowering action by removing obstacles and encouraging risk taking.
+5.	Empowering action by removing obstacles and encouraging risk-taking.
 6.	Generating short-term wins and recognise people who made these wins possible.
 7.	Consolidating change: maintain a sense of urgency, use situations to start a new wave of change, keep celebrating successes and evaluate/adjust if needed. 
 8.	Anchoring new approaches in the culture.
