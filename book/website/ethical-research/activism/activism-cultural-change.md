@@ -74,7 +74,7 @@ To manage transitions it needs to be clear what the problem (reason for change) 
 People will not change if they are not experiencing the problem and are convinced something needs to be adjusted. 
 Those experiencing the problem will also have expertise and knowledge to come up with an effective solution. 
 Individuals will stand to loose something when change is happening - a sense of control over this transition helps to make the transition more comfortable. 
-It is important to learn what problems people are facing in a transition face, and recognise individuals that do contribute to the change. 
+It is important to learn what problems people are facing in a transition phase, and recognise individuals that do contribute to the change. 
 People will need to feel safe to experiment and take risks, and not be punished when these experiments fail.
 
 It is important that changes are meaningfully clustered, or held off until they can be, to avoid a messy change pile. 
