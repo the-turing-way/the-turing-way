@@ -17,7 +17,7 @@ This is followed by short summaries of works on cultural change, written by Adri
 
 (er-activism-cultural-change-when)=
 ## Where/when will you encounter cultural change?
-As your social environment is continuously changing, you're likely to experience some degree of cultural change on a daily basis. 
+As your social environment is continuously changing, you are likely to experience some degree of cultural change on a daily basis. 
 This might not feel like it, because the actual change that takes place will take months or even years. 
 
 Generally, you will either be affected by cultural change, or, you want to invoke cultural change by adjusting existing practices yourself. 
