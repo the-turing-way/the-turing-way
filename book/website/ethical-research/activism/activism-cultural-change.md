@@ -125,7 +125,7 @@ The effective communication of the vision depends on the simplicity of the messa
 
 Cultural change is a long-term effort that you can achieve by taking one step at a time, ideally with some like-minded individuals.
 As it is difficult to achieve change without knowing where you're heading, it is good to outline a vision of what the change should look like. 
-To achieve change there will need to be transition. 
+To achieve change, transitions are inevitable. 
 Transitions can be difficult to navigate for individuals, so patience and support are needed to safely fail in adjusting existing practices. 
 The works described in this section provide some guidance and places to start your cultural change adventure!
 
