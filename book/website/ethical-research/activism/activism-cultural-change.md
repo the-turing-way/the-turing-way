@@ -10,7 +10,7 @@ Culture has an influence on your views, values, concerns and your identity.
 Culture can be difficult to change as it is hard to address directly and shared values can be deeply ingrained ({cite:ps}`Kotter2012change`). 
 Instead, norms of behaviour may be easier to change. 
 
-Here, cultural change is defined as “inspiring a change in behaviour in persons/organisations, with a lasting impact, strengthening the core values of persons/organisation"
+Here, cultural change is defined as inspiring a change in behaviour in persons/organisations, with a lasting impact, strengthening the core values of persons/organisation.
 
 This section will continue to describe where you will encounter cultural change. 
 This is followed by short summaries of works on cultural change, written by Adrienne Marie Brown, William and Susan Bridges and John P. Kotter. 
