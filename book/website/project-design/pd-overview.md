@@ -7,7 +7,7 @@ Project design techniques can help researchers clearly identify and communicate 
 It ensures that all stakeholders can work together efficiently, apply reproducibility methods and communicate their work effectively with their target audience.
 A project design requires project leads, managers and organisers to be deliberate and clear about their expectations from the beginning of their projects to ensure successful implementation of their plans at all stages of research.
 
-```{figure} ../figures/project-design-overview.jpg
+```{figure} ../figures/project-design-overview.*
 ---
 height: 500px
 name: project-design-overview

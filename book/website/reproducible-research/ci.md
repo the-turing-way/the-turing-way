@@ -11,7 +11,7 @@
 
 Continuous integration (CI) is the practice of integrating changes to a project made by individuals into a main, shared version frequently (usually multiple times per day). CI software is also typically used to identify any conflicts and bugs that are introduced by changes, so they are found and fixed early, minimising the effort required to do so. Running tests regularly also saves humans from needing to do it manually. By making users aware of bugs as early as possible researchers (if the project is a research project) do not waste a lot of time doing work that may need to be thrown away, which may be the case if tests are run infrequently and results are produced using faulty code.
 
-```{figure} ../figures/continuous-integration-may19.jpg
+```{figure} ../figures/continuous-integration-may19.*
 ---
 height: 500px
 name: continuous-integration-may19

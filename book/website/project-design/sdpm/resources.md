@@ -1,7 +1,7 @@
 (pd-sdpm-resources)=
 # Resources for working with sensitive data 
 
-* [Protecting sensitive data course](https://mantra.ed.ac.uk/protectingsensitivedata/) by [MANTRA]([https://mantra.edina.ac.uk](https://mantra.ed.ac.uk/))). 
+* [Protecting sensitive data course](https://mantra.ed.ac.uk/protectingsensitivedata/) by [MANTRA](https://mantra.ed.ac.uk/). 
 
 * [Presentations](https://www.youtube.com/watch?v=J9kWkzK83i4&list=PLyeHH3bEQqIbgbw75gheV27nFF2ctPPpR&index=1) by [Zosia Beckles](https://youtu.be/J9kWkzK83i4), [Michele Voznick](https://youtu.be/w5v5d6r6irs) and [Tessa Darbyshire](https://youtu.be/jEFu1ykVI_I) on Responsible Data Management: Legal & Ethical Aspects as part of the [Fail to Nail it sessions](https://www.youtube.com/c/AI4ScientificDiscovery).
 

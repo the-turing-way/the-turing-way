@@ -21,7 +21,7 @@ You can have as many branches off of branches as you desire (for example, Featur
 Using branches keeps working code safe, particularly in collaborations.
 Each contributor can have their own branch or branches which are only merged into the main project when they are ready.
 
-```{figure} ../../figures/sub-branch.png
+```{figure} ../../figures/sub-branch.*
 ---
 name: sub-branch
 alt: An illustration of branching in Git. There are four branches shown named main, Feature A, Feature B, and Feature A-1. Feature A and B are branches of the main branch, while Feature A-1 is a branch made from Feature A.

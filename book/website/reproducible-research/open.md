@@ -9,7 +9,7 @@
 | {ref}`rr-vcs` | Helpful | Experience with GitHub is particularly useful |
 
 
-```{figure} ../figures/evolution-open-research.jpg
+```{figure} ../figures/evolution-open-research.*
 ---
 name: evolution-open-research-rr
 alt: This image shows a researcher evolving their research practices to move towards the era of open research. The image starts with the person looking anxious about engaging with open science, slowly they take a few steps, feel comfortable about sharing their work, and finally start to collaborate with others.
@@ -60,11 +60,11 @@ There are five main schools of thought motivating open practices to benefit rese
 Open practices also benefit the researchers that propagate them.
 For example, there is evidence {cite:ps}`McKiernan et al. 2016<McKiernan2016Open>` that open access articles are cited more often, as shown by the metastudy presented in the figure below.
 
-```{figure} ../figures/open-access-citations.jpg
+```{figure} ../figures/open-access-citations.*
 ---
 height: 500px
 name: open-access-citations
-alt: A scatter plot of the relationship between citation rates and discipline
+alt: A plot of the relative citation rate (OA divided by non-OA), in the x axis, for 19 different areas of knowledge, in the y axis. The areas of knowledge are organized from the highest to the lowest Relative Citation Rate in the following order - Agricultural Studies, Physics/Astronomy, Medicine, Computer Science, Sociology/Social Sciences, Psychology, Political Science, Management, Law, Economics, Mathematics, Health, Engineering, Philosophy, Education, Business, Communications Studies, Ecology, and Biology. The highest mean values are around 3.2 for Agricultural Studies, and the lowest are around 1.2 for Biology.
 ---
 The relative citation rate (OA: non-OA) in 19 fields of research. This rate is defined as the mean citation rate of OA articles divided by the mean citation rate of non-OA articles. Multiple points for the same discipline indicate different estimates from the same study or estimates from several studies. (See footnote 1 for references.)
 ```

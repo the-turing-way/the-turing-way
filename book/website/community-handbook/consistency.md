@@ -30,7 +30,7 @@ If you identify more consistency issues that need to be addressed, join the conv
 
 ```
 
-```{figure} ../figures/theturingway-consistency.jpg
+```{figure} ../figures/theturingway-consistency.*
 ---
 height: 400px
 name: theturingway-consistency

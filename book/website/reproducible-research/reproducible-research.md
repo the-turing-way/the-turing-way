@@ -9,7 +9,7 @@ There are several definitions of reproducibility in use, and we discuss these in
 While it is absolutely fine for us each to use different words, it will be useful for you to know how _The Turing Way_ defines *reproducibility* to avoid misunderstandings when reading the rest of the handbook.
 
 
-```{figure} ../figures/reproducibility.jpg
+```{figure} ../figures/reproducibility.*
 ---
 height: 500px
 name: reproducible

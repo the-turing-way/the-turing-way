@@ -36,11 +36,11 @@ This includes:
 As a test for your spreadsheet compatibility with reproducible research, export your data from the spreadsheet to the CSV format and reopen it.
 If you can still get all the information that you stored in your sheet, then your data is fine.
 
-```
-Tip: If you want to use color to help with a rapid highlight in your document, create a new column to indicate which cells are highlighted (it becomes a part of your data).
+```{tip}
+If you want to use color to help with a rapid highlight in your document, create a new column to indicate which cells are highlighted (it becomes a part of your data).
 In addition to the visual feedback, you can now also use this information to filter or sort your data and get the highlighted cells quickly.
-
 ```
+
 (rr-rdm-spreadsheets-format)=
 ## 2. Tidy Format For Spreadsheets
 
@@ -60,7 +60,7 @@ In short:
 - **The first row is the header** 
 - Header names must not include a special character (including space) or start with a number
 
-```{figure} ../../figures/tidy-1.png
+```{figure} ../../figures/tidy-1.*
 ---
 name: tidy-1
 alt: The image depicts tidy data. One column represents a variable, one row represents a sample, and one cell represents a piece of information.

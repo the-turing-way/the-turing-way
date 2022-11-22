@@ -21,12 +21,12 @@ In addition, researchers must also plan how to publish sensitive data projects i
 In this chapter, we give an overview of different types of sensitive data. We then go on, in the next two chapters, to describe tools and practices that can help you manage, as well as, work reproducibly in these types of research projects. 
 
 In this chapter we will cover:
-* Types of sensitive data
-* Personal data
-* Confidential data {ref}`Confidential data<pd-sdp-confidential>`
-* Biological data
-* Metadata
-* Combined datasets
+* {ref}`Types of sensitive data<pd-sd-types>`
+* {ref}`Personal data<pd-sdp-personal>`
+* {ref}`Confidential data<pd-sdp-confidential>`
+* {ref}`Biological data<pd-sdp-biological>`
+* {ref}`Metadata<pd-sdp-metadata>`
+* {ref}`Combined datasets<pd-sdp-combined>`
 
 (pd-sdp-motivation)=
 ## Motivation

@@ -118,7 +118,7 @@ If you are sharing text files or working collaboratively on manuals or documents
 When using Markdown, it can be clearer to include a new line after every sentence.
 This chapter (and most, if not all, of this book) has a new line after every sentence that makes the raw text easier to read, review and solve the spacing issue.
 
-```{figure} ../../figures/xkcd1285.png
+```{figure} ../../figures/xkcd1285.*
 ---
 height: 500px
 name: xkcd1285
