@@ -1,7 +1,11 @@
 (pd-documentation-language)=
-# Languages and Platforms
+# Formatting Language and Platform
 
-## Languages
+<!-- Subchapter 2: Formatting Language and Platform -->
+
+## Formatting Languages
+
+[summary line]
 
 ### Markdown
 
@@ -17,22 +21,34 @@
 
 ## Platforms and Services for Documentation
 
+[summary line]
+
 ### GitHub
+
+[Why use this]
 
 <https://docs.github.com/en/pages>
 
 ### Read the Docs
 
+[Why use this]
+
 <https://readthedocs.org>
 
 ### GitBook
+
+[Why use this]
 
 <https://www.gitbook.com>
 
 ### Jupyter Book
 
+[Why use this]
+
 <https://jupyterbook.org>
 
 ### Sphinx (Python specific)
+
+[Why use this]
 
 <https://www.sphinx-doc.org>
