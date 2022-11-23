@@ -74,7 +74,7 @@ Here are some examples of places that employ Data Wranglers in the UK:
 * [EMBL's European Bioinformatics Institute](https://www.ebi.ac.uk/)
    * Project: [The Human Cell Atlas](https://www.humancellatlas.org/)
 
-_Please get in touch if you know of other organisations, and they can be added to this list._
+_Please get in touch if you know of other organisations that you would like to add to this list. This list, and this Data Wrangler page in general, is focused around Data Wrangler roles within an  academic research context, but they will also exist within an industry context._
 
 (cl-infrastructure-data-wranglers-summary)=
 # Data Wranglers: Summary
