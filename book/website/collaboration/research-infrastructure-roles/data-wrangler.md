@@ -71,6 +71,8 @@ Here are some examples of places that employ Data Wranglers in the UK:
 * [The Alan Turing Institute](https://www.turing.ac.uk/)
    * Project: [Early Detection of Neurodegenerative Diseases project](https://edon-initiative.org/)
    * Project: [The Artificial Intelligence for Multiple Long-Term Conditions, Research Support Facility](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility)
+* [EMBL's European Bioinformatics Institute](https://www.ebi.ac.uk/)
+   * Project: [The Human Cell Atlas](https://www.humancellatlas.org/)
 
 _Please get in touch if you know of other organisations, and they can be added to this list._
 
