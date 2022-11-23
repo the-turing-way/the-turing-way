@@ -13,7 +13,7 @@ The reality is that documentation is an integral part of all research processes,
 
 <https://carpentries-incubator.github.io/managing-computational-projects/03-setup/index.html#provide-a-process-for-documentation>
 
-(pd-motivation)=
+(pd-documentation-motivation)=
 ## Motivation and Background
 
 A systematic process for documentation is more than a formal book-keeping practice because it:
