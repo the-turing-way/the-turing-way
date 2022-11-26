@@ -44,7 +44,7 @@ Contact you research data, privacy or IT support team for guidance.
 **6. Anonymisation**
 
 Anonymisation is a process by which identifying information in a dataset is removed. 
-It is used primarily to allow data to be shared or published without revealing the confidential information it contains, while limiting the loss of information.
+It is used primarily to allow data to be shared or published without revealing the confidential information it contains.
 * Where possible, direct identifiers (such as names, addresses, telephone numbers and account numbers) should be removed as soon as the identifying information is no longer needed. 
 You can delete the data or replace it with pseudonyms. 
 For qualitative data you should replace or generalise identifying characteristics when transcribing interviews.
