@@ -36,7 +36,9 @@ Please find more information in the chapter on {ref}`Data Management Plans<rr-rd
 Data access entails distributing data, sharing data, publishing data, linking data to outputs, controlling access, establishing copyright and promoting or disseminating the data to wider audiences to access it or re-use it.  
 You can make the data freely available online to anyone who may be interested in reading it or you may restrict access of the data or provide an option of how to access the data.
 
-
 ### 7. Data transformation
 Data transformation is the practice of examining large datasets to generate new information. 
 You can re-analysis the research data and make relationships that may not have been previously discovered. 
+
+## Additional resources on data curation
+* [10 Things for Curating Reproducible and FAIR Research](https://curating4reproducibility.org/10things/)
