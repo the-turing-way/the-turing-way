@@ -117,6 +117,7 @@ An effective vision is imaginable (it conveys a picture of the future), desirabl
 
 This vision should be easy to communicate in under five minutes. 
 The effective communication of the vision depends on the simplicity of the message, whether appropriate metaphors or pictures are used, the communication channels used, how often the message is repeated and how the behaviour is modelled by important people. 
+These important or influential people can have expertise on the topic the change is focusing on, a network which they can influence, or hold a higher hierarchical position in the institution which provides them with more power to achieve changes.
 
 
 
