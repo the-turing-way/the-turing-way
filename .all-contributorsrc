@@ -3963,6 +3963,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "DorienHuijser",
+      "name": "Dorien Huijser",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58177697?v=4",
+      "profile": "http://www.dorienhuijser.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
