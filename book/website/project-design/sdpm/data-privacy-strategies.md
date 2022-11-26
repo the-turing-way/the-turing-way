@@ -20,6 +20,8 @@ An alternative is the physical destruction of the storage media.
 * Before deciding to transfer personal data, you should consider whether the transfer of identifiable data is necessary.
 For example, can data be de-identified or anonymised? 
 * If data cannot be made unidentifiable then you must ensure you have authority to transfer the personal data, and that there are appropriate safeguards in place to protect the data before, during and after transit.
+* Keeping data in one place is safer than transfering it elsewhere. 
+Consider whether it is possible to provide access to the data, instead of transferring them outside of your institution.
 * Often your university or institute will provide solutions for secure file transfer. 
 Contact you research data, privacy or IT support team for guidance. 
 
@@ -34,7 +36,8 @@ Contact you research data, privacy or IT support team for guidance.
     * See the [Ghent University Encryption for Researchers manual](https://osf.io/nx8km/) for more details and step-by-step guides
 
 **5. Access permissions**
-* Management of shared folder permissions.
+* Control who has access to which parts of the data, and which type of permissions they have, such as "read" vs. "write" access.
+* Deny access to sensitive data if that access is no longer needed.
 * Password protection.
 
 
