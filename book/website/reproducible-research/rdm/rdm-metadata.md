@@ -60,3 +60,4 @@ Want to learn more about Metadata and Metadata Standards? Watch an [introduction
 ## Additional Resources
 - Videos on [Data Description](https://www.youtube.com/watch?v=sg3P_V8PIes) & [Documentation and Data Quality](https://www.youtube.com/watch?v=3ByfQWDcavg) from the [TU Delft Open Science MOOC](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/).
 - Example of data documentation by {cite:ps}`Larsen2021Documentation`
+- [Webinar: The Data You Document are the Data We Love](https://youtu.be/SoFxBN-Jnbg?t=1133)
