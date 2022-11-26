@@ -22,3 +22,7 @@ If you have not read the chapters on {ref}`rr-open` and {ref}`cm-citable` yet, y
 - [Overview of RDM tools](https://rdmkit.elixir-europe.org/index.html)
 - [Data resources](https://chanzuckerberg.github.io/open-science/data_sharing/overview)
 - [Ten Common Data Management Mistakes](https://cghlewis.com/talk/sssp_ecf/) & [A Curated Collection of Data Management Resources](https://cghlewis.com/blog/data_mgmt_resources/) by Crystal Lewis 
+- [Data Management for Psychological Science: A Crowdsourced Syllabus](https://docs.google.com/document/d/1z15bL9cP84re6d4zdkO60q06lnknnN3xEktN7GnLFFQ/edit)
+- [Slides: Practicalities of Data Handling](https://doi.org/10.5281/zenodo.5078264)
+- [Slides: Research Data Management in the Life Sciences](https://osf.io/mvrny/)
+
