@@ -51,12 +51,18 @@ It is also essential to think about the file formats in which the information is
 Data should be presented in structured and standardised formats to support interoperability, traceability, and effective reuse.
 In many cases, this will include providing data in multiple, standardized formats, so that it can be processed by computers and used by people.
 
+(rr-rdm-sharing-resources)=
 ## Additional resources on data sharing
 * '[How can you make research data accessible?](https://www.software.ac.uk/how-can-you-make-research-data-accessible)': a blog that contains five steps to make your data more accessible
 * The European Commission's [data guidelines](https://open-research-europe.ec.europa.eu/for-authors/data-guidelines)
+* Videos on [Data sharing and reuse](https://www.youtube.com/watch?v=4igGBCggU0Y) & [Data Preservation and Archiving](https://www.youtube.com/watch?v=J76yTp8XE-0) from the [TU Delft Open Science MOOC](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/).
+* [Webinar: Why share your data?](https://www.ebi.ac.uk/training/online/courses/bringing-data-life-data-management-biomolecular-sciences/why-share-your-data/)
+* Coursera Videos from [Research Data Management and Sharing](https://www.coursera.org/learn/data-management) on the [Benefits of Sharing](https://www.coursera.org/lecture/data-management/benefits-of-sharing-IPZ0h), [Why Archive Data?](https://www.coursera.org/lecture/data-management/why-archive-data-lcQ2m), and [Why is Archiving Data Important?](https://www.coursera.org/lecture/data-management/why-is-archiving-data-important-04Gji)
+* [Blog: Ask not what you can do for open data; ask what open data can do for you](http://blogs.nature.com/naturejobs/2017/06/19/ask-not-what-you-can-do-for-open-data-ask-what-open-data-can-do-for-you/)
 
 (rr-rdm-data-availability-statement)=
 ## Data Availability Statement
 Once you made your data available, it is important to ensure that people can find it when they read the associated article.
 You should cite your dataset directly in the paper in places where it is relevant, and include a citation in your reference list, as well as include a Data Availability Statement at the end of the paper (similar to the acknowledgement section).
 See {ref}`cm-citable-cite-data` for some examples.
+
