@@ -49,7 +49,7 @@ If the spreadsheet is poorly organised, then it may be [difficult for collaborat
 Indeed, a large part of the work of data scientists is to transform the data into a form that the computer can read. 
 However, this is incredibly time-consuming when the information is split between several spreadsheets and when there are no concrete data transformation plans before the data is acquired.
 
-There are very simple rules to facilitate data use, which go into the concept of [**tidy data**](https://en.wikipedia.org/w/index.php?title=Tidy_data&oldid=962241815). 
+There are very simple rules to facilitate data use, which go into the concept of [**tidy data**](https://en.wikipedia.org/w/index.php?title=Tidy_data&oldid=962241815) {cite:ps}`Wickham2014tidydata`. 
 The tidy data format allows for filtering and sorting data easily in spreadsheet software. 
 
 In short:
@@ -203,3 +203,6 @@ It will make it clear to others what the file and header names mean, and what cr
 If you work in a team, you should take particular care of the conventions and make sure everyone follows them. 
 
 To learn more about data organisation in spreadsheets, you may have a look at the Data Carpentry lessons for [Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/) and [Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/).
+
+See also a blogpost with [resources for using spreadsheets in research and moving onto other tools](https://www.software.ac.uk/blog/2021-11-05-resources-using-spreadsheets-research-and-moving-other-tools).
+
