@@ -46,6 +46,8 @@ You can structure folders based on the person that has generated the data/folder
 - You can pull/download folder structures using GitHub:
 [This template](https://github.com/bvreede/good-enough-project) by Barbara Vreede, based on [cookiecutter](https://github.com/cookiecutter/cookiecutter), follows recommended practices for scientific computing by [Wilson et al. (2017)](https://doi.org/10.1371/journal.pcbi.1005510).
 - See [this template](https://osf.io/4sdn3/) by Chris Hartgerink for file organisation on the [Open Science Framework](https://osf.io/).
+- [How to Organize Your Digital Files](https://www.nytimes.com/wirecutter/guides/how-to-organize-your-digital-files/) by Melanie Pinola.
+- [Project structure videos by Danielle Navarro](https://www.youtube.com/watch?v=u6MiDFvAs9w&list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&index=1) (with [slides](https://slides.djnavarro.net/project-structure/#1)).
 
 (rr-rdm-storage-conventions)=
 ## File Naming Conventions
@@ -65,6 +67,8 @@ Some other tips for file naming include:
 - Avoid special characters (?\!@\*%{[<>) and spaces
 
 You can explain the file naming convention in a README.txt file so that it will also become apparent to others what the file names mean.
+
+Check [Jenny Bryan’s ‘naming things’ presentation](https://speakerdeck.com/jennybc/how-to-name-files), [MIT's recommendations on File naming and folder hierarchy](https://libraries.mit.edu/data-management/store/organize/), or this [8 step guide on how to set up your file naming convention](https://resolver.caltech.edu/CaltechAUTHORS:20200601-161923247) if you need more guidance. 
 
 (rr-rdm-storage-backups)=
 ## Backups
