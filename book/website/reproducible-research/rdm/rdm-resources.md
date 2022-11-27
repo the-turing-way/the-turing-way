@@ -16,6 +16,7 @@ If you have not read the chapters on {ref}`rr-open` and {ref}`cm-citable` yet, y
 
 (rr-rdm-resources-resources)=
 ## Resources
+- [Webinar: Know Moore About Research Data Management](https://www.youtube.com/watch?v=NCUT6MA-zVA)
 - [Webinar: Introduction to Research Data Management](https://www.youtube.com/watch?v=duDCcV8xhQo)
 - Podcast: Within and Between: [S2E13](https://open.spotify.com/episode/6klHxGUi0v5m5pTFUHbkC4?si=f681d9091fd0490d&nd=1) & [S2E14](https://open.spotify.com/episode/27SXLCsjhtvh4LyfaRIG92?si=9ab8715953584d46&nd=1) on Data Management
 - [Slides on Research Data Management](https://doi.org/10.5281/zenodo.4048591)
