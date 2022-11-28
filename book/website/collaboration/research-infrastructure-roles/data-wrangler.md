@@ -34,8 +34,8 @@ Data Wranglers should have experience with programming (no specific language req
 They will have an educational background to equip them to engage with the specific research data objects relevant to the projects they will work on.
 Therefore, they will have undergraduate and postgraduate degrees, or equivalent experience.
 As with many data science and research infrastructure roles, further relevant training and specialisation can happen on the job.
-They need good problem solving skills, with a curiosity and willingness to learn. Lastly,
-good interpersonal skills are required in order to work with people with many different backgrounds, skillsets and priorities.
+They need good problem solving skills, with a curiosity and willingness to learn.
+Lastly, good interpersonal skills are required in order to work with people with many different backgrounds, skillsets and priorities.
 
 (cl-infrastructure-data-wranglers-challenges)=
 ## Challenges for Data Wranglers
