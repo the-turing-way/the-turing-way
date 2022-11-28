@@ -39,7 +39,7 @@ They will have the ability to communicate with people with many different backgr
 (cl-infrastructure-data-wranglers-challenges)=
 ## Challenges for Data Wranglers
 
-Some key challenges of a Data Wrangler role, as it is defined on this page, are:
+Some key challenges of a Data Wrangler role are:
 
 * Immutable data collection methods (unable to change how data has been collected and stored)
 * Stringent data privacy requirements
