@@ -3869,7 +3869,8 @@
       "profile": "https://www.linkedin.com/in/aditi-dutta-22a299135/",
       "contributions": [
         "bug",
-        "content"
+        "content",
+        "ideas"
       ]
     },
     {
@@ -3959,6 +3960,15 @@
       "name": "WNekesa",
       "avatar_url": "https://avatars.githubusercontent.com/u/110591866?v=4",
       "profile": "https://github.com/WinnyNekesa",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "DorienHuijser",
+      "name": "Dorien Huijser",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58177697?v=4",
+      "profile": "http://www.dorienhuijser.com",
       "contributions": [
         "content"
       ]
