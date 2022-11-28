@@ -37,8 +37,6 @@ As with many data science and research infrastructure roles, further relevant tr
 They need good problem solving skills, with a curiosity and willingness to learn. Lastly,
 good interpersonal skills are required in order to work with people with many different backgrounds, skillsets and priorities.
 
-and interpersonal
-
 (cl-infrastructure-data-wranglers-challenges)=
 ## Challenges for Data Wranglers
 
