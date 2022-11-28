@@ -57,7 +57,7 @@ In an ideal situation, some of these challenges can be mitigated if communicatio
 * Centrally coordinated efforts: Data Wranglers can collect common questions and discussion topics of interest and provide answers and resources.
 * Data Wranglers will provide expertise in data collection, structuring and quality assurance.
 This can decrease the time it takes to go from data provider to data analysis, whilst also improving analysis quality and focus.
-* Data Wranglers can ensure a project keeps up to date with field specific knowledge and standards, relevant to data processing and sharing, and communicate this back to the project team.
+* Data Wranglers can ensure a project keeps up to date with field specific knowledge and standards relevant to data processing and sharing, and communicate this back to the project team.
 * By participating and contributing to data analysis meetings and tasks, Data Wranglers can provide the best suitable datasets for the analysis, help understand and overcome challenges, and suggest further research paths.
 
 (cl-infrastructure-data-wranglers-employers)=
