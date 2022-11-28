@@ -35,7 +35,7 @@ Discuss the checklist with your team!
     - The documentation describes the data management practices of the project and includes roles and responsibilities of individual team members      
 - We have established on/off boarding procedures.
 - Another researcher from outside the research group but in the same field would be able to find and use the project's research materials.
-- We have a standardised set of data management practices, including file naming conventions and folder structures (see {ref}`Data Storage and Organisation<rr-rdm-storage>`.
+- We have a standardised set of data management practices, including file naming conventions and folder structures (see {ref}`Data Storage and Organisation<rr-rdm-storage>`).
 - The data is stored and backed up on recommended data storage systems.
 - We reviewed all applicable policies (institution, funder, potential publisher).
 - We have read through and understand other relevant agreements, licenses, or other requirements.
