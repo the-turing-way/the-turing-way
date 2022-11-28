@@ -33,9 +33,11 @@ A key focus of a Data Wrangler’s role is the preparation of research ready dat
 Data Wranglers should have experience with programming (no specific language required, but there is a wider adoption of both `R` and `Python`), database querying (`SQL`) and data analysis.
 They will have an educational background to equip them to engage with the specific research data objects relevant to the projects they will work on.
 Therefore, they will have undergraduate and postgraduate degrees, or equivalent experience.
-As with many data science and research infrastructure roles, further relevant training and specialisation happens on the job.
-Additionally, a Data Wrangler will need to have great communication, problem solving and interpersonal skills, a curiosity and willingness to learn.
-They will have the ability to communicate with people with many different backgrounds, skillsets and priorities.
+As with many data science and research infrastructure roles, further relevant training and specialisation can happen on the job.
+They need good problem solving skills, with a curiosity and willingness to learn. Lastly,
+good interpersonal skills are required in order to work with people with many different backgrounds, skillsets and priorities.
+
+and interpersonal
 
 (cl-infrastructure-data-wranglers-challenges)=
 ## Challenges for Data Wranglers
