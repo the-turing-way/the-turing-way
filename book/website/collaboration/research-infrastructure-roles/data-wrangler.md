@@ -12,7 +12,7 @@ Traditionally, data wrangling tasks involve cleaning, restructuring and filterin
 However, in terms of Data Wrangler as a profession, day to day tasks and objectives can be much more diverse.   
 
 Data Wranglers work primarily in the space between data generators and data analysts, who are addressing the research question of interest.
-Understanding the intended use for the data in the context of the analysis and research questions, Data Wranglers can be in the position of influencing data generators in improving data collection methods, ultimately benefiting all points of the data life cycle.
+Understanding the intended use for the data in the context of the analysis and research questions, Data Wranglers can be in the position of influencing data generators in improving data collection methods.
 Similarly, Data Wranglers will conduct preliminary analysis on the data to ensure both completeness of data and preparation for data analysis, acting as a proxy for the data generator’s knowledge during the data analysis process.
 A key focus of a Data Wrangler’s role is the preparation of research ready data {cite:ps}`stewart2022table` in which data security, data management and FAIR standards {cite:ps}`mons2017fair` are all core priorities.
 
