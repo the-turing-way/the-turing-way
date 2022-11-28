@@ -25,7 +25,7 @@ Before you start creating a new schema, storage format or naming protocol, have 
 Something that is already being used is likely to be better in the long run.
 
 # Research Team Checklist: 
-This list is based on [Borghi and van Gulick 2022](https://doi.org/10.1162/99608f92.9497f68e).
+This list is based on [Borghi and van Gulick 2022](https://doi.org/10.1162/99608f92.9497f68e) {cite:ps}`Borghi2022checklist`.
 
 Discuss the checklist with your team!
   
