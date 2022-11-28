@@ -4020,6 +4020,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "H-Mateus",
+      "name": "Mateus Harrington",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26403410?v=4",
+      "profile": "https://gmbernardoharrington.netlify.app/",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
