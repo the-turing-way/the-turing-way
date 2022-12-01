@@ -25,7 +25,7 @@ parts:
                 file: reproducible-research/overview/overview-benefit
               - title: Barriers
                 file: reproducible-research/overview/overview-barriers
-              - title: Resources
+              - title: Resources blablabla
                 file: reproducible-research/overview/overview-resources
           - title: Open Research
             file: reproducible-research/open
@@ -100,7 +100,7 @@ parts:
                 file: reproducible-research/rdm/rdm-dmp
               - title: The FAIR Principles and Practices
                 file: reproducible-research/rdm/rdm-fair
-              - title: Personal data management
+              - title: Personal data management foooo
                 file: reproducible-research/rdm/rdm-personal
               - title: Data Storage and Organisation
                 file: reproducible-research/rdm/rdm-storage
@@ -153,7 +153,7 @@ parts:
             sections:
               - title: Code Style and Formatting
                 file: reproducible-research/code-quality/code-quality-style
-              - title: Checklist and Resources
+              - title: Checklist and Resources bla
                 file: reproducible-research/code-quality/code-quality-resources
           - title: Code Testing
             file: reproducible-research/testing
@@ -239,7 +239,7 @@ parts:
                 file: reproducible-research/risk-assess/risk-assess-impact
               - title: Summary of Risk Assessment
                 file: reproducible-research/risk-assess/risk-assess-resources
-          - title: Case Studies
+          - title: Case Studies bla
             file: reproducible-research/case-studies
             sections:
               - title: A Statistical Methods Manuscript
@@ -531,11 +531,11 @@ parts:
             sections:
               - title: Community Managers Overview
                 file: collaboration/research-infrastructure-roles/community-manager
-              - title: Data Stewards Overview
+              - title: Data Stewards Overview sdfdsgdg
                 file: collaboration/research-infrastructure-roles/data-steward
               - title: Data Steward Personal Story
                 file: collaboration/research-infrastructure-roles/data-steward-personal-story
-              - title: Data Wrangler Overview
+              - title: Data Wrangler Overview jsdhjs
                 file: collaboration/research-infrastructure-roles/data-wrangler
               - title: Research Software Engineers Overview
                 file: collaboration/research-infrastructure-roles/rse
@@ -579,7 +579,7 @@ parts:
           - title: Law, Policy and Human Rights in Ethics
             file: ethical-research/law-policy
             sections:
-              - title: Ethics and law
+              - title: Ethics and law dfdf
                 file: ethical-research/law-policy/law-policy-ethics
               - title: Human rights
                 file: ethical-research/law-policy/law-policy-rights
