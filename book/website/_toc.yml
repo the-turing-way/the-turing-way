@@ -85,7 +85,7 @@ parts:
               - title: Machine Learning Model Licenses
                 file: reproducible-research/licensing/licensing-ml
                 sections:
-                  - title: "Case Studies Choosing an ML License for fun"
+                  - title: Case Studies Choosing an ML License for fun
                     file: reproducible-research/licensing/licensing-ml-case-studies
               - title: License Compatibililty
                 file: reproducible-research/licensing/licensing-compatibility
