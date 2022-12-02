@@ -38,5 +38,5 @@ See [here](https://www.aalto.fi/en/services/rdm-training) for the full course.
 
 * Qualitative Data Repository Guidance on [Human Participants](https://qdr.syr.edu/guidance/human-participants).
 
-
+*  [Data Privacy Handbook](https://utrechtuniversity.github.io/dataprivacyhandbook) for researchers dealing with personal data at Utrecht University (NL) and beyond (work in progress).
 
