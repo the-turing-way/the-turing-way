@@ -68,7 +68,10 @@ Some other tips for file naming include:
 
 You can explain the file naming convention in a README.txt file so that it will also become apparent to others what the file names mean.
 
-Check [Jenny Bryan’s ‘naming things’ presentation](https://speakerdeck.com/jennybc/how-to-name-files), [MIT's recommendations on File naming and folder hierarchy](https://libraries.mit.edu/data-management/store/organize/), or this [8 step guide on how to set up your file naming convention](https://resolver.caltech.edu/CaltechAUTHORS:20200601-161923247) if you need more guidance. 
+For further guidance on file naming: 
+- [Jenny Bryan’s ‘naming things’ presentation](https://speakerdeck.com/jennybc/how-to-name-files) (or watch the [5 minute summary](https://youtu.be/ES1LTlnpLMk))
+- [MIT's recommendations on File naming and folder hierarchy](https://libraries.mit.edu/data-management/store/organize/)
+- [8 step guide on how to set up your file naming convention](https://resolver.caltech.edu/CaltechAUTHORS:20200601-161923247) 
 
 (rr-rdm-storage-backups)=
 ## Backups
