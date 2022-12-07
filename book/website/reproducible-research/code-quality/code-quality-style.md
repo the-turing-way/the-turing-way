@@ -26,18 +26,19 @@ Almost all widely used IDEs and text-editors support automatic code formatting u
 In addition to that, there are many language specific tools for automatically formatting code according to a particular style.
 Note that editors often support using these tools directly from the editing environment.
 
-| Language   | Formatter Tool              |
-|------------|-----------------------------|
-| C/C++      | [GNUIndent](http://www.gnu.org/software/indent/), [GreatCode](http://sourceforge.net/projects/gcgreatcode/)|
-| Python     | [Black](https://black.readthedocs.io), [yapf](https://pypi.org/project/yapf/)|
-| Javascript | [beautifier.io](https://beautifier.io/)|
-| Java       | [Google Java format](https://github.com/google/google-java-format), [JIndent](http://www.jindent.com/)|
-| PHP        | [phpStylist](http://sourceforge.net/projects/phpstylist/)|
-| Perl       | [PerlTidy](http://perltidy.sourceforge.net/)|
-| R          | [formatR](https://yihui.org/formatr/)|
-| Shell/Bash | [ShellIndent](http://www.bolthole.com/AWK.html)|
-| CSS        | [CSSTidy](http://csstidy.sourceforge.net/)|
-| HTML       | [Tidy](http://tidy.sourceforge.net/)|
+| Language      | Formatter Tool              |
+|---------------|-----------------------------|
+| C/C++         | [GNUIndent](http://www.gnu.org/software/indent/), [GreatCode](http://sourceforge.net/projects/gcgreatcode/)|
+| Python        | [Black](https://black.readthedocs.io), [yapf](https://pypi.org/project/yapf/)|
+| Javascript    | [beautifier.io](https://beautifier.io/)|
+| Java          | [Google Java format](https://github.com/google/google-java-format), [JIndent](http://www.jindent.com/)|
+| MATLAB/Octave | [MISS_HIT](https://florianschanda.github.io/miss_hit/)|
+| PHP           | [phpStylist](http://sourceforge.net/projects/phpstylist/)|
+| Perl          | [PerlTidy](http://perltidy.sourceforge.net/)|
+| R             | [formatR](https://yihui.org/formatr/)|
+| Shell/Bash    | [ShellIndent](http://www.bolthole.com/AWK.html)|
+| CSS           | [CSSTidy](http://csstidy.sourceforge.net/)|
+| HTML          | [Tidy](http://tidy.sourceforge.net/)|
 
 **Quick Tip**: If you use VS Code as your primary text editor, you can enable automatic code formatting right into your browser. Open your preferences page in JSON mode and add the following line:
 
