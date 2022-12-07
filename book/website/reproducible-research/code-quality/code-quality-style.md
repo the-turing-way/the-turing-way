@@ -21,7 +21,7 @@ Many developers and organisations maintain standards of code formatting like **2
 
 [EditorConfig](https://editorconfig.org) is a language independent tool that helps maintain consistent whitespace styles for multiple people working on the same project across various editors.
 Most editors support EditorConfig either natively or through a plugin.
-Almost all widely used IDEs and text-editors support automatic code formatting upon typing. For example: [JetBrains IDE Suite](https://www.jetbrains.com/products.html#), [VSCode](https://code.visualstudio.com/) and [Atom](https://atom.io/).
+Almost all widely used IDEs and text-editors support automatic code formatting upon typing. For example: [JetBrains IDE Suite](https://www.jetbrains.com/products.html#) and [VSCode](https://code.visualstudio.com/).
 
 In addition to that, there are many language specific tools for automatically formatting code according to a particular style.
 Note that editors often support using these tools directly from the editing environment.
