@@ -784,6 +784,19 @@ what it would cover.
 <!---M--->
 ## M
 
+### Mahwish Mohammad
+
+* Role: Book Dash Participant 2022
+* GitHub id: [Rainiefantasy](https://github.com/Rainiefantasy)
+
+* Short bio:
+> I am a Data Wrangler based at The Alan Turing Institute.
+
+* Personal highlights:
+> It's been a wonderful experience contributing to The Turing Way while meeting inspiring people from diverse backgrounds along the way. 
+> I really enjoyed the opportunity to work closely with my colleague Rachael Stickland to reflect and encapsulate our image of a 'Data Wrangler' in our own [Data Wranglers Overview](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/data-wrangler.html) sub-chapter. 
+> These Book Dashes are a great way to encourage open collaboration, sharing ideas and working on helpful tools to make things such as open-science and reproducibility more practical and friendlier for the wider community.
+
 ### Malvika Sharan
 
 * Role:
