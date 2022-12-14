@@ -70,7 +70,7 @@ This project is openly developed and any and all questions, comments and recomme
 
 _The Turing Way_ is an open collaboration and community-driven project.
 Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member. 
-Long-term contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project.
+Long-term contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project, as described in the [Ways of Working document](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md).
 
 The project is coordinated by the co-lead investigators **Kirstie Whitaker** (founder) and **Malvika Sharan**, and hosted at [The Alan Turing Institute](https://www.turing.ac.uk/).
 **Anne Lee Steele** is the Community Manager of The Turing Way since March 2022.
