@@ -4039,6 +4039,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "priyanshuone6",
+      "name": "Priyanshu Agarwal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64051212?v=4",
+      "profile": "http://git.io/priyanshu",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
