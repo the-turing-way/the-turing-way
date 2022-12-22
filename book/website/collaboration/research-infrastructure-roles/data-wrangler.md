@@ -78,7 +78,7 @@ Here are some examples of places that employ Data Wranglers in the UK:
 _Please get in touch if you know of other organisations that you would like to add to this list. This list, and this Data Wrangler page in general, is focused around Data Wrangler roles within an  academic research context, but they will also exist within an industry context._
 
 (cl-infrastructure-data-wranglers-summary)=
-# Data Wranglers: Summary
+## Data Wranglers: Summary
 
 A Data Wrangler position is becoming recognised as a crucial part of any project that involves large amounts of complex data, specifically in a research context.
 They will have a diverse set of technical and interpersonal skills.
