@@ -20,7 +20,7 @@ In this repository, we store the newsletter drafts in markdown format and we rec
 | Sep 2022 | 2022-09-01 | [36_Sep2022](newsletter_36_Sep2022.md)  | [End-of-season updates from The Turing Way community](https://tinyletter.com/TuringWay/letters/end-of-season-updates-from-the-turing-way-community) |
 | Oct 2022 | - | - | - |
 | Nov 2022 | 2022-11-08 | [37_Nov2022](newsletter_37_Nov2022.md)  | [Seasonal greetings and updates from The Turing Way Community](https://tinyletter.com/TuringWay/letters/seasonal-greetings-and-updates-from-the-turing-way-community) |
-| Dec 2022 | - | - | - |
+| Dec 2022 | 2022-12-22 | [38_Dec2022](newsletter_38_Dec2022.md) | [Four years of The Turing Way project, highlights from our community and holiday wishes!](https://tinyletter.com/TuringWay/letters/four-years-of-the-turing-way-project-highlights-from-our-community-and-holiday-wishes) |
 
 ## 2021
 
