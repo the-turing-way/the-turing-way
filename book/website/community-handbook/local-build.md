@@ -1,7 +1,7 @@
 (ch-local-build)=
 # How to build Jupyter Book locally
 
-## Why build locally?
+## But why build locally?
 
 It's always handy to be able to preview any changes you have been working on as you go - you can be confident that changes you have made are accurate and as intended. A nice way to do this is to use the underlying Jupyter Book tool to build the book locally.
 
@@ -55,7 +55,8 @@ Follow the link as before and you will see changes specific to that branch rende
 
 - Running the `juypter-book` command to build the Turing Way book relies on having a python installation on your machine. As with any other programming language such as R or Julia, any given python installation might look different from another due to the packages or libraries that come with the installation. 
 - In particular, some packages depend on the presence of specific versions of other packages to function, and so to ensure your local build works smoothly you will want to minimize as much mismatched dependencies as possible.
-- But this can be difficult! Even with an organized, concerted effort, package management for programming languages naturally throws up dependency issues. Python packages, for reasons not discussed here, tend to suffer from dependency issues a bit more than other languages (note that all languages do!) and one guaranteed way to come across such an issue by trying to maintain all of your python projects using just one, large set of packages, each at a specific version. You simply cant cater to the needs of all package dependencies this way. https://xkcd.com/1987/ ![](https://imgs.xkcd.com/comics/python_environment.png)
+- But this can be difficult! Even with an organized, concerted effort, package management for programming languages naturally throws up dependency issues. Python packages, for reasons not discussed here, tend to suffer from dependency issues a bit more than other languages (note that all languages do!) and one guaranteed way to come across such an issue by trying to maintain all of your python projects using just one, large set of packages, each at a specific version. You simply cant cater to the needs of all package dependencies this way. https://xkcd.com/1987/   
+![](https://imgs.xkcd.com/comics/python_environment.png)
 - Anaconda is package manager that can install Python, R, Julia etc. *Miniconda* is just a smaller package manager that by default installs a smaller set of packages i.e. in terms of dependencies - less things to go wrong.
 - The most relevant feature for us here is *virtual environments*. Both anaconda and miniconda can easily create language agnostic virtual environments where each contains their own separate set of packages that don't interfere with each other. In fact it is best practice to create a virtual environment for each project you work on.
 - We *could* just use python's built in virtualenv tool to do this, but it doesn't extend into a multi-language env like anaconda and miniconda offer.
