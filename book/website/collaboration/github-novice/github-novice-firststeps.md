@@ -34,7 +34,7 @@ Annotated diagram of repository after its basic creation, explaining the main fe
 - **3. Code:** this tab brings you back to your landing page. It shows you the folders that you have made in the repo.
 - **4. Main:** this is your default development branch or active branch of your repository.
 - **5. Branch:** parallel version(s) of your repository.
-- **6. README.md file:** this file contains basic information about your project (in this case it only has the project name: “trial-repo”. When we plan to make a website, this will be rendered as a landing (front) page for your site.
+- **6. `README.md` file:** this file contains basic information about your project (in this case it only has the project name: “trial-repo”. When we plan to make a website, this will be rendered as a landing (front) page for your site.
 
 On the right side of the webpage we have the following features:
 - **7. Green Code button:** click it to download your repository locally.
