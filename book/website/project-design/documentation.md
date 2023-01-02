@@ -56,7 +56,7 @@ Here are a few recommendations to make documentation easier:
 
 [provide Summary]
 
-See {ref}`pd-project-repo<Creating Project Repositories>` chapter for details.
+See {ref}`Creating Project Repositories<pd-project-repo>` chapter for details.
 
 ### Data Documentation and Metadata
 
