@@ -108,7 +108,7 @@ You can copy and paste other people’s raw file content into your `README.md` f
 
 Here is an example of a really well formatted `README.md` file: [STEMM Role Models App](https://github.com/KirstieJane/STEMMRoleModels/blob/gh-pages/README.md)
 
-If you click the link above, it will take you to their README.file. You can use this as a template for your `README.md` file.
+If you click the link above, it will take you to their README file. You can use this as a template for your `README.md` file.
 
 * To look at the raw markdown file you need to click on the raw button (top right of the white box).
 * This takes you to the markdown raw file that is rendered into a nicely formatted `README.md` file on GitHub.
