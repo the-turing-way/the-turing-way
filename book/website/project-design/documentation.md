@@ -69,7 +69,7 @@ When data is submitted to a trusted data repository, the machine-readable metada
 Even when the data can not be shaed openly, or is too large to share in a repository, a text file with machine-readable metadata can nonetheless be added as part of the documentation.
 Although intended for machine reading, metadata is equally important for humans to understand what data contains before they download or open data files.
 
-See {ref}`rr-rdm-metadata<Documentation and Metadata` chapter for details.
+See {ref}`Documentation and Metadata<rr-rdm-metadata>` chapter for details.
 
 ### Technical Documentation
 
