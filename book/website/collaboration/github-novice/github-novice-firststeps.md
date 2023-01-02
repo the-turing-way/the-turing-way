@@ -148,13 +148,13 @@ The standard licenses offered on GitHub are most approriate for software and won
 
 [Creative commons](https://creativecommons.org/licenses/) licenses are the best to use for this purpose, and the most open of these is the CC BY 4.0.
 
-To add a license to your repository, the first thing to do is create a LICENSE.md file:
+To add a license to your repository, the first thing to do is create a `LICENSE.md` file:
 
 * To do this, click on the Add file button, and click create file. This will give you a blank file.
-* Then, you need to name the file, so call it LICENSE.md. This makes it into a markdown file.
+* Then, you need to name the file, so call it `LICENSE.md`. This makes it into a markdown file.
 * You can find all the creative commons licenses in the link above so copy the text of the license you want and then paste it into this file.
 * Don’t forget to press the green commit new file button at the bottom and write a commit message to describe what you have done.
 * You can also add a link to the license to the bottom of your `README.md` file. Here is a link to a repository that you can copy to add in a [CC BY 4.0 license](https://github.com/santisoler/cc-licenses).
-It has a text file for your LICENSE.md file and also a shield (or badge) that you can put at the bottom of your `README.md` file.
+It has a text file for your `LICENSE.md` file and also a shield (or badge) that you can put at the bottom of your `README.md` file.
 
 You can find more information about licenses in the {ref}`rr-licensing` chapter of The Turing Way.
