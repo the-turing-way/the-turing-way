@@ -8,6 +8,8 @@ Software are made available under an MIT license.
 The  license text listed below (describing both CC-BY and MIT licenses as well as their usage in The Turing Way) is re-used under a CC-BY license from The Carpentries community materials.
 (Specifically from the [Reproducible Science Curriculum](https://github.com/Reproducible-Science-Curriculum/sharing-RR-Jupyter/blob/gh-pages/LICENSE.md)).
 
+You can read more about licenses [in the book itself](https://the-turing-way.netlify.app/reproducible-research/licensing.html).
+
 ## Process documents and data
 
 All documentation and chapter materials in this repository are made available under the [Creative Commons Attribution license][cc-by-human].
