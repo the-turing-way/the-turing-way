@@ -1,12 +1,10 @@
 (rr-code-reuse-packages)=
-
 # Overview of writing packages
 
 This section provides an overview of why software packages and libraries are useful for code reproducibility and why you might want to write your own packages. 
 Packages are written to a high standard of reproducible code (see the guidelines for [publishing an R package on CRAN](https://cran.r-project.org/web/packages/policies.html)), where recommendations such as those found in the {ref}`rr-code-reuse-details` and {ref}`rr-code-reuse-recommendations` sections are commonly employed to ensure reproducibility of the functionality of the package.
 
 # What are packages?
-
 Packages, or sometimes called libraries or modules are a basic unit of reproducible, and often efficient, code that aims to create or extend the functionality of a programming language.
 Some packages, such as Python's `numpy` package are so famous that they even get published in scientific journals such as [Nature](https://www.nature.com/articles/s41586-020-2649-2)!
 Setting aside user defined functions, every function that you call in any programming language is defined within a package, and for the many open source languages that exist, anyone can write a package that can be shared and used within a standard install of that programming language. 
@@ -19,14 +17,13 @@ print('Hello, world!')
 
 When you install Python, the `print` function is already included as part of a package called `bltinmodule.c` - 2,843 lines of code written to define some core functionalities of the Python language....written in the C programming language! 
 You can see the source code for yourself at the [Python Github Repository](https://github.com/python/cpython/blob/3.8/Python/bltinmodule.c#L1821). 
-You might be asking "why is a Python library written in C?".
+You might be asking "why is a Python library written in C?"
 The answer is that compiled C code runs extremely fast compared to higher level code such as Python code, and this gives you another insight into good practices employed when writing sharing code (via a package) to other users - try and optimize your code so that it runs efficiently. 
 Many other languages will also write packages that aren't written using the language itself, instead written in languages such as C or Fortran. 
 
 # Where / how can I get packages?
-
 Programming languages can offer a Central Resource to download and install packages, such as [cran](https://cran.r-project.org/), [PyPi](https://pypi.org/) and [npm](https://www.npmjs.com/). 
-The following table shows a list og popular languages and how many packages they contain (taken from https://github.com/breck7/pldb).
+The following table shows a list of popular languages and how many packages they contain (taken from https://github.com/breck7/pldb).
 
 ```{table} Central Resource for Packages Table
 :name: central-resources
@@ -57,7 +54,6 @@ As well as Central Package Resources, many packages are often developed and acce
 Given the nature of reproducible code, if which a package is a fundamental unit of, you will likely find most packages that exist in a Central Resource also has it's code published in a git repository.
 
 # Why write software packages?
-
 If you want to share some set of functions that you have written that work together and use often to achieve something specific - writing a package is a great way of making these set of functions available for others to use. 
 Some examples might include:
 
@@ -106,7 +102,6 @@ Create a skeleton directory template commonly used for R packages - will include
 ```r
 usethis::create_package("/RDemoPackage")
 ```
-
 ```
 ├── DESCRIPTION
 ├── NAMESPACE
