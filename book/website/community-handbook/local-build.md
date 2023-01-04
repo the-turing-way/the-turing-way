@@ -2,7 +2,6 @@
 # How to build Jupyter Book locally
 
 ## But why build locally?
-
 It's always handy to be able to preview any changes you have been working on as you go - you can be confident that changes you have made are accurate and as intended. 
 A nice way to do this is to use the underlying Jupyter Book tool to build the book locally.
 
@@ -10,7 +9,6 @@ This is useful because it allows you to preview any changes you have made on you
 You can then decide if you are happy with the result and push your changes to the remote branch thus helping to keep Pull Request conversations and commit histories a bit cleaner.
 
 ## Step-by-step guide
-
 1. Install miniconda https://conda.io/projects/conda/en/latest/user-guide/install/index.html#regular-installation
 2. Run `conda init` in your terminal. You should see `(base)` in your prompt indicating that conda was successfully installed and you are now in it's base environment.
 3. Create a new environment and install a modern version of python into it
@@ -45,7 +43,6 @@ You can then decide if you are happy with the result and push your changes to th
     ```
     
 ### Build the book while working on a Pull Request
-
 If you would like to preview a version of the book from a certain branch (perhaps to render the book while working on a PR) then simply switch to the required branch and rebuild the book as in step 10:
    ```
    git checkout mybranch
@@ -54,7 +51,6 @@ If you would like to preview a version of the book from a certain branch (perhap
 Follow the link as before and you will see changes specific to that branch rendered.
 
 ## Why did we recommend using miniconda?
-
 - Running the `juypter-book` command to build the Turing Way book relies on having a python installation on your machine. As with any other programming language such as R or Julia, any given python installation might look different from another due to the packages or libraries that come with the installation. 
 - In particular, some packages depend on the presence of specific versions of other packages to function, and so to ensure your local build works smoothly you will want to minimize as much mismatched dependencies as possible.
 - But this can be difficult! Even with an organized, concerted effort, package management for programming languages naturally throws up dependency issues. Python packages, for reasons not discussed here, tend to suffer from dependency issues a bit more than other languages (note that all languages do!) and one guaranteed way to come across such an issue by trying to maintain all of your python projects using just one, large set of packages, each at a specific version. You simply cant cater to the needs of all package dependencies this way. https://xkcd.com/1987/   
