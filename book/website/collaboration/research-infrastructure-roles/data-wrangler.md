@@ -5,7 +5,8 @@ Data Wranglers can be viewed as a specialised type of data scientist, primarily 
 
 ```{figure} ../../figures/data-wrangler.jpg
 ---
-width: 500px
+height: 400px
+width: 526px
 name: data-wrangler
 alt: Hand-drawn illustration by Scriberia. A person representing a Data Wrangler is in a central bubble, on their left there are links to three clusters of connected shapes representing unstructured data. The Data Wrangler ‘unravels’ these clusters and re-structures them to form three distinct presents, labelled ‘Research Ready Data’, shown to the right of the central bubble. Attached to the central bubble there are smaller individual bubbles labelled ‘Connecting Specialists' (shown by a triangle of linked people), 'Data Privacy and Security’ (padlock) and 'Data Quality and Standards (sparkling diamond).
 ---
