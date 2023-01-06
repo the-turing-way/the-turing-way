@@ -18,10 +18,9 @@ Please ensure that you attribute the image files fairly and avoid files that are
 
 The following recommendations will help you to check that you're using the images according to their licence permissions:
 
-* If you are using your own images, please add them to the `figures` folder.
-  They will then be made available under a [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ast) licence as with the rest of the book.
-* Alternatively, you can source images in the public domain ([CC0 licence](https://creativecommons.org/share-your-work/public-domain/cc0)) or images licensed through appropriate Creative Commons terms.
-  Images that are also available under CC-BY 4.0 permissions are very easily interoperable with the _The Turing Way_ as this is the same licence as the rest of the content for the book.
+* You can source images in the public domain ([CC0 licence](https://creativecommons.org/share-your-work/public-domain/cc0)) or images shared under an appropriate permissive license.
+  Images that are available under CC-BY 4.0 permissions are very easily interoperable with the _The Turing Way_ as this is the same licence as the rest of the content for the book.
+* If you are using your own images, they will be made available under a [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ast) licence as with the rest of the book.
 * If an image (for example that you have found on the internet), is not available under an open licence please contact the original author of the image and seek permission to reproduce their image.
   Make sure to ask them **how they would like to be credited** in the caption for the figure.
 
@@ -31,12 +30,13 @@ In general, make sure to always cite the image properly as directed by the image
 (ch-style-figures-image)=
 ## Image type, file name, size and location
 
+Every image file used in this book should be located in the directory `book/website/figures` of our [GitHub Repository](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/website/figures).
+If you use a new image file, please add the file in the `figures` directory by either uploading via GitHub, or adding locally and pushing the change online when using git.
+
 Please upload `.jpg`, `.png`, or `.svg` files that are under 1MB to allow them to load faster in the online book.
 If your file is larger than 1MB, please use a local image editing tools, or online tool like [IMG2GO](https://www.img2go.com/compress-image) to compress your file.
 
 To name your image file, please use all-lowercase and separate words with hyphens.
-Every image file used in this book should be located in the file `_figure-list.md` in the directory `book/website/figures` of our [GitHub Repository](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/website/figures).
-If you use a new image file, please add the file in the `figures` directory, and add details in the `_figure-list.md`.
 
 (ch-style-figures-syntax)=
 ## MyST syntax to add a figure to a _Turing Way_ chapter
