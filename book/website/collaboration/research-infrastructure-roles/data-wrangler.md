@@ -3,6 +3,15 @@
 
 Data Wranglers can be viewed as a specialised type of data scientist, primarily working in the space between data generators and data analysts. There are many activities that a data scientist might undertake, for example, data collection, wrangling, analysis, modelling, visualisation and communication. How these activities map onto different job titles is domain specific and will vary on a project and organisational level.
 
+```{figure} ../../figures/data-wrangler.jpg
+---
+height: 500px
+name: data-wrangler
+alt: Hand-drawn illustration by Scriberia. A person representing a Data Wrangler is in a central bubble, on their left there are links to three clusters of connected shapes representing unstructured data. The Data Wrangler ‘unravels’ these clusters and re-structures them to form three distinct presents, labelled ‘Research Ready Data’, shown to the right of the central bubble. Attached to the central bubble there are smaller individual bubbles labelled ‘Connecting Specialists' (shown by a triangle of linked people), 'Data Privacy and Security’ (padlock) and 'Data Quality and Standards (sparkling diamond).
+---
+A Data Wrangler collaborates with multiple specialists to provide research-ready data whilst upholding data privacy and domain-specific standards. Created by Scriberia with The Turing Way community. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
 (cl-infrastructure-data-wranglers-tasks)=
 ## What do Data Wranglers do?
 
