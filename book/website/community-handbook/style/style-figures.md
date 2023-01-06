@@ -86,7 +86,7 @@ You can resize figures to adjust how they appear in our chapters using the param
 Using the parameter: `name`, you can reference figures in other chapters in a similar manner as defined in {ref}`ch-style-crossref`.
 
 **The example figure we have use here can be explained with this alt text:**
-*This is a sketch that shows a woman looking through a big file drawer, where documents are arranged systematically indicated by versions. She is smiling and waving at her colleague who is standing next to the file drawer and seem to be checking if everything is ok - gestured by a thumbs-up.*
+*Cartoon-like sketch of a woman looking through a big file drawer, where documents are arranged systematically indicated by versions. She is smiling and waving at her colleague who is standing next to the file drawer and seem to be checking if everything is ok - gesturing a thumbs-up.*
 
 All the components of your figure (image file location, size, name, alt text and title) can be encapsulated in section within a markdown file using the following directive:
 
