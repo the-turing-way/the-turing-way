@@ -112,7 +112,7 @@ alt: This is a sketch that shows a woman looking through a big file drawer, wher
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
-When an image cannot be loaded in a browser, or the link to the image breaks, Alt text it is displayed in place of a figure as shown below:
+When an image cannot be loaded in a browser or the link to the image breaks, alt text is displayed in place of a figure as shown below:
 
 ```{figure} ../../figures/alt-text-demo.*
 ---
