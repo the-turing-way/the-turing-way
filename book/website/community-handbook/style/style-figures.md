@@ -155,7 +155,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 ---
 height: 400px
 name: first-pull-request
-alt: A hand sketch of two persons sitting across from each other with their laptops on the table. One person made a GitHub Pull Request to a GitHub repository and other person is helping review it. On the top of the image there is a straight arrow that indicates main branch of the repository, a pull request is shown by a branch coming out of the main arrow labeled with Clone, followed by Pull Request with the changes that the first person made in the branch, and final text Approved shows the review and approval of the changes by the second person. This arrow then merges back to the main arrow/branch.
+alt: Cartoon-like sketch of two persons sitting across from each other working on their laptops. A straight arrow on the top indicates the main branch of the repository that they are working on, a pull request is shown by a branch coming out of the main arrow labelled as Clone, followed by a Pull Request with the changes that the first person made in the branch, and the final step labelled as Approved that indicates approval of the changes by the second person. This arrow then merges back to the main arrow/repository.
 ---
 Making your first pull request on GitHub.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
