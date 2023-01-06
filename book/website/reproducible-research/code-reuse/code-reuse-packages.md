@@ -5,27 +5,27 @@ This section provides an overview of why software packages and libraries are use
 Packages are written to a high standard of reproducible code (see the guidelines for [publishing an R package on CRAN](https://cran.r-project.org/web/packages/policies.html)), where recommendations such as those found in the {ref}`rr-code-reuse-details` and {ref}`rr-code-reuse-recommendations` sections are commonly employed to ensure reproducibility of the functionality of the package.
 
 # What are packages?
-Packages, or sometimes called libraries or modules are a basic unit of reproducible, and often efficient, code that aims to create or extend the functionality of a programming language.
-Some packages, such as Python's `numpy` package are so famous that they even get published in scientific journals such as [Nature](https://www.nature.com/articles/s41586-020-2649-2)!
-Setting aside user defined functions, every function that you call in any programming language is defined within a package, and for the many open source languages that exist, anyone can write a package that can be shared and used within a standard install of that programming language. 
+A package -- sometimes called a library or a module -- is a basic unit of reproducible, and often efficient, code that aims to create or extend the functionality of a programming language.
+Some packages, such as Python's `numpy` package, are so famous that they even [get published in scientific journals such as Nature](https://www.nature.com/articles/s41586-020-2649-2)!
+Besides user-defined functions, every function that you call in any programming language is defined within a package, and anyone can write a package that can be shared and used within a standard install of a given programming language. 
 In fact, all programming languages are simply comprised of many packages that provide certain functionality, even down to the simple `print` function that you can find in almost every programming language:
 
 ```python
-# This python program prints Hello, world!
+# This Python program prints “Hello, world!”
 print('Hello, world!')
 ```
 
-When you install Python, the `print` function is already included as part of a package called `bltinmodule.c` - 2,843 lines of code written to define some core functionalities of the Python language....written in the C programming language! 
+When you install Python, the `print` function is already included as part of a package called `bltinmodule.c`: 2,843 lines of code written to define some core functionalities of the Python language... written in the C programming language! 
 You can see the source code for yourself at the [Python Github Repository](https://github.com/python/cpython/blob/3.8/Python/bltinmodule.c#L1821). 
 You might be asking "why is a Python library written in C?"
-The answer is that compiled C code runs extremely fast compared to higher level code such as Python code, and this gives you another insight into good practices employed when writing sharing code (via a package) to other users - try and optimize your code so that it runs efficiently. 
+The answer is that compiled C code runs extremely fast compared to higher-level code such as Python code; this gives you another insight into good practices employed when writing code to be shared (via a package) with other users - try and optimize your code so that it runs efficiently. 
 Many other languages will also write packages that aren't written using the language itself, instead written in languages such as C or Fortran. 
 
 # Where / how can I get packages?
-Programming languages can offer a Central Resource to download and install packages, such as [cran](https://cran.r-project.org/), [PyPi](https://pypi.org/) and [npm](https://www.npmjs.com/). 
+Programming languages can offer a central resource to download and install packages, such as [CRAN](https://cran.r-project.org/), [PyPi](https://pypi.org/) and [npm](https://www.npmjs.com/). 
 The following table shows a list of popular languages and how many packages they contain (taken from https://github.com/breck7/pldb).
 
-```{table} Central Resource for Packages Table
+```{table} Central package resources
 :name: central-resources
 | Language          | Website                                             | Packages | Appeared |
 | ------------ | ----------------------------------------------------- | -------- | -------- |
@@ -50,45 +50,46 @@ The following table shows a list of popular languages and how many packages they
 | emacs-editor | https://melpa.org/                                    | 4,079    | 1976     |
 | dart         | https://pub.dartlang.org/                             | 2,751    | 2011     |
 ```
-As well as Central Package Resources, many packages are often developed and accessible from repositories such as GitHub (and going back a bit, Sourceforge) - but in reality it can be anywhere that you can download a zip or tar file with an internet connection.
-Given the nature of reproducible code, if which a package is a fundamental unit of, you will likely find most packages that exist in a Central Resource also has it's code published in a git repository.
+In addition to central package resources, many packages are often developed and accessible from repositories such as GitHub; you can however get a package from anywhere that you can download a zip or tar file with an internet connection.
+Given the nature of reproducible code, of which a package is a fundamental unit, you will likely find that most packages that exist in a central resource also have their code published in a git repository.
 
 # Why write software packages?
-If you want to share some set of functions that you have written that work together and use often to achieve something specific - writing a package is a great way of making these set of functions available for others to use. 
+If you have written a set of functions that work together and are used to achieve something specific, writing a package is a great way of making it available for others to use. 
 Some examples might include:
 
 - A methodology described in a research paper that comes with code to implement it
-- A new packages that extends functionality when working with other packages - for example packages that comprises the tidyverse in R
+- A new package that extends functionality when working with other packages such as those that are part of R’s tidyverse
 - An extension to an existing software package
 - A package created just for fun!
 
-Packages are the fundamental units of reproducible code for programming languages and they can be useful to share publicly or even if it's a package that you use just for yourself. 
-One such package which started out as a personal library is the [HMisc](https://cran.r-project.org/web/packages/Hmisc/index.html) package (Harrell Miscellaneous) - a statistics package with a collection of useful functions maintained by Professor Frank Harrell that is now widely used amongst R users. 
+As fundamental units of reproducibile code, packages can be useful to share publicly even if they’re packages that you use just for yourself. 
+One such package that started out as a personal library is [HMisc](https://cran.r-project.org/web/packages/Hmisc/index.html) (Harrell Miscellaneous): a statistics package with a collection of useful functions maintained by Professor Frank Harrell that is now widely used amongst R users. 
 
 ## What standards should be adhered to when writing a package?
-If you plan on writing a package that you wish for others to use,there are numerous considerations to make. 
-As with any other code that you want to share or just use personally, you will want to ensure your code will work reliably - and on other systems when sharing with others. 
+If you plan on writing a package for others to use, there are numerous considerations to make. 
+You will want to ensure your code will work reliably, and do so on systems other than your own.
 Some recommendations would be:
 
-- {ref}`Unit Testing <rr-testing-unittest>` and {ref}`Intergration Testing <rr-testing-types-integrationtest>` testing to ensure code within the package is robust and provides useful feedback to the end user while using it (warnings, errors).
+- {ref}`Unit Testing <rr-testing-unittest>` and {ref}`Intergration Testing <rr-testing-types-integrationtest>` to ensure code within the package is robust and provides useful feedback to the end user while using it (warnings, errors).
 - {ref}`Version Control <rr-vcs>` of the codebase to track development and fix bugs.
-- {ref}`Documentation <rr-rdm-metadata>`. This might be in the form of a website or a wiki. There are even language specific packages that aim to provide project templates that will render the template into a website or other form of documentation (see [packagedown](https://pkgdown.r-lib.org/) for R, [Sphinx](https://www.sphinx-doc.org/en/master/) for Python or [Doxygen](https://www.doxygen.nl/) for C++).
-- Host your versioned codebase somewhere accessible. There are a whole range of places to host code depending on your use case. Public GitHub/GitLab repositories are extremely common especially in open source, where private repositories can be used for proprietary packages (think Matlab). Even just a local git repository might be enough for your use-case. 
+- {ref}`Documentation <rr-rdm-metadata>`. This might be in the form of a website or a wiki. There are even language specific packages that aim to provide project templates that will render the template into a website or other form of documentation (see [packagedown](https://pkgdown.r-lib.org/) for R, [Sphinx](https://www.sphinx-doc.org/) for Python or [Doxygen](https://www.doxygen.nl/) for C++).
+- Host your versioned codebase somewhere accessible. There are a whole range of places to host code depending on your use case. Public GitHub/GitLab repositories are extremely common especially in open source, whereas private repositories can be used for proprietary packages (think Matlab). Even just a local git repository might be enough for your use-case. 
 - Use Continuous Integration /  Continuous Development principles and pipelines such as GitHub Actions, Jenkins, Travis or GitLab Runners to help with a range of testing procedures.
- - Consider submitting your package to a Central Resource such as those in the [](central-resources) above. There are usually strict requirements needed as your code is more likely to be distributed and used (more on this later on). Often GitHub repositories are used to store both stable and "daily"/"nightly" builds of a package in addition to a central resource so that users can submit bugs an contribute to the current version, while testing experimental versions as a preview. 
- - Write a publication. This could be in the form of a a journal submission such as Numpy (in Nature!), or an abstract/paper in a conference proceeding. This allows you to peer review your package with experts in the field of intended use and might give more confidence to potential users that the package is robust.
- - Publicizing your package. If you have gotten as far as hosting and publishing your package for others to use, you can publicize it in a variety of ways to let people know about it. It used to be that getting your package into a Central Resource provided ample opportunity for your package to be shared, but as these resources grow this is not necessarily the case anymore. Aside from publications in journals - use social media such as Twitter, Discord and Slack, Medium articles and postings in websites. 
- - Build a community. Hopefully a few collaborators will have worked together to build a package - and by thinking about how the initial developers of the packages interact with future users you might be able to build a strong community that will help improve and maintain the package going forward.
+ - Consider submitting your package to a central resource such as those listed above ([](central-resources)). There are usually strict requirements needed as your code is more likely to be distributed and used (more on this later on). Often GitHub repositories are used to store both stable and "daily"/"nightly" builds of a package in addition to a central resource so that users can submit bugs an contribute to the current version, while testing experimental versions as a preview. 
+ - Write a publication. This could be in the form of a journal submission such as Numpy (in Nature!), or an abstract/paper in a conference proceeding. This allows your package to be peer-reviewed by experts in the field of intended use and might give more confidence to potential users that the package is robust.
+ - Publicize your package. If you have gotten as far as hosting and publishing your package for others to use, you can publicize it in a variety of ways to let people know about it. It used to be that getting your package into a central resource provided ample opportunity for your package to be shared, but as these resources grow this is not necessarily the case anymore. Aside from publications in journals, use social media such as Twitter, Discord and Slack, as well as Medium articles and blog posts. 
+ - Build a community. Hopefully a few collaborators will have worked together to build a package, and by thinking about how the initial developers of the packages interact with future users you might be able to build a strong community that will help improve and maintain the package going forward.
 
- ## Get Started - use a template
-With so many existing packages across many languages - it should be pretty easy to find good examples of packages and their published code on somewhere such as GitHub. 
-Looking at the code base can give you an idea of how to structure your own packages, but they can be a little daunting especially if they are well established, widely used packages. 
+## Get Started - use a template
+With so many existing packages across many languages, it should be pretty easy to find good examples of packages and their published code on software repositories such as GitHub.
+Looking at the codebase can give you an idea of how to structure your own packages, but they can be a little daunting especially if they are well-established, widely used packages. 
 
-As mentioned previously, there are packages that are aimed to help you create your own packages.
-These work by creating the underlying structure of a package or even simulated toy repositories that you can then customize as you see fit. Such templates will often factor in locations for documentation, code commenting conventions and built-in code linting and sub-directories for header files like you might find in the c programming language. 
+As mentioned previously, there are packages that are specifically meant to help you create your own packages.
+These work by creating the underlying structure of a package or even simulated toy repositories that you can then customize as you see fit.
+Such templates will often factor in locations for documentation, code commenting conventions and built-in code linting, and sub-directories for header files like you might find in the C programming language. 
 
 ## Walkthrough of creating a package in R
-Let's walk through creating a basic package in R using with some help from some specialized packages, particularly the `usethis` and `roxygen2`.
+Let's walk through creating a basic package in R using with some help from some specialized packages, particularly `usethis` and `roxygen2`.
 Begin by loading some go-to libraries that help package development in R
 
 ```r
@@ -102,14 +103,16 @@ Create a skeleton directory template commonly used for R packages - will include
 ```r
 usethis::create_package("/RDemoPackage")
 ```
+
 ```
 ├── DESCRIPTION
 ├── NAMESPACE
 ├── R
 └── RDemoPackage.Rproj
 ```
-Create a .R file in the R/ subdirectory and write a function to convert from degrees C to Kelvin.
-Notice that we have some code comments in the preamble that well get used to render a markdown file for the documentation (we use `roxygen2` to use these comments)
+
+Create a `.R` file in the R/ subdirectory and write a function to convert from degrees Celsius to Kelvin.
+Notice that we have some code comments in the preamble that will get used to render a markdown file for the documentation (we use `roxygen2` for this).
 
 ```bash
 
@@ -139,23 +142,28 @@ celsius_to_kelvin <- function(temp_C) {
               msg = "The temperature in degrees C entered is lower
               than the lowest recorded ground temperature on earth at
               −89.2 °C (−128.6 °F; 184.0 K) at the then-Soviet Vostok Station
-              in Antarctica on 21 July 1983. It is likely you have entered an incorrect temperature")
+              in Antarctica on 21 July 1983. It is likely you have entered an incorrect temperature.")
   # make the calculation
   temp_K <- temp_C + 273.15
   return(temp_K)
 }
 ```
+
 We also used the `assert_that()` function from the `assertthat` package that allows us to unit test within functions in R. In this case we don't allow the user to input a temperature of below -89.2 degrees C. We then use the document() function from the `roxygen2` package to automatically render documentation in the form of a markdown file based on the comments at the top of the function file.
 
 ```r
 document()
 ```
+
 We can then install and load our new package in our local environment
+
 ```r
 install()
 library(TempConvert)
 ```
+
 Finally - if we push our code up to GitHub, anyone can install it using the following:
+
 ```r
 install_github("pinkpanther/TempConvert")
 library(TempConvert)
