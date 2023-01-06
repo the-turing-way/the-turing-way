@@ -107,7 +107,7 @@ When all these components are used correctly, a figure included in a file will b
 ---
 height: 500px
 name: file-collection
-alt: This is a sketch that shows a woman looking through a big file drawer, where documents are arranged systematically indicated by versions. She is smiling and waving at her colleague who is standing next to the file drawer and seem to be checking if everything is ok - gestured by a thumbs-up.
+alt: Cartoon-like sketch of a woman looking through a big file drawer, where documents are arranged systematically indicated by versions. She is smiling and waving at her colleague who is standing next to the file drawer and seem to be checking if everything is ok - gesturing a thumbs-up.
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
