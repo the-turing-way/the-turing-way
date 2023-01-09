@@ -7,7 +7,7 @@ Talks are a great way to engage new communities, teach people about open and rep
  name: giving-a-talk
  alt: Giving a talk about the Turing Way or running a Turing Way workshop.
  ---
- This image was created by Scriberia for The Turing Way community and is used under a CC-BY 4.0 licence for reuse. Zenodo. 
+Giving a talk or workshop about _The Turing Way_. Illustration by Scriberia for _The Turing Way_ community, used under a CC-BY 4.0 licence. DOI: https://doi.org/10.5281/zenodo.3332807.
  ```
 
 ## Planning a Talk
