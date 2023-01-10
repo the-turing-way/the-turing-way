@@ -5,7 +5,7 @@ Talks are a great way to engage new communities, teach people about open and rep
 ---
 height: 500px
 name: giving-a-talk
-alt: Giving a talk about the Turing Way or running a Turing Way workshop.
+alt: The image shows a female speaker with long dark hair standing in front of a large wall mounted screen giving a talk about the Turing Way. There are several audience members watching her. There is also an image of a head scarf wearing person sitting at their desk in front of a laptop running an online Turing Way workshop.
 ---
 Giving a talk or workshop about _The Turing Way_. Illustration by Scriberia for _The Turing Way_ community, used under a CC-BY 4.0 licence. DOI: https://doi.org/10.5281/zenodo.3332807.
 ```
