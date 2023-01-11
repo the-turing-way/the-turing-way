@@ -1,6 +1,15 @@
 # Presenting About _The Turing Way_
 Talks are a great way to engage new communities, teach people about open and reproducible practices, and expand the reach of _The Turing Way_ by introducing the book and inviting new contributors. We encourage any Turing Way contributor to present on behalf of _The Turing Way_, and we ask that you use the guidelines detailed below to shape your talk and ensure consistency with _The Turing Way_ style. 
 
+```{figure} ../figures/giving-a-talk.*
+---
+height: 500px
+name: giving-a-talk
+alt: The image shows a female speaker with long dark hair standing in front of a large wall mounted screen giving a talk about the Turing Way. There are several audience members watching her. There is also an image of a head scarf wearing person sitting at their desk in front of a laptop running an online Turing Way workshop.
+---
+Giving a talk or workshop about _The Turing Way_. Illustration by Scriberia for _The Turing Way_ community, used under a CC-BY 4.0 licence. DOI: https://doi.org/10.5281/zenodo.3332807.
+```
+
 ## Planning a Talk
 Whether you are submitting an abstract to a conference or you have been invited to speak, a great thing to do is to engage _The Turing Way_ community for support and to publicize the event. Even if the talk is not open to all, you can work with other community members to refine your slides and give a practice talk. If you'd like, please post the details in Slack in the `#community` channel.
 
