@@ -56,6 +56,7 @@ Further, data and outputs containing small cell counts may be potentially disclo
    * Watch [this webinar by Enrico Glerean](https://www.youtube.com/watch?v=ILXeA4fx3cI) 
    * Watch a presentation on [Amnesia – Data Anonymisation Made Easy](https://www.youtube.com/watch?v=9wu_xGeYsQw) or a webinar on [Amnesia - a tool to make anonymisation easy](https://www.youtube.com/watch?v=9wu_xGeYsQw)
    * Or read an [explanation by the Finnish social science data archive](https://www.fsd.tuni.fi/en/services/data-management-guidelines/anonymisation-and-identifiers/)
+   * Take the [steps to anonymisation set up by the UK data services](https://ukdataservice.ac.uk/learning-hub/research-data-management/anonymisation/anonymisation-step-by-step/)
 
 
 
