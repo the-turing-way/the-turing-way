@@ -35,7 +35,7 @@ If the data is not in a repository a text file with machine-readable metadata ca
 
 - The type of research and the nature of the data also influence what kind of documentation is necessary. 
 - The level of documentation and metadata [{term}`def<Metadata>`] will vary according to the project, and the range of people the data needs to be understood by.
-- Examples of documentation may include items like [data dictionaries](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary) or codebooks, protocols, logbooks or lab journals, README files, research logs, analysis syntax, algorithms and code comments.  
+- Examples of documentation may include items like [data dictionaries](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary) (see [here for a template](https://data.nal.usda.gov/data-dictionary-blank-template)) or codebooks, protocols, logbooks or lab journals, README files, research logs, analysis syntax, algorithms and code comments.  
 - Variables should be defined and explained using data dictionaries or codebooks.
 - Data should be stored in logical and hierarchical folder structures, with a README file used to describe the structure.
 The README file is helpful for others and will also help you find your data in the future {cite:ps}`Fuchs2018documentation`.
