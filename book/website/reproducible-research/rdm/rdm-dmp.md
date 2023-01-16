@@ -86,7 +86,8 @@ There are several platforms or tools that you can use to set up your Data Manage
 * [DMPonline](https://dmponline.dcc.ac.uk)
 * [DMPtool](https://dmptool.org)
 * [ARGOS](https://argos.openaire.eu/home)
-* [DS-wizard](https://argos.openaire.eu/home)
+
+See [activeDMPs](https://activedmps.org/) for a full overview.
 
 ## Additional Resources
 
