@@ -4057,6 +4057,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "sjDCC",
+      "name": "Sarah Jones",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6169940?v=4",
+      "profile": "https://dmponline.dcc.ac.uk",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
