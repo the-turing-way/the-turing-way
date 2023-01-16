@@ -4066,6 +4066,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "flavio2018",
+      "name": "Flavio Petruzzellis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39437769?v=4",
+      "profile": "http://flavio2018.github.io",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
