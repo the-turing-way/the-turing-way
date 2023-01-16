@@ -4048,6 +4048,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "pdurbin",
+      "name": "Philip Durbin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21006?v=4",
+      "profile": "http://greptilian.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
