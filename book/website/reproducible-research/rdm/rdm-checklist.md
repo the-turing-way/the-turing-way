@@ -5,23 +5,15 @@ Below follow two checklists, one for individual researchers and one for research
 # Individual Researcher Checklist
 
 - Do not touch the raw data. 
-Back it up somewhere reasonable and keep a read-only copy.
+Back it up somewhere reasonable and keep a read-only copy (see {ref}`Data Storage and Organisation<rr-rdm-storage>`).
 
-- Have a plan! 
-Decide where your data is going to be stored, what it is called, when/if it needs to be deleted before you start collecting it and note it down in a {ref}`Data Management Plan<rr-rdm-dmp>`. 
-If you collect {ref}`sensitive data<pd-sdp>`, plan for consent for sharing from the start!
+- Set up a {ref}`Data Management Plan<rr-rdm-dmp>` to decide how the data is managed. 
+This is especially relevant if you collect {ref}`sensitive data<pd-sdp>` and need to plan for consent for sharing!
 
-- Document everything. 
-You know who the worst person at replying to emails is about what the sampling frequency of channel X was. 
-Nope not them, it's actually yourself from a year ago. 
-Keep the documentation with the data!
-
-- Create the data you want to see in the world. 
-Imagine someone was about to give you a dataset that you needed to analyse well in order to get that job you have been dreaming about. 
-What would you want it to look like? That is how yours should look.
+- Document everything and keep the documentation with the data (see {ref}`Documentation and Metadata<rr-rdm-metadata>`) to ensure your data is reusable. 
 
 - Try not to re-invent the wheel. 
-Before you start creating a new schema, storage format or naming protocol, have a quick google or ask your colleagues. 
+Before you start creating a new schema, storage format or naming protocol, have a quick google or ask your colleagues (see {ref}`Documentation and Metadata<rr-rdm-metadata>`).  
 Something that is already being used is likely to be better in the long run.
 
 # Research Team Checklist: 
