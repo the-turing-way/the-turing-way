@@ -43,6 +43,7 @@ A few public data repositories are [Zenodo](https://zenodo.org/), [Figshare](htt
 So that others know what they can do with your data, you need to apply a licence [{term}`def<License>`] to your data.
 The most commonly used licences are [Creative Commons](https://creativecommons.org/choose/), [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), or an [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/index.html).
 To get maximum value from data sharing, make sure that your paper and code both link to your data, and vice versa, to allow others understand your project better.
+See {ref}`rr-licensing` for more information. 
 
 ### Step 4: Upload your data and documentation
 
