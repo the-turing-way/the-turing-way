@@ -6,8 +6,6 @@
 
 Data are objects that you use and produce during your research life cycle, encompassing datasets, software, code, workflow, models, figures, tables, images and videos, interviews, articles. 
 Data are your research asset. 
-In some fields, it is obvious what data means - you have observations or results of simulations. 
-However, in other fields, particularly in Social Sciences, Humanities or Arts, you may be thinking "I do not think I have any data". 
 A good way of thinking about what might be classed as data that needs to be managed is to ask yourself the questions: "What is the information that I need to use and write about in my paper or book?", "What information would I need to back up my conclusions?" and "What information is needed by others to understand and possibly replicate the research that I have done?". 
 This information is your data.
 
