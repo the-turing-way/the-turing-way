@@ -49,7 +49,7 @@ You can structure folders based on the person that has generated the data/folder
 - [How to Organize Your Digital Files](https://www.nytimes.com/wirecutter/guides/how-to-organize-your-digital-files/) by Melanie Pinola.
 - [Project structure videos by Danielle Navarro](https://www.youtube.com/watch?v=u6MiDFvAs9w&list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&index=1) (with [slides](https://slides.djnavarro.net/project-structure/#1)).
 
-### More information on Data Organisation
+### More Information on Data Organisation
 - [How to organise your data and code](https://renebekkers.wordpress.com/2021/04/02/how-to-organize-your-data-and-code) by Rene Bekkers. 
 
 (rr-rdm-storage-conventions)=
@@ -59,7 +59,6 @@ Structure your file names and set up a template for this.
 For example, it may be advantageous to start naming your files with the date each file was generated (such as `YYYYMMDD`).
 This will sort your files chronologically and create a unique identifier for each file.
 The utility of this process is apparent when you generate multiple files on the same day that may need to be versioned to avoid overwriting.
-
 
 Some other tips for file naming include:
 - Use the date or date range of the experiment: `YYYYMMDD`
