@@ -16,6 +16,10 @@ This is especially relevant if you collect {ref}`sensitive data<pd-sdp>` and nee
 Before you start creating a new schema, storage format or naming protocol, have a quick google or ask your colleagues (see {ref}`Documentation and Metadata<rr-rdm-metadata>`).  
 Something that is already being used is likely to be better in the long run.
 
+- Follow any required procedures by your research group, institute, country (ethics, integrity codes, policies on data management/open science)
+
+See also the [Harvard checklist](https://osf.io/593t6). 
+
 # Research Team Checklist: 
 This list is based on [Borghi and van Gulick 2022](https://doi.org/10.1162/99608f92.9497f68e) {cite:ps}`Borghi2022checklist`.
 
