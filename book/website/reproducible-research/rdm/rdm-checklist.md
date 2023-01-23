@@ -17,7 +17,7 @@ Before you start creating a new schema, storage format or naming protocol, try t
 
 Something that is already being used is likely to be better in the long run.
 
-- Follow any required procedures by your research group, institute, country (ethics, integrity codes, policies on data management/open science)
+- Follow any procedures required by your research group, institute, or country (ethics, integrity codes, policies on data management/open science)
 
 See also the [Harvard checklist](https://osf.io/593t6). 
 
