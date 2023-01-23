@@ -13,7 +13,8 @@ This is especially relevant if you collect {ref}`sensitive data<pd-sdp>` and nee
 - Document everything and keep the documentation with the data (see {ref}`Documentation and Metadata<rr-rdm-metadata>`) to ensure your data is reusable. 
 
 - Try not to re-invent the wheel. 
-Before you start creating a new schema, storage format or naming protocol, have a quick google or ask your colleagues (see {ref}`Documentation and Metadata<rr-rdm-metadata>`).  
+Before you start creating a new schema, storage format or naming protocol, try to find an existing tool: have a (quick) internet search or ask your colleagues (see {ref}`Documentation and Metadata<rr-rdm-metadata>`).  
+
 Something that is already being used is likely to be better in the long run.
 
 - Follow any required procedures by your research group, institute, country (ethics, integrity codes, policies on data management/open science)
