@@ -83,9 +83,10 @@ You can use this [checklist](https://ukdataservice.ac.uk/learning-hub/research-d
 ## DMP tools 
 There are several platforms or tools that you can use to set up your Data Management Plan: 
 
+* [ARGOS](https://argos.openaire.eu/home)
 * [DMPonline](https://dmponline.dcc.ac.uk)
 * [DMPtool](https://dmptool.org)
-* [ARGOS](https://argos.openaire.eu/home)
+
 
 See [activeDMPs](https://activedmps.org/) for a full overview.
 
