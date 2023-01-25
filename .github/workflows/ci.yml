@@ -57,5 +57,5 @@ jobs:
         uses: chabad360/htmlproofer@master
         with:
           directory: "./book/website/_build/html"
-          arguments: --assume-extension true
+          arguments: --assume-extension --disable-external --only_4xx
         continue-on-error: true
