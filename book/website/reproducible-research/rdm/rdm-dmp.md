@@ -78,6 +78,18 @@ If you do not select a license others will not be able to reuse your data withou
 
 You can use this [checklist](https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/checklist/) to see if you have everything covered in your Data Management Plan. 
 
+(rr-rdm-dmp-tools)=
+
+## DMP tools 
+There are several platforms or tools that you can use to set up your Data Management Plan: 
+
+* [ARGOS](https://argos.openaire.eu/home)
+* [DMPonline](https://dmponline.dcc.ac.uk)
+* [DMPtool](https://dmptool.org)
+
+
+See [activeDMPs](https://activedmps.org/) for a full overview.
+
 ## Additional Resources
 
 - [DataOne education modules](https://www.dataone.org/education-modules)
