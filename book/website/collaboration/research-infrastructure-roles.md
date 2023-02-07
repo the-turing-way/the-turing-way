@@ -3,9 +3,12 @@
 
 Successful research and scientific collaborations rarely occur without individuals, or teams, taking on the work of structuring participants' interactions, facilitating work, and supporting the impact of the project.
 These people may be either volunteers or paid, depending on a project's funding, size, length, and number of organisations involved.
+
 These are called **research infrastructure roles** because they provide specialised skills, expertise and services required for effectively carrying out and delivering high-quality research.
 
 ```{note}
+**What is Research Infrastructure?**
+
 Physical or digital facilities, resources, expert workforces and specialised services available towards research and for the use of research communities is called Research Infrastructure.
 References: [Science Europe](https://scienceeurope.org/our-priorities/research-infrastructures/) and [National Institute of Health and Care Research](https://www.nihr.ac.uk/explore-nihr/support/research-infrastructure.htm))
 ```
