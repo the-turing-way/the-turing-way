@@ -50,8 +50,6 @@ When considering whether a research output can develop into a self-sustaining pr
 It's ok if you don't have an answer to all of these questions! 
 This section will help you identify your project's strengths and areas where you need help. 
 
-[TODO: Add Open Source Considerations Checklist from Catherine Jones, UKRI/STFC]
-
 ### Resource: Incubator programmes
 A good way to find support and connect with relevant people and organzations is to join an incubator programme such as Google's [Summer of Code](https://summerofcode.withgoogle.com), [Open Life Science](https://openlifesci.org/), or Code for Science and Society's [Incubator](https://www.codeforsociety.org/incubator/).
 These are only three examples out of many programmes, and you may find that a domain or field-specific programme is more aligned with your needs and values, so it's worth doing some research and speaking to your peers to find the best fit.
@@ -75,6 +73,3 @@ Finally, if your project generates revenue, you may consider raising funding fro
 ## Case Studies in OSS Sustainability
 This section details case studies of different companies and organizations using various open source models.
 Please also read the chapter on [Ethical Considerations for Open Source Governance Models in the Guide for Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethics-open-source-governance.html) for an ethical lens on governance frameworks for Open Source communities.
-
-[TODO: Add Raspberry Pi Case Study]
-
