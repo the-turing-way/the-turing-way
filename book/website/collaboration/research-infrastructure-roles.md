@@ -10,7 +10,7 @@ These are called **research infrastructure roles** because they provide speciali
 **What is Research Infrastructure?**
 
 Physical or digital facilities, resources, expert workforces and specialised services available towards research and for the use of research communities is called Research Infrastructure.
-References: [Science Europe](https://scienceeurope.org/our-priorities/research-infrastructures/) and [National Institute of Health and Care Research](https://www.nihr.ac.uk/explore-nihr/support/research-infrastructure.htm))
+References: [Science Europe](https://scienceeurope.org/our-priorities/research-infrastructures/) and [National Institute of Health and Care Research](https://www.nihr.ac.uk/explore-nihr/support/research-infrastructure.htm)
 ```
 
 Historically, some of these roles were seen as merely 'research support' roles, however, there has been a growing recognition that these are a crucial part of research teams, and often a significant proportion of these roles require research expertise.
