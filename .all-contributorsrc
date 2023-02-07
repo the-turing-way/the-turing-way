@@ -4095,6 +4095,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "PaulWatson9994",
+      "name": "Paul Watson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7299312?v=4",
+      "profile": "https://www.ncl.ac.uk/computing/people/profile/paulwatson.html#background",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "projectName": "the-turing-way",
