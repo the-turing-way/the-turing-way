@@ -5,7 +5,7 @@ It is rare that successful collaborations occur without a person, or group of pe
 These people may be either volunteers or paid, depending on a project's funding, size, length, and number of organisations involved.
 
 These are called **research infrastructure roles** because they, within a research infrastructure, provide specialised skills, expertise and services required for effectively carrying out research projects.
-Although historically some of these roles were seen as merely 'research support' roles, there has been a growing recognition that these are an essential part of the core research teams, and often a significant proportion of these roles require research expertise as well.
+Although historically some of these roles were seen as merely 'research support' roles, there has been a growing recognition that these are crucial part of research teams, and often a significant proportion of these roles require research expertise as well.
 The specifics of these roles will vary but can include handling administrative work, managing data storage, stakeholder engagement, community management, communications, software engineering, events coordination, and a lot more.
 
 People performing these types of roles come from varied backgrounds, but will often have some research experience, although not necessarily in the field they are now working in.
