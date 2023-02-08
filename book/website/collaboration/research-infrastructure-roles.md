@@ -16,7 +16,7 @@ References: [Science Europe](https://scienceeurope.org/our-priorities/research-i
 Historically, some of these roles were seen as merely 'research support' roles, however, there has been a growing recognition that these are a crucial part of research teams, and often a significant proportion of these roles require research expertise.
 The specifics of these roles will vary but can include handling administrative work, managing data storage, stakeholder engagement, community management, communications, software engineering, events coordination, and a lot more.
 
-People performing these types of roles come from varied professional experience and backgrounds, but will often have some research experience, although not necessarily in the field they are now working in.
+People performing these types of roles have varied professional experience and backgrounds, but will often have some research experience, although not necessarily in the field they are now working in.
 
 (cl-research-infrastructure-roles-prerequisites)=
 ## Prerequisites
