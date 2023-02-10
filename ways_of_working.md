@@ -10,6 +10,7 @@ It further outlines expectations and responsibilities with regard to working on 
 | Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | PI, The Alan Turing Institute | - | Oct 2018 - Present | - |
 | Malvika Sharan <br>([@malvikasharan](https://github.com/malvikasharan)) | Co-lead investigator, The Alan Turing Institute | - | Jul 2021 - Present | Previously: Community manager, Jan 2020 - Jun 2021 (100%) |
 | Anne Lee Steele <br>([@aleesteele](https://github.com/aleesteele)) | The Turing Way Community Manager, The Alan Turing Institute | 100% | March 2022 - Present | - |
+| Alexandra Araujo Alvarez <br>([@alexandraaaj](https://github.com/alexandraaaj)) | The Turing Way Research Project Manager, The Alan Turing Institute | 100% | February 2023 - Present | - |
 | Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Senior Community Manager, The Alan Turing Institute | 10% | Jan 2021 - Present | - |
 | Arron Lacey <br>([@arronlacey](https://github.com/arronlacey)) | Senior Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Present | - |
 | Achintya Rao <br>([@RaoOfPhysics](https://github.com/RaoOfPhysics)) | Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Present | - |
