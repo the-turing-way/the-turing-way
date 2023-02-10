@@ -21,6 +21,8 @@ It further outlines expectations and responsibilities with regard to working on 
 | Sophia Batchelor <br>([@BrainonSilicon](https://github.com/BrainonSilicon)) | Community Manager, The Alan Turing Institute | 10% | 2022 - Present | - |
 | Hari Sood <br>([@harisood](https://github.com/harisood)) | Research Application Manager, The Alan Turing Institute | 10% | 2022 - Present | - |
 | Eirini Zormpa <br>([@eirini-zormpa](https://github.com/eirini-zormpa)) | Community Manager, The Alan Turing Institute | 10% | 2022 - Present | - |
+| David Sarmiento Pérez <br>([@davsarper](https://github.com/davsarper)) | Research Project Manager, The Alan Turing Institute | 10% | 2022 - Present | - |
+| Shakir Laher <br>([@s-laher](https://github.com/s-laher)) | Research Appication Manager, The Alan Turing Institute | 10% | 2023 - Present | - |
 | Carlos Martinez-Ortiz <br>([@c-martinez](https://github.com/c-martinez)) | RSE community manager, Netherlands eScience Center | in-kind contribution | Feb 2020 - Present | - |
 | Esther Plomp <br>([@EstherPlomp](https://github.com/EstherPlomp)) | Data Steward, Faculty of Applied Sciences at Delft University of Technology | in-kind contribution | Feb 2020 - Present | - |
 | Lena Karvovskaya <br>([@LenaKarvovskaya](https://github.com/Karvovskaya)) | Community manager RDM and Open Science, VU Amsterdan Library | in-kind contribution | 2021 - Present | - |

@@ -535,6 +535,8 @@ parts:
                 file: collaboration/research-infrastructure-roles/data-steward
               - title: Data Steward Personal Story
                 file: collaboration/research-infrastructure-roles/data-steward-personal-story
+              - title: Data Wrangler Overview
+                file: collaboration/research-infrastructure-roles/data-wrangler
               - title: Research Software Engineers Overview
                 file: collaboration/research-infrastructure-roles/rse
               - title: Research Software Engineering Personal Story
@@ -583,6 +585,8 @@ parts:
                 file: ethical-research/law-policy/law-policy-rights
               - title: Further Recommendations
                 file: ethical-research/law-policy/law-policy-resources
+          - title: Research Ethics for Social Data
+            file: ethical-research/social-data
           - title: Activism for Researchers
             file: ethical-research/activism
             sections:
@@ -590,6 +594,8 @@ parts:
                 file: ethical-research/activism/activism-unionisation
               - title: Whistleblowing
                 file: ethical-research/activism/activism-whistleblowing
+              - title: Cultural change
+                file: ethical-research/activism/activism-cultural-change
               - title: Case study - Robodebt
                 file: ethical-research/activism/activism-robodebt
               - title: Case study - Google Workers

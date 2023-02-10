@@ -58,4 +58,4 @@ Similarly, in the UK, it falls under the regulation of the [UK Data Protection A
 
 Processing means doing anything with a person’s information, including collection, storage, analysis, sharing, deletion and destruction. 
 To ensure that you are up to date with the requirements of managing sensitive data, please review the national/institutional policies that apply to your research. 
-See [HCH+15] for recommended practices for sharing clinical trial data.
+See {cite:ps}`Smith2015participantdata` for recommended practices for sharing clinical trial data.

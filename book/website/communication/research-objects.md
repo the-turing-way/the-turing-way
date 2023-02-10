@@ -35,7 +35,7 @@ The entire research lifecycle can be captured, allowing the release and publicat
 ROs facilitate reproducibility of the scientific methods and results through access to resources, context and metadata, and reuse with the possibility of forking existing ROs. 
 
 There are three guiding principles for RO:
-- Digital identity - Using unique identifiers, such as DOIs for tangible outcomes such as publications or data, and ORCID ids for researchers (explained in detail in the {ref}`ORCID section<cm-citable-orcidd>).
+- Digital identity - Using unique identifiers, such as DOIs for tangible outcomes such as publications or data, and ORCID ids for researchers (explained in detail in the {ref}`ORCID section<cm-citable-orcid>`.
 - Data aggregation - Using a method to aggregate all outcomes so that they are discoverable and hence allow anyone to investigate and reproduce the research.
 - Annotation - Use rich machine-readable metadata (discussed in {ref}`Chapter on Documentation and Metadata<rr-rdm-metadata>`) that help ensure findability and accessibility of all scientific work.
 RO helps understand the entire research lifecycle through research outcomes including publication shared progressively, allowing to track the versioning and development of the entire project.
