@@ -565,6 +565,8 @@ parts:
                 file: collaboration/shared-ownership/shared-ownership-challenges
               - title: Nudging for a Better Default
                 file: collaboration/shared-ownership/shared-ownership-defaults
+          - title: Sustainability of Open Source Projects
+            file: collaboration/oss-sustainability/oss-sustainability-challenges
 
       # ===== Guide for Ethical Research ========================================
 
