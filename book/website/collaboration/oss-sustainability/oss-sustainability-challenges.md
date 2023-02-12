@@ -49,7 +49,4 @@ When considering whether a research output can develop into a self-sustaining pr
 
 It's ok if you don't have an answer to all of these questions! 
 These questions will help you identify your project's strengths and areas where you need help, and you can refer to this [list of spinout resources](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/spinout_resources.md) for more information.
-
-## Case Studies in OSS Sustainability
-This section details case studies of different companies and organizations using various open source models.
-Please also read the chapter on [Ethical Considerations for Open Source Governance Models in the Guide for Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethics-open-source-governance.html) for an ethical lens on governance frameworks for Open Source communities.
+You can also refer to the chapter on [Ethical Considerations for Open Source Governance Models in the Guide for Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethics-open-source-governance.html) for an ethical lens on governance frameworks for Open Source communities.
