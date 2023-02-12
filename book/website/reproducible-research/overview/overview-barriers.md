@@ -5,7 +5,7 @@ So far we have explained {ref}`what we mean<rr-overview-definitions>` by reprodu
 
 In this section we cover some of the (real and perceived) barriers you may face in making your work reproducible.
 
-```{figure} ../../figures/barriers-reproducibility.png
+```{figure} ../../figures/barriers-reproducibility.*
 ---
 width: 500px
 name: reproducibility-barriers
@@ -26,7 +26,7 @@ The good news is that helping you learn those skills is exactly what _The Turing
 (rr-overview-barriers-incentives)=
 ## Limited incentives to give evidence against yourself
 
-The [Fifth Amendment](https://en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution) to the United States Constitution includes a clause that no one "shall be compelled in any criminal case to be a witness against [them]sel[ves]".
+The [Fifth Amendment](https://en.wikipedia.org/wiki/Fifth_Amendment_to_the_United_States_Constitution) to the United States Constitution includes a clause that no one "shall be compelled in any criminal case to be a witness against themselves".
 (Edited to gender-neutral language.)
 To "plead the fifth" means that someone chooses not to give evidence that there might have been something wrong in their past behaviour.
 They have the right to remain silent.
@@ -35,7 +35,7 @@ We know that no one wants to incriminate themselves, and also that no one is inf
 Putting your code and data online can be very revealing and intimidating, and it is part of the human condition to be nervous of being judged by others.
 Although there is no _law_ governing the communication of reproducible research - unless you commit explicit fraud in your work - sharing errors that you find in your work is heavily disincentivised.
 
-```{figure} ../../figures/make-ok-to-be-human.jpg
+```{figure} ../../figures/make-ok-to-be-human.*
 ---
 height: 500px
 name: make-ok-to-be-human
@@ -140,13 +140,13 @@ Throughout the project, time may be required to maintain the reproducible pipeli
 Time may also be spent communicating with collaborators to agree on which parts of the project may be open source and when and how these outputs are shared.
 Researchers may find that they need to "upskill" their colleagues to allow the team to benefit from reproducibility tools such as git and GitHub, containers, Jupyter notebooks, or databases.
 
-```{figure} ../../figures/help-you-of-the-future.jpg
+```{figure} ../../figures/help-you-of-the-future.*
 ---
 width: 500px
 name: help-you-of-the-future
 alt: A cartoon of a woman passing a folder of documents back to herself. Speech bubble says You're mainly keeping records for you in the future.
 ---
-Although making clear documentation may feel like it is taking a lot of time at the moment, you are helping your and your collaborators remember what you have done so it is easy to reuse the work or make changes in the future.
+Although making clear documentation may feel like it is taking a lot of time at the moment, you are helping yourself and your collaborators remember what you have done so it is easy to reuse the work or make changes in the future.
 Illustration by The Ludic Group LLP from Kirstie Whitaker's keynote presentation at Scientific Data in 2017.
 Used under a CC-BY 4.0 license.
 DOI: [10.6084/m9.figshare.5577340.v1](https://doi.org/10.6084/m9.figshare.5577340.v1).

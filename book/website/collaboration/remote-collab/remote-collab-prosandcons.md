@@ -1,9 +1,15 @@
 (cl-remote-collab-prosandcons)=
-# Perceived Pros and Cons
+# Pros and Cons
 
 It is needless to say that the same setting can not always work for everyone, which applies to remote collaboration, working, and event participation.
-For many, it may not always feel as effective as working in physical offices, for example, when they live in a small apartment, share their place with a large family, have an inadequate remote-work setting or feel less connected with their colleagues.
-However, for others, remote working may be more enjoyable and productive.
+For many, remote collaboration is the most ideal setting, whereas for many, working completely online might leave them feeling isolated.
+Some people collaborate more effectively when working in physical offices, for example, when they live in a small apartment, share their place with a large family, have an inadequate remote-work setting or feel less connected with their colleagues.
+However, for others, remote working may be the most effective way to contribute, when working with online tools, or directly working on platform that do not require speaking up.
+Therefore, it is important to acknowledge that remote collaboration have advantages as well as disadvantages, and the collaboration formats should accommodate for, or designed to address challenges that come with it.
+
+In *The Turing Way* we recognise 'virtual first' approach for creating inclusive collaboration formats.
+It is easier to work with people online who live in different locations (cities, countries) and can't travel, folks who are introverted or don't like to or can't speak publicly, people with caring responsibilities at home or people who have visible or invisible disability to work comfortably in person.
+
 > "As someone who used to commute 4 hours per day for 12 years, I can sum my experiences in four words - *remote working reduces inequality*", says one of our contributors, Pablo Rodríguez-Sánchez (GitHub: PabRod).
 
 In this subchapter, we have captured *light opinions* a few contributors on their experience of collaborating remotely with others under "pro" and "cons" sections.

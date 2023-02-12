@@ -10,7 +10,7 @@ None.
 A persona is a detail of an imaginary user or member, based on real-world observations and understandings of existing members or potential future members.
 It is meaningful when paired with pathways through which these personas engage with a project.
 
-```{figure} ../figures/personas.png
+```{figure} ../figures/personas.*
 ---
 height: 400px
 name: personas

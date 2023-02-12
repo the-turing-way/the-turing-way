@@ -111,32 +111,32 @@ So once the bug is fixed:
 ```
 def adult_or_child(age):
 
-# Check age is valid
-if age < 0:
-  raise ValueError, 'Not possible to have a negative age'
+  # Check age is valid
+  if age < 0:
+    raise ValueError, 'Not possible to have a negative age'
 
-# If the age is greater or equal to 18 classify them as an adult
-if age >= 18:
-  person_status = 'Adult'
+  # If the age is greater or equal to 18 classify them as an adult
+  if age >= 18:
+    person_status = 'Adult'
 
-# If the person is not an adult classify them as a child
-else:
-  person_status = 'Child'
+  # If the person is not an adult classify them as a child
+  else:
+    person_status = 'Child'
 
-return person_status
+  return person_status
 ```
 
 Go ahead and write a test to ensure that future changes in the code can't cause it to happen again:
 ```
 def test_adult_or_child():
 
-#Test that an adult is correctly classified as an adult
-assert adult_or_child(22) == 'Adult'
+  # Test that an adult is correctly classified as an adult
+  assert adult_or_child(22) == 'Adult'
 
-# Test that an child is correctly classified as a child
-assert adult_or_child(5) == 'Child'
+  # Test that an child is correctly classified as a child
+  assert adult_or_child(5) == 'Child'
 
-# Test that supplying an invalid age results in an error
-with pytest.raises(ValueError):
+  # Test that supplying an invalid age results in an error
+  with pytest.raises(ValueError):
     adult_or_child(-10)
 ```

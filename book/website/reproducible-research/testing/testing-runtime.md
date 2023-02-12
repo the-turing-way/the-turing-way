@@ -8,7 +8,7 @@ population = population + people_born - people_died
 
 // test that the population is positive
 if (population < 0):
-error( 'The number of people can never be negative' )
+  error( 'The number of people can never be negative' )
 ```
 
 Another example of a use of runtime tests is internal checks within functions that verify that their inputs and outputs are valid, as shown below:

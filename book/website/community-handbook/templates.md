@@ -3,7 +3,7 @@
 
 ***This page serves as an index for all the template resources provided within The Turing Way Community Handbook***
 
-```{figure} ../figures/templates.png
+```{figure} ../figures/templates.*
 ---
 height: 200px
 name: templates

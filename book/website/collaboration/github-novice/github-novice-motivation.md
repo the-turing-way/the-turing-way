@@ -36,10 +36,10 @@ In most cases, GitHub even provides a "preview" option that allows you to see wh
 For example, if you want to put a heading in markdown you use a ‘#’ (hash symbol) followed by a space and the title.
 Like this `# heading 1`, this will produce the first level header style for that text.
 
-### Resources to help you learn markdown:
+### Resources to help you learn Markdown:
 
 * How to write faster, better & longer: [the ultimate guide to Markdown](https://ghost.org/changelog/markdown/)
-* [Markdowncheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * Markdown guide: [Basic syntax](https://www.markdownguide.org/basic-syntax/)
 
 How and when you use Markdown formatting in your file will become clearer as you go through this chapter.

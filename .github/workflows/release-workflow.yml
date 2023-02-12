@@ -1,0 +1,50 @@
+name: ReleaseWorkflow
+
+on:
+  workflow_dispatch:
+  # schedule:
+  #   # minute (0 - 59), hour (0 - 23), day of month (1 - 31), month(1 - 12 or JAN-DEC), day of week (0 - 6 or SUN-SAT)
+  #   - cron: '0 0 25 */2 *'  # Do we want it to run at the start or end of every month?
+
+jobs:
+  release-workflow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install ruamel.yaml
+
+      - name: Update CITATION.cff file
+        working-directory: ./tests
+        run: |
+          python release_workflow.py
+
+      - name: Validate a CITATION.cff from a subdirectory
+        uses: citation-file-format/cffconvert-github-action@2.0.0
+        with:
+          args: "--infile ./CITATION.cff --validate"
+
+      - name: Convert CITATION.cff to Zenodo metadata format
+        uses: citation-file-format/cffconvert-github-action@2.0.0
+        with:
+          args: "--infile ./CITATION.cff --format zenodo --outfile ./.zenodo.json"
+
+      - name: Commit changes and create a Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          add-paths: .zenodo.json, CITATION.cff
+          commit-message: ":robot: Update citation.cff and .zenodo.json"
+          title: "[automated-pr] Update citation.cff and .zenodo.json"
+          branch: release-workflow-bot
+          delete-branch: true
+          body: |
+            Update citation.cff and generate Zenodo metadata
+            - Updated by changing version and date-released in Citation.cff then running cffconvert to generate new Zenodo metadata file.
+          labels: |
+            automated-pr-release-workflow
+          author: "CI User <ci-user@github.local>"
+          committer: "CI User <ci-user@github.local>"

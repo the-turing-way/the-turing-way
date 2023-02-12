@@ -88,7 +88,7 @@ For example say we have a code modelling the water levels in a reservoir over ti
 
 The result may look like this:
 
-```{figure} ../../figures/eyeball-test1.jpg
+```{figure} ../../figures/eyeball-test1.*
 ---
 name: eyeball-test1
 alt:
@@ -97,7 +97,7 @@ alt:
 
 On a day with rain it might look like this:
 
-```{figure} ../../figures/eyeball-test2.jpg
+```{figure} ../../figures/eyeball-test2.*
 ---
 name: eyeball-test2
 alt:
@@ -106,7 +106,7 @@ alt:
 
 and on a dry day it might look like this:
 
-```{figure} ../../figures/eyeball-test3.jpg
+```{figure} ../../figures/eyeball-test3.*
 ---
 name: eyeball-test3
 alt:
@@ -115,7 +115,7 @@ alt:
 
 All of these outputs look very different but are valid. However, if a researcher sees a result like this:
 
-```{figure} ../../figures/eyeball-test-error.jpg
+```{figure} ../../figures/eyeball-test-error.*
 ---
 name: eyeball-test-error
 alt:

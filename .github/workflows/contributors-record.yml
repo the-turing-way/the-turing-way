@@ -4,7 +4,7 @@ name: UpdateContributorsRecord
 # runs daily
 on:
   schedule:
-    - cron: '00 13 * * FRI'
+    - cron: "00 13 * * FRI"
     # minute (0 - 59), hour (0 - 23), day of month (1 - 31), month(1 - 12 or JAN-DEC), day of week (0 - 6 or SUN-SAT)
 
 # Set up the Continuous Integration job
@@ -14,7 +14,7 @@ jobs:
     # This section collects together the steps involved in running the test
     steps:
       - name: Checkout branch
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       # Run a simple script that combines content from 2 files
       - name: Combine contributors information
@@ -30,7 +30,7 @@ jobs:
           commit-message: Update Contributors Record
           branch: contributors-bot-patches
           delete-branch: true
-          title: '[automated-pr] Update Contributors Record in Afterword'
+          title: "[automated-pr] Update Contributors Record in Afterword"
           body: |
             Update Contributors Record in Afterword
             - Updated with any change in contributors.md and contributors table (in README.md)

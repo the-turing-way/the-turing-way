@@ -4,7 +4,7 @@ The widespread standard in academia has been, and still is, to work individually
 However, if done well, working in a team can be more fun, more productive, and more effective.
 There are both benefits and downsides of working in teams, and the key is to work together in such a way that the advantages outweigh the disadvantages.
 
-```{figure} ../../figures/new-community.png
+```{figure} ../../figures/new-community.*
 ---
 name: new-community
 alt: An illustration of 2 people who are working together and discussing a data chart.
@@ -30,9 +30,9 @@ However, teamwork practices discussed here are generally useful for anyone tryin
 ## Further Recommendations
 
 The *The Turing Way* guide for Collaboration, we have also provided useful resources for {ref}`facilitating remote collaboration<cl-remote-collab>`.
-Especially, check out recommendations for {ref}`organising<cl-remote-collab-meetings>`, {ref}`list of tools<cl-remote-collab-tools>` and {ref}`managing remote teams<cl-remote-collab-manage-teams>`.
+Especially, check out recommendations for {ref}`organising<cl-organising-meetings>`, {ref}`list of tools<cl-event-tools>` and {ref}`managing remote teams<cl-remote-collab-team>`.
 
-Atlassian has [a great collection of blogs](https://www.atlassian.com/blog/teamwork) for 
-nice ideas and tips on teamwork. 
-See for example [7 essential teamwork skills](https://www.atlassian.com/blog/teamwork/teamwork-skills-accelerate-career), 
+Atlassian has [a great collection of blogs](https://www.atlassian.com/blog/teamwork) for
+nice ideas and tips on teamwork.
+See for example [7 essential teamwork skills](https://www.atlassian.com/blog/teamwork/teamwork-skills-accelerate-career),
 or [How to run effective meetings and thrive](https://www.atlassian.com/blog/teamwork/how-to-run-effective-meetings).

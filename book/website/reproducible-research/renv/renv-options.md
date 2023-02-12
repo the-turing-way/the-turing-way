@@ -11,7 +11,7 @@ Another way these can be split is by how the reproduced research is presented to
 Using Binder or a Virtual Machine creates a much more graphical, GUI-type result.
 In contrast, the outputs of Containers and Package Management Systems are more easily interacted with via the command line.
 
-```{figure} ../../figures/computational-environments.jpg
+```{figure} ../../figures/computational-environments.*
 ---
 name: computational-environments
 alt: A depiction of the various tools used to capture computational environments

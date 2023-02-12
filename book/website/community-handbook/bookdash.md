@@ -10,7 +10,7 @@ These virtual Book Dashes are five days long, designed for flexible participatio
 Meaning, rather than committing their entire working day, participants can choose one or multiple 2.5 hours short collaborative co-working calls, called "contribution sessions" each day based on their availability.
 In the future, we will co-design hybrid events with "online-first" approach for the Book Dash attendees who will have the opportunity to organise small local meet-ups for collaboration and social events.
 
-```{figure} ../figures/first-pull-request.png
+```{figure} ../figures/first-pull-request.*
 ---
 height: 400px
 name: book-dash

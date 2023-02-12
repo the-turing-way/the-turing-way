@@ -19,7 +19,7 @@ If you need to go back to a previous version of a file because of a mistake, or 
 
 An illustration of this is shown below.
 
-```{figure} ../../figures/main-branch.png
+```{figure} ../../figures/main-branch.*
 ---
 name: main-branch
 alt: An illustration of a main branch
@@ -46,7 +46,7 @@ At the same time, you can test your ideas and troubleshoot in a local branch.
 When you are happy with the new changes, you can introduce them to the main project.
 The merge feature in Git allows the independent lines of development in a local branch to get integrated into the main branch.
 
-```{figure} ../../figures/one-branch.png
+```{figure} ../../figures/one-branch.*
 ---
 name: one-branch
 alt: An illustration of a development and main branch in git
@@ -57,7 +57,7 @@ An illustration of a development and main branch in git.
 You can have more than one branch off of your main copy.
 If one of your branches ends up not working, you can either abandon it or delete it without impacting the main branch of your project.
 
-```{figure} ../../figures/two-branches.png
+```{figure} ../../figures/two-branches.*
 ---
 name: two-branches
 alt: An illustration of two development branches and one main branch in git
@@ -67,7 +67,7 @@ Two development branches and one main branch in git.
 
 If you want, you can create branches from branches (and branches off of those branches and so on).
 
-```{figure} ../../figures/sub-branch.png
+```{figure} ../../figures/sub-branch.*
 ---
 name: sub-branch1
 alt: An illustration of a development branch in git.

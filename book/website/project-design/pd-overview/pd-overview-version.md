@@ -1,17 +1,17 @@
 (pd-overview-version)=
 # Version Control and Documentation
 
-Once the project is designed, is important to keep track of all the changes.
+Once the project is designed, it is important to keep track of all the changes.
 This will save you a lot of time and can help others understand and reuse your research - you have a record of what worked best and information to understand why.
 
 (pd-overview-version-experiments)=
 ## Experimental Work
 
 It is necessary to write down all the details about your experimental work.
-This allows future reader, a colleague and your future self to understand and reproduce all the experimental work related to your project.
+This allows future readers, a colleague and your future self to understand and reproduce all the experimental work related to your project.
 
-An useful tool to do this is {ref}`Electronic Lab Notebooks<rr-open-notebooks>` (ELNs).
-ELNs are a digital version of the paper notebook, with the added advantage of searchability, secure storage and remote access.
+A useful tool to do this is {ref}`Electronic Lab Notebooks<rr-open-notebooks>` (ELNs).
+ELNs are digital versions of paper notebooks, with the added advantage of searchability, secure storage and remote access.
 They also are easy to share among team members and collaborators.
 
 It is important to document and share the methodology, analysis and procedures used, as well as data specific information.

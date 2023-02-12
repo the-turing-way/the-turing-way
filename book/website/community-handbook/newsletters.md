@@ -6,7 +6,7 @@ These newsletters include event announcements, updates from the project, highlig
 
 While we send our newsletters by email to our subscribed members, we simultaneously publish and archive them [online on TinyLetter](https://tinyletter.com/TuringWay/archive) so that anyone outside the community can also learn about the project.
 
-```{figure} ../figures/scriberia-newsletter.png
+```{figure} ../figures/scriberia-newsletter.*
 ---
 height: 400px
 name: scriberia-newsletter

@@ -3,7 +3,7 @@
 
 The [Citation File Format](https://citation-file-format.github.io) lets you provide citation metadata, for software or datasets, in plaintext files that are easy to read by both humans and machines.
 
-```{figure} ../../figures/recognition.jpg
+```{figure} ../../figures/recognition.*
 ---
 name: recognition
 width: 500px
@@ -25,7 +25,7 @@ When you host your software source code on GitHub and have a `CITATION.cff` in y
 Zenodo will use the information from `CITATION.cff` and show it together with the publication.
 You don't have to edit this information manually on Zenodo anymore.
 
-```{figure} ../../figures/software-credit.jpg
+```{figure} ../../figures/software-credit.*
 ---
 name: software-credit
 width: 500px
@@ -150,7 +150,7 @@ If you have found software or datasets that contain a `CITATION.cff`, there are 
 - Alternatively, if the software or datasets you want to cite are available on GitHub, you can use GitHub's interface to copy the reference in either APA or BibTeX formats by clicking the "Cite this repository" button (see the green area in the image below).
 For more details on software citation on GitHub please see [GitHub's guide on software citation](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files).
 
-  ```{figure} ../../figures/github-cff-integration.jpg
+  ```{figure} ../../figures/github-cff-integration.*
   ---
   name: github-cff-integration
   alt: Button on GitHub that provides automatically conversion of the `CITATION.cff` file to APA's and BibTex's format.

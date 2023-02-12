@@ -7,7 +7,7 @@ A citation includes the following information:
 - Author
 - Title
 - Year of publication
-- Publisher (for data, this is often the data repository where it is housed),
+- Publisher (for data, this is often the data repository where it is housed)
 - Version (if indicated)
 - Access information (a URL or DOI)
 
@@ -23,8 +23,8 @@ See also [FORCE11 resource](https://www.force11.org/node/4771).
 
 (cm-citable-cite-data)=
 ## Citing Data
-
-When sharing a dataset, use dedicated DOIs and add a **data availability statement** at the end of the paper or in online repository details (similar to the acknowledgement section).
+When sharing a dataset, use the assigned DOI (from the data repository) and add this to your data availability statement at the end of the paper (similar to the acknowledgement section). 
+It is important to also cite your dataset in the references themselves, as only the citations in the reference section will contribute to citation counts.
 
 You can find examples of these statements in the publishers' (research data) author policies.
 

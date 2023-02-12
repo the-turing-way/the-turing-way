@@ -4,7 +4,7 @@
 If you plan a large piece of work in your project, it is a good idea to produce an outline of the work to share with your potential contributors.
 Your roadmap should cover your goal and vision and include a timeline for tasks that need to be completed, thus helping new contributors to your project to get an understanding of what is currently happening on the project and what's coming next.
 
-```{figure} ../../figures/project-roadmap.jpg
+```{figure} ../../figures/project-roadmap.*
 ---
 name: project-roadmap
 alt: image shows a hand holding a smartphone with a map that is marked with milestones 1, 2 and 3. This phone app for map or navigator analogy is helpful to understand milestones and project roadmaps in research projects.
@@ -15,7 +15,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 To create a roadmap, it is important to map out the key milestones, tasks needed to accomplish the milestones and related challenges to help you allocate your resources and time to work on them efficiently.
 Milestones can be organised around your project's objectives, community events, contributors development or timeframes.
-If you work on GitHub, you can use [GitHub's Project board](https://help.github.com/en/articles/tracking-the-progress-of-your-work-with-project-boards) to manage all the tasks on issues where you provide details and collect relevant information collaboratively and openly.
+If you work on GitHub, you can use [GitHub's Project board](https://docs.github.com/en/github-ae@latest/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards) to manage all the tasks on issues where you provide details and collect relevant information collaboratively and openly.
 
 A roadmap can be described in the landing page or README file to describe the following aspects of your project:
 

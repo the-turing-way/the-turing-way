@@ -4,13 +4,13 @@
 ## What is The Turing Way?
 - A book: [https://the-turing-way.netlify.com/](https://the-turing-way.netlify.com/)
 - An open source project: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
-- A community: *The Turing Way is an Open Source collaborative project that involves and supports its members of diverse skills and backgrounds to ensure that data science is accessible and useful for everyone. 
+- A community: *The Turing Way is an Open Source collaborative project that involves and supports its members of diverse skills and backgrounds to ensure that data science is accessible and useful for everyone.
 Its moonshot goal is to make reproducible research 'too easy not to do'.*
 
 ## Who are the community members? 
 - Project co-leads: 
-  - Dr. Kirstie Whitaker, Director of the [Tools, Practices, and Systems research programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems), The Alan Turing Institute
-  - Dr. Malvika Sharan, Senior Researcher - Open Research, Practices, and Systems research programme, The Alan Turing Institute
+  - Dr. Kirstie Whitaker, Director of the [Tools, Practices, and Systems (TPS) Research Programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems), The Alan Turing Institute
+  - Dr. Malvika Sharan, Senior Researcher - Open Research, TPS, The Alan Turing Institute
 - Community Manager: Anne Lee-Steele, The Alan Turing Institute
 - Members of [*The Turing Way* core team](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) are:
   - the members of the [Community Management](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research), Research Application Management and Project Management teams of the Tools, Practices and Systems research programme. 
@@ -20,7 +20,7 @@ Its moonshot goal is to make reproducible research 'too easy not to do'.*
 
 ## Important links:
 - GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
-- Newsletter: [https://tinyletter.com/TuringWay/](https://tinyletter.com/TuringWay/) 
+- Newsletter: [https://tinyletter.com/TuringWay/](https://tinyletter.com/TuringWay/)
 - Twitter: [https://twitter.com/turingway](https://twitter.com/turingway)
 - Slack channel: [theturingway.slack.com](theturingway.slack.com)
 - Join Slack channel: [https://tinyurl.com/jointuringwayslack](https://tinyurl.com/jointuringwayslack)

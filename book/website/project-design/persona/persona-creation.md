@@ -15,7 +15,7 @@ Start by giving your persona a real name and real role with the help of some ass
 This will help you anchor them in reality.
 You can use the random name generator website [behindthename.com](https://www.behindthename.com/random/) to create diverse names.
 
-```{figure} ../../figures/persona-creation.png
+```{figure} ../../figures/persona-creation.*
 ---
 name: persona-creation
 alt: Persona Canvas by DESIGNBETTERBUSINESS.COM
