@@ -729,7 +729,18 @@ parts:
                 file: community-handbook/templates/template-newsletter-draft
               - title: Template for Fireside Chat Shared Notes
                 file: community-handbook/templates/template-fireside-chat
-
+          - title: Translation
+            file: community-handbook/translation
+            sections:
+              - title: Getting started
+                file: community-handbook/translation/translation-getting-started
+              - title: Hellow Crowdin
+                file: community-handbook/translation/translation-hellow-crowdin
+              - title: Localisation
+                file: community-handbook/translation/translation-localisation
+              - title: Workflow
+                file: community-handbook/translation/translation-workflow
+                
       # ===== Afterword ========================================
 
       - file: afterword/afterword
