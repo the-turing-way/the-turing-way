@@ -180,7 +180,7 @@ It is an industrial union organised by and for technology workers. ([website](ht
     * IWGB also has a number of branches covering cleaners, receptionists and game industry workers
 
 #### Ireland
-* **Medical Laboratory Scientists Association (MLSA)**, Ireland, is the sole trade union representing over 1600 Medical Scientists in Ireland [website](https://mlsa.ie/who-we-are)
+* **Medical Laboratory Scientists Association (MLSA)**, Ireland, is the sole trade union representing over 1600 Medical Scientists in Ireland ([website](https://mlsa.ie/who-we-are))
 
 #### France
 * **Confédération Française Démocratique du Travail (CFDT)** is the largest French trade union confederation by number of members. It originated as a secular branch of the Christian trade union Confédération Française des Travailleurs Chrétiens (CFTC) ([website](https://cfdt.fr/))
