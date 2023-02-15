@@ -202,7 +202,7 @@ It is an industrial union organised by and for technology workers. ([website](ht
 ([website](http://precarios.org/Qui%C3%A9nes+somos))
 
 #### Argentina
-* **APINTA (Asociación del Personal del Instituto Nacional de Tecnología Agropecuaria, Staff Association of the National Institute of Agricultural Technology)** is the entity that groups together all workers, who have an employment relationship with INTA, as well as its retirees and pensioners ([website](https://www.apinta.org/))
+* **APINTA (Asociación del Personal del Instituto Nacional de Tecnología Agropecuaria, Staff Association of the National Institute of Agricultural Technology)** is the entity that groups together all workers who have an employment relationship with INTA, as well as its retirees and pensioners ([website](https://www.apinta.org/))
 * **CONADU: Federación Nacional de Docentes Universitarios (National University Teachers Federation)** Main objectives are the defense of:
 Public, Free, Democratic, Popular, Feminist and Latin American University; salary, working conditions, training and teaching careers; access, permanence and graduation of students in Higher Education; research and the production of knowledge, science and technology; the linkage of the university with the State and society to promote national and regional development ([website](https://conadu.org.ar/))
 
