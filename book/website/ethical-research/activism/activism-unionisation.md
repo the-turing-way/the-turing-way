@@ -169,7 +169,7 @@ We recognise that the list below is very UK-centric and would welcome additions 
 * Tech Workers Coalition, Global (organisation focused on tech workers in industry) ([website](https://techworkerscoalition.org/))
 
 #### United Kingdom
-* **United Tech and Allied Workers (UTAW)**, United Kingdom, a branch of the Communication Workers Union, covering all workers at tech and data science companies, regardless of pay grade or employment status (for example, part-time, full-time, or contractors). 
+* **United Tech and Allied Workers (UTAW)**, United Kingdom, a branch of the Communication Workers Union, covering all workers at tech and data science companies, regardless of pay grade or employment status. 
 It is an industrial union organised by and for technology workers. ([website](https://utaw.tech/about/))
 * **Unite**, United Kingdom, the largest professional services union with over 1 million members ([website](https://unitetheunion.org/))
 * **University & Colleges Union (UCU)**, United Kingdom, covers researchers, academic staff and higher grades of professional services staff in Higher Education & Further Education institutions ([website](https://www.ucu.org.uk/))
