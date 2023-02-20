@@ -555,7 +555,7 @@ parts:
               - title: Managing Distributed Teams
                 file: collaboration/remote-collab/remote-collab-team
               - title: Useful Resources
-                file: collaboration/remote-collab/useful-resources
+                file: collaboration/remote-collab/remote-collab-useful-resources
           - title: Shared Ownership in Open Source Projects
             file: collaboration/shared-ownership
             sections:
