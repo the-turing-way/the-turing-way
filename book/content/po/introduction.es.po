@@ -1,240 +1,467 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Place Holder <test@test.com>, 2020.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Camila Rangel Smith <camila.rangel.smith@gmail.com>, 2020
+# psubias <paulasubias@gmail.com>, 2020
+# Pamela Villar González <pamela.villar.gonzalez@psych.uw.edu.pl>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: content\n"
 "Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
 "POT-Creation-Date: 2020-02-05 19:08:03+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Place Holder <test@test.com>\n"
-"Language-Team: Spanish <LL@li.org>\n"
+"PO-Revision-Date: 2020-04-07 14:20+0000\n"
+"Last-Translator: Pamela Villar González <pamela.villar.gonzalez@psych.uw.edu.pl>, 2020\n"
+"Language-Team: Spanish (https://www.transifex.com/theturingway/teams/107194/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: introduction/introduction.md:1
 # header
+#: introduction/introduction.md:1
 msgid "# Welcome to the Turing Way"
-msgstr ""
+msgstr "# Bienvenido al The Turing Way"
 
 #: introduction/introduction.md:3
-msgid "_The Turing Way_ is a lightly opinionated guide to reproducible data science."
+msgid ""
+"_The Turing Way_ is a lightly opinionated guide to reproducible data "
+"science."
 msgstr ""
+"_The Turing Way_ es una guía ligeramente dogmática para la ciencia de datos "
+"reproducible. "
 
 #: introduction/introduction.md:5
-msgid "Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end."
+msgid ""
+"Our goal is to provide all the information that researchers need at the "
+"start of their projects to ensure that they are easy to reproduce at the "
+"end."
 msgstr ""
+"Nuestro objetivo es proveer toda la información que el personal investigador"
+" necesita al comenzar sus proyectos para garantizar que sean facilmente "
+"reproducibles."
 
 #: introduction/introduction.md:7
-msgid "This also means making sure PhD students, postdocs, PIs, and funding teams know which parts of the \"responsibility of reproducibility\" they can affect, and what they should do to nudge data science to being more efficient, effective, and understandable."
+msgid ""
+"This also means making sure PhD students, postdocs, PIs, and funding teams "
+"know which parts of the \"responsibility of reproducibility\" they can "
+"affect, and what they should do to nudge data science to being more "
+"efficient, effective, and understandable."
 msgstr ""
+"Esto también significa asegurarse de que los estudiantes de doctorado, los "
+"post-doctorados, los investigadores principales y los equipos de "
+"financiación sepan qué partes de la \"responsabilidad de reproducibilidad\" "
+"poseen y qué deben hacer para impulsar que la ciencia de datos sea más "
+"eficiente, efectiva y comprensible."
 
 #: introduction/introduction.md:9
-msgid "![Cartoon of multiple people tending a garden - caption \"our community\"](../figures/community.jpg)"
+msgid ""
+"![Cartoon of multiple people tending a garden - caption \"our "
+"community\"](../figures/community.jpg)"
 msgstr ""
+"![Cartoon of multiple people tending a garden - caption \"our "
+"community\"](../figures/community.jpg)"
 
 #: introduction/introduction.md:11
 msgid "The book is collaboratively written and open from the start."
 msgstr ""
+"El libro está escrito de forma colaborativa y abierta desde el principio."
 
 #: introduction/introduction.md:12
-msgid "If you would like to contribute please [get in touch](https://github.com/alan-turing-institute/the-turing-way#get-in-touch) or visit our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) to learn how to start."
+msgid ""
+"If you would like to contribute please [get in touch](https://github.com"
+"/alan-turing-institute/the-turing-way#get-in-touch) or visit our "
+"[contributing guidelines](https://github.com/alan-turing-institute/the-"
+"turing-way/blob/master/CONTRIBUTING.md) to learn how to start."
 msgstr ""
+"Si deseas contribuir, por favor [contacta] (https://github.com/alan-turing-"
+"institute/the-turing-way#get-in-touch) o visita nuestras [pautas de "
+"contribución] (https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/CONTRIBUTING.md) para conocer cómo comenzar."
 
 #: introduction/introduction.md:14
-msgid "We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience."
+msgid ""
+"We value the participation of every member of our community and want to "
+"ensure that every contributor has an enjoyable and fulfilling experience."
 msgstr ""
+"Valoramos la participación de cada miembro de nuestra comunidad y queremos "
+"asegurarnos de que cada contribuyente tenga una experiencia agradable y "
+"satisfactoria."
 
 #: introduction/introduction.md:15
-msgid "Accordingly, everyone who participates in the _Turing Way_ project is expected to show respect and courtesy to other community members at all times."
+msgid ""
+"Accordingly, everyone who participates in the _Turing Way_ project is "
+"expected to show respect and courtesy to other community members at all "
+"times."
 msgstr ""
+"En consecuencia, esperamos que todos los que participan en el proyecto "
+"_Turing Way_ muestren respeto y cortesía a otros miembros de la comunidad en"
+" todo momento."
 
 #: introduction/introduction.md:16
-msgid "All contributions must abide by our [code of conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md)."
+msgid ""
+"All contributions must abide by our [code of conduct](https://github.com"
+"/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md)."
 msgstr ""
+"Todas las contribuciones deben cumplir con nuestro [código de conducta] "
+"(https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/CODE_OF_CONDUCT.md)."
 
-#: introduction/introduction.md:18
 # header
+#: introduction/introduction.md:18
 msgid "## A little more background"
 msgstr ""
+"## Algo más de contexto\n"
+" "
 
 #: introduction/introduction.md:20
-msgid "Reproducible research is necessary to ensure that scientific work can be trusted."
+msgid ""
+"Reproducible research is necessary to ensure that scientific work can be "
+"trusted."
 msgstr ""
+"La investigación reproducible es necesaria para garantizar que el producto "
+"del trabajo científico sea considerado fiable."
 
 #: introduction/introduction.md:21
-msgid "Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code."
+msgid ""
+"Funders and publishers are beginning to require that publications include "
+"access to the underlying data and the analysis code."
 msgstr ""
+"Las instituciones de financiamiento y los editores de revistas científicas "
+"están comenzando a exigir que las publicaciones incluyan acceso a los datos "
+"analizados y al código de análisis."
 
 #: introduction/introduction.md:22
-msgid "The goal is to ensure that all results can be independently verified and built upon in future work."
+msgid ""
+"The goal is to ensure that all results can be independently verified and "
+"built upon in future work."
 msgstr ""
+"El objetivo es garantizar que todos los resultados puedan verificarse "
+"independientemente y aprovecharse en trabajos futuros."
 
 #: introduction/introduction.md:23
 msgid "This is sometimes easier said than done."
-msgstr ""
+msgstr "Esto a veces es más fácil decirlo que hacerlo."
 
 #: introduction/introduction.md:24
-msgid "Sharing these research outputs means understanding data management, library sciences, sofware development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists."
+msgid ""
+"Sharing these research outputs means understanding data management, library "
+"sciences, sofware development, and continuous integration techniques: skills"
+" that are not widely taught or expected of academic researchers and data "
+"scientists."
 msgstr ""
+"Compartir estos resultados de investigación significa conocer temas como la "
+"gestión de datos, las ciencias de la biblioteconomía, el desarrollo de "
+"software y las técnicas de integración continua: habilidades que no son "
+"ampliamente enseñadas o requeridas a los investigadores académicos y "
+"científicos de datos."
 
 #: introduction/introduction.md:26
-msgid "The Turing Way is a handbook to support students, their supervisors, funders, and journal editors in ensuring that reproducible data science is \"too easy not to do\"."
+msgid ""
+"The Turing Way is a handbook to support students, their supervisors, "
+"funders, and journal editors in ensuring that reproducible data science is "
+"\"too easy not to do\"."
 msgstr ""
+"The Turing Way es un manual para ayudar a los estudiantes, sus supervisores,"
+" patrocinadores y editores de revistas a garantizar que la ciencia de datos "
+"reproducible sea \"demasiado fácil para no hacerla\"."
 
 #: introduction/introduction.md:27
-msgid "It will include training material on version control, analysis testing, open and transparent communication with future users, and build on Turing Institute case studies and workshops."
+msgid ""
+"It will include training material on version control, analysis testing, open"
+" and transparent communication with future users, and build on Turing "
+"Institute case studies and workshops."
 msgstr ""
+"Incluirá material de capacitación sobre control de versiones, pruebas de "
+"análisis, comunicación abierta y transparente con futuros usuarios, y se "
+"basará en casos de estudio y talleres del The Alan Turing Institute. "
 
 #: introduction/introduction.md:28
-msgid "This project is openly developed and any and all questions, comments and recommendations are welcome at our GitHub repository: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)."
+msgid ""
+"This project is openly developed and any and all questions, comments and "
+"recommendations are welcome at our GitHub repository: [https://github.com"
+"/alan-turing-institute/the-turing-way](https://github.com/alan-turing-"
+"institute/the-turing-way)."
 msgstr ""
+"Este proyecto se desarrolla abiertamente y todas y cada una de las "
+"preguntas, comentarios y recomendaciones son bienvenidos en nuestro "
+"repositorio de GitHub: [https://github.com/alan-turing-institute/the-turing-"
+"way](https://github.com/alan-turing-institute/the-turing-way)."
 
-#: introduction/introduction.md:30
 # header
+#: introduction/introduction.md:30
 msgid "## The book itself"
-msgstr ""
+msgstr "## El libro"
 
 #: introduction/introduction.md:32
-msgid "The book that you are reading is a [jupyter book](https://github.com/jupyter/jupyter-book/)."
+msgid ""
+"The book that you are reading is a [jupyter book](https://github.com/jupyter"
+"/jupyter-book/)."
 msgstr ""
+"El libro que estás leyendo es un [libro jupyter] (https://github.com/jupyter"
+"/jupyter-book/)."
 
 #: introduction/introduction.md:33
-msgid "Jupyter books render markdown documents and jupyter notebooks as static html web pages."
+msgid ""
+"Jupyter books render markdown documents and jupyter notebooks as static html"
+" web pages."
 msgstr ""
+"Los libros de Jupyter representan documentos Markdown y Jupyter Notebooks "
+"como páginas web html estáticas."
 
 #: introduction/introduction.md:34
 msgid "They are easy to read and navigate...but also easy to edit and extend!"
 msgstr ""
+"Son fáciles de leer y navegar ... ¡pero también fáciles de editar y ampliar!"
 
 #: introduction/introduction.md:35
-msgid "There are some great example books at [https://jupyterbook.org](https://jupyterbook.org)."
+msgid ""
+"There are some great example books at "
+"[https://jupyterbook.org](https://jupyterbook.org)."
 msgstr ""
+"Hay algunos excelentes ejemplos de libros de Jupyter en "
+"[https://jupyterbook.org](https://jupyterbook.org)."
 
 #: introduction/introduction.md:37
-msgid "Check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) on how you can help us build the most useful book we can!"
+msgid ""
+"Check out our [contributing guidelines](https://github.com/alan-turing-"
+"institute/the-turing-way/blob/master/CONTRIBUTING.md) on how you can help us"
+" build the most useful book we can!"
 msgstr ""
+"¡Mira nuestras [pautas de contribución] (https://github.com/alan-turing-"
+"institute/the-turing-way/blob/master/CONTRIBUTING.md) sobre cómo puedes "
+"ayudarnos a construir el libro lo más útil posible!"
 
-#: introduction/introduction.md:39
 # header
+#: introduction/introduction.md:39
 msgid "## The Turing Way Community"
-msgstr ""
+msgstr "## La comunidad del The Turing Way"
 
 #: introduction/introduction.md:41
 msgid "_The Turing Way_ is built by an incredible team.....and you!"
-msgstr ""
+msgstr "_The Turing Way_ está construido por un equipo increíble ... ¡y tú!"
 
 #: introduction/introduction.md:43
 msgid "![](../figures/TuringWayTeam.jpg)"
-msgstr ""
+msgstr "![](../figures/TuringWayTeam.jpg)"
 
 #: introduction/introduction.md:45
-msgid "The lead investigator for this project is [Dr Kirstie Whitaker](https://whitakerlab.github.io/about)."
+msgid ""
+"The lead investigator for this project is [Dr Kirstie "
+"Whitaker](https://whitakerlab.github.io/about)."
 msgstr ""
+"La investigadora principal de este proyecto es [Dr Kirstie Whitaker] "
+"(https://whitakerlab.github.io/about)."
 
 #: introduction/introduction.md:46
-msgid "She is a research fellow at the [Alan Turing Institute](http://turing.ac.uk) and senior research associate in the [Department of Psychiatry](https://www.psychiatry.cam.ac.uk) at the University of Cambridge."
+msgid ""
+"She is a research fellow at the [Alan Turing Institute](http://turing.ac.uk)"
+" and senior research associate in the [Department of "
+"Psychiatry](https://www.psychiatry.cam.ac.uk) at the University of "
+"Cambridge."
 msgstr ""
+"Es investigadora en el [Alan Turing Institute] (http://turing.ac.uk) e "
+"investigadora asociada en el [Departamento de Psiquiatría] "
+"(https://www.psychiatry.cam.ac.uk) en La Universidad de Cambridge."
 
 #: introduction/introduction.md:48
 msgid "Our core contributors are, in alphabetical order:"
-msgstr ""
+msgstr "Nuestros principales contribuyentes son, en orden alfabético:"
 
+# unordered list
 #: introduction/introduction.md:50
-# unordered list
-msgid "* [Rachael Ainsworth](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#rachael-ainsworth)"
+msgid ""
+"* [Rachael Ainsworth](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#rachael-ainsworth)"
 msgstr ""
+"* [Rachael Ainsworth](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#rachael-ainsworth)"
 
+# unordered list
 #: introduction/introduction.md:51
-# unordered list
-msgid "* [Becky Arnold](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#becky-arnold)"
+msgid ""
+"* [Becky Arnold](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#becky-arnold)"
 msgstr ""
+"* [Becky Arnold](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#becky-arnold)"
 
+# unordered list
 #: introduction/introduction.md:52
-# unordered list
-msgid "* [Louise Bowler](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#louise-bowler)"
+msgid ""
+"* [Louise Bowler](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#louise-bowler)"
 msgstr ""
+"* [Louise Bowler](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#louise-bowler)"
 
+# unordered list
 #: introduction/introduction.md:53
-# unordered list
-msgid "* [Sarah Gibson](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#sarah-gibson)"
+msgid ""
+"* [Sarah Gibson](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#sarah-gibson)"
 msgstr ""
+"* [Sarah Gibson](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#sarah-gibson)"
 
+# unordered list
 #: introduction/introduction.md:54
-# unordered list
-msgid "* [Patricia Herterich](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#patricia-herterich)"
+msgid ""
+"* [Patricia Herterich](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#patricia-herterich)"
 msgstr ""
+"* [Patricia Herterich](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#patricia-herterich)"
 
+# unordered list
 #: introduction/introduction.md:55
-# unordered list
-msgid "* [Rosie Higman](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#rosie-higman)"
+msgid ""
+"* [Rosie Higman](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#rosie-higman)"
 msgstr ""
+"* [Rosie Higman](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#rosie-higman)"
 
+# unordered list
 #: introduction/introduction.md:56
-# unordered list
-msgid "* [Anna Krystalli](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#anna-krystalli)"
+msgid ""
+"* [Anna Krystalli](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#anna-krystalli)"
 msgstr ""
+"* [Anna Krystalli](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#anna-krystalli)"
 
+# unordered list
 #: introduction/introduction.md:57
-# unordered list
-msgid "* [Alexander Morley](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#alexander-morley)"
+msgid ""
+"* [Alexander Morley](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#alexander-morley)"
 msgstr ""
+"* [Alexander Morley](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#alexander-morley)"
 
-#: introduction/introduction.md:58
 # unordered list
-msgid "* [Martin O'Reilly](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md#martin-oreilly)"
+#: introduction/introduction.md:58
+msgid ""
+"* [Martin O'Reilly](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#martin-oreilly)"
 msgstr ""
+"* [Martin O'Reilly](https://github.com/alan-turing-institute/the-turing-"
+"way/blob/master/contributors.md#martin-oreilly)"
 
 #: introduction/introduction.md:60
-msgid "You can see all of our incredible contributors in our [README](https://github.com/alan-turing-institute/the-turing-way#contributors) file, and screengrabbed below."
+msgid ""
+"You can see all of our incredible contributors in our "
+"[README](https://github.com/alan-turing-institute/the-turing-"
+"way#contributors) file, and screengrabbed below."
 msgstr ""
+"Puede ver a todos nuestros increíbles colaboradores en nuestro archivo "
+"[README] (https://github.com/alan-turing-institute/the-turing-"
+"way#contributors), y en las fotos a continuación."
 
 #: introduction/introduction.md:62
-msgid "![Grid of pictures and names of project contributors](../figures/contributors-twopanel.png)"
+msgid ""
+"![Grid of pictures and names of project contributors](../figures"
+"/contributors-twopanel.png)"
 msgstr ""
+"! [Cuadrícula con imágenes y nombres de colaboradores del proyecto] "
+"(../figures/contributors-twopanel.png)"
 
-#: introduction/introduction.md:64
 # header
+#: introduction/introduction.md:64
 msgid "## Citing _The Turing Way_"
-msgstr ""
+msgstr "## Citando a _The Turing Way_"
 
 #: introduction/introduction.md:66
-msgid "You can reference _The Turing Way_ through the project's Zenodo archive using doi: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853)."
+msgid ""
+"You can reference _The Turing Way_ through the project's Zenodo archive "
+"using doi: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853)."
 msgstr ""
+"Puedes hacer referencia a _The Turing Way_ a través del archivo Zenodo del "
+"proyecto usando doi: [10.5281/zenodo.3233853] "
+"(https://doi.org/10.5281/zenodo.3233853)."
 
 #: introduction/introduction.md:68
 msgid "The citation will look something like:"
-msgstr ""
+msgstr "La cita se verá así:"
 
-#: introduction/introduction.md:70
 # blockquote, which can be cascaded
-msgid "> The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. http://doi.org/10.5281/zenodo.3233986"
+#: introduction/introduction.md:70
+msgid ""
+"> The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, "
+"Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The "
+"Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). "
+"Zenodo. http://doi.org/10.5281/zenodo.3233986"
 msgstr ""
+"> The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, "
+"Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The "
+"Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). "
+"Zenodo. http://doi.org/10.5281/zenodo.3233986"
 
 #: introduction/introduction.md:72
-msgid "Please visit the [DOI link](https://doi.org/10.5281/zenodo.3233853) though to get the most recent version - the one above is not automatically generated and therefore may be out of date."
+msgid ""
+"Please visit the [DOI link](https://doi.org/10.5281/zenodo.3233853) though "
+"to get the most recent version - the one above is not automatically "
+"generated and therefore may be out of date."
 msgstr ""
+"Visita el [enlace DOI] (https://doi.org/10.5281/zenodo.3233853) para obtener"
+" la versión más reciente: la dirección anterior no se genera automáticamente"
+" y, por lo tanto, puede estar desactualizada."
 
 #: introduction/introduction.md:73
-msgid "DOIs allow us to archive the repository and they are really valuable to ensure that the work is tracked in academic publications."
+msgid ""
+"DOIs allow us to archive the repository and they are really valuable to "
+"ensure that the work is tracked in academic publications."
 msgstr ""
+"Los DOI nos permiten archivar el repositorio y son realmente valiosos para "
+"garantizar que el trabajo se rastree en publicaciones académicas."
 
 #: introduction/introduction.md:75
-msgid "You can also share the human-readable URL to a page in the book, for example: [https://the-turing-way.netlify.com/reproducibility/03/definitions.html](https://the-turing-way.netlify.com/reproducibility/03/definitions.html), but be aware that the project is under development and therefore these links may change over time."
+msgid ""
+"You can also share the human-readable URL to a page in the book, for "
+"example: [https://the-turing-"
+"way.netlify.com/reproducibility/03/definitions.html](https://the-turing-"
+"way.netlify.com/reproducibility/03/definitions.html), but be aware that the "
+"project is under development and therefore these links may change over time."
 msgstr ""
+"También puedes compartir esta URL legible para humanos en una página del "
+"libro, por ejemplo: [https://the-turing-"
+"way.netlify.com/reproducibility/03/definitions.html](https://the-turing-"
+"way.netlify.com/reproducibility/03/definitions.html), pero ten en cuenta que"
+" el proyecto está en desarrollo y, por lo tanto, estos enlaces pueden "
+"cambiar con el tiempo."
 
 #: introduction/introduction.md:76
-msgid "You might want to include a [web archive link](http://web.archive.org) such as: [https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html](https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html) to make sure that you don't end up with broken links everywhere!"
+msgid ""
+"You might want to include a [web archive link](http://web.archive.org) such "
+"as: [https://web.archive.org/web/20191030093753/https://the-turing-"
+"way.netlify.com/reproducibility/03/definitions.html](https://web.archive.org/web/20191030093753/https"
+"://the-turing-way.netlify.com/reproducibility/03/definitions.html) to make "
+"sure that you don't end up with broken links everywhere!"
 msgstr ""
+"Es posible que desees incluir un [enlace de archivo web] "
+"(http://web.archive.org) como: "
+"[https://web.archive.org/web/20191030093753/https://the-turing-"
+"way.netlify.com/reproducibility/03/definitions.html](https://web.archive.org/web/20191030093753/https"
+"://the-turing-way.netlify.com/reproducibility/03/definitions.html) para "
+"asegurarte de no terminar con enlaces rotos en todas partes."
 
 #: introduction/introduction.md:78
-msgid "We really appreciate any references that you make to _The Turing Way_ project in your and we hope it is useful."
+msgid ""
+"We really appreciate any references that you make to _The Turing Way_ "
+"project in your and we hope it is useful."
 msgstr ""
+"Realmente apreciamos cualquier referencia que hagas al _The Turing Way_ en "
+"tu proyecto y esperamos que sea útil."
 
 #: introduction/introduction.md:79
-msgid "If you have any questions please [get in touch](https://github.com/alan-turing-institute/the-turing-way#get-in-touch)."
+msgid ""
+"If you have any questions please [get in touch](https://github.com/alan-"
+"turing-institute/the-turing-way#get-in-touch)."
 msgstr ""
-
+"Si tienes alguna pregunta, por favor [contáctanos] (https://github.com/alan-"
+"turing-institute/the-turing-way#get-in-touch)."
