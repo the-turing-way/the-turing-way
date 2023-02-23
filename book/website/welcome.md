@@ -92,3 +92,22 @@ You might want to include a [web archive link](http://web.archive.org), such as:
 
 We really appreciate any references that you make to _The Turing Way_ project in your work, and we hope it is useful.
 If you have any questions, please [get in touch](https://github.com/alan-turing-institute/the-turing-way#get-in-touch).
+
+## Testing panels
+
+````{panels}
+![Gif showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table](https://media.giphy.com/media/gKIUisnjpj2PS75nOJ/giphy.gif)
+
+---
+
+![Gif showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table](https://media.giphy.com/media/gKIUisnjpj2PS75nOJ/giphy.gif)
+
+---
+
+![Gif showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table](https://media.giphy.com/media/gKIUisnjpj2PS75nOJ/giphy.gif)
+
+---
+
+![Gif showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table](https://media.giphy.com/media/gKIUisnjpj2PS75nOJ/giphy.gif)
+
+````
