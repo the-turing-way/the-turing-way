@@ -7,19 +7,11 @@ You can use it to change translation language, proofread, add comments for contr
 
 ### Hello Crowdin
 
-<<<<<<< HEAD
 Once you click on any file, you will be directed to the comfortable mode in Crowdin crowdsourcing editor. 
 There are different modes and editors inside Crowdin but we will only go through comfortable mode and proofreader mode in Crowdin crowdsourcing editor.
 You can find more information about Crowdin Editor from the [documentation here](https://support.crowdin.com/enterprise/getting-started-for-translators/).
 
 The comfortable model is divided into four sections:
-=======
-Once you click on any file, you will be directed to the comfortable mode in Crowdin crowdsourcing editor.
-There are different modes and editors inside Crowdin but we will only go through comfortable mode and proofreader mode in Crowdin crowdsourcing editor.
-You can find more information about Crowdin Editor from the [documentation here](https://support.crowdin.com/enterprise/getting-started-for-translators/).
-
-The comfortable mode is divided into four sections:
->>>>>>> 85d5e6153aefe29281d08b04d5a255e210dd8808
 1. **Left Sidebar:** It contains all strings in the file that you will translate.
 2. **Middle-top area:** The main working area where you edit/upvote the translations.
 3. **Middle-bottom area:** This section contains suggestions from Translation Memory, Machine Translation (MT) suggestions, and translations by other project participants
@@ -34,11 +26,7 @@ alt: The crowdin editor with four sections labelled from number 1-4.
 ---
 ```  
 
-<<<<<<< HEAD
 As shown in the image below, the Middle-top area (3) is the main working area with the source string on the top, and the section where you can type in translations below. 
-=======
-As shown in the image below, the Middle-top area (3) is the main working area with the source string on the top, and the section where you can type in translations below.
->>>>>>> 85d5e6153aefe29281d08b04d5a255e210dd8808
 Crowdin will show you suggestions for translation carried out using three different engines (Google Translate, Crowdin Translate, DeepL), which will show you several possible translations that you can further edit.
 
 ```{admonition} Add Translation Engine
@@ -60,7 +48,6 @@ Crowdin editor won't only show you suggestions of a translation made by the tran
 This avoids duplication of effort.
 If you would like to re-use our translation memory (TM) in your own open-source projects, feel free to contact our Translation and Localisation leads.  
 
-<<<<<<< HEAD
 ```{figure} ../../figures/Translation_Memory.gif
 ---
 name: Translation_Memory
@@ -68,10 +55,6 @@ width: 90%
 alt: Translation_Memory showing suggesting a translation for a project which was carried out in Transifex.
 ---
 ```  
-
-```{important}
-We can re-use translation memory (TM) from projects translated inside and outside Crowdin (e.g. TransLocalize, Crowdin, Transifex) or even that were translated manually from Google docs. 
-=======
 
 ```{important}
 We can re-use translation memory (TM) from projects translated inside and outside Crowdin (e.g. TransLocalize, Crowdin, Transifex) or even that were translated manually from Google docs.
@@ -135,7 +118,6 @@ alt: The proofreading mode in Crowdin editor where you can click in the tick to 
 ---
 ```  
 
-<<<<<<< HEAD
 When you are proofreading, pay extra attention to punctuation. 
 You can either choose one of these or edit directly in each string's field. 
 When you reach a satisfactory translation, click on Save.
@@ -148,18 +130,6 @@ You can also use `@` and the username to direct your message to a specific perso
 You can point out if the current translation is wrong or if the translation lacks contextual information.
 The issues are reported to the project managers to correct mistakes or add context and resolve the issues.
 
-In the next chapter, we'll go through how you can manage the project and manage your translation team.
-=======
-When you are proofreading, pay extra attention to punctuation.
-You can either choose one of these or edit directly in each string's field.
-When you reach a satisfactory translation, click on Save.
-
-
-
-You can discuss the meaning of the source string or report the issues regarding the source strings in the comment tab (**Right sidebar**).
-You can also use `@` and the username to direct your message to a specific person.
-You can point out if the current translation is wrong or if the translation lacks contextual information.
-The issues are reported to the project managers to correct mistakes or add context and resolve the issues.
-
 The terms that were added to the project glossary will be underlined in the source string. You can check additional explanation added to the term for the accurate translation. A project manager can also give you permission to add terms to the project glossary.
->>>>>>> 85d5e6153aefe29281d08b04d5a255e210dd8808
+
+In the next chapter, we'll go through how you can manage the project and manage your translation team.
