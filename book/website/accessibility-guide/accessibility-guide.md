@@ -1,5 +1,5 @@
 (ag)=
-# Accessibility Guide
+# Guide for Accessibility
 
 ***This guide brings a definition of accessibility and lists considerations, tools, and best practices to improve the participation of disabled people in open research.***
 
@@ -22,6 +22,6 @@ This guide will focus in accessibility related to disabled people but will point
 (ag-accessibility-guide-motivation)=
 ## Motivation and Background
 
-Although disabled people aren't very visible in data science, they are part of the community who experience barriers to full participation. Removing these barriers both improves the participation of these members and attracts new members to the field.
+Although disabled people are not very visible in data science, they are part of the community who experience barriers to full participation. Removing these barriers both improves the participation of these members and attracts new members to the field.
 
 

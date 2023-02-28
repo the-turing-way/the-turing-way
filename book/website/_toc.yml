@@ -554,11 +554,10 @@ parts:
                 file: collaboration/shared-ownership/shared-ownership-challenges
               - title: Nudging for a Better Default
                 file: collaboration/shared-ownership/shared-ownership-defaults
-                
+
       # ===== Guide for Accessibility in Data Science ===========================
-      
       - file: accessibility-guide/accessibility-guide
-      
+
       # ===== Guide for Ethical Research ========================================
 
       - file: ethical-research/ethical-research
