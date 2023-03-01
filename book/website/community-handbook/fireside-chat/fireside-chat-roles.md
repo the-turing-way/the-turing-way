@@ -57,11 +57,11 @@ Facilitators are invited based on their experience on the topic and they also re
 * They will have access to the internal planning documents where they can find all information they need, as well as have opportunities to give feedback by directly collaborating on the Google document.
 * They should check what in addition to questions posed to them, questions they would like to respond to as a follow-up discussion.
 * Join Zoom at least 5-10 minutes before the event to test their system (microphone, camera, internet, and access to document used for the session)
-* It is important that all speakers get the same ‘stage time’ -- so please take this space to share your thoughts if you are generally not the one speaking out, and if you generally tend to speak more, please intentionally create space for others to speak.
+* It is important that all speakers get the same ‘stage time’. (If you are the speaker -- please take this space to share your thoughts if you are generally not the one speaking out, and if you generally tend to speak more, please intentionally create space for others to speak).
 * We suggest not engaging in the Zoom chat to avoid getting distracted. The co-hosts will keep track of questions being asked there and share on the Etherpad, as well as pose to the panel if time allows.
 * If we can’t cover all the audience questions, we encourage speakers to take 5 minutes after the event to respond on Etherpad.
-* We will upload the video on YouTube, so if there are any parts of the discussion you would rather not have shared there, please let *The Turing Way* team know.
-* If you have any written scripts that you prepared for this panel (such as for the opening and closing statements), please share them with *The Turing Way* team to help with their video transcription review work.
+* We will upload the video on YouTube, so if there are any parts of the discussion speakers would rather not have shared there, they should let *The Turing Way* team know.
+* If the speakers have any written scripts while preparing for this panel (such as for the opening and closing statements), we request them to share those with *The Turing Way* team to help with their video transcription review work.
 
 (ch-fireside-chat-roles-team)=
 ### *The Turing Way* Team - Supports the Event
