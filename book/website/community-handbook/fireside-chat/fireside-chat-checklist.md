@@ -35,7 +35,7 @@
 - Let participants in right on time
 - Welcome them and share Etherpad
 - Remind them that the call will be recorded and that participants can use chat (but may not have the chance to speak during the 60 minutes live)
-- start recording and enable transcription
+- Start recording (on Zoom Cloud) and enable transcription
 - At 5 minutes past, as people join, the person designated to welcome them will introduce the Turing Way, CoC, and Etherpad information and Present the topic
 - Hosts then introduce themselves and post the opening questions allowing all speakers including the co-host to share their position on the topic in 2 minutes
 - As planned in the agenda, hosts ask the question posed to the specific speaker, follow up response from the other speaker is invited
