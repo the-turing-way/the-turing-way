@@ -64,7 +64,7 @@ Facilitators are invited based on their experience on the topic and they also re
 * If you have any written scripts that you prepared for this panel (such as for the opening and closing statements), please share them with *The Turing Way* team to help with their video transcription review work.
 
 (ch-fireside-chat-roles-team)=
-### *The Turing Way* Team - Support the Event
+### *The Turing Way* Team - Supports the Event
 
 * Invite the co-hosts at least 6 weeks in advance and set up an initial planning discussion with them. This planning discussion allows co-hosts to explore the topics they want to speak about and the possible set of speakers they would like to invite from their network.
 * Following this discussion, *The Turing Way* team will suggest a few titles for the event on Slack and invite discussion to finalise the speakers to be invited.
@@ -84,7 +84,7 @@ Fireside Chats follow this rough agenda:
 * The co-hosts will introduce the topic and the panel. The invited co-host will also introduce their organisation/community as co-organisers.
 * Each speaker will give a 2-minute pitch covering their interests, experiences, concerns and insights related to the event's topic.
 * Session hosts will state the question and invite responses from 1-2 speakers (the questions can be agreed upon in advanced) - there might be follow-up question based on the response that we may not have discussed in advance
-* Chairs will make sure that all speakers have had the chance to speak (by responding to different questions) and express their thoughts or share resources from their work.
+* Hosts will make sure that all speakers have had the chance to speak (by responding to different questions) and express their thoughts or share resources from their work.
 * If time permits, we will take questions from the audience and speakers will be invited to address them. We will however invite attendees to use Zoom chat and Etherpad notes to share their thoughts.
 * The session will conclude with a final 1-minute pitch as the take-home message by each speaker.
 
