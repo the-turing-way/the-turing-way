@@ -41,7 +41,7 @@
 - As planned in the agenda, hosts ask the question posed to the specific speaker, follow up response from the other speaker is invited
 - Speakers will make sure that everyone on the panel has had an equal chance to discuss and share their opinions
 - Any question from the chat is copied over the Etherpad, in the last 10 minutes publically posed question can be asked
-- The recorded session finish with 30 second closing argument
+- The recorded session finishes with 30 second closing arguments from each speaker and host
 - After the 60 min recording, all participants are reminded of the next stage of unrecorded discussion informally with the speakers 
 - Hosts close the call in maximum of 30 minutes after the session
 
