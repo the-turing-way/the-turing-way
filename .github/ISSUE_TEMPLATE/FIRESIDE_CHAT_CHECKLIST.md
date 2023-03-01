@@ -1,5 +1,5 @@
 ---
-name: "\u1F525 Fireside Chat Checklist"
+name: "\U0001F525 Fireside Chat Checklist"
 about: Fireside Chat Planning Checklist
 title:
 labels:
@@ -63,5 +63,5 @@ Register here to attend: [add registration page link].
 - [ ] Send a thank you email to the Eventbrite participants sharing the video and inviting any ideas and suggestions for improvement via a standard feedback form
 - [ ] Update the book chapter and templates if needed
 - [ ] Update the video link here and update the section for the upcoming Fireside chat
-- [ ] Add speakers to this GitHub repo using all contribution bot for presentation
-- [ ] Close this PR as complete
+- [ ] Add speakers to this GitHub repo using 'all-contributions' bot for presentation
+- [ ] Close the planning issue as complete
