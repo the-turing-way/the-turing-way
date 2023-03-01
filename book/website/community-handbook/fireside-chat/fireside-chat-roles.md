@@ -5,11 +5,11 @@
 (ch-fireside-chat-roles-chair)=
 ## Chair - Opens the Session
 
-One of The Turing Way team members will open the panel, welcoming the audience, introducing The Turing Way and the Fireside Chat, and setting the norm (CoC, Etherpad, chat, question process). They’ll thank the co-hosts and pass the ‘mic’ to them. 
+One of *The Turing Way* team members will open the panel, welcoming the audience, introducing *The Turing Way* and the Fireside Chat, and setting the norm (CoC, Etherpad, chat, question process). They’ll thank the co-hosts and pass the ‘mic’ to them. 
 Here is a [suggested script](https://docs.google.com/document/d/1U41vfHQ0Ks0HfgE8mreaXhrRsfviKBr9Cr3V4DJ644c/edit). 
 Norm setting here means, making sure that the opening script includes these details:
 
-* We have CoC that applies to the Fireside chat. Contact: theturingway@gmail.com, or individually write to Anne or Malvika.
+* We have CoC that applies to the Fireside chat. Contact: theturingway@gmail.com, or individually write to *The Turing Way* team.
 * We co-design the session with the co-hosts -- they are also the speaker in the session and we don’t have the moderator vs speaker differentiation.
 * We try to bring different views, perspectives and backgrounds through the speakers. We very much welcome suggestions and nominations for speakers.
 * We use Etherpad to share the format, invite everyone to share their notes and resources and take them back with them after the event.
@@ -19,12 +19,12 @@ Norm setting here means, making sure that the opening script includes these deta
 (ch-fireside-chat-roles-hosts)=
 ## Co-hosts - Facilitate the Session
 
-Co-hosts are invited to co-design the event with one of The Turing Way team members. They enable a discussion that does not look for answers or solutions but creates shared opportunities for members from different communities to explore a topic or challenge from their contexts. If there are solutions available, that is great! But that is not the goal. The hope is that these discussions will stimulate ideas for collaboration beyond the fireside chats.
+Co-hosts are invited to co-design the event with one of *The Turing Way* team members. They enable a discussion that does not look for answers or solutions but creates shared opportunities for members from different communities to explore a topic or challenge from their contexts. If there are solutions available, that is great! But that is not the goal. The hope is that these discussions will stimulate ideas for collaboration beyond the fireside chats.
 **We have 2 hosts for each session to allow hosts to also address questions, as well as share tasks such as coordinating with the speakers or monitoring questions.**
 
-* During the event, they will help each other keep track of time, and bring back discussions in the direction that they planned for if the discussion deviates. Support each other in taking audience questions. If due to a technical glitch, one of the hosts/speakers drops, they can continue with the planned agenda by themselves, or ask Anne or Malvika to step in to help as needed.
+* During the event, they will help each other keep track of time, and bring back discussions in the direction that they planned for if the discussion deviates. Support each other in taking audience questions. If due to a technical glitch, one of the hosts/speakers drops, they can continue with the planned agenda by themselves, or ask *The Turing Way* team to step in to help as needed.
 * They get to set the tone and direction of the event and suggest/curate speakers for the panel. The suggested number of the complete panel is 5-6. Please consider diverse perspectives and experiences as well as geographical diversity to make sure we have a balanced discussion.
-* Responsibilities of co-hosts: Supported by Anne and Malvika where needed
+* Responsibilities of co-hosts: Supported by *The Turing Way* team where needed
 * Co-hosts will represent their organisation/community at this event - and can choose to include their logo in the event’s promotional materials.
 * Share a short blurb about their organisation and a logo to be included on the Eventbrite page.
 * Decide on the title - this will allow us to put together an Eventbrite page. 
@@ -58,19 +58,19 @@ Facilitators are invited based on their experience on the topic and they also re
 * It is important that all speakers get the same ‘stage time’ -- so please take this space to share your thoughts if you are generally not the one speaking out, and if you generally tend to speak more, please intentionally create space for others to speak.
 * We suggest not engaging in the Zoom chat to avoid getting distracted. The co-hosts will keep track of questions being asked there and share on the Etherpad, as well as pose to the panel if time allows.
 * If we can’t cover all the audience questions, we encourage speakers to take 5 minutes after the event to respond on Etherpad.
-* We will upload the video on YouTube, so if there are any parts of the discussion you would rather not have shared there, please let The Turing Way team know.
-* If you have any written scripts that you prepared for this panel (such as for the opening and closing statements), please share them with The Turing Way team to help with their video transcription review work.
+* We will upload the video on YouTube, so if there are any parts of the discussion you would rather not have shared there, please let *The Turing Way* team know.
+* If you have any written scripts that you prepared for this panel (such as for the opening and closing statements), please share them with *The Turing Way* team to help with their video transcription review work.
 
 (ch-fireside-chat-roles-team)=
-### The Turing Way Team - Support the Event
+### *The Turing Way* Team - Support the Event
 
 * Invite the co-hosts at least 6 weeks in advance and set up an initial planning discussion with them. This planning discussion allows co-hosts to explore the topics they want to speak about and the possible set of speakers they would like to invite from their network.
-* Following this discussion, The Turing Way team will suggest a few titles for the event on Slack and invite discussion to finalise the speakers to be invited.
-* Once speakers and titles are finalised, they will make sure that there is someone (co-hosts or from The Turing Way Team) delegated to contact the speaker using the email draft.
+* Following this discussion, *The Turing Way* team will suggest a few titles for the event on Slack and invite discussion to finalise the speakers to be invited.
+* Once speakers and titles are finalised, they will make sure that there is someone (co-hosts or from *The Turing Way* Team) delegated to contact the speaker using the email draft.
 * They will help set up the Eventbrite, Etherpad, Zoom and Flyer for online sharing -- inviting feedback and edits from the co-hosts and speakers. If a speaker hasn’t shared their bio and image, they will follow up.
 * They will share the speaker release form via email before the event.
 * They will upload the video on YouTube:
-  * The Turing Way team will invite speakers to help review the uploaded transcription for correctness.
+  * *The Turing Way* team will invite speakers to help review the uploaded transcription for correctness.
 * They will send a “thank you email” to all the attendees via Eventbrite sharing the link to the YouTube video.
 * They will thank the speakers, and make sure that the signed speaker’s release form has been obtained. 
 
