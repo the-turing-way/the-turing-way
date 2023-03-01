@@ -40,7 +40,7 @@ Co-hosts are invited to co-design the event with one of The Turing Way team memb
 * Finalise a question for the closing statement (30-60 seconds take away from each speaker)
 
 (ch-fireside-chat-roles-speakers)=
-## Speakers 
+## Speakers - Guide the Discussion
 
 We host 5-6 speakers in the panel, which includes the facilitators.
 It is important to note that fireside Chats don't have the traditional role of facilitators versus speakers.
@@ -60,7 +60,7 @@ Facilitators are invited based on their experience on the topic and they also re
 * If you have any written scripts that you prepared for this panel (such as for the opening and closing statements), please share them with The Turing Way team to help with their video transcription review work.
 
 (ch-fireside-chat-roles-team)=
-### The Turing Way team
+### The Turing Way Team - Support the Event
 
 * Invite the co-hosts at least 6 weeks in advance and set up an initial planning discussion with them. This planning discussion allows co-hosts to explore the topics they want to speak about and the possible set of speakers they would like to invite from their network.
 * Following this discussion, The Turing Way team will suggest a few titles for the event on Slack and invite discussion to finalise the speakers to be invited.
@@ -73,7 +73,7 @@ Facilitators are invited based on their experience on the topic and they also re
 * They will thank the speakers, and make sure that the signed speaker’s release form has been obtained. 
 
 (ch-fireside-chat-roles-format)=
-## Event format
+## Event Agenda
 
 Fireside Chats follow this rough agenda:
 
