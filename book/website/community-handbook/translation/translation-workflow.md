@@ -118,7 +118,7 @@ alt: Checking consistency in Crowdin by hovering over the source words underline
 ---
 ```  
 
-In each co-working or external session, prioritise those chapters that are outdated or close to completion. Check out our [starting guidlines](ch-translation-getting-started) for a list of the priority list.
+In each co-working or external session, prioritise those chapters that are outdated or close to completion. Check out our [guidlines](ch-translation-getting-started) for a list of the priority list.
 
 ### After translation
 
