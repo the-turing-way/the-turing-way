@@ -5,7 +5,9 @@
 (ch-fireside-chat-roles-chair)=
 ## Chair - Opens the Session
 
-One of The Turing Way team members will open the panel, welcoming the audience, introducing The Turing Way and the Fireside Chat, and setting the norm (CoC, Etherpad, chat, question process). They’ll thank the co-hosts and pass the ‘mic’ to them. Here is a suggested script. Norm setting here means, making sure that the opening script includes these details:
+One of The Turing Way team members will open the panel, welcoming the audience, introducing The Turing Way and the Fireside Chat, and setting the norm (CoC, Etherpad, chat, question process). They’ll thank the co-hosts and pass the ‘mic’ to them. 
+Here is a [suggested script](https://docs.google.com/document/d/1U41vfHQ0Ks0HfgE8mreaXhrRsfviKBr9Cr3V4DJ644c/edit). 
+Norm setting here means, making sure that the opening script includes these details:
 
 * We have CoC that applies to the Fireside chat. Contact: theturingway@gmail.com, or individually write to Anne or Malvika.
 * We co-design the session with the co-hosts -- they are also the speaker in the session and we don’t have the moderator vs speaker differentiation.
@@ -27,7 +29,7 @@ Co-hosts are invited to co-design the event with one of The Turing Way team memb
 * Share a short blurb about their organisation and a logo to be included on the Eventbrite page.
 * Decide on the title - this will allow us to put together an Eventbrite page. 
 * Decide on the speakers - they are invited and details are added on the Eventbrite page and other promotional material.
-* If they already know the suggested speaker, we will appreciate it if they can send the invitation and get confirmation using this email draft.
+* If they already know the suggested speaker, we will appreciate it if they can send the invitation and get confirmation using an [email draft](https://docs.google.com/document/d/12VoVexsXXBx25SnAU4mayPw5un-v936g9Ux61DLjGzo/edit).
 * Host 30 mins calls with the speakers before the event to identify what they would like to speak about.
 * Frame questions based on their discussions with the speakers, and invite speakers to help finalise the question (using Slack and the planning document).
 * Considering the flow of the discussion, decide on the order of the questions that will be asked.
