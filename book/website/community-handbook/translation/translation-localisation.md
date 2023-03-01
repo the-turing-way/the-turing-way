@@ -9,10 +9,10 @@ The World Wide Web Consortium ([W3C](https://www.w3.org/)) defines international
 > "The design and development of a product, application or document content that enables easy localisation for target audiences that vary in culture, region, or language"
 
 
- **A Translation Management System (TMS)** manages the localisation process from the beginning of a translation process until the finished product.
+ A **Translation Management System (TMS)** manages the localisation process from the beginning of a translation process until the finished product.
 TMS are widely used in Open source projects because they offer many advantages such as workflow, automation, transparency, and fast project delivery.
 
-Localisation involves more than just translation, which only transforms text. Localisation addresses other factors such as text length and cultural references.  **A Translation Management System (TMS)** manages the localisation process from the beginning of a translation process until the finished product. They are widely used in Open source projects because they offer many advantages such as workflow, automation, transparency, and fast project delivery.
+Localisation involves more than just translation, which only transforms text. Localisation addresses other factors such as text length and cultural references.  A **Translation Management System (TMS)** manages the localisation process from the beginning of a translation process until the finished product. They are widely used in Open source projects because they offer many advantages such as workflow, automation, transparency, and fast project delivery.
 
 ```{figure} ../../figures/Translation_management_systems.jpg
 ---
