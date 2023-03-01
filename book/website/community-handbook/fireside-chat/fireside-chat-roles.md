@@ -47,7 +47,7 @@ If there are solutions available, that is great! But that is not the goal. The h
 ## Speakers - Guide the Discussion
 
 We host 5-6 speakers in the panel, which includes the facilitators.
-It is important to note that fireside Chats don't have the traditional role of facilitators versus speakers.
+It is important to note that Fireside Chats don't have the traditional role of facilitators versus speakers.
 Facilitators are invited based on their experience on the topic and they also respond to questions, adding to the discussion from their experiences.
 
 * Once agreed upon, all speakers will be invited to join a private Slack channel to participate in asynchronous planning discussions.
