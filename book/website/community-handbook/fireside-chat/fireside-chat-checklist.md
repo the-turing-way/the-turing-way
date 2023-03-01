@@ -31,7 +31,7 @@
 ## During the session
 
 - Open the Zoom call 15 minutes in advance (keep the waiting room of Zoom enabled)
-- test if speakers' microphone, camera and internet work alright - help troubleshoot any tech challenge
+- Test if speakers' microphone, camera and internet work alright - help troubleshoot any tech challenge
 - Let participants in right on time
 - Welcome them and share Etherpad
 - Remind them that the call will be recorded and that participants can use chat (but may not have the chance to speak during the 60 minutes live)
