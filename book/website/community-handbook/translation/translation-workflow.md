@@ -21,7 +21,7 @@ Building a new translation project is an exciting way to contribute toward a glo
 Before starting a translation project, it remains relevant to reflect upon the following questions:
 - What are your expectations with translated content?
 - What are the expectations of the target audience?
-- If you are using right-to-left (RTL) languages (e.g. Arabic, Urdu), does your localisation platform support RTL languages?
+- If you are using right-to-left (RTL) languages (for example, Arabic, Urdu), does your localisation platform support RTL languages?
 - Do you see the target language in the localisation platform?
     - Check out the existing languages being translated.
     - Reach out to existing translation teams and ask them for good practices.
@@ -53,7 +53,7 @@ Document the translation guidelines for your selected language to be discussed a
 They may be useful for future teams translating other projects.
 
 We suggest having roles of project members, which include manager, translator, and proofreader.
-- **Manager** – has similar rights as a project owner except for the ability to manage some of the owner's Resources (e.g., configuring MT engines, advanced workflows, etc.) and delete projects.
+- **Manager** – has similar rights as a project owner except for the ability to manage some of the owner's Resources (for instance,, configuring MT engines, advanced workflows, etc.) and delete projects.
 - **Proofreader** – can translate and approve strings.
 Unlike the manager, the Proofreader doesn't have access to project settings.
 - **Translator** – can translate strings and vote for translations added by other members.
@@ -104,7 +104,7 @@ For instance, [Transifex](https://www.transifex.com/) includes the target text b
 The translation process can be assisted by machine translation.
 Localisation platforms such as [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE) are integrated with well-known machine translation providers, including Google and Microsoft.
 In contrast, for [Transifex](https://www.transifex.com/), this process is performed outside the platform.
-Different languages may work better with a specific machine translation engine. For example, Spanish works very well with  [DeepL](https://www.deepl.com/) as a translation tool but other languages (e.g. Arabic) don't. DeepL tool recommends a series of synonyms when you click on the translated text. This can be useful, especially with long texts.
+Different languages may work better with a specific machine translation engine. For example, Spanish works very well with  [DeepL](https://www.deepl.com/) as a translation tool but other languages (for example, Arabic) don't. DeepL tool recommends a series of synonyms when you click on the translated text. This can be useful, especially with long texts.
 
 ##### Read the translation guidelines
 
