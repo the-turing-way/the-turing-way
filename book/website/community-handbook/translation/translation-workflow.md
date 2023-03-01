@@ -53,7 +53,7 @@ Document the translation guidelines for your selected language to be discussed a
 They may be useful for future teams translating other projects.
 
 We suggest having roles of project members, which include manager, translator, and proofreader.
-- **Manager** – has similar rights as a project owner except for the ability to manage some of the owner's Resources (for instance,, configuring MT engines, advanced workflows, etc.) and delete projects.
+- **Manager** – has similar rights as a project owner except for the ability to manage some of the owner's Resources (for instance,, configuring MT engines, advanced workflows, and more.) and delete projects.
 - **Proofreader** – can translate and approve strings.
 Unlike the manager, the Proofreader doesn't have access to project settings.
 - **Translator** – can translate strings and vote for translations added by other members.
