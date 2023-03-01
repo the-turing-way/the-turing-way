@@ -710,6 +710,11 @@ parts:
                 file: community-handbook/coworking/coworking-organisation
           - title: Fireside Chat Series
             file: community-handbook/fireside-chat
+            sections:
+              - title: Fireside Chat Planning Checklist
+                file: community-handbook/fireside-chat-checklist
+              - title: Fireside Chat Roles and Responsibilities
+                file: community-handbook/fireside-chat-roles
           - title: Giving a Turing Way Talk
             file: community-handbook/presenting
           - title: Template Collection
