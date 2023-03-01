@@ -62,7 +62,7 @@ The schedule is decided based on the availability of individuals invited as spea
 
 ### Resources
 
-- **GitHub checklist for organisers and speakers**: we have a checklist for planning the Fireside Chat as an [issue template](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose). For each iteration, event hosts will create a new issue to allow other speaker to follow along the planning process.
+- **GitHub checklist for organisers and speakers**: we have a checklist for planning the Fireside Chat as an [issue template](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose). For each iteration, event hosts will create a new issue to allow other participants to follow along the planning process.
 - **Eventbrite pages**: Registrations are handled via [*The Turing Way* Eventbrite page](https://www.eventbrite.co.uk/o/the-turing-way-18600928389). The event is free to attend and recordings are shared with all registered participants after the event.
 - **Zoom**: We host Fireside events online using [Zoom](https://zoom.us/) (with live transcription), however, the platform for the participants can change based on the preference of the majority of speakers.
 - **Online promotion**: Announcements are shared on *The Turing Way* [Twitter](https://twitter.com/turingway), [Slack workspace](https://tinyurl.com/jointuringwayslack) and [monthly newsletters](https://tinyletter.com/TuringWay), which are then cross-posted by other communities in their network.
