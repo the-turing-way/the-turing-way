@@ -11,7 +11,7 @@ Once you click on any file, you will be directed to the comfortable mode in Crow
 There are different modes and editors inside Crowdin but we will only go through comfortable mode and proofreader mode in Crowdin crowdsourcing editor.
 You can find more information about Crowdin Editor from the [documentation here](https://support.crowdin.com/enterprise/getting-started-for-translators/).
 
-The comfortable model is divided into four sections:
+The comfortable mode is divided into four sections:
 1. **Left Sidebar:** It contains all strings in the file that you will translate.
 2. **Middle-top area:** The main working area where you edit/upvote the translations.
 3. **Middle-bottom area:** This section contains suggestions from Translation Memory, Machine Translation (MT) suggestions, and translations by other project participants
