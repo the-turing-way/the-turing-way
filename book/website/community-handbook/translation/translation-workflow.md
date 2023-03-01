@@ -63,10 +63,6 @@ The Turing Way project is linked with the translation memory of a previous versi
 
 It is key to set translation norms. These norms will guide newcomers on how to translate and review in the translation platform. For instance, we strongly suggest setting a [glossary] through the localisation platform.
 
-#### Create a dedicated Slack channel
-
-We recommend you create a dedicated Slack channel for the language you are translating within the [_The Turing Way_ slack](theturingway.slack.com). This space will allow you to bring chat with interested parties in your own language.
-
 ```{figure} ../../figures/translation-memory.jpeg
 ---
 name: translation-memory
