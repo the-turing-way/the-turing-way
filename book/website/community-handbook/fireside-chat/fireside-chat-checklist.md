@@ -9,7 +9,7 @@
 - Identify an overarching theme that we share with a different community -- Fireside Chat is intended to promote cross-community collaboration
 - Reach out to a community representative who can co-facilitate the event with a core team member in The Turing Way
 - Set up an internal shared document for discussions and notes (The Turing Way shared google doc, see [this template](https://docs.google.com/document/d/1X_NfRkkH6p47yRgpd6xlw8yrvo6jIsbF_mV0BinjcaQ/edit?usp=sharing))
-- discuss what the co-hosts might want to highlight at this fireside chat (note: these discussions don't necessarily need to identify a solution - but recognised shared themes, challenges, and spaces some research communities share)
+- Discuss what the co-hosts might want to highlight at this Fireside Chat (note: these discussions don't necessarily need to identify a solution - but should recognise shared themes, challenges, and spaces for research communities
 - Identify speakers from the community and invite them
 - Create a private Slack Channels with all speakers and hosts and discuss some overarching topics they are interested in sharing
 - Ask for the bio and image of speakers, and their permission to record the session
