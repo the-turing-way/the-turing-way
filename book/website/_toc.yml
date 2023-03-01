@@ -735,7 +735,7 @@ parts:
               - title: Getting started
                 file: community-handbook/translation/translation-getting-started
               - title: Hellow Crowdin
-                file: community-handbook/translation/translation-hellow-crowdin
+                file: community-handbook/translation/translation-hello-crowdin
               - title: Localisation
                 file: community-handbook/translation/translation-localisation
               - title: Workflow
