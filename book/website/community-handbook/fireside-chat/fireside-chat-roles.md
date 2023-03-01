@@ -1,0 +1,86 @@
+(ch-fireside-chat-roles)=
+
+# Fireside Chat Roles and Responsibilities
+
+(ch-fireside-chat-roles-chair)=
+## Chair - Opens the Session
+
+One of The Turing Way team members will open the panel, welcoming the audience, introducing The Turing Way and the Fireside Chat, and setting the norm (CoC, Etherpad, chat, question process). They’ll thank the co-hosts and pass the ‘mic’ to them. Here is a suggested script. Norm setting here means, making sure that the opening script includes these details:
+
+* We have CoC that applies to the Fireside chat. Contact: theturingway@gmail.com, or individually write to Anne or Malvika.
+* We co-design the session with the co-hosts -- they are also the speaker in the session and we don’t have the moderator vs speaker differentiation.
+* We try to bring different views, perspectives and backgrounds through the speakers. We very much welcome suggestions and nominations for speakers.
+* We use Etherpad to share the format, invite everyone to share their notes and resources and take them back with them after the event.
+* Engaging via chat is optional, if you get distracted by the chats, please disable the notification.
+* You can share your question via Etherpad or Zoom chat. Co-hosts will try to address them in the last part of the discussion. If we don’t have the time to address them live, we will make sure to respond via Etherpad.
+
+(ch-fireside-chat-roles-hosts)=
+## Co-hosts - Facilitate the Session
+
+Co-hosts are invited to co-design the event with one of The Turing Way team members. They enable a discussion that does not look for answers or solutions but creates shared opportunities for members from different communities to explore a topic or challenge from their contexts. If there are solutions available, that is great! But that is not the goal. The hope is that these discussions will stimulate ideas for collaboration beyond the fireside chats.
+**We have 2 hosts for each session to allow hosts to also address questions, as well as share tasks such as coordinating with the speakers or monitoring questions.**
+
+* During the event, they will help each other keep track of time, and bring back discussions in the direction that they planned for if the discussion deviates. Support each other in taking audience questions. If due to a technical glitch, one of the hosts/speakers drops, they can continue with the planned agenda by themselves, or ask Anne or Malvika to step in to help as needed.
+* They get to set the tone and direction of the event and suggest/curate speakers for the panel. The suggested number of the complete panel is 5-6. Please consider diverse perspectives and experiences as well as geographical diversity to make sure we have a balanced discussion.
+* Responsibilities of co-hosts: Supported by Anne and Malvika where needed
+* Co-hosts will represent their organisation/community at this event - and can choose to include their logo in the event’s promotional materials.
+* Share a short blurb about their organisation and a logo to be included on the Eventbrite page.
+* Decide on the title - this will allow us to put together an Eventbrite page. 
+* Decide on the speakers - they are invited and details are added on the Eventbrite page and other promotional material.
+* If they already know the suggested speaker, we will appreciate it if they can send the invitation and get confirmation using this email draft.
+* Host 30 mins calls with the speakers before the event to identify what they would like to speak about.
+* Frame questions based on their discussions with the speakers, and invite speakers to help finalise the question (using Slack and the planning document).
+* Considering the flow of the discussion, decide on the order of the questions that will be asked.
+  * Each co-host should have equal opportunity to get the ‘stage time’
+  * They should agree on which questions they will pose to guide the discussion.
+  * They should pose 1 question to each speaker who takes a lead on responding. 1-2 follow-up responses can be invited from other speakers.
+    * Make sure that the speakers know in what order they will be speaking, and what questions will be asked.
+    * Coordinate via the Slack channel, and share any notes about the format via the shared document.
+  * They should pose at least one question to each other - either directly, or as a follow-up to the main question.
+* Finalise a question for the closing statement (30-60 seconds take away from each speaker)
+
+(ch-fireside-chat-roles-speakers)=
+## Speakers 
+
+We host 5-6 speakers in the panel, which includes the facilitators.
+It is important to note that fireside Chats don't have the traditional role of facilitators versus speakers.
+Facilitators are invited based on their experience on the topic and they also respond to questions, adding to the discussion from their experiences.
+
+* Once agreed upon, all speakers will be invited to join a private Slack channel to participate in asynchronous planning discussions.
+* They will supply a short bio and image to be shared on the Eventbrite page.
+* They will be invited to attend a call (30) minutes before the event to discuss the topic and help the co-hosts identify what specific area of the topic they will talk about.
+* They will be coordinating with the co-host to finalise the specific question posed to them, and if they would like, they can suggest another question for the other panellists.
+* They will have access to the internal planning documents where they can find all information they need, as well as have opportunities to give feedback by directly collaborating on the Google document.
+* They should check what in addition to questions posed to them, questions they would like to respond to as a follow-up discussion.
+* Join Zoom at least 5-10 minutes before the event to test their system (microphone, camera, internet, and access to document used for the session)
+* It is important that all speakers get the same ‘stage time’ -- so please take this space to share your thoughts if you are generally not the one speaking out, and if you generally tend to speak more, please intentionally create space for others to speak.
+* We suggest not engaging in the Zoom chat to avoid getting distracted. The co-hosts will keep track of questions being asked there and share on the Etherpad, as well as pose to the panel if time allows.
+* If we can’t cover all the audience questions, we encourage speakers to take 5 minutes after the event to respond on Etherpad.
+* We will upload the video on YouTube, so if there are any parts of the discussion you would rather not have shared there, please let The Turing Way team know.
+* If you have any written scripts that you prepared for this panel (such as for the opening and closing statements), please share them with The Turing Way team to help with their video transcription review work.
+
+(ch-fireside-chat-roles-team)=
+### The Turing Way team
+
+* Invite the co-hosts at least 6 weeks in advance and set up an initial planning discussion with them. This planning discussion allows co-hosts to explore the topics they want to speak about and the possible set of speakers they would like to invite from their network.
+* Following this discussion, The Turing Way team will suggest a few titles for the event on Slack and invite discussion to finalise the speakers to be invited.
+* Once speakers and titles are finalised, they will make sure that there is someone (co-hosts or from The Turing Way Team) delegated to contact the speaker using the email draft.
+* They will help set up the Eventbrite, Etherpad, Zoom and Flyer for online sharing -- inviting feedback and edits from the co-hosts and speakers. If a speaker hasn’t shared their bio and image, they will follow up.
+* They will share the speaker release form via email before the event.
+* They will upload the video on YouTube:
+  * The Turing Way team will invite speakers to help review the uploaded transcription for correctness.
+* They will send a “thank you email” to all the attendees via Eventbrite sharing the link to the YouTube video.
+* They will thank the speakers, and make sure that the signed speaker’s release form has been obtained. 
+
+(ch-fireside-chat-roles-format)=
+## Event format
+
+Fireside Chats follow this rough agenda:
+
+* The co-hosts will introduce the topic and the panel. The invited co-host will also introduce their organisation/community as co-organisers.
+* Each speaker will give a 2-minute pitch covering their interests, experiences, concerns and insights related to the event's topic.
+* Session hosts will state the question and invite responses from 1-2 speakers (the questions can be agreed upon in advanced) - there might be follow-up question based on the response that we may not have discussed in advance
+* Chairs will make sure that all speakers have had the chance to speak (by responding to different questions) and express their thoughts or share resources from their work.
+* If time permits, we will take questions from the audience and speakers will be invited to address them. We will however invite attendees to use Zoom chat and Etherpad notes to share their thoughts.
+* The session will conclude with a final 1-minute pitch as the take-home message by each speaker.
+
