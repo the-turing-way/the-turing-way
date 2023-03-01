@@ -9,7 +9,7 @@ One of *The Turing Way* team members will open the panel, welcoming the audience
 Here is a [suggested script](https://docs.google.com/document/d/1U41vfHQ0Ks0HfgE8mreaXhrRsfviKBr9Cr3V4DJ644c/edit). 
 Norm setting here means, making sure that the opening script includes these details:
 
-* We have CoC that applies to the Fireside chat. Contact: theturingway@gmail.com, or individually write to *The Turing Way* team.
+* We have CoC that applies to the Fireside Chat. Contact: theturingway@gmail.com, or individually write to *The Turing Way* team.
 * We co-design the session with the co-hosts -- they are also the speaker in the session and we don’t have the moderator vs speaker differentiation.
 * We try to bring different views, perspectives and backgrounds through the speakers. We very much welcome suggestions and nominations for speakers.
 * We use Etherpad to share the format, invite everyone to share their notes and resources and take them back with them after the event.
