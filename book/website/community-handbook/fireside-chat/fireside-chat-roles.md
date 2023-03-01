@@ -19,7 +19,9 @@ Norm setting here means, making sure that the opening script includes these deta
 (ch-fireside-chat-roles-hosts)=
 ## Co-hosts - Facilitate the Session
 
-Co-hosts are invited to co-design the event with one of *The Turing Way* team members. They enable a discussion that does not look for answers or solutions but creates shared opportunities for members from different communities to explore a topic or challenge from their contexts. If there are solutions available, that is great! But that is not the goal. The hope is that these discussions will stimulate ideas for collaboration beyond the fireside chats.
+Co-hosts are invited to co-design the event with one of *The Turing Way* team members. 
+They enable a discussion that does not look for answers or solutions but creates shared opportunities for members from different communities to explore a topic or challenge from their contexts. 
+If there are solutions available, that is great! But that is not the goal. The hope is that these discussions will stimulate ideas for collaboration beyond the fireside chats.
 **We have 2 hosts for each session to allow hosts to also address questions, as well as share tasks such as coordinating with the speakers or monitoring questions.**
 
 * During the event, they will help each other keep track of time, and bring back discussions in the direction that they planned for if the discussion deviates. Support each other in taking audience questions. If due to a technical glitch, one of the hosts/speakers drops, they can continue with the planned agenda by themselves, or ask *The Turing Way* team to step in to help as needed.
