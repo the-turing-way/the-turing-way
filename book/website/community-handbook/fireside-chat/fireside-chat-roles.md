@@ -72,7 +72,7 @@ Facilitators are invited based on their experience on the topic and they also re
 * They will send a “thank you email” to all the attendees via Eventbrite sharing the link to the YouTube video.
 * They will thank the speakers, and make sure that the signed speaker’s release form has been obtained. 
 
-(ch-fireside-chat-roles-format)=
+(ch-fireside-chat-roles-agenda)=
 ## Event Agenda
 
 Fireside Chats follow this rough agenda:
