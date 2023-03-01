@@ -52,7 +52,7 @@ If you would like to re-use our translation memory (TM) in your own open-source 
 ---
 name: Translation_Memory
 width: 90%
-alt: Translation_Memory showing suggesting a translation for a project which was carried out in Transifex.
+alt: Translation_Memory suggesting a translation for a project which was carried out in Transifex.
 ---
 ```  
 
