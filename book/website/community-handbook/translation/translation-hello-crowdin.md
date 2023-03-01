@@ -31,7 +31,7 @@ Crowdin will show you suggestions for translation carried out using three differ
 
 ```{admonition} Add Translation Engine
 :class: tip
-If your language of interest works better with different engines (e.g. Microsoft Translator, Yandex.Translate, Amazon Translate), please request it and we will do our best to integrate it.  
+If your language of interest works better with different engines (for example, Microsoft Translator, Yandex.Translate, Amazon Translate), please request it and we will do our best to integrate it.  
 ```
 Strings may have the following statuses:
 
@@ -57,7 +57,7 @@ alt: Translation_Memory suggesting a translation for a project which was carried
 ```  
 
 ```{important}
-We can re-use translation memory (TM) from projects translated inside and outside Crowdin (e.g. TransLocalize, Crowdin, Transifex) or even that were translated manually from Google docs.
+We can re-use translation memory (TM) from projects translated inside and outside Crowdin (for example, TransLocalize, Crowdin, Transifex) or even that were translated manually from Google docs.
 
 Get in touch if you want to share the translation memory (TM) of a previously translated project.
 ```
