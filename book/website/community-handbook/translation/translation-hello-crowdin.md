@@ -58,7 +58,7 @@ alt: Translation_Memory suggesting a translation for a project which was carried
 
 ```{important}
 We can re-use translation memory (TM) from projects translated inside and outside Crowdin (e.g. TransLocalize, Crowdin, Transifex) or even that were translated manually from Google docs.
->>>>>>> 85d5e6153aefe29281d08b04d5a255e210dd8808
+
 Get in touch if you want to share the translation memory (TM) of a previously translated project.
 ```
 
