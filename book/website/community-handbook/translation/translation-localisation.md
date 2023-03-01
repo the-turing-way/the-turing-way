@@ -5,7 +5,7 @@
 
 Localisation (l10n) and internationalisation (i18n) are important aspects in the design of any open-source project or documents.
 Internationalisation allows open-source project to support and satisfy the needs of multiple locales, thus “enabling” localisation, which is the adaptation of it to meet the language, cultural of a specific target locale.
-The World Wide Web Consortium (W3C) defines internationalisation (i18n) as:
+The World Wide Web Consortium ([W3C](https://www.w3.org/)) defines internationalisation (i18n) as:
 > "The design and development of a product, application or document content that enables easy localisation for target audiences that vary in culture, region, or language"
 
 
