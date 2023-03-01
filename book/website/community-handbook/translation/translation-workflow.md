@@ -128,7 +128,7 @@ As the Turing Way content grows, the translated content does too. We strongly en
 * Improve the translation
 * Update glossaries
 
-If you have any recommendations for improving the translation guidelines or setting up a language-specific rules, contact [the translation and localisation team](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md).
+If you have any recommendations for improving the translation guidelines or setting up language-specific rules, contact [the translation and localisation team](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md).
 We are very eager to improve the workflow and make the _The Turing Way_ a global project accessible to the wider community.
 
 [^1]: This image and description are borrowed directly from [Crowdin docs](https://support.crowdin.com/translation-consistency/).
