@@ -12,20 +12,6 @@ assignees: ''
 Register here to attend: [add registration page link].
 
 ## Before the Event -- at least 6-8 weeks in advance
----
-name: "\u1F525 Fireside Chat Checklist"
-about: Fireside Chat Planning Checklist
-title:
-labels:
-assignees: ''
-
----
-
-**The upcoming Fireside chat is on Date - Month - Year**
-
-Register here to attend: [add registration page link].
-
-## Before the Event -- at least 6-8 weeks in advance
 
 - [ ] Create a planning issue on GitHub using the [issue template - Fireside Chat Checklist](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose)
 - [ ] A Turing Way team member (Community Manager or Research Project Manager) will create a Zoom link with a waiting room and live transcription enabled. They will also open the call on the day of the event, and give 'co-host rights' to all facilitators to allow them to manage Zoom participants and chats.
