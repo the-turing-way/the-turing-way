@@ -16,7 +16,7 @@ Though scheduled for 2 hours, we understand that for many interested participant
 
 If the current schedule of the online Collaboration Cafe is not suitable for your time zone, you are welcome to host a separate collaboration cafe for your community/time zone.
 Please open a new issue (see [this example](https://github.com/alan-turing-institute/the-turing-way/issues/684)) or reach out to _The Turing Way_ team members for details.
-We are also currently developing a guide for hosting these calls ([issue #925](https://github.com/alan-turing-institute/the-turing-way/issues/925)).
+Continue reading for information on hosting these calls.
 
 ### Resources used for the call
 
