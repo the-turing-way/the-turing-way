@@ -50,7 +50,7 @@ If you would like to preview a version of the book from a certain branch (perhap
    ```
 Follow the link as before and you will see changes specific to that branch rendered.
 
-## Why did we recommend using miniconda?
+## Why did we recommend using (mini)conda?
 - Running the `juypter-book` command to build the Turing Way book relies on having a python installation on your machine. As with any other programming language such as R or Julia, any given python installation might look different from another due to the packages or libraries that come with the installation. 
 - In particular, some packages depend on the presence of specific versions of other packages to function, and so to ensure your local build works smoothly you will want to minimize as much mismatched dependencies as possible.
 - But this can be difficult! Even with an organized, concerted effort, package management for programming languages naturally throws up dependency issues. Python packages, for reasons not discussed here, tend to suffer from dependency issues a bit more than other languages (note that all languages do!) and one guaranteed way to come across such an issue by trying to maintain all of your python projects using just one, large set of packages, each at a specific version. You simply cant cater to the needs of all package dependencies this way. https://xkcd.com/1987/   
