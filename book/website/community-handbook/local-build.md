@@ -9,6 +9,10 @@ This is useful because it allows you to preview any changes you have made on you
 You can then decide if you are happy with the result and push your changes to the remote branch thus helping to keep Pull Request conversations and commit histories a bit cleaner.
 
 ## Step-by-step guide
+
+We will be using the command line throughout this guide.
+You will need to locate your "terminal" or "prompt" application on your machine.
+
 1. Install miniconda by following the instructions for your Operating System (Windows, MacOS, Linux) at this link: https://conda.io/projects/conda/en/latest/user-guide/install/index.html#regular-installation
 2. Run `conda init` in your terminal. You should see `(base)` in your prompt indicating that conda was successfully installed and you are now in it's base environment.
 3. Create a new environment and install a modern version of python into it
