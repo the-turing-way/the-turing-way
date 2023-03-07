@@ -1,4 +1,3 @@
-
 (ch-translation-workflow)=
 
 # Workflow for translation within TTW
