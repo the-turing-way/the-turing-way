@@ -1,6 +1,6 @@
 (ch-translation-getting-started)=
 
-### Getting Started in Translating _The Turing Way_
+# Getting Started in Translating _The Turing Way_
 
 Our current Translation Management System is Crowdin.
 Crowdin is integrated to a GitHub fork of The Turing Way in [a temporary GitHub organisation](https://github.com/TWTranslation).
@@ -20,7 +20,7 @@ All translations are stored in a fork for the Turing Way repository inside [TWTr
 This fork is updated automatically and any new content is added to Crowdin automatically.
 New translated and approved files will generate a PR and be added to the repository as shown in the figure above.
 
-#### Join the Translation Team in Crowdin
+## Join the Translation Team in Crowdin
 
 - **Create an account in Crowdin** through [this link](https://accounts.crowdin.com/register?domain=turingway&continue=%2Fturing-way).
 

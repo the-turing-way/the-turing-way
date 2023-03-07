@@ -1,7 +1,7 @@
 
 (ch-translation-workflow)=
 
-## Workflow for translation within TTW
+# Workflow for translation within TTW
 
 
 By translation workflow, we do not refer only to the phases that contributors should follow during the translation process.
@@ -15,7 +15,7 @@ Let's jump in each of them!
 3. During translation
 4. After translation
 
-### Before translation
+## Before translation
 
 Building a new translation project is an exciting way to contribute toward a global _The Turing Way_.
 Before starting a translation project, it remains relevant to reflect upon the following questions:
@@ -26,18 +26,18 @@ Before starting a translation project, it remains relevant to reflect upon the f
     - Check out the existing languages being translated.
     - Reach out to existing translation teams and ask them for good practices.
 
-### Starting a new language translation
+## Starting a new language translation
 
 When starting a new language translation, there are several aspects to consider in terms of the workflow and translation guidelines.
 
-##### Current workflow
+### Current workflow
 
 The current workflow for all languages is using Crowdin from [a fork](https://github.com/TWTranslation/the-turing-way) that is temporarily located under [a GitHub organisation](https://github.com/TWTranslation) specifically created to host translated versions of _The Turing Way_.
 This fork is kept updated with the original repository automatically, and Crowdin performs automatic machine translations that need review and approval before being accepted as definitive versions.
 The deployment of these translated versions is work in progress, and some parts of this workflow may change in the future, but for now, feel free to contact anyone on the `#translation` channel of the _The Turing Way_ Slack.
 
 
-##### Define translation guidelines
+### Define translation guidelines
 
 It is key to set translation norms for each language.
 These norms will guide newcomers on how to translate and review translations.
@@ -75,7 +75,7 @@ DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 ```  
 
 
-#### Create a dedicated Slack channel and co-working calls
+## Create a dedicated Slack channel and co-working calls
 
 We recommend creating a dedicated Slack channel for the language you are translating within the [_The Turing Way_ slack](theturingway.slack.com).
 This space will allow you to chat with interested parties in your own language.
@@ -87,26 +87,26 @@ You can also work on the translation in the co-working calls of The Turing Way p
 You can find this activity in [_The Turing Way_ calendar](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ).
 Please note that these calls are in English but we are happy to facilitate other co-working calls in different languages.
 
-#### Asynchronous translation
+## Asynchronous translation
 
 Everyone interested in participating in a translation effort should be able to work asynchronously, have this in mind when writing the translation norms and any other documentation for your language.
 We have set up a public page for _The Turing Way_ in [Crowdin](https://turingway.crowdin.com/turing-way) with a README file summarising some of the translation guidelines.
 
-### During translation
+# During translation
 
-#### Before you start translating
+## Before you start translating
 
 Localisation platforms integrate different tools and formats for assisting the translation process.
 For instance, [Transifex](https://www.transifex.com/) includes the target text blocks to be translated on the left and a translation box on the right. You can select with the cursor which block to translate. We recommend that you look at a translated chapter or section before you start translating to familiarise yourself with the process and the translation style.
 
-##### Machine translation / Translation tools
+### Machine translation / Translation tools
 
 The translation process can be assisted by machine translation.
 Localisation platforms such as [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE) are integrated with well-known machine translation providers, including Google and Microsoft.
 In contrast, for [Transifex](https://www.transifex.com/), this process is performed outside the platform.
 Different languages may work better with a specific machine translation engine. For example, Spanish works very well with  [DeepL](https://www.deepl.com/) as a translation tool but other languages (for example, Arabic) don't. DeepL tool recommends a series of synonyms when you click on the translated text. This can be useful, especially with long texts.
 
-##### Read the translation guidelines
+### Read the translation guidelines
 
 These guidelines are essential to harmonise and standardise translations. Make sure you read them before you start translating for the first time. Translation consistency is crucial and can be made easier when TMS is used. As soon as you start translating your project, machine learning algorithms engage, and the system shows previous translations for the source words and how often they were used in the project[^1]. For example, in Crowdin, you can hover over the source words underlined with the light dashed line to see the previous translations formed by the translation consistency feature. You can also search earlier translations for specific source words using the Search TM tab.
 
@@ -120,7 +120,7 @@ alt: Checking consistency in Crowdin by hovering over the source words underline
 
 In each co-working or external session, prioritise those chapters that are outdated or close to completion. Check out our [guidlines](ch-translation-getting-started) for a list of the priority list.
 
-### After translation
+# After translation
 
 As the Turing Way content grows, the translated content does too. We strongly encourage monitoring the new content. While updates of the translated content might change according to the availability of resources, it is a good practice to:
 

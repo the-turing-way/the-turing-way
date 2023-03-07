@@ -1,6 +1,6 @@
 (ch-translation-localisation)=
 
-## Localisation Platforms and Translation
+# Localisation Platforms and Translation
 
 
 Localisation (l10n) and internationalisation (i18n) are important aspects in the design of any open-source project or documents.
@@ -25,7 +25,7 @@ Used under a CC-BY 4.0 licence.
 DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 ```
 
-### Examples for Localisation Platforms
+## Examples for Localisation Platforms
 
 Many open source projects such as [GitLab](https://crowdin.com/project/gitlab-ee), [FreeCAD](https://crowdin.com/project/freecad), [electron](https://crowdin.com/project/electron), [PostgreSQL](https://crowdin.com/project/postgresql), [OBS Studio](https://crowdin.com/project/obs-studio) are localised using different Translation Management System (TMS).
 

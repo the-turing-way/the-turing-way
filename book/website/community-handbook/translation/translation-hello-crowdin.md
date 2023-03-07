@@ -1,11 +1,11 @@
 (ch-translation-hello-crowdin)=
 
-## Crowdin 101
+# Crowdin 101
 
 Crowdin editor is your friend.
 You can use it to change translation language, proofread, add comments for contributors, contact the managers, vote translations, view suggestions for translation from translation memory or find Machine Translation from Google, Crowdin, DeepL, and others.
 
-### Hello Crowdin
+## Hello Crowdin
 
 Once you click on any file, you will be directed to the comfortable mode in Crowdin crowdsourcing editor. 
 There are different modes and editors inside Crowdin but we will only go through comfortable mode and proofreader mode in Crowdin crowdsourcing editor.
