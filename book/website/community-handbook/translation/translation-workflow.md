@@ -1,8 +1,6 @@
 (ch-translation-workflow)=
 
 # Workflow for translation within TTW
-
-
 By translation workflow, we do not refer only to the phases that contributors should follow during the translation process.
 Instead, we refer to a set of key and optional aspects that can lead to a successful and sustainable translation project.
 The translation process can be grouped into four distinct stages.
