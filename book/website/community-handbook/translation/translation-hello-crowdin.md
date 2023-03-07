@@ -123,7 +123,7 @@ You can either choose one of these or edit directly in each string's field.
 When you reach a satisfactory translation, click on Save.
 
 
-### Adding Comments
+## Adding Comments
 
 You can discuss the meaning of the source string or report the issues regarding the source strings in the comment tab (**Right sidebar**). 
 You can also use `@` and the username to direct your message to a specific person. 
