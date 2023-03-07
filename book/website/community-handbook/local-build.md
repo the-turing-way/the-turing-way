@@ -16,7 +16,7 @@ You can then decide if you are happy with the result and push your changes to th
    conda create --name the-turing-way python=3.10
    ```
 4. Activate the environment with `conda activate the-turing-way`. Any commands we run with Python or pip from now on will use the versions of Python and pip installed into _this_ conda env, not any others.
-5. Clone the repo: `git clone https://github.com/alan-turing-institute/the-turing-way`
+5. Clone the repository from GitHub to your machine using the command `git clone https://github.com/alan-turing-institute/the-turing-way`
 6. Change into the repo: `cd the-turing-way`
 7. Change into the correct folder `cd book/website`
 8. Install the dependencies _into your conda environment_
