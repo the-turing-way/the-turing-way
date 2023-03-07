@@ -62,7 +62,7 @@ We can re-use translation memory (TM) from projects translated inside and outsid
 Get in touch if you want to share the translation memory (TM) of a previously translated project.
 ```
 
-#### Adding glossary
+## Adding glossary
 
 In order to translate the project's terminology properly and consistently, we keep them in a Glossary.
 In the Glossary, you can create, store, and manage all the project terminology in one place.
@@ -92,7 +92,7 @@ The terms that were added to the project glossary will be underlined in the sour
 You can check additional explanations added to the term for an accurate translation.
 
 
-#### Proofreading
+## Proofreading
 
 Proofreading mode will show you the original string, the current translation and some options proposed by Crowdin.
 When a string matches past translations, these past translations will appear among the options.
@@ -123,7 +123,7 @@ You can either choose one of these or edit directly in each string's field.
 When you reach a satisfactory translation, click on Save.
 
 
-#### Adding Comments
+### Adding Comments
 
 You can discuss the meaning of the source string or report the issues regarding the source strings in the comment tab (**Right sidebar**). 
 You can also use `@` and the username to direct your message to a specific person. 
