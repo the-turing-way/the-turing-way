@@ -57,7 +57,7 @@ Follow the link as before and you will see changes specific to that branch rende
 ![](https://imgs.xkcd.com/comics/python_environment.png)
 - Anaconda is package manager that can install Python, R and Julia distributions. *Miniconda* is just a smaller package manager that by default installs a smaller set of packages which means in terms of dependencies there are less things to go wrong.
 - The most relevant feature for us here is *virtual environments*. conda can easily create language agnostic virtual environments where each contains their own separate set of packages that don't interfere with each other. In fact it is best practice to create a virtual environment for each project you work on.
-- We *could* just use python's built in virtualenv tool to do this, but it doesn't extend into a multi-language env like anaconda and miniconda offer.
+- We *could* just use python's built in virtualenv tool to do this, but it doesn't extend into a multi-language env like conda offers.
 - By creating a separate environment on your local machine just for The Turing Way, this is a great way to minimize those dependency issues. 
 - conda also has community run channels that dedicate their time to providing you with a certain pool of packages that may be relevant to a specific project, for example the [Bioconda channel](https://github.com/bioconda/bioconda-recipes) that contains packages relevant for bioinformatics projects, and packages not necessarily found on the default channel. Other popular channels are:
     - r
