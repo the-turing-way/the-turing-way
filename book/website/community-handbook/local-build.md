@@ -47,7 +47,7 @@ You will need to locate your "terminal" or "prompt" application on your machine.
     ```
     
 ### Build the book while working on a Pull Request
-If you would like to preview a version of the book from a certain branch (perhaps to render the book while working on a PR) then simply switch to the required branch and rebuild the book as in step 10:
+If you would like to preview a version of the book from a certain branch (perhaps to render the book while working on a PR) then simply switch to the required branch and rebuild the book as in step 9:
    ```
    git checkout mybranch
    jupyter-book build .
