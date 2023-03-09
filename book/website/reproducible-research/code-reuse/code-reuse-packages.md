@@ -2,7 +2,8 @@
 # Overview of writing packages
 
 This section provides an overview of why software packages and libraries are useful for code reproducibility and why you might want to write your own packages. 
-Packages are written to a high standard of reproducible code (see the guidelines for [publishing an R package on CRAN](https://cran.r-project.org/web/packages/policies.html)), where recommendations such as those found in the {ref}`rr-code-reuse-details` and {ref}`rr-code-reuse-recommendations` sections are commonly employed to ensure reproducibility of the functionality of the package.
+Packages are written to a high standard of reproducible code (see the guidelines for [publishing an R package on CRAN](https://cran.r-project.org/web/packages/policies.html)).
+The {ref}`rr-code-reuse-details` and {ref}`rr-code-reuse-recommendations` sections of the Turing Way also provide useful guidelines that are applicable to writing software packages.
 
 # What are packages?
 A package -- sometimes called a library or a module -- is a basic unit of reproducible, and often efficient, code that aims to create or extend the functionality of a programming language.
