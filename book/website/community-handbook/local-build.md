@@ -71,8 +71,9 @@ In fact it is best practice to create a virtual environment for each project you
 We *could* just use python's built in virtualenv tool to do this, but it doesn't extend into a multi-language env like conda offers.
 
 By creating a separate environment on your local machine just for The Turing Way, this is a great way to minimize those dependency issues. 
-conda also has community run channels that dedicate their time to providing you with a certain pool of packages that may be relevant to a specific project, for example the [Bioconda channel](https://github.com/bioconda/bioconda-recipes) that contains packages relevant for bioinformatics projects, and packages not necessarily found on the default channel. Other popular channels are:
-    - r
-    - conda-forge
-    - tensorflow-macos
+conda also has community run channels that dedicate their time to providing you with a certain pool of packages that may be relevant to a specific project, for example the [Bioconda channel](https://github.com/bioconda/bioconda-recipes) that contains packages relevant for bioinformatics projects, and packages not necessarily found on the default channel. Other example channels are:
+- r
+- conda-forge
+- tensorflow-macos
+
 These carefully curated channels also help to ensure your virtual environments contain the most appropriate packages for each of your projects. 
