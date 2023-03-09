@@ -93,6 +93,7 @@ Fireside Chats follow this rough agenda:
 * Each speaker will give a 2-minute pitch covering their interests, experiences, concerns and insights related to the event's topic.
 * Session hosts will state the question and invite responses from 1-2 speakers (the questions can be agreed upon in advanced) - there might be follow-up question based on the response that we may not have discussed in advance
 * Hosts will make sure that all speakers have had the chance to speak (by responding to different questions) and express their thoughts or share resources from their work.
-* If time permits, we will take questions from the audience and speakers will be invited to address them. We will however invite attendees to use Zoom chat and Etherpad notes to share their thoughts.
+* If time permits, co-hosts will take questions from the audience and speakers will be invited to address them.
+They will also invite attendees to use Zoom chat and Etherpad notes to share their thoughts.
 * The session will conclude with a final 1-minute pitch as the take-home message by each speaker.
 
