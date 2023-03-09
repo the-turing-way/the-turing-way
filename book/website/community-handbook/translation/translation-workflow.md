@@ -74,9 +74,9 @@ DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 
 ## Create a dedicated Slack channel and co-working calls
 
-We recommend creating a dedicated Slack channel for the language you are translating within the [_The Turing Way_ slack](theturingway.slack.com).
+We recommend creating a dedicated Slack channel for the language you are translating within the [_The Turing Way_ slack](https://theturingway.slack.com).
 This space will allow you to chat with interested parties in your own language.
-You can join the `#translation` channel in [_The Turing Way_ slack](theturingway.slack.com).
+You can join the `#translation` channel in [_The Turing Way_ slack](https://theturingway.slack.com).
 
 We also suggest defining co-working calls to check progress on the translation.
 These sessions should be open to anyone interested in participating.
