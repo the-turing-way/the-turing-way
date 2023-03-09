@@ -47,15 +47,14 @@
 
 ## After the session
 
-- Send a thank you email to the speakers - within 1 day
-- Archive all notes here: https://hackmd.io/@turingway/fireside-chats
-- Download the video from Zoom and edit the live transcription (proofread cc)
+- Send a thank you email to the speakers (within 1 day)
+- Archive session notes by copying them from Etherpad to the internal planning document
+- Download the video from Zoom and edit the live transcription (proofread for accuracy) -- invite volunteer support as needed
 - Upload the video on The Turing Way youtube - label and annotate well, and add the flyer as the video's front page
 - Share the published videos with the speakers
-- Summarise the session to add to The Turing Way -- invite someone from the community who could do that 
+- Summarise the session to add to The Turing Way -- invite someone from the community who could help with that 
 - Promote the video via Slack, Newsletter, Twitter
 - Send a thank you email to the Eventbrite participants sharing the video and inviting any ideas and suggestions for improvement via a standard feedback form
 - Update the book chapter and templates if needed
-- Update the video link here and update the section for the upcoming Fireside chat
-- Add speakers to this GitHub repo using `all-contributions bot` for presentation
+- Add speakers to the contributors table on GitHub repo using `all-contributions bot` for presentation
 - Close the planning issue as complete!
