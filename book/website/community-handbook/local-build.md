@@ -43,7 +43,7 @@ You will need to locate your "terminal" or "prompt" application on your machine.
     You can look at your book by opening this file in a browser:
         _build/html/index.html
     Or paste this line directly into your browser bar:
-        file:///Users/sgibson/source/github/alan-turing-institute/the-turing-way/book/website/_build/html/index.html
+        file:///[...]/alan-turing-institute/the-turing-way/book/website/_build/html/index.html
 
     ===============================================================================
     ```
