@@ -14,19 +14,21 @@ We will be using the command line throughout this guide.
 You will need to locate your "terminal" or "prompt" application on your machine.
 
 1. Install miniconda by following the instructions for your Operating System (Windows, MacOS, Linux) at this link: https://conda.io/projects/conda/en/latest/user-guide/install/index.html#regular-installation
-2. Run `conda init` in your terminal. You should see `(base)` in your prompt indicating that conda was successfully installed and you are now in it's base environment.
-3. Create a new environment and install a modern version of python into it
+2. Open your terminal app and run the `conda init` command in your terminal. You should see `(base)` in your prompt indicating that conda was successfully installed and you are now in it's base environment.
+    - Note that if you are using Windows, you will need to open a program called `Anconda prompt` instead of using `cmd`. 
+3. Create a new environment and install a modern version of python into it:
    ```
    conda create --name the-turing-way python=3.10
    ```
-4. Activate the environment with `conda activate the-turing-way`. Any commands we run with Python or pip from now on will use the versions of Python and pip installed into _this_ conda env, not any others.
-5. Clone the repository from GitHub to your machine using the command `git clone https://github.com/alan-turing-institute/the-turing-way`
+4. Activate the environment with `conda activate the-turing-way`. Any commands we run with Python or pip from now on will use the versions of Python and pip installed into _this_ conda env, not any others
+5. Clone The Turing Way repository from GitHub to your machine using the command `git clone https://github.com/alan-turing-institute/the-turing-way`
 6. Change into the repo: `cd the-turing-way`
-7. Then change into the folder the website is build from using `cd book/website`
-8. Install the dependencies _into your conda environment_
+7. Then change into the sub-directory the website is built from using `cd book/website`
+8. The Turing Way Book is built using multiple python libraries. We can install these dependencies _into your conda environment_ using the following command
    ```
    pip install -r requirements.txt
    ```
+   where the `requirements.txt` file contains a list of python libraries
 9. And now build the book:
    ```
    jupyter-book build .
@@ -55,7 +57,7 @@ If you would like to preview a version of the book from a certain branch (perhap
 Follow the link as before and you will see changes specific to that branch rendered.
 
 ## Why did we recommend using (mini)conda?
-- Running the `juypter-book` command to build the Turing Way book relies on having a python installation on your machine. As with any other programming language such as R or Julia, any given python installation might look different from another due to the packages or libraries that come with the installation. 
+- Running the `jupyter-book` command to build the Turing Way book relies on having a python installation on your machine. As with any other programming language such as R or Julia, any given python installation might look different from another due to the packages or libraries that come with the installation. 
 - In particular, some packages depend on the presence of specific versions of other packages to function, and so to ensure your local build works smoothly you will want to minimize as much mismatched dependencies as possible.
 - But this can be difficult! Even with an organized, concerted effort, package management for programming languages naturally throws up dependency issues. Python packages, for reasons not discussed here, tend to suffer from dependency issues a bit more than other languages (note that all languages do!) and one guaranteed way to come across such an issue by trying to maintain all of your python projects using just one, large set of packages, each at a specific version. You simply cant cater to the needs of all package dependencies this way. https://xkcd.com/1987/   
 ![](https://imgs.xkcd.com/comics/python_environment.png)
