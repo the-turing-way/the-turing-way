@@ -26,7 +26,7 @@ New translated and approved files will generate a PR and be added to the reposit
 
 ```{figure} ../../figures/Create-accunt-Crowdin.gif
 ---
-name: create-account-crowdin
+name: create-account-crowdin_
 width: 90%
 alt: Sign up in crowdin or log in before you start the translation. You can also log in using your GitHub or Google account.
 ---
