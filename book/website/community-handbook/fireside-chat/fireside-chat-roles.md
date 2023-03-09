@@ -66,13 +66,21 @@ Facilitators are invited based on their experience on the topic and they also re
 (ch-fireside-chat-roles-team)=
 ### *The Turing Way* Team - Supports the Event
 
-* Invite the co-hosts at least 6 weeks in advance and set up an initial planning discussion with them. This planning discussion allows co-hosts to explore the topics they want to speak about and the possible set of speakers they would like to invite from their network.
-* Following this discussion, *The Turing Way* team will suggest a few titles for the event on Slack and invite discussion to finalise the speakers to be invited.
-* Once speakers and titles are finalised, they will make sure that there is someone (co-hosts or from *The Turing Way* Team) delegated to contact the speaker using the email draft.
-* They will help set up the Eventbrite, Etherpad, Zoom and Flyer for online sharing -- inviting feedback and edits from the co-hosts and speakers. If a speaker hasn’t shared their bio and image, they will follow up.
-* They will share the speaker release form via email before the event.
+* They will co-host the event with a project/organisation partner, who they will invite at least 6 weeks in advance. 
+* They will invite the co-host to join a private Slack channel and set up the internal planning document to coordinate with them.
+* They will set up an initial planning discussion with them.
+The planning discussion is crucial to explore the topics and themes they want to speak about and the possible set of speakers they would like to invite from their network.
+* Following this discussion, they will propose a few titles for the event inviting suggestions and nominations for the speakers (via Slack).
+* Based on the previous contacts with the proposed speakers, one of the co-hosts or a *Turing Way* team member will email the speaker sharing initial details and the proposed theme. 
+They will make sure that there is someone delegated to contact the speaker using a template email draft. 
+* They will set up planning discussions with the speakers and follow up with them as needed.
+* They will collect bios and images for each speaker, and communicate all details with them as agreed with the co-hosts.
+* They will help set up the Eventbrite, Etherpad, Zoom and Flyer for online sharing -- inviting feedback and edits from the co-hosts and speakers.
+* They will support co-hosts in finalising and communicating the questions and format for the panel.
+* They will send calendar invites for the event with a link for joining the call and share the speaker release form via email before the event.
+* On the day of the event, a team member will open the call, welcome participants and monitor chat and Etherpad.
 * They will upload the video on YouTube:
-  * *The Turing Way* team will invite speakers to help review the uploaded transcription for correctness.
+  * *The Turing Way* team will invite volunteers and/or speakers to help review the uploaded transcription for correctness.
 * They will send a “thank you email” to all the attendees via Eventbrite sharing the link to the YouTube video.
 * They will thank the speakers, and make sure that the signed speaker’s release form has been obtained. 
 
