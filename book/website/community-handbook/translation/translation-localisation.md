@@ -14,7 +14,7 @@ Localisation involves more than just translation, which only transforms text. Lo
 ```{figure} ../../figures/Translation_management_systems.jpg
 ---
 height: 500px
-name: Translation
+name: Translation_
 alt: This illustration shows the features of Translation Management System. It contains Translation Memory, Machine Translation, glossary, QA checks which are easily integrated with GitHub.
 ---
 _The Turing Way_ project illustration by Scriberia.

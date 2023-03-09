@@ -69,7 +69,7 @@ In the Glossary, you can create, store, and manage all the project terminology i
 
 ```{figure} ../../figures/Glossary.png
 ---
-name: Glossary
+name: Glossary_
 width: 90%
 alt: Glossary in Crowdin which is table showing the terms in multiple languages.
 ---
