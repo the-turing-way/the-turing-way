@@ -1,5 +1,5 @@
 (ch-local-build)=
-# How to build Jupyter Book locally
+# Build the Turing Way book locally
 
 ## But why build locally?
 It's always handy to be able to preview any changes you have been working on as you go - you can be confident that changes you have made are accurate and as intended. 
@@ -57,16 +57,22 @@ If you would like to preview a version of the book from a certain branch (perhap
 Follow the link as before and you will see changes specific to that branch rendered.
 
 ## Why did we recommend using (mini)conda?
-- Running the `jupyter-book` command to build the Turing Way book relies on having a python installation on your machine. As with any other programming language such as R or Julia, any given python installation might look different from another due to the packages or libraries that come with the installation. 
-- In particular, some packages depend on the presence of specific versions of other packages to function, and so to ensure your local build works smoothly you will want to minimize as much mismatched dependencies as possible.
-- But this can be difficult! Even with an organized, concerted effort, package management for programming languages naturally throws up dependency issues. Python packages, for reasons not discussed here, tend to suffer from dependency issues a bit more than other languages (note that all languages do!) and one guaranteed way to come across such an issue by trying to maintain all of your python projects using just one, large set of packages, each at a specific version. You simply cant cater to the needs of all package dependencies this way. https://xkcd.com/1987/   
+In the step-by-step guide above, we made use of the `jupyter-book` command to build the Turing Way book. For this command to work as intended you will need a python installation on your machine. 
+As with any other programming language such as R or Julia, any given python installation might look different from another due to the different packages or libraries that come with the installation.
+Over time you will likely install even more packages, or update packages to newer versions. Some packages also depend on the presence of specific versions of other packages to function, and so to ensure your local build works smoothly you will want to minimize as much mismatched dependencies as possible.
+
+But this can be difficult! Even with an organized, concerted effort, package management for programming languages naturally throws up dependency issues. Python packages, for reasons not discussed here, tend to suffer from dependency issues a bit more than other languages (note that all languages do!) and one guaranteed way to come across such an issue by trying to maintain all of your python projects using just one, large set of packages, each at a specific version. You simply cant cater to the needs of all package dependencies this way. https://xkcd.com/1987/   
 ![](https://imgs.xkcd.com/comics/python_environment.png)
-- The most relevant feature for us here is *virtual environments*. conda can easily create language agnostic virtual environments where each contains their own separate set of packages that don't interfere with each other. In fact it is best practice to create a virtual environment for each project you work on.
-- We *could* just use python's built in virtualenv tool to do this, but it doesn't extend into a multi-language env like conda offers.
-- By creating a separate environment on your local machine just for The Turing Way, this is a great way to minimize those dependency issues. 
-- conda also has community run channels that dedicate their time to providing you with a certain pool of packages that may be relevant to a specific project, for example the [Bioconda channel](https://github.com/bioconda/bioconda-recipes) that contains packages relevant for bioinformatics projects, and packages not necessarily found on the default channel. Other popular channels are:
+
+The most relevant feature for us here is *virtual environments*. 
+
+conda is a package manager designed to easily create language agnostic virtual environments, where each environment contains their own separate set of packages that don't interfere with each other. 
+In fact it is best practice to create a virtual environment for each project you work on.
+We *could* just use python's built in virtualenv tool to do this, but it doesn't extend into a multi-language env like conda offers.
+
+By creating a separate environment on your local machine just for The Turing Way, this is a great way to minimize those dependency issues. 
+conda also has community run channels that dedicate their time to providing you with a certain pool of packages that may be relevant to a specific project, for example the [Bioconda channel](https://github.com/bioconda/bioconda-recipes) that contains packages relevant for bioinformatics projects, and packages not necessarily found on the default channel. Other popular channels are:
     - r
     - conda-forge
     - tensorflow-macos
-
 These carefully curated channels also help to ensure your virtual environments contain the most appropriate packages for each of your projects. 
