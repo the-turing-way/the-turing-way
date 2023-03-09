@@ -5,7 +5,7 @@
 (ch-fireside-chat-roles-chair)=
 ## Chair - Opens the Session
 
-One of *The Turing Way* team members will open the panel, welcoming the audience, introducing *The Turing Way* and the Fireside Chat, and setting the norm (CoC, Etherpad, chat, question process). They’ll thank the co-hosts and pass the ‘mic’ to them. 
+One of *The Turing Way* team members will open the panel, welcoming the audience, introducing *The Turing Way* and the Fireside Chat, and setting the norm (Code of Conduct [CoC], Etherpad, chat, question process). They’ll thank the co-hosts and pass the ‘mic’ to them. 
 Here is a [suggested script](https://docs.google.com/document/d/1U41vfHQ0Ks0HfgE8mreaXhrRsfviKBr9Cr3V4DJ644c/edit). 
 Norm setting here means, making sure that the opening script includes these details:
 
