@@ -657,6 +657,8 @@ parts:
                 file: community-handbook/consistency/consistency-structure
               - title: Language
                 file: community-handbook/consistency/consistency-language
+          - title: Build the Turing Way Book locally
+            file: community-handbook/local-build
           - title: Contributing and Developing Chapters - Templates and Workflow
             file: community-handbook/contributing
             sections:
