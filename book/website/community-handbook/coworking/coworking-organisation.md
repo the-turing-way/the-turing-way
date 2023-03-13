@@ -61,7 +61,7 @@ Based on the resources available to you, you might have to fine-tune other aspec
 For example:
 - Shared calendar: If there is a calendar that are updated with the coworking calls schedule, people can subscribe to them and indicate their availability.
 - Communication platforms: software like Zoom can allow you to connect with many people at the same time. However, you will need a paid subscription (pro account) to control who joins your call (by activating waiting room to avoid Zoom bombing), manage breakout rooms (to allow multiple small groups and discussions) or host longer calls (>40 minutes).
-- Chat system: If you have a group Slack or Gitter channel, information can be exchanged with everyone, including those who can not join the calls but want to offer suggestions or carry out related tasks asynchronously but in coordination with the group.
+- Chat system: Information can be exchanged via Slack workspace with everyone, including those who can not join the calls but want to offer suggestions or carry out related tasks asynchronously but in coordination with the group.
 This also allows people to keep each other informed of any last-minute changes such as updated links for joining calls, correct notes, or cancellation of calls.
 
 (ch-coworking-organisation-logistics)=
