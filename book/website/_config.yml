@@ -54,7 +54,7 @@ sphinx:
   extra_extensions          :  # A list of extra extensions to load by Sphinx.
   config                    :  # key-value pairs to directly over-ride the Sphinx configuration
     language                : en
-    html_js_files: [ ['https://plausible.io/js/script.js', {'defer': 'defer', 'data-domain': 'https://main--wonderful-cat-db3b05.netlify.app/'}] ]
+    html_js_files: [ ['https://plausible.io/js/script.js', {'defer': 'defer', 'data-domain': 'https://wonderful-cat-db3b05.netlify.app/'}] ]
 
 bibtex_bibfiles:
     - _bibliography/references.bib
