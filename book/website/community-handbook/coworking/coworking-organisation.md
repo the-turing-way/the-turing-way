@@ -103,7 +103,7 @@ In _The Turing Way_ coworking calls, we find it useful to use breakout rooms whe
 * **Check-in**: Begin with a short general check-in with folks (how they are doing).
 * **Managing Breakout/Pomodoro Session**: Ask folks what specific task or group they are working on.
     * Only hosts and co-hosts can make [breakout rooms](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#ch-coworking-collabcafe-breakout) using the instruction listed under [Create breakout rooms](https://support.zoom.us/hc/en-us/articles/206476313-Managing-breakout-rooms).
-    * Use the online/shared timer to set the timer for the first breakout room -- we use the Cuckoo Clock: [](https://cuckoo.team/tw-coworking). Each pomodoro session lasts for 15-20 mins.
+    * Use the online/shared timer to set the timer for the first breakout room -- we use the Cuckoo Clock: [https://cuckoo.team/tw-coworking](https://cuckoo.team/tw-coworking). Each pomodoro session lasts for 15-20 mins.
     * Before opening the Breakout Room, remind attendees of the [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md). Open the breakout room and hit start on the shared timer!
     * 1 min before the Pomodoro session ends, broadcast to everyone that you will be closing rooms - follow instructions for how to [broadcast a message to all breakout rooms](https://support.zoom.us/hc/en-us/articles/8550395207693-Sharing-screen-and-broadcasting-to-breakout-rooms).
 * **Ending Pomodoro**: Close the breakout room at the end of the Pomodoro session and bring people back in the room. Do a quick report out asking folks if there is anything they would like to report on - or if they have any questions that others can help with.
