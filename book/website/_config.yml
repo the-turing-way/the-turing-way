@@ -36,7 +36,7 @@ html:
     hypothesis: true
 
 #######################################################################################
-# Launch button settings
+# Launch button setting(s)
 launch_buttons:
   notebook_interface        : "classic"  # The interface interactive links will activate ["classic", "jupyterlab"]
   binderhub_url             : "https://mybinder.org"  # The URL of the BinderHub (for example, https://mybinder.org)
