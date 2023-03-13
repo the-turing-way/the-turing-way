@@ -15,8 +15,8 @@ fi
 
 # A redirect rule with all the supported properties
 [[redirects]]
-  from = "https://the-turing-way.netlify.app"
-  to = "https://the-turing-way.netlify.app/welcome"
+  from = "https://arron-lacey-the-turing-way.netlify.app"
+  to = "https://arron-lacey-the-turing-way.netlify.appwelcome"
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
