@@ -10,7 +10,7 @@
 # ===== Main Landing Page ========================================
 
 format: jb-book
-root: welcome
+root: index
 parts:
   - chapters:
       # ===== Guide for Reproducible Research ========================================
