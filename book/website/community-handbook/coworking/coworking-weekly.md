@@ -1,15 +1,15 @@
 (ch-coworking-weekly)=
 # Weekly Coworking Calls
 
-_The Turing Way_ team has been hosting shorter coworking calls each week.
+_The Turing Way_ team hosts shorter coworking calls for the core contributors of *The Turing Way*.
 These calls are similar to the Collaboration Cafes, but only 1-hour long.
-Since May 2020, these calls have been taking place multiple days each week at 11:00 GMT/BST.
-It is not hosted on the days when there is a Collaboration Cafe already scheduled.
 
 Like Collaboration Cafes, we host these calls online using [Zoom](https://www.zoom.us/).
 We use the Shut up & Write! method by providing allocated time for two 20-25 minutes long Pomodoro sessions and two short breaks to chat about our work and exchange what we got done.
 
-The primary target of these calls are members who are working on certain issues or PRs in _The Turing Way_ to come along and join other community members in their usual working hours.
+Since May 2020, these calls have been taking place **on Mondays at 11:00 London time**.
+Initially the primary target of these calls are members who work on certain issues or PRs in _The Turing Way_ to come along and join other community members in their usual working hours.
+Since late 2022, these calls have transitioned to create dedicated space for the core contributors (such as Core Team members).
 These calls also provide opportunities to clarify doubts about the project, get PRs reviewed, brainstorm different ideas together, and stay connected with other members in the community.
 
 ## Attending an online coworking call
@@ -49,7 +49,7 @@ We'll run the following schedule during each call:
 In contrast to the Collaboration Cafes, the schedule for these calls seems more intense with less chance for discussion.
 However, since these calls are attended by fewer participants, it provides more opportunities for informal interactions.
 
-### Chairing Coworking Calls
+### Managing Coworking Calls
 
 Please update the document each month using the following steps:
 
@@ -62,6 +62,8 @@ Please update the document each month using the following steps:
 - As the first Pomodoro session ends, close any breakout rooms, ask for feedback, and then restart the second Pomodoro session
 - The call is scheduled for 60 minutes, and hence can accommodate up to 2 Pomodoro sessions
 - Close the call thanking everyone, and arhieve the notes for the next call
+
+For the chairing roles and responsibilities, please refer {ref}`<ch-coworking-organisation-logistics-chair>`.
 
 #### Beginning
 
