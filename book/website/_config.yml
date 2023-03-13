@@ -29,7 +29,7 @@ html:
   use_repository_button     : true  # Whether to add an "Repository" button to pages. If `true`, repository information in repository: must be filled in
   use_issues_button         : true # Whether to add an "Open issue" button to pages. If `true`, repository information in repository: must be filled in
   use_edit_page_button      : true  # Whether to add an "Suggest edit" button to pages. If `true`, repository information in repository: must be filled in
-  baseurl                   : "https://the-turing-way.netlify.com"  # The base URL where your book will be hosted. Used for creating image previews and social links. for example: https://mypage.com/mybook/
+  baseurl                   : "https://arron-lacey-the-turing-way.netlify.com"  # The base URL where your book will be hosted. Used for creating image previews and social links. for example: https://mypage.com/mybook/
   extra_navbar              : Visit our <a href="https://github.com/alan-turing-institute/the-turing-way">GitHub Repository</a>
     <div>This book is powered by <a href="https://jupyterbook.org">Jupyter Book</a></div>
   comments:
@@ -44,7 +44,7 @@ launch_buttons:
   thebelab                  : false  # Add a thebelab button to pages (requires the repository to run on Binder)
 
 repository:
-  url                       : https://github.com/alan-turing-institute/the-turing-way  # The URL to your book's repository
+  url                       : https://github.com/arronlacey/the-turing-way  # The URL to your book's repository
   path_to_book              : "book/website"  # A path to your book's folder, relative to the repository root.
   branch                    : main
 
@@ -54,6 +54,7 @@ sphinx:
   extra_extensions          :  # A list of extra extensions to load by Sphinx.
   config                    :  # key-value pairs to directly over-ride the Sphinx configuration
     language                : en
+    html_js_files: [ ['https://plausible.io/js/script.js', {'defer': 'defer', 'data-domain': 'https://arron-lacey-the-turing-way.netlify.com'}] ]
 
 bibtex_bibfiles:
     - _bibliography/references.bib
