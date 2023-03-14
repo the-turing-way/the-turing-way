@@ -7,7 +7,7 @@
 *Total Contributors:*
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-430-orange.svg)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-431-orange.svg)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 | Information | Links |
@@ -711,10 +711,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/swalkoAI"><img src="https://avatars2.githubusercontent.com/u/55786131?v=4?s=100" width="100px;" alt="swalkoAI"/><br /><sub><b>swalkoAI</b></sub></a><br /><a href="#ideas-swalkoAI" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/takuover"><img src="https://avatars2.githubusercontent.com/u/52206060?v=4?s=100" width="100px;" alt="takuover"/><br /><sub><b>takuover</b></sub></a><br /><a href="#ideas-takuover" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/timothy22000"><img src="https://avatars.githubusercontent.com/u/9934371?v=4?s=100" width="100px;" alt="timothy22000"/><br /><sub><b>timothy22000</b></sub></a><br /><a href="#translation-timothy22000" title="Translation">🌍</a> <a href="#content-timothy22000" title="Content">🖋</a> <a href="#infra-timothy22000" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tpronk"><img src="https://avatars.githubusercontent.com/u/8987504?v=4?s=100" width="100px;" alt="tpronk"/><br /><sub><b>tpronk</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/issues?q=author%3Atpronk" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/tugceoruc"><img src="https://avatars0.githubusercontent.com/u/20405276?v=4?s=100" width="100px;" alt="tugceoruc"/><br /><sub><b>tugceoruc</b></sub></a><br /><a href="#ideas-tugceoruc" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vasilisstav"><img src="https://avatars0.githubusercontent.com/u/55793023?v=4?s=100" width="100px;" alt="vasilisstav"/><br /><sub><b>vasilisstav</b></sub></a><br /><a href="#ideas-vasilisstav" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vasilisstav"><img src="https://avatars0.githubusercontent.com/u/55793023?v=4?s=100" width="100px;" alt="vasilisstav"/><br /><sub><b>vasilisstav</b></sub></a><br /><a href="#ideas-vasilisstav" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vcpope"><img src="https://avatars.githubusercontent.com/u/62377353?v=4?s=100" width="100px;" alt="vcpope"/><br /><sub><b>vcpope</b></sub></a><br /><a href="#talk-vcpope" title="Talks">📢</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vhellon"><img src="https://avatars.githubusercontent.com/u/93144591?v=4?s=100" width="100px;" alt="vhellon"/><br /><sub><b>vhellon</b></sub></a><br /><a href="https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Avhellon" title="Reviewed Pull Requests">👀</a> <a href="#content-vhellon" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/yaseminturkyilmaz"><img src="https://avatars3.githubusercontent.com/u/45484225?v=4?s=100" width="100px;" alt="yaseminturkyilmaz"/><br /><sub><b>yaseminturkyilmaz</b></sub></a><br /><a href="#blog-yaseminturkyilmaz" title="Blogposts">📝</a> <a href="#ideas-yaseminturkyilmaz" title="Ideas, Planning, & Feedback">🤔</a></td>
