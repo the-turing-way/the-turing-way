@@ -4141,6 +4141,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "tpronk",
+      "name": "tpronk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8987504?v=4",
+      "profile": "https://github.com/tpronk",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
