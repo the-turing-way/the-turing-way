@@ -5,7 +5,13 @@
 
 # Do not build deploy previews for branches from all-contributors bot
 [context.deploy-preview]
-	@@ -15,204 +15,8 @@ fi
+  ignore = '''
+if echo $HEAD | grep "^all-contributors"; then
+  return 0
+else
+  return 1
+fi
+'''
 
 # A redirect rule with all the supported properties
 [[redirects]]
