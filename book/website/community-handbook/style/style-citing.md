@@ -14,7 +14,7 @@ There are a number of keywords for different references types in BibTeX.
 Luckily, there are tools to help format references into BibTeX syntax.
 If you know the DOI for your reference, you can use [doi2bib](https://doi2bib.org/) to help populate a good enough BibTeX entry.
 For example, [here](https://doi2bib.org/bib/https://doi.org/10.5281/zenodo.3233853) is a good enough BibTeX entry for The Turing Way handbook itself.
-Another good tool is [Google Scholar](https://scholar.google.com/), where you search for a reference, click on the large double quotes `"`, and then click on "BibTeX" near the bottom.
+Another good tool is [Google Scholar](https://scholar.google.com/), where you search for a reference, click on the large double quotes `"` or activate the pop-up menu labeled "Cite," and then click on "BibTeX" near the bottom.
 
 Examples of listing a BibTeX-formatted reference are shown below.
 

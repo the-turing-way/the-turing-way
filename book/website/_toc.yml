@@ -10,7 +10,7 @@
 # ===== Main Landing Page ========================================
 
 format: jb-book
-root: welcome
+root: index
 parts:
   - chapters:
       # ===== Guide for Reproducible Research ========================================
@@ -657,6 +657,8 @@ parts:
                 file: community-handbook/consistency/consistency-structure
               - title: Language
                 file: community-handbook/consistency/consistency-language
+          - title: Build the Turing Way Book locally
+            file: community-handbook/local-build
           - title: Contributing and Developing Chapters - Templates and Workflow
             file: community-handbook/contributing
             sections:
@@ -710,6 +712,11 @@ parts:
                 file: community-handbook/coworking/coworking-organisation
           - title: Fireside Chat Series
             file: community-handbook/fireside-chat
+            sections:
+              - title: Fireside Chat Planning Checklist
+                file: community-handbook/fireside-chat/fireside-chat-checklist
+              - title: Fireside Chat Roles and Responsibilities
+                file: community-handbook/fireside-chat/fireside-chat-roles
           - title: Giving a Turing Way Talk
             file: community-handbook/presenting
           - title: Template Collection

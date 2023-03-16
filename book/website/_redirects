@@ -2,7 +2,8 @@
 
 https://the-turing-way.netlify.app    https://the-turing-way.netlify.app/index.html    301
 https://the-turing-way.netlify.app/welcome.html    https://the-turing-way.netlify.app/index.html    301
-https://the-turing-way.netlify.app/introduction/introduction.html    https://the-turing-way.netlify.app/welcome    301
+https://the-turing-way.netlify.app/welcome    https://the-turing-way.netlify.app/index.html    301
+https://the-turing-way.netlify.app/introduction/introduction.html    https://the-turing-way.netlify.app/index    301
 /reproducibility/*    /reproducible-research/reproducible-research    301
 /reproducibility/04/resources    /reproducible-research/overview/resources    301
 /open_research/open_research    /reproducible-research/open_research    301
