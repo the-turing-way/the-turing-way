@@ -15,13 +15,6 @@ fi
 
 # A redirect rule with all the supported properties
 [[redirects]]
-  from = "https://the-turing-way.netlify.app"
-  to = "https://the-turing-way.netlify.app/index"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
   from = "https://the-turing-way.netlify.app/introduction/*"
   to = "https://the-turing-way.netlify.app/index"
   # The default HTTP status code is 301, but you can define a different one.
