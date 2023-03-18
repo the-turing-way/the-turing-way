@@ -32,7 +32,7 @@ fi
 
 [[redirects]]
   from = "https://the-turing-way.netlify.app/introduction/*"
-  to = "https://the-turing-way.netlify.app/index"
+  to = "https://the-turing-way.netlify.app/index.html"
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
