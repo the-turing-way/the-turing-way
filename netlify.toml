@@ -30,3 +30,65 @@ fi
   status = 301
   force = true
 
+[[redirects]]
+  from = "https://the-turing-way.netlify.app/introduction/*"
+  to = "https://the-turing-way.netlify.app/index.html"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/reproducible-research"
+  to = "/reproducible-research/reproducible-research"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/communication"
+  to = "/communication/communication"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/collaboration"
+  to = "/collaboration/collaboration"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/project-design"
+  to = "/project-design/project-design"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ethical-research"
+  to = "/ethical-research/ethical-research"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/community-handbook"
+  to = "/community-handbook/community-handbook"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/version_control/*"
+  to = "/reproducible-research/vcs"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/binderhub/*"
+  to = "/reproducible-research/binderhub"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
