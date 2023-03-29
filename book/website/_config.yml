@@ -7,7 +7,7 @@
 # Book settings
 title                       : The Turing Way  # The title of the book. Will be placed in the left navbar.
 author                      : The Turing Way Community  # The author of the book
-copyright                   : "2023"  # Copyright year to be placed in the footer
+copyright                   : "2019-2023"  # Copyright year to be placed in the footer
 logo                        : "./figures/logo-detail-with-text.svg"  # A path to the book logo
 email                       : "theturingway@gmail.com"
 exclude_patterns            : ["LICENSE.md"]  # Patterns to skip when building the book. Can be glob-style (for example "*skip.ipynb")
