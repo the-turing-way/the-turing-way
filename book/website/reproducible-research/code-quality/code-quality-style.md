@@ -10,7 +10,7 @@ Therefore, adhering to a coding style reduces the risk of mistakes and makes it 
 
 For example, [PEP8](https://www.python.org/dev/peps/pep-0008/) is the most widely used Python coding style and [ECMAScript 6](http://es6-features.org/) aka [ES6](http://es6-features.org/) is the scripting-language specification standardized by ECMA International for programming in Javascript.
 
-For commonly used style guides for various programming languages see the [Language Guides](https://guide.esciencecenter.nl/best_practices/language_guides/languages_overview.html).
+For commonly used style guides for various programming languages see the [Language Guides](https://guide.esciencecenter.nl/#/best_practices/language_guides/languages_overview).
 Google also has a [style guide](https://code.google.com/p/google-styleguide/) for many languages that are used in open source projects originating out of Google.
 
 (rr-code-style-and-formatting)=
