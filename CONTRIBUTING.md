@@ -301,10 +301,9 @@ Simply make your edits on their files and open a pull request to their branch!
 
 What happens if the continuous integration (CI) fails (for example, if the pull request notifies you that "Some checks were not successful")?
 The CI could fail for a number of reasons.
-At the bottom of the pull request, where it says whether your build passed or failed, you can click “Details” next to the test, which takes you to the Travis page.
+At the bottom of the pull request, where it says whether your build passed or failed, you can click “Details” next to the test, which takes you to a CI run log site.
 If you have the write access to the repo, you can view the log or rerun the checks by clicking the “Restart build” button in the top right.
-Please note that you need to be logged in to Travis CI with your GitHub account see the “Restart build” button.
-You can learn more about Travis in the [Continuous Integration chapter](https://the-turing-way.netlify.com/continuous_integration/continuous_integration.html) of the book!
+You can learn more about CI in the [Continuous Integration chapter](https://the-turing-way.netlify.com/continuous_integration/continuous_integration.html) of the book!
 
 GitHub has a [nice introduction][github-flow] to the pull request workflow, but please [get in touch](#get-in-touch) if you have any questions :balloon:.
 
