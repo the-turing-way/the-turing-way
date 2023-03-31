@@ -91,17 +91,6 @@ We have set up a public page for _The Turing Way_ in [Crowdin](https://turingway
 
 # During translation
 
-## Before you start translating
-
-Localisation platforms integrate different tools and formats for assisting the translation process.
-For instance, [Transifex](https://www.transifex.com/) includes the target text blocks to be translated on the left and a translation box on the right. You can select with the cursor which block to translate. We recommend that you look at a translated chapter or section before you start translating to familiarise yourself with the process and the translation style.
-
-### Machine translation / Translation tools
-
-The translation process can be assisted by machine translation.
-Localisation platforms such as [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE) are integrated with well-known machine translation providers, including Google and Microsoft.
-In contrast, for [Transifex](https://www.transifex.com/), this process is performed outside the platform.
-Different languages may work better with a specific machine translation engine. For example, Spanish works very well with  [DeepL](https://www.deepl.com/) as a translation tool but other languages (for example, Arabic) don't. DeepL tool recommends a series of synonyms when you click on the translated text. This can be useful, especially with long texts.
 
 ### Read the translation guidelines
 
