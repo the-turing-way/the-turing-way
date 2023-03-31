@@ -44,7 +44,7 @@ Strings may have the following statuses:
 
 An active string is highlighted with the yellow color but you can turn on/off color highlight of strings by clicking on ![icons](../../figures/icons/preview_filter.png) and  - show translation preview using ![icons](../../figures/icons/eye.png).
 
-Crowdin editor won't only show you suggestions of a translation made by the translation engine but also suggestions from translation in different projects that shared their translation memory (TM) with the Turing Way and will be detected if the string is similar by 70%.
+Crowdin editor won't only show you suggestions of a translation made by the translation engine but also suggestions from translation in different projects that shared their translation memory (TM) with _The Turing Way_ and will be detected if the string is similar by 70%.
 This avoids duplication of effort.
 If you would like to re-use our translation memory (TM) in your own open-source projects, feel free to contact our Translation and Localisation leads.  
 
@@ -86,7 +86,7 @@ name: Adding-glossary
 width: 90%
 alt: The Crowdin editor shows the glossary term underlined and you can also add new one by highlighting the term and clicking on add term. A new window will be prompt where you can fill its details.
 ---
-```  
+```
 
 The terms that were added to the project glossary will be underlined in the source string.
 You can check additional explanations added to the term for an accurate translation.
@@ -130,6 +130,8 @@ You can also use `@` and the username to direct your message to a specific perso
 You can point out if the current translation is wrong or if the translation lacks contextual information.
 The issues are reported to the project managers to correct mistakes or add context and resolve the issues.
 
-The terms that were added to the project glossary will be underlined in the source string. You can check additional explanation added to the term for the accurate translation. A project manager can also give you permission to add terms to the project glossary.
+The terms that were added to the project glossary will be underlined in the source string. 
+You can check additional explanation added to the term for the accurate translation.
+A project manager can also give you permission to add terms to the project glossary.
 
 In the next chapter, we'll go through how you can manage the project and manage your translation team.
