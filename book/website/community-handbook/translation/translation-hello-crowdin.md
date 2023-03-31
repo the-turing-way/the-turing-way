@@ -1,11 +1,9 @@
 (ch-translation-hello-crowdin)=
 
-# Crowdin 101
+## Hello Crowdin
 
 Crowdin editor is your friend.
 You can use it to change translation language, proofread, add comments for contributors, contact the managers, vote translations, view suggestions for translation from translation memory or find Machine Translation from Google, Crowdin, DeepL, and others.
-
-## Hello Crowdin
 
 Once you click on any file, you will be directed to the comfortable mode in Crowdin crowdsourcing editor. 
 There are different modes and editors inside Crowdin but we will only go through comfortable mode and proofreader mode in Crowdin crowdsourcing editor.
@@ -62,7 +60,7 @@ We can re-use translation memory (TM) from projects translated inside and outsid
 Get in touch if you want to share the translation memory (TM) of a previously translated project.
 ```
 
-## Adding glossary
+## Adding terms to the glossary
 
 In order to translate the project's terminology properly and consistently, we keep them in a Glossary.
 In the Glossary, you can create, store, and manage all the project terminology in one place.
@@ -77,7 +75,7 @@ alt: Glossary in Crowdin which is table showing the terms in multiple languages.
 
 ```{admonition} Tip
 :class: tip
-You can upload Glossary or share Glossaries across different projects.
+You can upload a glossary or share glossaries across different projects.
 ```
 
 ```{figure} ../../figures/Adding-glossary.gif
@@ -134,4 +132,3 @@ The terms that were added to the project glossary will be underlined in the sour
 You can check additional explanation added to the term for the accurate translation.
 A project manager can also give you permission to add terms to the project glossary.
 
-In the next chapter, we'll go through how you can manage the project and manage your translation team.
