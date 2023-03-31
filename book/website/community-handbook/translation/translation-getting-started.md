@@ -1,11 +1,22 @@
 (ch-translation-getting-started)=
-
 # Getting Started in Translating _The Turing Way_
 
+
+## Overview of the translation workflow
+
+By translation workflow, we do not refer only to the phases that contributors should follow during the translation process.
+Instead, we refer to a set of aspects that can lead to a successful and sustainable translation project.
+
+
 Our current Translation Management System is Crowdin.
-Crowdin is integrated to a GitHub fork of The Turing Way in [a temporary GitHub organisation](https://github.com/TWTranslation).
-Every time the repository is updated, Crowdin starts an automatic translation.
-These translations need to be reviewed and accepted before being considered final.
+All translations are stored in a fork of _The Turing Way_ repository inside [TWTranslation](https://github.com/TWTranslation), a GitHub Organisation account.
+This fork is updated regularly to fetch new content and Crodin adds it automatically and starts an automatic translation based on machine translation and translation memory. 
+The automatic translations need review and approval before being accepted.
+
+People in the team complete and review these automatic translations, according to the translation guidelines of each team.
+New translated and approved files are sent back automatically to the translation fork and will generate a PR to be added to the repository as shown in the figure below.
+
+Most of this process is done automatically, translators do not need to interact with GitHub in any way.
 
 ```{figure} ../../figures/workflow-crowdin.png
 ---
@@ -13,12 +24,9 @@ name: create-account-crowdin
 width: 80%
 alt: The workflow used in Crowdin.
 ---
-The Translation workflow, which relies on a fork of the Turing Way repository inside the [TWTranslation](https://github.com/TWTranslation) GitHub Organisation account.
+The Translation workflow, which is located on a fork of _The Turing Way_ repository inside the [TWTranslation](https://github.com/TWTranslation) GitHub Organisation account.
 ```
 
-All translations are stored in a fork for the Turing Way repository inside [TWTranslation](https://github.com/TWTranslation) GitHub Organisation account.
-This fork is updated automatically and any new content is added to Crowdin automatically.
-New translated and approved files will generate a PR and be added to the repository as shown in the figure above.
 
 ## Join the Translation Team in Crowdin
 
@@ -28,7 +36,7 @@ New translated and approved files will generate a PR and be added to the reposit
 ---
 name: create-account-crowdin_
 width: 90%
-alt: Sign up in crowdin or log in before you start the translation. You can also log in using your GitHub or Google account.
+alt: Sign up in Crowdin or log in before you start the translation. You can also log in using your GitHub or Google account.
 ---
 ```
 
@@ -52,10 +60,10 @@ alt: Crowdsourcing page in Crowdin which has three tabs, one showing the languag
 
 - **Review the Translation Guidelines.**
   - What should *not* be translated for consistency and structural integrity.
-  - It is essential to harmonise and standardise translations.
+  - They are essential to harmonise and standardise translations.
   Make sure you read them before you start translating for the first time.
-  - Each language has the Translation Priorities list, which you can find in the README file. 
-  Choose one of the high priority files.
+  If you are starting a new language, please make sure you create a repository in the GitHub organisation with your language guidelines. 
+  Feel free to comment these guidelines and suggest new terms anytime. This can be done in the corresponding repositories or in _The Turing Way_ issues
 
 - **Choose the language you want to contribute to.** We have currently 4 languages with active contributors, which are Spanish, Arabic, Portuguese and Chinese.   
 
@@ -73,6 +81,8 @@ alt: You can add a new language by contacting one of the managers.
 ```
 
 - **Start Translating chapters from the translation priorities list.**
+  - Each language has the Translation Priorities list, which you can find in the README file. 
+  Choose one of the high priority files.
   - You can view the translation priorities list in the task tab in Crowdin, they are also marked with a red arrow. The same list is copied below:
     - **Urgent** (Welcome, afterword)
     - **Priority +++** (Overview of the guide of reproducible research, open research)
@@ -80,7 +90,7 @@ alt: You can add a new language by contacting one of the managers.
     - **Priority +** (Version Control, Overview of Project Design, Creating Project Repositories)
     - **Intermediate** (Overview of the Guide for Communication, Making Research Objects Citable, Communications in Open Source Projects, Getting Started With GitHub, Research Infrastructure Roles, Introduction to Research Ethics)
 
-    - In order to navigate to the tasks tab inside crowdin, you need to click in "Go to the Console" at the top right and navigate back to _The Turing Way_ project which will direct you to a similar interface but with additional tabs on the left, one of the these is the task tab.
+    - In order to navigate to the tasks tab inside Crowdin, you need to click in "Go to the Console" at the top right and navigate back to _The Turing Way_ project which will direct you to a similar interface but with additional tabs on the left, one of the these is the task tab.
     In the Tasks, we assign tasks to get files translated or proofread by the community or set the due dates and receive notifications about the changes and updates in tasks.
 
 ```{figure} ../../figures/tasks-crowdin.gif
@@ -107,5 +117,5 @@ alt: Use the search box to look into the file that you would like to start trans
 ---
 ```  
 
-You are now all set-up to start translating the Turing Way. 
+You are now all set up to start translating _The Turing Way_. 
 In the next chapter, you will learn how to take advantage of the Crowdin editor to translate strings, proofread or add comments.
