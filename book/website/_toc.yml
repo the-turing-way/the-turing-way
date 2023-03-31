@@ -740,7 +740,7 @@ parts:
                 file: community-handbook/translation/translation-getting-started
               - title: Hello Crowdin
                 file: community-handbook/translation/translation-hello-crowdin
-                
+
       # ===== Afterword ========================================
 
       - file: afterword/afterword
