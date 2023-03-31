@@ -40,4 +40,4 @@ The workflows for translation can become confusing at some times and many transl
 Our aim is to provide clear documentation so any potential contributor is able to participate.
 Any new member of the community should be able to step in, enter in touch with other members of the translation teams for their languages, and start helping to use the documentation.
 
-In the next few pages, you will learn how open source projects are translated uisng translation management system (TMS) and how you can get started in translating _The Turing Way_ using [Crowdin](https://crowdin.com/).
+In the next few pages, you will learn how open source projects are translated using translation management systems (TMS), how we organise our translation and localisation efforts inside _The Turing Way_, and how you can get started in translating _The Turing Way_ using [Crowdin](https://crowdin.com/).
