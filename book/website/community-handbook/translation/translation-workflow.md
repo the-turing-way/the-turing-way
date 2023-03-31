@@ -16,16 +16,11 @@ The deployment of these translated versions is work in progress, and some parts 
 Everyone interested in participating in a translation effort should be able to work asynchronously, so don't worry if you cannot join the bi-weekly calls.
 
 
+## Join or create a language team
 
-## Before translation
-
-Before starting a translation project, it remains relevant to reflect upon the following questions:
-- Do you see the target language in the localisation platform?
-    - Check out the existing languages being translated. Does the language that interests you already exist? If it doesn't, reach out to the team to [create a new translation team](#ch-new-team)
-    - If the language team already exists reach out to the team so you can join them.
-
-(ch-new-team)=
-## Starting a new language team
+Before starting a translation project, check out the existing languages being translated.
+Is the language that interests you in the localisation platform? If it isn't, reach out to the team to create a new translation team.
+If the language team already exists reach out to the team so you can join them.
 
 When starting a new language translation, there are several aspects to consider in terms of the workflow and translation guidelines.
 The decisions at this stage include deciding what terms not to translate, deciding on the translation of some terms, and the governance of the team, to determine who is responsible for each section.
@@ -34,19 +29,21 @@ The decisions at this stage include deciding what terms not to translate, decidi
 
 It is key to set translation guidelines for each language.
 These guidelines are essential to harmonise and standardise translations.
-They will guide newcomers on how to translate and review translations.
-
+They will guide newcomers on how to translate and review translations and may be useful for future teams translating other projects.
 These language-specific guidelines should include the use of inclusive language.
 
 For example, the book [Teaching Tech Together](https://teachtogether.tech/) was collaboratively translated to Spanish.
 The team defined their guidelines to account for regional differences and avoid gendered and other non-inclusive expressions.
 They describe the whole process (in Spanish) [here](https://teachtogether.tech/es/index.html#s:traduccion) and an adaptation of their guidelines to English can be found [here](https://github.com/gvwilson/teachtogether.tech#translations).
 
-
 Document the translation guidelines for your selected language to be discussed and updated by the rest of the team.
-They may be useful for future teams translating other projects.
+Every team has a repository with these guidelines in the GitHub organisation. 
+Check examples for
+[Portuguese](https://github.com/TWTranslation/Portuguese_specific_translation_guidelines), [Arabic](https://github.com/TWTranslation/Arabic-specific-Translation-rules), and [Turkish](https://github.com/TWTranslation/Turkish-specific-Translation-rules).
+We have also set up a public page for _The Turing Way_ in [Crowdin](https://turingway.crowdin.com/turing-way) with a README file summarising some of the translation guidelines
 Make sure you read these guidelines before you start translating for the first time.
- 
+
+
 ### Create and update a glossary
 
 We strongly suggest setting a glossary through the localisation platform.
@@ -73,8 +70,11 @@ alt: Checking consistency in Crowdin by hovering over the source words underline
 
 ### Team governance
 
-We suggest having roles of project members, which include manager, translator, and proofreader.
-- **Manager** – has similar rights as a project owner except for the ability to manage some of the owner's Resources (for instance, configuring MT engines, advanced workflows, and more.) and delete projects.
+We have teams for each language, so that no one works alone.
+Each team can decide roles for their project members.
+In the translation platform, these roles can translate in having different permissions. 
+Roles in Crowdin include manager, translator, and proofreader.
+- **Manager** – has similar rights as a project owner except for the ability to manage some of the owner's Resources (for instance, configuring MT engines, advanced workflows, and more) and delete projects.
 - **Proofreader** – can translate and approve strings.
 Unlike the manager, the Proofreader doesn't have access to project settings.
 - **Translator** – can translate strings and vote for translations added by other members.
@@ -91,7 +91,6 @@ Used under a CC-BY 4.0 licence.
 DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 ```  
 
-We have set up a public page for _The Turing Way_ in [Crowdin](https://turingway.crowdin.com/turing-way) with a README file summarising some of the translation guidelines.
 
 In each co-working or external session, prioritise those chapters that are outdated or close to completion. 
 Check out our [guidelines](ch-translation-getting-started) for a list of the priority list.
