@@ -26,7 +26,7 @@ DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 ## Motivation
 
 Translation is **a key step for internationalisation of _The Turing Way_** and any efforts in this regard are really welcome.
-Having translated versions of _The Turing Way_ can open the channels for communicating between communities of practice in several languages.
+Having translated versions of _The Turing Way_ can open the channels for communicating between communities of practice around the world.
 Translation is part of community building!
 
 Potential translators are members of _The Turing Way_ community who would like to use the materials for teaching and communication and new members that are not yet part of _The Turing Way_ community but can contribute.
@@ -38,5 +38,6 @@ You do not need to be fluent in English to contribute to the translations, you o
 
 The workflows for translation can become confusing at some times and many translation efforts go unfinished for many reasons.
 Our aim is to provide clear documentation so any potential contributor is able to participate.
+Any new member of the community should be able to step in, enter in touch with other members of the translation teams for their languages, and start helping to use the documentation.
 
-In the next few pages, you will learn how open source projects are translated uisng translation management system (TMS) and how you can get started in translating _The Turing Way_ using [Crowdin](https://crowdin.com/), a type of TMS. Any new member of the community should be able to step in, enter in touch with other members of the translation teams for their languages, and start helping to use the documentation.
+In the next few pages, you will learn how open source projects are translated uisng translation management system (TMS) and how you can get started in translating _The Turing Way_ using [Crowdin](https://crowdin.com/).
