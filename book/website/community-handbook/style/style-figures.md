@@ -104,7 +104,7 @@ alt: This example shows when a wrong image path is used, the web browser can't a
 
 When all these components are used correctly, a figure included in a file will be rendered in the online book like in this page:
 
-```{figure} ../../figures/file-collection.*
+```{figure} ../../figures/file-collection.jpg
 ---
 height: 500px
 name: file-collection
@@ -130,7 +130,7 @@ For example, a caption might say:
 The syntax for this image is as follows, and the way it appears in the book is below the code snippet.
 
 ````
-```{figure} ../../figures/first-pull-request.jpg
+```{figure} ../../figures/first-pull-request.png
 ---
 height: 400px
 name: first-pull-request
@@ -141,7 +141,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 ```
 ````
 
-```{figure} ../../figures/first-pull-request.jpg
+```{figure} ../../figures/first-pull-request.png
 ---
 height: 400px
 name: first-pull-request
