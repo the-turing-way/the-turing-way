@@ -55,7 +55,7 @@ Using the parameter: `name`, you can reference figures in other chapters in a si
 All the components of your figure (figures location, size and name) can be encapsulated in section within a markdown file using the following directive:
 
 ````
-```{figure} ../../figures/file-collection.*
+```{figure} ../../figures/file-collection.jpg
 ---
 height: 500px
 name: file-collection
@@ -83,7 +83,7 @@ Screen reader software can read an alt text to better explain the content of the
 All the components of your figure (image file location, size, name, alt text and title) can be encapsulated in section within a markdown file using the following directive:
 
 ````
-```{figure} ../../figures/file-collection.*
+```{figure} ../../figures/file-collection.jpg
 ---
 height: 500px
 name: file-collection
@@ -130,7 +130,7 @@ For example, a caption might say:
 The syntax for this image is as follows, and the way it appears in the book is below the code snippet.
 
 ````
-```{figure} ../../figures/first-pull-request.*
+```{figure} ../../figures/first-pull-request.jpg
 ---
 height: 400px
 name: first-pull-request
@@ -141,7 +141,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 ```
 ````
 
-```{figure} ../../figures/first-pull-request.*
+```{figure} ../../figures/first-pull-request.jpg
 ---
 height: 400px
 name: first-pull-request

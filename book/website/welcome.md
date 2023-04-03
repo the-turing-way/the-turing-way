@@ -49,7 +49,7 @@ To join this community, please read our [contribution guidelines](https://github
 More information about the community and the project is available in the {ref}`ch`.
 We look forward to expanding and building _The Turing Way_ together.
 
-```{figure} figures/theturingway-chapters.*
+```{figure} figures/theturingway-chapters.jpg
 ---
 name: theturingway-chapters
 alt: The Turing Way Guide to reproducible research and it's stucture illustrated to show a set of doors to represent how it's built on chapters and sub chapters of the different areas of the guide
