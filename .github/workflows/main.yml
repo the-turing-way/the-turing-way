@@ -1,0 +1,61 @@
+# This workflow uses actions that are not certified by GitHub.
+# They are provided by a third-party and are governed by
+# separate terms of service, privacy policy, and support
+# documentation.
+
+# GitHub recommends pinning actions to a commit SHA.
+# To get a newer version, you will need to update the SHA.
+# You can also reference a tag or branch, but the action may change without warning.
+
+name: Newsletter issue
+on:
+  schedule:
+  # This will run at 8:05am on the first day of every month. To adjust, go to https://crontab.guru/
+    - cron: "5 8 1 * *"
+
+jobs:
+  create_issue:
+    name: Create newsletter issue
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Generate target date
+        id: target-date
+        shell: python
+        run: |
+          import calendar
+          from datetime import datetime
+          
+          cal = calendar.Calendar()
+          today = datetime.today()
+          
+          dates_in_month = cal.monthdatescalendar(today.year, today.month)
+          
+          # Get Week 1, Day 1 and establish that it falls within the chosen month
+          week_indx = 0 if dates_in_month[0][0].month == today.month else 1
+          
+          # Get date of the 3rd Monday
+          third_mon = dates_in_month[week_indx + 2][0]
+          print(f"::set-output name=third-monday::{third_mon.strftime('%Y-%m-%d')}")
+      - name: Create newsletter issue
+        uses: imjohnbo/issue-bot@ebb016264b7ca514eea6315872b0d768868fd8c1
+        with:
+          assignees: ""
+          labels: "ttw-comms, ttw-newsletter"
+          title: "Newsletter ${{ steps.target-date.outputs.third-monday }}"
+          body: |
+            ### Newsletter Process
+           - [ ] Write in Markdown on HackMD file
+           - [ ] Create google slide deck with images
+           - [ ] Add alt text to images
+           - [ ] Make sure emoji icons are used rather than icon shortcut
+           - [ ] Convert Markdown to HTML code
+           - [ ] Paste into Tinyletter WISYWIG
+                    
+        
+            
+          pinned: false
+          close-previous: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
