@@ -38,7 +38,7 @@ It further outlines expectations and responsibilities with regard to working on 
 |  Jim Madge <br>([@JimMadge](https://github.com/JimMadge)) | Senior Research Software Engineer, The Alan Turing Institute | The Turing Way Infrastructure Maintainers Co-lead | 2022 - Present | - |
 |  Brigitta Sipőcz <br>([@bsipocz](https://github.com/bsipocz)) | Research Software Engineer, Caltech/IPAC -- NASA/IPAC Infrared Science Archive | The Turing Way Infrastructure Maintainers Co-lead | 2022 - Present | - |
 | Bastian Greshake Tzovaras <br>([@gedankenstuecke](https://github.com/gedankenstuecke)) | Senior Researcher, The Alan Turing Institute | 10% | 2023 - Present | - |
-
+| Christopher Burr <br>([@chrisdburr](https://github.com/chrisdburr)) | Senior Researcher, The Alan Turing Institute | 10% | 2023 - Present | - |
 
 ## Previous Project Members
 
