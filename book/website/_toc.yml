@@ -521,6 +521,15 @@ parts:
                 file: collaboration/new-community/new-community-differences
               - title: Teamwork
                 file: collaboration/new-community/new-community-teamwork
+          - title: Onboarding New Members
+          file: collaboration/onboarding  
+          sections:
+            - title: Important Aspects of Onboarding
+              file: collaboration/onboarding/onboarding-aspects
+            - title: Planning and Processes
+              file: collaboration/onboarding/onboarding-planning
+            - title: Considerations for in-person and virtual
+              file: collaboration/onboarding/onboarding-virtual      
           - title: Leadership in Data Science
             file: collaboration/leadership
             sections:
