@@ -43,7 +43,7 @@ How is the code written, version controlled?
 See for example the [Research toolkit by the Open Data Institute](https://theodi.org/article/check-out-our-rd-open-research-tools/). 
 Is work of lab members reproduced by other lab members (for example, to learn new techniques and to validate previous work)?
 - Communication: 
-How do people engage with each other? 
+How do people engage with each other? For suggestion on how to organise communication, see {ref}`cl-organising-meetings`
 - Under what condition can people provide their best work? 
 What support is needed? 
 How do people work? 
