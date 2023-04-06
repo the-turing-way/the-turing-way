@@ -15,7 +15,7 @@ The Book Dash was a success and the experience of working with an artist added t
 They loved seeing their ideas translated into images - an (almost) immediate output they could collaborate on and feel proud to have contributed to.
 This experience was brought back in subsequent Book Dash events in person and online and has always remained a highlight.
 
-```{figure} https://github.com/alan-turing-institute/the-turing-way/raw/main/workshops/book-dash/figures/book_dash_mcr_art.jpg
+```{figure} https://github.com/alan-turing-institute/the-turing-way/raw/main/workshops/book-dash/figures/book_dash_mcr_art.*
 ---
 height: 400px
 name: book_dash_mcr_art
