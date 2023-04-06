@@ -75,7 +75,7 @@ what are the expectations around public outreach?
 What is the social media policy for personal accounts? 
 How are all the materials made accessible (image descriptions, translations, etc (ref to chapter?) 
 How is the lab involved in the department? How does the lab work with participants?
-- Publications. What needs to happen before a paper is published? what are the preprint policies? 
+- Publications: What needs to happen before a paper is published? what are the preprint policies? 
 What are the journal preferences? How does the lab deal with authorship({ref}`cm-aa`)? 
 see Liboiron et al. 2017  and [Dalmeet Singh Chawla 2018](https://www.science.org/content/article/assigning-authorship-research-papers-can-be-tricky-these-approaches-can-help) for author order discussions. 
     - Consider academic citation practices. [Who do you choose to link and re-circulate in your work? Who gets erased? Who should you stop citing?](http://www.criticalethnicstudiesjournal.org/citation-practices)
