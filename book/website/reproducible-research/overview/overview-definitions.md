@@ -54,7 +54,7 @@ More information on these definitions can be found in "Reproducibility vs. Repli
 
 ```{figure} ../../figures/reproducible-definition-grid.*
 ---
-name: reproducible-definition-grid.jpg
+name: reproducible-definition-grid.*
 alt: Grid with the characteristics of reproducible, replicable, robust and generalisable research
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).

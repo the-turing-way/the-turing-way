@@ -16,7 +16,7 @@ The comfortable mode is divided into four sections:
 4. **Right sidebar:** You can use it to add comments, report issues, and see the existing Glossary available for the strings.
 
 
-```{figure} ../../figures/crowdin-editor.png
+```{figure} ../../figures/crowdin-editor.*
 ---
 name: crowdin-editor
 width: 90%
@@ -46,7 +46,7 @@ Crowdin editor won't only show you suggestions of a translation made by the tran
 This avoids duplication of effort.
 If you would like to re-use our translation memory (TM) in your own open-source projects, feel free to contact our Translation and Localisation leads.  
 
-```{figure} ../../figures/Translation_Memory.gif
+```{figure} ../../figures/translation-memory.*
 ---
 name: Translation_Memory
 width: 90%
@@ -65,7 +65,7 @@ Get in touch if you want to share the translation memory (TM) of a previously tr
 In order to translate the project's terminology properly and consistently, we keep them in a Glossary.
 In the Glossary, you can create, store, and manage all the project terminology in one place.
 
-```{figure} ../../figures/Glossary.png
+```{figure} ../../figures/Glossary.*
 ---
 name: Glossary_
 width: 90%
@@ -78,7 +78,7 @@ alt: Glossary in Crowdin which is table showing the terms in multiple languages.
 You can upload a glossary or share glossaries across different projects.
 ```
 
-```{figure} ../../figures/Adding-glossary.gif
+```{figure} ../../figures/adding-glossary.*
 ---
 name: Adding-glossary
 width: 90%

@@ -11,7 +11,7 @@
 
 This chapter covers the motivation for translating _The Turing Way_ to other languages, some technical aspects about localisation and internationalisation, and the workflows to start a new language translation or contributing to existing ones.
 
-```{figure} ../figures/Translation.jpg
+```{figure} ../figures/translation.*
 ---
 height: 500px
 name: Translation

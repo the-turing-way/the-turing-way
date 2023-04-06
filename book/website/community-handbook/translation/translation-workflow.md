@@ -59,7 +59,7 @@ As soon as you start translating your project, machine learning algorithms engag
 For example, in Crowdin, you can hover over the source words underlined with the light dashed line to see the previous translations formed by the translation consistency feature. 
 You can also search earlier translations for specific source words using the Search TM tab.
 
-```{figure} ../../figures/translation_consistency_previous_translations_editor.png
+```{figure} ../../figures/translation-consistency-previous-translations-editor.*
 ---
 name: translation_consistency_previous_translations_editor
 width: 90%
@@ -80,7 +80,7 @@ Unlike the manager, the Proofreader doesn't have access to project settings.
 - **Translator** – can translate strings and vote for translations added by other members.
 
 
-```{figure} ../../figures/translation-memory.jpeg
+```{figure} ../../figures/translation-memory-animation.*
 ---
 name: translation-memory
 width: 90%

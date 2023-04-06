@@ -18,7 +18,7 @@ New translated and approved files are sent back automatically to the translation
 
 Most of this process is done automatically, translators do not need to interact with GitHub in any way.
 
-```{figure} ../../figures/workflow-crowdin.png
+```{figure} ../../figures/workflow-crowdin.*
 ---
 name: create-account-crowdin
 width: 80%
@@ -32,7 +32,7 @@ The Translation workflow, which is located on a fork of _The Turing Way_ reposit
 
 - **Create an account in Crowdin** through [this link](https://accounts.crowdin.com/register?domain=turingway&continue=%2Fturing-way).
 
-```{figure} ../../figures/Create-accunt-Crowdin.gif
+```{figure} ../../figures/create-account-crowdin.*
 ---
 name: create-account-crowdin_
 width: 90%

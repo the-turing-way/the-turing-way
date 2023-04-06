@@ -14,7 +14,7 @@ Localisation addresses other factors such as text length and cultural references
 A **Translation Management System (TMS)** manages the localisation process from the beginning of a translation process until the finished product.
 TMS are widely used in Open source projects because they offer many advantages such as workflow automation, transparency, and fast project delivery.
 
-```{figure} ../../figures/Translation_management_systems.jpg
+```{figure} ../../figures/translation-management-systems.*
 ---
 height: 500px
 name: Translation_
