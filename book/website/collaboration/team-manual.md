@@ -36,7 +36,7 @@ Where will the lab manual be made available for all lab members to access?
 - Open Science: 
 How does the team manage and share code, data, materials? 
 How is documentation done? 
-- Lab manual: 
+- Research process: 
 how is research conducted at the lab? 
 How is the data analysed? 
 How is the code written, version controlled? 
