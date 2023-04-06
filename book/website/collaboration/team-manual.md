@@ -78,7 +78,7 @@ How are all the materials made accessible (image descriptions - see {ref}`ch-sty
 How is the lab involved in the department? How does the lab work with participants?
 - Publications: What needs to happen before a paper is published? what are the preprint policies? 
 What are the journal preferences? How does the lab deal with authorship({ref}`cm-aa`)? 
-see {cite:ps}`Liboiron2017equity`  and {cite:ps}`Chawla2018assigning` for author order discussions. 
+see {cite:ps}`Liboiron2017equity` and {cite:ps}`Chawla2018assigning` for author order discussions. 
     - Consider academic citation practices. [Who do you choose to link and re-circulate in your work? Who gets erased? Who should you stop citing?](http://www.criticalethnicstudiesjournal.org/citation-practices)
 - Conferences: 
 How do you give a talk? 
@@ -188,11 +188,10 @@ See also Patrick Lencioni's 'Teamwork: The Five Dysfunctions of a Team' ({cite:p
 ## Credit
 This summary is based on a [Twitter Thread by @samuelmehr](https://twitter.com/samuelmehr/status/1139733291899080705) ([Webarchive](https://web.archive.org/web/20190615104618/https://twitter.com/samuelmehr/status/1139733291899080705)), as well as discussions during the [Open Science Retreat 2023](https://open-science-retreat.gitlab.io). 
 
-(cl-team-manual-additional)=
+(cl-team-manual-resources)=
 ## Additional Resources on improving Research Culture
 * [Research Culture - UKRIO Webinar](https://www.youtube.com/watch?v=WH2cAChUzFA)
-* Nature articles about lab health:
-https://www.nature.com/collections/pmlcrkkyyq, including {cite:ps}`Norris2018health`.
+* [How to grow a healthy lab](https://www.nature.com/collections/pmlcrkkyyq), including {cite:ps}`Norris2018health`.
 * {cite:ps}`Andreev2022welcome`
 * [Guidelines Toward Inclusive Practices in Academics by eLife Community Ambassadors](https://osf.io/muk7v/wiki/home/)
 * {cite:ps}`Maestre2019ten`
