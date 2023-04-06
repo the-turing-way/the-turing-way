@@ -77,7 +77,7 @@ How are all the materials made accessible (image descriptions (see {ref}`ch-styl
 How is the lab involved in the department? How does the lab work with participants?
 - Publications: What needs to happen before a paper is published? what are the preprint policies? 
 What are the journal preferences? How does the lab deal with authorship({ref}`cm-aa`)? 
-see {cite:ps}`Liboiron2017equity`  and {cite:pas}`Chawla2018assigning` for author order discussions. 
+see {cite:ps}`Liboiron2017equity`  and {cite:ps}`Chawla2018assigning` for author order discussions. 
     - Consider academic citation practices. [Who do you choose to link and re-circulate in your work? Who gets erased? Who should you stop citing?](http://www.criticalethnicstudiesjournal.org/citation-practices)
 - Conferences: 
 How do you give a talk? 
