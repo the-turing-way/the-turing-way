@@ -2,6 +2,7 @@
 # Team Manuals
 
 Team manuals describe expectations for team members, highlight resources and provides documentation on processes. 
+Below follow some questions that you can consider when you set up a Team Manual.
 
 (cl-team-manual-benefits)=
 ## Benefits of Team Manuals
@@ -13,7 +14,7 @@ Team manuals describe expectations for team members, highlight resources and pro
 - Group members will think more actively about how to do research
 - Answers to frequently asked questions will be available (knowledge management)
 - Can contribute to a safer lab environment (technically and socially)
-- You can hold people more easily accountable (see below)
+- You can hold people more easily ({ref}`accountable<cl-team-manual-accountable>`)
 
 (cl-team-manual-content)=
 ## What to include in a Team Manual? 
@@ -24,7 +25,7 @@ What are the research goals of the team, why are these the goals?
 How does the team work? What is the history of the group? 
 How does the team fit into the department/institute? 
 What are the [principles](https://www.lesleahlusko.org/principles-of-community-for-our-intellectual-family/)? 
-How do we do science in a way that fits with our mission/vision statement. 
+How do we do science in a way that fits with our mission/vision statement? 
 2. Roles and expectations: What are the responsbilities of each team member, including the PI? 
 When will these roles be discussed when a new member joins the team?
 
@@ -43,7 +44,7 @@ How is the code written, version controlled?
 See for example the [Research toolkit by the Open Data Institute](https://theodi.org/article/check-out-our-rd-open-research-tools/). 
 Is work of lab members reproduced by other lab members (for example, to learn new techniques and to validate previous work)?
 - Communication: 
-How do people engage with each other? For suggestion on how to organise communication, see {ref}`cl-organising-meetings`
+How do people engage with each other? For suggestion on how to organise communication, see {ref}`cl-organising-meetings`.
 - Under what condition can people provide their best work? 
 What support is needed? 
 How do people work? 
@@ -54,11 +55,11 @@ Are there any weekly/daily tasks?
 - Inclusivity: 
 How are hiring practices inclusive of minoritised groups? 
 - Resources: 
-anything that lab members need access to (servers, software, tools, room keys, library cards, and the like)
+What do lab members need access to (servers, software, tools, room keys, library cards, and the like)?
 - On/off boarding: 
-A list of what new members need to do when they start out, and a list what leaving members need to do before they go *(ref to on/off boarding)*. 
+A list of what new members need to do when they start out, and a list what leaving members need to do before they go. 
 - Behaviour: 
-Consider setting up a code of conduct or policy on scientific integrity (and align with the institutional/national policies on this - see below). 
+Consider setting up a code of conduct or policy on scientific integrity (and align with the {ref}`institutional/national policies<cl-team-manual-policies>`on this). 
 What should people do when they encounter harassment/discrimination? What is the lab culture? 
 - Credit: How to provide appropriate credit to the right people? 
 How to ensure that each contribution is recognised and rewarded? 
@@ -73,7 +74,7 @@ How is insecurity being normalised? How is feedback given and acted upon?
 - Engagement: 
 what are the expectations around public outreach? 
 What is the social media policy for personal accounts? 
-How are all the materials made accessible (image descriptions (see {ref}`ch-style-figures-alttext`, translations)
+How are all the materials made accessible (image descriptions - see {ref}`ch-style-figures-alttext`, translations)?
 How is the lab involved in the department? How does the lab work with participants?
 - Publications: What needs to happen before a paper is published? what are the preprint policies? 
 What are the journal preferences? How does the lab deal with authorship({ref}`cm-aa`)? 
@@ -84,8 +85,7 @@ How do you give a talk?
 Which conference should be attended and why? 
 How are visualisations made accessible? 
 How is work in progress presented? 
-What is the conference budget (this should be seperate from the training budget in 18)? 
-Guidelines for PhD candidates could be at least 1-2 local/regional conferences during the first year(s) of PhD, and 1 major international one later in the project.
+What is the conference budget (this should be seperate from the training budget)? 
 - Finances: What grants pay for the lab? 
 What will/won't the lab pay for? 
 What grants can people apply for? 
@@ -103,11 +103,13 @@ See [Mentoring and Advising Contract Points of Agreement](https://docs.google.co
 What is the miminum amount of personal development days per year? 
 What is the budget available? 
 - Support: Where to go for help? 
-This can be support in/outside the lab, schedules of trainings, and contact persons. 
-- Scientific resources: Reading list that lab members should read.
-- Accountability: How do all lab members hold each other accountable? What are procedures to follow? 
-How to ensure that this accountability is not on individuals but the collective? (see also below)
+This can be support in/outside the lab.
+- Scientific resources: Is there a reading list that lab members should read?
+- Accountability: How do all lab members {ref}`hold each other accountable<cl-team-manual-accountable>`? 
+What are procedures to follow? 
+How to ensure that this accountability is not on individuals but the collective?
 
+(cl-team-manual-policies)=
 ### Institutional / national guidelines that affect Team Manuals
 Institional and national policies and guidelines prevail over the Lab Manual. 
 - Ethics and Safety: What are the safety procedures? What are the ethic procedures? 
@@ -115,7 +117,7 @@ Is there a research integrity office?
 - Research Integrity and culture: Is there an institutional policy on this? 
 If there is a dispute, what would be the procedure? Can you contact Human Resources about this?
 - What are the guidelines for research with animals, humans, personal data? See for example the {ref}`Guide on Ethical Research<er>`.
-- Where is institutional support situated? (Human Resources, Integrity Office, Research Data Management, Education)
+- Where is institutional support situated? (Human Resources, Integrity Office, Research Data Management, Education).
  
 ### Collaboration and consortium guidelines that extend beyond the Team's Manual
 - How do we choose who to collaborate with? 
@@ -132,8 +134,8 @@ This does not mean only senior members can be involved: the whole group should b
 If you want to convince your supervisor that having a Team Manual is important: 
 - Check if a comparable lab is using a Lab Manual and show them this. 
 You can also use the list provided (see below {ref}`cl-team-manual-examples`) as an example. 
-- Team up with group members so that you're not the only person that wants to implement it
-- Start out with a simplified template or share a draft so that the supervisor can easily start
+- Team up with group members so that you're not the only person that wants to implement it.
+- Start out with a simplified template or share a draft so that the supervisor can easily start.
 
 There needs to be a balance between an extensive and detailed manual and an operable manual that can be implemented. 
 Consider the points listed in this overview as ideas to mix and match from in no particular order, and use and adapt those that make most sense in your particular setting.
@@ -144,7 +146,7 @@ See [this questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSemv4CRIngTtXA
 (cl-team-manual-accountable)=
 ## How do you keep each other accountable? 
 
-When a Team Manual is established it is important that everyone is on board.  
+When a Team Manual is established it is important that everyone is on board.
 If someone is not following the Lab Manual it needs to be discussed why this is the case. 
 It could be that the Lab Manual needs to be updated, or a discussion needs to take place to re-align the values of the group members, or perhaps this lab member is not a right fit for the group. 
 
@@ -174,12 +176,12 @@ See also Patrick Lencioni's 'Teamwork: The Five Dysfunctions of a Team' ({cite:p
 * [CBIO lab statement](https://lgatto.github.io/cbio-lab/)
 * [Weecology Wiki](https://wiki.weecology.org/)
 * [Ethics and Values](http://faculty.washington.edu/bmarwick/values_and_ethics/) by Ben Marwick
-* [Faylab Lab Manual](https://thefaylab.github.io/lab-manual/index.html), [ContextLab Manual](https://github.com/ContextLab/lab-manual). 
+* [Faylab Lab Manual](https://thefaylab.github.io/lab-manual/index.html) and [ContextLab Manual](https://github.com/ContextLab/lab-manual) 
 * [Bahlai lab Policies](https://github.com/BahlaiLab/Policies)
 * [OpenScapes how we work](https://github.com/Openscapes/how_we_work)
 
 ### Further examples
-* [A list of Lab Manuals](https://docs.google.com/spreadsheets/d/1kn4A0nR4loUOSDn9Qysd3MqFJ9cGU91dCDM6x9aga-8/edit#gid=0), [a collection thread by Hao Ye](https://twitter.com/Hao_and_Y/status/1537428359277334528), 
+* [A list of Lab Manuals](https://docs.google.com/spreadsheets/d/1kn4A0nR4loUOSDn9Qysd3MqFJ9cGU91dCDM6x9aga-8/edit#gid=0), [a collection thread by Hao Ye](https://twitter.com/Hao_and_Y/status/1537428359277334528)
 * [10 recommendations for managing a nascent team or community](https://software.ac.uk/blog/2020-05-26-bootstrapping-development-team-during-time-crisis)
 * Non-scientific approaches to internal collaboration: [Oxide's Request-for-discussion process template](https://oxide.computer/blog/rfd-1-requests-for-discussion), modelled after the original spirit of the [Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments) process
 
