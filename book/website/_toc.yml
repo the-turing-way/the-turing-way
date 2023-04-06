@@ -521,6 +521,8 @@ parts:
                 file: collaboration/new-community/new-community-differences
               - title: Teamwork
                 file: collaboration/new-community/new-community-teamwork
+          - title: Team Manual
+            file: collaboration/team-manual
           - title: Leadership in Data Science
             file: collaboration/leadership
             sections:
