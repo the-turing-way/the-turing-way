@@ -30,7 +30,7 @@ When will these roles be discussed when a new member joins the team?
 
 ### More details
 - How is the lab manual updated? 
-Who can make propose the changes (ideally every member) and what is the process? 
+Who can propose the changes (ideally every member) and what is the process? 
 Do you keep multiple versions of the lab manual? 
 Where will the lab manual be made available for all lab members to access?
 - Open Science: 
