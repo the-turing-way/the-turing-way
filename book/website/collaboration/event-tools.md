@@ -8,6 +8,7 @@ We should also consider how user-friendly they are and how they impact the engag
 Here is a list of some popular tools for facilitating different aspects of collaboration discussed in the other chapters.
 Please note that we are not a listing conference or webinar-related tools, but only providing those tools that facilitate interactive (hence, collaborative) formats.
 Though we assume 'virtual first' approach for inclusive events, these recommendations can be used for remote or in-person meetings as well with minor changes to adapt to a physical location.
+If you are looking for more information on how to facilitate collaboration within a research team, see the {ref}`cl-team-manual`
 
 ## Task management tools
 
