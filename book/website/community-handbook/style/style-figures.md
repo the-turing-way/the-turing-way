@@ -91,7 +91,7 @@ Using the parameter: `name`, you can reference figures in other chapters in a si
 All the components of your figure (image file location, size, name, alt text and title) can be encapsulated in section within a markdown file using the following directive:
 
 ````
-```{figure} ../../figures/file-collection.jpg
+```{figure} ../../figures/file-collection.*
 ---
 height: 500px
 name: file-collection
@@ -103,7 +103,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 When all these components are used correctly, a figure included in a file will be rendered in the online book like in this page:
 
-```{figure} ../../figures/file-collection.jpg
+```{figure} ../../figures/file-collection.*
 ---
 height: 500px
 name: file-collection
