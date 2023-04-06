@@ -1,7 +1,7 @@
 (cl-team-manual)=
 # Team Manuals
 
-Team manuals describe expectations for team members, highlight resources and provides documentation on processes. 
+Team manuals describe expectations for team members, highlight resources and provides documentation on processes. If you're looking into more information on how to manage a team or a community, please see {ref}`Managing a New Community and Team<cl-new-community>`
 
 (cl-team-manual-benefits)=
 ## Benefits of Team Manuals
@@ -35,7 +35,7 @@ Do you keep multiple versions of the lab manual?
 Where will the lab manual be made available for all lab members to access?
 - Open Science: 
 How does the team manage and share code, data, materials? 
-How is documentation done? 
+How is documentation done and how long is it stored for? 
 - Research process: 
 how is research conducted at the lab? 
 How is the data analysed? 
@@ -44,6 +44,7 @@ See for example the [Research toolkit by the Open Data Institute](https://theodi
 Is work of lab members reproduced by other lab members (for example, to learn new techniques and to validate previous work)?
 - Communication: 
 How do people engage with each other? 
+How are meetings organised (see also {ref}`Organising Meetings<cl-organising-meetings>`)
 - Under what condition can people provide their best work? 
 What support is needed? 
 How do people work? 
@@ -54,7 +55,7 @@ Are there any weekly/daily tasks?
 - Inclusivity: 
 How are hiring practices inclusive of minoritised groups? 
 - Resources: 
-anything that lab members need access to (servers, software, tools, room keys, library cards, and the like)
+anything that lab members need access to (servers, software, tools (see {ref}`Tools for Collaboration<cl-event-tools>`), room keys, library cards, and the like)
 - On/off boarding: 
 A list of what new members need to do when they start out, and a list what leaving members need to do before they go *(ref to on/off boarding)*. 
 - Behaviour: 
@@ -77,15 +78,14 @@ How are all the materials made accessible (image descriptions (see {ref}` ch-sty
 How is the lab involved in the department? How does the lab work with participants?
 - Publications: What needs to happen before a paper is published? what are the preprint policies? 
 What are the journal preferences? How does the lab deal with authorship({ref}`cm-aa`)? 
-see Liboiron et al. 2017  and [Dalmeet Singh Chawla 2018](https://www.science.org/content/article/assigning-authorship-research-papers-can-be-tricky-these-approaches-can-help) for author order discussions. 
+see Liboiron et al. 2017 and [Dalmeet Singh Chawla 2018](https://www.science.org/content/article/assigning-authorship-research-papers-can-be-tricky-these-approaches-can-help) for author order discussions. 
     - Consider academic citation practices. [Who do you choose to link and re-circulate in your work? Who gets erased? Who should you stop citing?](http://www.criticalethnicstudiesjournal.org/citation-practices)
 - Conferences: 
 How do you give a talk? 
 Which conference should be attended and why? 
 How are visualisations made accessible? 
 How is work in progress presented? 
-What is the conference budget (this should be seperate from the training budget in 18)? 
-Guidelines for PhD candidates could be at least 1-2 local/regional conferences during the first year(s) of PhD, and 1 major international one later in the project.
+What is the conference budget (this should be seperate from the training budget)? 
 - Finances: What grants pay for the lab? 
 What will/won't the lab pay for? 
 What grants can people apply for? 
@@ -201,3 +201,7 @@ https://www.nature.com/collections/pmlcrkkyyq, including [Health tips for resear
 * check Kirsties example + OLS meeting documents? (Danny brought up)
 * [Ten simple rules for how you can help make your lab a better place as a graduate student or postdoc](https://doi.org/10.1371/journal.pcbi.1010673)
 * [Building a culture of open and reproducible science](https://www.youtube.com/watch?v=__PNXPl2xq0&list=PLeDygc8TN_J6h3RbDDVPW5oTJzRBVg7BQ&index=3&t=3472s)
+
+## Related chapters and sections in the Turing Way
+{ref}`Self Reflection chapter<er-self-reflection>`
+
