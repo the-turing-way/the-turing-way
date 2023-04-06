@@ -73,7 +73,7 @@ How is insecurity being normalised? How is feedback given and acted upon?
 - Engagement: 
 what are the expectations around public outreach? 
 What is the social media policy for personal accounts? 
-How are all the materials made accessible (image descriptions, translations, etc (ref to chapter?) 
+How are all the materials made accessible (image descriptions (see {ref}` ch-style-figures-alttext`, translations)
 How is the lab involved in the department? How does the lab work with participants?
 - Publications: What needs to happen before a paper is published? what are the preprint policies? 
 What are the journal preferences? How does the lab deal with authorship({ref}`cm-aa`)? 
