@@ -54,7 +54,7 @@ Are there any weekly/daily tasks?
 - Inclusivity: 
 How are hiring practices inclusive of minoritised groups? 
 - Resources: 
-anything that lab members need access to (servers, software, tools, room keys, library cards etc)
+anything that lab members need access to (servers, software, tools, room keys, library cards, and the like)
 - On/off boarding: 
 A list of what new members need to do when they start out, and a list what leaving members need to do before they go *(ref to on/off boarding)*. 
 - Behaviour: 
