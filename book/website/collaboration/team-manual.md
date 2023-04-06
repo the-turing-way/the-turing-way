@@ -1,7 +1,7 @@
 (cl-team-manual)=
 # Team Manuals
 
-Team manuals describe expectations for team members, highlight resources and provides documentation on processes. If you're looking into more information on how to manage a team or a community, please see {ref}`Managing a New Community and Team<cl-new-community>`
+Team manuals describe expectations for team members, highlight resources and provides documentation on processes. 
 
 (cl-team-manual-benefits)=
 ## Benefits of Team Manuals
@@ -35,7 +35,7 @@ Do you keep multiple versions of the lab manual?
 Where will the lab manual be made available for all lab members to access?
 - Open Science: 
 How does the team manage and share code, data, materials? 
-How is documentation done and how long is it stored for? 
+How is documentation done? 
 - Research process: 
 how is research conducted at the lab? 
 How is the data analysed? 
@@ -44,7 +44,6 @@ See for example the [Research toolkit by the Open Data Institute](https://theodi
 Is work of lab members reproduced by other lab members (for example, to learn new techniques and to validate previous work)?
 - Communication: 
 How do people engage with each other? 
-How are meetings organised (see also {ref}`Organising Meetings<cl-organising-meetings>`)
 - Under what condition can people provide their best work? 
 What support is needed? 
 How do people work? 
@@ -55,7 +54,7 @@ Are there any weekly/daily tasks?
 - Inclusivity: 
 How are hiring practices inclusive of minoritised groups? 
 - Resources: 
-anything that lab members need access to (servers, software, tools (see {ref}`Tools for Collaboration<cl-event-tools>`), room keys, library cards, and the like)
+anything that lab members need access to (servers, software, tools, room keys, library cards, and the like)
 - On/off boarding: 
 A list of what new members need to do when they start out, and a list what leaving members need to do before they go *(ref to on/off boarding)*. 
 - Behaviour: 
@@ -69,7 +68,7 @@ How do you discuss and measure this progress so that the lab member can more eas
 How are successes celebrated? 
 How are reproducible, ethical and inclusive data science practices included in this assessment? 
 How is maintenance work evaluated and celebrated? 
-- How are mistakes handled (see [Rouder et al. 2019](https://doi.org/10.1177/25152459188019))? 
+- How are mistakes handled (see {cite:ps}`Rouder2019minimizing`)? 
 How is insecurity being normalised? How is feedback given and acted upon?
 - Engagement: 
 what are the expectations around public outreach? 
@@ -78,14 +77,15 @@ How are all the materials made accessible (image descriptions (see {ref}`ch-styl
 How is the lab involved in the department? How does the lab work with participants?
 - Publications: What needs to happen before a paper is published? what are the preprint policies? 
 What are the journal preferences? How does the lab deal with authorship({ref}`cm-aa`)? 
-see Liboiron et al. 2017 and [Dalmeet Singh Chawla 2018](https://www.science.org/content/article/assigning-authorship-research-papers-can-be-tricky-these-approaches-can-help) for author order discussions. 
+see {cite:ps}`Liboiron2017equity`  and {cite:pas}`Chawla2018assigning` for author order discussions. 
     - Consider academic citation practices. [Who do you choose to link and re-circulate in your work? Who gets erased? Who should you stop citing?](http://www.criticalethnicstudiesjournal.org/citation-practices)
 - Conferences: 
 How do you give a talk? 
 Which conference should be attended and why? 
 How are visualisations made accessible? 
 How is work in progress presented? 
-What is the conference budget (this should be seperate from the training budget)? 
+What is the conference budget (this should be seperate from the training budget in 18)? 
+Guidelines for PhD candidates could be at least 1-2 local/regional conferences during the first year(s) of PhD, and 1 major international one later in the project.
 - Finances: What grants pay for the lab? 
 What will/won't the lab pay for? 
 What grants can people apply for? 
@@ -150,7 +150,7 @@ It could be that the Lab Manual needs to be updated, or a discussion needs to ta
 
 If someone breaks the agreements it needs to be clear what the consequences are. 
 The Team/Lab needs to be held accountable, as otherwise there is no point of having a Lab Manual. 
-See also [Patrick Lencioni's 'Teamwork: The Five Dysfunctions of a Team'](https://www.worldcat.org/title/794274430): 
+See also Patrick Lencioni's 'Teamwork: The Five Dysfunctions of a Team' ({cite:ps}`Lencioni2012five`): 
 - Absence of trust
 - Fear of Conflict
 - Lack of commitment
@@ -160,7 +160,7 @@ See also [Patrick Lencioni's 'Teamwork: The Five Dysfunctions of a Team'](https:
 (cl-team-manual-assess)=
 ## How to assess your lab culture?
 * Leslie Vosshall's [lab survey](https://docs.google.com/forms/d/e/1FAIpQLScGCi7iACgmVBhFcE7G90oPwuTs-g9CQkrDmOUoQ4FvoT9CfA/viewform) to measure whether your lab is happy 
-* [Hernandez et al. 2021](https://doi.org/10.1101/2021.12.08.471870 )
+* {cite:ps}`Hernandez2021improving`
 
 (cl-team-manual-examples)=
 ## Examples of Team Manuals
@@ -190,18 +190,14 @@ This summary is based on a [Twitter Thread by @samuelmehr](https://twitter.com/s
 ## Additional Resources on improving Research Culture
 * [Research Culture - UKRIO Webinar](https://www.youtube.com/watch?v=WH2cAChUzFA)
 * Nature articles about lab health:
-https://www.nature.com/collections/pmlcrkkyyq, including [Health tips for research groups](https://doi.org/10.1038/d41586-018-05146-5)
-* [Research Culture: Welcome to the lab](https://doi.org/10.7554/eLife.79627)
+https://www.nature.com/collections/pmlcrkkyyq, including {cite:ps}`Norris2018health`.
+* {cite:ps}`Andreev2022welcome`
 * [Guidelines Toward Inclusive Practices in Academics by eLife Community Ambassadors](https://osf.io/muk7v/wiki/home/)
-* Maestre 2019: [Ten simple rules towards healthier research](https://doi.org/10.1371/journal.pcbi.1006914)
-* [Safety and Belonging in the Field: A Checklist for Educators](https://doi.org/10.31223/X53P6H)
-* [Ten simple rules for building an antiracist lab](https://doi.org/10.1371/journal.pcbi.1008210)
-* [10 Simple Rules for a Supportive Lab Environment](https://doi.org/10.1162/jocn_a_01928)
-* [Ten simple rules for creating a sense of belonging in your research group](https://doi.org/10.1371/journal.pcbi.1010688)
+* {cite:ps}`Maestre2019ten`
+* {cite:ps}`Greene2021safety`
+* {cite:ps}`Chaudhary2020ten`
+* {cite:ps}`Pike2022simple`
+* {cite:ps}`RuedasGracia2022ten`
 * check Kirsties example + OLS meeting documents? (Danny brought up)
-* [Ten simple rules for how you can help make your lab a better place as a graduate student or postdoc](https://doi.org/10.1371/journal.pcbi.1010673)
+* {cite:ps}`Rillig2022ten`
 * [Building a culture of open and reproducible science](https://www.youtube.com/watch?v=__PNXPl2xq0&list=PLeDygc8TN_J6h3RbDDVPW5oTJzRBVg7BQ&index=3&t=3472s)
-
-## Related chapters and sections in the Turing Way
-{ref}`Self Reflection chapter<er-self-reflection>`
-
