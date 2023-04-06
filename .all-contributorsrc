@@ -4191,6 +4191,15 @@
         "ideas",
         "content"
       ]
+    },
+    {
+      "login": "meliimming",
+      "name": "meliimming",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129850001?v=4",
+      "profile": "https://github.com/meliimming",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
