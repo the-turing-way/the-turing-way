@@ -114,7 +114,7 @@ Institional and national policies and guidelines prevail over the Lab Manual.
 Is there a research integrity office? 
 - Research Integrity and culture: Is there an institutional policy on this? 
 If there is a dispute, what would be the procedure? Can you contact Human Resources about this?
-- What are the guidelines for research with animals, humans, personal data etc? (see chapter ...)
+- What are the guidelines for research with animals, humans, personal data? See for example the {ref}`Guide on Ethical Research<er>`.
 - Where is institutional support situated? (Human Resources, Integrity Office, Research Data Management, Education)
  
 ### Collaboration and consortium guidelines that extend beyond the Team's Manual
