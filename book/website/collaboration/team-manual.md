@@ -105,7 +105,7 @@ What is the budget available?
 - Support: Where to go for help? 
 This can be support in/outside the lab, schedules of trainings, and contact persons. 
 - Scientific resources: Reading list that lab members should read.
-- How do all lab members hold each other accountable? What are procedures to follow? 
+- Accountability: How do all lab members hold each other accountable? What are procedures to follow? 
 How to ensure that this accountability is not on individuals but the collective? (see also below)
 
 ### Institutional / national guidelines that affect Team Manuals
