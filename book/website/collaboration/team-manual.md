@@ -60,7 +60,7 @@ A list of what new members need to do when they start out, and a list what leavi
 - Behaviour: 
 Consider setting up a code of conduct or policy on scientific integrity (and align with the institutional/national policies on this - see below). 
 What should people do when they encounter harassment/discrimination? What is the lab culture? 
-- How to provide appropriate credit to the right people? 
+- Credit: How to provide appropriate credit to the right people? 
 How to ensure that each contribution is recognised and rewarded? 
 This includes (lab) maintenance work, discussions, and ideas. 
 - When is a lab member successful? 
