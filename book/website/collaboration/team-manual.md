@@ -102,7 +102,7 @@ See [Mentoring and Advising Contract Points of Agreement](https://docs.google.co
 - Training: How are training opportunities formalised? 
 What is the miminum amount of personal development days per year? 
 What is the budget available? 
-- Where to go for help? 
+- Support: Where to go for help? 
 This can be support in/outside the lab, schedules of trainings, and contact persons. 
 - Reading list that lab members should read.
 - How do all lab members hold each other accountable? What are procedures to follow? 
