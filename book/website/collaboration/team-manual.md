@@ -63,7 +63,7 @@ What should people do when they encounter harassment/discrimination? What is the
 - Credit: How to provide appropriate credit to the right people? 
 How to ensure that each contribution is recognised and rewarded? 
 This includes (lab) maintenance work, discussions, and ideas. 
-- When is a lab member successful? 
+- Metrics: When is a lab member successful? 
 How do you discuss and measure this progress so that the lab member can more easily succeed? 
 How are successes celebrated? 
 How are reproducible, ethical and inclusive data science practices included in this assessment? 
