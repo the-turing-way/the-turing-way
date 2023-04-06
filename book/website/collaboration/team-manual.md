@@ -59,7 +59,7 @@ What do lab members need access to (servers, software, tools, room keys, library
 - On/off boarding: 
 A list of what new members need to do when they start out, and a list what leaving members need to do before they go. 
 - Behaviour: 
-Consider setting up a code of conduct or policy on scientific integrity (and align with the {ref}`institutional/national policies<cl-team-manual-policies>`on this). 
+Consider setting up a code of conduct or policy on scientific integrity (and align with the {ref}`institutional/national policies<cl-team-manual-policies>` on this). 
 What should people do when they encounter harassment/discrimination? What is the lab culture? 
 - Credit: How to provide appropriate credit to the right people? 
 How to ensure that each contribution is recognised and rewarded? 
@@ -69,7 +69,8 @@ How do you discuss and measure this progress so that the lab member can more eas
 How are successes celebrated? 
 How are reproducible, ethical and inclusive data science practices included in this assessment? 
 How is maintenance work evaluated and celebrated? 
-- How are mistakes handled (see {cite:ps}`Rouder2019minimizing`)? 
+- Culture: 
+How are mistakes handled (see {cite:ps}`Rouder2019minimizing`)? 
 How is insecurity being normalised? How is feedback given and acted upon?
 - Engagement: 
 what are the expectations around public outreach? 
