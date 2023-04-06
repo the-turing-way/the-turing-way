@@ -198,6 +198,5 @@ https://www.nature.com/collections/pmlcrkkyyq, including {cite:ps}`Norris2018hea
 * {cite:ps}`Chaudhary2020ten`
 * {cite:ps}`Pike2022simple`
 * {cite:ps}`RuedasGracia2022ten`
-* check Kirsties example + OLS meeting documents? (Danny brought up)
 * {cite:ps}`Rillig2022ten`
 * [Building a culture of open and reproducible science](https://www.youtube.com/watch?v=__PNXPl2xq0&list=PLeDygc8TN_J6h3RbDDVPW5oTJzRBVg7BQ&index=3&t=3472s)
