@@ -131,7 +131,7 @@ This does not mean only senior members can be involved: the whole group should b
 
 If you want to convince your supervisor that having a Team Manual is important: 
 - Check if a comparable lab is using a Lab Manual and show them this. 
-You can also use the list provided (see below [A list of Lab Manuals]) as an example. 
+You can also use the list provided (see below {ref}`cl-team-manual-examples`) as an example. 
 - Team up with group members so that you're not the only person that wants to implement it
 - Start out with a simplified template or share a draft so that the supervisor can easily start
 
