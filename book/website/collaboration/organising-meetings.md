@@ -94,6 +94,8 @@ Though we assume 'virtual first' approach for inclusive events, these recommenda
   - Give clear instructions of what's expected from the writing exercises and how long it should take.
   - Give a reminder in the last minute to wrap up.
 - Ensure that the discussion is inclusive of everyone, aim to have a fair discussion, don’t fixate on one argument or speaker.
+  - When do people get to speak, how long? 
+  - Who gets to speak first (keep in mind levels of seniority, gender and ethnicity - having minorities speak up first will empower them in participating in discussions)? 
 - Indicate if the speakers should speed up or slow down, or if there is a technical issue that the speakers should check.
 - Notetakers should document important outcomes from every discussion.
 - Encourage everyone to help the notetaker in documenting correct information.
@@ -120,5 +122,8 @@ Though we assume 'virtual first' approach for inclusive events, these recommenda
 - Request any additional documents or information mentioned by others/speakers during the meeting. These links can be added into the shared documents or in the chat.
 - If the meeting call was recorded, process and share the recorded video with everyone.
 - Send a thank you email with the link to the complete notes and other relevant information.
+
+## Additional resources
+- '[How to Run a meeting](https://www.youtube.com/watch?v=qYh6Nzv3RWs)' by Greg Wilson.
 
 ***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*
