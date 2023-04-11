@@ -1,7 +1,7 @@
 (cm-social-media-twitter-tips)=
 # Tips for Starting with Twitter
 
-Twitter has 450 million monthly active users {cite:ps}`Chabrol2021twitter`.
+Twitter has 450 million monthly active users {cite:ps}`boa2023twitter`.
 You are limited to 280 characters and the style is more informal and chatty than other platforms like Linkedin.
 You can use links, photos (1200 x 628 pixels) and videos (max 2 minutes 20 secs) in similar ways to the other social media platforms.
 
