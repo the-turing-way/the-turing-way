@@ -302,7 +302,8 @@
         "doc",
         "review",
         "ideas",
-        "content"
+        "content",
+        "eventOrganizing"
       ]
     },
     {
@@ -783,7 +784,8 @@
       "contributions": [
         "bug",
         "review",
-        "ideas"
+        "ideas",
+        "eventOrganizing"
       ]
     },
     {
@@ -2631,7 +2633,8 @@
       "contributions": [
         "content",
         "translation",
-        "review"
+        "review",
+        "ideas"
       ]
     },
     {
@@ -3137,7 +3140,8 @@
       "profile": "http://www.aleesteele.com",
       "contributions": [
         "review",
-        "bug"
+        "bug",
+        "eventOrganizing"
       ]
     },
     {
@@ -4130,6 +4134,71 @@
       "profile": "https://github.com/caroldutra3",
       "contributions": [
         "ideas"
+      ]
+    },
+    {
+      "login": "sandygudie",
+      "name": "Goodnews Sandy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54219127?v=4",
+      "profile": "https://goodnewssandy.netlify.app/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "tpronk",
+      "name": "tpronk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8987504?v=4",
+      "profile": "https://github.com/tpronk",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "chartgerink",
+      "name": "Chris Hartgerink",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2946344?v=4",
+      "profile": "https://chjh.nl",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "msundukova",
+      "name": "Mayya Sundukova",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34685833?v=4",
+      "profile": "https://github.com/msundukova",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "shreyadimri",
+      "name": "Shreya Dimri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58469708?v=4",
+      "profile": "https://github.com/shreyadimri",
+      "contributions": [
+        "review",
+        "content"
+      ]
+    },
+    {
+      "login": "RealRichi3",
+      "name": "Richie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76791916?v=4",
+      "profile": "https://realrichi3.github.io",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
+    },
+    {
+      "login": "meliimming",
+      "name": "meliimming",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129850001?v=4",
+      "profile": "https://github.com/meliimming",
+      "contributions": [
+        "bug"
       ]
     }
   ],
