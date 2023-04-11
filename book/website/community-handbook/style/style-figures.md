@@ -75,7 +75,7 @@ We provide an example of alt text in the section below.
 ## MyST syntax to add a figure to a _Turing Way_ chapter
 
 All our chapters are written in Markdown files.
-Therefore, using Markdown syntax to include a figure in a Markdown file will work fine, for example, `![](../../figures/file-collection.jpg)`, where the relative path of the image file is provided inside the round brackets '()'.
+Therefore, using Markdown syntax to include a figure in a Markdown file will work fine, for example, `![](../../figures/file-collection.*)`, where the relative path of the image file is provided inside the round brackets '()'.
 
 **However**, this formatting does not allow images to be responsive to screen sizes, making them inaccessible to read on small screens and smartphones.
 Furthermore, this doesn't allow authors to resize figures in their chapters or cross reference them somewhere else in the book.
@@ -140,7 +140,7 @@ For example, a caption might say:
 The syntax for this image is as follows, and the way it appears in the book is below the code snippet.
 
 ````
-```{figure} ../../figures/first-pull-request.png
+```{figure} ../../figures/first-pull-request.*
 ---
 height: 400px
 name: first-pull-request
@@ -151,7 +151,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 ```
 ````
 
-```{figure} ../../figures/first-pull-request.png
+```{figure} ../../figures/first-pull-request.*
 ---
 height: 400px
 name: first-pull-request
