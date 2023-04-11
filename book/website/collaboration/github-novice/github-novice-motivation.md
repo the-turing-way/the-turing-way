@@ -5,6 +5,8 @@ GitHub is an online web interface for collaborating, developing, sharing and usi
 It’s designed to be easily accessible (you do not need to be a coder!) to share your work and (if you want) allow other people to test, modify, remix and reuse it.
 It also provides space and tools for collaboration and maintenance.
 
+TEST
+
 GitHub is not the only available development platform, but it hosts this book and is widely used across disciplinary and private-public boundaries.
 Thus, this chapter is tailored towards GitHub and its resources, though other platforms probably have analogous functions.
 
