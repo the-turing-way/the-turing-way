@@ -73,10 +73,10 @@ Here `CITEKEY` is the corresponding citation key in [`references.bib`][turingbib
 {cite:ps}`CITEKEY1,CITEKEY2,CITEKEY3`
 ```
 
-We will cite the article that we edit earlier in the [`reference.bib`][turingbib] file using:
+We will cite the article that we edited earlier in the [`reference.bib`][turingbib] file using:
 
 ```
-{cite:ps}`Kuula2010archiving`
+{cite:ps}`baker2016reproducibility`
 ```
 
 This will appear in your chapter as {cite:ps}`baker2016reproducibility`.
