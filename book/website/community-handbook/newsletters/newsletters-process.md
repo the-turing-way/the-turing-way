@@ -39,6 +39,7 @@ Based on what we currently publish, collect information from the listed resource
 
 * **News from the community**:
 - Check Twitter for updates on the [official account](https://twitter.com/turingway) and the [#TuringWay Hashtag](https://twitter.com/hashtag/TuringWay?src=hashtag_click)
+- Check Mastodon for updates on the [official account](https://fosstodon.org/@turingway) and the [#TuringWay Hashtag](https://fosstodon.org/tags/turingway)
 - See the Github repository for [issues](https://github.com/alan-turing-institute/the-turing-way/issues) for ongoing discussions, recently [merged PRs](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) and new chapters.
 - You can also ask in the [Slack channel](https://theturingway.slack.com) if someone would like to add something to the newsletter.
 In this part, also highlight any important milestones in the project that were either established or achieved over the last month.
