@@ -21,6 +21,15 @@ fi
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
+
+# A redirect rule with all the supported properties
+[[redirects]]
+  # Root page changed in https://github.com/alan-turing-institute/the-turing-way/pull/2994
+  from = "https://the-turing-way.netlify.app/welcome.html"
+  to = "https://the-turing-way.netlify.app/index.html"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
   
   # A redirect rule with all the supported properties
 [[redirects]]
