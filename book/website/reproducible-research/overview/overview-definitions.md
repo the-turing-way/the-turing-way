@@ -55,7 +55,7 @@ More information on these definitions can be found in "Reproducibility vs. Repli
 ```{figure} ../../figures/reproducible-definition-grid.*
 ---
 name: reproducible-definition-grid.*
-alt: Grid with the characteristics of reproducible, replicable, robust and generalisable research
+alt: Grid with the characteristics of: Reproducible; same data, same analysis. Replicable; different data, same analysis. Robust; same data, different analysis. And generalisable; different data, different analysis; Research
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
