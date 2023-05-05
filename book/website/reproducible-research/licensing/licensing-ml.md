@@ -53,7 +53,7 @@ The OpenRAIL flow chart aids the selection and naming of a license for an ML pro
 The 2 main features of an OpenRAIL license are:
 
 - Open: these licenses allow royalty free access and flexible downstream use and re-distribution of the licensed material, and distribution of any derivatives of it.
-- Responsible: OpenRAIL licenses embed a specific set of restrictions for the use of the licensed AI artifact in identified critical scenarios (e.g. illegal or discriminatory content, misinformation).
+- Responsible: OpenRAIL licenses embed a specific set of restrictions for the use of the licensed AI artifact in identified critical scenarios (for example illegal or discriminatory content, misinformation).
   To see examples of critical scenarios, see attachment A in the BigScience license in the table below.
   Use restrictions are informed by an evidence-based approach to ML development and use limitations which forces to draw a line between promoting wide access and use of ML against potential social costs stemming from harmful uses of the openly licensed AI artifact.
   Therefore, while benefiting from open access to the ML model, the user will not be able to use the model for the specified restricted scenarios.
