@@ -12,7 +12,7 @@ In all cases, the goal is to use your programming experience to figure out how t
 
 ## For the coder
 
-- Does the new code meets the required standards of the project?
+- Does the new code meet the required standards of the project?
   The standards are typically written under `contributing guidelines` by the project you are contributing to.
 - Is there [documentation](#documentation) that meets the required standards of the project?
 - Are you following any declared {ref}`style guide<rr-code-quality>` for the project?
