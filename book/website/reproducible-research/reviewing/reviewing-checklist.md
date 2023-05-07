@@ -40,7 +40,7 @@ In all cases, the goal is to use your programming experience to figure out how t
 - Do the [tests](#tests) actually ensure the code is robust in its intended use?
   - Are there any bugs or other defects?
 - Are [security](#security) issues handled correctly?
-  - Check the [security of new codes](#security-of-new-codes).
+  - Check the [security of new code](#security-of-new-codes).
 - Does the new code meet the [legal requirements](#legal)?
 
 ## Program level checklist
