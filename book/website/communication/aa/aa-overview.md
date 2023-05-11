@@ -45,7 +45,7 @@ Here are two good articles on how we need to move away from the culture of first
 * [No more first author, no more last author by Gretchen Kisher]( https://www.nature.com/articles/d41586-018-06779-2)
 * [Challenges in assessing contributions to reproducible research and open science by Malvika Sharan](https://malvikasharan.github.io/blogs/dora-panel-open-science/).
 
-However, decisions concerning authorship are still central in the minds of most academics and also used as a marker of a projects impact. 
+However, decisions concerning authorship are still central in the minds of most academics and also used as a marker of a project's impact. 
 Therefore, decisions about authorship need to be taken and the two main decisions to make are: who should get authorship on the paper? and what order the names should take? 
 
 Contributions to research projects and how these translate into the authorship of a journal article are tackled in many different ways dependent on what discipline the study is based in, the location of the publication (which journal or publisher is used), the motivation of the project contributors and the number of people involved in the project. 
