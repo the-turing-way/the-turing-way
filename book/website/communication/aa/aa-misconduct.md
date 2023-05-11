@@ -33,7 +33,7 @@ This could be due to:
 * a scientist could employ a professional writer to overcome a lack of writing skills, limited time or lack of knowledge of journal requirements.
 
 There are also ghost contributors that are contributors to a project but are not usually involved in the writing process.
-Therefore, these contributors are unlikely to be named on academic papers such as those that collected the data, performed data analysis, make software and contribute in other many ways to a research project. 
+Therefore, these contributors are unlikely to be named on academic papers such as those that collected the data, performed data analysis, make software and contribute in many other ways to a research project. 
 
 It is common that those on temporary or short-term contracts, such as postdoctoral researchers, may have moved on to another project before publications are finalised. 
 This can also include voluntary work such as University students working on a project during their studies. 
