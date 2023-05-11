@@ -25,10 +25,10 @@ This allows your community to focus their attention on what is important to them
 This approach has several smaller issue boards for each repository (or module) within your codebase.
 This method has a lot of positive outcomes, such as:
 
-- The volume of issues is more manageable;
-- Most contributors only need to be aware of issues relating to one or two repositories;
-- Contributors can subscribe to notifications or updates from only the repositories that interest them;
-- It feels like "divide and conquer", more people are working on more aspects to move the project as a whole forward.
+- The volume of issues is more manageable
+- Most contributors only need to be aware of issues relating to one or two repositories
+- Contributors can subscribe to notifications or updates from only the repositories that interest them
+- It feels like "divide and conquer", more people are working on more aspects to move the project as a whole forward
 
 (os-comms-issue-tracking-purpose-issues-case-study)=
 #### Case study: mybinder.org
