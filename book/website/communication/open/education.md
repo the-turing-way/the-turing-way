@@ -81,3 +81,5 @@ See also a short video on '[Creating Open Educational Resources: Tips for New Cr
 - [Podcast interview with Nicole Allen](https://leadinglinespod.com/episodes/episode-029-nicole-allen/)
 - Video Session on '[Open Education Through an Ethics of Care & Justice](https://www.youtube.com/watch?v=i74KEAJnoPY)'
 - Book 'Teaching to transgress' by bell hooks. 
+
+- Editing for educational purposes
