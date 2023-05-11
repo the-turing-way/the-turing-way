@@ -13,7 +13,7 @@ This is a reduction from a study in 1996 (29.2%) but shows that these practices 
 Honorary authorship is when an individual becomes a named author even though they have not made a substantial contribution and/or met authorship criteria. 
 
 A recent study of academic misconduct found 35.5% of survey respondents across all disciplines had added authors to their own manuscripts even though those authors made minimal contributions to the project {cite}`fong2017manipulation`. 
-The study also found that being an Assistant or Associate Professors significantly increases your likelihood of being an honorary author. 
+The study also found that being an Assistant or Associate Professor significantly increases your likelihood of being an honorary author. 
 
 This can also be called: 
 * Gift or guest authorship - naming an individual author out of respect or gratitude. 
