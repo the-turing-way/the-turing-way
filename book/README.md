@@ -19,6 +19,21 @@ Documentation on configuring book settings can be found on the [Jupyter Book web
 
 The site is built automatically using these two directories. All of the requirements are specified in `website/requirements.txt`.
 
+#### Locally (Windows)
+
+The following workflow should succeed using a miniconda powershell terminal on Windows 10:
+
+1. conda install git
+2. git clone https://github.com/alan-turing-institute/the-turing-way.git
+3. cd quantecon-mini-example
+4. git checkout windows
+5. conda env create -f environment_win.yml
+6. conda activate wintest
+7. cd mini_book
+8. runjb docs
+
+For more information, Please refer to [Jupyter Book Documentations](https://jupyterbook.org/advanced/advanced.html#working-on-windows). 
+
 #### Locally (Mac / Linux Only)
 
 To install jupyter-book etc.
