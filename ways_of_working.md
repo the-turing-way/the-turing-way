@@ -13,7 +13,6 @@ It further outlines expectations and responsibilities with regard to working on 
 | Alexandra Araujo Alvarez <br>([@alexandraaaj](https://github.com/alexandraaaj)) | The Turing Way Research Project Manager, The Alan Turing Institute | 100% | February 2023 - Present | - |
 | Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Senior Community Manager, The Alan Turing Institute | 10% | Jan 2021 - Present | - |
 | Arron Lacey <br>([@arronlacey](https://github.com/arronlacey)) | Senior Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Present | - |
-| Achintya Rao <br>([@RaoOfPhysics](https://github.com/RaoOfPhysics)) | Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Present | - |
 | Vicky Hellon <br>([@vhellon](https://github.com/vhellon)) | Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Present | - |
 | Aida Mehonic <br>([@AidaMehonic](https://github.com/AidaMehonic)) | Research Application Manager, The Alan Turing Institute | 10% | 2021 - Present | - |
 | Alden Conner <br>([@aldenc](https://github.com/aldenc)) | Research Application Manager, The Alan Turing Institute| 10% | 2021 - Present | - |
@@ -47,8 +46,10 @@ You can request contact information through the project members above, or tag th
 
 | Name | Role | Full-Time Equivalent (or %) on the project | Time period allocated to the project |
 |---|---|---|---|
-| May Yong <br>([@myyong](https://github.com/myyong)) | Senior Research Software Engineer | 40% | Oct 2021 - Jan 2022 |
 | Lydia France <br>([@LydiaFrance](https://github.com/LydiaFrance)) | Research Data Scientist | 50% | Oct 2021 - Jan 2022 |
+| Achintya Rao <br>([@RaoOfPhysics](https://github.com/RaoOfPhysics)) | Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Feb 2023 | - |
+| May Yong <br>([@myyong](https://github.com/myyong)) | Senior Research Software Engineer | 40% | Oct 2021 - Jan 2022 |
+| Federico Nanni <br>([@myyong](https://github.com/myyong)) | Senior Research Software Engineer | in-kind | Oct 2021 - Jan 2022 |
 | Iain Stanson <br>([@Iain-S](https://github.com/Iain-S)) | Research Software Engineer | 30% | Nov 2021 - Jan 2022 |
 | Paul Owoicho <br>([@paulowoicho](https://github.com/paulowoicho)) | Google Season of Docs - Technical Writer | 100% | Sep 2020 - Dec 2020 |
 | Rachael Ainsworth <br>([@rainsworth](https://github.com/rainsworth)) | Research Associate | 100% | Apr 2019 - May 2019 |
