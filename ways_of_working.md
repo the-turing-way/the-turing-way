@@ -13,7 +13,6 @@ It further outlines expectations and responsibilities with regard to working on 
 | Alexandra Araujo Alvarez <br>([@alexandraaaj](https://github.com/alexandraaaj)) | The Turing Way Research Project Manager, The Alan Turing Institute | 100% | February 2023 - Present | - |
 | Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Senior Community Manager, The Alan Turing Institute | 10% | Jan 2021 - Present | - |
 | Arron Lacey <br>([@arronlacey](https://github.com/arronlacey)) | Senior Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Present | - |
-| Achintya Rao <br>([@RaoOfPhysics](https://github.com/RaoOfPhysics)) | Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Present | - |
 | Vicky Hellon <br>([@vhellon](https://github.com/vhellon)) | Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Present | - |
 | Aida Mehonic <br>([@AidaMehonic](https://github.com/AidaMehonic)) | Research Application Manager, The Alan Turing Institute | 10% | 2021 - Present | - |
 | Alden Conner <br>([@aldenc](https://github.com/aldenc)) | Research Application Manager, The Alan Turing Institute| 10% | 2021 - Present | - |
@@ -60,6 +59,7 @@ You can request contact information through the project members above, or tag th
 | Alex Morley <br>([@alexmorley](https://github.com/alexmorley)) | Mozilla Fellow | in-kind contribution |  Nov 2018 - June 2019  |
 | Anna Krystalli <br>([@annakrystalli](https://github.com/annakrystalli)) | Research Software Engineer | 10% | Dec 2018 - Mar 2019 |
 | Martin O'Reilly <br>([@martintoreilly](https://github.com/martintoreilly)) | Principal Research Software Engineer | 10% | Nov 2018 - Mar 2019 |
+| Achintya Rao <br>([@RaoOfPhysics](https://github.com/RaoOfPhysics)) | Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Jan 2023 | 
 
 ## Commitments
 
