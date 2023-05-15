@@ -45,7 +45,7 @@ It is not good practice to wait until you have finished writing a paper to have 
     * This needs to include a formal statement about authorship, different peoples roles, when it will be reviewed and how it will be reviewed.
 
 * Make sure that every member of the project has signed an authorship agreement at the beginning of the project or this agreement/vote has been recorded in meeting notes.
-    * Someone should be assigned to oversee this and also to get this agreement from any new member that join during the project.
+    * Someone should be assigned to oversee this and also to get this agreement from any new members that join during the project.
 
 * Record a time for the policy to be reviewed, who will do it and what will happen in this review. 
 
