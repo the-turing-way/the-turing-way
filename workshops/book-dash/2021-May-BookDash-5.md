@@ -14,7 +14,7 @@
     * **Day 5, 21 May**: https://hackmd.io/@turingway/bookdash-may2021-day5
 * Reports from the previous events:
     * 
-    * https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash
+    * https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/book-dash
 
 ----
 
