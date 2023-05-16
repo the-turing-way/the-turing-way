@@ -265,7 +265,7 @@ The Turing Way Book Dash committee will co-develop a report providing an overvie
 
 ## :gift: Your contribution to the project
 
-**Please read and follow our project [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)!** :sparkles: 
+**Please read and follow our project [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)!** :sparkles: 
 
 If you find them confusing, difficult to follow or think that information needs to be added, please let us know! This will help us improve the contributing experience for everyone going forward.
 
