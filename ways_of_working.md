@@ -47,8 +47,9 @@ You can request contact information through the project members above, or tag th
 
 | Name | Role | Full-Time Equivalent (or %) on the project | Time period allocated to the project |
 |---|---|---|---|
-| May Yong <br>([@myyong](https://github.com/myyong)) | Senior Research Software Engineer | 40% | Oct 2021 - Jan 2022 |
 | Lydia France <br>([@LydiaFrance](https://github.com/LydiaFrance)) | Research Data Scientist | 50% | Oct 2021 - Jan 2022 |
+| May Yong <br>([@myyong](https://github.com/myyong)) | Senior Research Software Engineer | 40% | Oct 2021 - Jan 2022 |
+| Federico Nanni <br>([@myyong](https://github.com/myyong)) | Senior Research Software Engineer | in-kind | Oct 2021 - Jan 2022 |
 | Iain Stanson <br>([@Iain-S](https://github.com/Iain-S)) | Research Software Engineer | 30% | Nov 2021 - Jan 2022 |
 | Paul Owoicho <br>([@paulowoicho](https://github.com/paulowoicho)) | Google Season of Docs - Technical Writer | 100% | Sep 2020 - Dec 2020 |
 | Rachael Ainsworth <br>([@rainsworth](https://github.com/rainsworth)) | Research Associate | 100% | Apr 2019 - May 2019 |
