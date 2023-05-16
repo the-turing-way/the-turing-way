@@ -43,25 +43,26 @@ It is only with their help, we can host the next event in November taking carefu
 
 ### Timeline
 
- - Call for application start date: 
- - Deadline: 
- - Decisions on the applications: 
- - Pre Book Dash Onboarding calls (1 hour): 
- - Pre Book Dash GitHub Skill-up (1 hours training): 
- - Book Dash Development Sessions during the week: 
- - The Turing Way community share-out: 
-
-## Additions to The Turing Way Book
-
-Exciting additions from this Book Dash, as captured by Anne on The Turing Way Twitter: 
--
+* Pre Book Dash drop in calls: 02 November 2021, 09:00 and 17:00 London Time
+* GitHub Introduction Session: 03 November 2021, 15:00 London Time
+* Book Dash Collaboration Sessions during the week: 08-11 November 2021
+* The Turing Way community share-out: 12 November 2021
 
 **GitHub activities:**
-- X Issues
-- X Pull Requests
-- X chapters were published or updated, along with several new drafts that are under progress
-- Several first-time contributors to an Open Source project repository.
-
+- 22 Issues
+- 16 Pull Requests
+- 10 chapters, sections on new concepts and resources were published or updated:
+    - [Open Scholarship chapter](https://the-turing-way.netlify.app/reproducible-research/open/open-scholarship.html)
+    - [Chinese Translation of the README](https://github.com/alan-turing-institute/the-turing-way/blob/main/README-translated/README-Chinese.md)
+    - [Podman section in the Containers Chapter](https://the-turing-way.netlify.app/reproducible-research/renv/renv-containers.html#podman)
+    - [Singularity section in the Containers Chapter](https://the-turing-way.netlify.app/reproducible-research/renv/renv-containers.html#singularity)
+    - [Issue template to requst translation](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/ISSUE_TEMPLATE/Request-Translation)
+    - [Leadership story from Data Librarian - chapter in progress](https://deploy-preview-1553--the-turing-way.netlify.app/collaboration/leadership/leadership-story-data-librarian.html)
+    - [Ethical Considerations when Choosing an Open Source Governance Model](https://the-turing-way.netlify.app/ethical-research/ethics-open-source-governance.html?highlight=ethical%20consideration)
+    - [Research Object in Action](https://the-turing-way.netlify.app/communication/research-objects.html)
+    - [Publishing different articles types](https://the-turing-way.netlify.app/communication/dif-articles.html)
+    - [Privacy preserving Machine Learning](https://the-turing-way.netlify.app/project-design/sdpw/pd-sdp-private-learning.html)
+- Several discussions and chapter drafts are under progress, with many first-time contributors to an Open Source project repository who collaborated during the Book Dash.
 **Presentations:**
 - Introduction: CC-BY 4.0, The Turing Way, DOI: 10.5281/zenodo.5654766, http://zenodo.org/record/5654766, Google slides: https://tinyurl.com/bookdash-nov21
 - GitHub intro session: https://docs.google.com/presentation/d/e/2PACX-1vR-Qu4kYulSMGnnAHH9-OonNiLkaJrsolEecEkt0VD5_3PmKWePmiSQwxK3QHoq5gNsL-MJKowmgsAx/pub?start=false&loop=false&delayms=3000#slide=id.g526267be46_0_606
