@@ -273,7 +273,7 @@ If you find them confusing, difficult to follow or think that information needs 
 
 The tl;dr version for easy reference during dashing:
 1. Comment on an [existing issue](https://github.com/alan-turing-institute/the-turing-way/issues) or open a new issue referencing your addition.
-    * The [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/ISSUE_TEMPLATE.md) will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the "*Lorem ipsum*" sections.
+    * The [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/main/ISSUE_TEMPLATE.md) will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the "*Lorem ipsum*" sections.
     * Add the ```book-dash-<location>``` label in the column on the right.
 2. [Fork](https://help.github.com/articles/fork-a-repo) the Turing Way repository to your GitHub profile.
 3. Make your changes!
