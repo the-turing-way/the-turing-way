@@ -152,7 +152,7 @@ Here are a few suggestions for good first contributions:
     * **Day 5, 12 November**: https://hackmd.io/@turingway/bookdash-nov2021-day5
 * Post-event feedback: https://hackmd.io/@turingway/bookdash-nov2021-feedback
 * Reports from the previous events:
-    * https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash
+    * https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/book-dash
 
 **Bonus Playlist with songs selected by our attendees**
 Link: https://www.youtube.com/watch?v=MTIzsTv1ENY&list=PLBxcQEfGu3DldMWK2Z9xz_CEaHHp19Vma
