@@ -212,7 +212,7 @@ The tl;dr version for easy reference during dashing:
 3. Make your changes!
 4. Submit a [pull request](https://help.github.com/articles/creating-a-pull-request).
     * Open a pull request as early in your contributing process as possible and add the label [WIP] to the title to designate "work in progress".
-    * The [pull request template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/PULL_REQUEST_TEMPLATE.md) will automatically be rendered in the comment section of the new pull request page, so all you need to do is edit the "*Lorem ipsum*" sections.
+    * The [pull request template](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/PULL_REQUEST_TEMPLATE.md) will automatically be rendered in the comment section of the new pull request page, so all you need to do is edit the "*Lorem ipsum*" sections.
     * Add the ```book-dash-<location>``` label in the column on the right.
     * As you continue to make changes they will automatically be included in your existing pull request.
     * Change [WIP] to [Ready for review] in the pull request title when you are happy for your contribution to be reviewed and merged. :tada:
