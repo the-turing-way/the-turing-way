@@ -173,7 +173,7 @@ Any day-to-day feedback during the event can be directly shared in the main even
 ### Participation guidelines
 
 - Code of Conduct: https://the-turing-way.netlify.app/community-handbook/coc.html
-- Contribution guideline: https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md
+- Contribution guideline: https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md
 
 ### Communication channels
 
