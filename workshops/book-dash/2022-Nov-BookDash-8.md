@@ -219,7 +219,7 @@ Here are a few suggestions for good first contributions:
 * Community celebrations and share-out events: https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebrations-nov-2022-tickets-440188835657
 * Post-event feedback: https://hackmd.io/@turingway/bookdash-nov2022-feedback
 * Reports from the previous events:
-    * https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash
+    * https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/book-dash
 
 **Bonus Playlist with songs selected by our attendees**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLBxcQEfGu3DldMWK2Z9xz_CEaHHp19Vma" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
