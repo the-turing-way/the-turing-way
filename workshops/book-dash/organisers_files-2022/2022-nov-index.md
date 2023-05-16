@@ -239,7 +239,7 @@ The Turing Way Book Dash committee will co-develop a report providing an overvie
 ### Participation guidelines
 
 - Code of Conduct: https://the-turing-way.netlify.app/community-handbook/coc.html
-- Contribution guideline: https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md
+- Contribution guideline: https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md
 
 ### Communication channels
 
