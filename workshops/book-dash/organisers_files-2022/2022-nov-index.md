@@ -261,7 +261,7 @@ The Turing Way Book Dash committee will co-develop a report providing an overvie
     - [Short summary](https://www.turing.ac.uk/sites/default/files/inline-images/Turing%20Way%20oner_0.jpg)
 - Open issues: https://github.com/alan-turing-institute/the-turing-way/issues
 - Open Pull Requests: https://github.com/alan-turing-institute/the-turing-way/pulls
-- [Reports from the previous Book Dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash)
+- [Reports from the previous Book Dashes](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/book-dash)
 
 ## :gift: Your contribution to the project
 
