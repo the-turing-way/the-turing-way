@@ -1,159 +1,94 @@
-# Book Dash, May 2022 Report
+# Book Dash, May 2021 Notes
 
-## The Turing Way Book Dash, 16-20 May 2022: Overview and Report
+## The Turing Way Book Dash, 17-21 May 2021: Report
 
-*Read more about [The Turing Way Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html)*
 
-![](https://i.imgur.com/tIZtgKK.png)
-![](https://i.imgur.com/kBIZ8l3.jpg)
+### Relevant links & references
 
-We are delighted to share that the sixth Book Dash was hosted successfully from 16 to 20 May with 29 participants, including our planning committee members. 
+* Document with all links: https://hackmd.io/@turingway/bookdash-may2021-index
+* For specific notes from each day, please visit one of the following notes:
+    * **Day 1, 17 May**: https://hackmd.io/@turingway/bookdash-may2021-day1
+    * **Day 2, 18 May**: https://hackmd.io/@turingway/bookdash-may2021-day2
+    * **Day 3, 19 May**: https://hackmd.io/@turingway/bookdash-may2021-day3
+    * **Day 4, 20 May**: https://hackmd.io/@turingway/bookdash-may2021-day4
+    * **Day 5, 21 May**: https://hackmd.io/@turingway/bookdash-may2021-day5
+* Reports from the previous events:
+    * 
+    * https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash
 
-### Format of the event
+----
 
-_The Turing Way_ [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. 
-They also contribute to enhancing the project by improving the ways we work in the community and take lead on accomplishing different tasks or subprojects.
+## Overview to share publicly (newsletter)
 
-The May edition of Book Dash featured contributors, committee members, online working sessions, discussions and social events, and community share-outs.
+We are very excited to introduce you to our Book Dash participant!
 
-In the past, we have organised 1-1.5 day long Book Dash events in person or partially remote. 
-However, since November 2020, we have been hosting Book Dashes online and with multiple short co-working called development sessions spread over 5 days for flexible participation by members.
-We developed this format to allow people in different time zones to participate with the same efficiency and equitable support. 
-This involved creating multiple small development sessions throughout the day, adding dedicated sessions for informal social interactions, developing shared documents with all the information, providing support funds to ensure that everyone can comfortably participate and hosting a pre-event call to communicate these resources to everyone.
+![Screenshot of the Book Dash attendees. Described in the title below.](https://i.imgur.com/KRfx5Ra.jpg)
 
-### Application, Review and Selection process
+*Book Dash attendees in the first row: Nina di Cara (panel 1), Malvika Sharan (panel 2), Becki Green (panel 3), second row: Kirstie Whitaker (panel 2), Aida Mehonic (panel 3), third row: Lotty Coupat (panel 1), Hannah Nicholls (panel 2), Esther Plomp (panel 3), fourth row: Maria Cristina Nanton (panel 3), fifth row: Brigitta Sipőcz (panel 1), Emma Karoune (panel 3), sixth row: Mariana Vivas (panel 1) and Batool Almarzouz (panel 3). In this picture, we also have several attendees from our share-outs including Martin O’Reilly, Ismael Kherroubi-Garcia, Danny Garside and Paul Owoicho who are involved in the project. Book Dash attendees who are not in the picture are Ali Humayun, Andreea Avramescu, Andrei Alexandru, Marta Mangiarulo, Arielle Bennett, Carlos Martinez-Ortiz and Laura Carter.*
 
-As in the past, we invited applications through an open call where interested applicants could state their goals and interest for the Book Dash. This application was also open for the long term members from the community who may have attended a Book Dash or Collaboration Cafes in the past to join as a helper and mentor for new contributors as well.
-
-Applicants were asked to think about the collaborative element of the Book Dash and state how they could engage with other participants. 
-To get a sense of the time zones these applicants came from, we asked them to choose their preferred slots during the day that they can join. You can see a template of this document [here](https://tinyurl.com/tw-bookdash-template).
-
-The Book Dash Planning Committee used the rubrics (as explained in the [online chapter](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-application.html#reviewing-process)) to score the applications during the review. They met online to discuss applications, frame feedback and conclude their selection process.
+These members had sent applications describing what they would like to work on and how they intend to collaborate with other contributors.
+Application review was carried out using the rubrics described [here](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-preparation.html).
 
 ### Book Dash Planning Committee
 
-Arielle Bennett, Batool Almarzouq, Brigitta Sipőcz, Carlos Martinez, Emma Karoune and Esther Plomp joined the planning committee early this year and successfully delivered their first Book Dash in May.
+This event could not have happened without the valuable work of our first Planning Committee members: Arielle Bennett, Batool Almarzouq, Brigitta Sipőcz, Carlos Martinez-Ortiz, Emma Karoune, Esther Plomp and Laura Carter They provided useful input during the planning and mentored new contributors. These members were invited to join the committee as they had attended previous Book Dash events and had sent their applications expressing their interests to mentor new contributors.
+Malvika Sharan and Kirstie Whitaker were involved to ensure that resources required for committee members to lead sessions and run this event were in place. 
+The committee members hosted the development during the Book Dash week and led and discussion sessions on illustrations for visual storytelling, accessibility in communication, time management and activism.
+We also hosted a 'show and tell' social meal and facilitated several icebreakers for social interactions.
 
-![](https://i.imgur.com/PkLW6qp.jpg)
+### Resources from the Book Dash May 2021
 
-*Planning committee members (order - left to right and top to bottom): Arielle Bennett, Emma Karoune, Laura Carter, Esther Plomp, Anne Lee Steele, Lena Karvovskaya, Carlos Martinez, Achintya Rao*
+Our Book Dash attendees worked on multiple chapters and project ideas that we have summarised below:
 
-We want to express our gratitude for their thoughtful engagement in the project and for helping build an inclusive and safe place in the Book Dash. 
-It is only with their help, we can host the next event in November taking careful consideration for our participants.
+* Overview of new chapters:
+  * “[Legal Disclaimer](https://the-turing-way.netlify.app/afterword/legal-disclaimer.html)” by Laura Carter explaining where can readers find legal advice so that they do not consider any part of *The Turing Way* book as a legal guide. 
+  * Malvika and Esther reorganised a chapter “[Making Research Objects Citable](https://the-turing-way.netlify.app/communication/citable.html#)”,  previously listed under the Guide for Reproducible Research.
+  * Kirstie Whitaker wrote a chapter on “[Barriers to Reproducibility](https://the-turing-way.netlify.app/reproducible-research/overview/overview-barriers.html)” describing what challenges researchers face in their research when planning to apply practices for reproducibility.
+  * Batool and Brigitta collaborated on the chapters and illustrations for the [Continuous Integration chapter](https://the-turing-way.netlify.app/reproducible-research/ci.html) that they started working on during the previous Book Dash event.
+  * Arielle Bennett updated the chapter “[Activism for Researchers](https://the-turing-way.netlify.app/ethical-research/activism.html)” with the contributions of Bruno Camino. 
 
-### Timeline
+![Image shows a group of researchers holding a banner that says “advocacy”. One person is signing up to join and others are walking/wheeling forward.](https://i.imgur.com/IKDk535.png)
 
- - Call for application start date: 
- - Deadline: 
- - Decisions on the applications: 
- - Pre Book Dash Onboarding calls (1 hour): 
- - Pre Book Dash GitHub Skill-up (1 hours training): 
- - Book Dash Development Sessions during the week: 
- - The Turing Way community share-out: 
+*This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence. DOI [10.5281/zenodo.3332807](10.5281/zenodo.3332807).*
 
-## Additions to The Turing Way Book
+* Draft for chapters inviting contributions and reviews:
+  * Esther wrote a chapter on linking code and data to publication in [PR #1942](https://github.com/alan-turing-institute/the-turing-way/pull/1942/files).
+  * Martina Vivas and Malvika co-wrote a chapter to provide an overview of project design.
+This chapter provides a curated collection of The Turing Way chapters that are useful for planning project design for a new project.
+See [PR #1936](https://github.com/alan-turing-institute/the-turing-way/pull/1936).
+  * Kirstie is restructuring the Guide for Collaboration to ensure that the chapters are organised based on the types of collaboration and are easy to find.
+See [PR #1935](https://github.com/alan-turing-institute/the-turing-way/pull/1935).
+  * Andreea, Hannah and Becki collaborated on the chapter describing file organising template for research compendia.
+See [PR #1930](https://github.com/alan-turing-institute/the-turing-way/pull/1930).
+  * Maria, Marta and Emma collaborated on the chapter “Communicating with wider audiences” [PR #1929](https://github.com/alan-turing-institute/the-turing-way/pull/1929).
+This is a comprehensive chapter describing different ways for ensuring scientific communication is accessible to a wider audience.
+  * Lotty Coupat, community manager of AutSPACEs, added a case study from her project to the subchapter on project road mapping.
+See [PR #1941](https://github.com/alan-turing-institute/the-turing-way/pull/1941). 
+  * Andrei is revising the chapter on risk assessment to make sure that it is relatable for researchers beyond software engineers.
+See [PR #1928](https://github.com/alan-turing-institute/the-turing-way/pull/1928).
+ * Prompted by the discussions in the Community Share-outs, Danny Garside is suggesting changes in the landing page to help ensure that the readers can use the book as a knowledge base and not attempt to read it from beginning to end.
+See [issue #1955](https://github.com/alan-turing-institute/the-turing-way/issues/1955).
+  * Nina worked on developing a chapter describing ways to develop skills for self-reflection in data science to maintain ethical integrity in our work.
+See [issue #1919](https://github.com/alan-turing-institute/the-turing-way/issues/1919).
 
-Exciting additions from this Book Dash, as captured by Anne on The Turing Way Twitter: 
--
+![Nina di Cara Tweeted on 19 May 2021 saying “Day three of The Turing Way Book Dash today. What a luxury to spend a couple of days thinking deeply about self-reflection & positionality in data science work. Burnham's social 'GRACES' are getting a lot of air time”](https://i.imgur.com/GM6g577.png)
 
-**GitHub activities:**
-- X Issues
-- X Pull Requests
-- X chapters were published or updated, along with several new drafts that are under progress
-- Several first-time contributors to an Open Source project repository.
+*[Tweet by Nina di Cara](https://twitter.com/ninadicara/status/1394931465205518336?s=20) about self-reflection guide to ethics.*
 
-**Presentations:**
-- Introduction: CC-BY 4.0, The Turing Way, DOI: 10.5281/zenodo.5654766, http://zenodo.org/record/5654766, Google slides: https://tinyurl.com/bookdash-nov21
-- GitHub intro session: https://docs.google.com/presentation/d/e/2PACX-1vR-Qu4kYulSMGnnAHH9-OonNiLkaJrsolEecEkt0VD5_3PmKWePmiSQwxK3QHoq5gNsL-MJKowmgsAx/pub?start=false&loop=false&delayms=3000#slide=id.g526267be46_0_606
-
-**Videos:**
-
-We have posted videos from the introduction session on the first day of the Book Dash, and two community shareouts on the last day of the Book Dash.
-Please find the [full playlist on YouTube](https://www.youtube.com/watch?v=k7ME2CAvWBY&list=PLBxcQEfGu3DnzmNM1ioa8wUwAZPmpQQ8G)
-
-Our attendees also participated in a 'show and tell' social mean and three informal discussions on the following topics:
-    - Emergent leadership: Open discussion by Malvika Sharan
-    - Data Visualisation: Prompted discussion by Marta Mangiarulo
-    - Data Ethics by Nina di Cara
+* Find an overview from the event and links to different resources in this [shared HackMD](https://hackmd.io/@turingway/bookdash-may2021-index).
+*  *The Turing Way* the introduction presentation for the Book Dash contributors is available on Zenodo under the DOI [10.5281/zenodo.4766318](https://zenodo.org/record/4766318).
+* Recordings from the Community Share Out is available on our [YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA/featured) ([shared HackMD](https://hackmd.io/@turingway/bookdash-may2021-day5)).
+* A complete report will be added to the GitHub repository and made available via this HackMD: [hackmd.io/@turingway/bookdash-may2021](https://hackmd.io/@turingway/bookdash-may2021)
 
 ### New Illustrations by Scriberia for  *The Turing Way* Community
 
-- Illustration files: https://zenodo.org/record/3332807, cite as *The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807*
+Illustrations from the event have been made available online, which can be reused using DOI: 10.5281/zenodo.4836940 and cited as described [on Zenodo](https://zenodo.org/record/4836940).
+This latest release contains a version of images without (English) text. 
+These images can be easily adapted to different languages by editing titles via simple image editing tools (see [this example by Canva](https://www.canva.com/features/add-text-to-photo/)). 
+We encourage our readers and community members to reused these images in different languages and contribute them back to  *The Turing Way*. 
+Please reach out to  *The Turing Way* team by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com) for more information.
 
 
-Feedback
---------
+![An illustration titled “communicating with a wider audience” shows a woman wearing a purple hijab and grey clothes. She is writing something that is meant to be accessible widely via lay summary, blogs, social media and podcast. There are dictionaries to translate them into different languages.](https://i.imgur.com/s1OkwvL.png)
 
-At the end of the event, we asked our participants to share feedback anonymously in the ["Pluses and Deltas" HackMD](https://hackmd.io/@turingway/bookdash-nov2021-feedback).
-
-We greatly appreciate the work that our attendees have accomplished in the project during this short event and thank them for their feedback, a few of which have been highlighted below.
-
-* Well organised - schedules, HackMD documents
-* A good split of work/social time
-* Friendly and welcoming. Always a positive attitude
-* Enough flexibility to account for time zones, work commitments, life commitments (for me at least)
-* Very thoughful to have provided accessibility grants to the participants
-* 
-* A lot of opportunities to work on different types of tasks to improve the TW, flexible schedule to accommodate people with different schedules
-* Friendly environment, I felt able/encouraged to try out different things and experiment a bit, while at the same time I did accomplish something!
-* The hub was very nice: it was really great to sit and work together and meet others in the community I hadn't met before.
-* Liked the reminders to take breaks but having the option to have people to hold me accountable
-* 
-
-Delta
----
-
-* Some of the templates were inconsistent with timings and that caused confusion 
-* A way to keep track of all the different documents. Maybe one master HackMD/document which links to all the other HackMDs or important Slack info? (Like a password manager) So we can find the other documents or illustrations easily
-* Need to think about how the hybrid model works and what the specific support and collaboration models are
-* (This is a difficult problem) find a solution for hybrid video calls. Room audio can be poor quality, multiple laptops lead to feedback.
-* Are there ways to stop there being a split between remote joiners and hubs, or between hubs?
-* As a remote person, I found the shared mic hard, it required people to know who's speaking; preferred it when people still speak to the screen with their individual mics
-* Folks adjusting their schedule to in-person made it hard to understand as a remote person when to catch a person to co-work, I ended up just doing my own thing in the end as that felt easier
-* I was in a hub in my own office, and, while that was nice, I was also not *incredibly* productive, because I was distracted by my really lovely colleages :heart: and by their serving as a reminder of what regular work I still needed to catch up on. This was better on the days that I joined online. I think we need to think about some kind of balance for that - or a travelling hub in places where that's possible so every team member has this problem at least once :smiley_cat: 
-
-What's next?
-------------
-
-- Take a lead on addressing some of the concerns raised on the [Delta feedback](https://hackmd.io/upC0FVY9Qzmdd_WWGS6wRA?both#Delta)
-- Represent _The Turing Way_ in your community/conference, see our [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/main/communications/promotion-pack)
-- Attend a synchronous coworking such as [online Collaboration Cafes](https://hackmd.io/@turingway/collaboration-cafe) take place every first and second Wednesdays from 15:00 to 17:00 London time. Or [weekly Coworking call](https://hackmd.io/@turingway/coworking-call) every Monday from 11:00 - 12:00 London time.
-- Host one of these calls, see details here: https://the-turing-way.netlify.app/community-handbook/coworking.html
-- Attend a fireside chat, or speak at one, or organise one in your community: https://hackmd.io/@turingway/fireside-chats
-- Contribute new topics or review open pull requests
-- Join us on social media platforms or connect in other ways described here: https://hackmd.io/@turingway/demo-intro
-
-### Still wondering where to start?
-
-Here are a few suggestions for good first contributions:
-
--   Fix a typo in [the book](https://the-turing-way.netlify.com) and/or [repository](https://github.com/alan-turing-institute/the-turing-way).
--   Flag the unclear or duplicated information in the book by opening an [issue on the GitHub](https://github.com/alan-turing-institute/the-turing-way/issues).
--   Fix an [old issue](https://github.com/alan-turing-institute/the-turing-way/issues) or comment on the the [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls).
--   Write your personal experience of reproducible research in this [google form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
--   See more info on the GitHub: [https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md)
-
-
-### Relevant links & references from Book Dash
-
-* Application form: https://forms.gle/817Nj3fypRDK1q1v7
-    * Application draft template: https://tinyurl.com/tw-bookdash-template
-* Eventbrite page for the participants to register: https://www.eventbrite.co.uk/e/the-turing-way-london-book-dash-november-2021-tickets-184864082447.
-* Document with all links: https://hackmd.io/@turingway/bookdash-nov2021-index
-* Onboarding calls, 02 November: https://hackmd.io/@turingway/bookdash-nov2021-onboarding
-* GitHub Skill-up Session and Collaboration Cafe, 03 November: https://hackmd.io/@turingway/bookdash-nov2021-github
-* Scriberia Session Bookings: https://hackmd.io/@turingway/bookdash-nov2021-scriberia
-* For specific notes from each day, please visit one of the following notes:
-    * **Day 1, 08 November**: https://hackmd.io/@turingway/bookdash-nov2021-day1
-    * **Day 2, 09 November**: https://hackmd.io/@turingway/bookdash-nov2021-day2
-    * **Day 3, 10 November**: https://hackmd.io/@turingway/bookdash-nov2021-day3
-    * **Day 4, 11 November**: https://hackmd.io/@turingway/bookdash-nov2021-day4
-    * **Day 5, 12 November**: https://hackmd.io/@turingway/bookdash-nov2021-day5
-* Post-event feedback: https://hackmd.io/@turingway/bookdash-nov2021-feedback
-* Reports from the previous events:
-    * https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash
-
-**Bonus Playlist with songs selected by our attendees**
-Link: https://www.youtube.com/watch?v=MTIzsTv1ENY&list=PLBxcQEfGu3DldMWK2Z9xz_CEaHHp19Vma
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLBxcQEfGu3DldMWK2Z9xz_CEaHHp19Vma" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*This image was created by Scriberia for The Turing Way community and is used under a CC-BY licence. DOI [10.5281/zenodo.3332807](10.5281/zenodo.3332807).*
