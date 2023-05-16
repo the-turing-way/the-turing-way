@@ -48,7 +48,7 @@ On the right side of the webpage we have the following features:
 ## 3. Edit your `README.md` file
 
 Unless you have added any other files or included a license file during repo creation, you should have one file in your repository now - README.md.
-We'll need edit this file to add information about the repo.
+We'll need to edit this file to add information about the repo.
 This file is a Markdown file; you can see this because it has “.md” after the name of the file.
 This is where you start to use the Markdown formatting.
 Whatever you write in this file will be shown on the landing (front) page of your project on GitHub, so use it to tell people all about your project.
