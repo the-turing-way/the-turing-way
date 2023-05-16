@@ -105,7 +105,7 @@ Delta
 ---
 
 * Some of the templates were inconsistent with timings and that caused confusion 
-* A way to keep track of all the different documents. Maybe one master HackMD/document which links to all the other HackMDs or important Slack info? (Like a password manager) So we can find the other documents or illustrations easily
+* A way to keep track of all the different documents. Maybe one central HackMD/document which links to all the other HackMDs or important Slack info? (Like a password manager) So we can find the other documents or illustrations easily
 * Need to think about how the hybrid model works and what the specific support and collaboration models are
 * (This is a difficult problem) find a solution for hybrid video calls. Room audio can be poor quality, multiple laptops lead to feedback.
 * Are there ways to stop there being a split between remote joiners and hubs, or between hubs?
