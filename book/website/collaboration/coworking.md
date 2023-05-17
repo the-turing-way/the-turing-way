@@ -102,7 +102,7 @@ Though discussed last, this should be your highest priority.
 You should design these calls to make everyone feel welcome, involved and safe.
 It's highly recommended to choose a Code of Conduct and put reporting guidelines in place to share with everyone in advance.
 See this minimal [CoC from Contributor Covenant](https://www.contributor-covenant.org/) and an expanded version of {ref}`The Turing Way CoC<ch-coc>`.
-Additionally, you should also communicate the basic etiquettes, such as muting microphones when not speaking or not interrupting others when working in a Pomodoro session unless necessary.
+Additionally, you should also communicate the basic etiquette, such as muting microphones when not speaking or not interrupting others when working in a Pomodoro session unless necessary.
 
 It is useful to let everyone know who they can contact if they need help in troubleshooting during the call or need more time to discuss their ideas.
 Create an agenda that states clearly what is expected of them, such as if they should bring their tasks and questions to the call or communicate them beforehand.
