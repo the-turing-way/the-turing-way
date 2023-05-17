@@ -176,7 +176,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 *Agree as a committee and what the rough agenda for the event's program will be. Create slots for keynotes, breakout discussions, workshops, poster and lightning talk session.
 Provide designated time slots for social events in the main program.
-Make sure that after each talk/session there is 5 minutes break to allow people to log in to the right online call link, switch rooms, ask a logistics-related question.
+Make sure that after each talk/session there is 5 minutes break to allow people to log in to the right online call link, switch rooms, and ask any logistics-related questions.
 Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 
 - Identify speakers and sessions for the event from the selected abstracts for the talks and community voted sessions.
