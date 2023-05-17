@@ -31,7 +31,7 @@ A few other scenarios could be:
 
 If you already know the purpose of your coworking calls, you will be able to identify who your target audience is.
 
-For example, if you host your coworking calls for an open source project such as _The Turing Way_, you can expect your current members, past contributors or even new members to the project to participate.
+For example, if you host your coworking calls for an open source project such as _The Turing Way_, you can expect your current members, past contributors or even new members of the project to participate.
 If you are part of a small project, you would expect the same familiar faces in all your coworking calls.
 
 **Organisers and hosts**
