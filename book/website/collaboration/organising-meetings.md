@@ -23,7 +23,7 @@ Though we assume 'virtual first' approach for inclusive events, these recommenda
 - Set a protocol for your meeting participants (if there is not one available already), which should include basic etiquette explaining the following:
   - Is keeping the webcam and microphone on recommended? Can they be turned off during the call?
   - Is there a password needed to join the call? Can attendees join before the host?
-  - How can attendees ensure the privacy of their family member? Provide instructions for blurring their background, or using a virtual background?
+  - How can attendees ensure the privacy of their family members? Provide instructions for blurring their background, or using a virtual background?
   - How will attendees be able to participate in an ongoing discussion? How can they raise their hands to ask the chair personally?
   - What kind of challenges may attendees face while joining the call/meeting and how can they troubleshoot them?
 - Identify a chair and note-taker for the meeting.
