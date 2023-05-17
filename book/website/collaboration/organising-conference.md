@@ -102,7 +102,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 ***Mid-phase***
 
 - Allocate part of your budget for the participation support grant that can be requested by the applicants for the following support:
-  - Free or subsidized childcare during the event so that the participant can attend the event without worrying about taking care of their children.
+  - Free or subsidized childcare during the event so that the participants can attend the event without worrying about taking care of their children.
   - Software cost or subscription fee if the one being used by the event is not freely available.
   - Hardware or equipment for facilitating participation, such as headsets, microphone, webcam (create a list of hardware that can be funded by the support grant).
   - High-speed internet for the duration of the event.
