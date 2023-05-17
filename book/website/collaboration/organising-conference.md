@@ -111,7 +111,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - Create a rubric for selection.
 - Share the application form before the registration deadline.
 - Communicate clearly how many participation support grants are available and what they include.
-- Send decision for participation support grant applicants as soon as possible so that they can decide if they can register to attend the event.
+- Send decisions to participation support grant applicants as soon as possible so that they can decide if they can register to attend the event.
 
 ### Event theme and duration
 
