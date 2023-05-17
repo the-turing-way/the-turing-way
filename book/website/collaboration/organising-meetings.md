@@ -5,7 +5,7 @@ A successful meeting in the context of research or team-based science is organis
 Some main considerations are the setting up goals of the event, tools for collaboration, identifying effective approaches for stakeholder-engagement and plans for managing all the associated tasks.
 A 1:1 meeting may be organised by simply sharing a link to join the call or details of a physical location on an agreed date and time.
 
-However, often meetings involve multiple team members, presenters and guests from different groups, possibly some of hem attending the event remotely across different time zones and locations.
+However, often meetings involve multiple team members, presenters and guests from different groups, possibly some of them attending the event remotely across different time zones and locations.
 Furthermore, collaborative activities like breakout discussions and documentation are often integral for creating a welcoming space when bringing a diverse group of participants together.
 Hence, there is more to organising a team meetings than just sharing a joining link or location details.
 
