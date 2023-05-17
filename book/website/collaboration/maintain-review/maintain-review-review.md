@@ -5,7 +5,7 @@
 In a project or codebase, a set of changes must be reviewed before merging it to the main repository.
 If the project is co-owned by many people, the review process handled by [code review assignment](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/managing-code-review-assignment-for-your-team) in which certain members of the team are assigned this task.
 Reviewers are often automatically suggested on GitHub pull requests based on a similar activity by other members on the same or different files in the project.
-However, often a project managers request other maintainers for the review of a particular pull request based on their availability, willingness, or expertise.
+However, often a project manager requests other maintainers for the review of a particular pull request based on their availability, willingness, or expertise.
 
 The assigned or willing maintainers can review the pull request by checking the [changes locally](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/checking-out-pull-requests-locally) or on the online repository and suggest changes required.
 When the review process is completed, the reviews can be approved without any change, or [with required changes](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/approving-a-pull-request-with-required-reviews) or [dismissed](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/dismissing-a-pull-request-review) according to the quality of the contribution.
