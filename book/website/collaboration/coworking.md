@@ -86,7 +86,7 @@ Please see the subchapter {ref}`Tools for Remote Collaboration<cl-event-tools>` 
 As discussed earlier, you will need to agree upon dates and times with people who would like to participate in coworking calls.
 Your calls could be organised on a weekly or monthly basis that consistently takes place on a certain day and time, or it could be organised once in a while by finding a common availability.
 
-Once you have found a schedule (date, time and frequency), the following tasks will will go into planning them:
+Once you have found a schedule (date, time and frequency), the following tasks will go into planning them:
 - Update the schedule, agenda and calendar to share them with the attendees (or potential target audience). It is also effective when they receive a calendar invite.
 - Maintain communication (by email, newsletter, or social media) so that everyone is aware of the next calls and the resources available for them to participate.
 
