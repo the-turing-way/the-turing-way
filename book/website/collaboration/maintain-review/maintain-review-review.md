@@ -15,7 +15,7 @@ For project collaboration on GitHub, it is important to follow a defined guideli
 The maintenance process can be executed smoothly with the help of the following:
 
 1. *Documenting the process*: A comprehensive documentation on how contributors can get started with the project and how they can make meaningful contributions is the first step to be taken while maintaining an open source project.
-These details should throw light on what the project is all about, why was it created in the first place, who maintains the project, what is the community culture looks like, and who can provide guidance to new contributors.
+These details should throw light on what the project is all about, why was it created in the first place, who maintains the project, what the community culture looks like, and who can provide guidance to new contributors.
 
 These three documents are a good start towards building these documents:
 - A project should contain a {ref}`README.md file<pd-project-repo-readme>` that provides the important details and links to resources that one must know to become a member of the project.
