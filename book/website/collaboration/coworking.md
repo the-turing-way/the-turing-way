@@ -11,7 +11,7 @@ It includes our motivation, background, techniques, format, templates, and mater
 Below are descriptions of different aspects that one should take into consideration when planning or designing your coworking calls Online.
 These recommendations can be used for remote or in-person meetings as well with minor changes to adapt to a physical location.
 
-## Designing a format the works for you
+## Designing a format that works for you
 
 To identify what could be the best format for your coworking calls, you need to think about the following aspects:
 
