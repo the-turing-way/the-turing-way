@@ -11,7 +11,7 @@ It includes our motivation, background, techniques, format, templates, and mater
 Below are descriptions of different aspects that one should take into consideration when planning or designing your coworking calls Online.
 These recommendations can be used for remote or in-person meetings as well with minor changes to adapt to a physical location.
 
-## Designing a format the works for you
+## Designing a format that works for you
 
 To identify what could be the best format for your coworking calls, you need to think about the following aspects:
 
@@ -31,7 +31,7 @@ A few other scenarios could be:
 
 If you already know the purpose of your coworking calls, you will be able to identify who your target audience is.
 
-For example, if you host your coworking calls for an open source project such as _The Turing Way_, you can expect your current members, past contributors or even new members to the project to participate.
+For example, if you host your coworking calls for an open source project such as _The Turing Way_, you can expect your current members, past contributors or even new members of the project to participate.
 If you are part of a small project, you would expect the same familiar faces in all your coworking calls.
 
 **Organisers and hosts**
@@ -86,7 +86,7 @@ Please see the subchapter {ref}`Tools for Remote Collaboration<cl-event-tools>` 
 As discussed earlier, you will need to agree upon dates and times with people who would like to participate in coworking calls.
 Your calls could be organised on a weekly or monthly basis that consistently takes place on a certain day and time, or it could be organised once in a while by finding a common availability.
 
-Once you have found a schedule (date, time and frequency), the following tasks will will go into planning them:
+Once you have found a schedule (date, time and frequency), the following tasks will go into planning them:
 - Update the schedule, agenda and calendar to share them with the attendees (or potential target audience). It is also effective when they receive a calendar invite.
 - Maintain communication (by email, newsletter, or social media) so that everyone is aware of the next calls and the resources available for them to participate.
 
@@ -102,7 +102,7 @@ Though discussed last, this should be your highest priority.
 You should design these calls to make everyone feel welcome, involved and safe.
 It's highly recommended to choose a Code of Conduct and put reporting guidelines in place to share with everyone in advance.
 See this minimal [CoC from Contributor Covenant](https://www.contributor-covenant.org/) and an expanded version of {ref}`The Turing Way CoC<ch-coc>`.
-Additionally, you should also communicate the basic etiquettes, such as muting microphones when not speaking or not interrupting others when working in a Pomodoro session unless necessary.
+Additionally, you should also communicate the basic etiquette, such as muting microphones when not speaking or not interrupting others when working in a Pomodoro session unless necessary.
 
 It is useful to let everyone know who they can contact if they need help in troubleshooting during the call or need more time to discuss their ideas.
 Create an agenda that states clearly what is expected of them, such as if they should bring their tasks and questions to the call or communicate them beforehand.

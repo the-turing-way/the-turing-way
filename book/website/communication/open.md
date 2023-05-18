@@ -20,7 +20,7 @@ Related information to Open Scholarship can be found in the {ref}`rr-open` chapt
 (cm-open-summary)=
 ## Summary
 
-Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship [{term}def<Open Scholarship>]. 
+Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship [{term}`def<Open Scholarship>`]. 
 Open scholarship aims to transform research by making it more reproducible, transparent, reusable, collaborative, accountable, and accessible to society.
 This chapter aims to give a brief overview of the multiple aspects of open scholarship.
  
