@@ -8,7 +8,7 @@ We should also consider how user-friendly they are and how they impact the engag
 Here is a list of some popular tools for facilitating different aspects of collaboration discussed in the other chapters.
 Please note that we are not a listing conference or webinar-related tools, but only providing those tools that facilitate interactive (hence, collaborative) formats.
 Though we assume 'virtual first' approach for inclusive events, these recommendations can be used for remote or in-person meetings as well with minor changes to adapt to a physical location.
-If you are looking for more information on how to facilitate collaboration within a research team, see the {ref}`team manual<cl-team-manual>`
+If you are looking for more information on how to facilitate collaboration within a research team, see the {ref}`team manual<cl-team-manual>`.
 
 ## Task management tools
 
@@ -45,8 +45,8 @@ This is especially important for creating an opportunity for those who can not (
 It is important to create shared notes, but also to save them to share with others and to make them available to refer back to later.
 
 - [Google Drive](https://en.wikipedia.org/wiki/Google_Drive): Google Drive is a file storage and synchronization service developed by Google.
-- [DropBox](https://www.dropbox.com/): Dropbox is a file hosting service operated by the American company Dropbox.
-- [owncloud](https://owncloud.com/): ownCloud is a suite of client-server software for creating and using file hosting services. ownCloud functionally has similarities to the widely used Dropbox.
+- [DropBox](https://www.dropbox.com/): Dropbox is a widely used file hosting service.
+- [owncloud](https://owncloud.com/): ownCloud is a suite of client-server software for creating and using file hosting services. ownCloud functionally has similarities to Dropbox.
 - [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/free-trial/) and [BitBucket](https://bitbucket.org/product): Platforms for hosting, sharing and collaborating on documents and software with a version control system (see [this post for detail/difference](https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab)).
 
 ## Managing participant confirmations
