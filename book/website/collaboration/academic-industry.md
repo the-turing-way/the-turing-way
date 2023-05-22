@@ -1,0 +1,38 @@
+(cl-academic-industry)=
+
+# Academic-Industry Collaborations
+
+(cl-academic-industry-prerequisites)=
+
+## Prerequisites
+
+
+| Prerequisites | Importance | Skill Level | Notes | 
+| -------- | -------- | -------- |-------- |
+| {ref}`Project Design <pd-overview>`  | Helpful    | Beginner     | This guide has lots of useful information that would be helpful to consider when starting a collaboration
+| {ref}`Community Managers: Overview<cl-infrastructure-community-managers>` and {ref}`Guide to Planning a Community<cl-new-community-guide>`  | Helpful    | Beginner     | An overview of the Community Manager Role and the Guide to Planning a Community are helpful context for the Community Building Subchapter in this section 
+
+(cl-academic-industry-summary)=
+
+## Summary
+Academic-Industry collaborations can take many forms, but put simply they are when an academic institution or university collaborates with a corporate business such as a pharmaceutical company, a consulting firm or a technology company. 
+
+Whilst academia and industry are often viewed with having differing cultures, research aims and ways of working, there can be many advantages of bridging this perceived gap and working collaboratively. 
+
+Some of these advantages include:
+* Access to and leveraging resources on both sides, such as funding, research expertise and skills and real-world data
+* Combining basic research (often focused more on the academia side) and applied research (often focused more on the industry side)
+* Accelerating innovation and societal impact through working together on a shared research problem
+* Experience and increased career opportunities for students and researchers working as part of the collaboration
+
+(cl-academic-industry-motivation)=
+
+## Motivation and Background 
+Academic-Industry collaborations are becoming more popular, with the [number of them more than doubling between 2012 and 2016](https://www.nature.com/nature-index/news-blog/the-shifting-corporate-academic-relationship-in-pictures). 
+
+Whilst a lot of the chapter content can be applied to any collaboration, we hope it will give insights into how to set up for success in practice for a partnership between academia and industry, through navigating expectations, ways of working and bringing in elements such as community building. 
+
+The basis of the following subchapters are mainly from the experience of the [Turing-Roche partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership). 
+We would welcome any further input and content from other academic-industry collaborations.
+
+In this chapter we are using the terms 'collaboration' and 'partnership' interchangeably but understand these may confer different meanings depending on the context.
