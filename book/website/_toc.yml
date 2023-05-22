@@ -122,6 +122,15 @@ parts:
                 file: reproducible-research/rdm/rdm-checklist
               - title: Resources
                 file: reproducible-research/rdm/rdm-resources
+          - title: Repositories and archives
+            file: reproducible-research/repo
+            sections:
+              - title: Introduction to repositories
+                file: reproducible-research/repo/repo-intro
+              - title: Types of repositories
+                file: reproducible-research/repo/repo-types
+              - title: Open Science Framework
+                file: reproducible-research/repo/repo-osf
           - title: Reproducible Environments
             file: reproducible-research/renv
             sections:
