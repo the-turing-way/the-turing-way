@@ -7,7 +7,7 @@
 # Book settings
 title                       : The Turing Way  # The title of the book. Will be placed in the left navbar.
 author                      : The Turing Way Community  # The author of the book
-copyright                   : "2020-2021"  # Copyright year to be placed in the footer
+copyright                   : "2019-2023"  # Copyright year to be placed in the footer
 logo                        : "./figures/logo-detail-with-text.svg"  # A path to the book logo
 email                       : "theturingway@gmail.com"
 exclude_patterns            : ["LICENSE.md"]  # Patterns to skip when building the book. Can be glob-style (for example "*skip.ipynb")
@@ -32,8 +32,10 @@ html:
   baseurl                   : "https://the-turing-way.netlify.com"  # The base URL where your book will be hosted. Used for creating image previews and social links. for example: https://mypage.com/mybook/
   extra_navbar              : Visit our <a href="https://github.com/alan-turing-institute/the-turing-way">GitHub Repository</a>
     <div>This book is powered by <a href="https://jupyterbook.org">Jupyter Book</a></div>
+  extra_footer: |
+    The Turing Way Community makes all of their materials publicly available under  <a href="https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md">open source licenses</a>
   comments:
-    hypothesis: true
+    hypothesis              : true
 
 #######################################################################################
 # Launch button settings
@@ -54,6 +56,8 @@ sphinx:
   extra_extensions          :  # A list of extra extensions to load by Sphinx.
   config                    :  # key-value pairs to directly over-ride the Sphinx configuration
     language                : en
+    html_js_files: [ ['https://plausible.io/js/script.js', {'defer': 'defer', 'data-domain': 'the-turing-way.netlify.app'}] ]
+    html_show_copyright     : false
 
 bibtex_bibfiles:
     - _bibliography/references.bib

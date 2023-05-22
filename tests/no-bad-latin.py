@@ -5,7 +5,7 @@ from pull_files import filter_files
 
 HERE = os.getcwd()
 ABSOLUTE_HERE = os.path.dirname(HERE)
-IGNORE_LIST = ["config.yml", "style.md", "contributors-record.md"]
+IGNORE_LIST = ["config.yml", "style.md", "contributors-record.md", "references.bib"]
 
 
 def parse_args():

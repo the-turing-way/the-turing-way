@@ -10,7 +10,7 @@
 # ===== Main Landing Page ========================================
 
 format: jb-book
-root: welcome
+root: index
 parts:
   - chapters:
       # ===== Guide for Reproducible Research ========================================
@@ -521,6 +521,8 @@ parts:
                 file: collaboration/new-community/new-community-differences
               - title: Teamwork
                 file: collaboration/new-community/new-community-teamwork
+          - title: Team Manual
+            file: collaboration/team-manual
           - title: Leadership in Data Science
             file: collaboration/leadership
             sections:
@@ -554,6 +556,8 @@ parts:
                 file: collaboration/remote-collab/remote-collab-guidelines
               - title: Managing Distributed Teams
                 file: collaboration/remote-collab/remote-collab-team
+              - title: Useful Resources
+                file: collaboration/remote-collab/remote-collab-useful-resources
           - title: Shared Ownership in Open Source Projects
             file: collaboration/shared-ownership
             sections:
@@ -565,6 +569,8 @@ parts:
                 file: collaboration/shared-ownership/shared-ownership-challenges
               - title: Nudging for a Better Default
                 file: collaboration/shared-ownership/shared-ownership-defaults
+          - title: Sustainability of Open Source Projects
+            file: collaboration/oss-sustainability/oss-sustainability-challenges
 
       # ===== Guide for Ethical Research ========================================
 
@@ -653,6 +659,8 @@ parts:
                 file: community-handbook/consistency/consistency-structure
               - title: Language
                 file: community-handbook/consistency/consistency-language
+          - title: Build the Turing Way Book locally
+            file: community-handbook/local-build
           - title: Contributing and Developing Chapters - Templates and Workflow
             file: community-handbook/contributing
             sections:
@@ -706,6 +714,11 @@ parts:
                 file: community-handbook/coworking/coworking-organisation
           - title: Fireside Chat Series
             file: community-handbook/fireside-chat
+            sections:
+              - title: Fireside Chat Planning Checklist
+                file: community-handbook/fireside-chat/fireside-chat-checklist
+              - title: Fireside Chat Roles and Responsibilities
+                file: community-handbook/fireside-chat/fireside-chat-roles
           - title: Giving a Turing Way Talk
             file: community-handbook/presenting
           - title: Template Collection
@@ -729,6 +742,17 @@ parts:
                 file: community-handbook/templates/template-newsletter-draft
               - title: Template for Fireside Chat Shared Notes
                 file: community-handbook/templates/template-fireside-chat
+          - title: Translation and Localisation
+            file: community-handbook/translation
+            sections:
+              - title: Localisation
+                file: community-handbook/translation/translation-localisation
+              - title: Workflow
+                file: community-handbook/translation/translation-workflow
+              - title: Getting started
+                file: community-handbook/translation/translation-getting-started
+              - title: Hello Crowdin
+                file: community-handbook/translation/translation-hello-crowdin
 
       # ===== Afterword ========================================
 

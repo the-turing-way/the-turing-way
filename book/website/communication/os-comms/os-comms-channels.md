@@ -34,7 +34,7 @@ Here are some of the questions one might wish to ask when thinking about each fe
 - **Social sharing:** Can conversations easily be shared on social media platforms for the purposes of promotion or community engagement?
 - **User profiles:** Is it easy to tell who is participating in the conversation and what their roles are on the project?
 - **"Following"/"blocking" capabilities:** Can users choose whose messages they are alerted to?
-- **Searchable by topic:** Can the conversations by categorised and searched by category?
+- **Searchable by topic:** Can the conversations be categorised and searched by category?
 - **Easily exportable:** Are the conversations stored in a consistent format? Are tools available to export the conversations (to an archive, for example)?
 
 | Feature | Mailing Lists | Forums | Chat |

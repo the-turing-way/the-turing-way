@@ -166,50 +166,56 @@ Other organisations that offer training and support on how to campaign effective
 We recognise that the list below is very UK-centric and would welcome additions for other countries.
 
 #### Global
-* Tech Workers Coalition, Global (organisation focused on tech workers in industry) [website](https://techworkerscoalition.org/)
+* Tech Workers Coalition, Global (organisation focused on tech workers in industry) ([website](https://techworkerscoalition.org/))
 
 #### United Kingdom
-* **Unite**, United Kingdom, the largest professional services union with over 1 million members [website](https://unitetheunion.org/)
-* **University & Colleges Union (UCU)**, United Kingdom, covers researchers, academic staff and higher grades of professional services staff in Higher Education & Further Education institutions [website](https://www.ucu.org.uk/)
-* **Prospect**, United Kingdom, union covering scientists & engineers [website](https://members.prospect.org.uk/our-industries/science/index)
-* **Public and Commercial Services Union (PCS)**, United Kingdom, civil service union [website](https://www.pcs.org.uk/about-pcs)
-* United Voices of the World (UVW), Charity Sector Workers Branch [website](https://www.uvwunion.org.uk/en/sectors/charity-sector/)
-* Independent Workers’ Union of Great Britain (IWGB), Charity Sector Workers Branch [website](https://iwgb.org.uk/page/iwgb-charity-workers-branch/)
+* **United Tech and Allied Workers (UTAW)**, United Kingdom, a branch of the Communication Workers Union, covering all workers at tech and data science companies, regardless of pay grade or employment status. 
+It is an industrial union organised by and for technology workers. ([website](https://utaw.tech/about/))
+* **Unite**, United Kingdom, the largest professional services union with over 1 million members ([website](https://unitetheunion.org/))
+* **University & Colleges Union (UCU)**, United Kingdom, covers researchers, academic staff and higher grades of professional services staff in Higher Education & Further Education institutions ([website](https://www.ucu.org.uk/))
+* **Prospect**, United Kingdom, union covering scientists & engineers ([website](https://members.prospect.org.uk/our-industries/science/index))
+* **Public and Commercial Services Union (PCS)**, United Kingdom, civil service union ([website](https://www.pcs.org.uk/about-pcs))
+* **United Voices of the World (UVW), Charity Sector Workers Branch** ([website](https://www.uvwunion.org.uk/en/sectors/charity-sector/))
+* **Independent Workers’ Union of Great Britain (IWGB), Charity Sector Workers Branch** ([website](https://iwgb.org.uk/page/iwgb-charity-workers-branch/))
     * IWGB also has a number of branches covering cleaners, receptionists and game industry workers
 
 #### Ireland
-* **Medical Laboratory Scientists Association (MLSA)**, Ireland, is the sole trade union representing over 1600 Medical Scientists in Ireland [website](https://mlsa.ie/who-we-are)
+* **Medical Laboratory Scientists Association (MLSA), Ireland** is the sole trade union representing over 1600 Medical Scientists in Ireland ([website](https://mlsa.ie/who-we-are))
 
 #### France
-* **Confédération Française Démocratique du Travail (CFDT)** is the largest French trade union confederation by number of members. It originated as a secular branch of the Christian trade union Confédération Française des Travailleurs Chrétiens (CFTC) [website](https://cfdt.fr/)
-* **Confédération Générale du Travail (CGT)** is the second largest French trade union by number of members. The CGT is concentrating its attention to trade-unionism in the private sector [website](https://www.cgt.fr/)
-* **Confédération Générale du Travail-Force Ouvrière (CGT-FO)** was founded by former members of the General Confederation of Labor (CGT) who accused that federation to be influenced by the French Communist Party [website](https://www.force-ouvriere.fr/?lang=fr)
-* **Confédération Française de l’Encadrement-Confédération Générale des Cadres (CFE-CGC)** is solely focused on organising unions for professional employees having higher education or in management or executive positions [website](https://cfecgc.org/)
+* **Confédération Française Démocratique du Travail (CFDT)** is the largest French trade union confederation by number of members. It originated as a secular branch of the Christian trade union Confédération Française des Travailleurs Chrétiens (CFTC) ([website](https://cfdt.fr/))
+* **Confédération Générale du Travail (CGT)** is the second largest French trade union by number of members. The CGT is concentrating its attention to trade-unionism in the private sector ([website](https://www.cgt.fr/))
+* **Confédération Générale du Travail-Force Ouvrière (CGT-FO)** was founded by former members of the General Confederation of Labor (CGT) who accused that federation to be influenced by the French Communist Party ([website](https://www.force-ouvriere.fr/?lang=fr))
+* **Confédération Française de l’Encadrement-Confédération Générale des Cadres (CFE-CGC)** is solely focused on organising unions for professional employees having higher education or in management or executive positions ([website](https://cfecgc.org/))
 
 #### Italy
-* **Confederazione Generale Italiana Lavoratori (CGIL)** is the largest Italian union that counts more than 5 million members [website](http://www.cgil.it/)
-* **Confederazione Italiana Sindacato dei Lavoratori (CISL)** is based on Roman Catholic values groups linked with Christian Democracy [website](https://www.cisl.it/ )
-* **Unione Italiana Lavoratori  (UIL)** is the socialist, social democratic, (republican) and secular split from the CGIL [website](https://www.uil.it/)
-* **Unione Sindacale Professori e Ricercatori (USPUR)** is aimed at university professors and researchers [website](https://www.uspur.it/)
-* **Unione Degli Universitari  (UDU)** is focused on improving the university students experience and future career [website](https://www.unionedegliuniversitari.it/)
+* **Confederazione Generale Italiana Lavoratori (CGIL)** is the largest Italian union that counts more than 5 million members ([website](http://www.cgil.it/))
+* **Confederazione Italiana Sindacato dei Lavoratori (CISL)** is based on Roman Catholic values groups linked with Christian Democracy ([website](https://www.cisl.it/))
+* **Unione Italiana Lavoratori  (UIL)** is the socialist, social democratic, (republican) and secular split from the CGIL ([website](https://www.uil.it/))
+* **Unione Sindacale Professori e Ricercatori (USPUR)** is aimed at university professors and researchers ([website](https://www.uspur.it/))
+* **Unione Degli Universitari  (UDU)** is focused on improving the university students experience and future career ([website](https://www.unionedegliuniversitari.it/))
 
 #### Spain
-* **Unión General de Trabajadores (UGT)** is a major Spanish trade union, historically affiliated with the Spanish Socialist Workers' Party (PSOE) [website](https://www.ugt.es/)
-* **Confederación Sindical de Comisiones Obreras (CCOO)** is the second largest union in Spain and is the most successful one in labor elections [website](https://www.ccoo.es/)
+* **Unión General de Trabajadores (UGT)** is a major Spanish trade union, historically affiliated with the Spanish Socialist Workers' Party (PSOE) ([website](https://www.ugt.es/))
+* **Confederación Sindical de Comisiones Obreras (CCOO)** is the second largest union in Spain and is the most successful one in labor elections ([website](https://www.ccoo.es/))
 * **Federacion de Jovenes Investigadores (FJI-Precarios)** is focused on improving the labour conditions of young researchers, defending the dignity of the research profession, and overall, improving the situation of science in Spain
-[website](http://precarios.org/Qui%C3%A9nes+somos)
+([website](http://precarios.org/Qui%C3%A9nes+somos))
 
+#### Argentina
+* **APINTA (Asociación del Personal del Instituto Nacional de Tecnología Agropecuaria, Staff Association of the National Institute of Agricultural Technology)** is the entity that groups together all workers who have an employment relationship with INTA, as well as its retirees and pensioners ([website](https://www.apinta.org/))
+* **CONADU: Federación Nacional de Docentes Universitarios (National University Teachers Federation)** Main objectives are the defense of:
+Public, Free, Democratic, Popular, Feminist and Latin American University; salary, working conditions, training and teaching careers; access, permanence and graduation of students in Higher Education; research and the production of knowledge, science and technology; the linkage of the university with the State and society to promote national and regional development ([website](https://conadu.org.ar/))
 
 #### United States
-* **Graduate Student Unions** at multiple universities and colleges are organising [Wikipedia page](https://en.wikipedia.org/wiki/Graduate_student_employee_unionization)
+* **Graduate Student Unions** at multiple universities and colleges are organising ([Wikipedia page](https://en.wikipedia.org/wiki/Graduate_student_employee_unionization))
 
 #### Australia
-* **Professional Scientists Australia**, Australia (union covering industry scientists)[website](https://scientists.professionalsaustralia.org.au/)
+* **Professional Scientists Australia**, Australia (union covering industry scientists)([website](https://scientists.professionalsaustralia.org.au/))
 * [General list of Trade Unions in Australia](https://en.wikipedia.org/wiki/List_of_trade_unions_in_Australia)
 
 #### The Netherlands
-* **Federatie Nederlandse Vakbeweging (FNV)** is the largest trade union in The Netherlands with over 1 million members [website](https://www.fnv.nl/)
-* **Algemene Onderwijsbond (AOb)** has over 83.000 members and represents teachers and researchers in all education sectors [website](https://www.aob.nl/)
+* **Federatie Nederlandse Vakbeweging (FNV)** is the largest trade union in The Netherlands with over 1 million members ([website](https://www.fnv.nl/))
+* **Algemene Onderwijsbond (AOb)** has over 83.000 members and represents teachers and researchers in all education sectors ([website](https://www.aob.nl/))
 * **Vakbond voor de wetenschap (VAWO)** was a labour union that specifically targetted scientific researchers which merged with the AOb in early 2022.
 
 (er-activism-unionisation-summary)=
