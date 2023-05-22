@@ -1,9 +1,10 @@
 (pd-overview-planning)=
-# Planning for Project Design
+# Getting Start with Project Design
 
 Thinking about reproducibility from the start of your project is the best way to save time and get the most out of the available tools.
 Creating connections between data, code, methodology, as well as diverse collaborators, can seem like a daunting task if it has not been planned from the beginning (see this illustration of {ref}`Research Cycle<research-cycle>`).
 By documenting and sharing project workflows and processes for research and researchers we can ensure sustainability and reusability of research for both the developers and future users.
+In addition, planning your project at the start can help you make sure that you are meeting any funder requirements, 
 
 A human-centred approach in the context of the research project can lead to a better development process, maintenance, and future extension of our work.
 Furthermore, it will help improve the quality of future project design as we can learn lessons from what worked and what can be improved.
@@ -18,12 +19,49 @@ It also requires researchers to explore the possible outcomes, plans to address 
 Project design practices help all stakeholders to be certain about their roles and responsibilities, skill requirements, environment and research setup they want to create for their collaborators, values they want to promote and how they can achieve their goals collaboratively.
 
 (pd-overview-planning-started)=
-## Getting Started
+## Getting Started Checklist 
 
 We can begin with the project design process by identifying different parts of our research such as main research questions, methods and materials, code and data requirement, workflow, communication channels, ways of working, collaborative practices and so on.
 This process allows us to be intentional from the start to ensure that our research is reproducible, well communicated and inclusive of all stakeholders where decisions are collaboratively made.
 We can explore and select the right tools and methods for reproducibility in our research and promote good practices such as documentation, version control, peer-review processes, testing, workflow, archiving and data management plan can be promoted from the beginning.
 Finally, we can plan for publishing and sharing of research components before, during and after the project.
+Below is a checklist you can use to help identify areas of project planning you might want to look at. 
+
+### Aims & Values 
+* X
+* X
+* X
+
+### Timeline & Milestones 
+* X
+* X
+* X
+
+### Methodology
+* X
+* X
+* X
+
+### Operations 
+* X
+* X
+* X
+
+### Outputs 
+* X
+* X
+* X
+
+
+### Community & Communications 
+* X
+* X
+* X
+
+### Maintenance & Archiving 
+* X
+* X
+* X
 
 (pd-overview-planning-ethics)=
 ## Getting Ethical and Legal Approval
@@ -44,7 +82,7 @@ There are several ways in which a research ethics committee (RECs) proceeds, but
 5. Further Societal Consequences
 
 The {ref}`Research Ethics Committees Processes<er-committees>` chapter have more information about each item.
-Read other chapters in the {ref}`Guide for Ethical Research<er>`.
+Read other chapters in the {ref}`Guide for Ethical Research<er>` for more guidance on how to .
 
 ## Organising Files and Documents
 
