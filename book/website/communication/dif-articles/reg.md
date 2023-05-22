@@ -90,7 +90,9 @@ It may be useful to focus on the following for review stage 1 and stage 2 papers
 
 **Why did you choose to publish a Registered Report?**
 
-I was inspired to write a registered report by a talk given by Chris Chambers at my university. I realised that the projects for my doctoral thesis would have benefited from a clear design upfront. I was the first one trying this at my institution, so I also took it as a career challenge to improve my scientific practices and perhaps convince others that the undertaking was not so difficult.
+I was inspired to write a registered report by a talk given by Chris Chambers at my university. 
+I realised that the projects for my doctoral thesis would have benefited from a clear design upfront. 
+I was the first one to try this at my institution, so I also took it as a career challenge to improve my scientific practices and perhaps convince others that the undertaking was not so difficult.
 
 **How did you get started?**
 
