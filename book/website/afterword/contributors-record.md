@@ -3,12 +3,12 @@
 ```
 
 (contributors-record-all)=
-# All Contributors
+## All Contributors
 
 ✨Using [all-contributors](https://allcontributors.org/) specification, _The Turing Way_ recognises all contributors, not just the ones who push code. ✨
 
 (contributors-record-contributors)=
-## Contributors
+### Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -603,21 +603,21 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 Contributions of any kind welcome!
 
 (contributors-record-collaborators)=
-# Collaborating Organisations and Projects
+## Collaborating Organisations and Projects
 
 *The Turing Way community receives in-kind contributions from members supported by their employers, projects or organisations for their participation.
 Such contributions are applicable when one or multiple members from a project or organisation collaborate to build and maintain resources in The Turing Way.
 These contributions also include projects that build upon The Turing Way resources or collaborate with The Turing Way team members in various capacities.
 We acknowledge each of these contributing members individually and list their profiles under “Collaborating organisations and projects”.*
 
-## [Delft University of Technology - Faculty of Applied Sciences](https://www.tudelft.nl/en/faculty-of-applied-sciences)
+### [Delft University of Technology - Faculty of Applied Sciences](https://www.tudelft.nl/en/faculty-of-applied-sciences)
 
 The Faculty of Applied Sciences is the largest of Delft University of Technology and focuses on finding innovative solutions to some of the problems faced by society.
 Development of the fundamental knowledge needed to underpin technical developments that can be widely used throughout society.
 In ensuring that this knowledge can be shared efectively with the wider society, the Faculty values the sharing of data and code and has a [Research Data Management policy](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/) in place since 2020.
 In this effort, the contributions from the Faculty of Applied Sciences have mainly focused on the Reproducible Research Chapter of _The Turing Way_.
 
-### Esther Plomp
+#### Esther Plomp
 
 * Roles:
   * Project Memebr (2020-Present)
@@ -645,7 +645,7 @@ Visit us at the [Open Research Calendar Website](https://openresearchcalendar.gi
 * Quote:
 > Being a part of the organising committee for the online Book Dashes was an exciting opportunity for me to look behind the organisation scenes and to be a part of an amazing team. The BookDashes themselves are absolutely amazing, especially the discussions and the 'show and tell' sessions!
 
-## [Netherlands eScience Center](https://www.esciencecenter.nl/)
+### [Netherlands eScience Center](https://www.esciencecenter.nl/)
 
 The Netherlands eScience Center is the Dutch national hub for the development and application of domain overarching software and methods for the scientific community. Their main goal is to enable scientists with varying computing experience to fully utilize the potential of the available e-infrastructure and allow them to achieve otherwise unreachable scientific breakthroughs. The Netherlands eScience Center is primarily funded by the national research council (NWO) and the national e-infrastructure organization (SURF) of the Netherlands.
 
@@ -653,7 +653,7 @@ The Netherlands eScience center maintains [its own guide](https://guide.escience
 
 Details of each members with their contributions have been listed alphabetically.
 
-### Carlos Martinez Oritz
+#### Carlos Martinez Oritz
 
 * Role:
   * Project Memebr (2020-Present)
@@ -671,7 +671,7 @@ Details of each members with their contributions have been listed alphabetically
 * More information:
 > I am a big advocate of improving software quality. I am really glad that the eScience center is collaborating with _The Turing Way_ in providing guidelines and helping build better research software.
 
-### Mateusz Kuzak
+#### Mateusz Kuzak
 
 * Role:
   * Project Memebr (2020-Present)
@@ -684,7 +684,7 @@ Details of each members with their contributions have been listed alphabetically
 * Personal highlights:
 > I have personally contributed to _The Turing Way_ by drafting chapters in the guide for Reproducible Research, reviewed other contributor's Pull Requests and mentored contributions from Netherlands eScience Center.
 
-## [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html)
+### [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html)
 
 FAIR Cookbook is an online resource that helps researchers and data managers professionals make their data Findable, Accessible, Interoperable and Reusable (FAIR).
 FAIRPlus Cookbook builds on _The Turing Way_ project and community models, and provides chapters as "recipes" according to the FAIR elements, audience type, reading time, and level of difficulty.
@@ -694,7 +694,7 @@ FAIR Cookbook [features relevant chapters from _The Turing Way_](https://fairplu
 Similarly, _The Turing Way_ features the project and provides an impact story titled [From FAIR Co-Author to FAIR Doer](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-stories.html) by Susanna-Assunta Sansone (a co-lead of the FAIR Cookbook project).
 You can find more details and background in the chapter [Leveraging the Turing Way Book](https://fairplus.github.io/the-fair-cookbook/content/recipes/introduction/the-turing-way.html?highlight=turing).
 
-### Susanna-Assunta Sansone
+#### Susanna-Assunta Sansone
 
 * Role: 
   * Book Dash Participant 2019
@@ -713,7 +713,7 @@ You can find more details and background in the chapter [Leveraging the Turing W
 > She also conducts research-on-research, to improve how research is practiced and shared.
 > Specifically, she strives to make digital research objects, including data, Findable, Accessible, Interoperable and Reusable, FAIR, for humans and for machines.
 
-### Philippe Rocca-Serra
+#### Philippe Rocca-Serra
 
 * Role: 
   * Book Dash Participant 2020
@@ -725,7 +725,7 @@ You can find more details and background in the chapter [Leveraging the Turing W
 * Personal highlights:
 > TBA
 
-## [Open Life Science](https://openlifesci.org/)
+### [Open Life Science](https://openlifesci.org/)
 
 Under the collaboration name OLS-4 for Turing, _The Turing Way_ collaborates with [Open Life Science (OLS)](https://openlifesci.org), a programme that helps individuals and stakeholders in research to become Open Science ambassadors.
 This programme is cofounded by Bérénice Batut, Malvika Sharan and Yo Yehudi.
@@ -735,12 +735,12 @@ They develop Open Science aspects in the projects that they either already have 
 You can see the projects that participated in the second round - [OLS-2](https://openlifesci.org/ols-2/projects-participants/) and the third round - [OLS-3](https://openlifesci.org/ols-3/projects-participants/).
 This collaboration was awarded the Turing Online Training grant to support Turing projects in the fourth round ([OLS-4](https://openlifesci.org/funders)) and share materials openly in the Turing training network.
 
-## [Remote Computational Project Resource](https://isabelbirds.github.io/Remote-Computational-Project-Resource/welcome.html)
+### [Remote Computational Project Resource](https://isabelbirds.github.io/Remote-Computational-Project-Resource/welcome.html)
 
 This resource was started by Isabel Birds during the COVID-19 pandemic to support students transferred from wet to remote dry lab projects at short notice.
 This project includes links to (1) general tutorials for the complete beginner, (2) tutorials for specific analyses or pipelines, (3) free online textbooks, and (4) places to ask for help.
 
-### Isabel Birds
+#### Isabel Birds
 
 * GitHub id: [IsabelBirds](http://github.com/IsabelBirds)
 * ORCID: [0000-0001-8173-3879](https://orcid.org/0000-0001-8173-3879)
