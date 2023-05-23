@@ -48,7 +48,7 @@ To learn more about how to create a reproducible environment, the chapter on {re
 
 After you have decided how to collect your data, analyze it and which tools to use, a good way to document these decisions is by writing a Registered Report.
 
-A Registered Report highlights the importance of the research question and the methods that will be used. They are peer-reviewed before the research, switching the focus of the review from the results to the substance of the research methods.
+A Registered Report highlights the importance of the research question and the methods that will be used. They are peer-reviewed before the research, switching the focus of the review from the results to the substance of the research methods. You can find out more in our {ref}`Chapter on Registered Reports<cm-dif-articles-registered-reports>`.
 
 (pd-overview-planning-help)=
 ## Collaborating and Asking for Help

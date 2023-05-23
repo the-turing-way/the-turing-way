@@ -12,6 +12,7 @@ The benefit of a Data Article is that your output will be {ref}`peer reviewed<cm
 It also facilitates recognition for datasets through research assessment procedures that are more traditionally focused on publication output.
 Publishing a data paper will therefore increase the visibility, credibility and usability of the data, as well as giving you credit as a data producer.
 
+You can find out more in our {ref}`subchapter on publishing a data article<cm-dif-articles-data>`.
 
 (rr-rdm-article-options)=
 ## Options to publish a Data Article

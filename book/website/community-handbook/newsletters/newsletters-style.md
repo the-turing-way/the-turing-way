@@ -1,16 +1,16 @@
 (ch-newsletters-style)=
-# Newsletter's Style Guide
+# Newsletter Style Guide
 
 In the previous subchapter, we described the process of drafting, reviewing and publishing _The Turing Way_'s monthly newsletters.
 
 In this document, we have listed some guidelines to maintain consistency across all the newsletters.
 
 - **File format**: Draft the newsletter in [Markdown](https://en.wikipedia.org/wiki/Markdown)
-- **Filename**: Create a filename with the "newsletter_serial_MonthYYYY.md " format, where "serial" should be replaced by the serial number (in numerical) of the newsletter, the month should be replaced by the short name of the month and YYYY with the year in numerical.
+- **Filename**: Create a filename with the "newsletter_serial_MMYYYY.md " format, where "serial" should be replaced by the serial number (in numerical) of the newsletter, the month should be replaced by the short name of the month and YYYY with the year in numerical.
 - **File location on _The Turing Way_ GitHub**: The newsletters are currently stored in the path "the-turing-way/communications/newsletters/".
     - This location also consists of a "README.md" file that has a table for all the published newsletters that are updated after each release.
     - This location has a folder called "images" that centrally holds all the images and linked to the corresponding newsletters.
-- **Dates**: "DD Month YYYY" format
+- **Dates**: "DD MM YYYY" format
     - use it consistently in the entire document
     - To reflect a range, use "from DD to DD Month YYYY" format.
     - Even if the sentences have reference to a day in "yesterday", "today" or "tomorrow", provide the exact date inside parenthesis so that it still makes sense if someone reads a newsletter in the future.
@@ -18,6 +18,7 @@ In this document, we have listed some guidelines to maintain consistency across 
 - **Links**: Use the Markdown formatting for link like this, `[text that needs to be linked](full HTTP link)`
     - Provide links wherever useful, for example, [HackMD for Collaboration Café](https://hackmd.io/@KirstieJane/CollabCafe), [GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues), [registration pages](https://www.eventbrite.co.uk/) and [see details](https://github.com/alan-turing-institute/the-turing-way).
     - Create link for email ids using this Markdown syntax - ``[real-email-id](mailto:real-email-id)``
+    - [Too many links](https://intelligentcontacts.com/7-tips-to-keep-your-emails-out-of-the-spam-filter/) can trigger the spam filter on a recipient's inbox. try to keep them to a mimumum if you can.
 - **Quoting others**: Use smaller than (>) symbol followed by a space before the quoted sentence. For example:
     `> This is my legendary quote.` will appear as:
     > This is my legendary quote.
@@ -42,7 +43,7 @@ In this document, we have listed some guidelines to maintain consistency across 
     - When drafting the newsletter on the GitHub, upload the images in the folder "the-turing-way/communications/newsletters/".
     - File naming convention for the images is "short-name-monthYYYY.png", where the short-name should be replaced with the identifiable short name of the image, the month should be replaced by the short name of the month and YYYY should be replaced by the year.
     - File extension can be '.jpg', '.png' or other with compatible image file type.
-    - Use Markdown syntax to link the images in the newsletter: `![](image/path)`. 
+    - Use Markdown syntax to link the images in the newsletter: `![](image/path)`.
     - As suggested in [_The Turing Way_ style guide](https://the-turing-way.netlify.app/community-handbook/style/style-figures.html), create an alt text for the image: `![Alt: Description of the image - this is not the title but actual explanation of the image](image/path)`
     - Below the image, write a short descriptive title for the image followed by an empty line.
     Link title to the source such as a tweet or related event.

@@ -6,7 +6,7 @@
 Data science is defined by its interdisciplinarity.
 Our work can only reach its highest potential if there are diverse teams of people involved in designing and delivering the research or product.
 
-```{figure} ../figures/collaboration.jpg
+```{figure} ../figures/collaboration.*
 ---
 name: collaboration
 width: 500px

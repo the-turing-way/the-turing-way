@@ -85,7 +85,8 @@ The UK Data Service offer templates of both documents [online](https://www.ukdat
 ## Privacy and Security
 >How will you ensure that any sensitive information your project uses is kept secure and made accessible only to pertinent members of the research team?
 
-**Justification.** Privacy is a fundamental human right (see this [draft chapte](https://github.com/alan-turing-institute/the-turing-way/pull/1394/files?short_path=b95854e#diff-b95854e17574ab3b68f2f89991e4dddf199e01901dc8e235d87e2b0c8980a4d9) for *The Turing Way* for more on human rights).
+**Justification.** Privacy is a fundamental human right (see this [chapter](https://the-turing-way.netlify.app/ethical-research/law-policy.html) for *The Turing Way* for more on human rights).
+
 Therefore, it is critical that projects be conducted in a way that respects privacy.
 
 **Responding to this question** might require a review of your institution's internal policies.

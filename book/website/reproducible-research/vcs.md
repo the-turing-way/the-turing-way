@@ -25,7 +25,7 @@ For example, when writing a paper with multiple collaborators, version control c
 
 
 
-```{figure}  ../figures/project-history.jpg
+```{figure}  ../figures/project-history.*
 ---
 name: project-history
 alt: Contrast in project history management. On the left - choosing between ambiguously named files. On the right - picking between successive versions (from V01 to V06).

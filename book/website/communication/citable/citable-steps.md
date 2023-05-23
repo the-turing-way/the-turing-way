@@ -27,13 +27,13 @@ You can learn more about the different types of research objects in the chapters
 (cm-citable-steps-publish)=
 ## 2. Publish your work online
 
-Online publications are attached to persistent identifiers that are used for citing them.
+Online publications are attached to [persistent identifiers](https://www.youtube.com/watch?v=iea6d5oI8Ag) that are used for citing them.
 It's important to note that not everything published online gets a unique identifier but it is important that research objects are published online with DOIs as described below.
 
 (cm-citable-steps-doi)=
 ### DOIs
 
-```{figure} ../../figures/DOI.jpg
+```{figure} ../../figures/DOI.*
 ---
 name: doi
 alt: This image shows three boxes with materials on top. The main box in the middle has 'identifiers' written on it with three discs on top of it that are labelled 'data sets'. Both boxes by their side have journal articles on top of them. An arrow on the top of the image points to these images as being 'Digital Object Identifiers'. There is text at the bottom of the image which says 'Persistent', 'Unique', 'Trusted'.
@@ -55,6 +55,8 @@ These journals are similar to methods journals, in that they tend not to include
 Some examples include:
 - [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/)
 - [Journal of Open Source Software](https://joss.theoj.org/)
+
+You can read more about these different article types in our {ref}`Chapter on Publishing Different Article Types<cm-dif-articles>`.
 
 (cm-citable-steps-referencing)=
 ## 3. Add Machine-Readable Referencing Information

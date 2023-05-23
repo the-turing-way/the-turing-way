@@ -18,10 +18,10 @@ Do not be discouraged if this list of tasks seems insurmountable.
 <a name="Good_practice_checks"></a>
 ## Good practice checks
 
-- [ ] Document the tests and how to run them.
-  - [ ] Write scripts to set up and configure any resources that are needed to run the tests.
-- [ ] Pick and make use of a testing framework.
-- [ ] Run the tests regularly.
-  - [ ] Automate the process of running tests. Consider making use of continuous integration (see continuous integration chapter) to do this.
-- [ ] Check the code coverage of your tests and try to improve it.
-- [ ] Engage in code review with a partner.
+- Document the tests and how to run them.
+  - Write scripts to set up and configure any resources that are needed to run the tests.
+- Pick and make use of a testing framework.
+- Run the tests regularly.
+  - Automate the process of running tests. Consider making use of continuous integration (see continuous integration chapter) to do this.
+- Check the code coverage of your tests and try to improve it.
+- Engage in code review with a partner.

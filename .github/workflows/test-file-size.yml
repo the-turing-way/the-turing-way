@@ -20,9 +20,9 @@ jobs:
     runs-on: ubuntu-latest
     # This section collects together the steps involved in running the test
     steps:
-    # Checkout the repository. Relies on another GH-Action.
-    - uses: actions/checkout@v2
-    # Run the script to check file sizes
-    - name: Check for large files
-      run: |
-        ./tests/test-file-size.sh
+      # Checkout the repository. Relies on another GH-Action.
+      - uses: actions/checkout@v3
+      # Run the script to check file sizes
+      - name: Check for large files
+        run: |
+          ./tests/test-file-size.sh

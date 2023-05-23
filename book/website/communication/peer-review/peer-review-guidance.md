@@ -24,10 +24,14 @@ Are you planning to submit your own work there?
 Is this journal an [Open Access](https://the-turing-way.netlify.app/reproducible-research/open/open-access.html) journal?
 Beware of [predatory journals](https://predatoryjournals.com/journals/).
 
-1. Check if you are the right person to review the paper. 
+1. Check if this paper is of interest to review and if you are the right person to review the paper. 
 Reviewers do not need to be experts in all respects. 
+The editor may ask you to focus on a specific aspect of the paper. 
+Alternatively, you may qualify your review with an indication of where you focused your review, if you do not feel you have the necessary expertise to evaluate all aspects of the paper.
 It is a good practice to describe your disciplinary background and expertise in relation to the manuscript you are invited to review.
 If you do not have useful expertise to improve the paper, politely decline.
+If you do not have sufficient time to review the paper, politely decline. 
+Recommending other potential reviewers when declining is helpful, but not necessary - a timely accept/decline response to the review request is more important.
 
 1. Check whether you know the author(s). 
 If you do, you might describe how you know the author(s) and ask the editor whether it is appropriate for you to review the paper.
@@ -81,30 +85,45 @@ Also be mindful of disciplinary and cultural differences between the authors and
 If you searched for literature, checked the data and verified the results, ran additional analyses, state this. 
 It will allow the editor to adjudicate the review.
 2. Then give a brief overview of the paper. 
-If the invitation asks you to provide a general recommendation, state it early in the review.
+Include a two- or three-sentence summary with your interpretation of the hypothesis, main results and conclusions. 
+This summary provides the author an indication of the clarity of their paper. 
+3. If the invitation asks you to provide a general recommendation, state it early in the review.
 The recommendation is the first thing the editor wants to know.
 Typically, you are invited to recommend ‘reject’, ‘revise & resubmit’ – with major or minor revisions, or ‘accept’. 
-3. Use ‘reject’ only if absolutely necessary.
+  - Major revisions are needed when the conclusions are jeopardized by concerns or the usefullness of the data is limited. 
+  Examples are problems with the applied methods, analyses, or the reasoning. 
+  Reviewers should indicate the seriousness of the major concern and how it could be addressed. 
+  If the concern cannot be addressed it may be better to 'reject' the work. 
+  Only suggest additional analyses or testing only when the conclusions of the study are otherwise undermined - otherwise they can be addressed in a future paper. 
+  - Minor revisions are needed to improve the clarity of the paper. 
+  Minor revisions can include additional citations, addition of details regarding the method, change in title or abstract to reflect the paper content, whether figures are clear, necessairy and in correspondence with the text and any presentation issues (spelling errors, wording). 
+4. Use ‘reject’ only if absolutely necessary.
 Most journal editors make use of desk-rejection if the paper seems a poor fit; if the editor sent the paper out for review, she probably thinks it has the potential to be published.
 Start from the assumption that the authors have invested a great deal of time in the paper and that they want to improve it. 
-4. List the strengths and the weaknesses of the paper. 
+5. List the strengths and the weaknesses of the paper. 
 To ease the message you can use the sandwich principle: start with the strengths, then discuss the weaknesses, and conclude with an encouragement.
-5. Try to give actionable advice. 
+6. Try to give actionable advice. 
 For the weaknesses in the paper, suggest ways to repair them. 
+Constructive criticism does not have to be in the form of a specific solution. 
+It can be much more useful to be specific about the problem and to let the authors identify a solution, than it is to provide the fix for them.
 It is convenient for both the editor and the authors to number your suggestions.
 Distinguish major issues, such as not discussing alternative explanations, from minor issues such as missing references and typos. 
 There could be points that the authors are underselling. 
 In that case, you could identify them as strengths that the authors can emphasize more strongly.
 It is handy to refer to issues with direct quotes and page numbers or line numbers. 
-6. Traditionally, the review process is designed to be anonymous. However, some reviewers sign their reviews. 
+7. Traditionally, the review process is designed to be anonymous. However, some reviewers sign their reviews. 
 A non-anonymous review can be seen as an accountability device: by exposing who they are to the authors of the paper, the reviewers set higher standards for themselves. This needs to be done carefully: some editors do not appreciate signed reviews. 
 There are voices that express concerns for a graduate student or an early career researcher facing retribution for being critical of a more senior researcher. 
 There is also a process called open peer review; in this case, the review is open for everyone viewing the paper. 
 The peer review might blend these features; for example, one might be able to see the review text but not the name of the reviewer who did it, or the name of the reviewer but not the text itself.
 The design of the peer review process and its transparency varies from journal to journal.
+Generally there is a way to communicate just with the editor, for example, via confidential remarks. 
+This communication is not provided to the authors, so you can be candid here about your limitations and concerns regarding the submitted paper. 
+
+
 
 **Second round of reviewing process**
-If the authors have revised their paper, check if your suggestions have been implemented. 
+If the authors have revised their paper, check if your suggestions have been implemented or whether sufficient arguments have been provided to not do so. 
 It is a good principle to avoid making new demands for the second round that you have not made before. 
 
 
