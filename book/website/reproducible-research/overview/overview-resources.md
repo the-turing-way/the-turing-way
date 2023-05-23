@@ -21,6 +21,30 @@ If you want to start learning hands-on practices, we recommend reading the {ref}
 (rr-overview-resources-addmaterial)=
 ## Additional Material
 
+(rr-overview-resources-commandline)=
+### Using the command line
+
+While most of what this book is about do not require the use of the command line, it often makes things actually easier. 
+Even when your visual abilities allows you to use efficiently your mouse, writing commands in the terminal/powershell/command is not that difficult.
+You first need to know that linux and OSX use `bash` code natively, while the command line in PC uses a different language.
+
+Here is a small list of tools and training material to know more :
+- Game for beginners (to advanced): https://gitlab.com/slackermedia/bashcrawl 
+- Carpentry lesson: https://swcarpentry.github.io/shell-novice/
+- https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/
+- https://programminghistorian.org/en/lessons/intro-to-bash
+
+To ease your journey, here are two tips which should make onboarding much easier:
+
+- Get your terminal at the right folder:
+  - If you right click folders, you may have a function to open a terminal there
+  - use `cd ..` to go in the parent folder (`cd` is to move into folders, `..` means up)
+  - you can also type `cd ` (note the space) and then drag and drop a folder, its path will usually be autocompleted.
+
+- The superpower developers use all the time and will never think you do not know about it: use the tab on your keyboard to get automatic text completion.
+
+
+
 ### Useful Links
 
 #### **Reproducibility** 
