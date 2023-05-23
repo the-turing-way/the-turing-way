@@ -11,7 +11,8 @@ These collaborations may spring from small organic interactions such as research
 Before jumping into a formal partnership, it may be useful to first collaborate on a smaller project or task of shared interest. 
 This allows both organisations to see how the other works, how you collaborate together and overall 'test the waters'. 
 
-In the case of the Turing-Roche partnership, the two organisations initially collaborated through a weeklong [Turing Data Study Group](https://www.turing.ac.uk/news/publications/data-study-group-final-report-roche) CITATION NUMBER 1. 
+In the case of the Turing-Roche partnership, the two organisations initially collaborated through a weeklong Turing Data Study Group {cite}`datastudygrouproche2020`. 
+
 At these collaborative hackathons a challenger owner, in this case Roche, provide a dataset and a real-world problem to be solved by a team of researchers from the Turing network. 
 For Roche, the Data Study Group highlighted the research capabilities of the Turing Institute as well as importantly developing the relationship between Turing and Roche. 
 This allowed both parties to see that they could productively work together, and spurred on scoping out what became a five-year formal partnership, launched in June 2021. 
@@ -22,7 +23,7 @@ This allowed both parties to see that they could productively work together, and
 
 A new academic-industry collaboration will require developing and scoping a scientific/research strategy. 
 Alongside this, negotiating formal documents will require much discussion, such as legal contracts that consider intellectual property and data sharing. 
-For more detail on developing a contract, governance and more, we recommend this comprehensive ['Academia-Industry Collaboration Best Practices Guide'](https://eatris.eu/wp-content/uploads/2019/12/CORBEL_Academia_Industry_Collaboration_Best_Practices_Guide.pdf) CITATION NUMBER 2 from the Coordinated Research Infrastructures Building Enduring Life-science Services [(CORBEL) Project](https://www.corbel-project.eu/home.html). 
+For more detail on developing a contract, governance and more, we recommend this comprehensive Academia-Industry Collaboration Best Practices Guide {cite}`academiaindustryguide` from the Coordinated Research Infrastructures Building Enduring Life-science Services [(CORBEL) Project](https://www.corbel-project.eu/home.html). 
 
 In the case of the Turing-Roche partnership, both the Turing Institute and Roche had a mutual commitment to open science principles which helped shape negotiations and set relatively flexible and collaborative terms around intellectual property. 
 The basis of the partnership was also to develop methodologies, rather than developing products or a collaboration on drug discovery, which would likely complicate contracting.
