@@ -677,6 +677,11 @@ parts:
                 file: community-handbook/acknowledgement/acknowledgement-record
               - title: Different Contributions and Acknowledgements
                 file: community-handbook/acknowledgement/acknowledgement-examples
+          - title: Infrastructure
+            file: community-handbook/infrastructure
+            sections:
+              - title: Contributors
+                file: community-handbook/infrastructure/contributors
           - title: Monthly Newsletters
             file: community-handbook/newsletters
             sections:
