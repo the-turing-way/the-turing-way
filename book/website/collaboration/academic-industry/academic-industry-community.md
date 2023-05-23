@@ -1,5 +1,4 @@
 (cl-academic-industry-community)=
-
 ## Community Building in an Academic-Industry Collaboration
 
 Building an engaged community around any collaboration can be key for long term success, sustainability and legacy. 
@@ -9,7 +8,6 @@ The Turing-Roche partnership hired a full time Community Manager for this purpos
 Approaches to community building can vary (see {ref}`Guide to Planning a Community Chapter <cl-new-community-guide>`) but initial steps that might be useful in an academic-industry collaboration are:
 
 (cl-academic-industry-community-event)=
-
 ### Initial 'Kick Off' Event
 An initial event allows you to share plans and aims of your collaboration, meet with colleagues at both organisations and the wider community and signal where people can start to engage and get involved.
 
@@ -18,7 +16,6 @@ For the Turing-Roche Partnership this [awareness event](https://www.youtube.com/
 Later, after the first research theme was selected, the partnership ran a [series of workshops](https://www.turing.ac.uk/sites/default/files/2021-12/structured_missingness_report.pdf) which allowed an initial group to coalesce on a topic and for the partnership team to seed and facilitate interactions.
 
 (cl-academic-industry-community-engagement)=
-
 ### Identifying 'Quick Win' Engagement Opportunities
 A useful activity before jumping in to create new engagement opportunities is to explore what already exists at each organisation. 
 For example there may be a seminar series, journal club or working group at one of the organisations that colleagues from the other are welcome to join.
@@ -27,7 +24,6 @@ For the Turing-Roche Partnership, Roche colleagues were encouraged to get involv
 On the Roche side, the team explored areas of the business and prepared case studies of where potential partnership research could be applied- gaining buy-in from colleagues.  
 
 (cl-academic-industry-community-champions)=
-
 ### Identifying Champions/Cheerleaders on Both Sides 
 Whilst there will likely be a core team in a collaboration, it's also useful to identify people outside of this team at both organisations who can champion your collaboration and help raise awareness. 
 This may be communications and marketing teams who can help with promotion or 'influential' leaders in relevant departments who can advocate for people getting involved. 
@@ -37,14 +33,12 @@ It may also be fruitful to consider an external advisory board.
 You can bring on board individuals who can help advise on scientific strategy and also can connect the collaboration with colleagues and opportunities within their own networks.
 
 (cl-academic-industry-community-space)=
-
 ### Creating a Shared Space to Connect
 To start facilitating interactions and connections between your organisations and allow your community to come together its worthwhile to set up a shared space where people can interact. 
 This could be something like a Slack Workspace or GitHub Repository which are both fairly low barrier to engage with. 
 You might need to check any tool you're considering with your IT department and take into consideration any restrictions/access issues each organisation might have. 
 
 (cl-academic-industry-community-strategy)=
-
 ### Considering Community Strategy 
 Developing a strategy for community building in an academic-industry collaboration, alongside or as part of a research strategy can be extremely beneficial. 
 Things you might want to consider as part of this are:
