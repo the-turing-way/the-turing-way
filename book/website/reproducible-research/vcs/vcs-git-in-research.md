@@ -9,9 +9,7 @@ Data science practices can leverage the potential of the research workflow, in o
 (rr-vcs-git4research)=
 # Git for research projects
 
-Because each research project has a data science component,
-there are clear advantages to use data science practices for 
-the management of all the data produced during research.
+Because each research project has a data science component, there are clear advantages to use data science practices for the management of all the data produced during research.
 In particular, the use of git and github is very appealing.
 However, Github is not enough to handle all research projects:
 - Data versioning needs special care, see the {ref}`section on data version control<rr-vcs-data>`
@@ -24,9 +22,7 @@ You may refer to a carpentry workshop related to this topic: https://github.com/
 ## Potential
 
 
-Here is a non-exhaustive list of features that 
-a git/github workflow bring to data science projects,
-and that would be useful for research projects:
+Here is a non-exhaustive list of features that a git/github workflow bring to data science projects, and that would be useful for research projects:
 
 - Backup data by pushing the data to a git platform, toward a public or private repository
 - Easily use different computers to work on the same project (with yourself of with collaborators).
@@ -40,15 +36,12 @@ and that would be useful for research projects:
 (rr-vcs-research-minus)=
 ## Issues
 
-As described in the  {ref}`general section about git<rr-vcs-git-limitations>`,
-git does not work well when there are a lot of data, or when the data are large.
-When you expect the project to get large, one needs to set a different tooling
-to avoid creating unpractical repositories.
+As described in the  {ref}`general section about git<rr-vcs-git-limitations>`, git does not work well when there are a lot of data, or when the data are large.
+When you expect the project to get large, one needs to set a different tooling to avoid creating unpractical repositories.
 Some of these tools makes it more difficult to access or see you files, so it is important to plan in advance what tool will best suits your need.
 See the {ref}`section on data version control<rr-vcs-data>` for more detailed explanations. 
 
-**Briefly, in order to use git when there are lots or large files, one needs to split the data in different repositories,
-and have these repositories use the git-annex technology.**
+**Briefly, in order to use git when there are lots or large files, one needs to split the data in different repositories, and have these repositories use the git-annex technology.**
 
 (rr-vcs-research-tools)=
 ## Tools
@@ -57,8 +50,7 @@ We encourage you to use a git platform that is provided as an open infrastructur
 In many university, you will have access to a gitlab platform (which works very similarly to GitHub).
 Alternatively, you may want to install your own instance of one of the more lightweight open source git platform (gogs, gitlea, GIN).
 
-If you have many or large files,
-you will need to use the git submodules and git-annex technologies. 
+If you have many or large files, you will need to use the git submodules and git-annex technologies. 
 If you do, we encourage you to look into {ref}`rr-vcs-data-tools-datalad` and follow the progresses of the [GIN-Tonic project](https://gin-tonic.netlify.app).
 Be prepared to invest some time learning how to use these tools.
 
@@ -66,30 +58,17 @@ Be prepared to invest some time learning how to use these tools.
 (rr-vcs-research-story)=
 ## Fictive exemple
  
-Max has created a folder following a standard structure,
-they uses datalad to create submodules for each experiment,
-where they will save their datasets.
-Using datalad, the git-annex technology is used to save
-the file content outside of the git repository at every push.
-They got their own GIN platform where the git repository and git-annexed content
-is saved, and backed up.
+Max has created a folder following a standard structure, they uses datalad to create submodules for each experiment, where they will save their datasets.
+Using datalad, the git-annex technology is used to save the file content outside of the git repository at every push.
+They got their own GIN platform where the git repository and git-annexed content is saved, and backed up.
 Their collaborators have access to the whole data, either via the browser interface or using some command line tool.
-The GIN repositories are linked to a gitlab issue, 
-so that the team is using advanced project management tools offered by gitlab.
-The data analysis code is also set in a submodule,
-where git-annex is not allowed. 
+The GIN repositories are linked to a gitlab issue, so that the team is using advanced project management tools offered by gitlab.
+The data analysis code is also set in a submodule, where git-annex is not allowed. 
 
-After working for a couple of years on the project,
-together with their collaborators, 
-Max has written a paper where they could link both the data and the analysis code, 
-which was made public by archiving the git repositories 
-and the git-annexed data on the university library service.
+After working for a couple of years on the project, together with their collaborators, Max has written a paper where they could link both the data and the analysis code, which was made public by archiving the git repositories and the git-annexed data on the university library service.
 
 
-While this use case is already possible,
-it requires to use the command line (to use datalad),
-and get a GIN instance installed 
-(the public GIN instance is meant only for neuroscience data). 
+While this use case is already possible, it requires to use the command line (to use datalad), and get a GIN instance installed (the public GIN instance is meant only for neuroscience data). 
 
 
 
