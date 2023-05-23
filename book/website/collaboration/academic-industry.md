@@ -1,19 +1,17 @@
 (cl-academic-industry)=
-
 # Academic-Industry Collaborations
 
 (cl-academic-industry-prerequisites)=
-
 ## Prerequisites
 
 
 | Prerequisites | Importance | Skill Level | Notes | 
 | -------- | -------- | -------- |-------- |
 | {ref}`Project Design <pd-overview>`  | Helpful    | Beginner     | This guide has lots of useful information that would be helpful to consider when starting a collaboration
-| {ref}`Community Managers: Overview<cl-infrastructure-community-managers>` and {ref}`Guide to Planning a Community<cl-new-community-guide>`  | Helpful    | Beginner     | An overview of the Community Manager Role and the Guide to Planning a Community are helpful context for the Community Building Subchapter in this section 
+| {ref}`Community Managers: Overview<cl-infrastructure-community-managers>` | Helpful  | Beginner | An overview of the Community Manager Role |
+| {ref}`Guide to Planning a Community<cl-new-community-guide>` | Helpful | Beginner | The Guide to Planning a Community are helpful context for the Community Building Subchapter in this section |
 
 (cl-academic-industry-summary)=
-
 ## Summary
 Academic-Industry collaborations can take many forms, but put simply they are when an academic institution or university collaborates with a corporate business such as a pharmaceutical company, a consulting firm or a technology company. 
 
@@ -26,7 +24,6 @@ Some of these advantages include:
 * Experience and increased career opportunities for students and researchers working as part of the collaboration
 
 (cl-academic-industry-motivation)=
-
 ## Motivation and Background 
 Academic-Industry collaborations are becoming more popular, with the [number of them more than doubling between 2012 and 2016](https://www.nature.com/nature-index/news-blog/the-shifting-corporate-academic-relationship-in-pictures). 
 
