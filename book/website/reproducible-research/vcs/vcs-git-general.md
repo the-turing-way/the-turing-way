@@ -25,7 +25,7 @@ While one can use of git for non-software application, one needs to plan to use 
 It is particularly problematic because everything will work fine in the beginning and it is very difficult to solve issues when the project is ongoing.
 It is therefore important to plan ahead, and try to avoid big repositories.
 For instance, one can split the files into different repositories and save binary files outside of git.
-There are tools allowing that while keeping git at the core of the version control (git-annex and submodules are possible technologies,  see section {ref}`data version control<rr-vcs-data>`  and {ref}`research projects<rr-vcs-git4research=>`)
+There are tools allowing that while keeping git at the core of the version control (git-annex and submodules are possible technologies,  see section {ref}`data version control<rr-vcs-data>`  and {ref}`research projects<rr-vcs-git4research>`)
 
 
 
