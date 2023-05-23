@@ -1,4 +1,4 @@
-(contributors-record-highlights)=
+(contributors-record)=
 ```{include} ../../../contributors.md
 ```
 

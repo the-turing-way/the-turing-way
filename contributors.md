@@ -14,6 +14,7 @@ Each organisation name and details will be listed separately followed by contrib
 
 Please see the [community handbook](https://the-turing-way.netlify.app/community-handbook/acknowledgement) for details on how you can be fairly acknowledged for your work.
 
+(contributors-record-highlights)=
 ## Personal Highlights from _The Turing Way_ Contributors
 
 Please use this section to highlight your personal experiences in _The Turing Way_ project and community.

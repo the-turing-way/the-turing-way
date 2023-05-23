@@ -1,11 +1,11 @@
 # Contributors
 
-Contributors are published in the book's {ref}`Record of Contributions<contributors-record-highlights>`.
+Contributors are published in the book's {ref}`Record of Contributions<contributors-record>`.
 The information for this page's three subsections are source from different places.
 
 ## Personal Highlights
 
-The Personal Highlights section is taken directly from [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) in the root of the repository.
+The {ref}`Personal Highlight section<contributors-record-highlights>` is taken directly from [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) in the root of the repository.
 This is inserted into [`contributors-record.md`](https://github.com/alan-turing-institute/the-turing-way/blob/main/book/website/afterword/contributors-record.md`) verbatim using the [`include` docutils directive](https://docutils.sourceforge.io/docs/ref/rst/directives.html#including-an-external-document-fragment).
 
 To modify this section you would change `contributors.md` and rebuild the book.
@@ -32,7 +32,6 @@ The table is inserted as html between the following sets of tags
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 ```
-
 
 ## Collaborating Organisations and Projects
 
