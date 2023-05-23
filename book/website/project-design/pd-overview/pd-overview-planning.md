@@ -1,5 +1,5 @@
 (pd-overview-planning)=
-# Getting Start with Project Design
+# Getting Started with Project Design
 
 Thinking about reproducibility from the start of your project is the best way to save time and get the most out of the available tools.
 Creating connections between data, code, methodology, as well as diverse collaborators, can seem like a daunting task if it has not been planned from the beginning (see this illustration of {ref}`Research Cycle<research-cycle>`).
@@ -28,40 +28,45 @@ Finally, we can plan for publishing and sharing of research components before, d
 Below is a checklist you can use to help identify areas of project planning you might want to look at. 
 
 ### Aims & Values 
-* X
-* X
-* X
+* Define the main research questions and objectives.
+* Identify the core values and principles that guide your project.
+* Useful documentation: project canvas, values document, project 1-pagers.
 
 ### Timeline & Milestones 
-* X
-* X
-* X
+* Establish a project timeline with key milestones and deadlines.
+* Break down the project into manageable phases or tasks.
+* Useful documentation: Gantt charts, road maps, or project boards.
 
 ### Methodology
-* X
-* X
-* X
+* Determine the appropriate research methods and materials.
+* Consider the necessary code and data requirements for your project.
+* Document the workflow for data collection, analysis, and interpretation.
+* Useful documentation: data management plan, code repository, electronic lab notebooks.
 
 ### Operations 
-* X
-* X
-* X
+* Confirm budget and any funding policies you need to follow. 
+* Establish ways of working and collaborative practices for the project team.
+* Identify roles and responsibilities within the project team, through RACI matrix.
+* Complete any institutional processes for project set up, such as ethics approval or contracting signing. 
+* Useful documentation: RACI matrix, risk register, project charter.
 
 ### Outputs 
-* X
-* X
-* X
-
+* Plan for the different outputs of your research, such as publications, software, or datasets.
+* Consider licensing and copyright issues for sharing your outputs.
+* Determine how you will manage intellectual property and ownership rights using IP register.
+* Remember to include any required reporting to funders. 
+* Useful documentation: IP register, [other things we can add later] 
 
 ### Community & Communications 
-* X
-* X
-* X
+* Identify the target audience for your research.
+* Plan for effective communication and engagement with the community.
+* Consider open and inclusive practices to involve stakeholders in decision-making.
+* Useful documentation: Code of Conduct, Contributing Guidelines, ReadMEs, communication plan, stakeholder mapping, governance documentation
 
 ### Maintenance & Archiving 
-* X
-* X
-* X
+* Develop a plan for long-term maintenance and sustainability of your project.
+* Establish procedures for data management, including storage, backup, and access.
+* Consider archiving your project’s artifacts and documentation for future reference.
 
 (pd-overview-planning-ethics)=
 ## Getting Ethical and Legal Approval
@@ -82,7 +87,12 @@ There are several ways in which a research ethics committee (RECs) proceeds, but
 5. Further Societal Consequences
 
 The {ref}`Research Ethics Committees Processes<er-committees>` chapter have more information about each item.
-Read other chapters in the {ref}`Guide for Ethical Research<er>` for more guidance on how to .
+Read other chapters in the {ref}`Guide for Ethical Research<er>` for more guidance.
+
+```{warning}
+Even if you do not need institutional ethical approval, your project will still benefit from planning using self-relfection techniques and including ethical considerations in the project design. 
+Ethics should not be tied to institutions, it is everyone's responsibility. 
+```
 
 ## Organising Files and Documents
 
