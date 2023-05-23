@@ -52,7 +52,7 @@ Here are a few examples of such actions:
 - use respectful, gender-neutral and inclusive language (learn more about inclusive writing on page 22 of [University of Leicester Study Skills pdf](https://www2.le.ac.uk/projects/oer/oers/ssds/oers/study-skills/studyskills.pdf), also available as a [zipped html](https://www2.le.ac.uk/projects/oer/oers/ssds/oers/study-skills/studyskills_HTML.zip)).
 - aim to include perspectives of researchers from different research backgrounds such as science, humanities and social sciences by not limiting the scope to only scientific domains.
 - make sure that the colour palettes are accessible to colour-blind readers and contributors.
-See the blogpost [Designing Scientific Figures for Colour Blindness](https://www.lewismackenzie.science/blog-1/2017/2/9/designing-scientific-figures-for-colour-blindness) for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator.
+See the blogpost [Designing Scientific Figures for Colour Blindness](https://www.lewismackenzie.science/updates-1/2017/2/9/designing-scientific-figures-for-colour-blindness) for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator. for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator.
 
 ## Get in touch
 
@@ -301,10 +301,9 @@ Simply make your edits on their files and open a pull request to their branch!
 
 What happens if the continuous integration (CI) fails (for example, if the pull request notifies you that "Some checks were not successful")?
 The CI could fail for a number of reasons.
-At the bottom of the pull request, where it says whether your build passed or failed, you can click “Details” next to the test, which takes you to the Travis page.
+At the bottom of the pull request, where it says whether your build passed or failed, you can click “Details” next to the test, which takes you to a CI run log site.
 If you have the write access to the repo, you can view the log or rerun the checks by clicking the “Restart build” button in the top right.
-Please note that you need to be logged in to Travis CI with your GitHub account see the “Restart build” button.
-You can learn more about Travis in the [Continuous Integration chapter](https://the-turing-way.netlify.com/continuous_integration/continuous_integration.html) of the book!
+You can learn more about CI in the {ref}`Continuous Integration chapter<rr-ci>`!
 
 GitHub has a [nice introduction][github-flow] to the pull request workflow, but please [get in touch](#get-in-touch) if you have any questions :balloon:.
 

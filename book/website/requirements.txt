@@ -6,3 +6,4 @@ matplotlib==3.5.2
 datascience
 folium
 jupyter-book==0.13
+jinja2>3.1

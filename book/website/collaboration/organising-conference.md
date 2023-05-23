@@ -91,7 +91,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 ***Mid-phase***
 
 - Allocate sufficient budget for organising this event (for example for the tools, equipment and childcare).
-- First place to confirm your budget and support for handling it is your organisation.
+- The first place to confirm your budget and support for handling it is your organisation.
 - Looking for sponsorship early on is always a good idea.
   - In the early phase, even though not all the information is sorted, use the website to attract sponsors.
 - Decide how big your event should be based on the available resource (such as online communication tools, assigned budget of the event, size of your community).
@@ -102,16 +102,16 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 ***Mid-phase***
 
 - Allocate part of your budget for the participation support grant that can be requested by the applicants for the following support:
-  - Free or subsidized childcare during the event so that the participant can attend the event without worrying about taking care of their children.
+  - Free or subsidized childcare during the event so that the participants can attend the event without worrying about taking care of their children.
   - Software cost or subscription fee if the one being used by the event is not freely available.
-  - Hardware or equipment for facilitating participation, such as headsets, microphone, webcam (create a list of hardware that can be funded by the support grant).
+  - Hardware or equipment for facilitating participation, such as headsets, microphones, webcams (create a list of hardware that can be funded by the support grant).
   - High-speed internet for the duration of the event.
   - Other aspects that may improve the quality of participation of the applicants.
 - Consider the possibility of waiving the registration fee for people from low-income organisation/country.
 - Create a rubric for selection.
 - Share the application form before the registration deadline.
 - Communicate clearly how many participation support grants are available and what they include.
-- Send decision for participation support grant applicants as soon as possible so that they can decide if they can register to attend the event.
+- Send decisions to participation support grant applicants as soon as possible so that they can decide if they can register to attend the event.
 
 ### Event theme and duration
 
@@ -176,7 +176,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 *Agree as a committee and what the rough agenda for the event's program will be. Create slots for keynotes, breakout discussions, workshops, poster and lightning talk session.
 Provide designated time slots for social events in the main program.
-Make sure that after each talk/session there is 5 minutes break to allow people to log in to the right online call link, switch rooms, ask a logistics-related question.
+Make sure that after each talk/session there is 5 minutes break to allow people to log in to the right online call link, switch rooms, and ask any logistics-related questions.
 Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 
 - Identify speakers and sessions for the event from the selected abstracts for the talks and community voted sessions.
