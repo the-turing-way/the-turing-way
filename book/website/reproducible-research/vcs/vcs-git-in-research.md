@@ -1,3 +1,6 @@
+(rr-vcs-git4research)=
+# Git for research projects
+
 ```{figure} ../../figures/healthy-research-tree.jpg
 ---
 name: ds4research
@@ -6,8 +9,7 @@ alt: Researchers are pouring water on a tree. The water represents data science 
 Data science practices can leverage the potential of the research workflow, in order to produce better research in less time. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
-(rr-vcs-git4research)=
-# Git for research projects
+
 
 Because each research project has a data science component, there are clear advantages to use data science practices for the management of all the data produced during research.
 In particular, the use of git and github is very appealing.

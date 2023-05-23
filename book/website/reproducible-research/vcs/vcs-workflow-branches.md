@@ -1,5 +1,5 @@
 (rr-vcs-workflow-branches)=
-## Non-Linear Development of Your Project with "Branches"
+# Non-Linear Development of Your Project with "Branches"
 
 > This chapter is for quite advanced user, it is interesting especially to work on the code,
 > while allowing other users to see the stable version  of your data first.
