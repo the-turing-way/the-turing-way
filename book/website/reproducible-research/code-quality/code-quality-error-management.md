@@ -42,12 +42,27 @@ Instead, try to focus on assumptions you make about the data and/or files a user
 
 
 ### Step 2: Assert/verify assumptions
-Some simple examples on error management, such as: if/else.
-If someone gets only this far they already have some simple ideas on how to get started on making their assumptions explicit!
+Once you have identified assumptions, you can verify if they are true.
+Depending on your programming language, and the nature of the assumption, there are many creative ways to do this.
+A good starting point for verifying an assumption can be an if/else statement:
 
-Making silent errors visible, how to get out of the worst state; how to get your code to warn you if you are in a silent failure state.
+```
+if my_assumption is TRUE:
+    continue
+else:
+    do something
+```
+
+If the assumption is met, nothing happens and your code executes as usual.
+
+However, simply the existence of this if/else block will be able to alert a user if an important condition is not met.
+If they are trying to select a column that does not exist, for instance.
+Or if they are performing mathematical operations on pieces of text.
+
 
 ### Step 3: Deal with unmet assumptions
+
+
 
 |          | error type | action           |
 |:---------|:-----------|:-----------------|
