@@ -7,9 +7,15 @@
 
 - If there is a person in front of you, you need to focus on the person (not be rude), also focus on the online people (not be rude to them either) -- which is challenging to manage simultaneously
 
+### Impact on the local social network
+Hybrid work means people are not often physically present in an office or workplace. This reduces face-to-face interactions and because there are fewer opportunities for spontaneous conversations and casual interactions that typically occur in a physical work environment it is more challenging to build a local social network.
+
 ### Communication tools used for hybrid environments
 The variety of communication tools used in remote and hybrid work presents challenges for inclusiveness and involves asynchronous communication. 
 Different tools serve various purposes, such as messaging, video chat, collaborative software development, and traditional methods like email and telephone. 
 Adapting to new tools and norms is necessary when switching jobs. 
 Poorly organised hybrid events can isolate online participants, and incorporating physical tools into online streaming is complex. 
 Hybrid meetings require different etiquette, and unequal access to communication tools may exclude early career stage academics.
+
+### Distraction
+Distraction comes easily when working from home. The level of noise and distractions at home (due to “invisible” personal responsibilities not necessarily obvious to managers, for example, caring for children and elderly) can get in the way.
