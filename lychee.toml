@@ -17,7 +17,7 @@ no_progress = false
 cache = true
 
 # Discard all cached requests older than this duration.
-max_cache_age = "2d"
+max_cache_age = "2w"
 
 #############################  Runtime  #############################
 
