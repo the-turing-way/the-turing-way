@@ -3,31 +3,30 @@
 # Data Governance for the Machine Learning Pipeline
 
 The Machine Learning (ML) pipeline consists of a series of activities including the collection of data, training of an ML model, and the deployment of the model into use. 
-Data is integral throughout the process and the methods for which data is collected, annotated, processed, and shared will impact individuals who may be the subjects in or creators of the data as well as communities represented in the data.
-To address the array of challenges associated with managing data as part of the ML pipeline, data governance tools and frameworks have been created to support this process and afford more rights to actors in the network who currently have the least power. 
+Data is integral throughout the ML process and the methods for which data is collected, annotated, processed, and shared will impact individuals who may be the subjects in or creators of the data as well as communities represented in the data.
+To address the array of challenges associated with managing data as part of the ML pipeline, data governance tools and frameworks have been created to support this process and afford more rights to more actors in the network. 
 
-This chapter will cover examples of data governance tools and methods for ML for different steps in the pipeline such as: 
+This chapter will cover examples of data governance practices for ML for different steps in the pipeline such as: 
 - Data Collection
 - Data Management
 - Data Processing
 
 ## Data Collection
 
-Many ML models are trained using datasets collected by the research team, which may be open or proprietary, or by using an open dataset that is available for download.
-Deep learning (DL) family of models, in particular, rely on massive corpuses of data such as text, code, images, sound, and other media.
+Many ML models are trained using datasets collected by the research team, which may be proprietary, or by using an open dataset that is available for download.
+The deep learning (DL) family of models, in particular, rely on massive corpuses of data such as text, code, images, sound, and other media.
 The process of data collection depends on the type and volume of data required and sources for acquisition.
 Many DL models rely on Internet data due to the sheer volume of digital content that is available on the web. 
-For example, ImageNet datasets are sourced from web images from image hosting websites like Flickr, and LAION datasets come from web crawling sources like Common Crawl.
+For example, [ImageNet datasets](https://www.image-net.org/about.php) are sourced from web images from image hosting websites like Flickr, and [LAION datasets](https://laion.ai/faq/) come from web crawling sources like Common Crawl.
 These methods of data collection through web scraping have raised issues regarding data quality and bias due to the nature of uncurated Internet data, as well as issues of data rights as web scraped data sets often include copyrighted data or data obtained without consent that may be in violation of the data license and terms of use.
-To address the issues of licensing, some ML teams are choosing to only use open source or permissively licensed data.
-Because their target data is code on Github, this is a more feasible task, because many repositories have made their license explicit.
-This may be more challenging for other forms of data, particularly content scraped from the web, that may not have a license or are added to a dataset without their license explicit in the metadata.
+To address the issues of respecting data licenses, some ML teams are choosing to only use open source or permissively licensed data.
+This can be challenging to accomplish with data that does not have explicit licenses, or for data scraped for the web which may not have a license included in the metadata.
 
-### Governance Tool: [Datasheet for dataset](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/1803.09010.pdf)
+### Governance Tool: [Datasheet for Dataset](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/1803.09010.pdf)
 
 Datasheets are resources accompanying datasets that can provide key information about the motivation to create the dataset, 
 the data collection process, the dataset composition and pre-processing, and legal and ethical considerations when using the data.
-This resource helps contextualise the resource and is an opportunity for dataset creators to share any concerns, suggestions,
+These resources helps contextualise the resource and is an opportunity for dataset creators to share any concerns, suggestions,
 and other advice regarding responsible use of the dataset.
 The Datasheets for Datasets paper contains a list of example questions that data creators should ask themselves and document.
 
@@ -41,6 +40,10 @@ Because opt-out occurs after a dataset has already been created, it will not rem
 ### Governance Tool: [Am I In the Stack?](https://huggingface.co/spaces/bigcode/in-the-stack)
 This tool was developed by the [BigCode](https://www.bigcode-project.org/) team to help developers inspect The Stack dataset so they cansee whether any of their repositories have been included and might be used for training ML models. 
 If that is the case, developers can fill out a form to request to opt-out from The Stack and have their data removed for future iterations of the dataset.
+
+### Governance Tool: [Have I Been Trained?](https://haveibeentrained.com/)
+This tool was developed by [Spawning](https://spawning.ai/) to help artists see if their work is a part of common datasets used to train AI art models and to opt-in or 
+opt-out to future training. They maintain a "registry of non-consenting data" where individuals and companies can check to see if their data is a part of these datasets.
 
 ## Data Processing
 
