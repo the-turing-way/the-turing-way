@@ -1,6 +1,23 @@
 (rr-code-error)=
 # Error management
 
+## 1. Why should you care about error management?
+
+We all have experienced it: you just wrote a new piece of code, but when you try it, it doesn't work as expected.
+Perhaps there is a typo, or a bug, or you just passed the wrong parameter to a function.
+It's not a big deal... as long as you notice.
+Noticing something is wrong is the first step to fix it, or worst case scenario discard that piece of code.
+
+Unfortunately, not all errors are easy to foresee.
+Error management practices dramatically reduce our chances to let an error pass unnoticed.
+
+## 2. Some simple examples on error management (e.g. if/else; if someone gets only this far they already have some simple ideas on how to get started on making their assumptions explicit!)
+
+
+## 3. Making silent errors visible, how to get out of the worst state; how to get your code to warn you if you are in a silent failure state.
+
+
+## 4. Dealing with unintelligible errors, both in your code (automating error management) and other peoples' (troubleshooting).
 
 ## 1. Why should you care about error management?
 How this will help you/ why this is useful
