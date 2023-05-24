@@ -59,14 +59,17 @@ Why should we be concerned about this rise in temperature?
 (er-activism-env-impact-reduction-strategies)=
 ## Strategies for reduction
 
-There are several things that can be done to reduce the environmental impact of research computing. In this section we describe some of the possible actions and links to external resources that can implement them.
+There are several things that can be done to reduce the environmental impact of digital research. In this section we describe some of the possible actions grouped in two major groups, computing and data, and links to external resources that can implement them.
 
 These actions are not listed in any order of importance, and implementing any or all of them is better than not doing anything at all.
 
 You can also see Ten simple rules to make your computing more environmentally sustainable {cite:ps}`lannelongue2021ten` and the [Digital Humanities Climate Coalition Toolkit](https://sas-dhrh.github.io/dhcc-toolkit/).
 
+(er-activism-env-impact-computing)=
+### Computing 
+
 (er-activism-env-impact-code-efficiency)=
-### Improve code efficiency
+#### Improve code efficiency
 
 As mentioned above, the amount of energy spent on running computation depends on how long the computation runs. One way of reducing the energy spent, is to optimize the code to make it run faster. 
 
@@ -75,7 +78,7 @@ Several studies show the energy intensity of computing tasks such as training Na
 Optimizing GPU code for energy efficiency is one way to reduce energy usage {cite:ps}`Schoonhoven2022goinggreen`
 
 (er-activism-env-impact-hardware-efficiency)=
-### Improve hardware efficiency
+#### Improve hardware efficiency
 
 In some cases it is possible to run hardware in more energy efficient modes. One relevant example is the ARCHER2 national high performance computer service in the UK where three different CPU frequencies can be selected at run time. A 2022 study investigated the performance / power use trade off and discovered the power usage could often be reduced without noticeable alteration in the run time of most applications. As a consequence the service reduced the default frequency and updated the user-facing documentation in this area (see Turner, 2022).
 
@@ -83,7 +86,7 @@ For the Summit supercomputer it is known that about 63.8% of the power is consum
 {cite:ps}`Stachowski2020autotuning`.
 
 (er-activism-env-impact-avoid-tasks)=
-### Avoid unnecessary tasks
+#### Avoid unnecessary tasks
 
 Another way of reducing energy usage, is to avoid running task unnecessarily. Some examples include:
 
@@ -92,7 +95,7 @@ Another way of reducing energy usage, is to avoid running task unnecessarily. So
 * Run CI with smaller datasets.
 
 (er-activism-env-impact-schedule-low-emission)=
-### Schedule tasks at low-emission time
+#### Schedule tasks at low-emission time
 
 Energy usage at different times of the day has different carbon intensity. This means that there is also an opportunity to reduce carbon emissions by running computing jobs at different times of the day. While the energy usage remains the same, the carbon intensity can be lowered in this way.
 
@@ -107,8 +110,36 @@ alt: Computing has carbon emissions
 Computing has carbon emissions
 ```
 
+(er-activism-env-impact-data)=
+### Data
+The increasing number of digital research and the associated storage requirements have implications for the environment, and understanding the environmental impact is key for sustainable scientific research practices. One important aspect to consider is the environmental impact of digital storage:
 
-## Other resources
+(er-activism-env-impact-data-reduction)=
+#### Data reduction 
+Reduction of data volumes is a straight-forward solution to minimize energy consumption in storage systems:
+* Compression or deduplication can help to detect and delete repeated information. 
+* Optimized data requires less time for transfer and consumes less network bandwidth.
+
+(er-activism-env-impact-data-standardisation)=
+#### Standardisation
+Storing your data in standardised data format can have a positive impact on the environment:
+* Utilize data formats that are widely accepted within your community to prevent the need for conversion by those interested in reusing your data.
+* Similarly, embrace standardized variable names and, if applicable to your data, employ standardized physical units.
+
+In addition, deposit your datasets in domain specific or community archives so that users ware promptly informed about the availability of your dataset. This can also avoid duplication of effort and recomputation/acquisition of the same data.
+
+(er-activism-env-impact-data-green-centers)=
+#### Green Data Centers
+The usage of shared computing and storage infrastructure is usually a way to reduce the impact of data storage in the environment. The reason is that most data centres invest in energy-efficient servers, storage systems, and networking equipment. This includes using hardware components with high energy efficiency ratings and employing advanced cooling techniques to reduce power consumption. In addition, the implementation of virtualization technologies allows for better usage of server resources.
+
+Finally some data centers are shifting towards renewable energy sources (solar, wind, hydroelectric power) and reduce their dependencies on fossil fuels.
+
+The greenest data/HPC centers are listed on the [GREEN500 list](https://www.top500.org/lists/green500/).
+
+Whenever you can choose, select data centers that are committed to reduce their carbon footprint.
+
+### Other resources
+#### Computation
 * [https://www.green-algorithms.org/](https://www.green-algorithms.org/) 
 * [https://onlinelibrary.wiley.com/doi/10.1002/advs.202100707](https://onlinelibrary.wiley.com/doi/10.1002/advs.202100707) 
 * [https://www.nature.com/articles/s43586-023-00202-5.epdf?sharing_token=QTc-q5_jBfbwbgHrxjAF3NRgN0jAjWel9jnR3ZoTv0M5cDtvWq4NDOHdun0YacmqG8iEJ146ZGUvxIp3izWvG3qqEI0oN4e5AgJh1ioWOFtL_b-yexmwuBL7nKWggSD22xXBBQe-_M_1jL9gC5WNNOYCZkXrOcuiKp7L_6DvyMI%3D](https://www.nature.com/articles/s43586-023-00202-5.epdf?sharing_token=QTc-q5_jBfbwbgHrxjAF3NRgN0jAjWel9jnR3ZoTv0M5cDtvWq4NDOHdun0YacmqG8iEJ146ZGUvxIp3izWvG3qqEI0oN4e5AgJh1ioWOFtL_b-yexmwuBL7nKWggSD22xXBBQe-_M_1jL9gC5WNNOYCZkXrOcuiKp7L_6DvyMI%3D)
@@ -119,6 +150,11 @@ Computing has carbon emissions
 * Carbon calculator: [https://www.wren.co/](https://www.wren.co/) 
 * Turner (2022) Study of the impact of CPU frequency on ARCHER2: [https://www.archer2.ac.uk/news/2022/12/12/CPUFreq.html](https://www.archer2.ac.uk/news/2022/12/12/CPUFreq.html). ARCHER2 documentation [https://docs.archer2.ac.uk/user-guide/energy/](https://docs.archer2.ac.uk/user-guide/energy/) 
 
+#### Data
+* [Green Scientific Data Compression](https://centaur.reading.ac.uk/79584/1/tgsdcthiia18-towards_green_scientific_data_compression_through_high_level_i_o_interfaces.pd)
+* [Environmental Impact of Video streaming](https://research.vu.nl/ws/portalfiles/portal/214278850/Jancovic_Marek_Keilbach_Judith_2023_Streaming_Against_the_Environment._Digital_Infrastructures_Video_Compression_and_the_Environmental_Footprint_of_Video_Streaming.pdf)
+* [Next-generation high-temperature data centers](https://doi.org/10.1016/j.rser.2022.112991)
+* [Zero energy consumption data centers](https://doi.org/10.1016/j.energy.2022.125495)
 
 ## Credits
 
