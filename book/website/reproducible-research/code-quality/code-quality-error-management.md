@@ -17,10 +17,13 @@ why we think you should read the whole thing
 ## 2. Workflow
 
 ### Step 1: Describe assumptions
-Explicit assumptions
+Your code contains many assumptions.
+For example, a function performing a simple mathematical operation assumes that its input is numerical.
+
 
 ### Step 2: Assert/verify assumptions
-Some simple examples on error management (e.g. if/else; if someone gets only this far they already have some simple ideas on how to get started on making their assumptions explicit!)
+Some simple examples on error management, such as: if/else.
+If someone gets only this far they already have some simple ideas on how to get started on making their assumptions explicit!
 
 Making silent errors visible, how to get out of the worst state; how to get your code to warn you if you are in a silent failure state.
 
