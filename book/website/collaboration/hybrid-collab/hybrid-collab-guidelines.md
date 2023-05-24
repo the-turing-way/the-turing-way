@@ -37,9 +37,12 @@
 - Plan earlier so that people can block their calendars
 - Plan on movement (time & space)
 
-## How to manage Hybrid teams
+### Ways to Reduce Distractions
 
-## Communication Tools for Hybrid Collaboration
+- Support online participants in booking co-working spaces either near to their location that are equipped with necessary basic facilities such as internet, electricity, and work desks.
+- Share comprehensive information about the available facilities and support resources and provide guidance on how to access them through facilitation documents.
+
+### Communication Tools for Hybrid Collaboration
 
 - Carefully select tools and technologies that consider inclusivity and the impact on teams.
 - Avoid imposing unsutaible platforms on teams and be open to new options and tools.
@@ -49,3 +52,9 @@
 - Proper shared note taking document and/ or facilitation guide for both in-person and remote groups to ensure both groups are included.
 - Establish a platform for asynchronous side chat to facilitate communication.
 - Ensure equal availability and access for both in-person and remote attendees in hybrid events.
+
+### Social Networking during Hybrid Collaboration
+
+- Recognise and address asymmetries in in-person and online settings to establish realistic expectations.
+- Create opportunities for social interactions both online and in-person to balance out the challenges.
+- Foster a positive atmosphere in-person and encourage an informal approach online to facilitate idea exchanges and connections.
