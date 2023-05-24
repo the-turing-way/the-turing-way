@@ -1,49 +1,33 @@
 (rr-code-error)=
-# Code Style and Formatting
-
-
-
 # Error management
+
 
 ## 1. Why should you care about error management?
+How this will help you/ why this is useful
+why we think you should read the whole thing
 
+## 2. Workflow
 
-## 2. Some simple examples on error management (e.g. if/else; if someone gets only this far they already have some simple ideas on how to get started on making their assumptions explicit!)
+### Step 1: Describe assumptions
+Explicit assumptions
 
+### Step 2: Assert/verify assumptions
+Some simple examples on error management (e.g. if/else; if someone gets only this far they already have some simple ideas on how to get started on making their assumptions explicit!)
 
-## 3. Making silent errors visible, how to get out of the worst state; how to get your code to warn you if you are in a silent failure state.
+Making silent errors visible, how to get out of the worst state; how to get your code to warn you if you are in a silent failure state.
 
+### Step 3: Deal with unmet assumptions
 
-## 4. Dealing with unintelligible errors, both in your code (automating error management) and other peoples' (troubleshooting).
-
-
-### 5. Writing informative error messages in your own code, what does a good error look like?
-
----
-
-# Error management
-
-## Prerequisites / recommended skill level
-> other chapters that should have been read before or content you should be familiar with before you read this
-
-| Prerequisite | Importance | Notes |
-| -------------|----------|------|
-| Chapter/topic | How important it is | Any notes |
-
-## Summary
-> easy to understand summary - a bit like tl;dr
-
-## How this will help you/ why this is useful
-> why we think you should read the whole thing
-
-## Chapter content
-> depending on the content, this might be more structured, e.g. with exercises, gotcha sections etc
+| | error type | action |
+|:--|:--|:--|
+| Redirect | None | Choose next step |
+| Report | Warning | None |
+| Abort | Error | Stop |
 
 
 
-
-
-## Preventing silent failures
+## 3. Error quality
+Sliding scale from "No error / silent failure", to "unintelligible error", "generic error", to "informative error".
 
 
 The first step in ensuring your code is robust and nice to use, is to make sure it does not fail silently.
@@ -65,40 +49,13 @@ How do you start making your assumptions explicit, and make sure a fire is not h
 >The major difference between a thing that might go wrong and a thing that cannot possibly go wrong is that when a thing that cannot possibly go wrong goes wrong it usually turns out to be impossible to get at or repair.
 > Douglas Adams
 
-### Explicit assumptions
-
-
-
-### If/else
-
-
-
-
-###
-
-
-
-
-
-
-
-
-## Checklist
-> this can be done at the end or maybe as a separate checklist exercise, but please do note things down here as you go
-[ ]
-
-
-## Troubleshooting
-
-
-Dealing with unintelligible errors, both in your code (automating error management) and other peoples' (troubleshooting).
-
-
-
-## Writing error messages
-
+The goal is first to catch issues (so: no silent failure), then to maximize the informativeness of the error along this axis.
 
 Writing informative error messages in your own code, what does a good error look like?
+
+## 4. Troubleshooting
+
+Dealing with unintelligible errors, both in your code (automating error management) and other peoples' (troubleshooting).
 
 
 ## Checklist
@@ -111,6 +68,7 @@ Writing informative error messages in your own code, what does a good error look
 
 ## What to learn next
 > recommended next chapters that are a good next step up
+This chapter is complementary to testing
 
 ## Further reading
 > top 3/5 resources to read on this topic (if they weren't licensed so we could include them above already) at the top, maybe in their own box/in bold.
