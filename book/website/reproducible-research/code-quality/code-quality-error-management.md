@@ -19,6 +19,26 @@ Depending on the severity of the error, we may want to try an automated solution
 ### Step 1: Describe assumptions
 Your code contains many assumptions.
 For example, a function performing a simple mathematical operation assumes that its input is numerical.
+What happens if this function is used on a bit of text?
+Or even an entire dataframe?
+
+In a different example, let's imagine a data science workflow.
+As part of this workflow, a column labeled "Age" is selected.
+What happens if this column does not exist?
+The workflow plots the column "Age", but the plot is cut off at age 100.
+What happens if the data contains ages over 100?
+Or if this column contains negative numbers?
+
+In making decisions about cases like these, the first step is to be explicit about the assumptions made.
+To identify assumptions, you can ask yourself:
+- What type of object/data do I expect?
+- What files need to exist for my workflow to run, and where?
+- ...
+
+If you think critically, there is no end to the assumptions that you make.
+For instance, you assume that a built-in function you use works in a specific way.
+Labeling all these assumptions would perhaps drive you crazy, and that is not the point of this exercise.
+Instead, try to focus on assumptions you make about the data and/or files a user puts into your workflow or code.
 
 
 ### Step 2: Assert/verify assumptions
