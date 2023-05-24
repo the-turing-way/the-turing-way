@@ -74,7 +74,8 @@ Zenodo should automatically be notified and should make a snapshot copy of the c
 To make your code citable, through an automated publication of your Gitlab repository to [Zenodo](https://zenodo.org/):
 
 - Create a file to tell people how to cite your software. Use this [handy guide](https://citation-file-format.github.io/cff-initializer-javascript/) to format the file.
-- Convert your `citation.cff` file to `.zenodo.json`, this file tells Zenodo what information or metadata you want to include with your software.
+- Convert your `citation.cff` file to `.zenodo.json`. 
+This file tells Zenodo what information or metadata you want to include with your software.
 
     ```bash
     pip install cffconvert
