@@ -22,7 +22,9 @@ These methods of data collection through web scraping have raised issues regardi
 To address the issues of respecting data licenses, some ML teams are choosing to only use open source or permissively licensed data.
 This can be challenging to accomplish with data that does not have explicit licenses, or for data scraped for the web which may not have a license included in the metadata.
 
-### Governance Tool: [Datasheet for Dataset](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/1803.09010.pdf)
+### Governance Tool
+
+*We use the [Datasheet for Dataset](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/1803.09010.pdf) from Microsoft in this chapter*.
 
 Datasheets are resources accompanying datasets that can provide key information about the motivation to create the dataset, 
 the data collection process, the dataset composition and pre-processing, and legal and ethical considerations when using the data.
