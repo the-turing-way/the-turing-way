@@ -44,6 +44,10 @@ For example, when integrating GitHub with Zenodo you can get Digital Object Iden
 This automatically makes it easier to share and makes it citable.
 You can read about DOIs in the chapter on {ref}`Making Research Components Citable<cm-citable>`.
 
+## Share Research Hardware
+
+...
+
 ## Collecting your Research
 
 Once you are done with your research you may want to collect all the digital parts of your project in one place.
