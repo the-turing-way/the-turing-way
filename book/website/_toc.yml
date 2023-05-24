@@ -112,8 +112,6 @@ parts:
                 file: reproducible-research/rdm/rdm-data-curation
               - title: Sharing and Archiving Data
                 file: reproducible-research/rdm/rdm-sharing
-              - title: Data Governance for the Machine Learning Pipeline
-                file: reproducible-research/rdm/rdm-ml-data-governance
               - title: Data Article
                 file: reproducible-research/rdm/rdm-article
               - title: Research Data Management Toolkits
@@ -338,6 +336,11 @@ parts:
                 file: project-design/sdpw/pd-sdp-exposing-data
               - title: Further Recommendations
                 file: project-design/sdpw/pd-sdp-resources
+          - title: Data Governance
+            file: project-design/data-governance
+            sections:
+              - title: Data Governance for the Machine Learning Pipeline
+                file: project-design/data-governance/data-gov-ml          
 
       # ===== Guide for Communication ========================================
 
