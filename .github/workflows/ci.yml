@@ -87,5 +87,6 @@ jobs:
         with:
           args: --config './lychee.toml' --no-progress --offline book/website/_build/html/**/*.{html,md}
           fail: true
+          debug: true
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Use runners GitHub token to avoid rate limiting
