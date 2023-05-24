@@ -1,76 +1,103 @@
 (cl-leadership-building)=
-# Open and Healthy Leadership
+# Building Healthy Leadership Skills
 
-Our favorite leadership kind is open and healthy. 
+By healthy leadership, we mean creating an ideal environment that empowers, guides and stewards members of a team within a community, project, or organization where everyone feels safe, welcome, and valued.
 
-Open leadership is "a set of principles, practices, and skills people can use to mobilize their communities to solve shared problems and achieve shared goals" (See [Mozilla Open Leadership framework](https://mozilla.github.io/open-leadership-framework/framework/#open-leadership-framework)).
+By open leadership, we don't want to imply that they are reserved for open projects or that the work needs to happen in the open.
+open leadership principles are skills that can be learned and applied by anyone building healthy teams and communities that involve and empower their members.
 
-By healthy leadership, we mean guidance that stewards a community, project, or organization where everyone feels safe, welcome, and valued.
+Below we highlight some aspects that contribute to building healthy leadership skills. 
+These are by no means an exhaustive list, or comprehensively described. 
+Please use them to identify what skills you might need to bring into your leadership.
+We have intentionally avoided giving reading recommendations as those continue to evolve and change, and we instead recommend our readers ask for references within their teams and communities.
 
-```{figure} ../../figures/HealthyLeadership.jpg
----
-name: healthy-image
-alt: Healthy leadership is illustrated as a fractal where persons water growing flowers. The image includes quotes by Adrienne Maree Brown that state to transform yourself to transform the world, the large is a reflection of the small, and strong values can spread to other organisations.
----
-Illustration of Health Leadership by Scriberia. Zenodo. [https://doi.org/10.5281/zenodo.4323154](https://doi.org/10.5281/zenodo.4323154)
-```
+## Some Important Skills that Leaders Should Build
 
-## Open Leadership Framework
-
-Mozilla's Open Leadership Framework states that leadership is about involving members and mobilizing communities to solve problems and achieve goals that are beneficial for everyone. 
-
-Individuals who lead their work (project, organization, communication, resources) openly design different aspects of their work to promote openness and social good throughout their work life cycle.
-
-The key principles of openness are: **design**, **build**, and **empower** for **understanding**, **sharing**, and **participation and inclusion**.
-
--   **Design:** You plan projects for contributors and users’ specific needs and capacities.
--   **Build:** You create systems and solutions that maximize a project’s clarity, usability, and inclusiveness.
--   **Empower:** You help contributors own the work through transparency, accountability, and shared decision-making.
-
-The emphasis is on ensuring that the members of an open project understand the project so well that the project can run without leaders because all the members are empowered to take on leadership tasks.
-
-_The Turing Way_ is built upon Open Leadership principles, which involve and support its members to apply these principles when developing content for its book or supporting its community.
-
-More about Mozilla's Open Leadership Framework can be read online [here](https://mozilla.github.io/open-leadership-framework/framework/#open-leadership-framework).
-
-## Aspects of Healthy Leadership
-
-Not all leaderships can be open, but they can apply most of the open leadership principles to build heatlh leadership stewarding a healthy community which aims to involve and empower its members.
-
-The following are some aspects that contribute to building healthy leadership.
-
-- **Leading by example**: Leaders are the first to start doing what needs to be done and give others space to follow and work alongside them rather than telling others what to do.
-
-- **Selflessness**: Healthy leadership prioritizes the greatest good for most, even when it goes against their benefit.
-
-- **Consensus**: Leaders act on as much consensus as possible, even when the they do not agree with the decision of most. 
-This aspect requires explaining how decisions are made.
-Sometimes it will require that leaders reach out personally to the people who were left out of the consensus to understand the whole picture best and achieve at the best decision for the maximum number of persons.
-
-- **Transparency and accountability**: Healthy leadership makes decisions as transparent as possible and requires to be accountable to the people led.
-
-- **Inside out knowledge of projects**: Deep knowledge of the organization, team, or project they lead is integral to healthy leadership.  
-To avoid arbitrary decision making, one must be familiar with the whole entity that they lead. 
-
-- **Open mindset**: Healthy leadership keeps an open mind to avoid personal biases and listens to everyone to learn about changes and transformations as time goes by. This is particularly important when leading a large project and they necessarily grew apart from some aspects of an organization or project.
-
-- **Trust**: Healthy leadership trusts people around them and is very good at identifying the best fit for different roles, sometimes even before the person themselves.
-
-- **Diversity**: Globally-diverse teams hugely strengthen data science projects. The most empathic and effective leaders are often persons from marginalized communities.
-Good leaders have an open mind to cultural differences and are welcoming and inclusive to everyone in their team. Being welcoming and inclusive is challenging because it varies a lot by culture and personality. 
+- **Leading by example**: Leaders take initiatives. They demonstrate and show what something in practice looks like. 
+Their examples combined with clear directions for what needs to be done create opportunities for others to follow. 
+They support their team members to take on specific roles while working alongside each other. 
+They support them to identify new ideas and opportunities while working towards a shared goal, rather than telling them constantly what to do.
+- **Championing Equity, Diversity, Inclusion, Accessibility (EDIA)**:
+Good leaders champion EDIA in their teams and workplace.
+They actively learn and build an understanding of how to operationalise EDIA in project goals.
+Ideally, EDIA is embedded in the work culture so it doesn’t become another item on the checklist, or the EDIA agenda is not given the appropriate resourcing and attention it needs. 
+Leaders play a critical role in ensuring that EDIA efforts in the ways of working of a team as well as the work they do should be intentional.
+Open and emergent leaders understand that research and communities are political, with members from various identities, backgrounds and political interests, who are affected by the social discourse.
+Therefore, they learn to hold safe spaces to have discussions and respond to the need for culture change with the members affected or oppressed by the status quo.
+Leaders should build crucial [ally skills](https://www.software.ac.uk/blog/2021-07-05-why-we-discuss-ally-skills-open-science) to use their privileges to step up for others in the teams.
+- **Ensuring Diversity**: Diverse teams are high-performing teams.
+Data science and research projects are no exceptions where diverse teams should be supported.
+Diverse teams are indispensable and inherently essential for ensuring benefits for people impacted by the processes and outcomes.
+Empathic and effective leaders understand the importance of diversity, build diverse teams and centre on the interests of marginalized interests.
+Good leaders respect and celebrate cultural differences and welcome everyone by providing inclusive approaches and policies. 
+Being welcoming and inclusive is challenging because it varies a lot by culture and personality. 
 Being kind, examining assumptions, and keeping an open mind to learn from the variability that enriches teams are essential to be a good leader. 
-None in a team, group, organization, or event should have to speak too loudly to get their message across. 
+None in a team, group, organization, or event should have to speak too loudly to get their message across.
+- **Transparency and accountability**: Healthy leadership makes decisions as transparent as possible and build accountability within the team.
+This means that everyone is involved in the decision-making and feedback process, and kept updated on the status of the group's work. 
+It also means avoiding unpleasant surprises, and uncertainties or ensuring expectations for everyone through participation guidelines and Code of Conduct.
+Human relationships are complicated, and leaders must make consensus-led decisions, however, sometimes those decisions may not align with the scope and goals of the project. 
+This is where, providing a clear governance process can help leaders in avoiding arbitrary decision-making, bring alignments and enable transparent governance.
+- **Knowledge and skill building**: Leaders have deep knowledge of their projects, and teams and continue to build skills for themselves and others as needed.
+They bring systems-level thinking and familiarity with the whole organisation where they lead, and the system within which they work with. 
+Leaders’ goals also include identifying opportunities for and directly building complementary skills for the entire team, encouraging problem-solving as a team, developing a workflow that enhances the efficiency of the team (for example reusable and reproducible processes) and sharing knowledge with each other.
+At the core of this is building diverse teams, bringing perspectives from diverse cultural backgrounds and working with them to solve problems faster.
+- **Consensus**: Leaders act on as much consensus as possible, even when they do not agree with the decision individually.
+A healthy way to navigate the difference is to create spaces to have informed conversations where multiple perspectives are explored and the team can assess the pro and cons of each possible decision. 
+This also means that leaders provide a process for how decisions are made, and invite inputs from their team members on improving it further.
+Sometimes it may mean that they reach out to the people who don't actively engage, or feel left out of the consensus to make decisions that are best for the maximum number of people affected by it.
+- **Trust**: Healthy leadership trust in the skills and ability of people around them and identify the best fit for everyone to succeed.
+They are aware of their own biases and avoid them intentionally, often by providing space to listen to different thoughts and perspectives. 
+They guide people to adapt to changes and transformations particularly when leading large projects, with many moving parts and teams.
+- **Delegation**: Leaders are to lead by example, but they will be unable to do everything and should not do everything either. 
+When a leader is in charge of too many aspects of a project they will become a bottleneck and blocker to the emergence of other open leaders.
+Delegation goes hand in hand with building a trustworthy environment, this means that they communicate clearly the overarching goals, create smaller milestones and delegate tasks meaningfully so different people can lead different parts of the work, nurturing healthy leadership habits within their teams.
+- **Power dynamics**: Power dynamics are relationships between people in an organisation with varying levels of privileges. 
+Power dynamics are often created by leaders.
+Leaders with formal authority come with institutional power and open leaders often come with informal connections that can translate into social capital or power (even when they don’t have formal authority in the organisation).
+Therefore, leaders should understand how their positions affect the dynamics when working with others in their team, even when not exerting their power.
+Understanding power dynamics helps leaders identify and resolve conflict, build consensus, and create a more effective team culture.
+- **Acknowledging fairly**: Leadership roles come with a lot of visibility for their roles.
+This is partly earned by leaders' work as individuals but is often enhanced by the work of others in their teams. 
+Open leaders recognise and celebrate all kinds of work, appreciate and celebrate them openly and give appropriate credit to everyone, including those whose work makes them visible often taking invisible responsibilities for the sake of the overall success.
 
-- **Delegating** and trusting others. 
-Leaders are to lead by example, but they will be unable to do everything and should not do everything either. 
-When a leader is in charge of too many aspects of a project they will become a bottleneck. 
-Developing trust and delegating crucial and meaningful tasks allows leaders to nurture healthy leadership.
+##  What should Leaders Avoid
 
-- **Renewal**: The same person leading the same project for long periods is the source of several problems. 
-Human relationships are complicated, and leaders must make consensual decisions with which not everyone will agree. 
-Governance mandating for good leadership renewal results in the long-term good health of projects.
+- **Elitism and hypocrisy**: Open leadership in research in general benefits a lot from equity, inclusivity and diversity (EDI). 
+Thus, traits that sabotage EDI goals, should be avoided at all costs.
+Attitudes like elitism and hypocrisy can have unintended consequences on the project as well as on the leaders themselves.
+Elitism is when leaders constantly reinforce their authority, status, and expertise, creating distance between them and junior/new members of their teams.
+Hypocrisy is holding others accountable for one set of quality measures, and having a lesser standard for themselves.
+Leaders should hold the same standards for everyone and create spaces for collaboration through egalitarian rather than authoritative means.
+- **Ignoring the personal side of the team**: members of the team/organisation can disclose or not as much as they want from their personal lives. 
+But it is up to the leader to ensure that their team members feel safe to express the issues that affect their work such as their physical or mental health, and understand each others' challenges such as those caused by invisible or visible disability or caring responsibilities outside work and can seek help from each other or professionals.
+If leaders don't make it ok for their team members to share their sides, team members most likely (and even newer members of the team), would not know what is appropriate and won't ask for help even when they need it. 
+This will likely have an impact on the overall project/team/organisation dynamics, opportunities for building trustworthy teams and often their mental health (which may result in burnout).
+- **Tunnel vision**: Leaders should be aware of the research landscape, trends and state-of-the-art technology/approaches relevant to their teams. 
+Even if the organisation or a project might focus on one line of work, awareness about and an understanding of what is 'going on around' at the broader level will prompt further discussions and go beyond finding quick solutions.
+- **Hide weaknesses**: Weaknesses should be something we should embrace and work on, not something to hide - especially for leaders. 
+Leaders should not put unrealistic expectations on their team members to know everything they should encourage diverse complementing skills and create teams where everyone can learn from and build on each others' skills.
+Sometimes people's strengths can be their 'weaknesses' in other situations, and vice versa.
+- **Trying to be a leader everywhere**: The same person should not be a leader everywhere. People in one or several lead positions would ideally leave room for others to take on leadership positions. 
+Good leadership takes a lot of time. It is often not possible to lead well if leading several projects. Leadership and limited time allocation are often incompatible.
 
-- **Allyship**: A leading position comes with some dimensions of privilege. 
-Privileged persons can be allies to those without those privileges. 
-Thus, healthy leadership will have a vital component of allyship work. 
-Frameshift Consulting is the leader in allyship skill training and shares several helpful [resources](https://frameshiftconsulting.com/resources/) to learn more about this aspect of heathly leadership.
+## Address Conflict of Interest with Feedback Process
+
+A conflict of interest is a situation in which the leader (or one of their team members) has a private or personal interest, directly or indirectly, that (potentially) influences or appears to influence the objective of their duties as a leader, to the detriment or benefit of the team.
+
+If a person participates in several projects or spaces (professional or personal), they will likely have overlapping interests.
+Based on the nature of their roles in those projects, the nature of their relationship with different project teams (sometimes with overlapping groups of people) will differ.
+It is the core responsibility of individuals to identify and declare their Conflict of Interest proactively.
+They should make it clear in what capacity or in what role (from the multiple 'hats' they wear) they are operating.
+They should separate the conversations to avoid confusion for people they work with and if needed, they should step away from a situation, transferring the leadership responsibilities to others.
+In [this video](https://www.youtube.com/watch?v=HQjRnWVmL28), Carol Willing explains how it is critical to abstain from decisions as a leader when you have a conflict of interest.
+
+## Learning from mistakes 
+
+> With great power comes great responsibility
+
+We are all humans and make mistakes. Healthy leadership recognises, accepts and apologizes when they make mistakes.
+
+A good leader owns their mistakes, takes responsibility for the harm caused by their error, rights the wrong, and learns from mistakes going forward. 
+
+A substantial component of visible vulnerability will only make leaders better. Genuine vulnerability builds trust.
