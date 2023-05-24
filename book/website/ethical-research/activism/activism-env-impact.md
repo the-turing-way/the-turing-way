@@ -34,7 +34,6 @@ Simplified view of global warming.
 
 The rise in this global average temperature is strikingly illustrated by the ‘Warming Stripes’ (‘#ShowYourStripes’) project, a minimalist-style data visualisation created by Ed Hawkins. Temperatures are indicated as stripes in blue hues, representing cooler temperatures, or red hues, representing warmer ones. The general trend shows a progression from there being more blue on the left (towards the past) to more red on the right (towards the present). In short, the planet is, overall, warming!
 
-![alt_text](images/global_warming_stripes.png "Global warming stripes, by Ed Hawkins.")
 ```{figure} ../../figures/global_warming.*
 ---
 height: 500px
@@ -64,7 +63,7 @@ There are several things that can be done to reduce the environmental impact of 
 
 These actions are not listed in any order of importance, and implementing any or all of them is better than not doing anything at all.
 
-You can also see Ten simple rules to make your computing more environmentally sustainable {cite:ps}`lannelongue2021ten,` and the [Digital Humanities Climate Coalition Toolkit](https://sas-dhrh.github.io/dhcc-toolkit/).
+You can also see Ten simple rules to make your computing more environmentally sustainable {cite:ps}`lannelongue2021ten` and the [Digital Humanities Climate Coalition Toolkit](https://sas-dhrh.github.io/dhcc-toolkit/).
 
 (er-activism-env-impact-code-efficiency)=
 ### Improve code efficiency
@@ -98,9 +97,6 @@ Another way of reducing energy usage, is to avoid running task unnecessarily. So
 Energy usage at different times of the day has different carbon intensity. This means that there is also an opportunity to reduce carbon emissions by running computing jobs at different times of the day. While the energy usage remains the same, the carbon intensity can be lowered in this way.
 
 The Climate Aware Task Scheduler (CATS)[[https://github.com/GreenScheduler/cats](https://github.com/GreenScheduler/cats)]) has been built specifically with this in mind. This tool can calculate how much carbon will be emitted during the run of a specific task, look at the carbon emission forecast, and schedule the task to be run at a time when carbon intensity is low.
-
-
-![alt_text](images/carbon_computing.jpg "Computing has carbon emissions")
 
 ```{figure} ../../figures/carbon_computing.*
 ---
