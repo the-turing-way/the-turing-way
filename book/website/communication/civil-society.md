@@ -18,4 +18,4 @@ If your research is intended to have an impact on the communities the civil soci
 
 ### How to involve civil society
 
-In order to involve civil society, you need to think about 
+In order to involve civil society, you need to think about about the target audience first. Once you have identified the audience, you can search on the internet and/or contact the local municiplaity of the city on which your target audience lives to find out which organisations and/or communities would be relevant. Reach out to these communities in whichever their preferred communication channel is. Not every community has a website where such information might be available, so it is important that you find the right contact to connect you further. Strategies for this could range from the contacts at the municipality to going door to door, or contacting a hospital, retirement home, social workers, etc. Such efforts might be time-consuming, but usually pay off well in the end when you realise how much impact your research brings to not just society as a whole, but specific people whose everyday lives are changed for the better.
