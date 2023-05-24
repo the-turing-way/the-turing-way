@@ -9,10 +9,10 @@ It's not a big deal... as long as you notice.
 Noticing something is wrong is the first step to fix it, or worst case scenario discard that piece of code.
 
 Unfortunately, not all errors are easy to foresee.
-Error management practices dramatically reduce our chances to let an error pass unnoticed.
+This is particularly true when your code is going to be used by someone else than you.
 
-How this will help you/ why this is useful
-why we think you should read the whole thing
+Error management practices dramatically reduce our code's chances to let an error pass unnoticed.
+Depending on the severity of the error, we may want to try an automated solution, warn the user, or even abort the whole workflow.
 
 ## 2. Workflow
 
@@ -29,11 +29,11 @@ Making silent errors visible, how to get out of the worst state; how to get your
 
 ### Step 3: Deal with unmet assumptions
 
-| | error type | action |
-|:--|:--|:--|
-| Redirect | None | Choose next step |
-| Report | Warning | None |
-| Abort | Error | Stop |
+|          | error type | action           |
+|:---------|:-----------|:-----------------|
+| Redirect | None       | Choose next step |
+| Report   | Warning    | None             |
+| Abort    | Error      | Stop             |
 
 
 
