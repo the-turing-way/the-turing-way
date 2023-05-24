@@ -1,4 +1,4 @@
-(pd-data-governance-ml)=
+(pd-dg-ml)=
 
 # Data Governance for the Machine Learning Pipeline
 
