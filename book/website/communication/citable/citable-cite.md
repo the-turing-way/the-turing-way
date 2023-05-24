@@ -86,7 +86,7 @@ cffconvert --format zenodo --outfile .zenodo.json
 - Use the DOI in any citations of your software and tell any collaborators and users to do the same!
 
 ```{note}
-If you don't have a Zenodo record for your software yet (i.e., no DOI) when you attempt to publish it for the first time, you may encounter an error due to the undefined id. To address this issue, we recommend manually creating a record on Zenodo and updating the value of the CI/CD variable `zenodo_record`. Detailed instructions for this process can be found in the [gitlab2zenodo](https://gitlab.com/sbeniamine/gitlab2zenodo) instalaltion and setup instruction.
+If you don't have a Zenodo record for your software yet when you attempt to publish it for the first time, you may encounter an error due to the undefined id. To address this issue, we recommend manually creating a record on Zenodo and updating the value of the CI/CD variable `zenodo_record`. Detailed instructions for this process can be found in the [gitlab2zenodo](https://gitlab.com/sbeniamine/gitlab2zenodo) instalaltion and setup instruction.
 ```
 
 :::
