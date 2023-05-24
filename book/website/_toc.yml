@@ -112,6 +112,8 @@ parts:
                 file: reproducible-research/rdm/rdm-data-curation
               - title: Sharing and Archiving Data
                 file: reproducible-research/rdm/rdm-sharing
+              - title: Data Governance for the Machine Learning Pipeline
+                file: reproducible-research/rdm/rdm-ml-data-governance
               - title: Data Article
                 file: reproducible-research/rdm/rdm-article
               - title: Research Data Management Toolkits
