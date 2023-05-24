@@ -89,7 +89,9 @@ By following the installation and setup instructions of this package, you will g
 - Use the DOI in any citations of your software and tell any collaborators and users to do the same!
 
 ```{note}
-If you don't have a Zenodo record for your software yet when you attempt to publish it for the first time, you may encounter an error due to the undefined `ID`. To address this issue, we recommend manually creating a record on Zenodo and updating the value of the CI/CD variable `zenodo_record`. Detailed instructions for this process can be found in the [gitlab2zenodo](https://gitlab.com/sbeniamine/gitlab2zenodo) installation and setup instruction.
+If you don't have a Zenodo record for your software yet when you attempt to publish it for the first time, you may encounter an error due to the undefined `ID`. 
+To address this issue, we recommend manually creating a record on Zenodo and updating the value of the CI/CD variable `zenodo_record`. 
+Detailed instructions for this process can be found in the [gitlab2zenodo](https://gitlab.com/sbeniamine/gitlab2zenodo) installation and setup instruction.
 ```
 
 :::
