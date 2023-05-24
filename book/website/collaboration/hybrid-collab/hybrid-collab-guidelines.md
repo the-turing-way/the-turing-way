@@ -19,12 +19,13 @@
 
 ### Location
 
-- should reserve rooms for break out interaction with online participants.
-- In person it takes time to move to breakout rooms/other rooms, online this is done much quicker.
+- Reserve rooms for break out interaction with online participants.
+- For in-person people it might take some time to physically move to other rooms, whereas for people online this it might be faster to move to a different breakout room. Please consider such time requirements when switching rooms either physically or virtually. 
 - Make sure technical set up is in order: online audience should be able to hear the speaker and questions asked and be able to see the slides. 
     - Check microphones/video/slide sharing before.
     - Make sure everyone in the room uses microphones when speaking.
     - Ensure speakers introduce themselves as otherwise, it can be difficult for remote participants to identify who is talking.
+    - A online facilitator can message on the online platform, each time a new person starts speaking ("Person-A" is speaking now).
 - Select a space that has all the facilities (internet, proper seating/desk). How to ensure that online individuals have the space so that they can fully participate (space/focus/food/internet connection).
     - Check if there are free localities available in the areas of online participants (university, libraries).
     - Caring/child support may be needed for people with care taking responsibilities. (applies to both online and in person participants).
@@ -39,7 +40,13 @@
 
 ## How to manage Hybrid teams
 
-## # Tools for Hybrid Collaboration
+## Communication Tools for Hybrid Collaboration
 
-- Proper microphone system for all the in-person groups
-- Proper documentation for both in-person and remote groups. Documentation: a shared note taking document or more of a facilitation guide to ensure both groups are included?
+- Carefully select tools and technologies that consider inclusivity and the impact on teams.
+- Avoid imposing unsutaible platforms on teams and be open to new options and tools.
+- Ensure virtual meetings have the capacity to accommodate more participants.
+- Follow up with remote attendees after hybrid meetings to address their needs.
+- Set up and use proper microphone system for all the in-person groups, so that those joining remotely can .
+- Proper shared note taking document and/ or facilitation guide for both in-person and remote groups to ensure both groups are included.
+- Establish a platform for asynchronous side chat to facilitate communication.
+- Ensure equal availability and access for both in-person and remote attendees in hybrid events.
