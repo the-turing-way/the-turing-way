@@ -1,14 +1,10 @@
 (cl-hybrid-collab-challenges)=
 # Challenges faced during Hybrid Collaboration
 
-- Online is bit rigid
-- Following an online schedule for in-person is not practical. consider deviating from the schedule and check in at set points to allow for connecting but also not have a super rigid structure that doesn't work in person.
-> [name=Patricia Herterich] I think this is heavily dependent on the type of event. For talks, I don't see why both cannot follow the same structure. For in-depth collaboration and unconference type discussions, there might be different dynamics.
+### Social networking in hybrid settings
 
-- If there is a person in front of you, you need to focus on the person (not be rude), also focus on the online people (not be rude to them either) -- which is challenging to manage simultaneously
-
-### Impact on the local social network
-Hybrid work means people are not often physically present in an office or workplace. This reduces face-to-face interactions and because there are fewer opportunities for spontaneous conversations and casual interactions that typically occur in a physical work environment it is more challenging to build a local social network.
+In a hybrid work setting, the task of building and maintaining a local network becomes more challenging due to limited natural social interactions and a systematic imbalance between in-person and online groups. 
+It can also be a challenge for the in-person participants to simultaneously manage interactions with people online and people in the same in-person setting as the.
 
 ### Communication tools used for hybrid environments
 The variety of communication tools used in remote and hybrid work presents challenges for inclusiveness and involves asynchronous communication. 
@@ -17,5 +13,10 @@ Adapting to new tools and norms is necessary when switching jobs.
 Poorly organised hybrid events can isolate online participants, and incorporating physical tools into online streaming is complex. 
 Hybrid meetings require different etiquette, and unequal access to communication tools may exclude early career stage academics.
 
-### Distraction
-Distraction comes easily when working from home. The level of noise and distractions at home (due to “invisible” personal responsibilities not necessarily obvious to managers, for example, caring for children and elderly) can get in the way.
+### Lack of space to focus and be attentive
+There are disparities in facilities and services between in-person and online settings.
+Distraction comes easily with an online set up.
+When online, individuals may encounter higher levels of noise and distractions due to personal responsibilities that are not immediately apparent, such as caring for children or elderly family members. 
+In addition to the communication challenges discussed earlier, individuals may not be aware of the support resources available to them and may struggle to ask questions or access the necessary assistance.
+This is particularly problematic for individuals with caregiving responsibilities who may lack a quiet space to participate in remote conferences, workshops, trainings, and events. 
+In essence, the lack of essential facilities and support needed to participate attentively can discourage the online participants to continue attending the event online.
