@@ -82,7 +82,7 @@ jobs:
           key: cache-lychee-${{ github.sha }} # save cache using commit sha
           restore-keys: cache-lychee- # restore latest cache (not a specific commit)
 
-      - name: Check offline link
+      - name: Check offline links
         uses: lycheeverse/lychee-action@v1.8.0
         with:
           args: --config './lychee.toml' --no-progress --offline 'book/website/_build/html/**/*.html' 'book/website/_build/html/**/*.md'
