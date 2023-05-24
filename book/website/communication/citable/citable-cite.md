@@ -76,11 +76,11 @@ To make your code citable, through an automated publication of your Gitlab repos
 - Create a file to tell people how to cite your software. Use this [handy guide](https://citation-file-format.github.io/cff-initializer-javascript/) to format the file.
 - Convert your `citation.cff` file to `.zenodo.json`, this file tells Zenodo what information or metadata you want to include with your software.
 
-```bash
-pip install cffconvert
-cffconvert --validate
-cffconvert --format zenodo --outfile .zenodo.json 
-```
+    ```bash
+    pip install cffconvert
+    cffconvert --validate
+    cffconvert --format zenodo --outfile .zenodo.json 
+    ```
 
 - Add `.zenodo.json` to your repository:
 - Use the [gitlab2zenodo](https://gitlab.com/sbeniamine/gitlab2zenodo) package to publish a snapshot of your repository to your Zenodo instance. By following the installation and setup instructions of this package, you will get a workflow on your CI/CD that will take care of the publication to Zenodo.
