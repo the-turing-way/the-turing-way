@@ -83,7 +83,8 @@ To make your code citable, through an automated publication of your Gitlab repos
     ```
 
 - Add `.zenodo.json` to your repository:
-- Use the [gitlab2zenodo](https://gitlab.com/sbeniamine/gitlab2zenodo) package to publish a snapshot of your repository to your Zenodo instance. By following the installation and setup instructions of this package, you will get a workflow on your CI/CD that will take care of the publication to Zenodo.
+- Use the [gitlab2zenodo](https://gitlab.com/sbeniamine/gitlab2zenodo) package to publish a snapshot of your repository to your Zenodo instance. 
+By following the installation and setup instructions of this package, you will get a workflow on your CI/CD that will take care of the publication to Zenodo.
 - Use the DOI in any citations of your software and tell any collaborators and users to do the same!
 
 ```{note}
