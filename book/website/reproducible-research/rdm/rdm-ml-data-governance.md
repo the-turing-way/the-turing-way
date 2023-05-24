@@ -19,7 +19,7 @@ The process of data collection depends on the type and volume of data required a
 Many DL models rely on Internet data due to the sheer volume of digital content that is available on the web. 
 For example, ImageNet datasets are sourced from web images from image hosting websites like Flickr, and LAION datasets come from web crawling sources like Common Crawl.
 These methods of data collection through web scraping have raised issues regarding data quality and bias due to the nature of uncurated Internet data, as well as issues of data rights as web scraped data sets often include copyrighted data or data obtained without consent that may be in violation of the data license and terms of use.
-To address the issues of licensing, some ML teams such as BigCode are choosing to only use permissively licensed data.
+To address the issues of licensing, some ML teams are choosing to only use open source or permissively licensed data.
 Because their target data is code on Github, this is a more feasible task, because many repositories have made their license explicit.
 This may be more challenging for other forms of data, particularly content scraped from the web, that may not have a license or are added to a dataset without their license explicit in the metadata.
 
@@ -39,7 +39,7 @@ In addition to creating a governance structure for the opening or gating access 
 Because opt-out occurs after a dataset has already been created, it will not remove the data from original versions of the dataset, but can facilitate removal from future versions.
 
 ### Governance Tool: [Am I In the Stack?](https://huggingface.co/spaces/bigcode/in-the-stack)
-This tool was developed by the BigCode team to help developers inspect The Stack dataset so they cansee whether any of their repositories have been included and might be used for training ML models. 
+This tool was developed by the [BigCode](https://www.bigcode-project.org/) team to help developers inspect The Stack dataset so they cansee whether any of their repositories have been included and might be used for training ML models. 
 If that is the case, developers can fill out a form to request to opt-out from The Stack and have their data removed for future iterations of the dataset.
 
 ## Data Processing
