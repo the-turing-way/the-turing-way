@@ -1,0 +1,45 @@
+(rr-rdm-ml-data-governance)=
+
+# Data Governance for the Machine Learning Pipeline
+
+The Machine Learning (ML) pipeline consists of a series of activities including the collection of data, training of an ML model, and the deployment of the model into use. 
+Data is integral throughout the process and the methods for which data is collected, annotated, processed, and shared will impact individuals who may be the subjects in or creators of the data as well as communities represented in the data.
+To address the array of challenges associated with managing data as part of the ML pipeline, data governance tools and frameworks have been created to support this process and afford more rights to actors in the network who currently have the least power. 
+
+This chapter will cover examples of data governance tools and methods for ML for different steps in the pipeline such as: 
+- Data Collection
+- Data Management
+- Data Processing
+
+## Data Collection
+
+Many ML models are trained using datasets collected by the research team, which may be open or proprietary, or by using an open dataset that is available for download.
+Deep learning (DL) models rely on massive corpuses of data such as text, code, images, sound, and other media.
+The process of data collection depends on the type and volume of data required and sources for acquisition.
+Many DL models rely on Internet data due to the sheer volume of digital content that is available on the web. 
+For example, ImageNet datasets are sourced from web images from image hosting websites like Flickr, and LAION datasets come from web crawling sources like Common Crawl.
+These methods of data collection through web scraping have raised issues regarding data quality and bias due to the nature of uncurated Internet data, as well as issues of data rights as web scraped data sets often include copyrighted data or data obtained without consent that may be in violation of the data license and terms of use.
+To address the issues of licensing, some ML teams such as BigCode are choosing to only use permissively licensed data.
+Because their target data is code on Github, this is a more feasible task, because many repositories have made their license explicit.
+This may be more challenging for other forms of data, particularly content scraped from the web, that may not have a license or are added to a dataset without their license explicit in the metadata.
+
+### Governance Tool: Data sheet for dataset
+
+## Data Management
+
+Once data collection is complete, challenges emerge around data storage, access, and making changes.
+Because state-of-the-art ML datasets are very large, they tend to be stored in a central location, often a cloud provider database, and made available for download under certain circumstances.
+In addition to creating a governance structure for the opening or gating access to certain users, there is the challenge of creating a governance structure to allow people to request to opt-out their data from the dataset.
+Because opt-out occurs after a dataset has already been created, it will not remove the data from original versions of the dataset, but can facilitate removal from future versions.
+
+### Governance Tool: Am I In the Stack?
+
+## Data Processing
+
+In order to address some of the problematic aspects of the data, such as biased or harmful content or existence of personal information, some data processing should be done before the dataset is used for model training, released to a wider audience, or ideally, even before stored to a database.
+Addressing these data quality and privacy issues may be motivated by regulatory compliance like GDPR or a team’s norms and best practices.
+Because this work, particularly in identifying and removing harmful content, may be contextual or reliant on the expertise of specific communities, these tasks are often performed in collaboration with community experts.
+As an example, when identifying sensitive information for removal from a dataset, a team may identify clear targets regarding an individual;s data such as usernames, passwords, and emails.
+However, a community from a specific country, or who speak a specific language, or who face a specific disability or form of discrimination may be able to identify additional criteria that should be removed to protect their community members.
+
+### Governance Tool: PII Redaction Dataset
