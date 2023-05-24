@@ -721,7 +721,7 @@ parts:
             file: community-handbook/infrastructure
             sections:
               - title: Contributors
-                file: community-handbook/infrastructure/contributors
+                file: community-handbook/infrastructure/infrastructure-contributors
           - title: Monthly Newsletters
             file: community-handbook/newsletters
             sections:
