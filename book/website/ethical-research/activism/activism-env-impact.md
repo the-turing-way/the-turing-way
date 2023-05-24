@@ -70,7 +70,7 @@ You can also see Ten simple rules to make your computing more environmentally su
 
 As mentioned above, the amount of energy spent on running computation depends on how long the computation runs. One way of reducing the energy spent, is to optimize the code to make it run faster. 
 
-Several studies show the energy intensity of computing tasks such as training Natural Language Processing models {cite:ps}`strubell2019nlpenergy,Schwartz2020greenai`, astrophysics simulations {cite:ps}`Portegies2020ecologicalimpact`, bioinformatics {cite:ps}`Grealey2022carbonfootprint`, etcetera. 
+Several studies show the energy intensity of computing tasks such as training Natural Language Processing models {cite:ps}`strubell2019nlpenergy,Schwartz2020greenai`, astrophysics simulations {cite:ps}`Portegies2020ecologicalimpact`, bioinformatics {cite:ps}`Grealey2022carbonfootprint`, and so forth. 
 
 Optimizing GPU code for energy efficiency is one way to reduce energy usage {cite:ps}`Schoonhoven2022goinggreen`
 
