@@ -2,17 +2,17 @@
 
 ## Individual learners
 
-If you are working through the Zero-to-Binder tutorial on your own (as opposed to as part of a workshop), please see [`zero-to-binder-solo.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-solo.md).
+If you are working through the Zero-to-Binder tutorial on your own (as opposed to as part of a workshop), please see [`zero-to-binder-solo.md`](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-solo.md).
 This version includes screenshots to clarify the instructions and let you compare outcomes.
 
 ## Running your own Binder Workshop
 
-If you are running your own Binder workshop using our materials, we would recommend that whoever is leading the Zero-to-Binder session also work through [`zero-to-binder-solo.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-solo.md) to get to grips with the material and understand what each step is demonstrating.
+If you are running your own Binder workshop using our materials, we would recommend that whoever is leading the Zero-to-Binder session also work through [`zero-to-binder-solo.md`](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-solo.md) to get to grips with the material and understand what each step is demonstrating.
 
 We have set up the session with the following format, though you are free to alter this to suit your needs! :slightly_smiling_face:
 
 * **Before the workshop:** We ask that attendees bring a short analysis script/notebook (taking less than 5 mins to run) and a small dataset (~10MB, a sub-set of data is fine and it must not be sensitive!)
-* **Zero-to-Binder Session:** The session leader live codes the instructions along with the attendees following [`zero-to-binder.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder.md) with some helpers on the floor to assist with problems.
+* **Zero-to-Binder Session:** The session leader live codes the instructions along with the attendees following [`zero-to-binder.md`](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder.md) with some helpers on the floor to assist with problems.
   We used a Software Carpentry post-it system (green for completed; red for a problem) to assess the room and this corresponds to the traffic light emojis next to each TO DO section in the notes.
   There is also a bitly link to the instructions so that attendees can bring them up on their own machines: http://bit.ly/zero-to-binder-tutorial .
   This session should last around 1 hour, maybe a little longer if mybinder.org becomes overwhelmed.

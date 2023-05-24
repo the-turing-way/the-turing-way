@@ -18,7 +18,7 @@ This will support case studies featured in the Turing Way handbook that cannot b
 Any lessons I learned during deployment of these Hubs, I fed back to the Jupyter and Binder teams in the form of documentation and discussion.
 
 I have written and presented workshops on using [Binder for research reproducibility](https://bit.ly/zero-to-binder-tutorial) and how to [deploy BinderHub](https://bit.ly/zero-to-binderhub-workshop) as a service for Research Software Engineers and IT Services personnel.
-I have also represented The Turing Way and Binder projects by giving talks at the [UKRI Cloud Working Group](https://github.com/alan-turing-institute/the-turing-way/blob/master/conferences/presentations/UKRI_cloud_2019-02-12/UKRI_cloud_demo_2019-02-12.md) conference, participating in the Software Sustainability Institute's Collaborations Workshop, and leading a hack project to [automate BinderHub deployment](https://github.com/alan-turing-institute/binderhub-deploy) at the [Microsoft Reactor Sprint](https://research-software-reactor.github.io/).
+I have also represented The Turing Way and Binder projects by giving talks at the [UKRI Cloud Working Group](https://github.com/alan-turing-institute/the-turing-way/blob/main/conferences/presentations/UKRI_cloud_2019-02-12/UKRI_cloud_demo_2019-02-12.md) conference, participating in the Software Sustainability Institute's Collaborations Workshop, and leading a hack project to [automate BinderHub deployment](https://github.com/alan-turing-institute/binderhub-deploy) at the [Microsoft Reactor Sprint](https://research-software-reactor.github.io/).
 The Build-aBinderHub workshop has also been accepted at [RSE Conference 2019](https://rse.ac.uk/conf2019/).
 
 ## Impact

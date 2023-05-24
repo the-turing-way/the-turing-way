@@ -44,7 +44,7 @@
 
 ![](http://www.tomorrowtodayglobal.com/wp-content/uploads/quote-sometimes-it-is-the-people-no-one-imagines-anything-of-who-do-the-things-that-no-one-alan-turing-87-51-55.jpg)
 
-* https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md
+* https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md
 
 ## Our report
 
@@ -64,10 +64,10 @@ Specifically:
   * :point_right: https://the-turing-way.netlify.com/reproducibility/reproducibility.html
 * @longr fixed a broken image in the reproducibility chapter: https://github.com/alan-turing-institute/the-turing-way-book/pull/10
     * This fixed issue: https://github.com/alan-turing-institute/the-turing-way/issues/375
-* @rainsworth updated the Contributing Guidelines to include a Making a change with a pull request section: https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md
+* @rainsworth updated the Contributing Guidelines to include a Making a change with a pull request section: https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md
     * Incorprated requests from this issue: https://github.com/alan-turing-institute/the-turing-way/issues/16
     * Pull request: https://github.com/alan-turing-institute/the-turing-way/pull/377
-    * :point_right: https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md
+    * :point_right: https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md
 * @SiccarPoint built a chapter on Code Reviewing: https://github.com/alan-turing-institute/the-turing-way-book/pull/18
     * This fixed issue: https://github.com/alan-turing-institute/the-turing-way/issues/372
     * :point_right: [https://deploy-preview-18--the-turing-way.netlify.com/reviewing/reviewing.html](https://deploy-preview-18--the-turing-way.netlify.com/reviewing/reviewing.html)

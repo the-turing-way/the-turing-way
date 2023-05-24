@@ -1,72 +1,102 @@
 ## The Turing Way Book
-*For the main repo (where most of the issues live) please [follow this link](https://github.com/alan-turing-institute/the-turing-way).*
 
-All the text for each chapter lives inside its own folder in the `content/` directory.
+This is the README file for _The Turing Way_ book hosted online at https://the-turing-way.netlify.app/.
+For the README file of the main repository please [follow this link](https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md).
 
-Everything else is in the `website/`. Importantly this includes the figures, which are in the `website/assets/figures/` directory.
+All the text for each chapter of the `book` lives inside the folder `./website` directory.
+All figures associated to the chapters are stored in and linked from the `./website/figures` directory.
+Everything else is in the `website/` directory.
 
 ### Configuration
-- To change the table of contents (order of the chapters) see the `website/_data/toc.yml` file. Documentation can be found on the [jupyter book website](https://jupyter.org/jupyter-book/intro.html).
-- Same applies for more general configuration using `website/_config.yml`
+
+- The table of contents (TOC) defines the order of chapters as they appear in the book.
+To change the TOC, please edit the `website/_toc.yml` file with correct information on filenames and their relative locations in this repository.
+Documentation on controlling the TOC structure can be found on the [Jupyter Book website](https://jupyterbook.org/customize/toc.html).
+- Same applies for more general configuration using `website/_config.yml`.
+Documentation on configuring book settings can be found on the [Jupyter Book website](https://jupyterbook.org/customize/config.html).
 
 ### Deploying
-The site is built automatically using these two directories. All of the requirements are specificied in `website/requirements.txt`.
+
+The site is built automatically using these two directories. All of the requirements are specified in `website/requirements.txt`.
 
 #### Locally (Mac / Linux Only)
+
 To install jupyter-book etc.
 ```
 cd book/website
 pip install -r requirements.txt
 ```
 
-<details>
-    <summary>Installing Dependencies in  a  virtualenv </summary>
-Virtual environments are a great way of isolating project-related dependencies
-from you system-level python installation.
+Finally, to build the book and preview your changes locally you can run the following command:
+```
+cd book/website
+jupyter-book build .
+```
+Now you can open the path provided by jupyter-book as output in your terminal.
+
+#### Clean up the recent build
+
+When you test your edits by building the book multiple times, it is better to clean up the last build before generating a new one.
+You can either manually delete the `book/website/_build` folder every time, or run this command:
+```
+cd book/website
+jupyter-book clean .
+```
+More details on this process can be read on the [Jupyter Book's GitHub repository](https://github.com/executablebooks/jupyter-book/blob/master/docs/advanced/advanced.md#clean-your-books-generated-files).
+
+#### Check external links in the book
+
+When editing or reviewing this book locally, you can run the Sphinx link checker with Jupyter Book to check if the external links mentioned in the book are valid.
+To run the link checker, use the following command:
+
+```
+cd book/website
+jupyter-book build . --builder linkcheck
+```
+
+The link checker checks if the each link resolves and prints the status on your terminal so that you can check and resolve any incorrect links.
+Read more about this on the [Jupyter Book's GitHub repository](https://github.com/executablebooks/jupyter-book/blob/master/docs/advanced/advanced.md#check-external-links-in-your-book).
+
+#### Installing Dependencies in a virtual environment
+
+Virtual environments are a great way of isolating project-related dependencies from you system-level python installation.
 For more details on virtual environments in python see
 [here](https://docs.python.org/3/tutorial/venv.html).
 To use a virtual environment for building the book project, use
+
 ```
-cd book/website
-virtualenv the-turing-way
+python3 -m venv the-turing-way
 source the-turing-way/bin/activate
-pip install -r requirements.txt
+pip install -r book/website/requirements.txt
 ```
-In case you want to use a specific python interpreter, specify the path as
-```
-virtualenv -p /usr/bin/python3.7 the-turing-way
-```
-</details>
 
-You will also need to make sure that ruby is
-[installed](https://www.ruby-lang.org/en/documentation/installation/).
-Finally run 
-```
-make install
-```
-and you are ready to build \& preview the book.
-
-If you want to see your local changes on your own computer you'll have to go in
-the website directory and enter `make serve`
-(type `make` on its own to see the other options).
-```
-cd book/website
-make site && make serve
-```
+Now you can use the `jupyter-book build .` command inside `book/website` directory as explained above.
 
 #### On Netlify
-You'll just need the following settings:
-- Base directory: `website`
-- Build command: `make site`
-- Publish directory: `_site`
 
-Netlify is smart and will find your requirements.txt to do the install for you :) (ruby and the jekyll are installed too)
-You can find the build history / logs at - https://app.netlify.com/sites/the-turing-way/deploys
+_The Turing Way_ book is built and deployed online using [Netlify](https://www.netlify.com/).
+
+If you want to deploy the book on Netlify, you'll need the following settings:
+
+- Base directory: `book/website`
+- Build command: `pip install -r requirements.txt && jupyter-book build .`
+- Publish directory: `book/website/_build/html`
+
+Netlify is smart and will find your requirements.txt to do the install for you. :slightly_smiling_face:
+
+You can find the build history or logs for _The Turing Way_ at https://app.netlify.com/sites/the-turing-way/deploys.
+
+## Bibliography
+
+In the directory `./website/_bibliography` a collection of bibliography from all the chapters exist in the `references.bib` file.
+More details can be read in the [CONTRIBUTING.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#referencing-and-citing) file.
 
 ## Content Templates
 
-Templates for certain types of content are kept in the `templates` directory.
-Templates include:
-* `case-study-template.ipynb` - a template for including interactive case studies in the book
+Templates for different types of content can be created in the [`templates` directory](./templates).
 
-The template should be edited accordingly and moved into its relevant chapter folder in the `content` directory.
+As of now, the template directory includes the following:
+* `case-study-template`: a template for writing and/or revising case studies
+* `chapter-template`: a template for writing new chapters or revising old ones
+
+The template can be copied to create content relevant to a chapter in the `content` directory.

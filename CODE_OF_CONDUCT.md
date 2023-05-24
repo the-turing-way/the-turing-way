@@ -11,7 +11,7 @@ To make clear what is expected, we ask all members of the community to conform t
 
 * [1 Introduction](#1-introduction)
 * [2 Code of Conduct](#2-code-of-conduct)
-  * [2.1 Expected Behaviour](21-expected-behaviours)
+  * [2.1 Expected Behaviour](#21-expected-behaviour)
   * [2.2 Unacceptable Behaviour](#22-unacceptable-behaviour)
   * [2.3 Consequences of Unacceptable Behaviour](#23-consequences-of-unacceptable-behaviour)
   * [2.4 Feedback](#24-feedback)
@@ -92,7 +92,7 @@ Examples of unacceptable behaviour by Turing Way community members at any projec
 
 Participants who are asked to stop any inappropriate behaviour are expected to comply immediately.
 This applies to all Turing Way community events and platforms, either online or in-person.
-If a participant engages in behaviour that violates this Code of Conduct, any member of the core development team may warn the offender, ask them to leave the event or platform (without refund), or impose any other appropriate sanctions (see the [enforcement manual](#enforcement-manual) for details).
+If a participant engages in behaviour that violates this Code of Conduct, any member of the core development team may warn the offender, ask them to leave the event or platform (without refund), or impose any other appropriate sanctions (see the [enforcement manual](#4-enforcement-manual) for details).
 
 ### 2.4 Feedback
 
@@ -195,16 +195,20 @@ However, the CoC committee is not required to act on this feedback.
 
 In the event of any conflict of interest such that Dr Whitaker is not able to evaluate or enforce the reported violation, Ben Murton will take Kirstie's place.
 
-## 5. Acknowledgements
+## 5 Acknowledgements
 
 This code is adapted from the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)  with sections from the [Alan Turing Institute Data Study Group Code of Conduct](https://docs.google.com/document/d/1iv2cizNPUwtEhHqaezAzjIoKkaIX02f7XbYmFMXDTGY/edit).
 Both are used under the creative commons attribution license.
 
-The Carpentries Code of Conduct was adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative template](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/).
-Contributors to the Carpentries Code of Conduct were: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal.
+The Carpentries Code of Conduct was adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative template](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). 
+Contributors to the the initial document are Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, and Tracy Teal. 
+In 2018, the Code of Conduct was revised to add a summary, straightforward examples of both beneficial and unwanted behaviors, and evaluating intent. 
+Reporting guidelines were also revised to include alternate contact points and a reporting form with the procedure was added. 
+Contributors of these revised documents are Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman. 
+Additional language was added by Otter Tech from the PyCon U.S. 2018 Code of Conduct (licensed CC BY 3.0).
 
 The Turing Institute Data Study Group Code of Conduct was heavily adapted from the [Citizen Lab Summer Institute 2017 Code of Conduct](https://citizenlab.ca/summerinstitute/codeofconduct.html) and used under a CC BY 2.5 CA license.
-Citizen Lab based their Code of Conduct on the [xvzf Code of Conduct](http://xvzf.io/), the [Contributor Covenant](http://contributor-covenant.org/), the [Django Code of Conduct and Reporting Guide](https://www.djangoproject.com/conduct/) and we are also grateful for [this guidance from Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports).
+Citizen Lab based their Code of Conduct on the [xvzf Code of Conduct](http://xvzf.io/#coc), the [Contributor Covenant](http://contributor-covenant.org/), the [Django Code of Conduct and Reporting Guide](https://www.djangoproject.com/conduct/) and we are also grateful for [this guidance from Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports).
 
 We really appreciate the work that all of the communities linked above have put into creating such a well considered process.
 

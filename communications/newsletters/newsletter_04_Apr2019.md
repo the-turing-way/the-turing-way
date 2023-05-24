@@ -26,7 +26,7 @@ The skills we're looking for include, but are not limited to:
 
 - sci comm skills: skills in writing, editing and/or exciting interactive communications
 - great examples and case studies of reproducible research
-- writing new chapters (either from the [wish list](https://github.com/alan-turing-institute/the-turing-way/blob/master/book_skeleton.md) or beyond)
+- writing new chapters (either from the [wish list](https://github.com/alan-turing-institute/the-turing-way/blob/main/book_skeleton.md) or beyond)
 - editing the current chapters
 - updating how the book looks online (css, logos, layout etc)
 

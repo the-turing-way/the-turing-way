@@ -1,0 +1,9 @@
+rules:
+  master:
+    level: warning
+  slave:
+    level: failure
+  whitelist:
+    level: failure
+  blacklist:
+    level: failure

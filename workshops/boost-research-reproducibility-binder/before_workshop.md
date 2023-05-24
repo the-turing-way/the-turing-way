@@ -14,9 +14,9 @@ We have helpers at the event who are confident building binders for Python and R
 Please sign up for a GitHub account if you don't already have one: https://github.com/join.
 
 ## On the day
-There is now an updated agenda: https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/agenda.md available and please note that we will begin registration at 9.30am and will formally close at 4pm so that those with caring responsibilities can get home!
+There is now an updated agenda: https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/boost-research-reproducibility-binder/agenda.md available and please note that we will begin registration at 9.30am and will formally close at 4pm so that those with caring responsibilities can get home!
 
-We are dedicated to an inclusive and supportive event. Please read the code of conduct before you come along: https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md. We encourage you to tweet and share your thoughts using #TuringWay, if you would not like to be included in any photographs we will have stickers you can use on your name badge to let us know!
+We are dedicated to an inclusive and supportive event. Please read the code of conduct before you come along: https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md. We encourage you to tweet and share your thoughts using #TuringWay, if you would not like to be included in any photographs we will have stickers you can use on your name badge to let us know!
 
 ## Travelling to the Alan Turing Institute
 The Alan Turing Institute is located on the first floor of the British Library, 96 Euston Road, London, NW1 2DB. If you do not have a Turing ID card, we recommend that you enter the British Library through the main entrance on Euston Road. The Library opens at 9:30am, so please be aware that there may be a queue to enter.
@@ -46,9 +46,9 @@ We have helpers at the event who are confident building binders for Python and R
 Please sign up for a GitHub account if you don't already have one: https://github.com/join.
 
 ## On the day
-There is now an updated agenda: https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/agenda.md available and please note that we will begin registration at 9.30am and will formally close at 4pm so that those with caring responsibilities can get home!
+There is now an updated agenda: https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/boost-research-reproducibility-binder/agenda.md available and please note that we will begin registration at 9.30am and will formally close at 4pm so that those with caring responsibilities can get home!
 
-We are dedicated to an inclusive and supportive event. Please read the code of conduct before you come along: https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md. We encourage you to tweet and share your thoughts using #TuringWay, if you would not like to be included in any photographs we will have stickers you can use on your name badge to let us know!
+We are dedicated to an inclusive and supportive event. Please read the code of conduct before you come along: https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md. We encourage you to tweet and share your thoughts using #TuringWay, if you would not like to be included in any photographs we will have stickers you can use on your name badge to let us know!
 
 If you have any questions ahead of the event please drop us an email at theturingway@gmail.com.
 

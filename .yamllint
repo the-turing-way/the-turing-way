@@ -1,0 +1,13 @@
+# Learn about yamllint configuration here
+# https://yamllint.readthedocs.io/en/stable/configuration.html
+#
+# Learn about yamllint rules here
+# https://yamllint.readthedocs.io/en/stable/rules.html
+---
+extends: relaxed
+# Explicitly ignore the _config.yml file as that is more readable without
+# pure YAML formatting
+ignore: |
+  book/website/_config.yml
+rules:
+  line-length: disable

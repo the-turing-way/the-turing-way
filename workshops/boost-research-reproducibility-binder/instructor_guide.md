@@ -48,7 +48,7 @@ Doing this prompted discussion between participants about their hopes and fears,
 For the full day workshop, we recommend providing coffee for this informal start to the day.
 
 ### Introduction to the workshop and The Turing Way
-The workshop begins with an [introductory presentation](workshop-presentations/PRE_IntroBoostResReproBinder_ATI.pdf) setting out the aims for the day, some background on reproducibility and introducing the [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md). At the end of the introductory presentation participants are given the URL for the HackMD (or similar) file and asked to introduce themselves in the document.
+The workshop begins with an [introductory presentation](workshop-presentations/PRE_IntroBoostResReproBinder_ATI.pdf) setting out the aims for the day, some background on reproducibility and introducing the [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md). At the end of the introductory presentation participants are given the URL for the HackMD (or similar) file and asked to introduce themselves in the document.
 
 ### Why you need a reproducible computing environment and how Binder can help
 This section involves a [presentation](workshop-presentations/ReproducibleComputationalEnvironment.pdf) and a small group exercise working through some [paired examples](paired_examples.md).
@@ -124,6 +124,6 @@ The times follow the Carpentry Connect schedule, but can be adjusted as needed.
 | 16:50 - 17:00 | [Feedback, group picture and close](#feedback-group-picture-and-close) |
 
 ## After the workshop
-In keeping with the spirit of working openly after each of our workshops we uploaded feedback (with participants' permission) to our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder/feedback).
+In keeping with the spirit of working openly after each of our workshops we uploaded feedback (with participants' permission) to our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/boost-research-reproducibility-binder/feedback).
 
 If after running a workshop you have suggestions on how it could be improved please [contribute them back to The Turing Way](https://github.com/alan-turing-institute/the-turing-way)!

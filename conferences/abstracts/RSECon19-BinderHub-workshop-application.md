@@ -66,7 +66,7 @@ It is run using the Software Carpentry "traffic light" post-it system so that as
 Time for answering questions and hosting discussions are naturally built into the workshop and it is also written in a Markdown file so is compatible with screen readers.
 https://bit.ly/zero-to-binderhub-workshop
 
-The BinderHub workshop has already been successfully run in Sheffield, feedback here: https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/build-a-binderhub/BinderHub%20workshop.csv
+The BinderHub workshop has already been successfully run in Sheffield, feedback here: https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/build-a-binderhub/BinderHub%20workshop.csv
 
 ### Promotion
 
@@ -75,7 +75,7 @@ _How will you attract a broad and diverse audience for your session?_
 I am a member of the Alan Turing Institute research engineering team, I am an Operator (maintainer) for the Binder community, and a core team member of the Turing Way research team.
 I will leverage my network in advance of the conference to make sure that participants know  what to expect when they arrive at the event and that I have successfully run a similar workshop before.
 I especially hope that by giving this workshop, I encourage more women, members of the LGBTQ+ and non-binary communities to engage with Cloud computing projects and open source communities.
-_The Turing Way_ has a Code of Conduct (https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md) and is passionate about building a diverse community, as evidenced by our book dash application (https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/application-form.md).
+_The Turing Way_ has a Code of Conduct (https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md) and is passionate about building a diverse community, as evidenced by our book dash application (https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/book-dash/application-form.md).
 
 ### Mentorship
 

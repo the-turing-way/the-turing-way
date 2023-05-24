@@ -1,0 +1,38 @@
+# Give your test a name!
+name: UpdateContributorsRecord
+
+# runs daily
+on:
+  schedule:
+    - cron: "00 13 * * FRI"
+    # minute (0 - 59), hour (0 - 23), day of month (1 - 31), month(1 - 12 or JAN-DEC), day of week (0 - 6 or SUN-SAT)
+
+# Set up the Continuous Integration job
+jobs:
+  UpdateContributorsRecord:
+    runs-on: ubuntu-latest
+    # This section collects together the steps involved in running the test
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v3
+
+      # Run a simple script that combines content from 2 files
+      - name: Combine contributors information
+        run: |
+          chmod +x ./tests/contributors.sh
+          ./tests/contributors.sh
+
+      # Create a PR with changes
+      - name: pull-request
+        #uses: repo-sync/pull-request@v2
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: Update Contributors Record
+          branch: contributors-bot-patches
+          delete-branch: true
+          title: "[automated-pr] Update Contributors Record in Afterword"
+          body: |
+            Update Contributors Record in Afterword
+            - Updated with any change in contributors.md and contributors table (in README.md)
+          labels: |
+            automated pr

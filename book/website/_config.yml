@@ -1,148 +1,63 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+#######################################################################################
+# A default configuration that will be loaded for all jupyter books
+# Users are expected to override these values in their own `_config.yml` file.
+# This is also the "master list" of all allowed keys and values.
 
 #######################################################################################
-# Jekyll site settings
-title: The Turing Way
-author: Kirstie Whitaker
-email: kwhitaker@turing.ac.uk
-description: >-
-  The Turing Way is a lightly opinionated guide to reproducible data science.
-
-baseurl: /               # the subpath of your site, e.g. /blog. If there is no subpath for your site, use an empty string ""
-url: https://the-turing-way.netlify.com # the base hostname & protocol for your site, e.g. http://example.com
-
+# Book settings
+title                       : The Turing Way  # The title of the book. Will be placed in the left navbar.
+author                      : The Turing Way Community  # The author of the book
+copyright                   : "2019-2023"  # Copyright year to be placed in the footer
+logo                        : "./figures/logo-detail-with-text.svg"  # A path to the book logo
+email                       : "theturingway@gmail.com"
+exclude_patterns            : ["LICENSE.md"]  # Patterns to skip when building the book. Can be glob-style (for example "*skip.ipynb")
 
 #######################################################################################
-# Jupyter Book settings
-
-# Notebook content settings
-hide_cell_text: '# HIDDEN'              # When building the textbook, any cells with this text inside will be hidden in the output markdown
-hide_code_text: '# NO CODE'              # When building the textbook, any cells with this text inside will have *only* their output shown (no code)
-use_hide_code_button: true        # If True, a small button appears to the right of each cell that lets you hide its contents.
-
-# Sidebar settings
-show_sidebar: true                # Show the sidebar. Only set to false if your only wish to host a single page.
-collapse_inactive_chapters: true  # Whether to collapse the inactive chapters in the sidebar
-textbook_logo: "" #images/logo/logo.png               # A logo to be displayed at the top of your textbook sidebar
-textbook_logo_link: https://github.com/alan-turing-institute/the-turing-way/   # A link for the logo.
-sidebar_footer_text: Powered by <a href="https://github.com/jupyter/jupyter-book">Jupyter
-  Book</a>
-number_toc_chapters: true         # Whether to add numbers to chapterse in your Table of Contents. If true, you can control this at the Chapter level in _data/toc.yml
-
-# Search settings
-search_max_words_in_content: 100   # In the search function, use at most this many words (too many words will make search slow)
+# Execution settings
+execute:
+  execute_notebooks         : auto  # Whether to execute notebooks at build time. Must be one of ("auto", "force", "cache", "off")
+  cache                     : ""  # A path to the jupyter cache that will be used to store execution artifacs. Defaults to `_build/.jupyter_cache/`
+  exclude_patterns          : ["LICENSE.md"]  # A list of patterns to *skip* in execution (for example a notebook that takes a really long time)
 
 #######################################################################################
-# Interact link settings
-
-# General interact settings
-use_jupyterlab: false                     # If 'true', interact links will use JupyterLab as the interface
-
-# Jupyterhub link settings
-use_jupyterhub_button: false              # If 'true', display a button that will direct users to a JupyterHub (that you provide)
-jupyterhub_url: ''                     # The URL for your JupyterHub. If no URL, use ""
-jupyterhub_interact_text: Interact             # The text that interact buttons will contain.
-
-# Binder link settings
-use_binder_button: false                 # If 'true', add a binder button for interactive links
-binderhub_url: https://mybinder.org                        # The URL for your BinderHub. If no URL, use ""
-binder_repo_base: https://github.com/                     # The site on which the textbook repository is hosted
-binder_repo_org: alan-turing-institute                     # The username or organization that owns this repository
-binder_repo_name: the-turing-way-book                        # The name of the repository on the web
-binder_repo_branch: master                   # The branch on which your textbook is hosted.
-binderhub_interact_text: Interact              # The text that interact buttons will contain.
-
-# Thebelab settings
-use_thebelab_button: true                # If 'true', display a button to allow in-page running code cells with Thebelab
-thebelab_button_text: Thebelab                 # The text to display inside the Thebelab initialization button
-
-# Download settings
-use_download_button: true                # If 'true', display a button to download a zip file for the notebook
-download_button_text: Download                # The text that download buttons will contain
+# HTML-specific settings
+html:
+  favicon                   : "./figures/logo/favicon-32x32.png"  # A path to a favicon image
+  navbar_number_sections    : False  # Add a number to each section in your left navbar
+  google_analytics_id       : "UA-167881009-1"  # A GA id that can be used to track book views.
+  home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
+  use_repository_button     : true  # Whether to add an "Repository" button to pages. If `true`, repository information in repository: must be filled in
+  use_issues_button         : true # Whether to add an "Open issue" button to pages. If `true`, repository information in repository: must be filled in
+  use_edit_page_button      : true  # Whether to add an "Suggest edit" button to pages. If `true`, repository information in repository: must be filled in
+  baseurl                   : "https://the-turing-way.netlify.com"  # The base URL where your book will be hosted. Used for creating image previews and social links. for example: https://mypage.com/mybook/
+  extra_navbar              : Visit our <a href="https://github.com/alan-turing-institute/the-turing-way">GitHub Repository</a>
+    <div>This book is powered by <a href="https://jupyterbook.org">Jupyter Book</a></div>
+  extra_footer: |
+    The Turing Way Community makes all of their materials publicly available under  <a href="https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md">open source licenses</a>
+  comments:
+    hypothesis              : true
 
 #######################################################################################
-# Jupyter book extensions and additional features
+# Launch button settings
+launch_buttons:
+  notebook_interface        : "classic"  # The interface interactive links will activate ["classic", "jupyterlab"]
+  binderhub_url             : "https://mybinder.org"  # The URL of the BinderHub (for example, https://mybinder.org)
+  jupyterhub_url            : ""  # The URL of the JupyterHub (for example, https://datahub.berkeley.edu)
+  thebelab                  : false  # Add a thebelab button to pages (requires the repository to run on Binder)
 
-# Bibliography and citation settings. See https://github.com/inukshuk/jekyll-scholar#configuration for options
-scholar:
-  style: apa
-
-#######################################################################################
-# Option to add a Goggle analytics tracking code
-
-# Navigate to https://analytics.google.com, add a new property for your jupyter book and copy the tracking id here.
-google_analytics:
-  mytrackingcode:
-
-#######################################################################################
-# Jupyter book settings you probably don't need to change
-
-content_folder_name: ../content           # The folder where your raw content (notebooks/markdown files) are located
-images_url: /assets/images                   # Path to static image files
-css_url: /assets/css                      # Path to static CSS files
-js_url: /assets/js                       # Path to JS files
-custom_static_url: /assets/custom            # Path to user's custom CSS/JS files
-
+repository:
+  url                       : https://github.com/alan-turing-institute/the-turing-way  # The URL to your book's repository
+  path_to_book              : "book/website"  # A path to your book's folder, relative to the repository root.
+  branch                    : main
 
 #######################################################################################
-# Jekyll build settings (only modify if you know what you're doing)
+# Advanced and power-user settings
+sphinx:
+  extra_extensions          :  # A list of extra extensions to load by Sphinx.
+  config                    :  # key-value pairs to directly over-ride the Sphinx configuration
+    language                : en
+    html_js_files: [ ['https://plausible.io/js/script.js', {'defer': 'defer', 'data-domain': 'the-turing-way.netlify.app'}] ]
+    html_show_copyright     : false
 
-# Site settings
-defaults:
-- scope:
-    path: ''
-  values:
-    layout: default
-    toc: true
-    toc_label: '  On this page'
-    toc_icon: list-ul
-
-favicon_path: images/logo/favicon.ico
-
-# Markdown Processing
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-
-sass:
-  style: compressed
-
-collections:
-  build:
-    output: true
-    permalink: /:path.html
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-exclude:
-- scripts/
-- Gemfile
-- Gemfile.lock
-- node_modules
-- vendor/bundle/
-- vendor/cache/
-- vendor/gems/
-- vendor/ruby/
-
-plugins:
-- jekyll-redirect-from
-- jekyll-scholar
-
-# Jupyter Book version - DO NOT CHANGE THIS. It is generated when a new book is created
-jupyter_book_version: 0.4.2
+bibtex_bibfiles:
+    - _bibliography/references.bib
