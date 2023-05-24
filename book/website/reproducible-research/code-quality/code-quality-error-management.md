@@ -43,6 +43,7 @@ Instead, try to focus on assumptions you make about the data and/or files a user
 
 ### Step 2: Assert/verify assumptions
 Once you have identified assumptions, you can verify if they are true.
+This is also called 'asserting'.
 Depending on your programming language, and the nature of the assumption, there are many creative ways to do this.
 A good starting point for verifying an assumption can be an if/else statement:
 
@@ -61,14 +62,26 @@ Or if they are performing mathematical operations on pieces of text.
 
 
 ### Step 3: Deal with unmet assumptions
+What can you do when a condition is not met?
 
+There are roughly three ways you can deal with an unmet assumption:
+- Redirect: you can send the program in a different direction based on the information you are given;
+- Report: you can inform the user that something is different than what the program expects;
+- Abort: you can stop executing the program.
 
+All programming languages have the option to raise an error.
+These errors can come in different flavors.
+Two main flavors that you will find in most programming languages are 'warning' and 'error'.
+A 'warning' is less severe than an 'error'; it indicates a potential problem, but does not stop the program.
+An 'error' is thrown when the program needs to halt.
 
-|          | error type | action           |
+Thus, error types fit well with the different ways of dealing with unmet assumptions:
+
+|          | Error type | Action           |
 |:---------|:-----------|:-----------------|
 | Redirect | None       | Choose next step |
-| Report   | Warning    | None             |
-| Abort    | Error      | Stop             |
+| Report   | Warning    | No action        |
+| Abort    | Error      | Stop executing   |
 
 
 
