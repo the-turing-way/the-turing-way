@@ -28,6 +28,7 @@ We will go into this more in the next section.
 ## 2. Workflow
 
 ### Step 1: Describe assumptions
+
 Your code contains many assumptions.
 For example, a function performing a simple mathematical operation assumes that its input is numerical.
 What happens if this function is used on a bit of text?
@@ -71,8 +72,8 @@ However, simply the existence of this if/else block will be able to alert a user
 If they are trying to select a column that does not exist, for instance.
 Or if they are performing mathematical operations on pieces of text.
 
-
 ### Step 3: Deal with unmet assumptions
+
 What can you do when a condition is not met?
 
 There are roughly three ways you can deal with an unmet assumption:
@@ -94,9 +95,19 @@ Thus, error types fit well with the different ways of dealing with unmet assumpt
 | Report   | Warning    | No action        |
 | Abort    | Error      | Stop executing   |
 
-
-
 ## 3. Error quality
+
+When raising an error (or warning), you often have the option to add information.
+This is important information for a user who attempts to run your program, but runs into a problem.
+The information you provide can help them make the changes necessary to successfully run your program.
+
+> "Make sure that when it fails, it fails informatively."
+> [Jenny Bryan](https://github.com/jennybc/debugging#readme)
+
+### Error categories
+
+
+
 Sliding scale from "No error / silent failure", to "unintelligible error", "generic error", to "informative error".
 
 The goal is first to catch issues (so: no silent failure), then to maximize the informativeness of the error along this axis.
