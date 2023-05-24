@@ -11,7 +11,7 @@ This chapter will cover examples of data governance tools and methods for ML for
 - Data Management
 - Data Processing
 
-## Data Collection
+## Data Collection
 
 Many ML models are trained using datasets collected by the research team, which may be open or proprietary, or by using an open dataset that is available for download.
 Deep learning (DL) family of models, in particular, rely on massive corpuses of data such as text, code, images, sound, and other media.
@@ -42,7 +42,7 @@ Because opt-out occurs after a dataset has already been created, it will not rem
 This tool was developed by the BigCode team to help developers inspect The Stack dataset so they cansee whether any of their repositories have been included and might be used for training ML models. 
 If that is the case, developers can fill out a form to request to opt-out from The Stack and have their data removed for future iterations of the dataset.
 
-## Data Processing
+## Data Processing
 
 In order to address some of the problematic aspects of the data, such as biased or harmful content or existence of personal information, some data processing should be done before the dataset is used for model training, released to a wider audience, or ideally, even before stored to a database.
 Addressing these data quality and privacy issues may be motivated by regulatory compliance like GDPR or a team’s norms and best practices.
