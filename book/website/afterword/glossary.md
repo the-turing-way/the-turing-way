@@ -1,4 +1,5 @@
 (glossary)=
+
 # Glossary
 
 ## A
@@ -13,6 +14,9 @@ Acknowledgements
 
 Add
   Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit.
+
+Adversarial Learning
+  A process under which learning systems are exposed to negative stimuli, such as the addition of purposefully manipulated data samples, in order to obtain potentially-beneficial effects. Examples of this technique may include the addition of additional learning objectives which penalise unwanted characteristics of a learning system, for example the ability to distinguish between data records based on inappropriate demographic attributes.
 
 Authors
   Authors in this context are the contributors to _The Turing Way_ project who have made a substantial contribution to the project such as writing a subchapter, facilitating community interactions, maintaining project’s infrastructure and supporting the participation of others through mentored-contributions. All authors are named co-authors on the book as a whole.
@@ -128,6 +132,9 @@ CRediT Taxonomy
 Data repository
   See repository.
 
+Differential privacy
+  A strategy to provide quantifiable privacy guarantees when working with datasets containing personal information. The idea is that if the effect of making a single arbitrary substitution of a single record within the dataset on an aggregated query is below a specific threshold, then the result of any such query would not reveal substantial information about any individual member.
+
 DMP
   Data management plan.
 
@@ -173,6 +180,9 @@ End to End Test
 
 FAIR
   Findable, Accessible, Interoperable and Reusable.
+
+Federated Learning
+  A design paradigm for information processing technologies in which the processing of information is decentralized and local data samples are not exchanged in full with a central entity. Used in machine learning to denote a system where learning is carried out via multiple nodes through the exchange of parameter values or other learning products rather than data samples directly.
 
 First author
   The most prominent position in academic authorship. It conveys this person's position as the researcher who has made the greatest contribution to the research.
@@ -234,13 +244,18 @@ Human Readable
 ## I
 
 ```{glossary}
+Identifier
+  An identifier is a key or name used as label or the identity of a unique class of objects, represnting an idea or physical objects. Also see: Persistent Identifier, Digital Object Identifier.
 
 Image
   Files used for generating containers.
 
+Inner source
+  Inner source is the use of open source software development best practices (open collboration, open communication and peer review practices) and the establishment of an open source-like culture within an organisation for the development of a non-open source output.
+
 Integration Testing
   A level of software testing where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units.
-  
+
 Intersectionality
   The way in which a person's identities (gender, race, class, sexual orientation, physical ability and others) can overlap and intersect to form a unique experience of social status, discrimination or oppression. This term was coined by Professor Kimberlé Crenshaw.
 
@@ -389,7 +404,7 @@ Package Management System
   A tool for installing, managing, and uninstalling software packages including specific versions.
 
 Persistent Identifier
-  A long-lived method for identifying a resource that is unique, and widely understandable by a community.
+  A long-lasting reference to a document, file, web page, or other digital object for identifying a resource that is unique, and widely understandable by a community. Also see: Digital Object Identifier.
 
 Pattern
   A pattern rule is a rule that contains exactly one % character in the target, which can be used to match a part of a filename.
@@ -405,13 +420,13 @@ Persona Canvas
 
 Phony Target
   A phony target is one that doesn’t correspond to a file on the filesystem. A target is marked as phony by making it a prerequisite of the .PHONY target.
-  
+
 Positionality
  Differences in social position and power shape identities and access in society. In acknowledging positionality, we also acknowledge intersecting social locations and complex power dynamics (also see: Intersectionality).
 
 Power Users
   These are people who are already familiar enough with a platform to know the gotchas and tricks that make their experience more efficient.
-  
+
 Preprint
    A preprint is a version of a scholarly or scientific paper that precedes formal peer review and publication in a peer-reviewed scholarly or scientific journal. It is usually uploaded by the authors to a public server where it is available openly.
 
@@ -479,6 +494,9 @@ Research Data Management
 Research Ethics
   Research ethics are the moral principles that govern how researchers should carry out their work. These principles are used to shape research regulations agreed by groups such as university governing bodies, communities or governments. All researchers should follow any regulations that apply to their work.
 
+Research Objects
+  Research objects are living resources aggregating inputs, materials, methods and/or software used in research.
+
 Review
   Suggesting changes or asking for committing something to an already created pull request.
 
@@ -511,7 +529,7 @@ Runtime Test
 
 Self Archiving
   Placing a publication or other research outputs in a suitable repository, institutional or subject-based, following the possible restrictions posed by the publisher, for example an embargo period, or limits on the allowed version to be deposited in such archives.
-  
+
 Self Reflection
   Activity of thinking about our thoughts, feelings, emotions, behaviour action, and the reasons that may lie behind them. Taking the time for reflection we can grow our understanding of who we are, what our values are, and why we think, feel, and act the way we do. When we self-reflect and become more conscious of what drives us, we can more easily make changes that help us more easily develop our self or improve our life including the way we conduct research (source: [Berkeley Wellbeing](https://www.berkeleywellbeing.com/what-is-self-reflection.html)).
 

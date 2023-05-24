@@ -11,7 +11,7 @@ Researcher-written code now forms a part of a huge portion of research, and if t
 Testing code thoroughly and frequently is vital to ensure reliable, reproducible research.
 This chapter will provide general guidance for writing tests and describe a number of different kinds of testing, their uses and how to go about implementing them.
 
-```{figure}  ../figures/error-management.jpg
+```{figure}  ../figures/error-management.*
 ---
 name: error-management
 alt: A person is happily coding, then a error throws and the coder gets confused. Then the coder can find the error and fix it.
@@ -30,14 +30,14 @@ Careers can be damaged/ended, vast sums of research funds can be wasted, and val
 
 Here's a couple of illustrations exemplifying of why should write tests:
 
-```{figure}  ../figures/testing-motivation1.png
+```{figure}  ../figures/testing-motivation1.*
 ---
 name: testing-motivation1
 alt:
 ---
 ```
 
-```{figure}  ../figures/testing-motivation2.png
+```{figure}  ../figures/testing-motivation2.*
 ---
 name: testing-motivation2
 alt:

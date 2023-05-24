@@ -37,14 +37,18 @@ You will need:
 
 🚦🚦🚦
 
-````{tabbed} Python
+
+`````{tab-set}
+````{tab-item} Python
+:sync: key1
 1) Create a new repo on GitHub called "my-first-binder"
    - Make sure the repository is **public**, _not private_!
    - Don't forget to initialise the repo with a README!
 2) Create a file called `hello.py` via the web interface with `print("Hello from Binder!")` on the first line and commit to the `main` branch
 ````
 
-````{tabbed} Julia
+````{tab-item} Julia
+:sync: key2
 1) Create a new repo on GitHub called "my-first-binder"
    - Make sure the repository is **public**, _not private_!
    - Don't forget to initialise the repo with a README!
@@ -58,7 +62,8 @@ You will need:
    ```
 ````
 
-````{tabbed} R
+````{tab-item} R
+:sync: key3
 1) Create a new repo on GitHub called "my-first-binder"
    - Make sure the repository is **public**, _not private_!
    - Don't forget to initialise the repo with a README!
@@ -71,6 +76,7 @@ You will need:
    In R you can use `holepunch::write_runtime()` to create a `runtime.txt` in the `.binder/` directory; it will be configured with today's date.
    ```
 ````
+`````
 
 (z2b-public-repo)=
 ### Why does the repo have to be public?
@@ -112,19 +118,24 @@ While you wait, BinderHub (the backend of Binder) is:
 
 🚦🚦🚦
 
-````{tabbed} Python
+````{tab-set}
+```{tab-item} Python
+:sync: key1
 1. From the launch panel, select "Terminal"
 2. In the new terminal window, type `python hello.py` and press return
-````
+```
 
-````{tabbed} Julia
+```{tab-item} Julia
+:sync: key2
 1. From the launch panel, select "Terminal"
 2. In the new terminal window, type `julia hello.jl` and press return
-````
+```
 
-````{tabbed} R
+```{tab-item} R
+:sync: key3
 1. From the launch panel, select "Terminal"
 2. In the new terminal window, type `Rscript -e 'source("hello.R")'` and then press return
+```
 ````
 
 `Hello from Binder!` should be printed to the terminal.
@@ -136,14 +147,17 @@ It was easy to get started, but our environment is barebones - let's add a **dep
 
 🚦🚦🚦
 
-````{tabbed} Python
+`````{tab-set}
+````{tab-item} Python
+:sync: key1
 1) In your repo, create a file called `requirements.txt`
 2) Add a line that says: `numpy==1.14.5`
 3) Check for typos! Then commit to the `main` branch
 4) Visit **https://mybinder.org/v2/gh/YOUR-USERNAME/my-first-binder/HEAD** again in a new tab
 ````
 
-````{tabbed} Julia
+````{tab-item} Julia
+:sync: key2
 1) In your repo, edit the `Project.toml` file
 2) Add a new block that says:
 
@@ -156,7 +170,8 @@ It was easy to get started, but our environment is barebones - let's add a **dep
 4) Visit **https://mybinder.org/v2/gh/YOUR-USERNAME/my-first-binder/HEAD** again in a new tab
 ````
 
-````{tabbed} R
+````{tab-item} R
+:sync: key3
 1) In your repo, create a file called `install.R`
 2) Add a line that says: `install.packages("readr")`
 3) Check for typos! Then commit to the `main` branch
@@ -166,6 +181,7 @@ It was easy to get started, but our environment is barebones - let's add a **dep
 If using `holepunch`, you can create an `install.R` file and automatically add the code to install all dependencies in your project using `holepunch::write_install()`.
 ```
 ````
+`````
 
 This time, click on "Build Logs" in the big, horizontal, grey bar.
 This will let you watch the progress of your build.
@@ -184,7 +200,9 @@ This time, BinderHub will read the configuration file you added and install the 
 (z2b-dependencies)=
 ### More on pinning dependencies
 
-````{tabbed} Python
+````{tab-set}
+```{tab-item} Python
+:sync: key1
 In the above example, we used two equals signs (`==`) to pin the version of `numpy`.
 This tells Binder to install that _specific_ version.
 
@@ -192,18 +210,20 @@ Another way to pin a version number is to use the greater than or equal to sign 
 This is useful when you have a lot of dependencies that may have dependencies on each other and allows Binder to find a configuration of your dependencies that do not conflict with one another whilst avoiding any earlier versions which may break or change your code.
 
 Finally, you could not provide a version number at all (just the name of the library/package) and Binder will install the latest version of that package.
-````
+```
 
-````{tabbed} Julia
+```{tab-item} Julia
+:sync: key2
 In the above example, we copied a hash into our `Project.toml` file which is related to the version of the package we'd like to install.
 For a full dependency graph, we would also need to include a `Manifest.toml` file which would document dependencies of dependencies.
 Between these two files, we are able to instantiate an exact replication of a Julia environment.
 
 Of course we can imagine that, as the environment grows and the inter-dependencies become more complex, it would become very taxing to write these files by hand!
 The truth is that you'd never do it manually, the built-in package manager `Pkg` can [generate them automatically](https://julialang.github.io/Pkg.jl/v1/environments/).
-````
+```
 
-````{tabbed} R
+```{tab-item} R
+:sync: key3
 In the above example, we specified that we want to use R in our project by including a date in `runtime.txt`.
 The date tells Binder which CRAN snapshot to source R and packages from.
 These snapshots are sourced from the [RStudio Package Manager](https://packagemanager.rstudio.com) (RSPM).
@@ -212,6 +232,7 @@ For the example workflow to work correctly, please ensure you do not supply a da
 
 This provides some rudimentary package versioning for R users but is not as robust as pinning versions in a `requirements.txt` in Python.
 For more robust and specific version pinning in R, have a look at the [`renv`](https://rstudio.github.io/renv/) package.
+```
 ````
 
 (z2b-step-5)=
@@ -219,7 +240,9 @@ For more robust and specific version pinning in R, have a look at the [`renv`](h
 
 🚦🚦🚦
 
-````{tabbed} Python
+`````{tab-set}
+````{tab-item} Python
+:sync: key1
 1) From the launch panel, select "Python 3" from the Notebook section to open a new notebook
 2) Type the following into a new cell:
 
@@ -237,7 +260,8 @@ For more robust and specific version pinning in R, have a look at the [`renv`](h
    - Press either SHIFT+RETURN or the "Run" button in the Menu bar
 ````
 
-````{tabbed} Julia
+````{tab-item} Julia
+:sync: key2
 1) From the launch panel, select "Julia" from the Notebook section to open a new Julia notebook
 2) Type the following into a new cell:
 
@@ -250,7 +274,8 @@ For more robust and specific version pinning in R, have a look at the [`renv`](h
    - Press either SHIFT+RETURN or the "Run" button in the Menu bar
 ````
 
-````{tabbed} R
+````{tab-item} R
+:sync: key3
 1) From the launch panel, select "R" from the Notebook section to open a new R notebook
 2) Type the following into a new cell:
 
@@ -266,6 +291,7 @@ For more robust and specific version pinning in R, have a look at the [`renv`](h
       - the version number of the installed version of `readr`
       - a tibble of the contents of the `mtcars.csv` which is a csv file included in package `readr`
 ````
+`````
 
 ```{attention}
 If you save this notebook, it **will not** be saved to the GitHub repo.
@@ -346,7 +372,9 @@ However, that is not to say that they are the _only_ groups of people who should
 
 🚦🚦🚦
 
-````{tabbed} Python
+`````{tab-set}
+````{tab-item} Python
+:sync: key1
 1) Go to your GitHub repo and create a file called `postBuild`
 2) In `postBuild`, add a single line reading: `wget -q -O gapminder.csv http://bit.ly/2uh4s3g`
    - `wget` is a program which retrieves content from web servers.
@@ -378,7 +406,8 @@ See this [Software Carpentry lesson](https://swcarpentry.github.io/python-novice
 ```
 ````
 
-````{tabbed} Julia
+````{tab-item} Julia
+:sync: key2
 1) Go to your GitHub repo and create a file called `postBuild`
 2) In `postBuild`, add a single line reading: `wget -q -O gapminder.csv http://bit.ly/2uh4s3g`
    - `wget` is a program which retrieves content from web servers.
@@ -418,7 +447,8 @@ plot(years, aus_gdp)
 ```
 ````
 
-````{tabbed} R
+````{tab-item} R
+:sync: key3
 1) Go to your GitHub repo and create a file called `postBuild`
 2) In `postBuild`, add a single line reading: `wget -q -O gapminder.csv http://bit.ly/2uh4s3g`
    - `wget` is a program which retrieves content from web servers.
@@ -454,6 +484,7 @@ data[data$country == "Australia", ] %>%
     geom_line()
 ```
 ````
+`````
 
 (z2b-beyond-notebooks)=
 ## Changing the Interface

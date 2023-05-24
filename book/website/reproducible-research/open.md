@@ -9,9 +9,9 @@
 | {ref}`rr-vcs` | Helpful | Experience with GitHub is particularly useful |
 
 
-```{figure} ../figures/evolution-open-research.jpg
+```{figure} ../figures/evolution-open-research.*
 ---
-name: evolution-open-research
+name: evolution-open-research-rr
 alt: This image shows a researcher evolving their research practices to move towards the era of open research. The image starts with the person looking anxious about engaging with open science, slowly they take a few steps, feel comfortable about sharing their work, and finally start to collaborate with others.
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
@@ -26,7 +26,7 @@ Open research aims to transform research by making it more reproducible, transpa
 - _Be reusable_: Research outputs need to be licensed appropriately, so that prospective users know any limitations on re-use.
 - _Be transparent_: With appropriate metadata to provide clear statements of how research output was produced and what it contains.
 
-The research process typically has the following form: data is collected and then analysed (usually using software). This process may involve the use of specialist hardware. The results of the research are then published. Throughout the process, it is good practice for researchers to document their working in notebooks. Open research aims to make each of these elements open:
+Schematically, the research process has the following form: data are collected and then analysed (often using software). This process may involve the use of specialist hardware. The results of the research are then published. Throughout the process, it is good practice for researchers to document their work. This can happen in notebooks or other forms of documentation. For experimental studies, Electronic Lab Notebooks are common. Open research aims to make each of these elements open:
 
 - _Open Data_: Documenting and sharing research data openly for re-use.
 - _Open Source Software_: Documenting research code and routines, and making them freely accessible and available.
@@ -34,7 +34,7 @@ The research process typically has the following form: data is collected and the
 - _Open Access_: Making all published outputs freely accessible for maximum use and impact.
 - _Open Notebooks_: An emerging practice, documenting and sharing the experimental process of trial and error.
 
-These elements are expanded upon in this chapter.
+See the [Open Definition](https://opendefinition.org/) for a set of principles that define “openness” in relation to data and content. The above elements are expanded upon in this chapter.
 
 Open scholarship [{term}`def<Open Scholarship>`] is a concept that extends open research further. It relates to making other aspects of scientific research open to the public, for example:
 
@@ -60,11 +60,11 @@ There are five main schools of thought motivating open practices to benefit rese
 Open practices also benefit the researchers that propagate them.
 For example, there is evidence {cite:ps}`McKiernan et al. 2016<McKiernan2016Open>` that open access articles are cited more often, as shown by the metastudy presented in the figure below.
 
-```{figure} ../figures/open-access-citations.jpg
+```{figure} ../figures/open-access-citations.*
 ---
 height: 500px
 name: open-access-citations
-alt: A scatter plot of the relationship between citation rates and discipline
+alt: A plot of the relative citation rate (OA divided by non-OA), in the x axis, for 19 different areas of knowledge, in the y axis. The areas of knowledge are organized from the highest to the lowest Relative Citation Rate in the following order - Agricultural Studies, Physics/Astronomy, Medicine, Computer Science, Sociology/Social Sciences, Psychology, Political Science, Management, Law, Economics, Mathematics, Health, Engineering, Philosophy, Education, Business, Communications Studies, Ecology, and Biology. The highest mean values are around 3.2 for Agricultural Studies, and the lowest are around 1.2 for Biology.
 ---
 The relative citation rate (OA: non-OA) in 19 fields of research. This rate is defined as the mean citation rate of OA articles divided by the mean citation rate of non-OA articles. Multiple points for the same discipline indicate different estimates from the same study or estimates from several studies. (See footnote 1 for references.)
 ```

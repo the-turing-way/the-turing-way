@@ -4,7 +4,7 @@
 Leaders empower others to identify solutions and make their own decisions to address the challenges they face.
 [Monica Cox](https://en.wikipedia.org/wiki/Monica_Cox), an awardee of Purdue University's Faculty Award of Excellent for Leadership, once called leadership as "the highest way of activism" ([reference](https://twitter.com/DrMonicaCox/status/1299346141386022913)).
 
-Her statement points to the leadership skill of involving the members of a group (that a leader aims to impact) in decision-making processes and not taking individual decisions for them ([reference](https://www.management-issues.com/opinion/6087/the-leader-as-activist/#:~:text=But%20when%20they%20use%20constructive,in%2Da%2Dlifetime%20act.)).
+This statement points to the leadership skill of involving the members of a group (that a leader aims to impact) in decision-making processes and not taking individual decisions for them ([reference](https://www.management-issues.com/opinion/6087/the-leader-as-activist/#:~:text=But%20when%20they%20use%20constructive,in%2Da%2Dlifetime%20act.)).
 Leadership is different from operating individually, managing a task or administering a role in isolation.
 It is about understanding and enabling the purpose of the project and process through which people within a team work with each other to reach the overarching goal.
 

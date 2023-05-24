@@ -8,7 +8,7 @@
 | -------------|------------|-------|
 | {ref}`Version Control<rr-vcs>` | Necessary | Understanding the way that [Github](https://github.com) arranges its branches, forks, and pull requests within repositories is needed. |
 
-```{figure} ../figures/bug-catching.jpg
+```{figure} ../figures/bug-catching.*
 ---
 height: 500px
 name: bug-catching
