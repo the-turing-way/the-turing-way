@@ -50,6 +50,12 @@ Below is a checklist you can use to help identify areas of project planning you 
 * Complete any institutional processes for project set up, such as ethics approval or contracting signing. 
 * Useful documentation: RACI matrix, risk register, project charter.
 
+### Stakeholders
+* Identify the project stakeholders
+* Complete a stakeholder mapping, identify level of engagement and stakeholder responsibilities on each stage of the  project
+* Use the facilitating stakeholder engagement for guidance and templates resources[quote the chapter being developed by RAM team #3105]
+
+
 ### Outputs 
 * Plan for the different outputs of your research, such as publications, software, or datasets.
 * Consider licensing and copyright issues for sharing your outputs.
