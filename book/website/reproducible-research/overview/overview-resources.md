@@ -31,7 +31,7 @@ You first need to know that linux and OSX use `bash` code natively, while the co
 List of some tools and training materials for using the command-line:
 - A [game to teach one the basics of using a POSIX (Linux, BSD, UNIX) terminal](https://gitlab.com/slackermedia/bashcrawl) 
 - Carpentries lesson on [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
-- https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/
+- An article on [Command Line Tutorial: Usage in Linux and macOS](https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/)
 - https://programminghistorian.org/en/lessons/intro-to-bash
 
 To ease your journey, here are two tips which should make onboarding much easier:
