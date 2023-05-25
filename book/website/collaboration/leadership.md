@@ -80,7 +80,7 @@ We hope that by discussing leadership here, we will:
 * Spotlight on important points that everyone in research should know
 * Inspire those who think leadership is not for them to review their assumptions (and maybe see themselves with abilities to lead a project).
 * Ignite reflection and spark conversations about the leaderships we want to promote in data science.
-* evaluate if leadership in our workplace or communities are healthy, compassionate, and inclusive, and how we can improve it.
+* Evaluate if leadership in our workplace or communities are healthy, compassionate, and inclusive, and how we can improve it.
 
 In this chapter, we will introduce and discuss: 
 - {ref}`important features<cl-leadership-features>` of leadership when experiencing and exercising them in data science,
