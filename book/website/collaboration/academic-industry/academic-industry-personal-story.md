@@ -14,7 +14,7 @@ After we ran an initial workshop we wanted somewhere for participants to continu
 Slack suited this purpose and we have since grown its use as somewhere to share partnership news, ask for advice and share interesting papers, jobs and opportunities, as well as its original purpose of allowing people to connect after events we have run. 
 We also have experimented with coffee chats.
 
-A learning I think that is useful to pass on is considering a strategy for growth of your Slack Workspace or other messaging/social media space. 
+A learning that I think is useful to pass on is considering a strategy for growth of your Slack Workspace or other messaging/social media space. 
 The Turing-Roche Slack grew larger than we had expected, meaning we had implement things like an onboarding message and new channels retrospectively rather than considering these needs at the start.
 
 You will also need to consider whether your Slack is open for anyone to join and whether its cost effective to sign up to a paid plan which has benefits such as keeping your message history. 
