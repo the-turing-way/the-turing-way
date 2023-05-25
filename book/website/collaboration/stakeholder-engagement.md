@@ -48,6 +48,23 @@ Once the information is gathered in a single place, you can identify key questio
 * Requirements gathering is informed by the user interview process from the design and qualitative research worlds
 * The work begins after you gather requirements information, which is the starting point to facilitate a group conversation
 
+## Running stakeholder workshops
+### Key question: What work before, during, and after a workshop should be done to run an effective stakeholder workshop?
+
+Workshops are best suited for engagement activites where there is a need to bring people together to deeply engage on an area of interest with the purpose of working on a task as opposed to gatherings which are purely driven by conversation. 
+This ensures participants are taking active steps towards achieving a shared goal.
+
+Organising an effective workshop is a multi stage process which can be segmented into three stages; pre-workshop, workshop execution and post-workshop.
+We think it's important to prepare for each stage with equal weight and consideration to ensure the best process for participants throughout.
+
+### Example resources
+- [RAM Stakeholder Workshop Checklist](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/stakeholder_workshops.md) with key steps and considerations for each stage in the workshop process
+
+### RAM insights
+* Be prepared to reign in conversations which labour a point with no apparant solution
+* Read around the workshop topic to be at the very least prepared enough to engage with participants at a high or abstract level
+* Offer opportunities to network and make sure you make every effort to speak to all participants 
+
 (cl-stakeholder-strategy-workshops)=
 ## Strategy alignment workshops
 ### Key question: How can we bring different ideas across a group of collaborators into a shared strategy?
