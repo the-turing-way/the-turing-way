@@ -12,7 +12,7 @@
 (pd-dg-summary)=
 ## Summary
 
-As researchers and data practitioners, we need to consider how to make decisions as individuals and on teams for how we collect, manage, apply, and grant access to the datasets we work with.
+As researchers and data practitioners, we need to consider how to make decisions as individuals and within teams for how we collect, manage, apply, and grant access to the datasets we work with.
 
 In this chapter, we give an overview of data governance best practices for different contexts such as machine learning. 
 We will provide guidance for different workflows and give examples of tools demonstrating how different teams have approached data governance activities such as
