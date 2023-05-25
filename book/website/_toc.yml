@@ -523,7 +523,7 @@ parts:
                 file: collaboration/new-community/new-community-teamwork
           - title: Team Manual
             file: collaboration/team-manual
-          - title: Leadership in Data Science
+          - title: Open Leadership in Data Science
             file: collaboration/leadership
             sections:
               - title: Important Features of Leadership
