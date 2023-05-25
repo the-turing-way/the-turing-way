@@ -25,31 +25,31 @@ We can begin the project design process by identifying different parts of our re
 ### Aims & Values 
 * Define the main research questions and objectives.
 * Identify the core values and principles that guide your project.
-* Useful documentation: project canvas, values document, project 1-pagers.
+* Useful documentation: [project canvas](https://canvanizer.com/new/project-canvas), values document, [project 1-pagers](https://www.smartsheet.com/content/project-report-templates).
 
 ### Timeline & Milestones 
 * Establish a project timeline with key milestones and deadlines.
 * Break down the project into manageable phases or tasks.
-* Useful documentation: Gantt charts, roadmaps, or project boards.
+* Useful documentation: [Gantt charts](https://clickup.com/blog/gantt-chart-project-templates/), [roadmaps](https://www.smartsheet.com/free-product-roadmap-templates-smartsheet), or [project boards](https://teamhood.com/project-management/project-board/).
 
 ### Methodology
 * Determine the appropriate research methods and materials.
 * Consider the necessary code and data requirements for your project.
 * Document the workflow for data collection, analysis, and interpretation.
-* Useful documentation: data management plan, code repository, electronic lab notebooks.
+* Useful documentation: [data management plan](rr-rdm-dmp), [code repository](pd-project-repo), [electronic lab notebooks](rr-open-notebooks).
 
 ### Operations 
 * Confirm the budget and any funding policies you need to follow.
 * Establish ways of working and collaborative practices for the project team.
 * Identify roles and responsibilities within the project team, using the RACI matrix.
 * Complete any institutional processes for project setup, such as ethics approval or contract signing.
-* Useful documentation: RACI matrix, risk register, project charter.
+* Useful documentation: [RACI matrix](https://project-management.com/understanding-responsibility-assignment-matrix-raci-matrix/), [risk register](https://asana.com/resources/risk-register), [project charter](https://www.projectmanager.com/blog/project-charter).
 
 ### Stakeholders
 * Identify all individuals, groups, or organizations that have an interest or influence in the project. This includes both internal and external stakeholders
 * Create a visual representation or matrix to understand the relationships between stakeholders and the project. Map their level of engagement, influence, and interest at each stage of the project. This helps prioritise engagement efforts and tailor communication strategies accordingly.
 * Utilise the "Facilitating Stakeholder Engagement" chapter for guidance and template resources [The chapter is being developed by RAM team #3105].
-* Useful documentation: stakeholder register, stakeholder mapping, stakeholder analysis matrix, personas.
+* Useful documentation: stakeholder register, stakeholder mapping, stakeholder analysis matrix, [personas](pd-persona).
 
 ### Outputs 
 * Plan for the different outputs of your research, such as publications, software, or datasets.
@@ -62,7 +62,7 @@ We can begin the project design process by identifying different parts of our re
 * Identify the target audience for your research.
 * Plan for effective communication and engagement with the community.
 * Consider open and inclusive practices to involve stakeholders in decision-making.
-* Useful documentation: Code of Conduct, Contributing Guidelines, READMEs, communication plan, stakeholder mapping, governance documentation.
+* Useful documentation: [Code of Conduct](ch-coc), [Contributing Guidelines](cl), [READMEs](https://the-turing-way.netlify.app/collaboration/github-novice/github-novice-firststeps.html?highlight=readmes), communication plan, stakeholder mapping, governance documentation.
 
 ### Maintenance & Archiving 
 * Develop a plan for the long-term maintenance and sustainability of your project.
