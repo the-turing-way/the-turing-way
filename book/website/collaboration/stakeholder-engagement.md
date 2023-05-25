@@ -68,6 +68,6 @@ It is important to take these conversations in order, so that team strategy and 
 ### RAM Insights
 * Providing basic infrastructure for the conversation helps provide focus and provide clarity and can lead to a better conversation.
 * By not overstructuring the conversation, you will also allow people the space to express their thoughts freely. We feel this is an important approach as it allows open conversations to happen and things to emerge that otherwise might not
-* Strong facilitation skills are crucial, including reading the room and identifying patterns in the conversation. For more on how effective facilitation, check out:
+* Strong facilitation skills are crucial, including reading the room and identifying patterns in the conversation. For more on effective facilitation, check out:
     * {ref}`Chairing Events <cl-chairing>`
     * {ref}`Tools for Collaboration <cl-event-tools>`
