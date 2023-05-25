@@ -13,7 +13,7 @@ Collaboting with civil society has much added value when your research has a spe
 For example, you might be researching something that is relevant for persons with disabilities, or a specific neighbourhood within a city. 
 Not only can your research benefit from reaching out to the people who belong to these communities, but these same people might benefit immensely from your research results. 
 Reaching out to individuals within these communities might be difficult if not impossible. 
-Civil society (organisations) can be of great help is reaching out to these communities. 
+Civil society (organisations) can be of great help in reaching out to these communities. 
 They usually: 
 - have access to the right audience,
 - use channels of communication that are inclusive and targeted to a specific audience (associations of persons with speficic disabilities or neighbourhood chat in case of examples above),
