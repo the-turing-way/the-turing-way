@@ -5,7 +5,8 @@
 
 ### What is civil society
 
-Civil society is any community united around an issue, common intertests and/or a joint activity. Civil society can be a formal organization or an unofficial community. 
+Civil society is any community united around an issue, common interests and/or a joint activity. 
+Civil society can be a formal organization or an unofficial community. 
 
 ### Why involve civil society
 
