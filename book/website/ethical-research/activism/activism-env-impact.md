@@ -55,7 +55,11 @@ Why should we be concerned about this rise in temperature?
 (er-activism-env-impact-awareness-raising)=
 ## Awareness raising
 
-... TBC!
+Below we share some thought-provoking questions about the Environmental Impact of Digital Research.
+
+- Where in the world did you last computer end? An estimated 50 million tons of electronic waste are discarded each year. This is equivalent to throwing out 1000 laptops every single second. Less than 20% of e-waste is formally recycled, with 80% either ending up in landfill on developing countries, exposing vulnerable populations and their environment to health and pollution impacts (ref: https://www3.weforum.org/docs/WEF_A_New_Circular_Vision_for_Electronics.pdf).
+- How many unused or unaccessible data do you have on the cloud? In 2021, on average, 35% of enterprise data is “dark,” meaning it has an unknown value, while 50% is redundant, obsolete or trivial. Only about 16% is business-critical, the study concluded. (ref: https://www.veritas.com/content/dam/Veritas/docs/reports/GA_ENT_AR_Veritas-Vulnerability-Gap-Report-Global_V1414.pdf)
+- How much of the world's total electricity the technological sector will use by 2025? It is predicted that by 2025, the technology sector will consume 20% of the world’s total electricity (compared to 7% in 2022). Ref: https://www.tier1.com/the-environmental-impact-of-our-data-storage/)
 
 (er-activism-env-impact-reduction-strategies)=
 ## Strategies for reduction
