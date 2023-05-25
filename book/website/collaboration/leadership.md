@@ -77,7 +77,7 @@ In this chapter, we explore different aspects of (open leadership) that are appl
 After all, "technical skills are just one aspect of making data science research open, reproducible, inclusive and ethical for all" ([ref](https://the-turing-way.netlify.app/)).
 
 We hope that by discussing leadership here, we will:
-* spotlight on important points that everyone in research should know
+* Spotlight on important points that everyone in research should know
 * Inspire those who think leadership is not for them to review their assumptions (and maybe see themselves with abilities to lead a project).
 * ignite reflection and spark conversations about the leaderships we want to promote in data science, and
 * evaluate if leadership in our workplace or communities are healthy, compassionate, and inclusive, and how we can improve it.
