@@ -35,7 +35,7 @@ Their roles may not be permanent or predestined but emerge as needed for the tas
 Open leaders uphold transparency, inclusivity, adaptability, collaboration, and community.
 ```
 
-Open Leadership Framework states that leadership is about involving members and mobilising communities to solve problems and achieve goals that are beneficial for everyone. 
+The Open Leadership Framework states that leadership is about involving members and mobilising communities to solve problems and achieve goals that are beneficial for everyone. 
 
 Individuals who lead their work (project, organisation, communication, resources) openly design different aspects of their work to promote openness and social good throughout their work life cycle.
 
