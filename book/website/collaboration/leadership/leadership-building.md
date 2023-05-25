@@ -77,7 +77,8 @@ They should also ensure people know where and how to ask for help, whether that 
 If leaders don't make it ok for their team members to share their challenges, team members, particularly newer members, will not know what is appropriate and won't ask for help even when they need it. 
 This will likely have a negative impact on the overall project/team/organisation dynamics, decrease opportunities for building trust, and affect people's mental health, which may result in burnout.
 - **Tunnel vision**: Leaders should be aware of the research landscape, trends, and state-of-the-art technology/approaches relevant to their teams. 
-Even if the organisation or a project might focus on one line of work, awareness about and an understanding of what is 'going on around' at the broader level will prompt further discussions and go beyond finding quick solutions.
+Even if the organisation or a project might focus on one line of work, awareness about and an understanding of what is 'going on around' at the broader level help create a better direction for the project.
+They should prompt their team members to engage in discussions that help them go beyond finding quick solutions.
 - **Hide weaknesses**: Weaknesses should be something we should embrace and work on, not something to hide - especially leaders. 
 Leaders should not put unrealistic expectations on their team members to know everything, unicorns do not exist!
 Instead, they should encourage complementing skillsets and create teams where everyone can learn from and build on each others' skills.
