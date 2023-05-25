@@ -17,7 +17,7 @@ The deep learning (DL) family of models, in particular, rely on massive corpuses
 The process of data collection depends on the type and volume of data required and sources for acquisition.
 Many DL models rely on Internet data due to the sheer volume of digital content that is available on the web. 
 For example, [ImageNet datasets](https://www.image-net.org/about.php) are sourced from web images from image hosting websites like Flickr, and [LAION datasets](https://laion.ai/faq/) come from web crawling sources like Common Crawl.
-These methods of data collection through web scraping have raised issues regarding data quality and bias due to the nature of uncurated Internet data, as well as issues of data rights as web scraped data sets often include copyrighted data or data obtained without consent that may be in violation of the data license and terms of use.
+These methods of data collection through web scraping have raised issues regarding data quality and bias due to the nature of using uncurated Internet data, as well as issues of data rights as web scraped data sets often include copyrighted data or data obtained without consent that may be in violation of the data license and terms of use.
 To address the issues of respecting data licenses, some ML teams are choosing to only use open source or permissively licensed data.
 This can be challenging to accomplish with data that does not have explicit licenses, or for data scraped for the web which may not have a license included in the metadata.
 
