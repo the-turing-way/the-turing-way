@@ -12,7 +12,7 @@ This chapter will cover examples of data governance practices for ML for differe
 
 ## Data Collection
 
-Many ML models are trained using datasets collected by the research team, which may be proprietary, or by using an open dataset that is available for download.
+Many ML models are trained using datasets collected by a research team, which may be proprietary, or by using an open dataset that is available for download (sometimes with restrictions on its usage).
 The deep learning (DL) family of models, in particular, rely on massive corpuses of data such as text, code, images, sound, and other media.
 The process of data collection depends on the type and volume of data required and sources for acquisition.
 Many DL models rely on Internet data due to the sheer volume of digital content that is available on the web. 
