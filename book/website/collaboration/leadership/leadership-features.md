@@ -15,7 +15,7 @@ With this basic understanding of leadership, we discuss some essential leadershi
 Like a project manager in a team-based research project or a tech company CEO, there are formally-assigned leadership positions.
 A company CEO have the power to make decisions to provide organisational resources which can impact the overall efficiency and the ability of teams to deliver on organisational goals.
  
-However, such a top-down approach to decision-making is the characteristic of being a manager. It does not necessarily make them a leader. 
+However, they can not ensure that people in their organisation will complete their assigned projects. 
 Individuals within the teams who inspire their team members play huge role in keeping team motivated as they make progress in their own rights, and take on leadership roles themselves.
 
 ## Emergent leadership
