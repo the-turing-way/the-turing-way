@@ -5,7 +5,7 @@
 As formal career paths for many research infrastructure roles are currently not yet defined, formal leadership positions are limited and often tied to managing people or budgets.
 In the ten years I have worked in the open science space in research infrastructure roles (research data librarian might come closest to describing it), I have not formally managed a team, though I hope that I have led and enacted change and hopefully inspired some people along the way to work more openly.
 
-*So: how do people in research infrastructure roles lead?*
+*So, how do people in research infrastructure roles lead?*
 
 Many of these roles contain a degree of coordination and project management, so our leadership brings people together, facilitates conversations that otherwise might not happen and while we might not be decision makers, we certainly can get others to make decisions and hold them accountable for enacting them.
 
