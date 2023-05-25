@@ -49,10 +49,10 @@ Once the information is gathered in a single place, you can identify key questio
 * The work begins after you gather requirements information, which is the starting point to facilitate a group conversation
 
 (cl-stakeholder-strategy-workshops)=
-## Team strategy workshops
-### Key question: How can we bring different ideas across the team into a shared team strategy?
+## Strategy alignment workshops
+### Key question: How can we bring different ideas across a group of collaborators into a shared strategy?
 
-A team will struggle to collaborate and progress together if its members are not aligned on what it is trying to achieve. 
+A group of collaborators will struggle to work together and progress if its members are not aligned on what they are trying to achieve together. 
 Strategy alignment goes deeper than agreeing on day to day work - it asks what the team chooses to prioritise, what they value, what motivates them, and ultimately what real-world impact they hope to see from their work.
 A helpful model to inform this exercise is Simon Sinek's [Golden Circle method](https://www.smartinsights.com/digital-marketing-strategy/online-value-proposition/start-with-why-creating-a-value-proposition-with-the-golden-circle-model/), where the team approaches their work in the following order:
 * Why: Why are we doing what we're doing? 
@@ -62,13 +62,13 @@ A helpful model to inform this exercise is Simon Sinek's [Golden Circle method](
 * What: What do we actually do?
     * This question takes the why and the how, and identifies key activities that teams can undertake to achieve their goals
 
-It is important to take these conversations in order, so that team strategy and alignment can build from the bottom-up.
+It is important to take these conversations in order, so that strategy alignment can build from the bottom-up.
 
 ### Example resources
-- [Further RAM Guidance](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/team_strategy.md) on facilitating Why/How/What team conversations
+- [Further RAM Guidance](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/team_strategy.md) on facilitating Why/How/What conversations
 
 ### RAM insights
-* Using this basic infrastructure for the conversation helps provide focus and clarity and can lead to a better conversation
+* Using this basic infrastructure for the conversation helps provide focus and clarity and can lead to a better outcome
 * By not overstructuring the conversation, you will also allow people the space to express their thoughts freely. We feel this is an important approach as it allows open conversations to happen and things to emerge that otherwise might not
 * Strong facilitation skills are crucial, including reading the room and identifying patterns in the conversation. For more on  effective facilitation, check out:
     * {ref}`Chairing Events <cl-chairing>`
