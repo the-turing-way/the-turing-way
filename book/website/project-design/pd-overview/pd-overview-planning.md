@@ -43,7 +43,7 @@ We can begin the project design process by identifying different parts of our re
 * Establish ways of working and collaborative practices for the project team.
 * Identify roles and responsibilities within the project team, using the RACI matrix.
 * Complete any institutional processes for project setup, such as ethics approval or contract signing.
-* Useful documentation: RAC
+* Useful documentation: RACI matrix, risk register, project charter.
 
 ### Stakeholders
 * Identify the project stakeholders.
@@ -55,7 +55,7 @@ We can begin the project design process by identifying different parts of our re
 * Consider licensing and copyright issues for sharing your outputs.
 * Determine how you will manage intellectual property and ownership rights using an IP register.
 * Remember to include any required reporting to funders.
-* Useful documentation: IP register, [other items to be added later].
+* Useful documentation: IP register, licensing and copyright statement, data sharing plan.
 
 ### Community & Communications 
 * Identify the target audience for your research.
