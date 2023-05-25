@@ -62,7 +62,7 @@ They have since developed other meetings as needed, such as ad hoc strategy meet
 There are a number of considerations for establishing your core team for the collaboration:
 * How many people do you want from each organisation? Do you want equal numbers from each side?
 * Do you want to specify the specific amount of time each person will be contracted to work on the collaboration? It may be useful to consider a secondment model. 
-* How will you split responsibilities e.g operational v scientific? Who has overall decision making power? 
+* How will you split different responsibilities, such as operational versus scientific decisions? Who has overall decision making power? 
 * Will core team members be doing the research or only responsible for strategy? 
 * If you hire researchers to work on the collaboration will they need to form part of the core team? 
 
