@@ -46,9 +46,10 @@ We can begin the project design process by identifying different parts of our re
 * Useful documentation: RACI matrix, risk register, project charter.
 
 ### Stakeholders
-* Identify the project stakeholders.
-* Complete a stakeholder mapping, identifying the level of engagement and stakeholder responsibilities at each stage of the project.
-* Utilize the "Facilitating Stakeholder Engagement" chapter for guidance and template resources [quote the chapter being developed by RAM team #3105].
+* Identify all individuals, groups, or organizations that have an interest or influence in the project. This includes both internal and external stakeholders
+* Create a visual representation or matrix to understand the relationships between stakeholders and the project. Map their level of engagement, influence, and interest at each stage of the project. This helps prioritise engagement efforts and tailor communication strategies accordingly.
+* Utilise the "Facilitating Stakeholder Engagement" chapter for guidance and template resources [The chapter is being developed by RAM team #3105].
+* Useful documentation: stakeholder register, stakeholder mapping, stakeholder analysis matrix, personas.
 
 ### Outputs 
 * Plan for the different outputs of your research, such as publications, software, or datasets.
