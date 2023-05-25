@@ -28,7 +28,7 @@ Some of these advantages include:
 Academic-Industry collaborations are becoming more popular, with the [number of them more than doubling between 2012 and 2016](https://www.nature.com/nature-index/news-blog/the-shifting-corporate-academic-relationship-in-pictures). 
 
 We wanted to create a chapter as a starting point for those looking to set up an academic-industry collaboration, however a lot of the chapter content can be applied to any collaboration. 
-Similarly a lot of existing Turing Way content also applies and we have signposted to this throughout. 
+Similarly, a lot of existing content in _The Turing Way_ also applies and we have signposted to this throughout. 
 Many academic-industry collaborations are very similar in nature to academic research projects, with some small nuances that we have tried to capture. 
 Overall we hope the chapter will give insights into how to set up for success in practice for a partnership between academia and industry, through navigating expectations, ways of working and bringing in elements such as community building. 
 
