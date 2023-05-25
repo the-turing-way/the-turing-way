@@ -115,7 +115,7 @@ object of type 'closure' is not subsettable
 You can catch these errors in your workflow, and deal with them in the same way as you deal with unmet assumptions: redirect, report, or abort.
 Redirecting from an error has a technical term: "exception handling".
 In this case, you expect a certain error to be raised, but instead of stopping your program, you change its course.
-In many programming languages, this is done in a `try... except` block.
+In many programming languages, this is done in a `try... except` or `try... catch` block.
 Reporting or aborting from an error can be done in the same way, but instead of using the default error, you raise your own.
 Importantly, raising a warning or error message from your own program means you have control over the quality of the message.
 
@@ -148,6 +148,7 @@ name: error-management
 alt: Cartoon showing three stages of error management, left, a person working on a computer that is smoking, but the program looks to be running just fine and the person is unaware. Middle, a person with a computer that is smoking, and the program shows an error message. The person does not understand the error message and looks confused. Right, a person with a computer that is smoking, and presenting an error message that allows the person to fix the problem. The person looks happy.
 ---
 Three stages of error management: silent failure (left) leaves a user blissfully unaware of problems; unintelligible errors (middle) show there is a problem, but leave a user confused; informative errors (right) show a user there is a problem, and allow them to solve it.
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 
