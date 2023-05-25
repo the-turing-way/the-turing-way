@@ -6,6 +6,7 @@ When working with stakeholders beyond your own team, there are many tools and be
 
 This chapter will share guidance and resources for facilitating different forms of stakeholder engagement for data science collaborations drawing upon expertise from the Turing Research Application Management (RAM) team.
 
+(cl-stakeholder-mapping)=
 ## Stakeholder mapping
 ### Key question: Who is involved in a collaboration, either as a user, impacted group, or as part of the community of practice?
 
@@ -28,7 +29,8 @@ Stakeholder mapping is a core activity of many Research Infrastructure Roles and
     * Identify which groups may be negatively impacted by a research output
     * Identify which stakeholders are most prepared to adopt a particular research output
   Choosing the right metrics will help crystallise which are the crucial stakeholders to engage.
-    
+
+(cl-stakeholder-req-gathering)=
 ## Requirements gathering & alignment
 ### Key question: How can we align stakeholders on shared language and goals?
 
@@ -46,6 +48,7 @@ Once the information is gathered in a single place, you can identify key questio
 * Requirements gathering is informed by the user interview process from the design and qualitative research worlds
 * The work begins after you gather requirements information, which is the starting point to facilitate a group conversation
 
+(cl-stakeholder-strategy-workshops)=
 ## Team strategy workshops
 ### Key question: How can we bring different ideas across the team into a shared team strategy?
 
@@ -71,6 +74,7 @@ It is important to take these conversations in order, so that team strategy and 
     * {ref}`Chairing Events <cl-chairing>`
     * {ref}`Tools for Collaboration <cl-event-tools>`
 
+(cl-stakeholder-user-design)=
 ## User-centric design
 ### Key question: How can research outputs benefit from a user-centric design process?
 
