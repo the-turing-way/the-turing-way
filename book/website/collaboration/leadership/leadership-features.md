@@ -16,7 +16,7 @@ Like a project manager in a team-based research project or a tech company CEO, t
 A company CEO may undoubtedly have the power to make decisions to ensure that people in their team advance and complete their assigned projects.
  
 However, such a top-down approach to decision-making is the characteristic of being a manager. It does not necessarily make them a leader. 
-A good leader inspires their team members to make progress in their own right and be leaders themselves, which means leaders are not always managers. Ideally, leaders should not be managers.
+A good leader inspires their team members to make progress in their own right and be leaders themselves, which means leaders should not micromanage their team members and allow spaces for them to grow.
 
 ## Emergent leadership
 
