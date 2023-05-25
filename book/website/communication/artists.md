@@ -29,4 +29,4 @@ Consequently, fine artists need to create entire worlds from scratch." [https://
 The most common challenges in such cooperation include:
 **Planning:** Whether you involve artists in your research process or at the end to communicate results, it is always better to start discussions early to be able to arrive at an outcome within the timeframe that fits both yours and artists' planning, and be flexible should things not go the way you plan. 
 They most often do not.
-**Abandon expectations:** Managing expectations is key when working with artists. Because scientists and artists speak different languages, it often translates into a difference in expectations. The best way for both to cooperate in a pleasant way is to abandon all expectations and allow the co-creation process to do its job. 
+**Managing expectations:** Managing expectations is key when working with artists. Because scientists and artists speak different languages, it often translates into a difference in expectations. The best way for both to cooperate in a pleasant way is to allow the co-creation process to do its job. 
