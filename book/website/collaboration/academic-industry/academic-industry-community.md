@@ -33,10 +33,19 @@ It may also be fruitful to consider an external advisory board.
 You can bring on board individuals who can help advise on scientific strategy and also can connect the collaboration with colleagues and opportunities within their own networks.
 
 (cl-academic-industry-community-space)=
-### Creating a Shared Space to Connect
+### Creating Shared Spaces to Connect
 To start facilitating interactions and connections between your organisations and allow your community to come together its worthwhile to set up a shared space where people can interact. 
 This could be something like a Slack Workspace or GitHub Repository which are both fairly low barrier to engage with. 
-You might need to check any tool you're considering with your IT department and take into consideration any restrictions/access issues each organisation might have. 
+More info on GitHub this {ref}`the Getting Started with GitHub chapter <cl-github-novice>`. 
+You might need to check any tool you're considering with your IT department and take into consideration any restrictions/access issues each organisation might have.
+
+As your collaboration grows and progresses you may also consider joint events, such as a seminar series, journal club or joint conference/symposium. 
+Collaboration Cafes and/or co-working sessions can also help bring a sense of community to your collaboration. 
+They can be spaces where you onboard new members, brainstorm or work on research together. 
+More in this {ref}`this Turing Way chapter <ch-coworking>`.
+
+Establishing communication tools such as a newsletter for your collaboration is a useful way of sharing collaboration news, advertising your events and opportunities and spreading awareness. 
+There is more info on how to create a newsletter in {ref}`this Turing Way chapter <ch-newsletters>`and you can also find previous Turing-Roche newsletters [here](https://github.com/alan-turing-institute/turing-roche-partnership/tree/main/communications/newsletters).
 
 (cl-academic-industry-community-strategy)=
 ### Considering Community Strategy 
@@ -45,3 +54,5 @@ Things you might want to consider as part of this are:
 * Mapping out key stakeholders at each organisation and organisations in the broader ecosystem and how to engage/influence them. Turing-Roche Stakeholder Map example can be found [here](https://github.com/alan-turing-institute/turing-roche-partnership/blob/main/communications/Turing-Roche%20Stakeholder%20Mapping.pdf).
 * Considering where and how you want people to connect
 * Decide on how you want to monitor community engagement- it can be challenging to find metrics that capture things like organic interactions on Slack
+
+
