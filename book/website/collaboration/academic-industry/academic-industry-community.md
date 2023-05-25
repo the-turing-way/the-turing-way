@@ -36,7 +36,7 @@ You can bring on board individuals who can help advise on scientific strategy an
 ### Creating Shared Spaces to Connect
 To start facilitating interactions and connections between your organisations and allow your community to come together, it is worthwhile to set up a shared space where people can interact. 
 This could be something like a Slack Workspace or GitHub Repository which are both fairly low barrier to engage with. 
-More info on GitHub this {ref}`the Getting Started with GitHub chapter <cl-github-novice>`. 
+More info on GitHub can be found in {ref}`the Getting Started with GitHub chapter <cl-github-novice>`. 
 You might need to check any tool you're considering with your IT department and take into consideration any restrictions/access issues each organisation might have.
 
 As your collaboration grows and progresses you may also consider joint events, such as a seminar series, journal club or joint conference/symposium. 
