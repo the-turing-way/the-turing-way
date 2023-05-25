@@ -26,7 +26,7 @@ If you want to start learning hands-on practices, we recommend reading the {ref}
 
 While most of what this book is about does not require the use of the command line, it often actually makes things easier. 
 Even when your visual abilities allows you to use efficiently your mouse, writing commands in the terminal/powershell/command is not that difficult.
-You first need to know that linux and OSX use `bash` code natively, while the command line in PC uses a different language.
+You first need to know that linux and OSX use `bash` code natively, while the command line in windows uses `batch script`, which is a different language. 
 
 Here is a small list of tools and training material to know more :
 - A [game to teach one the basics of using a POSIX (Linux, BSD, UNIX) terminal](https://gitlab.com/slackermedia/bashcrawl) 
