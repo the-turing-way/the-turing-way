@@ -3,10 +3,10 @@
 
 ## Why should you care about error management?
 
-We all have experienced it: you just wrote a new piece of code, but when you try it, it doesn't work as expected.
+We all have experienced it: you just wrote a new piece of code, but when you try it, it does not work as expected.
 Perhaps there is a typo, or a bug, or you just passed the wrong parameter to a function.
-It's not a big deal... as long as you notice.
-Noticing something is wrong is the first step to fix it, or worst case scenario discard that piece of code.
+It is not a big deal... as long as you notice.
+Noticing something is wrong is the first step to fixing it.
 
 Unfortunately, not all errors are easy to foresee.
 This is particularly true when your code is going to be used by someone else than you.
@@ -33,7 +33,8 @@ We will go into this more in the next section.
 Your code contains many assumptions.
 For example, a function performing a simple mathematical operation assumes that its input is numerical.
 What happens if this function is used on a bit of text?
-Or even an entire dataframe?
+Or a dataframe?
+Or an open file?
 
 In a different example, let's imagine a data science workflow.
 As part of this workflow, a column labeled "Age" is selected.
@@ -43,9 +44,9 @@ What happens if the data contains ages over 100?
 Or if this column contains negative numbers?
 
 In making decisions about cases like these, the first step is to be explicit about the assumptions made.
-To identify assumptions, you can ask yourself:
+To identify assumptions in your code, you can ask yourself:
 
-- What type of object/data do I expect?
+- What type of object/data do I expect here?
 - What files need to exist for my workflow to run, and where?
 - ...
 
@@ -73,6 +74,9 @@ If the assumption is met, nothing happens and your code executes as usual.
 However, simply the existence of this if/else block will be able to alert a user if an important condition is not met.
 If they are trying to select a column that does not exist, for instance.
 Or if they are performing mathematical operations on pieces of text.
+
+You can also take advantage of errors that are raised by the programming language you use.
+We will go into that in more detail in [Error handling](#error-handling).
 
 ### Step 3: Deal with unmet assumptions
 
@@ -109,7 +113,11 @@ object of type 'closure' is not subsettable
 ```
 
 You can catch these errors in your workflow, and deal with them in the same way as you deal with unmet assumptions: redirect, report, or abort.
-Importantly, a warning or error message from your own program means you have control over the quality of the message.
+Redirecting from an error has a technical term: "exception handling".
+In this case, you expect a certain error to be raised, but instead of stopping your program, you change its course.
+In many programming languages, this is done in a `try... except` block.
+Reporting or aborting from an error can be done in the same way, but instead of using the default error, you raise your own.
+Importantly, raising a warning or error message from your own program means you have control over the quality of the message.
 
 ## Error message quality
 
@@ -129,9 +137,19 @@ When making your program robust, therefore, you should put thought into the info
 These qualities make a good error message:
 
 - It clearly pinpoints the problem.
-- It points a user to items to check, or steps they can take to further understand or fix the problem.
+- It points a user to next steps: items to check, or other steps they can take to further understand or fix the problem.
 - It uses jargon appropriately, and keeps its target audience in mind.
 - It is honest about what it knows and does not know.
+
+```{figure} ../../figures/errormanagement.*
+---
+width: 500px
+name: error management
+alt: Cartoon showing three stages of error management: left, a person working on a computer that is smoking, but the program looks to be running just fine and the person is unaware. Middle: a person with a computer that is smoking, and the program shows an error message. The person does not understand the error message and looks confused. Right: a person with a computer that is smoking, and presenting an error message that allows the person to fix the problem. The person looks happy.
+---
+Three stages of error management: silent failure (left) leaves a user blissfully unaware of problems; unintelligible errors (middle) show there is a problem, but leave a user confused; informative errors (right) show a user there is a problem, and allow them to solve it.
+```
+
 
 ```
 image:
