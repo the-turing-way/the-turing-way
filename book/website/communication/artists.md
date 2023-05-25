@@ -6,7 +6,7 @@
 People receive messages through five senses: touch, taste, smell, vision and hearing. 
 Just as people are different, so the ways they understand messages differ. 
 Artists use a variety of different communication media to creatively communicate messages to different groups through different senses. 
-Some use paintings, photographs, graphics. 
+Some use paintings, photographs, or graphics. 
 Others focus on music, sounds, theatre and performance in general.
 The list is endless. 
 Sometimes, art becomes a powerful way to communicate messages to people in a way that people can relate to.
