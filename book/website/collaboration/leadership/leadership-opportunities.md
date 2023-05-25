@@ -21,7 +21,7 @@ For community projects, The Carpentries' community leadership documentation in [
 
 Onboarding leaders is a process through which new members join an organisation at a leadership position.
 Onboarding occurs after a new member has agreed to join the organisation upon invitation by the current leadership team or via a formal election process.
-A set of guidelines can be provided in a written format as a formal or informal document to ensure that new members have the opportunity to familiarise themselves with the process and resources they can use in their work, as well as people in the organisation they can collaborate with. 
+A set of guidelines can be provided in a written format as a formal or informal document to ensure that new members have the opportunity to familiarise themselves with the processes and resources they can use in their work, as well as people in the organisation they can collaborate with. 
 Onboarding is particularly important to make the new members or leaders feel welcome in their organisation.
 Here are a few steps that may be involved in the onboarding process:
 - Updating internal and external documents to communicate the new position or active status of newly onboarded members with the appropriate party
