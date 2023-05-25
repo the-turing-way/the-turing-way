@@ -19,7 +19,7 @@ Whilst academia and industry are often viewed with having differing cultures, re
 
 Some of these advantages include:
 * Access to and leveraging resources on both sides, such as funding, research expertise and skills and real-world data
-* Combining basic research (often focused more on the academia side) and applied research (often focused more on the industry side)
+* Combining foundational research (often the academic focus) and applied research (often the industry focus)
 * Accelerating innovation and societal impact through working together on a shared research problem
 * Experience and increased career opportunities for students and researchers working as part of the collaboration
 
