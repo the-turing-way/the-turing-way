@@ -11,7 +11,7 @@ Provenance on which data in which version was underlying which computation is cr
 
 We discussed that version controlling the components of evolving projects could help to make work more organised, efficient, collaborative, and reproducible.
 Many scientific projects, however, do not only contain code, manuscripts, or other small-sized files, but contain larger files such as large datasets, analysis results, or binary files (presentations, manuscripts, pdfs) which can change or be updated in a project just like other small sized text components.
- In this chapter, we discuss why and how to do data versioning,  especially why git is not well suited for data versioning and what we can be done about it.
+ In this chapter, we discuss why and how to do data versioning, especially why Git is not well suited for data versioning and what we can be done about it.
 
 
 
@@ -27,7 +27,7 @@ Sometimes you might also want to experiment off different versions of the same d
 Such dynamic processes are excellent and beneficial for science as they ensure that data is usable and up-to-date, but they can be confusing if they are not
 adequately documented.
 If a dataset that is the basis for computing a scientific result changes without version control, reproducibility can be threatened: results may become invalid, or scripts that are based on file names that change between versions can break.
-Especially if original data gets replaced with new data with no version control in place, the original results of the analysis may not be reproduced.
+Especially if original data gets replaced with new data without version control in place, the original results of the analysis may not be reproduced.
 Therefore, version controlling data and other large files in a similar way to version controlling code or manuscripts can help ensure the reproducibility of a project and capture the provenance of results;
 that is "the precise subset and version of data a set of result originates from".
 Together with all other components of a research project, data identified in precise versions is part of the research outcome.
@@ -89,8 +89,8 @@ On-demand, any file content can then be obtained with a `git-annex get` command 
 
 Submodules allows to split the data in different repositories, while keeping everything under a single "parent" repository.
 It is very powerful, but difficult to use. 
-Especially, using  {ref}`git branches<rr-vcs-workflow-branches>` in  submodules make it complex to handle.
-However, this is the only tool listed here allowing to work with many files in a git repository.
+Especially, using  {ref}`Git Branches<rr-vcs-workflow-branches>` in  submodules make it complex to handle.
+However, this is the only tool listed here allowing to work with many files in a Git repository.
 
 (rr-vcs-data-tools-datalad)=
 ### DataLad
@@ -102,11 +102,11 @@ In addition to sharing and version controlling large files; it allows recording,
 (rr-vcs-data-inclusivity)=
 ## Data versioning and inclusivity
 
-Data versioning in git require the use of more complex tools, and this means that accessibility to the data will be more difficult.
+Data versioning in Git require the use of more complex tools, and this means that accessibility to the data will be more difficult.
 For instance, if you use datalad with Github, newcomers trying to see one of the large file will have difficulties:
 they will be able to see that the file exists, but will not be able to download or see it without cloning the repository and running git-annex or datalad commands. 
 
-So while using these tools will make git commands to run faster, one may want to disable them for critical binary files, like presentations or pdfs.
+So while using these tools will make Git commands to run faster, one may want to disable them for critical binary files, like presentations or pdfs.
 A solution can be to pack them in submodules, so that the repositories are keeping a small size.
 
 As an example, we can take the repository creating the turing book. 

@@ -1,9 +1,9 @@
 (rr-vcs-workflow-branches)=
 # Non-Linear Development of Your Project with "Branches"
 
-> This chapter is for quite advanced user, it is interesting especially to work on the code,
-> while allowing other users to see the stable version  of your data first.
-> If using git, branches are also a way to make changes that can be easily trashed.
+> This chapter is for more advanced users.
+> It allows you to work on the code, while allowing other users to see the stable version of your data first.
+>Branches are also a way to make changes that can be easily trashed.
 rr-vcs-workflow-branches)=
 
  So you have your project and you want to add something new or try something out before reflecting the changes in the main project folder.
@@ -33,7 +33,7 @@ rr-vcs-workflow-branches)=
  name: two-branches
  alt: An illustration of two development branches and one main branch in git
  ---
- Two development branches and one main branch in git.
+ Two development branches and one main branch in Git.
  ```
 
  If you want, you can create branches from branches (and branches off of those branches and so on).
@@ -43,7 +43,7 @@ rr-vcs-workflow-branches)=
  name: sub-branch1
  alt: An illustration of a development branch in git.
  ---
- A development branch in git.
+ A development branch in Git.
  ```
 
  No matter how many branches you have, you can access the past versions you made on any of them.
