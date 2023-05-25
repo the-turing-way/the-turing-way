@@ -92,7 +92,7 @@ They should make it clear in what capacity or in what role (from the multiple 'h
 They should separate the conversations to avoid confusion for people they work with and if needed, they should step away from a situation, transferring the leadership responsibilities to others.
 In [this video](https://www.youtube.com/watch?v=HQjRnWVmL28), Carol Willing explains how it is critical to abstain from decisions as a leader when you have a conflict of interest.
 
-## Learning from mistakes 
+## Learn from mistakes 
 
 > With great power comes great responsibility
 

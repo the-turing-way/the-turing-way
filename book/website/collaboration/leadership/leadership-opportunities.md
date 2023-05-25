@@ -30,7 +30,7 @@ Here are a few steps that may be involved in the onboarding process:
 - Roles and responsibilities of other members and leaders in the organisation
 - Meeting scheduled with all stakeholders in the project with who the newly onboarded member can collaborate with
 
-## Nurturing the next leaders
+### Nurturing the next leaders
 
 In data science and research, leaders are often too busy leading (admin tasks, reporting, funding and project meetings) and hence leaders rarely have time to learn about the latest advances both at technical and human levels. 
 Therefore, leaders need to allow members of their team to work independently, while also supporting them in exchanging knowledge among themselves.
@@ -41,7 +41,7 @@ Nurturing these next-generation leaders requires building trust through authenti
 Providing the right level of support while challenging and nudging their team members towards new directions helps them upskill and experience personal growth.
 The best way to nurture the next leaders is to allow them to take on meaningful leadership responsibilities and find solutions for their problems or challenges through collaboration. 
 
-## Offboarding gracefully
+### Offboarding gracefully
 
 Offboarding is the process that leads to the formal separation between a board member and the organisation through resignation, termination or retirement. 
 Offboarding ensures there are no communication gaps or information loss when a board member leaves the organisation. 
