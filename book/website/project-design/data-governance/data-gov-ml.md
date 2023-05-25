@@ -35,12 +35,12 @@ The Datasheets for Datasets paper contains a list of example questions that data
 
 Once data collection is complete, challenges emerge around data storage, access, and making changes.
 Because state-of-the-art ML datasets are very large, they tend to be stored in a central location, often a cloud provider database, and made available for download under certain circumstances.
-In addition to creating a governance structure for the opening or gating access to certain users, there is the challenge of creating a governance structure to allow people to request to opt-out their data from the dataset.
+In addition to creating a governance structure for the opening or gating of access of the dataset to certain users, there is also the challenge of creating a governance structure to allow data creators to request to opt-out their data from the dataset, if the team is interested in providing that capability.
 Because opt-out occurs after a dataset has already been created, it will not remove the data from original versions of the dataset, but can facilitate removal from future versions.
 
 ### Governance Tool: [Am I In the Stack?](https://huggingface.co/spaces/bigcode/in-the-stack)
 This tool was developed by the [BigCode](https://www.bigcode-project.org/) team to help developers inspect The Stack dataset so they can see whether any of their repositories have been included and might be used for training ML models. 
-If that is the case, developers can fill out a form to request to opt-out from The Stack and have their data removed for future iterations of the dataset.
+If that is the case and they would prefer for their data to be removed, developers can fill out a form to request to opt-out from The Stack and have their data removed for future iterations of the dataset.
 
 ### Governance Tool: [Have I Been Trained?](https://haveibeentrained.com/)
 
@@ -54,6 +54,11 @@ Addressing these data quality and privacy issues may be motivated by regulatory 
 Because this work, particularly in identifying and removing harmful content, may be contextual or reliant on the expertise of specific communities, these tasks are often performed in collaboration with community experts.
 As an example, when identifying sensitive information for removal from a dataset, a team may identify clear targets regarding an individual's data such as usernames, passwords, and emails.
 However, a community from a specific country, or who speak a specific language, or who face a specific disability or form of discrimination may be able to identify additional criteria that should be removed to protect their community members.
+
+### Governance Tool: [BigScience Catalogue of Language Data and Resources](https://oecd.ai/en/catalogue/tools/bigscience-catalogue-of-language-data-and-resources)
+
+The catalogue visualises through an [interactive world map](https://huggingface.co/spaces/bigscience/SourcingCatalog) the 192 data sources gathered as part of the BigScience project and its natural language text dataset. Through organized public hackathons with resource custodians from around the world, the team collected metadata on 432 different language tags associated with the dataset (each entry can have multiple language tags). The metadata added, such as language location, resource custodian and contact, and license type, was based on the expertise of the local residents and resource experts (primarily librarians) who can provide essential information on the context and content on data in their language. Learn more about the methodology from their paper: [Documenting Geographically and Contextually Diverse Data Sources: The BigScience Catalogue of Language Data and Resources](https://arxiv.org/abs/2201.10066).
+
 
 ### Governance Tool: [PII Redaction Dataset](https://huggingface.co/datasets/bigcode/bigcode-pii-dataset)
 
