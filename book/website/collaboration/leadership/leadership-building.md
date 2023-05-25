@@ -70,7 +70,8 @@ Attitudes like elitism and hypocrisy can have unintended consequences on the pro
 Elitism is when leaders constantly reinforce their authority, status, and expertise, creating distance between themselves, experienced team members, and junior or newer members.
 Hypocrisy is holding others accountable for one set of quality measures, and having a lesser standard for themselves.
 Leaders should hold the same standards for everyone and create spaces for collaboration through egalitarian rather than authoritative means.
-- **Ignoring the personal side of the team**: members of the team/organisation can disclose or not as much as they want from their personal lives. 
+- **Ignoring the personal side of the team**: People have multiple sides of their lives and only part of it might be visible when they contribute to a project or team.
+Leaders should set an environment where their team members feel safe to disclose as much or as little they want from their personal lives. 
 But it is up to the leader to ensure that their team members feel safe to express the issues that affect their work such as their physical or mental health, and understand each others' challenges, such as those caused by invisible or visible disability or caring responsibilities outside work.
 They should also ensure people know where and how to ask for help, whether that help comes from colleagues or professionals. 
 If leaders don't make it ok for their team members to share their challenges, team members, particularly newer members, will not know what is appropriate and won't ask for help even when they need it. 
