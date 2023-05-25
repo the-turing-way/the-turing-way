@@ -245,11 +245,11 @@ These are the restrictions placed on the licencee of a RAIL-M license:
 > 
 > 	**d.** To generate or disseminate personal identifiable information that can be used to harm an individual;
 > 
-> 	**e.** To generate or disseminate information and/or content (e.g. images, code, posts, articles), and place the information and/or content in any context (e.g. bot generating tweets) without expressly and intelligibly disclaiming that the information and/or content is machine generated;
+> 	**e.** To generate or disseminate information and/or content (for example images, code, posts, articles), and place the information and/or content in any context (for example bot generating tweets) without expressly and intelligibly disclaiming that the information and/or content is machine generated;
 > 
 > 	**f.** To defame, disparage or otherwise harass others;
 > 
-> 	**g.** To impersonate or attempt to impersonate (e.g. deepfakes) others without their consent;
+> 	**g.** To impersonate or attempt to impersonate (for example deepfakes) others without their consent;
 > 
 > 	**h.** For fully automated decision making that adversely impacts an individual’s legal rights or otherwise creates or modifies a binding, enforceable obligation;
 > 
@@ -261,7 +261,7 @@ These are the restrictions placed on the licencee of a RAIL-M license:
 > 
 > 	**l.** To provide medical advice and medical results interpretation;
 > 
-> 	**m.** To generate or disseminate information for the purpose to be used for administration of justice, law enforcement, immigration or asylum processes, such as predicting an individual will commit fraud/crime commitment (e.g. by text profiling, drawing causal relationships between assertions made in documents, indiscriminate and arbitrarily-targeted use).
+> 	**m.** To generate or disseminate information for the purpose to be used for administration of justice, law enforcement, immigration or asylum processes, such as predicting an individual will commit fraud/crime commitment (for example by text profiling, drawing causal relationships between assertions made in documents, indiscriminate and arbitrarily-targeted use).
 
 RAIL-S licences carry their [Software Usage Restrictions](https://www.licenses.ai/source-code-license).
 
