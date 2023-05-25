@@ -13,9 +13,9 @@ The goal of stakeholder mapping is to centralise information on the people and o
 This helps establish a shared understanding of who is involved in what capacity, which is a useful resource for onboarding new teammates and to make sure everyone is on the same page.
 This activity is also often a precursor to other engagement activities such as impact assessment and user experience workshop as stakeholder maps can help identify who should be centered in the research process.
 Stakeholder mapping is a core activity of many Research Infrastructure Roles and may serve different goals, for example:
-- Research Community Managers may use this to establish a project governance structure and decide the most effective methods and channels for communication with each stakeholder
-- Research Application Managers may use this to categorise and prioritise different kinds of users of research outputs, such as Local Government vs. Industry partners
-- Research project managers may use this for project reporting and evaluation purposes and identifying who to invite for a certain meeting
+- **Research Community Managers** may use this to establish a project governance structure and decide the most effective methods and channels for communication with each stakeholder
+- **Research Application Managers** may use this to categorise and prioritise different kinds of users of research outputs, such as Local Government vs. Industry partners
+- **Research Project managers** may use this for project reporting and evaluation and identifying who to invite for a meeting
 
 ### Example Resources
 - Turing Tools, Practices, and Systems team [stakeholder mapping template](https://miro.com/app/board/uXjVMGIR93o=/?share_link_id=456301587406)
