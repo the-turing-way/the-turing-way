@@ -107,8 +107,5 @@ These insights can help a team to develop a roadmap for the tool to plan out fut
 - SuperBloom (formerly called Simply Secure) [Knowledge Base](https://simplysecure.org/knowledge-base/)
 - User Interface Design Basics at [usability.gov](https://www.usability.gov/what-and-why/user-interface-design.html)
 - Diataxis [framework for technical documentation](https://diataxis.fr)
-- Read the Docs [documentation hosting](https://readthedocs.
+- Read the Docs [documentation hosting](https://readthedocs)
 - Nielsen Norman [heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
-
-# Organising Stakeholder Workshops
-Guide for Collaboration/Organising Stakeholder Workshops
