@@ -63,7 +63,7 @@ Because data and analysis code do evolve over time, it can become very difficult
 This provenance information is enabled and facilitated when both the data, the code and the figure files are under versioning.
 
 In addition, version control creates **version history** to help us understand what changes were made, or why a specific analysis was run, even weeks or months later.
-With the help of comments and commit messages in git, for instance, each version can explain what changes it contains compared to the previous versions.
+With the help of comments and commit messages in Git, for instance, each version can explain what changes it contains compared to the previous versions.
 This is helpful when we share our analysis (not only data), and make it auditable or **reproducible** - which is good scientific practice.
 
 A version control system **neatly hide older versions** of the data. 
