@@ -66,6 +66,8 @@ It is important to take these conversations in order, so that team strategy and 
 - [Further RAM Guidance](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/team_strategy.md) on facilitating Why/How/What team conversations
 
 ### RAM Insights
-* Leading the conversation is fine! Providing a baseline structure helps focus minds and provide clarity. What you want is to provide the minimum infratstructure to allow people the space to express their minds.
-* Our templates have been designed to focus massively on facilitation skills (reading the room, seeing patterns etc.). We feel this is an important approach as it allows open conversations to happen and things to emerge that otherwise might not in overly-structured environments.
-* These are just one of many templates you may find useful, and only reflect our learnings as a team. Please amend/correct as you see fit, and share learnings with us!
+* Providing basic infrastructure for the conversation helps provide focus and provide clarity and can lead to a better conversation.
+* By not overstructuring the conversation, you will also allow people the space to express their thoughts freely. We feel this is an important approach as it allows open conversations to happen and things to emerge that otherwise might not
+* Strong facilitation skills are crucial, including reading the room and identifying patterns in the conversation. For more on how effective facilitation, check out:
+    * {ref}`Chairing Events <cl-chairing>`
+    * {ref}`Tools for Collaboration <cl-event-tools>`
