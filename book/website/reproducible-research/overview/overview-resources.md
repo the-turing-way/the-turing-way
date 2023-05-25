@@ -28,7 +28,7 @@ While most of what this book is about does not require the use of the command li
 Even when your visual abilities allows you to use efficiently your mouse, writing commands in the terminal/powershell/command is not that difficult.
 You first need to know that linux and OSX use `bash` code natively, while the command line in windows uses `batch script`, which is a different language. 
 
-Here is a small list of tools and training material to know more :
+List of some tools and training materials for using the command-line:
 - A [game to teach one the basics of using a POSIX (Linux, BSD, UNIX) terminal](https://gitlab.com/slackermedia/bashcrawl) 
 - Carpentries lesson on [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
 - https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/
