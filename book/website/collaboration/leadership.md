@@ -71,7 +71,7 @@ In data science and research, discussions and upskilling in leadership are extre
 * They manage and coordinate collaborations with their peers as well as external stakeholders across multiple disciplines. 
 * Leadership is one of the toughest non-technical skills to learn without guidance.
 * Leadership is rarely discussed openly in research environments, despite being everywhere.
-* (open) leadership is one of the keys to healthy and inclusive communities that we are striving to build in data science.
+* (Open) Leadership is one of the keys to healthy and inclusive communities that we are striving to build in data science.
 
 In this chapter, we explore different aspects of (open leadership) that are applicable in the data science and research contexts. 
 After all, "technical skills are just one aspect of making data science research open, reproducible, inclusive and ethical for all" ([ref](https://the-turing-way.netlify.app/)).
