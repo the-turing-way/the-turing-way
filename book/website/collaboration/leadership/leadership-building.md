@@ -3,7 +3,7 @@
 
 By healthy leadership, we mean creating an ideal environment that empowers, guides and stewards members of a team within a community, project, or organization where everyone feels safe, welcome, and valued.
 
-open leadership principles are skills that can be learned and applied by anyone building healthy teams and communities that involve and empower their members.
+Open leadership principles are skills that can be learned and applied by anyone building healthy teams and communities that involve and empower their members, not just reserved for open projects or work happening in the open.
 
 Below we highlight some aspects that contribute to building healthy leadership skills. 
 These are by no means an exhaustive list, or comprehensively described. 
