@@ -5,7 +5,7 @@
 A Machine Learning (ML) pipeline consists of a series of activities including the collection of data, training of an ML model, and the deployment of the model into use. 
 Data is integral throughout the ML process and the methods for which data is collected, annotated, processed, and shared will impact individuals and communities who may be represented in or the creators of the data, as well as data users who would like access to the data. 
 
-This chapter will cover examples of data governance practices for ML for different steps in the pipeline, including: 
+This chapter will cover examples of data governance practices for ML for different steps in the pipeline, which may include but not be exclusive to:
 - Data Collection
 - Data Management
 - Data Processing
