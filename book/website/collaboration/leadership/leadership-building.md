@@ -68,7 +68,7 @@ Open leaders recognise and celebrate all kinds of work, appreciate and celebrate
 Thus, traits that sabotage EDI goals, should be avoided at all costs.
 Attitudes like elitism and hypocrisy can have unintended consequences on the project as well as on the leaders themselves.
 Elitism is when leaders constantly reinforce their authority, status, and expertise, creating distance between themselves, experienced team members, and junior or newer members.
-Hypocrisy is holding others accountable for one set of quality measures, and having a lesser standard for themselves.
+Hypocrisy is when leaders hold their team members to a different standard than that to which they hold themselves.
 Leaders should hold the same standards for everyone and create spaces for collaboration through egalitarian rather than authoritative means.
 - **Ignoring the personal side of the team**: People have multiple sides of their lives and only part of it might be visible when they contribute to a project or team.
 Leaders should set an environment where their team members feel safe to disclose as much or as little they want from their personal lives. 
