@@ -293,7 +293,7 @@ To comply you can simply share the code, if you have a well managed internal cod
         - [GNU/FSF recomendations](https://www.gnu.org/licenses/license-recommendations.html)
     - [choosealicense.com](https://choosealicense.com/) provides a tool to guide you through the license choice project.
     - [Organisation for ethical source](https://ethicalsource.dev/) maintains a list of [ethical source licenses](https://ethicalsource.dev/licenses/)
-- Prose, Images, Audio, Video, Datasets, etcetera
+- Prose, Images, Audio, Video, Datasets, and similar
     - [Creative Commons (CC)](https://creativecommons.org/)
         - [Creative Commons License Chooser](https://creativecommons.org/choose/)
           ![figure from https://libguides.gwu.edu/opentextbooks/creative_commons](https://s3.amazonaws.com/libapps/accounts/22603/images/CC-License-Chart.png)
