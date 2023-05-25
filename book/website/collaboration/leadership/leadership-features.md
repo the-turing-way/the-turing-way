@@ -8,7 +8,7 @@ This statement points to the leadership skill of involving the members of a grou
 Leadership is different from operating individually, managing a task or administering a role in isolation.
 It is about understanding and enabling the purpose of the project and the process through which people within a team work with each other to reach the overarching goal.
 
-With this basic understanding of leadership, we discuss some essential leadership features, in contrast to management, in this subchapter.
+With this basic understanding of leadership, we discuss some essential leadership features, in contrast to task management, in this subchapter.
 
 ## Assigned Leadership
 
