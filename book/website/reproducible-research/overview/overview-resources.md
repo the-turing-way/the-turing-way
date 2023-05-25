@@ -29,7 +29,7 @@ Even when your visual abilities allows you to use efficiently your mouse, writin
 You first need to know that linux and OSX use `bash` code natively, while the command line in PC uses a different language.
 
 Here is a small list of tools and training material to know more :
-- Game for beginners (to advanced): https://gitlab.com/slackermedia/bashcrawl 
+- A [game to teach one the basics of using a POSIX (Linux, BSD, UNIX) terminal](https://gitlab.com/slackermedia/bashcrawl) 
 - Carpentry lesson: https://swcarpentry.github.io/shell-novice/
 - https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/
 - https://programminghistorian.org/en/lessons/intro-to-bash
