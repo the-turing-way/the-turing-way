@@ -43,6 +43,7 @@ This tool was developed by the [BigCode](https://www.bigcode-project.org/) team 
 If that is the case, developers can fill out a form to request to opt-out from The Stack and have their data removed for future iterations of the dataset.
 
 ### Governance Tool: [Have I Been Trained?](https://haveibeentrained.com/)
+
 This tool was developed by [Spawning](https://spawning.ai/) to help artists see if their work is a part of common datasets used to train AI art models and to opt-in or 
 opt-out to future training. They maintain a "registry of non-consenting data" where individuals and companies can check to see if their data is a part of these datasets.
 
