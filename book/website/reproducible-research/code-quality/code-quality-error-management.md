@@ -16,8 +16,10 @@ To make sure these things do not happen, your program needs built-in checks and 
 Having good error management practices dramatically reduces the chance that a problem occurs, and especially, that it passes unnoticed.
 This chapter's main purpose is to help you make your code robust, and capable of dealing with different potential problems.
 
+(rr-code-error-workflow)=
 ## Workflow
 
+(rr-code-error-workflow-step1)=
 ### Step 1: Describe your assumptions
 
 Your code contains many assumptions.
@@ -45,6 +47,7 @@ For instance, you assume that a built-in function you use works in a specific wa
 Labeling all these assumptions would perhaps drive you crazy, and that is not the point of this exercise.
 Instead, try to focus on assumptions you make about the data and/or files a user puts into your workflow or code.
 
+(rr-code-error-workflow-step2)=
 ### Step 2: Assert/verify assumptions
 
 Once you have identified assumptions, you can verify if they are true.
@@ -68,6 +71,7 @@ Or if they are performing mathematical operations on pieces of text.
 You can also take advantage of errors that are raised by the programming language you use.
 We will go into that in more detail in [Error handling](#error-handling).
 
+(rr-code-error-workflow-step3)=
 ### Step 3: Deal with unmet assumptions
 
 What can you do when a condition is not met?
@@ -92,6 +96,7 @@ Thus, error types fit well with the different ways of dealing with unmet assumpt
 | Report   | Warning    | No action        |
 | Abort    | Error      | Stop executing   |
 
+(rr-code-error-handling)=
 ## Error handling
 
 Whatever programming language you are using, errors already exist there.
@@ -109,6 +114,7 @@ In many programming languages, this is done in a `try... except` or `try... catc
 Reporting or aborting from an error can be done in the same way, but instead of using the default error, you raise your own.
 Importantly, raising a warning or error message from your own program means you have control over the quality of the message.
 
+(rr-code-error-messages)=
 ## Writing good error messages
 
 When raising an error (or warning), you should add information about the problem in an error message.
@@ -142,4 +148,4 @@ These qualities make a good error message:
 
 ## Read more
 
-This chapter is complementary to the chapter on [testing](../testing.md).
+This chapter is complementary to the chapter on {rr-testing}`testing`.
