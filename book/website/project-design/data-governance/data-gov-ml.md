@@ -16,7 +16,8 @@ This chapter will cover examples of data governance practices for ML for differe
 Many ML models are trained using datasets collected by a research team, which may be proprietary, or by using an open dataset that is available for download (sometimes with restrictions on its usage, such as only being available for use in academic settings).
 The deep learning (DL) family of models, in particular, relies on massive corpuses of data such as text, code, images, sound, and other media.
 The process of data collection depends on the type and volume of data required and sources for acquisition.
-Many DL models rely on Internet data due to the sheer volume of digital content that is available on the web. 
+For example, a project that uses patient health record data versus a project that uses a dataset of millions of social media posts will require different processes for gaining access to data as well as actually collecting and storing the data.
+Many DL models rely on data scraped from the internet due to the sheer volume of digital content that is available on the web. 
 For example, [ImageNet datasets](https://www.image-net.org/about.php) are sourced from web images from image hosting websites like Flickr, and [LAION datasets](https://laion.ai/faq/) come from web crawling sources like Common Crawl.
 These methods of data collection through web scraping have raised issues regarding data quality and bias due to the nature of using uncurated Internet data, as well as issues of data rights as web scraped data sets often include copyrighted data or data obtained without consent that may be in violation of the data license and terms of use.
 To address issues related to respecting data licenses, some ML teams are choosing to only use open source or permissively licensed data.
