@@ -30,7 +30,7 @@ In the case of the Turing-Roche partnership, both the Turing Institute and Roche
 The basis of the partnership was also to develop methodologies, rather than developing products or a collaboration on drug discovery, which would likely complicate contracting and therefore may be something you want to consider.
 
 Planning a scientific strategy is also a necessity, allowing both sides to identify what is in scope, generating a research agenda and therefore also who should be involved.
-his also allows you to identify any background intellectual property on either side. 
+This also allows you to identify any background intellectual property on either side. 
 It is important to review this scientific strategy on a regular basis and adapt as necessary in response to ongoing research.
 
 For the Turing-Roche scientific strategy, the partnership approach was to brainstorm potential research topics from both parties to identify areas of common interest. 
