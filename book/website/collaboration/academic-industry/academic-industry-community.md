@@ -34,7 +34,7 @@ You can bring on board individuals who can help advise on scientific strategy an
 
 (cl-academic-industry-community-space)=
 ### Creating Shared Spaces to Connect
-To start facilitating interactions and connections between your organisations and allow your community to come together its worthwhile to set up a shared space where people can interact. 
+To start facilitating interactions and connections between your organisations and allow your community to come together, it is worthwhile to set up a shared space where people can interact. 
 This could be something like a Slack Workspace or GitHub Repository which are both fairly low barrier to engage with. 
 More info on GitHub this {ref}`the Getting Started with GitHub chapter <cl-github-novice>`. 
 You might need to check any tool you're considering with your IT department and take into consideration any restrictions/access issues each organisation might have.
