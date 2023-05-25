@@ -1,7 +1,5 @@
 # Personal Story of Leadership by a Data Librarian
 
-The following testimony was written by _The Turing Way_ contributor and founding member [Patricia Heterich](https://the-turing-way.netlify.app/afterword/contributors-record.html#patricia-herterich), based on a discussion she led at the Book Dash in May 2022.
-
 ## What does leadership for research infrastructure roles look like?
 
 As formal career paths for many research infrastructure roles are currently not yet defined, formal leadership positions are limited and often tied to managing people or budgets.
@@ -49,3 +47,5 @@ Often others see us as leaders when we do not identify with that label yet, thus
 
 * [No Hard Feelings](https://www.lizandmollie.com/book/) by Liz Fosslien and Mollie West Duffy
 * [The Culture Map](https://erinmeyer.com/books/the-culture-map/) by Erin Meyer
+
+_This personal story is written by _The Turing Way_ contributor and founding member [Patricia Heterich](https://the-turing-way.netlify.app/afterword/contributors-record.html#patricia-herterich), based on a discussion she led at the Book Dash in May 2022._
