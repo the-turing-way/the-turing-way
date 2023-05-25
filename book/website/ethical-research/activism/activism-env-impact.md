@@ -1,7 +1,8 @@
 (er-activism-env-impact)=
 # The Environmental Impact of Digital Research
 
-As reports on X, X, and X have shown, the global climate crisis impacts all of us. From this, reducing carbon emissions has emerged as a means of addressing the climate crisis. For those of us that do computing as part of our day-to-day work, it can form a significant part of our environmental impact, both for us personally and for our organisation(s). In particular, if you or your group does intensive computing, making use of high-performance computers or cloud resources, for example to train intricate models or run complex simulations, the carbon footprint can be sizable.
+As multiple reports from the United Nations (such as [IPCC | Climate Change 2023: Synthesis Report](https://www.ipcc.ch/report/ar6/syr/) and [WMO | Global Annual to Decadal Climate Update](https://library.wmo.int/doc_num.php?explnum_id=11629)) have shown, the global climate crisis impacts all of us. From this, reducing carbon emissions has emerged as a means of addressing the climate crisis. For those of us that do computing as part of our day-to-day work, it can form a significant part of our environmental impact, both for us personally and for our organisation(s). In particular, if you or your group does intensive computing, making use of high-performance computers or cloud resources, for example to train intricate models or run complex simulations, the carbon footprint can be sizable.
+
 
 For this reason, it is important to consider the environmental impact of the computational work you and your colleagues and collaborators do, including having awareness of the possible scale of it in relation to other activities you undertake as part of day-to-day life. With this awareness, it follows that we should all aim to reduce our carbon footprint for our work activities.
 
