@@ -9,7 +9,7 @@ Artists use a variety of different communication media to creatively communicate
 Some use paintings, photographs, graphics. 
 Others focus on music, sounds, theatre and performance in general.
 The list is endless. 
-Sometimes, art becomes a powerful way to communicate messages to people in a way that people can relate.
+Sometimes, art becomes a powerful way to communicate messages to people in a way that people can relate to.
 Art is also often more accessible not only in the language that it uses, but in the abscence of a paywall to access art. 
 
 ## Examples
