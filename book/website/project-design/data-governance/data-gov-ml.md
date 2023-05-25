@@ -39,7 +39,7 @@ In addition to creating a governance structure for the opening or gating access 
 Because opt-out occurs after a dataset has already been created, it will not remove the data from original versions of the dataset, but can facilitate removal from future versions.
 
 ### Governance Tool: [Am I In the Stack?](https://huggingface.co/spaces/bigcode/in-the-stack)
-This tool was developed by the [BigCode](https://www.bigcode-project.org/) team to help developers inspect The Stack dataset so they cansee whether any of their repositories have been included and might be used for training ML models. 
+This tool was developed by the [BigCode](https://www.bigcode-project.org/) team to help developers inspect The Stack dataset so they can see whether any of their repositories have been included and might be used for training ML models. 
 If that is the case, developers can fill out a form to request to opt-out from The Stack and have their data removed for future iterations of the dataset.
 
 ### Governance Tool: [Have I Been Trained?](https://haveibeentrained.com/)
