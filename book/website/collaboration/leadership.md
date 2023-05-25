@@ -73,7 +73,7 @@ In data science and research, discussions and upskilling in leadership are extre
 * Leadership is rarely discussed openly in research environments, despite being everywhere.
 * (Open) Leadership is one of the keys to healthy and inclusive communities that we are striving to build in data science.
 
-In this chapter, we explore different aspects of (open leadership) that are applicable in the data science and research contexts. 
+In this chapter, we explore different aspects of (open) leadership skills that are applicable in the data science and research contexts. 
 After all, "technical skills are just one aspect of making data science research open, reproducible, inclusive and ethical for all" ([ref](https://the-turing-way.netlify.app/)).
 
 We hope that by discussing leadership here, we will:
