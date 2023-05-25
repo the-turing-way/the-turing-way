@@ -530,6 +530,15 @@ parts:
                 file: collaboration/new-community/new-community-differences
               - title: Teamwork
                 file: collaboration/new-community/new-community-teamwork
+            - title: Academic-Industry Collaborations
+              file: collaboration/academic-industry
+            sections:
+              - title: Establishing an Academic-Industry Collaboration
+                file: collaboration/academic-industry-establish
+              - title: Community Building in an Academic-Industry Collaboration
+                file: collaboration/academic-industry-community
+              - title: Turing-Roche Community Activities Personal Story
+                file: collaboration/academic-industry-personal-story
           - title: Team Manual
             file: collaboration/team-manual
           - title: Leadership in Data Science
