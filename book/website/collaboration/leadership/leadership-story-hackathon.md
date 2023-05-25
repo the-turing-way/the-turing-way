@@ -1,4 +1,5 @@
-# Personal Stories of Leadership
+(cl-leadership-story-hackathon)=
+# Personal Story from Running a Hackathon
 
 ## Diving into Leadership: lessons from leading a hacktahon project
 
