@@ -4247,6 +4247,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "jurry",
+      "name": "Jiri Mejzlik",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1101078?v=4",
+      "profile": "https://github.com/jurry",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "projectName": "the-turing-way",
