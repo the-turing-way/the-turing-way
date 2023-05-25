@@ -79,7 +79,9 @@ Even if the organisation or a project might focus on one line of work, awareness
 Leaders should not put unrealistic expectations on their team members to know everything they should encourage diverse complementing skills and create teams where everyone can learn from and build on each others' skills.
 Sometimes people's strengths can be their 'weaknesses' in other situations, and vice versa.
 - **Trying to be a leader everywhere**: The same person should not be a leader everywhere. People in one or several lead positions would ideally leave room for others to take on leadership positions. 
-Good leadership takes a lot of time. It is often not possible to lead well if leading several projects. Leadership and limited time allocation are often incompatible.
+Good leadership takes a lot of time. 
+It is often not possible to lead well if you are leading several projects. 
+Leadership and limited time allocation are often incompatible.
 
 ## Address Conflict of Interest with Feedback Process
 
