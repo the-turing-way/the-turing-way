@@ -13,7 +13,7 @@ This is also applicable to data science, research communities, and collaboration
 In formal terms, leadership is defined as **specific skills** "encompassing the ability of **an individual or organisation to lead** or guide other individuals, teams, or entire organisations." (source: [Wikipedia](https://en.wikipedia.org/wiki/Leadership)).
 Open leaders might not necessarily be the same people who have formal authority or the title of institutional leaders.
 Nonetheless, open leaders work towards facilitating an environment that empowers others to collaborate equitably, identify shared challenges, develop shared goals, and address them with a shared sense of agency.
-In the long term, their work contributes to the success of projects and institutional goals and hence should be rewarded with formal titles, recognitions and positive culture change.
+In the long term, their work contributes to the success of projects, and institutional goals and hence should be rewarded with formal titles, recognitions, and positive culture change.
 
 ```{figure} ../figures/healthy-leadership.png
 ---
