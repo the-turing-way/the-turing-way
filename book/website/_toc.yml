@@ -510,6 +510,8 @@ parts:
             file: collaboration/informal-chats
           - title: Tools for Facilitating Collaboration
             file: collaboration/event-tools
+          - title: Facilitating Stakeholder Engagement
+            file: collaboration/stakeholder-engagement
           - title: Managing a New Community and Team
             file: collaboration/new-community
             sections:
