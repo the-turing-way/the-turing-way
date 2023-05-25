@@ -3,13 +3,13 @@
 ## What does leadership for research infrastructure roles look like?
 
 As formal career paths for many research infrastructure roles are currently not yet defined, formal leadership positions are limited and often tied to managing people or budgets.
-In the ten years I have worked in the open science space in research infrastructure roles (research data librarian might come closest to describe it), I have not formally managed a team, though I hope that I have led and enacted change and hopefully inspired some people along the way to work more openly.
+In the ten years I have worked in the open science space in research infrastructure roles (research data librarian might come closest to describing it), I have not formally managed a team, though I hope that I have led and enacted change and hopefully inspired some people along the way to work more openly.
 
 *So: how do people in research infrastructure roles lead?*
 
 Many of these roles contain a degree of coordination and project management, so our leadership brings people together, facilitates conversations that otherwise might not happen and while we might not be decision makers, we certainly can get others to make decisions and hold them accountable for enacting them.
 
-I have managed a range of services (data repositories, service to support [data management planning](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html)) working closely with software developers on delivering a smooth service to users.
+I have managed a range of services (data repositories, services to support [data management planning](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html)) working closely with software developers on delivering a smooth service to users.
 As I prefer decision making by consensus, it often feels more like a collaboration and less like me leading the team and service development. 
 
 
@@ -40,7 +40,7 @@ Mozilla's resources on [personal ecology](https://foundation.mozilla.org/en/blog
 ## Summary
 
 I hope that this case study inspires others to think about their leadership potential, especially if they feel they are not a leader because they are not in a formal leadership position.
-Often others see us as leaders when we do not identify with that label yet, thus I encourage anyone to **tell the people that inspire you that you appreciate their leadership**! 
+Often, others see us as leaders when we do not identify with that label yet, thus I encourage anyone to **tell the people that inspire you that you appreciate their leadership**! 
 
 
 ### Reading I found helpful:

@@ -34,50 +34,53 @@ Being kind, examining assumptions, and keeping an open mind to learn from the va
 No one in a team, group, organization, or event should have to speak too loudly to get their message across.
 - **Transparency and accountability**: Healthy leadership makes decisions as transparent as possible and builds accountability within the team.
 This means that everyone is involved in the decision-making and feedback process, and kept updated on the status of the group's work. 
-It also means avoiding unpleasant surprises, and uncertainties or ensuring expectations for everyone through participation guidelines and Code of Conduct.
+It also means avoiding unpleasant surprises and uncertainties, and ensuring clear expectations for everyone's behaviour through participation guidelines and Code of Conduct.
 Human relationships are complicated, and leaders must make consensus-led decisions, however, sometimes those decisions may not align with the scope and goals of the project. 
 This is where providing a clear governance process can help leaders in avoiding arbitrary decision-making, bring alignments and enable transparent governance.
 - **Continuous knowledge and skill building**: Leaders have deep knowledge of their projects and teams, and continue to build skills for themselves and others as needed.
 They bring systems-level thinking and familiarity with the whole organisation where they lead, and the system within which they work with. 
-Leaders’ goals also include identifying opportunities for and directly building complementary skills for the entire team, encouraging problem-solving as a team, developing a workflow that enhances the efficiency of the team (for example reusable and reproducible processes) and sharing knowledge with each other.
-At the core of this is building diverse teams, bringing perspectives from diverse cultural backgrounds and working with them to solve problems faster.
+Leaders’ goals also include identifying opportunities for and directly building complementary skills for the entire team, encouraging problem-solving as a team, developing a workflow that enhances the efficiency of the team (for example reusable and reproducible processes), and sharing knowledge with each other.
+At the core of this is building diverse teams, bringing perspectives from diverse cultural backgrounds, and working with them to solve problems faster.
 - **Consensus**: Leaders act on as much consensus as possible, even when they do not agree with the decision individually.
 A healthy way to navigate the difference is to create spaces to have informed conversations where multiple perspectives are explored and the team can assess the pro and cons of each possible decision. 
-This also means that leaders provide a process for how decisions are made, and invite inputs from their team members on improving it further.
-Sometimes it may mean that they reach out to the people who don't actively engage, or feel left out of the consensus to make decisions that are best for the maximum number of people affected by it.
-- **Trust**: Healthy leadership trust in the skills and ability of people around them and identify the best fit for everyone to succeed.
+This also means that leaders provide a process for how decisions are made, and invite inputs from their team members on improving the process further.
+Sometimes it may mean that they need to reach out to the people who don't actively engage, or feel left out of the consensus to make decisions that are best for the maximum number of people affected by them.
+- **Trust**: Healthy leadership trusts in the skills and ability of people around them and identifies the best fit roles or tasks for everyone to succeed.
 They are aware of their own biases and avoid them intentionally, often by providing space to listen to different thoughts and perspectives. 
 They guide people to adapt to changes and transformations particularly when leading large projects, with many moving parts and teams.
-- **Delegation**: Leaders are to lead by example, but they will be unable to do everything and should not do everything either. 
-When a leader is in charge of too many aspects of a project they will become a bottleneck and blocker to the emergence of other open leaders.
-Delegation goes hand in hand with building a trustworthy environment, this means that they communicate clearly the overarching goals, create smaller milestones and delegate tasks meaningfully so different people can lead different parts of the work, nurturing healthy leadership habits within their teams.
-- **Power dynamics**: Power dynamics are relationships between people in an organisation with varying levels of privileges. 
+- **Delegation**: Leaders should lead by example, but they will be unable to do everything themselves and should not do everything either. 
+When a leader is in charge of too many aspects of a project they will become a bottleneck and blocker to the emergence of other open leaders as well as the overall progress of the project.
+Delegation goes hand in hand with building a trustworthy environment, this means that they communicate clearly the overarching goals, create smaller milestones, and delegate tasks meaningfully so different people can lead different parts of the work, nurturing healthy leadership habits within their teams.
+- **Understanding of power dynamics**: Power dynamics are relationships between people in an organisation with varying levels of privileges. 
 Power dynamics are often created by leaders.
 Leaders with formal authority come with institutional power and open leaders often come with informal connections that can translate into social capital or power (even when they don’t have formal authority in the organisation).
-Therefore, leaders should understand how their positions affect the dynamics when working with others in their team, even when not exerting their power.
+Therefore, leaders should understand how their positions affect the dynamics when working with others in their team, even when not overtly exerting their power.
 Understanding power dynamics helps leaders identify and resolve conflict, build consensus, and create a more effective team culture.
-- **Acknowledging fairly**: Leadership roles come with a lot of visibility for their roles.
+- **Acknowledging fairly**: Leadership roles come with a lot of visibility.
 This is partly earned by leaders' work as individuals but is often enhanced by the work of others in their teams. 
-Open leaders recognise and celebrate all kinds of work, appreciate and celebrate them openly and give appropriate credit to everyone, including those whose work makes them visible often taking invisible responsibilities for the sake of the overall success.
+Open leaders recognise and celebrate all kinds of work, appreciate and celebrate them openly and give appropriate credit to everyone, including those who take on invisible responsibilities for the sake of the projects' overall success.
 
-##  What should Leaders Avoid
+##  What Should Leaders Avoid
 
 - **Elitism and hypocrisy**: Open leadership in research in general benefits a lot from equity, inclusivity and diversity (EDI). 
 Thus, traits that sabotage EDI goals, should be avoided at all costs.
 Attitudes like elitism and hypocrisy can have unintended consequences on the project as well as on the leaders themselves.
-Elitism is when leaders constantly reinforce their authority, status, and expertise, creating distance between them and junior/new members of their teams.
+Elitism is when leaders constantly reinforce their authority, status, and expertise, creating distance between themselves, experienced team members, and junior or newer members.
 Hypocrisy is holding others accountable for one set of quality measures, and having a lesser standard for themselves.
 Leaders should hold the same standards for everyone and create spaces for collaboration through egalitarian rather than authoritative means.
 - **Ignoring the personal side of the team**: members of the team/organisation can disclose or not as much as they want from their personal lives. 
-But it is up to the leader to ensure that their team members feel safe to express the issues that affect their work such as their physical or mental health, and understand each others' challenges such as those caused by invisible or visible disability or caring responsibilities outside work and can seek help from each other or professionals.
-If leaders don't make it ok for their team members to share their sides, team members most likely (and even newer members of the team), would not know what is appropriate and won't ask for help even when they need it. 
-This will likely have an impact on the overall project/team/organisation dynamics, opportunities for building trustworthy teams and often their mental health (which may result in burnout).
-- **Tunnel vision**: Leaders should be aware of the research landscape, trends and state-of-the-art technology/approaches relevant to their teams. 
+But it is up to the leader to ensure that their team members feel safe to express the issues that affect their work such as their physical or mental health, and understand each others' challenges, such as those caused by invisible or visible disability or caring responsibilities outside work.
+They should also ensure people know where and how to ask for help, whether that help comes from colleagues or professionals. 
+If leaders don't make it ok for their team members to share their challenges, team members, particularly newer members, will not know what is appropriate and won't ask for help even when they need it. 
+This will likely have a negative impact on the overall project/team/organisation dynamics, decrease opportunities for building trust, and affect people's mental health, which may result in burnout.
+- **Tunnel vision**: Leaders should be aware of the research landscape, trends, and state-of-the-art technology/approaches relevant to their teams. 
 Even if the organisation or a project might focus on one line of work, awareness about and an understanding of what is 'going on around' at the broader level will prompt further discussions and go beyond finding quick solutions.
-- **Hide weaknesses**: Weaknesses should be something we should embrace and work on, not something to hide - especially for leaders. 
-Leaders should not put unrealistic expectations on their team members to know everything they should encourage diverse complementing skills and create teams where everyone can learn from and build on each others' skills.
+- **Hide weaknesses**: Weaknesses should be something we should embrace and work on, not something to hide - especially leaders. 
+Leaders should not put unrealistic expectations on their team members to know everything, unicorns do not exist!
+Instead, they should encourage complementing skillsets and create teams where everyone can learn from and build on each others' skills.
 Sometimes people's strengths can be their 'weaknesses' in other situations, and vice versa.
-- **Trying to be a leader everywhere**: The same person should not be a leader everywhere. People in one or several lead positions would ideally leave room for others to take on leadership positions. 
+- **Trying to be a leader everywhere**: The same person should not be a leader everywhere.
+ People in one or several lead positions would ideally leave room for others to take on leadership positions. 
 Good leadership takes a lot of time. 
 It is often not possible to lead well if you are leading several projects. 
 Leadership and limited time allocation are often incompatible.
@@ -88,7 +91,7 @@ A conflict of interest is a situation in which the leader (or one of their team 
 
 If a person participates in several projects or spaces (professional or personal), they will likely have overlapping interests.
 Based on the nature of their roles in those projects, the nature of their relationship with different project teams (sometimes with overlapping groups of people) will differ.
-It is the core responsibility of individuals to identify and declare their Conflict of Interest proactively.
+It is the core responsibility of individuals to identify and declare their conflicts of interest proactively.
 They should make it clear in what capacity or in what role (from the multiple 'hats' they wear) they are operating.
 They should separate the conversations to avoid confusion for people they work with and if needed, they should step away from a situation, transferring the leadership responsibilities to others.
 In [this video](https://www.youtube.com/watch?v=HQjRnWVmL28), Carol Willing explains how it is critical to abstain from decisions as a leader when you have a conflict of interest.
@@ -97,8 +100,10 @@ In [this video](https://www.youtube.com/watch?v=HQjRnWVmL28), Carol Willing expl
 
 > With great power comes great responsibility
 
-We are all humans and make mistakes. Healthy leadership recognises, accepts and apologizes when they make mistakes.
+We are all humans and make mistakes. 
+Healthy leadership recognises, accepts and apologizes when they make mistakes.
 
 A good leader owns their mistakes, takes responsibility for the harm caused by their error, rights the wrong, and learns from mistakes going forward. 
 
-A substantial component of visible vulnerability will only make leaders better. Genuine vulnerability builds trust.
+A substantial component of visible vulnerability will only make leaders better. 
+Genuine vulnerability builds trust.
