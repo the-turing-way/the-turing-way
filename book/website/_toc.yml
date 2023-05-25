@@ -530,8 +530,8 @@ parts:
                 file: collaboration/new-community/new-community-differences
               - title: Teamwork
                 file: collaboration/new-community/new-community-teamwork
-            - title: Academic-Industry Collaborations
-              file: collaboration/academic-industry
+          - title: Academic-Industry Collaborations
+            file: collaboration/academic-industry
             sections:
               - title: Establishing an Academic-Industry Collaboration
                 file: collaboration/academic-industry-establish
