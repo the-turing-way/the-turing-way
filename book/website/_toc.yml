@@ -74,14 +74,14 @@ parts:
                     file: reproducible-research/vcs/vcs-github
                   - title: Summary Table of Git Commands
                     file: reproducible-research/vcs/vcs-git-summary
-          - title: Version Control for Data
-            file: reproducible-research/vcs/vcs-data
-          - title: Personal Stories
-            file: reproducible-research/vcs/vcs-personal-stories
-          - title: Checklist
-            file: reproducible-research/vcs/vcs-checklist
-          - title: Resources
-            file: reproducible-research/vcs/vcs-resources
+               - title: Version Control for Data
+                 file: reproducible-research/vcs/vcs-data
+               - title: Personal Stories
+                 file: reproducible-research/vcs/vcs-personal-stories
+               - title: Checklist
+                 file: reproducible-research/vcs/vcs-checklist
+               - title: Resources
+                 file: reproducible-research/vcs/vcs-resources
           - title: Licensing
             file: reproducible-research/licensing
             sections:
