@@ -8,9 +8,9 @@ These people take initiative, guide others, ensure that diverse perspectives are
 
 This is called leadership and these people are leaders.
 Specifically, in the context of open source/science and community projects, we call this phenomenon 'Open Leadership'.
-This is also applicable to data science and research communities and collaborations more broadly.
+This is also applicable to data science, research communities and collaborations more broadly.
 
-In formal terms, leadership is defined as **specific skills** "encompassing the ability of **an individual or organization to lead** or guide other individuals, teams, or entire organizations." (source: [Wikipedia](https://en.wikipedia.org/wiki/Leadership)).
+In formal terms, leadership is defined as **specific skills** "encompassing the ability of **an individual or organisation to lead** or guide other individuals, teams, or entire organisations." (source: [Wikipedia](https://en.wikipedia.org/wiki/Leadership)).
 Open leaders might not necessarily be the same people who have formal authority or the title of institutional leaders.
 Nonetheless, open leaders work towards facilitating an environment that empowers others to collaborate equitably, identify shared challenges, develop shared goals and address them with a shared sense of agency.
 In the long term, their work contributes to the success of projects and institutional goals and hence should be rewarded with formal titles, recognitions and positive culture change.
@@ -30,14 +30,14 @@ We highlight the quotes from Adrienne Maree Brown, author of the Book Emergent S
 ```{note}
 Mozilla's Open Leadership Framework describes open leadership as "a set of principles, practices, and skills people can use to mobilise their communities to solve shared problems and achieve shared goals" (See [Mozilla Open Leadership framework](https://mozilla.github.io/open-leadership-framework/framework/#open-leadership-framework)).
 
-[The Open Organization Resources](https://theopenorganization.org/definition/open-leadership-definition/) defines open leadership as a mindset and behaviors that anyone can learn and practice.  
+[The Open Organisation Resources](https://theopenorganization.org/definition/open-leadership-definition/) defines open leadership as a mindset and behaviors that anyone can learn and practice.  
 Their roles may not be permanent or predestined but emerge as needed for the task at hand. 
 Open leaders uphold transparency, inclusivity, adaptability, collaboration, and community.
 ```
 
 Open Leadership Framework states that leadership is about involving members and mobilising communities to solve problems and achieve goals that are beneficial for everyone. 
 
-Individuals who lead their work (project, organization, communication, resources) openly design different aspects of their work to promote openness and social good throughout their work life cycle.
+Individuals who lead their work (project, organisation, communication, resources) openly design different aspects of their work to promote openness and social good throughout their work life cycle.
 
 The key principles of openness are: **design**, **build**, and **empower** for **understanding**, **sharing**, and **participation and inclusion**.
 
