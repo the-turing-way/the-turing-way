@@ -69,7 +69,7 @@ In the context of data science, where we strive to advance our knowledge through
 In data science and research, discussions and upskilling in leadership are extremely important as:
 * Researchers and data scientists constantly navigate fast-changing demands of 'innovative' approaches in technological development.
 * They manage and coordinate collaborations with their peers as well as external stakeholders across multiple disciplines. 
-* leadership is one of the toughest non-technical skills to learn without guidance,
+* Leadership is one of the toughest non-technical skills to learn without guidance.
 * rarely discussed openly in research environments, despite being everywhere, and
 * (open) leadership is one of the keys to healthy and inclusive communities that we are striving to build in data science.
 
