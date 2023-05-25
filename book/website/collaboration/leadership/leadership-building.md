@@ -47,7 +47,7 @@ This also means that leaders provide a process for how decisions are made, and i
 Sometimes it may mean that they need to reach out to the people who don't actively engage, or feel left out of the consensus to make decisions that are best for the maximum number of people affected by them.
 - **Trust**: Healthy leadership trusts in the skills and ability of people around them and identifies the best fit roles or tasks for everyone to succeed.
 They are aware of their own biases and avoid them intentionally, often by providing space to listen to different thoughts and perspectives. 
-They guide people to adapt to changes and transformations particularly when leading large projects, with many moving parts and teams.
+They support people to [navigate and manage changes](https://www.linkedin.com/pulse/do-you-navigate-manage-change-barbara-kramer-zarins-mba/) by helping them understand where they stand in relation to coming changes particularly when leading large projects, with many moving parts and teams.
 - **Delegation**: Leaders should lead by example, but they will be unable to do everything themselves and should not do everything either. 
 When a leader is in charge of too many aspects of a project they will become a bottleneck and blocker to the emergence of other open leaders as well as the overall progress of the project.
 Delegation goes hand in hand with building a trustworthy environment, this means that they communicate clearly the overarching goals, create smaller milestones, and delegate tasks meaningfully so different people can lead different parts of the work, nurturing healthy leadership habits within their teams.
