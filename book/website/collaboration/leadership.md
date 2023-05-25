@@ -86,4 +86,5 @@ In this chapter, we will introduce and discuss:
 - {ref}`important features<cl-leadership-features>` of leadership when experiencing and exercising them in data science,
 - what we mean by {ref}`"healthy" leadership<cl-leadership-building>`, how we can build open and healthy leadership approaches and what they should avoid/address,
 - how we can create {ref}`leadership opportunities <cl-leadership-opportunities>` in our projects,
-- finally, we invite you, the diverse group of leaders in *The Turing Way* (readers, users, contributors, and community members) to provide examples from your contexts.
+- finally, our community members provide examples of open leadership from their own professions and experiences.
+We invite you, the diverse group of leaders in *The Turing Way* (readers, users, contributors, and community members) to provide more examples from your contexts in this chapter.
