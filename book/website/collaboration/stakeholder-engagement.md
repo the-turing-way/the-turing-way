@@ -92,3 +92,25 @@ These insights can help a team to develop a roadmap for the tool to plan out fut
 - Diataxis [framework for technical documentation](https://diataxis.fr)
 - Read the Docs [documentation hosting](https://readthedocs)
 - Nielsen Norman [heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
+
+## Stakeholder Impact Assessments
+### Key question: How can we develop projects with continual sensitivity to the ways in which these impact stakeholders?
+
+Stakeholder Impact Assessments (SIAs) are a tool used to gain anticipatory insight into the project impacts, defined as the possible harms and benefits.
+SIAs take the form of questionnaires addressing the ethical permissibility, transparency, accountability, and equity of projects.
+We use SIAs to identify and document the full range of potential impacts and provide project teams a contextual awareness of the social environments impacted by their projects. 
+This activity can help teams steer the direction of their projects preventively to ensure that they support the wellbeing and sustainability of the individuals and communities they impact and mitigate any harms. 
+
+Evaluations of project impacts should ideally be done in collaboration with stakeholders. 
+In the context of SIAs, stakeholders are individuals and communities that are impacted or may impact projects.
+Engaging stakeholders in conducting SIAs helps secure the accuracy and integrity of SIA outcomes. 
+This is because gaps in identity and experience between project teams and impacted individuals may cause there to be differences between how team members view project impacts and how stakeholders experience them. 
+Facilitating proportionate stakeholder engagement and input throughout the AI lifecycle is a way to gain a richer understanding of the impacts that projects may have on stakeholders. 
+ 
+SIAs are not a one-off activity but an iterative one that occurs at a key point throughout the design, development, and deployment stages of the [AI project lifecycle](https://alan-turing-institute.github.io/turing-commons/skills-tracks/rri/rri-101-index/), each time informing the direction of the project so that it continually adapts to changing contexts. 
+After each iteration is conducted, project teams are asked to re-assess questions addressed within the Stakeholder Engagement Process. 
+These questions motivate project teams to iteratively re-assess the extent to which their analysis of project stakeholders and reflection of team positionality continues to be accurate and relevant. 
+These re-assessments are used to determine engagement objectives and methods for each following SIA. 
+
+### Example resources
+* Impact-informed guidance for conducting a Stakeholder Engagement Process (SEP) can be found in the [Turing Commons Public Engagement of Data Science course](https://alan-turing-institute.github.io/turing-commons/skills-tracks/ped/chapter3/when/#stakeholder-analysis). The SEP is a complementary process that precedes SIAs and provides reflection questions set to identify and analyse project stakeholders, and reflect on team positionality in relation to project stakeholders. These questions support teams in determining proportional engagement objectives and methods for conducting Stakeholder Impact Assessments. 
