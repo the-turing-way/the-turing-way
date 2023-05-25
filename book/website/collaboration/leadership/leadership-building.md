@@ -25,7 +25,7 @@ Open and emergent leaders understand that research and communities are political
 Therefore, they learn to hold safe spaces to have discussions and respond to the need for culture change with the members affected or oppressed by the status quo.
 Leaders should build crucial [ally skills](https://www.software.ac.uk/blog/2021-07-05-why-we-discuss-ally-skills-open-science) to learn how to use their privileges to step up for others in the teams.
 - **Ensuring Diversity**: Diverse teams are high-performing teams.
-Data science and research projects are no exceptions where diverse teams should be supported.
+Data science and research projects are no exception to supporting diverse teams.
 Diverse teams are indispensable and inherently essential for ensuring benefits for people impacted by the processes and outcomes.
 Empathic and effective leaders understand the importance of diversity, build diverse teams and centre on the interests of marginalized interests.
 Good leaders respect and celebrate cultural differences and welcome everyone by providing inclusive approaches and policies. 
