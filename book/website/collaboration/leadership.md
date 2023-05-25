@@ -15,7 +15,7 @@ Open leaders might not necessarily be the same people who have formal authority 
 Nonetheless, open leaders work towards facilitating an environment that empowers others to collaborate equitably, identify shared challenges, develop shared goals and address them with a shared sense of agency.
 In the long term, their work contributes to the success of projects and institutional goals and hence should be rewarded with formal titles, recognitions and positive culture change.
 
-```{figure} ../../figures/healthy-leadership.png
+```{figure} ../figures/healthy-leadership.png
 ---
 name: healthy-image
 alt: Leadership is illustrated as a fractal where different people are watering growing flowers in the different places - that is leading to new fractals with more people. There are a few quotes written on ths image - Transform yourself to transform the world, the large is a reflection of the small, and strong values can spread to other organisations.
