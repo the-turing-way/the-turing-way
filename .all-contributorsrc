@@ -4247,6 +4247,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "jurra",
+      "name": "Jose Urra ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18581201?v=4",
+      "profile": "https://github.com/jurra",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "projectName": "the-turing-way",
