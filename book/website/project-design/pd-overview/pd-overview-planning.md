@@ -56,7 +56,7 @@ We can begin the project design process by identifying different parts of our re
 * Consider licensing and copyright issues for sharing your outputs.
 * Determine how you will manage intellectual property and ownership rights using an IP register.
 * Remember to include any required reporting to funders.
-* Useful documentation: IP register, licensing and copyright statement, data sharing plan.
+* Useful documentation: [The Turing Way Guide to Communication](cm-comms-overview) IP register, [licensing](rr-licensing) and copyright statement, [data management plan](rr-rdm-dmp).
 
 ### Community & Communications 
 * Identify the target audience for your research.
