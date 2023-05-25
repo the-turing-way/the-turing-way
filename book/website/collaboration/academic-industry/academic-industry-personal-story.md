@@ -15,7 +15,7 @@ Slack suited this purpose and we have since grown its use as somewhere to share 
 We also have experimented with coffee chats.
 
 A learning that I think is useful to pass on is considering a strategy for growth of your Slack Workspace or other messaging/social media space. 
-The Turing-Roche Slack grew larger than we had expected, meaning we had implement things like an onboarding message and new channels retrospectively rather than considering these needs at the start.
+The Turing-Roche Slack grew larger than we had expected, which meant that we had to implement things like an onboarding message and new channels retrospectively rather than considering these needs at the start.
 
 You will also need to consider whether your Slack is open for anyone to join and whether its cost effective to sign up to a paid plan which has benefits such as keeping your message history. 
 
