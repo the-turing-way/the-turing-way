@@ -4,7 +4,6 @@
 > This chapter is for more advanced users.
 > It allows you to work on the code, while allowing other users to see the stable version of your data first.
 >Branches are also a way to make changes that can be easily trashed.
-rr-vcs-workflow-branches)=
 
  So you have your project and you want to add something new or try something out before reflecting the changes in the main project folder.
  To add something new, you can continue editing your files and save them with the proposed changes.
