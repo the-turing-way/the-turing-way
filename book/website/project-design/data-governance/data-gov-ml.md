@@ -52,7 +52,7 @@ opt-out to future training. They maintain a "registry of non-consenting data" wh
 In order to address some of the problematic aspects of the data, such as biased or harmful content or existence of personal information, some data processing should be done before the dataset is used for model training, released to a wider audience, or ideally, even before stored on a database.
 Addressing these data quality and privacy issues may be motivated by regulatory compliance like GDPR or a team’s norms and best practices.
 Because this work, particularly in identifying and removing harmful content, may be contextual or reliant on the expertise of specific communities, these tasks are often performed in collaboration with community experts.
-As an example, when identifying sensitive information for removal from a dataset, a team may identify clear targets regarding an individual;s data such as usernames, passwords, and emails.
+As an example, when identifying sensitive information for removal from a dataset, a team may identify clear targets regarding an individual's data such as usernames, passwords, and emails.
 However, a community from a specific country, or who speak a specific language, or who face a specific disability or form of discrimination may be able to identify additional criteria that should be removed to protect their community members.
 
 ### Governance Tool: [PII Redaction Dataset](https://huggingface.co/datasets/bigcode/bigcode-pii-dataset)
