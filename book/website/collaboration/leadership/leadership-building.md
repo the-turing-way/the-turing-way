@@ -29,7 +29,9 @@ Data science and research projects are no exception to supporting diverse teams.
 Diverse teams are indispensable and inherently essential for ensuring benefits for people impacted by the processes and outcomes.
 Empathic and effective leaders understand the importance of diversity, build diverse teams and centre the interests of marginalized interests in their projects and work.
 Good leaders respect and celebrate cultural differences and welcome everyone by providing inclusive approaches and policies. 
-Being welcoming and inclusive is challenging because it varies a lot by culture and personality. 
+This means understanding that people come from different cultural background and lived experiences and have different preferences or style of working (reference: [The Culture Map](https://erinmeyer.com/books/the-culture-map/)).
+Leaders should be intentional in designing projects and teams' ways of working to embed practices that welcomes and include all stakeholders.
+If there are certain limitations for including specific groups of people such as external stakeholders, this should be clearly recorded and communicated.
 Being kind, examining assumptions, and keeping an open mind to learn from the variability that enriches teams are essential to be a good leader. 
 No one in a team, group, organization, or event should have to speak too loudly to get their message across.
 - **Transparency and accountability**: Healthy leadership makes decisions as transparent as possible and builds accountability within the team.
