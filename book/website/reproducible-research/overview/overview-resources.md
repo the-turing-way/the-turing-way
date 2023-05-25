@@ -30,7 +30,7 @@ You first need to know that linux and OSX use `bash` code natively, while the co
 
 Here is a small list of tools and training material to know more :
 - A [game to teach one the basics of using a POSIX (Linux, BSD, UNIX) terminal](https://gitlab.com/slackermedia/bashcrawl) 
-- Carpentry lesson: https://swcarpentry.github.io/shell-novice/
+- Carpentries lesson on [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
 - https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/
 - https://programminghistorian.org/en/lessons/intro-to-bash
 
