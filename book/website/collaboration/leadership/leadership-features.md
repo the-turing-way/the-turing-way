@@ -16,7 +16,7 @@ Like a project manager in a team-based research project or a tech company CEO, t
 A company CEO have the power to make decisions to provide organisational resources which can impact the overall efficiency and the ability of teams to deliver on organisational goals.
  
 However, such a top-down approach to decision-making is the characteristic of being a manager. It does not necessarily make them a leader. 
-A good leader inspires their team members to make progress in their own right and be leaders themselves, which means leaders should not micromanage their team members and allow spaces for them to grow.
+Individuals within the teams who inspire their team members play huge role in keeping team motivated as they make progress in their own rights, and take on leadership roles themselves.
 
 ## Emergent leadership
 
