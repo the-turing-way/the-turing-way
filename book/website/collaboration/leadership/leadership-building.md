@@ -83,7 +83,7 @@ Good leadership takes a lot of time. It is often not possible to lead well if le
 
 ## Address Conflict of Interest with Feedback Process
 
-A conflict of interest is a situation in which the leader (or one of their team members) has a private or personal interest, directly or indirectly, that (potentially) influences or appears to influence the objective of their duties as a leader, to the detriment or benefit of the team.
+A conflict of interest is a situation in which the leader (or one of their team members) has a private or personal interest, directly or indirectly, that influences, or appears to influence, the delivery of their duties as a leader, to the detriment or benefit of the team.
 
 If a person participates in several projects or spaces (professional or personal), they will likely have overlapping interests.
 Based on the nature of their roles in those projects, the nature of their relationship with different project teams (sometimes with overlapping groups of people) will differ.
