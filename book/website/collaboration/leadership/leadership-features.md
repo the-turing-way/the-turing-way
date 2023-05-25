@@ -6,7 +6,7 @@ Leaders empower others to identify solutions and make their own decisions to add
 
 This statement points to the leadership skill of involving the members of a group (that a leader aims to impact) in decision-making processes and not taking individual decisions for them ([reference](https://www.management-issues.com/opinion/6087/the-leader-as-activist/#:~:text=But%20when%20they%20use%20constructive,in%2Da%2Dlifetime%20act.)).
 Leadership is different from operating individually, managing a task or administering a role in isolation.
-It is about understanding and enabling the purpose of the project and process through which people within a team work with each other to reach the overarching goal.
+It is about understanding and enabling the purpose of the project and the process through which people within a team work with each other to reach the overarching goal.
 
 With this basic understanding of leadership, we discuss some essential leadership features, in contrast to management, in this subchapter.
 
@@ -53,7 +53,7 @@ Here are her core principles of emergent strategy:
 
 ## Leadership is Granted by Others
 
-Outstanding leadership is often sought and studied because teams, organizations, and people work at their highest potential, building extraordinary results when following good leaders.
+Outstanding leadership is often sought and studied because teams, organisations, and people work at their highest potential, building extraordinary results when following good leaders.
 Yet, one main characteristic of leadership is that it is granted by others who decide to follow someone as a leader in a specific setting.
 This means that even leaders with formal authority need to build trust and psychological safety within their team to earn leadership.
 It also means that the ideal environment and culture is promoted for different members to take on roles that align with their skills and interest and be granted open leadership roles by the formal leaders or the other members of the team.
@@ -65,7 +65,7 @@ Projects without structures can become a culprit and victim of, what Jo Freeman 
 This term denominates the authoritarianism that results in human groups due to the lack of structure and rules. 
 A way to fix structurelessness is by bringing governance, policies, or rules in writing accessible to everyone.
 
-Governance is the set of formal and informal practices through which an organisation sets goals, assigns responsibilities, establishes systems, and assesses outcomes of organizational action (find theoretical details in the [Handbook of Economic Organization by Grandori, A. (2013).](https://econpapers.repec.org/bookchap/elgeebook/14110.htm]).
+Governance is the set of formal and informal practices through which an organisation sets goals, assigns responsibilities, establishes systems, and assesses outcomes of organisational action (find theoretical details in the [Handbook of Economic Organization by Grandori, A. (2013).](https://econpapers.repec.org/bookchap/elgeebook/14110.htm]).
 
 ```{note}
 Organisations that have good governance use clear decision-making processes, behave openly by reporting on their activities, actively engage with their stakeholders, effectively manage the risks they face, and take responsibility for controlling and protecting their assets, including their reputation. Each of these areas of governmence activity contributes to an organisation’s success.
@@ -87,13 +87,16 @@ We have also described governance in the different guides of The Turing Way, esp
 
 ## Leaders are Made, not Born
 
-As with any other human aspect, leadership can be built and learned.
+As with any other human aspect, leadership skills can be learned through practice and time.
 
 No fixed formula for leadership works in all scenarios with the same effectiveness.
 However, individuals can learn some specific traits and adapt these traits as needed in a given situation.
 
-Great leaders in one project or one environment, say a data science reading club, may not be leaders in other contexts such as leading a research project or the families' group at their kids' school.
-Indeed, trying to become the leader of too many projects or in all contexts is often one of the aspects to avoid in healthy leadership as we mention in another subchapter {ref}(reference)<cl-leadership-avoid>.
-
+Great leaders in one project or one environment, say a data science journal club, may not be leaders in other contexts such as leading a research project independently.
+It doesn't mean that specific skills required for a specific profession can't be learned.
+Leaders must bring humility and understand where their knowledge might be limited.
 No matter how many books about leadership a person reads or how many (often expensive) workshops a person attends to learn how to become a leader, no method will guarantee leadership at all times in all contexts.
-Learning to become a good leader is a creative process that one can also learn through practice and willingness to learn from failures.
+Therefore, in new contexts, leaders should give space to people who are closer to the situation/problem and may have a better understanding of their environment and needs.
+Indeed, trying to become the leader of too many projects or in all contexts is often one of the aspects to avoid in healthy leadership as we mention in the next subchapter.
+
+The final takeaway here is that learning to become a good leader is a creative process that one can also learn through practice and willingness to learn from failures.
