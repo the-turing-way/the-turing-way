@@ -71,27 +71,6 @@ It is important to take these conversations in order, so that team strategy and 
     * {ref}`Chairing Events <cl-chairing>`
     * {ref}`Tools for Collaboration <cl-event-tools>`
 
-## Stakeholder engagement categories and pipelines
-### Key question: How do you effectively identify and implement methods for engaging with diverse stakeholders?
-Once you have mapped your stakeholders, you may find there are diverse groups of key stakeholders to engage, with different needs, aims and preferred methods of communication.
-For stakeholder engagement plans to be effective (that is, to have engaged stakeholders brought into the project), the methods of communication and engagement must be best suited to them.
-To explore this topic, you can utilise the concept of user personas. Add some shit about this idea
-(Sorry will come back to all this stuff)
-* However, nothing is better than _talking to a representative group of each stakeholder type_. A great way to find out the needs of your stakeholder group is to run a kick-off, introductory workshop for this group! In this workshop you can cover things like:
-    * What your project and work is about
-    * Why this group of stakeholders is crucial
-    * How you want this group of stakeholders to be involved
-    * How to address one or two key questions for this group (to get them engaged and see why their involvement is important, and to get them participating as early as possible)
-    * The best methods of including these stakeholders going forwards
-* The more diverse your stakeholder groups, the more varied your engagement may need to become. Some may want a cadenced newsletter (e.g. fortnightly), others Collaboration Cafes or similar collaborative spaces, others asynchronous feedback via forms or surveys, others direct 1-1 interviews, or something else. Identifying your key stakeholders, how much capacity you have to accommodate their needs (ideally as much as they require), and how to structure your engagement for different groups is key.
-* Having an active, monitored engagement pipeline is crucial. Keeping a record of who you communicated with, how (email, call, workshop, interview etc.), when, what was covered, and next steps, helps you stay on top of your stakeholder contacts. You can also use this space to explore what methods work and don't work. For instance, if you send 5 emails to a certain stakeholder group over a month and get no replies, you might need to try a different method of engagement.
-* Follow ups work wonders! As a rule of thumb, following up at weekly cadences up to 3 times can really push engagement. There are different approaches you can give for each follow up. One approach is:
-    * Initial email
-    * Follow up (1 week) asking for thoughts
-    * Follow up 2 (1 week) - specifically highlight why this stakeholder's engagement is crucial
-    * Follow up 3 (1 week) - highlight this will be the last follow up and last chance to engage
-* It is much more effective to reach out to individuals than groups - having a personalised email will highlight to people how they specifically are important to the project. Utilising mail merge can be a great time saver, whilst still maintaining the beauty of individual outreach and communication.
-
 ## User-centric design
 ### Key question: How can research outputs benefit from a user-centric design process?
 
