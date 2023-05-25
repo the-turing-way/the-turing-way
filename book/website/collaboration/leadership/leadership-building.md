@@ -32,7 +32,7 @@ Good leaders respect and celebrate cultural differences and welcome everyone by 
 Being welcoming and inclusive is challenging because it varies a lot by culture and personality. 
 Being kind, examining assumptions, and keeping an open mind to learn from the variability that enriches teams are essential to be a good leader. 
 No one in a team, group, organization, or event should have to speak too loudly to get their message across.
-- **Transparency and accountability**: Healthy leadership makes decisions as transparent as possible and build accountability within the team.
+- **Transparency and accountability**: Healthy leadership makes decisions as transparent as possible and builds accountability within the team.
 This means that everyone is involved in the decision-making and feedback process, and kept updated on the status of the group's work. 
 It also means avoiding unpleasant surprises, and uncertainties or ensuring expectations for everyone through participation guidelines and Code of Conduct.
 Human relationships are complicated, and leaders must make consensus-led decisions, however, sometimes those decisions may not align with the scope and goals of the project. 
