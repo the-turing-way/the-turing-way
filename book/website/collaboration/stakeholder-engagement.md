@@ -2,7 +2,7 @@
 
 # Facilitating Stakeholder Engagement
 
-When working with stakeholders beyond your own team, there are many tools and best practices for improving the quality of engagement through activities like mapping relevant project stakeholders, organising effective stakeholder workshops, establishing shared language and understanding, and creating the foundation for effective collaboration.
+When working with stakeholders beyond your own team, there are many tools and best practices for improving the quality of engagement through activities like mapping relevant project stakeholders, organising stakeholder workshops, establishing shared language and understanding, and creating the foundation for effective collaboration.
 
 This chapter will share guidance and resources for facilitating different forms of stakeholder engagement for data science collaborations drawing upon expertise from the Turing Research Application Management (RAM) team.
 
@@ -28,7 +28,7 @@ Stakeholder mapping is a core activity of many Research Infrastructure Roles and
     * Prioritise communication methods and cadence for different stakeholder groups
     * Identify which groups may be negatively impacted by a research output
     * Identify which stakeholders are most prepared to adopt a particular research output
-  Choosing the right metrics will help crystallise which are the crucial stakeholders to engage.
+  Choosing the right metrics will help identify the most important stakeholders to engage.
 
 (cl-stakeholder-req-gathering)=
 ## Requirements gathering & alignment
@@ -46,7 +46,6 @@ Once the information is gathered in a single place, you can identify key questio
 * Often times different people will use the same term to mean completely different things or for different purposes
 * This exercise can help detangle the nuances of a commonly used term and whether or not there is overlap, and thus provides an opportunity to build shared understanding and goals
 * Requirements gathering is informed by the user interview process from the design and qualitative research worlds
-* The work begins after you gather requirements information, which is the starting point to facilitate a group conversation
 
 (cl-stakeholder-workshops)=
 ## Organising stakeholder workshops
