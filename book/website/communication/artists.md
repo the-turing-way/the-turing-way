@@ -1,7 +1,8 @@
 (cm-artists)=
 # Collaborating with artists
 
-## Why artists?
+(cm-artists-why)=
+## Why collaborate with artists?
 People receive messages through five senses: touch, taste, smell, vision and hearing. 
 Just as people are different, so are the ways they understand messages differ. 
 Artists use a variety of different communication media to creatively communicate messages to different groups through different senses. 
