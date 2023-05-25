@@ -83,7 +83,7 @@ The governance process should help identify and create accountability for:
 
 Governance helps any team-led project to function well, particularly during times of change.
 This tutorial by Carol Willing on [Open-source governance and leadership](https://github.com/jupytercon/2020-willingc/) (supplementary [video](https://www.youtube.com/watch?v=HQjRnWVmL28)) is an excellent starter for learning more about forms and models of governance.
-We have also described governance in the different guides of The Turing Way, especially in the context of data science and open source projects.
+We have also described governance in the different guides of The Turing Way, especially in the context of data science and open source projects, for instance {ref}`er-ethics-open-source-governance`.
 
 ## Leaders are Made, not Born
 
