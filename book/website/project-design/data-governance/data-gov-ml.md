@@ -40,7 +40,7 @@ Because opting out occurs after a dataset has already been created, it will not 
 
 ### Governance Tool: [Am I In the Stack?](https://huggingface.co/spaces/bigcode/in-the-stack)
 This tool was developed by the [BigCode](https://www.bigcode-project.org/) team to help developers inspect The Stack dataset so they can see whether any of their repositories have been included and might be used for training ML models. 
-If that is the case and they would prefer for their data to be removed, developers can fill out a form to request to opt-out from The Stack and have their data removed from future iterations of the dataset.
+If that is the case and they would prefer for their data to be removed, developers receive a custom link on the Am I In the Stack? website that automatically generates an issue in the [BigCode opt-out repository](https://github.com/bigcode-project/opt-out-v2) for an official opt-out request. You can choose which repos you'd like to remove, as well as your commits and issues. After submitting the issue, your request is added to the queue for removal from all future iterations of The Stack.
 
 ### Governance Tool: [Have I Been Trained?](https://haveibeentrained.com/)
 
