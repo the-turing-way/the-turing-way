@@ -4274,6 +4274,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "SaraVilla",
+      "name": "Sara Villa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43204602?v=4",
+      "profile": "https://github.com/SaraVilla",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
