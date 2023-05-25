@@ -78,11 +78,14 @@ If leaders don't make it ok for their team members to share their challenges, te
 This will likely have a negative impact on the overall project/team/organisation dynamics, decrease opportunities for building trust, and affect people's mental health, which may result in burnout.
 - **Tunnel vision**: Leaders should be aware of the research landscape, trends, and state-of-the-art technology/approaches relevant to their teams. 
 Even if the organisation or a project might focus on one line of work, awareness about and an understanding of what is 'going on around' at the broader level help create a better direction for the project.
-They should prompt their team members to engage in discussions that help them go beyond finding quick solutions.
+They engage their team members and engage them in discussions that go beyond finding quick solutions.
 - **Hide weaknesses**: Weaknesses should be something we should embrace and work on, not something to hide - especially leaders. 
 Leaders should not put unrealistic expectations on their team members to know everything, unicorns do not exist!
 Instead, they should encourage complementing skillsets and create teams where everyone can learn from and build on each others' skills.
 Sometimes people's strengths can be their 'weaknesses' in other situations, and vice versa.
+- **Micromanage**: Leaders don't try to personally control and monitor everything that their team members do. 
+Instead they learn to delegate, ask what their team members need and trust that their team members would complete the task assigned to them. 
+They should be available to talk to without interfering with the work directly and slowing the operation down.
 - **Trying to be a leader everywhere**: The same person should not be a leader everywhere.
  People in one or several lead positions would ideally leave room for others to take on leadership positions. 
 Good leadership takes a lot of time. 
