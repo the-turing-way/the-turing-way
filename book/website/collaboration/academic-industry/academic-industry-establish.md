@@ -29,7 +29,7 @@ For more detail on developing a contract, governance and more, we recommend this
 In the case of the Turing-Roche partnership, both the Turing Institute and Roche had a mutual commitment to open science principles which helped shape negotiations and set relatively flexible and collaborative terms around intellectual property. 
 The basis of the partnership was also to develop methodologies, rather than developing products or a collaboration on drug discovery, which would likely complicate contracting and therefore may be something you want to consider.
 
-Planning a scientific strategy is also a necessity, allowing both sides to identify what is in scope, generating a research agenda and therefore also who should be involved. T
+Planning a scientific strategy is also a necessity, allowing both sides to identify what is in scope, generating a research agenda and therefore also who should be involved.
 his also allows you to identify any background intellectual property on either side. 
 It is important to review this scientific strategy on a regular basis and adapt as necessary in response to ongoing research.
 
