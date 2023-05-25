@@ -44,7 +44,7 @@ Collaboration Cafes and/or co-working sessions can also help bring a sense of co
 They can be spaces where you onboard new members, brainstorm or work on research together. 
 More in this {ref}`this Turing Way chapter <ch-coworking>`.
 
-Establishing communication tools such as a newsletter for your collaboration is a useful way of sharing collaboration news, advertising your events and opportunities and spreading awareness. 
+Establishing communication tools, such as a newsletter, is a useful way of sharing collaboration news, advertising your events and opportunities and spreading awareness. 
 There is more info on how to create a newsletter in {ref}`this Turing Way chapter <ch-newsletters>`and you can also find previous Turing-Roche newsletters [here](https://github.com/alan-turing-institute/turing-roche-partnership/tree/main/communications/newsletters).
 
 (cl-academic-industry-community-strategy)=
