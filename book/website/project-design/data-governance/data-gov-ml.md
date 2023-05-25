@@ -35,7 +35,7 @@ The [Datasheets for Datasets paper](https://www.microsoft.com/en-us/research/upl
 
 Once data collection is complete, challenges emerge around data storage, access, and making changes to the dataset.
 Because state-of-the-art ML datasets are very large, they tend to be stored in a central location, often a cloud provider database, and made available for download under certain circumstances.
-In addition to creating a governance structure for the opening or gating of access of the dataset to certain users, there is also the challenge of creating a governance structure to allow data creators to request to opt-out their data from the dataset, if the team is interested in providing that capability.
+In addition to creating a governance structure for managing access to the dataset to certain users, there is also the challenge of creating a governance structure to allow data creators to request to opt-out their data from the dataset, if the team is interested in providing that capability.
 Because opting out occurs after a dataset has already been created, it will not remove the data from original versions of the dataset, but can facilitate removal from future versions.
 
 ### Governance Tool: [Am I In the Stack?](https://huggingface.co/spaces/bigcode/in-the-stack)
