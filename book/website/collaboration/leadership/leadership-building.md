@@ -20,7 +20,7 @@ They support them to identify new ideas and opportunities while working towards 
 Good leaders champion EDIA in their teams and workplace.
 They actively learn and build an understanding of how to operationalise EDIA in project goals.
 Ideally, EDIA is embedded in the work culture so it doesn’t become another item on the checklist, or given inadequate resourcing and attention. 
-Leaders play a critical role in ensuring that EDIA efforts in the ways of working of a team as well as the work they do should be intentional.
+Leaders play a critical role in ensuring that EDIA efforts in the ways of working of a team as well as the work they do are intentional and meaningful.
 Open and emergent leaders understand that research and communities are political, with members from various identities, backgrounds and political interests, who are affected by the social discourse.
 Therefore, they learn to hold safe spaces to have discussions and respond to the need for culture change with the members affected or oppressed by the status quo.
 Leaders should build crucial [ally skills](https://www.software.ac.uk/blog/2021-07-05-why-we-discuss-ally-skills-open-science) to use their privileges to step up for others in the teams.
