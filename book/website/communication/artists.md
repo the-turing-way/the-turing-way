@@ -24,7 +24,7 @@ Cooperation with artists might be a challenging process because of the different
 This is also the reason the results can be powerful and reach a wider audience. 
 "Scientists work within very tight constraints: experiments must probe the nature of the world and must be reproducible; hypotheses must account for observations in a logical way; and most importantly, scientists must then devise new ways to test and possibly destroy these hypotheses with further experimentation."
 Fine artists have far fewer constraints. 
-As they create work that speaks to their audiences, they are limited only by imagination and the technicalities and seductions of their chosen media. 
+As they create work that speaks to their audiences, they are limited only by imagination and the technicalities of their chosen media. 
 Consequently, fine artists need to create entire worlds from scratch." [https://www.nature.com/articles/s41594-021-00587-5]
 The most common challenges in such cooperation include:
 **Planning:** Whether you involve artists in your research process or at the end to communicate results, it is always better to start discussions early to be able to arrive at an outcome within the timeframe that fits both yours and artists' planning, and be flexible should things not go the way you plan. 
