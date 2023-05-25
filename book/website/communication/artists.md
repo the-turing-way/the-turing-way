@@ -21,7 +21,7 @@ BioArt Award [https://www.faseb.org/awards/bioart]
 ### Challenges
 Cooperation with artists might be a challenging process because of the different way many scientists and artists see the world. 
 This is also the reason the results can be powerful and reach a wider audience. 
-"Scientists work within very tight constraints: experiments must probe the nature of the world and must be reproducible; hypotheses must account for observations in a logical way; and most importantly, scientists must then devise new ways to test and possibly destroy these hypotheses with further experimentation. 
+"Scientists work within very tight constraints: experiments must probe the nature of the world and must be reproducible; hypotheses must account for observations in a logical way; and most importantly, scientists must then devise new ways to test and possibly destroy these hypotheses with further experimentation."
 Fine artists have far fewer constraints. 
 As they create work that speaks to their audiences, they are limited only by imagination and the technicalities and seductions of their chosen media. 
 Consequently, fine artists need to create entire worlds from scratch." [https://www.nature.com/articles/s41594-021-00587-5]
