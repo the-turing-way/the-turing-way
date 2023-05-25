@@ -78,6 +78,8 @@ parts:
           - title: Licensing
             file: reproducible-research/licensing
             sections:
+              - title: Ethics-informed Licensing
+                file: reproducible-research/licensing/ethics-informed-licensing
               - title: Software Licenses
                 file: reproducible-research/licensing/licensing-software
               - title: Data Licenses
