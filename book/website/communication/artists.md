@@ -12,6 +12,7 @@ The list is endless.
 Sometimes, art becomes a powerful way to communicate messages to people in a way that people can relate to.
 Art is also often more accessible not only in the language that it uses, but in the abscence of a paywall to access art. 
 
+(cm-artists-examples)=
 ## Examples
 Strawpocalypse [https://www.upcyclethat.com/strawpocalypse-largest-straw-installation/]
 BioArt Award [https://www.faseb.org/awards/bioart]
