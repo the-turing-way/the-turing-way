@@ -24,7 +24,7 @@ If you want to start learning hands-on practices, we recommend reading the {ref}
 (rr-overview-resources-commandline)=
 ### Using the command line
 
-While most of what this book is about do not require the use of the command line, it often makes things actually easier. 
+While most of what this book is about does not require the use of the command line, it often actually makes things easier. 
 Even when your visual abilities allows you to use efficiently your mouse, writing commands in the terminal/powershell/command is not that difficult.
 You first need to know that linux and OSX use `bash` code natively, while the command line in PC uses a different language.
 
