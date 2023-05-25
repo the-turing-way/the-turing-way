@@ -36,7 +36,7 @@ No one in a team, group, organization, or event should have to speak too loudly 
 This means that everyone is involved in the decision-making and feedback process, and kept updated on the status of the group's work. 
 It also means avoiding unpleasant surprises, and uncertainties or ensuring expectations for everyone through participation guidelines and Code of Conduct.
 Human relationships are complicated, and leaders must make consensus-led decisions, however, sometimes those decisions may not align with the scope and goals of the project. 
-This is where, providing a clear governance process can help leaders in avoiding arbitrary decision-making, bring alignments and enable transparent governance.
+This is where providing a clear governance process can help leaders in avoiding arbitrary decision-making, bring alignments and enable transparent governance.
 - **Knowledge and skill building**: Leaders have deep knowledge of their projects, and teams and continue to build skills for themselves and others as needed.
 They bring systems-level thinking and familiarity with the whole organisation where they lead, and the system within which they work with. 
 Leaders’ goals also include identifying opportunities for and directly building complementary skills for the entire team, encouraging problem-solving as a team, developing a workflow that enhances the efficiency of the team (for example reusable and reproducible processes) and sharing knowledge with each other.
