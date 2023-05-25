@@ -54,7 +54,7 @@ They support people to [navigate and manage changes](https://www.linkedin.com/pu
 When a leader is in charge of too many aspects of a project they will become a bottleneck and blocker to the emergence of other open leaders as well as the overall progress of the project.
 Delegation goes hand in hand with building a trustworthy environment, this means that they communicate clearly the overarching goals, create smaller milestones, and delegate tasks meaningfully so different people can lead different parts of the work, nurturing healthy leadership habits within their teams.
 - **Understanding of power dynamics**: Power dynamics are relationships between people in an organisation with varying levels of privileges. 
-Power dynamics are often created by leaders.
+Leaders hold power because of their position in the project (formally or socially) and hence have significant influence over how those power dynamics are experienced or manipulated in their teams and communities.
 Leaders with formal authority come with institutional power and open leaders often come with informal connections that can translate into social capital or power (even when they don’t have formal authority in the organisation).
 Therefore, leaders should understand how their positions affect the dynamics when working with others in their team, even when not overtly exerting their power.
 Understanding power dynamics helps leaders identify and resolve conflict, build consensus, and create a more effective team culture.
