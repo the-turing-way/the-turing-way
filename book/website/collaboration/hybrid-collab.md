@@ -7,7 +7,6 @@ The COVID-19 pandemic brought in a paradigm shift in how individuals have been w
 
 ```{figure} ../figures/hybrid-collab.*
 ---
-height: 400px
 name: hybrid-collab
 alt: People are shown collaborating in a hybrid setting with facilitators, for both, those joining in-person and those joining remotely (from different time zones). All of them are collaborating and co-developing a shared document.
 ---
