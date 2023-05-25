@@ -12,7 +12,7 @@ We have intentionally avoided giving reading recommendations as those continue t
 
 ## Some Important Skills that Leaders Should Build
 
-- **Leading by example**: Leaders take initiatives. They demonstrate and show what something in practice looks like. 
+- **Leading by example**: Leaders take initiative. They demonstrate what something looks like in practice. 
 Their examples combined with clear directions for what needs to be done create opportunities for others to follow. 
 They support their team members to take on specific roles while working alongside each other. 
 They support them to identify new ideas and opportunities while working towards a shared goal, rather than telling them constantly what to do.
