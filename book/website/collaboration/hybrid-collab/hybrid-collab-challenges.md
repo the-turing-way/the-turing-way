@@ -4,7 +4,7 @@
 ### Social networking in hybrid settings
 
 In a hybrid work setting, the task of building and maintaining a local network becomes more challenging due to limited natural social interactions and a systematic imbalance between in-person and online groups. 
-It can also be a challenge for the in-person participants to simultaneously manage interactions with people online and people in the same in-person setting as the.
+It can also be a challenge for the in-person participants to simultaneously manage interactions with people online and people in the same in-person setting as them.
 
 ### Communication tools used for hybrid environments
 The variety of communication tools used in remote and hybrid work presents challenges for inclusiveness and involves asynchronous communication. 
