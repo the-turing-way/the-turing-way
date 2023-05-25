@@ -101,6 +101,7 @@ Based on the nature of their roles in those projects, the nature of their relati
 It is the core responsibility of individuals to identify and declare their conflicts of interest proactively.
 They should make it clear in what capacity or in what role (from the multiple 'hats' they wear) they are operating.
 They should separate the conversations to avoid confusion for people they work with and if needed, they should step away from a situation, transferring the leadership responsibilities to others.
+It is also important to remember that you may have different levels of power depending on which “hat” you’re wearing - for example, as a friend, you might be entitled to ask someone things about on a personal level that would be inappropriate to ask if you are acting as their manager.
 In [this video](https://www.youtube.com/watch?v=HQjRnWVmL28), Carol Willing explains how it is critical to abstain from decisions as a leader when you have a conflict of interest.
 
 ## Learn from mistakes 
