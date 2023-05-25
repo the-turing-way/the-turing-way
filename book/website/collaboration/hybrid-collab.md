@@ -5,7 +5,7 @@ Hybrid collaboration is a way of working where individuals collaborate from a pl
 
 The COVID-19 pandemic brought in a paradigm shift in how individuals have been working. Recently, hybrid collaboration models are gaining popularity. This chapter will discuss some resources and tips of how to manage your work more effectively if you are collaborating in a hybrid setup.
 
-```{figure} ../figures/hybrid-collab.*
+```{figure} ../figures/hybrid-collab.png
 ---
 name: hybrid-collab
 alt: People are shown collaborating in a hybrid setting with facilitators, for both, those joining in-person and those joining remotely (from different time zones). All of them are collaborating and co-developing a shared document.
