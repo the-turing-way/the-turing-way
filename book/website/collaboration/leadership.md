@@ -8,7 +8,7 @@ These people take initiative, guide others, ensure that diverse perspectives are
 
 This is called leadership and these people are leaders.
 Specifically, in the context of open source/science and community projects, we call this phenomenon 'Open Leadership'.
-This is also applicable to data science, research communities and collaborations more broadly.
+This is also applicable to data science, research communities, and collaborations more broadly.
 
 In formal terms, leadership is defined as **specific skills** "encompassing the ability of **an individual or organisation to lead** or guide other individuals, teams, or entire organisations." (source: [Wikipedia](https://en.wikipedia.org/wiki/Leadership)).
 Open leaders might not necessarily be the same people who have formal authority or the title of institutional leaders.
