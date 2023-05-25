@@ -4,7 +4,7 @@
 ## Overview
 
 Every team, every project and every collaboration has people who participate in a way that inspires others in the team to join efforts and accomplish shared goals together.
-These people take initiative, guide others, ensure that diverse perspectives are involved and that everyone has the right opportunity to build on each others skills and expertise.
+These people take initiative, guide others, ensure that diverse perspectives are involved, and that everyone has the right opportunity to build on each others skills and expertise.
 
 This is called leadership and these people are leaders.
 Specifically, in the context of open source/science and community projects, we call this phenomenon 'Open Leadership'.
