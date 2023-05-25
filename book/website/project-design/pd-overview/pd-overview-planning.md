@@ -62,7 +62,7 @@ We can begin the project design process by identifying different parts of our re
 * Identify the target audience for your research.
 * Plan for effective communication and engagement with the community.
 * Consider open and inclusive practices to involve stakeholders in decision-making.
-* Useful documentation: [Code of Conduct](ch-coc), [Contributing Guidelines](cl), [READMEs](https://the-turing-way.netlify.app/collaboration/github-novice/github-novice-firststeps.html?highlight=readmes), communication plan, stakeholder mapping, governance documentation.
+* Useful documentation: [Code of Conduct](ch-coc), [Contributing Guidelines](cl), [READMEs](https://the-turing-way.netlify.app/collaboration/github-novice/github-novice-firststeps.html?highlight=readmes), communication plan, stakeholder mapping, [governance documentation](er-ethics-open-source-governance).
 
 ### Maintenance & Archiving 
 * Develop a plan for the long-term maintenance and sustainability of your project.
