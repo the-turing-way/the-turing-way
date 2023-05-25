@@ -17,6 +17,7 @@ Strawpocalypse [https://www.upcyclethat.com/strawpocalypse-largest-straw-install
 BioArt Award [https://www.faseb.org/awards/bioart]
 
 
+(cm-artists-challenges)=
 ### Challenges
 Cooperation with artists might be a challenging process because of the different way many scientists and artists see the world. 
 This is also the reason the results can be powerful and reach a wider audience. 
