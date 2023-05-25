@@ -10,7 +10,7 @@
 # ===== Main Landing Page ========================================
 
 format: jb-book
-root: welcome
+root: index
 parts:
   - chapters:
       # ===== Guide for Reproducible Research ========================================
@@ -524,8 +524,16 @@ parts:
           - title: Leadership in Data Science
             file: collaboration/leadership
             sections:
-              - title: Personal Stories of Leadership
-                file: collaboration/leadership/leadership-stories
+              - title: Important Features of Leadership
+                file: collaboration/leadership/leadership-features
+              - title: Building Healthy Leadership Skills
+                file: collaboration/leadership/leadership-building
+              - title: Creating Leadership Opportunities
+                file: collaboration/leadership/leadership-opportunities
+              - title: Personal Story from Running a Hackathon
+                file: collaboration/leadership/leadership-story-hackathon
+              - title: Personal Story of Leadership by a Data Librarian
+                file: collaboration/leadership/leadership-story-data-librarian
           - title: Research Infrastructure Roles
             file: collaboration/research-infrastructure-roles
             sections:
