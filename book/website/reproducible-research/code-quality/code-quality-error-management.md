@@ -145,7 +145,7 @@ These qualities make a good error message:
 ---
 width: 500px
 name: error-management
-alt: Cartoon showing three stages of error management: left, a person working on a computer that is smoking, but the program looks to be running just fine and the person is unaware. Middle: a person with a computer that is smoking, and the program shows an error message. The person does not understand the error message and looks confused. Right: a person with a computer that is smoking, and presenting an error message that allows the person to fix the problem. The person looks happy.
+alt: Cartoon showing three stages of error management, left, a person working on a computer that is smoking, but the program looks to be running just fine and the person is unaware. Middle, a person with a computer that is smoking, and the program shows an error message. The person does not understand the error message and looks confused. Right, a person with a computer that is smoking, and presenting an error message that allows the person to fix the problem. The person looks happy.
 ---
 Three stages of error management: silent failure (left) leaves a user blissfully unaware of problems; unintelligible errors (middle) show there is a problem, but leave a user confused; informative errors (right) show a user there is a problem, and allow them to solve it.
 ```
