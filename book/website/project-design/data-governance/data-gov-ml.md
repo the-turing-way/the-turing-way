@@ -28,7 +28,7 @@ Datasheets are resources accompanying datasets that can provide key information 
 the data collection process, the dataset composition and pre-processing, and legal and ethical considerations when using the data.
 Datasheets help contextualise the resource and are an opportunity for dataset creators to share any concerns, suggestions,
 and other advice regarding responsible use of the dataset.
-The [Datasheets for Datasets paper]((https://www.microsoft.com/en-us/research/uploads/prod/2019/01/1803.09010.pdf)) contains a list of example questions that data creators should ask themselves and document in their datasheet.
+The [Datasheets for Datasets paper](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/1803.09010.pdf) contains a list of example questions that data creators should ask themselves and document in their datasheet.
 
 (pd-dg-ml-dm)=
 ## Data Management
