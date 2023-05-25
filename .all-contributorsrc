@@ -4265,6 +4265,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "hughesthe1st",
+      "name": "Sean Hughes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6203251?v=4",
+      "profile": "https://github.com/hughesthe1st",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
