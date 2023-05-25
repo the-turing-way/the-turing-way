@@ -67,7 +67,7 @@ There is no such thing as a fixed set of leadership skills and not all great lea
 
 In the context of data science, where we strive to advance our knowledge through validated scientific methods based on data, talking about leadership, essentially a nuanced and fuzzy concept, is challenging to define.
 In data science and research, discussions and upskilling in leadership are extremely important as:
-* researchers and data scientists constantly navigate fast-changing demands of 'innovative' approaches in technological development
+* Researchers and data scientists constantly navigate fast-changing demands of 'innovative' approaches in technological development.
 * they manage and coordinate collaborations with their peers as well as external stakeholders across multiple disciplines. 
 * leadership is one of the toughest non-technical skills to learn without guidance,
 * rarely discussed openly in research environments, despite being everywhere, and
