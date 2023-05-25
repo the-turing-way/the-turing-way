@@ -27,7 +27,7 @@ Leaders should build crucial [ally skills](https://www.software.ac.uk/blog/2021-
 - **Ensuring Diversity**: Diverse teams are high-performing teams.
 Data science and research projects are no exception to supporting diverse teams.
 Diverse teams are indispensable and inherently essential for ensuring benefits for people impacted by the processes and outcomes.
-Empathic and effective leaders understand the importance of diversity, build diverse teams and centre on the interests of marginalized interests.
+Empathic and effective leaders understand the importance of diversity, build diverse teams and centre the interests of marginalized interests in their projects and work.
 Good leaders respect and celebrate cultural differences and welcome everyone by providing inclusive approaches and policies. 
 Being welcoming and inclusive is challenging because it varies a lot by culture and personality. 
 Being kind, examining assumptions, and keeping an open mind to learn from the variability that enriches teams are essential to be a good leader. 
