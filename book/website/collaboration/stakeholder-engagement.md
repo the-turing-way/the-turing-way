@@ -128,7 +128,8 @@ SIAs are used to identify and document the full range of potential impacts and p
 This activity can help teams steer the direction of their projects preemptively to ensure that they support the wellbeing and sustainability of the individuals and communities they impact and mitigate any harms. 
 
 Evaluations of project impacts should ideally be done in collaboration with stakeholders. 
-In the context of SIAs, stakeholders can be both individuals and communities that are impacted or may impact projects.
+In the context of SIAs, stakeholders are defined as individuals and communities that are impacted or may impact projects. 
+Stakeholders that are most vulnerable to potential project harms are considered the most salient. 
 Engaging stakeholders in conducting SIAs helps secure the accuracy and integrity of SIA outcomes. 
 This is because gaps in identity and experience between project teams and impacted individuals may cause there to be differences between how team members view project impacts and how stakeholders experience them. 
 Facilitating proportionate stakeholder engagement and input throughout the AI lifecycle is a way to gain a richer understanding of the impacts that projects may have on stakeholders. 
