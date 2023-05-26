@@ -148,4 +148,4 @@ These qualities make a good error message:
 
 ## Read more
 
-This chapter is complementary to the chapter on {ref}`testing<rr-testing>`.
+This chapter is complementary to {ref}`rr-testing`.
