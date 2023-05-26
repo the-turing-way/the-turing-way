@@ -27,11 +27,12 @@ It is a tool to capture a team's understanding of the stakeholder landscape, cla
 Whilst this resource may not provide specific solutions to successful stakeholder engagement, a well thought-out, detailed stakeholder map will help facilitate bringing a team onto the same page, which can help with developing engagement pipelines.
 Teams should be encouraged to define their own metrics for mapping stakeholders on a matrix for prioritisation. 
 These metrics should be carefully chosen to represent the key stakeholder considerations and project team goals. For example, as part of the mapping, the team may try to:
-    * Establish a community of practice for project governance.
-    * Prioritise communication methods and cadence for different stakeholder groups.
-    * Identify which groups may be negatively impacted by a research output.
-    * Identify which stakeholders are most prepared or willing to adopt a particular research output.
-  Choosing the right metrics will help identify the most important stakeholders to engage.
+* Establish a community of practice for project governance.
+* Prioritise communication methods and cadence for different stakeholder groups.
+* Identify which groups may be negatively impacted by a research output.
+* Identify which stakeholders are most prepared or willing to adopt a particular research output.
+
+Choosing the right metrics will help identify the most important stakeholders to engage.
 
 (cl-stakeholder-req-gathering)=
 ## Requirements gathering & alignment
