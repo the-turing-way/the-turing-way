@@ -8,7 +8,17 @@ A Data Management Plan is a roadmap for you to manage your data efficiently and 
 This can prevent data loss or breaches. 
 Planning ahead on how to manage your data consistently can save you time later on! It can also make it easier to {ref}`share<rr-rdm-sharing>` your data with others and therefore make the data more {ref}`FAIR<rr-rdm-fair>`
 
-## A Data Management Plan should provide information on five main topics:
+```{figure} ../../figures/data-management-plan.*
+---
+name: data-management-plan
+alt: There are two women in the illustration. The left one is looking distressed and says 'Oh no, my computer crashed! I lost all the data!' The right woman is holding a map which says DMP (Data Management Plan) and is looking happy. She is saying 'Good thing I had a plan! The data is all backed up! 
+
+---
+Data Management Plan. _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+```
+
+
+## A Data Management Plan should provide information on six main topics:
 
 ### 1. Roles and Responsibilities
 * It is important to discuss who is responsible for different tasks during the life-cycle of a research project. 
@@ -32,11 +42,6 @@ Some data repositories, such as [Zenodo](https://zenodo.org/), allow versioning 
 
 ### 3. Type of data storage used and back up procedures that are in place
 * Check the {ref}`data storage and organisation section<rr-rdm-storage>` for storage and back-up solutions and ways to organise your files 
-* Check if there are any **costs** associated with your project
-    * Preferred storage solution (during and after the project, see below)
-    * Personnel costs (if you need a data manager to manage more sensitive or large quantities of data)
-    * Software licenses (such as Electronic Lab Notebooks, see the {ref}`Open notebooks section<rr-open-notebooks>`
-    * You can use this [checklist for costs](https://www.ukdataservice.ac.uk/media/622368/costingtool.pdf) as a guidance
 * Keeping track of who made specific changes in your data/code will be important, particularly for code.
 See the {ref}`Version Control chapter<rr-vcs>` for more information.
 * Determine who has access to the data and who grants access. 
@@ -64,7 +69,26 @@ If you do not select a license others will not be able to reuse your data withou
 * You can put your research outputs into context using and introduction text, such as a README.txt file
     * See the {ref}`documentation and metadata section<rr-rdm-metadata>`
 
+### 6. Costs
+* Check if there are any costs associated with your project
+    * Preferred storage solution (during and after the project, see #3-4)
+    * Personnel costs (if you need a data manager to manage more sensitive or large quantities of data)
+    * Software licenses (such as Electronic Lab Notebooks, see the {ref}`Open notebooks section<rr-open-notebooks>`
+    * You can use this [checklist for costs](https://www.ukdataservice.ac.uk/media/622368/costingtool.pdf) as a guidance
+
 You can use this [checklist](https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/checklist/) to see if you have everything covered in your Data Management Plan. 
+
+(rr-rdm-dmp-tools)=
+
+## DMP tools 
+There are several platforms or tools that you can use to set up your Data Management Plan: 
+
+* [ARGOS](https://argos.openaire.eu/home)
+* [DMPonline](https://dmponline.dcc.ac.uk)
+* [DMPtool](https://dmptool.org)
+
+
+See [activeDMPs](https://activedmps.org/) for a full overview.
 
 ## Additional Resources
 
@@ -78,3 +102,7 @@ Publishing, 2015.
 - Hart EM, Barmby P, LeBauer D, Michonneau F, Mount S, Mulrooney P, et al. (2016) Ten Simple Rules for Digital Data Storage. PLoS Comput Biol 12(10): e1005097. [https://doi.org/10.1371/journal.pcbi.1005097](https://doi.org/10.1371/journal.pcbi.1005097)
 - Video on [elements of a DMP](https://commons.esipfed.org/node/1442).
 - Definition of [Long Term Preservation](https://www.gesis.org/en/research/research-data-management/long-time-preservation) from the Leibniz Institute of Social Science.
+- [Video (20 min) on DMPs by DTU Bibliotek](https://www.youtube.com/watch?v=tvs5_X5rn8w)
+- Planning by [DataOne](https://dataoneorg.github.io/Education/bp_step/plan/) & [USGS](https://www.usgs.gov/data-management/planning)
+- [Areas of a Data Management Plan](https://www.youtube.com/watch?v=L3LPv2sB-IE) (7 minute video by Moore Library)
+

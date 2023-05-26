@@ -1,9 +1,9 @@
 (rr-open-scholarship)=
 # Open Scholarship
 
-Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship [{term}`def<Open Scholarship>`].
+Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship.
 
-```{figure} ../../figures/open-umbrella.png
+```{figure} ../../figures/open-umbrella.*
 ---
 height: 500px
 name: open-umbrella

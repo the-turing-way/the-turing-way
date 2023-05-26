@@ -6,7 +6,7 @@
 ## _The Turing Way_ online Collaboration Cafe | DATE MONTH YEAR
 
 Thank you for joining the _Turing Way_'s online Collaboration Cafe!
-We're delighted to have you here :coffee: :sparkles: :cake:
+We're delighted to have you here ☕️✨🎂
 
 (*We do recommend bringing your actual tea, coffee, water or your favorite beverage to this cafe! :smile:*)
 

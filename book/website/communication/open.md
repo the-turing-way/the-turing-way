@@ -2,7 +2,7 @@
 # Open Scholarship
 
 
-```{figure} ../figures/evolution-open-research.jpg
+```{figure} ../figures/evolution-open-research.*
 ---
 name: evolution-open-research-cm
 alt: This image shows a researcher evolving their research practices to move towards the era of open research. The image starts with the person looking anxious about engaging with open science, slowly they take a few steps, feel comfortable about sharing their work, and finally start to collaborate with others.
@@ -20,7 +20,7 @@ Related information to Open Scholarship can be found in the {ref}`rr-open` chapt
 (cm-open-summary)=
 ## Summary
 
-Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship [{term}def<Open Scholarship>]. 
+Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship [{term}`def<Open Scholarship>`]. 
 Open scholarship aims to transform research by making it more reproducible, transparent, reusable, collaborative, accountable, and accessible to society.
 This chapter aims to give a brief overview of the multiple aspects of open scholarship.
  

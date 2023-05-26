@@ -9,7 +9,7 @@ Community interactions should maintain the transparency and openness of the proj
 
 This chapter gives an overview of the most common ways to track, support and maintain community interactions such as by raising issues, reporting bugs and attracting contributions that lead to improvements in the project.
 
-```{figure} ../figures/research-tools.jpg
+```{figure} ../figures/research-tools.*
 ---
 name: research-tools
 width: 500px

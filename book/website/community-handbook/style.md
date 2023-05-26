@@ -47,7 +47,7 @@ See the [Gov.uk recommendations](https://www.gov.uk/guidance/style-guide/a-to-z-
 
 Some of these abbreviations are:
 
-```{figure} ../figures/latin-abbreviation.png
+```{figure} ../figures/latin-abbreviation.*
 ---
 height: 400px
 name: latin-abbreviation
@@ -93,7 +93,7 @@ Instead, the following is recommended:
 
 ### External links
 
-Write external links using "http://" instead of "www". This ensures they are correctly recognised as hyperlinks.
+Write external links using "https://" instead of "www". This ensures they are correctly recognised as hyperlinks.
 
 ### Chunks with code or special text
 

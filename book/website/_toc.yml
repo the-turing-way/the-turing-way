@@ -8,9 +8,8 @@
 # - header: My Header  # Will insert a header with no link in the sidebar
 
 # ===== Main Landing Page ========================================
-
 format: jb-book
-root: welcome
+root: index
 parts:
   - chapters:
       # ===== Guide for Reproducible Research ========================================
@@ -108,6 +107,8 @@ parts:
                 file: reproducible-research/rdm/rdm-spreadsheets
               - title: Documentation and Metadata
                 file: reproducible-research/rdm/rdm-metadata
+              - title: Data Curation
+                file: reproducible-research/rdm/rdm-data-curation
               - title: Sharing and Archiving Data
                 file: reproducible-research/rdm/rdm-sharing
               - title: Data Article
@@ -325,7 +326,7 @@ parts:
               - title: Working with Trusted Research Environments
                 file: project-design/sdpw/trew
               - title: Privacy Preserving Machine Learning
-                file: project-design/sdpw/pd-sdp-private-learning.md
+                file: project-design/sdpw/pd-sdp-private-learning
               - title: Keeping Sensitive Files Secure
                 file: project-design/sdpw/pd-sdp-sensitive-files
               - title: Sharing Your Jupyter Notebook
@@ -384,6 +385,13 @@ parts:
                 file: communication/social-media/social-media-twitter-tips
               - title: Managing multiple twitter accounts
                 file: communication/social-media/social-media-twitter-multiple
+          - title: Research Objects in Action
+            file: communication/research-objects
+            sections:
+              - title: Concepts
+                file: communication/research-objects/ro-concepts
+              - title: Implementation
+                file: communication/research-objects/ro-implementation
           - title: Making Research Objects Citable
             file: communication/citable
             sections:
@@ -445,8 +453,12 @@ parts:
             sections:
               - title: Peer Review
                 file: communication/peer-review/peer-review-overview
+              - title: Open Peer Review
+                file: communication/peer-review/peer-review-open
               - title: Guidance on Peer Review for a Journal
                 file: communication/peer-review/peer-review-guidance
+              - title: Guidance on Code Review
+                file: communication/peer-review/peer-review-code
               - title: Resources
                 file: communication/peer-review/peer-review-resources
           - title: Binder
@@ -483,6 +495,20 @@ parts:
                 file: collaboration/maintain-review/maintain-review-merge
               - title: Resources
                 file: collaboration/maintain-review/maintain-review-resources
+          - title: Organising Meetings
+            file: collaboration/organising-meetings
+          - title: Organising Online Coworking Calls
+            file: collaboration/coworking
+          - title: Organising Conferences
+            file: collaboration/organising-conference
+          - title: Chairing Events
+            file: collaboration/chairing
+          - title: Participating in Events
+            file: collaboration/event-participation
+          - title: Informal Coffee Chats
+            file: collaboration/informal-chats
+          - title: Tools for Facilitating Collaboration
+            file: collaboration/event-tools
           - title: Managing a New Community and Team
             file: collaboration/new-community
             sections:
@@ -494,6 +520,17 @@ parts:
                 file: collaboration/new-community/new-community-differences
               - title: Teamwork
                 file: collaboration/new-community/new-community-teamwork
+          - title: Academic-Industry Collaborations
+            file: collaboration/academic-industry
+            sections:
+              - title: Establishing an Academic-Industry Collaboration
+                file: collaboration/academic-industry/academic-industry-establish
+              - title: Community Building in an Academic-Industry Collaboration
+                file: collaboration/academic-industry/academic-industry-community
+              - title: Turing-Roche Community Activities Personal Story
+                file: collaboration/academic-industry/academic-industry-personal-story
+          - title: Team Manual
+            file: collaboration/team-manual
           - title: Leadership in Data Science
             file: collaboration/leadership
             sections:
@@ -508,6 +545,8 @@ parts:
                 file: collaboration/research-infrastructure-roles/data-steward
               - title: Data Steward Personal Story
                 file: collaboration/research-infrastructure-roles/data-steward-personal-story
+              - title: Data Wrangler Overview
+                file: collaboration/research-infrastructure-roles/data-wrangler
               - title: Research Software Engineers Overview
                 file: collaboration/research-infrastructure-roles/rse
               - title: Research Software Engineering Personal Story
@@ -519,35 +558,14 @@ parts:
           - title: Remote Collaboration
             file: collaboration/remote-collab
             sections:
-              - title: Organising Remote Meetings
-                file: collaboration/remote-collab/remote-collab-meetings
+              - title: Pros and Cons
+                file: collaboration/remote-collab/remote-collab-prosandcons
               - title: Guidelines for Remote Collaboration
                 file: collaboration/remote-collab/remote-collab-guidelines
-              - title: Tools for Remote Collaboration
-                file: collaboration/remote-collab/remote-collab-tools
-              - title: Organising Online Coworking Calls
-                file: collaboration/remote-collab/remote-collab-coworking
-              - title: Organising Remote Conferences
-                file: collaboration/remote-collab/remote-collab-conferences
-              - title: Chairing Remote Events
-                file: collaboration/remote-collab/remote-collab-chairs
-              - title: Participating in Remote Events
-                file: collaboration/remote-collab/remote-collab-participation
               - title: Managing Distributed Teams
-                file: collaboration/remote-collab/remote-collab-management
-              - title: Informal Coffee Chats
-                file: collaboration/remote-collab/remote-collab-informal
-              - title: Perceived Pros and Cons
-                file: collaboration/remote-collab/remote-collab-prosandcons
-          - title: Hybrid Collaboration
-            file: collaboration/hybrid-collab
-            sections:
-              - title: Challenges faced during Hybrid Collaboration
-                file: collaboration/hybrid-collab/hybrid-collab-challenges
-              - title: Guidelines for Hybrid Collaboration
-                file: collaboration/hybrid-collab/hybrid-collab-guidelines
-              - title: Resources
-                file: collaboration/hybrid-collab/hybrid-collab-resources
+                file: collaboration/remote-collab/remote-collab-team
+              - title: Useful Resources
+                file: collaboration/remote-collab/remote-collab-useful-resources
           - title: Shared Ownership in Open Source Projects
             file: collaboration/shared-ownership
             sections:
@@ -559,6 +577,8 @@ parts:
                 file: collaboration/shared-ownership/shared-ownership-challenges
               - title: Nudging for a Better Default
                 file: collaboration/shared-ownership/shared-ownership-defaults
+          - title: Sustainability of Open Source Projects
+            file: collaboration/oss-sustainability/oss-sustainability-challenges
 
       # ===== Guide for Ethical Research ========================================
 
@@ -579,6 +599,8 @@ parts:
                 file: ethical-research/law-policy/law-policy-rights
               - title: Further Recommendations
                 file: ethical-research/law-policy/law-policy-resources
+          - title: Research Ethics for Social Data
+            file: ethical-research/social-data
           - title: Activism for Researchers
             file: ethical-research/activism
             sections:
@@ -586,6 +608,8 @@ parts:
                 file: ethical-research/activism/activism-unionisation
               - title: Whistleblowing
                 file: ethical-research/activism/activism-whistleblowing
+              - title: Cultural change
+                file: ethical-research/activism/activism-cultural-change
               - title: Case study - Robodebt
                 file: ethical-research/activism/activism-robodebt
               - title: Case study - Google Workers
@@ -643,6 +667,8 @@ parts:
                 file: community-handbook/consistency/consistency-structure
               - title: Language
                 file: community-handbook/consistency/consistency-language
+          - title: Build the Turing Way Book locally
+            file: community-handbook/local-build
           - title: Contributing and Developing Chapters - Templates and Workflow
             file: community-handbook/contributing
             sections:
@@ -696,6 +722,11 @@ parts:
                 file: community-handbook/coworking/coworking-organisation
           - title: Fireside Chat Series
             file: community-handbook/fireside-chat
+            sections:
+              - title: Fireside Chat Planning Checklist
+                file: community-handbook/fireside-chat/fireside-chat-checklist
+              - title: Fireside Chat Roles and Responsibilities
+                file: community-handbook/fireside-chat/fireside-chat-roles
           - title: Giving a Turing Way Talk
             file: community-handbook/presenting
           - title: Template Collection
@@ -719,6 +750,17 @@ parts:
                 file: community-handbook/templates/template-newsletter-draft
               - title: Template for Fireside Chat Shared Notes
                 file: community-handbook/templates/template-fireside-chat
+          - title: Translation and Localisation
+            file: community-handbook/translation
+            sections:
+              - title: Localisation
+                file: community-handbook/translation/translation-localisation
+              - title: Workflow
+                file: community-handbook/translation/translation-workflow
+              - title: Getting started
+                file: community-handbook/translation/translation-getting-started
+              - title: Hello Crowdin
+                file: community-handbook/translation/translation-hello-crowdin
 
       # ===== Afterword ========================================
 

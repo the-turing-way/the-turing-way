@@ -44,7 +44,7 @@ This feature is a great way to help others contribute to your repo or let them k
 ## Using GitHub Features to foster collaboration
 This is what a repository looks like when it is set up to include many of these features, making it a welcoming, collaborative workspace.
 
-```{figure} ../../figures/github-project.jpg
+```{figure} ../../figures/github-project.*
 ---
 name: github-project
 alt: Annotated diagram of a collaborative project repository. Explained in the caption.
@@ -55,7 +55,7 @@ Annotated diagram of a collaborative project repository.
   - **1. Project:** This shows you the project boards for this repo.
   - **2. Issues:** All the tasks that have been raised on this repo.
   - **3. Files:** These are all the files in the repo.
-  - **4. Landing page or README.md file:** Your README.md file is automatically rendered as a landing page for your site.
+  - **4. Landing page or `README.md` file:** Your `README.md` file is automatically rendered as a landing page for your site.
 - Labels on the right-hand side of the image:
   - **5. Insights:** This shows you all the activity that has happened on your repo. 
   - **6. Edit repo details:** You can write a short description of your project and add labels.

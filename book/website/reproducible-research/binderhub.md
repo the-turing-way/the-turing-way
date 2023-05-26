@@ -14,7 +14,7 @@ We will cover the technologies and tools that BinderHub utilises and the resourc
 This chapter is primarily aimed at Research Software Engineers and IT Services who wish to provide a BinderHub as a service to a group of researchers.
 Though anyone can build a BinderHub.
 
-```{figure} ../figures/binderhub.jpg
+```{figure} ../figures/binderhub.*
 ---
 name: binderhub
 alt: A representation of the BinderHub architecture that involves GitHub, repo2docker, docker, jupyterhub and shipping to clients in company.

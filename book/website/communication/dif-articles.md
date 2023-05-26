@@ -2,7 +2,7 @@
 # Publishing Different Article Types
 
 
-```{figure} ../figures/publishing-diff-articles.jpg
+```{figure} ../figures/publishing-diff-articles.*
 ---
 height: 500px
 name: publishing different articles types

@@ -9,11 +9,11 @@ There are several definitions of reproducibility in use, and we discuss these in
 While it is absolutely fine for us each to use different words, it will be useful for you to know how _The Turing Way_ defines *reproducibility* to avoid misunderstandings when reading the rest of the handbook.
 
 
-```{figure} ../figures/reproducibility.jpg
+```{figure} ../figures/reproducibility.*
 ---
 height: 500px
 name: reproducible
-alt: A person showing another person what steps to take to make your data research reproducible.
+alt: A person showing another person what steps to take to make their data research reproducible. There is a path with several steps- Here are my data - Here are my tools - Here is my code - Here are my results
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```

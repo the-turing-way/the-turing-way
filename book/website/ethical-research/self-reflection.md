@@ -19,7 +19,7 @@ When it comes to ethical dilemmas, our lived experiences also shape our *persona
 When we understand ourselves better, we can ask questions about why we do things in a certain way and challenge ourselves to consider new perspectives or to act differently. 
 This can help to make sure the research we are conducting is responsible, inclusive, fair and ultimately ethical!
 
-```{figure} ../figures/ethics-self-reflection.jpg
+```{figure} ../figures/ethics-self-reflection.*
 ---
 name: self reflection
 alt: A woman stands in a glasses shop next to the shop assistant who is holding a range of glasses for her to try. She is trying to read a sign to test her sight that has the words 'Gender', 'Race', 'Age', 'Class', 'Education' and 'Sexuality' on it. The sign on the door of the shop says 'Self Reflection - come in and see for yourself'. 

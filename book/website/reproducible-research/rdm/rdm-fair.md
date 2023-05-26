@@ -13,7 +13,7 @@ variety](https://www.zdnet.com/article/volume-velocity-and-variety-understanding
 
 This chapter provides an abstract and broad view of what the FAIR principles are. How to put the FAIR principles into practise is discussed in other sub chapters ( {ref}`Data Organisation in Spreadsheets<rr-rdm-fair>`, {ref}`Documentation and Metadata<rr-rdm-metadata>` and {ref}`Sharing and Archiving Data<rr-rdm-sharing>`). You can also use the [Wellcome Getting Started Guide](https://f1000researchdata.s3.amazonaws.com/resources/FAIR_Open_GettingStarted.pdf) or the [How To FAIR](https://howtofair.dk/) website to find out more about the FAIR principles and how to get started.
 
-```{figure} ../../figures/fair-principles.jpg
+```{figure} ../../figures/fair-principles.*
 ---
 name: fair-principles
 alt: Illustration of the FAIR principles to show the definition of being Findable, Accessible, Interoperable and Reusable.
@@ -50,10 +50,18 @@ The FAIR principles are also applied to software (see [[LGK+20](https://the-turi
 (rr-rdm-fair-community)=
 ## Community involvement
 
-Although started by a community operating in the life science, the FAIR principles have rapidly been adopted by publishers, funders, and pan-disciplinary infrastructure programmes and societies.
-Many groups and organisation are working to define guidance and tools to help researchers and other stakeholders (like librarians, funders, publishers, and trainers) make data more FAIR.
-If you are interested in participating in these communities there are two global initiatives that act as umbrella organizations and reference points for many discipline-specific efforts: [GOFAIR](https://www.go-fair.org) and the [Research Data Alliance (RDA)](https://www.rd-alliance.org).
+Various online resources are provided for people who are working in the life sciences, to guide them in ensuring FAIRness in their data, providing them with tools and advice for good data management at various stages of their work. Two prominent ones include: 
+* Under the [FAIR Cookbook](https://faircookbook.elixir-europe.org/content/home.html), several resources are offering guidance and assistance in FAIR data management.
+ The FAIR Cookbook is designed to serve a variety of audience types and involved in different stages of data management life cycle.
+The FAIR Cookbook is developed and maintained by life sciences professionals, both in the academia and industry sectors, including members of the ELIXIR community. 
+* Under [ELIXIR Research Data Management Kit (RDMkit)](https://rdmkit.elixir-europe.org/), resources are provided for life scientists to guide them in better management of their research data in adhering to the FAIR Principles. 
+It is an attempt to help researchers work at different capacities, both in individual and collaborative workspaces.
+The RDMkit is open for suggestions from anyone, as long as they abide by the [contributor responsibilities](https://rdmkit.elixir-europe.org/how_to_contribute).
+
+
+
+Many groups and organisations are working to define guidance and tools to help researchers and other stakeholders (like librarians, funders, publishers, and trainers) make data more FAIR.
+There are two global initiatives that act as umbrella organisations and reference points for many discipline-specific efforts, including the ones listed above: [GOFAIR](https://www.go-fair.org) and the [Research Data Alliance (RDA)](https://www.rd-alliance.org).
 * Under GOFAIR, there are many [Implementation Networks (INs)](https://www.go-fair.org/implementation-networks) committed to implementing the FAIR principles.
-* Under the RDA, there are several groups tackling different aspects relevant to the RDM life cycle. Among these, one [group](https://www.rd-alliance.org/groups/fair-data-maturity-model-wg) is reviewing existing efforts, building on them to define a standard set of common assessment criteria for the evaluation of FAIRness.
-* Under the [FAIR Cookbook](https://faircookbook.elixir-europe.org/content/home.html), several resources are provided by a thriving community of professionals and academics working in Life Sciences, in offering guidance and assistance in FAIR data management for anyone working in the field. It is designed to serve a variety of audience types and involved in different stages of data management life cycle.
-* Under [ELIXIR Research Data Management Kit (RDMkit)](https://rdmkit.elixir-europe.org/), resources are provided for Life Scientists to guide them in better management of their research data in adhering to the FAIR Principles. It is an attempt to help researchers work at different capacities, both in individual and collaborative workspaces.
+* Under the RDA, there are several groups tackling different aspects relevant to the RDM life cycle. Among these, one group, the [FAIR Data Maturity Model Working Group](https://www.rd-alliance.org/groups/fair-data-maturity-model-wg) is reviewing existing efforts, building on them to define a standard set of common assessment criteria for the evaluation of FAIRness.
+

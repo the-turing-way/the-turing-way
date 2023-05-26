@@ -102,7 +102,7 @@ Concerning the moment to make the paper publicly available, many journals establ
 Some journals include or exclude embargoes depending on the versions.
 For instance, the accepted version could be made publicly available after publication, but the published version must wait 12 months. You can check journal policies on self-archiving using [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/index.php).
 
-```{figure} ../../figures/routes-to-OA.jpg
+```{figure} ../../figures/routes-to-OA.*
 ---
 height: 500px
 name: routes-to-OA
@@ -124,7 +124,7 @@ Publishing openly also has benefits for you as an author.
 Your work is likely to reach a larger audience meaning it may have a broader societal impact.
 Papers published openly are also more likely to have a citation advantage {cite}`Tennant2016openaccess`.  
 
-```{figure} ../../figures/share-work-openly.jpg
+```{figure} ../../figures/share-work-openly.*
 ---
 height: 500px
 name: share-work-openly

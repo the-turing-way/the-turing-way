@@ -1,7 +1,7 @@
 (pd-sdpm)=
 # Managing Sensitive Data Projects
 
-```{figure} ../figures/sensitive-data.jpg
+```{figure} ../figures/sensitive-data.*
 ---
 height: 500px
 name: Dealing with sensitive data

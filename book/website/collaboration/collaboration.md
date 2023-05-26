@@ -6,7 +6,7 @@
 Data science is defined by its interdisciplinarity.
 Our work can only reach its highest potential if there are diverse teams of people involved in designing and delivering the research or product.
 
-```{figure} ../figures/collaboration.jpg
+```{figure} ../figures/collaboration.*
 ---
 name: collaboration
 width: 500px
@@ -16,7 +16,7 @@ There is more to collaboration than we see. _The Turing Way_ project illustratio
 ```
 
 There are many different skills required to work well in groups with a wide range of expertise.
-In this guide, we welcome contributions in developing guidance on following (but not limited to) topics:
+In this guide, we welcome contributions in developing guidance on the following (but not limited to) topics:
 
 * Designing a project that welcomes contributions
 * Distributed collaboration on GitHub

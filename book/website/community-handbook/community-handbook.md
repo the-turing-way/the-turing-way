@@ -11,7 +11,7 @@ We are incredibly grateful to our community members who are the readers, co-auth
 
 Thank you for joining the incredible journey of _The Turing Way_!
 
-```{figure} ../figures/community.jpg
+```{figure} ../figures/community.*
 ---
 height: 400px
 name: community

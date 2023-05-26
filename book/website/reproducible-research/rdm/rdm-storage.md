@@ -4,7 +4,7 @@
 Data loss can be catastrophic for your research project and can happen often.
 You can prevent data loss by picking suitable storage solutions and backing your data up frequently.
 
-```{figure} ../../figures/version-control.jpg
+```{figure} ../../figures/version-control.*
 ---
 height: 500px
 name: version-control
@@ -46,6 +46,11 @@ You can structure folders based on the person that has generated the data/folder
 - You can pull/download folder structures using GitHub:
 [This template](https://github.com/bvreede/good-enough-project) by Barbara Vreede, based on [cookiecutter](https://github.com/cookiecutter/cookiecutter), follows recommended practices for scientific computing by [Wilson et al. (2017)](https://doi.org/10.1371/journal.pcbi.1005510).
 - See [this template](https://osf.io/4sdn3/) by Chris Hartgerink for file organisation on the [Open Science Framework](https://osf.io/).
+- [How to Organize Your Digital Files](https://www.nytimes.com/wirecutter/guides/how-to-organize-your-digital-files/) by Melanie Pinola.
+- [Project structure videos by Danielle Navarro](https://www.youtube.com/watch?v=u6MiDFvAs9w&list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&index=1) (with [slides](https://slides.djnavarro.net/project-structure/#1)).
+
+### More Information on Data Organisation
+- [How to organise your data and code](https://renebekkers.wordpress.com/2021/04/02/how-to-organize-your-data-and-code) by Rene Bekkers. 
 
 (rr-rdm-storage-conventions)=
 ## File Naming Conventions
@@ -54,7 +59,6 @@ Structure your file names and set up a template for this.
 For example, it may be advantageous to start naming your files with the date each file was generated (such as `YYYYMMDD`).
 This will sort your files chronologically and create a unique identifier for each file.
 The utility of this process is apparent when you generate multiple files on the same day that may need to be versioned to avoid overwriting.
-
 
 Some other tips for file naming include:
 - Use the date or date range of the experiment: `YYYYMMDD`
@@ -66,6 +70,22 @@ Some other tips for file naming include:
 
 You can explain the file naming convention in a README.txt file so that it will also become apparent to others what the file names mean.
 
+For further guidance on file naming: 
+- [Jenny Bryan’s ‘naming things’ presentation](https://speakerdeck.com/jennybc/how-to-name-files) (or watch the [5 minute summary](https://youtu.be/ES1LTlnpLMk))
+- [MIT's recommendations on File naming and folder hierarchy](https://libraries.mit.edu/data-management/store/organize/)
+- [8 step guide on how to set up your file naming convention](https://resolver.caltech.edu/CaltechAUTHORS:20200601-161923247) 
+
+(rr-rdm-storage-renaming)=
+### File renaming tools
+
+If you want to change your file names you have the option to use bulk renaming tools.
+Be careful with these tools, because changes made with bulk renaming tools may be too rigorous if not carefully checked!
+
+Some bulk file renaming tools include: 
+- [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/Main_Intro.php) and [WildRename](http://www.cylog.org/utilities/wildrename.jsp) (for Windows)
+- [Renamer](https://renamer.com/) (for MacOS)
+- [PSRenamer](http://www.cylog.org/utilities/wildrename.jsp)(for MacOS, Windows, Unix, Linux)
+
 (rr-rdm-storage-backups)=
 ## Backups
 
@@ -75,8 +95,10 @@ To avoid losing your data, you should follow good backup practices.
 - at least 2 different storage media,
 - in different locations.
 
+Backups are ideally done automatically and should take into consideration your institute's guidelines.
 The more important the data and the more often the datasets change, the more frequently you should back them up.
 If your files take up a large amount of space and backing up all of them proves to be challenging or expensive, you may want to create a set of criteria for when you back up the data.
 This can be part of your data management plan (DMP).
+
 
 Watch this video on [Safe data storage and backup](https://www.youtube.com/watch?v=bgbbToXHgW0) from the [TU Delft Open Science MOOC](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/).

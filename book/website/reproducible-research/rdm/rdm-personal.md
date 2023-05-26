@@ -21,3 +21,4 @@ There are a number of strategies that you can adopt to **safeguard the privacy**
 
 ## More resources 
 Check out the resources listed in the {ref}`Resources<pd-sdpm-resources>` of the {ref}`Managing Sensitive Data Projects chapter<pd-sdpm>` 
+
