@@ -584,7 +584,7 @@ parts:
               - title: Guidelines for Hybrid Collaboration
                 file: collaboration/hybrid-collab/hybrid-collab-guidelines
               - title: Resources
-                file: collaboration/hybrid-collab/hybrid-collab-resources             
+                file: collaboration/hybrid-collab/hybrid-collab-resources
           - title: Shared Ownership in Open Source Projects
             file: collaboration/shared-ownership
             sections:
