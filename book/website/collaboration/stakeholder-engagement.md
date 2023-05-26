@@ -22,7 +22,9 @@ Stakeholder mapping is a core activity of many Research Infrastructure Roles and
 - Turing Tools, Practices, and Systems team [stakeholder mapping template](https://miro.com/app/board/uXjVMGIR93o=/?share_link_id=456301587406)
 
 ### RAM insights
-* Stakeholder mapping isn't meant to be a single source of truth - it is a tool to capture a team's understanding of the stakeholder landscape, clarify stakeholder relationships, and surface stakeholder groups that may share common characteristics or challenges. Whilst this resource may not provide specific solutions to successful stakeholder engagement, a well thought-out, detailed stakeholder map will help facilitate bringing a team onto the same page, which can help progress developing stakeholder engagement pipelines.
+Stakeholder mapping is not meant to be a single source of truth.
+It is a tool to capture a team's understanding of the stakeholder landscape, clarify relationships, and surface groups that may share common characteristics or challenges. 
+Whilst this resource may not provide specific solutions to successful stakeholder engagement, a well thought-out, detailed stakeholder map will help facilitate bringing a team onto the same page, which can help with developing engagement pipelines.
 * We encourage teams to define their own metrics for mapping stakeholders on a matrix for prioritisation. These metrics should be carefully chosen to represent the key stakeholder considerations and project team goals. For example, the team may try to:
     * Establish a community of practice for project governance
     * Prioritise communication methods and cadence for different stakeholder groups
