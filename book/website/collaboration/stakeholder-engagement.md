@@ -104,8 +104,8 @@ We strongly recommend creating a synthesized output from these sessions that can
 A great example is a comprehensive, professional slide deck, that not only serves as a resource for the team, but can be used both internally and externally by any team member to communicate the project to stakeholders.
 
 For more on effective facilitation, check out:
-    * {ref}`Chairing Events <cl-chairing>`
-    * {ref}`Tools for Collaboration <cl-event-tools>`
+- {ref}`Chairing Events <cl-chairing>`
+- {ref}`Tools for Collaboration <cl-event-tools>`
 
 (cl-stakeholder-user-design)=
 ## User-centric design
