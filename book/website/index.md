@@ -17,6 +17,12 @@ Browse the different guides that make up the book, or use the search box to sear
 All stakeholders, including researchers, software engineers, project leaders and funding teams, are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
 You can inspect our resources on [GitHub](https://github.com/alan-turing-institute/the-turing-way), contribute to the project as described in our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md)).
 
+```{admonition} Translation
+:class: tip
+Call for translators! We’re looking for translators to help translate this space for everyone! Read more about our translation workflow and how you can contribute to it [here](https://the-turing-way.netlify.app/community-handbook/translation.html).
+```
+
+
 Please [join our Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw) to connect and discuss your ideas or suggestions with *The Turing Way* members.
 
 ```{figure} figures/theturingway-pathway.*
