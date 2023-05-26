@@ -1,4 +1,4 @@
-(ch-translation-gateway-crowdsourced-localization)=
+(ch-translation-gateway-crowdsourced-localisation)=
 
 # Your Gateway to Crowdsourced Localisation
 
