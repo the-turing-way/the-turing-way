@@ -37,7 +37,7 @@ These metrics should be carefully chosen to represent the key stakeholder consid
 ## Requirements gathering & alignment
 ### Key question: How can we align stakeholders on shared language and goals?
 
-Requirements gathering is a helpful exercise used to collect information from different stakeholders involved in a project which can then be used to mitigate potential misunderstanding, map shared terminology, and identify opportunities for collaboration. 
+Requirements gathering is a helpful exercise used to collect information from different stakeholders involved in a project which can then be used to mitigate potential misunderstandings, agree on shared terminology, and identify opportunities for collaboration. 
 When bringing people from different backgrounds or organisations into a collaboration, it can be helpful to align on shared language and understanding on key concepts relevant to a project.
 This is motivated by the fact that different teams may have different ways of working and understandings of project outputs like "case study" or "user-friendly website" which can lead to miscommunication or misalignment of expectations.
 Once the information is gathered in a single place, you can identify questions and highlights from the interviews to prompt group discussion for alignment.
@@ -47,7 +47,7 @@ Once the information is gathered in a single place, you can identify questions a
 
 ### RAM insights
 * Often times different people will use the same term to mean completely different things or for different purposes
-* This exercise can help detangle the nuances of a commonly used term and whether or not there is overlap, and thus provides an opportunity to build shared understanding and goals
+This exercise can help detangle the nuances of commonly used terms and whether or not there is overlap in the collaborators' understandings of it, and thus provides an opportunity to build shared understanding and goals.
 * Requirements gathering is informed by the user interview process from the design and qualitative research worlds
 
 (cl-stakeholder-workshops)=
@@ -100,7 +100,7 @@ For more on effective facilitation, check out:
 ## User-centric design
 ### Key question: How can research outputs benefit from a user-centric design process?
 
-Although many research tools are created for a very narrow purpose, we encourage researchers to consider the user experience (UX) throughout the process and to incorporate UX design principles to make the tool more accesible and usable for all potential users. 
+Although many research tools are created for a very narrow purpose, we encourage researchers to consider the user experience (UX) throughout the process and to incorporate UX design principles during development to make the tool more accessible and usable for all potential users. 
 Activities such as user journey mapping and user testing can greatly enhance your understanding of who is using the research tool and how they employ the tool in a real-world scenario.
 By considering potential users of the tool from the early stages of a project, you can include features that will make the tool easier to use and more relevant to potential stakeholders, and therefore more likely to be used and applied in practice. 
 
@@ -118,7 +118,7 @@ These insights can help a team to develop a roadmap for the tool to plan out fut
 ## Stakeholder Impact Assessments
 ### Key question: How can we develop projects with continual sensitivity to the ways in which these impact stakeholders?
 
-Stakeholder Impact Assessments (SIAs) are a tool used to gain anticipatory insight into the project impacts, defined as the possible harms and benefits.
+Stakeholder Impact Assessments (SIAs) are a tool used to gain anticipatory insight into the project's likely impacts, defined as the possible harms and benefits.
 SIAs take the form of questionnaires addressing the ethical permissibility, transparency, accountability, and equity of projects.
 SIAs are used to identify and document the full range of potential impacts and provide project teams with a contextual awareness of the social environments impacted by their projects. 
 This activity can help teams steer the direction of their projects proactively to ensure that they support the wellbeing and sustainability of the individuals and communities they impact and mitigate any harms. 
@@ -129,7 +129,7 @@ Engaging stakeholders in conducting SIAs helps secure the accuracy and integrity
 This is because gaps in identity and experience between project teams and impacted individuals may cause there to be differences between how team members view project impacts and how stakeholders experience them. 
 Facilitating proportionate stakeholder engagement and input throughout the AI lifecycle is a way to gain a richer understanding of the impacts that projects may have on stakeholders. 
  
-SIAs are not a one-off activity but an iterative one that occurs at a key point throughout the design, development, and deployment stages of the [AI project lifecycle](https://alan-turing-institute.github.io/turing-commons/skills-tracks/rri/rri-101-index/), each time informing the direction of the project so that it continually adapts to changing contexts. 
+A SIA is not a one-off activity but an iterative one that occurs at key points throughout the design, development, and deployment stages of the [AI project lifecycle](https://alan-turing-institute.github.io/turing-commons/skills-tracks/rri/rri-101-index/), each time informing the direction of the project so that it continually adapts to changing contexts. 
 After each iteration is conducted, project teams are asked to re-assess questions addressed within the Stakeholder Engagement Process. 
 These questions motivate project teams to iteratively re-assess the extent to which their analysis of project stakeholders and reflection of team positionality continues to be accurate and relevant. 
 These re-assessments are used to determine engagement objectives and methods for each following SIA. 
