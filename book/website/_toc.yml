@@ -685,6 +685,17 @@ parts:
                 file: community-handbook/acknowledgement/acknowledgement-record
               - title: Different Contributions and Acknowledgements
                 file: community-handbook/acknowledgement/acknowledgement-examples
+          - title: Translation and Localisation
+            file: community-handbook/translation
+            sections:
+              - title: Translation of Open Source Projects
+                file: community-handbook/translation/translation-localisation
+              - title: Welcome to the localisation team of The Turing Way!
+                file: community-handbook/translation/translation-workflow
+              - title: Localizing The Turing Way
+                file: community-handbook/translation/translation-getting-started
+              - title: Hello Crowdin!
+                file: community-handbook/translation/translation-hello-crowdin
           - title: Monthly Newsletters
             file: community-handbook/newsletters
             sections:
@@ -750,17 +761,6 @@ parts:
                 file: community-handbook/templates/template-newsletter-draft
               - title: Template for Fireside Chat Shared Notes
                 file: community-handbook/templates/template-fireside-chat
-          - title: Translation and Localisation
-            file: community-handbook/translation
-            sections:
-              - title: Localisation
-                file: community-handbook/translation/translation-localisation
-              - title: Workflow
-                file: community-handbook/translation/translation-workflow
-              - title: Getting started
-                file: community-handbook/translation/translation-getting-started
-              - title: Hello Crowdin
-                file: community-handbook/translation/translation-hello-crowdin
 
       # ===== Afterword ========================================
 
