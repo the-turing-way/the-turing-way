@@ -68,7 +68,7 @@ Link the registration form clearly on the webpage and advertise across different
 
 We have made a template of all the different questions you might want to include on your registraion form. 
 
-You can see the template in our community handbook's tenplate collection. 
+You can see and used our registration form template in using this link 
 
 
 
