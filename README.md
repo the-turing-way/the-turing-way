@@ -30,7 +30,8 @@ Our goal is to provide all the information that researchers and data scientists 
 *The Turing Way is a book, a community and a global collaboration.*
 
 All stakeholders, including students, researchers, software engineers, project leaders and funding teams, are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
-You can read the book [online](https://the-turing-way.netlify.app), contribute to the project as described in our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md)).
+You can read the book [online](https://the-turing-way.netlify.app), contribute to the project as described in our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md)). **We also invite you to contribute to the translation of _The Turing Way_  into different languages and help make research reproducibility accessible to a wider global audience**. If you are interested in contributing, please refer to [the guidelines provided in the book's handbook](https://the-turing-way.netlify.app/community-handbook/translation.html) and join our collaborative efforts.
+
 
 [![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
 
@@ -115,8 +116,9 @@ We really appreciate any references that you make to _The Turing Way_ project in
 If you have any questions please [get in touch](#get-in-touch).
 
 ### Citing _The Turing Way_ Illustrations
+
 <p align="center">
-  <img src="book/website/figures/evolution-open-research.jpg" alt="This is an example of one of The Turing Way illustrations. It tries to shows the evolution towards an open science era" width="600">
+  <img src="book/website/figures/evolution-open-research.png" alt="This is an example of one of The Turing Way illustrations. It tries to shows the evolution towards an open science era" width="600">
 </p>
 
 _The Turing Way_ illustrations are created by artists from [Scriberia](https://www.scriberia.co.uk/) as part of [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/book-dash) in Manchester on 17 May 2019, London on 28 May 2019 and 21 February 2020, and online on 27th November 2020 and 28th May 2021.
