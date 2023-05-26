@@ -125,7 +125,7 @@ These insights can help a team to develop a roadmap for the tool to plan out fut
 Stakeholder Impact Assessments (SIAs) are a tool used to gain anticipatory insight into the project's likely impacts, defined as the possible harms and benefits.
 SIAs take the form of questionnaires addressing the ethical permissibility, transparency, accountability, and equity of projects.
 SIAs are used to identify and document the full range of potential impacts and provide project teams with a contextual awareness of the social environments impacted by their projects. 
-This activity can help teams steer the direction of their projects proactively to ensure that they support the wellbeing and sustainability of the individuals and communities they impact and mitigate any harms. 
+This activity can help teams steer the direction of their projects preemptively to ensure that they support the wellbeing and sustainability of the individuals and communities they impact and mitigate any harms. 
 
 Evaluations of project impacts should ideally be done in collaboration with stakeholders. 
 In the context of SIAs, stakeholders can be both individuals and communities that are impacted or may impact projects.
