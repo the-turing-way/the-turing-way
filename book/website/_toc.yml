@@ -568,6 +568,15 @@ parts:
                 file: collaboration/remote-collab/remote-collab-team
               - title: Useful Resources
                 file: collaboration/remote-collab/remote-collab-useful-resources
+          - title: Hybrid Collaboration
+            file: collaboration/hybrid-collab
+            sections:
+              - title: Challenges faced during Hybrid Collaboration
+                file: collaboration/hybrid-collab/hybrid-collab-challenges
+              - title: Guidelines for Hybrid Collaboration
+                file: collaboration/hybrid-collab/hybrid-collab-guidelines
+              - title: Resources
+                file: collaboration/hybrid-collab/hybrid-collab-resources             
           - title: Shared Ownership in Open Source Projects
             file: collaboration/shared-ownership
             sections:
