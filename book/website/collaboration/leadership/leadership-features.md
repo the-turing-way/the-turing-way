@@ -1,11 +1,10 @@
 (cl-leadership-features)=
 # Important Features of Leadership
 
-```{admonition} cite
+```{epigraph}
 "A leader is anyone who takes responsibility for finding the potential in people and processes and has the courage to develop that potential. 
-Leadership is not about titles or the corner office. 
-It's about the willingness to step up, put yourself out there, and lean into courage.”
-- Brene Brown, [Dare to Lead](https://brenebrown.com/hubs/dare-to-lead/)
+Leadership is not about titles or the corner office. It's about the willingness to step up, put yourself out there, and lean into courage.”
+-- Brene Brown, [Dare to Lead](https://brenebrown.com/hubs/dare-to-lead/)
 ```
 Leaders empower others to identify solutions and make their own decisions to address the challenges they face.
 Leadership skill is involving the members of a group (that a leader aims to impact) in decision-making processes and not taking individual decisions for them ([Leader as an Activist](https://www.management-issues.com/opinion/6087/the-leader-as-activist/)).
