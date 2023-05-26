@@ -8,7 +8,7 @@ This chapter will share guidance and resources for facilitating different forms 
 
 (cl-stakeholder-mapping)=
 ## Stakeholder mapping
-### Key question: Who is involved in a collaboration, either as a user, impacted group, or as part of the community of practice?
+### Key question: Who is involved in a collaboration, either as a user, impacted group, part of the community of practice, or in some other capacity?
 
 The goal of stakeholder mapping is to centralise information on the people and organisations involved in a collaboration in one place. 
 This helps establish a shared understanding of who is involved in what capacity, which is a useful resource for onboarding new teammates and to make sure everyone is on the same page.
