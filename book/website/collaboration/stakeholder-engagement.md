@@ -10,9 +10,9 @@ This chapter will share guidance and resources for facilitating different forms 
 ## Stakeholder mapping
 ### Key question: Who is involved in a collaboration, either as a user, impacted group, part of the community of practice, or in some other capacity?
 
-The goal of stakeholder mapping is to centralise information on the people and organisations involved in a collaboration in one place. 
+The goal of stakeholder mapping is to understand the people and organisations involved in a collaboration, and to collect all this information in one place. 
 This helps establish a shared understanding of who is involved in what capacity, which is a useful resource for onboarding new teammates and to make sure everyone is on the same page.
-This activity is also often a precursor to other engagement activities such as impact assessment and user experience workshop as stakeholder maps can help identify who should be centered in the research process.
+This activity is also often a precursor to other engagement activities such as impact assessments, user experience workshops, collaboration cafes and more, as stakeholder maps can help identify who should be centred in the research process.
 Stakeholder mapping is a core activity of many {ref}`Research Infrastructure Roles<cl-research-infrastructure-roles>` and may serve different goals, for example:
 - {ref}`Research Community Managers<cl-infrastructure-community-managers>` may use this to establish a project governance structure and decide the most effective methods and channels for communication with each stakeholder.
 - {ref}`Research Application Managers<cl-infrastructure-ram>` may use this to categorise and prioritise different kinds of users of research outputs, such as local government vs. industry partners.
@@ -50,6 +50,11 @@ Once the information is gathered in a single place, you can identify questions a
 This exercise can help detangle the nuances of commonly used terms and whether or not there is overlap in the collaborators' understandings of it, and thus provides an opportunity to build shared understanding and goals.
 * Requirements gathering is informed by the user interview process from the design and qualitative research worlds
 
+### RAM Insights
+A good measure of success for requirements gathering & alignment is a glossary of terms and concepts that the project team and additional stakeholders have created together, and can refer back to when confusion or misunderstanding arises.
+This glossary should be a living and breathing document, that can be updated, and terms redefined, as the team's knowledge and expertise grows.
+It is also hard to overstate the importance of having shared language and understanding in a project team - not embedding this at an early stage can allow miscommunication and misinterpretation to snowball into highly incompatible outputs, that don't represent the team, community or userbase!
+
 (cl-stakeholder-workshops)=
 ## Organising stakeholder workshops
 ### Key question: What work before, during, and after a workshop should be done to run an effective stakeholder workshop?
@@ -78,7 +83,7 @@ A helpful model to inform this exercise is Simon Sinek's [Golden Circle method](
 * Why: Why are we doing what we're doing? 
     * This is the ultimate 'North Star' or 'vision' of the project - the fundamental, emotive reason the work is being done.
 * How: How do we achieve our mission? 
-    * This question concerns the broad focus areas, or 'pillars' that setup up the project to achieve the vision.
+    * This question concerns the broad focus areas, or 'pillars' that set up the project to achieve the vision.
 * What: What do we actually do?
     * This question takes the why and the how, and identifies key activities that teams can undertake to achieve their goals.
 
@@ -88,9 +93,17 @@ It is important to take these conversations in order, so that strategy alignment
 - [Further RAM Guidance](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/team_strategy.md) on facilitating Why/How/What conversations
 
 ### RAM insights
-Using the basic "Why/How/What" format for the conversation helps provide focus and clarity and can lead to a better outcome.
+Using the basic "Why/How/What" format as a starting point for the conversation helps provide focus and clarity and can lead to a better outcome. 
+As with all frameworks, this starting point should be adapted to match the understanding and ways of working of the specific project team.
 By not overstructuring the conversation, you will also allow people the space to express their thoughts freely. We feel this is an important approach as it allows open conversations to happen and things to emerge that otherwise might not.
 Strong facilitation skills are crucial, including reading the room and identifying patterns in the conversation. 
+Doing this effectively takes a long time - at least 2 hours per session (we recommend a minimum of 6 hours, if not longer). 
+These sessions should be separated and standalone (i.e. 2 hours slots on different days), but close enough together to ensure continuity. 
+We recommend scheduling all sessions in advance, to reserve team member's time and ensure small gaps between each session.
+
+A lot of content will be covered in this session. 
+We strongly recommend creating a synthesized output from these sessions that can be referred back to by any project team member. 
+A great example is a comprehensive, professional slide deck, that not only serves as a resource for the team, but can be used both internally and externally by any team member to communicate the project to stakeholders.
 
 For more on effective facilitation, check out:
     * {ref}`Chairing Events <cl-chairing>`
@@ -122,7 +135,7 @@ These insights can help a team to develop a roadmap for the tool to plan out fut
 ## Stakeholder Impact Assessments
 ### Key question: How can we develop projects with continual sensitivity to the ways in which these impact stakeholders?
 
-Stakeholder Impact Assessments (SIAs) are a tool used to gain anticipatory insight into the project's likely impacts, defined as the possible harms and benefits.
+Stakeholder Impact Assessments (SIAs) are a tool used to gain anticipatory insight into the project's likely impacts, defined as the possible [harms] (https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/chapter2/harms/#3-bias-injustice-and-discrimination) and benefits.
 SIAs take the form of questionnaires addressing the ethical permissibility, transparency, accountability, and equity of projects.
 SIAs are used to identify and document the full range of potential impacts and provide project teams with a contextual awareness of the social environments impacted by their projects. 
 This activity can help teams steer the direction of their projects preemptively to ensure that they support the wellbeing and sustainability of the individuals and communities they impact and mitigate any harms. 
@@ -134,10 +147,17 @@ Engaging stakeholders in conducting SIAs helps secure the accuracy and integrity
 This is because gaps in identity and experience between project teams and impacted individuals may cause there to be differences between how team members view project impacts and how stakeholders experience them. 
 Facilitating proportionate stakeholder engagement and input throughout the AI lifecycle is a way to gain a richer understanding of the impacts that projects may have on stakeholders. 
  
-A SIA is not a one-off activity but an iterative one that occurs at key points throughout the design, development, and deployment stages of the [AI project lifecycle](https://alan-turing-institute.github.io/turing-commons/skills-tracks/rri/rri-101-index/), each time informing the direction of the project so that it continually adapts to changing contexts. 
+Conducting a SIA is not a one-off activity but an iterative one that occurs at key points throughout the design, development, and deployment stages of the [AI project lifecycle](https://alan-turing-institute.github.io/turing-commons/skills-tracks/rri/rri-101-index/), each time informing the direction of the project so that it continually adapts to changing contexts. 
 After each iteration is conducted, project teams are asked to re-assess questions addressed within the Stakeholder Engagement Process. 
 These questions motivate project teams to iteratively re-assess the extent to which their analysis of project stakeholders and reflection of team positionality continues to be accurate and relevant. 
 These re-assessments are used to determine engagement objectives and methods for each following SIA. 
 
 ### Example resources
-* Impact-informed guidance for conducting a Stakeholder Engagement Process (SEP) can be found in the [Turing Commons Public Engagement of Data Science course](https://alan-turing-institute.github.io/turing-commons/skills-tracks/ped/chapter3/when/#stakeholder-analysis). The SEP is a complementary process that precedes SIAs and provides reflection questions set to identify and analyse project stakeholders, and reflect on team positionality in relation to project stakeholders. These questions support teams in determining proportional engagement objectives and methods for conducting Stakeholder Impact Assessments. 
+* Further guidance on conducting SIAs can be found in Leslie, D., Rincón, C., Burr, C., Aitken, M., Katell, M., & Briggs, M. (2022). AI Sustainability in Practice:Part II. The Alan Turing Institute.
+* A practical template for conducting SIAs can be found in Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A guide for the responsible design and implementation of AI systems in the public sector. The Alan Turing Institute. https://doi.org/10.5281/zenodo.3240529
+
+
+### RAM insights
+* Ensuring that SIA outcomes accurately reflect the experiences of impacted stakeholders is critical for this tool to achieve its purpose, for this reason, taking a methodological approach to determining proportional levels of engagement is very important. Impact-informed guidance for conducting a Stakeholder Engagement Process (SEP) can be found in the [Turing Commons AI Ethics and Governance Skills Track](https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/chapter3/engagement/). The SEP is a complementary process that precedes SIAs and provides reflection questions set to identify and analyse project stakeholders, and reflect on team positionality in relation to project stakeholders. These questions support teams in determining proportional engagement objectives and methods for conducting Stakeholder Impact Assessments. 
+
+* * The Turing Commons AI Ethics and Governance Skills Track also provides [further guidance] (https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/chapter3/impact/) on skills for conducting SIAs. 
