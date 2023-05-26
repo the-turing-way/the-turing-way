@@ -1,8 +1,8 @@
-(ch-translation-hello-crowdin)=
+(ch-translation-gateway-crowdsourced-localization)=
 
-# Hello Crowdin
+# Your Gateway to Crowdsourced Localization
 
-Crowdin editor is your friend.
+[Crowdin](https://crowdin.com/) editor is your friend.
 You can use it to change translation language, proofread, add comments for contributors, contact the managers, vote translations, view suggestions for translation from translation memory or find Machine Translation from Google, Crowdin, DeepL, and others.
 
 Once you click on any file, you will be directed to the comfortable mode in Crowdin crowdsourcing editor. 
