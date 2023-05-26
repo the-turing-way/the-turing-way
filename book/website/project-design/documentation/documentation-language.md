@@ -13,7 +13,8 @@ Formatting languages are used to define the structure of documents or text. They
 <https://myst-parser.readthedocs.io>
 
 ### reStructuredText
-<https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html>
+
+<!-- <https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html> -->
 
 ## Platforms and Tools for Documentation
 Platforms and tools provide different features and capabilities for creating, organizing, and hosting documentation. Depending on your specific requirements and preferences, you can choose the one that best suits your needs.
