@@ -69,7 +69,7 @@ We think it's important to prepare for each stage with equal weight and consider
 - [RAM Stakeholder Workshop Checklist](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/stakeholder_workshops.md) with key steps and considerations the pre-workshop, workshop, and post-workshop stages
 
 ### RAM insights
-* Be prepared to rein in conversations which labour a point with no apparant solution
+* Be prepared to rein in conversations which labour a point with no apparent solution
 * Read around the workshop topic to be at the very least prepared enough to engage with participants at a high or abstract level
 * Offer opportunities to network and make sure you make every effort to speak to all participants 
 
