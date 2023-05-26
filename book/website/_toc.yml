@@ -8,7 +8,6 @@
 # - header: My Header  # Will insert a header with no link in the sidebar
 
 # ===== Main Landing Page ========================================
-
 format: jb-book
 root: index
 parts:
