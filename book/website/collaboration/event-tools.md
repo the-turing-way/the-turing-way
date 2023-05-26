@@ -2,12 +2,13 @@
 # Tools for Collaboration
 
 Many free and commercial tools exist to improve people's experience of planning, organising, and hosting online and hybrid collaborations with teams or at events.
-For effectively collaboration, it is important to choose tools that can maximise the overall success and reduce the risk of things going wrong during the event.
+For effective collaboration, it is important to choose tools that can maximise the overall success and reduce the risk of things going wrong during the event.
 We should also consider how user-friendly they are and how they impact the engagement of different stakeholders such as organisers, helpers and attendees.
 
 Here is a list of some popular tools for facilitating different aspects of collaboration discussed in the other chapters.
 Please note that we are not a listing conference or webinar-related tools, but only providing those tools that facilitate interactive (hence, collaborative) formats.
 Though we assume 'virtual first' approach for inclusive events, these recommendations can be used for remote or in-person meetings as well with minor changes to adapt to a physical location.
+If you are looking for more information on how to facilitate collaboration within a research team, see the {ref}`team manual<cl-team-manual>`.
 
 ## Task management tools
 
@@ -22,7 +23,7 @@ Therefore, it is important to track those tasks in an online task or event manag
 
 ## Finding a common availability
 
-Meeting scheduling platforms help find a common availability without having to check multiple times with all the intended participant's.
+Meeting scheduling platforms help find a common availability without having to check multiple times with all the intended participants.
 
 Some commonly used options are [Doodle](https://doodle.com/poll/) and [when2meet.com](https://www.when2meet.com/).
 See more options [here](https://zapier.com/blog/best-meeting-scheduler-apps/).
@@ -34,7 +35,7 @@ It is particularly crucial to use meeting links like [arewemeetingyet](https://a
 A document that can be edited collaboratively in real-time allows all attendees to participate equitably during the meeting or online call.
 This is especially important for creating an opportunity for those who can not (or do not feel comfortable to) actively speak up in group meetings, especially for hybrid formats.
 
-- [Google doc](https://en.wikipedia.org/wiki/Google_Docs): Google Docs is a word processor included as part of a free, web-based Google Docs suite offered by Google within its Google Workspace service.
+- [Google docs](https://en.wikipedia.org/wiki/Google_Docs): Google Docs is a word processor included as part of a free, web-based Google Docs suite offered by Google within its Google Workspace service.
 - [Etherpad](https://etherpad.org/): Etherpad is an Open Source customisable online editor.
 - [HackMD](https://hackmd.io/): HackMD is an online collaborative document that can be written in [Markdown](https://www.markdownguide.org/) format.
 - [HedgeDoc (previously CodiMD)](https://demo.hedgedoc.org/): HedgeDoc is the community-driven fork of CodiMD, which is the open source version of HackMD.
@@ -44,11 +45,11 @@ This is especially important for creating an opportunity for those who can not (
 It is important to create shared notes, but also to save them to share with others and to make them available to refer back to later.
 
 - [Google Drive](https://en.wikipedia.org/wiki/Google_Drive): Google Drive is a file storage and synchronization service developed by Google.
-- [DropBox](https://www.dropbox.com/): Dropbox is a file hosting service operated by the American company Dropbox.
-- [owncloud](https://owncloud.com/): ownCloud is a suite of client-server software for creating and using file hosting services. ownCloud functionally has similarities to the widely used Dropbox.
+- [DropBox](https://www.dropbox.com/): Dropbox is a widely used file hosting service.
+- [owncloud](https://owncloud.com/): ownCloud is a suite of client-server software for creating and using file hosting services. ownCloud functionally has similarities to Dropbox.
 - [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/free-trial/) and [BitBucket](https://bitbucket.org/product): Platforms for hosting, sharing and collaborating on documents and software with a version control system (see [this post for detail/difference](https://stackshare.io/stackups/bitbucket-vs-github-vs-gitlab)).
 
-## Managing participant's confirmation
+## Managing participant confirmations
 
 Often online calendars sent out to all invitees allows them to accept, decline or tentatively indicate to organisers if they can attend a meeting or an event.
 It's especially important when the events are intended for a large group of people.

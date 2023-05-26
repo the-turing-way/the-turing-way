@@ -75,6 +75,17 @@ For further guidance on file naming:
 - [MIT's recommendations on File naming and folder hierarchy](https://libraries.mit.edu/data-management/store/organize/)
 - [8 step guide on how to set up your file naming convention](https://resolver.caltech.edu/CaltechAUTHORS:20200601-161923247) 
 
+(rr-rdm-storage-renaming)=
+### File renaming tools
+
+If you want to change your file names you have the option to use bulk renaming tools.
+Be careful with these tools, because changes made with bulk renaming tools may be too rigorous if not carefully checked!
+
+Some bulk file renaming tools include: 
+- [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/Main_Intro.php) and [WildRename](http://www.cylog.org/utilities/wildrename.jsp) (for Windows)
+- [Renamer](https://renamer.com/) (for MacOS)
+- [PSRenamer](http://www.cylog.org/utilities/wildrename.jsp)(for MacOS, Windows, Unix, Linux)
+
 (rr-rdm-storage-backups)=
 ## Backups
 

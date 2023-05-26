@@ -302,7 +302,8 @@
         "doc",
         "review",
         "ideas",
-        "content"
+        "content",
+        "eventOrganizing"
       ]
     },
     {
@@ -772,7 +773,8 @@
       "profile": "http://yo-yehudi.com",
       "contributions": [
         "doc",
-        "review"
+        "review",
+        "ideas"
       ]
     },
     {
@@ -783,7 +785,8 @@
       "contributions": [
         "bug",
         "review",
-        "ideas"
+        "ideas",
+        "eventOrganizing"
       ]
     },
     {
@@ -3138,7 +3141,8 @@
       "profile": "http://www.aleesteele.com",
       "contributions": [
         "review",
-        "bug"
+        "bug",
+        "eventOrganizing"
       ]
     },
     {
@@ -4130,7 +4134,166 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/86290575?v=4",
       "profile": "https://github.com/caroldutra3",
       "contributions": [
+        "ideas",
+        "bug"
+      ]
+    },
+    {
+      "login": "sandygudie",
+      "name": "Goodnews Sandy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54219127?v=4",
+      "profile": "https://goodnewssandy.netlify.app/",
+      "contributions": [
+        "bug",
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "tpronk",
+      "name": "tpronk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8987504?v=4",
+      "profile": "https://github.com/tpronk",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "chartgerink",
+      "name": "Chris Hartgerink",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2946344?v=4",
+      "profile": "https://chjh.nl",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "msundukova",
+      "name": "Mayya Sundukova",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34685833?v=4",
+      "profile": "https://github.com/msundukova",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "shreyadimri",
+      "name": "Shreya Dimri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58469708?v=4",
+      "profile": "https://github.com/shreyadimri",
+      "contributions": [
+        "review",
+        "content"
+      ]
+    },
+    {
+      "login": "RealRichi3",
+      "name": "Richie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76791916?v=4",
+      "profile": "https://realrichi3.github.io",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
+    },
+    {
+      "login": "meliimming",
+      "name": "meliimming",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129850001?v=4",
+      "profile": "https://github.com/meliimming",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "RichardJActon",
+      "name": "Richard James Acton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6893043?v=4",
+      "profile": "https://richardjacton.github.io/",
+      "contributions": [
+        "ideas",
+        "content"
+      ]
+    },
+    {
+      "login": "mkhslaa",
+      "name": "mkhslaa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4571759?v=4",
+      "profile": "https://github.com/mkhslaa",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "robbykha",
+      "name": "robbykha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/131724231?v=4",
+      "profile": "https://github.com/robbykha",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "TanyaYankelevich",
+      "name": "Tanya Yankelevich",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107634879?v=4",
+      "profile": "https://www.tudelft.nl/open-science",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "luisaforozco",
+      "name": "Luisa Orozco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99738896?v=4",
+      "profile": "https://github.com/luisaforozco",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "jurra",
+      "name": "Jose Urra ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18581201?v=4",
+      "profile": "https://github.com/jurra",
+      "contributions": [
         "ideas"
+      ]
+    },
+    {
+      "login": "GabinWK",
+      "name": "GabinWK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104582708?v=4",
+      "profile": "https://github.com/GabinWK",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "hughesthe1st",
+      "name": "Sean Hughes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6203251?v=4",
+      "profile": "https://github.com/hughesthe1st",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "SaraVilla",
+      "name": "Sara Villa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43204602?v=4",
+      "profile": "https://github.com/SaraVilla",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ciupava",
+      "name": "Anna Zanchetta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3450313?v=4",
+      "profile": "https://github.com/ciupava",
+      "contributions": [
+        "translation"
       ]
     }
   ],
@@ -4138,5 +4301,6 @@
   "projectOwner": "alan-turing-institute",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "commitConvention": "none"
+  "commitConvention": "none",
+  "commitType": "docs"
 }

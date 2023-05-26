@@ -19,7 +19,7 @@ It is important to document and share the methodology, analysis and procedures u
 (pd-overview-version-comp)=
 ## Computational Work
 
-In the active phase of a project is important to keep consistency in your code (read this chapter on {ref}`code quality<rr-code-quality>`), as well as documenting and creating tests for it.
+In the active phase of a project it is important to keep consistency in your code (read this chapter on {ref}`code quality<rr-code-quality>`), as well as documenting and creating tests for it.
 
 Documenting your code will help others understand your work.
 Some tools that can be used to document your code more easily are:

@@ -28,7 +28,7 @@ Methods papers make your method more discoverable to others in your field and be
 
 Methods papers can vary in format. Overall you want to inform readers exactly what was done - you may include preliminary work, how data was generated/collected, how the data was analysed, validation of the method, and details about robustness of the method.
 
-For any of these sections, it may be useful to add step-by-step processes, rationale and as much as detail as possible such as settings and conditions for your experiment, specific software you used, specific reagents and resources used.
+For any of these sections, it may be useful to add step-by-step processes, rationale and as much detail as possible such as settings and conditions for your experiment, specific software you used, specific reagents and resources used.
 
 
 (cm-dif-articles-methods-review)=

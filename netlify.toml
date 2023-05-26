@@ -15,15 +15,33 @@ fi
 
 # A redirect rule with all the supported properties
 [[redirects]]
+  # Root page changed in https://github.com/alan-turing-institute/the-turing-way/pull/2994
+  from = "https://the-turing-way.netlify.app/welcome"
+  to = "https://the-turing-way.netlify.app/index.html"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+
+# A redirect rule with all the supported properties
+[[redirects]]
+  # Root page changed in https://github.com/alan-turing-institute/the-turing-way/pull/2994
+  from = "https://the-turing-way.netlify.app/welcome.html"
+  to = "https://the-turing-way.netlify.app/index.html"
+  # The default HTTP status code is 301, but you can define a different one.
+  status = 301
+  force = true
+  
+  # A redirect rule with all the supported properties
+[[redirects]]
   from = "https://the-turing-way.netlify.app"
-  to = "https://the-turing-way.netlify.app/welcome"
+  to = "https://the-turing-way.netlify.app/index.html"
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
 
 [[redirects]]
   from = "https://the-turing-way.netlify.app/introduction/*"
-  to = "https://the-turing-way.netlify.app/welcome"
+  to = "https://the-turing-way.netlify.app/index.html"
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
@@ -71,48 +89,6 @@ fi
   force = true
 
 [[redirects]]
-  from = "/reproducibility/01/*"
-  to = "/reproducible-research/overview"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/reproducibility/02/*"
-  to = "/reproducible-research/overview"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "reproducibility/03/definitions"
-  to = "/reproducible-research/overview/overview-definitions"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/reproducibility/04/*"
-  to = "/reproducible-research/overview"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/reproducibility/04/*"
-  to = "/reproducible-research/overview"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/open_research/*"
-  to = "/reproducible-research/open"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/version_control/*"
   to = "/reproducible-research/vcs"
   # The default HTTP status code is 301, but you can define a different one.
@@ -120,99 +96,8 @@ fi
   force = true
 
 [[redirects]]
-  from = "/licensing/*"
-  to = "/reproducible-research/licensing"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/credit/*"
-  to = "/reproducible-research/credit"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/rdm/*"
-  to = "/reproducible-research/rdm"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/reproducible_environments/*"
-  to = "/reproducible-research/renv"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/code_quality/*"
-  to = "/reproducible-research/code-quality"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/testing/*"
-  to = "/reproducible-research/testing"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/reviewing/*"
-  to = "/reproducible-research/reviewing"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/continuous_integration/*"
-  to = "/reproducible-research/ci"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/make/*"
-  to = "/reproducible-research/make"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/research_compendia/*"
-  to = "/reproducible-research/compendia"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/risk_assessment/*"
-  to = "/reproducible-research/risk-assess"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/binderhub/*"
   to = "/reproducible-research/binderhub"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/collaborating_github/*"
-  to = "/communication/communication"
-  # The default HTTP status code is 301, but you can define a different one.
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/open-source-comms/* "
-  to = "/communication/os-comms"
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
