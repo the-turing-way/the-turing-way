@@ -13,7 +13,7 @@
 
 (cl-academic-industry-summary)=
 ## Summary
-Academic-Industry collaborations can take many forms, but put simply they are when an academic institution or university collaborates with a corporate business such as a pharmaceutical company, a consulting firm or a technology company. 
+Academic-Industry collaborations can take many forms, but put simply they are when an academic institution or university collaborates with a corporation or business such as a pharmaceutical company, a consulting firm or a technology company. 
 
 Whilst academia and industry are often viewed with having differing cultures, research aims and ways of working, there can be many advantages of bridging this perceived gap and working collaboratively. 
 
