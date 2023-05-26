@@ -17,11 +17,6 @@ Browse the different guides that make up the book, or use the search box to sear
 All stakeholders, including researchers, software engineers, project leaders and funding teams, are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
 You can inspect our resources on [GitHub](https://github.com/alan-turing-institute/the-turing-way), contribute to the project as described in our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md)).
 
-```{admonition} Translation
-:class: tip
-Call for translators! We’re looking for translators to help translate this space for everyone! Read more about our translation workflow and how you can contribute to it [here](https://the-turing-way.netlify.app/community-handbook/translation.html).
-```
-
 
 Please [join our Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw) to connect and discuss your ideas or suggestions with *The Turing Way* members.
 
@@ -67,6 +62,11 @@ Although _The Turing Way_ receives support and funding from [The Alan Turing Ins
 We have contributions from across the UK, and from India, Mexico, Australia, USA, and many European countries.
 Chapters have been written, reviewed and curated by members of research institutes and universities, government departments, and industry.
 We are committed to creating a space where people with diverse expertise and lived experiences can share their knowledge with others to allow us all to use data science to improve the world.
+
+```{admonition} Translation
+:class: tip
+Call for translators! We’re looking for translators to help translate this space for everyone! Read more about our translation workflow and how you can contribute to it [here](https://the-turing-way.netlify.app/community-handbook/translation.html).
+```
 
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
 Accordingly, everyone who participates in _The Turing Way_ project is expected to show respect and courtesy to other community members at all times.
