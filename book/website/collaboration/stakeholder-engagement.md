@@ -4,7 +4,6 @@
 When working with stakeholders beyond your own team, there are many tools and best practices for improving the quality of engagement through activities like mapping relevant project stakeholders, organising stakeholder workshops, establishing shared language and understanding, and creating the foundation for effective collaboration.
 
 This chapter will share guidance and resources for facilitating different forms of stakeholder engagement for data science collaborations drawing upon expertise from the Turing Research Application Management (RAM) team.
-
 (cl-stakeholder-mapping)=
 ## Stakeholder mapping
 ### Key question: Who is involved in a collaboration, either as a user, impacted group, part of the community of practice, or in some other capacity?
@@ -33,7 +32,6 @@ For example, as part of the mapping, the team may try to:
    - Prioritise communication methods and cadence for different stakeholder groups.
    - Identify which groups may be negatively impacted by a research output.
    - Identify which stakeholders are most prepared or willing to adopt a particular research output.
-
 (cl-stakeholder-req-gathering)=
 ## Requirements gathering & alignment
 ### Key question: How can we align stakeholders on shared language and goals?
@@ -52,7 +50,6 @@ This exercise can help detangle the nuances of commonly used terms and whether o
 - A good measure of success for requirements gathering & alignment is a glossary of terms and concepts that the project team and additional stakeholders have created together, and can refer back to when confusion or misunderstanding arises.
 This glossary should be a living and breathing document, that can be updated, and terms redefined, as the team's knowledge and expertise grows.
 - It is hard to overstate the importance of having shared language and understanding in a project team - not embedding this at an early stage can allow miscommunications and misinterpretations to snowball into highly incompatible outputs that don't represent the team, community or userbase!
-
 (cl-stakeholder-workshops)=
 ## Organising stakeholder workshops
 ### Key question: What work before, during, and after a workshop should be done to run an effective stakeholder workshop?
@@ -70,7 +67,6 @@ We think it's important to prepare for each stage with equal weight and consider
 - Be prepared to rein in conversations which labour a point with no apparent solution
 - Read around the workshop topic to be at the very least prepared enough to engage with participants at a high or abstract level
 - Offer opportunities to network and make sure you make every effort to speak to all participants 
-
 (cl-stakeholder-strategy-workshops)=
 ## Strategy alignment workshops
 ### Key question: How can we bring different ideas across a group of collaborators into a shared strategy?
@@ -101,7 +97,6 @@ We feel this is an important approach as it allows open conversations to happen 
 - Doing this effectively takes a long time - at least 2 hours per session (we recommend a minimum of 6 hours, if not longer). 
 These sessions should be separated and standalone (for instance, 2 hours slots on different days), but close enough together to ensure continuity- schedule all session well ahead of time so that all team members can attend all sessions.
 - A synthesized output from these sessions, such as a comprehensive, professional slide deck, can be used both internally and externally by any team member to communicate the project to stakeholders.
-
 (cl-stakeholder-user-design)=
 ## User-centric design
 ### Key question: How can research outputs benefit from a user-centric design process?
@@ -126,12 +121,11 @@ These insights can help a team to develop a roadmap for the tool to plan out fut
 - Look for design firms that focus on coaching and prioritise user accessibility and an open, collaborative process. 
 Working with designers on a fixed project will improve the UX of your tool in the immediate term, but learning these skills as a team will allow you to consider UX and apply design tools at each stage of your project's lifecycle.
 - If in doubt or short of time, have a user try out your tool and ask them open ended questions about their experience. You'll be surprised at how much you can learn from doing this a few times!
-
 (cl-stakeholder-impact-assessment)=
-## Stakeholder Impact Assessments
+## Stakeholder impact assessments
 ### Key question: How can we develop projects with continual sensitivity to the ways in which these impact stakeholders?
 
-Stakeholder Impact Assessments (SIAs) are a tool used to gain anticipatory insight into the project's likely impacts, defined as the possible [harms] (https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/chapter2/harms/#3-bias-injustice-and-discrimination) and benefits.
+Stakeholder impact assessments (SIAs) are a tool used to gain anticipatory insight into the project's likely impacts, defined as the possible [harms] (https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/chapter2/harms/#3-bias-injustice-and-discrimination) and benefits.
 SIAs take the form of questionnaires addressing the ethical permissibility, transparency, accountability, and equity of projects.
 SIAs are used to identify and document the full range of potential impacts and provide project teams with a contextual awareness of the social environments impacted by their projects. 
 This activity can help teams steer the direction of their projects preemptively to ensure that they support the wellbeing and sustainability of the individuals and communities they impact and mitigate any harms. 
@@ -149,9 +143,7 @@ These questions motivate project teams to iteratively re-assess the extent to wh
 These re-assessments are used to determine engagement objectives and methods for each following SIA. 
 
 ### Example resources
-* Further guidance on conducting SIAs can be found in Leslie, D., Rincón, C., Burr, C., Aitken, M., Katell, M., & Briggs, M. (2022). AI Sustainability in Practice:Part II. The Alan Turing Institute.
-* A practical template for conducting SIAs can be found in Leslie, D. (2019). Understanding artificial intelligence ethics and safety: A guide for the responsible design and implementation of AI systems in the public sector. The Alan Turing Institute. https://doi.org/10.5281/zenodo.3240529
-
+* A practical template for conducting SIAs can be found in Leslie, David (2019). Understanding artificial intelligence ethics and safety: A guide for the responsible design and implementation of AI systems in the public sector. https://doi.org/10.5281/zenodo.3240529
 
 ### RAM insights
 * Ensuring that SIA outcomes accurately reflect the experiences of impacted stakeholders is critical for this tool to achieve its purpose, for this reason, taking a methodological approach to determining proportional levels of engagement is very important. 
