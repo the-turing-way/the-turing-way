@@ -69,7 +69,7 @@ We think it's important to prepare for each stage with equal weight and consider
 - [RAM Stakeholder Workshop Checklist](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/stakeholder_workshops.md) with key steps and considerations the pre-workshop, workshop, and post-workshop stages
 
 ### RAM insights
-* Be prepared to reign in conversations which labour a point with no apparant solution
+* Be prepared to rein in conversations which labour a point with no apparant solution
 * Read around the workshop topic to be at the very least prepared enough to engage with participants at a high or abstract level
 * Offer opportunities to network and make sure you make every effort to speak to all participants 
 
@@ -132,6 +132,7 @@ These insights can help a team to develop a roadmap for the tool to plan out fut
 * UX and UI design are specialised skills that researchers are not expected to be familiar with, so consult available resources and bring in a professional team when possible!
 * Look for design firms that focus on coaching and prioritise user accessibility and an open, collaborative process. 
 Working with designers on a fixed project will improve the UX of your tool in the immediate term, but learning these skills as a team will allow you to consider UX and apply design tools at each stage of your project's lifecycle.
+* If in doubt or short of time, have a user try out your tool and ask them open ended questions about their experience. You'll be surprised at how much you can learn from doing this a few times!
 
 (cl-stakeholder-impact-assessment)=
 ## Stakeholder Impact Assessments
