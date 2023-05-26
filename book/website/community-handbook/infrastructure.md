@@ -1,7 +1,7 @@
 (ch-infrastructure)=
 # Infrastructure
 
-The Turing Way consists of many parts which need to work together to make sure the book can be build, looks correct and is available on the internet.
+The Turing Way consists of many parts which need to work together to make sure the book can be built, renders correctly and is available on the internet.
 There are processes to build, deploy and ensure the quality of the book.
 There is also configuration which may direct those processes or the site.
 Collectively we call these things infrastructure.
