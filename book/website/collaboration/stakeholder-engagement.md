@@ -1,5 +1,4 @@
 (cl-stakeholder-engagement)=
-
 # Facilitating Stakeholder Engagement
 
 When working with stakeholders beyond your own team, there are many tools and best practices for improving the quality of engagement through activities like mapping relevant project stakeholders, organising stakeholder workshops, establishing shared language and understanding, and creating the foundation for effective collaboration.
@@ -18,21 +17,22 @@ Stakeholder mapping is a core activity of many {ref}`Research Infrastructure Rol
 - {ref}`Research Application Managers<cl-infrastructure-ram>` may use this to categorise and prioritise different kinds of users of research outputs, such as local government vs. industry partners.
 - Research Project Managers may use this for project reporting and evaluation purposes and identifying who to invite for a certain meeting.
 
+Stakeholder mapping is not meant to be a single source of truth.
+It is a tool to capture a team's understanding of the stakeholder landscape, clarify relationships, and surface groups that may share common characteristics or challenges. 
+A well thought-out, detailed stakeholder map will facilitate bringing a team onto the same page, which can help with developing engagement pipelines. 
+
 ### Example resources
 - The Alan Turing Institute, Tools, Practices, and Systems programme [stakeholder mapping template](https://miro.com/app/board/uXjVMGIR93o=/?share_link_id=456301587406)
 
 ### RAM insights
-Stakeholder mapping is not meant to be a single source of truth.
-It is a tool to capture a team's understanding of the stakeholder landscape, clarify relationships, and surface groups that may share common characteristics or challenges. 
-Whilst this resource may not provide specific solutions to successful stakeholder engagement, a well thought-out, detailed stakeholder map will help facilitate bringing a team onto the same page, which can help with developing engagement pipelines.
-Teams should be encouraged to define their own metrics for mapping stakeholders on a matrix for prioritisation. 
-These metrics should be carefully chosen to represent the key stakeholder considerations and project team goals. For example, as part of the mapping, the team may try to:
-* Establish a community of practice for project governance.
-* Prioritise communication methods and cadence for different stakeholder groups.
-* Identify which groups may be negatively impacted by a research output.
-* Identify which stakeholders are most prepared or willing to adopt a particular research output.
-
+- Teams should be encouraged to define their own metrics for mapping stakeholders on a matrix for prioritisation. 
 Choosing the right metrics will help identify the most important stakeholders to engage.
+- These metrics should be carefully chosen to represent the key stakeholder considerations and project team goals. 
+For example, as part of the mapping, the team may try to:
+   - Establish a community of practice for project governance.
+   - Prioritise communication methods and cadence for different stakeholder groups.
+   - Identify which groups may be negatively impacted by a research output.
+   - Identify which stakeholders are most prepared or willing to adopt a particular research output.
 
 (cl-stakeholder-req-gathering)=
 ## Requirements gathering & alignment
@@ -47,11 +47,11 @@ Once the information is gathered in a single place, you can identify questions a
 - Turing RAM team [requirements gathering questionnaire example](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/requirements_gathering.md) for understanding different team approaches to creating case studies.
 
 ### RAM insights
-* Often times different people will use the same term to mean completely different things or for different purposes.
+- Often times different people will use the same term to mean completely different things or for different purposes.
 This exercise can help detangle the nuances of commonly used terms and whether or not there is overlap in the collaborators' understandings of it, and thus provides an opportunity to build shared understanding and goals.
-* A good measure of success for requirements gathering & alignment is a glossary of terms and concepts that the project team and additional stakeholders have created together, and can refer back to when confusion or misunderstanding arises.
+- A good measure of success for requirements gathering & alignment is a glossary of terms and concepts that the project team and additional stakeholders have created together, and can refer back to when confusion or misunderstanding arises.
 This glossary should be a living and breathing document, that can be updated, and terms redefined, as the team's knowledge and expertise grows.
-* It is also hard to overstate the importance of having shared language and understanding in a project team - not embedding this at an early stage can allow miscommunication and misinterpretation to snowball into highly incompatible outputs, that don't represent the team, community or userbase!
+- It is hard to overstate the importance of having shared language and understanding in a project team - not embedding this at an early stage can allow miscommunications and misinterpretations to snowball into highly incompatible outputs that don't represent the team, community or userbase!
 
 (cl-stakeholder-workshops)=
 ## Organising stakeholder workshops
@@ -67,9 +67,9 @@ We think it's important to prepare for each stage with equal weight and consider
 - [RAM Stakeholder Workshop Checklist](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/stakeholder_workshops.md) with key steps and considerations the pre-workshop, workshop, and post-workshop stages
 
 ### RAM insights
-* Be prepared to rein in conversations which labour a point with no apparent solution
-* Read around the workshop topic to be at the very least prepared enough to engage with participants at a high or abstract level
-* Offer opportunities to network and make sure you make every effort to speak to all participants 
+- Be prepared to rein in conversations which labour a point with no apparent solution
+- Read around the workshop topic to be at the very least prepared enough to engage with participants at a high or abstract level
+- Offer opportunities to network and make sure you make every effort to speak to all participants 
 
 (cl-stakeholder-strategy-workshops)=
 ## Strategy alignment workshops
@@ -78,34 +78,29 @@ We think it's important to prepare for each stage with equal weight and consider
 A group of collaborators will struggle to work together and progress if its members do not agree on what they are trying to achieve together. 
 Strategy alignment goes deeper than agreeing on day to day work - it asks what the team chooses to prioritise, what they value, what motivates them, and ultimately what real-world impact they hope to see from their work.
 A helpful model to inform this exercise is Simon Sinek's [Golden Circle method](https://www.smartinsights.com/digital-marketing-strategy/online-value-proposition/start-with-why-creating-a-value-proposition-with-the-golden-circle-model/), where the team approaches their work in the following order:
-* Why: Why are we doing what we're doing? 
-    * This is the ultimate 'North Star' or 'vision' of the project - the fundamental, emotive reason the work is being done.
-* How: How do we achieve our mission? 
-    * This question concerns the broad focus areas, or 'pillars' that set up the project to achieve the vision.
-* What: What do we actually do?
-    * This question takes the why and the how, and identifies key activities that teams can undertake to achieve their goals.
+- Why: Why are we doing what we're doing? 
+    - This is the ultimate 'North Star' or 'vision' of the project - the fundamental, emotive reason the work is being done.
+- How: How do we achieve our mission? 
+    - This question concerns the broad focus areas, or 'pillars' that set up the project to achieve the vision.
+- What: What do we actually do?
+    - This question takes the why and the how, and identifies key activities that teams can undertake to achieve their goals.
 
 It is important to take these conversations in order, so that strategy alignment can be built from the bottom-up.
 
 ### Example resources
 - [Further RAM Guidance](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/team_strategy.md) on facilitating Why/How/What conversations
-
-### RAM insights
-Using the basic "Why/How/What" format as a starting point for the conversation helps provide focus and clarity and can lead to a better outcome. 
-As with all frameworks, this starting point should be adapted to match the understanding and ways of working of the specific project team.
-By not overstructuring the conversation, you will also allow people the space to express their thoughts freely. We feel this is an important approach as it allows open conversations to happen and things to emerge that otherwise might not.
-Strong facilitation skills are crucial, including reading the room and identifying patterns in the conversation. 
-Doing this effectively takes a long time - at least 2 hours per session (we recommend a minimum of 6 hours, if not longer). 
-These sessions should be separated and standalone (for instance, 2 hours slots on different days), but close enough together to ensure continuity. 
-We recommend scheduling all sessions in advance, to reserve team member's time and ensure small gaps between each session.
-
-A lot of content will be covered in this session. 
-We strongly recommend creating a synthesized output from these sessions that can be referred back to by any project team member. 
-A great example is a comprehensive, professional slide deck, that not only serves as a resource for the team, but can be used both internally and externally by any team member to communicate the project to stakeholders.
-
-For more on effective facilitation, check out:
 - {ref}`Chairing Events <cl-chairing>`
 - {ref}`Tools for Collaboration <cl-event-tools>`
+
+### RAM insights
+- Using the basic "Why/How/What" format as a starting point for the conversation helps provide focus and clarity and can lead to a better outcome. 
+As with all frameworks, this starting point should be adapted to match the understanding and ways of working of the specific project team.
+- By not overstructuring the conversation, you will also allow people the space to express their thoughts freely. 
+We feel this is an important approach as it allows open conversations to happen and things to emerge that otherwise might not.
+- Strong facilitation skills are crucial, including reading the room and identifying patterns in the conversation. 
+- Doing this effectively takes a long time - at least 2 hours per session (we recommend a minimum of 6 hours, if not longer). 
+These sessions should be separated and standalone (for instance, 2 hours slots on different days), but close enough together to ensure continuity- schedule all session well ahead of time so that all team members can attend all sessions.
+- A synthesized output from these sessions, such as a comprehensive, professional slide deck, can be used both internally and externally by any team member to communicate the project to stakeholders.
 
 (cl-stakeholder-user-design)=
 ## User-centric design
@@ -127,10 +122,10 @@ These insights can help a team to develop a roadmap for the tool to plan out fut
 - Nielsen Norman [heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
 ### RAM insights
-* UX and UI design are specialised skills that researchers are not expected to be familiar with, so consult available resources and bring in a professional team when possible!
-* Look for design firms that focus on coaching and prioritise user accessibility and an open, collaborative process. 
+- UX and UI design are specialised skills that researchers are not expected to be familiar with, so consult available resources and bring in a professional team when possible!
+- Look for design firms that focus on coaching and prioritise user accessibility and an open, collaborative process. 
 Working with designers on a fixed project will improve the UX of your tool in the immediate term, but learning these skills as a team will allow you to consider UX and apply design tools at each stage of your project's lifecycle.
-* If in doubt or short of time, have a user try out your tool and ask them open ended questions about their experience. You'll be surprised at how much you can learn from doing this a few times!
+- If in doubt or short of time, have a user try out your tool and ask them open ended questions about their experience. You'll be surprised at how much you can learn from doing this a few times!
 
 (cl-stakeholder-impact-assessment)=
 ## Stakeholder Impact Assessments
@@ -164,4 +159,4 @@ Impact-informed guidance for conducting a Stakeholder Engagement Process (SEP) c
 The SEP is a complementary process that precedes SIAs and provides reflection questions set to identify and analyse project stakeholders, and reflect on team positionality in relation to project stakeholders. 
 These questions support teams in determining proportional engagement objectives and methods for conducting Stakeholder Impact Assessments. 
 
-* The Turing Commons AI Ethics and Governance Skills Track also provides [further guidance] (https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/chapter3/impact/) on skills for conducting SIAs. 
+* The Turing Commons AI Ethics and Governance Skills Track also provides [further guidance](https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/chapter3/impact/) on skills for conducting SIAs. 
