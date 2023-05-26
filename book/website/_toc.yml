@@ -8,7 +8,6 @@
 # - header: My Header  # Will insert a header with no link in the sidebar
 
 # ===== Main Landing Page ========================================
-
 format: jb-book
 root: index
 parts:
@@ -521,6 +520,15 @@ parts:
                 file: collaboration/new-community/new-community-differences
               - title: Teamwork
                 file: collaboration/new-community/new-community-teamwork
+          - title: Academic-Industry Collaborations
+            file: collaboration/academic-industry
+            sections:
+              - title: Establishing an Academic-Industry Collaboration
+                file: collaboration/academic-industry/academic-industry-establish
+              - title: Community Building in an Academic-Industry Collaboration
+                file: collaboration/academic-industry/academic-industry-community
+              - title: Turing-Roche Community Activities Personal Story
+                file: collaboration/academic-industry/academic-industry-personal-story
           - title: Team Manual
             file: collaboration/team-manual
           - title: Leadership in Data Science
