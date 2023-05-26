@@ -15,7 +15,7 @@ This helps establish a shared understanding of who is involved in what capacity,
 This activity is also often a precursor to other engagement activities such as impact assessment and user experience workshop as stakeholder maps can help identify who should be centered in the research process.
 Stakeholder mapping is a core activity of many {ref}'Research Infrastructure Roles<cl-research-infrastructure-roles>' and may serve different goals, for example:
 - {ref}'Research Community Managers<cl-infrastructure-community-managers>' may use this to establish a project governance structure and decide the most effective methods and channels for communication with each stakeholder.
-- Research Application Managers may use this to categorise and prioritise different kinds of users of research outputs, such as local government vs. industry partners.
+- {ref}'Research Application Managers<cl-infrastructure-ram>' may use this to categorise and prioritise different kinds of users of research outputs, such as local government vs. industry partners.
 - Research Project Managers may use this for project reporting and evaluation purposes and identifying who to invite for a certain meeting.
 
 ### Example resources
