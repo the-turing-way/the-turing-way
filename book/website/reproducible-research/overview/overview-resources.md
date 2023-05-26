@@ -34,7 +34,7 @@ List of some tools and training materials for using the command-line:
 - An article on [Command Line Tutorial: Usage in Linux and macOS](https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/)
 - A lesson on [Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
 
-To ease your journey, here are two tips which should make onboarding much easier:
+Some nice-to-know tips:
 
 - Get your terminal at the right folder:
   - If you right click folders, you may have a function to open a terminal there
