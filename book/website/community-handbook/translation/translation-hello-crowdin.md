@@ -1,6 +1,6 @@
 (ch-translation-gateway-crowdsourced-localization)=
 
-# Your Gateway to Crowdsourced Localization
+# Your Gateway to Crowdsourced Localisation
 
 [Crowdin](https://crowdin.com/) editor is your friend.
 You can use it to change translation language, proofread, add comments for contributors, contact the managers, vote translations, view suggestions for translation from translation memory or find Machine Translation from Google, Crowdin, DeepL, and others.
