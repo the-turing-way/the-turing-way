@@ -20,7 +20,7 @@ alt: A sketch showing how continuous integration helps developers plan, design, 
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
-## How this will help you/ why this is useful
+## How this will help you / why this is useful
 
 CI has a number of key benefits:
 

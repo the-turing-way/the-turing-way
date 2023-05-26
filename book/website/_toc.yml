@@ -8,7 +8,6 @@
 # - header: My Header  # Will insert a header with no link in the sidebar
 
 # ===== Main Landing Page ========================================
-
 format: jb-book
 root: index
 parts:
@@ -510,6 +509,8 @@ parts:
             file: collaboration/informal-chats
           - title: Tools for Facilitating Collaboration
             file: collaboration/event-tools
+          - title: Facilitating Stakeholder Engagement
+            file: collaboration/stakeholder-engagement
           - title: Managing a New Community and Team
             file: collaboration/new-community
             sections:
@@ -521,13 +522,30 @@ parts:
                 file: collaboration/new-community/new-community-differences
               - title: Teamwork
                 file: collaboration/new-community/new-community-teamwork
+          - title: Academic-Industry Collaborations
+            file: collaboration/academic-industry
+            sections:
+              - title: Establishing an Academic-Industry Collaboration
+                file: collaboration/academic-industry/academic-industry-establish
+              - title: Community Building in an Academic-Industry Collaboration
+                file: collaboration/academic-industry/academic-industry-community
+              - title: Turing-Roche Community Activities Personal Story
+                file: collaboration/academic-industry/academic-industry-personal-story
           - title: Team Manual
             file: collaboration/team-manual
-          - title: Leadership in Data Science
+          - title: Open Leadership in Data Science
             file: collaboration/leadership
             sections:
-              - title: Personal Stories of Leadership
-                file: collaboration/leadership/leadership-stories
+              - title: Important Features of Leadership
+                file: collaboration/leadership/leadership-features
+              - title: Building Healthy Leadership Skills
+                file: collaboration/leadership/leadership-building
+              - title: Creating Leadership Opportunities
+                file: collaboration/leadership/leadership-opportunities
+              - title: Personal Story from Running a Hackathon
+                file: collaboration/leadership/leadership-story-hackathon
+              - title: Personal Story of Leadership by a Data Librarian
+                file: collaboration/leadership/leadership-story-data-librarian
           - title: Research Infrastructure Roles
             file: collaboration/research-infrastructure-roles
             sections:
@@ -558,6 +576,15 @@ parts:
                 file: collaboration/remote-collab/remote-collab-team
               - title: Useful Resources
                 file: collaboration/remote-collab/remote-collab-useful-resources
+          - title: Hybrid Collaboration
+            file: collaboration/hybrid-collab
+            sections:
+              - title: Challenges faced during Hybrid Collaboration
+                file: collaboration/hybrid-collab/hybrid-collab-challenges
+              - title: Guidelines for Hybrid Collaboration
+                file: collaboration/hybrid-collab/hybrid-collab-guidelines
+              - title: Resources
+                file: collaboration/hybrid-collab/hybrid-collab-resources
           - title: Shared Ownership in Open Source Projects
             file: collaboration/shared-ownership
             sections:
