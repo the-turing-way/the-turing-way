@@ -115,6 +115,10 @@ These insights can help a team to develop a roadmap for the tool to plan out fut
 - Read the Docs [documentation hosting](https://readthedocs)
 - Nielsen Norman [heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
+### RAM insights
+* UX and UI design are specialised skills that researchers are not expected to be familiar with, so consult available resources and bring in a professional team when possible!
+* Look for design firms that focus on coaching and prioritise user accessibility and an open, collaborative process. Working with designers on a fixed project will improve the UX of your tool in the immediate term, but learning these skills as a team will allow you to consider UX and apply design tools at each stage of your project's lifecycle.
+
 ## Stakeholder Impact Assessments
 ### Key question: How can we develop projects with continual sensitivity to the ways in which these impact stakeholders?
 
