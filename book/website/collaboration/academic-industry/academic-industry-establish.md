@@ -1,9 +1,9 @@
 (cl-academic-industry-establish)=
-## Establishing an Academic-Industry Collaboration
+# Establishing an Academic-Industry Collaboration
 
 (cl-academic-industry-establish-initial)=
 
-### Initial Interactions
+## Initial Interactions
 
 There is no standard route to setting up an academic-industry collaboration. 
 These collaborations may spring from small organic interactions such as researchers connecting at a conference, or may be driven more 'formally' by a partnerships team at either organisation. 
@@ -19,7 +19,7 @@ This allowed both parties to see that they could productively work together, and
 
 (cl-academic-industry-establish-setup)=
 
-### Collaboration Set-up
+## Collaboration Set-up
 
 A new academic-industry collaboration will require developing and scoping a scientific/research strategy. 
 Alongside this, negotiating formal documents will require much discussion, such as legal contracts that consider intellectual property and data sharing. 
@@ -39,9 +39,9 @@ Based upon these the partnership settled on research areas that fitted the prior
 
 (cl-academic-industry-establish-governance)=
 
-### Governance
+## Governance
 
-#### Team Charter 
+### Team Charter 
 
 With any collaboration, its important to plan how you're going to work together. 
 A worthwhile initial exercise can be collaboratively drafting a team charter. 
@@ -57,7 +57,7 @@ They developed an initial set of meetings which structured decision making proce
 
 They have since developed other meetings as needed, such as ad hoc strategy meetings to brainstorm new activities, ensuring they are on track for the partnership aims and to consider future opportunities and the legacy of the partnership; lab meetings to bring together the team and all researchers working on the scientific aims of the partnership and facilitate connections; and catch-ups between postdoctoral researchers for sharing preliminary work.
 
-#### Core Team Membership
+### Core Team Membership
 
 There are a number of considerations for establishing your core team for the collaboration:
 * How many people do you want from each organisation? Do you want equal numbers from each side?

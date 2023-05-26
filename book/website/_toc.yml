@@ -127,8 +127,6 @@ parts:
             sections:
               - title: Introduction to repositories
                 file: reproducible-research/repo/repo-intro
-              - title: Types of repositories
-                file: reproducible-research/repo/repo-types
               - title: Open Science Framework
                 file: reproducible-research/repo/repo-osf
           - title: Reproducible Environments

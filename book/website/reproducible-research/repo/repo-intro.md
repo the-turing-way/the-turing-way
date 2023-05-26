@@ -11,3 +11,23 @@ Selecting an appropriate repository for your research outputs has many benefits:
     - widely-used file formats. Many repositories have restrictions on the file formats used to store digital objects. They do this to ensure the sustainability of research objects, as some file formats (especially proprietary ones with a limited user base) can become deprecated.
 - it helps you choose the levels of access you want to give to different people. As covered in [Barriers to Data Sharing](https://the-turing-way.netlify.app/reproducible-research/open/open-data.html#barriers-to-data-sharing), there are good reasons to not to make all your research outputs completely open. However, it's still useful to put your digital objects in a repository and make the metadata public, but only allow people to access those digital objects if they have certain credentials or if they have been given explicit access. That way, your work will still be findable (because the metadata are public) and secure (because you can control who has access).
 - it helps you comply with the GDPR, if you process data of European citizens. Under the GDPR, storing data of European citizens outside of the EU/EEA is considered an international data transfer, which introduces complications to data sharing. There are many repositories that either have servers only in Europe, or in multiple locations in the world and allow you to choose where you would like your data to be stored.
+
+## Types of repositories
+
+### For All kinds of Research Objects
+- [Zenodo](https://zenodo.org/)
+- [Figshare](https://figshare.com/)
+- [Open Science Framework (OSF)](https://osf.io/)
+- [Rohub](https://reliance.rohub.org/)
+
+### Generic data repositories
+- [Dryad](https://datadryad.org/stash)
+- [Dataverse Project](https://dataverse.org/)
+- [4TU.ResearchData](https://data.4tu.nl/)
+
+### Generic code repositories
+- [GitHub](https://github.com/)
+- [GitLab](https://about.gitlab.com/)
+- [BitBucket](https://bitbucket.org/product)
+
+There are specific repository types for hosting discipline specific, institutional, consortia/collaboration-related, national and multi-national research objects, which we welcome you to add in this list.
