@@ -46,7 +46,7 @@ Once the information is gathered in a single place, you can identify questions a
 - Turing RAM team [requirements gathering questionnaire example](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/requirements_gathering.md) for understanding different team approaches to creating case studies.
 
 ### RAM insights
-* Often times different people will use the same term to mean completely different things or for different purposes
+* Often times different people will use the same term to mean completely different things or for different purposes.
 This exercise can help detangle the nuances of commonly used terms and whether or not there is overlap in the collaborators' understandings of it, and thus provides an opportunity to build shared understanding and goals.
 * Requirements gathering is informed by the user interview process from the design and qualitative research worlds
 
@@ -130,7 +130,8 @@ These insights can help a team to develop a roadmap for the tool to plan out fut
 
 ### RAM insights
 * UX and UI design are specialised skills that researchers are not expected to be familiar with, so consult available resources and bring in a professional team when possible!
-* Look for design firms that focus on coaching and prioritise user accessibility and an open, collaborative process. Working with designers on a fixed project will improve the UX of your tool in the immediate term, but learning these skills as a team will allow you to consider UX and apply design tools at each stage of your project's lifecycle.
+* Look for design firms that focus on coaching and prioritise user accessibility and an open, collaborative process. 
+Working with designers on a fixed project will improve the UX of your tool in the immediate term, but learning these skills as a team will allow you to consider UX and apply design tools at each stage of your project's lifecycle.
 
 (cl-stakeholder-impact-assessment)=
 ## Stakeholder Impact Assessments
@@ -159,6 +160,9 @@ These re-assessments are used to determine engagement objectives and methods for
 
 
 ### RAM insights
-* Ensuring that SIA outcomes accurately reflect the experiences of impacted stakeholders is critical for this tool to achieve its purpose, for this reason, taking a methodological approach to determining proportional levels of engagement is very important. Impact-informed guidance for conducting a Stakeholder Engagement Process (SEP) can be found in the [Turing Commons AI Ethics and Governance Skills Track](https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/chapter3/engagement/). The SEP is a complementary process that precedes SIAs and provides reflection questions set to identify and analyse project stakeholders, and reflect on team positionality in relation to project stakeholders. These questions support teams in determining proportional engagement objectives and methods for conducting Stakeholder Impact Assessments. 
+* Ensuring that SIA outcomes accurately reflect the experiences of impacted stakeholders is critical for this tool to achieve its purpose, for this reason, taking a methodological approach to determining proportional levels of engagement is very important. 
+Impact-informed guidance for conducting a Stakeholder Engagement Process (SEP) can be found in the [Turing Commons AI Ethics and Governance Skills Track](https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/chapter3/engagement/).
+The SEP is a complementary process that precedes SIAs and provides reflection questions set to identify and analyse project stakeholders, and reflect on team positionality in relation to project stakeholders. 
+These questions support teams in determining proportional engagement objectives and methods for conducting Stakeholder Impact Assessments. 
 
 * The Turing Commons AI Ethics and Governance Skills Track also provides [further guidance] (https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/chapter3/impact/) on skills for conducting SIAs. 
