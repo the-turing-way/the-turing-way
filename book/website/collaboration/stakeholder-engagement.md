@@ -19,7 +19,7 @@ Stakeholder mapping is a core activity of many Research Infrastructure Roles and
 - Research Project Managers may use this for project reporting and evaluation purposes and identifying who to invite for a certain meeting.
 
 ### Example resources
-- Turing Tools, Practices, and Systems team [stakeholder mapping template](https://miro.com/app/board/uXjVMGIR93o=/?share_link_id=456301587406)
+- The Alan Turing Institute, Tools, Practices, and Systems programme [stakeholder mapping template](https://miro.com/app/board/uXjVMGIR93o=/?share_link_id=456301587406)
 
 ### RAM insights
 Stakeholder mapping is not meant to be a single source of truth.
@@ -27,10 +27,10 @@ It is a tool to capture a team's understanding of the stakeholder landscape, cla
 Whilst this resource may not provide specific solutions to successful stakeholder engagement, a well thought-out, detailed stakeholder map will help facilitate bringing a team onto the same page, which can help with developing engagement pipelines.
 Teams should be encouraged to define their own metrics for mapping stakeholders on a matrix for prioritisation. 
 These metrics should be carefully chosen to represent the key stakeholder considerations and project team goals. For example, as part of the mapping, the team may try to:
-    * Establish a community of practice for project governance
-    * Prioritise communication methods and cadence for different stakeholder groups
-    * Identify which groups may be negatively impacted by a research output
-    * Identify which stakeholders are most prepared to adopt a particular research output
+    * Establish a community of practice for project governance.
+    * Prioritise communication methods and cadence for different stakeholder groups.
+    * Identify which groups may be negatively impacted by a research output.
+    * Identify which stakeholders are most prepared or willing to adopt a particular research output.
   Choosing the right metrics will help identify the most important stakeholders to engage.
 
 (cl-stakeholder-req-gathering)=
@@ -40,10 +40,10 @@ These metrics should be carefully chosen to represent the key stakeholder consid
 Requirements gathering is a helpful exercise used to collect information from different stakeholders involved in a project which can then be used to mitigate potential misunderstanding, map shared terminology, and identify opportunities for collaboration. 
 When bringing people from different backgrounds or organisations into a collaboration, it can be helpful to align on shared language and understanding on key concepts relevant to a project.
 This is motivated by the fact that different teams may have different ways of working and understandings of project outputs like "case study" or "user-friendly website" which can lead to miscommunication or misalignment of expectations.
-Once the information is gathered in a single place, you can identify key questions and highlights from the interviews to prompt group discussion for alignment.
+Once the information is gathered in a single place, you can identify questions and highlights from the interviews to prompt group discussion for alignment.
 
 ### Example resources
-- Turing RAM team [requirements gathering questionnaire example](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/requirements_gathering.md) for understanding different team approaches to creating case studies
+- Turing RAM team [requirements gathering questionnaire example](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/requirements_gathering.md) for understanding different team approaches to creating case studies.
 
 ### RAM insights
 * Often times different people will use the same term to mean completely different things or for different purposes
@@ -72,25 +72,27 @@ We think it's important to prepare for each stage with equal weight and consider
 ## Strategy alignment workshops
 ### Key question: How can we bring different ideas across a group of collaborators into a shared strategy?
 
-A group of collaborators will struggle to work together and progress if its members are not aligned on what they are trying to achieve together. 
+A group of collaborators will struggle to work together and progress if its members do not agree on what they are trying to achieve together. 
 Strategy alignment goes deeper than agreeing on day to day work - it asks what the team chooses to prioritise, what they value, what motivates them, and ultimately what real-world impact they hope to see from their work.
 A helpful model to inform this exercise is Simon Sinek's [Golden Circle method](https://www.smartinsights.com/digital-marketing-strategy/online-value-proposition/start-with-why-creating-a-value-proposition-with-the-golden-circle-model/), where the team approaches their work in the following order:
 * Why: Why are we doing what we're doing? 
-    * This is the ultimate 'North Star' or 'vision' of the project - the fundamental, emotive reason the work is being done
+    * This is the ultimate 'North Star' or 'vision' of the project - the fundamental, emotive reason the work is being done.
 * How: How do we achieve our mission? 
-    * This question concerns the broad focus areas, or 'pillars' that setup up the project to achieve the vision
+    * This question concerns the broad focus areas, or 'pillars' that setup up the project to achieve the vision.
 * What: What do we actually do?
-    * This question takes the why and the how, and identifies key activities that teams can undertake to achieve their goals
+    * This question takes the why and the how, and identifies key activities that teams can undertake to achieve their goals.
 
-It is important to take these conversations in order, so that strategy alignment can build from the bottom-up.
+It is important to take these conversations in order, so that strategy alignment can be built from the bottom-up.
 
 ### Example resources
 - [Further RAM Guidance](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/team_strategy.md) on facilitating Why/How/What conversations
 
 ### RAM insights
-* Using this basic infrastructure for the conversation helps provide focus and clarity and can lead to a better outcome
-* By not overstructuring the conversation, you will also allow people the space to express their thoughts freely. We feel this is an important approach as it allows open conversations to happen and things to emerge that otherwise might not
-* Strong facilitation skills are crucial, including reading the room and identifying patterns in the conversation. For more on  effective facilitation, check out:
+Using the basic "Why/How/What" format for the conversation helps provide focus and clarity and can lead to a better outcome.
+By not overstructuring the conversation, you will also allow people the space to express their thoughts freely. We feel this is an important approach as it allows open conversations to happen and things to emerge that otherwise might not.
+Strong facilitation skills are crucial, including reading the room and identifying patterns in the conversation. 
+
+For more on effective facilitation, check out:
     * {ref}`Chairing Events <cl-chairing>`
     * {ref}`Tools for Collaboration <cl-event-tools>`
 
@@ -100,11 +102,11 @@ It is important to take these conversations in order, so that strategy alignment
 
 Although many research tools are created for a very narrow purpose, we encourage researchers to consider the user experience (UX) throughout the process and to incorporate UX design principles to make the tool more accesible and usable for all potential users. 
 Activities such as user journey mapping and user testing can greatly enhance your understanding of who is using the research tool and how they employ the tool in a real-world scenario.
-By considering potential users of the tool from the early stages of a project, you can include features that will make the tool more accessible to potential stakeholders and therefore more likely to be used and applied in practice. 
+By considering potential users of the tool from the early stages of a project, you can include features that will make the tool easier to use and more relevant to potential stakeholders, and therefore more likely to be used and applied in practice. 
 
 Existing resources can also benefit greatly from making improvements to the UX by establishing heuristics to define criteria for usability and to identify areas in need of improvement.
 By utilising exercises and heuristics designed specifically to consider and evaluate the user experience, researchers will examine the assumptions built into the tool and gain a deeper understanding of how it can serve different users types.
-These insights can help a team to develop a roadmap for the tool to plan out future developments with varied stakeholders in mind, leading to more meaningful stakeholder engagements based around a deeper understanding of how those stakeholders are interacting with and repurposing your research output.
+These insights can help a team to develop a roadmap for the tool to plan out future developments with varied stakeholders in mind, leading to more meaningful stakeholder engagements based around a deeper understanding of how those stakeholders are interacting with and repurposing a research output.
 
 ### Example resources
 - SuperBloom (formerly called Simply Secure) [Knowledge Base](https://simplysecure.org/knowledge-base/)
@@ -118,11 +120,11 @@ These insights can help a team to develop a roadmap for the tool to plan out fut
 
 Stakeholder Impact Assessments (SIAs) are a tool used to gain anticipatory insight into the project impacts, defined as the possible harms and benefits.
 SIAs take the form of questionnaires addressing the ethical permissibility, transparency, accountability, and equity of projects.
-We use SIAs to identify and document the full range of potential impacts and provide project teams a contextual awareness of the social environments impacted by their projects. 
-This activity can help teams steer the direction of their projects preventively to ensure that they support the wellbeing and sustainability of the individuals and communities they impact and mitigate any harms. 
+SIAs are used to identify and document the full range of potential impacts and provide project teams with a contextual awareness of the social environments impacted by their projects. 
+This activity can help teams steer the direction of their projects proactively to ensure that they support the wellbeing and sustainability of the individuals and communities they impact and mitigate any harms. 
 
 Evaluations of project impacts should ideally be done in collaboration with stakeholders. 
-In the context of SIAs, stakeholders are individuals and communities that are impacted or may impact projects.
+In the context of SIAs, stakeholders can be both individuals and communities that are impacted or may impact projects.
 Engaging stakeholders in conducting SIAs helps secure the accuracy and integrity of SIA outcomes. 
 This is because gaps in identity and experience between project teams and impacted individuals may cause there to be differences between how team members view project impacts and how stakeholders experience them. 
 Facilitating proportionate stakeholder engagement and input throughout the AI lifecycle is a way to gain a richer understanding of the impacts that projects may have on stakeholders. 
