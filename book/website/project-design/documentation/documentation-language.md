@@ -4,7 +4,7 @@
 <!-- Subchapter 2: Formatting Language and Platform -->
 
 ## Formatting Languages
-Formatting languages are used to define the structure of documents or text. They are use to control how elements such as text, images, and other media are displayed or rendered. Examples of commonly used formatting languages includes: HTML, Markdown,XML, JSON, YAML etc
+Formatting languages are used to define the structure of documents or text. They are use to control how elements such as text, images, and other media are displayed or rendered. Examples of commonly used formatting languages include: HTML, Markdown,XML, JSON, YAML.
 
 ### Markdown
 <https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
