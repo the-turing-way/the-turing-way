@@ -502,6 +502,8 @@ parts:
             file: collaboration/coworking
           - title: Organising Conferences
             file: collaboration/organising-conference
+             - title: Registration forms
+               file: collaboration/organising-conference/reg-forms
           - title: Chairing Events
             file: collaboration/chairing
           - title: Participating in Events
