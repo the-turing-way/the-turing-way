@@ -1,7 +1,7 @@
 (cl-leadership-features)=
 # Important Features of Leadership
 
-```{epigraph}
+```{note}
 "A leader is anyone who takes responsibility for finding the potential in people and processes and has the courage to develop that potential. 
 Leadership is not about titles or the corner office. It's about the willingness to step up, put yourself out there, and lean into courage.”
 
