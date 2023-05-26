@@ -7,6 +7,7 @@ Leadership is not about titles or the corner office. It's about the willingness 
 
 -- Brene Brown, [Dare to Lead](https://brenebrown.com/hubs/dare-to-lead/)
 ```
+
 Leaders empower others to identify solutions and make their own decisions to address the challenges they face.
 Leadership skill is involving the members of a group (that a leader aims to impact) in decision-making processes and not taking individual decisions for them ([Leader as an Activist](https://www.management-issues.com/opinion/6087/the-leader-as-activist/)).
 Leadership is different from operating individually, managing a task or administering a role in isolation.
@@ -18,9 +19,9 @@ With this basic understanding of leadership, we discuss some essential leadershi
 
 Like a project manager in a team-based research project or a tech company CEO, there are formally-assigned leadership positions.
 A company CEO have the power to make decisions to provide organisational resources which can impact the overall efficiency and the ability of teams to deliver on organisational goals.
- 
-However, they can not ensure that people in their organisation will complete their assigned projects. 
-Individuals within the teams who inspire their team members play huge role in keeping team motivated as they make progress in their own rights, and take on leadership roles themselves.
+
+They hire and assign leaders to lead different teams.
+Individuals within those teams also inspire other members, and play huge role in keeping team motivated as they make progress in their own rights, and take on leadership roles themselves.
 
 ## Emergent leadership
 
