@@ -4229,11 +4229,66 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "TanyaYankelevich",
+      "name": "Tanya Yankelevich",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107634879?v=4",
+      "profile": "https://www.tudelft.nl/open-science",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "luisaforozco",
+      "name": "Luisa Orozco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99738896?v=4",
+      "profile": "https://github.com/luisaforozco",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "jurra",
+      "name": "Jose Urra ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18581201?v=4",
+      "profile": "https://github.com/jurra",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "GabinWK",
+      "name": "GabinWK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104582708?v=4",
+      "profile": "https://github.com/GabinWK",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "hughesthe1st",
+      "name": "Sean Hughes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6203251?v=4",
+      "profile": "https://github.com/hughesthe1st",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "SaraVilla",
+      "name": "Sara Villa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43204602?v=4",
+      "profile": "https://github.com/SaraVilla",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
   "projectOwner": "alan-turing-institute",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "commitConvention": "none"
+  "commitConvention": "none",
+  "commitType": "docs"
 }
