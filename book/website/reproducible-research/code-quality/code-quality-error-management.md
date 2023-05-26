@@ -103,7 +103,7 @@ Whatever programming language you are using, errors already exist there.
 The good part about errors appearing, is that something has gone wrong, and your user knows about it.
 The bad part is that the message is likely not informative to your user:
 
-```
+```output
 object of type 'closure' is not subsettable
 ```
 
@@ -148,4 +148,4 @@ These qualities make a good error message:
 
 ## Read more
 
-This chapter is complementary to the chapter on {rr-testing}`testing`.
+This chapter is complementary to the chapter on {ref}`testing<rr-testing>`.
