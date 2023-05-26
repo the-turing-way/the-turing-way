@@ -8,16 +8,16 @@ While infrastructure can be defined in many ways, collectively we call these thi
 
 Some examples include:
 
-- Instructions to build the site from the source files
-- Continuous integration tasks to look for problems in the source
+- Instructions to build the site from the source files, both {ref}`locally<ch-local-build>` and [for deployment](https://github.com/alan-turing-institute/the-turing-way/blob/main/netlify.toml)
+- Continuous integration {term}`Continuous Integration` tasks to look for problems in the source
 - Redirect rules to help site navigation and avoid '404 Not Found'
-- Hosting, domains and DNS
+- Hosting {term}`Hosting` and {term}`DNS`
 
 Some of this is controlled by data in the repository itself.
 For example, quality control process to ensure the book will build and help maintain accessibility standards are part of the {ref}`Continuous Integration<rr-ci>` process and described in the [.github/workflows/](https://github.com/alan-turing-institute/the-turing-way/tree/main/.github/workflows) directory.
 
 Some aspects may not declared in the repository.
-For example, hosting is provided by Netlify which holds its own configuration.
+For example, hosting is provided by Netlify which holds some of its own configuration.
 
 This section of the book describes infrastructure that The Turing Way uses.
 The aim is to demystify how things work, ensure that the infrastructure is described openly, and to help people contribute to infrastructure.

@@ -138,6 +138,10 @@ Differential privacy
 DMP
   Data management plan.
 
+DNS
+  Domain Name System.
+  The system which translates domain names, for example the-turing-way.netlify.app, to the IP addressess used by computer networks.
+
 Docker Container
   An active computational environment executed from a Docker image.
 
@@ -233,6 +237,11 @@ Helm
 
 Honorary authorship
  This is when an individual becomes a named author even though they have not made a substantial contribution and/or met authorship criteria.
+
+Hosting
+  A service which makes data, such as a website, available on the internet.
+  It is possible to self-host, using your own infrastructure.
+  However, it is common to use a third-party, often commerical, hosting provider.
 
 Human Readable
   A human readable medium or human readable format is any encoding of data or information that can be naturally read by humans. Some human readable formats, such as PDF, are not machine readable as they are not structured data, such as the representation of the data on disk does not represent the actual relationships present in the data.
