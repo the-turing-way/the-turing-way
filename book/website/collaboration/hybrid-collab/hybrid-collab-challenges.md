@@ -6,18 +6,18 @@ This means overcoming the hurdle of bridging the gap between in-person and virtu
 Achieving this balance between online and in-person participants is crucial for fostering effective teamwork and maximizing productivity in a hybrid environment.
 Some of the challenges faced in hybrid settings are highlighted in this chapter.
 
-### Social networking in hybrid settings
+## Social networking in hybrid settings
 
 In a hybrid work setting, the task of building and maintaining a local network becomes more challenging due to limited natural social interactions and a systematic imbalance between in-person and online groups. 
 It can also be a challenge for the in-person participants to simultaneously manage interactions with people online and people in the same in-person setting as them.
 
-### Communication tools used for hybrid environments
+## Communication tools used for hybrid environments
 The variety of communication tools used in remote and hybrid work presents challenges for inclusiveness and involves asynchronous communication. 
 Different tools serve various purposes, such as messaging, video chat, collaborative software development, and traditional methods like email. 
 Poorly organised hybrid events can isolate online participants, and incorporating physical tools into online streaming is complex. 
 Hybrid meetings require different etiquette, and unequal access to communication tools may exclude some individuals, especially those at early career stage who might still be exploring how to navigate such spaces.
 
-### Lack of space to focus and be attentive
+## Lack of space to focus and be attentive
 There are disparities in facilities and services between in-person and online settings.
 Distraction comes easily with an online set up.
 When online, individuals may encounter higher levels of noise and distractions due to personal responsibilities that are not immediately apparent, such as caring for children or elderly family members. 
