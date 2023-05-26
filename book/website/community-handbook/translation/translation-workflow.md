@@ -39,8 +39,7 @@ Document the translation guidelines for your selected language to be discussed a
 Every team has a repository with these guidelines in the GitHub organisation. 
 Check examples for
 [Portuguese](https://github.com/TWTranslation/Portuguese_specific_translation_guidelines), [Arabic](https://github.com/TWTranslation/Arabic-specific-Translation-rules), and [Turkish](https://github.com/TWTranslation/Turkish-specific-Translation-rules).
-We have also set up a public page for _The Turing Way_ in [Crowdin](https://turingway.crowdin.com/turing-way) with a README file summarising some of the translation guidelines
-Make sure you read these guidelines before you start translating for the first time.
+We have also set up a public page for _The Turing Way_ in [Crowdin](https://turingway.crowdin.com/turing-way) with a README file summarising some of the translation guidelines. Make sure you read these guidelines before you start translating for the first time.
 
 
 ### Create and update a glossary
