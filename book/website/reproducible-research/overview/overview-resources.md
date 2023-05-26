@@ -36,7 +36,7 @@ List of some tools and training materials for using the command-line:
 
 Some nice-to-know tips:
 
-- Get your terminal at the right folder:
+- When working on the terminal please make sure that you are in the correct folder (also called as directory):
   - If you right click folders, you may have a function to open a terminal there
   - use `cd ..` to go in the parent folder (`cd` is to move into folders, `..` means up)
   - you can also type `cd ` (note the space) and then drag and drop a folder, its path will usually be autocompleted.
