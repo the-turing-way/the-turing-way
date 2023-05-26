@@ -11,7 +11,7 @@ These collaborations may spring from small organic interactions such as research
 Before jumping into a formal partnership, we recommend to first collaborate on a smaller project or task of shared interest. 
 This allows both organisations to see how the other works in practice (rather than any pre-concieved ideas), how you collaborate together and overall 'test the waters'. 
 
-In the case of the Turing-Roche partnership, the two organisations initially collaborated through a weeklong Turing Data Study Group {cite}`datastudygrouproche2020`. 
+In the case of the Turing-Roche partnership, the two organisations initially collaborated through a weeklong Turing Data Study Group {cite}`datastudygrouproche`. 
 
 At these collaborative hackathons, a challenger owner, in this case Roche, provides a dataset and a real-world problem to be solved by a team of researchers from the Turing network. 
 For Roche, the Data Study Group highlighted the research capabilities of the Turing Institute as well as importantly developing the initial relationship between Turing and Roche. 
