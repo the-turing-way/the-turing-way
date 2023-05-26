@@ -25,7 +25,9 @@ If you want to start learning hands-on practices, we recommend reading the {ref}
 ### Using the command line
 
 While most of what this book is about does not require the use of the command line, it often actually makes things easier. 
-Even when your visual abilities allows you to use efficiently your mouse, writing commands in the terminal/powershell/command is not that difficult.
+Writing commands in the terminal, PowerShell, command-line, or command prompt provides an alternative means of interacting with the computer.
+It offers several advantages and can be considered a beneficial approach for various reasons, including efficiency, independence on graphical user interfaces, flexibility, automation of tasks.
+Often, advanced tasks or options are only available as command line tools (for example advanced git, datalad. 
 You first need to know that linux and OSX use `bash` code natively, while the command line in windows uses `batch script`, which is a different language. 
 
 List of some tools and training materials for using the command-line:
