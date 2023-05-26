@@ -137,7 +137,7 @@ Therefore, this document is intended to be modified to make it specific for your
 - [ ] Email from a mailing list
 - [ ] Email from a colleague
 - [ ] I am staff member
-- [ ] Other [Please specify how you first heard about CW23.]
+- [ ] Other [Please specify how you first heard about the event.]
 
 26. How many of our events have you attended?
 - [ ] 1
