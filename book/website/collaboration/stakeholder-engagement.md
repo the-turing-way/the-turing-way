@@ -48,12 +48,9 @@ Once the information is gathered in a single place, you can identify questions a
 ### RAM insights
 * Often times different people will use the same term to mean completely different things or for different purposes.
 This exercise can help detangle the nuances of commonly used terms and whether or not there is overlap in the collaborators' understandings of it, and thus provides an opportunity to build shared understanding and goals.
-* Requirements gathering is informed by the user interview process from the design and qualitative research worlds
-
-### RAM Insights
-A good measure of success for requirements gathering & alignment is a glossary of terms and concepts that the project team and additional stakeholders have created together, and can refer back to when confusion or misunderstanding arises.
+* A good measure of success for requirements gathering & alignment is a glossary of terms and concepts that the project team and additional stakeholders have created together, and can refer back to when confusion or misunderstanding arises.
 This glossary should be a living and breathing document, that can be updated, and terms redefined, as the team's knowledge and expertise grows.
-It is also hard to overstate the importance of having shared language and understanding in a project team - not embedding this at an early stage can allow miscommunication and misinterpretation to snowball into highly incompatible outputs, that don't represent the team, community or userbase!
+* It is also hard to overstate the importance of having shared language and understanding in a project team - not embedding this at an early stage can allow miscommunication and misinterpretation to snowball into highly incompatible outputs, that don't represent the team, community or userbase!
 
 (cl-stakeholder-workshops)=
 ## Organising stakeholder workshops
