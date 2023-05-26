@@ -41,7 +41,7 @@ Some nice-to-know tips:
 - When working on the terminal please make sure that you are in the correct folder (also called as directory):
   - If you right click folders, you may have a function to open a terminal there
   - use `cd ..` to go in the parent folder (`cd` is to move into folders, `..` means up)
-  - you can also type `cd ` (note the space) and then drag and drop a folder, indeed drag and drop does autocomplete the folder's path into the terminal.
+  - you can also type `cd ` (note the space) and then drag and drop a folder. This action would autocomplete the folder's path into the terminal.
 
 - The superpower developers use all the time and will never think you do not know about it: use the tab on your keyboard to get automatic text completion.
 
