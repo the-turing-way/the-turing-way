@@ -96,7 +96,7 @@ As with all frameworks, this starting point should be adapted to match the under
 By not overstructuring the conversation, you will also allow people the space to express their thoughts freely. We feel this is an important approach as it allows open conversations to happen and things to emerge that otherwise might not.
 Strong facilitation skills are crucial, including reading the room and identifying patterns in the conversation. 
 Doing this effectively takes a long time - at least 2 hours per session (we recommend a minimum of 6 hours, if not longer). 
-These sessions should be separated and standalone (i.e. 2 hours slots on different days), but close enough together to ensure continuity. 
+These sessions should be separated and standalone (for instance, 2 hours slots on different days), but close enough together to ensure continuity. 
 We recommend scheduling all sessions in advance, to reserve team member's time and ensure small gaps between each session.
 
 A lot of content will be covered in this session. 
