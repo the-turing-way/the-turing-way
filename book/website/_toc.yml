@@ -692,9 +692,9 @@ parts:
                 file: community-handbook/translation/translation-localisation
               - title: Welcome to the localisation team of The Turing Way!
                 file: community-handbook/translation/translation-workflow
-              - title: Localizing The Turing Way
+              - title: Embark on Your Localization Journey
                 file: community-handbook/translation/translation-getting-started
-              - title: Hello Crowdin!
+              - title: Your Gateway to Crowdsourced Localization
                 file: community-handbook/translation/translation-hello-crowdin
           - title: Monthly Newsletters
             file: community-handbook/newsletters
