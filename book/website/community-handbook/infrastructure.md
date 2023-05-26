@@ -6,7 +6,7 @@ There are processes to build, deploy and ensure the quality of the book.
 There is also configuration which may direct those processes or the site.
 While infrastructure can be defined in many ways, collectively we call these things infrastructure.
 
-Some examples include
+Some examples include:
 
 - Instructions to build the site from the source files
 - Continuous integration tasks to look for problems in the source
