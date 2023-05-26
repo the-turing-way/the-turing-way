@@ -4286,6 +4286,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "ciupava",
+      "name": "Anna Zanchetta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3450313?v=4",
+      "profile": "https://github.com/ciupava",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "projectName": "the-turing-way",
