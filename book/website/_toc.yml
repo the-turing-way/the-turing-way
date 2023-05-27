@@ -335,6 +335,11 @@ parts:
                 file: project-design/sdpw/pd-sdp-exposing-data
               - title: Further Recommendations
                 file: project-design/sdpw/pd-sdp-resources
+          - title: Data Governance
+            file: project-design/data-governance
+            sections:
+              - title: Data Governance for the Machine Learning Pipeline
+                file: project-design/data-governance/data-gov-ml
 
       # ===== Guide for Communication ========================================
 
