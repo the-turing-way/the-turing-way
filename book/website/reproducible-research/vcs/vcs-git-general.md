@@ -20,7 +20,7 @@ Especially, Git works best with small text files.
 Git starts to be impracticable when too many files are present, or when the repository becomes too big (1 TB is about the limit).
 As a Git repository stores every version of every file that is added to it, large files that undergo regular modifications can inflate the size of a·project significantly.
 In research projects, datasets often contains thousands of files and/or contain (very) large files.
-While one can use of Git for non-software application, one needs to plan to use specific workflows and/or additional tools to be able to use Git tools.
+While one can use Git for non-software application, one needs to plan to use specific workflows and/or additional tools to be able to use Git tools.
 It is particularly problematic because everything will work fine in the beginning and it is very difficult to solve issues when the project is ongoing.
 It is therefore important to plan ahead, and try to avoid big repositories.
 For instance, one can split the files into different repositories and save binary files outside of Git.
