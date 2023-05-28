@@ -92,7 +92,7 @@ DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 
 
 In each co-working or external session, prioritise those chapters that are outdated or close to completion. 
-Check out our [guidelines](ch-translation-localisation-journey) for a list of the priority list.
+Check out our {ref}`guidelines<ch-translation-localisation-journey>` for a list of the priority list.
 
 # Translation is a continuous process
 
