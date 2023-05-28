@@ -14,7 +14,7 @@ Data science practices can leverage the potential of the research workflow, in o
 Because each research project has a data science component, there are clear advantages to use data science practices for the management of all the data produced during research.
 In particular, the use of Git and GitHub is very appealing.
 However, GitHub is not enough to handle all research projects:
-- Data versioning needs special care, see the {ref}`section on data version control<rr-vcs-data>`
+- Data versioning needs special care, see the {ref}`section on data version control<rr-vcs-data>`.
 - Specific {ref}`folder structure<rr-rdm-storage-organisation>` help in the workflow.
 - They may be some legal issue to use an american tool for your data.
 
