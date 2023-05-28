@@ -3,7 +3,7 @@
 
 We are members of The Turing Way community with different motivations to localise the content to different languages.
 Feel free to join the `#translation` channel in [_The Turing Way_ slack](https://theturingway.slack.com).
-You will also have to create a Crowdin account but more on that [in the next section](#ch-translation-localisation-journey).
+You will also have to create a Crowdin account but more on that {ref}`in the next section<ch-translation-localisation-journey>`
 The team has a fortnightly call on Tuesdays at 5pm UTC to co-work, discuss, and check the progress of the translation.
 These sessions are open to anyone interested in participating.
 
