@@ -13,7 +13,7 @@ The deployment of these translated versions is work in progress, and some parts 
 
 ## Asynchronous translation
 
-Everyone interested in participating in a translation effort should be able to work asynchronously, so don't worry if you cannot join the bi-weekly calls. More info can be found in the next chapter about [our localisation workflow](https://deploy-preview-2202--the-turing-way.netlify.app/community-handbook/translation/getting-started.html).
+Everyone interested in participating in a translation effort should be able to work asynchronously, so don't worry if you cannot join the fortnightly calls. More info can be found in the next chapter about {ref}`our localisation workflow<ch-translation-localisation-journey>`.
 
 ## Join or create a language team
 
