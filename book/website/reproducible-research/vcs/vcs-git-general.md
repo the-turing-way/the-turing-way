@@ -1,7 +1,7 @@
 (rr-vcs-git-general)=
 # General information about git
 
-Git is a successful version control software (see [wikipedia](https://en.wikipedia.org/wiki/Git) for detailed information).
+Git is a successful version control software (see [Wikipedia](https://en.wikipedia.org/wiki/Git) for detailed information).
 It was created in 2005 and got rapidly adopted by software developers, especially because it is very fast and scalable. 
 Its functions allow for parallel development and maintenance of large projects, like linux development.
 
@@ -10,7 +10,7 @@ Its functions allow for parallel development and maintenance of large projects, 
 
 While developed for software, Git has been used for many different kind of projects and platforms such as GitHub, GitLab, Gogs, GitLea and others. 
 These platforms brought project management tools into the Git workflow, facilitating community building around projects like the Turing Way book. 
-Sometimes, users of these platform do not even know about git. 
+Sometimes, users of these platform do not even know about Git. 
 
 (rr-vcs-git-limitations)=
 ## Git Limitations

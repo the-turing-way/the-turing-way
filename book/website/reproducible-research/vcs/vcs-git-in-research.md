@@ -38,10 +38,10 @@ Here is a non-exhaustive list of features that a Git/GitHub workflow bring to da
 (rr-vcs-research-minus)=
 ## Issues
 
-As described in the {ref}`general section about git<rr-vcs-git-limitations>`, Git does not work well when there are a lot of data, or when the data are large.
+As described in the {ref}`general section about Git<rr-vcs-git-limitations>`, Git does not work well when there are a lot of data, or when the data are large.
 When you expect the project to get large, one needs to set a different tooling to avoid creating unpractical repositories.
 Some of these tools makes it more difficult to access or see you files, so it is important to plan in advance what tool will best suits your need.
-See the {ref}`section on data version control<rr-vcs-data>` for more detailed explanations. 
+See the {ref}`section on Data Version Control<rr-vcs-data>` for more detailed explanations. 
 
 **Briefly, in order to use Git when there are lots or large files, one needs to split the data in different repositories, and have these repositories use the git-annex technology.**
 
