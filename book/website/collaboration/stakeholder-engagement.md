@@ -125,7 +125,7 @@ Working with designers on a fixed project will improve the UX of your tool in th
 ## Stakeholder impact assessments
 ### Key question: How can we develop projects with continual sensitivity to the ways in which these impact stakeholders?
 
-Stakeholder impact assessments (SIAs) are a tool used to gain anticipatory insight into the project's likely impacts, defined as the possible [harms] (https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/chapter2/harms/#3-bias-injustice-and-discrimination) and benefits.
+Stakeholder impact assessments (SIAs) are a tool used to gain anticipatory insight into the project's likely impacts, defined as the possible [harms](https://alan-turing-institute.github.io/turing-commons/skills-tracks/aeg/chapter2/harms/#3-bias-injustice-and-discrimination) and benefits.
 SIAs take the form of questionnaires addressing the ethical permissibility, transparency, accountability, and equity of projects.
 SIAs are used to identify and document the full range of potential impacts and provide project teams with a contextual awareness of the social environments impacted by their projects. 
 This activity can help teams steer the direction of their projects preemptively to ensure that they support the wellbeing and sustainability of the individuals and communities they impact and mitigate any harms. 
