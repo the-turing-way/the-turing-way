@@ -44,6 +44,18 @@ alt: Global warming stripes, by Ed Hawkins.
 Global warming stripes, by Ed Hawkins.
 ```
 
+This more verbose figure makes it more explicit what the Global warming stripes. You can find these and more figures in the [canonical warming stripes page](https://showyourstripes.info/s/globe).
+
+```{figure} ../../figures/ GLOBE---1850-2022-MO-barslabel.*
+---
+height: 500px
+name: Bars with Scale, by Ed Hawkins.
+alt: Bars with Scale, by Ed Hawkins.
+---
+Bars with Scale, by Ed Hawkins.
+```
+
+
 
 (er-activism-env-impact-problems-from-rising-temp)=
 ### Problems from such rising temperatures
