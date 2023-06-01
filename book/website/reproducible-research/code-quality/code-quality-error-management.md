@@ -40,7 +40,8 @@ To identify assumptions in your code, you can ask yourself:
 
 - What type of object/data do I expect here?
 - What files need to exist for my workflow to run, and where?
-- ...
+- When calling a function, am I relying on default settings for arguments?
+- When a function returns multiple outputs, do I ensure they are in the right order?
 
 If you think critically, there is no end to the assumptions that you make.
 For instance, you assume that a built-in function you use works in a specific way.
