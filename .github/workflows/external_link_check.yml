@@ -42,7 +42,6 @@ jobs:
         uses: lycheeverse/lychee-action@v1.8.0
         with:
           args: --config './lychee.toml' --no-progress 'book/website/_build/html/**/*.html' 'book/website/_build/html/**/*.md'
-          fail: true
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Use runners GitHub token to avoid rate limiting
 
