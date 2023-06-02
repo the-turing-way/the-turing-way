@@ -90,7 +90,8 @@ glob_ignore_case = false
 # Exclude URLs and mail addresses from checking (supports regex).
 # exclude = [ '.*\.github.com\.*' ]
 exclude = [
-  "turing.ac.uk"
+  "turing.ac.uk",
+  "doi.org"
   ]
 
 # Exclude these filesystem paths from getting checked.
