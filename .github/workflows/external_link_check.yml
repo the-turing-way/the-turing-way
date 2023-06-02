@@ -45,3 +45,13 @@ jobs:
           fail: true
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Use runners GitHub token to avoid rate limiting
+
+      - name: Update Issue
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: Broken links
+          issue-number: 3171
+          content-filepath: ./lychee/out.md
+          token: ${{secrets.GITHUB_TOKEN}}
+          labels: |
+            infrastructure
