@@ -25,7 +25,7 @@ _The Turing Way_ is a handbook to reproducible, ethical and collaborative data s
 We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone.
 Our goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need at the start of their projects to ensure that they are easy to reproduce at the end.
 
-[![The Turing Way project is a book, community, an open-source project and a culture of collaboration. This is shown in four illustrations, the first one showing the Turing Way book, the second showing how the community can grow, the third one showing two people collaborating on a pull request, the last one is showing a balance where reproducibility is valued more than the number of papers published](book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1).
+[![The Turing Way project is a book, community, an open-source project and a culture of collaboration. This is shown in four illustrations, the first one showing the Turing Way book, the second showing how the community can grow, the third one showing two people collaborating on a pull request, the last one is showing a balance where reproducibility is valued more than the number of papers published](book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1)
 
 *The Turing Way is a book, a community and a global collaboration.*
 
@@ -116,7 +116,7 @@ If you have any questions please [get in touch](#get-in-touch).
 
 ### Citing _The Turing Way_ Illustrations
 <p align="center">
-  <img src="book/website/figures/evolution-open-research.jpg" alt="This is an example of one of The Turing Way illustrations. It tries to shows the evolution towards an open science era" width="600">
+  <img src="book/website/figures/evolution-open-research.png" alt="This is an example of one of The Turing Way illustrations. It tries to shows the evolution towards an open science era" width="600">
 </p>
 
 _The Turing Way_ illustrations are created by artists from [Scriberia](https://www.scriberia.co.uk/) as part of [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/book-dash) in Manchester on 17 May 2019, London on 28 May 2019 and 21 February 2020, and online on 27th November 2020 and 28th May 2021.
