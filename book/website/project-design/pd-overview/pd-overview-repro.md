@@ -21,10 +21,10 @@ Document the **current state**, **ongoing development**, and/or any **future pla
 Add information on available resources and recommended practices to ensure everyone is on the same page (literally!).
 It may also be important to make it clear what your project is not meant to be.
 
-In addition to the above, it is interesting to document the *principal need* for your project, especially for software and hardware project: what problem are you planning to solve ?
+In addition to the above, it is interesting to document the *principal need* for your project, especially for software and hardware project: what problem are you trying to solve ?
 That includes a **problem description** of whatever issue sparked the project, a **functional description** of how your project is meant to address it, and a **context description** of the users and environment your project is targeting. 
 
-It is particularly important to share the **vision, mission and milestones** clearly. 
+It is particularly important to share the **vision, mission, and milestones** clearly. 
 Provide sufficient information for what the expected outcomes and deliverables are.
 
 
@@ -53,7 +53,7 @@ Considering the variety of different backgrounds and skills your members bring, 
 You should also **think about your audience**. Your project might be reused by people with different skills, roles, objectives, and socio-economic and cultural environments.
 
 
-Provide clear opportunities for contributions, review, management, mentoring and support.
+Provide clear opportunities for contributions, review, management, mentoring, and support.
 Provide an overview of how different contributions or resources are connected and how new contributions will fit into existing materials.
 You may also include an index of all the project's documentation, so people can easily find what they are looking for.
 
