@@ -10,7 +10,9 @@ You can visit specific chapters to gain an in-depth understanding and selection 
 
 ## Minimal documentation
 
-Your open source project (research, software or hardware) should at a minimum provide a license together with a README file with all the basic, general information a newcomer needs to get oriented.
+Your open source project should at a minimum provide a license together with a README file with all the basic, general information a newcomer needs to get oriented.
+The license to apply will depend on your type of research output (text, data, software, hardware, reagents to name a few).
+See the license chapter {ref}`rr-licensing`
 It should contain a **recognizable name** for your project, as well as a **declaration of the licensing terms** under which it may be distributed (see the {ref}`OH_licences` chapter).
 
 Documentation should be shared via centralised, findable and accessible platforms.
