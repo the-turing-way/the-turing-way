@@ -142,16 +142,9 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 ***Mid-phase***
 
-- If possible use a registration platform such as [Eventbrite](https://www.eventbrite.com/) that stores data centrally, works on most browsers, and enables secure credit card payment.
-- Collect participant details like their name, email, affiliation, accessibility requirements, motivation for participating, and agreement to the privacy statement.
-- Clearly explain why you’re asking for sensitive information and how will you handle those data.
-- If you ask an optional question, make it clear that it’s optional.
-- Do not rely on colour to communicate your questions.
-- Provide clear explanations for complicated questions to guide people towards choosing the correct answer/option.
-- Sequence your questions logically after each other.
-- Provide contact information of the committee member who can be contacted regarding any errors or questions related to registration.
-- Clearly state the next steps upon clicking the submit button.
-- Link the registration form clearly on the webpage and advertise across different community platforms.
+It is important to consider what information you need to collect and how you will do this in the registrations form.
+
+For more details, see the next sub-chapter on registration forms. 
 
 ### Community suggestion and feedback forms
 
