@@ -18,8 +18,18 @@ const auth = {
 async function updateReadme() {
     // should update the readme file with the report
     const contributors_data = project_file.data
-    let table = `| S/N | Full Name | Crowdin Username | Picture | Words Translated | Languages |
-    | --- | --------- | ---------------- | ------- | ---------------- | ---------- |\n`;
+    let table = `<table>
+    <thead>
+      <tr>
+        <th>S/N</th>
+        <th>Full Name</th>
+        <th>Crowdin Username</th>
+        <th>Picture</th>
+        <th>Words Translated</th>
+        <th>Languages</th>
+      </tr>
+    </thead>
+    <tbody>`;
 
     contributors_data.forEach((contributor_info, index) => {
         const { fullName: fullname, username, avatarUrl } = contributor_info.user
@@ -27,8 +37,17 @@ async function updateReadme() {
 
         const languages_translated = languages.map((lang) => lang.name).join(', ');
 
-        table += `| ${index + 1} | ${fullname} | ${username} | ![Profile Picture](${avatarUrl}) | ${no_of_words_translated} | ${languages_translated} |\n`;
+        table += `<tr>
+      <td>${index + 1}</td>
+      <td>${fullname}</td>
+      <td>${username}</td>
+      <td><img src="${avatarUrl}" alt="Profile Picture" /></td>
+      <td>${no_of_words_translated}</td>
+      <td>${languages_translated}</td>
+    </tr>`;
     });
+
+    table += `</tbody></table>`;
 
     const filename = 'CROWDIN_CONTRIBUTORS.md';
     fs.writeFile(filename, table, (err) => {
