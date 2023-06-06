@@ -1,10 +1,10 @@
 require('dotenv').config()
 const axios = require('axios')
 const fs = require('fs');
-const { get } = require('http');
 const https = require('https');
 
 const CONFIG = process.env
+const WAIT_TIME = parseInt(CONFIG.WAIT_TIME)
 const FILE_FORMAT = 'csv'
 const CROWDIN_AUTH_TOKEN = CONFIG.CROWDIN_TOKEN
 const TTW_CROWDIN_API_DOMAIN = `https://turingway.api.crowdin.com/api/v2`
@@ -19,13 +19,13 @@ async function updateReadme() {
     // should update the readme file with the report
 }
 
-async function downloadReportFile(url) {
+async function downloadProjectReport(url) {
     const file = fs.createWriteStream('file' + '.' + FILE_FORMAT);
     https.get(url, response => {
         response.pipe(file);
     });
 
-    console.log('File downloaded and saved successfully.');
+    console.log('Project report downloaded and saved successfully.');
 }
 
 async function start() {
@@ -49,7 +49,8 @@ async function start() {
 
     // Report takes less than 10 seconds to generate
     setTimeout(() => {
-        async function getProjectReport() {
+        // Get project report
+        async function processProjectReport() {
             const get_report_endpoint = TTW_CROWDIN_API_DOMAIN + `/projects/1/reports/${report_id}/download`
             const report_response = await axios.get(
                 get_report_endpoint,
@@ -58,15 +59,15 @@ async function start() {
 
             const file_download_url = report_response.data.data.url
             
-            await downloadReportFile(file_download_url)
+            await downloadProjectReport(file_download_url)
             await updateReadme()
         }
 
-        getProjectReport().catch((error) => {
+        processProjectReport().catch((error) => {
             console.log(error)
             process.exit(1)
         })
-    }, 10000)
+    }, WAIT_TIME || 10000)
 }
 
 start()
