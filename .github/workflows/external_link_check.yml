@@ -51,3 +51,4 @@ jobs:
           token: ${{secrets.GITHUB_TOKEN}}
           labels: |
             infrastructure
+            caretaking
