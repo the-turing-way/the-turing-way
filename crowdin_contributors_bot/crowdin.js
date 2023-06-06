@@ -5,7 +5,7 @@ const https = require('https');
 
 const CONFIG = process.env
 const WAIT_TIME = parseInt(CONFIG.WAIT_TIME)
-const FILE_FORMAT = 'csv'
+const FILE_FORMAT = 'json'
 const CROWDIN_AUTH_TOKEN = CONFIG.CROWDIN_TOKEN
 const TTW_CROWDIN_API_DOMAIN = `https://turingway.api.crowdin.com/api/v2`
 const auth = {
@@ -20,7 +20,7 @@ async function updateReadme() {
 }
 
 async function downloadProjectReport(url) {
-    const file = fs.createWriteStream('file' + '.' + FILE_FORMAT);
+    const file = fs.createWriteStream('crowdin_contributors_report' + '.' + FILE_FORMAT);
     https.get(url, response => {
         response.pipe(file);
     });
