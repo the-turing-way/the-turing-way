@@ -14,6 +14,7 @@ parts:
   - chapters:
   
       # ===== Foreword Section ========================================
+      
       - file: foreword/foreword
         sections:
         - title: Vision and Mission
@@ -31,11 +32,12 @@ parts:
         - title: Ways of Working
           file: foreword/ways-of-working
         - title: Community Governance
-          file: foreword/governance  
+          file: foreword/governance
         - title: Highlights and Impact
           file: foreword/impact
-          
+
       # ===== Guide for Reproducible Research ========================================
+      
       - file: reproducible-research/reproducible-research
         sections:
           - title: Overview
