@@ -75,7 +75,7 @@ Video conferencing platforms such as Zoom or Google meet also have captions.
 
 * The Outlier conference has some excellent tips on [speech development](https://docs.google.com/presentation/d/1VltGZmwfFcqwJ_pMwNx-ECfhgtl0dhxYC99qM5xnV-U/), [structure](https://docs.google.com/presentation/d/1XyFdpqjlvXd_8kIl3dJFHhGTcywX0tayQtHXXYUi9DQ/), and [technical setup](https://https://docs.google.com/presentation/d/1ZLrVBs5Zt9_DDu2TYUN3CzsEr1WiMXbwj-AP5m9Rbhc/).
 
-* Author Nancy Duarte offers some insights in her books, articles and [talks](https://://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks?) on how to structure presentations that involve a call to action.
+* Author Nancy Duarte offers some insights in her books, articles and [talks](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks) on how to structure presentations that involve a call to action.
 
 (cm-comms-overview-resources-social)=
 ## Social Media
