@@ -21,7 +21,6 @@ async function updateReadme() {
 
 async function downloadFileFromUrl(url) {
     const file = fs.createWriteStream('file' + '.' + FILE_FORMAT);
-
     https.get(url, response => {
         response.pipe(file);
     });
@@ -43,26 +42,34 @@ async function start() {
             }
         },
         auth,
-    ).then(r => r).catch(e => e)
+    ).then(r => r)
 
-    console.log(response.status)
-    // const report_id = "fb93cf04-486a-4f88-a254-c73d6d520efa"
     const report_id = response.data.data.identifier
 
     // Report takes less than 10 seconds to generate
-    setTimeout(async () => {
-        const get_report_endpoint = TTW_CROWDIN_API_DOMAIN + `/projects/1/reports/${report_id}/download`
-        const report_response = await axios.get(
-            get_report_endpoint,
-            auth,
-        ).then(r => r).catch(e => e)
+    setTimeout(() => {
+        async function prepareReport() {
+            const get_report_endpoint = TTW_CROWDIN_API_DOMAIN + `/projects/1/reports/${report_id}/download`
+            const report_response = await axios.get(
+                get_report_endpoint,
+                auth,
+            ).then(r => r).catch(e => e)
 
-        console.log(report_response.data)
-        const file_download_url = report_response.data.data.url
-        await downloadFileFromUrl(file_download_url)
-        await updateReadme()
+            const file_download_url = report_response.data.data.url
+            
+            await downloadFileFromUrl(file_download_url)
+            await updateReadme()
+        }
 
+        prepareReport().catch((error) => {
+            console.log(error)
+            process.exit(1)
+        })
     }, 10000)
 }
 
 start()
+    .catch((error) => {
+        console.log(error)
+        process.exit(1)
+    })
