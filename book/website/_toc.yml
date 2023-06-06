@@ -35,7 +35,6 @@ parts:
         - title: Highlights and Impact
           file: foreword/impact
           
-          
       # ===== Guide for Reproducible Research ========================================
       - file: reproducible-research/reproducible-research
         sections:
@@ -274,7 +273,6 @@ parts:
             sections:
               - title: A Statistical Methods Manuscript
                 file: reproducible-research/case-studies/case-study-statistical
-
 
       # ===== Guide for Project Design ========================================
 
@@ -830,4 +828,3 @@ parts:
             file: afterword/bibliography
           - title: Contributors Record
             file: afterword/contributors-record
-

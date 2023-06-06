@@ -11,7 +11,7 @@ This section will walk you through the basic setup of continuous integration (CI
 
 GitHub Actions are event-driven, which means it responds to any event (Examples: pull request (PR) created, issue created) and triggers an action (Examples: adds a label, runs tests, sort). Any collection of these actions is called a workflow. A more detailed description of this GitHub-related Vocabulary is described in the next section.
 
-```{figure} ../../figures/github-actions.jpg
+```{figure} ../../figures/github-actions.*
 ---
 width: 700px
 align: center
@@ -26,7 +26,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 **The workflow** is a unit of automation from start to finish. It consists of all the aspects which should be taken into account during the automation including what event can trigger the automation. The workflow can be used to build, test, package, release, or deploy a project on GitHub. It is made of multiple jobs which is formed from steps as shown in the overview diagram below.
 
-```{figure} ../../figures/ci-01.png
+```{figure} ../../figures/ci-01.*
 ---
 name: ContinuousIntegration-Nov20
 alt: An illustration of how continuous integration works with multiple jobs and actions working alongside each other to feed into an illustration of steps to show merging into the main version.
@@ -72,7 +72,7 @@ You can choose any of these starter workflows and customise them further.  An ex
 Github Action template is not the only starter kit available; there are libraries-specific templates for the language of interest. For example, you can  use  {usethis} package in R to create a template for R packages by running `usethis::use_github_action_check_standard()`. This will generate GitHub Actions to run CRAN checks after every commit or pull request. That’s all you have to do!
 
 
-### 3- Using the configuration of other projects as inspriration
+### 3- Using the configuration of other projects as inspiration
 
 Many well maintained open source libraries and estableshed projects use GitHub Actions for their CI.
 Have a look at the checks lists on pull requests of these projects for inspiration and ideas;

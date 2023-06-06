@@ -9,12 +9,13 @@ To learn more about that, please read the details in [the GitHub documentation](
 ## Updating release information
 
 - Update [`CITATION.cff`](https://github.com/alan-turing-institute/the-turing-way/blob/main/CITATION.cff) file:
-  - Update `version: 1.0.1` (currently in line 7), `date-released: "2021-11-10"` (currently in line 13)
+  - Update `version: 1.0.1` (currently in line 6), `date-released: "2021-11-10"` (currently in line 12)
 - Validate the file locally on your computer using `cffconvert` (here we assume that the user knows how to use their terminal)
   - Step 1: Please install cffconvert using the following command: `python3 -m pip install --user cffconvert` (details here: https://pypi.org/project/cffconvert/)
   - Step 2: Run the following command: `cffconvert --validate`
   - Step 3: Once validated, create `.zenodo.json` file using the following command: `cffconvert --format zenodo > .zenodo.json`
-
+  - Step 4: Create the pull request with the change -> review and merge it in the repository
+  
 Please note that we have currently left out individual names from the CITATION file, however, this is open for discussion if we will add all the authors manually or have some other automated ways to do that.
 
 ## Drafting release on GitHub

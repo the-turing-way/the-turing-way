@@ -29,14 +29,14 @@ Run the following command to add all files in the current folder:
 ```
 git add .
 ```
-OR run the following command to add only the files ('your_file_name' in this example):
+OR run the following command to add only a specific file (called 'your_file_name' in this example):
 ```
 git add your_file_name
 ```
 
-This command puts your newly added files or any other changes into what is called the "staging" state.
+This command puts your newly added files or any other changes into what is called the "staging" area.
 
-```{figure} ../../figures/change-stage-repo.png
+```{figure} ../../figures/change-stage-repo.*
 ---
 name: change-stage-repo
 alt: An illustration of the `git add` and git commit Commands.

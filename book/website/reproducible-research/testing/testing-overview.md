@@ -12,6 +12,7 @@ In addition to these two kinds of tests, there are also different levels of test
 These levels are outlined below and both positive and negative tests can be present at any of these levels.
 A thorough test suite will contain tests at all of these levels (though some levels will need very few).
 
+(rr-testing-types-of-testing)=
 ## Types of Testing
 
 [Smoke testing](#Smoke_testing): Very brief initial checks that ensures the basic requirements required to run the project hold.

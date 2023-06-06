@@ -19,7 +19,7 @@ Information and materials are often sorted by topic and audience. Materials can 
 
 A wide variety of research data management toolkits are available. Here, we list a number of toolkits:
 
-* [JISC research data management toolkit](https://rdmtoolkit.jisc.ac.uk/rdm-for-researchers/)
+* [JISC research data management toolkit](https://www.jisc.ac.uk/guides/rdm-toolkit)
 * [ELIXIR research data management toolkit](https://rdm.elixir-europe.org/index.html)
 * [University of New Hampshire data management toolkit](https://libraryguides.unh.edu/datamanagement)
 

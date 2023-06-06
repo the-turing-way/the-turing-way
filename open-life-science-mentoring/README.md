@@ -1,12 +1,12 @@
 # Open Life Science mentoring and Training
 
-[Open Life Science (OLS)](https://openlifesci.org/) is a 16-week mentoring and training program for early-stage researchers and potential academic leaders who want to become ambassadors for Life Science in their communities.
+[Open Life Science (OLS)](https://openlifesci.org/) is a 16-week mentoring and training program for early-stage researchers and potential academic leaders to become ambassadors for open research in their communities.
 
 ## The Turing Way collaborates with OLS: *OLS-2 for Turing*
 
 **Mentoring period: September to December 2020**
 
-To specifically support members at The Alan Turing Institute, they have collaborated with _The Turing Way_ to offer “OLS-2 for Turing” training and mentoring for projects run by individuals or teams to help integrate open research practices in their workflow.
+To specifically support members at The Alan Turing Institute, OLS has collaborated with _The Turing Way_ to offer “OLS-2 for Turing” training and mentoring for projects run by individuals or teams to help members integrate open research practices in their workflow.
 See details here: [https://openlifesci.org/ols-2#collaborators](https://openlifesci.org/ols-2#collaborators)
 
 ## OLS-2 for Turing projects

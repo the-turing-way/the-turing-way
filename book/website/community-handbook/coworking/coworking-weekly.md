@@ -24,7 +24,7 @@ If you are interested in coworking with one of the team members on a day that is
 
 The resource requirement for these calls is also very similar to the Collaboration Cafe.
 
-1. Shared notes by [HackMD](https://hackmd.io/): [https://hackmd.io/@malvikasharan/TW-coworking](https://hackmd.io/@malvikasharan/TW-coworking)
+1. Shared notes by [HackMD](https://hackmd.io/): [https://hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call)
 2. Online call by [Zoom](https://www.zoom.us/): The Zoom link is provided in the HackMD.
 3. An online Pomodoro clock: [https://cuckoo.team/TW-coworking](https://cuckoo.team/TW-coworking)
 
@@ -49,13 +49,27 @@ We'll run the following schedule during each call:
 In contrast to the Collaboration Cafes, the schedule for these calls seems more intense with less chance for discussion.
 However, since these calls are attended by fewer participants, it provides more opportunities for informal interactions.
 
+### Chairing Coworking Calls
+
+Please update the document each month using the following steps:
+
+- [Update the HackMD](https://hackmd.io/@turingway/coworking-call) each month by adding dates for the weekly calls
+- Move the notes from the previous call below the template area (that will be archived in this Notion page periodically)
+- Share the notes on Slack and Twitter announcing the dates
+- Use the notes during the call to share information as you chair the call
+- Make sure that you share the Code of Conduct link and use the shared Cuckoo (or other web-based clocks)
+- Create breakout rooms for people before starting the Pomodoro sessions - when needed
+- As the first Pomodoro session ends, close any breakout rooms, ask for feedback, and then restart the second Pomodoro session
+- The call is scheduled for 60 minutes, and hence can accommodate up to 2 Pomodoro sessions
+- Close the call thanking everyone, and arhieve the notes for the next call
+
 #### Beginning
 
 The call begins with the team members welcoming the participants, sharing the Code of Conduct, reminding how to participate in the call, and setting the stage for everyone to share how they are doing and what they will be working on.
 
 #### Pomodoros
 
-We will start the [timer](https://cuckoo.team/TW-coworking) to keep track of the Pomodoro sessions.
+The session chair will start the [timer](https://cuckoo.team/TW-coworking) to keep track of the Pomodoro sessions.
 If everyone plans to work on independent tasks, we will remain in the main room and work silently.
 For any discussion or collaborative task that two people of the call are working on, we will create [breakout rooms](#breakout-rooms) for them.
 

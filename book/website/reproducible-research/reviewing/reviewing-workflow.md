@@ -3,7 +3,7 @@
 
 *This chapter has particular reference to Github*
 
-```{figure} ../../figures/readable-code.jpg
+```{figure} ../../figures/readable-code.*
 ---
 height: 500px
 name: readable-code

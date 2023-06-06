@@ -6,7 +6,7 @@
 ## _The Turing Way_ online Collaboration Cafe | DATE MONTH YEAR
 
 Thank you for joining the _Turing Way_'s online Collaboration Cafe!
-We're delighted to have you here :coffee: :sparkles: :cake:
+We're delighted to have you here ☕️✨🎂
 
 (*We do recommend bringing your actual tea, coffee, water or your favorite beverage to this cafe! :smile:*)
 
@@ -27,7 +27,7 @@ This collaboration cafe aims to engage with researchers interested in learning a
 
 * Shared notes: https://hackmd.io/@KirstieJane/CollabCafe
 * The Turing Way GitHub repository: https://github.com/alan-turing-institute/the-turing-way
-* All about [online Collaboration Cafes](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md)
+* All about [online Collaboration Cafes](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms)
 * Turing Way calendar: https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ
 * Contribution guidelines: https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md
 * Chat on Gitter: https://gitter.im/alan-turing-institute/the-turing-way
@@ -43,7 +43,7 @@ https://cuckoo.team/collabcafe
 
 ### Sign up below
 
-*Name + <A fun Icebreaker> + an emoji to represent it ([emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md))*
+*Name <A fun Icebreaker> + an emoji to represent it ([emoji cheatsheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md))*
 
 *(Remember that this is a public document. You can use a pseudonym if you'd prefer.)*
 
@@ -79,7 +79,7 @@ https://cuckoo.team/tw-collabcafe
 
 ### Breakout rooms: Topic proposals
 
-*If you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it. If you like one of the topics that is already suggested, please add your name next to that one. Team work makes the dream work. For more information about breakout rooms see [the description on GitHub](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md#breakout-rooms).*
+*If you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it. If you like one of the topics that is already suggested, please add your name next to that one. Team work makes the dream work. For more information about breakout rooms see [the description on The Turing Way](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms#breakout-rooms).*
 
 Topic for breakout / Names
 
@@ -103,4 +103,3 @@ Here are a few suggestions for a good first contributions:
 - Flag the unclear or duplicated information in the book by opening an [issue on the GitHub](https://github.com/alan-turing-institute/the-turing-way/issues).
 - Fix an [old issue](https://github.com/alan-turing-institute/the-turing-way/issues) or comment on the the [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls).
 - Write your personal experience of reproducible research in this [google form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
-- See more info on the GitHub: https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md

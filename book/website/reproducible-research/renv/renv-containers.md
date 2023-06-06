@@ -11,6 +11,10 @@ To make this reproducible, not only do (i) the respective R packages need to be 
 Instead of trying to resolve these dependencies via a package manager (such as conda) -  which also depends on all required software being available in a single package manager - it might be easier to create a snapshot of the entire computing environment including all dependencies.
 These computing environments are then self-contained, hence the name 'containers'.
 
+[This RedHat blog
+post](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction)
+provides an introduction to containers and container terminology.
+
 (rr-renv-containers-what)=
 ## What are Containers?
 
@@ -50,11 +54,17 @@ They can then share this image file with anyone who wants to replicate their wor
 That person can then use the image to generate a container containing a working version of the project.
 
 (rr-renv-containers-docker)=
-## What is Docker?
+## Docker
+
+(rr-renv-containers-whatdocker)=
+### What is Docker?
 
 There are many tools available for creating and working with containers.
-We will focus on Docker, which is widely used, but be aware that others such as Singularity also exist.
-Singularity is sometimes preferred for use on high-performance computing systems as it does not need `sudo` permissions to be run, while Docker does.
+We will focus on [Docker](https://www.docker.com/), which is widely used, but be aware that others such as [Apptainer](http://apptainer.org/), [LXC](https://linuxcontainers.org/), [Podman](https://podman.io/), [Singularity](https://sylabs.io/singularity/) also exist.
+Apptainer and Singularity are designed with a focus on high-performance computing and tend to be well supported and preferred on such systems.
+Podman may be seen as a completely free and open-source alternative to Docker.
+It has a Docker compatible command-line interface and can run Docker container images.
+Apptainer, Singularity and Podman do not need `sudo` permissions to be run, while up until April 2020 Docker did (please see the {ref}`rr-renv-containers-rootless` section).
 
 In Docker, the recipe files used to generate images are known as Dockerfiles, and should be named `Dockerfile`.
 
@@ -70,7 +80,7 @@ However, this leaves a user vulnerable to similar security issues as described i
 The best advice for using images built by others is, as usual, only download and run something on your machine if it comes from a trusted source.
 Docker Hub has "official image" badges for commonly used, verified images as shown here:
 
-```{figure} ../../figures/docker-official-image.png
+```{figure} ../../figures/docker-official-image.*
 ---
 name: docker-official-image
 alt: A screenshot of official image badges
@@ -78,13 +88,13 @@ alt: A screenshot of official image badges
 ```
 
 (rr-renv-containers-installdocker)=
-## Installing Docker
+### Installing Docker
 
 Installers for Docker on a variety of different systems are available [here](https://docs.docker.com/install/).
 Detailed installation instructions are also available for a variety of operating systems such as [Ubuntu](https://docs.docker.com/install/linux/docker-ce/ubuntu/), [Debian](https://docs.docker.com/install/linux/docker-ce/debian/), [Macs](https://docs.docker.com/docker-for-mac/install/), and [Windows](https://docs.docker.com/docker-for-windows/install/).
 
 (rr-renv-containers-commands)=
-## Key Commands
+### Key Commands
 
 Here are a few key commands for creating and working with containers:
 
@@ -133,7 +143,7 @@ Here are a few key commands for creating and working with containers:
   sudo docker rm container_ID
   ```
 (rr-renv-containers-dockerfiles)=
-## Writing Dockerfiles
+### Writing Dockerfiles
 
 Let us go through the anatomy of a very simple Dockerfile:
 
@@ -202,7 +212,7 @@ It is good practice to use `COPY`, except where `ADD` is specifically required, 
 
 Here is what happens if a container is opened from an image called `book_example`, built from the example above:
 
-```{figure} ../../figures/container-example.png
+```{figure} ../../figures/container-example.*
 ---
 name: container-example
 alt: A screenshot of what happens when a container is opened from an image
@@ -236,7 +246,7 @@ RUN mkdir B_1
 RUN mkdir B_2
 ```
 
-```{figure} ../../figures/workdir-example.png
+```{figure} ../../figures/workdir-example.*
 ---
 name: workdir-example
 alt: Screenshot of container generated using WORKDIR command
@@ -252,7 +262,7 @@ After each `RUN` statement in a Dockerfile, the image is saved, and any followin
 As an example, here is what happens in the above example if the `WORKDIR A` line is swapped
 for `RUN cd A`.
 
-```{figure} ../../figures/cd-example.png
+```{figure} ../../figures/cd-example.*
 ---
 name: cd-example
 alt: A screenshot of what happens when the WORKDIR command is swapped with RUN cd
@@ -264,7 +274,7 @@ This is because the image was restarted after the `RUN cd A` command and opened 
 `mkdir B_1` and `mkdir B_2` commands took effect.
 
 (rr-renv-containers-dockerfiles-commands)=
-### Other Commands
+#### Other Commands
 
 Other commands that are sometimes used in Dockerfiles include:
 
@@ -284,7 +294,7 @@ It is more relevant to people using Docker to share web apps.
 - `USER`: Change the user that a command is run as (useful for dropping privileges).
 
 (rr-renv-containers-dockerignore)=
-## Building Images and `.dockerignore` Files
+### Building Images and `.dockerignore` Files
 
 As mentioned in the {ref}`key commands <rr-renv-containers-commands>` section, to build an image open a terminal in the same directory as
 the Dockerfile to be used and run:
@@ -318,7 +328,7 @@ This excludes from the context:
 - The file named `file_to_exclude.txt`
 
 (rr-renv-containers-sharing)=
-## Sharing Images
+### Sharing Images
 
 Docker images can be shared most easily via [Docker Hub](https://hub.docker.com/), which requires an account.
 Say two researchers, Alice and Bob, are collaborating on a project and Alice wishes to share an image of some of her work with Bob.
@@ -327,8 +337,8 @@ To do this, Alice must:
 
 - Write a Dockerfile to produce an image of her work.
 - Build the image. She (being inventive) calls it image_name
-- Go to DockerHub and sign up for an account. Say Alice (again, being inventive) chooses the username `username_Alice`
-- Log into DockerHub via the terminal on her machine using:
+- Go to Docker Hub and sign up for an account. Say Alice (again, being inventive) chooses the username `username_Alice`
+- Log into Docker Hub via the terminal on her machine using:
   ```
   sudo docker login
   ```
@@ -349,10 +359,10 @@ sudo docker run -i -t username_Alice/image_name:version_1
 ```
 
 Initially, Docker will search for this image on Bob's machine.
-When it does not find it, it will _automatically_ search DockerHub, download Alice's image, and open the container with Alice's work and environment on Bob's machine.
+When it does not find it, it will _automatically_ search Docker Hub, download Alice's image, and open the container with Alice's work and environment on Bob's machine.
 
 (rr-renv-containers-copying)=
-## Copying Files To And From Containers
+### Copying Files To And From Containers
 
 Containers act much like virtual machines; as a result, copying files into and out of them is not as trivial as copying files to different locations within the same computer is.
 
@@ -373,10 +383,10 @@ sudo docker cp container_ID:path_to_file/file_name path_to_where_to_put_file/fil
 If the second part (the `path_to_where_to_put_file/file_name`) is substituted for a `.`, then the file will be copied to whatever directory the terminal running the command is in.
 
 (rr-renv-containers-volumes)=
-## Volumes
+### Volumes
 
 Every time a container is opened from an image, that container is completely new.
-Say a container is opened, and work is done within it. 
+Say a container is opened, and work is done within it.
 If that container is closed, and the image it came from is again used to start another container, none of that work will be in the new one.
 It will simply have the starting state described in the image.
 
@@ -403,38 +413,187 @@ Below is a list of volume related commands:
 
 If, when deleting a container, a `-v` is included after `rm` in `sudo docker rm container_ID`, any volumes associated with the container will also be deleted.
 
+(rr-renv-containers-rootless)=
+### Docker without root access
+
+Up until April 2020, the only way to run Docker was with root access.
+"Rootless" mode was made available as part of the [v20.10](https://docs.docker.com/engine/security/rootless/) release.
+Rootless mode is currently only available on Linux and requires an initial install of Docker >= v20.10.
+
+The underlying difference between Docker without and with rootless mode is that previously any system running Docker had a daemon running as `uid0` that creates and owns all images, but with rootless mode the user creates and owns any images that they initialize.
+To install and run the rootless version of Docker as a non-root user, use the following commands (where `20.10` refers to the installed version of Docker):
+
+```
+dockerd-rootless-setuptool.sh install
+docker run -d --name dind-rootless --privileged docker:20.10-dind-rootless
+```
+
+The following prequisites, which are part of the [`shadow-utils`](https://github.com/shadow-maint/shadow) package are required to run Docker rootless: `newuidmap` and `newgidmap`.
+
+(rr-renv-containers-podman)=
+## Podman
+
+[Podman](https://podman.io/) is an open-source container engine that can be seen as a meaningful alternative to Docker.
+In fact, Podman provides a Docker-compatible command-line interface.
+For most use cases, a user familiar with Docker can simply alias the Docker command to Podman (`alias docker=podman`) and carry on as normal.
+Podman includes a [full set of tools](https://docs.podman.io/en/latest/Commands.html) to create, run, manage, and share containers.
+
+Podman is free and open-source software released under the Apache License 2.0.
+This is in contrast to Docker which has some open-source components, such as the engine and command-line interface, but also develops closed-source, [subscription-requiring](https://www.docker.com/blog/updating-product-subscriptions/) software, including the Docker Desktop clients for MacOS and Windows.
+
+All [Open Container Initiative](https://opencontainers.org/) container images can be used with Podman including Docker images hosted on Docker Hub.
+It is likely existing projects using Docker can be migrated to Podman.
+
+Unlike Docker which uses a daemon running as root, Podman is daemonless.
+Unprivileged users can run containers using Podman.
+In most cases this will be configured automatically.
+This avoids a problem with the standard Docker configuration where users able to run containers have implicit access to the Docker daemon.
+The Docker Daemon is run by root by default and provides a trivial way to escalate privileges and get a high level of access to the hosts devices and filesystem.
+
+````{note}
+Adding a user to the docker group is essentially giving them a high-level of access to the host with a very simple route to privilege escalation.
+For example:
+
+```console
+$ docker run --mount=type=bind,source=/,destination=/host -it busybox
+```
+
+The user now has access to the filesystem of the host with the permissions of `root`.
+````
+
+(rr-renv-containers-installpodman)=
+### Installing Podman
+
+The Podman documentation has up-to-date instructions for [installing Podman](https://podman.io/getting-started/installation).
+
+It is important to understand that Podman is a tool for running Linux containers and so it requires a Linux host.
+If your computer is running Windows or MacOS, you can use the [Podman remote client](https://github.com/containers/podman/blob/main/docs/tutorials/mac_win_client.md) to interact with Podman on a Linux virtual machine or remote Linux Host.
+
+Alternatively, the MacOS Podman client includes the experimental `podman machine` subcommand for managing a Linux virtual machine that Podman can use.
+Detailed instructions can be found [on Podman's GitHub repository](https://github.com/containers/podman/blob/main/docs/tutorials/mac_experimental.md)
+On Windows you can also run Podman in the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/) (>= 2.0).
+[This RedHat blog post](https://www.redhat.com/sysadmin/podman-windows-wsl2) has instructions.
+
+For most recent Linux distributions you should [find Podman in the official repositories](https://podman.io/getting-started/installation#linux-distributions).
+Most distributions (including Arch, Debian, Fedora, and Ubuntu) will apply the appropriate configuration to let unprivileged users run Podman automatically.
+If there are any problems, the Podman documentation [has instructions for configuration](https://docs.podman.io/en/latest/markdown/podman.1.html?highlight=rootless#rootless-mode).
+This is as simple as two commands per user who should be able to run Podman.
+
+(rr-renv-containers-commandspodman)=
+### Podman Commands
+
+Podman has a Docker-compatible command line interface so those commands will not be reiterated here.
+The Docker commands in the {ref}`key commands <rr-renv-containers-commands>` should all work by substituting `sudo docker` with `podman`.
+Details of all commands and their options can be found [in the Podman documentation](https://docs.podman.io/en/latest/Commands.html).
+
+(rr-renv-containers-imagespodman)=
+### Building Container Images
+
+Podman can build container images using the `podman build` command.
+Podman will build images from either Dockerfiles or Containerfiles.
+Containerfiles use the same format as Dockerfiles, which are discussed in {ref}`Writing Dockerfiles <rr-renv-containers-dockerfiles>`
+
+(rr-renv-containers-rootlesspodman)=
+### Rootless Containers
+
+Rootless containers are containers run by a normal user (not using `sudo` or with the `root` account).
+These containers never have more privileges than the account that runs them.
+This is an strong security advantage for rootless containers compared to running containers as root or through the Docker daemon.
+
+```{note}
+If you are running a distribution with SELinux (for example Fedora or CentOS) you may need to add the `--privileged` flag to the Podman commands below in order to access the host filesystem inside of containers.
+```
+
+This can be demonstrated with a simple example. Create a directory and put file with some text in it:
+```console
+$ mkdir tmp
+$ echo "Hello" > tmp/a.txt
+```
+
+Now mount this directory into an interactive [busybox](https://www.busybox.net/) container:
+```console
+$ podman run --mount=type=bind,source=./tmp,destination=/tmp -it docker.io/library/busybox
+```
+
+In the container's shell, confirm that the session belongs to the root user:
+```console
+/ # id
+uid=0(root) gid=0(root) groups=10(wheel)
+/ # whoami
+root
+```
+
+Append some text to the file created on the host, mounted at `/tmp/a.txt` in the container:
+```console
+/ # echo "World!" >> /tmp/a.txt
+```
+
+Create a new file in the `tmp` directory and close the container:
+```console
+/ # touch /tmp/b.txt
+/ # exit
+```
+
+Inspect the files in `tmp` on the host. The file `a.txt` was modified by the container process:
+```console
+$ cat tmp/a.txt
+Hello
+World!
+```
+
+The file `b.txt` was created. However, despite being created by `root` inside the container, on the host it is owned by the user which ran the container.
+This can be confirmed with `ls -l tmp/b.txt`.
+
+It is also impossible to read or modify files that the user running the container would not be able to.
+For example, the `/etc/shadow` file which contains users' hashed passwords:
+
+```console
+$ podman run --mount=type=bind,source=/etc/shadow,destination=/shadow -it docker.io/library/busybox
+/ # cat /shadow
+cat: can't open '/shadow': Permission denied
+```
+
+If the above Podman command were run as root, using `sudo`, then the container would not be rootless and it would be possible to read and modify `etc/shadow`.
+
 (rr-renv-containers-singularity)=
 ## Singularity
 
+```{note}
+As Singularity is a tool for running Linux containers it can not run natively on
+Windows or MacOS.
 
-> **Prerequisites**: At present, Singularity only runs on Linux systems (for example Ubuntu). If you use macOS, [Singularity Desktop for macOS](https://www.sylabs.io/singularity-desktop-macos/) is in "Beta" release stage.
+Singularity provides [Vagrant](https://www.vagrantup.com/) boxes which let users
+on Windows or MacOS quickly deploy a virtual machine with Singularity installed.
+Instuctions can be found [in the Singularity
+documentation](https://sylabs.io/guides/latest/admin-guide/installation.html#installation-on-windows-or-mac)
+```
 
-A significant drawback of using Docker for reproducible research is that it is not intended as a user-space application but as a tool for server administrators.
-As such, it requires root access to operate.
+Historically, a significant drawback of using Docker for reproducible research is that it was not intended as a user-space application but as a tool for server administrators.
+As such, it required root access to operate.
 There is, however, no reason why the execution of an analysis should require root access for the user.
-This is especially important when computations are conducted on a shared resource like HPC systems where users will never have root access.
+This is especially important when computations are conducted on a shared resource like high-performance computing (HPC) systems where users will never have root access.
 
 The [singularity](https://www.sylabs.io/) container software was introduced to address this issue.
-Singularity was created with HPC systems and reproducible research in mind (see [this](https://www.youtube.com/watch?v=DA87Ba2dpNM video).
-It does not require root access to run (only to build container _images_!), and thus enables HPC users to locally build container images before running analyses on a high-performance cluster, for example.
-As an added benefit, this makes it possible to use almost any software on an HPC system without having to bother admin staff with installing it.
+Singularity was created with HPC systems and reproducible research in mind (see [this](https://www.youtube.com/watch?v=DA87Ba2dpNM) video).
+Singularity containers do not require root access to run.
+Root access is normally required to build container images.
+However it is possible to build images as a normal user (with some restrictions) using the [fakeroot feature](https://sylabs.io/guides/latest/user-guide/fakeroot.html).
+This enables users to build container images locally before running them on a high-performance cluster.
+As an added benefit, this makes it possible to bring software and project dependencies to an HPC system without requiring the system administrators to install or maintain them.
 
-Furthermore, since Docker is _the_ most well-known containerization approach, singularity aims at maintaining compatibility with docker containers.
-This means that singularity can be used to run normal docker containers (without requiring root access!).
+Furthermore, Singularity can take advantage of the large Docker ecosystem by building Singularity container images from Docker container images.
+Docker images can also be extend by building new images based on docker containers as a base layer.
 
-Singularity can be used to run Docker images or extend them by building new images based on docker containers as a base layer.
-For instance, we could use singularity to create a vanilla ubuntu container with a shell using the ubuntu docker image:
+(rr-renv-containers-singularity-images)=
+### Singularity Container Images
 
-```
-singularity shell docker://ubuntu
-```
+Just as Docker images are built using `Dockerfile` files, singularity containers are built from singularity definition files.
+The Singularity documentation has a complete [specification of the definition file format](https://sylabs.io/guides/latest/user-guide/definition_files.html)
 
-> (type `exit` to leave the interactive shell again).
-
-Just as docker images are built using `Dockerfile` files, singularity containers are built from singularity definition files.
-The process and syntax are similar to docker files, but there are subtle differences.
 As a minimal working example, we can build a `lolcow` container based on the official ubuntu docker container image.
-Put the following in a `lolcow.def` file (based on the [Singularity documentation](https://www.sylabs.io/guides/3.2/user-guide/build_a_container.html)):
+This is based on [an example](https://sylabs.io/guides/latest/user-guide/build_a_container.html) in the Singularity documentation.
+Put the following text in a file named `lolcow.def`:
+
 ```
 Bootstrap: docker
 From: ubuntu
@@ -451,23 +610,40 @@ From: ubuntu
     fortune | cowsay | lolcat
 ```
 
-This 'recipe' uses a docker image as a basis (`ubuntu`), installs a few `apt` packages, modifies a few environment variables, and specifies the `runscript` (which is executed using the `singularity run` command).
-Details on the singularity definition file format can be found in the official [documentation](https://www.sylabs.io/docs/).
+This example uses a docker image (`ubuntu`) as a basis.
+The required packages are installed packages with `apt-get`.
+The `PATH` variable is updated so that the run commands will be found when the container is run.
+The `%runscript` defines the command to be executed when the container is run.
 
-A container image can then be built (requiring root!) via:
+A container image can then be built:
 
-```
-sudo singularity build lolcow.simg lolcow.def
-```
-
-This will pull the ubuntu image from DockerHub, run the steps of the recipe in the definition file and produce a single output image file (`lolcow.simg`).
-Finally the `runscript` is executed as
-
-```
-singularity run lolcow.simg
+```console
+$ sudo singularity build lolcow.sif lolcow.def
 ```
 
-Ideally, you should see a nice ASCII cow and a few words of wisdom:
+This will pull the ubuntu image from Docker Hub, run the steps of the recipe in the definition file and produce a Singularity image file (`lolcow.sif`).
+The container can be run with:
+
+```console
+$ singularity run lolcow.sif
+```
+
+or, simply:
+
+```console
+$ ./lolcow.sif
+```
+
+````{note}
+The way that Singularity packages container images as a single file in your working directory is convenient for migrating your work to HPC.
+You may simply copy your container image to a cluster using `scp` or `rsync`:
+
+```console
+$ rsync -avz lolcow.sif <user>@<hpc_system>:~/
+```
+````
+
+You should see a nice ASCII cow and a few words of wisdom:
 
 ```
 ___________________________________
@@ -480,6 +656,37 @@ ___________________________________
                ||----w |
                ||     ||
 ```
+
+(rr-renv-containers-singularity-gpu)=
+### GPU Support
+
+A key distinction of Singularity is that it is able to natively utilise host GPUs in containers.
+Singularity has support for CUDA supporting GPUs from Nvidia and ROCm supporting GPUs from AMD.
+Running containers with GPU support does not require root privileges.
+Complete details on using GPUs can be found [in the Singularity documentation](https://sylabs.io/guides/latest/user-guide/gpu.html)
+
+To use Nvidia GPUs in a container pass the `--nv` flag to the `run`, `exec` or `shell` command.
+For example:
+
+```console
+$ singularity pull docker://tensorflow/tensorflow:latest-gpu
+$ singularity exec --nv tensorflow_latest_gpu.sif nvidia-smi
+```
+
+Using AMD GPUs is similar but the `--rocm` flag is used.
+For example:
+
+```console
+$ singularity pull docker://rocm/tensorflow:latest
+$ singularity run --rocm tensorflow_latest.sif
+```
+
+When using the `--nv` and `--rocm` graphics drivers and libraries from the host are passed to the container.
+You must therefore ensure that the application inside the container is compatible with the driver stack on the host.
+For example, if the host has support for CUDA 10.2 a container featuring PyTorch build for CUDA 11.3 is likely to problems running.
+
+(rr-renv-containers-singularity-hpc)=
+### Singularity on HPC
 
 Being HPC compatible, singularity containers are also supported by a wide range of workflow management tools.
 For example, both [snakemake](https://snakemake.readthedocs.io/en/stable/) and [nextflow](https://www.nextflow.io/docs/latest/singularity.html) support job-specific singularity containers.
@@ -503,10 +710,10 @@ zenodo is also clearly geared towards long-term storage and discoverability via 
 Thus, it is ideally suited for storing scientific containers associated with particular analyses since these tend to not change over time.
 
 (rr-renv-containers-warning)=
-## Words of Warning
+### Words of Warning
 
 Even though singularity and docker might look similar, they are conceptually very different.
-Besides the obvious fact that singularity does not require root access to run containers, it also handles the distinction between the host and container file system differently.
+Singularity handles the distinction between the host and container file system differently.
 For instance, by default, singularity includes a few bind points in the container, namely:
 
 - `$HOME`

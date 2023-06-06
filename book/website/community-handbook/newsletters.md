@@ -6,7 +6,7 @@ These newsletters include event announcements, updates from the project, highlig
 
 While we send our newsletters by email to our subscribed members, we simultaneously publish and archive them [online on TinyLetter](https://tinyletter.com/TuringWay/archive) so that anyone outside the community can also learn about the project.
 
-```{figure} ../figures/scriberia-newsletter.png
+```{figure} ../figures/scriberia-newsletter.*
 ---
 height: 400px
 name: scriberia-newsletter
@@ -21,7 +21,7 @@ The main motivations to draft these newsletters are the following:
 3. Share information about any upcoming events and opportunities for our members
 4. Maintain ongoing connections with the subscribed members
 
-Currently, Malvika Sharan, community manager, drafts these newsletters that are proofread and co-published with Kirstie Whitaker, the project lead.
+Currently, Malvika Sharan drafts these newsletters that are proofread and co-published with Kirstie Whitaker.
 Newsletters published before September 2020 have been written by Patricia Herterich and Kirstie Whitaker.
 
 In this chapter, we share the process we have established in _The Turing Way_ for collecting news items, drafting the newsletter, documenting any additional updates shared by community members and publishing them through TinyLetter.

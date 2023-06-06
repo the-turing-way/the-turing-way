@@ -1,4 +1,5 @@
 (glossary)=
+
 # Glossary
 
 ## A
@@ -6,17 +7,22 @@
 ```{glossary}
 
 Acceptance Testing
- A level of the software testing process where a system is tested for acceptability. The purpose of this test is to evaluate the system's compliance with the project requirements and assess whether it is acceptable for the purpose.
+  A level of the software testing process where a system is tested for acceptability. The purpose of this test is to evaluate the system's compliance with the project requirements and assess whether it is acceptable for the purpose.
 
 Acknowledgements
- Where contributions to a project that don't qualify as authorship are written. It records the contributors name and the contribution that they made is described.
+  Where contributions to a project that don't qualify as authorship are written. It records the contributors name and the contribution that they made is described.
 
 Add
- Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit.
+  Command used to add files to the staging area. Allows the user to specify which files or directories to include in the next commit.
+
+Adversarial Learning
+  A process under which learning systems are exposed to negative stimuli, such as the addition of purposefully manipulated data samples, in order to obtain potentially-beneficial effects. Examples of this technique may include the addition of additional learning objectives which penalise unwanted characteristics of a learning system, for example the ability to distinguish between data records based on inappropriate demographic attributes.
 
 Authors
   Authors in this context are the contributors to _The Turing Way_ project who have made a substantial contribution to the project such as writing a subchapter, facilitating community interactions, maintaining project’s infrastructure and supporting the participation of others through mentored-contributions. All authors are named co-authors on the book as a whole.
+
 ```
+
 ---
 
 ## B
@@ -40,7 +46,9 @@ Bug
 
 Build
   A group of jobs. For example, a build might have two jobs, each of which tests a project with a different version of a programming language. A build finishes when all of its jobs are finished.
+
 ```
+
 ---
 
 ## C
@@ -87,7 +95,7 @@ Conda
   A commonly used package management system.
 
 Consortia authorship
- A collective or community group authorship model. All members of the consortium are considered authors and are usually required to be listed in the published article although sometimes the article is published in the groups name. If not all members of the consortium agree to the responsibilities of authorship, the members that are authors will be listed separately from those who are not. 
+  A collective or community group authorship model. All members of the consortium are considered authors and are usually required to be listed in the published article although sometimes the article is published in the groups name. If not all members of the consortium agree to the responsibilities of authorship, the members that are authors will be listed separately from those who are not.
 
 Container
   Lightweight files that can encapsulate an entire computational environment including its operating system, customised settings, software and files.
@@ -105,15 +113,16 @@ Contributing Guidelines
   Guidelines outlining how a person should go about contributing to an open source project.
 
 Contributors
-  Everyone who has contributed something back to the project. These are members of a research project that have done some work that has made a contribution to the overall completion of the research. This could be a small contribution such as fixing a bug in software or a much larger contribution such as writing an academic article. 
-  
+  Everyone who has contributed something back to the project. These are members of a research project that have done some work that has made a contribution to the overall completion of the research. This could be a small contribution such as fixing a bug in software or a much larger contribution such as writing an academic article.
+
 Corresponding author
- The person who administers an academic article for the research group. They are responsible for receiving the reviewers comments, the proofs, corresponding with the editors and their details are printed on the final version of the published article.
- 
+  The person who administers an academic article for the research group. They are responsible for receiving the reviewers comments, the proofs, corresponding with the editors and their details are printed on the final version of the published article.
+
 CRediT Taxonomy
- The CRediT Taxonomy is a high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. These details are becoming increasingly required by journals as well as authors meeting authorship criteria.
+  The CRediT Taxonomy is a high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. These details are becoming increasingly required by journals as well as authors meeting authorship criteria.
 
 ```
+
 ---
 
 ## D
@@ -122,6 +131,9 @@ CRediT Taxonomy
 
 Data repository
   See repository.
+
+Differential privacy
+  A strategy to provide quantifiable privacy guarantees when working with datasets containing personal information. The idea is that if the effect of making a single arbitrary substitution of a single record within the dataset on an aggregated query is below a specific threshold, then the result of any such query would not reveal substantial information about any individual member.
 
 DMP
   Data management plan.
@@ -140,11 +152,17 @@ Docker Registry
 
 Digital Object Identifier
   A digital object identifier (DOI) is a persistent identifier or handle used to identify objects uniquely, standardized by the International Organization for Standardization (ISO). An implementation of the Handle System, DOIs are in wide use mainly to identify academic, professional, and government information, such as journal articles, research reports, data sets, and official publications. However, they also have been used to identify other types of information resources, such as commercial videos.
+
 ```
+
 ---
+
 ## E
 
 ```{glossary}
+
+Epistemology
+  Theory of knowledge and deals with how knowledge is gathered and from which sources. In research terms your view of the world and of knowledge strongly influences your interpretation of data and therefore your philosophical standpoint should be made clear from the beginning. (Source: [Post by Nicole Brown](https://www.nicole-brown.co.uk/epistemology/))
 
 Equitable, Diverse and Inclusive Practices
   Ensuring scholarship is open to anyone without barriers based on factors such as race, background, gender, and sexual orientation.
@@ -153,19 +171,26 @@ End to End Test
   A test that runs the program from beginning to end and verifies that the output is correct.
 
 ```
+
 ---
+
 ## F
 
 ```{glossary}
 
 FAIR
   Findable, Accessible, Interoperable and Reusable.
-  
+
+Federated Learning
+  A design paradigm for information processing technologies in which the processing of information is decentralized and local data samples are not exchanged in full with a central entity. Used in machine learning to denote a system where learning is carried out via multiple nodes through the exchange of parameter values or other learning products rather than data samples directly.
+
 First author
- The most prominent position in academic authorship. It conveys this person's position as the researcher who has made the greatest contribution to the research. 
-  
+  The most prominent position in academic authorship. It conveys this person's position as the researcher who has made the greatest contribution to the research.
+
 ```
+
 ---
+
 ## G
 
 ```{glossary}
@@ -180,20 +205,23 @@ Github
 
 GitLab
   GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
-  
+
 Ghost author
  It is a person who writes an academic article without having carried out the research. It could be a professional writer. They would often not qualify as an author under the ICMJE criteria for authorship.
- 
+
 Gift author
  People who are listed as authors but who did not make significant contributions to the research. This is also known as a guest author.
- 
+
 Group authorship
- Some journals permit the use of group names but many require contributors to be listed and/or the writing group to be named. This is the same as shared authorship.
- 
+  Some journals permit the use of group names but many require contributors to be listed and/or the writing group to be named. This is the same as shared authorship.
+
 Guarantor
- As well as fulfilling criteria for being a named author, some journals require one or more authors that take responsibility for the integrity of the work as a whole from inception to the published article.
+  As well as fulfilling criteria for being a named author, some journals require one or more authors that take responsibility for the integrity of the work as a whole from inception to the published article.
+
 ```
+
 ---
+
 ## H
 
 ```{glossary}
@@ -202,31 +230,45 @@ Head
 
 Helm
   A package manager for Kubernetes applications.
-  
+
 Honorary authorship
  This is when an individual becomes a named author even though they have not made a substantial contribution and/or met authorship criteria.
 
 Human Readable
   A human readable medium or human readable format is any encoding of data or information that can be naturally read by humans. Some human readable formats, such as PDF, are not machine readable as they are not structured data, such as the representation of the data on disk does not represent the actual relationships present in the data.
+
 ```
+
 ---
+
 ## I
 
 ```{glossary}
+Identifier
+  An identifier is a key or name used as label or the identity of a unique class of objects, represnting an idea or physical objects. Also see: Persistent Identifier, Digital Object Identifier.
 
 Image
   Files used for generating containers.
 
+Inner source
+  Inner source is the use of open source software development best practices (open collboration, open communication and peer review practices) and the establishment of an open source-like culture within an organisation for the development of a non-open source output.
+
 Integration Testing
   A level of software testing where individual units are combined and tested as a group. The purpose of this level of testing is to expose faults in the interaction between integrated units.
+
+Intersectionality
+  The way in which a person's identities (gender, race, class, sexual orientation, physical ability and others) can overlap and intersect to form a unique experience of social status, discrimination or oppression. This term was coined by Professor Kimberlé Crenshaw.
 
 Issues
   Bug tracking system for GitHub. Collaborators can use issues to report bugs, request features, or set milestones for projects. Issues are tracked, reported, and closed by collaborators during the development process. They’re a great way of communicating with your team and reporting progress.
 
 Issue Tracking
   The process of tracking current issues on the project, such as bug fixing, rolling out new features or community engagement plans.
+
 ```
+
 ---
+
 ## J
 
 ```{glossary}
@@ -236,27 +278,36 @@ Job
 
 JupyterHub
   A multi-user server for Jupyter Notebook instances.
+
 ```
+
 ---
+
 ## K
 
 ```{glossary}
 
 Kubernetes
   Autonomous computational cluster manager.
+
 ```
+
 ---
+
 ## L
 
 ```{glossary}
 
 License
   This is a legal document that sets out the permissions for creative and academic work. It explains copyright, ensures proper attribution and sets out how others can copy, distribute and make use of the works.
-  
+
 Last author
- Usually the person in the research team with a supervisory role such as a PhD supervisor or Principal investigator. This is discipline dependent as sometimes the last author is the person that has made the smallest contribution to the research.
+  Usually the person in the research team with a supervisory role such as a PhD supervisor or Principal investigator. This is discipline dependent as sometimes the last author is the person that has made the smallest contribution to the research.
+
 ```
+
 ---
+
 ## M
 
 ```{glossary}
@@ -284,14 +335,20 @@ Metadata
 
 Mock Test
   Replace a real object with a pretend one to use when running tests.
+
 ```
+
 ---
+
 ## N
 
 ```{glossary}
 
 ```
+
 ---
+
+
 ## O
 
 ```{glossary}
@@ -330,12 +387,15 @@ Open Source Software
   Documenting research code and routines, and making them freely accessible and available.
 
 ORCID
-  Open Researchers and Contributor iD. It is a long lasting unique identifier for you as a researcher. A persistent digital identifier for researchers' that can be used on publications to ensure fair credit is given for all the researchers works. 
+  Open Researchers and Contributor iD. It is a long lasting unique identifier for you as a researcher. A persistent digital identifier for researchers' that can be used on publications to ensure fair credit is given for all the researchers works.
 
 Owner
   The person/s who has administrative ownership over the organization or repository (not always the same as the original author).
+
 ```
+
 ---
+
 ## P
 
 ```{glossary}
@@ -344,10 +404,13 @@ Package Management System
   A tool for installing, managing, and uninstalling software packages including specific versions.
 
 Persistent Identifier
-  A long-lived method for identifying a resource that is unique, and widely understandable by a community.
+  A long-lasting reference to a document, file, web page, or other digital object for identifying a resource that is unique, and widely understandable by a community. Also see: Digital Object Identifier.
 
 Pattern
   A pattern rule is a rule that contains exactly one % character in the target, which can be used to match a part of a filename.
+
+Peer Review
+  A process of evaluating one's work by others working in the same field.
 
 Persona
   A persona is the detail of an imaginary user or member, based on real-world observations and understandings of existing members or potential future members.
@@ -358,8 +421,14 @@ Persona Canvas
 Phony Target
   A phony target is one that doesn’t correspond to a file on the filesystem. A target is marked as phony by making it a prerequisite of the .PHONY target.
 
+Positionality
+ Differences in social position and power shape identities and access in society. In acknowledging positionality, we also acknowledge intersecting social locations and complex power dynamics (also see: Intersectionality).
+
 Power Users
   These are people who are already familiar enough with a platform to know the gotchas and tricks that make their experience more efficient.
+
+Preprint
+   A preprint is a version of a scholarly or scientific paper that precedes formal peer review and publication in a peer-reviewed scholarly or scientific journal. It is usually uploaded by the authors to a public server where it is available openly.
 
 Prerequisite
   The prerequisite(s) of a rule correspond to files or other targets in the Makefile that must be up to date before the rule is run.
@@ -372,14 +441,19 @@ Pull Request
 
 Push
   Sending changes to a remote repo. The remote repository is updated with the changes pushed and now mirrors the local repo.
+
 ```
+
 ---
+
 ## Q
 
 ```{glossary}
 
 ```
+
 ---
+
 ## R
 
 ```{glossary}
@@ -420,6 +494,9 @@ Research Data Management
 Research Ethics
   Research ethics are the moral principles that govern how researchers should carry out their work. These principles are used to shape research regulations agreed by groups such as university governing bodies, communities or governments. All researchers should follow any regulations that apply to their work.
 
+Research Objects
+  Research objects are living resources aggregating inputs, materials, methods and/or software used in research.
+
 Review
   Suggesting changes or asking for committing something to an already created pull request.
 
@@ -443,13 +520,18 @@ Runtime Test
   Tests embedded within the program which are run as part of it.
 
 ```
+
 ---
+
 ## S
 
 ```{glossary}
 
 Self Archiving
   Placing a publication or other research outputs in a suitable repository, institutional or subject-based, following the possible restrictions posed by the publisher, for example an embargo period, or limits on the allowed version to be deposited in such archives.
+
+Self Reflection
+  Activity of thinking about our thoughts, feelings, emotions, behaviour action, and the reasons that may lie behind them. Taking the time for reflection we can grow our understanding of who we are, what our values are, and why we think, feel, and act the way we do. When we self-reflect and become more conscious of what drives us, we can more easily make changes that help us more easily develop our self or improve our life including the way we conduct research (source: [Berkeley Wellbeing](https://www.berkeleywellbeing.com/what-is-self-reflection.html)).
 
 SHA
   Unique string of numbers of letters used to identify every commit or node in the repository.
@@ -473,7 +555,9 @@ System Testing
   A level of the software testing process where a complete, integrated system is tested. The purpose of this test is to evaluate whether the system as a whole gives the correct outputs for given inputs. Also see end to end test.
 
 ```
+
 ---
+
 ## T
 
 ```{glossary}
@@ -495,8 +579,11 @@ Testing Framework
 
 Travis
   A commonly used continuous integration platform.
+
 ```
+
 ---
+
 ## U
 
 ```{glossary}
@@ -506,8 +593,11 @@ Unit
 
 Unit Testing
   A level of the software testing process where individual units of a software are tested. The purpose is to validate that each unit of the software performs as designed.
+
 ```
+
 ---
+
 ## V
 
 ```{glossary}
@@ -516,27 +606,38 @@ Virtual Machine
   A simulated computer that can encapsulate and entire computational environment including its operating system, customised settings, software and files.
 
 ```
+
 ---
+
 ## W
 
 ```{glossary}
 
 ```
+
 ---
+
 ## X
 
 ```{glossary}
 
 ```
+
 ---
+
 ## Y
 
 ```{glossary}
+
 YAML
   A human readable/writable markup language which used by many projects for configuration files.
+
 ```
+
 ---
+
 ## Z
+
 
 ```{glossary}
 

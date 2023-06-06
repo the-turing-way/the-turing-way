@@ -8,7 +8,7 @@ The [LearnGitBranching](https://learngitbranching.js.org/) tool created by [pcot
 This browser-based, interactive tool includes tutorials and allows you to practice using Git through a virtual "repository" and sandbox.
 Through completion of built-in challenges, becoming comfortable with Git commands is more like a game than a chore.
 
-```{figure} ../../figures/interactive-learn-git.png
+```{figure} ../../figures/interactive-learn-git.*
 ---
 name: interactive-learn-git
 alt: An illustration of the interactive, visual Learn Git Brnaching tool interface

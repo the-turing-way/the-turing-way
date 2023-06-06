@@ -7,7 +7,7 @@ A citation includes the following information:
 - Author
 - Title
 - Year of publication
-- Publisher (for data, this is often the data repository where it is housed),
+- Publisher (for data, this is often the data repository where it is housed)
 - Version (if indicated)
 - Access information (a URL or DOI)
 
@@ -23,8 +23,8 @@ See also [FORCE11 resource](https://www.force11.org/node/4771).
 
 (cm-citable-cite-data)=
 ## Citing Data
-
-When sharing a dataset, use dedicated DOIs and add a **data availability statement** at the end of the paper or in online repository details (similar to the acknowledgement section).
+When sharing a dataset, use the assigned DOI (from the data repository) and add this to your data availability statement at the end of the paper (similar to the acknowledgement section). 
+It is important to also cite your dataset in the references themselves, as only the citations in the reference section will contribute to citation counts.
 
 You can find examples of these statements in the publishers' (research data) author policies.
 
@@ -55,12 +55,44 @@ You can find more examples on the [Manchester's Data Access Statements page](htt
 A software citation has a lot of the same elements as a data citation, described above, and are described in more detail in the [Software Citation Principles](https://www.force11.org/software-citation-principles).
 When using others software, it is vital to cite and attribute it properly.
 
+::::{tab-set}
+:::{tab-item} GitHub
+:sync: github_tab
 To make your code citable, you can use the integration between [Zenodo](https://zenodo.org/) and GitHub.
 
 - Create a file to tell people how to cite your software. Use this [handy guide](https://citation-file-format.github.io/cff-initializer-javascript/) to format the file.
 - Link your GitHub account with a Zenodo account. This guide explains [how](https://guides.github.com/activities/citable-code/).
-- You can tell Zenodo what information or metadata you want to include with your software by adding a `zenodo.json` file, described [here](https://guide.esciencecenter.nl/citable_software/making_software_citable.html).
+- You can tell Zenodo what information or metadata you want to include with your software by adding a `zenodo.json` file, described [here](https://guide.esciencecenter.nl/#/citable_software/making_software_citable).
 - On Zenodo, flip the switch to the 'on' position for the GitHub repository you want to release.
 - On GitHub, click the *Create a new release* button.
 Zenodo should automatically be notified and should make a snapshot copy of the current state of your repository (just one branch, without any history), and should also assign a persistent identifier (DOI) to that snapshot.
 - Use the DOI in any citations of your software and tell any collaborators and users to do the same!
+:::
+:::{tab-item} GitLab
+:sync: gitlab_tab
+
+To make your code citable, through an automated publication of your Gitlab repository to [Zenodo](https://zenodo.org/):
+
+- Create a file to tell people how to cite your software. Use this [handy guide](https://citation-file-format.github.io/cff-initializer-javascript/) to format the file.
+- Convert your `citation.cff` file to `.zenodo.json`.
+This file tells Zenodo what information or metadata you want to include with your software.
+
+    ```bash
+    pip install cffconvert
+    cffconvert --validate
+    cffconvert --format zenodo --outfile .zenodo.json 
+    ```
+
+- Add `.zenodo.json` to your repository.
+- Use the [gitlab2zenodo](https://gitlab.com/sbeniamine/gitlab2zenodo) package to publish a snapshot of your repository to your Zenodo instance.
+By following the installation and setup instructions of this package, you will get a workflow on your {ref}`CI <rr-ci-options>` that will take care of the publication to Zenodo.
+- Use the DOI in any citations of your software and tell any collaborators and users to do the same!
+
+```{note}
+If you don't have a Zenodo record for your software yet when you attempt to publish it for the first time, you may encounter an error due to the undefined `ID`. 
+To address this issue, we recommend manually creating a record on Zenodo and updating the value of the {ref}`CI <rr-ci-options>` variable `zenodo_record`. 
+Detailed instructions for this process can be found in the [gitlab2zenodo](https://gitlab.com/sbeniamine/gitlab2zenodo) installation and setup instruction.
+```
+
+:::
+::::

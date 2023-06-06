@@ -10,7 +10,7 @@ newIssueWelcomeComment: >
   We're really excited to have your input into the project! :sparkling_heart:
 
   <br>If you haven't done so already, please make sure you check out our [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
-  If you need to connect more synchronously with members of _The Turing Way_ community, please feel free to chat with us in our [Slack workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw), or you can join our [Collaboration Cafe](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md) for mentored contribution or co-working.
+  If you need to connect more synchronously with members of _The Turing Way_ community, please feel free to chat with us in our [Slack workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw), or you can join our [Collaboration Cafe](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html) for mentored contribution or co-working.
 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 

@@ -8,7 +8,7 @@ Is there a bus coming? Software is no different, and using a risk assessment app
 A risk matrix is a very popular way of quantifying what’s going on with the thing you’re interested in. One axis measures exposure in some way, and the other the impact of a mishap.
 The further from the origin, the more safeguards are needed to make the risk acceptable.
 
-```{figure} ../../figures/risk-matrix.png
+```{figure} ../../figures/risk-matrix.*
 ---
 name: risk-matrix
 alt: Impact vs complexity risk matrix

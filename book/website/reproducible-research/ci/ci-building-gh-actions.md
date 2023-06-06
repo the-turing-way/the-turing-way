@@ -17,7 +17,7 @@ Jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 ```  
 
 **1. name**
@@ -66,7 +66,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
   test:
     steps:
     - name: npm install
@@ -75,7 +75,7 @@ jobs:
         npm test
 ```
 
-The most basic action is `actions/checkout@v2`.
+The most basic action is `actions/checkout@v3`.
 This uses a GitHub provided action called [`checkout`](https://github.com/actions/checkout) to allow the workflow to access the contents of the repository.
 All the steps of a job run sequentially on the runner associated with the job.
 By default, if a step fails, the subsequent steps of the job are skipped. Each run keyword represents a new process and shell in the runner environment.

@@ -1,0 +1,161 @@
+name: Close talk issues that have happened
+
+on:
+  # Manually run the workflow from the Actions page
+  workflow_dispatch:
+  schedule:
+    # Run every Monday at 00:00 UTC
+    - cron: "0 0 * * 1"
+
+# We set environment variables here so that they are easy to change if the labels
+# or the Community Manager changes
+env:
+  # The label assigned to talks issues
+  TALK_LABEL: "talks-and-workshops"
+  # The label to assign to the new issue reagrding the newsletter
+  NEWSLETTER_LABEL: "newsletter"
+  # The GitHub handle of the person responsible for collating this info into the
+  # newsletter. They will be assigned to the new issue this workflow will create.
+  COMMUNITY_MANAGER: "aleesteele"
+
+jobs:
+  close-talk-issues:
+    runs-on: ubuntu-latest
+    permissions:
+      # Ensure GITHUB_TOKEN has permissions to create, update, and comment on issues
+      issues: write
+    steps:
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install ghapi to interact with the GitHub REST API
+        run: |
+          pip install ghapi
+
+      - name: Close talk issues that have happened and create a new issue to promote them in the newsletter
+        shell: python
+        run: |
+          import sys
+          import re
+          from datetime import datetime
+
+          from ghapi.all import GhApi, paged
+
+          # Set variables
+          owner, repo = r"""${{ github.repository }}""".split("/")
+          talk_label = r"""${{ env.TALK_LABEL }}"""
+          newsletter_label = r"""${{ env.NEWSLETTER_LABEL }}"""
+          community_manager = r"""${{ env.COMMUNITY_MANAGER }}"""
+          github_token = r"""${{ secrets.GITHUB_TOKEN }}"""
+
+          # Authenticate against the GitHub REST API
+          api = GhApi(token=github_token)
+
+          # Get all the open issues in the repo that have talk_label
+          all_issues = paged(
+              api.issues.list_for_repo,
+              owner=owner,
+              repo=repo,
+              state="open",
+              labels=talk_label,
+              per_page=100,
+          )
+
+          # If no issues are returned from the API call, exit the script cleanly
+          if all_issues is None:
+              print("No open talk issues found!")
+              sys.exit()
+
+          # Blank list to store issues to be closed in
+          issues_to_close = []
+
+          # Get today's date
+          today = datetime.now()
+
+          # Establish regular expression for matching dates
+          pattern = re.compile("[0-9]{4}-[0-1][0-9]-[0-3][0-9]")
+
+          # Loop over talk issues and determine if they have happened or not yet
+          for paged_issues in all_issues:
+              for issue in paged_issues:
+                  # Extract date from issue body
+                  match = pattern.search(issue.body)
+
+                  if match is None:
+                      print(f"Date cannot be extracted from: {issue.html_url}")
+                      continue
+                  else:
+                      # Convert into a datetime object
+                      talk_date = datetime.strptime(match[0], "%Y-%m-%d")
+
+                      # Establish if talk_date is more than 7 days in the past from today
+                      to_be_closed = (talk_date - today).days < -7
+
+                      if to_be_closed:
+                          issue_info = {
+                              "issue_url": issue.html_url,
+                              "issue_number": issue.number,
+                          }
+                          issues_to_close.append(issue_info)
+
+          # Cleanly exit the script if there are no issues to close
+          if len(issues_to_close) == 0:
+              print("No issues to close")
+              sys.exit()
+
+          # Close talk issues that are in the past
+          for issue in issues_to_close:
+              api.issues.update(
+                  owner=owner,
+                  repo=repo,
+                  issue_number=issue["issue_number"],
+                  state="closed",
+              )
+
+          # Construct Markdown text listing all the issues that have been closed
+          body = (
+              "Please add the following talks to the next newsletter!\n\n"
+              + "\n".join([f"- {issue['issue_url']}" for issue in issues_to_close])
+          )
+
+          # Check if a newsletter issue is already open
+          all_issues = paged(
+              api.issues.list_for_repo,
+              owner=owner,
+              repo=repo,
+              state="open",
+              creator="github-actions[bot]",
+              labels=newsletter_label,
+              per_page=100,
+          )
+
+          paged_issues = next((p for p in all_issues), False)
+
+          if paged_issues:
+              create_new_issue = False
+              # We take the number of the first returned issue here
+              issue_number = paged_issues[0].number
+          else:
+              create_new_issue = True
+              issue_number = None
+
+          if create_new_issue:
+              # An issue doesn't exist, create one
+              api.issues.create(
+                  owner=owner,
+                  repo=repo,
+                  title=":robot: Recent talks to promote in the newsletter",
+                  body=body,
+                  labels=[newsletter_label],
+                  assignees=[community_manager],
+              )
+          else:
+              # An issue exists, add list of newly closed issues as a comment
+              api.issues.create_comment(
+                  owner=owner,
+                  repo=repo,
+                  issue_number=issue_number,
+                  body=body,
+              )

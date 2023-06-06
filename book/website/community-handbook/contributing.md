@@ -6,7 +6,7 @@ However, these new contributions need to be consistent with the overall theme, p
 
 Since _The Turing Way_ is written asynchronously by multiple authors around the world, we created a series of templates to guide different kinds of content development while maintaining a consistent format of the book.
 
-```{figure} ../figures/that-could-be-a-chapter.jpg
+```{figure} ../figures/that-could-be-a-chapter.*
 ---
 height: 400px
 name: that-could-be-a-chapter

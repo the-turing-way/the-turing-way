@@ -95,7 +95,7 @@ To avoid this from keeping interested readers from experimenting with the code,
 a combination of the Python package
 [repo2docker](https://github.com/jupyter/repo2docker) and a free
 [BinderHub](https://mybinder.org/) hosting service is used.
-For details on these techniques, see the chapter on {ref}`BinderHub<rr-binderhub>`.
+For details on these techniques, see the chapters on {ref}`Binder<binder>` and {ref}`BinderHub<rr-binderhub>`.
 This allows interested individuals to start an interactive version of the
 repository with all required software preinstalled - in exactly the right
 versions!

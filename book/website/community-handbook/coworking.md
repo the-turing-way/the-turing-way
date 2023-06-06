@@ -10,7 +10,7 @@ They are also, for the most part, unpaid to contribute to this open source proje
 
 We bring the practice of coworking to _The Turing Way_ using online coworking calls, through which we intend to develop a sense of energy and inspiration similar to in-person interactions but without the time and travel commitments.
 
-```{figure} ../figures/coworking.png
+```{figure} ../figures/coworking.*
 ---
 height: 300px
 name: coworking
