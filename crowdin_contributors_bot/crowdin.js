@@ -22,9 +22,9 @@ async function updateReadme() {
     <thead>
       <tr>
         <th>S/N</th>
+        <th>Picture</th>
         <th>Full Name</th>
         <th>Crowdin Username</th>
-        <th>Picture</th>
         <th>Words Translated</th>
         <th>Languages</th>
       </tr>
@@ -39,9 +39,9 @@ async function updateReadme() {
 
         table += `<tr>
       <td>${index + 1}</td>
+      <td><img src="${avatarUrl}" alt="Profile Picture" /></td>
       <td>${fullname}</td>
       <td>${username}</td>
-      <td><img src="${avatarUrl}" alt="Profile Picture" /></td>
       <td>${no_of_words_translated}</td>
       <td>${languages_translated}</td>
     </tr>`;
