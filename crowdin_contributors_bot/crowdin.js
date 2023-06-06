@@ -19,7 +19,7 @@ async function updateReadme() {
     // should update the readme file with the report
 }
 
-async function downloadFileFromUrl(url) {
+async function downloadReportFile(url) {
     const file = fs.createWriteStream('file' + '.' + FILE_FORMAT);
     https.get(url, response => {
         response.pipe(file);
@@ -29,6 +29,7 @@ async function downloadFileFromUrl(url) {
 }
 
 async function start() {
+    // Generate project report
     const generate_report_endpoint = TTW_CROWDIN_API_DOMAIN + '/projects/1/reports'
     const response = await axios.post(
         generate_report_endpoint,
@@ -48,7 +49,7 @@ async function start() {
 
     // Report takes less than 10 seconds to generate
     setTimeout(() => {
-        async function prepareReport() {
+        async function getProjectReport() {
             const get_report_endpoint = TTW_CROWDIN_API_DOMAIN + `/projects/1/reports/${report_id}/download`
             const report_response = await axios.get(
                 get_report_endpoint,
@@ -57,11 +58,11 @@ async function start() {
 
             const file_download_url = report_response.data.data.url
             
-            await downloadFileFromUrl(file_download_url)
+            await downloadReportFile(file_download_url)
             await updateReadme()
         }
 
-        prepareReport().catch((error) => {
+        getProjectReport().catch((error) => {
             console.log(error)
             process.exit(1)
         })
