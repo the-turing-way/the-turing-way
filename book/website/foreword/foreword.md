@@ -2,7 +2,7 @@
 # Foreword
 
 _The Turing Way_ is open for anyone to use, contribute to and share. 
-You can inspect our resources on [GitHub](https://github.com/alan-turing-institute/the-turing-way), contribute to the project as described in our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
+You can inspect our resources on [GitHub](https://github.com/alan-turing-institute/the-turing-way), contribute to the project as described in our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md)).
 
 Although _The Turing Way_ core team is located in London (UK) and receives support from [The Alan Turing Institute](https://www.turing.ac.uk/), the project is designed to be a global collaboration.
 Chapters have been written, reviewed and curated by members from international research institutes and universities, government departments, and industry.
