@@ -69,10 +69,10 @@ Therefore, this document is intended to be modified to make it specific for your
 13. Job title
 
 14. Career stage (Phases based on https://www.leru.org/files/UK-England.pdf)
-- [ ] Phase 1 (e.g. PhD candidate, Research/Teaching Assistant, Junior Research Software Engineer)
-- [ ] Phase 2 (e.g. Research Associate/Fellow, Lecturer, Research Software Engineer or Senior Research Software Engineer, Project Manager)
-- [ ] Phase 3 (e.g. Senior Lecturer, Reader, Senior Research Fellow, Research Group Leader, Research Software Group Leader, Chief Technical Officer, Programme Manager)
-- [ ] Phase 4 (e.g. Full Professor, Director of Research Computing, EU Project Coordinator, Director of Programme)
+- [ ] Phase 1 (for example: PhD candidate, Research/Teaching Assistant, Junior Research Software Engineer)
+- [ ] Phase 2 (for example: Research Associate/Fellow, Lecturer, Research Software Engineer or Senior Research Software Engineer, Project Manager)
+- [ ] Phase 3 (for example: Senior Lecturer, Reader, Senior Research Fellow, Research Group Leader, Research Software Group Leader, Chief Technical Officer, Programme Manager)
+- [ ] Phase 4 (for example: Full Professor, Director of Research Computing, EU Project Coordinator, Director of Programme)
 
 15. What is your research domain/field or area of work?
 
