@@ -2,7 +2,7 @@
     <thead>
       <tr>
         <th>S/N</th>
-        <th>Picture</th>
+        <th>Profile</th>
         <th>Full Name</th>
         <th>Crowdin Username</th>
         <th>Words Translated</th>
