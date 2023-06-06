@@ -49,12 +49,38 @@ async function updateReadme() {
 
     table += `</tbody></table>`;
 
-    const filename = 'CROWDIN_CONTRIBUTORS.md';
-    fs.writeFile(filename, table, (err) => {
+    const readme_file = '../README.md';
+    fs.readFile(readme_file, 'utf8', (err, data) => {
         if (err) {
-            console.error(`Error writing file: ${err}`);
+            console.error(`Error reading file: ${err}`);
         } else {
-            console.log(`Markdown file "${filename}" created successfully.`);
+            const startMarker = '<!-- CROWDIN-CONTRIBUTORS-LIST:START -->';
+            const endMarker = '<!-- CROWDIN-CONTRIBUTORS-LIST:END -->';
+            const startIdx = data.indexOf(startMarker);
+            const endIdx = data.indexOf(endMarker);
+
+            console.log(startIdx, endIdx);
+
+            if (startIdx !== -1 && endIdx !== -1) {
+                const updatedContent =
+                    data.substring(0, startIdx + startMarker.length) +
+                    '\n' +
+                    table +
+                    '\n' +
+                    data.substring(endIdx);
+
+                fs.writeFile(readme_file, updatedContent, (err) => {
+                    if (err) {
+                        console.error(`Error writing file: ${err}`);
+                    } else {
+                        console.log(`Markdown file "${readme_file}" updated successfully.`);
+                    }
+                });
+            } else {
+                console.error(
+                    `Start and/or end markers not found in the file "${readme_file}".`
+                );
+            }
         }
     });
 }
