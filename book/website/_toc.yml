@@ -518,7 +518,7 @@ parts:
               - title: Registration forms
                 file: collaboration/organising-conference/reg-forms
               - title: Template for registration form
-                file: collaboration/organising-conference/reg-forms-template  
+                file: collaboration/organising-conference/reg-form-template  
           - title: Chairing Events
             file: collaboration/chairing
           - title: Participating in Events
