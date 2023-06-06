@@ -48,32 +48,39 @@ parts:
           - title: Version Control
             file: reproducible-research/vcs
             sections:
-              - title: General Workflow
-                file: reproducible-research/vcs/vcs-workflow
-              - title: Getting Started with Git
-                file: reproducible-research/vcs/vcs-git
-              - title: Git Commit Command
-                file: reproducible-research/vcs/vcs-git-commit
-              - title: Retrieving and Comparing Versions
-                file: reproducible-research/vcs/vcs-git-compare
-              - title: Git Branches
-                file: reproducible-research/vcs/vcs-git-branches
-              - title: Merging Branches in Git
-                file: reproducible-research/vcs/vcs-git-merge
-              - title: Interactive, Visual Git
-                file: reproducible-research/vcs/vcs-git-interactive
-              - title: Git Commands to Work on GitHub
-                file: reproducible-research/vcs/vcs-github
-              - title: Summary Table of Git Commands
-                file: reproducible-research/vcs/vcs-git-summary
-              - title: Version Control for Data
-                file: reproducible-research/vcs/vcs-data
-              - title: Personal Stories
-                file: reproducible-research/vcs/vcs-personal-stories
-              - title: Checklist
-                file: reproducible-research/vcs/vcs-checklist
-              - title: Resources
-                file: reproducible-research/vcs/vcs-resources
+               - title: Version Control Workflow
+                 file: reproducible-research/vcs/vcs-workflow
+               - title: Version Control and Branches
+                 file: reproducible-research/vcs/vcs-workflow-branches  
+               - title: The Git Version Control Software 
+                 file: reproducible-research/vcs/vcs-git-general 
+               - title: Git for Research Projects 
+                 file: reproducible-research/vcs/vcs-git-in-research  
+               - title: Git Using the Command Line
+                 file: reproducible-research/vcs/vcs-git
+                 sections:
+                  - title: Git Commit Command
+                    file: reproducible-research/vcs/vcs-git-commit
+                  - title: Retrieving and Comparing Versions
+                    file: reproducible-research/vcs/vcs-git-compare
+                  - title: Git Branches
+                    file: reproducible-research/vcs/vcs-git-branches
+                  - title: Merging Branches in Git
+                    file: reproducible-research/vcs/vcs-git-merge
+                  - title: Interactive, Visual Git
+                    file: reproducible-research/vcs/vcs-git-interactive
+                  - title: Git Commands to Work on GitHub
+                    file: reproducible-research/vcs/vcs-github
+                  - title: Summary Table of Git Commands
+                    file: reproducible-research/vcs/vcs-git-summary
+               - title: Version Control for Data
+                 file: reproducible-research/vcs/vcs-data
+               - title: Personal Stories
+                 file: reproducible-research/vcs/vcs-personal-stories
+               - title: Checklist
+                 file: reproducible-research/vcs/vcs-checklist
+               - title: Resources
+                 file: reproducible-research/vcs/vcs-resources
           - title: Licensing
             file: reproducible-research/licensing
             sections:
@@ -243,6 +250,7 @@ parts:
             sections:
               - title: A Statistical Methods Manuscript
                 file: reproducible-research/case-studies/case-study-statistical
+
 
       # ===== Guide for Project Design ========================================
 
