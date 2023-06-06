@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.4.0",
-    "dotenv": "^16.1.4"
+    "dotenv": "^16.1.4",
+    "fs": "^0.0.1-security"
   }
 }
