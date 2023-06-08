@@ -44,7 +44,8 @@ alt: Global warming stripes, by Ed Hawkins.
 Global warming stripes, by Ed Hawkins.
 ```
 
-This more verbose figure makes it more explicit what the Global warming stripes. You can find these and more figures in the [canonical warming stripes page](https://showyourstripes.info/s/globe).
+This more verbose figure makes it more explicit what the global warming stripes represent. You can find these and more figures in the [canonical warming stripes page](https://showyourstripes.info/s/globe).
+
 
 ```{figure} ../../figures/ GLOBE---1850-2022-MO-barslabel.*
 ---
