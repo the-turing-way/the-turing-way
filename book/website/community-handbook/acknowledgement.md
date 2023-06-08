@@ -2,7 +2,6 @@
 # Acknowledging Contributors
 
 _The Turing Way_ is collaboratively developed by its diverse community of researchers, learners, educators, and other stakeholders.
-This project can simply not exist without the collaborative nature of this project and the willingness of our community members to work cooperatively to create this book.
 
 Everyone has a skill that is useful for someone, and therefore anyone can contribute to _The Turing Way_.
 We value all kinds of contributions in this project and are committed to recognising each of them fairly.
