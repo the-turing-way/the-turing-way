@@ -18,7 +18,7 @@ We involve and support a diverse community in making data science accessible, co
 
 🎯 **Overview**
 ^^^
-
+```{dropdown} Click here to read
 _The Turing Way_ is:
 * a handbook,
 * a community,
@@ -28,6 +28,7 @@ Our moonshot goal is to make reproducibility
 *'too easy not to do'*!
 
 Read {ref}`Foreword Section<fw>` for the project details.
+```
 :::
 
 :::{grid-item-card}
@@ -37,7 +38,7 @@ Read {ref}`Foreword Section<fw>` for the project details.
 
 📚 **Handbook** 
 ^^^
-
+```{dropdown} Click here to read
 _The Turing Way_ Guides for:
 * {ref}`Reproducible Research<rr>`
 * {ref}`Project Design<pd>`
@@ -45,7 +46,7 @@ _The Turing Way_ Guides for:
 * {ref}`Collaboration<cl>`
 * {ref}`Ethical Research<er>`
 * {ref}`Community Handbook<ch>`
-
+```
 :::
 
 :::{grid-item-card}
@@ -55,7 +56,7 @@ _The Turing Way_ Guides for:
 
 💐 **Community**
 ^^^
-
+```{dropdown} Click here to read
 We are a community of learners, educators, 
 researchers, industry professionals, policymakers
 and contributors from different interests, backgrounds 
@@ -63,7 +64,7 @@ and domain expertise in data science.
 
 * {ref}`Community Handbook<ch>`
 * {ref}`Afterword Section<aw>` for contributors details.
-
+```
 :::
 
 :::{grid-item-card}
@@ -73,14 +74,14 @@ and domain expertise in data science.
 
 👋 **Connect**
 ^^^
-
-* Connect on [Slack Workspace](https://tinyurl.com/jointuringwayslack)
-* Receive [our Newsletters](http://tinyletter.com/TuringWay)`
-* Attend [an event](https://docs.google.com/spreadsheets/d/1C-VZvmFL4PnSBsv_G9ZD3dwjIYLno3NyL7oHvbplnWs/edit?usp=sharing)
-* Address [Good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-* Contribute to {ref}`a chapter<ch-contributing>`
+```{dropdown} Click here to read
+* [Slack Workspace](https://tinyurl.com/jointuringwayslack)
+* [Newsletters](http://tinyletter.com/TuringWay) 
+* [Community events](https://docs.google.com/spreadsheets/d/1C-VZvmFL4PnSBsv_G9ZD3dwjIYLno3NyL7oHvbplnWs/edit?usp=sharing)
+* [Good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+* {ref}`a chapter<ch-contributing>`
 * Join a {ref}`Working Group<fw-governance>`
-
+```
 :::
 
 :::{grid-item-card}
@@ -90,14 +91,14 @@ and domain expertise in data science.
 
 🤝 **Participate**
 ^^^
-
+```{dropdown} Click here to read
 We value your participation and all kinds of contributions!
 Follow our:
 * [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)
 * {ref}`Code of Conduct<ch-coc>`
 * {ref}`Community Roles<fw-community-roles>`
 * {ref}`Acknowledgement Process<ch-acknowledgement-members>`
-
+```
 :::
 
 :::{grid-item-card}
@@ -107,19 +108,29 @@ Follow our:
 
 ⭐ **Cite us**
 ^^^
-
+```{dropdown} Click here to read
 The Turing Way Community. (2022). The Turing Way: 
 A handbook for reproducible, ethical and collaborative 
 research (1.0.2). Zenodo. [DOI 10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853)
 
 Read details in {ref}`citation<fw-cite-us>` chapter.
-
+```
 :::
 
 ::::
 
+(welcome-community)=
+## _The Turing Way_ Community
+
+_The Turing Way_ is developed, maintained and driven by our wonderful {ref}`community of contributors<contributors-record-highlights>`.
+
+All stakeholders, including researchers, software engineers, project leaders and funding teams, are encouraged to engage with _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
+Our goal is to provide all the information that professional and non-professional data experts in **academia, industry and the public sector** need to ensure that the projects they work on are easy to reproduce and reuse.
+
+Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member. 
+
 (welcome-reader)=
-## Top Tips for Readers, Editors, Presenters
+### Top Tips for Readers, Editors, Presenters
 
 ```{admonition}
 :class: tip
@@ -136,16 +147,6 @@ Get started by reading {ref}`Contribution and Development<ch-contributing>` chap
 **Want to give a Turing Way talk this year?** 
 We would love to support you in representing _The Turing Way_ at an event or share about the project in your network and communities.
 We have put together resources described in the {ref}`ch-presenting` chapter to get you started. 
-
-(welcome-community)=
-## _The Turing Way_ Community
-
-_The Turing Way_ is developed, maintained and driven by our wonderful {ref}`community of contributors<contributors-record-highlights>`.
-
-All stakeholders, including researchers, software engineers, project leaders and funding teams, are encouraged to engage with _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
-Our goal is to provide all the information that professional and non-professional data experts in **academia, industry and the public sector** need to ensure that the projects they work on are easy to reproduce and reuse.
-
-Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member. 
 
 (welcome-team)=
 ## _The Turing Way_ Project Team
