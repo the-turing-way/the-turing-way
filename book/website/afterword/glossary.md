@@ -369,7 +369,7 @@ Open Educational Resources
   Making educational resources publicly available to be re-used and modified.
 
 Open Source Hardware
-  Documenting designs, materials, and other relevant information related to hardware, and making them freely accessible and available.
+  Hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design. 
 
 Open License
   A license is a document that specifies what can and cannot be done with a work. It grants permissions and states restrictions. Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
