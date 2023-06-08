@@ -73,7 +73,7 @@ Everyone who contributes to this book, no matter how small or big their contribu
 Long-term contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project, as described in the [Ways of Working document](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md).
 
 The project is coordinated by the co-lead investigators **Kirstie Whitaker** (founder) and **Malvika Sharan**, and hosted at [The Alan Turing Institute](https://www.turing.ac.uk/).
-**Anne Lee Steele** is the Community Manager of The Turing Way since March 2022.
+**Anne Lee Steele** is the Community Manager of The Turing Way since March 2022 and **Alexandra Araujo Alvarez** is the Research Project Manager since February 2023.
 
 You can read [_The Turing Way_ acknowledgement process](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) and [Record of Contributions](https://the-turing-way.netlify.app/afterword/contributors-record.html) to learn about how we acknowledge your work and how our contributors are highlighted in the project.
 Please see the [Contributors Table](#contributors) for the GitHub profiles of all our contributors.
@@ -137,9 +137,9 @@ We have used a few of these illustrations in the [Welcome Bot](https://github.co
 
 #### Email
 
-You can contact *The Turing Way* team by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).
+You can contact *The Turing Way* team by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com) or [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
 
-You can also contact **Anne Lee Steele** ([asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)), **Malvika Sharan** ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)) or **Kirstie Whitaker** ([kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)).
+You can also contact **Anne Lee Steele** ([asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)), **Malvika Sharan** ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)), **Alexandra Araujo Alvarez** ([aaraujo.alvarez@turing.ac.uk](mailto:aaraujoalvarez@turing.ac.uk)) or **Kirstie Whitaker** ([kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)).
 
 
 #### Chat
@@ -154,7 +154,7 @@ The room is also accessible with a [Matrix](https://matrix.org) account at [#ala
 We have a *tinyletter* mailing list to which we send monthly project updates.
 Subscribe at <https://tinyletter.com/TuringWay>.
 
-You can also follow us on Twitter ([@turingway](https://twitter.com/turingway)).
+You can also follow us on Twitter ([@turingway](https://twitter.com/turingway)) and [Mastodon](https://fosstodon.org/@turingway).
 
 ## Contributors
 
