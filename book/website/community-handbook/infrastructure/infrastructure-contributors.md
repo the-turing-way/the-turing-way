@@ -1,7 +1,7 @@
 # Contributors
 
 Contributors are published in the book's {ref}`Record of Contributions<contributors-record>`.
-The information for this page's three subsections are source from different places.
+The information for this page's three subsections are sourced from different places.
 
 ## Personal Highlights
 
