@@ -4297,6 +4297,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "spier",
+      "name": "Sebastian Spier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163029?v=4",
+      "profile": "https://spier.hu",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
