@@ -719,9 +719,6 @@ parts:
                 file: community-handbook/acknowledgement/acknowledgement-examples
           - title: Infrastructure
             file: community-handbook/infrastructure
-            sections:
-              - title: Contributors
-                file: community-handbook/infrastructure/infrastructure-contributors
           - title: Monthly Newsletters
             file: community-handbook/newsletters
             sections:
