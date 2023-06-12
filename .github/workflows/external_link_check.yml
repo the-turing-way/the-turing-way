@@ -46,7 +46,6 @@ jobs:
         run: |
           cat .github/workflows/resources/external_link_check_header.md lychee/out.md > issue_text.md
 
-
       - name: Update Issue
         uses: peter-evans/create-issue-from-file@v4
         with:
