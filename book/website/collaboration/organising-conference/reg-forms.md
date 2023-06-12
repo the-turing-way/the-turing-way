@@ -25,7 +25,7 @@ This includes clearly stating what you will do with the data afterwards - will t
 Organisations usually have a privacy statement that can be used for this purpose. 
 An example of a privacy notice can be found on the The Alan Turing Institute website: https://www.turing.ac.uk/privacy-policy 
 
-(cl-organising-conferences-reg-forms=data-must)=
+(cl-organising-conferences-reg-forms-data-must)=
 ## Data you must collect
 You will always need to collect participant details like their name, email and you could also collect organisation/affiliation. 
 
