@@ -733,6 +733,8 @@ parts:
                 file: community-handbook/translation/translation-getting-started
               - title: Your Gateway to Crowdsourced Localization
                 file: community-handbook/translation/translation-hello-crowdin
+          - title: Infrastructure
+            file: community-handbook/infrastructure
           - title: Monthly Newsletters
             file: community-handbook/newsletters
             sections:
