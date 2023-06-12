@@ -1,7 +1,8 @@
 # Template for conference or event registration form
 
 This template includes all the different questions you might want to include on your registration form. 
-This does not your event.
+This does not mean you have include all of these questions for your event.
+
 Please consider carefully what information you need to collect for your specific event and for reporting and monitoring purposes. 
 Therefore, this document is intended to be modified to make it specific for your own purpose. 
 
@@ -150,7 +151,7 @@ Therefore, this document is intended to be modified to make it specific for your
 
 
 ### Other conference organisation questions
-28. Are you presenting at the conference?* (Please select one):
+28. Are you presenting at the conference? (Please select one):
 - [ ] Yes, as a speaker
 - [ ] Yes, a poster 
 - [ ] No
