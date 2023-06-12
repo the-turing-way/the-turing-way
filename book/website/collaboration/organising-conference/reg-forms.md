@@ -21,7 +21,9 @@ You might not think you are collecting sensitive or special category data in a r
 
 You must clearly explain why you’re asking for sensitive information and how you will handle this data.
 This includes clearly stating what you will do with the data afterwards - will this be to inform you on equality, diversity and inclusion, will you use it to write a report?
-Organisations usually have a privacy statement that can be used for this purpose. An example of a privacy notice can be found on the The Alan Turing Institute website: https://www.turing.ac.uk/privacy-policy 
+
+Organisations usually have a privacy statement that can be used for this purpose. 
+An example of a privacy notice can be found on the The Alan Turing Institute website: https://www.turing.ac.uk/privacy-policy 
 
 (cl-organising-conferences-reg-forms=data-must)=
 ## Data you must collect
@@ -40,7 +42,7 @@ You may also need to ask for consent on recording if you're recording speakers a
 ## Data you could collect
 You might also want to ask questions that you will use for reporting such as motivation for participating, what they want to learn from the event, other themes/topics the attendees would be interested in attending.
 
-To learn more about who is attending your events you may also collect information on their background, such as country they are based in, job title and research areas they work in.
+To learn more about who is attending your events, you may also want to collect information on their background, such as country they are based in, job title and research areas they work in.
 
 You might also consider collecting information to inform equality, diversity and inclusion monitoring. 
 This can include age (or banded age categories), ethnic origin, gender. 
@@ -49,26 +51,20 @@ However, this data is important for monitoring the equality, diversity and inclu
 
 (cl-organising-conferences-reg-forms-tips)=
 ## General tips
-Sequence your questions logically after each other.
-
-If you ask an optional question, make it clear that it’s optional.
-
-Do not rely on colour to communicate your questions.
-
-Provide clear explanations for complicated questions to guide people towards choosing the correct answer/option.
-
-Provide contact information of the committee member who can be contacted regarding any errors or questions related to registration.
-
-Clearly state the next steps upon clicking the submit button.
-
-Link the registration form clearly on the webpage and advertise across different community platforms.
+* Sequence your questions logically after each other.
+* If you ask an optional question, make it clear that it’s optional.
+* Do not rely on colour to communicate your questions.
+* Provide clear explanations for complicated questions to guide people towards choosing the correct answer/option.
+* Provide contact information of the committee member who can be contacted regarding any errors or questions related to registration.
+* Clearly state the next steps upon clicking the submit button.
+* Link the registration form clearly on the webpage and advertise across different community platforms.
 
 (cl-organising-conferences-reg-forms-template)=
 ## Template registration form
 
 We have made a template of all the different questions you might want to include on your registraion form. 
 
-You can see and used our registration form template in using this link 
+You can see this on the next page. 
 
 
 
