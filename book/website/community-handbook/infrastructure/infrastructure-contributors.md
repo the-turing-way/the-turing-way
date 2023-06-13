@@ -1,7 +1,7 @@
 # Publishing Contributors
 
 Keeping track of contributions of all types is important: both code and non-code contributors.
-Within The Turing Way, contributors are kept track of and published in the book's {ref}`Record of Contributions<contributors-record>`.
+Within _The Turing Way_, contributors are kept track of and published in the book's {ref}`Record of Contributions<contributors-record>`.
 The rationale and guidance for acknowledging contributions are explained in {ref}`ch-acknowledgement`
 
 The information for the {ref}`Record of Contributions<contributors-record>` page's three subsections are sourced from different places.
