@@ -1,7 +1,7 @@
 # External Link Checking
 
-The external link check tests if links between pages of The Turing Way and other websites work.
-This is a useful tool which helps us ensure that when uses click a link they are brought to a working page.
+The external link check tests if links between pages of _The Turing Way_ and other websites work.
+This is a useful tool which helps us ensure that when users click a link they are brought to a working page.
 
 There is a [GitHub workflow](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/workflows/external_link_check.yml) which regularly tests external links in the book and posts a list of broken links to an [issue](https://github.com/alan-turing-institute/the-turing-way/issues/3171).
 This section explains the processes which updates the broken links issue.
