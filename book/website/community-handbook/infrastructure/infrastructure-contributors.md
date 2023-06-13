@@ -24,13 +24,13 @@ Each time the all contributors bot or CLI is run the table will be written to fi
 
 The table is inserted as HTML between the following sets of tags
 
-```
+```Markdown
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 ```
 
-```
+```Markdown
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
