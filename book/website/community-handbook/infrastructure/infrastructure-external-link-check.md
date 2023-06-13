@@ -21,10 +21,11 @@ The GitHub runners' GitHub token is specified as an environment variable for the
 This prevents false negatives due to rate limiting when testing links to GitHub.
 
 The [Lychee configuration](https://github.com/alan-turing-institute/the-turing-way/blob/main/lychee.toml) in the root of the repository controls the behaviour of Lychee.
+The configuration is a TOML file.
 An example configuration file with explanations can be found in [the Lychee documentation](https://lychee.cli.rs/#/usage/config).
 
 The configuration file can be used to improve the usefulness of the broken links issue.
-In particular, it is possible to exclude domains which are known to produce false negatives.
+In particular, it is possible to exclude domains which are known to produce false negatives using the [`--exclude` argument](https://lychee.cli.rs/#/recipes/filtering-links) on the command line or the equivalent `exclude` key in the [configuration file](https://lychee.cli.rs/#/usage/config).
 
 Lychee produces a report of broken links and save this to a Markdown file.
 The workflow then concatenates this report with an [issue header](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/workflows/resources/external_link_check_header.md) and updates the broken links issue.
