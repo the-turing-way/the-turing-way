@@ -720,6 +720,8 @@ parts:
           - title: Infrastructure
             file: community-handbook/infrastructure
             sections:
+              - title: Publishing Contributors
+                file: community-handbook/infrastructure/infrastructure-contributors
               - title: External Link Checking
                 file: community-handbook/infrastructure/infrastructure-external-link-check
           - title: Monthly Newsletters
