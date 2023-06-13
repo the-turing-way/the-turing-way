@@ -35,17 +35,16 @@ jobs:
           key: cache-lychee-${{ github.sha }} # save cache using commit sha
           restore-keys: cache-lychee- # restore latest cache (not a specific commit)
 
-      - name: Check offline links
+      - name: Check links
         uses: lycheeverse/lychee-action@v1.8.0
         with:
-          args: --config './lychee.toml' --no-progress 'book/website/_build/html/**/*.html' 'book/website/_build/html/**/*.md'
+          args: --config './lychee.toml' --no-progress 'book/website/_build/html/**/*.html'
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Use runners GitHub token to avoid rate limiting
 
       - name: Concatenate Lychee output with issue heaser
         run: |
           cat .github/workflows/resources/external_link_check_header.md lychee/out.md > issue_text.md
-
 
       - name: Update Issue
         uses: peter-evans/create-issue-from-file@v4

@@ -722,6 +722,8 @@ parts:
             sections:
               - title: Contributors
                 file: community-handbook/infrastructure/infrastructure-contributors
+              - title: External Link Checking
+                file: community-handbook/infrastructure/infrastructure-external-link-check
           - title: Monthly Newsletters
             file: community-handbook/newsletters
             sections:
