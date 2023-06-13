@@ -6,6 +6,7 @@ This does not mean you have include all of these questions for your event.
 Please consider carefully what information you need to collect for your specific event and for reporting and monitoring purposes. 
 Therefore, this document is intended to be modified to make it specific for your own purpose. 
 
+```
 **Title:** *add title of event*
 
 **Description:** *add a short description of the event and include date, timings with timezone, location, online/in person only/hybrid.*
@@ -171,6 +172,7 @@ Therefore, this document is intended to be modified to make it specific for your
 - Would you like to apply for the conference’s accessibility fund? *Add details such as - The accessibility fund is designed to support attendees who need additional assistance to participate in the Conference. We can provide financial assistance (up to add amount/person) to help cover support costs for the duration of the conference, or for additional to support remote participation. Please select one of the following options: *
  - [ ] Yes, I wish to apply for the accessibility fund to support my attendance at the Conference - please specify [text box]
  - [ ] No, I do not wish to apply for the accessibility fund
+```
 
 ## Links to other templates of registration forms
 * Software Sustainability Institute's Collaboration Workshop registration form template: https://software.ac.uk/cw23/registration
