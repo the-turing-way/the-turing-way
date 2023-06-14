@@ -14,7 +14,7 @@ Therefore, this document is intended to be modified to make it specific for your
 *Example text*
 *We are convening a conference on ____ , which aims to bring together ________ to _______. This will include __________.*  
 
-*This event is invite only/by application/has a maximum of ___ attendees.  The event is in person/online/hyrbid at _____ on [add date here] between [add times] UTC.*
+*This event is invite only/by application/has a maximum of ___ attendees.  The event is in person/online/hybrid at _____ on [add date here] between [add times] UTC.*
 
 *We will be sending out more information about the content and focus of the event shortly.* 
 
