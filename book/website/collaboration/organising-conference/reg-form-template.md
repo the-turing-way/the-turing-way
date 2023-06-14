@@ -77,7 +77,7 @@ Therefore, this document is intended to be modified to make it specific for your
 
 - What is your research domain/field or area of work?
 
-- What is the closest JACS 3.0 Principal subject code (https://www.hesa.ac.uk/support/documentation/jacs) that clasifies your research area?
+- What is the closest JACS 3.0 Principal subject code (https://www.hesa.ac.uk/support/documentation/jacs) that classifies your research area?
 
 - Age
 
