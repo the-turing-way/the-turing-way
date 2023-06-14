@@ -22,7 +22,7 @@ Therefore, this document is intended to be modified to make it specific for your
 
 *Data privacy*
 
-*No personal data/personal data is collected from you by this form but if you want to read our privacy notice for events at _______, please find it here: [add link to privacy notice]*
+*No personal data/personal data is collected from you by this form but if you want to read our privacy notice for events at _______, please find it here: [add link to privacy notice]* or *We collect personal data about individuals registering for this event. This data includes your name, your email address, your affiliation, country and job title. We will retain this registration information in our server for a year after the completion of the event.*
  
 ## Questions
 ### Questions to gain permissions
