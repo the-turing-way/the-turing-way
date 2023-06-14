@@ -515,7 +515,7 @@ parts:
           - title: Organising Conferences
             file: collaboration/organising-conference
             sections:
-              - title: Registration forms
+              - title: Registration Forms
                 file: collaboration/organising-conference/reg-forms
               - title: Template for Registration Form
                 file: collaboration/organising-conference/reg-form-template
