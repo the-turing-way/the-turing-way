@@ -1,5 +1,5 @@
 (cl-organising-conferences-reg-forms)=
-# Registration forms
+# Registration Forms
 
 (cl-organising-conferences-reg-forms-host)=
 ## Where will you host your registration form?
