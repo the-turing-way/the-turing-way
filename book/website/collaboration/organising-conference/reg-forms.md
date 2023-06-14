@@ -2,7 +2,7 @@
 # Registration Forms
 
 (cl-organising-conferences-reg-forms-host)=
-## Where will you host your registration form?
+## Where will you host your Registration Form?
 There are many different tools that can be used to collect registration data for events.
 Your choice of tool may be related to your access to the tool and also the requirements your organisation has in terms of data protection.
 * Simple tools like Google forms or Microsoft forms can be used for multiple questions to collect information into a simple spreadsheet.
