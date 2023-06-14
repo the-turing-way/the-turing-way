@@ -1,4 +1,4 @@
-# Template for conference or event registration form
+# Template for Conference or Event Registration Form
 
 This template includes all the different questions you might want to include on your registration form. 
 This does not mean you have include all of these questions for your event.
