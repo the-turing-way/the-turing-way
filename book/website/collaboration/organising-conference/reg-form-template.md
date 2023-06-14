@@ -169,7 +169,7 @@ Therefore, this document is intended to be modified to make it specific for your
  - [ ] Yes, I wish to apply for the childcare fund to support my attendance at the conference - please specify [text box]
  - [ ] No
 
-- Would you like to apply for the conference’s accessibility fund? *Add details such as - The accessibility fund is designed to support attendees who need additional assistance to participate in the Conference. We can provide financial assistance (up to add amount/person) to help cover support costs for the duration of the conference, or for additional to support remote participation. Please select one of the following options: *
+- Would you like to apply for the conference’s accessibility fund? *Add details such as - The accessibility fund is designed to support attendees who need additional assistance to participate in the conference. We can provide financial assistance (up to add amount/person) to help cover support costs for the duration of the conference, or for additional to support remote participation. Please select one of the following options: *
  - [ ] Yes, I wish to apply for the accessibility fund to support my attendance at the Conference - please specify [text box]
  - [ ] No, I do not wish to apply for the accessibility fund
 ```
