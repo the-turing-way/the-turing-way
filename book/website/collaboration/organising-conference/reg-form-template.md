@@ -45,7 +45,7 @@ Therefore, this document is intended to be modified to make it specific for your
 
 ### Questions to collect attendees details for running the event (all information collected as open short answers)
 
-- Name (first name, family name)
+- Name (first name, family name/surname)
 
 - Title 
 
