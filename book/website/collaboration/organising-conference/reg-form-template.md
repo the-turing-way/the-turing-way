@@ -51,7 +51,7 @@ Therefore, this document is intended to be modified to make it specific for your
 
 - Preferred pronouns
 
-- Affiliation/Home institution/Organisation
+- Affiliation/Home Institution/Organisation
 
 - Email address
 
