@@ -1,22 +1,22 @@
 # Types of repositories
 
-#### For everything
+## For everything
 - Zenodo
 - Figshare
 - Open Science Framework (OSF)
 
-#### Generic data repositories
+## Generic data repositories
 - Dryad
 - Dataverse
 - 4TU.ResearchData
 
-#### Generic code repositories
+## Generic code repositories
 - GitHub
 - GitLab
 - BitBucket
 
-#### National
+## National
 
-#### Disciplinary
+## Disciplinary
 
-#### Institutional
+## Institutional
