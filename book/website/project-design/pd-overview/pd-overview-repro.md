@@ -1,4 +1,3 @@
-
 (pd-overview-repro)=
 # Collaborative project documentation
 
