@@ -76,3 +76,5 @@ Researchers and data scientists should, in general ensure that they:
 - **respect** human rights: this means not doing work that itself abuses human rights 
 - **protect** human rights: this means trying to ensure that their work cannot be used by others to abuse human rights
 - **fulfil** human rights: this means doing work that actively helps other people be able to enjoy all their human rights
+
+The human rights framework also [supports doing open science](https://openheroines.org/the-human-rights-case-for-open-science-ff58578b09ee). In their [General Comment 25](https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=E%2FC.12%2FGC%2F25&Lang=en) in 2020, the UN Committee on Economic, Social and Cultural Rights stated that "States should promote open science and open source publication of research."

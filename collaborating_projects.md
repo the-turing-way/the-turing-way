@@ -15,7 +15,8 @@ In this effort, the contributions from the Faculty of Applied Sciences have main
 ### Esther Plomp
 
 * Roles:
-  * Book Dash February 2020 Attendee
+  * Project Memebr (2020-Present)
+  * Book Dash Participant 2020
   * Book Dash Planning Committee 2021
   * Semi regular co-working call crasher
 * GitHub id: [EstherPlomp](https://github.com/estherplomp)
@@ -25,7 +26,7 @@ In this effort, the contributions from the Faculty of Applied Sciences have main
 > I'm a Data Steward at the Delft University of Technology, Faculty of Applied Sciences, in the Netherlands, where I support researchers with their data management and open science practices. For my PhD research, I analysed human teeth for their isotopic/chemical composition in order to say something about human mobility patterns (fields of forensics, archaeology, osteology). Next to the Turing Way I'm also involved with other teams, such as the [Open Research Calendar](https://openresearchcalendar.org/) ([follow the calendar on Twitter!](https://twitter.com/OpenResearchCal)), [IsoArcH](https://isoarch.eu/) and I was an [OLS3](https://openlifesci.org/ols-3/) mentor! I'm also interested in anything related to physical samples in research, and I'm a co-chair of the [Research Data Alliance Physical Samples Interest Group](https://www.rd-alliance.org/groups/physical-samples-and-collections-research-data-ecosystem-ig).
 
 * Personal highlights:
-> Thanks to the Turing Way I really learned how to work collaboratively using GitHub. The book dash in February 2020 was a great kick start to actually practise and directly apply these skills, which now allows me to contribute more confidently to other projects as well! I primarily contributed to the Reproducible Research Chapter, to the Research Data Management section. I reviewed existing content and I'm working on adding a section on Data Management Plans and how to handle personal data. I also made a [The Turing Way poster](https://doi.org/10.5281/zenodo.4263403) that I presented during a conference. I hope to pay it forward and facilitate others in learning how to work with GitHub through The Turing Way or The Carpentries workshops. I'm very grateful to be part of this great and inclusive community!
+> Thanks to the Turing Way I really learned how to work collaboratively using GitHub. The book dash in February 2020 was a great kick start to actually practice and directly apply these skills, which now allows me to contribute more confidently to other projects as well! I primarily contributed to the Reproducible Research Chapter, to the Research Data Management section, and to the Research Infrastructure Roles. I reviewed existing content and I'm working on adding a section on Data Management Plans and how to handle personal data. I also made a [The Turing Way poster](https://doi.org/10.5281/zenodo.4263403) that I presented during a conference. I hope to pay it forward and facilitate others in learning how to work with GitHub through The Turing Way or The Carpentries workshops. I'm very grateful to be part of this great and inclusive community!
 
 * More information:
 > I think scientific research should be accessible to anyone that would like to learn and contribute.
@@ -37,7 +38,7 @@ This is a calendar that you can use to stay up to date with open research events
 Visit us at the [Open Research Calendar Website](https://openresearchcalendar.github.io/) or follow the calendar on [Twitter](https://twitter.com/OpenResearchCal)!
 
 * Quote:
-> The 2021 May Book Dash was an exciting opportunity for me to look behind the organisation scenes and to be a part of an amazing team. The week itself was absolutely amazing, especially the discussions and the 'show and tell' session!
+> Being a part of the organising committee for the online Book Dashes was an exciting opportunity for me to look behind the organisation scenes and to be a part of an amazing team. The BookDashes themselves are absolutely amazing, especially the discussions and the 'show and tell' sessions!
 
 ## [Netherlands eScience Center](https://www.esciencecenter.nl/)
 
@@ -49,7 +50,11 @@ Details of each members with their contributions have been listed alphabetically
 
 ### Carlos Martinez Oritz
 
-* Role: **Community manager**, Book Dash November 2020 attendee/helper
+* Role:
+  * Project Memebr (2020-Present)
+  * Book Dash Participant 2020
+  * Book Dash Planning Committee 2021
+  * Community Manager for eScience Center
 * GitHub id: [c-martinez](http://github.com/c-martinez)
 * ORCID: [0000-0001-5565-7577](https://orcid.org/0000-0001-5565-7577)
 * Short bio:
@@ -63,7 +68,9 @@ Details of each members with their contributions have been listed alphabetically
 
 ### Mateusz Kuzak
 
-* Role: **Community manager**, Book Dash November 2020 attendee/helper
+* Role:
+  * Project Memebr (2020-Present)
+  * Book Dash Participant/Helper 2020
 * GitHub id: [mkuzak](http://github.com/mkuzak)
 * ORCID: [0000-0003-0087-6021](https://orcid.org/0000-0003-0087-6021)
 * Short bio:
@@ -84,7 +91,8 @@ You can find more details and background in the chapter [Leveraging the Turing W
 
 ### Susanna-Assunta Sansone
 
-* Role: Book Dash May 2019 attendee
+* Role: 
+  * Book Dash Participant 2019
 * GitHub id: [susannasansone](http://github.com/susannasansone)
 * ORCID: [0000-0001-5306-5690](https://orcid.org/0000-0001-5306-5690)
 * Short bio:
@@ -102,7 +110,8 @@ You can find more details and background in the chapter [Leveraging the Turing W
 
 ### Philippe Rocca-Serra
 
-* Role: Book Dash May 2020 attendee
+* Role: 
+  * Book Dash Participant 2020
 * GitHub id: [proccaserra](http://github.com/proccaserra)
 * ORCID: [0000-0001-9853-5668](https://orcid.org/0000-0001-9853-5668)
 * Short bio:
@@ -128,7 +137,6 @@ This project includes links to (1) general tutorials for the complete beginner, 
 
 ### Isabel Birds
 
-* Role: The Turing Way Contributor
 * GitHub id: [IsabelBirds](http://github.com/IsabelBirds)
 * ORCID: [0000-0001-8173-3879](https://orcid.org/0000-0001-8173-3879)
 * Short bio:

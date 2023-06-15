@@ -13,9 +13,9 @@
   - Commit messages are in the present tense and imperative.
 - Develop new features on their own branches, which you can create via `git checkout -b branch_name` and switch between via `git checkout branch_name`.
   - Make sure branches have informative names.
-  - Make sure the master branch is kept clean.
+  - Make sure the main branch is kept clean.
   - Make sure each branch has a single purpose and only changes related to that purpose are made on it.
-- Once features are complete, merge their branches into the master branch by switching to the feature branch and running `git merge master`.
+- Once features are complete, merge their branches into the main branch by switching to the feature branch and running `git merge main`.
   - Merge other's changes into your work frequently.
   - When dealing with merge conflicts, make sure you fully understand both versions before trying to resolve them.
 

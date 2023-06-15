@@ -53,4 +53,4 @@ All participants will leave understanding how they can take steps to improve the
 ### Any other comments
 
 Thank you for inviting us to submit an application.
-You can see materials from our first version of this workshop at https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder.
+You can see materials from our first version of this workshop at https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/boost-research-reproducibility-binder.

@@ -15,20 +15,20 @@ We're calling these events online *Collaboration Cafes*.
 The goal is to build some personal connections between busy people around the world, support you in figuring out how you can contribute to *The Turing Way*, and have some fun building the book and community together 💖.
 
 You can think of them as capturing and sharing the energy of the May book dashes 📚💨💨 without the travel and long time commitment.
-We've written up a [longer description](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md) in the project repository if you want to learn more.
+We've written up a [longer description](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md) in the project repository if you want to learn more.
 
 **The first one is tomorrow, 4 September, at 3pm UK time** (find your local time [here](https://arewemeetingyet.com/London/2019-09-04/15:00/TuringWay-CollaborationCafe)).
 Don't worry if you can't make the whole two hours, you can join for as long as you'd like, and there will be lots of opportunities for you to join us in future calls.
-Check out [the schedule](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md#dates-and-start-times) to add future dates to your calendar.
+Check out [the schedule](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md#dates-and-start-times) to add future dates to your calendar.
 
 ## Funding approved
 
 We're delighted that *The Turing Way* has been awarded another round of funding from _Tools, Practices and Systems_ branch of the [AI for Science and Government programme](https://www.turing.ac.uk/research/ai-science-engineering-health-and-government) at the Turing.
 🎉 ✨ 💃 🕺 🚀 🌟 🙌
 
-You can read the application [in our GitHub repository](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/tps-funding-application-20190429.md) and we'll
+You can read the application [in our GitHub repository](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/tps-funding-application-20190429.md) and we'll
 have more information in the coming months.
-We'd love for you to help shape the future of the project, so please [get in touch](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#get-in-touch) with any comments or ideas.
+We'd love for you to help shape the future of the project, so please [get in touch](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#get-in-touch) with any comments or ideas.
 
 ## New job celebrations
 
@@ -66,9 +66,9 @@ Thank you for reading this newsletter and for being part of our community.
 We look forward to seeing you soon, IRL or online.
 
 * **Rachael Ainsworth** will present *The Turing Way* at the [Open Science Fair 2019](https://www.opensciencefair.eu/) in Porto, Portugal, September 16-18 as a [poster](https://github.com/alan-turing-institute/the-turing-way/blob/master/conferences/abstracts/OSF19_Poster_submission.md) and during the [demo sessions](https://www.opensciencefair.eu/demos-2019/the-turing-way-a-handbook-for-reproducible-data-science).
-* **Sarah Gibson** will run a [Build a BinderHub](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/build-a-binderhub) workshop (in [two](https://rseconuk2019.sched.com/event/QT66/6w3a-build-a-binderhub-for-hosting-reproducible-software-in-the-cloud-part-1) [parts](https://rseconuk2019.sched.com/event/QT6L/6w3b-build-a-binderhub-for-hosting-reproducible-software-in-the-cloud-part-2)) at the [Fourth Conference of Research Software Engineering](https://rseconuk2019.sched.com/) (RSEConUK) on 17-19 September.
+* **Sarah Gibson** will run a [Build a BinderHub](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/build-a-binderhub) workshop (in [two](https://rseconuk2019.sched.com/event/QT66/6w3a-build-a-binderhub-for-hosting-reproducible-software-in-the-cloud-part-1) [parts](https://rseconuk2019.sched.com/event/QT6L/6w3b-build-a-binderhub-for-hosting-reproducible-software-in-the-cloud-part-2)) at the [Fourth Conference of Research Software Engineering](https://rseconuk2019.sched.com/) (RSEConUK) on 17-19 September.
   She'll also share her experiences as an [operator for Binder](https://discourse.jupyter.org/t/the-operators-no-binder-isnt-forming-a-rock-band/694) on the panel discussion "[RSE Worldwide: Sharing across borders"](https://rseconuk2019.sched.com/event/QP6S/rse-worldwide-sharing-across-borders#).
-* The Zoom call [Collaboration Cafes](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md) will be on the 1st and 3rd Wednesdays of the month.
+* The Zoom call [Collaboration Cafes](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md) will be on the 1st and 3rd Wednesdays of the month.
 * We're always around to chat in our online [Gitter room](https://gitter.im/alan-turing-institute/the-turing-way).
   Come and say hello if you're bored 😉
 

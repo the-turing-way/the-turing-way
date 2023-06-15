@@ -38,7 +38,7 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 
 _The Turing Way_ is a community-led and collaboratively developed project.
 We, therefore, require that all our members and their contributions **adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) (CoC)**.
-Please familiarize yourself with our [CoC](CODE_OF_CONDUCT.md) that lists the expected behaviours. 
+Please familiarize yourself with our [CoC](CODE_OF_CONDUCT.md) that lists the expected behaviours.
 We have also provided details for CoC reporting and enforcement, which can be read in our [Community Handbook](https://the-turing-way.netlify.app/community-handbook/coc.html).
 
 ## Inclusivity
@@ -52,31 +52,40 @@ Here are a few examples of such actions:
 - use respectful, gender-neutral and inclusive language (learn more about inclusive writing on page 22 of [University of Leicester Study Skills pdf](https://www2.le.ac.uk/projects/oer/oers/ssds/oers/study-skills/studyskills.pdf), also available as a [zipped html](https://www2.le.ac.uk/projects/oer/oers/ssds/oers/study-skills/studyskills_HTML.zip)).
 - aim to include perspectives of researchers from different research backgrounds such as science, humanities and social sciences by not limiting the scope to only scientific domains.
 - make sure that the colour palettes are accessible to colour-blind readers and contributors.
-See the blogpost [Designing Scientific Figures for Colour Blindness](https://www.lewismackenzie.science/blog-1/2017/2/9/designing-scientific-figures-for-colour-blindness) for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator.
+See the blogpost [Designing Scientific Figures for Colour Blindness](https://www.lewismackenzie.science/updates-1/2017/2/9/designing-scientific-figures-for-colour-blindness) for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator. for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator.
 
 ## Get in touch
 
 There are many ways to get in touch with _The Turing Way_ team!
 
 - GitHub [issues](https://github.com/alan-turing-institute/the-turing-way/issues) and [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls)
-  - Join a discussion, collaborate one an ongoing task and exchange your thoughts with others.
+  - Join a discussion, collaborate on an ongoing task and exchange your thoughts with others.
   - Can't find your idea being discussed anywhere?
     [Open a new issue](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose)! (See our [Where to start: issues](#where-to-start-issues) section below.)
-- [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way)
-  - We'd love for you to swing by to say hello, if you are new to the project and have any quick question.
 - [Slack Channel](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
-  - For structured discussion and sustained engagement with the community members. 
-  - We will also provide notification on upcoming events and share useful resources on Slack.
+  - For structured discussion and sustained engagement with the community members.
+  - We will also provide notifications on upcoming events and share useful resources on Slack.
+  - You can also ping us on [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) (open source option).
+- Contact the Community Manager of _The Turing Way_ project – Anne Lee Steele – by email at [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)
+- Contact the co-leads of _The Turing Way_ project - Kirstie Whitaker - by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk) and Malvika Sharan - by email at [masharan@turing.ac.uk](mailto:masharan@turing.ac.uk).
+
+### Receiving Updates
+
 - [@turingway](https://twitter.com/turingway) on Twitter
     - Follow us for regular updates
-- [Our mailing list](https://tinyletter.com/TuringWay) 
-    - Receive monthly project updates in a newsletter
-- Contact the Project Lead of _The Turing Way_ project - Kirstie Whitaker - by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
-- Contact the Community Manager of _The Turing Way_ project - Malvika Sharan - by email at [masharan@turing.ac.uk](mailto:masharan@turing.ac.uk).
+- [Our mailing list](https://tinyletter.com/TuringWay): Receive monthly project updates in a newsletter
+- [Fireside Chat Series](https://hackmd.io/@turingway/fireside-chats): Every month, The Turing Way Fireside chat will feature experts, champions and their projects from across different international communities in reproducibility, open research, ethics, collaboration and everything in between. This will be an incredible opportunity for catalysing cross-community collaboration and knowledge sharing.
+- **Useful links**: other links to our resources along with announcements are shared via this HackMD: [hackmd.io/@turingway/demo-intro](https://hackmd.io/@turingway/demo-intro)
+
+### Coworking and Real-Time Collaboration
+
+- [Bimonthly Collaboration Cafe](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html): Every first and third Wednesday (15:00 - 17:00 London time)/. This is an **online collaboration and coworking event** that engage anyone interested in learning and discussing research best practices and sharing them on The Turing Way book: https://the-turing-way.netlify.com*. Shared notes with joining links: https://hackmd.io/@turingway/collaboration-cafe.
+- [Weekly Coworking Calls](https://the-turing-way.netlify.app/community-handbook/coworking.html): Every Monday (11:00 - 12:00 London time)/. This is a synchronous collaborative space to either discuss your ideas or quietly work in an accountable space with _The Turing Way_ team members. Shared notes with joining links: https://hackmd.io/@turingway/coworking-call.
+- [Book Dash Events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) take place 1-2 times a year for a more engaged sprint for collaboration, networking and development either in person 1-2 days, or online for a week for flexible participation. Announcements are made via mailing list, Twitter, Slack and presentations.
 
 ## Contributing through GitHub
 
-[Git][git] is a really useful tool for version control. 
+[Git][git] is a really useful tool for version control.
 [GitHub][github] sits on top of Git and supports collaborative and distributed working.
 
 We know that it can be daunting to start using Git and GitHub if you haven't worked with them in the past, but _The Turing Way_ maintainers are here to help you figure out any of the jargon or confusing instructions you encounter! :heart:
@@ -232,7 +241,7 @@ This allows other members of _The Turing Way_ team to confirm that you aren't ov
 
 [This blog](https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/) is a nice explanation of why putting this work in upfront is so useful to everyone involved.
 
-Remember, if you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/ISSUE_TEMPLATE/ISSUE_TEMPLATE.md).
+Remember, if you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/ISSUE_TEMPLATE/ISSUE_TEMPLATE.md).
 The issue template will automatically be rendered in the comment section of the new issue page so all you need to do is edit the "_Lorem ipsum_" sections.
 
 ### 2. [Fork][github-fork] [_The Turing Way_ repository][turing-way-repo]
@@ -240,7 +249,7 @@ The issue template will automatically be rendered in the comment section of the 
 This is now your own unique copy of _The Turing Way_.
 Changes here won't affect anyone else's work, so it's a safe space to explore edits to the code!
 
-Make sure to [keep your fork up to date][github-syncfork] with the master repository, otherwise, you can end up with lots of dreaded [merge conflicts][github-mergeconflicts].
+Make sure to [keep your fork up to date][github-syncfork] with the main repository, otherwise, you can end up with lots of dreaded [merge conflicts][github-mergeconflicts].
 If you prefer working in the browser, [these instructions](https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser) describe how to sync your fork to the original repository via GitHub.
 
 ### 3. Make the changes you've discussed
@@ -267,7 +276,7 @@ We encourage you to open a pull request as early in your contributing process as
 This allows everyone to see what is currently being worked on.
 It also provides you, the contributor, feedback in real-time from both the community and the continuous integration as you make commits (which will help prevent stuff from breaking).
 
-When you are ready to submit a pull request, you will automatically see the [Pull Request Template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/PULL_REQUEST_TEMPLATE.md) contents in the pull request body.
+When you are ready to submit a pull request, you will automatically see the [Pull Request Template](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/PULL_REQUEST_TEMPLATE.md) contents in the pull request body.
 It asks you to:
 
 - Describe the problem you're trying to fix in the pull request, reference any related issue and use fixes/close to automatically close them, if pertinent.
@@ -292,10 +301,9 @@ Simply make your edits on their files and open a pull request to their branch!
 
 What happens if the continuous integration (CI) fails (for example, if the pull request notifies you that "Some checks were not successful")?
 The CI could fail for a number of reasons.
-At the bottom of the pull request, where it says whether your build passed or failed, you can click “Details” next to the test, which takes you to the Travis page.
+At the bottom of the pull request, where it says whether your build passed or failed, you can click “Details” next to the test, which takes you to a CI run log site.
 If you have the write access to the repo, you can view the log or rerun the checks by clicking the “Restart build” button in the top right.
-Please note that you need to be logged in to Travis CI with your GitHub account see the “Restart build” button.
-You can learn more about Travis in the [Continuous Integration chapter](https://the-turing-way.netlify.com/continuous_integration/continuous_integration.html) of the book!
+You can learn more about CI in the [Continuous Integration chapter](https://the-turing-way.netlify.app/reproducible-research/ci.html)!
 
 GitHub has a [nice introduction][github-flow] to the pull request workflow, but please [get in touch](#get-in-touch) if you have any questions :balloon:.
 
@@ -304,7 +312,7 @@ GitHub has a [nice introduction][github-flow] to the pull request workflow, but 
 - Fork the repository from [`alan-turing-institute/the-turing-way`](https://github.com/alan-turing-institute/the-turing-way) if you have not done so already.
   - On your fork create a branch with the name as the chapter to be written and create a markdown file on it.
 - If you are a contributor to the project repository, you can also create a branch on the main repository with the same name as the chapter to be written without creating a fork (or a local copy).
-- Copy the relevant part of the [chapter template](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/templates/chapter-template) into the markdown file, and commit.
+- Copy the relevant part of the [chapter template](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/templates/chapter-template) into the markdown file, and commit.
 - Make a pull request to _The Turing Way_ version of the chapter branch.
   The title of this request should have the form "[WIP] Write Chapter_name chapter".
   WIP indicates the chapter is a Work In Progress and not yet ready for review.
@@ -322,7 +330,7 @@ GitHub has a [nice introduction][github-flow] to the pull request workflow, but 
 - Discuss and make low-level changes to the chapter on this pull request, such as rewording sentences, typos and the like.
 - This division of the pull requests into high and low-level changes stops discussion threads from becoming unmanageable.
 - Once this is complete merge the pull request into The Alan Turing Intitute's version of the chapter branch.
-- Merge The Alan Turing Intitute's version of the chapter branch into The Alan Turing Institute's master branch.
+- Merge The Alan Turing Intitute's version of the chapter branch into The Alan Turing Institute's main branch.
 - DO not delete the branch as the chapter may continue to undergo improvement and development in the future.
 
 ## Local development
@@ -354,11 +362,11 @@ You are welcome to contribute to the style guide by opening [a new issue](https:
 
 ## Representing _The Turing Way_
 
-We would LOVE people to give talks about the project or represent _The Turing Way_ in other ways! 
-We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) for you to reuse.
+We would LOVE people to give talks about the project or represent _The Turing Way_ in other ways!
+We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/main/communications/promotion-pack) for you to reuse.
 You will find useful details about the project, a list of frequently asked questions, slide decks, and contact details.
 
-If you would like to represent the project in your network, please open an issue and ping @malvikasharan and @KirstieJane so
+If you would like to represent the project in your network, please open an issue and ping @aleesteele, @malvikasharan and @KirstieJane so
 that they can do their best to support you.
 
 We would appreciate if you could share a short abstract and your presentation by adding them to the
@@ -370,7 +378,7 @@ We welcome and recognise all kinds of contributions, from fixing small errors, t
 In the [community handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html), you can read how your contributions will be acknowledged and recorded in _The Turing Way_.
 _The Turing Way_ follows the [all-contributors][all-contributors] specifications.
 The all-contributors bot usage is described [here](https://allcontributors.org/docs/en/bot/usage).
-You can see a list of current contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md). 😍
+You can see a list of current contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md). 😍
 
 To add yourself or someone else as a contributor, comment on the relevant Issue or Pull Request with the following:
 
@@ -384,14 +392,14 @@ The bot will then create a Pull Request to add the contributor and reply with th
 **PLEASE NOTE: Only one contributor can be added with the bot at a time!**
 Add each contributor in turn, merge the pull request and delete the branch (`all-contributors/add-<username>`) before adding another one.
 Otherwise, you can end up with dreaded [merge conflicts][github-mergeconflicts].
-Therefore, please check the [open pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls) first to make sure there aren't any open requests from the bot before adding another.
+Therefore, please check the open pull requests first to make sure there aren't any [open requests from the bot](https://github.com/alan-turing-institute/the-turing-way/pulls/app%2Fallcontributors) before adding another.
 
 What happens if you accidentally run the bot before the previous run was merged and you got those pesky merge conflicts?
 (Don't feel bad, we have all done it! 🙈)
 Simply close the pull request and delete the branch (`all-contributors/add-<username>`).
-If you are unable to do this for any reason, please let us know in the [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) or by opening an issue, and _The Turing Way_ team members will be very happy to help!
+If you are unable to do this for any reason, please let us know on [Slack](https://tinyurl.com/jointuringwayslack), the [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) or by opening an issue, and _The Turing Way_ team members will be very happy to help!
 
-Finally, don't forget to add yourself to the list of contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md)!
+Finally, don't forget to add yourself to the list of contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md)!
 
 ---
 
@@ -410,7 +418,7 @@ _These Contributing Guidelines have been adapted from the [Contributing Guidelin
 [github-pullrequest]: https://help.github.com/articles/creating-a-pull-request
 [github-review]: https://help.github.com/articles/about-pull-request-reviews
 [github-syncfork]: https://help.github.com/articles/syncing-a-fork
-[issue-template]: https://github.com/alan-turing-institute/the-turing-way/blob/master/ISSUE_TEMPLATE.md
+[issue-template]: https://github.com/alan-turing-institute/the-turing-way/blob/main/ISSUE_TEMPLATE.md
 [labels-link]: https://github.com/alan-turing-institute/the-turing-way/labels
 [labels-approval-request]: https://github.com/alan-turing-institute/the-turing-way/labels/approval%20request
 [labels-binderhub]: https://github.com/alan-turing-institute/the-turing-way/labels/binderhub

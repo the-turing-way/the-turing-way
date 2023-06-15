@@ -30,7 +30,7 @@ These contributions can be from fixing bugs to reviewing existing chapters or ad
 *The Turing Way* team members will be present to help you troubleshoot and answer your questions.
 
 Thanks to the positive response from our past attendees, we will continue to hold these working hours on the first Wednesday at 15:00 GMT and third Wednesday at 19:00 GMT of each month.
-You can see the exact date and time for the next few sessions on [this GitHub page](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md).
+You can see the exact date and time for the next few sessions on [this GitHub page](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md).
 
 ## News from the community
 
@@ -108,7 +108,7 @@ The deadline to apply is [1 March 2020](https://neurohackademy.org/apply).
 Wondering how getting involved with this community influences our contributors?
 Our core contributors share their experiences as "impact statements".
 
-This month we want to highlight the impact statements by [Louise Bowler](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/impact_statements/louise-bowler.md) and [Sarah Gibson](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/impact_statements/sarah-gibson.md).
+This month we want to highlight the impact statements by [Louise Bowler](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/impact_statements/louise-bowler.md) and [Sarah Gibson](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/impact_statements/sarah-gibson.md).
 
 Louise started to contribute to this project as part of the Turing's Reproducible Research Champions programme.
 She worked on improving the reproducibility of recent papers written by Turing researchers, a write-up for which will appear at the end of the relevant chapters, with links to the code and guidance on how to set up and use the projects.
@@ -122,7 +122,7 @@ Sarah started by providing technical support to the project for reproducible com
 
 ***We would love to hear from you!***
 
-*If you are able to share your impact story, please get in touch or send a [pull request](https://github.com/alan-turing-institute/the-turing-way/pulls) for your impact statement to be included [here](https://github.com/alan-turing-institute/the-turing-way/tree/master/project_management/impact_statements).*
+*If you are able to share your impact story, please get in touch or send a [pull request](https://github.com/alan-turing-institute/the-turing-way/pulls) for your impact statement to be included [here](https://github.com/alan-turing-institute/the-turing-way/tree/main/project_management/impact_statements).*
 
 ## Requests for your help
 
@@ -159,7 +159,7 @@ The tutorial materials are available [here](https://bit.ly/zero-to-binder-tutori
 Kirstie Whitaker held a "Boost your Research Reproducibility with Binder" workshop at the [British Antarctic Survey](https://www.bas.ac.uk/), which was organised by [Dr Anita Faul](https://www.bas.ac.uk/profile/anfaul/) in Cambridge on 31 January 2020 for the institute members.
 Huge thank you to Anita for organising such a great workshop, and to the participants for their engagement and grace during a Python 2 end of life challenge!
 
-Read a complete report from this workshop [here](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/reports/workshop_report_20200131.md).
+Read a complete report from this workshop [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/boost-research-reproducibility-binder/reports/workshop_report_20200131.md).
 
 ### Open MR Benelux
 

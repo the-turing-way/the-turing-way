@@ -25,7 +25,7 @@ Parts of earlier chapters in _The Turing Way_ were written in `HTML`, making som
 
 For example, {ref}`html-to-markdown` depicts a table that was written in `HTML`.
 
-```{figure} ../../figures/html-to-markdown.png
+```{figure} ../../figures/html-to-markdown.*
 ---
 name: html-to-markdown
 alt: A screenshot of a poorly formatted table written in HTML. The table is squished together and does not have column or row borders. This makes it hard for a reader to decipher its meaning.
@@ -35,7 +35,7 @@ Content written in HTML may not render properly.
 
 When reformatted to Markdown, the table became cleaner and easier to read:
 
-```{figure} ../../figures/html-to-markdown2.png
+```{figure} ../../figures/html-to-markdown2.*
 ---
 name: html-to-markdown2
 alt: A screenshot of a table converted to Markdown from HTML. The table becomes easier to read and understand when converted to Markdown.
@@ -57,7 +57,7 @@ In addition, content like YouTube videos and tables with headers that span multi
 ```{attention} A Note About Styling
 :class: tip
 
-_The Turing Way_ has a [book-wide stylesheet](https://github.com/alan-turing-institute/the-turing-way/blob/master/book/website/_static/book-stylesheet.css) that controls the look of content written in `HTML`.
+_The Turing Way_ has a [book-wide stylesheet](https://github.com/alan-turing-institute/the-turing-way/blob/main/book/website/_static/book-stylesheet.css) that controls the look of content written in `HTML`.
 If you include `HTML` in your contribution, ensure that your formatting includes the relevant classes and IDs from the stylesheet.
 
 For example, if you want to add a YouTube video to your content using the `<iframe>` tag, wrap the `<iframe>` in a `<div>` tag, and give the `div` a `video-container` class as shown below.
@@ -79,27 +79,7 @@ This is also described in the {ref}`Style Guide<ch-style-custom-styling-videos>`
 #### Writing Checklists
 
 When writing a new chapter for _The Turing Way_, you might include a Checklist subchapter that itemises key action points you want readers to take based on the chapter content.
-For earlier chapters in _The Turing Way_, this subchapter is written in Markdown as a Task List with checkboxes:
-
-```
-# Checklist
-- [ ] Item One
-- [ ] Item Two
-- [ ] Item Three
-
-```
-
-However, the checkboxes do not display as intended in the online version of the book, for example:
-
-```{figure} ../../figures/checklist-formatting.png
----
-name: checklist-formatting
-alt: When the Checklist subchapter of any chapter is written in Markdown as a Task List with checkboxes, square brackets are displayed rather than checkboxes in the web version of the book.
----
-Checkboxes are displayed as square brackets in the web version of the book.
-```
-
-Thus, we recommend that you format your Checklist subchapters as unordered lists in your future contributions, and edit earlier chapters that follow the other convention:
+We recommend that you format your Checklist subchapters as unordered lists (checklist items denoted by `[ ]` do not render correctly):
 
 ```
 # Checklist
@@ -108,11 +88,6 @@ Thus, we recommend that you format your Checklist subchapters as unordered lists
 - Item Three
 
 ```
-#### Demo
-
-<div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/oe2Up1pU5DY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 (ch-consistency-formatting-hr-headers)=
 ### Check 2: Use headers in sequential order.
@@ -200,7 +175,7 @@ Soft requirements that deal with _The Turing Way's_ formatting include:
 Some chapters and subchapters in _The Turing Way_ do not match their corresponding references in the book-wide table of contents that appears on the left of the webpage.
 This may be confusing for users, especially when the chapter/subchapter's reference in the table of contents significantly varies from the chapter/subchapter's name.
 
-```{figure} ../../figures/mismatched-title-toc.png
+```{figure} ../../figures/mismatched-title-toc.*
 ---
 name: mismatched-title-toc
 alt: A subchapter whose title differs from its reference in the table of contents. The title of the subchapter is 'Using Spreadsheets for Research Data', however in the table of contents, it is referred as 'Data Organisation in Spreadsheets'.

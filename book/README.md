@@ -1,7 +1,7 @@
 ## The Turing Way Book
 
 This is the README file for _The Turing Way_ book hosted online at https://the-turing-way.netlify.app/.
-For the README file of the main repository please [follow this link](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md).
+For the README file of the main repository please [follow this link](https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md).
 
 All the text for each chapter of the `book` lives inside the folder `./website` directory.
 All figures associated to the chapters are stored in and linked from the `./website/figures` directory.
@@ -57,7 +57,7 @@ jupyter-book build . --builder linkcheck
 The link checker checks if the each link resolves and prints the status on your terminal so that you can check and resolve any incorrect links.
 Read more about this on the [Jupyter Book's GitHub repository](https://github.com/executablebooks/jupyter-book/blob/master/docs/advanced/advanced.md#check-external-links-in-your-book).
 
-#### Installing Dependencies in  a  virtual environment
+#### Installing Dependencies in a virtual environment
 
 Virtual environments are a great way of isolating project-related dependencies from you system-level python installation.
 For more details on virtual environments in python see
@@ -65,15 +65,9 @@ For more details on virtual environments in python see
 To use a virtual environment for building the book project, use
 
 ```
-cd book/website
-virtualenv the-turing-way
+python3 -m venv the-turing-way
 source the-turing-way/bin/activate
-pip install -r requirements.txt
-```
-
-In case you want to use a specific python interpreter, specify the path as
-```
-virtualenv -p /usr/bin/python3.7 the-turing-way
+pip install -r book/website/requirements.txt
 ```
 
 Now you can use the `jupyter-book build .` command inside `book/website` directory as explained above.
@@ -95,7 +89,7 @@ You can find the build history or logs for _The Turing Way_ at https://app.netli
 ## Bibliography
 
 In the directory `./website/_bibliography` a collection of bibliography from all the chapters exist in the `references.bib` file.
-More details can be read in the [CONTRIBUTING.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md#referencing-and-citing) file.
+More details can be read in the [CONTRIBUTING.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#referencing-and-citing) file.
 
 ## Content Templates
 

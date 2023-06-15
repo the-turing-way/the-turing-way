@@ -12,7 +12,7 @@ In all cases, the goal is to use your programming experience to figure out how t
 
 ## For the coder
 
-- Does the new code meets the required standards of the project?
+- Does the new code meet the required standards of the project?
   The standards are typically written under `contributing guidelines` by the project you are contributing to.
 - Is there [documentation](#documentation) that meets the required standards of the project?
 - Are you following any declared {ref}`style guide<rr-code-quality>` for the project?
@@ -40,7 +40,7 @@ In all cases, the goal is to use your programming experience to figure out how t
 - Do the [tests](#tests) actually ensure the code is robust in its intended use?
   - Are there any bugs or other defects?
 - Are [security](#security) issues handled correctly?
-  - Check the [security of new codes](#security-of-new-codes).
+  - Check the [security of new code](#security-of-new-codes).
 - Does the new code meet the [legal requirements](#legal)?
 
 ## Program level checklist

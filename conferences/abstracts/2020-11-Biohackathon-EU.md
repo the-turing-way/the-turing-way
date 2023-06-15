@@ -76,7 +76,7 @@ Include outcomes expected from Biohackathon (can be in list form)
 - Contributions to the collaboratively developed chapter on topics such as project design, collaboration, communication, and data research inspired by their projects
 - Bioinformatics examples to be added to the current chapters on GitHub, git, Jupyter, Binder, continuous integration, license, FAIR principles, etc.
 - Adding visualization and interactivity in the existing or new chapters
-- Providing visibility to the ELIXIR members as contributors and co-authors to The Turing Way project (current contributors are listed here: https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md)
+- Providing visibility to the ELIXIR members as contributors and co-authors to The Turing Way project (current contributors are listed here: https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md)
 
 ### expected participants needed.*
 

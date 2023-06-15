@@ -12,60 +12,57 @@ Testing this kind of code can be very difficult because if it is run multiple ti
 Random number seeds are a little difficult to explain so here's an example.
 Here's a little Python script that prints three random numbers.
 
-    ```
-    import random
+```python
+import random
 
-    # Print three random numbers
-    print(random.random())
-    print(random.random())
-    print(random.random())
-    ```
+# Print three random numbers
+print(random.random())
+print(random.random())
+print(random.random())
+```
 
 This script has no bugs but if you run it repeatedly you will get different answers each time.
 Now let's set a random number seed.
 
-    ```
-    import random
+```python
+import random
 
-    # Set a random number seed
-    random.seed(1)
+# Set a random number seed
+random.seed(1)
 
-    # Print three random numbers
-    print(random.random())
-    print(random.random())
-    print(random.random())
-    ```
+# Print three random numbers
+print(random.random())
+print(random.random())
+print(random.random())
+```
 
 Now if you run this script it outputs
 
-    ```
-    0.134364244112
-    0.847433736937
-    0.763774618977
-    ```
+```python
+0.134364244112
+0.847433736937
+0.763774618977
+```
 
 and every time you run this script you will get the *same* output, it will print the *same* three random numbers.
 If the random number seed is changed you will get a different three random numbers:
 
-    ```
-    0.956034271889
-    0.947827487059
-    0.0565513677268
-    ```
+```python
+0.956034271889
+0.947827487059
+0.0565513677268
+```
 but again you will get those same numbers every time the script is run in the future.
 
 Random number seeds are a way of making things reliably random. However a risk with tests that depend on random number seeds is they can be brittle.
 Say you have a function structured something like this:
 
-    ```
-    def my_function()
-
-      a = calculation_that_uses_two_random_numbers()
-
-      b = calculation_that_uses_five_random_numbers()
-
-      c = a + b
-    ```
+```python
+def my_function():
+  a = calculation_that_uses_two_random_numbers()
+  b = calculation_that_uses_five_random_numbers()
+  c = a + b
+```
 
 If you set the random number seed you will always get the same value of `c`, so it can be tested.
 But, say the model is changed and the function that calculates `a` uses a different number of random numbers that it did previously.
@@ -91,7 +88,7 @@ For example say we have a code modelling the water levels in a reservoir over ti
 
 The result may look like this:
 
-```{figure} ../../figures/eyeball-test1.jpg
+```{figure} ../../figures/eyeball-test1.*
 ---
 name: eyeball-test1
 alt:
@@ -100,7 +97,7 @@ alt:
 
 On a day with rain it might look like this:
 
-```{figure} ../../figures/eyeball-test2.jpg
+```{figure} ../../figures/eyeball-test2.*
 ---
 name: eyeball-test2
 alt:
@@ -109,7 +106,7 @@ alt:
 
 and on a dry day it might look like this:
 
-```{figure} ../../figures/eyeball-test3.jpg
+```{figure} ../../figures/eyeball-test3.*
 ---
 name: eyeball-test3
 alt:
@@ -118,14 +115,14 @@ alt:
 
 All of these outputs look very different but are valid. However, if a researcher sees a result like this:
 
-```{figure} ../../figures/eyeball-test-error.jpg
+```{figure} ../../figures/eyeball-test-error.*
 ---
 name: eyeball-test-error
 alt:
 ---
 ```
 
-they could easily conclude there is a bug as a lake is unlikely to triple its volume and then lose it again in the space of a few hours. "Eyeballing" tests like these are time consuming as they must be done by a human. However the process can be partially or fully automated by creating basic "sanity checks". For example the water level at one time should be within, say, 10% of the water level at the previous time step. Another check could be that there are no negative values, as a lake can't be -30% full. These sort of tests can't cover every way something can be visibly wrong, but they are much easier to automate and will suffice for most cases.
+they could easily conclude there is a bug as a lake is unlikely to triple its volume and then lose it again in the space of a few hours. "Eyeballing" tests like these are time-consuming as they must be done by a human. However, the process can be partially or fully automated by creating basic "sanity checks". For example, the water level at one time should be within, say, 10% of the water level at the previous time step. Another check could be that there are no negative values, as a lake can't be -30% full. These sort of tests can't cover every way something can be visibly wrong, but they are much easier to automate and will suffice for most cases.
 
 (rr-testing-challenges-non-integer)=
 ## Testing if non-integer numbers are equal
@@ -136,43 +133,43 @@ There is a complication with testing if the answer a piece of code outputs is eq
 
 If we assign 0.1 to `a` and 0.2 to `b` and print their sum, we get 0.3, as expected.
 
-    ```
-    >>> a = 0.1
-    >>> b = 0.2
-    >>> print(a + b)
-    0.3
-    ```
+```python
+>>> a = 0.1
+>>> b = 0.2
+>>> print(a + b)
+0.3
+```
 
 If, however, we compare the result of `a` plus `b` to 0.3 we get False.
 
-    ```
-    >>> print(a + b == 0.3)
-    False
-    ```
+```python
+>>> print(a + b == 0.3)
+False
+```
 
 If we show the value of `a` plus `b` directly, we can see there is a subtle margin of error.
 
-    ```
-    >>> a + b
-    0.30000000000000004
-    ```
+```python
+>>> a + b
+0.30000000000000004
+```
 
-This is because floating point numbers are approximations of real numbers. The result of floating point calculations can depend upon the compiler or interpreter, processor or system architecture and number of CPUs or processes being used. Obviously this can present a major obstacle for writing tests.
+This is because floating-point numbers are approximations of real numbers. The result of floating-point calculations can depend upon the compiler or interpreter, processor or system architecture and number of CPUs or processes being used. This can present a major obstacle for writing tests.
 
 ### Equality in a floating point world
 
-When comparing floating point numbers for equality, we have to compare to within a given tolerance, alternatively termed a threshold or delta. For example, we might consider the calculated and expected values of some number to be equal if the absolute value of their difference is within the absolute value of our tolerance.
+When comparing floating-point numbers for equality, we have to compare to within a given tolerance, alternatively termed a threshold or delta. For example, we might consider the calculated and expected values of some number to be equal if the absolute value of their difference is within the absolute value of our tolerance.
 
-Many testing frameworks provide functions for comparing equality of floating point numbers to within a given tolerance. For example for the framework pytest:
+Many testing frameworks provide functions for comparing equality of floating-point numbers to within a given tolerance. For example for the framework pytest:
 
-    ```
-    import pytest
+```python
+import pytest
 
-    a = 0.1
-    b = 0.2
-    c = a + b
-    assert c == pytest.approx(0.3)
-    ```
+a = 0.1
+b = 0.2
+c = a + b
+assert c == pytest.approx(0.3)
+```
 
 this passes, but if the 0.3 was changed to 0.4 it would fail.
 
@@ -185,4 +182,8 @@ Unit test frameworks for other languages also often provide similar functions:
 - JUnit for Java: org.junit.Assert.assertEquals(double expected, double actual, double delta)
 - testthat for R:
   - expect_equal(actual, expected, tolerance=DELTA) - absolute error within DELTA
-  - expect_equal(actual, expected, scale=expected, tolerance=DELTA) - relative error within DE L T A
+  - expect_equal(actual, expected, scale=expected, tolerance=DELTA) - relative error within DELTA
+- julia: 
+  - `val1 ≈ val2`
+  - `isapprox(val1, val2, atol=abs_delta, rtol=rel_delta)`
+  - `Test.jl` with `≈`: `@test val1 ≈ val2 atol=abs_delta rtol=rel_delta`

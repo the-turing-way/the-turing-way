@@ -39,7 +39,7 @@ _[Kirstie’s Tweet](https://twitter.com/kirstie_j/status/1326126705270984710?s=
 
 ### Review README.md’s translated files
 
-Thanks to the Hacktoberfest contributors, our README.md file has been [translated into several languages](https://github.com/alan-turing-institute/the-turing-way/tree/master/README-translated). 
+Thanks to the Hacktoberfest contributors, our README.md file has been [translated into several languages](https://github.com/alan-turing-institute/the-turing-way/tree/main/README-translated). 
 We invite reviews on the latest Pull Requests (PR) by members who are proficient in Korean ([PR #1650](https://github.com/alan-turing-institute/the-turing-way/pull/1650)), Arabic ([PR #1586](https://app.tinyletter.com/(https://github.com/alan-turing-institute/the-turing-way/pull/1586)), Polish ([PR #1470](https://github.com/alan-turing-institute/the-turing-way/pull/1470)) or Indonesian ([PR #1354](https://github.com/alan-turing-institute/the-turing-way/pull/1354)). 
 You are also welcome to translate this file into a language that is currently missing, which can help your community members to learn about The Turing Way._
 
@@ -92,7 +92,7 @@ Our [GSoD](https://github.com/alan-turing-institute/the-turing-way/issues/1075) 
 With the support of his Open Life Science (OLS-2) team member, Neha Moopen, he has published a chapter in our community handbook on [Maintaining Consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html). 
 This chapter is a valuable resource to bring cohesiveness and a standard structure across the entire book through retrospective editing of existing chapters and development of new chapters through future contributions.
 Additionally, he has co-developed a set of templates for writing new chapters, creating case studies, and adding personal stories. 
-Check them out in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/book/templates).
+Check them out in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/templates).
 
 ### Web Annotation by hypothes.is
 

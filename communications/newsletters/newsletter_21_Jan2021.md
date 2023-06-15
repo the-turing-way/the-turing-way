@@ -50,7 +50,7 @@ Thanks to Emma Karoune, Esther Plomp, Ismael Kherroubi-Garcia, Laura Ación, Lau
 To keep this tradition going and further build a sense of ‘shared ownership', we welcome you to suggest 2021 events that you would like to attend and where you can share about your work in _The Turing Way_.
 
 You can reply in the GitHub [issue #1717](https://github.com/alan-turing-institute/the-turing-way/issues/1717) or reach out to Malvika by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
-We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) linked with frequently asked questions and presentations that you can adapt for your use (and in your preferred language). 
+We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/main/communications/promotion-pack) linked with frequently asked questions and presentations that you can adapt for your use (and in your preferred language). 
 We would be happy to give 1:1 feedback on your talk and will be able to provide support towards paying the conference registration fee.
 
 ### Opportunities to Lead Small Projects Within the Community
@@ -69,10 +69,10 @@ Please see [issue #1712](https://github.com/alan-turing-institute/the-turing-way
 ### A GitHub Action for Contributors Record
 _The Turing Way_ maintains a contributors record in the [book’s Afterword](https://the-turing-way.netlify.app/afterword/contributors-record.html). 
 This record combines the contributors' table and the personal impact statements of our contributors as described in the [acknowledgement chapter](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html).
-We have now added a [GitHub Action](https://github.com/features/actions) in our workflow that automatically updates this record every week (see [the workflow](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/workflows/contributors-record.yml)).
+We have now added a [GitHub Action](https://github.com/features/actions) in our workflow that automatically updates this record every week (see [the workflow](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/workflows/contributors-record.yml)).
 Thanks to Martina G. Vilas and Sarah  Gibson for their support in setting this up.
 
-*This is a good chance to remind you to add your bio and impact statement in the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) file if you have not done that already.
+*This is a good chance to remind you to add your bio and impact statement in the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) file if you have not done that already.
 We would be delighted if you can pass this information to previous contributors in your network who might want to share their personal highlights in the project.*
 
 ## Relevant Resources

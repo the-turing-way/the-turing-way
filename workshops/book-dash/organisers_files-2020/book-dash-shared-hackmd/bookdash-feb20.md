@@ -32,7 +32,7 @@ Link to this HackMD: https://hackmd.io/@malvikasharan/bookdash-feb20
 
 - **Code of Conduct**
 
-* [Take a moment to read our Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md)
+* [Take a moment to read our Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md)
 
 :wave: Introduce yourself
 ---
@@ -76,17 +76,17 @@ Link to this HackMD: https://hackmd.io/@malvikasharan/bookdash-feb20
 
 :question: How you can contribute
 ---
-**Please read and follow our project [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)!** :sparkles: If you find them confusing, difficult to follow or think that information needs to be added, please let us know! This will help us improve the contributing experience for everyone going forward.
+**Please read and follow our project [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)!** :sparkles: If you find them confusing, difficult to follow or think that information needs to be added, please let us know! This will help us improve the contributing experience for everyone going forward.
 
 The tl;dr version for easy reference during dashing:
 1. Comment on an [existing issue](https://github.com/alan-turing-institute/the-turing-way/issues) or open a new issue referencing your addition.
-    * The [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/ISSUE_TEMPLATE.md) will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the "*Lorem ipsum*" sections.
+    * The [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/main/ISSUE_TEMPLATE.md) will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the "*Lorem ipsum*" sections.
     * Add the ```book-dash-<location>``` label in the column on the right.
 2. [Fork](https://help.github.com/articles/fork-a-repo) the Turing Way repository to your GitHub profile.
 3. Make your changes!
 4. Submit a [pull request](https://help.github.com/articles/creating-a-pull-request).
     * Open a pull request as early in your contributing process as possible and add the label [WIP] to the title to designate "work in progress".
-    * The [pull request template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/PULL_REQUEST_TEMPLATE.md) will automatically be rendered in the comment section of the new pull request page, so all you need to do is edit the "*Lorem ipsum*" sections.
+    * The [pull request template](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/PULL_REQUEST_TEMPLATE.md) will automatically be rendered in the comment section of the new pull request page, so all you need to do is edit the "*Lorem ipsum*" sections.
     * Add the ```book-dash-<location>``` label in the column on the right.
     * As you continue to make changes they will automatically be included in your existing pull request.
     * Change [WIP] to [Ready for review] in the pull request title when you are happy for your contribution to be reviewed and merged. :tada:

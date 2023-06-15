@@ -2,9 +2,9 @@
 
 - Shared notes: https://hackmd.io/@KirstieJane/CollabCafe
 - The Turing Way GitHub repository: https://github.com/alan-turing-institute/the-turing-way
-- [Bi-weekly online Collaboration Cafes](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md)
+- [Bi-weekly online Collaboration Cafes](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md)
 - [Turing Way calendar](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ)
-- [Contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)
+- [Contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)
 - Chat on Gitter: https://gitter.im/alan-turing-institute/the-turing-way
 
 ---
@@ -22,7 +22,7 @@ There are SO many people who have expertise that the Turing Way can benefit from
 - updating how the book looks online (css, logos, layout etc).
 
 ### Getting prepared for the book dash
-We will ask you to contribute to the [Turing Way GitHub repository](https://github.com/alan-turing-institute/the-turing-way). Please sign up for a GitHub account if you don't already have one: https://github.com/join. If you're not familiar with contributing to GitHub projects, we recommend you read our chapter on Collaborating on GitHub. Our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) are also a good thing to read, but we will go through the main points again on the book dash day. We hope you already have an idea of what you would like to contribute, but if you are still looking for inspiration, our list of [good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) will hopefully provide some inspiration.
+We will ask you to contribute to the [Turing Way GitHub repository](https://github.com/alan-turing-institute/the-turing-way). Please sign up for a GitHub account if you don't already have one: https://github.com/join. If you're not familiar with contributing to GitHub projects, we recommend you read our chapter on Collaborating on GitHub. Our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) are also a good thing to read, but we will go through the main points again on the book dash day. We hope you already have an idea of what you would like to contribute, but if you are still looking for inspiration, our list of [good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) will hopefully provide some inspiration.
 
 ### Online drop-in session on 12th February
 We will hold two calls on the 12th of February (1-hour each) for you to drop-in and get your questions and concerns related to the Turing Way project, GitHub skills, or book dash logistics addressed by the Turing Way team members. The first call will take place at 8:00 am GMT and the second call will take place at 16:00 pm GMT. You can sign up on this HackMD to mark your attendance.

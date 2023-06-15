@@ -58,7 +58,7 @@ Open source provides an endless, ever-changing set of Rubix cubes for you to sol
 (rr-open-source-benefitsresearch)=
 ## How Open Source Software Benefits Research
 
-There are several in which open-source software benefits research:
+There are several ways in which open-source software benefits research:
 
 (rr-open-source-benefitsresearch-reusable)=
 ### Re-usable
@@ -69,6 +69,8 @@ It is sometimes said that “all the easy problems have already been solved”.
 Blogging, content management, and operating systems are all problems with established (and mainstream) open-source solutions, to name a few.
 While developers could spend their time reinventing wheels that the open-source community has already perfected, it is highly preferable to use the world’s best wheel, especially when that wheel comes at no cost to you.
 This reduces duplication of effort and allows researchers to focus on yet-unsolved challenges.
+
+The {ref}`rr-code-reuse` provides a more in-depth list of different aspects to consider for making your code more reusable, whether this is a small script or a library.
 
 (rr-open-source-benefitsresearch-checkable)=
 ### Checkable

@@ -837,7 +837,7 @@ _Share your ideas for contributions during the book dash_
 * [name=Asha]: Created a first PR, managed to add a subchapter on running a successful activism (case study in ethics chapter). I really appreciate the opportunity to link up with scholars (ECR and MCR) with such diverse disciplinary backgrounds. I have enjoyed the open, nurturing working culture of the turing way - it is an excellent model for actually *doing* open science! I look forward to staying in the loop - I've followed the twitter handle and now feel like I understand the github architecture and PR culture :-)
 * [name=Paul]: create documentation on creating consistency, templates to support writing chapters, prompts to help people brainstorm
     * https://github.com/alan-turing-institute/the-turing-way/pull/1459
-    * https://github.com/alan-turing-institute/the-turing-way/tree/master/book/templates/chapter-template
+    * https://github.com/alan-turing-institute/the-turing-way/tree/main/book/templates/chapter-template
 * [name=Ismael]: The draft for ethics introduction is ready for review
     * Contributor statement: https://github.com/alan-turing-institute/the-turing-way/issues/1584#issuecomment-726685053
 * [name=Laura A.]: chapter on leadership, subchapter on ethics, illustration with Jem

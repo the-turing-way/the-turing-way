@@ -151,7 +151,7 @@ November 2020: Improve accessibility of the online contents
 
 ### The Turing Way
 - GitHub repository: github.com/alan-turing-institute/the-turing-way.
-- Contribution guideline: github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md
+- Contribution guideline: github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md
 - The online book: https://the-turing-way.netlify.app/welcome
 - The style guide: the-turing-way.netlify.app/community-handbook/style.html
 - Zenodo community collection: https://zenodo.org/communities/the-turing-way

@@ -3,15 +3,15 @@ name: TestFileSizes
 
 # Decide when to run the tests
 #
-# This configuration sets the test to run on pushes to master
-# and on pull requests that are opened to master
+# This configuration sets the test to run on pushes to main
+# and on pull requests that are opened to main
 on:
   push:
     branches:
-      - master
+      - main
   pull_request:
     branches:
-      - master
+      - main
 
 # Set up the Continuous Integration job
 jobs:
@@ -20,9 +20,9 @@ jobs:
     runs-on: ubuntu-latest
     # This section collects together the steps involved in running the test
     steps:
-    # Checkout the repository. Relies on another GH-Action.
-    - uses: actions/checkout@v2
-    # Run the script to check file sizes
-    - name: Check for large files
-      run: |
-        ./tests/test-file-size.sh
+      # Checkout the repository. Relies on another GH-Action.
+      - uses: actions/checkout@v3
+      # Run the script to check file sizes
+      - name: Check for large files
+        run: |
+          ./tests/test-file-size.sh

@@ -99,7 +99,7 @@ More open PRs can be read and reviewed [on GitHub](https://github.com/alan-turin
 
 ### Binder resources
 
-In case you missed it in our last newsletter, check out the Zero to Binder tutorials written for Python, R, and Julia users (see the [tutorials here](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder/workshop-presentations)).
+In case you missed it in our last newsletter, check out the Zero to Binder tutorials written for Python, R, and Julia users (see the [tutorials here](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/boost-research-reproducibility-binder/workshop-presentations)).
 This effort was coordinated by Sarah Gibson, who is giving a talk and running session at [EuroPython 2020](https://ep2020.europython.eu/profiles/sarah-gibson/) and [JuliaCon 2020](https://pretalx.com/juliacon2020/speaker/8BQNLY/) respectively.
 
 ### Resources for running online events

@@ -1,7 +1,7 @@
 (ch-acknowledgement-record)=
 # Record of Contributions
 
-Two documents in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way) are used for creating a record of contributions in _The Turing Way_: Contributors Table in the [`README`](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) file, and [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) file.
+Two documents in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way) are used for creating a record of contributions in _The Turing Way_: Contributors Table in the [`README`](https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md) file, and [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) file.
 This record is made available in the afterword of this book as {ref}`Contributors<contributors-record-contributors>` and {ref}`Personal Highlights<contributors-record-highlights>`.
 These documents can be used for highlighting skills that our members have gained and shared through their involvement in _The Turing Way_.
 
@@ -11,13 +11,13 @@ The process of developing this record is described below in detail.
 
 ## 1. Contributors Table
 
-The [Contributors](https://github.com/alan-turing-institute/the-turing-way#contributors) table in [`README`](https://github.com/alan-turing-institute/the-turing-way/blob/master/README.md) file is updated with every contributor's name using the [all contributors bot](https://allcontributors.org/)'s [emoji key](https://allcontributors.org/docs/en/emoji-key).
+The [Contributors](https://github.com/alan-turing-institute/the-turing-way#contributors) table in [`README`](https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md) file is updated with every contributor's name using the [all contributors bot](https://allcontributors.org/)'s [emoji key](https://allcontributors.org/docs/en/emoji-key).
 
 No contribution is too small, and these emojis allow us to recognise and fairly acknowledging all kinds of contributions our community members make to the project.
 Those contributions can include (but are not limited to) bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
 Please see the subchapter {ref}`Acknowledgement Examples <ch-acknowledgement-examples>` for details.
 
-```{figure} ../../figures/allcontributorsbot-emoji.png
+```{figure} ../../figures/allcontributorsbot-emoji.*
 ---
 height: 400px
 name: AllContributorsEmojiKey
@@ -28,7 +28,7 @@ alt: Table with different emojis that is used by the contributors bot
 
 ## 2. Contributors file
 
-The contributors file, called [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) in the GitHub repository, will hold specific details provided by community members regarding their involvements in the project.
+The contributors file, called [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) in the GitHub repository, will hold specific details provided by community members regarding their involvements in the project.
 This will be referred to as `contributor's detail` in the rest of this document:
 
 > `Contributor's name`
@@ -45,7 +45,7 @@ Additionally, contributors can opt to add more information they think can help t
 
 ### Personal highlights
 
-Specifications for all types of contributions made towards _The Turing Way_ can be added in the [contributors file](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) as personal highlights.
+Specifications for all types of contributions made towards _The Turing Way_ can be added in the [contributors file](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) as personal highlights.
 
 These highlights can be individually decided by the contributors to record what they consider to be their significant and useful for their personal profile.
 This can be supplemented with supporting materials such links to chapters, pull request, issues, and blog posts.

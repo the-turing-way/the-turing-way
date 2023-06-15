@@ -129,7 +129,7 @@ They have shared [online resources](https://www.mentalhealth.org.uk/our-work) on
 *Illustration taken from the resources of the Mental Health Foundation*
 
 _The Turing Way_ is a community of collaboration that is built upon a strong foundation of inclusion and kindness.
-If you are new to the community, come and say hello on [our Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way), explore our resources on [GitHub](https://github.com/alan-turing-institute/the-turing-way/) and get involved by using our [contribution guideline](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md).
+If you are new to the community, come and say hello on [our Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way), explore our resources on [GitHub](https://github.com/alan-turing-institute/the-turing-way/) and get involved by using our [contribution guideline](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md).
 
 ### Self-care when volunteering
 

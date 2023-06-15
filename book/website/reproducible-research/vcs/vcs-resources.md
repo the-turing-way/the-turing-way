@@ -1,5 +1,6 @@
 (rr-vcs-resources)=
 # Resources
+Further resources to learn more about version control systems, Git, and GitHub.
 
 (rr-vcs-resources-learn)=
 ## What to Learn Next

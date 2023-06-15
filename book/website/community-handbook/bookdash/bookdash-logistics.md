@@ -52,7 +52,7 @@ We have created the following checklists, which are chronologically structured t
   * Some experience with using GitHub or attend the Book Dash GitHub session
   * Familiarity with _The Turing Way_ contribution guidelines and Code of Conduct
   * Willingness to collaborate with others
-- [ ] Ask them to choose at least one development session (2.5 hours) for each day of the Book Dash to ensure flexibility (rather than blocking the full day)
+- [ ] Ask them to choose at least one contribution session (2.5 hours) for each day of the Book Dash to ensure flexibility (rather than blocking the full day)
 - [ ] Collect address if something needs to be posted
 
 **Additional task for an in-person Event**

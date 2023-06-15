@@ -496,9 +496,9 @@ It will ask you if you wish to save your edits before closing.
 
 Now do the following steps:
 
-1) On [line 5 of `setup.sh`](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/build-a-binderhub/binderhub_resources/setup.sh#L5), copy the IP address from the last command into the `jupyter_ip` variable and uncomment the line (remove the `#` from the beginning).
-2) Again in `setup.sh`, move the line reading `#  -e "s/<jupyter-ip>/${jupyter_ip}/" \` ([Line 27](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/build-a-binderhub/binderhub_resources/setup.sh#L27)) above the line `config-template.yaml > secrets/config.yaml` and uncomment it by removing the `#` from the start.
-3) Uncomment [line 8 of `config-template.yaml`](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/build-a-binderhub/binderhub_resources/config-template.yaml#L8) by removing the `#` from the beginning.
+1) On [line 5 of `setup.sh`](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/build-a-binderhub/binderhub_resources/setup.sh#L5), copy the IP address from the last command into the `jupyter_ip` variable and uncomment the line (remove the `#` from the beginning).
+2) Again in `setup.sh`, move the line reading `#  -e "s/<jupyter-ip>/${jupyter_ip}/" \` ([Line 27](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/build-a-binderhub/binderhub_resources/setup.sh#L27)) above the line `config-template.yaml > secrets/config.yaml` and uncomment it by removing the `#` from the start.
+3) Uncomment [line 8 of `config-template.yaml`](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/build-a-binderhub/binderhub_resources/config-template.yaml#L8) by removing the `#` from the beginning.
 
 There are examples of how [`setup.sh`](#setupsh) and [`config.yaml`](#configyaml) should look after these edits at the end of this document.
 
@@ -626,7 +626,7 @@ initContainers:
     args:
       - clone
       - --single-branch
-      - --branch=master
+      - --branch=main
       - --depth=1
       - --
       - https://github.com/<your-github-username>/binderhub-custom-files
@@ -644,7 +644,7 @@ extraVolumeMounts:
     mountPath: /etc/binderhub/custom
 ```
 
-**NOTE:** If you committed the image file and the change to `page.html` to a branch other than `master`, then you either need to merge your changes into `master` or change the `--branch` argument in the above snippet to match the name of your branch.
+**NOTE:** If you committed the image file and the change to `page.html` to a branch other than `main`, then you either need to merge your changes into `main` or change the `--branch` argument in the above snippet to match the name of your branch.
 
 #### 5. Upgrade your BinderHub and visit the Binder page!
 

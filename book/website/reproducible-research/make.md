@@ -25,7 +25,7 @@ analysis pipeline.  We also describe a real-world reproducible research
 project that uses Make to go from the raw input data to the experiments all
 the way to the pdf file of the paper!
 
-```{figure} ../figures/make-research-dag.png
+```{figure} ../figures/make-research-dag.*
 ---
 name: make-research-dag
 alt: Schematic of a research project.
@@ -64,7 +64,7 @@ There are several reasons why Make is a good tool to use for reproducibility:
    executed by a computer.
 1. Because Makefiles are text files they are easy to share and keep in version
    control.
-1. Using Make doesn't exclude using other tools such as Travis and Docker.
+1. Using Make doesn't exclude using other tools such as Docker.
 
 With a clever Makefile, you can share a complete analysis (code, data, and
 computational workflows) and let collaborators or the readers of your paper

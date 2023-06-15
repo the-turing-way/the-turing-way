@@ -12,7 +12,7 @@ We announced in our last newsletter that we had split off the handbook in a sepa
 We then realized that there wasn't a technical reason to do this, and that splitting the conversations across two locations was really confusing.
 Thus, you can find everything at https://github.com/alan-turing-institute/the-turing-way.
 (RIP `-book` repository!)
-We've updated the [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) but please let us know if you find any mistakes.
+We've updated the [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) but please let us know if you find any mistakes.
 We're always interested to hear about the hurdles to contributing to *The Turing Way*.
 Please check out the guidelines and let us know what you think!
 
@@ -31,8 +31,8 @@ The Turing Way team was joined by 26 enthusiastic participants that provided a w
 * Restructuring of the chapter sections.
 
 Full reports on our book dashes including feedback from our participants are available on GitHub:
-* [Manchester book dash report](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-mcr-report.md)
-* [London book dash report](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-ldn-report.md)
+* [Manchester book dash report](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/book-dash/book-dash-mcr-report.md)
+* [London book dash report](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/book-dash/book-dash-ldn-report.md)
 
 The illustrations will be made available under a [CC-BY licence](https://creativecommons.org/licenses/by/4.0) soon.
 
@@ -46,13 +46,13 @@ The team has been spreading the word about the Turing Way project through variou
 * Kirstie and Patricia were at the [inaugural meeting of the UK network of Open Research Working Groups](https://sites.google.com/view/ukoswg19) at Aston University, Birmingham on 11 April 2019. Patricia presented on the Turing Way and her slides can be found on zenodo (doi: [10.5281/zenodo.2634185](http://doi.org/10.5281/zenodo.2634185)).
 * Kirstie gave a keynote on *The Turing Way* at the [csv,conf](https://csvconf.com/) in Portland, Oregon on 8 and 9 May 2019. A recording of her talk is available [on youtube](https://youtu.be/wZeoZaIV0VE) and her slides can be found on zenodo (doi: [10.5281/zenodo.2669548](http://doi.org/10.5281/zenodo.2669548)).
 * Kirstie presented *The Turing Way* at the [Software Citation Workshop](https://www.eventbrite.co.uk/e/software-citation-workshop-tickets-59519083180) hosted by the British Library, Software Sustainability Institute, and The Alan Turing Institute. Her slides can be found on zenodo (doi: [10.5281/zenodo.2783998](http://doi.org/10 .5281/zenodo.2783998)).
-* Sarah Gibson attended the Microsoft Reactor Research Software Engineering Hackday and led a team on BinderHub that improved [our Zero to BinderHub instructions](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/build-a-binderhub/workshop-presentations/zero-to-binderhub.md).
+* Sarah Gibson attended the Microsoft Reactor Research Software Engineering Hackday and led a team on BinderHub that improved [our Zero to BinderHub instructions](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/build-a-binderhub/workshop-presentations/zero-to-binderhub.md).
 
 ### Where to meet us in the next few weeks
 
 * Kirstie Whitaker will present *The Turing Way* at [Future-proofing your research: Moving Towards Open & Reproducible Research](https://www.eventbrite.co.uk/e/future-proofing-your-research-moving-towards-open-reproducible-research-tickets-60575376582?aff=eac2) at Lancaster University on 4 June 2019.
 * Rosie Higman will present on the Turing Way at the [NOWAL Research Support meeting](https://www.nowal.ac.uk/research-support-open-research-exchange-experience-university-manchester) in Manchester on 13 June 2019.
-* Kirstie will re-run a shortened version of our March ["Boost your reproducibilty with Binder" workshop](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/boost-research-reproducibility-binder) at [Carpentry Connect](https://www.software.ac.uk/ccmcr19/programme) in Manchester on 26 June 2019.
+* Kirstie will re-run a shortened version of our March ["Boost your reproducibilty with Binder" workshop](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/boost-research-reproducibility-binder) at [Carpentry Connect](https://www.software.ac.uk/ccmcr19/programme) in Manchester on 26 June 2019.
 * Turing Way team member Anna Krystalli will run a ReproHack at [Carpentry Connect](https://www.software.ac.uk/ccmcr19/programme) in Manchester on 27 June 2019, a one day hackathon that will attempt to reproduce results in published papers.
 * Rosie Higman and Patricia Herterich will present the Turing Way at [the 48th LIBER Annual Conference](https://liberconference.eu/schedule/) in Dublin on 26 June 2019.
 * Sarah Gibson will re-run a shortened version of our March "Build a BinderHub" workshop at the [RSEConf 2019](https://rse.ac.uk/conf2019/) in Birmingham 17 - 19 September 2019.

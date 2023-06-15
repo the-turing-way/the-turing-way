@@ -27,7 +27,7 @@ Sign up for the next Collaboration Cafe at [this HackMD](https://hackmd.io/@Kirs
 
 The next Book Dash will take place on **Friday 21 February** (with dinner, lightning talks and networking the evening before) at the Turing Institute in London 📆.
 A Book Dash is an in-person collaborative event that brings together participants who are enthusiastic about data science and reproducibility and want to contribute to the improvement of *The Turing Way* book.
-We will share more information regarding the applications in December, but meanwhile, please check the reports from the [Manchester book dash](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-mcr-report.md) and [London book dash](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-ldn-report.md), summarising the participants' contributions during the event and their feedback.
+We will share more information regarding the applications in December, but meanwhile, please check the reports from the [Manchester book dash](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/book-dash/book-dash-mcr-report.md) and [London book dash](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/book-dash/book-dash-ldn-report.md), summarising the participants' contributions during the event and their feedback.
 
 ## News from the community
 
@@ -36,7 +36,7 @@ We will share more information regarding the applications in December, but meanw
 We are excited to announce that *The Turing Way* is expanding into [a series of books](https://github.com/alan-turing-institute/the-turing-way).
 In addition to its previous focus on reproducibility, this project will aim to capture the vast amounts of knowledge of data science practices in the areas of project design, communication, outreach and ethics.
 Following an open source, community driven approach, we will welcome contributions from anyone from within the Turing community and beyond  who can support researchers and practitioners in learning or improving the "how" of conducting world-leading research in data science.
-The project proposal with further details is available [online](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/tps-funding-application-20190429.md).
+The project proposal with further details is available [online](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/tps-funding-application-20190429.md).
 
 To plan the next steps, the core team met last month on 10 and 11 October to brainstorm and discuss the next steps in this project.
 The participants of this meeting explored a number of topics in four themed sessions, draft report from which is available on [this HackMD](https://hackmd.io/zVTeKhG2SIiBLam1YtILNg?view).

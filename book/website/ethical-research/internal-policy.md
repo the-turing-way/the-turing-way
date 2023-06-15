@@ -4,6 +4,14 @@
 Internal policy advocacy is when individuals or groups associated with an organisation campaign for a change in the way that the organisation makes decisions, runs projects, chooses collaborators, develops products, or in other areas. 
 It can be a really powerful tool for change, regardless of whether or not the group of people campaigning are in a union.
 
+```{figure} ../figures/advocacy.*
+---
+name: advocacy
+alt: One person signs a petition held by another person, in front of a group of people marching under a banner reading "Advocacy!"
+---
+There are different ways to take part in advocacy. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.4906004](https://doi.org/10.5281/zenodo.4906004).
+```
+
 ## How to advocate internally
 A basic set of steps you can take for internal policy advocacy (adapted from [guidelines](https://knowhow.ncvo.org.uk/how-to/how-to-run-effective-campaigns) produced by the NCVO in the UK, used under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license):
 1. Define the issue

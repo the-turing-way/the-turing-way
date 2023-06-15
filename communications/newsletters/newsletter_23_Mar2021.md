@@ -29,7 +29,7 @@ Applications for the upcoming Book Dash can be submitted until **15 April 2021**
 * It takes an average of 30 minutes to prepare an application. 
 Therefore, we have provided a [template document](https://tinyurl.com/tw-bookdash-template) to help you work on your application draft locally before you submit it.
 * **Successful participants will be provided with a budget** to pay for any accessibility and participation related requirements including subsistence cost. 
-You can see details in this [report from the last Book Dash](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/book-dash/book-dash-nov20-report.md).
+You can see details in this [report from the last Book Dash](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/book-dash/book-dash-nov20-report.md).
 * We invite our previous attendees to join to mentor new participants at one of the sessions.
 Please go ahead and fill the form indicating your interest in co-facilitating the event.
 

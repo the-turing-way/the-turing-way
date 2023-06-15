@@ -21,7 +21,7 @@ Shared documents can help you get your ideas across to new or potential contribu
 Contributions can be anything from new ideas to bug reports and actual code contributions.
 Open science practices described here will also make it easier for you to lead closed-source projects collaboratively and transparently for your teams.
 
-```{figure} ../figures/file-management-manual.jpg
+```{figure} ../figures/file-management-manual.*
 ---
 name: file-management-manual
 alt: image shows two people organising files. One person is holdinng up a README file and other person is reading the details to set up the data and analysis files in the drawer

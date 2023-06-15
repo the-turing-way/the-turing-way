@@ -38,7 +38,7 @@ We received many great applications and can only offer a limited number of space
 Thus, we’re sorry to inform you that we will not offer a place in one of our book dashes.
 
 We would still love to see your contribution to the Turing Way. 
-You can find details on how to contribute in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) or get in touch in our [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way). 
+You can find details on how to contribute in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) or get in touch in our [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way). 
 
 If you’d like to stay in touch and hear about future events, please sign up to [our newsletter](http://tinyletter.com/TuringWay).
 

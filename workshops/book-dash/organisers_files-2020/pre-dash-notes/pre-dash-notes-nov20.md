@@ -20,7 +20,7 @@
 
 This call is scheduled for the invited participants of the next Book Dash event hosted by The Turing Way and the Biohackathon-EU 2020, both taking place from 9 to 13 November 2020 online.
 
-Please note that everyone who participates in _The Turing Way_ project is expected to abide by our [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md).
+Please note that everyone who participates in _The Turing Way_ project is expected to abide by our [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
 
 Please see more details on [the project](https://github.com/alan-turing-institute/the-turing-way), [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) and logistics details (shared by email before the event) for the upcoming book dash below the notes.
 
@@ -124,7 +124,7 @@ Setting our personal goals will help us prepare better for your participation:
     > Collaborate with 5 different contributors during the Book Dash
     > Get the PR ready for merge
 > **A**ttainable: Can I realistically achieve this goal? What steps will I take?
-    > step 1: rebase the PR with master branch (the PR)
+    > step 1: rebase the PR with main branch (the PR)
     > step 2: design structure of the chapters (2 sessions)
     > step 3: Make it available to merge (3 sessions)
 > **R**elevant: Does this goal meet a specific need?: 
@@ -317,4 +317,4 @@ Here are a few suggestions for a good first contributions:
 - Flag the unclear or duplicated information in the book by opening an [issue on the GitHub](https://github.com/alan-turing-institute/the-turing-way/issues).
 - Fix an [old issue](https://github.com/alan-turing-institute/the-turing-way/issues) or comment on the the [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls).
 - Write your personal experience of reproducible research in this [google form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
-- See more info on the GitHub: https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md
+- See more info on the GitHub: https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md

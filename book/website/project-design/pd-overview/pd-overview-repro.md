@@ -26,7 +26,7 @@ Describe what opportunities for collaboration different members will have.
 When possible, such as in an open source project, provide these details for those outside the current group, especially when you want to encourage people outside the project to be involved.
 
 Provide resources on ways of working to ensure fair participation of stakeholders who collaborate on short- and long-term milestones within the project.
-It reduces or addresses concerns about the project's progress towards meeting goals and prevent potential fallout between project stakeholders.
+It reduces or addresses concerns about the project's progress towards meeting goals and prevents potential fallout between project stakeholders.
 
 **Participation and contribution process**:
 
@@ -73,7 +73,7 @@ We asked a group of researchers to share what they consider their project design
 - Not having documentation besides final reports. When being asked about the code or dataset (raw and process), step by step process from preparing data to getting the results, lack of documented guidance in one place made it hard to trace the project with all team members (classic problem).
 - Not properly taking into account the degree to which requirements will change throughout a project - which happens a lot in academia - and the effect this has on designs that then also need to change.
 - Trying to plan too much at the beginning and never getting started.
-- Feeling like I am always taking an ad hoc approach to planning a project and then feeling like I am spending too much time on the organisation side of the project because I don’t have a set workflow to handle project planning and design. Also, not knowing how does project planning fit into project design.
+- Feeling like I am always taking an ad hoc approach to planning a project and then feeling like I am spending too much time on the organisation side of the project because I don’t have a set workflow to handle project planning and design. Also, not knowing how project planning fits into project design.
 - Using a very messy excel to store/process data, the shame!
 - Over-engineering a design for features that didn’t end up being implemented (in life before academia!)
 - Not implementing Git flow from the start, and not teaching collaborators how to use Git flow.
@@ -93,7 +93,7 @@ We asked a group of researchers to share what they consider their project design
 The short answer is 'yes'.
 The project design will allow you to manage your work well for yourself (see the section: {ref}`Getting Started<pd-overview-planning-started>`).
 
-A little work and time investment early on in project design saves a lot of time later when any circumstances that demand change.
+A little work and time investment early on in project design saves a lot of time later when any circumstances arise that demand change.
 ```
 
 It is really hard for a project to move from practices that were designed for one person to practices that work for a team.
@@ -102,9 +102,10 @@ Considering good team practices even for a project run by an individual makes it
 For example, you can define goals in your project and identify tasks by asking questions like: 
 how can my work be split, how will it be reviewed, how will decisions be made, and so on.
 Learn how [agile methodologies](http://www.agilenutshell.com/) help adapt to changes.
+Learn about good team practices in our {ref}`section on teamwork<cl-new-community-teamwork>`.
 
-Project design would not ensure that everything will always go as planned or there will be no unexpected challenges.
-However, it helps prepare in advance for risk management and adapt to changes better.
+Project design does not ensure that everything will always go as planned or there will be no unexpected challenges.
+However, it helps you prepare in advance for risk management and to adapt to changes better.
 Also, see [The cost of change curve](http://www.agilemodeling.com/essays/costOfChange.htm) in the context of Software Engineering.
 
 _This chapter summarises participants' notes from a short workshop called "Good Practices for Designing Software Development Projects (The Turing Way)" at the [Collaboration Workshop 2021](https://www.software.ac.uk/cw21)  hosted by [Software Sustainability Institute](https://www.software.ac.uk). The workshop was delivered by Malvika Sharan, Emma Karoune and Batool Almarzouq on 31 March 2021. Zenodo. DOI: [10.5281/zenodo.4650221](https://doi.org/10.5281/zenodo.4650221)._

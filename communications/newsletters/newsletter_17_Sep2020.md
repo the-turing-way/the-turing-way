@@ -48,9 +48,9 @@ If you would like to receive automatic updates on these meetings, please [subscr
 We value and appreciate all the collaborative work that happens in _The Turing Way_, from fixing bugs to writing a chapter to hosting an event, and we are committed to acknowledging them all appropriately. 
 
 Last week, we released the [Acknowledgement chapter](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html) that describes our process of recording all the contributions and how we recognise them.
-In this chapter, we provide details on how we create opportunities for shared ownership of this project and create a record of contributions with the [Contributor’s Table](https://github.com/alan-turing-institute/the-turing-way#contributors) and [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md) files.
+In this chapter, we provide details on how we create opportunities for shared ownership of this project and create a record of contributions with the [Contributor’s Table](https://github.com/alan-turing-institute/the-turing-way#contributors) and [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) files.
 These documents can be updated by all our contributors and used for highlighting their work in a manner that is most meaningful and useful for them.
-We welcome all our past and current contributors to check our record and update it by adding details and personal highlights from their contributions in [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md).
+We welcome all our past and current contributors to check our record and update it by adding details and personal highlights from their contributions in [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md).
  
 ![Screenshot of a tweet by Malvika, subtweeting Kirstie](images/Tweet-KW-Sep2020.png)
 *Read a detailed [thread by Kirstie Whitaker](https://twitter.com/kirstie_j/status/1303335123656626177?s=20) describing the main highlights from the Acknowledgement chapter*
@@ -64,7 +64,7 @@ Though written for _The Turing Way_ community, these resources will be useful fo
 
 ### 6 projects to be mentored and trained in Open Life Science
 
-12 members from _The Turing Way_ and The Alan Turing Institute have joined the second cohort of Open Life Science with [6 projects](https://github.com/alan-turing-institute/the-turing-way/tree/master/open-life-science-mentoring#ols-2-for-turing-projects) under the collaboration [OLS-2 for Turing](https://openlifesci.org/ols-2#collaborators).
+12 members from _The Turing Way_ and The Alan Turing Institute have joined the second cohort of Open Life Science with [6 projects](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring#ols-2-for-turing-projects) under the collaboration [OLS-2 for Turing](https://openlifesci.org/ols-2#collaborators).
 Congratulations [Sophia Batchelor](https://openlifesci.org/ols-2/projects-participants/#BrainonSilicon), [Ismael Kherroubi Garcia](https://openlifesci.org/ols-2/projects-participants/#Ismael-KG), [Laura Carter](https://openlifesci.org/ols-2/projects-participants/#LauraCarter), [Markus Löning](https://openlifesci.org/ols-2/projects-participants/#mloning), [Camila Rangel Smith](https://openlifesci.org/ols-2/projects-participants/#crangelsmith), [David Beavan](https://openlifesci.org/ols-2/projects-participants/#DavidBeavan), [Samuel van Stroud](https://openlifesci.org/ols-2/projects-participants/#samvanstroud), [Kevin Xu](https://openlifesci.org/ols-2/projects-participants/#Kevinxufs), [Neha Moopen](https://openlifesci.org/ols-2/projects-participants/#NehaMoopen), [Kate Simpson](https://openlifesci.org/ols-2/projects-participants/#KateSimpson), [Georgia Aitkenhead](https://openlifesci.org/ols-2/projects-participants/#GeorgiaHCA) and [Katharina Kloppenborg](https://openlifesci.org/ols-2/projects-participants/#katoss). 
 They will be mentored by [Jez Cope](https://openlifesci.org/ols-2#jezcope), [Anjali Mazumdar](https://openlifesci.org/ols-2#anjali-mazumder), [Martina Vilas](https://openlifesci.org/ols-2#martinagvilas), [Yo Yehudi](https://openlifesci.org/ols-2#yochannah), [Samuel Guay](https://openlifesci.org/ols-2#SamGuay), [Arielle Bennett](https://openlifesci.org/ols-2#ArielleBL) and [Anelda van der Walt](https://openlifesci.org/ols-2#anelda).
 Two more mentors [Sarah Gibson](https://openlifesci.org/ols-2#sgibson91) and [Markus Löning](https://openlifesci.org/ols-2#mloning) will mentor 1 project each in the program.
@@ -109,9 +109,9 @@ In his words:
 ### Promotion pack for representing _The Turing Way_
 
 We would LOVE for anyone from our community, our past or present contributors to give talks about the project or represent The Turing Way in other ways! 
-We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) for you to reuse, remix and adapt for your use.
-Links to all the presentations along with the abstracts are stored on our GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/master/conferences).
-We have also created a list of [frequently asked questions](https://github.com/alan-turing-institute/the-turing-way/blob/master/communications/promotion-pack/faqs.md) to complement the presentation materials.
+We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/main/communications/promotion-pack) for you to reuse, remix and adapt for your use.
+Links to all the presentations along with the abstracts are stored on our GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/main/conferences).
+We have also created a list of [frequently asked questions](https://github.com/alan-turing-institute/the-turing-way/blob/main/communications/promotion-pack/faqs.md) to complement the presentation materials.
 If you would like to represent the project in your network, please open an [issue on GitHub](https://github.com/alan-turing-institute/the-turing-way/issues) and connect with core team members to receive any support that will help you in preparing for your event.
 
 ### Articles and blogs
@@ -138,7 +138,7 @@ The [Book Dash event](https://the-turing-way.netlify.app/community-handbook/book
 The call for application will be opened soon. 
 Look out for notifications on Slack, Twitter and the mailing list in a couple of weeks (links at the end of this newsletter).
 
-Meanwhile, you can read the report from our last Book Dash events [on GitHub](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash).
+Meanwhile, you can read the report from our last Book Dash events [on GitHub](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/book-dash).
 
 ### Talks and videos from previous events
 

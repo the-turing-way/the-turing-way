@@ -14,7 +14,7 @@ An example of an integration test for this case could be to supply a test data f
 If a bug like this is present then the cleaned data outputted would be very unlikely to match the expected result, and an error would be raised.
 
 Integration testing is particularly important in collaborative projects where different people work on different parts of the code.
-If two different people complete separate units and then need to integrate then integration issues are more likely as neither may understand the other's code.
+If two different people complete separate units and then need to integrate them integration issues are more likely as neither may understand the other's code.
 A famous example of this is a multi-million dollar satellite which [crashed](https://en.wikipedia.org/wiki/Mars_Climate_Orbiter) because one piece of code outputted distance data in feet, while another assumed data in meters.
 This is another example of an integration issue.
 
