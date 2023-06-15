@@ -303,7 +303,7 @@ What happens if the continuous integration (CI) fails (for example, if the pull 
 The CI could fail for a number of reasons.
 At the bottom of the pull request, where it says whether your build passed or failed, you can click “Details” next to the test, which takes you to a CI run log site.
 If you have the write access to the repo, you can view the log or rerun the checks by clicking the “Restart build” button in the top right.
-You can learn more about CI in the {ref}`Continuous Integration chapter<rr-ci>`!
+You can learn more about CI in the [Continuous Integration chapter](https://the-turing-way.netlify.app/reproducible-research/ci.html)!
 
 GitHub has a [nice introduction][github-flow] to the pull request workflow, but please [get in touch](#get-in-touch) if you have any questions :balloon:.
 

@@ -1,6 +1,8 @@
 {
+  "_comment": "This JSON file controls the behaviour of the all contributors bot. A description of the keys can be found here: https://allcontributors.org/docs/en/bot/configuration",
   "files": [
-    "README.md"
+    "README.md",
+    "book/website/afterword/contributors-record.md"
   ],
   "imageSize": 100,
   "contributorsPerLine": 7,
@@ -4285,6 +4287,24 @@
       "profile": "https://github.com/SaraVilla",
       "contributions": [
         "content"
+      ]
+    },
+    {
+      "login": "ciupava",
+      "name": "Anna Zanchetta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3450313?v=4",
+      "profile": "https://github.com/ciupava",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "spier",
+      "name": "Sebastian Spier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163029?v=4",
+      "profile": "https://spier.hu",
+      "contributions": [
+        "bug"
       ]
     }
   ],
