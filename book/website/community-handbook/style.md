@@ -43,7 +43,7 @@ Note, that the formatting will be retained, so we can split each sentence to a n
 ## Avoid Latin Abbreviation
 
 Please do not use Latin abbreviations.
-See the [Gov.uk recommendations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) for details.
+See the [Gov.uk recommendations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#eg-etc-and-ie) for details.
 
 Some of these abbreviations are:
 
@@ -55,6 +55,7 @@ alt: an image with a list of 3 latin abbreviations
 ---
 A list of latin abbreviations for *exempli gratia* (for example), *et-cetera* (so on), and *id est* (that is).
 Screenshot of part of the [list of Common Latin Abbreviations for APA Style](https://blog.apastyle.org/files/apa-latin-abbreviations-table-2.pdf).
+We use a screenshot instead of plain text to comply with continuous integration tests (see below).
 ```
 
 Instead of the first abbreviation in the table for *exempli gratia*, which can sometimes read aloud as ‘egg’ by screen reading software, please use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ - whichever works best in the specific context.
@@ -93,7 +94,7 @@ Instead, the following is recommended:
 
 ### External links
 
-Write external links using "http://" instead of "www". This ensures they are correctly recognised as hyperlinks.
+Write external links using "https://" instead of "www". This ensures they are correctly recognised as hyperlinks.
 
 ### Chunks with code or special text
 

@@ -54,14 +54,14 @@ body:
     label: Updates
     description: Please comment on this issue with updates so that all the important information is available at a glance. You may use the checklist here to get started or create a new checklist in the comments.
     options:
-      - label: Write chapter outline
-      - label: Add material to the chapter
-      - label: Combine materials into a readable chapter
-      - label: Proofread
-      - label: Create PR and link in the comments
-      - label: Request reviews
-      - label: Address reviews
-      - label: Merge to main branch
+    - label: Write chapter outline
+    - label: Add material to the chapter
+    - label: Combine materials into a readable chapter
+    - label: Proofread
+    - label: Create PR and link in the comments
+    - label: Request reviews
+    - label: Address reviews
+    - label: Merge to main branch
 - type: markdown
   attributes:
     value: "**When you are ready to create a pull request for your chapter please don't forget to add a link in the comments on this issue.**"

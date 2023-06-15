@@ -16,7 +16,7 @@ There is more to collaboration than we see. _The Turing Way_ project illustratio
 ```
 
 There are many different skills required to work well in groups with a wide range of expertise.
-In this guide, we welcome contributions in developing guidance on following (but not limited to) topics:
+In this guide, we welcome contributions in developing guidance on the following (but not limited to) topics:
 
 * Designing a project that welcomes contributions
 * Distributed collaboration on GitHub

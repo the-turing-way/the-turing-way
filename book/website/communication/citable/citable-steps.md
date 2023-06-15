@@ -1,7 +1,7 @@
 (cm-citable-steps)=
 # Steps for Making Research Objects Citable
 
-There are many reasons why authors don't cite the data and software that they use, but one of the biggest ones is that it's not clear how.
+There are many reasons why authors don't cite the data, protocols, software and hardware that they use, but one of the biggest ones is that it's not clear how.
 You can go a long way to reducing this barrier by following a few steps to make it as easy as possible.
 
 (cm-citable-steps-object)=
@@ -12,7 +12,7 @@ We want to emphasise that most of our research objects should be shared so that 
 Practising open research isn't essential to get credit for your data or software, but it makes it much easier for others to build on your work in a way that acknowledges your contribution.
 There is a growing body of evidence that shows open research tends to be cited more than non-open research of equivalent quality and significance.
 
-As part of the citation for your research objects, it is important to publish research objects beyond papers, such as images, data, software, protocols, methods ang workflow associated with your research.
+As part of the citation for your research objects, it is important to publish research objects beyond papers, such as images, data, software, protocols, methods, and workflow associated with your research.
 
 The best way to get started with this will be to look up some examples of what kind of research objects are or should be cited.
 Finding commonly referenced research objects in your discipline serves two purposes:

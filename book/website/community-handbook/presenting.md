@@ -1,3 +1,4 @@
+(ch-presenting)=
 # Presenting About _The Turing Way_
 Talks are a great way to engage new communities, teach people about open and reproducible practices, and expand the reach of _The Turing Way_ by introducing the book and inviting new contributors. We encourage any Turing Way contributor to present on behalf of _The Turing Way_, and we ask that you use the guidelines detailed below to shape your talk and ensure consistency with _The Turing Way_ style. 
 

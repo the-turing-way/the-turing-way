@@ -6,7 +6,7 @@ Early-stage projects often reach a point when funding has run out for a project 
 In this chapter we will outline the factors that should be considered when you want to turn a project into Open Source Software (OSS) with a self-sustaining organisation, and we will explore how different projects have achieved sustainability through a variety of organisational structures.
 
 ## The big misconception about Open Source
-```{figure} ../../figures/oss-sustainability-pathways-problem.jpg
+```{figure} ../../figures/oss-sustainability-pathways-problem.*
 ---
 name: oss-sustainability-pathways-problem
 alt: A researcher is torn between taking the path of private commercialisation or the path of open source.
@@ -32,7 +32,7 @@ However, these two paths should not be considered mutually exclusive, and an ope
 There are several pathways to generating revenue from an open source project, whether for profit or to sustain a not-for-profit enterprise. 
 In this chapter we'll present some of key considerations when looking to make a project sustainable, and how these differ depending on the organisational structure you want to pursue.
 
-```{figure} ../../figures/oss-sustainability-pathways-solution.jpg
+```{figure} ../../figures/oss-sustainability-pathways-solution.*
 ---
 name: oss-sustainability-pathways-solution
 alt: A researcher considers the 4 pathways/pillars of OSS sustainability.
