@@ -1,16 +1,13 @@
 # Open Hardware Licenses- section to be used in the licensing section.
 
-
 ## Introduction
 Licensing is an important aspect of sharing/publishing open source projects as it provides clarity for anyone looking to reuse your open source project.
 Without licenses in place, anyone who wants to reuse it is left with legal ambiguity as to the status of using your intellectual property.
 While we are looking to focus on open source hardware licenses the context is that this is within the broader open source movement. 
 The open source licensing of hardware came out of open source software licenses and in fact several open source software licenses are widely accepted within the open hardware community. 
 
-
-
-:::warning
-:warning: It is important to consider that copyright, licenses, patents etc are all legal concepts and are as such subject to what the law says.
+```{warning}
+It is important to consider that copyright, licenses, patents etc are all legal concepts and are as such subject to what the law says.
 Laws can change.
 This change is not simply one of the laws changing over time, though that is a factor, but changes in jurisdiction and enforcement.
 Simply put different countries have different laws and follow different procedures with regard to enforcing them.
@@ -20,7 +17,7 @@ While things like the Berne Convention have sought to harmonize copyright enforc
 Please also note that the information provided here is not by a lawyer specialising in intellectual property law or any other sort of lawyer for that matter.
 So do not take the descriptions provided or viewpoints shared as legal advice, they are not that and not intended to be used in that manner.
 Consult a legal expert to provide actual legal advice for your case.  
-:::
+```
 
 ## Content
 To understand what licenses do and how to apply them, it is first important to be familiar with a number of terms.
@@ -28,8 +25,7 @@ Often terms like copyright, licenses, patents, trademarks etc. are used intercha
 Familiarise yourself with the following terms and follow the links to understand more about them.
 
 
-:::info
-:information_source: 
+```{admonition} Info
 **[Copyright](https://europa.eu/youreurope/business/running-business/intellectual-property/copyright/index_en.htm#shortcut-1/):** “When you create an original literary, scientific and artistic work, such as poems, articles, films, songs or sculptures, you are protected by copyright.
 Nobody apart from you has the right to make the work public or reproduce it.
 ” And, “If you create literary, scientific and artistic work, you automatically have copyright protection, which starts from the moment you create your work, so you don't need to go through any formal application process.”
@@ -44,13 +40,12 @@ Your trade mark is the symbol your customers use to pick you out.
 It distinguishes you from your competitors.
 You can protect and build upon your trade mark if you register it."
 
-:::
+```
 
 Copyrights are generally what make open source licenses enforceable.
 So for many open source licenses to be applicable it is necessary to figure out what parts of the project are actually copyrightable and therefore can be licensed.
 This complicates thing since copyrights do not protect functional items and hardware can be a combination of creative and functional elements, while the former is protected by copyright the latter would usually need a patent (if it is indeed patentable) to be protected.
 It is important to note that copyrights and patents are mutually exclusive, that is something is either protected by copyright or it is protected by a patent but not both simultaneously. 
-
 
 ### What licenses to use
 
