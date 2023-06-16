@@ -1,5 +1,5 @@
-(ch-translation-getting-started)=
-# Getting Started in Translating _The Turing Way_
+(ch-translation-localisation-journey)=
+# Embark on Your Localisation Journey
 
 
 ## Overview of the translation workflow

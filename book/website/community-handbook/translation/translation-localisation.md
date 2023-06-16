@@ -1,6 +1,7 @@
 (ch-translation-localisation)=
 
-# Localisation Platforms and Translation
+# Translation of Open Source Projects
+## Localisation Platforms and Translation
 
 
 Localisation (l10n) and internationalisation (i18n) are important aspects in the design of any open-source project.
