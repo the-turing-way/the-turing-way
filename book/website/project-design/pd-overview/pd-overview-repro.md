@@ -36,7 +36,7 @@ Describe the possible expansion of features in pre-determined and agreed on ways
 
 Include a **list of contributors**, **contribution guidelines**, and information on **contact points** where to ask for help.
 In addition, 
-create a directory to highlight the different stakeholders with their roles in the project, keys skills, interests and contact information (when possible).
+- Create an overview of  the putative "personas" {ref}`pd-persona` (people and organisations) and how they may interact with the project. 
 
 Describe what opportunities for collaboration different members will have.
 When possible, such as in an open source project, provide these details for those outside the current group, especially when you want to encourage people outside the project to be involved.
