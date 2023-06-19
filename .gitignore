@@ -18,7 +18,3 @@ workshops/boost-research-reproducibility-binder/workshop-presentations/*pptx
 # Python virtual environments
 venv/
 env/
-
-crowdin_contributors_bot/node_modules
-crowdin_contributors_bot/.env*
-crowdin_contributors_bot/package-lock.json
