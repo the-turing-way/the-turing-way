@@ -12,13 +12,14 @@ on:
 
 jobs:
   crowdin-contributors:
+
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
       uses: actions/checkout@v3
 
     - name: Generate Crowdin Contributors table
-      uses: andrii-bodnar/action-crowdin-contributors@v1
+      uses: andrii-bodnar/action-crowdin-contributors@v1.0.1
       with:
         contributors_per_line: 5
         max_contributors: 10000
