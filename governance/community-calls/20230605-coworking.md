@@ -50,8 +50,6 @@
     * I worked on RSF-related tasks (forcasts, emails, docs)
 * Main room: Governance
   * Pom 1: Kirstie, Bastian, Cami and Jessie
-    * :zipper_mouth_face: State of governance document (not for github)
-      * https://docs.google.com/document/d/1Z_r0G6dmtlw0icQ_ctkhLG_QxZDhuRZaSTSkGvAVK6w/edit
     * Survey about status for governance
       * https://docs.google.com/forms/d/e/1FAIpQLSfQoINlmgyaXVEvMRxtco9pocCe4ShpJzNxA_02UZPnHHP8hQ/viewform
     * Etherpad from May community call:
