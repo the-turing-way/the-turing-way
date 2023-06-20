@@ -28,6 +28,7 @@ jobs:
         include_languages: true
         placeholder_start: <!-- CROWDIN-CONTRIBUTORS-LIST:START -->
         placeholder_end: <!-- CROWDIN-CONTRIBUTORS-LIST:END -->
+        crowdin_project_link: https://turingway.crowdin.com/turing-way
 
       env:
         CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
