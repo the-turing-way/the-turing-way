@@ -43,4 +43,3 @@ jobs:
         commit-message: Update Crowdin Contributors table
         committer: Crowdin Bot <support+bot@crowdin.com>
         branch: crowdin-contributors/patch
-        
