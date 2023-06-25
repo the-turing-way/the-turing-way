@@ -2,7 +2,7 @@
 
 # _The Turing Way_
 
->_This README.md file in also available in Dutch ([README-Dutch](README-translated/README-Dutch.md)), French ([README-French.md](README-translated/README-French.md)), German ([README-German.md](README-translated/README-German.md)), Indonesian ([README-Indonesian](README-translated/README-Indonesian.md)), Italian ([README-Italian](README-translated/README-Italian.md)), Korean ([README-Korean](README-translated/README-Korean.md)), Portuguese ([README-Portuguese](README-translated/README-Portuguese.md)), and Spanish ([README-Spanish](README-translated/README-Spanish.md)) (listed alphabetically)._
+>_This README.md file in also available in Chinese ([README-Chinese](README-translated/README-Chinese.md)), Dutch ([README-Dutch](README-translated/README-Dutch.md)), French ([README-French.md](README-translated/README-French.md)), German ([README-German.md](README-translated/README-German.md)), Indonesian ([README-Indonesian](README-translated/README-Indonesian.md)), Italian ([README-Italian](README-translated/README-Italian.md)), Korean ([README-Korean](README-translated/README-Korean.md)), Portuguese ([README-Portuguese](README-translated/README-Portuguese.md)), and Spanish ([README-Spanish](README-translated/README-Spanish.md)) (listed alphabetically)._
 
 *Total Contributors:*
 
