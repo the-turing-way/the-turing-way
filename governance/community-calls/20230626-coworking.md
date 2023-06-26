@@ -11,7 +11,7 @@
 * Eirini
 * David
 * Alex
-* Batool,
+* Batool
 * Sarah
 * Alden
 * Sophia
