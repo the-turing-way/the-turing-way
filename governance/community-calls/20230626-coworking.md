@@ -25,6 +25,9 @@
 * Governance (main room)
   * Kirstie
   * Alden (Margaret Hamilton)
+  * Alexandra
+  * Anne
+  * Malvika
 * 
 * Turing research roles case studies (Participatory scientist/researcher) - Emma, Bastian, Georgia, Sophia
 * Quiet working
