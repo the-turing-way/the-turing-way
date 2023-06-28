@@ -121,6 +121,7 @@ except ErrorType:
 
 Reporting or aborting from an error can be done in the same way, but instead of using the default error, you raise your own.
 Importantly, raising a warning or error message from your own program means you have control over the quality of the message.
+And, contrasting most built-in errors, it can give a user instructions on how to fix it.
 
 (rr-code-error-messages)=
 ## Writing good error messages
