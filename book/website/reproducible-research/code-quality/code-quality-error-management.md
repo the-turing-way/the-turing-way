@@ -2,16 +2,17 @@
 # Error management
 
 We all have experienced it: you just wrote a new piece of code, but when you try it, it does not work as expected.
-Perhaps there is a typo, or a bug, or you just passed the wrong parameter to a function.
+Perhaps there is a typo, a bug, or you just passed the wrong parameter to a function.
 It is not a big deal... as long as you notice.
 Noticing something is wrong is the first step to fixing it.
 
-There will be many assumptions you make when writing a program: for example, the data type of your imports; the structure of a data file, but also the behavior of any dependencies; from individual functions, entire libraries, to the programming language you use and how it functions in various operating systems.
+There will be many assumptions you make when writing a program.
+For example, the data type of your imports, the structure of a data file, but also the behavior of any dependencies, from individual functions, entire libraries, to the programming language you use and how it functions in various operating systems.
 It is natural to have assumptions to build on, but it can become problematic when these assumptions are incorrect for a specific instance, yet the program carries on regardless.
 This is what is called a 'silent failure'.
 
 Silent failures can lead to problems down the line, likely resulting in strange and unintelligible error messages that do not have anything to do with the actual problem.
-A silent failure that stays silent throughout will generate results that are wrong, and need sharp eyes to be detected.
+A silent failure that stays silent throughout will generate results that are wrong, and needs sharp eyes to be detected.
 To make sure these things do not happen, your program needs built-in checks and balances.
 Having good error management practices dramatically reduces the chance that a problem occurs, and especially, that it passes unnoticed.
 This chapter's main purpose is to help you make your code robust, and capable of dealing with different potential problems.
@@ -57,9 +58,7 @@ Depending on your programming language, and the nature of the assumption, there 
 A good starting point for verifying an assumption can be an if/else statement:
 
 ```
-if my_assumption is TRUE:
-    continue
-else:
+if my_assumption is not TRUE:
     do something
 ```
 
@@ -111,7 +110,15 @@ object of type 'closure' is not subsettable
 You can catch these errors in your workflow, and deal with them in the same way as you deal with unmet assumptions: redirect, report, or abort.
 Redirecting from an error has a technical term: "exception handling".
 In this case, you expect a certain error to be raised, but instead of stopping your program, you change its course.
-In many programming languages, this is done in a `try... except` or `try... catch` block.
+In many programming languages, this is done in a `try... except` or `try... catch` block:
+
+```
+try:
+    do_something_that_might_fail()
+except ErrorType:
+    do_something_else()
+```
+
 Reporting or aborting from an error can be done in the same way, but instead of using the default error, you raise your own.
 Importantly, raising a warning or error message from your own program means you have control over the quality of the message.
 
@@ -129,7 +136,7 @@ The information you provide can help them 'debug': make the changes necessary to
 Writing good error messages is a skill that comes with a lot of practice.
 You have likely been on the receiving end of error messages that were of little use to you, and instead of helping you fix the problem, they only confused you.
 An error message is unhelpful when it is too broad, too vague, or unclear about what the next steps may be.
-When making your program robust, therefore, you should put thought into the information you provide in an error message.
+When making your program robust, you should therefore put thought into the information you provide in an error message.
 
 ```{figure} ../../figures/error-management.*
 ---
