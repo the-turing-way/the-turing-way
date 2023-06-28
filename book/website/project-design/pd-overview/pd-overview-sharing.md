@@ -1,12 +1,12 @@
 (pd-overview-sharing)=
 # Sharing Your Research Work
-In order to make sure that (all) your outputs are available to anyone interested in analysing or reusing them, you want to share them.
-Science can only progress from building on top of each other's results.
-The different types of digital research outputs that can be shared on the web (data, software and code, protocols, reagents, and hardware).
-They have specifics in terms of licenses, repositories and discovery channels.
 
+In order to make sure that (most) research outputs are available to everyone interested in analysing or reusing them, let's take some time to learn about how to share them.
+Science can only progress when we build on each other's work.
+Different digital research outputs or {ref}`research objects<cm-ro>`, such as data, software and code, protocols, reagents, and hardware, can be shared as open results on the web.
+They should come with specific information such as licenses, documentation and source code (repository, online index or archive).
 
-But only sharing is not enough.
+Sharing online is not enough - you should make sure that knowledge discovery and navigation process is clearly described.
 You need to make sure that your research objects are **F**indable, **A**ccesible, **I**nteroperable and **R**eusable.
 This is referred to as {ref}`FAIR Principles<rr-rdm-fair>` that provides guidelines to improve the Findability, Accessibility, Interoperability and Reusability of digital assets; all of which support research reproducibility.
 
