@@ -37,7 +37,9 @@ Furthermore, having your protocols online makes them easier to share, creating o
 
 ## Share Analysis Scripts and Research Software
 
-Even if you have been using a version control system with a public repository (see the {ref}`Version Control<rr-vcs>` chapter), you should consider putting a snapshot of your code in a repository, so you can be sure it gets archived for a relatively long time, and it become citable.
+If you have been using a version control system with a public repository (see the {ref}`Version Control<rr-vcs>` chapter), you have already done most of the work.
+You should now consider putting a snapshot of your code in a repository, so you can be sure it gets archived for a relatively long time, and it become citable.
+Indeed, there is no guarantee that the repository will stay available for a long time.
 
 
 You can integrate your version control system with a general-purpose repository.
