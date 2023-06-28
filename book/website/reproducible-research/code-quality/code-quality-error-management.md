@@ -60,6 +60,8 @@ A good starting point for verifying an assumption can be an if/else statement:
 ```
 if my_assumption is not TRUE:
     do something
+else:
+    continue
 ```
 
 If the assumption is met, nothing happens and your code executes as usual.
