@@ -1,8 +1,8 @@
-(ch-translation-hello-crowdin)=
+(ch-translation-gateway-crowdsourced-localisation)=
 
-# Hello Crowdin
+# Your Gateway to Crowdsourced Localisation
 
-Crowdin editor is your friend.
+[Crowdin](https://crowdin.com/) editor is your friend.
 You can use it to change translation language, proofread, add comments for contributors, contact the managers, vote translations, view suggestions for translation from translation memory or find Machine Translation from Google, Crowdin, DeepL, and others.
 
 Once you click on any file, you will be directed to the comfortable mode in Crowdin crowdsourcing editor. 
@@ -132,3 +132,12 @@ The terms that were added to the project glossary will be underlined in the sour
 You can check additional explanation added to the term for the accurate translation.
 A project manager can also give you permission to add terms to the project glossary.
 
+# Embracing Global Accessibility through Localisation and Crowdsourcing
+
+In conclusion, the process of translating the Turing Way into multiple languages through crowdsourcing has been a remarkable endeavor, showcasing the power of collaboration and inclusivity within the open-source community. Through the collective efforts of volunteers and contributors worldwide, the project has successfully bridged language barriers and expanded its reach to diverse communities.
+
+Crowdsourcing has played a pivotal role in this translation endeavor, harnessing the collective intelligence and linguistic skills of individuals passionate about open science and reproducible research. By tapping into the wisdom of the crowd, the Turing Way has been able to leverage the knowledge and expertise of a global network, ensuring accurate and contextually relevant translations.
+
+The benefits of localising and translating the Turing Way are far-reaching. It not only makes this invaluable resource more accessible to non-English-speaking communities but also fosters a sense of inclusivity, enabling researchers from various cultural backgrounds to engage with best practices and principles in research reproducibility.
+
+In conclusion, the translation of the Turing Way into different languages through crowdsourcing is a testament to the power of collective action and the commitment to open science principles. Through the dedication and collaboration of individuals around the world, the Turing Way continues to evolve and thrive as a comprehensive and inclusive resource for the research community, transcending language barriers and fostering a culture of reproducibility on a global scale.

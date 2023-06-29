@@ -62,6 +62,11 @@ We have contributions from across the UK, and from India, Mexico, Australia, USA
 Chapters have been written, reviewed and curated by members of research institutes and universities, government departments, and industry.
 We are committed to creating a space where people with diverse expertise and lived experiences can share their knowledge with others to allow us all to use data science to improve the world.
 
+```{admonition} Translation
+:class: tip
+Call for translators! We’re looking for translators to help translate this space for everyone! Read more about our translation workflow and how you can contribute to it {ref}`here<ch-translation>`.
+```
+
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
 Accordingly, everyone who participates in _The Turing Way_ project is expected to show respect and courtesy to other community members at all times.
 All contributions must abide by our [code of conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).

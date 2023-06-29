@@ -1,8 +1,7 @@
-# Personal Stories of Leadership
+(cl-leadership-story-hackathon)=
+# Personal Story from Running a Hackathon
 
 ## Diving into Leadership: lessons from leading a hacktahon project
-
-_The following blog post was written by The Turing Way contributor [Sarah Gibson](https://www.turing.ac.uk/people/researchers/sarah-gibson)._
 
 Hackathons can be quite intimidating scenarios to put yourself into.
 You're probably meeting a whole load of new people and getting to grips with a new project or programming language.
@@ -50,4 +49,4 @@ And most importantly, _have fun!_
 
 Happy hacking! (Or not!)
 
-_To read a longer version of this blog, please see the [original post on Medium](https://blog.jupyter.org/diving-into-leadership-to-build-push-button-code-df2a075c9914)._
+_The following blog post was written by The Turing Way contributor [Sarah Gibson](https://www.turing.ac.uk/people/researchers/sarah-gibson). To read a longer version of this blog, please see the [original post on Medium](https://blog.jupyter.org/diving-into-leadership-to-build-push-button-code-df2a075c9914)._

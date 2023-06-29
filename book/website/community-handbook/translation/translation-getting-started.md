@@ -1,5 +1,5 @@
-(ch-translation-getting-started)=
-# Getting Started in Translating _The Turing Way_
+(ch-translation-localisation-journey)=
+# Embark on Your Localisation Journey
 
 
 ## Overview of the translation workflow
@@ -30,7 +30,7 @@ The Translation workflow, which is located on a fork of _The Turing Way_ reposit
 
 ## Join the Translation Team in Crowdin
 
-- **Create an account in Crowdin** through [this link](https://accounts.crowdin.com/register?domain=turingway&continue=%2Fturing-way).
+- **Create an account in our Crowdin project** through [this link](https://accounts.crowdin.com/register?domain=turingway&continue=%2Fturing-way).
 
 ```{figure} ../../figures/create-account-crowdin.*
 ---
