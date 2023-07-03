@@ -95,12 +95,11 @@ See [activeDMPs](https://activedmps.org/) for a full overview.
 - [UK Data Services data management information](https://ukdataservice.ac.uk/learning-hub/research-data-management/)
 - [TU Delft Research Data Management portal](https://www.tudelft.nl/en/library/research-data-management)
 - Books
-   - Briney, Kristin. Data Management for Researchers : Organize, maintain and share your data for research success, Pelagic
-Publishing, 2015.
+   - {cite:ps}`Briney2015dmp`
 - Articles
-   - Briney, K.A., Coates, H. and Goben, A., 2020 Foundational Practices of Research Data Management. Research Ideas and Outcomes 6: e56508. [https://doi.org/10.3897/rio.6.e56508](https://doi.org/10.3897/rio.6.e56508)
-   - Hart EM, Barmby P, LeBauer D, Michonneau F, Mount S, Mulrooney P, et al. (2016) Ten Simple Rules for Digital Data Storage. PLoS Comput Biol 12(10): e1005097. [https://doi.org/10.1371/journal.pcbi.1005097](https://doi.org/10.1371/journal.pcbi.1005097)
-   - Ten Simple Rules for Creating a Good Data Management Plan
+   - {cite:ps}`Briney2020dmp`
+   - {cite:ps}`Hart2016dmp`
+   - {cite:ps}`Michener2015dmp` 
 - Videos
    - [Videos (3-7 min) on data management by Kristin Briney](https://www.youtube.com/watch?v=K5_ocBG5xek&list=PLEor4jq8YPgK_sgEiAcpHZLw-62mufXus)
    - Video on [elements of a DMP](https://commons.esipfed.org/node/1442).
