@@ -11,7 +11,7 @@
 * Eirini
 * David
 * Alex
-* Batool,
+* Batool
 * Sarah
 * Alden
 * Sophia
@@ -25,7 +25,9 @@
 * Governance (main room)
   * Kirstie
   * Alden (Margaret Hamilton)
-* 
+  * Alexandra
+  * Anne
+  * Malvika
 * Turing research roles case studies (Participatory scientist/researcher) - Emma, Bastian, Georgia, Sophia
 * Quiet working
     * David will join and catch up on emails and threads
