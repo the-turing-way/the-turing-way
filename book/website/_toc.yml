@@ -514,6 +514,11 @@ parts:
             file: collaboration/coworking
           - title: Organising Conferences
             file: collaboration/organising-conference
+            sections:
+              - title: Registration Forms
+                file: collaboration/organising-conference/reg-forms
+              - title: Template for Registration Form
+                file: collaboration/organising-conference/reg-form-template
           - title: Chairing Events
             file: collaboration/chairing
           - title: Participating in Events
