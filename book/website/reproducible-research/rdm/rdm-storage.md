@@ -94,7 +94,7 @@ Be careful with these tools, because changes made with bulk renaming tools may b
 Some bulk file renaming tools include: 
 - [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/Main_Intro.php) and [WildRename](http://www.cylog.org/utilities/wildrename.jsp) (for Windows)
 - [Renamer](https://renamer.com/) (for MacOS)
-- [PSRenamer](http://www.cylog.org/utilities/wildrename.jsp)(for MacOS, Windows, Unix, Linux)
+- [PSRenamer](http://www.cylog.org/utilities/wildrename.jsp) (for MacOS, Windows, Unix, Linux)
 
 (rr-rdm-storage-backups)=
 ## Backups
@@ -108,7 +108,7 @@ To avoid losing your data, you should follow good backup practices.
 Backups are ideally done automatically and should take into consideration your institute's guidelines.
 The more important the data and the more often the datasets change, the more frequently you should back them up.
 If your files take up a large amount of space and backing up all of them proves to be challenging or expensive, you may want to create a set of criteria for when you back up the data.
-This can be part of your data management plan (DMP).
+This can be part of your {ref}`Data Management Plan<rr-rdm-dmp>`.
 
 
 Watch this video on [Safe data storage and backup](https://www.youtube.com/watch?v=bgbbToXHgW0) from the [TU Delft Open Science MOOC](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/).
