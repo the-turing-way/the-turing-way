@@ -65,3 +65,5 @@ There are two global initiatives that act as umbrella organisations and referenc
 * Under GOFAIR, there are many [Implementation Networks (INs)](https://www.go-fair.org/implementation-networks) committed to implementing the FAIR principles.
 * Under the RDA, there are several groups tackling different aspects relevant to the RDM life cycle. Among these, one group, the [FAIR Data Maturity Model Working Group](https://www.rd-alliance.org/groups/fair-data-maturity-model-wg) is reviewing existing efforts, building on them to define a standard set of common assessment criteria for the evaluation of FAIRness.
 
+## More information
+- Deep dive into the [FAIR principles by Dr. Maryann Martone](https://www.youtube.com/watch?v=xx2wHxQfcnA) (45 minute video)
