@@ -1,12 +1,8 @@
 name: Crowdin Contributors Action
 
 on:
-  # When you push to the `main` branch
-  push:
-    branches: [ main ]
-  # And optionally, once every 12 hours
   schedule:
-    - cron: '0 */12 * * *' # https://crontab.guru/#0_*/12_*_*_*
+    - cron: '0 0 * * 1' # https://crontab.guru/#0_0_*_*_1
   # To manually run this workflow
   workflow_dispatch:
 
