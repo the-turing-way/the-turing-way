@@ -2,7 +2,7 @@ name: Crowdin Contributors Action
 
 on:
   schedule:
-    - cron: '0 0 * * 1' # https://crontab.guru/#0_0_*_*_1
+    - cron: '0 0 * * 1' # 'https://crontab.guru/#0_0_*_*_1'
   # To manually run this workflow
   workflow_dispatch:
 
