@@ -153,7 +153,7 @@ parts:
             sections:
               - title: Code Style and Formatting
                 file: reproducible-research/code-quality/code-quality-style
-              - title: Error management
+              - title: Writing Robust Code
                 file: reproducible-research/code-quality/code-quality-error-management.md
               - title: Checklist and Resources
                 file: reproducible-research/code-quality/code-quality-resources

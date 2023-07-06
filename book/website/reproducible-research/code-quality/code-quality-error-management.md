@@ -1,11 +1,12 @@
 (rr-code-error)=
-# Error management
+# Writing robust code
 
 We all have experienced it: you just wrote a new piece of code, but when you try it, it does not work as expected.
 Perhaps there is a typo, a bug, or you just passed the wrong parameter to a function.
 It is not a big deal... as long as you notice.
 Noticing something is wrong is the first step to fixing it.
 
+## Silent failures
 There will be many assumptions you make when writing a program.
 For example, the data type of your imports, the structure of a data file, but also the behavior of any dependencies, from individual functions, entire libraries, to the programming language you use and how it functions in various operating systems.
 It is natural to have assumptions to build on, but it can become problematic when these assumptions are incorrect for a specific instance, yet the program carries on regardless.
