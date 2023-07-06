@@ -65,7 +65,7 @@ else:
     continue
 ```
 
-If the assumption is met, nothing happens and your code executes as usual.
+If the assumption is `TRUE`, nothing happens and your code executes as usual.
 
 However, simply the existence of this if/else block will be able to alert a user if an important condition is not met.
 If they are trying to select a column that does not exist, for instance.
@@ -160,4 +160,11 @@ These qualities make a good error message:
 
 ## Read more
 
-This chapter is complementary to {ref}`rr-testing`.
+The practices described in this chapter are not the same as testing your code.
+Instead, they go hand in hand, and can be used to complement each other.
+For example:
+
+- Use tests to pass strange data to your workflow, and confirm that your workflow redirects, reports, or aborts as expected.
+- Use tests to confirm you receive the expected error messages.
+
+To read more about how to implement tests in your workflow, see the dedicated chapter on {ref}`rr-testing`.
