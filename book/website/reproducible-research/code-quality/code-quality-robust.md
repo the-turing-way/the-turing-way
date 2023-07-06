@@ -167,4 +167,4 @@ For example:
 - Use tests to pass strange data to your workflow, and confirm that your workflow redirects, reports, or aborts as expected.
 - Use tests to confirm you receive the expected error messages.
 
-To read more about how to implement tests in your workflow, see the dedicated chapter on {ref}`rr-testing`.
+To read more about how to implement code testing in your project, see the dedicated chapter on {ref}`rr-testing`.
