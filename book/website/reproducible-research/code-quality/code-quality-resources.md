@@ -14,7 +14,7 @@
 - Make relevant changes and repeat the above step.
 - {ref}`Commit and push<rr-vcs-git-commit>` the changes to remote **Github/GitLab/BitBucket** repository to run the pre-deployment tests.
 
-### For error management
+### For robust code
 
 - Find assumptions in your program, and make them explicit.
 - Write if/else statements to test your assumptions.
