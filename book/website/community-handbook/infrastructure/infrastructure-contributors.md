@@ -1,3 +1,4 @@
+(ch-infrastructure-contributors)=
 # Publishing Contributors
 
 Keeping track of contributions of all types is important: both code and non-code contributors.
