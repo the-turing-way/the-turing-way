@@ -11,14 +11,6 @@ Researcher-written code now forms a part of a huge portion of research, and if t
 Testing code thoroughly and frequently is vital to ensure reliable, reproducible research.
 This chapter will provide general guidance for writing tests and describe a number of different kinds of testing, their uses and how to go about implementing them.
 
-```{figure}  ../figures/error-management.*
----
-name: error-management
-alt: A person is happily coding, then a error throws and the coder gets confused. Then the coder can find the error and fix it.
----
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
-```
-
 ## Motivation
 
 It is very, very easy to make mistakes when coding.
