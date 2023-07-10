@@ -35,7 +35,6 @@
     * Batool
     * Eirini
 * UKRN survey- Vicky
-* 
 
 
 ## Advance asynchronous updates
