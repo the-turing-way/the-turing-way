@@ -388,9 +388,28 @@ I also hope that it can convince people that don't consider themselves capable o
 > More recently that project has become consolidated into LA-CoNGA physics (http://laconga.redclara.net/), an EU Erasmus+ funded project with a mission to create a Latin American and European Community for Advanced Physics.
 > In this project I’m helping to build a data science module that will be thought in an online master course.
 
-<!---D
-## D--->
+<!---D--->
+## D
 
+### Danny Garside
+
+* Role: Infrastructure Co-lead
+* GitHub id: [da5nsy](https://github.com/da5nsy)
+* ORCID id: [0000-0002-0227-836X](https://orcid.org/0000-0002-4579-003X)
+* Fediverse profile: https://social.coop/@da5nsy
+* Website: https://www.dannygarside.co.uk/
+  
+* Short bio:
+ > I am a neuroscientist and meta-scientist, and I split my time between researching colour vision and trying to make academia more accessible, more efficient, and happier. 
+
+* Personal highlights:
+> - Learning about the project and [meeting Kirstie](https://github.com/alan-turing-institute/the-turing-way/blob/ebbaf8f5f3a66da441beafc690a1b16a9c50d15b/communications/newsletters/newsletter_08_Nov2019.md#acknowledgements-and-celebrations) during a rough patch in my PhD - learning about the project brought me hope for the future!
+> - My [first issue](https://github.com/alan-turing-institute/the-turing-way/issues/1114) followed several small contributions and then [the first gnarly infrastructure PR](https://github.com/alan-turing-institute/the-turing-way/pull/2039) I made, which started my love(/hate)-affair with Jupyter Book.
+> - Working with [Malvika](https://github.com/alan-turing-institute/the-turing-way/edit/main/contributors.md#malvika-sharan) to [rewrite the landing page](https://github.com/alan-turing-institute/the-turing-way/pull/1961) (particularly proud of _"Warning: Do not try to read the _The Turing Way_ from start to finish!"_)
+> - [Learning how to build the book locally](https://web.archive.org/web/20221104150942/https://fosstodon.org/@da5nsy/108760121842868538) from [Sarah Gibson](https://the-turing-way.netlify.app/afterword/contributors-record.html#sarah-gibson) (and learning about miniconda in the process!) - a process which is now written up [here](https://the-turing-way.netlify.app/community-handbook/local-build.html#ch-local-build), but wasn't at the time, and so it felt like secret magic, and an infrastructure nerd's rite-of-passage.
+> - Using that knowledge to finally [wipe all of the long-standing build warning and errors](https://github.com/alan-turing-institute/the-turing-way/issues/2611) so that we could [implement CI to catch bugs before they were merged into main from then on](https://github.com/alan-turing-institute/the-turing-way/pull/2861)!
+> - [Presenting at FOSS Backstage in Berlin](https://github.com/alan-turing-institute/the-turing-way/issues/2993#issuecomment-1629424116) with [Anne Lee Steele](https://github.com/alan-turing-institute/the-turing-way/edit/main/contributors.md#anne-lee-steele), on the subject of transitioning from a reactive 
+> - Recently I'm focusing on the more organisation-level infrastructure ([what tools do we use and why](https://github.com/alan-turing-institute/the-turing-way/issues/3218)?), and as part of that I was proud to set up [the Turing Way's mastodon account](https://fosstodon.org/@turingway/108278354199514905).
 
 <!---E--->
 ## E
