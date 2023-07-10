@@ -1,6 +1,7 @@
 (rr-licensing-software)=
 # Software Licenses
 
+(rr-licensing-software-prerequisites)=
 ## Prerequisites
 
 This chapter builds on {ref}`rr-licensing`.

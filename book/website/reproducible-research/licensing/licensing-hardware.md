@@ -1,7 +1,7 @@
 (rr-licensing-hardware)=
 # Open Hardware Licenses
 
-(rr-licensing-prerequisites)=
+(rr-licensing-hardware-prerequisites)=
 ## Prerequisites
 
 This chapter builds on the chapter {ref}`rr-licensing`.
