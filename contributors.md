@@ -6,7 +6,7 @@ Contributions to _The Turing Way_ may include but are not limited to, bug fixing
 We recognise all these contributions and acknowledge our community members fairly.
 For example, using [all contributors bot](https://allcontributors.org) we update the contributors table with each person's name, where the emoji keys indicate the different tasks they have done (see the [README file](https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md#contributors)).
 We understand that different contributions mean different things to people and may translate differently towards their personal interest, skill development, value exchange and advancement of their careers.
-Therefore, we also offer the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/contributors.md) file as a dedicated location to capture personal highlights from _The Turing Way_ community members.
+Therefore, we also offer the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) file as a dedicated location to capture personal highlights from _The Turing Way_ community members.
 
 Individual contributors are welcome to provide their details under the section "Personal Highlights from _The Turing Way_ Contributors".
 Organisational support and collaborations are listed in the section, "Collaborating Organisations".
