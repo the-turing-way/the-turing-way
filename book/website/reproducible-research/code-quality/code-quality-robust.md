@@ -9,11 +9,12 @@ Noticing something is wrong is the first step to fixing it.
 ## Silent failures
 There will be many assumptions you make when writing a program.
 For example, the data type of your imports, the structure of a data file, but also the behavior of any dependencies, from individual functions, entire libraries, to the programming language you use and how it functions in various operating systems.
-It is natural to have assumptions to build on, but it can become problematic when these assumptions are incorrect for a specific instance, yet the program carries on regardless.
+It is natural to have assumptions to build on.
+However, it can become problematic when these assumptions are incorrect for a specific instance and the program carries on regardless.
 This is what is called a 'silent failure'.
 
 Silent failures can lead to problems down the line, likely resulting in strange and unintelligible error messages that do not have anything to do with the actual problem.
-A silent failure that stays silent throughout will generate results that are wrong, and needs sharp eyes to be detected.
+A silent failure that stays silent will generate results that are wrong, and needs sharp eyes to be detected.
 To make sure these things do not happen, your program needs built-in checks and balances.
 Having good error management practices dramatically reduces the chance that a problem occurs, and especially, that it passes unnoticed.
 This chapter's main purpose is to help you make your code robust, and capable of dealing with different potential problems.
@@ -47,14 +48,14 @@ To identify assumptions in your code, you can ask yourself:
 
 If you think critically, there is no end to the assumptions that you make.
 For instance, you assume that a built-in function you use works in a specific way.
-Labeling all these assumptions would perhaps drive you crazy, and that is not the point of this exercise.
+Labeling all these assumptions would perhaps keep you busy eternally, and that is not the point of this exercise.
 Instead, try to focus on assumptions you make about the data and/or files a user puts into your workflow or code.
 
 (rr-code-error-workflow-step2)=
 ### Step 2: Assert/verify assumptions
 
 Once you have identified assumptions, you can verify if they are true.
-This is also called 'asserting'.
+This is also called '**asserting**'.
 Depending on your programming language, and the nature of the assumption, there are many creative ways to do this.
 A good starting point for verifying an assumption can be an if/else statement:
 
@@ -88,8 +89,8 @@ There are roughly three ways you can deal with an unmet assumption:
 All programming languages have the option to raise an error.
 These errors can come in different flavors.
 Two main flavors that you will find in most programming languages are 'warning' and 'error'.
-A 'warning' is less severe than an 'error'; it indicates a potential problem, but does not stop the program.
-An 'error' is thrown when the program needs to halt.
+A '**warning**' is less severe than an 'error'; it indicates a potential problem, but does not stop the program.
+An '**error**' is thrown when the program needs to halt.
 
 Thus, error types fit well with the different ways of dealing with unmet assumptions:
 
@@ -102,8 +103,8 @@ Thus, error types fit well with the different ways of dealing with unmet assumpt
 (rr-code-error-handling)=
 ## Error handling
 
-Whatever programming language you are using, errors already exist there.
-The good part about errors appearing, is that something has gone wrong, and your user knows about it.
+Whatever programming language you are using, errors already exist.
+The good part about errors appearing is that something has gone wrong and your user knows about it.
 The bad part is that the message is likely not informative to your user:
 
 ```output
@@ -111,7 +112,7 @@ object of type 'closure' is not subsettable
 ```
 
 You can catch these errors in your workflow, and deal with them in the same way as you deal with unmet assumptions: redirect, report, or abort.
-Redirecting from an error has a technical term: "exception handling".
+Redirecting from an error has a technical term: '**exception handling**'.
 In this case, you expect a certain error to be raised, but instead of stopping your program, you change its course.
 In many programming languages, this is done in a `try... except` or `try... catch` block:
 
@@ -130,7 +131,7 @@ And, contrasting most built-in errors, it can give a user instructions on how to
 ## Writing good error messages
 
 When raising an error (or warning), you should add information about the problem in an error message.
-This is important information for a user who attempts to use your program, but runs into a problem.
+This is important information for a user who attempts to use your program and runs into a problem.
 The information you provide can help them 'debug': make the changes necessary to successfully execute the run.
 
 > "Make sure that when [your program] fails, it fails informatively."
