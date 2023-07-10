@@ -3,7 +3,7 @@
 
 We all have experienced it: you just wrote a new piece of code, but when you try it, it does not work as expected.
 Perhaps there is a typo, a bug, or you just passed the wrong parameter to a function.
-It is not a big deal... as long as you notice.
+It is not a big deal, as long as you notice!
 Noticing something is wrong is the first step to fixing it.
 
 ## Silent failures
