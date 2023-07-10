@@ -1,55 +1,25 @@
+(rr-licensing-hardware)=
 # Open Hardware Licenses
 
+(rr-licensing-prerequisites)=
+## Prerequisites
+
+This chapter builds on the chapter {ref}`rr-licensing`.
+It is advisable to also read the chapter {ref}`rr-licensing-software` before or after reading this one.
+
 ## Introduction
-Licensing is an important aspect of sharing/publishing open source projects as it provides clarity for anyone looking to reuse an open source project.
-Without licenses in place, anyone who wants to reuse it, is left with legal ambiguity as to the status of using your intellectual property.
+
 While this chapter focuses on open source hardware licenses, this should be considered within the broader open source movement. 
 The open source licensing of hardware came out of open source software licenses and, in fact, several open source software licenses are widely accepted within the open hardware community. 
+Please refer to the warnings and description of terms you will find in the introductory chapter
+{ref}`rr-licensing`.
 
-```{warning}
-It is important to consider that copyright, licenses, and patents are all legal concepts.
-As such, they are subject to what the law prescribes, which may change over time and space.
-This change is not only that one of the laws is changing over time, but it changes over space: depending on jurisdiction and enforcement.
-Simply put, different countries have different laws, and follow different procedures with regard to enforcing them.
-The content provided here is broadly based on American and European law and legal traditions.
-It might not be applicable - might even be contra indicated - or relevant in your particular context.
-While things like the Berne Convention have sought to harmonize copyright enforcement, the real world is a messy place.
-
-Please also note that the information provided here was not written by a lawyer.
-So do not take the descriptions provided or viewpoints shared as legal advice, they are not that.
-This document is not intended to be used in that manner.
-Consult a legal expert to provide actual legal advice for your case.  
-```
-
-## Content
-To understand what licenses do and how to apply them, it is first important to be familiar with a number of terms.
-Terms like copyright, licenses, patents, and trademarks are often used interchangeably (and sometimes incorrectly).
-This may lead to confusion as to what exactly is being discussed and what the implications are.
-Familiarise yourself with the following terms and follow the links to understand more about them.
-
-
-```{admonition} Info
-**[Copyright](https://europa.eu/youreurope/business/running-business/intellectual-property/copyright/index_en.htm#shortcut-1/):** “When you create an original literary, scientific and artistic work, such as poems, articles, films, songs or sculptures, you are protected by copyright.
-Nobody apart from you has the right to make the work public or reproduce it.
-” And, “If you create literary, scientific and artistic work, you automatically have copyright protection, which starts from the moment you create your work, so you don't need to go through any formal application process.”
-
-**[License](https://www.oshwa.org/faq/#what-is-a-license/):** “Licensing is a way to give people rights that they wouldn’t otherwise have to use your intellectual property (IP) and, in return, to place restrictions on how they exercise those rights.”
-
-**[Patent](https://www.wipo.int/patents/en/):** “A patent is an exclusive right granted for an invention, which is a product or a process that provides, in general, a new way of doing something, or offers a new technical solution to a problem.
-To get a patent, technical information about the invention must be disclosed to the public in a patent application.”
- 
-**[Trademark](https://euipo.europa.eu/ohimportal/en/trade-mark-definition/)**: "Trade marks are signs used in trade to identify products.
-Your trade mark is the symbol your customers use to pick you out.
-It distinguishes you from your competitors.
-You can protect and build upon your trade mark if you register it."
-
-```
-
-Copyrights are generally what make open source licenses enforceable.
-For many open source licenses to be applicable it is necessary to figure out what parts of the project are actually copyrightable and therefore can be licensed.
-This complicates thing, since copyrights do not protect functional items and hardware can be a combination of creative and functional elements.
+As explained there, for many open source licenses to be applicable, it is necessary to figure out what parts of the project are actually copyrightable and therefore can be licensed.
+This complicates thing for hardware, as copyrights do not protect functional items and hardware can be a combination of creative and functional elements.
 While the former is protected by copyright, the latter would usually need a patent (if it is indeed patentable) to be protected.
-It is important to note that copyrights and patents are mutually exclusive: something is either protected by copyright or it is protected by a patent, but not both simultaneously. 
+It is important to note that copyrights and patents are mutually exclusive: something is either protected by copyright or it is protected by a patent, but not both simultaneously.
+
+
 
 ### What licenses to use
 
@@ -68,59 +38,46 @@ You may see here the connection with software licenses.
 As mentioned before, this is not an accident.
 
 
-In broad terms copyleft licenses impose an obligation of reciprocity on users of any of the licensed items. 
-If something is licensed under a copyleft license, then any derivative works need to be shared under the same rights.
-Note that it can make things difficult if you want to combine different elements having different copy-left licenses.
-
-Copyleft licenses do not prohibit the commercial use of the copyrighted content. 
-It only prohibit you to place additional restrictions on the derivative work.
-
-Permissive licenses are those licenses that do not impose the reciprocity requirements.
-These licenses allow for the proprietary licensing of derivative works.
 
 #### Non-Hardware Native licenses
-The GNU(GPL) developed within the context of the open source software movement (by Richard Stallman) is a popular copyleft license.
-The CC-BY-SA license falls under open source copyleft licenses. 
-Most copyleft licenses fall under open source licenses but not all open source licenses are copyleft.
 
- The CC licenses offer a spectrum of licensing with the CC0 and CC-BY licenses being permissive open source licenses.
- Creative Commons recommends that CC licenses should not be used for licensing software.
- The MIT license and FreeBSD license are also permissive licenses. 
+For the software and documentation part of your hardware documentation package, you should use a corresponding license. Please refer to the description below {ref}`rr-licensing-hardware-multiple` and to the other sub-chapter of the licenses chapter.
+Usually, the CC licenses offer a spectrum of licensing for documentation and data, with the CC0 and CC-BY licenses being permissive open source licenses. 
+
+For software, the GNU(GPL) developed within the context of the open source software movement (by Richard Stallman) is a popular copyleft license.
+The MIT license and FreeBSD license are also permissive licenses. 
 
 #### Hardware Native licenses
 
 Due to the unique challenges faced when licensing open source hardware, licenses specifically tailored to be used with open source hardware have been created.
 The CERN Open Hardware License is a prominent member in this category with the [CERN OHL v2.0](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2/) license coming in three flavours:
 
-- the copyleft or strongly reciprocal CERN-OHL-S  variant
+- the copyleft or strongly reciprocal CERN-OHL-S variant
 - the weakly reciprocal CERN-OHL-W variant
 - the permissive CERN-OHL-P variant.
+ 
   
 The aforementioned TARP Open hardware license is also a copyleft license, while the Solderpad Hardware License is a permissive license. 
 
 The advantage of using the licenses developed specifically for hardware is that they try to address the peculiarities of licensing open source hardware.
 The CERN OHL v2.0 for example address the fact that there are different elements to an open hardware project and can be used for the software parts of the open hardware project as well, though CERN itself encourages the use of dedicated open source software licenses for those parts. 
 
-### How and where to add licenses
-The choice of license is a personal one based on the goals of the hardware project and the scope for collaboration and growth.
-However, structuring the project and adding the appropriate licenses to the different section is much more universal.
-Adopting the OSHWA certification regime to distinguish and apply the licenses is a good strategy. 
+(rr-licensing-hardware-multiple)=
+### Multiple licenses for hardware
 
+Adopting the OSHWA certification regime to distinguish and apply the licenses is a good strategy. 
 The certification considers four elements: a) the **hardware**, b) **software**, c) **documentation** and d) **branding**.
 Depending on the type of project and scope one or two elements might not be relevant but for the most part having a plan for all four is a good idea. 
 
-The licenses used should generally be featured in the main page where the project is hosted.
-For example if GitHub is used, a license file should be added to the topmost layer of the repo along with a Readme file.
-The appropriate licenses should also attached to the different elements.
-For example the software license should be attached to the code, with the appropriate declaration at the start of any section.
 
-#### Hardware
+#### Hardware design and licenses
+
 This consists of the actual hardware elements of the project and utilising a license like a CERN OHL would be appropriate.
 This element consists of the functional parts of the “product”.
 In general, functional parts of an invention could be protected by a patent, but in our context the Open Hardware Licenses play that role. 
 
 Since a patent has to be specifically applied for and given by the patent office of the country, the aspects that the open hardware licence actually protects can be uncertain.
-This does not mean there is no point to utilising such a license but simply that one must be mindful of their limitations.
+This does not mean there is no point to utilizing such a license but simply that one must be mindful of their limitations.
 The following line from the certification guidelines from OSHWA, gives a good perspective on the use of these hardware licenses, “It is best to think of hardware licenses as guiding tools for good actors, not ways to punish bad actors.”
 
 #### Software
@@ -153,28 +110,15 @@ This will ensure that any recreations or distributions of the product do not con
 > If branding and trademarks are relevant to your project it is important to apply for and obtain those certifications from the appropriate government authorities. 
 
 ### Limitations
-It is important to keep in mind that licenses are only as powerful as the ability to enforce them.
-This means that while you can curate and choose the best license that fits your goals, it might entirely be redundant if enforcement is not possible.
 
-The good news is that open source software licenses have been tested across different jurisdictions and have been upheld in many cases, including the USA and Germany.
-The full scope of enforceability and effectiveness is still to be explored. 
 
-On the other hand open source hardware licensing is relatively recent and appears to be entirely untested in an actual court of law.
+Open source hardware licensing is relatively recent and appears to be entirely untested in an actual court of law.
 This means that the protections offered by such licenses stand on unproven grounds.
 We should alsa add that the licensing is based on copyright law which does not transfer well when dealing with actual hardware.
 
 This mean that the open hardware licenses might not offer as much or even any protections.
 So it is good to repeat, “It is best to think of hardware licenses as guiding tools for good actors, not ways to punish bad actors.”
  
-## extra notes
-
-It is highly recommended to provide an [SPDX short license identifier](https://spdx.org/licenses/) to make the licensing terms machine-referenceable.
-
-
-
-
-
-
 
 ## Reference and further readings
 - Open source hardware https://larszimmermann.de/licensing-open-source-hardware-by-michael-weinberg/  (accessed Sep. 23, 2022).
