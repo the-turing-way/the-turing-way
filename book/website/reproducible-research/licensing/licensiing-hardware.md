@@ -1,15 +1,14 @@
-# Open Hardware Licenses- section to be used in the licensing section.
+# Open Hardware Licenses
 
 ## Introduction
-Licensing is an important aspect of sharing/publishing open source projects as it provides clarity for anyone looking to reuse your open source project.
+Licensing is an important aspect of sharing/publishing open source projects as it provides clarity for anyone looking to reuse an open source project.
 Without licenses in place, anyone who wants to reuse it, is left with legal ambiguity as to the status of using your intellectual property.
-While we are looking to focus on open source hardware licenses, this should be considered within the broader open source movement. 
+While this chapter focuses on open source hardware licenses, this should be considered within the broader open source movement. 
 The open source licensing of hardware came out of open source software licenses and, in fact, several open source software licenses are widely accepted within the open hardware community. 
 
 ```{warning}
 It is important to consider that copyright, licenses, and patents are all legal concepts.
-As such, they are subject to what the law prescribe.
-And laws can change.
+As such, they are subject to what the law prescribes, which may change over time and space.
 This change is not only that one of the laws is changing over time, but it changes over space: depending on jurisdiction and enforcement.
 Simply put, different countries have different laws, and follow different procedures with regard to enforcing them.
 The content provided here is broadly based on American and European law and legal traditions.
@@ -24,7 +23,7 @@ Consult a legal expert to provide actual legal advice for your case.
 
 ## Content
 To understand what licenses do and how to apply them, it is first important to be familiar with a number of terms.
-Often terms like copyright, licenses, patents, and trademarks are used interchangeably (sometimes incorrectly).
+Terms like copyright, licenses, patents, and trademarks are often used interchangeably (and sometimes incorrectly).
 This may lead to confusion as to what exactly is being discussed and what the implications are.
 Familiarise yourself with the following terms and follow the links to understand more about them.
 
@@ -34,7 +33,7 @@ Familiarise yourself with the following terms and follow the links to understand
 Nobody apart from you has the right to make the work public or reproduce it.
 ” And, “If you create literary, scientific and artistic work, you automatically have copyright protection, which starts from the moment you create your work, so you don't need to go through any formal application process.”
 
-**[License](https://www.oshwa.org/faq/#what-is-a-license/):** “ Licensing is a way to give people rights that they wouldn’t otherwise have to use your intellectual property (IP) and, in return, to place restrictions on how they exercise those rights.”
+**[License](https://www.oshwa.org/faq/#what-is-a-license/):** “Licensing is a way to give people rights that they wouldn’t otherwise have to use your intellectual property (IP) and, in return, to place restrictions on how they exercise those rights.”
 
 **[Patent](https://www.wipo.int/patents/en/):** “A patent is an exclusive right granted for an invention, which is a product or a process that provides, in general, a new way of doing something, or offers a new technical solution to a problem.
 To get a patent, technical information about the invention must be disclosed to the public in a patent application.”
@@ -66,7 +65,7 @@ A good place to start is to see which licenses are generally accepted by OSHWA:
 The licenses listed above are used in open source hardware. 
 They can be broadly classified as permissive licenses and reciprocal or copyleft licenses.
 You may see here the connection with software licenses.
-As mentionned before, this is not an accident.
+As mentioned before, this is not an accident.
 
 
 In broad terms copyleft licenses impose an obligation of reciprocity on users of any of the licensed items. 
