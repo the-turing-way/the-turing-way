@@ -1,7 +1,3 @@
-# Record of Contributions
-
-*The `contributors.md` file and the contributors table in the `README file` together form the record of contributions in _The Turing Way_.*
-
 Contributions to _The Turing Way_ may include but are not limited to, bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
 We recognise all these contributions and acknowledge our community members fairly.
 For example, using [all contributors bot](https://allcontributors.org) we update the contributors table with each person's name, where the emoji keys indicate the different tasks they have done (see the [README file](https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md#contributors)).
