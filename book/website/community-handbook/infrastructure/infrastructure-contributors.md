@@ -11,7 +11,7 @@ This page documents how these sources are combined to create the {ref}`Record of
 ## Personal Highlights
 
 The {ref}`Personal Highlight section<contributors-record-highlights>` is taken directly from [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) in the root of the repository.
-This is inserted into [`contributors-record.md`](https://github.com/alan-turing-institute/the-turing-way/blob/main/book/website/afterword/contributors-record.md`) verbatim using the [`include` docutils directive](https://docutils.sourceforge.io/docs/ref/rst/directives.html#including-an-external-document-fragment).
+This is inserted into [`contributors-record.md`](https://github.com/alan-turing-institute/the-turing-way/blob/main/book/website/afterword/contributors-record.md) verbatim using the [`include` docutils directive](https://docutils.sourceforge.io/docs/ref/rst/directives.html#including-an-external-document-fragment).
 
 To modify this section you would change `contributors.md` and rebuild the book.
 
