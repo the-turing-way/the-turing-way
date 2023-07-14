@@ -10,20 +10,22 @@ Enforcement of the Code of Conduct should be respectful and not include any hara
 The Code of Conduct committee is:
 
 * Kirstie Whitaker: kwhitaker@turing.ac.uk
-* Anna Krystalli: a.krystalli@sheffield.ac.uk
-* Ben Murton: bmurton@turing.ac.uk
+* Malvika Sharan: msharan@turing.ac.uk
+* Anna Krystalli: annakrystalli@googlemail.com
 
-As the community grows, we will seek to build a larger committee including members outside of the core development team.
+You can also reach out to the Research Community Manager, Anne Lee Steele (asteele@turing.ac.uk) and Research Project Manager Alexandra Araujo Alvarez (aaraujo.alvarez@turing.ac.uk) for their help in reporting to the committee either anonymously, or on your behalf.
+
+As the community grows, we will seek to build a larger committee including members outside of the current team.
 
 ## 4.2 Urgent Situations: Acting Unilaterally
 
-If the incident involves physical danger, or involves a threat to anyone's safety (such as threats of violence), any member of the community may -- and should -- act unilaterally to protect the safety of any community member.
+If the incident involves physical danger or involves a threat to anyone's safety (such as threats of violence), any member of the community may -- and should -- act unilaterally to protect the safety of any community member.
 This can include contacting law enforcement (or other local personnel) and speaking on behalf of the Turing Way team.
 
-If the act is ongoing, any community member may act immediately, before reaching consensus, to diffuse the situation.
+If the act is ongoing, any community member may act immediately, before reaching a consensus, to diffuse the situation.
 In ongoing situations, any member may at their discretion employ any of the tools available in this enforcement manual, including bans and blocks online, or removal from a physical space.
 
-In situations where an individual community member acts unilaterally, they must inform Kirstie Whitaker as soon as possible, and report their actions for review within 24 hours.
+In situations where an individual community member acts unilaterally, they must inform the committee as soon as possible, and report their actions for review within 24 hours.
 
 ## 4.3 Less-Urgent Situations
 
@@ -46,8 +48,8 @@ In the event that a resolution can't be determined in that time, a member of the
 ## 4.4 Resolutions
 
 The CoC committee will seek to agree on a resolution by consensus of all members investigating the report in question.
-If the committee cannot reach consensus and deadlocks for over a week, Dr Whitaker, as lead investigator of the Turing Way project, will break the tie.
-If Dr Whitaker is unable to take part in the discussion due to a conflict of interest, Dr Ben Murton, as an external member of the CoC committee, will make the decision.
+If the committee cannot reach a consensus and deadlocks for over a week, Kirstie Whitaker will break the tie.
+If any of the committee members are unable to take part in the discussion due to a conflict of interest, Anna Krystalli, as an external member of the CoC committee, will make the decision.
 
 Possible responses may include:
 
@@ -55,16 +57,16 @@ Possible responses may include:
 * A request for a verbal or written apology, public or private, from a community member.
 * A public announcement clarifying community responsibilities under the Code of Conduct.
 * Nothing, if the issue reported is not a violation or outside of the scope of this Code of Conduct.
-* A private in-person conversation between a member of the research team and the individual(s) involved.
+* A private in-person conversation between a member of the committee and the individual(s) involved.
   In this case, the person who has the conversation will provide a written summary for record keeping.
-* A private written reprimand from a member of the research team to the individual(s) involved.
-  In this case, the research team member will deliver that reprimand to the individual(s) over email, cc'ing Kirstie Whitaker for record keeping.
+* A private written reprimand from a member of the committee to the individual(s) involved.
+  In this case, the committee member will deliver that reprimand to the individual(s) over email, cc'ing Kirstie Whitaker for record keeping.
 * A public announcement of an incident, ideally in the same venue that the violation occurred (such as on the listserv for a listserv violation; and GitHub for a GitHub violation).
   The committee may choose to publish this message elsewhere for posterity.
 * An imposed "time out" from online spaces.
-  Kirstie Whitaker will communicate this "time out" to the individual(s) involved.
+  Committee members will communicate this "time out" to the individual(s) involved.
 * A permanent or temporary ban from some or all Turing Way project spaces (like on GitHub, online calls or in-person events).
-  The research team will maintain records of all such bans so that they may be reviewed in the future, extended to a Code of Conduct safety team as it is built, or otherwise maintained.
+  The committee will maintain records of all such bans so that they may be reviewed in the future, extended to a Code of Conduct safety team as it is built, or otherwise maintained.
   If a member of the community is removed from an event they will not be reimbursed for any part of the event that they miss.
 
 Once a resolution is agreed upon, but before it is enacted, a member of the CoC committee will contact the original reporter and any other affected parties and explain the proposed resolution.
@@ -73,4 +75,4 @@ However, the CoC committee is not required to act on this feedback.
 
 ## 4.5 Conflicts of Interest
 
-In the event of any conflict of interest such that Dr Whitaker is not able to evaluate or enforce the reported violation, Ben Murton will take Kirstie's place.
+If the report is about someone is the committee, please send the report to the other individuals on the committee.
