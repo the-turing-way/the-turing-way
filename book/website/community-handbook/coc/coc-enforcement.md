@@ -1,23 +1,10 @@
 (ch-coc-enforcement)=
 # 4 Enforcement Manual
 
-This is the enforcement manual followed by the Turing Way project research team.
-It's used when we respond to an issue to make sure we're consistent and fair.
+This is the enforcement manual used by the {ref}`Code of Conduct Committee<ch-coc-contact>` when they respond to an issue to make sure they are consistent and fair.
 Enforcement of the Code of Conduct should be respectful and not include any harassing behaviours.
 
-## 4.1 The Code of Conduct Committee
-
-The Code of Conduct committee is:
-
-* Kirstie Whitaker: kwhitaker@turing.ac.uk
-* Malvika Sharan: msharan@turing.ac.uk
-* Anna Krystalli: annakrystalli@googlemail.com
-
-You can also reach out to the Research Community Manager, Anne Lee Steele (asteele@turing.ac.uk) and Research Project Manager Alexandra Araujo Alvarez (aaraujo.alvarez@turing.ac.uk) for their help in reporting to the committee either anonymously, or on your behalf.
-
-As the community grows, we will seek to build a larger committee including members outside of the current team.
-
-## 4.2 Urgent Situations: Acting Unilaterally
+## 4.1 Urgent Situations: Acting Unilaterally
 
 If the incident involves physical danger or involves a threat to anyone's safety (such as threats of violence), any member of the community may -- and should -- act unilaterally to protect the safety of any community member.
 This can include contacting law enforcement (or other local personnel) and speaking on behalf of the Turing Way team.
@@ -27,7 +14,7 @@ In ongoing situations, any member may at their discretion employ any of the tool
 
 In situations where an individual community member acts unilaterally, they must inform the committee as soon as possible, and report their actions for review within 24 hours.
 
-## 4.3 Less-Urgent Situations
+## 4.2 Less-Urgent Situations
 
 Upon receiving a report of an incident, the CoC committee will review the incident and determine, to the best of their ability:
 
