@@ -9,7 +9,7 @@ If you feel able to, please contact Kirstie Whitaker ([kwhitaker@turing.ac.uk](m
 
 If you prefer not to contact the project leads, you may also contact [Anna Krystalli](mailto:annakrystalli@googlemail.com), who is our ombudsperson.
 
-You can reach out to our Research Community Manager, Anne Lee Steele ([asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)) and Research Project Manager, Alexandra Araujo Alvarez ([aaraujo.alvarez@turing.ac.uk](aaraujo.alvarez@turing.ac.uk)) for support in making a report to the project leads on your behalf or anonymously.
+You can reach out to our Research Community Manager, Anne Lee Steele ([asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)) and Research Project Manager, Alexandra Araujo Alvarez ([aaraujo.alvarez@turing.ac.uk](mailto:aaraujo.alvarez@turing.ac.uk)) for support in making a report to the project leads on your behalf or anonymously.
 
 ## 3.3 What to do if someone is in physical danger
 
