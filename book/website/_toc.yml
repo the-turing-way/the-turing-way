@@ -351,7 +351,7 @@ parts:
           - title: Case Study on Data Study Group
             file: project-design/case-study-dsg
             sections:
-              - title: Scoping - Initial Proposal 
+              - title: Scoping - Initial Proposal
                 file: project-design/case-study-dsg/case-study-dsg-scoping
               - title: Planning - Data Preparation
                 file: project-design/case-study-dsg/case-study-dsg-planning
