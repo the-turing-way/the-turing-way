@@ -91,7 +91,7 @@ Rather, you are invited to make suggestions for updates or clarifications by con
 
 ## 3.1 Contact points
 
-If you feel able to, please contact Kirstie Whitaker ([kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)) and Dr. Malvika Sharan ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)) - who are responsible for enforcing the Code of Conduct.
+If you feel able to, please contact Dr. Kirstie Whitaker ([kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)) and Dr. Malvika Sharan ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)) - who are responsible for enforcing the Code of Conduct.
 
 ## 3.2 Alternate contact points
 
