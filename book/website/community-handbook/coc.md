@@ -28,7 +28,7 @@ This Code of Conduct applies to all spaces managed by the Turing Way project inc
 (ch-coc-reporting)=
 ### Contact for Reporting
 
-The co-lead-investigator of _The Turing Way_ - Dr. Kirstie Whitaker ([kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)) and Dr. Malvika Sharan ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)) - are responsible for enforcing the Code of Conduct.
+The co-lead-investigators of _The Turing Way_ - Dr. Kirstie Whitaker ([kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)) and Dr. Malvika Sharan ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)) - are responsible for enforcing the Code of Conduct.
 
 If you prefer not to contact the project leads, you may also contact [Anna Krystalli](mailto:a.krystalli@sheffield.ac.uk), who is our ombudsperson.
 You can reach out to our Research Community Manager, Anne Lee Steele ([asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)) and Research Project Manager, Alexandra Araujo Alvarez ([aaraujo.alvarez@turing.ac.uk](mailto:aaraujo.alvarez@turing.ac.uk)) for support in making a report to the project leads on your behalf or anonymously.
