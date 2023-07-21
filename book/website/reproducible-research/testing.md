@@ -11,7 +11,7 @@ Researcher-written code now forms a part of a huge portion of research, and if t
 Testing code thoroughly and frequently is vital to ensure reliable, reproducible research.
 This chapter will provide general guidance for writing tests and describe a number of different kinds of testing, their uses and how to go about implementing them.
 
-## Motivation
+## Motivation and Background
 
 It is very, very easy to make mistakes when coding.
 A single misplaced character can cause a program's output to be entirely wrong.

@@ -18,7 +18,7 @@ Most of the constraints in this particular domain stem from intellectual propert
 This chapter aims to give a brief summary of relevant intellectual property laws (enough to be able to read most software licenses), explain free and open source software licensing, and explain how combining software from different sources works from a legal perspective.
 It also gives some rules we have worked out to deal with common situations.
 
-## Motivation
+## Motivation and Background
 
 Without a license, all rights are with the author of the code, and that means nobody else can use, copy, distribute, or modify the work without consent.
 A license gives this consent.
