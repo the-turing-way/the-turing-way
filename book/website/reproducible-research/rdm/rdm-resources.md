@@ -31,3 +31,10 @@ If you have not read the chapters on {ref}`rr-open` and {ref}`cm-citable` yet, y
 - [Slides: Practicalities of Data Handling](https://doi.org/10.5281/zenodo.5078264)
 - [Slides: Research Data Management in the Life Sciences](https://osf.io/mvrny/)
 
+
+# Research Data Management Toolkits
+
+- [JISC research data management toolkit](https://www.jisc.ac.uk/guides/rdm-toolkit)
+- [ELIXIR research data management toolkit](https://rdm.elixir-europe.org/index.html)
+- [University of New Hampshire data management toolkit](https://libraryguides.unh.edu/datamanagement)
+- 
