@@ -116,7 +116,7 @@ OpenRefine uses your web browser as a graphical interface, but the software runs
 
 Automatic manipulation will also help with data validation, as software may return error messages if data is manipulated incorrectly. 
 
-(rr-rdm-spreadsheets-data-validation)=
+(rr-rdm-spreadsheets-validation)=
 ## 5. Data validation
 
 - [Excel support page on data validation](https://support.office.com/en-us/article/Apply-data-validation-to-cells-29FECBCC-D1B9-42C1-9D76-EFF3CE5F7249)
@@ -126,7 +126,7 @@ Automatic manipulation will also help with data validation, as software may retu
  - Check if there are any empty cells and replace them with your chosen null value (see {ref}`above <rr-rdm-spreadsheets-missing>`)
  - Remove redundant data (while keeping in mind what could be reused in the future!)
 
-(rr-rdm-spreadsheets-data-validation)=
+(rr-rdm-spreadsheets-accessibility)=
 ## 6. Accessibility
 
 Comma- or Tab-Separated Value (CSV/TSV) formats are not only best for preservation, but for accessibility as well. 
