@@ -1,5 +1,5 @@
 (rr-rdm-visualisation)=
-### Data Visualisation
+# Data Visualisation
 
 Importance of visualising your work and how this is related to RDM
 Data visualisation allows you to extract valuable information and patterns from data, and to communicate this in a clear and comprehensible visual representation. 
@@ -38,7 +38,7 @@ TBD
 - https://www.youtube.com/watch?v=7t2qYO2zEWQ 
 - https://www.youtube.com/watch?v=WtYArH4EIRg
 - Healy, K. (2018). Data Visualization, A practical introduction. Princeton University Press: https://socviz.co/
-- [A collection of notebooks demonstrating plotting with matplotlib](https://github.com/KirstieJane/NH19-Visualization/tree/master)
+- [A collection of notebooks demonstrating plotting with matplotlib](https://github.com/KirstieJane/NH19-Visualization/)
 - [Create Effective Data Visualizations](https://youtu.be/jt-VdyFzjj0) (second part focuses primarily on Tableau) (video)
 - [Creating clear and informative image-based figures for scientific publications](https://doi.org/10.1371/journal.pbio.3001161%20See%20th)
 - [Data visualisation for scientific papers](https://www.youtube.com/playlist?list=PLWb8IFSVeQ62NbG-u4vQlh4srFcC2KH5g) videos by ReproducibiliTeach
