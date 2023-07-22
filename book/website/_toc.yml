@@ -116,6 +116,8 @@ parts:
                 file: reproducible-research/rdm/rdm-metadata
               - title: Data Curation
                 file: reproducible-research/rdm/rdm-data-curation
+              - title: Data Visualisation
+                file: reproducible-research/rdm/rdm-visualisation
               - title: Sharing and Archiving Data
                 file: reproducible-research/rdm/rdm-sharing
               - title: Data Article
