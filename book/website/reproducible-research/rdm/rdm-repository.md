@@ -6,8 +6,9 @@ A repository is a place where digital objects can be stored and shared with othe
 Data repositories provide access to academic outputs that are reliably accessible to any web user (see the [OpenDOAR inclusion criteria](https://v2.sherpa.ac.uk/opendoar/about.html)). 
 Repositories must earn the trust of the communities they intend to serve and demonstrate that they are reliable and capable of appropriately managing the data they hold ({cite:ps}`Lin2020trust`).
 
-- difference between long term archiving repositories and things like Github, Gitlab etc.
-
+Long-term archiving repositories are designed for secure and permanent storage of data, ensuring data preservation over extended periods.
+This differs from platforms like GitHub and GitLab which primarily serve as collaborative development tools, facilitating version control and project management in a more dynamic and transient environment.
+Platforms such as GitHub and GitLab do not assign persistent identifiers to repositories, and their preservation policies are more flexible compared to those of data repositories. 
 
 This chapter includes:
 
