@@ -87,7 +87,8 @@ Below follows a (non-exhaustive) list of these different types of repositories:
 
 - [Open Science Framework (OSF)](https://osf.io/)
 - [Research Equals](https://www.researchequals.com/)
-- Octopus
+- [Octopus](https://www.octopus.ac/)
+- [CRAN](https://cran.r-project.org/) for R-Packages
 
 #### Generic data repositories
 
