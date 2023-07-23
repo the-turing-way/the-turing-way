@@ -106,14 +106,16 @@ Several lists of Recommended Repositories by publishers exist:
 
 - [PLOS ONE Recommended Repositories](https://journals.plos.org/plosone/s/recommended-repositories)
 - [Springer Nature Data repository guidance](https://www.springernature.com/gp/authors/research-data-policy/recommended-repositories)
+- [Elsevier's Public repositories to store and find data](https://www.journals.elsevier.com/data-in-brief/policies-and-guidelines/public-repositories-to-store-and-find-data)
 
 (rr-rdm-repository-osf)=
 ## Example: Open Science Framework (OSF) 
 
-*The OSF is a free open-source software project that facilitates open collaboration in science research.* https://help.osf.io/article/342-getting-started-on-the-osf  
+The OSF is a free open-source software project that facilitates open collaboration in science research. 
 OSF is way more than a data repository or an archive; it is a collaboration tool which can be used by research teams to work on projects privately or openly, similar to GitHub. 
 This case study highlights OSF as one of the  repositories *for everything* that you can choose to store your research output long term and make it citable through getting a persistent identifier.
 An example of what you could share on the OSF is a {ref}`research compendium<rr-compendia>`.
+[Get started with the OSF](https://help.osf.io/article/342-getting-started-on-the-osf) by using the introduction on their website. 
 
 ### OSF access management
 OSF helps to control levels of access you want to give to different people. 
