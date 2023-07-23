@@ -78,26 +78,26 @@ If your disicpline does not have a disciplinary specific repository you can make
 Below follows a (non-exhaustive) list of these different types of repositories: 
 
 (rr-rdm-repository-types-general)=
-#### General purpose repositories
+### General purpose repositories
 
 - [Zenodo](https://zenodo.org/)
 - [Figshare](https://figshare.com/)
 
-#### Project repositories
+### Project repositories
 
 - [Open Science Framework (OSF)](https://osf.io/)
 - [Research Equals](https://www.researchequals.com/)
 - [Octopus](https://www.octopus.ac/)
 - [CRAN](https://cran.r-project.org/) for R-Packages
 
-#### Generic data repositories
+### Generic data repositories
 
 - [Dryad](https://datadryad.org/stash)
 - [Dataverse](https://dataverse.org/)
 - [4TU.ResearchData](https://data.4tu.nl/)
 - [UK Data Service](https://ukdataservice.ac.uk/)
 
-#### Institutional or National repositories
+### Institutional or National repositories
 
 Many countries and/or institutions also provide access to repositories that you could use. 
 Check with your local Research Data Management support to see if this available at your institute, or try to search for such a national repository using [re3data](https://www.re3data.org/) and [FAIRsharing](https://fairsharing.org/). 
