@@ -40,5 +40,4 @@ Clearly describing data using documentation and metadata ensures that others kno
 - {ref}`Storing your data properly <rr-rdm-storage>` and backing-up regularly prevents data loss.
 - It can help with {ref}`recognition <cm-citable-orcid>` for all research outputs.
 - It stimulates **collaboration** with others, who will find it easier to {ref}`understand and reuse your data <rr-rdm-metadata>`.
-- RDM is cost/time efficient, especially if {ref}`shared publicly <rr-rdm-sharing>`, as you will always be able to find and use your data.
-
+- RDM is cost/time efficient (see [Why Does Data Need to be Managed?](https://www.youtube.com/watch?v=C7RZ2t3Cpig)), especially if {ref}`shared publicly <rr-rdm-sharing>`, as you will always be able to find and use your data.
