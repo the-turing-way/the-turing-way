@@ -47,6 +47,12 @@ It is also important to say that the FAIR principles are aspirational: they do n
 
 The FAIR principles are also applied to software (see [[LGK+20](https://the-turing-way.netlify.app/afterword/bibliography.html#id10)]and [[HCH+20](https://the-turing-way.netlify.app/afterword/bibliography.html#id9)]). Watch a [ten minute video on FAIR software](https://www.youtube.com/watch?v=ME8_NRGRhSs&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=16) for a short explanation.
 
+## FAIR principles and environmental sustainability
+
+> "FAIR practices can result in highly efficient code implementations, reduce the need to retrain models, and reduce unnecessary data generation/storage, thus reducing the overall carbon footprint.
+> As a result, green computing and FAIR practices may boht stimulate innovation and reduce financial costs." - {cite:ps}`Lannelongue2023greener`
+
+
 (rr-rdm-fair-community)=
 ## Community involvement
 
