@@ -63,3 +63,4 @@ Want to learn more about Metadata and Metadata Standards? Watch an [introduction
 - [Webinar: The Data You Document are the Data We Love](https://youtu.be/SoFxBN-Jnbg?t=1133)
 - [Slides: FAIRify your data: data documentation and metadata](https://osf.io/wbr7t/)
 - [Controlled vocabularies for the social sciences: what they are, and why we need them](https://odissei-data.nl/en/2022/10/controlled-vocabularies-for-the-social-sciences-what-they-are-and-why-we-need-them/)
+- [Research Data Management: Metadata](https://libguides.ucd.ie/data/metadata)
