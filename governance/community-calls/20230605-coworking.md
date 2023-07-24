@@ -78,7 +78,6 @@
       * Constrains creativity and options from new members - follow what has been defined by those in power rather than finding what works for them.
       * BUT it is important that some leaders do this work otherwise it is too difficult to navigate getting started and seeing how to get to a leadership position. 
     * What is stopping us - everyone can do anything in the turing way
-* 
 
 ### Advance asynchronous updates
 
