@@ -63,7 +63,7 @@ If you are planning to publish an analysis of your published data, it may be wor
 | Chemistry | [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/submission-guidelines/preparing-your-manuscript/data-note) | [0](https://jcheminf.biomedcentral.com/about) |
 | Chemistry | [Chemical Data Collections](https://www.sciencedirect.com/journal/chemical-data-collections) | [USD 800](https://www.elsevier.com/journals/chemical-data-collections/2405-8300/open-access-options) |
 | Chemistry | [Food Safety and Risk](https://foodsafetyandrisk.biomedcentral.com/) | [€1890](https://foodsafetyandrisk.biomedcentral.com/submission-guidelines/fees-and-funding) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=1089&From=EUR&To=USD) |
-| Chemistry | [Journal of Chemical and Engineering Data](https://pubs.acs.org/journal/jceaax) | ? |
+| Chemistry | [Journal of Chemical and Engineering Data](https://pubs.acs.org/journal/jceaax) | [USD 5000](https://acs.chronoshub.io/?q=Journal+of+Chemical+and+Engineering+Data) |
 | Chemistry | [Journal of Physical and Chemical Reference Data](https://pubs.aip.org/aip/jpr) | [3500 USD](https://pubs.aip.org/aip/jpr/pages/charges) |
 | Computer Science| [Jaiio](https://www.sadio.org.ar/jaiio/)| [variable](https://50jaiio.sadio.org.ar/aranceles) | 
 | Ecology | [Ecological Research](http://www.esj.ne.jp/er/datapaper.html) | [USD 3000](https://esj-journals.onlinelibrary.wiley.com/hub/journal/14401703/homepage/open-access) |
