@@ -28,14 +28,14 @@ If you are planning to publish an analysis of your published data, it may be wor
 | Article type|  Cost estimate |
 |    :----:   |    :----:     |
 | [Experimental Results](https://www.cambridge.org/core/journals/experimental-results)      |  [£775](https://www.cambridge.org/core/journals/experimental-results/information/instructions-for-authors#articleprocessingcharges) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=775&From=GBP&To=USD)) |
-| [Scientific Data](https://www.nature.com/sdata/)      | [€1790](https://www.nature.com/sdata/oa) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=1790&From=EUR&To=USD))  |
-| [Data in Brief](https://www.journals.elsevier.com/data-in-brief)      | [USD&nbsp;500](https://www.journals.elsevier.com/data-in-brief)   |
+| [Scientific Data](https://www.nature.com/sdata/)      | [€1890](https://www.nature.com/sdata/oa) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=1890&From=EUR&To=USD))  |
+| [Data in Brief](https://www.journals.elsevier.com/data-in-brief)      | [USD 530](https://www.journals.elsevier.com/data-in-brief)   |
 | [China Scientific Data](http://www.csdata.org/) | [RMB&nbsp;3000 ](http://www.csdata.org/en/p/static/1329/) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=3000&From=CNY&To=USD)) | 
 | [Data Science Journal](https://datascience.codata.org/)      | [£650](https://datascience.codata.org/about/submissions/) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=650&From=GBP&To=USD)) |
-| [Data](https://www.mdpi.com/journal/data)     | [CHF&nbsp;1400 ](https://www.mdpi.com/journal/data/apc) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=1400&From=CHF&To=USD)) |
-| [GigaScience](https://academic.oup.com/gigascience)      | [€1089](https://academic.oup.com/gigascience/pages/charges_licensing_and_self_archiving) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=1089&From=EUR&To=USD))  |
-| [Gigabyte](https://gigabytejournal.com/information-for-authors)| [USD&nbsp;350](https://gigabytejournal.com/open-access-and-apc#article-processing-charges) | 
-| [F1000Research](https://think.f1000research.com/about-data-notes/)      | [USD&nbsp;800](https://f1000research.com/for-authors/article-processing-charges)  |
+| [Data](https://www.mdpi.com/journal/data)     | [CHF&nbsp;1600 ](https://www.mdpi.com/journal/data/apc) ([see USD](https://www.xe.com/currencyconverter/convert/?Amount=1600&From=CHF&To=USD)) |
+| [GigaScience](https://academic.oup.com/gigascience)      | [USD 1209](https://academic.oup.com/gigascience/pages/charges_licensing_and_self_archiving) |
+| [Gigabyte](https://gigabytejournal.com/information-for-authors)| [USD 400](https://gigabytejournal.com/open-access-and-apc#article-processing-charges) | 
+| [F1000Research](https://think.f1000research.com/about-data-notes/)      | [USD 823](https://f1000research.com/for-authors/article-processing-charges) |
 
 
 ### Discipline specific
