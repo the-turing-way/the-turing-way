@@ -36,7 +36,7 @@ These three numbers follow the pattern _MAJOR.MINOR.PATCH_, and are incremented 
 - *PATCH*: for bug fixes
 
 (rr-renv-useful)=
-## Why This is Useful
+## Motivation and Background
 
 Let us go through an example of why computational environments are important.
 Say I have a very simple Python script:
