@@ -94,6 +94,7 @@ See [activeDMPs](https://activedmps.org/) for a full overview.
 
 - [UK Data Services data management information](https://ukdataservice.ac.uk/learning-hub/research-data-management/)
 - [TU Delft Research Data Management portal](https://www.tudelft.nl/en/library/research-data-management)
+- [Research Data Management](https://www.scienceeurope.org/our-priorities/research-data/research-data-management/) by Science Europe
 - Books
    - {cite:ps}`Briney2015dmp`
 - Articles
