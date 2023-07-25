@@ -11,6 +11,8 @@ If you have not read the chapters on {ref}`rr-open` and {ref}`cm-citable` yet, y
 
 - [Detailed guidance on sharing personal or sensitive data from the UK Data Service](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/consent-data-sharing.aspx)
 - [An overview of storage solutions and their advantages and disadvantages](https://web.archive.org/web/20180605213316/http://datasupport.researchdata.nl/en/start-the-course/iii-the-research-phase/storing-data/)
+- [Reproducible research](https://coderefinery.github.io/reproducible-research/) by Code Refinery
+- [UKRN Open Research Primers](https://www.ukrn.org/primers/)
 - {cite:ps}`Henry2021RDM`
 - {cite:ps}`Borer2009RDM`
 
@@ -30,7 +32,10 @@ If you have not read the chapters on {ref}`rr-open` and {ref}`cm-citable` yet, y
 - [Data Management for Psychological Science: A Crowdsourced Syllabus](https://docs.google.com/document/d/1z15bL9cP84re6d4zdkO60q06lnknnN3xEktN7GnLFFQ/edit)
 - [Slides: Practicalities of Data Handling](https://doi.org/10.5281/zenodo.5078264)
 - [Slides: Research Data Management in the Life Sciences](https://osf.io/mvrny/)
-
+- [ORION Open Science Factsheets](https://www.orion-openscience.eu/publications/training-materials/201808/factsheets)
+- [Reproducible Data Science](https://ecorepsci.github.io/reproducible-science/index.html)
+- [Research Reproducibility and Open Science](https://guides.uflib.ufl.edu/reproducibility/lessons)
+- [Data Management in Large-Scale Education Research](https://datamgmtinedresearch.com/) by Crystal Lewis
 
 # Research Data Management Toolkits
 
