@@ -15,31 +15,50 @@ If you have not read the chapters on {ref}`rr-open` and {ref}`cm-citable` yet, y
 - [UKRN Open Research Primers](https://www.ukrn.org/primers/)
 - {cite:ps}`Henry2021RDM`
 - {cite:ps}`Borer2009RDM`
+- [Data Management in Large-Scale Education Research](https://datamgmtinedresearch.com/) by Crystal Lewis
 
 (rr-rdm-resources-resources)=
 ## Resources
+
+### General
+
 - [FAIR Cookbook](https://faircookbook.elixir-europe.org/content/home.html)
 - [ELIXIR Research Data Management Kit (RDMkit)](https://rdmkit.elixir-europe.org/)
 - [Research data management UK data service](https://ukdataservice.ac.uk/learning-hub/research-data-management/)
-- [Webinar: Know Moore About Research Data Management](https://www.youtube.com/watch?v=NCUT6MA-zVA)
-- [Webinar: Introduction to Research Data Management](https://www.youtube.com/watch?v=duDCcV8xhQo)
-- Podcast: Within and Between: [S2E13](https://open.spotify.com/episode/6klHxGUi0v5m5pTFUHbkC4?si=f681d9091fd0490d&nd=1) & [S2E14](https://open.spotify.com/episode/27SXLCsjhtvh4LyfaRIG92?si=9ab8715953584d46&nd=1) on Data Management
-- [Slides on Research Data Management](https://doi.org/10.5281/zenodo.4048591)
-- [Overview of RDM tools](https://rdmkit.elixir-europe.org/index.html)
 - [Data resources](https://chanzuckerberg.github.io/open-science/data_sharing/overview)
 - [Resources by the Utrecht University Research Data Management support team](https://zenodo.org/communities/uu-rdm-support/)
 - [Ten Common Data Management Mistakes](https://cghlewis.com/talk/sssp_ecf/) & [A Curated Collection of Data Management Resources](https://cghlewis.com/blog/data_mgmt_resources/) by Crystal Lewis 
 - [Data Management for Psychological Science: A Crowdsourced Syllabus](https://docs.google.com/document/d/1z15bL9cP84re6d4zdkO60q06lnknnN3xEktN7GnLFFQ/edit)
-- [Slides: Practicalities of Data Handling](https://doi.org/10.5281/zenodo.5078264)
-- [Slides: Research Data Management in the Life Sciences](https://osf.io/mvrny/)
 - [ORION Open Science Factsheets](https://www.orion-openscience.eu/publications/training-materials/201808/factsheets)
 - [Reproducible Data Science](https://ecorepsci.github.io/reproducible-science/index.html)
 - [Research Reproducibility and Open Science](https://guides.uflib.ufl.edu/reproducibility/lessons)
-- [Data Management in Large-Scale Education Research](https://datamgmtinedresearch.com/) by Crystal Lewis
+- [PRESENT: research project management](https://www.youtube.com/watch?v=tBGLRXUbCrU&t=524s) by Barbara Vreede
+- [NLM Reproducibility Workshop](https://nlm-repro.github.io/)
+- [A practical guide for transparency in psychological science: Example OSF Project](https://osf.io/xf6ug/)
+- [Software sustainability institute blogpost on training resources](https://www.software.ac.uk/blog/2023-06-20-signpost-training-resources)
+
+### Podcasts
+
+- Podcast: Within and Between: [S2E13](https://open.spotify.com/episode/6klHxGUi0v5m5pTFUHbkC4?si=f681d9091fd0490d&nd=1) & [S2E14](https://open.spotify.com/episode/27SXLCsjhtvh4LyfaRIG92?si=9ab8715953584d46&nd=1) on Data Management
+
+### Presentations/Slides
+
+- [Slides on Research Data Management](https://doi.org/10.5281/zenodo.4048591)
+- [Slides: Practicalities of Data Handling](https://doi.org/10.5281/zenodo.5078264)
+- [Slides: Research Data Management in the Life Sciences](https://osf.io/mvrny/)
+
+### Tools
+
+- [Overview of RDM tools](https://rdmkit.elixir-europe.org/index.html)
+
+### Webinars
+
+- [Webinar: Know Moore About Research Data Management](https://www.youtube.com/watch?v=NCUT6MA-zVA)
+- [Webinar: Introduction to Research Data Management](https://www.youtube.com/watch?v=duDCcV8xhQo)
 
 # Research Data Management Toolkits
 
 - [JISC research data management toolkit](https://www.jisc.ac.uk/guides/rdm-toolkit)
 - [ELIXIR research data management toolkit](https://rdm.elixir-europe.org/index.html)
 - [University of New Hampshire data management toolkit](https://libraryguides.unh.edu/datamanagement)
-- 
+
