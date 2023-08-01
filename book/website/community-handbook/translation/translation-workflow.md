@@ -3,8 +3,8 @@
 
 We are members of The Turing Way community with different motivations to localise the content to different languages.
 Feel free to join the `#translation` channel in [_The Turing Way_ slack](https://theturingway.slack.com).
-You will also have to create a Crowdin account but more on that [in the next section](#ch-translation-getting-started).
-The team has a bi-weekly call on Tuesdays at 5pm UTC to co-work, discuss, and check the progress of the translation.
+You will also have to create a Crowdin account but more on that {ref}`in the next section<ch-translation-localisation-journey>`
+The team has a fortnightly call on Tuesdays at 5pm UTC to co-work, discuss, and check the progress of the translation.
 These sessions are open to anyone interested in participating.
 
 You can find these activities in [_The Turing Way_ calendar](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ).
@@ -13,8 +13,7 @@ The deployment of these translated versions is work in progress, and some parts 
 
 ## Asynchronous translation
 
-Everyone interested in participating in a translation effort should be able to work asynchronously, so don't worry if you cannot join the bi-weekly calls.
-
+Everyone interested in participating in a translation effort should be able to work asynchronously, so don't worry if you cannot join the fortnightly calls. More info can be found in the next chapter about {ref}`our localisation workflow<ch-translation-localisation-journey>`.
 
 ## Join or create a language team
 
@@ -40,7 +39,7 @@ Document the translation guidelines for your selected language to be discussed a
 Every team has a repository with these guidelines in the GitHub organisation. 
 Check examples for
 [Portuguese](https://github.com/TWTranslation/Portuguese_specific_translation_guidelines), [Arabic](https://github.com/TWTranslation/Arabic-specific-Translation-rules), and [Turkish](https://github.com/TWTranslation/Turkish-specific-Translation-rules).
-We have also set up a public page for _The Turing Way_ in [Crowdin](https://turingway.crowdin.com/turing-way) with a README file summarising some of the translation guidelines
+We have also set up a public page for _The Turing Way_ in [Crowdin](https://turingway.crowdin.com/turing-way) with a README file summarising some of the translation guidelines. 
 Make sure you read these guidelines before you start translating for the first time.
 
 
@@ -93,7 +92,7 @@ DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 
 
 In each co-working or external session, prioritise those chapters that are outdated or close to completion. 
-Check out our [guidelines](ch-translation-getting-started) for a list of the priority list.
+Check out our {ref}`guidelines<ch-translation-localisation-journey>` for a list of the priority list.
 
 # Translation is a continuous process
 

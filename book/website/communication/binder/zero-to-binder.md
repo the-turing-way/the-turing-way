@@ -151,7 +151,7 @@ It was easy to get started, but our environment is barebones - let's add a **dep
 ````{tab-item} Python
 :sync: key1
 1) In your repo, create a file called `requirements.txt`
-2) Add a line that says: `numpy==1.14.5`
+2) Add a line that says: `numpy==1.25.0`
 3) Check for typos! Then commit to the `main` branch
 4) Visit **https://mybinder.org/v2/gh/YOUR-USERNAME/my-first-binder/HEAD** again in a new tab
 ````

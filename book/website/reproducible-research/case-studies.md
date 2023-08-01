@@ -14,7 +14,7 @@ see how reproducible research methods are used in practice and applied across fi
 If you think that you might have an example to contribute yourself, feel free
 to open an issue at [here](https://github.com/alan-turing-institute/the-turing-way/issues).
 
-## How this will help you/ why this is useful
+## Motivation and Background
 
 Learning by example can be an effective way to learn new concepts.
 Maybe you can start your personal project by adapting one of the examples

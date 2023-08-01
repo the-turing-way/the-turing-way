@@ -11,7 +11,7 @@ Large amounts of research funds and careers of researchers can be wasted by only
 3. To facilitate collaboration and increase the impact and quality of scientific research.
 4. To make results of research openly available as a public good, since research is often publicly funded.
 
-You can read more about why data should be available, and why some data should remain closed, in the {ref}`Open Data section <rr-open-data>`
+You can read more about why data should be available, and why some data should remain closed, in the {ref}`Open Data section <rr-open-data>`.
 
 ```{figure} ../../figures/birds-of-open-data.*
 ---
