@@ -88,6 +88,8 @@ parts:
                 file: reproducible-research/licensing/licensing-software
               - title: Data Licenses
                 file: reproducible-research/licensing/licensing-data
+              - title: Hardware Licenses
+                file: reproducible-research/licensing/licensing-hardware
               - title: Machine Learning Model Licenses
                 file: reproducible-research/licensing/licensing-ml
                 sections:
