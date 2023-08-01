@@ -21,7 +21,7 @@ It is important to note that copyrights and patents are mutually exclusive: some
 
 
 
-### What licenses to use
+### Which licenses to use
 
 While, as discussed above, there are difficulties with regard to applying licenses to open source hardware projects, there are community practices that are good to know and follow.
 A good place to start is to see which licenses are generally accepted by OSHWA:
