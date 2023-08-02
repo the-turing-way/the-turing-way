@@ -187,7 +187,7 @@ Also give an overview of the state of the hardware, software and documentation (
 | Documentation item | Audience | Content | Location |
 | -------- | -------- | -------- | -------- |
 |Project overview| General community| Project definition, scope, audience, licensing, and directions to more specialized documentation. Expectation management: state what information is missing and main caveats. | Front page, README.md| 
-|Communication| General community| Links to communication channels: support platforms (e.g. forum, issues at an online repository), online community platforms (e.g. forums, chats, etc.), direct contact information, dates for joining in-person or online events. | Front page, README.md| 
+|Communication| General community| Links to communication channels: support platforms ( forum, issues at an online repository), online community platforms (e.g. forums, chats, etc.), direct contact information, dates for joining in-person or online events. | Front page, README.md| 
 |Contributions| General community| Description of the process of getting involved. List of possible contributions: donations, investments, beta testing, feature development, collaborations, reporting issues. | Contributions page, CONTRIBUTING.md| 
 |Usage| Users| Intended usage instructions, limitations, other use cases. Troubleshooting. Links to learning resources, maintenance and assembly guides. | Usage guide| 
 |Assembly| Manufacturers, Users | Complete description of: the assembly process, used parts, required knowledge, training, number of people, time, and tools. Links to learning resources. | Assembly guide| 
@@ -320,7 +320,7 @@ makes your project more visible, reach more people, and improves the changes of 
 
 
 In academia, researchers may also **publish** their hardware (usually at the demonstrator stage), as peer-reviewed articles and **archive** a version to generate a DOI. 
-
+ 
 ## Making hardware citable
 
 In contrast to data and software, there is no recommendatation for hardware citation yet.
