@@ -1,6 +1,8 @@
 {
+  "_comment": "This JSON file controls the behaviour of the all contributors bot. A description of the keys can be found here: https://allcontributors.org/docs/en/bot/configuration",
   "files": [
-    "README.md"
+    "README.md",
+    "book/website/afterword/contributors-record.md"
   ],
   "imageSize": 100,
   "contributorsPerLine": 7,
@@ -773,7 +775,8 @@
       "profile": "http://yo-yehudi.com",
       "contributions": [
         "doc",
-        "review"
+        "review",
+        "ideas"
       ]
     },
     {
@@ -3865,7 +3868,8 @@
       "profile": "https://theabstract.github.io/",
       "contributions": [
         "bug",
-        "review"
+        "review",
+        "content"
       ]
     },
     {
@@ -4143,7 +4147,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/54219127?v=4",
       "profile": "https://goodnewssandy.netlify.app/",
       "contributions": [
-        "bug"
+        "bug",
+        "content",
+        "review"
       ]
     },
     {
@@ -4229,11 +4235,102 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "TanyaYankelevich",
+      "name": "Tanya Yankelevich",
+      "avatar_url": "https://avatars.githubusercontent.com/u/107634879?v=4",
+      "profile": "https://www.tudelft.nl/open-science",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "luisaforozco",
+      "name": "Luisa Orozco",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99738896?v=4",
+      "profile": "https://github.com/luisaforozco",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "jurra",
+      "name": "Jose Urra ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18581201?v=4",
+      "profile": "https://github.com/jurra",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "GabinWK",
+      "name": "GabinWK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/104582708?v=4",
+      "profile": "https://github.com/GabinWK",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "hughesthe1st",
+      "name": "Sean Hughes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6203251?v=4",
+      "profile": "https://github.com/hughesthe1st",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "SaraVilla",
+      "name": "Sara Villa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43204602?v=4",
+      "profile": "https://github.com/SaraVilla",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ciupava",
+      "name": "Anna Zanchetta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3450313?v=4",
+      "profile": "https://github.com/ciupava",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "spier",
+      "name": "Sebastian Spier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163029?v=4",
+      "profile": "https://spier.hu",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "srtee",
+      "name": "Shern Tee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60586092?v=4",
+      "profile": "https://github.com/srtee",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Susana465",
+      "name": "Susana Roman Garcia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73224467?v=4",
+      "profile": "https://susana465.github.io/",
+      "contributions": [
+        "question"
+      ]
     }
   ],
   "projectName": "the-turing-way",
   "projectOwner": "alan-turing-institute",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "commitConvention": "none"
+  "commitConvention": "none",
+  "commitType": "docs"
 }
