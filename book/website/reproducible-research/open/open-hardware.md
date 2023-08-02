@@ -262,7 +262,7 @@ This is particularly relevant if the OSH is meant to be produced in Do-It-Yourse
 ```{note}
 Engineers is still a world full of tech-bros, who got irritated when one does not understand their jargon, and are not very welcoming with beginners and women. 
 
-It is therefore particularly important to Valuing Diversity and Differences in OSH {ref}`cl-new-community-difference`
+It is therefore particularly important to Valuing Diversity and Differences in OSH {ref}`cl-new-community-differences`
 
 ```
 
@@ -316,7 +316,7 @@ makes your project more visible, reach more people, and improves the changes of 
 
 1. Use a commonly used platforms, often they have a discovery page and people expect your project to be on such platforms.
 2. Use metadata to discribe your project, apart from just your technical data it is also important to share the metadata of your project, for example a short disciption, a statement of the license, the context of your project. Addding a [Open-Know-How manifest](https://www.internetofproduction.org/openknowhow) yaml file may help.
-3. Refer to the guide for communication {ref}`cm-comms-overvie` and make a presskit or media content for others to easily share your project on other blogs or websites.
+3. Refer to the guide for communication {ref}`cm-comms-overview` and make a presskit or media content for others to easily share your project on other blogs or websites.
 
 
 In academia, researchers may also **publish** their hardware (usually at the demonstrator stage), as peer-reviewed articles and **archive** a version to generate a DOI. 
