@@ -19,8 +19,8 @@ These details should throw light on what the project is all about, why was it cr
 
 These three documents are a good start towards building these documents:
 - A project should contain a {ref}`README.md file<pd-project-repo-readme>` that provides the important details and links to resources that one must know to become a member of the project.
-- A Code of Conduct (see _The Turing Way_ [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md)) must be provided in every project to establish that a welcoming and safe environment for community members while collaborating.
-- A well-written contribution guideline (see _The Turing Way_ [Contributing file](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)) is extremely important when the collaboration is done remotely on any project to ensure clear communication between contributors and maintainers.
+- A Code of Conduct (see _The Turing Way_ [Code of Conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md)) must be provided in every project to establish that a welcoming and safe environment for community members while collaborating.
+- A well-written contribution guideline (see _The Turing Way_ [Contributing file](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md)) is extremely important when the collaboration is done remotely on any project to ensure clear communication between contributors and maintainers.
 
 2. *Effective communication*: The conversations regarding any contribution can be made public for others to join for a discussion while working on small features and ideas.
 This will involve more people and ensure transparency in open source work.

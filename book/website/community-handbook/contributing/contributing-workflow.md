@@ -8,7 +8,7 @@ Please note that the order of these recommendations are not strict and we encour
 (ch-contributing-workflow-template)=
 ## Select a template
 
-Once you have decided on the type of content you want to contribute to _The Turing Way_, use the relevant [template](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/templates) to prepare your contribution.
+Once you have decided on the type of content you want to contribute to _The Turing Way_, use the relevant [template](https://github.com/the-turing-way/the-turing-way/tree/main/book/templates) to prepare your contribution.
 
 ```{note}
 Please note that we welcome new template contributions.
@@ -21,7 +21,7 @@ If you want to contribute content for which there is no corresponding template, 
 
 _The Turing Way_'s Github repository follows an overall file structure where Guides are folders and chapters are sub-folders within them.
 Similarly, case studies are located inside a `case-studies` sub-folder within the Guide folders.
-All folders are located inside the [`book/website`](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/website) directory.
+All folders are located inside the [`book/website`](https://github.com/the-turing-way/the-turing-way/tree/main/book/website) directory.
 
 When writing new content, ensure that the new files and folders you create are placed appropriately to preserve _The Turing Way's_ file structure.
 
@@ -73,7 +73,7 @@ This ensures that your new content is accessible, and fits the overall style, st
 (ch-contributing-workflow-toc)=
 ## Add your new files to the book's table of contents
 
-The book-wide table of contents lives in the `_toc.yml` [file](https://github.com/alan-turing-institute/the-turing-way/blob/main/book/website/_toc.yml).
+The book-wide table of contents lives in the `_toc.yml` [file](https://github.com/the-turing-way/the-turing-way/blob/main/book/website/_toc.yml).
 This file structures _The Turing Way_ and defines the order in which chapters appear.
 Your chapter's files should be added to the `_toc.yml` as appropriate.
 

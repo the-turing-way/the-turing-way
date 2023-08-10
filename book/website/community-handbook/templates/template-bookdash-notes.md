@@ -68,7 +68,7 @@ All time provided in London Time (UTC+1). Please use this link to convert in you
 
 * Intro to The Turing Way & the Book Dash: (Link to intro slides) <---
 * Predash drop-in calls: (Link to the shared notes) <---
-* Project repository on GitHub: https://github.com/alan-turing-institute/the-turing-way
+* Project repository on GitHub: https://github.com/the-turing-way/the-turing-way
 * Book is hosted online at: https://the-turing-way.netlify.com
 * Join Slack channel: An email will be sent to you
 * Join the [mailing list to receive newsletter](https://tinyletter.com/TuringWay)
