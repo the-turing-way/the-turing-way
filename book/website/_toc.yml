@@ -742,6 +742,8 @@ parts:
                 file: community-handbook/infrastructure/infrastructure-contributors
               - title: External Link Checking
                 file: community-handbook/infrastructure/infrastructure-external-link-check
+          - title: Communication Platforms
+            file: community-handbook/communication-platforms
           - title: Monthly Newsletters
             file: community-handbook/newsletters
             sections:
