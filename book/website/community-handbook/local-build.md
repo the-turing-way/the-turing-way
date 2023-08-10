@@ -21,7 +21,7 @@ You will need to locate your "terminal" or "prompt" application on your machine.
    conda create --name the-turing-way python=3.10
    ```
 4. Activate the environment with `conda activate the-turing-way`. Any commands we run with Python or pip from now on will use the versions of Python and pip installed into _this_ conda env, not any others
-5. Clone The Turing Way repository from GitHub to your machine using the command `git clone https://github.com/alan-turing-institute/the-turing-way`
+5. Clone The Turing Way repository from GitHub to your machine using the command `git clone https://github.com/the-turing-way/the-turing-way`
 6. Navigate into the cloned repository folder using the command `cd the-turing-way`, where the `cd` command means `change directory`
 7. Then change into the sub-directory the website is built from using `cd book/website`
 8. The Turing Way Book is built using multiple python libraries. We can install these dependencies _into your conda environment_ using the following command
@@ -43,7 +43,7 @@ You will need to locate your "terminal" or "prompt" application on your machine.
     You can look at your book by opening this file in a browser:
         _build/html/index.html
     Or paste this line directly into your browser bar:
-        file:///[...]/alan-turing-institute/the-turing-way/book/website/_build/html/index.html
+        file:///[...]/the-turing-way/the-turing-way/book/website/_build/html/index.html
 
     ===============================================================================
     ```

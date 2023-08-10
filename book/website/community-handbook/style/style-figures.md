@@ -31,7 +31,7 @@ In general, make sure to always cite the image properly as directed by the image
 (ch-style-figures-image)=
 ## Image location, type, size and file name
 
-Every image file used in this book should be located in the directory `book/website/figures` of our [GitHub Repository](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/website/figures).
+Every image file used in this book should be located in the directory `book/website/figures` of our [GitHub Repository](https://github.com/the-turing-way/the-turing-way/tree/main/book/website/figures).
 If you use a new image file, please add the file in the `figures` directory by either uploading via GitHub, or adding locally and pushing the change online when using git.
 
 Please upload `.jpg`, `.png`, or `.svg` files that are under 1MB to allow them to load faster in the online book.
