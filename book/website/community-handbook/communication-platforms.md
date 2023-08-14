@@ -1,3 +1,6 @@
 (ch-community-platforms)=
 
-# Community Platforms
+# Communication Platforms
+
+The Turing Way uses a number of communi
+
