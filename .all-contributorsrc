@@ -3868,7 +3868,8 @@
       "profile": "https://theabstract.github.io/",
       "contributions": [
         "bug",
-        "review"
+        "review",
+        "content"
       ]
     },
     {
@@ -4314,6 +4315,15 @@
       "profile": "https://github.com/srtee",
       "contributions": [
         "content"
+      ]
+    },
+    {
+      "login": "Susana465",
+      "name": "Susana Roman Garcia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73224467?v=4",
+      "profile": "https://susana465.github.io/",
+      "contributions": [
+        "question"
       ]
     }
   ],

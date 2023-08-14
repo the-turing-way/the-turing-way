@@ -1,15 +1,15 @@
 # 3 Incident Reporting Guidelines
 
-(ch-coc-reporting)=
+(ch-coc-contact)=
 ## 3.1 Contact points
 
-If you feel able to, please contact Kirstie Whitaker by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
+If you feel able to, please contact Kirstie Whitaker ([kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)) and Dr. Malvika Sharan ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)) - who are responsible for enforcing the Code of Conduct.
 
 ## 3.2 Alternate contact points
 
-If you do not feel comfortable contacting Kirstie Whitaker, please report an incident to Anna Krystalli by email at [a.krystalli@sheffield.ac.uk](mailto:a.krystalli@sheffield.ac.uk).
+If you prefer not to contact the project leads, you may also contact [Anna Krystalli](mailto:annakrystalli@googlemail.com), who is our ombudsperson.
 
-Alternatively, if you would like to contact someone outside of the core development team, please contact Ben Murton by email at [bmurton@turing.ac.uk](mailto:bmurton@turing.ac.uk).
+You can reach out to our Research Community Manager, Anne Lee Steele ([asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)) and Research Project Manager, Alexandra Araujo Alvarez ([aaraujo.alvarez@turing.ac.uk](mailto:aaraujo.alvarez@turing.ac.uk)) for support in making a report to the project leads on your behalf or anonymously.
 
 ## 3.3 What to do if someone is in physical danger
 

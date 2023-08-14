@@ -22,7 +22,7 @@ Illustration about human rights, law and policies.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
 ```
 
-## Background and Motivation
+## Motivation and Background
 
 It's useful to know how the ethics that guide your work are underpinned by other frameworks, including law, policy, and human rights.
 Knowing the law, policy, and human rights that underpin research ethics will give you a deeper understanding of how to conduct ethical research.

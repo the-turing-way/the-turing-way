@@ -2,7 +2,7 @@
 # Getting Started with Project Design
 
 Thinking about reproducibility from the start of your project is the best way to save time and get the most out of the available tools. 
-Creating connections between data, code, methodology, as well as diverse collaborators, can seem like a daunting task if it has not been planned from the beginning (see this illustration of the {ref}Research Cycle<research-cycle>). 
+Creating connections between data, code, methodology, as well as diverse collaborators, can seem like a daunting task if it has not been planned from the beginning (see this illustration of the {ref}`Research Cycle<research-cycle>`). 
 By documenting and sharing project workflows and processes for research and researchers, we can ensure the sustainability and reusability of research for both developers and future users. 
 In addition, planning your project at the start can help you make sure that you are meeting any funder requirements.
 
@@ -67,12 +67,12 @@ We can begin the project design process by identifying different parts of our re
 ### Maintenance & Archiving 
 * Develop a plan for the long-term maintenance and sustainability of your project.
 * Establish procedures for data management, including storage, backup, and access.
-* Consider archiving your project's artifacts and documentation for future reference.
+* Consider archiving your project's artifacts and documentation for future erence.
 
 (pd-overview-planning-ethics)=
 ## Getting Ethical and Legal Approval
 
-Every research has the capacity to generate change - this is the basis of discovery and progress. Therefore, it is necessary to consider how your investigation could impact other people's lives and under which ethical and legal standards it should be conducted.
+Every piece of research has the capacity to generate change - this is the basis of discovery and progress. Theore, it is necessary to consider how your investigation could impact other people's lives and under which ethical and legal standards it should be conducted.
 
 A project must be designed considering legal and ethical issues at every step: from the formulation of questions and data collection to analysis, results, and interpretation. It's important to ask yourself if your project is designed to be inclusive and sustainable, taking into account the implications and social expectations and adhering to ethical principles and professional standards.
 

@@ -14,7 +14,7 @@ As discussed in the next subchapter, these contributors are highlighted in the {
 
 Many contributors will also make substantial contributions such as writing a subchapter, maintaining community interactions, setting up or maintaining project's infrastructure, helping others in their work and supporting their participation.
 All the substantial contributors are also highlighted in the Contributors Table and named as co-authors [{term}`def<Authors>`] on the book as a whole.
-As stated in our [Governance document](https://github.com/alan-turing-institute/the-turing-way/blob/main/GOVERNANCE.md), "substantial contribution" is a subjective term.
+As stated in our [Governance document](https://github.com/the-turing-way/the-turing-way/blob/main/GOVERNANCE.md), "substantial contribution" is a subjective term.
 Therefore, we have tried to add much detail as possible in the next subchapters through personas, contribution types and acknowledgements of those contributions including when a contributor is named as an author.
 
 Authors are listed in alphabetical order by last name.
