@@ -25,14 +25,14 @@ Here's a couple of illustrations exemplifying of why should write tests:
 ```{figure}  ../figures/testing-motivation1.*
 ---
 name: testing-motivation1
-alt: Headline of a December 2006 news article by Greg Miller, published in Science, titled "A Scientist's Nightmare: Software Problem Leads to Five Retractions"
+alt: Headline of a December 2006 news article by Greg Miller, published in Science, titled "A Scientist's Nightmare\: Software Problem Leads to Five Retractions"
 ---
 ```
 
 ```{figure}  ../figures/testing-motivation2.*
 ---
 name: testing-motivation2
-alt: Short news article  by Lisa Grossman, published on Wired.com in November 2010, describing an inconsistency between the units of force expected as output and input of two pieces of software that resulted in the loss of a weather satellite when it reached its destination at Mars. The piece is titled "November 10, 1999: Metric Math Mistake Muffed Mars Meteorology Mission."
+alt: Short news article  by Lisa Grossman, published on Wired.com in November 2010, describing an inconsistency between the units of force expected as output and input of two pieces of software that resulted in the loss of a weather satellite when it reached its destination at Mars. The piece is titled "November 10, 1999\: Metric Math Mistake Muffed Mars Meteorology Mission."
 ---
 ```
 
