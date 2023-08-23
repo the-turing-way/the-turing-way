@@ -7,3 +7,4 @@ datascience
 folium
 jupyter-book==0.13
 jinja2>3.1
+git+https://github.com/alan-turing-institute/bio-Turing-Way.git@main#subdirectory=pathways
