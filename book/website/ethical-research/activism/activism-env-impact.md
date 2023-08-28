@@ -33,7 +33,10 @@ Simplified view of global warming.
 (er-activism-env-impact-rise-in-temperature)=
 ### Rise in global temperatures illustrated
 
-The rise in this global average temperature is strikingly illustrated by the ‘Warming Stripes’ (‘#ShowYourStripes’) project, a minimalist-style data visualisation created by Ed Hawkins. Temperatures are indicated as stripes in blue hues, representing cooler temperatures, or red hues, representing warmer ones. The general trend shows a progression from there being more blue on the left (towards the past) to more red on the right (towards the present). In short, the planet is, overall, warming!
+The rise in this global average temperature is strikingly illustrated by the ‘Warming Stripes’ (‘#ShowYourStripes’) project, a minimalist-style data visualisation created by Ed Hawkins. Average Earth surface temperatures are indicated as stripes in blue hues, representing cooler temperatures, through to red hues, representing warmer ones, where each stripe covers a single year.
+
+The general trend shows a progression, over the past few centuries or so, from there being more blue on the left (towards the past) to more red on the right (towards the present). In short, the surface of our planet is, overall and year-on-year, warming!
+
 
 ```{figure} ../../figures/global_warming.*
 ---
