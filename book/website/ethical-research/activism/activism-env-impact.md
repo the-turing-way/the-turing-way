@@ -21,15 +21,6 @@ Most of us are aware of the general context of our planet being subject to clima
 Human activities, notably the burning of fossil fuels like oil, gas or coal, to generate electricity and to power cars (amongst many other tasks) release greenhouse gases into the atmosphere. These gases, such as carbon dioxide, trap heat in the atmosphere, which in turn raises the temperature of the surface of the Earth. While not linear, over time, [the global average temperature rises](http://climate.nasa.gov/vital-signs/global-temperature/).
 
 
-```{figure} ../../figures/global_warming.*
----
-height: 500px
-name: Simplified view of global warming
-alt: Simplified view of global warming.
----
-Simplified view of global warming.
-```
-
 (er-activism-env-impact-rise-in-temperature)=
 ### Rise in global temperatures illustrated
 
@@ -38,7 +29,7 @@ The rise in this global average temperature is strikingly illustrated by the ‘
 The general trend shows a progression, over the past few centuries or so, from there being more blue on the left (towards the past) to more red on the right (towards the present). In short, the surface of our planet is, overall and year-on-year, warming!
 
 
-```{figure} ../../figures/global_warming.*
+```{figure} ../../figures/global_warming_stripes.*
 ---
 height: 500px
 name: Global warming stripes, by Ed Hawkins.
@@ -58,15 +49,6 @@ alt: Bars with Scale, by Ed Hawkins.
 ---
 Bars with Scale, by Ed Hawkins.
 ```
-
-
-
-(er-activism-env-impact-problems-from-rising-temp)=
-### Problems from such rising temperatures
-
-Why should we be concerned about this rise in temperature?
-
-... TBC!
 
 (er-activism-env-impact-awareness-raising)=
 ## Awareness raising
