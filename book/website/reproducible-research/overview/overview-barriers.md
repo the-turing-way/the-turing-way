@@ -116,7 +116,7 @@ The [Apache Hadoop](https://hadoop.apache.org/) framework, for instance, is extr
 
 Even "standard" high performance computing, can be difficult to set up to be perfectly reproducible, particularly across different cloud computing providers or institutional configurations.
 _The Turing Way_ contains chapters to help data scientists learn skills in {ref}`reproducible computational environments<rr-renv>` including {ref}`containers<rr-renv-containers>` such as docker and ways to {ref}`version control your software libraries<rr-renv-package>`.
-We are always [open to more contributions](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) as the technology to support reproducible research in very large datasets or for complex modelling evolves.
+We are always [open to more contributions](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) as the technology to support reproducible research in very large datasets or for complex modelling evolves.
 
 (rr-overview-barriers-notright)=
 ## Being reproducible does not mean the answer is right
