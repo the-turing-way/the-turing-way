@@ -39,6 +39,7 @@ It further outlines expectations and responsibilities with regard to working on 
 | Bastian Greshake Tzovaras <br>([@gedankenstuecke](https://github.com/gedankenstuecke)) | Senior Researcher, The Alan Turing Institute | 10% | 2023 - Present | - |
 | Christopher Burr <br>([@chrisdburr](https://github.com/chrisdburr)) | Senior Researcher, The Alan Turing Institute | 10% | 2023 - Present | - |
 | Gabin Kayumbi <br>([@gabinwk](https://github.com/gabinwk)) |Senior Research Community Manager, The Alan Turing Institute | 10% | 2023 - Present | - |
+| Liz Hare | <br>([@LizHareDogs](https://github.com/LizHareDogs)) | Dog Genetics LLC | The Turing Way Accessibility Co-Lead | 2023 - Present | - |
 
 ## Previous Project Members
 
