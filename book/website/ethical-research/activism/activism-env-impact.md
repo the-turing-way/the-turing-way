@@ -85,6 +85,7 @@ You can also see Ten simple rules to make your computing more environmentally su
 
 (er-activism-env-impact-computing)=
 ### Computing 
+As we engage in research activities, our utilization of computers and code execution significantly affects the environment. In this section, we explore approaches that can be employed to mitigate the environmental impact arising from the computational aspects of our research endeavors.
 
 (er-activism-env-impact-code-efficiency)=
 #### Improve code efficiency
