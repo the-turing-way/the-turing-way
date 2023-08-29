@@ -4316,10 +4316,28 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Susana465",
+      "name": "Susana Roman Garcia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73224467?v=4",
+      "profile": "https://susana465.github.io/",
+      "contributions": [
+        "question"
+      ]
+    },
+    {
+      "login": "mosoriob",
+      "name": "Maximiliano Osorio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2365990?v=4",
+      "profile": "https://mosorio.dev",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
-  "projectOwner": "alan-turing-institute",
+  "projectOwner": "the-turing-way",
   "repoType": "github",
   "repoHost": "https://github.com",
   "commitConvention": "none",
