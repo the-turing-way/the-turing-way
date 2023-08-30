@@ -26,6 +26,7 @@ alt: The Turing Way project is illustrated as a road or path with shops for diff
 ---
 _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 ```
+## Different Pathways
 
 (welcome-community)=
 ## Our Community
