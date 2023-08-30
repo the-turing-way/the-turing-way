@@ -4334,6 +4334,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Nolski",
+      "name": "Mike Nolan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2600677?v=4",
+      "profile": "http://nolski.rocks",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "projectName": "the-turing-way",
