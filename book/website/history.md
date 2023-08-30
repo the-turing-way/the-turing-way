@@ -1,4 +1,4 @@
-## History of The Turing Way project
+# History of The Turing Way project
 
 ## Founding (2018 - 2019)
 
