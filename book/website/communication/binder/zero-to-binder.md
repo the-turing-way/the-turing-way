@@ -19,6 +19,7 @@ You can always refresh the window if you see the "... is taking longer to load, 
 ```{admonition} If you are using R...
 If you are following the R path, we have included some alternative steps using the [`holepunch` package](https://github.com/karthik/holepunch) which will build your environment using a [rocker base image](https://github.com/rocker-org/rocker) and should, ultimately, be faster to build and launch.
 ```
+<!---
 
 (z2b-reqs)=
 ## Requirements
@@ -537,7 +538,7 @@ Use the "URL to open" option on the mybinder.org site to select your interface
 ## Now over to you!
 
 Now you've binderized (bound?) this demo repo, it's time to binderize the example script and data you brought along!
-
+-->
 **Some useful links:**
 
 - Choosing languages:
