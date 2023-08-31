@@ -12,11 +12,11 @@
 
 | Information | Links |
 | :--- | :--- |
-| **Project** | [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com) [![](https://img.shields.io/static/v1?label=TuringWay&message=I%20want%20to%20contribute!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) |
+| **Project** | [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com) [![](https://img.shields.io/static/v1?label=TuringWay&message=I%20want%20to%20contribute!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) |
 | **News** | [![Twitter Follow](https://img.shields.io/twitter/follow/turingway?style=social)](https://twitter.com/turingway) [![Mastodon Follow](https://img.shields.io/mastodon/follow/108239013175032418?domain=https%3A%2F%2Ffosstodon.org&style=social)](https://fosstodon.org/@turingway) [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)  [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPDxZv5BMzAw0mPobCbMNuA?style=social)](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)  |
 | **Chat with us in Slack** | [![Join Slack](https://img.shields.io/badge/Chat-on%20Slack-ff69b4)](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw) |
-| **Discuss on GitHub** | [![GitHub issues](https://img.shields.io/github/issues/alan-turing-institute/the-turing-way)](https://github.com/alan-turing-institute/the-turing-way/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/alan-turing-institute/the-turing-way)](https://github.com/alan-turing-institute/the-turing-way/pulls) |
-| **Build** | [![Netlify build](https://github.com/alan-turing-institute/the-turing-way/workflows/CI/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ACI+branch%3Amain) [![Latin Phrases](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amain) [![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amain) [![Check for Lorem Ipsums](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amain) |
+| **Discuss on GitHub** | [![GitHub issues](https://img.shields.io/github/issues/the-turing-way/the-turing-way)](https://github.com/the-turing-way/the-turing-way/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/the-turing-way/the-turing-way)](https://github.com/the-turing-way/the-turing-way/pulls) |
+| **Build** | [![Netlify build](https://github.com/the-turing-way/the-turing-way/workflows/CI/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3ACI+branch%3Amain) [![Latin Phrases](https://github.com/the-turing-way/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amain) [![TestFileSizes](https://github.com/the-turing-way/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amain) [![Check for Lorem Ipsums](https://github.com/the-turing-way/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amain) |
 | **Cite** |  [![Cite this using DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) |
 
 *Welcome to The Turing Way project GitHub repository. This is where all the components of the project are developed, reviewed and maintained.*
@@ -30,7 +30,7 @@ Our goal is to provide all the information that researchers and data scientists 
 *The Turing Way is a book, a community and a global collaboration.*
 
 All stakeholders, including students, researchers, software engineers, project leaders and funding teams, are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
-You can read the book [online](https://the-turing-way.netlify.app), contribute to the project as described in our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md)). 
+You can read the book [online](https://the-turing-way.netlify.app), contribute to the project as described in our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)). 
 **We also invite you to contribute to the translation of _The Turing Way_ into different languages and help make research reproducibility accessible to a wider global audience**. 
 If you are interested in contributing, please refer to [the guidelines provided in the book's handbook](https://the-turing-way.netlify.app/community-handbook/translation.html) and join our collaborative efforts.
 
@@ -66,13 +66,13 @@ Sharing these research outputs means understanding data management, library scie
 As these activities are not commonly taught, we recognise that the burden of requirement and new skill acquisition can be intimidating to individuals who are new to this world.
 _The Turing Way_ is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do" even for people who have never worked in this way before.
 It will include training material on version control, analysis testing, and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
-This project is openly developed and any and all questions, comments and recommendations are welcome at our GitHub repository: <https://github.com/alan-turing-institute/the-turing-way>.
+This project is openly developed and any and all questions, comments and recommendations are welcome at our GitHub repository: <https://github.com/the-turing-way/the-turing-way>.
 
 ### The Team
 
 _The Turing Way_ is an open collaboration and community-driven project.
 Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member. 
-Long-term contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project, as described in the [Ways of Working document](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md).
+Long-term contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project, as described in the [Ways of Working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
 
 The project is coordinated by the co-lead investigators **Kirstie Whitaker** (founder) and **Malvika Sharan**, and hosted at [The Alan Turing Institute](https://www.turing.ac.uk/).
 **Anne Lee Steele** is the Community Manager of The Turing Way since March 2022 and **Alexandra Araujo Alvarez** is the Research Project Manager since February 2023.
@@ -95,7 +95,7 @@ Therefore, we provide multiple entry points for you to contribute based on your 
 Community members are provided with opportunities to learn new skills, share their ideas and collaborate with others.
 They are also given mentorship opportunities in the project as they make their contributions to _The Turing Way_ or other open source projects and are encouraged to mentor new participants of the project.
 
-We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/main/communications/promotion-pack) to help you in presenting and sharing about _The Turing Way_ in your network.
+We have created a [promotion pack](https://github.com/the-turing-way/the-turing-way/tree/main/communications/promotion-pack) to help you in presenting and sharing about _The Turing Way_ in your network.
 
 ### Citing _The Turing Way_
 
@@ -122,7 +122,7 @@ If you have any questions please [get in touch](#get-in-touch).
   <img src="book/website/figures/evolution-open-research.png" alt="This is an example of one of The Turing Way illustrations. It tries to shows the evolution towards an open science era" width="600">
 </p>
 
-_The Turing Way_ illustrations are created by artists from [Scriberia](https://www.scriberia.co.uk/) as part of [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/book-dash) in Manchester on 17 May 2019, London on 28 May 2019 and 21 February 2020, and online on 27th November 2020 and 28th May 2021.
+_The Turing Way_ illustrations are created by artists from [Scriberia](https://www.scriberia.co.uk/) as part of [_The Turing Way_ book dashes](https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash) in Manchester on 17 May 2019, London on 28 May 2019 and 21 February 2020, and online on 27th November 2020 and 28th May 2021.
 They depict a variety of content from the handbook, collaborative efforts in the community and _The Turing Way_ project in general.
 These illustrations are available on Zenodo ([https://doi.org/10.5281/zenodo.3332807)](https://doi.org/10.5281/zenodo.3332807) under a CC-BY license.
 
@@ -149,7 +149,7 @@ You can also contact **Anne Lee Steele** ([asteele@turing.ac.uk](mailto:asteele@
 
 Connect with others and discuss your ideas on Slack using [this invitation link](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw).
 
-We also have a Gitter chat room (if you prefer an open source alternative for chat) and we'd love for you to swing by to say hello at <https://gitter.im/alan-turing-institute/the-turing-way>.
+We also have a Gitter chat room (if you prefer an open source alternative for chat) and we'd love for you to swing by to say hello at <https://gitter.im/the-turing-way/the-turing-way>.
 The room is also accessible with a [Matrix](https://matrix.org) account at [#alan-turing-institute_the-turing-way:gitter.im](https://matrix.to/#/#alan-turing-institute_the-turing-way:gitter.im).
 
 #### Receive Updates
