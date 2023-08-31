@@ -2,9 +2,9 @@
 
 [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com)
 [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
-[![Join the chat at https://gitter.im/alan-turing-institute/the-turing-way](https://img.shields.io/gitter/room/alan-turing-institute/the-turing-way?logo=gitter)](https://gitter.im/alan-turing-institute/the-turing-way)
+[![Join the chat at https://gitter.im/the-turing-way/the-turing-way](https://img.shields.io/gitter/room/the-turing-way/the-turing-way?logo=gitter)](https://gitter.im/the-turing-way/the-turing-way)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)
-[![](https://img.shields.io/static/v1?label=TuringWay&message=I%20want%20to%20contribute!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)
+[![](https://img.shields.io/static/v1?label=TuringWay&message=I%20want%20to%20contribute!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md)
 
 _The Turing Way_ is een licht eigenzinnig boek voor reproduceerbare data-analyses.
 Je kan het boek hier lezen: <https://the-turing-way.netlify.com>
@@ -36,7 +36,7 @@ Dit is soms makkelijker gezegd dan gedaan.
 Het delen van deze onderzoeksresultaten betekent inzicht in gegevensbeheer, bibliotheekwetenschappen, softwareontwikkeling en continue integratietechnieken: vaardigheden die niet algemeen worden onderwezen of verwacht van academische onderzoekers en datawetenschappers. Aangezien deze activiteiten niet algemeen worden onderwezen, erkennen we dat de last van vereisten en het verwerven van nieuwe vaardigheden intimiderend kan zijn voor personen die nieuw zijn in deze wereld.
 *The Turing Way* is een handboek om studenten, hun begeleiders, financiers en tijdschriftenredacteuren te ondersteunen om ervoor te zorgen dat reproduceerbare datawetenschap "te gemakkelijk is om niet te doen", zelfs voor mensen die nog nooit op deze manier hebben gewerkt.
 *The Turing Way* trainingsmateriaal bevat informatie over versiebeheer, analysetesten en open en transparante communicatie met toekomstige gebruikers, en voortbouwen op casestudy's en workshops van het Turing Institute.
-Dit project is openlijk ontwikkeld en alle vragen, opmerkingen en aanbevelingen zijn welkom in onze github repository: <https://github.com/alan-turing-institute/the-turing-way>.
+Dit project is openlijk ontwikkeld en alle vragen, opmerkingen en aanbevelingen zijn welkom in onze github repository: <https://github.com/the-turing-way/the-turing-way>.
 
 ### Het team
 
@@ -72,7 +72,7 @@ Als je vragen hebt [neem contact op](#get-in-touch).
 
 ### Citeren _The Turing Way_ illustraties
 
-_The Turing Way_ illustraties zijn gecreëerd door kunstenaars van [Scriberia](https://www.scriberia.co.uk/) als onderdeel van [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/book-dash) in Manchester op 17 Mei 2019 en Londen op 28 Mei 2019 en 21 Februari 2020.
+_The Turing Way_ illustraties zijn gecreëerd door kunstenaars van [Scriberia](https://www.scriberia.co.uk/) als onderdeel van [_The Turing Way_ book dashes](https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash) in Manchester op 17 Mei 2019 en Londen op 28 Mei 2019 en 21 Februari 2020.
 Ze illustreren bijvoorbeeld de inhoud van het handboek, samenwerking binnen de Community en het _The Turing Way_ project in het algemeen.
 De illustraties zijn beschikbaar op Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) onder een CC-BY licentie.
 
@@ -86,7 +86,7 @@ We hebben een aantal van deze illustraties gebruikt in de [Welcome Bot](https://
 
 ### Contact
 
-We hebben een gitter chat room waar we het leuk zouden vinden als je hallo komt zeggen: <https://gitter.im/alan-turing-institute/the-turing-way>.
+We hebben een gitter chat room waar we het leuk zouden vinden als je hallo komt zeggen: <https://gitter.im/the-turing-way/the-turing-way>.
 De chat room is gesynchroniseerd met [Matrix](https://matrix.org) via [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) waar je van harte welkom om erbij te komen als je dat liever hebt.
 
 We hebben een tiny letter emaillijst waardoor je maandelijkse project updates kan ontvangen.
@@ -99,7 +99,7 @@ Of je kan de hoofdonderzoeker van het project, **Kirstie Whitaker**, contacteren
 
 Dank gaat uit naar deze geweldige mensen ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-[Lijst met mensen die hebben samengewerkt](https://github.com/alan-turing-institute/the-turing-way#contributors)
+[Lijst met mensen die hebben samengewerkt](https://github.com/the-turing-way/the-turing-way#contributors)
 
 Dit project volgt de [all-contributors](https://github.com/all-contributors/all-contributors) specificaties.
 Alle bijdragen zijn welkom!
