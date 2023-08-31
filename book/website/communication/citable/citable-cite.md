@@ -54,11 +54,11 @@ You can find more examples on the [Manchester's Data Access Statements page](htt
 
 A software citation has a lot of the same elements as a data citation, described above, and are described in more detail in the [Software Citation Principles](https://www.force11.org/software-citation-principles).
 When using others software, it is vital to cite and attribute it properly.
-<!---
+
 ::::{tab-set}
 :::{tab-item} GitHub
 :sync: github_tab
--->
+
 To make your code citable, you can use the integration between [Zenodo](https://zenodo.org/) and GitHub.
 
 - Create a file to tell people how to cite your software. Use this [handy guide](https://citation-file-format.github.io/cff-initializer-javascript/) to format the file.
@@ -69,12 +69,12 @@ To make your code citable, you can use the integration between [Zenodo](https://
 Zenodo should automatically be notified and should make a snapshot copy of the current state of your repository (just one branch, without any history), and should also assign a persistent identifier (DOI) to that snapshot.
 - Use the DOI in any citations of your software and tell any collaborators and users to do the same!
 
-<!---
+
 :::
 :::{tab-item} GitLab
 :sync: gitlab_tab
 
--->
+
 
 To make your code citable, through an automated publication of your Gitlab repository to [Zenodo](https://zenodo.org/):
 
