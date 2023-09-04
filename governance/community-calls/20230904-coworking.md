@@ -6,6 +6,11 @@
 * Sarah
 * Gabin
 * Emma
+* Hari
+* Eirini
+* Batool
+* Danny
+* Bastian
 
 ## Topics/Rooms
 
@@ -19,8 +24,8 @@
 ## Notes
 * Main room:  
     * Discussion with Danny about upcoming CSCCE presentation
-    * Discussion with d
+    * Discussion with Sarah about upcoming CM presentation about auditing events
 * Rooms
-    * Digital health care:
+    * Digital health care
         * talked about data science & health
         * Was interested in understanding how DCE could jump in, and see how the initiatives go
