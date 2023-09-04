@@ -89,4 +89,4 @@ The complete bibliography entry is available at the end of this book (see {ref}`
 
 For the advanced usage, see the [documentation by sphinxcontrib-bibtex](https://sphinxcontrib-bibtex.readthedocs.io/en/latest/usage.html), which is a Sphinx extension for BibTeX style citations.
 
-[turingbib]: https://github.com/alan-turing-institute/the-turing-way/blob/main/book/website/_bibliography/references.bib
+[turingbib]: https://github.com/the-turing-way/the-turing-way/blob/main/book/website/_bibliography/references.bib

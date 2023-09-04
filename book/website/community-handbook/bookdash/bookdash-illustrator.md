@@ -15,7 +15,7 @@ The Book Dash was a success and the experience of working with an artist added t
 They loved seeing their ideas translated into images - an (almost) immediate output they could collaborate on and feel proud to have contributed to.
 This experience was brought back in subsequent Book Dash events in person and online and has always remained a highlight.
 
-```{figure} https://github.com/alan-turing-institute/the-turing-way/raw/main/workshops/book-dash/figures/book_dash_mcr_art.*
+```{figure} https://github.com/the-turing-way/the-turing-way/raw/main/workshops/book-dash/figures/book_dash_mcr_art.*
 ---
 height: 400px
 name: book_dash_mcr_art
@@ -25,7 +25,7 @@ Picture taken by Jez Cope at the Book Dash 2019 in Manchester. Hand sketched ill
 ```
 
 All illustrations generated within *The Turing Way* are shared under the CC-BY 4.0 license on Zenodo: [https://zenodo.org/record/3332807](https://zenodo.org/record/3332807).
-All images on Zenodo are shared in the original format and size, but we use smaller files in *The Turing Way* guides that you can find in [our GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/website/figures).
+All images on Zenodo are shared in the original format and size, but we use smaller files in *The Turing Way* guides that you can find in [our GitHub repository](https://github.com/the-turing-way/the-turing-way/tree/main/book/website/figures).
 
 When citing, please include the following attribution with the specific DOI as listed on the particular Zenodo page.
 > _This illustration is created by Scriberia with The Turing Way community. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)_

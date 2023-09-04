@@ -2,7 +2,7 @@
 # Different Contributions and their Acknowledgements
 
 In the previous subchapters, we discussed how we acknowledge our contributors for their work in _The Turing Way_.
-We also describe the [Contributors section](https://github.com/alan-turing-institute/the-turing-way#contributors) of the [`README`](https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md) file and the [`contributors.md`](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) file as {ref}`Record of Contributions<ch-acknowledgement-record>`, which are updated regularly to reflect the contribution types and personal highlights of the contributors.
+We also describe the [Contributors section](https://github.com/the-turing-way/the-turing-way#contributors) of the [`README`](https://github.com/the-turing-way/the-turing-way/blob/main/README.md) file and the [`contributors.md`](https://github.com/the-turing-way/the-turing-way/blob/main/contributors.md) file as {ref}`Record of Contributions<ch-acknowledgement-record>`, which are updated regularly to reflect the contribution types and personal highlights of the contributors.
 
 In this subchapter, we will explore the different types of contributions that exist within _The Turing Way_, and describe those with the help of {ref}`personas and pathways<pd-persona-creation>` our contributors may take to make their contributions.
 Furthermore, we describe how each persona will be acknowledged in _The Turing Way_.

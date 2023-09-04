@@ -14,6 +14,14 @@
 - Make relevant changes and repeat the above step.
 - {ref}`Commit and push<rr-vcs-git-commit>` the changes to remote **Github/GitLab/BitBucket** repository to run the pre-deployment tests.
 
+### For robust code
+
+- Find assumptions in your program, and make them explicit.
+- Write if/else statements to test your assumptions.
+- Consider errors that may be raised in your program.
+- Decide per assumption and error what should happen: redirect, report, or abort.
+- When raising errors, make suree to write informative and actionable messages.
+
 ## Further reading
 
 - [Article by University of Freiburg](https://swt.informatik.uni-freiburg.de/service/coding-conventions)

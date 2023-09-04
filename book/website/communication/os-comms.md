@@ -18,7 +18,7 @@ alt: A few people are looking for different information about experiment, tools,
 Idetifying right channel to communicate and find information. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
-## Background and Motivation
+## Motivation and Background
 
 When trying to build a community around an Open Source project, the content in this chapter will help make sure that your communications are as open, transparent and accessible as possible.
 This will help foster trust between the project team and the wider community and give them the agency to contribute where they can.
