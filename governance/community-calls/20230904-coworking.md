@@ -1,4 +1,4 @@
-# Notes 14 August
+# Notes 4 September
 
 ## Attendees
 
