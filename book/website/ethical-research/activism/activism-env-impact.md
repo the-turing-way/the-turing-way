@@ -103,7 +103,7 @@ Another way of reducing energy usage, is to avoid running task unnecessarily. So
 
 Energy usage at different times of the day has different carbon intensity. This means that there is also an opportunity to reduce carbon emissions by running computing jobs at different times of the day. While the energy usage remains the same, the carbon intensity can be lowered in this way.
 
-The Climate Aware Task Scheduler (CATS)[[https://github.com/GreenScheduler/cats](https://github.com/GreenScheduler/cats)]) has been built specifically with this in mind. This tool can calculate how much carbon will be emitted during the run of a specific task, look at the carbon emission forecast, and schedule the task to be run at a time when carbon intensity is low.
+The Climate Aware Task Scheduler (CATS)[https://github.com/GreenScheduler/cats] has been built specifically with this in mind. This tool can calculate how much carbon will be emitted during the run of a specific task, look at the carbon emission forecast, and schedule the task to be run at a time when carbon intensity is low.
 
 ```{figure} ../../figures/carbon_computing.*
 ---
