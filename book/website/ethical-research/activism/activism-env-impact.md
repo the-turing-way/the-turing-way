@@ -8,7 +8,7 @@ For this reason, it is important to consider the environmental impact of the com
 
 This guide helps data and computational scientists to better understand the environmental impacts of their work and projects, as well as providing suggestions for reducing the impact of it.
 
-The topic is not new, it has for example been discussed during CW23 [link to raspberry blog post, when it is available].
+The topic is not new, it has for example been discussed during [CW23](https://software.ac.uk/blog/2023-08-15-tracking-environmental-impact-research-computing).
 
 (er-activism-env-impact-understanding)=
 ## Understanding the problem
