@@ -108,7 +108,7 @@ The Climate Aware Task Scheduler (CATS)[[https://github.com/GreenScheduler/cats]
 ```{figure} ../../figures/carbon_computing.*
 ---
 height: 500px
-name: Computing has carbon emissions
+name: Computing has carbon emissions illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 alt: Computing has carbon emissions
 ---
 Computing has carbon emissions
