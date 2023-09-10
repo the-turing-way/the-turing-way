@@ -2,8 +2,8 @@
 
 ## Founding (2018 - 2019)
 
-*The Turing Way* is the flagship project of the Tools, Practices, and Systems.
-Founded by Dr. Kirstie Whitaker, the project began as a Book of Reproducible Research in 2018, created by Dr. Whitaker and close allies and partners: assisted in creation by  working with members of the REG team at the Turing.
+*The Turing Way* is the flagship project of the Tools, Practices, and Systems programme.
+Founded by Dr. Kirstie Whitaker, the project began as a Book of Reproducible Research in 2018, created by Dr. Whitaker and close allies and partners: assisted in creation by working with members of the REG team at the Turing.
 The project was incubated during Kirstie's time as a [Mozilla Open Leader](https://mozilla.github.io/leadership-training/), and was funded by a grant within the Turing.
 
 Due to close relationships with the Jupyter Project, the book was written in JupyterBook.
@@ -18,7 +18,8 @@ This period corresponded with the COVID-19 pandemic lockdowns, which transitione
 
 In part due to this, The Turing Way was able to expand greatly, from one guide on Reproducibility into five different guides related to project design, communication, collaboration, and research ethics.
 A global (and multilingual) community began to engage with The Turing Way, and the process of translation/localisation began informally.
-A Community Handbook was also established to document best practices that could be used by other communities. The Fireside Chat series was established in late 2021, facilitating shared spaces with networks and allies from across the open science ecosystem.
+A Community Handbook was also established to document best practices that could be used by other communities.
+The Fireside Chat series was established in late 2021, facilitating shared spaces with networks and allies from across the open science ecosystem.
 The project received a few awards & citations in the 2021 London Mayor report, HiddenREF Awards, and Goldacre Report.
 The Book Dash Planning Committe was established to plan the community's flagship collaboration event.
 
