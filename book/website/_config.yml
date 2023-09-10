@@ -53,11 +53,14 @@ repository:
 #######################################################################################
 # Advanced and power-user settings
 sphinx:
-  extra_extensions          :  # A list of extra extensions to load by Sphinx.
+  extra_extensions          : ['sphinx_panels'] # A list of extra extensions to load by Sphinx.
   config                    :  # key-value pairs to directly over-ride the Sphinx configuration
     language                : en
     html_js_files: [ ['https://plausible.io/js/script.js', {'defer': 'defer', 'data-domain': 'the-turing-way.netlify.app'}] ]
     html_show_copyright     : false
+    panels_add_bootstrap_css: False
+    suppress_warnings       : ['app.add_node','app.add_directive','app.add_role']
+
 
 bibtex_bibfiles:
     - _bibliography/references.bib
