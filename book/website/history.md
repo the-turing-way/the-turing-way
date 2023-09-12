@@ -3,11 +3,14 @@
 ## Founding (2018 - 2019)
 
 *The Turing Way* is the flagship project of the Tools, Practices, and Systems programme.
-Founded by Dr. Kirstie Whitaker, the project began as a Book of Reproducible Research in 2018, created by Dr. Whitaker and close allies and partners: assisted in creation by working with members of the REG team at the Turing.
-The project was incubated during Kirstie's time as a [Mozilla Open Leader](https://mozilla.github.io/leadership-training/), and was funded by a grant within the Turing.
+Founded by Dr Kirstie Whitaker, the project began as a Book of Reproducible Research in 2019.
+Dr. Whitaker and [close allies and contributors](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md#previous-project-members), who were already championing reproducible practices in data science and co-development the first version of *The Turing Way* book.
+The project team included researchers, librarians, data scientists and Research Engineers, from both The Alan Turing Turing and the institutes across the UK.
+The project has its roots in the [Mozilla Open Leadership](https://mozilla.github.io/leadership-training/), a programme that led to Kirstie's Mozilla Fellowship in 2016, which influenced her as a researcher and strengthened her commitment to working open.
 
+*The Turing Way* has been funded by The Alan Turing Institute since the very beginning.
 Due to close relationships with the Jupyter Project, the book was written in JupyterBook.
-A github repository was made for the project, and internal processes decided in how acknowledge of authorship works within the project (i.e. installation of Welcome bot, All-Contributors bot) and collaborative spaces and events to contribute to the guides were created (i.e. Collaboration Cafe, Book Dash).
+A GitHub repository was made for the project, and internal processes decided in how acknowledge of authorship works within the project (i.e. installation of Welcome bot, All-Contributors bot) and collaborative spaces and events to contribute to the guides were created (i.e. Collaboration Cafe, Book Dash).
 In-person workshops were given in person on tools aligned with the project: particulary Binder and JupterBook, and the project was presented in many conferences across the UK and internationally.
 
 ## Development and Growth (2019-2021)
