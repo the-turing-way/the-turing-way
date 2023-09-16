@@ -1,25 +1,27 @@
 document.addEventListener("DOMContentLoaded", function () {
     let pathwayValue = sessionStorage.getItem("pathwayValue") || null;
+    var cards = document.querySelectorAll(".card");
+    var sideBar = document.querySelectorAll(".bd-links");
+    cards.forEach(function (card) {
+        card.addEventListener("click", function () {
+            var header = card.querySelector(".card-header span").textContent;
 
-    document.addEventListener('click', function (event) {
-        const card = event.target.closest('.card-text .sphinx-bs');
-        if (card) {
-            pathwayValue = card.textContent.trim();
+            pathwayValue = header;
             sessionStorage.setItem("pathwayValue", pathwayValue);
-        }
 
-        const link = event.target.closest('.bd-links');
-        if (link) {
-            pathwayValue = null;
-            sessionStorage.setItem("pathwayValue", null);
-        }
+            console.log("pathwayValue set to:", pathwayValue);
+        })});
+    sideBar.forEach(function(link){
+        link.addEventListener("click",function(){
+            sessionStorage.setItem("pathwayValue" , null);
+        })
     });
-
+    
     const images = document.querySelectorAll('img[src^="https://img.shields.io/static/v1?label=pathway"]');
-    let colour = "blue";
+    let colour = "orange";
     if (pathwayValue === "Data Study Group") {
         colour = "white";
-    } else if (pathwayValue === "Phd Students") {
+    } else if (pathwayValue === "PhD Students") {
         colour = "blue";
     } else if (pathwayValue === "Group Leaders") {
         colour = "purple";
