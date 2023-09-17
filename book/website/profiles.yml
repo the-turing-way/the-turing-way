@@ -12,8 +12,11 @@
     - collaboration/github-novice/github-novice-advanced
     - collaboration/leadership
   colour: blue
-  description: Early Career Researchers (ECRs) are students, PhDs and early-stage postdocs who may not have a lot of experience in contributing to research projects from start to finish. This curated set of chapters will allow them to understand what best practices apply at different stages of development to ensure research reproducibility.
-
+  description: Early Career Researchers (ECRs) are students, PhDs and early-stage
+    postdocs who may not have a lot of experience in contributing to research
+    projects from start to finish. This curated set of chapters will allow them
+    to understand what best practices apply at different stages of development
+    to ensure research reproducibility.
 - name: Project Leaders
   files:
     - project-design/project-design
@@ -32,8 +35,12 @@
     - reproducible-research/open/open-data
     - reproducible-research/open/open-source
   colour: purple
-  description: Project leaders are people who are responsible for project planning, resource allocation and other decision-making for and with the involvement of their project team. This curated set of chapters will point them to relevant tools and practices that they can use for managing their projects while ensuring transparency, reproducibility, collaboration and ethical practices throughout the lifecycle of research.
-
+  description: Project leaders are people who are responsible for project
+    planning, resource allocation and other decision-making for and with the
+    involvement of their project team. This curated set of chapters will point
+    them to relevant tools and practices that they can use for managing their
+    projects while ensuring transparency, reproducibility, collaboration and
+    ethical practices throughout the lifecycle of research.
 - name: Research Software Engineers
   files:
     - reproducible-research/reproducible-research
@@ -42,8 +49,11 @@
     - reproducible-research/open/open-data
     - reproducible-research/open/open-source
   colour: white
-  description: Research Software Engineers are programmers with scientific backgrounds who play crucial roles in projects involving data and technology. This curated set of chapters will point them to open source and reproducibility practices important for working with data and developing software tools. 
-
+  description: Research Software Engineers are programmers with scientific
+    backgrounds who play crucial roles in projects involving data and
+    technology. This curated set of chapters will point them to open source and
+    reproducibility practices important for working with data and developing
+    software tools.
 - name: Software Citation
   files:
     - reproducible-research/reproducible-research
@@ -71,4 +81,7 @@
     - collaboration/shared-ownership
     - collaboration/shared-ownership/shared-ownership-models
   colour: green
-  description: All sectors, from research to government, strongly rely upon the use of software. This curated set of chapters guides the sharing and citation of software components from source code to computational workflows and executables while attributing all contributors fairly.
+  description: All sectors, from research to government, strongly rely upon the
+    use of the software. This curated set of chapters guides the sharing and
+    citation of software components from source code to computational workflows
+    and executables while attributing all contributors fairly.
