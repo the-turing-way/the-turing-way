@@ -4,13 +4,22 @@
     - reproducible-research/overview
     - reproducible-research/overview/overview-resources
     - reproducible-research/overview/overview-barriers
+    - reproducible-research/rdm
+    - reproducible-research/vcs
+    - project-design/pd-overview
+    - project-design/pd-overview/pd-overview-methods
+    - project-design/sdp
     - communication/communication
     - communication/comms-overview
     - communication/comms-overview/comms-overview-principles
+    - communication/dif-articles
+    - communication/presentations
+    - communication/social-media
     - collaboration/collaboration
     - collaboration/github-novice
     - collaboration/github-novice/github-novice-advanced
     - collaboration/leadership
+    - ethical-research/ethics-intro
   colour: blue
   description: Early Career Researchers (ECRs) are students, PhDs and early-stage
     postdocs who may not have a lot of experience in contributing to research
@@ -48,6 +57,16 @@
     - reproducible-research/open
     - reproducible-research/open/open-data
     - reproducible-research/open/open-source
+    - reproducible-research/vcs
+    - reproducible-research/licensing
+    - reproducible-research/code-quality
+    - reproducible-research/testing
+    - reproducible-research/reviewing
+    - collaboration/research-infrastructure-roles
+    - collaboration/research-infrastructure-roles/rse-personal-story
+    - collaboration/github-novice
+    - collaboration/maintain-review
+    - communication/citable/citable-cite
   colour: white
   description: Research Software Engineers are programmers with scientific
     backgrounds who play crucial roles in projects involving data and
@@ -68,8 +87,8 @@
     - reproducible-research/code-reuse/code-reuse-overview
     - reproducible-research/licensing
     - reproducible-research/licensing/licensing-software
-    - communications/research-objects
-    - communications/citable
+    - communication/research-objects
+    - communication/citable
     - communication/citable/citable-steps
     - communication/citable/citable-cite
     - communication/citable/citable-cff
