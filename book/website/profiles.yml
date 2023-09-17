@@ -1,4 +1,4 @@
-- name: Data Study Group
+- name: Early Career Researchers
   files:
     - reproducible-research/reproducible-research
     - reproducible-research/overview
@@ -11,20 +11,10 @@
     - collaboration/github-novice
     - collaboration/github-novice/github-novice-advanced
     - collaboration/leadership
-  colour: white
-  description: consectetur adipiscing elit. Sed nec mauris quis magna consequat consequat vel quis odio. Sed nec arcu malesuada, aliquam erat eget, bibendum nisi. Nunc varius, odio eu molestie euismod, sapien ipsum vulputate eros, sed lacinia nisl sapien eu nisi. Nulla facilisi. Nullam vulputate, odio sed tempor rutrum, est ipsum ultrices lorem, a feugiat velit magna in metus.
-
-- name: PhD Students
-  files:
-    - communication/communication
-    - communication/comms-overview
-    - communication/comms-overview/comms-overview-principles
-    - reproducible-research/reproducible-research
-    - reproducible-research/overview
   colour: blue
-  description: PhD students are early career researchers who may not have a lot of hands on experience with contributing to research projects from the start to finish. This curated set of chapters will allow them to understand what practices apply to their research at different stages of development.
+  description: Early Career Researchers (ECRs) are students, PhDs and early-stage postdocs who may not have a lot of experience in contributing to research projects from start to finish. This curated set of chapters will allow them to understand what best practices apply at different stages of development to ensure research reproducibility.
 
-- name: Group Leaders
+- name: Project Leaders
   files:
     - project-design/project-design
     - project-design/pd-overview
@@ -42,17 +32,43 @@
     - reproducible-research/open/open-data
     - reproducible-research/open/open-source
   colour: purple
-  description: Fusce euismod mi eget neque sollicitudin, ut rhoncus tellus bibendum. Duis vitae fermentum quam, at bibendum nibh. Proin eu tellus turpis. Aliquam sodales eleifend sapien, vel fringilla risus faucibus at. Fusce vulputate libero eget ipsum dapibus, ut convallis est pharetra. Maecenas in dolor mauris.
+  description: Project leaders are people who are responsible for project planning, resource allocation and other decision-making for and with the involvement of their project team. This curated set of chapters will point them to relevant tools and practices that they can use for managing their projects while ensuring transparency, reproducibility, collaboration and ethical practices throughout the lifecycle of research.
 
-- name: Life Scientists
+- name: Research Software Engineers
   files:
     - reproducible-research/reproducible-research
     - reproducible-research/overview
-    - reproducible-research/overview/overview-benefit
-    - reproducible-research/overview/overview-resources
-    - reproducible-research/overview/overview-barriers
     - reproducible-research/open
     - reproducible-research/open/open-data
     - reproducible-research/open/open-source
+  colour: white
+  description: Research Software Engineers are programmers with scientific backgrounds who play crucial roles in projects involving data and technology. This curated set of chapters will point them to open source and reproducibility practices important for working with data and developing software tools. 
+
+- name: Software Citation
+  files:
+    - reproducible-research/reproducible-research
+    - reproducible-research/overview
+    - reproducible-research/open
+    - reproducible-research/open/open-source
+    - reproducible-research/rdm
+    - reproducible-research/rdm/rdm-metadata
+    - reproducible-research/rdm/rdm-sharing
+    - reproducible-research/compendia
+    - reproducible-research/code-reuse
+    - reproducible-research/code-reuse/code-reuse-overview
+    - reproducible-research/licensing
+    - reproducible-research/licensing/licensing-software
+    - communications/research-objects
+    - communications/citable
+    - communication/citable/citable-steps
+    - communication/citable/citable-cite
+    - communication/citable/citable-cff
+    - communication/citable/citable-cffinit
+    - communication/citable/citable-linking
+    - communication/citable/citable-orcid
+    - communication/citable/citable-resources
+    - collaboration/github-novice
+    - collaboration/shared-ownership
+    - collaboration/shared-ownership/shared-ownership-models
   colour: green
-  description: Nullam sed dolor erat. Sed gravida metus at leo commodo, sed rutrum elit accumsan. Fusce vestibulum, velit ac imperdiet mattis, eros nisl luctus augue, ut bibendum risus magna eu velit. Morbi pharetra mauris sed sagittis feugiat. Duis scelerisque quam ac urna faucibus dignissim. Sed vel blandit sapien, id lacinia risus. Donec sit amet quam vestibulum, imperdiet felis non, rhoncus velit.
+  description: All sectors, from research to government, strongly rely upon the use of software. This curated set of chapters guides the sharing and citation of software components from source code to computational workflows and executables while attributing all contributors fairly.
