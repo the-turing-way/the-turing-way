@@ -20,7 +20,6 @@ You can always refresh the window if you see the "... is taking longer to load, 
 If you are following the R path, we have included some alternative steps using the [`holepunch` package](https://github.com/karthik/holepunch) which will build your environment using a [rocker base image](https://github.com/rocker-org/rocker) and should, ultimately, be faster to build and launch.
 ```
 
-
 (z2b-reqs)=
 ## Requirements
 
