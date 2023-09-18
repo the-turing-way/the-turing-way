@@ -1,9 +1,16 @@
 - name: Early Career Researchers
   files:
+    - project-design/project-design
+    - collaboration/github-novice
+    - project-design/project-repo
+    - project-design/pd-overview
     - reproducible-research/reproducible-research
     - reproducible-research/overview
-    - reproducible-research/overview/overview-resources
+    - reproducible-research/reproducible-research
+    - reproducible-research/overview/overview-definitions
+    - reproducible-research/overview/overview-benefit
     - reproducible-research/overview/overview-barriers
+    - reproducible-research/overview/overview-resources
     - reproducible-research/rdm
     - reproducible-research/vcs
     - project-design/pd-overview
@@ -16,9 +23,7 @@
     - communication/presentations
     - communication/social-media
     - collaboration/collaboration
-    - collaboration/github-novice
     - collaboration/github-novice/github-novice-advanced
-    - collaboration/leadership
     - ethical-research/ethics-intro
   colour: blue
   description: Early Career Researchers (ECRs) are students, PhDs and early-stage
@@ -28,17 +33,15 @@
     to ensure research reproducibility.
 - name: Project Leaders
   files:
+    - collaboration/leadership
     - project-design/project-design
-    - project-design/pd-overview
+    - project-design/project-repo
     - project-design/pd-overview/pd-overview-planning
     - project-design/pd-overview/pd-overview-repro
     - project-design/pd-overview/pd-overview-methods
     - project-design/pd-overview/pd-overview-version
     - reproducible-research/reproducible-research
-    - reproducible-research/overview
     - reproducible-research/overview/overview-definitions
-    - reproducible-research/overview/overview-benefit
-    - reproducible-research/overview/overview-resources
     - reproducible-research/overview/overview-barriers
     - reproducible-research/open
     - reproducible-research/open/open-data
@@ -52,6 +55,9 @@
     ethical practices throughout the lifecycle of research.
 - name: Research Software Engineers
   files:
+    - collaboration/research-infrastructure-roles
+    - communication/citable/citable-cite
+    - project-design/project-repo/project-repo-advanced
     - reproducible-research/reproducible-research
     - reproducible-research/overview
     - reproducible-research/open
@@ -62,20 +68,28 @@
     - reproducible-research/code-quality
     - reproducible-research/testing
     - reproducible-research/reviewing
-    - collaboration/research-infrastructure-roles
-    - collaboration/research-infrastructure-roles/rse-personal-story
-    - collaboration/github-novice
+    - reproducible-research/renv
+    - reproducible-research/ci
+    - project-design/project-repo
     - collaboration/maintain-review
-    - communication/citable/citable-cite
+    - collaboration/research-infrastructure-roles/rse-personal-story
   colour: white
   description: Research Software Engineers are programmers with scientific
     backgrounds who play crucial roles in projects involving data and
     technology. This curated set of chapters will point them to open source and
     reproducibility practices important for working with data and developing
-    software tools.
+    software tools. Chapters in Software Citation should be used as the next step.
 - name: Software Citation
   files:
-    - reproducible-research/reproducible-research
+    - communication/research-objects
+    - communication/citable
+    - communication/citable/citable-steps
+    - communication/citable/citable-cite
+    - communication/citable/citable-cff
+    - communication/citable/citable-cffinit
+    - communication/citable/citable-linking
+    - communication/citable/citable-orcid
+    - communication/citable/citable-resources
     - reproducible-research/overview
     - reproducible-research/open
     - reproducible-research/open/open-source
@@ -87,16 +101,7 @@
     - reproducible-research/code-reuse/code-reuse-overview
     - reproducible-research/licensing
     - reproducible-research/licensing/licensing-software
-    - communication/research-objects
-    - communication/citable
-    - communication/citable/citable-steps
-    - communication/citable/citable-cite
-    - communication/citable/citable-cff
-    - communication/citable/citable-cffinit
-    - communication/citable/citable-linking
-    - communication/citable/citable-orcid
-    - communication/citable/citable-resources
-    - collaboration/github-novice
+    - project-design/project-repo
     - collaboration/shared-ownership
     - collaboration/shared-ownership/shared-ownership-models
   colour: green
