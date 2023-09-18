@@ -53,6 +53,35 @@
     them to relevant tools and practices that they can use for managing their
     projects while ensuring transparency, reproducibility, collaboration and
     ethical practices throughout the lifecycle of research.
+- name: Software Citation
+  files:
+    - project-design/project-repo
+    - communication/research-objects
+    - communication/citable
+    - communication/citable/citable-steps
+    - communication/citable/citable-cite
+    - communication/citable/citable-cff
+    - communication/citable/citable-cffinit
+    - communication/citable/citable-linking
+    - communication/citable/citable-orcid
+    - communication/citable/citable-resources
+    - reproducible-research/overview
+    - reproducible-research/open
+    - reproducible-research/open/open-source
+    - reproducible-research/rdm/rdm-metadata
+    - reproducible-research/rdm/rdm-sharing
+    - reproducible-research/compendia
+    - reproducible-research/code-reuse
+    - reproducible-research/code-reuse/code-reuse-overview
+    - reproducible-research/licensing
+    - reproducible-research/licensing/licensing-software
+    - collaboration/shared-ownership
+    - collaboration/shared-ownership/shared-ownership-models
+  colour: green
+  description: From research to government, every sector strongly rely upon the
+    use of research software. This curated set of chapters guides the sharing
+    and citation of software components from source code to computational
+    workflows and executables while attributing all contributors fairly.
 - name: Research Software Engineers
   files:
     - communication/citable/citable-cite
@@ -78,34 +107,4 @@
     backgrounds who play crucial roles in projects involving data and
     technology. This curated set of chapters will point them to open source and
     reproducibility practices important for working with data and developing
-    software tools. Chapters in Software Citation should be used as the next
-    step.
-- name: Software Citation
-  files:
-    - communication/research-objects
-    - communication/citable
-    - communication/citable/citable-steps
-    - communication/citable/citable-cite
-    - communication/citable/citable-cff
-    - communication/citable/citable-cffinit
-    - communication/citable/citable-linking
-    - communication/citable/citable-orcid
-    - communication/citable/citable-resources
-    - reproducible-research/overview
-    - reproducible-research/open
-    - reproducible-research/open/open-source
-    - reproducible-research/rdm
-    - reproducible-research/rdm/rdm-metadata
-    - reproducible-research/rdm/rdm-sharing
-    - reproducible-research/compendia
-    - reproducible-research/code-reuse
-    - reproducible-research/code-reuse/code-reuse-overview
-    - reproducible-research/licensing
-    - reproducible-research/licensing/licensing-software
-    - collaboration/shared-ownership
-    - collaboration/shared-ownership/shared-ownership-models
-  colour: green
-  description: All sectors, from research to government, strongly rely upon the
-    use of research software. This curated set of chapters guides the sharing
-    and citation of software components from source code to computational
-    workflows and executables while attributing all contributors fairly.
+    software tools. The software Citation pathway is a good next step for RSEs.
