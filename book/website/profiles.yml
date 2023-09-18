@@ -31,6 +31,7 @@
     projects from start to finish. This curated set of chapters will allow them
     to understand what best practices apply at different stages of development
     to ensure research reproducibility.
+    
 - name: Project Leaders
   files:
     - collaboration/leadership
@@ -53,6 +54,7 @@
     them to relevant tools and practices that they can use for managing their
     projects while ensuring transparency, reproducibility, collaboration and
     ethical practices throughout the lifecycle of research.
+    
 - name: Research Software Engineers
   files:
     - collaboration/research-infrastructure-roles
@@ -79,6 +81,7 @@
     technology. This curated set of chapters will point them to open source and
     reproducibility practices important for working with data and developing
     software tools. Chapters in Software Citation should be used as the next step.
+    
 - name: Software Citation
   files:
     - communication/research-objects
@@ -106,6 +109,6 @@
     - collaboration/shared-ownership/shared-ownership-models
   colour: green
   description: All sectors, from research to government, strongly rely upon the
-    use of the software. This curated set of chapters guides the sharing and
+    use of research software. This curated set of chapters guides the sharing and
     citation of software components from source code to computational workflows
     and executables while attributing all contributors fairly.
