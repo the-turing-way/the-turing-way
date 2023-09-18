@@ -10,7 +10,7 @@ The project has its roots in the [Mozilla Open Leadership](https://mozilla.githu
 
 *The Turing Way* has been funded by The Alan Turing Institute since the very beginning.
 Due to close relationships with the Jupyter Project, the book was written in JupyterBook.
-A GitHub repository was made for the project, and internal processes decided in how acknowledge of authorship works within the project (i.e. installation of Welcome bot, All-Contributors bot) and collaborative spaces and events to contribute to the guides were created (i.e. Collaboration Cafe, Book Dash).
+A GitHub repository was made for the project, and internal processes decided in how to acknowledge authorship works within the project (i.e. installation of Welcome bot, All-Contributors bot) and collaborative spaces and events to contribute to the guides were created (such as Collaboration Cafe, Book Dash).
 In-person workshops were given in person on tools aligned with the project: particulary Binder and JupterBook, and the project was presented in many conferences across the UK and internationally.
 
 ## Development and Growth (2019-2021)
