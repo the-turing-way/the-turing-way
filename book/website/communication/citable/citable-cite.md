@@ -58,7 +58,6 @@ When using others software, it is vital to cite and attribute it properly.
 ::::{tab-set}
 :::{tab-item} GitHub
 :sync: github_tab
-
 To make your code citable, you can use the integration between [Zenodo](https://zenodo.org/) and GitHub.
 
 - Create a file to tell people how to cite your software. Use this [handy guide](https://citation-file-format.github.io/cff-initializer-javascript/) to format the file.
