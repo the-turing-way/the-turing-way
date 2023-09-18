@@ -1,4 +1,3 @@
----
 - name: Early Career Researchers
   files:
     - project-design/project-design
@@ -79,8 +78,7 @@
     backgrounds who play crucial roles in projects involving data and
     technology. This curated set of chapters will point them to open source and
     reproducibility practices important for working with data and developing
-    software tools. Chapters in Software Citation should be used as the next
-    step.
+    software tools. Chapters in Software Citation should be used as the next step.
 - name: Software Citation
   files:
     - communication/research-objects
@@ -92,6 +90,7 @@
     - communication/citable/citable-linking
     - communication/citable/citable-orcid
     - communication/citable/citable-resources
+    - project-design/project-repo
     - reproducible-research/overview
     - reproducible-research/open
     - reproducible-research/open/open-source
@@ -103,7 +102,6 @@
     - reproducible-research/code-reuse/code-reuse-overview
     - reproducible-research/licensing
     - reproducible-research/licensing/licensing-software
-    - project-design/project-repo
     - collaboration/shared-ownership
     - collaboration/shared-ownership/shared-ownership-models
   colour: green
