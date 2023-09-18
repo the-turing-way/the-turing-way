@@ -17,7 +17,7 @@ The project was presented in many conferences across the UK and internationally.
 ## Development and Growth (2019-2021)
 
 With the addition of Dr. Malvika Sharan in late 2019, The Turing Way expanded into five guides.
-As a co-founder of Open Life Science (which uses many Mozilla OL frameworks), Malvika helped to incubate what are now key partnerships for The Turing Way.
+As a co-founder of Open Life Science (which uses many Mozilla open leadership frameworks), Malvika helped to incubate what are now key partnerships for The Turing Way.
 This period corresponded with the COVID-19 pandemic lockdowns, which transitioned many processes of contribution, collaboration, and documentation into remote ones.
 
 In part due to this, The Turing Way was able to expand greatly, from one guide on Reproducibility into five different guides related to project design, communication, collaboration, and research ethics.
