@@ -79,6 +79,7 @@
     technology. This curated set of chapters will point them to open source and
     reproducibility practices important for working with data and developing
     software tools. Chapters in Software Citation should be used as the next step.
+  
 - name: Software Citation
   files:
     - communication/research-objects
