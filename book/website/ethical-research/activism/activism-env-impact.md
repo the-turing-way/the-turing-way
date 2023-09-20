@@ -41,7 +41,7 @@ Global warming stripes, by Ed Hawkins.
 This more verbose figure makes it more explicit what the global warming stripes represent. You can find these and more figures in the [canonical warming stripes page](https://showyourstripes.info/s/globe).
 
 
-```{figure} ../../figures/ GLOBE---1850-2022-MO-barslabel.*
+```{figure} ../../figures/GLOBE---1850-2022-MO-barslabel.*
 ---
 height: 500px
 name: Bars with Scale, by Ed Hawkins.
