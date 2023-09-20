@@ -144,15 +144,18 @@ Whenever you can choose, select data centers that are committed to reduce their 
 
 ### Other resources
 #### Computation
-* [https://www.green-algorithms.org/](https://www.green-algorithms.org/) 
-* [https://onlinelibrary.wiley.com/doi/10.1002/advs.202100707](https://onlinelibrary.wiley.com/doi/10.1002/advs.202100707) 
-* [https://www.nature.com/articles/s43586-023-00202-5.epdf?sharing_token=QTc-q5_jBfbwbgHrxjAF3NRgN0jAjWel9jnR3ZoTv0M5cDtvWq4NDOHdun0YacmqG8iEJ146ZGUvxIp3izWvG3qqEI0oN4e5AgJh1ioWOFtL_b-yexmwuBL7nKWggSD22xXBBQe-_M_1jL9gC5WNNOYCZkXrOcuiKp7L_6DvyMI%3D](https://www.nature.com/articles/s43586-023-00202-5.epdf?sharing_token=QTc-q5_jBfbwbgHrxjAF3NRgN0jAjWel9jnR3ZoTv0M5cDtvWq4NDOHdun0YacmqG8iEJ146ZGUvxIp3izWvG3qqEI0oN4e5AgJh1ioWOFtL_b-yexmwuBL7nKWggSD22xXBBQe-_M_1jL9gC5WNNOYCZkXrOcuiKp7L_6DvyMI%3D)
-* [https://www.aclweb.org/anthology/P19-1355](https://www.aclweb.org/anthology/P19-1355) 
-* [http://arxiv.org/abs/1907.10597](http://arxiv.org/abs/1907.10597) 
-* [https://doi.org/10.1145/3442188.3445922](https://doi.org/10.1145/3442188.3445922) 
-* [https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition)
-* Carbon calculator: [https://www.wren.co/](https://www.wren.co/) 
-* Turner (2022) Study of the impact of CPU frequency on ARCHER2: [https://www.archer2.ac.uk/news/2022/12/12/CPUFreq.html](https://www.archer2.ac.uk/news/2022/12/12/CPUFreq.html). ARCHER2 documentation [https://docs.archer2.ac.uk/user-guide/energy/](https://docs.archer2.ac.uk/user-guide/energy/) 
+* [GreenvAlgorithms](https://www.green-algorithms.org/) 
+* [Green Algorithms: Quantifying the Carbon Footprint of Computation](https://onlinelibrary.wiley.com/doi/10.1002/advs.202100707) 
+* [Carbon footprint estimation for computational research](https://www.nature.com/articles/s43586-023-00202-5.epdf?sharing_token=QTc-q5_jBfbwbgHrxjAF3NRgN0jAjWel9jnR3ZoTv0M5cDtvWq4NDOHdun0YacmqG8iEJ146ZGUvxIp3izWvG3qqEI0oN4e5AgJh1ioWOFtL_b-yexmwuBL7nKWggSD22xXBBQe-_M_1jL9gC5WNNOYCZkXrOcuiKp7L_6DvyMI%3D)
+* [Energy and Policy Considerations for Deep Learning in NLP](https://www.aclweb.org/anthology/P19-1355) 
+* [Green AI](http://arxiv.org/abs/1907.10597) 
+* [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://doi.org/10.1145/3442188.3445922) 
+* [Digital Humanities Climate Coalition
+](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition)
+* [Wren Carbon calculator](https://www.wren.co/) 
+* [Turner (2022) Study of the impact of CPU frequency on ARCHER2](https://www.archer2.ac.uk/news/2022/12/12/CPUFreq.html). 
+* [ARCHER2 documentation](https://docs.archer2.ac.uk/user-guide/energy/) 
+
 
 #### Data
 * [Green Scientific Data Compression](https://centaur.reading.ac.uk/79584/1/tgsdcthiia18-towards_green_scientific_data_compression_through_high_level_i_o_interfaces.pd)
