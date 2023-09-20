@@ -82,21 +82,6 @@
 - name: Software Citation
   files:
     - communication/citable
-    - communication/citable/citable-steps
-    - communication/citable/citable-cite
-    - communication/citable/citable-cff
-    - communication/citable/citable-cffinit
-    - communication/citable/citable-linking
-    - communication/citable/citable-orcid
-    - communication/citable/citable-resources
-    - reproducible-research/overview
-    - reproducible-research/open
-    - reproducible-research/open/open-source
-    - reproducible-research/licensing
-    - reproducible-research/licensing/licensing-software
-    - reproducible-research/rdm/rdm-metadata
-    - reproducible-research/rdm/rdm-sharing
-    - reproducible-research/code-reuse
     - reproducible-research/code-reuse/code-reuse-overview
   colour: green
   description: From research to government, every sector strongly rely upon the
