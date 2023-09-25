@@ -1,5 +1,16 @@
 # Google Summer Of Code 2023 Final Report
 
+# Table of Contents
+- [About Me](#about-me)
+- [Goals of the Project](#goals-of-the-project)
+- [My Contributions](#my-contributions)
+- [Pull Requests I Created](#pull-requests-i-created)
+- [Weekly Status Update](#weekly-status-update)
+- [Acknowledgements](#acknowledgements)
+- [Concluding Thoughts](#concluding-thoughts)
+
+
+
 ## About Me
 
 
@@ -15,14 +26,14 @@ The primary project goal is to enhance the usability of The Turing Way book webs
 
 ## My Contributions
 
-### Community Involvement : Participation in Turing Way Book Dash Event for Preparation and Gathering User Experience Feedback 
+### 1. Community Involvement : Participation in Turing Way Book Dash Event for Preparation and Gathering User Experience Feedback 
 
 Turing Way Book Dash events are a less intense version of Book Sprints, where participants work together to create and enhance chapters of The Turing Way book, focusing on accessibility and comprehensiveness
 
 During the book dash, I focused on gathering ideas to enhance the usability of the book website. To achieve this, I engaged with several users through one-on-one conversations to gather their feedback on their experiences using the pathways within the book. Users shared their insights and demonstrated their browsing patterns via screen-sharing sessions. Furthermore, I created a feedback form to collect input from a broader user base.The feedback from users was helpful in understanding the impact of pathways-based browsing and identifying areas for improvement
 
 
-### Enhancing the browsing experience of users who are exploring a single profile
+### 2. Enhancing the browsing experience of users who are exploring a single profile
 
 **Problem:**  In the previous version, when a user navigates the book via pathways, badges associated with all profiles available in the book are shown on the top of the chapter pages. This affects the browsing experience of users exploring a single profile.
 
@@ -34,23 +45,23 @@ During the book dash, I focused on gathering ideas to enhance the usability of t
 
 A user belonging to data study group while accessing a chapter (Guide for Reproducible Research).
 
-<img src="Images/img1.png" alt="Alt Text" width="400" height="300">
+<img src="Images/img1.png">
 
 
 **New Version:**
 
-<img src="Images/img0.png" alt="Alt Text" width="400" height="300">
+<img src="Images/img0.png">
 
-2. Pathway Description Feature
+### 3. Pathway Description Feature
 
 Previously, the landing page for user profiles lacked descriptions, making it less meaningful.The previous version is shown below: 
 
-<img src="Images/img2.png" alt="Alt Text" width="400" height="300">
+<img src="Images/img2.png">
 
 
 A new functionality was implemented to include descriptions for all profiles, which can be specified in the 'profiles.yml' file. During the book-building process, these descriptions are retrieved and added to the landing page of all profiles. The new version is shown below:
 
-<img src="Images/img3.png" alt="Alt Text" width="400" height="300">
+<img src="Images/img3.png">
 
 
 3. Integration of Python Package for User Pathways in the Main Project
@@ -65,7 +76,7 @@ The implementation and testing of the Python package, along with additional enha
 **Resolution of the Conflict:** The pathways card implementation relies on 'sphinx-panels,' which was not included in the version used by the main project. To resolve this issue, 'sphinx-panels' was added as an extension to the main project, and other related issues were addressed during the resolution process.
 
 
-4. Incorporating Text-to-Speech Functionality into the Turing Way Website
+### 4. Incorporating Text-to-Speech Functionality into the Turing Way Website
 
 Text to Speech helps in enhancing the user experience of the Turing Way Website. Hence, an attempt was made to integrate text-to-speech functionality into the website. For this purpose, Easy Speech, a cross-browser library for text-to-speech (TTS), was used. Easy Speech utilizes the Web Speech API for speech synthesis.
 
@@ -75,7 +86,7 @@ Using the Web Speech API may not be the best option as it has some limitations, 
 
 
 
-### Pull Requests I Created
+## Pull Requests I Created
 
 - [#42](https://github.com/alan-turing-institute/bio-Turing-Way/pull/42) - Pathway Description Feature
 - [#43](https://github.com/alan-turing-institute/bio-Turing-Way/pull/43) - Enhancing the browsing experience of users who are exploring a single profile
