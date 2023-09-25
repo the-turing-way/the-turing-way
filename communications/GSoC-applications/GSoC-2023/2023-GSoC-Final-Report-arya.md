@@ -45,26 +45,24 @@ During the book dash, I focused on gathering ideas to enhance the usability of t
 
 A user belonging to data study group while accessing a chapter (Guide for Reproducible Research).
 
-<img src="Images/img1.png">
+<p align="center"><kbd><img src="Images/img1.png"  /></kbd></p>
 
 
 **New Version:**
 
-<img src="Images/img0.png">
+<p align="center"><kbd><img src="Images/img0.png" /></kbd></p>
 
 ### 3. Pathway Description Feature
 
 Previously, the landing page for user profiles lacked descriptions, making it less meaningful.The previous version is shown below: 
 
-<img src="Images/img2.png">
-
+<p align="center"><kbd><img src="Images/img2.png" /></kbd></p>
 
 A new functionality was implemented to include descriptions for all profiles, which can be specified in the 'profiles.yml' file. During the book-building process, these descriptions are retrieved and added to the landing page of all profiles. The new version is shown below:
 
-<img src="Images/img3.png">
+<p align="center"><kbd><img src="Images/img3.png" /></kbd></p>
 
-
-3. Integration of Python Package for User Pathways in the Main Project
+### 4. Integration of Python Package for User Pathways in the Main Project
 
 
 The implementation and testing of the Python package, along with additional enhancements to improve the usability of The Turing Way book, were carried out in the test repository named [bio-Turing-Way](https://github.com/alan-turing-institute/bio-Turing-Way)
@@ -76,9 +74,9 @@ The implementation and testing of the Python package, along with additional enha
 **Resolution of the Conflict:** The pathways card implementation relies on 'sphinx-panels,' which was not included in the version used by the main project. To resolve this issue, 'sphinx-panels' was added as an extension to the main project, and other related issues were addressed during the resolution process.
 
 
-### 4. Incorporating Text-to-Speech Functionality into the Turing Way Website
+### 5. Incorporating Text-to-Speech Functionality into the Turing Way Website
 
-Text to Speech helps in enhancing the user experience of the Turing Way Website. Hence, an attempt was made to integrate text-to-speech functionality into the website. For this purpose, Easy Speech, a cross-browser library for text-to-speech (TTS), was used. Easy Speech utilizes the Web Speech API for speech synthesis.
+Text to Speech helps in enhancing the user experience of the Turing Way Website. Hence, an attempt was made to integrate text-to-speech functionality into the website. For this purpose, [Easy Speech](https://github.com/jankapunkt/easy-speech/tree/master), a cross-browser library for text-to-speech (TTS), was used. Easy Speech utilizes the [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis) for speech synthesis.
 
 At present, the implementation is in its initial stages, and there is room for several improvements to ensure the proper functioning of the text-to-speech feature.
 
@@ -99,8 +97,8 @@ The weekly status updates, which were sent every Wednesday to track my progress,
 
 ## Acknowledgements
 
-I would like to express my gratitude to my mentors, Malvika Sharan and Johanna Bayer, for their support and guidance throughout the entire GSoC period.
+I would like to express my gratitude to my mentors, [Malvika Sharan](https://github.com/malvikasharan) and [Johanna Bayer](https://github.com/likeajumprope), for their support and guidance throughout the entire GSoC period.
 
-## Concluding Thoughts
+## Conclusion
 
 Participating in GSoC has been a wonderful learning experience for me. I have gained valuable knowledge and skills during this period.
