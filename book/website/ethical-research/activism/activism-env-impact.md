@@ -1,7 +1,8 @@
 (er-activism-env-impact)=
 # The Environmental Impact of Digital Research
 
-As multiple reports from the United Nations (such as [IPCC | Climate Change 2023: Synthesis Report](https://www.ipcc.ch/report/ar6/syr/) and [WMO | Global Annual to Decadal Climate Update](https://library.wmo.int/doc_num.php?explnum_id=11629)) have shown, the global climate crisis impacts all of us. From this, reducing carbon emissions has emerged as a means of addressing the climate crisis. For those of us that do computing as part of our day-to-day work, it can form a significant part of our environmental impact, both for us personally and for our organisation(s). In particular, if you or your group does intensive computing, making use of high-performance computers or cloud resources, for example to train intricate models or run complex simulations, the carbon footprint can be sizable.
+As multiple reports from the United Nations (such as [IPCC | Climate Change 2023: Synthesis Report](https://www.ipcc.ch/report/ar6/syr/) and [WMO | Global Annual to Decadal Climate Update](https://public.wmo.int/en/our-mandate/climate/global-annual-decadal-climate-update)) have shown, the global climate crisis impacts all of us. From this, reducing carbon emissions has emerged as a means of addressing the climate crisis. For those of us that do computing as part of our day-to-day work, it can form a significant part of our environmental impact, both for us personally and for our organisation(s). In particular, if you or your group does intensive computing, making use of high-performance computers or cloud resources, for example to train intricate models or run complex simulations, the carbon footprint can be sizable.
+
 
 
 For this reason, it is important to consider the environmental impact of the computational work you and your colleagues and collaborators do, including having awareness of the possible scale of it in relation to other activities you undertake as part of day-to-day life. With this awareness, it follows that we should all aim to reduce our carbon footprint for our work activities.
@@ -38,7 +39,8 @@ alt: Global warming stripes, by Ed Hawkins.
 Global warming stripes, by Ed Hawkins.
 ```
 
-This more verbose figure makes it more explicit what the global warming stripes represent. You can find these and more figures in the [canonical warming stripes page](https://showyourstripes.info/s/globe).
+This more verbose figure makes it more explicit what the global warming stripes represent. You can find these and more figures on the [canonical warming stripes page](https://showyourstripes.info/s/globe).
+
 
 
 ```{figure} ../../figures/GLOBE---1850-2022-MO-barslabel.*
@@ -55,18 +57,23 @@ Bars with Scale, by Ed Hawkins.
 
 Below we share some thought-provoking questions about the Environmental Impact of Digital Research.
 
-- Where in the world did you last computer end? An estimated 50 million tons of electronic waste are discarded each year. This is equivalent to throwing out 1000 laptops every single second. Less than 20% of e-waste is formally recycled, with 80% either ending up in landfill on developing countries, exposing vulnerable populations and their environment to health and pollution impacts (ref: https://www3.weforum.org/docs/WEF_A_New_Circular_Vision_for_Electronics.pdf).
-- How many unused or unaccessible data do you have on the cloud? In 2021, on average, 35% of enterprise data is “dark,” meaning it has an unknown value, while 50% is redundant, obsolete or trivial. Only about 16% is business-critical, the study concluded. (ref: https://www.veritas.com/content/dam/Veritas/docs/reports/GA_ENT_AR_Veritas-Vulnerability-Gap-Report-Global_V1414.pdf)
-- How much of the world's total electricity the technological sector will use by 2025? It is predicted that by 2025, the technology sector will consume 20% of the world’s total electricity (compared to 7% in 2022). Ref: https://www.tier1.com/the-environmental-impact-of-our-data-storage/)
+- Where in the world did your last computer end up? An estimated 50 million tons of electronic waste are discarded each year. This is equivalent to throwing out 1000 laptops every single second. Less than 20% of e-waste is formally recycled, with 80% either ending up in landfill on developing countries, exposing vulnerable populations and their environment to health and pollution impacts (ref: https://www3.weforum.org/docs/WEF_A_New_Circular_Vision_for_Electronics.pdf).
+
+- How much unused or inaccessible data do you have on the cloud? In 2021, on average, 35% of enterprise data is “dark,” meaning it has an unknown value, while 50% is redundant, obsolete or trivial. Only about 16% is business-critical, the study concluded. (ref: https://www.veritas.com/content/dam/Veritas/docs/reports/GA_ENT_AR_Veritas-Vulnerability-Gap-Report-Global_V1414.pdf)
+
+- How much of the world's total electricity will the technological sector use by 2025? It is predicted that by 2025, the technology sector will consume 20% of the world’s total electricity (compared to 7% in 2022). Ref: https://www.tier1.com/the-environmental-impact-of-our-data-storage/)
+
 
 (er-activism-env-impact-reduction-strategies)=
 ## Strategies for reduction
 
 There are several things that can be done to reduce the environmental impact of digital research. In this section we describe some of the possible actions grouped in two major groups, computing and data, and links to external resources that can implement them.
 
-These actions are not listed in any order of importance, and implementing any or all of them is better than not doing anything at all.
+These actions are not listed in any order of importance, and implementing any or some of them is better than not doing anything at all.
 
-You can also see Ten simple rules to make your computing more environmentally sustainable {cite:ps}`lannelongue2021ten` and the [Digital Humanities Climate Coalition Toolkit](https://sas-dhrh.github.io/dhcc-toolkit/).
+
+You can also read 'Ten simple rules to make your computing more environmentally sustainable' {cite:ps}`lannelongue2021ten` and the [Digital Humanities Climate Coalition Toolkit](https://sas-dhrh.github.io/dhcc-toolkit/).
+
 
 (er-activism-env-impact-computing)=
 ### Computing 
@@ -75,7 +82,8 @@ As we engage in research activities, our utilization of computers and code execu
 (er-activism-env-impact-code-efficiency)=
 #### Improve code efficiency
 
-As mentioned above, the amount of energy spent on running computation depends on how long the computation runs. One way of reducing the energy spent, is to optimize the code to make it run faster. 
+As mentioned above, the amount of energy spent on running a computation depends on how long the particular computation runs. One way of reducing the energy spent is to optimize the code to make it run faster. 
+
 
 Several studies show the energy intensity of computing tasks such as training Natural Language Processing models {cite:ps}`strubell2019nlpenergy,Schwartz2020greenai`, astrophysics simulations {cite:ps}`Portegies2020ecologicalimpact`, bioinformatics {cite:ps}`Grealey2022carbonfootprint`, and so forth. 
 
@@ -84,7 +92,8 @@ Optimizing GPU code for energy efficiency is one way to reduce energy usage {cit
 (er-activism-env-impact-hardware-efficiency)=
 #### Improve hardware efficiency
 
-In some cases it is possible to run hardware in more energy efficient modes. One relevant example is the ARCHER2 national high performance computer service in the UK where three different CPU frequencies can be selected at run time. A 2022 study investigated the performance / power use trade off and discovered the power usage could often be reduced without noticeable alteration in the run time of most applications. As a consequence the service reduced the default frequency and updated the user-facing documentation in this area (see Turner, 2022).
+In some cases it is possible to run hardware in more energy-efficient modes. One relevant example is the ARCHER2 national high-performance computer service in the UK where three different CPU frequencies can be selected at run time. A 2022 study investigated the performance / power use trade off and discovered the power usage could often be reduced without noticeable alteration in the run time of most applications, by changing the CPU frequency to a different value from the three possibilities. As a consequence the service reduced the default CPU frequency and updated the user-facing documentation in this area (see Turner, 2022).
+
 
 For the Summit supercomputer it is known that about 63.8% of the power is consumed by GPUs 
 {cite:ps}`Stachowski2020autotuning`.
@@ -92,7 +101,8 @@ For the Summit supercomputer it is known that about 63.8% of the power is consum
 (er-activism-env-impact-avoid-tasks)=
 #### Avoid unnecessary tasks
 
-Another way of reducing energy usage, is to avoid running task unnecessarily. Some examples include:
+Another way of reducing energy usage is to avoid running task unnecessarily. Some examples include:
+
 
 * Running CI[[https://the-turing-way.netlify.app/reproducible-research/ci/ci-options.html](https://the-turing-way.netlify.app/reproducible-research/ci/ci-options.html)] only when it is useful. For example: do not run unit tests when changes are made in the documentation and not on the code. 
 * If you do test-driven development, run only tests that have previously failed. In this way you do not need to test code which you already know has been tested. You can use this GH action for limiting when tests (pytest) are run: [https://github.com/marketplace/actions/pytest-last-failed](https://github.com/marketplace/actions/pytest-last-failed) 
@@ -116,7 +126,8 @@ Computing has carbon emissions
 
 (er-activism-env-impact-data)=
 ### Data
-The increasing number of digital research and the associated storage requirements have implications for the environment, and understanding the environmental impact is key for sustainable scientific research practices. One important aspect to consider is the environmental impact of digital storage:
+The increasing amount of digital research and the associated storage requirements have implications for the environment, and understanding the environmental impact is key for sustainable scientific research practices. One important aspect to consider is the environmental impact of digital storage:
+
 
 (er-activism-env-impact-data-reduction)=
 #### Data reduction 
@@ -126,21 +137,25 @@ Reduction of data volumes is a straight-forward solution to minimize energy cons
 
 (er-activism-env-impact-data-standardisation)=
 #### Standardisation
-Storing your data in standardised data format can have a positive impact on the environment:
+Storing your data in a standardised data format can have a positive impact on the environment:
+
 * Utilize data formats that are widely accepted within your community to prevent the need for conversion by those interested in reusing your data.
 * Similarly, embrace standardized variable names and, if applicable to your data, employ standardized physical units.
 
-In addition, deposit your datasets in domain specific or community archives so that users ware promptly informed about the availability of your dataset. This can also avoid duplication of effort and recomputation/acquisition of the same data.
+In addition, if possible deposit your datasets in domain specific or community archives so that users are promptly informed about the availability of your data. This can also avoid duplication of effort and recomputation/acquisition of the same data.
+
 
 (er-activism-env-impact-data-green-centers)=
 #### Green Data Centers
 The usage of shared computing and storage infrastructure is usually a way to reduce the impact of data storage in the environment. The reason is that most data centres invest in energy-efficient servers, storage systems, and networking equipment. This includes using hardware components with high energy efficiency ratings and employing advanced cooling techniques to reduce power consumption. In addition, the implementation of virtualization technologies allows for better usage of server resources.
 
-Finally some data centers are shifting towards renewable energy sources (solar, wind, hydroelectric power) and reduce their dependencies on fossil fuels.
+Finally, some data centers are shifting towards renewable energy sources (solar, wind, hydroelectric power) and reducing their dependencies on fossil fuels.
+
 
 The greenest data/HPC centers are listed on the [GREEN500 list](https://www.top500.org/lists/green500/).
 
-Whenever you can choose, select data centers that are committed to reduce their carbon footprint.
+Whenever you can choose, select data centers that are committed to reducing their carbon footprint.
+
 
 ### Other resources
 #### Computation
@@ -165,4 +180,5 @@ Whenever you can choose, select data centers that are committed to reduce their 
 
 ## Credits
 
-This document draws on discussion from the Software Sustainability Institute’s Collaborations Workshop 2023 (CW23), and in particular on the “Raspberry” discussion and speed blogging session on “How do you track the environmental impact of computing?”. We thank all participants of CW23 for engaging around this topic.  
+This document draws on discussion from the [Software Sustainability Institute](https://www.software.ac.uk/)’s [Collaborations Workshop 2023 (CW23)](https://www.software.ac.uk/cw23), and in particular on the “Raspberry” discussion and speed blogging session on “How do you track the environmental impact of computing?”. We thank all participants of CW23 for engaging around this topic.  
+
