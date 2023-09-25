@@ -7,7 +7,7 @@
 - [Pull Requests I Created](#pull-requests-i-created)
 - [Weekly Status Update](#weekly-status-update)
 - [Acknowledgements](#acknowledgements)
-- [Concluding Thoughts](#concluding-thoughts)
+- [Conclusion](#conclusion)
 
 
 
