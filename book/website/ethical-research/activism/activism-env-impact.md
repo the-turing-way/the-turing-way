@@ -115,13 +115,16 @@ Energy usage at different times of the day has different carbon intensity. This 
 
 The Climate Aware Task Scheduler (CATS)[https://github.com/GreenScheduler/cats] has been built specifically with this in mind. This tool can calculate how much carbon will be emitted during the run of a specific task, look at the carbon emission forecast, and schedule the task to be run at a time when carbon intensity is low.
 
-```{figure} ../../figures/carbon_computing.jpg
+```{figure} ../../figures/carbon_computing.*
+
 ---
 height: 500px
-name: Computing has carbon emissions illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+name: Computing has carbon emissions
+
 alt: Computing has carbon emissions
 ---
-Computing has carbon emissions
+Computing has carbon emissions illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+
 ```
 
 (er-activism-env-impact-data)=
