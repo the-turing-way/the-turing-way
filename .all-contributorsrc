@@ -4343,6 +4343,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "penyuan",
+      "name": "penyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13352427?v=4",
+      "profile": "https://www.penonek.com/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
