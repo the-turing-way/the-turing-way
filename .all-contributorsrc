@@ -4325,10 +4325,28 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "mosoriob",
+      "name": "Maximiliano Osorio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2365990?v=4",
+      "profile": "https://mosorio.dev",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Nolski",
+      "name": "Mike Nolan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2600677?v=4",
+      "profile": "http://nolski.rocks",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "projectName": "the-turing-way",
-  "projectOwner": "alan-turing-institute",
+  "projectOwner": "the-turing-way",
   "repoType": "github",
   "repoHost": "https://github.com",
   "commitConvention": "none",
