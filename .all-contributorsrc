@@ -4343,6 +4343,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "ljcolling",
+      "name": "Lincoln Colling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21215217?v=4",
+      "profile": "http://research.colling.net.nz",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
