@@ -6,14 +6,14 @@
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
-| {ref}`cm-lay-summaries` | Helpful | ... |
-| {ref}`cl-organising-conferences` | Helpful | ... |
-| {ref}`cl-event-tools` | Helpful | ... |
-| {ref}`cl-remote-collab-guidelines` | Helpful | ... |
-| {ref}`cl-organising-meetings` | Helpful | ... |
-| {ref}`cl-hybrid-collab-challenges` | Helpful | ... |
-| {ref}`cl-chairing` | Helpful | ... |
-| {ref}`cl-new-community-differences` | Helpful | ... |
+| {ref}`cm-lay-summaries` | Helpful | Guidance on how to write Plain Language Summaries as well as tools that can help |
+| {ref}`cl-organising-conferences` | Helpful | Checklists and reccommendations for planning conferences |
+| {ref}`cl-event-tools` | Helpful | Suggestions for tools that are useful when planning and running events |
+| {ref}`cl-remote-collab-guidelines` | Helpful | Guidance on running remote events |
+| {ref}`cl-organising-meetings` | Helpful | Checklist and suggestions for organizing meetings |
+| {ref}`cl-hybrid-collab-challenges` | Helpful | Identifies common barriers faced by hybrid events |
+| {ref}`cl-chairing` | Helpful | Checklist and tasks for event chairs |
+| {ref}`cl-new-community-differences` | Helpful | Useful for thinking about how to be inclusive when collaborating with a diverse team |
 
 (cl-inclusive-events-summary)=
 ## Summary
