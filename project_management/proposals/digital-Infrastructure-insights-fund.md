@@ -36,11 +36,8 @@ The dynamic nature of localising open source knowledge across multiple languages
 To undertake research across three themes, we will use four qualitative research methods:
 
 * Desk-based research/literature review;
-
 * Focus groups and individual interviews;
-
 * Iterative development and emergent design;
-
 * Participatory co-creation.
 
 **Theme 1: Exploring culturally appropriate localisation practices.**
