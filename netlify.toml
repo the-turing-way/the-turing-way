@@ -1,7 +1,7 @@
 [build]
 base = "book/"
 command = "python -m pip install --upgrade pip && pip install -r website/requirements.txt && python -m pathways.main pathways website/"
-publish = "website_copy/_build/html"
+publish = "website/_build/html"
 
 # Do not build deploy previews for branches from all-contributors bot
 [context.deploy-preview]
