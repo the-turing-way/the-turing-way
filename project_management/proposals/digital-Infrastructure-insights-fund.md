@@ -18,11 +18,8 @@ What inclusive localisation and governance practices, delivered through sustaina
 Our proposal strongly aligns with four of your Fund’s interests:
 
 * Global Shifts & Localization: Demographics and further narratives of maintainership;
-
 * The Human Infrastructure in Digital Infrastructure;
-
 * Sectoral Adoption & Usage of Open Source from Basic Research to Field Work and Operations;
-
 * Social, Material, Environmental (...) Dimensions of Sustainability.
 
 Advances in science must reflect the breadth of humanity if they are to serve all of humanity equally. Open source research has the potential to encompass a broad and expanding community. However, most resources are produced in English, disadvantaging and excluding largely non-English speaking members of the community from the process of knowledge access, production and sharing. The existing gap in open source multilingual practices creates and perpetuates divides between global communities. The solutions for addressing these go beyond improving access to these resources: we must make knowledge culturally and contextually suitable for different communities through stronger research-based localisation efforts. Closing this gap is critical to encouraging wider participation and leadership in open source by everyone who wants to take part, regardless of language, nationality or sector. 
