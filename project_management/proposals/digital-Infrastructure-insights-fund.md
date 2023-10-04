@@ -6,6 +6,7 @@
 
 **Deadline:** 1 Oct 2023
 
+Written by (alphabetical order): Batool Almarzouq, Arielle Bennett, Melissa Black, Andrea Sánchez-Tapia, Malvika Sharan, Elisabeth Wadge and Kirstie Whitaker
 
 ### Q1: What is your research question? 
 (max 30 words)
