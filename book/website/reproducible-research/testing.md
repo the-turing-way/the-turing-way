@@ -32,7 +32,7 @@ alt: "Headline of a December 2006 news article by Greg Miller, published in Scie
 ```{figure}  ../figures/testing-motivation2.*
 ---
 name: testing-motivation2
-alt: "News article  by Lisa Grossman, published on Wired.com in November 2010, describing an inconsistency between the units of force expected as output and input of two pieces of software that resulted in the loss of a weather satellite when it reached its destination at Mars. The piece is titled November 10, 1999: Metric Math Mistake Muffed Mars Meteorology Mission"
+alt: "News article by Lisa Grossman, published on Wired.com in November 2010, describing an inconsistency between the units of force expected as output and input of two pieces of software that resulted in the loss of a weather satellite when it reached its destination at Mars. The piece is titled November 10, 1999: Metric Math Mistake Muffed Mars Meteorology Mission"
 ---
 ```
 
