@@ -1,4 +1,3 @@
-
 # 2023 Digital Infrastructure Insights Fund RFP
 
 
