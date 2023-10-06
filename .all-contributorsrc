@@ -4361,6 +4361,23 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "arya1302",
+      "name": "Arya A",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73542599?v=4",
+      "profile": "https://github.com/arya1302",
+      "contributions": [
+        "code",
+        "review",
+        "doc",
+        "bug",
+        "content",
+        "ideas",
+        "infra",
+        "userTesting",
+        "test"
+      ]
     }
   ],
   "projectName": "the-turing-way",
