@@ -200,6 +200,8 @@ For example facilitators who can moderate and chair conversations or discussion 
 people with lived experience if the event is not hosted in their primary language where their input it critical to the event (this includes sign language interpreters), note takers, 
 and support staff trained to support the specific needs of your attendees. 
 
+You can also consider setting up a dedicated email address that is active before and during the event for people to direct accessibility questions towards. For example during the event an attendee with low vision can email and ask for context on content that was shared during a live session. 
+
 Large scale conferences may also consider dedicating a member of staff for each day of the conference who is fully informed of all accessibility and support needs and will be able to provide assistance and information to attendees with lived experience. 
 
 Although not all events will require a full team of support staff, it is useful to consider how organizers will support people with lived experience on the day of the event. 
