@@ -1,3 +1,4 @@
+(cl-inclusive-events-location)=
 # Location
 
 The location of your event plays a pivotal role in supporting or hindering how accessible and inclusive your event will be for people with lived experience.
@@ -7,12 +8,9 @@ This section provides guidance that is most relevant for in-person or hybrid eve
 Whether it's a conference, seminar, or any gathering, the venue's physical location, its layout, and surrounding infrastructure can significantly 
 influence the experience of attendees with lived experience, especially those with disabilities
 
-Where an inaccessible venue can present barriers that hinder participation and severely limit the ability of people with lived experience to engage in your event, 
-a universally inclusive venue can make your attendees feel comfortable, supported, and welcome. 
-
 Identifying and addressing the access needs of your attendees will help to both foster a welcoming environment and ensure that all attendees are able to fully engage in your event.
 
-
+(cl-inclusive-events-choosing-venue)=
 ## Choosing a Venue
 
 Although buildings may list accessibility features, before deciding on a venue is it recommended to have an organizer or member of the team visit potential venues 
@@ -76,7 +74,7 @@ When deciding on a venue, try to choose a venue that has the ability to deliver 
 Portsmouth City Council in the UK have compiled a booklet Design guide for wheelchair-accessible housing that can be used as a reference for assessing venues for their 
 ability to be accessed by wheelchair users: https://www.portsmouth.gov.uk/wp-content/uploads/2020/05/development-and-planning-design-guide-for-wheelchair-accessible-housing.pdf
 
-
+(cl-inclusive-events-transport)=
 ## Considering Transport Links
 
 When planning an inclusive event for people with lived experience, careful consideration of transportation is essential to ensure that all attendees will be able to access the venue comfortably and safely.
@@ -105,7 +103,7 @@ Having a point of contact person who can facilitate transportation arrangements 
 By addressing any barriers that transportation access may cause, event organizers can ensure that attendees with lived experience feel welcomed and are able to engage fully in the event.
 
 
-
+(cl-inclusive-events-catering)=
 ## Catering
 
 Depending on the length of your event and the venue's capabilities, you may need to consider how your event will be catered. 
@@ -148,9 +146,10 @@ In this example, it may not be possible to have all attendees eat at the same ti
 As organizers, you may decide that offering separate meal times to ensure that attendees are catered for is more important than having everyone in the same room at the same time. 
 It is incredibly beneficial to work with a representative with lived experience to strategize solutions in cases where requirements may seem to conflict. 
 
-
+(cl-inclusive-events-location-venue)=
 ## Venue Planning
 
+(cl-inclusive-events-location-signs)=
 ### Signs and Navigation
 
 Consider how you will direct and guide people at the venue. If you plan to have banners that will displayed near parking and transport links that can direct attendees to the event registration, 
@@ -172,7 +171,7 @@ where to find staff members, and where all important locations will be (such as 
 Also ensure that the location of any emergency supplies such as an AED, epi-pen, first aid kit and a member of staff who will be able to act in the event of an emergency is marked on the map. 
 Although is it not expected for staff and organizers to be medically trained, it is important to know who needs to be contacted in an emergency event. 
 
-
+(cl-inclusive-events-location-emergency-plan)=
 ### Emergency Evacuation Plan
 
 Although the hope is that your event will be successful and without incident, it is important to ensure that emergency evacuation procedures take 
@@ -186,13 +185,13 @@ people who have been evacuated to separate locations is an incredibly important 
 
 In the UK is it the responsibility of the location to provide a fire safety risk assessment that includes an emergency evacuation plan for 
 all people likely to be on the premises (cite: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/886446/9446_Means_of_Escape_v2_.pdf). 
-You may need to proactively communicate with the location staff or owners to provide information about your attendees need and safely develop an evacuation plan. 
+You may need to proactively communicate with the location staff or owners to provide information about your attendees' needs and safely develop an evacuation plan. 
 
 More information about Emergency Evacuation Plans for people with disabilities and mobility restrictions can be found on the UK Government Website: 
 - https://www.gov.uk/government/publications/fire-safety-risk-assessment-means-of-escape-for-disabled-people
 - https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/886446/9446_Means_of_Escape_v2_.pdf
 
-
+(cl-inclusive-events-location-setup)=
 ## Setting up the event
 
 Before your event starts, it will be important to check that all accessibility measures are functioning and able to be used by attendees. 
@@ -222,7 +221,7 @@ and that attendees have an unobstructed line of sight to any sign language inter
 
 Consider setting out chairs that have enough space for people in wheelchairs, motorised scooter users, 
 and people who may be accompanied by service dogs to move comfortably. 
-If your event is held at a venue where you are unable to alter seating layout, consider reserving seating at the end of rows throughout the venue 
+If your event is held at a venue where you are unable to alter the seating layout, consider reserving seating at the end of rows throughout the venue 
 for people who may need the space, and avoid dedicating an entire row or completely separate seating area for these attendees. 
 Segregated seating and single areas can make attendees feel separate from their colleagues and singled out. 
 By distributing the accessible seating throughout a space you can create a more inclusive and welcoming environment for attendees. 
@@ -231,7 +230,7 @@ Finally, before the event starts, ensure that attendees are able to access the q
 These should be marked on a map and have clear guidance about where they are located. 
 
 
-
+(cl-inclusive-events-location-during-event)=
 ## During the event
 
 Although most of the accessibility considerations are already thought through and planned for before the event begins, 
@@ -242,3 +241,9 @@ Any maps of your venue should have been included in the invitations to attendees
 Depending on the resources you have for the event, consider having a member of staff whose role is to provide guidance to people with lived experience who want support navigating the location. 
 This can have different applications depending on your event, for example, you may have someone posted in the parking lot to help direct attendees to accessible parking bays, 
 or it may also mean having someone available at the registration area who can accompany an attendee to a specific location. 
+
+
+> Where an inaccessible venue can present barriers that hinder participation and severely limit the ability of people with lived experience to engage in your event, 
+a universally inclusive venue can make your attendees feel comfortable, supported, and welcomed. 
+
+
