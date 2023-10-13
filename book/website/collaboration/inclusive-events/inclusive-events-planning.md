@@ -148,10 +148,12 @@ Try to identify potential speakers as early as possible and book dates in their 
 Where possible, try to arrange a recording of a talk or an alternative session plan that can be used in the event a speaker or facilitator is unable to attend. 
 You can also arrange to have speakers join remotely if it would be more supportive of their engagement. 
 
-**Case Study:**
+`````{admonition} Case Study
+:class: tip
 The AI for Multiple Long Term Conditions Conference in April 2023 had a keynote speaker join and give their keynote address remotely in order to best support their involvement. 
 People with the lived experience of multiple long-term conditions may find travelling to events taxing which can have a negative impact on their energy levels and ability to engage in daily activities. 
 By supporting the speaker to speak remotely, they were able to give an engaging and thoughtful keynote address without the burden of having to travel. 
+`````
 
 (cl-inclusive-events-planning-GDPR)=
 ### GDPR and Data Protection
@@ -197,9 +199,11 @@ Please ensure that all documentation and communication about honorarium and reim
 People with lived experience may not have a printer in their homes and may share a computer or smartphone to take part in events. 
 Where possible, please be mindful of the technology and process barriers that people may face and make processes as clear as possible.
 
-**Case Study:**
+```{admonition} Case Study
+:class: tip
 A community event attended by people with vision impairments requested a support person to type and guide them through a reimbursement form. 
 While this may not be a requirement for all types of events, consider both the budget, communication, and the GDPR requirements that would be needed for a member of staff to support attendees with completing the forms. 
+```
 
 (cl-inclusive-events-planning-risk-assessment)=
 ### Risk Assessment
