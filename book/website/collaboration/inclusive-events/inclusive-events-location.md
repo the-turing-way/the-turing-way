@@ -71,8 +71,8 @@ try to ensure that food smells are dissipated and plates cleared to support atte
 When deciding on a venue, try to choose a venue that has the ability to deliver for both accessibility and inclusion needs, and will be a welcoming space to all attendees. 
 
 #### Resources:
-Portsmouth City Council in the UK have compiled a booklet Design guide for wheelchair-accessible housing that can be used as a reference for assessing venues for their 
-ability to be accessed by wheelchair users: https://www.portsmouth.gov.uk/wp-content/uploads/2020/05/development-and-planning-design-guide-for-wheelchair-accessible-housing.pdf
+Portsmouth City Council in the UK have compiled a booklet called [Design Guide for Wheelchair-accessible Housing](https://www.portsmouth.gov.uk/wp-content/uploads/2020/05/development-and-planning-design-guide-for-wheelchair-accessible-housing.pdf) 
+that can be used as a reference for assessing venues for their ability to be accessed by wheelchair users. 
 
 (cl-inclusive-events-transport)=
 ## Considering Transport Links
@@ -201,7 +201,7 @@ It can often be the case that automatic door openers are available, but not acti
 
 Check that accessible restrooms are open and are compliant with the local accessibility standards.
 In the UK this is [Document M](https://www.gov.uk/government/publications/access-to-and-use-of-buildings-approved-document-m).
-You can find a summary of Document M's content here: https://accessible-toilets.co.uk/2019/02/07/all-about-emergency-cords/. 
+You can find a summary of Document M's content and other information about how to ensure that accessible restrooms are safe for use in the [All About Emergency Cords](https://accessible-toilets.co.uk/2019/02/07/all-about-emergency-cords/) resource.
 This can be checking that the emergency assistance cord can be accessed, and that restroom facilities are open.
 
 
