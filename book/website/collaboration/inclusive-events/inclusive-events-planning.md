@@ -1,3 +1,4 @@
+(cl-inclusive-events-planning)=
 # Planning an Inclusive Event
 
 Running an event that is inclusive of all is more than just a choice; it’s a necessity to ensure that all your participants will be able to fully engage in the event. 
@@ -11,7 +12,7 @@ This section provides guidance and considerations for how to design and host an 
 The recommendations are not an exhaustive list, and it is always preferable to include a specific representative or person with lived experience in the event planning to ensure that your event is tailored to the needs of your specific attendees. 
 Their inclusion in decision-making processes is essential to achieving an accessible and inclusive event.
 
-
+(cl-inclusive-events-planning-intro)=
 ## Accessibility vs. Inclusion: What to focus on
 
 When designing and organising an event, it can be easy to focus on the accessibility requirements of the venue and overlook the steps needed to make an event inclusive and enjoyable for all participants. 
@@ -28,6 +29,7 @@ and your event should consider using universal design guidelines to ensure your 
 
 Organising an inclusive event is more than a legal requirement, it is about creating a more equitable, welcoming, and meaningful experience for all participants. 
 
+(cl-inclusive-events-planning-logistics)=
 ## Planning - Logistics 
 
 Planning an event involves many stages that can vary in length depending on the size and resources required. 
@@ -35,6 +37,7 @@ This section addresses some suggested areas for consideration for events that in
 
 At each stage, your planning documents should reflect an emphasis on accessible and inclusive universal design. 
 
+(cl-inclusive-events-initial-planning)=
 ## Initial Planning 
 
 An event that will be attended by people with lived experience may be different to events run without inclusivity in mind. 
@@ -54,6 +57,7 @@ This includes considering physical and cognitive accessibility, communication ne
 
 Finally, when developing the event agenda, make sure it is inclusive of all attendees. Consider various perspectives, backgrounds, and needs, to create an agenda that fosters an inclusive and engaging experience for everyone involved.
 
+(cl-inclusive-events-power-dynamics)=
 ### Addressing Power Dynamics
 
 Acknowledging and addressing the power and priviledge differences between members of the public and researchers is an important part of creating an inclusive environment where people with lived experience are able to engage equitably at an event. 
@@ -87,6 +91,7 @@ The equal representation of the attendees by the speakers and facilitators allow
 Finally, as organizers is is important to understand the power you have in deciding how inclusive and accessible your event will be. 
 It is important to acknowledge how your choices may impact the experience and inclusion of people with lived experience at your event.
 
+(cl-inclusive-events-timing-considerations)=
 ### Timeline and Timing of Event 
 
 After identifying the "why" and "who" for your event, it is important to plan "when" the event will take place, and to develop a timeline for when tasks need to be completed in order to run your event. 
@@ -106,8 +111,7 @@ When planning the dates for the event, it is also useful to consider the potenti
 If your event takes place in person, try to choose a date and start time that takes in to account how long your attendees will need to travel. 
 For example, having your event start at 10:30am to allow for inter-city travel the morning before the event. 
 
-
-
+(cl-inclusive-events-timeline-planning)=
 #### Creating a Planning Timeline
 
 Your planning timeline will vary greatly based on the scale of your event. 
@@ -125,6 +129,7 @@ The AI for Muliple Long Term Conditions Conference in April 2023 had a keynote s
 People with the lived experience of multiple long-term conditions may find travelling to events taxing which can have a negative impact on their energy levels and ability to engage in daily activities. 
 By supporting the speaker to speak remotely, they were able to give an engaging and thoughful keynote address without the burden of having to travel. 
 
+(cl-inclusive-events-planning-GDPR)=
 ### GDPR and Data Protection
 
 Data concerning health conditions and disability is considered "special category data" under GDPR. This also extends to cover a relative or carer of an individual with a health condition or disability. 
@@ -134,6 +139,7 @@ but it is important during planning to be aware that information being collected
 
 Please refer to your organization's policy on data protection and privacy and seek advice from your Data Protection Officer. 
 
+(cl-inclusive-events-planning-budget)=
 ### Budget
 
 Attending and organizing events can place a large financial strain on all parties involved, and can cause cause the unintentional exclusion for many people with lived experience who may be engaging in projects as a volunteer. 
@@ -142,10 +148,12 @@ Please work with your team and the resources avaliable to address the most urgen
 
 Some areas of consideration may be:
 
+(cl-inclusive-events-planning-tickets)=
 #### Ticket Pricing
 
 If you event is ticketted, ticket prices should be set throughtfully and may consider having different tiers of pricing in addition to setting aside low cost or complimentary tickets for carers and those experiencing finacial hardship.
 
+(cl-inclusive-events-planning-honorarium)=
 #### Honorarium and Bursaries 
 
 Depending on the size of the budget and structure, creating a policy and the budget for an Accessibility Fund can help to make your event inclusive for all participants, regardless of their needs and circumstances. 
@@ -169,7 +177,7 @@ Where possible, please be mindful of the technology and process barriers that pe
 A community event attended by people with vision impairments requested a support person to type and guide them through a reimbursement form. 
 While this may not be a requirement for all types of events, consider both the budget, communication, and the GDPR requirements that would be needed for a member of staff to support attendees with the completing forms. 
 
-
+(cl-inclusive-events-planning-risk-assessment)=
 ### Risk Assessment
 
 Many organizations will require a risk assessment as part of planning an event and it is critical to consider the additional risks that may be unique to the attendees of your specific event. 
@@ -191,6 +199,7 @@ The examples provided can act as a guide, but will not be able to replace direct
 By engaging and gathering feedback from your community, and including a representative of your attendees, you will be well positioned to identify and address potential risks effectively. 
 The consideration and mitigation of risks will help to ensure that your event is accessible and welcoming to all attendees.
 
+(cl-inclusive-events-planning-staffing)=
 ### Personnel 
 
 Planning for who will be facilitating and staffing the event will help to identify what capacity your event will have to provide direct support to people with lived experience. 
@@ -206,7 +215,7 @@ Large scale conferences may also consider dedicating a member of staff for each 
 
 Although not all events will require a full team of support staff, it is useful to consider how organizers will support people with lived experience on the day of the event. 
 
-
+(cl-inclusive-events-planning-eia)=
 ### Equality Impact Assessment 
 
 Depending on the size of the event and the organization you are work with, you may be required to complete a formal Equality Impact Assessment. 
@@ -224,7 +233,7 @@ The points below can be used to help guide this discussion:
 - Will engagement in any aspects of your event be impacted by an individual's disability? 
 - What other inequalities may impact an attendee's ability to fully and equaitably engage in your event?
 
-
+(cl-inclusive-events-planning-safeguarding)=
 ### Safeguarding
 
 Although the term "people with lived experience" encompasses an intentionally wide range of circumstances, depending on your field and your event, 
@@ -251,16 +260,19 @@ and uphold the necesary safeguarding for your attendees.
 
 Please also remember that safeguarding applies to both attendees and staff and it is important to consider the physical and psychological safety of staff at your event, as well as your attendees.
 
+(cl-inclusive-events-planning-before-event)=
 ## Before the Event
 
+(cl-inclusive-events-planning-speaker-preparation)=
 ### Speakers and Moderators 
 Consider how you will support your speakers, moderators, and attendees being welcomed and comfortable with the technology your event will use. Many of the technologies used every day by some people have never been used by others. 
 
 We suggest preparing intoductions to the technologies used by your event, and hosting a "practice" session with your speakers and moderators before the event to ensure their familiarity and comfort. 
 
-
+(cl-inclusive-events-planning-during-event)=
 ## At the Event
 
+(cl-inclusive-events-planning-during-event-speakers)=
 ### Speakers and Moderators
 For speakers and moderators, you should consider how you will support them before their sessions and if they would be best supported by having an opportunity to prepare in a "Green Room" or quiet room before the session. 
 This may be especially for people with lived experience who may prefer to take medication in private or may be newer to public speaker than their research colleagues.
@@ -271,6 +283,7 @@ or by asking how they wish to be introduced to the attendees.
 If your event overlaps with a meal time, consider if their ability to eat or take a break will be impacted. If your event is in person, try to communicate with catering and ensure that there is a meal or alternative food is sourced 
 and held aside for them. 
 
+(cl-inclusive-events-planning-during-event-tech)=
 ### Technology 
 
 Depending on your event and platform, it may be helpful to organize "back up" technology on the day of the event. For example having spare batteries and spare  microphone, arranging an alternate host for Zoom, 
@@ -278,6 +291,8 @@ and providing pdfs instead of relying solely on online technology to communicate
 
 Make sure anyone who is interacting with this technology feels comfortable using it on the day. 
 
+
+(cl-inclusive-events-planning-during-event-staffing)=
 ### Personnel 
 
 Earlier in planning, you should have considered who will be needed at the event to support the involvement of people with lived experience. 
@@ -294,6 +309,8 @@ This person could be avalible during event registration or at the start of the e
 This may not be feesible for all events and may be more important for in person events, but it is important to consider how to make the event accessible and inclusive throughout. 
 Inclusion can be planned for, but it also needs implementation and support to make it happen.
 
+
+(cl-inclusive-events-planning-post-event)=
 ## After the Event
 
 Consider if you are able to make content from the event accessible to attendees, or open to a wider audience, after the event. 
