@@ -59,6 +59,14 @@ Being inclusive at the planning stages ensures that people without lived experie
 In particular, actively involving a community representative or person with lived experience in the event planning process will help to ensure both a diverse 
 perspective, and that the accessibility requirements unique to your attendees are identified. 
 
+```{note}
+If you are able to involve a member of the community, please consider how you will recognize or reimburse the time and contributions made.
+This may involve an honorarium for attending planning meetings and for time spent reviewing policies and other documents.
+You could also consider hosting some focus group sessions at regular stages to get feedback on your plans.
+Where possible, the expertise and labor of people with lived experience should be recognized and renumerated. 
+```
+
+
 To identify the event's purpose and outcomes, carefully consider your target audience and the reasons behind their inclusion. 
 It is important at this stage to define and document the purpose of public involvement in the event alongside a representative or member of the public with 
 lived experience (cite: NIHR public involvement guidance). 
