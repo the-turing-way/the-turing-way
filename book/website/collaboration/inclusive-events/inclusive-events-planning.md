@@ -90,7 +90,7 @@ environment where people with lived experience are able to engage equitably at a
 It can be helpful to acknowledge that people with lived experience are "experts by experience" to help establish equal footing with professionals and researchers who 
 are "experts by profession". 
 
-Your event may be the event of this type attended by people with lived experience and members of the public, and they may not have pursued higher education 
+Your event may be the first event of this type attended by people with lived experience and members of the public, and they may not have pursued higher education 
 compared with attendees who may be researchers by profession. 
 This can create a significant power imbalance due to comfort and experience at the event. Networking and social components of the event may feel less welcoming to people 
 with lived experience if they do not know anyone before attending. 
