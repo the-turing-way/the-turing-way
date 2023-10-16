@@ -12,7 +12,7 @@ and other professionals.
 
 This section provides guidance and considerations for how to design and host an inclusive event for a diverse audience of people with lived experience. 
 
-The recommendations are not an exhaustive list, and it is always preferable to include a specific representative or person with lived experience in the event planning 
+These recommendations are not an exhaustive list, and it is always preferable to include a specific representative or person with lived experience in the event planning 
 to ensure that your event is tailored to the needs of your specific attendees. 
 Their inclusion in decision-making processes is essential to achieving an accessible and inclusive event.
 
