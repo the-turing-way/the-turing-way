@@ -228,9 +228,10 @@ While this may not be a requirement for all types of events, consider both the b
 ### Risk Assessment
 
 Many organizations will require a risk assessment as part of planning an event and it is critical to consider the additional risks that may be unique to the attendees of your specific event. 
-Identifying any risks and mitigation strategies specific to your attendees will be critical in ensuring the safety and well-being of people with lived experience at your event. 
+Even if your organization does not require it, identifying any risks and mitigation strategies specific to your attendees will be critical in ensuring the safety and well-being of people with lived experience at your event. 
 
-You can find some examples below, however, it will be best to get feedback from, or include in planning, a representative from the community to consider the specific needs of the community you are working with at your event. 
+You can find some examples below of what to consider and capture in a risk assessment. 
+To fully assess the risk, it will be best to get feedback from, or include in planning, a representative from the community to consider the specific needs of the community you are working with at your event. 
 The examples provided can act as a guide, but will not be able to replace directly working with your community to identify potential risks. 
 
 * **Potential Risk: PTSD Triggers** An event run for people with lived experience of Post Traumatic Stress Disorder (PTSD) may need to consider the risk of session material and discussion inadvertently triggering PTSD in some attendees. As part of risk mitigation, organizers can explore ways to identify and label potential triggering material and make attendees aware of when potentially triggering content is featured at the event. It would also be suggested to provide a quiet space, resources, and onsite counselling for individuals who may be affected at the event. 
@@ -244,7 +245,7 @@ The examples provided can act as a guide, but will not be able to replace direct
 * **Potential Risk: Safety of Individuals with Cognitive Impairments** Hosting an in-person event for people with lived experience of neurodegenerative disorders or cognitive impairments that takes place at an unfamiliar location may cause distress for attendees, and put attendees at greater risk or harm when travelling to and from the location. It is important to consider alternative event options (such as remote or hybrid) and to consider how to safely ensure that attendees are able to return to their place of residence. 
  
 By engaging and gathering feedback from your community, and including a representative of your attendees, you will be well positioned to identify and address potential risks effectively. 
-The consideration and mitigation of risks will help to ensure that your event is accessible and welcoming to all attendees.
+The consideration and mitigation of risks will help to ensure that your event is accessible and welcoming to all attendees, and even if not required will be useful in planning and delivering an inclusive event.
 
 (cl-inclusive-events-planning-staffing)=
 ### Personnel 
