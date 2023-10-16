@@ -216,6 +216,7 @@ It is advisable to highlight who is responsible for payments, how any reimbursem
 Please ensure that all documentation and communication about honorarium and reimbursements are written in an Easy Read format following plain language guidance and if possible, provide clear pathways on how to submit documents. 
 People with lived experience may not have a printer in their homes and may share a computer or smartphone to take part in events. 
 Where possible, please be mindful of the technology and process barriers that people may face and make processes as clear as possible.
+Review your organization's honorarium policy, and consider what steps will be needed to align your policy with what is both recommended and what is required. 
 
 ```{admonition} Case Study
 :class: tip
