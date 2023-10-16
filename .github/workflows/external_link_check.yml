@@ -40,9 +40,9 @@ jobs:
         with:
           args: --config './lychee.toml' --no-progress 'book/website/_build/html/**/*.html'
         env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Use runners GitHub token to avoid rate limiting
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Use runner's GitHub token to avoid rate limiting
 
-      - name: Concatenate Lychee output with issue heaser
+      - name: Concatenate Lychee output with issue header
         run: |
           cat .github/workflows/resources/external_link_check_header.md lychee/out.md > issue_text.md
 
