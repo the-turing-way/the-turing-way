@@ -35,7 +35,7 @@ This may mean that attendees with child-caring responsibilities are unable to at
 
 It is also important to check that rooms, doors, restrooms, and all spaces in the venue have step-free access that is wide enough and are able to be accessed by attendees who may use mobility aids. 
 For example, ramps should be no steeper than a 1:20 gradient, doors should have a minimum clear opening width of 840mm, and any space where attendees may need to change direction 
-has a 1.5m by 1.5m space which allows for most wheelchairs to turn in a complete circle *(cite: Portsmouth city council: https://www.portsmouth.gov.uk/wp-content/uploads/2020/05/development-and-planning-design-guide-for-wheelchair-accessible-housing.pdf)*. 
+should have a 1.5m by 1.5m space which allows for most wheelchairs to turn in a complete circle *(cite: Portsmouth city council: https://www.portsmouth.gov.uk/wp-content/uploads/2020/05/development-and-planning-design-guide-for-wheelchair-accessible-housing.pdf)*. 
 Many motorized wheelchairs may be larger and require additional space to travel and turn.
 
 Note the location of access ramps and assess if you will need to provide additional signage to guide attendees who use the ramps to access the event location. 
