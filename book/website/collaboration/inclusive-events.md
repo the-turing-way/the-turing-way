@@ -31,7 +31,7 @@ It covers:
 (cl-inclusive-events-background)=
 ## Motivation and Background
 
-Every person should have the opportunity to participate fully and equally in all events and social activities – regardless of their individual ability, gender, age, ethnic or social background and there has been an increased effort in many disciplines to involve members of the public and people with lived experience in research projects. 
+Many research projects, especially within the fields of Health and Social Science, are beginning to involve members of the public in the research. This is sometimes referred to as "Public and Patient Involvement and Engagement" or "PPIE" which has a goal to actively involve people with the lived experience of a specific situation, health condition, or experience in the research process. As part of the involvement and engagement, researchers and research staff will need to plan events that are inclusive and accessible for people with lived experience, and delivered in a way that supports people with lived experience taking part equitably. 
 
 This chapter is meant to serve as a resource to support and guide researchers, organizers, and community members with the tools to identify the challenges and opportunities in organizing events that involve and include people with lived experience.
 
