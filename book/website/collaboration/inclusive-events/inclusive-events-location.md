@@ -91,7 +91,7 @@ You may want to consider if your event can reimburse attendees who need to acces
 
 In addition to sufficient parking, when visiting a venue try to check if both parking lots, and the paths to access any parking or transport links, are well-lit. 
 Proper lighting reduces the risk of falls or injury in the dark and enhances safety and helps individuals navigate comfortably, particularly for those who may have visual impairments or mobility difficulties. 
-If your event does start or end outside of daylight hours, try to organize transport or a walking group that guides people directly to and from the venue so that no one is travelling alone. 
+If your event does start or end outside of daylight hours, try to organize transport or a walking group that guides people directly to and from the venue to allow people to walk together as a group. 
 
 Events such as networking and formal dinners that continue into the evening should prioritize having well-lit pathways and common areas to ensure that attendees can move about comfortably and safely. 
 
