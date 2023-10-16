@@ -6,7 +6,8 @@ The location of your event plays a pivotal role in supporting or hindering how a
 This section provides guidance that is most relevant for in-person or hybrid events. 
 
 Whether it's a conference, seminar, or any gathering, the venue's physical location, its layout, and surrounding infrastructure can significantly 
-influence the experience of attendees with lived experience, especially those with disabilities
+influence the experience of attendees with lived experience, especially those with disabilities. 
+See below for a specific list of considerations to review when touring and comparing potential locations.
 
 Identifying and addressing the access needs of your attendees will help to both foster a welcoming environment and ensure that all attendees are able to fully engage in your event.
 
