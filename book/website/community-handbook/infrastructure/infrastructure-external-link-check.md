@@ -13,11 +13,11 @@ The schedule uses the [POSIX cron](https://docs.github.com/en/actions/using-work
 The workflow is currently configured to run once per week at midnight on Monday in the UTC+00:00 time zone.
 
 [Lychee](https://lychee.cli.rs/) is used to check the book's external links _after_ building the book.
-If the book fails to build then the workflow will fail.
+If the book fails to build then the workflow will also fail.
 The workflow uses cached results from previous runs to avoid the need to recheck all links every time the check is run.
-This does however mean that the results may not be up to date.
+However, this does mean that the results may not be up to date.
 
-The GitHub runners' GitHub token is specified as an environment variable for the Lychee action.
+The GitHub runner's GitHub token is specified as an environment variable for the Lychee action.
 This prevents false negatives due to rate limiting when testing links to GitHub.
 
 The [Lychee configuration](https://github.com/the-turing-way/the-turing-way/blob/main/lychee.toml) in the root of the repository controls the behaviour of Lychee.
