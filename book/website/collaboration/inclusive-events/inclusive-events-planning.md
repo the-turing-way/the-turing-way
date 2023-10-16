@@ -309,7 +309,7 @@ and uphold the necessary safeguarding for your attendees.
 Please also remember that safeguarding applies to both attendees and staff and it is important to consider the physical and psychological safety of staff at your event, as well as your attendees.
 
 (cl-inclusive-events-planning-before-event)=
-## Before the Event
+## Before the Event (a few weeks before)
 
 (cl-inclusive-events-planning-speaker-preparation)=
 ### Speakers and Moderators 
