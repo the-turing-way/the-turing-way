@@ -12,7 +12,7 @@ The [workflow](https://github.com/the-turing-way/the-turing-way/blob/main/.githu
 The schedule uses the [POSIX cron](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule) format to specify when the workflow should run.
 The workflow is currently configured to run once per week at midnight on Monday in the UTC+00:00 time zone.
 
-[Lychee](https://lychee.cli.rs/) is used to the books' external links _after_ building the book.
+[Lychee](https://lychee.cli.rs/) is used to the book's external links _after_ building the book.
 If the book fails to build then the workflow will fail.
 The workflow uses cached results from previous runs to avoid the need to recheck all links every time the check is run.
 This does however mean that the results may not be up to date.
