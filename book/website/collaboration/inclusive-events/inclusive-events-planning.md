@@ -24,8 +24,14 @@ and enjoyable for all participants.
 
 We can think of this in terms of “Universal Design” which is about designing an event or environment so that it can be accessed, understood, and used by all people 
 regardless of their background, age, size, ability or disability. 
-
 This is different from “Accessible Design” which focuses on designing around specific accessibility requirements. 
+
+An example of universal design is the "[Curb Cut effect](https://en.wikipedia.org/wiki/Curb_cut)" which is where curbs on sidewalks and paths are sloped down to meet the main pavement. 
+This change was originally suggested to allow wheelchair access to the street without having to step down from a high curb. 
+The changes also benefit most other pedestrians, people who use prams, cyclists, people with mobility aids, visual impairments, 
+and young people meaning that curb cuts are recognized as being a good universal design change, because they make walkways and street crossings easier to use for everyone. 
+You can read more about Universal Design on the [Universal Design Website](https://universaldesign.ie/what-is-universal-design/), 
+however, you do not need to be an expert in design to organize an inclusive and accessible event.
 
 Developing an event for a specific community, or that will include a specific group of people with lived experience can put a larger emphasis on specific accessibility 
 features that would be needed to run an inclusive event. 
@@ -84,7 +90,7 @@ Researchers, especially in niche fields, may know each other quite well or may b
 Try to consider ways to open discussion between attendees to avoid a social separation between researchers and members of the public. 
 
 Additionally, many signifiers of social class can be learnt and acquired by research professionals during their career, such as how to present and speak confidently, 
-a familarity of technology and scientific advances, 
+a familiarity of technology and scientific advances, 
 as well general comfort navigating university campuses. When unaddressed, many members of the public with lived experience may feel unwelcome at research-focused events 
 and feel unable to take part due to a perceived difference in experience and power. 
 Where possible, try to surface hidden knowledge such as what to wear, when to ask questions during a talk, and provide tutorials and support for all attendees if your event 
