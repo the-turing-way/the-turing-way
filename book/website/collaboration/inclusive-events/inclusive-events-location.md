@@ -5,11 +5,16 @@ The location of your event plays a pivotal role in supporting or hindering how a
 
 This section provides guidance that is most relevant for in-person or hybrid events. 
 
-Whether it's a conference, seminar, or any gathering, the venue's physical location, its layout, and surrounding infrastructure can significantly 
+Whether it's a conference, seminar, or any gathering, the venue's physical location, its layout, and the surrounding infrastructure can significantly 
 influence the experience of attendees with lived experience, especially those with disabilities. 
-See the Choosing a Venue section below ({ref}`cl-inclusive-events-choosing-venue`) for a specific list of considerations to review when touring and comparing potential locations.
+Where an inaccessible venue can present barriers that hinder participation and severely limit the ability of people with lived experience to engage in your event, 
+a universally inclusive venue can make your attendees feel comfortable, supported, and welcomed. 
 
-Identifying and addressing the access needs of your attendees will help to both foster a welcoming environment and ensure that all attendees are able to fully engage in your event.
+Identifying the scope of your event and ensuring that the access needs of your attendees are addressed 
+will help to both foster a welcoming environment and ensure that all attendees are able to fully engage in your event.
+As with all planning, reflect on how you will get input and feedback from your attendees with lived experience in order to 
+identify which areas to prioritize. 
+
 
 (cl-inclusive-events-choosing-venue)=
 ## Choosing a Venue
@@ -242,9 +247,5 @@ Any maps of your venue should have been included in the invitations to attendees
 Depending on the resources you have for the event, consider having a member of staff whose role is to provide guidance to people with lived experience who want support navigating the location. 
 This can have different applications depending on your event, for example, you may have someone posted in the parking lot to help direct attendees to accessible parking bays, 
 or it may also mean having someone available at the registration area who can accompany an attendee to a specific location. 
-
-
-> Where an inaccessible venue can present barriers that hinder participation and severely limit the ability of people with lived experience to engage in your event, 
-a universally inclusive venue can make your attendees feel comfortable, supported, and welcomed. 
 
 
