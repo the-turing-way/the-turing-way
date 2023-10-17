@@ -89,11 +89,11 @@ As part of resource planning and depending on the resources available, you may w
 For example, supporting bursaries that cover train tickets and travel for carers and support workers who may need to travel alongside an attendee. 
 
 You should also consider what other access requirements your attendees may require. 
-A multi-day event may involve a social dinner at a separate location which would require the organization of accessible transport options, shuttle services, or potentially a subsidy for attendees with mobility challenges who arrange their own transportation. 
+A multi-day event may involve a social dinner at a separate location which would require the organization of accessible transport options, shuttle services, 
+or potentially a subsidy for attendees with mobility challenges who arrange their own transportation. 
 
 The provision of sufficient parking, including accessible parking, is important as some participants may prefer travelling by car due to mobility impairments. 
-Try to ensure that there is adequate parking so that all attendees who wish to travel by car are able to park at no disadvantage. 
-You may want to consider if your event can reimburse attendees who need to access paid parking if there are no designated parking spaces at the venue. 
+Try to ensure that there is adequate parking and consider if your event can reimburse attendees who need to access paid parking if there are no designated parking spaces at the venue.
 
 In addition to sufficient parking, when visiting a venue try to check if both parking lots, and the paths to access any parking or transport links, are well-lit. 
 Proper lighting reduces the risk of falls or injury in the dark and enhances safety and helps individuals navigate comfortably, particularly for those who may have visual impairments or mobility difficulties. 
