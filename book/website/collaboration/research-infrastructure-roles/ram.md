@@ -43,7 +43,7 @@ The measures of success for a RAM:
 - Identifying sustainability and funding solutions in collaboration with the research team
 - Promoting the tools outside the academic field of the original research team
 - Approaching the output as a research "product" and bringing an appropriate level of "market intelligence" to the academic team
-- "Packaging" or "re-packaging" the tool to improve usability/accessibility to different audiences
+- "Packaging" or "re-packaging" the tool to improve usability and accessibility to different audiences
 
 RAMs are a solution primarily to the incentive gap problem. 
 They bring a "Team Science" mindset to the research teams and promote research best practices - a task they share with the Community Manager role.
@@ -51,7 +51,7 @@ They bring a "Team Science" mindset to the research teams and promote research b
 Both RAMs and CMs promote best practices in:
 - Interoperability of outputs 
 - Reproducibility of research findings and outputs
-- Team Science / Open Science
+- Team science and open science
 - Ethics
 - Co-creation
 - Inclusivity

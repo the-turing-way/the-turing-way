@@ -35,7 +35,7 @@ In the label, replace `keyidea1` with a word that best describes the section or 
 > The [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html) also contains _The Turing Way's_ recommendations for referencing and citation.
 
 > To include an image in your writing, use the MyST directive shown below. 
-> Remember to add your image to the `figures` [folder](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/website/figures) and use the correct path, else it will not be displayed.
+> Remember to add your image to the `figures` [folder](https://github.com/the-turing-way/the-turing-way/tree/main/book/website/figures) and use the correct path, else it will not be displayed.
 
 ```{figure} ../../figures/image-name.png
 ---

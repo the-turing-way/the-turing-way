@@ -16,7 +16,7 @@ In this document, we have listed some guidelines to maintain consistency across 
     - Even if the sentences have reference to a day in "yesterday", "today" or "tomorrow", provide the exact date inside parenthesis so that it still makes sense if someone reads a newsletter in the future.
 - **Time**: Use time in [Greenwich Mean Time](https://greenwichmeantime.com/what-is-gmt/) (GMT) or [British Summer Time](https://greenwichmeantime.com/uk/time/british-summer-time/) (BST), followed by a link from [arewemeetingyet.com](https://arewemeetingyet.com/#form) to check the time in relative time zones
 - **Links**: Use the Markdown formatting for link like this, `[text that needs to be linked](full HTTP link)`
-    - Provide links wherever useful, for example, [HackMD for Collaboration Café](https://hackmd.io/@KirstieJane/CollabCafe), [GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues), [registration pages](https://www.eventbrite.co.uk/) and [see details](https://github.com/alan-turing-institute/the-turing-way).
+    - Provide links wherever useful, for example, [HackMD for Collaboration Café](https://hackmd.io/@KirstieJane/CollabCafe), [GitHub issue](https://github.com/the-turing-way/the-turing-way/issues), [registration pages](https://www.eventbrite.co.uk/) and [see details](https://github.com/the-turing-way/the-turing-way).
     - Create link for email ids using this Markdown syntax - ``[real-email-id](mailto:real-email-id)``
     - [Too many links](https://intelligentcontacts.com/7-tips-to-keep-your-emails-out-of-the-spam-filter/) can trigger the spam filter on a recipient's inbox. try to keep them to a mimumum if you can.
 - **Quoting others**: Use smaller than (>) symbol followed by a space before the quoted sentence. For example:
@@ -28,7 +28,7 @@ In this document, we have listed some guidelines to maintain consistency across 
     - The project name, _The Turing Way_, should be italicised.
     - Use line breaks for each line consistent with _The Turing Way_ writing format.
     - Leave at least one line space after each section and subsection.
-- **Language and tone**: Keep the overall language simple and jargon-free, see [_The Turing Way_ style guide](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#style-guide) for reference.
+- **Language and tone**: Keep the overall language simple and jargon-free, see [_The Turing Way_ style guide](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md#style-guide) for reference.
     - The tone should be welcoming, friendly and preferably informal.
     This can be personal to the author's writing style.
     - Ask more than one person to review your draft to make sure that its content is easy to understand and written clearly.
@@ -48,4 +48,4 @@ In this document, we have listed some guidelines to maintain consistency across 
     - Below the image, write a short descriptive title for the image followed by an empty line.
     Link title to the source such as a tweet or related event.
     - When using multiple images as panels in one collective image, number each image clearly (this can be done in any photo or text editor) and provide a numbered title for each image.
-    See an example [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/communications/newsletters/newsletter_14_May2020.md#tweets-from-the-community).
+    See an example [here](https://github.com/the-turing-way/the-turing-way/blob/main/communications/newsletters/newsletter_14_May2020.md#tweets-from-the-community).

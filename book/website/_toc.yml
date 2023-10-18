@@ -8,7 +8,6 @@
 # - header: My Header  # Will insert a header with no link in the sidebar
 
 # ===== Main Landing Page ========================================
-
 format: jb-book
 root: index
 parts:
@@ -49,24 +48,31 @@ parts:
           - title: Version Control
             file: reproducible-research/vcs
             sections:
-              - title: General Workflow
+              - title: Version Control Workflow
                 file: reproducible-research/vcs/vcs-workflow
-              - title: Getting Started with Git
+              - title: Version Control and Branches
+                file: reproducible-research/vcs/vcs-workflow-branches
+              - title: The Git Version Control Software
+                file: reproducible-research/vcs/vcs-git-general
+              - title: Git for Research Projects
+                file: reproducible-research/vcs/vcs-git-in-research
+              - title: Git Using the Command Line
                 file: reproducible-research/vcs/vcs-git
-              - title: Git Commit Command
-                file: reproducible-research/vcs/vcs-git-commit
-              - title: Retrieving and Comparing Versions
-                file: reproducible-research/vcs/vcs-git-compare
-              - title: Git Branches
-                file: reproducible-research/vcs/vcs-git-branches
-              - title: Merging Branches in Git
-                file: reproducible-research/vcs/vcs-git-merge
-              - title: Interactive, Visual Git
-                file: reproducible-research/vcs/vcs-git-interactive
-              - title: Git Commands to Work on GitHub
-                file: reproducible-research/vcs/vcs-github
-              - title: Summary Table of Git Commands
-                file: reproducible-research/vcs/vcs-git-summary
+                sections:
+                  - title: Git Commit Command
+                    file: reproducible-research/vcs/vcs-git-commit
+                  - title: Retrieving and Comparing Versions
+                    file: reproducible-research/vcs/vcs-git-compare
+                  - title: Git Branches
+                    file: reproducible-research/vcs/vcs-git-branches
+                  - title: Merging Branches in Git
+                    file: reproducible-research/vcs/vcs-git-merge
+                  - title: Interactive, Visual Git
+                    file: reproducible-research/vcs/vcs-git-interactive
+                  - title: Git Commands to Work on GitHub
+                    file: reproducible-research/vcs/vcs-github
+                  - title: Summary Table of Git Commands
+                    file: reproducible-research/vcs/vcs-git-summary
               - title: Version Control for Data
                 file: reproducible-research/vcs/vcs-data
               - title: Personal Stories
@@ -84,6 +90,8 @@ parts:
                 file: reproducible-research/licensing/licensing-software
               - title: Data Licenses
                 file: reproducible-research/licensing/licensing-data
+              - title: Hardware Licenses
+                file: reproducible-research/licensing/licensing-hardware
               - title: Machine Learning Model Licenses
                 file: reproducible-research/licensing/licensing-ml
                 sections:
@@ -155,6 +163,8 @@ parts:
             sections:
               - title: Code Style and Formatting
                 file: reproducible-research/code-quality/code-quality-style
+              - title: Writing Robust Code
+                file: reproducible-research/code-quality/code-quality-robust.md
               - title: Checklist and Resources
                 file: reproducible-research/code-quality/code-quality-resources
           - title: Code Testing
@@ -247,6 +257,7 @@ parts:
               - title: A Statistical Methods Manuscript
                 file: reproducible-research/case-studies/case-study-statistical
 
+
       # ===== Guide for Project Design ========================================
 
       - file: project-design/project-design
@@ -338,6 +349,11 @@ parts:
                 file: project-design/sdpw/pd-sdp-exposing-data
               - title: Further Recommendations
                 file: project-design/sdpw/pd-sdp-resources
+          - title: Data Governance
+            file: project-design/data-governance
+            sections:
+              - title: Data Governance for the Machine Learning Pipeline
+                file: project-design/data-governance/data-gov-ml
 
       # ===== Guide for Communication ========================================
 
@@ -504,6 +520,11 @@ parts:
             file: collaboration/coworking
           - title: Organising Conferences
             file: collaboration/organising-conference
+            sections:
+              - title: Registration Forms
+                file: collaboration/organising-conference/reg-forms
+              - title: Template for Registration Form
+                file: collaboration/organising-conference/reg-form-template
           - title: Chairing Events
             file: collaboration/chairing
           - title: Participating in Events
@@ -512,6 +533,8 @@ parts:
             file: collaboration/informal-chats
           - title: Tools for Facilitating Collaboration
             file: collaboration/event-tools
+          - title: Facilitating Stakeholder Engagement
+            file: collaboration/stakeholder-engagement
           - title: Managing a New Community and Team
             file: collaboration/new-community
             sections:
@@ -523,13 +546,30 @@ parts:
                 file: collaboration/new-community/new-community-differences
               - title: Teamwork
                 file: collaboration/new-community/new-community-teamwork
+          - title: Academic-Industry Collaborations
+            file: collaboration/academic-industry
+            sections:
+              - title: Establishing an Academic-Industry Collaboration
+                file: collaboration/academic-industry/academic-industry-establish
+              - title: Community Building in an Academic-Industry Collaboration
+                file: collaboration/academic-industry/academic-industry-community
+              - title: Turing-Roche Community Activities Personal Story
+                file: collaboration/academic-industry/academic-industry-personal-story
           - title: Team Manual
             file: collaboration/team-manual
-          - title: Leadership in Data Science
+          - title: Open Leadership in Data Science
             file: collaboration/leadership
             sections:
-              - title: Personal Stories of Leadership
-                file: collaboration/leadership/leadership-stories
+              - title: Important Features of Leadership
+                file: collaboration/leadership/leadership-features
+              - title: Building Healthy Leadership Skills
+                file: collaboration/leadership/leadership-building
+              - title: Creating Leadership Opportunities
+                file: collaboration/leadership/leadership-opportunities
+              - title: Personal Story from Running a Hackathon
+                file: collaboration/leadership/leadership-story-hackathon
+              - title: Personal Story of Leadership by a Data Librarian
+                file: collaboration/leadership/leadership-story-data-librarian
           - title: Research Infrastructure Roles
             file: collaboration/research-infrastructure-roles
             sections:
@@ -560,6 +600,15 @@ parts:
                 file: collaboration/remote-collab/remote-collab-team
               - title: Useful Resources
                 file: collaboration/remote-collab/remote-collab-useful-resources
+          - title: Hybrid Collaboration
+            file: collaboration/hybrid-collab
+            sections:
+              - title: Challenges faced during Hybrid Collaboration
+                file: collaboration/hybrid-collab/hybrid-collab-challenges
+              - title: Guidelines for Hybrid Collaboration
+                file: collaboration/hybrid-collab/hybrid-collab-guidelines
+              - title: Resources
+                file: collaboration/hybrid-collab/hybrid-collab-resources
           - title: Shared Ownership in Open Source Projects
             file: collaboration/shared-ownership
             sections:
@@ -604,6 +653,8 @@ parts:
                 file: ethical-research/activism/activism-whistleblowing
               - title: Cultural change
                 file: ethical-research/activism/activism-cultural-change
+              - title: The Environmental Impact of Digital Research
+                file: ethical-research/activism/activism-env-impact
               - title: Case study - Robodebt
                 file: ethical-research/activism/activism-robodebt
               - title: Case study - Google Workers
@@ -679,6 +730,24 @@ parts:
                 file: community-handbook/acknowledgement/acknowledgement-record
               - title: Different Contributions and Acknowledgements
                 file: community-handbook/acknowledgement/acknowledgement-examples
+          - title: Translation and Localisation
+            file: community-handbook/translation
+            sections:
+              - title: Translation of Open Source Projects
+                file: community-handbook/translation/translation-localisation
+              - title: Welcome to the localisation team of The Turing Way!
+                file: community-handbook/translation/translation-workflow
+              - title: Embark on Your Localisation Journey
+                file: community-handbook/translation/translation-getting-started
+              - title: Your Gateway to Crowdsourced Localisation
+                file: community-handbook/translation/translation-hello-crowdin
+          - title: Infrastructure
+            file: community-handbook/infrastructure
+            sections:
+              - title: Publishing Contributors
+                file: community-handbook/infrastructure/infrastructure-contributors
+              - title: External Link Checking
+                file: community-handbook/infrastructure/infrastructure-external-link-check
           - title: Monthly Newsletters
             file: community-handbook/newsletters
             sections:
@@ -744,17 +813,6 @@ parts:
                 file: community-handbook/templates/template-newsletter-draft
               - title: Template for Fireside Chat Shared Notes
                 file: community-handbook/templates/template-fireside-chat
-          - title: Translation and Localisation
-            file: community-handbook/translation
-            sections:
-              - title: Localisation
-                file: community-handbook/translation/translation-localisation
-              - title: Workflow
-                file: community-handbook/translation/translation-workflow
-              - title: Getting started
-                file: community-handbook/translation/translation-getting-started
-              - title: Hello Crowdin
-                file: community-handbook/translation/translation-hello-crowdin
 
       # ===== Afterword ========================================
 

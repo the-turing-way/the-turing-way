@@ -1,6 +1,8 @@
 {
+  "_comment": "This JSON file controls the behaviour of the all contributors bot. A description of the keys can be found here: https://allcontributors.org/docs/en/bot/configuration",
   "files": [
-    "README.md"
+    "README.md",
+    "book/website/afterword/contributors-record.md"
   ],
   "imageSize": 100,
   "contributorsPerLine": 7,
@@ -252,7 +254,8 @@
       "contributions": [
         "ideas",
         "doc",
-        "review"
+        "review",
+        "eventOrganizing"
       ]
     },
     {
@@ -773,7 +776,8 @@
       "profile": "http://yo-yehudi.com",
       "contributions": [
         "doc",
-        "review"
+        "review",
+        "ideas"
       ]
     },
     {
@@ -3865,7 +3869,8 @@
       "profile": "https://theabstract.github.io/",
       "contributions": [
         "bug",
-        "review"
+        "review",
+        "content"
       ]
     },
     {
@@ -4143,7 +4148,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/54219127?v=4",
       "profile": "https://goodnewssandy.netlify.app/",
       "contributions": [
-        "bug"
+        "bug",
+        "content",
+        "review"
       ]
     },
     {
@@ -4274,10 +4281,117 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "SaraVilla",
+      "name": "Sara Villa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43204602?v=4",
+      "profile": "https://github.com/SaraVilla",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ciupava",
+      "name": "Anna Zanchetta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3450313?v=4",
+      "profile": "https://github.com/ciupava",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "spier",
+      "name": "Sebastian Spier",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163029?v=4",
+      "profile": "https://spier.hu",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "srtee",
+      "name": "Shern Tee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60586092?v=4",
+      "profile": "https://github.com/srtee",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Susana465",
+      "name": "Susana Roman Garcia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73224467?v=4",
+      "profile": "https://susana465.github.io/",
+      "contributions": [
+        "question"
+      ]
+    },
+    {
+      "login": "mosoriob",
+      "name": "Maximiliano Osorio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2365990?v=4",
+      "profile": "https://mosorio.dev",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Nolski",
+      "name": "Mike Nolan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2600677?v=4",
+      "profile": "http://nolski.rocks",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "benvanwerkhoven",
+      "name": "Ben van Werkhoven",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2337546?v=4",
+      "profile": "https://github.com/benvanwerkhoven",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "drjwbaker",
+      "name": "James Baker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4965300?v=4",
+      "profile": "http://cradledincaricature.com/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "arya1302",
+      "name": "Arya A",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73542599?v=4",
+      "profile": "https://github.com/arya1302",
+      "contributions": [
+        "code",
+        "review",
+        "doc",
+        "bug",
+        "content",
+        "ideas",
+        "infra",
+        "userTesting",
+        "test"
+      ]
+    },
+    {
+      "login": "JaroCamphuijsen",
+      "name": "Jaro Camphuijsen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12695232?v=4",
+      "profile": "https://github.com/JaroCamphuijsen",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
-  "projectOwner": "alan-turing-institute",
+  "projectOwner": "the-turing-way",
   "repoType": "github",
   "repoHost": "https://github.com",
   "commitConvention": "none",

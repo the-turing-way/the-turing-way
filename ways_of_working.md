@@ -31,14 +31,17 @@ It further outlines expectations and responsibilities with regard to working on 
 | Luke Hare <br>([lukehare](https://github.com/lukehare)) | Research Data Scientist, The Alan Turing Institute | Turing Binder Administrator | 2021 - Present | - |
 | Camila Rangel-Smith <br>([crangelsmith](https://github.com/crangelsmith)) | Senior Research Data Scientist, The Alan Turing Institute | The Turing Way Translation and Localisation Co-Lead | 2020 - Present | - |
 |  Batool Almarzouq <br>([BatoolMM](https://github.com/BatoolMM)) | Postdoctoral Researcher, KAIMRC and Honorary Research Fellow, The University of Liverpool  | The Turing Way Translation and Localisation Co-Lead | 2020 - Present | - |
-| Alejandro Coca Castro <br>([acocac](https://github.com/acocac)) | Postdoctoral Research Associate, The Alan Turing Institute | The Turing Way Translation and Localisation Co-Lead | 2021 - Present | - |
+| Alejandro Coca Castro <br>([acocac](https://github.com/acocac)) | Research Fellow, The Alan Turing Institute | in-kind contribution, Environmental Data Science book Co-Lead | 2021 - Present | The Turing Way Translation and Localisation Co-Lead, 2021 - May 2023 (in-kind) |
 | Andrea Sánchez-Tapia <br>([AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)) | Independent researcher | The Turing Way Translation and Localisation Co-Lead | 2021 - Present | - |
+| Melissa Black <br>([melibleq](https://github.com/melibleq)) | Infrastructure and Impact Measurement Manager at Metadocencia | The Turing Way Translation and Localisation Co-Lead | 2023 - Present | - |
 |  Danny Garside <br>([@da5nsy](https://github.com/da5nsy)) | Postdoctoral Visiting Fellow, National Institutes of Health (NIH) | The Turing Way Infrastructure Maintainers Co-lead | 2021 - Present | - |
 |  Jim Madge <br>([@JimMadge](https://github.com/JimMadge)) | Senior Research Software Engineer, The Alan Turing Institute | The Turing Way Infrastructure Maintainers Co-lead | 2022 - Present | - |
 |  Brigitta Sipőcz <br>([@bsipocz](https://github.com/bsipocz)) | Research Software Engineer, Caltech/IPAC -- NASA/IPAC Infrared Science Archive | The Turing Way Infrastructure Maintainers Co-lead | 2022 - Present | - |
 | Bastian Greshake Tzovaras <br>([@gedankenstuecke](https://github.com/gedankenstuecke)) | Senior Researcher, The Alan Turing Institute | 10% | 2023 - Present | - |
 | Christopher Burr <br>([@chrisdburr](https://github.com/chrisdburr)) | Senior Researcher, The Alan Turing Institute | 10% | 2023 - Present | - |
 | Gabin Kayumbi <br>([@gabinwk](https://github.com/gabinwk)) |Senior Research Community Manager, The Alan Turing Institute | 10% | 2023 - Present | - |
+| Cassandra Gould van Praag <br>([@cassgvp](https://github.com/cassgvp)) |Senior Research Community Manager, The Alan Turing Institute | 10% | 2023 - Present | - |
+| Liz Hare | <br>([@LizHareDogs](https://github.com/LizHareDogs)) | Dog Genetics LLC | The Turing Way Accessibility Co-Lead | 2023 - Present | - |
 
 ## Previous Project Members
 
