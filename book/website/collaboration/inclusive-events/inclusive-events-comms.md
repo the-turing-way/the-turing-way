@@ -49,7 +49,7 @@ This will also be supportive of attendees with busy schedules who may be booked 
 
 Your Save the Date should include an overview of honorarium or reimbursement support, the date, and the approximate location of the event such as Zoom, 
 or the name of the City where the event will take place. 
-It should also reference how long the event is likely to be, for example, if it's a multi-day event, or a few hours. 
+It should also reference how long the event is likely to be, for example, if it's a multi-day event or a few hours. 
 
 Attendees with a lived experience of caring responsibilities may need to hire and arrange alternative care support in order to attend your event, 
 or could be placed at a significant financial disadvantage if they travel and attend. 
@@ -60,11 +60,10 @@ For example, sending out an online calendar placeholder, an email invitation wri
 and promoting Save the Date information through your usual communication channels such as Slack, LinkedIn or organization's website and social media. 
 This can ensure that people who use different communication channels are able to receive the information in a medium that is accessible to them and through the channel they are most comfortably using. 
 
-```
-Example:
+```{note} 
 The Public and Patient Involvement and Engagement Community for people with experience of Multiple Long-Term Conditions had asked event organizers to send out both calendar invitations compatible with Outlook and Google calendars, and email invitations. 
 
-This was to support the community members who often needed to manage event attendance around medical appointments, as well as supporting those who had visual impairments and would benefit from digital tools providing reminders.
+This was to support the community members who often needed to manage event attendance around medical appointments, as well as support those who had visual impairments and would benefit from digital tools providing reminders.
 
 Many of the MLTC PPIE Community expressed that they would not regularly check emails and instead would rely on their calendars, however, some members of the community expressed the opposite and did not use digital calendars but would download and print out flyers for their notice boards. 
 
@@ -86,7 +85,7 @@ For example, communicating that your event will be hybrid may allow people who o
 
 This announcement should also contain information about how to register for the event, the finalized location, and a preliminary program. 
 
-```
+```{tip}
 Autism Advocacy suggests that schedules for multi-day events should be sent at least one month in advance which includes details about transport
 and its proximity to the event location, training session names, speaker names, breaks, and planned schedule, and at least 2 weeks in advance for events taking place on a single day.
 The [Autism Advocacy Accessible Event Planning Guide](https://autisticadvocacy.org/wp-content/uploads/2019/05/Accessible-Event-Planning.pdf) also contains other recommendations and timeline guidance for running events for autistic people.
@@ -419,11 +418,11 @@ This is not an exhaustive list of what to include in core communication, however
       You can include examples or reference images if it is particularly important to be dressed a certain way, for example, a research event that may be visited by a Royal Family or other dignitary. 
     * Where possible at your event, support the adoption of a casual dress code. Business or Formal wear can be cost prohibitive and inaccessible to those with mobility difficulties or sensory processing differences.
 
-:::info
+```{note}
 What to wear to research events can often differ greatly between fields. 
 For example, some prominent researchers and a Nobel laureate have become known for not wearing shoes and avoiding formal wear at events. 
 By making clear expectations and supporting people with lived experience attending your event, you are also helping make your event more inclusive and welcoming to all attendees in a non-judgemental space.
-:::
+```
 
 
 (cl-inclusive-events-comms-during-event)=
@@ -443,12 +442,12 @@ It is especially important to consider how you will communicate when there will 
 or a video that could be difficult or uncomfortable for attendees with sensory processing differences to experience. 
 Consider communicating an overview of a session's content before it begins to allow attendees to prepare or choose to leave the session. 
 
-
-:::info
-Example: Below is a good example of proactive communication from an organization related to a service dog joining the office. 
+```{tip}
+Below is a good example of proactive communication from an organization related to a service dog joining the office. 
 It addresses both the accessibility requirement of the person who will be accompanied by a service animal, and also opens a line of communication with an 
 identified point of contact for anyone who may be impacted due to allergies or a fear of dogs. 
 This message was shared by email and on a company intranet - the two most common places to receive company communications, making it effective at reaching its staff and community.
+```
 
 > Dear Community,
  
@@ -457,7 +456,6 @@ This message was shared by email and on a company intranet - the two most common
  
 > If you have any allergies or require any adjustments, please contact the general facilities email address.
 
-:::
 
 Consider what channels your attendees with lived experience receive information from and try to match those in your event communications. 
 For example, some attendees may need to be called on the phone to receive information, or they may require a text instead of an email. 
