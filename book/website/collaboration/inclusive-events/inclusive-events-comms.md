@@ -103,7 +103,7 @@ When deciding on what platform to use please review the accessibility of a poten
 For example, [Eventbrite provides accessibility guidance](https://www.eventbrite.com/blog/66754-2how-to-creat-an-accessible-event-listing-ds00/) for event pages hosted on their platform. 
 
 There are two main considerations for your event website:
-**Acessibility** and **Content**. 
+{ref}`cl-inclusive-events-comms-website-accessibility` and {ref}`cl-inclusive-events-comms-website-content`. 
 
 (cl-inclusive-events-comms-website-accessibility)=
 ### Website Accessibility
@@ -117,7 +117,8 @@ Your website should meet Web Accessibility Standards by following the 4 WCAG pri
   If you are using an external registration website, please check the accessibility guidance of that site to ensure that this feature is enabled.
   It is incredibly important for people who use screen readers and others who may need more time to read and complete a form due to dyslexia, familiarity with the event's host language, or any other reason that impacts reading and language comprehension.
   Operability also requires that web pages have an informative title for the content on the page.
-- **Understandability** refers a lot to content being written in easy read, or plain language formats which is discussed in more depth below. [****]
+- **Understandability** refers to how easy is it for a general audience to understand your website's use and content.
+  For example, content being written in easy read, or plain language formats. This is discussed in more depth in the {ref}`cl-inclusive-events-comms-plain-language` section below.
   The Web Accessibility guidelines ask that any technical terms, jargon, idioms, slang and abbreviations be accompanied by a definition.
   Ideally, your site will also contain references to a Glossary that is linked to when those words appear.
   You may need to develop a Glossary specific to your event and area, or consider what Glossaries have been developed by research funding bodies or University Communications teams and provide links if applicable. 
@@ -209,7 +210,7 @@ This can be helpful for people with lived experience of cognitive or sensory dif
 (cl-inclusive-events-comms-attendees)=
 ## Who will be attending
 People with lived experience may experience additional anxiety due to being in an unfamiliar environment where they can often feel like their presence is tokenistic. 
-If you have planned your event well, attendees with lived experience should be feeling welcomed and able to engage fully in the event.
+If you have planned your event well, attendees with lived experience should feel welcomed and able to engage fully in the event.
 
 It can be helpful in your communications to state who will be in attendance.
 For example "researchers, clinicians, policymakers, funding bodies, and people with lived experience". 
@@ -226,7 +227,7 @@ By requesting slides and presentation content ahead of the event you will be bes
 Consider how you will support speakers in developing accessible and inclusive material. 
 This may mean developing and sharing guidance on session content, or could also be giving feedback on presentation drafts. 
 Ensure that you contact and confirm your speakers with enough notice that allows them to prepare and revise material. 
-Please refer to the [Accessible Content] section below for more recommendations on what to include in a speaker guidance pack. 
+Please refer to the {ref}`cl-inclusive-events-comms-accessibility-guide` section for more recommendations on what to include in a speaker guidance pack for how to make presentations accessible. 
 
 It is best practice to send out content before the session or event to ensure that people with sensory impairments are able to understand and take part. 
 If this is not possible, please address the reasons why in the opening address of the event and make alternative arrangements.
@@ -235,8 +236,8 @@ For example, if the information is sensitive and unable to be shared due to Inte
 If the content is able to be shared but was not sent out before the event started consider sending out notes, session minutes, 
 and session content during - or - as soon as possible, after the session. 
 You could also consider taking collaborative notes during the session and making the document link available for attendees. 
-HackMD or Google Docs are recommended for their accessibility support features, and Etherpad can support a larger number of contributors. 
-Additional guidance on tools for taking collaborative notes can be found in [https://the-turing-way.netlify.app/collaboration/event-tools#creating-shared-notes.]
+[HackMD](https://hackmd.io) or [Google Docs](https://www.google.co.uk/docs/about/) are recommended for their accessibility support features, and Etherpad can support a larger number of contributors. 
+Additional guidance on tools for taking collaborative notes can be found in {ref}`cl-event-tools`.
 
 If information cannot be shared externally and made accessible, consider providing a note taker who is able to provide live notes in a secure location accessible to attendees only for the duration of the event.
 
@@ -293,7 +294,7 @@ This can help acknowledge and respect the cultural differences of your attendees
 (cl-inclusive-events-comms-plain-language-resources)=
 #### Resources for Writing in Plain Language
 The Office for National Statistics in the UK has [published a short guide on writing with Plain Language](https://service-manual.ons.gov.uk/content/writing-for-users/plain-language), 
-and there are online tools such as the [Hemingway App](https://hemingwayapp.com/) which gives you feedback on your writing to make it clearer. 
+and there are online tools such as the [Hemingway App](https://hemingwayapp.com/) which give you feedback on your writing to make it clearer. 
 If you have a Microsoft Word account, there is also a feature (and [instructions on how to use it](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2?ui=en-us&rs=en-us&ad=us#__toc342546555)) which provides the reading level of your document's content.
 
 (cl-inclusive-events-comms-plain-language-summaries)=
@@ -301,7 +302,7 @@ If you have a Microsoft Word account, there is also a feature (and [instructions
 If your event has a large focus on research content, consider writing plain language summaries of core content so that people with lived experience 
 who do not have a background in research are able to engage in the sessions and understand the projects that are discussed. 
 
-Please refer to [The Turing Way's chapter on Lay Summaries](https://the-turing-way.netlify.app/communication/lay-summaries.html) for more guidance, 
+Please refer to The Turing Way's chapter on {ref}`cm-lay-summaries` for more guidance.
 and you can view good examples of plain language summaries from the [AI for Multiple Long Term Conditions research projects](https://aim-rsf.github.io/Glossary-of-Terms/pages/aim-projects.html). 
 
 (cl-inclusive-events-comms-accessibility-guide)=
@@ -483,14 +484,4 @@ By demonstrating an open channel of communication about accessibility, and by be
 (cl-inclusive-events-comms-additional-resources)=
 ## Additional Resources
 - Employer Assistance and Resource Network on Disability Inclusion [Guide on Person-First and Identity-First Language](https://askearn.org/page/people-first-language)
-
-
-
-
-
-
-
-
-
-
 
