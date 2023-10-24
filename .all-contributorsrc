@@ -4416,6 +4416,15 @@
         "content",
         "review"
       ]
+    },
+    {
+      "login": "ereynaud",
+      "name": "Emmanuel G. REYNAUD",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12295393?v=4",
+      "profile": "https://github.com/ereynaud",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "projectName": "the-turing-way",
