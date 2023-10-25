@@ -105,7 +105,7 @@ Where possible, try to surface hidden knowledge such as what to wear, when to as
 requires the use of a particular technology like Slack or Slido. 
 
 There are many ways to address the power imbalance and it is best to get recommendations from your community to tailor to your event. 
-Building rapport and respect between attendees will help your event in fostering meaningful collaboration and knowledge exchanges between researchers and people with lived experience. 
+Building rapport and respect between attendees will help your event foster meaningful collaboration and knowledge exchanges between researchers and people with lived experience. 
 
 During the opening session, try to encourage open and respectful dialogue between all attendees and create spaces where attendees can ask questions, share their perspective, 
 and engage meaningfully in conversations. 
@@ -113,7 +113,7 @@ This may require active facilitation of conversations to support attendees with 
 It can also be useful to allow attendees to self-identify and differentiate by interest rather than by profession (for example by labelling networking tables with a topic, 
 or putting only names and pronouns on name badges instead of including someone's name, profession, and university affiliation or workplace).
 
-Depending on the event length and the resources available, it may be helpful to provide training on effective communication and collaboration to both experts by profession and experts by experience attendees. 
+Depending on the event length and the resources available, it may be helpful to provide training on effective communication and collaboration to both experts by profession and experts by experience in attendance. 
 Supporting the development of scientific communication skills for all attendees can help bridge any gaps in understanding and enable all attendees to engage in discussion on an equal footing. 
 Training sessions could be part of the event promotional schedule if there are several months - and the resources available - before the event. 
 Alternatively, training could also be featured in the program as one of the initial event sessions.
@@ -211,7 +211,7 @@ This is a Fund that can be applied to cover additional costs that would support 
 
 It will be important to create a clear and understandable policy for what activities and costs can be covered by an Accessibility fund. 
 Honorariums and Reimbursements may have separate policies and timelines, and it is important to be as transparent as possible in order to support people with lived experience engaging in your event. 
-It is advisable to highlight who is responsible for payments, how any reimbursement procedures will work and their expected timeline, and clear guidance on what expenses will be covered. 
+It is advisable to highlight who is responsible for payments, how any reimbursement procedures will work and their expected timeline, and clear guidance on what expenses will be covered. The UK's National Institute for Health and Care Research has published [Guidance on Payment](https://www.nihr.ac.uk/documents/payment-guidance-for-researchers-and-professionals/27392) for researchers who need to cost public involvement activities at any stage of the research process that can be used as a reference for developing your event's honorarium policy.
 
 Please ensure that all documentation and communication about honorarium and reimbursements are written in an Easy Read format following plain language guidance and if possible, provide clear pathways on how to submit documents. 
 People with lived experience may not have a printer in their homes and may share a computer or smartphone to take part in events. 
