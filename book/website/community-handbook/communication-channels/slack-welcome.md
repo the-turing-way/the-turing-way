@@ -30,7 +30,7 @@ Slack is one of our core communication channels within the *The Turing Way* comm
 * [#events](https://theturingway.slack.com/archives/C017WM4QD24): for upcoming events in the open science network
 * [#jobs-and-opportunities](https://theturingway.slack.com/archives/C02SNNW40BZ): for jobs, workshops, and other related opportunities
 * [#reading-recommendations](https://theturingway.slack.com/archives/C0256MW3HDW): For reading recommendations from community members
-* [#research-data-management](https://theturingway.slack.com/archives/C01FATFLDPA): For folks with an interest in research data management skills, practices, and tools
+* [#research-data-management](https://theturingway.slack.com/archives/C01FATFLDPA): For folks with an interest in research data management skills, practices, and tools.
 
 *We also have Slack channels dedicated to each guide*:
 * [#guide-for-collaboration](https://theturingway.slack.com/archives/C01LUTU8FPD)
@@ -39,8 +39,7 @@ Slack is one of our core communication channels within the *The Turing Way* comm
 * [#guide-for-project-design](https://theturingway.slack.com/archives/C01M7B1T95F)
 * [#guide-for-reproducibility](https://theturingway.slack.com/archives/C023KPNR2N4)
 
-
-If there are any other channels you'd like to see used here, 
+If there are any other channels you'd like to see in the workspace, or ones that we use that you don't see listed here – please feel free to correct this page by making an issue or pull request on Github.
 
 ## Best Practices for using Slack
 
@@ -56,7 +55,7 @@ We are in the process of developing platform-specific guidelines for Slack and o
 
 In general, we encourage an approach to Slack that is as accessible as possible, for as many people as possible. Please practice kindness when you communicate with others, and be mindful of cultural, linguistic, disability, and individual differences that may affect how people communicate online. 
 
-Is there anything we are missing? Please reach out to the Community Manager Anne Lee Steele on Slack or by email at asteele@turing.ac.uk, or to any members of the core team listed on this [Ways of Working document](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md).
+Is there anything we are missing? Please reach out to the Research Community Manager Anne Lee Steele on Slack or by email at asteele@turing.ac.uk, or to any members of the core team listed on this [Ways of Working document](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md).
 
 ## Getting started with The Turing Way
 
