@@ -10,17 +10,19 @@ The project has its roots in the [Mozilla Open Leadership](https://mozilla.githu
 
 *The Turing Way* has been funded by The Alan Turing Institute since the very beginning.
 Due to close relationships with the Jupyter Project, the book was written in JupyterBook.
-A GitHub repository was made for the project, and internal processes decided in how to acknowledge authorship works within the project (i.e. installation of Welcome bot, All-Contributors bot) and collaborative spaces and events to contribute to the guides were created (such as Collaboration Cafe, Book Dash).
+A GitHub repository was made for the project, and internal processes decided in how to acknowledge authorship works within the project (i.e. installation of Welcome bot, All-Contributors bot) and collaborative spaces and events to contribute to the guides were created (such as the Collaboration Cafe and Book Dash).
 In-person workshops were given on tools aligned with the project (particulary Binder and JupterBook).
 The project was presented in many conferences across the UK and internationally.
 
 ## Development and Growth (2019-2021)
 
-With the addition of Dr. Malvika Sharan in late 2019 as the community manager, *The Turing Way* continued to evolve and grow.
-As a co-founder of [Open Life Science](https://openlifesci.org/) (which uses many Mozilla open leadership frameworks), Malvika helped to incubate what are now key partnerships for ***The Turing Way*** within the wider 'open science' ecosystem.
+With the addition of Dr. Malvika Sharan in late 2019 as the community manager, *The Turing Way* continued to evolve and grow as it received more support and visibility.
+Malvika helped to incubate what are now key partnerships for ***The Turing Way*** within the wider 'open science' ecosystem, and helped to usher in the expansion of the project.
 This period corresponded with the COVID-19 pandemic lockdowns, which transitioned many processes of contribution, collaboration, and documentation into remote ones.
+For many, it also became clear that reproducibility on its own is not sufficient to address the major challenges (including incentive challenges!) faced by research data scientists.
 
-In part due to this, *The Turing Way* was able to expand greatly, from one guide on reproducibility into five different guides related to project design, communication, collaboration, and research ethics – as it soon became clear that addressing the problems that research data scientists face required addressed many aspects of the research process.
+In part due to all these factors, *The Turing Way* was able to expand greatly, from one guide on reproducibility into five different guides related to project design, communication, collaboration, and research ethics.
+
 A global (and multilingual) community began to engage with *The Turing Way*, and the process of translation/localisation began informally.
 A Community Handbook was also established to document best practices that could be used by other communities.
 The Fireside Chat series was established in late 2021, facilitating shared spaces with networks and allies from across the open science ecosystem.
@@ -32,11 +34,19 @@ The Book Dash Planning Committe was established in early 2022 to plan the commun
 In 2022, Malvika and Kirstie became co-leads of *The Turing Way*, and welcomed Anne Lee Steele as the new community manager.
 As the number of contributors to the project has grown to over 400 people, The Turing Way has also developed into a kind of ["community of communities"](https://ben.balter.com/2019/07/18/a-community-of-communities-oscon-2019/).
 Many ongoing projects have been developing alongside the expansion of the guides, demonstrating the need for internal systems that enable the sustainability and maintenance of the project more broadly.
-Initial governance work began in 2022, with hybrid hubs hosting events across multiple time zones and working groups developed to formalise localisation and translation, reviewing & editing, training and mentorship, accessibility, and infrastructure within the project.
+Many projects have grown that have adopted and used practices from *The Turing Way*.
+The core team of the project, which brought together Turing staff and volunteer leaders of the project was brought in in 2022.
 
-2023 saw the incubation of *The Turing Way* Practioner's Hub that aims to bring *The Turing Way* into the hands and ways of working of industry leaders, as well as a transition into a separate Github organisation for *The Turing Way* project.
-2024 aims to usher even more changes for the project as governance continues to develop, and see its sustainability solidify, alongside supporting a vibrant open ecosystem.
-It also saw an expansion of the team, with the addition of Alexandra Araujo Alvarez as TTW's first Project Manager.
+Initial governance work began in 2022 with hybrid hubs hosting events across multiple time zones and working groups developed to formalise localisation and translation, reviewing & editing, training and mentorship, accessibility, and infrastructure within the project.
+The number of talks and workshops given by community members also expanded.
+
+In 2023, *The Turing Way* delivery team expanded, with the addition of Alexandra Araujo Alvarez as TTW's first Project Manager.
+The Practioner's Hub was incubated with 5 Experts-in-Residence (EiR) that aims to bring *The Turing Way* into the hands and ways of working of industry leaders.
+The open infrastructure of the project has also expanded, as *The Turing Way* moved to separate Github organisation.
+
+In 2024, there will be even more changes for the project as governance continues to develop and see its sustainability solidify, alongside supporting a vibrant open ecosystem.
+>>>>>>> d33b79bd6 (edited worded and ex)
+
 
 ---
 
