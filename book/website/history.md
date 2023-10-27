@@ -16,8 +16,8 @@ The project was presented in many conferences across the UK and internationally.
 
 ## Development and Growth (2019-2021)
 
-With the addition of Dr. Malvika Sharan in late 2019 as the community manager, *The Turing Way* continued to evolve
-As a co-founder of Open Life Science (which uses many Mozilla open leadership frameworks), Malvika helped to incubate what are now key partnerships for ***The Turing Way*** within the wider 'open science' ecosystem.
+With the addition of Dr. Malvika Sharan in late 2019 as the community manager, *The Turing Way* continued to evolve and grow.
+As a co-founder of [Open Life Science](https://openlifesci.org/) (which uses many Mozilla open leadership frameworks), Malvika helped to incubate what are now key partnerships for ***The Turing Way*** within the wider 'open science' ecosystem.
 This period corresponded with the COVID-19 pandemic lockdowns, which transitioned many processes of contribution, collaboration, and documentation into remote ones.
 
 In part due to this, *The Turing Way* was able to expand greatly, from one guide on reproducibility into five different guides related to project design, communication, collaboration, and research ethics – as it soon became clear that addressing the problems that research data scientists face required addressed many aspects of the research process.
