@@ -16,8 +16,8 @@ For this chapter, "Communications" refers to the information you share with atte
 the channels you will use, and the content and information about the event. 
 
 When developing a communications strategy, you need to consider:
-- Who is it going to.
-- Why it is going to them.
+- Who are you trying to reach.
+- Why are you trying to reach them.
 - What will it contain.
 - When does it need to be sent.
 - How will you convey the information.
