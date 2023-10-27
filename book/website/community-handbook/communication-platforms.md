@@ -1,4 +1,4 @@
-(ch-community-platforms)=
+(ch-communication-platforms)=
 
 # Communication Platforms
 
