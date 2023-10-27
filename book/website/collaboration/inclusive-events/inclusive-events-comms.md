@@ -12,7 +12,7 @@ This section provides guidance on what to consider when developing a communicati
 It will not be able to replace an in-depth communications plan, but instead draws attention to what additional considerations may be needed to help 
 make your event inclusive of people with lived experience. 
 
-"Communications" refers to the information you share with attendees, the timings and schedule on which you communicate it, 
+For this chapter, "Communications" refers to the information you share with attendees, the timings and schedule on which you communicate it, 
 the channels you will use, and the content and information about the event. 
 
 When developing a communications strategy, you need to consider:
