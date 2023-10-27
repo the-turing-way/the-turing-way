@@ -2,6 +2,9 @@
 
 # Accessibility
 
+## Reading the Book
+- Classic Web Accessibility policy info
+
 ### Writing the book
 - Describing images & illustrations (Scriberia)
 - Understanding the way in which language is used
