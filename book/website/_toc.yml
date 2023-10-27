@@ -748,7 +748,7 @@ parts:
               - title: Slack Start Guide
                 file: community-handbook/communication-platforms/slack-start-guide
               - title: Slack Welcome Guide
-                file: community-handbook/communication-platforms/slack-welcom-guide
+                file: community-handbook/communication-platforms/slack-welcome-guide
           - title: Monthly Newsletters
             file: community-handbook/newsletters
             sections:
