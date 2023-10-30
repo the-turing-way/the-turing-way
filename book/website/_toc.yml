@@ -824,3 +824,5 @@ parts:
             file: afterword/bibliography
           - title: Contributors Record
             file: afterword/contributors-record
+          - title: Collaborators
+            file: afterword/collaborators
