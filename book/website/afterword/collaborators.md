@@ -1,10 +1,13 @@
-# Collaborators and Project Partners
+(collaborators)=
+# Collaborating Organisations and Projects
 
-*The Turing Way community receives in-kind contributions from members supported by their employers, projects or organisations for their participation.
-Such contributions are applicable when one or multiple members from a project or organisation collaborate to build and maintain resources in The Turing Way.
-These contributions also include projects that build upon The Turing Way resources or collaborate with The Turing Way team members in various capacities.
+*The Turing Way works in collaboration and formal partnership with many communities and organisations.
+The project also receives in-kind support through contributions from members who represent their communities, projects or organisations in The Turing way.
+Projects, organisations and individuals collaborate to build and maintain resources in The Turing Way.
+Some of these contributions also include projects that build alongside or upon The Turing Way resources or collaborate with The Turing Way team members in various capacities.
 We acknowledge each of these contributing members individually and list their profiles under “Collaborating organisations and projects”.*
 
+(collaborators-delft)=
 ## [Delft University of Technology - Faculty of Applied Sciences](https://www.tudelft.nl/en/faculty-of-applied-sciences)
 
 The Faculty of Applied Sciences is the largest of the Delft University of Technology and focuses on finding innovative solutions to some of the problems faced by society.
@@ -12,46 +15,47 @@ Development of the fundamental knowledge needed to underpin technical developmen
 In ensuring that this knowledge can be shared effectively with the wider society, the Faculty values the sharing of data and code and has a [Research Data Management policy](https://www.tudelft.nl/en/library/research-data-management/r/policies/tu-delft-faculty-policies/) in place since 2020.
 In this effort, the contributions from the Faculty of Applied Sciences have mainly focused on the Reproducible Research Chapter of _The Turing Way_.
 
+### Representative
+- [Esther Plomp](https://the-turing-way.netlify.app/afterword/contributors-record#esther-plomp)
 
+(collaborators-escience)=
 ## [Netherlands eScience Center](https://www.esciencecenter.nl/)
 
 The Netherlands eScience Center is the Dutch national hub for the development and application of domain overarching software and methods for the scientific community. Their main goal is to enable scientists with varying computing experiences to fully utilize the potential of the available e-infrastructure and allow them to achieve otherwise unreachable scientific breakthroughs. The Netherlands eScience Center is primarily funded by the National Research Council (NWO) and the National e-infrastructure Organization (SURF) of the Netherlands.
 
-The Netherlands eScience Center maintains [its own guide](https://guide.esciencecenter.nl/) for reproducible software development. The focus of the eScience Centre guide has a big overlap with _The Turing Way_ and therefore it makes sense to avoid duplicating efforts. The eScience center contributes to _The Turing Way_ in the areas which are relevant to the eScience guide. The eScience guide points to _The Turing Way_ in when information would otherwise be duplicated.
+The Netherlands eScience Center maintains [its own guide](https://guide.esciencecenter.nl/) for reproducible software development. The focus of the eScience Centre guide has a big overlap with _The Turing Way_ and therefore it makes sense to avoid duplicating efforts. The eScience centre contributes to _The Turing Way_ in the areas which are relevant to the eScience guide. The eScience guide points to _The Turing Way_ in which information would otherwise be duplicated.
 
-Details of each member with their contributions have been listed alphabetically.
+### Representative
+- [Carlos Martinez](https://the-turing-way.netlify.app/afterword/contributors-record#carlos-martinez)
 
-### Carlos Martinez Oritz
+(collaborators-ols)=
+## [OLS (previously Open Life Science)](https://openlifesci.org/)
 
-* Role:
-  * Project Member (2020-Present)
-  * Book Dash Participant 2020
-  * Book Dash Planning Committee 2021
-  * Community Manager for eScience Center
-* GitHub id: [c-martinez](http://github.com/c-martinez)
-* ORCID: [0000-0001-5565-7577](https://orcid.org/0000-0001-5565-7577)
-* Short bio:
-> Carlos obtained his PhD in Computer Science at the University of Exeter. Afterwards, he worked on various research projects at the University of Exeter and Plymouth University. At the eScience Center, he has worked as an engineer on diverse projects in digital humanities and life sciences, developing expertise in natural language processing, linked open data and software sustainability. He is also a certified Software Carpentry instructor and is frequently involved in organising training.
+Under the collaboration name OLS-4 for Turing, _The Turing Way_ collaborates with [OLS](https://openlifesci.org), a programme that helps individuals and stakeholders in research to become Open Science ambassadors.
+This collaboration offers training and mentoring to interested members from Turing and The Turing Way communities to join the OLS programme individually or in teams.
+They develop Open Science aspects in the projects that they either already have been working on or want to develop.
 
-* Personal highlights:
-> We always advocate for software reuse and collaborative development of software. I love that we can do the same for software development guidelines: reuse content from the eScience guide and collaboratively develop with _The Turing Way_ community!
+The project has been collaborating with *The Turing Way* since 2020 through Project Member, Malvika Sharan, who is a co-founder of the programme.
 
-* More information:
-> I am a big advocate of improving software quality. I am really glad that the eScience Center is collaborating with _The Turing Way_ in providing guidelines and helping build better research software.
+(collaborators-scilifelab)=
+### [SciLifeLab Data Centre](https://www.scilifelab.se/)
 
-### Mateusz Kuzak
+SciLifeLab, a national resource offering unique technologies and expertise to life scientists in fields like biomedicine, ecology, and evolution in Sweden, seamlessly integrates with our community of researchers, fostering collaborations across traditional boundaries with industry, healthcare, public research organizations, and international partners.
+The SciLifeLab Data Centre serves as a core division within SciLifeLab, tasked with overseeing IT and data management matters, catering to both SciLifeLab as a whole and the Data-Driven Life Science (DDLS) research program.
+We are committed to ensuring that research outputs such as data and software are Findable, Accessible, Interoperable, and Reusable (FAIR), adhering to open science principles and best practices, and optimizing the value of these outputs for the scientific community.
 
-* Role:
-  * Project Member (2020-Present)
-  * Book Dash Participant/Helper 2020
-* GitHub id: [mkuzak](http://github.com/mkuzak)
-* ORCID: [0000-0003-0087-6021](https://orcid.org/0000-0003-0087-6021)
-* Short bio:
->Mateusz obtained his master's degree in Biotechnology with a specialization in Biophysics, at the Jagiellonian University, Krakow, Poland. In September 2019 Mateusz joined the Netherlands eScience Center in the role of Community Officer with the focus on communities and training around Research Software Engineering, software best practices and sustainability, and the role of software in open science and reproducible research. Since 2015, Mateusz has been involved in the Carpentries community, first as an instructor, later contributor, mentor, Executive Council member and instructor trainer. He is also leading the Dutch chapter of the Carpentries and is on the core team of the nl-RSE community.
+### Representative
+- [Chris Erdmann](https://the-turing-way.netlify.app/afterword/contributors-record#chris-erdmann)
 
-* Personal highlights:
-> I have personally contributed to _The Turing Way_ by drafting chapters in the guide for Reproducible Research, reviewing other contributors' Pull Requests and mentoring contributions from the Netherlands eScience Center.
+(collaborators-eds)=
+## [Environmental Data Science Book](https://edsbook.org/welcome.html)
 
+Environmental Data Science book or EDS book is a living, open and community-driven online resource to showcase and support the publication of data, research and open-source tools for collaborative, reproducible and transparent Environmental Data Science.
+
+### Representative
+- [Alejandro Coca](https://the-turing-way.netlify.app/afterword/contributors-record#alejandro-coca)
+
+(collaborators-faircookbook)=
 ## [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html)
 
 FAIR Cookbook is an online resource that helps researchers and data managers professionals make their data Findable, Accessible, Interoperable and Reusable (FAIR).
@@ -62,61 +66,5 @@ FAIR Cookbook [features relevant chapters from _The Turing Way_](https://fairplu
 Similarly, _The Turing Way_ features the project and provides an impact story titled [From FAIR Co-Author to FAIR Doer](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-stories.html) by Susanna-Assunta Sansone (a co-lead of the FAIR Cookbook project).
 You can find more details and background in the chapter [Leveraging the Turing Way Book](https://fairplus.github.io/the-fair-cookbook/content/recipes/introduction/the-turing-way.html?highlight=turing).
 
-### Susanna-Assunta Sansone
-
-* Role: 
-  * Book Dash Participant 2019
-* GitHub id: [susannasansone](http://github.com/susannasansone)
-* ORCID: [0000-0001-5306-5690](https://orcid.org/0000-0001-5306-5690)
-* Short bio:
-> Susanna-Assunta Sansone is an Associate Director and Principal Investigator at the Oxford e-Research Centre, and an Associate Professor in the Department of Engineering Science of the University of Oxford.
-> She is also a Consultant for Springer Nature and a Founding Honorary Academic Editor of the Scientific Data journal.
-
-* Personal highlights:
-> TBA
-
-* More information:
-> Susanna-Assunta Sansone's motto is "Better data for better science".
-> With her group of brilliant research software & knowledge engineers, she researches and develops methods and tools to improve data reuse; they work for data transparency, research integrity and the evolution of scholarly publishing.
-> She also conducts research-on-research, to improve how research is practiced and shared.
-> Specifically, she strives to make digital research objects, including data, Findable, Accessible, Interoperable and Reusable, FAIR, for humans and machines.
-
-### Philippe Rocca-Serra
-
-* Role: 
-  * Book Dash Participant 2020
-* GitHub id: [proccaserra](http://github.com/proccaserra)
-* ORCID: [0000-0001-9853-5668](https://orcid.org/0000-0001-9853-5668)
-* Short bio:
-> Philippe Rocca-Serra received a PhD in Molecular Biology from the University of Bordeaux, moving to the field of bioinformatics upon joining the Microarray Informatics Team at the EMBL-EBI, Cambridge. There, working at establishing ArrayExpress, he became an active member of several standardisation efforts aimed at promoting the vision for open data and open science. As part of several EU projects in toxicogenomics and nutrigenomics, he coordinated the development of the ISA project [1], which now continues at the University of Oxford e-Research Centre.
-
-* Personal highlights:
-> TBA
-
-## [Open Life Science](https://openlifesci.org/)
-
-Under the collaboration name OLS-4 for Turing, _The Turing Way_ collaborates with [Open Life Science (OLS)](https://openlifesci.org), a programme that helps individuals and stakeholders in research to become Open Science ambassadors.
-This programme is cofounded by Bérénice Batut, Malvika Sharan and Yo Yehudi.
-This collaboration offers training and mentoring to interested members from Turing and The Turing Way communities to join the OLS programme individually or in teams.
-They develop Open Science aspects in the projects that they either already have been working on or want to develop in the near future.
-
-You can see the projects that participated in the second round - [OLS-2](https://openlifesci.org/ols-2/projects-participants/) and the third round - [OLS-3](https://openlifesci.org/ols-3/projects-participants/).
-This collaboration was awarded the Turing Online Training grant to support Turing projects in the fourth round ([OLS-4](https://openlifesci.org/funders)) and share materials openly in the Turing training network.
-
-## [Remote Computational Project Resource](https://isabelbirds.github.io/Remote-Computational-Project-Resource/welcome.html)
-
-This resource was started by Isabel Birds during the COVID-19 pandemic to support students transferred from wet to remote dry lab projects at short notice.
-This project includes links to (1) general tutorials for the complete beginner, (2) tutorials for specific analyses or pipelines, (3) free online textbooks, and (4) places to ask for help.
-
-### Isabel Birds
-
-* GitHub id: [IsabelBirds](http://github.com/IsabelBirds)
-* ORCID: [0000-0001-8173-3879](https://orcid.org/0000-0001-8173-3879)
-* Short bio:
-> Isabel is a PhD candidate at the University of Leeds working on dissecting the function and molecular evolution of long non-coding RNAs Supervised by Dr Julie Aspden, Dr Mary J O’Connell and Dr David Westhead.
-> She has been interested in molecular evolution and the applications of bioinformatic techniques throughout her degree and developed these interests while undertaking research projects in the Aspden and O’Connell labs.  
-> She also has experience in scientific research from a funder perspective, gained during her year in industry and numerous summer internships with Yorkshire Cancer Research.
-
-* Personal highlights:
-> After learning about the Turing Way I was inspired to create a site aimed at a wider audience. The Turing Way tutorials helped me to set up my first Jupyter Book, helped me to create the site in a way that is open to contributions, and made sharing my work openly less scary! The Turing Way also pops up a few times in the resources listed.
-> The aim of the resource is to make starting a computational project less overwhelming by curating links to tutorials and online textbooks. Skills such as file management or asking for help effectively are also highlighted, along with entertaining things like podcasts as a reminder that research can be fun!
+### Representative
+- [Susanna-Assunta Sansone](https://the-turing-way.netlify.app/afterword/contributors-record#susanna-assunta-sansone)
