@@ -26,7 +26,7 @@ The Netherlands eScience Center is the Dutch national hub for the development an
 The Netherlands eScience Center maintains [its own guide](https://guide.esciencecenter.nl/) for reproducible software development. The focus of the eScience Centre guide has a big overlap with _The Turing Way_ and therefore it makes sense to avoid duplicating efforts. The eScience centre contributes to _The Turing Way_ in the areas which are relevant to the eScience guide. The eScience guide points to _The Turing Way_ in which information would otherwise be duplicated.
 
 ### Representative
-- [Carlos Martinez-Ortiz](https://the-turing-way.netlify.app/afterword/contributors-record#carlos-martinez), Community Manager - Software Sustainability, Netherlands eScience Center
+- [Carlos Martinez-Ortiz](https://the-turing-way.netlify.app/afterword/contributors-record#carlos-martinez-oritz), Community Manager - Software Sustainability, Netherlands eScience Center
 
 (collaborators-ols)=
 ## [OLS (previously Open Life Science)](https://openlifesci.org/)
