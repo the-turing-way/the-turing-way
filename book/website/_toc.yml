@@ -818,11 +818,11 @@ parts:
         sections:
           - title: Legal Disclaimer
             file: afterword/legal-disclaimer
-          - title: Glossary
-            file: afterword/glossary
-          - title: Bibliography
-            file: afterword/bibliography
           - title: Contributors Record
             file: afterword/contributors-record
           - title: Collaborators
             file: afterword/collaborators
+          - title: Glossary
+            file: afterword/glossary
+          - title: Bibliography
+            file: afterword/bibliography
