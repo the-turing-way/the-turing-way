@@ -435,6 +435,17 @@ I also hope that it can convince people who don't consider themselves capable of
 * More information:
 > I am a big advocate of improving software quality. I am really glad that the eScience Center is collaborating with _The Turing Way_ in providing guidelines and helping build better research software.
 
+### Christopher Erdmann
+* Role:
+* Handbook Collaborator and Contributor, SciLifeLab Representative
+* Head of Open Science, SciLifeLab Data Centre 
+* ORCID: 0000-0003-2554-180X
+* Short bio:
+> Christopher Erdmann is a community advocate, developer, and experimenter in the areas of Open Science and FAIR. Prior to joining the SciLifeLab Data Centre as the Head of Open Science, he was the Associate Director for Open Science at the Michael J. Fox Foundation where he drove open science strategies and workflows to support the Foundation’s policies. He has previously worked for organizations such as the American Geophysical Union, Renaissance Computing Institute at UNC, California Digital Library (The Carpentries), North Carolina State University, Harvard-Smithsonian Center for Astrophysics, European Southern Observatory, Supreme Court of the US, United Nations, University of Washington, Smithsonian, and CNET. Christopher holds an MLIS from the University of Washington iSchool and a BA from the University of California, Davis.
+
+* Personal highlights:
+> The Turing Way Handbook is an invaluable resource for researchers worldwide looking to learn more about reproducible, ethical and collaborative data science. I am looking forward to our collaboration with The Turing Way to learn from their community, help further the Handbook as a community resource, and leverage it in our own endeavours at the SciLifeLab (Data Centre).
+
 <!---D--->
 ## D
 
