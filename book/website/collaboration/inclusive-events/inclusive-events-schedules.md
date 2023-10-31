@@ -1,3 +1,4 @@
+(cl-inclusive-events-schedule-planning)=
 # Creating Schedules and Agendas for Inclusive Events
 When developing a schedule or agenda for your event, it is important to reflect on how different aspects
 of an event's schedule will impact how inclusive and accessible your event will be.
@@ -15,12 +16,13 @@ It is crucial in your planning to prioritize inclusivity and accessibility in yo
 programming, and to recognize that many of the traditional approaches to schedules and agendas may create 
 barriers or be inaccessible for people with lived experience or disabilities. 
 
-
+(cl-inclusive-events-schedule-timing)=
 ## Event Design: Timing and Event Duration
 When developing your event's program or agenda, you should consider the timing of your event's content. 
 This includes identifying when your event will start and end, the duration of your event's content and 
 how you will structure the event content to make it accessible, and finally the duration of the event itself.
 
+(cl-inclusive-events-start-times)=
 ### Start and End Times
 You may want to consider planning sessions and event start times around travel, for example by starting 
 later in the day and finishing mid-afternoon. This can help support attendees who need to travel to attend 
@@ -32,6 +34,7 @@ Additionally, consider planning your event around important holidays and cultura
 By considering when your attendees will be required elsewhere, you will be more likely to 
 find a time that suits everyone. 
 
+(cl-inclusive-events-session-duration)=
 ### Session Duration
 Your schedule should take into account breaks and meal times, and carefully plan the length of its sessions. 
 
@@ -82,6 +85,7 @@ a 15 minute break, and then a 15 minute conclusion or share out and session clos
 This is because many people with a lived experience of ADHD can find that forced interruption is very disruptive and 
 prohibitive of meaningful engagement on tasks that are creative or require deep focus.
 
+(cl-inclusive-events-event-duration)=
 ### Event Duration
 In addition to session length, it is also important to consider how your event will be structured to support the 
 involvement and engagement of people with lived experience. 
@@ -95,7 +99,7 @@ Alternatively, sessions from 10 a.m. - 1 p.m. on all 3 days could focus on lived
 This can support the engagement of people with lived experience who volunteer their time to engage in research, 
 as well as people with lived experience of disabilities and medication conditions that can significantly impact their energy levels. 
 
-
+(cl-inclusive-events-schedule-content)=
 ## Event Content: Planning for Engagement
 When identifying the content of your event, you should spend time identifying what type of content and sessions attendees 
 with lived experience would be interested in, what "engagement" means for your specific event, and how will you ensure that 
@@ -104,6 +108,7 @@ attendees with lived experience are able to engage in your event.
 By clearly defining what engagement looks like, and also how to engage, your event will be more accessible to people with 
 lived experience and also reduce potential barriers and anxieties for participants.
 
+(cl-inclusive-events-defining-engagement)=
 ### Defining Engagement for Your Event
 Providing guidance on what engagement means for your specific event can help to set expectations, 
 and also reduce potential barriers and anxieties that attendees with lived experience may have when trying to engage in your event.  
@@ -124,6 +129,7 @@ and led by a facilitator.
 Communicating to attendees that participation is expected, and what the specific format of participation will be, 
 can help alleviate worry or anxiety that attendees may have, and also set the session up for success. 
 
+(cl-inclusive-events-engagement-pathways)=
 ### Establishing Pathways for Engagement
 People with lived experience may have varying comfort levels with public events, in addition to concerns about 
 how any disabilities have been supported (or not) in past events.
@@ -142,6 +148,7 @@ for your event and to work with a representative with lived experience to identi
 Ensure that you provide an outline of your guidance in both a written format before the event (preferably in plain text), 
 and also include an explanation in your event introduction of what engagement is expected, as well as what pathways are available for contributions.
 
+(cl-inclusive-events-defining-goals)=
 ### Sharing the Goals of your Event
 Consider outlining and sharing a set of goals or planned outputs from your event with your audience when you begin a session. 
 For example, a workshop may present learning objectives or an example of the planned finished product. 
@@ -159,7 +166,7 @@ but also actively ensuring that their opinions and perspectives are heard and ab
 By orientating your attendees around a goal, you can provide a shared understanding that will support
 meaningful and inclusive engagement in your event.
 
-
+(cl-inclusive-events-inclusive-content)=
 ### Planning for Inclusion
 As part of planning the program, consider how you will support and facilitate relationship-building and the 
 active inclusion of people with lived experience in your event's sessions.
@@ -175,7 +182,7 @@ who are experts by profession, instead of being segregated out for being "non-re
 Mozilla has developed a framework called [ADIDS](https://docs.google.com/presentation/d/1k6Sft7YH2QrDzqzE6TZhociWVjXe7rLMDjAJ734qNKA/edit#slide=id.g1cd292f458d_0_19) that can help event organizers plan sessions that actively engage and involve a diverse audience.
 You can read more about ADIDS on the [MozFest website](https://www.mozillafestival.org/en/facilitator-guide/designing-a-successful-session/), or by working through the framework for your own event.
 ```
-
+(cl-inclusive-events-schedule-rapport)=
 ### Building Rapport with Event Design
 The active involvement of people with lived experience is incredibly important because it enables the 
 design and delivery of research and outputs that are informed by lived experiences, and better reflects 
@@ -191,7 +198,7 @@ The smaller grouping allows for more conversation between people and can be less
 with lived experience to engage in. 
 You can read more about the World Cafe method on [The World Café Community Foundation's blog](https://theworldcafe.com/key-concepts-resources/world-cafe-method/). 
 
-
+(cl-inclusive-events-moderators-facilitators)=
 ### The role of Moderators and Facilitators
 Facilitators and session moderators can help to foster a safe and supportive environment for 
 people with lived experience to share their perspectives and insights. 
@@ -213,6 +220,7 @@ Although it is becoming more common for people with lived experience to become s
 training in public speaking, it is important for researchers and event organizers to consider - and make use of - 
 moderators and session facilitators in order to uphold inclusive and equitable engagement practices. 
 
+(cl-inclusive-events-icebreakers)=
 ### Using Icebreakers and Teambuilding
 Additionally, you may consider using a collaborative activity to open your session 
 such as an icebreaker or other team-building task. 
@@ -229,7 +237,7 @@ an equitable space for all attendees to meaningfully engage with your event.
 [See Draft PR Discussion - section content WIP]
 
 
-
+(cl-inclusive-events-session-schedule)=
 ### Session Schedule
 When planning your event's content schedule, reflect back on the purpose of your event, 
 who your attendees are going to be, and why they will be attending your event. 
@@ -246,6 +254,7 @@ will be offered to support attendees with lived experience.
 Event organizers should not assume that "people with lived experience" is synonymous with "general public" as many people with lived experience of disabilities or medical conditions are experts in their profession as well as in their experience. However, if your event is designed to be inclusive of a group of people with a specific lived experience, it is important to involve them in the event planning in order to identify and get feedback on session planning. 
 ```
 
+(cl-inclusive-events-schedule-diverse-speakers)=
 ### Including Diverse Speakers
 When identifying sessions or speakers for your event, it is incredibly important to include 
 a person with lived experience in your speaker list or panellists. 
@@ -285,7 +294,7 @@ Including and highlighting speakers or session leads with lived experience and o
 voices both broadens the scope of representation, and helps to prevent assumptions and stereotypes about 
 people with lived experience which can further help to empower other attendees with lived experience to become more actively involved in research.
  
-
+(cl-inclusive-events-event-descriptions)=
 ### Providing Event Descriptions
 Consider including a description of your intended audience and any expertise requirements in your session information. 
 Ensure that these session descriptions, the program, and any organisational information are written using Plain Language. 
@@ -310,6 +319,7 @@ Include session descriptions in the program of events. This description should i
 You can find other inspiration and examples of inclusive session descriptions on the [Mozilla Festival (MozFest) website](https://schedule.mozillafestival.org/schedule).]
 ```
 
+(cl-inclusive-events-parallel-sessions)=
 ### Using Parallel Sessions
 Conferences and other large events can often bring together a wide range of attendees with an equally wide range of experiences and expertise. 
 For these events, it may not be ideal to curate all content and sessions suitable for a general audience. 
@@ -332,7 +342,7 @@ It is important to give researchers the opportunity to attend sessions and event
 Consider running any highly technical sessions in parallel with coffee breaks or networking, and then 
 highlighting that researchers and attendees with a technical background are welcome and encouraged to attend sessions with a lived experience focus. 
 
-
+(cl-inclusive-events-session-type)=
 ### Creating a Program: Session Type
 Different session formats may help or hinder the engagement and participation of people with lived experience in your event. 
 For example, panel discussions, workshops, and interactive sessions, all present different barriers and levels of 
@@ -350,12 +360,12 @@ If your event can only support one type of format, consider asking for input and
 your community or a representative with lived experience. 
 This will ensure that you choose the format option that will support your specific community of people with lived experience best. 
 
-
+(cl-inclusive-events-schedule-conclusion)=
 ## Conclusion
 Taking the time to carefully consider your event's schedule and content will ensure all attendees feel valued and are able to engage in your event.
 
-Designing a schedule that provides flexibility around breaks and the types of engagement, offers a variety of session formats 
-that are clearly communicated, and also by includes speakers from different backgrounds, will create an event that effectively 
+By designing a schedule that provides flexibility around breaks and the types of engagement, offers a variety of session formats 
+that are clearly communicated, and also by including speakers from different backgrounds, you will create an event that effectively 
 supports a community of people with lived experience.
 
 
