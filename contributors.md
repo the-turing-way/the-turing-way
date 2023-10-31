@@ -845,7 +845,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 * Role:
   * Core Member, VU Amsterdam Representative (2021-Present)
-  * Book Dash Planning Committee Member (2022)
+  * Book Dash Planning Committee Member (2022-2023)
   * Book Dash Participant (2021)
 * GitHub id: karvovskaya
 * Twitter: @LangData
