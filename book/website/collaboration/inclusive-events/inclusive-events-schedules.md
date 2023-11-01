@@ -223,7 +223,7 @@ moderators and session facilitators in order to uphold inclusive and equitable e
 (cl-inclusive-events-icebreakers)=
 ### Using Icebreakers and Teambuilding
 Additionally, you may consider using a collaborative activity to open your session 
-such as an icebreaker or other team-building task. 
+such as an icebreaker or another teambuilding task. 
 This can help build rapport among event attendees, and orientate everyone towards a shared goal 
 before the formal parts of your session begin.
 
