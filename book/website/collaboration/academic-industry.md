@@ -11,6 +11,17 @@
 | {ref}`Community Managers: Overview<cl-infrastructure-community-managers>` | Helpful  | Beginner | An overview of the Community Manager Role |
 | {ref}`Guide to Planning a Community<cl-new-community-guide>` | Helpful | Beginner | The Guide to Planning a Community are helpful context for the Community Building Subchapter in this section |
 
+```{figure} ../../figures/academic-industry-partnership.jpg
+---
+height: 500px
+name: academic-industry-partnership
+alt: tbc
+---
+Academic-Industry Partnership
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. Original version on Zenodo. [http://doi.org/10.5281/zenodo.8169292](http://doi.org/10.5281/zenodo.8169292) 
+```
+
+
 (cl-academic-industry-summary)=
 ## Summary
 Academic-Industry collaborations can take many forms, but put simply they are when an academic institution or university collaborates with a corporation or business such as a pharmaceutical company, a consulting firm or a technology company. 
