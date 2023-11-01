@@ -210,7 +210,7 @@ If you are able to involve facilitators or moderators at your event, consider ho
 engagement of and contributions from people with lived experience. 
 This is especially important for events that focus on discussion or require active participation 
 (such as the World Cafes we discussed in the previous section). 
-Many people with lived experience may not have recieved formal training in public speaking or 
+Many people with lived experience may not have received formal training in public speaking or 
 rhetoric, and can be at a greater risk of being left out of conversation. 
 
 Just inviting people with lived experience to your event is not sufficient if they are not 
