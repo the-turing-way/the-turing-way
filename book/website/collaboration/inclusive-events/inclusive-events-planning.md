@@ -15,10 +15,10 @@ Their inclusion in decision-making processes is essential to achieving an access
 ## Accessibility vs. Inclusion: What to focus on
 When designing and organising an event, it can be easy to focus on the accessibility requirements of the venue and overlook the steps needed to make an event inclusive and enjoyable for all participants. 
 
-We can think of this in terms of “Universal Design” which is about designing an event or environment so that it can be accessed, understood, and used by all people regardless of their background, age, size, ability or disability. 
-This is different from “Accessible Design” which focuses on designing around specific accessibility requirements. 
+We can think of this in terms of “**Universal Design**” which is about designing an event or environment so that it can be accessed, understood, and used by all people regardless of their background, age, size, ability or disability. 
+This is different from “**Accessible Design**” which focuses on designing around specific accessibility requirements. 
 
-An example of universal design is the "[Curb Cut effect](https://en.wikipedia.org/wiki/Curb_cut)" which is where curbs on sidewalks and paths are sloped down to meet the main pavement. 
+An example of Universal Design is the "[Curb Cut effect](https://en.wikipedia.org/wiki/Curb_cut)" which is where curbs on sidewalks and paths are sloped down to meet the main pavement. 
 This change was originally suggested to allow wheelchair access to the street without having to step down from a high curb. 
 The changes also benefit most other pedestrians, people who use prams, cyclists, people with mobility aids, visual impairments, and young people meaning that curb cuts are recognized as being a good universal design change, because they make walkways and street crossings easier to use for everyone. 
 You can read more about Universal Design on the [Universal Design Website](https://universaldesign.ie/what-is-universal-design/), however, you do not need to be an expert in design to organize an inclusive and accessible event.
