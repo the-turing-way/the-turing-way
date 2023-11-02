@@ -142,7 +142,7 @@ If you are interested in learning more, you can also review the full guidance pu
 
 (cl-inclusive-events-comms-website-content)=
 ### Website Content 
-Depending on your event and where you host online information, you Ensure that your event information covers:
+Depending on your event and where you host online information, you should ensure that the digital home for your event covers this information:
 - How to attend (joining links for online content and location information for in-person events).
 - When and where your event is.
 - What accessibility support there will be for your event
