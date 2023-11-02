@@ -82,7 +82,7 @@ After a "Save the Date, you may consider sending out a formal invitation to anno
 In this announcement, you should provide information about any specific accessibility and inclusion requirements that are addressed such as whether things like captions, interpretation, or other accessibility practices will be available. 
 
 If possible, consider establishing a point of contact on your team who is able to address any questions or concerns that people with lived experience may have about attending your event. 
-This may involve setting up an email inbox such as accessibility@yourevent.com. 
+This may involve setting up an email inbox such as accessibility@your-event.com. 
 
 By providing clear and proactive information about how your event addresses barriers to inclusion, people with lived experience will be able to find out whether the event will be accessible to them individually, and decide if they are able to attend. 
 For example, communicating that your event will be hybrid may allow people who otherwise would not engage in the event to attend online. 
@@ -494,4 +494,11 @@ By demonstrating an open channel of communication about accessibility, and by be
 (cl-inclusive-events-comms-additional-resources)=
 ## Additional Resources
 - Employer Assistance and Resource Network on Disability Inclusion [Guide on Person-First and Identity-First Language](https://askearn.org/page/people-first-language)
-
+- [Autism Advocacy's Accessible Event Planning Guide](https://autisticadvocacy.org/wp-content/uploads/2019/05/Accessible-Event-Planning.pdf)
+- UK Office for National Statistics [Guide on writing with Plain Language](https://service-manual.ons.gov.uk/content/writing-for-users/plain-language), 
+- [Hemingway App](https://hemingwayapp.com/)
+- {ref}`cm-lay-summaries`
+- [NHS list of jargon and acronyms](https://www.nhsconfed.org/publications/acronym-buster)
+- UK Home Office [Digital Accessibility Guides](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/)
+- [Web Accessibility Initiative](https://www.w3.org/WAI/standards-guidelines/wcag/)
+- [Mozilla's Developer Documentation on Web Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG)
