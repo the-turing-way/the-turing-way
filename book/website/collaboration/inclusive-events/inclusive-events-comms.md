@@ -1,6 +1,6 @@
 (cl-inclusive-events-comms)=
 # Planning Communications for Inclusive Events
-Having a good plan on how and when to communicate around your event is always important, but it can be even more relevant when inviting people with lived experience to your event as part of supporting attendees who are both new to research events, and who need to know  what accessibility affordances you have put into place to support their attendance. 
+Having a good plan on how and when to communicate around your event is always important, but it can be even more relevant when inviting people with lived experience to your event as part of supporting attendees who are both new to research events, and who need to know what accessibility affordances you have put into place to support their attendance. 
 
 Transparency and clear communication are thus critical to support people with lived experience in making informed decisions about whether to engage in your event. 
 Any of the other decisions you have made may not be helpful in supporting the engagement and inclusion of people with lived experience if you have not communicated about what those decisions are. 
@@ -9,11 +9,9 @@ And even if you have planned the perfect event, if people don't what those plans
 Creating a communication plan is therefore a key part of hosting an accessible and inclusive event for people with lived experience.
 
 This section provides guidance on what to consider when developing a communications plan for events involving people with lived experience. 
-It will not be able to replace an in-depth communications plan, but instead draws attention to what additional considerations may be needed to help 
-make your event inclusive of people with lived experience. 
+It will not be able to replace an in-depth communications plan, but instead draws attention to what additional considerations may be needed to help make your event inclusive of people with lived experience. 
 
-For this chapter, "Communications" refers to the information you share with attendees, the timings and schedule on which you communicate it, 
-the channels you will use, and the content and information about the event. 
+For this chapter, "Communications" refers to the information you share with attendees, the timings and schedule on which you communicate it, the channels you will use, and the content and information about the event. 
 
 When developing a communications strategy, you need to consider:
 - Who are you trying to reach?
@@ -22,18 +20,15 @@ When developing a communications strategy, you need to consider:
 - When do your attendees with lived experience need the information?
 - How will you convey the information?
 
-Depending on the scale and resources for your event, your communications plan may include the development of websites, PDFs, flyers, banners, 
-and social media posts in addition to email and calendar invites. 
+Depending on the scale and resources for your event, your communications plan may include the development of websites, PDFs, flyers, banners, and social media posts in addition to email and calendar invites. 
 
-By carefully planning out what you need to communicate, when, and how you ensure that the information is received and understood, 
-your attendees will be supported in spending their effort and energy taking part in your event instead of worrying about their access needs.
+By carefully planning out what you need to communicate, when, and how you ensure that the information is received and understood, your attendees will be supported in spending their effort and energy taking part in your event instead of worrying about their access needs.
 
 (cl-inclusive-events-comms-timeline)=
 ## When to send Core Communications
 The timeline for planning a communications schedule for your event will vary greatly depending on the size and type of event. 
 
-When planning an event for people with lived experience, please be mindful that you might need to allocate more time to plan 
-for - and to implement - accessibility requirements, and that many people with lived experience might require information with as much notice as possible in order to plan their attendance.
+When planning an event for people with lived experience, please be mindful that you might need to allocate more time to plan for - and to implement - accessibility requirements, and that many people with lived experience might require information with as much notice as possible in order to plan their attendance.
 
 This can support both attendees with a disability who may need to book accessible transport or book support arrangements, but is also good [universal design]((cl-inclusive-events-planning-intro) as it can support people with caregiving responsibilities or people who have busy schedules. 
 
@@ -43,25 +38,20 @@ The more advance notice you can give to people, the more flexibility people have
 ### Save the Date
 Consider how early you will be able to send out a "Save the Date" for your event and when you will be able to finalize accessibility information and a reimbursement policy. 
 
-Many people with lived experience of disabilities or medical conditions need to carefully plan their attendance as part of managing their condition, 
-especially for in-person events. 
-This can be due to medication requirements, and managing conditions that involve fatigue or overstimulation as well as figuring out a plan for how 
-they will manage physical barriers to arriving at an in-person event. 
+Many people with lived experience of disabilities or medical conditions need to carefully plan their attendance as part of managing their condition, especially for in-person events. 
+This can be due to medication requirements, and managing conditions that involve fatigue or overstimulation as well as figuring out a plan for how they will manage physical barriers to arriving at an in-person event. 
 
 Providing clear and timely information will help your attendees with lived experiences plan their attendance safely, and in a way that supports them engaging fully in your event. 
 This will also be supportive of attendees with busy schedules who may be booked out significantly in advance.
 
-Your Save the Date should include an overview of honorarium or reimbursement support, the date, and the approximate location of the event such as Zoom, 
-or the name of the city where the event will take place. 
+Your Save the Date should include an overview of honorarium or reimbursement support, the date, and the approximate location of the event such as Zoom, or the name of the city where the event will take place. 
 It should also reference how long the event is likely to be, for example, if it's a multi-day event or a few hours. 
 
-Attendees with caring responsibilities may need to hire and arrange alternative care support in order to attend your event, 
-or could be placed at a significant financial disadvantage if they travel and attend. 
+Attendees with caring responsibilities may need to hire and arrange alternative care support in order to attend your event, or could be placed at a significant financial disadvantage if they travel and attend. 
 By providing guidance along with a "Save the Date", your attendees would have appropriate time be able to make arrangements, and also be able to make an informed choice about if they are able to attend. 
 
 Consider sending out different forms of a Save the Date to support how different people use and interact with online calendars. 
-For example, sending out an online calendar placeholder, an email invitation written in plain text with formatted headings, attaching a PDF flyer with Save the Date information, 
-and promoting Save the Date information through your usual communication channels such as Slack, LinkedIn or organization's website and social media. 
+For example, sending out an online calendar placeholder, an email invitation written in plain text with formatted headings, attaching a PDF flyer with Save the Date information, and promoting Save the Date information through your usual communication channels such as Slack, LinkedIn or organization's website and social media. 
 This can ensure that people who use different communication channels are able to receive the information in a medium that is accessible to them and through the channel they are most comfortably using. 
 
 ```{note} 
@@ -90,8 +80,7 @@ For example, communicating that your event will be hybrid may allow people who o
 This announcement should also contain information about how to register for the event, the finalized location, and a preliminary program. 
 
 ```{tip}
-Autism Advocacy suggests that schedules for multi-day events should be sent at least one month in advance which includes details about transport
-and its proximity to the event location, training session names, speaker names, breaks, and planned schedule, and at least 2 weeks in advance for events taking place on a single day.
+Autism Advocacy suggests that schedules for multi-day events should be sent at least one month in advance which includes details about transport and its proximity to the event location, training session names, speaker names, breaks, and planned schedule, and at least 2 weeks in advance for events taking place on a single day.
 The [Autism Advocacy Accessible Event Planning Guide](https://autisticadvocacy.org/wp-content/uploads/2019/05/Accessible-Event-Planning.pdf) also contains other recommendations and timeline guidance for running events for autistic people.
 ```
 
@@ -135,8 +124,7 @@ Your website should meet Web Accessibility Standards by following the 4 principl
   Robustness refers to the importance of content on your event page's website being compatible with different browsers, now and in the future,
   and how compatible the content is with different technologies such as screen readers and other assistive technologies. 
 
-[Mozilla's Developer Documentation on Web Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG) provides a good overview of 
-how to meet these 4 web accessibility standards and also provides more examples of how to meet each criterion. 
+[Mozilla's Developer Documentation on Web Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG) provides a good overview of how to meet these 4 web accessibility standards and also provides more examples of how to meet each criterion. 
 If you are interested in learning more, you can also review the full guidance published by the [Web Accessibility Initiative](https://www.w3.org/WAI/standards-guidelines/wcag/).
 
 
@@ -195,17 +183,14 @@ This is contrasted with "Person-first" language which emphasizes the person befo
 Many people feel strongly about person or identity first language, and it is important to ask that individual about their preference as part of planning their introduction. 
 
 You may notice that we have used both person-first and identity-first language has been used in this chapter. 
-How a person chooses to self-identify is entirely a personal decision, and it is the role of organizers and facilitators to support the choices of the speakers and attendees, 
-as long as it does not contravene the event's Code of Conduct. 
+How a person chooses to self-identify is entirely a personal decision, and it is the role of organizers and facilitators to support the choices of the speakers and attendees, as long as it does not contravene the event's Code of Conduct. 
 Consider instead including a statement on the inclusive and compassionate use of both person-first and identity-first language when opening your event. 
 
 (cl-inclusive-events-comms-speaker-preparation)=
 ### Speaker Preparation
-Depending on the type of event you are planning, you may want to consider providing guidance for speakers, moderators, and presenters on inclusive communication, 
-and requesting that any content delivered in the session can be sent to attendees before the event. 
+Depending on the type of event you are planning, you may want to consider providing guidance for speakers, moderators, and presenters on inclusive communication, and requesting that any content delivered in the session can be sent to attendees before the event. 
 
-If your event has online or streamed sessions, consider developing an information pack and working with your speakers and event facilitators to 
-ensure that content is accessible and inclusive of all attendees. 
+If your event has online or streamed sessions, consider developing an information pack and working with your speakers and event facilitators to ensure that content is accessible and inclusive of all attendees. 
 This information pack can contain guidance on how to present so that attendees with sensory processing differences or hearing impairments are able to engage in the session content. 
 For example, recommending that speakers remain as still as possible while they are speaking and presenting, and requesting that online presenters are well-lit with a blurred background 
 will help support attendees who rely on lip and face reading to engage in a session.
@@ -215,8 +200,7 @@ Many early career researchers may not have received formal training in scientifi
 
 You can also prepare the speakers by asking how they would like to interact with any questions that are asked. 
 Many research talks often follow a "lecture" format where a speaker talks on a topic and then takes 2-3 questions from the audience. 
-Consider asking your speaker to break their talk into sections to allow for questions at different points in the session, or if your event is a lecture, 
-consider using software to gather questions as the session progresses. 
+Consider asking your speaker to break their talk into sections to allow for questions at different points in the session, or if your event is a lecture, consider using software to gather questions as the session progresses. 
 This can be helpful for people with lived experience of cognitive or sensory differences. 
 
 (cl-inclusive-events-comms-attendees)=
@@ -232,8 +216,7 @@ Many people with lived experience may feel more comfortable engaging in an event
 
 (cl-inclusive-events-comms-presentation-material)=
 ## Presentation Slides and Event Content
-Although it is common in research to prepare presentation slides at the penultimate hour, to be as inclusive as possible, 
-please work with your speakers and presenters to finalize session content before the event. 
+Although it is common in research to prepare presentation slides at the penultimate hour, to be as inclusive as possible, please work with your speakers and presenters to finalize session content before the event. 
 By requesting slides and presentation content ahead of the event you will be best set up to support the involvement of people with disabilities and lived experience at your event. 
 
 Consider how you will support speakers in developing accessible and inclusive material. 
@@ -245,16 +228,14 @@ It is best practice to send out content before the session or event to ensure th
 If this is not possible, please address the reasons why in the opening address of the event and make alternative arrangements.
 For example, if the information is sensitive and unable to be shared due to Intellectual Property or Privacy reasons. 
 
-If the content is able to be shared but was not sent out before the event started consider sending out notes, session minutes, 
-and session content during - or - as soon as possible, after the session. 
+If the content is able to be shared but was not sent out before the event started consider sending out notes, session minutes, and session content during - or - as soon as possible, after the session. 
 You could also consider taking collaborative notes during the session and making the document link available for attendees. 
 [HackMD](https://hackmd.io) or [Google Docs](https://www.google.co.uk/docs/about/) are recommended for their accessibility support features, and Etherpad can support a larger number of contributors. 
 Additional guidance on tools for taking collaborative notes can be found in {ref}`cl-event-tools`.
 
 If information cannot be shared externally and made accessible, consider providing a note taker who is able to provide live notes in a secure location accessible to attendees only for the duration of the event.
 
-Additionally, if your event is a workshop that requires live input from attendees, ensure that questionnaires or any reference material that will be discussed
-are sent out at least two days prior to the start of the event. 
+Additionally, if your event is a workshop that requires live input from attendees, ensure that questionnaires or any reference material that will be discussed are sent out at least two days prior to the start of the event. 
 This is especially important to support people with visual impairments, cognitive differences, or verbal processing difficulties. 
 
 
@@ -264,16 +245,13 @@ Research fields can often rely on acronyms and jargon to communicate effectively
 However, the use of jargon can make the involvement and inclusion of people with lived experience difficult. 
 
 Reflect on how, and where, your research field uses jargon that might not be understandable to those outside your field. 
-Although you may be able to assume that many people with lived experience are familiar with any common acronyms or jargon used, 
-it can benefit the inclusion of all attendees and experience levels if the amount of jargon used can be minimized. 
-For example, researchers, clinicians and people with a lived experience of arthritis may be more familiar with terms and 
-medication names related to arthritis and associated conditions. 
+Although you may be able to assume that many people with lived experience are familiar with any common acronyms or jargon used, it can benefit the inclusion of all attendees and experience levels if the amount of jargon used can be minimized. 
+For example, researchers, clinicians and people with a lived experience of arthritis may be more familiar with terms and medication names related to arthritis and associated conditions. 
 However, many attendees may be unfamiliar with these terms can can feel excluded from conversation and event content that focuses on them 
 
 As part of planning, consider how you can reduce the use of jargon and acronyms at your event, and create a strategy for supporting speakers and facilitators to also avoid unnecessary jargon. 
 
-You may want to develop a Glossary of Terms that can be included in information booklets, and where possible, work with researchers to be mindful of, 
-and review, language choices to ensure inclusivity, such as avoiding gender-specific terms and including language that recognizes the diverse identities engaged in your event. 
+You may want to develop a Glossary of Terms that can be included in information booklets, and where possible, work with researchers to be mindful of, and review, language choices to ensure inclusivity, such as avoiding gender-specific terms and including language that recognizes the diverse identities engaged in your event. 
 
 You can find online examples of Glossaries developed by research funding bodies, or review the [NHS list of jargon and acronyms](https://www.nhsconfed.org/publications/acronym-buster) for inspiration.
 
@@ -309,11 +287,9 @@ This can help acknowledge and respect the cultural differences of your attendees
 
 (cl-inclusive-events-comms-plain-language-summaries)=
 #### Plain Language Summaries
-If your event has a large focus on research content, consider writing plain language summaries of core content so that people with lived experience 
-who do not have a background in research are able to engage in the sessions and understand the projects that are discussed. 
+If your event has a large focus on research content, consider writing plain language summaries of core content so that people with lived experience who do not have a background in research are able to engage in the sessions and understand the projects that are discussed. 
 
-Please refer to The Turing Way's chapter on {ref}`cm-lay-summaries` for more guidance.
-and you can view good examples of plain language summaries from the [AI for Multiple Long Term Conditions research projects](https://aim-rsf.github.io/Glossary-of-Terms/pages/aim-projects.html). 
+Please refer to The Turing Way's chapter on {ref}`cm-lay-summaries` for more guidance, and you can view good examples of plain language summaries from the [AI for Multiple Long Term Conditions research projects](https://aim-rsf.github.io/Glossary-of-Terms/pages/aim-projects.html). 
 
 (cl-inclusive-events-comms-accessibility-guide)=
 ## Content Accessibility Guidance 
@@ -341,12 +317,9 @@ Ensure that the designed material meets accessibility guidance:
   Font size by itself is not detectable by screen readers. Instead use the heading and title style tools in programs such as Microsoft Word, and Google Docs. 
 
 A large part of inclusion is about building trust. 
-Even if your email contains all the details that an image of your flyer does, a person who is unable to access the information in the image will not know 
-if there is information they are missing out on. Try to use multiple channels (such as a PDF flyer with alt-text, plain text email, accessible website, and a captioned video) 
-to duplicate the communication of core information and engage with the communities of people with lived experience to understand how to communicate best with them. 
+Even if your email contains all the details that an image of your flyer does, a person who is unable to access the information in the image will not know if there is information they are missing out on. Try to use multiple channels (such as a PDF flyer with alt-text, plain text email, accessible website, and a captioned video) to duplicate the communication of core information and engage with the communities of people with lived experience to understand how to communicate best with them. 
 
-You can find more information about other specific content considerations in a [blog post](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) 
-published by the Accessibility Team of the UK's Home Office Digital Group. 
+You can find more information about other specific content considerations in a [blog post](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) published by the Accessibility Team of the UK's Home Office Digital Group. 
 These posters make recommendations for how to make communications and information accessible for people with: 
 - low vision
 - D/deaf and hard of hearing
@@ -357,8 +330,7 @@ These posters make recommendations for how to make communications and informatio
 
 (cl-inclusive-events-comms-vendor-timelines)=
 ### Working with Vendors 
-As part of deciding what event and promotional materials will be required, identify who will develop these materials, whether it’s an external marketing agency or 
-an internal graphic designer, and if there are additional requirements that vendors may have, such as specific printers, lead times, and file format preferences. 
+As part of deciding what event and promotional materials will be required, identify who will develop these materials, whether it’s an external marketing agency or an internal graphic designer, and if there are additional requirements that vendors may have, such as specific printers, lead times, and file format preferences. 
 
 This is especially important for in-person or hybrid events where you may be printing posters, flyers, or program books for the event. 
 
@@ -449,14 +421,12 @@ There are many different reasons for needing to communicate on the day of the ev
 For example to make attendants aware if there will be loud noises, content that may trigger photosensitive epilepsy, or to update attendees when your event sessions start after a break. 
 
 It is especially important to consider how you will communicate when there will be sensitive or potentially harmful content being shared. 
-"Harmful" can be in the context mentioned above with photosensitive epilepsy, a response to discussion topics that may arise, 
-or a video that could be difficult or uncomfortable for attendees with sensory processing differences to experience. 
+"Harmful" can be in the context mentioned above with photosensitive epilepsy, a response to discussion topics that may arise, or a video that could be difficult or uncomfortable for attendees with sensory processing differences to experience. 
 Consider communicating an overview of a session's content before it begins to allow attendees to prepare or choose to leave the session. 
 
 ```{tip}
 Below is a good example of proactive communication from an organization related to a service dog joining the office. 
-It addresses both the accessibility requirement of the person who will be accompanied by a service animal, and also opens a line of communication with an 
-identified point of contact for anyone who may be impacted due to allergies or a fear of dogs. 
+It addresses both the accessibility requirement of the person who will be accompanied by a service animal, and also opens a line of communication with an identified point of contact for anyone who may be impacted due to allergies or a fear of dogs. 
 This message was shared by email and on a company intranet - the two most common places to receive company communications, making it effective at reaching its staff and community.
 ```
 
@@ -477,8 +447,7 @@ In many cases, you may need to develop a strategy for how to ensure that all att
 ## After the event 
 Finally, once your event has finished, you may want to consider how you will engage with the attendees. 
 
-This may involve sending out thank you's, a feedback survey, gift packs, or closing event information such as links and slides 
-for presentations, any summary notes, or other material that was delivered and able to be shared from the event. 
+This may involve sending out thank you's, a feedback survey, gift packs, or closing event information such as links and slides for presentations, any summary notes, or other material that was delivered and able to be shared from the event. 
 
 Depending on the size and format of your event, consider how you will communicate the timeline for when attendees can expect any follow-up information. 
 It may take a significant portion of time to manually transcribe sessions and add captions before uploading to a video hosting platform so it is helpful for attendees to know to expect follow-up content.
