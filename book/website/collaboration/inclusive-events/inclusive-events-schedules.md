@@ -1,16 +1,14 @@
 (cl-inclusive-events-schedule-planning)=
 # Creating Schedules and Agendas for Inclusive Events
-When developing a schedule or agenda for your event, it is important to reflect on how different aspects
-of an event's schedule will impact how inclusive and accessible your event will be.
+The timing and design of your event and how to accommodate the diverse needs of your attendees are 
+critical when developing a schedule or agenda for your event as they impact how inclusive and accessible your event will be.
 
-As organizers, you should think critically about the timings and design of your event and how to accommodate 
-the diverse needs of your attendees. 
 This can involve considerations ranging from planning sufficient breaks between sessions to developing a plan 
 for how to support the engagement and involvement of people with lived experience.
 
 This section provides guidance and recommendations for how to plan an inclusive and accessible event 
 schedule (or agenda) and highlights what steps you can take to create a welcoming atmosphere where attendees 
-with lived experience feel heard and valued, and are able to equitably engage in your event.
+with lived experience are heard and valued, and are able to equitably engage in your event.
 
 It is crucial in your planning to prioritize inclusivity and accessibility in your event's scheduling and 
 programming, and to recognize that many of the traditional approaches to schedules and agendas may create 
