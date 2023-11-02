@@ -291,9 +291,12 @@ You could also consider an activity where researchers are paired with non-resear
 This can help to bring "clear and effective communication" to the forefront of attendee's minds and set all attendees up to communicate clearly throughout the event.
 
 If possible, consider co-developing plain language and Easy Read content alongside a community representative or person with lived experience. 
-If this is not possible for your event, ensure that core communications and event content are checked by using an external tool such as the [Hemingway App](https://hemingwayapp.com/). 
-You can also paste the URL of a website into a [Readability Checker](https://www.webfx.com/tools/read-able/) to check the content of your event's webpage. 
-There are more resources below that can help you prepare Plain Language content. 
+If this is not possible for your event, you can review guidance on how to write in plain language and ensure that core communications and event content are checked by using an external tool. 
+
+```{note}
+The Office for National Statistics in the UK has [published a short guide on writing with Plain Language](https://service-manual.ons.gov.uk/content/writing-for-users/plain-language) and there are also tools such as the [Hemingway App](https://hemingwayapp.com/) (an online tool that gives you feedback on the clarity of your writing), or Microsoft Word's reading level reviewer (if you have an account, Microsoft has provided [instructions on how to use it](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2?ui=en-us&rs=en-us&ad=us#__toc342546555)) which provides the reading level of your document's content.
+You can also paste the URL of a website into a [Readability Checker](https://www.webfx.com/tools/read-able/) to check the overall content and layout of your event's webpage. 
+```
 
 Aim to have all core event communications be understandable by a general audience, and written in Plain Language. This does not need to mean that your entire event is pitched to a general audience, however by making all general information understandable you will be more inclusive and more able to engage all potential attendees, from research staff, researchers, organizers, people with lived experience, and other professions associated with your event's content. 
 
@@ -303,11 +306,6 @@ Additionally, consider how you will be mindful of, and review, language choices 
 For example, avoid gender-specific terms and include language that recognizes diverse identities in your event information and content. 
 This can help acknowledge and respect the cultural differences of your attendees. 
 
-(cl-inclusive-events-comms-plain-language-resources)=
-#### Resources for Writing in Plain Language
-The Office for National Statistics in the UK has [published a short guide on writing with Plain Language](https://service-manual.ons.gov.uk/content/writing-for-users/plain-language), 
-and there are online tools such as the [Hemingway App](https://hemingwayapp.com/) which give you feedback on your writing to make it clearer. 
-If you have a Microsoft Word account, there is also a feature (and [instructions on how to use it](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2?ui=en-us&rs=en-us&ad=us#__toc342546555)) which provides the reading level of your document's content.
 
 (cl-inclusive-events-comms-plain-language-summaries)=
 #### Plain Language Summaries
