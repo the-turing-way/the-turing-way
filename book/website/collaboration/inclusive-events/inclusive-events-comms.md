@@ -211,7 +211,7 @@ For example, recommending that speakers remain as still as possible while they a
 will help support attendees who rely on lip and face reading to engage in a session.
 
 You can also include information about the audience and provide guidance on how to effectively communicate to an audience of people with lived experience. 
-Many early career researchers may not have recieved formal training in scientific communication and working with the public, so it can be helpful to emphasize the importance of using plain language and speaking clearly. 
+Many early career researchers may not have received formal training in scientific communication and working with the public, so it can be helpful to emphasize the importance of using plain language and speaking clearly. 
 
 You can also prepare the speakers by asking how they would like to interact with any questions that are asked. 
 Many research talks often follow a "lecture" format where a speaker talks on a topic and then takes 2-3 questions from the audience. 
