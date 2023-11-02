@@ -15,10 +15,12 @@ This includes identifying when your event will start and end, the duration of yo
 
 (cl-inclusive-events-start-times)=
 ### Start and End Times
-You may want to consider planning sessions and event start times around travel, for example by starting later in the day and finishing mid-afternoon. This can help support attendees who need to travel to attend your event and may not be comfortable travelling at peak times. 
+You may want to consider planning sessions and event start times around travel, for example by starting later in the day and finishing mid-afternoon. 
+This can help support attendees who need to travel to attend your event and may not be comfortable travelling at peak times. 
 If your event needs to start early in the morning, consider hosting a welcome session that is able to be missed if necessary. 
 
-Additionally, consider planning your event around important holidays and cultural celebrations. 
+Additionally, consider planning your event around important holidays and cultural celebrations, as well as considering how weekend events will impact different people's ability to attend. 
+Events that occur on weekends or during working hours can negatively impact the ability of people with lived experience who have jobs or caregiving commitments to attend events. 
 By considering when your attendees will be required elsewhere, you will be more likely to find a time that suits everyone. 
 
 (cl-inclusive-events-session-duration)=
