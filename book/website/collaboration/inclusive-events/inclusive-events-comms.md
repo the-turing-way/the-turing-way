@@ -52,7 +52,7 @@ Providing clear and timely information will help your attendees with lived exper
 This will also be supportive of attendees with busy schedules who may be booked out significantly in advance.
 
 Your Save the Date should include an overview of honorarium or reimbursement support, the date, and the approximate location of the event such as Zoom, 
-or the name of the City where the event will take place. 
+or the name of the city where the event will take place. 
 It should also reference how long the event is likely to be, for example, if it's a multi-day event or a few hours. 
 
 Attendees with a lived experience of caring responsibilities may need to hire and arrange alternative care support in order to attend your event, 
