@@ -55,7 +55,7 @@ Your Save the Date should include an overview of honorarium or reimbursement sup
 or the name of the city where the event will take place. 
 It should also reference how long the event is likely to be, for example, if it's a multi-day event or a few hours. 
 
-Attendees with a lived experience of caring responsibilities may need to hire and arrange alternative care support in order to attend your event, 
+Attendees with caring responsibilities may need to hire and arrange alternative care support in order to attend your event, 
 or could be placed at a significant financial disadvantage if they travel and attend. 
 By providing guidance along with a "Save the Date", your attendees would have appropriate time be able to make arrangements, and also be able to make an informed choice about if they are able to attend. 
 
