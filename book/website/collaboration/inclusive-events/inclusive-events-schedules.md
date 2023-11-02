@@ -71,9 +71,11 @@ In addition to session length, it is also important to consider how your event w
 
 If you are organizing a multi-day conference, consider picking either a single day or a repeating timeslot that features any content specifically important for people with lived experience. 
 For example, Day 1 of a 3-Day event might schedule the majority of sessions focused on public engagement and lived experience, followed by Day 2 which could focus on technical workshops and other content. 
-Alternatively, sessions from 10 a.m. - 1 p.m. on all 3 days could focus on lived experience content. 
+Alternatively, if your conference is online, consider choosing a repeating session time from 10 a.m. - 1 p.m. on all 3 days that could focus on lived experience content. 
 
 This can support the engagement of people with lived experience who volunteer their time to engage in research, as well as people with lived experience of disabilities and medication conditions that can significantly impact their energy levels. 
+
+When deciding where in your schedule to plan content, ensure that you work with, or ask people with lived experience from your specific audience what would works for them, instead of assuming and choosing times that are otherwise empty in the schedule.
 
 (cl-inclusive-events-schedule-content)=
 ## Event Content: Planning for Engagement
