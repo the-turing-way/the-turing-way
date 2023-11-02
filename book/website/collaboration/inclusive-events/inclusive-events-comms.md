@@ -16,14 +16,15 @@ For this chapter, "Communications" refers to the information you share with atte
 the channels you will use, and the content and information about the event. 
 
 When developing a communications strategy, you need to consider:
-- Who are you trying to reach.
-- Why are you trying to reach them.
-- What will it contain.
-- When does it need to be sent.
-- How will you convey the information.
+- Who are you trying to reach?
+- Why are you trying to reach them?
+- What information do you need to include?
+- When do your attendees with lived experience need the information?
+- How will you convey the information?
 
 Depending on the scale and resources for your event, your communications plan may include the development of websites, PDFs, flyers, banners, 
 and social media posts in addition to email and calendar invites. 
+
 By carefully planning out what you need to communicate, when, and how you ensure that the information is received and understood, 
 your attendees will be supported in spending their effort and energy taking part in your event instead of worrying about their access needs.
 
