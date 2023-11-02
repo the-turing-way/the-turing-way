@@ -160,11 +160,14 @@ HTML and plain text is often the most accessible format, and some PDF software p
 (cl-inclusive-events-registration)=
 ## Registration
 If you are using forms or an external registration software, ensure that the registration forms and platform are accessible for all attendees. 
+
 This includes ensuring that if a time limit is imposed, it can be changed or turned off as mentioned above in the event website section. 
+For example, many event registration websites require people to complete the registration forms within 5 or 10 minutes. 
+Although this is put in place to ensure that event registrations are genuine, these time limits can prohibit people who use screen readers or other assistive technologies - or who may just require more time - from completing registration forms and signing up for your event.
 
 Check if registration platforms are able to be accessed by screen reader technology, and ensure that your registration form is written in plain language and meets online accessibility guidance. 
+Also consider making registration possible by phone, in person, or by email if you are able to support it. 
 
-Consider making registration possible by phone, in person, or by email if you are able to support it. 
 By making registration possible through different channels, you are helping to remove technology barriers that some people with lived experience may face. 
 For example, not all households have a computer with reliable internet access which may make accessing and using online registration forms difficult. 
 
