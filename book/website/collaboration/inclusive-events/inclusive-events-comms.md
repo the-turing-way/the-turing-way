@@ -106,6 +106,11 @@ You can also choose an event platform such as Eventbrite, Humanitix, or EventYay
 When deciding on what platform to use please review the accessibility of a potential site, and follow any advice as to how you can make your content on their platform accessible. 
 For example, [Eventbrite provides accessibility guidance](https://www.eventbrite.com/blog/66754-2how-to-creat-an-accessible-event-listing-ds00/) for event pages hosted on their platform. 
 
+> When reviewing event platforms, please note that many organizations have recently changed their pricing options.
+> For example, Eventbrite has been updated so that events larger than 25 people will need to pay a fee to host on their platform.
+> 
+> You will need to work with your team to identify the best solution for your event based on the resources you have available. 
+
 There are two main considerations for your event website:
 {ref}`cl-inclusive-events-comms-website-accessibility` and {ref}`cl-inclusive-events-comms-website-content`. 
 
