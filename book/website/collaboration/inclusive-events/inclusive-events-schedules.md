@@ -231,10 +231,19 @@ By establishing an active partnership between people with lived experience, rese
 and other experts by profession in your event's sessions, you will be well-positioned to support 
 an equitable space for all attendees to meaningfully engage with your event.
 
+(cl-inclusive-events-inclusive-program-planning)=
+## Creating an Inclusive Program
+If you are able, consider including a person with lived experience in the planning of an event's program and agenda. 
 
-## Including People with Lived Experience in Session Planning / Creating an Inclusive Program
+Involving people with lived experience in the planning and delivery of events ensures the voice of people with lived experience is built into the dialogue throughout your event. 
 
-[See Draft PR Discussion - section content WIP]
+Active involvement can also help organizers develop a greater understanding of what is important from the perspective of people with lived experience and ensure that the proposed structure and content of the event is shaped in a way that will meet the needs of the potential attendees.
+
+Their involvement can offer insight and perspective into the specific challenges and needs of individuals with disabilities and any specific lived experience your event is focused on. If you are including a person, or group, with lived experience in the planning, ensure that you are appropriately compensating and supporting them for their expertise.
+
+If you are unable to include a representative on your planning team, try to prioritize the engagement of, and feedback from, the specific communities that will be in attendance. People with lived experience may offer different ideas about how to present the materials, and their insights will be invaluable in developing an inclusive event program that is genuinely accessible, respectful, and responsive to the diverse needs of all participants.
+
+When developing your event's program or agenda, ensure that you have established a pathway or mechanism to get feedback and input from people with lived experience. The two options discussed above are ideal, as people with lived experience will be able to provide insights and perspectives on the specific challenges and needs of your attendees. This perspective can be helpful when identifying what sessions or content should be included in the program, and will support you in creating a more inclusive and relevant program for your audience. 
 
 
 (cl-inclusive-events-session-schedule)=
