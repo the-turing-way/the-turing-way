@@ -116,7 +116,7 @@ There are two main considerations for your event website:
 
 (cl-inclusive-events-comms-website-accessibility)=
 ### Website Accessibility
-Your website should meet Web Accessibility Standards by following the 4 WCAG principles: 
+Your website should meet Web Accessibility Standards by following the 4 principles outlined in the Web Content Accessibility Guidelines (WCAG): 
 - **Perceivability**, meaning that people who use and arrive at your event website are able to "perceive" all the content on the website using at least one of their senses.
   This can mean ensuring that any video content is accompanied by captions, providing Alternative Text descriptions for images, and that any controls or clickable features on the site have text labels that describe the purpose of the feature.
   For example, a button labelled "Sign Up to Newsletter" or "Upload Image". 
