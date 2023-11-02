@@ -1,12 +1,13 @@
 (cl-inclusive-events-comms)=
 # Planning Communications for Inclusive Events
 
-Transparency and clear communication is critical to support people with lived experience in making informed decisions about whether to engage in your event. 
-Any of the other decisions you have made may not be helpful in supporting the engagement and inclusion of people with lived experience if you have not 
-communicated about what those decisions are. 
-Even if you have planned the perfect event, if people don't what those plans are, you will not be able to run a successful event.
+Having a good plan on how and when to communicate around your event are always important, but can be even more relevant when inviting people with lived experience who might not yet have a lot of experience with your type of event and which accessibility affordances you have put into place. 
 
-Creating a communication plan is therefore the key to hosting an accessible and inclusive event for people with lived experience.
+Transparency and clear communication are thus critical to support people with lived experience in making informed decisions about whether to engage in your event. 
+Any of the other decisions you have made may not be helpful in supporting the engagement and inclusion of people with lived experience if you have not communicated about what those decisions are. 
+And even if you have planned the perfect event, if people don't what those plans are, your event will likely stay behind its potential.
+
+Creating a communication plan is therefore a key part to hosting an accessible and inclusive event for people with lived experience.
 
 This section provides guidance on what to consider when developing a communications plan for events involving people with lived experience. 
 It will not be able to replace an in-depth communications plan, but instead draws attention to what additional considerations may be needed to help 
