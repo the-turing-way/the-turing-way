@@ -153,13 +153,13 @@ You can read more about the World Cafe method on [The World Café Community Foun
 Facilitators and session moderators can help to foster a safe and supportive environment for people with lived experience to share their perspectives and insights. 
 Their role at an inclusive event is to provide safe and supported opportunities for active participation from attendees, act as a catalyst for conversation, and to help align discussion and any questions, with the goals of the session and event. 
 
-If you are able to involve facilitators or moderators at your event, consider how they can support engagement of and contributions from people with lived experience. 
+If you are able to involve facilitators or moderators at your event, consider how they can support the engagement of - and contributions from - people with lived experience. 
 This is especially important for events that focus on discussion or require active participation (such as the World Cafes we discussed in the previous section). 
-Many people with lived experience may not have received formal training in public speaking or rhetoric, and can be at a greater risk of being left out of conversation. 
+Many people with lived experience may not have a lot of experience, or had the opportunity to develop skills in public speaking or rhetoric and can therefore be at a greater risk of getting left out of conversation. 
 
 Just inviting people with lived experience to your event is not sufficient if they are not supported and actively welcomed to engage in your event's content. 
 
-Although it is becoming more common for people with lived experience to become self-advocates and receive training in public speaking, it is important for researchers and event organizers to consider - and make use of - moderators and session facilitators in order to uphold inclusive and equitable engagement practices. 
+Although it is becoming more common for people with lived experience to become self-advocates and receive training in public speaking, it is important for researchers and event organizers to consider, and make use of, moderators and session facilitators in order to uphold inclusive and equitable engagement practices. 
 
 (cl-inclusive-events-icebreakers)=
 ### Using Icebreakers and Teambuilding
