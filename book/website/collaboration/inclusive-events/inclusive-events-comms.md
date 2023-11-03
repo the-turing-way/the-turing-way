@@ -105,24 +105,9 @@ There are two main considerations for your event website:
 
 (cl-inclusive-events-comms-website-accessibility)=
 ### Website Accessibility
-Your website should meet Web Accessibility Standards by following the 4 principles outlined in the Web Content Accessibility Guidelines (WCAG): 
-- **Perceivability**, meaning that people who use and arrive at your event website are able to "perceive" all the content on the website using at least one of their senses.
-  This can mean ensuring that any video content is accompanied by captions, providing Alternative Text descriptions for images, and that any controls or clickable features on the site have text labels that describe the purpose of the feature.
-  For example, a button labelled "Sign Up to Newsletter" or "Upload Image". 
-- **Operability**, which means that all users can control and interact with any buttons or clickable features.
-  To meet this requirement, ensure that any buttons are able to be interacted with and clicked through different modalities for example, a mouse, a keyboard, or voice command.
-  This is especially important for registration forms which often impose a time limit to complete them. Any registration forms you use for your event must have a way to extend - or turn off - the time limit function for completing the form.
-  If you are using an external registration website, please check the accessibility guidance of that site to ensure that this feature is enabled.
-  It is incredibly important for people who use screen readers and others who may need more time to read and complete a form due to dyslexia, familiarity with the event's host language, or any other reason that impacts reading and language comprehension.
-  Operability also requires that web pages have an informative title for the content on the page.
-- **Understandability** refers to how easy is it for a general audience to understand your website's use and content.
-  For example, content being written in easy read, or plain language formats. This is discussed in more depth in the {ref}`cl-inclusive-events-comms-plain-language` section below.
-  The Web Accessibility guidelines ask that any technical terms, jargon, idioms, slang and abbreviations be accompanied by a definition.
-  Ideally, your site will also contain references to a Glossary that is linked to when those words appear.
-  You may need to develop a Glossary specific to your event and area, or consider what Glossaries have been developed by research funding bodies or University Communications teams and provide links if applicable. 
-- Finally, **Robustness**.
-  Robustness refers to the importance of content on your event page's website being compatible with different browsers, now and in the future,
-  and how compatible the content is with different technologies such as screen readers and other assistive technologies. 
+Your website should meet Web Accessibility Standards by following the 4 principles of **Perceivability**, **Operability**, **Understandability**, and **Robustness** as outlined in the Web Content Accessibility Guidelines (WCAG). 
+
+This can mean checking that any video content is accompanied by captions, providing Alternative Text descriptions for images, and that any controls or clickable features on the site have text labels that describe the purpose of the feature (for example, a button labelled "Submit Registration Form" or "Contact Us by Email"), and ensuring that your event's website can be used on different browsers (such as Internet Explorer, Firefox, and Safari). 
 
 [Mozilla's Developer Documentation on Web Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG) provides a good overview of how to meet these 4 web accessibility standards and also provides more examples of how to meet each criterion. 
 If you are interested in learning more, you can also review the full guidance published by the [Web Accessibility Initiative](https://www.w3.org/WAI/standards-guidelines/wcag/).
@@ -217,18 +202,24 @@ Many people with lived experience may feel more comfortable engaging in an event
 (cl-inclusive-events-comms-presentation-material)=
 ## Presentation Slides and Event Content
 Although it is common in research to prepare presentation slides at the penultimate hour, to be as inclusive as possible, please work with your speakers and presenters to finalize session content before the event. 
-By requesting slides and presentation content ahead of the event you will be best set up to support the involvement of people with disabilities and lived experience at your event. 
 
-Consider how you will support speakers in developing accessible and inclusive material. 
+By working with speakers and requesting slides and presentation content ahead of the event, you will be best set up to support the involvement of people with disabilities and lived experience at your event. 
+
+This can help in two core ways, 1) supporting speaking in developing both psychologically and physically accessible content, and 2) ensuring that your event's content is accessible to a diverse audience.
+
+Firstly, consider how you will support speakers in developing accessible and inclusive material. 
 This may mean developing and sharing guidance on session content, or could also be giving feedback on presentation drafts. 
 Ensure that you contact and confirm your speakers with enough notice that allows them to prepare and revise material. 
 Please refer to the {ref}`cl-inclusive-events-comms-accessibility-guide` section for more recommendations on what to include in a speaker guidance pack for how to make presentations accessible. 
 
-It is best practice to send out content before the session or event to ensure that people with sensory impairments are able to understand and take part. 
+Secondly, it is best practice to send out content before the session or event to ensure that people with sensory impairments, or who may require more time to review and engage with the material, are able to understand and take part. 
+
 If this is not possible, please address the reasons why in the opening address of the event and make alternative arrangements.
 For example, if the information is sensitive and unable to be shared due to Intellectual Property or Privacy reasons. 
 
-If the content is able to be shared but was not sent out before the event started consider sending out notes, session minutes, and session content during - or - as soon as possible, after the session. 
+(cl-inclusive-events-comms-event-content)=
+## Collaborative Event Content
+If the content such as presentation slides, worksheets, and other material are able to be shared but was not sent out before the event started consider sending out notes, session minutes, and session content during - or - as soon as possible, after the session. 
 You could also consider taking collaborative notes during the session and making the document link available for attendees. 
 [HackMD](https://hackmd.io) or [Google Docs](https://www.google.co.uk/docs/about/) are recommended for their accessibility support features, and Etherpad can support a larger number of contributors. 
 Additional guidance on tools for taking collaborative notes can be found in {ref}`cl-event-tools`.
