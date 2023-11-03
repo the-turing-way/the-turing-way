@@ -10,6 +10,7 @@ Creating a communication plan is therefore a key part of hosting an accessible a
 
 This section provides guidance on what to consider when developing a communications plan for events involving people with lived experience. 
 It will not be able to replace an in-depth communications plan, but instead draws attention to what additional considerations may be needed to help make your event inclusive of people with lived experience. 
+You can find a checklist for what key pieces of information should be included in your event's core communications at the end of this page.
 
 For this chapter, "Communications" refers to the information you share with attendees, the timings and schedule on which you communicate it, the channels you will use, and the content and information about the event. 
 
@@ -83,6 +84,42 @@ This announcement should also contain information about how to register for the 
 Autism Advocacy suggests that schedules for multi-day events should be sent at least one month in advance which includes details about transport and its proximity to the event location, training session names, speaker names, breaks, and planned schedule, and at least 2 weeks in advance for events taking place on a single day.
 The [Autism Advocacy Accessible Event Planning Guide](https://autisticadvocacy.org/wp-content/uploads/2019/05/Accessible-Event-Planning.pdf) also contains other recommendations and timeline guidance for running events for autistic people.
 ```
+(cl-inclusive-events-dress-code)=
+## Communicating Dress Code and Setting Information
+For many attendees, especially those with lived experience, your event may be the first research event they have been invited to. 
+Additionally, the terms "researcher" and "scientist" may carry many stereotypes such as people wearing lab coats, tweed jackets, or formal robes. 
+
+It can be helpful to surface tacit information, such as what to wear, in your event information to help all attendees feel comfortable and to dispel any assumptions people may have about what a "scientist" looks like. 
+
+Consider communicating if there is an expectation of business, business casual, or other dress code and if your event will host any particular social events that may require a different dress code.
+For example, closed-toed shoes in a museum, or modest dress for a sacred site.
+
+Also, consider including a short description of what that specific dress code means.
+You can include examples or reference images if it is particularly important to be dressed a certain way, for example, a research event that may be visited by a Royal Family or other dignitary. 
+
+Where possible at your event, support the adoption of a casual dress code. 
+Business or Formal wear can be cost-prohibitive and inaccessible to those with mobility difficulties or sensory processing differences.
+
+```{note}
+What to wear to research events can often differ greatly between fields. 
+For example, some prominent researchers and a Nobel laureate have become known for not wearing shoes and avoiding formal wear at events. 
+By making clear expectations and supporting people with lived experience attending your event, you are also helping make your event more inclusive and welcoming to all attendees in a non-judgemental space.
+```
+
+(cl-inclusive-events-comms-sickness-policy)=
+## Establishing and Communicating a Sickness Policy
+The COVID-19 pandemic brought public health and safety back into active awareness for a large part of the population, and we recommended for all events to consider and include guidance for attendees in the event of an attendee becoming ill.
+
+To reduce community transmission and protect immunocompromised individuals, consider including information about masks, hand sanitizer, and other personal protective equipment in your attendee information packs. 
+Although you may not be able to support offering free masks and hand sanitizer to attendees, by providing information on if your event requires (or doesn't require) masks to be worn, people with lived experience of health conditions or who may have been severely impacted by public health crises will be able to make an informed decision about whether to attend your event, and how to do so safely. 
+
+COVID-19 and many other common illnesses can severely impact the health of people who may be immunocompromised, and it is important to consider how you will ensure the safety of attendees.
+
+You may have separate guidance for general sickness and for COVID, and will need to clearly highlight any expectations or requirements you may have any attendee who feels unwell. 
+Consider if you are able to support attendees who feel unwell by changing their attendance from in-person to online, and how any sickness policies will impact reimbursements for tickets, accommodation, or travel depending on the insurance policy for your event. 
+It is important to provide this information to attendees, both so that they can keep themselves and others safe, and also so that there is a clear expectation of what you will and won't be able to support. 
+
+With any policy or illness information, please seek guidance from the relevant local authority regarding specific health risks that may affect your event. 
 
 
 (cl-inclusive-events-comms-website)=
@@ -324,64 +361,6 @@ Using Lowercase and uppercase letters can benefit people with dyslexia, and can 
 Try to avoid using a hyphen in your hashtags which some social media sites will read as two separate words. 
 If you can't keep your hashtag to a single word or phrase, use an underscore instead #Which_Looks_Like_This.
 
-(cl-inclusive-events-comms-key-information)=
-## Key Information Checklist
-This is not an exhaustive list of what to include in core communication, however, it can be used as a reference in addition to the information above for what to include on a website or in an information pack. 
-
-* **Information about the event** including:
-    * The Date and Time of the event.
-    * Event Agenda or Program.
-    * Location of the event.
-      Consider also sharing a map of the location and accompanying text instructions of the location and consider including details such as where parking would be available, where each of the session locations would be, and where to go in an emergency situation. 
-    * Information about transport links and suggestions for how to get to the location from public transport.
-    * Who is hosting the event and a point of contact. Consider including information about the hosts or supporting organizations.
-
-* Information about any **Reimbursement or Honorarium Policies** you may have. This includes details on: 
-    * What can be reimbursed.
-    * How to complete the process, as well as links to any forms that are needed. Consider writing a guide or instructions for any forms you may have. 
-    * What is involved in the process.
-    * Who to contact about reimbursements.
-      When working with large research teams, it can become unclear who is responsible for what tasks.
-      Providing details on the reimbursement process, and who to contact if there are questions, can help make people with lived experience who take part in your event feel supported and understood and establish a clear expectation.
-      This is especially important if the member of your event team who is the main point of contact for accessibility questions is different from the person able to process financial requests. 
-
-* **Contact information for support** or regarding special requests such as:
-    * The Event organiser. This may be the designated point of contact in an emergency.
-    * A person who is able to provide Accessibility information and help if you are able to support it for your event.
-      Try to make this contact available as soon as you announce the event, even if it is setting up a designated inbox.
-    * Any Catering or dietary requirements.
-      Because dietary requirements are protected information, not all members of an organizing team will have access to it or be able to answer questions. 
-    * Accommodation or transport logistics.
-      This includes a point of contact for any hotels or customer support lines as well as a point of contact who can help secure bookings if needed, or call if there is an issue.
-      For example, a hotel being double booked or not providing step-free access for wheelchair users.
-
-* **Sickness Policy:**
-    * The COVID-19 pandemic brought public health and safety back into active awareness for a large part of the population.
-      It is recommended to include a guidance or a policy in the event of an attendee becoming ill.
-      To reduce community transmission and protect immunocompromised individuals, consider providing masks and requesting that any attendee who feels unwell attend the event online instead of in-person.
-      COVID-19 and many other common illnesses can severely impact the health of people who may be immunocompromised, and it is important to consider how you will ensure the safety of attendees.
-      You may have separate guidance for general sickness and for COVID, and can seek guidance from your local authority regarding specific health risks to note. 
-    * This may also impact reimbursements for tickets or accommodation and travel depending on the insurance policy for your event.
-
-* **Emergency Evacuation Plans:**
-    * As mentioned in [****] you may need to provide additional evacuation plans to your attendees.
-      Please ensure that information about how, and where to evacuate is provided for attendees to reference in the event of an emergency.
-
-* **Dress Code**
-    * It can be helpful to surface tacit information, such as what to wear to an event, in your event information.
-      Consider communicating if there is an expectation of business, business casual, or any particular social events that may require a different dress code.
-      For example, closed-toed shoes in a museum, or modest dress for a sacred site.
-      Include a short description of what that specific dress code means.
-      You can include examples or reference images if it is particularly important to be dressed a certain way, for example, a research event that may be visited by a Royal Family or other dignitary. 
-    * Where possible at your event, support the adoption of a casual dress code. Business or Formal wear can be cost prohibitive and inaccessible to those with mobility difficulties or sensory processing differences.
-
-```{note}
-What to wear to research events can often differ greatly between fields. 
-For example, some prominent researchers and a Nobel laureate have become known for not wearing shoes and avoiding formal wear at events. 
-By making clear expectations and supporting people with lived experience attending your event, you are also helping make your event more inclusive and welcoming to all attendees in a non-judgemental space.
-```
-
-
 (cl-inclusive-events-comms-during-event)=
 ## At the Event
 Consider how you will communicate with your attendees throughout the event. 
@@ -433,6 +412,51 @@ Instead, consider setting a date when you or the research team will send an upda
 (cl-inclusive-events-comms-conclusion)=
 ## Conclusion
 By demonstrating an open channel of communication about accessibility, and by being thorough in your communications plans, you will be well-positioned to support people with lived experience engaging in your event in a way that is safe and fulfilling. 
+
+(cl-inclusive-events-comms-key-information)=
+## Key Information Checklist
+This is not an exhaustive list of what to include in core communication, however, it can be used as a reference in addition to the information above for what to include on a website or in an information pack. 
+
+* **Information about the event** including:
+    * The Date and Time of the event.
+    * Event Agenda or Program.
+    * Location of the event.
+      Consider also sharing a map of the location and accompanying text instructions of the location and consider including details such as where parking would be available, where each of the session locations would be, and where to go in an emergency situation. 
+    * Information about transport links and suggestions for how to get to the location from public transport.
+    * Who is hosting the event and a point of contact. Consider including information about the hosts or supporting organizations.
+
+* Information about any **Reimbursement or Honorarium Policies** you may have. This includes details on: 
+    * What can be reimbursed.
+    * How to complete the process, as well as links to any forms that are needed. Consider writing a guide or instructions for any forms you may have. 
+    * What is involved in the process.
+    * Who to contact about reimbursements.
+      When working with large research teams, it can become unclear who is responsible for what tasks.
+      Providing details on the reimbursement process, and who to contact if there are questions, can help make people with lived experience who take part in your event feel supported and understood and establish a clear expectation.
+      This is especially important if the member of your event team who is the main point of contact for accessibility questions is different from the person able to process financial requests. 
+
+* **Contact information for support** or regarding special requests such as:
+    * The Event organiser. This may be the designated point of contact in an emergency.
+    * A person who is able to provide Accessibility information and help if you are able to support it for your event.
+      Try to make this contact available as soon as you announce the event, even if it is setting up a designated inbox.
+    * Any Catering or dietary requirements.
+      Because dietary requirements are protected information, not all members of an organizing team will have access to it or be able to answer questions. 
+    * Accommodation or transport logistics.
+      This includes a point of contact for any hotels or customer support lines as well as a point of contact who can help secure bookings if needed, or call if there is an issue.
+      For example, a hotel being double booked or not providing step-free access for wheelchair users.
+
+* Information about the **Sickness Policy** and what the expectations are. For example: 
+    * Information about what the policy and procedures are if an attendee tests positive for an illness that affects public health while attending your event.
+    * Reimbursement or support available if an attendee is unable to attend (such as ticket reimbursements)
+    * Guidance or expectations for attendance in the event of an attendee feeling unwell.
+    * Information about community transmission precautions and if any personal protective equipment will be supplied or available at the event (such as masks or hand sanitiser). 
+
+* **Emergency Evacuation Plans:**
+    * As mentioned in [****] you may need to provide additional evacuation plans to your attendees.
+      Please ensure that information about how, and where to evacuate is provided for attendees to reference in the event of an emergency.
+
+* **Expected Dress Code**
+    * Include information about what expectations and requirements your event will have regarding dress codes and include a short description of what that specific dress code means.
+
 
 (cl-inclusive-events-comms-additional-resources)=
 ## Additional Resources
