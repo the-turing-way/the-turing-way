@@ -156,8 +156,8 @@ If you are able to provide attendees with a map of the venue, make sure to ident
 Also ensure that the location of any emergency supplies such as an AED, epi-pen, first aid kit and a member of staff who will be able to act in the event of an emergency is marked on the map. 
 Although is it not expected for staff and organizers to be medically trained, it is important to know who needs to be contacted in an emergency event. 
 
-(cl-inclusive-events-location-emergency-plan)=
-### Emergency Evacuation Plan
+(cl-inclusive-events-location-emergency-plans)=
+### Emergency Evacuation Plans
 
 Although the hope is that your event will be successful and without incident, it is important to ensure that emergency evacuation procedures take into account the needs of people with mobility and sensory disabilities in the event of an emergency. 
 
