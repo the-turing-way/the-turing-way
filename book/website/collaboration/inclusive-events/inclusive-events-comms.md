@@ -218,7 +218,7 @@ If this is not possible, please address the reasons why in the opening address o
 For example, if the information is sensitive and unable to be shared due to Intellectual Property or Privacy reasons. 
 
 (cl-inclusive-events-comms-event-content)=
-## Collaborative Event Content
+### Collaborative Event Content
 If the content such as presentation slides, worksheets, and other material are able to be shared but was not sent out before the event started consider sending out notes, session minutes, and session content during - or - as soon as possible, after the session. 
 You could also consider taking collaborative notes during the session and making the document link available for attendees. 
 [HackMD](https://hackmd.io) or [Google Docs](https://www.google.co.uk/docs/about/) are recommended for their accessibility support features, and Etherpad can support a larger number of contributors. 
@@ -284,33 +284,15 @@ Please refer to The Turing Way's chapter on {ref}`cm-lay-summaries` for more gui
 
 (cl-inclusive-events-comms-accessibility-guide)=
 ## Content Accessibility Guidance 
-Ensuring that event communications, including printed content, are accessible to all attendees is critical.
+Ensuring that event communications, including printed content, are accessible to all attendees is critical. We have written a short guide for creating accessible content and presentations in {ref}(cl-inclusive-events-accessibility-guide) where you will find in-depth information and suggestions for how to make your presentations and content more accessible for your event.
 
-Ensure that the designed material meets accessibility guidance: 
-* **Use a size 14 (or larger) font** for both digital and printed content.
-  A size 14 font is the recommended size to make text information legible for a broad audience and support people with lived experience of visual impairments, and other conditions that affect readability.
-* **Use a Sans Serif font** such as Arial, Helvetica, or Georgia.
-  "Sans Serif" refers to fonts that do not have embellishments or lines on the letters.
-  Using a Serif font such as Times New Roman can negatively impact readability and make it harder for people with dyslexia to read information.
-  Using a Sans Serif font is especially important for online content such as emails and websites.
-* **Use high contrast colours** in all content.
-  For example, using dark text on a light background.
-  If you are planning on using different colour palettes to create content and make communication more visually appealing, please ensure that your colours meet Accessibility Standards for Low Vision and Colour Blindness.
-  You may want to consider giving speakers and presenters a guide on how to make their posters and presentations accessible if your event hosts a poster session.
-* **Do not embed essential information in an image**.
-  This includes the information about the name, date, time and location of the event, and any accessibility information.
-  Images do not just mean images on a page, but also using only PNG or JPEG file types.
-  Images cannot be ‘read’ by screen readers that are being used by a person with a visual impairment.
-  Consider using plain text for emails and providing flyers or images as attachments that are accompanied by Alternative Text Descriptions. 
-* **Provide Alt-text** (Alternative Text) descriptions for online images in your content.
-  This is helpful for people with visual impairments that use screen readers, and is also helpful for people with low bandwidth internet where images may not load on a page.
-* **Use the styles tool** in text editors for headings.
-  Font size by itself is not detectable by screen readers. Instead use the heading and title style tools in programs such as Microsoft Word, and Google Docs. 
+These recommendations include using at least a size 14 text in an accessible font type, and ensuring that your presentations and other material use high-contrast colours to support readability. You should also ensure that any images you use are accompanied by an alternative text description and remember to not embed any important information in an image or image file. 
 
 A large part of inclusion is about building trust. 
-Even if your email contains all the details that an image of your flyer does, a person who is unable to access the information in the image will not know if there is information they are missing out on. Try to use multiple channels (such as a PDF flyer with alt-text, plain text email, accessible website, and a captioned video) to duplicate the communication of core information and engage with the communities of people with lived experience to understand how to communicate best with them. 
+Even if your email contains all the details that an image of your flyer does, a person who is unable to access the information in the image will not know if there is information they are missing out on. 
+Try to use multiple channels (such as a PDF flyer with alt-text, plain text email, accessible website, and a captioned video) to duplicate the communication of core information and engage with the communities of people with lived experience to understand how to communicate best with them. 
 
-You can find more information about other specific content considerations in a [blog post](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) published by the Accessibility Team of the UK's Home Office Digital Group. 
+Please see the {ref}(cl-inclusive-events-accessibility-guide) for more information, and you can find recommendations for other specific content considerations in a [blog post](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) published by the Accessibility Team of the UK's Home Office Digital Group. 
 These posters make recommendations for how to make communications and information accessible for people with: 
 - low vision
 - D/deaf and hard of hearing
@@ -318,6 +300,7 @@ These posters make recommendations for how to make communications and informatio
 - motor disabilities
 - users on the autistic spectrum
 - users of screen readers
+
 
 (cl-inclusive-events-comms-vendor-timelines)=
 ### Working with Vendors 
