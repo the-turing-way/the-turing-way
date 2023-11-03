@@ -451,7 +451,7 @@ This is not an exhaustive list of what to include in core communication, however
     * Information about community transmission precautions and if any personal protective equipment will be supplied or available at the event (such as masks or hand sanitiser). 
 
 * **Emergency Evacuation Plans:**
-    * As mentioned in [****] you may need to provide additional evacuation plans to your attendees.
+    * As mentioned in the Location section on {ref}(cl-inclusive-events-location-emergency-plans), you may need to provide additional evacuation plans to your attendees.
       Please ensure that information about how, and where to evacuate is provided for attendees to reference in the event of an emergency.
 
 * **Expected Dress Code**
