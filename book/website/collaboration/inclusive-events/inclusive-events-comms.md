@@ -73,7 +73,7 @@ After a "Save the Date, you may consider sending out a formal invitation to anno
 In this announcement, you should provide information about any specific accessibility and inclusion requirements that are addressed such as whether things like captions, interpretation, or other accessibility practices will be available. 
 
 If possible, consider establishing a point of contact on your team who is able to address any questions or concerns that people with lived experience may have about attending your event. 
-This may involve setting up an email inbox such as accessibility@your-event.com. 
+This may involve setting up an email inbox such as accessibility@example.com. 
 
 By providing clear and proactive information about how your event addresses barriers to inclusion, people with lived experience will be able to find out whether the event will be accessible to them individually, and decide if they are able to attend. 
 For example, communicating that your event will be hybrid may allow people who otherwise would not engage in the event to attend online. 
