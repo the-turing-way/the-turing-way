@@ -15,9 +15,9 @@ This includes identifying when your event will start and end, the duration of yo
 
 (cl-inclusive-events-start-times)=
 ### Start and End Times
-You may want to consider planning sessions and event start times around travel, for example by starting later in the day and finishing mid-afternoon. 
+To accommodate travellers, consider starting your event later in the day and finishing mid-afternoon. 
 This can help support attendees who need to travel to attend your event and may not be comfortable travelling at peak times. 
-If your event needs to start early in the morning, consider hosting a welcome session that is able to be missed if necessary. 
+If your event needs to start early in the morning, consider hosting a welcome session that is not critical to attend. 
 
 Additionally, consider planning your event around important holidays and cultural celebrations, as well as considering how weekend events will impact different people's ability to attend. 
 Events that occur on weekends or during working hours can negatively impact the ability of people with lived experience who have jobs or caregiving commitments to attend events. 
@@ -42,7 +42,7 @@ Because many events are planned in 1-hour or 1.5-hour timing blocks, consider ch
 This can be done in addition to allocating 5-10 minutes for an introduction and session set-up and will help reduce the cognitive strain that many people with lived experience of cognitive impairments are affected by. 
 
 > **Example 1: 1-hour Focus Group Event**
-    - 10 minute welcome, Code of Conduct, and Session introduction
+    - 10 minute welcome, Code of Conduct, and session introduction
     - 40 minute Discussion between participants
     - 10 minute break or 10 minute thank you and session close
 
@@ -59,7 +59,7 @@ This is because there may be differences in what is required for a specific comm
 For example, if your event invites specifically people with lived experience of ADHD (and no other cognitive impairments) for a :art: creative workshop :art:, setting sessions at 40 minutes maximum length may be incredibly disruptive and undermine the goals and accessibility of your workshop. 
 This is because many people with a lived experience of ADHD can find that forced interruption is very disruptive and prohibitive of meaningful engagement on tasks that are highly creative or require deep focus.
 Instead, you may want to consider offering longer sessions for this audience that can be facilitated with self-directed breaks. 
-For example, for a 1.5-hr event you may consider a 10 minute introduction, followed by a 50 minute self-directed session, a 15 minute break, and then a 15 minute conclusion or share out and session close.
+For example, for a 1.5-hour event you may consider a 10 minute introduction, followed by a 50 minute self-directed session, a 15 minute break, and then a 15 minute conclusion or share out and session close.
 This example highlights the importance of working with your specific community to identify what formats will work best for your specific event.
 A discussion event or workshop for the same audience with ADHD may need to follow a different format (such a 30 minute instruction followed by a 10 minute break) to better support the audience's preferences and requirements.
 
@@ -151,7 +151,7 @@ You can read more about the World Cafe method on [The World Café Community Foun
 (cl-inclusive-events-moderators-facilitators)=
 ### The role of Moderators and Facilitators
 Facilitators and session moderators can help to foster a safe and supportive environment for people with lived experience to share their perspectives and insights. 
-Their role at an inclusive event is to provide safe and supported opportunities for active participation from attendees, act as a catalyst for conversation, and to help align discussion and any questions, with the goals of the session and event. 
+Their role at an inclusive event is to provide safe and supported opportunities for active participation from attendees, act as a catalyst for conversation, and to help align discussion and any questions with the goals of the session and event. 
 
 If you are able to involve facilitators or moderators at your event, consider how they can support the engagement of - and contributions from - people with lived experience. 
 This is especially important for events that focus on discussion or require active participation (such as the World Cafes we discussed in the previous section). 
@@ -170,13 +170,14 @@ By establishing an active partnership between people with lived experience, rese
 
 (cl-inclusive-events-inclusive-program-planning)=
 ## Creating an Inclusive Program
-If you are able, consider including a person with lived experience in the planning of an event's program and agenda. 
+Ideally you will include a person with lived experience in the planning of an event's program and agenda. 
 
 Involving people with lived experience in the planning and delivery of events ensures the voice of people with lived experience is built into the dialogue throughout your event. 
 
 Active involvement can also help organizers develop a greater understanding of what is important from the perspective of people with lived experience and ensure that the proposed structure and content of the event is shaped in a way that will meet the needs of the potential attendees.
 
-Their involvement can offer insight and perspective into the specific challenges and needs of individuals with disabilities and any specific lived experience your event is focused on. If you are including a person, or group, with lived experience in the planning, ensure that you are appropriately compensating and supporting them for their expertise.
+Their involvement can offer insight and perspective into the specific challenges and needs of individuals with disabilities and any specific lived experience your event is focused on. 
+If you are including a person, or group, with lived experience in the planning, ensure that you are appropriately compensating and supporting them for their expertise.
 
 If you are unable to include a representative on your planning team, try to prioritize the engagement of, and feedback from, the specific communities that will be in attendance. People with lived experience may offer different ideas about how to present the materials, and their insights will be invaluable in developing an inclusive event program that is genuinely accessible, respectful, and responsive to the diverse needs of all participants.
 
@@ -198,11 +199,11 @@ However, if your event is designed to be inclusive of a group of people with a s
 
 (cl-inclusive-events-schedule-diverse-speakers)=
 ### Including Diverse Speakers
-When identifying sessions or speakers for your event, it is incredibly important to include a person with lived experience in your speaker list or panellists. 
+When identifying sessions or speakers for your event, it is incredibly important to include a person with lived experience in your speaker list or as a panellist. 
 
 By supporting and promoting a representative with lived experience at your event, you will actively foster an inclusive environment by providing a platform for those who have lived through similar experiences to share their perspectives, insights, and expertise thus creating a more relatable and empathetic environment for all attendees. 
 
-These speakers may share perspectives that resonate deeply with an audience, and can be the catalyst attendees with lived experience to understand that their perspectives and experiences are valued.
+These speakers may share perspectives that resonate deeply with an audience, and can be the catalyst for attendees with lived experience to understand that their perspectives and experiences are valued.
 
 This core idea around representation can help to establish a shared space between attendees where it feels safe and supportive to engage in a dialogue about lived experience. 
 The presence and promotion of these speakers can help to validate and legitimize the significance of personal experiences within research, and can facilitate a more inclusive and balanced discourse at your event.
