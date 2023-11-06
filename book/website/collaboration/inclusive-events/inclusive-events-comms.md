@@ -256,7 +256,8 @@ For example, if the information is sensitive and unable to be shared due to Inte
 
 (cl-inclusive-events-comms-event-content)=
 ### Collaborative Event Content
-If the content such as presentation slides, worksheets, and other material are able to be shared but was not sent out before the event started consider sending out notes, session minutes, and session content during - or - as soon as possible, after the session. 
+If content such as presentation slides, worksheets, and other material are able to be shared but was not sent out before the event, consider sending it as soon as possible after the session. 
+You can then also send out notes or session minutes taken during the event.
 You could also consider taking collaborative notes during the session and making the document link available for attendees. 
 [HackMD](https://hackmd.io) or [Google Docs](https://www.google.co.uk/docs/about/) are recommended for their accessibility support features, and Etherpad can support a larger number of contributors. 
 Additional guidance on tools for taking collaborative notes can be found in {ref}`cl-event-tools`.
