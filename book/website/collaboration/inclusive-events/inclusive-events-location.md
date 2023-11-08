@@ -156,14 +156,11 @@ Although is it not expected for staff and organizers to be medically trained, it
 ```{note}
 If your event is a large scale conference, consider providing a "sensory map" that identifies large sources of noise and other areas that have more intense sensory stimuli.
 
-You can review good examples of sensory maps developed for the [Welcome Collection in London](https://wellcomecollection.cdn.prismic.io/wellcomecollection/167986b7-b352-4f9f-a31e-865987a8cfc5_WellcomeCollection-Milk-SensoryMap.pdf), [The British Museum in London](https://www.britishmuseum.org/sites/default/files/2019-11/British-Museum-Sensory-Map-PDF-Download.pdf) and the [Metropolitan Museum of Art in New York](https://www.metmuseum.org/-/media/files/events/programs/progs-for-visitors-with-disabilities/sensory-friendly-map.pdf)
-
-As a community, in pointing to these resources we would like to recognize that there is concern about the broader impact caused by these museums. It is not our intent to celebrate the wrongful or disputed acquisition of the museum's collections, but instead would like to highlight examples of to examples of locations and venues that have put thought into supporting individuals with sensory differences. 
+You can review good examples of sensory maps developed for the [Welcome Collection in London](https://wellcomecollection.cdn.prismic.io/wellcomecollection/167986b7-b352-4f9f-a31e-865987a8cfc5_WellcomeCollection-Milk-SensoryMap.pdf).
 ```
 
 (cl-inclusive-events-location-emergency-plans)=
 ### Emergency Evacuation Plans
-
 Although the hope is that your event will be successful and without incident, it is important to ensure that emergency evacuation procedures take into account the needs of people with mobility and sensory disabilities in the event of an emergency. 
 
 Disabled people who require assistance in an evacuation will need to be advised of the options available to them ahead of the event. 
@@ -179,7 +176,6 @@ More information about Emergency Evacuation Plans for people with disabilities a
 
 (cl-inclusive-events-location-setup)=
 ## Setting up the event
-
 Before your event starts, it will be important to check that all accessibility measures are functioning and able to be used by attendees. 
 
 Ensure the entrance doors’ automatic openers are activated and that there is a level, smooth, and accessible surface throughout the venue. 
@@ -189,7 +185,6 @@ Check that accessible restrooms are open and are compliant with the local access
 In the UK this is [Document M](https://www.gov.uk/government/publications/access-to-and-use-of-buildings-approved-document-m).
 You can find a summary of Document M's content and other information about how to ensure that accessible restrooms are safe for use in the [All About Emergency Cords](https://accessible-toilets.co.uk/2019/02/07/all-about-emergency-cords/) resource.
 This can be checking that the emergency assistance cord can be accessed, and that restroom facilities are open.
-
 
 If your event involves any sessions that would require attendees to stand for a long amount of time, try to make seating available where it will not cause a trip hazard but also supports people taking part in the session. 
 For example, poster sessions are common at academic conferences but require a significant amount of time standing and walking between posters. 
@@ -213,7 +208,6 @@ These should be marked on a map and have clear guidance about where they are loc
 
 (cl-inclusive-events-location-during-event)=
 ## During the event
-
 Although most of the accessibility considerations are already thought through and planned for before the event begins, while the event is underway there are still things you can do at the location to support people with lived experience. 
 
 Any maps of your venue should have been included in the invitations to attendees, but you should also consider having printed copies of the maps with any important features highlighted. 
