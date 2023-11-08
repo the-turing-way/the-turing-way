@@ -1,6 +1,5 @@
 (cl-inclusive-events-location)=
 # Location
-
 The location of your event plays a pivotal role in supporting or hindering how accessible and inclusive your event will be for people with lived experience.
 
 This section provides guidance that is most relevant for in-person or hybrid events. 
@@ -14,7 +13,6 @@ As with all planning, reflect on how you will get input and feedback from your a
 
 (cl-inclusive-events-choosing-venue)=
 ## Choosing a Venue
-
 Although buildings may list accessibility features, before deciding on a venue is it recommended to have an organizer or member of the team visit potential venues to do a walk-through and check that all rooms in the venue have accessible entrances and navigation. 
 This can be helpful to both check the maintenance and usability of a location's accessibility features, but can also help you plan your event set-up such as where to put signs directing attendees to your event. 
 
@@ -68,7 +66,6 @@ Portsmouth City Council in the UK have compiled a booklet called [Design Guide f
 
 (cl-inclusive-events-transport)=
 ## Considering Transport Links
-
 When planning an inclusive event for people with lived experience, careful consideration of transportation is essential to ensure that all attendees will be able to access the venue comfortably and safely.
 
 As part of resource planning and depending on the resources available, you may want to consider allocating budget related to the Accessibility fund that can be dedicated to addressing transportation needs. 
@@ -155,6 +152,14 @@ Please consider how you will make members of the public feel comfortable in thes
 If you are able to provide attendees with a map of the venue, make sure to identify how to navigate the location, where parking and restrooms are located, where to find staff members, and where all important locations will be (such as kitchen, break out rooms, and registration). 
 Also ensure that the location of any emergency supplies such as an AED, epi-pen, first aid kit and a member of staff who will be able to act in the event of an emergency is marked on the map. 
 Although is it not expected for staff and organizers to be medically trained, it is important to know who needs to be contacted in an emergency event. 
+
+```{note}
+If your event is a large scale conference, consider providing a "sensory map" that identifies large sources of noise and other areas that have more intense sensory stimuli.
+
+You can review good examples of sensory maps developed for the [Welcome Collection in London](https://wellcomecollection.cdn.prismic.io/wellcomecollection/167986b7-b352-4f9f-a31e-865987a8cfc5_WellcomeCollection-Milk-SensoryMap.pdf), [The British Museum in London](https://www.britishmuseum.org/sites/default/files/2019-11/British-Museum-Sensory-Map-PDF-Download.pdf) and the [Metropolitan Museum of Art in New York](https://www.metmuseum.org/-/media/files/events/programs/progs-for-visitors-with-disabilities/sensory-friendly-map.pdf)
+
+As a community, in pointing to these resources we would like to recognize that there is concern about the broader impact caused by these museums. It is not our intent to celebrate the wrongful or disputed acquisition of the museum's collections, but instead would like to highlight examples of to examples of locations and venues that have put thought into supporting individuals with sensory differences. 
+```
 
 (cl-inclusive-events-location-emergency-plans)=
 ### Emergency Evacuation Plans
