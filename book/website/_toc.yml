@@ -747,12 +747,12 @@ parts:
               - title: External Link Checking
                 file: community-handbook/infrastructure/infrastructure-external-link-check
           - title: Communication Platforms
-            file: community-handbook/communication-platforms
+            file: community-handbook/communication-channels
             sections:
               - title: Slack Start Guide
-                file: community-handbook/communication-platforms/slack-start-guide
+                file: community-handbook/communication-channels/slack-start-guide
               - title: Slack Welcome Guide
-                file: community-handbook/communication-platforms/slack-welcome-guide
+                file: community-handbook/communication-channels/slack-welcome-guide
           - title: Monthly Newsletters
             file: community-handbook/newsletters
             sections:
