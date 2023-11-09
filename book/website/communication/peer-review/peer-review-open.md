@@ -5,7 +5,7 @@
 ---
 height: 500px
 name: open-peer-review
-alt: Cartoon-like sketch of a three tiered cake with the title Open Peer Review at teh top. On the bottom level of the cake is the word collaboration with different types of people standing on this level of the cake looking thoughtful. E person has a speech bubble over them with an eye in it. There are more thoughtful people standing on the second tier and the third and top tier has three people holding a written document with the words supporting quality over them. At the side of the cake are the words recognition, on the left side, and content and process, on the right side. 
+alt: Cartoon-like sketch, in black and white with orange shading, of a three tiered cake with the title Open Peer Review at the top. On the bottom level of the cake is the word collaboration with different types of people standing on this level of the cake looking thoughtful. Each person has a speech bubble over them with an eye in it. There are more thoughtful people standing on the second tier and the third and top tier has three people holding a written document with the words supporting quality over them. At the side of the cake are the words recognition, on the left side, and content and process, on the right side. 
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
