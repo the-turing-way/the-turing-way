@@ -19,11 +19,11 @@ document.addEventListener("DOMContentLoaded", function () {
     
     const images = document.querySelectorAll('img[src^="https://img.shields.io/static/v1?label=pathway"]');
     let colour = "orange";
-    if (pathwayValue === "Data Study Group") {
+    if (pathwayValue === "Early Career Researchers") {
         colour = "white";
-    } else if (pathwayValue === "PhD Students") {
+    } else if (pathwayValue === "Project Leaders") {
         colour = "blue";
-    } else if (pathwayValue === "Group Leaders") {
+    } else if (pathwayValue === "Research Software Engineers") {
         colour = "purple";
     } else {
         colour = "green";
