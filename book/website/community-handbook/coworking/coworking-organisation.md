@@ -1,12 +1,12 @@
 (ch-coworking-organisation)=
-# Organising coworking call for your community
+# Organising Coworking Calls for your Community
 
 If you would like to set up coworking calls for your community, you can repurpose and adapt the format, templates, and materials discussed in this chapter to support your teams and communities.
 
-Practices described here are what we use in _The Turing Way_, but there are more ways to run such coworking calls.
-Below, I describe different aspects that you should take into consideration when planning or designing your coworking calls.
+The practices described here are what we use in _The Turing Way_, but there are more ways to run such coworking calls.
+Below, we describe different aspects that you should take into consideration when planning or designing your coworking calls.
 
-## Designing a format the works for you
+## Designing a format that works for you
 
 To identify what could be the best format for your coworking calls, you need to think about the following aspects:
 
@@ -33,13 +33,13 @@ If you are part of a small project, you would expect the same familiar faces in 
 Many tasks go into organising a coworking call (discussed later).
 These tasks can be taken care of by one person like a community manager, project manager, or a volunteer organiser.
 However, it is always a good idea to involve more people as co-organisers so that the coworking call still happens even when the main organiser can't join for any reason.
-To avoid one person to burden themselves with "not so exciting" organisation issues, you can also decide to rotate the role within the members of your project.
+To avoid one person burdening themselves with "not so exciting" organisation issues, you can also decide to rotate the role within the members of your project.
 
 **Size of the call**
 
 No matter what the purpose and who the target audience of your calls are, you can decide the size of your call by managing participation by prior registration.
 If you organise these calls for your project members on a mutually agreed time and with an agenda to work on specific tasks, you can expect most of them to show up.
-If you keep your call open for any of your community members join, you may end up having a different number of participants on different calls.
+If you keep your call open for any of your community members to join, you may end up having a different number of participants on different calls.
 This would also mean that for some calls, there won't be anyone available to co-work with you.
 
 It's useful to handle some sort of sign-up sheet or registration system so the organisers know who to expect on the call.
@@ -47,7 +47,7 @@ In _The Turing Way_, we use dedicated HackMD notes that can be updated before ea
 
 **Frequency of these calls**
 
-Once you have identifies the purpose, target audience and size of your calls, you can decide how often you would like to host them.
+Once you have identified the purpose, target audience and size of your calls, you can decide how often you would like to host them.
 If you work with the same group of people, you can host it as per your common availability and a mutually agreed time on a weekly or monthly basis.
 
 If the expected participants of your call also work on multiple projects, you might consider regularly hosting it on the same day and time each week or each month.
@@ -58,7 +58,7 @@ This will also reduce the extra work of coordinating the common availability eve
 
 Based on the resources available to you, you might have to fine-tune other aspects of your call.
 For example:
-- Shared calendar: If there is a calendar that are updated with the coworking calls schedule, people can subscribe to them and indicate their availability.
+- Shared calendar: If there is a calendar that is updated with the coworking calls schedule, people can subscribe to them and indicate their availability.
 - Communication platforms: software like Zoom can allow you to connect with many people at the same time. However, you will need a paid subscription (pro account) to control who joins your call (by activating waiting room to avoid Zoom bombing), manage breakout rooms (to allow multiple small groups and discussions) or host longer calls (>40 minutes).
 - Chat system: If you have a group Slack or Gitter channel, information can be exchanged with everyone, including those who can not join the calls but want to offer suggestions or carry out related tasks asynchronously but in coordination with the group.
 This also allows people to keep each other informed of any last-minute changes such as updated links for joining calls, correct notes, or cancellation of calls.
@@ -72,16 +72,16 @@ As the organisers of the event, you will be required to:
 
 The following aspects will require you to make choices in regards of what tools you will use.
 
-- maintaining shared notes: few options are [Etherpad](https://etherpad.org/), [HackMD](https://hackmd.io/), [GitHub](https://github.com/), [Google doc](https://en.wikipedia.org/wiki/Google_Docs)
-- managing registration: few options are via shared notes, [Zoom](https://zoom.us), [Eventbrite](https://www.eventbrite.com/), [Google Form](https://en.wikipedia.org/wiki/Google_Forms)
-- hosting the calls: few options are [Zoom](https://zoom.us), [Google Hangout](https://en.wikipedia.org/wiki/Google_Hangouts), [Skype](https://www.skype.com/en/), [Jisti](https://meet.jit.si/)
-- facilitating chats: few options are [Slack](https://slack.com/), [Gitter](https://gitter.im/), other [web-based or phone applications](https://www.makeuseof.com/tag/messaging-apps-phone-computer/)
-- sharing timers: few options are [cuckoo.team](https://cuckoo.team/), [vclock](https://vclock.com/timer/) or other web-based timers
-- finding a common availability: few options are [Doodle](https://doodle.com/poll/), [when2meet.com](https://www.when2meet.com/), or other [meeting schedule apps](https://zapier.com/blog/best-meeting-scheduler-apps/)
+- maintaining shared notes: a few options are [Etherpad](https://etherpad.org/), [HackMD](https://hackmd.io/), [GitHub](https://github.com/), [Google doc](https://en.wikipedia.org/wiki/Google_Docs)
+- managing registration: a few options are via shared notes, [Zoom](https://zoom.us), [Eventbrite](https://www.eventbrite.com/), [Google Form](https://en.wikipedia.org/wiki/Google_Forms)
+- hosting the calls: a few options are [Zoom](https://zoom.us), [Google Hangout](https://en.wikipedia.org/wiki/Google_Hangouts), [Skype](https://www.skype.com/en/), [Jitsi](https://meet.jit.si/)
+- facilitating chats: a few options are [Slack](https://slack.com/), [Gitter](https://gitter.im/), other [web-based or phone applications](https://www.makeuseof.com/tag/messaging-apps-phone-computer/)
+- sharing timers: a few options are [cuckoo.team](https://cuckoo.team/), [vclock](https://vclock.com/timer/) or other web-based timers
+- finding a common availability: a few options are [Doodle](https://doodle.com/poll/), [when2meet.com](https://www.when2meet.com/), or other [meeting schedule apps](https://zapier.com/blog/best-meeting-scheduler-apps/)
 
 **2. Plan and host the calls**
 
-As discussed earlier, you will need to agree upon dates and time with people who would like to participate in coworking calls.
+As discussed earlier, you will need to agree upon dates and a time with people who would like to participate in coworking calls.
 Your calls could be organised on a weekly or monthly basis that consistently take place on a certain day and time periodically, or it could be organised once in a while by finding a common availability.
 
 Once you have found a schedule (date, time and frequency), the following tasks will go into planning them:
@@ -90,7 +90,7 @@ Once you have found a schedule (date, time and frequency), the following tasks w
 It is particularly crucial to use meeting links like [arewemeetingyet](https://arewemeetingyet.com/) for communicating these schedules for members from different countries so that they can see the time in their time zones.
 
 For hosting these calls, you can reuse and adapt the agenda, techniques and templates described in the earlier chapters.
-You main tasks as a host will be to:
+Your main tasks as a host will be to:
 - provide adequate support to the participants so that they can make the best of their time.
 In _The Turing Way_ coworking calls, we find it useful to use breakout rooms when there are many people working in small groups or if some people need more discussions, while others want to quietly work on their tasks.
 - facilitate shared notes with participants before, during and after the call, so that they can keep track of useful resources or ideas they discuss during the coworking call.
@@ -99,13 +99,13 @@ In _The Turing Way_ coworking calls, we find it useful to use breakout rooms whe
 
 Though discussed last, this should be your highest priority.
 
-You should design these calls with an intention to make everyone feel welcome, involved and safe.
+You should design these calls with the intention to make everyone feel welcome, involved and safe.
 It's highly recommended to choose a Code of Conduct and put reporting guideline in place to share with everyone in advance.
 See this minimal [CoC from Contributor Covenant](https://www.contributor-covenant.org/) and an expanded version of {ref}`The Turing Way CoC<ch-coc>`.
 Additionally, you should also communicate the basic etiquettes, such as muting microphones when not speaking or not interrupting others when working in a Pomodoro session unless necessary.
 
 It is useful to let everyone know who they can contact if they need help in troubleshooting during the call or need more time to discuss their ideas.
-Create an agenda that states clearly what is expected of them, such as if they should bring their tasks and questions in the call or communicate them beforehand.
+Create an agenda that states clearly what is expected of them, such as if they should bring their tasks and questions to the call or communicate them beforehand.
 In _The Turing Way_, we have dedicated slots for both group discussions and quiet working.
 
 
