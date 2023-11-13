@@ -9,6 +9,15 @@ This is because they can provide ethical oversight to expert researchers who do 
 This is not to liberate the researcher of their ethical responsibilities -- ultimately, they make the decisions as to how to conduct their work -- but to provide support in respect to these questions.
 Whilst there is a great deal of complexity involved in holding individuals accountable in scientific projects, this chapter assumes that RECs seek to improve how science is conducted at large.
 
+```{figure} ../../figures/ethics-committee-with-text.*
+---
+height: 500px
+name: ethics-committee-with-text
+alt: A female presenting person is walking into a path that leads to somewhere far with mountains. The path starts with a big banner that says “Research Ethics Committee”. At the beginning of the path, there is a male presenting person with a map, a backpack and a friendly face looking like they are ready to join the other person to embark on the research ethics committee journey. Past the first part of the path, there are a couple of booths, one with “Ethics Reviewers”, and another one further down with “ethics decision making” as the title of the booth. These represent the journey one goes through when getting into the research ethics committee processes.
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
 There are many ways a research ethics committee might organise itself.
 One common approach is to provide a form for all projects conducted at their institution to undergo ethical appraisal.
 Below, we propose five headline questions that an ethics committee might want to know about. For each headline question, we provide:
