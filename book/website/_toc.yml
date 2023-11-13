@@ -340,7 +340,7 @@ parts:
             sections:
               - title: Data Governance for the Machine Learning Pipeline
                 file: project-design/data-governance/data-gov-ml
-              - title: Case Study: BigCode Data Governance
+              - title: BigCode Data Governance Case Study
                 file: project-design/data-governance/bigcode_casestudy
 
       # ===== Guide for Communication ========================================
