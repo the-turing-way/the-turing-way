@@ -42,14 +42,14 @@ If you are intending to build a community for your project or to support partici
 * Contact communities from your stakeholder mapping and invite them to discusss the project and goals during planning.
 * Agree decision making processes for the project involving the community.
 * Plan contribution pathways for new participants, establish guidelines for new content, and how you will grow a sense of community.
-* Useful documentation: [Code of Conduct](ch-coc), [Contributing Guidelines](cl), [READMEs](https://the-turing-way.netlify.app/collaboration/github-novice/github-novice-firststeps.html?highlight=readmes), [governance documentation](er-ethics-open-source-governance), [Research Community Managers](cl-infrastructure-community-managers)
+* Useful documentation: [Code of Conduct](ch-coc), [Contributing Guidelines](cl), [READMEs](https://the-turing-way.netlify.app/collaboration/github-novice/github-novice-firststeps.html?highlight=readmes), [governance documentation](er-ethics-open-source-governance), [Research Community Managers](cl-infrastructure-community-managers), [GitHub repo for Research Community Management resources](https://github.com/alan-turing-institute/open-research-community-management)
 
 ### Outputs 
 * Plan for the different outputs of your research, such as publications, software, or datasets.
 * Consider licensing and copyright issues for sharing your outputs.
 * Determine how you will manage intellectual property and ownership rights using an IP register.
 * Remember to include any required reporting to funders.
-* Useful documentation: , IP register, [licensing](rr-licensing) and copyright statement, [data management plan](rr-rdm-dmp).
+* Useful documentation: IP register, [licensing](rr-licensing) and copyright statement, [data management plan](rr-rdm-dmp).
 
 ### Communications 
 * Identify the target audience for your research.
@@ -61,3 +61,8 @@ If you are intending to build a community for your project or to support partici
 * Develop a plan for the long-term maintenance and sustainability of your project.
 * Establish procedures for data management, including storage, backup, and access.
 * Consider archiving your project's artifacts and documentation for future reference.
+
+### Reporting & Evaluation
+* Define how you will judge your project a success (outputs produced, people engaged, milestones reached).
+* Define when you will review these metrics and what the criteria is for changing them. 
+* Document and understand any external requirements for reporting such as format, timeframe, type, and audience. 
