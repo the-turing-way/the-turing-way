@@ -5,7 +5,8 @@
 ---
 height: 400px
 name: environmental-impact
-alt: Cartoon-like sketch depicting the potential environmental impact of digital research. On the left, a person sits at a desk with a laptop, with a chatbot and "COMPUTING" text above, symbolizing digital communication. In the center, "EMISSIONS" emerge from a factory, representing pollution. On the right, a figure throws computers into the ocean, labeled "WASTE," indicating electronic disposal issues.
+alt: Cartoon-like sketch depicting the potential environmental impact of digital research. On the left, a person sits at a desk with a laptop, with a chatbot and "COMPUTING" text above, symbolizing digital communication. In the center, "EMISSIONS" emerge from a factory, representing pollution. On the right, a figure throws computers into the ocean, labeled "WASTE", indicating electronic disposal issues.
+
 ---
 Illustration of the potential environmental impact of digital research.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.8169292](https://doi.org/10.5281/zenodo.8169292).
