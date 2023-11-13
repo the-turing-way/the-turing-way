@@ -55,7 +55,7 @@ The FAIR principles are also applied to software (see [[LGK+20](https://the-turi
 ## FAIR principles and accessibility
 
 The Accessible in FAIR is not equal to ensuring that your research objects are accessibles to all users. 
-For this, the term “actually accessible”  has been coined by {cite:ps}`Colon2023accessibility` to refer to data that is "easy to locate, obtain, interpret, use, share, and analyze for everybody, including disabled people."
+For this, the term “actually accessible” has been coined by {cite:ps}`Colon2023accessibility` to refer to data that is "easy to locate, obtain, interpret, use, share, and analyze for everybody, including disabled people."
 
 (rr-rdm-fair-community)=
 ## Community involvement
