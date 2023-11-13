@@ -11,7 +11,7 @@
 | {ref}`Community Managers: Overview<cl-infrastructure-community-managers>` | Helpful  | Beginner | An overview of the Community Manager Role |
 | {ref}`Guide to Planning a Community<cl-new-community-guide>` | Helpful | Beginner | The Guide to Planning a Community are helpful context for the Community Building Subchapter in this section |
 
-```{figure} ../../figures/academic-industry-partnership.jpg
+```{figure} ../../figures/academic-industry-partnership.*
 ---
 height: 500px
 name: academic-industry-partnership
