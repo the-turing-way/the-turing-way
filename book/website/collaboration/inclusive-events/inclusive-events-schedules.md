@@ -11,7 +11,7 @@ It is crucial in your planning to prioritize inclusivity and accessibility in yo
 (cl-inclusive-events-schedule-timing)=
 ## Event Design: Timing and Event Duration
 When developing your event's program or agenda, you should consider the timing of your event's content. 
-This includes identifying when your event will start and end, the duration of your event's content and how you will structure the event content to make it accessible, and finally the duration of the event itself.
+This includes identifying when your event will start and end, the duration of your event and it's content and how you will structure the event content to make it accessible.
 
 (cl-inclusive-events-start-times)=
 ### Start and End Times
