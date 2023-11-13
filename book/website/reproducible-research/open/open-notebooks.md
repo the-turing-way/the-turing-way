@@ -1,7 +1,7 @@
 (rr-open-notebooks)=
 # Open Notebooks
 
-```{figure} ../figures/executable-notebooks.*
+```{figure} ../../figures/executable-notebooks.*
 ---
 name: Executable Notebooks
 alt: basing a project around an open exceutable notebook such as a jupyter book is shown to allow praticipants to Understand the direction of the project, track its progress, Enable diverse participation, create transparentcy in outcomes and make auditing easier for organisers.
