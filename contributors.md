@@ -25,7 +25,7 @@ This record can be used in your personal or professional portfolio (profile, CV,
 ### Kirstie Whitaker
 
 * Role: Tools, Practices and Systems (TPS) Director, The Alan Turing Institute
- * Project Lead Investigator (2019-Present), Project Delivery Team member
+ * Project Delivery Team member, Project Lead Investigator (2019-Present)
  * Book Dash Organiser: 2019-2020
 * GitHub id: [kirstiejane](http://github.com/kirstiejane)
 * ORCID: [0000-0001-8498-4059](https://orcid.org/0000-0001-8498-4059)
@@ -48,7 +48,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 ### Malvika Sharan
 
 * Role: Senior Researcher - Open Research, The Alan Turing Institute
-  * Co-lead Investigator (2021-Present), Project Delivery Team member
+  * Project Delivery Team member, Co-lead Investigator (2021-Present)
   * Book Dash Organiser: 2020-2023
 * GitHub id: [malvikasharan](http://github.com/malvikasharan)
 * ORCID: [0000-0001-6619-7369](https://orcid.org/0000-0001-6619-7369)
@@ -69,7 +69,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 ### Anne Lee Steele
 
 * Role:
- * Research Community Manager (2022-Present), Project Delivery Team member
+ * Project Delivery Team member, Research Community Manager (2022-Present)
  * Book Dash Organiser: 2023
 * Github id: [aleesteele](https://github.com/aleesteele)
 * ORCID: [0000-0002-9262-8641](https://orcid.org/0000-0002-9262-8641)
@@ -87,7 +87,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 ### Alexandra Araujo Alvarez
 
 * Role: 
- * Research Project Manager (2023-Present), Project Delivery Team member
+ * Project Delivery Team member, Research Project Manager (2023-Present)
  * Book Dash Organiser: 2023
 * Github id: [aleesteele](https://github.com/aleesteele)
 * ORCID: []()
@@ -339,7 +339,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 * Role:
   * Core Member, Book Dash Planning Committee (2021-2023)
-  * TPS Staff (2021-Present)
+  * TPS Staff (2021-Present), Project Delivery Team member
   * Book Dash Participant (2020)
 * GitHub id: [Arielle-Bennett](http://github.com/Arielle-Bennett)
 * ORCID: [0000-0002-0154-2982](https://orcid.org/0000-0002-0154-2982)
