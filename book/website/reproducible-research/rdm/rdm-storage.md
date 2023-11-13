@@ -92,7 +92,7 @@ If you want to change your file names you have the option to use bulk renaming t
 Be careful with these tools, because changes made with bulk renaming tools may be too rigorous if not carefully checked!
 
 Some bulk file renaming tools include: 
-- [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/Main_Intro.php) and [WildRename](http://www.cylog.org/utilities/wildrename.jsp) (for Windows)
+- [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/Main_Intro.php), [WildRename](http://www.cylog.org/utilities/wildrename.jsp), and [Ant Renamer](http://www.antp.be/software/renamer) (for Windows)
 - [Renamer](https://renamer.com/) (for MacOS)
 - [PSRenamer](http://www.cylog.org/utilities/wildrename.jsp) (for MacOS, Windows, Unix, Linux)
 
