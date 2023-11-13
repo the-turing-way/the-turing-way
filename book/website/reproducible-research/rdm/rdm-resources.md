@@ -15,6 +15,7 @@ If you have not read the chapters on {ref}`rr-open` and {ref}`cm-citable` yet, y
 - [UKRN Open Research Primers](https://www.ukrn.org/primers/)
 - {cite:ps}`Henry2021RDM`
 - {cite:ps}`Borer2009RDM`
+- {cite:ps}`Barbrow2017librarians`
 - [Data Management in Large-Scale Education Research](https://datamgmtinedresearch.com/) by Crystal Lewis
 
 (rr-rdm-resources-resources)=
@@ -22,6 +23,7 @@ If you have not read the chapters on {ref}`rr-open` and {ref}`cm-citable` yet, y
 
 ### General
 
+- [The Research Data Management Workbook](https://doi.org/10.7907/z6czh-7zx60)
 - [FAIR Cookbook](https://faircookbook.elixir-europe.org/content/home.html)
 - [ELIXIR Research Data Management Kit (RDMkit)](https://rdmkit.elixir-europe.org/)
 - [Research data management UK data service](https://ukdataservice.ac.uk/learning-hub/research-data-management/)
@@ -46,6 +48,7 @@ If you have not read the chapters on {ref}`rr-open` and {ref}`cm-citable` yet, y
 - [Slides on Research Data Management](https://doi.org/10.5281/zenodo.4048591)
 - [Slides: Practicalities of Data Handling](https://doi.org/10.5281/zenodo.5078264)
 - [Slides: Research Data Management in the Life Sciences](https://osf.io/mvrny/)
+- [Rethinking Research Data by Kristin Briney ](https://www.youtube.com/watch?v=dXKbkpilQME)
 
 ### Tools
 
@@ -55,6 +58,8 @@ If you have not read the chapters on {ref}`rr-open` and {ref}`cm-citable` yet, y
 
 - [Webinar: Know Moore About Research Data Management](https://www.youtube.com/watch?v=NCUT6MA-zVA)
 - [Webinar: Introduction to Research Data Management](https://www.youtube.com/watch?v=duDCcV8xhQo)
+- [Webinar: Data sharing and reproducibility by Dr Laurence Hunt](https://vimeo.com/668640629)
+- [Webinar: Publishing and citing data in practice by Jez Cope](https://youtu.be/PpMOkTnBMlI)
 
 # Research Data Management Toolkits
 
