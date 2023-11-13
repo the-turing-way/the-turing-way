@@ -104,6 +104,8 @@ parts:
             sections:
               - title: Research Data
                 file: reproducible-research/rdm/rdm-data
+              - title: Finding Data
+                file: reproducible-research/rdm/rdm-find
               - title: Data Management Plan
                 file: reproducible-research/rdm/rdm-dmp
               - title: The FAIR Principles and Practices
