@@ -13,7 +13,7 @@ Whilst there is a great deal of complexity involved in holding individuals accou
 ---
 height: 500px
 name: ethics-committee-with-text
-alt: A female presenting person is walking into a path that leads to somewhere far with mountains. The path starts with a big banner that says “Research Ethics Committee”. At the beginning of the path, there is a male presenting person with a map, a backpack and a friendly face looking like they are ready to join the other person to embark on the research ethics committee journey. Past the first part of the path, there are a couple of booths, one with “Ethics Reviewers”, and another one further down with “ethics decision making” as the title of the booth. These represent the journey one goes through when getting into the research ethics committee processes.
+alt: A female-presenting person is walking into a path that leads to somewhere far with mountains. The path starts with a big banner that says “Research Ethics Committee”. At the beginning of the path, there is a male-presenting person with a map, a backpack, glasses and a friendly face looking like they are ready to join the other person to embark on their research ethics committee journey. Next to the first part of the path, there are a couple of booths full of people, one with “Ethics Reviewers”, and another one further down with “Ethics Decision Making” as the title of the booth. These represent the journey one goes through when going through research ethics committee processes.
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
