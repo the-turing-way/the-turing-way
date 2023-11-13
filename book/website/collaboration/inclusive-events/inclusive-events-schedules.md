@@ -16,7 +16,7 @@ This includes identifying when your event will start and end, the duration of yo
 (cl-inclusive-events-start-times)=
 ### Start and End Times
 To accommodate travellers, consider starting your event later in the day and finishing mid-afternoon. 
-This can help support attendees who need to travel to attend your event and may not be comfortable travelling at peak times. 
+This can help support attendees who may not be comfortable travelling at peak times or have care/family responsibilities. 
 If your event needs to start early in the morning, consider hosting a welcome session that is not critical to attend. 
 
 Additionally, consider planning your event around important holidays and cultural celebrations, as well as considering how weekend events will impact different people's ability to attend. 
