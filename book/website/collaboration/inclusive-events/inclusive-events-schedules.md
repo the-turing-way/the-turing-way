@@ -130,7 +130,7 @@ By clearly articulating the event's objectives, you will be able to create a sen
 This clarity allows all attendees, including people with lived experience, to understand what to expect from the session and reflexively evaluate whether their participation aligns with those goals. 
 
 Additionally, sharing an event's goals can foster a sense of trust among attendees by presenting how the perspectives and contributions of people with lived experience are valued by the research project team. 
-This can be especially important for "data-driven" research that otherwise places a large focus on algorithmic techniques. 
+This can be especially important for "data-driven" research that otherwise places a large focus on algorithmic techniques and may make lived experience contributors feel unwelcome and excluded from the project. 
 
 Inclusive research requires not only active participation from people with lived experience and diverse backgrounds, but also actively ensuring that their opinions and perspectives are heard and able to influence the research directly. 
 By orientating your attendees around a goal, you can provide a shared understanding that will support meaningful and inclusive engagement in your event.
