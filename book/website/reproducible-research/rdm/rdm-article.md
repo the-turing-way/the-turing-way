@@ -18,7 +18,7 @@ You can find out more in our {ref}`subchapter on publishing a data article<cm-di
 ## Options to publish a Data Article
 
 Below you can find some journals that publish data articles or papers.
-The costs information was collected in February 2022. 
+The costs information was collected in July 2023. 
 
 If you are planning to publish an analysis of your published data, it may be worth checking with the journal that they wouldn't consider a data article on that dataset as 'prior publication' (see the [F1000Research (non-exhaustive) list of journals on 'prior publications'](https://f1000research.com/data-policies)). 
 
