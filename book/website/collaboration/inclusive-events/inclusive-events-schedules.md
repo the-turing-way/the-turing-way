@@ -33,8 +33,8 @@ If your main room has only one exit and a large audience, it may take significan
 
 Additionally, many people who experience cognitive or physical fatigue find it difficult to actively engage in events that last longer than 40 minutes without a meaningful break. 
 
-This timing can vary depending on individuals, however, both ADHD advocates and people with a lived experience of cognitive impairments (such as stroke, traumatic brain injury, and brain fog) have advocated for 30-40 minute session blocks for activities that require sustained attention and engagement. 
-This timing can be highly dependant on the type of content and the specific audience you are engaging.
+This timing can be highly dependent on the type of content, and the specific audience you are engaging.
+For example, both ADHD advocates and people with a lived experience of cognitive impairments (such as stroke, traumatic brain injury, and brain fog) have advocated for 30-40 minute session blocks for activities that require sustained attention and engagement. 
 
 As a rule of thumb, try to plan for the most important parts of your event's content to be shared within blocks of time that are under 40 minutes.
 
