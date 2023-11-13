@@ -4,7 +4,7 @@
 This subchapter provides information on the events that are organised for the book dash attendees.
 These events include a pre-event webinar for information, onboarding calls, GitHub introduction, contribution sessions during the Book Dash and Community Share-Outs, which are explained below.
 
-_The Turing Way_ participation guidelines, [Code of Conduct](https://the-turing-way.netlify.app/community-handbook/coc.html) and [Contribution guideline](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) apply to all these events:
+_The Turing Way_ participation guidelines, [Code of Conduct](https://the-turing-way.netlify.app/community-handbook/coc.html) and [Contribution guideline](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) apply to all these events:
 
 ## Pre-Event Calls
 
@@ -73,7 +73,7 @@ If hosting an in-person event, the core team members will plan a dinner or socia
 ### Reporting and Documentation
 
 At the end of each day, participants can gather all their contributions on _The Turing Way_ GitHub repository (issues, pull requests and notes) and add that in the shared notes.
-Specifically, during the last contribution session, they will be asked to add their details to the [contributors](https://github.com/alan-turing-institute/the-turing-way/tree/book-dash-chapter/contributors.md) file and provide anonymous feedback on a {ref}`Pluses and Delta<ch-template-bookdash-feedback>` notes.
+Specifically, during the last contribution session, they will be asked to add their details to the [contributors](https://github.com/the-turing-way/the-turing-way/tree/book-dash-chapter/contributors.md) file and provide anonymous feedback on a {ref}`Pluses and Delta<ch-template-bookdash-feedback>` notes.
 This will help the planning committee to collect notes for their final report and improve future events.
 
 ### Community Share-Outs & Contributor Celebration

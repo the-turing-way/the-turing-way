@@ -17,4 +17,4 @@ alt: A sketch of Kirstie saying “That could be a chapter”
 
 This chapter provides a brief overview of the workflow for writing chapters and case studies for _The Turing Way_.
 We encourage you to read through and follow the recommendations if you wish to make a contribution.
-Also, ensure that you read our [Contributor Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) in addition to our [style](https://the-turing-way.netlify.app/community-handbook/style.html) and [consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html) recommendations as you prepare your contributions.
+Also, ensure that you read our [Contributor Guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) in addition to our [style](https://the-turing-way.netlify.app/community-handbook/style.html) and [consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html) recommendations as you prepare your contributions.

@@ -1,12 +1,8 @@
-# Record of Contributions
-
-*The `contributors.md` file and the contributors table in the `README file` together form the record of contributions in _The Turing Way_.*
-
 Contributions to _The Turing Way_ may include but are not limited to, bug fixing, chapter planning, writing, editing, reviewing, idea generation, presentation, project management, and maintenance.
 We recognise all these contributions and acknowledge our community members fairly.
-For example, using [all contributors bot](https://allcontributors.org) we update the contributors table with each person's name, where the emoji keys indicate the different tasks they have done (see the [README file](https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md#contributors)).
+For example, using [all contributors bot](https://allcontributors.org) we update the contributors table with each person's name, where the emoji keys indicate the different tasks they have done (see the [README file](https://github.com/the-turing-way/the-turing-way/blob/main/README.md#contributors)).
 We understand that different contributions mean different things to people and may translate differently towards their personal interest, skill development, value exchange and advancement of their careers.
-Therefore, we also offer the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/contributors.md) file as a dedicated location to capture personal highlights from _The Turing Way_ community members.
+Therefore, we also offer the [contributors.md](https://github.com/the-turing-way/the-turing-way/blob/main/contributors.md) file as a dedicated location to capture personal highlights from _The Turing Way_ community members.
 
 Individual contributors are welcome to provide their details under the section "Personal Highlights from _The Turing Way_ Contributors".
 Organisational support and collaborations are listed in the section, "Collaborating Organisations".
@@ -14,6 +10,7 @@ Each organisation name and details will be listed separately followed by contrib
 
 Please see the [community handbook](https://the-turing-way.netlify.app/community-handbook/acknowledgement) for details on how you can be fairly acknowledged for your work.
 
+(contributors-record-highlights)=
 ## Personal Highlights from _The Turing Way_ Contributors
 
 Please use this section to highlight your personal experiences in _The Turing Way_ project and community.
@@ -387,9 +384,28 @@ I also hope that it can convince people that don't consider themselves capable o
 > More recently that project has become consolidated into LA-CoNGA physics (http://laconga.redclara.net/), an EU Erasmus+ funded project with a mission to create a Latin American and European Community for Advanced Physics.
 > In this project I’m helping to build a data science module that will be thought in an online master course.
 
-<!---D
-## D--->
+<!---D--->
+## D
 
+### Danny Garside
+
+* Role: Infrastructure Co-lead
+* GitHub id: [da5nsy](https://github.com/da5nsy)
+* ORCID id: [0000-0002-0227-836X](https://orcid.org/0000-0002-4579-003X)
+* Fediverse profile: https://social.coop/@da5nsy
+* Website: https://www.dannygarside.co.uk/
+  
+* Short bio:
+ > I am a neuroscientist and meta-scientist, and I split my time between researching colour vision and trying to make academia more accessible, more efficient, and happier. 
+
+* Personal highlights:
+> - Learning about the project and [meeting Kirstie](https://github.com/the-turing-way/the-turing-way/blob/ebbaf8f5f3a66da441beafc690a1b16a9c50d15b/communications/newsletters/newsletter_08_Nov2019.md#acknowledgements-and-celebrations) during a rough patch in my PhD — learning about the project brought me hope for the future!
+> - My [first issue](https://github.com/the-turing-way/the-turing-way/issues/1114) followed several small contributions and then [the first gnarly infrastructure PR](https://github.com/the-turing-way/the-turing-way/pull/2039) I made, which started my love(/hate)-affair with Jupyter Book.
+> - Working with [Malvika](https://github.com/malvikasharan) to [rewrite the landing page](https://github.com/the-turing-way/the-turing-way/pull/1961) (particularly proud of _"Warning: Do not try to read the _The Turing Way_ from start to finish!"_)
+> - [Learning how to build the book locally](https://web.archive.org/web/20221104150942/https://fosstodon.org/@da5nsy/108760121842868538) from [Sarah Gibson](https://the-turing-way.netlify.app/afterword/contributors-record.html#sarah-gibson) (and learning about miniconda in the process!) — a process which is now written up [here](https://the-turing-way.netlify.app/community-handbook/local-build.html#ch-local-build), but wasn't at the time, and so it felt like secret magic, and an infrastructure nerd's rite-of-passage.
+> - Using that knowledge to finally [wipe all of the long-standing build warnings and errors](https://github.com/the-turing-way/the-turing-way/issues/2611) so that we could [implement CI to catch bugs before they were merged into main from then on](https://github.com/the-turing-way/the-turing-way/pull/2861)!
+> - [Presenting at FOSS Backstage in Berlin](https://github.com/the-turing-way/the-turing-way/issues/2993#issuecomment-1629424116) with [Anne Lee Steele](https://github.com/aleesteele), on the subject of "maintenance" and ideas around transitioning from a small scrappy project to a long-term-sustainable project.
+> - In 2023 I'm focusing on the more organisation-level infrastructure ([what tools do we use and why](https://github.com/the-turing-way/the-turing-way/issues/3218)?), and as part of that, I was proud to set up [the Turing Way's mastodon account](https://fosstodon.org/@turingway/108278354199514905).
 
 <!---E--->
 ## E
@@ -568,7 +584,7 @@ I would like to be a part of it.
 
 * Role:
   * Core contributor - Guide to Ethical Research (2020-2021)
-  * [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring)
+  * [OLS-2 for Turing project lead](https://github.com/the-turing-way/the-turing-way/tree/main/open-life-science-mentoring)
   * Book Dash Participant 2020
 * GitHub id: [Ismael-KG](https://github.com/Ismael-KG)
 * ORCID: [0000-0002-6850-8375](https:///orcid.org/0000-0002-6850-8375)
@@ -703,7 +719,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 * Role:
   * Core Contributor - Guide for Ethical Research (2020-2021)
   * Book Dash Planning Committee 2021-2022
-  * [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring)
+  * [OLS-2 for Turing project lead](https://github.com/the-turing-way/the-turing-way/tree/main/open-life-science-mentoring)
   * Book Dash Participant 2020
 * GitHub id: [Laura Carter](https://github.com/LauraCarter)
 * ORCID: [0000-0002-4285-1140](https://orcid.org/0000-0002-4285-1140)
@@ -982,7 +998,7 @@ what it would cover.
 * Role:
   * Previous Project Member (2020)
   * Google Season of Doc: Technical Writer (2020)
-  * [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring)(2020)
+  * [OLS-2 for Turing project lead](https://github.com/the-turing-way/the-turing-way/tree/main/open-life-science-mentoring)(2020)
   * Book Dash Participant 2020
 * GitHub id: [paulowoicho](http://github.com/paulowoicho)
 
@@ -995,7 +1011,7 @@ what it would cover.
 > The Turing Way is my first foray into open source and has been a fantastic learning experience.
 > Not only have I gained a deeper understanding and appreciation for how GitHub works, but I am also learning to prioritise sustainability and empowerment in the work that I do.
 > Although The Turing Way is my first open source project, I thoroughly enjoyed the experience and learned a lot along the way. Before the GSoD program, I only used Github to 'store' my projects. Now, I am much more proficient at using Github for collaborative endeavours and I am more adept at working with tools such as Markdown, Jupyter Book, and Sphinx. In addition, I gained familiarity with setting up and working with web analytics software.
-> You can see the full report from GSoD participation [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/communications/GSOD-applications/GSoD-2020-Project-Report.md).
+> You can see the full report from GSoD participation [here](https://github.com/the-turing-way/the-turing-way/blob/main/communications/GSOD-applications/GSoD-2020-Project-Report.md).
 > The BookDash November 2020 was great! It was awesome to meet, collaborate, and share ideas with people from around the world. Beyond the Book Dash, The Turing Way is the very first open-source project I have ever worked on. The experience has been fantastic, and I intend to stick around as a contributor after the Google Season of Docs program ends. I also see myself getting involved in other open-source projects.
 
 * Personal Quote:
@@ -1159,7 +1175,7 @@ what it would cover.
 * Role:
   * Project Member: Staff (2022-Present)
   * HacktoberFest contribution facilitator (2021)
-  * [OLS project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring) (2020)
+  * [OLS project lead](https://github.com/the-turing-way/the-turing-way/tree/main/open-life-science-mentoring) (2020)
   * Book Dash Participant 2020
 * GitHub id: [BrainonSilicon](https://github.com/BrainonSilicon)
 * ORCID: [0000-0002-8572-2058](https://orcid.org/0000-0002-8572-2058)

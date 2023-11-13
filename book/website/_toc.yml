@@ -48,24 +48,31 @@ parts:
           - title: Version Control
             file: reproducible-research/vcs
             sections:
-              - title: General Workflow
+              - title: Version Control Workflow
                 file: reproducible-research/vcs/vcs-workflow
-              - title: Getting Started with Git
+              - title: Version Control and Branches
+                file: reproducible-research/vcs/vcs-workflow-branches
+              - title: The Git Version Control Software
+                file: reproducible-research/vcs/vcs-git-general
+              - title: Git for Research Projects
+                file: reproducible-research/vcs/vcs-git-in-research
+              - title: Git Using the Command Line
                 file: reproducible-research/vcs/vcs-git
-              - title: Git Commit Command
-                file: reproducible-research/vcs/vcs-git-commit
-              - title: Retrieving and Comparing Versions
-                file: reproducible-research/vcs/vcs-git-compare
-              - title: Git Branches
-                file: reproducible-research/vcs/vcs-git-branches
-              - title: Merging Branches in Git
-                file: reproducible-research/vcs/vcs-git-merge
-              - title: Interactive, Visual Git
-                file: reproducible-research/vcs/vcs-git-interactive
-              - title: Git Commands to Work on GitHub
-                file: reproducible-research/vcs/vcs-github
-              - title: Summary Table of Git Commands
-                file: reproducible-research/vcs/vcs-git-summary
+                sections:
+                  - title: Git Commit Command
+                    file: reproducible-research/vcs/vcs-git-commit
+                  - title: Retrieving and Comparing Versions
+                    file: reproducible-research/vcs/vcs-git-compare
+                  - title: Git Branches
+                    file: reproducible-research/vcs/vcs-git-branches
+                  - title: Merging Branches in Git
+                    file: reproducible-research/vcs/vcs-git-merge
+                  - title: Interactive, Visual Git
+                    file: reproducible-research/vcs/vcs-git-interactive
+                  - title: Git Commands to Work on GitHub
+                    file: reproducible-research/vcs/vcs-github
+                  - title: Summary Table of Git Commands
+                    file: reproducible-research/vcs/vcs-git-summary
               - title: Version Control for Data
                 file: reproducible-research/vcs/vcs-data
               - title: Personal Stories
@@ -81,6 +88,8 @@ parts:
                 file: reproducible-research/licensing/licensing-software
               - title: Data Licenses
                 file: reproducible-research/licensing/licensing-data
+              - title: Hardware Licenses
+                file: reproducible-research/licensing/licensing-hardware
               - title: Machine Learning Model Licenses
                 file: reproducible-research/licensing/licensing-ml
                 sections:
@@ -95,6 +104,8 @@ parts:
             sections:
               - title: Research Data
                 file: reproducible-research/rdm/rdm-data
+              - title: Finding Data
+                file: reproducible-research/rdm/rdm-find
               - title: Data Management Plan
                 file: reproducible-research/rdm/rdm-dmp
               - title: The FAIR Principles and Practices
@@ -152,6 +163,8 @@ parts:
             sections:
               - title: Code Style and Formatting
                 file: reproducible-research/code-quality/code-quality-style
+              - title: Writing Robust Code
+                file: reproducible-research/code-quality/code-quality-robust.md
               - title: Checklist and Resources
                 file: reproducible-research/code-quality/code-quality-resources
           - title: Code Testing
@@ -243,6 +256,7 @@ parts:
             sections:
               - title: A Statistical Methods Manuscript
                 file: reproducible-research/case-studies/case-study-statistical
+
 
       # ===== Guide for Project Design ========================================
 
@@ -508,6 +522,11 @@ parts:
             file: collaboration/coworking
           - title: Organising Conferences
             file: collaboration/organising-conference
+            sections:
+              - title: Registration Forms
+                file: collaboration/organising-conference/reg-forms
+              - title: Template for Registration Form
+                file: collaboration/organising-conference/reg-form-template
           - title: Chairing Events
             file: collaboration/chairing
           - title: Participating in Events
@@ -636,6 +655,8 @@ parts:
                 file: ethical-research/activism/activism-whistleblowing
               - title: Cultural change
                 file: ethical-research/activism/activism-cultural-change
+              - title: The Environmental Impact of Digital Research
+                file: ethical-research/activism/activism-env-impact
               - title: Case study - Robodebt
                 file: ethical-research/activism/activism-robodebt
               - title: Case study - Google Workers
@@ -711,6 +732,31 @@ parts:
                 file: community-handbook/acknowledgement/acknowledgement-record
               - title: Different Contributions and Acknowledgements
                 file: community-handbook/acknowledgement/acknowledgement-examples
+          - title: Translation and Localisation
+            file: community-handbook/translation
+            sections:
+              - title: Translation of Open Source Projects
+                file: community-handbook/translation/translation-localisation
+              - title: Welcome to the localisation team of The Turing Way!
+                file: community-handbook/translation/translation-workflow
+              - title: Embark on Your Localisation Journey
+                file: community-handbook/translation/translation-getting-started
+              - title: Your Gateway to Crowdsourced Localisation
+                file: community-handbook/translation/translation-hello-crowdin
+          - title: Infrastructure
+            file: community-handbook/infrastructure
+            sections:
+              - title: Publishing Contributors
+                file: community-handbook/infrastructure/infrastructure-contributors
+              - title: External Link Checking
+                file: community-handbook/infrastructure/infrastructure-external-link-check
+          - title: Communication Platforms
+            file: community-handbook/communication-channels
+            sections:
+              - title: Slack Start Guide
+                file: community-handbook/communication-channels/slack-start-guide
+              - title: Slack Welcome Guide
+                file: community-handbook/communication-channels/slack-welcome-guide
           - title: Monthly Newsletters
             file: community-handbook/newsletters
             sections:
@@ -776,17 +822,6 @@ parts:
                 file: community-handbook/templates/template-newsletter-draft
               - title: Template for Fireside Chat Shared Notes
                 file: community-handbook/templates/template-fireside-chat
-          - title: Translation and Localisation
-            file: community-handbook/translation
-            sections:
-              - title: Localisation
-                file: community-handbook/translation/translation-localisation
-              - title: Workflow
-                file: community-handbook/translation/translation-workflow
-              - title: Getting started
-                file: community-handbook/translation/translation-getting-started
-              - title: Hello Crowdin
-                file: community-handbook/translation/translation-hello-crowdin
 
       # ===== Afterword ========================================
 

@@ -83,8 +83,11 @@ Here are some examples of places that employ Data Wranglers in the UK:
    * Project: [The Artificial Intelligence for Multiple Long-Term Conditions, Research Support Facility](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility)
 * [EMBL's European Bioinformatics Institute](https://www.ebi.ac.uk/)
    * Project: [The Human Cell Atlas](https://www.humancellatlas.org/)
+* NHS England
+   * Project: [NHSE Secure Data Environment](https://digital.nhs.uk/services/secure-data-environment-service)
+   * Description: NHS England Data Wranglers support a wide range of research done by health and social care organisations using the National Secure Data Environment (NSDE) to ensure the data is in an accessible format. They also help suggest and test platform improvements, produce *"here's one I made earlier"* analyses, to save users time and advise on data in a technical capacity.
 
-_Please get in touch if you know of other organisations that you would like to add to this list. This list, and this Data Wrangler page in general, is focused around Data Wrangler roles within an  academic research context, but they will also exist within an industry context._
+_Please get in touch if you know of other organisations that you would like to add to this list. This list, and this Data Wrangler page in general, started off with a focus on Data Wrangler roles within an  academic research context, but these roles will also exist within other contexts._
 
 (cl-infrastructure-data-wranglers-summary)=
 ## Data Wranglers: Summary

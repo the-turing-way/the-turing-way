@@ -21,9 +21,9 @@ defaults:
   run:
     shell: bash
 
-# run job
 jobs:
-  build-jb-and-check-links:
+  build-jb:
+    name: Build
     if: (github.event.pull_request) && !contains(github.head_ref, 'all-contributors')
     strategy:
       matrix:
@@ -52,10 +52,33 @@ jobs:
           cd ./book/website
           jupyter-book build . -W --keep-going
 
-      - name: Run html proofer
-        if: matrix.os == 'ubuntu-latest'
-        uses: chabad360/htmlproofer@master
+  offline-link-check:
+    name: Link Check
+    needs: build-jb
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout-repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          directory: "./book/website/_build/html"
-          arguments: --assume-extension --disable-external --only_4xx
-        continue-on-error: true
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip setuptools wheel
+          pip install -r ./book/website/requirements.txt
+
+      - name: Build Jupyter-Book
+        run: |
+          cd ./book/website
+          jupyter-book build .
+
+      - name: Check offline links
+        uses: lycheeverse/lychee-action@v1.8.0
+        with:
+          args: --config './lychee.toml' --no-progress --offline 'book/website/_build/html/**/*.html' 'book/website/_build/html/**/*.md'
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Use runners GitHub token to avoid rate limiting
