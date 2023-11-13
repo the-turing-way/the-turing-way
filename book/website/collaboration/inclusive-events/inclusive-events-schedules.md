@@ -46,7 +46,7 @@ This can be done in addition to allocating 5-10 minutes for an introduction and 
     - 40 minute Discussion between participants
     - 10 minute break or 10 minute thank you and session close
 
-> **Example 2: 1-hour Workshop event**
+> **Example 2: 1-hour Workshop Event**
     - 5 minute introduction 
     - 20 minute session
     - 5 minute break
