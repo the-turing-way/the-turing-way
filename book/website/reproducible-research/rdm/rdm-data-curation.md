@@ -24,10 +24,11 @@ Data capture is the process of gathering or collecting data from different sourc
 These sources may be research articles in electronic format or databases like electronic databases among others. 
 This stage focuses on ensuring that the data captured is actually fit for purpose and ready for curation.
 
+- See {ref}`Finding data<rr-rdm-find>` for more information
+
 ### 2. Data appraisal
-Data appraisal and selection are fundamental stages in the data curation process. 
-In data appraisal, you are required to select the appropriate data by entering, digitizing, transcribing, checking, validating and cleaning the data; in addition to anonymizing the data where necessary, describing the data and managing and storing the data.  
-As you appraise the data you need to adhere to the documented guidance, policies and legal requirements in evaluating research data in a particular organization and selecting the data that requires long term preservation. 
+In data appraisal, you are required to select the appropriate data by entering, digitizing, transcribing, checking, validating and cleaning the data. 
+You may also need to to anonymizing the data where necessary.
 Your appraisal and selection policy should ensure consistency, transparency, and accountable decision making.
 
 - See [Crystal Lewi's blog on cleaning data](https://cghlewis.com/blog/data_clean_02) for more detailed information. 
@@ -38,15 +39,16 @@ You need to have an appraisal policy which will guide you on the data required f
 
 ### 4. Data description
 Data description requires that you are able to interpret the data; derive data; produce research outputs; author publications; data anonymisation; data visualization; data validation and prepare the data for preservation. 
-So it is important that you describe the research data so that it is discoverable and usable over time. 
+So it is important that you describe the research data so that it is discoverable and usable over time, {ref}`Documentation and Metadata<rr-rdm-metadata>` for more information. 
 There are also  metadata standards that already exist to help you with standardised descriptions. 
 
 ### 5. Data preservation
-Please find more information in the chapter on {ref}`Data Management Plans<rr-rdm-dmp>`.
+See {ref}`Data Repositories<rr-rdm-repository>` and {ref}`Sharing and Archiving Data<rr-rdm-sharing>` for more information.
 
 ### 6. Data access 
 Data access entails distributing data, sharing data, publishing data, linking data to outputs, controlling access, establishing copyright and promoting or disseminating the data to wider audiences to access it or re-use it.  
-You can make the data freely available online to anyone who may be interested in reading it or you may restrict access of the data or provide an option of how to access the data.
+You can make the data freely available online to anyone who may be interested in reading it or you may restrict access of the data or provide an option of how to access the data. 
+See {ref}`Data Repositories<rr-rdm-repository>` and {ref}`Sharing and Archiving Data<rr-rdm-sharing>` for more information.
 
 ### 7. Data transformation
 Data transformation is the practice of examining large datasets to generate new information. 
