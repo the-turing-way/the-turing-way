@@ -10,7 +10,7 @@ Instead, we refer to a set of aspects that can lead to a successful and sustaina
 
 Our current Translation Management System is Crowdin.
 All translations are stored in a fork of _The Turing Way_ repository inside [TWTranslation](https://github.com/TWTranslation), a GitHub Organisation account.
-This fork is updated regularly to fetch new content and Crodin adds it automatically and starts an automatic translation based on machine translation and translation memory. 
+This fork is updated regularly to fetch new content and Crowdin adds it automatically and starts an automatic translation based on machine translation and translation memory. 
 The automatic translations need review and approval before being accepted.
 
 People in the team complete and review these automatic translations, according to the translation guidelines of each team.
@@ -63,13 +63,13 @@ alt: Crowdsourcing page in Crowdin which has three tabs, one showing the languag
   - They are essential to harmonise and standardise translations.
   Make sure you read them before you start translating for the first time.
   If you are starting a new language, please make sure you create a repository in the GitHub organisation with your language guidelines. 
-  Feel free to comment these guidelines and suggest new terms anytime. This can be done in the corresponding repositories or in _The Turing Way_ issues
+  Feel free to comment these guidelines and suggest new terms anytime. This can be done in the corresponding repositories or in _The Turing Way_ issues.
 
 - **Choose the language you want to contribute to.** We have currently 4 languages with active contributors, which are Spanish, Arabic, Portuguese and Chinese.   
 
-```{admonition} Add New Language
+```{admonition} Add A New Language
 :class: tip
-If your language is not in the list, please feel free to contact one of the managers and ask for new language through Crowdin or Slack.
+If your language is not in the list, please feel free to contact one of the managers and ask for a new language through Crowdin or Slack.
 ```
 
 ```{figure} ../../figures/add-language-crowdin.gif
@@ -102,7 +102,7 @@ alt: You can add a new task to Crowdin by clicking on the console at the top and
 ```
 
 - Once you decide which file you will work on, you can type its name in the search bar and click on it. 
-  This will direct you to Crowdin Editor, you will learn more about it in the next chapter.
+  This will direct you to the Crowdin Editor, you will learn more about it in the next chapter.
 
 ```{admonition} Top Tip
 :class: tip
