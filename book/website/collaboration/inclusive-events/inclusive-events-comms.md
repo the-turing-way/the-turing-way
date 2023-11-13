@@ -45,14 +45,14 @@ This can be due to medication requirements, and managing conditions that involve
 Providing clear and timely information will help your attendees with lived experiences plan their attendance safely, and in a way that supports them engaging fully in your event. 
 This will also be supportive of attendees with busy schedules who may be booked out significantly in advance.
 
-Your Save the Date should include an overview of honorarium or reimbursement support, the date, and the approximate location of the event such as Zoom, or the name of the city where the event will take place. 
+Your "Save the Date" should include an overview of honorarium or reimbursement support, the date, and the approximate location of the event such as Zoom, or the name of the city where the event will take place. 
 It should also reference how long the event is likely to be, for example, if it's a multi-day event or a few hours. 
 
 Attendees with caring responsibilities may need to hire and arrange alternative care support in order to attend your event, or could be placed at a significant financial disadvantage if they travel and attend. 
 By providing guidance along with a "Save the Date", your attendees would have appropriate time be able to make arrangements, and also be able to make an informed choice about if they are able to attend. 
 
-Consider sending out different forms of a Save the Date to support how different people use and interact with online calendars. 
-For example, sending out an online calendar placeholder, an email invitation written in plain text with formatted headings, attaching a PDF flyer with Save the Date information, and promoting Save the Date information through your usual communication channels such as Slack, LinkedIn or organization's website and social media. 
+Consider sending out different forms of a "Save the Date" to support how different people use and interact with online calendars. 
+For example, sending out an online calendar placeholder, an email invitation written in plain text with formatted headings, attaching a PDF flyer with "Save the Date" information, and promoting "Save the Date" information through your usual communication channels such as Slack, LinkedIn or organization's website and social media. 
 This can ensure that people who use different communication channels are able to receive the information in a medium that is accessible to them and through the channel they are most comfortably using. 
 
 ```{note} 
