@@ -254,7 +254,8 @@
       "contributions": [
         "ideas",
         "doc",
-        "review"
+        "review",
+        "eventOrganizing"
       ]
     },
     {
@@ -4340,6 +4341,87 @@
       "name": "Mike Nolan",
       "avatar_url": "https://avatars.githubusercontent.com/u/2600677?v=4",
       "profile": "http://nolski.rocks",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "benvanwerkhoven",
+      "name": "Ben van Werkhoven",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2337546?v=4",
+      "profile": "https://github.com/benvanwerkhoven",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "drjwbaker",
+      "name": "James Baker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4965300?v=4",
+      "profile": "http://cradledincaricature.com/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "arya1302",
+      "name": "Arya A",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73542599?v=4",
+      "profile": "https://github.com/arya1302",
+      "contributions": [
+        "code",
+        "review",
+        "doc",
+        "bug",
+        "content",
+        "ideas",
+        "infra",
+        "userTesting",
+        "test"
+      ]
+    },
+    {
+      "login": "JaroCamphuijsen",
+      "name": "Jaro Camphuijsen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12695232?v=4",
+      "profile": "https://github.com/JaroCamphuijsen",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "penyuan",
+      "name": "penyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13352427?v=4",
+      "profile": "https://www.penonek.com/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ljcolling",
+      "name": "Lincoln Colling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21215217?v=4",
+      "profile": "http://research.colling.net.nz",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "sadielbartholomew",
+      "name": "Sadie L. Bartholomew",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30274190?v=4",
+      "profile": "http://sadielbartholomew.github.io",
+      "contributions": [
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "ereynaud",
+      "name": "Emmanuel G. REYNAUD",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12295393?v=4",
+      "profile": "https://github.com/ereynaud",
       "contributions": [
         "ideas"
       ]
