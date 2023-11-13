@@ -59,22 +59,22 @@ We have created a label for that chapter called `rr-overview` by adding the labe
 # Overview
 ```
 
-Similarly, for different subchapters we recommend extending the label name with another placeholder for subchapter's name.
+Similarly, for different subchapters we recommend extending the label name with another placeholder for the subchapter's name.
 For example, `rr-overview-resources` is a label in the guide "Reproducible Research" (rr) for the subchapter "Resources" for the "Overview" chapter (overview-resources).
 This label can be created by using the following directive in the corresponding file:
 
 ```
-(sectioninitials-filename)=
+(rr-overview-resources)=
 # Resources
 ```
 
-In the same manner, for different sections in a subchapters we recommend extending the label name with another placeholder.
+In the same manner, for different sections in a subchapter we recommend extending the label name with another placeholder.
 This can be chosen by the authors, which should be a short yet sensible name for the section where the label is being created.
-For example, `rr-overview-resources-addmaterial` is a label in the guide "Reproducible Research" (rr) for the subchapter "Resources" for the "Overview" chapter (overview-resources) for the section for "Additional Materials" (addmaterails).
+For example, `rr-overview-resources-addmaterial` is a label in the guide "Reproducible Research" (rr) for the subchapter "Resources" for the "Overview" chapter (overview-resources) for the section for "Additional Materials" (addmaterial).
 This label can be created in the corresponding file for the suggested section name using the following directive:
 
 ```
-(sectioninitials-filename-section)=
+(rr-overview-resources-addmaterial)=
 ## Additional Material
 ```
 
@@ -82,7 +82,7 @@ This label can be created in the corresponding file for the suggested section na
 
 **Examples for cross-referencing sections of chapters and subchapters**
 
-We will use examples for the chapters in "Reproducible Research" guide located in the `book/website` directory.
+We will use examples for the chapters in the "Reproducible Research" guide located in the `book/website` directory.
 
 **_Case 1_**: When you cross-reference a section of the chapter within the same file _before_ a label has been created.
 

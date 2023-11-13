@@ -4,7 +4,7 @@ The external link check tests if links between pages of _The Turing Way_ and oth
 This is a useful tool which helps us ensure that when users click a link they are brought to a working page.
 
 There is a [GitHub workflow](https://github.com/the-turing-way/the-turing-way/blob/HEAD/.github/workflows/external_link_check.yml) which regularly tests external links in the book and posts a list of broken links to an [issue](https://github.com/the-turing-way/the-turing-way/issues/3171).
-This section explains the processes which updates the broken links issue.
+This section explains the process which updates the broken links issue.
 
 ## Workflow
 
@@ -27,7 +27,7 @@ An example configuration file with explanations can be found in [the Lychee docu
 The configuration file can be used to improve the usefulness of the broken links issue.
 In particular, it is possible to exclude domains which are known to produce false negatives using the [`--exclude` argument](https://lychee.cli.rs/#/recipes/filtering-links) on the command line or the equivalent `exclude` key in the [configuration file](https://lychee.cli.rs/#/usage/config).
 
-Lychee produces a report of broken links and save this to a Markdown file.
+Lychee produces a report of broken links and saves this to a Markdown file.
 The workflow then concatenates this report with an [issue header](https://github.com/the-turing-way/the-turing-way/blob/main/.github/workflows/resources/external_link_check_header.md) and updates the broken links issue.
 
 ## Issue

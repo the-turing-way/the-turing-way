@@ -15,7 +15,7 @@ Illustration of a process of sketching. [Royalty free image from Many Pixels](ht
 (ch-template-bookdash)=
 ## Book Dash Events
 
-There are four MarkDown templates for the shared notes (HackMD), feedback and GitHub issue for organising and running _The Turing Way_ book dash events.
+There are four MarkDown templates for the shared notes (HackMD), feedback and GitHub issue for organising and running _The Turing Way_ Book Dash events.
 These templates can be reused and adapted for different events within and outside _The Turing Way_ community.
 
 - {ref}`HackMD Template for the Index Page<ch-template-bookdash-index>`
