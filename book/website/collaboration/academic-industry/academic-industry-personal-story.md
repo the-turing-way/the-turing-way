@@ -1,7 +1,7 @@
 (cl-academic-industry-personal-story)=  
 # Turing-Roche Community Activities Personal Story
 
-```{figure} ../../figures/turing-roche-partnership.*
+```{figure} ../../figures/turing-roche-partnership.jpg
 ---
 height: 500px
 name: turing-roche-partnership
