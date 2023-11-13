@@ -4434,7 +4434,8 @@
       "profile": "http://www.westerling.nu",
       "contributions": [
         "content",
-        "review"
+        "review",
+        "bug"
       ]
     }
   ],
