@@ -134,10 +134,14 @@ A project manager can also give you permission to add terms to the project gloss
 
 # Embracing Global Accessibility through Localisation and Crowdsourcing
 
-In conclusion, the process of translating the Turing Way into multiple languages through crowdsourcing has been a remarkable endeavor, showcasing the power of collaboration and inclusivity within the open-source community. Through the collective efforts of volunteers and contributors worldwide, the project has successfully bridged language barriers and expanded its reach to diverse communities.
+The process of translating _The Turing Way_ into multiple languages through crowdsourcing has been a remarkable endeavor, showcasing the power of collaboration and inclusivity within the open-source community.
+Through the collective efforts of volunteers and contributors worldwide, the project has successfully bridged language barriers and expanded its reach to diverse communities.
 
-Crowdsourcing has played a pivotal role in this translation endeavor, harnessing the collective intelligence and linguistic skills of individuals passionate about open science and reproducible research. By tapping into the wisdom of the crowd, the Turing Way has been able to leverage the knowledge and expertise of a global network, ensuring accurate and contextually relevant translations.
+Crowdsourcing has played a pivotal role in this translation endeavor, harnessing the collective intelligence and linguistic skills of individuals passionate about open science and reproducible research. 
+By tapping into the wisdom of the crowd, _The Turing Way_ has been able to leverage the knowledge and expertise of a global network, ensuring accurate and contextually relevant translations.
 
-The benefits of localising and translating the Turing Way are far-reaching. It not only makes this invaluable resource more accessible to non-English-speaking communities but also fosters a sense of inclusivity, enabling researchers from various cultural backgrounds to engage with best practices and principles in research reproducibility.
+The benefits of localising and translating _The Turing Way_ are far-reaching.
+It not only makes this invaluable resource more accessible to non-English-speaking communities but also fosters a sense of inclusivity, enabling researchers from various cultural backgrounds to engage with best practices and principles in research reproducibility.
 
-In conclusion, the translation of the Turing Way into different languages through crowdsourcing is a testament to the power of collective action and the commitment to open science principles. Through the dedication and collaboration of individuals around the world, the Turing Way continues to evolve and thrive as a comprehensive and inclusive resource for the research community, transcending language barriers and fostering a culture of reproducibility on a global scale.
+The translation of _The Turing Way_ into different languages through crowdsourcing is a testament to the power of collective action and the commitment to open science principles. 
+Through the dedication and collaboration of individuals around the world, _The Turing Way_ continues to evolve and thrive as a comprehensive and inclusive resource for the research community, transcending language barriers and fostering a culture of reproducibility on a global scale.

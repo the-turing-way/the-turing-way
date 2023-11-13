@@ -15,7 +15,7 @@ We also announce calls in our [monthly newsletters](https://tinyletter.com/Turin
 Though scheduled for 2 hours, we understand that for many interested participants it might be impossible to commit to the entire 2 hours on one or multiple occasions, therefore, you are welcome to join for as long as your schedule allows.
 
 If the current schedule of the online Collaboration Cafe is not suitable for your time zone, you are welcome to host a separate collaboration cafe for your community/time zone.
-Please open a new issue (see [this example](https://github.com/alan-turing-institute/the-turing-way/issues/684)) or reach out to _The Turing Way_ team members for details.
+Please open a new issue (see [this example](https://github.com/the-turing-way/the-turing-way/issues/684)) or reach out to _The Turing Way_ team members for details.
 Continue reading for information on hosting these calls.
 
 ### Resources used for the call

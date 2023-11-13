@@ -34,7 +34,7 @@ Clearly describing data using documentation and metadata ensures that others kno
 
 
 (rr-rdm-useful)=
-## Why This is Useful
+## Motivation and Background
 
 - {ref}`Managing your data <rr-rdm-storage-organisation>` allows you to always find your data and ensure the quality of scientific practice.
 - {ref}`Storing your data properly <rr-rdm-storage>` and backing-up regularly prevents data loss.

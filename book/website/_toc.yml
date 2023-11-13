@@ -88,6 +88,8 @@ parts:
                 file: reproducible-research/licensing/licensing-software
               - title: Data Licenses
                 file: reproducible-research/licensing/licensing-data
+              - title: Hardware Licenses
+                file: reproducible-research/licensing/licensing-hardware
               - title: Machine Learning Model Licenses
                 file: reproducible-research/licensing/licensing-ml
                 sections:
@@ -102,6 +104,8 @@ parts:
             sections:
               - title: Research Data
                 file: reproducible-research/rdm/rdm-data
+              - title: Finding Data
+                file: reproducible-research/rdm/rdm-find
               - title: Data Management Plan
                 file: reproducible-research/rdm/rdm-dmp
               - title: The FAIR Principles and Practices
@@ -163,6 +167,8 @@ parts:
             sections:
               - title: Code Style and Formatting
                 file: reproducible-research/code-quality/code-quality-style
+              - title: Writing Robust Code
+                file: reproducible-research/code-quality/code-quality-robust.md
               - title: Checklist and Resources
                 file: reproducible-research/code-quality/code-quality-resources
           - title: Code Testing
@@ -651,6 +657,8 @@ parts:
                 file: ethical-research/activism/activism-whistleblowing
               - title: Cultural change
                 file: ethical-research/activism/activism-cultural-change
+              - title: The Environmental Impact of Digital Research
+                file: ethical-research/activism/activism-env-impact
               - title: Case study - Robodebt
                 file: ethical-research/activism/activism-robodebt
               - title: Case study - Google Workers
@@ -733,9 +741,9 @@ parts:
                 file: community-handbook/translation/translation-localisation
               - title: Welcome to the localisation team of The Turing Way!
                 file: community-handbook/translation/translation-workflow
-              - title: Embark on Your Localization Journey
+              - title: Embark on Your Localisation Journey
                 file: community-handbook/translation/translation-getting-started
-              - title: Your Gateway to Crowdsourced Localization
+              - title: Your Gateway to Crowdsourced Localisation
                 file: community-handbook/translation/translation-hello-crowdin
           - title: Infrastructure
             file: community-handbook/infrastructure
@@ -744,6 +752,13 @@ parts:
                 file: community-handbook/infrastructure/infrastructure-contributors
               - title: External Link Checking
                 file: community-handbook/infrastructure/infrastructure-external-link-check
+          - title: Communication Platforms
+            file: community-handbook/communication-channels
+            sections:
+              - title: Slack Start Guide
+                file: community-handbook/communication-channels/slack-start-guide
+              - title: Slack Welcome Guide
+                file: community-handbook/communication-channels/slack-welcome-guide
           - title: Monthly Newsletters
             file: community-handbook/newsletters
             sections:
