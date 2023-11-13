@@ -5,7 +5,7 @@ For a more practical overview on tools and practises that facilitate reproducibi
 
 ```{figure} ../../figures/data-ecosystem.*
 ---
-name: data-ecosystem
+name: data-ecosystem-2
 alt: In the illustration the private data is locked up under a well. However, if there is consent, some of the water in this private data well can be shared publicly. Sharing this private data publicly with consent is important for improving public knowledge and scientific progress, which is visualised as a field where people are working on the planting and managing of plants or data charts. The water from the well is used to water the field. The public data that grows thanks to the sharing of the data can then be 'harvested' and be of public benefit. 
 
 ---
