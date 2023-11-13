@@ -27,7 +27,7 @@ ELNs can be software that is specifically build as an ELN, such as RSpace or you
 (rr-rdm-methods-open)=
 ## Open Methods/Protocols
 
-[protocols.io]([url](https://www.protocols.io/)) is a repository for methods. You can watch two short introduction videos by [Emma Ganley](https://www.youtube.com/watch?v=hva-oTapSWU&list=PL1CvC6Ez54KCcs99wV3eex1v5GUry6Yb7&index=12) and [Lenny Teytelman](https://www.youtube.com/watch?v=1wN6RqCmpqM&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=13) to learn more. 
+[protocols.io](https://www.protocols.io/) is a repository for methods. You can watch two short introduction videos by [Emma Ganley](https://www.youtube.com/watch?v=hva-oTapSWU&list=PL1CvC6Ez54KCcs99wV3eex1v5GUry6Yb7&index=12) and [Lenny Teytelman](https://www.youtube.com/watch?v=1wN6RqCmpqM&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=13) to learn more. 
 
 See Report detailed [methods & protocols - ReproducibiliTeach](https://www.youtube.com/watch?v=CzpY4A5G70s&list=PLWb8IFSVeQ620plPweZIQSGQODpGOww8r&index=3), at 23:33 there is a nice overview about the differences between protocol journals and protocol repositories.
 
@@ -37,6 +37,6 @@ You can also choose to [share your electronic lab notes openly](https://web.arch
 ## Additional Resources
 
 * [Course Syllabi for Open and Reproducible Methods](https://osf.io/vkhbt/)
-* Yenni 2018: RDM workflow case study
-* [Webinar:  How To Perform A Workflow Analysis ](https://www.youtube.com/watch?v=9H9xnVRlc_M)https://www.youtube.com/watch?v=9H9xnVRlc_M
-*   
+* [Developing a modern data workflow for evolving data](https://doi.org/10.1101/344804) by {cite:ps}`Yenni2018workflow`
+* [Webinar:  How To Perform A Workflow Analysis ](https://www.youtube.com/watch?v=9H9xnVRlc_M)
+
