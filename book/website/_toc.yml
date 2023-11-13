@@ -354,6 +354,15 @@ parts:
             sections:
               - title: Data Governance for the Machine Learning Pipeline
                 file: project-design/data-governance/data-gov-ml
+          - title: Case Study on Data Study Group
+            file: project-design/case-study-dsg
+            sections:
+              - title: Scoping - Initial Proposal
+                file: project-design/case-study-dsg/case-study-dsg-scoping
+              - title: Planning - Data Preparation
+                file: project-design/case-study-dsg/case-study-dsg-planning
+              - title: Implementation - Recruiment, Ethics & Impact
+                file: project-design/case-study-dsg/case-study-dsg-implement
 
       # ===== Guide for Communication ========================================
 
