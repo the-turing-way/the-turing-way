@@ -4,6 +4,16 @@
 Data Stewards are a growing role within scientific communities.
 'Data Steward' is an umbrella term for numerous support roles that involve the creation, management and usage of research data (see also the {ref}`rr-rdm` chapter).
 
+```{figure} ../../figures/data-stewards.*
+---
+height: 400px
+name: data-stewards
+alt: Cartoon-like sketch of two characters depicted as data stewards in superhero attire, with the left figure gesturing towards symbols of knowledge and alert, and the right figure pointing to tools of the trade such as security and connectivity, all encompassed by a theme of data management and protection.
+---
+A superhero-representation of the core responsibilities of a Data Steward.
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.5706310](https://doi.org/10.5281/zenodo.5706310).
+```
+
 (cl-infrastructure-data-stewards-tasks)=
 ## What do Data Stewards do?
 The core responsibilities of a Data Steward can vary, ranging from policy advisor/consultant, to hands-on operational tasks, to technical or ICT-related tasks.
