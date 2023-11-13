@@ -1,3 +1,4 @@
+(cl-inclusive-events-social-and-networking-guide)=
 # Inclusive Social and Networking Events
 Although your event's main content and sessions will be well thought out, interesting, and engaging for attendees, many attendees often speak highly of the social and collaborative environments that networking events bring to large events. 
 Social events, dinners, and even standing in the lines for coffee can be some of the best times for attendees to get to know one another, identify potential collaborators, and spark ideas.
@@ -8,6 +9,7 @@ Depending on the size and format of your event, this may look like structured ne
 
 Please consider some of the suggestions below, and ensure that you take the time to consider and address any barriers that your specific attendees may face in joining social settings.
 
+(cl-inclusive-events-social-events-timing)=
 ## Choosing a Time for Networking 
 If your event schedule allows, ensure that you offer at least one networking or social event during the day. 
 
@@ -23,11 +25,13 @@ This can provide an opportunity for people to meet one another and join discussi
 In-person networking events hosted before sit-down lunches can also help people with anxiety who may feel uncomfortable and unsure of where to sit and eat lunch. 
 Hosting a social session before sit-down lunches can help these attendees connect with other people and identify who to sit with during the meal. 
 
+(cl-inclusive-events-beverages)=
 ## Beverage Selection
 If your event provides beverages, ensure that not all social gatherings are alcohol or bar-centred. 
 
 Offer alcohol-free alternatives if your event hosts a drinks reception, and caffeine-free free options for attendees during refreshment breaks.
 
+(cl-inclusive-events-social-events-accessibility)=
 ## Accessibility Requirements
 Social events and networking should also have accessibility features like captioning or sign language interpretation, and include activities that do not restrict participation based on body type or ability.
 
@@ -36,6 +40,7 @@ For this reason, try to avoid "speed networking" where attendees have only 3-5 m
 For in-person events, this can be prohibitive for many people such as those with mobility impairments, people who require Sign Language interpreters or other Translators, and people with verbal processing differences. 
 These same barriers affect people attending online events, as well as further negatively impacting those with low-bandwidth or internet connectivity issues. 
 
+(cl-inclusive-events-name-tags)=
 ## Identification and Name Tags
 If your event includes name tags or badges, ensure that you ask attendees for their preferred name, and display the name they provide. 
 
@@ -46,6 +51,7 @@ However, many blouses, dresses, or shirts designed for women do not provide thes
 
 Clip-on badges can also be difficult for people with fine motor disabilities or an impairment that would restrict their ability to pin the clip onto their shirts. 
 
+(cl-inclusive-events-coloured-badges)=
 ### Traffic Light Badges
 You may consider offering a "traffic light" coloured badge or name tag system that is available during social sessions or networking events. 
 Traffic Light Systems can be a useful tool to set intent and expectations between attendees during social activities to make it clear which attendees are open to networking, and which would prefer to not engage in conversation. 
@@ -61,6 +67,7 @@ Yellow was to signify that they were wanting to network and meet new collaborato
 
 > Finally, green lanyards meant that the wearer would like to meet new people, and would be happy for people they didn't know to approach them and initiate conversation. 
 
+(cl-inclusive-events-conversation-guides)=
 ## Providing Guidance and Sparking Conversation 
 Depending on the audience for your event, you may want to consider creating and sharing guidelines or suggestions on how to make the most of networking sessions. 
 This can be especially helpful for autistic attendees, or attendees with social anxiety. 
@@ -75,6 +82,7 @@ Providing a guide acknowledges the diverse needs of all attendees and promotes i
 
 We have curated a few topics or themes you may want to consider including in any guidance you provide. 
 
+(cl-inclusive-events-networking-formats)=
 ### Information about the format
 It can be helpful for many people with a lived experience of social anxiety (or other conditions) to have a structured format for social events.
 
@@ -83,6 +91,7 @@ This can provide a shared understanding among attendees of what is expected duri
 
 Although most social events are traditionally unstructured to allow for emergent discussion and knowledge sharing, it can be beneficial to provide guidance or prompts to start any social sessions and then allow for unstructured conversation time later in the session.
 
+(cl-inclusive-events-networking-expectations)=
 ### Setting Expectations
 In addition to information about the format that your social or networking event will have, consider including clear and explicit instructions about what engagement would be suitable and appropriate for your social activities, alongside examples that explain common social cues such as turning to face the person speaking and asking topical questions based on conversation. 
 
@@ -97,6 +106,7 @@ Instead, poster sessions may be useful to make introductions with other attendee
 Depending on the audience, your guide may need to be more or less detailed.
 By providing guidance on the type of sessions, and what is expected in each setting, you can help facilitate more constructive and collaborative interactions between attendees, and reduce the likelihood of misunderstandings.
 
+(cl-inclusive-events-conversation-prompts)=
 ### Sparking conversation between attendees 
 Social skills are fundamental in building relationships, sharing ideas, and collaborating on research endeavours.
 
@@ -109,6 +119,7 @@ Good conversation prompts or ice breaker questions are both interesting for some
 
 Knowing how to start a conversation and navigate social interactions can help boost attendees' confidence and support them in actively engaging in any social or networking activities.
 
+(cl-inclusive-events-introduction-guide)=
 #### How to introduce yourself 
 You may consider providing examples of how to introduce yourself and start conversations. 
 Pop-culture references providing good examples of how to introduce yourself can be found in the 1987 movie [The Princess Bride](https://en.wikipedia.org/wiki/The_Princess_Bride_(film)) featuring a character called Inigo Montoya, or Pixar animation's movie [Up](https://en.wikipedia.org/wiki/Up_(2009_film)) featuring a character named Russell.
@@ -128,7 +139,7 @@ This can help attendees identify people whom they would like to connect with or 
 
 You may also want to consider asking attendees to add a name pronunciation guide during registration that you can place alongside the attendee list. 
 
-
+(cl-inclusive-events-networking-conclusion)=
 ## Conclusion
 Social events can often be uncomfortable and daunting for many people for a variety of reasons.
 
