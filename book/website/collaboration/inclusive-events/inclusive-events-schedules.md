@@ -116,7 +116,7 @@ For example, a discussion or contribution-based event may consider offering both
 "Speaking" group(s) can be facilitated by a note taker, and the "Writing" group(s) can work together in collaborative documents. 
 You may also consider recording your event's content and making documents available online as part of supporting asynchronous contributions from people in multiple time zones or who may experience difficulties in contributing during "live" events. 
 
-Consider designing sessions that support multiple channels of engagement to be as inclusive of as many accessibility requirements and preferences as possible. 
+Consider if you are able to design and support sessions that allow for multiple channels of engagement to be as inclusive of as many accessibility requirements and preferences as possible.
 Because all events are limited by the resources available to plan and host the event, it is important to provide clear guidance on what engagement means for your event and to work with a representative with lived experience to identify what methods of engagement your event will need to support.
 
 Ensure that you provide an outline of your guidance in both a written format before the event (preferably in plain text), and also include an explanation in your event introduction of what engagement is expected, as well as what pathways are available for contributions.
