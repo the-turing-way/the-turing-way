@@ -31,7 +31,8 @@ In data appraisal, you are required to select the appropriate data by entering, 
 You may also need to to anonymizing the data where necessary.
 Your appraisal and selection policy should ensure consistency, transparency, and accountable decision making.
 
-- See [Crystal Lewi's blog on cleaning data](https://cghlewis.com/blog/data_clean_02) for more detailed information. 
+- See [Crystal Lewi's blog on cleaning data](https://cghlewis.com/blog/data_clean_02) for more detailed information.
+- Watch [DataONE Webinar: Tidying Your Data](https://vimeo.com/378621271)
 
 ### 3. Data disposal 
 Data disposal involves disposing of data that has not be selected for retention. 
