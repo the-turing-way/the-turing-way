@@ -99,7 +99,7 @@
     - reproducible-research/code-reuse
     - reproducible-research/code-reuse/code-reuse-overview
   colour: green
-  description: From research to government, every sector strongly rely upon the
+  description: From research to government, every sector strongly relies upon the
     use of research software. This curated set of chapters guides the sharing
     and citation of software components from source code to computational
     workflows and executables while attributing all contributors fairly.
