@@ -1,6 +1,6 @@
 (cl-research-infrastructure-roles)=
 
-```{figure} ../../figures/researchers-environment.*
+```{figure} ../figures/researchers-environment.*
 ---
 height: 500px
 name: researchers-environment
