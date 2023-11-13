@@ -1,4 +1,14 @@
 (cl-research-infrastructure-roles)=
+
+```{figure} ../../figures/researchers-environment*
+---
+height: 500px
+name: researchers-environment
+alt: 
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
 # Research Infrastructure Roles: Introduction
 
 Successful research and scientific collaborations rarely occur without individuals, or teams, taking on the work of structuring participants' interactions, facilitating work, and supporting the impact of the project.
