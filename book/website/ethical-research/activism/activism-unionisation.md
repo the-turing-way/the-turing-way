@@ -5,7 +5,7 @@
 ---
 height: 500px
 name: unionise
-alt: A black, white, blue and purple cartoon of three people, one wearing a lab coat and goggles, one in a wheelchair, and one holding a mop, standing hand-in-hand over the purple text UNIONISE. They have speech bubbles above them which say Ethics! Open Research! and Working Conditions!
+alt: A black, white, grey, blue and purple cartoon of three people, one wearing a lab coat and goggles, one in a wheelchair, and one holding a mop, standing hand-in-hand over the purple text 'UNIONISE'. They have speech bubbles above them which say 'Ethics!', 'Open Research!' and 'Working Conditions!'
 ---
 
 ```
