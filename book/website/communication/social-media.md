@@ -20,40 +20,40 @@ Although, maintaining a social media account successfully can be time-consuming.
 (cm-social-media-platforms)=
 ## Social Media Platforms
 
-You could use academic-based social media sites such as ResearchGate or Academia.edu or more general ones such as Twitter, Facebook, Instagram, Youtube and Linkedin.
+You could use academic-based social media sites such as ResearchGate or Academia.edu or more general ones such as X (formerly Twitter), Facebook, Instagram, Youtube and Linkedin.
 
 More than 20 million researchers (figure from spring 2021) have signed up to ResearchGate and it can therefore offer a great opportunity for sharing papers, connecting with colleagues through the messaging feature and can be used to advertise projects.
 There are similar benefits to using Academia.edu or Mendeley, although they are not used as much as Researchgate.
 
 A regular criticism of these sites is the spamming of your email with constant updates that are hard to turn off.
 
-More general social media sites are very popular with academic audiences and a recent Nature survey {cite:ps}`Noorden2014social` highlighted that researchers mostly use Twitter and Linkedin for professional use rather than Facebook.
+More general social media sites are very popular with academic audiences and a recent Nature survey {cite:ps}`Noorden2014social` highlighted that researchers mostly use X and Linkedin for professional use rather than Facebook.
 
-This survey also showed that Twitter had a wider range of uses compared to the other social media platforms, such as following discussions, posting work content, discovering peers, discovering recommended papers and commenting on others research.
+This survey also showed that X had a wider range of uses compared to the other social media platforms, such as following discussions, posting work content, discovering peers, discovering recommended papers and commenting on others research.
 It has become the communication channel of choice for many researchers and is opening up research discussions at a much earlier stage than previously seen.
 
-Twitter can be used to build up a personal academic profile, for use throughout a research project and can also be used by organisations to promote their work and message.
+X can be used to build up a personal academic profile, for use throughout a research project and can also be used by organisations to promote their work and message.
 It can make research more visible and understandable to wider communities by allowing non-scientists to find new research instantaneously.
 Scientists can also be contacted directly by the public, which enables a more approachable level of communication {cite:ps}`Kelesidou2021scicomm`.
 
-Due to its popularity and wide range of uses for academic purposes, the next two sub-chapters focus on using Twitter.
-However, below is an overview of the most popular general social media sites used by researchers - Twitter, Linkedin, Facebook and Instagram.
+Due to its popularity and wide range of uses for academic purposes, the next two sub-chapters focus on using X.
+However, below is an overview of the most popular general social media sites used by researchers - X, Linkedin, Facebook and Instagram.
 
-### Twitter
+### X (formerly Twitter)
 
 * They have 353 million monthly active users.
 * It is less formal than other platforms and very popular with academic audiences.
-* Character limit is small, only 280. But you can join tweets in threads.
+* Character limit is only 280 unless you pay for X Premium, but you can join tweets in threads.
 * You can tag others in your tweets or photos.
-* You can add links, photos (size 1200 x 628 pixels) and videos (max 2 minutes 20 seconds) in tweets. You can also add links to videos.
+* You can add links, photos and videos (max 2 minutes 20 seconds) in tweets. You can also add links to videos.
 * If you don't have an image, adding a link will generate a preview image.
 * It is a conversational and chatty platform. So be chatty in tweets and use images and gifs to make your tweets more fun.
 
 ### Linkedin
 
 * They have 250 million monthly active users.
-* It is a more formal and professional communication channel than Twitter and Facebook.
-* Character limit is larger than Twitter at 63,206.
+* It is a more formal and professional communication channel than X and Facebook.
+* Character limit is larger than X at 63,206.
 * You can tag others in your posts.
 * You can add links, photos (size 1200 x 628 pixels) and videos (max 10 minutes) in posts.
 * It is used as an interactive CV, for recruitment and professional networking.
@@ -75,7 +75,7 @@ So it's not the best platform for professional organisations.
 
 * They have 1.2 billion monthly active users.
 * Character limit is 2,200.
-So larger than Twitter but less than Facebook and Linkedin.
+So larger than X but less than Facebook and Linkedin.
 * You can add tags to other users.
 * You can only add links in your bio so not in posts.
 But you can feature links using Linktree.
