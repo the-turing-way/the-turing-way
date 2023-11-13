@@ -1,10 +1,10 @@
-```{figure} ../figures/data-ecosystem.*
+```{figure} ../figures/rdm-storage.*
 ---
 height: 400px
-name: data-ecosystem
-alt: image of the data ecosystem with private and public data
+name: rdm-storage
+alt: A woman standing in front of a very messy closet. She is looking for data that she generated last year. Behind her a person is watching doubtfully whether she can find it in this mess.
 ---
-Open and closed data for reproducibility.
+Research Data Management: making it possible to retreive data from last year.
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300. 
 ```
 
