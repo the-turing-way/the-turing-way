@@ -9,7 +9,7 @@ Also, we share with them some ways they can stay connected and keep contributing
 ## Joining the ongoing efforts
 
 With every new effort initiated by our members, we gain new insights to improve our global outreach.
-These efforts often start in our [GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues) section.
+These efforts often start in our [GitHub issue](https://github.com/the-turing-way/the-turing-way/issues) section.
 These are good places to begin new discussions by creating a new issue or join the ongoing discussion by commenting on the issue.
 If our contributors want to start to get to know the project or want to return after a long break, they can begin with our good first issues.
 If they have a new idea that they would like to add to the project as a new section in an existing chapter, or as a whole new chapter, they can start by creating a new issue.
@@ -45,9 +45,9 @@ If you have more ideas or questions about the project, the Book Dash event or so
 ## Reports and additional materials
 
 - All the templates related to Book Dash is provided in the {ref}`community template collection<ch-templates>`
-- [_The Turing Way_ Report By Malvika Sharan with team members from November 2020](https://github.com/alan-turing-institute/the-turing-way/blob/book-dash-chapter/workshops/book-dash/book-dash-nov20-report.md)
+- [_The Turing Way_ Report By Malvika Sharan with team members from November 2020](https://github.com/the-turing-way/the-turing-way/blob/book-dash-chapter/workshops/book-dash/book-dash-nov20-report.md)
 - CSCCE blog post by Arielle Bennett, July 2020: [Book Dashes: Collaborative Community Events](https://www.cscce.org/2020/07/09/book-dashes-collaborative-community-events/)
 - Open Working blog post by Esther Plomp, February 2020: [The Turing Way Bookdash](https://openworking.wordpress.com/2020/02/27/the-turing-way-bookdash/)
-- [_The Turing Way_ Report By Malvika Sharan with team members from February 2020](https://github.com/alan-turing-institute/the-turing-way/blob/book-dash-chapter/workshops/book-dash/book-dash-feb20-report.md)
-- [_The Turing Way_ Report By Rachael Ainsworth with team members from London 2019](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/book-dash/book-dash-ldn-report.md)
-- [_The Turing Way_ Report By Rachael Ainsworth with team members from Manchester 2019](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/book-dash/book-dash-mcr-report.md)
+- [_The Turing Way_ Report By Malvika Sharan with team members from February 2020](https://github.com/the-turing-way/the-turing-way/blob/book-dash-chapter/workshops/book-dash/book-dash-feb20-report.md)
+- [_The Turing Way_ Report By Rachael Ainsworth with team members from London 2019](https://github.com/the-turing-way/the-turing-way/blob/main/workshops/book-dash/book-dash-ldn-report.md)
+- [_The Turing Way_ Report By Rachael Ainsworth with team members from Manchester 2019](https://github.com/the-turing-way/the-turing-way/blob/main/workshops/book-dash/book-dash-mcr-report.md)

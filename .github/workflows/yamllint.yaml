@@ -1,6 +1,10 @@
 name: Lint and Validate YAML files
 
 on:
+  pull_request:
+    paths:
+      - "**.yaml"
+      - "**.yml"
   push:
     paths:
       - "**.yaml"
