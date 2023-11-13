@@ -74,8 +74,8 @@
     - reproducible-research/ci
     - project-design/project-repo
   colour: white
-  description: Research Software Engineers are programmers with scientific
-    backgrounds who play crucial roles in projects involving data and
+  description: Research Software Engineers are programmers working in
+    an academic context who play crucial roles in projects involving data and
     technology. This curated set of chapters will point them to open source and
     reproducibility practices important for working with data and developing
     software tools.
