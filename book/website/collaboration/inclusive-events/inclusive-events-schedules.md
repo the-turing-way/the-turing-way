@@ -54,14 +54,24 @@ This can be done in addition to allocating 5-10 minutes for an introduction and 
     - 10 minute break or 10 minute thank you and session close
 
 As mentioned above, it is best to get feedback and input from a representative with lived experience when planning your session timings. 
+
 This is because there may be differences in what is required for a specific community that would negatively impact a different set of individuals. 
 
-For example, if your event invites specifically people with lived experience of ADHD (and no other cognitive impairments) for a :art: creative workshop :art:, setting sessions at 40 minutes maximum length may be incredibly disruptive and undermine the goals and accessibility of your workshop. 
-This is because many people with a lived experience of ADHD can find that forced interruption is very disruptive and prohibitive of meaningful engagement on tasks that are highly creative or require deep focus.
+```{note}
+For example:
+
+If your event invites specifically people with lived experience of ADHD (and no other cognitive impairments) for a :art: creative workshop :art:, setting sessions at 40 minutes maximum length may be incredibly disruptive and undermine the goals and accessibility of your workshop
+
 Instead, you may want to consider offering longer sessions for this audience that can be facilitated with self-directed breaks. 
-For example, for a 1.5-hour event you may consider a 10 minute introduction, followed by a 50 minute self-directed session, a 15 minute break, and then a 15 minute conclusion or share out and session close.
-This example highlights the importance of working with your specific community to identify what formats will work best for your specific event.
+- For example, for a 1.5-hour event you may consider a 10 minute introduction, followed by a 50 minute self-directed session, a 15 minute break, and then a 15 minute conclusion or share out and session close.
+
+This is because many people with a lived experience of ADHD can find that forced interruption is very disruptive and prohibitive of meaningful engagement on tasks that are highly creative or require deep focus.
+
 A discussion event or workshop for the same audience with ADHD may need to follow a different format (such a 30 minute instruction followed by a 10 minute break) to better support the audience's preferences and requirements.
+
+This example highlights the importance of working with your specific community to identify what formats will work best for your specific event.
+```
+
 
 Try to get feedback on plans for your event as early as possible and ensure that you work with a representative or group with lived experience when deciding on the format and duration of your specific event. 
 
