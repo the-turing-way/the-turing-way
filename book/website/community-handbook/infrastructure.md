@@ -10,14 +10,14 @@ Some examples include:
 
 - Instructions to build the site from the source files, both {ref}`locally<ch-local-build>` and [for deployment](https://github.com/the-turing-way/the-turing-way/blob/main/netlify.toml)
 - Continuous integration {term}`Continuous Integration` tasks to look for problems in the source
-- Redirect rules to help site navigation and avoid '404 Not Found'
-- Hosting {term}`Hosting` and {term}`DNS`
+- Redirect rules to help site navigation and avoid '404 Not Found' errors
+- {term}`Hosting` and {term}`DNS`
 
 Some of this is controlled by data in the repository itself.
-For example, quality control process to ensure the book will build and help maintain accessibility standards are part of the {ref}`Continuous Integration<rr-ci>` process and described in the [.github/workflows/](https://github.com/the-turing-way/the-turing-way/tree/main/.github/workflows) directory.
+For example, quality control processes to ensure the book will build and help maintain accessibility standards are part of the {ref}`Continuous Integration<rr-ci>` process and described in the [.github/workflows/](https://github.com/the-turing-way/the-turing-way/tree/main/.github/workflows) directory.
 
-Some aspects may not declared in the repository.
+Some aspects may not be declared in the repository.
 For example, hosting is provided by Netlify which holds some of its own configuration.
 
-This section of the book describes infrastructure that The Turing Way uses.
+This section of the book describes the infrastructure that _The Turing Way_ uses.
 The aim is to demystify how things work, ensure that the infrastructure is described openly, and to help people contribute to infrastructure.

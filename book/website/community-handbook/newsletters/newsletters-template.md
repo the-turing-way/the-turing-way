@@ -1,7 +1,7 @@
 (ch-newsltters-template)
 # Template for Drafting Newsletters
 
-The template outlined below is what we have been using as a guide for collecting news items for the _The Turing Way_ newsletters since September 2019.
+The template outlined below is what we have been using as a guide for collecting news items for _The Turing Way_ newsletters since September 2019.
 This template has evolved over several months and in no way claims to be the 'perfect' format.
 When reusing this template, you should experiment with what works for your community.
 Your suggestions in the earlier subchapters are very welcome.

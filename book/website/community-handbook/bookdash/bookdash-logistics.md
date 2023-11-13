@@ -1,6 +1,6 @@
 # Book Dash Logistics
 
-We have created the following checklists, which are chronologically structured to help organise Book Dash online or in-person.
+We have created the following checklists, which are chronologically structured to help organise Book Dash events online or in-person.
 
 ## Before the Event
 
@@ -40,7 +40,6 @@ We have created the following checklists, which are chronologically structured t
 - [ ] Provide details on Code of Conduct, contribution guideline and ways to get involved in an ongoing discussion
 - [ ] Host the onboarding call one week before the event to share logistics and facilitate the drafting of SMART goals
 - [ ] Group participants into the proposed working groups as per their SMART goals from the onboarding call
-- [ ] Host the onboarding call one week before the event to share logistics and facilitate the drafting of SMART goals
 - [ ] Send a reminder email to register on Eventbrite sharing important links and information including support grant, GitHub session, onboarding call info and reimbursement process
 - [ ] Create a GitHub issue to collect bio and highlight of the participants to add them to the Contributors Record
 
@@ -82,7 +81,7 @@ We have created the following checklists, which are chronologically structured t
 - [ ] If an artist, illustrator or consultant is invited, coordinate the schedule with participants so they have the chance to engage
 - [ ] Run a social session each day
   * These are run by organisers to ensure everyone has the chance to connect informally
-- [ ] Host community share out the event on the last day to demonstrate and celebrate the contributions made by everyone during the Book Dash
+- [ ] Host community share out event on the last day to demonstrate and celebrate the contributions made by everyone during the Book Dash
 - [ ] Ask for feedback on the last day (plus and delta)
 - [ ] Share the GitHub issue for adding bio and highlight
 - [ ] Take screenshots or group photos (with permission) to share in reports or social media

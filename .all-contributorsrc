@@ -4216,7 +4216,8 @@
       "profile": "https://richardjacton.github.io/",
       "contributions": [
         "ideas",
-        "content"
+        "content",
+        "review"
       ]
     },
     {
@@ -4424,6 +4425,16 @@
       "profile": "https://github.com/ereynaud",
       "contributions": [
         "ideas"
+      ]
+    },
+    {
+      "login": "kallewesterling",
+      "name": "Kalle Westerling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7298727?v=4",
+      "profile": "http://www.westerling.nu",
+      "contributions": [
+        "content",
+        "review"
       ]
     }
   ],
