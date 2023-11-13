@@ -5,6 +5,15 @@ As a community-led project, we believe in and promote a collaborative approach t
 For example, writing _The Turing Way_ chapter is an iterative process that involves designing, outlining, writing, reviewing, and editing its contents.
 Similarly, community-oriented processes evolve over time with the help and feedback from the community members.
 
+```{figure} ../../figures/people-process.*
+---
+height: 500px
+name: people-process
+alt: Cartoon-like sketch with pink colours of a large sunflower with a star in the middle sitting on top of the ground. It has the text next to the flower that says 'valuing people and processes behind research'. Underneath the ground are three roots - each with an image of a person at the end. The root images are a lady presenting a talk, a man in a lab coat collecting data and a person with glasses working at a laptop computer. They are representing the hidden work that goes into research.
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
 ## Community members, contributors and co-authors
 
 Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member.
