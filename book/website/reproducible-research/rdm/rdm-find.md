@@ -69,5 +69,5 @@ This information is generally available in READme files or in the metadata of th
 (rr-rdm-find-info)=
 ## More information
 
-* Eleven quick tips for finding research data by [Gregory et al. 2018](https://doi.org/10.1371/journal.pcbi.1006038)
+* [Eleven quick tips for finding research data](https://doi.org/10.1371/journal.pcbi.1006038) by {cite:ps}`Gregory2018finddata`
 
