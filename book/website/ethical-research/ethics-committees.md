@@ -9,7 +9,7 @@ This is because they can provide ethical oversight to expert researchers who do 
 This is not to liberate the researcher of their ethical responsibilities -- ultimately, they make the decisions as to how to conduct their work -- but to provide support in respect to these questions.
 Whilst there is a great deal of complexity involved in holding individuals accountable in scientific projects, this chapter assumes that RECs seek to improve how science is conducted at large.
 
-```{figure} ../../figures/ethics-committee-with-text.*
+```{figure}../../figures/ethics-committee-with-text.*
 ---
 height: 500px
 name: ethics-committee-with-text
