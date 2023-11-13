@@ -9,7 +9,7 @@ Similarly, community-oriented processes evolve over time with the help and feedb
 ---
 height: 500px
 name: people-process
-alt: Cartoon-like sketch with pink colours of a large sunflower with a star in the middle sitting on top of the ground. It has the text next to the flower that says 'valuing people and processes behind research'. Underneath the ground are three roots - each with an image of a person at the end. The root images are a femaile-presenting person presenting a talk, a male-presenting person with a moustache in a lab coat collecting data and a person with glasses working at a laptop computer. They are representing the hidden work that goes into research.
+alt: Cartoon-like sketch with pink colours of a large sunflower with a star in the middle sitting on top of the ground. It has the text next to the flower that says 'valuing people and processes behind research'. Underneath the ground are three roots - each with an image of a person at the end. The root images are a female-presenting person presenting a talk, a male-presenting person with a moustache in a lab coat collecting data and a person with glasses working at a laptop computer. They are representing the hidden work that goes into research.
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
