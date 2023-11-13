@@ -23,7 +23,7 @@ Finally, we can plan for publishing and sharing research components before, duri
 * Consider the necessary code and data requirements for your project.
 * Document the workflow for data collection, analysis, and interpretation.
 * Define data governance processes to ensure data is kept securely, used appropriately, and complies with data regulations in relevant countries/geographic areas. 
-* Useful documentation: [data management plan](rr-rdm-dmp), [code repository](pd-project-repo), [electronic lab notebooks](rr-open-notebooks), [Data Governance Chapter](data-governance)
+* Useful documentation: [data management plan](rr-rdm-dmp), [code repository](pd-project-repo), [electronic lab notebooks](rr-open-notebooks), [Data Governance Chapter](pd-dg)
 
 ### Operations 
 * Confirm the budget and any funding policies you need to follow.
