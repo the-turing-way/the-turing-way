@@ -325,12 +325,12 @@ GitHub has a [nice introduction][github-flow] to the pull request workflow, but 
 - Edit the chapter for style.
 - Once the first draft of the chapter is complete change [WIP] in the pull request title to [Ready for review].
 - Add a comment on the pull request indicating that this chapter is ready for high-level review, i.e discussion of changes of the scale of a paragraph or larger such as adding material and restructuring sections.
-- Discuss and make these high-level changes on this pull request. Once this is complete merge the chapter into The Alan Turing Intitute's version of the chapter branch.
-- Make another pull request from your fork's version of the branch to The Alan Turing Institute's version of the branch. Title this "[Ready for review] Chapter_name chapter- low-level reviews".
+- Discuss and make these high-level changes on this pull request. Once this is complete merge the chapter into The _The Turing Way_'s version of the chapter branch.
+- Make another pull request from your fork's version of the branch to _The Turing Way_'s version of the branch. Title this "[Ready for review] Chapter_name chapter- low-level reviews".
 - Discuss and make low-level changes to the chapter on this pull request, such as rewording sentences, typos and the like.
 - This division of the pull requests into high and low-level changes stops discussion threads from becoming unmanageable.
-- Once this is complete merge the pull request into The Alan Turing Intitute's version of the chapter branch.
-- Merge The Alan Turing Intitute's version of the chapter branch into The Alan Turing Institute's main branch.
+- Once this is complete merge the pull request into _The Turing Way_'s version of the chapter branch.
+- Merge _The Turing Way_'s version of the chapter branch into _The Turing Way_'s main branch.
 - DO not delete the branch as the chapter may continue to undergo improvement and development in the future.
 
 ## Local development
