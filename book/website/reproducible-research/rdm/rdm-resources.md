@@ -43,12 +43,13 @@ If you have not read the chapters on {ref}`rr-open` and {ref}`cm-citable` yet, y
 
 - Podcast: Within and Between: [S2E13](https://open.spotify.com/episode/6klHxGUi0v5m5pTFUHbkC4?si=f681d9091fd0490d&nd=1) & [S2E14](https://open.spotify.com/episode/27SXLCsjhtvh4LyfaRIG92?si=9ab8715953584d46&nd=1) on Data Management
 
-### Presentations/Slides
+### Presentations/Slides and videos
 
 - [Slides on Research Data Management](https://doi.org/10.5281/zenodo.4048591)
 - [Slides: Practicalities of Data Handling](https://doi.org/10.5281/zenodo.5078264)
 - [Slides: Research Data Management in the Life Sciences](https://osf.io/mvrny/)
 - [Rethinking Research Data by Kristin Briney ](https://www.youtube.com/watch?v=dXKbkpilQME)
+- [Research Data Management](https://www.youtube.com/watch?v=QRy2uGTpEcQ) by TU Delft Open Science MOOC
 
 ### Tools
 
