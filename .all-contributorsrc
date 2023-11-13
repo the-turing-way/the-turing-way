@@ -4324,12 +4324,13 @@
       "profile": "https://susana465.github.io/",
       "contributions": [
         "question",
-        "tutorial"
+        "tutorial",
+        "content"
       ]
     }
   ],
   "projectName": "the-turing-way",
-  "projectOwner": "alan-turing-institute",
+  "projectOwner": "the-turing-way",
   "repoType": "github",
   "repoHost": "https://github.com",
   "commitConvention": "none",
