@@ -4,7 +4,7 @@
 ---
 height: 500px
 name: researchers-environment
-alt: 
+alt: The image is a complex amalgamation of people places and things. At the top of the image is a header that states "RESEARCHERS'" and at the bottom is a footer stating "ENVIRONMENT". The image contains the following. In the top left is a person in a construction crane carrying a series of ones and zeroes wearing a hard-hat looking down. They are labeled "Research Software Engineer". In the bottom left, we see an older man with a cane scratching his head looking at a math formula sketched onto the side of a building. Next to him is two pink fluffy rams. One is trapped insight of a light bulb. I hope they manage to escape... This scene is labeled "Research Application Managers". In the top right is a woman in a pink shirt sketching ones and zeroes onto the side of a bridge who is labeled "Data Stewards". In the bottom right is a series of cylinders with little stick figures climbing up ladders to a light bulb that is labeled "Useful Projects". They are being looked upon by a slightly amused looking man with short dark hair.
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
