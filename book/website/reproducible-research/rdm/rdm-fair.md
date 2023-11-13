@@ -52,6 +52,10 @@ The FAIR principles are also applied to software (see [[LGK+20](https://the-turi
 > "FAIR practices can result in highly efficient code implementations, reduce the need to retrain models, and reduce unnecessary data generation/storage, thus reducing the overall carbon footprint.
 > As a result, green computing and FAIR practices may boht stimulate innovation and reduce financial costs." - {cite:ps}`Lannelongue2023greener`
 
+## FAIR principles and accessibility
+
+The Accessible in FAIR is not equal to ensuring that your research objects are accessibles to all users. 
+For this, the term “actually accessible”  has been coined by {cite:ps}`Colon2023accessibility` to refer to data that is "easy to locate, obtain, interpret, use, share, and analyze for everybody, including disabled people."
 
 (rr-rdm-fair-community)=
 ## Community involvement
