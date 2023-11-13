@@ -28,7 +28,7 @@ This stage focuses on ensuring that the data captured is actually fit for purpos
 
 ### 2. Data appraisal
 In data appraisal, you are required to select the appropriate data by entering, digitizing, transcribing, checking, validating and cleaning the data. 
-You may also need to to anonymizing the data where necessary.
+You may also need to anonymise or pseudoanonymise the data where necessary.
 Your appraisal and selection policy should ensure consistency, transparency, and accountable decision making.
 
 - See [Crystal Lewi's blog on cleaning data](https://cghlewis.com/blog/data_clean_02) for more detailed information.
