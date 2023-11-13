@@ -30,6 +30,8 @@ In data appraisal, you are required to select the appropriate data by entering, 
 As you appraise the data you need to adhere to the documented guidance, policies and legal requirements in evaluating research data in a particular organization and selecting the data that requires long term preservation. 
 Your appraisal and selection policy should ensure consistency, transparency, and accountable decision making.
 
+- See [Crystal Lewi's blog on cleaning data](https://cghlewis.com/blog/data_clean_02) for more detailed information. 
+
 ### 3. Data disposal 
 Data disposal involves disposing of data that has not be selected for retention. 
 You need to have an appraisal policy which will guide you on the data required for archiving, redeployment, transfer of custody or ownership or destroying the research data.
