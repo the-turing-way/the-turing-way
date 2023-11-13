@@ -5,7 +5,7 @@
 ---
 height: 400px
 name: environmental-impact
-alt: Cartoon-like sketch depicting the potential environmental impact of digital research. On the left, a person sits at a desk with a laptop, with a chatbot and "COMPUTING" text above, symbolizing digital communication. In the center, "EMISSIONS" emerge from a factory, representing pollution. On the right, a figure throws computers into the ocean, labeled "WASTE", indicating electronic disposal issues.
+alt: Cartoon-like sketch depicting the potential environmental impact of digital research. The illustration is mostly done in a teal blue, with a black cloud in the background, with emissions written across it. On the left, a person sits at a desk with a laptop, with a chatbot and "COMPUTING" text above, symbolizing digital communication. Behind the chatbot lurks three black cogwheels. In the center, "EMISSIONS" emerge from a factory, representing pollution. On the right, a figure throws computers into the ocean, labeled "WASTE", indicating electronic disposal issues.
 
 ---
 Illustration of the potential environmental impact of digital research.
