@@ -60,7 +60,7 @@ You can watch two short introduction videos by [Emma Ganley](https://www.youtube
 
 See [methods & protocols - ReproducibiliTeach](https://www.youtube.com/watch?v=CzpY4A5G70s&list=PLWb8IFSVeQ620plPweZIQSGQODpGOww8r&index=3) for the differences between protocol journals and protocol repositories (at 23:33).
 
-You can also choose to [share your electronic lab notes openly](https://web.archive.org/web/20210309195308/https://www.lornecampbell.org/?p=179). 
+You can also choose to [share your electronic lab notes openly](https://www.lornecampbell.org/?p=179).
 
 (rr-rdm-methods-resources)=
 ## Additional Resources
