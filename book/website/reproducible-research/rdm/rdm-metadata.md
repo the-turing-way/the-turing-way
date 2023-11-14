@@ -78,4 +78,4 @@ See [Tagging and Finding Your Files by MIT libraries](https://libguides.mit.edu/
 - [Slides: FAIRify your data: data documentation and metadata](https://osf.io/wbr7t/)
 - [Controlled vocabularies for the social sciences: what they are, and why we need them](https://odissei-data.nl/en/2022/10/controlled-vocabularies-for-the-social-sciences-what-they-are-and-why-we-need-them/)
 - [Research Data Management: Metadata](https://libguides.ucd.ie/data/metadata)
-- {cite:ps}`Buchanan2021dictionaries`.
+- Data dictionaries and codebooks by {cite:ps}`Buchanan2021dictionaries`.
