@@ -33,7 +33,7 @@ ELNs also have their **limitations**:
 
 * **Costs**: Most ELN solutions can only be used through paid plans, or the free plans have reduced functionalities in the number of users, storage space or file sizes.
 Your lab may also not have access to tables or pens that would make the use of ELNs easier.
-Check if your institution is offering a solution that you can use without additional costs 
+Check if your institution is offering a solution that you can use without additional costs.
 * **File format**: always check if files can be exported in your preferred file formats to avoid format lock-in.
 Some ELNs also have API's that allow integration with other software and workflows. 
 * **Vendor-lock-in**: Once you're using a certain solution you may become dependent on it.
