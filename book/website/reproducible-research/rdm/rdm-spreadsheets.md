@@ -228,7 +228,7 @@ If you work in a team, you should take particular care of the conventions and ma
 
 To learn more about data organisation in spreadsheets, you may have a look at the Data Carpentry lessons for [Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/) and [Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/).
 
-To read about recommended pratices, see {cite:ps}`Broman2018data`
+To read about recommended practices, see {cite:ps}`Broman2018data`
 
 See also a blogpost with [resources for using spreadsheets in research and moving onto other tools](https://www.software.ac.uk/blog/2021-11-05-resources-using-spreadsheets-research-and-moving-other-tools).
 
