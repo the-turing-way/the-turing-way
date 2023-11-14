@@ -3,7 +3,7 @@
 Although your event's main content and sessions will be well thought out, interesting, and engaging for attendees, many attendees often speak highly of the social and collaborative environments that networking events bring to large events. 
 Social events, dinners, and even standing in the lines for coffee can be some of the best times for attendees to get to know one another, identify potential collaborators, and spark ideas.
 
-As an organizer, should consider how to make these serendipitous opportunities for networking and socializing as accessible as possible for people with lived experience who are attending your event.
+As an organizer, you should consider how to make these serendipitous opportunities for networking and socializing as accessible as possible for people with lived experience who are attending your event.
 
 Depending on the size and format of your event, this may look like structured networking sessions, a social dinner, or a 15 minute social break at the start or middle of your event. 
 
