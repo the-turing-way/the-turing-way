@@ -15,7 +15,7 @@ The Book Dash was a success and the experience of working with an artist added t
 They loved seeing their ideas translated into images - an (almost) immediate output they could collaborate on and feel proud to have contributed to.
 This experience was brought back in subsequent Book Dash events in person and online and has always remained a highlight.
 
-```{figure} https://github.com/alan-turing-institute/the-turing-way/raw/main/workshops/book-dash/figures/book_dash_mcr_art.jpg
+```{figure} ../../../../workshops/book-dash/figures/book_dash_mcr_art.*
 ---
 height: 400px
 name: book_dash_mcr_art
@@ -24,18 +24,18 @@ alt: A set of hand-drawn sketches about stuck horizontally against a textured wo
 Picture taken by Jez Cope at the Book Dash 2019 in Manchester. Hand sketched illustrations by Matthew Kemp of [Scriberia](http://www.scriberia.co.uk/).
 ```
 
-All illustrations generated within *The Turing Way* are shared under the CC-BY 4.0 license on Zenodo: [https://zenodo.org/record/3332807](https://zenodo.org/record/3332807).
-All images on Zenodo are shared in the original format and size, but we use smaller files in *The Turing Way* guides that you can find in [our GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/website/figures).
+All illustrations generated within *The Turing Way* are shared under the CC-BY 4.0 licence on Zenodo: [https://zenodo.org/record/3332807](https://zenodo.org/record/3332807).
+All images on Zenodo are shared in the original format and size, but we use smaller files in *The Turing Way* guides that you can find in [our GitHub repository](https://github.com/the-turing-way/the-turing-way/tree/main/book/website/figures).
 
 When citing, please include the following attribution with the specific DOI as listed on the particular Zenodo page.
 > _This illustration is created by Scriberia with The Turing Way community. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)_
 
-When using these illustrations in a digital document, please describe them using Alt Text feature for the users of screen reading apps.
+When using these illustrations in a digital document, please describe them using the Alt Text feature for the users of screen reading apps.
 Alt Text is an important criteria to ensure accessible web design used for describing abstract concepts captured in images to readers who are unable to see them.
-For guidance, please read [Write good Alt Text to describe images](https://accessibility.huit.harvard.edu/describe-content-images) by Digital Accessibility service of Harvard University.
+For guidance, please read [Write good Alt Text to describe images](https://accessibility.huit.harvard.edu/describe-content-images) by the Digital Accessibility service of Harvard University.
 
 We encourage using these illustrations not just within *The Turing Way*, but wherever appropriate in the context of science communications or to enhance public engagement with data science and research.
-We already see the reuse by the broader community of researchers, science communicators, policymakers and more, as reflected by over 12,000 downloads at the time of writing this chapter (July 2022).
+We already see reuse by the broader community of researchers, science communicators, policymakers and more, as reflected by over 12,000 downloads at the time of writing this chapter (July 2022).
 
 Here are some examples:
 - **Scoping Report: EU Policy**: [Reproducibility of scientific results in the EU: scoping report. Publications Office of the European Union](https://op.europa.eu/en/publication-detail/-/publication/6bc538ad-344f-11eb-b27b-01aa75ed71a1),  Directorate-General for Research and Innovation (European Commission), author(s): Baker, L., Cristea, I. A., Errington, T. M., Jaśko, K., Lusoli, W., MacCallum, C. J., Parry, V.,  Pérignon, C.,  Šimko, T.,  Winchester, C. (2020)
@@ -46,7 +46,7 @@ Here are some examples:
 - **News article**: [Connecting the dots between research methods, academic cultures and technical solutions: Three reflections on publishing reproducible research outputs - News - Knowledge Exchange](https://www.knowledge-exchange.info/news/articles/29-01-2021), Knowledge Exchange, Chiarelli, A. (2021)
 - **Training Materials**: [Reproducible research](https://eglerean.github.io/reproducible-research/03-sharing), (2019)
 
-## Benefits of Illustrations and Why Hire a Professional Scribe
+## Benefits of illustrations and why hire a professional scribe
 
 *The Turing Way* chapters often include research or scientific concepts described by professionals. 
 As experts, many of us do not always effictively communicate our ideas in simple terms for people who are new to those research concepts. 
@@ -65,7 +65,7 @@ These illustrations are available at the end of the event, or after a few days i
 Having a scribe at an event can also improve engagement and help participants contribute to something that is immediately and visually achievable in a short duration. 
 Furthermore, if shared on the spot, researchers can use their illustrations as a way to exchange their ideas more widely, even with those they won't meet.
 
-### Considerations for Creating a Brief
+### Considerations for creating a brief
 
 Finding a good illustrator or scribe can be a new challenge if you have not worked with one before. 
 It is always useful to ask in your network if someone has previously worked with someone who they may recommend. The cost may vary based on the country, type of service or experience of the scribe/company. 
@@ -84,35 +84,35 @@ Your request/brief may include the following details:
 - what kind of details do you need to include that should be maintained consistently in all illustrations
 - If you need raw and vector (layered) versions of your image files, you will have to communicate this in advance and prepare to pay extra for the postprocessing.
 
-### Service Providers
+### Service providers
 
-Budget for hiring a professional scribe can vary based on the kind of service they provide.
-In *The Turing Way*, we have worked with [Scriberia](https://www.scriberia.com/) artists/scribes who are hired on per day cost for live scribing. 
+The budget for hiring a professional scribe can vary based on the kind of service they provide.
+In *The Turing Way*, we have worked with [Scriberia](https://www.scriberia.com/) artists/scribes who are hired on a per day cost for live scribing. 
 The cost is less for half-day, and additional charges apply for infographics.
 For each event, we have worked with different scribes and enjoy the diverse style and skills they bring to the event. 
 Our illustrations are a mix of simple and complex concepts and are often described with cartoon-like characters. 
 The Scribria company is given equal authorship with *The Turing Way* community members who contribute to the development of those images during the Book Dash. 
 
-Costs of hiring freelance illustrators may be lower and they can often provide bespoke services (creating specific styles, details and number of images).
+The costs of hiring freelance illustrators may be lower and they can often provide bespoke services (creating specific styles, details and number of images).
 Our colleagues in [Turing Commons](https://turing-commons.netlify.app/) work with freelance scribe artists and illustrators to create illustrations asynchronously.
-All images by Turing Commons are available in their [GitHub repository](https://github.com/alan-turing-institute/ethics-and-rri-resources/tree/main/images) also under CC-BY 4.0 license for reuse.
+All images by Turing Commons are available in their [GitHub repository](https://github.com/alan-turing-institute/ethics-and-rri-resources/tree/main/images) also under a CC-BY 4.0 licence for reuse.
 
-When planning, it is always good to look for more than one service providers to compare the cost.
+When planning, it is always good to look for more than one service provider to compare the cost.
 Contact the company's account manager or the freelance artist directly to set a 20-30 minutes meeting to discuss your brief and any detail they should know. 
 Based on your request, they will share their quotes for each service.
 When confirmed, block the dates/times and share details about your event (agenda, logistics, and anything else they should know). 
 When agreed, you will receive a contract for the service, terms and conditions and an invoice to be paid after the service is delivered.
 
-## Pro Tips
+## Pro tips
 
 To enhance the use of these illustrations, we have learned to keep the concepts simple, self-contained and reusable in different contexts. 
 If texts or sentences are used in the image, we request a copy of those illustrations without text to make sure that they can be translated into other languages. 
 
-Images (both versions: with and without text) are uploaded on Zenodo with descriptive names as individual images in 'jpg' format to allow preview and zipped folder in different file formats to allow downloading. See details here: https://zenodo.org/record/3332807.
+Images (both versions: with and without text) are uploaded to Zenodo with descriptive names as individual images in 'jpg' format to allow preview and a zipped folder in different file formats to allow downloading. See details here: https://zenodo.org/record/3332807.
 
 We ensure that the characters in the images are designed while maintaining representations of our diverse community members.
 
-### Translating and editing for reusing Images
+### Translating and editing for reusing images
 
 Zipped archives (names ending with '-without-text.zip' on Zenodo) are provided that can be translated into languages that you would like to use. 
 We encourage the use and re-use of these images as much as possible. 

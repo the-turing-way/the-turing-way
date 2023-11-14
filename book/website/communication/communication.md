@@ -20,4 +20,4 @@ In this guide, we welcome contributions to developing chapters and guidance on e
 We are excited to support data scientists _like you_ to develop skills ranging from how to make your work openly available, interactive visualisation, how to give a talk, writing your first paper, and being interviewed by the media.
 
 _The Turing Way_ itself is a [Jupyter Book](https://jupyterbook.org/intro.html), which is an open source tool for building beautiful, **publication-quality** books, websites and documents from source material that contains computational content. Please also consider how we can make our communications about this more exciting!
-Check out our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) to get involved.
+Check out our [contributing guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) to get involved.

@@ -14,7 +14,7 @@ This helps fill the niche between methods sections in traditional publications a
 
 Software papers are much shorter than traditional publications, allowing more time to be spent on the software while still providing an avenue for publication. 
 By specifically publishing in a software-focused journal, you are exposing your software to an audience which is already engaged with research software. 
-You are also adding your software to a curated index of high-quality, peer-reviewed codes, increasing the likelihood that your code will be found and used by another researcher. 
+You are also adding your software to a curated index of high-quality, peer-reviewed code, increasing the likelihood that your code will be found and used by another researcher. 
 Through the peer-review process, not only is the paper itself evaluated, but the associated code can sometimes be reviewed. 
 Just as in traditional publishing, this process is intended to provide constructive feedback, helping to improve the quality of the software and surrounding systems. 
 

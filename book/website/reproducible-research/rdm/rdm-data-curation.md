@@ -38,7 +38,7 @@ You can make the data freely available online to anyone who may be interested in
 
 ### 7. Data transformation
 Data transformation is the practice of examining large datasets to generate new information. 
-You can re-analysis the research data and make relationships that may not have been previously discovered. 
+You can reanalyze the research data and make relationships that may not have been previously discovered. 
 
 ## Additional resources on data curation
 * [10 Things for Curating Reproducible and FAIR Research](https://curating4reproducibility.org/10things/)

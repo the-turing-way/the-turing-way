@@ -1,13 +1,32 @@
 (cl-research-infrastructure-roles)=
+
+```{figure} ../figures/researchers-environment.*
+---
+height: 500px
+name: researchers-environment
+alt: The image is a complex amalgamation of people places and things, resembling an urban area with construction happening, in a colour scheme of pink, grey, black, and white. At the top of the image is a header that states "RESEARCHERS" and at the bottom is a footer stating "ENVIRONMENT". The image contains the following. In the top left is a person in a construction crane carrying a series of ones and zeroes wearing a hard-hat looking down. They are labeled "Research Software Engineer". In the bottom left, we see an older male-presenting person with a cane scratching his head looking at a math formula sketched onto the side of a building. Next to them is two pink fluffy rams. One is trapped insight of a light bulb. I hope they manage to escape... This scene is labeled "Research Application Managers". In the top right is a female-presenting person in a pink shirt sketching ones and zeroes onto the side of a bridge who is labeled "Data Steward". In the bottom right is a series of cylinders with little stick figures climbing up ladders to a light bulb that is labeled "Useful Projects". They are being looked upon by a slightly amused looking man with short dark hair.
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
 # Research Infrastructure Roles: Introduction
 
-It is rare that successful collaborations occur without a person, or group of people, taking on the work of structuring participants interactions, facilitating work, and supporting the impact of the project.
+Successful research and scientific collaborations rarely occur without individuals, or teams, taking on the work of structuring participants' interactions, facilitating work, and supporting the impact of the project.
 These people may be either volunteers or paid, depending on a project's funding, size, length, and number of organisations involved.
 
-They're called **research infrastructure roles** because the work they perform is primarily to support the work of researchers, although research can also be a significant proportion of these roles as well.
+These are called **research infrastructure roles** because they provide specialised skills, expertise and services required for effectively carrying out and delivering high-quality research.
+
+```{note}
+**What is Research Infrastructure?**
+
+Physical or digital facilities, resources, expert workforces and specialised services available towards research and for the use of research communities is called Research Infrastructure.
+References: [Science Europe](https://scienceeurope.org/our-priorities/research-infrastructures/) and [National Institute of Health and Care Research](https://www.nihr.ac.uk/explore-nihr/support/research-infrastructure.htm)
+```
+
+Historically, some of these roles were seen as merely 'research support' roles, however, there has been a growing recognition that these are a crucial part of research teams, and often a significant proportion of these roles require research expertise.
 The specifics of these roles will vary but can include handling administrative work, managing data storage, stakeholder engagement, community management, communications, software engineering, events coordination, and a lot more.
 
-People performing these types of roles come from varied backgrounds, but will often have some research experience, although not necessarily in the field they are now working in.
+People performing these types of roles have varied professional experience and backgrounds, but will often have some research experience, although not necessarily in the field they are now working in.
 
 (cl-research-infrastructure-roles-prerequisites)=
 ## Prerequisites

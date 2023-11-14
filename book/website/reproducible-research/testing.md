@@ -3,7 +3,7 @@
 
 | Prerequisite | Importance |
 | -------------|------------|
-| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary |
+| {ref}`Experience with the command line<rr-overview-resources-commandline>` | Necessary |
 
 ## Summary
 
@@ -11,15 +11,7 @@ Researcher-written code now forms a part of a huge portion of research, and if t
 Testing code thoroughly and frequently is vital to ensure reliable, reproducible research.
 This chapter will provide general guidance for writing tests and describe a number of different kinds of testing, their uses and how to go about implementing them.
 
-```{figure}  ../figures/error-management.*
----
-name: error-management
-alt: A person is happily coding, then a error throws and the coder gets confused. Then the coder can find the error and fix it.
----
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
-```
-
-## Motivation
+## Motivation and Background
 
 It is very, very easy to make mistakes when coding.
 A single misplaced character can cause a program's output to be entirely wrong.
@@ -33,14 +25,14 @@ Here's a couple of illustrations exemplifying of why should write tests:
 ```{figure}  ../figures/testing-motivation1.*
 ---
 name: testing-motivation1
-alt:
+alt: "Headline of a December 2006 news article by Greg Miller, published in Science, titled A Scientist's Nightmare: Software Problem Leads to Five Retractions"
 ---
 ```
 
 ```{figure}  ../figures/testing-motivation2.*
 ---
 name: testing-motivation2
-alt:
+alt: "News article by Lisa Grossman, published on Wired.com in November 2010, describing an inconsistency between the units of force expected as output and input of two pieces of software that resulted in the loss of a weather satellite when it reached its destination at Mars. The piece is titled November 10, 1999: Metric Math Mistake Muffed Mars Meteorology Mission"
 ---
 ```
 

@@ -5,7 +5,7 @@
 (cm-dif-articles-micropublishing-what)=
 ## What is Micropublishing?
 
-A micropublication can be thought of as a mini research article - they are a small, simple article describing a single result or claim without a broader narrative. 
+A micropublication can be thought of as a mini research article - they are a small, simple articles describing a single result or claim without a broader narrative. 
 They are also referred to as a brief or short report. 
 
 The idea behind micropublishing is to get more research published and out in the open so it can be used by other researchers. 

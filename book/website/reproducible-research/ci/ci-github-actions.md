@@ -82,7 +82,7 @@ The advantage of this approach is to use some approaches that are already workin
 
 For example:
 
-- The Turing Way workflow to [build the Turing Way book and to provide a preview for the pull requests](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/workflows/ci.yml)
+- The Turing Way workflow to [build the Turing Way book and to provide a preview for the pull requests](https://github.com/the-turing-way/the-turing-way/blob/main/.github/workflows/ci.yml)
 - A matrix of tests on [3 operating systems and multiple Python versions for the Python package NetworkX](https://github.com/networkx/networkx/blob/main/.github/workflows/test.yml)
 - A more complex setup of testing the [build in multiple circumstances for the Python package Numpy](https://github.com/numpy/numpy/blob/main/.github/workflows/build_test.yml)
 

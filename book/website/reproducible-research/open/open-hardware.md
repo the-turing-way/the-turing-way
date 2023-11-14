@@ -12,6 +12,16 @@ It is worth noting that open hardware does not necessarily mean free.
 Units may still be sold (by the original designer or by others), but users *could* build them from scratch.
 Whether or not they choose to buy the unit, users can still get a full understanding of how the hardware works from open documentation, designs, and similar.  
 
+```{figure} ../../figures/open-hardware.*
+---
+height: 400px
+name: open-hardware
+alt: "Cartoon-like sketch of the open hardware workflow using garden imagery and tools, connected by arrows in a cycle. The first steps are articulating a need and starting to prototype, featuring a person thinking about a seedling, and a few different visual sketches of what a flower could look like. This flows into the following steps: 'selection/demo', that features a person presenting the sketch and tools, followed by 'documentation' featuring people in various acts of sharing and reaching for seeds. All the steps represent the communal and iterative nature of open hardware development. This process culminates in 'publishing', illustrated by a person releasing seedlings out of a window. This points to three frames that metaphorically illustrate the open hardware's reuse, replication, and reproduction of through the creation of connected seedlings. The final step is labeled 'Cultivated ecosystem of open knowledge', connected to an illustration of a garden of flowers that is being watered."
+---
+The open hardware workflow.
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.8169292](https://doi.org/10.5281/zenodo.8169292).
+```
+
 ## Why Open Hardware?
 
 Open hardware allows researchers to understand exactly what their equipment is doing, how it is doing it, and to verify that it is doing it correctly, rather than having to extend a degree of trust.

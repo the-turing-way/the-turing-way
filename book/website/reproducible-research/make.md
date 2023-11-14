@@ -6,7 +6,7 @@
 
 | Prerequisite | Importance | Notes |
 | ------------ | ---------- | ----- |
-| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary | |
+| {ref}`Experience with the command line<rr-overview-resources-commandline>` | Necessary | |
 | {ref}`Version Control<rr-vcs>` | Helpful | Experience using git is useful to follow along with examples |
 
 Recommended skill level: intermediate
@@ -64,7 +64,7 @@ There are several reasons why Make is a good tool to use for reproducibility:
    executed by a computer.
 1. Because Makefiles are text files they are easy to share and keep in version
    control.
-1. Using Make doesn't exclude using other tools such as Travis and Docker.
+1. Using Make doesn't exclude using other tools such as Docker.
 
 With a clever Makefile, you can share a complete analysis (code, data, and
 computational workflows) and let collaborators or the readers of your paper

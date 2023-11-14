@@ -33,7 +33,17 @@ Learn more about this in the {ref}`rr-rdm-sharing` subchapter.
 (rr-rdm-storage-organisation)=
 ## Data Organisation
 
-To organise your data, you can create a folder structure, or re-use a previous structure (see an example below), to ensure that you can find your files.
+To organise your data, you should use a clear folder structure to ensure that you can find your files. 
+We encourage you to use an existing template.
+An open source project created a quite complete one at https://github.com/tonic-team/Tonic-Research-Project-Template 
+
+```{figure}  ../../figures/file-management-manual.jpg
+---
+name: Folder structure for research data
+alt: A protagonist has a file written "readme" on it and bring it to another protagonist who stays in front of a file drawer system. There are  three drawers labelled "data", "code", and "results".
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
 
 -	Make sure you have enough (sub)folders so that files can be stored in the right folder and are not scattered in folders where they do not belong, or stored in large quantities in a single folder.
 -	Use a clear folder structure.
@@ -74,6 +84,17 @@ For further guidance on file naming:
 - [Jenny Bryan’s ‘naming things’ presentation](https://speakerdeck.com/jennybc/how-to-name-files) (or watch the [5 minute summary](https://youtu.be/ES1LTlnpLMk))
 - [MIT's recommendations on File naming and folder hierarchy](https://libraries.mit.edu/data-management/store/organize/)
 - [8 step guide on how to set up your file naming convention](https://resolver.caltech.edu/CaltechAUTHORS:20200601-161923247) 
+
+(rr-rdm-storage-renaming)=
+### File renaming tools
+
+If you want to change your file names you have the option to use bulk renaming tools.
+Be careful with these tools, because changes made with bulk renaming tools may be too rigorous if not carefully checked!
+
+Some bulk file renaming tools include: 
+- [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/Main_Intro.php) and [WildRename](http://www.cylog.org/utilities/wildrename.jsp) (for Windows)
+- [Renamer](https://renamer.com/) (for MacOS)
+- [PSRenamer](http://www.cylog.org/utilities/wildrename.jsp)(for MacOS, Windows, Unix, Linux)
 
 (rr-rdm-storage-backups)=
 ## Backups

@@ -52,20 +52,20 @@ Here are a few examples of such actions:
 - use respectful, gender-neutral and inclusive language (learn more about inclusive writing on page 22 of [University of Leicester Study Skills pdf](https://www2.le.ac.uk/projects/oer/oers/ssds/oers/study-skills/studyskills.pdf), also available as a [zipped html](https://www2.le.ac.uk/projects/oer/oers/ssds/oers/study-skills/studyskills_HTML.zip)).
 - aim to include perspectives of researchers from different research backgrounds such as science, humanities and social sciences by not limiting the scope to only scientific domains.
 - make sure that the colour palettes are accessible to colour-blind readers and contributors.
-See the blogpost [Designing Scientific Figures for Colour Blindness](https://www.lewismackenzie.science/blog-1/2017/2/9/designing-scientific-figures-for-colour-blindness) for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator.
+See the blogpost [Designing Scientific Figures for Colour Blindness](https://www.lewismackenzie.science/updates-1/2017/2/9/designing-scientific-figures-for-colour-blindness) for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator. for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator.
 
 ## Get in touch
 
 There are many ways to get in touch with _The Turing Way_ team!
 
-- GitHub [issues](https://github.com/alan-turing-institute/the-turing-way/issues) and [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls)
+- GitHub [issues](https://github.com/the-turing-way/the-turing-way/issues) and [pull requests](https://github.com/the-turing-way/the-turing-way/pulls)
   - Join a discussion, collaborate on an ongoing task and exchange your thoughts with others.
   - Can't find your idea being discussed anywhere?
-    [Open a new issue](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose)! (See our [Where to start: issues](#where-to-start-issues) section below.)
+    [Open a new issue](https://github.com/the-turing-way/the-turing-way/issues/new/choose)! (See our [Where to start: issues](#where-to-start-issues) section below.)
 - [Slack Channel](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
   - For structured discussion and sustained engagement with the community members.
   - We will also provide notifications on upcoming events and share useful resources on Slack.
-  - You can also ping us on [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) (open source option).
+  - You can also ping us on [Gitter channel](https://gitter.im/the-turing-way/the-turing-way) (open source option).
 - Contact the Community Manager of _The Turing Way_ project – Anne Lee Steele – by email at [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)
 - Contact the co-leads of _The Turing Way_ project - Kirstie Whitaker - by email at [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk) and Malvika Sharan - by email at [masharan@turing.ac.uk](mailto:masharan@turing.ac.uk).
 
@@ -105,15 +105,14 @@ For example, you could write words as **bold** (`**bold**`), or in _italics_ (`_
 Also when writing in Markdown, please [start each new sentence on a new line](https://the-turing-way.netlify.app/community-handbook/style.html#write-each-sentence-in-a-new-line-line-breaks).
 Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it makes the [diffs produced during the pull request](https://help.github.com/en/articles/about-comparing-branches-in-pull-requests) review easier to read! :sparkles:
 
-
 ## Where to start: issues
 
-Before you open a new issue, please check if any of our [open issues](https://github.com/alan-turing-institute/the-turing-way/issues) cover your idea already.
-If you open a new issue, please follow our basic guidelines laid out in our [issue templates](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose).
+Before you open a new issue, please check if any of our [open issues](https://github.com/the-turing-way/the-turing-way/issues) cover your idea already.
+If you open a new issue, please follow our basic guidelines laid out in our [issue templates](https://github.com/the-turing-way/the-turing-way/issues/new/choose).
 There are 3 issues templates to choose from.:
-1. New Chapter Template ([preview here](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&template=CHAPTER_ISSUE_TEMPLATE.md)):  This issue is a place to discuss matters relating to writing a new chapter on a new topic or adding a subchapter in an already existing chapter.
-2. General ([preview here](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&template=ISSUE_TEMPLATE.md)):  Use this template for a general issue related to the book, community, process or ideas.
-3. Bug Report ([preview here](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D)): With this template, create an issue report that can help others repair something that is currently broken.
+1. New Chapter Template ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&labels=book&projects=&template=new_chapter.yml&title=%5BNEW+CHAPTER%5D+-+%3CTOPIC%3E)):  This issue is a place to discuss matters relating to writing a new chapter on a new topic or adding a subchapter in an already existing chapter.
+2. General ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&template=ISSUE_TEMPLATE.md)):  Use this template for a general issue related to the book, community, process or ideas.
+3. Bug Report ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D)): With this template, create an issue report that can help others repair something that is currently broken.
 This can be used for reporting errors like typos and broken links.
 The issue template will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the "_Lorem ipsum_" sections.
 
@@ -235,13 +234,13 @@ This is also where you can contribute directly to writing or editing chapters of
 
 The following steps are a guide to help you contribute in a way that will be easy for everyone to review and accept with ease :sunglasses:.
 
-### 1. Comment on an [existing issue](https://github.com/alan-turing-institute/the-turing-way/issues) or open a new issue referencing your addition
+### 1. Comment on an [existing issue](https://github.com/the-turing-way/the-turing-way/issues) or open a new issue referencing your addition
 
 This allows other members of _The Turing Way_ team to confirm that you aren't overlapping with work that's currently underway and that everyone is on the same page with the goal of the work you're going to carry out.
 
 [This blog](https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/) is a nice explanation of why putting this work in upfront is so useful to everyone involved.
 
-Remember, if you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/ISSUE_TEMPLATE/ISSUE_TEMPLATE.md).
+Remember, if you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/the-turing-way/the-turing-way/blob/main/.github/ISSUE_TEMPLATE/ISSUE_TEMPLATE.md).
 The issue template will automatically be rendered in the comment section of the new issue page so all you need to do is edit the "_Lorem ipsum_" sections.
 
 ### 2. [Fork][github-fork] [_The Turing Way_ repository][turing-way-repo]
@@ -276,7 +275,7 @@ We encourage you to open a pull request as early in your contributing process as
 This allows everyone to see what is currently being worked on.
 It also provides you, the contributor, feedback in real-time from both the community and the continuous integration as you make commits (which will help prevent stuff from breaking).
 
-When you are ready to submit a pull request, you will automatically see the [Pull Request Template](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/PULL_REQUEST_TEMPLATE.md) contents in the pull request body.
+When you are ready to submit a pull request, you will automatically see the [Pull Request Template](https://github.com/the-turing-way/the-turing-way/blob/main/.github/PULL_REQUEST_TEMPLATE.md) contents in the pull request body.
 It asks you to:
 
 - Describe the problem you're trying to fix in the pull request, reference any related issue and use fixes/close to automatically close them, if pertinent.
@@ -296,24 +295,23 @@ You can update your [fork][github-fork] of _The Turing Way_ [repository][turing-
 You don't need to submit a new pull request when you make a change in response to a review.
 
 You can also submit pull requests to other contributors' branches!
-Do you see an [open pull request](https://github.com/alan-turing-institute/the-turing-way/pulls) that you find interesting and want to contribute to?
+Do you see an [open pull request](https://github.com/the-turing-way/the-turing-way/pulls) that you find interesting and want to contribute to?
 Simply make your edits on their files and open a pull request to their branch!
 
 What happens if the continuous integration (CI) fails (for example, if the pull request notifies you that "Some checks were not successful")?
 The CI could fail for a number of reasons.
-At the bottom of the pull request, where it says whether your build passed or failed, you can click “Details” next to the test, which takes you to the Travis page.
+At the bottom of the pull request, where it says whether your build passed or failed, you can click “Details” next to the test, which takes you to a CI run log site.
 If you have the write access to the repo, you can view the log or rerun the checks by clicking the “Restart build” button in the top right.
-Please note that you need to be logged in to Travis CI with your GitHub account see the “Restart build” button.
-You can learn more about Travis in the [Continuous Integration chapter](https://the-turing-way.netlify.com/continuous_integration/continuous_integration.html) of the book!
+You can learn more about CI in the [Continuous Integration chapter](https://the-turing-way.netlify.app/reproducible-research/ci.html)!
 
 GitHub has a [nice introduction][github-flow] to the pull request workflow, but please [get in touch](#get-in-touch) if you have any questions :balloon:.
 
 ## The process of writing chapters
 
-- Fork the repository from [`alan-turing-institute/the-turing-way`](https://github.com/alan-turing-institute/the-turing-way) if you have not done so already.
+- Fork the repository from [`the-turing-way/the-turing-way`](https://github.com/the-turing-way/the-turing-way) if you have not done so already.
   - On your fork create a branch with the name as the chapter to be written and create a markdown file on it.
 - If you are a contributor to the project repository, you can also create a branch on the main repository with the same name as the chapter to be written without creating a fork (or a local copy).
-- Copy the relevant part of the [chapter template](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/templates/chapter-template) into the markdown file, and commit.
+- Copy the relevant part of the [chapter template](https://github.com/the-turing-way/the-turing-way/tree/main/book/templates/chapter-template) into the markdown file, and commit.
 - Make a pull request to _The Turing Way_ version of the chapter branch.
   The title of this request should have the form "[WIP] Write Chapter_name chapter".
   WIP indicates the chapter is a Work In Progress and not yet ready for review.
@@ -326,12 +324,12 @@ GitHub has a [nice introduction][github-flow] to the pull request workflow, but 
 - Edit the chapter for style.
 - Once the first draft of the chapter is complete change [WIP] in the pull request title to [Ready for review].
 - Add a comment on the pull request indicating that this chapter is ready for high-level review, i.e discussion of changes of the scale of a paragraph or larger such as adding material and restructuring sections.
-- Discuss and make these high-level changes on this pull request. Once this is complete merge the chapter into The Alan Turing Intitute's version of the chapter branch.
-- Make another pull request from your fork's version of the branch to The Alan Turing Institute's version of the branch. Title this "[Ready for review] Chapter_name chapter- low-level reviews".
+- Discuss and make these high-level changes on this pull request. Once this is complete merge the chapter into The _The Turing Way_'s version of the chapter branch.
+- Make another pull request from your fork's version of the branch to _The Turing Way_'s version of the branch. Title this "[Ready for review] Chapter_name chapter- low-level reviews".
 - Discuss and make low-level changes to the chapter on this pull request, such as rewording sentences, typos and the like.
 - This division of the pull requests into high and low-level changes stops discussion threads from becoming unmanageable.
-- Once this is complete merge the pull request into The Alan Turing Intitute's version of the chapter branch.
-- Merge The Alan Turing Intitute's version of the chapter branch into The Alan Turing Institute's main branch.
+- Once this is complete merge the pull request into _The Turing Way_'s version of the chapter branch.
+- Merge _The Turing Way_'s version of the chapter branch into _The Turing Way_'s main branch.
 - DO not delete the branch as the chapter may continue to undergo improvement and development in the future.
 
 ## Local development
@@ -359,12 +357,12 @@ In _The Turing Way_'s [Community Handbook](https://the-turing-way.netlify.app/co
 
 [_The Turing Way_ style guide](https://the-turing-way.netlify.app/community-handbook/style.html) will provide guidance and supporting resources for ensuring consistency, readability and accessibility for all our users.
 
-You are welcome to contribute to the style guide by opening [a new issue](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose).
+You are welcome to contribute to the style guide by opening [a new issue](https://github.com/the-turing-way/the-turing-way/issues/new/choose).
 
 ## Representing _The Turing Way_
 
 We would LOVE people to give talks about the project or represent _The Turing Way_ in other ways!
-We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/main/communications/promotion-pack) for you to reuse.
+We have created a [promotion pack](https://github.com/the-turing-way/the-turing-way/tree/main/communications/promotion-pack) for you to reuse.
 You will find useful details about the project, a list of frequently asked questions, slide decks, and contact details.
 
 If you would like to represent the project in your network, please open an issue and ping @aleesteele, @malvikasharan and @KirstieJane so
@@ -379,7 +377,7 @@ We welcome and recognise all kinds of contributions, from fixing small errors, t
 In the [community handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html), you can read how your contributions will be acknowledged and recorded in _The Turing Way_.
 _The Turing Way_ follows the [all-contributors][all-contributors] specifications.
 The all-contributors bot usage is described [here](https://allcontributors.org/docs/en/bot/usage).
-You can see a list of current contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md). 😍
+You can see a list of current contributors [here](https://github.com/the-turing-way/the-turing-way/blob/main/contributors.md). 😍
 
 To add yourself or someone else as a contributor, comment on the relevant Issue or Pull Request with the following:
 
@@ -387,29 +385,29 @@ To add yourself or someone else as a contributor, comment on the relevant Issue 
 @all-contributors please add <username> for <contributions>
 ```
 
-You can see the [Emoji Key (Contribution Types Reference)](https://allcontributors.org/docs/en/emoji-key) for a list of valid `<contribution>` types and examples of how we've run this command in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/274).
+You can see the [Emoji Key (Contribution Types Reference)](https://allcontributors.org/docs/en/emoji-key) for a list of valid `<contribution>` types and examples of how we've run this command in [this issue](https://github.com/the-turing-way/the-turing-way/issues/274).
 The bot will then create a Pull Request to add the contributor and reply with the pull request details.
 
 **PLEASE NOTE: Only one contributor can be added with the bot at a time!**
 Add each contributor in turn, merge the pull request and delete the branch (`all-contributors/add-<username>`) before adding another one.
 Otherwise, you can end up with dreaded [merge conflicts][github-mergeconflicts].
-Therefore, please check the open pull requests first to make sure there aren't any [open requests from the bot](https://github.com/alan-turing-institute/the-turing-way/pulls/app%2Fallcontributors) before adding another.
+Therefore, please check the open pull requests first to make sure there aren't any [open requests from the bot](https://github.com/the-turing-way/the-turing-way/pulls/app%2Fallcontributors) before adding another.
 
 What happens if you accidentally run the bot before the previous run was merged and you got those pesky merge conflicts?
 (Don't feel bad, we have all done it! 🙈)
 Simply close the pull request and delete the branch (`all-contributors/add-<username>`).
-If you are unable to do this for any reason, please let us know on [Slack](https://tinyurl.com/jointuringwayslack), the [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) or by opening an issue, and _The Turing Way_ team members will be very happy to help!
+If you are unable to do this for any reason, please let us know on [Slack](https://tinyurl.com/jointuringwayslack), the [Gitter channel](https://gitter.im/the-turing-way/the-turing-way) or by opening an issue, and _The Turing Way_ team members will be very happy to help!
 
-Finally, don't forget to add yourself to the list of contributors [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md)!
+Finally, don't forget to add yourself to the list of contributors [here](https://github.com/the-turing-way/the-turing-way/blob/main/contributors.md)!
 
 ---
 
 _These Contributing Guidelines have been adapted from the [Contributing Guidelines](https://github.com/bids-standard/bids-starter-kit/blob/master/CONTRIBUTING.md) of the [BIDS Starter Kit](https://github.com/bids-standard/bids-starter-kit)! (License: CC-BY)_
 
-[turing-way-repo]: https://github.com/alan-turing-institute/the-turing-way/
-[turing-way-book-repo]: https://github.com/alan-turing-institute/the-turing-way-book/
-[turing-way-issues]: https://github.com/alan-turing-institute/the-turing-way/issues
-[turing-way-labels]: https://github.com/alan-turing-institute/the-turing-way/labels
+[turing-way-repo]: https://github.com/the-turing-way/the-turing-way/
+[turing-way-book-repo]: https://github.com/the-turing-way/the-turing-way-book/
+[turing-way-issues]: https://github.com/the-turing-way/the-turing-way/issues
+[turing-way-labels]: https://github.com/the-turing-way/the-turing-way/labels
 [git]: https://git-scm.com
 [github]: https://github.com
 [github-branches]: https://help.github.com/articles/creating-and-deleting-branches-within-your-repository
@@ -419,53 +417,53 @@ _These Contributing Guidelines have been adapted from the [Contributing Guidelin
 [github-pullrequest]: https://help.github.com/articles/creating-a-pull-request
 [github-review]: https://help.github.com/articles/about-pull-request-reviews
 [github-syncfork]: https://help.github.com/articles/syncing-a-fork
-[issue-template]: https://github.com/alan-turing-institute/the-turing-way/blob/main/ISSUE_TEMPLATE.md
-[labels-link]: https://github.com/alan-turing-institute/the-turing-way/labels
-[labels-approval-request]: https://github.com/alan-turing-institute/the-turing-way/labels/approval%20request
-[labels-binderhub]: https://github.com/alan-turing-institute/the-turing-way/labels/binderhub
-[labels-book-build]: https://github.com/alan-turing-institute/the-turing-way/labels/book%2Dbuild
-[labels-book-dash-feb20]: https://github.com/alan-turing-institute/the-turing-way/labels/book%2Ddash%2Dfeb20
-[labels-book-dash-ldn19]: https://github.com/alan-turing-institute/the-turing-way/labels/book%2Ddash%2Dldn2019
-[labels-book-dash-mcr19]: https://github.com/alan-turing-institute/the-turing-way/labels/book%2Ddash%2Dmcr2019
-[labels-book]: https://github.com/alan-turing-institute/the-turing-way/labels/book
-[labels-bug]: https://github.com/alan-turing-institute/the-turing-way/labels/bug
-[labels-bug-fixed]: https://github.com/alan-turing-institute/the-turing-way/labels/bug%20fixed
-[labels-collaboration-book]: https://github.com/alan-turing-institute/the-turing-way/labels/collaboration%2Dbook
-[labels-communication-book]: https://github.com/alan-turing-institute/the-turing-way/labels/communication%2Dbook
-[labels-community]: https://github.com/alan-turing-institute/the-turing-way/labels/community
-[labels-comms]: https://github.com/alan-turing-institute/the-turing-way/labels/comms
-[labels-conflicting-file-error]: https://github.com/alan-turing-institute/the-turing-way/labels/conflicting%2Dfile%2Derror
-[labels-dependencies]: https://github.com/alan-turing-institute/the-turing-way/labels/dependencies
-[labels-enhancement]: https://github.com/alan-turing-institute/the-turing-way/labels/enhancement
-[labels-ethics-book]: https://github.com/alan-turing-institute/the-turing-way/labels/ethics%2Dbook
-[labels-events]: https://github.com/alan-turing-institute/the-turing-way/labels/events
-[labels-firstissue]: https://github.com/alan-turing-institute/the-turing-way/labels/good%20first%20issue
-[labels-helpwanted]: https://github.com/alan-turing-institute/the-turing-way/labels/help%20wanted
-[labels-idea-for-discussion]: https://github.com/alan-turing-institute/the-turing-way/labels/idea%2Dfor%2Ddiscussion
-[labels-good-first-PR-review]: https://github.com/alan-turing-institute/the-turing-way/labels/good%2Dfirst%2PR%2review
-[labels-jupyter]: https://github.com/alan-turing-institute/the-turing-way/labels/jupyter
-[labels-project-management]: https://github.com/alan-turing-institute/the-turing-way/labels/project%20management
-[labels-newsletter]: https://github.com/alan-turing-institute/the-turing-way/labels/newsletter
-[labels-outreach]: https://github.com/alan-turing-institute/the-turing-way/labels/Outreach
-[labels-pr-draft]: https://github.com/alan-turing-institute/the-turing-way/labels/PR%3A%20draft
-[labels-pr-merged]: https://github.com/alan-turing-institute/the-turing-way/labels/PR%3A%20merged
-[labels-pr-partially-approved]: https://github.com/alan-turing-institute/the-turing-way/labels/PR%3A%20partially%2Dapproved
-[labels-pr-reviewed-approved]: https://github.com/alan-turing-institute/the-turing-way/labels/PR%3A%20reviewed%2Dapproved
-[labels-pr-reviewed-changes-requested]: https://github.com/alan-turing-institute/the-turing-way/labels/PR%3A%20reviewed%2Dchanges%2Drequested
-[labels-pr-unreviewed]: https://github.com/alan-turing-institute/the-turing-way/labels/PR%3A%20unreviewed
-[labels-project-design-book]: https://github.com/alan-turing-institute/the-turing-way/labels/project%2Ddesign%2Dbook
-[labels-question]: https://github.com/alan-turing-institute/the-turing-way/labels/question
-[labels-ready-for-merge]: https://github.com/alan-turing-institute/the-turing-way/labels/ready%20for%20merge
-[labels-reproducibility-book]: https://github.com/alan-turing-institute/the-turing-way/labels/reproducibility%2Dbook
-[labels-research-related-theory]: https://github.com/alan-turing-institute/the-turing-way/labels/research%2Drelated%2Dtheory
-[labels-review-request]: https://github.com/alan-turing-institute/the-turing-way/labels/review%20request
-[labels-software-skills]: https://github.com/alan-turing-institute/the-turing-way/labels/software%2Dskills
-[labels-tools]: https://github.com/alan-turing-institute/the-turing-way/labels/tools
-[labels-translation]: https://github.com/alan-turing-institute/the-turing-way/labels/translation
-[labels-travel]: https://github.com/alan-turing-institute/the-turing-way/labels/travel
-[labels-typo-fix]: https://github.com/alan-turing-institute/the-turing-way/labels/typo%2Dfix
-[labels-work-in-progress]: https://github.com/alan-turing-institute/the-turing-way/labels/work%2Din%2Dprogress
-[labels-workshops]: https://github.com/alan-turing-institute/the-turing-way/labels/workshops
+[issue-template]: https://github.com/the-turing-way/the-turing-way/blob/main/ISSUE_TEMPLATE.md
+[labels-link]: https://github.com/the-turing-way/the-turing-way/labels
+[labels-approval-request]: https://github.com/the-turing-way/the-turing-way/labels/approval%20request
+[labels-binderhub]: https://github.com/the-turing-way/the-turing-way/labels/binderhub
+[labels-book-build]: https://github.com/the-turing-way/the-turing-way/labels/book%2Dbuild
+[labels-book-dash-feb20]: https://github.com/the-turing-way/the-turing-way/labels/book%2Ddash%2Dfeb20
+[labels-book-dash-ldn19]: https://github.com/the-turing-way/the-turing-way/labels/book%2Ddash%2Dldn2019
+[labels-book-dash-mcr19]: https://github.com/the-turing-way/the-turing-way/labels/book%2Ddash%2Dmcr2019
+[labels-book]: https://github.com/the-turing-way/the-turing-way/labels/book
+[labels-bug]: https://github.com/the-turing-way/the-turing-way/labels/bug
+[labels-bug-fixed]: https://github.com/the-turing-way/the-turing-way/labels/bug%20fixed
+[labels-collaboration-book]: https://github.com/the-turing-way/the-turing-way/labels/collaboration%2Dbook
+[labels-communication-book]: https://github.com/the-turing-way/the-turing-way/labels/communication%2Dbook
+[labels-community]: https://github.com/the-turing-way/the-turing-way/labels/community
+[labels-comms]: https://github.com/the-turing-way/the-turing-way/labels/comms
+[labels-conflicting-file-error]: https://github.com/the-turing-way/the-turing-way/labels/conflicting%2Dfile%2Derror
+[labels-dependencies]: https://github.com/the-turing-way/the-turing-way/labels/dependencies
+[labels-enhancement]: https://github.com/the-turing-way/the-turing-way/labels/enhancement
+[labels-ethics-book]: https://github.com/the-turing-way/the-turing-way/labels/ethics%2Dbook
+[labels-events]: https://github.com/the-turing-way/the-turing-way/labels/events
+[labels-firstissue]: https://github.com/the-turing-way/the-turing-way/labels/good%20first%20issue
+[labels-helpwanted]: https://github.com/the-turing-way/the-turing-way/labels/help%20wanted
+[labels-idea-for-discussion]: https://github.com/the-turing-way/the-turing-way/labels/idea%2Dfor%2Ddiscussion
+[labels-good-first-PR-review]: https://github.com/the-turing-way/the-turing-way/labels/good%2Dfirst%2PR%2review
+[labels-jupyter]: https://github.com/the-turing-way/the-turing-way/labels/jupyter
+[labels-project-management]: https://github.com/the-turing-way/the-turing-way/labels/project%20management
+[labels-newsletter]: https://github.com/the-turing-way/the-turing-way/labels/newsletter
+[labels-outreach]: https://github.com/the-turing-way/the-turing-way/labels/Outreach
+[labels-pr-draft]: https://github.com/the-turing-way/the-turing-way/labels/PR%3A%20draft
+[labels-pr-merged]: https://github.com/the-turing-way/the-turing-way/labels/PR%3A%20merged
+[labels-pr-partially-approved]: https://github.com/the-turing-way/the-turing-way/labels/PR%3A%20partially%2Dapproved
+[labels-pr-reviewed-approved]: https://github.com/the-turing-way/the-turing-way/labels/PR%3A%20reviewed%2Dapproved
+[labels-pr-reviewed-changes-requested]: https://github.com/the-turing-way/the-turing-way/labels/PR%3A%20reviewed%2Dchanges%2Drequested
+[labels-pr-unreviewed]: https://github.com/the-turing-way/the-turing-way/labels/PR%3A%20unreviewed
+[labels-project-design-book]: https://github.com/the-turing-way/the-turing-way/labels/project%2Ddesign%2Dbook
+[labels-question]: https://github.com/the-turing-way/the-turing-way/labels/question
+[labels-ready-for-merge]: https://github.com/the-turing-way/the-turing-way/labels/ready%20for%20merge
+[labels-reproducibility-book]: https://github.com/the-turing-way/the-turing-way/labels/reproducibility%2Dbook
+[labels-research-related-theory]: https://github.com/the-turing-way/the-turing-way/labels/research%2Drelated%2Dtheory
+[labels-review-request]: https://github.com/the-turing-way/the-turing-way/labels/review%20request
+[labels-software-skills]: https://github.com/the-turing-way/the-turing-way/labels/software%2Dskills
+[labels-tools]: https://github.com/the-turing-way/the-turing-way/labels/tools
+[labels-translation]: https://github.com/the-turing-way/the-turing-way/labels/translation
+[labels-travel]: https://github.com/the-turing-way/the-turing-way/labels/travel
+[labels-typo-fix]: https://github.com/the-turing-way/the-turing-way/labels/typo%2Dfix
+[labels-work-in-progress]: https://github.com/the-turing-way/the-turing-way/labels/work%2Din%2Dprogress
+[labels-workshops]: https://github.com/the-turing-way/the-turing-way/labels/workshops
 [markdown]: https://daringfireball.net/projects/markdown
 [rick-roll]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [jerry-maguire]: https://media.giphy.com/media/uRb2p09vY8lEs/giphy.gif

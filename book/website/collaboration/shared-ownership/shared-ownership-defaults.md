@@ -40,7 +40,7 @@ Recognising contributors by recording their names in visible locations (like a c
 Announce and celebrate all kinds of work by communicating them openly in official community forums and channels.
 You can use GitHub actions, bots or a continuous integration pipeline to automate the process.
 To take another easier approach, you can install the all-contributors bot by [https://allcontributors.org](https://allcontributors.org) to your repository, which can help you recognise contributions including those that don’t involve pushing code.
-See it working on [_The Turing Way_ repository](https://github.com/alan-turing-institute/the-turing-way#contributors).
+See it working on [_The Turing Way_ repository](https://github.com/the-turing-way/the-turing-way#contributors).
 
 ## Sharing Project Ownership with the Community
 
@@ -54,5 +54,5 @@ Community policy and norms should be communicated from the start to facilitate o
 
 Describe explicitly who is considered the project owner.
 You should share credit with the community of contributors instead of only attributing individuals administering the project.
-For example, when citing the project, use “Community” as the first author [as practised in The Turing Way](https://the-turing-way.netlify.app/welcome.html#citing-the-turing-way).
+For example, when citing the project, use “Community” as the first author {ref}`as practised in The Turing Way<welcome-citing>`.
 Contribution guidelines, Code of Conduct (see Open Source Guide for reference) and other community pages on your project repository can help in setting the tone for the culture you want to promote in the community, and how contributors are supported in their participation.

@@ -1,5 +1,5 @@
 ---
-name: "\u1F525 Fireside Chat Checklist"
+name: "\U0001F525 Fireside Chat Checklist"
 about: Fireside Chat Planning Checklist
 title:
 labels:
@@ -13,11 +13,12 @@ Register here to attend: [add registration page link].
 
 ## Before the Event -- at least 6-8 weeks in advance
 
-- [ ] Create a Zoom link with a waiting room and live transcription enabled
-- [ ] identify an overarching theme that we share with a different community -- Fireside chat is intended to promote cross-community collaboration
-- [ ] reach out to a community representative who can co-facilitate the event with a core team member in The Turing Way
+- [ ] Create a planning issue on GitHub using the [issue template - Fireside Chat Checklist](https://github.com/the-turing-way/the-turing-way/issues/new/choose)
+- [ ] A Turing Way team member (Community Manager or Research Project Manager) will create a Zoom link with a waiting room and live transcription enabled. They will also open the call on the day of the event, and give 'co-host rights' to all facilitators to allow them to manage Zoom participants and chats.
+- [ ] Identify an overarching theme that we share with a different community -- Fireside Chat is intended to promote cross-community collaboration
+- [ ] Reach out to a community representative who can co-facilitate the event with a core team member in The Turing Way
 - [ ] Set up an internal shared document for discussions and notes (The Turing Way shared google doc, see [this template](https://docs.google.com/document/d/1X_NfRkkH6p47yRgpd6xlw8yrvo6jIsbF_mV0BinjcaQ/edit?usp=sharing))
-- [ ] discuss what the co-hosts might want to highlight at this fireside chat (note: these discussions don't necessarily need to identify a solution - but recognised shared themes, challenges, and spaces some research communities share)
+- [ ] Discuss what the co-hosts might want to highlight at this Fireside Chat (note: these discussions don't necessarily need to identify a solution - [ ] but should recognise shared themes, challenges, and spaces for research communities
 - [ ] Identify speakers from the community and invite them
 - [ ] Create a private Slack Channels with all speakers and hosts and discuss some overarching topics they are interested in sharing
 - [ ] Ask for the bio and image of speakers, and their permission to record the session
@@ -36,23 +37,25 @@ Register here to attend: [add registration page link].
 - [ ] Update the calendar invite with Zoom, Etherpad and Eventbrite -- encouraging them to share the Eventbrite page in their network
 - [ ] Identify someone from the community who can do the introduction of The Turing Way, code of conduct reminder and pass it to the speakers
 
-**During the session**
+## During the session
+
 - [ ] Open the Zoom call 15 minutes in advance (keep the waiting room of Zoom enabled)
-- [ ] test if speakers' microphone, camera and internet work alright - help troubleshoot any tech challenge
+- [ ] Test if speakers' microphone, camera and internet work alright - help troubleshoot any tech challenge
 - [ ] Let participants in right on time
 - [ ] Welcome them and share Etherpad
 - [ ] Remind them that the call will be recorded and that participants can use chat (but may not have the chance to speak during the 60 minutes live)
-- [ ] start recording and enable transcription
-- [ ] In 5 minutes past as people join, the person designated to welcome them will introduce the Turing Way, CoC, and Etherpad information and Present the topic
+- [ ] Start recording (on Zoom Cloud) and enable transcription
+- [ ] At 5 minutes past, as people join, the person designated to welcome them will introduce the Turing Way, CoC, and Etherpad information and Present the topic
 - [ ] Hosts then introduce themselves and post the opening questions allowing all speakers including the co-host to share their position on the topic in 2 minutes
 - [ ] As planned in the agenda, hosts ask the question posed to the specific speaker, follow up response from the other speaker is invited
 - [ ] Speakers will make sure that everyone on the panel has had an equal chance to discuss and share their opinions
 - [ ] Any question from the chat is copied over the Etherpad, in the last 10 minutes publically posed question can be asked
-- [ ] The recorded session finish with 30 second closing argument
-- [ ] After the 60 min recording, all participants are reminded of the next stage of unrecorded discussion informally with the speakers 
-- [ ] Hosts close the call in maximum of 30 minutes after the session
+- [ ] The recorded session finishes with a short closing arguments from each speaker and host
+- [ ] After the recorded part of the discussion (60-75 minutes), all participants are reminded of the next stage of unrecorded discussion informally with the speakers 
+- [ ] Hosts close the call after 90 minutes of the session (with 15-30 minutes unrecorded discussion)
 
-**After the session**
+## After the session
+
 - [ ] Send a thank you email to the speakers - within 1 day
 - [ ] Archive all notes here: https://hackmd.io/@turingway/fireside-chats
 - [ ] Download the video from Zoom and edit the live transcription (proofread cc)
@@ -63,5 +66,5 @@ Register here to attend: [add registration page link].
 - [ ] Send a thank you email to the Eventbrite participants sharing the video and inviting any ideas and suggestions for improvement via a standard feedback form
 - [ ] Update the book chapter and templates if needed
 - [ ] Update the video link here and update the section for the upcoming Fireside chat
-- [ ] Add speakers to this GitHub repo using all contribution bot for presentation
-- [ ] Close this PR as complete
+- [ ] Add speakers to this GitHub repo using `all-contributions bot` for presentation
+- [ ] Close the planning issue as complete!
