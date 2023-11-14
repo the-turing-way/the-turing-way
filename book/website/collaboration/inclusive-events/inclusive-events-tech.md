@@ -16,7 +16,8 @@ The flexibility of hybrid formats recognizes the challenges faced by individuals
 Providing a virtual option can overcome any physical barriers presented by in-person only events. 
 This flexibility also accommodates the diverse schedules and responsibilities of all attendees, and acknowledges any additional scheduling challenges that may be faced by people with lived experiences. 
 
-Although planning and hosting hybrid events often requires more resources to be successful, by making your event hybrid you can better prioritize accessibility needs and the inclusion of attendees with lived experience at your event, empowering a wide range of participants to contribute and benefit from your event's content and community.
+Although planning and hosting hybrid events often requires more resources to be successful, by making your event hybrid you can better prioritize accessibility needs and the inclusion of attendees with lived experience at your event. 
+This empowers is a wide range of participants to contribute and benefit from your event's content and community.
 
 If you are planning a hybrid event, please review The Turing Way's {ref}`cl-hybrid-collab` and specifically the {ref}`cl-hybrid-collab-guidelines`.
 
