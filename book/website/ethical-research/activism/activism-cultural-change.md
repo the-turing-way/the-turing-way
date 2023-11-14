@@ -15,6 +15,14 @@ Here, cultural change is defined as inspiring a change in behaviour in persons/o
 This section will continue to describe where you will encounter cultural change. 
 This is followed by short summaries of works on cultural change, written by Adrienne Marie Brown, William and Susan Bridges and John P. Kotter. 
 
+```{figure} ../../figures/culture-shift.*
+---
+name: culture shift
+alt: "The cartoon says that it is time for a cultural shift: we should value reproducibility as much as the amount of papers published. To illustrate this a scale is depicted, with on the one side a lot of objects, and on the other side only two objects with a shiny star on them. Both side weigh equally."
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.8169292](https://doi.org/10.5281/zenodo.8169292).
+```
+
 (er-activism-cultural-change-when)=
 ## Where/when will you encounter cultural change?
 As your social environment is continuously changing, you are likely to experience some degree of cultural change on a daily basis. 
