@@ -118,7 +118,7 @@ We asked a group of researchers to share what they consider their project design
 **I work alone, do I need to think about project design?**
 
 The short answer is 'yes'.
-The project design will allow you to manage your work well for yourself (see the section: {ref}`Getting Started<pd-overview-planning-started>`).
+The project design will allow you to manage your work well for yourself (see the section: {ref}`Getting Started Checklist<pd-checklist>`).
 
 A little work and time investment early on in project design saves a lot of time later when any circumstances arise that demand change.
 ```
