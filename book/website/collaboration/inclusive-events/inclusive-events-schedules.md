@@ -217,18 +217,18 @@ These speakers may share perspectives that resonate deeply with an audience, and
 This core idea around representation can help to establish a shared space between attendees where it feels safe and supportive to engage in a dialogue about lived experience. 
 The presence and promotion of these speakers can help to validate and legitimize the significance of personal experiences within research, and can facilitate a more inclusive and balanced discourse at your event.
 
-Additionally, people with lived experience can offer practical, real-world insights that might not be captured solely through academic or research-based perspectives. 
-By hosting sessions delivered or facilitated by people with lived experience, all attendees will be able to engage with and better understand what "lived experience" means for a specific person or group. 
-This is important because even in research projects that involve participatory methods, not all researchers have the opportunity to directly engage with the people with lived experience involved in the project. 
-Having a speaker or session lead present from a place of lived experience can give all attendees the opportunity to learn and engage with the process of participatory research as a whole, and ensures that researchers, research staff, and other professionals will develop a more comprehensive understanding of the opportunities and challenges faced by people with lived experience. 
+Additionally, because the goal of research events is to provide opportunities for discussion and the learning of different research skills and practices, the inclusion of lived experience speakers can complement and enrich research insights, and offer a more holistic and authentic understanding of different contexts and experiences. 
 
+People with lived experience can offer practical, real-world insights that might not be captured solely through academic or research-based perspectives. 
+By hosting sessions delivered or facilitated by people with lived experience, all attendees will be able to engage with and better understand what "lived experience" means for a specific person or group. 
+This is important because even for research projects that involve participatory methods, not all researchers may have the opportunity to directly engage with the people with lived experience involved in the project. 
+Having a speaker or session lead present from a place of lived experience can give all attendees the opportunity to learn and engage with the process of participatory research as a whole, and ensures that researchers, research staff, and other professionals will develop a more comprehensive understanding of the opportunities and challenges faced by people with lived experience. 
 This may also have the added benefit of improving the research conducted by attendees, or influence project design in the future. 
 
-Many research conferences and events provide opportunities for discussion and the learning of different research skills and practices. 
-Lived experience speakers can complement and enrich research insights, and offer a more holistic and authentic understanding of different contexts and experiences. 
+By including and highlighting speakers or session leads with lived experience and offering a diverse range of voices both broadens the scope of representation, and can prevent assumptions and stereotypes about people with lived experience.
+This can then act to further empower other attendees with lived experience to become more actively involved in your event and research as a whole.
 
-Including and highlighting speakers or session leads with lived experience and offering a diverse range of voices both broadens the scope of representation, and helps to prevent assumptions and stereotypes about people with lived experience which can further help to empower other attendees with lived experience to become more actively involved in research.
- 
+
 (cl-inclusive-events-event-descriptions)=
 ### Providing Event Descriptions
 Consider including a description of your intended audience and any expertise requirements in your session information. 
