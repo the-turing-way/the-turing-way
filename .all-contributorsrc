@@ -4456,6 +4456,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "MoritzMaxeiner",
+      "name": "Moritz Maxeiner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/497073?v=4",
+      "profile": "https://github.com/MoritzMaxeiner",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
