@@ -13,7 +13,7 @@ If you have not read the chapters on {ref}`rr-open` and {ref}`cm-citable` yet, y
 - [An overview of storage solutions and their advantages and disadvantages](https://web.archive.org/web/20180605213316/http://datasupport.researchdata.nl/en/start-the-course/iii-the-research-phase/storing-data/)
 - [Reproducible research](https://coderefinery.github.io/reproducible-research/) by Code Refinery
 - [UKRN Open Research Primers](https://www.ukrn.org/primers/)
-- {cite:ps}`Henry2021RDM`
+- [Eight principles of good data management](https://doi.org/10.31234/osf.io/5tmfe) by {cite:ps}`Henry2021RDM`
 - {cite:ps}`Borer2009RDM`
 - [Research data management and services](https://doi.org/10.5860/crln.78.5.274) by {cite:ps}`Barbrow2017librarians`
 - [Data Management in Large-Scale Education Research](https://datamgmtinedresearch.com/) by Crystal Lewis
