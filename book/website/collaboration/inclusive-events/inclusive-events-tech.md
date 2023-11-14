@@ -7,7 +7,8 @@ This section focuses on considerations and recommendations around using differen
 (cl-inclusive-events-hybrid)=
 ## Hybrid as an Accessibility and Inclusion Strategy
 Hybrid events, by default, prioritize accessibility and the inclusivity of attendees with lived experience, making them the ideal choice to engage an audience of individuals with diverse lived experiences. 
-Online sessions can be better supportive of individuals who experience extreme fatigue or find it difficult to attend in-person events, while in-person components can make use of local resources to support engagements and may be preferred for others requiring support.
+Online sessions can be better suited to individuals who experience extreme fatigue or find it difficult to attend in-person events. 
+While in-person events can make use of local resources to support engagement and may be preferred by others requiring support.
 
 The integration of both in-person and virtual components ensures that participants can engage in a manner that suits their preferences and circumstances.
 
