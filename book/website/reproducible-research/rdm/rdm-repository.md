@@ -30,7 +30,7 @@ A {ref}`license <rr-licensing>` describes to potential reusers of your work what
     - Repositories provide documentation for Research Objects.
 This can be in the form of READMEs and/or wikis that provide a description of your project and why it might be relevant to people.
     - Encouraging widely-used file formats.
-Many repositories have restrictions on the file formats used to ensure the sustainability of Reserach Objects.
+Many repositories have restrictions on the file formats used to ensure the sustainability of Research Objects.
 Some file formats (especially proprietary ones with a limited user base) can become deprecated.
 - it allows to determine the levels of access to Research Objects.
 As covered in {ref}`Barriers to Data Sharing<rr-open-data-barriers>`, there are good reasons to not to make all Research Objects completely open.
