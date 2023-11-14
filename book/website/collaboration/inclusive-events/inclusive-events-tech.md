@@ -29,7 +29,7 @@ Consider sending both a calendar placeholder invitation for your event, and emai
 This can help remind your attendees of their registration and help put the important information about your event at the top of their email inbox.
 
 It can also be helpful to utilize the subject line of your email with important information. 
-Consider including the Date and title of your event, in both the Calendar invitation and any email reminders that you send. 
+Consider including the date and title of your event, in both the calendar invitation and any email reminders that you send. 
 
 ```{note}
 The Public and Patient Involvement and Engagement community for Multiple Long-Term Conditions has highlighted the importance of sending out reminder emails the week of the event, and the morning of the event. 
