@@ -10,6 +10,9 @@ jobs:
   crowdin-contributors:
 
     runs-on: ubuntu-latest
+    # This environment contains secrets specific to crowdin and only workflows
+    # listing this environment can use them
+    environment: crowdin
     steps:
     - name: Checkout
       uses: actions/checkout@v3
