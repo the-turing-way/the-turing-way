@@ -9,6 +9,15 @@ This is because they can provide ethical oversight to expert researchers who do 
 This is not to liberate the researcher of their ethical responsibilities -- ultimately, they make the decisions as to how to conduct their work -- but to provide support in respect to these questions.
 Whilst there is a great deal of complexity involved in holding individuals accountable in scientific projects, this chapter assumes that RECs seek to improve how science is conducted at large.
 
+```{figure} ../figures/ethics-committee-with-text.*
+---
+height: 500px
+name: ethics-committee-with-text
+alt: A female-presenting person is walking into a path that leads to somewhere far with mountains. The path starts with a big banner that says “Research Ethics Committee”. At the beginning of the path, there is a male-presenting person with a map, a backpack, glasses and a friendly face looking like they are ready to join the other person to embark on their research ethics committee journey. Next to the first part of the path, there are a couple of booths full of people, one with “Ethics Reviewers”, and another one further down with “Ethics Decision Making” as the title of the booth. These represent the journey one goes through when going through research ethics committee processes.
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
 There are many ways a research ethics committee might organise itself.
 One common approach is to provide a form for all projects conducted at their institution to undergo ethical appraisal.
 Below, we propose five headline questions that an ethics committee might want to know about. For each headline question, we provide:
@@ -96,7 +105,7 @@ Your institution may also have a secure IT infrastructure for the storage of dat
 It is worth asking if there are such policies and processes in your institution.
 
 In the case of using personal data, it is also worth noting if any method for making data anonymous will be employed.
-For more details on anonymisation, see [this subchapter](https://github.com/alan-turing-institute/the-turing-way/pull/1579) of *The Turing Way*.
+For more details on anonymisation, see [this subchapter](https://github.com/the-turing-way/the-turing-way/pull/1579) of *The Turing Way*.
 
 In either case, data security doesn't apply only to personal data. Consider, for example, a project conducted with a government body that holds certain information that musn't be released, or a firm providing you with proprietary code.
 Ultimately, this is a broad question that requires that we:

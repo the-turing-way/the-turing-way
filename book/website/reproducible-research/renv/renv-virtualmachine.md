@@ -179,7 +179,7 @@ It could also help debug problems as multiple people can better ensure they are 
 (rr-renv-vm-ttw-vagrantfile)=
 ### The Vagrantfile
 
-You can find the [full Vagrantfile](https://github.com/alan-turing-institute/the-turing-way/blob/main/Vagrantfile) in the root of The Turing Way git repository.
+You can find the [full Vagrantfile](https://github.com/the-turing-way/the-turing-way/blob/main/Vagrantfile) in the root of The Turing Way git repository.
 We will then use some of the Vagrant CLI commands to provision the machine and use it to build the book.
 
 The top level block of the Vagrantfile specifies the Vagrant configuration version.
@@ -232,7 +232,7 @@ NFS is the default method to sync folders for libvirt.
 ```
 
 The shell provisioner is used to install the packages necessary to build the book.
-First a script is defined to install pip, then use pip to install the python requirements as explained in the [book README](https://github.com/alan-turing-institute/the-turing-way/blob/main/book/README.md).
+First a script is defined to install pip, then use pip to install the python requirements as explained in the [book README](https://github.com/the-turing-way/the-turing-way/blob/main/book/README.md).
 The script is then passed to the provisioner.
 
 ```{code-block} ruby
@@ -255,7 +255,7 @@ Windows users can also try [Hyper-V](https://learn.microsoft.com/en-us/virtualiz
 If you haven't already, clone The Turing Way repository and change to the projects root directory.
 
 ```{code-block} console
-$ git clone https://github.com/alan-turing-institute/the-turing-way.git
+$ git clone https://github.com/the-turing-way/the-turing-way.git
 $ cd the-turing-way
 ```
 
@@ -275,7 +275,7 @@ $ vagrant ssh
 ```
 
 The project directory has been mounted at `/vagrant` on the guest.
-We can change to the `book/website` directory and build the book like in the [README](https://github.com/alan-turing-institute/the-turing-way/blob/main/book/README.md).
+We can change to the `book/website` directory and build the book like in the [README](https://github.com/the-turing-way/the-turing-way/blob/main/book/README.md).
 
 ```{code-block} console
 [vagrant@theturingway ~]$ cd /vagrant/book/website/

@@ -2,7 +2,7 @@
 # Chapter Title
 
 > Labels (above headers) should follow the cross-referencing conventions described in the [Style Guide](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html).
-> Modify them based on the Guide your chapter belongs to and the name you give file
+> Modify them based on the Guide your chapter belongs to and the name you give the file.
 
 (sectioninitials-filename-prerequisites)=
 ## Prerequisites

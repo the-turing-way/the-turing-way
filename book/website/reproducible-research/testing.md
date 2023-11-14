@@ -3,7 +3,7 @@
 
 | Prerequisite | Importance |
 | -------------|------------|
-| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary |
+| {ref}`Experience with the command line<rr-overview-resources-commandline>` | Necessary |
 
 ## Summary
 
@@ -25,14 +25,14 @@ Here's a couple of illustrations exemplifying of why should write tests:
 ```{figure}  ../figures/testing-motivation1.*
 ---
 name: testing-motivation1
-alt:
+alt: "Headline of a December 2006 news article by Greg Miller, published in Science, titled A Scientist's Nightmare: Software Problem Leads to Five Retractions"
 ---
 ```
 
 ```{figure}  ../figures/testing-motivation2.*
 ---
 name: testing-motivation2
-alt:
+alt: "News article by Lisa Grossman, published on Wired.com in November 2010, describing an inconsistency between the units of force expected as output and input of two pieces of software that resulted in the loss of a weather satellite when it reached its destination at Mars. The piece is titled November 10, 1999: Metric Math Mistake Muffed Mars Meteorology Mission"
 ---
 ```
 

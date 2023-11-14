@@ -23,5 +23,5 @@ Furthermore, we invite every community member to update the {ref}`Record of Cont
 In this chapter, we provide details on the following aspects:
 - who our contributors and community members are
 - how we create opportunities for a shared ownership of this project
-- how we can use record of contributions to highlight work of our community members
-- what the different types and possible pathways for contributions exist in _The Turing Way_
+- how we can use the record of contributions to highlight the work of our community members
+- what different types and possible pathways for contributions exist in _The Turing Way_
