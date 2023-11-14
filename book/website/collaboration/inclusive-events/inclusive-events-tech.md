@@ -12,7 +12,8 @@ While in-person events can make use of local resources to support engagement and
 
 The integration of both in-person and virtual components ensures that participants can engage in a manner that suits their preferences and circumstances.
 
-The flexibility of hybrid formats recognizes the challenges faced by individuals with varied abilities and mobility constraints, providing a virtual option to overcome any physical barriers presented by in-person only events. 
+The flexibility of hybrid formats recognizes the challenges faced by individuals with varied abilities and mobility constraints. 
+Providing a virtual option can overcome any physical barriers presented by in-person only events. 
 This flexibility also accommodates the diverse schedules and responsibilities of all attendees, and acknowledges any additional scheduling challenges that may be faced by people with lived experiences. 
 
 Although planning and hosting hybrid events often requires more resources to be successful, by making your event hybrid you can better prioritize accessibility needs and the inclusion of attendees with lived experience at your event, empowering a wide range of participants to contribute and benefit from your event's content and community.
