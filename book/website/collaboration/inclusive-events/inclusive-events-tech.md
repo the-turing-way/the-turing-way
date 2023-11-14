@@ -104,8 +104,9 @@ We have curated a few examples based on different event formats that can be used
 * Supporting presenters and speakers with presentation set-up and slide transitions.
 * Ensuring that any audio or hearing induction loop technology is working and accessible.
 * Opening up polls or other interaction software used during the event.
+* Ensuring the event is recorded.
 #### In-Person Facilitator 
-* Ensuring that attendees and any speakers are able to engage in the session.
+* Ensuring that attendees and any speakers are able to engage in the session using microphones or other audio equipment.
 * Working with a speaker or panellists to answer questions from the audience.
 * Ensuring that questions taken from the audience represent the diversity of the attendees.
 * Providing the audience with information about any emergency exits or other physical locations of importance during the event.
@@ -113,21 +114,28 @@ We have curated a few examples based on different event formats that can be used
 * Taking notes during the session and capturing the main points of discussion. 
 * Depending on your event, this may also involve sending notes or making them available to attendees with sensory impairments in order to support them engaging in the session.
 
-### Hybrid and Online Event 
+### Online Event
 #### Technical Support 
 * Supporting attendees and facilitators with sound or video focus difficulties.
 * Hosting the online platform and opening the session if there is a waiting room.
 * Placing attendees on mute if there is loud or distracting background noise. 
-
+* Ensuring the event is recorded and streamed with closed captions and transcription software.
+* Removing people if there is any inappropriate behaviour that contravenes the event's Code of Conduct.
 #### Online Facilitator
 * Supporting the engagement of attendees and moderating conversation.
 * Providing discussion prompts and asking thought-provoking questions.
 * Introducing speakers and presenters.
 * Facilitating Q&A and any polls that are used during the session.
-
 #### Online Notetaker 
 * Taking notes during the event's sessions and ensuring that they are accessible to all attendees.
-* Summarizing information shared by online participants so that it may be communicated to and shared with in-person attendees
+* Summarizing information shared by online participants so that it may be communicated to, and shared with, in-person attendees.
+* Sharing links in the chat as requested by speakers and the attendees.
+
+```{tip}
+For hybrid events, you will need both in-person personnel **AND** online personnel with different tasks as referenced above.
+When planning your event, ensure that you are able to recruit support for both the online and in-person parts of your event as it will be incredibly difficult for the same person to act as both an in-person and online facilitator.
+```
+
 
 (cl-inclusive-events-technology-guides)=
 ## Technology Guides
