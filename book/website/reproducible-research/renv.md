@@ -6,8 +6,8 @@
 
 | Prerequisite | Importance | Notes  |
 | ------------ | ---------- | ------ |
-| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary  | Experience with downloading software via the command line is particularly useful |
-| {ref}`rr-vcs` | Helpful | Experience using git and GitHub are helpful |
+| {ref}`Experience with the command line<rr-overview-resources-commandline>` | Necessary  | Experience with downloading software via the command line is particularly useful |
+| {ref}`Version Control<rr-vcs>` | Helpful | Experience using git and GitHub are helpful |
 
 **Recommended Skill Level**: _Intermediate-Advanced_
 

@@ -3,7 +3,7 @@
 
 | Prerequisite | Importance |
 | -------------|------------|
-| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary |
+| {ref}`Experience with the command line<rr-overview-resources-commandline>` | Necessary |
 
 ## Summary
 
