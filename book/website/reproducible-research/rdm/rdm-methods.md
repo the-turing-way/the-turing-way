@@ -5,7 +5,7 @@ This chapter will provide an overview of how to manage your methods or protocols
 
 ## Why
 
-In order to ensure that others can reproducey our research, it is key that you document all the steps you took during the research process. 
+In order to ensure that others can reproduce your research, it is key that you document all the steps you took during the research process. 
 In a wetlab, this is often done in a lab note book that can be kept on paper or digitally. 
 In both cases the lab notes should record what you did or observed in the laboratory. 
 It should be recording why steps were taken, including mistakes and thoughts or difficulties experienced during data collection and processing. 
@@ -34,7 +34,7 @@ ELNs also have their **limitations**:
 * **Costs**: Most ELN solutions can only be used through paid plans, or the free plans have reduced functionalities in the number of users, storage space or file sizes.
 Your lab may also not have access to tables or pens that would make the use of ELNs easier.
 Check if your institution is offering a solution that you can use without additional costs 
-* **File format**: always chekck if files can be exported in your preferred file formats to avoid format lock-in.
+* **File format**: always check if files can be exported in your preferred file formats to avoid format lock-in.
 Some ELNs also have API's that allow integration with other software and workflows. 
 * **Vendor-lock-in**: Once you're using a certain solution you may become dependent on it.
 Always have an exit strategy in case the solution is no longer offered or if you're moving institutions and you no longer have access.
