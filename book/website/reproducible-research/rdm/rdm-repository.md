@@ -32,7 +32,7 @@ This can be in the form of READMEs and/or wikis that provide a description of yo
     - Encouraging widely-used file formats.
 Many repositories have restrictions on the file formats used to ensure the sustainability of Research Objects.
 Some file formats (especially proprietary ones with a limited user base) can become deprecated.
-- it allows to determine the levels of access to Research Objects.
+- It allows to determine the levels of access to Research Objects.
 As covered in {ref}`Barriers to Data Sharing<rr-open-data-barriers>`, there are good reasons to not to make all Research Objects completely open.
 However, it's still worthwhile to at least open the metadata and provide an option for people to obtain access to the actual Research Objects if they have certain credentials or if they have been given explicit access.
 That way, your work will still be FAIR (because the metadata are findable and there is an access procedure in place), as well as and secure (because you can control who has access).
