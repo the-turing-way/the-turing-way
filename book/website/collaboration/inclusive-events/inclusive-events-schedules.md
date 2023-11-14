@@ -288,7 +288,11 @@ This will ensure that you choose the format option that will support your specif
 ## Conclusion
 Taking the time to carefully consider your event's schedule and content will ensure all attendees feel valued and are able to engage in your event.
 
-By designing a schedule that provides flexibility around breaks and the types of engagement, offers a variety of session formats that are clearly communicated, and also by including speakers from different backgrounds, you will create an event that effectively supports a community of people with lived experience.
+If you are able to, the best way to design an inclusive and accessible is to involve and get feedback from a person or community with lived experience. 
+Involving people with lived experience from the onset can help in identifying potential barriers as well as curate topics and sessions that are of interest to a diverse group of attendees. 
+The active involvement of community representatives is often the key to an event becoming welcoming, inclusive, and accessible for people with lived experience.
+
+Finally, by designing a schedule that provides flexibility around breaks and the types of engagement, offers a variety of session formats that are clearly communicated, and also by including people with lived experience as co-organizers, hosts, and facilitators, you will create an event that can effectively support a community of people with lived experience.
 
 
 
