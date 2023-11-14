@@ -2,7 +2,7 @@
 # Technology Considerations for Inclusive Events
 When planning an event that will be attended by people with lived experience, event organizers should carefully consider various technology aspects to ensure inclusivity, accessibility, and a seamless experience for all participants. 
 
-This section focuses on considerations and recommendations around using different technologies to support the inclusion of people with lived experience at both in-person and hybrid (or online) events. 
+This section focuses on considerations and recommendations around using different technologies to support the inclusion of people with lived experience at both in-person, hybrid or online events. 
 
 (cl-inclusive-events-hybrid)=
 ## Hybrid as an Accessibility and Inclusion Strategy
