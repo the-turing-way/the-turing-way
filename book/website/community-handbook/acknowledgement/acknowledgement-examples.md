@@ -127,7 +127,7 @@ These efforts are highly encouraged to ensure the sustainability of their resour
 
 ## Maintenance
 
-Maintenance work in _The Turing Way_ applies to multiple aspects, some of which are: responding to the questions in community spaces such as Gitter, GitHub issues, or Twitter; the technical infrastructure of the GitHub repository, associated GitHub bots, scripts and continuous integration pipeline; the online hosting platforms of Jupyter book and Netlify; and the translation infrastructure of Transifex.
+Maintenance work in _The Turing Way_ applies to multiple aspects, some of which are: responding to the questions in community spaces such as Gitter, GitHub issues, or X (formerly Twitter); the technical infrastructure of the GitHub repository, associated GitHub bots, scripts and continuous integration pipeline; the online hosting platforms of Jupyter book and Netlify; and the translation infrastructure of Transifex.
 
 - *Persona for maintaining community interactions*: Neve has helped two contributors on two individual occasions by responding to a question on the Turing Way Gitter channel and a question on one of the issues in _The Turing Way_ GitHub repository.
   - **Acknowledgement:** He is acknowledged in the Contributors table with the 💬 (`question`) and 🤔 (`idea`) emojis.
@@ -147,7 +147,7 @@ These members may or may not have previously contributed to the project.
 They either volunteer or are recommended by _The Turing Way_ team members for representing this community within or outside the project.
 
 - *Persona for highlighting project resources*: Yehuda used one of the Scriberia and _The Turing Way_ illustrations in a recent talk they gave at an open source workshop that was hosted by their company.
-  They included links to _The Turing Way_ book, GitHub repository and Twitter handle.
+  They included links to _The Turing Way_ book, GitHub repository and X handle.
   Their slides are available under a CC-BY license and are requested to be linked in a monthly newsletter.
   - **Acknowledgement:** They are acknowledged in the Contributors table with the 🔊 (`Talk`) emoji.
 - *Persona for giving a talk on _The Turing Way_*: Noah is a long time contributor to _The Turing Way_, they answer questions and review pull requests regularly.

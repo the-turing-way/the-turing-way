@@ -54,7 +54,7 @@ Find more details on these topics below 👇
 - [Slack channel](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
 - [Public Gitter channel](https://gitter.im/the-turing-way/the-turing-way)
 - [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
-- [Twitter Channel](https://twitter.com/turingway)
+- [X (formerly Twitter) Channel](https://twitter.com/turingway)
 
 You are welcome to contribute content for the next newsletter by
 emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).

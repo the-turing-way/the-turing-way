@@ -10,13 +10,13 @@ It brings together an interdisciplinary group of researchers from a range of dis
 ### Find out more about their work below:
 
 **Federico Nanni:**
-* [ORCID](https://orcid.org/0000-0003-2484-4331) 
-* [Twitter](https://twitter.com/f_nanni)
-* [Website](https://github.com/fedenanni)
+* ORCID: [0000-0003-2484-4331](https://orcid.org/0000-0003-2484-4331)
+* X (formerly Twitter): [f_nanni](https://twitter.com/f_nanni)
+* GitHub: [fedenanni](https://github.com/fedenanni)
 
 **Mariona Coll Ardanuy**
-* [ORCID](http://orcid.org/0000-0001-8455-7196) 
-* [Website](https://github.com/mcollardanuy)
+* ORCID: [0000-0001-8455-7196](http://orcid.org/0000-0001-8455-7196)
+* GitHub: [mcollardanuy](https://github.com/mcollardanuy)
 
 **1. What is the *normal* practice of authorship for academic papers in your discipline? or used to be the normal practice?**
 
