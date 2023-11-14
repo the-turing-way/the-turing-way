@@ -114,16 +114,5 @@ This can be part of your {ref}`Data Management Plan<rr-rdm-dmp>`.
 
 Watch this video on [Safe data storage and backup](https://www.youtube.com/watch?v=bgbbToXHgW0) from the [TU Delft Open Science MOOC](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/).
 
-## Tagging
-
-Tags are keywords assigned to files, and a way to add metadata to a file to organise them more flexibly.
-While a file can only be in one folder at a time, it can have an unlimited number of tags. 
-
-Some tips include:
-- Use short tag names (one or two words)
-- Be consistent with tags
-- Not all file formats allow tags, and when files are transferred tags may be stripped
-
-See [Tagging and Finding Your Files by MIT libraries]([url](https://libguides.mit.edu/metadataTools)) for more information. 
 
 
