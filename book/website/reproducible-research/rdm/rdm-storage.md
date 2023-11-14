@@ -48,6 +48,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 -	Make sure you have enough (sub)folders so that files can be stored in the right folder and are not scattered in folders where they do not belong, or stored in large quantities in a single folder.
 -	Use a clear folder structure.
 You can structure folders based on the person that has generated the data/folder, chronologically (month, year, sessions), per project (as done in the example below), or based on analysis method/equipment or data type.
+- Avoid overlapping or vague folder names, and do not use personal data in folder/file names.
 
 (rr-rdm-storage-organisation-examples)=
 ### Data Organisation Examples
@@ -77,6 +78,7 @@ Some other tips for file naming include:
 - Use the version number of file (v001, v002) or language used in the document (ENG)
 - Do not make file names too long (this can complicate file transfers)
 - Avoid special characters (?\!@\*%{[<>) and spaces
+- Avoid personal data in file names
 
 You can explain the file naming convention in a README.txt file so that it will also become apparent to others what the file names mean.
 
@@ -110,5 +112,18 @@ The more important the data and the more often the datasets change, the more fre
 If your files take up a large amount of space and backing up all of them proves to be challenging or expensive, you may want to create a set of criteria for when you back up the data.
 This can be part of your {ref}`Data Management Plan<rr-rdm-dmp>`.
 
-
 Watch this video on [Safe data storage and backup](https://www.youtube.com/watch?v=bgbbToXHgW0) from the [TU Delft Open Science MOOC](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/).
+
+## Tagging
+
+Tags are keywords assigned to files, and a way to add metadata to a file to organise them more flexibly.
+While a file can only be in one folder at a time, it can have an unlimited number of tags. 
+
+Some tips include:
+- Use short tag names (one or two words)
+- Be consistent with tags
+- Not all file formats allow tags, and when files are transferred tags may be stripped
+
+See [Tagging and Finding Your Files by MIT libraries]([url](https://libguides.mit.edu/metadataTools)) for more information. 
+
+
