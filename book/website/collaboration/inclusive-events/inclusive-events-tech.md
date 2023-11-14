@@ -25,7 +25,7 @@ If you are planning a hybrid event, please read The Turing Way's {ref}`Chapter o
 ## Using Email Reminders and Calendar Invitations
 Many people with lived experience have to maintain a very busy schedule and often rely on online calendar tools and email reminders to stay organized. 
 
-Consider sending both a Calendar placeholder invitation for your event, and email reminders the week before, the week of, and the morning of your event. 
+Consider sending both a calendar placeholder invitation for your event, and email reminders the week before, the week of, and the morning of your event. 
 This can help remind your attendees of their registration and help put the important information about your event at the top of their email inbox.
 
 It can also be helpful to utilize the subject line of your email with important information. 
