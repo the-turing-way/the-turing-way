@@ -1,9 +1,10 @@
+(cl-inclusive-events-technology)=
 # Technology Considerations for Inclusive Events
 When planning an event that will be attended by people with lived experience, event organizers should carefully consider various technology aspects to ensure inclusivity, accessibility, and a seamless experience for all participants. 
 
 This section focuses on considerations and recommendations around using different technologies to support the inclusion of people with lived experience at both in-person and hybrid (or online) events. 
 
-
+(cl-inclusive-events-hybrid)=
 ## Hybrid as an Accessibility and Inclusion Strategy
 Hybrid events, by default, prioritize accessibility and the inclusivity of attendees with lived experience, making them the ideal choice to engage an audience of individuals with diverse lived experiences. 
 Online sessions can be better supportive of individuals who experience extreme fatigue or find it difficult to attend in-person events, while in-person components can make use of local resources to support engagements and may be preferred for others requiring support.
@@ -17,7 +18,7 @@ Although planning and hosting hybrid events often requires more resources to be 
 
 If you are planning a hybrid event, please review The Turing Way's {ref}`cl-hybrid-collab` and specifically the {ref}`cl-hybrid-collab-guidelines`.
 
-
+(cl-inclusive-events-calendar-invites)=
 ## Using Email Reminders and Calendar Invitations
 Many people with lived experience have to maintain a very busy schedule and often rely on online calendar tools and email reminders to stay organized. 
 
@@ -46,6 +47,7 @@ If you are able to send out information and keep in regular contact with the com
 If this is the case for your event, it will be very important to source solutions from, and work alongside the community with that specific lived experience when planning your event. 
 
 
+(cl-inclusive-events-zoom-etiquette)=
 ## Zoom and Video Conferencing Etiquette
 When choosing an online platform for your event, consider what tools are used by your attendees and ensure that the tools chosen are accessible to your attendees.
 
@@ -54,7 +56,7 @@ Zoom has been voted by disabled groups as the most accessible online video platf
 It is very important to check with your specific attendees to inform your choice of platform. 
 There can often be additional barriers to accessing software platforms for international attendees which should be taken into consideration when planning for any online content that is part of your event.
 
-
+(cl-inclusive-events-tips-for-online-events)=
 ### Tips for hosting Inclusive Online Sessions 
 #### Blurring Video Backgrounds
 Encourage speakers and attendees who are engaging online to blur their background and to limit background noise as much as possible. 
@@ -124,7 +126,7 @@ We have curated a few examples based on different event formats that can be used
 * Taking notes during the event's sessions and ensuring that they are accessible to all attendees.
 * Summarizing information shared by online participants so that it may be communicated to and shared with in-person attendees
 
-
+(cl-inclusive-events-technology-guides)=
 ## Technology Guides
 Even if the technology used during your event may be considered common or ubiquitous, it is important to recognize that all attendees will have had a different level of experience and exposure to technology. 
 
@@ -149,6 +151,7 @@ You may want to consider how you will ensure that all participants are able to a
 For example, by including an icebreaker or introductory activity that is completed by attendees. 
 ```
 
+(cl-inclusive-events-av-considerations)=
 ## Audio and Visual Considerations for In-Person Events 
 In addition to what has been discussed above, there are unique technology challenges that in-person events face when running an inclusive event. 
 
@@ -182,7 +185,7 @@ Finally, for in-person or hybrid events, ensure that the sound system at your ve
 The availability of this system should be posted on a sign at the entrance to the room, along with specifications if only a certain part of the room is covered. 
 Consider additionally highlighting on your program or agenda what rooms and sessions at your event have support for audio induction loops, and who to contact to get access. 
 
-
+(cl-inclusive-events-technology-final-checks)=
 ## What to check the day of the event
 As part of hosting, is it important to make time before the event starts to ensure that the technology supports you planned for are working and able to be implemented. 
 
