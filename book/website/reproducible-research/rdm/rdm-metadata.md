@@ -68,7 +68,7 @@ Some tips include:
 - Be consistent with tags
 - Not all file formats allow tags, and when files are transferred tags may be stripped
 
-See [Tagging and Finding Your Files by MIT libraries]([url](https://libguides.mit.edu/metadataTools)) for more information. 
+See [Tagging and Finding Your Files by MIT libraries](https://libguides.mit.edu/metadataTools)) for more information. 
 
 (rr-rdm-metadata-resources)=
 ## Additional Resources
