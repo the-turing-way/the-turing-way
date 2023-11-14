@@ -5,7 +5,7 @@ Data visualisation allows you to:
 * Extract valuable information and patterns from data
 * Communicate this in a clear and comprehensible visual representation
 * Enhance the communication of research findings, making it accessible to a broader audience
-* Identify data quality issues, as outliers and data errors may become more visible in visualisations. 
+* Identify data quality issues, as outliers and data errors may become more visible in visualisations
 
 Therefore, data visualisation is an aspect of research data management!
 
