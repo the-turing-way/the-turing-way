@@ -6,7 +6,7 @@
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
-|[Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Helpful |  |
+| {ref}`Experience with the command line<rr-overview-resources-commandline>` | Helpful |  |
 
 **Recommended Skill Level**: _Beginner-Intermediate_
 

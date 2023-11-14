@@ -6,7 +6,7 @@
 
 | Prerequisite | Importance | Notes |
 | ------------ | ---------- | ----- |
-| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary | |
+| {ref}`Experience with the command line<rr-overview-resources-commandline>` | Necessary | |
 | {ref}`Version Control<rr-vcs>` | Helpful | Experience using git is useful to follow along with examples |
 
 Recommended skill level: intermediate
