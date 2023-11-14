@@ -2,10 +2,6 @@
 
 # Case Study: BigCode Data Governance
 
-:::{note}
-This case study was adapted from the [BigCode Governance card](https://huggingface.co/datasets/bigcode/governance-card) in May 2023.
-:::
-
 ```{admonition} Note
 :class: note
 This case study was adapted from the [BigCode Governance card](https://huggingface.co/datasets/bigcode/governance-card) in May 2023.
