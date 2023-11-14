@@ -15,7 +15,7 @@ If you have not read the chapters on {ref}`rr-open` and {ref}`cm-citable` yet, y
 - [UKRN Open Research Primers](https://www.ukrn.org/primers/)
 - {cite:ps}`Henry2021RDM`
 - {cite:ps}`Borer2009RDM`
-- {cite:ps}`Barbrow2017librarians`
+- [Research data management and services](https://doi.org/10.5860/crln.78.5.274) by {cite:ps}`Barbrow2017librarians`
 - [Data Management in Large-Scale Education Research](https://datamgmtinedresearch.com/) by Crystal Lewis
 
 (rr-rdm-resources-resources)=
