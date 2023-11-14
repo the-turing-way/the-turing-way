@@ -6,7 +6,7 @@ This chapter will provide an overview of how to manage your methods or protocols
 ## Why
 
 In order to ensure that others can reproduce your research, it is key that you document all the steps you took during the research process. 
-In a wetlab, this is often done in a lab note book that can be kept on paper or digitally. 
+In a wetlab, this is often done in a lab notebook that can be kept on paper or digitally. 
 In both cases the lab notes should record what you did or observed in the laboratory. 
 It should be recording why steps were taken, including mistakes and thoughts or difficulties experienced during data collection and processing. 
 You should take notes in a manner that someone else, with a similar research background or yourself in six months, could use your notebook and repeat the work with the same results. 
