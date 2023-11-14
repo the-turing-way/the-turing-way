@@ -109,7 +109,7 @@ In the English versions, a dot is used since the comma has no meaning (`9,000` w
 When you manually manipulate data in a spreadsheet program, you will need to record all the steps that you took. 
 This can be time consuming and can be avoided by manipulating and analysing the data with automatic analyses or programmes such as [Open Refine](https://openrefine.org/) that will record the data manipulation steps for you.
 
-OpenRefine can be used for tabular data( for example in [social sciences](https://datacarpentry.org/openrefine-socialsci/), [ecology](https://datacarpentry.org/OpenRefine-ecology-lesson/) and [history](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine).
+OpenRefine can be used for tabular data (for example in [social sciences](https://datacarpentry.org/openrefine-socialsci/), [ecology](https://datacarpentry.org/OpenRefine-ecology-lesson/) and [history](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine).
 OpenRefine can help you to get an overview of large datasets, identify and correct inconsistencies, and integrate datasets. 
 It automatically records these processes, saving a script of the steps involved.
 OpenRefine uses your web browser as a graphical interface, but the software runs only locally so it is safe to use for sensitive data.
