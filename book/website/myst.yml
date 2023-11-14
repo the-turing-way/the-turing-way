@@ -326,25 +326,27 @@ project:
               title: Version Control and Documentation
             - file: project-design/pd-overview/pd-overview-sharing.md
               title: Sharing Your Research Work
-        - file: project-design/pd-checklist.md
-          title: Project Design Checklist
         - file: project-design/project-management-methodologies/overview.md
           title: Project Management Methodologies
-        - file: project-design/project-repo.md
-          title: Creating Project Repositories
+        - caption: Project Setup and Organisation
           children:
-            - file: project-design/project-repo/project-repo-readme.md
-              title: Landing Page - README File
-            - file: project-design/project-repo/project-repo-roadmapping.md
-              title: Roadmapping
-            - file: project-design/project-repo/project-repo-contributors.md
-              title: Contributors and Communication Pathways
-            - file: project-design/project-repo/project-repo-participation.md
-              title: Participation Guidelines
-            - file: project-design/project-repo/project-repo-advanced.md
-              title: Advanced Structure for Data Analysis
-            - file: project-design/project-repo/project-repo-resources.md
-              title: Further Recommendations
+            - file: project-design/pd-checklist.md
+              title: Project Design Checklist
+            - file: project-design/project-repo.md
+              title: Creating Project Repositories
+              children:
+                - file: project-design/project-repo/project-repo-readme.md
+                  title: Landing Page - README File
+                - file: project-design/project-repo/project-repo-roadmapping.md
+                  title: Roadmapping
+                - file: project-design/project-repo/project-repo-contributors.md
+                  title: Contributors and Communication Pathways
+                - file: project-design/project-repo/project-repo-participation.md
+                  title: Participation Guidelines
+                - file: project-design/project-repo/project-repo-advanced.md
+                  title: Advanced Structure for Data Analysis
+                - file: project-design/project-repo/project-repo-resources.md
+                  title: Further Recommendations
         - file: project-design/persona.md
           title: Personas and Pathways
           children:
