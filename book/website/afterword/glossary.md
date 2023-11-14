@@ -129,8 +129,8 @@ CRediT Taxonomy
 
 ```{glossary}
 
-Data Repository
-    A long-lived place on the internet where resources (data, software, publications or anything else) can be stored and accessed. Often Data Repositories provide long term preservation and persistent identifiers for the research objects stored.
+Data repository
+    A storage place on the internet where resources (data, software, publications or anything else) can be stored and accessed. Often Data repositories provide long term preservation and persistent identifiers for the research objects stored. A data repository is the container for data and metadata, whereas a database is the structure that is used to store and manage that data.
 
 Differential privacy
   A strategy to provide quantifiable privacy guarantees when working with datasets containing personal information. The idea is that if the effect of making a single arbitrary substitution of a single record within the dataset on an aggregated query is below a specific threshold, then the result of any such query would not reveal substantial information about any individual member.
@@ -486,7 +486,7 @@ repo2docker
   A tool to build Docker images from code repositories.
 
 Repository
-  A place on the internet where resources (data, software, publications or anything else) can be stored and accessed. This keyword is often shortened to ‘repo’. See Data Repository if this place is long-lived.
+  A central location where resources (data, software, publications or anything else) are stored and accessed. This keyword is often shortened to ‘repo’. See Data Repository if this place is long-lived.
 
 Reproducible
   A result is reproducible when the same analysis steps performed on the same dataset consistently produces the same answer.
