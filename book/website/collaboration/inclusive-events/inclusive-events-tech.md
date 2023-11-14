@@ -60,7 +60,7 @@ There can often be additional barriers to accessing software platforms for inter
 ### Tips for hosting Inclusive Online Sessions 
 #### Blurring Video Backgrounds
 Encourage speakers and attendees who are engaging online to blur their background and to limit background noise as much as possible. 
-This can help people with lived experience of sensory processing differences or hearing impairments engage in the session content, and can also minimize any unconscious bias that attendees or facilitators may have that can affect participation (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291444). 
+This can help people with lived experience of sensory processing differences or hearing impairments engage in the session content, and can also minimize any unconscious bias that attendees or facilitators may have that can affect participation {cite:ps}`Cook2023zoom`. 
 
 #### Offering various engagement pathways
 If your event involves discussion or the active participation of attendees, consider offering support for both spoken and written engagement. 
