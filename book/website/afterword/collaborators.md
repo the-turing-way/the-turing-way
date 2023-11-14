@@ -16,7 +16,7 @@ In ensuring that this knowledge can be shared effectively with the wider society
 In this effort, the contributions from the Faculty of Applied Sciences have mainly focused on the Reproducible Research Chapter of _The Turing Way_.
 
 ### Representative
-- [Esther Plomp](https://the-turing-way.netlify.app/afterword/contributors-record#esther-plomp), Data Steward, Delft University of Technology, Netherlands.
+- [Esther Plomp](https://the-turing-way.netlify.app/afterword/contributors-record#esther-plomp), Data Steward, Delft University of Technology, Faculty of Applied Sciences, Netherlands.
 
 (collaborators-escience)=
 ## [Netherlands eScience Center](https://www.esciencecenter.nl/)
