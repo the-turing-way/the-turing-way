@@ -83,7 +83,7 @@ For example, you may develop a document that can be accessed without the interne
 
 It will be important to share and highlight any information to attendees about what to expect during a technical incident. 
 
-It may be helpful to assign multiple hosts for your online sessions. This will allow the session to continue in the event that one host experiences a technical outage.
+It is advised to assign multiple hosts for your online sessions. This will allow the session to continue in the event that one host experiences a technical outage.
 
 ```{tip}
 For in-person events, consider packing spare adaptors cables and chargers for different types of laptops and devices. 
