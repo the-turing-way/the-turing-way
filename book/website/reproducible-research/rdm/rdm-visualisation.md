@@ -23,7 +23,7 @@ Below follow some resources that may help you in creating clearer, more accessib
 ## Accessibility
 
 - [Tips to improve interpretability and accessibility](https://www.youtube.com/watch?v=RzT95DVUMnw) by Dr Tracey Weissgerber (video)
-- [Writing Meaningful Alt-Texts for Data Visualizations in R](https://www.youtube.com/watch?v=dXV5bx1WQTM)
+- [Writing Meaningful Alt-Texts for Data Visualisations in R](https://www.youtube.com/watch?v=dXV5bx1WQTM)
 
 (rr-rdm-visualisation-colours)=
 ## Colours
@@ -36,19 +36,19 @@ Below follow some resources that may help you in creating clearer, more accessib
 
 ### Books and Articles
 
-- [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/) by {cite:ps}`Wilke2019dataviz`
-- [Data Visualization, A practical introduction](https://socviz.co/) by {cite:ps}`Healy2018dataviz`
+- [Fundamentals of Data Visualisation](https://serialmentor.com/dataviz/) by {cite:ps}`Wilke2019dataviz`
+- [Data Visualisation, A practical introduction](https://socviz.co/) by {cite:ps}`Healy2018dataviz`
 - [Creating clear and informative image-based figures for scientific publications](https://doi.org/10.1371/journal.pbio.3001161) by {cite:ps}`Jambor2021dataviz`
 
 ### Other text resources and examples
 
-- [Data Visualization Course](https://exploratory-data-visualization.netlify.app/)
+- [Data Visualisation Course](https://exploratory-data-visualization.netlify.app/)
 - [Free visual and communication resources](https://padlet.com/evansemporiumstore/lks3aoyyhkpnkmpe)
 - [A collection of notebooks demonstrating plotting with matplotlib](https://github.com/KirstieJane/NH19-Visualization/)
 
 ### Videos
 
-- 5 minute videos on [Data visualization - Introduction and motivation](https://www.youtube.com/watch?v=7t2qYO2zEWQ) and [Figure design, design process, fundamentals](https://www.youtube.com/watch?v=WtYArH4EIRg)
+- 5 minute videos on [Data visualisation - Introduction and motivation](https://www.youtube.com/watch?v=7t2qYO2zEWQ) and [Figure design, design process, fundamentals](https://www.youtube.com/watch?v=WtYArH4EIRg)
 - [Create Effective Data Visualizations](https://youtu.be/jt-VdyFzjj0) (second part focuses primarily on Tableau)
 - [Data visualisation for scientific papers](https://www.youtube.com/playlist?list=PLWb8IFSVeQ62NbG-u4vQlh4srFcC2KH5g) videos by ReproducibiliTeach
 
