@@ -6,6 +6,11 @@
 This case study was adapted from the [BigCode Governance card](https://huggingface.co/datasets/bigcode/governance-card) in May 2023.
 :::
 
+```{admonition} Note
+:class: note
+This case study was adapted from the [BigCode Governance card](https://huggingface.co/datasets/bigcode/governance-card) in May 2023.
+```
+
 _Learn more about tools and best practices for data governance activities in the_ {ref}`Data Governance for the Machine Learning Pipeline <pd-dg-ml>` _chapter._
  
 [BigCode](https://www.bigcode-project.org/) is an open scientific collaboration working on the responsible development and use of large language models for code, aiming to empower the machine learning and open source communities through open governance.
