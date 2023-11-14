@@ -21,7 +21,7 @@ This negatively impacts the reader's experience as they go through the book.
 name: empty-toc-file
 alt: An empty file that was included in the Turing Way's Table of Contents. Readers can still navigate to empty files when they are included in the table of contents.
 ---
-Empty files included Turing Way's Table of Contents can still be accessed by readers.
+Empty files included in _The Turing Way's_ Table of Contents can still be accessed by readers.
 ```
 
 A general suggestion is to remove references to such files from the ToC and raise an issue in _The Turing Way_ Github [repo](https://github.com/the-turing-way/the-turing-way) for content to be written for those files.
@@ -100,7 +100,7 @@ The {ref}`style guide<ch-style-citing>` demonstrates how to add a new reference 
 Soft requirements that deal with _The Turing Way's_ structure include:
 
 (ch-consistency-structure-sr-summary)=
-### Check 1: Ensure each chapter has a good summary in their landing page
+### Check 1: Ensure each chapter has a good summary in its landing page
 
 A chapter with a good summary gives the reader an overview of the content that follows.
 Ideally, summaries should communicate the main idea of the chapter and identify any supporting detail, but be brief and precise.
@@ -116,4 +116,4 @@ Furthermore, very long content can be intimidating for other readers who may onl
 Therefore, to make  _The Turing Way_ easier to read, long chapters should be appropriately modularised.
 
 When keeping chapters modular, ensure that its subchapters only talk about one aspect of the overall topic.
-For example, if a chapter on Machine Learning was to be written for _The Turing Way_, such a chapter should contain at least three subchapters that each focus Supervised Learning, Unsupervised Learning, and Reinforcement Learning.
+For example, if a chapter on Machine Learning was to be written for _The Turing Way_, such a chapter should contain at least three subchapters that each focus on Supervised Learning, Unsupervised Learning, and Reinforcement Learning.

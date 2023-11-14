@@ -2,12 +2,12 @@
 
 # Your Gateway to Crowdsourced Localisation
 
-[Crowdin](https://crowdin.com/) editor is your friend.
-You can use it to change translation language, proofread, add comments for contributors, contact the managers, vote translations, view suggestions for translation from translation memory or find Machine Translation from Google, Crowdin, DeepL, and others.
+The [Crowdin](https://crowdin.com/) editor is your friend.
+You can use it to change translation language, proofread, add comments for contributors, contact the managers, vote on translations, view suggestions for translation from Translation Memory or find Machine Translation from Google, Crowdin, DeepL, and others.
 
-Once you click on any file, you will be directed to the comfortable mode in Crowdin crowdsourcing editor. 
-There are different modes and editors inside Crowdin but we will only go through comfortable mode and proofreader mode in Crowdin crowdsourcing editor.
-You can find more information about Crowdin Editor from the [documentation here](https://support.crowdin.com/enterprise/getting-started-for-translators/).
+Once you click on any file, you will be directed to the comfortable mode in the Crowdin crowdsourcing editor. 
+There are different modes and editors inside Crowdin but we will only go through comfortable mode and proofreader mode in the Crowdin crowdsourcing editor.
+You can find more information about the Crowdin Editor from the [documentation here](https://support.crowdin.com/enterprise/getting-started-for-translators/).
 
 The comfortable mode is divided into four sections:
 1. **Left Sidebar:** It contains all strings in the file that you will translate.
@@ -24,7 +24,7 @@ alt: The crowdin editor with four sections labelled from number 1-4.
 ---
 ```  
 
-As shown in the image below, the Middle-top area (3) is the main working area with the source string on the top, and the section where you can type in translations below. 
+As shown in the image above, the Middle-top area (3) is the main working area with the source string on the top, and the section where you can type in translations below. 
 Crowdin will show you suggestions for translation carried out using three different engines (Google Translate, Crowdin Translate, DeepL), which will show you several possible translations that you can further edit.
 
 ```{admonition} Add Translation Engine
@@ -40,11 +40,11 @@ Strings may have the following statuses:
 - ![icons](../../figures/icons/approved_icon.png) - Approved
 - ![icons](../../figures/icons/hidden_icon.png) - Hidden (visible only for project managers and proofreaders)
 
-An active string is highlighted with the yellow color but you can turn on/off color highlight of strings by clicking on ![icons](../../figures/icons/preview_filter.png) and  - show translation preview using ![icons](../../figures/icons/eye.png).
+An active string is highlighted with the yellow color but you can turn on/off color highlight of strings by clicking on ![icons](../../figures/icons/preview_filter.png) and show translation preview using ![icons](../../figures/icons/eye.png).
 
-Crowdin editor won't only show you suggestions of a translation made by the translation engine but also suggestions from translation in different projects that shared their translation memory (TM) with _The Turing Way_ and will be detected if the string is similar by 70%.
+Crowdin editor won't only show you suggestions of a translation made by the translation engine but also suggestions from translation in different projects that shared their Translation Memory (TM) with _The Turing Way_ and will be detected if the string is has a similarity above 70%.
 This avoids duplication of effort.
-If you would like to re-use our translation memory (TM) in your own open-source projects, feel free to contact our Translation and Localisation leads.  
+If you would like to re-use our Translation Memory (TM) in your own open-source projects, feel free to contact our Translation and Localisation leads.  
 
 ```{figure} ../../figures/translation-memory.*
 ---
@@ -55,9 +55,9 @@ alt: Translation_Memory suggesting a translation for a project which was carried
 ```  
 
 ```{important}
-We can re-use translation memory (TM) from projects translated inside and outside Crowdin (for example, TransLocalize, Crowdin, Transifex) or even that were translated manually from Google docs.
+We can re-use Translation Memory (TM) from projects translated inside and outside Crowdin (for example, TransLocalize, Crowdin, Transifex) or even that were translated manually from Google docs.
 
-Get in touch if you want to share the translation memory (TM) of a previously translated project.
+Get in touch if you want to share the Translation Memory (TM) of a previously translated project.
 ```
 
 ## Adding terms to the glossary
@@ -123,13 +123,13 @@ When you reach a satisfactory translation, click on Save.
 
 ## Adding Comments
 
-You can discuss the meaning of the source string or report the issues regarding the source strings in the comment tab (**Right sidebar**). 
+You can discuss the meaning of the source string or report issues regarding the source strings in the comment tab (**Right sidebar**). 
 You can also use `@` and the username to direct your message to a specific person. 
 You can point out if the current translation is wrong or if the translation lacks contextual information.
 The issues are reported to the project managers to correct mistakes or add context and resolve the issues.
 
 The terms that were added to the project glossary will be underlined in the source string. 
-You can check additional explanation added to the term for the accurate translation.
+You can check additional explanations added to the term to help with accurate translation.
 A project manager can also give you permission to add terms to the project glossary.
 
 # Embracing Global Accessibility through Localisation and Crowdsourcing
