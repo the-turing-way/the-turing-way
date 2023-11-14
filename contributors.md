@@ -90,7 +90,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
  * Project Delivery Team member, Research Project Manager (2023-Present)
  * Book Dash Organiser: 2023
 * Github id: [aleesteele](https://github.com/aleesteele)
-* ORCID: []()
+* ORCID: [0009-0008-6607-3815](https://orcid.org/0009-0008-6607-3815)
 
 * Short bio:
 > 
@@ -440,11 +440,10 @@ I also hope that it can convince people who don't consider themselves capable of
 
 ### Benjamin Mummery
 
-* Role:
- * Infrastructure Maintainer (2023 - present)
-* GitHub id: [bsipocz]([http://github.com/r-j-arnold](https://github.com/bsipocz))
-* ORCID: [0000-0002-3713-6337]([https://orcid.org/0000-0003-0355-0617](https://orcid.org/0000-0002-3713-6337))
- 
+* Role: Infrastructure Maintainer (2023 - present)
+* GitHub id: [bsipocz](https://github.com/bsipocz)
+* ORCID: [0000-0002-3713-6337](https://orcid.org/0000-0002-3713-6337)
+
 * Short bio:
 > While studying Astrophysics, Benjamin was the first speaker at, and later organizer of, Liverpool PubHD ([Facebook](https://www.facebook.com/pubhdliverpool/), [Twitter](https://twitter.com/pubhd_liverpool?lang=en-gb)) - a monthly cross-discipline event that challenged PhD students to "explain their research in 10 minutes, while enjoying a pint." During this time he also developed and delivered multiple more official outreach events including presenting to both the public and airforce commanders at [RAF Cosford Airshow](https://www.youtube.com/watch?v=KImlYiCO7Vs), and frequent activities for schools. Now a Research Software Engineer at the Hartree Centre, he has continued his engagement with outreach, most recently in collaboration with Tim Powell designing a LEGO version of the Centre's iconic supercomputer [Scafell Pike](https://twitter.com/HartreeCentre/status/1189145621564968963). He can frequently be found banging on about [fictional](https://www.youtube.com/watch?v=zrqfT4aotfE) [time travel](https://inews.co.uk/culture/film/donnie-darko-reviewed-astrophysicist-531742).
 
