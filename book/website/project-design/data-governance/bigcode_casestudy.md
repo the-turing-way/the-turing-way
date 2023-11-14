@@ -1,16 +1,16 @@
 (pd-dg-bigcode)=
 
-# Case Study: BigCode Data Governance
+# BigCode Data Governance Case Study
 
 ```{admonition} Info
 :class: info
 This case study was adapted from the [BigCode Governance card](https://huggingface.co/datasets/bigcode/governance-card) in May 2023.
-Learn more about tools and best practices for data governance activities in the_ {ref}`Data Governance for the Machine Learning Pipeline <pd-dg-ml>` chapter.
+Learn more about tools and best practices for data governance activities in the {ref}`Data Governance for the Machine Learning Pipeline <pd-dg-ml>` chapter.
 ```
  
-[BigCode](https://www.bigcode-project.org/) is an open scientific collaboration working on the responsible development and use of large language models for code, aiming to empower the machine learning and open source communities through open governance.
+[BigCode](https://www.bigcode-project.org/) is an open scientific collaboration working on the responsible development and use of large language models (LLM) for code, aiming to empower the machine learning and open source communities through open governance.
 Code LLMs enable the completion and synthesis of code, both from other code snippets and natural language descriptions, and can be used across a wide range of domains, tasks, and programming languages. 
-These models can, for example, assist professional and hobbyist developers with building new applications.
+These models can, for example, assist professionals and hobbyists with building new LLM applications.
 As part of BigCode, the team created the [StarCoder and StarCoderBase Large Language Models for Code](https://huggingface.co/blog/starcoder). 
 
 ## Data Collection and Management Plan
@@ -44,7 +44,7 @@ Selecting repositories based on licenses is only the first step, however, so thi
 * **Conditions for data accesss**: users are able to inspect the dataset via the [Dataset Card](https://huggingface.co/datasets/bigcode/the-stack#dataset-card-for-the-stack), but are required to agree to the Terms of Use for The Stack before being able to download it. This includes the requirements to 1) abide by the terms of original source code licenses, including attribution clauses when required (The Stack provides provenance information for each data point), 2) agree to update copies of The Stack to the most recent usable version specified [here](https://huggingface.co/datasets/bigcode/the-stack/discussions/7), and 3) include the Terms of Use and require users to agree to it if a copy is to be hosted, shared, or otherwise provided. As of May 3, 2023, The Stack had been downloaded 50,200 times.
 
 #### Data Opt-Out
-* **How a data subject request that their data be removed:** Developers that find that their data is in The Stack by using the [Am I In the Stack? website](https://huggingface.co/spaces/bigcode/in-the-stack) can use a custom link that automatically generates an issue in the BigCode opt-out repository for an official opt-out request. You can choose which repos you’d like to remove, as well as your commits and issues. After submitting the issue, your request is added to the queue for removal from all future iterations of The Stack. Additionally, anyone who is concerned about specific data they have encountered in The Stack, for example relating to PII, malicious code, or code that has an incorrect license or attribution can email contact@ bigcode-project.org. At the time of the data processing for the StarCoder model training, 44 people had opted out of The Stack and associated repositories were removed.
+* **How a data subject request that their data be removed:** Developers that find that their data is in The Stack by using the [Am I In the Stack? website](https://huggingface.co/spaces/bigcode/in-the-stack) can use a custom link that automatically generates an issue in the BigCode opt-out repository for an official opt-out request. You can choose which repos you’d like to remove, as well as your commits and issues. After submitting the issue, your request is added to the queue for removal from all future iterations of The Stack. Additionally, anyone who is concerned about specific data they have encountered in The Stack, for example relating to PII, malicious code, or code that has an incorrect license or attribution can email contact@bigcode-project.org. At the time of the data processing for the StarCoder model training, 44 people had opted out of The Stack and associated repositories were removed.
 
 ### Data Processing
 
