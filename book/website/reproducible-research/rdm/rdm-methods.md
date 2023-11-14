@@ -27,7 +27,7 @@ Electronic lab notebooks provide the following **functionalities**:
 * Templates for documenting standard procedures
 * Laboratory inventories for managing and documenting samples, reagents and apparatus
 * Collaboration tools for sharing experimental information
-* Some ELNS will allow you to comply with standards and regulations because of their certification processes
+* Some ELNs will allow you to comply with standards and regulations because of their certification processes
 
 ELNs also have their **limitations**: 
 
