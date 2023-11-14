@@ -21,7 +21,7 @@ This chapter includes:
 ## Repositories and FAIR
 
 Selecting an appropriate repository for your research outputs has many benefits:
-- it helps make your Research Objects more FAIR ({ref}`Findable, Accessible, Interoperable and Reusable<rr-rdm-fair>`). This is achieved through:
+- It helps make your Research Objects more FAIR ({ref}`Findable, Accessible, Interoperable and Reusable<rr-rdm-fair>`). This is achieved through:
     - Repositories assign a Persistent Identifier to your Research Objects, which makes them findable and citable (see {ref}`Citing Research Objects<cm-citable-cite>`.
 The most commonly used persistent identifiers for research objects is the Digital Object Identifier, usually abbreviated to DOI.
     - Repositories use metadata standards in describing your Research Object, which ensures that other people can find it using search engines.
