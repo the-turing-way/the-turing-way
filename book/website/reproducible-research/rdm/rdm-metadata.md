@@ -56,6 +56,20 @@ In this case, a text file with discipline specific metadata can be added as part
 
 Want to learn more about Metadata and Metadata Standards? Watch an [introduction video](https://commons.esipfed.org/node/1422).
 
+
+(rr-rdm-metadata-tagging)=
+## Tagging
+
+Tags are keywords assigned to files, and a way to add metadata to a file to organise them more flexibly.
+While a file can only be in one folder at a time, it can have an unlimited number of tags. 
+
+Some tips include:
+- Use short tag names (one or two words)
+- Be consistent with tags
+- Not all file formats allow tags, and when files are transferred tags may be stripped
+
+See [Tagging and Finding Your Files by MIT libraries]([url](https://libguides.mit.edu/metadataTools)) for more information. 
+
 (rr-rdm-metadata-resources)=
 ## Additional Resources
 - Videos on [Data Description](https://www.youtube.com/watch?v=sg3P_V8PIes) & [Documentation and Data Quality](https://www.youtube.com/watch?v=3ByfQWDcavg) from the [TU Delft Open Science MOOC](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/).
