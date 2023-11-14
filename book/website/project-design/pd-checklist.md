@@ -8,57 +8,57 @@ Finally, we can plan for publishing and sharing research components before, duri
 
 **Below is a checklist you can use to help identify areas of project planning you might want to look at.**
 
-### Aims & Values 
+## Aims & Values 
 * Define the main research questions and objectives.
 * Identify the core values and principles that guide your project.
 * Useful documentation: [project canvas](https://canvanizer.com/new/project-canvas), values document, [project 1-pagers](https://www.smartsheet.com/content/project-report-templates).
 
-### Timeline & Milestones 
+## Timeline & Milestones 
 * Establish a project timeline with key milestones, output, and deadlines.
 * Break down the project into manageable phases or tasks.
 * Useful documentation: [Gantt charts](https://clickup.com/blog/gantt-chart-project-templates/), [roadmaps](https://www.smartsheet.com/free-product-roadmap-templates-smartsheet), or [project boards](https://teamhood.com/project-management/project-board/).
 
-### Methodology
+## Methodology
 * Determine the appropriate research methods and materials.
 * Consider the necessary code and data requirements for your project.
 * Document the workflow for data collection, analysis, and interpretation.
 * Define data governance processes to ensure data is kept securely, used appropriately, and complies with data regulations in relevant countries/geographic areas. 
 * Useful documentation: [data management plan](rr-rdm-dmp), [code repository](pd-project-repo), [electronic lab notebooks](rr-open-notebooks), [Data Governance Chapter](pd-dg)
 
-### Operations 
+## Operations 
 * Confirm the budget and any funding policies you need to follow.
 * Establish ways of working and collaborative practices for the project team.
 * Identify roles and responsibilities within the project team, using the RACI (responsible, accountable, consulted, informed) matrix.
 * Complete any institutional processes for project setup, such as ethics approval or contract signing.
 * Useful documentation: [RACI matrix](https://project-management.com/understanding-responsibility-assignment-matrix-raci-matrix/), [risk register](https://asana.com/resources/risk-register), [project charter](https://www.projectmanager.com/blog/project-charter).
 
-### Stakeholders
+## Stakeholders
 * Identify all individuals, groups, or organizations that have an interest or influence in the project. This includes both internal and external stakeholders.
 * Create a visual representation or matrix to understand the relationships between stakeholders and the project. Map their level of engagement, influence, and interest at each stage of the project. This helps prioritise engagement efforts and tailor communication strategies accordingly.
 * Utilise the ["Facilitating Stakeholder Engagement"](cl-stakeholder-engagement) chapter for guidance and template resources.
 * Useful documentation: stakeholder register, stakeholder mapping, stakeholder analysis matrix, [personas](pd-persona).
 
-### Community
+## Community
 If you are intending to build a community for your project or to support participatory research, make a plan!
 * Contact communities from your stakeholder mapping and invite them to discusss the project and goals during planning.
 * Agree decision making processes for the project involving the community.
 * Plan contribution pathways for new participants, establish guidelines for new content, and how you will grow a sense of community.
 * Useful documentation: [Code of Conduct](ch-coc), [Contributing Guidelines](cl), [READMEs](https://the-turing-way.netlify.app/collaboration/github-novice/github-novice-firststeps.html?highlight=readmes), [governance documentation](er-ethics-open-source-governance), [Research Community Managers](cl-infrastructure-community-managers), [GitHub repo for Research Community Management resources](https://github.com/alan-turing-institute/open-research-community-management)
 
-### Outputs 
+## Outputs 
 * Plan for the different outputs of your research, such as publications, software, or datasets.
 * Consider licensing and copyright issues for sharing your outputs.
 * Determine how you will manage intellectual property and ownership rights using an IP register.
 * Remember to include any required reporting to funders.
 * Useful documentation: IP register, [licensing](rr-licensing) and copyright statement, [data management plan](rr-rdm-dmp).
 
-### Communications 
+## Communications 
 * Identify the target audience for your research.
 * Plan what you want to communicate to your audiences, when you want or need to share progress or results, and the best channels or mediums to do this.
 * Consider open and inclusive practices to involve stakeholders in decision-making.
 * Useful documentation: [The Turing Way Guide to Communication](cm-comms-overview), communication plan.
 
-### Maintenance & Archiving 
+## Maintenance & Archiving 
 * Develop a plan for the long-term maintenance and sustainability of your project.
 * Establish procedures for data management, including storage, backup, and access.
 * Consider archiving your project's artifacts and documentation for future reference.
