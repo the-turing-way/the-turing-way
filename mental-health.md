@@ -33,6 +33,21 @@
 > You may also use this collection of [royalty free images](https://www.manypixels.co/gallery/) hosted on ManyPixels.
 > Recommendations for using figures in _The Turing Way_ can be found in the [Style Guide](https://the-turing-way.netlify.app/community-handbook/style/style-figures.html).
 
+**Updated summary of proposed chapter**
+
+- Why is self care important. Mental health crisis in Research and data science.
+- Mental health is health. (check inclusivity chaps?).
+- Impostor syndrome. Continuous learning as a job.
+- Self-management based on CBT, values and SMART goals.
+- Learning to say no and prioritize your own time
+- How to balance the professional and personal life
+  - as a PhD student
+  - as a parent
+- Relaxing techniques that can be used at any moment: check resources list
+- Supporting people around you
+- Mentorship and project management styles as ways to keep tabs on mental health
+- Mental health as a manager/organisatio
+
 (sectioninitials-filename-motivation)=
 ## Motivation and Background
 
