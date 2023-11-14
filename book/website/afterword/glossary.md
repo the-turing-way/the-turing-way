@@ -130,7 +130,7 @@ CRediT Taxonomy
 ```{glossary}
 
 Data repository
-    A storage place on the internet where resources (data, software, publications or anything else) can be stored and accessed. Often Data repositories provide long term preservation and persistent identifiers for the research objects stored. A data repository is the container for data and metadata, whereas a database is the structure that is used to store and manage that data.
+    A storage place on the internet where resources (data, software, publications or anything else) can be stored and accessed. Often data repositories provide long term preservation and persistent identifiers for the research objects stored. A data repository is the container for data and metadata, whereas a database is the structure that is used to store and manage that data.
 
 Differential privacy
   A strategy to provide quantifiable privacy guarantees when working with datasets containing personal information. The idea is that if the effect of making a single arbitrary substitution of a single record within the dataset on an aggregated query is below a specific threshold, then the result of any such query would not reveal substantial information about any individual member.
