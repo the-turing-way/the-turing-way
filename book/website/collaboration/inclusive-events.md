@@ -34,6 +34,6 @@ It covers:
 Every person should have the opportunity to participate fully and equally in all events and social activities – regardless of their individual ability, gender, age, ethnic or social background. 
 This chapter is meant to serve as a resource to support and guide our community members with the tools to identify the opportunities and challenges in upholding this, and to approach event planning and design with accessibility and inclusion in mind.
 
-Because both internal resources and the events you run can range in size - from from small meetings to massive multi-day conferences - this chapter is not an exhaustive list and instead is meant to provide general guidance about how to design events that are inclusive for people with lived experience. 
+Because both internal resources and the events you run can range in size - from small meetings to massive multi-day conferences - this chapter is not an exhaustive list and instead is meant to provide general guidance about how to design events that are inclusive for people with lived experience. 
 
 Please review and adapt the suggestions made by this chapter to align your event with the needs of your specific community and attendees. 
