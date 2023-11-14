@@ -16,7 +16,7 @@ You can find open and restricted datasets by conducting searches of the metadata
 You can find data via:
 * Direct browsing of discipline-specific and multidisciplinary repositories such as Zenodo, Open Science Framework, Figshare. 
     * Search for discipline-specific data repositories on [Re3data](https://www.re3data.org/), [FAIRsharing](https://fairsharing.org/) or look at this list of [data repositories](https://oad.simmons.edu/oadwiki/Data_repositories).
-    * See {ref}Data Repositories <rr-rdm-repository> for more information
+    * See {ref}`Data Repositories <rr-rdm-repository>` for more information.
 * Search in data journals and research articles - you can start by looking at our {ref}`Chapter on Data Articles<rr-rdm-article>`.
 * Use your network to find datasets.
 * Use specific data search tools:
