@@ -1,7 +1,10 @@
 (pd-dg-bigcode)=
 
 # Case Study: BigCode Data Governance
-_This case study was adapted from the [BigCode Governance card](https://huggingface.co/datasets/bigcode/governance-card) in May 2023._
+
+:::{note}
+This case study was adapted from the [BigCode Governance card](https://huggingface.co/datasets/bigcode/governance-card) in May 2023.
+:::
 
 _Learn more about tools and best practices for data governance activities in the_ {ref}`Data Governance for the Machine Learning Pipeline <pd-dg-ml>` _chapter._
  
@@ -15,10 +18,10 @@ As part of BigCode, the team created the [StarCoder and StarCoderBase Large Lang
 ### Overview 
 The primary training dataset used for the BigCode project is The Stack, which was obtained by gathering public code files, issues, and commits from GitHub. 
 For more information on The Stack dataset, visit [this page](https://huggingface.co/datasets/bigcode/the-stack) to request access and view the dataset card.
-To collect Github repositories, we first extracted a list of repositories from [GHArchive](https://www.gharchive.org/) and subsequently cloned all of them using a large CPU cluster. 
+To collect Github repositories, they first extracted a list of repositories from [GHArchive](https://www.gharchive.org/) and subsequently cloned all of them using a large CPU cluster. 
 We also used the data from GHArchive to extract the Github issues. 
 The git commits were gathered from a public BigQuery service. 
-Additionally, we collected a dataset of annotations of several kinds of private information on a subset of The Stack to support our privacy risk mitigation efforts.
+Additionally, they collected a dataset of annotations of several kinds of private information on a subset of The Stack to support our privacy risk mitigation efforts.
 
 The legal basis for data collection under fair use and with regards to GDPR and the corresponding case law are still evolving. 
 In this context, the data collection and data management plans were carefully crafted with support from leading experts in the open source and legal tech community that participated in the Legal, Ethics, Governance Working Group in a best-effort approach to reflect current understandings of legal requirements for data collection and management.
@@ -31,8 +34,8 @@ The StarCoder model was trained on The Stack v1.2, which exclusively contains 6.
 Selecting repositories based on licenses is only the first step, however, so this approach is complemented by also giving repository owners the ability to opt out of having their repositories included in The Stack, described further in the Data Management & Opt-out section.
 * **Data selection**: One of the goals of BigCode is to give developers agency over their source code and let them decide whether or not it can be used to develop and evaluate LLMs. Software developers typically rely on licenses to express how they want their work to be re-used; in particular, developers who choose Open Source licenses often do so because they want their code to be broadly re-used. This motivated us to start by selecting data from repositories that met the following criteria
   * The repository has an open source license attached - open source, while chosen for very different reasons by different people, typically indicates a willingness to have one's work reused or adapted
-  * The license does not have an attribution clause - attribution is a difficult technical problem for code LLMs. Since we cannot guarantee that the model will be used in a way that attributes its generations to specific training data in a way that satisfies the intent of the licensor, we chose to only keep licenses without an attribution clause
-* **Data updates**: For as long as we are maintaining The Stack dataset, we will provide regular updates to the dataset to remove data that has been flagged since the last version. This includes data that has been opted out, and data that was flagged as containing PII, malicious code or using a non-permissive license since the previous release. The current plan is to update the dataset every 3 months, although the schedule may change based on the volume of requests received. If we are not in a position to continue maintaining the dataset, we plan to stop distributing it in its current format and update its terms of use to limit its range of applications further.
+  * The license does not have an attribution clause - attribution is a difficult technical problem for code LLMs. Since they cannot guarantee that the model will be used in a way that attributes its generations to specific training data in a way that satisfies the intent of the licensor, they chose to only keep licenses without an attribution clause
+* **Data updates**: For as long as they are maintaining The Stack dataset, they will provide regular updates to the dataset to remove data that has been flagged since the last version. This includes data that has been opted out, and data that was flagged as containing PII, malicious code or using a non-permissive license since the previous release. The current plan is to update the dataset every 3 months, although the schedule may change based on the volume of requests received. If they are not in a position to continue maintaining the dataset, they plan to stop distributing it in its current format and update its terms of use to limit its range of applications further.
 
 ### Data Management & Opt-Out
 
@@ -47,11 +50,11 @@ Selecting repositories based on licenses is only the first step, however, so thi
 
 One significant concern with respect to privacy was the risk that the code LLM may generate private information found in its training data, including private tokens or passwords matched with identifiers or email addresses. 
 Additionally, while users can (and have) requested that data be removed from The Stack dataset because it contains personal data, removing specific information from trained model weights after the fact remains an open technical challenge. 
-In order to minimize this risk, we chose to apply automated PII redaction at the pre-processing stage during training.
+In order to minimize this risk, they chose to apply automated PII redaction at the pre-processing stage during training.
 
 The PII redaction process consisted of the following steps:
-* **Creating an annotated dataset for PII:** we found that neither regular expression-based approaches nor existing commercial software for PII detection met our performance requirements. In doing so, we aimed to balance the constraints of costs (fair compensation), time (the timing and time to complete the work was on the critical path for the project), and quality (to ensure that PII Detection Model training was not impacted). 
-* **Collaborating with crowd-workers in a responsible way:** While traditional data annotation services using salaried employees were considered, we decided to work with crowd-workers through Toloka after reviewing several service providers and their compensation practices - and finding that most would not provide sufficient transparency and guarantees about worker compensation. We selected pay and eligible countries of crowd-workers to ensure that:
+* **Creating an annotated dataset for PII:** they found that neither regular expression-based approaches nor existing commercial software for PII detection met our performance requirements. In doing so, they aimed to balance the constraints of costs (fair compensation), time (the timing and time to complete the work was on the critical path for the project), and quality (to ensure that PII Detection Model training was not impacted). 
+* **Collaborating with crowd-workers in a responsible way:** While traditional data annotation services using salaried employees were considered, they decided to work with crowd-workers through Toloka after reviewing several service providers and their compensation practices - and finding that most would not provide sufficient transparency and guarantees about worker compensation. We selected pay and eligible countries of crowd-workers to ensure that:
   * Absolute hourly wage was always higher than the US federal minimum wage ($7.30)
   * Hourly wage was equivalent to the highest state minimum wage in the US in terms of purchasing power parity ($16.50 at the time of writing)
 * **Training a PII detection model:** We engaged 1,399 crowd-workers across 35 countries in annotating a diverse dataset for PII in source code. Our PII detection model, trained on 22,950 secrets, achieves 90% F1 score surpassing regex-based tools, especially for secret keys. The PII annotations are available to approved individuals, and researchers and developers that are granted access are expected to uphold ethical standards and data protection measures. By making it accessible, our aim is to encourage further research and development of PII redaction technology.
