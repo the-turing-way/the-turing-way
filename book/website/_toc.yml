@@ -275,6 +275,8 @@ parts:
                 file: project-design/pd-overview/pd-overview-version
               - title: Sharing Your Research Work
                 file: project-design/pd-overview/pd-overview-sharing
+          - title: Project Design Checklist
+            file: project-design/pd-checklist
           - title: Creating Project Repositories
             file: project-design/project-repo
             sections:

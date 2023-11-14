@@ -80,7 +80,8 @@ We recommend reading the following chapters to understand effective communicatio
 - {ref}`<>`
 - {ref}`<>`
 -->
-
+<!--
+(this section moved to one of the landing pages instead) 
 (pd-overview-repro-mistakes)=
 ## Bonus Section: Learning from Mistakes
 
@@ -109,6 +110,7 @@ We asked a group of researchers to share what they consider their project design
 - Going with options that team members are ‘comfortable’ with (for example, using outdated languages or platform-dependent compilers), rather than teaching team members new skills. Makes life more difficult in the long run.
 - Defining governance at different stages of the project or potential scenario planning for how governance might change as the project scales up/down/gains new users and so on.
 - Not thinking about community from the start, starting with a Code of Conduct, thinking about a Contributor License Agreement (intellectual property), what processes will be used and how they will work, how they will impact future contributors and the overall project.
+-->
 
 ### Preparing for Change
 
@@ -116,7 +118,7 @@ We asked a group of researchers to share what they consider their project design
 **I work alone, do I need to think about project design?**
 
 The short answer is 'yes'.
-The project design will allow you to manage your work well for yourself (see the section: {ref}`Getting Started<pd-overview-planning-started>`).
+The project design will allow you to manage your work well for yourself (see the section: {ref}`Getting Started Checklist<pd-checklist>`).
 
 A little work and time investment early on in project design saves a lot of time later when any circumstances arise that demand change.
 ```
