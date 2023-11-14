@@ -11,7 +11,7 @@ Finally, we can plan for publishing and sharing research components before, duri
 ## Aims & Values 
 * Define the main research questions and objectives.
 * Identify the core values and principles that guide your project.
-* Useful documentation: [project canvas](https://canvanizer.com/new/project-canvas), values document, [project 1-pagers](https://www.smartsheet.com/content/project-report-templates).
+* Useful documentation: [project canvas](https://canvanizer.com/new/project-canvas), [values document](https://rebelsguidetopm.com/what-are-your-project-values/), [project 1-pagers](https://www.smartsheet.com/content/project-report-templates).
 
 ## Timeline & Milestones 
 * Establish a project timeline with key milestones, output, and deadlines.
@@ -28,15 +28,15 @@ Finally, we can plan for publishing and sharing research components before, duri
 ## Operations 
 * Confirm the budget and any funding policies you need to follow.
 * Establish ways of working and collaborative practices for the project team.
-* Identify roles and responsibilities within the project team, using the RACI (responsible, accountable, consulted, informed) matrix.
+* Identify roles and responsibilities within the project team, using the RACI (responsible, accountable, consulted, informed) matrix or the MOCHA (manager, owner, consulted, helper, approver) matrix.
 * Complete any institutional processes for project setup, such as ethics approval or contract signing.
-* Useful documentation: [RACI matrix](https://project-management.com/understanding-responsibility-assignment-matrix-raci-matrix/), [risk register](https://asana.com/resources/risk-register), [project charter](https://www.projectmanager.com/blog/project-charter).
+* Useful documentation: [RACI matrix](https://project-management.com/understanding-responsibility-assignment-matrix-raci-matrix/), [MOCHA matrix](https://www.managementcenter.org/resources/assigning-responsibilities/#main), [risk register](https://asana.com/resources/risk-register), [project charter](https://www.projectmanager.com/blog/project-charter).
 
 ## Stakeholders
 * Identify all individuals, groups, or organizations that have an interest or influence in the project. This includes both internal and external stakeholders.
 * Create a visual representation or matrix to understand the relationships between stakeholders and the project. Map their level of engagement, influence, and interest at each stage of the project. This helps prioritise engagement efforts and tailor communication strategies accordingly.
 * Utilise the ["Facilitating Stakeholder Engagement"](cl-stakeholder-engagement) chapter for guidance and template resources.
-* Useful documentation: stakeholder register, stakeholder mapping, stakeholder analysis matrix, [personas](pd-persona).
+* Useful documentation: stakeholder register, stakeholder map, stakeholder analysis matrix, [personas](pd-persona).
 
 ## Community
 If you are intending to build a community for your project or to support participatory research, make a plan!
