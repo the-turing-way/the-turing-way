@@ -18,7 +18,7 @@ This is followed by short summaries of works on cultural change, written by Adri
 ```{figure} ../../figures/culture-shift.*
 ---
 name: culture shift
-alt: "The cartoon says that it is time for a cultural shift: we should value reproducibility as much as the amount of papers published. To illustrate this a scale is depicted, with on the one side a lot of objects, and on the other side only two objects with a shiny star on them. Both side weigh equally."
+alt: A black, white, and purple cartoon of scales. On the one side are a lot of objects, with a person buried under the pile and peering out, and on the other side only two objects with a shiny star on them, and someone standing next to them with a smile. Both sides weigh equally. The text says 'time for a cultural shift, we should value reproducibility as much as the amount of papers published.'
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.8169292](https://doi.org/10.5281/zenodo.8169292).
 ```
