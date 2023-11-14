@@ -232,7 +232,7 @@ This can then act to further empower other attendees with lived experience to be
 (cl-inclusive-events-event-descriptions)=
 ### Providing Event Descriptions
 Consider including a description of your intended audience and any expertise requirements in your session information. 
-Ensure that these session descriptions, the program, and any organisational information are written using Plain Language. 
+Ensure that these session descriptions, the program, and any organisational information are written using [{Plain Language}`def<Plain Language>`] that is able to be understood by your audience. 
 
 Include session descriptions in the program of events. This description should include:
 - a short and clear title of the session or event
