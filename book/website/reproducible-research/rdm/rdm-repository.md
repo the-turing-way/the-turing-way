@@ -152,7 +152,7 @@ Each *component* has its own wiki that allows to add reach documention on multip
 ### Additional OSF resources
 
 - [Introduction to OSF](https://vimeo.com/668636108) by Dr Amy Gillespie 
-- [Collaborating, sharing, and preregistering through OSF](https://www.youtube.com/watch?v=48Xy62spsLI)
+- [Collaborating, sharing, and preregistering through OSF](https://www.youtube.com/watch?v=48Xy62spsLI) by Anita Eerland.
 
 (rr-rdm-repository-resources)=
 ## Additional Repository Resources
