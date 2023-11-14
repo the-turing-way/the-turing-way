@@ -44,7 +44,7 @@ Supplemental materials are not following the FAIR principles - as there is no se
 Next to supplemental materials not being aligned with the FAIR principles, there are other reasons why a data repository is a better solution: 
 
 - Data control: supplementary materials cannot be updated, unlike materials available at data repositories.
-- Interoperability: If publishers only allow text and PDF formats it hampers data sharing and it will be difficult to reuse the data
+- Interoperability: If publishers only allow text and PDF formats it hampers data sharing and it will be difficult to reuse the data.
 - Availability: supplementary materials are difficult to access if the article is behind the paywall, and links to supplementary materials can break (since they do not have their own persistent identifier)
 - Impact: Data and code should be a primary research output instead of being hidden in the supplementary materials
 - Publisher requirements: Some publishers recommend using a data repository instead.
