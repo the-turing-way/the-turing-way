@@ -38,7 +38,7 @@ This was because medical appointments had often been scheduled after an event's 
 ```
 
 Ensure that any email address you send invitations from is able to contact your attendees (and not flagged as a spam email account). 
-You may suggest that attendees add your event's core email address to a list of trusted senders, or you can also ask for feedback from attendees leading up to an event which allows you to identify if your emails have been recieved. 
+You may suggest that attendees add your event's core email address to a list of trusted senders, or you can also ask for feedback from attendees leading up to an event, which allows you to identify if your emails have been received. 
 
 ### Reaching attendees without email access
 Your event may engage communities and people with lived experience who have barriers to accessing email or the internet regularly. 
