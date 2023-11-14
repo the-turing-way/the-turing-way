@@ -91,4 +91,4 @@ By default, regular messages on X are visible to the whole world, including (via
 * Subtweeting — Tweeting about somebody without explicitly mentioning their handle, so that they are not informed of your comment.
 * Thread — A series of tweets on one subject, for instance, ten tweets about a new research paper.
 * Timeline — The tweets from the people you follow.
-* X Pro — App formallly called Tweetdeck available to paid subscribers that can be used to tweet and run multiple accounts.
+* X Pro — App formerly called Tweetdeck available to paid subscribers that can be used to tweet and run multiple accounts.
