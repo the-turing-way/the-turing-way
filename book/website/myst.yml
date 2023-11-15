@@ -328,7 +328,7 @@ project:
               title: Sharing Your Research Work
         - file: project-design/project-management-methodologies/overview.md
           title: Project Management Methodologies
-        - caption: Project Setup and Organisation
+        - title: Project Setup and Organisation
           children:
             - file: project-design/pd-checklist.md
               title: Project Design Checklist
