@@ -30,9 +30,9 @@ jobs:
         crowdin_project_link: https://turingway.crowdin.com/turing-way
 
       env:
-        CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
+        CROWDIN_PROJECT_ID: 1
         CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
-        CROWDIN_ORGANIZATION: ${{ secrets.CROWDIN_ORGANIZATION }} # Optional. Only for Crowdin Enterprise
+        CROWDIN_ORGANIZATION: turingway # Optional. Only for Crowdin Enterprise
 
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v4
