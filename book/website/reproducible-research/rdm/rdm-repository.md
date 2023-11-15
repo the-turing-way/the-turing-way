@@ -146,7 +146,7 @@ Project metadata fields include at Title, Description, License, Tags and Persist
 It is possible to add more metadata into the project Wiki or submit in form of a separate file.
 - It is possible to add license to a project to specify how others are allowed to copy, distribute, and make use of this work. 
 - OSF provides detailed landing pages to document projects.
-Each *component* has its own wiki that allows to add reach documention on multiple levels.
+Each *component* has its own wiki that allows to add reach documentation on multiple levels.
 - File formats are not limited by OSF; it is your decision which format to use to make your project future proof. 
 
 ### Additional OSF resources
