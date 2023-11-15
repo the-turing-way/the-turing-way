@@ -19,7 +19,7 @@ Open Education is rooted in the human right to access high-quality education.
     - Easier to collaborate, participate and share resources.
 - **Reduces duplication of effort**: If an educator needs materials for teaching and they can access open materials, then they need not make their own from scratch, thereby saving time.
 - Is generally **more accessible** due to the use of open formats compared to proprietary formats in which files cannot be changed. 
-    - Formats like Microsoft docx require access to Microsoft Word, whereas open formats such as RTF and HTML work with a variety of software. 
+    - Formats like Microsoft docx are proprietary, so preference should be given to open formats such as ODT and HTML work with a variety of software. 
     - While .pdf is an open format, it is also more closed in the sense that it is difficult to edit compared to formats such as RTF and HTML. 
     - Accessibility is not guaranteed! 
 Learn more about how to improve the accessibility of your resources: 
