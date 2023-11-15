@@ -61,9 +61,12 @@ Fully open OERs comply with the [5 Rs](http://opencontent.org/definition/):
 ## How to set up OERs? 
 
 1. Choose a platform.
-2. Collect resources under an open license (see [Attribution & Fair Use: Copyright in Open Education](https://www.youtube.com/watch?v=jGTUHdadqJU) and {ref}`Licensing data section<rr-licensing-data>` for more information).
-3. Ask for feedback.
-4. Share and promote your resources.
+2. Collect resources under an open license
+    - see [Attribution & Fair Use: Copyright in Open Education](https://www.youtube.com/watch?v=jGTUHdadqJU),
+    - [Copyright ownership in higher education and potential implications for Open Education](https://doi.org/10.17161/jcel.v5i1.14946) by {cite:ps}`Gumb2022oer`,
+    - and {ref}`Licensing data section<rr-licensing-data>` for more information.
+4. Ask for feedback.
+5. Share and promote your resources.
 
 See also a short video on '[Creating Open Educational Resources: Tips for New Creators](https://www.youtube.com/watch?v=DV-HiWtMq1U)' and '[A Guide to Making Open Textbooks with Students](https://press.rebus.community/makingopentextbookswithstudents/)'
 
@@ -76,9 +79,12 @@ See also a short video on '[Creating Open Educational Resources: Tips for New Cr
 (cm-open-education-resources)=
 # Resources
 - [SPARC Open Education Leadership Program curriculum](https://sparcopen.org/our-work/open-education-leadership-program/curriculum/)
+- [The OER Starter Kit ](https://iastate.pressbooks.pub/oerstarterkit/)
 - [Open Education Group](https://openedgroup.org/)
 - [Open Education Network](https://open.umn.edu/oen/)
+- [Open Educational Resources](https://www.surrey.ac.uk/library/open-research/open-educational-resources) by the University of Surrey
 - Webinar on '[Creating and Sharing Open Educational Resources (OER)](https://www.youtube.com/watch?v=6JgoUbED4rM)'
+- Webinar on '[Another Kind of Open: exploring the benefits and barriers to the creation and use of open educational resources](https://www.youtube.com/watch?v=Mc7eV4gHA_0)' 
 - [Podcast interview with Nicole Allen](https://leadinglinespod.com/episodes/episode-029-nicole-allen/)
 - Video Session on '[Open Education Through an Ethics of Care & Justice](https://www.youtube.com/watch?v=i74KEAJnoPY)'
 - Book 'Teaching to transgress' by bell hooks. 
