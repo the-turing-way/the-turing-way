@@ -62,9 +62,10 @@ Fully open OERs comply with the [5 Rs](http://opencontent.org/definition/):
 
 1. Choose a platform.
 2. Collect resources under an open license
-    - see [Attribution & Fair Use: Copyright in Open Education](https://www.youtube.com/watch?v=jGTUHdadqJU),
-    - [Copyright ownership in higher education and potential implications for Open Education](https://doi.org/10.17161/jcel.v5i1.14946) by {cite:ps}`Gumb2022oer`,
-    - and {ref}`Licensing data section<rr-licensing-data>` for more information.
+   For more information, see:
+    - [Attribution & Fair Use: Copyright in Open Education](https://www.youtube.com/watch?v=jGTUHdadqJU)
+    - [Copyright ownership in higher education and potential implications for Open Education](https://doi.org/10.17161/jcel.v5i1.14946) by {cite:ps}`Gumb2022oer`
+    - and {ref}`Licensing data section<rr-licensing-data>`
 4. Ask for feedback.
 5. Share and promote your resources.
 
