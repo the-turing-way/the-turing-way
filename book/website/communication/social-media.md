@@ -41,7 +41,7 @@ Below we also offer a brief overview of the most popular general social media si
 
 ### X (formerly Twitter)
 
-* They have 353 million monthly active users.
+* They have 393 million monthly active users as of September 2023 {cite:ps}`Hays2023twitter`.
 * It is less formal than other platforms and very popular with academic audiences.
 * Character limit is only 280 unless you pay for X Premium, but you can join tweets in threads.
 * You can tag others in your tweets or photos.
@@ -51,7 +51,7 @@ Below we also offer a brief overview of the most popular general social media si
 
 ### LinkedIn
 
-* They have 250 million monthly active users.
+* They have 930 million monthly active users as of February 2023 {cite:ps}`Aslam2023linkedin`.
 * It is a more formal and professional communication channel than X and Facebook.
 * Character limit is larger than X at 63,206.
 * You can tag others in your posts.
@@ -63,7 +63,7 @@ Below we also offer a brief overview of the most popular general social media si
 
 ### Facebook
 
-* They have 2.8 billion monthly active users.
+* They have 3.03 billion monthly active users as of June 2023 {cite:ps}`Meta2023facebook`.
 * Character limit the same as LinkedIn at 63,206.
 * You can add tags to other users.
 * You can add links, photos (size 1200 x 628 pixels) and videos (up to 240 minutes and max 4GB size file) to your posts.
@@ -73,7 +73,7 @@ So it's not the best platform for professional organisations.
 
 ### Instagram
 
-* They have 1.2 billion monthly active users.
+* They have 2 billion monthly active users as of December 2021 {cite:ps}`Rodriguez2023instagram`.
 * Character limit is 2,200.
 So larger than X but less than Facebook and LinkedIn.
 * You can add tags to other users.
