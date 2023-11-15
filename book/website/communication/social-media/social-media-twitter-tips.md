@@ -28,7 +28,7 @@ Therefore, think carefully about the language you use, avoid jargon and subject-
 
 **4. Add subject-specific hashtags**
 
-* Unless you're paying for X Premium you#ll only have 280 characters, so using hashtags to link to different groups of interest is an important way to get your message out there.
+* Unless you're paying for X Premium you'll only have 280 characters, so using hashtags to link to different groups of interest is an important way to get your message out there.
 * Tweets with hashtags can increase engagement by almost 100% for individuals.
 * There are also regular hashtags for each day of the week, for example, #MondayMotivation or #FridayFeeling.
 
