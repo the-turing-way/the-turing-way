@@ -8,7 +8,7 @@ This section outlines guidance, requirements, and considerations for ensuring th
 ## Content Accessibility Guidance 
 Ensuring that event communications, including printed content, are accessible to all attendees is critical.
 
-Please review the following reccomendations and ensure that any material you have designed for your event meets the accessibility requirements of your atendees. 
+Please review the following recommendations and ensure that any material you have designed for your event meets the accessibility requirements of your atendees. 
 
 #### Use a size 14 (or larger) font for both digital and printed content.
 - A size 14 font is the recommended size to make text information legible for a broad audience and support people with lived experience of visual impairments, and other conditions that affect readability.
