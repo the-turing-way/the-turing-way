@@ -33,6 +33,8 @@ Please review the following recommendations and ensure that any material you hav
 ### Provide Alt-text (Alternative Text) descriptions for online images in your content.
 - This is helpful for people with visual impairments that use screen readers, and is also helpful for people with low bandwidth internet where images may not load on a page.
 
+### Avoid blinking or flashing that could cause seizures. 
+- Some people find certain motions or animations to be highly distracting, and some people may even become sick from them. Therefore, consider if the motion is necessary and if it will make the material easier to understand.
 #### Use the style and formating tool in text editors for headings.
 - Font size by itself is not detectable by screen readers. Instead use the heading and title style tools in programs such as Microsoft Word, and Google Docs. 
 
