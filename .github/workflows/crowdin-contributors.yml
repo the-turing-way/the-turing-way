@@ -1,0 +1,44 @@
+name: Crowdin Contributors Action
+
+on:
+  schedule:
+    - cron: '0 0 * * 1' # 'https://crontab.guru/#0_0_*_*_1'
+  # To manually run this workflow
+  workflow_dispatch:
+
+jobs:
+  crowdin-contributors:
+
+    runs-on: ubuntu-latest
+    # This environment contains secrets specific to crowdin and only workflows
+    # listing this environment can use them
+    environment: crowdin
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: Generate Crowdin Contributors table
+      uses: andrii-bodnar/action-crowdin-contributors@v1.0.1
+      with:
+        contributors_per_line: 5
+        max_contributors: 10000
+        image_size: 100
+        min_words_contributed: 1
+        include_languages: true
+        placeholder_start: <!-- CROWDIN-CONTRIBUTORS-LIST:START -->
+        placeholder_end: <!-- CROWDIN-CONTRIBUTORS-LIST:END -->
+        crowdin_project_link: https://turingway.crowdin.com/turing-way
+
+      env:
+        CROWDIN_PROJECT_ID: 1
+        CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+        CROWDIN_ORGANIZATION: turingway
+
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v4
+      with:
+        title: Update Crowdin Contributors table
+        body: By [action-crowdin-contributors](https://github.com/andrii-bodnar/action-crowdin-contributors) GitHub action
+        commit-message: Update Crowdin Contributors table
+        committer: Crowdin Bot <support+bot@crowdin.com>
+        branch: crowdin-contributors/patch

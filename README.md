@@ -46,12 +46,18 @@ These chapters have been co-authored by contributors who are students, researche
 
 **Table of Contents:**
 
-- [About the project](#about-the-project)
-- [The Team](#the-team)
-- [Contributing](#contributing)
-- [Citing _The Turing Way_](#citing-the-turing-way)
-- [Get in touch](#get-in-touch)
-- [Contributors](#contributors)
+- [_The Turing Way_](#the-turing-way)
+    - [About the Project](#about-the-project)
+    - [The Team](#the-team)
+    - [Contributing](#contributing)
+    - [Citing _The Turing Way_](#citing-the-turing-way)
+    - [Citing _The Turing Way_ Illustrations](#citing-the-turing-way-illustrations)
+    - [Get in Touch](#get-in-touch)
+      - [Email](#email)
+      - [Chat](#chat)
+      - [Receive Updates](#receive-updates)
+  - [Contributors](#contributors)
+  - [CROWDIN CONTRIBUTORS](#crowdin-contributors)
 
 🎧 If you prefer an audio introduction to the project, our team member Rachael presented at the [Open Science Fair 2019](https://www.opensciencefair.eu/) in Porto and her demo was recorded by the [Orion podcast](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
 _The Turing Way_ overview starts at minute 5:13.
@@ -768,10 +774,19 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tbody>
 </table>
 
+
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## CROWDIN CONTRIBUTORS
+<!-- CROWDIN-CONTRIBUTORS-LIST:START -->
+
+<!-- CROWDIN-CONTRIBUTORS-LIST:END -->
+
+
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
 Contributions of any kind welcome!
