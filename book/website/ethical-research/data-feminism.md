@@ -29,7 +29,7 @@ Here are some key aspects discussed within the chapter:
 In summary, data feminism is **not just a theoretical framework but a practice** that seeks to reshape how data is collected, analysed and used, focusing on equity, justice and dismantling traditional power structures.
 
 
-(sectioninitials-filename-motivation)=
+(er-data-feminism-motivation)=
 ## Motivation and Background
 Data feminism is rooted in the rich history of [feminist activism](https://data-feminism.mitpress.mit.edu/pub/frfa9szd#dyqlckz6ws) and critical theory; it challenges the status quo in data practices by advocating for inclusivity and intersectionality. 
 
