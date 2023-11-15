@@ -10,7 +10,7 @@
 | [Managing Sensitive Data Projects](https://the-turing-way.netlify.app/project-design/sdpm) | Helpful | Beginner | Tips on managing sensitive data.|
 
 
-(sectioninitials-filename-summary)=
+(er-data-feminism-summary)=
 ## Summary
 > 💡 This chapter was written based on the book, [Data Feminism](https://data-feminism.mitpress.mit.edu/) by Catherine D'Ignazio and Lauren F. Klein. 
 
