@@ -267,7 +267,7 @@ parts:
             sections:
               - title: Planning for Project Design
                 file: project-design/pd-overview/pd-overview-planning
-              - title: Communication and Collaboration
+              - title: Collaborative project documentation
                 file: project-design/pd-overview/pd-overview-repro
               - title: Reproducibility Methods
                 file: project-design/pd-overview/pd-overview-methods
@@ -275,6 +275,8 @@ parts:
                 file: project-design/pd-overview/pd-overview-version
               - title: Sharing Your Research Work
                 file: project-design/pd-overview/pd-overview-sharing
+          - title: Project Design Checklist
+            file: project-design/pd-checklist
           - title: Creating Project Repositories
             file: project-design/project-repo
             sections:
@@ -354,6 +356,8 @@ parts:
             sections:
               - title: Data Governance for the Machine Learning Pipeline
                 file: project-design/data-governance/data-gov-ml
+              - title: BigCode Data Governance Case Study
+                file: project-design/data-governance/bigcode_casestudy
 
       # ===== Guide for Communication ========================================
 
