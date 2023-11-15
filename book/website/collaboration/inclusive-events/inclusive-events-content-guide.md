@@ -13,7 +13,7 @@ Please review the following reccomendations and ensure that any material you hav
 #### Use a size 14 (or larger) font for both digital and printed content.
 - A size 14 font is the recommended size to make text information legible for a broad audience and support people with lived experience of visual impairments, and other conditions that affect readability.
 
-#### Use a Sans Serif font such as Arial, Helvetica, or Georgia.
+#### Use a Sans Serif font such as Arial, Tahoma, Verdana, Helvetica or Monserrat.
 - "Sans Serif" refers to fonts that do not have embellishments or lines on the letters.
 - Using a *Serif* font such as Times New Roman can negatively impact readability and make it harder for people with dyslexia to read information. 
 - Using a *Sans Serif* font is especially important for online content such as emails and websites.
