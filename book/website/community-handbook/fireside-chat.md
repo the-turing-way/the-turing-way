@@ -35,12 +35,12 @@ However, most of these communities operate independently of other initiatives, e
 This often results in scientific outputs that most users can find, but not access, or build upon in their local contexts.
 Open discussions and spaces for collaborations can contribute to individual benefit, team efforts as well as the overall sustainability of the open science ecosystem {cite}`Sharan2021reimagine`.
 
-*The Turing way* Fireside Chat series will facilitate discussions on topics of broader interest, create shared spaces for cross-community collaborations and build opportunities for exchanging common experiences and resources. 
+*The Turing Way* Fireside Chat series will facilitate discussions on topics of broader interest, create shared spaces for cross-community collaborations and build opportunities for exchanging common experiences and resources. 
 
 ## Scope
 
 The Fireside Chat series is hosted online on topics of interest within *The Turing Way* community as well as members across other mission-aligned projects such as Open Life Science, The Carpentries, Open Post Academics, Open Science Community in Saudi Arabia, Wikimedia, Frictionless Data, Talarify in South Africa and MetaDocencia (some of our collaborators so far).
-We will continue to collaborate with other communities working in participatory, open research and citizen space to organise future events on topics that they are working on.
+We will continue to collaborate with other communities working in participatory, open research and citizen spaces to organise future events on topics that they are working on.
 
 Although *The Turing Way* hosts these calls in English, we encourage our collaborative projects to consider hosting a future event in their time zones, in their primary languages and on topics relevant to their local contexts.
 
@@ -59,13 +59,13 @@ Suggestions of topics for the future Fireside chat include:
 ### Frequency and Duration
 
 These calls are hosted every month on the third or fourth Friday as per the common availability of all speakers.
-Recommended duration is 60 to 90 minutes which are recorded to post online for people who can't attend these calls in real-time.
+The recommended duration is 60 to 90 minutes which are recorded to post online for people who can't attend these calls in real-time.
 Hosts can consider allocating a part of the call for open discussions with participants, however, this part doesn't need to be recorded to allow maximum participation by attendees who may otherwise not engage.
 The schedule is decided based on the availability of individuals invited as speakers/panellists.
 
 ### Resources
 
-- **GitHub checklist for organisers and speakers**: we have a checklist for planning the Fireside Chat as an [issue template](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose). For each iteration, event hosts will create a new issue to allow other participants to follow along with the planning process.
+- **GitHub checklist for organisers and speakers**: we have a checklist for planning the Fireside Chat as an [issue template](https://github.com/the-turing-way/the-turing-way/issues/new/choose). For each iteration, event hosts will create a new issue to allow other participants to follow along with the planning process.
 - **Eventbrite pages**: Registrations are handled via [*The Turing Way* Eventbrite page](https://www.eventbrite.co.uk/o/the-turing-way-18600928389). The event is free to attend and recordings are shared with all registered participants after the event.
 - **Zoom**: We host Fireside events online using [Zoom](https://zoom.us/) (with live transcription), however, the platform for the participants can change based on the preference of the majority of speakers.
 - **Online promotion**: Announcements are shared on *The Turing Way* [Twitter](https://twitter.com/turingway), [Slack workspace](https://tinyurl.com/jointuringwayslack) and [monthly newsletters](https://tinyletter.com/TuringWay), which are then cross-posted by other communities in their network.

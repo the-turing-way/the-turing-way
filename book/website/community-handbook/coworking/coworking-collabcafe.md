@@ -15,7 +15,7 @@ We also announce calls in our [monthly newsletters](https://tinyletter.com/Turin
 Though scheduled for 2 hours, we understand that for many interested participants it might be impossible to commit to the entire 2 hours on one or multiple occasions, therefore, you are welcome to join for as long as your schedule allows.
 
 If the current schedule of the online Collaboration Cafe is not suitable for your time zone, you are welcome to host a separate collaboration cafe for your community/time zone.
-Please open a new issue (see [this example](https://github.com/alan-turing-institute/the-turing-way/issues/684)) or reach out to _The Turing Way_ team members for details.
+Please open a new issue (see [this example](https://github.com/the-turing-way/the-turing-way/issues/684)) or reach out to _The Turing Way_ team members for details.
 Continue reading for information on hosting these calls.
 
 ### Resources used for the call
@@ -77,13 +77,13 @@ Watch the video to see how Kirstie hosted the calls when it was first launched.
 - Make sure that you share the Code of Conduct link and use the shared Cuckoo (or other web-based clocks)
 - Create breakout rooms for people before starting the Pomodoro
 - As the Pomodoro ends, close the rooms, ask for any feedback, and call for a 5 minutes break
-- Continue the repeated session for 2-3 Pomodoro, leaving the last 15-30 minutes for discussion on what people worked on.
+- Continue the repeated session for 2-3 Pomodoros, leaving the last 15-30 minutes for discussion on what people worked on
 - Close the call thanking everyone, and archive the notes for the next call
 
 #### After the Call
 
 Please share any feedback from this call with the Community Manager of *The Turing Way*, specifically, if you have any feedback, concern or ideas for future calls.
-You are encouraged to create a Pull Request to improve this chapter that can help the future attendees and chair of the Collaboration Café.
+You are encouraged to create a Pull Request to suggest improvements to this chapter that can help future attendees and chairs of the Collaboration Café.
 
 #### Beginning
 
@@ -91,7 +91,7 @@ The call begins with the team members welcoming the participants, sharing the Co
 
 #### Breaks
 
-We will take short breaks after each Pomodoro to discuss what we are working on, ask questions that might help you in your next Pomodoro session, share any error or progress, and celebrate each others successes.
+We will take short breaks after each Pomodoro to discuss what we are working on, ask questions that might help you in your next Pomodoro session, share any errors or progress, and celebrate each others successes.
 
 We will use the last 30 minutes for themed discussion, collaborative troubleshooting, or idea exchange for the project and community.
 
@@ -99,7 +99,7 @@ The welcome, introductions, breaks, and the open discussion will all happen in t
 
 #### Pomodoro sessions
 
-Pomodoro sessions can happen either in the main zoom room in silence or in [breakout rooms](#breakout-rooms).
+Pomodoro sessions can happen either in the main Zoom room in silence or in [breakout rooms](#breakout-rooms).
 We won't record the Pomodoro parts of the Collaboration Cafe, nor conversations in the breakout rooms.
 You don't need to know in advance what you're going to do in those Pomodoro sessions!
 There will always be someone who can help you develop a goal, or allocate a task that you can do in a couple of rounds of 20 minutes.
@@ -132,7 +132,7 @@ Here are a few example questions (so you know what to expect):
 * what was your biggest achievement this week?
 * when was the last time you saw a rainbow?
 * what are you most excited about this year?
-* What is your favorite flavor in cake/ice-cream?
+* what is your favorite flavor in cake/ice-cream?
 
 *Do you have another interesting question to ask others?*
 *[Get in touch](/README.md#get-in-touch) and let us know!*

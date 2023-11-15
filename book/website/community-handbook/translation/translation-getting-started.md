@@ -1,5 +1,5 @@
-(ch-translation-getting-started)=
-# Getting Started in Translating _The Turing Way_
+(ch-translation-localisation-journey)=
+# Embark on Your Localisation Journey
 
 
 ## Overview of the translation workflow
@@ -10,7 +10,7 @@ Instead, we refer to a set of aspects that can lead to a successful and sustaina
 
 Our current Translation Management System is Crowdin.
 All translations are stored in a fork of _The Turing Way_ repository inside [TWTranslation](https://github.com/TWTranslation), a GitHub Organisation account.
-This fork is updated regularly to fetch new content and Crodin adds it automatically and starts an automatic translation based on machine translation and translation memory. 
+This fork is updated regularly to fetch new content and Crowdin adds it automatically and starts an automatic translation based on machine translation and translation memory. 
 The automatic translations need review and approval before being accepted.
 
 People in the team complete and review these automatic translations, according to the translation guidelines of each team.
@@ -30,7 +30,7 @@ The Translation workflow, which is located on a fork of _The Turing Way_ reposit
 
 ## Join the Translation Team in Crowdin
 
-- **Create an account in Crowdin** through [this link](https://accounts.crowdin.com/register?domain=turingway&continue=%2Fturing-way).
+- **Create an account in our Crowdin project** through [this link](https://accounts.crowdin.com/register?domain=turingway&continue=%2Fturing-way).
 
 ```{figure} ../../figures/create-account-crowdin.*
 ---
@@ -63,13 +63,13 @@ alt: Crowdsourcing page in Crowdin which has three tabs, one showing the languag
   - They are essential to harmonise and standardise translations.
   Make sure you read them before you start translating for the first time.
   If you are starting a new language, please make sure you create a repository in the GitHub organisation with your language guidelines. 
-  Feel free to comment these guidelines and suggest new terms anytime. This can be done in the corresponding repositories or in _The Turing Way_ issues
+  Feel free to comment on these guidelines and suggest new terms anytime. This can be done in the corresponding repositories or in _The Turing Way_ issues.
 
 - **Choose the language you want to contribute to.** We have currently 4 languages with active contributors, which are Spanish, Arabic, Portuguese and Chinese.   
 
-```{admonition} Add New Language
+```{admonition} Add A New Language
 :class: tip
-If your language is not in the list, please feel free to contact one of the managers and ask for new language through Crowdin or Slack.
+If your language is not in the list, please feel free to contact one of the managers and ask for a new language through Crowdin or Slack.
 ```
 
 ```{figure} ../../figures/add-language-crowdin.gif
@@ -81,7 +81,7 @@ alt: You can add a new language by contacting one of the managers.
 ```
 
 - **Start Translating chapters from the translation priorities list.**
-  - Each language has the Translation Priorities list, which you can find in the README file. 
+  - Each language has a Translation Priorities list, which you can find in the README file. 
   Choose one of the high priority files.
   - You can view the translation priorities list in the task tab in Crowdin, they are also marked with a red arrow. The same list is copied below:
     - **Urgent** (Welcome, afterword)
@@ -90,7 +90,8 @@ alt: You can add a new language by contacting one of the managers.
     - **Priority +** (Version Control, Overview of Project Design, Creating Project Repositories)
     - **Intermediate** (Overview of the Guide for Communication, Making Research Objects Citable, Communications in Open Source Projects, Getting Started With GitHub, Research Infrastructure Roles, Introduction to Research Ethics)
 
-    - In order to navigate to the tasks tab inside Crowdin, you need to click in "Go to the Console" at the top right and navigate back to _The Turing Way_ project which will direct you to a similar interface but with additional tabs on the left, one of the these is the task tab.
+    - In order to navigate to the tasks tab inside Crowdin, you need to click in "Go to the Console" at the top right and navigate back to _The Turing Way_ project which will direct you to a similar interface but with additional tabs on the left.
+    One of these is the task tab.
     In the Tasks, we assign tasks to get files translated or proofread by the community or set the due dates and receive notifications about the changes and updates in tasks.
 
 ```{figure} ../../figures/tasks-crowdin.gif
@@ -102,11 +103,11 @@ alt: You can add a new task to Crowdin by clicking on the console at the top and
 ```
 
 - Once you decide which file you will work on, you can type its name in the search bar and click on it. 
-  This will direct you to Crowdin Editor, you will learn more about it in the next chapter.
+  This will direct you to the Crowdin Editor, you will learn more about it in the next chapter.
 
 ```{admonition} Top Tip
 :class: tip
-The arrow icon next to the high priority files are always pointing up and coloured red!  
+The arrow icons next to the high priority files are always pointing up and coloured red!  
 ```
 
 ```{figure} ../../figures/choose-file-crowdin.gif

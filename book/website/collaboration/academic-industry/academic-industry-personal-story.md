@@ -1,6 +1,16 @@
 (cl-academic-industry-personal-story)=  
 # Turing-Roche Community Activities Personal Story
 
+```{figure} ../../figures/turing-roche-partnership.jpg
+---
+height: 500px
+name: turing-roche-partnership
+alt: Scriberia illustration showing the journey of the Turing-Roche partnership over 5 years. The image has two people shaking hands showing the collaboration between academia and industry and a road type image showing markers and research themes along the way. The missing data research theme is shown by binary numbers and a missing jigsaw piece and the predictive modelling research theme is illustrated by a crystal ball. At the end of the road are two patients with the text 'improved clinical care'. At the bottom of the image is the text 'better understanding patient and disease heterogeneity' which is the partnership's ultimate aim
+---
+The Turing-Roche Strategic Partnership
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. Original version on Zenodo. [http://doi.org/10.5281/zenodo.8169292](http://doi.org/10.5281/zenodo.8169292) 
+```
+
 ## Introduction
 My name is [Vicky Hellon](https://www.turing.ac.uk/people/vicky-hellon) and I am the Community Manager for the Turing-Roche Strategic Partnership. 
 This 5-year partnership is developing new data science methods to investigate large, complex, clinical and healthcare datasets to better understand how and why patients respond differently to treatment, and how treatment can be improved.

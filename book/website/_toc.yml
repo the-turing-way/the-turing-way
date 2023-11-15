@@ -88,6 +88,8 @@ parts:
                 file: reproducible-research/licensing/licensing-software
               - title: Data Licenses
                 file: reproducible-research/licensing/licensing-data
+              - title: Hardware Licenses
+                file: reproducible-research/licensing/licensing-hardware
               - title: Machine Learning Model Licenses
                 file: reproducible-research/licensing/licensing-ml
                 sections:
@@ -102,6 +104,8 @@ parts:
             sections:
               - title: Research Data
                 file: reproducible-research/rdm/rdm-data
+              - title: Finding Data
+                file: reproducible-research/rdm/rdm-find
               - title: Data Management Plan
                 file: reproducible-research/rdm/rdm-dmp
               - title: The FAIR Principles and Practices
@@ -159,6 +163,8 @@ parts:
             sections:
               - title: Code Style and Formatting
                 file: reproducible-research/code-quality/code-quality-style
+              - title: Writing Robust Code
+                file: reproducible-research/code-quality/code-quality-robust.md
               - title: Checklist and Resources
                 file: reproducible-research/code-quality/code-quality-resources
           - title: Code Testing
@@ -261,7 +267,7 @@ parts:
             sections:
               - title: Planning for Project Design
                 file: project-design/pd-overview/pd-overview-planning
-              - title: Communication and Collaboration
+              - title: Collaborative project documentation
                 file: project-design/pd-overview/pd-overview-repro
               - title: Reproducibility Methods
                 file: project-design/pd-overview/pd-overview-methods
@@ -269,6 +275,8 @@ parts:
                 file: project-design/pd-overview/pd-overview-version
               - title: Sharing Your Research Work
                 file: project-design/pd-overview/pd-overview-sharing
+          - title: Project Design Checklist
+            file: project-design/pd-checklist
           - title: Creating Project Repositories
             file: project-design/project-repo
             sections:
@@ -348,6 +356,8 @@ parts:
             sections:
               - title: Data Governance for the Machine Learning Pipeline
                 file: project-design/data-governance/data-gov-ml
+              - title: BigCode Data Governance Case Study
+                file: project-design/data-governance/bigcode_casestudy
 
       # ===== Guide for Communication ========================================
 
@@ -514,6 +524,11 @@ parts:
             file: collaboration/coworking
           - title: Organising Conferences
             file: collaboration/organising-conference
+            sections:
+              - title: Registration Forms
+                file: collaboration/organising-conference/reg-forms
+              - title: Template for Registration Form
+                file: collaboration/organising-conference/reg-form-template
           - title: Chairing Events
             file: collaboration/chairing
           - title: Participating in Events
@@ -642,6 +657,8 @@ parts:
                 file: ethical-research/activism/activism-whistleblowing
               - title: Cultural change
                 file: ethical-research/activism/activism-cultural-change
+              - title: The Environmental Impact of Digital Research
+                file: ethical-research/activism/activism-env-impact
               - title: Case study - Robodebt
                 file: ethical-research/activism/activism-robodebt
               - title: Case study - Google Workers
@@ -717,6 +734,31 @@ parts:
                 file: community-handbook/acknowledgement/acknowledgement-record
               - title: Different Contributions and Acknowledgements
                 file: community-handbook/acknowledgement/acknowledgement-examples
+          - title: Translation and Localisation
+            file: community-handbook/translation
+            sections:
+              - title: Translation of Open Source Projects
+                file: community-handbook/translation/translation-localisation
+              - title: Welcome to the localisation team of The Turing Way!
+                file: community-handbook/translation/translation-workflow
+              - title: Embark on Your Localisation Journey
+                file: community-handbook/translation/translation-getting-started
+              - title: Your Gateway to Crowdsourced Localisation
+                file: community-handbook/translation/translation-hello-crowdin
+          - title: Infrastructure
+            file: community-handbook/infrastructure
+            sections:
+              - title: Publishing Contributors
+                file: community-handbook/infrastructure/infrastructure-contributors
+              - title: External Link Checking
+                file: community-handbook/infrastructure/infrastructure-external-link-check
+          - title: Communication Platforms
+            file: community-handbook/communication-channels
+            sections:
+              - title: Slack Start Guide
+                file: community-handbook/communication-channels/slack-start-guide
+              - title: Slack Welcome Guide
+                file: community-handbook/communication-channels/slack-welcome-guide
           - title: Monthly Newsletters
             file: community-handbook/newsletters
             sections:
@@ -782,17 +824,6 @@ parts:
                 file: community-handbook/templates/template-newsletter-draft
               - title: Template for Fireside Chat Shared Notes
                 file: community-handbook/templates/template-fireside-chat
-          - title: Translation and Localisation
-            file: community-handbook/translation
-            sections:
-              - title: Localisation
-                file: community-handbook/translation/translation-localisation
-              - title: Workflow
-                file: community-handbook/translation/translation-workflow
-              - title: Getting started
-                file: community-handbook/translation/translation-getting-started
-              - title: Hello Crowdin
-                file: community-handbook/translation/translation-hello-crowdin
 
       # ===== Afterword ========================================
 

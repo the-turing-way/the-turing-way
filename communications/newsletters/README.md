@@ -9,11 +9,11 @@ In this repository, we store the newsletter drafts in markdown format and we rec
 
 | Month | Date | GitHub link | TinyLetter link |
 | ----- | ---- |----------- | --------------- |
-| January | - | - | - |
-| Febuary | - | - | - |
-| March | - | - | - |
-| April | - | - | - |
-| May | - | - | - |
+| January | 2023-01-31 | - | [A new year with The Turing Way - Happy 2023](https://tinyletter.com/TuringWay/letters/a-new-year-with-the-turing-way-happy-2023) |
+| Febuary | 2023-03-08 | - | [Book dash applications are open and stay tuned for upcoming fireside chat](https://tinyletter.com/TuringWay/letters/book-dash-applications-are-open-and-stay-tuned-for-our-upcoming-fireside-chat) |
+| March | 2023-03-31 | - | [Last days to apply for book dash, rewatch our fireside chat and learn about the Practitioners Hub](https://tinyletter.com/TuringWay/letters/last-days-to-apply-for-book-dash-rewatch-our-fireside-chat-and-learn-about-the-practioners-hub)) |
+| April | 2023-05-03 | - | [Join our fireside chat implementing open science at scale, countdown to our May Book Dash and more](https://tinyletter.com/TuringWay/letters/join-our-fireside-chat-implementing-open-science-at-scale-countdown-to-our-may-book-dash-and-more) |
+| May | 2023-06-05 | - | [Book dash celebrations, upcoming events and welcoming our Gsoc 2023 intern](https://tinyletter.com/TuringWay/letters/book-dash-celebrations-upcoming-events-and-welcoming-our-gsoc-2023-intern) |
 | June | - | - | - |
 | July | - | - | - |
 | August | - | - | - |
