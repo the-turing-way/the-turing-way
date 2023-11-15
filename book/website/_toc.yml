@@ -277,6 +277,8 @@ parts:
                 file: project-design/pd-overview/pd-overview-sharing
           - title: Project Design Checklist
             file: project-design/pd-checklist
+          - title: Project Management Methodologies/Frameworks Overview
+            file: project-design/project-management-methodologies/overview
           - title: Creating Project Repositories
             file: project-design/project-repo
             sections:
