@@ -13,14 +13,14 @@ After all, these newsletters land in someone's personal mailbox and most likely 
 ### Create a GitHub issue to collect items
 
 Create a new GitHub issue where throughout the month you and other community members can suggest news items as a comment.
-For example, in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1037), several members could suggest news items to include in the next newsletter, in this case for June 2020.
+For example, in [this issue](https://github.com/the-turing-way/the-turing-way/issues/1037), several members could suggest news items to include in the next newsletter, in this case for June 2020.
 Such GitHub issues can be published in the current newsletter inviting contributions from the readers and community members for the next month.
 
 ### Start a draft
 
 There are several ways to start a draft for a Turing Way newsletter:
 
-1. Create a new branch of _The Turing Way_ [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/) within the appropriate directory (explained in the next subchapter on {ref}`newsletter's style guide <ch-newsletters-style>`).
+1. Create a new branch of _The Turing Way_ [GitHub repository](https://github.com/the-turing-way/the-turing-way/) within the appropriate directory (explained in the next subchapter on {ref}`newsletter's style guide <ch-newsletters-style>`).
 
 You can work on this GitHub branch locally or online through a pull request (PR).
 If working online, please keep the draft mode on for your PR or add "[WIP]" (work in progress) in the title.
@@ -40,7 +40,7 @@ Based on what we currently publish, collect information from the listed resource
 * **News from the community**:
 - Check Twitter for updates on the [official account](https://twitter.com/turingway) and the [#TuringWay Hashtag](https://twitter.com/hashtag/TuringWay?src=hashtag_click)
 - Check Mastodon for updates on the [official account](https://fosstodon.org/@turingway) and the [#TuringWay Hashtag](https://fosstodon.org/tags/turingway)
-- See the Github repository for [issues](https://github.com/alan-turing-institute/the-turing-way/issues) for ongoing discussions, recently [merged PRs](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) and new chapters.
+- See the Github repository for [issues](https://github.com/the-turing-way/the-turing-way/issues) for ongoing discussions, recently [merged PRs](https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) and new chapters.
 - You can also ask in the [Slack channel](https://theturingway.slack.com) if someone would like to add something to the newsletter.
 In this part, also highlight any important milestones in the project that were either established or achieved over the last month.
 
@@ -123,7 +123,7 @@ Here are the steps for publishing the newsletter draft online and send by email 
 
  **It's published, now what?**
 
-- Update the index table in the [README.md file](https://github.com/alan-turing-institute/the-turing-way/blob/main/communications/newsletters/README.md) with the details of the newly published newsletter.
+- Update the index table in the [README.md file](https://github.com/the-turing-way/the-turing-way/blob/main/communications/newsletters/README.md) with the details of the newly published newsletter.
 - Tweet about it from [@turingway](https://twitter.com/turingway).
-- Send a notification on [Gitter](https://gitter.im/alan-turing-institute/the-turing-way) and [Slack](https://theturingway.slack.com) channels.
+- Send a notification on [Gitter](https://gitter.im/the-turing-way/the-turing-way) and [Slack](https://theturingway.slack.com) channels.
 - Do a celebratory dance! (This is mandatory! 💃)

@@ -34,6 +34,7 @@ Learn more about why Open Education matters:
 - '[Open Education Matters: Why is it important to share content?](https://www.youtube.com/watch?v=dTNnxPcY49Q)' 
 - '[Why Open Education Matters](https://www.youtube.com/watch?v=gJWbVt2Nc-I&list=PL741678F352148469)'
 - Open Education [benefits (and stakeholders)](https://openeducationalresources.pbworks.com/w/page/24838012/Stakeholders%20and%20benefits)
+- '[Why Open Education Matters](https://www.opensocietyfoundations.org/voices/why-open-education-matters)'
 
 (cm-open-education-promotion)=
 ## Examples of promotion of Open Education

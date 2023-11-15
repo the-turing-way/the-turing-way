@@ -42,7 +42,7 @@ alt: A screenshot of a table converted to Markdown from HTML. The table becomes 
 ---
 Converting HTML to Markdown makes The Turing Way book easier to read.
 ```
-```{note} A PR that addresses this check can be found [here](https://github.com/alan-turing-institute/the-turing-way/pull/1460).
+```{note} A PR that addresses this check can be found [here](https://github.com/the-turing-way/the-turing-way/pull/1460).
 ```
 
 Chapter content written in `HTML` are usually enclosed in tags which begin and end with angle brackets `<>`.
@@ -57,7 +57,7 @@ In addition, content like YouTube videos and tables with headers that span multi
 ```{attention} A Note About Styling
 :class: tip
 
-_The Turing Way_ has a [book-wide stylesheet](https://github.com/alan-turing-institute/the-turing-way/blob/main/book/website/_static/book-stylesheet.css) that controls the look of content written in `HTML`.
+_The Turing Way_ has a [book-wide stylesheet](https://github.com/the-turing-way/the-turing-way/blob/main/book/website/_static/book-stylesheet.css) that controls the look of content written in `HTML`.
 If you include `HTML` in your contribution, ensure that your formatting includes the relevant classes and IDs from the stylesheet.
 
 For example, if you want to add a YouTube video to your content using the `<iframe>` tag, wrap the `<iframe>` in a `<div>` tag, and give the `div` a `video-container` class as shown below.
@@ -108,7 +108,7 @@ Ideally, all Markdown files should start with a level 1 heading and increase seq
 ```
 
 Several files in _The Turing Way_ book do not follow this convention.
-A list of such files can be found in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1321), and [this PR](https://github.com/alan-turing-institute/the-turing-way/pull/1451) is a great example of how to fix a file with non-consecutive headers.
+A list of such files can be found in [this issue](https://github.com/the-turing-way/the-turing-way/issues/1321), and [this PR](https://github.com/the-turing-way/the-turing-way/pull/1451) is a great example of how to fix a file with non-consecutive headers.
 
 #### Demo
 

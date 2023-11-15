@@ -1,7 +1,7 @@
 (ch-coworking-motivation)=
-# Background, Motivations, and Techniques
+# Motivations, Background, and Techniques
 
-## Background and Motivation
+## Motivation and Background
 
 When _The Turing Way_ started with around 10 members located in the United Kingdom, they could work in real-time and often together in the same location.
 They shared ideas, helped each other out, got huge amounts of writing, editing and reviewing done, and had lots of fun interacting with each other.

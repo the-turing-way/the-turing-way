@@ -24,11 +24,11 @@ alt: An empty file that was included in the Turing Way's Table of Contents. Read
 Empty files included Turing Way's Table of Contents can still be accessed by readers.
 ```
 
-A general suggestion is to remove references to such files from the ToC and raise an issue in _The Turing Way_ Github [repo](https://github.com/alan-turing-institute/the-turing-way) for content to be written for those files.
+A general suggestion is to remove references to such files from the ToC and raise an issue in _The Turing Way_ Github [repo](https://github.com/the-turing-way/the-turing-way) for content to be written for those files.
 When the content is written, the files can then be added to the ToC.
 
-For example, [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1391) curates a list of empty and incomplete files currently in _The Turing Way_, and
-[this PR](https://github.com/alan-turing-institute/the-turing-way/pull/1448) writes content for the `Data Licences` subchapter shown in the {ref}`image <empty-toc-file>`.
+For example, [this issue](https://github.com/the-turing-way/the-turing-way/issues/1391) curates a list of empty and incomplete files currently in _The Turing Way_, and
+[this PR](https://github.com/the-turing-way/the-turing-way/pull/1448) writes content for the `Data Licences` subchapter shown in the {ref}`image <empty-toc-file>`.
 
 (ch-consistency-structure-hr-structure)=
 ### Check 2: Ensure chapters follow a consistent structure
@@ -58,7 +58,7 @@ Recommended structure for chapters in The Turing Way.
 References to these files should be updated in the table of contents in the `_toc.yml` file.
 ```
 
-Refer to the [chapter template](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/templates/chapter-template) to structure new chapter contributions, and use it to assess current chapters in _The Turing Way_.
+Refer to the [chapter template](https://github.com/the-turing-way/the-turing-way/tree/main/book/templates/chapter-template) to structure new chapter contributions, and use it to assess current chapters in _The Turing Way_.
 For chapters that do not fit this structure, please raise a Pull Request.
 
 

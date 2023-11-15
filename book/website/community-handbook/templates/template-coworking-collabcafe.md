@@ -26,17 +26,17 @@ This collaboration cafe aims to engage with researchers interested in learning a
 ### Useful links
 
 * Shared notes: https://hackmd.io/@KirstieJane/CollabCafe
-* The Turing Way GitHub repository: https://github.com/alan-turing-institute/the-turing-way
+* The Turing Way GitHub repository: https://github.com/the-turing-way/the-turing-way
 * All about [online Collaboration Cafes](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms)
 * Turing Way calendar: https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ
-* Contribution guidelines: https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md
-* Chat on Gitter: https://gitter.im/alan-turing-institute/the-turing-way
+* Contribution guidelines: https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md
+* Chat on Gitter: https://gitter.im/the-turing-way/the-turing-way
 * Join the mailing list: https://tinyletter.com/TuringWay
 * Can't join the collaboration cafe but want to work with us? Check out the co-working calls during the week: https://hackmd.io/@malvikasharan/TW-coworking
 
 ### Code of conduct
 
-* [Take a moment to read this](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md)
+* [Take a moment to read this](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md)
 
 ### Pomodoro timer for this session
 https://cuckoo.team/collabcafe
@@ -99,7 +99,7 @@ Topic for breakout / Names
 
 Here are a few suggestions for a good first contributions:
 
-- Fix a typo in [the book](https://the-turing-way.netlify.com) and/or [repository](https://github.com/alan-turing-institute/the-turing-way).
-- Flag the unclear or duplicated information in the book by opening an [issue on the GitHub](https://github.com/alan-turing-institute/the-turing-way/issues).
-- Fix an [old issue](https://github.com/alan-turing-institute/the-turing-way/issues) or comment on the the [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls).
+- Fix a typo in [the book](https://the-turing-way.netlify.com) and/or [repository](https://github.com/the-turing-way/the-turing-way).
+- Flag the unclear or duplicated information in the book by opening an [issue on the GitHub](https://github.com/the-turing-way/the-turing-way/issues).
+- Fix an [old issue](https://github.com/the-turing-way/the-turing-way/issues) or comment on the the [pull requests](https://github.com/the-turing-way/the-turing-way/pulls).
 - Write your personal experience of reproducible research in this [google form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
