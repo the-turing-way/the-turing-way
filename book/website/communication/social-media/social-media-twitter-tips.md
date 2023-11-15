@@ -35,7 +35,7 @@ Therefore, think carefully about the language you use, avoid jargon and subject-
 **5. Include some other accounts in your tweet**
 
 * Linking your tweet to other accounts using @ will mean you get more retweets and therefore will spread your tweet further.
-* It is a good idea to find other researchers and organisation that have large X followings.
+* It is a good idea to find other researchers and organisations that have large X followings.
 This gives your tweet the largest reach possible.
 
 **6. Add visuals**
