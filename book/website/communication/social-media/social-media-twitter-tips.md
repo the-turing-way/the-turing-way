@@ -42,7 +42,7 @@ This gives your tweet the largest reach possible.
 
 * You can use images and gifs to draw attention to your tweets.
 * If you don't have an image, a link will generate an image so make sure that the link is up to date and has a relevant image for your tweet.
-* Yow also have the option to add a description of the image so that content is accessible to more people.
+* You also have the option to add a description of the image so that content is accessible to more people.
 Here is a link to the X help page on [how to make images accessible for people](https://help.twitter.com/en/using-x/picture-descriptions).
 
 **7. Don't start a tweet with '@'**
