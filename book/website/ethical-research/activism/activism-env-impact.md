@@ -1,6 +1,17 @@
 (er-activism-env-impact)=
 # The Environmental Impact of Digital Research
 
+```{figure} ../../figures/environmental-impact.*
+---
+width: 574px
+name: environmental-impact
+alt: Cartoon-like sketch depicting the potential environmental impact of digital research. The illustration is mostly done in a teal blue, with a black cloud in the background, with emissions written across it. On the left, a person sits at a desk with a laptop, with a chatbot and "COMPUTING" text above, symbolizing digital communication. Behind the chatbot lurks three black cogwheels. In the center, "EMISSIONS" emerge from a factory, representing pollution. On the right, a figure throws computers into the ocean, labeled "WASTE", indicating electronic disposal issues.
+
+---
+Illustration of the potential environmental impact of digital research.
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.8169292](https://doi.org/10.5281/zenodo.8169292).
+```
+
 As multiple reports from the United Nations (such as [IPCC | Climate Change 2023: Synthesis Report](https://www.ipcc.ch/report/ar6/syr/) and [WMO | Global Annual to Decadal Climate Update](https://public.wmo.int/en/our-mandate/climate/global-annual-decadal-climate-update)) have shown, the global climate crisis impacts all of us. From this, reducing carbon emissions has emerged as a means of addressing the climate crisis. For those of us that do computing as part of our day-to-day work, it can form a significant part of our environmental impact, both for us personally and for our organisation(s). In particular, if you or your group does intensive computing, making use of high-performance computers or cloud resources, for example to train intricate models or run complex simulations, the carbon footprint can be sizable.
 
 

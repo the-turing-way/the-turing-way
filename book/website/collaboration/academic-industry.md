@@ -11,6 +11,17 @@
 | {ref}`Community Managers: Overview<cl-infrastructure-community-managers>` | Helpful  | Beginner | An overview of the Community Manager Role |
 | {ref}`Guide to Planning a Community<cl-new-community-guide>` | Helpful | Beginner | The Guide to Planning a Community are helpful context for the Community Building Subchapter in this section |
 
+```{figure} ../figures/academic-industry-partnership.*
+---
+height: 500px
+name: academic-industry-partnership
+alt: Scriberia illustration showing the collaboration between academia and industry. On the left hand side is an academic middle-aged man in a suit sitting at a desk with certificates on the wall and a 'world's best prof' mug. On the right hand side is a young professional woman, standing up on the phone with a fancy computer in front of her and sleek looking buildings behind her. Beneath those two panels are the academic man and the industry woman having a conversation- behind them are speech bubbles, a globe and the text 'real-world impact'
+---
+Academic-Industry Partnership
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. Original version on Zenodo. [http://doi.org/10.5281/zenodo.8169292](http://doi.org/10.5281/zenodo.8169292) 
+```
+
+
 (cl-academic-industry-summary)=
 ## Summary
 Academic-Industry collaborations can take many forms, but put simply they are when an academic institution or university collaborates with a corporation or business such as a pharmaceutical company, a consulting firm or a technology company. 
