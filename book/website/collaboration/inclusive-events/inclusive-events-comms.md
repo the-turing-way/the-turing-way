@@ -60,11 +60,11 @@ For example, depending on your attendees you may need to:
 This can ensure that people who use different communication channels are able to receive the information in a medium that is accessible to them and through the channel they are most comfortably using. 
 
 ```{note} 
-The Public and Patient Involvement and Engagement Community for people with experience of Multiple Long-Term Conditions had asked event organizers to send out both calendar invitations compatible with Outlook and Google calendars, and email invitations. 
+The [Public and Patient Involvement and Engagement Community for people with experience of Multiple Long-Term Conditions](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) had asked event organizers to send out both calendar invitations compatible with Outlook and Google calendars, and email invitations. 
 
 This was to support the community members who often needed to manage event attendance around medical appointments, as well as support those who had visual impairments and would benefit from digital tools providing reminders.
 
-Many of the MLTC PPIE Community expressed that they would not regularly check emails and instead would rely on their calendars, however, some members of the community expressed the opposite and did not use digital calendars but would download and print out flyers for their notice boards. 
+In several of the group's community meetings, attendees expressed that they would not regularly check emails and instead would rely on their calendars, however, some members of the community expressed the opposite and did not use digital calendars but would download and print out flyers for their notice boards. 
 
 By adjusting communication to support both these requests, organizers were better positioned to support event engagement for their events.
 They were also more successful in involving underrepresented people in community events.
