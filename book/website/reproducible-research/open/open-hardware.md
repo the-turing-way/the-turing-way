@@ -59,7 +59,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 
 
-OSH projects emerge as **a response to a concrete need**. 
+OSH projects emerge as **a response to a concrete need**,  which is reflected in the project lifecycle.
 For example, you may need to process lots of samples, or to measure a parameter you were not considering before, or to take measurements outside of the lab. 
 With the analyzing of your need, your OSH project starts.
 It is advisable to scope the project at this point (see project scope chapter, In preparation).
