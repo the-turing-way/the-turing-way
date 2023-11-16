@@ -339,7 +339,8 @@ Here we list some actions you may take in order to
 make your project more visible, reach more people, and improve the chances of reproducibility:
 
 1. Use a commonly used platform; often they have a discovery page and people expect your project to be on such platforms.
-2. Use metadata to discribe your project, apart from just your technical data it is also important to share the metadata of your project, for example a short disciption, a statement of the license, the context of your project. Addding a [Open-Know-How manifest](https://www.internetofproduction.org/openknowhow) yaml file may help.
+2. Use metadata to discribe your project, apart from just your technical data it is also important to share the metadata of your project, for example a short disciption, a statement of the license, the context of your project.
+Adding a [Open-Know-How manifest](https://www.internetofproduction.org/openknowhow) yaml file may help.
 3. Refer to the guide for communication {ref}`cm-comms-overview` and make a presskit or media content for others to easily share your project on other blogs or websites.
 
 
@@ -347,7 +348,7 @@ In academia, researchers may also **publish** their hardware (usually at the dem
  
 ## Making hardware citable
 
-In contrast to data and software, there is no recommendatation for hardware citation yet.
+In contrast to data and software, there is no recommendation for hardware citation yet.
 However, we think it is good practice to treat hardware citation similarly to other research ouptuts {ref}`cm-citable`.
 Making open hardware citable is indeed useful for academic and research output.
 The use of archives that can assign persistent identifiers (DOI) can help to guarantee specific versions/releases of the hardware project available over the long term. 
@@ -360,8 +361,8 @@ Zenodo also has an integration with Github such that projects that are shared an
 
 ## Open source hardware licencing
 
-OSH are not open without a license.
-Without license, others cannot legally use, copy, distribute, or modify that project.
+A crucial step to making OSH open is by adding an open license.
+Without an open license, others cannot legally use, copy, distribute, or modify that project.
 The situation of license for hardware is a bit more complex than for other research outputs, as there are some cases where patent law and not copyright law will apply. 
 Also note that you may use different licenses for different part of the project.
 
