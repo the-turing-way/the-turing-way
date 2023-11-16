@@ -347,7 +347,9 @@ These posters make recommendations for how to make communications and informatio
 
 (cl-inclusive-events-comms-vendor-timelines)=
 ### Working with Vendors 
-As part of deciding what event and promotional materials will be required, identify who will develop these materials, whether it’s an external marketing agency or an internal graphic designer, and if there are additional requirements that vendors may have, such as specific printers, lead times, and file format preferences. 
+As part of deciding what event and promotional materials will be required, identify who will develop these materials. 
+This can be an external marketing agency or an internal graphic designer. 
+There  may be additional requirements that vendors may have, such as specific printers, lead times, and file format preferences. 
 
 This is especially important for in-person or hybrid events where you may be printing posters, flyers, or program books for the event. 
 
