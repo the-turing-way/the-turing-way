@@ -34,7 +34,9 @@ Please review the following recommendations and ensure that any material you hav
 - Consider using plain text for emails and providing flyers or images as attachments that are accompanied by Alternative Text Descriptions. 
 
 ### Provide Alt-text (Alternative Text) descriptions for online images in your content.
-- This is helpful for people with visual impairments that use screen readers, and is also helpful for people with low bandwidth internet where images may not load on a page.
+- Always use alternative text to accurately describe images that contain information relevant to the text. This is helpful for people with visual impairments who use screen readers and for people with low bandwidth internet where images may not load on a page.
+On the other hand, decorative images should have basic alternative text  to avoid including unnecessary information that could make it harder to understand the content.
+
 
 ### Avoid blinking or flashing that could cause seizures. 
 - Some people find certain motions or animations to be highly distracting, and some people may even become sick from them. Therefore, consider if the motion is necessary and if it will make the material easier to understand.
