@@ -61,7 +61,8 @@ During the initial planning, organiziers can prioritize inclusion by deciding ho
 This suitable level should be discussed and defined by people with lived experience and the specific accessibility need. 
 This includes considering physical and cognitive accessibility, communication needs, and any other accommodations necessary. 
 
-Finally, when developing the event agenda, make sure it is inclusive of all attendees. Consider various perspectives, backgrounds, and needs, to create an agenda that fosters an inclusive and engaging experience for everyone involved.
+Finally, when developing the event agenda, make sure it is inclusive of all attendees. 
+Consider various perspectives, backgrounds, and needs, to create an agenda that fosters an inclusive and engaging experience for everyone involved.
 
 (cl-inclusive-events-power-dynamics)=
 ### Addressing Power Dynamics
