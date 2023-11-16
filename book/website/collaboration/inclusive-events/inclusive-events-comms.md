@@ -322,7 +322,7 @@ This can help acknowledge and respect the cultural differences of your attendees
 #### Plain Language Summaries
 If your event has a large focus on research content, consider writing Plain Language summaries of core content so that people with lived experience who do not have a background in research are able to engage in the sessions and understand the projects that are discussed. 
 
-Please refer to The Turing Way's chapter on {ref}`cm-lay-summaries` for more guidance, and you can view good examples of plain language summaries from the [AI for Multiple Long Term Conditions research projects](https://aim-rsf.github.io/Glossary-of-Terms/pages/aim-projects.html). 
+Please refer to The Turing Way's chapter on {ref}`cm-lay-summaries` for more guidance, and you can view good examples of Plain Language summaries from the [AI for Multiple Long Term Conditions research projects](https://aim-rsf.github.io/Glossary-of-Terms/pages/aim-projects.html). 
 
 (cl-inclusive-events-comms-accessibility-guide)=
 ## Content Accessibility Guidance 
