@@ -285,7 +285,7 @@ It is therefore particularly important to Valuing Diversity and Differences in O
 
 ```
 
-Importantly, it is important to decide whether, when and where you want to engage with, or build one community.
+It is important to decide whether, when and where you want to engage with, or build a community.
 Most OSH communities are local in comparison to open source software project.
 You may not have the time or skills to build a community, and your project may not need a community to flourish.
 Always be honest with your collaborators and yourself about what support they can expect.
@@ -297,11 +297,14 @@ The [GOSH forum](https://forum.openhardware.science) has been an enabler for fin
 
 ```{admonition} Learning from community roadblocks
 - It is better to keep an open attitude towards diversification and unstable features, and this does not need to be in conflict with the main project being conservative.
-- There should always be space for "extensions" and "plugins" to be seeded and grow in the same community as the main project. 3rd-party plugins should be labeled as "external and unsupported by maniline development" but still encouraged.
+- There should always be space for "extensions" and "plugins" to be seeded and grow in the same community as the main project. 
+3rd-party plugins should be labeled as "external and unsupported by mainline development" but still encouraged.
 - It is good practice to build modular and extensible hardware, with documented interfaces, to be able to grow a developer community.
-- It is a bad idea to respond to a request for help with the following: "It is 'open source', if you want that to happen, you are free to work on it in your own time". Be honest of what you can do, but do not be a jerk. 
+- It is a bad idea to respond to a request for help with the following: "It is 'open source', if you want that to happen, you are free to work on it in your own time". 
+Be honest of what you can do, but do not be a jerk. 
 - If the upstream developers do not have time to write enough documentation, or do not have time to review pull requests, this fact should be stated to avoid generating false expectations.
-- Be ready to delegate (or create new spaces) if you are overwhelmed by a fast-growing community. Otherwise, small projects will stall, the community will be frustrated, and then become fragmented. 
+- Be ready to delegate (or create new spaces) if you are overwhelmed by a fast-growing community. 
+Otherwise, small projects will stall, the community will be frustrated, and then become fragmented. 
 ```
 
 
@@ -310,31 +313,32 @@ The [GOSH forum](https://forum.openhardware.science) has been an enabler for fin
 
 # Sharing open source hardware
 
-One of the goals of making OSH is to share the documentation so others can reuse your project (build upon, improve, derive from). Once a project is shared, it can be continuously developed and manintained. 
+One of the goals of making OSH is to share the documentation so others can reuse your project (build upon, improve, derive from). 
+Once a project is shared, it can be continuously developed and manintained. 
 
 
 For OSH to be effectively adopted, reused, and developed further, the hardware documentation and other relevant information needs to be shared in a way that is easily accessible at no cost.
 The global open hardware community utilizes a variety of platforms and online resources to share their work and enable others to collborate on different projects.
-The details on the some of the platforms used and their efficay is in the "platforms" section below. 
+The details on the some of the platforms used and their efficacy is discussed further in the following section (named platforms).
 
 (rr-open-hardware-platforms)=
 ## Platforms
 
-The easiest way to share an open hardware project is pushing it online.
+The easiest way to share an open hardware project is by sharing it online.
 There is no best platform or place to do this, as it depends on the specifics of your project.
 However, some platforms commonly used for OSH are [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [Wikifactory](https://wikifactory.com/) and [hackaday.io](https://hackaday.io/).
 Please refer to {ref}`cl-github-novice` for an introduction to GitHub and GitLab.
-Some hardware project have large files, and one may need to look for platform and workflows allowing to work with big files (see {ref}`rr-vcs-data`).
+Some hardware project have large files, and one may need to look for platforms and workflows allowing to work with big files (see {ref}`rr-vcs-data`).
 
 
 ## Making hardware discoverable
 
 
-There is (yet) no straightforward ways to let others to know about your project online. 
+There is (yet) no straightforward way to let others to know about your project online. 
 Here we list some actions you may take in order to 
-makes your project more visible, reach more people, and improves the changes of reproducability:
+make your project more visible, reach more people, and improve the chances of reproducibility:
 
-1. Use a commonly used platforms, often they have a discovery page and people expect your project to be on such platforms.
+1. Use a commonly used platform; often they have a discovery page and people expect your project to be on such platforms.
 2. Use metadata to discribe your project, apart from just your technical data it is also important to share the metadata of your project, for example a short disciption, a statement of the license, the context of your project. Addding a [Open-Know-How manifest](https://www.internetofproduction.org/openknowhow) yaml file may help.
 3. Refer to the guide for communication {ref}`cm-comms-overview` and make a presskit or media content for others to easily share your project on other blogs or websites.
 
