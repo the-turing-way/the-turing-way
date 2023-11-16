@@ -223,7 +223,8 @@ Your project may not need all of them, but it is worth considering having at lea
 - A **context description** which may reflect project maturity, complexity, the intentions of authors on how it should be used, and technical specifications. 
   It may include standards compliance (the [DIN-SPEC](https://gitlab.com/OSEGermany/OHS-3105) standard for instance) and an estimation of the overall budget required and build time.
 
-- A **Bill of Materials** (BOM): a list or spreadsheet describing part numbers, putative suppliers, costs, and a short description. Make it easy to tell which item in the bill of materials corresponds to which component in your design files: use matching reference designators in both places, provide a diagram indicating which part goes where, or otherwise explain the correspondence.
+- A **Bill of Materials** (BOM): A list or spreadsheet describing part numbers, putative suppliers, costs, and a short description. 
+  Make it easy to tell which item in the bill of materials corresponds to which component in your design files: use matching reference designators in both places, provide a diagram indicating which part goes where, or otherwise explain the correspondence.
 
 - **Assembly instructions**. To help others make and modify your hardware design, you should provide instructions for going from your design files to the working physical hardware. 
 It is good to publish annotated photographs (or video) from multiple viewpoints and at various stages of assembly. 
@@ -235,13 +236,21 @@ Either way, it is good to provide captions or text that explain what is shown in
 
 - A **list of required tools** and associated settings, for both software used for development, and machine tools for replication.
 
-- **Design files** with parts metadata, typically including the manufacturing process, the materials with dimensions, mass, and units. A functional overview of the project's parts/modules can also be included. Ideally, your OSH project would be designed using a free and open source software application, to maximize the ability of others to view and edit it. It is essential to share these original design files, in both original and accessible ready-to-view formats. The type of parts can also be mentionned with unambiguous reference, between, custom parts (e.g. developed as a result of this or another project), off-the-shelf parts (e.g. screws) or (maybe proprietary) complex modules (for example, a single board computer). 
+- **Design files** with parts metadata, typically including the manufacturing process, the materials with dimensions, mass, and units. 
+A functional overview of the project's parts/modules can also be included. 
+Ideally, your OSH project would be designed using a free and open source software application, to maximize the ability of others to view and edit it. 
+It is essential to share these original design files, in both original and accessible ready-to-view formats. 
+The type of parts can also be mentionned with unambiguous reference, between, custom parts (e.g. developed as a result of this or another project), off-the-shelf parts (e.g. screws) or (maybe proprietary) complex modules (for example, a single board computer). 
 
--  **Software and firmware**. You should share any code or firmware required to operate your hardware. This will allow others to use it with their hardware or modify it along with their modifications to your hardware. Document the process required to build your software, including links to any dependencies (for example, third-party libraries or tools). In addition, it is helpful to provide an overview of the state of the software (for example, “stable” or “beta” or “barely-working hack”). 
+-  **Software and firmware**: You should share any code or firmware required to operate your hardware. 
+This will allow others to use it with their hardware or modify it along with their modifications to your hardware.
+Document the process required to build your software, including links to any dependencies (for example, third-party libraries or tools). 
+In addition, it is helpful to provide an overview of the state of the software (for example, “stable” or “beta” or “barely-working hack”). 
 
-- **Instructions for operation and maintenance**. Describe how hardware users should operate the hardware (for example how to calibrate and test it). Indicate any maintenance that should be done to secure a good functionality of the hardware.
+- **Instructions for operation and maintenance**: Describe how hardware users should operate the hardware (for example how to calibrate and test it). 
+Indicate any maintenance that should be done to secure a good functionality of the hardware.
 
-- **Repair and disposal**. Indicate where or how the hardware can be repaired, and indicate how to dispose or recycle the hardware, if it is beyond repair.
+- **Repair and disposal**: Indicate where or how the hardware can be repaired, and indicate how to dispose or recycle the hardware, if it is beyond repair.
 
 > Note that producing documentation-quality pictures consistently requires adequate tools and setup.
 
@@ -249,24 +258,24 @@ Either way, it is good to provide captions or text that explain what is shown in
 ## Community documentation
 
 
-While open hardware communities are sometimes different than open oftware communities, the documentation useful to grow hardware communities are similar as the one for other open source project, see the  {ref}`pd-overview-repro` chapter. You may want to refer to the {ref}`collaboration<cl>`  and {ref}`cl-new-community`  guide of the turing way book for a more detailed description of certain aspects such as practices, metrics, behaviors and observables that can be related to thriving communities.
+While open hardware communities are sometimes different than open software communities, the documentation useful to grow hardware communities are similar to those for a open source project, see the  {ref}`pd-overview-repro` chapter. You may want to refer to the {ref}`collaboration<cl>`  and {ref}`cl-new-community`  guide of The Turing Way book for a more detailed description of certain aspects such as practices, metrics, behaviors and observables that can be related to thriving communities.
 
-OSH communities comes in all sizes and forms.
+OSH communities come in all sizes and forms.
 They often develop around people facing similar needs, who realise they will get "something that none of [them] could have developed alone." (Interview: White rabbit, by the Open make team, Javier Serrano and Amanda Diez Frenandez.)
 We should therefore consider that developing good quality hardware and making it open source already entails an important aspect of community building.
 
-In the following section, we share some consideration about community building for OSH project.
+In the following section, we share some considerations about community building for OSH project.
 
 
 
 ### Considerations for OSH community building
 
-While scoping your project, it is well advised to think about the different people who may engage with your OSH (see {ref}`cl-stakeholder-mapping`)
+While scoping your project, it is well advised to think about the different people who may engage with your OSH (see {ref}`cl-stakeholder-mapping`).
 Different OSH projects have included different partners at varying stages of their developement.
 On top of user and contributor roles that OSH have in common with open source software, local or global hardware manufacturers may become important partners of your project.
 You may also think early about the people who will eventually have to maintain and repair the hardware.
 To make it easier for them, it also helps to make your hardware designs modular (splitting your hardware in modules which may have alternative designs).
-Anoter specificity of hardware may be the importance of the creation of replication tutorials, workshops, seminars, or training material, which can impact the adoption of hardware designs.
+Another specificity of hardware may be the importance of the creation of replication tutorials, workshops, seminars, or training materials, which can impact the adoption of hardware designs.
 This is particularly relevant if the OSH is meant to be produced in Do-It-Yourself environments or as a teaching opportunity.
 
 ```{note}
