@@ -234,7 +234,7 @@ Either way, it is good to provide captions or text that explain what is shown in
 - **Manufacturing instructions**: The manufacturing process of parts that have been made for this project should be documented as well. 
     This is specially important if they are available for purchase from only a handful of small/medium businesses.
 
-- A **list of required tools** and associated settings, for both software used for development, and machine tools for replication.
+- A **list of required tools** and associated settings, for both the software used for development and the machine tools for replication.
 
 - **Design files** with parts metadata, typically including the manufacturing process, the materials with dimensions, mass, and units. 
 A functional overview of the project's parts/modules can also be included. 
@@ -261,7 +261,7 @@ Indicate any maintenance that should be done to secure a good functionality of t
 While open hardware communities are sometimes different than open software communities, the documentation useful to grow hardware communities are similar to those for a open source project, see the  {ref}`pd-overview-repro` chapter. You may want to refer to the {ref}`collaboration<cl>`  and {ref}`cl-new-community`  guide of The Turing Way book for a more detailed description of certain aspects such as practices, metrics, behaviors and observables that can be related to thriving communities.
 
 OSH communities come in all sizes and forms.
-They often develop around people facing similar needs, who realise they will get "something that none of [them] could have developed alone." (Interview: White rabbit, by the Open make team, Javier Serrano and Amanda Diez Frenandez.)
+They often develop around people facing similar needs, who realise they will get "something that none of [them] could have developed alone." ([Interview: White rabbit, by the Open make team, Javier Serrano and Amanda Diez Frenandez](https://www.openmake.de/blog/2022/10/20/2022-10-06-interview-white-rabbit/) .)
 We should therefore consider that developing good quality hardware and making it open source already entails an important aspect of community building.
 
 In the following section, we share some considerations about community building for OSH project.
@@ -279,7 +279,7 @@ Another specificity of hardware may be the importance of the creation of replica
 This is particularly relevant if the OSH is meant to be produced in Do-It-Yourself environments or as a teaching opportunity.
 
 ```{note}
-Engineers is still a world full of tech-bros, who got irritated when one does not understand their jargon, and are not very welcoming with beginners and women. 
+Engineering culture can still be a closed one, not very welcoming to newcomers from different backgrounds.
 
 It is therefore particularly important to Valuing Diversity and Differences in OSH {ref}`cl-new-community-differences`
 
