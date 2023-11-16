@@ -110,7 +110,8 @@ Operability also requires that web pages have an informative title for the conte
 ### 3. **Understandability** 
 Understandability refers to how easy is it for a general audience to understand your website's use and content.
 
-For example, content being written in easy read, or plain language formats. This is discussed in more depth in the {ref}`cl-inclusive-events-comms-plain-language` section below.
+For example, content being written in easy read, or plain language formats. 
+This is discussed in more depth in the {ref}`cl-inclusive-events-comms-plain-language` section below.
 
 The Web Accessibility guidelines ask that any technical terms, jargon, idioms, slang and abbreviations be accompanied by a definition.
 
