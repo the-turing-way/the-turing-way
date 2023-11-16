@@ -110,22 +110,27 @@ People develop and share OSH for a variety of reasons. Particularly in research,
 
 - Control: If a supplier goes out of business, users and/or third party companies have the information to keep systems running. 
 
-- Visibility: researchers and engineers developing OSH make their work more visible. They also increase opportunities for networking and impact,especially in project involving a community.
+- Visibility: Researchers and engineers developing OSH make their work more visible to more people. 
+                   They also increase opportunities for networking and impact, especially in projects involving a community.
 
-- Education: By using open hardware, researchers pick new skills and fully understand how a certain tool captures data on specific phenomena/events.
+- Education: By using open hardware, researchers pick up new skills and can better understand how a certain tool captures data on specific phenomena/events.
 
 
-> It is worth mentioning here that building and developing OSH may require  specific knowledge and skills on one hand, and  quite a lot of time, on the other hand.
+> It is worth mentioning here that building and developing OSH may require specific knowledge and skills on one hand, and quite a lot of time, on the other hand.
 > Buying industrial hardware with their support may be cheaper, especially if you do not have enough technical support. 
 
 
 ## For science
 
-- Quality: to make science, we need research instruments; we also need to build on top of others' knowledge. A contributor might offer a totally novel solution to a design problem that would never occur to you; contributors may also catch errors that you’ve missed. 
+- Quality: To make science, we need research instruments; we also need to build on top of others' knowledge. 
+                 A contributor might offer a totally novel solution to a design problem that would never occur to you; contributors may also catch errors that might have been  missed. 
 
-- Reproducibility: OSH designs can be replicated, allowing for verification and reproduction of experiments and data. Moreover, users can have much better control on the calibration of their devices, boosting replicability even further.
+- Reproducibility: OSH designs can be replicated, allowing for verification and reproduction of experiments and data. 
+                              Moreover, users can have much better control on the calibration of their devices, boosting replicability even further.
 
-- Inclusiveness: OSH can make science possible where resources are scarce. Local adaptation and production of OSH helps reducing the impact of import restrictions and bureaucracies that obstaculise science. Also, more students may be able to interact with scientific tools in hands-on sessions, as the equipment is cheaper.
+- Inclusiveness: OSH can make science possible where resources are scarce. 
+                            Local adaptation and production of OSH helps reducing the impact of import restrictions and bureaucracies that obstaculise science. 
+                            Also, more students may be able to interact with scientific tools in hands-on sessions, as the equipment is cheaper.
 
 - Sustainability: OSH means you have all the information for repairing and maintaining devices locally, extending the lifespan of the product and reducing waste. 
 
@@ -140,11 +145,11 @@ Working with OSH designs allows students and researchers to fully understand how
 # How to make hardware open source
 
 
-In order to make your hardware reusable and modifyable by others, its source should be shared with an appropriate license.
+In order to make your hardware reusable and modifiable by others, its source should be shared with an appropriate license.
 This is usually done via specific online platforms.
 The type and amount of shared content depends on the complexity of the OSH, and on the importance of the community aspects of the project.
 
-In the following sections, you can find descriptions of the common types of content that you should consider sharing as project documentation, technical documentation, and community interactions.
+In the following sections, you can find descriptions of the common types of content that you should consider sharing, such as project documentation, technical documentation, and community interactions.
 You are not required to post or document them all, but the more you share, the more the community benefits, and the more it can give back.
 
 
