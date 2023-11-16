@@ -235,6 +235,10 @@ Both 'Ethical source' & 'Responsible AI' Licenses are examples of this approach 
 Consequently, these licence by the classical definitions of free and open-source software from the FSF and OSI would not be considered free or open-source licences, they do however generally resemble them in the other three criteria of the definition.
 Their merits versus conventional open-source licenses have been the subject of some debate, and their adoption has thus far been relatively limited.
 
+Even an attribution requirement (the BY in CC-BY) can in some cases be considered a usage restriction.
+For example the Debian project found the [Common Public Attribution License (CPAL)](https://en.wikipedia.org/wiki/Common_Public_Attribution_License) to be incompatible their free-software guidelines for this reason whilst it is approved by the Open Source Initiative.
+I the case of academic works attribution requirements can serve to re-enforce the citation convention with the force of copyright law.
+
 (rr-licensing-ethics-finding)=
 ### Where to find open licenses for different types of work
 
