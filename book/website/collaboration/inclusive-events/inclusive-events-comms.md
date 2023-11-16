@@ -9,11 +9,11 @@ Creating a communication plan is therefore a key part of hosting an accessible a
 
 This section provides guidance on what to consider when developing a communications plan for events involving people with lived experience. 
 It will not be able to replace an in-depth communications plan, but instead draws attention to what additional considerations may be needed to help make your event inclusive of people with lived experience. 
-You can find a checklist for what key pieces of information should be included in your event's core communications at the end of this page.
+Please refer to {ref}`Inlcusive Events Planning<cl-inclusive-events-planning>` for more information about planning your event, and you can find a checklist at the end of this page for what key pieces of information need to be included in your event's core communications.
 
 For this chapter, "Communications" refers to the information you share with attendees, the timings and schedule on which you communicate it, the channels you will use, and the content and information about the event. 
 
-When developing a communications strategy, you need to consider:
+When developing a communications strategy, in addition to identifying the goals for your event, you will need to consider:
 - Who are you trying to reach?
 - Why are you trying to reach them?
 - What information do you need to include?
