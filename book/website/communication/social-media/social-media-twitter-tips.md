@@ -1,8 +1,7 @@
 (cm-social-media-twitter-tips)=
 # Tips for Starting with X
 
-X (formerly Twitter) has 393 million monthly active users as of September 2023 {cite:ps}`Hays2023twitter`.
-Unless you pay for X Premium you are limited to 280 characters and the style is more informal and chatty than other platforms like Linkedin.
+On X (formerly Twitter) you are limited to 280 characters unless you pay for X Premium. The style tends to be more informal and chatty than other platforms like Linkedin.
 You can use links, photos and videos (max 2 minutes 20 secs) in similar ways to the other social media platforms.
 
 Below are general tips for starting to use X for personal academic purposes. Some of the tips have been adapted from 'Practical tips for scientists using twitter' {cite:ps}`Chabrol2021twitter`.
