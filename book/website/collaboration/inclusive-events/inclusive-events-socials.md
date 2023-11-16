@@ -45,7 +45,8 @@ If your event includes name tags or badges, ensure that you ask attendees for th
 
 Consider including pronouns on attendees' badges to support attendees being gendered appropriately. 
 
-You may also want to consider using lanyards to display name tags or badges. Many clip-on name tags assume that people have a pocket on the front of their shirts or jackets. 
+You may also want to consider using lanyards to display name tags or badges. 
+Many clip-on name tags assume that people have a pocket on the front of their shirts or jackets. 
 However, many blouses, dresses, or shirts designed for women do not provide these pockets and therefore will not be able to easily display the name badge. 
 
 Clip-on badges can also be difficult for people with fine motor disabilities or an impairment that would restrict their ability to pin the clip onto their shirts. 
