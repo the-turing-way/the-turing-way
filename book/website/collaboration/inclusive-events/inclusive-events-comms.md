@@ -302,7 +302,7 @@ Using Plain Language is especially important in your registration and event info
 Plain Language, sometimes referred to as Plain English in the UK and North America, allows for communications and other information to be read and understood easier. 
 Consider how you will encourage attendees and speakers to adopt clear and plain language communication throughout your event. 
 
-For example, you could address and encourage the use of plain language during the opening address or by signposting it in your event's shared information. 
+For example, you could address and encourage the use of Plain Language during the opening address or by signposting it in your event's shared information. 
 You could also consider an activity where researchers are paired with non-researchers and are asked to explain their research in under 3 minutes. 
 This can help to bring "clear and effective communication" to the forefront of attendee's minds and set all attendees up to communicate clearly throughout the event.
 
