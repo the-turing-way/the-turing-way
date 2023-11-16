@@ -164,7 +164,8 @@ Depending on your event and where you host online information, you should ensure
 - When and where your event is.
 - What accessibility support there will be for your event
 - Who the event hosts are and who the session leads will be. This can help attendees know what to expect. 
-- Information about what your event is and what is expected from the audience. This includes if your attendees are expected to have background information on a topic and if your event expects active participation from the attendees. 
+- Information about what your event is and what is expected from the audience. 
+This includes if your attendees are expected to have background information on a topic and if your event expects active participation from the attendees. 
 - The program or agenda for the event including planned start and end times and scheduled breaks.
 - The event's Code of Conduct and Privacy notice.
 - Documentation or information about the honorarium, reimbursement, or renumeration policy for your event. 
