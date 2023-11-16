@@ -297,7 +297,7 @@ You can find online examples of Glossaries developed by research funding bodies,
 ### Using Plain Language
 Similar to avoiding jargon, ensure that your core communications are written using Plain Language or are in an "easy reading" format. 
 
-Using plain language is especially important in your registration and event information packs.
+Using Plain Language is especially important in your registration and event information packs.
 
 Plain language, sometimes referred to as Plain English in the UK and North America, allows for communications and other information to be read and understood easier. 
 Consider how you will encourage attendees and speakers to adopt clear and plain language communication throughout your event. 
