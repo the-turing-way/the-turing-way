@@ -169,7 +169,8 @@ This is a Fund that can be applied to cover additional costs that would support 
 
 It will be important to create a clear and understandable policy for what activities and costs can be covered by an Accessibility fund. 
 Honorariums and Reimbursements may have separate policies and timelines, and it is important to be as transparent as possible in order to support people with lived experience engaging in your event. 
-It is advisable to highlight who is responsible for payments, how any reimbursement procedures will work and their expected timeline, and clear guidance on what expenses will be covered. The UK's National Institute for Health and Care Research has published [Guidance on Payment](https://www.nihr.ac.uk/documents/payment-guidance-for-researchers-and-professionals/27392) for researchers who need to cost public involvement activities at any stage of the research process that can be used as a reference for developing your event's honorarium policy.
+It is advisable to highlight who is responsible for payments, how any reimbursement procedures will work and their expected timeline, and clear guidance on what expenses will be covered. 
+The UK's National Institute for Health and Care Research has published [Guidance on Payment](https://www.nihr.ac.uk/documents/payment-guidance-for-researchers-and-professionals/27392) for researchers who need to cost public involvement activities at any stage of the research process that can be used as a reference for developing your event's honorarium policy.
 
 Please ensure that all documentation and communication about honorarium and reimbursements are written in an Easy Read format following plain language guidance and if possible, provide clear pathways on how to submit documents. 
 People with lived experience may not have a printer in their homes and may share a computer or smartphone to take part in events. 
