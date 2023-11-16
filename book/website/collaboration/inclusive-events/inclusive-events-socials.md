@@ -10,7 +10,7 @@ Please consider some of the suggestions below, and ensure that you take the time
 
 (cl-inclusive-events-social-events-timing)=
 ## Choosing a Time for Networking 
-If your event schedule allows, ensure that you offer at least one networking or social event during the day. 
+Ideally, at least one networking or social event will take place during the main event's program. 
 
 Social and networking sessions are key elements of conferences and other knowledge-sharing events. 
 Social events provide attendees with opportunities to share ideas, connect with potential collaborators, and build partnerships between attendees at different institutions.
