@@ -118,18 +118,22 @@ parts:
                 file: reproducible-research/rdm/rdm-spreadsheets
               - title: Documentation and Metadata
                 file: reproducible-research/rdm/rdm-metadata
+              - title: Methods and Protocols
+                file: reproducible-research/rdm/rdm-methods
               - title: Data Curation
                 file: reproducible-research/rdm/rdm-data-curation
+              - title: Data Visualisation
+                file: reproducible-research/rdm/rdm-visualisation
+              - title: Data Repositories
+                file: reproducible-research/rdm/rdm-repository
               - title: Sharing and Archiving Data
                 file: reproducible-research/rdm/rdm-sharing
               - title: Data Article
                 file: reproducible-research/rdm/rdm-article
-              - title: Research Data Management Toolkits
-                file: reproducible-research/rdm/rdm-toolkits
-              - title: Personal Impact Stories
-                file: reproducible-research/rdm/rdm-stories
               - title: Checklist
                 file: reproducible-research/rdm/rdm-checklist
+              - title: Personal Impact Stories
+                file: reproducible-research/rdm/rdm-stories
               - title: Resources
                 file: reproducible-research/rdm/rdm-resources
           - title: Reproducible Environments
