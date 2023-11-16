@@ -60,7 +60,7 @@ Consult a legal expert to provide actual legal advice for your case.
 Perhaps the most relevant for software, data and other creative works is copyright.
 We will dispense quickly with patents and trademarks here, so we can move on to the main topic of copyright.
 
-(rr-licensing-ethics-patents)=
+(rr-licensing-patents)=
 ## Patents
 
 The most important difference between patent and copyright to be immediately aware of is that by default all rights are retained by the author on works made public under copyright, whereas patents must be registered before their content is publicly disclosed.
@@ -77,7 +77,7 @@ To ensure that patents held by the authors of software do not impact on the free
 <!-- UK patent info https://www.gov.uk/topic/intellectual-property/patents -->
 <!-- UK has a related but distinct concept of a 'registered design' https://www.gov.uk/topic/intellectual-property/designs -->
 
-(rr-licensing-ethics-trademarks)=
+(rr-licensing-trademarks)=
 ## Trademarks
 
 Trademarks are a brand, symbol, or identifying mark associated with a project, product or service.
@@ -96,7 +96,7 @@ Examples of modified open-source tools distributed with malware added have been 
 <!-- citations needed -->
 <!-- UK trade mark info https://www.gov.uk/topic/intellectual-property/trade-marks -->
 
-(rr-licensing-ethics-copyright)=
+(rr-licensing-copyright)=
 ## Copyright
 
 <!-- UK copyright info https://www.gov.uk/topic/intellectual-property/copyright -->
@@ -134,7 +134,7 @@ Licences can generally be placed on a spectrum from proprietary, through permiss
 This spectrum is something of an oversimplification, and there are some extensions and caveats we'll get to later.
 
 
-(rr-licensing-ethics-free)=
+(rr-licensing-floss)=
 ## What is 'Free/Libre' or 'Open-Source' software?
 
 These same concepts developed originally in the context of software have often been applied to other creative outputs.
@@ -226,7 +226,7 @@ It is important to note that licenses can be incompatible such that creating a c
     </caption>
 </table>
 
-(rr-licensing-ethics-usage-restriction)=
+(rr-licensing-usage-restriction)=
 ### What are 'Usage Restricting' Licenses?
 
 Usage restricting licenses seek to affirmatively protect users or others affected by the use of the work by placing  specific restrictions on its use.
@@ -239,7 +239,7 @@ Even an attribution requirement (the BY in CC-BY) can in some cases be considere
 For example the Debian project found the [Common Public Attribution License (CPAL)](https://en.wikipedia.org/wiki/Common_Public_Attribution_License) to be incompatible their free-software guidelines for this reason whilst it is approved by the Open Source Initiative.
 I the case of academic works attribution requirements can serve to re-enforce the citation convention with the force of copyright law.
 
-(rr-licensing-ethics-finding)=
+(rr-licensing-choosing)=
 ### Where to find open licenses for different types of work
 
 - Code
@@ -257,7 +257,7 @@ I the case of academic works attribution requirements can serve to re-enforce th
     - Creative commons and Software licences can be applied to different parts of ML/AI systems, CC to training data and weights, software licences to code used in training / depoyment.
     - [Responsible AI Licenses (RAIL)](https://www.licenses.ai/)
 
-(rr-licensing-ethics-enforcement)=
+(rr-licensing-enforcement)=
 ### Licencing enforcement
 
 There have been a number of successful legal cases that have been brought in defence of the terms of copyleft licenses obliging the parties abusing the terms of these licenses to appropriately release their code.
@@ -273,25 +273,25 @@ Organisations which take legal action in defence of free software, and which can
 - [Free Software Foundation Europe (FSFe) - legal work](https://fsfe.org/activities/legal.en.html)
 - [Electronic Fontiers Foundation - legal cases](https://www.eff.org/cases)
 
-(rr-licensing-ethics-copyright-edge)=
+(rr-licensing-edge)=
 ### Pertinant edge cases
 
-(rr-licensing-ethics-edge-clas)=
+(rr-licensing-edge-clas)=
 #### Contributor Licence Agreements
 
 The holder of the copyright on a copy-left project can still re-licence that project or dual-licence that project under a different licence, for example to grant exclusive rights to commercially distribute that project with proprietary extensions or to make future versions proprietary.
 In a large community developed project, this would require the consent of all contributors, as they each own the copyright to their contributions.
 To get around this, some copy-left projects developed by companies that commercially licence proprietary extensions to these projects ask their contributors to sign contributor licence agreements (CLAs) which may assign the contributor's copyright to the company, or include other provisions so that they can legally dual-licence the project.
 
-(rr-licensing-ethics-edge-available)=
+(rr-licensing-edge-available)=
 #### 'Source Available' or 'Shared Source'
 
 Under a proprietary license the code is generally not made public.
 Some projects share their code but do not licence its re-use, modification or redistribution.
 This is known as being 'source available' or 'shared-source', the [Vivaldi](https://vivaldi.com/) web browser is an example of such a project.
 
-(rr-licensing-ethics-wellcoming)=
-## Being a wellcoming space to those who do not want to use proprietary software
+(rr-licensing-welcoming)=
+## Being a welcoming space to those who do not want to use proprietary software
 
 Some people avoid using non-free software on principle to the greatest extent that they can.
 It is highly impractical to completely avoid all non-free software in the world today, so many have compromises and workarounds.

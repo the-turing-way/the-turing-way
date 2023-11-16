@@ -63,7 +63,7 @@ When in doubt, contact your library Research Data Support Team for more informat
 This requires that you address the technological changes, changing user behavior and new requirements on the computer-aided processing of research data as well as evolving organisational.
 
 ### 5. Reuse of your research outputs by others
-* Select a license when you make your output available on a repository (see the Licensing subchapters on {ref}`data<rr-licensing-data>` and {ref}`software<rr-licensing-software>` for more information). 
+* Select a license when you make your output available on a repository (see the Licensing subchapters on {ref}`data<rr-licensing-data>` and {ref}`software<rr-licensing-floss>` for more information).
 By selecting a license you tell others how they can reuse your data. 
 If you do not select a license others will not be able to reuse your data without asking you for permission. 
 * You can put your research outputs into context using and introduction text, such as a README.txt file

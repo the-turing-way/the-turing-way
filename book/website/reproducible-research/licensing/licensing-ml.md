@@ -27,7 +27,7 @@ Despite these open questions AI/ML model specific licenses are already being dev
 
 Like a software license, a Machine Learning (ML) model license governs the use, redistribution of the model and/or algorithm, and distribution of any derivatives of it.
 However, there are other components to an AI system, such as {ref}`data<rr-licensing-data>`, 
-{ref}`source code<rr-licensing-software>`, or applications, which may have their own separate licenses.
+{ref}`source code<rr-licensing-floss>`, or applications, which may have their own separate licenses.
 ML model licenses may restrict the use of the model for specific scenarios for which, due to the technical capabilities and limitations of the model informed by its model card, the licensor is not comfortable that the model is used.
 
 While many ML models may utilise open software licensing (for example MIT, Apache 2.0), 
