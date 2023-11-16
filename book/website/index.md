@@ -15,7 +15,7 @@ Browse the different guides that make up the book, or use the search box to sear
 ```
 
 All stakeholders, including researchers, software engineers, project leaders and funding teams, are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
-You can inspect our resources on [GitHub](https://github.com/alan-turing-institute/the-turing-way), contribute to the project as described in our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md)).
+You can inspect our resources on [GitHub](https://github.com/the-turing-way/the-turing-way), contribute to the project as described in our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
 
 Please [join our Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw) to connect and discuss your ideas or suggestions with *The Turing Way* members.
 
@@ -40,12 +40,12 @@ _The Turing Way_ is:
 * a global collaboration
 
 We hope you find the content in the book helpful.
-Everything here is available for free under a [CC-BY licence](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md).
+Everything here is available for free under a [CC-BY licence](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md).
 Please use and re-use whatever you need, for any purpose.
 
 The book is collaboratively written and open from the start.
 To make this project truly accessible and useful for everyone, we invite you to contribute your skills and bring your perspectives into this project.
-To join this community, please read our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) and ways to [get in touch](https://github.com/alan-turing-institute/the-turing-way#get-in-touch).
+To join this community, please read our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and ways to [get in touch](https://github.com/the-turing-way/the-turing-way#get-in-touch).
 More information about the community and the project is available in the {ref}`ch`.
 We look forward to expanding and building _The Turing Way_ together.
 
@@ -69,7 +69,7 @@ Call for translators! We’re looking for contributors to help translate this sp
 
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
 Accordingly, everyone who participates in _The Turing Way_ project is expected to show respect and courtesy to other community members at all times.
-All contributions must abide by our [code of conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
+All contributions must abide by our [code of conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
 
 ![Gif showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table](https://media.giphy.com/media/gKIUisnjpj2PS75nOJ/giphy.gif)
 
@@ -81,13 +81,13 @@ The book started in January 2019 as a guide for reproducibility, covering {ref}`
 (welcome-citing)=
 ## Citing _The Turing Way_
 
-All material in _The Turing Way_ is available under a [CC-BY 4.0 licence](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md).
+All material in _The Turing Way_ is available under a [CC-BY 4.0 licence](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md).
 
 You can cite _The Turing Way_ through the project's Zenodo archive using DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
 
 The citation will look something like:
 
-> The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. http://doi.org/10.5281/zenodo.3233986
+> The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research. Zenodo. doi: 10.5281/zenodo.3233853. 
 
 Please visit the [DOI link](https://doi.org/10.5281/zenodo.3233853) though to get the most recent version - the one above is not automatically generated and may be out of date.
 DOIs allow us to archive the repository and are useful for tracking the work in academic publications.
@@ -96,4 +96,4 @@ You can also share the human-readable URL to a page in the book, for example, {r
 You might want to include a [web archive link](http://web.archive.org), such as: [https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html](https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html), to make sure that you do not end up with broken links everywhere!
 
 We really appreciate any references that you make to _The Turing Way_ project in your work, and we hope it is useful.
-If you have any questions, please [get in touch](https://github.com/alan-turing-institute/the-turing-way#get-in-touch).
+If you have any questions, please [get in touch](https://github.com/the-turing-way/the-turing-way#get-in-touch).

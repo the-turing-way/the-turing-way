@@ -1,14 +1,14 @@
 (ch-contributing-workflow)=
 # Contribution Workflow
 
-Whether you are writing new content or reviewing existing ones, contributing to _The Turing Way_ generally encompasses the steps discussed in this section.
+Whether you are writing new content or reviewing existing content, contributing to _The Turing Way_ generally encompasses the steps discussed in this section.
 You may refer to the recommendations here to ensure that you have adequately prepared your contribution for review.
-Please note that the order of these recommendations are not strict and we encourage you to follow the approach that suits you best.
+Please note that the order of these recommendations is not strict and we encourage you to follow the approach that suits you best.
 
 (ch-contributing-workflow-template)=
 ## Select a template
 
-Once you have decided on the type of content you want to contribute to _The Turing Way_, use the relevant [template](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/templates) to prepare your contribution.
+Once you have decided on the type of content you want to contribute to _The Turing Way_, use the relevant [template](https://github.com/the-turing-way/the-turing-way/tree/main/book/templates) to prepare your contribution.
 
 ```{note}
 Please note that we welcome new template contributions.
@@ -21,7 +21,7 @@ If you want to contribute content for which there is no corresponding template, 
 
 _The Turing Way_'s Github repository follows an overall file structure where Guides are folders and chapters are sub-folders within them.
 Similarly, case studies are located inside a `case-studies` sub-folder within the Guide folders.
-All folders are located inside the [`book/website`](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/website) directory.
+All folders are located inside the [`book/website`](https://github.com/the-turing-way/the-turing-way/tree/main/book/website) directory.
 
 When writing new content, ensure that the new files and folders you create are placed appropriately to preserve _The Turing Way's_ file structure.
 
@@ -33,9 +33,9 @@ For example, the [Version Control](https://the-turing-way.netlify.app/reproducib
 book\website
 │
 └───reproducible-research <---- (folder for the Guide to Reproducible Research)
-│   │   reproducible-research.md <---- (Guide's Landing Page)
-│   │   vcs.md <---- (Landing page for the Version Control chapter)
-|   |   new-chapter <---- (Landing page for a new chapter)
+│   │   reproducible-research.md <---- (Guide's landing page)
+│   │   vcs.md <---- (landing page for the Version Control chapter)
+|   |   new-chapter <---- (landing page for a new chapter)
 │   │
 │   └───vcs (chapter folder)
 │   |   │   vcs-workflow.md
@@ -73,7 +73,7 @@ This ensures that your new content is accessible, and fits the overall style, st
 (ch-contributing-workflow-toc)=
 ## Add your new files to the book's table of contents
 
-The book-wide table of contents lives in the `_toc.yml` [file](https://github.com/alan-turing-institute/the-turing-way/blob/main/book/website/_toc.yml).
+The book-wide table of contents lives in the `_toc.yml` [file](https://github.com/the-turing-way/the-turing-way/blob/main/book/website/_toc.yml).
 This file structures _The Turing Way_ and defines the order in which chapters appear.
 Your chapter's files should be added to the `_toc.yml` as appropriate.
 
@@ -97,7 +97,7 @@ For example, because the [Statistical Methods Manuscript](https://the-turing-way
 (ch-contributing-workflow-referencing)=
 ## Reference external sources appropriately
 
-Ensure external sources are properly referenced and included in _The Turing Way's_ centralised bibtex file as recommended in the [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html)
+Ensure external sources are properly referenced and included in _The Turing Way's_ centralised BibTeX file as recommended in the [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html).
 
 (ch-contributing-workflow-glossary)=
 ## Update the book-wide glossary

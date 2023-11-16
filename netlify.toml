@@ -1,7 +1,7 @@
 [build]
   base = "book/website"
   command = "pip install -r requirements.txt && jupyter-book build ."
-  publish = "book/website/_build/html"
+  publish = "_build/html"
 
 # Do not build deploy previews for branches from all-contributors bot
 [context.deploy-preview]
@@ -15,7 +15,7 @@ fi
 
 # A redirect rule with all the supported properties
 [[redirects]]
-  # Root page changed in https://github.com/alan-turing-institute/the-turing-way/pull/2994
+  # Root page changed in https://github.com/the-turing-way/the-turing-way/pull/2994
   from = "https://the-turing-way.netlify.app/welcome"
   to = "https://the-turing-way.netlify.app/index.html"
   # The default HTTP status code is 301, but you can define a different one.
@@ -24,7 +24,7 @@ fi
 
 # A redirect rule with all the supported properties
 [[redirects]]
-  # Root page changed in https://github.com/alan-turing-institute/the-turing-way/pull/2994
+  # Root page changed in https://github.com/the-turing-way/the-turing-way/pull/2994
   from = "https://the-turing-way.netlify.app/welcome.html"
   to = "https://the-turing-way.netlify.app/index.html"
   # The default HTTP status code is 301, but you can define a different one.

@@ -19,11 +19,11 @@ If you would like to join _The Turing Way_ co-working hour - sign up for a slot 
 
 **Host:** Malvika Sharan (msharan@turing.ac.uk)
 
-*If you can't join from the beginning of the hour, please let the host know by contacting on [Gitter](https://gitter.im/alan-turing-institute/the-turing-way) or via email.*
+*If you can't join from the beginning of the hour, please let the host know by contacting on [Gitter](https://gitter.im/the-turing-way/the-turing-way) or via email.*
 
 ### Code of conduct
 
-* [Take a moment to read this](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md)
+* [Take a moment to read this](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md)
 
 :hourglass_flowing_sand: **Schedule:**
 

@@ -38,3 +38,35 @@ We invite you to contribute to this chapter by adding important tools or practic
 ```
 
 In the different subchapters we discuss how you can {ref}`start planning<pd-overview-planning>` for project design, the {ref}` communication and collaboration<pd-overview-repro>` aspect for ensuring reproducibility, {ref}`tools and methods<pd-overview-methods>` for reproducibility, {ref}`version control and documentation<pd-overview-version>` aspects and {ref}`sharing your research<pd-overview-sharing>`.
+
+(pd-overview-mistakes)=
+## Learning from Mistakes
+
+> “Building takes many, many mistakes.”
+> ― Becky Chambers, [The Long Way to a Small, Angry Planet](https://www.goodreads.com/work/quotes/42270825)
+
+Learning about past design mistakes can give us insight into what we can do differently in the future.
+We asked a group of researchers to share what they consider their project design regrets, which we have summarised here:
+
+- Not advocating for clearer goals and success criteria from the beginning.
+- Not communicating the project vision clearly/often enough to the other team members.
+- Not ensuring that all stakeholders were fully aware of the nature of the project.
+- Not understanding that project design is about people first. Designs motivate stakeholders and allow collaboration and inclusion.
+- I guess I wrote these as actions I wish I had done better - Not setting short- and long-term milestones, communicating and enforcing norms for collaborator engagement, delegating work and project management tasks.
+- Not having documentation besides final reports. When being asked about the code or dataset (raw and process), step by step process from preparing data to getting the results, lack of documented guidance in one place made it hard to trace the project with all team members (classic problem).
+- Not properly taking into account the degree to which requirements will change throughout a project - which happens a lot in academia - and the effect this has on designs that then also need to change.
+- Trying to plan too much at the beginning and never getting started.
+- Feeling like I am always taking an ad hoc approach to planning a project and then feeling like I am spending too much time on the organisation side of the project because I don’t have a set workflow to handle project planning and design. Also, not knowing how project planning fits into project design.
+- Using a very messy excel to store/process data, the shame!
+- Over-engineering a design for features that didn’t end up being implemented (in life before academia!)
+- Not implementing Git flow from the start, and not teaching collaborators how to use Git flow.
+- Not developing tests until after a significant amount of code was written.  
+- Not doing code reviews.
+- Not defining use scenarios for the software from the beginning, meaning we didn’t pay enough attention to data input and output.  
+- Agonising too long before switching to objectively better design (particularly translating from a largely functional codebase to more object-oriented).    
+- Going with options that team members are ‘comfortable’ with (for example, using outdated languages or platform-dependent compilers), rather than teaching team members new skills. Makes life more difficult in the long run.
+- Defining governance at different stages of the project or potential scenario planning for how governance might change as the project scales up/down/gains new users and so on.
+- Not thinking about community from the start, starting with a Code of Conduct, thinking about a Contributor License Agreement (intellectual property), what processes will be used and how they will work, how they will impact future contributors and the overall project.
+
+_This section summarises participants' notes from a short workshop called "Good Practices for Designing Software Development Projects (The Turing Way)" at the [Collaboration Workshop 2021](https://www.software.ac.uk/cw21)  hosted by [Software Sustainability Institute](https://www.software.ac.uk). The workshop was delivered by Malvika Sharan, Emma Karoune and Batool Almarzouq on 31 March 2021. Zenodo. DOI: [10.5281/zenodo.4650221](https://doi.org/10.5281/zenodo.4650221)._
+
