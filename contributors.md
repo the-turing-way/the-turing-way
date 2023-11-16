@@ -55,16 +55,15 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 * Short bio:
 > I am a co-lead of The Turing Way, which is part of my responsibility as a TPS Senior Researcher. I also lead a team of Research Community Managers at the Turing.
 > I was previously a community manager (2019-2021).
-> I work with a community of diverse members to develop resources and ways that can make data science accessible to a wider audience.
-> After receiving my PhD in Bioinformatics, I worked at the European Molecular Biology Laboratory, in Germany, which helped me solidify my expertise and identity as an Open Researcher and community builder.
-> I co-founded the Open Life Science mentoring program in 2019 to help enhance access to Open Leadership tools for individuals interested in building communities around their work.
-> I am also a fellow of the Software Sustainability Institute and a board member of the Open Bioinformatics Foundation.
+> I co-founded the [OLS (previously Open Life Science)](https://openlifesci.org/) training and mentoring program in 2019 to help enhance access to Open Leadership tools for individuals interested in building communities around their open projects.
+> I am a fellow of the Software Sustainability Institute. I have several current and previous advisory appointments across different open science initiatives including NASA-TOPS, Code for Science and Society, The Carpentries, Society of RSE, Open Bioinformatics Foundation and MetaDocencia.
 
 * Personal highlights:
-> I appreciate the opportunities for facilitating the work our contributors carry out in this community space while learning new skills and ideas from them.
-> Through my research, community engagements, talks, panel sessions and workshops, I like to interact with members across different research domains, whom I otherwise will never get a chance to meet.
-> Besides connecting with members from diverse perspectives, my highlights in _The Turing Way_ are co-developing community governance, acknowledgement pathways, and community resources in the [Community Handbook](https://the-turing-way.netlify.app/community-handbook) for our members.
-> I enjoy designing training resources around leadership in research in collaboration with [Open Life Science](https://openlifesci.org/).
+> I love working with the open science community. Over the years, I have worked to establish *The Turing Way* as a place to convene, build cross-community collaborations and highlight practices and resources from different sectors through the work of our community members.
+> Through my research, community engagements, talks, panels and workshops, I like to interact with members across different research domains, whom I otherwise will never get a chance to meet.
+> Besides connecting with members from diverse perspectives, my highlights in _The Turing Way_ are establishing collaborative spaces including Book Dash, Fireside Chat and Coworking Calls.
+> Among many chapters I have written across different guides, I am very proud of setting our [Community Handbook](https://the-turing-way.netlify.app/community-handbook) and co-developing resources on community governance, acknowledgement processes and various community opportunities.
+> I enjoy designing training and skill building opportunities alongside *The Turing Way* book to enable their adoption by individuals and organisations effectively.
 
 ### Anne Lee Steele
 
@@ -99,32 +98,54 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > Prior to that, she lived in Peru where she was the CEO of Teatro La Plaza, one of Latin America’s leading theatre companies. There, she oversaw the production of over 100 theatre plays for adults and children, such as Mamma Mia!, Billy Elliot, The curious incident of the Dog in the Nighttime, and Hamlet (with a cast of actors with Down syndrome), among many others.
 > Alexandra is a positive and curious person who enjoys learning and discovering new things.
 
-## Translation and Localisation Working Group Leads
+## Sub-Projects and Working Groups Led by the Community Members
+
+### Translation and Localisation Working Group Leads
+
+*Project Information: [Chapter in the Community Handbook](https://the-turing-way.netlify.app/community-handbook/translation)**
 
 - [Andrea Sanchez Tapia](https://the-turing-way.netlify.app/afterword/contributors-record#andrea-sanchez-tapia)
 - [Batool Almarzouq](https://the-turing-way.netlify.app/afterword/contributors-record#batool-almarzouq)
 - [Melissa Black](https://the-turing-way.netlify.app/afterword/contributors-record#melissa-black)
 
-## Infrastructure Working Group Leads
+### Infrastructure Working Group Leads
 
-### Sarah Gibson
+*Project Information: [GitHub issues](https://github.com/the-turing-way/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3Ainfrastructure)*
 
 - [Brigitta Sipőcz](https://the-turing-way.netlify.app/afterword/contributors-record#brigitta-sipocz)
 - [Danny Garside](https://the-turing-way.netlify.app/afterword/contributors-record#danny-garside)
 - [Jim Madge](https://the-turing-way.netlify.app/afterword/contributors-record#jim-madge)
 - [Sarah Gibson](https://the-turing-way.netlify.app/afterword/contributors-record#sarah-gibson)
 
-## Accessibility Working Group Leads
+### Accessibility Working Group Leads
+
+*Project Information: [GitHub issues](https://github.com/the-turing-way/the-turing-way/issues?q=is%3Aissue+is%3Aopen+accessibility+label%3Aaccessibility)*
 
 - [Liz Hare](https://the-turing-way.netlify.app/afterword/contributors-record#liz-hare)
 
-## Book Dash Working Group Leads
+### Book Dash Working Group Leads
+
+*Project Information: [Chapter in the Community Handbook](https://the-turing-way.netlify.app/community-handbook/bookdash)*
 
 - [Arielle Bennett](https://the-turing-way.netlify.app/afterword/contributors-record#arielle-bennett)
 - [Emma Karoune](https://the-turing-way.netlify.app/afterword/contributors-record#emma-karoune)
 - [Esther Plomp](https://the-turing-way.netlify.app/afterword/contributors-record#esther-plomp)
 
-**Contributors names are added alphabetically**
+### Professionalising Data Science Roles - Turing's Skills Policy Award
+
+*Project Information: [GitHub Repository](https://github.com/alan-turing-institute/professionalising-data-science-roles)*
+
+- [Emma Karoune](https://the-turing-way.netlify.app/afterword/contributors-record#emma-karoune)
+- [Malvika Sharan](https://the-turing-way.netlify.app/afterword/contributors-record#malvika-sharan)
+
+### *The Turing Way* Practitioners Hub - BridgeAI-funded Project
+
+*Project Information: [Webpage](https://www.turing.ac.uk/turing-way-practitioners-hub)*
+
+- [Malvika Sharan](https://the-turing-way.netlify.app/afterword/contributors-record#malvika-sharan)
+- [Alexandra Araujo Alvarez](https://the-turing-way.netlify.app/afterword/contributors-record#alexandra-araujo-alvarez)
+
+## Contributors information are listed alphabetically**
 
 <!---A--->
 ## A
