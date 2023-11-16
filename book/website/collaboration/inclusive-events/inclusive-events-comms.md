@@ -51,7 +51,12 @@ Attendees with caring responsibilities may need to hire and arrange alternative 
 By providing guidance along with a "Save the Date", your attendees would have appropriate time be able to make arrangements, and also be able to make an informed choice about if they are able to attend. 
 
 Consider sending out different forms of a "Save the Date" to support how different people use and interact with online calendars. 
-For example, sending out an online calendar placeholder, an email invitation written in plain text with formatted headings, attaching a PDF flyer with "Save the Date" information, and promoting "Save the Date" information through your usual communication channels such as Slack, LinkedIn or organization's website and social media. 
+For example, depending on your attendees you may need to:
+* send out an online calendar placeholder,
+* send an email invitation written in plain text with formatted headings,
+* attach a PDF flyer with "Save the Date" information to any emails,
+* and promote the "Save the Date" information through your usual communication channels such as Slack, LinkedIn or organization's website and social media. 
+
 This can ensure that people who use different communication channels are able to receive the information in a medium that is accessible to them and through the channel they are most comfortably using. 
 
 ```{note} 
