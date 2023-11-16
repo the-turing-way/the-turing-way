@@ -127,11 +127,6 @@ These are the restrictions placed on the licencee of a RAIL-M license:
 
 RAIL-S licences carry their [Software Usage Restrictions](https://www.licenses.ai/source-code-license).
 
-This flow diagram guides you through the choice of a suitable RAIL:
-
-![source: https://www.licenses.ai/blog/2022/8/18/naming-convention-of-responsible-ai-licenses](https://images.squarespace-cdn.com/content/v1/5c2a6d5c45776e85d1482a7e/381a69a4-28d9-4b6a-be5c-516330e7d8b9/diagram.png)
- <!-- alt text needed! -->
-
 RAIL license can be used in closed applications and Open RAIL licenses are permissive with respect to the model and software but not with respect to the usage restrictions.
 Note that there is not an effective equivalent to a copyleft version of the Open RAIL licences.
 None of them require that the software or models contained in them also be similarly licenced in derived works, only that the usage restrictions be retained.
