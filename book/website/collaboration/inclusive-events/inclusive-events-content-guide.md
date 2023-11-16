@@ -115,4 +115,16 @@ Robustness refers to the importance of content on your event page's website bein
 The guidance provided here is not an exhaustive list of accessibility requirements, and with all other planning of your event, it is best to work with the specific group and demographic of attendees that will be at your event. 
 This can help ensure that any content accessibility requirements specific to your attendees can be identified and addressed before the start of your event.
   
-  
+  **Resources:**
+  Below, we share some resources so that you can find out about events and accessible material.
+
+-  [Buenas prácticas para crear presentaciones accesibles](https://www.metadocencia.org/post/presentaciones-accesibles/)
+
+- [Checklist para presentaciones accesibles](https://drive.google.com/file/d/1sBeuVn8koBm9vRkcyTvW5yEN6F109lVs/view) 
+
+- [Cómo hacer reuniones virtuales pensadas para todas las personas](https://www.metadocencia.org/post/accesibilidad_1/)
+
+- [How to Make Virtual Meetings Accessible](https://www.levelaccess.com/blog/how-to-make-virtual-meetings-accessible)
+
+- [Make your PowerPoint presentations accessible to people with disabilities](https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25#:~:text=In%20PowerPoint%2C%20the%20Accessibility%20Checker,%2C%20select%20Review%20%3E%20Check%20Accessibility)
+
