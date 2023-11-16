@@ -205,6 +205,8 @@ parts:
                 file: reproducible-research/reviewing/reviewing-motivation
               - title: Recommendations for code reviewing
                 file: reproducible-research/reviewing/reviewing-recommend
+              - title: When code review goes wrong
+                file: reproducible-research/reviewing/reviewing-challenges
               - title: Code review workflow
                 file: reproducible-research/reviewing/reviewing-workflow
               - title: Checklist for code reviewing

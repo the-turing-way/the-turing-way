@@ -12,6 +12,10 @@ testing 35%, integration testing 45%, and code review 55-60%. While that
 means that none of these methods are good enough on their own, and that they
 should be combined, clearly code review is an essential tool here.
 
+## Catching issues early
+
+
+
 (rr-reviewing-motivation-bugs)=
 ## Catching Bugs and Elementary Errors
 
@@ -42,6 +46,11 @@ This kind of feedback on documentation applies equally to user-facing documentat
 
 Related to documentation, code review can also help to ensure that code is readable and easy to understand. Having a second pair of eyes can help spot areas where the code might be difficult to follow.
 The more readable your code is, the easier it will be for other developers to reproduce your code for their own purposes.
+
+## Deployability
+
+
+
 
 (rr-reviewing-motivation-enforcement)=
 ## Style Enforcement
