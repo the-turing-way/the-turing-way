@@ -192,14 +192,14 @@ Also give an overview of the state of the hardware, software and documentation (
 | Documentation item | Audience | Content | Location |
 | -------- | -------- | -------- | -------- |
 |Project overview| General community| Project definition, scope, audience, licensing, and directions to more specialized documentation. Expectation management: state what information is missing and main caveats. | Front page, README.md| 
-|Communication| General community| Links to communication channels: support platforms ( forum, issues at an online repository), online community platforms (e.g. forums, chats, etc.), direct contact information, dates for joining in-person or online events. | Front page, README.md| 
+|Communication| General community| Links to communication channels: support platforms ( forum, issues at an online repository), online community platforms (for instance forums, chats, etc.), direct contact information, dates for joining in-person or online events. | Front page, README.md| 
 |Contributions| General community| Description of the process of getting involved. List of possible contributions: donations, investments, beta testing, feature development, collaborations, reporting issues. | Contributions page, CONTRIBUTING.md| 
 |Usage| Users| Intended usage instructions, limitations, other use cases. Troubleshooting. Links to learning resources, maintenance and assembly guides. | Usage guide| 
 |Assembly| Manufacturers, Users | Complete description of: the assembly process, used parts, required knowledge, training, number of people, time, and tools. Links to learning resources. | Assembly guide| 
 |Maintenance| Technical support, Users| Instructions for manintenance operations, stating frequency, tested replacement parts, alternatives, and the required skills. List of maintenance services and learning resources. | Maintenance guide| 
-|Design | Developers, Contributors, Educators| Description of the overall design rationale. List of the main design choices and implications (e.g. functional compromises). Minimal explanation of the working principles, and links to external learning resources. | Development page, DEVELOPMENT.md| 
+|Design | Developers, Contributors, Educators| Description of the overall design rationale. List of the main design choices and implications (functional compromises or other decisions). Minimal explanation of the working principles, and links to external learning resources. | Development page, DEVELOPMENT.md| 
 |Technical contributions| Manufacturers, Developers, Technical support| Development roadmap, guidelines, core team and contributors, communication channels, version control system, related works. Description of the typical contribution process. Examples of (un)successful contribution processes. | Contributions page, CONTRIBUTING.md| 
-|Development| Developers| Development tools (e.g. IDEs, EDA, or CAD software) and style guidelines. Setup for development and testing. Detailed overview of the hardware modules and software. Specifications of the internal and external hardware interfaces. Tutorials and examples of how to get started. | Development page, DEVELOPMENT.md| 
+|Development| Developers| Development tools (IDEs, EDA, or CAD software) and style guidelines. Setup for development and testing. Detailed overview of the hardware modules and software. Specifications of the internal and external hardware interfaces. Tutorials and examples of how to get started. | Development page, DEVELOPMENT.md| 
 
 -->
 
@@ -215,7 +215,7 @@ In contrast to project documentation and community building, technical documents
 Depending on the project, technical documents may include technical drawings, images describing electronic schematics, computer-aided design ([CAD](https://en.wikipedia.org/wiki/Computer-aided_design)) files, or assembly instructions to replicate the design.
 A thoroughly documented project will have all types of documents.
 It may also include code (firmware and software) necessary to run the hardware.
-The source files (e.g. CAD files) are best accompanied by textual and multi-medial documentation, such as guides for manufacturing, assembly, maintenance, and development.
+The source files (like CAD files) are best accompanied by textual and multi-medial documentation, such as guides for manufacturing, assembly, maintenance, and development.
 
 We provide here a quite exhaustive list of documentation elements.
 Your project may not need all of them, but it is worth considering having at least minimal information for most of these elements:
@@ -240,7 +240,7 @@ Either way, it is good to provide captions or text that explain what is shown in
 A functional overview of the project's parts/modules can also be included. 
 Ideally, your OSH project would be designed using a free and open source software application, to maximize the ability of others to view and edit it. 
 It is essential to share these original design files, in both original and accessible ready-to-view formats. 
-The type of parts can also be mentionned with unambiguous reference, between, custom parts (e.g. developed as a result of this or another project), off-the-shelf parts (e.g. screws) or (maybe proprietary) complex modules (for example, a single board computer). 
+The type of parts can also be mentionned with unambiguous reference, between, custom parts (developed as a result of this or another project), off-the-shelf parts  (like screws) or (maybe proprietary) complex modules (for example, a single board computer). 
 
 -  **Software and firmware**: You should share any code or firmware required to operate your hardware. 
 This will allow others to use it with their hardware or modify it along with their modifications to your hardware.
