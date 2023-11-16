@@ -328,7 +328,8 @@ Please refer to The Turing Way's chapter on {ref}`cm-lay-summaries` for more gui
 ## Content Accessibility Guidance 
 Ensuring that event communications, including printed content, are accessible to all attendees is critical. We have written a short guide for creating accessible content and presentations in {ref}(cl-inclusive-events-accessibility-guide) where you will find in-depth information and suggestions for how to make your presentations and content more accessible for your event.
 
-These recommendations include using at least a size 14 text in an accessible font type, and ensuring that your presentations and other material use high-contrast colours to support readability. You should also ensure that any images you use are accompanied by an alternative text description and remember to not embed any important information in an image or image file. 
+These recommendations include using at least a size 14 text in an accessible font type, and ensuring that your presentations and other material use high-contrast colours to support readability. 
+You should also ensure that any images you use are accompanied by an alternative text description and remember to not embed any important information in an image or image file. 
 
 A large part of inclusion is about building trust. 
 Even if your email contains all the details that an image of your flyer does, a person who is unable to access the information in the image will not know if there is information they are missing out on. 
