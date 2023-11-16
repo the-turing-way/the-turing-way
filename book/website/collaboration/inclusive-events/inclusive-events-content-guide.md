@@ -34,17 +34,23 @@ Please review the following recommendations and ensure that any material you hav
 - Consider using plain text for emails and providing flyers or images as attachments that are accompanied by Alternative Text Descriptions. 
 
 ### Provide Alt-text (Alternative Text) descriptions for online images in your content.
-- Always use alternative text to accurately describe images that contain information relevant to the text. This is helpful for people with visual impairments who use screen readers and for people with low bandwidth internet where images may not load on a page.
-On the other hand, decorative images should have basic alternative text  to avoid including unnecessary information that could make it harder to understand the content.
+Always include alternative text descriptions that accurately describe images and contain information relevant to the text. 
 
+Alt-text descriptions are helpful for people with visual impairments who use screen readers and for people with low bandwidth internet where images may not load on a page.
+They provide information that the image is used to convey and can help explain the content and context of any information referenced in the image. 
+
+Images include pictures, gifs, tables, graphs, diagraphs, and illustrations and other graphics. 
+
+Any images used in your event's content (including those of the speakers and presenters) should be accompanied by a basic alternative text description to avoid including unnecessary information that could make it harder to understand the content.
 
 ### Avoid blinking or flashing that could cause seizures. 
 - Some people find certain motions or animations to be highly distracting, and some people may even become sick from them. Therefore, consider if the motion is necessary and if it will make the material easier to understand.
-#### Use the style and formating tool in text editors for headings.
+
+#### Use the style and formatting tool in text editors for headings.
 - Font size by itself is not detectable by screen readers. Instead use the heading and title style tools in programs such as Microsoft Word, and Google Docs. 
 
 ### Working with Speakers
-You may want to consider sending reccomendations to any speakers or session facilitators at your event. 
+You may want to consider sending guidance or recommendations to any speakers or session facilitators who will be presenting content at your event. 
 
 Consider if you and your team are able to review material submitted by speakers for your event, and what resources you have to support them in making their session content accessible for an audience of people with lived experience or accessibility needs. 
 
