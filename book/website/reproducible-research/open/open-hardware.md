@@ -363,7 +363,7 @@ Zenodo also has an integration with Github such that projects that are shared an
 
 A crucial step to making OSH open is by adding an open license.
 Without an open license, others cannot legally use, copy, distribute, or modify that project.
-The situation of license for hardware is a bit more complex than for other research outputs, as there are some cases where patent law and not copyright law will apply. 
+The situation of hardware licensing is a bit more complex than for research outputs like software, as there are some cases where patent law and not copyright law will apply. 
 Also note that you may use different licenses for different part of the project.
 
 Please refer to {ref}`rr-licensing` and {ref}`rr-licensing-hardware`.
