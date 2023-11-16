@@ -370,12 +370,17 @@ Please refer to {ref}`rr-licensing` and {ref}`rr-licensing-hardware`.
 
 Common OSH license are:
 
-[TAPR](https://tapr.org/the-tapr-open-hardware-license/) Similar to GNU GPL 3.0, [SOLDERPAD](http://solderpad.org/) Similar to Apache License 2.0, [CERN-OHL 2](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2) which comes as: CERN-OHL-S (Strongly reciprocal), CERN-OHL-W (Weakly reciprocal), CERN-OHL-P (Permissive).
+- [TAPR](https://tapr.org/the-tapr-open-hardware-license/) 
+- Similar to GNU GPL 3.0, [SOLDERPAD](http://solderpad.org/) 
+- Similar to Apache License 2.0, [CERN-OHL 2](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2) which comes as: 
+   - CERN-OHL-S (Strongly reciprocal) 
+   - CERN-OHL-W (Weakly reciprocal)
+   - CERN-OHL-P (Permissive).
 
 # References/glossary
 
 
-Bonvoisin, Jérémy, Jenny Molloy, Martin Haeuer, and Tobias Wenzel. “Standardisation of Practices in Open Source Hardware.” Journal of Open Hardware 4, no. 1 (August 19, 2020): 2. https://doi.org/10.5334/joh.22.
+Standardisation of Practices in Open Source Hardware by {cite:ps}`Bonvoisin2018`
 
 This Chapter of the book was created reusing the following documents:
 
