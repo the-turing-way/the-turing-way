@@ -151,7 +151,7 @@ This includes guides for technology such as Zoom, Slido, Slack, and any interact
 Before completing your guide, check if the tool or platform provides any documentation or tutorial material as part of their onboarding. 
 Documentation provided by the developer can often highlight any accessibility features specific to that tool as well as being written for a general audience with no previous experience with the tool.
 
-Ensure that these guides are written in an Easy-Read format and clearly explain both how to access, and how to use any of the technology required to engage at your event.
+Ensure that these guides are written in an Easy-Read and/or Plain Language format so that they clearly explain both how to access, and how to use any of the technology required to engage at your event.
 
 These guides should be provided before your event starts to allow attendees to familiarize themselves with the technology and troubleshoot any barriers or issues ahead of time. 
 
