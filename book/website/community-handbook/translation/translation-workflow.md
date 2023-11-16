@@ -19,6 +19,7 @@ Everyone interested in participating in a translation effort should be able to w
 
 Before starting a translation project, check out the existing languages being translated.
 Is the language that interests you in the localisation platform? If it isn't, reach out to the team to create a new translation team.
+You can see the list of language teams and their managers in the project's [Readme](https://turingway.crowdin.com/turing-way#readme/)
 If the language team already exists reach out to the team so you can join them.
 
 When starting a new language translation, there are several aspects to consider in terms of the workflow and translation guidelines.
