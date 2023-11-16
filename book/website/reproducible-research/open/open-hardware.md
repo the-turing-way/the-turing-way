@@ -176,7 +176,7 @@ Someone trying to build it from scratch, for example, will require specific set 
 A different set is needed to perform maintenance tasks.
 An end user operating the assembled project might require an entirely distinct skillset (and documentation).
 
-**Take particular care about safety instructions. OSH makers are not always trained engineer and may not recognize dangerous from safe manipulations.**
+**Take particular care about safety instructions. OSH makers are not always formally trained engineers and may not be able to easily differentiate between dangerous and safe manipulations.**
 
 Your project documentation may also include a functional overview of the project's parts or modules, as well as a short description of the software needed to use the hardware.
 Also give an overview of the state of the hardware, software and documentation (current state, ongoing development, and/or any future plans for the project), and other information you think may be useful for newcomers.
@@ -212,7 +212,7 @@ Also give an overview of the state of the hardware, software and documentation (
 
 Technical documents provide the source needed to study and replicate a hardware design.
 In contrast to project documentation and community building, technical documents for OSH are quite specific, but can be considered analogous to what source code is for software.
-Depending on the project technical documents may include technical drawings, images describing electronic schematics, computer-aided design ([CAD](https://en.wikipedia.org/wiki/Computer-aided_design)) files, or assembly instructions to replicate the design.
+Depending on the project, technical documents may include technical drawings, images describing electronic schematics, computer-aided design ([CAD](https://en.wikipedia.org/wiki/Computer-aided_design)) files, or assembly instructions to replicate the design.
 A thoroughly documented project will have all types of documents.
 It may also include code (firmware and software) necessary to run the hardware.
 The source files (e.g. CAD files) are best accompanied by textual and multi-medial documentation, such as guides for manufacturing, assembly, maintenance, and development.
@@ -220,13 +220,18 @@ The source files (e.g. CAD files) are best accompanied by textual and multi-medi
 We provide here a quite exhaustive list of documentation elements.
 Your project may not need all of them, but it is worth considering having at least minimal information for most of these elements:
 
-- A **context description** which may reflects project maturity, complexity, the intentions of authors on how it should be used, and technical specifications. It may include standards compliance (the [DIN-SPEC](https://gitlab.com/OSEGermany/OHS-3105) standard for instance) and an estimation of the overall required budget and build time.
+- A **context description** which may reflect project maturity, complexity, the intentions of authors on how it should be used, and technical specifications. 
+  It may include standards compliance (the [DIN-SPEC](https://gitlab.com/OSEGermany/OHS-3105) standard for instance) and an estimation of the overall budget required and build time.
 
 - A **Bill of Materials** (BOM): a list or spreadsheet describing part numbers, putative suppliers, costs, and a short description. Make it easy to tell which item in the bill of materials corresponds to which component in your design files: use matching reference designators in both places, provide a diagram indicating which part goes where, or otherwise explain the correspondence.
 
-- **Assembly instructions**. To help others make and modify your hardware design, you should provide instructions for going from your design files to the working physical hardware. It is good to publish annotated photographs (or video) from multiple viewpoints and at various stages of assembly. If you do not have photos, posting annotated 3D renderings of your design is a good alternative. Either way, it is good to provide captions or text that explain what is shown in each image and why it is useful.
+- **Assembly instructions**. To help others make and modify your hardware design, you should provide instructions for going from your design files to the working physical hardware. 
+It is good to publish annotated photographs (or video) from multiple viewpoints and at various stages of assembly. 
+If you do not have photos, posting annotated 3D renderings of your design is a good alternative. 
+Either way, it is good to provide captions or text that explain what is shown in each image and why it is useful.
 
-    - **Manufacturing instructions**: The manufacturing process of parts that have been made for this project should be documented as well. This is specially important if they are available for purchase from only a handful of small/medium businesses.
+- **Manufacturing instructions**: The manufacturing process of parts that have been made for this project should be documented as well. 
+    This is specially important if they are available for purchase from only a handful of small/medium businesses.
 
 - A **list of required tools** and associated settings, for both software used for development, and machine tools for replication.
 
