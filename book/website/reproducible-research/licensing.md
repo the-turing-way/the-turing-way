@@ -269,16 +269,6 @@ Organisations which take legal action in defence of free software, and which can
 - [Free Software Foundation Europe (FSFe) - legal work](https://fsfe.org/activities/legal.en.html)
 - [Electronic Fontiers Foundation - legal cases](https://www.eff.org/cases)
 
-(rr-licensing-ethics-copyright-wellcoming)=
-### Being a wellcoming space to those who do not want to use proprietary software
-
-Some people avoid using non-free software on principle to the greatest extent that they can.
-It is highly impractical to completely avoid all non-free software in the world today, so many have compromises and workarounds.
-This might include measures such as only running proprietary code in a sandboxed environment like a web browser, but this can impose an additional burden on these users.
-This is especially true if proprietary tools do not offer first class features in browsers or support free software operating systems like Linux.
-Consequently, the choice to use open infrastructure is important if you want to be inclusive of people who adhere strongly to the free software ethos and consider being asked to use non-free software as an imposition.
-A small minority of people simply will not participate if doing so requires that they use non-free software.
-
 (rr-licensing-ethics-copyright-edge)=
 ### Pertinant edge cases
 
@@ -295,6 +285,17 @@ To get around this, some copy-left projects developed by companies that commerci
 Under a proprietary license the code is generally not made public.
 Some projects share their code but do not licence its re-use, modification or redistribution.
 This is known as being 'source available' or 'shared-source', the [Vivaldi](https://vivaldi.com/) web browser is an example of such a project.
+
+(rr-licensing-ethics-wellcoming)=
+## Being a wellcoming space to those who do not want to use proprietary software
+
+Some people avoid using non-free software on principle to the greatest extent that they can.
+It is highly impractical to completely avoid all non-free software in the world today, so many have compromises and workarounds.
+This might include measures such as only running proprietary code in a sandboxed environment like a web browser, but this can impose an additional burden on these users.
+This is especially true if proprietary tools do not offer first class features in browsers or support free software operating systems like Linux.
+Consequently, the choice to use open infrastructure is important if you want to be inclusive of people who adhere strongly to the free software ethos and consider being asked to use non-free software as an imposition.
+A small minority of people simply will not participate if doing so requires that they use non-free software.
+
 
 (rr-licensing-where)=
 ## How and where to add licenses
