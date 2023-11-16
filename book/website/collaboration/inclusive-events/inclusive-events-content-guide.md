@@ -20,7 +20,7 @@ Please review the following recommendations and ensure that any material you hav
 
 #### Use high contrast colours in all content.
 - The best example of high contrast colours is using dark text on a light background.
-- If you are planning on using different colour palettes to create content and make communication more visually appealing, please ensure that your colours meet Accessibility Standards for Low Vision and Colour Blindness.
+- If you are planning on using different colour palettes to create content and make communication more visually appealing, please keep in mind that a contrast ratio of at least 4.5:1 is recommended for small text (12 point) and a ratio of 3:1 for large type (18 or 14 point bold). You could check if contrast is being used correctly with these free resources: [Contrast checker](https://contrastchecker.com/) and [Deque University Contrast](https://dequeuniversity.com/color-contrast).
 - You may want to consider giving speakers and presenters a guide on how to make their posters and presentations accessible if your event hosts a poster session.
 #### Avoid backgrounds that have an excessive amount of colors, shapes, or graphics.
 - In this manner, reading becomes more enjoyable since the text won't be overwhelmed by an overly busy background.
