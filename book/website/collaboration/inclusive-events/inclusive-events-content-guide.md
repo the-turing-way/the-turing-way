@@ -17,10 +17,16 @@ Please review the following recommendations and ensure that any material you hav
 - "Sans Serif" refers to fonts that do not have embellishments or lines on the letters.
 - Using a *Serif* font such as Times New Roman can negatively impact readability and make it harder for people with dyslexia to read information. 
 - Using a *Sans Serif* font is especially important for online content such as emails and websites.
-### Use line spacing in text
-- When the spaces between the lines are too close, the top lines collide with the bottom lines, reading becomes more complex, and the eyes get tired. If they are too wide, it is difficult to find the following line. It is good practice to use 1.5 line spacing.
 
-#### Use high contrast colours in all content.
+#### Provide appropriate line spacing in text
+When there is either not enough, or too much, space between two lines of text it becomes more difficult to read. 
+
+Lines that are spaced too close together can cause eyestrain and lines that are too wide apart make it difficult for our eyes (and brain) to find the following line. 
+Line spacing is especially important if your content involves large and unbroken paragraphs of text, and can disproportionately affect people with reading difficulties, visual impairments, or who are reading your content their non-native language.
+
+The best practice is to use 1.5 line spacing.
+
+#### Use high-contrast colours in all content.
 - The best example of high-contrast colours is using dark text on a light background.
 - If you are planning on using different colour palettes to create content and make communication more visually appealing, please keep in mind that a [contrast ratio](https://www.maine.edu/content-management/accessibility/color-ratio/) of at least 4.5:1 is recommended for small text (12 point) and a ratio of 3:1 for large type (18 or 14 point bold).
     - You can check if contrast is being used correctly with these free resources: [Contrast checker](https://contrastchecker.com/) and [Deque University Contrast](https://dequeuniversity.com/color-contrast).
