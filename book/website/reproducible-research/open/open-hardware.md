@@ -146,7 +146,7 @@ Working with OSH designs allows students and researchers to fully understand how
 
 
 In order to make your hardware reusable and modifiable by others, its source should be shared with an appropriate license.
-This is usually done via specific online platforms.
+This is usually done via specific online platforms (see {ref}`rr-open-hardware-platforms`.
 The type and amount of shared content depends on the complexity of the OSH, and on the importance of the community aspects of the project.
 
 In the following sections, you can find descriptions of the common types of content that you should consider sharing, such as project documentation, technical documentation, and community interactions.
@@ -303,6 +303,7 @@ For OSH to be effectively adopted, reused, and developed further, the hardware d
 The global open hardware community utilizes a variety of platforms and online resources to share their work and enable others to collborate on different projects.
 The details on the some of the platforms used and their efficay is in the "platforms" section below. 
 
+(rr-open-hardware-platforms)=
 ## Platforms
 
 The easiest way to share an open hardware project is pushing it online.
