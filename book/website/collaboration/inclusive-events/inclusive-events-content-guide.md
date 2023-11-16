@@ -17,6 +17,8 @@ Please review the following recommendations and ensure that any material you hav
 - "Sans Serif" refers to fonts that do not have embellishments or lines on the letters.
 - Using a *Serif* font such as Times New Roman can negatively impact readability and make it harder for people with dyslexia to read information. 
 - Using a *Sans Serif* font is especially important for online content such as emails and websites.
+### Use line spacing in text
+- When the spaces between the lines are too close, the top lines collide with the bottom lines, reading becomes more complex, and the eyes get tired. If they are too wide, it is difficult to find the following line. It is good practice to use 1.5 line spacing.
 
 #### Use high contrast colours in all content.
 - The best example of high-contrast colours is using dark text on a light background.
