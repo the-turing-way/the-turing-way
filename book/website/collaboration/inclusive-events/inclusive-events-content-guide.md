@@ -13,14 +13,15 @@ Please review the following recommendations and ensure that any material you hav
 #### Use a size 14 (or larger) font for both digital and printed content.
 A size 14 font is the recommended size to make text information legible for a broad audience and support people with lived experience of visual impairments, and other conditions that affect readability.
 
-#### Use a Sans Serif font such as Arial, Tahoma, Verdana, Helvetica or Monserrat.
+#### Use a Sans Serif font.
 "Sans Serif" refers to fonts that do not have embellishments or lines on the letters.
+For example, Arial, Tahoma, Verdana, Helvetica or Monserrat.
 
 Using a *Serif* font such as Times New Roman can negatively impact readability and make it harder for people with dyslexia to read information. 
 
 Using a *Sans Serif* font is especially important for online content such as emails and websites.
 
-#### Provide appropriate line spacing in text
+#### Provide appropriate line spacing in text.
 When there is either not enough, or too much, space between two lines of text it becomes more difficult to read. 
 
 Lines that are spaced too close together can cause eyestrain and lines that are too wide apart make it difficult for our eyes (and brain) to find the following line. 
@@ -58,8 +59,9 @@ Images include pictures, gifs, tables, graphs, diagraphs, and illustrations and 
 
 Any images used in your event's content (including those of the speakers and presenters) should be accompanied by a basic alternative text description to avoid including unnecessary information that could make it harder to understand the content.
 
-#### Avoid blinking or flashing that could cause seizures. 
-Some people find certain motions or animations to be highly distracting, and some people may even become sick from them. Therefore, consider if the motion is necessary and if it will make the material easier to understand.
+#### Avoid blinking or flashing content that could cause seizures. 
+Some people find certain motions or animations to be highly distracting, and some people may even become sick from them. 
+Therefore, consider if the motion is necessary and if it will make the material easier to understand.
 
 #### Use the style and formatting tool in text editors for headings.
 Font size by itself is not detectable by screen readers. 
