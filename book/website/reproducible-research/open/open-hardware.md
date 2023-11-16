@@ -70,7 +70,7 @@ Indeed, you may learn a lot about your needs, refine your ideas, and may even fi
 
 
 
-You may then look and test some ideas  to address your particular need, a process called **prototyping**.
+You may then test some ideas to address your particular need, which is a process called **prototyping**.
 After many iterations and testing, you will be able to select a prototype for further development.
 The design that solves your need but is not yet complete nor stable is called a **demonstrator**.  
 When the design and documentation is polished and can be taken up by hardware producers, the hardware is usually labeled as a **market-ready product**.
