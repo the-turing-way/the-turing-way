@@ -95,7 +95,7 @@ You may need to develop a Glossary specific to your event and area, or consider 
 Robustness refers to the importance of content on your event page's website being compatible with different browsers, now and in the future, and how compatible the content is with different technologies such as screen readers and other assistive technologies. 
 
 ## Conclusion
-The guidance provided here is not an exhaustive list of accessibility requirments, and with all other planning of your event, it is best to work with the specific group and demographic of attendees that will be at your event. 
+The guidance provided here is not an exhaustive list of accessibility requirements, and with all other planning of your event, it is best to work with the specific group and demographic of attendees that will be at your event. 
 This can help ensure that any content accessibility requirements specific to your attendees can be identified and addressed before the start of your event.
   
   
