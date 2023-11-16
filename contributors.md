@@ -18,7 +18,7 @@ You can also describe the impact _The Turing Way_ may have on you or your team m
 
 This record can be used in your personal or professional portfolio (profile, CV, resume) by describing features you have enhanced, goals you have accomplished, skills you gained, opportunities you receive, personal connections you make, individuals you support and values you create through your involvement in _The Turing Way_.
 
-## Core Delivery Staff 
+## Project Delivery Team Members
 
 *The Turing Way* Project Delivery Staff are project and community members who work on the project in a paid capacity such as through employment.
 
@@ -98,7 +98,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > Prior to that, she lived in Peru where she was the CEO of Teatro La Plaza, one of Latin America’s leading theatre companies. There, she oversaw the production of over 100 theatre plays for adults and children, such as Mamma Mia!, Billy Elliot, The curious incident of the Dog in the Nighttime, and Hamlet (with a cast of actors with Down syndrome), among many others.
 > Alexandra is a positive and curious person who enjoys learning and discovering new things.
 
-## Sub-Projects and Working Groups Led by the Community Members
+## Sub-Projects and Working Groups Led by the Team and Community Members
 
 ### Translation and Localisation Working Group Leads
 
