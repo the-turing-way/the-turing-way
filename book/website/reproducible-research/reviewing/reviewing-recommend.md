@@ -5,8 +5,6 @@
 
 Within small-scale projects where the developers all typically already know each other,
 common practice is for the coder to tag someone in the group as the reviewer.
-When you are tagged as a reviewer, first check if you have enough knowledge about
-the new changes in the code to do a good job in a reasonable amount of time.
 
 In contrast, large-scale development projects will likely have existing, concrete rules for
 how reviewers are allocated to individual pull requests.
@@ -14,14 +12,21 @@ These rules serve to balance the group workload and to maximise the various bene
 The very largest projects may even have dedicated staff - or teams of staff - to act as reviewers.
 Typically, code reviews can only be performed by an authorised subset of contributors within larger projects.
 
+If you are a contributor to a more loosely managed or distributed project, a good rule of thumb is to aim to perform reviews in similar quantities to the material you generate for review.
+
 For projects where multiple rounds of review on similar material are likely and long development cycles are anticipated, a degree of strategic thinking on who completes reviews is sensible.
 A single reviewer is likely to be able to make comments on code they have reviewed before much more efficiently.
 However, letting reviewer-coder pairs like this persist is generally a bad idea, as it can lead to the same kinds of groupthink that the review process is designed to avoid in the first place.
 
+Open source projects often also have their own dynamics.
+Contributions may be split between a set of core maintainers, and a larger set of more dispersed contributors, some of whom may have very limited interactions with a project.
+In open source projects it's typically the case that anyone can review a pull request, just as anyone can create one.
+Nevertheless core maintainers, or those who have merge privileges, inevitably have the final say over what gets added to the code, and so also have the largest role when it comes to code review.
+
 (rr-reviewing-recommendation-be-nice)=
 ## Be Nice!
 
-As with all open-source and collaborative enterprises, good internet etiquette makes the whole process go more smoothly.
+As with all open source and collaborative enterprises, good internet etiquette makes the whole process go more smoothly.
 Perhaps most importantly, always assume good faith on both sides of the review interaction, and always be constructive.
 These principles are true for the review process beyond almost any other project aspect, since it necessarily involves criticism, potentially between two complete strangers.
 
