@@ -73,12 +73,12 @@ Indeed, you may learn a lot about your needs, refine your ideas, and may even fi
 You may then test some ideas to address your particular need, which is a process called **prototyping**.
 After many iterations and testing, you will be able to select a prototype for further development.
 The design that solves your need but is not yet complete nor stable is called a **demonstrator**.  
-When the design and documentation is polished and can be taken up by hardware producers, the hardware is usually labeled as a **market-ready product**.
+When the design and documentation are polished and are ready to be used by hardware producers, the hardware is usually labeled as a **market-ready product**.
 
-While many people start generating **documentation** and share their design online at the demonstrator stage, open science enthusiasts advise to be open from the beginning of the phase of the description of the needs.
+While many people start generating **documentation** and share their design online at the demonstrator stage, open science enthusiasts advise being open from the beginning of the description of needs phase.
 
 
-There are different degree in how open an OSH project can be {cite:ps}`Bonvoisin2018`, but every step in the right direction is welcome and an opportunity for better research and new career path.
+There are different degrees for how open an OSH project can be {cite:ps}`Bonvoisin2018`, but every step in this direction is welcome and an opportunity to contribute to better research and open new career paths.
 Designs that are well-documented and offer a solution to a concrete problem can be easily **reused** by others.
 They may **replicate** your design exactly to test it, or **reproduce** it to adapt it to their particular need. 
 It is worth thinking about your future self as one of the project collaborators when balancing the resources used in opening and documenting an OSH project, and the resources used to develop the hardware further.
@@ -104,12 +104,11 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 People develop and share OSH for a variety of reasons. Particularly in research, OSH provides very concrete advantages:
 
-- Flexibility and Speed: you can quickly customize and combine open designs to test new research questions in an accessible way, instead of depending on vendors, their timelines and bureaucracy.
+- Flexibility and Speed: You can quickly customize and combine open designs to test new research questions in an accessible way, instead of depending on vendors, their timelines and bureaucracy.
 
 - Simplicity: As OSH has a lower price tag than conventional equipment, it is much easier to obtain while bypassing the bureaucracy of contracting vendors.
 
-
-- Control: if a supplier goes out of business, users and/or third party companies have the information to keep systems running. 
+- Control: If a supplier goes out of business, users and/or third party companies have the information to keep systems running. 
 
 - Visibility: researchers and engineers developing OSH make their work more visible. They also increase opportunities for networking and impact,especially in project involving a community.
 
