@@ -149,7 +149,9 @@ There are two main considerations for your event website:
 ### Website Accessibility
 Your website should meet Web Accessibility Standards by following the 4 principles of **Perceivability**, **Operability**, **Understandability**, and **Robustness** as outlined in the Web Content Accessibility Guidelines (WCAG). 
 
-This can mean checking that any video content is accompanied by captions, providing Alternative Text descriptions for images, and that any controls or clickable features on the site have text labels that describe the purpose of the feature (for example, a button labelled "Submit Registration Form" or "Contact Us by Email"), and ensuring that your event's website can be used on different browsers (such as Internet Explorer, Firefox, and Safari). 
+This can mean checking that any video content is accompanied by captions, providing Alternative Text descriptions for images. 
+Any controls or clickable features on the site should have text labels that describe the purpose of the feature (for example, a button labelled "Submit Registration Form" or "Contact Us by Email"). 
+Also ensure that your event's website can be used on different browsers (such as Internet Explorer, Firefox, and Safari). 
 
 [Mozilla's Developer Documentation on Web Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG) provides a good overview of how to meet these 4 web accessibility standards and also provides more examples of how to meet each criterion. 
 If you are interested in learning more, you can also review the full guidance published by the [Web Accessibility Initiative](https://www.w3.org/WAI/standards-guidelines/wcag/).
