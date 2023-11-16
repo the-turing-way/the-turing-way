@@ -11,13 +11,14 @@ Researchers should start by identifying the main questions they aim to address t
 Researchers can then proceed to identify the expected minimum viable product of their project, synergies with other projects (similarities as well as differences), measure(s) of success, and the overall impact they hope to achieve.
 After these crucial questions are addressed, planning can focus on the operational aspects of the project, including ensuring that the project is usable and compliant with appropriate external guidelines (for instance, ethics requirements and regulatory limitations). 
 
-```{figure} ../figures/project-design.*
+```{figure} ../figures/accessibility-guide.*
 ---
-name: project-design
-alt: A group of people collaboratively developing a project plan by writing on a giant canvas with a giant pencil to signify the importance of design work in the project management process. 
+name: accessibility-guide
+alt: [Alt text to go here!] 
 ---
  _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
+
 When designing a team-based project, it is important to think about all the skills required for the project and the resources needed to access those skills.
 The project design also includes aspects such as timeline, budget, risks, expectations, resources for project management and preregistration of research protocols.
 With these viewpoints, we welcome chapters defining the requirements in a project in terms of up-skilling, supporting and improving accessibility of different stakeholders.
