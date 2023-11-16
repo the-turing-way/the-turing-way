@@ -84,7 +84,7 @@ parts:
           - title: Licensing
             file: reproducible-research/licensing
             sections:
-                - title: Licensing Software
+              - title: Licensing Software
                 file: reproducible-research/licensing/licensing-software
               - title: License Compatibililty
                 file: reproducible-research/licensing/licensing-compatibility
