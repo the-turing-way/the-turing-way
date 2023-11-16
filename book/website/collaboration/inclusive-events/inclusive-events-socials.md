@@ -1,6 +1,5 @@
 (cl-inclusive-events-social-and-networking-guide)=
 # Inclusive Social and Networking Events
-Although your event's main content and sessions will be well thought out, interesting, and engaging for attendees, many attendees often speak highly of the social and collaborative environments that networking events bring to large events. 
 Social events, dinners, and even standing in the lines for coffee can be some of the best times for attendees to get to know one another, identify potential collaborators, and spark ideas.
 
 As an organizer, you should consider how to make these serendipitous opportunities for networking and socializing as accessible as possible for people with lived experience who are attending your event.
