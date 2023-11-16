@@ -121,12 +121,12 @@ We have curated a few examples based on different event formats that can be used
 * Hosting the online platform and opening the session if there is a waiting room.
 * Placing attendees on mute if there is loud or distracting background noise. 
 * Ensuring the event is recorded and streamed with closed captions and transcription software.
-* Removing people if there is any inappropriate behaviour that contravenes the event's Code of Conduct.
 #### Online Facilitator
 * Supporting the engagement of attendees and moderating conversation.
 * Providing discussion prompts and asking thought-provoking questions.
 * Introducing speakers and presenters.
 * Facilitating Q&A and any polls that are used during the session.
+* Removing people if there is any inappropriate behaviour that contravenes the event's Code of Conduct.
 #### Online Notetaker 
 * Taking notes during the event's sessions and ensuring that they are accessible to all attendees.
 * Summarizing information shared by online participants so that it may be communicated to, and shared with, in-person attendees.
