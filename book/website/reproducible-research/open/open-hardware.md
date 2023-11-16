@@ -319,7 +319,7 @@ Once a project is shared, it can be continuously developed and manintained.
 
 For OSH to be effectively adopted, reused, and developed further, the hardware documentation and other relevant information needs to be shared in a way that is easily accessible at no cost.
 The global open hardware community utilizes a variety of platforms and online resources to share their work and enable others to collborate on different projects.
-The details on the some of the platforms used and their efficacy is discussed further in the following section (named platforms).
+The details on the some of the platforms used and their efficacy is discussed further in the following section {ref}`rr-open-hardware-platforms`.
 
 (rr-open-hardware-platforms)=
 ## Platforms
