@@ -58,7 +58,7 @@ Traffic Light Systems can be a useful tool to set intent and expectations betwee
 
 This can ensure that attendees who wish to not network are not surprised and forced to engage socially at your event, and that people who actively want to engage in conversation can easily identify others who also wish to actively network. 
 
-This traffic light system was used by LeadDev, a UK-based event organizer for their annual conference. 
+This traffic light system was used by [LeadDev](https://leaddev.com/), a UK-based event organizer for their annual conference. 
 > Red lanyards meant the attendee wished to be left alone during networking or social sessions. 
 Any attendees wearing a red sticker could be confident that no one would try to engage them in conversation, and were therefore able to relax and engage in their own activities during social sessions. 
 
