@@ -30,7 +30,7 @@ The timeline for planning a communications schedule for your event will vary gre
 
 When planning an event for people with lived experience, please be mindful that you might need to allocate more time to plan for - and to implement - accessibility requirements, and that many people with lived experience might require information with more notice in order to plan their attendance.
 
-This can support both attendees with a disability who may need to book accessible transport or book support arrangements, but is also good [universal design]((cl-inclusive-events-planning-intro) as it can support people with caregiving responsibilities or people who have busy schedules. 
+This can support both attendees with a disability who may need to book accessible transport or book support arrangements, but is also good {ref}`Universal Design<cl-inclusive-events-planning-intro>` as it can support people with caregiving responsibilities or people who have busy schedules. 
 
 The more advance notice you can give to people, the more flexibility people have to organize support and make arrangements, and the more likely they will be to attend your event.
 
