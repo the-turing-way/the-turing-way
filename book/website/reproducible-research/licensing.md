@@ -134,8 +134,8 @@ Licences can generally be placed on a spectrum from proprietary, through permiss
 This spectrum is something of an oversimplification, and there are some extensions and caveats we'll get to later.
 
 
-(rr-licensing-ethics-copyright-free)=
-### What is 'Free/Libre' or 'Open-Source' software?
+(rr-licensing-ethics-free)=
+## What is 'Free/Libre' or 'Open-Source' software?
 
 These same concepts developed originally in the context of software have often been applied to other creative outputs.
 Consequently, they are among the most developed and useful context for understanding the licensing of other things.
@@ -226,7 +226,7 @@ It is important to note that licenses can be incompatible such that creating a c
     </caption>
 </table>
 
-(rr-licensing-ethics-copyright-usage-restriction)=
+(rr-licensing-ethics-usage-restriction)=
 ### What are 'Usage Restricting' Licenses?
 
 Usage restricting licenses seek to affirmatively protect users or others affected by the use of the work by placing  specific restrictions on its use.
@@ -235,7 +235,7 @@ Both 'Ethical source' & 'Responsible AI' Licenses are examples of this approach 
 Consequently, these licence by the classical definitions of free and open-source software from the FSF and OSI would not be considered free or open-source licences, they do however generally resemble them in the other three criteria of the definition.
 Their merits versus conventional open-source licenses have been the subject of some debate, and their adoption has thus far been relatively limited.
 
-(rr-licensing-ethics-copyright-finding)=
+(rr-licensing-ethics-finding)=
 ### Where to find open licenses for different types of work
 
 - Code
@@ -253,7 +253,7 @@ Their merits versus conventional open-source licenses have been the subject of s
     - Creative commons and Software licences can be applied to different parts of ML/AI systems, CC to training data and weights, software licences to code used in training / depoyment.
     - [Responsible AI Licenses (RAIL)](https://www.licenses.ai/)
 
-(rr-licensing-ethics-copyright-enforcement)=
+(rr-licensing-ethics-enforcement)=
 ### Licencing enforcement
 
 There have been a number of successful legal cases that have been brought in defence of the terms of copyleft licenses obliging the parties abusing the terms of these licenses to appropriately release their code.
@@ -272,14 +272,14 @@ Organisations which take legal action in defence of free software, and which can
 (rr-licensing-ethics-copyright-edge)=
 ### Pertinant edge cases
 
-(rr-licensing-ethics-copyright-edge-clas)=
+(rr-licensing-ethics-edge-clas)=
 #### Contributor Licence Agreements
 
 The holder of the copyright on a copy-left project can still re-licence that project or dual-licence that project under a different licence, for example to grant exclusive rights to commercially distribute that project with proprietary extensions or to make future versions proprietary.
 In a large community developed project, this would require the consent of all contributors, as they each own the copyright to their contributions.
 To get around this, some copy-left projects developed by companies that commercially licence proprietary extensions to these projects ask their contributors to sign contributor licence agreements (CLAs) which may assign the contributor's copyright to the company, or include other provisions so that they can legally dual-licence the project.
 
-(rr-licensing-ethics-copyright-edge-available)=
+(rr-licensing-ethics-edge-available)=
 #### 'Source Available' or 'Shared Source'
 
 Under a proprietary license the code is generally not made public.
