@@ -317,7 +317,7 @@ You can also paste the URL of a website into a [Readability Checker](https://www
 Aim to have all core event communications be understandable by a general audience, and written in Plain Language. 
 This does not need to mean that your entire event is pitched to a general audience, however by making all general information understandable you will be more inclusive and more able to engage all potential attendees, from research staff, researchers, organizers, people with lived experience, and other professions associated with your event's content. 
 
-Using plain language for your communications can help all attendees understand and engage in your event. 
+Using Plain Language for your communications can help all attendees understand and engage in your event. 
 
 Additionally, consider how you will be mindful of, and review, language choices to ensure inclusivity. 
 For example, avoid gender-specific terms and include language that recognizes diverse identities in your event information and content. 
