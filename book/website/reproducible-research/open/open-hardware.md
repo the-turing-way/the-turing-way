@@ -117,7 +117,7 @@ People develop and share OSH for a variety of reasons. Particularly in research,
 
 
 > It is worth mentioning here that building and developing OSH may require specific knowledge and skills on one hand, and quite a lot of time, on the other hand.
-> Buying industrial hardware with their support may be cheaper, especially if you do not have enough technical support. 
+> Buying industrial hardware with the corresponding client support these companies offer may be cheaper, especially if you do not have enough technical support in house. 
 
 
 ## For science
