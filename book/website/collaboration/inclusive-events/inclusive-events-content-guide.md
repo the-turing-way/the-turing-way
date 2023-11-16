@@ -19,14 +19,17 @@ Please review the following recommendations and ensure that any material you hav
 - Using a *Sans Serif* font is especially important for online content such as emails and websites.
 
 #### Use high contrast colours in all content.
-- The best example of high contrast colours is using dark text on a light background.
-- If you are planning on using different colour palettes to create content and make communication more visually appealing, please keep in mind that a contrast ratio of at least 4.5:1 is recommended for small text (12 point) and a ratio of 3:1 for large type (18 or 14 point bold). You could check if contrast is being used correctly with these free resources: [Contrast checker](https://contrastchecker.com/) and [Deque University Contrast](https://dequeuniversity.com/color-contrast).
+- The best example of high-contrast colours is using dark text on a light background.
+- If you are planning on using different colour palettes to create content and make communication more visually appealing, please keep in mind that a [contrast ratio](https://www.maine.edu/content-management/accessibility/color-ratio/) of at least 4.5:1 is recommended for small text (12 point) and a ratio of 3:1 for large type (18 or 14 point bold).
+    - You can check if contrast is being used correctly with these free resources: [Contrast checker](https://contrastchecker.com/) and [Deque University Contrast](https://dequeuniversity.com/color-contrast).
 - You may want to consider giving speakers and presenters a guide on how to make their posters and presentations accessible if your event hosts a poster session.
+
 #### Avoid backgrounds that have an excessive amount of colors, shapes, or graphics.
 - In this manner, reading becomes more enjoyable since the text won't be overwhelmed by an overly busy background.
+
 #### Do not embed essential information in an image.
 - This includes the information about the name, date, time and location of the event, and any accessibility information.
-- Images do not just mean images on a page, but also using a PNG or JPEG file type for flyers, presentation, or other content.
+- Images do not just mean images on a page, but also using a PNG or JPEG file type for flyers, presentations, or other content.
 - Images cannot be ‘read’ by screen readers that are being used by a person with a visual impairment.
 - Consider using plain text for emails and providing flyers or images as attachments that are accompanied by Alternative Text Descriptions. 
 
