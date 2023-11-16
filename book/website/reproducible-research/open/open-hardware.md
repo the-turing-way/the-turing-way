@@ -3,7 +3,7 @@
  
 ## Definition
 
-“Open source hardware” refers to the design specifications of a physical object that are licenced such that they and the object can be studied, modified, created, and distributed by anyone. 
+“Open source hardware” (OSH) refers to the design specifications of a physical object that are licenced such that they and the object can be studied, modified, created, and distributed by anyone. 
 Its formal definition [{term}`def<Open Source Hardware>`] was written by the open hardware community back in 2010, and is maintained by the [Open Source Hardware Association (OSHWA)](https://oshwa.org), a US-based non-profit. 
 
 Translations of *hardware* in some languages may bias the concept towards electronics, but with *hardware* we refer to any physical, tangible object: machines, electronic devices, biomaterials, textiles. 
@@ -34,8 +34,8 @@ It usually entails text, binary files and software.
 
 Importantly, OSH projects should share both raw and derived source files.
 For instance, 3D object designs should be shared as print-ready files (.stl), but also as modifiable 3D objects (the format of these files will depend on the software used). 
-The raw files are necessary to allow modification, but can often only be opened in proprietary software, and their use require specific skills.
-The derived versions are used to build the hardware, but often make modification difficult.
+It is necessary to provide the raw files to enable modification, even if they can often only be opened in proprietary software, and their use requires specific skills.
+The derived versions are used to build the hardware, but often are not suited for modification.
 Users with access to the tools that can read and manipulate these raw source files can update and improve the physical device. 
 If they wish, they can proceed to share such modifications.
 
