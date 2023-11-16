@@ -305,23 +305,3 @@ If the license that you have used has a standarised short name from [SPDX](https
 It can also be useful to include license information in the form of standard strings at the top of each text file in your project.
 There are useful tools which automate this available from [REUSE](https://reuse.software/) a project from the [FSFe](https://fsfe.org/) which developed the spec.
 This is especially true if your project contains material that is licensed in multiple different ways or a part of your project is being used in someone else's which uses a different (compatible) license.
-
-(rr-licensing-reading)=
-## Further reading
-
-- General Reading on copyright, its potential reforms, and history of application in software
-    - [Free as in freedom 2.0](https://archive.org/details/faif-2.0/mode/2up)
-    - [What if we could reimagine copyright?](https://www.jstor.org/stable/j.ctt1q1crjg)
-    - [Chokepoint capitalism](https://craphound.com/chokepoint/2022/09/27/twitch-does-a-chokepoint-capitalism/)
-    - [Intellectual Property & Monopoly Capitalism]( https://crashcourseeconomics.org/webinar/intellectual-property-and-monopoly-capitalism)
-- Tools
-    -[Reuse](https://reuse.software/)
-- Relevant Legal Materials
-	- International treaties impacting most nation state level IP law
-		- [Berne Convention for the Protection of Literary and Artistic Works](https://www.wipo.int/treaties/en/ip/berne/)
-		- [TRIPS](https://www.wto.org/english/docs_e/legal_e/27-trips_01_e.htm)
-	- Statutes / Directives
-		- US
-			- [DMCA](https://www.congress.gov/bill/105th-congress/house-bill/2281)
-
-<!-- additional statutes needed, add EU directives -->
