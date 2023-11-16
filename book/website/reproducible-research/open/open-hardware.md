@@ -6,7 +6,8 @@
 “Open source hardware” refers to the design specifications of a physical object that are licenced such that they and the object can be studied, modified, created, and distributed by anyone. 
 Its formal definition [{term}`def<Open Source Hardware>`] was written by the open hardware community back in 2010, and is maintained by the [Open Source Hardware Association (OSHWA)](https://oshwa.org), a US-based non-profit. 
 
-Translations of *hardware* in some languages may bias the concept towards electronics, but with *hardware* we refer to any physical, tangible object: machines, electronic devices, biomaterials, textiles. You will also often see the terms *open hardware* and *open source hardware* used interchangeably. 
+Translations of *hardware* in some languages may bias the concept towards electronics, but with *hardware* we refer to any physical, tangible object: machines, electronic devices, biomaterials, textiles. 
+You will also often see the terms *open hardware* and *open source hardware* used interchangeably in the literature and in this article. 
 
 ## OSH in Research 
 
