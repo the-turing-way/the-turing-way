@@ -84,10 +84,10 @@ parts:
           - title: Licensing
             file: reproducible-research/licensing
             sections:
+              - title: License Compatibililty
+                file: reproducible-research/licensing/licensing-compatibility
               - title: Ethics-informed Licensing
-                file: reproducible-research/licensing/ethics-informed-licensing
-              - title: Software Licenses
-                file: reproducible-research/licensing/licensing-software
+                file: reproducible-research/licensing/licensing-ethical-source
               - title: Data Licenses
                 file: reproducible-research/licensing/licensing-data
               - title: Hardware Licenses
@@ -97,8 +97,7 @@ parts:
                 sections:
                   - title: "Case Studies: Choosing an ML License"
                     file: reproducible-research/licensing/licensing-ml-case-studies
-              - title: License Compatibililty
-                file: reproducible-research/licensing/licensing-compatibility
+
               - title: Checklist
                 file: reproducible-research/licensing/licensing-checklist
           - title: Research Data Management

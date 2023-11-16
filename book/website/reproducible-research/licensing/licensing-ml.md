@@ -1,10 +1,34 @@
 (rr-licensing-ml)=
-# Machine Learning Model Licenses
+# Licensing Machine Learning models
+
+## Legal Status of AI/ML model weights
+
+It is an open question wether AI/ML models weights are even copyrightable.
+US copyright law specifically excludes the following from works eligible for copyright protection: "any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work."
+In addition the US Copyright Office has stated that this exclusion extends to "scientific or technical methods or discoveries;" "mathematical principles;" and "formulas or algorithms."
+
+A legal doctrine known as the idea–expression distinction/dichotomy draws a distinction between an abstract idea and a specific implementation, where code authored by a human that implements an algorithm is copyrightable as a creative work of authorship but the algorithm itself is not.
+
+<!--see: https://www.comsol.com/blogs/can-models-be-protected-by-copyright-law/-->
+<!--see: https://en.wikipedia.org/wiki/Idea%E2%80%93expression_distinction -->
+
+It is also generally accepted in US copyright law that to be copyrightable a work must be a product of human creative authorship and not that of an automated process.
+
+It is not obvious if model weights would be considered works of human authorship or rather the results of automated processes, as a general principle or discovery or as a specific implementation.
+These questions will need to be decided on by the courts and/or legislated on before the status of model weights can be properly established.
+
+In the absence of clarity on this point many organisations are taking the calculated risk of operating under the assumption that they are copyrightable and generally treating them similarly to datasets and/or software.
+Some companies are offering legal protections for users of services based on these systems, offering to cover legal expenses arising from challenges to the copyright status of the outputs of these systems.
+It seems likely that some form of copyright-like protection will be extended to model weights but it's precise contours are yet to be determined.
+
+Despite these open questions AI/ML model specific licenses are already being developed.
+
+## Machine Learning Model Licenses
 
 Like a software license, a Machine Learning (ML) model license governs the use, redistribution of the model and/or algorithm, and distribution of any derivatives of it.
 However, there are other components to an AI system, such as {ref}`data<rr-licensing-data>`, 
 {ref}`source code<rr-licensing-software>`, or applications, which may have their own separate licenses.
-ML model licenses may restrict the use of the model for specific scenarios for which, due to the technical capabilities and limitations  of the model informed by its model card, the licensor is not comfortable that the model is used.
+ML model licenses may restrict the use of the model for specific scenarios for which, due to the technical capabilities and limitations of the model informed by its model card, the licensor is not comfortable that the model is used.
 
 While many ML models may utilise open software licensing (for example MIT, Apache 2.0), 
 there are a number of ML model-specific licenses that may be developed for a specific model (for example [OPT-175B license](https://github.com/facebookresearch/metaseq/blob/main/projects/OPT/MODEL_LICENSE.md), [BigScience BLOOM RAIL v1.0 License](https://https://bigscience.huggingface.co/blog/the-bigscience-rail-license)), 
@@ -47,6 +71,71 @@ alt: An illustration depicting a flow chart diagram for a decision making proces
 ---
 The OpenRAIL flow chart aids the selection and naming of a license for an ML project. Danish Contractor, Carlos Muñoz Ferrandis, Jenny Lee, & Daniel Mcduff. (2022, August).
 ```
+
+(rr-licensing-ethics-copyright-responsible-rail)=
+### OpenRAIL License types
+
+These same principles developed in 'ethical source' apply to the 'Open' variants of the licences from RAIL (Responsible AI Licences).
+In that, they are attempting to place restrictions on the uses to which licensees can put the thing being licenced.
+Traditional software has many of the same concerns which affect machine learning models, and indeed also often contain assets such as images which may be licenced differently from software with which they are bundled.
+The primary differences being governance of data used in training the models (see: Data Governance for the Machine Learning Pipeline) and the lack of interpretability of the decisions of many ML systems, though this latter point can also be an issue for conventional systems if they are closed.
+RAIL provides a succinct way of expressing licences for combined machine learning systems which include, the data on which they were trained, the software used to specify this, the model weights generated as a result and the applications which provide an interface to the resulting model.
+
+RAIL provides these definitions of the modifiers that can be applied to their licenses:
+
+> - **D**ata: The dataset(s) used to pretrain or train an AI Model.
+> - **A**pplication/service: Any executable software code or application, including API-based remote access to software.
+> - **M**odel: Machine-learning based assemblies (including checkpoints), consisting of learnt weights and parameters (including optimizer states), corresponding to the model architecture.
+> - **S**ource: The source code and scripts associated with the AI system.
+
+Therefore:
+
+> - RAIL-D:  RAIL License includes Use Restrictions only applied to the data
+> - RAIL-A:  RAIL License includes Use Restrictions only applied to the application/executable
+> - RAIL-M:  RAIL License includes Use Restrictions only applied to the model
+> - RAIL-S:  RAIL License includes Use Restrictions only applied to the source code
+
+These are the restrictions placed on the licencee of a RAIL-M license:
+
+> You agree not to use the Model or Derivatives of the Model:
+>
+> 	**a.** In any way that violates any applicable national, federal, state, local or international law or regulation;
+>
+> 	**b.** For the purpose of exploiting, harming or attempting to exploit or harm minors in any way;
+>
+> 	**c.** To generate or disseminate verifiably false information and/or content with the purpose of harming others;
+>
+> 	**d.** To generate or disseminate personal identifiable information that can be used to harm an individual;
+>
+> 	**e.** To generate or disseminate information and/or content (for example images, code, posts, articles), and place the information and/or content in any context (for example bot generating tweets) without expressly and intelligibly disclaiming that the information and/or content is machine generated;
+>
+> 	**f.** To defame, disparage or otherwise harass others;
+>
+> 	**g.** To impersonate or attempt to impersonate (for example deepfakes) others without their consent;
+>
+> 	**h.** For fully automated decision making that adversely impacts an individual’s legal rights or otherwise creates or modifies a binding, enforceable obligation;
+>
+> 	**i.** For any use intended to or which has the effect of discriminating against or harming individuals or groups based on online or offline social behavior or known or predicted personal or personality characteristics;
+>
+> 	**j.** To exploit any of the vulnerabilities of a specific group of persons based on their age, social, physical or mental characteristics, in order to materially distort the behavior of a person pertaining to that group in a manner that causes or is likely to cause that person or another person physical or psychological harm;
+>
+> 	**k.** For any use intended to or which has the effect of discriminating against individuals or groups based on legally protected characteristics or categories;
+>
+> 	**l.** To provide medical advice and medical results interpretation;
+>
+> 	**m.** To generate or disseminate information for the purpose to be used for administration of justice, law enforcement, immigration or asylum processes, such as predicting an individual will commit fraud/crime commitment (for example by text profiling, drawing causal relationships between assertions made in documents, indiscriminate and arbitrarily-targeted use).
+
+RAIL-S licences carry their [Software Usage Restrictions](https://www.licenses.ai/source-code-license).
+
+This flow diagram guides you through the choice of a suitable RAIL:
+
+![source: https://www.licenses.ai/blog/2022/8/18/naming-convention-of-responsible-ai-licenses](https://images.squarespace-cdn.com/content/v1/5c2a6d5c45776e85d1482a7e/381a69a4-28d9-4b6a-be5c-516330e7d8b9/diagram.png)
+ <!-- alt text needed! -->
+
+RAIL license can be used in closed applications and Open RAIL licenses are permissive with respect to the model and software but not with respect to the usage restrictions.
+Note that there is not an effective equivalent to a copyleft version of the Open RAIL licences.
+None of them require that the software or models contained in them also be similarly licenced in derived works, only that the usage restrictions be retained.
+This could be a useful extension to these license adding an 'L' for copy**L**eft and including a clause making any software, model weights, or source code in the bundle strong copyleft.
 
 ### Example: OpenRAIL-M
 
