@@ -72,7 +72,7 @@ Depending on the type of project and scope one or two elements might not be rele
 #### Hardware design and licenses
 
 This consists of the actual hardware elements of the project and utilising a license like a CERN OHL would be appropriate.
-This element consists of the functional parts of the “product”.
+This element consists of the functional parts of the "product".
 In general, functional parts of an invention could be protected by a patent, but in our context the Open Hardware Licenses play that role. 
 
 Since a patent has to be specifically applied for and given by the patent office of the country, the aspects that the open hardware licence actually protects can be uncertain.
