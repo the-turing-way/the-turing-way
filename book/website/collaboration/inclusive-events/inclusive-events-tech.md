@@ -73,7 +73,8 @@ Offering different options recognizes the unique needs of individuals with varyi
 #### Avoiding the use of Screen Sharing
 Content that is shared using the "Screen Sharing" feature is not able to be accessed or parsed by screen reader technology.
 
-If an attendee or presenter wishes to share their screen on a video conferencing platform, please ensure that the content they are sharing has been sent to participants before the start of the event and that speakers or presenters acknowledge this, and then take the time to explain what is being presented on screen to allow for any attendees to follow along with their own copies of the material.
+If an attendee or presenter wishes to share their screen on a video conferencing platform, please ensure that the content they are sharing has been sent to participants before the start of the event. 
+Take the time to explain what is being presented on screen to allow for any attendees to follow along with their own copies of the material.
 
 ### Communication during a Technical Outage
 If your event requires the use of video conferencing tools, consider what technical issues both you and your attendees may have when accessing an online platform.
