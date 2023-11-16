@@ -299,7 +299,7 @@ Similar to avoiding jargon, ensure that your core communications are written usi
 
 Using Plain Language is especially important in your registration and event information packs.
 
-Plain language, sometimes referred to as Plain English in the UK and North America, allows for communications and other information to be read and understood easier. 
+Plain Language, sometimes referred to as Plain English in the UK and North America, allows for communications and other information to be read and understood easier. 
 Consider how you will encourage attendees and speakers to adopt clear and plain language communication throughout your event. 
 
 For example, you could address and encourage the use of plain language during the opening address or by signposting it in your event's shared information. 
