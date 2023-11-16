@@ -306,7 +306,7 @@ For example, you could address and encourage the use of Plain Language during th
 You could also consider an activity where researchers are paired with non-researchers and are asked to explain their research in under 3 minutes. 
 This can help to bring "clear and effective communication" to the forefront of attendee's minds and set all attendees up to communicate clearly throughout the event.
 
-If possible, consider co-developing plain language and Easy Read content alongside a community representative or person with lived experience. 
+If possible, consider co-developing Plain Language and Easy Read content alongside a community representative or person with lived experience. 
 If this is not possible for your event, you can review guidance on how to write in plain language and ensure that core communications and event content are checked by using an external tool. 
 
 ```{note}
