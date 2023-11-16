@@ -11,12 +11,14 @@ Ensuring that event communications, including printed content, are accessible to
 Please review the following recommendations and ensure that any material you have designed for your event meets the accessibility requirements of your atendees. 
 
 #### Use a size 14 (or larger) font for both digital and printed content.
-- A size 14 font is the recommended size to make text information legible for a broad audience and support people with lived experience of visual impairments, and other conditions that affect readability.
+A size 14 font is the recommended size to make text information legible for a broad audience and support people with lived experience of visual impairments, and other conditions that affect readability.
 
 #### Use a Sans Serif font such as Arial, Tahoma, Verdana, Helvetica or Monserrat.
-- "Sans Serif" refers to fonts that do not have embellishments or lines on the letters.
-- Using a *Serif* font such as Times New Roman can negatively impact readability and make it harder for people with dyslexia to read information. 
-- Using a *Sans Serif* font is especially important for online content such as emails and websites.
+"Sans Serif" refers to fonts that do not have embellishments or lines on the letters.
+
+Using a *Serif* font such as Times New Roman can negatively impact readability and make it harder for people with dyslexia to read information. 
+
+Using a *Sans Serif* font is especially important for online content such as emails and websites.
 
 #### Provide appropriate line spacing in text
 When there is either not enough, or too much, space between two lines of text it becomes more difficult to read. 
@@ -27,21 +29,26 @@ Line spacing is especially important if your content involves large and unbroken
 The best practice is to use 1.5 line spacing.
 
 #### Use high-contrast colours in all content.
-- The best example of high-contrast colours is using dark text on a light background.
-- If you are planning on using different colour palettes to create content and make communication more visually appealing, please keep in mind that a [contrast ratio](https://www.maine.edu/content-management/accessibility/color-ratio/) of at least 4.5:1 is recommended for small text (12 point) and a ratio of 3:1 for large type (18 or 14 point bold).
-    - You can check if contrast is being used correctly with these free resources: [Contrast checker](https://contrastchecker.com/) and [Deque University Contrast](https://dequeuniversity.com/color-contrast).
-- You may want to consider giving speakers and presenters a guide on how to make their posters and presentations accessible if your event hosts a poster session.
+The best example of high-contrast colours is using dark text on a light background.
+
+If you are planning on using different colour palettes to create content and make communication more visually appealing, please keep in mind that a [contrast ratio](https://www.maine.edu/content-management/accessibility/color-ratio/) of at least 4.5:1 is recommended for small text (12 point) and a ratio of 3:1 for large type (18 or 14 point bold).
+- You can check if contrast is being used correctly with these free resources: [Contrast checker](https://contrastchecker.com/) and [Deque University Contrast](https://dequeuniversity.com/color-contrast).
+
+You may want to consider giving speakers and presenters a guide on how to make their posters and presentations accessible if your event hosts a poster session.
 
 #### Avoid backgrounds that have an excessive amount of colors, shapes, or graphics.
-- In this manner, reading becomes more enjoyable since the text won't be overwhelmed by an overly busy background.
+In this manner, reading becomes more enjoyable since the text won't be overwhelmed by an overly busy background.
 
 #### Do not embed essential information in an image.
-- This includes the information about the name, date, time and location of the event, and any accessibility information.
-- Images do not just mean images on a page, but also using a PNG or JPEG file type for flyers, presentations, or other content.
-- Images cannot be ‘read’ by screen readers that are being used by a person with a visual impairment.
-- Consider using plain text for emails and providing flyers or images as attachments that are accompanied by Alternative Text Descriptions. 
+This includes the information about the name, date, time and location of the event, and any accessibility information.
 
-### Provide Alt-text (Alternative Text) descriptions for online images in your content.
+Images do not just mean images on a page, but also using a PNG or JPEG file type for flyers, presentations, or other content.
+
+Images cannot be ‘read’ by screen readers that are being used by a person with a visual impairment.
+
+Consider using plain text for emails and providing flyers or images as attachments that are accompanied by Alternative Text Descriptions. 
+
+#### Provide Alt-text (Alternative Text) descriptions for online images in your content.
 Always include alternative text descriptions that accurately describe images and contain information relevant to the text. 
 
 Alt-text descriptions are helpful for people with visual impairments who use screen readers and for people with low bandwidth internet where images may not load on a page.
@@ -51,11 +58,11 @@ Images include pictures, gifs, tables, graphs, diagraphs, and illustrations and 
 
 Any images used in your event's content (including those of the speakers and presenters) should be accompanied by a basic alternative text description to avoid including unnecessary information that could make it harder to understand the content.
 
-### Avoid blinking or flashing that could cause seizures. 
-- Some people find certain motions or animations to be highly distracting, and some people may even become sick from them. Therefore, consider if the motion is necessary and if it will make the material easier to understand.
+#### Avoid blinking or flashing that could cause seizures. 
+Some people find certain motions or animations to be highly distracting, and some people may even become sick from them. Therefore, consider if the motion is necessary and if it will make the material easier to understand.
 
 #### Use the style and formatting tool in text editors for headings.
-- Font size by itself is not detectable by screen readers. 
+Font size by itself is not detectable by screen readers. 
 Instead use the heading and title style tools in programs such as Microsoft Word, and Google Docs. 
 
 ### Working with Speakers
@@ -71,11 +78,11 @@ Ensure that you provide any content that may be presented via screen sharing to 
 
 (cl-inclusive-events-website-accessibility)=
 ## Website Accessibility
-As reccomended in the {ref}`cl-inclusive-events-comms-website` section, it can be incredibly helpful to centralize information about your event in an online location such as a website. 
+As recommended in the {ref}`cl-inclusive-events-comms-website` section, it can be incredibly helpful to centralize information about your event in an online location such as a website. 
 
-If your event does decide to have a dedicated website, ensure that the site and its content meets Web Accessibility Standards. 
+If your event does decide to have a dedicated website, ensure that the site and its content meet Web Accessibility Standards. 
 
-The [Web Accessibility Initiative](https://www.w3.org/WAI/) provides 4 principles which provide guidance on how to ensure that websites and their content are accessible. 
+The [Web Accessibility Initiative](https://www.w3.org/WAI/) has outlines 4 principles that provide guidance on how to ensure that websites and their content are accessible. 
 
 We have provided a summary with actionable examples here, and you can view the full [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/fundamentals/accessibility-principles/) on the Web Accessibility Initiative's website. 
 
@@ -115,16 +122,11 @@ Robustness refers to the importance of content on your event page's website bein
 The guidance provided here is not an exhaustive list of accessibility requirements, and with all other planning of your event, it is best to work with the specific group and demographic of attendees that will be at your event. 
 This can help ensure that any content accessibility requirements specific to your attendees can be identified and addressed before the start of your event.
   
-  **Resources:**
-  Below, we share some resources so that you can find out about events and accessible material.
-
--  [Buenas prácticas para crear presentaciones accesibles](https://www.metadocencia.org/post/presentaciones-accesibles/)
-
-- [Checklist para presentaciones accesibles](https://drive.google.com/file/d/1sBeuVn8koBm9vRkcyTvW5yEN6F109lVs/view) 
-
-- [Cómo hacer reuniones virtuales pensadas para todas las personas](https://www.metadocencia.org/post/accesibilidad_1/)
-
-- [How to Make Virtual Meetings Accessible](https://www.levelaccess.com/blog/how-to-make-virtual-meetings-accessible)
+### Additional Resources
+In addition to what has been shared above, you can find more information about how to make event material accessible in the following resources  share some resources so that you can find out about events and accessible material.
 
 - [Make your PowerPoint presentations accessible to people with disabilities](https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25#:~:text=In%20PowerPoint%2C%20the%20Accessibility%20Checker,%2C%20select%20Review%20%3E%20Check%20Accessibility)
-
+-  [Buenas prácticas para crear presentaciones accesibles](https://www.metadocencia.org/post/presentaciones-accesibles/)
+- [Checklist para presentaciones accesibles](https://drive.google.com/file/d/1sBeuVn8koBm9vRkcyTvW5yEN6F109lVs/view) 
+- [Cómo hacer reuniones virtuales pensadas para todas las personas](https://www.metadocencia.org/post/accesibilidad_1/)
+- [How to Make Virtual Meetings Accessible](https://www.levelaccess.com/blog/how-to-make-virtual-meetings-accessible)
