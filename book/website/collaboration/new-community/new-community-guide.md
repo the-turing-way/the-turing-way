@@ -23,7 +23,7 @@ While reading this chapter, please be aware that you may need to make adjustment
 - When leading an open project, use collaborative and open platforms such as [GitHub](http://github.com/) or [GitLab](https://about.gitlab.com/).
 - Evaluate the need for any real-time communications, such as if a text chat system like [Slack](https://slack.com) or [Element/Matrix](https://element.io/get-started) will be useful or if a mailing list will be sufficient (read details {ref}`Communication Channels <cm-os-comms-channels>`).
   - Consider a separate internal communication platform for your community members and an external one for showing what you’ve done to the rest of the world.
-- A [Twitter account](https://twitter.com) or a simple website (such as on [GitHub pages](https://pages.github.com/)) can be useful external platforms.
+- An [X account](https://x.com) (formerly Twitter) or a simple website (such as on [GitHub pages](https://pages.github.com/)) can be useful external platforms.
 - Make sure that the choices of these platforms are made to ensure that there is a low barrier to join them.
 
 (cl-new-community-guide-checklist-proj-summary)=
