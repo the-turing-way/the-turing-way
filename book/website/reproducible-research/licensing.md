@@ -193,7 +193,9 @@ Copy-left licences are an attempt to ensure that software remains effectively un
 To attempt to achieve this goal, copy-left software requires that when distributing copy-left software or in some cases derived works that you do so under the same terms as the original licence.
 Creative commons 'share-alike' licences attempt the same thing for other content.
 
-Copy-left licences do not prohibit commercial use, indeed numerous companies exist which develop copy-left projects and sell support services for deploying those projects instead of using proprietary licences which would incentivise an unhealthy relationship with their users, [Nextcloud](https://nextcloud.com/) is an excellent example.
+Copy-left licences do not prohibit commercial use, indeed numerous companies exist which develop copy-left projects.
+Many of those generate revenue through support services instead of selling licences, which would incentivise an unhealthy relationship with their users.
+[Nextcloud](https://nextcloud.com/) is an excellent example of a commercial, open-source project.
 Nextcloud makes use of the [AGPL v3.0](https://www.fsf.org/bulletin/2021/fall/the-fundamentals-of-the-agplv3) a license which extends the protections of the GPL to software used over a network.
 It gives users who interact with this software over a network, for example by using a web service, rather than run it on their own computers, the right to access a copy of the source code; which they are further free to modify and distribute as is usual for the GPL.
 
