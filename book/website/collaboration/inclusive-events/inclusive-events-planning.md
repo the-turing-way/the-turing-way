@@ -295,7 +295,8 @@ If your event is in-person, try to communicate with catering and ensure that the
 
 (cl-inclusive-events-planning-during-event-tech)=
 ### Technology 
-Depending on your event and platform, it may be helpful to organize "backup" technology on the day of the event. For example having spare batteries and spare microphones, arranging an alternate host for Zoom, and providing PDFs instead of relying solely on online technology to communicate important information. 
+Depending on your event and platform, it may be helpful to organize "backup" technology on the day of the event. 
+For example, having spare batteries and spare microphones, arranging an alternate host for Zoom, and providing PDFs instead of relying solely on online technology to communicate important information. 
 Many people do not carry around a smartphone or laptop and may have not used streaming or presentation software before so try to ensure that there are both "online" and "offline" copies of important documents.  
 
 By recognizing that technology can create barriers for many people and preparing appropriately, you can work to ensure anyone who is interacting with this technology feels comfortable using it on the day. 
