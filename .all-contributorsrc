@@ -4466,6 +4466,14 @@
         "review"
       ]
     },
+
+
+
+
+
+
+
+
     {
       "login": "MayaAndersonGonzalez",
       "name": "Maya Anderson-González",
@@ -4474,8 +4482,7 @@
       "contributions": [
         "content"
       ]
-    }
-  ],
+],
   "projectName": "the-turing-way",
   "projectOwner": "the-turing-way",
   "repoType": "github",
