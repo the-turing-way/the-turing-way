@@ -375,53 +375,53 @@ project:
         - title: Data Security and Governance
           file: project-design/data-security/sdp
           sections:
-            - file: project-design/sdp.md
+            - file: project-design/data-security/sdp.md
               title: Sensitive Data Projects
               children:
-                - file: project-design/sdp/types.md
+                - file: project-design/data-security/sdp/types.md
                   title: Types of Sensitive Data
-                - file: project-design/sdp/personal.md
+                - file: project-design/data-security/sdp/personal.md
                   title: Personal Data
-                - file: project-design/sdp/confidential.md
+                - file: project-design/data-security/sdp/confidential.md
                   title: Confidential Data
-                - file: project-design/sdp/biological.md
+                - file: project-design/data-security/sdp/biological.md
                   title: Biological Data
-                - file: project-design/sdp/metadata.md
+                - file: project-design/data-security/sdp/metadata.md
                   title: Metadata
-                - file: project-design/sdp/combined.md
+                - file: project-design/data-security/sdp/combined.md
                   title: Combined Datasets
-            - file: project-design/sdpm.md
+            - file: project-design/data-security/sdpm.md
               title: Managing Sensitive Data Projects
               children:
-                - file: project-design/sdpm/informed.md
+                - file: project-design/data-security/sdpm/informed.md
                   title: Informed consent
-                - file: project-design/sdpm/data-privacy-strategies.md
+                - file: project-design/data-security/sdpm/data-privacy-strategies.md
                   title: Data Privacy Strategies
-                - file: project-design/sdpm/sharing-sensitive-data.md
+                - file: project-design/data-security/sdpm/sharing-sensitive-data.md
                   title: Sharing Sensitive Data
-                - file: project-design/sdpm/resources.md
+                - file: project-design/data-security/sdpm/resources.md
                   title: Resources
-            - file: project-design/sdpw.md
+            - file: project-design/data-security/sdpw.md
               title: Working on Sensitive Data Projects
               children:
-                - file: project-design/sdpw/trew.md
+                - file: project-design/data-security/sdpw/trew.md
                   title: Working with Trusted Research Environments
-                - file: project-design/sdpw/pd-sdp-private-learning.md
+                - file: project-design/data-security/sdpw/pd-sdp-private-learning.md
                   title: Privacy Preserving Machine Learning
-                - file: project-design/sdpw/pd-sdp-sensitive-files.md
+                - file: project-design/data-security/sdpw/pd-sdp-sensitive-files.md
                   title: Keeping Sensitive Files Secure
-                - file: project-design/sdpw/pd-sdp-sensitive-code.md
+                - file: project-design/data-security/sdpw/pd-sdp-sensitive-code.md
                   title: Sharing Your Jupyter Notebook
-                - file: project-design/sdpw/pd-sdp-exposing-data.md
+                - file: project-design/data-security/sdpw/pd-sdp-exposing-data.md
                   title: Removing Sensitive Data From GitHub
-                - file: project-design/sdpw/pd-sdp-resources.md
+                - file: project-design/data-security/sdpw/pd-sdp-resources.md
                   title: Further Recommendations
-            - file: project-design/data-governance.md
+            - file: project-design/data-security/data-governance.md
               title: Data Governance
               children:
-                - file: project-design/data-governance/data-gov-ml.md
+                - file: project-design/data-security/data-governance/data-gov-ml.md
                   title: Data Governance for the Machine Learning Pipeline
-                - file: project-design/data-governance/bigcode_casestudy.md
+                - file: project-design/data-security/data-governance/bigcode_casestudy.md
                   title: BigCode Data Governance Case Study
         - file: project-design/missing-data.md
           title: Missing Data Handling
