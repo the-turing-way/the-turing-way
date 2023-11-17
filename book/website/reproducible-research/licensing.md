@@ -35,7 +35,8 @@ Intellectual property is an umbrella term that refers to a number of distinct ar
 - **[Patent](https://www.wipo.int/patents/en/)**
 - **[Trademark](https://euipo.europa.eu/ohimportal/en/trade-mark-definition/)**
 
-What these have in common is the attempt to extend property rights to intangible goods, allowing their use by others to be prevented or [licensed](https://www.oshwa.org/faq/#what-is-a-license/), governments with such laws effectively create a limited grant of monopoly over these goods for their creators, and other holders of these rights.
+What these have in common is the attempt to extend property rights to intangible goods, meaning their use by others can be prevented or [licensed](https://www.oshwa.org/faq/#what-is-a-license/).
+Governments with such laws effectively create a limited grant of monopoly over these goods for their creators, and other holders of these rights.
 This is generally done with the ostensible intent to incentivise the creation and improvement of such goods, but can in practice result in perverse incentives which fail to do so.
 
 ```{warning}
