@@ -17,7 +17,9 @@ No previous knowledge is needed, this chapter explains how important it is to un
 
 'Intellectual Property (IP)' law is a complex subject.
 However some understanding of it is important for anyone producing creative works governed by it including software, datasets, graphics and more.
-This is true when producing a work as a contribution to open culture or as a potential commercial venture.
+This is true irrespective of the nature of your project: Closed commercial projects building on open tooling; Commercial projects maintaining an open resource; Open community driven and/or non-profit projects.
+Each of these may need to make slightly different licensing choices from the beginning of their projects to be compatible with their goals.
+
 This chapter aims to give a brief summary of relevant intellectual property laws (enough to be able to read most software, and related licenses), explain free and open source software licensing, and explain how combining software from different sources works from a legal perspective.
 Decisions about licencing made at the inception of a project can have long-lasting and significant ramifications.
 The choices that you make about how your work is licenced shape who can and cannot legally use your work and for what purpose.
