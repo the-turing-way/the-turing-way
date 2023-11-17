@@ -112,7 +112,7 @@ Similarly, researchers may find it difficult to attend sessions outside of worki
 Although scheduling is difficult for any form of event organizing, please take the time to consider what barriers an event's timing will have on your ability to be inclusive of people with lived experience and refer to your local area for any specific dates to avoid, and you can view an interfaith events calendar here: https://www.interfaith-calendar.org/. 
 
 When planning the dates for the event, it is also useful to consider the potential travel times of your attendees. 
-If your event takes place in person, try to choose a date and start time that takes into account how long your attendees will need to travel. 
+If your event takes place in-person, try to choose a date and start time that takes into account how long your attendees will need to travel. 
 For example, having your event start at 10:30 a.m. allows for inter-city travel the morning before the event. 
 
 (cl-inclusive-events-timeline-planning)=
@@ -164,7 +164,7 @@ If your event is ticketed, ticket prices should be set thoughtfully and may cons
 Depending on the size of the budget and structure, creating a policy and the budget for an Accessibility Fund can help to make your event inclusive for all participants, regardless of their needs and circumstances. 
 This is a Fund that can be applied to cover additional costs that would support people with lived experience attending and engaging in your event. 
 These additional costs could be: 
-- additional accommodation for people who may need to travel to an event the day prior, or stay longer, if attending in person due to health conditions.
+- additional accommodation for people who may need to travel to an event the day prior, or stay longer, if attending in-person due to health conditions.
 - any travel costs or support for those with caring responsibilities to cover the cost of a support worker, childcare, or allowing their child to travel with them.
 - honorarium for members of the public with lived experience to attend sessions. 
 - honorariums for speakers, facilitators, and note-takers if they are needed for your event.
@@ -289,7 +289,8 @@ This is especially important for people with lived experience who may prefer to 
 
 Consider how you will set them up to hold a successful session whether that be hosting a practice session for them before attendees arrive, identifying some questions or topics they may want to avoid and helping to facilitate discussion, or by asking how they wish to be introduced to the attendees. 
 
-If your event overlaps with a meal time, consider if their ability to eat or take a break will be impacted. If your event is in person, try to communicate with catering and ensure that there is a meal or alternative food is sourced and held aside for them. 
+If your event overlaps with a meal time, consider if their ability to eat or take a break will be impacted. 
+If your event is in-person, try to communicate with catering and ensure that there is a meal or alternative food is sourced and held aside for them. 
 
 (cl-inclusive-events-planning-during-event-tech)=
 ### Technology 
@@ -309,7 +310,7 @@ You may want to consider having a pdf, website page, or paper copy introducing t
 You may want to highlight people who are able to help if an attendee has a question about accommodation, or the location of accessible restrooms as these people may be different from session facilitators and technology support staff. 
 By including contact details and explaining the roles of organizers, it can help attendees feel understood and welcomed instead of being redirected to multiple people who are unable to help them. 
 
-If possible, it can also be helpful to have a dedicated person who can be easily located and contacted during the event that is able to take action if there is a problem. 
+If possible, it can also be helpful to have a dedicated person who can be easily located and contacted during the event and is able to take action if there is a problem. 
 For example, if an elevator is broken, the restroom blocked, accessible doors not opening, or the audio induction loop not working. 
 This person could be available during event registration or at the start of the event to introduce themselves and provide assistance to those who need it. 
 This may not be feasible for all events and may be more important for in-person events, but it is important to consider how to make the event accessible and inclusive throughout. 
