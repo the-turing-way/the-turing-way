@@ -33,7 +33,7 @@ Each label has, as described in the main website:
 ### Example label: high environmental cost
 ```{figure} ../../figures/data-hazard-environmental-cost.*
 ---
-height: 500px
+height: 250px
 name: data-hazard-environmental-cost
 alt: A red diamond with an image of the earth at the centre. The earth is surrounded by a flame. 
 
