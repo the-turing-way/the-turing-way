@@ -71,7 +71,7 @@ While it is important to automate as many checks as possible, it is worth noting
 In practice there are often 'unwritten' rules built up through collective understanding of the developers involved.
 Certain types of style choice may be hard to capture automatically, such as whether to use a more functional or imperative style, tolerance of complexity, or density of comments.
 
-Code review offers an opportunity to reach consensus on styles that aren't written down or enforced deterministically, as well as helping identify how the written or automated coding conventions can be improved
+Code review offers an opportunity to reach consensus on styles that aren't written down or enforced deterministically, as well as helping identify how the written or automated coding conventions can be improved.
 
 (rr-reviewing-motivation-knowledge)=
 ## Group Knowledge and Cohesion
