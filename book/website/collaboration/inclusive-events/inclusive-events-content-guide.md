@@ -1,5 +1,5 @@
 (cl-inclusive-events-accessibility-guide)=
-# Accessible Content Guidance for Inclusive Event
+# Accessible Content Guidance for Inclusive Events
 A critical part of running an event is ensuring that the content of your event is both inclusive and accessible to people with lived experience. 
 
 This section outlines guidance, requirements, and considerations for ensuring that both your promotional content, and your sessions and speakers' presentation content is as accessible as possible for a diverse and inclusive audience.
