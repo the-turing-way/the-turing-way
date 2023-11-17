@@ -3,8 +3,7 @@
 
 _The Turing Way_ works in collaboration and formal partnership with many communities and organisations.
 The project also receives in-kind support through contributions from members who represent their communities, projects or organisations in The Turing way.
-These contributions may take different forms, including the sharing of practices, documentation, presentations, Scriberia images, and other resources.
-Projects, organisations and individuals collaborate to build and maintain resources in The Turing Way.
+These contributions may take different forms, such as sharing of practices, co-creating documentation, designing workshops and presentations, co-hosting events, creating illustrations, providing mentorship, leading or contributing to sub-projects and co-developing other resources.
 Some of these contributions also include projects that build alongside or upon The Turing Way resources or collaborate with The Turing Way team members in various capacities.
 We acknowledge each of these contributing members individually and list their profiles under “Collaborating organisations and projects”.*
 
