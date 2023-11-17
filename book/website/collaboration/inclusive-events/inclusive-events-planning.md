@@ -141,7 +141,8 @@ Depending on your location and organization, the collection of data during regis
 In the EU, GDPR (or the UK's version UK-GDPR) considers data concerning health conditions and disability as "special category data". 
 This "special category" also extends to cover the data about a relative or carer of an individual with a health condition or disability. 
 Depending on the specific attendees and focus of your event, you may need to complete additional data protection forms and plan for how to manage the protected information. 
-This includes dietary information and disability status as disclosed in registration forms. Data management and privacy procedures will differ between organizations, but it is important during planning to be aware that the information being collected may be special category and to establish a protocol for collecting and storing this information. 
+This includes dietary information and disability status as disclosed in registration forms. 
+Data management and privacy procedures will differ between organizations, but it is important during planning to be aware that the information being collected may be special category and to establish a protocol for collecting and storing this information. 
 
 Your location will largely determine what policies are in place and if there is an equivalent of GDPR that applies to data collected and processed in your jurisdiction. 
 Please refer to your organization's policy on data protection and privacy and seek advice from your Data Protection Officer. 
