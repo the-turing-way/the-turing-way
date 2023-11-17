@@ -68,6 +68,7 @@ We will dispense quickly with patents and trademarks here, so we can move on to 
 The most important difference between patent and copyright to be immediately aware of is that by default all rights are retained by the author on works made public under copyright, whereas patents must be registered before their content is publicly disclosed.
 Thus, if you want to patent something, you must do so prior to sharing it publicly.
 The precise details of what constitutes a disclosure and the strictness of the application of this rule can vary by jurisdiction.
+
 Patents on processes and software rather than specific inventions are a matter of contention in US law and explicitly not recognised in EU law (at time of writing).
 Unlike copyright, you generally have to pay to register and maintain a patent.
 You must also do so in each jurisdiction in which you want this patent to apply, though some have reciprocal agreements for recognising patents from other jurisdictions.
