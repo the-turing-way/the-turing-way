@@ -23,7 +23,7 @@ Additional resources you can read to learn more about software licenses.
     - [Intellectual Property & Monopoly Capitalism]( https://crashcourseeconomics.org/webinar/intellectual-property-and-monopoly-capitalism)
     - [Can models be protected by copyright law?](https://www.comsol.com/blogs/can-models-be-protected-by-copyright-law/)
 - Tools
-    -[Reuse](https://reuse.software/)
+    - [Reuse](https://reuse.software/)
 - Relevant Legal Materials
 	- International treaties impacting most nation state level IP law
 		- [Berne Convention for the Protection of Literary and Artistic Works](https://www.wipo.int/treaties/en/ip/berne/)
