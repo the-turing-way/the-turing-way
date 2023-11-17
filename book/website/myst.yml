@@ -329,90 +329,100 @@ project:
         - file: project-design/project-management-methodologies/overview.md
           title: Project Management Methodologies
         - title: Project Setup and Organisation
+          file: project-design/pd-design-overview
           children:
-            - file: project-design/pd-checklist.md
+            - file: project-design/pd-design-overview/pd-checklist.md
               title: Project Design Checklist
-            - file: project-design/project-repo.md
+            - file: project-design/pd-design-overview/project-repo.md
               title: Creating Project Repositories
               children:
-                - file: project-design/project-repo/project-repo-readme.md
+                - file: project-design/pd-design-overview/project-repo/project-repo-readme.md
                   title: Landing Page - README File
-                - file: project-design/project-repo/project-repo-roadmapping.md
+                - file: project-design/pd-design-overview/project-repo/project-repo-roadmapping.md
                   title: Roadmapping
-                - file: project-design/project-repo/project-repo-contributors.md
+                - file: project-design/pd-design-overview/project-repo/project-repo-contributors.md
                   title: Contributors and Communication Pathways
-                - file: project-design/project-repo/project-repo-participation.md
+                - file: project-design/pd-design-overview/project-repo/project-repo-participation.md
                   title: Participation Guidelines
-                - file: project-design/project-repo/project-repo-advanced.md
+                - file: project-design/pd-design-overview/project-repo/project-repo-advanced.md
                   title: Advanced Structure for Data Analysis
-                - file: project-design/project-repo/project-repo-resources.md
+                - file: project-design/pd-design-overview/project-repo/project-repo-resources.md
                   title: Further Recommendations
-        - file: project-design/persona.md
-          title: Personas and Pathways
+        - title: Stakeholders
+          file: project-design/stakeholders
           children:
-            - file: project-design/persona/persona-creation.md
-              title: Persona Creation Tool
-            - file: project-design/persona/persona-contributors.md
-              title: Contributor Pathways
-        - file: project-design/filenaming.md
-          title: File Naming Convention
-        - file: project-design/code-styling.md
-          title: Code Styling and Linting
-          children:
-            - file: project-design/code-styling/code-styling-guidelines.md
-              title: Guidelines for Code Styling
-            - file: project-design/code-styling/code-styling-readability.md
-              title: Writing Human Readable Code
-            - file: project-design/code-styling/code-styling-tools.md
-              title: Code Styling Tools
-        - file: project-design/sdp.md
-          title: Sensitive Data Projects
-          children:
-            - file: project-design/sdp/types.md
-              title: Types of Sensitive Data
-            - file: project-design/sdp/personal.md
-              title: Personal Data
-            - file: project-design/sdp/confidential.md
-              title: Confidential Data
-            - file: project-design/sdp/biological.md
-              title: Biological Data
-            - file: project-design/sdp/metadata.md
-              title: Metadata
-            - file: project-design/sdp/combined.md
-              title: Combined Datasets
-        - file: project-design/sdpm.md
-          title: Managing Sensitive Data Projects
-          children:
-            - file: project-design/sdpm/informed.md
-              title: Informed consent
-            - file: project-design/sdpm/data-privacy-strategies.md
-              title: Data Privacy Strategies
-            - file: project-design/sdpm/sharing-sensitive-data.md
-              title: Sharing Sensitive Data
-            - file: project-design/sdpm/resources.md
-              title: Resources
-        - file: project-design/sdpw.md
-          title: Working on Sensitive Data Projects
-          children:
-            - file: project-design/sdpw/trew.md
-              title: Working with Trusted Research Environments
-            - file: project-design/sdpw/pd-sdp-private-learning.md
-              title: Privacy Preserving Machine Learning
-            - file: project-design/sdpw/pd-sdp-sensitive-files.md
-              title: Keeping Sensitive Files Secure
-            - file: project-design/sdpw/pd-sdp-sensitive-code.md
-              title: Sharing Your Jupyter Notebook
-            - file: project-design/sdpw/pd-sdp-exposing-data.md
-              title: Removing Sensitive Data From GitHub
-            - file: project-design/sdpw/pd-sdp-resources.md
-              title: Further Recommendations
-        - file: project-design/data-governance.md
-          title: Data Governance
-          children:
-            - file: project-design/data-governance/data-gov-ml.md
-              title: Data Governance for the Machine Learning Pipeline
-            - file: project-design/data-governance/bigcode_casestudy.md
-              title: BigCode Data Governance Case Study
+            - file: project-design/stakeholders/persona.md
+              title: Personas and Pathways
+              children:
+                - file: project-design/stakeholders/persona/persona-creation.md
+                  title: Persona Creation Tool
+                - file: project-design/stakeholders/persona/persona-contributors.md
+                  title: Contributor Pathways
+        - title: Information Management
+          file: project-design/info-management
+          sections:
+            - file: project-design/info-management/filenaming.md
+              title: File Naming Convention
+            - file: project-design/info-management/code-styling.md
+              title: Code Styling and Linting
+              children:
+                - file: project-design/info-management/code-styling/code-styling-guidelines.md
+                  title: Guidelines for Code Styling
+                - file: project-design/info-management/code-styling/code-styling-readability.md
+                  title: Writing Human Readable Code
+                - file: project-design/info-management/code-styling/code-styling-tools.md
+                  title: Code Styling Tools
+        - title: Data Security and Governance
+          file: project-design/data-security/sdp
+          sections:
+            - file: project-design/sdp.md
+              title: Sensitive Data Projects
+              children:
+                - file: project-design/sdp/types.md
+                  title: Types of Sensitive Data
+                - file: project-design/sdp/personal.md
+                  title: Personal Data
+                - file: project-design/sdp/confidential.md
+                  title: Confidential Data
+                - file: project-design/sdp/biological.md
+                  title: Biological Data
+                - file: project-design/sdp/metadata.md
+                  title: Metadata
+                - file: project-design/sdp/combined.md
+                  title: Combined Datasets
+            - file: project-design/sdpm.md
+              title: Managing Sensitive Data Projects
+              children:
+                - file: project-design/sdpm/informed.md
+                  title: Informed consent
+                - file: project-design/sdpm/data-privacy-strategies.md
+                  title: Data Privacy Strategies
+                - file: project-design/sdpm/sharing-sensitive-data.md
+                  title: Sharing Sensitive Data
+                - file: project-design/sdpm/resources.md
+                  title: Resources
+            - file: project-design/sdpw.md
+              title: Working on Sensitive Data Projects
+              children:
+                - file: project-design/sdpw/trew.md
+                  title: Working with Trusted Research Environments
+                - file: project-design/sdpw/pd-sdp-private-learning.md
+                  title: Privacy Preserving Machine Learning
+                - file: project-design/sdpw/pd-sdp-sensitive-files.md
+                  title: Keeping Sensitive Files Secure
+                - file: project-design/sdpw/pd-sdp-sensitive-code.md
+                  title: Sharing Your Jupyter Notebook
+                - file: project-design/sdpw/pd-sdp-exposing-data.md
+                  title: Removing Sensitive Data From GitHub
+                - file: project-design/sdpw/pd-sdp-resources.md
+                  title: Further Recommendations
+            - file: project-design/data-governance.md
+              title: Data Governance
+              children:
+                - file: project-design/data-governance/data-gov-ml.md
+                  title: Data Governance for the Machine Learning Pipeline
+                - file: project-design/data-governance/bigcode_casestudy.md
+                  title: BigCode Data Governance Case Study
         - file: project-design/missing-data.md
           title: Missing Data Handling
           children:
