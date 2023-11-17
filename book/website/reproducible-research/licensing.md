@@ -24,7 +24,7 @@ Consequently, this chapter will feature some discussion of the ethical ramificat
 It aims to be informative about the implications of licencing choices for the use of your work but not to prescribe a specific ethic, as there are divergent schools of thought on the ethics of different licencing choices.
 
 Many of the concepts which apply to the licensing of software, data, AI/ML models, hardware and other creative works such as visuals share common attributes and concepts which will be covered here.
-We will address the specifics of licensing each of these types of output in their own sub-chapters, as well as a seperate sub-chapter on license compatability.
+We will address the specifics of licensing each of these types of output in their own sub-chapters, as well as a separate sub-chapter on license compatability.
 
 
 
