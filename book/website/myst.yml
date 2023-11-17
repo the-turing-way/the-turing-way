@@ -373,7 +373,7 @@ project:
                 - file: project-design/info-management/code-styling/code-styling-tools.md
                   title: Code Styling Tools
         - title: Data Security and Governance
-          file: project-design/data-security/sdp
+          file: project-design/data-security
           sections:
             - file: project-design/data-security/sdp.md
               title: Sensitive Data Projects
