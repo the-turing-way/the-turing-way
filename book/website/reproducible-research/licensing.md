@@ -95,8 +95,8 @@ Trademarks generally only apply within a specific sector, as people are unlikely
 They can be relevant in the context of the name and logo of a software project, especially when a project changes hands or is forked, in which case the fork may not be able to use the original name of the project even if that project is no longer maintained.
 Open-source projects not associated with a company which have trademarks may have these held by a legal entity such as a non-profit, through which they might also take donations and pay for project infrastructure.
 It can be valuable for open-source projects to register for trademarks as their work can easily be cloned, modified and re-distributed with ill intent.
-Examples of modified open-source tools distributed with malware added have been documented, and trademark enforcement could some cases help to prevent or deter this.
-
+Examples of modified open-source tools distributed with malware added have been documented, and trademark enforcement could in some cases help to prevent or deter this.
+Nextcloud, for example, has a very [comprehensive guide to the use of their marks](https://nextcloud.com/trademarks/) with excellent explanations for the restrictions that they place on their use.
 <!--A subtler case is unofficial packages which charge a high rate for the software which could be downloaded elsewhere for free -->
 
 <!-- citations needed -->
