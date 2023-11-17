@@ -71,8 +71,8 @@ The use of glossaries in each language team is optional, but heavily recommended
 name: Glossary_
 width: 90%
 alt: Glossary in Crowdin which is table showing the terms in multiple languages.
-View of the full Glossary of the different languages. 
 ---
+View of the full Glossary of the different languages. 
 Only Crowdin contributors with manager role can access this view.
 ```  
 
