@@ -130,7 +130,7 @@ Which of these you choose shapes how and under what circumstances others are per
 Pre-made licences exist that are tailored to the differences between different types of works.
 For example, there are licences intended to be used for software and licences intended to be used for other creative works such as images, prose (text), as well as hardware & designs.
 
-In addition, there are now licences tailored for machine learning / artificial intelligence models as these are comprised of several parts, including: training data, code, and model weights.
+In addition, there are now licences tailored for machine learning or artificial intelligence models as these are comprised of several parts, including: training data, code, and model weights.
 Each of these parts may be licenced differently, and there is even some dispute as to whether model weights are subject to copyright at all under current law.
 <!-- citations needed -->
 This is an area which is likely to see (by legal standards) rapid changes in the near future, given recent developments in the commercialisation of AI/ML models.
