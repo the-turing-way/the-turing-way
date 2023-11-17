@@ -6,7 +6,7 @@ Nonetheless individual reviews can be challenging and are often a source of tens
 Ensuring code review is effective and enriching for those involved relies on the author and reviewers approaching it in a certain way, and avoiding some of the many pitfalls involved.
 
 When author and reviewers are working together and in collaboration, the exercise of reviewing can be both enjoyable and beneficial.
-When reviews become antagonistic they can cause immense hard.
+When reviews become antagonistic they can cause immense harm.
 
 ```{figure} ../../figures/first-pull-request.*
 ---
@@ -29,8 +29,8 @@ It can also be the result of different roles and permissions.
 For example, if only the reviewer has the ability to merge a pull request, this can lead to the situation where the reviewer has total power over whether a pull request is accepted or not.
 This is a common situation.
 
-Situations in which the reviewer has seniority can lead to a form of "development by proxy", where the reviewer is essentially making their own changes to a piece of code or document through the medium of GitHub comments; the author simply acting as a scribe.
-This is disempowering for the author and also an ineffective way to write code.
+Situations in which the reviewer has seniority can lead to a form of "development by proxy", where the reviewer is essentially making their own changes to a piece of code or document through the medium of GitHub comments; the author acts simply as a scribe.
+This is disempowering for the author and also an ineffective use of time.
 
 If a reviewer is forcing a complete restructure or rewrite of a piece of code in this way, preferable approaches are to either reject the PR and discuss the changes outside of a review, or to accept the changes but also with an associated issue created to specify the other changes required.
 
@@ -38,7 +38,7 @@ Situations in which the author has seniority can lead to a situation where all r
 This is disempowering for the reviewer and leads to disenchantment with the process.
 
 Power imbalances that can lead to these situations should be avoided as far as possible by aligning processes and selecting reviewers in order to avoid this.
-However in many projects, especially open source projects, this may not be possible: the core set of developers always has the final say on what gets merged.
+However in many projects, especially open source projects, this may not be possible: core developers always have the final say on what gets merged.
 
 Where such power imbalances cannot be avoided it falls to the more senior contributor to act appropriately.
 For example, it can be helpful for them to use supportive rather than accusative language, to be more forgiving of others' language, and to take special care to encourage consensus rather than dictating an outcome.
@@ -46,31 +46,31 @@ For example, it can be helpful for them to use supportive rather than accusative
 ## The infinite wait
 
 Reviewing pull requests is time-consuming and can be seen as less productive than generating new content.
-In open source projects where there is no pre-existing relationship between the submitter of a pull request and the core team reviewing it, it can be easy to ignore pull requests.
+In open source projects where there is no pre-existing relationship between the submitter of a pull request and the core team reviewing it, it can be easy for pull requests to get ignored.
 
-This is especially true for Pull Requests that are controversial, or which are of high quality but making changes that the project does not see as a priority internally.
+This is especially true for pull requests that are controversial, or which are of high quality but making changes that the project does not see as a priority internally.
 
 A common outcome is that a pull request will be left in the queue for months or even years without being addressed.
-This is almost guaranteed to alienated potential members of the community that might otherwise build up around a project.
+This is almost guaranteed to alienated potential members of the community who might otherwise make more contributions.
 
 It's crucial that reviews are tackled in a timely manner.
 For an open source project, it is the responsibility of the project maintainers, and a sign of good stewardship, if pull requests are reviewed in good time.
 
-Not doing so can lead to pull requests building up, leading to drag on a project.
+Allowing stale pull requests to build up can cause drag on a project.
 
-If a project isn't ready to accept a pull request or doesn't have the capacity to review it, it is beneficial to make this clear, either by rejecting the pull request, or by engaging with the author to make clear that there is no capacity to review it.
+If a project isn't ready to accept a pull request or doesn't have the capacity to review it, it is beneficial to make this clear, either by rejecting the pull request, or by engaging with the author to explain the situation.
 
 ## The infinite review
 
 If a reviewer doesn't like a piece of code, it's not unusual for them to simply leave a review incomplete, rather than tackle the thorny issues it raises.
 This may be especially the case if a reviewer is having difficulty articulating what they dislike about a proposed change.
 
-Leaving pull requests half reviewed, from the side of the author or reviewer, can feel disrespectful to the effort the other parties have put in to working on it.
+Leaving pull requests half reviewed, from the side of the author or reviewer, can feel disrespectful to other parties who have worked on it.
 
-If there is any uncertainty about the benefits or purpose of a particular change, it is better to make this clear through a comment and discuss it with others involved, making clear that you come from a position of wanting to understand.
+If there is any uncertainty about the benefits or purpose of a particular change, it is better to make this clear through a comment, emphasising that you're looking to better understand.
 
-If, ultimately, a change is to be rejected, it is more respectful of the submitter's time to reject it than to leave the review incomplete.
-If you are rejecting a a change it's essential that the reason is explained for the benefit of the author.
+If a change is ultimately not going to be merged, it is more respectful to reject explicitly than to leave the review incomplete.
+When rejecting a change it is essential that the reason is explained for the benefit of the author.
 
 Remember that not everything has to be resolved in a single pull request.
 If it looks like it's going to be hard to come to a decision on something, create a new issue to deal with it, rather than allow it to block the code merge.
@@ -79,11 +79,11 @@ If it looks like it's going to be hard to come to a decision on something, creat
 
 As a reviewer it may be necessary to accept the code in a form that you're not happy with.
 In this case, create an issue to fix parts of it that may be problematic in a separate issue.
-It can sometimes be quicker to fix an issue yourself rather than work through someone else to make the changes.
+It can sometimes be quicker to fix an issue yourself rather than work through someone else to make the change.
 
-This is especially true early on in a project when a community is still being built around it.
-Contributors who make poor submissions now, with help and encouragement, may turn into the most active and successful contributors in the future.
-Reviews should always be encouraging and especially in these early stages, it can be better to accept even poor contributions than to alienate potential collaborators.
+This is especially true early on in a project when a community is still being built up around it.
+Contributors who make poor submissions now, with help and encouragement, may turn into the driving force of a project in the future.
+Reviews should always be encouraging and especially in the early stages, it can be better to err on the side of accepting rather than alienate potential collaborators.
 
 ## The weight of responsibility
 
@@ -100,22 +100,22 @@ In practice, the person who wrote a piece of code tends to be the person with th
 
 Some review systems will send an email or alert every time a new comment is added to a review.
 It can be tempting, as either an author or reviewer, to respond to these comments immediately.
-This is especially the case if you disagree with a comment.
+This urge can be especially strong if you disagree with a comment.
 
 In practice the comment is likely to be part of a larger and more considered response that spans the entire set of changes in a pull request.
 
-Whether a reviewer responding to changes, or an author responding to a review, it can be helpful to wait for the entire set of comments to arrive before deciding on a response.
-Replying immediately not only starves you of the full context for the comment, it's also likely to interrupt the flow of the reviewer, who may also receive an immediate notification following a reply.
+Whether as a reviewer responding to changes, or an author responding review feedback, it can be helpful to wait for the entire set of comments to arrive before deciding on a response.
+Replying immediately not only starves you of the full context, it may also interrupt the flow of the reviewer, who may also be receiving immediate notifications following a reply.
 
 Resist the urge to reply to all comments immediately.
-Wait for the full response and then think carefully about how best to reply.
+Wait for the full response and then think carefully about how best to respond.
 
 The GitHub reviewing tools encourage this approach by allowing you to build up all of your comments in your review before submitting them in a single batch.
 This has many advantages:
 
 1. The recipient receives a single notification for the entire review, rather than many smaller notifications, which can be disruptive.
 2. The relevance of changes earlier in a pull request may not become clear until later in a pull request.
-   Batching up your responses gives you the opportunity to amend them in case you discover that a comment doesn't apply in the way you thought it did after you've read the following material.
+   Batching up your responses gives you the opportunity to amend them in retrospect in case you discover that a comment doesn't apply after all.
 3. The approach encourages you to think holistically about a change, rather than pedantically criticising every small and insignificant detail.
 4. It discourages overly-hasty and impulsive reactions.
 
