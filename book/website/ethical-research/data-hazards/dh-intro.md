@@ -38,7 +38,7 @@ name: data-hazard-environmental-cost
 alt: A red diamond with an image of the earth at the centre. The earth is surrounded by a flame. 
 
 ---
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807) [change me].
+_Data Hazards_ project illustration by Yasmin Dwiputri. Used under a CC-BY 4.0 licence. [DOI.](10.31219/osf.io/hzmyp).
 ```
 
 #### Description
