@@ -237,7 +237,7 @@ Their merits versus conventional open-source licenses have been the subject of s
 
 Even an attribution requirement (the BY in CC-BY) can in some cases be considered a usage restriction.
 For example the Debian project found the [Common Public Attribution License (CPAL)](https://en.wikipedia.org/wiki/Common_Public_Attribution_License) to be incompatible their free-software guidelines for this reason whilst it is approved by the Open Source Initiative.
-I the case of academic works attribution requirements can serve to re-enforce the citation convention with the force of copyright law.
+In the case of academic works attribution requirements can serve to re-enforce the citation convention with the force of copyright law.
 
 (rr-licensing-choosing)=
 ### Where to find open licenses for different types of work
