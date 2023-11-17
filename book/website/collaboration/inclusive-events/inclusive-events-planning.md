@@ -162,7 +162,8 @@ If your event is ticketed, ticket prices should be set thoughtfully and may cons
 (cl-inclusive-events-planning-honorarium)=
 #### Honorarium and Bursaries 
 Depending on the size of the budget and structure, creating a policy and the budget for an Accessibility Fund can help to make your event inclusive for all participants, regardless of their needs and circumstances. 
-This is a Fund that can be applied to cover additional costs that would support people with lived experience attending and engaging in your event. These additional costs could be: 
+This is a Fund that can be applied to cover additional costs that would support people with lived experience attending and engaging in your event. 
+These additional costs could be: 
 - additional accommodation for people who may need to travel to an event the day prior, or stay longer, if attending in person due to health conditions.
 - any travel costs or support for those with caring responsibilities to cover the cost of a support worker, childcare, or allowing their child to travel with them.
 - honorarium for members of the public with lived experience to attend sessions. 
