@@ -74,7 +74,7 @@ The precise details of what constitutes a disclosure and the strictness of the a
 Patents on processes and software rather than specific inventions are a matter of contention in US law and explicitly not recognised in EU law (at time of writing).
 Unlike copyright, you generally have to pay to register and maintain a patent.
 You must also do so in each jurisdiction in which you want this patent to apply, though some have reciprocal agreements for recognising patents from other jurisdictions.
-To ensure that patents held by the authors of software do not impact on the freedom to use and distribute  open software, some licences specifically include permission to use any applicable patents (for example [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), see section 3), though this cannot protect against patents held by 3rd parties.
+To ensure that patents held by the authors of software do not impact on the freedom to use and distribute  open software, some licences specifically include permission to use any applicable patents (for example section 3 of the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0.html)), though this cannot protect against patents held by 3rd parties.
 
 <!-- citations needed -->
 <!-- when should you patent something and when not?-->
