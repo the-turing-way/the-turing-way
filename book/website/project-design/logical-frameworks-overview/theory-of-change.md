@@ -11,7 +11,7 @@ A theory of change helps you connect the dots between your actions and the posit
 - **Focus**: Addresses broader aspects of change, including uncontrollable factors and the wider context of culture and power relations.
 - **Process**: Involves deep critical reflection, logical thinking, and extensive data. It starts by identifying the goal and works backward, asking "if we do X, then Y will happen because…".
 - **Usage**: Ideal for complex projects across multiple sectors, requiring rigorous planning and a thorough understanding of the intervention's impact.
-- 
+
 <img width="603" alt="Screenshot 2023-11-17 at 09 13 35" src="https://github.com/the-turing-way/the-turing-way/assets/53487593/380d3c0d-4c1a-4965-bba0-c4a16487437e">
 
 
