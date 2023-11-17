@@ -10,6 +10,7 @@ In the words of its advocates, [Ethical Source](https://ethicalsource.dev/) was 
 Motivated by the growing use of open source software for technologies such as mass surveillance and racial profiling, the movement aims to reduce this "misuse" of open-source software.
 
 Ethical Source extends upon the principles of open source to provide developers additional means to ensure their work is used for applications aligned with ethical values important to them like:
+
 - Advocating for workers' rights and human rights
 - Ensuring protections against violence and discrimination
 - Protecting privacy
