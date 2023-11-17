@@ -327,7 +327,7 @@ For events that have recorded sessions, this may be uploading the content to You
 Having a human reviewer of captions can be helpful in catching any errors made by automatic captioning software and ensuring that content is of a good quality (such as editing out any audio glitches and flagging triggers for photosensitive epilepsy). 
 
 If your event included content such as slides or documented notes, consider where and how you will archive them so that they can be accessed and referenced by attendees. 
-Online repositories such as Zenodo are commonly used by research communities but are not universally design-compliant and require both technical expertise and knowledge of how to use and access it as well as requiring an internet connection to access content. 
+Online repositories such as [Zenodo](https://zenodo.org/) are commonly used by research communities but are not universally design-compliant and require both technical expertise and knowledge of how to use and access it as well as requiring an internet connection to access content. 
 Consider using Zenodo in addition to an accessible format. 
 This could be a website commonly visited by your attendees, sending post-event summary information to attendees, or providing recordings of sessions that display session content.
 
