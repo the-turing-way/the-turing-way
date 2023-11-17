@@ -7,7 +7,9 @@ If these constraints conflict, then you cannot legally distribute the result (if
 If two licenses specify incompatible constraints on the license of the combined work, then they are _incompatible_.
 
 The GNU GPL, for instance, is incompatible with proprietary licenses, because it requires the combined work to be licensed under the GPL, with no additional restrictions allowed.
-Having a part of the work under a proprietary license is such an additional restriction, so you cannot distribute such a combination (unless the copyright owner of the GPL code gives special permission).
+Having a part of the work under a proprietary license is such an additional restriction, so you cannot distribute such a combination, unless the copyright owner of the GPL code gives special permission.
+However, GPL codebases often have many contributors and you need all of their permission, this is an intended feature the license which is by design hostile to be re-licensed in a proprietary fashion.
+{ref}`Contributor License Agreements (CLAs)<rr-licensing-edge-clas>` can be used by GPL projects circumvent this by empowering a single party to make decisions about relicensing if they want to allow for dual licensing of GPL or AGPL codebases.
 
 When you use different pieces of software together to solve a problem, and want to distribute the result, here are the questions you have to answer:
 
