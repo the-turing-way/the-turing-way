@@ -176,7 +176,7 @@ Honorariums and Reimbursements may have separate policies and timelines, and it 
 It is advisable to highlight who is responsible for payments, how any reimbursement procedures will work and their expected timeline, and clear guidance on what expenses will be covered. 
 The UK's National Institute for Health and Care Research has published [Guidance on Payment](https://www.nihr.ac.uk/documents/payment-guidance-for-researchers-and-professionals/27392) for researchers who need to cost public involvement activities at any stage of the research process that can be used as a reference for developing your event's honorarium policy.
 
-Please ensure that all documentation and communication about honorarium and reimbursements are written in an Easy Read format following plain language guidance and if possible, provide clear pathways on how to submit documents. 
+Please ensure that all documentation and communication about honorarium and reimbursements are written in an Easy Read format following Plain Language guidance and if possible, provide clear pathways on how to submit documents. 
 People with lived experience may not have a printer in their homes and may share a computer or smartphone to take part in events. 
 Where possible, please be mindful of the technology and process barriers that people may face and make processes as clear as possible.
 Review your organization's honorarium policy, and consider what steps will be needed to align your policy with what is both recommended and what is required. 
