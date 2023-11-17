@@ -146,7 +146,7 @@ This spectrum is something of an oversimplification, and there are some extensio
 These same concepts developed originally in the context of software have often been applied to other creative outputs.
 Consequently, they are among the most developed and useful context for understanding the licensing of other things.
 
-Software that is not free is proprietary.
+Software that is not free (in the 'libre' sense defined below) is proprietary.
 Software that you are not allowed to copy or modify falls into this category, as does software with usage restrictions, for example, "For research use only" or "For non-commercial use only".
 
 Permissively licenced things can generally be used by anyone for any purpose.
