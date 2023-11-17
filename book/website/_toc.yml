@@ -279,90 +279,102 @@ parts:
                 file: project-design/pd-overview/pd-overview-version
               - title: Sharing Your Research Work
                 file: project-design/pd-overview/pd-overview-sharing
-          - title: Project Design Checklist
-            file: project-design/pd-checklist
-          - title: Creating Project Repositories
-            file: project-design/project-repo
+          - title: Project Setup and Organisation
+            file: project-design/pd-design-overview
             sections:
-              - title: Landing Page - README File
-                file: project-design/project-repo/project-repo-readme
-              - title: Roadmapping
-                file: project-design/project-repo/project-repo-roadmapping
-              - title: Contributors and Communication Pathways
-                file: project-design/project-repo/project-repo-contributors
-              - title: Participation Guidelines
-                file: project-design/project-repo/project-repo-participation
-              - title: Advanced Structure for Data Analysis
-                file: project-design/project-repo/project-repo-advanced
-              - title: Further Recommendations
-                file: project-design/project-repo/project-repo-resources
-          - title: Personas and Pathways
-            file: project-design/persona
+              - title: Project Design Checklist
+                file: project-design/pd-design-overview/pd-checklist
+              - title: Creating Project Repositories
+                file: project-design/pd-design-overview/project-repo
+                sections:
+                 - title: Landing Page - README File
+                   file: project-design/pd-design-overview/project-repo/project-repo-readme
+                 - title: Roadmapping
+                   file: project-design/pd-design-overview/project-repo/project-repo-roadmapping
+                 - title: Contributors and Communication Pathways
+                   file: project-design/pd-design-overview/project-repo/project-repo-contributors
+                 - title: Participation Guidelines
+                   file: project-design/pd-design-overview/project-repo/project-repo-participation
+                 - title: Advanced Structure for Data Analysis
+                   file: project-design/pd-design-overview/project-repo/project-repo-advanced
+                 - title: Further Recommendations
+                   file: project-design/pd-design-overview/project-repo/project-repo-resources
+          - title: Stakeholders
+            file: project-design/stakeholders
             sections:
-              - title: Persona Creation Tool
-                file: project-design/persona/persona-creation
-              - title: Contributor Pathways
-                file: project-design/persona/persona-contributors
-          - title: File Naming Convention
-            file: project-design/filenaming
-          - title: Code Styling and Linting
-            file: project-design/code-styling
+                 - title: Personas and Pathways
+                   file: project-design/stakeholders/persona
+                   sections:
+                     - title: Persona Creation Tool
+                       file: project-design/stakeholders/persona/persona-creation
+                     - title: Contributor Pathways
+                       file: project-design/stakeholders/persona/persona-contributors
+          - title: Information Management
+            file: project-design/info-management
             sections:
-              - title: Guidelines for Code Styling
-                file: project-design/code-styling/code-styling-guidelines
-              - title: Writing Human Readable Code
-                file: project-design/code-styling/code-styling-readability
-              - title: Code Styling Tools
-                file: project-design/code-styling/code-styling-tools
-          - title: Sensitive Data Projects
-            file: project-design/sdp
+                 - title: File Naming Convention
+                   file: project-design/info-management/filenaming
+                 - title: Code Styling and Linting
+                   file: project-design/info-management/code-styling
+                   sections:
+                     - title: Guidelines for Code Styling
+                       file: project-design/info-management/code-styling/code-styling-guidelines
+                     - title: Writing Human Readable Code
+                       file: project-design/info-management/code-styling/code-styling-readability
+                     - title: Code Styling Tools
+                       file: project-design/info-management/code-styling/code-styling-tools
+          - title: Data Security and Governance
+            file: project-design/data-security
             sections:
-              - title: Types of Sensitive Data
-                file: project-design/sdp/types
-              - title: Personal Data
-                file: project-design/sdp/personal
-              - title: Confidential Data
-                file: project-design/sdp/confidential
-              - title: Biological Data
-                file: project-design/sdp/biological
-              - title: Metadata
-                file: project-design/sdp/metadata
-              - title: Combined Datasets
-                file: project-design/sdp/combined
-          - title: Managing Sensitive Data Projects
-            file: project-design/sdpm
-            sections:
-              - title: Informed consent
-                file: project-design/sdpm/informed
-              - title: Data Privacy Strategies
-                file: project-design/sdpm/data-privacy-strategies
-              - title: Sharing Sensitive Data
-                file: project-design/sdpm/sharing-sensitive-data
-              - title: Resources
-                file: project-design/sdpm/resources
-          - title: Working on Sensitive Data Projects
-            file: project-design/sdpw
-            sections:
-              - title: Working with Trusted Research Environments
-                file: project-design/sdpw/trew
-              - title: Privacy Preserving Machine Learning
-                file: project-design/sdpw/pd-sdp-private-learning
-              - title: Keeping Sensitive Files Secure
-                file: project-design/sdpw/pd-sdp-sensitive-files
-              - title: Sharing Your Jupyter Notebook
-                file: project-design/sdpw/pd-sdp-sensitive-code
-              - title: Removing Sensitive Data From GitHub
-                file: project-design/sdpw/pd-sdp-exposing-data
-              - title: Further Recommendations
-                file: project-design/sdpw/pd-sdp-resources
-          - title: Data Governance
-            file: project-design/data-governance
-            sections:
-              - title: Data Governance for the Machine Learning Pipeline
-                file: project-design/data-governance/data-gov-ml
-              - title: BigCode Data Governance Case Study
-                file: project-design/data-governance/bigcode_casestudy
-
+                 - title: Sensitive Data Projects
+                   file: project-design/sdp
+                   sections:
+                     - title: Types of Sensitive Data
+                       file: project-design/data-security/sdp/types
+                     - title: Personal Data
+                       file: project-design/data-security/sdp/personal
+                     - title: Confidential Data
+                       file: project-design/data-security/sdp/confidential
+                     - title: Biological Data
+                       file: project-design/data-security/sdp/biological
+                     - title: Metadata
+                       file: project-design/data-security/sdp/metadata
+                     - title: Combined Datasets
+                       file: project-design/data-security/sdp/combined
+                 - title: Managing Sensitive Data Projects
+                   file: project-design/data-security/sdpm
+                   sections:
+                     - title: Informed consent
+                       file: project-design/data-security/sdpm/informed
+                     - title: Data Privacy Strategies
+                       file: project-design/data-security/sdpm/data-privacy-strategies
+                     - title: Sharing Sensitive Data
+                       file: project-design/data-security/sdpm/sharing-sensitive-data
+                     - title: Resources
+                       file: project-design/data-security/sdpm/resources
+                 - title: Working on Sensitive Data Projects
+                   file: project-design/data-security/sdpw
+                   sections:
+                     - title: Working with Trusted Research Environments
+                       file: project-design/data-security/sdpw/trew
+                     - title: Privacy Preserving Machine Learning
+                       file: project-design/data-security/sdpw/pd-sdp-private-learning
+                     - title: Keeping Sensitive Files Secure
+                       file: project-design/data-security/sdpw/pd-sdp-sensitive-files
+                     - title: Sharing Your Jupyter Notebook
+                       file: project-design/data-security/sdpw/pd-sdp-sensitive-code
+                     - title: Removing Sensitive Data From GitHub
+                       file: project-design/data-security/sdpw/pd-sdp-exposing-data
+                     - title: Further Recommendations
+                       file: project-design/data-security/sdpw/pd-sdp-resources
+                 - title: Data Governance
+                   file: project-design/data-security/data-governance
+                   sections:
+                     - title: Data Governance for the Machine Learning Pipeline
+                       file: project-design/data-security/data-governance/data-gov-ml
+                     - title: BigCode Data Governance Case Study
+                       file: project-design/data-security/data-governance/bigcode_casestudy
+  
       # ===== Guide for Communication ========================================
 
       - file: communication/communication
