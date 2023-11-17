@@ -159,7 +159,7 @@ The concept of copy-left licences and their first example, the GPL, originated w
 The idea is a 'hack' of copyright law to use the protections that it affords to privately owned software to a software commons.
 <!-- citations needed -->
 
-The four fundamental freedoms of free/libre software:
+The FSF's four fundamental freedoms of free/libre software are:
 
 - Freedom 0: The freedom to run the program as you wish, for any purpose.
 - Freedom 1: The freedom to study how the program works, and change it, so it does your computing as you wish.
