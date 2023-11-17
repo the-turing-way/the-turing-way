@@ -15,7 +15,8 @@ No previous knowledge is needed, this chapter explains how important it is to un
 > This chapter was written using American English, in which the word **license** is a noun **_and_** a verb.
 > With British English, however, **licence** is a noun (as in, _to issue a licence_), while **license** is a verb (as in, _they licensed the event_).
 
-'Intellectual Property (IP)' law is a complex subject, however some understanding of it is important for anyone producing creative works governed by it including; software, datasets, graphics and more.
+'Intellectual Property (IP)' law is a complex subject.
+However some understanding of it is important for anyone producing creative works governed by it including software, datasets, graphics and more.
 This is true when producing a work as a contribution to open culture or as a potential commercial venture.
 This chapter aims to give a brief summary of relevant intellectual property laws (enough to be able to read most software, and related licenses), explain free and open source software licensing, and explain how combining software from different sources works from a legal perspective.
 Decisions about licencing made at the inception of a project can have long-lasting and significant ramifications.
