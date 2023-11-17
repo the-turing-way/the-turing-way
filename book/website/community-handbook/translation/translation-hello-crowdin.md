@@ -63,20 +63,23 @@ Get in touch if you want to share the Translation Memory (TM) of a previously tr
 ## Adding terms to the glossary
 
 In order to translate the project's terminology properly and consistently, we keep them in a Glossary.
-In the Glossary, you can create, store, and manage all the project terminology in one place.
+In the Glossary, you can create, store, and manage all the project terminology in one place. 
+The use of glossaries in each language team is optional, but heavily recommended. Each project automatically generates it's own Glossary when it's created, and it can be filled with content by each project team. 
 
 ```{figure} ../../figures/Glossary.*
 ---
 name: Glossary_
 width: 90%
 alt: Glossary in Crowdin which is table showing the terms in multiple languages.
+View of the full Glossary of the different languages. 
 ---
+Only Crowdin contributors with manager role can access this view.
 ```  
 
-```{admonition} Tip
-:class: tip
-You can upload a glossary or share glossaries across different projects.
-```
+
+To add terms to the Glossary you need to double-select a term, and then select the option "create term". 
+A new window will appear showing both the English and [language] explanations for that term. 
+If the term is new in that language, you'll need to specify the equivalent word in your language for that English term.
 
 ```{figure} ../../figures/adding-glossary.*
 ---
@@ -84,11 +87,19 @@ name: Adding-glossary
 width: 90%
 alt: The Crowdin editor shows the glossary term underlined and you can also add new one by highlighting the term and clicking on add term. A new window will be prompt where you can fill its details.
 ---
+Workflow for adding new terms while translating.
 ```
 
-The terms that were added to the project glossary will be underlined in the source string.
+For a file that needs to be translated, you can search which words from it are present in the Glossary by selecting the "Terms" icon on the Crowdin editor.
+
+The terms that were added to the project Glossary will be underlined in the source string.
 You can check additional explanations added to the term for an accurate translation.
 
+
+```{admonition} Tip
+:class: tip
+You can upload a glossary or share glossaries across different projects. To do so, contact a contributor with Crowdin manager role.
+```
 
 ## Proofreading
 
@@ -118,7 +129,7 @@ alt: The proofreading mode in Crowdin editor where you can click in the tick to 
 
 When you are proofreading, pay extra attention to punctuation. 
 You can either choose one of these or edit directly in each string's field. 
-When you reach a satisfactory translation, click on Save.
+When you reach a satisfactory translation, select Save.
 
 
 ## Adding Comments
