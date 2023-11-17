@@ -71,7 +71,8 @@ Acknowledging and addressing the power and privilege differences between members
 It can be helpful to acknowledge that people with lived experience are "experts by experience" to help establish equal footing with professionals and researchers who are "experts by profession". 
 
 Your event may be the first event of this type attended by people with lived experience and members of the public, and they may not have pursued higher education compared with attendees who may be researchers by profession. 
-This can create a significant power imbalance due to comfort and experience at the event. Networking and social components of the event may feel less welcoming to people with lived experience if they do not know anyone before attending. 
+This can create a significant power imbalance due to comfort and experience at the event. 
+Networking and social components of the event may feel less welcoming to people with lived experience if they do not know anyone before attending. 
 Researchers, especially in niche fields, may know each other quite well or may be more comfortable joining discussions with others who share the same project or university. 
 Try to consider ways to open discussion between attendees to avoid a social separation between researchers and members of the public. 
 
