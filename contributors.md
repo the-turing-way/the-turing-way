@@ -95,7 +95,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > Alexandra is the Research Project Manager for The Turing Way project, under the Tools, Practices and Systems research programme from February 2023.
 > Alexandra was born and raised in Lima, Peru. She has an Economics Engineering degree with a master’s in marketing.
 > Her experience in Research Project Management started in 2021 at People’s Palace Projects, an art research centre connecting academics, artists and policymakers. There she covered the Mental Health and Wellbeing projects.
-> Prior to that, she lived in Peru where she was the CEO of Teatro La Plaza, one of Latin America’s leading theatre companies. There, she oversaw the production of over 100 theatre plays for adults and children, such as Mamma Mia!, Billy Elliot, The curious incident of the Dog in the Nighttime, and Hamlet (with a cast of actors with Down syndrome), among many others.
+> Prior to that, I lived in Peru where she was the CEO of Teatro La Plaza, one of Latin America’s leading theatre companies. There, she oversaw the production of over 100 theatre plays for adults and children, such as Mamma Mia!, Billy Elliot, The curious incident of the Dog in the Nighttime, and Hamlet (with a cast of actors with Down syndrome), among many others.
 > 
 * Personal highlights:
 > Alexandra is a positive and curious person who enjoys learning and discovering new things.
