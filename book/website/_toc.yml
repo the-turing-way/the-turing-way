@@ -296,7 +296,7 @@ parts:
                 file: project-design/project-repo/project-repo-advanced
               - title: Further Recommendations
                 file: project-design/project-repo/project-repo-resources
-          - title: logical Frameworks
+          - title: Logical Frameworks
             file: project-design/logical-frameworks-overview
             sections:
               - title: Theory of Change vs. Logical Framework
