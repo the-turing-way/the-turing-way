@@ -4466,14 +4466,6 @@
         "review"
       ]
     },
-
-
-
-
-
-
-
-
     {
       "login": "MayaAndersonGonzalez",
       "name": "Maya Anderson-González",
@@ -4482,7 +4474,17 @@
       "contributions": [
         "content"
       ]
-],
+    },
+    {
+      "login": "gigikenneth",
+      "name": "Gigi Kenneth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52600214?v=4",
+      "profile": "https://bit.ly/gigi-kenneth",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
   "projectName": "the-turing-way",
   "projectOwner": "the-turing-way",
   "repoType": "github",
