@@ -64,7 +64,7 @@ Get in touch if you want to share the Translation Memory (TM) of a previously tr
 
 In order to translate the project's terminology properly and consistently, we keep them in a Glossary.
 In the Glossary, you can create, store, and manage all the project terminology in one place. 
-The use of glossaries in each language team is optional, but heavily recommended. Each project automatically generates it's own Glossary when it's created, and it can be filled with content by each project team. 
+The use of glossaries in each language team is optional, but heavily recommended. Each project automatically generates its own Glossary when it's created, and it can be filled with content by each project team. 
 
 ```{figure} ../../figures/Glossary.*
 ---
