@@ -136,7 +136,7 @@ Each of these parts may be licenced differently, and there is even some dispute 
 This is an area which is likely to see (by legal standards) rapid changes in the near future, given recent developments in the commercialisation of AI/ML models.
 
 There are some general principles which apply to licences across the different types of entity that they try to licence.
-Licences can generally be placed on a spectrum from proprietary, through permissive, to 'share alike' or 'copy-left' (the opposite of copyright).
+Licences can generally be placed on a spectrum from proprietary, through permissive, to 'share alike' or 'copyleft' (the opposite of copyright).
 This spectrum is something of an oversimplification, and there are some extensions and caveats we'll get to later.
 
 
@@ -151,11 +151,11 @@ Software that you are not allowed to copy or modify falls into this category, as
 
 Permissively licenced things can generally be used by anyone for any purpose.
 A popular minimal example of this for software is known as the [MIT licence](https://mit-license.org/), for other works, [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) the 'public domain' licence.
-Copy-left licences attempt to ensure that any re-distributions or derived works also remain 'free', the canonical example is the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
-Unlike permissively licenced content, which can be modified and redistributed under a different licence (including as a part of a closed and/or for profit project), copy-left content (modified or unmodified) must be distributed under the same, or a compatible license, which retains the copy-left obligation.
-In other words if you take copy-left content modify it and distribute your modifications those modifications must also be copy-left.
+Copyleft licences attempt to ensure that any re-distributions or derived works also remain 'free', the canonical example is the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
+Unlike permissively licenced content, which can be modified and redistributed under a different licence (including as a part of a closed and/or for profit project), copyleft content (modified or unmodified) must be distributed under the same, or a compatible license, which retains the copyleft obligation.
+In other words if you take copyleft content modify it and distribute your modifications those modifications must also be copyleft.
 
-The concept of copy-left licences and their first example, the GPL, originated with Richard Stallman, who founded the free-software foundation (FSF) in 1985.
+The concept of copyleft licences and their first example, the GPL, originated with Richard Stallman, who founded the free-software foundation (FSF) in 1985.
 The idea is a 'hack' of copyright law to use the protections that it affords to privately owned software to a software commons.
 <!-- citations needed -->
 
@@ -171,7 +171,7 @@ The FSF's four fundamental freedoms of free/libre software are:
 
 Other influential definitions of free and open-source software include: The Debian project's [Debian Free Software Guidelines (DFSG)](https://www.debian.org/social_contract#guidelines), and the open source initiative (OSI)'s [Open Source Definition](https://opensource.org/osd/).
 The terms 'Free'/'Libre' & 'Open-Source' software are often used somewhat interchangeably, but have different connotations.
-The use of 'free software' typically denotes a more hardline political commitment to the ideals of the free software movement, and is associated with a preference for copy-left licenses.
+The use of 'free software' typically denotes a more hardline political commitment to the ideals of the free software movement, and is associated with a preference for copyleft licenses.
 The name 'open-source' places the emphasis on freedom 1 and could more readily be confused with the concept of 'source available' software, based on a naive interpretation of the name.
 'Open-source' is associated with, if not a preference for, then a more favourable view of, permissive licenses.
 
@@ -189,18 +189,18 @@ If developers are bad stewards of a free software projects, the friction for rep
 A 'fork' of the project can be made, developed and maintained by different developers whom the community of users deem a better steward.
 This is not true of proprietary projects where the developers own the rights to the code and thus cannot be readily replaced by the community of users if they begin to abuse these users who are now held captive by switching costs.
 
-Copy-left licences are an attempt to ensure that software remains effectively under community ownership and cannot be used to make proprietary software which does not respect the four freedoms and may thus result in the abuse of its users.
-To attempt to achieve this goal, copy-left software requires that when distributing copy-left software or in some cases derived works that you do so under the same terms as the original licence.
+Copyleft licences are an attempt to ensure that software remains effectively under community ownership and cannot be used to make proprietary software which does not respect the four freedoms and may thus result in the abuse of its users.
+To attempt to achieve this goal, copyleft software requires that when distributing copyleft software or in some cases derived works that you do so under the same terms as the original licence.
 Creative commons 'share-alike' licences attempt the same thing for other content.
 
-Copy-left licences do not prohibit commercial use, indeed numerous companies exist which develop copy-left projects.
+Copyleft licences do not prohibit commercial use, indeed numerous companies exist which develop copyleft projects.
 Many of those generate revenue through support services instead of selling licences, which would incentivise an unhealthy relationship with their users.
 [Nextcloud](https://nextcloud.com/) is an excellent example of a commercial, open-source project.
 Nextcloud makes use of the [AGPL v3.0](https://www.fsf.org/bulletin/2021/fall/the-fundamentals-of-the-agplv3) a license which extends the protections of the GPL to software used over a network.
 It gives users who interact with this software over a network, for example by using a web service, rather than run it on their own computers, the right to access a copy of the source code; which they are further free to modify and distribute as is usual for the GPL.
 
-Within copy-left licenses, there are 'strong' and 'weak' copy-left licences.
-'Strong' copy-left licenses require that combined works which contain them as a library also carry the same license but weak copy-left licenses permit their re-distribution as a library within a combined work under a different license.
+Within copyleft licenses, there are 'strong' and 'weak' copyleft licences.
+'Strong' copyleft licenses require that combined works which contain them as a library also carry the same license but weak copyleft licenses permit their re-distribution as a library within a combined work under a different license.
 We will define derived and combined works in the section on licence compatibility where the detailed implications of the distinctions between strong & weak copyleft, and permissive licencing are explored in more practical detail.
 It is important to note that licenses can be incompatible such that creating a combined work is highly impractical to do legally.
 
@@ -288,9 +288,9 @@ Organisations which take legal action in defence of free software, and which can
 (rr-licensing-edge-clas)=
 #### Contributor Licence Agreements
 
-The holder of the copyright on a copy-left project can still re-licence that project or dual-licence that project under a different licence, for example to grant exclusive rights to commercially distribute that project with proprietary extensions or to make future versions proprietary.
+The holder of the copyright on a copyleft project can still re-licence that project or dual-licence that project under a different licence, for example to grant exclusive rights to commercially distribute that project with proprietary extensions or to make future versions proprietary.
 In a large community developed project, this would require the consent of all contributors, as they each own the copyright to their contributions.
-To get around this, some copy-left projects developed by companies that commercially licence proprietary extensions to these projects ask their contributors to sign contributor licence agreements (CLAs) which may assign the contributor's copyright to the company, or include other provisions so that they can legally dual-licence the project.
+To get around this, some copyleft projects developed by companies that commercially licence proprietary extensions to these projects ask their contributors to sign contributor licence agreements (CLAs) which may assign the contributor's copyright to the company, or include other provisions so that they can legally dual-licence the project.
 
 (rr-licensing-edge-available)=
 #### 'Source Available' or 'Shared Source'
