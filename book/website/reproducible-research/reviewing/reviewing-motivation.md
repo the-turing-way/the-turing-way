@@ -8,12 +8,12 @@ However, it also has a number of other direct and indirect benefits to projects.
 
 Code reviews are an effective method for improving software quality.
 McConnell {cite:ps}`McConnell200testing` suggests that unit testing finds approximately 25% of defects, function testing 35%, integration testing 45%, and code review 55-60%.
-While that means that none of these methods are good enough on their own, and that they should be combined, clearly code review is an essential tool here.
+While that means that none of these methods are good enough on their own, and that they should be combined, clearly code review is an essential quality control tool.
 
 (rr-reviewing-motivation-bugs)=
 ## Catching Bugs and Elementary Errors
 
-Although the evidence is mixed, it's widely held in the software engineering industry that bugs become more costly (in terms of development effort) to fix the longer they're left unresolved {cite:ps}`Menzies2016defects,Westland2002errors`.
+Although the evidence is mixed, a common opinion in the software engineering industry is that bugs become more costly (in terms of development effort) to fix the longer they're left unresolved {cite:ps}`Menzies2016defects,Westland2002errors`.
 As a result, many of the tools in the software engineering toolbox are designed to find bugs earlier in the process.
 Unit tests and continuous integration are examples of this, as is code review.
 
@@ -28,7 +28,7 @@ So in principle, this function of code review should be restricted to trivial ch
 As noted above, a review should, and often does, catch actual bugs in proposed code changes.
 While this is one of the aims of code review, if bugs can be caught even earlier, through automated tests, that's an even better situation.
 
-A major aim of code review is therefore to highlight places in the code where existing or newly developed testing processes are inadequate.
+A major aim of code review is therefore to highlight places in the code where existing or newly developed testing processes are inadequate at identifying bugs.
 In this way, code review helps to ensure the future health of the code base by providing a second perspective on what kinds of tests are needed - not only now, but also under hypothetical scenarios that could arise in the future as the code evolves.
 
 Certain types of issue, such as those related to design, integration, readability and certain types of logic error, are less amenable to automated checks.
@@ -67,7 +67,7 @@ This is a test for the robustness of the changes to different environments, robu
 Many projects enforce certain {ref}`code style guidelines<rr-code-quality>`, be they widely-adopted standards (for example, [PEP8](https://www.python.org/dev/peps/pep-0008/), the [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)) or more project-specific conventions.
 {ref}`Automated services<pd-code-styling-tools>` provide a convenient way to enforce a coding style and start the discussion about code quality.
 
-While it's important to automate as many checks as possible, it's worth noting that for many projects the style requirements extend beyond those enforced through automated checks.
+While it is important to automate as many checks as possible, it is worth noting that for many projects the style requirements extend beyond those enforced through automated checks.
 In practice there are often 'unwritten' rules built up through collective understanding of the developers involved.
 Certain types of style choice may be hard to capture automatically, such as whether to use a more functional or imperative style, tolerance of complexity, or density of comments.
 
@@ -82,7 +82,7 @@ Peer-to-peer review creates two-way exchange of information across a web strung 
 Reviews conducted in the right spirit (see especially {ref}`here<rr-reviewing-recommendation-be-nice>`) also serve an important purpose in bringing team members together and creating group cohesion.
 In particular, good reviews by core team members of the work of newcomers to a project can help make those newcomers feel welcomed and valued, and encourage their continued participation.
 
-For some projects it may even make sense to have code review as a step in the onboarding process, having contributors perform a certain number of reviews before they're invited to contribute in other areas.
+For some projects it may even make sense to have code review as a step in the onboarding process, having contributors perform a certain number of reviews before they are invited to contribute in other areas.
 
 
 

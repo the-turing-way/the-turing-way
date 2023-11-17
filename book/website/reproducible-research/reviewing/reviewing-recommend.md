@@ -20,8 +20,8 @@ However, letting reviewer-coder pairs like this persist is generally a bad idea,
 
 Open source projects often also have their own dynamics.
 Contributions may be split between a set of core maintainers, and a larger set of more dispersed contributors, some of whom may have very limited interactions with a project.
-In open source projects it's typically the case that anyone can review a pull request, just as anyone can create one.
-Nevertheless core maintainers, or those who have merge privileges, inevitably have the final say over what gets added to the code, and so also have the largest role when it comes to code review.
+In open source projects it is typically the case that anyone can review a pull request, just as anyone can create one.
+Those who have merge privileges, often limited to core maintainers, inevitably have the final say over what gets added to the code, and so also have the largest role when it comes to code review.
 
 (rr-reviewing-recommendation-be-nice)=
 ## Be Nice!
