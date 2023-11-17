@@ -187,7 +187,7 @@ See also Patrick Lencioni's 'Teamwork: The Five Dysfunctions of a Team' ({cite:p
 * Non-scientific approaches to internal collaboration: [Oxide's Request-for-discussion process template](https://oxide.computer/blog/rfd-1-requests-for-discussion), modelled after the original spirit of the [Request for Comments](https://en.wikipedia.org/wiki/Request_for_Comments) process
 
 ## Credit
-This summary is based on a [Twitter Thread by @samuelmehr](https://twitter.com/samuelmehr/status/1139733291899080705) ([Webarchive](https://web.archive.org/web/20190615104618/https://twitter.com/samuelmehr/status/1139733291899080705)), as well as discussions during the [Open Science Retreat 2023](https://open-science-retreat.gitlab.io). 
+This summary is based on an [X (formerly Twitter) Thread by @samuelmehr](https://twitter.com/samuelmehr/status/1139733291899080705) ([Webarchive](https://web.archive.org/web/20190615104618/https://twitter.com/samuelmehr/status/1139733291899080705)), as well as discussions during the [Open Science Retreat 2023](https://open-science-retreat.gitlab.io). 
 
 (cl-team-manual-resources)=
 ## Additional Resources on improving Research Culture
