@@ -152,8 +152,9 @@ Through the collective efforts of volunteers and contributors worldwide, the pro
 The translation process is an excellent opportunity not only to bring _The Turing Way_ to your language, but also to review and improve its content and make it more accessible and localisable for everyone. 
 - If you run into alt text (which should be translated) that is incomplete, too short, or doesn't correspond to the content it's referring to, please create an Issue so we can address it.
 - Some sections of the _The Turing Way_ may be written in a way that makes it difficult for language teams to translate them.
-For example, translation teams working with languages with gender marks may find it challenging to translate particular contents in a inclusive manner. 
-You can help make the handbook more localisable by submitting an Issue that describes the problem, or even better, a Pull Request that modifies the original text to make it more translatable in a gender neutral way for languages with gendered distinctions.
+For example, translation teams working with languages with gender marks may find it challenging to translate particular contents in a inclusive manner.
+There can also be references to very specific contexts in some countries, or certain "internal jokes" that get (literally) lost in translation.
+You can help make the handbook more localisable by submitting an Issue that describes the problem, or even better, a Pull Request that modifies the original text to make it more translatable.
 ```
 
 Crowdsourcing has played a pivotal role in this translation endeavor, harnessing the collective intelligence and linguistic skills of individuals passionate about open science and reproducible research. 
