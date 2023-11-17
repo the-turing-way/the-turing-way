@@ -7,10 +7,7 @@ It is an open question wether AI/ML models weights are even copyrightable.
 US copyright law specifically excludes the following from works eligible for copyright protection: "any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work."
 In addition the US Copyright Office has stated that this exclusion extends to "scientific or technical methods or discoveries;" "mathematical principles;" and "formulas or algorithms."
 
-A legal doctrine known as the idea–expression distinction/dichotomy draws a distinction between an abstract idea and a specific implementation, where code authored by a human that implements an algorithm is copyrightable as a creative work of authorship but the algorithm itself is not.
-
-<!--see: https://www.comsol.com/blogs/can-models-be-protected-by-copyright-law/-->
-<!--see: https://en.wikipedia.org/wiki/Idea%E2%80%93expression_distinction -->
+A legal doctrine known as the [idea–expression distinction/dichotomy](https://en.wikipedia.org/wiki/Idea%E2%80%93expression_distinction) draws a distinction between an abstract idea and a specific implementation, where code authored by a human that implements an algorithm is copyrightable as a creative work of authorship but the algorithm itself is not.
 
 It is also generally accepted in US copyright law that to be copyrightable a work must be a product of human creative authorship and not that of an automated process.
 

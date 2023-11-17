@@ -21,6 +21,7 @@ Additional resources you can read to learn more about software licenses.
     - [What if we could reimagine copyright?](https://www.jstor.org/stable/j.ctt1q1crjg)
     - [Chokepoint capitalism](https://craphound.com/chokepoint/2022/09/27/twitch-does-a-chokepoint-capitalism/)
     - [Intellectual Property & Monopoly Capitalism]( https://crashcourseeconomics.org/webinar/intellectual-property-and-monopoly-capitalism)
+    - [Can models be protected by copyright law?](https://www.comsol.com/blogs/can-models-be-protected-by-copyright-law/)
 - Tools
     -[Reuse](https://reuse.software/)
 - Relevant Legal Materials
