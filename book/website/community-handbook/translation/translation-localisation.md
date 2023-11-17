@@ -34,6 +34,7 @@ Many open source projects such as [GitLab](https://crowdin.com/project/gitlab-ee
 - [Crowdin](https://crowdin.com/?gclid=CjwKCAiAvriMBhAuEiwA8Cs5ldEGwrOeDJtdY2kneF6vBXx8hYiXD1oJPcWB1SO0VBSTuz60AaDYUhoCj_8QAvD_BwE)
 - [Lokalise](https://lokalise.com/)
 - [Pontoon](https://pontoon.mozilla.org/)
+- [Weblate](https://weblate.org/en/)
 
 ### Features of Localisation Platforms
 
