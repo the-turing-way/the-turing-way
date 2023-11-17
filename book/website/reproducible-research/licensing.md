@@ -20,7 +20,7 @@ This is true when producing a work as a contribution to open culture or as a pot
 This chapter aims to give a brief summary of relevant intellectual property laws (enough to be able to read most software, and related licenses), explain free and open source software licensing, and explain how combining software from different sources works from a legal perspective.
 Decisions about licencing made at the inception of a project can have long-lasting and significant ramifications.
 The choices that you make about how your work is licenced shape who can and cannot legally use your work and for what purpose.
-Consequently, this chapter will feaature some discussion of the ethical ramifications of licensing choices.
+Consequently, this chapter will feature some discussion of the ethical ramifications of licensing choices.
 It aims to be informative about the implications of licencing choices for the use of your work but not to prescribe a specific ethic, as there are divergent schools of thought on the ethics of different licencing choices.
 
 Many of the concepts which apply to the licensing of software, data, AI/ML models, hardware and other creative works such as visuals share common attributes and concepts which will be covered here.
