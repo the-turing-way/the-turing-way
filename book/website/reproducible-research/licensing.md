@@ -43,7 +43,7 @@ As such, they are subject to what the law prescribes, which may change over time
 Simply put, different countries have different laws, and follow different procedures with regard to enforcing them.
 The content provided here is broadly based on American and European law and legal traditions.
 It might not be applicable - might even be contra indicated - or relevant in your particular context.
-However most nations are signatories to international treaty agreements which somewhat harmonise these laws notably the Berne Convention, the [TRIPS Agreement](https://www.wto.org/english/docs_e/legal_e/27-trips_01_e.htm), & others under the [World Intellectual Property Organization (WIPO)](https://www.wipo.int/portal/en/index.html).
+However most nations are signatories to international treaty agreements which somewhat harmonise these laws notably the Berne Convention, the [TRIPS Agreement](https://www.wto.org/english/docs_e/legal_e/27-trips_01_e.htm), and others under the [World Intellectual Property Organization (WIPO)](https://www.wipo.int/portal/en/index.html).
 Whilst international efforts have sought to harmonize copyright enforcement, the real world is a messy place.
 
 Good legal advice is timely, specific, and given by an expert; this chapter is none of these.
