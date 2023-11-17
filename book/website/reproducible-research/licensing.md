@@ -89,6 +89,7 @@ Trademarks are a brand, symbol, or identifying mark associated with a project, p
 Trademarks differ from the copyright & patent in that their primary function is consumer protection.
 They prevent bad actors from impersonating recongnisable brands and deceiving consumers into purchasing products that are not being offered by who they think they are.
 They, like patents, must also be registered, but unlike patents, this can be done after they have been made public.
+
 Registering a trademark generally comes with an administrative fee, but is not as costly as maintaining a patent.
 Trademarks generally only apply within a specific sector, as people are unlikely to confuse brands which do completely different things.
 They can be relevant in the context of the name and logo of a software project, especially when a project changes hands or is forked, in which case the fork may not be able to use the original name of the project even if that project is no longer maintained.
