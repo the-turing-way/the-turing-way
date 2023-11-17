@@ -59,7 +59,7 @@ Consult a legal expert to provide actual legal advice for your case.
 
 ```
 
-Perhaps the most relevant for software, data and other creative works is copyright.
+Perhaps the most relevant part of intellectual property law for software, data and other creative works is copyright.
 We will dispense quickly with patents and trademarks here, so we can move on to the main topic of copyright.
 
 (rr-licensing-patents)=
