@@ -152,7 +152,7 @@ Software that you are not allowed to copy or modify falls into this category, as
 Permissively licenced things can generally be used by anyone for any purpose.
 A popular minimal example of this for software is known as the [MIT licence](https://mit-license.org/), for other works, [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) the 'public domain' licence.
 Copy-left licences attempt to ensure that any re-distributions or derived works also remain 'free', the canonical example is the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
-Unlike permissively licenced content, which can be modified and redistributed under a different licence, including as a part of a closed and/or for profit project, copy-left content when distributed must be under the same or a compatible license which retains the copy-left obligation.
+Unlike permissively licenced content, which can be modified and redistributed under a different licence (including as a part of a closed and/or for profit project), copy-left content (modified or unmodified) must be distributed under the same, or a compatible license, which retains the copy-left obligation.
 Thus if you take copy-left content modify it and distribute your modifications those modifications must also be copy-left.
 
 The concept of copy-left licences and their first example, the GPL, originated with Richard Stallman, who founded the free-software foundation (FSF) in 1985.
