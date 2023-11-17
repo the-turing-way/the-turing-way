@@ -1,8 +1,9 @@
 (collaborators)=
 # Collaborating Organisations and Projects
 
-*The Turing Way works in collaboration and formal partnership with many communities and organisations.
+_The Turing Way_ works in collaboration and formal partnership with many communities and organisations.
 The project also receives in-kind support through contributions from members who represent their communities, projects or organisations in The Turing way.
+These contributions may take different forms, including the sharing of practices, documentation, presentations, Scriberia images, and other resources.
 Projects, organisations and individuals collaborate to build and maintain resources in The Turing Way.
 Some of these contributions also include projects that build alongside or upon The Turing Way resources or collaborate with The Turing Way team members in various capacities.
 We acknowledge each of these contributing members individually and list their profiles under “Collaborating organisations and projects”.*
@@ -56,7 +57,7 @@ We are committed to ensuring that research outputs such as data and software are
 Environmental Data Science book or EDS book is a living, open and community-driven online resource to showcase and support the publication of data, research and open-source tools for collaborative, reproducible and transparent Environmental Data Science.
 
 ### Representative
-- [Alejandro Coca](https://the-turing-way.netlify.app/afterword/contributors-record#alejandro-coca), Senior Researcher, Environment and Sustainability Research Programme, The Alan Turing Institute
+- [Alejandro Coca-Castro](https://the-turing-way.netlify.app/afterword/contributors-record#alejandro-coca), Research Fellow, Environment and Sustainability Grand Challenge Research Programme, The Alan Turing Institute
 
 (collaborators-faircookbook)=
 ## [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html)
