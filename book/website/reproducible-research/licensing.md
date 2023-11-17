@@ -121,7 +121,7 @@ For anyone wishing to circulate their work and grant others the right to re-use,
 To address this, there exist numerous pre-made 'off-the-self' licenses that you can apply to your work.
 Which of these you choose shapes how and under what circumstances others are permitted to re-use your work without infringing on your copyright.
 
-Pre-made Licences exist that are tailored to the differences between different types of works.
+Pre-made licences exist that are tailored to the differences between different types of works.
 For example, there are licences intended to be used for software and licences intended to be used for other creative works such as images, prose (text), as well as hardware & designs.
 
 In addition, there are now licences tailored for machine learning / artificial intelligence models as these are comprised of several parts, including: training data, code, and model weights.
