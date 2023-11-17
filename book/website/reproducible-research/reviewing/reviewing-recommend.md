@@ -30,6 +30,14 @@ As with all open source and collaborative enterprises, good internet etiquette m
 Perhaps most importantly, always assume good faith on both sides of the review interaction, and always be constructive.
 These principles are true for the review process beyond almost any other project aspect, since it necessarily involves criticism, potentially between two complete strangers.
 
+Although the review process is asymmetrical, the challenges go in both directions: reviewees may feel their ideas are being misunderstood or criticised unjustly; reviewer's may feel their input is being ignored.
+It's important that all parties in the review process avoid being overly pendantic or territorial.
+
+For an open source project hoping to grow a community it's also important to understand that it can be better to accept poor code contributions than to alienate potential collaborators.
+
+All of this can be very challenging in practice.
+We discuss this further in the next section.
+
 ## Keep It Collaborative
 
 Unlike traditional, "academic-style" peer review, most code review systems have a number of advantages: they're rarely anonymous, they're public-facing, and without the middleman of an editor, contact between reviewer and reviewee can be direct and rapid.
@@ -63,14 +71,19 @@ If mistakes can be spotted early in the process, they are much easier to fix and
 
 Here is some general advice on how to integrate code reviews into our working process:
 
-- Take the time, read carefully. Review everything, nothing is too short or simple.
+- Take the time, read carefully.
+  Review everything, nothing is too short or simple.
 - Try to have something else to do, and spread the load throughout your
-working day. Don't review for more than an hour at a time, after that the success rate drops quite quickly.
-- Don't review more than 400 lines of code (LOC) at a time, less than 200 LOC is better. Don't review more than 500 LOC/hour.
+working day.
+  Don't review for more than an hour at a time, after that the success rate drops quite quickly.
+- Don't review more than 400 lines of code (LOC) at a time, less than 200 LOC is better.
+  Don't review more than 500 LOC/hour.
 
 ## Be Okay With Taking the Discussion Offline
 
 Sometimes, with more complex code reviews, online communication can lead to unproductive conversations.
-Setting up an in-person meeting can help to resolve some of the trickier issues in a more collaborative and friendly manner.
+Where possible setting up an in-person meeting can help to resolve some of the trickier issues in a more collaborative and friendly manner.
 As an alternative, the development/research team can set regular meetings for doing code reviews with all of the team members.
 For example, see the approach taken by a professor organizing [lab meetings for code](http://web.archive.org/web/20210512053038/http://fperez.org/py4science/code_reviews.html).
+For many open source projects accepting pull requests from ephemeral contributors across the world neither of these appraoches may be realistic.
+In this case being able to tackle difficult situations through the medium of asynchronous review becomes a necessity.

@@ -31,7 +31,8 @@ While this is one of the aims of code review, if bugs can be caught even earlier
 A major aim of code review is therefore to highlight places in the code where existing or newly developed testing processes are inadequate.
 In this way, code review helps to ensure the future health of the code base by providing a second perspective on what kinds of tests are needed - not only now, but also under hypothetical scenarios that could arise in the future as the code evolves.
 
-Certain types of issue, such as those related to design, integration, readability and certain types of logic error, are less amenable to automated checks. For these issues code review remains an important guard.
+Certain types of issue, such as those related to design, integration, readability and certain types of logic error, are less amenable to automated checks.
+For these issues code review remains an important guard.
 
 (rr-reviewing-motivation-documentation)=
 ## Documentation
@@ -63,7 +64,7 @@ This is a test for the robustness of the changes to different environments, robu
 (rr-reviewing-motivation-enforcement)=
 ## Style Enforcement
 
-Many projects enforce certain {ref}`code style guidelines<rr-code-quality>`, be they widely-adopted standards (for example, [PEP8](https://www.python.org/dev/peps/pep-0008/), the [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)) or more project-specific conventions. 
+Many projects enforce certain {ref}`code style guidelines<rr-code-quality>`, be they widely-adopted standards (for example, [PEP8](https://www.python.org/dev/peps/pep-0008/), the [Google C++ style guide](https://google.github.io/styleguide/cppguide.html)) or more project-specific conventions.
 {ref}`Automated services<pd-code-styling-tools>` provide a convenient way to enforce a coding style and start the discussion about code quality.
 
 While it's important to automate as many checks as possible, it's worth noting that for many projects the style requirements extend beyond those enforced through automated checks.

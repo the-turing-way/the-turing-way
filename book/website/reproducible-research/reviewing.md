@@ -25,8 +25,6 @@ Instead of relying simply on {ref}`tests<rr-testing>` which the original author 
 
 There are many variants of code review; the choice of approach forms part of the project culture. Common among them all is a goal to ensure code is seen by more than one developer before being introduced to the main branch.
 
-
-
 Code review may be performed in pairs with each reviewer also having some of their code reviewed by their partner.
 Or it may be asymmetrical with one code author and several reviewers, each contributing different ideas at different times.
 Doing this can help programmers to see and discuss issues and alternative approaches to tasks, and to learn new tips and tricks.

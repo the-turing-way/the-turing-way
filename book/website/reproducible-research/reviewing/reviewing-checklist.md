@@ -112,7 +112,7 @@ doubt, ask someone experienced in licensing for advice.
 
 ### Accessibility
 
-
+TODO: To be completed
 
 ## File/Change level checklist
 

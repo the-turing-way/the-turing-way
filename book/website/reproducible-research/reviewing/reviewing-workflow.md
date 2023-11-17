@@ -50,7 +50,11 @@ Once post-review changes have been made to the code, make final updates the comm
 
 ## Build and Run the Code
 
+Code review isn't just about passive review. The majority of pull requests will contain elements that will be hard to understand through inspection of the text documents alone.
 
+You should ideally also always run, deploy, and test the code.
+
+TODO: To be completed.
 
 ## Communicating Results Through GitHub
 
