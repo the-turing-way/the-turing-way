@@ -17,7 +17,7 @@ As stated by [Flashpoint](https://flashpoint.io/blog/social-data-enhanced-securi
 * Social networks like Facebook and LinkedIn
 * Photo and video-sharing networks like Instagram, YouTube, and Pinterest
 * Interactive media networks like Snapchat and TikTok
-* Microblogging sites like Twitter and Tumblr
+* Microblogging sites like X (formerly Twitter) and Tumblr
 
 (er-social-data-why)=
 ## Why do we need ethical considerations while working with social data?
