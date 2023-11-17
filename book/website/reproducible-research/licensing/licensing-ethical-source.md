@@ -5,7 +5,7 @@ The ethical source movement seeks to affirmatively protect specific user rights 
 Consequently, these licence by the classical definitions of free and open-source software from the FSF and OSI would not be considered free or open-source licences, they do however generally resemble them in the  other three criteria of the definition.
 Their merits versus conventional open-source licenses has been the subject of some debate, and their adoption has thus far been relatively limited.
 
-A leading figure in this movement is Coraline Ada Ehmke creator of the [contributor covenant](https://www.contributor-covenant.org/), the [Hippocratic License](https://firstdonoharm.dev/), and the founder in 2020 of the [organisation for ethical source](https://ethicalsource.dev/).
+A leading figure in this movement is Coraline Ada Ehmke creator of the [Contributor Covenant](https://www.contributor-covenant.org/), the [Hippocratic License](https://firstdonoharm.dev/), and the founder in 2020 of the [Organisation for Ethical Source](https://ethicalsource.dev/).
 In the words of its advocates, [Ethical Source](https://ethicalsource.dev/) was created to "empower developers, giving us the freedom and agency to ensure that our work is being used for social good and in service of human rights."
 Motivated by the growing use of open source software for technologies such as mass surveillance and racial profiling, the movement aims to reduce this "misuse" of open-source software.
 
