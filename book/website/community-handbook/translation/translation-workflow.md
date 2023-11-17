@@ -47,7 +47,7 @@ Make sure you read these guidelines before you start translating for the first t
 ### Create and update a glossary
 
 We strongly suggest setting a glossary through the localisation platform.
-You can read more about project glossaries in {ref}`Addin terms to the glossary<translation-hello-crowdin#adding-terms-to-the-glossary>`.
+You can read more about project glossaries in {ref}`Addin terms to the glossary<translation-hello-crowdin>`.
 The Carpentries [Glosario](https://glosario.carpentries.org/) and the [Localization Lab glossary](https://www.localizationlab.org/glossaries) are two good examples of such glossaries.
 
 ### Share the translation memory of the project
