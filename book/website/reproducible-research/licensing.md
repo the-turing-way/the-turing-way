@@ -188,6 +188,8 @@ The FSF contends that all software should respect these freedoms and that all so
 If developers are bad stewards of a free software projects, the friction for replacing them is lower, as all of the work put into the software does not need to be re-done.
 A 'fork' of the project can be made, developed and maintained by different developers whom the community of users deem a better steward.
 This is not true of proprietary projects where the developers own the rights to the code and thus cannot be readily replaced by the community of users if they begin to abuse these users who are now held captive by switching costs.
+It should be noted that an acrimonious project fork is quite uncommon and by no means always sucessful, it is the move of last resort.
+The credible threat of a fork redresses the power balance between developers and users giving users leverage if developers make unpopular choices.
 
 Copyleft licences are an attempt to ensure that software remains effectively under community ownership and cannot be used to make proprietary software which does not respect the four freedoms and may thus result in the abuse of its users.
 To attempt to achieve this goal, copyleft software requires that when distributing copyleft software or in some cases derived works that you do so under the same terms as the original licence.
