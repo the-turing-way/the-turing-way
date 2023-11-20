@@ -333,7 +333,8 @@ This could be a website commonly visited by your attendees, sending post-event s
 
 Finally, for in-person events and related to safeguarding, consider how you will ensure that everyone is able to access return transport safely. 
 This is particularly important to consider for attendees with lived experience and any disabilities that may make public transport more difficult to access. 
-Even after the event has formally concluded, make sure you are familiar with support options such as arranging coaches or taxis to a train station. Additionally, consider scheduling the event to end within daylight hours to enhance attendee safety and avoid travel in the dark.
+Even after the event has formally concluded, make sure you are familiar with support options such as arranging coaches or taxis to a train station. 
+Additionally, consider scheduling the event to end within daylight hours to enhance attendee safety and avoid travel in the dark.
 
 
 
