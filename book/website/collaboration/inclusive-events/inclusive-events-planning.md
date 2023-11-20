@@ -252,8 +252,8 @@ The points below can be used to help guide this discussion:
 ### Safeguarding
 Although the term "people with lived experience" encompasses an intentionally wide range of circumstances, depending on your field and your event, the specific attendees with lived experience may need additional safeguarding depending on what your event's "lived experience" is focused on. 
 
-In the UK, Safeguarding refers to the protection of people's health, wellbeing and human rights, and the proactive support necessary for people to live free from harm, abuse and neglect (cite: Quality Care Commission or NHS - https://www.england.nhs.uk/safeguarding/about/). 
-Depending on your country and organization, "safeguarding" may be part of your Risk Assessment processes, or may be called something else entirely. 
+In the UK, Safeguarding refers to the protection of people's health, wellbeing and human rights, and the proactive support necessary for people to live free from harm, abuse and neglect {ref}`nhs2023safeguarding`. 
+Depending on your country and organization, "safeguarding" or your regional equivalent may be part of your Risk Assessment processes, or may be called something else entirely. 
 
 Minors and people under the age of 18, people with lived experience of autism (autistic people), people with lived experience of dementia and other neurodegenerative disorders, cognitive impairments, and/or prior experience of abuse may be at a greater risk of being taken advantage of and therefore require additional considerations and protections if attending your event. 
 
