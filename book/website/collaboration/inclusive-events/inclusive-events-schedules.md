@@ -57,7 +57,7 @@ As mentioned above, it is best to get feedback and input from a representative w
 
 This is because there may be differences in what is required for a specific community that would negatively impact a different set of individuals. 
 A certain requirements could be quite specific to the specific communities that are attending your event. 
-Where possible, this can be addressed by working with a representative from the community to identify what timings will work best for your attendees.
+Where possible, this can be addressed  working with a representative from the community to identify what timings will work best for your attendees.
 
 ```{note}
 For example:
@@ -65,11 +65,11 @@ For example:
 If your event invites specifically people with lived experience of ADHD (and no other cognitive impairments) for a :art: creative workshop :art:, setting sessions at 40 minutes maximum length may be incredibly disruptive and undermine the goals and accessibility of your workshop
 
 Instead, you may want to consider offering longer sessions for this audience that can be facilitated with self-directed breaks. 
-- For example, for a 1.5-hour event you may consider a 10 minute introduction, followed by a 50 minute self-directed session, a 15 minute break, and then a 15 minute conclusion or share out and session close.
+- For example, for a 1.5-hour event you may consider a 10 minute introduction, followed  a 50 minute self-directed session, a 15 minute break, and then a 15 minute conclusion or share out and session close.
 
 This is because many people with a lived experience of ADHD can find that forced interruption is very disruptive and prohibitive of meaningful engagement on tasks that are highly creative or require deep focus.
 
-A discussion event or workshop for the same audience with ADHD may need to follow a different format (such a 30 minute instruction followed by a 10 minute break) to better support the audience's preferences and requirements.
+A discussion event or workshop for the same audience with ADHD may need to follow a different format (such a 30 minute instruction followed  a 10 minute break) to better support the audience's preferences and requirements.
 
 This example highlights the importance of working with your specific community to identify what formats will work best for your specific event.
 ```
@@ -82,7 +82,7 @@ Try to get feedback on plans for your event as early as possible and ensure that
 In addition to session length, it is also important to consider how your event will be structured to support the involvement and engagement of people with lived experience. 
 
 If you are organizing a multi-day conference, consider picking either a single day or a repeating timeslot that features any content specifically important for people with lived experience. 
-For example, Day 1 of a 3-Day event might schedule the majority of sessions focused on public engagement and lived experience, followed by Day 2 which could focus on technical workshops and other content. 
+For example, Day 1 of a 3-Day event might schedule the majority of sessions focused on public engagement and lived experience, followed  Day 2 which could focus on technical workshops and other content. 
 Alternatively, if your conference is online, consider choosing a repeating session time from 10 a.m. - 1 p.m. on all 3 days that could focus on lived experience content. 
 
 This can support the engagement of people with lived experience who volunteer their time to engage in research, as well as people with lived experience of disabilities and medication conditions that can significantly impact their energy levels. 
@@ -171,6 +171,10 @@ This is especially important for events that focus on discussion or require acti
 Many people with lived experience may not have a lot of experience, or had the opportunity to develop skills in public speaking or rhetoric and can therefore be at a greater risk of getting left out of conversation. 
 
 Just inviting people with lived experience to your event is not sufficient if they are not supported and actively welcomed to engage in your event's content. 
+
+The burden to participate, and to find pathways to engage should be the sole responsibility of attendees those with lived experience, but should be carried by the facilitators and event organizers.
+
+Consider if your moderators and facilitators would benefit from support and training on neurodiversity and barriers to participation that can be delivered before the event.
 
 Although it is becoming more common for people with lived experience to become self-advocates and receive training in public speaking, it is important for researchers and event organizers to consider, and make use of, moderators and session facilitators in order to uphold inclusive and equitable engagement practices. 
 
