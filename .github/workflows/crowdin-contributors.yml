@@ -13,6 +13,8 @@ jobs:
 
     permissions:
       pull-requests: write
+      contents: write
+
     # This environment contains secrets specific to crowdin and only workflows
     # listing this environment can use them
     environment: crowdin
