@@ -56,6 +56,8 @@ This can be done in addition to allocating 5-10 minutes for an introduction and 
 As mentioned above, it is best to get feedback and input from a representative with lived experience when planning your session timings. 
 
 This is because there may be differences in what is required for a specific community that would negatively impact a different set of individuals. 
+A certain requirements could be quite specific to the specific communities that are attending your event. 
+Where possible, this can be addressed by working with a representative from the community to identify what timings will work best for your attendees.
 
 ```{note}
 For example:
