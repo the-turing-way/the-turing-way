@@ -17,7 +17,7 @@ As a recent study pointed out, "a fine balance is needed between implementing ma
 
 Traditional methodologies, for example Waterfall, offer a structured, linear approach beneficial for projects with well-defined stages and stable requirements, known from the beginning of the project design process.
 
-Agile frameworks, including Scrum and Kanban, are flexible and can adapt to changing research landscapes and iterative discovery processes that are part and parcel of many research projects.
+Agile frameworks, including Scrum and Kanban, are flexible and can adapt to changing research landscapes and iterative discovery processes that are part of many research projects.
 
 There are also a number of other methodologies and philosophies that can matter to you: PRINCE2, Lean, Stage/Phase Gate, and many more.
 
