@@ -2551,7 +2551,9 @@
       "profile": "https://github.com/mcnanton",
       "contributions": [
         "bug",
-        "content"
+        "content",
+        "ideas",
+        "translation"
       ]
     },
     {
@@ -4464,6 +4466,15 @@
       "profile": "https://github.com/MoritzMaxeiner",
       "contributions": [
         "review"
+      ]
+    },
+    {
+      "login": "MayaAndersonGonzalez",
+      "name": "Maya Anderson-González",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56874297?v=4",
+      "profile": "https://mayaandersongonzalez.hcommons.org",
+      "contributions": [
+        "content"
       ]
     },
     {
