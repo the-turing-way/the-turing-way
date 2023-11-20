@@ -91,7 +91,7 @@ When deciding where in your schedule to plan content, ensure that you work with,
 
 (cl-inclusive-events-schedule-content)=
 ## Event Content: Planning for Engagement
-When identifying the content of your event, you should spend time identifying what type of content and sessions attendees with lived experience would be interested in, what "engagement" means for your specific event, and how will you ensure that attendees with lived experience are able to engage in your event.
+When identifying the content of your event, you should spend time identifying what type of content and sessions attendees with lived experience would be interested in, what "engagement" means for your specific event, and how you will ensure that attendees with lived experience are able to engage in your event.
 
 By clearly defining what engagement looks like, and also how to engage, your event will be more accessible to people with lived experience and also reduce potential barriers and anxieties for participants.
 
