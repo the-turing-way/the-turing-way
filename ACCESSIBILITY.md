@@ -15,6 +15,11 @@ This policy is a work in progress, as are the practices that we employ as a comm
 2. Openness is a means to enable people with broad backgrounds to get involved. Openness for openness' sake does that erase this fact.
 3. Access to commons is a question of mangagmenet - developing a collective commons is 
 
+# Guidance for writing/drafting chapters 
+[ Guidance for writing in an access-centered way ] 
+
+
+
 ## How we work with Access-related Feedback
 Access-related feedback may be submitted via this anonymised form, which .
 
