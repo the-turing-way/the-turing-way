@@ -237,7 +237,8 @@ Ensure that these session descriptions, the program, and any organisational info
 Include session descriptions in the program of events. This description should include:
 - a short and clear title of the session or event
 - the name of any hosts, facilitators, or moderators
-- a short abstract about what the session is 
+- a short abstract about what the session is
+- information about the goal of the session
 - information about what level of engagement is expected in the session
 - details on who the intended attendees are for the session
 - any additional information such as location, start time, and Zoom links if applicable
