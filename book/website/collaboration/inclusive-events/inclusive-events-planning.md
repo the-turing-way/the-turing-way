@@ -24,9 +24,11 @@ The changes also benefit most other pedestrians, people who use prams, cyclists,
 You can read more about Universal Design on the [Universal Design Website](https://universaldesign.ie/what-is-universal-design/), however, you do not need to be an expert in design to organize an inclusive and accessible event.
 
 Developing an event for a specific community, or that will include a specific group of people with lived experience can put a larger emphasis on specific accessibility features that would be needed to run an inclusive event. 
-For example, ensuring materials in braille are provided and using high contrast colours in any visual material for attendees with visual impairments).
+For example, ensuring materials in braille are provided and using high contrast colours in any visual material for attendees with visual impairments.
 
 In order to organise an event for people with lived experience, the accessibility requirements of your specific attendees should be identified early and accounted for throughout each stage, and your event should consider using universal design guidelines to ensure your event is as inclusive as possible. 
+
+It can be helpful to think of accessibility as a set of community-wide, behavioral, social, technical decisions that are taken to ensure that all people are welcome and are able to participate in a community or event (cite: Andrea Sanchez Tapia). 
 
 Organising an inclusive event is more than a legal requirement, it is about creating a more equitable, welcoming, and meaningful experience for all participants. 
 
