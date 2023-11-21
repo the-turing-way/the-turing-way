@@ -13,7 +13,7 @@ No previous knowledge is needed, this chapter explains how important it is to un
 ## Summary
 
 > This chapter was written using American English, in which the word **license** is a noun **_and_** a verb.
-> With British English, however, **licence** is a noun (as in, _to issue a licence_), while **license** is a verb (as in, _they licensed the event_).
+> With British English, however, **license** is a noun (as in, _to issue a license_), while **license** is a verb (as in, _they licensed the event_).
 
 'Intellectual Property (IP)' law is a complex subject.
 However some understanding of it is important for anyone producing creative works governed by it including software, datasets, graphics and more.
@@ -22,7 +22,7 @@ Each of these may need to make slightly different licensing choices from the beg
 
 This chapter aims to give a brief summary of relevant intellectual property laws (enough to be able to read most software, and related licenses), explain free and open source software licensing, and explain how combining software from different sources works from a legal perspective.
 Decisions about licencing made at the inception of a project can have long-lasting and significant ramifications.
-The choices that you make about how your work is licenced shape who can and cannot legally use your work and for what purpose.
+The choices that you make about how your work is licensed shape who can and cannot legally use your work and for what purpose.
 Consequently, this chapter will feature some discussion of the ethical ramifications of licensing choices.
 It aims to be informative about the implications of licencing choices for the use of your work but not to prescribe a specific ethic, as there are divergent schools of thought on the ethics of different licencing choices.
 
@@ -74,7 +74,7 @@ The precise details of what constitutes a disclosure and the strictness of the a
 Patents on processes and software rather than specific inventions are a matter of contention in US law and explicitly not recognised in EU law (at time of writing).
 Unlike copyright, you generally have to pay to register and maintain a patent.
 You must also do so in each jurisdiction in which you want this patent to apply, though some have reciprocal agreements for recognising patents from other jurisdictions.
-To ensure that patents held by the authors of software do not impact on the freedom to use and distribute  open software, some licences specifically include permission to use any applicable patents (for example section 3 of the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0.html)), though this cannot protect against patents held by 3rd parties.
+To ensure that patents held by the authors of software do not impact on the freedom to use and distribute  open software, some licenses specifically include permission to use any applicable patents (for example section 3 of the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0.html)), though this cannot protect against patents held by 3rd parties.
 
 <!-- citations needed -->
 <!-- when should you patent something and when not?-->
@@ -108,8 +108,8 @@ Nextcloud, for example, has a very [comprehensive guide to the use of their mark
 <!-- UK copyright info https://www.gov.uk/topic/intellectual-property/copyright -->
 
 By default, if you make a work publicly available, you retain the copyright to that work and all rights that this gives you over it.
-Anyone wishing to re-use that work must seek to licence the right to do so from you, or open themselves to the possibility of a lawsuit for infringing on your copyright.
-Irrespective of how you choose to licence your work, however, there are some generally accepted exceptions to the protections of copyright that permit the re-use of works (or parts of works) without the consent of the copyright holder, under certain circumstances.
+Anyone wishing to re-use that work must seek to license the right to do so from you, or open themselves to the possibility of a lawsuit for infringing on your copyright.
+Irrespective of how you choose to license your work, however, there are some generally accepted exceptions to the protections of copyright that permit the re-use of works (or parts of works) without the consent of the copyright holder, under certain circumstances.
 These are known as 'fair use' or 'fair dealing' exceptions.
 Under the 'fair use' standard originating in the USA, the following criteria are considered on a case-by-case basis to decide if a use constitutes an infringement of copyright:
 
@@ -127,16 +127,16 @@ For anyone wishing to circulate their work and grant others the right to re-use,
 To address this, there exist numerous pre-made 'off-the-self' licenses that you can apply to your work.
 Which of these you choose shapes how and under what circumstances others are permitted to re-use your work without infringing on your copyright.
 
-Pre-made licences exist that are tailored to the differences between different types of works.
-For example, there are licences intended to be used for software and licences intended to be used for other creative works such as images, prose (text), as well as hardware & designs.
+Pre-made licenses exist that are tailored to the differences between different types of works.
+For example, there are licenses intended to be used for software and licenses intended to be used for other creative works such as images, prose (text), as well as hardware & designs.
 
-In addition, there are now licences tailored for machine learning or artificial intelligence models as these are comprised of several parts, including: training data, code, and model weights.
-Each of these parts may be licenced differently, and there is even some dispute as to whether model weights are subject to copyright at all under current law.
+In addition, there are now licenses tailored for machine learning or artificial intelligence models as these are comprised of several parts, including: training data, code, and model weights.
+Each of these parts may be licensed differently, and there is even some dispute as to whether model weights are subject to copyright at all under current law.
 <!-- citations needed -->
 This is an area which is likely to see (by legal standards) rapid changes in the near future, given recent developments in the commercialisation of AI/ML models.
 
-There are some general principles which apply to licences across the different types of entity that they try to licence.
-Licences can generally be placed on a spectrum from proprietary, through permissive, to 'share alike' or 'copyleft' (the opposite of copyright).
+There are some general principles which apply to licenses across the different types of entity that they try to license.
+licenses can generally be placed on a spectrum from proprietary, through permissive, to 'share alike' or 'copyleft' (the opposite of copyright).
 This spectrum is something of an oversimplification, and there are some extensions and caveats we'll get to later.
 
 
@@ -149,13 +149,13 @@ Consequently, they are among the most developed and useful context for understan
 Software that is not free (in the 'libre' sense defined below) is proprietary.
 Software that you are not allowed to copy or modify falls into this category, as does software with usage restrictions, for example, "For research use only" or "For non-commercial use only".
 
-Permissively licenced things can generally be used by anyone for any purpose.
-A popular minimal example of this for software is known as the [MIT licence](https://mit-license.org/), for other works, [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) the 'public domain' licence.
-Copyleft licences attempt to ensure that any re-distributions or derived works also remain 'free', the canonical example is the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
-Unlike permissively licenced content, which can be modified and redistributed under a different licence (including as a part of a closed and/or for profit project), copyleft content (modified or unmodified) must be distributed under the same, or a compatible license, which retains the copyleft obligation.
+Permissively licensed things can generally be used by anyone for any purpose.
+A popular minimal example of this for software is known as the [MIT license](https://mit-license.org/), for other works, [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) the 'public domain' license.
+Copyleft licenses attempt to ensure that any re-distributions or derived works also remain 'free', the canonical example is the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
+Unlike permissively licensed content, which can be modified and redistributed under a different license (including as a part of a closed and/or for profit project), copyleft content (modified or unmodified) must be distributed under the same, or a compatible license, which retains the copyleft obligation.
 In other words if you take copyleft content modify it and distribute your modifications those modifications must also be copyleft.
 
-The concept of copyleft licences and their first example, the GPL, originated with Richard Stallman, who founded the free-software foundation (FSF) in 1985.
+The concept of copyleft licenses and their first example, the GPL, originated with Richard Stallman, who founded the free-software foundation (FSF) in 1985.
 The idea is a 'hack' of copyright law to use the protections that it affords to privately owned software to a software commons.
 <!-- citations needed -->
 
@@ -191,24 +191,24 @@ This is not true of proprietary projects where the developers own the rights to 
 It should be noted that an acrimonious project fork is quite uncommon and by no means always sucessful, it is the move of last resort.
 The credible threat of a fork redresses the power balance between developers and users giving users leverage if developers make unpopular choices.
 
-Copyleft licences are an attempt to ensure that software remains effectively under community ownership and cannot be used to make proprietary software which does not respect the four freedoms and may thus result in the abuse of its users.
-To attempt to achieve this goal, copyleft software requires that when distributing copyleft software or in some cases derived works that you do so under the same terms as the original licence.
-Creative commons 'share-alike' licences attempt the same thing for other content.
+Copyleft licenses are an attempt to ensure that software remains effectively under community ownership and cannot be used to make proprietary software which does not respect the four freedoms and may thus result in the abuse of its users.
+To attempt to achieve this goal, copyleft software requires that when distributing copyleft software or in some cases derived works that you do so under the same terms as the original license.
+Creative commons 'share-alike' licenses attempt the same thing for other content.
 One of the advantages of this approach is that the simplest way to redistribute your changes is often to contribute them to the 'upstream project' or to 'upstream' them.
 If you add some features to a codebase for your own use and contribute them upstream then you get the advantage of the assitance of upstream maintainers in keeping your code up to date and working correctly with the rest of the project.
 You don't have to maintain your own fork and keep it up to date with the latest patches from the rest of the codebase and you don't have to manage your own distribution.
 All this also means that everyone else benefits from your improvements and you benefit from everyone elses'.
 Being a good open-source citizen means playing by these rules and, if you can, contributing your fixes and improvements to upstream projects; not just freeloading off of them. 
 
-Copyleft licences do not prohibit commercial use, indeed numerous companies exist which develop copyleft projects.
-Many of those generate revenue through support services instead of selling licences, which would incentivise an unhealthy relationship with their users.
+Copyleft licenses do not prohibit commercial use, indeed numerous companies exist which develop copyleft projects.
+Many of those generate revenue through support services instead of selling licenses, which would incentivise an unhealthy relationship with their users.
 [Nextcloud](https://nextcloud.com/) is an excellent example of a commercial, open-source project.
 Nextcloud makes use of the [AGPL v3.0](https://www.fsf.org/bulletin/2021/fall/the-fundamentals-of-the-agplv3) a license which extends the protections of the GPL to software used over a network.
 It gives users who interact with this software over a network, for example by using a web service, rather than run it on their own computers, the right to access a copy of the source code; which they are further free to modify and distribute as is usual for the GPL.
 
-Within copyleft licenses, there are 'strong' and 'weak' copyleft licences.
+Within copyleft licenses, there are 'strong' and 'weak' copyleft licenses.
 'Strong' copyleft licenses require that combined works which contain them as a library also carry the same license but weak copyleft licenses permit their re-distribution as a library within a combined work under a different license.
-We will define derived and combined works in the section on licence compatibility where the detailed implications of the distinctions between strong & weak copyleft, and permissive licencing are explored in more practical detail.
+We will define derived and combined works in the section on license compatibility where the detailed implications of the distinctions between strong & weak copyleft, and permissive licencing are explored in more practical detail.
 It is important to note that licenses can be incompatible such that creating a combined work is highly impractical to do legally.
 
 <table>
@@ -248,7 +248,7 @@ It is important to note that licenses can be incompatible such that creating a c
 Usage restricting licenses seek to affirmatively protect users or others affected by the use of the work by placing  specific restrictions on its use.
 This curtails freedom 0, the freedom to use software 'for any purpose' and prohibiting the use of the software, or other system, for unethical purposes.
 Both 'Ethical source' & 'Responsible AI' Licenses are examples of this approach and seek to place restrictions on the uses to which the licensees can put the software or machine learning systems licensed in this fashion.
-Consequently, these licence by the classical definitions of free and open-source software from the FSF and OSI would not be considered free or open-source licences, they do however generally resemble them in the other three criteria of the definition.
+Consequently, these license by the classical definitions of free and open-source software from the FSF and OSI would not be considered free or open-source licenses, they do however generally resemble them in the other three criteria of the definition.
 Their merits versus conventional open-source licenses have been the subject of some debate, and their adoption has thus far been relatively limited.
 
 Even an attribution requirement (the BY in CC-BY) can in some cases be considered a usage restriction.
@@ -259,7 +259,7 @@ In the case of academic works attribution requirements can serve to re-enforce t
 ### Where to find open licenses for different types of work
 
 - Code
-    - The [Open Source Initiaitive (OSI)](https://opensource.org/licenses/) maintains a list of [approved Licences](https://opensource.org/licenses/) open-source licences
+    - The [Open Source Initiaitive (OSI)](https://opensource.org/licenses/) maintains a list of [approved licenses](https://opensource.org/licenses/) open-source licenses
     - [Free Software Foundation](https://www.fsf.org/) maintains a [list of GPL-Compatible Free Software Licenses](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses)
         - [GNU/FSF recomendations](https://www.gnu.org/licenses/license-recommendations.html)
     - [choosealicense.com](https://choosealicense.com/) provides a tool to guide you through the license choice project.
@@ -270,7 +270,7 @@ In the case of academic works attribution requirements can serve to re-enforce t
           ![figure from https://libguides.gwu.edu/opentextbooks/creative_commons](https://s3.amazonaws.com/libapps/accounts/22603/images/CC-License-Chart.png)
           <!-- alt text needed! -->
 - Machine Learning (ML) / artificial inteligence (AI) systems
-    - Creative commons and Software licences can be applied to different parts of ML/AI systems, CC to training data and weights, software licences to code used in training / depoyment.
+    - Creative commons and Software licenses can be applied to different parts of ML/AI systems, CC to training data and weights, software licenses to code used in training / depoyment.
     - [Responsible AI Licenses (RAIL)](https://www.licenses.ai/)
 
 (rr-licensing-enforcement)=
@@ -293,17 +293,17 @@ Organisations which take legal action in defence of free software, and which can
 ### Pertinant edge cases
 
 (rr-licensing-edge-clas)=
-#### Contributor Licence Agreements
+#### Contributor license Agreements
 
-The holder of the copyright on a copyleft project can still re-licence that project or dual-licence that project under a different licence, for example to grant exclusive rights to commercially distribute that project with proprietary extensions or to make future versions proprietary.
+The holder of the copyright on a copyleft project can still re-license that project or dual-license that project under a different license, for example to grant exclusive rights to commercially distribute that project with proprietary extensions or to make future versions proprietary.
 In a large community developed project, this would require the consent of all contributors, as they each own the copyright to their contributions.
-To get around this, some copyleft projects developed by companies that commercially licence proprietary extensions to these projects ask their contributors to sign contributor licence agreements (CLAs) which may assign the contributor's copyright to the company, or include other provisions so that they can legally dual-licence the project.
+To get around this, some copyleft projects developed by companies that commercially license proprietary extensions to these projects ask their contributors to sign contributor license agreements (CLAs) which may assign the contributor's copyright to the company, or include other provisions so that they can legally dual-license the project.
 
 (rr-licensing-edge-available)=
 #### 'Source Available' or 'Shared Source'
 
 Under a proprietary license the code is generally not made public.
-Some projects share their code but do not licence its re-use, modification or redistribution.
+Some projects share their code but do not license its re-use, modification or redistribution.
 This is known as being 'source available' or 'shared-source', the [Vivaldi](https://vivaldi.com/) web browser is an example of such a project.
 
 (rr-licensing-welcoming)=
