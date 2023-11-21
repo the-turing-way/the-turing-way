@@ -61,7 +61,7 @@ These subprojects are often time-bound and are supported by community members wh
 *Project Information: [GitHub repo in The Turing Way](https://github.com/the-turing-way/pathways) and [prototype repo in the Turing organisation](https://github.com/alan-turing-institute/bio-Turing-Way/).*
 
 **Developers**
-- May Yong, Iain Stanso, Lydia France, Malvika Sharan: funded by AI for Science and Government in 2021-2022
+- May Yong, Iain Stanson, Lydia France, Malvika Sharan: funded by AI for Science and Government in 2021-2022
 - Arya A., Johanna Bayer, Malvika Sharan: 2023 Google Summer of Code (GSoC) 
 
 **Maintainers**
