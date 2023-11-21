@@ -837,9 +837,13 @@ parts:
         sections:
           - title: Legal Disclaimer
             file: afterword/legal-disclaimer
+          - title: Contributors Record
+            file: afterword/contributors-record
+          - title: Collaborators
+            file: afterword/collaborators
+          - title: Sub-projects, Working Groups, Informal Initiatives
+            file: afterword/subprojects
           - title: Glossary
             file: afterword/glossary
           - title: Bibliography
             file: afterword/bibliography
-          - title: Contributors Record
-            file: afterword/contributors-record
