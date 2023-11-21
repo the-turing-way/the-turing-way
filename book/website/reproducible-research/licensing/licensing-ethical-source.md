@@ -8,7 +8,7 @@ Their merits versus conventional open source licenses has been the subject of so
 
 A leading figure in this movement is Coraline Ada Ehmke creator of the [Contributor Covenant](https://www.contributor-covenant.org/), the [Hippocratic License](https://firstdonoharm.dev/), and the founder in 2020 of the [Organisation for Ethical Source](https://ethicalsource.dev/).
 In the words of its advocates, [Ethical Source](https://ethicalsource.dev/) was created to "empower developers, giving us the freedom and agency to ensure that our work is being used for social good and in service of human rights."
-Motivated by the growing use of open source software for technologies such as mass surveillance and racial profiling, the movement aims to reduce this "misuse" of open-source software.
+Motivated by the growing use of open source software for technologies such as mass surveillance and racial profiling, the movement aims to reduce this "misuse" of open source software.
 
 Ethical Source extends upon the principles of open source to provide developers additional means to ensure their work is used for applications aligned with ethical values important to them like:
 

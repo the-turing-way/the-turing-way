@@ -93,9 +93,9 @@ They, like patents, must also be registered, but unlike patents, this can be don
 Registering a trademark generally comes with an administrative fee, but is not as costly as maintaining a patent.
 Trademarks generally only apply within a specific sector, as people are unlikely to confuse brands which do completely different things.
 They can be relevant in the context of the name and logo of a software project, especially when a project changes hands or is forked, in which case the fork may not be able to use the original name of the project even if that project is no longer maintained.
-Open-source projects not associated with a company which have trademarks may have these held by a legal entity such as a non-profit, through which they might also take donations and pay for project infrastructure.
-It can be valuable for open-source projects to register for trademarks as their work can easily be cloned, modified and re-distributed with ill intent.
-Examples of modified open-source tools distributed with malware added have been documented, and trademark enforcement could in some cases help to prevent or deter this.
+Open source projects not associated with a company which have trademarks may have these held by a legal entity such as a non-profit, through which they might also take donations and pay for project infrastructure.
+It can be valuable for open source projects to register for trademarks as their work can easily be cloned, modified and re-distributed with ill intent.
+Examples of modified open source tools distributed with malware added have been documented, and trademark enforcement could in some cases help to prevent or deter this.
 Nextcloud, for example, has a very [comprehensive guide to the use of their marks](https://nextcloud.com/trademarks/) with excellent explanations for the restrictions that they place on their use.
 <!--A subtler case is unofficial packages which charge a high rate for the software which could be downloaded elsewhere for free -->
 
@@ -141,7 +141,7 @@ This spectrum is something of an oversimplification, and there are some extensio
 
 
 (rr-licensing-floss)=
-## What is 'Free/Libre' or 'Open-Source' software?
+## What is 'Free/Libre' or 'Open Source' software?
 
 These same concepts developed originally in the context of software have often been applied to other creative outputs.
 Consequently, they are among the most developed and useful context for understanding the licensing of other things.
@@ -169,11 +169,11 @@ The FSF's four fundamental freedoms of free/libre software are:
   By doing this, you can give the whole community a chance to benefit from your changes.
   Access to the source code is a precondition for this.
 
-Other influential definitions of free and open-source software include: The Debian project's [Debian Free Software Guidelines (DFSG)](https://www.debian.org/social_contract#guidelines), and the open source initiative (OSI)'s [Open Source Definition](https://opensource.org/osd/).
-The terms 'Free'/'Libre' & 'Open-Source' software are often used somewhat interchangeably, but have different connotations.
+Other influential definitions of free and open source software include: The Debian project's [Debian Free Software Guidelines (DFSG)](https://www.debian.org/social_contract#guidelines), and the open source initiative (OSI)'s [Open Source Definition](https://opensource.org/osd/).
+The terms 'Free'/'Libre' & 'Open Source' software are often used somewhat interchangeably, but have different connotations.
 The use of 'free software' typically denotes a more hardline political commitment to the ideals of the free software movement, and is associated with a preference for copyleft licenses.
-The name 'open-source' places the emphasis on freedom 1 and could more readily be confused with the concept of 'source available' software, based on a naive interpretation of the name.
-'Open-source' is associated with, if not a preference for, then a more favourable view of, permissive licenses.
+The name 'open source' places the emphasis on freedom 1 and could more readily be confused with the concept of 'source available' software, based on a naive interpretation of the name.
+'Open source' is associated with, if not a preference for, then a more favourable view of, permissive licenses.
 
 ```{note}
 The word 'free' in english does not distinguish something being monetarily free 'gratis' from politically free 'libre'.
@@ -181,7 +181,7 @@ This is often summarised along the lines of: "free as in speech, not necessarily
 Thus the phrase 'libre software' is sometimes encountered in english to succinctly distinguish the concept of software which respects your liberty from software which is finacially free to use ('gratis').
 This ambiguity confusingly leads to the name 'Freeware' which is software that can be copied without paying anyone, but comes without source and cannot be modified.
 The 'free' in 'freeware' is gratis but not libre.
-It is also common to encounter the acronyms FOSS (Free and open-source software) and FLOSS (Free/libre and open source software)
+It is also common to encounter the acronyms FOSS (Free and open source software) and FLOSS (Free/libre and open source software)
 ```
 
 The FSF contends that all software should respect these freedoms and that all software which does not respect these freedoms creates an asymmetric relationship between the users and developers of that software which can readily be abused by the developers to exploit their users.
@@ -198,11 +198,11 @@ One of the advantages of this approach is that the simplest way to redistribute 
 If you add some features to a codebase for your own use and contribute them upstream then you get the advantage of the assitance of upstream maintainers in keeping your code up to date and working correctly with the rest of the project.
 You don't have to maintain your own fork and keep it up to date with the latest patches from the rest of the codebase and you don't have to manage your own distribution.
 All this also means that everyone else benefits from your improvements and you benefit from everyone elses'.
-Being a good open-source citizen means playing by these rules and, if you can, contributing your fixes and improvements to upstream projects; not just freeloading off of them. 
+Being a good open source citizen means playing by these rules and, if you can, contributing your fixes and improvements to upstream projects; not just freeloading off of them.
 
 Copyleft licenses do not prohibit commercial use, indeed numerous companies exist which develop copyleft projects.
 Many of those generate revenue through support services instead of selling licenses, which would incentivise an unhealthy relationship with their users.
-[Nextcloud](https://nextcloud.com/) is an excellent example of a commercial, open-source project.
+[Nextcloud](https://nextcloud.com/) is an excellent example of a commercial, open source project.
 Nextcloud makes use of the [AGPL v3.0](https://www.fsf.org/bulletin/2021/fall/the-fundamentals-of-the-agplv3) a license which extends the protections of the GPL to software used over a network.
 It gives users who interact with this software over a network, for example by using a web service, rather than run it on their own computers, the right to access a copy of the source code; which they are further free to modify and distribute as is usual for the GPL.
 
@@ -248,8 +248,8 @@ It is important to note that licenses can be incompatible such that creating a c
 Usage restricting licenses seek to affirmatively protect users or others affected by the use of the work by placing  specific restrictions on its use.
 This curtails freedom 0, the freedom to use software 'for any purpose' and prohibiting the use of the software, or other system, for unethical purposes.
 Both 'Ethical source' & 'Responsible AI' Licenses are examples of this approach and seek to place restrictions on the uses to which the licensees can put the software or machine learning systems licensed in this fashion.
-Consequently, these license by the classical definitions of free and open-source software from the FSF and OSI would not be considered free or open-source licenses, they do however generally resemble them in the other three criteria of the definition.
-Their merits versus conventional open-source licenses have been the subject of some debate, and their adoption has thus far been relatively limited.
+Consequently, these license by the classical definitions of free and open source software from the FSF and OSI would not be considered free or open source licenses, they do however generally resemble them in the other three criteria of the definition.
+Their merits versus conventional open source licenses have been the subject of some debate, and their adoption has thus far been relatively limited.
 
 Even an attribution requirement (the BY in CC-BY) can in some cases be considered a usage restriction.
 For example the Debian project found the [Common Public Attribution License (CPAL)](https://en.wikipedia.org/wiki/Common_Public_Attribution_License) to be incompatible their free-software guidelines for this reason whilst it is approved by the Open Source Initiative.
@@ -259,7 +259,7 @@ In the case of academic works attribution requirements can serve to re-enforce t
 ### Where to find open licenses for different types of work
 
 - Code
-    - The [Open Source Initiaitive (OSI)](https://opensource.org/licenses/) maintains a list of [approved licenses](https://opensource.org/licenses/) open-source licenses
+    - The [Open Source Initiaitive (OSI)](https://opensource.org/licenses/) maintains a list of [approved licenses](https://opensource.org/licenses/) open source licenses
     - [Free Software Foundation](https://www.fsf.org/) maintains a [list of GPL-Compatible Free Software Licenses](https://www.gnu.org/licenses/license-list.html#SoftwareLicenses)
         - [GNU/FSF recomendations](https://www.gnu.org/licenses/license-recommendations.html)
     - [choosealicense.com](https://choosealicense.com/) provides a tool to guide you through the license choice project.
