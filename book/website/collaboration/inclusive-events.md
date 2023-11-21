@@ -33,10 +33,10 @@ This chapter is meant to serve as a resource to support and guide researchers, o
 It also provides guidance and reccomendations for how to plan and host inclusive events for all audiences. 
 
 We refer to "people with lived experience" throughout this chapter as a way to recognize and acknowledge individuals who have direct personal knowledge, or firsthand experience of a particular situation, condition, or topic. 
-It is a term often used to emphasise the importance of including the perspectives and insights of those who have had direct experience of a specific condition or situation. (cite NIHR, cite Camden Health)
+It is a term often used to emphasise the importance of including the perspectives and insights of those who have had direct experience of a specific condition or situation. {cite:ps}`nihr2021differentexperiences,camden2022preferredlanguage`
 
 Many research projects, especially within the fields of Applied AI, Health, and Social Science are increasingly involving members of the public in the research. 
-This is sometimes referred to as "Public and Patient Involvement and Engagement" or "PPIE" which has a goal to actively involve people with the lived experience of a specific disability, situation, health condition, or experience in the research process. (cite. HDRUK)
+This is sometimes referred to as "Public and Patient Involvement and Engagement" or "PPIE" which has a goal to actively involve people with the lived experience of a specific disability, situation, health condition, or experience in the research process. {cite:ps}`HDRUK2023ppie`
 PPIE is done to ensure that the research is aligned with the needs of those affected by it, but also improves research through utilising that unique lived experience. 
 As part of this involvement and engagement, researchers and research staff will need to plan events that are inclusive and accessible for people with lived experience, and delivered in a way that supports people with lived experience taking part equitably. 
 
@@ -44,8 +44,8 @@ Depending on the research focus, "lived experience" can be a range of things suc
 In the context of event planning, any of these people with lived experiences would have slightly different accommodation needs to support them engaging in your event. 
 Thus, your considerations need to cover both the potential disability requirements of your attendees, and an identification of barriers that would be experienced by your specific attendees with lived experience. 
 
-Importantly, not all attendees with lived experience will have a disability, and many of your attendees who are researchers and other professionals may **have** a disability. 
-The reccomendations captured in this chapter can help make your event inclusive for all attendees. 
+Importantly, not all attendees with lived experience will have a disability, and many of your attendees who are researchers and other professionals may have a disability. 
+The reccomendations captured in this chapter can help make your event inclusive and supportive for all attendees. 
 
 Because both internal resources and the events you run can range in size - from small meetings to massive multi-day conferences - this chapter is not an exhaustive list and instead is meant to provide general guidance about how to design events that are inclusive. 
 
