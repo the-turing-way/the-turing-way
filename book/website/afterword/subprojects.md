@@ -8,7 +8,7 @@ These subprojects are often time-bound and are supported by community members wh
 
 ### Translation and Localisation Working Group Leads
 
-*Project Information: [Chapter in the Community Handbook](https://the-turing-way.netlify.app/community-handbook/translation)**
+*Project Information: [Chapter in the Community Handbook](https://the-turing-way.netlify.app/community-handbook/translation)*
 
 - [Andrea Sanchez Tapia](https://the-turing-way.netlify.app/afterword/contributors-record#andrea-sanchez-tapia)
 - [Batool Almarzouq](https://the-turing-way.netlify.app/afterword/contributors-record#batool-almarzouq)
