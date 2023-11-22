@@ -105,13 +105,12 @@ For example, you could write words as **bold** (`**bold**`), or in _italics_ (`_
 Also when writing in Markdown, please [start each new sentence on a new line](https://the-turing-way.netlify.app/community-handbook/style.html#write-each-sentence-in-a-new-line-line-breaks).
 Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it makes the [diffs produced during the pull request](https://help.github.com/en/articles/about-comparing-branches-in-pull-requests) review easier to read! :sparkles:
 
-
 ## Where to start: issues
 
 Before you open a new issue, please check if any of our [open issues](https://github.com/the-turing-way/the-turing-way/issues) cover your idea already.
 If you open a new issue, please follow our basic guidelines laid out in our [issue templates](https://github.com/the-turing-way/the-turing-way/issues/new/choose).
 There are 3 issues templates to choose from.:
-1. New Chapter Template ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&template=CHAPTER_ISSUE_TEMPLATE.md)):  This issue is a place to discuss matters relating to writing a new chapter on a new topic or adding a subchapter in an already existing chapter.
+1. New Chapter Template ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&labels=book&projects=&template=new_chapter.yml&title=%5BNEW+CHAPTER%5D+-+%3CTOPIC%3E)):  This issue is a place to discuss matters relating to writing a new chapter on a new topic or adding a subchapter in an already existing chapter.
 2. General ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&template=ISSUE_TEMPLATE.md)):  Use this template for a general issue related to the book, community, process or ideas.
 3. Bug Report ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D)): With this template, create an issue report that can help others repair something that is currently broken.
 This can be used for reporting errors like typos and broken links.

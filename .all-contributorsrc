@@ -2551,7 +2551,9 @@
       "profile": "https://github.com/mcnanton",
       "contributions": [
         "bug",
-        "content"
+        "content",
+        "ideas",
+        "translation"
       ]
     },
     {
@@ -4197,7 +4199,8 @@
       "profile": "https://realrichi3.github.io",
       "contributions": [
         "ideas",
-        "content"
+        "content",
+        "infra"
       ]
     },
     {
@@ -4216,7 +4219,8 @@
       "profile": "https://richardjacton.github.io/",
       "contributions": [
         "ideas",
-        "content"
+        "content",
+        "review"
       ]
     },
     {
@@ -4324,7 +4328,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/73224467?v=4",
       "profile": "https://susana465.github.io/",
       "contributions": [
-        "question"
+        "question",
+        "content"
       ]
     },
     {
@@ -4433,7 +4438,53 @@
       "profile": "http://www.westerling.nu",
       "contributions": [
         "content",
+        "review",
+        "bug"
+      ]
+    },
+    {
+      "login": "CeilidhWelsh",
+      "name": "CeilidhWelsh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71887891?v=4",
+      "profile": "https://github.com/CeilidhWelsh",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "llewelld",
+      "name": "David Llewellyn-Jones",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1446122?v=4",
+      "profile": "https://www.flypig.co.uk",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "MoritzMaxeiner",
+      "name": "Moritz Maxeiner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/497073?v=4",
+      "profile": "https://github.com/MoritzMaxeiner",
+      "contributions": [
         "review"
+      ]
+    },
+    {
+      "login": "MayaAndersonGonzalez",
+      "name": "Maya Anderson-González",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56874297?v=4",
+      "profile": "https://mayaandersongonzalez.hcommons.org",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "gigikenneth",
+      "name": "Gigi Kenneth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52600214?v=4",
+      "profile": "https://bit.ly/gigi-kenneth",
+      "contributions": [
+        "content"
       ]
     }
   ],

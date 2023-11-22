@@ -1,6 +1,14 @@
 (rr-open-notebooks)=
 # Open Notebooks
 
+```{figure} ../../figures/executable-notebooks.*
+---
+name: Executable Notebooks
+alt: "Cartoon style with black lines and a light blue accent colour. Two people look at an easel chart depicting a project overview. Below them are the logos of github, Read the docs, jupyter book, and sphinx. Emanating from the project overview are a series of documents with bubbles showing that basing a project around an open exceutable notebook such as a jupyter book allows participants to: Understand the direction/ of the project, Track its progress, Enable diverse participation, Create transparentcy in outcomes, and Make auditing easier for organisers. At the end of the documents there is a globe covered in the speech bubbles of project participants."
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.8169292](https://doi.org/10.5281/zenodo.8169292).
+```
+
 Electronic Lab Notebooks (ELNs) enable researchers to organize and store experimental procedures, protocols, plans, notes, data, and even unfiltered interpretations using their computer or mobile device.
 They are a digital analogue to the paper notebook most researchers keep.
 ELNs can offer several advantages over the traditional paper notebook in documenting research during the active phase of a project, including; searchability within and across notebooks, secure storage with multiple redundancies, remote access to notebooks, and the ability to easily share notebooks among team members and collaborators.

@@ -145,7 +145,7 @@ You are encouraged to write in your ethnicity in your own words if you do not id
 - How did you hear about our event? (can be an open question or with tick boxes)
  - [ ] Website
  - [ ] Newsletter
- - [ ] Twitter (add Twitter handle)
+ - [ ] X/Twitter (add X handle)
  - [ ] LinkedIn (add LinkedIn account link)
  - [ ] In another of our events 
  - [ ] Direct email

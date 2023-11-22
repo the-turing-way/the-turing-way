@@ -7,12 +7,12 @@ Brainhack is an open science community that has an innovative meeting format to 
 Remi, Isil and their colleagues have been dealing with the issue of how to determine contributions and authorship in such a large community.
 
 **More information about Remi Gau:**
-* [Website](https://remi-gau.github.io/)
-* [Twitter](https://twitter.com/RemiGau?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+* Website: [remi-gau.github.io](https://remi-gau.github.io/)
+* X (formerly Twitter): [RemiGau](https://twitter.com/RemiGau)
 
 **More information about Isil Poyraz Bilgin:**
-* [Github](https://github.com/complexbrains)
-* [Twitter](https://twitter.com/complexbrains) 
+* GitHub: [complexbrains](https://github.com/complexbrains)
+* X (formerly Twitter): [complexbrains](https://twitter.com/complexbrains)
 
 **1. What is the *normal* practice of authorship for academic papers in your discipline? or used to be the normal practice?**
 
