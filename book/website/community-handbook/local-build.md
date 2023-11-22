@@ -25,11 +25,21 @@ You will need to locate your "terminal" or "prompt" application on your machine.
    conda create --name the-turing-way python=3.10
    ```
 
-4. Activate the environment with `conda activate the-turing-way`. Any commands we run with Python or pip from now on will use the versions of Python and pip installed into _this_ conda env, not any others
+4. Activate the environment with:
 
-5. Clone _The Turing Way_ repository from GitHub to your machine using the command `git clone https://github.com/the-turing-way/the-turing-way`
+   ```bash
+   conda activate the-turing-way
+   ```
 
-6. Navigate into the cloned repository folder using the command `cd the-turing-way`, where the `cd` command means `change directory`
+   Any commands we run with Python or pip from now on will use the versions of Python and pip installed into _this_ conda env, not any others.
+
+5. Clone _The Turing Way_ repository from GitHub to your machine using the command: 
+
+   ```bash
+   git clone https://github.com/the-turing-way/the-turing-way
+   ```
+
+6. Navigate into the cloned repository folder using the command `cd the-turing-way`, where the `cd` command means `change directory`.
 
 7. Then change into the sub-directory the website is built from using `cd book/website`
 
@@ -74,9 +84,35 @@ If you would like to preview a version of the book from a certain branch (perhap
 
 Follow the link as before and you will see changes specific to that branch rendered.
 
+### Clean up a recent build
+
+When you test your edits by building the book multiple times, it is better to clean up the last build before generating a new one.
+You can either manually delete the `book/website/_build` folder every time, or run this command:
+
+```bash
+cd book/website
+jupyter-book clean .
+```
+
+More details on this process can be read on the [Jupyter Book's GitHub repository](https://github.com/executablebooks/jupyter-book/blob/master/docs/advanced/advanced.md#clean-your-books-generated-files).
+
+
+### Check external links in the book
+
+When editing or reviewing this book locally, you can run the Sphinx link checker with Jupyter Book to check if the external links mentioned in the book are valid.
+To run the link checker, use the following command:
+
+```bash
+cd book/website
+jupyter-book build . --builder linkcheck
+```
+
+The link checker checks if the each link resolves and prints the status on your terminal so that you can check and resolve any incorrect links.
+Read more about this on the [Jupyter Book's GitHub repository](https://github.com/executablebooks/jupyter-book/blob/master/docs/advanced/advanced.md#check-external-links-in-your-book).
+
 ## Why did we recommend using (mini)conda?
 
-In the step-by-step guide above, we made use of the `jupyter-book` command to build the Turing Way book. For this command to work as intended you will need a Python installation on your machine. 
+In the step-by-step guide above, we made use of the `jupyter-book` command to build the Turing Way book. For this command to work as intended you will need a Python installation on your machine.
 As with any other programming language such as R or Julia, any given Python installation might look different from another due to the different packages or libraries that come with the installation.
 Over time you will likely install even more packages, or update packages to newer versions. Some packages also depend on the presence of specific versions of other packages to function, and so to ensure your local build works smoothly you will want to minimize as much mismatched dependencies as possible.
 
