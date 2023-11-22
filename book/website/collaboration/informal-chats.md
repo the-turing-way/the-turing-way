@@ -26,7 +26,7 @@ It isn't just fun, their productivity will be higher if they take regular breaks
 The first step in running a coffee chat is considering the purpose of the social break, who will be invited and to set the time for the conversation.
 Conversations, where *anyone* can join, may be what you want.
 
-In March 2020, during the COVID-19 pandemic, Kirstie Whitaker hosted [online morning coffee chats on Zoom](https://twitter.com/kirstie_j/status/1239455513080926208?s=20), which she promoted on Twitter.
+In March 2020, during the COVID-19 pandemic, Kirstie Whitaker hosted [online morning coffee chats on Zoom](https://twitter.com/kirstie_j/status/1239455513080926208?s=20), which she promoted on Twitter (now X).
 Different people joined at 7:40 am every morning to match her early morning chats at the Turing Institute between when her train arrived and when she usually started working.
 The purpose of these calls was to have social contact with anyone else who was up early and looking for motivation to get started.
 It didn't matter who came along, everyone was invited to join for 20 minutes.

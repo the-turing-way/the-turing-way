@@ -2551,7 +2551,9 @@
       "profile": "https://github.com/mcnanton",
       "contributions": [
         "bug",
-        "content"
+        "content",
+        "ideas",
+        "translation"
       ]
     },
     {
@@ -4197,7 +4199,8 @@
       "profile": "https://realrichi3.github.io",
       "contributions": [
         "ideas",
-        "content"
+        "content",
+        "infra"
       ]
     },
     {
@@ -4464,6 +4467,24 @@
       "profile": "https://github.com/MoritzMaxeiner",
       "contributions": [
         "review"
+      ]
+    },
+    {
+      "login": "MayaAndersonGonzalez",
+      "name": "Maya Anderson-González",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56874297?v=4",
+      "profile": "https://mayaandersongonzalez.hcommons.org",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "gigikenneth",
+      "name": "Gigi Kenneth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52600214?v=4",
+      "profile": "https://bit.ly/gigi-kenneth",
+      "contributions": [
+        "content"
       ]
     }
   ],
