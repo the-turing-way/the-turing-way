@@ -4,7 +4,7 @@
 (rr-licensing-hardware-prerequisites)=
 ## Prerequisites
 
-This chapter builds on the chapter {ref}`rr-licensing` and it is advisable to read this chapter before reading this one.
+This chapter builds on the chapter {ref}`rr-licensing` and it is advisable to read it before reading this one.
 
 ## Introduction
 
