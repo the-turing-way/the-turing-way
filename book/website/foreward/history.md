@@ -14,7 +14,7 @@ The project has its roots in the [Mozilla Open Leadership](https://mozilla.githu
 Due to close relationships with the Jupyter Project, the book was written in JupyterBook.
 A GitHub repository was made for the project, and internal processes decided in how to acknowledge authorship works within the project (i.e. installation of Welcome bot, All-Contributors bot) and collaborative spaces and events to contribute to the guides were created (such as the Collaboration Cafe and Book Dash).
 In-person workshops were given on tools aligned with the project (particulary Binder and JupterBook).
-The project was presented in many conferences across the UK and internationally.
+The project was presented in many conferences across the UK and internationally, as well as conferences offering the first spaces for in-person Book Dash events.
 
 ## Development and Growth (2019-2021)
 
