@@ -53,7 +53,7 @@ You will need to locate your "terminal" or "prompt" application on your machine.
 
 9. And now build the book:
 
-   ```bash
+   ```console
    jupyter-book build .
    ```
 
