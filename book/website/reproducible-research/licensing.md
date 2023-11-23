@@ -251,7 +251,7 @@ It is important to note that licenses can be incompatible such that creating a c
 (rr-licensing-usage-restriction)=
 ### What are 'Usage Restricting' Licenses?
 
-Usage restricting licenses seek to affirmatively protect users or others affected by the use of the work by placing  specific restrictions on its use.
+Usage restricting licenses seek to affirmatively protect users or others affected by the use of the work by placing specific restrictions on its use.
 This curtails freedom 0, the freedom to use software 'for any purpose' and prohibiting the use of the software, or other system, for unethical purposes.
 Both 'Ethical source' & 'Responsible AI' Licenses are examples of this approach and seek to place restrictions on the uses to which the licensees can put the software or machine learning systems licensed in this fashion.
 Consequently, these licenses by the classical definitions of free and open source software from the FSF and OSI would not be considered free or open source licenses. They do however generally resemble them in the other three criteria of the definition.
