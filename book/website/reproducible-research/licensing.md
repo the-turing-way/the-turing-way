@@ -254,7 +254,7 @@ It is important to note that licenses can be incompatible such that creating a c
 Usage restricting licenses seek to affirmatively protect users or others affected by the use of the work by placing  specific restrictions on its use.
 This curtails freedom 0, the freedom to use software 'for any purpose' and prohibiting the use of the software, or other system, for unethical purposes.
 Both 'Ethical source' & 'Responsible AI' Licenses are examples of this approach and seek to place restrictions on the uses to which the licensees can put the software or machine learning systems licensed in this fashion.
-Consequently, these license by the classical definitions of free and open source software from the FSF and OSI would not be considered free or open source licenses, they do however generally resemble them in the other three criteria of the definition.
+Consequently, these licenses by the classical definitions of free and open source software from the FSF and OSI would not be considered free or open source licenses. They do however generally resemble them in the other three criteria of the definition.
 Their merits versus conventional open source licenses have been the subject of some debate, and their adoption has thus far been relatively limited.
 
 Even an attribution requirement (the BY in CC-BY) can in some cases be considered a usage restriction.
