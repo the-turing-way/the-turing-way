@@ -184,7 +184,7 @@ The name 'open source' places the emphasis on freedom 1 and could more readily b
 ```{note}
 The word 'free' in english does not distinguish something being monetarily free 'gratis' from politically free 'libre'.
 This is often summarised along the lines of: "free as in speech, not necessarily free as in beer"
-Thus the phrase 'libre software' is sometimes encountered in english to succinctly distinguish the concept of software which respects your liberty from software which is finacially free to use ('gratis').
+Thus the phrase 'libre software' is sometimes encountered in English to succinctly distinguish the concept of software which respects your liberty from software which is finacially free to use ('gratis').
 This ambiguity confusingly leads to the name 'Freeware' which is software that can be copied without paying anyone, but comes without source and cannot be modified.
 The 'free' in 'freeware' is gratis but not libre.
 It is also common to encounter the acronyms FOSS (Free and open source software) and FLOSS (Free/libre and open source software)
