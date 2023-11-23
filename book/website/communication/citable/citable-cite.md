@@ -67,9 +67,12 @@ To make your code citable, you can use the integration between [Zenodo](https://
 - On GitHub, click the *Create a new release* button.
 Zenodo should automatically be notified and should make a snapshot copy of the current state of your repository (just one branch, without any history), and should also assign a persistent identifier (DOI) to that snapshot.
 - Use the DOI in any citations of your software and tell any collaborators and users to do the same!
+
 :::
 :::{tab-item} GitLab
 :sync: gitlab_tab
+
+
 
 To make your code citable, through an automated publication of your Gitlab repository to [Zenodo](https://zenodo.org/):
 
