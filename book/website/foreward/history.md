@@ -46,7 +46,7 @@ The number of talks and workshops given by community members also expanded.
 In 2023, *The Turing Way* delivery team expanded, with the addition of Alexandra Araujo Alvarez as TTW's first Project Manager.
 [The Practitioner's Hub](https://www.turing.ac.uk/turing-way-practitioners-hub) was piloted with the first cohort of 5 Experts-in-Residence (EiR).
 It aims to build a shared understanding of open science, reproducibility, accessibility and research ethics to enhance quality, rigour and integrity in data science and AI, across academia, government, and industry, catalysed by _The Turing Way_.
-The open infrastructure of the project has also expanded, as *The Turing Way* moved to separate Github organisation.
+The open infrastructure of the project has also expanded, as *The Turing Way* moved to a separate [Github organisation](https://github.com/the-turing-way/the-turing-way).
 
 In 2024, there will be even more changes for the project as governance continues to develop and see its sustainability solidify, alongside supporting a vibrant open ecosystem.
 
