@@ -816,7 +816,9 @@
       "contributions": [
         "content",
         "doc",
-        "review"
+        "review",
+        "code",
+        "infra"
       ]
     },
     {
@@ -2695,7 +2697,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/25081046?v=4",
       "profile": "https://github.com/Iain-S",
       "contributions": [
-        "review"
+        "review",
+        "code",
+        "infra"
       ]
     },
     {
@@ -4486,6 +4490,26 @@
       "profile": "https://bit.ly/gigi-kenneth",
       "contributions": [
         "content"
+      ]
+    },
+    {
+      "login": "myyong",
+      "name": "myyong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5417696?v=4",
+      "profile": "https://github.com/myyong",
+      "contributions": [
+        "code",
+        "infra"
+      ]
+    },
+    {
+      "login": "LydiaFrance",
+      "name": "Lydia France",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85945427?v=4",
+      "profile": "https://github.com/LydiaFrance",
+      "contributions": [
+        "code",
+        "infra"
       ]
     }
   ],
