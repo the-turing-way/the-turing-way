@@ -21,7 +21,7 @@ You will need to locate your "terminal" or "prompt" application on your machine.
 
 3. Create a new environment and install a modern version of Python into it:
 
-   ```bash
+   ```console
    conda create --name the-turing-way python=3.10
    ```
 
