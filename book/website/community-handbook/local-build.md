@@ -89,7 +89,7 @@ Follow the link as before and you will see changes specific to that branch rende
 When you test your edits by building the book multiple times, it is better to clean up the last build before generating a new one.
 You can either manually delete the `book/website/_build` folder every time, or run this command:
 
-```bash
+```console
 cd book/website
 jupyter-book clean .
 ```
