@@ -118,7 +118,14 @@ Over time you will likely install even more packages, or update packages to newe
 
 But this can be difficult! Even with an organized, concerted effort, package management for programming languages naturally throws up dependency issues. Python packages, for reasons not discussed here, tend to suffer from dependency issues a bit more than other languages (note that all languages do!) and one guaranteed way to come across such an issue by trying to maintain all of your Python projects using just one, large set of packages, each at a specific version. You simply can't cater to the needs of all package dependencies this way.
 
-![](https://imgs.xkcd.com/comics/python_environment.png)
+```{figure} https://imgs.xkcd.com/comics/python_environment.png
+---
+height: 487px
+name: python-environment
+alt: 'A humorous, black and white flowchart from XKCD depicting the complexity of managing different Python environments on a computer. It shows a tangled web of arrows and lines connecting various versions of Python installed through different methods such as Homebrew, Anaconda, and binaries from Python.org. There are also references to different tools and paths like PIP, PYTHONPATH, and system PATH, that add to the confusion. The paths weave in and out of local folders on a computer. Some of them are noted to be owned by root, making them harder to manage. The illustration is annotated with bemused and perplexed comments about the state of the Python environment, concluding with a comic punchline at the bottom that reads, "My Python environment has become so degraded that my laptop has been declared a superfund site."'
+---
+Illustration from xkcd describing the complexities of installing different versions of Python on your computer. Used under a CC-BY-NC 2.5 licence.
+```
 
 The most relevant feature for us here is *virtual environments*.
 
