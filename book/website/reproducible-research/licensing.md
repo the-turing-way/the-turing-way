@@ -1,8 +1,14 @@
 (rr-licensing)=
 # Licensing
 
-<!-- (rr-licensing-ethics)= -->
-<!-- # Ethics-informed Licensing -->
+```{figure} ../figures/licensing.*
+---
+height: 500px
+name: licensing
+alt: "A hand reaches out of an open safe and makes a thumbs up gesture. The Safe is high-tech tooking with circuit tracery on its surface. The thumb of the hand looks like a signed document. There is a happy face in green looking at the thumbs up from the open safe. In contrast on the other side of the image there is a locked version of a similar safe. There is a red and grumpy face looking at the locked safe which is being shaken in frustration."
+---
+Licensing. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
 
 (rr-licensing-prerequisites)=
 ## Prerequisites
