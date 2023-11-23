@@ -7,7 +7,7 @@
 *The Turing Way* is the flagship project of the Tools, Practices, and Systems programme.
 Founded by Dr Kirstie Whitaker, _The Turing Way_ began as a Book of Reproducible Research in 2019.
 Dr. Whitaker brought together a team of [allies and contributors](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md#previous-project-members), who were already championing reproducible practices in data science, to co-develop the first version of **The Turing Way** book.
-The project team included researchers, librarians, data scientists and Research Engineers, from both The Alan Turing Turing and the institutes across the UK.
+The project team included researchers, librarians, data scientists and Research Engineers, from both The Alan Turing Turing and the institutes across the UK and was funded by The Alan Turing Institute.
 The project has its roots in the [Mozilla Open Leadership](https://mozilla.github.io/leadership-training/), a programme that led to Kirstie's Mozilla Fellowship in 2016, which influenced her as a researcher and strengthened her commitment to working openly.
 
 *The Turing Way* has been funded by The Alan Turing Institute since the very beginning.
