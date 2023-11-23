@@ -159,7 +159,7 @@ Permissively licensed things can generally be used by anyone for any purpose.
 A popular minimal example of this for software is known as the [MIT license](https://mit-license.org/), for other works, [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) the 'public domain' license.
 Copyleft licenses attempt to ensure that any re-distributions or derived works also remain 'free', the canonical example is the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
 Unlike permissively licensed content, which can be modified and redistributed under a different license (including as a part of a closed and/or for profit project), copyleft content (modified or unmodified) must be distributed under the same, or a compatible license, which retains the copyleft obligation.
-In other words if you take copyleft content modify it and distribute your modifications those modifications must also be copyleft.
+In other words if you take copyleft content, modify it, and distribute your modifications, those modifications must also be copyleft.
 
 The concept of copyleft licenses and their first example, the GPL, originated with Richard Stallman, who founded the free-software foundation (FSF) in 1985.
 The idea is a 'hack' of copyright law to use the protections that it affords to privately owned software to a software commons.
