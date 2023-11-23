@@ -108,7 +108,7 @@ jupyter-book build . --builder linkcheck
 ```
 
 The link checker checks if the each link resolves and prints the status on your terminal so that you can check and resolve any incorrect links.
-Read more about this on the [Jupyter Book's GitHub repository](https://github.com/executablebooks/jupyter-book/blob/master/docs/advanced/advanced.md#check-external-links-in-your-book).
+Read more about this in [Jupyter Book's documentation](https://jupyterbook.org/en/stable/advanced/html.html?highlight=check%20external#check-external-links-in-your-book).
 
 ## Why did we recommend using (mini)conda?
 
