@@ -40,7 +40,7 @@ Many ongoing projects have been developing alongside the expansion of the guides
 Many projects have grown that have adopted and used practices from *The Turing Way*.
 The core team of the project, which brought together Turing staff and volunteer leaders of the project was brought in in 2022.
 
-Initial governance work began in 2022 with hybrid hubs hosting events across multiple time zones and working groups developed to formalise localisation and translation, reviewing & editing, training and mentorship, accessibility, and infrastructure within the project.
+Initial governance work began in 2022 with hybrid hubs hosting Book Dash events across multiple geographic locations and working groups developed to formalise localisation and translation, reviewing & editing, training and mentorship, accessibility, and infrastructure within the project.
 The number of talks and workshops given by community members also expanded.
 
 In 2023, *The Turing Way* delivery team expanded, with the addition of Alexandra Araujo Alvarez as TTW's first Project Manager.
