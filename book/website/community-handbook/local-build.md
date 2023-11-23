@@ -35,7 +35,7 @@ You will need to locate your "terminal" or "prompt" application on your machine.
 
 5. Clone _The Turing Way_ repository from GitHub to your machine using the command: 
 
-   ```bash
+   ```console
    git clone https://github.com/the-turing-way/the-turing-way
    ```
 
