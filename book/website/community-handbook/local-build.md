@@ -94,7 +94,7 @@ cd book/website
 jupyter-book clean .
 ```
 
-More details on this process can be read on the [Jupyter Book's GitHub repository](https://github.com/executablebooks/jupyter-book/blob/master/docs/advanced/advanced.md#clean-your-books-generated-files).
+More details on this process can be read in [Jupyter Book's documentation](https://jupyterbook.org/en/stable/basics/build.html?highlight=clean#clean-your-books-generated-files).
 
 
 ### Check external links in the book
