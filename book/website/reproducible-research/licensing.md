@@ -201,7 +201,7 @@ Copyleft licenses are an attempt to ensure that software remains effectively und
 To attempt to achieve this goal, copyleft software requires that when distributing copyleft software or in some cases derived works that you do so under the same terms as the original license.
 Creative commons 'share-alike' licenses attempt the same thing for other content.
 One of the advantages of this approach is that the simplest way to redistribute your changes is often to contribute them to the 'upstream project' or to 'upstream' them.
-If you add some features to a codebase for your own use and contribute them upstream then you get the advantage of the assitance of upstream maintainers in keeping your code up to date and working correctly with the rest of the project.
+If you add some features to a codebase for your own use and contribute them upstream then you get the advantage of the assistance of upstream maintainers in keeping your code up to date and working correctly with the rest of the project.
 You don't have to maintain your own fork and keep it up to date with the latest patches from the rest of the codebase and you don't have to manage your own distribution.
 All this also means that everyone else benefits from your improvements and you benefit from everyone elses'.
 Being a good open source citizen means playing by these rules and, if you can, contributing your fixes and improvements to upstream projects; not just freeloading off of them.
