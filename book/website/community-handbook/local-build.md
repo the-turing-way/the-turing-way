@@ -27,7 +27,7 @@ You will need to locate your "terminal" or "prompt" application on your machine.
 
 4. Activate the environment with:
 
-   ```bash
+   ```console
    conda activate the-turing-way
    ```
 
