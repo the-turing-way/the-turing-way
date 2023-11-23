@@ -142,7 +142,7 @@ Each of these parts may be licensed differently, and there is even some dispute 
 This is an area which is likely to see (by legal standards) rapid changes in the near future, given recent developments in the commercialisation of AI/ML models.
 
 There are some general principles which apply to licenses across the different types of entity that they try to license.
-licenses can generally be placed on a spectrum from proprietary, through permissive, to 'share alike' or 'copyleft' (the opposite of copyright).
+Licenses can generally be placed on a spectrum from proprietary, through permissive, to 'share alike' or 'copyleft' (the opposite of copyright).
 This spectrum is something of an oversimplification, and there are some extensions and caveats we'll get to later.
 
 
