@@ -326,7 +326,7 @@ A small minority of people simply will not participate if doing so requires that
 (rr-licensing-where)=
 ## How and where to add licenses
 
-Wherever you share your project it is likely to be organised in a heirarchy of dirctories, place a plain text file containing the license in the top level directoty of your project.
+Wherever you share your project it is likely to be organised in a heirarchy of directories, place a plain text file containing the license in the top level directoty of your project.
 If it is a git project for example that is shared on a git forge like github or gitlab, using a standard file name like `LICENSE` will allow your license to be picked up the the host and displayed on your project.
 If the license that you have used has a standarised short name from [SPDX](https://spdx.org/licenses/) then this will be displayed as a small icon on your projects home page by these hosts.
 It can also be useful to include license information in the form of standard strings at the top of each text file in your project.
