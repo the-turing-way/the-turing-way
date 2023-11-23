@@ -45,7 +45,7 @@ You will need to locate your "terminal" or "prompt" application on your machine.
 
 8. The Turing Way book is built using multiple python libraries. We can install these dependencies _into your conda environment_ using the following command
 
-   ```bash
+   ```console
    pip install -r requirements.txt
    ```
 
