@@ -27,7 +27,7 @@ In part due to all these factors, *The Turing Way* was able to expand greatly, f
 
 A global (and multilingual) community began to engage with *The Turing Way*, and the process of [translation/localisation](https://the-turing-way.netlify.app/community-handbook/translation) began informally.
 A Community Handbook was also established to document best practices that could be used by other communities.
-The Fireside Chat series was established in late 2021, facilitating shared spaces with networks and allies from across the open science ecosystem.
+The [Fireside Chat series](https://the-turing-way.netlify.app/community-handbook/fireside-chat) was established in late 2021, facilitating shared spaces with networks and allies from across the open science ecosystem.
 The project received a few awards & citations in the 2021 London Mayor report, HiddenREF Awards, and Goldacre Report.
 The Book Dash Planning Committe was established in early 2022 to plan the community's flagship collaboration event.
 
