@@ -102,7 +102,7 @@ More details on this process can be read on the [Jupyter Book's GitHub repositor
 When editing or reviewing this book locally, you can run the Sphinx link checker with Jupyter Book to check if the external links mentioned in the book are valid.
 To run the link checker, use the following command:
 
-```bash
+```console
 cd book/website
 jupyter-book build . --builder linkcheck
 ```
