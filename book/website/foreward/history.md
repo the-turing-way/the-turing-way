@@ -19,7 +19,7 @@ The project was presented in many conferences across the UK and internationally,
 ## Development and Growth (2019-2021)
 
 With the addition of Dr. Malvika Sharan in late 2019 as the community manager, *The Turing Way* continued to evolve and grow as it received more support and visibility.
-Malvika helped to incubate what are now key partnerships for ***The Turing Way*** within the wider 'open science' ecosystem, and helped to usher in the expansion of the project.
+Malvika helped to incubate what are now key partnerships for _The Turing Way_ within the wider 'open science' ecosystem, and helped to usher in the expansion of the project.
 This period corresponded with the COVID-19 pandemic lockdowns, which transitioned many processes of contribution, collaboration, and documentation into remote ones.
 For many, it also became clear that reproducibility on its own is not sufficient to address the major challenges (including incentive challenges!) faced by research data scientists.
 
