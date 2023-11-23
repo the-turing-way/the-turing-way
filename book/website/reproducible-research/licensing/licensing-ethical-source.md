@@ -2,7 +2,7 @@
 # 'Ethical Source'
 
 The ethical source movement seeks to affirmatively protect specific user rights by curtailing freedom 0, the freedom to use software 'for any purpose' and prohibiting the use of the software for unethical purposes.
-Consequently, these license by the classical definitions of free and open source software from the FSF and OSI would not be considered free or open source licenses.
+Consequently, these licenses by the classical definitions of free and open source software from the FSF and OSI would not be considered free or open source licenses.
 Ethical Source licenses do generally resemble conventional free/libre and open source in the other three criteria of the definition.
 Their merits versus conventional open source licenses has been the subject of some debate, and their adoption has thus far been relatively limited.
 
