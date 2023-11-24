@@ -250,7 +250,7 @@ If it did not include OpenIFS, it would have to be distributed under the GPLv3, 
 #### Can we work on this privately, without distributing anything?
 
 The GPL allows making private modifications of software covered by it, with no restrictions, provided the changed software is not distributed at all.
-In the case of the AGPL distribution would include running a server interacted with in some way by users.
+In the case of the AGPL running a server interacted with in some way by users over a network is equivalent to distribution under the GPL and you would be required to provide any users with the source code.
 The OpenIFS license also allows making private modifications.
 So we can work on this project (and prepare and run combined works) without violating the licenses, as long as we do not share the results with anyone.
 
