@@ -1,7 +1,7 @@
 (ch-translation-welcome)=
-# Welcome to the translation and localisation team of _The Turing Way_!
+# Welcome to the Translation and Localisation Team of _The Turing Way_!
 
-We are members of The Turing Way community with different motivations to localise the content to different languages.
+We are members of _The Turing Way_ community with different motivations to localise the content to different languages.
 Feel free to join the `#translation` channel in [_The Turing Way_ slack](https://theturingway.slack.com).
 You will also have to create a Crowdin account but more on that {ref}`in the next section<ch-translation-localisation-journey>`
 The team has a fortnightly call on Tuesdays at 5pm UTC to co-work, discuss, and check the progress of the translation.
@@ -19,6 +19,7 @@ Everyone interested in participating in a translation effort should be able to w
 
 Before starting a translation project, check out the existing languages being translated.
 Is the language that interests you in the localisation platform? If it isn't, reach out to the team to create a new translation team.
+You can see the list of language teams and their managers in the project's [Readme](https://turingway.crowdin.com/turing-way#readme/)
 If the language team already exists reach out to the team so you can join them.
 
 When starting a new language translation, there are several aspects to consider in terms of the workflow and translation guidelines.
@@ -46,6 +47,7 @@ Make sure you read these guidelines before you start translating for the first t
 ### Create and update a glossary
 
 We strongly suggest setting a glossary through the localisation platform.
+You can read more about project glossaries in {ref}`Adding terms to the glossary<ch-translation-gateway-crowdsourced-localisation>`.
 The Carpentries [Glosario](https://glosario.carpentries.org/) and the [Localization Lab glossary](https://www.localizationlab.org/glossaries) are two good examples of such glossaries.
 
 ### Share the translation memory of the project
@@ -53,8 +55,8 @@ The Carpentries [Glosario](https://glosario.carpentries.org/) and the [Localizat
 In order to facilitate and speed up the translation of a new language, we recommend sharing translation memory with other projects so similar strings can be translated automatically.
 _The Turing Way_ project is linked with the translation memory of a previous version translated in Transifex and another translation for [Open Life Science](https://openlifesci.org/) materials in OLS.
 
-Translation consistency is crucial and can be made easier when TMS is used.
-As soon as you start translating your project, machine learning algorithms engage, and the system shows previous translations for the source words and how often they were used in the project[^1]. 
+Translation consistency is crucial and can be made easier when the TMS is used.
+As soon as you started translating your project, machine learning algorithms engage, and the system shows previous translations for the source words and how often they were used in the project[^1]. 
 For example, in Crowdin, you can hover over the source words underlined with the light dashed line to see the previous translations formed by the translation consistency feature. 
 You can also search earlier translations for specific source words using the Search TM tab.
 
@@ -71,7 +73,7 @@ alt: Checking consistency in Crowdin by hovering over the source words underline
 
 We have teams for each language, so that no one works alone.
 Each team can decide roles for their project members.
-In the translation platform, these roles can translate in having different permissions. 
+In the translation platform, these roles can translate into having different permissions. 
 Roles in Crowdin include manager, translator, and proofreader.
 - **Manager** – has similar rights as a project owner except for the ability to manage some of the owner's Resources (for instance, configuring MT engines, advanced workflows, and more) and delete projects.
 - **Proofreader** – can translate and approve strings.
@@ -92,19 +94,19 @@ DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 
 
 In each co-working or external session, prioritise those chapters that are outdated or close to completion. 
-Check out our {ref}`guidelines<ch-translation-localisation-journey>` for a list of the priority list.
+Check out our {ref}`guidelines<ch-translation-localisation-journey>` for a list of the priorities.
 
 # Translation is a continuous process
 
 As _The Turing Way_ content grows, the translated content does too. 
-We strongly encourage monitoring the new content and update the translation fork regularly.
-While updates of the translated content might change according to the availability of resources, it is a good practice to:
+We strongly encourage monitoring the new content and updating the translation fork regularly.
+While updates of the translated content might change according to the availability of resources, it is good practice to:
 
 * Set periodical reviews to improve translations
 * Update translation guidelines and glossaries
 
 If you have any recommendations for improving the translation guidelines or setting up language-specific rules, contact [the translation and localisation team](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
-We are very eager to improve the workflow and make the _The Turing Way_ a global project accessible to the wider community.
+We are very eager to improve the workflow and make _The Turing Way_ a global project accessible to the wider community.
 
 
 In the next chapter, you'll be introduced to  Crowdin and how we use it to translate _The Turing Way_.

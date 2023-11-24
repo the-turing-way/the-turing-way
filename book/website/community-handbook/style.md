@@ -24,6 +24,30 @@ There is no one alive who is youer than you.
 - Dr Seuss
 ```
 
+### A note on bullet points
+
+If you want to add multiple sentences inside a bullet point, we recommend indenting the sentences following the initial sentence with two spaces.
+Consider the example below.
+
+```markdown
+Dr Seuss said:
+- Today was good. Today was fun. Tomorrow is another one.
+- The more that you read, the more things you will know. The more that you learn, the more places you'll go.
+```
+
+Similarly to the example in the section above, we should change this to have the sentences on separate lines:
+
+```markdown
+Dr Seuss said:
+- Today was good.
+  Today was fun.
+  Tomorrow is another one.
+- The more that you read, the more things you will know.
+  The more that you learn, the more places you'll go.
+```
+
+This will render the same as the example with all sentences in one bullet point line, but will make it easier to see changes in pull requests.
+
 ## Opinions are welcome, but ...
 
 _The Turing Way_ book is intended to be only *lightly* opinionated.

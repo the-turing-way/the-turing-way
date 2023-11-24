@@ -41,7 +41,7 @@ Alternatively, you can contact the co-lead investigators **Malvika Sharan** by e
 To stay updated with our community events, subscribe to [_The Turing Way_ calendar](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ).
 To receive monthly newsletters, [join our mailing list](https://tinyletter.com/TuringWay)
 
-We are also on [Twitter](https://twitter.com/turingway), follow us for daily updates.
+We are also on [X (formerly Twitter)](https://twitter.com/turingway), follow us for daily updates.
 
 ### Wondering where to start?
 

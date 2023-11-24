@@ -105,6 +105,8 @@ parts:
             sections:
               - title: Research Data
                 file: reproducible-research/rdm/rdm-data
+              - title: Finding Data
+                file: reproducible-research/rdm/rdm-find
               - title: Data Management Plan
                 file: reproducible-research/rdm/rdm-dmp
               - title: The FAIR Principles and Practices
@@ -117,18 +119,22 @@ parts:
                 file: reproducible-research/rdm/rdm-spreadsheets
               - title: Documentation and Metadata
                 file: reproducible-research/rdm/rdm-metadata
+              - title: Methods and Protocols
+                file: reproducible-research/rdm/rdm-methods
               - title: Data Curation
                 file: reproducible-research/rdm/rdm-data-curation
+              - title: Data Visualisation
+                file: reproducible-research/rdm/rdm-visualisation
+              - title: Data Repositories
+                file: reproducible-research/rdm/rdm-repository
               - title: Sharing and Archiving Data
                 file: reproducible-research/rdm/rdm-sharing
               - title: Data Article
                 file: reproducible-research/rdm/rdm-article
-              - title: Research Data Management Toolkits
-                file: reproducible-research/rdm/rdm-toolkits
-              - title: Personal Impact Stories
-                file: reproducible-research/rdm/rdm-stories
               - title: Checklist
                 file: reproducible-research/rdm/rdm-checklist
+              - title: Personal Impact Stories
+                file: reproducible-research/rdm/rdm-stories
               - title: Resources
                 file: reproducible-research/rdm/rdm-resources
           - title: Reproducible Environments
@@ -266,7 +272,7 @@ parts:
             sections:
               - title: Planning for Project Design
                 file: project-design/pd-overview/pd-overview-planning
-              - title: Communication and Collaboration
+              - title: Collaborative project documentation
                 file: project-design/pd-overview/pd-overview-repro
               - title: Reproducibility Methods
                 file: project-design/pd-overview/pd-overview-methods
@@ -274,6 +280,8 @@ parts:
                 file: project-design/pd-overview/pd-overview-version
               - title: Sharing Your Research Work
                 file: project-design/pd-overview/pd-overview-sharing
+          - title: Project Design Checklist
+            file: project-design/pd-checklist
           - title: Creating Project Repositories
             file: project-design/project-repo
             sections:
@@ -353,6 +361,8 @@ parts:
             sections:
               - title: Data Governance for the Machine Learning Pipeline
                 file: project-design/data-governance/data-gov-ml
+              - title: BigCode Data Governance Case Study
+                file: project-design/data-governance/bigcode_casestudy
 
       # ===== Guide for Communication ========================================
 
@@ -399,9 +409,9 @@ parts:
           - title: Social Media for Research Communications
             file: communication/social-media
             sections:
-              - title: Tips for starting with twitter
+              - title: Tips for starting with X
                 file: communication/social-media/social-media-twitter-tips
-              - title: Managing multiple twitter accounts
+              - title: Managing multiple X accounts
                 file: communication/social-media/social-media-twitter-multiple
           - title: Research Objects in Action
             file: communication/research-objects
@@ -643,6 +653,8 @@ parts:
                 file: ethical-research/law-policy/law-policy-resources
           - title: Research Ethics for Social Data
             file: ethical-research/social-data
+          - title: Data Feminism
+            file: ethical-research/data-feminism
           - title: Activism for Researchers
             file: ethical-research/activism
             sections:
@@ -747,6 +759,13 @@ parts:
                 file: community-handbook/infrastructure/infrastructure-contributors
               - title: External Link Checking
                 file: community-handbook/infrastructure/infrastructure-external-link-check
+          - title: Communication Platforms
+            file: community-handbook/communication-channels
+            sections:
+              - title: Slack Start Guide
+                file: community-handbook/communication-channels/slack-start-guide
+              - title: Slack Welcome Guide
+                file: community-handbook/communication-channels/slack-welcome-guide
           - title: Monthly Newsletters
             file: community-handbook/newsletters
             sections:
@@ -819,9 +838,13 @@ parts:
         sections:
           - title: Legal Disclaimer
             file: afterword/legal-disclaimer
+          - title: Contributors Record
+            file: afterword/contributors-record
+          - title: Collaborators
+            file: afterword/collaborators
+          - title: Sub-projects, Working Groups, Informal Initiatives
+            file: afterword/subprojects
           - title: Glossary
             file: afterword/glossary
           - title: Bibliography
             file: afterword/bibliography
-          - title: Contributors Record
-            file: afterword/contributors-record

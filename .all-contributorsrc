@@ -816,7 +816,9 @@
       "contributions": [
         "content",
         "doc",
-        "review"
+        "review",
+        "code",
+        "infra"
       ]
     },
     {
@@ -2383,7 +2385,8 @@
       "contributions": [
         "ideas",
         "review",
-        "content"
+        "content",
+        "bug"
       ]
     },
     {
@@ -2551,7 +2554,9 @@
       "profile": "https://github.com/mcnanton",
       "contributions": [
         "bug",
-        "content"
+        "content",
+        "ideas",
+        "translation"
       ]
     },
     {
@@ -2692,7 +2697,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/25081046?v=4",
       "profile": "https://github.com/Iain-S",
       "contributions": [
-        "review"
+        "review",
+        "code",
+        "infra"
       ]
     },
     {
@@ -4197,7 +4204,8 @@
       "profile": "https://realrichi3.github.io",
       "contributions": [
         "ideas",
-        "content"
+        "content",
+        "infra"
       ]
     },
     {
@@ -4216,7 +4224,8 @@
       "profile": "https://richardjacton.github.io/",
       "contributions": [
         "ideas",
-        "content"
+        "content",
+        "review"
       ]
     },
     {
@@ -4324,7 +4333,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/73224467?v=4",
       "profile": "https://susana465.github.io/",
       "contributions": [
-        "question"
+        "question",
+        "content"
       ]
     },
     {
@@ -4387,6 +4397,119 @@
       "profile": "https://github.com/JaroCamphuijsen",
       "contributions": [
         "content"
+      ]
+    },
+    {
+      "login": "penyuan",
+      "name": "penyuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13352427?v=4",
+      "profile": "https://www.penonek.com/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ljcolling",
+      "name": "Lincoln Colling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21215217?v=4",
+      "profile": "http://research.colling.net.nz",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "sadielbartholomew",
+      "name": "Sadie L. Bartholomew",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30274190?v=4",
+      "profile": "http://sadielbartholomew.github.io",
+      "contributions": [
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "ereynaud",
+      "name": "Emmanuel G. REYNAUD",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12295393?v=4",
+      "profile": "https://github.com/ereynaud",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "kallewesterling",
+      "name": "Kalle Westerling",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7298727?v=4",
+      "profile": "http://www.westerling.nu",
+      "contributions": [
+        "content",
+        "review",
+        "bug"
+      ]
+    },
+    {
+      "login": "CeilidhWelsh",
+      "name": "CeilidhWelsh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71887891?v=4",
+      "profile": "https://github.com/CeilidhWelsh",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "llewelld",
+      "name": "David Llewellyn-Jones",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1446122?v=4",
+      "profile": "https://www.flypig.co.uk",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "MoritzMaxeiner",
+      "name": "Moritz Maxeiner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/497073?v=4",
+      "profile": "https://github.com/MoritzMaxeiner",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "MayaAndersonGonzalez",
+      "name": "Maya Anderson-González",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56874297?v=4",
+      "profile": "https://mayaandersongonzalez.hcommons.org",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "gigikenneth",
+      "name": "Gigi Kenneth",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52600214?v=4",
+      "profile": "https://bit.ly/gigi-kenneth",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "myyong",
+      "name": "myyong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5417696?v=4",
+      "profile": "https://github.com/myyong",
+      "contributions": [
+        "code",
+        "infra"
+      ]
+    },
+    {
+      "login": "LydiaFrance",
+      "name": "Lydia France",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85945427?v=4",
+      "profile": "https://github.com/LydiaFrance",
+      "contributions": [
+        "code",
+        "infra"
       ]
     }
   ],
