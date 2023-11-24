@@ -408,9 +408,9 @@ parts:
           - title: Social Media for Research Communications
             file: communication/social-media
             sections:
-              - title: Tips for starting with twitter
+              - title: Tips for starting with X
                 file: communication/social-media/social-media-twitter-tips
-              - title: Managing multiple twitter accounts
+              - title: Managing multiple X accounts
                 file: communication/social-media/social-media-twitter-multiple
           - title: Research Objects in Action
             file: communication/research-objects
@@ -652,6 +652,8 @@ parts:
                 file: ethical-research/law-policy/law-policy-resources
           - title: Research Ethics for Social Data
             file: ethical-research/social-data
+          - title: Data Feminism
+            file: ethical-research/data-feminism
           - title: Activism for Researchers
             file: ethical-research/activism
             sections:
@@ -835,9 +837,13 @@ parts:
         sections:
           - title: Legal Disclaimer
             file: afterword/legal-disclaimer
+          - title: Contributors Record
+            file: afterword/contributors-record
+          - title: Collaborators
+            file: afterword/collaborators
+          - title: Sub-projects, Working Groups, Informal Initiatives
+            file: afterword/subprojects
           - title: Glossary
             file: afterword/glossary
           - title: Bibliography
             file: afterword/bibliography
-          - title: Contributors Record
-            file: afterword/contributors-record

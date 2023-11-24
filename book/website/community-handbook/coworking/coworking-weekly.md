@@ -55,7 +55,7 @@ Please update the document each month using the following steps:
 
 - [Update the HackMD](https://hackmd.io/@turingway/coworking-call) each month by adding dates for the weekly calls
 - Move the notes from the previous call below the template area (that will be archived in this Notion page periodically)
-- Share the notes on Slack and Twitter announcing the dates
+- Share the notes on Slack and X (formerly Twitter) announcing the dates
 - Use the notes during the call to share information as you chair the call
 - Make sure that you share the Code of Conduct link and use the shared Cuckoo (or other web-based clocks)
 - Create breakout rooms for people before starting the Pomodoro sessions - when needed
