@@ -273,8 +273,30 @@ In the case of academic works attribution requirements can serve to re-enforce t
 - Prose, Images, Audio, Video, Datasets, and similar
     - [Creative Commons (CC)](https://creativecommons.org/)
         - [Creative Commons License Chooser](https://creativecommons.org/choose/)
-          ![figure from https://libguides.gwu.edu/opentextbooks/creative_commons](https://s3.amazonaws.com/libapps/accounts/22603/images/CC-License-Chart.png)
-          <!-- alt text needed! -->
+          ```{figure} ../figures/cc-license-chart.*
+          ---
+          height: 500px
+          name: Creative Commons License Types
+          alt: >
+            Down the left hand side of the image there is a list of creative commons license types and their corresponding symbols, across the top is a list of properties of these licenses.
+            This creates a matrix to indicate which licenses have which properties using checkmarks.
+            Public Domain is represented by a C in a circle with a line through it.
+            CC 0 allows you to copy and publish, does not require attribution, allows commercial use, allows you to modify and adapt, and allows you to change the license.
+            By attribution is represented by a person in a circle.
+            CC BY allows you to copy and publish, requires attribution, allows commercial use, allows you to modify and adapt, and allows you to change the license.
+            By attribution share alike is represented by a person in a circle and a circular arrow in a circle.
+            CC BY SA allows you to copy and publish, requires attribution, allows commercial use, allows you to modify and adapt, but does not allow you to change the license.
+            By attribution no derivatives is represented by a person in a circle and an equals sign in a circle
+            CC BY ND allows you to copy and publish, requires attribution, allows commercial use, does not allow you to modify and adapt, and allows you to change the license.
+            By attribution non commercial is represented by a person in a circle and a dollar sign in a circle with a line through it
+            CC BY NC allows you to copy and publish, requires attribution, does not allow commercial use, allows you to modify and adapt, and allows you to change the license.
+            By attribution non commercial share alike is represented by a person in a circle, a dollar sign in a circle with a line through it, and a circular arrow in a circle.
+            CC BY NC SA allows you to copy and publish, requires attribution, does not allow commercial use, allows you to modify and adapt, and does not allow you to change the license.
+            By attribution non commercial no derivatives is represented by a person in a circle, a dollar sign in a circle with a line through it, and an equals sign in a circle.
+            CC BY NC ND allows you to copy and publish, requires attribution, does not allow commercial use, does not allow you to modify and adapt, and allows you to change the license.
+          ---
+          Creative Commons License Types. From [George Washington University Libraries Open Textbooks](https://libguides.gwu.edu/opentextbooks/creative_commons). Used under a CC-BY 4.0 licence.
+          ```
 - Machine Learning (ML) / artificial inteligence (AI) systems
     - Creative commons and Software licenses can be applied to different parts of ML/AI systems, CC to training data and weights, software licenses to code used in training / depoyment.
     - [Responsible AI Licenses (RAIL)](https://www.licenses.ai/)
