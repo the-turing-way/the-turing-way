@@ -16,7 +16,7 @@ These questions will need to be decided on by the courts and/or legislated on be
 
 In the absence of clarity on this point many organisations are taking the calculated risk of operating under the assumption that they are copyrightable and generally treating them similarly to datasets and/or software.
 Some companies are offering legal protections for users of services based on these systems, offering to cover legal expenses arising from challenges to the copyright status of the outputs of these systems.
-It seems likely that some form of copyright-like protection will be extended to model weights but it's precise contours are yet to be determined.
+It is possible that some form of copyright-like protection will be explicitly extended to model weights but it's precise contours are yet to be determined.
 
 Despite these open questions AI/ML model specific licenses are already being developed.
 
