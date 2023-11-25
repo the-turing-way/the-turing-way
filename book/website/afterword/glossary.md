@@ -18,6 +18,11 @@ Add
 Adversarial Learning
   A process under which learning systems are exposed to negative stimuli, such as the addition of purposefully manipulated data samples, in order to obtain potentially-beneficial effects. Examples of this technique may include the addition of additional learning objectives which penalise unwanted characteristics of a learning system, for example the ability to distinguish between data records based on inappropriate demographic attributes.
 
+Artificial intelligence (AI)
+  The ability of synthetic computational systems to perform tasks and activities usually associated with biological, especially human, mental and intellectual capabilities.
+  Also the field of study associated with imbuing synthetic systems with these capabilities.
+  See also {term}`Machine Learning (ML)<Machine Learning (ML)>`
+
 Authors
   Authors in this context are the contributors to _The Turing Way_ project who have made a substantial contribution to the project such as writing a subchapter, facilitating community interactions, maintaining project’s infrastructure and supporting the participation of others through mentored-contributions. All authors are named co-authors on the book as a whole.
 
@@ -320,6 +325,11 @@ Last author
 ## M
 
 ```{glossary}
+
+Machine Learning (ML)
+  Methods which allow computational systems to extract regularities from data which permit them to perform tasks such as prediction and categorisation in a way that is at least superfially analogous to how biological systems learn.
+  A broard sub-field of {term}`Artificial Intelligence (AI)<Artificial Intelligence (AI)>` generally distinct from Symbolic Artificial inteligence, also know as GOFAI (good old fashioned AI), which focuses on programmed systems which perform logical reasoning.
+  Machine Learning (ML) is sometimes used interchangeably with Artificial Intelligence (AI), but often employed to differentiate concrete or extant systems and algorithms from broarder and more speculative approaches to synthetic intelligent systems.
 
 Machine Readable
   Machine readable refers to documents, data or other digital outputs whose content can be readily processed by computers. Such documents are distinguished from machine readable data by virtue of having sufficient structure to provide the necessary context to support the business processes for which they are created. Machine readable data can be defined as data in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost.
