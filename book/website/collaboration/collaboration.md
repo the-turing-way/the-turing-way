@@ -10,7 +10,7 @@ Our work can only reach its highest potential if there are diverse teams of peop
 ---
 name: collaboration
 width: 500px
-alt: An iceberg's tip is labelled with the project related technical terms, and a few divers are exploring a huge part of iceberg underwater which are labelled with community oriented collaborative terms
+alt: An iceberg sitting in the sea with the image label above it saying there is more to collaboration than you might think. A small part of the iceberg is sticking out of the water and has a few people sitting on it. This part of the iceberg is labelled with project related technical terms including the words different teams, common goals, exchange of knowledge and production. There are a few divers exploring the much larger part of the iceberg under the water. This part of the iceberg is labelled with community oriented collaborative terms including treat each other kindly, build diverse teams, code of conduct, inclusive workspace and explicitly open for contribution.
 ---
 There is more to collaboration than we see. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
