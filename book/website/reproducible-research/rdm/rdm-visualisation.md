@@ -11,6 +11,7 @@ Therefore, data visualisation is an aspect of research data management!
 
 Below follow some resources that may help you in creating clearer, more accessible and more transparant data visualisations. 
 
+<!--
 ```{figure} ../figures/data-visualisation.*
 ---
 name: project-design
@@ -18,6 +19,7 @@ alt: A group of people collaboratively developing a data visualisation by using 
 ---
  _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
+-->
 
 (rr-rdm-visualisation-tools)=
 ## Tools
