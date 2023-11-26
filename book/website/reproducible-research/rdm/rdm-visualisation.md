@@ -39,16 +39,35 @@ Below follow some resources that may help you in creating clearer, more accessib
 - [Fundamentals of Data Visualisation](https://serialmentor.com/dataviz/) by {cite:ps}`Wilke2019dataviz`
 - [Data Visualisation, A practical introduction](https://socviz.co/) by {cite:ps}`Healy2018dataviz`
 - [Creating clear and informative image-based figures for scientific publications](https://doi.org/10.1371/journal.pbio.3001161) by {cite:ps}`Jambor2021dataviz`
+- [A layered grammar of graphics](http://dx.doi.org/10.1198/jcgs.2009.07098) by {cite:ps}`Wickham2010dataviz`
 
 ### Other text resources and examples
 
 - [Data Visualisation Course](https://exploratory-data-visualization.netlify.app/)
 - [Free visual and communication resources](https://padlet.com/evansemporiumstore/lks3aoyyhkpnkmpe)
 - [A collection of notebooks demonstrating plotting with matplotlib](https://github.com/KirstieJane/NH19-Visualization/)
+- [A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149)
 
 ### Videos
 
 - 5 minute videos on [Data visualisation - Introduction and motivation](https://www.youtube.com/watch?v=7t2qYO2zEWQ) and [Figure design, design process, fundamentals](https://www.youtube.com/watch?v=WtYArH4EIRg)
 - [Create Effective Data Visualizations](https://youtu.be/jt-VdyFzjj0) (second part focuses primarily on Tableau)
 - [Data visualisation for scientific papers](https://www.youtube.com/playlist?list=PLWb8IFSVeQ62NbG-u4vQlh4srFcC2KH5g) videos by ReproducibiliTeach
+- Outline of grammar of graphics
+    -   [A Grammar of Graphics](https://www.youtube.com/watch?v=RCaFBJWXfZc) - Excellent summary of the grammar of graphics layers or 'functional pipeline'
+    -   [Leland Wilkinson - The Grammar of Graphics](https://www.youtube.com/watch?v=1X93Sum_SyM) - Leland himself giving a quick high level summary of the grammar of graphics
+-   [Martin Krzywinski: A pandemic of bad charts](https://www.youtube.com/watch?v=_YGmfsKL8N8)
+-   [EMBL Keynote Lecture 2019 - Data visualization and data science, Hadley Wickham](https://www.youtube.com/watch?v=9YTNYT1maa4)
+-   Practical high level intros to Tufte's principles
+    -   [What should we do to improve our graphics and figures?](https://www.youtube.com/watch?v=00Fha1lkRxk)
+    -   [Graphical Excellence](https://www.youtube.com/watch?v=VkyzSAPkQ50)
 
+### Podcasts
+
+-   [Data Viz Today](https://dataviztoday.com/)
+-   [Data Stories](https://datastori.es/)
+-   [PolicyViz](https://policyviz.com/podcast/)
+
+### Other
+
+-   [biovis](http://biovis.net/)
