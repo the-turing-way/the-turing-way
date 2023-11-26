@@ -11,6 +11,14 @@ Therefore, data visualisation is an aspect of research data management!
 
 Below follow some resources that may help you in creating clearer, more accessible and more transparant data visualisations. 
 
+```{figure} ../figures/data-visualisation.*
+---
+name: project-design
+alt: A group of people collaboratively developing a data visualisation by using a giant pencil. 
+---
+ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
 (rr-rdm-visualisation-tools)=
 ## Tools
 
@@ -24,12 +32,12 @@ Below follow some resources that may help you in creating clearer, more accessib
 
 - [Tips to improve interpretability and accessibility](https://www.youtube.com/watch?v=RzT95DVUMnw) by Dr Tracey Weissgerber (video)
 - [Writing Meaningful Alt-Texts for Data Visualisations in R](https://www.youtube.com/watch?v=dXV5bx1WQTM)
+- [Writing Alt Text to communicate the meaning in data visualizations] by {cite:ps}`Hare2022dataviz`
+- [Alt-texts](https://axesslab.com/alt-texts/)
 
 (rr-rdm-visualisation-colours)=
 ## Colours
-
 - [A detailed guide to colors in data vis style guides](https://blog.datawrapper.de/colors-for-data-vis-style-guides/) (blog)
-
 
 (rr-rdm-visualisation-resources)=
 ## Resources
@@ -47,6 +55,7 @@ Below follow some resources that may help you in creating clearer, more accessib
 - [Free visual and communication resources](https://padlet.com/evansemporiumstore/lks3aoyyhkpnkmpe)
 - [A collection of notebooks demonstrating plotting with matplotlib](https://github.com/KirstieJane/NH19-Visualization/)
 - [A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149)
+- [Friends Don't let Friends...](https://github.com/cxli233/FriendsDontLetFriends)
 
 ### Videos
 
