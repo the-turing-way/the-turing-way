@@ -4520,6 +4520,32 @@
       "contributions": [
         "content"
       ]
+    },
+      "login": "mhauru",
+      "name": "Markus Hauru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5229876?v=4",
+      "profile": "http://mhauru.org",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "Jerzeek",
+      "name": "Jerry de Vos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22919620?v=4",
+      "profile": "http://jerrydevos.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "SachaHq",
+      "name": "Sacha Hodencq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58265506?v=4",
+      "profile": "https://github.com/SachaHq",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",

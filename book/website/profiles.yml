@@ -93,7 +93,6 @@
     - reproducible-research/open
     - reproducible-research/open/open-source
     - reproducible-research/licensing
-    - reproducible-research/licensing/licensing-software
     - reproducible-research/rdm/rdm-metadata
     - reproducible-research/rdm/rdm-sharing
     - reproducible-research/code-reuse
