@@ -4520,6 +4520,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "Jerzeek",
+      "name": "Jerry de Vos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22919620?v=4",
+      "profile": "http://jerrydevos.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
