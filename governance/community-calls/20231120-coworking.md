@@ -6,7 +6,6 @@
 * Sophia
 * Alex
 * Gabin
-* 
 
 ## Topics/Rooms
 
