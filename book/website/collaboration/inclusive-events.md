@@ -40,7 +40,7 @@ This is sometimes referred to as "Public and Patient Involvement and Engagement"
 PPIE is done to ensure that the research is aligned with the needs of those affected by it, but also improves research through utilising that unique lived experience. 
 As part of this involvement and engagement, researchers and research staff will need to plan events that are inclusive and accessible for people with lived experience, and delivered in a way that supports people with lived experience taking part equitably. 
 
-Depending on the research focus, "lived experience" can be a range of things such as a disability, long-term health condition, berevement, having worked in a specific profession, or those with caring responsibilities.
+"Lived experience" can be a range of things such as a disability, long-term health condition, berevement, having worked in a specific profession, or those with caring responsibilities.
 In the context of event planning, any of these people with lived experiences would have slightly different accommodation needs to support them engaging in your event. 
 Thus, your considerations need to cover both the potential disability requirements of your attendees, and an identification of barriers that would be experienced by your specific attendees with lived experience. 
 
