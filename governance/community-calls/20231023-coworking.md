@@ -1,28 +1,23 @@
-# Notes 16 October
+# Notes 23 October
 
 ## Attendees
 
-* Alex
-* Vicky
-* Bastian
 * Anne
-* Malvika
-* Cass
-* Eirini 
+* Kirstie
+* Bastian
+* Gabin
 
 ## Topics/Rooms
 
-* Main room - 
-    * Tea Invites Review (first half hour)
-    * governance (second half hour)
-* Inclusive Events Chapter
-* TEA Invites Review
-* RCM Talk Prep
-* Book dash
-* Chatty Coworking
-* Quiet Coworking
-
+* Main room - Data Protection policy
+    * https://www.turing.ac.uk/data-protection-policy
+    * Reviewing the first policy
+    * Who is responsible to the data?
+    * What data do we collect currently? 
+        * May need a current audit of what we do
  
 ## Notes
-* Question from Sophia: Can I ask a TTW style/formatting question if this is a natural break to ask it.
-    * You can add a sentence here about ‘when to do external linking vs citing a resource’: https://the-turing-way.netlify.app/community-handbook/style#external-links
+* Open Access Week: Share your thoughts in this issue or form! https://github.com/the-turing-way/the-turing-way/issues/3326
+    * Got the tweets & toots shared!
+    * Also added in my own sample answer to the questions :)
+* AI UK Application: Feedback invited! https://docs.google.com/document/d/1pRwd3h5UN1wZXIl2Zap6YWGu2FUF64sUxXKEuA1t6iI/edit#heading=h.30rrpq1gvj3c
