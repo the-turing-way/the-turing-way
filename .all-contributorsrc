@@ -4520,6 +4520,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "SachaHq",
+      "name": "Sacha Hodencq",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58265506?v=4",
+      "profile": "https://github.com/SachaHq",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
