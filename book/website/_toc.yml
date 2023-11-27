@@ -632,6 +632,7 @@ parts:
             file: collaboration/oss-sustainability/oss-sustainability-challenges
 
       # ===== Guide for Accessibility in Data Science ===========================
+      
       - file: accessibility-guide/accessibility-guide
 
       # ===== Guide for Ethical Research ========================================
