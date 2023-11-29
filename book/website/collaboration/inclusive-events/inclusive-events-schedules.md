@@ -106,7 +106,7 @@ For this example, indicate in your guidance how long there will be for questions
 This can help avoid any feeling attendees may have about being ignored or not heard if their question is not addressed. 
 
 For other events that require active participation, such as a focus group or discussions, consider including guidance on the format discussions will have, and if there are any specific topics or prior material attendees should be familiar with in order to take part. 
-Try to identify if your event will facilitate discussion between attendees, or if the sessions are to be chaired and led by a facilitator. 
+Determine if your event will facilitate discussion between attendees, or if the sessions are to be chaired and led by a facilitator. 
 Communicating to attendees that participation is expected, and what the specific format of participation will be, can help alleviate worry or anxiety that attendees may have, and also set the session up for success. 
 
 (cl-inclusive-events-engagement-pathways)=
