@@ -187,9 +187,11 @@ By establishing an active partnership between people with lived experience, rese
 
 (cl-inclusive-events-inclusive-program-planning)=
 ## Creating an Inclusive Program
+When developing your event's program or agenda, ensure that you have established a pathway or mechanism to get feedback and input from people with lived experience. 
 Ideally you will include a person with lived experience in the planning of an event's program and agenda. 
 
 Involving people with lived experience in the planning and delivery of events ensures the voice of people with lived experience is built into the dialogue throughout your event. 
+Active involvement could be including people with lived experience in the planning committee of your event, and asking potential attendees for feedback on the planning and materials of your event. 
 
 Active involvement can also help organizers develop a greater understanding of what is important from the perspective of people with lived experience and ensure that the proposed structure and content of the event is shaped in a way that will meet the needs of the potential attendees.
 
@@ -203,15 +205,14 @@ Consider if you are able to both involve a representative in your planning commi
 This is because a single representative may not be familiar with all the requirements and needs from your attendees, which in many cases may be very diverse. 
 Asking for feedback from other participants remains key. 
 
-When developing your event's program or agenda, ensure that you have established a pathway or mechanism to get feedback and input from people with lived experience. 
 The two options discussed above are ideal, as people with lived experience will be able to provide insights and perspectives on the specific challenges and needs of your attendees. 
 This perspective can be helpful when identifying what sessions or content should be included in the program, and will support you in creating a more inclusive and relevant program for your audience. 
 
 
 (cl-inclusive-events-session-schedule)=
 ### Session Schedule
-When planning your event's content schedule, reflect back on the purpose of your event, who your attendees are going to be, and why they will be attending your event. 
-This can help to narrow down and decide on key event content and ensure that there is a balance of topics that are diverse enough to appeal to a range of attendees. 
+When planning your event's content schedule, reflect back on the purpose of your event, who your attendees are going to be, and why they will be attending your event.
+This can help to narrow down and decide on key event content, ensure that there is a balance of topics that are diverse enough to appeal to a range of attendees, and plan for content that is interesting and accessible to your attendees.
 
 At larger events, it may not be possible to develop a full schedule that is inclusive of a general audience or people with lived experience. 
 In this instance, event organizers should consider both how this will be communicated to people with lived experience in attendance, and also what alternative arrangements will be offered to support attendees with lived experience.
