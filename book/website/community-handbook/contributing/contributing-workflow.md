@@ -1,9 +1,9 @@
 (ch-contributing-workflow)=
 # Contribution Workflow
 
-Whether you are writing new content or reviewing existing ones, contributing to _The Turing Way_ generally encompasses the steps discussed in this section.
+Whether you are writing new content or reviewing existing content, contributing to _The Turing Way_ generally encompasses the steps discussed in this section.
 You may refer to the recommendations here to ensure that you have adequately prepared your contribution for review.
-Please note that the order of these recommendations are not strict and we encourage you to follow the approach that suits you best.
+Please note that the order of these recommendations is not strict and we encourage you to follow the approach that suits you best.
 
 (ch-contributing-workflow-template)=
 ## Select a template
@@ -33,9 +33,9 @@ For example, the [Version Control](https://the-turing-way.netlify.app/reproducib
 book\website
 │
 └───reproducible-research <---- (folder for the Guide to Reproducible Research)
-│   │   reproducible-research.md <---- (Guide's Landing Page)
-│   │   vcs.md <---- (Landing page for the Version Control chapter)
-|   |   new-chapter <---- (Landing page for a new chapter)
+│   │   reproducible-research.md <---- (Guide's landing page)
+│   │   vcs.md <---- (landing page for the Version Control chapter)
+|   |   new-chapter <---- (landing page for a new chapter)
 │   │
 │   └───vcs (chapter folder)
 │   |   │   vcs-workflow.md
@@ -97,7 +97,7 @@ For example, because the [Statistical Methods Manuscript](https://the-turing-way
 (ch-contributing-workflow-referencing)=
 ## Reference external sources appropriately
 
-Ensure external sources are properly referenced and included in _The Turing Way's_ centralised bibtex file as recommended in the [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html)
+Ensure external sources are properly referenced and included in _The Turing Way's_ centralised BibTeX file as recommended in the [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html).
 
 (ch-contributing-workflow-glossary)=
 ## Update the book-wide glossary
