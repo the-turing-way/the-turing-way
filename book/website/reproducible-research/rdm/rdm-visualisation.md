@@ -24,9 +24,9 @@ alt: A group of people collaboratively developing a data visualisation by using 
 (rr-rdm-visualisation-tools)=
 ## Tools
 
-- [upset graphs](https://upset.app/)
-- Python plotly
-  - [annotating visualisations in python plotly](https://medium.com/nerd-for-tech/enriching-data-visualizations-with-annotations-in-plotly-using-python-6127ff6e0f80) (blog and video)
+-  [upset graphs](https://upset.app/) are a straightforward way to visualize set intersections in a matrix layout, which can help in analysing multiple datasets at once.
+-  In Python Plotly, annotations and animations can serve as extra visual cues to highlight important features.
+  - [Annotating visualisations in Python plotly](https://medium.com/nerd-for-tech/enriching-data-visualizations-with-annotations-in-plotly-using-python-6127ff6e0f80) (blog and video)
   - [Animations using Python plotly](https://youtu.be/kMFvpmOaF2I)
 
 (rr-rdm-visualisation-accessibility)=
@@ -57,7 +57,7 @@ alt: A group of people collaboratively developing a data visualisation by using 
 - [Free visual and communication resources](https://padlet.com/evansemporiumstore/lks3aoyyhkpnkmpe)
 - [A collection of notebooks demonstrating plotting with matplotlib](https://github.com/KirstieJane/NH19-Visualization/)
 - [A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149)
-- [Friends Don't let Friends...](https://github.com/cxli233/FriendsDontLetFriends)
+- [Friends Don't let Friends Write Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends) by {cite:ps}`li2023dataviz`
 
 ### Videos
 
