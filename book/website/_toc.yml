@@ -104,6 +104,8 @@ parts:
             sections:
               - title: Research Data
                 file: reproducible-research/rdm/rdm-data
+              - title: Finding Data
+                file: reproducible-research/rdm/rdm-find
               - title: Data Management Plan
                 file: reproducible-research/rdm/rdm-dmp
               - title: The FAIR Principles and Practices
@@ -352,6 +354,8 @@ parts:
             sections:
               - title: Data Governance for the Machine Learning Pipeline
                 file: project-design/data-governance/data-gov-ml
+              - title: BigCode Data Governance Case Study
+                file: project-design/data-governance/bigcode_casestudy
 
       # ===== Guide for Communication ========================================
 
@@ -746,6 +750,13 @@ parts:
                 file: community-handbook/infrastructure/infrastructure-contributors
               - title: External Link Checking
                 file: community-handbook/infrastructure/infrastructure-external-link-check
+          - title: Communication Platforms
+            file: community-handbook/communication-channels
+            sections:
+              - title: Slack Start Guide
+                file: community-handbook/communication-channels/slack-start-guide
+              - title: Slack Welcome Guide
+                file: community-handbook/communication-channels/slack-welcome-guide
           - title: Monthly Newsletters
             file: community-handbook/newsletters
             sections:

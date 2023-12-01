@@ -19,11 +19,13 @@
 ## Summary
 This Chapter discusses planning and hosting events that are inclusive and accessible for people with lived experience and acts as a guide for how to design an inclusive event for all attendees. 
 It covers: 
-- planning and logistical considerations
-- guidance on how to evaluate and choose a location
-- considerations and requirements for developing a communications strategy
-- suggestions for how to create an inclusive and accessible agenda
-- accessible technology requirements and recommendations for hybrid events
+- {ref}`planning and logistical considerations<cl-inclusive-events-planning>`
+- {ref}`guidance on how to evaluate and choose a location<cl-inclusive-events-location>`
+- {ref}`considerations and requirement for developing a communications strategy<cl-inclusive-events-comms>`
+- {ref}`suggestions for how to create an inclusive and accessible agenda<cl-inclusive-events-schedule-planning>`
+- {ref}`accessible technology requirements and reccomendations for in-person, hybrid, and online events<cl-inclusive-events-technology>`
+- {ref}`suggestions for how to plan social or networking sessions<cl-inclusive-events-social-and-networking-guide>`
+- {ref}`guidance on how to design accessible content and presentation material<cl-inclusive-events-accessibility-guide>`
 - and provides a checklist that can be tailored to your specific event
 
 

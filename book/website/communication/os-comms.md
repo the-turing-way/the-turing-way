@@ -15,7 +15,7 @@ name: research-tools
 width: 500px
 alt: A few people are looking for different information about experiment, tools, privacy. There are different places or channels where these details can be identified, which is displayed in a findable manner.
 ---
-Idetifying right channel to communicate and find information. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+Identifying the right channel to communicate and find information. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 ## Motivation and Background
