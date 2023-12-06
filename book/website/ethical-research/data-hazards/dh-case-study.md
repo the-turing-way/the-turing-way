@@ -68,7 +68,7 @@ What did this process look like for us?
 
 **Speakers**
 A major part of putting together the agenda was all about picking our speakers.
-Speakers are what made our Symposium come alive, so we were eager to connect with different people to make sure our event had a mix of perspectives.
+Speakers are what made our symposium come alive, so we were eager to connect with different people to make sure our event had a mix of perspectives.
 
 When looking for speakers we:
 - reached out directly to keynote speakers whose research area or field considered data ethics and reproducibility.
@@ -82,7 +82,7 @@ When looking for speakers we:
 **Choosing a date and gauging interest:** 
 Before even asking for funding, we wanted to know if there was enough interest to organise a symposium. 
 So we reached out to our community *before beginning to organise* the symposium to gauge interest and spread the word. 
-This allowed us to know what other events were going on in our organisation and research field so that we could avoid clashes or busy times of the year.
+This allowed us to know what other events were going on in The Alan Turing Institute and research field so that we could avoid clashes or busy times of the year.
 
 **Eventbrite:** 
 After finding an available date for our interested participants, we chose to advertise our event on Eventbrite. 
@@ -98,8 +98,8 @@ Eventbrite worked well for us because:
 To make sure we kept attendees engaged and up to date, we emailed them before the event to:
 - encourage those who could no longer attend to cancel their reserved slot so that someone else could attend in their place. 
 - provide a small nudge and reminder that the event was happening.
-- provide participants a Code of Conduct and agenda in advance.
-- provide a zoom link for online participants (one-week in advance) and directions to the location of the symposium for those attending in-person. 
+- provide participants a code of conduct and agenda in advance.
+- provide a Zoom link for online participants (one-week in advance) and directions to the location of the symposium for those attending in-person. 
 
 This is what a template email could look like:
 
@@ -114,14 +114,14 @@ This is what a template email could look like:
 > Please cancel directly through Eventbrite or by emailing the organisers.
 > 
 > **Agenda**:
-> Please find the tentative agenda here (insert link). It is mostly set up by now, please keep your eyes open for final details in the coming days. We are looking forward to showcasing these wonderful people and talks.
+> Please find the tentative agenda here (add your own link here). It is mostly set up by now, please keep your eyes open for final details in the coming days. We are looking forward to showcasing these wonderful people and talks.
 > 
 > **Code of Conduct**:
-> We ask all attendees to familiarize themselves with the Code of Conduct for the event (add your own link here). Please do have a read in your own time in order to allow for an open and welcoming environment among all participants. 
+> We ask all attendees to familiarize themselves with the code of conduct for the event (add your own link here). Please do have a read in your own time in order to allow for an open and welcoming environment among all participants. 
 > 
 > **How to reach the Alan Turing Institute, Enigma room**:
 > Once you arrive to the main Alan Turing Reception area, there will be someone there to greet you and guide you towards the Enigma room.
-> Instructions on how to get to the Turing Institute can be found here (insert link).
+> Instructions on how to get to the Turing Institute can be found here (add your own link here).
 
 
 (er-datahazardscasestudy-organising-collaboration)=
@@ -132,8 +132,8 @@ Here we discuss the steps we took to reach out to volunteers, symposium collabor
 **Internal Teams**
 We had several collaborators from within our [organisation](https://www.turing.ac.uk/) including:
 - the **Skills Team** who assisted us with:
-    - completeing equity, diversity and inclusion assesment and data proctection forms.
-    - understanding the financial requirements of the event, from paying speaker travel expenses to setting-up a purchase order for an event caterer. 
+    - completing equity, diversity and inclusion assessment and data protection forms.
+    - understanding the financial requirements of the event, from paying speaker travel expenses to setting up a purchase order for an event caterer. 
     - providing grassroots funding to cover event expenses.
 - the **Facilities Team** who assisted with:
     - delivery of the catering on the day.
@@ -145,8 +145,8 @@ Volunteers were an essential part of the day, and our event would not have been 
 For clear communication with volunteers, we:
 - **provided an availability form** for volunteers to fill in, indicating specific sessions or hours they could help, what they would like to do, and their own accessibility requirements. 
 - **hosted an on-boarding call** to talk through the agenda and highlight the parts of the day where we would require help from volunteers.
-- **created a dedicated volunteer's Slack channel**, so that volunteers could ask questions relating to the event, and we could easily deal with any trouble shooting during the event.
-- [**created a final volunteer's task form**](), so that all volunteers had been assigned tasks before the event began 
+- **created a dedicated volunteer's Slack channel**, so that volunteers could ask questions relating to the event, and we could easily deal with any troubleshooting during the event.
+- [**created a final volunteer's task form**](https://hackmd.io/c2AnZHeRRtWaA_QRwobjsQ), so that all volunteers had been assigned tasks before the event began 
 
 
 (er-datahazardscasestudy-organising-catering)=
@@ -154,34 +154,37 @@ For clear communication with volunteers, we:
 For our event we choose a local, entirely vegan caterer, to align with the core values of the event. 
 To ensure successful ordering and delivery of the catering on the day we: 
 - estimated the number of attendees to provide catering - including volunteers, speakers and organisers. 
-- recieved a quote from the caterers in advance and ensure we had the budget to cover the quote.
-- collected dietary requirements to ensure that all attendees were catered for, and ensured the catering company recieved these requirements in advance. 
+- received a quote from the caterers in advance and ensured we had the budget to cover the quote.
+- collected dietary requirements to ensure that all attendees were catered for, and ensured the catering company received these requirements in advance. 
 - arranged a delivery time and location.
 - ensured payment to catering company as per company and organisation policies.
 
-Tip: make sure terms and conditions are read and timing requirements from different parties involved are clear from the beginning. It might be that the caterer you are ordering from requires a purchase order to be completed a certain time in order to complete the order action.
+Tip: make sure terms and conditions are read and timing requirements from different parties involved are clear from the beginning. 
+It might be that the caterer you are ordering from requires a purchase order to be completed at a certain time to complete the order action.
 
 
 (er-datahazardscasestudy-hosting)=
 ## Hosting the Event 
 There is already a chapter on {ref}`cl-organising-conferences` which includes an in-depth dive into requirements for accessibility. 
-Likewise there is also a section for {ref}`cm-comms-overview-accessibly`.
+Likewise, there is also a section for {ref}`cm-comms-overview-accessibly`.
 As well as on {ref}`cl-hybrid-collab-guidelines`. 
 
 From our experience, here are some extra tips on the day of the event.
 
 (er-datahazardscasestudy-hosting-startingevent)=
 ### Starting the Event 
-- As the hosts arrive in-person at least 1 hour prior to start time to ensure the zoom link and audio-visual equipment (speakers, screens and microphones) are all working.
+- As the hosts arrive in-person at least 1 hour prior to start time to ensure the Zoom link and audio-visual equipment (speakers, screens and microphones) are all working.
 - Open the online call early to allow for: 
     - volunteers to settle in and open any breakout-rooms.
     - participants to join in advance and set-up break out rooms for networking events and workshops later in the day.
 
 (er-datahazardscasestudy-hosting-hybridevent)=
 ### Hybrid Event Tips
-We chose to host the Symposium in a hybrid format as this would allow attendance for those interested in the topic, and speakers who would be unable to attend in-person.
-
-Thanks to the good communication with volunteers and the preparation of the room before the event, our hybrid format ran successfully without hiccups, even though this aspect of the event was challenging due to the number of tasks involved. Here we share some tips that helped us!
+We chose to host the symposium in a hybrid format as this would allow attendance for those interested in the topic, and speakers who would be unable to attend in-person.
+ 
+There are a lot of tasks involved in running a hybrid event. 
+Thanks to good communication with volunteers and preparing the room before the event, our hybrid format ran successfully without hiccups.
+Here we share some tips that helped us!
 
 To ensure a smooth hybrid event, we:
 - tested the physical room audio-visual the day before and the day of the event, to ensure there were multiple microphones and the capability for live Zoom recordings.
@@ -199,9 +202,10 @@ To ensure a smooth hybrid event, we:
 Below we provide some insight into what was important for us to consider during the event.
 
 **Code of Conduct**
-We put together a code of conduct for the event that reflected our values and the values of the community we aimed to create during the symposium. It also summarised the expectations of participants joining the symposium and laid out reporting guidelines and contact points for if the code of conduct was breached during the event.
+We put together a code of conduct for the event that reflected our values and the values of the community we aimed to create during the symposium. 
+It also summarised the expectations of participants joining the symposium and laid out reporting guidelines and contact points for if the code of conduct was breached during the event.
 
-Please find our Code of Conduct [here](https://hackmd.io/@7D_si7-qQwKdepUrj7_AzA/DER_CoC).
+Please find our code of conduct [here](https://hackmd.io/@7D_si7-qQwKdepUrj7_AzA/DER_CoC).
 
 Additionally, overall, below we highlight some points that we actioned to ensure that the hybrid format and the event were accessible:
 
@@ -209,7 +213,7 @@ Additionally, overall, below we highlight some points that we actioned to ensure
 - used [Otter.ai](https://otter.ai/), a speech-to-text transcription application using artificial intelligence and machine learning. 
   It shows captions for live speakers and generates written transcriptions. 
   Note: Otter.ai is not always sufficient as it has been trained on English and American accents, so further editing of subtitles or transcripts might be needed.
-- ensured all participants in-person were using microphones when speaking.
+- ensured all participants in person were using microphones when speaking.
   Microphones can be helpful for all hearing requirements, both online and in-person (don't assume everyone can hear equally).
 - provided regular accessibility breaks. 
 - reminded all participants which sections of the day would be recorded.
@@ -221,8 +225,12 @@ Additionally, overall, below we highlight some points that we actioned to ensure
 ## Hosting a Workshop: Data Hazards  
 The Data Hazards workshop was a key part of the symposium. 
 Participants engaged with a real-life research case study, presented by the researchers themselves, to evaluate the Data Hazards labels and which ones may apply. 
+The researcher gave a five-minute presentation on whole-cell models of _E. coli_. 
+Participants could then ask the researcher only factual questions about the project, for example, 'where did you collect your data from?'.
 There was collaboration between attendees, volunteers and the researcher to discuss the ethical context of the project.
-We split the attendees into smaller groups to facilitate discussion and provide a series of prompt questions.  
+We split the attendees into smaller groups to facilitate discussion and provide a series of prompt questions. 
+Each group then labelled the research project with the hazards they thought applied. 
+These were then fed back to the researcher for broader group discussions. 
 Details of the workshop run on the day are available in the {ref}`er-datahazardscasestudy-postevent-githubrepo`. 
 
 (er-datahazardscasestudy-postevent)=
@@ -244,7 +252,7 @@ Here we provide some feedback we were given after the event.
 
 **Positive Feedback:**
 - Attendees who came to the symposium with no experience of the data hazards enjoyed the interactive nature of the workshop, saying that: *'the structure of the course made it very easy to follow, and the case study element was very interactive with lots of opportunities to ask questions.'*
-- Attendees also enjoyed the wide applications of data ethics and reproducibility in the research space 
+- Attendees also enjoyed the wide applications of data ethics and reproducibility in the research space. 
 - Attendees enjoyed networking over lunch, and our [vegan catering](http://yellowkitchen.co.uk/) got lots of compliments! 
 
 **Constructive Feedback:**
@@ -254,7 +262,7 @@ Here we provide some feedback we were given after the event.
 
 (er-datahazardscasestudy-postevent-githubrepo)=
 ### GitHub Repository 
-To embody the topics of reproducibility and open science, we have shared Symposium content on a public GitHub repository. 
+To embody the topics of reproducibility and open science, we have shared symposium content on a public GitHub repository. 
 The aim of this is to help anyone who wants to run a workshop or symposium in the future consider the different elements of event organisation and hosting. 
 
 Find our full GitHub repository, including recordings of speakers, code of conduct, and forms [here](https://github.com/Susana465/der_symposium_20230310). 
@@ -280,4 +288,5 @@ In our experience organising and hosting an event was both stressful and fun!
 Hosting a hybrid event was challenging and required extra organisation and volunteers.
 But after all the effort we put into it, it ran smoothly and we were very proud to have both online and in-person attendance. 
 
-We also recognise the importance of {ref}`self reflection<er-self-reflection>` throughout the process of organising an event, and how our lived experiences gave us a particular lens on how we view the world. So ensuring we collaborated with others, and took on different points of view ensured a responsible, inclusive, and fair event! 
+We also recognise the importance of {ref}`self reflection<er-self-reflection>` throughout the process of organising an event, and how our lived experiences gave us a particular lens on how we view the world. 
+So ensuring we collaborated with others, and took on different points of view ensured a responsible, inclusive, and fair event! 
