@@ -1,5 +1,5 @@
 (rr-rdm-elns)=
-## Electronic Lab Notebooks
+# Electronic Lab Notebooks
 
 An Electronic Laboratory Notebook (commonly known as an ELN or a digital lab notebook) is a software system designed to help you document and maintain reproducibility of your research and share information more easily.
 ELNs enable researchers to organize and store experimental procedures, protocols, plans, notes, data, and even unfiltered interpretations using their computer or mobile device.
@@ -9,7 +9,7 @@ ELNs make the practice of open notebooks [{term}`def<Open Notebooks>`] practical
 However, it is important when choosing an ELN solution to avoid giving up the advantages offered by a paper lab notebook.
 
 (rr-rdm-elns-procon)=
-### ELNs Pros & Cons
+## ELNs Pros & Cons
 
 Electronic lab notebooks may provide, among other things, the following **functionalities**:
 
@@ -39,7 +39,7 @@ Always have an exit strategy in case the solution is no longer offered or if you
 User-friendliness and flexibility are important to accommodate the widely varying workflows of each lab member.
 
 (rr-rdm-choosing-an-eln)=
-### Choosing an ELN solution
+## Choosing an ELN solution
 
 The choice of ELN may have been made for you by your organisation.
 In this case you may have to live with the consequences of their choice, for good or ill.
@@ -135,7 +135,7 @@ It offers commercial support and hosting and has a network of developers across 
 This structure allows institutions to pool resources to fund the development of features that they all need and keeps this infrastructural code in common ownership, avoiding the worst lock-in issues arising from the use of proprietary solutions.
 
 (rr-rdm-open-elns)=
-### Select Open Infrastructure ELN Options
+## Select Open Infrastructure ELN Options
 
 They are each quite different but have many of the same core features.
 For example rich text editing in a web browser.
@@ -165,7 +165,7 @@ Sharing and permissions based on roles/groups.
     *   Whilst OSF can be hosted yourself this is presented by the project as for the purposes of development, and is not directly available as a paid service.
     *   Strong sharing features, makes it easy to take your ELN and make it, or parts of it, public.
 
-### Additional ELN resources
+## Additional ELN resources
 
 * [Electronic lab notebooks: can they replace paper?](https://doi.org/10.1186/s13321-017-0221-3) by {cite:ps}`Kanza2017eln`
 * [Electronic Lab Notebooks](https://datamanagement.hms.harvard.edu/collect-analyze/electronic-lab-notebooks) by Harvard Medical School
