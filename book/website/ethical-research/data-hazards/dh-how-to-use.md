@@ -45,7 +45,8 @@ Learning about the Data Hazard labels is usually part of a Data Hazards workshop
 (er-datahazardshowtouse-apply)=
 ## **2. Applying** the Data Hazard labels 
 Applying the labels means deciding which labels are relevant to a project.
-There is no prescriptive way to do this. However, we suggest one way to go through each label one at a time and decide why or why not it applies to your project.
+There is no prescriptive way to do this. 
+However, we suggest one way to go through each label one at a time and decide why or why not it applies to your project.
 
 - **What projects can I apply the labels to?** 
 
@@ -70,12 +71,13 @@ Data Hazards labels can be applied at any stage in the research life-cycle.
 Ideally, the best time to apply the labels is close to the beginning of the research project, at the same time as you might consider your university ethics process, or {ref}`cm-dif-articles-registered-reports` (you can also pre-register your Data Hazards analysis!). 
 However, much of our research builds on itself, so researchers have also found [workshops](https://datahazards.com/contents/materials/workshop.html) useful to reflect and plan what they can do better in follow-up projects.
 
-At the beginning of your workflow, you might want to prepare to avoid certain Data Hazards if you can, and if you can't avoid them because of where your data has come from, you may want to acknowledge this. For example, if you have a [sensitive data project](https://the-turing-way.netlify.app/project-design/sdp.html), what Data Hazard labels will apply, and/or what can you do to design your project in a way that avoids certain harms?
+At the beginning of your workflow, you might want to prepare to avoid certain Data Hazards if you can, and if you can't avoid them because of where your data has come from, you may want to acknowledge this. 
+For example, if you have a [sensitive data project](https://the-turing-way.netlify.app/project-design/sdp.html), what Data Hazard labels will apply, and/or what can you do to design your project in a way that avoids certain harms?
  
 As you are collecting and analyzing your data, you might want to iteratively think of the potential Data Hazards that exist in the information you are actively collecting. 
 If you have a project where data has already been collected in the past, you can still apply and think of what labels may be relevant to the dataset. 
 
-When you are reporting your results, it is recommended you also think of reporting mitigation strategies together with the labels; examples of how others have done this can be found [here](https://datahazards.com/contents/materials/examples.html). 
+When you are reporting your results, it is recommended you also think of reporting mitigation strategies together with the labels; [see examples of how others have done this](https://datahazards.com/contents/materials/examples.html). 
 This would then be helpful for people who see your outputs in the future. 
 They can be aware of potential risks as they proceed with the project, and continue to think of solutions to any issues related to the research topic.
 
@@ -97,8 +99,7 @@ The point of this is not to think of *all* the possible scenarios on how your wo
 
 To showcase your reflections and how you have applied the labels, displaying them can help people visualise their importance in your work.
 
-The Data Hazards website has some suggestions and templates on [how to present the labels](https://datahazards.com/contents/materials/presenting.html
-). 
+The Data Hazards website has some suggestions and templates on [how to present the labels](https://datahazards.com/contents/materials/presenting.html). 
 
 (er-datahazardshowtouse-contribute)=
 ## **Contributing** to Data Hazards materials
