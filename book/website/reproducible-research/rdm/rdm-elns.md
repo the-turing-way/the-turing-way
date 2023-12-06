@@ -34,7 +34,7 @@ Always have an exit strategy in case the solution is no longer offered or if you
 * **Sustainability**: Choose a solution that has a larger chance of being around for a long time.
 * **Drawing**: Not all solutions have the tools or capabilities to include drawings or integration with drawing software.
 * **Security**: Before using an ELN solution you should check any backup plans and data security measures, especially if you're working with sensitive data.
-* **Laboratory situation**: Your lab may not have an internet collection or electronic tools could affect samples, reagents or magnets in the lab. 
+* **Laboratory situation**: Your lab may not have an internet connection or electronic tools could affect samples, reagents or magnets in the lab. 
 * **Learning curve**: ELNs have a longer learning curve than paper notebooks and it takes time to learn how to use them.
 User-friendliness and flexibility are important to accommodate the widely varying workflows of each lab member.
 
