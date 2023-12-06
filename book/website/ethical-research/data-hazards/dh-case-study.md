@@ -1,17 +1,17 @@
 (er-datahazardscasestudy)=
 # Case Study: Data Ethics and Reproducibility Symposium and Data Hazards Workshop 
-We (the organisers: Ceilidh Welsh and Susana Roman Garcia) wanted to create an event that revolved around the Data Hazards framework. The event focused on showcasing how different people think about embedding ethics into the work that they do. 
+We (the organisers: Ceilidh Welsh and Susana Roman Garcia) wanted to create an event that revolved around the Data Hazards framework. 
+The event focused on showcasing how different people think about embedding ethics into the work that they do. 
 As PhD students, we both felt the need to connect our interest in creating more ethical and reproducible work with our project's scientific questions. 
 This passion for working more ethically brought us together, and we sought to see how other people are embedding ethics into their work. 
-As part of the Symposium, we hosted talks from PhD students who have been striving to make their work reproducible, how university lecturers might think of implementing Data Hazards into their material, and more (this is available in this {ref}`er-datahazardscasestudy-postevent-githubrepo`). 
-Creating and hosting an event is an inspiring and fulfilling experience. 
+We hosted talks from PhD students who have been striving to make their work reproducible, how university lecturers might think of implementing Data Hazards into their material, and more (this is available in this {ref}`er-datahazardscasestudy-postevent-githubrepo`). 
 We were able to connect with others, share knowledge and learn new skills throughout the process. 
 In this chapter, we would like to share with you our experiences, including some of the challenges we faced, and provide tips for people hosting events in the future. 
 
 (er-datahazardscasestudy-overview)=
 ## Overview 
 The Data Ethics and Reproducibility (DER) Symposium was a one-day event held at the Alan Turing Institute on March 10th 2023. 
-In total, we had eighteen attendees in-person and eighteen attendees online, not including volunteers and hosts. 
+In total, we had eighteen attendees in person and eighteen attendees online, not including volunteers and hosts. 
 This symposium aimed to showcase implementations of reproducibility and ethics for research, with a focus on Data Hazards.
 The symposium structure included a variety of speakers, an interactive workshop and networking opportunities. 
 
@@ -20,7 +20,7 @@ The workshop encourages attendees to explore, discuss and reflect on the ethical
 It was an opportunity for attendees to learn how to use the Data Hazards framework and see how it applies to different research projects.
 This allowed attendees to appreciate that ethics is complex, situational and important to discuss in our own contexts.
 
-**This case study is an account of our first-hand experiences organising and hosting an event. It may be useful to you if you would like to host or organise your own accessible workshop in data ethics and reproducibility (whether a Data Hazards workshop or not).** 
+```{note} **This case study is an account of our first-hand experiences organising and hosting an event. It may be useful to you if you would like to host or organise your own accessible workshop in data ethics and reproducibility (whether a Data Hazards workshop or not).**```
 
 For more detailed information and checklists, please see the Turing Way page for {ref}`Organising a Conference<cl-organising-conferences>`.
 
@@ -33,7 +33,7 @@ we hope to discuss the successes and challenges we might face, and importantly h
 **Goals for Event Organisers:** 
 To develop our skills in event management and organisation including:
 -  hosting event platforms for attendee registration.
--  questionaries and polls.
+-  questionnaries and polls.
 -  learn about accessibility considerations and requirements.
 -  equality impact assessments. 
 
@@ -53,7 +53,7 @@ Here we discuss the logistics for organising an event, from setting up and promo
 The first step was to put together some initial ideas for the agenda.
 We worked together using Google Docs. 
 We used Google Docs because it allowed us to easily share the documents with other people, and it was easy to access.
-We made sure that no private or sensitive data was shared in the Google Docs. 
+We made sure that no private or sensitive data was in any publicly shared Google Docs. 
 Our finalised agenda is [here](https://docs.google.com/document/d/13buQgzAbTTSWVtONXC3cnjegWapJ0CBkL7TBkqNNRqU/edit).
 What did this process look like for us?
  - brainstorming themed talks,
@@ -67,7 +67,8 @@ What did this process look like for us?
 *To make the event more accessible, it was important for us to **make sure there were enough 'bio breaks'** to allow people to stretch their bodies, use the toilet and take a breather.
 
 **Speakers**
-A major part of putting together the agenda was all about picking our speakers. Speakers are what made our Symposium come alive, so we were eager to connect with different people to make sure our event had a mix of perspectives.
+A major part of putting together the agenda was all about picking our speakers.
+Speakers are what made our Symposium come alive, so we were eager to connect with different people to make sure our event had a mix of perspectives.
 
 When looking for speakers we:
 - reached out directly to keynote speakers whose research area or field considered data ethics and reproducibility.
@@ -79,7 +80,8 @@ When looking for speakers we:
 ### Advertising the Event
 
 **Choosing a date and gauging interest:** 
-Before even asking for funding, we wanted to know if there was enough interest to organise a symposium. So we reached out to our community *before beginning to organise* the symposium to gauge interest and spread the word. 
+Before even asking for funding, we wanted to know if there was enough interest to organise a symposium. 
+So we reached out to our community *before beginning to organise* the symposium to gauge interest and spread the word. 
 This allowed us to know what other events were going on in our organisation and research field so that we could avoid clashes or busy times of the year.
 
 **Eventbrite:** 
