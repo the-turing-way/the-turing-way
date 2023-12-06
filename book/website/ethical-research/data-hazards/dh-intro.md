@@ -68,20 +68,20 @@ This also applies to the Data Hazard labels, where if we can identify the risks,
 
 ### Where did they come from?
 There were originally six labels, which were identified through reading data ethics papers at [Data Ethics Club](http://dataethicsclub.com): a fortnightly journal club for data science and ethics.
-Through collecting suggestions [on GitHub](), and at conferences and Data Hazards workshops, further labels were suggested and added until we reached the current 11 labels.
+Through collecting suggestions [on GitHub](https://github.com/very-good-science/data-hazards), and at conferences and Data Hazards workshops, further labels were suggested and added until we reached the current 11 labels as of November 2023.
 
 ### The Hazard labels are versioned
 <!--The Hazard labels are versioned!-->
-The Data Hazard labels are a living project and will continue to change as we gather more suggestions - for this reason, they are versioned using semantic versioning.
+The Data Hazard labels are a living project and will continue to change as we gather more suggestions - for this reason, they are versioned semantically.
 At the time of writing, in `v1.0`, there are 11 Data Hazard labels: you can [explore the Data Hazard labels yourself](https://datahazards.com/labels) on the Data Hazards website.
 
 (er-datahazardsintro-ethicalframeworks)=
 ## Ethical Frameworks 
-Ethical frameworks are perspectives useful for reasoning what course of action may provide the most moral outcome [cite].
-They can provide a toolkit to help researchers, stakeholders, developers, policy-makers and decision-makers understand what is required and should be considered when engaging in responsible research and innovation. 
+Ethical frameworks can provide a toolkit to help researchers, stakeholders, developers, policy-makers and decision-makers understand what is required and should be considered when engaging in responsible research and innovation. 
 Philosophically and socially, ethical frameworks have been considered broadly outside of data science and AI settings and projects.
 
-As not everyone may agree on a shared meaning of research ethics, there are many ethical frameworks available. Individuals may adopt and interpret ethical meanings based on unique priorities, personal needs, professional requirements or societal and cultural roles. 
+As not everyone may agree on a shared meaning of research ethics, there are many ethical frameworks available.
+Individuals may adopt and interpret ethical meanings based on unique priorities, personal needs, professional requirements or societal and cultural roles. 
 
 Some examples of ethical frameworks that already exist in scientific domains include: 
 
