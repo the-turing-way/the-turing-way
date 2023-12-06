@@ -5,7 +5,7 @@ An Electronic Laboratory Notebook (commonly known as an ELN or a digital lab not
 ELNs enable researchers to organize and store experimental procedures, protocols, plans, notes, data, and even unfiltered interpretations using their computer or mobile device.
 They can be a digital analogue to the paper notebook most researchers keep.
 ELNs can offer several advantages over the traditional paper notebook in documenting research during the active phase of a project, including; searchability within and across notebooks, secure storage with multiple redundancies, remote access to notebooks, and the ability to easily share notebooks among team members and collaborators.
-ELNs make the practice of open notebooks [{term}`def<Open Notebooks>`] practical in a way that it is not for paper lab books.
+ELNs make the practice of {ref}`open notebooks <rr-open-notebooks>` [{term}`def<Open Notebooks>`] practical in a way that it is not for paper lab books.
 However, it is important when choosing an ELN solution to avoid giving up the advantages offered by a paper lab notebook.
 
 (rr-rdm-elns-procon)=
