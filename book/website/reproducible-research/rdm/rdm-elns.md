@@ -105,7 +105,7 @@ This occured after they had reached a high degree of market penetration and been
 
 Many open tools on the other hand have very robust exort and import options, as they are not subject to this incentives trap, though this is far from garunteed.
 This might include a complete database export that would let you seemlessly migrate to a different deployment of the tool. 
-Or an archive of files organised by a e.g. a JSON file representation of your notes and files that retain most or all of the metadata and organisational information of your ELN.
+Or an archive of files organised by a for example a JSON file representation of your notes and files that retain most or all of the metadata and organisational information of your ELN.
 There remains the challenge when migrating of finding a tool that can import what your old tool exported, and retain most of all of its structure.
 This is where the development of standards for ELN formats could very valuable in the long run.
 
@@ -148,8 +148,8 @@ Sharing and permissions based on roles/groups.
     *   Self-hosting is *relatively* simple [according to the documentation](https://doc.elabftw.net/install.html).
     There is also a [paid support tier](https://www.deltablot.com/elabftw/) which would be recommend for any larger deployment to support the ongoing development of the project.
     *   [Paid cloud hosting](https://www.deltablot.com/elabftw/) is available from the developer in a geographical region suited to your needs, a more expensive tier with hosting in France compliant with additional security and privacy certifications is available.
-* [openBIS](https://openbis.ch/) {#sec-openbis}
-    *   Good features for integrated metadata management e.g. linking to ontologies / controlled vocabularies.
+* [openBIS](https://openbis.ch/)
+    *   Good features for integrated metadata management for example linking to ontologies / controlled vocabularies.
     This is based in a flexible object system for making similar entries.
     *   openBIS has an API and can integrate with jupyterhub for electronic lab notebooks.
     *   Very feature rich LIMS system with optional integration of stores management with protocols and experiments including keeping track of bar-coded stocks.
@@ -158,7 +158,7 @@ Sharing and permissions based on roles/groups.
     It's a slightly older and more complex project than the others on this list, meaning it is very featureful and well tested against the needs of the groups at ETH Zurich.
     *   Developed at ETH Zurich openBIS can be hosted for you under the openRDM service operated by ETH Zurich scientific IT services.
     No fixed pricing is available cost would be dependent on your specific needs
-* [OSF](https://osf.io/) {#sec-osf}
+* [OSF](https://osf.io/)
     *   OSF is oriented towards sharing and collaborating on your work, including the ability to generate DOIs and host pre-prints directly on the main instance.
     *   It is free to use OSF at the main instance at [osf.io](https://osf.io/) so you can try it out there directly.
     For larger data you must provide your own additional [storage addons, available from a number fo cloud storage providers](https://help.osf.io/article/395-storage-add-ons).
