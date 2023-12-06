@@ -25,7 +25,7 @@ alt: A group of people collaboratively developing a data visualisation by using 
 ## Tools
 
 -  [upset graphs](https://upset.app/) are a straightforward way to visualize set intersections in a matrix layout, which can help in analysing multiple datasets at once.
--  In Python Plotly, annotations and animations can serve as extra visual cues to highlight important features.
+-  Using **Python Plotly** you can add annotations and animations as extra visual cues to highlight important features.
   - [Annotating visualisations in Python plotly](https://medium.com/nerd-for-tech/enriching-data-visualizations-with-annotations-in-plotly-using-python-6127ff6e0f80) (blog and video)
   - [Animations using Python plotly](https://youtu.be/kMFvpmOaF2I)
 
