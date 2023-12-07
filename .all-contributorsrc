@@ -818,7 +818,8 @@
         "doc",
         "review",
         "code",
-        "infra"
+        "infra",
+        "bug"
       ]
     },
     {
