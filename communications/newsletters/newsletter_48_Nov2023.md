@@ -11,6 +11,8 @@ Stay in the loop with 'Community News' and 'Opportunities in _The Turing Way_ Or
 We will send our annual 'Year in Review' post your way.
 Meanwhile, cheers to a stellar 2023 with you all! 🎉
 
+_Important Notice: We are returning to our Gmail account to send this newsletter to ensure it reaches your mailbox._
+
 ---
 
 ## Fireside Chat featuring Practitioners Hub on 11 December!
