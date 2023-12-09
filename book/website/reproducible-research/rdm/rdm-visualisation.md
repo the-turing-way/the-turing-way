@@ -24,6 +24,7 @@ alt: A group of people collaboratively developing a data visualisation by using 
 (rr-rdm-visualisation-tools)=
 ## Tools
 
+-  [Datawrapper](https://www.datawrapper.de/), where you can upload your data to generate tables and charts.
 -  [upset graphs](https://upset.app/) are a straightforward way to visualize set intersections in a matrix layout, which can help in analysing multiple datasets at once.
 -  Using **Python Plotly** you can add annotations and animations as extra visual cues to highlight important features.
   - [Annotating visualisations in Python plotly](https://medium.com/nerd-for-tech/enriching-data-visualizations-with-annotations-in-plotly-using-python-6127ff6e0f80) (blog and video)
