@@ -83,16 +83,29 @@ In February 2020, The Turing Way embarked on an exciting evolution, expanding in
 This transformation wasn't just about adding more content; it was about embracing a holistic approach to empower a diverse community of contributors. 
 _The Turing Way_ is a perpetual 'work in progress,' shaped by the collective efforts of international contributors from research institutes, universities, government departments, and industry internationally.
 
-Each chapter is a result of large collaboration, attributed to _The Turing Way_ community, where every contributor is a co-author. 
-Explore about our contributors in {ref}`contributors-record`.
-Join them as we continue to shape the future of open science and make data science accessible to all!
-
 ![Gif showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table](https://media.giphy.com/media/gKIUisnjpj2PS75nOJ/giphy.gif)
 
+(welcome-team)=
+## Project Team and Governance
+
+The project is hosted under the Turing Institute's [Tools, Practices and Systems (TPS)](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) research programme and co-led by **Drs. Kirstie Whitaker** and **Malvika Sharan**.
+The project is coordinated and managed by the Research Community Manager **Anne Lee Steele** and Research Project Manager **Alexandra Araujo Alvarez**.
+
+As of December 2023, the project’s governance is represented by [30+ members and leaders](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) from our volunteer community and the Turing researchers.
+They lead or contribute to different subprojects within _The Turing Way_, that you can learn about in the {ref}`afterword section<subprojects>`.
+
+The book has been co-authored by 450+ project contributors dedicated to sharing and facilitating research best practices, tools and infrastructure.
+Each chapter is a result of large collaboration, attributed to _The Turing Way_ community, where every contributor is a co-author. 
+Several of our community members and contributors take on non-governance roles in _The Turing Way_ project and our community.
+Learn about them in {ref}`contributors-record`.
+
+Join us as we continue to shape the future of open science and make data science accessible to all!
+
+(welcome-funding)=
 ## Funding
 
 Since 2019, _The Turing Way_ has been supported and funded by [The Alan Turing Institute](https://www.turing.ac.uk/).
-In 2023, the project secured additional funding from the [InnovateUK BridgeAI](https://iuk.ktn-uk.org/programme/bridgeai/) to establish [_The Turing Way_ Practitioners Hub](https://www.turing.ac.uk/turing-way-practitioners-hub), expanding its impact through strategic collaborations with different organisations in their efforts to promote adoption of AI and open science. 
+In 2023, the project secured additional funding from the [InnovateUK BridgeAI](https://iuk.ktn-uk.org/programme/bridgeai/) to establish [_The Turing Way_ Practitioners Hub](https://www.turing.ac.uk/turing-way-practitioners-hub), expanding its impact through strategic collaborations with different organisations in their efforts to promote adoption of AI and open science.
 
 (welcome-citing)=
 ## Citing _The Turing Way_
