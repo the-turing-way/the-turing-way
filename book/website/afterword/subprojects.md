@@ -65,7 +65,7 @@ These subprojects are often time-bound and are supported by community members wh
 - Arya A., Johanna Bayer, Malvika Sharan: 2023 Google Summer of Code (GSoC) 
 
 **Maintainers**
-- [Arya A](https://the-turing-way.netlify.app/afterword/contributors-record#arya-a)
+- [Arya A.](https://the-turing-way.netlify.app/afterword/contributors-record#arya-a)
 - [Johanna Bayer](https://the-turing-way.netlify.app/afterword/contributors-record#johanna-bayer)
 - [Jim Madge](https://the-turing-way.netlify.app/afterword/contributors-record#jim-madge)
 
@@ -76,7 +76,7 @@ These subprojects are often time-bound and are supported by community members wh
 **Developers**
 
 - Malvika Sharan, Lydia France, Federico Nanni: : funded by AI for Science and Government in 2021-2022
-- Julien Colomb (in-kind from TU Berlin) and Jo Havemamm from Access to Perspective (funded by the Turing's Health Research Programme): 2023
+- Julien Colomb (in-kind from TU Berlin) and Jo Havemann from Access to Perspective (funded by the Turing's Health Research Programme): 2023
 
 **Maintainers**
 - [Julien Colomb](https://the-turing-way.netlify.app/afterword/contributors-record#julien-colomb)
