@@ -49,7 +49,7 @@ _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. 
 ### Calling Everyone In: Your Participation and Perspectives Matter!
 
 The Turing Way community is a open and collaborative space. 
-It is an ecosystem where researchers, coders, leaders, and curious minds come together to make research "too easy not to do." 
+It is an ecosystem where all stakeholders of data science come together to make research "too easy not to do." 
 We invest in socio-technical skills, fostering a team spirit to build something greater than any individual effort.
 
 ### Community Opportunities
