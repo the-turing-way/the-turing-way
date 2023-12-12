@@ -6,7 +6,7 @@ _Welcome to The Turing Way: Your Handbook to Reproducible, Ethical, and Collabor
 The Turing Way is more than a book; it's a global collaboration and a supportive community where everyone's voice matters, making collaboration the heart of our success.
 Rooted in open source, global collaboration, and community strength, _The Turing Way_ is shaping a future where data science is accessible, comprehensible, and beneficial for all.
 
-```{admonition} Quick Tip for Getting Started
+```{admonition} Top Tip
 :class: tip
 _The Turing Way_ is not meant to be read from start to finish. Start with what interests you!
 Whether it's a concept, a tool, or a method you need right now, jump in.
@@ -14,11 +14,11 @@ Check out the different guides or use the search box—it's all about what you w
 ```
 
 Whether you are a researcher, coder, project leader, community connector, funder, policymaker, or just curious about data, your unique role is vital in our journey to make data science understandable and impactful for all.
-Visit our [start page](https://the-turing-way.start.page/) to find ways to get involved.
+Visit our [start page](https://the-turing-way.start.page/) to get started.
 
 Let's make data science inclusive, together!
 
-```{figure} figures/theturingway-pathway
+```{figure} figures/theturingway-pathway.*
 ---
 name: welcome-image
 alt: The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.
@@ -32,17 +32,15 @@ _The Turing Way_ guides - an illustration by Scriberia and _The Turing Way_ comm
 (welcome-community)=
 ## Join _The Turing Way_
 
-Our mission is to equip researchers and data scientists across diverse sectors, including academia, industry, government, and the public, with the information and best practices they need at all stages of their work.
+Our mission is to empower researchers and data scientists worldwide, spanning academia, industry, government, and the public, providing the information and practices they need at every stage of their journey.
 
-We strive to foster a shared understanding of everyone's responsibility for reproducibility in data science, ensuring that the projects thet work on are responsible, reproducible, and easy to reuse.
+Together, we're building a shared understanding for everyone's responsibility for reproducibility in data science, making sure that the projects we work on are responsible, reproducible and easy to reuse.
 
-```{figure} figures/theturingway-chapters
----
-name: theturingway-chapters
-alt: The Turing Way Guide to reproducible research and it's stucture illustrated to show a set of doors to represent how it's built on chapters and sub chapters of the different areas of the guide
----
-_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
-```
+**What Awaits You**
+
+* Collaboration Beyond Boundaries: Engage in a global collaboration that transcends borders and welcomes diverse perspectives.
+* Skill Development: Learn a skills, share a skill that you have and contribute to projects in making a real impact.
+* Learn, Remix, Reuse: Dive into our resources, and feel free to remix and reuse materials (just remember to attribute as per our [License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)].
 
 **Calling Everyone In: Your Participation and Perspectives Matter!**
 
@@ -50,17 +48,18 @@ The Turing Way community is a open and collaborative space.
 It is an ecosystem where all stakeholders of data science come together to make research "too easy not to do." 
 We invest in socio-technical skills, fostering a team spirit to build something greater than any individual effort.
 
-
 ```{admonition} Translation
 :class: tip
 Call for translators! We’re looking for contributors to help translate this space for everyone! Read more about our translation workflow and how you can contribute to it in the {ref}`translation chapter<ch-translation>`.
 ```
 
-**Community Opportunities**
-
-* **Collaboration Beyond Boundaries**: Engage in a global collaboration that transcends borders and welcomes diverse perspectives.
-* **Skill Development**: Learn a skills, share a skill that you have and contribute to projects in making a real impact.
-* **Learn, Remix, Reuse**: Dive into our resources, and feel free to remix and reuse materials (just remember to attribute as per our [License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)].
+```{figure} figures/theturingway-chapters.*
+---
+name: theturingway-chapters
+alt: The Turing Way Guide to reproducible research and it's stucture illustrated to show a set of doors to represent how it's built on chapters and sub chapters of the different areas of the guide
+---
+_The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
+```
 
 ## Get Involved
 
@@ -72,9 +71,7 @@ Your journey with _The Turing Way_ is not just about contribution; it's about co
 More information about the community and the project is available in the {ref}`ch`.
 
 We are committed to creating a space where more people with diverse expertise and lived experiences can share their knowledge with others to allow us all to use data science to make a positive impact on the world.
-
 We hope you find the book helpful and join us in co-creating and maintaining _The Turing Way_.
-
 We welcome you to our community!
 
 (welcome-history)=
@@ -92,7 +89,7 @@ Join them as we continue to shape the future of open science and make data scien
 
 ![Gif showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table](https://media.giphy.com/media/gKIUisnjpj2PS75nOJ/giphy.gif)
 
-### Funding
+## Funding
 
 Since 2019, _The Turing Way_ has been supported and funded by [The Alan Turing Institute](https://www.turing.ac.uk/).
 In 2023, the project secured additional funding from the [InnovateUK BridgeAI](https://iuk.ktn-uk.org/programme/bridgeai/) to establish [_The Turing Way_ Practitioners Hub](https://www.turing.ac.uk/turing-way-practitioners-hub), expanding its impact through strategic collaborations with different organisations in their efforts to promote adoption of AI and open science. 
