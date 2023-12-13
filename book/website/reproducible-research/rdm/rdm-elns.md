@@ -116,7 +116,7 @@ This recent review {cite:ps}`higgins2022elns` provides a good overview of consid
 It covers such things a regulatory compliance that is not yet touched on here.
 It does occasionally appear to conflate open-source solutions with self-hosted ones which need not necessarily be the case.
 Some companies will let you host proprietary apps on premises or you can pay for third party hosting and administration of open source applications.
-This is important as if you don't have the expertise or internal resources to administer a self-hosted instance of an open-source ELN solution you can still pay a 3rd party to do this for you. 
+This is a solution when you don't have the expertise or internal resources to administer a self-hosted instance of an open-source ELN solution. 
 In This case you get the benefits of professional support and the reassurance of an open solution.
 When using an open solution it is always important to consider how you can contribute to its ongoing development and maintenence, for example by donating to the project or if it makes sense given the makeup of your organisation and that of the project contributing developer time.
 You should still take regular local backups of exports from your hosting provider from which you could restore your ELN system with different hosting.
