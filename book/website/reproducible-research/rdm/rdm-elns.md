@@ -63,7 +63,7 @@ On the other hand, ELNs - like all software - have security vulnerabilities.
 You are not dependent on the functioning of any complex systems like computer networks in order to be able to use your paper lab notebook.
 You do not need any specialist tools in order to access its contents.
 There is no reason why you might have to pay a 3rd party a fee in order to continue using it.
-You do not have to agree to a 'terms of service' or 'end-user license agreement' with a 3rd party, the terms of which may be subject to unilateral alteration by that 3rd party, in order to use and retain access to your lab book.
+You do not have to agree to a 'terms of service' or 'end-user license agreement' with a third party, the terms of which may be subject to unilateral alteration by that third party, in order to use and retain access to your lab book.
 
 If your provider of paper lab books goes out of business it has almost no bearing on your ability to continue doing your work.
 One paper notebook is much like another, finding a new provider is pretty easy.
