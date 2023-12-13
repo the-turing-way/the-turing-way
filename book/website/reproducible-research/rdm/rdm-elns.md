@@ -150,7 +150,7 @@ Sharing and permissions based on roles/groups.
     *   The eLabFTW [site](https://www.elabftw.net/) and [documentation](https://doc.elabftw.net/) there is also a [demo](https://demo.elabftw.net/login.php) deployment that you can try out
     *   Self-hosting is *relatively* simple [according to the documentation](https://doc.elabftw.net/install.html).
     There is also a [paid support tier](https://www.deltablot.com/elabftw/) which would be recommend for any larger deployment to support the ongoing development of the project.
-    *   [Paid cloud hosting](https://www.deltablot.com/elabftw/) is available from the developer in a geographical region suited to your needs, a more expensive tier with hosting in France compliant with additional security and privacy certifications is available.
+    *   [Paid cloud hosting](https://www.deltablot.com/elabftw/) is available from the developer in a geographical region suited to your needs. A more expensive tier with hosting in France compliant with additional security and privacy certifications is available.
 * [openBIS](https://openbis.ch/)
     *   Good features for integrated metadata management for example linking to ontologies / controlled vocabularies.
     This is based in a flexible object system for making similar entries.
