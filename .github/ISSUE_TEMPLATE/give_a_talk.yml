@@ -38,7 +38,7 @@ body:
     attributes:
       value: |
         ---
-        ⚠  _Warning_ ⚠
+        ⚠️  _Warning_ ⚠️
 
         _This issue will be automatically closed by a [GitHub Actions](https://docs.github.com/en/actions) workflow when more_
         _than 7 days have passed since the date of the talk. If you are still working_
