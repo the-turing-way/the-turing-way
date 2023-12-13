@@ -156,7 +156,7 @@ Sharing and permissions based on roles/groups.
     *   You can get a feel for it in the [demo](https://openbis-eln-lims.ethz.ch/openbis/webapp/eln-lims/) deployment.
     *   openBIS is a bit more complex to administer [based on its documentation](https://openbis.ch/index.php/docs/admin-documentation/).
     It's a slightly older and more complex project than the others on this list, meaning it is very featureful and well tested against the needs of the groups at ETH Zurich.
-    *   Developed at ETH Zurich openBIS can be hosted for you under the openRDM service operated by ETH Zurich scientific IT services.
+    *   As openBIS is developed at ETH Zurich it can be hosted for you under the openRDM service operated by ETH Zurich scientific IT services.
     No fixed pricing is available cost would be dependent on your specific needs
 * [OSF](https://osf.io/)
     *   OSF is oriented towards sharing and collaborating on your work, including the ability to generate DOIs and host pre-prints directly on the main instance.
