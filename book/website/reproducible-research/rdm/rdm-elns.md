@@ -115,7 +115,7 @@ This is where the development of standards for ELN formats could very valuable i
 This recent review {cite:ps}`higgins2022elns` provides a good overview of considerations when adopting an ELN solution. 
 It covers such things a regulatory compliance that is not yet touched on here.
 It does occasionally appear to conflate open-source solutions with self-hosted ones which need not necessarily be the case.
-Some companies will let you host proprietary apps on premises and conversely you can pay for 3rd party hosting and administration of open source applications.
+Some companies will let you host proprietary apps on premises or you can pay for third party hosting and administration of open source applications.
 This is important as if you don't have the expertise or internal resources to administer a self-hosted instance of an open-source ELN solution you can still pay a 3rd party to do this for you. 
 In This case you get the benefits of professional support and the reassurance of an open solution.
 When using an open solution it is always important to consider how you can contribute to its ongoing development and maintenence, for example by donating to the project or if it makes sense given the makeup of your organisation and that of the project contributing developer time.
