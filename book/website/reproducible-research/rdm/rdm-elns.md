@@ -100,7 +100,7 @@ The quality of this export is critical to scrutinise.
 The ability to save all your lab books as PDFs is fine but if it's the only option you may loose a lot of metadata, and the ability to import your data into a new solution. 
 Migration may cost you much of your data's structure.
 
-Proprietary solutions are incentivised to attempt to lock-in their customers so that the cost of switching to a competitor is high so be especially wary of poor export options.
+Proprietary solutions are incentivised to attempt to lock-in their customers so that the cost of switching to a competitor is high - so be especially wary of poor export options.
 Note that this tends to change over time. 
 New providers are focused on user aquisition so data portability tends to be good at first but decline if a firm has to shift from a growth phase to a steady state that is sustainably profitable.
 Mendeley for example began [encrypting their local database](https://www.zotero.org/support/kb/mendeley_import#mendeley_database_encryption) making it impossible to migrate your local library to different reference managers without going through their online library feature.
