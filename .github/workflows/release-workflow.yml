@@ -37,7 +37,7 @@ jobs:
         uses: peter-evans/create-pull-request@v3
         with:
           add-paths: .zenodo.json, CITATION.cff
-          commit-message: ":robot: Update citation.cff and .zenodo.json"
+          commit-message: "🤖 Update citation.cff and .zenodo.json"
           title: "[automated-pr] Update citation.cff and .zenodo.json"
           branch: release-workflow-bot
           delete-branch: true
