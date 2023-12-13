@@ -70,7 +70,8 @@ One paper notebook is much like another, finding a new provider is pretty easy.
 Changing providers does not impact on your ability to access your past notebooks or to continue operating with the same workflow in future ones.
 This is not necessarily true of ELNs.
 
-Few active measures are needed to maintain the data in your paper notebooks, they are vulnerable as they exist in only one copy but as long as they are kept in a cool, dry and dark spot for example a fireproof safe they will likely last decades.
+Few active measures are needed to maintain the data in your paper notebooks, they are vulnerable as they exist in only one copy. 
+Nevertheless, as long as they are kept in a cool, dry and dark spot for example a fireproof safe they will likely last decades.
 Electronic data requires much more active upkeep
 Electronic data can *if manged properly* be more resilient to physical threats such as fire and flooding as it can frequently be backed up in multiple locations.
 A hard drive or even a solid state drive however cannot be left in a draw for a decade or more and have a high likelihood of working without some amount of bitrot or compatability issue when plugged back in.
