@@ -95,7 +95,8 @@ They can still be used to read the data and interact with it in (mostly) the sam
 The data will also likely be stored in an open format from which it can relatively easily be extracted and ported to a new format.
 This may still be a lot of work but it is much more attainable than reverse engineering a proprietary format for which there is no documentation or worse - dealing with encrypted files.
 
-Most proprietary or open tools will permit you to export your data in one format or another, however the quality of this export is critical to scrutinise.
+Most proprietary or open tools will permit you to export your data in one format or another.
+The quality of this export is critical to scrutinise.
 The ability to save all your lab books as PDFs is fine but if it's the only option you may loose a lot of metadata, and the ability to import your data into a new solution. 
 Migration may cost you much of your data's structure.
 
