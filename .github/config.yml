@@ -30,7 +30,7 @@ newPRWelcomeComment: >
 
   - Make sure you have added your new chapter to the [Table of Contents](https://github.com/the-turing-way/the-turing-way/blob/main/book/website/_toc.yml)
 
-  <br>We have Continuous Integration tests that check the writing style and will help you track down any slip-ups ♻ 
+  <br>We have Continuous Integration tests that check the writing style and will help you track down any slip-ups ♻
   The Netlify bot will also comment with a preview of the book with your additions so you can see how it will look once it's merged! 🎉
 
   <br>We get a lot of pull requests on this repo, so please be patient and we will get back to you as soon as we can.
