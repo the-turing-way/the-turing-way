@@ -154,7 +154,7 @@ Sharing and permissions based on roles/groups.
 * [openBIS](https://openbis.ch/)
     *   Good features for integrated metadata management for example linking to ontologies / controlled vocabularies.
     This is based in a flexible object system for making similar entries.
-    *   openBIS has an API and can integrate with jupyterhub for electronic lab notebooks.
+    *   openBIS has an API and can integrate with Jupyterhub for Electronic Lab Notebooks.
     *   Very feature rich LIMS system with optional integration of stores management with protocols and experiments including keeping track of bar-coded stocks.
     *   You can get a feel for it in the [demo](https://openbis-eln-lims.ethz.ch/openbis/webapp/eln-lims/) deployment.
     *   openBIS is a bit more complex to administer [based on its documentation](https://openbis.ch/index.php/docs/admin-documentation/).
