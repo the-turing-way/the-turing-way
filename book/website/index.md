@@ -1,22 +1,24 @@
 (welcome)=
 # Welcome
 
-_Welcome to The Turing Way: Your Handbook to Reproducible, Ethical, and Collaborative Data Science._
+_Welcome to The Turing Way Handbook to Reproducible, Ethical, and Collaborative Data Science._
 
-The Turing Way is more than a book; it's a global collaboration and a supportive community where everyone's voice matters, making collaboration the heart of our success.
-Rooted in open source, global collaboration, and community strength, _The Turing Way_ is shaping a future where data science is accessible, comprehensible, and beneficial for all.
+_The Turing Way_ is an open source book, a global collaboration and a supportive community.
+We involve and collaborate with a diverse community of contributors to make data science accessible, comprehensible and beneficial for everyone.
 
 ```{admonition} Top Tip
 :class: tip
 _The Turing Way_ is not meant to be read from start to finish. Start with what interests you!
 Whether it's a concept, a tool, or a method you need right now, jump in.
-Check out the different guides or use the search box—it's all about what you want to learn
+Browse the different guides or use the search box —
+it's all about what you want to learn.
 ```
 
-Whether you are a researcher, coder, project leader, community connector, funder, policymaker, or just curious about data, your unique role is vital in our journey to make data science understandable and impactful for all.
-Visit our [start page](https://the-turing-way.start.page/) to get started.
+Our moonshot goal is to make reproducibility "too easy not to do"! 
+Whether you are a researcher, coder, project leader, community connector, funder, policymaker, or just curious about data, your unique role is crucial in this journey.
 
-Let's make data science inclusive, together!
+Let's make data science inclusive, together! 
+Visit our [start page](https://the-turing-way.start.page/) to get started. 🚀
 
 ```{figure} figures/theturingway-pathway.*
 ---
@@ -32,9 +34,8 @@ _The Turing Way_ guides - an illustration by Scriberia and _The Turing Way_ comm
 (welcome-community)=
 ## Join _The Turing Way_
 
-Our mission is to empower researchers and data scientists worldwide, spanning academia, industry, government, and the public, providing the information and practices they need at every stage of their journey.
-
-Together, we're building a shared understanding for everyone's responsibility for reproducibility in data science, making sure that the projects we work on are responsible, reproducible and easy to reuse.
+Our goal is to provide individuals and organizations in academia, industry, government, and the public sectors the information they need to ensure that their projects are easy to reproduce and reuse. 
+We encourage all stakeholders in data science to utilise _The Turing Way_ to understand their roles and responsibilities for reproducibility.
 
 **What Awaits You**
 
