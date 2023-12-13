@@ -106,7 +106,7 @@ New providers are focused on user aquisition so data portability tends to be goo
 Mendeley for example began [encrypting their local database](https://www.zotero.org/support/kb/mendeley_import#mendeley_database_encryption) making it impossible to migrate your local library to different reference managers without going through their online library feature.
 This occured after they had reached a high degree of market penetration and been aquired by Elsevier.
 
-Many open tools on the other hand have very robust exort and import options, as they are not subject to this incentives trap, though this is far from garunteed.
+Many open tools on the other hand have very robust export and import options, as they are not subject to this incentives trap, though this is far from guaranteed.
 This might include a complete database export that would let you seemlessly migrate to a different deployment of the tool. 
 Or an archive of files organised by a for example a JSON file representation of your notes and files that retain most or all of the metadata and organisational information of your ELN.
 There remains the challenge when migrating of finding a tool that can import what your old tool exported, and retain most of all of its structure.
