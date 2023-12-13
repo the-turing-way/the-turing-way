@@ -58,7 +58,8 @@ A paper lab notebook is physically under your control.
 You (or more likely your organisation) own it.
 You can control access to it physically.
 Your physical possession of this resource means that it would be difficult for anyone to prevent you from accessing it.
-Conversely it must be physically stolen to be accessed by a malicious 3rd party, ELNs like all software have security vulnerabilities.
+Conversely it must be physically stolen to be accessed by a malicious third party.
+On the other hand, ELNs - like all software - have security vulnerabilities.
 You are not dependent on the functioning of any complex systems like computer networks in order to be able to use your paper lab notebook.
 You do not need any specialist tools in order to access its contents.
 There is no reason why you might have to pay a 3rd party a fee in order to continue using it.
