@@ -218,8 +218,8 @@ These are each quite different but have many of the same core features.
 * [OSF](https://osf.io/)
     *   OSF is oriented towards sharing and collaborating on your work, including the ability to generate DOIs and host pre-prints directly on the main instance.
     *   It is free to use OSF at the main instance at [osf.io](https://osf.io/) so you can try it out there directly.
-    For larger data you must provide your own additional [storage addons, available from a number fo cloud storage providers](https://help.osf.io/article/395-storage-add-ons).
-    *   Whilst OSF can be hosted yourself this is presented by the project as for the purposes of development, and is not directly available as a paid service.
+        For larger data you must provide your own additional [storage addons, available from a number fo cloud storage providers](https://help.osf.io/article/395-storage-add-ons).
+    *   Whilst you could deploy your own self-hosted OSF this is not how it is intended to be used except for development.
     *   The OSF has strong sharing features, making it easy to share parts of your ELN publicly.
 
 When using an open solution it is always important to consider how you can contribute to its ongoing development and maintenence, for example by donating to the project.
