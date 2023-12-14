@@ -209,7 +209,6 @@ These are each quite different but have many of the same core features.
     *   openBIS has an API and can integrate with Jupyterhub for Electronic Lab Notebooks.
     *   You can get a feel for it in the [demo](https://openbis-eln-lims.ethz.ch/openbis/webapp/eln-lims/) deployment.
     *   openBIS is a bit more complex to administer [based on its documentation](https://openbis.ch/index.php/docs/admin-documentation/).
-    It's a slightly older and more complex project than the others on this list, meaning it is very featureful and well tested against the needs of the groups at ETH Zurich.
     *   As openBIS is developed at ETH Zurich it can be hosted for you under the openRDM service operated by ETH Zurich scientific IT services.
     No fixed pricing is available - cost would be dependent on your specific needs.
     
