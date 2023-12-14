@@ -199,7 +199,6 @@ Such a standard would, if properly adhered too, reduces the lock-in risk associa
 These are each quite different but have many of the same core features.
 
 *  [eLabFTW](https://www.elabftw.net/) 
-    *  Has features such as: Laboratory resource scheduling feature for booking things like hoods and microscopes, automatic mol file previews for molecules and proteins, and support for free-hand drawing.
     *   The eLabFTW [site](https://www.elabftw.net/) and [documentation](https://doc.elabftw.net/) there is also a [demo](https://demo.elabftw.net/login.php) deployment that you can try out
     *   Self-hosting is *relatively* simple [according to the documentation](https://doc.elabftw.net/install.html).
     *   [Paid cloud hosting](https://www.deltablot.com/elabftw/) is available from the developer in a geographical region suited to your needs. A more expensive tier with hosting in France compliant with additional security and privacy certifications is available.
