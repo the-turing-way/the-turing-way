@@ -205,6 +205,7 @@ These are each quite different but have many of the same core features.
         There is also a [paid support tier](https://www.deltablot.com/elabftw/) which would be recommend for any larger deployment to support the ongoing development of the project.
     *   [Paid cloud hosting](https://www.deltablot.com/elabftw/) is available from the developer in a geographical region suited to your needs.
         A more expensive tier with hosting in France compliant with additional security and privacy certifications is available.
+
 * [openBIS](https://openbis.ch/)
     *   Robust features for integrated metadata management for example linking to ontologies / controlled vocabularies.
         This is based in a flexible object system for making similar entries.
