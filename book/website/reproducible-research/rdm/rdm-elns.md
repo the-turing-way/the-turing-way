@@ -205,9 +205,8 @@ These are each quite different but have many of the same core features.
     There is also a [paid support tier](https://www.deltablot.com/elabftw/) which would be recommend for any larger deployment to support the ongoing development of the project.
     *   [Paid cloud hosting](https://www.deltablot.com/elabftw/) is available from the developer in a geographical region suited to your needs. A more expensive tier with hosting in France compliant with additional security and privacy certifications is available.
 * [openBIS](https://openbis.ch/)
-    *   Good features for integrated metadata management for example linking to ontologies / controlled vocabularies.
+    *   Robust features for integrated metadata management for example linking to ontologies / controlled vocabularies.
     *   openBIS has an API and can integrate with Jupyterhub for Electronic Lab Notebooks.
-    *   Very feature rich LIMS system with optional integration of stores management with protocols and experiments including keeping track of bar-coded stocks.
     *   You can get a feel for it in the [demo](https://openbis-eln-lims.ethz.ch/openbis/webapp/eln-lims/) deployment.
     *   openBIS is a bit more complex to administer [based on its documentation](https://openbis.ch/index.php/docs/admin-documentation/).
     It's a slightly older and more complex project than the others on this list, meaning it is very featureful and well tested against the needs of the groups at ETH Zurich.
