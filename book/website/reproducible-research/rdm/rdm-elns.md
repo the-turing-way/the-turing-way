@@ -202,15 +202,16 @@ These are each quite different but have many of the same core features.
     *  Has features such as: Laboratory resource scheduling feature for booking things like hoods and microscopes, automatic mol file previews for molecules and proteins, and support for free-hand drawing.
     *   The eLabFTW [site](https://www.elabftw.net/) and [documentation](https://doc.elabftw.net/) there is also a [demo](https://demo.elabftw.net/login.php) deployment that you can try out
     *   Self-hosting is *relatively* simple [according to the documentation](https://doc.elabftw.net/install.html).
-    There is also a [paid support tier](https://www.deltablot.com/elabftw/) which would be recommend for any larger deployment to support the ongoing development of the project.
     *   [Paid cloud hosting](https://www.deltablot.com/elabftw/) is available from the developer in a geographical region suited to your needs. A more expensive tier with hosting in France compliant with additional security and privacy certifications is available.
+        There is also a [paid support tier](https://www.deltablot.com/elabftw/) which would be recommend for any larger deployment to support the ongoing development of the project.
 * [openBIS](https://openbis.ch/)
     *   Robust features for integrated metadata management for example linking to ontologies / controlled vocabularies.
+        This is based in a flexible object system for making similar entries.
     *   openBIS has an API and can integrate with Jupyterhub for Electronic Lab Notebooks.
     *   You can get a feel for it in the [demo](https://openbis-eln-lims.ethz.ch/openbis/webapp/eln-lims/) deployment.
     *   openBIS is a bit more complex to administer [based on its documentation](https://openbis.ch/index.php/docs/admin-documentation/).
     *   As openBIS is developed at ETH Zurich it can be hosted for you under the openRDM service operated by ETH Zurich scientific IT services.
-    No fixed pricing is available - cost would be dependent on your specific needs.
+        No fixed pricing is available - cost would be dependent on your specific needs.
     
 * [OSF](https://osf.io/)
     *   OSF is oriented towards sharing and collaborating on your work, including the ability to generate DOIs and host pre-prints directly on the main instance.
