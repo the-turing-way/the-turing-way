@@ -199,9 +199,12 @@ Such a standard would, if properly adhered too, reduces the lock-in risk associa
 These are each quite different but have many of the same core features.
 
 *  [eLabFTW](https://www.elabftw.net/) 
+    *   Has features such as: Laboratory resource scheduling feature for booking things like hoods and microscopes, automatic mol file previews for molecules and proteins, and support for free-hand drawing.
+    *   eLabFTW has a [website](https://www.elabftw.net/), [documentation](https://doc.elabftw.net/) and there is a [demo](https://demo.elabftw.net/login.php) deployment that you can try out.
     *   Self-hosting is *relatively* simple [according to the documentation](https://doc.elabftw.net/install.html).
-    *   [Paid cloud hosting](https://www.deltablot.com/elabftw/) is available from the developer in a geographical region suited to your needs. A more expensive tier with hosting in France compliant with additional security and privacy certifications is available.
         There is also a [paid support tier](https://www.deltablot.com/elabftw/) which would be recommend for any larger deployment to support the ongoing development of the project.
+    *   [Paid cloud hosting](https://www.deltablot.com/elabftw/) is available from the developer in a geographical region suited to your needs.
+        A more expensive tier with hosting in France compliant with additional security and privacy certifications is available.
 * [openBIS](https://openbis.ch/)
     *   Robust features for integrated metadata management for example linking to ontologies / controlled vocabularies.
         This is based in a flexible object system for making similar entries.
