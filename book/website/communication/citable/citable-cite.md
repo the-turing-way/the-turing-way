@@ -68,7 +68,7 @@ To make your code citable, you can use the integration between [Zenodo](https://
 
 - Create a file to tell people how to cite your software. Use this [handy guide](https://citation-file-format.github.io/cff-initializer-javascript/) to format the file.
 - Link your GitHub account with a Zenodo account. This guide explains [how](https://guides.github.com/activities/citable-code/).
-- You can tell Zenodo what information or metadata you want to include with your software by adding a `zenodo.json` file, described [here](https://guide.esciencecenter.nl/#/citable_software/making_software_citable).
+- You can tell Zenodo what information or metadata you want to include with your software by adding a {ref}`CITATION.cff file <cm-citable-cff-how-to-create>`.
 - On Zenodo, flip the switch to the 'on' position for the GitHub repository you want to release.
 - On GitHub, click the *Create a new release* button.
 Zenodo should automatically be notified and should make a snapshot copy of the current state of your repository (just one branch, without any history), and should also assign a persistent identifier (DOI) to that snapshot.
