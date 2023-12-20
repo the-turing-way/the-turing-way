@@ -25,6 +25,8 @@ See also [FORCE11 resource](https://www.force11.org/node/4771).
 ## Citing Data
 When sharing a dataset, use the assigned DOI (from the data repository) and add this to your data availability statement at the end of the paper (similar to the acknowledgement section). 
 It is important to also cite your dataset in the references themselves, as only the citations in the reference section will contribute to citation counts.
+Data citation is important because it facilitates access, transparency and potentially reproducibility, reuse, and credit for researchers. 
+It also provides recognition and visibility for the repositories that share data.
 
 You can find examples of these statements in the publishers' (research data) author policies.
 
@@ -45,6 +47,9 @@ You can find examples of these statements in the publishers' (research data) aut
 -  “The data that support the findings of this study are available upon request.
 Access conditions and procedures can be found at [URL to restricted access repository such as [EASY](https://easy.dans.knaw.nl/ui/home).]”
 
+**When code is shared:**
+- Data and code to reproduce the results shown in the paper can be obtained from The Turing Way (2023) at Zenodo ([https://zenodo.org/doi/10.5281/zenodo.3233853](https://zenodo.org/doi/10.5281/zenodo.3233853)) and GitHub ([https://github.com/the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)). We used R version 4.2.2 (*use citation() to check the suggested citation*) and the following R packages: ggplot2 ([Wickham 2016](https://cran.r-project.org/web/packages/ggplot2/citation.html)), another example (*and citation added to the references!*). 
+
 **More Data Availability Statement examples:**
 
 You can find more examples on the [Manchester's Data Access Statements page](https://www.library.manchester.ac.uk/using-the-library/staff/research/research-data-management/sharing/data-access-statements/), the [Cambridge Data Availability Statement examples](https://www.cambridge.org/core/services/authors/open-data/data-availability-statements), the [AMS Data Availability Statement examples](https://www.ametsoc.org/index.cfm/ams/publications/author-information/formatting-and-manuscript-components/data-availability-statement-examples/), or [Nature's Tips for writing a dazzling Data Availability Statement](https://researchdata.springernature.com/posts/tips-for-writing-a-dazzling-das-data-availability-statement).
@@ -54,6 +59,7 @@ You can find more examples on the [Manchester's Data Access Statements page](htt
 
 A software citation has a lot of the same elements as a data citation, described above, and are described in more detail in the [Software Citation Principles](https://www.force11.org/software-citation-principles).
 When using others software, it is vital to cite and attribute it properly.
+See also [How to Cite R and R Packages](https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/) for more information.
 
 ::::{tab-set}
 :::{tab-item} GitHub
