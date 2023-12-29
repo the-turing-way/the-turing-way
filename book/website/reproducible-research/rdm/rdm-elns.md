@@ -65,7 +65,7 @@ Finding software with the flexibility, capability, and scope to keep up is not e
 -   Shadow IT/notebooks
     -   People using their own unsactioned solutions which may be a compliance issue and introduce risks that you have not accounted for.
 -   Infrequent updates
-    -   People dump a copy of their work into the ELN as only often as necesary for compliance.
+    -   People dump a copy of their work into the ELN only as often as necessary for compliance.
 -   Consistency issues
     -   If there are paper and potentially multiple electronic copies of some information what happens when it does not agree? - what's the source of truth?
 -   Partial adoptions can lead to information which was previous predictably structured in lab notebooks being spread across multiple IT systems and physical copies
