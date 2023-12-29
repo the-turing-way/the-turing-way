@@ -160,7 +160,8 @@ Using open tools breaks this up affording you the flexibility to change any of t
 ### Automation and integration
 
 ELNs with APIs have the potential for integration with instruments that would permit direct deposition of data from connected instruments into ELNs or other connected research data management infrastructure.
-These sorts of integrations are especially useful in workflows at core facilities such as bioimaging facilities who can do things like automate a substancial part of the image metadata deposition into image data management tools such as [OMERO](https://www.openmicroscopy.org/omero/).
+These sorts of integrations are especially useful in workflows at core facilities. 
+For example, bioimaging facilities can automate a substantial part of the image metadata deposition into image data management tools such as [OMERO](https://www.openmicroscopy.org/omero/).
 
 (rr-rdm-elns-standards)=
 ## ELN standards and Project governance
