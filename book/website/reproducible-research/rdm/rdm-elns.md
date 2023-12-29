@@ -11,7 +11,7 @@ However, it is important when choosing an ELN solution to avoid giving up the ad
 (rr-rdm-elns-procon)=
 ## Quick Pros & Cons of ELNs
 
-Electronic lab notebooks may provide, among other things, the following **functionalities**:
+Electronic Lab Notebooks may provide, among other things, the following **functionalities**:
 
 * A text editor with similar functions as a paper notebook
 * A search function
