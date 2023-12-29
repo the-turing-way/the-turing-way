@@ -146,7 +146,7 @@ For example keeping copies of the ELN software that can be run offline in a VM o
 This is typically much easier for open applications and can be impossible for proprietary ones.
 Even if the tools are no longer maintained and in a state that can be used in production they can still be used to read the data and interact with it in (mostly) the same way.
 The data will also likely be stored in an open format from which it can relatively easily be extracted and ported to a new format.
-This may still be a lot of work but it is much more attainable than reverse engineering a proprietary format for which there is no documentation or worse - dealing with encrypted files.
+This may still be a lot of work but it is much more attainable than reverse engineering a proprietary format for which there is no documentation, or worse - dealing with encrypted files.
 
 You can pay for third party hosting and administration of open source applications.
 This is a solution when you don't have the expertise or internal resources to administer a self-hosted instance of an open-source ELN solution. 
