@@ -131,7 +131,7 @@ Note that this tends to change over time.
 New providers are focused on user aquisition so data portability tends to be good at first but decline after a certain point in time.
 Firms tends to follow a pattern of shifting from a user aquisiton phase with favourable terms, to a user retention phase with less favourable ones.
 Mendeley for example began [encrypting their local database](https://www.zotero.org/support/kb/mendeley_import#mendeley_database_encryption) making it impossible to migrate your local library to different reference managers without going through their online library feature.
-This occured after they had reached a high degree of market penetration and been aquired by Elsevier.
+This occurred after they had reached a high degree of market penetration and had been acquired by Elsevier.
 
 When looking for any critical piece of software for long term use the first questions to ask are:
 - Is there an Libre / open-source solution to this problem?
