@@ -150,7 +150,7 @@ This may still be a lot of work but it is much more attainable than reverse engi
 
 You can pay for third party hosting and administration of open source applications.
 This is a solution when you don't have the expertise or internal resources to administer a self-hosted instance of an open-source ELN solution. 
-In this case you get the best of both worlds, the benefits of professional support and the reassurance of an open solution.
+In this case you get the best of both worlds: the benefits of professional support and the reassurance of an open solution.
 You should still take regular local backups of exports from your hosting provider from which you could restore your ELN system with different hosting.
 This means that you retain the option to change providers.
 Conventional Software as a Service (SaaS) platforms are highly vertically integrated: the software development, hosting, and administration are package deal that you must take or leave as is.
