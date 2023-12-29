@@ -46,7 +46,7 @@ If you are in a position to choose an ELN to use, or are making a choice on beha
 (rr-rdm-elns-choosing-importance)=
 ### Importance of getting it right
 
-Many organisations offer software that purports to solve the problem of electronic lab notebooks.
+Many organisations offer software that purports to solve the problem of ELNS.
 So choosing a suitable solution can be a major headache and a major responsibility.
 The choice of ELN is an incredibly important decision, and one that your organisation will likely have live with for years, or even decades.
 You are putting the record of your research into the hands of the tool that you choose, and entering into a long-term relationship with the provider of your ELN solution.
