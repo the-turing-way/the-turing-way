@@ -196,7 +196,7 @@ Such a standard would, if properly adhered too, reduces the lock-in risk associa
 (rr-rdm-eln-open-elns)=
 ## Select Open Infrastructure ELN Options
 
-These are each quite different but have many of the same core features.
+The following ELN options are each quite different but have many of the same core features.
 
 *  [eLabFTW](https://www.elabftw.net/) 
     *   Has features such as: Laboratory resource scheduling feature for booking things like hoods and microscopes, automatic mol file previews for molecules and proteins, and support for free-hand drawing.
