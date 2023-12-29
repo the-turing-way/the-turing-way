@@ -168,7 +168,7 @@ These sorts of integrations are especially useful in workflows at core facilitie
 ELNs offer many advantages over paper notebooks but they come with a considerable amount of additional complexity and a number of additional risks that it is important to have a plan to mitigate when proceeding with their adoption.
 The ELN space is still quite young and rapildy changing.
 ELNs represent a key component of digital infrastructure for the future of research.
-As such it is important to think about how the academic commuity collectively wants this infrastructure to be owned and governed in the long run at this stage in the adoption of ELNs.
+As such it is important to think about how the academic community wants the ELN infrastructure to be owned and governed in the long run.
 An interesting model to consider emulating here is [moodle](https://moodle.com/), an open source electronic learning environment popular with universities.
 It offers commercial support and hosting and has a network of developers across the education sector who contribute to the core project, as well as creating custom integrations and extensions to meet their particular needs.
 This structure allows institutions to pool resources to fund the development of features that they all need and keeps this infrastructural code in common ownership, avoiding the worst lock-in issues arising from the use of proprietary solutions.
