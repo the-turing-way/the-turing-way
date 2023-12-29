@@ -47,7 +47,7 @@ If you are in a position to choose an ELN to use, or are making a choice on beha
 ### Importance of getting it right
 
 Many organisations offer software that purports to solve the problem of ELNS.
-So choosing a suitable solution can be a major headache and a major responsibility.
+So choosing a suitable solution can be a major headache and responsibility.
 The choice of ELN is an incredibly important decision, and one that your organisation will likely have live with for years, or even decades.
 You are putting the record of your research into the hands of the tool that you choose, and entering into a long-term relationship with the provider of your ELN solution.
 You are also making a choice about a tool that many of the people in your organisation will interface with closely every day.
