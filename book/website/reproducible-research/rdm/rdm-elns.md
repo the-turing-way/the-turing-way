@@ -67,7 +67,7 @@ Finding software with the flexibility, capability, and scope to keep up is not e
 -   Infrequent updates
     -   People dump a copy of their work into the ELN only as often as necessary for compliance.
 -   Consistency issues
-    -   If there are paper and potentially multiple electronic copies of some information what happens when it does not agree? - what's the source of truth?
+    -   If there are paper and potentially multiple electronic copies of some information - what happens when it does not agree? What is the source of truth?
 -   Partial adoptions can lead to information which was previous predictably structured in lab notebooks being spread across multiple IT systems and physical copies
 -   Practical use and interface issues
     -   Laptops or tablets can intrduce interface barriers 
