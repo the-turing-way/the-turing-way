@@ -169,7 +169,7 @@ ELNs offer many advantages over paper notebooks but they come with a considerabl
 The ELN space is still quite young and rapildy changing.
 ELNs represent a key component of digital infrastructure for the future of research.
 As such it is important to think about how the academic commuity collectively wants this infrastructure to be owned and governed in the long run at this stage in the adoption of ELNs.
-An interesting model to consider emulating here is [moodle](https://moodle.com/) an open source electronic learning environment popular with universities.
+An interesting model to consider emulating here is [moodle](https://moodle.com/), an open source electronic learning environment popular with universities.
 It offers commercial support and hosting and has a network of developers across the education sector who contribute to the core project, as well as creating custom integrations and extensions to meet their particular needs.
 This structure allows institutions to pool resources to fund the development of features that they all need and keeps this infrastructural code in common ownership, avoiding the worst lock-in issues arising from the use of proprietary solutions.
 This more open distributed model also allows individuals to work on their own custom extensions and integrations instead of being reliant on the ability and willingness of a company to implement a feature that you need.
