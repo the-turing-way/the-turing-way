@@ -184,7 +184,7 @@ Such a standard would, if properly adhered too, reduces the lock-in risk associa
 ## Resources for choosing ELNs
 
 - [How to pick an electronic laboratory notebook](https://doi.org/10.1038/d41586-018-05895-3) by {cite:ps}`Kwok2018eln`
-- [2019 Review of the Best Electronic Laboratory Notebooks](https://app.scientist.com/blog/2019/04/05/2019-review-of-the-best-electronic-laboratory-notebooks) may help you to find your solution!
+- [2019 Review of the Best Electronic Laboratory Notebooks](https://app.scientist.com/blog/2019/04/05/2019-review-of-the-best-electronic-laboratory-notebooks).
 - [Guide on choosing an ELN from Simon Bungers of Labfolder](https://labfolder.com/electronic-lab-notebook-eln-research-guide/).
 - The Harvard Longwood Medical Area Research Data Management Working Group Constructed an [Electronic Lab Notebook Comparison Matrix](https://doi.org/10.5281/zenodo.4723753) in 2021, for convenience [a nicely formatted google sheet version](https://docs.google.com/spreadsheets/d/1ar8fgwagOh30E31EAPL-Gorwn_g6XNf81g3VDQnQ_I8/edit#gid=0), is also available.
 - This recent review {cite:ps}`higgins2022elns` provides a good overview of considerations when adopting an ELN solution. 
