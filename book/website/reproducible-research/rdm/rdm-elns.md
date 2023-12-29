@@ -41,7 +41,7 @@ User-friendliness and flexibility are important to accommodate the widely varyin
 (rr-rdm-elns-choosing)=
 ## Choosing an ELN solution
 
-If you are in a position to choose an ELN to use, or are making a choice on behalf of an organisation here are some factors to consider.
+If you are in a position to choose an ELN to use, or are making a choice on behalf of an organisation there are some factors to consider:
 
 (rr-rdm-elns-choosing-importance)=
 ### Importance of getting it right
