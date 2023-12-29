@@ -82,7 +82,8 @@ Finding software with the flexibility, capability, and scope to keep up is not e
 (rr-rdm-elns-choosing-compare-to-paper)=
 ### Always compare to paper notebooks
 
-When picking an ELN remember to always compare the ELN to a paper notebook not just to other ELNs, it's likely paper that you are replacing so it is the benchmark against which to compare.
+When picking an ELN remember to always compare the ELN to a paper notebook and not just to other ELNs.
+It is likely paper that you are replacing so this is the benchmark against which to compare.
 Consider the differences between a paper copy of a lab notebook and an electronic copy.
 Consider also which are the properties of a paper copy that it is important that you are able to retain when adopting an electronic alternative.
 
