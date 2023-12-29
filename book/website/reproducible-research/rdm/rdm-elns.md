@@ -165,7 +165,8 @@ These sorts of integrations are especially useful in workflows at core facilitie
 (rr-rdm-elns-standards)=
 ## ELN standards and Project governance
 
-ELNs offer many advantages over paper notebooks but they come with a considerable amount of additional complexity and a number of additional risks that it is important to have a plan to mitigate when proceeding with their adoption.
+ELNs offer many advantages over paper notebooks.
+Nevertheless, ELNs come with a considerable amount of additional complexity and additional risks - so it is important to have a mitigation plan.
 The ELN space is still quite young and rapildy changing.
 ELNs represent a key component of digital infrastructure for the future of research.
 As such it is important to think about how the academic community wants the ELN infrastructure to be owned and governed in the long run.
