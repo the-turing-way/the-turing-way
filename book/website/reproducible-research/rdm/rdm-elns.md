@@ -221,7 +221,7 @@ These are each quite different but have many of the same core features.
     *   Whilst you could deploy your own self-hosted OSF this is not how it is intended to be used except for development.
     *   The OSF has strong sharing features, making it easy to share parts of your ELN publicly.
 
-When using an open solution it is always important to consider how you can contribute to its ongoing development and maintenence, for example by donating to the project.
+When using an open solution it is always important to consider how you can contribute to its ongoing development and maintenance, for example by donating to the project.
 If it makes sense given the makeup of your organisation and that of the project you may also be able to contribute developer time to the project.
 
 (rr-rdm-additional-eln-resources)=
