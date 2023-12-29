@@ -74,7 +74,7 @@ Finding software with the flexibility, capability, and scope to keep up is not e
         -   Lab gloves may hamper the use of touchscreens and track pads.
         -   Free-hand drawing or use of notation not easily represented in simple text such as mathematical and chemical notation
         -   Performant native applications for devices are not always available, notebooks only accessible through web apps can have performance issues that make their interfaces frustrating to use
-        -   In a physical book people use a lot they remember spacially where things are they pick it up and open it immediately to roughly the right page
+        -  No spatial memory, whereas in a physical book people may remember where they wrote things and can open it roughly on the right page.
 
 -   lack of sufficiently available training on more complex aspects of the ELN solution leading to poor, mis-use, or under-use of ELN features
     -   Extra expense, maintenence & procurement issues with hardware suitable for use in your research environment
