@@ -76,7 +76,7 @@ Finding software with the flexibility, capability, and scope to keep up is not e
         -   Performant native applications for devices are not always available, notebooks only accessible through web apps can have performance issues that make their interfaces frustrating to use
         -  No spatial memory, whereas in a physical book people may remember where they wrote things and can open it roughly on the right page.
 
--   lack of sufficiently available training on more complex aspects of the ELN solution leading to poor, mis-use, or under-use of ELN features
+-   Lack of sufficiently available training on more complex aspects of the ELN solution leading to poor, mis-use, or under-use of ELN features.
     -   Extra expense, maintenence & procurement issues with hardware suitable for use in your research environment
 
 (rr-rdm-elns-choosing-compare-to-paper)=
