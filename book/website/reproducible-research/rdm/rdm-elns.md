@@ -62,7 +62,7 @@ People will avoid using ill-fitting tools that they perceive them to be getting 
 They are creative, stubborn, resourceful, and impatiently focused on anwsering their research questions with watever tools are available to them. 
 They are a very demanding userbase, they are pedantically attentive to detail and have a lot of diverse and rapidly changing niche use cases which need to work just right.
 They also don't like being told what to do.
-Finding software the flexibility, capability, and scope to keep up is not easy and if it doesn't they won't use it, at least not as you indented.
+Finding software with the flexibility, capability, and scope to keep up is not easy and if it doesn't researchers won't use it - at least not as you indented.
 
 -   Shadow IT/notebooks
     -   People using their own unsactioned solutions which may be a compliance issue and introduce risks that you have not accounted for
