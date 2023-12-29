@@ -208,7 +208,7 @@ These are each quite different but have many of the same core features.
 * [openBIS](https://openbis.ch/)
     *   Robust features for integrated metadata management for example linking to ontologies / controlled vocabularies.
     *   openBIS has an API and can integrate with Jupyterhub for Electronic Lab Notebooks.
-    *   Complete laboratory inventory managment system (LIMS) including stores management integrated with protocols and experiment records, including keeping track of bar-coded stocks.
+    *   Complete Laboratory Inventory Nanagement System (LIMS) including stores management integrated with protocols and experiment records, including keeping track of bar-coded stocks.
     *   You can get a feel for it in the [demo](https://openbis-eln-lims.ethz.ch/openbis/webapp/eln-lims/) deployment.
     *   openBIS is a bit more complex to administer [based on its documentation](https://openbis.ch/index.php/docs/admin-documentation/).
     *   As openBIS is developed at ETH Zurich it can be hosted for you under the openRDM service operated by ETH Zurich scientific IT services.
