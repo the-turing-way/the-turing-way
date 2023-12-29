@@ -228,7 +228,7 @@ If it makes sense given the makeup of your organisation and that of the project 
 (rr-rdm-additional-eln-resources)=
 ## Additional ELN resources
 
-* [Electronic lab notebooks: can they replace paper?](https://doi.org/10.1186/s13321-017-0221-3) by {cite:ps}`Kanza2017eln`
+* [Electronic Lab Notebooks: can they replace paper?](https://doi.org/10.1186/s13321-017-0221-3) by {cite:ps}`Kanza2017eln`
 * [Electronic Lab Notebooks](https://datamanagement.hms.harvard.edu/collect-analyze/electronic-lab-notebooks) by Harvard Medical School
 * [RSpace](https://www.researchspace.com/)
 
