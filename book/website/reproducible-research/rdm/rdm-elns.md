@@ -70,7 +70,7 @@ Finding software with the flexibility, capability, and scope to keep up is not e
     -   If there are paper and potentially multiple electronic copies of some information - what happens when it does not agree? What is the source of truth?
 -   Partial adoptions can lead to information which was previous predictably structured in lab notebooks being spread across multiple IT systems and physical copies
 -   Practical use and interface issues
-    -   Laptops or tablets can intrduce interface barriers 
+    -   Laptops or tablets can introduce interface barriers 
         -   Lab gloves may hamper the use of touchscreens and track pads.
         -   Free-hand drawing or use of notation not easily represented in simple text such as mathematical and chemical notation
         -   Performant native applications for devices are not always available, notebooks only accessible through web apps can have performance issues that make their interfaces frustrating to use
