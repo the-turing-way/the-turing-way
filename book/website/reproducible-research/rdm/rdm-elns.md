@@ -51,7 +51,7 @@ So choosing a suitable solution can be a major headache and responsibility.
 The choice of ELN is an incredibly important decision, and one that your organisation will likely have live with for years, or even decades.
 You are putting the record of your research into the hands of the tool that you choose, and entering into a long-term relationship with the provider of your ELN solution.
 You are also making a choice about a tool that many of the people in your organisation will interface with closely every day.
-Having to use a tool that is not well fit to it function on a daily basis can be a major problem for productivity and morale.
+Having to use a tool that is not well fit to its function on a daily basis can be a major problem for productivity and morale.
 Conversely, a tool that is a good fit gets out of people's way and makes their jobs easier can be a major boost to productivity and morale.
 
 (rr-rdm-elns-choosing-failure-modes)=
