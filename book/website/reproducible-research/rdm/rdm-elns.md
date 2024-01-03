@@ -60,7 +60,7 @@ Conversely, a tool that is a good fit gets out of people's way and makes their j
 Incomplete or inflexible ELN solutions which increase friction in workflows can cause issues.
 People will avoid using ill-fitting tools that they perceive them to be getting in their way, especially scientists.
 They are creative, stubborn, resourceful, and impatiently focused on anwsering their research questions with watever tools are available to them. 
-Finding software with the flexibility, capability, and scope to keep up is not easy and if it doesn't researchers won't use it - at least not as you indented.
+Finding software with the flexibility, capability, and scope to keep up is not easy and if it doesn't researchers won't use it - at least not as you intended.
 
 -   Shadow IT/notebooks
     -   People using their own unsactioned solutions which may be a compliance issue and introduce risks that you have not accounted for.
