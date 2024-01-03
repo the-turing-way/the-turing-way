@@ -116,7 +116,7 @@ A hard drive, or even a solid state drive, however, cannot be left in a draw for
 
 Lab notebooks perform an archival function and proprietary formats are antithetical to this as they assume the institution which can act as a gatekeeper to the use of the proprietary format will outlive the need to archive the material.
 When choosing an archival format one seeks to maximize the likelihood that one can recover the relevant information from that format.
-Using a proprietary solution for archival purposes is talking a needless risk with the future of your data.
+Using a proprietary solution for archival purposes is taking a needless risk with the future of your data.
 Your data's fate can become tied to that of the company, or project, that develops and operates the software that you use to store your lab notes.
 
 (rr-rdm-elns-choosing-lockin)=
