@@ -15,7 +15,7 @@ Electronic Lab Notebooks may provide, among other things, the following **functi
 
 * A text editor with similar functions as a paper notebook
 * A search function
-* Secure storage and back up (with distinct failture modes from paper notebooks)
+* Secure storage and back up (with distinct failure modes from paper notebooks)
 * Tools for working with tabular data (calculations and formatting of tables and graphs)
 * Templates for documenting standard procedures
 * Built-in Laboratory Inventory Management Systems (LIMS) functionality for managing and documenting samples, reagents, and apparatus, or integration with separate dedicated LIMS.
