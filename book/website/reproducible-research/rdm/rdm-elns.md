@@ -124,7 +124,7 @@ Your data's fate can become tied to that of the company, or project, that develo
 
 Most proprietary or open tools will permit you to export your data in one format or another.
 The quality of this export is critical to scrutinise.
-The ability to save all your lab books as PDFs is fine but if it's the only option you may loose a lot of metadata, and the ability to import your data into a new solution. 
+The ability to save all your lab books as PDFs is fine but if it is the only option you may loose a lot of metadata, and the ability to import your data into a new solution. 
 The ability to export your data and retain it's structure is very important to evaluate.
 
 Proprietary solutions are incentivised to attempt to lock-in their customers so that the cost of switching to a competitor is high - so be especially wary of poor export options.
