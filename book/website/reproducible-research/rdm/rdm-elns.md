@@ -15,7 +15,7 @@ Electronic Lab Notebooks may provide, among other things, the following **functi
 
 * A text editor with similar functions as a paper notebook
 * A search function
-* Secure storage and back up (with distinct failture modes from paper notebooks)
+* Secure storage and back up (with distinct failure modes from paper notebooks)
 * Tools for working with tabular data (calculations and formatting of tables and graphs)
 * Templates for documenting standard procedures
 * Built-in Laboratory Inventory Management Systems (LIMS) functionality for managing and documenting samples, reagents, and apparatus, or integration with separate dedicated LIMS.
@@ -51,7 +51,7 @@ So choosing a suitable solution can be a major headache and responsibility.
 The choice of ELN is an incredibly important decision, and one that your organisation will likely have live with for years, or even decades.
 You are putting the record of your research into the hands of the tool that you choose, and entering into a long-term relationship with the provider of your ELN solution.
 You are also making a choice about a tool that many of the people in your organisation will interface with closely every day.
-Having to use a tool that is not well fit to it function on a daily basis can be a major problem for productivity and morale.
+Having to use a tool that is not well fit to its function on a daily basis can be a major problem for productivity and morale.
 Conversely, a tool that is a good fit gets out of people's way and makes their jobs easier can be a major boost to productivity and morale.
 
 (rr-rdm-elns-choosing-failure-modes)=
@@ -60,7 +60,7 @@ Conversely, a tool that is a good fit gets out of people's way and makes their j
 Incomplete or inflexible ELN solutions which increase friction in workflows can cause issues.
 People will avoid using ill-fitting tools that they perceive them to be getting in their way, especially scientists.
 They are creative, stubborn, resourceful, and impatiently focused on anwsering their research questions with watever tools are available to them. 
-Finding software with the flexibility, capability, and scope to keep up is not easy and if it doesn't researchers won't use it - at least not as you indented.
+Finding software with the flexibility, capability, and scope to keep up is not easy and if it doesn't researchers won't use it - at least not as you intended.
 
 -   Shadow IT/notebooks
     -   People using their own unsactioned solutions which may be a compliance issue and introduce risks that you have not accounted for.
@@ -70,7 +70,7 @@ Finding software with the flexibility, capability, and scope to keep up is not e
     -   If there are paper and potentially multiple electronic copies of some information - what happens when it does not agree? What is the source of truth?
 -   Partial adoptions can lead to information which was previous predictably structured in lab notebooks being spread across multiple IT systems and physical copies
 -   Practical use and interface issues
-    -   Laptops or tablets can intrduce interface barriers 
+    -   Laptops or tablets can introduce interface barriers 
         -   Lab gloves may hamper the use of touchscreens and track pads.
         -   Free-hand drawing or use of notation not easily represented in simple text such as mathematical and chemical notation
         -   Performant native applications for devices are not always available, notebooks only accessible through web apps can have performance issues that make their interfaces frustrating to use
@@ -109,13 +109,14 @@ This is not necessarily true of ELNs.
 Few active measures are needed to maintain the data in your paper notebooks. 
 The primary vulnerability of paper lab books is that there is only one copy. 
 Nevertheless, as long as they are kept in a cool, dry and dark spot (for example a fireproof safe) they will likely last decades.
+
 Electronic data requires much more active upkeep.
 Electronic data can *if manged properly* be more resilient to physical threats such as fire and flooding as it can frequently be backed up in multiple locations.
-A hard drive or even a solid state drive however cannot be left in a draw for a decade or more and have a high likelihood of working without some amount of bitrot or compatability issue when plugged back in.
+A hard drive, or even a solid state drive, however, cannot be left in a draw for a decade or more and have a high likelihood of working without some amount of bit-rot or compatibility issue when plugged back in.
 
 Lab notebooks perform an archival function and proprietary formats are antithetical to this as they assume the institution which can act as a gatekeeper to the use of the proprietary format will outlive the need to archive the material.
 When choosing an archival format one seeks to maximize the likelihood that one can recover the relevant information from that format.
-Using a proprietary solution for archival purposes is talking a needless risk with the future of your data.
+Using a proprietary solution for archival purposes is taking a needless risk with the future of your data.
 Your data's fate can become tied to that of the company, or project, that develops and operates the software that you use to store your lab notes.
 
 (rr-rdm-elns-choosing-lockin)=
@@ -123,13 +124,13 @@ Your data's fate can become tied to that of the company, or project, that develo
 
 Most proprietary or open tools will permit you to export your data in one format or another.
 The quality of this export is critical to scrutinise.
-The ability to save all your lab books as PDFs is fine but if it's the only option you may loose a lot of metadata, and the ability to import your data into a new solution. 
+The ability to save all your lab books as PDFs is fine but if it is the only option you may lose a lot of metadata, and the ability to import your data into a new solution. 
 The ability to export your data and retain it's structure is very important to evaluate.
 
 Proprietary solutions are incentivised to attempt to lock-in their customers so that the cost of switching to a competitor is high - so be especially wary of poor export options.
 Note that this tends to change over time. 
 New providers are focused on user aquisition so data portability tends to be good at first but decline after a certain point in time.
-Firms tends to follow a pattern of shifting from a user aquisiton phase with favourable terms, to a user retention phase with less favourable ones.
+Firms tends to follow a pattern of shifting from a user acquisition phase with favourable terms, to a user retention phase with less favourable ones.
 Mendeley for example began [encrypting their local database](https://www.zotero.org/support/kb/mendeley_import#mendeley_database_encryption). 
 This made it impossible to migrate your local library to different reference managers without going through the Mendeley online library feature.
 This occurred after they had reached a high degree of market penetration and had been acquired by Elsevier.
@@ -142,7 +143,7 @@ When looking for any critical piece of software for long term use the first ques
   Or perhaps a foundation or other non-profit/academic organisation with robust funding.
 - What are the data export options and formats?
 
-Open solutions provide you with the assurance that if you do the appropriate preparatory work you should be able to access all of your data in it's native form.
+Open solutions provide you with the assurance that if you do the appropriate preparatory work you should be able to access all of your data in its native form.
 For example keeping copies of the ELN software that can be run offline in a VM or similar computational environment in the future.
 This is typically much easier for open applications and can be impossible for proprietary ones.
 Even if the tools are no longer maintained they can still be used to read the data and interact with it in (mostly) the same way.
