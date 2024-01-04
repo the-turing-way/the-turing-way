@@ -8,7 +8,7 @@ This section outlines guidance, requirements, and considerations for ensuring th
 ## Content Accessibility Guidance 
 Ensuring that event communications, including printed content, are accessible to all attendees is critical.
 
-Please review the following recommendations and ensure that any material you have designed for your event meets the accessibility requirements of your atendees. 
+Please review the following recommendations and ensure that any material you have designed for your event meets the accessibility requirements of your attendees. 
 
 #### Use a size 14 (or larger) font for both digital and printed content.
 A size 14 font is the recommended size to make text information legible for a broad audience and support people with lived experience of visual impairments, and other conditions that affect readability.
@@ -17,15 +17,15 @@ A size 14 font is the recommended size to make text information legible for a br
 "Sans Serif" refers to fonts that do not have embellishments or lines on the letters.
 For example, Arial, Tahoma, Verdana, Helvetica or Monserrat.
 
-Using a *Serif* font such as Times New Roman can negatively impact readability and make it harder for people with dyslexia to read information. 
+Using a "Serif" font such as Times New Roman can negatively impact readability and make it harder for people with dyslexia to read information. 
 
-Using a *Sans Serif* font is especially important for online content such as emails and websites.
+Using a "Sans Serif" font is especially important for online content such as emails and websites.
 
 #### Provide appropriate line spacing in text.
 When there is either not enough, or too much, space between two lines of text it becomes more difficult to read. 
 
 Lines that are spaced too close together can cause eyestrain and lines that are too wide apart make it difficult for our eyes (and brain) to find the following line. 
-Line spacing is especially important if your content involves large and unbroken paragraphs of text, and can disproportionately affect people with reading difficulties, visual impairments, or who are reading your content their non-native language.
+Line spacing is especially important if your content involves large and unbroken paragraphs of text and can disproportionately affect people with reading difficulties, visual impairments, or who are reading your content in their non-native language.
 
 The best practice is to use 1.5 line spacing.
 
