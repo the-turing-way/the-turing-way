@@ -53,7 +53,7 @@ This chapter cannot (and should not) replace working with members of your specif
 
 ### Planning Inclusive Events
 * Journal Article: Joo et. al., 2022 [Ten simple rules to host an inclusive conference](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010164)
-* [Creating Inclusive Conferences for Academics with Caring Responsibilities](https://warwick.ac.uk/fac/soc/impact/policybriefings/6_creating_inclusive_conferences_for_academics_with_caring_responsibilities.pdf
+* [Creating Inclusive Conferences for Academics with Caring Responsibilities](https://warwick.ac.uk/fac/soc/impact/policybriefings/6_creating_inclusive_conferences_for_academics_with_caring_responsibilities.pdf)
 * Mozilla Event Guidance: [Planning Participatory, Accessible, and Inclusive conference sessions](https://docs.google.com/presentation/d/1kwHq6UYSOFWCjOrDCgcvmxByCX_dOr1qmBE7gAbj12s/edit#slide=id.g1161995780e_0_0)
 * Mozilla Event Guidance: [How to plan a session](https://docs.google.com/presentation/d/1k6Sft7YH2QrDzqzE6TZhociWVjXe7rLMDjAJ734qNKA/edit#slide=id.g1cd292f458d_0_75)
 * [World Cafe Design Principles](https://theworldcafe.com/key-concepts-resources/design-principles/)
