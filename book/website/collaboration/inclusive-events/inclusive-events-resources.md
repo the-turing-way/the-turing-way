@@ -27,7 +27,7 @@ Please feel free to add additional resources.
 (cl-inclusive-events-resources-other)=
 ## Additional Resources 
 
-This chapter cannot (and should not) replace working with members of your specific community to plan and host events. 
+These resources cannot (and should not) replace working with members of your specific community to plan and host events. 
 
 ### Resources on Public Involvement and Engaging people with lived experience in research and/or public policy
 * NHS Guide to Patient and Public Participation: [Involving Patients and Public in Event Planning and Delivery](https://www.england.nhs.uk/wp-content/uploads/2016/07/bitesize-guide-event-planning.pdf)
