@@ -23,7 +23,7 @@ It covers:
 - {ref}`guidance on how to evaluate and choose a location<cl-inclusive-events-location>`
 - {ref}`considerations and requirement for developing a communications strategy<cl-inclusive-events-comms>`
 - {ref}`suggestions for how to create an inclusive and accessible agenda<cl-inclusive-events-schedule-planning>`
-- {ref}`accessible technology requirements and reccomendations for in-person, hybrid, and online events<cl-inclusive-events-technology>`
+- {ref}`accessible technology requirements and recommendations for in-person, hybrid, and online events<cl-inclusive-events-technology>`
 - {ref}`suggestions for how to plan social or networking sessions<cl-inclusive-events-social-and-networking-guide>`
 - {ref}`guidance on how to design accessible content and presentation material<cl-inclusive-events-accessibility-guide>`
 - and provides a checklist that can be tailored to your specific event
@@ -32,7 +32,7 @@ It covers:
 (cl-inclusive-events-background)=
 ## Motivation and Background
 This chapter is meant to serve as a resource to support and guide researchers, organizers, and community members with the tools to identify the challenges and opportunities in organizing events that involve and include people with lived experience. 
-It also provides guidance and reccomendations for how to plan and host inclusive events for all audiences. 
+It also provides guidance and recommendations for how to plan and host inclusive events for all audiences. 
 
 We refer to "people with lived experience" throughout this chapter as a way to recognize and acknowledge individuals who have direct personal knowledge, or firsthand experience of a particular situation, condition, or topic. 
 It is a term often used to emphasise the importance of including the perspectives and insights of those who have had direct experience of a specific condition or situation. {cite:ps}`nihr2021differentexperiences,camden2022preferredlanguage`
@@ -42,12 +42,12 @@ This is sometimes referred to as "Public and Patient Involvement and Engagement"
 PPIE is done to ensure that the research is aligned with the needs of those affected by it, but also improves research through utilising that unique lived experience. 
 As part of this involvement and engagement, researchers and research staff will need to plan events that are inclusive and accessible for people with lived experience, and delivered in a way that supports people with lived experience taking part equitably. 
 
-"Lived experience" can be a range of things such as a disability, long-term health condition, berevement, having worked in a specific profession, or those with caring responsibilities.
+"Lived experience" can be a range of things such as a disability, long-term health condition, bereavement, having worked in a specific profession, or those with caring responsibilities.
 In the context of event planning, any of these people with lived experiences would have slightly different accommodation needs to support them engaging in your event. 
 Thus, your considerations need to cover both the potential disability requirements of your attendees, and an identification of barriers that would be experienced by your specific attendees with lived experience. 
 
 Importantly, not all attendees with lived experience will have a disability, and many of your attendees who are researchers and other professionals may have a disability. 
-The reccomendations captured in this chapter can help make your event inclusive and supportive for all attendees. 
+The recommendations captured in this chapter can help make your event inclusive and supportive for all attendees. 
 
 Because both internal resources and the events you run can range in size - from small meetings to massive multi-day conferences - this chapter is not an exhaustive list and instead is meant to provide general guidance about how to design events that are inclusive. 
 
