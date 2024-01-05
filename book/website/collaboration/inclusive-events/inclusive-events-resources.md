@@ -29,39 +29,6 @@ Please feel free to add additional resources.
 
 These resources cannot (and should not) replace working with members of your specific community to plan and host events. 
 
-### Resources on Public Involvement and Engaging people with lived experience in research and/or public policy
-* NHS Guide to Patient and Public Participation: [Involving Patients and Public in Event Planning and Delivery](https://www.england.nhs.uk/wp-content/uploads/2016/07/bitesize-guide-event-planning.pdf)
-* [UK Standards for Public Involvement in Research](https://sites.google.com/nihr.ac.uk/pi-standards/home)
-* Health and Social Care Alliance Scotland: [Engaging people with lived experience best practice, challenges, and opportunities](https://www.seemescotland.org/media/11340/lived_experience_report_2022_web.pdf)
-* NIHR Imperial BRC Patient Experience Research Center (PERC): [A Rough Guide to Public Involvement](https://www.imperial.ac.uk/media/imperial-college/medicine/perc/PERCs-Rough-Guide-to-Public-Involvement---Dec-2021.pdf)
-* Imperial College London: [Public Involvement Resource Hub](https://www.imperial.ac.uk/patient-experience-research-centre/ppi/ppi-resource-hub/)
-* [For Equity: Resource List](https://forequity.uk/general-resources/)
-* National Institute for Social Health and Care Research: [Public involvement in NHS, health and social care research](https://www.nihr.ac.uk/documents/briefing-notes-for-researchers-public-involvement-in-nhs-health-and-social-care-research/27371)
-* World Health Organization: [Nothing for Us, Without Us: listening and learning from people with lived experience](https://www.youtube.com/watch?v=Ms6BrG-RJJI)
-* NHS Guide to patient and public participation: [Planning for participation](https://www.england.nhs.uk/wp-content/uploads/2014/03/bs-guide-plann-part1.pdf)
-* DARE UK: [Public Involvement and Engagement (PIE) Guidelines for DARE UK Projects](https://dareuk.org.uk/wp-content/uploads/2023/06/Public-Involvement-and-Engagement-PIE-Guidelines-for-DARE-UK-Projects.pdf)
-* [PEDRI: Public Involvement and Engagement Best Practice Draft Standards for the use of data for Research and Statistics](https://www.adruk.org/fileadmin/uploads/adruk/Documents/PE_reports_and_documents/PEDRI-Best-Practice-Standards.pdf?_hsenc=p2ANqtz-9I-CNND1ExG4qFNhAixF7DgzUPmx2l6OdSTF524XH1QkQi0TUdR7BnLxfzePrRtOMF48_K)
-* Association of Medical Research Charities (AMRC): [Guidance and tools for public involvement](https://www.amrc.org.uk/guidance-and-tools-for-public-involvement)
-* World Health Organization: [framework for meaningful engagement of people living with non-communicable diseases, and mental health and neurological conditions](https://iris.who.int/bitstream/handle/10665/367340/9789240073074-eng.pdf?sequence=1)
-* [My Voice Matters - a guide for people who want to share their lived experience](https://shapingourlives.org.uk/report/my-voice-matters/)
-* NIHR Applied Research Collaboration East Midlands: [Engagement,
-Involvement & Co‑Production](https://arc-em.nihr.ac.uk/sites/default/files/field/restricted/Preparing%20for%20Implementation_Module%202_V2.pdf)
-* Public Engagement with Science [A guide to creating conversations among publics and scientists for mutual learning and societal decision-making](https://www.mos.org/sites/dev-elvis.mos.org/files/docs/offerings/PES_guide_10_20r_HR.pdf)
-* Citizen's Advice: [How to run focus groups](https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf)
-* [Guidelines for Conducting a Focus Group](https://irep.olemiss.edu/wp-content/uploads/sites/98/2016/05/Trinity_Duke_How_to_Conduct_a_Focus_Group.pdf)
-
-### Community-Specific Accessibility Resources
-
-#### Deaf and Hard of Hearing 
-* [Sign Solutions: How to plan a conference with event interpretation for Deaf people](https://www.signsolutions.uk.com/how-to-plan-a-conference-with-event-interpretation-for-deaf-people/)
-* [Royal National Institute for Deaf People: Make your meetings deaf aware](https://rnid.org.uk/information-and-support/deaf-awareness/make-your-meetings-deaf-aware/)
-* (UK only) [Action Deafness Interpreting: British Sign Language Interpreter Services](https://actiondeafness.org.uk/services/interpreting/)
-* [Working with sign language interpreters for events](https://www.signsolutions.uk.com/working-with-sign-language-interpreters-for-events/)
-
-#### Autism
-* Autistica Advocacy: [A Guide to Accessible Event Planning](https://autisticadvocacy.org/wp-content/uploads/2019/05/Accessible-Event-Planning.pdf)
-* National Autism Society: [A quick, easy guide to holding an autism-friendly event](https://www.autism.org.uk/get-involved/raise-money/do-your-own-thing/how-to-guides/holding-an-event)
-
 ### Planning Accessible Events
 * [Creating Accessible Events](https://www.friendlylikeme.com/access-spotlight/creating-accessible-events)
 * [Make Things Accessible: Running Accessible Events](https://www.makethingsaccessible.com/guides/running-accessible-events/)
@@ -107,6 +74,40 @@ Involvement & Co‑Production](https://arc-em.nihr.ac.uk/sites/default/files/fie
 ### Example Accessibility Guides
 * [Accessibility Guide for InterPride's Annual General Meeting & World Conference in San Diego](https://www.friendlylikeme.com/access-spotlight/interpride-san-diego)
 * [Atlanta Pride: Accessibility Guide](https://www.friendlylikeme.com/access-spotlight/atlanta-pride-accessibility-guide)
+
+### Community-Specific Accessibility Resources
+
+#### Deaf and Hard of Hearing 
+* [Sign Solutions: How to plan a conference with event interpretation for Deaf people](https://www.signsolutions.uk.com/how-to-plan-a-conference-with-event-interpretation-for-deaf-people/)
+* [Royal National Institute for Deaf People: Make your meetings deaf aware](https://rnid.org.uk/information-and-support/deaf-awareness/make-your-meetings-deaf-aware/)
+* (UK only) [Action Deafness Interpreting: British Sign Language Interpreter Services](https://actiondeafness.org.uk/services/interpreting/)
+* [Working with sign language interpreters for events](https://www.signsolutions.uk.com/working-with-sign-language-interpreters-for-events/)
+
+#### Autism
+* Autistica Advocacy: [A Guide to Accessible Event Planning](https://autisticadvocacy.org/wp-content/uploads/2019/05/Accessible-Event-Planning.pdf)
+* National Autism Society: [A quick, easy guide to holding an autism-friendly event](https://www.autism.org.uk/get-involved/raise-money/do-your-own-thing/how-to-guides/holding-an-event)
+
+#### Resources on Public Involvement and Engaging people with lived experience in research and/or public policy
+* NHS Guide to Patient and Public Participation: [Involving Patients and Public in Event Planning and Delivery](https://www.england.nhs.uk/wp-content/uploads/2016/07/bitesize-guide-event-planning.pdf)
+* [UK Standards for Public Involvement in Research](https://sites.google.com/nihr.ac.uk/pi-standards/home)
+* Health and Social Care Alliance Scotland: [Engaging people with lived experience best practice, challenges, and opportunities](https://www.seemescotland.org/media/11340/lived_experience_report_2022_web.pdf)
+* NIHR Imperial BRC Patient Experience Research Center (PERC): [A Rough Guide to Public Involvement](https://www.imperial.ac.uk/media/imperial-college/medicine/perc/PERCs-Rough-Guide-to-Public-Involvement---Dec-2021.pdf)
+* Imperial College London: [Public Involvement Resource Hub](https://www.imperial.ac.uk/patient-experience-research-centre/ppi/ppi-resource-hub/)
+* [For Equity: Resource List](https://forequity.uk/general-resources/)
+* National Institute for Social Health and Care Research: [Public involvement in NHS, health and social care research](https://www.nihr.ac.uk/documents/briefing-notes-for-researchers-public-involvement-in-nhs-health-and-social-care-research/27371)
+* World Health Organization: [Nothing for Us, Without Us: listening and learning from people with lived experience](https://www.youtube.com/watch?v=Ms6BrG-RJJI)
+* NHS Guide to patient and public participation: [Planning for participation](https://www.england.nhs.uk/wp-content/uploads/2014/03/bs-guide-plann-part1.pdf)
+* DARE UK: [Public Involvement and Engagement (PIE) Guidelines for DARE UK Projects](https://dareuk.org.uk/wp-content/uploads/2023/06/Public-Involvement-and-Engagement-PIE-Guidelines-for-DARE-UK-Projects.pdf)
+* [PEDRI: Public Involvement and Engagement Best Practice Draft Standards for the use of data for Research and Statistics](https://www.adruk.org/fileadmin/uploads/adruk/Documents/PE_reports_and_documents/PEDRI-Best-Practice-Standards.pdf?_hsenc=p2ANqtz-9I-CNND1ExG4qFNhAixF7DgzUPmx2l6OdSTF524XH1QkQi0TUdR7BnLxfzePrRtOMF48_K)
+* Association of Medical Research Charities (AMRC): [Guidance and tools for public involvement](https://www.amrc.org.uk/guidance-and-tools-for-public-involvement)
+* World Health Organization: [framework for meaningful engagement of people living with non-communicable diseases, and mental health and neurological conditions](https://iris.who.int/bitstream/handle/10665/367340/9789240073074-eng.pdf?sequence=1)
+* [My Voice Matters - a guide for people who want to share their lived experience](https://shapingourlives.org.uk/report/my-voice-matters/)
+* NIHR Applied Research Collaboration East Midlands: [Engagement,
+Involvement & Co‑Production](https://arc-em.nihr.ac.uk/sites/default/files/field/restricted/Preparing%20for%20Implementation_Module%202_V2.pdf)
+* Public Engagement with Science [A guide to creating conversations among publics and scientists for mutual learning and societal decision-making](https://www.mos.org/sites/dev-elvis.mos.org/files/docs/offerings/PES_guide_10_20r_HR.pdf)
+* Citizen's Advice: [How to run focus groups](https://www.citizensadvice.org.uk/Global/CitizensAdvice/Equalities/How%20to%20run%20focus%20groups%20guide.pdf)
+* [Guidelines for Conducting a Focus Group](https://irep.olemiss.edu/wp-content/uploads/sites/98/2016/05/Trinity_Duke_How_to_Conduct_a_Focus_Group.pdf)
+
 
 
 
