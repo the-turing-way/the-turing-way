@@ -1,28 +1,37 @@
-# Notes 16 October
+# Notes 8 January 2024
 
 ## Attendees
 
-* Alex
-* Vicky
-* Bastian
+* Sophia 
+* Emma
 * Anne
-* Malvika
+* Ale
+* Kirstie
 * Cass
-* Eirini 
+* Bastian
+* Alden
+* Gabin
+* Malvika
 
 ## Topics/Rooms
 
-* Main room - 
-    * Tea Invites Review (first half hour)
-    * governance (second half hour)
-* Inclusive Events Chapter
-* TEA Invites Review
-* RCM Talk Prep
-* Book dash
-* Chatty Coworking
-* Quiet Coworking
+* Main room
+  * Kirstie
+* Inclusive events chapter
+  * Sophia
+  * Anne
+* Skills Policy Award
+  * Emma
+  * Malvika
+  * Ale
+* Stakeholder mapping (E&S)
+  * Cass
+  * Alden
+* Research Community Management paper
+  * Gabin
+* AutSPACEs moderation paper
+  * Bastian
+ 
+ ## Notes
 
  
-## Notes
-* Question from Sophia: Can I ask a TTW style/formatting question if this is a natural break to ask it.
-    * You can add a sentence here about ‘when to do external linking vs citing a resource’: https://the-turing-way.netlify.app/community-handbook/style#external-links
