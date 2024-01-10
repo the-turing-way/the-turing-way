@@ -74,7 +74,7 @@ Finding software with the flexibility, capability, and scope to keep up is not e
 -   Practical use and interface issues
     -   Laptops or tablets can introduce interface barriers 
         -   Lab gloves may hamper the use of touchscreens and track pads.
-        -   Free-hand drawing or use of notation not easily represented in simple text such as mathematical and chemical notation
+        -   Free-hand drawing is not always well supported which can be necessary when using notation that is not easily represented in simple text such as mathematical and chemical notation
         -   Performant native applications for devices are not always available, notebooks only accessible through web apps can have performance issues that make their interfaces frustrating to use
         -  No spatial memory, whereas in a physical book people may remember where they wrote things and can open it roughly on the right page.
 
