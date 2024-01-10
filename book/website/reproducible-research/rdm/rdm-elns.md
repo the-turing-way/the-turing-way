@@ -137,7 +137,7 @@ The ability to export your data and retain the original structure is very import
 
 Proprietary solutions are incentivised to attempt to lock-in their customers so that the cost of switching to a competitor is high - so be especially wary of poor export options.
 Note that this tends to change over time. 
-New providers are focused on user aquisition so data portability tends to be good at first but decline after a certain point in time.
+New providers are focused on user acquisition so data portability is often good at first but tends to decline after a certain point in time.
 Firms tends to follow a pattern of shifting from a user acquisition phase with favourable terms, to a user retention phase with less favourable ones.
 Mendeley for example began [encrypting their local database](https://www.zotero.org/support/kb/mendeley_import#mendeley_database_encryption). 
 This made it impossible to migrate your local library to different reference managers without going through the Mendeley online library feature.
