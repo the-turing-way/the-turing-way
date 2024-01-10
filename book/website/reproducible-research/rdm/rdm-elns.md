@@ -87,7 +87,7 @@ Finding software with the flexibility, capability, and scope to keep up is not e
 When picking an ELN remember to always compare the ELN to a paper notebook and not just to other ELNs.
 It is likely paper that you are replacing so this is the benchmark against which to compare.
 Consider the differences between a paper copy of a lab notebook and an electronic copy.
-Consider also which are the properties of a paper copy that it is important that you are able to retain when adopting an electronic alternative.
+Consider also which properties of a paper copy is it important to you that you are able to retain when adopting an electronic alternative.
 
 -   A paper lab notebook is physically under your control.
 -   You (or more likely your organisation) own it.
