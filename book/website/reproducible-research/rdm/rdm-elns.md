@@ -63,23 +63,23 @@ They are creative, stubborn, resourceful, and impatiently focused on anwsering t
 Finding software with the flexibility, capability, and scope to keep up is not easy and if it doesn't researchers won't use it - at least not as you intended.
 
 -   Shadow IT/notebooks
-    -   People using their own unsactioned solutions which may be a compliance issue and introduce risks that you have not accounted for.
+    -   People using their own unsactioned solutions which may be a compliance issue and introduce risks that you have not accounted for
 -   Infrequent updates
-    -   People dump a copy of their work into the ELN only as often as necessary for compliance.
+    -   People dump a copy of their work into the ELN only as often as necessary for compliance
 -   Consistency issues
     -   If there are paper and potentially multiple electronic copies of some information - what happens when it does not agree? What is the source of truth?
 - Sprawl
     -   Partial adoptions can lead to different pieces of information being stored in different systems which might not be connected making it harder to record and find information which was previous in one place.
-        This can make information recording and retrieval processes more complex, expensive and brittle. 
+        This can make information recording and retrieval processes more complex, expensive and brittle 
 -   Practical use and interface issues
     -   Laptops or tablets can introduce interface barriers 
-        -   Lab gloves may hamper the use of touchscreens and track pads.
+        -   Lab gloves may hamper the use of touchscreens and track pads
         -   Free-hand drawing is not always well supported which can be necessary when using notation that is not easily represented in simple text such as mathematical and chemical notation
-        -   Client issues, such as native mobile applications with incomplete featuresets, slow web-apps that may require an always-on connection and not be able to cache local changes.
-        -   No spatial memory, whereas in a physical book people may remember where they wrote things and can open it roughly on the right page.
+        -   Client issues, such as native mobile applications with incomplete featuresets, slow web-apps that may require an always-on connection and not be able to cache local changes
+        -   No spatial memory, whereas in a physical book people may remember where they wrote things and can open it roughly on the right page
         -   Extra expense, maintenence & procurement issues with hardware suitable for use in your research environment
 
--   Lack of sufficiently available training on more complex aspects of the ELN solution leading to poor, mis-use, or under-use of ELN features.
+-   Lack of sufficiently available training on more complex aspects of the ELN solution leading to poor, mis-use, or under-use of ELN features
 
 (rr-rdm-elns-choosing-compare-to-paper)=
 ### Always compare to paper notebooks
