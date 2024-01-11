@@ -187,11 +187,9 @@ It offers commercial support and hosting and has a network of developers across 
 This structure allows institutions to pool resources to fund the development of features that they all need and keeps this infrastructural code in common ownership, avoiding the worst lock-in issues arising from the use of proprietary solutions.
 This more open distributed model also allows individuals to work on their own custom extensions and integrations instead of being reliant on the ability and willingness of a company to implement a feature that you need.
 
-Many open tools have very robust export and import options, as they are not subject to the incentives trap faced by proprietary offerings, though this is far from guaranteed.
-This might include a complete database export that would let you seemlessly migrate to a different deployment of the tool. 
-Or an archive of files organised by a for example a JSON file representation of your notes and files that retain most or all of the metadata and organisational information of your ELN.
-There remains the challenge when migrating of finding a tool that can import what your old tool exported, and retain most of all of its structure.
-Such a standard would, if properly adhered too, reduces the lock-in risk associated with using using both open and proprietary tools.
+In the absense of an open standard for representing electronic lab notebook content using an open ELN solution is still no guarantee of data portability and interoperatbility.
+Such a standard would, if properly adhered too, could reduce the lock-in risk associated with using using both open and proprietary tools.
+An initiative to devise ELN format standards would be most welcome.
 
 (rr-rdm-choosing-elns)=
 ## Resources for choosing ELNs
