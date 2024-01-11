@@ -236,6 +236,22 @@ The following ELN options are each quite different but have many of the same cor
 When using an open solution it is always important to consider how you can contribute to its ongoing development and maintenance, for example by donating to the project.
 If it makes sense given the makeup of your organisation and that of the project you may also be able to contribute developer time to the project.
 
+(rr-rdm-using-non-elns-for-eln-things)
+## Using non-ELNs for ELN things
+
+Note taking and personal knowledge management (PKM) applications of various kinds have been pushed into service as ELNs by many individuals and institutions, despite not being designed specifically for this tasks.
+Some tools are better suited to be used 'off-label' as ELNs than others.
+Some may have significant drawbacks compared to purpose built solutions, despite being better at some things than currently available dedicated ELN options.
+
+Microsoft OneNote is quite popular as an ELN despite a proprietary notebook format with limited export options and that [microsoft has entertained getting rid of the good (desktop) version this of application in favour of its much less featureful 'web' version in the past. Though they have apparently relented, for now.](https://www.youtube.com/watch?v=4IkUfh05TGE).
+OneNote is a good experience as a free-form note taking tool especially for hand-written or drawn notes and automatic linking of anotations to audio timestamps.
+The lack of a good version history is a distinct downside.
+Its popularity likely stems, in part, from its availability in the Microsoft office suite.
+Software which most institutions will already have, meaning they will not incurr additional costs if they use OneNote.
+
+Other generic note taking applications have featuresets which are not dissimilar to ELN solutions.
+For example open source applications like [logseq](https://logseq.com/) or [zettlr](https://www.zettlr.com/), and proprietary ones like: [obsidian](https://obsidian.md/) or [notion](https://www.notion.so/).
+
 (rr-rdm-additional-eln-resources)=
 ## Additional ELN resources
 
