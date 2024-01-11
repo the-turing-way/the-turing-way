@@ -114,7 +114,7 @@ Nevertheless, as long as they are kept in a cool, dry and dark spot (for example
 
 Electronic data requires much more active upkeep.
 Electronic data can, *if managed properly*, be more resilient to physical threats such as fire and flooding as it can frequently be backed up in multiple locations.
-A hard drive, or even a solid state drive, however, cannot be left in a draw for a decade or more and have a high likelihood of working without some amount of bit-rot or compatibility issue when plugged back in.
+A hard drive, or even a solid state drive, however, cannot be left in a draw for a decade or more and have a high likelihood of working without some amount of bit-rot or compatibility issues when plugged back in.
 
 Lab notebooks perform an archival function.
 When choosing an archival format one seeks to maximize the likelihood that one can recover the relevant information from that format.
