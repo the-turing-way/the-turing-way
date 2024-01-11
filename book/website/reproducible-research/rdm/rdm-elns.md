@@ -181,7 +181,6 @@ For example, bioimaging facilities can automate a substantial part of the image 
 ELNs offer many advantages over paper notebooks.
 Nevertheless, ELNs come with a considerable amount of additional complexity and additional risks - so it is important to have a mitigation plan.
 The ELN space is still quite young and rapidly changing.
-ELNs represent a key component of digital infrastructure for the future of research.
 As such it is important to think about how the academic community wants the ELN infrastructure to be owned and governed in the long run.
 An interesting model to consider emulating here is [moodle](https://moodle.com/), an open source electronic learning environment popular with universities.
 It offers commercial support and hosting and has a network of developers across the education sector who contribute to the core project, as well as creating custom integrations and extensions to meet their particular needs.
