@@ -13,24 +13,24 @@ All of The Turing Way community calls adhere to the project's [Code of Conduct](
 
 1. **Comfort breaks**: Virtual discussions can be turing! For calls like our coworking calls and Collaboration Cafes, these are built into the pomodoro working format, with a variety of optional and gently-enforced breaks to ensure. For our trainings, workshops and onboarding sessions, we make sure build in breaks on a context-specific basis.  
 
-2. **Co-hosting**: Workshops and trainings are co-hosted by default in order to ensure ease of , as well as provide support to answer additional questions or IT issues. 
+2. **Co-hosting**: Our workshops and trainings are generally co-hosted by default in order to ensure ease of facilitation for both, as well as provide support to answer additional questions, solve IT or interpersonal issues that may arise during the call. Coworking calls and Collaboration Cafes do not generally have two hosts, but are attended widely by community members that can help with any issues that may arise. 
 
-3. **Reference material**: Before each call, we aim to share slides, links and other reference materials to ensure that that the material can be referenced before or during the call. After each call. Many of our community materials and presentations are uploaded to our [Zenodo community page](https://zenodo.org/communities/the-turing-way/), and licensed CC-BY for use by others. 
+3. **Reference material**: Before each call, we aim to share slides, links and other reference materials to ensure that that the material can be referenced before or during the call. After each call. Many of our community materials and presentations are uploaded to our [Zenodo community page](https://zenodo.org/communities/the-turing-way/), and are licensed CC-BY for use by others. 
 
-4. **Transcription**: Our calls are hosted on the Zoom platform, and as a community we use the built-in zoom transcription feature. Due to IT limitations from our hosting organisation, we do not currently use any additional transcription support (such as Otter.ai), but hope to do so in the future.
+4. **Transcription**: Our calls are hosted on the Zoom platform, and as a community, we use the built-in zoom transcription feature. Due to IT limitations from our hosting organisation, we do not currently use any additional transcription support (such as Otter.ai), but hope to do so in the future.
 
-5. **Recordings**: Community calls like the coworking call and collaboration cafes are not recorded by default, though the notes from each session are uploaded in our repository.
+5. **Recordings**: Community calls like the coworking call and collaboration cafes are not recorded by default, though the notes from each session are uploaded in our repository. Workshops and trainings may be recorded at the discresion of the organisers, and/or if participants request .  
 
-6. Alternative forms of engagement: We tend to be a video-on. However, that'
+6. **Alternative forms of engagement**: At our community calls , we tend to encourage (but absolutely do not enforce!) a video-on culture at our community calls. However, we recognise that this may be both bandwidth-intensive as well as exclusory to those who would not like to engage in this way. At our trainings and workshops, we encourage folks to engage in the ways and mediums that they would like.
 
-6. 
+7. 
 
 During our bi-annual 
+
 ## Support we would like to provide in the future
 
 Currently, we are not able to support the following
 
-- Multilingualism: While we have previously hosted social sessions at our biannual Book Dash in Spanish, the vast amount of our trainings and community calls are hosted in English. We would love to support more 
-- Live transcription and/or translation:
-- Support for 
+- **Multilingualism**: While we have previously hosted social sessions at our biannual Book Dash in Spanish, the vast amount of our trainings and community calls are hosted in English. We would love to support more calls in more languages in the future.
+- **Live transcription and/or translation**
 - 
