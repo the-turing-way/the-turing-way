@@ -56,7 +56,7 @@ Here are a few suggestions for a good first contributions:
 
 The co-lead investigators for this project are [Dr Kirstie Whitaker](https://whitakerlab.github.io/about), who leads the Tools, Practices and Systems Research Programme at [The Alan Turing Institute](http://turing.ac.uk) and [Dr. Malvika Sharan](https://about.me/malvikasharan), Senior Researcher at the [Alan Turing Institute](http://turing.ac.uk).
 
-[Anne Lee Steele](https://www.turing.ac.uk/people/researchers/anne-lee-steele) is the Community Manager.
+[Anne Lee Steele](https://www.turing.ac.uk/people/researchers/anne-lee-steele) is the Research Community Manager. [Alexandra Araujo Alvarez](https://www.turing.ac.uk/people/programme-management/alexandra-araujo-alvarez) is the Research Project Manager.
 
 You can contact them on the community Gitter Channel [https://gitter.im/the-turing-way/the-turing-way](https://gitter.im/the-turing-way/the-turing-way).
 You can write an email to Anne Lee Steele for any question or query by using the community email [theturingway@gmail.com](mailto:theturingway@gmail.com) or contact her directly by emailing [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk).
