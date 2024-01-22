@@ -64,6 +64,7 @@ sphinx:
         - 'app.add_node'
         - 'app.add_directive'
         - 'app.add_role'
+    myst_heading_anchors    : 5
 
 
 bibtex_bibfiles:
