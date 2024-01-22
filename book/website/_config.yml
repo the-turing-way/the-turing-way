@@ -59,7 +59,6 @@ sphinx:
     language                : en
     html_js_files: [ ['https://plausible.io/js/script.js', {'defer': 'defer', 'data-domain': 'the-turing-way.netlify.app'}] ]
     html_show_copyright     : false
-    panels_add_bootstrap_css: False
     suppress_warnings       :
         - 'app.add_node'
         - 'app.add_directive'
