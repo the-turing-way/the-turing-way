@@ -4,9 +4,9 @@ Welcome to the community Slack group: a place for you to network, collaborate, e
 
 **Table of content**
 
-1. [Configuring your account](#1-Configuring-your-account)
-2. [Notification settings](#2-Channel-and-Notification-settings)
-3. [Communicating with others](#3-Communicating-with-others)
+1. [Configuring your account](1-configuring-your-account)
+2. [Notification settings](2-channel-and-notification-settings)
+3. [Communicating with others](3-communicating-with-others)
 
 ## 1. Configuring your account
 
@@ -20,7 +20,7 @@ Here is a guide to help you [edit your profile]( https://slack.com/intl/en-ca/he
 
 ### STATUS UPDATES
 
-Status updates can be a useful way to let others know your availability as your status will be visible to everyone in the Slack group. 
+Status updates can be a useful way to let others know your availability as your status will be visible to everyone in the Slack group.
 
 To update your status, click your name in the top left of the screen and select `update status`. You can select when you want your status update to be removed by stipulating a timeframe from the “clear after” dropdown.
 You can clear a status update at any time by clicking on your name and selecting `clear status` from the dropdown.
@@ -34,7 +34,7 @@ By default, you’re automatically added to the main channels that everyone belo
 You will be able to create additional channels to facilitate structured conversation. You are free to create as many channels as you would like. However, channels dedicated to projects should be made public (not private) so people can collaborate or help you.
 
 ### Configure your notifications
-Slack notifications are great, but they may bother you when you try to focus on your project. There are a lot of options for you to determine how and when you are informed about content – and at what level of granularity. 
+Slack notifications are great, but they may bother you when you try to focus on your project. There are a lot of options for you to determine how and when you are informed about content – and at what level of granularity.
 
 #### For the overall group
 1. Click on your `name` at the top left of the page and select “`preferences`” from the dropdown
@@ -48,7 +48,7 @@ Slack notifications are great, but they may bother you when you try to focus on 
     * Here you have the option to ignore any @channel messages, or mute the channel entirely.
 
 #### Following a specific thread
-If another group member posts something of particular interest you can choose to follow that thread. Find how to reply in thread in [Section 3](#3-Communicating-with-others).
+If another group member posts something of particular interest you can choose to follow that thread. Find how to reply in thread in [Section 3](3-communicating-with-others).
 
 1. Click the `ellipsis (three dots)` to the right of the original post and select “`follow message`” from the dropdown.
 
@@ -86,7 +86,7 @@ If a channel has become too noisy, you can additionally:
 
 #### Message Editing & Deletion
 
-* You are allowed to edit your messages at any time. That means if you edit a message after someone replied to it, make it clear that you edited something if it changes the meaning of your message. See the example in the GIF below. 
+* You are allowed to edit your messages at any time. That means if you edit a message after someone replied to it, make it clear that you edited something if it changes the meaning of your message. See the example in the GIF below.
 
 ### SENDING PRIVATE/DIRECT MESSAGES
 It can be helpful to others when you’re sharing resources and brainstorming solutions to “work out loud” in a specific thread because then your learning becomes a future resource for others, too.
