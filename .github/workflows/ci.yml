@@ -48,7 +48,7 @@ jobs:
 
       - name: Build Jupyter-Book with warnings raised to errors
         run: make strict
-        working-directory: ./book/website
+        working-directory: ./book
 
   build-pathways:
     name: Build Pathways
