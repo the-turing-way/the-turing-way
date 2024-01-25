@@ -239,7 +239,7 @@ If it makes sense given the makeup of your organisation and that of the project 
 (rr-rdm-using-non-elns-for-eln-things)
 ## Using non-ELNs for ELN things
 
-Note taking and personal knowledge management (PKM) applications of various kinds have been pushed into service as ELNs by many individuals and institutions, despite not being designed specifically for this tasks.
+Note taking and personal knowledge management (PKM) applications of various kinds have been pushed into service as ELNs by many individuals and institutions, despite not being designed specifically for this task.
 Some tools are better suited to be used 'off-label' as ELNs than others.
 Some may have significant drawbacks compared to purpose built solutions, despite being better at some things than currently available dedicated ELN options.
 
