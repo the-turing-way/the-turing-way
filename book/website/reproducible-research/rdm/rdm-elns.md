@@ -237,7 +237,7 @@ The following ELN options are each quite different but have many of the same cor
 When using an open solution it is always important to consider how you can contribute to its ongoing development and maintenance, for example by donating to the project.
 If it makes sense given the makeup of your organisation and that of the project you may also be able to contribute developer time to the project.
 
-(rr-rdm-using-non-elns-for-eln-things)
+(rr-rdm-using-non-elns-for-eln-things)=
 ## Using non-ELNs for ELN things
 
 Note taking and personal knowledge management (PKM) applications of various kinds have been pushed into service as ELNs by many individuals and institutions, despite not being designed specifically for this task.
