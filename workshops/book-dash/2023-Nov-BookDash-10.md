@@ -1,6 +1,5 @@
 # Book Dash, November 2023 Report
 
-If you are new to HackMD, please see this short guide: [https://hackmd.io/@turingway/hackmd-guide](https://hackmd.io/@turingway/hackmd-guide)
 
 ## The Turing Way Book Dash, 13-17 November 2023: Overview and Report
 
