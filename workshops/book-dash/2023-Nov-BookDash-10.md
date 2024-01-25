@@ -192,7 +192,7 @@ We want to express our gratitude for their thoughtful engagement in the project 
            * Will be transferred into a PR soon (Ale is happy to collaborate)
        * ASK:
          
-   * Name: Accessibility Working Group
+   * Name: Accessibility Working Group (Patricia, Liz & Jesica)
        * Links to Issues and PR: 
        * ASK: 
 
