@@ -29,7 +29,7 @@ Your lab may also not have access to tablets or pens that would make the use of 
 Check if your institution is offering a solution that you can use without additional costs.
 * **File format**: Always check if files can be exported in your preferred file formats to avoid format lock-in.
 Some ELNs also have API's that allow integration with other software and workflows. 
-* **Vendor-lock-in**: Once you're using a certain solution you may become dependent on it.
+* **{ref}`Vendor-lock-in<rr-rdm-elns-choosing-lockin>`**: Once you're using a certain solution you may become dependent on it.
 Always have an exit strategy in case the solution is no longer offered or if you're moving institutions and you no longer have access.
 * **Sustainability**: Choose a solution that has a larger chance of being around for a long time.
 * **Drawing**: Not all solutions have the tools or capabilities to include drawings or integration with drawing software.
