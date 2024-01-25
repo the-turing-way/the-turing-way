@@ -187,7 +187,7 @@ It offers commercial support and hosting and has a network of developers across 
 This structure allows institutions to pool resources to fund the development of features that they all need and keeps this infrastructural code in common ownership, avoiding the worst lock-in issues arising from the use of proprietary solutions.
 This more open distributed model also allows individuals to work on their own custom extensions and integrations instead of being reliant on the ability and willingness of a company to implement a feature that you need.
 
-In the absense of an open standard for representing electronic lab notebook content using an open ELN solution is still no guarantee of data portability and interoperatbility.
+Without an open standard even if you are using an open source ELN and/or open file format this does not mean that you will necessarily be able to easily use your data with other ELN tools.
 Such a standard would, if properly adhered too, reduce the lock-in risk associated with using both open and proprietary tools.
 An initiative to devise ELN format standards would be most welcome.
 
