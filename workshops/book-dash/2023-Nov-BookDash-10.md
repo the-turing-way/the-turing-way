@@ -197,7 +197,7 @@ We want to express our gratitude for their thoughtful engagement in the project 
 
    * Name: Ale
        * Links to issues and PR:
-           * Thanks to Kalle - reviewing PR's and pushing to  
+           * Thanks to Kalle - reviewing PR's and pushing to review
            * Encourage Governance contributions (Anne, Esther, Anne)
            * The turing way Practitioners Hub: thanks Batool. Activity plan, training sessions
            * Susana: in-person suggestions for more inclusive snacks
