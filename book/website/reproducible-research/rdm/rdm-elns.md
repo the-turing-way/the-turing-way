@@ -251,7 +251,7 @@ Its popularity likely stems, in part, from its availability in the Microsoft Off
 Software which most institutions will already have, meaning they will not incurr additional costs if they use OneNote.
 
 Other generic note taking applications have featuresets which are not dissimilar to ELN solutions.
-For example open source applications like [logseq](https://logseq.com/) or [zettlr](https://www.zettlr.com/), and proprietary ones like: [obsidian](https://obsidian.md/) or [notion](https://www.notion.so/).
+For example, open source applications like [logseq](https://logseq.com/) or [zettlr](https://www.zettlr.com/), and proprietary ones like: [obsidian](https://obsidian.md/) or [notion](https://www.notion.so/).
 
 (rr-rdm-additional-eln-resources)=
 ## Additional ELN resources
