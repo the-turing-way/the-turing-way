@@ -123,7 +123,7 @@ Proprietary solutions generally obfuscate the format, even if just through absen
 Proprietary formats generally have a single implementation from their creator, this creates a single point of failure.
 Open formats can have multiple different implementations of tools which read them.
 If there is a good enough specification then new tools can even be written for the format if none of the originals are available anymore.
-Proprietary tools way require some kind of license activation process to use this may not be possible if their vendor no longer exists.
+Proprietary tools may require some kind of license activation process to use this may not be possible if their vendor no longer exists.
 Using a proprietary solution for archival purposes is therefore taking a needless risk with the future of your data.
 Your data's fate is tied to the format in which it is stored choose it wisely.
 
