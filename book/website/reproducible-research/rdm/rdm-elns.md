@@ -176,7 +176,7 @@ These sorts of integrations are especially useful in workflows at core facilitie
 For example, bioimaging facilities can automate a substantial part of the image metadata deposition into image data management tools such as [OMERO](https://www.openmicroscopy.org/omero/).
 
 (rr-rdm-elns-standards)=
-## ELN standards and Project governance
+## ELN standards and project governance
 
 ELNs offer many advantages over paper notebooks.
 Nevertheless, ELNs come with a considerable amount of additional complexity and additional risks - so it is important to have a mitigation plan.
