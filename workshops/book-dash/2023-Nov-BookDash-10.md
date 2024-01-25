@@ -204,7 +204,7 @@ We want to express our gratitude for their thoughtful engagement in the project 
        * ASK:
 
    * Name: Arielle
-       * Links to issues and PR:
+       * Links to issues and PR: https://github.com/the-turing-way/the-turing-way/pull/3417 (reviewed data feminism chapter)
            * Thanks to Kalle
        * ASK: 
 
