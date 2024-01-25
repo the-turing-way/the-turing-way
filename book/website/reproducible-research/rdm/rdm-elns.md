@@ -164,7 +164,7 @@ In this case you get the best of both worlds: the benefits of professional suppo
 You should still take regular local backups of exports from your hosting provider from which you could restore your ELN system with different hosting.
 This means that you retain the option to change providers.
 Conventional Software as a Service (SaaS) platforms are highly vertically integrated: the software development, hosting, administration, and support are package deal that you must take or leave as is.
-When using open tools each of these layers can seperated, though they do not need to be.
+When using open tools each of these layers can separated, though they do not need to be.
 This gives you the flexibility to change your provider of any of them indepentenly.
 This improves your bargaining position, but may increase procurement complexity.
 
