@@ -247,7 +247,7 @@ Some may have significant drawbacks compared to purpose built solutions, despite
 Microsoft OneNote is quite popular as an ELN despite a proprietary notebook format with limited export options and that [microsoft has entertained getting rid of the good (desktop) version this of application in favour of its much less featureful 'web' version in the past. Though they have apparently relented, for now.](https://www.youtube.com/watch?v=4IkUfh05TGE).
 OneNote is a good experience as a free-form note taking tool especially for hand-written or drawn notes and automatic linking of annotations to audio timestamps.
 The lack of a good version history is a distinct downside.
-Its popularity likely stems, in part, from its availability in the Microsoft office suite.
+Its popularity likely stems, in part, from its availability in the Microsoft Office suite (software already provided by institutions which do not incur additional costs).
 Software which most institutions will already have, meaning they will not incurr additional costs if they use OneNote.
 
 Other generic note taking applications have featuresets which are not dissimilar to ELN solutions.
