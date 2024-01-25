@@ -188,7 +188,7 @@ This structure allows institutions to pool resources to fund the development of 
 This more open distributed model also allows individuals to work on their own custom extensions and integrations instead of being reliant on the ability and willingness of a company to implement a feature that you need.
 
 In the absense of an open standard for representing electronic lab notebook content using an open ELN solution is still no guarantee of data portability and interoperatbility.
-Such a standard would, if properly adhered too, could reduce the lock-in risk associated with using using both open and proprietary tools.
+Such a standard would, if properly adhered too, reduce the lock-in risk associated with using both open and proprietary tools.
 An initiative to devise ELN format standards would be most welcome.
 
 (rr-rdm-choosing-elns)=
