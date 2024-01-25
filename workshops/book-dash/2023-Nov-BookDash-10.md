@@ -65,7 +65,7 @@ Anne Lee Steele (*), Alejandro Coca-Castro, Alexandra Araujo Alvarez (*), Ariell
    * The Book Dash organizing committee sought input from the community on ways to improve the accessibility of the event for people from marginalized groups.
    * Two social events were held in Spanish.
    * Collaborative documents were moved to the Framapad platform as a more screen-reader-accessible option than HackMD. Framapad was also an improvement over the Software Sustainability Institute's Etherpad instance, which was unstable with multiple simultaneous participants.
-   * The Accessibility Working Group was joined by two colleagues from Metadocencia, Patricia Lotto and  
+   * The Accessibility Working Group was joined by two colleagues from Metadocencia, Patricia Loto and Jesica Formoso, who shared expertise in leading accessible events and educational experiences
    * The Accessibility Working Group met early in the Book Dash to plan work on the TTW accessibility Policy and review the chapter "Planning Inclusive and Accessible Events" for the Guide to Collaboration authored by Sophia Batchelor.
    * Patricia and Jesica provided complete reviews of the chapter. Liz provided advice and started discussions at the Book Dash and on GitHub on the overall structure and also considerations of the identities of readers and people who will benefit from this work. 
 ### Book Dash Planning Committee (all of us should add our info and bio)
