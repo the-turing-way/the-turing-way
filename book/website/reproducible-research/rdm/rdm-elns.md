@@ -228,6 +228,7 @@ The following ELN options are each quite different but have many of the same cor
     
 * [OSF](https://osf.io/)
     *   OSF is oriented towards sharing and collaborating on your work, including the ability to generate DOIs and host pre-prints directly on the main instance.
+    See {ref}`OSF<rr-rdm-repository-osf>` for more information.
     *   It is free to use OSF at the main instance at [osf.io](https://osf.io/).
         For larger data you must provide your own additional [storage add-ons, available from a number of cloud storage providers](https://help.osf.io/article/395-storage-add-ons).
     *   Whilst you could deploy your own self-hosted OSF this is not how it is intended to be used (except for development).
