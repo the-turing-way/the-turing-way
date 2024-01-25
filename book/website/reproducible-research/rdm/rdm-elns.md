@@ -248,7 +248,6 @@ Microsoft OneNote is quite popular as an ELN despite a proprietary notebook form
 OneNote is a good experience as a free-form note taking tool especially for hand-written or drawn notes and automatic linking of annotations to audio timestamps.
 The lack of a good version history is a distinct downside.
 Its popularity likely stems, in part, from its availability in the Microsoft Office suite (software already provided by institutions which do not incur additional costs).
-Software which most institutions will already have, meaning they will not incurr additional costs if they use OneNote.
 
 Other generic note taking applications have featuresets which are not dissimilar to ELN solutions.
 For example, open source applications like [logseq](https://logseq.com/) or [zettlr](https://www.zettlr.com/), and proprietary ones like: [obsidian](https://obsidian.md/) or [notion](https://www.notion.so/).
