@@ -77,7 +77,7 @@ Finding software with the flexibility, capability, and scope to keep up is not e
         -   Free-hand drawing is not always well supported which can be necessary when using notation that is not easily represented in simple text such as mathematical and chemical notation
         -   Client issues, such as native mobile applications with incomplete featuresets, slow web-apps that may require an always-on connection and not be able to cache local changes
         -   No spatial memory, whereas in a physical book people may remember where they wrote things and can open it roughly on the right page
-        -   Extra expense, maintenence & procurement issues with hardware suitable for use in your research environment
+        -   Extra expense, maintenance and procurement issues with hardware suitable for use in your research environment
 
 -   Lack of sufficiently available training on more complex aspects of the ELN solution leading to poor, mis-use, or under-use of ELN features
 
