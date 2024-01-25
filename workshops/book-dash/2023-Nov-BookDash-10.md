@@ -192,7 +192,7 @@ We want to express our gratitude for their thoughtful engagement in the project 
        * ASK:
          
    * Name: Accessibility Working Group (Patricia, Liz & Jesica)
-       * Links to Issues and PR: 
+       * Links to Issues and PR: https://github.com/the-turing-way/the-turing-way/issues/3307 (reviewing inclusive events chapter)
        * ASK: 
 
    * Name: Ale
