@@ -152,7 +152,7 @@ When looking for any critical piece of software for long term use the first ques
 - What are the data export options and formats?
 
 Open solutions provide you with the assurance that if you do the appropriate preparatory work you should be able to access all of your data in its native form.
-For example keeping copies of the ELN software that can be run offline in a VM or similar computational environment in the future.
+For example keeping copies of the ELN software that can be run offline in a virtual machine (VM) or similar computational environment in the future.
 This is typically much easier for open applications and can be impossible for proprietary ones.
 Even if the tools are no longer maintained they can still be used to read the data and interact with it in (mostly) the same way.
 The data will also likely be stored in an open format from which it can relatively easily be extracted and ported to a new format.
