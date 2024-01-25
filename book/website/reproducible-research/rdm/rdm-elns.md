@@ -63,7 +63,7 @@ They are creative, stubborn, resourceful, and impatiently focused on answering t
 Finding software with the flexibility, capability, and scope to keep up is not easy and if it doesn't researchers won't use it - at least not as you intended.
 
 -   Shadow IT/notebooks
-    -   People using their own unsactioned solutions which may be a compliance issue and introduce risks that you have not accounted for
+    -   People using their own unsanctioned solutions which may be a compliance issue and introduce risks that you have not accounted for
 -   Infrequent updates
     -   People dump a copy of their work into the ELN only as often as necessary for compliance
 -   Consistency issues
