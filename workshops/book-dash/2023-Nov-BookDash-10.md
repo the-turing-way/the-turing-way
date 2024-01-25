@@ -311,7 +311,7 @@ Copy from: [https://annuel2.framapad.org/p/ttw-bookdash-nov2023-feedback](https:
        * **Day 5, 17 November**: [https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day5](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day5), HackMD: [https://hackmd.io/WezujLnWTUCozHzUomdTQA](https://hackmd.io/WezujLnWTUCozHzUomdTQA)
    * Post-event feedback: [https://annuel2.framapad.org/p/ttw-bookdash-nov2023-feedback](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-feedback), HackMD: [https://hackmd.io/cB7rgWJ-S9WugCFrWrKt1g](https://hackmd.io/cB7rgWJ-S9WugCFrWrKt1g)
    * Reports from the previous events:
-       * [https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash)
+       * [https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash](https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash)
 
 
 
