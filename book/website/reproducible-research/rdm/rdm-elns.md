@@ -258,4 +258,5 @@ For example, open source applications like [logseq](https://logseq.com/) or [zet
 * [Electronic Lab Notebooks: can they replace paper?](https://doi.org/10.1186/s13321-017-0221-3) by {cite:ps}`Kanza2017eln`
 * [Electronic Lab Notebooks](https://datamanagement.hms.harvard.edu/collect-analyze/electronic-lab-notebooks) by Harvard Medical School
 * [RSpace](https://www.researchspace.com/)
+* [ELN finder](https://eln-finder.ulb.tu-darmstadt.de/home) a tool to select an ELN suitable for your purposes
 
