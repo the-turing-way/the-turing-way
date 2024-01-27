@@ -389,16 +389,20 @@ parts:
                 file: communication/blogs/blogs-webpage
               - title: Personal stories - Blogs
                 file: communication/blogs/blogs-personal-stories
-          - title: Lay Summaries
+          - title: Summaries in Simple Language
             file: communication/lay-summaries
             sections:
-              - title: Personal Stories - Lay summaries
+              - title: Personal Stories - Summaries in Simple Language
                 file: communication/lay-summaries/lay-summaries-personal-stories
           - title: Podcasts for Research Communication
             file: communication/podcasts
             sections:
               - title: Personal Stories - Podcasts
                 file: communication/podcasts/podcasts-personal-stories
+          - title: Collaborating with Artists
+            file: communication/artists
+          - title: Collaborating with Civil Societies
+            file: communication/civil-society   
           - title: Presenting Posters and Conference Talks
             file: communication/presentations
             sections:
