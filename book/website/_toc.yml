@@ -389,6 +389,11 @@ parts:
                 file: communication/blogs/blogs-webpage
               - title: Personal stories - Blogs
                 file: communication/blogs/blogs-personal-stories
+          - title: Teaching with Executable Notebooks
+            file: communication/teaching-exe-notebooks
+            sections:
+              - title: Teaching with Executable Notebooks overview
+                file: communication/teaching-exe-notebooks/teaching-exe-notebooks-overview
           - title: Lay Summaries
             file: communication/lay-summaries
             sections:
