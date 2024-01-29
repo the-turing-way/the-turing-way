@@ -40,7 +40,7 @@ alt: Sign up in Crowdin or log in before you start the translation. You can also
 ---
 ```
 
-You can either create an account in Crowdin by filling the requested details or through sign up using your GitHub, Facebook, Twitter, GitLab or Google account.
+You can either create an account in Crowdin by filling the requested details or through sign up using your GitHub, Facebook, X (formerly Twitter), GitLab or Google account.
 
 ```{warning}
 _The Turing Way_ is using [Crowdin Enterprise](https://crowdin.com/enterprise), which is not connected to [crowdin.com](https://crowdin.com/) and needs a separate account.
