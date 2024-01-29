@@ -203,6 +203,7 @@ An initiative to devise ELN format standards would be most welcome.
   It does occasionally appear to conflate open-source solutions with self-hosted ones which need not necessarily be the case.
   Some companies will let you host proprietary apps on premises.
   It is also possible to pay for third party hosting and administration of open source applications.
+* [ELN finder](https://eln-finder.ulb.tu-darmstadt.de/home) a tool to select an ELN suitable for your purposes
 
 (rr-rdm-eln-open-elns)=
 ## Select Open Infrastructure ELN Options
@@ -258,5 +259,4 @@ For example, open source applications like [logseq](https://logseq.com/) or [zet
 * [Electronic Lab Notebooks: can they replace paper?](https://doi.org/10.1186/s13321-017-0221-3) by {cite:ps}`Kanza2017eln`
 * [Electronic Lab Notebooks](https://datamanagement.hms.harvard.edu/collect-analyze/electronic-lab-notebooks) by Harvard Medical School
 * [RSpace](https://www.researchspace.com/)
-* [ELN finder](https://eln-finder.ulb.tu-darmstadt.de/home) a tool to select an ELN suitable for your purposes
 
