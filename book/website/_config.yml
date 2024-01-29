@@ -30,8 +30,12 @@ html:
   use_issues_button         : true # Whether to add an "Open issue" button to pages. If `true`, repository information in repository: must be filled in
   use_edit_page_button      : true  # Whether to add an "Suggest edit" button to pages. If `true`, repository information in repository: must be filled in
   baseurl                   : "https://the-turing-way.netlify.com"  # The base URL where your book will be hosted. Used for creating image previews and social links. for example: https://mypage.com/mybook/
-  extra_navbar              : Visit our <a href="https://github.com/the-turing-way/the-turing-way">GitHub Repository</a>
-    <div>This book is powered by <a href="https://jupyterbook.org">Jupyter Book</a></div>
+  html:
+  extra_navbar: |
+        <div>
+            Visit our <a href="https://github.com/the-turing-way/the-turing-way">GitHub Repository</a><br>
+            This book is powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+        </div>
   extra_footer: |
     The Turing Way Community makes all of their materials publicly available under  <a href="https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md">open source licenses</a>
   comments:
