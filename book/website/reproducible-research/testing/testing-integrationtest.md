@@ -55,7 +55,7 @@ So is a code can be split into the main steps A, B, and C, and each of those con
 
 So in the top down approach the integration between sections at the top level (A, B and C) are tested, then integration between sections at the next level (for example, A.1 -> A.2) and so on.
 Testing upper level units by running all the code they contain including running lower level ones can lead to upper level tests breaking due to bugs in low level units.
-This is undesirable, so to prevent this the lower level sections should not be run, but [test stubs](#Use_test_doubles_stubs_mocking_where_appropriate) should be used to simulate the outputs from them.
+This is undesirable, so to prevent this the lower level sections should not be run, but [test stubs][rr-testing-guidance-mocking] should be used to simulate the outputs from them.
 
 Bottom Up is an approach to integration testing where integration between bottom level sections are tested first and upper-level sections step by step after that.
 Again test stubs should be used, in this case to simulate inputs from higher level sections.
