@@ -1,6 +1,7 @@
 [build]
 base = "book/"
 command = "make deps && make pathways"
+environment = { PYTHON_VERSION = "3.8" }
 publish = "website/_build/html"
 
 # Do not build deploy previews for branches from all-contributors bot
