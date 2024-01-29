@@ -44,7 +44,7 @@ Make sure you attach a license to your code and specify how you want to be cited
 Consider using a permissive license that allows for reuse.
 Also, you should choose a license which is compatible with the licenses of libraries or packages your software depends on.
 
-**See also**: {ref}`rr-licensing-software`, {ref}`rr-licensing-software-permissive`, {ref}`rr-licensing-compatibility`
+**See also**: {ref}`rr-licensing`, {ref}`rr-licensing-floss`, {ref}`rr-licensing-compatibility`
 
 ### 6. Make sure it is citable
 

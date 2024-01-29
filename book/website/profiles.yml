@@ -1,0 +1,104 @@
+- name: Early Career Researchers
+  files:
+    - project-design/project-design
+    - collaboration/github-novice
+    - project-design/project-repo
+    - project-design/pd-overview
+    - reproducible-research/reproducible-research
+    - reproducible-research/overview
+    - reproducible-research/reproducible-research
+    - reproducible-research/overview/overview-definitions
+    - reproducible-research/overview/overview-benefit
+    - reproducible-research/overview/overview-barriers
+    - reproducible-research/overview/overview-resources
+    - reproducible-research/rdm
+    - reproducible-research/vcs
+    - project-design/pd-overview
+    - project-design/pd-overview/pd-overview-methods
+    - project-design/sdp
+    - communication/communication
+    - communication/comms-overview
+    - communication/comms-overview/comms-overview-principles
+    - communication/dif-articles
+    - communication/presentations
+    - communication/social-media
+    - collaboration/collaboration
+    - collaboration/github-novice/github-novice-advanced
+    - ethical-research/ethics-intro
+  colour: blue
+  description: Early Career Researchers (ECRs) are students, PhDs and early-stage
+    postdocs who may not have a lot of experience in contributing to research
+    projects from start to finish. This curated set of chapters will allow them
+    to understand what best practices apply at different stages of development
+    to ensure research reproducibility.
+- name: Project Leaders
+  files:
+    - collaboration/leadership
+    - project-design/project-design
+    - project-design/project-repo
+    - project-design/pd-overview/pd-overview-planning
+    - project-design/pd-overview/pd-overview-repro
+    - project-design/pd-overview/pd-overview-methods
+    - project-design/pd-overview/pd-overview-version
+    - reproducible-research/reproducible-research
+    - reproducible-research/overview/overview-definitions
+    - reproducible-research/overview/overview-barriers
+    - reproducible-research/open
+    - reproducible-research/open/open-data
+    - reproducible-research/open/open-source
+  colour: purple
+  description: Project leaders are people who are responsible for project
+    planning, resource allocation and other decision-making for and with the
+    involvement of their project team. This curated set of chapters will point
+    them to relevant tools and practices that they can use for managing their
+    projects while ensuring transparency, reproducibility, collaboration and
+    ethical practices throughout the lifecycle of research.
+- name: Research Software Engineers
+  files:
+    - communication/citable/citable-cite
+    - collaboration/research-infrastructure-roles/rse
+    - collaboration/research-infrastructure-roles/rse-personal-story
+    - collaboration/maintain-review
+    - project-design/project-repo/project-repo-advanced
+    - reproducible-research/reproducible-research
+    - reproducible-research/overview
+    - reproducible-research/open
+    - reproducible-research/open/open-data
+    - reproducible-research/open/open-source
+    - reproducible-research/vcs
+    - reproducible-research/licensing
+    - reproducible-research/code-quality
+    - reproducible-research/testing
+    - reproducible-research/reviewing
+    - reproducible-research/renv
+    - reproducible-research/ci
+    - project-design/project-repo
+  colour: white
+  description: Research Software Engineers are programmers working in
+    an academic context who play crucial roles in projects involving data and
+    technology. This curated set of chapters will point them to open source and
+    reproducibility practices important for working with data and developing
+    software tools.
+- name: Software Citation
+  files:
+    - communication/citable/citable-steps
+    - communication/citable/citable-cite
+    - communication/citable/citable-cff
+    - communication/citable/citable-cffinit
+    - communication/citable/citable-linking
+    - communication/citable/citable-orcid
+    - communication/citable/citable-resources
+    - reproducible-research/reproducible-research
+    - reproducible-research/overview
+    - reproducible-research/open
+    - reproducible-research/open/open-source
+    - reproducible-research/licensing
+    - reproducible-research/rdm/rdm-metadata
+    - reproducible-research/rdm/rdm-sharing
+    - reproducible-research/code-reuse
+    - reproducible-research/code-reuse/code-reuse-overview
+  colour: green
+  description: From research to government, every sector strongly relies upon the
+    use of research software. This curated set of chapters guides the sharing
+    and citation of software components from source code to computational
+    workflows and executables while attributing all contributors fairly.

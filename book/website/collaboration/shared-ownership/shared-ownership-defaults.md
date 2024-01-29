@@ -23,7 +23,7 @@ The companies that host repositories can - as some do - make it easy to add a li
 Plan your project from the beginning to be open throughout the lifecycle of your research.
 When using personal or identifiable data, clearly state what measures are taken to ensure privacy and data security.
 For everything else in your work, choose an open source license and add it to your repository (see https://choosealicense.com/).
-You can read more about it in the {ref}`Licensing<rr-licensing-software>` chapter.
+You can read more about it in the {ref}`Licensing<rr-licensing>` chapter.
 
 ## Meaningful Acknowledgement of Contributors
 
