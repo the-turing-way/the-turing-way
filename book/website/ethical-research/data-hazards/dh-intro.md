@@ -38,7 +38,7 @@ name: data-hazard-environmental-cost
 alt: A red diamond with an image of the earth at the centre. The earth is surrounded by a flame. 
 
 ---
-_Data Hazards_ project illustration by Yasmin Dwiputri. Used under a CC-BY 4.0 licence. [DOI.](10.31219/osf.io/hzmyp).
+_Data Hazards_ project illustration by Yasmin Dwiputri. Used under a CC-BY 4.0 licence. [DOI.](https://doi.org/10.31219/osf.io/hzmyp).
 ```
 
 #### Description
