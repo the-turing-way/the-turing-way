@@ -15,18 +15,18 @@ A thorough test suite will contain tests at all of these levels (though some lev
 (rr-testing-types-of-testing)=
 ## Types of Testing
 
-[Smoke testing](#Smoke_testing): Very brief initial checks that ensures the basic requirements required to run the project hold.
+[][rr-testing-smoketest]: Very brief initial checks that ensures the basic requirements required to run the project hold.
 If these fail there is no point proceeding to additional levels of testing until they are fixed.
 
-[Unit testing](#Unit_tests):	A level of the software testing process where individual units of a software are tested. The purpose is to validate that each unit of the software performs as designed.
+[][rr-testing-unittest]: A level of the software testing process where individual units of a software are tested. The purpose is to validate that each unit of the software performs as designed.
 
-[Integration testing](#Integration_testing): A level of software testing where individual units are combined and tested as a group.
+[][rr-testing-types-integrationtest]: A level of software testing where individual units are combined and tested as a group.
 The purpose of this level of testing is to expose faults in the interaction between integrated units.
 
-[System testing](#System_tests):	A level of the software testing process where a complete, integrated system is tested.
+[][rr-testing-systemtest]: A level of the software testing process where a complete, integrated system is tested.
 The purpose of this test is to evaluate whether the system as a whole gives the correct outputs for given inputs.
 
-[Acceptance testing](#Acceptance_testing):	A level of the software testing process where a system is tested for acceptability.
+[][rr-testing-acceptance-regression]: A level of the software testing process where a system is tested for acceptability.
 The purpose of this test is to evaluate the system's compliance with the project requirements and assess whether it is acceptable for the purpose.
 
 Here's an analogy: during the process of manufacturing a ballpoint pen, the cap, the body, the tail, the ink cartridge and the ballpoint are produced separately and unit tested separately.

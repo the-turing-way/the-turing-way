@@ -22,7 +22,7 @@ We have created the following checklists, which are chronologically structured t
   * Find volunteers from the organisers who would like to run social events (discussion session, meal, informal chat) - During the event
   * Find volunteers from the organisers who would like to run community share out sessions - on the last day
   * Check with them if there is anything else they would like to suggest or get involved in
-- [ ] Announce in the newsletter and promote on Twitter at least 2-3 months in advance
+- [ ] Announce in the newsletter and promote on X (formerly Twitter) at least 2-3 months in advance
 - [ ] Think about who else needs to be invited, like Artists, speakers, more diverse participants
 - [ ] Identify helpers from the core members and invite them
 - [ ] Send a reminder in next newsletters with more details if needed
