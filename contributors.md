@@ -418,22 +418,22 @@ I also hope that it can convince people who don't consider themselves capable of
 
 ### Benjamin Mummery
 
+* Twitter: [@BenjaminMummery](https://twitter.com/@BenjaminMummery)
+
+* Short bio:
+> While studying Astrophysics, Benjamin was the first speaker at, and later organizer of, Liverpool PubHD ([Facebook](https://www.facebook.com/pubhdliverpool/), [Twitter](https://twitter.com/pubhd_liverpool?lang=en-gb)) - a monthly cross-discipline event that challenged PhD students to "explain their research in 10 minutes, while enjoying a pint." During this time he also developed and delivered multiple more official outreach events including presenting to both the public and airforce commanders at [RAF Cosford Airshow](https://www.youtube.com/watch?v=KImlYiCO7Vs), and frequent activities for schools. Now a Research Software Engineer at the Hartree Centre, he has continued his engagement with outreach, most recently in collaboration with Tim Powell designing a LEGO version of the Centre's iconic supercomputer [Scafell Pike](https://twitter.com/HartreeCentre/status/1189145621564968963). He can frequently be found banging on about [fictional](https://www.youtube.com/watch?v=zrqfT4aotfE) [time travel](https://inews.co.uk/culture/film/donnie-darko-reviewed-astrophysicist-531742).
+
+* Personal highlights:
+> I collaborated with a group of researchers from The Alan Turing Institute to draft a chapter of scientific outreach.
+
+### Brigitta Sipőcz
+
 * Role: Infrastructure Maintainer (2023 - present)
 * GitHub id: [bsipocz](https://github.com/bsipocz)
 * ORCID: [0000-0002-3713-6337](https://orcid.org/0000-0002-3713-6337)
 
 * Short bio:
-> While studying Astrophysics, Benjamin was the first speaker at, and later organizer of, Liverpool PubHD ([Facebook](https://www.facebook.com/pubhdliverpool/), [Twitter](https://twitter.com/pubhd_liverpool?lang=en-gb)) - a monthly cross-discipline event that challenged PhD students to "explain their research in 10 minutes, while enjoying a pint." During this time he also developed and delivered multiple more official outreach events including presenting to both the public and airforce commanders at [RAF Cosford Airshow](https://www.youtube.com/watch?v=KImlYiCO7Vs), and frequent activities for schools. Now a Research Software Engineer at the Hartree Centre, he has continued his engagement with outreach, most recently in collaboration with Tim Powell designing a LEGO version of the Centre's iconic supercomputer [Scafell Pike](https://twitter.com/HartreeCentre/status/1189145621564968963). He can frequently be found banging on about [fictional](https://www.youtube.com/watch?v=zrqfT4aotfE) [time travel](https://inews.co.uk/culture/film/donnie-darko-reviewed-astrophysicist-531742).
-
-### Brigitta Sipőcz
-
-* Twitter: [@BenjaminMummery](https://twitter.com/@BenjaminMummery)
-* Short bio:
 > I am an astronomer turned Research Software Engineer. I work at Caltech/IPAC to build and improve tools, e.g. Python libraries and Science Platforms to provide ways to access data in the NASA/IPAC Infrared Science Archive. Prior joining IPAC I was DiRAC Fellow in the data engineering team at the Institute for Data Intensive Research in Astrophysics and Cosmology in Seattle. I am a developer and maintainer of several open source astronomy libraries and their infrastructure (e.g. astroML, astroquery, astropy) and I enjoy contributing to upstream projects as well. I have a keen interest in finding ways to promote the open development model and make tools more sustainable. I am a fellow of the Software Sustainability Institute.
-
-* Personal highlights:
-> I collaborated with a group of researchers from The Alan Turing Institute to draft a chapter of scientific outreach.
-
 
 <!---C--->
 ## C
@@ -890,6 +890,30 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 <!---K--->
 ## K
+
+### Kalle Westerling
+
+* Role: 
+  * Book Dash Participant (2023)
+* GitHub id: [kallewesterling](http://github.com/kallewesterling)
+* ORCID: 0000-0002-2014-332X
+* Short bio:
+> Dr Kalle Westerling is a Research Application Manager at the [Turing Research and Innovation Cluster in Digital Twins (TRIC: DT](https://www.turing.ac.uk/research/research-projects/tric-dt)). He works with the TRIC: DT team of scholars to aid them in providing open and reproducible computational and social tools that are accessible to the UK research and innovation communities, keeping the user perspective prioritised in the development of research software, and to ensure the longevity, sustainability, and collaborative open-source advancement of these vital tools.
+> Prior to joining the Alan Turing Institute, Kalle was a Research Software Engineer with the [Living with Machines](https://www.turing.ac.uk/research/research-projects/living-machines) collaboration between the British Library, the Alan Turing Institute, and researchers from a range of UK universities. In that role, he developed new digital research methods, tools and ways of working with historical collections at scale.
+> Kalle holds a PhD in Theatre and Performance Studies from The Graduate Center, City University of New York (CUNY), where he visualised and analysed networks of marginalised, itinerant nightlife performers in the 1930s. In the United States, Kalle managed the Scholars program at HASTAC and the Digital Humanities Research Institute at CUNY, both efforts across numerous higher education institutions, aiming to build nation-wide infrastructures and communities for digital humanities skill-building.
+
+* Personal highlights:
+> I am excited to become more involved with The Turing Way community after the inspiring experience of this Book Dash.
+> During the event, I learned a tremendous amount about JupyterBook. Learning more around the syntax for referencing, adding images, and captions was particularly good for me :) 
+> This experience has definitely empowered me to dive into other open-source projects, explore more hackathons, and engage in similar collaborative efforts across the open-source community.
+> I also learned more about how to manage the all-contributors bot... and when to give up and just re-start completely!
+> I reviewed more pull requests than ever before in such a short span — super fun!
+> My role also included a lot of cheering on from the sidelines, a supportive effort to encourage the closure of more pull requests... I love to see a closed PR!!
+> Using a Miro board to restructure an entire section of The Turing Way was a big highlight too. It provided an opportunity to collaborate hands-on with colleagues I hadn't worked with closely before. It was not only productive but also brought, for me, a sense of teamwork and community.
+
+* Personal Quote:
+> I had an absolutely exhilarating time participating in The Turing Way Book Dash! It was a hands-on, engaging experience where I learned how to embed images into the pages, witnessing the book evolve in real-time with the content we were adding. What made the event stand out was its warm, inviting atmosphere — it transformed my usual solitary days spent in my home-office into a vibrant hub of collaboration. I felt like I was sharing my space with this amazing global community of brilliant minds. It was an unforgettable experience that not only enhanced my technical skills but also provided a sense of connection and camaraderie that I will remember especially, from this week together.
+
 
 ### Kim De Ruyck
 

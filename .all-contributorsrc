@@ -4548,6 +4548,24 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "zimolzak",
+      "name": "Andy Zimolzak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2705315?v=4",
+      "profile": "https://github.com/zimolzak",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Cghlewis",
+      "name": "Cghlewis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33465957?v=4",
+      "profile": "http://cghlewis.com",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
