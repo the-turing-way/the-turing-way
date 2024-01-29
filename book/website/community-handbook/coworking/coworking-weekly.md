@@ -71,7 +71,7 @@ The call begins with the team members welcoming the participants, sharing the Co
 
 The session chair will start the [timer](https://cuckoo.team/TW-coworking) to keep track of the Pomodoro sessions.
 If everyone plans to work on independent tasks, we will remain in the main room and work silently.
-For any discussion or collaborative task that two people of the call are working on, we will create [breakout rooms](#breakout-rooms) for them.
+For any discussion or collaborative task that two people of the call are working on, we will create [breakout rooms][ch-coworking-collabcafe-breakout] for them.
 
 If there are new members on the call, one of the members (usually host of the call) will take the new member to a breakout room to show them around the project repository and share some tips for getting started.
 
