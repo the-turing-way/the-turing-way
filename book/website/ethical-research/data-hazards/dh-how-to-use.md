@@ -13,7 +13,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 There are four steps to using the Data Hazard labels:
 
-1. **{ref}`Learning<er-datahazardshowtouse-labels>`**: familiarising yourself with the Data Hazard labels.
+1. **{ref}`Learning<er-datahazardshowtouse-learning>`**: familiarising yourself with the Data Hazard labels.
 
 2. **{ref}`Applying<er-datahazardshowtouse-apply>`**: deciding which Hazard labels are relevant to your project.
 
