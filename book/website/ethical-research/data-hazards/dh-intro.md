@@ -20,7 +20,7 @@ You can watch a short animation explaining the project below:
 (er-datahazardsintro-datahazardslabels)=
 ## Data Hazards labels
 In this section, we explain the nature of the project.
-Feel free to skip ahead to the next section for more practical guidance on {ref}`how to use the Data Hazards<(er-datahazardshowtouse>` in your data-intensive work. 
+Feel free to skip ahead to the next section for more practical guidance on {ref}`how to use the Data Hazards<er-datahazardshowtouse>` in your data-intensive work.
 
 ### What do they look like? Anatomy of a Data Hazards label
 
