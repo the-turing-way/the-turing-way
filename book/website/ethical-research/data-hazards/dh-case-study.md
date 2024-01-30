@@ -1,6 +1,7 @@
 (er-datahazardscasestudy)=
 # Case Study: Data Ethics and Reproducibility Symposium and Data Hazards Workshop 
-We (the organisers: Ceilidh Welsh and Susana Roman Garcia) wanted to create an event that revolved around the Data Hazards framework. 
+
+As organisers, we (Ceilidh Welsh and Susana Roman Garcia) wanted to create an event that revolved around the {ref}`Data Hazards framework<er-datahazards>`. 
 The event focused on showcasing how different people think about embedding ethics into the work that they do. 
 As PhD students, we both felt the need to connect our interest in creating more ethical and reproducible work with our project's scientific questions. 
 This passion for working more ethically brought us together, and we sought to see how other people are embedding ethics into their work. 
@@ -20,7 +21,9 @@ The workshop encourages attendees to explore, discuss and reflect on the ethical
 It was an opportunity for attendees to learn how to use the Data Hazards framework and see how it applies to different research projects.
 This allowed attendees to appreciate that ethics is complex, situational and important to discuss in our own contexts.
 
-```{note} **This case study is an account of our first-hand experiences organising and hosting an event. It may be useful to you if you would like to host or organise your own accessible workshop in data ethics and reproducibility (whether a Data Hazards workshop or not).**```
+```{note} 
+**This case study is an account of our first-hand experiences organising and hosting an event. It may be useful to you if you would like to host or organise your own accessible workshop in data ethics and reproducibility (whether a Data Hazards workshop or not).**
+```
 
 For more detailed information and checklists, please see the Turing Way page for {ref}`Organising a Conference<cl-organising-conferences>`.
 
@@ -97,9 +100,9 @@ Eventbrite worked well for us because:
 **Communications**
 To make sure we kept attendees engaged and up to date, we emailed them before the event to:
 - encourage those who could no longer attend to cancel their reserved slot so that someone else could attend in their place. 
-- provide a small nudge and reminder that the event was happening.
-- provide participants a code of conduct and agenda in advance.
-- provide a Zoom link for online participants (one-week in advance) and directions to the location of the symposium for those attending in-person. 
+- provide a small nudge and reminder that the event is happening.
+- provide participants with a code of conduct and agenda in advance.
+- provide a Zoom link for online participants (one week in advance) and directions to the location of the symposium for those attending in person. 
 
 This is what a template email could look like:
 
@@ -110,17 +113,17 @@ This is what a template email could look like:
 > **Checking in: can you still make it?**
 > We ask you to please be considerate and kindly let us know in advance if you can no longer make it to the event.
 > This will help us reduce waste when ordering catering as well as help with organizing room numbers.
-> Due to the high demand of this event, we have people in a waiting list, so please do cancel your ticket in advance if you cannot make it any more, in order to allow someone else to join instead. 
+> Due to the high demand for this event, we have people on a waiting list, so please cancel your ticket in advance if you cannot make it any more, in order to allow someone else to join instead. 
 > Please cancel directly through Eventbrite or by emailing the organisers.
 > 
 > **Agenda**:
-> Please find the tentative agenda here (add your own link here). It is mostly set up by now, please keep your eyes open for final details in the coming days. We are looking forward to showcasing these wonderful people and talks.
+> Please find the tentative agenda here (add your own link here). It is mostly set up now, please keep your eyes open for the final details in the coming days. We are looking forward to showcasing these wonderful people and talks.
 > 
 > **Code of Conduct**:
 > We ask all attendees to familiarize themselves with the code of conduct for the event (add your own link here). Please do have a read in your own time in order to allow for an open and welcoming environment among all participants. 
 > 
 > **How to reach the Alan Turing Institute, Enigma room**:
-> Once you arrive to the main Alan Turing Reception area, there will be someone there to greet you and guide you towards the Enigma room.
+> Once you arrive at the main Alan Turing Reception area, there will be someone there to greet you and guide you towards the Enigma room.
 > Instructions on how to get to the Turing Institute can be found here (add your own link here).
 
 
@@ -157,7 +160,7 @@ To ensure successful ordering and delivery of the catering on the day we:
 - received a quote from the caterers in advance and ensured we had the budget to cover the quote.
 - collected dietary requirements to ensure that all attendees were catered for, and ensured the catering company received these requirements in advance. 
 - arranged a delivery time and location.
-- ensured payment to catering company as per company and organisation policies.
+- ensured payment to the catering company as per company and organisation policies.
 
 Tip: make sure terms and conditions are read and timing requirements from different parties involved are clear from the beginning. 
 It might be that the caterer you are ordering from requires a purchase order to be completed at a certain time to complete the order action.
@@ -173,14 +176,14 @@ From our experience, here are some extra tips on the day of the event.
 
 (er-datahazardscasestudy-hosting-startingevent)=
 ### Starting the Event 
-- As the hosts arrive in-person at least 1 hour prior to start time to ensure the Zoom link and audio-visual equipment (speakers, screens and microphones) are all working.
+- As the hosts arrive in person at least 1 hour before start time ensure the Zoom link and audio-visual equipment (speakers, screens and microphones) are all working.
 - Open the online call early to allow for: 
-    - volunteers to settle in and open any breakout-rooms.
-    - participants to join in advance and set-up break out rooms for networking events and workshops later in the day.
+    - volunteers to settle in and open any breakout rooms.
+    - participants to join in advance and set up break-out rooms for networking events and workshops later in the day.
 
 (er-datahazardscasestudy-hosting-hybridevent)=
 ### Hybrid Event Tips
-We chose to host the symposium in a hybrid format as this would allow attendance for those interested in the topic, and speakers who would be unable to attend in-person.
+We chose to host the symposium in a hybrid format as this would allow attendance for those interested in the topic, and speakers who would be unable to attend in person.
  
 There are a lot of tasks involved in running a hybrid event. 
 Thanks to good communication with volunteers and preparing the room before the event, our hybrid format ran successfully without hiccups.
@@ -227,7 +230,7 @@ The Data Hazards workshop was a key part of the symposium.
 Participants engaged with a real-life research case study, presented by the researchers themselves, to evaluate the Data Hazards labels and which ones may apply. 
 The researcher gave a five-minute presentation on whole-cell models of _E. coli_. 
 Participants could then ask the researcher only factual questions about the project, for example, 'where did you collect your data from?'.
-There was collaboration between attendees, volunteers and the researcher to discuss the ethical context of the project.
+There were opportunities for attendees, volunteers and the researcher to discuss the ethical context of the project.
 We split the attendees into smaller groups to facilitate discussion and provide a series of prompt questions. 
 Each group then labelled the research project with the hazards they thought applied. 
 These were then fed back to the researcher for broader group discussions. 
