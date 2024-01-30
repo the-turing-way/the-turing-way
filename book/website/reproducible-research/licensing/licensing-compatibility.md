@@ -6,8 +6,101 @@ If these constraints conflict, then you cannot legally distribute the result (if
 
 If two licenses specify incompatible constraints on the license of the combined work, then they are _incompatible_.
 
+(rr-licensing-software-derivative)=
+## Derivative Software
+
+Within the category of free software, there are several subcategories, which are distinguished by what is allowed when making derivative software.
+There are two basic ways of making a derivative work of a program or library: modifying it (forking), or combining it with other software (for example using a library in your program).
+Of course, you can modify and then combine as well.
+
+Modifying a program leads to a new program that is derived from the original.
+This is similar to deriving the new edition of a textbook from the original.
+Both the original and modified versions are works under copyright law, and both of them may be licensed.
+
+As an example of combining software, imagine a program A that uses two preexisting libraries B and C.
+The complete program A will consist of library B, library C, and some code D that connects the libraries together and perhaps adds additional functionality.
+Each of these four items is a work of authorship with a license.
+Program A can sometimes be referred to as the "Combined work", "Work as a whole" or "Larger work".
+
+Different free software licenses place different constraints on how modified versions and combined works can be licensed.
+
+Copyleft licenses add some restrictions to the licensing of derivative works.
+Like permissive licenses, they let you distribute the software unchanged under that license.
+However, if you distribute a binary, then you have to include the source code as well.
+Modified versions have to be distributed under the same license as the original; you are not allowed to change the license.
+
 The GNU GPL, for instance, is incompatible with proprietary licenses, because it requires the combined work to be licensed under the GPL, with no additional restrictions allowed.
-Having a part of the work under a proprietary license is such an additional restriction, so you cannot distribute such a combination (unless the copyright owner of the GPL code gives special permission).
+Having a part of the work under a proprietary license is such an additional restriction, so you cannot distribute such a combination, unless the copyright owner of the GPL code gives special permission.
+However, GPL codebases often have many contributors and you need all of their permission. This is an intended feature of the license which is by design hostile to being re-licensed in a proprietary fashion.
+{ref}`Contributor License Agreements (CLAs)<rr-licensing-edge-clas>` can be used by GPL projects circumvent this by empowering a single party to make decisions about relicensing if they want to allow for dual licensing of GPL or AGPL codebases.
+
+When creating a combined work, a further distinction can be made.
+_Strong_ copyleft licenses on a component require a combined work to be licensed under the same license as the component.
+In the example above, if library B is distributed under a strong copyleft license such as the GNU GPL, then program A must be distributed under that same license.
+
+_Weak_ copyleft licenses allow the combined work (A) to be distributed under any license, as long as the source for the licensed component (B) is also made available under its original license.
+They may also require that the recipient of the combined work can re-link the modules after modifying the component.
+
+(rr-licensing-software-overview)=
+## Permission Overview
+
+<table>
+    <thead>
+        <tr>
+            <th rowspan="2"></th>
+            <th colspan="2">Copyleft</th>
+            <th rowspan="2">Permissive</th>
+            <th rowspan="2">Proprietary</th>
+        </tr>
+        <tr>
+            <th>Strong</th>
+            <th>Weak</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Use for anything</th>
+            <td>Yes</td>
+            <td>Yes</td>
+            <td>Yes</td>
+            <td>Sometimes</td>
+        </tr>
+        <tr>
+            <th>Private changes</th>
+            <td>Yes</td>
+            <td>Yes</td>
+            <td>Yes</td>
+            <td>Rarely</td>
+        </tr>
+        <tr>
+            <th>Distribute original</th>
+            <td>Same license, with source</td>
+            <td>Same license, with source</td>
+            <td>Same license, also binary-only<sup>1</sup></td>
+            <td>Rarely</td>
+        </tr>
+        <tr>
+            <th>Distribute modified</th>
+            <td>Same license, with source</td>
+            <td>Same license, with source<sup>2</sup></td>
+            <td>Any license, also binary-only</td>
+            <td>Rarely</td>
+        </tr>
+        <tr>
+            <th>Distribute combined</th>
+            <td>Same license, with source</td>
+            <td>Any license, binary additions</td>
+            <td>Any license, also binary-only</td>
+            <td>Rarely</td>
+        </tr>
+    </tbody>
+    <caption>
+      <div class="footnote">
+        <sup>1</sup>Under any license for the MIT license <sup>2</sup>Relicensing LGPL to GPL is allowed
+      </div>
+      Permissive licenses grant the largest set of permissions to users. Copyleft licenses require redistribution of the original or modified source to use the same license, with weak copyleft licences allowing a different choice of license for the combined work. Proprietary licenses rarely provide any permissions beyond the right to use the software.
+    </caption>
+</table>
 
 When you use different pieces of software together to solve a problem, and want to distribute the result, here are the questions you have to answer:
 
@@ -248,6 +341,7 @@ If it did not include OpenIFS, it would have to be distributed under the GPLv3, 
 #### Can we work on this privately, without distributing anything?
 
 The GPL allows making private modifications of software covered by it, with no restrictions, provided the changed software is not distributed at all.
+In the case of the AGPL, running a server interacted with in some way by users over a network is equivalent to distribution under the GPL and you would be required to provide any users with the source code.
 The OpenIFS license also allows making private modifications.
 So we can work on this project (and prepare and run combined works) without violating the licenses, as long as we do not share the results with anyone.
 

@@ -10,7 +10,7 @@ One or two members from the core team are always available on the call to suppor
 ## Attending an online Collaboration Cafe
 
 The schedule for the collaboration cafe can be viewed from the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon).
-We also announce calls in our [monthly newsletters](https://tinyletter.com/TuringWay/archive), send a reminder on the [Slack channel](https://tinyurl.com/jointuringwayslack) and [Twitter](https://twitter.com/turingway).
+We also announce calls in our [monthly newsletters](https://tinyletter.com/TuringWay/archive), send a reminder on the [Slack channel](https://tinyurl.com/jointuringwayslack) and on [X (formerly Twitter)](https://twitter.com/turingway).
 
 Though scheduled for 2 hours, we understand that for many interested participants it might be impossible to commit to the entire 2 hours on one or multiple occasions, therefore, you are welcome to join for as long as your schedule allows.
 
@@ -63,7 +63,7 @@ We'll run the following schedule during each Collaboration Cafe:
   - Update the date for the upcoming call
   - Move the notes from the previous call below the working area (that will be archived in this Notion page periodically)
   - Update an icebreaker question
-  - Share the notes on Slack and Twitter announcing the event
+  - Share the notes on Slack and on X announcing the event
 
 **Want to see how we run these calls?**
 
@@ -135,7 +135,7 @@ Here are a few example questions (so you know what to expect):
 * what is your favorite flavor in cake/ice-cream?
 
 *Do you have another interesting question to ask others?*
-*[Get in touch](/README.md#get-in-touch) and let us know!*
+*[Get in touch](https://github.com/the-turing-way/the-turing-way#get-in-touch) and let us know!*
 *We love creative suggestions!*
 
 Here's an example from the second Collaboration Cafe in September 2019:

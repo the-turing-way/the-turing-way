@@ -18,6 +18,11 @@ Add
 Adversarial Learning
   A process under which learning systems are exposed to negative stimuli, such as the addition of purposefully manipulated data samples, in order to obtain potentially-beneficial effects. Examples of this technique may include the addition of additional learning objectives which penalise unwanted characteristics of a learning system, for example the ability to distinguish between data records based on inappropriate demographic attributes.
 
+Artificial intelligence (AI)
+  The ability of synthetic computational systems to perform tasks and activities usually associated with biological, especially human, mental and intellectual capabilities.
+  Also the field of study associated with imbuing synthetic systems with these capabilities.
+  See also {term}`Machine Learning (ML)<Machine Learning (ML)>`
+
 Authors
   Authors in this context are the contributors to _The Turing Way_ project who have made a substantial contribution to the project such as writing a subchapter, facilitating community interactions, maintaining project’s infrastructure and supporting the participation of others through mentored-contributions. All authors are named co-authors on the book as a whole.
 
@@ -130,13 +135,13 @@ CRediT Taxonomy
 ```{glossary}
 
 Data repository
-  See repository.
+    A storage place on the internet where resources (data, software, publications or anything else) can be stored and accessed. Often data repositories provide long term preservation and persistent identifiers for the research objects stored. A data repository is the container for data and metadata, whereas a database is the structure that is used to store and manage that data.
 
 Differential privacy
   A strategy to provide quantifiable privacy guarantees when working with datasets containing personal information. The idea is that if the effect of making a single arbitrary substitution of a single record within the dataset on an aggregated query is below a specific threshold, then the result of any such query would not reveal substantial information about any individual member.
 
 DMP
-  Data management plan.
+  Data Management Plan.
 
 DNS
   Domain Name System.
@@ -229,6 +234,9 @@ Guarantor
 ## H
 
 ```{glossary}
+Hazard
+  Inherent qualities or characteristics of something that make it potentially harmful.
+
 Head
   The latest commit on the branch which is currently checked out.
 
@@ -320,6 +328,11 @@ Last author
 ## M
 
 ```{glossary}
+
+Machine Learning (ML)
+  Methods which allow computational systems to extract regularities from data which permit them to perform tasks such as prediction and categorisation in a way that is at least superfially analogous to how biological systems learn.
+  A broard sub-field of {term}`Artificial Intelligence (AI)<Artificial Intelligence (AI)>` generally distinct from Symbolic Artificial inteligence, also know as GOFAI (good old fashioned AI), which focuses on programmed systems which perform logical reasoning.
+  Machine Learning (ML) is sometimes used interchangeably with Artificial Intelligence (AI), but often employed to differentiate concrete or extant systems and algorithms from broarder and more speculative approaches to synthetic intelligent systems.
 
 Machine Readable
   Machine readable refers to documents, data or other digital outputs whose content can be readily processed by computers. Such documents are distinguished from machine readable data by virtue of having sufficient structure to provide the necessary context to support the business processes for which they are created. Machine readable data can be defined as data in a format that can be easily processed by a computer without human intervention while ensuring no semantic meaning is lost.
@@ -486,7 +499,7 @@ repo2docker
   A tool to build Docker images from code repositories.
 
 Repository
-  *Same as Data or Code Reprository*. A long-lived place on the internet where resources (be they data, software, publications or anything else) can be stored and accessed. This keyword is often shortened to ‘repo’.
+  A central location where resources (data, software, publications or anything else) are stored and accessed. This keyword is often shortened to ‘repo’. See Data Repository if this place is long-lived.
 
 Reproducible
   A result is reproducible when the same analysis steps performed on the same dataset consistently produces the same answer.
@@ -508,6 +521,9 @@ Research Objects
 
 Review
   Suggesting changes or asking for committing something to an already created pull request.
+
+Risk
+  A term that refers to the likelihood and impact of something happening. It's often used in decision-making contexts to evaluate the potential consequences of actions
 
 Risk Assessment
   This is used to help choose the appropriate sustainable software concepts for your project.

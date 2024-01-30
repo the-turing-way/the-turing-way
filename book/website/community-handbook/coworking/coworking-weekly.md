@@ -55,7 +55,7 @@ Please update the document each month using the following steps:
 
 - [Update the HackMD](https://hackmd.io/@turingway/coworking-call) each month by adding dates for the weekly calls
 - Move the notes from the previous call below the template area (that will be archived in this Notion page periodically)
-- Share the notes on Slack and Twitter announcing the dates
+- Share the notes on Slack and X (formerly Twitter) announcing the dates
 - Use the notes during the call to share information as you chair the call
 - Make sure that you share the Code of Conduct link and use the shared Cuckoo (or other web-based clocks)
 - Create breakout rooms for people before starting the Pomodoro sessions - when needed
@@ -71,7 +71,7 @@ The call begins with the team members welcoming the participants, sharing the Co
 
 The session chair will start the [timer](https://cuckoo.team/TW-coworking) to keep track of the Pomodoro sessions.
 If everyone plans to work on independent tasks, we will remain in the main room and work silently.
-For any discussion or collaborative task that two people of the call are working on, we will create [breakout rooms](#breakout-rooms) for them.
+For any discussion or collaborative task that two people of the call are working on, we will create [breakout rooms][ch-coworking-collabcafe-breakout] for them.
 
 If there are new members on the call, one of the members (usually host of the call) will take the new member to a breakout room to show them around the project repository and share some tips for getting started.
 

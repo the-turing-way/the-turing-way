@@ -44,4 +44,4 @@ Manual changes to the contributors list, such as adding a contributor or regener
 
 ## Collaborating Organisations and Projects
 
-The {ref}`Collaborating Organisation and Projects section<contributors-record-collaborators>` is written directly in `contributors-record.md`.
+The description of the {ref}`Collaborating Organisation and Projects<collaborators>` should be directly written in `collaborarators.md` file in the 'Afterword' of the book.
