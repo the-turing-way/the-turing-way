@@ -4,7 +4,7 @@
 (cm-open-education-what)=
 ## What is Open Education
 Open Education is a collective term that encompasses educational resources, tools and practices that can be freely used in the digital environment without legal, financial or technical barriers. 
-Open Education can also include [Open Pedagogy](http://openpedagogy.org/open-pedagogy/) which also focuses on the process of collaboratively developing educational practices and structures. 
+Open Education can also include [Open Pedagogy](http://openpedagogy.org/open-pedagogy2/) which also focuses on the process of collaboratively developing educational practices and structures. 
 In open educational practices there is more space for [participation of learners in the knowledge creation and sharing](https://opencontent.org/blog/archives/2975), empowering learners and stimulating peer-learning and colllaboration.  
 
 (cm-open-education-why)=
