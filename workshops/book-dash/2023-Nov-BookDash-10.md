@@ -237,7 +237,6 @@ We want to express our gratitude for their thoughtful engagement in the project 
            * Julien C (Open Hardware): very insighful for me and pertinent for some colleagues working on Open Hardware for Environmental monitoring and education 
            * Richard (Ethical Licensing): this requires further reading, but it was so informative to learn about the fundamental freedoms of free/libre software and ! This is very relevant to a project I'm participating about Open Computer Vision.
            * Notes:
-               * Alejandro's sixth week, very nice week hahaha late 
 
 ### Videos:
    * Share-out Session 1: [https://youtu.be/sRuVu\_6vO-E](https://youtu.be/sRuVu\_6vO-E)
