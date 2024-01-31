@@ -251,7 +251,6 @@ We want to express our gratitude for their thoughtful engagement in the project 
 At the end of the event, we asked our participants to share feedback anonymously in the “Pluses and Deltas” HackMD.
 We greatly appreciate the work that our attendees have accomplished in the project during this short event and thank them for their feedback, a few of which have been highlighted below.
 
-Copy from: [https://annuel2.framapad.org/p/ttw-bookdash-nov2023-feedback](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-feedback)
    * I really loved the accessibility, the flexibility and in general the whole community VIBE. As a github beginner, I really appreciated the support in every step, the celebration of the little steps I took and all the comments and help.
    * I really appreciated the onboarding session and the GitHub sessions. TTW is the biggest open-source project I have contributed to, and they made the process of contributing a lot clearer and approachable. +1+1
    * Accessibility is an asset of our vibrant TTW community. Thanks for all your effort to make Book Dash accessible. Just wanted to thank Book Dash organisers for all the exciting sessions and subsidising childcare. Fantastic to have this support!
