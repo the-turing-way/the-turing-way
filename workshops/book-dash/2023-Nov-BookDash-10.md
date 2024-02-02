@@ -16,7 +16,7 @@ _Screenshot of the second Community Share-outs, hosted on 17 November 2023. From
 
 Accepted participants, trainers and presenters in alphabetical order:
 
-Anne Lee Steele (*), Alejandro Coca-Castro, Alexandra Araujo Alvarez (*), Arielle Bennett (*), Batool Almarzouq (*), Calum Heath (Scriberia illustrator), Cari Hyde-Vaamonde, Ceilidh Welsh, Emma Karoune (*), Eriol Fox, Esther Plomp (*), Francisco Gomez-Medina, David Llewellyn-Jones, David Sarmiento, Gigi Kenneth, Jennifer Ding, Jesica Formoso, Johanna Bayer, Jonny Heath (Jonny Writes words - workshop facilitator), Kalle Westerling, Kirstie Whitaker, Liz Hare (*), Malvika Sharan, Maria Cristina Nanton, Mike Nolan, Patricia Andrea Loto, Richard J. Acton, Sarah Gibson, Sara Villa, Saranjeet Kaur (*), Susana Roman-Garcia (*) and Winny Nekesa (*)
+Anne Lee Steele (*), Alejandro Coca-Castro, Alexandra Araujo Alvarez (*), Arielle Bennett (*), Batool Almarzouq (*), Calum Heath (Scriberia illustrator), Cari Hyde-Vaamonde, Ceilidh Welsh, Emma Karoune (*), Eriol Fox, Esther Plomp (*), Francisco Gomez-Medina, David Llewellyn-Jones, David Sarmiento, Gigi Kenneth, Jennifer Ding, Jesica Formoso, Johanna Bayer (*), Jonny Heath (Jonny Writes words - workshop facilitator), Kalle Westerling, Kirstie Whitaker, Liz Hare (*), Malvika Sharan, Maria Cristina Nanton, Mike Nolan, Patricia Andrea Loto, Richard J. Acton, Sarah Gibson, Sara Villa, Saranjeet Kaur (*), Susana Roman-Garcia (*) and Winny Nekesa (*)
 
 (*) Book Dash Planning Committee 2023 members. 
 
