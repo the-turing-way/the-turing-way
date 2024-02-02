@@ -28,7 +28,7 @@ Anne Lee Steele (*), Alejandro Coca-Castro, Alexandra Araujo Alvarez (*), Ariell
    * Kirstie Whitaker and Susana Roman Garcia led 'Show and Tell' Lunch sessions in English and Spanish, respectively, opening the door for more multi-lingual sessions at future Book Dashes.
    * Richard J. Acton led a social session about 'Licensing', preparing [interactive materials and exercises in order to understand how they affect open source practices](LINK).
    * Two Community Share-outs were hosted by Anne Lee Steele (should I add my name here?), where Book Dash participants shared with the rest of the community and fellow Book Dash Participants what they were focused on during the week, where help was needed and to celebrate their collective achievements.
-   * 
+   
 ### About the Book Dash Event 
 
 *The Turing Way* Book Dash is the bi-annual contribution event of The Turing Way Community. It is called a Dash (instead of a Book Sprint), because it aims to be a short event. During the Book Dash participants collaboratively work on *The Turing Way* book to propose new topics, discuss ideas, develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. Participants can also  contribute to improving the ways we work in the community and take the lead on accomplishing different tasks or subprojects. For more information, look at: [https://the-turing-way.netlify.app/community-handbook/bookdash.html](https://the-turing-way.netlify.app/community-handbook/bookdash.html)
