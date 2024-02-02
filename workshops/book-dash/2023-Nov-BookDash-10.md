@@ -27,7 +27,7 @@ Anne Lee Steele (*), Alejandro Coca-Castro, Alexandra Araujo Alvarez (*), Ariell
    * Arielle Bennett and Emma Karoune kicked off the social sessions with an exciting session about "Adding images into the book" where participants were given templates and guidelines to help them insert Scriberia images from the archive into the book with alt text.
    * Kirstie Whitaker and Susana Roman Garcia led 'Show and Tell' Lunch sessions in English and Spanish, respectively, opening the door for more multi-lingual sessions at future Book Dashes.
    * Richard J. Acton led a social session about 'Licensing', preparing [interactive materials and exercises in order to understand how they affect open source practices](LINK).
-   * Two Community Share-outs were hosted by Anne Lee Steele (should I add my name here?), where Book Dash participants shared with the rest of the community and fellow Book Dash Participants what they were focused on during the week, where help was needed and to celebrate their collective achievements.
+   * Two Community Share-outs were hosted by Anne Lee Steele, where Book Dash participants shared with the rest of the community and fellow Book Dash Participants what they were focused on during the week, where help was needed and to celebrate their collective achievements.
    
 ### About the Book Dash Event 
 
