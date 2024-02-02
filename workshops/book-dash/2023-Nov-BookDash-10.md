@@ -74,14 +74,11 @@ For more information, look at: (The Turing Way Book Dashes)[https://the-turing-w
    Framapad was also an improvement over the Software Sustainability Institute's Etherpad instance (which was unstable during a previous Book Dash with multiple simultaneous participants).
    * The Accessibility Working Group was joined by two colleagues from Metadocencia, Patricia Loto and Jesica Formoso, who shared expertise in leading accessible events and educational experiences
    * The Accessibility Working Group met early in the Book Dash to plan work on the TTW accessibility Policy and review the chapter "Planning Inclusive and Accessible Events" for the Guide to Collaboration authored by Sophia Batchelor.
-   * Patricia and Jesica provided complete reviews of the chapter. Liz provided advice and started discussions at the Book Dash and on GitHub on the overall structure and also considerations of the identities of readers and people who will benefit from this work. 
+   * Patricia and Jesica provided complete reviews of the chapter. Liz provided advice and started discussions at the Book Dash and on GitHub on the overall structure and also considerations of the identities of readers and people who will benefit from this work.
+     
 ### Book Dash Planning Committee
 
-[ Image will be placed here ]
-
-*Planning committee members (order - left to right and top to bottom):
-
-Learn more about them:
+*Planning committee members. Learn more about them:
 
    * Anne Lee Steele is the Research Community Manager of The Turing Way. She provided the Book Dash Planning Committee operational support during the planning process, coordinated the communications campaign, and mentored contributors throughout the week. She also co-hosted the in-person hub in London, and facilitated hybrid Community Share-out and Working Group share-out sessions at the end of the week.
    * Alexandra Araujo Alvarez is the Research Project Manager for The Turing Way. She provided the Book Dash Planning Committee operational support, being responsible for managing the Book Dash budget, contracting external suppliers, processing participants expenses and organising the catering at the in-person hub in London
