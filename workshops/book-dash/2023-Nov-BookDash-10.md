@@ -62,7 +62,8 @@ For more information, look at: (The Turing Way Book Dashes)[https://the-turing-w
    * We circulated these draft checklists through the planning committee so that the checklists could be tested live during the book dash itself and we also received feedback on it.
    * The checklists involved tasks for both the primary/secondary day leads and session hosts.
    * For the day leads, the checklist was divided into three parts they should lead: before the day, during the day, and after the day ends.
-   * For the session hosts, the checklist was divided into 3 parts (for both contribution and social sessions): before session, during session, and after the session. The checklist provided a technical orientation to hosting as well as describing the role of host.
+   * For the session hosts, the checklist was divided into three parts (for both contribution and social sessions): before session, during session, and after the session. 
+   The checklist provided a technical orientation to hosting as well as describing the role of host.
 
 
 ### Accessibility Assessment 
