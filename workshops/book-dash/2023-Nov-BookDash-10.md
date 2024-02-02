@@ -39,7 +39,7 @@ For more information, look at: (The Turing Way Book Dashes)[https://the-turing-w
 
 ### Format of the event
    * The November edition of Book Dash featured 17 invited contributors, 12 committee members, two external facilitators, 14 online working sessions, four discussions and social events, and two community share-outs.
-   * In the past, we have organised 1-1.5 day-long Book Dash events in person or partially remotely.
+   * In the past, we have organised 1-1.5 day-long Book Dash events in-person or partially remotely.
    * However, since November 2020, we have been hosting Book Dashes online and with multiple short co-working called development sessions spread over 5 days for flexible participation by members.
    * We developed this format to allow people in different time zones to participate with the same efficiency and equitable support.
    * This involved creating multiple small development sessions throughout the day, adding dedicated sessions for informal social interactions, developing shared documents with all the information, providing support funds to ensure that everyone can comfortably participate and hosting a pre-event call to communicate these resources to everyone.
