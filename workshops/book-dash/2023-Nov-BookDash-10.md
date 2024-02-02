@@ -148,7 +148,7 @@ We want to express our gratitude for their thoughtful engagement in the project 
        * Links to Issues and PR: 
            * Subchapter to industry-academia collaborations titled "case studies and best practices in academia-industry collaborations". Still in progress, but this week I made progress in putting together resources in TTW and external to TTW useful for writing about best practices in academic-industry collaboration. (Thank you to Vicky, Jen, Anne, Ale, Kalle, and Alejandro!)
            * Issue [#3407](https://github.com/the-turing-way/the-turing-way/issues/3407) and PR [#2410](https://github.com/the-turing-way/the-turing-way/pull/3410)
-           * My first merge!
+           * My first merge! PR [#3414](https://github.com/the-turing-way/the-turing-way/pull/3414)
        * ASK: Let me know of people who are doing research with industry and academia and might be interested in contributing to this chapter and/or benefit from this chapter!
 
    * Name: David Llewellyn-Jones
