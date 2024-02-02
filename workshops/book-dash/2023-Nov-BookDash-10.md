@@ -51,7 +51,7 @@ For more information, look at: (The Turing Way Book Dashes)[https://the-turing-w
    * As in the past, we invited applications through an open call where interested applicants could state their goals and interest in the Book Dash. 
        * Previous attendees and long-term members of the community were also invited to sign up as mentors for new contributors and session leads as part of the application process
    * Applicants were asked to describe what they wanted to contribute to the Turing Way during the Book Dash, and how they would collaborate and engage with other participants.
-   * To get a sense of the time zones these applicants came from, we asked them to choose their preferred slots during the day that they could join. 
+   * To get a sense of the time zones these applicants came from, we asked them to choose their preferred slots. 
    * The Book Dash Planning Committee used the rubrics (as explained in the online chapter) to score the applications during the review. They met online to discuss applications, frame feedback and conclude their selection process.
    * Relevant sub-chapter: [https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-application](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-application)
    * In the future, applications will include a wider range of timeslots for participation, and may also benefit from additional explanations of the type of work which is completed during a Book Dash. 
