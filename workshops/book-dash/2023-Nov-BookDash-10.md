@@ -54,6 +54,7 @@ For more information, look at: (The Turing Way Book Dashes)[https://the-turing-w
    * To get a sense of the time zones these applicants came from, we asked them to choose their preferred slots. 
    * The Book Dash Planning Committee used the [rubrics](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-application#rubrics-for-scoring-applications) to score the applications during the review. They met online to discuss applications, frame feedback and conclude their selection process.
    * In the future, applications will include a wider range of timeslots for participation, and may also benefit from additional explanations of the type of work which is completed during a Book Dash. 
+
 ### Hosting sessions 
 
    * Along with Anne, we started a new issue to create the Book Dash Planning Committee subchapter ([https://github.com/the-turing-way/the-turing-way/issues/3367)](https://github.com/the-turing-way/the-turing-way/issues/3367)). The main idea was to create checklists for day lead(s) and session host(s). 
