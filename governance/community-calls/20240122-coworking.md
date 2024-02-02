@@ -33,7 +33,7 @@
 * What authority should a WG chairs/lead have?
    * Should not need to design org level proposal - need to come from the team
    * Once the proposal is designed and approved by the delivery team, they should go ahead independently with transparently sharing what is happening
-   * **They are blocked **from making decision that need to come from the team
+   * **They are blocked** from making decision that need to come from the team
    * Giving WGs authority:
        * to design their WG repo as long as they are aligned with CoC
        * agency/autonomy in leading their WG - how?
