@@ -22,7 +22,8 @@ Anne Lee Steele (*), Alejandro Coca-Castro, Alexandra Araujo Alvarez (*), Ariell
 
 ### Highlights
    * 34 issues and 42 pull requests were submitted on a spectrum of topics – from data hazards to project management, data feminism, academic-industry collaborations, mental health, accessibility, and beyond
-   * We had an in-person hub in London, but had online sessions spanning multiple time zones throughout the week, with special addition for Americas friendly timezones.
+   * We had an in-person hub in London
+   * The online sessions spanned multiple time zones, with special addition for Americas friendly timezones.
    * Arielle Bennett and Emma Karoune kicked off the social sessions with an exciting session about "Adding images into the book" where participants were given templates and guidelines to help them insert Scriberia images from the archive into the book with alt text.
    * Kirstie Whitaker and Susana Roman Garcia led 'Show and Tell' Lunch sessions in English and Spanish, respectively, opening the door for more multi-lingual sessions at future Book Dashes.
    * Richard J. Acton led a social session about 'Licensing', preparing [interactive materials and exercises in order to understand how they affect open source practices](LINK).
