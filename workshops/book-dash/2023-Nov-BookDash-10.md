@@ -75,7 +75,7 @@ For more information, look at: (The Turing Way Book Dashes)[https://the-turing-w
    * The Accessibility Working Group was joined by two colleagues from Metadocencia, Patricia Loto and Jesica Formoso, who shared expertise in leading accessible events and educational experiences
    * The Accessibility Working Group met early in the Book Dash to plan work on the TTW accessibility Policy and review the chapter "Planning Inclusive and Accessible Events" for the Guide to Collaboration authored by Sophia Batchelor.
    * Patricia and Jesica provided complete reviews of the chapter. Liz provided advice and started discussions at the Book Dash and on GitHub on the overall structure and also considerations of the identities of readers and people who will benefit from this work. 
-### Book Dash Planning Committee (all of us should add our info and bio)
+### Book Dash Planning Committee
 
 [ Image will be placed here ]
 
