@@ -279,7 +279,7 @@ We greatly appreciate the work that our attendees have accomplished in the proje
    * [GitHub planning issue](https://github.com/the-turing-way/the-turing-way/issues/3210](https://github.com/the-turing-way/the-turing-way/issues/3210)
    * [GitHub Book Dash Governance](https://github.com/the-turing-way/the-turing-way/issues/3231#issuecomment-1647578024)
 
-## November 2024 Book Dash Links
+## November 2023 Book Dash Links
 
    * [Application form](https://docs.google.com/forms/d/13QsDH0rHtI3qRCj9yem4\_iXHrVKb\_9wZtQ-ALkpbYtk/edit)
        * [Video: Book Dash Application Walk-Through](https://www.youtube.com/watch?v=ZG-KxZzOGXo)
