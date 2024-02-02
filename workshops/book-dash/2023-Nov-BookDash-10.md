@@ -59,7 +59,7 @@ For more information, look at: (The Turing Way Book Dashes)[https://the-turing-w
 
    * Along with Anne, we started a [new issue](https://github.com/the-turing-way/the-turing-way/issues/3367) to create the Book Dash Planning Committee subchapter. 
    The main idea was to create checklists for day lead(s) and session host(s). 
-   * We circulated these WIP checklists through the planning committee so that they can be tested live during the book dash itself and we also received some feedback on it.
+   * We circulated these draft checklists through the planning committee so that the checklists could be tested live during the book dash itself and we also received feedback on it.
    * The checklists involved tasks for both the primary and secondary day leads and session hosts.
    * For the day leads, the checklist was divided into 3 parts: before the day they lead, during the day they lead, and after the day they lead ends.
    * For the session hosts, the checklist was divided into 3 parts (for both contribution and social sessions): before session, during session, and after the session. The checklist provided a technical orientation to hosting as well as describing the role of host.
