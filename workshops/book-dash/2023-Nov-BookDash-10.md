@@ -100,118 +100,98 @@ We want to express our gratitude for their thoughtful engagement in the project 
    * Deadline for submission: 11 September 2023 (anywhere on Earth) - (originally on 15 September 2023 but extended)
    * Decisions on the applications: Latest by 01 October 2023
    * Pre Book Dash Onboarding calls (2 x 1 hour): 30 October 2023. 
-       * 9:00 am session: led Batool, Saranjeet, Emma, Anne, Alexandra
-       * 17:00 session: Arielle, Anne, Alexandra
-   * Pre Book Dash GitHub Skill-up (1 hour): 6 November 2023, led by Batool Almarzouq and Johanna Bayer
+       * 9:00 am session: led by Batool, Saranjeet, Emma, Anne, Alexandra
+       * 17:00 session: led by Arielle, Anne, Alexandra
+   * Pre Book Dash GitHub Skill-up (1 hour): 6 November 2023, led by Batool and Johanna
    * Book Dash Contribution Sessions during the week: of 13-16 November 2023
    * The Turing Way community share-out: 17 November 2023. Additions to The Turing Way Book
-*Curated from the DAY-5 share out notes*
 
-### **GitHub activities:** New and existing Pull Requests and Issues that attendees worked on: (Batool)
+### GitHub activities: New and existing Pull Requests and Issues that attendees worked on
    * 34 Issues
    * 42 Pull Requests
-   * Several first-time contributors to an Open Source project repository were made during the GitHub workshops, as well as during the first two days of the event. 
-   * 6 new chapters/subchapters were published, while 5 existing chapters/subchapters were revised and updated.
+   * Several first-time contributors!
+   * Six new chapters/subchapters were published and five existing chapters/subchapters were revised and updated.
 
 ### **New chapters published in The Turing Way book**
-   * "Data Feminism" Landing Page ([https://github.com/the-turing-way/the-turing-way/pull/3417)](https://github.com/the-turing-way/the-turing-way/pull/3417))
-   * "Finding data :subchapter to RDM chapter in guide for reproducibility ([https://github.com/the-turing-way/the-turing-way/pull/3369)](https://github.com/the-turing-way/the-turing-way/pull/3369))
-   * "Patent and trademark" sub-chapter to licening section in reproducible research
+   * [Data Feminism Landing Page](https://github.com/the-turing-way/the-turing-way/pull/3417)](https://github.com/the-turing-way/the-turing-way/pull/3417)
+   * [Finding data](https://github.com/the-turing-way/the-turing-way/pull/3369)](https://github.com/the-turing-way/the-turing-way/pull/3369)
+   * [Patent and trademark sub-chapter](https://the-turing-way.netlify.app/reproducible-research/licensing.html?highlight=patent%20trademark#patents) to licening section 
 
 ### **Existing chapters updated during the Book Dash**
    *  Research Data Management chapter had new resources added to it, as well as new sections on methods and protocols ([https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-methods)](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-methods)), data visualisation ([https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-visualisation)](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-visualisation)), data repositories ([https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-repository)](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-repository)) and finding data ([https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-find)](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-find))
    * The Translation and localisation chapter in the Community handbook received some updates by María Nanton to add more detail to the use of glossaries in the translation workflow and to bring some key documentation that was in Crowdin to the main guide. Some links were made to other chapters in the book to integrate good practices when creating or updating content: in the style guide, a call to write "localisable" content was added–so that the original text in English is easy to translate–and an invitation to improve and update Alt-text that might be incomplete before translating it. The Spanish-specific translation guidelines were also created. Merged PR [https://github.com/the-turing-way/the-turing-way/pull/3431](https://github.com/the-turing-way/the-turing-way/pull/3431)
-   * Add new resources to Open Education [https://github.com/the-turing-way/the-turing-way/pull/3412/files](https://github.com/the-turing-way/the-turing-way/pull/3412/files)
+   * Added new resources to Open Education [https://github.com/the-turing-way/the-turing-way/pull/3412/files](https://github.com/the-turing-way/the-turing-way/pull/3412/files)
    * Project design guide updates [https://github.com/the-turing-way/the-turing-way/pull/3412](https://github.com/the-turing-way/the-turing-way/pull/3412)
    * Adds BigCode as a case study for a real world example of ML data governance [https://github.com/the-turing-way/the-turing-way/pull/3165/files](https://github.com/the-turing-way/the-turing-way/pull/3165/files)
 
 ### Our attendees also led and participated in the following informal discussions and public events:**
-   * On day 1, the social session was used as a short imageathon sprint to upskill participants in how to add images to The Turing Way book and then get participants to add images. This also involved discussing and writing alt text for the images.  Slides from the training can be found here: [https://docs.google.com/presentation/d/1J\_U6KK7GMtQEAhGnv2Nb\_v9B8\_vJ63pYHFkH9qIVG2k/edit?usp=sharing](https://docs.google.com/presentation/d/1J\_U6KK7GMtQEAhGnv2Nb\_v9B8\_vJ63pYHFkH9qIVG2k/edit?usp=sharing) and Issues and PRs were centralised in this issue: [https://github.com/the-turing-way/the-turing-way/issues/3331](https://github.com/the-turing-way/the-turing-way/issues/3331) . We managed to add 13 images over the Book Dash week. 
+   * On day 1, the social session was used as a short imageathon sprint to upskill participants in how to add images to The Turing Way book and then get participants to add images. This involved a [presentation](https://docs.google.com/presentation/d/1J\_U6KK7GMtQEAhGnv2Nb\_v9B8\_vJ63pYHFkH9qIVG2k/edit?usp=sharing), and discussing and writing alt text for the images. Issues and PRs were centralised in issue [#3331](https://github.com/the-turing-way/the-turing-way/issues/3331) . We managed to add 13 images over the Book Dash week!
    * On day 2, we had two show and tell sessions - one in English and one in Spanish. These are fun, social sessions where the Book Dash participants share something from their work or personal life that they think will interest the group. Topics brought by participants in this session ranged from a love of Quarto to academic paper tracking, team building in nature in Uganda to a love of eating eggs, and sporty topics like roller derby, power lifting and charity bike rides. 
    * On day 3, we had a creative writing session from Jonny Writes words.
-   * On day 4, the social session was hosted by Richard Acton and he led a discussion session on Licenses, IP, \& Digital Ownership. Activities from the social session can be found on this shared document: [https://hackmd.io/Q0gEz9x6Rqm6fAiscfNF4Q?view](https://hackmd.io/Q0gEz9x6Rqm6fAiscfNF4Q?view) and this topic links to the following topical PRs: [https://github.com/the-turing-way/the-turing-way/pull/3142](https://github.com/the-turing-way/the-turing-way/pull/3142) (see: [https://deploy-preview-3142--the-turing-way.netlify.app/reproducible-research/licensing)](https://deploy-preview-3142--the-turing-way.netlify.app/reproducible-research/licensing)).
+   * On day 4, the social session was hosted by Richard Acton and he led a discussion session on Licenses, IP, \& Digital Ownership. Activities from the social session can be found on a [shared document](https://hackmd.io/Q0gEz9x6Rqm6fAiscfNF4Q?view) and this topic links to PR [#3142](https://github.com/the-turing-way/the-turing-way/pull/3142).
    * On day 5, we hosted two public share-out sessions!
-   * 
+   
 ### **On Day 5, during the community shareouts, The Turing Way working group representatives shared updates from their respective groups**: 
    * Name: Susana and Ceilidh
        * Links to Issues and PR: 
-           * (DONE) Adding an image to the book: [https://github.com/the-turing-way/the-turing-way/pull/3377](https://github.com/the-turing-way/the-turing-way/pull/3377)
+           * Adding an image to the book: [#3377](https://github.com/the-turing-way/the-turing-way/pull/3377) & [#3435](https://github.com/the-turing-way/the-turing-way/pull/3435)
        * ASK: checked by Kalle, Emma and Arielle and implemented in book!
-       * Links to Issues and PR: (later in the day) 
-           * Adding an image to the book: [https://github.com/the-turing-way/the-turing-way/pull/3435](https://github.com/the-turing-way/the-turing-way/pull/3435)
        * ASK: saying deploy error, not sure how to fix.
 
    * Name: Jen
        * Links to Issues and PR: 
-           * This chapter is live now! [https://the-turing-way.netlify.app/project-design/data-governance/bigcode\_casestudy](https://the-turing-way.netlify.app/project-design/data-governance/bigcode\_casestudy) (Thanks to Kalle, Esther, and Anne!)
-           * [https://github.com/the-turing-way/the-turing-way/issues/3411](https://github.com/the-turing-way/the-turing-way/issues/3411) 
+           * The [BigCode Data Governance Case Study](https://the-turing-way.netlify.app/project-design/data-governance/bigcode_casestudy) is live now! (Thanks to Kalle, Esther, and Anne!)
+           * [#3411](https://github.com/the-turing-way/the-turing-way/issues/3411) 
        * ASK: A future review after this draft case study is further along...
   
    * Name: Fran Gómez
        * Links to Issues and PR: 
-           * Subchapter to industry-academia collaborations titled "case studies and best practices in academia-industry collaborations". Still in progress, but this week I made progress in putting together  resources in TTW and external to TTW useful for writing about best practices in academic-industry collaboration. (thank you to Vicky, Jen, Anne, Ale, Kalle, and Alejandro!)
-           * [https://github.com/the-turing-way/the-turing-way/issues/3407](https://github.com/the-turing-way/the-turing-way/issues/3407)
-           * [https://github.com/the-turing-way/the-turing-way/pull/3410](https://github.com/the-turing-way/the-turing-way/pull/3410)
+           * Subchapter to industry-academia collaborations titled "case studies and best practices in academia-industry collaborations". Still in progress, but this week I made progress in putting together resources in TTW and external to TTW useful for writing about best practices in academic-industry collaboration. (Thank you to Vicky, Jen, Anne, Ale, Kalle, and Alejandro!)
+           * Issue [#3407](https://github.com/the-turing-way/the-turing-way/issues/3407) and PR [#2410](https://github.com/the-turing-way/the-turing-way/pull/3410)
            * My first merge!
-               * [https://github.com/the-turing-way/the-turing-way/pull/3414](https://github.com/the-turing-way/the-turing-way/pull/3414)
        * ASK: Let me know of people who are doing research with industry and academia and might be interested in contributing to this chapter and/or benefit from this chapter!
 
    * Name: David Llewellyn-Jones
        * Links to Issues and PR:
-           * Fixing typos in the Community Handbook:
-               * Issue: [https://github.com/the-turing-way/the-turing-way/issues/3346](https://github.com/the-turing-way/the-turing-way/issues/3346)
-               * PR: [https://github.com/the-turing-way/the-turing-way/pull/3347](https://github.com/the-turing-way/the-turing-way/pull/3347)
-           * Switching Twitter for X:
-               * Issue: [https://github.com/the-turing-way/the-turing-way/issues/3357](https://github.com/the-turing-way/the-turing-way/issues/3357)
-               * PR: [https://github.com/the-turing-way/the-turing-way/pull/3396/](https://github.com/the-turing-way/the-turing-way/pull/3396/)
-           * Rationalise Cross Reference examples
-               * [https://github.com/the-turing-way/the-turing-way/issues/3349](https://github.com/the-turing-way/the-turing-way/issues/3349)
+           * Fixing typos in the Community Handbook: Issue [#3346](https://github.com/the-turing-way/the-turing-way/issues/3346) and PR [#3347](https://github.com/the-turing-way/the-turing-way/pull/3347)
+           * Switching Twitter for X: Issue [#3357](https://github.com/the-turing-way/the-turing-way/issues/3357) and PR [#3396](https://github.com/the-turing-way/the-turing-way/pull/3396/)
+           * Rationalise Cross Reference examples: Issue [#3349](https://github.com/the-turing-way/the-turing-way/issues/3349) and PR [#3392](https://github.com/the-turing-way/the-turing-way/pull/3392)
                * [https://github.com/the-turing-way/the-turing-way/pull/3392](https://github.com/the-turing-way/the-turing-way/pull/3392)
            * 4. Some PR reviewing (should have done more!):
                * [https://github.com/the-turing-way/the-turing-way/pull/3376](https://github.com/the-turing-way/the-turing-way/pull/3376)
            * 5. Scriberia Illustration
                * For the "When Review Goes Wrong" subchapter... in progress
            * 6. For the future:
-               * Small issue to fix: [https://github.com/the-turing-way/the-turing-way/issues/3356](https://github.com/the-turing-way/the-turing-way/issues/3356)
-               * Add material about Mastodon: [https://github.com/the-turing-way/the-turing-way/issues/3359](https://github.com/the-turing-way/the-turing-way/issues/3359)
+               * Small issue to fix: [#3356](https://github.com/the-turing-way/the-turing-way/issues/3356)
+               * Add material about Mastodon: Issue [#3359](https://github.com/the-turing-way/the-turing-way/issues/3359)
        * ASK:
            * The "When Review Goes Wrong" page is still very early work-in-progress, but any high-level feedback would be appreciated. Is this a sensible addition, or just making things too complex?
 
    * Name:  Batool Almarzouq
        * Links to Issues and PR:
-           * HackMD Draft that all PMs and Kalle (RAM): [https://hackmd.io/t2Bnqwt8Qv6GPpWvH3iRzQ?both](https://hackmd.io/t2Bnqwt8Qv6GPpWvH3iRzQ?both)
-           * Issue: [https://github.com/the-turing-way/the-turing-way/issues/3424](https://github.com/the-turing-way/the-turing-way/issues/3424)
-           * PR fixing the issue: [https://deploy-preview-3430--the-turing-way.netlify.app/project-design/logical-frameworks-overview](https://deploy-preview-3430--the-turing-way.netlify.app/project-design/logical-frameworks-overview)
-           * PR: [https://github.com/the-turing-way/the-turing-way/pull/3430](https://github.com/the-turing-way/the-turing-way/pull/3430)
-           * Another PR to re-organise the Project Design: [https://miro.com/app/board/uXjVNPYo3M4=/](https://miro.com/app/board/uXjVNPYo3M4=/)
-       * ASK: 
+           * [HackMD Draft ](https://hackmd.io/t2Bnqwt8Qv6GPpWvH3iRzQ?both) that all PMs and Kalle (RAM)
+           * Issue: [#3424](https://github.com/the-turing-way/the-turing-way/issues/3424) and PR [#3430](https://github.com/the-turing-way/the-turing-way/pull/3430)
+           * Another[ draft to re-organise the Project Design](https://miro.com/app/board/uXjVNPYo3M4=/)
 
    * Name:  Sarah
        * Links to Issues and PR: [https://github.com/sgibson91/test-multilingual-sphinx](https://github.com/sgibson91/test-multilingual-sphinx) (it's a repo)
-       * ASK: 
 
    * Name:  Saranjeet
-       * Links to Issues and PR: 
-           * [https://github.com/the-turing-way/the-turing-way/issues/3348](https://github.com/the-turing-way/the-turing-way/issues/3348)
-           * Will be transferred into a PR soon (Ale is happy to collaborate)
-       * ASK:
+       * Links to Issues and PR: [#3348 ](https://github.com/the-turing-way/the-turing-way/issues/3348) (Will be transferred into a PR soon (Ale is happy to collaborate)
          
    * Name: Accessibility Working Group (Patricia, Liz & Jesica)
-       * Links to Issues and PR: https://github.com/the-turing-way/the-turing-way/issues/3307 (reviewing inclusive events chapter)
-       * ASK: 
+       * Links to Issues and PR: Issue [#3307](https://github.com/the-turing-way/the-turing-way/issues/3307) on reviewing inclusive events chapter
 
    * Name: Ale
        * Links to issues and PR:
            * Thanks to Kalle - reviewing PR's and pushing to review
            * Encourage Governance contributions (Anne, Esther, Anne)
-           * The turing way Practitioners Hub: thanks Batool. Activity plan, training sessions
+           * *The Turing Way* Practitioners Hub: thanks Batool. Activity plan, training sessions
            * Susana: in-person suggestions for more inclusive snacks
-       * ASK:
 
    * Name: Arielle
-       * Links to issues and PR: https://github.com/the-turing-way/the-turing-way/pull/3417 (reviewed data feminism chapter)
+       * Links to issues and PR: Reviewed the data feminism chapter: PR [#3417]( https://github.com/the-turing-way/the-turing-way/pull/3417)
            * Thanks to Kalle
-       * ASK: 
 
    * Name: María Nanton
        * Links to issues and PR
@@ -241,27 +221,28 @@ We want to express our gratitude for their thoughtful engagement in the project 
            * Maria (TTW Spanish Translation Guidelines): thank you for bringing fresh ideas!
            * Julien C (Open Hardware): very insighful for me and pertinent for some colleagues working on Open Hardware for Environmental monitoring and education 
            * Richard (Ethical Licensing): this requires further reading, but it was so informative to learn about the fundamental freedoms of free/libre software and ! This is very relevant to a project I'm participating about Open Computer Vision.
-           * Notes:
 
 ### Videos:
-   * Share-out Session 1: [https://youtu.be/sRuVu\_6vO-E](https://youtu.be/sRuVu\_6vO-E)
-   * Share-out Session 2: [https://youtu.be/oqxj-AVtA-Y](https://youtu.be/oqxj-AVtA-Y)
+   * [Share-out Session 1](https://youtu.be/sRuVu\_6vO-E)
+   * [Share-out Session 2](https://youtu.be/oqxj-AVtA-Y)
 
 ### New Illustrations by Scriberia for *The Turing Way* Community 
    * Illustration files are posted on Zenodo: [https://zenodo.org/record/3332807](https://zenodo.org/record/3332807).
    * Particular set from this Book Dash is available at: [https://zenodo.org/records/10556824](https://zenodo.org/records/10556824)
-   * Please reuse them and cite as *The Turing Way Community, \& Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. *[https://doi.org/10.5281/zenodo.3332807Feedback](*https://doi.org/10.5281/zenodo.3332807*Feedback)
+   * Please reuse them and cite as *The Turing Way Community, \& Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. *[https://doi.org/10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
+ 
+ # Feedback
 
 ## Pluses 
 At the end of the event, we asked our participants to share feedback anonymously in the “Pluses and Deltas” HackMD.
 We greatly appreciate the work that our attendees have accomplished in the project during this short event and thank them for their feedback, a few of which have been highlighted below.
 
-   * I really loved the accessibility, the flexibility and in general the whole community VIBE. As a github beginner, I really appreciated the support in every step, the celebration of the little steps I took and all the comments and help.
+   * I really loved the accessibility, the flexibility and in general the whole community VIBE. As a GitHub beginner, I really appreciated the support in every step, the celebration of the little steps I took and all the comments and help.
    * I really appreciated the onboarding session and the GitHub sessions. TTW is the biggest open-source project I have contributed to, and they made the process of contributing a lot clearer and approachable. +1+1
    * Accessibility is an asset of our vibrant TTW community. Thanks for all your effort to make Book Dash accessible. Just wanted to thank Book Dash organisers for all the exciting sessions and subsidising childcare. Fantastic to have this support!
-   * Later sessions to support participation of folks in americas timezones worked really well and we should keep these for the next Book Dash to encourage wider participation from that area +1 +1
+   * Later sessions to support participation of folks in Americas timezones worked really well and we should keep these for the next Book Dash to encourage wider participation from that area. +1+1
    * The pre-prepared slides with the timer videos are great! +1
-   * The later sessions were also really helpful as someone who was only able to work in the evenings in the UK.+1+1
+   * The later sessions were also really helpful as someone who was only able to work in the evenings in the UK. +1+1
    * It was an amazing, collaborative and inclusive event; brilliantly structured and with huge energy throughout. The energy made me feel like I was able to achieve something, however small, every day. +1
    * Working with Calum from Scriberia was a joy. He immediately took my half-baked idea, turned it into something tangible and ran with it. Everyone who teaches or does research should be doing this.
    * I had the opportunity of participating in many interesting discussions regarding the accessibility guidelines. 
@@ -276,45 +257,49 @@ We greatly appreciate the work that our attendees have accomplished in the proje
    * I think that including subtitles to the sessions it would helpful for not native folks. +1 (also for those of us who are a bit hard of hearing)
    * Recording audio for videos is difficult for the share-outs
 
-## What’s next?
+## Changes Suggested for future Book Dashes
 
    * **Changes Suggested for future Book Dashes**
        * Preparing color pallete for TTW: color-blind friendly, ensures continuity in design
        * Re-doing image social session on Monday: very popular session!
        * Zoom link must be opened by a Turing staff member (need lots of alternative hosts!)
-       * Review how the RCM \& RPM are distributed throughout the day, and how Committee is distributed throughout the sessions for different timezones
+       * Review how the planning Committee is distributed throughout the sessions for different timezones
        * Review timezones for the sessions overall, and capturing that information from participants
-       * Will be moving away from Eventbrite platform for future Book Dashes
+       * We will be moving away from Eventbrite platform for future Book Dashes
        * Review application process
-   * Take a lead on addressing some of the concerns raised on the Delta feedback
+   * Address concerns raised on the Delta feedback
+## What is next? 
+
    * Represent *The Turing Way* in your community/conference, see our promotion pack
    * Attend a synchronous coworking such as online Collaboration Cafes take place every first and second Wednesday from 15:00 to 17:00 London time. Or weekly Coworking call every Monday from 11:00 - 12:00 London time.
-   * Host one of these calls, see details here: [https://the-turing-way.netlify.app/community-handbook/coworking.html](https://the-turing-way.netlify.app/community-handbook/coworking.html)
-   * Attend a fireside chat, speak at one, or organise one in your community: [https://hackmd.io/@turingway/fireside-chats](https://hackmd.io/@turingway/fireside-chats)
+        * [Host one of these calls](https://the-turing-way.netlify.app/community-handbook/coworking.html](https://the-turing-way.netlify.app/community-handbook/coworking.html)
+   * Attend a [fireside chat](https://hackmd.io/@turingway/fireside-chats), speak at one, or organise one in your community
    * Contribute new topics or review open pull requests
-   * Join us on social media platforms or connect in other ways described here: [https://the-turing-way.start.page/](https://the-turing-way.start.page/) wondering where to start?
-   * GitHub planning issue:[https://github.com/the-turing-way/the-turing-way/issues/3210](https://github.com/the-turing-way/the-turing-way/issues/3210)
-   * GitHub Book Dash Governance: [https://github.com/the-turing-way/the-turing-way/issues/3231#issuecomment-1647578024](https://github.com/the-turing-way/the-turing-way/issues/3231#issuecomment-1647578024)
-   * Application form: [https://docs.google.com/forms/d/13QsDH0rHtI3qRCj9yem4\_iXHrVKb\_9wZtQ-ALkpbYtk/edit](https://docs.google.com/forms/d/13QsDH0rHtI3qRCj9yem4\_iXHrVKb\_9wZtQ-ALkpbYtk/edit)
-       * Book Dash Application Walk-Through: [https://www.youtube.com/watch?v=ZG-KxZzOGXo](https://www.youtube.com/watch?v=ZG-KxZzOGXo)
-       * Book Dash Tips for applying: [https://www.youtube.com/watch?v=yM2890OCOKk](https://www.youtube.com/watch?v=yM2890OCOKk)
+   * Wondering where to start? Join us on social media platforms or [connect in other ways ](https://the-turing-way.start.page/).
+   * [GitHub planning issue](https://github.com/the-turing-way/the-turing-way/issues/3210](https://github.com/the-turing-way/the-turing-way/issues/3210)
+   * [GitHub Book Dash Governance](https://github.com/the-turing-way/the-turing-way/issues/3231#issuecomment-1647578024)
+
+## November 2024 Book Dash Links
+
+   * [Application form](https://docs.google.com/forms/d/13QsDH0rHtI3qRCj9yem4\_iXHrVKb\_9wZtQ-ALkpbYtk/edit)
+       * [Video: Book Dash Application Walk-Through](https://www.youtube.com/watch?v=ZG-KxZzOGXo)
+       * [Video: Book Dash Tips for applying](https://www.youtube.com/watch?v=yM2890OCOKk)
    * Call for local hub hosts: [https://docs.google.com/forms/d/1Pws8ekhPLEjIcXH4IdVmxzM\_tKcTJGTtBvxKw16sHh8/edit](https://docs.google.com/forms/d/1Pws8ekhPLEjIcXH4IdVmxzM\_tKcTJGTtBvxKw16sHh8/edit)
-   * Expression of Interest to Join *The Turing Way* Book Dash Committee: [https://docs.google.com/forms/d/1iloN19gNKQJPNR7a28QRGSgP-SHXtJi866CspZgFijY/edit](https://docs.google.com/forms/d/1iloN19gNKQJPNR7a28QRGSgP-SHXtJi866CspZgFijY/edit)
-   * Eventbrite page for the participants to register: [https://www.eventbrite.co.uk/e/the-turing-way-book-dash-nov-2023-tickets-734720848837](https://www.eventbrite.co.uk/e/the-turing-way-book-dash-nov-2023-tickets-734720848837)
-   * Eventbrite page to register for the share-outs [https://www.eventbrite.co.uk/e/the-turing-way-working-group-and-collaborator-celebrations-nov-2023-tickets-744294955247?aff=oddtdtcreator](https://www.eventbrite.co.uk/e/the-turing-way-working-group-and-collaborator-celebrations-nov-2023-tickets-744294955247?aff=oddtdtcreator)
-   * Document with all links: [https://hackmd.io/HvEB6iCcRDeqnmkpamnueg](https://hackmd.io/HvEB6iCcRDeqnmkpamnueg)
-   * Onboarding calls, 30 November: [https://hackmd.io/HiszAIqxS4Kp4AXtTE6iwA](https://hackmd.io/HiszAIqxS4Kp4AXtTE6iwA)
-   * GitHub Skill-up Session and Collaboration Cafe, 06 November: [https://hackmd.io/vZWIal5ZTSO8sCsst57lYw](https://hackmd.io/vZWIal5ZTSO8sCsst57lYw)
-   * Bonus Playlist with songs selected by our attendees: [https://www.youtube.com/watch?v=QfhEKpFiepM\&list=PLBxcQEfGu3DlOYCtSKkVkB4IWk5qEL516](https://www.youtube.com/watch?v=QfhEKpFiepM\&list=PLBxcQEfGu3DlOYCtSKkVkB4IWk5qEL516)
+   * [Google Form: Expression of Interest to Join *The Turing Way* Book Dash Committee](https://docs.google.com/forms/d/1iloN19gNKQJPNR7a28QRGSgP-SHXtJi866CspZgFijY/edit)
+   * [Eventbrite page for the participants to register](https://www.eventbrite.co.uk/e/the-turing-way-book-dash-nov-2023-tickets-734720848837)
+   * [Eventbrite page for the share-outs](https://www.eventbrite.co.uk/e/the-turing-way-working-group-and-collaborator-celebrations-nov-2023-tickets-744294955247?aff=oddtdtcreator)
+   * [HackMD with all links](https://hackmd.io/HvEB6iCcRDeqnmkpamnueg)
+   * [HackMD Onboarding calls](https://hackmd.io/HiszAIqxS4Kp4AXtTE6iwA), 30 November
+   * [HackMD](https://hackmd.io/vZWIal5ZTSO8sCsst57lYw) GitHub Skill-up Session and Collaboration Cafe, 06 November
+   * [Bonus Playlist with songs selected by our attendees](https://www.youtube.com/watch?v=QfhEKpFiepM\&list=PLBxcQEfGu3DlOYCtSKkVkB4IWk5qEL516)
    * For specific notes from each day, please visit one of the following notes: 
-       * **Day 1, 13 November**: [https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day1](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day1), HackMD: [https://hackmd.io/rJvNUQnsSiao7jSdSErj2g](https://hackmd.io/rJvNUQnsSiao7jSdSErj2g)
-       * **Day 2, 14 November**: [https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day2](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day2), HackMD: [https://hackmd.io/FKIiaD0fTdO40jcKTVcQ1g](https://hackmd.io/FKIiaD0fTdO40jcKTVcQ1g)
-       * **Day 3, 15 November**: [https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day3](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day3), HackMD: [https://hackmd.io/gQdLs4UVRGaWZTRIDBDqWA](https://hackmd.io/gQdLs4UVRGaWZTRIDBDqWA)
-       * **Day 4, 16 November**:[https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day4](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day4) , HackMD: [https://hackmd.io/Ra2VmtowRuiIXrJLUiKUlg](https://hackmd.io/Ra2VmtowRuiIXrJLUiKUlg)
-       * **Day 5, 17 November**: [https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day5](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day5), HackMD: [https://hackmd.io/WezujLnWTUCozHzUomdTQA](https://hackmd.io/WezujLnWTUCozHzUomdTQA)
-   * Post-event feedback: [https://annuel2.framapad.org/p/ttw-bookdash-nov2023-feedback](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-feedback), HackMD: [https://hackmd.io/cB7rgWJ-S9WugCFrWrKt1g](https://hackmd.io/cB7rgWJ-S9WugCFrWrKt1g)
-   * Reports from the previous events:
-       * [https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash](https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash)
+       * **[Day 1, 13 November](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day1)**, [HackMD](https://hackmd.io/rJvNUQnsSiao7jSdSErj2g)
+       * **[Day 2, 14 November](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day2)**, [HackMD](https://hackmd.io/FKIiaD0fTdO40jcKTVcQ1g)
+       * **[Day 3, 15 November](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day3)**, [HackMD](https://hackmd.io/gQdLs4UVRGaWZTRIDBDqWA)
+       * **[Day 4, 16 November](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day4)**, [HackMD](https://hackmd.io/Ra2VmtowRuiIXrJLUiKUlg)
+       * **[Day 5, 17 November](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day5)**, [HackMD](https://hackmd.io/WezujLnWTUCozHzUomdTQA)
+   * [Post-event feedback](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-feedback), [HackM](https://hackmd.io/cB7rgWJ-S9WugCFrWrKt1g)
+   * [Reports from the previous events](https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash)
 
 
 
