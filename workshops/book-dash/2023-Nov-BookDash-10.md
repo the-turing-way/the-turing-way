@@ -270,6 +270,8 @@ We greatly appreciate the work that our attendees have accomplished in the proje
    * Address concerns raised on the Delta feedback
 ## What is next? 
 
+## What is next? 
+
    * Represent *The Turing Way* in your community/conference, see our promotion pack
    * Attend a synchronous coworking such as online Collaboration Cafes take place every first and second Wednesday from 15:00 to 17:00 London time. Or weekly Coworking call every Monday from 11:00 - 12:00 London time.
         * [Host one of these calls](https://the-turing-way.netlify.app/community-handbook/coworking.html](https://the-turing-way.netlify.app/community-handbook/coworking.html)
@@ -284,7 +286,7 @@ We greatly appreciate the work that our attendees have accomplished in the proje
    * [Application form](https://docs.google.com/forms/d/13QsDH0rHtI3qRCj9yem4\_iXHrVKb\_9wZtQ-ALkpbYtk/edit)
        * [Video: Book Dash Application Walk-Through](https://www.youtube.com/watch?v=ZG-KxZzOGXo)
        * [Video: Book Dash Tips for applying](https://www.youtube.com/watch?v=yM2890OCOKk)
-   * Call for local hub hosts: [https://docs.google.com/forms/d/1Pws8ekhPLEjIcXH4IdVmxzM\_tKcTJGTtBvxKw16sHh8/edit](https://docs.google.com/forms/d/1Pws8ekhPLEjIcXH4IdVmxzM\_tKcTJGTtBvxKw16sHh8/edit)
+   * [Google Form: Call for local hub hosts](https://docs.google.com/forms/d/1Pws8ekhPLEjIcXH4IdVmxzM\_tKcTJGTtBvxKw16sHh8/edit)
    * [Google Form: Expression of Interest to Join *The Turing Way* Book Dash Committee](https://docs.google.com/forms/d/1iloN19gNKQJPNR7a28QRGSgP-SHXtJi866CspZgFijY/edit)
    * [Eventbrite page for the participants to register](https://www.eventbrite.co.uk/e/the-turing-way-book-dash-nov-2023-tickets-734720848837)
    * [Eventbrite page for the share-outs](https://www.eventbrite.co.uk/e/the-turing-way-working-group-and-collaborator-celebrations-nov-2023-tickets-744294955247?aff=oddtdtcreator)
