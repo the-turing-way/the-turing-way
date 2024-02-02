@@ -31,7 +31,11 @@ Anne Lee Steele (*), Alejandro Coca-Castro, Alexandra Araujo Alvarez (*), Ariell
    
 ### About the Book Dash Event 
 
-*The Turing Way* Book Dash is the bi-annual contribution event of The Turing Way Community. It is called a Dash (instead of a Book Sprint), because it aims to be a short event. During the Book Dash participants collaboratively work on *The Turing Way* book to propose new topics, discuss ideas, develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. Participants can also  contribute to improving the ways we work in the community and take the lead on accomplishing different tasks or subprojects. For more information, look at: [https://the-turing-way.netlify.app/community-handbook/bookdash.html](https://the-turing-way.netlify.app/community-handbook/bookdash.html)
+*The Turing Way* Book Dash is the bi-annual contribution event of The Turing Way Community. 
+It is called a Dash (instead of a Book Sprint), because it aims to be a short event. 
+During the Book Dash participants collaboratively work on *The Turing Way* book to propose new topics, discuss ideas, develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. 
+Participants can also contribute to improving the ways we work in the community and take the lead on accomplishing different tasks or subprojects. 
+For more information, look at: (The Turing Way Book Dashes)[https://the-turing-way.netlify.app/community-handbook/bookdash.html](https://the-turing-way.netlify.app/community-handbook/bookdash.html)
 
 ### Format of the event
    * The November edition of Book Dash featured 17 invited contributors, 12 committee members, 2 external facilitators, 14 online working sessions, four discussions and social events, and two community share-outs.
