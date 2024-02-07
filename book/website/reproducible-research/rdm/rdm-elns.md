@@ -69,7 +69,7 @@ Finding software with the flexibility, capability, and scope to keep up is not e
 -   Consistency issues
     -   If there are paper and potentially multiple electronic copies of some information - what happens when it does not agree? What is the source of truth?
 - Sprawl
-    -   Partial adoptions can lead to different pieces of information being stored in different systems which might not be connected making it harder to record and find information which was previous in one place.
+    -   Partial adoptions can lead to different pieces of information being stored in different systems which might not be connected making it harder to record and find information which was previously in one place.
         This can make information recording and retrieval processes more complex, expensive and brittle 
 -   Practical use and interface issues
     -   Laptops or tablets can introduce interface barriers 
