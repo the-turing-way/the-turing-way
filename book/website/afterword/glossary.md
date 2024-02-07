@@ -234,6 +234,9 @@ Guarantor
 ## H
 
 ```{glossary}
+Hazard
+  Inherent qualities or characteristics of something that make it potentially harmful.
+
 Head
   The latest commit on the branch which is currently checked out.
 
@@ -518,6 +521,9 @@ Research Objects
 
 Review
   Suggesting changes or asking for committing something to an already created pull request.
+
+Risk
+  A term that refers to the likelihood and impact of something happening. It's often used in decision-making contexts to evaluate the potential consequences of actions
 
 Risk Assessment
   This is used to help choose the appropriate sustainable software concepts for your project.
