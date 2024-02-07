@@ -58,7 +58,7 @@ Conversely, a tool that is a good fit gets out of people's way and makes their j
 ### Failure modes in user adoption of ELNs
 
 Incomplete or inflexible ELN solutions which increase friction in workflows can cause issues.
-People will avoid using ill-fitting tools that they perceive them to be getting in their way, especially scientists.
+People will avoid using ill-fitting tools that they perceive to be getting in their way, especially scientists.
 They are creative, stubborn, resourceful, and impatiently focused on answering their research questions with whatever tools are available to them. 
 Finding software with the flexibility, capability, and scope to keep up is not easy and if it doesn't researchers won't use it - at least not as you intended.
 
