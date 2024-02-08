@@ -38,6 +38,14 @@ You will need to locate your "terminal" or "prompt" application on your machine.
    ```console
    git clone https://github.com/the-turing-way/the-turing-way
    ```
+   **Note**: To address potential barriers with slow internet connections due to the large size of this repository, you can use [partial clones](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/#). Specifically, focusing on Blobless clones, which are efficient for developers, involves utilizing the --filter=blob:none option in the git clone command.
+
+   By using --filter=blob:none, the initial git clone operation downloads all reachable commits and trees, while blobs (file contents) for commits are only downloaded when performing a `git checkout`.
+
+   Here's the command to use Blobless clones:
+   ```console
+   git clone --filter=blob:none https://github.com/the-turing-way/the-turing-way.git
+   ```
 
 6. Navigate into the cloned repository folder using the command `cd the-turing-way`, where the `cd` command means `change directory`.
 
