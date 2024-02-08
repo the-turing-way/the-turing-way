@@ -16,7 +16,7 @@ _Screenshot of the second Community Share-outs, hosted on 17 November 2023. From
 
 Accepted participants, trainers and presenters in alphabetical order:
 
-Anne Lee Steele (*), Alejandro Coca-Castro, Alexandra Araujo Alvarez (*), Arielle Bennett (*), Batool Almarzouq (*), Calum Heath (Scriberia illustrator), Cari Hyde-Vaamonde, Ceilidh Welsh, Emma Karoune (*), Eriol Fox, Esther Plomp (*), Francisco Gomez-Medina, David Llewellyn-Jones, David Sarmiento, Gigi Kenneth, Jennifer Ding, Jesica Formoso, Johanna Bayer (*), Jonny Heath (Jonny Writes words - workshop facilitator), Kalle Westerling, Kirstie Whitaker, Liz Hare (*), Malvika Sharan, Maria Cristina Nanton, Mike Nolan, Patricia Andrea Loto, Richard J. Acton, Sarah Gibson, Sara Villa, Saranjeet Kaur (*), Susana Roman-Garcia (*) and Winny Nekesa (*)
+Anne Lee Steele (\*), Alejandro Coca-Castro, Alexandra Araujo Alvarez (\*), Arielle Bennett (\*), Batool Almarzouq (\*), Calum Heath (Scriberia illustrator), Cari Hyde-Vaamonde, Ceilidh Welsh, Emma Karoune (\*), Eriol Fox, Esther Plomp (\*), Francisco Gomez-Medina, David Llewellyn-Jones, David Sarmiento, Gigi Kenneth, Jennifer Ding, Jesica Formoso, Johanna Bayer (\*), Jonny Heath (Jonny Writes words - workshop facilitator), Kalle Westerling, Kirstie Whitaker, Liz Hare (\*), Malvika Sharan, Maria Cristina Nanton, Mike Nolan, Patricia Andrea Loto, Richard J. Acton, Sarah Gibson, Sara Villa, Saranjeet Kaur (\*), Susana Roman-Garcia (\*) and Winny Nekesa (\*).
 
 (*) Book Dash Planning Committee 2023 members. 
 
@@ -26,7 +26,7 @@ Anne Lee Steele (*), Alejandro Coca-Castro, Alexandra Araujo Alvarez (*), Ariell
    * The online sessions spanned multiple time zones, with special addition for Americas friendly timezones.
    * Arielle Bennett and Emma Karoune kicked off the social sessions with an exciting session about "Adding images into the book" where participants were given templates and guidelines to help them insert Scriberia images from the archive into the book with alt text.
    * Kirstie Whitaker and Susana Roman Garcia led 'Show and Tell' Lunch sessions in English and Spanish, respectively, opening the door for more multi-lingual sessions at future Book Dashes.
-   * Richard J. Acton led a social session about 'Licensing', preparing [interactive materials and exercises in order to understand how they affect open source practices](LINK).
+   * Richard J. Acton led a social session about 'Licensing', preparing interactive materials and exercises in order to understand how they affect open source practices.
    * Two Community Share-outs were hosted by Anne Lee Steele, where Book Dash participants shared with the rest of the community and fellow Book Dash Participants what they were focused on during the week, where help was needed and to celebrate their collective achievements.
    
 ### About the Book Dash Event 
@@ -35,7 +35,7 @@ Anne Lee Steele (*), Alejandro Coca-Castro, Alexandra Araujo Alvarez (*), Ariell
 It is called a Dash (instead of a Book Sprint), because it aims to be a short event. 
 During the Book Dash participants collaboratively work on *The Turing Way* book to propose new topics, discuss ideas, develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. 
 Participants can also contribute to improving the ways we work in the community and take the lead on accomplishing different tasks or subprojects. 
-For more information, look at: (The Turing Way Book Dashes)[https://the-turing-way.netlify.app/community-handbook/bookdash.html](https://the-turing-way.netlify.app/community-handbook/bookdash.html)
+For more information, look at: [The Turing Way Book Dashes](https://the-turing-way.netlify.app/community-handbook/bookdash.html)
 
 ### Format of the event
    * The November edition of Book Dash featured 17 invited contributors, 12 committee members, two external facilitators, 14 online working sessions, four discussions and social events, and two community share-outs.
@@ -113,19 +113,22 @@ We want to express our gratitude for their thoughtful engagement in the project 
    * Six new chapters/subchapters were published and five existing chapters/subchapters were revised and updated.
 
 ### **New chapters published in The Turing Way book**
-   * [Data Feminism Landing Page](https://github.com/the-turing-way/the-turing-way/pull/3417)](https://github.com/the-turing-way/the-turing-way/pull/3417)
-   * [Finding data](https://github.com/the-turing-way/the-turing-way/pull/3369)](https://github.com/the-turing-way/the-turing-way/pull/3369)
+   * [Data Feminism Landing Page](https://github.com/the-turing-way/the-turing-way/pull/3417), (https://github.com/the-turing-way/the-turing-way/pull/3417)
+   * [Finding data](https://github.com/the-turing-way/the-turing-way/pull/3369), (https://github.com/the-turing-way/the-turing-way/pull/3369)
    * [Patent and trademark sub-chapter](https://the-turing-way.netlify.app/reproducible-research/licensing.html?highlight=patent%20trademark#patents) to licening section 
 
 ### **Existing chapters updated during the Book Dash**
-   *  Research Data Management chapter had new resources added to it, as well as new sections on methods and protocols ([https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-methods)](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-methods)), data visualisation ([https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-visualisation)](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-visualisation)), data repositories ([https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-repository)](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-repository)) and finding data ([https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-find)](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-find))
-   * The Translation and localisation chapter in the Community handbook received some updates by María Nanton to add more detail to the use of glossaries in the translation workflow and to bring some key documentation that was in Crowdin to the main guide. Some links were made to other chapters in the book to integrate good practices when creating or updating content: in the style guide, a call to write "localisable" content was added–so that the original text in English is easy to translate–and an invitation to improve and update Alt-text that might be incomplete before translating it. The Spanish-specific translation guidelines were also created. Merged PR [https://github.com/the-turing-way/the-turing-way/pull/3431](https://github.com/the-turing-way/the-turing-way/pull/3431)
-   * Added new resources to Open Education [https://github.com/the-turing-way/the-turing-way/pull/3412/files](https://github.com/the-turing-way/the-turing-way/pull/3412/files)
-   * Project design guide updates [https://github.com/the-turing-way/the-turing-way/pull/3412](https://github.com/the-turing-way/the-turing-way/pull/3412)
-   * Adds BigCode as a case study for a real world example of ML data governance [https://github.com/the-turing-way/the-turing-way/pull/3165/files](https://github.com/the-turing-way/the-turing-way/pull/3165/files)
+   *  Research Data Management chapter had new resources added to it, as well as new sections on [methods and protocols](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-methods), [data visualisation](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-visualisation), [data repositories](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-repository) and [finding data](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-find).
+   * The Translation and localisation chapter in the Community handbook received some updates by María Nanton to add more detail to the use of glossaries in the translation workflow and to bring some key documentation that was in Crowdin to the main guide. Some links were made to other chapters in the book to integrate good practices when creating or updating content: in the style guide, a call to write "localisable" content was added–so that the original text in English is easy to translate–and an invitation to improve and update Alt-text that might be incomplete before translating it. The Spanish-specific translation guidelines were also created. Merged PR [https://github.com/the-turing-way/the-turing-way/pull/3431](https://github.com/the-turing-way/the-turing-way/pull/3431).
+   * Added [new resources](https://github.com/the-turing-way/the-turing-way/pull/3412) to Open Education.
+   * Project design guide updates [https://github.com/the-turing-way/the-turing-way/pull/3412](https://github.com/the-turing-way/the-turing-way/pull/3412).
+   * Added [BigCode as a case study](https://github.com/the-turing-way/the-turing-way/pull/3165) for a real world example of ML data governance.
 
 ### Our attendees also led and participated in the following informal discussions and public events:**
-   * On day 1, the social session was used as a short imageathon sprint to upskill participants in how to add images to The Turing Way book and then get participants to add images. This involved a [presentation](https://docs.google.com/presentation/d/1J\_U6KK7GMtQEAhGnv2Nb\_v9B8\_vJ63pYHFkH9qIVG2k/edit?usp=sharing), and discussing and writing alt text for the images. Issues and PRs were centralised in issue [#3331](https://github.com/the-turing-way/the-turing-way/issues/3331) . We managed to add 13 images over the Book Dash week!
+   * On day 1, the social session was used as a short imageathon sprint to upskill participants in how to add images to The Turing Way book and then get participants to add images. 
+      This involved a [presentation](https://docs.google.com/presentation/d/1J\_U6KK7GMtQEAhGnv2Nb\_v9B8\_vJ63pYHFkH9qIVG2k/edit?usp=sharing), and discussing and writing alt text for the images. 
+      Issues and PRs were centralised in issue [#3331](https://github.com/the-turing-way/the-turing-way/issues/3331). 
+      We managed to add 13 images over the Book Dash week!
    * On day 2, we had two show and tell sessions - one in English and one in Spanish. These are fun, social sessions where the Book Dash participants share something from their work or personal life that they think will interest the group. Topics brought by participants in this session ranged from a love of Quarto to academic paper tracking, team building in nature in Uganda to a love of eating eggs, and sporty topics like roller derby, power lifting and charity bike rides. 
    * On day 3, we had a creative writing session from Jonny Writes words.
    * On day 4, the social session was hosted by Richard Acton and he led a discussion session on Licenses, IP, \& Digital Ownership. Activities from the social session can be found on a [shared document](https://hackmd.io/Q0gEz9x6Rqm6fAiscfNF4Q?view) and this topic links to PR [#3142](https://github.com/the-turing-way/the-turing-way/pull/3142).
@@ -199,7 +202,7 @@ We want to express our gratitude for their thoughtful engagement in the project 
            * About to merge! [https://github.com/the-turing-way/the-turing-way/pull/3431#](https://github.com/the-turing-way/the-turing-way/pull/3431#)
  
    * Name: Esther
-   * Links to issues and PR:
+      * Links to issues and PR:
        * Together with Emma we did the quickest Issue/PR ever on finding data: [https://github.com/the-turing-way/the-turing-way/issues/3360](https://github.com/the-turing-way/the-turing-way/issues/3360)
        * Did a big update on the RDM chapter, including new sections on data repositories, methodology/electronic labnote books and a drafty data visualisation section! 
        * [https://github.com/the-turing-way/the-turing-way/pull/3214](https://github.com/the-turing-way/the-turing-way/pull/3214) (thanks Anne, Saranjeet, Arielle and Alejandro for the reviews!!). Some of the content was also worked on by Emma, Eirini and Lena!
@@ -207,7 +210,7 @@ We want to express our gratitude for their thoughtful engagement in the project 
        * Session organised by Emma on adding images was very inspiring! I added several images in the RDM update and to the cultural change section [https://github.com/the-turing-way/the-turing-way/pull/3408](https://github.com/the-turing-way/the-turing-way/pull/3408) (thanks Arielle for writing a much nicer alt-text for the image!)
        * Chatted about governance - thanks Anne/Ale for facilitating these discussions!
        * Read all the things about the inclusive event PRs started by Sophia! 
-   * Ask: Also opened up a new issue on the feedback process: if you have any resources/thoughts please weigh in: [https://github.com/the-turing-way/the-turing-way/issues/3361](https://github.com/the-turing-way/the-turing-way/issues/3361)
+      * Ask: Also opened up a new issue on the feedback process: if you have any resources/thoughts please weigh in: [https://github.com/the-turing-way/the-turing-way/issues/3361](https://github.com/the-turing-way/the-turing-way/issues/3361)
 
    * Name: Alejandro
        * Appreciations
@@ -229,7 +232,7 @@ We want to express our gratitude for their thoughtful engagement in the project 
 ### New Illustrations by Scriberia for *The Turing Way* Community 
    * Illustration files are posted on Zenodo: [https://zenodo.org/record/3332807](https://zenodo.org/record/3332807).
    * Particular set from this Book Dash is available at: [https://zenodo.org/records/10556824](https://zenodo.org/records/10556824)
-   * Please reuse them and cite as *The Turing Way Community, \& Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. *[https://doi.org/10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
+   * Please reuse them and cite as: *The Turing Way* Community, \& Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. [https://doi.org/10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
  
  # Feedback
 
@@ -268,18 +271,17 @@ We greatly appreciate the work that our attendees have accomplished in the proje
        * We will be moving away from Eventbrite platform for future Book Dashes
        * Review application process
    * Address concerns raised on the Delta feedback
-## What is next? 
+   * [GitHub planning issue](https://github.com/the-turing-way/the-turing-way/issues/3210)
+   * [GitHub Book Dash Governance](https://github.com/the-turing-way/the-turing-way/issues/3231#issuecomment-1647578024)
 
 ## What is next? 
 
    * Represent *The Turing Way* in your community/conference, see our promotion pack
    * Attend a synchronous coworking such as online Collaboration Cafes take place every first and second Wednesday from 15:00 to 17:00 London time. Or weekly Coworking call every Monday from 11:00 - 12:00 London time.
-        * [Host one of these calls](https://the-turing-way.netlify.app/community-handbook/coworking.html](https://the-turing-way.netlify.app/community-handbook/coworking.html)
+        * [Host one of these calls](https://the-turing-way.netlify.app/community-handbook/coworking.html)
    * Attend a [fireside chat](https://hackmd.io/@turingway/fireside-chats), speak at one, or organise one in your community
    * Contribute new topics or review open pull requests
-   * Wondering where to start? Join us on social media platforms or [connect in other ways ](https://the-turing-way.start.page/).
-   * [GitHub planning issue](https://github.com/the-turing-way/the-turing-way/issues/3210](https://github.com/the-turing-way/the-turing-way/issues/3210)
-   * [GitHub Book Dash Governance](https://github.com/the-turing-way/the-turing-way/issues/3231#issuecomment-1647578024)
+   * Wondering where to start? Join us on social media platforms or [connect in other ways](https://the-turing-way.start.page/).
 
 ## November 2023 Book Dash Links
 
@@ -291,8 +293,8 @@ We greatly appreciate the work that our attendees have accomplished in the proje
    * [Eventbrite page for the participants to register](https://www.eventbrite.co.uk/e/the-turing-way-book-dash-nov-2023-tickets-734720848837)
    * [Eventbrite page for the share-outs](https://www.eventbrite.co.uk/e/the-turing-way-working-group-and-collaborator-celebrations-nov-2023-tickets-744294955247?aff=oddtdtcreator)
    * [HackMD with all links](https://hackmd.io/HvEB6iCcRDeqnmkpamnueg)
-   * [HackMD Onboarding calls](https://hackmd.io/HiszAIqxS4Kp4AXtTE6iwA), 30 November
-   * [HackMD](https://hackmd.io/vZWIal5ZTSO8sCsst57lYw) GitHub Skill-up Session and Collaboration Cafe, 06 November
+   * [HackMD Onboarding calls](https://hackmd.io/HiszAIqxS4Kp4AXtTE6iwA) (30 November)
+   * [HackMD](https://hackmd.io/vZWIal5ZTSO8sCsst57lYw) GitHub Skill-up Session and Collaboration Cafe (6 November)
    * [Bonus Playlist with songs selected by our attendees](https://www.youtube.com/watch?v=QfhEKpFiepM\&list=PLBxcQEfGu3DlOYCtSKkVkB4IWk5qEL516)
    * For specific notes from each day, please visit one of the following notes: 
        * **[Day 1, 13 November](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day1)**, [HackMD](https://hackmd.io/rJvNUQnsSiao7jSdSErj2g)
