@@ -35,7 +35,7 @@ Anne Lee Steele (\*), Alejandro Coca-Castro, Alexandra Araujo Alvarez (\*), Arie
 It is called a Dash (instead of a Book Sprint), because it aims to be a short event. 
 During the Book Dash participants collaboratively work on *The Turing Way* book to propose new topics, discuss ideas, develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. 
 Participants can also contribute to improving the ways we work in the community and take the lead on accomplishing different tasks or subprojects. 
-For more information, look at: [The Turing Way Book Dashes](https://the-turing-way.netlify.app/community-handbook/bookdash.html)
+For more information, look at: [The Turing Way Book Dashes](https://the-turing-way.netlify.app/community-handbook/bookdash.html).
 
 ### Format of the event
    * The November edition of Book Dash featured 17 invited contributors, 12 committee members, two external facilitators, 14 online working sessions, four discussions and social events, and two community share-outs.
@@ -49,7 +49,7 @@ For more information, look at: [The Turing Way Book Dashes](https://the-turing-w
 ### Application, Review and Selection process
 
    * As in the past, we invited applications through an open call where interested applicants could state their goals and interest in the Book Dash. 
-       * Previous attendees and long-term members of the community were also invited to sign up as mentors for new contributors and session leads as part of the application process
+       * Previous attendees and long-term members of the community were also invited to sign up as mentors for new contributors and session leads as part of the application process.
    * Applicants were asked to describe what they wanted to contribute to the Turing Way during the Book Dash, and how they would collaborate and engage with other participants.
    * To get a sense of the time zones these applicants came from, we asked them to choose their preferred slots. 
    * The Book Dash Planning Committee used the [rubrics](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-application#rubrics-for-scoring-applications) to score the applications during the review. They met online to discuss applications, frame feedback and conclude their selection process.
@@ -60,10 +60,10 @@ For more information, look at: [The Turing Way Book Dashes](https://the-turing-w
    * Along with Anne, we started a [new issue](https://github.com/the-turing-way/the-turing-way/issues/3367) to create the Book Dash Planning Committee subchapter. 
    The main idea was to create checklists for day lead(s) and session host(s). 
    * We circulated these draft checklists through the planning committee so that the checklists could be tested live during the book dash itself and we also received feedback on it.
-   * The checklists involved tasks for both the primary/secondary day leads and session hosts.
-   * For the day leads, the checklist was divided into three parts they should lead: before the day, during the day, and after the day ends.
-   * For the session hosts, the checklist was divided into three parts (for both contribution and social sessions): before session, during session, and after the session. 
-   The checklist provided a technical orientation to hosting as well as describing the role of host.
+     * The checklists involved tasks for both the primary/secondary day leads and session hosts.
+     * For the day leads, the checklist was divided into three parts they should lead: before the day, during the day, and after the day ends.
+     * For the session hosts, the checklist was divided into three parts (for both contribution and social sessions): before session, during session, and after the session. 
+       The checklist provided a technical orientation to hosting as well as describing the role of host.
 
 
 ### Accessibility Assessment 
@@ -74,11 +74,9 @@ For more information, look at: [The Turing Way Book Dashes](https://the-turing-w
    Framapad was also an improvement over the Software Sustainability Institute's Etherpad instance (which was unstable during a previous Book Dash with multiple simultaneous participants).
    * The Accessibility Working Group was joined by two colleagues from Metadocencia, Patricia Loto and Jesica Formoso, who shared expertise in leading accessible events and educational experiences
    * The Accessibility Working Group met early in the Book Dash to plan work on the TTW accessibility Policy and review the chapter "Planning Inclusive and Accessible Events" for the Guide to Collaboration authored by Sophia Batchelor.
-   * Patricia and Jesica provided complete reviews of the chapter. Liz provided advice and started discussions at the Book Dash and on GitHub on the overall structure and also considerations of the identities of readers and people who will benefit from this work.
+     * Patricia and Jesica provided complete reviews of the chapter. Liz provided advice and started discussions at the Book Dash and on GitHub on the overall structure and also considerations of the identities of readers and people who will benefit from this work.
      
 ### Book Dash Planning Committee
-
-*Planning committee members. Learn more about them:
 
    * Anne Lee Steele is the Research Community Manager of The Turing Way. She provided the Book Dash Planning Committee operational support during the planning process, coordinated the communications campaign, and mentored contributors throughout the week. She also co-hosted the in-person hub in London, and facilitated hybrid Community Share-out and Working Group share-out sessions at the end of the week.
    * Alexandra Araujo Alvarez is the Research Project Manager for The Turing Way. She provided the Book Dash Planning Committee operational support, being responsible for managing the Book Dash budget, contracting external suppliers, processing participants expenses and organising the catering at the in-person hub in London.
@@ -87,10 +85,12 @@ For more information, look at: [The Turing Way Book Dashes](https://the-turing-w
    * Esther is a Data Steward at the Delft University of Technology, Faculty of Applied Sciences, the Netherlands. She has been a core contributor to the project developing, guiding and collaborating on chapters related to data management and reproducibility - and leads the partnership with TU Delft.
    * Saranjeet is a Fellow of the Software Sustainability Institute and Community Manager at the Research Software Alliance. She has been a part of The Turing Way community since 2021.
    * Liz is a researcher in the working dog field. She has participated in three Book Dashes and is the Co-lead of the Accessibility Working Group. 
-   * Winny  is the Africa Regional Secretary at (International Association for Social Science Information Service and Technology (IASSIST). She is responsible for coordinating trainings and data related activities in Africa. She has participated in two Book Dashes. She is also a certified Carpentry instructor.
+   * Winny  is the Africa Regional Secretary at International Association for Social Science Information Service and Technology (IASSIST). She is responsible for coordinating trainings and data related activities in Africa. She has participated in two Book Dashes. She is also a certified Carpentry instructor.
+   * Johanna Bayer.
    * Susana Roman Garcia is a PhD student at the University of Edinburgh, and was an enrichment student at the Alan Turing Institute for the 2022/23 cohort group. Her PhD involves merging topics from Neuroscience, Computer Science and Ethics. She has participated in a couple of Book Dashes, and has contributed a chapter to the TTW Book on "Data Hazards".
 
-We want to express our gratitude for their thoughtful engagement in the project and for helping build an inclusive and safe place in the Book Dash. It is only with their help, we can host the next event in May 2024 taking careful consideration for our participants.
+We want to express our gratitude for their thoughtful engagement in the project and for helping build an inclusive and safe place in the Book Dash. 
+It is only with their help, we can host the next event in June 2024 taking careful consideration for our participants.
 
 ### Timeline 
    * Call for application to join the Book Dash Planning Committee and local hub start date: 10 July 2023
@@ -113,8 +113,8 @@ We want to express our gratitude for their thoughtful engagement in the project 
    * Six new chapters/subchapters were published and five existing chapters/subchapters were revised and updated.
 
 ### **New chapters published in The Turing Way book**
-   * [Data Feminism Landing Page](https://github.com/the-turing-way/the-turing-way/pull/3417), (https://github.com/the-turing-way/the-turing-way/pull/3417)
-   * [Finding data](https://github.com/the-turing-way/the-turing-way/pull/3369), (https://github.com/the-turing-way/the-turing-way/pull/3369)
+   * [Data Feminism Landing Page](https://github.com/the-turing-way/the-turing-way/pull/3417) (https://github.com/the-turing-way/the-turing-way/pull/3417)
+   * [Finding data](https://github.com/the-turing-way/the-turing-way/pull/3369) (https://github.com/the-turing-way/the-turing-way/pull/3369)
    * [Patent and trademark sub-chapter](https://the-turing-way.netlify.app/reproducible-research/licensing.html?highlight=patent%20trademark#patents) to licening section 
 
 ### **Existing chapters updated during the Book Dash**
@@ -124,14 +124,17 @@ We want to express our gratitude for their thoughtful engagement in the project 
    * Project design guide updates [https://github.com/the-turing-way/the-turing-way/pull/3412](https://github.com/the-turing-way/the-turing-way/pull/3412).
    * Added [BigCode as a case study](https://github.com/the-turing-way/the-turing-way/pull/3165) for a real world example of ML data governance.
 
-### Our attendees also led and participated in the following informal discussions and public events:**
+### Our attendees also led and participated in the following informal discussions and public events:
    * On day 1, the social session was used as a short imageathon sprint to upskill participants in how to add images to The Turing Way book and then get participants to add images. 
       This involved a [presentation](https://docs.google.com/presentation/d/1J\_U6KK7GMtQEAhGnv2Nb\_v9B8\_vJ63pYHFkH9qIVG2k/edit?usp=sharing), and discussing and writing alt text for the images. 
       Issues and PRs were centralised in issue [#3331](https://github.com/the-turing-way/the-turing-way/issues/3331). 
       We managed to add 13 images over the Book Dash week!
-   * On day 2, we had two show and tell sessions - one in English and one in Spanish. These are fun, social sessions where the Book Dash participants share something from their work or personal life that they think will interest the group. Topics brought by participants in this session ranged from a love of Quarto to academic paper tracking, team building in nature in Uganda to a love of eating eggs, and sporty topics like roller derby, power lifting and charity bike rides. 
+   * On day 2, we had two show and tell sessions - one in English and one in Spanish.
+      These are fun, social sessions where the Book Dash participants share something from their work or personal life that they think will interest the group.
+     Topics brought by participants in this session ranged from a love of Quarto to academic paper tracking, team building in nature in Uganda to a love of eating eggs, and sporty topics like roller derby, power lifting and charity bike rides. 
    * On day 3, we had a creative writing session from Jonny Writes words.
-   * On day 4, the social session was hosted by Richard Acton and he led a discussion session on Licenses, IP, \& Digital Ownership. Activities from the social session can be found on a [shared document](https://hackmd.io/Q0gEz9x6Rqm6fAiscfNF4Q?view) and this topic links to PR [#3142](https://github.com/the-turing-way/the-turing-way/pull/3142).
+   * On day 4, the social session was hosted by Richard Acton and he led a discussion session on Licenses, IP, \& Digital Ownership.
+      Activities from the social session can be found on a [shared document](https://hackmd.io/Q0gEz9x6Rqm6fAiscfNF4Q?view) and this topic links to PR [#3142](https://github.com/the-turing-way/the-turing-way/pull/3142).
    * On day 5, we hosted two public share-out sessions!
    
 ### **On Day 5, during the community shareouts, The Turing Way working group representatives shared updates from their respective groups**: 
@@ -159,12 +162,10 @@ We want to express our gratitude for their thoughtful engagement in the project 
            * Fixing typos in the Community Handbook: Issue [#3346](https://github.com/the-turing-way/the-turing-way/issues/3346) and PR [#3347](https://github.com/the-turing-way/the-turing-way/pull/3347)
            * Switching Twitter for X: Issue [#3357](https://github.com/the-turing-way/the-turing-way/issues/3357) and PR [#3396](https://github.com/the-turing-way/the-turing-way/pull/3396/)
            * Rationalise Cross Reference examples: Issue [#3349](https://github.com/the-turing-way/the-turing-way/issues/3349) and PR [#3392](https://github.com/the-turing-way/the-turing-way/pull/3392)
-               * [https://github.com/the-turing-way/the-turing-way/pull/3392](https://github.com/the-turing-way/the-turing-way/pull/3392)
-           * 4. Some PR reviewing (should have done more!):
-               * [https://github.com/the-turing-way/the-turing-way/pull/3376](https://github.com/the-turing-way/the-turing-way/pull/3376)
-           * 5. Scriberia Illustration
-               * For the "When Review Goes Wrong" subchapter... in progress
-           * 6. For the future:
+           * [https://github.com/the-turing-way/the-turing-way/pull/3392](https://github.com/the-turing-way/the-turing-way/pull/3392) 
+           * Some PR reviewing (should have done more!): [https://github.com/the-turing-way/the-turing-way/pull/3376](https://github.com/the-turing-way/the-turing-way/pull/3376)
+           * Scriberia Illustration for the "When Review Goes Wrong" subchapter... in progress
+           * For the future:
                * Small issue to fix: [#3356](https://github.com/the-turing-way/the-turing-way/issues/3356)
                * Add material about Mastodon: Issue [#3359](https://github.com/the-turing-way/the-turing-way/issues/3359)
        * ASK:
@@ -297,11 +298,11 @@ We greatly appreciate the work that our attendees have accomplished in the proje
    * [HackMD](https://hackmd.io/vZWIal5ZTSO8sCsst57lYw) GitHub Skill-up Session and Collaboration Cafe (6 November)
    * [Bonus Playlist with songs selected by our attendees](https://www.youtube.com/watch?v=QfhEKpFiepM\&list=PLBxcQEfGu3DlOYCtSKkVkB4IWk5qEL516)
    * For specific notes from each day, please visit one of the following notes: 
-       * **[Day 1, 13 November](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day1)**, [HackMD](https://hackmd.io/rJvNUQnsSiao7jSdSErj2g)
-       * **[Day 2, 14 November](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day2)**, [HackMD](https://hackmd.io/FKIiaD0fTdO40jcKTVcQ1g)
-       * **[Day 3, 15 November](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day3)**, [HackMD](https://hackmd.io/gQdLs4UVRGaWZTRIDBDqWA)
-       * **[Day 4, 16 November](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day4)**, [HackMD](https://hackmd.io/Ra2VmtowRuiIXrJLUiKUlg)
-       * **[Day 5, 17 November](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day5)**, [HackMD](https://hackmd.io/WezujLnWTUCozHzUomdTQA)
+       * [Day 1, 13 November](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day1), [HackMD](https://hackmd.io/rJvNUQnsSiao7jSdSErj2g)
+       * [Day 2, 14 November](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day2), [HackMD](https://hackmd.io/FKIiaD0fTdO40jcKTVcQ1g)
+       * [Day 3, 15 November](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day3), [HackMD](https://hackmd.io/gQdLs4UVRGaWZTRIDBDqWA)
+       * [Day 4, 16 November](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day4), [HackMD](https://hackmd.io/Ra2VmtowRuiIXrJLUiKUlg)
+       * [Day 5, 17 November](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-day5), [HackMD](https://hackmd.io/WezujLnWTUCozHzUomdTQA)
    * [Post-event feedback](https://annuel2.framapad.org/p/ttw-bookdash-nov2023-feedback), [HackM](https://hackmd.io/cB7rgWJ-S9WugCFrWrKt1g)
    * [Reports from the previous events](https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash)
 
