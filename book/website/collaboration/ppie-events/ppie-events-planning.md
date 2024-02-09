@@ -1,8 +1,5 @@
-(cl-inclusive-events-planning)=
-# Planning an Inclusive Event
-Running an event that is inclusive of all is more than just a choice; it’s a necessity to ensure that all your participants will be able to fully engage in the event. 
-Inclusion is more than a buzzword - it’s a commitment to ensuring that every individual regardless of their background, abilities, or current circumstances has equal opportunity to participate and thrive. 
-
+(cl-ppie-events-planning)=
+# Planning your Event
 For many projects, the involvement of individuals and communities with first-hand lived experience is critical to upholding and ensuring that the processes and outcomes developed are effective, inclusive, and equitable. 
 This can involve hosting different events that are attended by people with lived experience and other members of the public, as well as researchers, clinical staff, and other professionals. 
 
@@ -11,71 +8,91 @@ This section provides guidance and considerations for how to design and host an 
 These recommendations are not an exhaustive list, and it is always preferable to include a specific representative or person with lived experience in the event planning to ensure that your event is tailored to the needs of your specific attendees. 
 Their inclusion in decision-making processes is essential to achieving an accessible and inclusive event.
 
-(cl-inclusive-events-planning-intro)=
-## Accessibility vs. Inclusion: What to focus on
-When designing and organising an event, it can be easy to focus on the accessibility requirements of the venue and overlook the steps needed to make an event inclusive and enjoyable for all participants. 
+(cl-ppie-events-planning-intro)=
+## Accessibility and Inclusion: What to focus on
+When designing and organising an event, it can be easy to focus on accessibility requirements at the venue, and overlook the steps needed to make an event inclusive and enjoyable for all participants. 
 
 We can think of this in terms of “**Universal Design**” which is about designing an event or environment so that it can be accessed, understood, and used by all people regardless of their background, age, size, ability or disability. 
 This is different from “**Accessible Design**” which focuses on designing around specific accessibility requirements. 
 
 An example of Universal Design is the "[Curb Cut effect](https://en.wikipedia.org/wiki/Curb_cut)" which is where curbs on sidewalks and paths are sloped down to meet the main pavement. 
-This change was originally suggested to allow wheelchair access to the street without having to step down from a high curb. 
-The changes also benefit most other pedestrians, people who use prams, cyclists, people with mobility aids, visual impairments, and young people meaning that curb cuts are recognized as being a good universal design change, because they make walkways and street crossings easier to use for everyone. 
+Cutting the curb and adding a slope was originally suggested to allow wheelchair access to the street without having to step down from a high curb. 
+This change also benefits most other pedestrians, as well as people who use prams, cyclists, people with mobility aids, and young people meaning that adding curb cuts made walkways and street crossings easier to use for everyone. 
 You can read more about Universal Design on the [Universal Design Website](https://universaldesign.ie/what-is-universal-design/), however, you do not need to be an expert in design to organize an inclusive and accessible event.
 
-Developing an event for a specific community, or that will include a specific group of people with lived experience can put a larger emphasis on specific accessibility features that would be needed to run an inclusive event. 
-For example, ensuring materials in braille are provided and using high contrast colours in any visual material for attendees with visual impairments.
+A core feature of PPIE is that members of the public and other non-researchers are actively involved in the research, and this will also be true for your events. When thinking about how to be inclusive of people with lived experience at your event, ensure that you plan beyond just the accessibility requirements that focus on disabilities. 
+Using Universal Design to plan your event allows you to take into account what changes can be made to make your event accessible to a wider audience. 
+For example, recording your sessions and using closed caption software can directly benefit and meet the accessibility requirements of people with disabilities, but will also benefit a much wider audience as well.
+Similarly, improving the signposting at your event will benefit both members of the public that are new to public events, but also early career researchers that have less experience in attending events.
 
-In order to organise an event for people with lived experience, the accessibility requirements of your specific attendees should be identified early and accounted for throughout each stage, and your event should consider using universal design guidelines to ensure your event is as inclusive as possible. 
+This chapter and the examples used in it focus heavily on aspects that are relevant when organising events in which members of the public are expected to attend, based on a universal design framework and an understanding of how the considerations benefit a wide audience as well as members of the public who may be attending your event as people with lived experience. 
 
-It can be helpful to think of accessibility as a set of community-wide, behavioral, social, technical decisions that are taken to ensure that all people are welcome and are able to participate in a community or event (cite: Andrea Sanchez Tapia). 
+This chapter is not designed to replace general recommendations and guidelines for running accessible events for people with disabilities or other accessibility needs, as those will apply to your event planning regardless of whether members of the public are attending them or not. 
+At the relevant places, we have linked to the existing “inclusive events” chapters and recommend referring to these. 
+If your attendees have accessibility requirements, please ensure that those are planned for and met in addition to taking a universal design approach. 
 
-Organising an inclusive event is more than a legal requirement, it is about creating a more equitable, welcoming, and meaningful experience for all participants. 
-
-(cl-inclusive-events-planning-logistics)=
+(cl-ppie-events-planning-logistics)=
 ## Planning - Logistics 
 Planning an event involves many stages that can vary in length depending on the size and resources required. 
 This section addresses some suggested areas for consideration for events that include people with lived experience as attendees. 
 
 At each stage, your planning documents should reflect an emphasis on accessible and inclusive universal design. 
 
-(cl-inclusive-events-initial-planning)=
+(cl-pppie-events-initial-planning)=
 ## Initial Planning 
-An event that will be attended by people with lived experience may be different to events run without inclusivity in mind. 
+An event that will be attended by people with lived experience may be different to events planned for an audience consisting only of researchers and research staff. 
 
-Being inclusive at the planning stages ensures that people without lived experience are not making decisions without the input of people with lived experience. 
-In particular, actively involving a community representative or person with lived experience in the event planning process will help to ensure both a diverse perspective, and that the accessibility requirements unique to your attendees are identified. 
+Being inclusive at the planning stages ensures that people **without** lived experience are not making decisions for people **with** lived experience. 
+To prevent this, consider and define how you will actively involve a community representative or person with lived experience in the event planning process.
+This will help to ensure both a diverse perspective, and help your event uphold the research goals of co-creation and public involvement. 
+
+Examples of how you can implement this would be to consider inviting and including representatives and public advisors into the event planning committee, or alternatively consider hosting town halls and feedback forums that can support and make space for a large audience of people with lived experience to share their perspectives and help steer your event towards success. 
+You could also consider hosting some focus group sessions at regular stages to get feedback on your plans.
+
 
 ```{note}
 If you are able to involve a member of the community, please consider how you will recognize or reimburse the time and contributions made.
 This may involve an honorarium for attending planning meetings and for time spent reviewing policies and other documents.
 You could also consider hosting some focus group sessions at regular stages to get feedback on your plans.
+
 Where possible, the expertise and labor of people with lived experience should be recognized and renumerated. 
 ```
 
+### Scoping the Event
+As part of the initial planning, it is important to clearly define the event's goals, understand the intended audience and potential attendees, and identify how your event will ensure the active inclusion and involvement of people with lived experiences. 
 
-To identify the event's purpose and outcomes, carefully consider your target audience and the reasons behind their inclusion. 
-It is important at this stage to define and document the purpose of public involvement in the event alongside a representative or member of the public with lived experience (cite: NIHR public involvement guidance). 
+When scoping these questions, consider establishing a planning committee that can represent the public and patient populations. 
 
-It is important to clearly define the event's goals, understand the intended audience and potential attendees, and to emphasize the importance of including people with lived experiences throughout the event. 
+To identify the event's purpose and outcomes, carefully consider your target audience and the reasons behind their inclusion.
+Consider documenting this alongside your planning committee or with input from people with lived experience.
 
-During the initial planning, organiziers can prioritize inclusion by deciding how accessibility requirements are going to be met at a level suitable for all attendees. 
-This suitable level should be discussed and defined by people with lived experience and the specific accessibility need. 
-This includes considering physical and cognitive accessibility, communication needs, and any other accommodations necessary. 
+It is important at this stage to define and document the purpose of public involvement in the event, and doing so alongside a representative or members of the public with lived experience will help to identify how best to design an event that is beneficial and inclusive for your attendees (cite: NIHR public involvement guidance). 
 
-Finally, when developing the event agenda, make sure it is inclusive of all attendees. 
-Consider various perspectives, backgrounds, and needs, to create an agenda that fosters an inclusive and engaging experience for everyone involved.
+### Preliminary Content Planning
+By involving a representative or getting feedback from members of the public you will also be able to scope and identify topic areas and event content that will be relevant and inclusive of your audience. 
+Consider how you can co-develop a program and identify event content that supports various perspectives, backgrounds, and needs. 
+This will allow you to create an agenda that fosters an inclusive and engaging experience for everyone involved.
 
-(cl-inclusive-events-power-dynamics)=
+### Considering Accessibility Requirements
+During the initial planning, it is also important that organisers consider the accessibility requirements of all attendees and establish how accessibility requirements are going to be met at a level suitable for everyone. 
+This suitable level should be discussed and defined by the expected attendees, including the people with lived experience. 
+This will help with identifying specific accessibility needs and includes considering physical and cognitive accessibility, communication needs, and any other accommodations necessary. 
+
+> You can find more information about making events accessible in the Inclusive Events Accessibility Guide. 
+
+
+(cl-ppie-events-power-dynamics)=
 ### Addressing Power Dynamics
-Acknowledging and addressing the power and privilege differences between members of the public and researchers is an important part of creating an inclusive environment where people with lived experience are able to engage equitably at an event. 
+For events where attendees are members of the public and non-researchers, acknowledging and addressing the power and privilege differences between the members of the public and researchers will be an important part of creating an inclusive environment where the attendees with lived experience can engage equitably at an event.
 
 It can be helpful to acknowledge that people with lived experience are "experts by experience" to help establish equal footing with professionals and researchers who are "experts by profession". 
 
-Your event may be the first event of this type attended by people with lived experience and members of the public, and they may not have pursued higher education compared with attendees who may be researchers by profession. 
+Your event may be the first event of this type attended by people with lived experience and members of the public, and many attendees may not have pursued higher education compared with attendees who may be researchers by profession. 
 This can create a significant power imbalance due to comfort and experience at the event. 
+
 Networking and social components of the event may feel less welcoming to people with lived experience if they do not know anyone before attending. 
-Researchers, especially in niche fields, may know each other quite well or may be more comfortable joining discussions with others who share the same project or university. 
+Researchers may attend with some of their regular co-workers or know other attendees already beforehand (especially in niche fields). 
+Thus, they may be more comfortable joining discussions with others at your event, compared to members of the public that are not embedded in such pre-existing social networks. 
 Try to consider ways to open discussion between attendees to avoid a social separation between researchers and members of the public. 
 
 Additionally, many signifiers of social class can be learned and acquired by research professionals during their career, such as how to present and speak confidently, a familiarity of technology and scientific advances, as well general comfort navigating university campuses. 
@@ -87,7 +104,8 @@ Building rapport and respect between attendees will help your event foster meani
 
 During the opening session, try to encourage open and respectful dialogue between all attendees and create spaces where attendees can ask questions, share their perspective, and engage meaningfully in conversations. 
 This may require active facilitation of conversations to support attendees with lived experience having time to speak and to ensure that a respective dialogue is maintained. 
-It can also be useful to allow attendees to self-identify and differentiate by interest rather than by profession (for example by labelling networking tables with a topic, or putting only names and pronouns on name badges instead of including someone's name, profession, and university affiliation or workplace).
+It can also be useful to allow attendees to self-identify and differentiate by interest rather than by profession. 
+For example by labelling networking tables with a topic, or putting only names and pronouns on name badges instead of including someone's name, profession, and university affiliation or workplace.
 
 Depending on the event length and the resources available, it may be helpful to provide training on effective communication and collaboration to both experts by profession and experts by experience in attendance. 
 Supporting the development of scientific communication skills for all attendees can help bridge any gaps in understanding and enable all attendees to engage in discussion on an equal footing. 
@@ -100,7 +118,7 @@ The equal representation of the attendees by the speakers and facilitators allow
 Finally, as organizers, it is important to understand the power you have in deciding how inclusive and accessible your event will be. 
 It is important to acknowledge how your choices may impact the experience and inclusion of people with lived experience at your event.
 
-(cl-inclusive-events-timing-considerations)=
+(cl-ppie-events-timeline-planning)=
 ### Timeline and Timing of Event 
 After identifying the "why" and "who" for your event, it is important to plan "when" the event will take place, and to develop a timeline for when tasks need to be completed in order to run your event. 
 
@@ -117,13 +135,14 @@ When planning the dates for the event, it is also useful to consider the potenti
 If your event takes place in-person, try to choose a date and start time that takes into account how long your attendees will need to travel. 
 For example, having your event start at 10:30 a.m. allows for inter-city travel the morning before the event. 
 
-(cl-inclusive-events-timeline-planning)=
+(cl-ppie-events-timeline-planning)=
 #### Creating a Planning Timeline
 Your planning timeline will vary greatly based on the scale of your event. 
 We have highlighted areas where your timeline should take into account any considerations that would be specifically supportive of people with lived experience.
 
 Although it is always necessary to allow for appropriate time to source speakers, people with lived experience may require more notice than is traditionally planned for in order to support their attendance and speak at an event. 
-People with lived experience may have additional constraints such as medical appointments, caring responsibilities, support and travel needs, and preparation time which can require significant time in order to plan for and implement. 
+People with lived experience may have additional constraints such as medical appointments, caring responsibilities, support and travel needs, or a job that does not support their participation in research. 
+All of these can require significant time in order to plan for and implement in order to attend your event. 
 Try to identify potential speakers as early as possible and book dates in their diaries that would allow them to make plans that would support their engagement in the event.
 
 Where possible, try to arrange a recording of a talk or an alternative session plan that can be used in the event a speaker or facilitator is unable to attend. 
@@ -136,90 +155,59 @@ People with the lived experience of multiple long-term conditions may find trave
 By supporting the speaker to speak remotely, they were able to give an engaging and thoughtful keynote address without the burden of having to travel. 
 `````
 
-(cl-inclusive-events-planning-GDPR)=
-### GDPR and Data Protection
-Depending on your location and organization, the collection of data during registration may be regulated and need additional considerations.
-
-In the EU, GDPR (or the UK's version UK-GDPR) considers data concerning health conditions and disability as "special category data". 
-This "special category" also extends to cover the data about a relative or carer of an individual with a health condition or disability. 
-Depending on the specific attendees and focus of your event, you may need to complete additional data protection forms and establish a plan for managing any protected information. 
-This includes dietary information and disability status as disclosed in registration forms. 
-Data management and privacy procedures will differ between organizations, but it is important during planning to be aware that the information being collected may be special category and to establish a protocol for collecting and storing this information. 
-
-Your location will largely determine what policies are in place and if there is an equivalent of GDPR that applies to data collected and processed in your jurisdiction. 
-Please refer to your organization's policy on data protection and privacy and seek advice from your Data Protection Officer. 
-
-(cl-inclusive-events-planning-budget)=
+(cl-ppie-events-planning-budget)=
 ### Budget
 Attending and organizing events can place a large financial strain on all parties involved, and can cause the unintentional exclusion of many people with lived experience who may be engaging in projects as a volunteer. 
+
 This section highlights considerations that event organizers can make to increase the inclusion of an event, however, we would like to acknowledge that not all of these recommendations are possible to implement for every event. 
 Please work with your team and the resources available to address the most urgent needs of your attendees and use this section as a starting point for discussion.
 
 Some areas of consideration may be:
 
-(cl-inclusive-events-planning-tickets)=
+(cl-ppie-events-planning-tickets)=
 #### Ticket Pricing
 If your event is ticketed, ticket prices should be set thoughtfully and may consider having different tiers of pricing in addition to setting aside low-cost or complimentary tickets for carers and those experiencing financial hardship.
 
-(cl-inclusive-events-planning-honorarium)=
+(cl-ppie-events-planning-honorarium)=
 #### Honorarium and Bursaries 
 Depending on the size of the budget and structure, creating a policy and the budget for an Accessibility Fund can help to make your event inclusive for all participants, regardless of their needs and circumstances. 
 This is a Fund that can be applied to cover additional costs that would support people with lived experience attending and engaging in your event. 
+
 These additional costs could be: 
-- additional accommodation for people who may need to travel to an event the day prior, or stay longer, if attending in-person due to health conditions.
+- additional accommodation for people who may need to travel to an event the day prior, or stay longer, if attending in-person.
 - any travel costs or support for those with caring responsibilities to cover the cost of a support worker, childcare, or allowing their child to travel with them.
 - honorarium for members of the public with lived experience to attend sessions. 
+  Many members of the public may be volunteering their time or having to take unpaid time off work in order to attend your event. 
+  Recognizing their contributions can also help to address power imbalances between career researchers and members of the public.  
 - honorariums for speakers, facilitators, and note-takers if they are needed for your event.
 - support for accessibility requirements such as a Sign Language Interpreter.
 - reimbursements for accessible transport (for example, taxis can often be more expensive than public transport but may be required depending on the location of your event).
 
-It will be important to create a clear and understandable policy for what activities and costs can be covered by an Accessibility fund. 
+It will be important to create a clear and understandable policy for what activities and costs can be covered by an Accessibility Fund. 
 Honorariums and Reimbursements may have separate policies and timelines, and it is important to be as transparent as possible in order to support people with lived experience engaging in your event. 
 It is advisable to highlight who is responsible for payments, how any reimbursement procedures will work and their expected timeline, and clear guidance on what expenses will be covered. 
-The UK's National Institute for Health and Care Research has published [Guidance on Payment](https://www.nihr.ac.uk/documents/payment-guidance-for-researchers-and-professionals/27392) for researchers who need to cost public involvement activities at any stage of the research process that can be used as a reference for developing your event's honorarium policy.
+
+It is also very important to understand how honorarium may affect an individuals’ state benefits. For many countries, receiving an honorarium payment is viewed by local government as “income” when assessing tax codes. 
+Although you as an events organizer does not need to become an expert in tax and benefits, it is critical that you plan for how to provide honorarium or reimbursements for any people with lived experience in a way that does not disadvantage or put their financial status at risk. 
+For the UK, the Social Care Institute for Excellence has collated a [useful overview](https://www.scie.org.uk/co-production/supporting/paying-people-who-receive-benefits/)  on supporting people with lived experience at your event who may be on benefits.
+
+
+Additionally, UK's National Institute for Health and Care Research has published [Guidance on Payment](https://www.nihr.ac.uk/documents/payment-guidance-for-researchers-and-professionals/27392) for researchers who need to cost public involvement activities at any stage of the research process that can be used as a reference for developing your event's honorarium policy.
 
 Please ensure that all documentation and communication about honorarium and reimbursements are written in an Easy Read format following Plain Language guidance and if possible, provide clear pathways on how to submit documents. 
-People with lived experience may not have a printer in their homes and may share a computer or smartphone to take part in events. 
+Many members of the public may not have a printer in their homes and may share a computer or smartphone to take part in events. 
+
 Where possible, please be mindful of the technology and process barriers that people may face and make processes as clear as possible.
 Review your organization's honorarium policy, and consider what steps will be needed to align your policy with what is both recommended and what is required. 
 
 ```{admonition} Case Study
 :class: tip
-A community event attended by people with vision impairments requested a support person to type and guide them through a reimbursement form. 
-While this may not be a requirement for all types of events, consider both the budget, communication, and the GDPR requirements that would be needed for a member of staff to support attendees with completing the forms. 
+Community events run by the Multiple Long Term Conditions Community of Practice are often attended by people with vision impairments and low vision. 
+These community members receive an honorarium for their participation in focus group sessions and requested a support person to type and guide them through the reimbursement forms. 
+While this example was specific to the needs of that community and may not be a requirement for all types of events, it highlights the additional considerations such as the budget, communication, and the GDPR requirements in order for that would be needed for a member of staff to support attendees with completing the forms. 
 ```
 
-(cl-inclusive-events-planning-risk-assessment)=
-### Risk Assessment
-Many organizations will require a risk assessment as part of planning an event and it is critical to consider the additional risks that may be unique to the attendees of your specific event. 
-Even if your organization does not require it, identifying any risks and mitigation strategies specific to your attendees will be critical in ensuring the safety and well-being of people with lived experience at your event. 
-
-You can find some examples below of what to consider and capture in a risk assessment. 
-To fully assess the risk, it will be best to get feedback from, or include in planning, a representative from the community to consider the specific needs of the community you are working with at your event. 
-The examples provided can act as a guide, but will not be able to replace directly working with your community to identify potential risks. 
-
-* **Potential Risk: PTSD Triggers** An event run for people with lived experience of Post Traumatic Stress Disorder (PTSD) may need to consider the risk of session material and discussion inadvertently triggering PTSD in some attendees.
-  As part of risk mitigation, organizers can explore ways to identify and label potential triggering material and make attendees aware of when potentially triggering content is featured at the event.
-  It would also be suggested to provide a quiet space, resources, and onsite counselling for individuals who may be affected at the event. 
-
-* **Potential Risk: Allergic Reaction and Service Animals** Some attendees may rely on service animals to navigate and attend the event.
-  It will be important to keep spaces well-ventilated and to inform attendees that animals will be present to ensure the safety of attendees with animal or pet hair allergies.
-  Clear and timely communication can help manage this as a potential risk.
-
-* **Potential Risk: Mobility Impairment** Mobility impairments can make it difficult for attendees to stand unaided for long periods of time, as well as increasing the risk of trip and fall hazards.
-  If your event features a poster session, consider providing additional seating or hosting posters at booths.
-  Adequate seating and accessible pathways can help to minimize risk and ensure the safety of attendees with mobility impairments.
-
-* **Potential Risk: Sickness Transmission and Immunocompromised Attendees** Immunocompromised attendees will be more susceptible to illness.
-  When organzing your event, the risk to attendees can be reduced by such as providing hand sanitizers, promoting mask-wearing, encouraging people who are feeling ill to stay at home, and offering virtual attendance options if feasible. 
-
-* **Potential Risk: Safety of Individuals with Cognitive Impairments** Hosting an in-person event for people with lived experience of neurodegenerative disorders or cognitive impairments that takes place at an unfamiliar location may cause distress for attendees, and put attendees at greater risk or harm when travelling to and from the location.
-  It is important to consider alternative event options (such as remote or hybrid) and to consider how to safely ensure that attendees are able to return to their place of residence. 
- 
-By engaging and gathering feedback from your community, and including a representative of your attendees, you will be well positioned to identify and address potential risks effectively. 
-The consideration and mitigation of risks will help to ensure that your event is accessible and welcoming to all attendees, and even if not required will be useful in planning and delivering an inclusive event.
-
-(cl-inclusive-events-planning-staffing)=
+(cl-ppie-events-planning-staffing)=
 ### Personnel 
 Planning for who will be facilitating and staffing the event will help to identify what capacity your event will have to provide direct support to people with lived experience. 
 
@@ -229,65 +217,33 @@ For example, facilitators who can moderate and chair conversations or discussion
 You can also consider setting up a dedicated email address that is active before and during the event for people to direct accessibility questions towards. 
 For example, during the event an attendee with low vision can email and ask for context on content that was shared during a live session. 
 
-Large-scale conferences may also consider dedicating a member of staff for each day of the conference who is fully informed of all accessibility and support needs and will be able to provide assistance and information to attendees with lived experience. 
+Large-scale conferences may also consider dedicating a member of staff for each day of the conference who is fully informed onthe best practices for public engagement and will be able to provide assistance and information to attendees with lived experience. 
 
 Although not all events will require a full team of support staff, it is useful to consider how organizers will support people with lived experience on the day of the event. 
 
-(cl-inclusive-events-planning-eia)=
-### Equality Impact Assessment 
-Depending on the size of the event and the organization you work with, you may be required to complete a formal Equality Impact Assessment. 
-
-An Equality Impact Assessment is a way to identify the possible impacts that an event (or other activity) may have on the community and to help develop a plan to minimize any negative impacts. 
-It helps in ensuring that events and activities are equitable, fair, and that plans are able to meet the needs of the community.
-
-Depending on your organization, an Equality Impact Assessment may ask you to consider and address the barriers and inequalities that attendees may experience in attending or taking part in your event. 
-These forms often ask how you plan to address or minimize any potential negative impacts, as well as how you will measure if your plan was successful at addressing the barriers and inequalities. 
-
-Even if this is not a requirement of your organization, we would suggest discussing some of the considerations included in an Equality Impact Assessment process as part of planning. 
-The points below can be used to help guide this discussion: 
-- How have you identified and explored the potential equalities impacts on your proposed activity? (For example, have you spoken to members of the community who would be attending the event)
-- How will the age, gender, religious beliefs, sexual orientation, race, socioeconomic background, and parental and marital status of attendees impact attendance and engagement in your event?
-- Will engagement in any aspects of your event be impacted by an individual's disability? 
-- What other inequalities may impact an attendee's ability to fully and equitably engage in your event?
-
-(cl-inclusive-events-planning-safeguarding)=
-### Safeguarding
-Although the term "people with lived experience" encompasses an intentionally wide range of circumstances, depending on your field and your event, the specific attendees with lived experience may need additional safeguarding depending on what your event's "lived experience" is focused on. 
-
-In the UK, Safeguarding refers to the protection of people's health, wellbeing and human rights, and the proactive support necessary for people to live free from harm, abuse and neglect {ref}`nhs2023safeguarding`. 
-Depending on your country and organization, "safeguarding" or your regional equivalent may be part of your Risk Assessment processes, or may be called something else entirely. 
-
-Minors and people under the age of 18, people with lived experience of autism (autistic people), people with lived experience of dementia and other neurodegenerative disorders, cognitive impairments, and/or prior experience of abuse may be at a greater risk of being taken advantage of and therefore require additional considerations and protections if attending your event. 
-
-Your event may want to consider having a "Designated Safeguarding Officer" (often referred to as either a "DSO" or "Designated Safeguarding Lead" in the UK) as part of safeguarding procedures. 
-A Designated Safeguarding Officer is an official role who will handle and manage safeguarding reports and is a point of contact throughout the event. 
-They will be the point of contact for any legal, medical, or social services that may need to be contacted and is generally a senior organizer or member of staff.
-
-You may consider organizing safeguarding training for staff and organizers who will be attending the event which can help to prepare and train organizers in identifying the types of abuse and indicators, as well as how to report concerns about safeguarding and manage disclosure at the event. 
-Depending on your event, the disclosure of experiencing harm, as well as the medical conditions and health status of attendees, may be shared as part of discussion with people with lived experience. 
-It is important to consider how you will handle potential disclosure and what you will do to uphold the personal safety of an individual who discloses personal information unknowingly in a public forum at your event. 
-
-By creating a safeguarding policy that covers the reporting and escalation pathways and making this accessible to staff and attendees you will be better prepared to manage any events of disclosure and uphold the necessary safeguarding for your attendees. 
-
-Please also remember that safeguarding applies to both attendees and staff and it is important to consider the physical and psychological safety of staff at your event, as well as your attendees.
-
-(cl-inclusive-events-planning-before-event)=
+(cl-ppie-events-planning-before-event)=
 ## Before the Event (a few weeks before)
 
-(cl-inclusive-events-planning-speaker-preparation)=
+(cl-ppie-events-planning-speaker-preparation)=
 ### Speakers and Moderators 
 Consider how you will support your speakers, moderators, and attendees being welcomed and comfortable with the technology your event will use. 
 Many of the technologies used every day by some people have never been used by others. 
 
-We suggest preparing introductions or tutorials for the technologies used by your event. 
+We suggest preparing introductions or tutorials for the technologies used by your event and sharing these with speakers and moderators before the event so they can familiarize themselves with the format, timings, and any technology platforms used at your event. 
 You can also consider hosting a "practice" session with your speakers and moderators before the event to ensure their familiarity and comfort. 
 
-(cl-inclusive-events-planning-during-event)=
+```{admonition} Practice Sessions
+:class: tip
+An added benefit of having a practice session is to review the material that is planned to be shared at your event. 
+It can be helpful to find any spelling mistakes or formatting issues, or to support speakers in changing phrasing and language that may be exclusionary. 
+```
+
+(cl-ppie-events-planning-during-event)=
 ## At the Event
 
-(cl-inclusive-events-planning-during-event-speakers)=
+(cl-ppie-events-planning-during-event-speakers)=
 ### Speakers and Moderators
-For speakers and moderators, you should consider how you will support them before their sessions and if they would be best supported by having an opportunity to prepare in a "Green Room" or quiet room before the session. 
+If your event features speakers or presentations from members of the public and people with lived experience, you should consider how you will support them before their sessions and if they would be best supported by having an opportunity to prepare in a "Green Room" or quiet room before the session. 
 This is especially important for people with lived experience who may prefer to take medication in private, or may be newer to public speaking than their research colleagues.
 
 Consider how you will set them up to hold a successful session whether that be hosting a practice session for them before attendees arrive, identifying some questions or topics they may want to avoid and helping to facilitate discussion, or by asking how they wish to be introduced to the attendees. 
@@ -295,48 +251,43 @@ Consider how you will set them up to hold a successful session whether that be h
 If your event overlaps with a meal time, consider if their ability to eat or take a break will be impacted. 
 If your event is in-person, try to communicate with catering and ensure that there is a meal or alternative food is sourced and held aside for them. 
 
-(cl-inclusive-events-planning-during-event-tech)=
+(cl-ppie-events-planning-during-event-tech)=
 ### Technology 
-Depending on your event and platform, it may be helpful to organize "backup" technology on the day of the event. 
-For example, having spare batteries and spare microphones, arranging an alternate host for Zoom, and providing PDFs instead of relying solely on online technology to communicate important information. 
+Depending on your event and platform, it may be helpful to organize "backup" technology on the day of the event.
+For example, providing PDFs instead of relying solely on online technology to communicate important information. 
 Many people do not carry around a smartphone or laptop and may have not used streaming or presentation software before so try to ensure that there are both "online" and "offline" copies of important documents.  
 
 By recognizing that technology can create barriers for many people and preparing appropriately, you can work to ensure anyone who is interacting with this technology feels comfortable using it on the day. 
 
 
-(cl-inclusive-events-planning-during-event-staffing)=
+(cl-ppie-events-planning-during-event-staffing)=
 ### Personnel 
 Earlier in planning, you should have considered who will be needed at the event to support the involvement of people with lived experience. 
 
 At the event, it is important to have clear communication and identification of staff and organizers especially if their roles are to support attendees. 
 
 You may want to consider having a pdf, website page, or paper copy introducing the event organizers and facilitators so that is it clear who to ask for help. 
-You may want to highlight people who are able to help if an attendee has a question about accommodation, or the location of accessible restrooms as these people may be different from session facilitators and technology support staff. 
+You may want to highlight people who are able to help if an attendee has a question about the sessions, as these people may be different from session facilitators and technology support staff. 
 By including contact details and explaining the roles of organizers, it can help attendees feel understood and welcomed instead of being redirected to multiple people who are unable to help them. 
 
 If possible, it can also be helpful to have a dedicated person who can be easily located and contacted during the event and is able to take action if there is a problem. 
-For example, if an elevator is broken, the restroom blocked, accessible doors not opening, or the audio induction loop not working. 
-This person could be available during event registration or at the start of the event to introduce themselves and provide assistance to those who need it. 
+
 This may not be feasible for all events and may be more important for in-person events, but it is important to consider how to make the event accessible and inclusive throughout. 
 Inclusion can be planned for, but it also needs implementation and support to make it happen.
 
 
-(cl-inclusive-events-planning-post-event)=
+(cl-ppie-events-planning-post-event)=
 ## After the Event
 Consider if you are able to make content from the event accessible to attendees, or open to a wider audience, after the event. 
 
 For events that have recorded sessions, this may be uploading the content to YouTube and ensuring that the captions have been reviewed and added to any video content. 
-Having a human reviewer of captions can be helpful in catching any errors made by automatic captioning software and ensuring that content is of a good quality (such as editing out any audio glitches and flagging triggers for photosensitive epilepsy). 
+Platforms such as YouTube may be more well known and able to be used comfortably by members of the public as opposed to systems such as [Canvas](https://www.instructure.com/canvas), [Microsoft Sharepoint](https://microsoft.sharepoint.com), or other academic content sites. When choosing where to host and share your event’s content, consider how easily findable it will be for your audience.  
 
 If your event included content such as slides or documented notes, consider where and how you will archive them so that they can be accessed and referenced by attendees. 
 Online repositories such as [Zenodo](https://zenodo.org/) are commonly used by research communities but are not universally design-compliant and require both technical expertise and knowledge of how to use and access it as well as requiring an internet connection to access content. 
 Consider using Zenodo in addition to an accessible format. 
 This could be a website commonly visited by your attendees, sending post-event summary information to attendees, or providing recordings of sessions that display session content.
 
-Finally, for in-person events and related to safeguarding, consider how you will ensure that everyone is able to access return transport safely. 
-This is particularly important to consider for attendees with lived experience and any disabilities that may make public transport more difficult to access. 
-Even after the event has formally concluded, make sure you are familiar with support options such as arranging coaches or taxis to a train station. 
-Additionally, consider scheduling the event to end within daylight hours to enhance attendee safety and avoid travel in the dark.
 
 
 
