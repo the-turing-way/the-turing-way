@@ -43,9 +43,11 @@ Many research projects are increasingly involving members of the public in the r
 Within the realm of biomedical and care-related research, this is often referred to as "Public and Patient Involvement and Engagement" or "PPIE" which has a goal to actively involve people with the lived experience of a specific disability, situation, health condition, or experience in the research process. {cite:ps}HDRUK2023ppie 
 PPIE is done to ensure that research is aligned with the needs of those affected by it, and can also improve the quality of research by including lived perspectives. 
 As part of this involvement and engagement, researchers and research staff will need to plan events that are inclusive and accessible for people with lived experience, and delivered in a way that supports people with lived experience taking part equitably.
+
 "Lived experience" can be a range of things such as a disability, long-term health condition, bereavement, having worked in a specific profession, or the lived experience of caring responsibilities. 
 In the context of event planning, any of these people with lived experiences might have slightly different accommodation needs to support their engagement at your event. 
 Thus, your considerations need to cover both the potential disability requirements of your attendees as well as the specific barriers that would be experienced by your attendees with lived experience. 
+
 This chapter focuses on the latter aspects, specific to involving people with lived experiences, for the more general and equally important considerations around accessibility – that affect participants regardless of whether they are members of the public or not, please refer to specific accessibility resources.
 
 Because both internal resources and the events you run can range in size - from small meetings to massive multi-day conferences - this chapter is not an exhaustive list and instead is meant to provide general guidance. 
