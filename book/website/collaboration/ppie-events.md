@@ -29,7 +29,7 @@ It covers:
 - and provides a checklist that can be tailored to your specific event
 
 
-(cl-inclusive-events-background)=
+(cl-ppie-events-background)=
 ## Motivation and Background
 This chapter is meant to serve as a resource to support and guide researchers, organisers, and community members with the tools to identify the challenges and opportunities in organising events that involve and include members of the public, and in particular people with lived experience.
 
