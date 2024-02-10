@@ -121,6 +121,8 @@ parts:
                 file: reproducible-research/rdm/rdm-metadata
               - title: Methods and Protocols
                 file: reproducible-research/rdm/rdm-methods
+              - title: Electronic Lab Notebooks (ELNs)
+                file: reproducible-research/rdm/rdm-elns
               - title: Data Curation
                 file: reproducible-research/rdm/rdm-data-curation
               - title: Data Visualisation
@@ -683,8 +685,18 @@ parts:
                 file: ethical-research/self-reflection/sr-prompts
               - title: Resources
                 file: ethical-research/self-reflection/sr-resources
+          - title: Data-Hazards
+            file: ethical-research/data-hazards
+            sections:
+              - title: Introduction
+                file: ethical-research/data-hazards/dh-intro
+              - title: How To Use
+                file: ethical-research/data-hazards/dh-how-to-use
+              - title: Case Study
+                file: ethical-research/data-hazards/dh-case-study
           - title: Ethical Considerations for Open Source Governance Models
             file: ethical-research/ethics-open-source-governance
+
 
       # ===== Community Handbook ========================================
 
