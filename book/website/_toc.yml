@@ -568,8 +568,6 @@ parts:
                 file: collaboration/academic-industry/academic-industry-personal-story
           - title: Team Manual
             file: collaboration/team-manual
-             - title: On and offboarding team members
-                file: collaboration/team-manual/team-manual-on-off-boarding
           - title: Open Leadership in Data Science
             file: collaboration/leadership
             sections:
