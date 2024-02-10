@@ -1,11 +1,14 @@
 (cl-team-manual-on-off-boarding)=
-# On- and offboarding of team members
+# On- and offboarding team members
 
-Having clear onboarding processes ensure that group members are off to a good start in the lab. Offboarding processes ensure that everything is taken care off when lab members leave for a future step. The on- and offboarding checklists below provide some pointers on how to set up the on/off boarding checklists of your group, that can be a part of your {ref}`Team Manual <cl-team-manual>`.
+Having clear onboarding processes ensure that group members are off to a good start in the lab. 
+Offboarding processes ensure that everything is taken care off when lab members leave for a future step. 
+The on- and offboarding checklists below provide some pointers on how to set up the on/off boarding checklists of your group, that can be a part of your {ref}`Team Manual <cl-team-manual>`.
 
 (cl-team-manual-on-boarding)=
 ## Onboarding Checklist
-* Review relevant documents provided in a main resource such as *lab manuals*, onboarding guide or team repository (public or provate). That may include:
+* Review relevant documents provided in a main resource such the {ref}`Team Manual <cl-team-manual>`. 
+Information may include:
     * List of team members, their roles and projects
     * Institutional policies as well as participation guidelines of the research group, institute, funder or country.
     * Code of Conduct and reporting mechanism.
