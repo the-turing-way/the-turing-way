@@ -1,4 +1,4 @@
-(cl-inclusive-events-social-and-networking-guide)=
+(cl-ppie-events-social-and-networking-guide)=
 # Inclusive Social and Networking Events
 Social events, dinners, and even standing in the lines for coffee can be some of the best times for attendees to get to know one another, identify potential collaborators, and spark ideas.
 
@@ -8,7 +8,7 @@ Depending on the size and format of your event, this may look like structured ne
 
 Please consider some of the suggestions below, and ensure that you take the time to consider and address any barriers that your specific attendees may face in joining social settings.
 
-(cl-inclusive-events-social-events-timing)=
+(cl-ppie-events-social-events-timing)=
 ## Choosing a Time for Networking 
 Ideally, at least one networking or social event will take place during the main event's program. 
 
@@ -16,58 +16,32 @@ Social and networking sessions are key elements of conferences and other knowled
 Social events provide attendees with opportunities to share ideas, connect with potential collaborators, and build partnerships between attendees at different institutions.
 They can be valuable spaces for researchers to follow up with a speaker or person with lived experience who engaged in discussions at the event.
 
-However, networking sessions often take place at the end of the day which can lead to the exclusion of attendees who may have caring responsibilities or who may have a lived condition that causes fatigue meaning a full day of active engagement leaves them too tired to take part in social events. 
+However, networking sessions often take place at the end of the day which can lead to the exclusion of many attendees such as those with caring responsibilities, and many others who experience fatigue after a full day of active engagement. 
 
 Consider hosting a social breakfast or networking session before lunch for all attendees. 
 This can provide an opportunity for people to meet one another and join discussions before the formal start of your event. 
 
-In-person networking events hosted before sit-down lunches can also help people with anxiety who may feel uncomfortable and unsure of where to sit and eat lunch. 
-Hosting a social session before sit-down lunches can help these attendees connect with other people and identify who to sit with during the meal. 
+Additionally, for events taking place in-person, consider hosting in-person networking events **before** a sit-down lunch or meal. This will both help people with anxiety who may feel uncomfortable and unsure of where to sit and eat lunch, and can also act as an ice breaker to faciliatte conversation between researchers and attendees with lived experience. 
+Hosting a social session before sit-down meals can help these attendees connect with other people and identify who to sit with during the meal. 
 
-(cl-inclusive-events-beverages)=
-## Beverage Selection
-If your event provides beverages, ensure that not all social gatherings are alcohol or bar-centred. 
+> There is more information about how to make networking accessible for people with disabilities in the Inclusive Events chapter of the Guide for Accessibility.
 
-Offer alcohol-free alternatives if your event hosts a drinks reception, and caffeine-free free options for attendees during refreshment breaks.
-
-(cl-inclusive-events-social-events-accessibility)=
-## Accessibility Requirements
-Social events and networking should also have accessibility features like captioning or sign language interpretation, and include activities that do not restrict participation based on body type or ability.
-
-For this reason, try to avoid "speed networking" where attendees have only 3-5 minutes to engage in conversation. 
-
-For in-person events, this can be prohibitive for many people such as those with mobility impairments, people who require Sign Language interpreters or other Translators, and people with verbal processing differences. 
-These same barriers affect people attending online events, as well as further negatively impacting those with low-bandwidth or internet connectivity issues. 
-
-(cl-inclusive-events-name-tags)=
+(cl-ppie-events-name-tags)=
 ## Identification and Name Tags
 If your event includes name tags or badges, ensure that you ask attendees for their preferred name, and display the name they provide. 
 
-Consider including pronouns on attendees' badges to support attendees being gendered appropriately. 
+Consider including pronouns on attendees' badges to support attendees being gendered appropriately, and make organizers and other event staff's badges be clearly identifiable and differentiated from attendees badges.
+It is important to clearly identify organizers and people who are able to help as part of supporting all atendees. 
+For example, knowing a season moderator or who to ask questions to during a session, or for directions around an in-person venue. 
 
-You may also want to consider using lanyards to display name tags or badges. 
-Many clip-on name tags assume that people have a pocket on the front of their shirts or jackets. 
-However, many blouses, dresses, or shirts designed for women do not provide these pockets and therefore will not be able to easily display the name badge. 
+For online events, consider adding your role and a common identifier to your name in Zoom and having organizers share a virtual background. 
 
+For in person events, you may want to consider using lanyards to display name tags or badges. 
+
+Many clip-on name tags assume that people have a pocket on the front of their shirts or jackets, however, many blouses, dresses, or shirts designed for women do not provide these pockets and therefore will not be able to easily display the name badge. 
 Clip-on badges can also be difficult for people with fine motor disabilities or an impairment that would restrict their ability to pin the clip onto their shirts. 
 
-(cl-inclusive-events-coloured-badges)=
-### Traffic Light Badges
-You may consider offering a "traffic light" coloured badge or name tag system that is available during social sessions or networking events. 
-Traffic Light Systems can be a useful tool to set intent and expectations between attendees during social activities to make it clear which attendees are open to networking, and which would prefer to not engage in conversation. 
-
-This can ensure that attendees who wish to not network are not surprised and forced to engage socially at your event, and that people who actively want to engage in conversation can easily identify others who also wish to actively network. 
-
-This traffic light system was used by [LeadDev](https://leaddev.com/), a UK-based event organizer for their annual conference. 
-> Red lanyards meant the attendee wished to be left alone during networking or social sessions. 
-Any attendees wearing a red sticker could be confident that no one would try to engage them in conversation, and were therefore able to relax and engage in their own activities during social sessions. 
-
-> Yellow indicated that the attendee was willing to talk to familiar people or to be introduced to others. 
-Yellow was to signify that they were wanting to network and meet new collaborators at the event, but may feel uncomfortable initiating conversation themselves.
-
-> Finally, green lanyards meant that the wearer would like to meet new people, and would be happy for people they didn't know to approach them and initiate conversation. 
-
-(cl-inclusive-events-conversation-guides)=
+(cl-ppie-events-conversation-guides)=
 ## Providing Guidance and Sparking Conversation 
 Depending on the audience for your event, you may want to consider creating and sharing guidelines or suggestions on how to make the most of networking sessions. 
 This can be especially helpful for autistic attendees, or attendees with social anxiety. 
@@ -82,21 +56,20 @@ Providing a guide acknowledges the diverse needs of all attendees and promotes i
 
 We have curated a few topics or themes you may want to consider including in any guidance you provide. 
 
-(cl-inclusive-events-networking-formats)=
+(cl-ppie-events-networking-formats)=
 ### Information about the format
-It can be helpful for many people with a lived experience of social anxiety (or other conditions) to have a structured format for social events.
+It can be helpful for many people to have a structured format for social events, especially those who will be attending your event as volunteers and may not have met any of the other attendees before the session. 
 
-For example, consider deciding on and including a title, goal, and suggested question prompts in the session description. 
+Consider deciding on and including a title, goal, and suggested question prompts in the session description. 
 This can provide a shared understanding among attendees of what is expected during any social session at your event. 
 
 Although most social events are traditionally unstructured to allow for emergent discussion and knowledge sharing, it can be beneficial to provide guidance or prompts to start any social sessions and then allow for unstructured conversation time later in the session.
 
-(cl-inclusive-events-networking-expectations)=
+(cl-ppie-events-networking-expectations)=
 ### Setting Expectations
-In addition to information about the format that your social or networking event will have, consider including clear and explicit instructions about what engagement would be suitable and appropriate for your social activities, alongside examples that explain common social cues such as turning to face the person speaking and asking topical questions based on conversation. 
+In addition to information about the format that your social or networking event will have, consider including clear and explicit instructions about what engagement would be suitable and appropriate for your social activities.
 
-Social norms and expectations can be confusing for many people, especially autistic individuals who may be attending your event. 
-A guide outlining the activities involved in any social or networking sessions can aid in explaining, and helping attendees understand what will be considered appropriate behaviour in different social situations. 
+This may be the first research focused event for many of your attendees, and it can be helpful to surface many of the implicit social normals and practices of research events.
 
 For example, poster sessions at research events are often considered to involve short interactions between a researcher and a group of people. 
 At a poster session, an early career researcher may have the opportunity to share and explain their research project. 
@@ -106,7 +79,7 @@ Instead, poster sessions may be useful to make introductions with other attendee
 Depending on the audience, your guide may need to be more or less detailed.
 By providing guidance on the type of sessions, and what is expected in each setting, you can help facilitate more constructive and collaborative interactions between attendees, and reduce the likelihood of misunderstandings.
 
-(cl-inclusive-events-conversation-prompts)=
+(cl-ppie-events-conversation-prompts)=
 ### Sparking conversation between attendees 
 Social skills are fundamental in building relationships, sharing ideas, and collaborating on research endeavours.
 
@@ -126,11 +99,11 @@ Pop-culture references providing good examples of how to introduce yourself can 
 These characters make excellent introductions by following a helpful and informative format:
 - they state their name,
 - say what their background or goal is,
-- and then explain  what someone can expect from an interaction with them. 
+- and then explain what someone can expect from an interaction with them. 
 
 For example: 
-> "Hi, I'm The Turing Way. I'm an online handbook to help people learn and do reproducible, ethical and collaborative data science.
-> I'm looking for collaborators on my guide to hosting inclusive events, do you have suggestions?"
+> "Hi, I'm The Turing Way. I'm an online handbook to help people learn and do reproducible, ethical, and collaborative data science.
+> I'm looking for collaborators on my guide to hosting inclusive research events, what is the best event you've ever been to?"
 
 Consider modelling the introduction format you would like attendees to use anytime you introduce yourself as organizers of the event, as well as asking any of the session moderators or facilitators to follow a recognizable format.
 
