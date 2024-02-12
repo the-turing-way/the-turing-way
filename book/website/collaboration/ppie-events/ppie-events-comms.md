@@ -239,14 +239,14 @@ You can find online examples of Glossaries developed by research funding bodies,
 ### Using Plain Language
 Similar to avoiding jargon, ensure that your core communications are written using Plain Language or are in an "easy reading" format. 
 
-Using Plain Language is especially important in your registration and event information packs.
-
 Plain Language, sometimes referred to as Plain English in the UK and North America, allows for communications and other information to be read and understood easier. 
 Consider how you will encourage attendees and speakers to adopt clear and plain language communication throughout your event. 
 
 For example, you could address and encourage the use of Plain Language during the opening address or by signposting it in your event's shared information. 
 You could also consider an activity where researchers are paired with non-researchers and are asked to explain their research in under 3 minutes. 
 This can help to bring "clear and effective communication" to the forefront of attendee's minds and set all attendees up to communicate clearly throughout the event.
+
+Using Plain Language is especially important in your registration and event information packs.
 
 If possible, consider co-developing Plain Language and Easy Read content alongside a community representative or person with lived experience. 
 If this is not possible for your event, you can review guidance on how to write in plain language and ensure that core communications and event content are checked by using an external tool. 

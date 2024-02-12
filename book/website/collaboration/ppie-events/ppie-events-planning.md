@@ -192,7 +192,7 @@ For the UK, the Social Care Institute for Excellence has collated a [useful over
 
 Additionally, UK's National Institute for Health and Care Research has published [Guidance on Payment](https://www.nihr.ac.uk/documents/payment-guidance-for-researchers-and-professionals/27392) for researchers who need to cost public involvement activities at any stage of the research process that can be used as a reference for developing your event's honorarium policy.
 
-Please ensure that all documentation and communication about honorarium and reimbursements are written in an Easy Read format following Plain Language guidance and if possible, provide clear pathways on how to submit documents. 
+Please ensure that all documentation and communication about honorarium and reimbursements are written in an Easy Read format following [{Plain Language}def<Plain Language>] guidance and if possible, provide clear pathways on how to submit documents. 
 Many members of the public may not have a printer in their homes and may share a computer or smartphone to take part in events. 
 
 Where possible, please be mindful of the technology and process barriers that people may face and make processes as clear as possible.
