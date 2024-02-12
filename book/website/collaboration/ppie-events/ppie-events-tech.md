@@ -49,7 +49,6 @@ If you are able to send out information and keep in regular contact with the com
 
 If this is the case for your event, it will be very important to source solutions from, and work alongside the community with that specific lived experience when planning your event. 
 
-> Please review the Zoom and Video Conferencing Etiquette guidance for information on how to best set up Zoom for your event.
 
 (cl-ppie-events-technology-guides)=
 ## Technology Guides

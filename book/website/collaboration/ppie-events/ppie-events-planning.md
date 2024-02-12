@@ -66,7 +66,7 @@ When scoping these questions, consider establishing a planning committee that ca
 To identify the event's purpose and outcomes, carefully consider your target audience and the reasons behind their inclusion.
 Consider documenting this alongside your planning committee or with input from people with lived experience.
 
-It is important at this stage to define and document the purpose of public involvement in the event, and doing so alongside a representative or members of the public with lived experience will help to identify how best to design an event that is beneficial and inclusive for your attendees (cite: NIHR public involvement guidance). 
+It is important at this stage to define and document the purpose of public involvement in the event, and doing so alongside a representative or members of the public with lived experience will help to identify how best to design an event that is beneficial and inclusive for your attendees. 
 
 ### Preliminary Content Planning
 By involving a representative or getting feedback from members of the public you will also be able to scope and identify topic areas and event content that will be relevant and inclusive of your audience. 
@@ -77,8 +77,6 @@ This will allow you to create an agenda that fosters an inclusive and engaging e
 During the initial planning, it is also important that organisers consider the accessibility requirements of all attendees and establish how accessibility requirements are going to be met at a level suitable for everyone. 
 This suitable level should be discussed and defined by the expected attendees, including the people with lived experience. 
 This will help with identifying specific accessibility needs and includes considering physical and cognitive accessibility, communication needs, and any other accommodations necessary. 
-
-> You can find more information about making events accessible in the Inclusive Events Accessibility Guide. 
 
 
 (cl-ppie-events-power-dynamics)=

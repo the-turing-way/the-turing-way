@@ -29,7 +29,6 @@ If there will be people other than attendees using the space, identify how will 
 You could use name badges or have staff and organizers in a shared uniform which could help to avoid confusion of an attendee asking a bystander for event assistance. 
 Please also be mindful of how your event will use the spaces provided, for example, if your poster presentation space will also be used to serve food in, try to ensure that food smells are dissipated and plates cleared to support attendees engaging in the session.
 
-> There are more recommendations about how to choose Accessible Venues in the Guide for Accessibility. 
 If your event will be attended by people with disabilities, it is important to consider both the Universal Design suggestions made here, and also to ensure that access requirements are sufficiently met.  
 
 

@@ -24,7 +24,6 @@ This can provide an opportunity for people to meet one another and join discussi
 Additionally, for events taking place in-person, consider hosting in-person networking events **before** a sit-down lunch or meal. This will both help people with anxiety who may feel uncomfortable and unsure of where to sit and eat lunch, and can also act as an ice breaker to faciliatte conversation between researchers and attendees with lived experience. 
 Hosting a social session before sit-down meals can help these attendees connect with other people and identify who to sit with during the meal. 
 
-> There is more information about how to make networking accessible for people with disabilities in the Inclusive Events chapter of the Guide for Accessibility.
 
 (cl-ppie-events-name-tags)=
 ## Identification and Name Tags

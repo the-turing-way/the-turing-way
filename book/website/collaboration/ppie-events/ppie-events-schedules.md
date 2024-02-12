@@ -31,8 +31,8 @@ When planning the dates for the event, it is also useful to consider the potenti
 If your event takes place in-person, try to choose a date and start time that takes into account how long your attendees will need to travel. 
 For example, having your event start at 10:30 a.m. allows for inter-city travel the morning before the event.
 
-Events that occur on weekends or during working hours can negatively impact the ability of people with lived experience who have jobs or caregiving commitments to attend events. B
-y considering when your attendees will be required elsewhere, you will be more likely to find a time that suits everyone.
+Events that occur on weekends or during working hours can negatively impact the ability of people with lived experience who have jobs or caregiving commitments to attend events. 
+By considering when your attendees will be required elsewhere, you will be more likely to find a time that suits everyone.
 
 Although scheduling is difficult for any form of event organizing, please take the time to consider what barriers an event's timing will have on your ability to be inclusive of people with lived experience and refer to your local area for any specific dates to avoid. 
 
@@ -44,7 +44,6 @@ Your schedule should take into account breaks and meal times, and carefully plan
 If your event takes place in person, make sure to allow for sufficient time for people with lived experience and mobility difficulties to move between locations. 
 For example, consider how long it would take to get to an accessible elevator and then travel between floors, or how far away accessible restrooms are. 
 If your main room has only one exit and a large audience, it may take significantly longer to exit the room and cause attendees stress as they have to rush between sessions. 
-> There are more recommendations and specific accessibility guidance in the Guide for Accessibility chapter on Inclusive Events.
 
 As a rule of thumb, try to plan for the most important parts of your event's content to be shared within blocks of time that are under 40 minutes.
 

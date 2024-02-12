@@ -37,7 +37,6 @@ For example, many professions require at least 2 weeks advance notice to process
 
 Additionally, many people with lived experience of disabilities or medical conditions need to carefully plan their attendance as part of managing their condition, especially for in-person events. 
 This can be due to medication requirements, and managing conditions that involve fatigue or overstimulation as well as figuring out a plan for how they will manage physical barriers to arriving at an in-person event. 
-> The Accessibility section of the Inclusive Events Guide goes into more depth about the considerations needed when supporting disabled attendees, and many of the recommendations in this section apply to both disabled and non-disabled members of the public. 
 
 Providing clear and timely information will help your attendees with lived experiences plan their attendance safely, and in a way that supports them engaging fully in your event. 
 This will also be supportive of attendees with busy schedules who may be booked out significantly in advance.
@@ -100,17 +99,16 @@ You can also choose an event platform such as Eventbrite, Humanitix, or EventYay
 When deciding on what platform to use please review the accessibility of a potential site, and follow any advice as to how you can make your content on their platform accessible. 
 For example, [Eventbrite provides accessibility guidance](https://www.eventbrite.com/blog/66754-2how-to-creat-an-accessible-event-listing-ds00/) for event pages hosted on their platform. 
 
-> When reviewing event platforms, please note that many organizations have recently changed their pricing and localization options.
-> For example, Eventbrite has been updated so that events larger than 25 people will need to pay a fee to host on their platform.
-> You will also need to check if the platform is available and offers support in the region that you expect participants from.
-> 
-> You will need to work with your team to identify the best solution for your event based on the resources you have available. 
+```{note}
+When reviewing event platforms, please note that many organizations have recently changed their pricing and localization options.
 
-There are two main considerations for your event website:
-* Accessibility,
-* and Content. 
+For example, Eventbrite has been updated so that events larger than 25 people will need to pay a fee to host on their platform.
+You will also need to check if the platform is available and offers support in the region that you expect participants from.
 
-> For guidance on how to make your event website accessible, please review the Accessibility Guide. 
+You will need to work with your team to identify the best solution for your event based on the resources you have available. 
+
+```
+
 
 (cl-ppie-events-comms-website-content)=
 ### Website Content 
@@ -148,7 +146,6 @@ This is to ensure that the speaker feels supported and is able to make an inform
 This is important for both speakers who are presenting about their lived experience and for speakers presenting on a topic not related to their lived experience but are considered people with lived experience.
 
 Ask your speakers if they require any support or accommodations and ensure that these are met to their satisfaction so that they are able to deliver their session effectively. 
-> For more information about accomodations and acessibility support, please refer to the Guide for Accessibility.
 
 Additionally, if your event is supporting a speaker or facilitator with lived experience, consider asking how they wish to be identified in relation to their expertise and experience. 
 For example, many autistic people, and the autistic community as a collective, have expressed a preference for using "Identify-first" language which places the disability first in the description. 
@@ -196,7 +193,6 @@ This can help in two core ways, 1) supporting speaking in developing both psycho
 Firstly, consider how you will support speakers in developing inclusive material that is pitched to the correct audience, which in this case will be members of the public and people with lived experience). 
 This may mean developing and sharing guidance on session content, or could also be giving feedback on presentation drafts. 
 Ensure that you contact and confirm your speakers with enough notice that allows them to prepare and revise material. 
-> Please refer to the Accessibility Guide for more recommendations on what to include in a speaker guidance pack for how to make presentations accessible. 
 
 Secondly, it is best practice to send out content before the session or event to ensure that people with sensory impairments, or who may require more time to review and engage with the material, are able to understand and take part. 
 
