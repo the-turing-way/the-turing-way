@@ -880,6 +880,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/68/medium/6deaa65b1f0997b43df812d13b2f1106.jpeg" />
+      <br />
+      <sub><b>Kozo Nishida (kozo2)</b></sub>
+      <br />
+      <sub><b>1043 words</b></sub>
+      <br /><sub><b><code title="Japanese">ja</code></b></sub>
+    </td>
+    <td align="center" valign="top">
       <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/108/medium/b060f6c4b504d701c36d4b384e612dd4_default.png" />
       <br />
       <sub><b>berhankatipoglu</b></sub>
@@ -911,6 +919,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <sub><b>879 words</b></sub>
       <br /><sub><b><code title="Chinese Simplified">zh-CN</code></b></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top">
       <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/18/medium/4eaefb611f9a4efb0dbe090002e56c31_default.png" />
       <br />
@@ -919,8 +929,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <sub><b>861 words</b></sub>
       <br /><sub><b><code title="Arabic">ar</code></b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top">
       <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/70/medium/2262b12230cac55e1d97a9d3f3af8086.png" />
       <br />
@@ -953,6 +961,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <sub><b>1274 words</b></sub>
       <br /><sub><b><code title="Arabic">ar</code></b></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top">
       <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/66/medium/48ff46079939fb7bebca7186552ad3fc.jpeg" />
       <br />
@@ -961,8 +971,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <sub><b>609 words</b></sub>
       <br /><sub><b><code title="Spanish, Latin America">es-419</code></b>, <b><code title="Turkish">tr</code></b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top">
       <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/86/medium/591f614a9b9be8d2ec9b04e63699a377.jpeg" />
       <br />
@@ -995,6 +1003,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <sub><b>254 words</b></sub>
       <br /><sub><b><code title="French">fr</code></b></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top">
       <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/8/medium/d6d807e129e1bb3c24aa1635afeb6d09.jpeg" />
       <br />
@@ -1003,8 +1013,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <sub><b>230 words</b></sub>
       <br /><sub><b><code title="Arabic">ar</code></b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top">
       <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/48/medium/42082ab79726e9cee6033ad20c017722.jpeg" />
       <br />
@@ -1036,14 +1044,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <br />
       <sub><b>164 words</b></sub>
       <br /><sub><b><code title="Arabic">ar</code></b></sub>
-    </td>
-    <td align="center" valign="top">
-      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/68/medium/6deaa65b1f0997b43df812d13b2f1106.jpeg" />
-      <br />
-      <sub><b>Kozo Nishida (kozo2)</b></sub>
-      <br />
-      <sub><b>91 words</b></sub>
-      <br /><sub><b><code title="Japanese">ja</code></b></sub>
     </td>
   </tr>
   <tr>
