@@ -30,9 +30,8 @@ These roles suggested below are not meant to be permanent roles (i.e. a chair sh
 
 At least 3 to 4 people are required to create a working group. These roles may be temporarily appointments, but one person may occupy multiple roles. However, one person should not chair multiple working groups, in order to enable diffusion of responsibilities as well as prevent over-extension of individuals within the community. People are allowed to join any number of working groups.
 
-- **Chair and co-chairs**: These person(s) are responsible for the creation and continuation of a working group. They play the role of the facilitator of the group, and are responsible for organising and chairing meetings, distributing responsibilities, and ensuring the broader accountability of the assembled group. While this role may be occupied by multiple people, it is important to establish how each person upholds the responsibilities of a chair in an equitable way. This person will serve as the leadership council leason
+- **Chair and co-chairs**: These person(s) are responsible for the creation and continuation of a working group. They play the role of the facilitator of the group, and are responsible for organising and chairing meetings, distributing responsibilities, and ensuring the broader accountability of the assembled group. While this role may be occupied by multiple people, it is important to establish how each person upholds the responsibilities of a chair in an equitable way. This person will serve as the "Leadership Council Liason", and will be obliged to participate in leadership council meetings, and represent the working group in wider governance meeting spaces. They will be responsible for relaying feedback, announcements, and discussions from the leadership council to the working group.
 - **Secretary**: This person is responsible for ensuring the logistical reporting of the group. They are responsible for uploading meeting notes, ensuring that time-keeping is set in meetings, and that records of the group's activities are transparent, open, and accessible for others to access. For example, if the duties of the chair are distributed across multiple people, the secretary is responsible for documenting this format in the working group's repository.
-- **Leadership Council Liason**: Members of working groups have historically provided operational, strategic and advisory support for their area of work to *The Turing Way* leadership council (the collective group that includes the core delivery staff and (co-)leads of working groups). This has allowed them to inform project-related decisions and/or remain active in their specified area of work. In this iteration, an identified core team representative will participate in leadership council meetings, and represent the working group in wider governance meeting spaces. They will be responsible for relaying feedback, announcements, and discussions from the leadership council to the working group.
 - **Turing Staff Delivery Team Contact**: While working groups should be able to operate with autonomy in most decisions that apply to their work, sometimes they may require help from the TTW core staff delivery team in order to enable their operations, and/or support the incubation of the group. Each working group should have an assigned contact from the staff delivery team, most likely either the project Community Manager or Project Manager.
 - **Member**: Any Turing Way community member may join a working group without restriction, and without taking on a leadership role.
 
@@ -72,9 +71,10 @@ In principle, primary decision-making should lie with the working group team its
 This section details examples of decisions that may or may not require escalation for this aforementioned support. 
 
 Decisions they feel *empowered to take as an autonomous WG*
-* 
-* 
-* 
+* Accessibility: Documenting guidelines and principles for community members.
+* Translation & Localisation:
+* Infrastructure: 
+* Book Dash: 
 * 
 
 Decisions that they invite *consultation and support* from the broader community
@@ -84,7 +84,7 @@ Decisions that they invite *consultation and support* from the broader community
 * 
 
 Decisions that they invite *consultation and support* from the core staff delivery team
-* Infrastructure: Starting a new platform
+* Infrastructure: Starting a new platform 
 * 
 * 
 * 
@@ -94,6 +94,7 @@ Other decisions that don't fall under the above three categories?
 * 
 * 
 * 
+
 
 ## Guidelines
 
@@ -132,7 +133,7 @@ While these roles and responsibilities may shift or evolve during the lifetime o
     * Note: Frameworks like SMART goals, Agile, Kanban, Scrum methodology may be valuable here.
 * **Discuss the group communication plans**: Are there communication tools you might need for your ongoing work (i.e. Slack channel, Github organisation, emails, etc)
 
-### Establishing a Working Group
+### Processes for Establishing a Working Group
 
 Once a working group has been established, it is important to identify and discuss the following topics within your group, as this will help to establish the candence and momentum of the group. 
 
@@ -140,8 +141,9 @@ Once a working group has been established, it is important to identify and discu
 * **Establish a timeline for the working group**: How long should this group be operational? Should it be time-bound or shift indefinitely? 
 * **Establish roles timeline**: How long should people be appointed in their roles, and how often should these roles change?
 * **Create a github repository for organising working group activities**: All working group activities (including notes and the charter, mentioned below) should be archived in The Turing Way Github repository. [TEMPLATE LINKED HERE](https://github.com/the-turing-way/working-group-template)
-* **Establish a reporting mechanism and/or public notes archive**: How will you share-out meeting notes and group progress to the wider community? [TEMPLATE LINKED HERE](https://hackmd.io/@aleesteele/ttw-wg-notes-template) 
-    * Note: All working groups should upload notes to their respective github repository [in The Turing Way organisation](https://github.com/the-turing-way/the-turing-way/). 
+    * Note: In "Working Group Resources", other infrastructure recommendations & needs (i.e. permissions, templates, and checklists are available for you to use) can help with this process.
+* **Establish a reporting mechanism and/or public notes archive**: How will you share-out meeting notes and group progress to the wider community?  
+    * Note: All working groups should upload notes to their respective github repository [in The Turing Way organisation](https://github.com/the-turing-way/the-turing-way/). For a template, please see this template repository: 
 * **Establish appropriate permissions for accounts**: What accounts does this group need access to? Does this group have the proper account access & permissions in order to carry out your work?
     * Note: The Community Manager and/or Project Manager can help with this! 
 * **Create a working group charter**: [TEMPLATE LINKED HERE](https://hackmd.io/@aleesteele/template-ttw-wg-charter)
