@@ -135,7 +135,7 @@ Here are a few example questions (so you know what to expect):
 * what is your favorite flavor in cake/ice-cream?
 
 *Do you have another interesting question to ask others?*
-*[Get in touch](/README.md#get-in-touch) and let us know!*
+*[Get in touch](https://github.com/the-turing-way/the-turing-way#get-in-touch) and let us know!*
 *We love creative suggestions!*
 
 Here's an example from the second Collaboration Cafe in September 2019:

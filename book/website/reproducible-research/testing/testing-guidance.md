@@ -106,6 +106,7 @@ In general, the best tests are those that isolate the smaller rather than larger
 Try to be guided by thinking about the possible things that might happen to a particular chunk of code in the execution of the whole, and test these individual cases.
 Often, this will result in the same code being tested multiple times - this is a good thing!
 
+(rr-testing-guidance-mocking)=
 ## Use test doubles/stubs/mocking where appropriate
 
 If a test fails it should be constructed such that it is as easy to trace the source of the failure as possible.

@@ -234,6 +234,9 @@ Guarantor
 ## H
 
 ```{glossary}
+Hazard
+  Inherent qualities or characteristics of something that make it potentially harmful.
+
 Head
   The latest commit on the branch which is currently checked out.
 
@@ -394,7 +397,7 @@ Open License
   A license is a document that specifies what can and cannot be done with a work. It grants permissions and states restrictions. Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
 
 Open Notebooks
-  An emerging practice, documenting and sharing the experimental process of trial and error.
+  An emerging practice, documenting and sharing the experimental process of trial and error (see {ref}`Open Notebooks <rr-open-notebooks>`).
 
 Open Scholarship
   This is a concept that extends open research further. It relates to making other aspects of scientific research open to the public such as open educational resources, having inclusive practice and citizen science.
@@ -518,6 +521,9 @@ Research Objects
 
 Review
   Suggesting changes or asking for committing something to an already created pull request.
+
+Risk
+  A term that refers to the likelihood and impact of something happening. It's often used in decision-making contexts to evaluate the potential consequences of actions
 
 Risk Assessment
   This is used to help choose the appropriate sustainable software concepts for your project.
