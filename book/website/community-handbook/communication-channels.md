@@ -5,13 +5,9 @@ In _The Turing Way_, our [GitHub organisation](https://github.com/the-turing-way
 The main [project repository](https://github.com/the-turing-way/the-turing-way) hosts book chapters and project management documentation and resources.
 In addition, the project delivery team makes use of various communication platforms to facilitate effective information dissemination within and beyond the engaged community.
 
-Given the diverse range of formal and informal projects managed by both the project delivery team and community members, the communication within _The Turing Way_ community can be broadly categorized as synchronous and asynchronous.
+Given the diverse range of formal and informal projects managed by both the project delivery team and community members, the communication within _The Turing Way_ community can be broadly categorised as synchronous and asynchronous.
 
-## Synchronous Communications
-
-For synchronous communications, we use the following platforms:
-
-### GitHub Issues and Discussions
+## GitHub for Synchronous and Asynchonous Communications
 
 [GitHub Issue](https://github.com/the-turing-way/the-turing-way/issues) and [Github discussions](https://github.com/the-turing-way/the-turing-way/discussions) 
 serve as a dynamic space where updates, queries, and discussions happen. 
@@ -25,15 +21,19 @@ These issues can be crossposted on other communication channels to boost their v
 
 Some examples of when issues and discussions can be used for communication purposes are the following:
 - Issue #2811 about [Using/supporting open infrastructure - suggested alternatives to currently used tools](https://github.com/the-turing-way/the-turing-way/issues/2811)
-- Discussion #3081 about [Technical Improvements to enhance the usability of The Turing Way Book (GSoC 2023)](https://github.com/the-turing-way/the-turing-way/discussions/3081)
+- Discussion #3081 about [Technical Improvements to enhance the usability of _The Turing Way_ Book (GSoC 2023)](https://github.com/the-turing-way/the-turing-way/discussions/3081)
 
 To indicate the specific nature of the issue/discussion, we also use words such as `TALK`, `INVITATION` and `FEEDBACK NEEDED` in square brackets before writing the actual title.
+
+## Synchronous Communications
+
+We use the Slack and social media platforms to engage with our collaborators and community members synchrnously.
 
 ### Slack Workspace
 
 _The Turing Way_ Slack Workspace (theturingway.slack.com) is one of our core communication channels. 
 This platform enables instant messaging, fostering quick exchanges and real-time collaborations among team members.
-It is a space where folks ask questions, learn about each other’s work, and get involved with The Turing Way and other projects. 
+It is a space where folks ask questions, learn about each other’s work, and get involved with _The Turing Way_ and other projects. 
 While it is not the only communication channel used by the community, it is a popular platform, increasingly used by remote teams around the world.
 
 You can join the workspace using the [joining invitation](https://theturingway.slack.com/join/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw#/shared-invite/email).
@@ -44,13 +44,13 @@ In expanding our reach beyond project-specific communication channels, _The Turi
 
 - **Twitter (@turingway):** Used since 2020, our Twitter presence has played an important role in getting the community engaged in real-time with updates and announcements from the project. Follow [@turingway](https://twitter.com/turingway).
 - **Fosstodon (@turingway):** Since 2023, we have been using [Fosstodon](https://fosstodon.org/@turingway), a platform for open science practitioners in our community.
-- **LinkedIn (The Turing Way):** Since late 2023, we have been testing and expanding our presence on [LinkedIn](https://www.linkedin.com/company/the-turing-way) among professional networks.
+- **LinkedIn Page:** Since late 2023, we have been testing and expanding our presence on [LinkedIn](https://www.linkedin.com/company/the-turing-way) among professional networks.
 
 These social media platforms complement our primary communication channels, providing additional avenues (often requiring manual cross-posting) for community engagement and outreach.
 
 ## Asynchronous Communications
 
-In addition to our primary communication channels, we leverage various platforms for archiving, sharing, and preserving project-related outputs within _The Turing Way_ community, which serve as asynchronous communication channels.
+In addition to our synchronous communication channels, we leverage various platforms for archiving, sharing, and preserving project-related outputs within _The Turing Way_ community, which serve as asynchronous communication channels.
 
 ### Monthly Newsletters
 
@@ -64,7 +64,7 @@ _The Turing Way_ community page on [Zenodo](https://zenodo.org/communities/the-t
 
 Central to our information storage and sharing, our [GitHub repositories](https://github.com/the-turing-way) serve as the primary hub for project-related documents, resources, and collaborative efforts, offering transparency and collaboration for both synchronous and asynchronous communication.
 
-### The Turing Way Book Chapters
+### _The Turing Way_ Book Chapters
 
 The book chapters themselves serve as a form of asynchronous communication, providing an extensive range of practices documented for reuse by others. 
 Community members can refer to these chapters at their convenience for onboarding, reference and self-paced learning.
