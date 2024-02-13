@@ -52,9 +52,17 @@ These social media platforms complement our primary communication channels, prov
 
 In addition to our primary communication channels, we leverage various platforms for archiving, sharing, and preserving project-related outputs within _The Turing Way_ community, which serve as asynchronous communication channels.
 
-- **Monthly Newsletters:** Asynchronous communication is facilitated through ref`monthly newsletters<ch-newsletters>`, offering updates on the project's progress, achievements, and upcoming events. These newsletters provide a digestible format for community members to stay informed at their own pace, offering a snapshot of recent developments within _The Turing Way_.
-- **Zenodo Community Page:** _The Turing Way_ community page on [Zenodo](https://zenodo.org/communities/the-turing-way) is the main platform to archive and preserve project-related outputs, including slide decks, reports, datasets (such as the entire GitHub repository and illustrations), and publications. This platform ensures stable and citable records, enhancing accessibility and longevity.
-- **GitHub Repositories:** Central to our information storage and sharing, our [GitHub repositories](https://github.com/the-turing-way) serve as the primary hub for project-related documents, resources, and collaborative efforts, offering transparency and collaboration for both synchronous and asynchronous communication.
+### Monthly Newsletters
+
+Asynchronous communication is facilitated through {ref}`monthly newsletters<ch-newsletters>`, offering updates on the project's progress, achievements, and upcoming events. These newsletters provide a digestible format for community members to stay informed at their own pace, offering a snapshot of recent developments within _The Turing Way_.
+
+### Zenodo Community Page
+
+_The Turing Way_ community page on [Zenodo](https://zenodo.org/communities/the-turing-way) is the main platform to archive and preserve project-related outputs, including slide decks, reports, datasets (such as the entire GitHub repository and illustrations), and publications. This platform ensures stable and citable records, enhancing accessibility and longevity.
+
+### GitHub Repositories
+
+Central to our information storage and sharing, our [GitHub repositories](https://github.com/the-turing-way) serve as the primary hub for project-related documents, resources, and collaborative efforts, offering transparency and collaboration for both synchronous and asynchronous communication.
 
 ### The Turing Way Book Chapters
 
