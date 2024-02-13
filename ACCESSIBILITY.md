@@ -13,7 +13,7 @@ This policy is a work in progress, as are the practices that we employ as a comm
 ## Core Principles
 1. We do these accessibility practices to remove barriers for people who historically have been limited in their ability to participate in because these projects benefit everyone
 2. Openness is a means to enable people with broad backgrounds to get involved. Openness for openness' sake does that erase this fact.
-3. Access to commons is a question of mangagmenet - developing a collective commons is 
+3. Access to commons is a question of management - developing a collective commons is 
 
 # Guidance for writing/drafting chapters 
 [ Guidance for writing in an access-centered way ] 
