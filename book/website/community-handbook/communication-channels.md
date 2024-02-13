@@ -40,8 +40,6 @@ You can join the workspace using the [joining invitation](https://theturingway.s
 
 ### Social media channels
 
- ## Additional Social Media Platforms
-
 In expanding our reach beyond project-specific communication channels, _The Turing Way_ project delivery team uses social media platforms to connect with a wider audience and share project updates broadly.
 
 - **Twitter (@turingway):** Used since 2020, our Twitter presence has played an important role in getting the community engaged in real-time with updates and announcements from the project. Follow [@turingway](https://twitter.com/turingway).
