@@ -1,4 +1,5 @@
-# Theory and Practice of Working Groups
+(ch-working-groups)=
+# Working Groups
 
 Within *The Turing Way*, working groups are smaller groups of people that work together on a focus topic, theme, or type of work. Many communities within the wider open source ecosystem have establised working groups (i.e. [Project Jupyter](https://jupyter.org/governance/standing_committees_and_working_groups.html), [Kubernetes](https://github.com/kubernetes/community/blob/master/governance.md), [Eclipse Foundation](https://www.eclipse.org/org/workinggroups/process.php#wg-member-roles), [Sustain OSS](https://sustainoss.org/working-groups/), amongst others), and working groups have been used as an organisational structure across many institutions and government bodies.
 
@@ -29,10 +30,9 @@ These roles suggested below are not meant to be permanent roles (i.e. a chair sh
 
 At least 3 to 4 people are required to create a working group. These roles may be temporarily appointments, but one person may occupy multiple roles. However, one person should not chair multiple working groups, in order to enable diffusion of responsibilities as well as prevent over-extension of individuals within the community. People are allowed to join any number of working groups.
 
-- **Chair and co-chairs**: These person(s) are responsible for the creation and continuation of a working group. They play the role of the facilitator of the group, and are responsible for organising and chairing meetings, distributing responsibilities, and ensuring the broader accountability of the assembled group. While this role may be occupied by multiple people, it is important to establish how each person upholds the responsibilities of a chair in an equitable way.
+- **Chair and co-chairs**: These person(s) are responsible for the creation and continuation of a working group. They play the role of the facilitator of the group, and are responsible for organising and chairing meetings, distributing responsibilities, and ensuring the broader accountability of the assembled group. While this role may be occupied by multiple people, it is important to establish how each person upholds the responsibilities of a chair in an equitable way. This person will serve as the leadership council leason
 - **Secretary**: This person is responsible for ensuring the logistical reporting of the group. They are responsible for uploading meeting notes, ensuring that time-keeping is set in meetings, and that records of the group's activities are transparent, open, and accessible for others to access. For example, if the duties of the chair are distributed across multiple people, the secretary is responsible for documenting this format in the working group's repository.
 - **Leadership Council Liason**: Members of working groups have historically provided operational, strategic and advisory support for their area of work to *The Turing Way* leadership council (the collective group that includes the core delivery staff and (co-)leads of working groups). This has allowed them to inform project-related decisions and/or remain active in their specified area of work. In this iteration, an identified core team representative will participate in leadership council meetings, and represent the working group in wider governance meeting spaces. They will be responsible for relaying feedback, announcements, and discussions from the leadership council to the working group.
-    - Note: 
 - **Turing Staff Delivery Team Contact**: While working groups should be able to operate with autonomy in most decisions that apply to their work, sometimes they may require help from the TTW core staff delivery team in order to enable their operations, and/or support the incubation of the group. Each working group should have an assigned contact from the staff delivery team, most likely either the project Community Manager or Project Manager.
 - **Member**: Any Turing Way community member may join a working group without restriction, and without taking on a leadership role.
 
@@ -84,7 +84,7 @@ Decisions that they invite *consultation and support* from the broader community
 * 
 
 Decisions that they invite *consultation and support* from the core staff delivery team
-* 
+* Infrastructure: Starting a new platform
 * 
 * 
 * 

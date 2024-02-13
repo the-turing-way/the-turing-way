@@ -831,6 +831,12 @@ parts:
                 file: community-handbook/templates/template-newsletter-draft
               - title: Template for Fireside Chat Shared Notes
                 file: community-handbook/templates/template-fireside-chat
+        - title: Governance
+            file: community-handbook/governance
+            sections:
+              - title: Working Gropus
+                file: community-handbook/governance/working-groups
+
 
       # ===== Afterword ========================================
 
