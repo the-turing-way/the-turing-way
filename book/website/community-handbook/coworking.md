@@ -23,4 +23,4 @@ Our coworking calls provide opportunities for community members to allocate time
 In this chapter, you will learn about the motivation behind holding coworking calls, techniques we use for making effective use of the allocated time, the two types of calls we host: {ref}`Collaboration Cafes <ch-coworking-collabcafe>` and {ref}`Weekly Coworking<ch-coworking-weekly>`, and their formats.
 
 We want to make collaborative events like these as useful as possible for as many people as possible.
-Please [let the team members know](/README.md#get-in-touch) if there are other ways we can make these calls more welcoming and helpful for you.
+Please [let the team members know](https://github.com/the-turing-way/the-turing-way#get-in-touch) if there are other ways we can make these calls more welcoming and helpful for you.
