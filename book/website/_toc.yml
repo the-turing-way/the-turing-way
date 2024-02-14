@@ -801,6 +801,11 @@ parts:
                 file: community-handbook/coworking/coworking-weekly
               - title: Organising coworking calls
                 file: community-handbook/coworking/coworking-organisation
+          - title: Onboarding and Offboarding
+            file: community-handbook/onboarding-offboarding
+            sections:
+              - title: General Onboarding
+                file: community-handbook/onboarding/general
           - title: Fireside Chat Series
             file: community-handbook/fireside-chat
             sections:

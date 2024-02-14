@@ -1,3 +1,5 @@
 # Welcome to The Turing Way!
 
-Document to help with onboarding process?
+:::
+Welcome to The Turing Way!
+:::
