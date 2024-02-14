@@ -16,12 +16,12 @@ This may include the following:
 - [ ] Add to [TTW Github repository](https://github.com/alan-turing-institute/the-turing-way) with "Maintainer" permissions (change as needed for role)
 - [ ] Add to [Ways of Working](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) page on TTW Github repository 
 - [ ] Share [zenodo link for The Turing Way community](https://zenodo.org/communities/the-turing-way/?page=1&size=20) 
-- [ ] Add to [Core Team Google group](https://groups.google.com/u/1/g/core-team-2022) (currently dormant)
 - [ ] (If applicable) Add to HackMD team for The Turing Way
 - [ ] (If applicable) Give Accounts/Password Access on Keybase
 - [ ] (If applicable) Add directly to [The Turing Way Core Google Drive](https://drive.google.com/drive/u/0/folders/1bdjA-fBotMi9CnjDqu84d5hPZWwjgi-x)
     - [ ] Share [promotion pack](https://drive.google.com/drive/u/1/folders/1mzGmbJkPnP5q1goQesxDc_E5zAPL0eTF) folder
     - [ ] Share [conference talks/workshop applications](https://drive.google.com/drive/u/0/folders/1eNHq9sXq6Z8Q5Ep0MzNS0GsB3FKgTi3E) folder
+- [ ] (If applicable) Add to [Core Team Google group](https://groups.google.com/u/1/g/core-team-2022) (currently dormant)
 - [ ] (If applicable) Add to Canva team
 - [ ] (If applicable) Add to Penpot team
 - [ ] (If applicable) Add to Keybase group
