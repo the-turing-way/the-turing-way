@@ -48,7 +48,7 @@ This may include the following:
     - [ ] [Slack](https://theturingway.slack.com/)
     - [ ] [Twitter](https://twitter.com/turingway)
     - [ ] [Mastodon](fosstodon.org/turingway)
-    - [ ] [Newsletter](https://tinyletter.com/TuringWay)
+    - [ ] [Newsletter](https://buttondown.email/turingway/)
 - [ ] Useful Links/Information Hub
     - [ ] [Core Team note of notes](https://hackmd.io/@turingway/ttw-team-note-of-notes)
 
