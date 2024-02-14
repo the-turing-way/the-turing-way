@@ -3,7 +3,8 @@
 
 In _The Turing Way_, our [GitHub organisation](https://github.com/the-turing-way) serve as the primary source of information.
 The main [project repository](https://github.com/the-turing-way/the-turing-way) hosts book chapters and project management documentation and resources.
-In addition, the project delivery team makes use of various communication platforms to facilitate effective information dissemination within and beyond the engaged community.
+
+In addition, the project delivery team, makes use of various communication platforms to facilitate effective information dissemination within and beyond the engaged community.
 
 Given the diverse range of formal and informal projects managed by both the project delivery team and community members, the communication within _The Turing Way_ community can be broadly categorised as synchronous and asynchronous.
 
@@ -67,6 +68,13 @@ This platform provides persistent identifiers (DOI) to keep stable and citable r
 Central to our information storage and sharing, our [GitHub repositories](https://github.com/the-turing-way) serve as the primary hub for project-related documents, resources, and collaborative efforts, offering transparency and collaboration for both synchronous and asynchronous communication.
 
 Since our transition from a single repository to a GitHub organisation, we are moving towards community-maintained repositories on various projects taking place within the community, including governance work, Working Groups, community events and different kinds of communication outputs.
+
+By February 2024, following repositories host specific working group communications and meeting notes:
+- [Accessibility](https://github.com/the-turing-way/accessibility-working-group)
+- [Book Dash](https://github.com/the-turing-way/bookdash)
+- [Infrastructure](https://github.com/the-turing-way/infrastructure-working-group)
+- [Translation and Localisation](https://github.com/TWTranslation)
+- [_The Turing Way_ Community Manager and Project Manager Repo](https://github.com/the-turing-way/2024-rcm-rpm-tasks)
 
 ### _The Turing Way_ Book Chapters
 
