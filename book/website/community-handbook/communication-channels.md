@@ -20,8 +20,8 @@ When soliciting feedback, adding clear titles, mentioning the right people and i
 These issues can be crossposted on other communication channels to boost their visibility.
 
 Some examples of when issues and discussions can be used for communication purposes are the following:
-- Issue #2811 about [Using/supporting open infrastructure - suggested alternatives to currently used tools](https://github.com/the-turing-way/the-turing-way/issues/2811)
-- Discussion #3081 about [Technical Improvements to enhance the usability of _The Turing Way_ Book (GSoC 2023)](https://github.com/the-turing-way/the-turing-way/discussions/3081)
+- Inviting community inputs, ideas and feedback: Issue #2811 about [Using/supporting open infrastructure - suggested alternatives to currently used tools](https://github.com/the-turing-way/the-turing-way/issues/2811)
+- Keeping a record of an ongoing project: Discussion #3081 about [Technical Improvements to enhance the usability of _The Turing Way_ Book (GSoC 2023)](https://github.com/the-turing-way/the-turing-way/discussions/3081)
 
 To indicate the specific nature of the issue/discussion, we also use words such as `TALK`, `INVITATION` and `FEEDBACK NEEDED` in square brackets before writing the actual title.
 
