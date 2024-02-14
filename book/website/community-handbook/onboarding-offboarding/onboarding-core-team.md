@@ -4,12 +4,12 @@
 
 This onboarding document is a living document – as is *The Turing Way* itself. As you'll learn from being in this community: this is a constantly-evolving project that holds [emergence as a core value](https://hackmd.io/kVkwKSYuSLWWhLzlNSuT0g). In other words: as the project evolves – so will the team that enables its sustainability as a project.
 
-This document was prepared for community members who have a leadership. While group is called the "Core Team" of _The Turing Way_, it is an umbrella
+This document was prepared for community members who have a leadership role within the community. While this group is called the "Core Team" of _The Turing Way_, it is an umbrella term for all community members who have taken on an maintenance role within the community.
 
 This may include the following:
 - Chairs or co-chairs of working groups within the community
-- Organisers of 
-- 
+- Organisers of events such as Book Dashes
+- Staff members of the Alan Turing Institute leading on different initiatives
 
 ## Accounts and Permissions
 - [ ] Add to #ttw-core-team channel on Slack
