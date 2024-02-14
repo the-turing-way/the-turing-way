@@ -1,16 +1,15 @@
-# ☀️ Welcome to *The Turing Way* Core Team!☀️
+# Core Team Offboarding Checklist
 
-:::success
+**☀️ Welcome to *The Turing Way* Core Team!☀️**
+
 This onboarding document is a living document – as is *The Turing Way* itself. As you'll learn from being in this community: this is a constantly-evolving project that holds [emergence as a core value](https://hackmd.io/kVkwKSYuSLWWhLzlNSuT0g). In other words: as the project evolves – so will the team that enables its sustainability as a project.
 
-From April to August 2022, Anne (TTW CM, 2022) documented [documented her research of/within *The Turing Way* community on Github](https://github.com/alan-turing-institute/the-turing-way/discussions/2552). Much of that research has been used to make this onboarding document.
-:::
+This document was prepared for community members who have a leadership. While group is called the "Core Team" of _The Turing Way_, it is an umbrella
 
-[TOC]
-
-# TTW Core Team Onboarding checklists
-- [ ] Review [TTW Onboarding document](https://hackmd.io/pBysnLn2QxKMCHqPKvj9uA?both) (this document!)
-- [ ] Review [TTW Offboarding document](https://hackmd.io/@turingway/ttw-core-team-offboarding) (not to be used for now!)
+This may include the following:
+- Chairs or co-chairs of working groups within the community
+- Organisers of 
+- 
 
 ## Accounts and Permissions
 - [ ] Add to #ttw-core-team channel on Slack

@@ -1,12 +1,10 @@
-# 🌙 We are sad to see you leave *The Turing Way* Core Team! 🌙
+# Core Team Offboarding Checklist
 
-:::info
+🌙 **We are sad to see you leave *The Turing Way* Core Team!** 🌙
+
 Whether it's changed responsibilities, a new job, shifting interests, or any other reason –– we understand that life happens, and that communities will always be shifting and evolving! While we are sad to see you go for now, we hope that you'll stay engaged with us in *The Turing Way* community! 
 
 This offboarding document is a living document – as is *The Turing Way* itself. As you'll learn from being in this community: this is a constantly-evolving project that holds [emergence as a core value](https://hackmd.io/kVkwKSYuSLWWhLzlNSuT0g). In other words: as the project evolves – so will the team that enables its sustainability as a project.
-:::
-
-# TTW Core Team Onboarding checklists
 
 ## Accounts and Permissions
 - [ ] Remove from #ttw-core-team channel on Slack
@@ -40,9 +38,10 @@ This offboarding document is a living document – as is *The Turing Way* itself
 If applicable, see [TPS Project Management Repository](https://github.com/alan-turing-institute/tps-project-management) about being onboarded onto the Tools, Practices, and Systems programme more broadly at the Alan Turing Institute. Other research teams and/or groups may have their own onboarding practices and/or repositories (i.e. the [Research Application Manager (RAM) team](https://github.com/alan-turing-institute/research-application-management) or [Community Management (CM) team](https://github.com/alan-turing-institute/open-community-building)).
 
 ## Capturing Institutional Knowledge
-The Research Community Manager will schedule an offboarding call with you 
+The Research Community Manager or Research Project Manager will schedule an offboarding call with you in order to 
 
 ### If member of working group
+
 
 ### If member of Turing staff team
 
