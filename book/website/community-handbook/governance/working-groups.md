@@ -1,4 +1,5 @@
 (ch-working-groups)=
+
 # Working Groups
 
 Within *The Turing Way*, working groups are smaller groups of people that work together on a focus topic, theme, or type of work. Many communities within the wider open source ecosystem have establised working groups (i.e. [Project Jupyter](https://jupyter.org/governance/standing_committees_and_working_groups.html), [Kubernetes](https://github.com/kubernetes/community/blob/master/governance.md), [Eclipse Foundation](https://www.eclipse.org/org/workinggroups/process.php#wg-member-roles), [Sustain OSS](https://sustainoss.org/working-groups/), amongst others), and working groups have been used as an organisational structure across many institutions and government bodies.
