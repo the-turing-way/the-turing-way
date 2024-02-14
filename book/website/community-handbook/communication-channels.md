@@ -66,6 +66,8 @@ This platform provides persistent identifiers (DOI) to keep stable and citable r
 
 Central to our information storage and sharing, our [GitHub repositories](https://github.com/the-turing-way) serve as the primary hub for project-related documents, resources, and collaborative efforts, offering transparency and collaboration for both synchronous and asynchronous communication.
 
+Since our transition from a single repository to a GitHub organisation, we are moving towards community-maintained repositories on various projects taking place within the community, including governance work, Working Groups, community events and different kinds of communication outputs.
+
 ### _The Turing Way_ Book Chapters
 
 The book chapters themselves serve as a form of asynchronous communication, providing an extensive range of practices documented for reuse by others. 
