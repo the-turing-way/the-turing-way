@@ -59,7 +59,8 @@ These newsletters provide a digestible format for community members to stay info
 
 ### Zenodo Community Page
 
-_The Turing Way_ community page on [Zenodo](https://zenodo.org/communities/the-turing-way) is the main platform to archive and preserve project-related outputs, including slide decks, reports, datasets (such as the entire GitHub repository and illustrations), and publications. This platform ensures stable and citable records, enhancing accessibility and longevity.
+_The Turing Way_ community page on [Zenodo](https://zenodo.org/communities/the-turing-way) is the main platform to archive and preserve project-related outputs, including slide decks, reports, datasets (such as the entire GitHub repository and illustrations), and publications. 
+This platform provides persistent identifiers (DOI) to keep stable and citable records, enhancing accessibility and longevity.
 
 ### GitHub Repositories
 
