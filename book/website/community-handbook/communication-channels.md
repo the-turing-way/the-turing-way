@@ -11,7 +11,7 @@ Given the diverse range of formal and informal projects managed by both the proj
 
 [GitHub Issue](https://github.com/the-turing-way/the-turing-way/issues) and [Github discussions](https://github.com/the-turing-way/the-turing-way/discussions) 
 serve as a dynamic space where updates, queries, and discussions happen. 
-Discussions, although not as frequently used by community members as the issues and Pull Requests, allow the project delivery team to share information related to specific topics, maintaining transparency among community members.
+The GitHub 'discussions' feature, although not as frequently used by community members as the issues and Pull Requests, allows the project delivery team to share information related to specific topics, maintaining transparency among community members.
 These avenues ensure that even individuals not actively participating in a conversation can stay informed about ongoing developments and contribute where they can. 
 Contributors can respond in real-time, but the system is mainly used to accommodate varying time zones, allowing participants to engage at their convenience.
 
