@@ -1,8 +1,7 @@
+(ch-core-team-onboarding-checklist)=
 # Core Team Offboarding Checklist
 
 **☀️ Welcome to *The Turing Way* Core Team!☀️**
-
-This onboarding document is a living document – as is *The Turing Way* itself. As you'll learn from being in this community: this is a constantly-evolving project that holds [emergence as a core value](https://hackmd.io/kVkwKSYuSLWWhLzlNSuT0g). In other words: as the project evolves – so will the team that enables its sustainability as a project.
 
 This document was prepared for community members who have a leadership role within the community. While this group is called the "Core Team" of _The Turing Way_, it is an umbrella term for all community members who have taken on an maintenance role within the community.
 
@@ -41,7 +40,7 @@ This may include the following:
     - [ ] Coworking Calls
     - [ ] Collaboration Cafes
     - [ ] Fireside Chat
-    - [ ] Community Chats
+    - [ ] Community Calls
 
 ## Communication Channels + Platforms
 - [ ] Share links
@@ -60,4 +59,3 @@ If applicable, see [TPS Project Management Repository](https://github.com/alan-t
 - [TTW Guide to Using Slack](https://hackmd.io/@turingway/ttw-slack-intro)
 - [TTW Github repository guide](https://docs.google.com/spreadsheets/d/19IfeIxtWQpDglzfOY8vpq6TFhM1jEJa1OnNdAYWjzg8/edit#gid=1136871433)
 - [TTW Translation Github team](https://github.com/TWTranslation)
-- TTW Core Team Google Drive Guide

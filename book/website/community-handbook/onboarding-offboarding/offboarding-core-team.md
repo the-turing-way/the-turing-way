@@ -1,12 +1,9 @@
+(ch-core-team-offboarding-checklist)=
 # Core Team Offboarding Checklist
 
 🌙 **We are sad to see you leave *The Turing Way* Core Team!** 🌙
 
-Whether it's changed responsibilities, a new job, shifting interests, or any other reason –– we understand that life happens, and that communities will always be shifting and evolving! While we are sad to see you go for now, we hope that you'll stay engaged with us in *The Turing Way* community! 
-
-This offboarding document is a living document – as is *The Turing Way* itself. As you'll learn from being in this community: this is a constantly-evolving project that holds [emergence as a core value](https://hackmd.io/kVkwKSYuSLWWhLzlNSuT0g). 
-
-In other words: as the project evolves – so will the team that enables its sustainability as a project.
+This docum
 
 ## Accounts and Permissions
 - [ ] Remove from #ttw-core-team channel on Slack
@@ -35,22 +32,28 @@ In other words: as the project evolves – so will the team that enables its su
     - [ ] Coworking Calls
     - [ ] Collaboration Cafes
     - [ ] Fireside Chat
-    - [ ] Community Chats
+    - [ ] Community Calls
 
 If applicable, see [TPS Project Management Repository](https://github.com/alan-turing-institute/tps-project-management) about being onboarded onto the Tools, Practices, and Systems programme more broadly at the Alan Turing Institute. Other research teams and/or groups may have their own onboarding practices and/or repositories (i.e. the [Research Application Manager (RAM) team](https://github.com/alan-turing-institute/research-application-management) or [Community Management (CM) team](https://github.com/alan-turing-institute/open-community-building)).
 
 ## Documenting your Experiences
 
-We understand that wrapping up your projects, chapters, and  X_The Turing Way_, 
+We understand that wrapping up chapters and projects with _The Turing Way_ may take some time! 
+
+If you need support completing your tasks, please reach out to the Research Community Manager or Research Project Manager to help support you through the process. 
+
+They can schedule an offboarding call with you in order to help document your work with _The Turing Way_ community. 
+
+Remember, everyone has expertise to share – and documentation will help us to ensure that others can learn from your experiences too.
 
 We ask that you please update your [Record of Contributions](https://the-turing-way.netlify.app/afterword/contributors-record.html) to document your experiences with contributing to _The Turing Way_.
-
-We would also love to capture your institutional knowledge. The Research Community Manager or Research Project Manager will schedule an offboarding call with you in order to help document your experiences with The Turing Way.
 
 ## Celebrating your Contributions
 
 Thank you so much for all your contributions to *The Turing Way*. We really appreciate you sharing your time and expertise with us in this community!
 
-The Research Community Manager or Research Project Manager will reach out to discuss how to celebrate you in a way you prefer.
+The Research Community Manager or Research Project Manager will reach out to discuss how to celebrate you in a way you prefer. 
 
-(Developing 'emeritus' community member programme? Any way of accounting for this?)
+We are hoping to develop a "emiritus" or "(Developing 'emeritus' community member programme? Any way of accounting for this?)
+
+Remember, you can always re-engage with the community if you are interested in re-joining the project. You are always welcome!

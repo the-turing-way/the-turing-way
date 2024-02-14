@@ -1,14 +1,9 @@
+(ch-general-onboarding)=
 # General Onboarding Calls
 
 **Welcome to The Turing Way!**
 
-We're so glad to have you here!
-
-Our goal is to provide individuals and organizations in academia, industry, government, and the public sectors the information they need to ensure that their projects are easy to reproduce and reuse. 
-
-We encourage all stakeholders in data science to utilise _The Turing Way_ to understand their roles and responsibilities for reproducibility.
-
-This onboarding document is a living document – as is *The Turing Way* itself. As you'll learn from being in this community: this is a constantly-evolving project that holds [emergence as a core value](https://hackmd.io/kVkwKSYuSLWWhLzlNSuT0g). In other words: as the project evolves – so will the team that enables its sustainability as a project.
+We're so glad to have you here! On this page, you can learn more about our Onboarding Calls, which has been re-initiated in 2024.
 
 ## About the Onboarding Call
 
