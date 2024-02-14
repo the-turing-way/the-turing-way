@@ -54,7 +54,8 @@ In addition to our synchronous communication channels, we leverage various platf
 
 ### Monthly Newsletters
 
-Asynchronous communication is facilitated through {ref}`monthly newsletters<ch-newsletters>`, offering updates on the project's progress, achievements, and upcoming events. These newsletters provide a digestible format for community members to stay informed at their own pace, offering a snapshot of recent developments within _The Turing Way_.
+Asynchronous communication is facilitated through {ref}`monthly newsletters<ch-newsletters>`, offering updates on the project's progress, achievements, and upcoming events. 
+These newsletters provide a digestible format for community members to stay informed at their own pace, offering a snapshot of recent developments within _The Turing Way_.
 
 ### Zenodo Community Page
 
