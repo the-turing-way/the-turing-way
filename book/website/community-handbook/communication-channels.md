@@ -4,7 +4,7 @@
 In _The Turing Way_, our [GitHub organisation](https://github.com/the-turing-way) serve as the primary source of information.
 The main [project repository](https://github.com/the-turing-way/the-turing-way) hosts book chapters and project management documentation and resources.
 
-In addition, the project delivery team, makes use of various communication platforms to facilitate effective information dissemination within and beyond the engaged community.
+In addition the project delivery team makes use of various communication platforms to facilitate effective information dissemination within and beyond the engaged community.
 
 Given the diverse range of formal and informal projects managed by both the project delivery team and community members, the communication within _The Turing Way_ community can be broadly categorised as synchronous and asynchronous.
 
