@@ -51,6 +51,7 @@ You will need to locate your "terminal" or "prompt" application on your machine.
    ```console
    git clone --filter=blob:none https://github.com/the-turing-way/the-turing-way.git
    ```
+   
    ```
 
 6. Navigate into the cloned repository folder using the command `cd the-turing-way`, where the `cd` command means `change directory`.
