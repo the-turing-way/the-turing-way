@@ -44,21 +44,20 @@ You will need to locate your "terminal" or "prompt" application on your machine.
 
    you can use [partial clones](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/#). Specifically, focusing on blobless clones, which are efficient for developers, involves utilizing the --filter=blob:none option in the git clone command.
 
-   By using --filter=blob:none, the initial git clone operation downloads all reachable commits and trees, while blobs (file contents) for commits are only downloaded when performing a git checkout.
-   
    Here's the command to use blobless clones:
 
    ```console
    git clone --filter=blob:none https://github.com/the-turing-way/the-turing-way.git
    ```
    
+   By using --filter=blob:none, the initial git clone operation downloads all reachable commits and trees, while blobs (file contents) for commits are only downloaded when performing a git checkout.   
    ```
 
-6. Navigate into the cloned repository folder using the command `cd the-turing-way`, where the `cd` command means `change directory`.
+7. Navigate into the cloned repository folder using the command `cd the-turing-way`, where the `cd` command means `change directory`.
 
-7. Then change into the sub-directory the website is built from using `cd book/website`
+8. Then change into the sub-directory the website is built from using `cd book/website`
 
-8. The Turing Way book is built using multiple python libraries. We can install these dependencies _into your conda environment_ using the following command
+9. The Turing Way book is built using multiple python libraries. We can install these dependencies _into your conda environment_ using the following command
 
    ```console
    pip install -r requirements.txt
@@ -66,13 +65,13 @@ You will need to locate your "terminal" or "prompt" application on your machine.
 
    where the `requirements.txt` file contains a list of python libraries
 
-9. And now build the book:
+10. And now build the book:
 
    ```console
    jupyter-book build .
    ```
 
-10. The output of the build process will provide output such as below that demonstrate how you can view the book locally:
+11. The output of the build process will provide output such as below that demonstrate how you can view the book locally:
 
     ```text
     ===============================================================================
