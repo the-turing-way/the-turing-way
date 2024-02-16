@@ -33,6 +33,9 @@ jobs:
           placeholder_start: <!-- CROWDIN-CONTRIBUTORS-LIST:START -->
           placeholder_end: <!-- CROWDIN-CONTRIBUTORS-LIST:END -->
           crowdin_project_link: https://turingway.crowdin.com/turing-way
+          files:
+            - README.md
+            - book/website/afterword/contributors-record.md
         env:
           CROWDIN_PROJECT_ID: 1
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
