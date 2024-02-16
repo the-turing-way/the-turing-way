@@ -121,6 +121,8 @@ parts:
                 file: reproducible-research/rdm/rdm-metadata
               - title: Methods and Protocols
                 file: reproducible-research/rdm/rdm-methods
+              - title: Electronic Lab Notebooks (ELNs)
+                file: reproducible-research/rdm/rdm-elns
               - title: Data Curation
                 file: reproducible-research/rdm/rdm-data-curation
               - title: Data Visualisation
