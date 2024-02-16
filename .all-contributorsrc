@@ -4566,6 +4566,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "richarddushime",
+      "name": "Richard Dushime",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45734838?v=4",
+      "profile": "http://richarddushime.netlify.app/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
