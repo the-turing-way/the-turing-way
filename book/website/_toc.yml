@@ -1020,11 +1020,23 @@ chapters:
             file: community-handbook/community-calls
             sections:
               - title: Background, Motivations, and Techniques
-                file: community-handbook/community-calls/coworking-motivation
+                file: community-handbook/community-calls/community-calls-coworking-motivation
+              - title: Organising Coworking Calls
+                file: community-handbook/community-calls/community-calls-coworking-organisation
+              - title: Collaboration Cafes
+                file: community-handbook/community-calls/community-calls-collabcafe
+              - title: Coworking Calls
+                file: community-handbook/community-calls/community-calls-coworking
               - title: Core Team Meetings
                 file: community-handbook/community-calls/community-calls-core-team
               - title: Office Hours
                 file: community-handbook/community-calls/community-calls-office-hours
+              - title: Open Governance Calls
+                file: community-handbook/community-calls/community-calls-open-governance
+              - title: Community Share-outs
+                file: community-handbook/community-calls/community-calls-shareouts
+              - title: Working Group Meetings
+                file: community-handbook/community-calls/community-calls-working-groups
           - title: Fireside Chat Series
             file: community-handbook/fireside-chat
             sections:
