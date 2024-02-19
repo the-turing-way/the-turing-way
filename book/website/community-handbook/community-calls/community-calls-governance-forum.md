@@ -35,7 +35,6 @@ The current format of the call is as follows, and will likely evolve as the comm
 | ---- | ------ | --------------- |
 | February 2024 | [Padlet](https://annuel2.framapad.org/p/TTW-community-call-15Feb) | --
 | April 2024 | -- | --
-| January 2023 | -- | --
-| March 2023 | -- | --
-| June 2023 | -- | --  
-| September 2023 |  | --
+| July 2024 | -- | --
+| October 2024 | -- | --
+| December 2024 | -- | --
