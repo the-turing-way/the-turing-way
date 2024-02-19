@@ -92,7 +92,7 @@ The following tables show the timed agendas for each call as they evolved. Gener
 | 05 mins | Gathering references & suggestions for governance |
 | 05 mins | Wrap up & Next steps |
 
-## Call #6 (September 2023)
+### Call #6 (September 2023)
 
 | Duration | Activity |
 | ---- | -------- |
@@ -114,6 +114,7 @@ Archived notes from these calls can be found on the public HackMDs, Padlets, and
 | March 2023 | [HackMD](https://hackmd.io/@turingway/tw-mar23-core-meeting) | --
 | June 2023 | [HackMD](https://hackmd.io/@turingway/june23-core-team-meeting) | --  
 | September 2023 | [Padlet](https://pad.sfconservancy.org/p/ttw-sep23-communitycall) | --
+
 
 ## Reasons for retiring
 
