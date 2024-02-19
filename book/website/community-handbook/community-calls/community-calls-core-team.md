@@ -22,13 +22,13 @@ The first two core team meetings in June 2022 and September 2022 focused on the 
 
 In June 2022, the types of work being formalised within the project was related to Translation and Localisation (which had begun in prior years). Simultaneously, the Turing's TPS team had also expanded significantly with Research Application Manager (RAM), Research Community Manager (RCM), and Research Project/Programme Managers (RPMs) roles whose contributions to the project were not clear, though written into their job descriptions. At this call, the proposal was made to trial working groups within the project under three themes: authors & reviewers, infrastructure maintainers, and trainers and mentors – formalising streams of work that already existed in the project, following the translation and localisation process. This call announced a trial, and a call for volunteers from the existing core team to iterate on the format in the following months.
 
-These three working groups were incubated and began to meet and self-organise in the following months. In September 2022, the second "core team" meeting was organised to receive feedback from participants about the process of organising formally as working groups, as opposed to informally as different initiatives. [Feedback was collected](https://hackmd.io/@turingway/working-group-feedback) about the process of working groups at this call, identifying the need for personnel and organisational support, as well as projects of (i.e. transition from github repository to organisation, website and url, and other needs). 
+These three working groups were incubated and began to meet and self-organise in the following months. In September 2022, the second "core team" meeting was organised to receive feedback from participants about the process of organising formally as working groups, as opposed to informally as different initiatives. [Feedback was collected](https://hackmd.io/@turingway/working-group-feedback) about the process of working groups at this call, identifying the need for personnel and organisational support, as well as projects of (i.e. transition from github repository to organisation, website and url, and other needs).
 
-At the January and March 2023 core team calls, drafts were shared about the status of governance within the project – documenting the status of different working groups. Around this time, work around accessibility began to formalise within the project. The "reviers and editors" and "trainers and mentors" working groups were retired, while the "infrastructure maintainers" (which became the Infrastructure WG) was continued. We also created our [first annual report](https://docs.google.com/presentation/d/1ZAwCe9hZCG-sntZgIKhfT5G8P0JWFDCK6Di7dde5OII/edit#slide=id.g20fd97d2008_0_0) which was shared during this call.
+At the January and March 2023 core team calls, drafts were shared about the status of governance within the project – documenting the status of the incubated working groups. Around this time, work around accessibility began to formalise within the project. The "reviers and editors" and "trainers and mentors" working groups were retired, while the "infrastructure maintainers" (which became the Infrastructure WG) continued. We also created our [first internal annual report](https://docs.google.com/presentation/d/1ZAwCe9hZCG-sntZgIKhfT5G8P0JWFDCK6Di7dde5OII/edit#slide=id.g20fd97d2008_0_0) which was shared during this call.
 
-At the June 2023 core team meeting, further formalisation was done. An "accessibility working group" had solidified in the previous months (April 2023), in partnership and with volunteers from Metadocencia, while the "infrastructure" and "translation and localisation" were consolidating their work. The Infrastructure WG lead on the transition to the  
+At the June 2023 core team meeting, further formalisation was done. An "accessibility working group" had solidified in the previous months (April 2023), in partnership and with volunteers from Metadocencia, while the "infrastructure" and "translation and localisation" were consolidating their work. The Infrastructure WG lead on the transition to a Github organisation, which was completed in August 2023.
 
-At the September 2023 core team meeting, feedback was shared explicitely about decision-making within the project.
+At the September 2023 core team meeting, feedback was shared explicitely about decision-making within the project, sharing feedback about which decisions were blocked and/or needed support from project leadership, the delivery team, and/or operational support from the project RCM or RPM.
 
 ## Evolution of format of call
 
@@ -119,7 +119,7 @@ Archived notes from these calls can be found on the public HackMDs, Padlets, and
 
 _Last updated: February 2024_
 
-These calls were retired in early 2024 due to changes in the governance structure of _The Turing Way_ project. The reformated call centers a public "forum"-style call over the format of closed meeting space.
+These calls were retired in early 2024 due to changes in the governance structure of _The Turing Way_ project, and the needs of the project more broadly.
 
 1. **The boundaries of the "core" team were not well defined from the beginning** 
 
@@ -135,7 +135,13 @@ The lack of clarity on "who" was a part of the core team reinforced the question
 
 These calls were initiated as a process of formalisation within _The Turing Way_ community. Even the act of gathering diverse participants from the project was initially identified as a need within the project.
 
-As the community continued to grow significantly throughout 2022 and 2023 with new work packages and projects, the core team of the project that met at these calls grew alongside this, as did the need to address blocks for decision-making within the community. This call, while it assembled community leaders from across the project, was identified to be a closed space (i.e. the call was not open to observers from the wider community) as well as a 
+As the community continued to grow significantly throughout 2022 and 2023 with new work packages and projects, the core team of the project that met at these calls grew alongside this, as did the need to address blocks for decision-making within the community.
+
+This call, while it assembled community leaders from across the project, was identified to be a closed space (i.e. the call was not open to observers from the wider community as well as to others from aligned communities). In other words, the call was closed to the "core" from the beginning, and the next stage of the project required a more open forum where feedback and observation from the broader community and from aligned communities could be made more possible. 
+
+The current reformated call centers an open "community forum"-style call over the format of "closed core team meeting" space.
 
 3. **The feedback received during the calls needed different meeting infrastructure to actualise.**
+
+During the two final core team meeting calls in June and September 2023, the feedback received seemed to repeat.
 
