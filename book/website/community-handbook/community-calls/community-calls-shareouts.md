@@ -7,4 +7,7 @@ For more information, read the {ref}`Book Dash <ch-bookdash-events>` subchapter.
 
 ## Format of Share-outs
 
+The Community Share-outs have evolved over the course of the 
+
+
 ## 
