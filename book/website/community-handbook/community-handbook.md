@@ -58,7 +58,7 @@ The co-lead investigators for this project are [Dr Kirstie Whitaker](https://whi
 
 [Anne Lee Steele](https://www.turing.ac.uk/people/researchers/anne-lee-steele) is the Research Community Manager. [Alexandra Araujo Alvarez](https://www.turing.ac.uk/people/programme-management/alexandra-araujo-alvarez) is the Research Project Manager.
 
-You can contact them on the community Gitter Channel [https://gitter.im/the-turing-way/the-turing-way](https://gitter.im/the-turing-way/the-turing-way).
+You can contact them on the community Slack workspace or directly by email.
 You can write an email to Anne Lee Steele for any question or query by using the community email [theturingway@gmail.com](mailto:theturingway@gmail.com) or contact her directly by emailing [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk).
 In case you want to directly reach Malvika or Kirstie, email them at [theturingway@gmail.com](mailto:theturingway@gmail.com).
 
