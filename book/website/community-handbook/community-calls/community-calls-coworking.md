@@ -24,16 +24,16 @@ If you are interested in coworking with one of the team members on a day that is
 
 The resource requirement for these calls is also very similar to the Collaboration Cafe.
 
-1. Shared notes by [HackMD](https://hackmd.io/): [https://hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call)
+1. Shared notes by [HackMD](https://hackmd.io/): [https://hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call) –> As of January 2024, this has been switched to [Etherpad](https://etherpad.org/): [https://annuel2.framapad.org/p/ttw-coworking-call](https://annuel2.framapad.org/p/ttw-coworking-call)
 2. Online call by [Zoom](https://www.zoom.us/): The Zoom link is provided in the HackMD.
 3. An online Pomodoro clock: [https://cuckoo.team/TW-coworking](https://cuckoo.team/TW-coworking)
 
 We don't record these calls.
-We also don't create {ref}`breakout rooms<ch-coworking-collabcafe-breakout>` unless there are multiple people working on the same thing.
+We also don't create {ref}`breakout rooms<ch-community-calls-collabcafe-breakout>` unless there are multiple people working on the same thing.
 
 ### Format of the call
 
-We have a template for the {ref}`Collaboration Cafes<ch-template-coworking-weekly>`, which is updated on the [shared HackMD](https://hackmd.io/@malvikasharan/TW-coworking) for each week.
+We have a template for the {ref}`Collaboration Cafes<ch-template-coworking-weekly>`, which is updated every week.
 
 We'll run the following schedule during each call:
 
@@ -53,7 +53,7 @@ However, since these calls are attended by fewer participants, it provides more 
 
 Please update the document each month using the following steps:
 
-- [Update the HackMD](https://hackmd.io/@turingway/coworking-call) each month by adding dates for the weekly calls
+- [Update the HackMD](https://hackmd.io/@turingway/coworking-call) – now [Etherpad](https://annuel2.framapad.org/p/ttw-coworking-call) – each month by adding dates for the weekly calls
 - Move the notes from the previous call below the template area (that will be archived in this Notion page periodically)
 - Share the notes on Slack and X (formerly Twitter) announcing the dates
 - Use the notes during the call to share information as you chair the call
@@ -71,7 +71,7 @@ The call begins with the team members welcoming the participants, sharing the Co
 
 The session chair will start the [timer](https://cuckoo.team/TW-coworking) to keep track of the Pomodoro sessions.
 If everyone plans to work on independent tasks, we will remain in the main room and work silently.
-For any discussion or collaborative task that two people of the call are working on, we will create [breakout rooms][ch-coworking-collabcafe-breakout] for them.
+For any discussion or collaborative task that two people of the call are working on, we will create [breakout rooms][ch-community-calls-collabcafe-breakout] for them.
 
 If there are new members on the call, one of the members (usually host of the call) will take the new member to a breakout room to show them around the project repository and share some tips for getting started.
 

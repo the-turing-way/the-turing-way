@@ -37,21 +37,23 @@ In principle, these organising and governance meetings are still open for all to
 
 **Community calls**: {ref}`Community Share-outs<ch-community-calls-shareouts>`, {ref}`Collaboration Cafes<ch-community-calls-collabcafe>`, {ref}`Open Governance Calls<ch-community-calls-open-governance>`
 
-Some of our calls are oriented around sharing work that has been completed by community members over. This is particularly the case during Book Dash, where community members work on specific projects like chapter additions, editing existing chapters, infrastructure maintenance, documenting access-related practices, translating a chapter, and more.
+Some of our calls are oriented around sharing work that has been completed by community members over a period of time, so that they can be publicly celebrated for their contributions to the project.. 
 
-In the Collaboration Cafes, there is generally time reserved at the end of the call to celebrate and share discussions from two-hour session.
+This is particularly the case during Book Dash, where community members work on specific projects like chapter additions, editing existing chapters, infrastructure maintenance, documenting access-related practices, translating a chapter, and more.
 
-The Open Governance Calls
+In the Collaboration Cafes, there is generally time reserved at the end of the call to celebrate and share discussions from the two-hour coworking session.
+
+The Open Governance Calls (initiated in 2024) have celebrated the ongoing work or progress of working groups in a public forum, and sharing their work out to the wider public and community.
 
 ## 4. Onboarding and Welcoming calls
 
 **Community calls**: {ref}`Office Hours (now retired)<ch-community-calls-office-hours>`, {ref}`Onboarding Calls<ch-community-calls-onboarding>`
 
-As the project and community has grown, the need for spaces within the community that are beginner-friendly has become all the more important. Onboarding and welcoming calls are community calls that are oriented aroun we
+As the project and community has grown, the need for spaces within the community that are beginner-friendly has become all the more important. 
 
-As the community has grown, established calls such as Coworking Calls may be intimidating for first-time joinees, who may not have previously exper
+As the community has grown, established calls such as Coworking Calls may be intimidating for first-time joinees, who may not have previously experience in these kinds of calls.
 
-These calls were specifically organised with 
+Onboarding and welcoming calls were specifically organised with beginnings and newcomers to the project in mind.
 
 ## Resources
 
