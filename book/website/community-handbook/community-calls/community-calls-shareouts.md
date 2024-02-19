@@ -17,17 +17,19 @@ From 2019 to May 2022, Book Dash Community Share-outs and Contributor Celebratio
 
 | Duration | Activity |
 | ---- | -------- |
-| Start - 5min | 👋 Welcome & review of agenda |
-| 05 mins | Check-in & starting question |
+| Start - 5min | 👋 Welcome & Check-in |
+| 05 mins | Ice-breaker question |
 | 10 mins | Writing activity |
 | 45 mins | The Turing Way Governance Exercise: "Three levels of decision-making" |
 | 05 mins | Wrap up & Next steps |
 
 #### Contribution format
 
-> 
->
->
+```
+* Name:
+    * Links to Issues and PR:
+    * ASK:
+```
 
 ## Trialing working group share-outs (2022 - 2023)
 
@@ -43,23 +45,22 @@ In parallel, while working groups were incubated and trialed across the project,
 
 ### Working Group Share-outs (2023)
 
-> ## :emoji: Team or Project Name
-> **Group Members**: X, Y, Z
-> **Status**: Active, Inactive, Retired
-> **Key updates**: Bullet points or general notes - can be explained verbally
+```
+## Team or Project Name
+* **Group Members**: X, Y, Z
+* **Status**: Active, Inactive, Retired
+* **Key updates**: Bullet points or general notes - can be explained verbally
+```
 
 Working Group share-outs were trialed between each call.
 
 ### Archived notes of Working Group Share-outs
 
-| Date | HackMD or Padlet notes | Archived Github |
+| Date | HackMD, Padlet or Slides | Archived Github |
 | ---- | ------ | --------------- |
-| February 2024 | [Padlet](https://annuel2.framapad.org/p/TTW-community-call-15Feb) | --
-| April 2024 | -- | --
-| January 2023 | -- | --
-| March 2023 | -- | --
-| June 2023 | -- | --  
-| September 2023 |  | --
+| November 2022 | [Padlet](https://annuel2.framapad.org/p/TTW-community-call-15Feb) + [Slides](https://docs.google.com/presentation/d/1k2zpfYvwyoBWPOMDgK8vLtlL1rqZ-Yf9tPRor1Q7K98/edit#slide=id.g131bb79b4ab_0_0) | --
+| May 2023 | [Slides](https://docs.google.com/presentation/d/1Nj5qjKUGAd8hAzTQ7f4_ab_wiSlWurIQduzp23Mj1Xg/edit#slide=id.g218db849916_0_115) | --
+| November 2023 | [HackMD](https://hackmd.io/@turingway/nov23-wg-share-outs) | --
 
 ## Separating Working Group Share-outs from Book Dash Share-outs (2024 - present)
 
