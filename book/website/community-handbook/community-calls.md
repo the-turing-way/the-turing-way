@@ -25,7 +25,7 @@ Our coworking calls provide opportunities for community members to allocate time
 
 ## 2. Organising and Governance Meetings
 
-**Community calls**: {ref}`Core Team Meetings (now retired)<ch-community-calls-core-team>`, {ref}`Open Governance Calls<ch-community-calls-open-governance>`
+**Community calls**: {ref}`Core Team Meetings (now retired)<ch-community-calls-core-team>`, {ref}`Open Governance Calls<ch-community-calls-governance-forum>`
 
 Community calls may also be used at spaces for organising and planning within _The Turing Way_ community for goverance purposes. As the community has grown tremendously (over 450 contributors and 30+ core team members as of February 2024), it has increasingly become clear that formalised decision-making and structures are needed to ensure the sustainability of the project.
 
@@ -35,7 +35,7 @@ In principle, these organising and governance meetings are still open for all to
 
 ## 3. Share-out and Celebration calls
 
-**Community calls**: {ref}`Community Share-outs<ch-community-calls-shareouts>`, {ref}`Collaboration Cafes<ch-community-calls-collabcafe>`, {ref}`Open Governance Calls<ch-community-calls-open-governance>`
+**Community calls**: {ref}`Community Share-outs<ch-community-calls-shareouts>`, {ref}`Collaboration Cafes<ch-community-calls-collabcafe>`, {ref}`Open Governance Calls<ch-community-calls-governance-forum>`
 
 Some of our calls are oriented around sharing work that has been completed by community members over a period of time, so that they can be publicly celebrated for their contributions to the project.. 
 
