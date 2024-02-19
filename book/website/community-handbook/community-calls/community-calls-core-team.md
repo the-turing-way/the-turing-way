@@ -26,7 +26,7 @@ These three working groups were incubated and began to meet and self-organise in
 
 At the January and March 2023 core team calls, drafts were shared about the status of governance within the project – documenting the status of the incubated working groups. Around this time, work around accessibility began to formalise within the project. The "reviers and editors" and "trainers and mentors" working groups were retired, while the "infrastructure maintainers" (which became the Infrastructure WG) continued. We also created our [first internal annual report](https://docs.google.com/presentation/d/1ZAwCe9hZCG-sntZgIKhfT5G8P0JWFDCK6Di7dde5OII/edit#slide=id.g20fd97d2008_0_0) which was shared during this call.
 
-At the June 2023 core team meeting, further formalisation was done. An "accessibility working group" had solidified in the previous months (April 2023), in partnership and with volunteers from Metadocencia, while the "infrastructure" and "translation and localisation" were consolidating their work. The Infrastructure WG lead on the transition to a Github organisation, which was completed in August 2023.
+At the June 2023 core team meeting, further formalisation was done. An "accessibility working group" had solidified in the previous months (April 2023), in partnership and with volunteers from Metadocencia, while the "infrastructure" and "translation and localisation" working groups continued to consolidate their work. The Infrastructure Working Group lead on the transition to a Github organisation, which was completed in August 2023. The Translation and Localisation team were particularly supported to give talks that centered their work during this time.
 
 At the September 2023 core team meeting, feedback was shared explicitely about decision-making within the project, sharing feedback about which decisions were blocked and/or needed support from project leadership, the delivery team, and/or operational support from the project RCM or RPM.
 
@@ -121,7 +121,7 @@ _Last updated: February 2024_
 
 These calls were retired in early 2024 due to changes in the governance structure of _The Turing Way_ project, and the needs of the project more broadly.
 
-1. **The boundaries of the "core" team were not well defined from the beginning** 
+1. **The boundaries of the "core team" were not well defined from the beginning** 
 
 These calls were initiated during a period of significant growth for _The Turing Way_ community and for the TPS team at the Turing, all of which were grouped under the category of "Core Team" of The Turing Way. While these two persona types (employee of the Alan Turing Institute and volunteer contributors to TTW) were broad, their needs and dynamics were different due to team and line management responsibilities. This lead to questions like:
 
@@ -129,19 +129,24 @@ These calls were initiated during a period of significant growth for _The Turing
 - (For volunteers): How
 - (For both): What was the "responsibility" of a core team member of _The Turing Way_? 
 
-The lack of clarity on "who" was a part of the core team reinforced the question of who was accountable for facilitating contributions or contributing directly to _The Turing Way_ project. This "core team" call – in trying to address the needs of both of these groups, created a deadlock in decision-making, which generally.
+The lack of clarity on "who" was a part of the core team begged the question of who was accountable for facilitating contributions or contributing directly to _The Turing Way_ project. This "core team" call – in trying to address the needs of both of these groups, created a deadlock in decision-making and reinforced power dynamics within the project.
 
 2. **The purpose of call evolved over time.**
 
 These calls were initiated as a process of formalisation within _The Turing Way_ community. Even the act of gathering diverse participants from the project was initially identified as a need within the project.
 
-As the community continued to grow significantly throughout 2022 and 2023 with new work packages and projects, the core team of the project that met at these calls grew alongside this, as did the need to address blocks for decision-making within the community.
+As the community continued to grow significantly throughout 2022 and 2023 with new work packages and projects, the core team of the project that met at these calls grew alongside this, as did the need to address blocks for decision-making within the community. To address this, the Core Team Meetings evolved into a place for receiving feedback from across a wide range of community leadership within the project. Facilitated written exercises and verbal discussions during these calls enabled the gathering of this feedback.
 
-This call, while it assembled community leaders from across the project, was identified to be a closed space (i.e. the call was not open to observers from the wider community as well as to others from aligned communities). In other words, the call was closed to the "core" from the beginning, and the next stage of the project required a more open forum where feedback and observation from the broader community and from aligned communities could be made more possible. 
+Furthermore, this call, while it assembled community leaders from across the project, was also identified to be a closed space (i.e. the call was not open to observers from the wider community as well as to others from aligned communities). In other words, the call was closed to the "core team" from the beginning, and the next stage of the project required a more open forum where feedback and observation from the broader community and from aligned communities could be made possible. 
 
 The current reformated call centers an open "community forum"-style call over the format of "closed core team meeting" space.
 
-3. **The feedback received during the calls needed different meeting infrastructure to actualise.**
+3. **The feedback received during the calls needed different meeting infrastructure to act upon it.**
 
-During the two final core team meeting calls in June and September 2023, the feedback received seemed to repeat.
+While these themes have been present throughout the entire process of organising the Core Team Meetings, during the two final Core Team Meetings in June and September 2023 in particular, the feedback received demonstrated strong needs for clarity regarding institutional support, decision-making, institutional association, staff capacity, funding, and more.
 
+Because the feedback shared in both meetings demonstrated their urgency (and in many ways, repeated the same feedback in different forms), this reinforced the need to transition this space into another format in 2024 and required _The Turing Way_ core delivery team to take different actions. 
+
+This informed what is currently ongoing documentation that aims to clarify the relationship between the Alan Turing Institute and _The Turing Way_ project, Working Group needs and "how-to" guides, and the "Three-levels of decision-making" within the project.
+
+The transition of the "Core Team Meeting" into a broader "Open Governance Forum/Call" has allowed for the development of possible "solutions" or documented much-needed clarifications for recurring questions within the project.
