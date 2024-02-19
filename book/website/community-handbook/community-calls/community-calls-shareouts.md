@@ -13,17 +13,22 @@ The Community Share-outs have evolved over the course of their organisation
 
 ### Formalising format of call (2019 - 2022)
 
-From 2019 to May 2022, Book Dash Community Share-outs and Contributor Celebrations were solidified as a format for
+From 2019 to May 2022, Book Dash Community Share-outs and Contributor Celebrations were solidified as a format for the final day of Book Dash.
+
+On Day 5 of the Book Dash week, participants would share their progress and projects to . The 1.5 hour call 
 
 | Duration | Activity |
 | ---- | -------- |
-| Start - 5min | 👋 Welcome & Check-in |
-| 05 mins | Ice-breaker question |
-| 10 mins | Writing activity |
-| 45 mins | The Turing Way Governance Exercise: "Three levels of decision-making" |
-| 05 mins | Wrap up & Next steps |
+| Start | 👋 Welcome & Check-in |
+| 05 mins | Introduction to Share-outs |
+| 45 mins | Individual share-outs - 5 minutes for sharing + questions each |
+| 05 mins | Break |
+| 30 mins | Individual share-outs - 5 minutes for sharing + questions each |
+| 05 mins | Closing |
 
 #### Contribution format
+
+In a shared pad, 
 
 ```
 * Name:
@@ -31,7 +36,7 @@ From 2019 to May 2022, Book Dash Community Share-outs and Contributor Celebratio
     * ASK:
 ```
 
-## Trialing working group share-outs (2022 - 2023)
+### Trialing working group share-outs (2022 - 2023)
 
 In parallel, while working groups were incubated and trialed across the project, it became clear that 
 
@@ -43,18 +48,20 @@ In parallel, while working groups were incubated and trialed across the project,
 | 45 mins | The Turing Way Governance Exercise: "Three levels of decision-making" |
 | 05 mins | Wrap up & Next steps |
 
-### Working Group Share-outs (2023)
+#### About Working Group Share-outs
+
+Working Group share-outs were trialed between the two Community Share-out calls on Day 5 of Book Dash.
+
+Each working group is represented by one person. This person 
 
 ```
 ## Team or Project Name
-* **Group Members**: X, Y, Z
-* **Status**: Active, Inactive, Retired
-* **Key updates**: Bullet points or general notes - can be explained verbally
+* Group Members: X, Y, Z
+* Status: Active, Inactive, Retired
+* Key updates: Bullet points or general notes - can be explained verbally
 ```
 
-Working Group share-outs were trialed between each call.
-
-### Archived notes of Working Group Share-outs
+#### Archived notes of Working Group Share-outs
 
 | Date | HackMD, Padlet or Slides | Archived Github |
 | ---- | ------ | --------------- |
@@ -64,4 +71,4 @@ Working Group share-outs were trialed between each call.
 
 ## Separating Working Group Share-outs from Book Dash Share-outs (2024 - present)
 
-In 
+In 2024, _The Turing Way_ delivery team is trialing the separation of Working Group Share-outs from the broader Book Dash Share-outs that occur at the end of Book Dash. This is primarily done through the quarterly
