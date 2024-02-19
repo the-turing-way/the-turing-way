@@ -1,16 +1,8 @@
 (ch-community-calls-shareouts)=
 # Community Share-outs
 
+On the last day of the Book Dash, The Turing Way team along with the planning committee members host Community Share-out and Contributor Celebration sessions that are open to the public. The Community Share-out events provide a public platform to openly recognise the work of our attendees and community contributors throughout the Book Dash week.
 
+All are welcome to join, no sign-ups needed
 
-
-## Host Checklist
-Before the call
-- [ ] Open the Zoom room 5-10 minutes before
-- [ ] 
-- [ ] 
-During the call: 
-
-## Archiving notes
-
-All notes for Collaboration Cafes (starting in 2024)
+For more information, read the {ref}`Book Dash <ch-bookdash-events>` subchapter.
