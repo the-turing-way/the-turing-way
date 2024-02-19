@@ -1,9 +1,11 @@
 (ch-community-calls-onboarding)=
 # Onboarding Calls
 
+![Alt: Two people, one woman with a long orange shirt and one guy with a blue shirt and a tie, and a large Welcome! sign at the back](https://i.imgur.com/NXOPPc4.jpg)
+
 **Welcome to The Turing Way!**
 
-We're so glad to have you here! On this page, you can learn more about our Onboarding Calls, which have been re-initiated in 2024.
+We're so glad to have you here! On this page, you can learn more about our Onboarding Calls, which have been initiated in 2024.
 
 ## About the Onboarding Call
 
@@ -19,11 +21,11 @@ This is a space to bring your questions and interests – we're so excited to me
 
 As of January 2024, onboarding calls are being trialed using the following format:
 
-1. Introduction, icebreaker
-2. The Turing Way - What is it?
-3. How to get involved with The Turing Way? 
-4. Do you have any questions for us? 
-5. Feedback 
+1. Introduction, icebreaker (15min)
+2. The Turing Way - What is it? (5min)
+3. How to get involved with The Turing Way? (15min) 
+4. Do you have any questions for us? (15min)
+5. Feedback (5min)
 
 ## Want to onboard other community members? 
 
