@@ -805,17 +805,15 @@ parts:
                 file: community-handbook/bookdash/bookdash-events
               - title: After the Book Dash
                 file: community-handbook/bookdash/bookdash-after
-          - title: Community Coworking Calls
-            file: community-handbook/coworking
+          - title: Community Calls
+            file: community-handbook/community-calls
             sections:
               - title: Background, Motivations, and Techniques
-                file: community-handbook/coworking/coworking-motivation
-              - title: Online Collaboration Cafe
-                file: community-handbook/coworking/coworking-collabcafe
-              - title: Weekly Coworking Calls
-                file: community-handbook/coworking/coworking-weekly
-              - title: Organising coworking calls
-                file: community-handbook/coworking/coworking-organisation
+                file: community-handbook/community-calls/coworking-motivation
+              - title: Core Team Meetings
+                file: community-handbook/community-calls/community-calls-core-team
+              - title: Office Hours
+                file: community-handbook/community-calls/community-calls-office-hours
           - title: Fireside Chat Series
             file: community-handbook/fireside-chat
             sections:
