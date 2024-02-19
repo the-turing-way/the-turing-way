@@ -3,10 +3,8 @@
 
 ```{admonition} Note
 :class: tip
-Note: While these calls have been retired as of March 2023 (in favor of pre-organised onboarding calls), this documentation has been added for archival and transparency purposes.
+While these calls have been retired as of March 2023 (in favor of pre-organised onboarding calls), this documentation has been added for archival and transparency purposes.
 ```
-
-## Office Hours
 
 Office hours were a pilot community call that was trialed from Sept 2022 to March 2023. 
 

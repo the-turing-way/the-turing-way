@@ -10,7 +10,7 @@ The core team call was initiated to formalise different parts of _The Turing Way
 
 This chapter also documents this evolution and reason for retiring this call below. 
 
-## Motivation behind organising
+## Motivation for organising
 
 These calls were initiated by the Research Community Manager (in 2022, then Anne Lee Steele) in June 2022 in order to formalise, recognise, and celebrate specialised work and/or roles within the project. At the time, this included volunteers to the project across institutions internationally, as well as employees of the Alan Turing Institute based in the United Kingdom, specifically those based in the Tools, Practices and Systems (TPS) Programme which hosts _The Turing Way_ project. 
 
@@ -24,24 +24,83 @@ In June 2022, the types of work being formalised within the project was related 
 
 These three working groups were incubated and began to meet and self-organise in the following months. In September 2022, the second "core team" meeting was organised to receive feedback from participants about the process of organising formally as working groups, as opposed to informally as different initiatives. [Feedback was collected](https://hackmd.io/@turingway/working-group-feedback) about the process of working groups at this call, identifying the need for personnel and organisational support, as well as projects of (i.e. transition from github repository to organisation, website and url, and other needs). 
 
-At the January and March 2023 core team calls, drafts were shared about the status of governance within the project – documenting the status of different working groups. Around this time, work around accessibility began to formalise within the project. The "reviers and editors" and "trainers and mentors" working groups were retired, while the "infrastructure maintainers" (which became the Infrastructure WG) was continued. We also created our [first annual report](https://docs.google.com/presentation/d/1ZAwCe9hZCG-sntZgIKhfT5G8P0JWFDCK6Di7dde5OII/edit#slide=id.g20fd97d2008_0_0).
+At the January and March 2023 core team calls, drafts were shared about the status of governance within the project – documenting the status of different working groups. Around this time, work around accessibility began to formalise within the project. The "reviers and editors" and "trainers and mentors" working groups were retired, while the "infrastructure maintainers" (which became the Infrastructure WG) was continued. We also created our [first annual report](https://docs.google.com/presentation/d/1ZAwCe9hZCG-sntZgIKhfT5G8P0JWFDCK6Di7dde5OII/edit#slide=id.g20fd97d2008_0_0) which was shared during this call.
 
 At the June 2023 core team meeting, further formalisation was done. An "accessibility working group" had solidified in the previous months (April 2023), in partnership and with volunteers from Metadocencia, while the "infrastructure" and "translation and localisation" were consolidating their work. The Infrastructure WG lead on the transition to the  
 
 At the September 2023 core team meeting, feedback was shared explicitely about decision-making within the project.
 
-## Format of call
+## Evolution of format of call
 
 During the period of organising core team calls, the format was iterated on a few times. This was to account for the evolving nature of the team.
 
+The following tables show the timed agendas for each call as they evolved. Generally, the time was organised around two core tasks: a series of status updates (either from project leadership, community manager, and/or working groups) and a discussion or feedback-gathering exercise. The call would start and end with a welcome, and close with a sharing of next steps.
+
 ### Call #1 (June 2022)
 
-### Call #2 (Sept 2023)
+| Duration | Activity |
+| ---- | -------- |
+| Start | 👋 Welcome |
+| 15 mins | Introductions  |
+| 05 mins | *The Turing Way* status update |
+| 10 mins | Open discussion |
+| 15 mins | Future plans |
+| 15 mins | Next steps |
 
-### Call #3 ()
+### Call #2 (Sept 2022)
 
-### Call #4 ()
+| Duration | Activity |
+| ---- | -------- |
+| Start | 👋 Welcome |
+| 10 mins | Introductions + Writing Exercise  |
+| 15 mins | *The Turing Way* project updates |
+| 15 mins | The Turing Way Decisions for Team |
+| 10 mins | Any Other Business |
+| 5 mins | Action items & Next steps |
 
+### Call #3 (January 2023)
+
+| Duration | Activity |
+| ---- | -------- |
+| Start | 👋 Welcome |
+| 02 mins | Intros: New Team Members + Welcome back |
+| 10 mins | 2022 in Review: Anne (RCM) and Alex (RPM) |
+| 15 mins | WG/Team updates |
+| 20 mins | Decisions for Team |
+| 05 mins | Reflective: Writing Exercise |
+| 05 mins | Next steps | 
+
+### Call #4 March 2023
+
+| Duration | Activity |
+| ---- | -------- |
+| Start | 👋 Welcome |
+| 10 mins | Introductions + Writing Exercise  |
+| 15 mins | *The Turing Way* project updates |
+| 15 mins | The Turing Way Decisions for Team |
+| 10 mins | Any Other Business |
+| 5 mins | Action items & Next steps |
+
+### Call #5 (June 2023)
+
+| Duration | Activity |
+| ---- | -------- |
+| Start - 5min | 👋 Welcome & review of agenda |
+| 05 mins | Check-in & starting question |
+| 05 mins | Clarifying governance progress |
+| 40 mins | Guided discussion for core team (05 min solo, 10 min small group you know, 10 min small randomised group, 15 min all the group) |
+| 05 mins | Gathering references & suggestions for governance |
+| 05 mins | Wrap up & Next steps |
+
+## Call #6 (September 2023)
+
+| Duration | Activity |
+| ---- | -------- |
+| Start - 5min | 👋 Welcome & review of agenda |
+| 05 mins | Check-in & starting question |
+| 10 mins | Writing activity |
+| 45 mins | The Turing Way Governance Exercise: "Three levels of decision-making" |
+| 05 mins | Wrap up & Next steps |
 
 ## Archived Notes
 
@@ -72,11 +131,11 @@ These calls were initiated during a period of significant growth for _The Turing
 
 The lack of clarity on "who" was a part of the core team reinforced the question of who was accountable for facilitating contributions or contributing directly to _The Turing Way_ project. This "core team" call – in trying to address the needs of both of these groups, created a deadlock in decision-making, which generally.
 
-2. **The purpose of call evolved**
+2. **The purpose of call evolved over time.**
 
 These calls were initiated as a process of formalisation within _The Turing Way_ community. Even the act of gathering diverse participants from the project was initially identified as a need within the project.
 
 As the community continued to grow significantly throughout 2022 and 2023 with new work packages and projects, the core team of the project that met at these calls grew alongside this, as did the need to address blocks for decision-making within the community. This call, while it assembled community leaders from across the project, was identified to be a closed space (i.e. the call was not open to observers from the wider community) as well as a 
 
+3. **The feedback received during the calls needed different meeting infrastructure to actualise.**
 
-3. **The feedback received during the calls began to repeat itself**.
