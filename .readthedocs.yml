@@ -10,7 +10,10 @@ build:
     python: "3.12"
   jobs:
     pre_build:
+      # Generate Sphinx conf.py using JupyterBook
       - "jupyter-book config sphinx book/website"
+      # Write pathways modifications
+      - "pathways book/website"
 
 sphinx:
   configuration: book/website/conf.py

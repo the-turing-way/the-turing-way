@@ -11,7 +11,7 @@ strict:
 	jupyter-book build ./website -W --keep-going
 
 pathways:
-	python -m pathways.main pathways ./website/
+	pathways ./website/ --build
 
 clean:
 	jupyter-book clean -a ./website
