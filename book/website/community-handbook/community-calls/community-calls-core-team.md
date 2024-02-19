@@ -106,13 +106,13 @@ The following tables show the timed agendas for each call as they evolved. Gener
 
 Archived notes from these calls can be found on the public HackMDs, Padlets, and/or on our Github repository.
 
-| Date | HackMD or Padlet notes | Archived Github |
+| Date | HackMD, Padlet or Slides | Archived Github |
 | ---- | ------ | --------------- |
 | June 2022 | [HackMD](https://hackmd.io/@turingway/ttw-june22-core-meeting) | --
 | September 2022 | [HackMD](https://hackmd.io/@turingway/ttw-sept22-core-meeting) | --
-| January 2023 | [HackMD](https://hackmd.io/@turingway/jan12-core-team-meeting) | --
-| March 2023 | [HackMD](https://hackmd.io/@turingway/tw-mar23-core-meeting) | --
-| June 2023 | [HackMD](https://hackmd.io/@turingway/june23-core-team-meeting) | --  
+| January 2023 | [HackMD](https://hackmd.io/@turingway/jan12-core-team-meeting) + [Slides](https://docs.google.com/presentation/d/1W6UGOrUMW4fNnaHkKyb8ozdct0hiwXcMel4c4TN9IFU/edit#slide=id.g2085abe9303_2_216) | --
+| March 2023 | [HackMD](https://hackmd.io/@turingway/tw-mar23-core-meeting) + [Slides](https://docs.google.com/presentation/d/1RQhAHM7PcOAYKPOKfBGyVV_R4bRHca5jVVY3mQC2Ry0/edit#slide=id.g2124e61ca57_0_42) | --
+| June 2023 | [HackMD](https://hackmd.io/@turingway/june23-core-team-meeting) + [Slides](https://docs.google.com/presentation/d/1i7wWThGHgXeWYg90yDSH96-_vznJe5yh9URTPeKh-28/edit#slide=id.g218db849916_0_115) | --  
 | September 2023 | [Padlet](https://pad.sfconservancy.org/p/ttw-sep23-communitycall) | --
 
 
