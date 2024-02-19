@@ -1,4 +1,4 @@
-(ch-community-calls-open-governance)=
+(ch-community-calls-governance-forum)=
 # Open Governance Forum
 
 Starting in 2024, The Turing Way delivery team is hosting public community calls that bring together different stakeholders, community members and leaders from across the project.
@@ -7,7 +7,7 @@ These calls will serve as a platform for the community to come together, share a
 
 ## Motivation for Organisation
 
-_The Turing Way_ open governance forum was organised in response (and replacing) the Core Team Meetings, which were organised from June 2022 to September 2023. The evolving needs of the {ref}`Core Team Meetings<ch-community-calls-core-team>` is documented in the subchapter about the meetings.
+_The Turing Way_ open governance forum was organised in response (and replacing) the Core Team Meetings, which were organised from June 2022 to September 2023. The evolving needs (and reason for sunsetting) the {ref}`Core Team Meetings<ch-community-calls-core-team>` is documented in the relevant subchapter.
 
 More specifically, these calls are designed to be open, public forums to engage in community updates across the project teams and groups, specifically as places to share-out updates at the working group and constitutional levels of the project.
 
