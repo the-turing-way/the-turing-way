@@ -820,6 +820,8 @@ parts:
                 file: community-handbook/community-calls/community-calls-core-team
               - title: Office Hours
                 file: community-handbook/community-calls/community-calls-office-hours
+              - title: Onboarding Calls
+                file: community-handbook/community-calls/community-calls-onboarding
               - title: Open Governance Calls
                 file: community-handbook/community-calls/community-calls-open-governance
               - title: Community Share-outs
