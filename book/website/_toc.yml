@@ -759,6 +759,11 @@ parts:
                 file: community-handbook/infrastructure/infrastructure-contributors
               - title: External Link Checking
                 file: community-handbook/infrastructure/infrastructure-external-link-check
+          - title: Accessibility
+            file: community-handbook/accessibility
+            sections:
+              - title: Event Organising
+                file: community-handbook/accessibility/event-organising
           - title: Communication Platforms
             file: community-handbook/communication-channels
             sections:
