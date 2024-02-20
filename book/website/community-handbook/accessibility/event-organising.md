@@ -21,7 +21,7 @@ All of The Turing Way community calls adhere to the project's [Code of Conduct](
 
 5. **Recordings**: Community calls like the coworking call and collaboration cafes are not recorded by default, though the notes from each session are uploaded in our repository. Workshops and trainings may be recorded at the discresion of the organisers, and/or if participants request .  
 
-6. **Alternative forms of engagement**: At our community calls , we tend to encourage (but absolutely do not enforce!) a video-on culture at our community calls. However, we recognise that this may be both bandwidth-intensive as well as exclusory to those who would not like to engage in this way. At our trainings and workshops, we encourage folks to engage in the ways and mediums that they would like.
+6. **Alternative forms of engagement**: At our community calls, we tend to encourage (but absolutely do not enforce!) a video-on culture at our community calls. However, we recognise that this may be both bandwidth-intensive as well as exclusory to those who would not like to engage in this way. At our trainings and workshops, we encourage folks to engage in the ways and mediums that they would like.
 
 7. 
 
@@ -31,6 +31,8 @@ During our bi-annual
 
 Currently, we are not able to support the following
 
-- **Multilingualism**: While we have previously hosted social sessions at our biannual Book Dash in Spanish, the vast amount of our trainings and community calls are hosted in English. We would love to support more calls in more languages in the future.
-- **Live transcription and/or translation**
-- 
+1. **Multilingualism**: While we have previously hosted social sessions at our biannual Book Dash in Spanish, the vast amount of our trainings and community calls are hosted in English. We would love to support more calls in more languages in the future.
+
+2. **Live transcription and/or translation**
+
+3. 
