@@ -179,7 +179,7 @@ pandas==2.2.0
     #   datascience
 parso==0.8.3
     # via jedi
-pathways @ git+https://github.com/the-turing-way/pathways.git@v0.2.0
+pathways @ git+https://github.com/the-turing-way/pathways.git@v0.2.1
     # via -r requirements.in
 pexpect==4.9.0
     # via ipython
