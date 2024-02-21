@@ -1,38 +1,124 @@
-(ch-accessibility-events)=
-# Access-centered support for events
+(ch-accessibility-alttext)=
+# Alt text
 
-The Turing Way hosts a variety of ongoing community calls throughout the year: virtual Collaboration Cafes, coworking calls, and onboarding sessions (which are being trialed in 2024). 
+Alternative text (or alt text) are used for describing the appearance and function of an image on an HTML page for users who cannot see it. 
+Alt text is often used by visually impaired people who use assistive technology such as screen readers.
+Adding alt texts to figures is one of the first principles of web accessibility as it enables the screen reader software to read an alt text to its users helping them understand/explain the content.
 
-All of The Turing Way community calls are hosted on either a remote-first and/or hybrid-basis. 
+If an image link breaks, alt texts are still functional and read as intended by the assistive technology.
 
-In order to enable the widest participation possible, and overcome any possible barriers that may prevent despite any barriers that participants may experience, we aim to provide the following support for each call.
+:::{tip}
+**Apply best practices for describing an image in an alt text.**
 
-All of The Turing Way community calls adhere to the project's [Code of Conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
+Writing alt text is all about context. 
+Being aware of how the image is presented and the context in which it sits will give any assistive technology user a better experience. 
+If you’re writing about an image of a painting, you might want to consider if the style of painting is important, does knowing the painter’s name add value? It’s up to you to decide what information is essential.
 
-## Access and inclusion-related support we provide for virtual events
+Here are a few things to keep in mind when writing alt text:
+* Alt text should be specific and not overly descriptive.
+* Good descriptions are concise, but describe what’s in your images accurately enough to understand their context – imagine you are describing a picture in a just 280 characters.
+* Stay clear of repetition.
+* Never start your alt text with ‘image of’ as this will be obvious to the user.
+* Include any essential text or data that’s part of the visual.
+* Images that already have a caption describing the image, may not need additional alt text.
+* Screen readers will pause and stop when you tell them to but, depending on user settings, might not annunciate exclamation or question marks.
+* Alt text is used by search engines too, so using alt text can help grow a brand’s visibility online.
 
-1. **Comfort breaks**: Virtual discussions can be turing! For calls like our coworking calls and Collaboration Cafes, these are built into the pomodoro working format, with a variety of optional and gently-enforced breaks to ensure. For our trainings, workshops and onboarding sessions, we make sure build in breaks on a context-specific basis.  
+**Source:** What’s the alternative? How to write good alt text - Design102. Retrieved from [Gov.uk blog Design102 Series](https://design102.blog.gov.uk/2022/01/14/whats-the-alternative-how-to-write-good-alt-text).
+For more information, please refer to [Images - Guidance - GOV.UK](https://www.gov.uk/guidance/content-design/images).
+::: 
 
-2. **Co-hosting**: Our workshops and trainings are generally co-hosted by default in order to ensure ease of facilitation for both, as well as provide support to answer additional questions, solve IT or interpersonal issues that may arise during the call. Coworking calls and Collaboration Cafes do not generally have two hosts, but are attended widely by community members that can help with any issues that may arise. 
+We provide an example of alt text in the section below.
 
-3. **Reference material**: Before each call, we aim to share slides, links and other reference materials to ensure that that the material can be referenced before or during the call. After each call. Many of our community materials and presentations are uploaded to our [Zenodo community page](https://zenodo.org/communities/the-turing-way/), and are licensed CC-BY for use by others. 
+(ch-style-figures-syntax)=
+## MyST syntax to add a figure to a _Turing Way_ chapter
 
-4. **Transcription**: Our calls are hosted on the Zoom platform, and as a community, we use the built-in zoom transcription feature. Due to IT limitations from our hosting organisation, we do not currently use any additional transcription support (such as Otter.ai), but hope to do so in the future.
+All our chapters are written in Markdown files.
+Therefore, using Markdown syntax to include a figure in a Markdown file will work fine, for example, `![](../../figures/file-collection.*)`, where the relative path of the image file is provided inside the round brackets '()'.
 
-5. **Recordings**: Community calls like the coworking call and collaboration cafes are not recorded by default, though the notes from each session are uploaded in our repository. Workshops and trainings may be recorded at the discresion of the organisers, and/or if participants request .  
+**However**, this formatting does not allow images to be responsive to screen sizes, making them inaccessible to read on small screens and smartphones.
+Furthermore, this doesn't allow authors to resize figures in their chapters or cross reference them somewhere else in the book.
 
-6. **Alternative forms of engagement**: At our community calls, we tend to encourage (but absolutely do not enforce!) a video-on culture at our community calls. However, we recognise that this may be both bandwidth-intensive as well as exclusory to those who would not like to engage in this way. At our trainings and workshops, we encourage folks to engage in the ways and mediums that they would like.
+Therefore, our recommendation is to use [Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/) (MyST) format available in Jupyter Book.
 
-7. 
+You can resize figures to adjust how they appear in our chapters using the parameters: `width` and `height` (takes value in px, for example, 400px) or `scale` (takes value in percentage, for example, 50%), especially if your original figure is large.
+Using the parameter: `name`, you can reference figures in other chapters in a similar manner as defined in {ref}`ch-style-crossref`.
 
-During our bi-annual 
+**The example figure we have use here can be explained with this alt text:**
+*Cartoon-like sketch of a woman looking through a big file drawer, where documents are arranged systematically indicated by versions. She is smiling and waving at her colleague who is standing next to the file drawer and seems to be checking if everything is ok - gesturing a thumbs-up.*
 
-## Support we would like to provide in the future
+All the components of your figure (image file location, size, name, alt text and title) can be encapsulated in a section within a markdown file using the following directive:
 
-Currently, we are not able to support the following
+````
+```{figure} ../../figures/file-collection.*
+---
+height: 500px
+name: file-collection
+alt: Cartoon-like sketch of a woman looking through a big file drawer, where documents are arranged systematically indicated by versions. She is smiling and waving at her colleague who is standing next to the file drawer and seems to be checking if everything is ok - gesturing a thumbs-up.
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+````
 
-1. **Multilingualism**: While we have previously hosted social sessions at our biannual Book Dash in Spanish, the vast amount of our trainings and community calls are hosted in English. We would love to support more calls in more languages in the future.
+When all these components are used correctly, a figure included in a file will be rendered in the online book like in this page:
 
-2. **Live transcription and/or translation**
+```{figure} ../../figures/file-collection.*
+---
+height: 500px
+name: file-collection
+alt: Cartoon-like sketch of a woman looking through a big file drawer, where documents are arranged systematically indicated by versions. She is smiling and waving at her colleague who is standing next to the file drawer and seems to be checking if everything is ok - gesturing a thumbs-up.
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
 
-3. 
+When an image cannot be loaded in a browser or the link to the image breaks, alt text is displayed in place of a figure as shown below:
+
+```{figure} ../../figures/alt-text-demo.*
+---
+name: alt-text-demo
+alt: This example shows when a wrong image path is used, the web browser can't access it and hence does not display correctly.
+---
+```
+
+**Please note that a height of 500px works very well with _The Turing Way_ book, but this is only a suggestion.**
+
+(ch-style-figures-caption)=
+## Caption
+
+Captions appear below the figure.
+They should be short and concise and include a reference to the source where they are taken from.
+In particular it is important to describe the licence under which the image is re-used.
+
+For example, a caption might say:
+
+> Making your first pull request on GitHub.
+> _The Turing Way_ project illustration by Scriberia.
+> Used under a CC-BY 4.0 licence.
+> DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+
+The syntax for this image is as follows, and the way it appears in the book is below the code snippet.
+
+````
+```{figure} ../../figures/first-pull-request.*
+---
+height: 400px
+name: first-pull-request
+alt: Cartoon-like sketch of two persons sitting across from each other working on their laptops. A straight arrow on the top indicates the main branch of the repository that they are working on, a pull request is shown by a branch coming out of the main arrow labelled as Clone, followed by a Pull Request with the changes that the first person made in the branch, and the final step labelled as Approved that indicates approval of the changes by the second person. This arrow then merges back to the main arrow/repository.
+---
+Making your first pull request on GitHub.
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+````
+
+```{figure} ../../figures/first-pull-request.*
+---
+height: 400px
+name: first-pull-request
+alt: Cartoon-like sketch of two persons sitting across from each other working on their laptops. A straight arrow on the top indicates the main branch of the repository that they are working on, a pull request is shown by a branch coming out of the main arrow labelled as Clone, followed by a Pull Request with the changes that the first person made in the branch, and the final step labelled as Approved that indicates approval of the changes by the second person. This arrow then merges back to the main arrow/repository.
+---
+Making your first pull request on GitHub.
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
+Please make sure that the link to the source is the {term}`digital object identifier <Digital Object Identifier>` not the Zenodo record.
+Also ensure that you have created a link to the source using markdown link formatting: `[text](url)`.
