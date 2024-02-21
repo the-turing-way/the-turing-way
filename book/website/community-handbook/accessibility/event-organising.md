@@ -1,7 +1,7 @@
 (ch-accessibility-events)=
 # Access-centered support for events
 
-The Turing Way hosts a variety of ongoing community calls throughout the year: virtual Collaboration Cafes, coworking calls, and onboarding sessions (which are being trialed in 2024). 
+The Turing Way hosts a variety of events throughout the year: virtual Collaboration Cafes, coworking calls, Book Dash events and onboarding sessions (which are being trialed in 2024). 
 
 All of The Turing Way community calls are hosted on either a remote-first and/or hybrid-basis. 
 
