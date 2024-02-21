@@ -764,6 +764,8 @@ parts:
             sections:
               - title: Event Organising
                 file: community-handbook/accessibility/event-organising
+              - title: Alt text
+                file: accessibility/accessibility/alt-text
           - title: Communication Platforms
             file: community-handbook/communication-channels
             sections:
