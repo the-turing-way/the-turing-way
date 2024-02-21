@@ -1466,6 +1466,25 @@ what it would cover.
 * More information:
 > I'm a fierce advocate for ethical and open research, and those beliefs tend to carry into everything I do. I previously worked on Brain-Computer Interfaces after finishing my undergrad at UC Berkeley where I saw the incredible work that can be done through collaborative, cross-disciplinary science. I'm now part of Open Life Science's second cohort learning how to implement the teachings of The Turing Way because when good science and good practice meet, great things can happen.
 
+### Susana Roman Garcia
+
+* Role:
+  * PhD student (2020-Present)
+  * Co-facilitator for TTW presentation at [Data Science Perspectives - Multidisciplinary PhD Conference (2023)](https://zenodo.org/records/7704563)
+  * Co-facilitator for Onboarding Calls for the Turing Way Project
+  * Part of the Book Dash Working Group
+  * Book Dash Participant (May 2023, November 2023)
+* GitHub id: [Susana465](https://github.com/Susana465)
+* ORCID: [0009-0004-6967-7754](https://orcid.org/0009-0004-6967-7754))
+
+* Short bio:
+> I am a PhD student at the University of Edinburgh, I was also an Enrichment student at the Alan Turing Institute for the 2022/2023 cohort. Reproducibility and bias in science are huge driving forces of how I work. I am currently finishing up my PhD which involves creating computer models of specific molecules involved in animal memory, and embedding ethics and reproducibility into the work that I do.
+
+* Personal highlights:
+> Writing and working together with many people to get the Data Hazards Chapter published.
+> Making a Pull Request for the Data Hazards chapter together with Ceilidh Welsh was defintely also a big highlight! 
+
+
 ### Susanna-Assunta Sansone
 
 * Role: 
