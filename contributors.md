@@ -497,9 +497,6 @@ I also hope that it can convince people who don't consider themselves capable of
 > Most of all starting to contribute to this wonderful project!
 
 
-* More information:
-> I am a big advocate of improving software quality. I am really glad that the eScience Center is collaborating with _The Turing Way_ in providing guidelines and helping build better research software.
-
 ### Christopher Erdmann
 * Role:
 * Handbook Collaborator and Contributor, SciLifeLab Representative
