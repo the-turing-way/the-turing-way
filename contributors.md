@@ -482,6 +482,24 @@ I also hope that it can convince people who don't consider themselves capable of
 * More information:
 > I am a big advocate of improving software quality. I am really glad that the eScience Center is collaborating with _The Turing Way_ in providing guidelines and helping build better research software.
 
+### Ceilidh Welsh
+
+* Role: Book Dash Participant (2023)
+* GitHub id: [CeilidhWelsh](https://github.com/CeilidhWelsh)
+* ORCID: [0000-0002-7332-7392](https://orcid.org/my-orcid?orcid=0000-0002-7332-7392)
+* Short bio:
+> Ceilidh is a PhD student in the Department of Oncology at the University of Cambridge, funded by Cancer Research UK RadNet. She investigates predictive biomarkers for radiotherapy response in head-and-neck cancer. She was awarded the Alan Turing Institute Enrichment Scheme Award for 2022/2023, where she explored her interests in data ethics, data reproducibility and community-led data science projects. 
+
+* Personal highlights:
+> Learning about the Turing Way project and how community-led science can produce and sustain projects that bring people together. 
+> Co-authoring the [Data Hazards Chapter]() with [Susana Roman Garcia](https://github.com/Susana465), [Natalie Zelenka](https://github.com/NatalieZelenka), Irma Hafidz and many more incredible people doing incredible things that helped us along the way!
+> Completing the Data Hazards Chapter, creating my first pull request *and* having it merged! All of which would not be possible without the support of Susana both during and outside the Book Dash(s).
+> Most of all starting to contribute to this wonderful project!
+
+
+* More information:
+> I am a big advocate of improving software quality. I am really glad that the eScience Center is collaborating with _The Turing Way_ in providing guidelines and helping build better research software.
+
 ### Christopher Erdmann
 * Role:
 * Handbook Collaborator and Contributor, SciLifeLab Representative
