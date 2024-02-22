@@ -4586,6 +4586,15 @@
         "eventOrganizing",
         "review"
       ]
+    },
+    {
+      "login": "emmyft",
+      "name": "Emmy Tsang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24935760?v=4",
+      "profile": "https://emmyft.github.io",
+      "contributions": [
+        "eventOrganizing"
+      ]
     }
   ],
   "projectName": "the-turing-way",
