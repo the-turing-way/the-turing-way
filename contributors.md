@@ -492,8 +492,8 @@ I also hope that it can convince people who don't consider themselves capable of
 
 * Personal highlights:
 > Learning about _The Turing Way_ project and how community-led science can produce and sustain projects that bring people together. 
-> Co-authoring the [Data Hazards Chapter]() with [Susana Roman Garcia](https://github.com/Susana465), [Natalie Zelenka](https://github.com/NatalieZelenka), Irma Hafidz and many more incredible people doing incredible things that helped us along the way!
-> Completing the Data Hazards Chapter, creating my first pull request *and* having it merged! All of which would not be possible without the support of Susana both during and outside the Book Dash(s).
+> Co-authoring the [Data Hazards Chapter]{ref}`er-datahazards` with [Susana Roman Garcia](https://github.com/Susana465), [Natalie Zelenka](https://github.com/NatalieZelenka), Irma Hafidz and many more incredible people doing incredible things that helped us along the way!
+> Completing the Data Hazards Chapter, creating my first pull request *and* having it merged! All of this would not be possible without the support of Susana both during and outside the Book Dash(s).
 > Most of all starting to contribute to this wonderful project!
 
 
