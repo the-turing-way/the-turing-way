@@ -155,7 +155,6 @@ You can also contact **Anne Lee Steele** ([asteele@turing.ac.uk](mailto:asteele@
 
 Connect with others and discuss your ideas on Slack using [this invitation link](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw).
 
-We also have a Gitter chat room (if you prefer an open source alternative for chat) and we'd love for you to swing by to say hello at <https://gitter.im/the-turing-way/the-turing-way>.
 The room is also accessible with a [Matrix](https://matrix.org) account at [#alan-turing-institute_the-turing-way:gitter.im](https://matrix.to/#/#alan-turing-institute_the-turing-way:gitter.im).
 
 #### Receive Updates
