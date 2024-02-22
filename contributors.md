@@ -1481,7 +1481,7 @@ what it would cover.
 > I am a PhD student at the University of Edinburgh, I was also an Enrichment student at the Alan Turing Institute for the 2022/2023 cohort. Reproducibility and bias in science are huge driving forces of how I work. I am currently finishing up my PhD which involves creating computer models of specific molecules involved in animal memory, and embedding ethics and reproducibility into the work that I do.
 
 * Personal highlights:
-> Writing and working together with many people to get the Data Hazards Chapter published.
+> Writing and working together with many people to get the {ref}`er-datahazards` Chapter published.
 > Making a Pull Request for the Data Hazards chapter together with Ceilidh Welsh was defintely also a big highlight! 
 
 
