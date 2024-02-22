@@ -15,14 +15,14 @@ Being aware of how the image is presented and the context in which it sits will 
 If you’re writing about an image of a painting, you might want to consider if the style of painting is important, does knowing the painter’s name add value? It’s up to you to decide what information is essential.
 
 Here are a few things to keep in mind when writing alt text:
-* Alt text should be specific and not overly descriptive.
-* Good descriptions are concise, but describe what’s in your images accurately enough to understand their context – imagine you are describing a picture in a just 280 characters.
+* Alt text should be specific and not overly descriptive. They should convey the main point of the image, such as why the image was included or what the author wants the reader to notice
+* While length should depend on the complexity of the content, good descriptions are concise, but describe what’s in your images accurately enough to understand their context and content.
 * Stay clear of repetition.
 * Never start your alt text with ‘image of’ as this will be obvious to the user.
 * Include any essential text or data that’s part of the visual.
 * Images that already have a caption describing the image, may not need additional alt text.
 * Screen readers will pause and stop when you tell them to but, depending on user settings, might not annunciate exclamation or question marks.
-* Alt text is used by search engines too, so using alt text can help grow a brand’s visibility online.
+* While accessibility practices do not need to be justified, it is good to note that Alt text is also used by search engines too, so using alt text may help grow a brand’s visibility online as well as enable greater accessibility.
 
 **Source:** What’s the alternative? How to write good alt text - Design102. Retrieved from [Gov.uk blog Design102 Series](https://design102.blog.gov.uk/2022/01/14/whats-the-alternative-how-to-write-good-alt-text).
 For more information, please refer to [Images - Guidance - GOV.UK](https://www.gov.uk/guidance/content-design/images).
