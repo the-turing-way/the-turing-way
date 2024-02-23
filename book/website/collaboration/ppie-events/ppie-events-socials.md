@@ -1,15 +1,15 @@
 (cl-ppie-events-social-and-networking-guide)=
 # Inclusive Social and Networking Events
-Social events, dinners, and even standing in the lines for coffee can be some of the best times for attendees to get to know one another, identify potential collaborators, and spark ideas.
+Social events, dinners, and even standing in lines for coffee can be some of the best times for attendees to get to know one another, identify potential collaborators, and spark ideas.
 
 As an organizer, you should consider how to make these serendipitous opportunities for networking and socializing as accessible as possible for people with lived experience who are attending your event.
 
-Depending on the size and format of your event, this may look like structured networking sessions, a social dinner, or a 15 minute social break at the start or middle of your event. 
+Depending on the size and format of your event, this may look like structured networking sessions, a social dinner, or a 15-minute social break at the start or middle of your event. 
 
 Please consider some of the suggestions below, and ensure that you take the time to consider and address any barriers that your specific attendees may face in joining social settings.
 
 (cl-ppie-events-social-events-timing)=
-## Choosing a Time for Networking 
+## Choosing a Time for Networking  
 Ideally, at least one networking or social event will take place during the main event's program. 
 
 Social and networking sessions are key elements of conferences and other knowledge-sharing events. 
@@ -21,7 +21,7 @@ However, networking sessions often take place at the end of the day which can le
 Consider hosting a social breakfast or networking session before lunch for all attendees. 
 This can provide an opportunity for people to meet one another and join discussions before the formal start of your event. 
 
-Additionally, for events taking place in-person, consider hosting in-person networking events **before** a sit-down lunch or meal. This will both help people with anxiety who may feel uncomfortable and unsure of where to sit and eat lunch, and can also act as an ice breaker to faciliatte conversation between researchers and attendees with lived experience. 
+Additionally, for events taking place in person, consider hosting in-person networking events **before** a sit-down lunch or meal. This will both help people with anxiety who may feel uncomfortable and unsure of where to sit and eat lunch, and can also act as an ice breaker to facilitate conversation between researchers and attendees with lived experience. 
 Hosting a social session before sit-down meals can help these attendees connect with other people and identify who to sit with during the meal. 
 
 
@@ -29,13 +29,13 @@ Hosting a social session before sit-down meals can help these attendees connect 
 ## Identification and Name Tags
 If your event includes name tags or badges, ensure that you ask attendees for their preferred name, and display the name they provide. 
 
-Consider including pronouns on attendees' badges to support attendees being gendered appropriately, and make organizers and other event staff's badges be clearly identifiable and differentiated from attendees badges.
-It is important to clearly identify organizers and people who are able to help as part of supporting all atendees. 
-For example, knowing a season moderator or who to ask questions to during a session, or for directions around an in-person venue. 
+Consider including pronouns on attendees' badges to support attendees being gendered appropriately, and make organizers and other event staff's badges be clearly identifiable and differentiated from attendees' badges.
+It is important to clearly identify organizers and people who are able to help as part of supporting all attendees. 
+For example, knowing a session moderator or who to ask questions to during a session, or for directions around an in-person venue. 
 
 For online events, consider adding your role and a common identifier to your name in Zoom and having organizers share a virtual background. 
 
-For in person events, you may want to consider using lanyards to display name tags or badges. 
+For in-person events, you may want to consider using lanyards to display name tags or badges. 
 
 Many clip-on name tags assume that people have a pocket on the front of their shirts or jackets, however, many blouses, dresses, or shirts designed for women do not provide these pockets and therefore will not be able to easily display the name badge. 
 Clip-on badges can also be difficult for people with fine motor disabilities or an impairment that would restrict their ability to pin the clip onto their shirts. 
@@ -68,11 +68,11 @@ Although most social events are traditionally unstructured to allow for emergent
 ### Setting Expectations
 In addition to information about the format that your social or networking event will have, consider including clear and explicit instructions about what engagement would be suitable and appropriate for your social activities.
 
-This may be the first research focused event for many of your attendees, and it can be helpful to surface many of the implicit social normals and practices of research events.
+This may be the first research-focused event for many of your attendees, and it can be helpful to surface many of the implicit social norms and practices of research events.
 
 For example, poster sessions at research events are often considered to involve short interactions between a researcher and a group of people. 
 At a poster session, an early career researcher may have the opportunity to share and explain their research project. 
-These sessions would not be the best forum for public discourse about an attendee's lived experience or for criticizing the purpose of work that is being presented.
+These sessions would not be the best forum for public discourse about an attendee's lived experience or for criticizing the purpose of the work that is being presented.
 Instead, poster sessions may be useful to make introductions with other attendees who are interested in a particular topic, and are an opportunity to learn about the research that has been conducted by asking questions about the research that person is presenting on their poster.
 
 Depending on the audience, your guide may need to be more or less detailed.
