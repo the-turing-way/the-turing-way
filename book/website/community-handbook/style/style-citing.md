@@ -25,7 +25,7 @@ You can edit reference file locally using a method from the following:
 - Edit [`references.bib`][turingbib] directly using a text editor
 - Edit [`references.bib`][turingbib] directly using a managing program such as [JabRef](http://www.jabref.org/) (Linux, Windows, macOS) or [BibDesk](https://bibdesk.sourceforge.io/) (macOS)
 
-We use a standard bibtex format to add a new entry.
+We use a standard BibTeX format to add a new entry.
 For example, there is an entry in the [`references.bib`][turingbib] file as:
 
 ```

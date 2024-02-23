@@ -62,4 +62,4 @@ However, the CoC committee is not required to act on this feedback.
 
 ## 4.5 Conflicts of Interest
 
-If the report is about someone is the committee, please send the report to the other individuals on the committee.
+If the report is about someone on the committee, please send the report to the other individuals on the committee.

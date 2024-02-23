@@ -26,9 +26,9 @@ Been here before? Already know what you're looking for in this guide? Jump to th
   - [Issue labels](#issue-labels)
 - [Making a change with a pull request](#making-a-change-with-a-pull-request)
   - [1. Comment on an existing issue or open a new issue referencing your addition](#1-comment-on-an-existing-issue-or-open-a-new-issue-referencing-your-addition)
-  - [2. Fork _The Turing Way_ repository to your profile](#2-forkgithub-fork-the-turing-way-repositoryturing-way-repo-to-your-profile)
+  - [2. Fork _The Turing Way_ repository to your profile](#2-fork-the-turing-way-repository)
   - [3. Make the changes you've discussed](#3-make-the-changes-youve-discussed)
-  - [4. Submit a pull request](#4-submit-a-pull-requestgithub-pullrequest)
+  - [4. Submit a pull request](#4-submit-a-pull-request)
 - [The process of writing chapters](#the-process-of-writing-chapters)
 - [Style Guide](#style-guide)
 - [Representing _The Turing Way_](#representing-the-turing-way)
@@ -105,13 +105,12 @@ For example, you could write words as **bold** (`**bold**`), or in _italics_ (`_
 Also when writing in Markdown, please [start each new sentence on a new line](https://the-turing-way.netlify.app/community-handbook/style.html#write-each-sentence-in-a-new-line-line-breaks).
 Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it makes the [diffs produced during the pull request](https://help.github.com/en/articles/about-comparing-branches-in-pull-requests) review easier to read! :sparkles:
 
-
 ## Where to start: issues
 
 Before you open a new issue, please check if any of our [open issues](https://github.com/the-turing-way/the-turing-way/issues) cover your idea already.
 If you open a new issue, please follow our basic guidelines laid out in our [issue templates](https://github.com/the-turing-way/the-turing-way/issues/new/choose).
 There are 3 issues templates to choose from.:
-1. New Chapter Template ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&template=CHAPTER_ISSUE_TEMPLATE.md)):  This issue is a place to discuss matters relating to writing a new chapter on a new topic or adding a subchapter in an already existing chapter.
+1. New Chapter Template ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&labels=book&projects=&template=new_chapter.yml&title=%5BNEW+CHAPTER%5D+-+%3CTOPIC%3E)):  This issue is a place to discuss matters relating to writing a new chapter on a new topic or adding a subchapter in an already existing chapter.
 2. General ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&template=ISSUE_TEMPLATE.md)):  Use this template for a general issue related to the book, community, process or ideas.
 3. Bug Report ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D)): With this template, create an issue report that can help others repair something that is currently broken.
 This can be used for reporting errors like typos and broken links.
@@ -325,12 +324,12 @@ GitHub has a [nice introduction][github-flow] to the pull request workflow, but 
 - Edit the chapter for style.
 - Once the first draft of the chapter is complete change [WIP] in the pull request title to [Ready for review].
 - Add a comment on the pull request indicating that this chapter is ready for high-level review, i.e discussion of changes of the scale of a paragraph or larger such as adding material and restructuring sections.
-- Discuss and make these high-level changes on this pull request. Once this is complete merge the chapter into The Alan Turing Intitute's version of the chapter branch.
-- Make another pull request from your fork's version of the branch to The Alan Turing Institute's version of the branch. Title this "[Ready for review] Chapter_name chapter- low-level reviews".
+- Discuss and make these high-level changes on this pull request. Once this is complete merge the chapter into The _The Turing Way_'s version of the chapter branch.
+- Make another pull request from your fork's version of the branch to _The Turing Way_'s version of the branch. Title this "[Ready for review] Chapter_name chapter- low-level reviews".
 - Discuss and make low-level changes to the chapter on this pull request, such as rewording sentences, typos and the like.
 - This division of the pull requests into high and low-level changes stops discussion threads from becoming unmanageable.
-- Once this is complete merge the pull request into The Alan Turing Intitute's version of the chapter branch.
-- Merge The Alan Turing Intitute's version of the chapter branch into The Alan Turing Institute's main branch.
+- Once this is complete merge the pull request into _The Turing Way_'s version of the chapter branch.
+- Merge _The Turing Way_'s version of the chapter branch into _The Turing Way_'s main branch.
 - DO not delete the branch as the chapter may continue to undergo improvement and development in the future.
 
 ## Local development

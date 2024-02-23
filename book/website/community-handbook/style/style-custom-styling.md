@@ -60,7 +60,7 @@ Before writing any CSS, inspect the book's HTML source code first.
 This gives you an idea of what elements to target, and may help you figure out how to structure your CSS rules.
 
 All web browsers allow you to view the source code of websites easily.
-On computers running the Windows OS, this is done using `CTRL + U`.
+On computers running the Windows OS or Linux, this is done using `CTRL + U`.
 For computers running Mac OS, this is done using `Option + Command + U`.
 
 Once you have determined the element(s) you want to modify, write your CSS in _The Turing Way's_ [stylesheet file](https://github.com/the-turing-way/the-turing-way/blob/main/book/website/_static/book-stylesheet.css).
