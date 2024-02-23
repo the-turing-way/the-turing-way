@@ -82,9 +82,9 @@ Video conferencing platforms such as Zoom or Google meet also have captions.
 
 Read more in this chapter: {ref}`cm-social-media`.
 
-* [Tweetdeck](https://tweetdeck.twitter.com/)
+* [X Pro (formerly Tweetdeck)](https://help.twitter.com/en/using-x/how-to-use-x-pro)
 * [Buffer](https://buffer.com/)
-* This is a good [guide to getting set up on Twitter](https://www.wired.com/story/how-to-setup-twitter-search-hashtag-and-login-help/).
+* This is a good [guide to getting set up on X (formerly Twitter)](https://www.wired.com/story/how-to-setup-twitter-search-hashtag-and-login-help/).
 * [Ten simple rules to getting started on Twitter as a scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007513)
 * [Ten simple rules of live-tweeting at scientific conferences](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003789)
 * [How to use Twitter to further your research career](https://www.nature.com/articles/d41586-019-00535-w)
