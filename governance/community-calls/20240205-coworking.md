@@ -2,8 +2,8 @@
 
 ## Attendees
 
-* Batool Almarzouq
-* Emma Karoune
+* Batool
+* Emma
 * Gabin
 * Ale
 * Bastian
