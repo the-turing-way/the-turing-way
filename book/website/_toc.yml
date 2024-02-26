@@ -825,6 +825,11 @@ parts:
                 file: community-handbook/fireside-chat/fireside-chat-roles
           - title: Giving a Turing Way Talk
             file: community-handbook/presenting
+          - title: Audits
+            file: community-handbook/audits
+            sections:
+              - title: Platform Audits
+                file: community-handbook/audits/audits-platform
           - title: Template Collection
             file: community-handbook/templates
             sections:
