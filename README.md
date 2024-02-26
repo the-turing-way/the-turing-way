@@ -794,6 +794,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
+Contributions of any kind welcome!
+
 ## CROWDIN CONTRIBUTORS
 <!-- CROWDIN-CONTRIBUTORS-LIST:START -->
 <table>
@@ -1135,8 +1138,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
 </table><a href="https://turingway.crowdin.com/turing-way" target="_blank">Translate in Crowdin 🚀</a>
 <!-- CROWDIN-CONTRIBUTORS-LIST:END -->
-
-
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
-Contributions of any kind welcome!
