@@ -7,6 +7,7 @@
 * Gabin
 * Bastian
 * Esther
+* Kirstie
 
 ## Topics/Rooms
 
