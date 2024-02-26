@@ -21,7 +21,7 @@
     * It is difficult to know how much to gloss over in terms of accessibility suggestions.
     * Lots of rephrasing and wording tweaks!
 * Main Room
-    * - Introduce people to core infrastructure: pads, and 
+    * Introduce people to core infrastructure: pads, and 
     * - Format: The Turing Way, Github, Turing projects, Next stepped
     * - Onboarding: send people out into breakout rooms from the beginning 
     *  - ask people what do they want to know/get involved with TTW, if they have anything in mind?
