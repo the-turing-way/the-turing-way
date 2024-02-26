@@ -135,13 +135,9 @@ If you like one of the topics that are already suggested, please add your name n
 
 Link list✨ 
 
-    https://carpentries.github.io/instructor-training/02-practice-learning.html#building-a-mental-model
-
-    https://johnnydecimal.com/
-
-    Jonny decimal system
-
-    Draw.io?
+- https://carpentries.github.io/instructor-training/02-practice-learning.html#building-a-mental-model
+- Jonny decimal system: https://johnnydecimal.com
+- Draw.io: https://app.diagrams.net
 
      
 
