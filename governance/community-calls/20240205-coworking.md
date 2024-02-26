@@ -56,7 +56,7 @@
         * Stickers: Limited edition stickers
     * Loop in Book Dash committee
 * **GSoC idea 1: Prototype website: **
-        * who is maintaining this in the long term and keep it usable
+    * who is maintaining this in the long term and keep it usable
     * Why website and not a book:
         * Archiving old events 
         * Listing projects
