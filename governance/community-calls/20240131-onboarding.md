@@ -9,7 +9,7 @@
 * Lynn 
 * Ceilidh
 * Richard
-* Thijs van der Plas
+* Thijs
 * Ale 
 * Danny
 * Cari
