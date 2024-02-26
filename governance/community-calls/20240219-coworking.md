@@ -14,7 +14,7 @@
 * Skills policy award
 * Quiet co-working
 * Project management course feedback
-*  Book Dash WG things
+* Book Dash WG things
 
 ## Notes
 
