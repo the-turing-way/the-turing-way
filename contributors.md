@@ -1591,7 +1591,7 @@ what it would cover.
 
 **Personal highlights:**
 > It was  such a great opportunity to participate in the 2022 BookDash.
-> It was also a great o fantastic and  exciting experience for me to further my understanding of  GitHub, and  participate in and contribute my first chapter of data curation in the Research Data Management book. 
+> It was also a great, fantastic and exciting experience for me to further my understanding of GitHub, and  participate in and contribute my first chapter of data curation in the Research Data Management book. 
 > With more practice and contribution I will become proficient with GitHub and I hope to adopt it for my institution for collaborative purposes.  
 > I enjoyed working with fellow participants and the amazing Turing Team to successfully have my first chapter.
 > The 2022 Book Dash was such a fantastic amazing experience and look forward to continue contributing.   
