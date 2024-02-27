@@ -864,15 +864,22 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 ### Jim Madge
 
 * Role:
- * Infrastructure Co-lead (2023-present)
+ * Core Member, Infrastructure Co-lead (2023-present)
  * Book Dash Participant (2022-2023)
 * GitHub id: [JimMadge](https://github.com/JimMadge)
+* Mastodon: [@JimMadge@fosstodon.org](https://fosstodon.org/@JimMadge)
+* Website: [blog.jmadge.com](https://blog.jmadge.com)
 
 * Short bio:
-> Jim is a Senior Research Software Engineer at the Turing. He studied in Durham for his PhD where he used Metropolis Monte Carlo simulations to explore a generic model for patchy, colloidal building blocks and optimise their design for self-assembly.
-> Before joining the Turing, Jim worked at STFC's Daresbury Laboratory as a developer of the DL_POLY molecular dynamics software.
-> At the Turing Jim is eager to promote open-source and good software development practices.
-> He has a particular interest in high-performance computing, infrastructure automation, and configuration management.
+> I'm a senior research software engineer at The Alan Turing Institute.
+> I studied Chemistry at Durham University for my masters and PhD.
+> I've been passionate about Linux and FOSS since being introduced to both in computational chemistry courses.
+> In my work (and free time) I like to think about high performance computing, infrastructure, configuration management and automation.
+> On the Infrastructure Working Group, I help to manage and explain the technology that makes _The Turing Way_ work.
+
+* Personal highlights:
+> Being asked to join/found/co-lead the Infrastructure Working Group.
+> It is great to know that your skills and thoughts are valued 🥹.
 
 ### José María Fernández
 
