@@ -1,5 +1,5 @@
-(ch-community-calls-governance-forum)=
-# Open Governance Forum
+(ch-community-calls-quarterly)=
+# Quarterly Community Call
 
 Starting in 2024, The Turing Way delivery team is hosting public community calls that bring together different stakeholders, community members and leaders from across the project.
 
