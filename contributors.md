@@ -1304,7 +1304,7 @@ what it would cover.
 > My contributions to revising the chapter on licensing and adding a new subchapter on electronic lab notebooks.
 
 * More information:
-> I take a particular interest in data provenance and reproducible computational analysis as components of wider reforms needed to the academic 'knowledge production' workflow and avocate for the increased use of literate programing tools, and linked data in the research publication workflow.
+> I take a particular interest in data provenance and reproducible computational analysis as components of wider reforms needed to the academic 'knowledge production' workflow and advocate for the increased use of literate programing tools, and linked data in the research publication workflow.
 > My primary research interest was the biology of aging and longevity but after experiencing working in conventional academic roles was very unsatisfied with the way science is practiced and think my time is more usefully spent in roles where I can avocate for process reforms. 
 > I first learned to program in perl, but am now more proficient in R, I've been daily driving a Linux desktop for years now most recently NixOS.
 
