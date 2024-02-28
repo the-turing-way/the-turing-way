@@ -872,7 +872,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 * Short bio:
 > I'm a senior research software engineer at The Alan Turing Institute.
-> I studied Chemistry at Durham University for my masters and PhD.
+> I studied chemistry at Durham University for my master's and PhD.
 > I've been passionate about Linux and FOSS since being introduced to both in computational chemistry courses.
 > In my work (and free time) I like to think about high performance computing, infrastructure, configuration management and automation.
 > On the Infrastructure Working Group, I help to manage and explain the technology that makes _The Turing Way_ work.
