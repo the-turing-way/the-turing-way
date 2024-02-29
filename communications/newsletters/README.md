@@ -19,7 +19,7 @@ In this repository, we store the newsletter drafts in markdown format and we rec
 | August | - | - | - |
 | September | - | - | - |
 | October | - | - | - |
-| November | - | - | - |
+| November | 2023-12-08 | - | - |
 | December | - | - | - |
 
 ## 2022
