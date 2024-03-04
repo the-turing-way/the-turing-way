@@ -12,6 +12,11 @@ format: jb-book
 root: index
 parts:
   - chapters:
+      # ===== Foreword Section ========================================
+      - file: foreword/foreword
+        sections:
+          - title: History
+            file: foreword/history
       # ===== Guide for Reproducible Research ========================================
       - file: reproducible-research/reproducible-research
         sections:
