@@ -82,6 +82,9 @@ The book chapters themselves serve as a form of asynchronous communication, prov
 Community members can refer to these chapters at their convenience for onboarding, reference and self-paced learning.
 These ultimately serve as an important pathway for the community members to identify where they would like to get involved.
 
+_The Turing Way_ members document the practices they use within the project and our community activities, which are shared in the {ref}`Community Handbook<ch>`
+Templates and resources are shared to help with future community-building efforts within and beyond _The Turing Way_.
+
 In the subchapters linked to this chapter, we will compile the processes and practices guiding communication across different platforms. 
 By doing so, we provide a reference point for community members to identify the right channels they would like to follow and other projects looking to establish effective communication strategies within their own communities. 
 
