@@ -7,8 +7,8 @@ Adding alt texts to figures is one of the first principles of web accessibility 
 
 If an image link breaks, alt texts are still functional and read as intended by the assistive technology.
 
-:::{tip}
-**Apply best practices for describing an image in an alt text.**
+
+## Best practices for describing an image in an alt text
 
 Writing alt text is all about context. 
 Being aware of how the image is presented and the context in which it sits will give any assistive technology user a better experience. 
@@ -19,25 +19,24 @@ Here are a few things to keep in mind when writing alt text:
 * While length should depend on the complexity of the content, good descriptions are concise, but describe what’s in your images accurately enough to understand their context and content.
 * Stay clear of repetition.
 * Never start your alt text with ‘image of’ as this will be obvious to the user.
-* Include any essential text or data that’s part of the visual.
+* Include any essential text or data that is part of the visual.
 * Images that already have a caption describing the image, may not need additional alt text.
 * Screen readers will pause and stop when you tell them to but, depending on user settings, might not annunciate exclamation or question marks.
 * While accessibility practices do not need to be justified, it is good to note that Alt text is also used by search engines too, so using alt text may help grow a brand’s visibility online as well as enable greater accessibility.
 
 **Source:** What’s the alternative? How to write good alt text - Design102. Retrieved from [Gov.uk blog Design102 Series](https://design102.blog.gov.uk/2022/01/14/whats-the-alternative-how-to-write-good-alt-text).
 For more information, please refer to [Images - Guidance - GOV.UK](https://www.gov.uk/guidance/content-design/images).
-::: 
 
 We provide an example of alt text in the section below.
 
 (ch-style-figures-syntax)=
-## MyST syntax to add a figure to a _Turing Way_ chapter
+## Using MyST syntax to add a figure to a _Turing Way_ chapter
 
 All our chapters are written in Markdown files.
 Therefore, using Markdown syntax to include a figure in a Markdown file will work fine, for example, `![](../../figures/file-collection.*)`, where the relative path of the image file is provided inside the round brackets '()'.
 
 **However**, this formatting does not allow images to be responsive to screen sizes, making them inaccessible to read on small screens and smartphones.
-Furthermore, this doesn't allow authors to resize figures in their chapters or cross reference them somewhere else in the book.
+Furthermore, this doesn't allow authors to resize figures in their chapters or cross-reference them somewhere else in the book.
 
 Therefore, our recommendation is to use [Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/) (MyST) format available in Jupyter Book.
 
@@ -83,7 +82,7 @@ alt: This example shows when a wrong image path is used, the web browser can't a
 **Please note that a height of 500px works very well with _The Turing Way_ book, but this is only a suggestion.**
 
 (ch-style-figures-caption)=
-## Caption
+## Captions
 
 Captions appear below the figure.
 They should be short and concise and include a reference to the source where they are taken from.
