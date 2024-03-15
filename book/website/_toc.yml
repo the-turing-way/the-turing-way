@@ -774,6 +774,8 @@ parts:
                 file: community-handbook/infrastructure/infrastructure-contributors
               - title: External Link Checking
                 file: community-handbook/infrastructure/infrastructure-external-link-check
+              - title: DNS
+                file: community-handbook/infrastructure/infrastructure-dns
           - title: Accessibility
             file: community-handbook/accessibility
             sections:
