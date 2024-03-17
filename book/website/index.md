@@ -72,7 +72,7 @@ We value the participation of every member of our community and want to ensure t
 Accordingly, everyone who participates in _The Turing Way_ project is expected to show respect and courtesy to other community members at all times.
 All contributions must abide by our [code of conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
 
-<video>
+<video controls loop autoplay muted>
   <source src="_static/videos/contributors.mp4" type="video/mp4">
   <p>Video showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table.</p>
 </video>
