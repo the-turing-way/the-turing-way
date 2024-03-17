@@ -29,7 +29,7 @@ For more information, please refer to [Images - Guidance - GOV.UK](https://www.g
 
 We provide an example of alt text in the section below.
 
-(ch-style-figures-syntax)=
+(ch-accessibility-alttext-syntax)=
 ## Using MyST syntax to add a figure to a _Turing Way_ chapter
 
 All our chapters are written in Markdown files.
@@ -81,7 +81,7 @@ alt: This example shows when a wrong image path is used, the web browser can't a
 
 **Please note that a height of 500px works very well with _The Turing Way_ book, but this is only a suggestion.**
 
-(ch-style-figures-caption)=
+(ch-accessibility-alttext-caption)=
 ## Captions
 
 Captions appear below the figure.
@@ -112,7 +112,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 ```{figure} ../../figures/first-pull-request.*
 ---
 height: 400px
-name: first-pull-request
+name: first-pull-request-demo
 alt: Cartoon-like sketch of two persons sitting across from each other working on their laptops. A straight arrow on the top indicates the main branch of the repository that they are working on, a pull request is shown by a branch coming out of the main arrow labelled as Clone, followed by a Pull Request with the changes that the first person made in the branch, and the final step labelled as Approved that indicates approval of the changes by the second person. This arrow then merges back to the main arrow/repository.
 ---
 Making your first pull request on GitHub.
