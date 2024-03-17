@@ -2644,7 +2644,8 @@
         "content",
         "translation",
         "review",
-        "ideas"
+        "ideas",
+        "eventOrganizing"
       ]
     },
     {
@@ -4574,6 +4575,25 @@
       "profile": "http://richarddushime.netlify.app/",
       "contributions": [
         "content"
+      ]
+    },
+    {
+      "login": "gedankenstuecke",
+      "name": "Bastian Greshake Tzovaras",
+      "avatar_url": "https://avatars.githubusercontent.com/u/674899?v=4",
+      "profile": "https://tzovar.as",
+      "contributions": [
+        "eventOrganizing",
+        "review"
+      ]
+    },
+    {
+      "login": "emmyft",
+      "name": "Emmy Tsang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24935760?v=4",
+      "profile": "https://emmyft.github.io",
+      "contributions": [
+        "eventOrganizing"
       ]
     }
   ],
