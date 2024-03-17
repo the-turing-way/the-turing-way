@@ -864,15 +864,22 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 ### Jim Madge
 
 * Role:
- * Infrastructure Co-lead (2023-present)
+ * Core Member, Infrastructure Co-lead (2023-present)
  * Book Dash Participant (2022-2023)
 * GitHub id: [JimMadge](https://github.com/JimMadge)
+* Mastodon: [@JimMadge@fosstodon.org](https://fosstodon.org/@JimMadge)
+* Website: [blog.jmadge.com](https://blog.jmadge.com)
 
 * Short bio:
-> Jim is a Senior Research Software Engineer at the Turing. He studied in Durham for his PhD where he used Metropolis Monte Carlo simulations to explore a generic model for patchy, colloidal building blocks and optimise their design for self-assembly.
-> Before joining the Turing, Jim worked at STFC's Daresbury Laboratory as a developer of the DL_POLY molecular dynamics software.
-> At the Turing Jim is eager to promote open-source and good software development practices.
-> He has a particular interest in high-performance computing, infrastructure automation, and configuration management.
+> I'm a senior research software engineer at The Alan Turing Institute.
+> I studied chemistry at Durham University for my master's and PhD.
+> I've been passionate about Linux and FOSS since being introduced to both in computational chemistry courses.
+> In my work (and free time) I like to think about high performance computing, infrastructure, configuration management and automation.
+> On the Infrastructure Working Group, I help to manage and explain the technology that makes _The Turing Way_ work.
+
+* Personal highlights:
+> Being asked to join/found/co-lead the Infrastructure Working Group.
+> It is great to know that your skills and thoughts are valued 🥹.
 
 ### José María Fernández
 
@@ -1285,6 +1292,28 @@ what it would cover.
 
 <!---R-->
 ## R
+
+### Richard J. Acton
+
+* Role:
+  * Human Developmental Biology Initiative (HDBI) - Data Outputs Manager
+  * Book Dash 2023 Participant
+
+* GitHub id: [RichardJActon](https://github.com/RichardJActon)
+* ORCID: [0000-0002-2574-9611](https://orcid.org/0000-0002-2574-9611)
+* Short Bio:
+> I am a biologist and bioinformatician by background with an interest in the biology of aging.
+> I am an avocate of free/libre and open source software, privacy rights, open science, and reform both in academic publishing and 'intellectual property' law.
+> In my spare time I enjoy speculative fiction.
+
+* Personal highlights:
+> Meeting and conversing with community members in the collab cafes.
+> My contributions to revising the chapter on licensing and adding a new subchapter on electronic lab notebooks.
+
+* More information:
+> I take a particular interest in data provenance and reproducible computational analysis as components of wider reforms needed to the academic 'knowledge production' workflow and advocate for the increased use of literate programing tools, and linked data in the research publication workflow.
+> My primary research interest was the biology of aging and longevity but after experiencing working in conventional academic roles was very unsatisfied with the way science is practiced and think my time is more usefully spent in roles where I can advocate for process reforms. 
+> I first learned to program in perl, but am now more proficient in R, I've been daily driving a Linux desktop for years now most recently NixOS.
 
 ### Richie Moluno
 
