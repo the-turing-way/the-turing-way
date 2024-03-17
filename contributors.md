@@ -482,6 +482,21 @@ I also hope that it can convince people who don't consider themselves capable of
 * More information:
 > I am a big advocate of improving software quality. I am really glad that the eScience Center is collaborating with _The Turing Way_ in providing guidelines and helping build better research software.
 
+### Ceilidh Welsh
+
+* Role: Book Dash Participant (2023)
+* GitHub id: [CeilidhWelsh](https://github.com/CeilidhWelsh)
+* ORCID: [0000-0002-7332-7392](https://orcid.org/my-orcid?orcid=0000-0002-7332-7392)
+* Short bio:
+> Ceilidh is a PhD student in the Department of Oncology at the University of Cambridge, funded by Cancer Research UK RadNet. She investigates predictive biomarkers for radiotherapy response in head-and-neck cancer. She was awarded the Alan Turing Institute Enrichment Scheme Award for 2022/2023, where she explored her interests in data ethics, data reproducibility and community-led data science projects. 
+
+* Personal highlights:
+> Learning about _The Turing Way_ project and how community-led science can produce and sustain projects that bring people together. 
+> Co-authoring the [Data Hazards Chapter]{ref}`er-datahazards` with [Susana Roman Garcia](https://github.com/Susana465), [Natalie Zelenka](https://github.com/NatalieZelenka), Irma Hafidz and many more incredible people doing incredible things that helped us along the way!
+> Completing the Data Hazards Chapter, creating my first pull request *and* having it merged! All of this would not be possible without the support of Susana both during and outside the Book Dash(s).
+> Most of all starting to contribute to this wonderful project!
+
+
 ### Christopher Erdmann
 * Role:
 * Handbook Collaborator and Contributor, SciLifeLab Representative
@@ -849,15 +864,22 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 ### Jim Madge
 
 * Role:
- * Infrastructure Co-lead (2023-present)
+ * Core Member, Infrastructure Co-lead (2023-present)
  * Book Dash Participant (2022-2023)
 * GitHub id: [JimMadge](https://github.com/JimMadge)
+* Mastodon: [@JimMadge@fosstodon.org](https://fosstodon.org/@JimMadge)
+* Website: [blog.jmadge.com](https://blog.jmadge.com)
 
 * Short bio:
-> Jim is a Senior Research Software Engineer at the Turing. He studied in Durham for his PhD where he used Metropolis Monte Carlo simulations to explore a generic model for patchy, colloidal building blocks and optimise their design for self-assembly.
-> Before joining the Turing, Jim worked at STFC's Daresbury Laboratory as a developer of the DL_POLY molecular dynamics software.
-> At the Turing Jim is eager to promote open-source and good software development practices.
-> He has a particular interest in high-performance computing, infrastructure automation, and configuration management.
+> I'm a senior research software engineer at The Alan Turing Institute.
+> I studied chemistry at Durham University for my master's and PhD.
+> I've been passionate about Linux and FOSS since being introduced to both in computational chemistry courses.
+> In my work (and free time) I like to think about high performance computing, infrastructure, configuration management and automation.
+> On the Infrastructure Working Group, I help to manage and explain the technology that makes _The Turing Way_ work.
+
+* Personal highlights:
+> Being asked to join/found/co-lead the Infrastructure Working Group.
+> It is great to know that your skills and thoughts are valued 🥹.
 
 ### José María Fernández
 
@@ -1271,6 +1293,28 @@ what it would cover.
 <!---R-->
 ## R
 
+### Richard J. Acton
+
+* Role:
+  * Human Developmental Biology Initiative (HDBI) - Data Outputs Manager
+  * Book Dash 2023 Participant
+
+* GitHub id: [RichardJActon](https://github.com/RichardJActon)
+* ORCID: [0000-0002-2574-9611](https://orcid.org/0000-0002-2574-9611)
+* Short Bio:
+> I am a biologist and bioinformatician by background with an interest in the biology of aging.
+> I am an avocate of free/libre and open source software, privacy rights, open science, and reform both in academic publishing and 'intellectual property' law.
+> In my spare time I enjoy speculative fiction.
+
+* Personal highlights:
+> Meeting and conversing with community members in the collab cafes.
+> My contributions to revising the chapter on licensing and adding a new subchapter on electronic lab notebooks.
+
+* More information:
+> I take a particular interest in data provenance and reproducible computational analysis as components of wider reforms needed to the academic 'knowledge production' workflow and advocate for the increased use of literate programing tools, and linked data in the research publication workflow.
+> My primary research interest was the biology of aging and longevity but after experiencing working in conventional academic roles was very unsatisfied with the way science is practiced and think my time is more usefully spent in roles where I can advocate for process reforms. 
+> I first learned to program in perl, but am now more proficient in R, I've been daily driving a Linux desktop for years now most recently NixOS.
+
 ### Richie Moluno
 
 * Role: 
@@ -1465,6 +1509,25 @@ what it would cover.
 
 * More information:
 > I'm a fierce advocate for ethical and open research, and those beliefs tend to carry into everything I do. I previously worked on Brain-Computer Interfaces after finishing my undergrad at UC Berkeley where I saw the incredible work that can be done through collaborative, cross-disciplinary science. I'm now part of Open Life Science's second cohort learning how to implement the teachings of The Turing Way because when good science and good practice meet, great things can happen.
+
+### Susana Roman Garcia
+
+* Role:
+  * PhD student (2020-Present)
+  * Co-facilitator for TTW presentation at [Data Science Perspectives - Multidisciplinary PhD Conference (2023)](https://zenodo.org/records/7704563)
+  * Co-facilitator for Onboarding Calls for the Turing Way Project
+  * Part of the Book Dash Working Group
+  * Book Dash Participant (May 2023, November 2023)
+* GitHub id: [Susana465](https://github.com/Susana465)
+* ORCID: [0009-0004-6967-7754](https://orcid.org/0009-0004-6967-7754))
+
+* Short bio:
+> I am a PhD student at the University of Edinburgh, I was also an Enrichment student at the Alan Turing Institute for the 2022/2023 cohort. Reproducibility and bias in science are huge driving forces of how I work. I am currently finishing up my PhD which involves creating computer models of specific molecules involved in animal memory, and embedding ethics and reproducibility into the work that I do.
+
+* Personal highlights:
+> Writing and working together with many people to get the {ref}`er-datahazards` Chapter published.
+> Making a Pull Request for the Data Hazards chapter together with Ceilidh Welsh was defintely also a big highlight! 
+
 
 ### Susanna-Assunta Sansone
 

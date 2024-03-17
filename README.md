@@ -794,6 +794,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
+Contributions of any kind welcome!
+
 ## CROWDIN CONTRIBUTORS
 <!-- CROWDIN-CONTRIBUTORS-LIST:START -->
 <table>
@@ -811,7 +814,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <br />
       <sub><b>Batool Almarzouq (batool664)</b></sub>
       <br />
-      <sub><b>23103 words</b></sub>
+      <sub><b>23108 words</b></sub>
       <br /><sub><b><code title="Arabic">ar</code></b>, <b><code title="Chinese Simplified">zh-CN</code></b>, <b><code title="French">fr</code></b>, <b><code title="German">de</code></b>, <b><code title="Italian">it</code></b>, <b><code title="Japanese">ja</code></b>, <b><code title="Portuguese, Brazilian">pt-BR</code></b>, <b><code title="Spanish">es</code></b>, <b><code title="Spanish, Latin America">es-419</code></b>, <b><code title="Turkish">tr</code></b></sub>
     </td>
     <td align="center" valign="top">
@@ -819,7 +822,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <br />
       <sub><b>Richie Moluno (molunorichie)</b></sub>
       <br />
-      <sub><b>149314 words</b></sub>
+      <sub><b>149739 words</b></sub>
       <br /><sub><b><code title="Arabic">ar</code></b>, <b><code title="Chinese Simplified">zh-CN</code></b>, <b><code title="French">fr</code></b>, <b><code title="Japanese">ja</code></b>, <b><code title="Portuguese, Brazilian">pt-BR</code></b>, <b><code title="Spanish, Latin America">es-419</code></b></sub>
     </td>
     <td align="center" valign="top">
@@ -1075,6 +1078,14 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <br /><sub><b><code title="Turkish">tr</code></b></sub>
     </td>
     <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/154/medium/ca8fba23cbd0d3868c752404f7347b04.png" />
+      <br />
+      <sub><b>Annajiat Alim Rasel (annajiat)</b></sub>
+      <br />
+      <sub><b>71 words</b></sub>
+      <br /><sub><b><code title="Bengali">bn</code></b></sub>
+    </td>
+    <td align="center" valign="top">
       <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/62/medium/ba0593097d63731f2da78ae9e0ed3296.jpeg" />
       <br />
       <sub><b>Gültekin Ünal (cinnetcrash)</b></sub>
@@ -1082,6 +1093,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <sub><b>63 words</b></sub>
       <br /><sub><b><code title="Turkish">tr</code></b></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top">
       <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/109/medium/1ea5e78434e043089a69456bca38e711.JPG" />
       <br />
@@ -1090,8 +1103,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <sub><b>45 words</b></sub>
       <br /><sub><b><code title="Turkish">tr</code></b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top">
       <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/121/medium/b2f34f2fea0e93e39a3f9beafabc0fb5_default.png" />
       <br />
@@ -1124,6 +1135,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <sub><b>4 words</b></sub>
       <br /><sub><b><code title="Spanish, Latin America">es-419</code></b></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top">
       <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/137/medium/0db9c41e4579dc47c5a289315ca6e016.jpeg" />
       <br />
@@ -1135,8 +1148,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
 </table><a href="https://turingway.crowdin.com/turing-way" target="_blank">Translate in Crowdin 🚀</a>
 <!-- CROWDIN-CONTRIBUTORS-LIST:END -->
-
-
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
-Contributions of any kind welcome!
