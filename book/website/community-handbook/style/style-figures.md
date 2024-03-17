@@ -48,7 +48,7 @@ Adding alt texts to figures is one of the first principles of web accessibility 
 
 If an image link breaks, alt texts are still functional and read as intended by the assistive technology.
 
-For more, visit the {ref}`Alt text section<ch-accessibility-alt-text>`
+For more, visit the {ref}`Alt text section<ch-accessibility-alttext>`
 
 **Please note that a height of 500px works very well with _The Turing Way_ book, but this is only a suggestion.**
 
