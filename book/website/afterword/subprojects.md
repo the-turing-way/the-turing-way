@@ -17,6 +17,7 @@ These subprojects are often time-bound and are supported by community members wh
 ### Infrastructure Working Group Leads
 
 *Project Information: [GitHub issues](https://github.com/the-turing-way/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3Ainfrastructure)*
+
 - Chair: [Danny Garside](https://the-turing-way.netlify.app/afterword/contributors-record#danny-garside)
 - Secretary: [Sarah Gibson](https://the-turing-way.netlify.app/afterword/contributors-record#sarah-gibson)
 - Member: [Brigitta Sipőcz](https://the-turing-way.netlify.app/afterword/contributors-record#brigitta-sipocz)
