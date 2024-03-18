@@ -12,7 +12,7 @@ The main motivations to draft these newsletters are the following:
 3. Share information about any upcoming events and opportunities for our members
 4. Maintain ongoing connections with the subscribed members
 
-Currently, Anne Lee Steel or Alexandra Araujo Alvarez draft the newsletters that are proofread and co-published with Malvika Sharan and Kirstie Whitaker.
+Currently, Anne Lee Steele or Alexandra Araujo Alvarez draft the newsletters that are proofread and co-published with Malvika Sharan and Kirstie Whitaker.
 Newsletters published before September 2020 have been written by Patricia Herterich and Kirstie Whitaker.
 
 In this chapter, we share the process we have established in _The Turing Way_ for collecting news items, drafting the newsletter, documenting any additional updates shared by community members and publishing them through TinyLetter.
