@@ -9,7 +9,7 @@ In order to enable the widest participation possible, and overcome any possible 
 
 All of The Turing Way community calls adhere to the project's [Code of Conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
 
-## Access and inclusion-related support we provide for virtual events
+## Access and inclusion-related support we provide for virtual events
 
 1. **Comfort breaks**: Virtual discussions can be tiring! For calls like our coworking calls and Collaboration Cafes, comfort breaks are built into the pomodoro working format, with a variety of optional and gently-enforced breaks to ensure that participants are taking sufficient breaks during extended time on virtual calls. For our trainings, workshops and onboarding sessions, we make sure build in comfort breaks throughout the sessions. 
 
