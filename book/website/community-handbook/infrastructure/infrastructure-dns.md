@@ -53,14 +53,18 @@ book.the-turing-way.org. 1800   IN      CNAME   the-turing-way.netlify.app.
 
 We can see in the answer section that there is a CNAME record meaning that `book.the-turing-way.org` is an alias for `the-turing-way.netlify.app`.
 
-## CNAME records
+## The Turing Way Records
+
+Here we describe the records that have been created for _The Turing Way_.
+
+### CNAME records
 
 Address aliases
 Book `book.the-turing-way.org`
 
 `book CNAME the-turing-way.netlify.app.`
 
-## Redirects
+### Redirects
 
 Namecheap DNS allows redirecting to URLs.
 This is not part of DNS.
@@ -83,7 +87,7 @@ Newsletter `news.the-turing-way.org`
 
 `news URL-Redirect https://buttondown.email/turingway`
 
-## SSL
+### CAA
 
 Secure Socket Layer (SSL) is a protocol for secure communication.
 SSL is used to encrypt HTTP traffic in HTTPS.
