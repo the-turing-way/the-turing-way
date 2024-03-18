@@ -76,35 +76,60 @@ What happens if you look for a TXT record at `egg.the-turing-way.org`?
 _The Turing Way's_ DNS records is managed on [NameCheap](https://namecheap.com) by the DNS team, a sub-team of the Infrastructure Working Group.
 Here we describe the records that have been created for _The Turing Way_.
 
+The records are in the format,
+
+```
+domain type value
+```
+
+The domain `@` means the root domain, like `example.com`.
+Otherwise the domain is a subdomain of the root domain.
+For example `www` would mean `www.example.com`
+
 ### CNAME records
 
-Address aliases
-Book `book.the-turing-way.org`
+As explained in [](#summary-of-records) CNAME records are aliases.
+We use a CNAME record for _The Turing Way_ book at `book.the-turing-way.org`.
+This is an alias for the domain where the book is hosted, which is currently on Netlify.
+If the book is moved to another hosting provider the record can be updated to point to the new host.
+That way, the book will _always_ be accessible at `book.the-turing-way.org` no matter how or where it is hosted.
 
-`book CNAME the-turing-way.netlify.app.`
+```
+book CNAME the-turing-way.netlify.app.
+```
 
-### Redirects
+### URL Redirects
 
 Namecheap DNS allows redirecting to URLs.
-This is not part of DNS.
-You could achieve a similar thing by having your webserver redirect requests.
-For example, with NGINX you could [`rewrite`](https://nginx.org/en/docs/http/ngx_http_rewrite_module.html) a path.
+This is not actually part of DNS and is achieved by returning HTTP redirect signals to requests (like [301](https://developer.mozilla.org/docs/Web/HTTP/Status/301) or [302](https://developer.mozilla.org/docs/Web/HTTP/Status/302)).
+You could do the same by having your webserver redirect requests to particular subdomains.
+For example, in NGINX you could use [`rewrite`](https://nginx.org/en/docs/http/ngx_http_rewrite_module.html).
 
-Root `the-turing-way.org`
+The following URL redirects are configured,
 
-`@ URL-Redirect https://the-turing-way.start.page`
+Directing the root domain (`the-turing-way.org`) to the start page
 
-GitHub `git.the-turing-way.org`
+```
+@ URL-Redirect https://the-turing-way.start.page
+```
 
-`git URL-Redirect https://github.com/the-turing-way`
+Directing `git.the-turing-way.org` to the GitHub organisation
 
-Slack `slack.the-turing-way.org`
+```
+git URL-Redirect https://github.com/the-turing-way
+```
 
-`slack URL-Redirect <slack invite link>`
+Directing `slack.the-turing-way.org` to the Slack invitation link
 
-Newsletter `news.the-turing-way.org`
+```
+slack URL-Redirect <slack invite link>
+```
 
-`news URL-Redirect https://buttondown.email/turingway`
+Directing `news.the-turing-way.org` to the newsletter archive
+
+```
+news URL-Redirect https://buttondown.email/turingway
+```
 
 ### CAA
 
