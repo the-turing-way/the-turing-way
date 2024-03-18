@@ -1,18 +1,21 @@
 # DNS
 
-DNS is …
+Domain Name System (DNS) is how human-readable domains, like `book.the-turing-way.org` get translated to IP addresses that computers to locate each other.
 You can think of DNS like a phone book for the internet.
-You configure DNS by creating records.
-_The Turing Way's_ DNS records is managed on [NameCheap](https://namecheap.com) by the DNS team, a sub-team of the Infrastructure Working Group.
+Without it, you wouldn't be able to use domain names to find websites or services.
+DNS is configured by creating records, which give instructions on how to handle requests depending on the domain name.
 
 On the internet, DNS is managed by a series of connect providers.
 Google has a DNS service at `8.8.8.8` and `8.8.4.4`.
 Cloudflare has a DNS service at `1.1.1.1`.
+DNS servers are connected and propagate records to each other.
+That means, if you want to host something on your domain you don't have to create records on every DNS server for the public to find it.
+
 It is very likely that you will use a DNS server run by your internet provider, although you can often change this.
 DNS is not encrypted, so in theory the DNS server you use can see what domains you are requesting.
 However, DNS over HTTPS is available and becoming more common.
 
-To learn more about DNS …
+To learn more about DNS you can read [Cloudflare's DNS learning documents](https://www.cloudflare.com/learning/dns/what-is-dns/).
 
 ## Summary of Records
 
@@ -70,6 +73,7 @@ What happens if you look for a TXT record at `egg.the-turing-way.org`?
 
 ## The Turing Way Records
 
+_The Turing Way's_ DNS records is managed on [NameCheap](https://namecheap.com) by the DNS team, a sub-team of the Infrastructure Working Group.
 Here we describe the records that have been created for _The Turing Way_.
 
 ### CNAME records
