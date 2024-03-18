@@ -14,6 +14,20 @@ However, DNS over HTTPS is available and becoming more common.
 
 To learn more about DNS …
 
+## Summary of Records
+
+There are many DNS record types.
+The following table gives a simple explanation of some of the more common ones.
+
+| Record | Purpose                                                             |
+|--------|---------------------------------------------------------------------|
+| A      | Directs a hostname to an IPv4 address                               |
+| AAAA   | The same as A but for IPv6                                          |
+| CNAME  | Makes the hostname an alias for another                             |
+| MX     | Points to an email server for the domain                            |
+| TXT    | Arbitrary text, often used to configure SSL or email authentication |
+| NS     | Delegates DNS to a different nameserver                             |
+
 ## Looking at DNS Records
 
 You can inspect DNS records using the `dig` or `nslookup` commands.
