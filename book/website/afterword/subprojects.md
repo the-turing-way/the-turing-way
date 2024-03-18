@@ -19,9 +19,9 @@ These subprojects are often time-bound and are supported by community members wh
 *Project Information: [GitHub issues](https://github.com/the-turing-way/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3Ainfrastructure)*
 
 - Chair: [Danny Garside](https://the-turing-way.netlify.app/afterword/contributors-record#danny-garside)
+- Co-Chair: [Jim Madge](https://the-turing-way.netlify.app/afterword/contributors-record#jim-madge)
 - Secretary: [Sarah Gibson](https://the-turing-way.netlify.app/afterword/contributors-record#sarah-gibson)
 - Member: [Brigitta Sipőcz](https://the-turing-way.netlify.app/afterword/contributors-record#brigitta-sipocz)
-- Member: [Jim Madge](https://the-turing-way.netlify.app/afterword/contributors-record#jim-madge)
 - Member: [Johana Bayer](https://the-turing-way.netlify.app/afterword/contributors-record#likeajumprope)
 
 The Infrastructure working group chair rotates every 6 months. Next chair rotation allocated for September 2024.
