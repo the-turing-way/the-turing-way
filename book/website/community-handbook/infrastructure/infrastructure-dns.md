@@ -137,9 +137,18 @@ Secure Socket Layer (SSL) is a protocol for secure communication.
 SSL is used to encrypt HTTP traffic in HTTPS.
 Almost every time you access a website in a browser will be over HTTPS.
 It is important to encrypt web traffic, particularly when you are sending or receiving secret information such as user credentials, bank details and personal data.
-[Netlify managed SSL certs](https://docs.netlify.com/domains-https/https-ssl/#netlify-managed-certificates)
 
-Add a [CAA record](https://letsencrypt.org/docs/caa/) so that only Netlify can issue certs.
-This is security best practice.
+A [Certification Authority Authorisation (CAA) record](https://letsencrypt.org/docs/caa/) specifies who can issue a valid SSL certificate for a domain.
+This is security best practice as it helps verify that the SSL certificate is valid and was issued by the correct authority.
+Currently, [Netlify manages SSL certificates](https://docs.netlify.com/domains-https/https-ssl/#netlify-managed-certificates) for the book.
+The certificates are issued by Let's Encrypt.
 
-`book CAA 0 iodef letsencrypt.org;accounturi=https://acme-v02.api.letsencrypt.org/acme/acct/54403714`
+The following CAA record is configured,
+
+```
+book CAA 0 issue "letsencrypt.org"
+```
+
+This record only allows Let's Encrypt to issue certificates.
+Netlify also suggests [specifying their `accounturi` in the record](https://docs.netlify.com/domains-https/https-ssl/#netlify-managed-certificates) which would further ensure that only Netlify can request new certificates from Let's Encrypt.
+However, NameCheap doesn't seem to allow this in CAA records.
