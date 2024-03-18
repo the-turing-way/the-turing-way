@@ -66,6 +66,7 @@ book.the-turing-way.org. 1800   IN      CNAME   the-turing-way.netlify.app.
 ```
 
 We can see in the answer section that there is a CNAME record meaning that `book.the-turing-way.org` is an alias for `the-turing-way.netlify.app`.
+What happens if you look for a TXT record at `egg.the-turing-way.org`?
 
 ## The Turing Way Records
 
