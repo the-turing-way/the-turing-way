@@ -16,7 +16,42 @@ To learn more about DNS …
 
 ## Looking at DNS Records
 
-`dig`, `nslookup` …
+You can inspect DNS records using the `dig` or `nslookup` commands.
+
+The `dig` command line can be formatted like
+
+```console
+dig [@DNS-server] [domain] [record-type]
+```
+
+For example, we can check the CNAME record for `book.the-turing-way.org` using Google's DNS server (`8.8.8.8`) like this
+
+```console
+$ dig @8.8.8.8 book.the-turing-way.org CNAME
+
+; <<>> DiG 9.10.6 <<>> @8.8.8.8 book.the-turing-way.org CNAME
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 64376
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;book.the-turing-way.org.       IN      CNAME
+
+;; ANSWER SECTION:
+book.the-turing-way.org. 1800   IN      CNAME   the-turing-way.netlify.app.
+
+;; Query time: 75 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8)
+;; WHEN: Mon Mar 18 14:47:29 GMT 2024
+;; MSG SIZE  rcvd: 92
+
+```
+
+We can see in the answer section that there is a CNAME record meaning that `book.the-turing-way.org` is an alias for `the-turing-way.netlify.app`.
 
 ## CNAME records
 
