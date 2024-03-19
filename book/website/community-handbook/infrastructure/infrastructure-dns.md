@@ -1,6 +1,6 @@
 # DNS
 
-Domain Name System (DNS) is how human-readable domains, like `book.the-turing-way.org` get translated to IP addresses that computers to locate each other.
+Domain Name System (DNS) is how human-readable domains, like `book.the-turing-way.org` get translated to IP addresses that computers use to locate each other.
 You can think of DNS like a phone book for the internet.
 Without it, you wouldn't be able to use domain names to find websites or services.
 DNS is configured by creating records, which give instructions on how to handle requests depending on the domain name.
@@ -73,7 +73,7 @@ What happens if you look for a TXT record at `egg.the-turing-way.org`?
 
 ## The Turing Way Records
 
-_The Turing Way's_ DNS records is managed on [NameCheap](https://namecheap.com) by the DNS team, a sub-team of the Infrastructure Working Group.
+_The Turing Way's_ DNS records are managed on [NameCheap](https://namecheap.com) by the DNS team, a sub-team of the Infrastructure Working Group.
 Here we describe the records that have been created for _The Turing Way_.
 
 The records are in the format,
