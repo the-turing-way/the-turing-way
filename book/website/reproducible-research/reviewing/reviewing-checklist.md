@@ -110,6 +110,10 @@ doubt, ask someone experienced in licensing for advice.
 - Are the licenses of all the parts compatible with each other?
 - Is the project license compatible with all libraries?
 
+### Accessibility
+
+TODO: To be completed
+
 ## File/Change level checklist
 
 When you're checking individual changes or files in a pull request, the
