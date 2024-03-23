@@ -7,7 +7,7 @@ It will not be able to replace an in-depth communications plan, but instead draw
 Please refer to the {ref}`Planning your Event<cl-ppie-events-planning>` section for more information about planning your event. 
 You can find a checklist at the end of this page for what key pieces of information need to be included in your event's core communications.
 
-For this chapter, "Communications" refers to the information you share with attendees, the timings and schedule on which you communicate it, the channels you will use, and the content and information about the event. 
+For this chapter, "Communications" refers to the information you share with potential attendees, the timings and schedule on which you communicate it, the channels you will use, and the content and information about the event. 
 
 When developing a communications strategy, in addition to identifying the goals for your event, you will need to consider:
 - Who are you trying to reach?
@@ -15,6 +15,7 @@ When developing a communications strategy, in addition to identifying the goals 
 - What information do you need to include?
 - When do your attendees with lived experience need the information?
 - How will you convey the information?
+- What forms of communication does your target audience use (social media, email, in-person meetings)?
 
 Depending on the scale and resources for your event, your communications plan may include the development of websites, PDFs, flyers, banners, and social media posts in addition to email and calendar invites. 
 
@@ -26,7 +27,7 @@ The timeline for planning a communications schedule for your event will vary gre
 
 When planning an event for people with lived experience, please be mindful that many people with lived experience might require information with more notice in order to plan their attendance.
 
-The more advance notice you can give to people, the more flexibility people have to organize support and make arrangements, and the more likely they will be to attend your event.
+The more advance notice you can give to people, the more flexibility people have to organize and make arrangements, and the more likely they will be to attend your event.
 
 (cl-ppie-events-save-the-date)=
 ### Save the Date
@@ -44,15 +45,15 @@ This will also be supportive of attendees with busy schedules who may be booked 
 Your "Save the Date" should include an overview of honorarium or reimbursement support, the date, and the approximate location of the event such as Zoom, or the name of the city where the event will take place. 
 It should also reference how long the event is likely to be, for example, if it's a multi-day event or a few hours. 
 
-This can be helpful to support attendees with caring responsibilities, who may need to hire and arrange alternative care support in order to attend your event, or could be placed at a significant financial disadvantage if they travel and attend. 
-By providing guidance along with a "Save the Date", your attendees would have appropriate time be able to make arrangements, and also be able to make an informed choice about if they are able to attend. 
+This can be helpful for attendees with caring responsibilities, who may need to hire and arrange alternative care support in order to attend your event, or could be placed at a significant financial disadvantage if they travel and attend. 
+By providing guidance along with a "Save the Date", your attendees would have appropriate time to be able to make arrangements, and also be able to make an informed choice about if they are able to attend. 
 
 Consider sending out different forms of a "Save the Date" to support how different people use and interact with online calendars. 
 For example, depending on your attendees you may need to:
 * send out an online calendar placeholder,
 * send an email invitation written in plain text with formatted headings,
-* attach a PDF flyer with "Save the Date" information to any emails,
-* and promote the "Save the Date" information through your usual communication channels such as Slack, LinkedIn or organization's website and social media. 
+* attach an accessible PDF flyer with "Save the Date" information to any emails,
+* and promote the "Save the Date" information through your usual communication channels such as Slack, LinkedIn or organization's , newsletterwebsite and social media. 
 
 This can ensure that people who use different communication channels are able to receive the information in a medium that is accessible to them and through the channel they are most comfortably using. 
 
@@ -63,7 +64,7 @@ This was to support the community members who often needed to manage event atten
 
 In several of the group's community meetings, attendees expressed that they would not regularly check emails and instead would rely on their calendars, however, some members of the community expressed the opposite and did not use digital calendars but would download and print out flyers for their notice boards. 
 
-By adjusting communication to support both these requests, organizers were better positioned to support event engagement for their events.
+By adjusting communication to include both these requests, organizers were better positioned to engage people with lived experience.
 They were also more successful in involving underrepresented people in community events.
 ```
 
@@ -93,11 +94,12 @@ By making clear expectations and supporting people with lived experience attendi
 ## Using an Event Website 
 It can be incredibly helpful to centralize information about your event in both online and offline locations.
 
-Consider if your event will need a website and dedicate a page on your site to information and a point of contact regarding accessibility requirements and the steps you are taking to make the event inclusive for people with lived conditions and accessibility requirements. 
+Consider if your event will need a website and dedicate a page on your site to information and a point of contact regarding accessibility practices and the steps you are taking to make the event inclusive.
 
 You can also choose an event platform such as Eventbrite, Humanitix, or EventYay to host information about your event. 
 When deciding on what platform to use please review the accessibility of a potential site, and follow any advice as to how you can make your content on their platform accessible. 
 For example, [Eventbrite provides accessibility guidance](https://www.eventbrite.com/blog/66754-2how-to-creat-an-accessible-event-listing-ds00/) for event pages hosted on their platform. 
+However, EventBrite can be difficult to use because the registration process must occur within a short period of time, and the mechanism for paying by credit card is not screen reader accessible.  COnsider what alternative paths you can set up for registration.
 
 ```{note}
 When reviewing event platforms, please note that many organizations have recently changed their pricing and localization options.
@@ -115,7 +117,7 @@ You will need to work with your team to identify the best solution for your even
 Depending on your event and where you host online information, you should ensure that the digital home for your event covers this information:
 - How to attend (joining links for online content and location information for in-person events).
 - When and where your event is.
-- What accessibility support there will be for your event
+- What accessibility practices will be implemented for your event
 - Who the event hosts are and who the session leads will be. 
 This can help attendees know what to expect. 
 - Information about what your event is and what is expected from the audience. 
@@ -126,35 +128,36 @@ This includes if your attendees are expected to have background information on a
 - Information for a point of contact to get in touch with if there are any issues with joining or if attendees want follow-up information about the event.
 
 Consider also providing any content that is on a website in an offline format such as an information booklet or flyer. 
-This can help attendees access important event information without requiring internet access and can also help attendees with screen readers or who prefer to read information offline. 
+This can help attendees access important event information without requiring internet access and can also help attendees who prefer to read information offline. 
 HTML and plain text is often the most accessible format, and some PDF software provides several accessibility features such as Adobe Reader which can be accessed or downloaded for free. 
 
 (cl-ppie-events-comms-speaker-information)=
 ## Speaker Information
-If your event involves people with lived experience, you should consider how to set your speakers, presenters, and facilitators up for success.
 
-You will need to identify and invite your speakers, regardless of their lived experience, well in advance of the event and provide them with support so that they can plan and deliver a successful session.
+All speakers need to be identified and invited with plenty of time to plan their presentations.
+They should receive information about the format of their talk (examples include panel discussion, slide presentation with narrative, video presentation, workshop), and the expectations that may be unfamiliar to people who have not participated in the research community.
+Participants may be new to presentation technology, or they may be new to communicating scientific concepts to a general audience.
 
 (cl-ppie-events-comms-speaker-diversity)=
 ### Inviting Speakers with Lived Experience
 Representation is incredibly important and you may want to consider how you represent your attendees in your invited speakers and event facilitators. 
 
-When inviting a speaker with lived experience to present, consider if you have the resources to appropriately support their session and preparation. 
-For example, you may need to provide details about the event ahead of when the information is scheduled to be sent to attendees. 
-This is to ensure that the speaker feels supported and is able to make an informed decision before agreeing to present at your event. 
+When inviting a speaker with lived experience to present, consider whether there are additional barriers to their full participation in the event.
+For example, you may need to provide details about the event ahead of when the information is scheduled to be sent to researchers or participants who are not speaking.
+This is to ensure that the speaker can engage without barriers and make an informed decision about participation while leaving enough time for planning and finding alternative speakers.
 
-This is important for both speakers who are presenting about their lived experience and for speakers presenting on a topic not related to their lived experience but are considered people with lived experience.
+Communicating with speakers about expectation is important for inclusion and accessibility, both for people with lived experience and for people who might experience barriers for reasons other than the topic of the event.
 
-Ask your speakers if they require any support or accommodations and ensure that these are met to their satisfaction so that they are able to deliver their session effectively. 
+Ask your speakers what accessibility practices would facilitate their participation, communicate your decisions about accessibility practices, and collaborate with speakers in order to promote their effective presentation.
 
-Additionally, if your event is supporting a speaker or facilitator with lived experience, consider asking how they wish to be identified in relation to their expertise and experience. 
-For example, many autistic people, and the autistic community as a collective, have expressed a preference for using "Identify-first" language which places the disability first in the description. 
+Additionally, when inviting a speaker or facilitator with lived experience, consider asking how they wish to be identified in relation to their expertise and experience. 
+For example, many autistic people, and the autistic community as a collective, have expressed a preference for using "Identity-first" language which places the disability first in the description. 
 This is contrasted with "Person-first" language which emphasizes the person before the disability, for example, __Person with epilepsy_. 
 People may wish to be referenced as "expert by experience" or by the phrase we have used in this chapter "person with lived experience".
 This can be an incredibly person and important distinction for many people so it important that you ask and clarify with your speakers ahead of time.
 Many people feel strongly about person or identity first language, and it is important to ask that individual about their preference as part of planning their introduction. 
 
-You may notice that we have used both person-first and identity-first language has been used in this chapter. 
+You may notice that both person-first and identity-first language has been used in this chapter. 
 How a person chooses to self-identify is entirely a personal decision, and it is the role of organizers and facilitators to support the choices of the speakers and attendees, as long as it does not contravene the event's Code of Conduct. 
 Consider instead including a statement on the inclusive and compassionate use of both person-first and identity-first language when opening your event. 
 
@@ -163,7 +166,8 @@ Consider instead including a statement on the inclusive and compassionate use of
 Depending on the type of event you are planning, you may want to consider providing guidance for speakers, moderators, and presenters on inclusive communication, and requesting that any content delivered in the session can be sent to attendees before the event. 
 
 If your event has online or streamed sessions, consider developing an information pack and working with your speakers and event facilitators to ensure that content is accessible and inclusive of all attendees. 
-You can use this pack to highlight information about the audience that the speaker should know, and provide guidance on how to effectively communicate to an audience of people with lived experience. 
+You can use this pack to highlight information about the audience that the speaker should know, and provide guidance on how to effectively communicate to an audience of people with lived experience.
+In this resource, you can model how to talk with respect about the people with the type of lived experience that is the topic of your event, using the vocabulary the community chooses and avoiding assumptions related to that topic.
 Many early career researchers may not have received formal training in scientific communication and working with the public, so it can be helpful to emphasize the importance of using plain language and speaking clearly. 
 
 You can also prepare the speakers by asking how they would like to interact with any questions that are asked. 
@@ -177,7 +181,7 @@ Many people with lived experience and members of the public may experience addit
 If you have planned your event well, attendees with lived experience should feel welcomed and able to engage fully in the event.
 
 It can be helpful in your communications to state who will be in attendance.
-For example "researchers, clinicians, policymakers, funding bodies, and experts by experience". 
+For example "researchers, clinicians, experts by experience, policymakers, and funding bodies.
 
 Finally, consider including short introductions and background information about the speakers and session facilitators in your event information. 
 Many people with lived experience may feel more comfortable engaging in an event where they know who they are speaking with and it can be a helpful way to build rapport. 
@@ -186,7 +190,7 @@ Many people with lived experience may feel more comfortable engaging in an event
 ## Presentation Slides and Event Content
 Although it can be common to prepare presentation slides at the penultimate hour, to be as inclusive as possible, please work with your speakers and presenters to finalize session content before the event. 
 
-By working with speakers and requesting slides and presentation content ahead of the event, you will be best set up to support the involvement of people with disabilities and lived experience at your event. 
+People with some disabilities and lived xexperience will need access to visual content in advance so they can access them with adaptive technology or human assistance.
 
 This can help in two core ways, 1) supporting speaking in developing both psychologically and physically accessible content, and 2) ensuring that your event's content is accessible to a diverse audience.
 
@@ -203,8 +207,8 @@ Finally, if your event is a workshop that requires live input from attendees, en
 
 (cl-ppie-events-comms-event-content)=
 ### Collaborative Event Content
-If content such as presentation slides, worksheets, and other material are able to be shared but was not sent out before the event, consider sending it as soon as possible after the session. 
-You can then also send out notes or session minutes taken during the event.
+If content such as presentation slides, worksheets, and other material are able to be shared but were not sent out before the event, consider sending it as soon as possible during the event for people with internet access or after the session. 
+You can also send out notes or session minutes taken during the event.
 
 Taking collaborative “live” notes can be very divisive based on different audiences. 
 Having a designated notetaker and being able to read and listen can be beneficial to many people who are encountering new material for the first time, or who may be listening to a presentation that is delivered in a different language. 
@@ -213,23 +217,26 @@ However, being able to engage in an event’s content and simultaneously read no
 Many members of the public may not have multiple screens set up in their homes, and they may be attending online events on their phones. 
 
 Ensure that if you offer live notetaking at your event that your attendees are able to access both the session content and the notes, and that technology you use is one that your attendees are comfortable using and getting access to. 
-[HackMD](https://hackmd.io) or [Google Docs](https://www.google.co.uk/docs/about/) are recommended for their accessibility support features, and [Etherpad](https://etherpad.wikimedia.org/) can support a larger number of contributors. 
+[HackMD](https://hackmd.io) provides collaborative editing that can be read by screen readers, but these people won't be able to contribute to editing the document.
+[Google Docs](https://www.google.co.uk/docs/about/) have some accessibility features but screen reader access to editing depends on the user's operating system.
+[Etherpad](https://etherpad.wikimedia.org/) is more accessible. 
 Additional guidance on tools for taking collaborative notes can be found in {ref}`cl-event-tools`.
 
 This is an example of how important it is to involve people with lived experience in your event planning. 
-By having a representative or by getting feedback from your specific community, you will be able to identify the best way to share notes and other materials with your audience. 
+By having representatives or by getting feedback from your specific community, you will be able to identify the best way to share notes and other materials with your audience. 
+It is preferable to ask more than one advisor, as the solutions used by individuals, as well as their level of experience with technology,  can vary significantly. 
 
 (cl-ppie-events-comms-jargon)=
 ## Avoiding Jargon
 Research fields can often rely on acronyms and jargon to communicate effectively between colleagues. 
 However, the use of jargon can make the involvement and inclusion of people with lived experience difficult. 
 
-Reflect on how, and where, your research field uses jargon that might not be understandable to those outside your field. 
+Reflect on how, and where, your research field uses jargon that might not be understandable to the general public. 
 Although you may be able to assume that many people with lived experience are familiar with any common acronyms or jargon used, it can benefit the inclusion of all attendees and experience levels if the amount of jargon used can be minimized. 
 For example, researchers, clinicians and people with a lived experience of arthritis may be more familiar with terms and medication names related to arthritis and associated conditions. 
-However, many attendees may be unfamiliar with these terms can can feel excluded from conversation and event content that focuses on them 
+However, many attendees may be unfamiliar with these terms can can feel excluded from conversation and event content that uses them 
 
-As part of planning, consider how you can reduce the use of jargon and acronyms at your event, and create a strategy for supporting speakers and facilitators to also avoid unnecessary jargon. 
+As part of planning, consider how you can reduce the use of jargon and acronyms at your event, and create a strategy for encouraging speakers and facilitators to also avoid unnecessary jargon. 
 
 You may want to develop a Glossary of Terms that can be included in information booklets, and where possible, work with researchers to be mindful of, and review, language choices to ensure inclusivity, such as avoiding gender-specific terms and including language that recognizes the diverse identities engaged in your event. 
 
@@ -248,7 +255,7 @@ This can help to bring "clear and effective communication" to the forefront of a
 
 Using Plain Language is especially important in your registration and event information packs.
 
-If possible, consider co-developing Plain Language and Easy Read content alongside a community representative or person with lived experience. 
+If possible, consider co-developing Plain Language and Easy Read content alongside community representatives or person with lived experience. 
 If this is not possible for your event, you can review guidance on how to write in plain language and ensure that core communications and event content are checked by using an external tool. 
 
 ```{note}
@@ -268,7 +275,7 @@ This can help acknowledge and respect the cultural differences of your attendees
 
 (cl-ppie-events-comms-plain-language-summaries)=
 #### Plain Language Summaries
-If your event has a large focus on research content, consider writing Plain Language summaries of core content so that people with lived experience who do not have a background in research are able to engage in the sessions and understand the projects that are discussed. 
+If your event has a large focus on research content, consider instructing presenters to write Plain Language summaries of core content so that people with lived experience who do not have a background in research are able to engage in the sessions and understand the projects that are discussed. 
 
 Please refer to The Turing Way's chapter on {ref}`cm-lay-summaries` for more guidance, and you can view good examples of Plain Language summaries from the [AI for Multiple Long Term Conditions research projects](https://aim-rsf.github.io/Glossary-of-Terms/pages/aim-projects.html). 
 
@@ -290,20 +297,6 @@ It is especially important to consider how you will communicate when there will 
 For example, “harmful” content could refer to flickering lights or material that would trigger photosensitive epilepsy, a response to discussion topics that may arise, or a video that could be difficult or uncomfortable for attendees with sensory processing differences to experience. 
 Consider communicating an overview of a session's content before it begins to allow attendees to prepare or choose to leave the session. 
 
-```{tip}
-Below is a good example of proactive communication from an organization related to a service dog joining the office. 
-It addresses both the accessibility requirement of the person who will be accompanied by a service animal, and also opens a line of communication with an identified point of contact for anyone who may be impacted due to allergies or a fear of dogs. 
-This message was shared by email and on a company intranet - the two most common places to receive company communications, making it effective at reaching its staff and community.
-```
-
-> Dear Community,
- 
-> Please be aware that a member of staff will be using a service dog when they attend the office from next week.
-> Please refrain from petting or interacting with the dog without the explicit consent of its owner. Many thanks for your cooperation.
- 
-> If you have any allergies or require any adjustments, please contact the general facilities email address.
-
-
 Consider what channels your attendees with lived experience receive information from and try to match those in your event communications. 
 For example, some attendees may need to be called on the phone to receive information, or they may require a text instead of an email. 
 
@@ -316,15 +309,15 @@ Finally, once your event has finished, you may want to consider how you will eng
 This may involve sending out thank you's, a feedback survey, gift packs, or closing event information such as links and slides for presentations, any summary notes, or other material that was delivered and able to be shared from the event. 
 
 Depending on the size and format of your event, consider how you will communicate the timeline for when attendees can expect any follow-up information. 
-It may take a significant portion of time to manually transcribe sessions and add captions before uploading to a video hosting platform so it is helpful for attendees to know to expect follow-up content.
+It may take a significant portion of time to manually transcribe sessions and add captions before uploading to a video hosting platform so it is helpful for attendees to know when to expect follow-up content.
 
 This can be especially important if your event involves people with lived experience giving feedback or input into a project. 
 It can be demoralizing for a person with lived experience to volunteer their time and expertise in a focus group or for a grant application, and then receive no further information. 
-Instead, consider setting a date when you or the research team will send an update, regardless of whether a potential project gets funded or not. 
+Instead, consider setting a date when you or the research team will send an update, regardless of whether you have completed follow-up materials or whether a proposed project receives funding. 
 
 (cl-ppie-events-comms-conclusion)=
 ## Conclusion
-By demonstrating an open channel of communication about accessibility, and by being thorough in your communications plans, you will be well-positioned to support people with lived experience engaging in your event in a way that is safe and fulfilling. 
+By demonstrating an open channel of communication about accessibility, and by being thorough in your communications plans, you will have a successful event that incorporates the expertise and experience of people with lived experience.
 
 (cl-ppie-events-comms-key-information)=
 ## Key Information Checklist

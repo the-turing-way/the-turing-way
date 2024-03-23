@@ -12,11 +12,11 @@ Conversely, in-person events can make use of local resources to support engageme
 
 The integration of both in-person and virtual components ensures that participants can engage in a manner that suits their preferences and circumstances.
 
-The flexibility of hybrid formats recognizes the challenges faced by many people with lived experience. 
+The flexibility of hybrid formats recognizes the barriers faced by many people with lived experience. 
 Providing a virtual option can overcome any physical resource barriers presented by in-person only events. 
-This flexibility also accommodates the diverse schedules and responsibilities of all attendees, and acknowledges any additional scheduling challenges that may be faced by people with lived experiences. 
+This flexibility also accommodates the diverse schedules and responsibilities of all attendees, and ensures the event's availability to people with various lived experiences. 
 
-Although planning and hosting hybrid events often requires more resources to be successful, by making your event hybrid you can better prioritize accessibility needs and the inclusion of attendees with lived experience at your event. 
+Although planning and hosting hybrid events often requires more resources to be successful, by making your event hybrid you can better prioritize accessibility practices and the inclusion of attendees with lived experience.
 This empowers a wide range of participants to contribute and benefit from your event's content and community.
 
 If you are planning a hybrid event, please read The Turing Way's {ref}`Chapter on Hybrid Collaboration<cl-hybrid-collab> and specifically the {ref}`Subchapter on Guidelines for Hybrid Collaboration<cl-hybrid-collab-guidelines>`.
@@ -65,7 +65,7 @@ Documentation provided by the developer can often highlight any accessibility fe
 
 Ensure that these guides are written in an Easy-Read and/or [{Plain Language}def<Plain Language>] format so that they clearly explain both how to access, and how to use any of the technology required to engage at your event.
 
-These guides should be provided before your event starts to allow attendees to familiarize themselves with the technology and troubleshoot any barriers or issues ahead of time. 
+These guides should be provided before your event starts to allow attendees to familiarize themselves with the technology and troubleshoot any issues ahead of time. 
 
 Although you may not be able to individually check with each attendee, providing guides and allocating time during your event for participants to learn and familiarize themselves with the tool can help to ensure that all attendees are comfortable using the platforms and tools of your event. 
 
@@ -81,6 +81,7 @@ As part of hosting, is it important to make time before the event starts to ensu
 
 For example:
 * Check that any slides or presentations that will be shown during your event are legible and able to be displayed on your equipment. 
+* if you are using live (human) captioning (which is more accurate than AI captioning and provides access in real time) or sign language interpreters, make sure connections to these people are functioning. 
 * Check that any closed captioning software that you are using is functional and that the transcripts are able to be displayed and accessed by attendees.
 * Run through any slide or presentation changes to check that any video or slide transitions do not display bright flashes which present a health risk and can trigger photosensitive epilepsy
 * Check that audio induction loops are working and accessible to any attendees who need them.
@@ -89,10 +90,13 @@ For example:
 * Ensure that there is clear guidance that is readily accessible to attendees in the event of a technical issue. 
 
 
-Because this is not an exhaustive list, it is important to understand the needs and preferences of your specific attendees as part of making your event inclusive and accessible. 
+Because this is not an exhaustive list, it is important to 
+collaborate with participants with lived experience to identify 
+and implement relevant accessibility practices. 
+They can often assist you with knowledge, insights, and strategies based on 
+what they have learned from attending and organizing events themselves.
+Where possible, involve representatives with lived experience in your event planning and work with a community to ensure that any barriers introduced by technology use at your event can be addressed and mitigated. 
 
-Where possible, involve a representative with lived experience in your event planning and work with a community to ensure that any barriers introduced by technology use at your event can be addressed and mitigated. 
-
-This can help your event create an inclusive and accessible environment, and ensure that individuals with lived experiences are able to fully participate and engage with your event.
+This can help your event create an inclusive and accessible environment, and ensure that individuals with lived experiences are able to fully participate and contribute to your event.
 
 
