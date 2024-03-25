@@ -38,7 +38,7 @@ The practices and policies listed here relate to these three operating principle
 
 _The Turing Way_ is committed to ensuring the web accessibility of our guides.
 
-As an open source community that relies on  projects and platforms for our underlying infrastructure, we acknowledge that we are limited in what standalone access-centered support we can offer. Our project is built with JupyterBook and using the Github platform. Both of these platforms have policies that address how they address the [W3C WAI's Web Content Accessibility Guidelines 2.0](https://www.w3.org/TR/WCAG/). You can read more about the JupyterBook's work around accessibility [here](https://astrobites.org/2023/06/10/notebooks-for-all/) and about Github's work [here](https://accessibility.github.com/).
+As an open source community that relies on  projects and platforms for our underlying infrastructure, we acknowledge that we are limited in what standalone access-centered support we can offer. Our project is built with JupyterBook and using the Github platform. Both of these platforms have policies that address how they address the [W3C WAI's Web Content Accessibility Guidelines 2.0](https://www.w3.org/TR/WCAG/). You can read more about the the experience of a researcher at Accessible Notebooks Hackathon in ["Notebooks For All: Making Jupyter Notebooks More Accessible"](https://astrobites.org/2023/06/10/notebooks-for-all/) and about Github's work in the [Github Accessibility Report](https://accessibility.github.com/).
 
 As a community however, we are committed to ensuring broader accessibility of our resources through using this infrastructure through:
 - Choosing sufficient color contrast in our hand-drawn images that make our images accessible in the context of color-blindness
