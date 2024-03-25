@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Accessibility Policy
-=======
 # ACCESSIBILITY.md
->>>>>>> 3b5c39afe (updates to accessibility guide)
 
 Within The Turing Way community, we define accessibility practices as a set of community-wide, behavioral, social, and technical decisions that can be taken to ensure that all are welcome and are able to enter and participate in research and data-driven processes, communities and events despite access as it relates to language, disability, and geography. 
 
@@ -14,7 +10,6 @@ This means that questions of access are tied to how people read the guides as we
 
 This policy is a work in progress, as are the practices that we employ as a community. Much like how _The Turing Way_ itself is always being written and rewritten, our accessibility policies and practices are constantly being updated as broader awareness grows and changes in technology are made.
 
-<<<<<<< HEAD
 ## 1.1 Core Principles
 1. We do these accessibility practices to remove barriers for people who historically have been limited in their ability to be able to participate because these projects benefit everyone
 2. Openness is a means to enable people with broad backgrounds to get involved. Openness for openness' sake does that erase this fact.
@@ -51,11 +46,16 @@ Access-related feedback may be submitted via this anonymised form.
 ## Core Principles
 1. We do these accessibility practices to remove barriers for people who historically have been limited in their ability to participate in because these projects benefit everyone
 2. Openness is a means to enable people with broad backgrounds to get involved. Openness for openness' sake does that erase this fact.
-3. Access to commons is a question of mangagmenet - developing a collective commons is 
+3. Access to commons is a question of management - developing a collective commons is 
+
+# Guidance for writing/drafting chapters 
+[ Guidance for writing in an access-centered way ] 
+
+
 
 ## How we work with Access-related Feedback
 Access-related feedback may be submitted via this anonymised form, which .
->>>>>>> 3b5c39afe (updates to accessibility guide)
+>>>>>>> f0913ef2ef4140d4fa8fff7030abcdc630c93a95
 
 During community forums like Collaboration Cafes and Fireside Chat, feedback forms are shared during and after these events in order to gage immediate feedback about this event. 
 
