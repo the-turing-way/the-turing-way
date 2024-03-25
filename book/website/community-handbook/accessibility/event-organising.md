@@ -25,7 +25,7 @@ All of The Turing Way community calls adhere to the project's [Code of Conduct](
 
 ## Access and inclusion-related support we provide for in-person events
 
-1. **Run a venue tour**:  Before we choose the venue of the event,we make a tour to make sure that it is accessible to everyone. We consider that anyone with a wheelchair or walking support should be able to enter the venue, mobilise through its corridors and use the toilets with minimum support. We also make sure that venue provides a space for: a well-being room, children friendly area, breast-feeding room and praying room.
+1. **Run a venue tour**: Before we choose the venue of the event, we do a tour to make sure that it is accessible to and for everyone. We consider whether or not anyone with a wheelchair or needing walking support should be able to enter the venue, move through its corridors and use the toilets with minimum support. We also make sure that venue provides a space for: a well-being room, children friendly area, breast-feeding room and praying room.
    
 2. **Be mindful of sensory needs**: We provide quiet spaces, and make attendants aware if there will be loud sounds, videos or lighting, etc. Anyone 
 
