@@ -40,22 +40,23 @@ We are committed to ensuring accessibility through:
 - Writing good practices for data visualisation (not assuming particular IDEs, language-agnostic)
 
 ### 3.1 How we work with Access-related Feedback
-[ To discuss with Alex - thinking through a system for gathering feedback - and a process for processing it so to speak! ]
 Access-related feedback may be submitted via this anonymised form.
-=======
+
+1. Feedback form
+2. Drop-in sessions - 3x a year: drop-in session to receive feedback aabuout access related different parts of project. Discussion of practices
+3. Direct email to RCM with feedback for 1:1
+4. Drop by Accessibility Working Group meeting -> can focus on feedback
+
+Feedback is taken to monthly meeting with chairs of working groups & project leadership.
+
 ## Core Principles
 1. We do these accessibility practices to remove barriers for people who historically have been limited in their ability to participate in because these projects benefit everyone
 2. Openness is a means to enable people with broad backgrounds to get involved. Openness for openness' sake does that erase this fact.
 3. Access to commons is a question of management - developing a collective commons is 
 
-# Guidance for writing/drafting chapters 
-[ Guidance for writing in an access-centered way ] 
-
-
 
 ## How we work with Access-related Feedback
 Access-related feedback may be submitted via this anonymised form, which .
->>>>>>> f0913ef2ef4140d4fa8fff7030abcdc630c93a95
 
 During community forums like Collaboration Cafes and Fireside Chat, feedback forms are shared during and after these events in order to gage immediate feedback about this event. 
 

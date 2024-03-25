@@ -1,5 +1,8 @@
 # Writing Tips
 
+# Guidance for writing/drafting chapters 
+[ Guidance for writing in an access-centered way ] 
+
 ### Writing the book
 - Describing images & illustrations (Scriberia)
 - Understanding the way in which language is used
