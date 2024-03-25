@@ -1,3 +1,4 @@
+# Accessibility Policy
 
 Within The Turing Way community, we define accessibility practices as a set of community-wide, behavioral, social, and technical decisions that can be taken to ensure that all are welcome and are able to enter and participate in research processes, communities and events despite access as it relates to language, disability, and geography. 
 
@@ -7,17 +8,23 @@ This policy focuses both on accessibility as it relates to disabled people as we
 
 This policy is a work in progress, as are the practices that we employ as a community. Much like how The Turing Way itself is always being written and rewritten, our accessibility polities and practices are constantly being updated as broader awareness grows and changes in technology are made.
 
-## Principles
+## 1.1 Web Accessibility
 
-1.
-2.
-3.
+[ORGANIZATION OR PROJECT NAME] is committed to ensuring the accessibility of this site for people with disabilities. We pledge to meet [W3C WAI's Web Content Accessibility Guidelines 2.0](https://www.w3.org/TR/WCAG/), Level AA conformance. Any issues should be reported to [EMAIL ADDRESS].
 
-## Book
+We are committed to ensuring accessibility through:
 
-- Classic Web Accessibility policy info
+- Use of ARIA landmark roles.
+- Proper use of HTML headings.
+- Perceptible link text and focus states.
+- Sufficient color contrast.
+- The use of appropriate alt text for images.
+- Keyboard navigable forms inputs with descriptive labels.
+- Text transcripts for audio and closed captioning for video content.
+- Navigation without the need for a mouse or track pad.
 
-### Writing the book
+### 1.2 Community Accessibility
+
 - Describing images & illustrations (Scriberia)
 - Understanding the way in which language is used
 - Cognitive load & in context of processing disabilities
@@ -25,40 +32,4 @@ This policy is a work in progress, as are the practices that we employ as a comm
 - Translation & localisation 
 - Writing good practices for data visualisation (not assuming particular IDEs, language-agnostic)
 
-## Tools
-As with all of our communication channels, *The Turing Way* communication channels abide by our [Code of Conduct](https://the-turing-way.netlify.app/community-handbook/coc.html).
-
-- Slack
-- Emoji
-- Github
-- Pad - more accessible for writing
-- HackMD
-- Tinyletter
-- Zoom 
-- Otter.ai (captions) 
-
-[ Below is taken from slack policies: https://hackmd.io/@turingway/ttw-slack-intro ]
-* **Images**: Use alt text to describe images, diagrams, or other visuals within ([Learn more about how to do this in this tutorial.](https://slack.com/intl/en-gb/resources/using-slack/how-to-boost-accessibility-in-slack&utm_medium=promo)). Don't forget to add important information like context in your description!
-    - Note here
-    - Note here
-    - Note here
-* **Links**: If you are inserting a link into a message, limit the number of embedded links within a message. Avoid embedding links within replies to messages when possible, as links posted within threads are not readable for screen readers.
- 
-* **Emojis**: Limit the use of emojis that break up narrative flows of information where possible (i.e. emojis listed between works). Remember that not all people are able to access the emoji reactions option within Slack, and use written affirmations as well!
-* **Bandwidth**: In order to make sure that Slack is accessible in low-bandwidth environments for the community, avoid posting data-intensive content like videos directly into the channels. Instead, prioritise hosting the content on other platforms (i.e. YouTube), and sharing the link.
-* **Openness**: Remember that not everyone in the *The Turing Way* community is in the Slack workspace – or on every social media channel. Where possible – especially when discussing chapter ideas and other collaborations – create issues and discussions on the Github repository or post across social media channels, in order to ensure the widest reach and participation possible.
-
-In general, we encourage an approach to Slack that is as accessible as possible, for as many people as possible. Please practice kindness when you communicate with others, and be mindful of cultural, linguistic, disability, and individual differences that may affect how people communicate online. 
-
-## Social media
-- YouTube
-- Twitter
-- Mastodon
-
-## Events
-- Collaboration Cafe
-- Fireside Chat
-- Trainings & running events more broadly
-
-## Scriberia Illustrations 
-- Alt Text
+## 
