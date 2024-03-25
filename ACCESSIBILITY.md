@@ -92,6 +92,6 @@ This Accessibility Policy was created by The Turing Way.
 
 In developing this policy, we have referred to numerous resources who have developed similar materials. 
 
-This includes resources that were developed internally, such as presentations by Liz Hare and by Andrea Sanchez-Tapia. 
+Contributors to the initial document are Alexandra Araujo Alvarez, Andrea Sanchez-Tapia, Anne Lee Steele, Chi Zhang, Esther Plomp, Laurel Ascenzi, Jesica Formoso, Liz Hare, Malvika Sharan, Patricia Loto, Sophia Batchelor, and Tania Allard. Initial drafts of this policy have been made and were documented from 2022 to 2024.
 
 We also refer to the resources and process of Silvia Canelon's ["Accessibility Commitment"](https://silviacanelon.com/accessibility), 
