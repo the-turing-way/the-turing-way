@@ -25,15 +25,15 @@ All of The Turing Way community calls adhere to the project's [Code of Conduct](
 
 ## Access and inclusion-related support we provide for in-person events
 
-1. **Run a venue tour**:  Before you choose the venue of your event, make sure that it is accessible to everyone, consider that anyone with a wheelchair or walking support should be able to enter the venue, mobilise through its corridors and use the toilets with minimum support. You should also make sure that venue provides a space for: a well-being room, children friendly area, breast-feeding room and praying room.
+1. **Run a venue tour**:  Before we choose the venue of the event,we make a tour to make sure that it is accessible to everyone. We consider that anyone with a wheelchair or walking support should be able to enter the venue, mobilise through its corridors and use the toilets with minimum support. We also make sure that venue provides a space for: a well-being room, children friendly area, breast-feeding room and praying room.
    
-2. **Be mindful of sensory needs**: Provide quiet spaces, and make attendants aware if there will be loud sounds, videos or lighting, etc. Anyone 
+2. **Be mindful of sensory needs**: We provide quiet spaces, and make attendants aware if there will be loud sounds, videos or lighting, etc. Anyone 
 
-3. **Audio settings**: The sound system at the venue should have the audio induction loop system that can send signals directly to hearing aids. The availability of this system should be posted on a sign at the entrance to the room, along with specifications if only a certain part of the room is covered. When possible, provide sign-language. 
-
-4. **Catering**: Provide a wide range of foods including gluten- and allergen-free, as well as vegetarian/vegan, options. Make ingredient lists available.
+3. **Catering**: We request dietary information to all attendees and provide a wide range of foods including gluten- and allergen-free, as well as vegetarian/vegan, options. We make ingredient lists available.
   
-5. **Breaks**: At meals and breaks, make sure that someone is available to help blind and low vision people to navigate food and beverage choices.
+4. **Breaks**: At meals and breaks, we make sure that someone is available to help blind and low vision people to navigate food and beverage choices.
+
+5. **Pictures**: When people register in person, we ask them if they have a problem with being photographed and then place a sticker on their registration badge that allows us to meet their preferences.
 
 ## Support we would like to provide in the future
 
