@@ -18,10 +18,14 @@ These subprojects are often time-bound and are supported by community members wh
 
 *Project Information: [GitHub issues](https://github.com/the-turing-way/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3Ainfrastructure)*
 
-- [Brigitta Sipőcz](https://the-turing-way.netlify.app/afterword/contributors-record#brigitta-sipocz)
-- [Danny Garside](https://the-turing-way.netlify.app/afterword/contributors-record#danny-garside)
-- [Jim Madge](https://the-turing-way.netlify.app/afterword/contributors-record#jim-madge)
-- [Sarah Gibson](https://the-turing-way.netlify.app/afterword/contributors-record#sarah-gibson)
+- Chair: [Danny Garside](https://the-turing-way.netlify.app/afterword/contributors-record#danny-garside)
+- Co-Chair: [Jim Madge](https://the-turing-way.netlify.app/afterword/contributors-record#jim-madge)
+- Secretary: [Sarah Gibson](https://the-turing-way.netlify.app/afterword/contributors-record#sarah-gibson)
+- Member: [Brigitta Sipőcz](https://the-turing-way.netlify.app/afterword/contributors-record#brigitta-sipocz)
+- Member: [Johana Bayer](https://the-turing-way.netlify.app/afterword/contributors-record#likeajumprope)
+
+The Infrastructure working group chair rotates every 6 months, with responsibilities shared among different members of the working groups. 
+The next chair rotation is scheduled for September 2024.
 
 ### Accessibility Working Group Leads
 
@@ -34,9 +38,12 @@ These subprojects are often time-bound and are supported by community members wh
 
 *Project Information: [Chapter in the Community Handbook](https://the-turing-way.netlify.app/community-handbook/bookdash)*
 
-- [Arielle Bennett](https://the-turing-way.netlify.app/afterword/contributors-record#arielle-bennett)
-- [Emma Karoune](https://the-turing-way.netlify.app/afterword/contributors-record#emma-karoune)
-- [Esther Plomp](https://the-turing-way.netlify.app/afterword/contributors-record#esther-plomp)
+- Chair: [Esther Plomp](https://the-turing-way.netlify.app/afterword/contributors-record#esther-plomp)
+- Secretary: [Arielle Bennett](https://the-turing-way.netlify.app/afterword/contributors-record#arielle-bennett)
+- Secretary: [Emma Karoune](https://the-turing-way.netlify.app/afterword/contributors-record#emma-karoune)
+- Member: [Carlos Martinez](https://the-turing-way.netlify.app/afterword/contributors-record#c-martinez)
+- Member: [Susana Roman Garcia](https://the-turing-way.netlify.app/afterword/contributors-record#susana465)
+
 
 ## Funded Projects 
 
