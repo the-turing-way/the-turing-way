@@ -29,7 +29,7 @@ All of The Turing Way community calls adhere to the project's [Code of Conduct](
    
 2. **Be mindful of sensory needs**: We provide quiet spaces, and make attendants aware if there will be loud sounds, videos or lighting, etc. Anyone 
 
-3. **Catering**: We request dietary information to all attendees and provide a wide range of foods including gluten- and allergen-free, as well as vegetarian/vegan, options. We make ingredient lists available.
+3. **Catering**: We request dietary information from all attendees and provide a wide range of foods including gluten- and allergen-free, as well as vegetarian/vegan, options. We make ingredient lists available.
   
 4. **Breaks**: At meals and breaks, we make sure that someone is available to help blind and low vision people to navigate food and beverage choices.
 
