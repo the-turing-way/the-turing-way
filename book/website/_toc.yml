@@ -634,7 +634,7 @@ parts:
 
       # ===== Guide for Accessibility in Data Science ===========================
       
-      - file: accessibility-guide/accessibility-guide
+      - file: accessibility/accessibility
 
       # ===== Guide for Ethical Research ========================================
 
