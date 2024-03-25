@@ -27,7 +27,7 @@ All of The Turing Way community calls adhere to the project's [Code of Conduct](
 
 1. **Run a venue tour**: Before we choose the venue of the event, we do a tour to make sure that it is accessible to and for everyone. We consider whether or not anyone with a wheelchair or needing walking support should be able to enter the venue, move through its corridors and use the toilets with minimum support. We also make sure that venue provides a space for: a well-being room, children friendly area, breast-feeding room and praying room.
    
-2. **Be mindful of sensory needs**: We provide quiet spaces, and make attendants aware if there will be loud sounds, videos or lighting, etc. 
+2. **Be mindful of sensory needs**: We provide quiet spaces, and make attendees aware if there will be loud sounds, videos or special lighting. 
 
 3. **Catering**: We request dietary information from all attendees and provide a wide range of foods including gluten- and allergen-free, as well as vegetarian/vegan, options. We make ingredient lists available.
   
