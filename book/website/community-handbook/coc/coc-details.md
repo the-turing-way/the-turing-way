@@ -47,7 +47,7 @@ Examples of unacceptable behaviour by Turing Way community members at any projec
 
 Participants who are asked to stop any inappropriate behaviour are expected to comply immediately.
 This applies to all Turing Way community events and platforms, either online or in-person.
-If a participant engages in behaviour that violates this Code of Conduct, any member of the core development team may warn the offender, ask them to leave the event or platform (without refund), or impose any other appropriate sanctions (see the [enforcement manual](#4-enforcement-manual) for details).
+If a participant engages in behaviour that violates this Code of Conduct, any member of the core development team may warn the offender, ask them to leave the event or platform (without refund), or impose any other appropriate sanctions (see the [enforcement manual](ch-coc-enforcement) for details).
 
 ## 2.4 Feedback
 

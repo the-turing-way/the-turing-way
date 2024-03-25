@@ -818,7 +818,8 @@
         "doc",
         "review",
         "code",
-        "infra"
+        "infra",
+        "bug"
       ]
     },
     {
@@ -4513,6 +4514,15 @@
       ]
     },
     {
+      "login": "thessaly",
+      "name": "juli arancio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33497609?v=4",
+      "profile": "http://julieta.aranc.io",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
       "login": "mhauru",
       "name": "Markus Hauru",
       "avatar_url": "https://avatars.githubusercontent.com/u/5229876?v=4",
@@ -4537,6 +4547,24 @@
       "profile": "https://github.com/SachaHq",
       "contributions": [
         "content"
+      ]
+    },
+    {
+      "login": "zimolzak",
+      "name": "Andy Zimolzak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2705315?v=4",
+      "profile": "https://github.com/zimolzak",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "Cghlewis",
+      "name": "Cghlewis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33465957?v=4",
+      "profile": "http://cghlewis.com",
+      "contributions": [
+        "bug"
       ]
     }
   ],

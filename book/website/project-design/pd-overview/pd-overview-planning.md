@@ -42,7 +42,7 @@ Obtaining ethical and legal approval is a crucial step in the project to ensure 
 The {ref}`Research Ethics Committees Processes<er-committees>` chapter provides more information about each item. Refer to other chapters in the {ref}`Guide for Ethical Research<er>` for further guidance.
 
 ```{warning}
-Even if you do not need institutional ethical approval, your project will still benefit from planning using self-relfection techniques and including ethical considerations in the project design. 
+Even if you do not need institutional ethical approval, your project will still benefit from planning using self-reflection techniques and including ethical considerations in the project design. 
 Ethics should not be tied to institutions, it is everyone's responsibility. 
 ```
 
