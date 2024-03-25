@@ -26,7 +26,7 @@ This policy is a work in progress, as are the practices that we employ as a comm
 
 These core principles are at the heart of our accessibility policy, and they extend beyond the web accessibility of our open access guides (see 2.1) to the broader practices that that we use as a community on collective platforms (see 2.2) and while hosting events (see 2.3).
 
-This means that questions of access are tied to how people read the guides as well as their ability to participate the project and the community more broadly. Participation in _The Turing Way_ itself can be defined broadly, but doing so often requires navigating a number of different platforms (such as Github, Slack, and others) and languages that may be not be native to the participant. In each of these practices, we aim to facilitate access in a broad sense through:
+This means that questions of access are tied to how people read the guides as well as their ability to participate the project and the community more broadly. Participation in _The Turing Way_ itself can be defined broadly, but doing so often requires navigating a number of different platforms. In all contexts, we aim to facilitate access in a broad sense through:
 
 1. **Removing barriers**: We actively advocate for and employ tactics that seek to remove barriers for any current or future participants in our community. This may include people who historically have been limited or structurely excluded from participating in through educational, geographical, linguistic, or technical barriers.
 2. **Sharing openly and with openness**: We aim to draft, write, review, and edit our open access guides using open source practices, and we do this in order to enable people from a broad range of backgrounds to get involved in the project.
@@ -49,58 +49,49 @@ As a community however, we are committed to ensuring broader accessibility of ou
 
 _The Turing Way_ is committed to ensuring our accessibility as a community on all the platforms we use.
 
-In our Community Handbook, we describe these practices more specifically and in more details. But as a baseline, our community is dedicated to enabling access in the process of creating 
-- Providing diverse opportunities and platforms for people to contribute to _The Turing Way_ despite d
-- Setting standards for writing and contribution that understand the way in which language may exclude as well as include people
+In our Community Handbook, we describe these practices more specifically and in more detail. But as a baseline, our community is dedicated to enabling access across the various platforms we use through:
+- Providing diverse opportunities and platforms for people to contribute to _The Turing Way_ despite barriers or difficults associated with one platform or another
+- Setting and embodying standards for writing and contribution that understand the way in which language may exclude as well as include people in the process
 
 ### 2.3 Community Event Accessibility
 
-As a community
+As a community, we frequently organise events for a variety of purposes: for coworking, trainings, workshops, panels, conference talks, and more.
 
-- - Supplying and recording transcripts for audio and closed captioning of video content
+In our Community Handbook, we describe these practices more specifically and in more detail. As a baseline however, we are committed to enabling accessibility through:
+- Supplying and recording transcripts for audio and closed captioning of video content
+- Enabling wide access to our program context across a variety of platforms
+- Uploading slides and/or presentation materials on Zenodo or other platforms to enable referencing
 
 ### 3.1 How we work with Access-related Feedback
 
-Gathering access-related feedback is integral for ensuring that we Access-related feedback may be submitted via this anonymised form.
+Gathering access-related feedback is integral for ensuring that we can remain accessible as a community. We would like to offer a a few ways of sharing feedback with us, and are currently working to develop the following initiatives:
 
-1. Feedback form
-2. Drop-in sessions - 3x a year: drop-in session to receive feedback aabuout access related different parts of project. Discussion of practices
-3. Direct email to RCM with feedback for 1:1
-4. Drop by Accessibility Working Group meeting -> can focus on feedback
+1. **Feedback form**: Please submit access related through [this form](https://forms.gle/Ngr2eUtQmf7aEeao6). All of the information in this form is done so anonymously, with the option of submitting contact information. 
+2. **Drop-in sessions**: Throughout the calendar year, we would like to facilitate drop-in session to receive feedback aabuout access related different parts of project. These may take place at our Collaboration Cafe or may be hosted separately. 
+3. **Email the Research Community Manager or project team directly directly**: You can always email the Research Community Manager directly at asteele@turing.ac.uk with direct feedback. Alternatively, you can also 
+4. **Attend the Accessibility Working Group meeting**: The Accessibility Working Group meetings may be a place where you can deliver feedback in a small group environment. Please join the #Accessibility channel on slack for more information.
 
-Feedback is taken to monthly meeting with chairs of working groups & project leadership.
+We recognise that many feedback forms and other forms for gathering feedback can often operate as "blackboxes" that receieve information without taking actionable steps to address them.
 
-## Core Principles
-1. We do these accessibility practices to remove barriers for people who historically have been limited in their ability to participate in because these projects benefit everyone
-2. Openness is a means to enable people with broad backgrounds to get involved. Openness for openness' sake does that erase this fact.
-3. Access to commons is a question of management - developing a collective commons is 
-
-
-## How we work with Access-related Feedback
-
-It is important for us to 
-Access-related feedback may be submitted via this anonymised form, which .
-
-During community forums like Collaboration Cafes and Fireside Chat, feedback forms are shared during and after these events in order to gage immediate feedback about this event. 
-
-    Timeline (As of 07.2023)
-
-    Who & how to report access
-
-    Our defining process:
-
-    Accessibility WG - is this the committee that will evaluating access-related feedback?
-
-    Infrastructure WG - is this the group that wil be responsible for creating or enabling infrastructure?
-
-    Escalation --> to funders, PIs, co-leads
+Knowing this, we are working to develop processes that enable us to action and report transparently on feedback given through these channels. This may include:
+- Reporting within the Accessibility Working Group in order to discuss possible actions that can be taken to address feedback
+- Liasoning with appropriate groups within The Turing Way project (i.e. the Infrastructure Working Group) in order to create or resource technical changes that may be needed
+- Escalating feedback to the project co-leads, funders, and others at the constitutional level of the project as needed
 
 ## Confidentiality
 
-All reports will be kept confidential. If. If submitted through another portal, when we discuss incidents and feedback, we will anonymize details as much as we can to protect reporter privacy. In some cases we may determine that a public statement will need to be made. If that’s the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
+By default, all reports will be kept confidential. If submitted through a non-anonymised option, when the team discusses incidents and feedback, we will anonymize details as much as we can to protect reporter privacy. In some cases we may determine that a public statement will need to be made. If that’s the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
+
+## Acknowleding Third-Party Platforms
+
+We recognise that our project relies on a number of third party platforms, and that all of these platforms may not be accessible by default. In future iterations of this policy and guidelines, we aim to employ community audits to understand and review the use of these platforms and their commitment and process for accessibility. 
 
 ## Acknowledgements
 
 This Accessibility Policy was created by The Turing Way.
 
-It refers to the resources and process of Silvia Canelon's ["Accessibility Commitment"](https://silviacanelon.com/accessibility), 
+In developing this policy, we have referred to numerous resources who have developed similar materials. 
+
+This includes resources that were developed internally, such as presentations by Liz Hare and by Andrea Sanchez-Tapia. 
+
+We also refer to the resources and process of Silvia Canelon's ["Accessibility Commitment"](https://silviacanelon.com/accessibility), 
