@@ -51,7 +51,7 @@ _The Turing Way_ is committed to ensuring our accessibility as a community on al
 
 In our Community Handbook, we describe these practices more specifically and in more detail. But as a baseline, our community is dedicated to enabling access across the various platforms we use through:
 - Providing diverse opportunities and platforms for people to contribute to _The Turing Way_ despite barriers or difficulties associated with one platform or another
-- Setting and embodying standards for writing and contribution that understand the way in which language may exclude as well as include people in the process
+- Setting and embodying standards for writing and contribution that understand the way in which language may exclude as well as include people in data science, research, and other collaborative projects
 
 ### 2.3 Community Event Accessibility
 
