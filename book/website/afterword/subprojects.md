@@ -24,7 +24,8 @@ These subprojects are often time-bound and are supported by community members wh
 - Member: [Brigitta Sipőcz](https://the-turing-way.netlify.app/afterword/contributors-record#brigitta-sipocz)
 - Member: [Johana Bayer](https://the-turing-way.netlify.app/afterword/contributors-record#likeajumprope)
 
-The Infrastructure working group chair rotates every 6 months. Next chair rotation allocated for September 2024.
+The Infrastructure working group chair rotates every 6 months, with responsibilities shared among different members of the working groups. 
+The next chair rotation is scheduled for September 2024.
 
 ### Accessibility Working Group Leads
 
