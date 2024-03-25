@@ -443,6 +443,9 @@ Persona Canvas
 Phony Target
   A phony target is one that doesn’t correspond to a file on the filesystem. A target is marked as phony by making it a prerequisite of the .PHONY target.
 
+Plain Language
+  Plain Language (also sometimes referred to as Plain writing or Plain English) is language and communication that your audience can understand the first time they read or hear it. Plain Language is defined by clear, straightforward communication that uses only as many words as are necessary to ensure that your audience understands the message easily. Most newspapers are written using plain language.
+
 Positionality
  Differences in social position and power shape identities and access in society. In acknowledging positionality, we also acknowledge intersecting social locations and complex power dynamics (also see: Intersectionality).
 
