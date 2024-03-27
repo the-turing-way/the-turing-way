@@ -26,7 +26,7 @@ It's usually much easier and more effective to consider accessibility from the o
 
 **Table**
 
-Tables defined as HTML elements should be defined semantically and according to […].
+Tables defined as HTML elements should be defined semantically and according to   §.
 
 - Tables must have headers (for screen-reader navigation)
 - Long tables should be paginated (for screen-reader and neurodiverse users)

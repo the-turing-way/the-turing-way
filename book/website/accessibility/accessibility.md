@@ -17,3 +17,4 @@ alt: [Alt text to go here!]
  _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
+This guide seeks to 
