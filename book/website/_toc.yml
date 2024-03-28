@@ -825,6 +825,15 @@ parts:
                 file: community-handbook/coworking/coworking-weekly
               - title: Organising coworking calls
                 file: community-handbook/coworking/coworking-organisation
+          - title: Onboarding and Offboarding
+            file: community-handbook/onboarding-offboarding
+            sections:
+              - title: General Onboarding
+                file: community-handbook/onboarding-offboarding/general
+              - title: Core Team Onboarding
+                file: community-handbook/onboarding-offboarding/core-team-onboarding-checklist
+              - title: Core Team Offboarding
+                file: community-handbook/onboarding-offboarding/core-team-offboarding-checklist
           - title: Fireside Chat Series
             file: community-handbook/fireside-chat
             sections:
