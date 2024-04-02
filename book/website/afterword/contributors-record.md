@@ -177,106 +177,107 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ereynaud"><img src="https://avatars.githubusercontent.com/u/12295393?v=4?s=100" width="100px;" alt="Emmanuel G. REYNAUD"/><br /><sub><b>Emmanuel G. REYNAUD</b></sub></a><br /><a href="#ideas-ereynaud" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://emmyft.github.io"><img src="https://avatars.githubusercontent.com/u/24935760?v=4?s=100" width="100px;" alt="Emmy Tsang"/><br /><sub><b>Emmy Tsang</b></sub></a><br /><a href="#eventOrganizing-emmyft" title="Event Organizing">📋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.glerean.com"><img src="https://avatars1.githubusercontent.com/u/8993301?v=4?s=100" width="100px;" alt="Enrico Glerean"/><br /><sub><b>Enrico Glerean</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Aeglerean" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/edaub"><img src="https://avatars0.githubusercontent.com/u/45598892?v=4?s=100" width="100px;" alt="Eric Daub"/><br /><sub><b>Eric Daub</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/commits?author=edaub" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://erictleung.com"><img src="https://avatars2.githubusercontent.com/u/2754821?v=4?s=100" width="100px;" alt="Eric Leung"/><br /><sub><b>Eric Leung</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Aerictleung" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.ericrscott.com"><img src="https://avatars2.githubusercontent.com/u/25404783?v=4?s=100" width="100px;" alt="Eric R Scott"/><br /><sub><b>Eric R Scott</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3AAariq" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/EstherPlomp"><img src="https://avatars1.githubusercontent.com/u/46314469?v=4?s=100" width="100px;" alt="Esther Plomp"/><br /><sub><b>Esther Plomp</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3AEstherPlomp" title="Bug reports">🐛</a> <a href="#ideas-EstherPlomp" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-EstherPlomp" title="Content">🖋</a> <a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3AEstherPlomp" title="Reviewed Pull Requests">👀</a> <a href="#talk-EstherPlomp" title="Talks">📢</a> <a href="#blog-EstherPlomp" title="Blogposts">📝</a> <a href="#translation-EstherPlomp" title="Translation">🌍</a> <a href="#eventOrganizing-EstherPlomp" title="Event Organizing">📋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://evelinag.com"><img src="https://avatars2.githubusercontent.com/u/5541162?v=4?s=100" width="100px;" alt="Evelina Gabasova"/><br /><sub><b>Evelina Gabasova</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Aevelinag" title="Bug reports">🐛</a> <a href="#content-evelinag" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fdiblen"><img src="https://avatars.githubusercontent.com/u/144492?v=4?s=100" width="100px;" alt="Faruk D."/><br /><sub><b>Faruk D.</b></sub></a><br /><a href="#content-fdiblen" title="Content">🖋</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/fdiblen"><img src="https://avatars.githubusercontent.com/u/144492?v=4?s=100" width="100px;" alt="Faruk D."/><br /><sub><b>Faruk D.</b></sub></a><br /><a href="#content-fdiblen" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://federiconanni.com/"><img src="https://avatars2.githubusercontent.com/u/8415204?v=4?s=100" width="100px;" alt="Federico Nanni"/><br /><sub><b>Federico Nanni</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Afedenanni" title="Bug reports">🐛</a> <a href="#content-fedenanni" title="Content">🖋</a> <a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Afedenanni" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.turing.ac.uk/people/doctoral-students/ferran-gonzalez-hernandez"><img src="https://avatars0.githubusercontent.com/u/43019129?v=4?s=100" width="100px;" alt="Ferran Gonzalez Hernandez"/><br /><sub><b>Ferran Gonzalez Hernandez</b></sub></a><br /><a href="#ideas-fgh95" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://flavio2018.github.io"><img src="https://avatars.githubusercontent.com/u/39437769?v=4?s=100" width="100px;" alt="Flavio Petruzzellis"/><br /><sub><b>Flavio Petruzzellis</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Aflavio2018" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://asquera.de"><img src="https://avatars2.githubusercontent.com/u/47542?v=4?s=100" width="100px;" alt="Florian Gilcher"/><br /><sub><b>Florian Gilcher</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Askade" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://francescooper.net"><img src="https://avatars3.githubusercontent.com/u/14854230?v=4?s=100" width="100px;" alt="Frances Cooper"/><br /><sub><b>Frances Cooper</b></sub></a><br /><a href="#content-fmcooper" title="Content">🖋</a> <a href="#ideas-fmcooper" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/FrancesMadden"><img src="https://avatars3.githubusercontent.com/u/52208466?v=4?s=100" width="100px;" alt="Frances Madden"/><br /><sub><b>Frances Madden</b></sub></a><br /><a href="#content-FrancesMadden" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Froguin99"><img src="https://avatars.githubusercontent.com/u/93538632?v=4?s=100" width="100px;" alt="Froguin99"/><br /><sub><b>Froguin99</b></sub></a><br /><a href="#ideas-Froguin99" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-Froguin99" title="Content">🖋</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Froguin99"><img src="https://avatars.githubusercontent.com/u/93538632?v=4?s=100" width="100px;" alt="Froguin99"/><br /><sub><b>Froguin99</b></sub></a><br /><a href="#ideas-Froguin99" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-Froguin99" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/FrozenLines"><img src="https://avatars.githubusercontent.com/u/103727912?v=4?s=100" width="100px;" alt="FrozenLines"/><br /><sub><b>FrozenLines</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3AFrozenLines" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/fuad-reza-pahlevi-531283160/"><img src="https://avatars1.githubusercontent.com/u/25898509?v=4?s=100" width="100px;" alt="Fuad Reza Pahlevi"/><br /><sub><b>Fuad Reza Pahlevi</b></sub></a><br /><a href="#translation-fuadreza" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/GabinWK"><img src="https://avatars.githubusercontent.com/u/104582708?v=4?s=100" width="100px;" alt="GabinWK"/><br /><sub><b>GabinWK</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3AGabinWK" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/GeorgiaHCA"><img src="https://avatars1.githubusercontent.com/u/46889966?v=4?s=100" width="100px;" alt="Georgia"/><br /><sub><b>Georgia</b></sub></a><br /><a href="#ideas-GeorgiaHCA" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/GeorgiaA"><img src="https://avatars2.githubusercontent.com/u/33513781?v=4?s=100" width="100px;" alt="Georgia Atkinson"/><br /><sub><b>Georgia Atkinson</b></sub></a><br /><a href="#ideas-GeorgiaA" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/georgiatomova"><img src="https://avatars3.githubusercontent.com/u/17258191?v=4?s=100" width="100px;" alt="Georgia Tomova"/><br /><sub><b>Georgia Tomova</b></sub></a><br /><a href="#ideas-georgiatomova" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/GeorgianaElena"><img src="https://avatars0.githubusercontent.com/u/7579677?v=4?s=100" width="100px;" alt="Georgiana Elena"/><br /><sub><b>Georgiana Elena</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3AGeorgianaElena" title="Reviewed Pull Requests">👀</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/GeorgianaElena"><img src="https://avatars0.githubusercontent.com/u/7579677?v=4?s=100" width="100px;" alt="Georgiana Elena"/><br /><sub><b>Georgiana Elena</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3AGeorgianaElena" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://gertjan.dev"><img src="https://avatars2.githubusercontent.com/u/3286696?v=4?s=100" width="100px;" alt="Gertjan van den Burg"/><br /><sub><b>Gertjan van den Burg</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/commits?author=GjjvdBurg" title="Documentation">📖</a> <a href="#ideas-GjjvdBurg" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-GjjvdBurg" title="Answering Questions">💬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/giannidsp"><img src="https://avatars1.githubusercontent.com/u/40976911?v=4?s=100" width="100px;" alt="Gianni Scolaro"/><br /><sub><b>Gianni Scolaro</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Agiannidsp" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://bit.ly/gigi-kenneth"><img src="https://avatars.githubusercontent.com/u/52600214?v=4?s=100" width="100px;" alt="Gigi Kenneth"/><br /><sub><b>Gigi Kenneth</b></sub></a><br /><a href="#content-gigikenneth" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/giulia-crocioni/"><img src="https://avatars.githubusercontent.com/u/55382553?v=4?s=100" width="100px;" alt="Giulia Crocioni"/><br /><sub><b>Giulia Crocioni</b></sub></a><br /><a href="#translation-gcroci2" title="Translation">🌍</a> <a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Agcroci2" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://goodnewssandy.netlify.app/"><img src="https://avatars.githubusercontent.com/u/54219127?v=4?s=100" width="100px;" alt="Goodnews Sandy"/><br /><sub><b>Goodnews Sandy</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Asandygudie" title="Bug reports">🐛</a> <a href="#content-sandygudie" title="Content">🖋</a> <a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Asandygudie" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://labrary.online"><img src="https://avatars0.githubusercontent.com/u/237254?v=4?s=100" width="100px;" alt="Graham Lee"/><br /><sub><b>Graham Lee</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Aiamleeg" title="Bug reports">🐛</a> <a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Aiamleeg" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://www.caporasolab.us"><img src="https://avatars.githubusercontent.com/u/192372?v=4?s=100" width="100px;" alt="Greg Caporaso"/><br /><sub><b>Greg Caporaso</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Agregcaporaso" title="Bug reports">🐛</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.caporasolab.us"><img src="https://avatars.githubusercontent.com/u/192372?v=4?s=100" width="100px;" alt="Greg Caporaso"/><br /><sub><b>Greg Caporaso</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Agregcaporaso" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://gkiar.github.io"><img src="https://avatars3.githubusercontent.com/u/4883288?v=4?s=100" width="100px;" alt="Greg Kiar"/><br /><sub><b>Greg Kiar</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/commits?author=gkiar" title="Documentation">📖</a> <a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Agkiar" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.fil.ion.ucl.ac.uk/team/spm-team/"><img src="https://avatars.githubusercontent.com/u/5950855?v=4?s=100" width="100px;" alt="Guillaume Flandin"/><br /><sub><b>Guillaume Flandin</b></sub></a><br /><a href="#content-gllmflndn" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/gustavobecelli"><img src="https://avatars3.githubusercontent.com/u/39573195?v=4?s=100" width="100px;" alt="Gustavo Becelli do Nacimento"/><br /><sub><b>Gustavo Becelli do Nacimento</b></sub></a><br /><a href="#translation-gustavobecelli" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://haoye.us"><img src="https://avatars.githubusercontent.com/u/5835366?v=4?s=100" width="100px;" alt="Hao Ye"/><br /><sub><b>Hao Ye</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Aha0ye" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/HeidiBaya"><img src="https://avatars1.githubusercontent.com/u/14146757?v=4?s=100" width="100px;" alt="Heidi Seibold"/><br /><sub><b>Heidi Seibold</b></sub></a><br /><a href="#ideas-HeidiSeibold" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-HeidiSeibold" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.hoang.co.uk/hieu"><img src="https://avatars1.githubusercontent.com/u/691732?v=4?s=100" width="100px;" alt="Hieu Hoang"/><br /><sub><b>Hieu Hoang</b></sub></a><br /><a href="#ideas-hieuhoang" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Iain-S"><img src="https://avatars.githubusercontent.com/u/25081046?v=4?s=100" width="100px;" alt="Iain"/><br /><sub><b>Iain</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3AIain-S" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/the-turing-way/the-turing-way/commits?author=Iain-S" title="Code">💻</a> <a href="#infra-Iain-S" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Iain-S"><img src="https://avatars.githubusercontent.com/u/25081046?v=4?s=100" width="100px;" alt="Iain"/><br /><sub><b>Iain</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3AIain-S" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/the-turing-way/the-turing-way/commits?author=Iain-S" title="Code">💻</a> <a href="#infra-Iain-S" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://ianhinder.net"><img src="https://avatars3.githubusercontent.com/u/213274?v=4?s=100" width="100px;" alt="Ian Hinder"/><br /><sub><b>Ian Hinder</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/commits?author=ianhinder" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://bandism.net/"><img src="https://avatars.githubusercontent.com/u/22633385?v=4?s=100" width="100px;" alt="Ikko Ashimine"/><br /><sub><b>Ikko Ashimine</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Aeltociear" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://aspdenlab.weebly.com/isabel-birds.html"><img src="https://avatars.githubusercontent.com/u/44876111?v=4?s=100" width="100px;" alt="IsabelBirds"/><br /><sub><b>IsabelBirds</b></sub></a><br /><a href="#ideas-IsabelBirds" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/complexbrains"><img src="https://avatars1.githubusercontent.com/u/45263281?v=4?s=100" width="100px;" alt="Isil Bilgin"/><br /><sub><b>Isil Bilgin</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Acomplexbrains" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Ismael-KG"><img src="https://avatars0.githubusercontent.com/u/64027166?v=4?s=100" width="100px;" alt="Ismael-KG"/><br /><sub><b>Ismael-KG</b></sub></a><br /><a href="#content-Ismael-KG" title="Content">🖋</a> <a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3AIsmael-KG" title="Reviewed Pull Requests">👀</a> <a href="#blog-Ismael-KG" title="Blogposts">📝</a> <a href="#ideas-Ismael-KG" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://sites.google.com/view/drjkasmireresearch/home"><img src="https://avatars2.githubusercontent.com/u/1334163?v=4?s=100" width="100px;" alt="JKasmire"/><br /><sub><b>JKasmire</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3AJKasmire" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/scjjb"><img src="https://avatars.githubusercontent.com/u/77981425?v=4?s=100" width="100px;" alt="Jack Breen"/><br /><sub><b>Jack Breen</b></sub></a><br /><a href="#ideas-scjjb" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-scjjb" title="Content">🖋</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/scjjb"><img src="https://avatars.githubusercontent.com/u/77981425?v=4?s=100" width="100px;" alt="Jack Breen"/><br /><sub><b>Jack Breen</b></sub></a><br /><a href="#ideas-scjjb" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-scjjb" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jspickering"><img src="https://avatars3.githubusercontent.com/u/28339195?v=4?s=100" width="100px;" alt="Jade Pickering"/><br /><sub><b>Jade Pickering</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/commits?author=jspickering" title="Documentation">📖</a> <a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Ajspickering" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JadeHotchkiss"><img src="https://avatars.githubusercontent.com/u/25898078?v=4?s=100" width="100px;" alt="JadeHotchkiss"/><br /><sub><b>JadeHotchkiss</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3AJadeHotchkiss" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://cradledincaricature.com/"><img src="https://avatars.githubusercontent.com/u/4965300?v=4?s=100" width="100px;" alt="James Baker"/><br /><sub><b>James Baker</b></sub></a><br /><a href="#content-drjwbaker" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/james-kent-24666468/"><img src="https://avatars0.githubusercontent.com/u/12564882?v=4?s=100" width="100px;" alt="James Kent"/><br /><sub><b>James Kent</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Ajdkent" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.jamesmyatt.co.uk/"><img src="https://avatars1.githubusercontent.com/u/1047337?v=4?s=100" width="100px;" alt="James Myatt"/><br /><sub><b>James Myatt</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/commits?author=jamesmyatt" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jemrobinson"><img src="https://avatars2.githubusercontent.com/u/3502751?v=4?s=100" width="100px;" alt="James Robinson"/><br /><sub><b>James Robinson</b></sub></a><br /><a href="#ideas-jemrobinson" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/the-turing-way/the-turing-way/commits?author=jemrobinson" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://linkedin.com/in/jatonline"><img src="https://avatars.githubusercontent.com/u/48878399?v=4?s=100" width="100px;" alt="James Thomas"/><br /><sub><b>James Thomas</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Ajatonline" title="Bug reports">🐛</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://linkedin.com/in/jatonline"><img src="https://avatars.githubusercontent.com/u/48878399?v=4?s=100" width="100px;" alt="James Thomas"/><br /><sub><b>James Thomas</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Ajatonline" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://jamiejquinn.com"><img src="https://avatars.githubusercontent.com/u/8229296?v=4?s=100" width="100px;" alt="Jamie J Quinn"/><br /><sub><b>Jamie J Quinn</b></sub></a><br /><a href="#content-JamieJQuinn" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.jannetta.com"><img src="https://avatars.githubusercontent.com/u/6432530?v=4?s=100" width="100px;" alt="Jannetta Steyn"/><br /><sub><b>Jannetta Steyn</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Ajsteyn" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JaroCamphuijsen"><img src="https://avatars.githubusercontent.com/u/12695232?v=4?s=100" width="100px;" alt="Jaro Camphuijsen"/><br /><sub><b>Jaro Camphuijsen</b></sub></a><br /><a href="#content-JaroCamphuijsen" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jmgate"><img src="https://avatars3.githubusercontent.com/u/20327215?v=4?s=100" width="100px;" alt="Jason Gates"/><br /><sub><b>Jason Gates</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/commits?author=jmgate" title="Documentation">📖</a> <a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Ajmgate" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jmoldon"><img src="https://avatars2.githubusercontent.com/u/1053066?v=4?s=100" width="100px;" alt="Javier Moldon"/><br /><sub><b>Javier Moldon</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/commits?author=jmoldon" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/IIITM-Jay"><img src="https://avatars2.githubusercontent.com/u/65283880?v=4?s=100" width="100px;" alt="Jay Dev Jha"/><br /><sub><b>Jay Dev Jha</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3AIIITM-Jay" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://jending.com"><img src="https://avatars.githubusercontent.com/u/5104098?v=4?s=100" width="100px;" alt="Jennifer Ding"/><br /><sub><b>Jennifer Ding</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Adingaaling" title="Bug reports">🐛</a> <a href="#translation-dingaaling" title="Translation">🌍</a> <a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Adingaaling" title="Reviewed Pull Requests">👀</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://jending.com"><img src="https://avatars.githubusercontent.com/u/5104098?v=4?s=100" width="100px;" alt="Jennifer Ding"/><br /><sub><b>Jennifer Ding</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Adingaaling" title="Bug reports">🐛</a> <a href="#translation-dingaaling" title="Translation">🌍</a> <a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Adingaaling" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ubikcan"><img src="https://avatars.githubusercontent.com/u/23242626?v=4?s=100" width="100px;" alt="Jeremy Crampton"/><br /><sub><b>Jeremy Crampton</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Aubikcan" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/jermdemo"><img src="https://avatars3.githubusercontent.com/u/147991?v=4?s=100" width="100px;" alt="Jeremy Leipzig"/><br /><sub><b>Jeremy Leipzig</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Aleipzig" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://jerrydevos.com"><img src="https://avatars.githubusercontent.com/u/22919620?v=4?s=100" width="100px;" alt="Jerry de Vos"/><br /><sub><b>Jerry de Vos</b></sub></a><br /><a href="#content-Jerzeek" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JessicaS11"><img src="https://avatars.githubusercontent.com/u/11756442?v=4?s=100" width="100px;" alt="Jessica"/><br /><sub><b>Jessica</b></sub></a><br /><a href="#content-JessicaS11" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jessyprovencher"><img src="https://avatars2.githubusercontent.com/u/70674444?v=4?s=100" width="100px;" alt="Jessy Provencher"/><br /><sub><b>Jessy Provencher</b></sub></a><br /><a href="#translation-jessyprovencher" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://erambler.co.uk/"><img src="https://avatars3.githubusercontent.com/u/457628?v=4?s=100" width="100px;" alt="Jez Cope"/><br /><sub><b>Jez Cope</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/commits?author=jezcope" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JiaruiWang-Jill"><img src="https://avatars.githubusercontent.com/u/41178872?v=4?s=100" width="100px;" alt="Jill Wang"/><br /><sub><b>Jill Wang</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3AJiaruiWang-Jill" title="Bug reports">🐛</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JiaruiWang-Jill"><img src="https://avatars.githubusercontent.com/u/41178872?v=4?s=100" width="100px;" alt="Jill Wang"/><br /><sub><b>Jill Wang</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3AJiaruiWang-Jill" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://inconsistentrecords.co.uk"><img src="https://avatars.githubusercontent.com/u/731727?v=4?s=100" width="100px;" alt="Jim Circadian"/><br /><sub><b>Jim Circadian</b></sub></a><br /><a href="#content-JimCircadian" title="Content">🖋</a> <a href="#ideas-JimCircadian" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JimMadge"><img src="https://avatars2.githubusercontent.com/u/23616154?v=4?s=100" width="100px;" alt="Jim Madge"/><br /><sub><b>Jim Madge</b></sub></a><br /><a href="#content-JimMadge" title="Content">🖋</a> <a href="https://github.com/the-turing-way/the-turing-way/commits?author=JimMadge" title="Documentation">📖</a> <a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3AJimMadge" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/the-turing-way/the-turing-way/commits?author=JimMadge" title="Code">💻</a> <a href="#infra-JimMadge" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3AJimMadge" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JoannaLeng"><img src="https://avatars1.githubusercontent.com/u/23033397?v=4?s=100" width="100px;" alt="Joanna Leng"/><br /><sub><b>Joanna Leng</b></sub></a><br /><a href="#content-JoannaLeng" title="Content">🖋</a> <a href="#ideas-JoannaLeng" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.jearly.co.uk"><img src="https://avatars2.githubusercontent.com/u/7620667?v=4?s=100" width="100px;" alt="Joe Early"/><br /><sub><b>Joe Early</b></sub></a><br /><a href="#ideas-JAEarly" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/joe-fennell"><img src="https://avatars3.githubusercontent.com/u/25105262?v=4?s=100" width="100px;" alt="Joe Fennell"/><br /><sub><b>Joe Fennell</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/commits?author=joe-fennell" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/likeajumprope"><img src="https://avatars.githubusercontent.com/u/23728822?v=4?s=100" width="100px;" alt="Johanna Bayer"/><br /><sub><b>Johanna Bayer</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Alikeajumprope" title="Reviewed Pull Requests">👀</a> <a href="#content-likeajumprope" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jurra"><img src="https://avatars.githubusercontent.com/u/18581201?v=4?s=100" width="100px;" alt="Jose Urra "/><br /><sub><b>Jose Urra </b></sub></a><br /><a href="#ideas-jurra" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jurra"><img src="https://avatars.githubusercontent.com/u/18581201?v=4?s=100" width="100px;" alt="Jose Urra "/><br /><sub><b>Jose Urra </b></sub></a><br /><a href="#ideas-jurra" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jbteves"><img src="https://avatars3.githubusercontent.com/u/26722533?v=4?s=100" width="100px;" alt="Joshua Teves"/><br /><sub><b>Joshua Teves</b></sub></a><br /><a href="#ideas-jbteves" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.madrimasd.org/blogs/bioinformatica"><img src="https://avatars1.githubusercontent.com/u/2072150?v=4?s=100" width="100px;" alt="José María Fernández"/><br /><sub><b>José María Fernández</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Ajmfernandez" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://guiomarniso.com"><img src="https://avatars.githubusercontent.com/u/4451818?v=4?s=100" width="100px;" alt="Julia Guiomar Niso Galán"/><br /><sub><b>Julia Guiomar Niso Galán</b></sub></a><br /><a href="#translation-guiomar" title="Translation">🌍</a> <a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Aguiomar" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://orcid.org/0000-0002-3127-5520"><img src="https://avatars2.githubusercontent.com/u/1876667?v=4?s=100" width="100px;" alt="Julien Colomb"/><br /><sub><b>Julien Colomb</b></sub></a><br /><a href="#content-jcolomb" title="Content">🖋</a> <a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Ajcolomb" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/K-C-Martin"><img src="https://avatars.githubusercontent.com/u/57388565?v=4?s=100" width="100px;" alt="K-C-Martin"/><br /><sub><b>K-C-Martin</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3AK-C-Martin" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.westerling.nu"><img src="https://avatars.githubusercontent.com/u/7298727?v=4?s=100" width="100px;" alt="Kalle Westerling"/><br /><sub><b>Kalle Westerling</b></sub></a><br /><a href="#content-kallewesterling" title="Content">🖋</a> <a href="https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+reviewed-by%3Akallewesterling" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Akallewesterling" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/KarolineLeiberg"><img src="https://avatars.githubusercontent.com/u/57093276?v=4?s=100" width="100px;" alt="KarolineLeiberg"/><br /><sub><b>KarolineLeiberg</b></sub></a><br /><a href="#ideas-KarolineLeiberg" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://katehertweck.com"><img src="https://avatars.githubusercontent.com/u/1678233?v=4?s=100" width="100px;" alt="Kate Hertweck"/><br /><sub><b>Kate Hertweck</b></sub></a><br /><a href="#eventOrganizing-k8hertweck" title="Event Organizing">📋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/KarolineLeiberg"><img src="https://avatars.githubusercontent.com/u/57093276?v=4?s=100" width="100px;" alt="KarolineLeiberg"/><br /><sub><b>KarolineLeiberg</b></sub></a><br /><a href="#ideas-KarolineLeiberg" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kdixey"><img src="https://avatars2.githubusercontent.com/u/59925972?v=4?s=100" width="100px;" alt="Katherine Dixey"/><br /><sub><b>Katherine Dixey</b></sub></a><br /><a href="#ideas-kdixey" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://katrionagoldmann.github.io"><img src="https://avatars.githubusercontent.com/u/25952322?v=4?s=100" width="100px;" alt="Katriona Goldmann"/><br /><sub><b>Katriona Goldmann</b></sub></a><br /><a href="#content-KatrionaGoldmann" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/klbarnes20"><img src="https://avatars.githubusercontent.com/u/64787509?v=4?s=100" width="100px;" alt="Kelly Barnes"/><br /><sub><b>Kelly Barnes</b></sub></a><br /><a href="https://github.com/the-turing-way/the-turing-way/issues?q=author%3Aklbarnes20" title="Bug reports">🐛</a></td>
@@ -645,3 +646,354 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
 Contributions of any kind welcome!
+
+<!-- CROWDIN-CONTRIBUTORS-LIST:START -->
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/26/medium/5b77163808ce530c50d295f1336507d8_default.png" />
+      <br />
+      <sub><b>Asma Kacem (asmakacem)</b></sub>
+      <br />
+      <sub><b>35934 words</b></sub>
+      <br /><sub><b><code title="Arabic">ar</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/1/medium/0c17284a2e87d9a1933f711746212298.jpeg" />
+      <br />
+      <sub><b>Batool Almarzouq (batool664)</b></sub>
+      <br />
+      <sub><b>23108 words</b></sub>
+      <br /><sub><b><code title="Arabic">ar</code></b>, <b><code title="Chinese Simplified">zh-CN</code></b>, <b><code title="French">fr</code></b>, <b><code title="German">de</code></b>, <b><code title="Italian">it</code></b>, <b><code title="Japanese">ja</code></b>, <b><code title="Portuguese, Brazilian">pt-BR</code></b>, <b><code title="Spanish">es</code></b>, <b><code title="Spanish, Latin America">es-419</code></b>, <b><code title="Turkish">tr</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/145/medium/06752c8f7224d971a260ffbdb67071e6.png" />
+      <br />
+      <sub><b>Richie Moluno (molunorichie)</b></sub>
+      <br />
+      <sub><b>149739 words</b></sub>
+      <br /><sub><b><code title="Arabic">ar</code></b>, <b><code title="Chinese Simplified">zh-CN</code></b>, <b><code title="French">fr</code></b>, <b><code title="Japanese">ja</code></b>, <b><code title="Portuguese, Brazilian">pt-BR</code></b>, <b><code title="Spanish, Latin America">es-419</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/90/medium/6112a91c1fd9fd24ed2d5906a2db3ef9.jpeg" />
+      <br />
+      <sub><b>cozenkaplan</b></sub>
+      <br />
+      <sub><b>5914 words</b></sub>
+      <br /><sub><b><code title="Turkish">tr</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/12/medium/112dffa3e5cc1fbd7fbbd3e9bfd520dc_default.png" />
+      <br />
+      <sub><b>Mohamed Alaa Eddine Mejri (alaamejri)</b></sub>
+      <br />
+      <sub><b>2658 words</b></sub>
+      <br /><sub><b><code title="Arabic">ar</code></b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/135/medium/d8c65f8d4d1289eb0116d654ebd1fa7d_default.png" />
+      <br />
+      <sub><b>node</b></sub>
+      <br />
+      <sub><b>2390 words</b></sub>
+      <br /><sub><b><code title="Chinese Simplified">zh-CN</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/7/medium/ba8209f4544bc4fcf882f35ba295bc5c_default.png" />
+      <br />
+      <sub><b>crangelsmith</b></sub>
+      <br />
+      <sub><b>2685 words</b></sub>
+      <br /><sub><b><code title="French">fr</code></b>, <b><code title="Spanish, Latin America">es-419</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/5/medium/463393d04547cd1067cccdb0cf0e33c7.jpeg" />
+      <br />
+      <sub><b>acocac</b></sub>
+      <br />
+      <sub><b>1892 words</b></sub>
+      <br /><sub><b><code title="Spanish, Latin America">es-419</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/10/medium/1b1667031f9e47e186ffdd6b8a184dfe.png" />
+      <br />
+      <sub><b>Boutainaelatbaoui</b></sub>
+      <br />
+      <sub><b>1259 words</b></sub>
+      <br /><sub><b><code title="Arabic">ar</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/20/medium/32627112ab709769f5d1406937ed9558.jpg" />
+      <br />
+      <sub><b>ثناء (Thana)</b></sub>
+      <br />
+      <sub><b>1094 words</b></sub>
+      <br /><sub><b><code title="Arabic">ar</code></b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/68/medium/6deaa65b1f0997b43df812d13b2f1106.jpeg" />
+      <br />
+      <sub><b>Kozo Nishida (kozo2)</b></sub>
+      <br />
+      <sub><b>1043 words</b></sub>
+      <br /><sub><b><code title="Japanese">ja</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/108/medium/b060f6c4b504d701c36d4b384e612dd4_default.png" />
+      <br />
+      <sub><b>berhankatipoglu</b></sub>
+      <br />
+      <sub><b>990 words</b></sub>
+      <br /><sub><b><code title="Turkish">tr</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/100/medium/17fa9c884f31b86b2236f8c2db0f4def_default.png" />
+      <br />
+      <sub><b>melibleq</b></sub>
+      <br />
+      <sub><b>1998 words</b></sub>
+      <br /><sub><b><code title="Arabic">ar</code></b>, <b><code title="Portuguese, Brazilian">pt-BR</code></b>, <b><code title="Spanish, Latin America">es-419</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/139/medium/2449eb1df310dcaff0ccb929817c5543.jpeg" />
+      <br />
+      <sub><b>Anna Zanchetta (ciupava)</b></sub>
+      <br />
+      <sub><b>1846 words</b></sub>
+      <br /><sub><b><code title="Italian">it</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/64/medium/dc6bbb114a3c768f424a553bac213989.jpeg" />
+      <br />
+      <sub><b>timothy22000</b></sub>
+      <br />
+      <sub><b>879 words</b></sub>
+      <br /><sub><b><code title="Chinese Simplified">zh-CN</code></b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/18/medium/4eaefb611f9a4efb0dbe090002e56c31_default.png" />
+      <br />
+      <sub><b>seunlijoka</b></sub>
+      <br />
+      <sub><b>861 words</b></sub>
+      <br /><sub><b><code title="Arabic">ar</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/70/medium/2262b12230cac55e1d97a9d3f3af8086.png" />
+      <br />
+      <sub><b>Muhammet Ali Kula (alikula314)</b></sub>
+      <br />
+      <sub><b>840 words</b></sub>
+      <br /><sub><b><code title="Turkish">tr</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/52/medium/1270d5b75e2b6b35d222b9e1c19b973f_default.png" />
+      <br />
+      <sub><b>Muluh</b></sub>
+      <br />
+      <sub><b>713 words</b></sub>
+      <br /><sub><b><code title="Arabic">ar</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/106/medium/4525151e38c77aba3592e1666c7717f4.jpeg" />
+      <br />
+      <sub><b>İsmail Kılıç (ismailkilic)</b></sub>
+      <br />
+      <sub><b>633 words</b></sub>
+      <br /><sub><b><code title="Turkish">tr</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/60/medium/dd415fa9f35bc08f229498c49bf053ea.JPG" />
+      <br />
+      <sub><b>Iman Al Hasani (ImanAlhasani)</b></sub>
+      <br />
+      <sub><b>1274 words</b></sub>
+      <br /><sub><b><code title="Arabic">ar</code></b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/66/medium/48ff46079939fb7bebca7186552ad3fc.jpeg" />
+      <br />
+      <sub><b>Anıl Tuncel (anilbey)</b></sub>
+      <br />
+      <sub><b>609 words</b></sub>
+      <br /><sub><b><code title="Spanish, Latin America">es-419</code></b>, <b><code title="Turkish">tr</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/86/medium/591f614a9b9be8d2ec9b04e63699a377.jpeg" />
+      <br />
+      <sub><b>Ceren YURTLU (cerenyurtlu)</b></sub>
+      <br />
+      <sub><b>362 words</b></sub>
+      <br /><sub><b><code title="Turkish">tr</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/98/medium/84288ef00942e512a1e54bc8545db2f1.jpeg" />
+      <br />
+      <sub><b>yasin güneş (yasin01ysn)</b></sub>
+      <br />
+      <sub><b>269 words</b></sub>
+      <br /><sub><b><code title="Turkish">tr</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/3/medium/83bd007136a00d1a9fa70f1f14afbb66_default.png" />
+      <br />
+      <sub><b>Andrea Sánchez-Tapia (andreasancheztapia)</b></sub>
+      <br />
+      <sub><b>2134 words</b></sub>
+      <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b>, <b><code title="Spanish, Latin America">es-419</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/131/medium/0b582d612e2a4062b069a758f2534430.jpeg" />
+      <br />
+      <sub><b>Johan Bonneau (Zenigata)</b></sub>
+      <br />
+      <sub><b>254 words</b></sub>
+      <br /><sub><b><code title="French">fr</code></b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/8/medium/d6d807e129e1bb3c24aa1635afeb6d09.jpeg" />
+      <br />
+      <sub><b>Nancy Aswad (nancyalaswad90)</b></sub>
+      <br />
+      <sub><b>230 words</b></sub>
+      <br /><sub><b><code title="Arabic">ar</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/48/medium/42082ab79726e9cee6033ad20c017722.jpeg" />
+      <br />
+      <sub><b>Salma Abdelfattah (salmaabdelfatah77)</b></sub>
+      <br />
+      <sub><b>225 words</b></sub>
+      <br /><sub><b><code title="Arabic">ar</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/36/medium/7fedad8f1ac74abc71cb774f8b7236ca.png" />
+      <br />
+      <sub><b>IssaAlrubaye</b></sub>
+      <br />
+      <sub><b>231 words</b></sub>
+      <br /><sub><b><code title="Arabic">ar</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/54/medium/49e7cf2ae4b97bc5dca7c2d848e84117.png" />
+      <br />
+      <sub><b>Abdulrahman Alswaji (alswajiab)</b></sub>
+      <br />
+      <sub><b>164 words</b></sub>
+      <br /><sub><b><code title="Arabic">ar</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/125/medium/3f3d78bc1e1aed775ca33429148b74e4.jpeg" />
+      <br />
+      <sub><b>KHADIJAH WURAOLA AMUSAT (Khadeeejah)</b></sub>
+      <br />
+      <sub><b>164 words</b></sub>
+      <br /><sub><b><code title="Arabic">ar</code></b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/92/medium/8d9e7e27ed54c88f71729cea1b8d98b0_default.png" />
+      <br />
+      <sub><b>iclal.cetin</b></sub>
+      <br />
+      <sub><b>91 words</b></sub>
+      <br /><sub><b><code title="Turkish">tr</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/80/medium/bd65e4c199c4894429131d427d14871b_default.png" />
+      <br />
+      <sub><b>niraito</b></sub>
+      <br />
+      <sub><b>87 words</b></sub>
+      <br /><sub><b><code title="Turkish">tr</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/84/medium/9b47771c0437ed8f8bf438caef48f508_default.png" />
+      <br />
+      <sub><b>merveaydin</b></sub>
+      <br />
+      <sub><b>77 words</b></sub>
+      <br /><sub><b><code title="Turkish">tr</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/154/medium/ca8fba23cbd0d3868c752404f7347b04.png" />
+      <br />
+      <sub><b>Annajiat Alim Rasel (annajiat)</b></sub>
+      <br />
+      <sub><b>71 words</b></sub>
+      <br /><sub><b><code title="Bengali">bn</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/62/medium/ba0593097d63731f2da78ae9e0ed3296.jpeg" />
+      <br />
+      <sub><b>Gültekin Ünal (cinnetcrash)</b></sub>
+      <br />
+      <sub><b>63 words</b></sub>
+      <br /><sub><b><code title="Turkish">tr</code></b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/109/medium/1ea5e78434e043089a69456bca38e711.JPG" />
+      <br />
+      <sub><b>Burhan Simsek (burhansimsekbs)</b></sub>
+      <br />
+      <sub><b>45 words</b></sub>
+      <br /><sub><b><code title="Turkish">tr</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/121/medium/b2f34f2fea0e93e39a3f9beafabc0fb5_default.png" />
+      <br />
+      <sub><b>danielumpierre</b></sub>
+      <br />
+      <sub><b>30 words</b></sub>
+      <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/72/medium/137b4d9172d1ad8ed62737ac8e13a045_default.png" />
+      <br />
+      <sub><b>fatmaerdem</b></sub>
+      <br />
+      <sub><b>40 words</b></sub>
+      <br /><sub><b><code title="Turkish">tr</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/74/medium/9113e949babb3cc63807298633376b00.jpeg" />
+      <br />
+      <sub><b>Şükrücan Cebeci (sukrucncbc)</b></sub>
+      <br />
+      <sub><b>11 words</b></sub>
+      <br /><sub><b><code title="Turkish">tr</code></b></sub>
+    </td>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/151/medium/bf57e39ccfdd7d3d9de8bd94551b7f05.jpeg" />
+      <br />
+      <sub><b>mcnanton</b></sub>
+      <br />
+      <sub><b>4 words</b></sub>
+      <br /><sub><b><code title="Spanish, Latin America">es-419</code></b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/137/medium/0db9c41e4579dc47c5a289315ca6e016.jpeg" />
+      <br />
+      <sub><b>João Vitor (jvfe)</b></sub>
+      <br />
+      <sub><b>1 words</b></sub>
+      <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
+    </td>
+  </tr>
+</table><a href="https://turingway.crowdin.com/turing-way" target="_blank">Translate in Crowdin 🚀</a>
+<!-- CROWDIN-CONTRIBUTORS-LIST:END -->

@@ -73,7 +73,7 @@ There are many ways to get in touch with _The Turing Way_ team!
 
 - [@turingway](https://twitter.com/turingway) on Twitter
     - Follow us for regular updates
-- [Our mailing list](https://tinyletter.com/TuringWay): Receive monthly project updates in a newsletter
+- [Our mailing list](https://buttondown.email/turingway): Receive monthly project updates in a newsletter
 - [Fireside Chat Series](https://hackmd.io/@turingway/fireside-chats): Every month, The Turing Way Fireside chat will feature experts, champions and their projects from across different international communities in reproducibility, open research, ethics, collaboration and everything in between. This will be an incredible opportunity for catalysing cross-community collaboration and knowledge sharing.
 - **Useful links**: other links to our resources along with announcements are shared via this HackMD: [hackmd.io/@turingway/demo-intro](https://hackmd.io/@turingway/demo-intro)
 

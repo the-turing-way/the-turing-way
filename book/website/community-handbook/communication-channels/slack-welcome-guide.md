@@ -63,6 +63,6 @@ Is there anything we are missing? Please reach out to the Research Community Man
 
 ## Don't know where to start?
 
+* Join us at an upcoming Onboarding Call - hosted every 2 months!
 * Feel free to send me (Anne Lee Steele) a message on Slack or email at asteele@turing.ac.uk if you have any questions or don’t know where to start. I’m the Community Manager (but just one of many leaders in this community), and here to help! 
-* You can drop into [Office Hours](https://hackmd.io/@turingway/office-hours) with me every Friday, or schedule a chat on [Calendly](https://calendly.com/aleesteele/).
 * Join us at a [Collaboration Cafe](https://hackmd.io/@turingway/collaboration-cafe), which happen on a bi-monthly basis on Wednesdays to meet more members of the community, and learn more about the project.
