@@ -8,7 +8,8 @@ The location of your event plays a pivotal role in supporting or hindering how a
 (cl-ppie-events-choosing-venue)=
 ## Choosing a Venue
 Before deciding on a venue it is recommended to have an organizer or member of the team visit potential venues to do a walk-through and check that all rooms in the venue will work for your event’s needs. 
-Include people with lived experience in this process as they can have expertise in identifying barriers such as inaccessibility for wheelchair users, poor lighting, or sensory overstimulation.
+Include people with lived experience in this process as they can have expertise in identifying barriers such as inaccessibility for wheelchair users, poor lighting, or sensory overstimulation. 
+There is more guidance on how to choose an Accessible location in the Accessible Events Guide. 
 This can be helpful to both check the maintenance and layout of the space, and can also help you plan your event set-up such as where to put signs directing attendees to your event.
 
 Through a Universal Design lens, a venue that is able to support a diverse attendee list will be best for any event that involves both a research and general public audience. 
@@ -43,7 +44,9 @@ Consider how you will direct and guide people at the venue. If you plan to have 
 Consider where will you put signs at the venue to indicate where the sessions are taking place, and also where any facilities such as restrooms, elevators, kitchen space, and all breakout sessions are located. Signs should be clearly visible and identifiable to your attendees. 
 Try to place signs and information before **and** at junctions so that people do not take a wrong turn down a corridor, and if there are locations at your venue that may be difficult to navigate, consider having staff visible to help direct attendees. Use directional arrows, and have signs distributed regularly along paths. 
 
-Although they may help some individuals, remember that signs and visual information may not be accessible to all attendees and consider how to provide clear guidance at the venue to attendees with visual impairments. When assisting a disabled person, ask them how you can do this because it varies between individuals. Blind people may follow you by taking your arm or asking their guide dog to follow you. Do not touch, grab, or move people with disabilities, their mobility aids, or service dogs without permission.
+Although they may help some individuals, remember that signs and visual information may not be accessible to all attendees and consider how to provide clear guidance at the venue to attendees with visual impairments. 
+When assisting a disabled person, ask them how you can do this because it varies between individuals.
+Do not touch, grab, or move people with disabilities, their mobility aids, or service dogs without permission.
 
 It is also important to be cognizant that attendees who are more familiar with the layout of University campuses may feel more comfortable navigating university-based locations. 
 Please consider how you will make members of the public feel comfortable in these spaces. 
