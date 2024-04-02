@@ -53,7 +53,7 @@ For example, depending on your attendees you may need to:
 * send out an online calendar placeholder,
 * send an email invitation written in plain text with formatted headings,
 * attach an accessible PDF flyer with "Save the Date" information to any emails,
-* and promote the "Save the Date" information through your usual communication channels such as Slack, LinkedIn or organization's , newsletterwebsite and social media. 
+* and promote the "Save the Date" information through your usual communication channels such as Slack, LinkedIn or organization's newsletter, website, and social media. 
 
 This can ensure that people who use different communication channels are able to receive the information in a medium that is accessible to them and through the channel they are most comfortably using. 
 
@@ -99,7 +99,6 @@ Consider if your event will need a website and dedicate a page on your site to i
 You can also choose an event platform such as Eventbrite, Humanitix, or EventYay to host information about your event. 
 When deciding on what platform to use please review the accessibility of a potential site, and follow any advice as to how you can make your content on their platform accessible. 
 For example, [Eventbrite provides accessibility guidance](https://www.eventbrite.com/blog/66754-2how-to-creat-an-accessible-event-listing-ds00/) for event pages hosted on their platform. 
-However, EventBrite can be difficult to use because the registration process must occur within a short period of time, and the mechanism for paying by credit card is not screen reader accessible.  COnsider what alternative paths you can set up for registration.
 
 ```{note}
 When reviewing event platforms, please note that many organizations have recently changed their pricing and localization options.
@@ -133,22 +132,22 @@ HTML and plain text is often the most accessible format, and some PDF software p
 
 (cl-ppie-events-comms-speaker-information)=
 ## Speaker Information
-
 All speakers need to be identified and invited with plenty of time to plan their presentations.
-They should receive information about the format of their talk (examples include panel discussion, slide presentation with narrative, video presentation, workshop), and the expectations that may be unfamiliar to people who have not participated in the research community.
-Participants may be new to presentation technology, or they may be new to communicating scientific concepts to a general audience.
+
+Speakers should receive information about the format of their talk (for example: panel discussion, slide presentation with narrative, video presentation, workshop), and guidance about what to expect from an audience and event that focuses on academic research.
+It is important to identify and surface any tacit knowledge and be clear about the expectations both you as an organizer and your attendees may have about a talk or presentation. 
+
+Consider providing introductions and supporting speakers to ensure that they are familiar and comfortable with the presentation technology, and are prepared to communicate scientific concepts to a general audience.
 
 (cl-ppie-events-comms-speaker-diversity)=
 ### Inviting Speakers with Lived Experience
 Representation is incredibly important and you may want to consider how you represent your attendees in your invited speakers and event facilitators. 
 
-When inviting a speaker with lived experience to present, consider whether there are additional barriers to their full participation in the event.
+When inviting a speaker with lived experience to present, consider what barriers exist that would prevent their full participation in the event.
 For example, you may need to provide details about the event ahead of when the information is scheduled to be sent to researchers or participants who are not speaking.
 This is to ensure that the speaker can engage without barriers and make an informed decision about participation while leaving enough time for planning and finding alternative speakers.
 
-Communicating with speakers about expectation is important for inclusion and accessibility, both for people with lived experience and for people who might experience barriers for reasons other than the topic of the event.
-
-Ask your speakers what accessibility practices would facilitate their participation, communicate your decisions about accessibility practices, and collaborate with speakers in order to promote their effective presentation.
+Ask your speakers what accessibility practices would facilitate their participation, communicate your decisions about accessibility practices, and collaborate with speakers to ensure that they can deliver their session effectively.
 
 Additionally, when inviting a speaker or facilitator with lived experience, consider asking how they wish to be identified in relation to their expertise and experience. 
 For example, many autistic people, and the autistic community as a collective, have expressed a preference for using "Identity-first" language which places the disability first in the description. 
@@ -181,7 +180,7 @@ Many people with lived experience and members of the public may experience addit
 If you have planned your event well, attendees with lived experience should feel welcomed and able to engage fully in the event.
 
 It can be helpful in your communications to state who will be in attendance.
-For example "researchers, clinicians, experts by experience, policymakers, and funding bodies.
+For example "researchers, clinicians, experts by experience, policymakers, and funding bodies".
 
 Finally, consider including short introductions and background information about the speakers and session facilitators in your event information. 
 Many people with lived experience may feel more comfortable engaging in an event where they know who they are speaking with and it can be a helpful way to build rapport. 
@@ -190,7 +189,7 @@ Many people with lived experience may feel more comfortable engaging in an event
 ## Presentation Slides and Event Content
 Although it can be common to prepare presentation slides at the penultimate hour, to be as inclusive as possible, please work with your speakers and presenters to finalize session content before the event. 
 
-People with some disabilities and lived xexperience will need access to visual content in advance so they can access them with adaptive technology or human assistance.
+By working with speakers and requesting slides and presentation content ahead of the event, you will be best set up to support the involvement of people with disabilities and lived experience at your event.
 
 This can help in two core ways, 1) supporting speaking in developing both psychologically and physically accessible content, and 2) ensuring that your event's content is accessible to a diverse audience.
 
@@ -207,7 +206,8 @@ Finally, if your event is a workshop that requires live input from attendees, en
 
 (cl-ppie-events-comms-event-content)=
 ### Collaborative Event Content
-If content such as presentation slides, worksheets, and other material are able to be shared but were not sent out before the event, consider sending it as soon as possible during the event for people with internet access or after the session. 
+If content such as presentation slides, worksheets, and other materials are able to be shared but were not sent out before the event, consider sending it as soon as possible. 
+For example, during the event which can support people without internet access, or as soon as possible at the conclusion of the event. 
 You can also send out notes or session minutes taken during the event.
 
 Taking collaborative “live” notes can be very divisive based on different audiences. 
@@ -217,9 +217,9 @@ However, being able to engage in an event’s content and simultaneously read no
 Many members of the public may not have multiple screens set up in their homes, and they may be attending online events on their phones. 
 
 Ensure that if you offer live notetaking at your event that your attendees are able to access both the session content and the notes, and that technology you use is one that your attendees are comfortable using and getting access to. 
-[HackMD](https://hackmd.io) provides collaborative editing that can be read by screen readers, but these people won't be able to contribute to editing the document.
-[Google Docs](https://www.google.co.uk/docs/about/) have some accessibility features but screen reader access to editing depends on the user's operating system.
-[Etherpad](https://etherpad.wikimedia.org/) is more accessible. 
+- [HackMD](https://hackmd.io) provides collaborative editing that can be read by screen readers, but these people won't be able to contribute to editing the document.
+- [Google Docs](https://www.google.co.uk/docs/about/) have some accessibility features but screen reader access to editing depends on the user's operating system.
+- [Etherpad](https://etherpad.wikimedia.org/) is more accessible. 
 Additional guidance on tools for taking collaborative notes can be found in {ref}`cl-event-tools`.
 
 This is an example of how important it is to involve people with lived experience in your event planning. 
