@@ -29,19 +29,19 @@ Hosting a social session before sit-down meals can help these attendees connect 
 ## Identification and Name Tags
 If your event includes name tags or badges, ensure that you ask attendees for their preferred name, and display the name they provide. 
 
-Consider including pronouns on attendees' badges to support attendees being gendered correctly. 
+This is important for both in-person and online events. 
+
+Consider including pronouns on attendees' badges or virtual contact cards to support attendees being gendered correctly. 
 Pronouns should be optional because while many people find the practice welcoming, others can feel unsafe in a situation where they are forced to display pronouns.
 
-Mmake organizers and other event staff's badges clearly identifiable and differentiated from attendees' badges.
-It is important to clearly identify organizers and people who are able to help as part of supporting all attendees. 
-THis is useful for finding a session moderator to ask questions to during a session, or an organiser for directions around an in-person venue. 
-
+Make organizers and other event staff's badges clearly identifiable and differentiated from attendees' badges.
+This is useful for finding a session moderator to ask questions to during a session or for an organiser to ask directions at in-person events. 
 For online events, consider adding your role and a common identifier to your name in Zoom and having organizers share a virtual background. 
+It is important to clearly identify organizers and people who are able to help as part of supporting all attendees. 
 
-For in-person events, you may want to consider using lanyards to display name tags or badges. 
-
-Many clip-on name tags assume that people have a pocket on the front of their shirts or jackets, however, many blouses, dresses, or shirts designed for women do not provide these pockets and therefore will not be able to easily display the name badge. 
-Clip-on badges can also be difficult for people with fine motor disabilities or an  disability that would otherwise restrict their ability to pin the clip onto their shirts. 
+At in-person events, consider using lanyards to display name tags or badges. 
+Many clip-on name tags assume that people have a pocket on the front of their shirts or jackets, however, many blouses, dresses, and shirts designed for women do not provide these pockets and therefore will not be able to easily display a clip-on name badge. 
+Clip-on badges can also be difficult for people with fine motor disabilities or a disability that would otherwise restrict their ability to pin the clip onto their shirts. 
 
 (cl-ppie-events-conversation-guides)=
 ## Providing Guidance and Sparking Conversation 
@@ -51,8 +51,8 @@ This can be especially helpful for autistic attendees, or attendees with social 
 Additionally, researchers and professionals who share a niche field may know one another from previous events or collaborative projects and may find it easier to identify friends or people they wish to speak to during networking events. 
 Conversely, attendees with lived experience may not have had the opportunity to establish long-standing connections with several researchers and therefore may feel daunted by having to network at your event. 
 
-Consider how to make your attendees from all backgrounds active participants in networking. 
-You may consider providing question prompts or designing your networking and social spaces so that people can move between conversations easily. 
+Consider how to support your attendees from all backgrounds engage in networking. 
+You may consider providing question prompts and designing your networking and social spaces so that people can move between conversations easily. 
 
 Providing a guide acknowledges the diverse needs of all attendees and promotes inclusivity by recognizing that everyone has unique challenges that may make social activities and networking more difficult.
 
