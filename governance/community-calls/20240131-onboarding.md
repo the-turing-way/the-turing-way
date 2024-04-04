@@ -8,8 +8,8 @@
 * Yorgo
 * Lynn 
 * Ceilidh
-* Richard Dushime 
-* Thijs van der Plas
+* Richard
+* Thijs
 * Ale 
 * Danny
 * Cari
