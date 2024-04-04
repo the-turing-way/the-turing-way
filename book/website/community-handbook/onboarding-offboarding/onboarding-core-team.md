@@ -20,6 +20,7 @@ This onboarding checklist is no longer in active use, it has been added to the C
 - [ ] Add to [TTW Github repository](https://github.com/alan-turing-institute/the-turing-way) with "Maintainer" permissions (change as needed for role)
 - [ ] Add to [Ways of Working](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) page on TTW Github repository 
 - [ ] Share [zenodo link for The Turing Way community](https://zenodo.org/communities/the-turing-way/?page=1&size=20) 
+- [ ] (If applicable) Read [Onboarding guidebook and Information for New Starters](https://mathison.turing.ac.uk/Interact/Pages/Section/ContentListing.aspx?subsection=3363) at the Alan Turing Institute
 - [ ] (If applicable) Add to HackMD team for The Turing Way
 - [ ] (If applicable) Give Accounts/Password Access on Keybase
 - [ ] (If applicable) Add directly to [The Turing Way Core Google Drive](https://drive.google.com/drive/u/0/folders/1bdjA-fBotMi9CnjDqu84d5hPZWwjgi-x)
