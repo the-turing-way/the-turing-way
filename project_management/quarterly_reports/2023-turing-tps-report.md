@@ -95,6 +95,7 @@
 * Governance work in the project continues to be developed, intending to ensure transparent decision-making and consistent reporting for the expanding staff and volunteer community members. These processes have not yet been recorded in the community handbook - blockers are time limitations for the small team of Turing Way members, as well as the necessity to continue to support emergent events and gatherings for distributed global teams.
 
 ## Conference/workshop talks presented
+
 * Emma Karoune and Eirini Zormpa gave a workshop about "Fair and Reproducible Research" on 25 January based on these [training materials](https://zenodo.org/record/6346555).
 * CDT training session ‘Open, FAIR and Reproducible Research’ - 25 January and 15 February 2023 - for Environmental Science students - University Cambridge & UCL, Emma Karoune, Eirini Zormpa and Anne Lee Steele. This workshop was organised by AI4ER Programme and uses the materials from the same workshop in 2022 which was delivered by Malvika Sharan and Emma Karoune.
 * Jennifer Ding joined a panel on "Use of Open-Source in Academia" organised by Energy Catapult on 31 January to speak about The Turing Way, RAM’s work as well as her recent work with the ASG Environment and Sustainability projects.

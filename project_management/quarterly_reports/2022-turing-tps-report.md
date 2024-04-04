@@ -84,7 +84,7 @@ _(Format: conference, speaker, (month, year), title, link)_
   - Faruk D., Abel Siqiera and Carlos Martinez worked on[Software Citation with CITATION.cff](https://the-turing-way.netlify.app/communication/citable/citable-cff.html) and using[CFFLint](https://the-turing-way.netlify.app/communication/citable/citable-cffinit.html).
   - Margaret Wanjiku added the[documentation and metadata](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html) subchapter in the Research Data Management chapter.
   - Vicky Hellon revised and updated the[Open Access](https://the-turing-way.netlify.app/reproducible-research/open/open-access.html) publication subchapter.
-  - Malvika ana Alejandro Coca added checklists for chairing[Collaboration Café](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#chairing-an-online-collaboration-cafe) and[Coworking Calls](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html#chairing-coworking-calls).
+  - Malvika ana Alejandro Coca-Castro added checklists for chairing[Collaboration Café](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#chairing-an-online-collaboration-cafe) and[Coworking Calls](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html#chairing-coworking-calls).
   - Esther Plomp wrote a[chapter on Data Article in](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-article.html)[_The Turing Way_](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-article.html)_,_ which was reviewed by Achintya Rao and Vicky Hellon.
 
 **Software/code/tools/methods developed/released** (include link/s)
