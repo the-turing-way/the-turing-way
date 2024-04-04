@@ -9,9 +9,9 @@ In this repository, we store the newsletter drafts in markdown format and we rec
 
 | Month | Date | GitHub link | TinyLetter link |
 | ----- | ---- |----------- | --------------- |
-| January | 2023-02-09 | - | [Join our Community Calls on Governance and Confirm Your Subscription to Receive Future Newsletters via Buttondown]() |
-| February | 2023-03-15 | - | [Celebrate 5 Years Anniversary of The Turing Way, Join us at AI UK, and Collaborate with Us](https://buttondown.email/turingway/archive/celebrate-5-years-anniversary-of-the-turing-way/)  |
-| March | 2023-04-03 | - | [Attend our Community Forum, Apply to Join the Upcoming Book Dash and Learn About Other Opportunities!](https://buttondown.email/turingway/archive/attend-our-community-forum-apply-to-join-the/) |
+| January | 2023-02-09 | [50_Jan2024](newsletter_50_Jan2024.md) | [Join our Community Calls on Governance and Confirm Your Subscription to Receive Future Newsletters via Buttondown]() |
+| February | 2023-03-15 | [51_Feb2024](newsletter_51_Feb2024.md) | [Celebrate 5 Years Anniversary of The Turing Way, Join us at AI UK, and Collaborate with Us](https://buttondown.email/turingway/archive/celebrate-5-years-anniversary-of-the-turing-way/)  |
+| March | 2023-04-03 | [52_Mar2024](newsletter_51_Mar2024.md) | [Attend our Community Forum, Apply to Join the Upcoming Book Dash and Learn About Other Opportunities!](https://buttondown.email/turingway/archive/attend-our-community-forum-apply-to-join-the/) |
 | April |  |  | |
 | May |  |  | |
 | June |  |  | |
@@ -26,18 +26,18 @@ In this repository, we store the newsletter drafts in markdown format and we rec
 
 | Month | Date | GitHub link | TinyLetter link |
 | ----- | ---- |----------- | --------------- |
-| January | 2023-01-31 | - | [A new year at the Turing Way, Happy 2023](https://buttondown.email/turingway/archive/a-new-year-with-the-turing-way-happy-2023/) |
-| Febuary | 2023-03-03 | - | [Book Dash Applications Open and stay tuned for our coming Fireside Chat](https://buttondown.email/turingway/archive/book-dash-applications-are-open-and-stay-tuned/) |
-| March | 2023-03-31 | - | [Last days to apply for Book Dash, rewatch our Fireside Chat and learn about the Practitioners Hub](https://buttondown.email/turingway/archive/last-days-to-apply-for-book-dash-rewatch-our/) |
-| April | 2023-05-03 | - | [Join our Fireside chat "Implementing Open Science at scale", countdown to our May Book Dash and more](https://buttondown.email/turingway/archive/join-our-fireside-chat-implementing-open-science/)|
-| May | 2023-06-05 | - | [Bood Dash Celebrations, upcoming events and welcoming our GSOC 2023 intern](https://buttondown.email/turingway/archive/book-dash-celebrations-upcoming-events-and/) |
-| June | 2023-07-10 | - | [Meet the Practitioners Hubs Inaugural cohort, Join the Book Das committee and catch up on our Fireside chats](https://buttondown.email/turingway/archive/meet-the-practitioners-hubs-inaugural-cohort-join/) |
-| July | 2023-08-03 | - | [The turing way Book Dash call for applications, Practitioners Hub Workshop update and Github organisation plans](https://buttondown.email/turingway/archive/the-turing-way-book-dash-call-for-applications/) |
-| August | 2023-09-05 | - | ["Who is building open source AI?" join our next Fireside Chat, last call to apply to our November Book Dash and meet us at the Festival of Hidden REF](https://buttondown.email/turingway/archive/who-is-building-open-source-ai-join-our-next/) |
+| January | 2023-01-31 | [39_Jan2022](newsletter_39_Jan2023.md) | [A new year at the Turing Way, Happy 2023](https://buttondown.email/turingway/archive/a-new-year-with-the-turing-way-happy-2023/) |
+| Febuary | 2023-03-03 | [40_Feb2023](newsletter_40_Feb2023.md) | [Book Dash Applications Open and stay tuned for our coming Fireside Chat](https://buttondown.email/turingway/archive/book-dash-applications-are-open-and-stay-tuned/) |
+| March | 2023-03-31 | [41_Mar2023](newsletter_41_Mar2023.md) | [Last days to apply for Book Dash, rewatch our Fireside Chat and learn about the Practitioners Hub](https://buttondown.email/turingway/archive/last-days-to-apply-for-book-dash-rewatch-our/) |
+| April | 2023-05-03 | [42_Apr2023](newsletter_42_Apr2023.md) | [Join our Fireside chat "Implementing Open Science at scale", countdown to our May Book Dash and more](https://buttondown.email/turingway/archive/join-our-fireside-chat-implementing-open-science/)|
+| May | 2023-06-05 | [43_May2023](newsletter_43_May2023.md) | [Bood Dash Celebrations, upcoming events and welcoming our GSOC 2023 intern](https://buttondown.email/turingway/archive/book-dash-celebrations-upcoming-events-and/) |
+| June | 2023-07-10 | [44_Jun2023](newsletter_44_Jun2023.md) | [Meet the Practitioners Hubs Inaugural cohort, Join the Book Das committee and catch up on our Fireside chats](https://buttondown.email/turingway/archive/meet-the-practitioners-hubs-inaugural-cohort-join/) |
+| July | 2023-08-03 | [45_Jul2023](newsletter_45_Jul2023.md) | [The turing way Book Dash call for applications, Practitioners Hub Workshop update and Github organisation plans](https://buttondown.email/turingway/archive/the-turing-way-book-dash-call-for-applications/) |
+| August | 2023-09-05 | [46_Aug2023](newsletter_46_Aug2023.md) | ["Who is building open source AI?" join our next Fireside Chat, last call to apply to our November Book Dash and meet us at the Festival of Hidden REF](https://buttondown.email/turingway/archive/who-is-building-open-source-ai-join-our-next/) |
 | September | - | - | No newsletter |
-| October | 2023-02-11 | - | [Countdown to Book Dash, a new chapter on The Environmental Impact of Digital Research and watch our September Fireside Chat](https://buttondown.email/turingway/archive/countdown-to-book-dash-a-new-chapter-on-the/) |
-| November | 2023-12-08 | - | [Wrap up 2023 with The Turing Way: Fireside Chat, Pathway Feature for Curated Chapters, and Community Highlights!](https://buttondown.email/turingway/archive/wrap-up-2023-with-the-turing-way-fireside-chat/) |
-| December | 2023-12-22 | - | [The Turing Way's 2023 Year in Review](https://buttondown.email/turingway/archive/the-turing-ways-2023-year-in-review/) |
+| October | 2023-11-02 | [47_Oct2023](newsletter_47_Oct2023.md) | [Countdown to Book Dash, a new chapter on The Environmental Impact of Digital Research and watch our September Fireside Chat](https://buttondown.email/turingway/archive/countdown-to-book-dash-a-new-chapter-on-the/) |
+| November | 2023-12-08 | [48_Nov2023](newsletter_48_Nov2023.md) | [Wrap up 2023 with The Turing Way: Fireside Chat, Pathway Feature for Curated Chapters, and Community Highlights!](https://buttondown.email/turingway/archive/wrap-up-2023-with-the-turing-way-fireside-chat/) |
+| December | 2023-12-22 | [49_Dec2023](newsletter_49_Dec2023.md) | [The Turing Way's 2023 Year in Review](https://buttondown.email/turingway/archive/the-turing-ways-2023-year-in-review/) |
 
 ## 2022
 
