@@ -829,7 +829,7 @@ parts:
             file: community-handbook/audits
             sections:
               - title: Platform Audits
-                file: community-handbook/audits/audits-platform
+                file: community-handbook/audits/audits-platforms
           - title: Template Collection
             file: community-handbook/templates
             sections:
