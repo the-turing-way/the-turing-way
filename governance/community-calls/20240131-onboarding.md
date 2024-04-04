@@ -14,6 +14,8 @@
 * Danny
 * Cari
 
+Registrations: 13
+
 ## Agenda
 
 1. Introduction, icebreaker - ALS
@@ -24,6 +26,15 @@
 
  ## Notes
 
+* What are people interested in learning more about? (Taken from Zoom)
+    * Future events and collaborations 
+    * Learn more about The Turing Way project!
+    * How to create a new chapter
+    * More about the Turing Way
+    * How to get involved
+    * Making contributions to the TTW community  work
+    * Contributing or linking resources from other Turing projects and working with TW on co-creation of new resources        
+    * The Turing Way structure and how to get more actively involved  
 *  Backgrounds: library science, bioinformatics, ai/ml, medical data
 * interests: how to contribute, how to learn more 
 * all call links: [https://ttw-book-dash.start.page/](https://ttw-book-dash.start.page/) 🙂
