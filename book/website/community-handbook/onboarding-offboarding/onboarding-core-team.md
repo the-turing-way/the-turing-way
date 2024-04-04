@@ -1,14 +1,19 @@
 (ch-core-team-onboarding-checklist)=
-# Core Team Offboarding Checklist
+# Main Offboarding Checklist
 
 **☀️ Welcome to *The Turing Way* Core Team!☀️**
 
-This document was prepared for community members who have a leadership role within the community. While this group is called the "Core Team" of _The Turing Way_, it is an umbrella term for all community members who have taken on an maintenance role within the community.
+```{admonition} Note
+:class: tip
+This document was prepared and shared from 2022-2023 for 10-15 community members who were identified to have a leadership role within the community. At the time, this group was called the "Core Team" of _The Turing Way_, used as umbrella term for all community members who have taken on an maintenance role within the community.
 
-This may include the following:
+This may have included the following:
 - Chairs or co-chairs of working groups within the community
 - Organisers of events such as Book Dashes
 - Staff members of the Alan Turing Institute leading on different initiatives
+
+This onboarding checklist is no longer in active use, it has been added to the Community Handbook for archival purposes. 
+```
 
 ## Accounts and Permissions
 - [ ] Add to #ttw-core-team channel on Slack
@@ -48,6 +53,7 @@ This may include the following:
     - [ ] [Twitter](https://twitter.com/turingway)
     - [ ] [Mastodon](fosstodon.org/turingway)
     - [ ] [Newsletter](https://buttondown.email/turingway/)
+    - [ ] [Linkedin](https://www.linkedin.com/company/the-turing-way/)
 - [ ] Useful Links/Information Hub
     - [ ] [Core Team note of notes](https://hackmd.io/@turingway/ttw-team-note-of-notes)
 

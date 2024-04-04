@@ -3,7 +3,12 @@
 
 🌙 **We are sad to see you leave *The Turing Way* Core Team!** 🌙
 
-This docum
+```{admonition} Note
+:class: tip
+This document was prepared and shared from 2022-2023 for 10-15 community members who were identified to have a leadership role within the community, either transitioning out or stepping out of that role. At the time, this group was called the "Core Team" of _The Turing Way_, used as umbrella term for all community members who have taken on an maintenance role within the community.
+
+This onboarding checklist is no longer in active use, it has been added to the Community Handbook for archival purposes. 
+```
 
 ## Accounts and Permissions
 - [ ] Remove from #ttw-core-team channel on Slack
@@ -54,6 +59,6 @@ Thank you so much for all your contributions to *The Turing Way*. We really appr
 
 The Research Community Manager or Research Project Manager will reach out to discuss how to celebrate you in a way you prefer. 
 
-We are hoping to develop a "emiritus" or "(Developing 'emeritus' community member programme? Any way of accounting for this?)
+We are hoping to develop a "emiritus contributor programme" or other means of keeping you involved in our community moving forward.
 
-Remember, you can always re-engage with the community if you are interested in re-joining the project. You are always welcome!
+Remember, you can always re-engage with us if you are interested in re-joining the project. You are always welcome!
