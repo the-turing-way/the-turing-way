@@ -18,7 +18,7 @@ Name + Pronouns + Early bird 🕊️ or night owl?🦉 + an emoji (if you'd like
 * Liz Hare
 *  Richard Dushime 
 
-## Advertise and promote your event or anything exciting you're working on. ✨ 
+## Advertise and promote your event or anything exciting you're working on. ✨ 
 
 * Thinking about proposing a markdown flavour for protocols - inspired by the format of protocols.io - maybe some kind of extension to MyST (Richard J. Acton)
 *  I am moderating this upcoming panel on "Queer Representations of AI", which I'm excited about: [https://www.sas.ac.uk/events/queer-representations-ai](https://www.sas.ac.uk/events/queer-representations-ai) (Kalle)
