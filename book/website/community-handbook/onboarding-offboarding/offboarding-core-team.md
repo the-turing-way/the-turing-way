@@ -14,6 +14,8 @@ This onboarding checklist is no longer in active use, it has been added to the C
 - [ ] Remove from #ttw-core-team channel on Slack
 - [ ] Change [TTW Github repository](https://github.com/alan-turing-institute/the-turing-way) permissions as needed
 - [ ] Add to 'Alumni' section of [Ways of Working](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) page on TTW Github repository 
+- [ ] (If applicable) Follow the [HR Operations process](https://mathison.turing.ac.uk/page/2936) for Change of Conditions Forms (CoCs) and Leavers/Resignations for the Alan Turing Institute
+- [ ] (If applicable) Participate in [Enrichment Exit Process](https://mathison.turing.ac.uk/page/3021?SearchId=0) for the Alan Turing Institute
 - [ ] (If applicable) Remove from HackMD team for The Turing Way
 - [ ] (If applicable) Give Accounts/Password Access on Keybase
 - [ ] (If applicable) Remove from [The Turing Way Core Google Drive](https://drive.google.com/drive/u/0/folders/1bdjA-fBotMi9CnjDqu84d5hPZWwjgi-x)
