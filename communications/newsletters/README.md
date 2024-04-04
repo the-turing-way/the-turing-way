@@ -5,6 +5,23 @@ To learn about how you can edit a newsletter draft, please read this chapter in 
 
 In this repository, we store the newsletter drafts in markdown format and we recommend using this excellent [Markdown to HTML](https://www.browserling.com/tools/markdown-to-html) tool to make it nice and easy to transfer the content to Tinyletter (now Buttondown) before publishing.
 
+## 2024
+
+| Month | Date | GitHub link | TinyLetter link |
+| ----- | ---- |----------- | --------------- |
+| January | 2023-02-09 | - | [Join our Community Calls on Governance and Confirm Your Subscription to Receive Future Newsletters via Buttondown]() |
+| February | 2023-03-15 | - | [Celebrate 5 Years Anniversary of The Turing Way, Join us at AI UK, and Collaborate with Us](https://buttondown.email/turingway/archive/celebrate-5-years-anniversary-of-the-turing-way/)  |
+| March | 2023-04-03 | - | [Attend our Community Forum, Apply to Join the Upcoming Book Dash and Learn About Other Opportunities!](https://buttondown.email/turingway/archive/attend-our-community-forum-apply-to-join-the/) |
+| April |  |  | |
+| May |  |  | |
+| June |  |  | |
+| July |  |  | |
+| August |  |  | |
+| September |  |  | |
+| October |  |  | |
+| November |  |  | |
+| December |  |  | |
+
 ## 2023
 
 | Month | Date | GitHub link | TinyLetter link |
