@@ -18,7 +18,6 @@ Name + Pronouns + What's your favourite biscuit, cookie or cake? 🍪 🍰 + an 
 * Bastian + he/him + I'm not sure if it counts as any of those, but I didn't know Flapjacks (the non-pancake variety) before moving to the UK and they are amazing (and vegan!)
 * Prem, BAS
  
-
 ## Advertise and promote your event or anything exciting you're working on. ✨ 
 *  
 *  

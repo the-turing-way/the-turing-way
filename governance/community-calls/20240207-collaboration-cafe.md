@@ -7,8 +7,8 @@ Name + Pronouns + Teleportation or flying? + an emoji (if you'd like!: https://e
 
 * Liz, she/her, beam me up s long as my guide dog can come 
 * Anne, she/her, flying for sure! love that birds eye view!
-*  Maria. she/her, teleportation✨
-*  Kalle, he/they, flying (because I dream about it all the time) but... teleporting to family in Brazil/Sweden would be nice too... 🧐
+* Maria. she/her, teleportation✨
+* Kalle, he/they, flying (because I dream about it all the time) but... teleporting to family in Brazil/Sweden would be nice too... 🧐
 * Johanna (she/her); teleportation
 * Danny + they/them or he/him + flying + 😴
 * Chris + he/him + teleportation 
