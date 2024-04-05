@@ -1,6 +1,6 @@
 # Notes 4 March 2024
 
-## Attendees (4 March 2024)
+## Attendees
 
 * Emma
 * Bastian
@@ -13,4 +13,6 @@
 
 ## Notes
 
-* No notes
+* 
+* 
+* 
