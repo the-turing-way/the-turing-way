@@ -2,9 +2,8 @@
 
 # 06 March 2024
 
- 
-
 ## Check-in
+
 Name + Pronouns + What's your favourite biscuit, cookie or cake? 🍪 🍰 + an emoji (if you'd like!: [https://emojipedia.org/](https://emojipedia.org/), see also: [https://openmoji.org/)](https://openmoji.org/))
 
 *(Remember that this is a public document - and while your answer will not be archived, your name will. You can use a pseudonym if you'd prefer.) Use the 🤫 emoji if you would not like to be included in our public archive. These notes will be archived on The Turing Way repository.*
@@ -30,7 +29,7 @@ Name + Pronouns + What's your favourite biscuit, cookie or cake? 🍪 🍰 + an 
 
 While no sign-ups are required to attend Collaboration Cafe, if you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it. 
 
-If you like one of the topics that are already suggested, please add your name next to that one. For more information about breakout rooms see [the description on GitHub]([https://github.com/alan-turing-institute/the-turing-way/blob/master/project\_management/online-collaboration-cafe.md#breakout-rooms)](https://github.com/alan-turing-institute/the-turing-way/blob/master/project\_management/online-collaboration-cafe.md#breakout-rooms)).
+If you like one of the topics that are already suggested, please add your name next to that one. For more information about breakout rooms see [the description on GitHub]([https://github.com/alan-turing-institute/the-turing-way/blob/main/project\_management/online-collaboration-cafe.md#breakout-rooms)](https://github.com/alan-turing-institute/the-turing-way/blob/main/project\_management/online-collaboration-cafe.md#breakout-rooms)).
 
 Please add a 🤫 emoji next to any line that you would not like to be included in the archive on Github1
 
@@ -40,8 +39,7 @@ Please add a 🤫 emoji next to any line that you would not like to be included 
 * Alejandro: Preparing a talk for ICCS ReproHack (12th March), [https://github.com/the-turing-way/the-turing-way/issues/3524](https://github.com/the-turing-way/the-turing-way/issues/3524)
 * Arielle - working on "research in 2050" paper 
 
-##  Link list✨ 
-
+## Link list✨ 
 * 
 * 
 *  

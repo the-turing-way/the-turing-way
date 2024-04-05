@@ -5,18 +5,18 @@
 Name + Pronouns + Early bird 🕊️ or night owl?🦉 + an emoji (if you'd like!: https://emojipedia.org/, see also: https://openmoji.org/)
 (Remember that this is a public document. Your answer You can use a pseudonym if you'd prefer.) Use the 🤫 emoji if you would not like to be included in our public archive. These notes will be archived on The Turing Way repository.
 
-*  Anne
-*  Richard J. Acton
-*  Sophia Batchelor
-*  Amefon Affia
-*  Ceilidh Welsh
-*  Susana RG
-* Bastian GT
-*  Danny 
-*  Esther
-* Jim Madge
-* Liz Hare
-*  Richard Dushime 
+*  Anne + she/her + aspirational early bird, realistically a night owl + 
+*  Richard J. Acton + + night owl + (not an emoji but a source of them [https://openmoji.org/)](https://openmoji.org/))
+*  Sophia Batchelor + she/her + permanently exhausted pidgeon 
+*  Amefon Affia + Ultra-night owl 🐲
+*  Ceilidh Welsh +she/her + is it possible to be neither + 😅 
+*  Susana RG + she/her + early birdy + 🦜
+* Bastian GT + he/him + according to my sleep tracker I'm a seal! 🦭
+*  Danny + they/them/he/him + "permanently exhausted pidgeon" 😂
+*  Esther + she/her + a bit of both!
+* Jim Madge + he/him + Early bird
+* Liz Hare she/her afternoon/early evening
+*  Richard Dushime + he/him + night owl 
 
 ## Advertise and promote your event or anything exciting you're working on. ✨ 
 
@@ -62,7 +62,7 @@ If you like one of the topics that are already suggested, please add your name n
 * Extra Room 1
 * Extra Room 2
 
-Link list✨ 
+## Link list✨ 
 
 * Tunes for today:
     * Parcel's COLORS show: [https://www.youtube.com/watch?v=bJl-avjRgzU](https://www.youtube.com/watch?v=bJl-avjRgzU)

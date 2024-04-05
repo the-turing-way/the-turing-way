@@ -5,21 +5,21 @@
 Name + Pronouns + What is something you want to do more of in 2024? What is something you want to do less of in 2024? + an emoji (if you'd like!: https://emojipedia.org/, see also: https://openmoji.org/)
 (Remember that this is a public document. You can use a pseudonym if you'd prefer.) Use the 🤫 emoji if you would not like to be included in our public archive. These notes will be archived on The Turing Way repository.
 
-- Anne
-- Sophia
-- Richard
-- Sarah G
-- Malvika
-- David
-- Gabin
-- Emma
-- Ale
-- Bastian
-- Liz
-- Danny
-- Arielle
-- Jim
-- Kirstie
+- Anne + she/they + More regular habit and ritual-building, and less passive github notification management! 🌱  
+- Sophia + she/her + Getting outside for adventures. 
+- Richard + + contributing to FAIRsharing 
+- Sarah G + she/her + I want to do more things with confidence
+- Malvika + she/her + More of research and writing, less of wasting time in reactively engineering what can be addressed by pre-planning.
+- David + he/him + more cachondeo with friends (+1) and woodworking / work ⛰️
+- Gabin + He/Him + resume regular running+swimming
+- Emma - I'm trying to do more 'me' time as this is hard as a mum. This involves booking things for me or things with friends like this month I'm going for a pedicure and a day out with one of my friends in London. Less of - well I would say cleaning as I really hate it but my house is a real mess so needs sorting out and a good deep clean. (+1000)  
+- Ale + overthinking in the future
+- Bastian + he/him + more deep thinking, less busywork 🤔
+- Liz, agree with +yoga, also +back to knitting
+- Danny + they/them or he/him, 
+- Arielle + she/her + more writing, I'm also taking an improv class to indulge my creative side + I'm monitoring my screen time to spend less time on my phone this year
+- Jim + he/him + Social events + Worrying + 🧶
+- Kirstie + she/her + Arranging social connections - I’ve been waiting to be invited and it turns out that doesn’t work 😅 + focusing on who doesn’t like me + 💕
 
 ## Advertise and promote your event or anything exciting you're working on. ✨ 
 
