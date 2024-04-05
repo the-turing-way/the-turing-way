@@ -2,7 +2,8 @@
 # Creating Schedules and Agendas for Inclusive Events
 The timing and design of your event, and making plans for how to accommodate the diverse needs of your attendees, are critical steps in developing a schedule or agenda for your event to facilitate the inclusion of people with lived experience. 
 
-This can involve considerations ranging from planning sufficient breaks between sessions to developing a plan for inclusion and accessibility practices so people with lived experience can contribute and benefit from your event's activities.
+
+This can involve considerations ranging from planning sufficient breaks between sessions to developing an action plan for inclusion and accessibility practices so people with lived experience can contribute and benefit from your event's activities.
 
 This section provides guidance and recommendations for how to plan an inclusive and accessible event schedule (or agenda) and highlights what steps you can take to create a welcoming atmosphere where attendees with lived experience are heard and valued, and are able to equitably engage in your event.
 
@@ -48,7 +49,8 @@ If your main room has only one exit and a large audience, it may take significan
 As a rule of thumb, try to plan for the most important parts of your event's content to be shared within blocks of time that are under 40 minutes.
 
 Because many events are planned in 1-hour or 1.5-hour timing blocks, consider choosing shorter sessions or incorporating breaks within your session. 
-This can be done in addition to allocating 5-10 minutes for an introduction and session set-up and will help reduce the cognitive strain affecting many people with lived experience of cognitive disabilities.
+This can be done in addition to allocating 5-10 minutes for an introduction and session set-up.
+Breaks and shorter session lengths will help reduce the cognitive strain affecting many people with lived experience of cognitive disabilities.
 
 > **Example 1: 1-hour Focus Group Event**
     - 10 minute welcome, Code of Conduct, and session introduction
@@ -64,7 +66,7 @@ This can be done in addition to allocating 5-10 minutes for an introduction and 
 
 It is best to get feedback and input from representatives with lived experience when planning your session timings. 
 
-Try to get feedback on plans for your event as early as possible and ensure that you work with the community.
+Try to get feedback on plans for your event as early as possible and ensure that you work with the community or a representative with lived experience when deciding on the format and duration of your specific event.
 
 (cl-ppie-events-event-duration)=
 ### Event Duration
@@ -74,17 +76,15 @@ If you are organizing a multi-day conference, consider picking either a single d
 For example, Day 1 of a 3-Day event might schedule the majority of sessions focused on public engagement and lived experience, followed  Day 2 which could focus on technical workshops and other content. 
 Alternatively, if your conference is online, consider choosing a repeating session time from 10 a.m. - 1 p.m. on all 3 days that could focus on lived experience content. 
 
-This can promote the engagement and contributions of people with lived experience who volunteer their time to engage in research, as well as people with a lived experience that significantly impacts their energy levels. 
+This can support the engagement and contributions of people with lived experience who volunteer their time to engage in research, as well as people with a lived experience that significantly impacts their energy levels. 
 
-When deciding where in your schedule to plan relevant content, ensure that you work with, or ask people with lived experience from your specific audience what would work for them, instead of assuming and choosing times that are otherwise empty in the schedule.
+When deciding where in your schedule to plan content discussing PPIE, ensure that you work with, or ask people with lived experience from your specific audience what would work for them, instead of assuming and choosing times that are otherwise empty in the schedule.
 
 (cl-ppie-events-schedule-content)=
 ## Event Content: Planning for Engagement
 When identifying the content of your event, you should spend time identifying what type of content and sessions attendees with lived experience would be interested in, what "engagement" means for your specific event, and how you will ensure that attendees with lived experience are able to engage in your event.
 
 By clearly defining what engagement looks like, and also how to engage, your event will be more accessible to people with lived experience and also reduce potential barriers and anxieties for participants.
-
-However, all participants should be welcome at the entire event. It is likely that their levels of interest in various topics will vary between individuals.
 
 (cl-ppie-events-defining-engagement)=
 ### Defining Engagement for Your Event
@@ -111,8 +111,8 @@ For example, a discussion or contribution-based event may consider offering both
 "Speaking" group(s) can be facilitated by a note taker, and the "Writing" group(s) can work together in collaborative documents. 
 You may also consider recording your event's content and making documents available online as part of supporting asynchronous contributions from people in multiple time zones or who may experience difficulties in contributing during "live" events. 
 
-Consider designing sessions that allow for multiple channels of engagement and accessibility practices (such as electronic and in-person communication) in order to be as inclusive of as many people with lived experience as possible.
-Because all events are limited by the resources available to plan and host the event, it is important to provide clear guidance on what engagement means for your event and to work with representativse with lived experience to identify what methods of engagement your event will need to support.
+Consider designing sessions that allow for multiple channels of engagement and accessibility practices (such as electronic and in-person communication) in order to be as inclusive of as many people as possible.
+Because all events are limited by the resources available to plan and host the event, it is important to provide clear guidance on what engagement means for your event and to work with representatives with lived experience to identify what methods of engagement your event will need to support.
 
 Ensure that you provide an outline of your guidance in both a written format before the event, and also include an explanation in your event introduction of what engagement is expected, as well as what pathways are available for contributions.
 
@@ -159,14 +159,14 @@ You can read more about the World Cafe method on [The World Café Community Foun
 Facilitators and session moderators can help to foster a safe and supportive environment for people with lived experience to share their perspectives and insights. 
 Their role at an inclusive event is to provide safe and supported opportunities for active participation from attendees, act as a catalyst for conversation, and to help align discussion and any questions with the goals of the session and event. 
 
-If you are able to involve facilitators or moderators at your event, consider how they can actively promote  engagement of - and contributions from - people with lived experience. 
+If you are able to involve facilitators or moderators at your event, consider how they can actively promote the engagement of - and contributions from - people with lived experience. 
 This is especially important for events that focus on discussion or require active participation (such as the World Cafes we discussed in the previous section). 
 Many people with lived experience may not have a lot of experience, or had the opportunity to develop skills in public speaking or rhetoric and can therefore be at a greater risk of getting left out of conversation. 
 
 Just inviting people with lived experience to your event is not sufficient if there are barriers to their participation.
 
-It is the responsibility of the organisers to implement inclusion and accessibility practices in consultation with people with lived experiences.  
-
+The burden to participate, and to find pathways to engage should **not** be the sole responsibility of attendees those with lived experience, and should be carried by the facilitators and event organizers.
+It is the responsibility of the organisers to implement inclusion and accessibility practices in consultation with people with lived experiences. 
 
 Consider if your moderators and facilitators would benefit from support and training on neurodiversity and barriers to participation that can be delivered before the event.
 
@@ -186,11 +186,12 @@ Ideally you will include people with lived experience in the planning of an even
 
 Involving people with lived experience in the planning and delivery of events ensures the perspective  of people with lived experience is built into the dialogue throughout your event. 
 Active involvement could be including people with lived experience in the planning committee of your event, and asking potential attendees for feedback on the planning and materials of your event. 
-They should be involved in all aspects of planning. THeir roles should not be limited to tasks related to their own participation.
+You should aim to have community members or a representative involved in all aspects of planning. 
+For larger events that are not solely focused on PPIE, consider establishing roles and responsibilities for PPIE contributors on planning commitees that are not solely limited to tasks related to their own participation or the event's PPIE activities.
+
 Active involvement can also help organizers develop a greater understanding of what is important from the perspective of people with lived experience and ensure that the proposed structure and content of the event is shaped in a way that will meet the needs of the potential attendees.
 
-They can offer insight into ways they can contribute to research as well as ways to improve research that focuses on their priorities.
-There can be amismatch between their priorities and others' assumptions about their priorities, and it is important to align research and community goals.
+Their involvement can offer insight and perspective into the specific challenges and needs of individuals with disabilities and any specific lived experience your event is focused on, and also help identify research to be highlighted and promoted at your event. 
 
 If you are including a person, or group, with lived experience in the planning, ensure that you are appropriately compensating and supporting them for their expertise.
 
@@ -201,7 +202,7 @@ Consider if you are able to both involve representatives in your planning commit
 This is because a single representative may not be familiar with all the requirements and needs from your attendees, which in many cases may be very diverse. 
 Asking for feedback from other participants remains key. 
 
-The two options discussed above are ideal, as people with lived experience will be able to provide insights and perspectives on how to encourage and ease their integration.
+The two options discussed above are ideal, as people with lived experience will be able to provide insights and perspectives on how to encourage and support the involvement and engagement of your attendees.
 This perspective can be helpful when identifying what sessions or content should be included in the program, and will support you in creating a more inclusive and relevant program for your audience. 
 
 
@@ -234,12 +235,12 @@ The presence and promotion of these speakers can help to validate and legitimize
 People with lived experience can offer practical, real-world insights that might not be captured solely through academic or research-based perspectives. 
 By hosting sessions delivered or facilitated by people with lived experience, all attendees will be able to engage with and better understand what "lived experience" means for a specific person or group. 
 This is important because even for research projects that involve participatory methods, not all researchers may have the opportunity to directly engage with the people with lived experience involved in the project. 
-Having speakers or session leads present from places of lived experience can give all attendees the opportunity to learn and engage with the process of participatory research as a whole, and ensures that researchers, research staff, and other professionals will develop a more comprehensive understanding of the opportunities and challenges faced by people with lived experience. 
+Having speakers or session leads present from a place of lived experience can give all attendees the opportunity to learn and engage with the process of participatory research as a whole, and ensures that researchers, research staff, and other professionals will develop a more comprehensive understanding of the opportunities and challenges faced by people with lived experience. 
 
 Additionally, because the goal of research events is to provide opportunities for discussion and the learning of different research skills and practices, the inclusion of lived experience speakers can complement and enrich research insights, and offer a more holistic and authentic understanding of different contexts and experiences. This may also have the added benefit of improving the research conducted by attendees, or influence project design in the future.
 
 
-Including and highlighting speakers or session leads with lived experience and offering a diverse range of insight both broadens the scope of representation, and can prevent assumptions and stereotypes about people with lived experience.
+Including and highlighting speakers or session leads with lived experience and offering a diverse range of perspectives both broadens the scope of representation, and can prevent assumptions and stereotypes about people with lived experience.
 This can then act to further empower other attendees with lived experience to become more actively involved in your event and research as a whole.
 
 
@@ -292,7 +293,8 @@ For example, panel discussions, workshops, and interactive sessions, all present
 
 Consider using a mix of oral presentations, panel discussions, videos, workshops and breakout sessions, as well as providing alternatives for communication and participation.
 
-By providing various content types, you will ensure that there are accessible options for all participants.
+By providing various content types, you will be able to support a wider range of needs and preferences and ensure that there are accessible options for all participants.
+
 
 Ensure that you actively label and communicate what the session formats will be. 
 This will allow attendees to self-select the sessions and event content that they feel most comfortable engaging with. 
@@ -308,7 +310,7 @@ If you are able to, the best way to design an inclusive event that supports the 
 Involving people with lived experience from the onset can help in identifying potential barriers as well as curate topics and sessions that are of interest to a diverse group of attendees. 
 The active involvement of community representatives is often the key to an event becoming welcoming, inclusive, and accessible for people with lived experience.
 
-Finally, designing a schedule that provides flexibility around breaks and types of engagement, offering a variety of session formats that are clearly communicated, and including people with lived experience as co-organizers, hosts, and facilitators, you will create an event that can effectively support a community of people with lived experience.
+Finally, by designing a schedule that provides flexibility around breaks and types of engagement, offering a variety of session formats that are clearly communicated, and including people with lived experience as co-organizers, hosts, and facilitators, you will create an event that can effectively support a community of people with lived experience.
 
 
 
