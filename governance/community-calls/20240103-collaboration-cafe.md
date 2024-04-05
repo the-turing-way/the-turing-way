@@ -17,7 +17,7 @@ Name + Pronouns + What are you going to do in 2024 FOR THE PLOT (aka. to further
 ## Breakout rooms: Topic proposals and notes✨ 
 While no sign-ups are required to attend Collaboration Cafe, if you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it. 
 
-If you like one of the topics that are already suggested, please add your name next to that one. For more information about breakout rooms see [the description on GitHub](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md#breakout-rooms).*
+If you like one of the topics that are already suggested, please add your name next to that one. For more information about breakout rooms see [the description on GitHub](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md#breakout-rooms).*
 
 - Main Room:
     * Hour 1: Infrastructure Working Group: Splitting the TTW repository
