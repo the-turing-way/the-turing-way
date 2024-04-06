@@ -2,6 +2,8 @@
 
 Submission prepared by Malvika Sharan (The Turing Way project Co-lead, Senior Researcher - The Alan Turing Institute), Alexandra Arauzo Alvarez (The Turing Way Project Manager - The Alan Turing Institute), Review by Arielle Bennett (Programme Manager - Tools. Practices and Systems, The Alan Turing Institute)
 
+**Cite as:** Sharan, M., Araujo Alvarez, A., & Bennett, A. (2023). Royal Society: culture award application 2022. Zenodo. https://doi.org/10.5281/zenodo.7689261
+
 **1. Why should the candidate be considered for this medal?**
 
 I am nominating _The Turing Way _team to be considered for this medal for their valuable contributions to democratising access to data science skills and changing the research culture globally. The Turing Way is an online handbook hosted at The Alan Turing Institute and co-created by a global community – dedicated to fostering open, reproducible and collaborative practices across all sectors utilising data science. Over 300 chapters are written across five guides on _Reproducible Research, Project Design, Communication, Collaboration and Ethical Research_, as well as a _Community Handbook_. It aims to provide all the information that all stakeholders of research need throughout the project’s life cycle to ensure that their research is ethical, inclusive and easy to reproduce from conception to conclusion. 
