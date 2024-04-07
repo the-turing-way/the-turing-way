@@ -1,4 +1,4 @@
-# The Turing Way Funded Proposal for The Turing Way Practitioner Hub (2022)
+# The Turing Way Funded Proposal for The Turing Way Practitioner Hub - successful!
 
 **This document is being shared under CC-BY 4.0 SA as this is a funded proposal submitted by The Turing Way team members. Please attribute or reuse appropriately.**
 
