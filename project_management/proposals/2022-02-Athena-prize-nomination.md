@@ -1,4 +1,4 @@
-# Turing Way – Athena Prize Nomination
+# Turing Way – Athena Prize Nomination - unsuccessful!
 
 **Submission prepared by** Malvika Sharan (The Turing Way project Co-lead, Senior Researcher - The Alan Turing Institute), Arielle Bennett (Programme Manager - Tools. Practices and Systems, The Alan Turing Institute), Amy Gallimore (EDI Strategy Officer- Tools. Practices and Systems, The Alan Turing Institute), Kirstie Whitaker (Programme Director - Tools. Practices and Systems, The Alan Turing Institute)
 
