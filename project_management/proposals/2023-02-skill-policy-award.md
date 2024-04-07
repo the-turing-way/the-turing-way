@@ -1,4 +1,4 @@
-# Skills Policy Awards 2023/2024 - Successful!
+# Skills Policy Awards 2023/2024 - successful!
 
 ## Section 1
 
