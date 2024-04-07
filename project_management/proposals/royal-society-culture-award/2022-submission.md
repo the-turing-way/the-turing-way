@@ -1,8 +1,8 @@
-# Royal Society: culture award application 2022
+# Royal Society: culture award application 2023 Feb
 
 Submission prepared by Malvika Sharan (The Turing Way project Co-lead, Senior Researcher - The Alan Turing Institute), Alexandra Arauzo Alvarez (The Turing Way Project Manager - The Alan Turing Institute), Review by Arielle Bennett (Programme Manager - Tools. Practices and Systems, The Alan Turing Institute)
 
-**Cite as:** Sharan, M., Araujo Alvarez, A., & Bennett, A. (2023). Royal Society: culture award application 2022. Zenodo. https://doi.org/10.5281/zenodo.7689261
+**Cite as:** Sharan, M., Araujo Alvarez, A., & Bennett, A. (2023). Royal Society: culture award application 2023. Zenodo. https://doi.org/10.5281/zenodo.7689261
 
 **1. Why should the candidate be considered for this medal?**
 
