@@ -1,4 +1,4 @@
-# Turing-Crick Introduction to Data Science for Biomedical Scientists
+# Turing-Crick Introduction to Data Science for Biomedical Scientists - successful!
 
 **Repository with project outputs: https://github.com/alan-turing-institute/data-training-for-bioscience/**
 
