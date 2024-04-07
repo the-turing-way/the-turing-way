@@ -1,4 +1,6 @@
-# Einstein Award Submission - Later used as The Turing Way Project & Leadership Summary 2022
+# Einstein Award Submission - unsuccessful!
+
+**Later used as The Turing Way Project & Leadership Summary 2022**
 
 _Written by Malvika Sharan (The Turing Way project Co-lead, Senior Researcher - Open Research), Review by Shane Conneely (Partnership Development Lead)_
 
