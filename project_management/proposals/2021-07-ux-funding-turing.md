@@ -1,4 +1,4 @@
-# Project title: Enhancing usability (UX/UI) aspects of The _Turing Way_ - unsuccessful
+# Project title: Enhancing usability (UX/UI) aspects of The _Turing Way_ - unsuccessful!
 
 ## Stakeholders
 - Research Programme: Tools, Practices and Systems, The Alan Turing Institute
