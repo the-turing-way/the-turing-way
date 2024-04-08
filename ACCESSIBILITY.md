@@ -77,7 +77,7 @@ We recognise that many feedback forms and other forms for gathering feedback can
 
 Knowing this, we are working to develop processes that enable us to action and report transparently on feedback given through these channels. This may include:
 - Reporting within the Accessibility Working Group in order to discuss possible actions that can be taken to address feedback
-- Liasoning with appropriate groups within The Turing Way project (i.e. the Infrastructure Working Group) in order to create or resource technical changes that may be needed
+- Liasing with appropriate groups within The Turing Way project (i.e. the Infrastructure Working Group) in order to create or resource technical changes that may be needed
 - Escalating feedback to the project co-leads, funders, and others at the constitutional level of the project as needed
 
 ## Confidentiality
