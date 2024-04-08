@@ -30,7 +30,7 @@ This means that questions of access are tied to how people read the guides as we
 
 1. **Removing barriers**: We actively advocate for and employ tactics that seek to remove barriers for any current or future participants in our community. This may include people who historically have been limited or structurely excluded from participating in through educational, geographical, linguistic, or technical barriers.
 2. **Sharing openly and with openness**: We aim to draft, write, review, and edit our open access guides using open source practices, and we do this in order to enable people from a broad range of backgrounds to get involved in the project.
-3. **Supporting inclusive participation**: We acknowledge that openness alone does not make a project accessible in a broad sense, and we are committed to maintaing a socio-technical infrastructure that enables inclusive participation more broadly. This includes hosting spaces for contribution, documenting our practices, and actively gathering feedback.
+3. **Supporting inclusive participation**: We acknowledge that openness alone does not make a project accessible in a broad sense, and we are committed to maintaining a socio-technical infrastructure that enables inclusive participation more broadly. This includes hosting spaces for contribution, documenting our practices, and actively gathering feedback.
 
 The practices and policies listed here relate to these three operating principles, which shape how we work within the community to enable access on the web, on our community platforms, and while planning events.
 
