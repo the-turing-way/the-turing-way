@@ -57,7 +57,9 @@ In our Community Handbook, we describe these practices more specifically and in 
 
 As a community, we frequently organise events for a variety of purposes: for coworking, trainings, workshops, panels, conference talks, and more.
 
-In our Community Handbook, we describe these practices more specifically and in more detail. As a baseline however, we are committed to enabling accessibility through:
+In our Community Handbook we describe these practices more specifically and in more detail.
+As a baseline however, we are committed to enabling accessibility through:
+
 - Supplying and recording transcripts for audio and closed captioning of video content
 - Enabling wide access to our program context across a variety of platforms
 - Uploading slides and/or presentation materials on Zenodo or other platforms to enable referencing
