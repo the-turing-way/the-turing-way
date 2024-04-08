@@ -193,7 +193,7 @@ By working with speakers and requesting slides and presentation content ahead of
 
 This can help in two core ways, 1) supporting speaking in developing both psychologically and physically accessible content, and 2) ensuring that your event's content is accessible to a diverse audience.
 
-Firstly, consider how you will support speakers in developing inclusive material that is pitched to the correct audience, which in this case will be members of the public and people with lived experience). 
+Firstly, consider how you will support speakers in developing inclusive material that is pitched to the correct audience, which in this case will be members of the public and people with lived experience. 
 This may mean developing and sharing guidance on session content, or could also be giving feedback on presentation drafts. 
 Ensure that you contact and confirm your speakers with enough notice that allows them to prepare and revise material. 
 
