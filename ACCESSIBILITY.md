@@ -2,7 +2,7 @@
 
 Within _The Turing Way_ community, we define accessibility practices as a set of community-wide, behavioral, social, and technical decisions that can be taken to ensure that all are welcome and are able to enter and participate in research, data-driven processes, communities and events despite any barriers for access.
 
-While accessibility is commonly understood with respect to disability, we – meaning _The Turing Way_ community – define accessibility as giving access to groups of people that encounter different barriers for participation. Barriers may be anything related to, including, and extending beyond the following: 
+While accessibility is commonly understood with respect to disability, we – meaning _The Turing Way_ community – define accessibility as giving access to everyone, with specific attention given to ensuring proper access for groups of people that encounter different barriers for participation. Barriers may be anything related to, including, and extending beyond the following: 
 - Age
 - Disability
 - Ethnicity and race
