@@ -216,7 +216,7 @@ Having a designated notetaker and being able to read and listen can be beneficia
 However, being able to engage in an event’s content and simultaneously read notes often requires attendees to have access to a secondary screen or device that can be used for typing, reading, and to view both written and presented material. 
 Many members of the public may not have multiple screens set up in their homes, and they may be attending online events on their phones. 
 
-Ensure that if you offer live notetaking at your event that your attendees are able to access both the session content and the notes, and that technology you use is one that your attendees are comfortable using and getting access to. 
+Ensure that if you offer live notetaking at your event that your attendees are able to access both the session content and the notes, and that technology you use is one that your attendees are comfortable using and getting access to. Some examples include:
 - [HackMD](https://hackmd.io) provides collaborative editing that can be read by screen readers, but these people won't be able to contribute to editing the document.
 - [Google Docs](https://www.google.co.uk/docs/about/) have some accessibility features but screen reader access to editing depends on the user's operating system.
 - [Etherpad](https://etherpad.wikimedia.org/) is more accessible. 
