@@ -132,7 +132,7 @@ The equal representation of the attendees by the speakers and facilitators allow
 Finally, as organizers, it is important to understand the power and responsibility you have in deciding how inclusive and accessible your event will be. 
 It is important to acknowledge how your choices may impact the experience and inclusion of people with lived experience at your event.
 
-(cl-ppie-events-timeline-planning)=
+(cl-ppie-events-timeline)=
 ### Timeline and Timing of Event 
 After identifying the "why" and "who" for your event, it is important to plan "when" the event will take place, and to develop a timeline for when tasks need to be completed in order to run your event. 
 
