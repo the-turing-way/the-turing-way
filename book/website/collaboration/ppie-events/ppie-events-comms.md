@@ -224,7 +224,7 @@ Additional guidance on tools for taking collaborative notes can be found in {ref
 
 This is an example of how important it is to involve people with lived experience in your event planning. 
 By having representatives or by getting feedback from your specific community, you will be able to identify the best way to share notes and other materials with your audience. 
-It is preferable to ask more than one advisor, as the solutions used by individuals, as well as their level of experience with technology,  can vary significantly. 
+It is preferable to ask more than one advisor, as the solutions used by individuals, as well as their level of experience with technology, can vary significantly. 
 
 (cl-ppie-events-comms-jargon)=
 ## Avoiding Jargon
