@@ -1,9 +1,6 @@
 (pd)=
 # Defining Accessibility
 
-
-
-
 In this guide, we compile best practices and guidance for designing research projects by including different aspects of project management and (iterative) development practices derived from academia and industry.
 
 Before starting a project, researchers must define the project's scope. 
