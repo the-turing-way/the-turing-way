@@ -116,7 +116,7 @@ You will need to work with your team to identify the best solution for your even
 Depending on your event and where you host online information, you should ensure that the digital home for your event covers this information:
 - How to attend (joining links for online content and location information for in-person events).
 - When and where your event is.
-- What accessibility practices will be implemented for your event
+- What accessibility practices will be implemented for your event.
 - Who the event hosts are and who the session leads will be. 
 This can help attendees know what to expect. 
 - Information about what your event is and what is expected from the audience. 
