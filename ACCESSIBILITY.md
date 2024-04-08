@@ -85,7 +85,7 @@ Knowing this, we are working to develop processes that enable us to action and r
 
 By default, all reports will be kept confidential. If submitted through a non-anonymised option, when the team discusses incidents and feedback, we will anonymize details as much as we can to protect reporter privacy. In some cases we may determine that a public statement will need to be made. If that’s the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
-## Acknowleding Third-Party Platforms
+## Acknowledging Third-Party Platforms
 
 We recognise that our project relies on a number of third party platforms, and that all of these platforms may not be accessible by default. In future iterations of this policy and guidelines, we aim to employ community audits to understand and review the use of these platforms and their commitment and process for accessibility. 
 
