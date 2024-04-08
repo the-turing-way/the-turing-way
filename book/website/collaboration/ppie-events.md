@@ -50,7 +50,7 @@ In the context of event planning, there are practices we can use to foster parti
 
 Thus, your considerations need to cover both the potential disability-related barriers experienced by your attendees as well as the barriers that would be experienced by your attendees with lived experiences such as parental responsibilities, cultural differences, or minority status. 
 
-This chapter focuses on the latter aspects, specific to involving people with lived experiences, for the more general and equally important considerations around accessibility – that affect participants regardless of whether they are members of the public or not, please refer to specific accessibility resources.
+This chapter focuses on the latter aspects, specific to involving people with lived experiences, for the more general and equally important considerations around accessibility – that affect participants regardless of whether they are members of the public or not, please refer to specific accessibility or access-centered resources.
 
 Because both internal resources and the events you run can range in size - from small meetings to massive multi-day conferences - this chapter is not an exhaustive list and instead is meant to provide general guidance. 
 It offers a starting point to adapt the suggestions made by this chapter to align your event with the needs of your specific community and attendees.
