@@ -1,39 +1,39 @@
-(cl-inclusive-events-checklist)=
+(cl-ppie-events-checklist)=
 # Checklist
 
 > List out the action points you want the readers to take based on the key ideas in your chapter.
 > This list will be sectioned by event category
 
 
-(cl-inclusive-events-checklist-focus-session)=
+(cl-ppie-events-checklist-focus-session)=
 ## Planning Inclusive Focus Sessions
 
 - Action point 1
 - Action point 2
 - Action point 3
 
-(cl-inclusive-events-checklist-interest-group)=
+(cl-ppie-events-checklist-interest-group)=
 ## Planning Inclusive Community Sessions and Interest Group Events
 
 - Action point 1
 - Action point 2
 - Action point 3
 
-(cl-inclusive-events-checklist-seminar)=
+(cl-ppie-events-checklist-seminar)=
 ## Planning Inclusive Seminars, Lectures, and Fireside Chats
 
 - Action point 1
 - Action point 2
 - Action point 3
 
-(cl-inclusive-events-checklist-workshop)=
+(cl-ppie-events-checklist-workshop)=
 ## Planning Inclusive Workshops
 
 - Action point 1
 - Action point 2
 - Action point 3
 
-(cl-inclusive-events-checklist-conference)=
+(cl-ppie-events-checklist-conference)=
 ## Planning Inclusive Conferences
 
 - Action point 1
