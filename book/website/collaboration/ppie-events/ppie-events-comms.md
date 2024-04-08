@@ -14,7 +14,7 @@ When developing a communications strategy, in addition to identifying the goals 
 - Why are you trying to reach them?
 - What information do you need to include?
 - When do your attendees with lived experience need the information?
-- How will you convey the information?
+- How will you convey the information to them?
 - What forms of communication does your target audience use (social media, email, in-person meetings)?
 
 Depending on the scale and resources for your event, your communications plan may include the development of websites, PDFs, flyers, banners, and social media posts in addition to email and calendar invites. 
