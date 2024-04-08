@@ -540,6 +540,21 @@ parts:
             file: collaboration/chairing
           - title: Participating in Events
             file: collaboration/event-participation
+          - title: Hosting Events with Public Contributors
+            file: collaboration/ppie-events.md
+             sections:
+              - title: 
+                file: collaboration/ppie-events/ppie-events-planning.md
+              - title: Planning your PPIE Event
+                file: collaboration/ppie-events/ppie-events-location.md
+              - title: Location and Venue Planning
+                file: collaboration/ppie-events/ppie-events-schedules.md
+              - title: Communication Strategy and Planning
+                file: collaboration/ppie-events/ppie-events-comms.md
+              - title: Inclusive Social and Networking
+                file: collaboration/ppie-events/ppie-events-socials.md
+              - title: Technology Considerations
+                file: collaboration/ppie-events/ppie-events-tech.md
           - title: Informal Coffee Chats
             file: collaboration/informal-chats
           - title: Tools for Facilitating Collaboration
