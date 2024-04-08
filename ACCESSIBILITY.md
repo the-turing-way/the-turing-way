@@ -73,7 +73,7 @@ Gathering access-related feedback is integral for ensuring that we can remain ac
 3. **Email the Research Community Manager or project team directly directly**: You can always email the Research Community Manager directly at asteele@turing.ac.uk with direct feedback. Alternatively, you can also 
 4. **Attend the Accessibility Working Group meeting**: The Accessibility Working Group meetings may be a place where you can deliver feedback in a small group environment. Please join the #Accessibility channel on slack for more information.
 
-We recognise that many feedback forms and other forms for gathering feedback can often operate as "blackboxes" that receieve information without taking actionable steps to address them.
+We recognise that many feedback forms and other forms for gathering feedback can often operate as "blackboxes" that receive information without taking actionable steps to address them.
 
 Knowing this, we are working to develop processes that enable us to action and report transparently on feedback given through these channels. This may include:
 - Reporting within the Accessibility Working Group in order to discuss possible actions that can be taken to address feedback
