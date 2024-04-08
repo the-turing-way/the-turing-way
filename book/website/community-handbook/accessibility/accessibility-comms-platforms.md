@@ -3,7 +3,7 @@
 
 _The Turing Way_ uses a variety of platforms for communication (i.e. Slack, social media platforms like X/Twitter, Linkedin, Mastodon) and collaboration (i.e. Github, HackMD, Etherpad). 
 
-This chapter describes the access and inclusion-related support we provide on our communication platforms, as we as support we hope to provide in the future.
+This chapter describes the access and inclusion-related support we provide on our communication platforms, as well as support we hope to provide in the future.
 
 In general, we encourage an approach to communication platforms that is as accessible as possible, for as many people as possible. We encourage our community to practice kindness when you communicate with others, and be mindful of cultural, linguistic, disability, and individual differences that may affect how people communicate online. 
 
