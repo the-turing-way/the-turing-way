@@ -234,7 +234,7 @@ However, the use of jargon can make the involvement and inclusion of people with
 Reflect on how, and where, your research field uses jargon that might not be understandable to the general public. 
 Although you may be able to assume that many people with lived experience are familiar with any common acronyms or jargon used, it can benefit the inclusion of all attendees and experience levels if the amount of jargon used can be minimized. 
 For example, researchers, clinicians and people with a lived experience of arthritis may be more familiar with terms and medication names related to arthritis and associated conditions. 
-However, many attendees may be unfamiliar with these terms can can feel excluded from conversation and event content that uses them 
+However, many attendees may be unfamiliar with these terms can can feel excluded from conversation and event content that uses them.
 
 As part of planning, consider how you can reduce the use of jargon and acronyms at your event, and create a strategy for encouraging speakers and facilitators to also avoid unnecessary jargon. 
 
