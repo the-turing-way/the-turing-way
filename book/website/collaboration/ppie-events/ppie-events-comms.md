@@ -1,5 +1,5 @@
-(cl-inclusive-events-comms)=
-# Planning Communications for Inclusive Events
+(cl-ppie-events-comms)=
+# Planning Communications for PPIE Events
 Having a good plan on how and when to communicate around your event is always important, but it can be even more relevant when inviting people with lived experience to your event as part of supporting attendees who are new to research events.
 
 This section provides guidance on what to consider when developing a communications plan for events involving people with lived experience. 
