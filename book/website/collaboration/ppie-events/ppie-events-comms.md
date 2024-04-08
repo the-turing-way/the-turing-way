@@ -285,7 +285,7 @@ Please refer to The Turing Way's chapter on {ref}`cm-lay-summaries` for more gui
 Consider how you will communicate with your attendees throughout the event. 
 
 For example, relying solely on emails to send out information about a room change or delay in starting a session will require attendees to have an active internet connection and smart device at all times. 
-Many people may use their phones to join online events and not have a home computer. 
+Many people may use their phones to join online events and may not have a home computer. 
 Relying solely on email communication would cause these attendees to miss out on core communications if they have joined the event on the hosting platform.
 Similarly, for in-person events, people may not own a portable smart device capable of checking emails or online content. 
 
