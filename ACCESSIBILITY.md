@@ -26,7 +26,7 @@ This policy is a work in progress, as are the practices that we employ as a comm
 
 These core principles are at the heart of our accessibility policy, and they extend beyond the web accessibility of our open access guides (see 2.1) to the broader practices that that we use as a community on collective platforms (see 2.2) and while hosting events (see 2.3).
 
-This means that questions of access are tied to how people read the guides as well as their ability to participate in the project and the community more broadly. Participation in _The Turing Way_ itself can be defined broadly, but doing so often requires navigating a number of different platforms. In all contexts, we aim to facilitate access in a broad sense through:
+This means that questions of access are tied to how people read the guides as well as their ability to participate in the project and the community. Participation in _The Turing Way_ itself can be defined broadly, but doing so often requires navigating a number of different platforms. In all contexts, we aim to facilitate access in a broad sense through:
 
 1. **Removing barriers**: We actively advocate for and employ tactics that seek to remove barriers for any current or future participants in our community. This may include people who historically have been limited or structurely excluded from participating in through educational, geographical, linguistic, or technical barriers.
 2. **Sharing openly and with openness**: We aim to draft, write, review, and edit our open access guides using open source practices, and we do this in order to enable people from a broad range of backgrounds to get involved in the project.
