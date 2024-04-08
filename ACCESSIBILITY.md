@@ -49,7 +49,7 @@ As a community however, we are committed to ensuring broader accessibility of ou
 
 _The Turing Way_ is committed to ensuring our accessibility as a community on all the platforms we use.
 
-In our Community Handbook, we describe these practices more specifically and in more detail. But as a baseline, our community is dedicated to enabling access across the various platforms we use through:
+In our [Community Handbook](https://the-turing-way.netlify.app/community-handbook/accessibility), we aim to describe these practices more specifically and in more detail. But as a baseline, our community is dedicated to enabling access across the various platforms we use through:
 - Providing diverse opportunities and platforms for people to contribute to _The Turing Way_ despite barriers or difficulties associated with one platform or another
 - Setting and embodying standards for writing and contribution that understand the way in which language may exclude as well as include people in data science, research, and other collaborative projects
 
