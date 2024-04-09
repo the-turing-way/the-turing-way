@@ -17,7 +17,8 @@ For informal groups that are interested in formalising their work, developing a 
 
 Within *The Turing Way*, working groups have historically been established (in 2022-2023)  with the help of the Community Manager, as a means of (1) formalising already existing and ongoing work within the community and/or (2) enabling work that addresses observed and documented needs of the project and community.
 
-However, this document and enclosed templates hopes to make it possible for interested members of the community to self-organise, incubate, maintain, and/or eventually close a working group. This document, as is the case with *The Turing Way* guides themselves aims to be a living document, updated as the community and its governance evolves. 
+Thanks to this document and enclosed templates it is now possible for interested members of the community to self-organise, incubate, maintain, and/or eventually close a working group. 
+This document, as is the case with *The Turing Way* guides themselves aims to be a living document, updated as the community and its governance evolves. 
 
 ## Guidelines
 
