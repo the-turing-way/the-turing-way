@@ -11,7 +11,7 @@ On every platform our community uses to communicate or collaborate, we aim to en
 
 ## Access and inclusion-related support we provide on communication platforms
 
-We aim to provide the following support and normalise the following practices within our community by doing the following places:
+We aim to provide the following support and normalise the following practices within our community:
 
 - **Adding alt text to images**: We use alt text or "alternative text" to describe images, diagrams, or other visuals within _The Turing Way_. To learn more about how to write and use alt text for your work, please use this {ref}`guidance<accessibility-alt-text>`. 
 - **Limit embedded links and provide alternatives for accessing information**: On many platforms, embedded links may not be accessible by screen readers, or may increase cognitive overload. If you are inserting a link into a message, limit the number of embedded links within a message. On Slac, avoid embedding links within replies to messages when possible, as links posted within threads are not readable for screen readers.
