@@ -2,7 +2,8 @@
 
 # Working Groups
 
-Within *The Turing Way*, working groups are smaller groups of people that work together on a focus topic, theme, or type of work. Many communities within the wider open source ecosystem have establised working groups (i.e. [Project Jupyter](https://jupyter.org/governance/standing_committees_and_working_groups.html), [Kubernetes](https://github.com/kubernetes/community/blob/master/governance.md), [Eclipse Foundation](https://www.eclipse.org/org/workinggroups/process.php#wg-member-roles), [Sustain OSS](https://sustainoss.org/working-groups/), amongst others), and working groups have been used as an organisational structure across many institutions and government bodies.
+Within *The Turing Way*, working groups are smaller groups of people that work together on a focus topic, theme, or type of work. 
+Many communities within the wider open source ecosystem have established working groups ([Project Jupyter](https://jupyter.org/governance/standing_committees_and_working_groups.html), [Kubernetes](https://github.com/kubernetes/community/blob/master/governance.md), [Eclipse Foundation](https://www.eclipse.org/org/workinggroups/process.php#wg-member-roles), [Sustain OSS](https://sustainoss.org/working-groups/), amongst others), and working groups have been used as an organisational structure across many institutions and government bodies.
 
 Historically, roles in the *The Turing Way* working groups have been informal: after existing streams of work had been identified, participants in working groups have been encouraged to develop ways of working that align with their needs. However, in some cases this has lead to the [tyranny of structurelessness](https://www.jofreeman.com/joreen/tyranny.htm), where lack of structure has lead to uncertainty of roles and responsibilities, and ultimately, stagnation of some existing groups.
 
