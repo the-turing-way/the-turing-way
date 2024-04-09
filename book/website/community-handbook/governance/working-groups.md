@@ -15,7 +15,7 @@ This ensures there is sufficient support for their efforts, the alignment of wor
 While joining a working group is **not** mandatory to join *The Turing Way* community (meaning, all are welcome to get involved in *The Turing Way* project without getting involved with a working group), joining a working group provides an opportunity to do focused tasks in a specific area. 
 For informal groups that are interested in formalising their work, developing a working group offers an opportunity for groups to benefit from formalised support from the core staff delivery team (employees of the Alan Turing Institute that are deployed to work on and with *The Turing Way*), as well as formal recognition of their efforts within the community.
 
-Within *The Turing Way*, working groups have historically been established with the help of the Community Manager, as a means of (1) formalising already existing and ongoing work within the community and/or (2) enabling work that addresses observed and documented needs of the project and community. This was primarily the case in 2022 and 2023.
+Within *The Turing Way*, working groups have historically been established (in 2022-2023)  with the help of the Community Manager, as a means of (1) formalising already existing and ongoing work within the community and/or (2) enabling work that addresses observed and documented needs of the project and community.
 
 However, this document and enclosed templates hopes to make it possible for interested members of the community to self-organise, incubate, maintain, and/or eventually close a working group. This document, as is the case with *The Turing Way* guides themselves aims to be a living document, updated as the community and its governance evolves. 
 
