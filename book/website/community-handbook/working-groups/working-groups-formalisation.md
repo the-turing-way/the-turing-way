@@ -8,7 +8,7 @@ A few guiding questions that may help with this process:
 * **Establish requirements**: Does this topic or type of work require ongoing support, or can it be contained into another format? (Should this be a WG, or can this task be accomplished in Collaboration Cafes?)
 * **Establish membership**: Who would be a member of this WG currently (at time of founding)?
 
-### Establishing Purpose
+### Establishing Purpose for the WG
 
 In order to create a WG, the purpose of the WG must be established. 
 This may be done independently, and/or with the assistance of core delivery team staff and/or brainstorming with other community members and leaders. 
@@ -21,6 +21,8 @@ A WG may focus on:
 1. A specific topic related to or of interest to *The Turing Way* community. (Examples of this may include: localisation, open source infrastructure maintenance, research infrastructure roles, research data management)
 2. A type of ongoing task or work currently being done within the project (training, mentoring, reviewing issues/pull requests)
 3. Anything else you would like to introduce to the community!
+
+### Proposing a WG
 
 A short proposal should be created on GitHub repository outlining the area of work based on the needs or opportunities identified in the project, community or in the context of the broader open science or research in the scope of *The Turing Way*.
 At least 3 to 4 members' intentions and contributions to the proposed area of work are required to create a WG.
@@ -46,9 +48,9 @@ Have these goals been scoped appropriately based on resources, availability, and
     * Note: Frameworks like SMART goals, Agile, Kanban, Scrum methodology may be valuable here.
 * **Discuss the group communication plans**: Are there communication tools you might need for your ongoing work (Slack channel, GitHub organisation, emails)
 
-### Processes for Establishing a WG
+### Logistics for Managing a WG
 
-Once a WG has been established, it is important to identify and discuss the following topics within your group, as this will help to establish the candence and momentum of the group. 
+Once a WG has been established, it is important to identify and discuss the following topics within your group, as this will help to establish the cadence and momentum of the group. 
 
 * **Establish regular meeting times and/or other group communication needs**: How often should the group meet? 
 Would they like to use an existing community call (such as Collaboration Cafe) for real-time discussions, or develop a separate call for coworking?
