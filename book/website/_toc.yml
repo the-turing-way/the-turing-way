@@ -697,7 +697,6 @@ parts:
           - title: Ethical Considerations for Open Source Governance Models
             file: ethical-research/ethics-open-source-governance
 
-
       # ===== Community Handbook ========================================
 
       - file: community-handbook/community-handbook
@@ -822,6 +821,17 @@ parts:
                 file: community-handbook/fireside-chat/fireside-chat-roles
           - title: Giving a Turing Way Talk
             file: community-handbook/presenting
+          - title: Working Groups
+            file: community-handbook/working-groups
+            sections:
+              - title: Guidelines for the Working Groups
+                file: community-handbook/working-groups-guideline
+              - title: Formalising a Working Group
+                file: community-handbook/working-groups-formalisation
+              - title: Charter Template for the Working Groups
+                file: community-handbook/working-groups-charter-template
+              - title: References
+                file: community-handbook/working-group-resources   
           - title: Template Collection
             file: community-handbook/templates
             sections:
@@ -843,12 +853,6 @@ parts:
                 file: community-handbook/templates/template-newsletter-draft
               - title: Template for Fireside Chat Shared Notes
                 file: community-handbook/templates/template-fireside-chat
-          - title: Governance
-            file: community-handbook/governance
-            sections:
-              - title: Working Groups
-                file: community-handbook/governance/working-groups
-
 
       # ===== Afterword ========================================
 

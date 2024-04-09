@@ -3,8 +3,8 @@
 The following resources were used in drafting this documentation:
 
 * Gitlab: https://about.gitlab.com/company/team/structure/working-groups/
-* Carpentries: https://docs.carpentries.org/topic_folders/governance/executive-council.html#executive-council-s-standing-committees
-* Open Life Science: https://docs.google.com/document/d/1EUHvYv5wvZiJSK4yYDwwDHs9Ds6tCjqB3XezqCaetEI/edit# 
+* The Carpentries: https://docs.carpentries.org/topic_folders/governance/executive-council.html#executive-council-s-standing-committees
+* OLS (Open Life Science): https://docs.google.com/document/d/1EUHvYv5wvZiJSK4yYDwwDHs9Ds6tCjqB3XezqCaetEI/edit# 
 * Project Jupyter Governance: https://jupyter.org/governance/standing_committees_and_working_groups.html 
 * HOTOSM: https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups 
 * Kubernetes: https://github.com/kubernetes/community/blob/master/governance.md

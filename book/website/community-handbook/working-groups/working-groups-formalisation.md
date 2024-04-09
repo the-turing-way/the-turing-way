@@ -64,7 +64,7 @@ Should it be time-bound or shift indefinitely?
 * **Establish appropriate permissions for accounts**: What accounts does this group need access to? 
 Does this group have the proper account access and permissions in order to carry out your work?
     * Note: The Community Manager and/or Project Manager can help with this! 
-* **Create a WG charter**: [TEMPLATE LINKED HERE](https://hackmd.io/@aleesteele/template-ttw-wg-charter)
+* **Create a WG charter**: Please follow the {ref}`working-groups-charter-template`
     * * Note: All WGs should upload this charter to their respective GitHub repository [in The Turing Way organisation](https://github.com/the-turing-way/the-turing-way/).
 * **Create an open calendar invite**: This may require support of a core delivery staff member to add the information to the public google calendar
 * **Advertise on Community channels**:  Slack, GitHub, social media and/or the TTW newsletter to share the information about your WG

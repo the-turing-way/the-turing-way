@@ -34,7 +34,7 @@ Chairs provide leadership and facilitating the WGs work.
 Chairs are responsible for organising and chairing meetings, ensuring that the responsibilities are fairly distributed, and ensuring the broader accountability of the assembled group. 
 While this role may be occupied by multiple people, it is important to establish how each person upholds the responsibilities of a chair in an equitable way. 
 
-The Chair will serve as the "Liason" for *The Turing Way* leadership, and will participate in meetings where the representation from the WG in wider governance spaces might be needed. 
+The Chair will serve as the "Liaison" for *The Turing Way* leadership, and will participate in meetings where the representation from the WG in wider governance spaces might be needed. 
 Chairs will also be responsible for relaying feedback, announcements and discussions from the leadership or *The Turing Way* delivery team to the WG.
 If a chair is unable to represent their WG in a specific meeting, they must identify a member from the WG who can represent the group and share notes from the meeting.
 

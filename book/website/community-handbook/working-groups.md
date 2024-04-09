@@ -5,11 +5,11 @@ A working group (WGs) is an organised group or committee within a project or com
 WGs are formed for a specific purpose, such as addressing a need or opportunity identified in a project or a community. 
 WGs are composed of individuals who bring their interests, expertise or willingness to engage with a specific topic or context within with the WG is formed. 
 WG members collaborate to provide accountability, solve problems and make decisions to achieve the goals set for the group.
-WGs scope can be a time-bound (short-term or ling-term) or open ended based on type of task the group is assigned.
+WGs scope can be a time-bound (short-term or long-term) or open ended based on type of task the group is assigned.
 
 Working groups are used across many sectors including government, academia, business and nonprofit or volunteer-led organisations to decentralise operations and decision making.
 In open science, many communities carry out their work through established WGs.
-Projects like ([Jupyter](https://jupyter.org/governance/standing_committees_and_working_groups.html), [Kubernetes](https://github.com/kubernetes/community/blob/master/governance.md), [Eclipse Foundation](https://www.eclipse.org/org/workinggroups/process.php#wg-member-roles), [Sustain OSS](https://sustainoss.org/working-groups/), [The Carpentries](https://carpentries.org/) and [CHAOSS](https://chaoss.community/cgi-sys/suspendedpage.cgi) are few examples the have organised their community engagement through WGs.
+Projects like [Jupyter](https://jupyter.org/governance/standing_committees_and_working_groups.html), [Kubernetes](https://github.com/kubernetes/community/blob/master/governance.md), [Eclipse Foundation](https://www.eclipse.org/org/workinggroups/process.php#wg-member-roles), [Sustain OSS](https://sustainoss.org/working-groups/), [The Carpentries](https://carpentries.org/) and [CHAOSS](https://chaoss.community/cgi-sys/suspendedpage.cgi) are few examples the have organised their community engagement through WGs.
 Within *The Turing Way*, WGs are smaller groups of people that work together on specific topics, themes, or types of work identified by community members as areas of interest. 
 
 From the onset, different kinds of work in *The Turing Way* project have been led and executed by different groups of people.
