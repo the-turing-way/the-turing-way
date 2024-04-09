@@ -45,14 +45,21 @@ The documentarian is responsible for ensuring the logistical reporting of the gr
 They are are responsible for uploading meeting notes (without any private and sensitive information), helping the chair in time-keeping and communicating about the group's activities in a way that remain transparent, open, and accessible for others to access. 
 For example, if the duties of the chair are distributed across multiple people, the documentarian is responsible for documenting this format in the WG's repository.
 
-### Members
+### WG Members
 
 Any Turing Way community member may join a WG without restriction, and without taking on a leadership role.
 
 ### The Turing Way Delivery Team Contact
 
 While WGs should be able to operate with autonomy in most decisions that apply to their work, sometimes they may require help from *The Turing Way* project delivery team to scope and trial/incubate their group, or when operational, invite support with logistics or resources needed. 
-Each WG should have an assigned contact from the project delivery team, most likely either the project RCM or Project Manager.
+Each WG should have an assigned contact from the project delivery team, most likely either the project Research Community Manager or Project Manager.
+
+### Advisors and Experts
+
+This is suggested role that can be invited or appointed by WG in an ad-hoc basis.
+An advisor will advise WG about key aspects of the project, provide a community perspective on key considerations, and be a sounding board for deliverables set within a WG.
+
+An advisor or expert's participation in a WG meeting or asynchronous work may include facilitating specific conversations, providing feedback on specific piece of work or supporting WG towards building consensus among members on the desired project goals, building resources, sharing them openly and identifying risks or mitigation measures.
 
 ## Infrastructure Requirements for WGs
 
@@ -60,7 +67,7 @@ Each WG should have an assigned contact from the project delivery team, most lik
     - Right permissions for members
 - Dedicated Slack channel
 - A shared document (such as Framapad) for meeting notes (that are archived on GitHub)
-- Calendar invites with joining link (ask RCM for support if needed) for WG meetings
+- Calendar invites with joining link (ask Research Community Manager for support if needed) for WG meetings
 
 ## Responsibilities
 
@@ -71,35 +78,35 @@ All WGs within the community should follow these three practices, as they relate
 
 ### Reciprocity
 
-All WGs within *The Turing Way* facilitate a reciprocal relationship with the wider community, as they represent a sustained engagement by community members on a topic or subject. 
+All WGs within *The Turing Way* foster a reciprocal relationship with the wider community, representing sustained engagement by community members on a topic or subject.
 
-This engagement can take a variety of forms, and can look like:
-- Using Community Calls like the Collaboration Cafe for WG meetings, discussions, and/or ongoing co-working
-- Hosting Fireside Chats and/or separate events (in consultation with and supported by the core staff delivery team) on topics related to the WG activities
-- Documenting related practices and/or topics in *The Turing Way* guides, either in the Community Handbook or other ongoing guides within the project
-- Creating a new guide related to the topics covered in the WG
-- Collaborating with existing WGs on projects related to infrastructure, accessibility, translation or other themes
+This engagement can take various forms, such as:
+- Using Community Calls like the Collaboration Cafe for WG meetings, discussions, and/or ongoing co-working.
+- Hosting Fireside Chats and/or separate events (in consultation with and supported by the core staff delivery team) on topics related to the WG activities.
+- Documenting related practices and/or topics in *The Turing Way* guides, either in the Community Handbook or other ongoing guides within the project.
+- Creating a new guide related to the topics covered in the WG.
+- Collaborating with existing WGs on projects related to infrastructure, accessibility, translation, or other themes.
 
-At minimum, all WGs are required to participate in and contribute to the *The Turing Way* Community Forums.
+At a minimum, all WGs are required to participate in and contribute to the *The Turing Way* Community Forums. 
 All community members are encouraged to attend these events.
 
 ### Transparency
 
-All WG activities should be documented transparently so that non-WG members (and even non-Turing Way community members!) can learn about the WG's activities and projects. 
+All WG activities should be documented transparently so that non-WG members (and even non-Turing Way community members!) can learn about the WG's activities and projects.
 
-This will help to address questions like:
-* How can more community members join in on WGs activities, or start their own?
-* How visible are various WG's activities for the rest of the community?
-* How can transparent reporting invite more people to participate in the conversation?
+This will help address questions like:
+- How can more community members join in on WGs activities or start their own?
+- How visible are various WG's activities for the rest of the community?
+- How can transparent reporting invite more people to participate in the conversation?
 
 ## Decision-making
 
 In principle, primary decision-making should lie with the WG team itself. 
-However, they may be different types of decisions that might require different people from across the project for consultation and support.
+However, there may be different types of decisions that might require input from different people across the community and/or project delivery team for consultation and support.
 
-We recommend WGs to use the following questions to explore what kinds of decisions that may or may not require inputs, support or involvements from the project delivery team. 
+We recommend WGs to use the following questions to explore what kinds of decisions may or may not require inputs, support, or involvement from the project delivery team:
 
-- What decisions does WG feel *empowered to take as an autonomous WG*? (for example, Accessibility WG develops accessibility guidelines)
-- What decisions does the WG want to invite *consultation and support* from the broader community? (for example, Book Dash WG invites support from community in planning their next agenda)
-- What decisions WGs should involve *consultation and support* from the project delivery team or escalate to the leadership? (for example, Infrastructure WG will need input and approval when starting a new platform)
-- What other decisions would WG want to make that don't fall under the above three categories?
+- What decisions does the WG feel *empowered to take as an autonomous WG*? (for example, Accessibility WG develops accessibility guidelines)
+- What decisions does the WG want to invite *consultation and support* from the broader community? (for example, Book Dash WG invites support from the community in planning their next agenda)
+- What decisions should WGs involve *consultation and support* from the project delivery team or escalate to the leadership? (for example, Infrastructure WG will need input and approval when starting a new platform)
+- What other decisions would WGs want to make that don't fall under the above three categories?

@@ -1,130 +1,119 @@
 (working-groups-charter-template)=
 # Template for the Working Group's Charter
 
-## *The Turing Way*  Working Group Charter: [GROUP's NAME HERE]
+__*The template provided here is a revised version of the [Sample group charter provided by Collaborative Leader Network](https://collaborativeleadersnetwork.org/strategy-tools/sample-group-charter). WG conveners should use this document to discuss different aspects of their work, build a shared understanding for the ways of working and adapt this document for their respective WGs.*__
 
-## Purpose
+## *The Turing Way* Working Group Charter: [GROUP's NAME HERE]
 
-The [WORKING GROUP] will develop a Purpose and Need statement for the [PROJECT] and identify multiple alternatives that address that purpose and need. 
+### Purpose
 
-The [WORKING GROUP] will also help the project team in selecting the wisest course of action and preferred alternative. The preferred alternative will reflect consideration of various community goals, issues, environmental factors and concerns, and find the appropriate balance among competing interests.
+```
+This section should articulate the purpose and needs co-developed by the WG.
+It should also provide context for how the group intends to fulfill its purpose by addressing specific challenges and needs.
+```
 
-## Advisory Group Goals
+The [GROUP's NAME HERE] is a collaborative space for WG members to prioritize challenges, create a roadmap, and openly share them on GitHub repositories (such as issues on *The Turing Way* main repo or a dedicated repo for the WG).
 
-Advise [CONVENER] about key aspects of the project, provide a community perspective on key considerations, and be a sounding board for project deliverables.
+The WG keeps the project delivery team informed and invites their input or support when needed.
 
-Work towards consensus among [WORKING GROUP] members on the desired project goals, alternatives, construction phasing, and mitigation measures to include in the EIS.
+Additionally, the WG engages with the broader community, inviting their participation and feedback on their work. This includes selecting the best course of actions in the projects the WG undertakes. 
+The WG also considers alternatives suggested by WG members, community members, and the project delivery team in the context of community goals, current issues, concerns, and competing interests or preferences.
 
-## Project Outcome
+### Decision Making in the WG
 
-The process will be considered a success if:
+- The WG members establish clear roles and responsibilities (read guidelines in {ref}`working-groups-guideline`).
+- The WG chairs facilitate open and regular meetings to discuss agenda points invited from the WG members.
+- In areas where the WG has decision-making authority, members will strive to reach agreement by consensus.
+- For decision making related to agenda points or matters discussed in the WG, consensus-based recommendations and decisions are clearly communicated.
+- In matters where consensus within the WG is not met, the broader community is engaged via the WG's GitHub repository in a meaningful way to evaluate the proposed recommendation or decision. Community members are invited through other communication channels to share their feedback by commenting on the GitHub issue.
+- Decisions that affect the broader project and community are escalated to the project delivery team.
+- Decisions and recommendations take into account the timeline and available resources to support the work.
+- If required resources are lacking, input and support from the project delivery team are sought before making the decision.
 
-* The [WORKING GROUP] establishes clear, consensus-based recommendations on the best alternatives to include in the EIS;
-* The public is engaged in a meaningful way in evaluating the proposed project alternatives and in reviewing and commenting on the project EIS;
-* Project decisions fit into the context of the surrounding communities and recognize and respect the unique transportation needs along the corridor;
-* The project schedule takes the least amount of time and makes the most effective use of limited project funding;
-* Appropriate regulatory and government agency staff is involved throughout the process to avoid surprises that lead to delays.
+### Terms of Membership
 
-## Terms of membership
+Community members agree to participate openly and responsibly until they are able to volunteer and stay involved in *The Turing Way* community.
 
-Members agree to volunteer until the initiation of the EIS environmental review process and possibly through the EIS process.
+```
+Terms of different roles should be decided by the WG members and added here!
+```
 
-A member’s position on the [WORKING GROUP] may be declared vacant if the member:
+Specific positions will be open in the WG if the post holder:
 
-* Resigns from the [WORKING GROUP] (this should be in writing and forwarded to the [CONVENER])
-* Fails to attend more than two meetings without prior notice
+- steps down from their role 
+- can no longer serve in their role
+- wants to take a break from their duty or leave the WG
 
-In a case where a member’s position is declared vacant, the [CONVENER] may appoint an alternative representative from the same interest group to fill the position.
+In a case where a member’s position is declared vacant, the WG chairs will invite WG members to volunteer to fill the role or hold a formal process within the WG to fill the position, especially if more members are interested in filling limited positions.
 
-## Working Group Operating Guidelines
+### Working Group Operating Guidelines
 
-### Convening of Meetings
+#### Convening of Meetings
 
-* Meetings will be held at the time and place chosen by the [WORKING GROUP] in the course of their meetings.
-* It is anticipated that there will be [INSERT NUMBER] meetings leading up to the official opening of the environmental impact statement preparation process. Once the EIS is underway, it is anticipated that the group will meet quarterly.
-* [WORKING GROUP] members will be informed of meetings through email or direct mail, depending on his/her preference, at least two weeks prior to the meeting. 
+- Meetings are held at a time and platform chosen by the WG in the course of their work.
+  - `Provide current plans for meetings and point to the document where this information can be found.` 
+- [INSERT NUMBER] meetings will be held monthly unless communicated otherwise.
+- WG members will be informed of meetings through [Slack channel or direct emails].
+  - The chairs will announce the details about an upcoming meeting and invite an agenda.
+  - A shared document will be used to capture notes from the meeting. 
+- Notes will be maintained and archived by the documentarian.
+  - `Provide a link to the folder where meeting notes are archived.`
+  - `Some WGs may decide to record their meetings to allow members who are unable to attend the meeting to catch up asynchronously. Provide details here.`
 
-### Communication
+#### Communication
 
-Meetings will be advertised in the [LIST MEDIA AND/OR LOCATION].
-Project documents and notices will be posted on the project website.
-Email: [CONVENER] should be copied on all correspondence, and if [CONVENER] chooses to open a dialogue via email, all [WORKING GROUP] members will be copied. 
+- Meetings will be advertised via the WG's communication channels: [CHANNEL DETAILS (Slack channel or email)]. 
+- Project documents and announcements will be posted on the WG's communication channels.
+- WG members should also use the WG's communication channels to ask or share information.
+- Emails: 
+  - In emails to the WG members, chairs should be copied on all correspondence they should be aware of to ensure that everyone in the WG has the same information.
+  - If chairs choose to open a dialogue via email, all WG members will be copied. 
 
-### Conduct of meetings
+#### Conduct of Meetings
 
-* Meetings will be open to all.
-* Meetings will be facilitated.
-* Informed alternates are acceptable and encouraged if the [WORKING GROUP] member cannot attend.
-* All cell phones will be turned off during the meetings.
-* After all meeting agenda items have been addressed, time will be provided for non members in attendance to voice their opinions.
-* Meetings will end with a clear understanding of expectations and assignments for next steps.
-* Meetings are expected to be two to three hours and not exceed  three hours. Extension of time, in 15 minute increments, will require the consent of the majority of members attending that meeting. Consensus will be indicated with a show of hands.
-* The consultant will keep a record of meeting attendees, key issues raised, and actions required. Comments from individual members will generally not be attributed and a verbatim record of the meeting will not be prepared.
-* The previous meeting record and a meeting agenda will be forwarded to members of the [WORKING GROUP] at least one week before the next meeting. Any changes to the record of the past meetings shall be in writing and forwarded to the [CONVENER] prior to the next meeting.
+- Time, duration, frequency, and platform for the WG's meetings will be identified through consensus in the WG. 
+- Meetings will be open to all WG members and to the broader community.
+- It will be communicated if a meeting will be closed or invite only.
+- Meetings will be facilitated by the chairs, and a documentarian will take notes.
+- In meetings outside the WG's regular meeting, an informed member will be encouraged if the WG chairs cannot attend.
+- After all agenda items have been addressed, time will be provided for non-members in attendance to voice their opinions.
+- Meetings will end with a clear understanding of actions, expectations, and assignments for next steps.
+- A documentarian will keep a record of meeting attendees, key issues raised, and actions required. 
+- The previous meeting record and a meeting agenda will be forwarded to members of the WG before the next meeting. Any changes to the record of the past meetings shall be communicated in writing prior to or during the next meeting.
 
-### Meeting Ground Rules
+#### Meeting Ground Rules
 
-* Speak one at a time – refrain from interrupting others.
-* Wait to be recognized by facilitator before speaking.
-* Facilitator will call on people who have not yet spoken before calling on someone a second time for a given subject.
-* Share the oxygen – ensure that all members who wish to have an opportunity to speak are afforded a chance to do so.
-* Maintain a respectful stance toward towards all participants.
-* Listen to other points of view and try to understand other interests.
-* Share information openly, promptly, and respectfully.
-* If requested to do so, hold questions to the end of each presentation.
-* Make sure notes taken on newsprint are accurate.
-* Remain flexible and open-minded, and actively participate in meetings.
+- Chairs will communicate ground rules for how attendees contribute (like raising a physical or digital hand, or by writing on the shared notes or in the chat).
+- Chairs will also communicate any additional ground rules that the WG follows before the meeting starts and provide links to relevant resources in a shared document.
+- Some general etiquettes to follow:
+  - Speak one at a time to avoid interrupting others.
+  - Wait for the facilitator to indicate the next speaker/person speaking.
+  - The facilitator may call on people who have not yet spoken before calling on someone a second time for a given subject.
+- Share the space – ensure that all members who wish to have an opportunity to speak are afforded a chance to do so.
+- Maintain a respectful tone toward all participants.
+- Listen to other points of view and try to understand other interests.
+- Share information openly, promptly, and respectfully.
+- If requested to do so, hold questions until the end of each presentation if planned during the meeting.
+- Support the documentarian in taking notes. 
+- Ensure that notes taken are accurate.
 
-### Roles and Responsibilities
+*Please refer to some more useful resources in the {ref}`cl-organising-meetings`*
 
-THE [WORKING GROUP] is an advisory group to [CONVENER]:
+#### Roles and Responsibilities
 
-[WORKING GROUP] members agree to:
+Members of the WG:
 
-* Provide specific local expertise, including identifying emerging local issues;
-* Review project reports and comment promptly;
-* Attend all meetings possible and prepare appropriately;
-* Complete all necessary assignments prior to each meeting;
-* Relay information to their constituents after each meeting and gather information/feedback from their constituents as practicable before each meeting;
-* Articulate and reflect the interests that advisory group members bring to the table;
-* Maintain a focus on solutions that benefit the entire study area;
-* Present its recommendations for the project at the end of the planning process. The presentation would include subjects such as: project’s Purpose and Need Statement, alternatives to be studied in the EIS, mitigation measures, and phasing plan. The [WORKING GROUP] shall select from among its members a presenter or team of presenters.
+- Provide specific expertise, including identifying emerging challenges and opportunities.
+- Review WG's documentation and provide comments, such as on GitHub.
+- Attend WG meetings and prepare appropriately to contribute to the agenda, specifically those assigned to them.
+- Complete all necessary actions assigned prior to each meeting.
+- Support the distribution of information to other WG members after each meeting and gather information/feedback.
+- Articulate and reflect the interests of community members through community engagement.
+- Maintain a focus on the roadmap co-created with the WG members for the benefit of the broader community.
+- Contribute to the documentation of the WG and share them broadly in *The Turing Way* book.
+- Represent and share WG's work, recommendations, and accomplishments in the community spaces such as Collaboration Cafe, Community Forum
 
-[CONVENER] and the consultant team agree to:
-
-* Provide [WORKING GROUP] members the opportunity to collaborate with other agencies and groups on making recommendations for the project;
-* Effectively manage the scope, schedule and budget;
-* Keep [WORKING GROUP] partners informed of progress;
-* Provide documentation to support recommendations;
-* Provide technical expertise;
-* Brief local decision makers and produce briefing materials and reports;
-* Provide early notification of [WORKING GROUP] meetings and provide ten working days to review and comment on technical reports and other documents;
-* Conduct public meetings necessary to inform and engage the community.
-* Manage logistics for meetings; and
-* Explain the reasons when deviations are taken from [WORKING GROUP] recommendations. 
-
-## Communication
-
-[WORKING GROUP] members will be informed of meetings through email or direct mail, depending on his/her preference, at least two weeks prior to the meeting.
-
-* Meetings will be advertised in the [LIST MEDIA AND/OR LOCATION].
-* Project documents and notices will be posted on the project website.
-* Email: [CONVENER] should be copied on all correspondence, and if [CONVENER] chooses to open a dialogue via email, all [WORKING GROUP] members will be copied.
-
-## Decision Making
-
-The [WORKING GROUP] is primarily advisory. In those areas where it has some decision-making authority, members will strive to reach agreement by consensus at a level that indicates that all partners are willing to “live with” the proposed action. Partners will strive to work expeditiously and try to avoid revisiting decisions once made. If agreement cannot be reached on a particular issue, [CONVENER] will retain final decision-making authority.
-
-## Conflict Resolution
-
-When an issue arises that cannot be easily resolved, [WORKING GROUP] members agree to:
-
-* Remember that controversial projects are unlikely to receive funding, so the intent of all parties is to resolve issues so the project can be funded.
-* Determine if the issue should be resolved within or outside of the [WORKING GROUP] and participate however is appropriate.
-* Ensure the appropriate decision makers are at the table to resolve the issue.
-
-
-### Sources
-- Community Charter: https://collaborativeleadersnetwork.org/strategy-tools/sample-group-charter/
-- ICANN: https://gnso.icann.org/sites/default/files/filefield_37345/charter-template-19mar13-en.pdf
-- https://ctb.ku.edu/en/table-of-contents
+```
+Describe responsibilities of other roles in similar format.
+Provide links to resources and additional information WG members should have access to.
+```
