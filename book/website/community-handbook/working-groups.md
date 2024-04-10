@@ -1,19 +1,21 @@
 (ch-working-groups)=
 # *The Turing Way* Working Groups
 
-A working group (WG) is an organised group or committee within a project,organisation or community.
+A working group (WG) is an organised group or committee within a project, organisation or community.
 WGs are formed for a specific purpose, such as addressing a need or opportunity identified in a project or a community. 
-WGs are composed of individuals who bring their interests, expertise or willingness to engage with a specific topic or context within with the WG is formed. 
+WGs are composed of individuals who bring their interests, expertise or willingness to engage with a specific topic or context within which the WG is formed. 
 WG members collaborate to provide accountability, solve problems and make decisions to achieve the goals set for the group.
 WGs scope can be a time-bound (short-term or long-term) or open ended based on type of tasks the group is assigned.
 
-Working groups are used across many sectors including government, academia, business and nonprofit or volunteer-led organisations to decentralise operations and decision making.
+WGs are used across many sectors including government, academia, business and nonprofit or volunteer-led organisations to decentralise operations and decision making.
 In open science, many communities carry out their work through established WGs.
 Projects like [Jupyter](https://jupyter.org/governance/standing_committees_and_working_groups.html), [Kubernetes](https://github.com/kubernetes/community/blob/master/governance.md), [Eclipse Foundation](https://www.eclipse.org/org/workinggroups/process.php#wg-member-roles), [Sustain OSS](https://sustainoss.org/working-groups/), [The Carpentries](https://carpentries.org/) and [CHAOSS](https://chaoss.community/cgi-sys/suspendedpage.cgi) are few examples where WGs have been organised to ensure timely and open engagement with their community.
 
-Within *The Turing Way*, WGs are small groups of people that work together on specific topics, themes, or types of work identified by community members as areas of interest. From the onset, different kinds of work in *The Turing Way* project have been led and executed by different groups of people.
+Within *The Turing Way*, WGs are formed by a small groups of people who work together on specific topics, themes, or types of work identified by community members as areas of interest. 
+From the onset, different kinds of work in *The Turing Way* project have been led and executed by different groups of people.
 For example, since 2020, localisation and translation work is being carrying out by a group international community members, who although initially worked in an ad-hoc manner, later were named and recognised as 'Translation and Localisation Team'.
-Similarly, in 2021, after moving Book Dash as online-first event, a 'Book Dash Planning Committee' was convened yearly joined by a few previous attendees of Book Dashes who supported the planning and delivery of the event. Nonetheless, formation of WGs had remained informal: after existing streams of work had been identified, community members engaged with the work were formally recognised and encouraged to develop ways of working that align with their needs. 
+Similarly, in 2021, after moving Book Dash as online-first event, a 'Book Dash Planning Committee' was convened yearly joined by a few previous attendees of Book Dashes who supported the planning and delivery of the event.
+Nonetheless, formation of WGs had largely remained informal: after existing streams of work had been identified, community members engaged with the work were formally recognised and encouraged to develop ways of working that align with their needs. 
 
 However, as the community has grown, we also recognise that the not creating explicit pathways for formalising WGs lead to [tyranny of structurelessness](https://www.jofreeman.com/joreen/tyranny.htm), where lack of structure leads to uncertainty of roles and responsibilities, which may work for few people who have been involved from the beginning, can ultimately exclude those who don't have direct contact with the project team.
 
