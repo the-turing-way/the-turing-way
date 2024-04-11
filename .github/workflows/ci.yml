@@ -9,8 +9,6 @@ on:
       - "book/**"
       - ".github/workflows/**"
   pull_request:
-    branches:
-      - main
     paths:
       - "book/**"
       - ".github/workflows/**"
