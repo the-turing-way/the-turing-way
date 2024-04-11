@@ -543,11 +543,11 @@ parts:
           - title: Hosting Events with Public Contributors
             file: collaboration/ppie-events.md
              sections:
-              - title: 
-                file: collaboration/ppie-events/ppie-events-planning.md
               - title: Planning your PPIE Event
-                file: collaboration/ppie-events/ppie-events-location.md
+                file: collaboration/ppie-events/ppie-events-planning.md
               - title: Location and Venue Planning
+                file: collaboration/ppie-events/ppie-events-location.md
+              - title: Scheduling and Agenda Considerations
                 file: collaboration/ppie-events/ppie-events-schedules.md
               - title: Communication Strategy and Planning
                 file: collaboration/ppie-events/ppie-events-comms.md
