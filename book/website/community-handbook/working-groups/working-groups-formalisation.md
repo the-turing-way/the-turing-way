@@ -1,4 +1,4 @@
-(working-groups-formalising)=
+(ch-working-groups-formalising)=
 # Formalising a Working Group
 
 While any community member can join a Working Group (WG), setting up a WG involves a few extra steps to assess both the need and interest in its development, alongside sharing more information with the broader community. 
@@ -27,7 +27,9 @@ A WG may focus on:
 
 ### Proposing a Working Group
 
-A short proposal should be created and shared as an issue on *The Turing Way*'s main GitHub repository. This proposal doesn't have to be exhaustive but must outline the area of work being proposed and where needs or opportunities have been identified in the project, community, or within the broader open science or research ecosystem of *The Turing Way*. Please include at least 3 to 4 members who want to participate in and contribute to the proposed area of work.
+A short proposal should be created and shared as an issue on *The Turing Way*'s main GitHub repository. 
+This proposal doesn't have to be exhaustive but must outline the area of work being proposed and where needs or opportunities have been identified in the project, community, or within the broader open science or research ecosystem of *The Turing Way*. 
+Please identify and include at least 3 to 4 members who are interested in participating and contributing to the proposed area of work.
 
 Ideally, the proposing party should discuss their plan with *The Turing Way* Research Community Manager or invite support from other members of the project delivery team.
 
@@ -41,7 +43,8 @@ Based on the community feedback, the number of members interested, and feasibili
 The approval process for a WG involves engagement from the wider community and the project delivery team to understand what resources might be available in supporting the WG and if the WG's aims are appropriate for the community.
 
 1. **Open Discussion and/or Q&A**: Discuss your idea in community spaces such as the *The Turing Way* GitHub issue, Slack workspace and/or Community Calls like the Collaboration Cafe. Please reach out to the Research Community Manager will support you with this.
-2. **Leadership Approval**: The creation of this WG must be approved by *The Turing Way* leadership at their regular organisational meetings. These meetings happen every two weeks, agenda for which is built by the project manager.
+2. **Leadership Approval**: The creation of this WG must be approved by *The Turing Way* leadership at their regular bi-weekly meetings. 
+These meetings happen every two weeks, agenda for which is built by the project manager.
 Notes from their meetings are archived in the GitHub and outcomes communicated directly with the community members where needed.
 
 #### What's next?
@@ -50,14 +53,14 @@ Once approved, the project delivery team will inform the group.
 Research Community Manager and project manager will coordinate with the group to help them access existing resources they might need and create a public repository to capture notes and documentation from their work.
 The WG's approval will be announced, and WG members will be supported in inviting more members to their work.
 
-**Action on the group to completed a WG charter**: All WGs need to adapt a 'way of working' document.
-We have provided a {ref}`working-groups-charter-template`, which should be filled through group meetings or asynchronously and shared openly on WG's GitHub repo openly, inviting review and feedback from the project delivery team and community.
+**Action on the group to completed a WG charter**: All WGs need to provide 'way of working' in their charter document.
+We have provided a {ref}`ch-working-groups-charter-template`, which should be filled through group meetings or asynchronously and shared openly on WG's GitHub repo openly, inviting review and feedback from the project delivery team and community.
 
 ### Establishing Expectations for WG Members' Responsibilities
 
 While the roles and responsibilities may shift or evolve during the lifetime of a WG, having initial discussions enables the group to work together effectively throughout the WG's duration.
 
-* **Discuss Expectations**: Do all founding members understand the roles and responsibilities listed above to support a WG?
+* **Discuss Expectations**: Do all founding members understand the roles and responsibilities (provided in the charter) to support a WG?
 * **Discuss Founding Membership Roles**: How will this group distribute responsibilities among the roles listed above?
 * **Discuss Working Styles**: Has the group collaborated previously? What working styles do people in this group prefer, and how does that affect the team's cadence, style, and communication?
     * Note: Team-building and/or facilitation can be discussed with and/or assisted by the core staff delivery team.
@@ -72,7 +75,7 @@ Once a WG has been established, it is essential to identify and discuss the foll
 
 * **Establish Regular Meeting Times and/or Other Group Communication Needs**: How often should the group meet? Would they like to use an existing community call (such as Collaboration Cafe) for real-time discussions, or develop a separate call for co-working?
 * **Establish a Timeline for the WG**: How long should this group be operational? Should it be time-bound or ongoing indefinitely?
-* **Agree on Roles Timeline**: How long should people be appointed in their roles, and how often should these roles change?
+* **Agree on Terms for All Roles**: How long should people be appointed in their roles, and how often should these roles change?
 * **Use GitHub Repository for Organising and Documenting WG Activities**: All WG activities (including notes and the charter, mentioned below) should be archived in a Turing Way GitHub repository (you can use and adapt [this template](https://github.com/the-turing-way/working-group-template)).
     * Note: In "WG Resources," other infrastructure recommendations and needs (permissions, templates, and checklists) are available to help with this process.
 * **Establish a Reporting Mechanism and/or Public Notes Archive**: How will you share meeting notes and group progress with the wider community?

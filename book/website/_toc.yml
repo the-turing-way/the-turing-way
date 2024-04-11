@@ -821,7 +821,7 @@ parts:
                 file: community-handbook/fireside-chat/fireside-chat-roles
           - title: Giving a Turing Way Talk
             file: community-handbook/presenting
-          - title: Guidance for Working Groups
+          - title: Working Groups
             file: community-handbook/working-groups
             sections:
               - title: Guidelines for the Working Groups

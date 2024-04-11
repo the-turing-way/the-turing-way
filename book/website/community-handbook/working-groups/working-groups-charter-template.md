@@ -1,4 +1,4 @@
-(working-groups-charter-template)=
+(ch-working-groups-charter-template)=
 # Template for the Working Group's Charter
 
 __*The template provided here is a revised version of the [Sample group charter provided by Collaborative Leader Network](https://collaborativeleadersnetwork.org/strategy-tools/sample-group-charter). WG conveners should use this document to discuss different aspects of their work, build a shared understanding for the ways of working and adapt this document for their respective WGs.*__
@@ -19,16 +19,78 @@ The WG keeps the project delivery team informed and invites their input or suppo
 Additionally, the WG engages with the broader community, inviting their participation and feedback on their work. This includes selecting the best course of actions in the projects the WG undertakes. 
 The WG also considers alternatives suggested by WG members, community members, and the project delivery team in the context of community goals, current issues, concerns, and competing interests or preferences.
 
-### Decision Making in the WG
+### Roles and Responsibilities
+
+#### Structure of the WG
+
+*Guidance and recommendations are provided in the chapter, {ref}`<ch-working-groups-guidelines-roles>`.*
+
+- Chairs: [NAMES]
+- Documentarian: [NAMES]
+- `Add other roles here`
+- Delivery Team Contact: [NAME]
+- Members at large: [NAMES]
+
+```
+Describe responsibilities of all roles following the guidance document.
+Provide links to resources and additional information WG members should have access to.
+```
+### Responsibilities for Chair and Co-Chairs:
+
+1. Provide leadership for the WG, following Code of Conduct and WG Charter to guide its direction and activities.
+2. Facilitate the WG's work by organising and chairing meetings effectively.
+3. Ensure that responsibilities within the WG are distributed fairly among members.
+4. Ensure that the WG members are provided timely information and remain accountable for its actions and decisions.
+5. Represent the WG in the community spaces and in conversations with *The Turing Way* leadership.
+6. Participate in meetings where representation from the WG in wider governance spaces is required.
+7. Relay feedback, announcements, and discussions from the leadership or *The Turing Way* delivery team to the WG.
+8. Identify a member from the WG to represent the group in meetings if unable to attend themselves.
+
+### Responsibilities for Documentarian:
+
+1. Documenting and reporting on the logistical aspects of the group's activities.
+2. Assist the chair in maintaining meeting schedules and ensuring timely proceedings. 
+3. Note taking during WG meetings and uploading notes to designated repository, ensuring they are free from private or sensitive information.
+4. Communicate about the group's activities in a transparent, open, and accessible manner to facilitate broader engagement.
+5. Maintain documentation regarding the distribution of duties, especially if shared among multiple individuals, in the WG's repository.
+
+### Responsibilities for *The Turing Way* Delivery Team Contact:
+
+1. Serve as a liaison between the WG and *The Turing Way* project delivery team to facilitate support when needed.
+2. Provide assistance with operational activities, logistics, or work with the delivery team in advocating for resource allocation as required by the WG.
+3. Clarify the potential impact of WG decisions on the project and broader community, and ensure leadership involvement where necessary.
+4. Maintain open lines of communication and connection between the WG and the project delivery team.
+
+#### Responsibilities of All Members of the WG:
+
+- Provide specific expertise, including identifying emerging challenges and opportunities.
+- Review WG's documentation and provide comments, such as on GitHub.
+- Attend WG meetings and prepare appropriately to contribute to the agenda, specifically those assigned to them.
+- Complete all necessary actions assigned prior to each meeting.
+- Support the distribution of information to other WG members after each meeting and gather information/feedback.
+- Articulate and reflect the interests of community members through community engagement.
+- Maintain a focus on the roadmap co-created with the WG members for the benefit of the broader community.
+- Contribute to the documentation of the WG and share them broadly in *The Turing Way* book.
+- Represent and share WG's work, recommendations, and accomplishments in the community spaces such as Collaboration Cafe, Community Forum
+
+### Guiding Principles
 
 - The WG members establish clear roles and responsibilities (read guidelines in {ref}`working-groups-guideline`).
 - The WG chairs facilitate open and regular meetings to discuss agenda points invited from the WG members.
 - In areas where the WG has decision-making authority, members will strive to reach agreement by consensus.
 - For decision making related to agenda points or matters discussed in the WG, consensus-based recommendations and decisions are clearly communicated.
 - In matters where consensus within the WG is not met, the broader community is engaged via the WG's GitHub repository in a meaningful way to evaluate the proposed recommendation or decision. Community members are invited through other communication channels to share their feedback by commenting on the GitHub issue.
-- Decisions that affect the broader project and community are escalated to the project delivery team.
-- Decisions and recommendations take into account the timeline and available resources to support the work.
+- Matters that affect the broader project and community are escalated to the project leadership and project delivery team for ensuring their inputs on decision making. Recommendations and decisions will be openly communicated.
+- All decisions and recommendations take into account the timeline and available resources to support the work.
 - If required resources are lacking, input and support from the project delivery team are sought before making the decision.
+
+#### Reciprocity, Openness and Transparency
+
+This section is developed using recommendations from {ref}`the WG Guidelines<ch-working-groups-principles>`.
+
+```
+Notes from how the WG operationalises reciprocity, open sharing transparent decision-making should be provided here.
+```
 
 ### Terms of Membership
 
@@ -46,7 +108,7 @@ Specific positions will be open in the WG if the post holder:
 
 In a case where a member’s position is declared vacant, the WG chairs will invite WG members to volunteer to fill the role or hold a formal process within the WG to fill the position, especially if more members are interested in filling limited positions.
 
-### Working Group Operating Guidelines
+### Meetings and Communications 
 
 #### Convening of Meetings
 
@@ -98,22 +160,3 @@ In a case where a member’s position is declared vacant, the WG chairs will inv
 - Ensure that notes taken are accurate.
 
 *Please refer to some more useful resources in the {ref}`cl-organising-meetings`*
-
-#### Roles and Responsibilities
-
-Members of the WG:
-
-- Provide specific expertise, including identifying emerging challenges and opportunities.
-- Review WG's documentation and provide comments, such as on GitHub.
-- Attend WG meetings and prepare appropriately to contribute to the agenda, specifically those assigned to them.
-- Complete all necessary actions assigned prior to each meeting.
-- Support the distribution of information to other WG members after each meeting and gather information/feedback.
-- Articulate and reflect the interests of community members through community engagement.
-- Maintain a focus on the roadmap co-created with the WG members for the benefit of the broader community.
-- Contribute to the documentation of the WG and share them broadly in *The Turing Way* book.
-- Represent and share WG's work, recommendations, and accomplishments in the community spaces such as Collaboration Cafe, Community Forum
-
-```
-Describe responsibilities of other roles in similar format.
-Provide links to resources and additional information WG members should have access to.
-```
