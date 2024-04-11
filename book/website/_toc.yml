@@ -542,7 +542,7 @@ parts:
             file: collaboration/event-participation
           - title: Hosting Events with Public Contributors
             file: collaboration/ppie-events.md
-             sections:
+            sections:
               - title: Planning your PPIE Event
                 file: collaboration/ppie-events/ppie-events-planning.md
               - title: Location and Venue Planning
