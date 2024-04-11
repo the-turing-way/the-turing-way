@@ -4,7 +4,7 @@
 While any community member can join a Working Group (WG), setting up a WG involves a few extra steps to assess both the need and interest in its development, alongside sharing more information with the broader community. 
 This section is designed to guide the creation of WGs, from brainstorming to establishing structure.
 
-## Should This WG Be Created?
+## Should this Working Group be Created?
 
 A few guiding questions that may help with the process of identifying if a WG should be created (or not!) are:
 
@@ -82,7 +82,7 @@ Once a WG has been established, it is essential to identify and discuss the foll
     * Note: All WGs should upload notes to their respective GitHub repository [in *The Turing Way* organisation](https://github.com/the-turing-way/the-turing-way/). For a template, please see this template repository.
 * **Establish Appropriate Permissions for Accounts**: What accounts does this group need access to? Does this group have the proper account access and permissions to carry out its work?
     * Note: The Community Manager and/or Project Manager can assist with this!
-* **Create a WG Charter**: Please follow the {ref}`working-groups-charter-template`.
+* **Create a WG Charter**: Please follow the {ref}`ch-working-groups-charter-template`.
     * Note: All WGs should openly share an updated charter to their respective GitHub repository [in *The Turing Way* organisation](https://github.com/the-turing-way/the-turing-way/).
 * **Create an Open Calendar Invite**: This may require support from a core delivery staff member to add the information to the public Google Calendar.
 * **Advertise on Community Channels**: Use Slack, GitHub, social media, and/or the *The Turing Way* newsletter to share information about your WG.

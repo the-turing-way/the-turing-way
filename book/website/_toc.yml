@@ -825,7 +825,7 @@ parts:
             file: community-handbook/working-groups
             sections:
               - title: Guidelines for the Working Groups
-                file: community-handbook/working-groups-guideline
+                file: community-handbook/working-groups/working-groups-guideline
               - title: Formalising a Working Group
                 file: community-handbook/working-groups/working-groups-formalisation
               - title: Charter Template for the Working Groups

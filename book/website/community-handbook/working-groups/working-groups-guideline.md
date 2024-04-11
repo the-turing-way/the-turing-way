@@ -1,5 +1,5 @@
 (ch-working-groups-guidelines)=
-# Guidelines for the WG 
+# Guidelines for the Working Groups 
 
 All WGs, teams, and people within *The Turing Way* are responsible for adhering with our [Code of Conduct](https://the-turing-way.netlify.app/community-handbook/coc) and our (upcoming) [Accessibility Policy](https://github.com/the-turing-way/the-turing-way/issues/3145), both in organising WGs and facilitating WGs' activities.
 
