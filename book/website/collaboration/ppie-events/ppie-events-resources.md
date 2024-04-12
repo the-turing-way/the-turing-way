@@ -8,7 +8,7 @@
 > **Recommend other chapters in _The Turing Way_ book that readers should read next as a "level up", and explain why.**
 * {ref}`cm-lay-summaries` contains information and guidance on writing plain language summaries that can help guide the development of your plain language resources
 * {ref}`cl-organising-conferences` contains a checklist and general guidance for organizing a conference which supplements this chapter if you are planning a longer or multi-day event
-* {ref}`cl-event-tools` contains suggestions and reccomendations for tools that can help with task management, collaborative note taking, live polls, and surveys which can be used to support your event
+* {ref}`cl-event-tools` contains suggestions and recommendations for tools that can help with task management, collaborative note taking, live polls, and surveys which can be used to support your event
 * {ref}`cl-remote-collab-guidelines` provides guidance on running remote meetings and has reccomendations that can help shape an online or remote event held for people with lived experience
 * {ref}`cl-organising-meetings` contains checklists of tasks for organizing meetings which should be read in addition to the accessible meeting section of this chapter
 * {ref}`cl-hybrid-collab-challenges` outlines some of the challenges that come with organizing hybrid events which can impact the accessibility and engagement in planned events
