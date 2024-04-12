@@ -42,7 +42,7 @@ This section addresses some suggested areas for consideration for events that in
 
 At each stage, your planning documents should reflect an emphasis on accessible and inclusive universal design. 
 
-(cl-pppie-events-initial-planning)=
+(cl-ppie-events-initial-planning)=
 ## Initial Planning 
 An event that will be attended by people with lived experience may be different to events planned for an audience consisting only of researchers and research staff. 
 
