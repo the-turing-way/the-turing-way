@@ -1,7 +1,5 @@
 # Collaboration Cafe Notes - 4 April
 
-# 3 April 2024
-
 ## Check-in
 
 Name + Pronouns + What's your favorite *springtime* activity?  + an emoji (if you'd like!: [https://emojipedia.org/](https://emojipedia.org/), see also: [https://openmoji.org/)](https://openmoji.org/))
@@ -19,7 +17,6 @@ Name + Pronouns + What's your favorite *springtime* activity?  + an emoji (if yo
 * Sophia + she/her + park picnics 
 * Aida + she /her + running in parks 
 * Chris + he/him + cycling + 🚴
-* Earth sounds if you're interested: [https://earth.fm/](https://earth.fm/) --> Dawn in Sikkim is what we're listening to!
 
 ### Advertise and promote your event or anything exciting you're working on. ✨
 
@@ -53,6 +50,7 @@ Please add a 🤫 emoji next to any line that you would not like to be included 
 
 ##  Link list✨ 
 
+* Earth sounds if you're interested: [https://earth.fm/](https://earth.fm/) --> Dawn in Sikkim is what we're listening to!
 * [https://sonic-pi.net/](https://sonic-pi.net/)
 * [https://www.politifact.com/factchecks/2021/dec/22/facebook-posts/sealed-room-would-snake-plants-keep-you-alive-stud/](https://www.politifact.com/factchecks/2021/dec/22/facebook-posts/sealed-room-would-snake-plants-keep-you-alive-stud/)
 * This is probably the better link: [https://en.wikipedia.org/wiki/NASA\_Clean\_Air\_Study](https://en.wikipedia.org/wiki/NASA\_Clean\_Air\_Study)
