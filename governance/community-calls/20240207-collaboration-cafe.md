@@ -13,13 +13,13 @@ Name + Pronouns + Teleportation or flying? + an emoji (if you'd like!: https://e
 * Danny + they/them or he/him + flying + 😴
 * Chris + he/him + teleportation 
 * Steph she/her + flying 
-* Esther, she/her + teleportation if flying is going into an airplane.. flying otherwise :P
+* Esther + she/her + teleportation if flying is going into an airplane.. flying otherwise :P
 * Richard Acton + + teleportation
 * Susana + she/her + flying (if its not on a plane, like an actual bird)
 * Arielle, she/her + teleportation, I'd save so much money on flights ✨
 * Dushime Richard  + teleportation
 * Kirstie + she/her + flying - I need to get out of my extreme productivity practices!
-* Ale, she/her, teleportation
+* Ale + she/her + teleportation
 
 ## Advertise and promote your event or anything exciting you're working on. ✨ 
 
