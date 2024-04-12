@@ -22,9 +22,11 @@ Name + Pronouns + What is something you want to do more of in 2024? What is some
 - Kirstie + she/her + Arranging social connections - I’ve been waiting to be invited and it turns out that doesn’t work 😅 + focusing on who doesn’t like me + 💕
 
 ## Advertise and promote your event or anything exciting you're working on. ✨ 
+
 - Thinking about proposing a markdown flavour for protocols - inspired by the format of protocols.io - maybe some kind of extension to MyST (Richard J. Acton)
 
 ## Breakout rooms: Topic proposals and notes✨ 
+
 While no sign-ups are required to attend Collaboration Cafe, if you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it. 
 
 If you like one of the topics that are already suggested, please add your name next to that one. For more information about breakout rooms see [the description on GitHub](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md#breakout-rooms).*
@@ -131,6 +133,7 @@ If you like one of the topics that are already suggested, please add your name n
     - DG: Want to be reminded about arguments against having a URL. Don't like change.
 
 ## Link list✨ 
+
 - https://carpentries.github.io/instructor-training/02-practice-learning.html#building-a-mental-model
 - Jonny decimal system: https://johnnydecimal.com
 - Draw.io: https://app.diagrams.net
