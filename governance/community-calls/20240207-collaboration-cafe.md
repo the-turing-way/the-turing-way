@@ -5,11 +5,11 @@
 Name + Pronouns + Teleportation or flying? + an emoji (if you'd like!: https://emojipedia.org/, see also: https://openmoji.org/)
 (Remember that this is a public document. Your answer You can use a pseudonym if you'd prefer.) Use the 🤫 emoji if you would not like to be included in our public archive. These notes will be archived on The Turing Way repository.
 
-* Liz, she/her, beam me up s long as my guide dog can come 
-* Anne, she/her, flying for sure! love that birds eye view!
-* Maria. she/her, teleportation✨
-* Kalle, he/they, flying (because I dream about it all the time) but... teleporting to family in Brazil/Sweden would be nice too... 🧐
-* Johanna (she/her); teleportation
+* Liz + she/her + beam me up as long as my guide dog can come 
+* Anne + she/her + flying for sure! love that birds eye view!
+* Maria + she/her + teleportation✨
+* Kalle + he/they + flying (because I dream about it all the time) but... teleporting to family in Brazil/Sweden would be nice too... 🧐
+* Johanna (she/her) + teleportation
 * Danny + they/them or he/him + flying + 😴
 * Chris + he/him + teleportation 
 * Steph she/her + flying 
@@ -24,7 +24,7 @@ Name + Pronouns + Teleportation or flying? + an emoji (if you'd like!: https://e
 ## Advertise and promote your event or anything exciting you're working on. ✨ 
 
 * Thinking about proposing a markdown flavour for protocols - inspired by the format of protocols.io - maybe some kind of extension to MyST (Richard J. Acton)
-*  I am moderating this upcoming panel on "Queer Representations of AI", which I'm excited about: [https://www.sas.ac.uk/events/queer-representations-ai](https://www.sas.ac.uk/events/queer-representations-ai) (Kalle)
+* I am moderating this upcoming panel on "Queer Representations of AI", which I'm excited about: [https://www.sas.ac.uk/events/queer-representations-ai](https://www.sas.ac.uk/events/queer-representations-ai) (Kalle)
     * So cool!
 
 ## Breakout rooms: Topic proposals and notes✨ 
