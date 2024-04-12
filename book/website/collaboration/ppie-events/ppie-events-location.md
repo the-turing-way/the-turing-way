@@ -53,7 +53,7 @@ Please consider how you will make members of the public feel comfortable in thes
 This may mean putting up posters or banners and decorating areas of the space to allow attendees to feel a sense of belonging and identifying where your event spaces are located within a larger venue.
 
 If you are able to provide attendees with a map of the venue, make sure to identify how to navigate the location, where parking and restrooms are located, where to find staff members, and where all important locations will be (such as kitchen, break out rooms, and registration). 
-Also ensure that the location of any emergency supplies such as an AED, epi-pen, first aid kit and a member of staff who will be able to act in the event of an emergency is marked on the map. 
+Also ensure that the location of any emergency supplies such as an automated external defibrillator (AED), epi-pen, first aid kit and a member of staff who will be able to act in the event of an emergency is marked on the map. 
 Although it is not expected for staff and organizers to be medically trained, it is important to know who needs to be contacted in an emergency.
 
 (cl-ppie-events-location-setup)=
