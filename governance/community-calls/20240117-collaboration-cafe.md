@@ -21,8 +21,7 @@ Name + Pronouns + What is something you want to do more of in 2024? What is some
 - Jim + he/him + Social events + Worrying + 🧶
 - Kirstie + she/her + Arranging social connections - I’ve been waiting to be invited and it turns out that doesn’t work 😅 + focusing on who doesn’t like me + 💕
 
-## Advertise and promote your event or anything exciting you're working on. ✨ 
-
+## Advertise and promote your event or anything exciting you're working on. ✨ 
 - Thinking about proposing a markdown flavour for protocols - inspired by the format of protocols.io - maybe some kind of extension to MyST (Richard J. Acton)
 
 ## Breakout rooms: Topic proposals and notes✨ 
@@ -121,7 +120,6 @@ If you like one of the topics that are already suggested, please add your name n
 - Newsletter-writing room (David)
 - Predicting the future of Research Room 
 - Quiet co-working
-
 - End of the call notes
     - RA: Last point!
     - AB: What happens if we actually fixed things? What would happen in peer review? Imaginging the future of research?
@@ -132,12 +130,7 @@ If you like one of the topics that are already suggested, please add your name n
     - SG: We want a url to prevent link rot, and for switching away from other platforms.
     - DG: Want to be reminded about arguments against having a URL. Don't like change.
 
-
-Link list✨ 
-
+## Link list✨ 
 - https://carpentries.github.io/instructor-training/02-practice-learning.html#building-a-mental-model
 - Jonny decimal system: https://johnnydecimal.com
 - Draw.io: https://app.diagrams.net
-
-     
-
