@@ -48,7 +48,7 @@ Although they may help some individuals, remember that signs and visual informat
 When assisting a disabled person, ask them how you can do this because it varies between individuals.
 Do not touch, grab, or move people with disabilities, their mobility aids, or service dogs without permission.
 
-It is also important to be cognizant that attendees who are more familiar with the layout of University campuses may feel more comfortable navigating university-based locations. 
+It is also important to be cognizant that attendees who are more familiar with the layout of university campuses may feel more comfortable navigating university-based locations. 
 Please consider how you will make members of the public feel comfortable in these spaces. 
 This may mean putting up posters or banners and decorating areas of the space to allow attendees to feel a sense of belonging and identifying where your event spaces are located within a larger venue.
 
