@@ -55,7 +55,7 @@ You could also consider hosting some focus group sessions at regular stages to g
 
 
 ```{note}
-If you are able to collaborate with  members of the community, please consider how you will recognize or reimburse the time and contributions made.
+If you are able to collaborate with members of the community, please consider how you will recognize or reimburse the time and contributions made.
 This may involve an honorarium for attending planning meetings and for time spent reviewing policies and other documents.
 
 You could also consider hosting some focus group sessions at regular stages to get feedback on your plans.
