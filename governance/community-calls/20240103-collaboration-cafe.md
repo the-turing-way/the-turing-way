@@ -22,9 +22,9 @@ If you like one of the topics that are already suggested, please add your name n
 
 - Main Room:
     * Hour 1: Infrastructure Working Group: Splitting the TTW repository
-    * Hour 2: Accessibility Working Group:
+    * Hour 2: Accessibility Working Group: Working on inclusive events chapter
 
-Link list✨ 
-
+## Link list✨ 
+*
 * 
 * 
