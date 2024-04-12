@@ -92,7 +92,7 @@ For example, people with an experience of cognitive disability, as well as autis
 
 The guidance you provide will be different depending on your event. 
 For example, a public lecture may ask attendees to submit questions for the speaker at the end of the lecture. 
-For this example, indicate in your guidance how long there will be for questions, how to use any online software you may be using to collect audience questions, and also how many questions you are likely going to answer. 
+For this example, indicate in your guidance how much time will be used for questions, how to use any online software you may be using to collect audience questions, and also how many questions you are likely going to answer. 
 This can help avoid any feeling attendees may have about being ignored or not heard if their question is not addressed. 
 Ensure that the moderator is taking questions from a diverse subset of the audience.
 
