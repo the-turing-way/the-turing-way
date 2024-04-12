@@ -41,7 +41,7 @@ Although scheduling is difficult for any form of event organizing, please take t
 ### Session Duration
 Your schedule should take into account breaks and meal times, and carefully plan the length of its sessions. 
 
-If your event takes place in person, make sure to allow for sufficient time for people with lived experience and disabilities affecting mobility to move between locations. 
+If your event takes place in person, make sure to allow for sufficient time for people with lived experiences and/or disabilities that affect mobility to move between locations. 
 For example, consider how long it would take to get to an accessible elevator and then travel between floors, or how far away accessible restrooms are. 
 If your main room has only one exit and a large audience, it may take significantly longer to exit the room and cause attendees stress as they have to rush between sessions. 
 
