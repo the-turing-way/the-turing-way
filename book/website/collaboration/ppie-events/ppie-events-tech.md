@@ -5,7 +5,7 @@ When planning an event that will be attended by people with lived experience, ev
 This section focuses on considerations and recommendations around using different technologies to support the inclusion of people with lived experience at in-person, hybrid, or online events. 
 
 (cl-ppie-events-hybrid)=
-## Hybrid as an Accessibility and Inclusion Strategy
+## Hybrid Events as an Accessibility and Inclusion Strategy
 Hybrid events, by default, prioritize accessibility and the inclusivity of attendees with lived experience, making them the ideal choice to engage an audience of individuals with diverse lived experiences. 
 Online sessions can be better suited to individuals who take part in research as a volunteer and find it difficult to attend in-person events. 
 Conversely, in-person events can make use of local resources to support engagement and may be preferred by others who face barriers to joining an online event.

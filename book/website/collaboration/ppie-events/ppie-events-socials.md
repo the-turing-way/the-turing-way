@@ -118,4 +118,4 @@ You may also want to consider asking attendees to add a name pronunciation guide
 ## Conclusion
 Social events can often be uncomfortable and daunting for many people for a variety of reasons.
 
-By providing a guide and establishing a structured approach to any social activities you will be able to reduce any potential anxieties that attendees may have and support all attendees being comfortable in fully engaging with your event.
+By providing a guide and establishing a structured approach to any social activities you may be able to reduce potential anxieties that attendees may have and support all attendees being comfortable in fully engaging with your event.
