@@ -38,9 +38,9 @@ Please add a 🤫 emoji next to any line that you would not like to be included 
     * Citizen scientists will count seals --> manually will clean up mapping projects
     * Managing big data files for version control for non-data scientists --> What's the workflows? What's the tools?
 * Book Dash (Amefon, Arielle, Esther, Richard) --> First hour
-* Environment \& Sustainability room, Artefact Evaluation Process for Computational Climate Science (Roly, Alejandro)
-* Reading Room / Chapter Reviewing (Ceiliedh)
-* All Things AI (Jen \& Pen)
+* Environment & Sustainability room, Artefact Evaluation Process for Computational Climate Science (Roly, Alejandro)
+* Reading Room / Chapter Reviewing (Ceilidh)
+* All Things AI (Jen & Pen)
 * Communication Channels (Gabin)
 * Innovation Chapter (Aida)
 * Research in 2050 (2nd hour - Arielle, Danny)
