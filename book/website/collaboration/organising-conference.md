@@ -55,7 +55,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - Create possibilities for people to ask for support to attend your event.
 - Create a reporting guideline for any questions, concerns or breaches of the Code of Conduct.
 - Describe how you intend to create an inclusive event, for example, will there be a sign language interpreter or live transcription.
-- Consider allocating a budget that can be dedicated to addressing transportation needs for attendees with additional accessibility requirements. 
+- Consider allocating a budget that can be dedicated to addressing transportation needs for attendees who benefit from accessibility support. 
 - Create one single location for all the information (like an A-to-Z) regarding the events.
 - Host a few community calls in different stages of planning to involve the audience in the process.
 - Invite volunteers who can help you troubleshoot some specific issues.
