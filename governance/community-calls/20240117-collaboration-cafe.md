@@ -58,7 +58,7 @@ If you like one of the topics that are already suggested, please add your name n
     - Do we have any best practices for working across multiple repositories? --> What other communities have we seen do this well?
     - JupyterBook has a fairly segmented ecosystem
     - ALS: Sign-posting for the Community Handbook? Contributors guide? Adding more materials about how to navigate through the guides?
-    - We can definitely ping Angus in the Turing Way and ask his experience of issues and the Jupyter Book eco system as he’s onboarded himself 
+    - We can definitely ping Angus in the Turing Way and ask his experience of issues and the Jupyter Book ecosystem as he’s onboarded himself 
     - We might want to look at our issue template to budget cross-connection
     - What does an MVP look like?
     - Separating the TTW book from the rest of the repo?
@@ -73,11 +73,11 @@ If you like one of the topics that are already suggested, please add your name n
         - tests
         - workshops
     - What does the 'communications' include for TTW?
-    - MVP sounds like a good idea, 
+    - MVP sounds like a good idea
         - https://infrastructure.2i2c.org/howto/update-env/#split-up-an-image-for-use-with-the-repo2docker-action
     - There could be a step missing, where it creates a branch called "staging" 
     - Danny will try it out and ping Sarah if helps is needed
-    - Making a newsletter repo
+    - Making a newsletter repo as a test
     - Misunderstanding about the goal of the main room discussion but still interesting. Accessability and discoverability was a surprise factor at the discussion 
     - Is there a particular approach for a Translation repo. Sarah will share the repo she had been working on during the Book Dash with Batool 
     - Decision making from moving from readthedocs to netlify. No decision has been received, dedicated URL for the webpage (priority!) Paying for a domain name (ACTION TO ALE) -- 
