@@ -81,7 +81,8 @@ Below are some examples of types of facilitators or contributors that your hybri
 - Provide the audience with information about any emergency exits or other physical locations of importance during the event.
 
 #### In-Person Notetaker
-- Take notes during the session and capture the main points of discussion. Depending on your event, this may also involve sending notes or making them available to attendees with sensory impairments to support their engagement and participation.
+- Take notes during the session and capture the main points of discussion.
+  Depending on your event, this may also involve sending notes or making live notes available to attendees with sensory disabilities. 
 
 #### Online Technical Support
 - Support attendees and facilitators with sound or video focus difficulties.
