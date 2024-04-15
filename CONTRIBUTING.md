@@ -26,9 +26,9 @@ Been here before? Already know what you're looking for in this guide? Jump to th
   - [Issue labels](#issue-labels)
 - [Making a change with a pull request](#making-a-change-with-a-pull-request)
   - [1. Comment on an existing issue or open a new issue referencing your addition](#1-comment-on-an-existing-issue-or-open-a-new-issue-referencing-your-addition)
-  - [2. Fork _The Turing Way_ repository to your profile](#2-forkgithub-fork-the-turing-way-repositoryturing-way-repo-to-your-profile)
+  - [2. Fork _The Turing Way_ repository to your profile](#2-fork-the-turing-way-repository)
   - [3. Make the changes you've discussed](#3-make-the-changes-youve-discussed)
-  - [4. Submit a pull request](#4-submit-a-pull-requestgithub-pullrequest)
+  - [4. Submit a pull request](#4-submit-a-pull-request)
 - [The process of writing chapters](#the-process-of-writing-chapters)
 - [Style Guide](#style-guide)
 - [Representing _The Turing Way_](#representing-the-turing-way)
@@ -105,13 +105,12 @@ For example, you could write words as **bold** (`**bold**`), or in _italics_ (`_
 Also when writing in Markdown, please [start each new sentence on a new line](https://the-turing-way.netlify.app/community-handbook/style.html#write-each-sentence-in-a-new-line-line-breaks).
 Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it makes the [diffs produced during the pull request](https://help.github.com/en/articles/about-comparing-branches-in-pull-requests) review easier to read! :sparkles:
 
-
 ## Where to start: issues
 
 Before you open a new issue, please check if any of our [open issues](https://github.com/the-turing-way/the-turing-way/issues) cover your idea already.
 If you open a new issue, please follow our basic guidelines laid out in our [issue templates](https://github.com/the-turing-way/the-turing-way/issues/new/choose).
 There are 3 issues templates to choose from.:
-1. New Chapter Template ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&template=CHAPTER_ISSUE_TEMPLATE.md)):  This issue is a place to discuss matters relating to writing a new chapter on a new topic or adding a subchapter in an already existing chapter.
+1. New Chapter Template ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&labels=book&projects=&template=new_chapter.yml&title=%5BNEW+CHAPTER%5D+-+%3CTOPIC%3E)):  This issue is a place to discuss matters relating to writing a new chapter on a new topic or adding a subchapter in an already existing chapter.
 2. General ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&template=ISSUE_TEMPLATE.md)):  Use this template for a general issue related to the book, community, process or ideas.
 3. Bug Report ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D)): With this template, create an issue report that can help others repair something that is currently broken.
 This can be used for reporting errors like typos and broken links.

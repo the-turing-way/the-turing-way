@@ -73,7 +73,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - Create appropriate channels for the registered participants (general, introduction, social, program).
 - Have an announcement channel that can be used for announcing important information by the committee members.
 - If the organisation account is not open for others to join, then create an open channel for participants.
-- Create a social media account on Twitter for announcements, branding, improving visibility and wider outreach.
+- Create a social media account on X/Twitter for announcements, branding, improving visibility and wider outreach.
   - Assign 1-2 volunteers or committee members who can handle social media in collaboration with the committee.
 
 ### Storing and sharing information within the organising committee
@@ -281,7 +281,7 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 - Remind the guidelines for participating in discussions.
   - Raise hand - on chat, or virtually (like in [Zoom](https://zoom.us/)) or physically.
   - Other ways to involve others in the discussion equitably.
-- Ask everyone to write down their name, contact (Twitter, email) and other relevant information.
+- Ask everyone to write down their name, contact (X/Twitter, email) and other relevant information.
   - Provide a place to write down pronouns, but keep that optional.
 - Start the meeting with an icebreaker question.
   - Create opportunities for everyone to share something personal (about their hobby, or experiences) on the document or verbally.
