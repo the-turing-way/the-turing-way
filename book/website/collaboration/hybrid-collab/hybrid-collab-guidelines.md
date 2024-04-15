@@ -65,7 +65,9 @@
 
 Depending on your event or meeting, you may need to consider providing support for session facilitation, notetaking, and technical support. 
 For hybrid events, you will need both in-person personnel **AND** online personnel and ensure that are able to recruit support for both the online and in-person parts of your event as it will be incredibly difficult for the same person to act as both an in-person and online facilitator.
-Below are some examples of types of facilitators or contributors that your hybrid event might need to make it a success. For each role, we have included some potential tasks & responsibilities. 
+
+Below are some examples of types of facilitators or contributors that your hybrid event might need to make it a success. 
+For each role, we have included some potential tasks & responsibilities. 
 
 #### In-Person Technical Support
 - Ensure that the audio and visual set-up is working.
