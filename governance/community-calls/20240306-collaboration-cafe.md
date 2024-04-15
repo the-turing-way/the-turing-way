@@ -26,7 +26,7 @@ Name + Pronouns + What's your favourite biscuit, cookie or cake? 🍪 🍰 + an 
 
 While no sign-ups are required to attend Collaboration Cafe, if you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it. 
 
-If you like one of the topics that are already suggested, please add your name next to that one. For more information about breakout rooms see [the description on GitHub]([https://github.com/alan-turing-institute/the-turing-way/blob/main/project\_management/online-collaboration-cafe.md#breakout-rooms)](https://github.com/alan-turing-institute/the-turing-way/blob/main/project\_management/online-collaboration-cafe.md#breakout-rooms)).
+If you like one of the topics that are already suggested, please add your name next to that one. For more information about breakout rooms see [the description on GitHub](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md#breakout-rooms).
 
 Please add a 🤫 emoji next to any line that you would not like to be included in the archive on Github1
 
