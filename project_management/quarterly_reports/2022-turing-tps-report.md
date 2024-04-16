@@ -20,12 +20,12 @@ The project is available online on GitHub ([https://github.com/alan-turing-insti
 **General updates:**
 
 - _Project and community statistics:_
-  - Book: 55 chapters with 250+ live pages
-  - Contributors on GitHub: 325 contributors (starred by 1300+ users)
-  - Twitter: 2,789 followers
-  - Newsletter: 593 subscribers
-  - Slack workspace: 374 members
-  - **Project team:** The Turing Way core team now hosts 18 members including the Turing Community Managers, Research Application Managers, Programme Manager and volunteer contributors. Four members from the community were also formally recognised as the Translation and Localisation Leads, and included in the project team document.
+- Book: 60+ chapters with 313 live pages
+- Contributors on GitHub: 391 contributors (starred by 1400+ users)
+- Twitter: 3,331 followers
+- Newsletter: 616 subscribers
+- Slack workspace: 528 members
+- **Project team**: The Turing Way core team now hosts 22 members including the Turing staff members from TPS (Senior Researchers, Community Managers, Research Application Managers, and Programme Manager) and volunteer members leading various sub-projects within the community. Four volunteer members from the community lead the Translation and Localisation efforts with a much larger group of contributors driving the translation of The Turing Way into Spanish, Arabic, French, Japanese, Turkish, Mandarin, and Portuguese.
 
 - _Past events and updates:_
   - The new Community Manager of The Turing Way, Anne Lee Steele joined the project in March 2022.
