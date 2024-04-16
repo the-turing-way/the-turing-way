@@ -4632,6 +4632,15 @@
       "contributions": [
         "eventOrganizing"
       ]
+    },
+    {
+      "login": "dpshelio",
+      "name": "David Pérez-Suárez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/963242?v=4",
+      "profile": "http://dpshelio.github.io",
+      "contributions": [
+        "eventOrganizing"
+      ]
     }
   ],
   "projectName": "the-turing-way",
