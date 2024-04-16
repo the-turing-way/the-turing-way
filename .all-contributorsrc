@@ -4613,6 +4613,15 @@
       "contributions": [
         "eventOrganizing"
       ]
+    },
+    {
+      "login": "humbertodebat",
+      "name": "Humberto Debat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55153399?v=4",
+      "profile": "https://github.com/humbertodebat",
+      "contributions": [
+        "eventOrganizing"
+      ]
     }
   ],
   "projectName": "the-turing-way",
