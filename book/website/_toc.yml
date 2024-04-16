@@ -84,17 +84,20 @@ parts:
           - title: Licensing
             file: reproducible-research/licensing
             sections:
-              - title: Software Licenses
-                file: reproducible-research/licensing/licensing-software
+              - title: License Compatibililty
+                file: reproducible-research/licensing/licensing-compatibility
+              - title: Ethics-informed Licensing
+                file: reproducible-research/licensing/licensing-ethical-source
               - title: Data Licenses
                 file: reproducible-research/licensing/licensing-data
+              - title: Hardware Licenses
+                file: reproducible-research/licensing/licensing-hardware
               - title: Machine Learning Model Licenses
                 file: reproducible-research/licensing/licensing-ml
                 sections:
                   - title: "Case Studies: Choosing an ML License"
                     file: reproducible-research/licensing/licensing-ml-case-studies
-              - title: License Compatibililty
-                file: reproducible-research/licensing/licensing-compatibility
+
               - title: Checklist
                 file: reproducible-research/licensing/licensing-checklist
           - title: Research Data Management
@@ -102,6 +105,8 @@ parts:
             sections:
               - title: Research Data
                 file: reproducible-research/rdm/rdm-data
+              - title: Finding Data
+                file: reproducible-research/rdm/rdm-find
               - title: Data Management Plan
                 file: reproducible-research/rdm/rdm-dmp
               - title: The FAIR Principles and Practices
@@ -114,18 +119,24 @@ parts:
                 file: reproducible-research/rdm/rdm-spreadsheets
               - title: Documentation and Metadata
                 file: reproducible-research/rdm/rdm-metadata
+              - title: Methods and Protocols
+                file: reproducible-research/rdm/rdm-methods
+              - title: Electronic Lab Notebooks (ELNs)
+                file: reproducible-research/rdm/rdm-elns
               - title: Data Curation
                 file: reproducible-research/rdm/rdm-data-curation
+              - title: Data Visualisation
+                file: reproducible-research/rdm/rdm-visualisation
+              - title: Data Repositories
+                file: reproducible-research/rdm/rdm-repository
               - title: Sharing and Archiving Data
                 file: reproducible-research/rdm/rdm-sharing
               - title: Data Article
                 file: reproducible-research/rdm/rdm-article
-              - title: Research Data Management Toolkits
-                file: reproducible-research/rdm/rdm-toolkits
-              - title: Personal Impact Stories
-                file: reproducible-research/rdm/rdm-stories
               - title: Checklist
                 file: reproducible-research/rdm/rdm-checklist
+              - title: Personal Impact Stories
+                file: reproducible-research/rdm/rdm-stories
               - title: Resources
                 file: reproducible-research/rdm/rdm-resources
           - title: Reproducible Environments
@@ -159,6 +170,8 @@ parts:
             sections:
               - title: Code Style and Formatting
                 file: reproducible-research/code-quality/code-quality-style
+              - title: Writing Robust Code
+                file: reproducible-research/code-quality/code-quality-robust.md
               - title: Checklist and Resources
                 file: reproducible-research/code-quality/code-quality-resources
           - title: Code Testing
@@ -261,7 +274,7 @@ parts:
             sections:
               - title: Planning for Project Design
                 file: project-design/pd-overview/pd-overview-planning
-              - title: Communication and Collaboration
+              - title: Collaborative project documentation
                 file: project-design/pd-overview/pd-overview-repro
               - title: Reproducibility Methods
                 file: project-design/pd-overview/pd-overview-methods
@@ -269,6 +282,8 @@ parts:
                 file: project-design/pd-overview/pd-overview-version
               - title: Sharing Your Research Work
                 file: project-design/pd-overview/pd-overview-sharing
+          - title: Project Design Checklist
+            file: project-design/pd-checklist
           - title: Creating Project Repositories
             file: project-design/project-repo
             sections:
@@ -348,6 +363,8 @@ parts:
             sections:
               - title: Data Governance for the Machine Learning Pipeline
                 file: project-design/data-governance/data-gov-ml
+              - title: BigCode Data Governance Case Study
+                file: project-design/data-governance/bigcode_casestudy
 
       # ===== Guide for Communication ========================================
 
@@ -394,9 +411,9 @@ parts:
           - title: Social Media for Research Communications
             file: communication/social-media
             sections:
-              - title: Tips for starting with twitter
+              - title: Tips for starting with X
                 file: communication/social-media/social-media-twitter-tips
-              - title: Managing multiple twitter accounts
+              - title: Managing multiple X accounts
                 file: communication/social-media/social-media-twitter-multiple
           - title: Research Objects in Action
             file: communication/research-objects
@@ -514,6 +531,11 @@ parts:
             file: collaboration/coworking
           - title: Organising Conferences
             file: collaboration/organising-conference
+            sections:
+              - title: Registration Forms
+                file: collaboration/organising-conference/reg-forms
+              - title: Template for Registration Form
+                file: collaboration/organising-conference/reg-form-template
           - title: Chairing Events
             file: collaboration/chairing
           - title: Participating in Events
@@ -546,6 +568,9 @@ parts:
                 file: collaboration/academic-industry/academic-industry-personal-story
           - title: Team Manual
             file: collaboration/team-manual
+            sections:
+              - title: On and Offboarding Team Members
+                file: collaboration/team-manual/team-manual-on-off-boarding
           - title: Open Leadership in Data Science
             file: collaboration/leadership
             sections:
@@ -633,6 +658,8 @@ parts:
                 file: ethical-research/law-policy/law-policy-resources
           - title: Research Ethics for Social Data
             file: ethical-research/social-data
+          - title: Data Feminism
+            file: ethical-research/data-feminism
           - title: Activism for Researchers
             file: ethical-research/activism
             sections:
@@ -642,6 +669,8 @@ parts:
                 file: ethical-research/activism/activism-whistleblowing
               - title: Cultural change
                 file: ethical-research/activism/activism-cultural-change
+              - title: The Environmental Impact of Digital Research
+                file: ethical-research/activism/activism-env-impact
               - title: Case study - Robodebt
                 file: ethical-research/activism/activism-robodebt
               - title: Case study - Google Workers
@@ -659,8 +688,18 @@ parts:
                 file: ethical-research/self-reflection/sr-prompts
               - title: Resources
                 file: ethical-research/self-reflection/sr-resources
+          - title: Data-Hazards
+            file: ethical-research/data-hazards
+            sections:
+              - title: Introduction
+                file: ethical-research/data-hazards/dh-intro
+              - title: How To Use
+                file: ethical-research/data-hazards/dh-how-to-use
+              - title: Case Study
+                file: ethical-research/data-hazards/dh-case-study
           - title: Ethical Considerations for Open Source Governance Models
             file: ethical-research/ethics-open-source-governance
+
 
       # ===== Community Handbook ========================================
 
@@ -717,6 +756,40 @@ parts:
                 file: community-handbook/acknowledgement/acknowledgement-record
               - title: Different Contributions and Acknowledgements
                 file: community-handbook/acknowledgement/acknowledgement-examples
+          - title: Translation and Localisation
+            file: community-handbook/translation
+            sections:
+              - title: Translation of Open Source Projects
+                file: community-handbook/translation/translation-localisation
+              - title: Welcome to the localisation team of The Turing Way!
+                file: community-handbook/translation/translation-workflow
+              - title: Embark on Your Localisation Journey
+                file: community-handbook/translation/translation-getting-started
+              - title: Your Gateway to Crowdsourced Localisation
+                file: community-handbook/translation/translation-hello-crowdin
+          - title: Infrastructure
+            file: community-handbook/infrastructure
+            sections:
+              - title: Publishing Contributors
+                file: community-handbook/infrastructure/infrastructure-contributors
+              - title: External Link Checking
+                file: community-handbook/infrastructure/infrastructure-external-link-check
+              - title: DNS
+                file: community-handbook/infrastructure/infrastructure-dns
+          - title: Accessibility
+            file: community-handbook/accessibility
+            sections:
+              - title: Event Organising
+                file: community-handbook/accessibility/event-organising
+              - title: Alt text
+                file: community-handbook/accessibility/alt-text
+          - title: Communication Platforms
+            file: community-handbook/communication-channels
+            sections:
+              - title: Slack Start Guide
+                file: community-handbook/communication-channels/slack-start-guide
+              - title: Slack Welcome Guide
+                file: community-handbook/communication-channels/slack-welcome-guide
           - title: Monthly Newsletters
             file: community-handbook/newsletters
             sections:
@@ -782,17 +855,6 @@ parts:
                 file: community-handbook/templates/template-newsletter-draft
               - title: Template for Fireside Chat Shared Notes
                 file: community-handbook/templates/template-fireside-chat
-          - title: Translation and Localisation
-            file: community-handbook/translation
-            sections:
-              - title: Localisation
-                file: community-handbook/translation/translation-localisation
-              - title: Workflow
-                file: community-handbook/translation/translation-workflow
-              - title: Getting started
-                file: community-handbook/translation/translation-getting-started
-              - title: Hello Crowdin
-                file: community-handbook/translation/translation-hello-crowdin
 
       # ===== Afterword ========================================
 
@@ -800,9 +862,13 @@ parts:
         sections:
           - title: Legal Disclaimer
             file: afterword/legal-disclaimer
+          - title: Contributors Record
+            file: afterword/contributors-record
+          - title: Collaborators
+            file: afterword/collaborators
+          - title: Sub-projects, Working Groups, Informal Initiatives
+            file: afterword/subprojects
           - title: Glossary
             file: afterword/glossary
           - title: Bibliography
             file: afterword/bibliography
-          - title: Contributors Record
-            file: afterword/contributors-record

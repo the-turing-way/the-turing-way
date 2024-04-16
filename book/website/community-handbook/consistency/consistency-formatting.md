@@ -23,7 +23,7 @@ _The Turing Way_ should be written in [Markdown](https://en.wikipedia.org/wiki/M
 
 Parts of earlier chapters in _The Turing Way_ were written in `HTML`, making some of their content hard to read.
 
-For example, {ref}`html-to-markdown` depicts a table that was written in `HTML`.
+For example, the following figure depicts a table that was written in `HTML`.
 
 ```{figure} ../../figures/html-to-markdown.*
 ---
@@ -42,7 +42,7 @@ alt: A screenshot of a table converted to Markdown from HTML. The table becomes 
 ---
 Converting HTML to Markdown makes The Turing Way book easier to read.
 ```
-```{note} A PR that addresses this check can be found [here](https://github.com/alan-turing-institute/the-turing-way/pull/1460).
+```{note} A PR that addresses this check can be found [here](https://github.com/the-turing-way/the-turing-way/pull/1460).
 ```
 
 Chapter content written in `HTML` are usually enclosed in tags which begin and end with angle brackets `<>`.
@@ -54,19 +54,20 @@ For example, [superscripts and subscripts](https://support.squarespace.com/hc/en
 In addition, content like YouTube videos and tables with headers that span multiple columns or rows can be written in `HTML`.
 
 
-```{attention} A Note About Styling
+````{attention} A Note About Styling
 :class: tip
 
-_The Turing Way_ has a [book-wide stylesheet](https://github.com/alan-turing-institute/the-turing-way/blob/main/book/website/_static/book-stylesheet.css) that controls the look of content written in `HTML`.
+_The Turing Way_ has a [book-wide stylesheet](https://github.com/the-turing-way/the-turing-way/blob/main/book/website/_static/book-stylesheet.css) that controls the look of content written in `HTML`.
 If you include `HTML` in your contribution, ensure that your formatting includes the relevant classes and IDs from the stylesheet.
 
 For example, if you want to add a YouTube video to your content using the `<iframe>` tag, wrap the `<iframe>` in a `<div>` tag, and give the `div` a `video-container` class as shown below.
 
+```html
 <div class="video-container">
     <iframe>....</iframe>
 </div>
-
 ```
+````
 
 This is also described in the {ref}`Style Guide<ch-style-custom-styling-videos>`.
 
@@ -108,7 +109,7 @@ Ideally, all Markdown files should start with a level 1 heading and increase seq
 ```
 
 Several files in _The Turing Way_ book do not follow this convention.
-A list of such files can be found in [this issue](https://github.com/alan-turing-institute/the-turing-way/issues/1321), and [this PR](https://github.com/alan-turing-institute/the-turing-way/pull/1451) is a great example of how to fix a file with non-consecutive headers.
+A list of such files can be found in [this issue](https://github.com/the-turing-way/the-turing-way/issues/1321), and [this PR](https://github.com/the-turing-way/the-turing-way/pull/1451) is a great example of how to fix a file with non-consecutive headers.
 
 #### Demo
 
@@ -138,9 +139,9 @@ This helps make _The Turing Way_ more navigable and accessible.
 Some figures and images in _The Turing Way_ are embedded using Markdown syntax.
 While this works, it does not allow the images to adapt to the screen size of the device the book is read from.
 
-Markedly Structured Text (`MyST`) is a flavour of Markdown that addresses this and enables responsive images in the _The Turing Way_.
+Markedly Structured Text (`MyST`) is a flavour of Markdown that addresses this and enables responsive images in _The Turing Way_.
 
-It also allows the use of captions and alternative text (ALT text), which are the invisible image descriptions that are read aloud to readers of the _The Turing Way_ who use a screen reader.
+It also allows the use of captions and alternative text (ALT text), which are the invisible image descriptions that are read aloud to readers of _The Turing Way_ who use a screen reader.
 If no ALT text is provided with an image, these users will be unable to understand the purpose of the image.
 
 When writing ALT text, remember to:
@@ -150,7 +151,7 @@ In doing so, there is no need to "announce" an image in your description (for ex
 This ensures that the descriptions are easy to understand.
 
 Please note that images included in _The Turing Way_ book should be less than 1MB.
-This allows the book load faster, especially for readers who may have slow internet connections.
+This allows the book to load faster, especially for readers who may have slow internet connections.
 
 Please refer to the {ref}`style guide <ch-style-figures>` for examples on formatting images using `MyST` and adding ALT text to them.
 When including images in your contributions, it may be better to avoid the height parameter as the wrong value could make your image appear distorted on mobile devices.
@@ -209,14 +210,14 @@ Being a citeable reference for individuals seeking to carry out reproducible dat
 
 Although _The Turing Way_ does not follow a specific title capitalisation style, some general, non-exhaustive rules to consider include:
 - Capitalise principal or important words
-- Lowercase articles, conjunctions, and prepositions (unless when these are stressed)
+- Lowercase articles, conjunctions, and prepositions (except when these are stressed)
 - Capitalise the first and last words
 
 There are helpful tools, such as [CapitalizeMyTitle](https://capitalizemytitle.com/) and [Title Case Converter](https://titlecaseconverter.com/), that can be used to title-case headers when writing your content.
 Furthermore, headers in _The Turing Way_ can be run through these tools to ensure they follow title-casing conventions.
 They can then be replaced within chapters and in the `_toc.yml` as appropriate.
 
-For example, In {ref}`mismatched-title-toc` above, **Using spreadsheets for research data** should be title-cased to **Using Spreadsheets for Research Data**.
+For example, In {ref}` the image <mismatched-title-toc>` above, **Using spreadsheets for research data** should be title-cased to **Using Spreadsheets for Research Data**.
 
 Certain headers may not need to be title-cased depending on the context in which they are used.
 For example, because some of the headers in this chapter make up a checklist - they do not need to be title-cased.

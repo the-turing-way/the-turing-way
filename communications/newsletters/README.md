@@ -9,13 +9,13 @@ In this repository, we store the newsletter drafts in markdown format and we rec
 
 | Month | Date | GitHub link | TinyLetter link |
 | ----- | ---- |----------- | --------------- |
-| January | - | - | - |
-| Febuary | - | - | - |
-| March | - | - | - |
-| April | - | - | - |
-| May | - | - | - |
-| June | - | - | - |
-| July | - | - | - |
+| January | 2023-01-31 | - | [A new year at the Turing Way, Happy 2023](https://tinyletter.com/TuringWay/letters/a-new-year-with-the-turing-way-happy-2023) |
+| Febuary | 2023-03-03 | - | [Book Dash Applications Open and stay tuned for our coming Fireside Chat](https://tinyletter.com/TuringWay/letters/book-dash-applications-are-open-and-stay-tuned-for-our-upcoming-fireside-chat) |
+| March | 2023-03-31 | - | [Last days to apply for Book Dash, rewatch our Fireside Chat and learn about the Practitioners Hub](https://tinyletter.com/TuringWay/letters/last-days-to-apply-for-book-dash-rewatch-our-fireside-chat-and-learn-about-the-practioners-hub) |
+| April | 2023-05-03 | - | [Join our Fireside chat "Implementing Open Science at scale", countdown to our May Book Dash and more](https://tinyletter.com/TuringWay/letters/join-our-fireside-chat-implementing-open-science-at-scale-countdown-to-our-may-book-dash-and-more)|
+| May | 2023-06-05 | - | [Bood Dash Celebrations, upcoming events and welcoming our GSOC 2023 intern](https://tinyletter.com/TuringWay/letters/book-dash-celebrations-upcoming-events-and-welcoming-our-gsoc-2023-intern) |
+| June | 2023-07-10 | - | [Meet the Practitioners Hubs Inaugural cohort, Join the Book Das committee and catch up on our Fireside chats](https://tinyletter.com/TuringWay/letters/meet-the-practitioners-hub-s-inaugural-cohort-join-the-book-dash-committee-and-catch-up-on-our-fireside-chat) |
+| July | 2023-08-03 | - | [The turing way Book Dash call for applications, Practitioners Hub Workshop update and Github organisation plans](https://tinyletter.com/TuringWay/letters/the-turing-way-book-dash-call-for-applications-practitioners-hub-workshop-update-and-github-organisation-plans) |
 | August | - | - | - |
 | September | - | - | - |
 | October | - | - | - |

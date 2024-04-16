@@ -142,7 +142,7 @@ Project Folder/
 
 ### Curated Examples of GitHub Repositories
 
-- [_The Turing Way_ project repo](https://github.com/alan-turing-institute/the-turing-way)
+- [_The Turing Way_ project repo](https://github.com/the-turing-way/the-turing-way)
 - [Jupyter Book project repo](https://github.com/executablebooks/jupyter-book)
 - [Pandas Package repo](https://github.com/pandas-dev/pandas)
 - [Atom Text Editor repo](https://github.com/atom/atom)
