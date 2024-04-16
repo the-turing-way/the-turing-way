@@ -438,6 +438,12 @@ The project is available online on GitHub ([https://github.com/alan-turing-insti
 
 ### New datasets created/accessed 
 
-### External engagement, influence, impact (Academic/ industry/ government/ public/ international)
+* Book: https://the-turing-way.netlify.app 
+* Resources on GitHub: https://github.com/alan-turing-institute/the-turing-way 
+* Zenodo: 
+	* All presentations from the community are published on Zenodo community page for The Turing Way: https://zenodo.org/communities/the-turing-way
+	* The next release of The Turing Way on Zenodo will be made after the Book Dash in November. The previous version can be cited as The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research. Zenodo. doi: 10.5281/zenodo.6909298
 
 ### Awards/recognition
+
+* The Turing Way was awarded the OpenUK 2022 award under the belonging category on 30 November 2022: https://openuk.uk/openuk-awards-third-edition/.
