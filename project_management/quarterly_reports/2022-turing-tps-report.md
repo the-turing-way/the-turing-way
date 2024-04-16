@@ -21,7 +21,8 @@ The project is available online on GitHub ([https://github.com/alan-turing-insti
 
 ### General updates:
 
-#### Project and community statistics: 
+#### Project and community statistics
+
 * Book: 55 chapters with 250+ live pages
 * Contributors on GitHub: 325 contributors (starred by 1300+ users)
 * Twitter: 2,789 followers
@@ -30,13 +31,15 @@ The project is available online on GitHub ([https://github.com/alan-turing-insti
 * Project team: The Turing Way core team now hosts 18 members including the Turing Community Managers, Research Application Managers, Programme Manager and volunteer contributors. Four members from the community were also formally recognised as the Translation and Localisation Leads, and included in the project team document.
 
 #### Past events and updates
+
 * The new Community Manager of The Turing Way, Anne Lee Steele joined the project in March 2022. 
 * Weekly coworking calls (every Monday, 11:00 - 12:00 GMT) and bi-monthly Collaboration Cafes (first and third Wednesday of each month) took place as planned with an exception for the Bank Holidays.
 * We hosted two Fireside Chat series in February and March 2022. The February’s Fireside chat was co-organised with the Talarify Founder and Director, Anelda van der Walt, on the topic “Gaps & Opportunities for Inclusive, Multilingual Data Science”. The event speakers included Batool Almarzouq (Saudi Arabia), Bobby Shabangu (South Africa), Camila Rangel-Smith (the Turing, UK), David Pérez-Suárez (UCL, UK) and Yanina Bellini Saibene (Argentina). The March’s event was co-organised with the Open Post Academics (OPA) programme, on the topic “Emergent Roles in Research Infrastructure & Technology". Chaired by Beth Duckles (OPA, USA) and Arielle Bennett (the Turing, UK), this panel will feature insights from Noor Shaker (Glamorous AI, UK), Esther Plomp (TU Delft, Netherlands) and Borhane (Bo) Blili-Hamelin (OPA, USA). Each event had an average of 65 registrations, with community members coming from international universities, organisations and funding groups.
-* The Turing-Crick Data Science Training for Biomedical Scientists, funded from October 2021, or March 2022 by the AI for Science and Government was hosted under the Tools, Practices and Systems research programme. The programme funding allowed to buy out 0.5 FTE of one Data Scientist, Lydia France, who was involved in the development of the first drafts of the two training modules in The Carpentries incubator shared under the CC-BY 4.0 License. Led by Malvika Sharan, Lydia France, senior data scientists, Federico Nanni and the Health theme lead, Alisha Davies, designed and carried out feedback interviews with several senior researchers and fellows from the Cricka and Turing institutes. Since the project requires further review and development, a review and illustration sprint has been planned on 28 and 29 April (with a webinar of 11 April), that will be attended by 15 international researchers who would like to use the training materials in their own organisations.
+* [The Turing-Crick Data Science Training for Biomedical Scientists](https://github.com/alan-turing-institute/data-training-for-bioscience), funded from October 2021, or March 2022 by the AI for Science and Government was hosted under the Tools, Practices and Systems research programme. The programme funding allowed to buy out 0.5 FTE of one Data Scientist, Lydia France, who was involved in the development of the first drafts of the two training modules in The Carpentries incubator shared under the CC-BY 4.0 License. Led by Malvika Sharan, Lydia France, senior data scientists, Federico Nanni and the Health theme lead, Alisha Davies, designed and carried out feedback interviews with several senior researchers and fellows from the Cricka and Turing institutes. Since the project requires further review and development, a review and illustration sprint has been planned on 28 and 29 April (with a webinar of 11 April), that will be attended by 15 international researchers who would like to use the training materials in their own organisations.
 * The next Book Turing Way Dash event is planned to take place from 16 to 20 May 2022. The Book Dash committee will be joined by 8 returning participants and core team members, who will help run the call for application, review and select the participants, and host the different sessions during the event. Two community-share out has been planned on 20 May to allow participants outside the Book Dash to get an overview of the project after the Book Dash.
 
 #### Upcoming projects
+
 * Two new community managers joining the AI for Multiple Long Term Conditions Research Support Facility (AIM RSF) will join the team of Community Managers, as well as the project team of The Turing Way. Learning from other community managers will help establish cross-project collaboration while ensuring the adoption of the best practices from The Turing Way at the Turing and beyond. Like all Research Application Managers (RAM), the new RAM for the Data Safe Haven will also be onboarded in The Turing Way project team.
 * The Turing Skills team members are collaborating with Malvika Sharan to develop two programmes, AI and Data Science and Educators Programme and TPS Peer Mentoring Programmes. Call for applications for both have been launched.
 * We have submitted a project proposal for the Google Season of Code (GSoC) to invite candidates (student developers and coders) to work on The Turing Way for three months. With our project plan, we are interested in improving and integrating a Python package developed for The Turing Way to enhance the usability of our book. Project ideas are shared on the GitHub issue and Neurostars.
@@ -125,6 +128,7 @@ The project is available online on GitHub ([https://github.com/alan-turing-insti
 	* She is also carrying out ethnographic community research, connecting with key members from  the community and documenting various processes and tools used within the community (see issue #2318). 
 
 #### Past events and updates
+
 * **Weekly coworking calls** (every Monday, 11:00 - 12:00 GMT) and **bi-monthly Collaboration Cafes** (first and third Wednesday of each month) took place as planned with an exception for the Bank Holidays. One workshop was led specifically about the Mastodon platform, led by a community member Danny Garside, who launched The Turing Way channel on Mastodon.
 * The **seventh Book Dash** took place from 16-20 May, hosting 29 participants across 5 time zones with over 14 working sessions. The Book Dash organising committee members included: . Arielle Bennett, Emma Karoune, Esther Plomp, Carlos Martinez, Lena Karvovekaya and Laura Carter. Three in-person hubs were hosted in the UK at the Turing Institute, which were primarily attended by the Turing CMs and RAMs and a PhD student from Institute for Cancer Research, Timothy S. Two CMs, Achintya Rao and Anne Lee Steele Bristol were hosted at Jean Golding Institute (Turing partners). An additional in person hub was hosted in Amsterdam, which was attended by participants from Netherlands including Esther Plomp (TU Delft), Carlos Martinez (eSceince Center), Lena Karvovskaya (Uni Amsterdam) and Elisa  (Uni Amsterdam). All details are shared via this index HackMD: https://hackmd.io/@turingway/bookdash-may2022-index. 
 * **Two community-share out events** were hosted on 20 May to invite participants outside the Book Dash to get an overview of what everyone worked on during the Book Dash. The event was attended by several members from previous Book Dash. All details and feedback are shared in this HackMD: https://hackmd.io/@turingway/bookdash-may2022-day5. 
@@ -211,13 +215,143 @@ The project is available online on GitHub ([https://github.com/alan-turing-insti
 
 ### General updates
 
-#### Project and community statistics: 
+#### Project and community statistics 
 
-### Past events and updates
+* Book: 260+ chapters with 313 live pages
+* Contributors on GitHub: 391 contributors (starred by 1400+ users)
+* Twitter: 3,331 followers
+* Newsletter: 616 subscribers
+* Slack workspace: 528 members
+* Project team: The Turing Way core team now hosts 22 members including the Turing staff members from TPS (Senior Researchers, Community Managers, Research Application Managers, and Programme Manager) and volunteer members leading various sub-projects within the community. Four volunteer members from the community lead the Translation and Localisation efforts with a much larger group of contributors driving the translation of The Turing Way into Spanish, Arabic, French, Japanese, Turkish, Mandarin, and Portuguese.
+* The Skills team led the development and delivery of the **AI and Data Science Educators Programme** in collaboration with Malvika Sharan, building on The Turing Way topic in the context of trainers in data science and replicating the training format of Open Life Science. The 10 week long programme engaged 40+ educators from the UK and international research communities as trainees, and several experts from within the Turing and the UK network including three Turing Way core members as speakers, receiving positive feedback from all participants. The next round of training is set to launch in 2023.
+* The Turing Way team is closely collaborating with the Turing Commons (hosted in Turing's public policy programme) project on Responsible Research and Ethics in data science. In the coming months, the team leaders will scope out the development of case studies in the Turing Commons that can engage The Turing Way’s domain experts both as contributors and the target users.
+* Formalising Project's Governance
+	* The quarterly **Core Team meeting** occurred on [9 December 2022](https://hackmd.io/r0bZWWqkRZqvp4FFGR95vQ), which was attended by 8 TPS core staff and 4 Volunteer members, each of whom shared updates from the working groups they lead and participate in. The Core Team was introduced to the plans for The Turing Way Practitioners Hub.
+  * Two volunteer members: Andrea Sanchez-Tapía and Liz Hare have been invited by the team to design a chapter on accessibility drawing from their work and recently published a paper from the UseR conference. This is part of a border discussion on likely scoping a guide discussing accessibility practices in data science. This discussion started during the November 2022 edition of the Book Dash and will be picked up again in the May 2023 Book Dash.
+  * Two TPS staff member-led Working Groups started in late 2022 under the topics “Trainers and Mentors” and “Reviewers and Editors” to provide auditing and review the future support for community contributors to the book and community activities.
 
-### Upcoming projects
+#### Past events and updates
 
-#### Status of progress against goals/milestones, any blockers to progress
+* **Weekly coworking calls** (every Monday, 11:00 - 12:00 GMT) and **bi-monthly Collaboration Cafes** (first and third Wednesday of each month) took place as planned with an exception for the Bank Holidays. 
+* **An overview of the Fireside Chat Series from 2021-2022:** We had 609 registered across all Fireside Chats during the inaugural 2021-2022 season, not including the 46 organisers and speakers across 43 organisations. 406 of these members attended at least two fireside chats.
+* The final Fireside Chat of 2022 took place in October under the topic “Supporting Citizen Participatory Science Communities”, which was attended by ~35 people. 62 signed up for tickets.
+* Fireside Chats were attended by an average of 45 participants in July, August and September 2022. 
+	* The Turing Way Fireside Chat: On 29 July 2022, under the topic “Navigating growth and scale to sustain open communities”, Alycia Crall (The Carpentries) and Anne Lee Steele (The Turing Way) hosted the Fireside Chat with Geoffrey Kateregga (Humanitarian OpenStreetMap Team), Patrick Mineault (xcorr neuroAI consulting) and Selene Yang (Wikimedia Foundation, Geochicas - OpenStreetMap). This event had 114 registrations.
+	* The Turing Way Fireside Chat: On 26 August 2022, under the topic “Defining ‘open infrastructure’ in different contexts”, Rayya El Zein (Code for Science & Society) and Anne Lee Steele (The Turing Way), hosted this panel with Richard Dunks (Invest in Open Infrastructure), Lillian Achom (Access Plus) and Sarah Gibson (2i2c). This event had 78 registrations.
+	* The Turing Way Fireside Chat: On 30 September 2022, under the topic “Connecting open hardware to open science”, Julieta Arancio (Open Hardware Makers) and Anne Lee Steele (The Turing Way), hosted this panel with Sanli Faez (Utrecht University), Sarah Hutton (Internet of Production Alliance), Frank Landon Bentum (Africa Open Source Hardware), and Kerrianne Harrington (University of Bath). 
+* The **eighth Book Dash** took place from 14-18 November. The Book Dash committee members from both the Turing and the international volunteer members supported local hubs in London and Amsterdam. The event involved 19 international members. Working across 32 Issues and 33 Pull Requests on GitHub, our participants updated and published 5 existing and 6 new chapters/subchapters. Check out the following new chapters published in The Turing Way book: Data Wrangler subchapter in the Research Infrastructure chapter, Research Ethics for Social Data, Data Curation, Declarative Virtual Machines with Vagrant in the Virtual Environment chapter, Research Objects in Action and Peer Review subchapters. In addition, all participants contributed to co-developing 14 new illustrations released on Zenodo: 10.5281/zenodo.3332807. The full report is [available here](https://hackmd.io/@turingway/bookdash-nov2022).
+
+#### Upcoming projects
+
+* The **eighth Book Dash** is set to take place from 14-18 November. With Book Dash committee members from both the Turing and the international volunteer members, we are planning to support a local hub in London and Amsterdam. **Two community-share-out events** are planned on 18 November to invite participants outside the Book Dash to get an overview of what everyone worked on during the Book Dash including a public event updating the community on the progress made in the project’s governance process.
+* The next quarterly Turing Way core team meeting is planned for early December. The team will update the volunteer and staff members of the core team regarding the recent progress in the projects, and invite votes on next plans for the first quarter of 2023.
+* Another programme in collaboration with the skills team, **TPS peer-mentoring**, will be developed, drawing materials from The Turing Way. This project will follow the procedure and processes established for the AI and Data Science Educators programme.
+* Previous funding from the Turing online training grant was awarded by the Skills team in 2021 to The Turing Way and Open Life Science has enabled the delivery of two cohorts of Open Life Science. One of the deliverables is **online training in open science** that is being developed in collaboration with the Open Life Science team to be hosted in the Turing online training platform.
+
+### Status of progress against goals/milestones, any blockers to progress
+
+* Monthly newsletter releases as a mode of reporting have not been regular due to other engagements of the community manager, which include the formalisation of the various working groups in the community and organising Fireside Chats. We have also noticed that there is a need to delegate and spread out The Turing Way Team's responsibilities among other members of the core team, especially the Turing staff in the TPS (CMs and RAMs). The newly funded project and position will allow us to reorient the roles and responsibilities of the community manager and delegate some tasks to other members, allowing important community management tasks to stay on time.
+
+### Conference talks presented
+
+* Talk delivered at the University of Leeds’s ReproducibiliTea on 22 September 2022, Sophia Batchelor. The Turing Way: A Collaborative Guide to Data Science and Research. Zenodo. https://doi.org/10.5281/zenodo.718276 
+* Information booth hosted at CZIOpenSci conference, Arielle Bennett on 20 September 2022.
+* Lightning talk at the Code for All Summit about The Turing Way on 19 September 2022, Anne Lee Steele on “Community-led Best Practices for Data Science”.
+* Lightning talk at Mozilla’s Building Trustworthy AI Working Group on 15 September 2022, Jennifer Ding and Anne Lee Steele on how The Turing Way is capturing emerging best practices for open and responsible AI licences.
+* Keynote talk at RSECon Asia-Australia 2022 on 14 September, Anne Lee Steele, on “Changing culture through open practices: mapping my journey in open scholarship” sharing experiences with open research, Zenodo: https://zenodo.org/record/7077467 
+* Talk on globalisation of open source on 13 September 2022, Asma Kacem and Melissa Black, on “Toward the broader globalisation of open source: documenting your localisation journey”. Zenodo: https://zenodo.org/record/7073591
+* Talk on The Turing Way on 1 September, Hari Sood, with an introduction to The Turing Way.
+* Talk on governance in English and Spanish on 31 August, Malvika Sharan and Andrea Sánchez-Tapia, on “Community Governance: Representation & Intersectionality with examples from Open Science Community”. Zenodo: https://t.co/osq35A2PmB 
+* Two panels during CarpentryCon on 4 and 10 August, Andrea Sánchez-Tapia and Camila Rangel Smith, their experiences with translation and localisation of The Turing Way. Zenodo: https://zenodo.org/record/7007685
+* Talk at UWE Bristol on 20 July, Alden Conner, "Impact through community: The Turing Way" at their Turing Networking Award group. Zenodo: https://zenodo.org/record/6914444
+* Talk at the AIM-RSF knowledge share series at the Alan Turing Institute on 25 July, Arron Lacey and Emma Karoune, "Reproducibility in health data research". Zenodo: https://zenodo.org/record/6895192
+* Talk at NHS Digital Reproducible Analytical Pipeline (RAP) Community on 22 July, Emma Karoune and Vicky Hellon, "Reproducibility in practice: insights from The Turing Way". Zenodo: https://zenodo.org/record/6849036
+* Talk at an Energy Systems Catapult event on 19 July, Alejandro Coca-Castro, "The Turing Way: A collaborative guide to data science and research" at the 'Data Science: From Academia to Industry'. Zenodo: https://zenodo.org/record/6866185
+* OLS-5 graduation on 18 July, Malvika Sharan, "Exploring Governance Models in Open Science Community Projects: Open Life Science Cohort 5 Project" sharing initial findings and updates from her project on open governance with Anne Lee Steele. Zenodo: https://zenodo.org/record/6864146
+* Talk at the German Chapter of the Computer Applications and Quantitative Methods in Archaeology (CAA) on 1 July, Esther Plomp and Emma Karoune, "Removing Barriers to Reproducible Research in Archaeology". Zenodo: https://zenodo.org/record/6784277
+* Keynote talk at Southampton's Open Science Festival on 25 June, Malvika Sharan and Emma Karoune, "Open science for enabling reproducible, ethical and collaborative research: Insights from The Turing Way". https://zenodo.org/record/6737966
+
+### Workshops
+
+* A two-day in person workshop was delivered for the Connections Workshop series hosted by the Turing’s skills team on 26 and 17 September, Malvika Sharan, Eirini Zormpa and Arron Lacey, Best Practices in Research Infrastructure Roles. Zenodo: https://zenodo.org/record/7050678  
+* Two online workshops at CarpentryCon on 2 and 10 August, Hari Sood, Sophia Batchelor, Esther Plomp and Anne Lee Steele, "Git Good: Using Github for Collaboration in Open Source Communities. Zenodo: https://zenodo.org/record/6997522
+* Online bi-lingual workshop in English and Arabic at RightsCon on 6 June, Batool Almarzouq, Emma Karoune, and Malvika Sharan, contextualisation of open science principles and reproducibility in research more broadly. Zenodo: https://zenodo.org/record/6627260
+
+### Papers submitted or published (include link/s)
+
+* Allen, M., James, C., Frost, J., Liabo, K., Pearn, K., Monks, T., ...James, M. (2022). Use of Clinical Pathway Simulation and Machine Learning to Identify Key Levers for Maximising the Benefit of Intravenous Thrombolysis in Acute Stroke. Stroke. doi: 10.1161/STROKEAHA.121.038454.
+* Lohmann, A., Astivia, O. L. O., Morris, T. P., & Groenwold, R. H. H. (2022). It's time! Ten reasons to start replicating simulation studies. Frontiers in Epidemiology, 0. doi: 10.3389/fepid.2022.973470
+* Niso, G., Krol, L. R., Combrisson, E., Dubarry, A. S., Elliott, M. A., François, C., ...Chaumon, M. (2022). Good scientific practice in EEG and MEG research: Progress and perspectives. NeuroImage, 257, 119056. doi: 10.1016/j.neuroimage.2022.119056
+
+#### Cited by the following articles and projects
+
+* Ding, J., Akiki, C., Jernite, Y., Steele, A. L., & Popo, T. (2022). Towards Openness Beyond Open Access: User Journeys through 3 Open AI Collaboratives. OpenReview. https://openreview.net/forum?id=slU-5h8rrCz 
+* Di Cara, N. H., Zelenka, N., Day, H., Bennet, E. D. S., Hanschke, V., Maggio, V., ...Wells, K. (2022). Data Ethics Club: Creating a collaborative space to discuss data ethics. Patterns, 3(7), 100537. doi: 10.1016/j.patter.2022.100537 
+
+#### Articles/blogs/press releases published (include link/s) 
+
+* Reports
+	* The Turing Way was listed under Research Highlight in The Turing’s Annual Report 2021–22: https://www.turing.ac.uk/about-us/annual-report-2021-22 
+* Blogs and mentions: 
+	* Data Curation at Royce - Henry Royce Institute. (2022, September 22). Retrieved from https://www.royce.ac.uk/data-curation
+	* Heroines, O. (2022). The Human Rights Case for Open Science - Open Heroines. Medium. Retrieved from https://openheroines.org/the-human-rights-case-for-open-science-ff58578b09ee 
+	* Reposted as: The Human Rights Case for Open Science. https://blogs.lse.ac.uk/impactofsocialsciences/2022/08/17/the-human-rights-case-for-open-science 
+	* 23 New books added to Big Book of R | R-bloggers. (2022, September 02). Retrieved from https://www.r-bloggers.com/2022/09/23-new-books-added-to-big-book-of-r 
+	* The Turing Way Project – Dev Genius. https://blog.devgenius.io/tagged/the-turing-way-project
+	* Queen Mary students to gain valuable research experience through placements at the Alan Turing Institute. https://www.qmul.ac.uk/media/news/2022/pr/queen-mary-students-to-gain-valuable-research-experience-through-placements-at-the-alan-turing-institute-.html 
+	* Data Science: From Academia to Industry. https://es.catapult.org.uk/report/data-science-from-academia-to-industry 
+	* University of Glasgow - MyGlasgow - Open Research - Open Research Resources. https://www.gla.ac.uk/myglasgow/openresearch/openresearchresources 
+	* Shaping Research Software: An Interview With Johanna Bayer | ARDC. https://ardc.edu.au/article/shaping-research-software-an-interview-with-johanna-bayer 
+	* Circular Research Data Coursebook. (2022, August 08). Retrieved from https://maastrichtu-library.github.io/circular-research-data-bootcamp 
+	* Impressions of the National Open Science Festival 2022. https://www.openaccess.nl/en/events/impressions-of-the-national-open-science-festival-2022 
+	* Scientific Communication Advances Research Excellence (SCOARE).  https://www.scoareresources.com/other-communication-resources 
+	* Perry, A. (2022, September 14). LibGuides: Copyright: Licensing Your Work. Retrieved from https://libguides.asu.edu/copyright/licensing 
+
+### New chapters and subchapters published in The Turing Way
+
+* Micropublishing: https://the-turing-way.netlify.app/communication/dif-articles/micro.html
+* Overview of Code Reuse: https://the-turing-way.netlify.app/reproducible-research/code-reuse/code-reuse-overview.html
+* Personal Story for RSE Asia: https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/rse-personal-story.html
+* Machine Learning Model Licences: https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-ml.html 
+* Peer Review: https://the-turing-way.netlify.app/communication/peer-review.html 
+* Sensitive Data: https://the-turing-way.netlify.app/project-design/sdp.html 
+
+### New datasets created/accessed 
+
+* Book: https://the-turing-way.netlify.app 
+* Resources on GitHub: https://github.com/alan-turing-institute/the-turing-way 
+* Zenodo: 
+	* All presentations from the community are published on Zenodo community page for The Turing Way: https://zenodo.org/communities/the-turing-way
+	* The next release of The Turing Way on Zenodo will be made after the Book Dash in November. The previous version can be cited as The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research. Zenodo. doi: 10.5281/zenodo.6909298
+
+### External engagement, influence, impact (Academic/ industry/ government/ public/ international)
+
+* In response to the adoption of the UNESCO Recommendation on Open Science in November 2021, UNESCO launched a Global Call for Best Practices in Open Science in November 2021. This year, The Turing Way (TTW), Open Life Science (OLS), and Invest in Open Infrastructure (IOI) communities collaborated to organise three calls to develop community-led responses to the UNESCO call. The Turing Way response, titled ‘Broadening the definition and implementation of accessibility, inclusion and incentivisation in open science' was recently published on Zenodo. Thanks goes to Esther Plomp, Emmy Tsang, Arielle Bennett, Patricia Heterich, Alina Popescu, Eirini Zormpa, Emma Karoune, Vicky Hellon, Alejandro Coca-Castro, Batool Almarzouq, Anne Lee Steele, and Malvika Sharan who developed The Turing Way response. Thank you for thoughtful considerations on open science, and for joining us in this opportunity to combine our perspectives. Other two reports from OLS: https://zenodo.org/record/6841873 and IOI: https://zenodo.org/record/6828389.
+* Malvika Sharan was selected to sit on the Community Panel for the agency’s $40 million, five-year mission, Transform to Open Science (TOPS), which aims to get NASA scientists learning about and applying principles of open science. Another project of NASA-TOPS called OpenCore, involves 35 experts from the global research community, 15 of which engage with The Turing Way, and are drawing information to build open access training materials under this initiative. In October, Malvika will join the NASA-TOPS team with the other 9 Community Panellists at NASA’s Jet Propulsion Laboratory in LA for a public panel discussion and future planning, strengthening the connections between the projects.
+* Malvika was also invited to sit on the steering committee for Notebooks Now!, a project funded by the Sloan foundation under the American Geophysical Union (AGU).
+
+### Funding: Further funding, leveraged funding/support, in-kind contributions
+
+* The Turing Way proposal to the **Ecosystem Leadership Bid was awarded**. The funding approved for Financial Year 2022-23 is £122,003. The funding underwritten for the financial year 2023-24 is £362,074, and 2024-onwards is £560,449. This funding will support the project ‘The Turing Way Practitioner Hub: Extending the adoption of reproducible, ethical and collaborative practices in data science and AI’, which includes funding for a short-term technical writer position and long-term PDRA position.
+
+### Awards/recognition
+
+* The Turing Way was recently added to the Civic Tech Field Guide, a crowdsourced collection of thousands of tech for good projects from around the world. 
+* The Turing Way was also selected to Mozilla’s Building Trustworthy AI Working Group, represented by Anne Lee Steele and Jennifer Ding.
+* The Turing Way was nominated for the Royal Society Athena Prize, which although unsuccessful, received extremely positive feedback from the award panellists “The panel felt that this was a particularly strong nomination, a fantastic combination of ethical science and inclusivity. They specifically liked that there was great evidence of it being used and adapted. The panel felt that this project is a good example of best practice, and is highly transferable with it already being picked up in the biology and ecology fields. The panel also noted that the project is extremely innovative and has great longevity.” The panel strongly recommends submitting a nomination when the award opens again in November 2023 with more detail in the nomination about who specifically is impacted by this project and how it can impact people who don’t use code.
+* The Turing Way is shortlisted for the OpenUK 2022 award under the belonging category - announcement for the winners will be made in November.
+
+## Fourth Quarter: 1 October 2022 to 31 December 2022. 
+
+### General updates
+
+#### Project and community statistics 
+
+#### Past events and updates
+
+#### Upcoming projects
+
+### Status of progress against goals/milestones, any blockers to progress
 
 ### Conference talks presented
 
@@ -225,19 +359,18 @@ The project is available online on GitHub ([https://github.com/alan-turing-insti
 
 ### Papers submitted or published (include link/s)
 
-#### Cited by the following articles and projects: 
+#### Cited by the following articles and projects
 
 #### Articles/blogs/press releases published (include link/s) 
 
-#### New chapters and subchapters published in The Turing Way
+### New chapters and subchapters published in The Turing Way
 
-#### New datasets created/accessed 
+### New datasets created/accessed 
 
 ### External engagement, influence, impact (Academic/ industry/ government/ public/ international)
 
 ### Awards/recognition
 
-## Fourth Quarter: 1 October 2022 to 31 December 2022. 
 
 - _Past events and updates:_
   - The Skills team led the development and delivery of the AI and Data Science Educators Programme in collaboration with Malvika Sharan, building on The Turing Way topic in the context of trainers in data science and replicating the training format of Open Life Science. The 10 week long programme engaged 40+ educators from the UK and international research communities as trainees, and several experts from within the Turing and the UK network including three Turing Way core members as speakers, receiving positive feedback from all participants. The next round of training is set to launch in 2023.
