@@ -19,7 +19,7 @@ This flexibility also accommodates the diverse schedules and responsibilities of
 Although planning and hosting hybrid events often requires more resources to be successful, by making your event hybrid you can better prioritize accessibility practices and the inclusion of attendees with lived experience.
 This empowers a wide range of participants to contribute and benefit from your event's content and community.
 
-If you are planning a hybrid event, please read The Turing Way's {ref}`Chapter on Hybrid Collaboration<cl-hybrid-collab> and specifically the {ref}`Subchapter on Guidelines for Hybrid Collaboration<cl-hybrid-collab-guidelines>`.
+If you are planning a hybrid event, please read The Turing Way's {ref}`Chapter on Hybrid Collaboration<cl-hybrid-collab>` and specifically the {ref}`Subchapter on Guidelines for Hybrid Collaboration<cl-hybrid-collab-guidelines>`.
 
 (cl-ppie-events-calendar-invites)=
 ## Using Email Reminders and Calendar Invitations
