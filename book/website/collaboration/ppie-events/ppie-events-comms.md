@@ -25,7 +25,7 @@ By carefully planning out what you need to communicate, when, and how you ensure
 ## When to send Core Communications
 The timeline for planning a communications schedule for your event will vary greatly depending on the size and type of event. 
 
-When planning an event for people with lived experience, please be mindful that many people with lived experience might require information with more notice in order to plan their attendance.
+When planning an event attended by people with lived experience, please be mindful that many people with lived experience might require information with more notice in order to plan their attendance.
 
 The more advance notice you can give to people, the more flexibility people have to organize and make arrangements, and the more likely they will be to attend your event.
 
