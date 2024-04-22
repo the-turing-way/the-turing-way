@@ -90,6 +90,9 @@ Providing guidance on how to start conversations and socialize effectively can h
 Depending on the size and timings of your event, you can consider setting prompts such as "find a fellow attendee who has the same favourite movie as you", or "introduce yourself to 5 people you have never met before, and find 1 thing you have in common". 
 Prompts such as these can provide attendees with a goal for the session and help attendees to start conversations with one another. 
 
+Popular conversation starters can also be providing a blank space or additional sticker for attendees' name tags with the prompt "Ask me about ...". 
+This can help attendees find conversations with similar interests and can also help to spark initial conversations. 
+
 Good conversation prompts or ice breaker questions are both interesting for someone to think about and answer themselves, and also make attendees curious to hear everyone else’s answer.
 
 Knowing how to start a conversation and navigate social interactions can help boost attendees' confidence and support them in actively engaging in any social or networking activities.
