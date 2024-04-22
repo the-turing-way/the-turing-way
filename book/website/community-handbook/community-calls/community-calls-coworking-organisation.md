@@ -1,4 +1,4 @@
-(ch-coworking-organisation)=
+(ch-community-calls-coworking-organisation)=
 # Organising Coworking Calls for your Community
 
 If you would like to set up coworking calls for your community, you can repurpose and adapt the format, templates, and materials discussed in this chapter to support your teams and communities.
