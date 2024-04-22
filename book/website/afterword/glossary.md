@@ -452,10 +452,8 @@ Positionality
 Power Users
   These are people who are already familiar enough with a platform to know the gotchas and tricks that make their experience more efficient.
 
-PPIE 
-   The acronym for "Public and Patient Involvement and Engagement". PPIE is when a research project is carried out ‘with’ or ‘by’ members of the public, rather than
-‘to’, ‘about’ or ‘for’ them”. It may be different to traditional qualitative research because patients and other people with relevant experience will actively contribute to how the research is designed, conducted and disseminated. It does not refer to research participants taking part in a study and requires active co-creation and involvement between "experts by study" and "experts by experience". 
-
+Public and Patient Involvement and Engagement 
+  The acronym for "Public and Patient Involvement and Engagement". PPIE is when a research project is carried out ‘with’ or ‘by’ members of the public, rather than ‘to’, ‘about’ or ‘for’ them”. It may be different to traditional qualitative research because patients and other people with relevant experience will actively contribute to how the research is designed, conducted and disseminated. It does not refer to research participants taking part in a study and requires active co-creation and involvement between "experts by study" and "experts by experience". 
 
 Preprint
    A preprint is a version of a scholarly or scientific paper that precedes formal peer review and publication in a peer-reviewed scholarly or scientific journal. It is usually uploaded by the authors to a public server where it is available openly.
