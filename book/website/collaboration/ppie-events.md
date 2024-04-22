@@ -42,7 +42,7 @@ It is a term often used to emphasise the importance of including the perspective
 This chapter is focused in particular on how to make research events more inclusive and accessible to members of the public and people with lived experience who do not have experience or a background as a researcher, as they can face particular barriers to participation. 
 
 Many research projects are increasingly including members of the public in the research process. 
-Within the realm of biomedical and care-related research, this is often referred to as "Public and Patient Involvement and Engagement" or "PPIE" which has a goal to actively involve people with the lived experience of a specific disability, situation, health condition, or experience in the research process. {cite:ps}HDRUK2023ppie 
+Within the realm of biomedical and care-related research, this is often referred to as "Public and Patient Involvement and Engagement" or {term}`PPIE` which has a goal to actively involve people with the lived experience of a specific disability, situation, health condition, or experience in the research process. {cite:ps}HDRUK2023ppie 
 PPIE is done both to ensure that research is aligned with the interests of people affected by it, and to improve the quality of research by including lived knowledge and perspectives. 
 As part of this involvement and engagement, researchers and research staff will need to plan events that are inclusive and accessible for people with lived experience, and delivered in a way that avoids presenting barriers to people with lived experience taking part equitably.
 
