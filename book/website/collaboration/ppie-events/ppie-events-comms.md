@@ -25,7 +25,7 @@ By carefully planning out what you need to communicate, when, and how you ensure
 ## When to send Core Communications
 The timeline for planning a communications schedule for your event will vary greatly depending on the size and type of event. 
 
-When planning an event for people with lived experience, please be mindful that many people with lived experience might require information with more notice in order to plan their attendance.
+When planning an event attended by people with lived experience, please be mindful that many people with lived experience might require information with more notice in order to plan their attendance.
 
 The more advance notice you can give to people, the more flexibility people have to organize and make arrangements, and the more likely they will be to attend your event.
 
@@ -45,7 +45,6 @@ This will also be supportive of attendees with busy schedules who may be booked 
 Your "Save the Date" should include an overview of honorarium or reimbursement support, the date, and the approximate location of the event such as Zoom, or the name of the city where the event will take place. 
 It should also reference how long the event is likely to be, for example, if it's a multi-day event or a few hours. 
 
-This can be helpful for attendees with caring responsibilities, who may need to hire and arrange alternative care support in order to attend your event, or could be placed at a significant financial disadvantage if they travel and attend. 
 By providing guidance along with a "Save the Date", your attendees would have appropriate time to be able to make arrangements, and also be able to make an informed choice about if they are able to attend. 
 
 Consider sending out different forms of a "Save the Date" to support how different people use and interact with online calendars. 
@@ -352,7 +351,7 @@ This is not an exhaustive list of what to include in core communication, however
 
 * Information about the **Sickness Policy** and what the expectations are. For example: 
     * Information about what the policy and procedures are if an attendee tests positive for an illness that affects public health while attending your event.
-    * Reimbursement or support available if an attendee is unable to attend (such as ticket reimbursements)
+    * Reimbursement or support available if an attendee is unable to attend (such as ticket reimbursements).
     * Guidance or expectations for attendance in the event of an attendee feeling unwell.
     * Information about community transmission precautions and if any personal protective equipment will be supplied or available at the event (such as masks or hand sanitiser). 
 

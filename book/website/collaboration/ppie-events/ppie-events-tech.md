@@ -23,7 +23,10 @@ If you are planning a hybrid event, please read The Turing Way's {ref}`Chapter o
 
 (cl-ppie-events-calendar-invites)=
 ## Using Email Reminders and Calendar Invitations
-Many people with lived experience have to maintain a very busy schedule and often rely on online calendar tools and email reminders to stay organized. 
+Many of your attendees will maintain a very busy schedule and often take part in multiple different activities. 
+This will be true for both your research, clinical, and lived experience attendees - and everyone may benefit from the support of reminders and calendar invitations for your event. 
+
+Calendar invites and email reminders can be especially useful to people with lived experience of health conditions, disabilities, and other experiences that add additional commitments and time constraints to their daily life. 
 
 Consider sending both a calendar placeholder invitation for your event, and email reminders the week before, the week of, and the morning of your event. 
 This can help remind your attendees of their registration and help put the important information about your event at the top of their email inbox.

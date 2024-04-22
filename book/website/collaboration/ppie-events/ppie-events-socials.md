@@ -31,7 +31,7 @@ If your event includes name tags or badges, ensure that you ask attendees for th
 
 This is important for both in-person and online events. 
 
-Consider including pronouns on attendees' badges or virtual contact cards to support attendees being gendered correctly. 
+Consider offering to include pronouns on attendees' badges or virtual contact cards to support attendees being gendered correctly. 
 Pronouns should be optional because while many people find the practice welcoming, others can feel unsafe in a situation where they are forced to display pronouns.
 
 Make organizers and other event staff's badges clearly identifiable and differentiated from attendees' badges.
@@ -56,7 +56,7 @@ You may consider providing question prompts and designing your networking and so
 
 Providing a guide acknowledges the diverse needs of all attendees and promotes inclusivity by recognizing that everyone has unique challenges that may make social activities and networking more difficult.
 
-We have curated a few topics or themes you may want to consider including in any guidance you provide. 
+We have curated a few topics or themes you may want to consider including in any guidance you provide below: 
 
 (cl-ppie-events-networking-formats)=
 ### Information about the format

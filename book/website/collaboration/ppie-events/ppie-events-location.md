@@ -12,18 +12,19 @@ Include people with lived experience in this process as they can have expertise 
 There is more guidance on how to choose an Accessible location in the Accessible Events Guide. 
 This can be helpful to both check the maintenance and layout of the space, and can also help you plan your event set-up such as where to put signs directing attendees to your event.
 
-Through a Universal Design lens, a venue that is able to support a diverse attendee list will be best for any event that involves both a research and general public audience. 
+Through a {ref}`Universal Design<cl-ppie-events-planning-intro>` lens, a venue that is able to support a diverse attendee list will be best for any event that involves both a research and general public audience. 
 
 When reviewing potential venues, consider the ventilation of airflow, lighting and acoustics, and ensure that they are appropriate for the number of attendees at your event. 
 A large hall with high ceilings may cause echoing and may not be suitable for discussion-based sessions. Similarly, a small room with limited ventilation may not be suited for long sessions with a large number of attendees. 
 These considerations will benefit all events, however may be more important to consider for events that are intended for people with lived experience. 
 It is important to ensure that a space can support the involvement of all its attendees. 
-This can be considering how to layout tables (circular is best) so that all those seated are able to listen and contribute equally to the discussion, and can also be considering how the space itself will be laid out. 
+This can be considering how to lay out tables (circular is best) so that all those seated are able to listen and contribute equally to the discussion, ensuring that there is enough seating for attendees, and can also be considering how the space itself will be laid out to ensure ease of movement and also sufficient places to sit and rest. 
 
 Check with a venue's child policy before booking and ensure that there are suitable arrangements made if a venue area does not allow children to be present. 
 For example, some museums and botanical garden greenhouses do not allow children to be present for private events. This may mean that attendees with child-caring responsibilities are unable to attend and engage with your event.
 
-Depending on the size of your venue, you may consider if there is space available to use as a multi-faith prayer room or a quiet room that reserves a space away from the event to relax, take medicine privately, and take a sensory break for those who need it. These spaces can help make an event more inclusive and enjoyable for your attendees. 
+Depending on the size of your venue, you may consider if there is space available to use as a multi-faith prayer room or a quiet room that reserves a space away from the event to relax, take medicine privately, and take a sensory break for those who need it. 
+These spaces can help make an event more inclusive and enjoyable for your attendees. 
 
 Finally, consider if your venue is hosted in a space that is "dual purpose". 
 For example, a University Hall may also be used for lectures or by students as a thoroughfare to get to class. 
