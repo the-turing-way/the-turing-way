@@ -351,7 +351,7 @@ This is not an exhaustive list of what to include in core communication, however
 
 * Information about the **Sickness Policy** and what the expectations are. For example: 
     * Information about what the policy and procedures are if an attendee tests positive for an illness that affects public health while attending your event.
-    * Reimbursement or support available if an attendee is unable to attend (such as ticket reimbursements)
+    * Reimbursement or support available if an attendee is unable to attend (such as ticket reimbursements).
     * Guidance or expectations for attendance in the event of an attendee feeling unwell.
     * Information about community transmission precautions and if any personal protective equipment will be supplied or available at the event (such as masks or hand sanitiser). 
 
