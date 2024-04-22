@@ -555,6 +555,8 @@ parts:
                 file: collaboration/ppie-events/ppie-events-socials.md
               - title: Technology Considerations
                 file: collaboration/ppie-events/ppie-events-tech.md
+              - title: Additional Resources
+                file: collaboration/ppie-events/ppie-events-resources.md                
           - title: Informal Coffee Chats
             file: collaboration/informal-chats
           - title: Tools for Facilitating Collaboration
