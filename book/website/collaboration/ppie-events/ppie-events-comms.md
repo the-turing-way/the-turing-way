@@ -243,7 +243,7 @@ You can find online examples of Glossaries developed by research funding bodies,
 
 (cl-ppie-events-comms-plain-language)=
 ### Using Plain Language
-Similar to avoiding jargon, ensure that your core communications are written using Plain Language or are in an "easy reading" format. 
+Similar to avoiding jargon, ensure that your core communications are written using {term}`Plain Language` or are in an "easy reading" format. 
 
 Plain Language, sometimes referred to as Plain English in the UK and North America, allows for communications and other information to be read and understood easier. 
 Consider how you will encourage attendees and speakers to adopt clear and plain language communication throughout your event. 
@@ -255,7 +255,7 @@ This can help to bring "clear and effective communication" to the forefront of a
 Using Plain Language is especially important in your registration and event information packs.
 
 If possible, consider co-developing Plain Language and Easy Read content alongside community representatives or person with lived experience. 
-If this is not possible for your event, you can review guidance on how to write in plain language and ensure that core communications and event content are checked by using an external tool. 
+If this is not possible for your event, you can review guidance on how to write in Plain Language and ensure that core communications and event content are checked by using an external tool. 
 
 ```{note}
 The Office for National Statistics in the UK has [published a short guide on writing with Plain Language](https://service-manual.ons.gov.uk/content/writing-for-users/plain-language) and there are also tools such as the [Hemingway App](https://hemingwayapp.com/) (an online tool that gives you feedback on the clarity of your writing), or Microsoft Word's reading level reviewer (if you have an account, Microsoft has provided [instructions on how to use it](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2?ui=en-us&rs=en-us&ad=us#__toc342546555)) which provides the reading level of your document's content.
@@ -274,7 +274,7 @@ This can help acknowledge and respect the cultural differences of your attendees
 
 (cl-ppie-events-comms-plain-language-summaries)=
 #### Plain Language Summaries
-If your event has a large focus on research content, consider instructing presenters to write Plain Language summaries of core content so that people with lived experience who do not have a background in research are able to engage in the sessions and understand the projects that are discussed. 
+If your event has a large focus on research content, consider instructing presenters to write {term}`Plain Language` summaries of core content so that people with lived experience who do not have a background in research are able to engage in the sessions and understand the projects that are discussed. 
 
 Please refer to The Turing Way's chapter on {ref}`cm-lay-summaries` for more guidance, and you can view good examples of Plain Language summaries from the [AI for Multiple Long Term Conditions research projects](https://aim-rsf.github.io/Glossary-of-Terms/pages/aim-projects.html). 
 
