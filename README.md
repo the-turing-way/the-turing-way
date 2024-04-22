@@ -81,7 +81,7 @@ Everyone who contributes to this book, no matter how small or big their contribu
 Long-term contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project, as described in the [Ways of Working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
 
 The project is coordinated by the co-lead investigators **Kirstie Whitaker** (founder) and **Malvika Sharan**, and hosted at [The Alan Turing Institute](https://www.turing.ac.uk/).
-**Anne Lee Steele** is the Community Manager of The Turing Way since March 2022 and **Alexandra Araujo Alvarez** is the Research Project Manager since February 2023.
+**Anne Lee Steele** is the Community Manager of The Turing Way since March 2022. **Alexandra Araujo Alvarez** was the Research Project Manager between February 2023 and April 2024.
 
 You can read [_The Turing Way_ acknowledgement process](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) and [Record of Contributions](https://the-turing-way.netlify.app/afterword/contributors-record.html) to learn about how we acknowledge your work and how our contributors are highlighted in the project.
 Please see the [Contributors Table](#contributors) for the GitHub profiles of all our contributors.
