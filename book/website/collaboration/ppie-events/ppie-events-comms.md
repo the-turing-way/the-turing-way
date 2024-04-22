@@ -45,7 +45,6 @@ This will also be supportive of attendees with busy schedules who may be booked 
 Your "Save the Date" should include an overview of honorarium or reimbursement support, the date, and the approximate location of the event such as Zoom, or the name of the city where the event will take place. 
 It should also reference how long the event is likely to be, for example, if it's a multi-day event or a few hours. 
 
-This can be helpful for attendees with caring responsibilities, who may need to hire and arrange alternative care support in order to attend your event, or could be placed at a significant financial disadvantage if they travel and attend. 
 By providing guidance along with a "Save the Date", your attendees would have appropriate time to be able to make arrangements, and also be able to make an informed choice about if they are able to attend. 
 
 Consider sending out different forms of a "Save the Date" to support how different people use and interact with online calendars. 
