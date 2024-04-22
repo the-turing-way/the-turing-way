@@ -23,7 +23,7 @@ It covers:
 - {ref}`initial planning and scoping guidance<cl-ppie-events-planning>`
 - {ref}`guidance on how to evaluate and layout your venue<cl-ppie-events-location>`
 - {ref}`considerations and requirement for developing a communications strategy and how to support your speakers<cl-ppie-events-comms>`
-- {ref}`suggestions for how to create an inclusive agenda<cl-ppie-schedule-planning>`
+- {ref}`suggestions for how to create an inclusive agenda<ccl-ppie-events-schedule-planning>`
 - {ref}`considerations for how to make technology work for your events<cl-ppie-events-technology>`
 - {ref}`suggestions for how to plan social or networking sessions<cl-ppie-events-social-and-networking-guide>`
 - and provides a checklist that can be tailored to your specific event
