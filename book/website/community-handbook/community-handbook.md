@@ -39,7 +39,7 @@ For specific questions or concerns, you can contact our community manager **Anne
 Alternatively, you can contact the co-lead investigators **Malvika Sharan** by email at [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) or **Kirstie Whitaker** (please note that Kirstie is on maternity leave for the rest of 2022).
 
 To stay updated with our community events, subscribe to [_The Turing Way_ calendar](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ).
-To receive monthly newsletters, [join our mailing list](https://tinyletter.com/TuringWay)
+To receive monthly newsletters, [join our mailing list](https://buttondown.email/turingway/)
 
 We are also on [X (formerly Twitter)](https://twitter.com/turingway), follow us for daily updates.
 

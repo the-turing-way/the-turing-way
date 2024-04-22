@@ -87,7 +87,7 @@ Please propose your suggestion below or reach out to *The Turing Way* team membe
 * Turing Way calendar: [https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ)
 * Contribution guidelines: [https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md)
 * Join us on Slack: [https://tinyurl.com/jointuringwayslack](https://tinyurl.com/jointuringwayslack)
-* Join the mailing list: [https://tinyletter.com/TuringWay](https://tinyletter.com/TuringWay)
+* Join the mailing list: [https://buttondown.email/turingway/](https://buttondown.email/turingway/)
 
 ## Feedback
 
