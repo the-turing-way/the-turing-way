@@ -12,7 +12,7 @@ Include people with lived experience in this process as they can have expertise 
 There is more guidance on how to choose an Accessible location in the Accessible Events Guide. 
 This can be helpful to both check the maintenance and layout of the space, and can also help you plan your event set-up such as where to put signs directing attendees to your event.
 
-Through a Universal Design lens, a venue that is able to support a diverse attendee list will be best for any event that involves both a research and general public audience. 
+Through a {ref}`Universal Design<cl-ppie-events-planning-intro>` lens, a venue that is able to support a diverse attendee list will be best for any event that involves both a research and general public audience. 
 
 When reviewing potential venues, consider the ventilation of airflow, lighting and acoustics, and ensure that they are appropriate for the number of attendees at your event. 
 A large hall with high ceilings may cause echoing and may not be suitable for discussion-based sessions. Similarly, a small room with limited ventilation may not be suited for long sessions with a large number of attendees. 
