@@ -74,6 +74,6 @@ Here are some tips and alternatives for joining our calls:
 
 - **Reducing Video Quality:** If video is not essential for your participation, consider disabling your video feed during the call to conserve bandwidth. You can still actively engage in discussions via audio and text chat.
 
-[Learn more How you can Join our Zoom Meeting Calls](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060732)
+For more information on how to join Zoom calls see [the zoom support documentation](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060732).
 
 We are committed to ensuring that our community calls are accessible to all members. If you have any specific accessibility needs or suggestions, please reach out to us so we can accommodate them.
