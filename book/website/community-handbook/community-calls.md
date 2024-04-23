@@ -77,3 +77,5 @@ Here are some tips and alternatives for joining our calls:
 For more information on how to join Zoom calls see [the zoom support documentation](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060732).
 
 We are committed to ensuring that our community calls are accessible to all members. If you have any specific accessibility needs or suggestions, please reach out to us so we can accommodate them.
+
+For more information on our access-related practices as a community, please visit our {ref}`Community Handbook<ch-accessibility>`.
