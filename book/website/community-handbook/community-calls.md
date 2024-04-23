@@ -68,7 +68,7 @@ We understand that accessing online community calls can be challenging for indiv
 
 Here are some tips and alternatives for joining our calls:
 
-- **Using Zoom Mobile App:** If you're experiencing low bandwidth on your computer, consider joining the call using the Zoom mobile app on your smartphone. The app may provide better connectivity and audio quality.
+- **Using Zoom Mobile App:** If you're experiencing low bandwidth on your computer (which could be due to high usage by multiple devices, and/or slow network speeds), consider joining the call using the Zoom mobile app on your smartphone. The app may provide better connectivity and audio quality.
 
 - **Calling In:** Zoom allows participants to join calls via phone call, which can be a viable option for those with limited internet access. Check the meeting details for dial-in numbers and access codes.
 
