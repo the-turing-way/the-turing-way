@@ -26,7 +26,7 @@
 *  PPIE Chapter/PR reviews for changes made to other chapters
    * [~~https://github.com/the-turing-way/the-turing-way/pull/3523~~](https://github.com/the-turing-way/the-turing-way/pull/3523) <-- done
    * [~~https://github.com/the-turing-way/the-turing-way/pull/3522~~](https://github.com/the-turing-way/the-turing-way/pull/3522) <-- done
-*  BridgeAI plus – all workstream leads to present their ideas for work that could be completed with additional resources  ---> Notes here: **[https://hackmd.io/RE8v4rvHRnSG7g-eynyzXg](**https://hackmd.io/RE8v4rvHRnSG7g-eynyzXg**)
+*  BridgeAI plus – all workstream leads to present their ideas for work that could be completed with additional resources  ---> Notes here: **[https://hackmd.io/RE8v4rvHRnSG7g-eynyzXg](https://hackmd.io/RE8v4rvHRnSG7g-eynyzXg)**
    * 1) Work that could be completed with a costed grant extension - from April 2026 - March 2027;
    * 2) There are also ideas about deliverables that would fit within the current timescales (albeit that would require additional funding). 
    * Each workstream to present for 3 mins covering off:  Future work; and the impact of the proposed future work in the context of BridgeAI
