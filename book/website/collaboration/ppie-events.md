@@ -47,9 +47,11 @@ PPIE is done both to ensure that research is aligned with the interests of peopl
 As part of this involvement and engagement, researchers and research staff will need to plan events that are inclusive and accessible for people with lived experience, and delivered in a way that avoids presenting barriers to people with lived experience taking part equitably.
 
 "Lived experience" as it is used within the research context can be a range of things such as a disability, long-term health condition, bereavement, having worked in a specific profession, or the lived experience of caring responsibilities. 
-In the context of event planning, there are practices we can use to foster participation of this diverse group of people.
+"Lived experience" is an expansive and inclusive term preferred by patient and public representatives as it best reflects the diverse community of contributors and the expertise they have. 
 
-Thus, your considerations need to cover both the potential disability-related barriers experienced by your attendees as well as the barriers that would be experienced by your attendees with lived experiences such as parental responsibilities, cultural differences, or minority status. 
+In the context of event planning, there are practices researchers and organizers can use to foster the participation of this diverse group of people.
+
+Thus, considerations need to cover both the potential disability-related barriers experienced by your attendees as well as the barriers that would be experienced by your attendees with lived experiences such as parental responsibilities, cultural differences, or minority status. 
 
 This chapter focuses on the latter aspects, specific to involving people with lived experiences, for the more general and equally important considerations around accessibility – that affect participants regardless of whether they are members of the public or not, please refer to specific accessibility or access-centered resources.
 
