@@ -8,9 +8,9 @@ The location of your event plays a pivotal role in supporting or hindering how a
 (cl-ppie-events-choosing-venue)=
 ## Choosing a Venue
 Before deciding on a venue it is recommended to have an organizer or member of the team visit potential venues to do a walk-through and check that all rooms in the venue will work for your event’s needs. 
+This can be an essential step in ensuring that the venue will be suitable for your community and event. 
 Include people with lived experience in this process as they can have expertise in identifying barriers such as inaccessibility for wheelchair users, poor lighting, or sensory overstimulation. 
-There is more guidance on how to choose an Accessible location in the Accessible Events Guide. 
-This can be helpful to both check the maintenance and layout of the space, and can also help you plan your event set-up such as where to put signs directing attendees to your event.
+Understanding the venue can be helpful to both check the maintenance and layout of the space, and can also help you plan your event set-up such as where to put signs directing attendees to your event.
 
 Through a {ref}`Universal Design<cl-ppie-events-planning-intro>` lens, a venue that is able to support a diverse attendee list will be best for any event that involves both a research and general public audience. 
 
