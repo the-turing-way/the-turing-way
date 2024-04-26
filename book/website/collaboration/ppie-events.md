@@ -21,7 +21,7 @@ It covers:
 - {ref}`suggestions for how to create an inclusive agenda<cl-ppie-events-schedule-planning>`
 - {ref}`considerations for how to make technology work for your events<cl-ppie-events-technology>`
 - {ref}`suggestions for how to plan social or networking sessions<cl-ppie-events-social-and-networking-guide>`
-- and provides a page of {ref}`additional resources<ppie-events-resources>` for running inclusive and accessible events. 
+- and provides a page of {ref}`additional resources<cl-ppie-events-resources>` for running inclusive and accessible events. 
 
 (cl-ppie-events-prerequisites)=
 ## Additional Resources within The Turing Way
