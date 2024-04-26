@@ -188,7 +188,7 @@ Many people with lived experience may feel more comfortable engaging in an event
 
 (cl-ppie-events-comms-presentation-material)=
 ## Presentation Slides and Event Content
-Although it can be common to prepare presentation slides at the penultimate hour, to be as inclusive as possible, please work with your speakers and presenters to finalize session content before the event. 
+Although it can be common to prepare presentation slides at the last minute, to be as inclusive as possible, please work with your speakers and presenters to finalize session content before the event. 
 
 By working with speakers and requesting slides and presentation content ahead of the event, you will be best set up to support the involvement of people with disabilities and lived experience at your event.
 
