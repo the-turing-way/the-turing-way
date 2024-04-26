@@ -1,6 +1,6 @@
 (cl-ppie-events-comms)=
 # Planning Communications for PPIE Events
-Having a good plan on how and when to communicate around your event is always important, but it can be even more relevant when inviting people with lived experience to your event as part of supporting attendees who are new to research events.
+Having a good plan on how and when to communicate around your event is always important, but it can be even more relevant when inviting people with lived experience – who might be new to research events – to your own event.
 
 This section provides guidance on what to consider when developing a communications plan for events involving people with lived experience. 
 It will not be able to replace an in-depth communications plan, but instead draws attention to what additional considerations may be needed to help make your event inclusive of people with lived experience. 
