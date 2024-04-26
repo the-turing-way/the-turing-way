@@ -70,39 +70,39 @@ Below are some examples of types of facilitators or contributors that your hybri
 For each role, we have included some potential tasks & responsibilities. 
 
 #### In-Person Technical Support
-- Ensure that the audio and visual set-up is working.
-- Support presenters and speakers with presentation set-up and slide transitions.
-- Ensure that any audio or hearing induction loop technology is working and accessible.
-- Open up polls or other interaction software used during the event.
-- Ensure the event is recorded correctly if you are planning on recording and sharing the session content.
+- Ensures that the audio and visual set-up is working.
+- Supports presenters and speakers with presentation set-up and slide transitions.
+- Ensures that any audio or hearing induction loop technology is working and accessible.
+- Opens up polls or other interaction software used during the event.
+- Ensures the event is recorded correctly if you are planning on recording and sharing the session content.
 
 #### In-Person Facilitator
-- Ensure that attendees and any speakers are able to engage in the session using microphones or other audio equipment.
-- Work with a speaker or panellists to answer questions from the audience.
-- Ensure that questions taken from the audience represent the diversity of the attendees.
-- Provide the audience with information about any emergency exits or other physical locations of importance during the event.
+- Ensures that attendees and any speakers are able to engage in the session using microphones or other audio equipment.
+- Works with a speaker or panellists to answer questions from the audience.
+- Ensures that questions taken from the audience represent the diversity of the attendees.
+- Provides the audience with information about any emergency exits or other physical locations of importance during the event.
 
 #### In-Person Notetaker
-- Take notes during the session and capture the main points of discussion.
+- Takes notes during the session and capture the main points of discussion.
   Depending on your event, this may also involve sending notes or making live notes available to attendees with sensory disabilities. 
 
 #### Online Technical Support
-- Support attendees and facilitators with sound or video focus difficulties.
-- Host the online platform and open the session if there is a waiting room.
-- Place attendees on mute if there is loud or distracting background noise.
-- Ensure the event is recorded and streamed with closed captions and transcription software.
+- Supports attendees and facilitators with sound or video focus difficulties.
+- Hosts the online platform and open the session if there is a waiting room.
+- Places attendees on mute if there is loud or distracting background noise.
+- Ensures the event is recorded and streamed with closed captions and transcription software.
 
 #### Online Facilitator
-- Support the engagement of attendees and moderating conversation.
-- Provide discussion prompts and ask thought-provoking questions.
-- Introduce the meeting and event.
-- Facilitate Q&A and any polls that are used during the session.
-- Remove online attendees if there is any inappropriate behaviour that contravenes the event's Code of Conduct.
+- Supports the engagement of attendees and moderating conversation.
+- Provides discussion prompts and asks thought-provoking questions.
+- Introduces the meeting and event.
+- Facilitates Q&A and any polls that are used during the session.
+- Removes online attendees if there is any inappropriate behaviour that contravenes the event's Code of Conduct.
 
 #### Online Notetaker
-- Take notes during the event's sessions and ensure that they are accessible to all attendees.
-- Summarize information shared by online participants so that it may be communicated to, and shared with, in-person attendees.
-- Share links in the chat as requested by speakers and the attendees.
+- Takes notes during the event's sessions and ensures that they are accessible to all attendees.
+- Summarizes information shared by online participants so that it may be communicated to, and shared with, in-person attendees.
+- Shares links in the chat as requested by speakers and the attendees.
 
 
 
