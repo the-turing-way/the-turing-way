@@ -1,6 +1,15 @@
 (cl-ppie-events)=
 # Hosting Events with Members of the Public
-A guide for involving members of the public at research events
+A guide for involving members of the public at research events.
+
+```{figure} ../figures/public-and-patient-involvement-and-engagement.*
+---
+height: 500px
+name: Public and Patient Involvement in Research
+alt: Members of the public and people with lived experience of medical conditions are health care are shown collaborating with data scientists, clinicians, health care providers, and professors on a research project. There are intersecting circles to demonstrate that the research project is only possible because everyone involved is contributing and listening to the people with lived experience. 
+---
+Collaborating with Members of the Public: Actively involving members of the public and experts with lived experience in the design, development, and delivery of projects can greately improve the quality and relevance of the research. This image was created by [Scriberia](http://www.scriberia.co.uk/) for The AI for Multiple Long Term Conditions Research Support Facility community and is used under a CC-BY 4.0 licence for reuse. Zenodo. DOI [10.5281/zenodo.8082554](https://doi.org/10.5281/zenodo.8082554).
+```
 
 (cl-ppie-events-summary)=
 ## Summary
@@ -12,11 +21,10 @@ It covers:
 - {ref}`suggestions for how to create an inclusive agenda<cl-ppie-events-schedule-planning>`
 - {ref}`considerations for how to make technology work for your events<cl-ppie-events-technology>`
 - {ref}`suggestions for how to plan social or networking sessions<cl-ppie-events-social-and-networking-guide>`
-- and provides a page of additional resources for running inclusive and accessible events. 
-
+- and provides a page of {ref}`additional resources<ppie-events-resources>` for running inclusive and accessible events. 
 
 (cl-ppie-events-prerequisites)=
-## Prerequisites
+## Additional Resources within The Turing Way
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
