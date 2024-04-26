@@ -246,7 +246,7 @@ Review your organization's honorarium policy, and consider what steps will be ne
 
 ```{admonition} Case Study
 :class: tip
-Community events run by the Multiple Long Term Conditions Community of Practice are often attended by people with blindness  and low vision. 
+Community events run by the Multiple Long Term Conditions Community of Practice are often attended by people with blindness and low vision. 
 These community members receive an honorarium for their participation in focus group sessions and requested a support person to type and guide them through the reimbursement forms. 
 While this example was specific to the needs of that community and may not be a requirement for all types of events, it highlights the additional considerations such as the budget, communication, and the data protection/privacy requirements in order for that would be needed for a member of staff to support attendees with completing the forms. 
 ```
