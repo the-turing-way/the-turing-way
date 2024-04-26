@@ -4,6 +4,15 @@ When planning an event that will be attended by people with lived experience, ev
 
 This section focuses on considerations and recommendations around using different technologies to support the inclusion of people with lived experience at in-person, hybrid, or online events. 
 
+(cl-ppie-tech-prerequisites)=
+### Helpful Resources within The Turing Way
+
+| Prerequisite | Importance | Notes |
+| -------------|----------|------|
+| {ref}`cl-remote-collab-guidelines` | Helpful | Guidance on running remote events |
+| {ref}`cl-hybrid-collab-challenges` | Helpful | Identifies common barriers faced by hybrid events |
+
+
 (cl-ppie-events-hybrid)=
 ## Hybrid Events as an Accessibility and Inclusion Strategy
 Hybrid events, by default, prioritize accessibility and the inclusivity of attendees with lived experience, making them the ideal choice to engage an audience of individuals with diverse lived experiences. 

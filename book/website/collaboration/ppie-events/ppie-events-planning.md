@@ -10,6 +10,17 @@ Their inclusion in decision-making processes is essential to achieving an access
 
 By involving your community in the event organization, it also maximizes their contribution of expertise and experience to the event's field of study.
 
+(cl-ppie-planning-prerequisites)=
+### Helpful Resources within The Turing Way
+
+| Prerequisite | Importance | Notes |
+| -------------|----------|------|
+| {ref}`cl-organising-conferences` | Essential | Checklists and recommendations for planning conferences |
+| {ref}`cl-organising-meetings` | Essential | Checklist and suggestions for organizing meetings |
+| {ref}`cl-event-tools` | Helpful | Suggestions for tools that are useful when planning and running events |
+| {ref}`cl-remote-collab-guidelines` | Helpful | Guidance on running remote events |
+| {ref}`cl-new-community-differences` | Helpful | Useful for thinking about how to be inclusive when collaborating with a diverse team |
+
 (cl-ppie-events-planning-intro)=
 ## Accessibility and Inclusion: What to focus on
 When designing and organising an event, it can be easy to focus on accessibility requirements at the venue, and overlook the steps needed to make an event inclusive and enjoyable for all participants. 
