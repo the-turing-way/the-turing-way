@@ -43,7 +43,8 @@ This can help remind your attendees of their registration and help put the impor
 It can also be helpful to utilize the subject line of your email with important information. 
 Consider including the date and title of your event, in both the calendar invitation and any email reminders that you send. 
 
-```{note}
+```{admonition} Case Study
+:class: tip
 The Public and Patient Involvement and Engagement community for Multiple Long-Term Conditions has highlighted the importance of sending out reminder emails the week of the event, and the morning of the event. 
 
 This was because medical appointments had often been scheduled after an event's "Save the Date" had been sent and many community members valued the reminders. 
@@ -81,7 +82,7 @@ These guides should be provided before your event starts to allow attendees to f
 
 Although you may not be able to individually check with each attendee, providing guides and allocating time during your event for participants to learn and familiarize themselves with the tool can help to ensure that all attendees are comfortable using the platforms and tools of your event. 
 
-```{tip}
+```{warning}
 You may want to consider how you will ensure that all participants are able to access any tools or platforms.
 
 For example, by including an icebreaker or introductory activity that is completed by attendees. 

@@ -245,7 +245,7 @@ This can then act to further empower other attendees with lived experience to be
 (cl-ppie-events-event-descriptions)=
 ### Providing Event Descriptions
 Consider including a description of your intended audience and any expertise requirements in your session information. 
-Ensure that these session descriptions, the program, and any organisational information are written using [{Plain Language}`def<Plain Language>`] that is able to be understood by your audience. 
+Ensure that these session descriptions, the program, and any organisational information are written using {term}`Plain Language` that is able to be understood by your audience. 
 
 Include session descriptions in the program of events. This description should include:
 - a short and clear title of the session or event
@@ -257,16 +257,15 @@ Include session descriptions in the program of events. This description should i
 - any additional information such as location, start time, and Zoom links if applicable
 
 > For example:
-> **AI approaches and methodologies across AIM**
-> **Description:** A roundtable discussion to map the different applications of AI methods across AIM investments with the goal of identifying similarities and articulating nuanced differences across AIM consortia projects. Pens and paper will be provided. This session will involve active discussion between small groups of attendees that will rotate every 15 minutes.
-> **Facilitators:** Alan Turing, Ada Lovelace, Charles Babbage, Katherine Johnson
-> **Audience:** Technical leads, statisticians, and data-intensive researchers across the AIM consortia
-> **Time:** 14.00 - 15.30. Comfort break from 14:45 - 15.00. 
-> **Location:** The Great Hall.
+> * **Title:** AI approaches and methodologies across AIM
+> * **Description:** A roundtable discussion to map the different applications of AI methods across AIM investments with the goal of identifying similarities and articulating nuanced differences across AIM consortia projects. Pens and paper will be provided. This session will involve active discussion between small groups of attendees that will rotate every 15 minutes.
+> * **Facilitators:** Alan Turing, Ada Lovelace, Charles Babbage, Katherine Johnson
+> * **Audience:** Technical leads, statisticians, and data-intensive researchers across the AIM consortia
+> * **Time:** 14.00 - 15.30. Comfort break from 14:45 - 15.00. 
+> * **Location:** The Great Hall.
 
-```{note}
-You can find other inspiration and examples of inclusive session descriptions on the [Mozilla Festival (MozFest) website](https://schedule.mozillafestival.org/schedule).]
-```
+:::{seealso}
+You can find other inspiration and examples of inclusive session descriptions on the [Mozilla Festival (MozFest) website](https://schedule.mozillafestival.org/schedule).:::
 
 (cl-ppie-events-parallel-sessions)=
 ### Using Parallel Sessions

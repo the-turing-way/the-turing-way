@@ -56,7 +56,8 @@ For example, depending on your attendees you may need to:
 
 This can ensure that people who use different communication channels are able to receive the information in a medium that is accessible to them and through the channel they are most comfortably using. 
 
-```{note} 
+```{admonition} Case Study
+:class: tip 
 The [Public and Patient Involvement and Engagement Community for people with experience of Multiple Long-Term Conditions](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) had asked event organizers to send out both calendar invitations compatible with Outlook and Google calendars, and email invitations. 
 
 This was to support the community members who often needed to manage event attendance around medical appointments, as well as support those who had visual impairments and would benefit from digital tools providing reminders.
@@ -83,7 +84,8 @@ You can include examples or reference images if it is particularly important to 
 Where possible at your event, support the adoption of a casual dress code. 
 Business or Formal wear can be cost-prohibitive and inaccessible to those with mobility difficulties or sensory processing differences.
 
-```{note}
+```{admonition}
+:class: tip
 What to wear to research events can often differ greatly between fields. 
 For example, some prominent researchers and a Nobel laureate have become known for not wearing shoes and avoiding formal wear at events. 
 By making clear expectations and supporting people with lived experience attending your event, you are also helping make your event more inclusive and welcoming to all attendees in a non-judgemental space.
@@ -190,7 +192,9 @@ Although it can be common to prepare presentation slides at the penultimate hour
 
 By working with speakers and requesting slides and presentation content ahead of the event, you will be best set up to support the involvement of people with disabilities and lived experience at your event.
 
-This can help in two core ways, 1) supporting speaking in developing both psychologically and physically accessible content, and 2) ensuring that your event's content is accessible to a diverse audience.
+This can help in two core ways:
+1) supporting speaking in developing both psychologically and physically accessible content, 
+2) ensuring that your event's content is accessible to a diverse audience.
 
 Firstly, consider how you will support speakers in developing inclusive material that is pitched to the correct audience, which in this case will be members of the public and people with lived experience. 
 This may mean developing and sharing guidance on session content, or could also be giving feedback on presentation drafts. 
@@ -258,8 +262,9 @@ If possible, consider co-developing Plain Language and Easy Read content alongsi
 If this is not possible for your event, you can review guidance on how to write in Plain Language and ensure that core communications and event content are checked by using an external tool. 
 
 ```{note}
-The Office for National Statistics in the UK has [published a short guide on writing with Plain Language](https://service-manual.ons.gov.uk/content/writing-for-users/plain-language) and there are also tools such as the [Hemingway App](https://hemingwayapp.com/) (an online tool that gives you feedback on the clarity of your writing), or Microsoft Word's reading level reviewer (if you have an account, Microsoft has provided [instructions on how to use it](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2?ui=en-us&rs=en-us&ad=us#__toc342546555)) which provides the reading level of your document's content.
-You can also paste the URL of a website into a [Readability Checker](https://www.webfx.com/tools/read-able/) to check the overall content and layout of your event's webpage. 
+* The Office for National Statistics in the UK has [published a short guide on writing with Plain Language](https://service-manual.ons.gov.uk/content/writing-for-users/plain-language). 
+* There are also tools such as the [Hemingway App](https://hemingwayapp.com/) (an online tool that gives you feedback on the clarity of your writing), or Microsoft Word's reading level reviewer (if you have an account, Microsoft has provided [instructions on how to use it](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2?ui=en-us&rs=en-us&ad=us#__toc342546555)) which provides the reading level of your document's content.
+* You can also paste the URL of a website into a [Readability Checker](https://www.webfx.com/tools/read-able/) to check the overall content and layout of your event's webpage. 
 ```
 
 Aim to have all core event communications be understandable by a general audience, and written in Plain Language. 
