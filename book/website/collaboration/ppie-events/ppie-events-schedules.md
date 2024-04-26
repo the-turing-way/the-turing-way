@@ -264,8 +264,9 @@ Include session descriptions in the program of events. This description should i
 > * **Time:** 14.00 - 15.30. Comfort break from 14:45 - 15.00. 
 > * **Location:** The Great Hall.
 
-:::{seealso}
-You can find other inspiration and examples of inclusive session descriptions on the [Mozilla Festival (MozFest) website](https://schedule.mozillafestival.org/schedule).:::
+```{note}
+You can find other inspiration and examples of inclusive session descriptions on the [Mozilla Festival (MozFest) website](https://schedule.mozillafestival.org/schedule).
+```
 
 (cl-ppie-events-parallel-sessions)=
 ### Using Parallel Sessions

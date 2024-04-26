@@ -84,7 +84,7 @@ You can include examples or reference images if it is particularly important to 
 Where possible at your event, support the adoption of a casual dress code. 
 Business or Formal wear can be cost-prohibitive and inaccessible to those with mobility difficulties or sensory processing differences.
 
-```{admonition}
+```{admonition} Dress Code Differences
 :class: tip
 What to wear to research events can often differ greatly between fields. 
 For example, some prominent researchers and a Nobel laureate have become known for not wearing shoes and avoiding formal wear at events. 
