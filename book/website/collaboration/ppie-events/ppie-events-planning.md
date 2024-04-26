@@ -11,7 +11,7 @@ Their inclusion in decision-making processes is essential to achieving an access
 By involving your community in the event organization, it also maximizes their contribution of expertise and experience to the event's field of study.
 
 (cl-ppie-planning-prerequisites)=
-### Helpful Resources within The Turing Way
+**Helpful Resources within The Turing Way**
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|

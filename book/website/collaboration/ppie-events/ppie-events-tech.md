@@ -5,7 +5,7 @@ When planning an event that will be attended by people with lived experience, ev
 This section focuses on considerations and recommendations around using different technologies to support the inclusion of people with lived experience at in-person, hybrid, or online events. 
 
 (cl-ppie-tech-prerequisites)=
-### Helpful Resources within The Turing Way
+**Helpful Resources within The Turing Way**
 
 | Prerequisite | Importance | Notes |
 | -------------|----------|------|
