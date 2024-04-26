@@ -66,8 +66,8 @@ You could also consider hosting some focus group sessions at regular stages to g
 
 
 At this stage it is important to consider who your event will be inviting and if there will be any promotional or "product demonstration" content at your event. 
-For example, there are ethical and consumer regulation considerations if your event hosts sales or promotional teams from medical device or pharmaceutical companies. 
-Depending on your location, there may be regulations around direct promotion to consumers or users of a product which will restrict the amount of involvement that members of the public will be able to have at your event. 
+For example, there are ethical and potential consumer regulation considerations if your event hosts sales or promotional teams from medical device or pharmaceutical companies. 
+Depending on the country, there may be regulations around direct promotion to consumers or users of a product which will restrict the amount of involvement that members of the public will be able to have at your event. 
 Specific thought should be given for how to include members of the public at events which may showcase regulated products. 
 Ensure that you identify what considerations need to be made in order to facilitate appropriate knowledge sharing within an inclusive research space to make the most of our your event while also safeguarding all attendees. 
 
