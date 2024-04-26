@@ -100,7 +100,7 @@ Knowing how to start a conversation and navigate social interactions can help bo
 (cl-inclusive-events-introduction-guide)=
 #### How to introduce yourself 
 You may consider providing examples of how to introduce yourself and start conversations. 
-Pop-culture references providing good examples of how to introduce yourself can be found in the 1987 movie [The Princess Bride](https://en.wikipedia.org/wiki/The_Princess_Bride_(film)) featuring a character called Inigo Montoya, or Pixar animation's movie [Up](https://en.wikipedia.org/wiki/Up_(2009_film)) featuring a character named Russell.
+Pop-culture references providing good examples of how to introduce yourself can be found in the 1987 movie [The Princess Bride](https://en.wikipedia.org/wiki/The_Princess_Bride_(film)) featuring a character called Inigo Montoya introducing himself ([view clip on YouTube](https://www.youtube.com/watch?v=YSZs2IOSGzE)), or Pixar animation's movie [Up](https://en.wikipedia.org/wiki/Up_(2009_film)) featuring a character named Russell ([view Russell's introduction on Youtube](https://www.youtube.com/watch?v=ZzYtToQ5mrk)).
 These characters make excellent introductions by following a helpful and informative format:
 - they state their name,
 - say what their background or goal is,
