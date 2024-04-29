@@ -50,7 +50,7 @@ By providing guidance along with a "Save the Date", your attendees would have ap
 Consider sending out different forms of a "Save the Date" to support how different people use and interact with online calendars. 
 For example, depending on your attendees you may need to:
 * send out an online calendar placeholder,
-* send an email invitation written in plain text with formatted headings,
+* send an email invitation written in plain language with simple formatted headings,
 * attach an accessible PDF flyer with "Save the Date" information to any emails,
 * and promote the "Save the Date" information through your usual communication channels such as Slack, LinkedIn or organization's newsletter, website, and social media. 
 
