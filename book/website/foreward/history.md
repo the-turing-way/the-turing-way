@@ -10,7 +10,7 @@ The project team included researchers, librarians, data scientists and Research 
 The project has its roots in the [Mozilla Open Leadership](https://mozilla.github.io/leadership-training/), a programme that led to Kirstie's Mozilla Fellowship in 2016, which influenced her as a researcher and strengthened her commitment to working openly.
 
 *The Turing Way* has been funded by The Alan Turing Institute since the very beginning.
-Due to close relationships with the Jupyter Project, the book was written in JupyterBook.
+Because the project is open source, executable, and a prior relationship existed, the book was written and published using JupyterBook.
 A GitHub repository was made for the project, and internal processes decided in how to acknowledge authorship works within the project (i.e. installation of Welcome bot, All-Contributors bot) and collaborative spaces and events to contribute to the guides were created (such as the Collaboration Cafe and Book Dash).
 In-person workshops were given on tools aligned with the project (particulary Binder and JupterBook).
 The project was presented in many conferences across the UK and internationally, as well as conferences offering the first spaces for in-person Book Dash events.
