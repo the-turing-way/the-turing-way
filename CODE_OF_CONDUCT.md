@@ -34,7 +34,7 @@ You can reach out to our Research Community Manager, Anne Lee Steele ([asteele@t
 
 Reports may be reviewed by other members of the core development team, unless there is a conflict of interest, and will be kept confidential.
 
-# 2 Code of Conduct: Details
+## 2 Code of Conduct: Details
 
 The Turing Way team are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity.
 As such, we do not tolerate behaviour that is disrespectful to our community members or that excludes, intimidates, or causes discomfort to others.
@@ -44,23 +44,24 @@ Everyone who participates in the Turing Way project activities is required to co
 This Code of Conduct applies to all spaces managed by the Turing Way project including, but not limited to, in-person focus groups and workshops, and communications online via GitHub.
 By participating, contributors indicate their acceptance of the procedures by which the Turing Way project core development team resolves any Code of Conduct incidents, which may include the storage and processing of their personal information.
 
-## 2.1 Expected Behaviour
+### 2.1 Expected Behaviour
 
 We are confident that our community members will together build a supportive and collaborative atmosphere at our events and during online communications.
 The following bullet points set out explicitly what we hope you will consider to be appropriate community guidelines:
 
-* **Be respectful of different viewpoints and experiences**. Do not engage in homophobic, racist, transphobic, ageist, ableist, sexist, or otherwise exclusionary behaviour.
-* **Use welcoming and inclusive language**. Exclusionary comments or jokes, threats or violent language are not acceptable. Do not address others in an angry, intimidating, or demeaning manner. Be considerate of the ways the words you choose may impact others. Be patient and respectful of the fact that English is a second (or third or fourth!) language for some participants.
-* **Do not harass people**. Harassment includes unwanted physical contact, sexual attention, or repeated social contact. Know that consent is explicit, conscious and continuous—not implied. If you are unsure whether your behaviour towards another person is welcome, ask them. If someone tells you to stop, do so.
-* **Respect the privacy and safety of others**. Do not take photographs of others without their permission. Do not share other participants’ personal experiences without their express permission. Note that posting (or threatening to post) personally identifying information of others without their consent ("doxing") is a form of harassment.
-* **Be considerate of others’ participation**. Everyone should have an opportunity to be heard. In update sessions, please keep comments succinct so as to allow maximum engagement by all participants. Do not interrupt others on the basis of disagreement; hold such comments until they have finished speaking.
-* **Don’t be a bystander**. If you see something inappropriate happening, speak up. If you don't feel comfortable intervening but feel someone should, please feel free to ask a member of the Code of Conduct response team for support.
-* As an overriding general rule, please **be intentional in your actions and humble in your mistakes**.
+- Be respectful of different viewpoints and experiences. Do not engage in homophobic, racist, transphobic, ageist, ableist, sexist, or otherwise exclusionary behaviour.
+- Use welcoming and inclusive language. Exclusionary comments or jokes, threats or violent language are not acceptable. Do not address others in an angry, intimidating, or demeaning manner. Be considerate of the ways the words you choose may impact others. Be patient and respectful of the fact that English is a second (or third or fourth!) language for some participants.
+- Do not harass people. Harassment includes unwanted physical contact, sexual attention, or repeated social contact. Know that consent is explicit, conscious and continuous—not implied. If you are unsure whether your behaviour towards another person is welcome, ask them. If someone tells you to stop, do so.
+- Respect the privacy and safety of others. Do not take photographs of others without their permission. Do not share other participants' personal experiences without their express permission. Note that posting (or threatening to post) personally identifying information of others without their consent ("doxing") is a form of harassment.
+- Be considerate of others' participation. Everyone should have an opportunity to be heard. In update sessions, please keep comments succinct so as to allow maximum engagement by all participants. Do not interrupt others on the basis of disagreement; hold such comments until they have finished speaking.
+- Don't be a bystander. If you see something inappropriate happening, speak up. If you don't feel comfortable intervening but feel someone should, please feel free to ask a member of the Code of Conduct response team for support.
+- Keep conversations open and inclusive. Avoid direct messaging (DMs) when discussing project-related topics, as this can limit collaboration and transparency. Instead, use public channels or threads to encourage participation and maintain open communication among community members.
+- As an overriding general rule, please **be intentional in your actions and humble in your mistakes**.
 
 All interactions should be professional regardless of platform: either online or in-person.
 See [this explanation of the four social rules](https://www.recurse.com/manual#sub-sec-social-rules) - no feigning surprise, no well-actually's, no back-seat driving, no subtle -isms - for further recommendations for inclusive behaviours.
 
-## 2.2 Unacceptable Behaviour
+### 2.2 Unacceptable Behaviour
 
 Examples of unacceptable behaviour by Turing Way community members at any project event or platform include:
 
@@ -69,7 +70,7 @@ Examples of unacceptable behaviour by Turing Way community members at any projec
 * violent threats or language directed against another person
 * the display of sexual or violent images
 * unwelcome sexual attention
-* nonconsensual or unwelcome physical contact
+* non-consensual or unwelcome physical contact
 * sustained disruption of talks, events or communications
 * insults or put-downs
 * sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
@@ -78,43 +79,43 @@ Examples of unacceptable behaviour by Turing Way community members at any projec
 * continuing to initiate interaction (including photography or recording) with someone after being asked to stop
 * publication of private communication without consent
 
-## 2.3 Consequences of Unacceptable Behaviour
+### 2.3 Consequences of Unacceptable Behaviour
 
 Participants who are asked to stop any inappropriate behaviour are expected to comply immediately.
 This applies to all Turing Way community events and platforms, either online or in-person.
 If a participant engages in behaviour that violates this Code of Conduct, any member of the core development team may warn the offender, ask them to leave the event or platform (without refund), or impose any other appropriate sanctions (see the [enforcement manual](#4-enforcement-manual) for details).
 
-## 2.4 Feedback
+### 2.4 Feedback
 
 This Code of Conduct is not intended as a static set of rules by which everyone must abide.
 Rather, you are invited to make suggestions for updates or clarifications by contacting *The Turing Way* Core Staff Team at [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk) or by making a pull request to this document on GitHub.
 
-# 3 Incident Reporting Guidelines
+## 3 Incident Reporting Guidelines
 
-## 3.1 Contact points
+### 3.1 Contact points
 
 If you feel able to, please contact Dr. Kirstie Whitaker ([kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)) and Dr. Malvika Sharan ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)) - who are responsible for enforcing the Code of Conduct.
 
-## 3.2 Alternate contact points
+### 3.2 Alternate contact points
 
 If you prefer not to contact the project leads, you may also contact [Anna Krystalli](mailto:annakrystalli@googlemail.com), who is our ombudsperson.
 
 You can reach out to our Research Community Manager, Anne Lee Steele ([asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)) and Research Project Manager, Alexandra Araujo Alvarez ([aaraujo.alvarez@turing.ac.uk](mailto:aaraujo.alvarez@turing.ac.uk)) for support in making a report to the project leads on your behalf or anonymously.
 
-## 3.3 What to do if someone is in physical danger
+### 3.3 What to do if someone is in physical danger
 
 If you believe someone is in physical danger, please contact the appropriate emergency responders.
 
-## 3.4 Code of Conduct Enforcement
+### 3.4 Code of Conduct Enforcement
 
 A detailed enforcement policy is available in the Enforcement Manual.
 
-# 4 Enforcement Manual
+## 4 Enforcement Manual
 
 This is the enforcement manual used by the Code of Conduct Committee when they respond to an issue to make sure they are consistent and fair.
 Enforcement of the Code of Conduct should be respectful and not include any harassing behaviours.
 
-## 4.1 Urgent Situations: Acting Unilaterally
+### 4.1 Urgent Situations: Acting Unilaterally
 
 If the incident involves physical danger or involves a threat to anyone's safety (such as threats of violence), any member of the community may -- and should -- act unilaterally to protect the safety of any community member.
 This can include contacting law enforcement (or other local personnel) and speaking on behalf of the Turing Way team.
@@ -124,7 +125,7 @@ In ongoing situations, any member may at their discretion employ any of the tool
 
 In situations where an individual community member acts unilaterally, they must inform the committee as soon as possible, and report their actions for review within 24 hours.
 
-## 4.2 Less-Urgent Situations
+### 4.2 Less-Urgent Situations
 
 Upon receiving a report of an incident, the CoC committee will review the incident and determine, to the best of their ability:
 
@@ -142,7 +143,7 @@ The "de-anonymising key" will be kept in a separate file and only accessed to li
 The CoC committee will aim to have a resolution agreed upon within one week.
 In the event that a resolution can't be determined in that time, a member of the CoC committee will respond to the reporter(s) with an update and projected timeline for resolution.
 
-## 4.4 Resolutions
+### 4.4 Resolutions
 
 The CoC committee will seek to agree on a resolution by consensus of all members investigating the report in question.
 If the committee cannot reach a consensus and deadlocks for over a week, Kirstie Whitaker will break the tie.
@@ -170,11 +171,11 @@ Once a resolution is agreed upon, but before it is enacted, a member of the CoC 
 The CoC committee member will ask if this resolution is acceptable, and must note feedback for the record.
 However, the CoC committee is not required to act on this feedback.
 
-## 4.5 Conflicts of Interest
+### 4.5 Conflicts of Interest
 
 If the report is about someone is the committee, please send the report to the other individuals on the committee.
 
-# 5 Acknowledgement
+## 5 Acknowledgement
 
 This code is adapted from the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)  with sections from the [Alan Turing Institute Data Study Group Code of Conduct](https://docs.google.com/document/d/1iv2cizNPUwtEhHqaezAzjIoKkaIX02f7XbYmFMXDTGY/edit).
 Both are used under the creative commons attribution license.
