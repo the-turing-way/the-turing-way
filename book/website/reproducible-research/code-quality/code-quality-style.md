@@ -46,6 +46,45 @@ Note that editors often support using these tools directly from the editing envi
 "editor.formatOnSave": true,
 ```
 
+(rr-code-style-pre-commit)=
+## Pre-commit hooks
+
+[Pre-commit](https://pre-commit.com/) is a tool that allows you to run formatters, linters, and other checks before committing your code. It helps maintain code quality and consistency by catching issues early in the development process.
+
+Key features of pre-commit:
+
+- Runs checks before each commit
+- Supports a wide range of programming languages
+- Configurable through a `.pre-commit-config.yaml` file in your repository
+- Extensible with custom hooks
+- Integrates with version control systems like Git
+
+To use pre-commit:
+
+1. Install pre-commit: `pip install pre-commit`
+2. Create a `.pre-commit-config.yaml` file in your repository root, specifying the hooks you want to use
+3. Install the hooks: `pre-commit install`
+
+Now, every time you run `git commit`, the configured hooks will run automatically. If any issues are found, the commit will be aborted, allowing you to fix the problems before committing.
+
+Example `.pre-commit-config.yaml` file:
+
+```yaml
+repos:
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v2.3.0
+    hooks:
+    -   id: check-yaml
+    -   id: end-of-file-fixer
+    -   id: trailing-whitespace
+-   repo: https://github.com/psf/black
+    rev: 19.3b0
+    hooks:
+    -   id: black
+```
+
+This configuration uses the `pre-commit-hooks` package for general-purpose checks and the black package for Python code formatting.
+
 (rr-code-style-service)=
 ## Online services providing software quality checks
 
