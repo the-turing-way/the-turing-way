@@ -72,15 +72,11 @@ Example `.pre-commit-config.yaml` file:
 ```yaml
 repos:
 -   repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v2.3.0
+    rev: v4.0.1
     hooks:
     -   id: check-yaml
     -   id: end-of-file-fixer
     -   id: trailing-whitespace
--   repo: https://github.com/psf/black
-    rev: 19.3b0
-    hooks:
-    -   id: black
 ```
 
 This configuration uses the `pre-commit-hooks` package for general-purpose checks and the black package for Python code formatting.
