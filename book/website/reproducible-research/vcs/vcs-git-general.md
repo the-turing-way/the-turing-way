@@ -2,15 +2,15 @@
 # General information about git
 
 Git is a successful version control software (see [Wikipedia](https://en.wikipedia.org/wiki/Git) for detailed information).
-It was created in 2005 and got rapidly adopted by software developers, especially because it is very fast and scalable. 
+It was created in 2005 and got rapidly adopted by software developers, especially because it is very fast and scalable.
 Its functions allow for parallel development and maintenance of large projects, like linux development.
 
 (rr-vcs-gitpros)=
 ## Why everyone is using git
 
-While developed for software, Git has been used for many different kind of projects and platforms such as GitHub, GitLab, Gogs, GitLea and others. 
-These platforms brought project management tools into the Git workflow, facilitating community building around projects like the Turing Way book. 
-Sometimes, users of these platform do not even know about Git. 
+While developed for software, Git has been used for many different kind of projects and platforms such as GitHub, GitLab, Gogs, GitLea and others.
+These platforms brought project management tools into the Git workflow, facilitating community building around projects like the Turing Way book.
+Sometimes, users of these platform do not even know about Git.
 
 (rr-vcs-git-limitations)=
 ## Git Limitations
@@ -44,4 +44,4 @@ Here is a non-exhaustive list of software one can also use, please refer to thei
 - [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code)
 
 
-In many cases, one still needs to use the command lines for complex matters, and we present the main Git functions usage in this book (see {ref}`Getting Started with Git<rr-vcs-git>`). 
+In many cases, one still needs to use the command lines for complex matters, and we present the main Git functions usage in this book (see {ref}`Getting Started with Git<rr-vcs-git>`).

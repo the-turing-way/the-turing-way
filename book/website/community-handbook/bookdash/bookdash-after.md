@@ -31,7 +31,7 @@ They can join discussions on these pull requests or help in exploring resources 
 
 ## Representing _The Turing Way_ in your community/conference
 
-If our attendees would like to represent our community, they can connect with _The Turing Way_ team for support and assistance in drafting an abstract and help them prepare to deliver a short workshop or presentation. 
+If our attendees would like to represent our community, they can connect with _The Turing Way_ team for support and assistance in drafting an abstract and help them prepare to deliver a short workshop or presentation.
 This is another contribution that can be discussed and prepared collaboratively during our Collaboration Cafe or coworking calls.
 
 ## Connecting through social media

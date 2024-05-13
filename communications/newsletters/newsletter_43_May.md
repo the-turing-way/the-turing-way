@@ -1,6 +1,6 @@
 # Book Dash celebrations, upcoming events and welcoming Arya
 
-Hello and welcome to our latest Newsletter, curated by me: Alexandra, *The Turing Way* Research Project Manager, with contributions from the amazing *The Turing Way* team. 
+Hello and welcome to our latest Newsletter, curated by me: Alexandra, *The Turing Way* Research Project Manager, with contributions from the amazing *The Turing Way* team.
 
 Below are some highlights of what you will find in this edition:
 * 🔥 Join us in celebrating another great *The Turing Way* Book Dash success!
@@ -19,31 +19,31 @@ If you're interested in keeping up in real-time, please check out our [Welcome p
 
 ### Thanks to all the Book Dash contributors!
 
-From 22-26 May 2023, *The Turing Way* hosted its 9th book dash. 
+From 22-26 May 2023, *The Turing Way* hosted its 9th book dash.
 Thanks to the 37 participants that attended and worked collaboratively to submit 28 issues and 35 pull requests on topics ranging from open hardware to research ethics, to data feminism, to accessibility!
 
-It has been an amazing week with opportunities to engage with our community and expand our network. 
-We are thrilled by some of the comments received by the participants: 
+It has been an amazing week with opportunities to engage with our community and expand our network.
+We are thrilled by some of the comments received by the participants:
 
-"*Enjoyed collaborating with people from different parts of the world in creating content and also reviewing work done by others. I really like the way the Book Dash is structured as I get to participate in it while also working on other stuff throughout the week!*" 
+"*Enjoyed collaborating with people from different parts of the world in creating content and also reviewing work done by others. I really like the way the Book Dash is structured as I get to participate in it while also working on other stuff throughout the week!*"
 (*Book Dash Participant, May 2023*)
 
-"*I appreciate collaborating in real-time with people who have some of the same goals I do. We can make decisions and get some interactive things [done] much faster.  
-I enjoy working with people from different backgrounds to we can get many perspectives on concepts like accessibility. 
+"*I appreciate collaborating in real-time with people who have some of the same goals I do. We can make decisions and get some interactive things [done] much faster.
+I enjoy working with people from different backgrounds to we can get many perspectives on concepts like accessibility.
 The Book Dash helps me to focus and get things done that [I] didn't follow through with between BookDashes.*"
 (*Book Dash Participant, May 2023*)
 
-Check out some of our highlights below, and get involved with some ongoing projects: 
+Check out some of our highlights below, and get involved with some ongoing projects:
 
 Merged chapters:
-- [Creating Academic-Industry Collaboration](https://the-turing-way.netlify.app/collaboration/academic-industry.html) 
+- [Creating Academic-Industry Collaboration](https://the-turing-way.netlify.app/collaboration/academic-industry.html)
 - [Leadership in Data Science](https://the-turing-way.netlify.app/collaboration/leadership.html)
 - [Hybrid Collaboration](https://the-turing-way.netlify.app/collaboration/hybrid-collab.html)
 
 New Chapters and Other Works in Progress:
 - [Data Hazards](https://github.com/alan-turing-institute/the-turing-way/issues/3096)
 - [Guide for Accessibility](https://github.com/alan-turing-institute/the-turing-way/issues/2730)
-- [Open Hardware Chapter](https://github.com/alan-turing-institute/the-turing-way/issues/3111) 
+- [Open Hardware Chapter](https://github.com/alan-turing-institute/the-turing-way/issues/3111)
 - [History of *The Turing Way*](https://github.com/alan-turing-institute/the-turing-way/pull/3159)
 
 Invitation to collaborate:
@@ -55,7 +55,7 @@ Invitation to collaborate:
 *In the photo, from left to right: Malvika Sharan, Anne Lee Steele, Batool Almarzouq, Arielle Bennett, Goodnews Sandy, Liz Hare, Danny Garside, Emma Karoune, Laura Ascenzi, Kirstie Whitaker and Saranjeet Kaur.*
 
 We are very grateful to all the people who participated, but we want to highlight the following people:
-- Poet and creative writer, [**Jonny Heath**](https://www.instagram.com/jonnywriteswords), for his inspiring workshop on Creative Writing. 
+- Poet and creative writer, [**Jonny Heath**](https://www.instagram.com/jonnywriteswords), for his inspiring workshop on Creative Writing.
 - The TPS Director and project lead, **Kirstie Whitaker**, for leading the Show and Tell Lunch and a Community Share-out Session. See below for a preview!
 - Scribe and illustrator, [**Jem Milton**](https://www.jmiltondraws.com/) from [Scriberia](https://www.scriberia.com/), for creating beautiful illustrations from ideas shared by our participants. All illustrations will be shared [here](https://zenodo.org/record/7587336)
 - Last but not least our organising committee members, application reviewers and session chairs: **Alden Conner, Anne Lee Steele, Arielle Bennett, Batool Almarzouq, Carlos Martinez, Emma Karoune Esther Plomp, Lena Karvovskaya and everyone who mentored and supported the Book Dash participants**.
@@ -77,10 +77,10 @@ To find out how to contribute and be part of *The Turing Way* Community, join ou
 **All are welcome to these calls, no sign-up is needed!** ✨
 
 * **Collaboration Cafe**: The next call is on 07 June 2023, 15:00-17:00 UTC [in your time zone](https://arewemeetingyet.com/London/2023-06-07/15:00/The%20Turing%20Way%20Collaboration%20Cafe). Join us for a Community Chat in the main room, and work on your own projects in break-out rooms!
-* **Translation and Localisation Weekly Meetings**: every second Tuesday at 16:00 UTC ([in your time zone](https://arewemeetingyet.com/London/2022-11-01/17:00)). 
-These calls are for co-working on translation and localisation efforts across several languages, and for learning more about the work of the team. 
-* **Infrastructure Monthly Meetings**: the second Thursday of the month, on the 08 June 2023 at 16:00 UTC - ([in your time zone](https://arewemeetingyet.com/London/2023-06-08/16:00/The%20Turing%20Way%20Infrastructure%20Monthly%20meeting)). 
-These calls are for co-working on infrastructure support, and for learning more about the work of the team. 
+* **Translation and Localisation Weekly Meetings**: every second Tuesday at 16:00 UTC ([in your time zone](https://arewemeetingyet.com/London/2022-11-01/17:00)).
+These calls are for co-working on translation and localisation efforts across several languages, and for learning more about the work of the team.
+* **Infrastructure Monthly Meetings**: the second Thursday of the month, on the 08 June 2023 at 16:00 UTC - ([in your time zone](https://arewemeetingyet.com/London/2023-06-08/16:00/The%20Turing%20Way%20Infrastructure%20Monthly%20meeting)).
+These calls are for co-working on infrastructure support, and for learning more about the work of the team.
 * **Fireside Chats**: Last Friday of bimonthly - time and dates are dependent on speakers and organisers' availability). **Save the date** to our next Fireside Chat on **30 June 2023**
 [Follow us on Eventbrite](https://www.eventbrite.co.uk/o/the-turing-way-18600928389#events) to be alerted about upcoming events.
 
@@ -89,29 +89,29 @@ These calls are for co-working on infrastructure support, and for learning more 
 
 ### **Welcome Arya**, a Google Summer of Code 2023 student who invites you to fill out a user survey!
 
-We are excited to welcome Arya as a part of Google Summer Of Code 2023. 
+We are excited to welcome Arya as a part of Google Summer Of Code 2023.
 She will be working on improving the usability of *The Turing Way* book by enhancing the user interface and creating a much better browsing experience based on different user profile.
 
-Arya is a pre-final year undergraduate student of Computer Science Engineering with a specialisation in AI from Amrita University, India. 
-She is a Python programmer and is interested in web development. 
-She brings her experience working with React, Flask and Django. 
+Arya is a pre-final year undergraduate student of Computer Science Engineering with a specialisation in AI from Amrita University, India.
+She is a Python programmer and is interested in web development.
+She brings her experience working with React, Flask and Django.
 
 In her GSoC project with *The Turing Way*, she would like to know more about how different users navigate our guides, and where improvements are needed.
 
 👉 Help her development work by filling out a **[short (2 mins) user survey](https://forms.gle/mDUpprm4UciRtdUh7)**.
 
 ![Alt: Close-up photo of Arya. She has brown skin and black hair, her lips are closed but she is smiling. She is wearing small earing in her left ear.](https://hackmd.io/_uploads/rJiCddu8h.jpg)
-*Arya, our Google Summer of Code student.* 
+*Arya, our Google Summer of Code student.*
 
 If you would like to share ideas for improving the usability of *The Turing Way* Book, please don't hesitate [to contact The Turing Way team](mailto:turingway@turing.ac.uk).
- 
+
 ---
 
 ## Meeting *Turing Way* Members In Person!
 
 ### Collaborations Workshop (2-4 May 2023)
 
-Congratulations to **[The Software Sustainability Institute](https://www.software.ac.uk/) for organising another successful Collaborations Workshop 2023 (CW23)**. 
+Congratulations to **[The Software Sustainability Institute](https://www.software.ac.uk/) for organising another successful Collaborations Workshop 2023 (CW23)**.
 
 *The Turing Way* core team members and collaborators participated in the following talks and workshops:
 
@@ -136,7 +136,7 @@ It provides a framework to understand that the underlying problem is systemic an
 🌱Open to all - Registration required!
 ✍️ Register: [here](https://imperial-ac-uk.zoom.us/meeting/register/tJApceGrpzgrH9ZxOyWMS29KPm0mfmPzgBtT#/registration)
 
-**Read more about the Seminar [here](https://diverse-rse.github.io/events/2023-06-08)** 
+**Read more about the Seminar [here](https://diverse-rse.github.io/events/2023-06-08)**
 
 ### RSE Asia Asociation - Upcoming Community Call (15 June 2023)
 
@@ -164,20 +164,20 @@ The second German Open Science Festival will take place in Cologne in July 2023,
 
 ### CERN-NASA Open Science Summit 2023: “Accelerating the Adoption of Open Science” (10-14 July 2023)
 
-In celebration of the 2023 Year of Open Science, CERN and NASA are jointly organizing “Accelerating the Adoption of Open Science”, a week-long open science summit at CERN in Geneva, Switzerland, from 10 to 14 July 2023. This event will bring together relevant stakeholders in the physical sciences and international policymakers (e.g. UNESCO, European Commission). 
+In celebration of the 2023 Year of Open Science, CERN and NASA are jointly organizing “Accelerating the Adoption of Open Science”, a week-long open science summit at CERN in Geneva, Switzerland, from 10 to 14 July 2023. This event will bring together relevant stakeholders in the physical sciences and international policymakers (e.g. UNESCO, European Commission).
 
-Attendance to the workshops associated with this event will be limited to 80 people and will consist primarily of invited individuals. A limited number of slots will be available for conference registrants for in-person workshop participation. 
+Attendance to the workshops associated with this event will be limited to 80 people and will consist primarily of invited individuals. A limited number of slots will be available for conference registrants for in-person workshop participation.
 
 Find more information [here](https://home.cern/news/announcement/knowledge-sharing/cernnasa-summit-accelerating-adoption-open-science) and [register for the event](https://indico.cern.ch/event/1254282/)
 
 ---
-📅 Check out our [centralised event schedule](https://docs.google.com/spreadsheets/d/1C-VZvmFL4PnSBsv_G9ZD3dwjIYLno3NyL7oHvbplnWs/edit#gid=577525947) to learn more about what is happening in the community. 
+📅 Check out our [centralised event schedule](https://docs.google.com/spreadsheets/d/1C-VZvmFL4PnSBsv_G9ZD3dwjIYLno3NyL7oHvbplnWs/edit#gid=577525947) to learn more about what is happening in the community.
 
 If you are attending an event and would like to meet folks from across the community, please include that in this [pad](https://pad.sfconservancy.org/p/ttw-event-calendar-2023)
 
 *For more events, subscribe to the [Open Research Calendar](https://openresearchcalendar.org/).*
 
-If you want us to promote your future events in the upcoming Newsletters, send [me (Alex) an email](mailto:aaraujo.alvarez@turing.ac.uk) or [Anne](mailto:asteele@turing.ac.uk) with the info. The [#events](https://theturingway.slack.com/archives/C017WM4QD24) channel on Slack is also a great option to promote community events. 
+If you want us to promote your future events in the upcoming Newsletters, send [me (Alex) an email](mailto:aaraujo.alvarez@turing.ac.uk) or [Anne](mailto:asteele@turing.ac.uk) with the info. The [#events](https://theturingway.slack.com/archives/C017WM4QD24) channel on Slack is also a great option to promote community events.
 
 ---
 
@@ -185,13 +185,13 @@ If you want us to promote your future events in the upcoming Newsletters, send [
 
 ![Alt: Scriberia image with a man working in his laptop trying to balance how to work with data, showing the logos of social media platforms, Pinterest, LinkedIn, Twitter and facebook  and a comment that says "Am I using the Data responsibly?"](https://hackmd.io/_uploads/Sk3dQ4w8n.jpg)
 
-_Illustration by Scriberia. 
+_Illustration by Scriberia.
 Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://zenodo.org/record/5706310#.YoS-RmDMK58)._
 
 
 ## State of Open: The UK in 2023 Survey
 
-[Open UK](https://openuk.uk/) is inviting everyone based in the UK to complete The UK in 2023 Survey. 
+[Open UK](https://openuk.uk/) is inviting everyone based in the UK to complete The UK in 2023 Survey.
 
 This survey will feed into our "State of Open: The UK in 2023" Report which will be shared under a creative commons licence and provided in 3 further Phases.  Phase one is at https://openuk.uk/report-state-of-open-the-uk-in-2023/
 
@@ -237,7 +237,7 @@ The results of this survey will help identify regional trends and opportunities 
 ![Alt: two screen-shots, one from Twitter and another from Mastodon. The one from Twitter is from Alejandro Coca which says: "Thanks to @Turingway #Bookdash organisers to make #accessibility a priority with a parent-friendly environment and culture. The aid fund to cover childcare boosted my learning experience and unlocked new contriburions to the e-book and scriberian illustrations". The Mastodon one is from Esther Plomp and says "Turing Way Book dash blogpost. LAst week we hosted an in-person hub for the Turing way book dash. We wrote about it in short blog. We highlight what everyone worked on and try to give you an impression of what was going on during our hub. Joind us for the next Book Dash in November if you fear you're missing out"](https://hackmd.io/_uploads/SyJVvuuIn.jpg)
 
 1. Tweet by Alejandro Coca - [Link to tweet](https://twitter.com/alejo_coca/status/1663872458011623424)
-2. Toot by Dr Esther Plomp - [Link to toot](https://mastodon.world/@toothFAIRy@scholar.social/110463880944381627). 
+2. Toot by Dr Esther Plomp - [Link to toot](https://mastodon.world/@toothFAIRy@scholar.social/110463880944381627).
 Read the blogpost [here](https://openworking.wordpress.com/2023/05/31/the-turing-way-book-dash-at-tu-delft/)
 
 
@@ -245,7 +245,7 @@ Read the blogpost [here](https://openworking.wordpress.com/2023/05/31/the-turing
 
 ## In *The Turing Way* Orbit
 
-### Roles at The Turing 
+### Roles at The Turing
 👉[Research Associate, AI and Autonomous Systems for Biodiversity Monitoring](https://cezanneondemand.intervieweb.it/turing/jobs/research-associate-ai-and-autonomous-systems-33038/en/)
 💰 £42,893 - £48,510/yr
 🗓️ 13 June 2023
@@ -263,7 +263,7 @@ Read the blogpost [here](https://openworking.wordpress.com/2023/05/31/the-turing
 🗓️ 26 June 2023
 
 
-*Visit **[The Alan Turing career page](https://cezanneondemand.intervieweb.it/turing/en/career#vacancies)** to access more opportunities.* 
+*Visit **[The Alan Turing career page](https://cezanneondemand.intervieweb.it/turing/en/career#vacancies)** to access more opportunities.*
 
 ### Other opportunities
 
@@ -274,13 +274,13 @@ Read the blogpost [here](https://openworking.wordpress.com/2023/05/31/the-turing
 - Job: UCL - ARC Research Programme Manager
     - ⏰ Apply by 11 June 2023
     - 📍 Location: Hybrid (20% - 80% on site)
-    - 💰 £39,508 - £47,355/yr 
+    - 💰 £39,508 - £47,355/yr
     - 🔗 [Read Details](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?jobId=10211&jobTitle=Research%20Programme%20Manager)
 - Grants: Sage Concept Grants
     - ⏰ Submit your application by 20 June 2023
     - 💰 £15,000 to scale up, and £2,000 for new ideas
     - 🔗 [Read Details](https://www.methodspace.com/concept-grants-2023-application-information?_gl=1%2A1lsd0gu%2A_ga%2AMTI5OTIyNTQ3My4xNjM5NDA4Mzc4%2A_ga_60R758KFDG%2AMTY0OTY2NzczNy4xMzAuMS4xNjQ5NjY3NzYxLjA.%2A_ga_RK7MQ5ZZVZ%2AMTY0OTY2NzczNy4xMjguMS4xNjQ5NjY3NzYxLjA.)
-- Conference: Mozilla House (Round Tables, Workshops, Installations) 
+- Conference: Mozilla House (Round Tables, Workshops, Installations)
     - ⏰ 19-21 June, 2023
     - 📍 Location: Amsterdam
     - 🔗 [Read Details](https://www.mozillafestival.org/en/house/).
@@ -305,6 +305,6 @@ If you'd like to contribute to the next newsletter, please email me @aaraujo.alv
 **Be safe, stay open and thanks for reading our newsletter!**
 
 Thank you for reading this newsletter.
-Tell us how we can improve our newsletter by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk). 
+Tell us how we can improve our newsletter by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
 
 _Did you miss the last newsletters?_ _Check them out [here](https://tinyletter.com/TuringWay/archive)._

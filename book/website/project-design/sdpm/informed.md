@@ -57,5 +57,3 @@ Think ahead and plan how you will:
 * [Data User Agreement, Open Brain Consent](https://open-brain-consent.readthedocs.io/en/latest/gdpr/data_user_agreement.html)
 * [Ultimate consent form, Open Brain Consent](https://open-brain-consent.readthedocs.io/en/latest/ultimate.html)
 * [Ultimate consent form - GDPR edition, Open Brain Consent](https://open-brain-consent.readthedocs.io/en/stable/gdpr/ultimate_gdpr.html)
-
-

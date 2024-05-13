@@ -54,4 +54,3 @@ BEFORE YOU GO
   - References and citations
 
 -->
-

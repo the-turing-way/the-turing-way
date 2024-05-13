@@ -23,8 +23,8 @@ This document collects hopes and dreams of potential users of the handbook. The 
 
 * model structure for maintaining GitHub repositories (scaffold)
 * best practice, e.g. I wish I had known about version control, Docker, Binder, etc. at the beginning of my PhD rather than spending a lot of time now reproducing it
-* (some of it) accessible to humanities/social sci scholars  
-  * case studies/interviews w/ HSS researchers  
-  * horror stories  
-  * new user friendly  
-  * clear requirements  
+* (some of it) accessible to humanities/social sci scholars
+  * case studies/interviews w/ HSS researchers
+  * horror stories
+  * new user friendly
+  * clear requirements

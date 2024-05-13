@@ -18,6 +18,6 @@
 * Esther and Ale: Book Dash next steps
 
 ## Notes
-* 
-* 
-* 
+*
+*
+*

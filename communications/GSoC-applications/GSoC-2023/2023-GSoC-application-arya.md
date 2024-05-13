@@ -1,8 +1,8 @@
 # Technical Improvements to enhance the usability of The Turing Way chapters by different user groups
 
-## Contact details : 
+## Contact details :
 
-**Full name**: Arya A 
+**Full name**: Arya A
 **Neurostars ID**: @arya
 **Location**: India
 
@@ -12,7 +12,7 @@
 
 ## Project details
 
-[The Turing Way](https://the-turing-way.netlify.app/index.html) is an open source, open collaboration and community-led handbook on data science. The project is developed online on [GitHub repo](https://github.com/alan-turing-institute/the-turing-way/tree/main/book) using open source solutions. The main infrastructure used for hosting the book is [JupyterBook](https://jupyterbook.org/en/stable/intro.html) and the content of the book utilizes the MyST flavour of Markdown. The Turing Way content for the book is hosted online in a browsable format at[ https://the-turing-way.netlify.app/](https://the-turing-way.netlify.app/)<span style="text-decoration:underline;">. </span>Over the last four years, the book has massively expanded with contributions from over 400+ international contributors who have authored 260+ chapters across five guides. With this scale, the content in the book is difficult to navigate, especially for new users – who are some of the most important target audiences for the project. 
+[The Turing Way](https://the-turing-way.netlify.app/index.html) is an open source, open collaboration and community-led handbook on data science. The project is developed online on [GitHub repo](https://github.com/alan-turing-institute/the-turing-way/tree/main/book) using open source solutions. The main infrastructure used for hosting the book is [JupyterBook](https://jupyterbook.org/en/stable/intro.html) and the content of the book utilizes the MyST flavour of Markdown. The Turing Way content for the book is hosted online in a browsable format at[ https://the-turing-way.netlify.app/](https://the-turing-way.netlify.app/)<span style="text-decoration:underline;">. </span>Over the last four years, the book has massively expanded with contributions from over 400+ international contributors who have authored 260+ chapters across five guides. With this scale, the content in the book is difficult to navigate, especially for new users – who are some of the most important target audiences for the project.
 
 In 2022, the team developed a [Python Package](https://github.com/alan-turing-institute/bio-Turing-Way/tree/main/pathways) to improve the usability of The Turing Way by allowing different entry points or as defined by them as ‘different pathways’ to the book based on the user profile or persona (see reference for [persona and pathways](https://the-turing-way.netlify.app/project-design/persona.html)). For example, the screenshot below shows four pathways for users who attend a Data Study Group or are PhD Students, Group Leaders or Life Scientists.
 
@@ -29,10 +29,10 @@ In 2022, the team developed a [Python Package](https://github.com/alan-turing-in
 ## My Application in detail
 
 
-In my application, I focus on the technical improvement of a Python Package developed for enhancing the accessibility of The Turing Way. Emphasizing of the user experience and how the content of the book is served to them based on the ‘persona’ or profile they choose to browse curated content (defined as Pathway), I have described my ideas in the following three steps: 
+In my application, I focus on the technical improvement of a Python Package developed for enhancing the accessibility of The Turing Way. Emphasizing of the user experience and how the content of the book is served to them based on the ‘persona’ or profile they choose to browse curated content (defined as Pathway), I have described my ideas in the following three steps:
 
-1. **Making the browsing experience less confusing** by modifying chapter links and profile tag based on a selected ‘pathway’, rather than displaying all tags associated with a chapter (which is the current problem). 
-2. **Adding a feature to provide a description for each pathway** (associated with the user profiles) which will improve user experience allowing meaningful use of books by all profile types. 
+1. **Making the browsing experience less confusing** by modifying chapter links and profile tag based on a selected ‘pathway’, rather than displaying all tags associated with a chapter (which is the current problem).
+2. **Adding a feature to provide a description for each pathway** (associated with the user profiles) which will improve user experience allowing meaningful use of books by all profile types.
 3. **Implementing the solutions proposed in this application** and integrating them to The Turing Way via the open source framework (collaborative development on a GitHub branch, pull request to invite code review and merging the changes in agreement with the project leads/mentors).
 
 
@@ -40,11 +40,11 @@ In my application, I focus on the technical improvement of a Python Package deve
 
 **Technical Improvements to make browsing experience less confusing**
 
-### <span style="text-decoration:underline;">Problem:</span> 
+### <span style="text-decoration:underline;">Problem:</span>
 
 When you visit a chapter within a profile-specific page, you will see all profile tags/labels/shields where this chapter is selected (the same chapter can be curated for multiple profiles). All tags/labels/shields appear on the top of the page. It will be helpful to have only the original profile (where the user clicked) on the top, and the rest could be hidden to avoid confusion. This may need some planning and development of a new Python Class.
 
-**Approach & Basic Idea** 
+**Approach & Basic Idea**
 
 When a user visits a profile page, all hyperlinks corresponding to the chapters of the selected profile will be modified by adding the selected profile details (name, colour) as a  search parameter of the hyperlink. When a user visits any of the chapters, the search parameter is retrieved and the details of the profile are used for modifying the profile tag.
 
@@ -57,16 +57,16 @@ This can be implemented with the help of JavaScript. Jupyter Notebook Markdown a
 
 **Step 1: Modifying the chapter links**
 
- The write_content function in the LandingPage class ( landing_page.py file) is modified by adding js code as a multiline string. The LandingPage class uses mdutils (python library) to create and manipulate markdown formatted text. By using the .write() method of mdutils we can add the raw code to the corresponding markdown files. 
+ The write_content function in the LandingPage class ( landing_page.py file) is modified by adding js code as a multiline string. The LandingPage class uses mdutils (python library) to create and manipulate markdown formatted text. By using the .write() method of mdutils we can add the raw code to the corresponding markdown files.
 
 <!--![alt_text](images/image3.png "image_tooltip")-->
 
 
-The JavaScript code above selects all the links on the page and retrieves the current url path. It then extracts the last part of the url, replaces html extension and hyphens with spaces to get the selected profile name. Finally, it modifies each chapter link by adding a search parameter called pathway having the extracted profile name as its value. 
+The JavaScript code above selects all the links on the page and retrieves the current url path. It then extracts the last part of the url, replaces html extension and hyphens with spaces to get the selected profile name. Finally, it modifies each chapter link by adding a search parameter called pathway having the extracted profile name as its value.
 
 **Step 2: Modifying the profile tag/labels to fix the issue**
 
-The badge.py file handles all badge-related functionalities.  In the "generate_shields_link" function, the URL of the badge is modified by replacing the message=landing name with message=text. This will create a sample badge element.   
+The badge.py file handles all badge-related functionalities.  In the "generate_shields_link" function, the URL of the badge is modified by replacing the message=landing name with message=text. This will create a sample badge element.
 
 <!--![alt_text](images/image4.png "image_tooltip")-->
 
@@ -78,7 +78,7 @@ Then the  insert_badges function is modified by adding the JavaScript code as a 
 <!--![alt_text](images/image6.png "image_tooltip")-->
 
 
-The above js code selects all the img tags having src  equals to "[https://img.shields.io/static/v1?label=pathway&message=text](https://img.shields.io/static/v1?label=pathway&message=text)". Then using URLSearchParams it gets the value of the search parameter pathway. Then it loops through each selected img tag and modifies the src attribute with a new url having the value of the pathway parameter. 
+The above js code selects all the img tags having src  equals to "[https://img.shields.io/static/v1?label=pathway&message=text](https://img.shields.io/static/v1?label=pathway&message=text)". Then using URLSearchParams it gets the value of the search parameter pathway. Then it loops through each selected img tag and modifies the src attribute with a new url having the value of the pathway parameter.
 
 
 1. **Adding a feature to provide a description for each pathway (making it attractive)**
@@ -98,18 +98,18 @@ The generate_landing_page function in main.py and LandingPage class in landing_p
 <!--![alt_text](images/image9.png "image_tooltip")-->
 
 
-The pathways function in main.py is modified by adding profile[“description”]. Using profile[“description”] we will get the value of the description. 
+The pathways function in main.py is modified by adding profile[“description”]. Using profile[“description”] we will get the value of the description.
 
 <!--![alt_text](images/image10.png "image_tooltip")-->
 
 
-The write_content function is modified by adding the following code 
+The write_content function is modified by adding the following code
 
 **_self.md_file.new_paragraph(self.description)_**
 
-The code snippet uses the new_paragraph() method of mdutils class to add a new paragraph to the markdown. The self.description is added as an argument to the new_paragraph() method so that the value of self.description will be included as the text of the new paragraph. 
+The code snippet uses the new_paragraph() method of mdutils class to add a new paragraph to the markdown. The self.description is added as an argument to the new_paragraph() method so that the value of self.description will be included as the text of the new paragraph.
 
-Finally, we will get this UI. Here I have used a dummy text. More UI enhancements such as reducing the size of the heading “Table Of Contents” can also be added 
+Finally, we will get this UI. Here I have used a dummy text. More UI enhancements such as reducing the size of the heading “Table Of Contents” can also be added
 
 <!--![alt_text](images/image11.png "image_tooltip")-->
 
@@ -118,10 +118,10 @@ Finally, we will get this UI. Here I have used a dummy text. More UI enhancement
 To integrate the changes that I will have made as described in this application, I will create a pull request following a reference provided by The Turing Way mentors ([https://github.com/alan-turing-institute/the-turing-way/pull/2246](https://github.com/alan-turing-institute/the-turing-way/pull/2246)). I will include a detailed description of the changes I have  made, the issues I've addressed, and the improvements I have implemented.
 
 
-## Additional ‘if time allows’ deliverables 
+## Additional ‘if time allows’ deliverables
 
 
-There are a few more ideas I would like to implement if the time allows, some of which are mentioned below. 
+There are a few more ideas I would like to implement if the time allows, some of which are mentioned below.
 
 * During the exploration phase I noticed that there are repetitions of badges. This seems like an error from the testing phase, which can be easily fixed by making changes to the badge.py file. I plan to fix this with a pull request.
 
@@ -161,8 +161,8 @@ Share prototype with the mentors (until May 29)
 
 I will officially start working on the first two steps described in my application:
 
-* **Making the browsing experience less confusing** by modifying chapter links and profile tags based on a selected ‘pathway’, rather than displaying all tags associated with a chapter (which is the current problem). 
-* **Providing better, more understandable description for each pathway** and their landing pages (associated with the user profiles), which will improve user experience allowing meaningful use of books by all profile types. 
+* **Making the browsing experience less confusing** by modifying chapter links and profile tags based on a selected ‘pathway’, rather than displaying all tags associated with a chapter (which is the current problem).
+* **Providing better, more understandable description for each pathway** and their landing pages (associated with the user profiles), which will improve user experience allowing meaningful use of books by all profile types.
 
 ### **July 10 - July 14**
 
@@ -189,34 +189,34 @@ I will officially start working on the first two steps described in my applicati
 * If an extension would be required, I will catch up on any backlog from the previously described timeline
 
 
-## Plan for communication with mentors: 
+## Plan for communication with mentors:
 
-I would be regularly updating my mentors about my work and progress. I will be joining community coworking calls with Malvika Sharan (Co-Lead and Mentor), Johanna Bayer (Mentor), and Anne Lee Steele (Community Manager). 
+I would be regularly updating my mentors about my work and progress. I will be joining community coworking calls with Malvika Sharan (Co-Lead and Mentor), Johanna Bayer (Mentor), and Anne Lee Steele (Community Manager).
 
-I have also applied to attend their biannual event, Book Dash and hoping to learn how the team works with the community. 
+I have also applied to attend their biannual event, Book Dash and hoping to learn how the team works with the community.
 
 
-## About Me : 
+## About Me :
 
 **_Short summary of my past experience  _**
 
-I am an undergraduate, currently pursuing a bachelor of technology in computer science engineering with a specialization in artificial intelligence. I am skilled in Python, HTML, CSS, JavaScript and React. I have worked on various projects related to web development. Also, I have worked with Jupyter notebooks as a part of my Machine Learning Projects. 
+I am an undergraduate, currently pursuing a bachelor of technology in computer science engineering with a specialization in artificial intelligence. I am skilled in Python, HTML, CSS, JavaScript and React. I have worked on various projects related to web development. Also, I have worked with Jupyter notebooks as a part of my Machine Learning Projects.
 
-I was a web developer intern at [Traboda](https://traboda.com/) ([certificate](https://drive.google.com/file/d/1TU8DJQocJWlBh483ID9hkxikkwKx_Zrl/view?usp=share_link)) where I worked with a major focus on front end web development. My experience with [Traboda](https://traboda.com/) helped me in improving my web development skills. I was also an active member of an open source club at my college called [amFOSS](https://amfoss.in/). My experience with amFOSS helped me in gaining knowledge about git, open source. I have participated in hackathons and coding competitions as well which gave me a good foundation on software development. 
+I was a web developer intern at [Traboda](https://traboda.com/) ([certificate](https://drive.google.com/file/d/1TU8DJQocJWlBh483ID9hkxikkwKx_Zrl/view?usp=share_link)) where I worked with a major focus on front end web development. My experience with [Traboda](https://traboda.com/) helped me in improving my web development skills. I was also an active member of an open source club at my college called [amFOSS](https://amfoss.in/). My experience with amFOSS helped me in gaining knowledge about git, open source. I have participated in hackathons and coding competitions as well which gave me a good foundation on software development.
 
 **_Motivation - why do I want to do this project_**
 
-The aim of The Turing Way is to make data research accessible to a wider research community. The project enables experts in various domains to share their knowledge. I would like to be part of a community focused on sharing knowledge and if I could make improvements which enhance the experience of its users, I would be happy to do so.                    
+The aim of The Turing Way is to make data research accessible to a wider research community. The project enables experts in various domains to share their knowledge. I would like to be part of a community focused on sharing knowledge and if I could make improvements which enhance the experience of its users, I would be happy to do so.
 
 Moreover, this project involves improving a Python package which could improve the user experience of The Turing Way book website. I have a huge interest in web development,  improving user interfaces and enhancing the user experience. The project based on the proposed idea requires the use of JavaScript and Python. Both these tech stacks are familiar to me. Doing this project will give me an opportunity to expand my knowledge of these tech stacks as well.
 
 **_Match - the project I've worked on in the past that would make me a good candidate for this project_**
 
-Being a student learning AI. I have to use Python a lot and I have used Python for implementing various machine learning projects. I also contributed to the development of a Python-based desktop application 
+Being a student learning AI. I have to use Python a lot and I have used Python for implementing various machine learning projects. I also contributed to the development of a Python-based desktop application
 
 - link to Github repo:  [https://github.com/arya1302/Data-Compression-LZW](https://github.com/arya1302/Data-Compression-LZW)
 
-I worked as a web developer intern at [Traboda](https://traboda.com/) which is an organization focused on building cybersecurity ed-tech platforms. During my internship at [Traboda](https://traboda.com/),  I implemented new UI features for the Cyber Fundamentals Learning Platform (Academy) and fixed certain bugs on the CTF hosting platform (Arena). The experience helped me in gaining sufficient knowledge to enhance the user interface using JavaScript. 
+I worked as a web developer intern at [Traboda](https://traboda.com/) which is an organization focused on building cybersecurity ed-tech platforms. During my internship at [Traboda](https://traboda.com/),  I implemented new UI features for the Cyber Fundamentals Learning Platform (Academy) and fixed certain bugs on the CTF hosting platform (Arena). The experience helped me in gaining sufficient knowledge to enhance the user interface using JavaScript.
 
 **_You can apply for up to three projects. Is this the only project that you will apply for?_**
 
@@ -224,6 +224,6 @@ _ _Yes this is the only project I am applying for. I would like to focus on this
 
 **_Working time - how many hours per week do you plan to work, and how will you divide your time?_**
 
-I will work after my college university classes. On weekends I will get more time to work on the project. 
+I will work after my college university classes. On weekends I will get more time to work on the project.
 
-My end-semester exams will be starting from May 29th onwards. It will last about two weeks. I will try my best to finish the work before the start of my end semester exams and if I am still faced with some pending work, I will be able to catch up and manage my work after the exams by putting in more time and effort. 
+My end-semester exams will be starting from May 29th onwards. It will last about two weeks. I will try my best to finish the work before the start of my end semester exams and if I am still faced with some pending work, I will be able to catch up and manage my work after the exams by putting in more time and effort.

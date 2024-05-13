@@ -91,7 +91,7 @@ You can cite _The Turing Way_ through the project's Zenodo archive using DOI: [1
 
 The citation will look something like:
 
-> The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research. Zenodo. doi: 10.5281/zenodo.3233853. 
+> The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research. Zenodo. doi: 10.5281/zenodo.3233853.
 
 Please visit the [DOI link](https://doi.org/10.5281/zenodo.3233853) though to get the most recent version - the one above is not automatically generated and may be out of date.
 DOIs allow us to archive the repository and are useful for tracking the work in academic publications.

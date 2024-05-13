@@ -37,10 +37,10 @@ The team defined their guidelines to account for regional differences and avoid 
 They describe the whole process (in Spanish) [here](https://teachtogether.tech/es/index.html#s:traduccion) and an adaptation of their guidelines to English can be found [here](https://github.com/gvwilson/teachtogether.tech#translations).
 
 Document the translation guidelines for your selected language to be discussed and updated by the rest of the team.
-Every team has a repository with these guidelines in the GitHub organisation. 
+Every team has a repository with these guidelines in the GitHub organisation.
 Check examples for
 [Portuguese](https://github.com/TWTranslation/Portuguese_specific_translation_guidelines), [Arabic](https://github.com/TWTranslation/Arabic-specific-Translation-rules), and [Turkish](https://github.com/TWTranslation/Turkish-specific-Translation-rules).
-We have also set up a public page for _The Turing Way_ in [Crowdin](https://turingway.crowdin.com/turing-way) with a README file summarising some of the translation guidelines. 
+We have also set up a public page for _The Turing Way_ in [Crowdin](https://turingway.crowdin.com/turing-way) with a README file summarising some of the translation guidelines.
 Make sure you read these guidelines before you start translating for the first time.
 
 
@@ -56,8 +56,8 @@ In order to facilitate and speed up the translation of a new language, we recomm
 _The Turing Way_ project is linked with the translation memory of a previous version translated in Transifex and another translation for [Open Life Science](https://openlifesci.org/) materials in OLS.
 
 Translation consistency is crucial and can be made easier when the TMS is used.
-As soon as you started translating your project, machine learning algorithms engage, and the system shows previous translations for the source words and how often they were used in the project[^1]. 
-For example, in Crowdin, you can hover over the source words underlined with the light dashed line to see the previous translations formed by the translation consistency feature. 
+As soon as you started translating your project, machine learning algorithms engage, and the system shows previous translations for the source words and how often they were used in the project[^1].
+For example, in Crowdin, you can hover over the source words underlined with the light dashed line to see the previous translations formed by the translation consistency feature.
 You can also search earlier translations for specific source words using the Search TM tab.
 
 ```{figure} ../../figures/translation-consistency-previous-translations-editor.*
@@ -73,7 +73,7 @@ alt: Checking consistency in Crowdin by hovering over the source words underline
 
 We have teams for each language, so that no one works alone.
 Each team can decide roles for their project members.
-In the translation platform, these roles can translate into having different permissions. 
+In the translation platform, these roles can translate into having different permissions.
 Roles in Crowdin include manager, translator, and proofreader.
 - **Manager** – has similar rights as a project owner except for the ability to manage some of the owner's Resources (for instance, configuring MT engines, advanced workflows, and more) and delete projects.
 - **Proofreader** – can translate and approve strings.
@@ -90,15 +90,15 @@ alt: An illustration showing how translation memory can speed up the crowdsourci
 Illustration of translation as a way to reach global accessibility. _The Turing Way_ project illustration by Scriberia.
 Used under a CC-BY 4.0 licence.
 DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
-```  
+```
 
 
-In each co-working or external session, prioritise those chapters that are outdated or close to completion. 
+In each co-working or external session, prioritise those chapters that are outdated or close to completion.
 Check out our {ref}`guidelines<ch-translation-localisation-journey>` for a list of the priorities.
 
 # Translation is a continuous process
 
-As _The Turing Way_ content grows, the translated content does too. 
+As _The Turing Way_ content grows, the translated content does too.
 We strongly encourage monitoring the new content and updating the translation fork regularly.
 While updates of the translated content might change according to the availability of resources, it is good practice to:
 

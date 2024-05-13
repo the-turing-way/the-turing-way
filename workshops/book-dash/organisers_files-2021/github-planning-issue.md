@@ -15,9 +15,9 @@ We have created the following checklists, which are chronologically structured t
 - [ ] Set up an online platform ([Zoom](https://zoom.us/), or other accessible software) for remote collaboration
 - [ ] Discuss with co-organisers if some resources (such as email drafts or templates) need to be updated
 - [ ] Clearly state the following information in an application form and later communicate by email with the selected participants:
-  -   what financial support will be available for either online or in-person events 
-  -  What arrangements will be available online (such as online helpers and designated mentors) or on-site (such as quiet room and child care) for in-person events 
-  -  Include accessibility information such as live captioning for in-person events and quiet room/child nursing room for in-person events 
+  -   what financial support will be available for either online or in-person events
+  -  What arrangements will be available online (such as online helpers and designated mentors) or on-site (such as quiet room and child care) for in-person events
+  -  Include accessibility information such as live captioning for in-person events and quiet room/child nursing room for in-person events
   - Mention the maximum limit for financial support requests for online (such as for headphones) and in-person (such as for travel and accommodation) events
 - [ ] Set up the Book Dash Planning meeting to discuss these details before the announcement is sent out
   -  Find volunteers from the organisers who would like to host onboarding calls (1 week before the event)

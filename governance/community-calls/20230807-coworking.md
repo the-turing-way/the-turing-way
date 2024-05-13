@@ -24,7 +24,7 @@
 * Widening participation workshop: Cass, Emma, Eirini
 * RAMs: Hari & Jen
 * DSH - Ways of Work:
-* Quiet room: Batool, Anne 
+* Quiet room: Batool, Anne
 * Book Dash: Mishka, Anne
 
 ## Notes

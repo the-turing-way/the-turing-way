@@ -109,7 +109,7 @@ Camila Rangel Smith is a Research Data Scientist at The Alan Turing Institute.
 She is also a co-founder of the [CEVALE2VE project](http://www.cevale2ve.org/en/home/) that has become consolidated into [LA-CoNGA Physics](http://laconga.redclara.net/), an EU Erasmus+ funded project with a mission to create a Latin American and European Community for Advanced Physics.
 She is translating _The Turing Way_ resources into Spanish in collaboration with her friends and colleagues from Venezuela and Spain.
 
-In her words: 
+In her words:
 
 > "I think The Turing Way is an excellent resource that can change the way science is done (I wish I had it when I started my PhD).
 > Although the international language of science is English, I know for a fact that not everyone in places like Latin-America has the time and resources to learn it, so I think we must do everything we can to break those barriers and improve the accessibility of knowledge for everyone.

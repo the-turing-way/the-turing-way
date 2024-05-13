@@ -5,15 +5,15 @@ Dear friends of the Turing Way,
 It's been almost a month since we announced the project and we've made great progress since then that we think you should know about.
 
 ## Workshops
-We still have spots available for our workshops in March. 
-We can provide financial support to cover travel, accommodation or childcare costs to make it easier for you to attend. 
+We still have spots available for our workshops in March.
+We can provide financial support to cover travel, accommodation or childcare costs to make it easier for you to attend.
 Please get in touch at theturingway@gmail.com to let us know how we can support you.
 We start at 10am with coffee from 9:30am and finish at 4pm.
 You're welcome to hang out for an extra hour until 5pm but we'll officially finish at 4pm so that anyone with childcare responsibilities can get home!
 
 ### Boost your reproducibility with binder
 
-During this free workshop we will discuss reproducible computing environments, show examples of others’ projects in myBinder.org and help you learn how to prepare a binder-ready project. 
+During this free workshop we will discuss reproducible computing environments, show examples of others’ projects in myBinder.org and help you learn how to prepare a binder-ready project.
 At the end of the workshop you will be able to take some of your own content (in a R or Jupyter notebook, or scripts that can be run in the terminal) and prepare it so that it can be used by others on myBinder.org.
 
 **Agenda**
@@ -33,8 +33,8 @@ At the end of the workshop you will be able to take some of your own content (in
 
 ### Build a BinderHub workshop
 
-During this free workshop we will demonstrate how to build your own BinderHub on Microsoft Azure cloud computing resources. 
-We will help you get started with building a BinderHub on your institution's computing platform and discuss the challenges of maintaining a BinderHub. 
+During this free workshop we will demonstrate how to build your own BinderHub on Microsoft Azure cloud computing resources.
+We will help you get started with building a BinderHub on your institution's computing platform and discuss the challenges of maintaining a BinderHub.
 At the end of the workshop you will know why this would be a useful resource for your team, and will know where to look for help and support building your institution's BinderHub.
 
 * 9.30 - 10.00: Registration, coffee and introductions
@@ -52,20 +52,20 @@ At the end of the workshop you will know why this would be a useful resource for
 
 ## Handbook
 
-Three chapters are written and ready for your comments! 
-[Version Control](https://github.com/alan-turing-institute/the-turing-way/blob/main/chapters/version_control.md), [Reproducibility](https://github.com/alan-turing-institute/the-turing-way/blob/main/chapters/reproducibility.md) and [Open Research](https://github.com/alan-turing-institute/the-turing-way/blob/main/chapters/open_research.md) are ready for feedback.  
-We're currently working on the chapters on Research Data Management, Reproducible Computing Environments, Testing, and Continuous Integration. 
-You can follow the progress through the [pull requests on our GitHub repsoitory](https://github.com/alan-turing-institute/the-turing-way/pulls): [#146](https://github.com/alan-turing-institute/the-turing-way/pull/146), [#147](https://github.com/alan-turing-institute/the-turing-way/pull/147) & [#148](https://github.com/alan-turing-institute/the-turing-way/pull/148).  
-We're still building up our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way) to make sure it's easy for you to feed back and add your knowledge to the Turing Way. 
+Three chapters are written and ready for your comments!
+[Version Control](https://github.com/alan-turing-institute/the-turing-way/blob/main/chapters/version_control.md), [Reproducibility](https://github.com/alan-turing-institute/the-turing-way/blob/main/chapters/reproducibility.md) and [Open Research](https://github.com/alan-turing-institute/the-turing-way/blob/main/chapters/open_research.md) are ready for feedback.
+We're currently working on the chapters on Research Data Management, Reproducible Computing Environments, Testing, and Continuous Integration.
+You can follow the progress through the [pull requests on our GitHub repsoitory](https://github.com/alan-turing-institute/the-turing-way/pulls): [#146](https://github.com/alan-turing-institute/the-turing-way/pull/146), [#147](https://github.com/alan-turing-institute/the-turing-way/pull/147) & [#148](https://github.com/alan-turing-institute/the-turing-way/pull/148).
+We're still building up our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way) to make sure it's easy for you to feed back and add your knowledge to the Turing Way.
 In the meantime, creating an issue on [GitHub](https://github.com/alan-turing-institute/the-turing-way/issues) or pinging us on [our gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) is always a good start!
 
 ## Talks
 The team has been spreading the word about the Turing Way project through various talks:
-* Kirstie Whitaker presented at the Cambridge Psychiatry PI Day on 30 January 2019. 
+* Kirstie Whitaker presented at the Cambridge Psychiatry PI Day on 30 January 2019.
 Her slides can be found on [figshare](https://doi.org/10.6084/m9.figshare.7649156).
-* Sarah Gibson presented at the [UKRI Cloud workshop](https://cloud.ac.uk/workshops/feb2019/). 
+* Sarah Gibson presented at the [UKRI Cloud workshop](https://cloud.ac.uk/workshops/feb2019/).
 Resources for her talk can be found [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/conferences/presentations/UKRI_cloud_2019-02-12/UKRI_cloud_demo_2019-02-12.md).
-* Patricia Herterich introduced the Turing Way to the Birmingham Hacker Within community on 18 February 2019. 
+* Patricia Herterich introduced the Turing Way to the Birmingham Hacker Within community on 18 February 2019.
 Slides for her talk are published on [zenodo](http://doi.org/10.5281/zenodo.2566430).
 
 ## Where to meet us in the next weeks
@@ -83,5 +83,5 @@ To add your advice to the handbook, please fill out our quick [submission form](
 
 Thank you for reading, and we look forward to your contributions!
 
-The Turing Way project team  
+The Turing Way project team
 https://github.com/alan-turing-institute/the-turing-way

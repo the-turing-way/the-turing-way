@@ -56,12 +56,12 @@ Name / Institute or affiliation / What specific aspect of GitHub do you find cha
 * You are your number 1 collaborator in six months time! Commits and documentation are important :) We deserve kindness to ourselves and have clear commit messages!
 * If people don't see what is happening it is difficult for them to collaborate with you
 * For reviews: It is helpful to add comments, but even more helpful if you can directly make suggested changes in your review comments
-* 
-* 
-* 
-* 
+*
+*
+*
+*
 
-**References**: 
+**References**:
 - [Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/) and [Friendly GitHub Intro by Kirstie Whitaker](https://github.com/KirstieJane/friendly-github-intro)
 - Visual description: [https://learngitbranching.js.org/](https://learngitbranching.js.org/) (great resource for learning Git!)
 
@@ -78,17 +78,17 @@ Name / Institute or affiliation / What specific aspect of GitHub do you find cha
   - [Writing on Github](https://help.github.com/categories/writing-on-github/)
   - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [Git workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
- 
+
 **Questions / Comments?**
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 **Feedback**
 

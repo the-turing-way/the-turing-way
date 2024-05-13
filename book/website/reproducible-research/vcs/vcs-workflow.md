@@ -10,7 +10,7 @@ A typical procedure for using version control is as follows:
 3. Create a snapshot of the file status (also known as version) at this time.
 4. Document what was changed in the version history of that file.
 
-The snapshot process is often done manually for text or presentation documents (for instance by naming files with the suffixes `v01`, `v02` and so on). 
+The snapshot process is often done manually for text or presentation documents (for instance by naming files with the suffixes `v01`, `v02` and so on).
 A description of the changes for each version is sometimes made via an external document like a spreadsheet.
 Finding the latest version can also be facilitated by putting old versions in a subfolder.
 This manual process is not very practical when a lot of files are changing, like when one creates code or work with data.

@@ -14,7 +14,7 @@ This allows the core team members to offer specific mentorship to the invited pa
 To fairly make this selection, a call for applications is opened at least two months in advance so that interested members can share their skills, interest, and expected outcomes through a short application.
 The applications are kept open for a minimum of 4 weeks and the timeline is communicated clearly through our newsletters, X (formerly Twitter) feed, and application form.
 
-This application can take 30-45 minutes to complete. 
+This application can take 30-45 minutes to complete.
 We have created this template document with all the questions to prepare a draft before submission: https://tinyurl.com/tw-bookdash-template.
 
 We continue to think of ways to ensure privacy and data protection.

@@ -60,10 +60,10 @@ If you can't attend the GitHub Introduction Sessions, please check the following
 :lower_left_paintbrush: Artists at Book Dash - Stef
 ---
 
--- We will have an artist - Stef - at the event who you would be able to interact with to help develop illustration relevant to your contribution to The Turing Way 
-  - 17 November, 2022 
-  - Please use this HackMD to check to see if other projects have booked to work with the artist: 
-- Info to work with the artist at this hackmd: https://hackmd.io/@turingway/bookdash-nov2022-scriberia 
+-- We will have an artist - Stef - at the event who you would be able to interact with to help develop illustration relevant to your contribution to The Turing Way
+  - 17 November, 2022
+  - Please use this HackMD to check to see if other projects have booked to work with the artist:
+- Info to work with the artist at this hackmd: https://hackmd.io/@turingway/bookdash-nov2022-scriberia
 
 In our previous Book Dash events, we have worked with Scriberia artists.
 - See reusable images from previous book dash events: [Zenodo link](https://zenodo.org/record/3332807)
@@ -139,7 +139,7 @@ HackMD archive: https://hackmd.io/@turingway/bookdash-nov2022-day3
 * 14:00 - 16:30 / Esther / Esther Plomp, Emma Karoune, Elisa Rodenburg
 * 17:00 - 19:30 / Esther / Esther Plomp, Aman Goel, Andrea Sanchez-Tapia, Anne Fouilloux, Liz Hare, Melissa Black, Alejandro Coca-Castro
 
-==*Show & Tell Social Meal: 11:30 - 13:00*== 
+==*Show & Tell Social Meal: 11:30 - 13:00*==
 
 We will use take a mid-sprint break and get to know each other through a “show and tell” hosted breakfast/lunch/dinner session (whichever meal is most appropriate for where you are).
 
@@ -202,25 +202,25 @@ In this session, all the contributors including the Book Dash attendees will hav
 :heavy_plus_sign::arrow_up_small: Pluses and deltas - Final Feedback Document
 ---
 
-**IMPORTANT:** Please take a few minutes to share 
-- **bio and highlights** as a comment under issue: https://github.com/alan-turing-institute/the-turing-way/issues/2723 
+**IMPORTANT:** Please take a few minutes to share
+- **bio and highlights** as a comment under issue: https://github.com/alan-turing-institute/the-turing-way/issues/2723
 - **feedback** - pluses and delta from the event: https://pad.sfconservancy.org/p/ttw-bookdash-nov2022-feedback / HackMD: https://hackmd.io/@turingway/bookdash-nov2022-feedback
 
-_These will be extremely valuable for us to explain to our funders why this event was valuable, and to learn about your experience, what you enjoyed and how we can improve future events._ 
+_These will be extremely valuable for us to explain to our funders why this event was valuable, and to learn about your experience, what you enjoyed and how we can improve future events._
 
 Any day-to-day feedback during the event can be directly shared in the main event document.
 
 :moneybag: Support grant and subsistence cost: Reimbursement guidelines
 ---
 
-**For the Book Dash Participants: Expenses Guidance** 
+**For the Book Dash Participants: Expenses Guidance**
 
-**What is covered?** 
+**What is covered?**
 
 -   Food & non-alcoholic drinks up to £50 (you can use this towards groceries to sustain your participation during the book dash)
--   Accessibility items or costs up to £75  
+-   Accessibility items or costs up to £75
 
-**Requirements** 
+**Requirements**
 
 -   Expenses will be reimbursed after the Book Dash
 -   Participants will need to provide receipts for all expenses when they submit for reimbursement
@@ -230,7 +230,7 @@ Any day-to-day feedback during the event can be directly shared in the main even
 
 :round_pushpin: Report
 ---
-    
+
 The Turing Way Book Dash committee will co-develop a report providing an overview from the event: https://hackmd.io/@turingway/bookdash-nov2022
 
 :books: _The Turing Way_ links and resources
@@ -265,7 +265,7 @@ The Turing Way Book Dash committee will co-develop a report providing an overvie
 
 ## :gift: Your contribution to the project
 
-**Please read and follow our project [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)!** :sparkles: 
+**Please read and follow our project [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)!** :sparkles:
 
 If you find them confusing, difficult to follow or think that information needs to be added, please let us know! This will help us improve the contributing experience for everyone going forward.
 
@@ -286,7 +286,7 @@ The tl;dr version for easy reference during dashing:
 
 **What types of contributions can you make?**
 
-* Reviewers for your Book Dash application have suggested a few specific topics for each of you 
+* Reviewers for your Book Dash application have suggested a few specific topics for each of you
 * You can also collaborate with others or start slowly by checking out the list of [open issues](https://github.com/alan-turing-institute/the-turing-way/issues)
 * Proofread [existing chapters](https://the-turing-way.netlify.com) (check for typos, grammar, links, etc.)
 * Add further information to an existing chapter

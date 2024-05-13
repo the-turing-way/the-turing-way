@@ -179,11 +179,11 @@ If the report is about someone is the committee, please send the report to the o
 This code is adapted from the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)  with sections from the [Alan Turing Institute Data Study Group Code of Conduct](https://docs.google.com/document/d/1iv2cizNPUwtEhHqaezAzjIoKkaIX02f7XbYmFMXDTGY/edit).
 Both are used under the creative commons attribution license.
 
-The Carpentries Code of Conduct was adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative template](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). 
-Contributors to the initial document are Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, and Tracy Teal. 
-In 2018, the Code of Conduct was revised to add a summary, straightforward examples of both beneficial and unwanted behaviors, and evaluating intent. 
-Reporting guidelines were also revised to include alternate contact points and a reporting form with the procedure was added. 
-Contributors of these revised documents are Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman. 
+The Carpentries Code of Conduct was adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative template](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/).
+Contributors to the initial document are Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, and Tracy Teal.
+In 2018, the Code of Conduct was revised to add a summary, straightforward examples of both beneficial and unwanted behaviors, and evaluating intent.
+Reporting guidelines were also revised to include alternate contact points and a reporting form with the procedure was added.
+Contributors of these revised documents are Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
 Additional language was added by Otter Tech from the PyCon U.S. 2018 Code of Conduct (licensed CC BY 3.0).
 
 The Turing Institute Data Study Group Code of Conduct was heavily adapted from the [Citizen Lab Summer Institute 2017 Code of Conduct](https://citizenlab.ca/summerinstitute/codeofconduct.html) and used under a CC BY 2.5 CA license.

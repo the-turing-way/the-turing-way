@@ -5,7 +5,7 @@
 ==If you are new to HackMD, please see this short guide: [https://hackmd.io/@turingway/hackmd-guide](https://hackmd.io/@turingway/hackmd-guide)==
 
 :::info
-- **Location:** Online 
+- **Location:** Online
 - **Date:** DD Month YYYY
 - **Document with all links:** https://hackmd.io/@turingway/bookdash-may2022-index
 :::
@@ -34,15 +34,15 @@ All time provided in London Time (UTC). Please use this link to convert in your 
 
 ## Groupings for breakout rooms based on the topics of interest:
 
-> Feel free to move between the breakout rooms! 
+> Feel free to move between the breakout rooms!
 
 <!-- Update this
-**Room 1**: **Data Sharing (sensitive data, metadata, etc.)**: 
-**Room 2**: **Ethics**: 
-**Room 3**: **Research infrastructure** (people, roles, support): 
-**Room 4**: **Analysis pipelines/workflow**: 
-**Room 5**: **Publishing research (process, results, peer review, etc)**: 
-**Room 6:** **Data visualisation**: 
+**Room 1**: **Data Sharing (sensitive data, metadata, etc.)**:
+**Room 2**: **Ethics**:
+**Room 3**: **Research infrastructure** (people, roles, support):
+**Room 4**: **Analysis pipelines/workflow**:
+**Room 5**: **Publishing research (process, results, peer review, etc)**:
+**Room 6:** **Data visualisation**:
 **Room 7**: **Translation process**:
 -->
 
@@ -53,7 +53,7 @@ All time provided in London Time (UTC). Please use this link to convert in your 
 
 *Please add your name to this list, but remember that this is a public document, so use a pseudonym if you'd prefer, or just feel free to leave your name off.*
 
-*Name (pronouns - optional) / Institute / Twitter, GitHub / icebreaker: What song/music/artist/album puts you in a "good" mood!* :musical_score: 
+*Name (pronouns - optional) / Institute / Twitter, GitHub / icebreaker: What song/music/artist/album puts you in a "good" mood!* :musical_score:
 
 *
 *
@@ -136,7 +136,7 @@ Name/Comment
 | Time (UTC)    |              Suggested agenda |
 | ------------- | -----------------------------:|
 | 11:00 - 11:30 |    Introduction, coffee chats |
-| 11:30 - 12:20 | Social Discussion/Networking: Emergent Leadership | 
+| 11:30 - 12:20 | Social Discussion/Networking: Emergent Leadership |
 | 12:20 - 12:30 |          Wrap-up, coffee chat |
 
 
@@ -173,7 +173,7 @@ Name/Comment
 | 10:05 - 10:15am | 15:05 - 15:15 |           Quick report out |
 | 10:15 - 10:50am | 15:15 - 15:50 |   Second Pomodoro :tomato: |
 | 10:50 - 11:00am | 15:50 - 16:00 |           Quick report out |
-| 11:00 - 11:30am | 16:00 - 16:30 |Troubleshoot, mentored-work | 
+| 11:00 - 11:30am | 16:00 - 16:30 |Troubleshoot, mentored-work |
 
 *Notes from Development session (time block 3)*
 
@@ -185,7 +185,7 @@ Name/Comment
 | 17:15 - 18:05 | Onboarding and  resources |
 | 18:00 - 18:45 | Second Pomodoro :tomato: |
 | 18:45 - 18:55 | Quick report out |
-| 19:00 - 19:30 | Troubleshoot, mentored-work | 
+| 19:00 - 19:30 | Troubleshoot, mentored-work |
 
 *Notes from Development session (time block 4)*
 
@@ -204,4 +204,3 @@ Name/Comment
 *
 *
 *
-

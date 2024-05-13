@@ -19,7 +19,7 @@
 
 [TOC]
 
-:sunflower: Welcome!  
+:sunflower: Welcome!
 ---
 
 This call is scheduled for the invited participants of the next Book Dash event hosted by The Turing Way taking place from DD to DD Month YYYY online.
@@ -45,10 +45,10 @@ Please see more details on [the project](https://github.com/alan-turing-institut
 
 - Chairs:
 
-*Name (optional: pronouns) - "icebreaker: your favorite collaborative project or tool"* 
-*  
-* 
-* 
+*Name (optional: pronouns) - "icebreaker: your favorite collaborative project or tool"*
+*
+*
+*
 
 ### Call 2: 17:00 - 18:00 London time ([in your time zone](https://arewemeetingyet.com/London/2021-11-02/17:00)), Sign up below <-- Update this
 
@@ -56,10 +56,10 @@ Please see more details on [the project](https://github.com/alan-turing-institut
 
 - Chairs:
 
-*Name (optional: pronouns) - "icebreaker: your favorite collaborative project or tool"* 
-*  
-* 
-* 
+*Name (optional: pronouns) - "icebreaker: your favorite collaborative project or tool"*
+*
+*
+*
 
 :information_source: About _The Turing Way_ and the Book Dash
 ---
@@ -72,9 +72,9 @@ Please see more details on [the project](https://github.com/alan-turing-institut
 
 :dart: Goal setting exercise: Breakout
 ---
-We would like to help create some plans and topics they you would like to explore for your contributions in _The Turing Way_. 
-- Please note that this goal setting can relate to the suggestions made the reviewers based on your application (see your acceptance email). 
-- We will be delighted to work with you to make sure that you are excited about your contribution to the Book Dash event. 
+We would like to help create some plans and topics they you would like to explore for your contributions in _The Turing Way_.
+- Please note that this goal setting can relate to the suggestions made the reviewers based on your application (see your acceptance email).
+- We will be delighted to work with you to make sure that you are excited about your contribution to the Book Dash event.
 - These topics can be something that is either missing in the existing chapters or need to be updated in the project.
 - You personal motivation could also be to collaborate with others at the event to work on and support what they are working on
 - We also recognise - and celebrate the fact - that plans may change once you meet the other participants!
@@ -95,13 +95,13 @@ Setting our personal goals will help us prepare better for your participation:
 > [name=]
 > **S**pecific: What do I want to accomplish?:
 > **M**easurable: How will I measure my success?:
-> 
+>
 > **A**ttainable: Can I realistically achieve this goal? What steps will I take?
-> 
-> **R**elevant: Does this goal meet a specific need?: 
-> 
-> **T**ime-bound: What is my target deadline? (potentially between 08 - 11 November): 
-> 
+>
+> **R**elevant: Does this goal meet a specific need?:
+>
+> **T**ime-bound: What is my target deadline? (potentially between 08 - 11 November):
+>
 > Goal statement:
 
 <br>
@@ -136,11 +136,10 @@ Here are a few suggestions for a good first contributions:
 
 **Groupings for breakout rooms based on the topics of interest** <-- done by the Book Dash Planning committee member
 
-> Feel free to move between the breakout rooms! 
+> Feel free to move between the breakout rooms!
 
-**Room 1:** 
-**Room 2:** 
-**Room 3:** 
-**Room 4:** 
-**Room 5:** 
-
+**Room 1:**
+**Room 2:**
+**Room 3:**
+**Room 4:**
+**Room 5:**

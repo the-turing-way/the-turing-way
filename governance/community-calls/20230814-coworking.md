@@ -12,12 +12,12 @@
 * RAMs: Jen, Hari
 * Github workshop: Anne, Danny
 * RCM talk: Sarah + Anne?
-* Digital health case studies: Batool + Emma 
+* Digital health case studies: Batool + Emma
 * Quiet coworking
 * Chatty coworking
 
 ## Notes
-* Main room:  
+* Main room:
     * Discussion with Danny about upcoming CSCCE presentation
     * Discussion with d
 * Rooms

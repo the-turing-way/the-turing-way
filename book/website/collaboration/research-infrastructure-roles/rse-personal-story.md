@@ -4,11 +4,11 @@
 ## Introduction
 
 
-The [Society of Research Software Engineering](https://society-rse.org/) was founded on the belief that a world which relies on software must recognise the people who develop it. 	 
+The [Society of Research Software Engineering](https://society-rse.org/) was founded on the belief that a world which relies on software must recognise the people who develop it.
 
 Although originating in the UK, the concept of Research Software Engineering (RSE) has been widely adopted and specialised roles across academia, industry and other sectors are being recognised across the globe (see [list of International RSE communities](https://society-rse.org/international-rse-organisations/)).
 
-In this chapter, we share a personal story in the form of an open interview with [Saranjeet Kaur Bhogal](https://saranjeetkaur.github.io/About-Me/) who has been spearheading efforts to establish recognition for RSE skills and roles in Asia.	 
+In this chapter, we share a personal story in the form of an open interview with [Saranjeet Kaur Bhogal](https://saranjeetkaur.github.io/About-Me/) who has been spearheading efforts to establish recognition for RSE skills and roles in Asia.
 
 Recently, she has set up the [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) to connect with different Asian researchers working in this space and establish pathways for early career researchers to build their skills in RSE in preparation for their RSE careers.
 

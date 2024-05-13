@@ -39,52 +39,52 @@ we will give you an optional 1 hour GitHub tutorial:
 * Rachael (she/her)/ watching the sun rise and hearing the birds start to sing early in the morning
 * Clare (she/her) / running out into the thunderstorm to enjoy the heavy rain
 * Agota (she/her) / Camping at the lakes 🌅
-* Anne /  
-* Victoria / finishing a handmade gift for a friend 
-* Kate S / 
-* Lisa S (she/her)/ 
-* Bobby / 
-* Evdokia / 
-* Greg / 
+* Anne /
+* Victoria / finishing a handmade gift for a friend
+* Kate S /
+* Lisa S (she/her)/
+* Bobby /
+* Evdokia /
+* Greg /
 * Jess / Mowed the lawn in the rain
 * Chris (he/him) / A deer in the field behind our house
-* Rocio/ 
-* Elena (she/her)/ 
-* Cecilia (she/her)/ 
-* Jack (he/him) / 
-* Jordan (she/her)/ 
+* Rocio/
+* Elena (she/her)/
+* Cecilia (she/her)/
+* Jack (he/him) /
+* Jordan (she/her)/
 * Edward (he)/ saw a tiny pony
-* Stephen / 
-* Bikash / 
+* Stephen /
+* Bikash /
 * Jun Xie(he)/
 * Ben / I quite like the rain and thunder we had over the weekend.
 * Josh / Being caught in the thunderstorm yesterday afternoon ⛈️
 * Charlotte / My ivy plant has begun to wrap around my bookcase and it looks amazing
-* Name 3 / 
+* Name 3 /
 * Name 4 /
 * Name 5 /
 * Name 6 /
-* Name 7 / 
-* Name 8 / 
-* Name 9 / 
+* Name 7 /
+* Name 8 /
+* Name 9 /
 * Name 10 /
-* Name 11 / 
-* Name 12 / 
-* Name 13 / 
-* Name 14 / 
-* Name 15 / 
-* Name 16 / 
-* Name 17 / 
-* Name 18 / 
-* Name 19 / 
+* Name 11 /
+* Name 12 /
+* Name 13 /
+* Name 14 /
+* Name 15 /
+* Name 16 /
+* Name 17 /
+* Name 18 /
+* Name 19 /
 * Name 20 /
-* Name 21 / 
-* Name 22 / 
-* Name 23 / 
-* Name 24 / 
+* Name 21 /
+* Name 22 /
+* Name 23 /
+* Name 24 /
 * Jun Xie(he)/
 * Charlotte / My ivy plant has begun to wrap around my bookcase and it looks amazing
-* 
+*
 
 
 🗣️ Introduction to GitHub
@@ -98,12 +98,12 @@ we will give you an optional 1 hour GitHub tutorial:
 ## Pull Request Exercise
 
 - Visit the GitHub file for this work (link provided)
-- Edit the file by adding details next to your name (click on the pencil symbol) 
+- Edit the file by adding details next to your name (click on the pencil symbol)
 - Commit 'on a new branch' -> create your Pull Request
 
 
 ## Questions / Comments?
-  - 
+  -
   -
 
 :pray: Closing
@@ -119,15 +119,15 @@ To help us continually improve this workshop, please a ==plus :heavy_plus_sign:,
 
 #### :heavy_plus_sign: Pluses
 
-- 
-- 
+-
+-
 
 #### :recycle: Deltas
 
-- 
+-
 -
 
-## References: 
+## References:
 
 - [Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/) and [Friendly GitHub Intro by Kirstie Whitaker](https://github.com/KirstieJane/friendly-github-intro)
 - Visual description: [https://learngitbranching.js.org/](https://learngitbranching.js.org/) (great resource for learning Git!)
@@ -146,5 +146,5 @@ To help us continually improve this workshop, please a ==plus :heavy_plus_sign:,
   - [Writing on Github](https://help.github.com/categories/writing-on-github/)
   - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [Git workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
- 
+
 *Reference*: Open Life Science, License*: CC BY 4.0, The Turing Way*

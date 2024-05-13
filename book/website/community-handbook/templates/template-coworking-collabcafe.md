@@ -10,7 +10,7 @@ We're delighted to have you here ☕️✨🎂
 
 (*We do recommend bringing your actual tea, coffee, water or your favorite beverage to this cafe! :smile:*)
 
-**What?** *The Turing Way is a **lightly opinionated guide to reproducible data science and research**. 
+**What?** *The Turing Way is a **lightly opinionated guide to reproducible data science and research**.
 This collaboration cafe aims to engage with researchers interested in learning and sharing more about this topic in an **online book**: https://the-turing-way.netlify.com*
 
 *Read more about it here: https://the-turing-way.netlify.app/community-handbook/coworking.html*

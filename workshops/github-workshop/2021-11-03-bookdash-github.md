@@ -10,7 +10,7 @@
 - **Hosts:** [names]
 - **Zoom:**
 ==[https://turing-uk.zoom.us/j/94049181248?pwd=Q09vZGlkMkFOajVKbUdSZDFXSDlGUT09](https://turing-uk.zoom.us/j/94049181248?pwd=Q09vZGlkMkFOajVKbUdSZDFXSDlGUT09)==
-  - Meeting ID: 940 4918 1248  
+  - Meeting ID: 940 4918 1248
   - Passcode: 587360
   - _The waiting room is enabled. The host of this call will let you in._
 :::
@@ -48,11 +48,11 @@ Name / Institute or affiliation / What specific aspect of GitHub do you find cha
 
 ### Roll call
 
-- Name / Icebreaker question: Share something from nature that has awed you or brought you peace recently - perhaps a flower, a view, a photo, a scent, a potted plant, a bird that flew past... 
+- Name / Icebreaker question: Share something from nature that has awed you or brought you peace recently - perhaps a flower, a view, a photo, a scent, a potted plant, a bird that flew past...
 * Vicky
 * Alden
-* 
-* 
+*
+*
 
 🗣️ Introduction to GitHub
 
@@ -60,12 +60,12 @@ Name / Institute or affiliation / What specific aspect of GitHub do you find cha
 - Slides: [Friendly GitHub Intro](https://docs.google.com/presentation/d/e/2PACX-1vR-Qu4kYulSMGnnAHH9-OonNiLkaJrsolEecEkt0VD5_3PmKWePmiSQwxK3QHoq5gNsL-MJKowmgsAx/pub?start=false&loop=false&delayms=3000)
 - Cheatsheet: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-**Breakout room task:** 
+**Breakout room task:**
 
-- 
-- 
+-
+-
 
-**References**: 
+**References**:
 - [Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/) and [Friendly GitHub Intro by Kirstie Whitaker](https://github.com/KirstieJane/friendly-github-intro)
 - Visual description: [https://learngitbranching.js.org/](https://learngitbranching.js.org/) (great resource for learning Git!)
 
@@ -83,9 +83,9 @@ Name / Institute or affiliation / What specific aspect of GitHub do you find cha
   - [Writing on Github](https://help.github.com/categories/writing-on-github/)
   - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [Git workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
- 
+
 **Questions / Comments?**
-  - 
+  -
   -
 
 **Feedback**

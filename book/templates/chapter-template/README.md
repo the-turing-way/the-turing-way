@@ -29,14 +29,14 @@ book\website
 |       |   vcs-personal-stories.md
 │       │   vcs-checklist.md
 │       │   vcs-resources.md
-│   
-└───project-design <---- (folder for the Guide for Project Design) 
+│
+└───project-design <---- (folder for the Guide for Project Design)
     │   project-design.md
     │   ...
 ```
 
 This new chapter template will guide you in creating content for all the files your chapter should contain.
-Below, we explain what each file is and where they are located. 
+Below, we explain what each file is and where they are located.
 We encourage you to use them to structure your content.
 
 > **NOTE:** The order in which we introduce these files is the order they should appear in the table of contents.
@@ -68,7 +68,7 @@ Much like a Guide-wide [case study](../case-study-template/case-study-template.m
 
 _**Including a personal story in your chapter is optional; However, readers will greatly benefit from a real world application of the key ideas your chapter introduces.**_
 
-Structure-wise, personal stories come right before a chapter's checklist and resources in the table of contents. 
+Structure-wise, personal stories come right before a chapter's checklist and resources in the table of contents.
 It should also be added to the chapter's sub-folder
 
 
@@ -96,7 +96,7 @@ This ensures that your new content is accessible, and fits the overall style, st
 
 ### Name files/folders appropriately
 
-Please follow _The Turing Way's_ conventions for naming files. 
+Please follow _The Turing Way's_ conventions for naming files.
 This ensures that your chapter's files are named in a way that allows other people to easily identify their purpose.
 This way, other contributors will find it easier to add to or improve your work.
 

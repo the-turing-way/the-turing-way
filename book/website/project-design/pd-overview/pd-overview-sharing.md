@@ -56,8 +56,8 @@ If your documentation is in the form of a website, try to provide a independent 
 
 ## Share reagents
 
-Depending on your research domain, you may have produced reagents (genetic material or tissue for example). 
-If there is a specific bank for these products that can share them widely, you may consider using them. 
+Depending on your research domain, you may have produced reagents (genetic material or tissue for example).
+If there is a specific bank for these products that can share them widely, you may consider using them.
 Make sure a persistent identifier is given, an that the description of your reagents have enough metadata to make sharing useful.
 
 ## Collecting your Research

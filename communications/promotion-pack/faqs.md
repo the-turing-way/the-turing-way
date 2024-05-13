@@ -22,10 +22,9 @@ This collaborative way of working allows several members to share responsibility
 
 ## Why the content of _The Turing Way_ does not belong to one person or one group, but to the community?
 - In Kirstie Whitaker's words (the lead of this project)
-> There are three answers to this question. One is that openness is a political act of justice and empowerment. 
-> Disseminating knowledge is not a capitalistic activity: I am not lessened by sharing information whose generation and synthesis was funded by the UK taxpayer. 
-> The second is that I believe in the power and creativity of diverse groups. 
-> A community-created resource will be better and more effective than one developed by "me" or "my team". 
-> Finally, writing the book together under an open source license supports its scalability. 
+> There are three answers to this question. One is that openness is a political act of justice and empowerment.
+> Disseminating knowledge is not a capitalistic activity: I am not lessened by sharing information whose generation and synthesis was funded by the UK taxpayer.
+> The second is that I believe in the power and creativity of diverse groups.
+> A community-created resource will be better and more effective than one developed by "me" or "my team".
+> Finally, writing the book together under an open source license supports its scalability.
 > The Turing Way can only achieve its hugely ambitious goals of making reproducible research "too easy not to do" if we all work together to use, re-use, remix and refine the content for specific use cases across all aspects of data-intensive research."
-

@@ -12,9 +12,9 @@
 
 ## Apologies:
 
-* 
-* 
-* 
+*
+*
+*
 
 ## Topics/Rooms
 
@@ -25,7 +25,7 @@
 ## Notes
 
 *  PPIE Chapter
-   * KW suggesting that there's a live merge during CW24 ([https://github.com/the-turing-way/the-turing-way/issues/3551)](https://github.com/the-turing-way/the-turing-way/issues/3551)) 
-   * Investigation on the CI failing tests 
-   * Getting a shareable draft that can be shared with the community 
-   * Additional reviews (ALS, EP) 
+   * KW suggesting that there's a live merge during CW24 ([https://github.com/the-turing-way/the-turing-way/issues/3551)](https://github.com/the-turing-way/the-turing-way/issues/3551))
+   * Investigation on the CI failing tests
+   * Getting a shareable draft that can be shared with the community
+   * Additional reviews (ALS, EP)

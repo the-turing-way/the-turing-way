@@ -24,8 +24,8 @@ melt() #We now have a recoded, melted dataframe called recoded_melt_dat
 ## Commenting
 
 Comments have been described as "Love letters to your future self" by Jon Peirce, creator of PsychoPy.
-Comments can be blocked or inline.  
-The PEP8 guidelines have firm suggestions that block comments should be full sentences, have two spaces following a period, and follow a dated style guide (Strunk and White). 
+Comments can be blocked or inline.
+The PEP8 guidelines have firm suggestions that block comments should be full sentences, have two spaces following a period, and follow a dated style guide (Strunk and White).
 Fortunately the Elements of Style no longer 'requires' an unfair emphasis on masculine pronouns.
 Whereas inline comments should be used sparingly.
 Keeping clear and concise comments not only allows you to keep track of the decisions you have made, what particular functions do, and what variables are used, it also allows other people to see your thought processes.

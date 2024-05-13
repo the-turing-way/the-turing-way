@@ -51,7 +51,7 @@ Reflect on the age range, gender, location, and living situation of your persona
 - Which time zone does your persona live in?
   - Some options: UTC - GMT, EET - GMT+2:00, IST - GMT+5:30, JST - GMT+9:00, NST - GMT+12:00, CST - GMT-6:00, BET - GMT-3:00, CAT - GMT-1:00
 - What is your persona's living situation?
-- If there is any disability or physical barrier that your persona has to deal with when participating?  
+- If there is any disability or physical barrier that your persona has to deal with when participating?
 
 *For this section, you can continue using the random name generator website [behindthename.com](https://www.behindthename.com/random/) with the option "generate life story".*
 
@@ -66,7 +66,7 @@ This section defines your persona's needs and decisions they make, which you can
   - Some options: hardware, software, appropriate work arrangement, proper documentation
 - How much time (minimum) your persona needs to dedicate to make contributions to your project by completing different tasks?
   - This can result in a list of tasks that your members are invited to do with approximate time and skill requirements for each of them.
-- What else can influence your persona's decisions on a day-to-day basis?  
+- What else can influence your persona's decisions on a day-to-day basis?
 
 ### Section 4: Persona Profile (positive trends)
 

@@ -58,8 +58,8 @@ of several sections:
    ```
 
    The ``%`` symbol is used to create outputs for both sources of CSV files
-   with a single rule in {ref}`rr-make-examples-patternrules` and the rule 
-   uses in {ref}`rr-make-examples-automaticvar` to extract the input and 
+   with a single rule in {ref}`rr-make-examples-patternrules` and the rule
+   uses in {ref}`rr-make-examples-automaticvar` to extract the input and
    output filenames.
 
 4. Some of the cleaning rules will remove output files that take a while to

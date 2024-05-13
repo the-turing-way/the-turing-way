@@ -36,7 +36,7 @@ Data should be shared in a formal, open, and indexed data repository [{term}`def
 Suitable data repositories by subject, content type or location can be found at [Re3data.org](https://www.re3data.org/), and in [FAIRsharing](https://fairsharing.org/databases) where you can also see which standards (metadata and identifier) the repositories implement and which journal/publisher recommend them.
 If possible use a repository that assigns a DOI, a digital object identifier, to make it easier for others to cite your data. Have a look in the {ref}`cm-citable` to see how to share and cite your data and other research objects. The {ref}`cm-citable-linking` section explains several options for linking your data and other research objects.
 
-A few public data repositories are [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/), [Harvard Dataverse](https://dataverse.harvard.edu/), [4TU.ResearchData](https://data.4tu.nl/info/en), and [Dryad](https://datadryad.org/). 
+A few public data repositories are [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/), [Harvard Dataverse](https://dataverse.harvard.edu/), [4TU.ResearchData](https://data.4tu.nl/info/en), and [Dryad](https://datadryad.org/).
 See the [NIH list of Generalist Repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/generalist-repositories) for more data repositories.
 
 ### Step 3: Choose a licence and link to your paper and code
@@ -44,7 +44,7 @@ See the [NIH list of Generalist Repositories](https://sharing.nih.gov/data-manag
 So that others know what they can do with your data, you need to apply a licence [{term}`def<License>`] to your data.
 The most commonly used licences are [Creative Commons](https://creativecommons.org/choose/), [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/), or an [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/index.html).
 To get maximum value from data sharing, make sure that your paper and code both link to your data, and vice versa, to allow others understand your project better.
-See {ref}`rr-licensing` for more information. 
+See {ref}`rr-licensing` for more information.
 
 ### Step 4: Upload your data and documentation
 
@@ -69,4 +69,3 @@ In many cases, this will include providing data in multiple, standardized format
 Once you made your data available, it is important to ensure that people can find it when they read the associated article.
 You should cite your dataset directly in the paper in places where it is relevant, and include a citation in your reference list, as well as include a Data Availability Statement at the end of the paper (similar to the acknowledgement section).
 See {ref}`cm-citable-cite-data` for some examples.
-

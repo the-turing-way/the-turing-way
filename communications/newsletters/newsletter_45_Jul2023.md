@@ -1,6 +1,6 @@
 # *The Turing Way* Book Dash Call for Applications, Practitioners Hub Workshop Update and GitHub Organisation Plans
 
-Hello and welcome to our latest newsletter, curated by me: Alexandra, *The Turing Way* Research Project Manager, with contributions from the amazing *The Turing Way* team. 
+Hello and welcome to our latest newsletter, curated by me: Alexandra, *The Turing Way* Research Project Manager, with contributions from the amazing *The Turing Way* team.
 
 Below are some highlights of what you will find in this edition:
 
@@ -20,7 +20,7 @@ If you're interested in keeping up in real-time, please check out our [Welcome p
 
 ### Call for Applications for Participants
 
-We are excited to announce that our next Book Dash is scheduled for 13-17 November 2023. 
+We are excited to announce that our next Book Dash is scheduled for 13-17 November 2023.
 
 **Send your application via the [application form for applicants](https://docs.google.com/forms/d/13QsDH0rHtI3qRCj9yem4_iXHrVKb_9wZtQ-ALkpbYtk/edit)**
 The application deadline is **11 September 2023** (everywhere in the world).
@@ -36,7 +36,7 @@ Anne Lee Steele and Susana Roman Garcia (Thank you!) have recorded a few videos 
 Our London Hub and the **[TU Delft Hubs](https://openworking.wordpress.com/2023/05/31/the-turing-way-book-dash-at-tu-delft/)** fostered wonderful collaborations and connections in May 2023. We are very keen to have more hubs join the event!
 
 **Send your interest by filling out [this form for local hub](https://docs.google.com/forms/d/e/1FAIpQLSeomgstAFtZ5doeM4PwRXUltIkLduwcIWWyHV7PhwQCSCi-qQ/viewform?usp=sharing)**.
- 
+
 Please submit your application as soon as possible, even if you don't have all your local details finalised - we are keen to help!
 Please get in touch if you have any questions or feedback by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk) or on Slack via the #ask-away channel or by reaching out to me via Direct Message.
 
@@ -87,7 +87,7 @@ They will introduce best practices in data science project management and teach 
 
 This is a pilot version of this workshop.
 Therefore, we are particularly seeking participation from members who would like to both learn and reuse materials to teach others about managing computational projects.
-We have created 25 tickets, which will be allocated on a "first come first serve" basis. 
+We have created 25 tickets, which will be allocated on a "first come first serve" basis.
 For any questions, please email turingway@turing.ac.uk or reaching out to me via Direct Message.
 
 
@@ -96,8 +96,8 @@ For any questions, please email turingway@turing.ac.uk or reaching out to me via
 **All are welcome to these calls, no sign-up is needed!** ✨
 
 * **Collaboration Cafe**: The next call is on 06 September 2023, 15:00-17:00 UTC ([in your time zone](https://arewemeetingyet.com/London/2023-07-19/15:00/b/Collaboration%20Cafe)). Join us for a Community Chat in the main room, and work on your own projects in break-out rooms!
-* **Translation and Localisation Weekly Meetings**: every second Tuesday at 16:00 UTC ([in your time zone](https://arewemeetingyet.com/London/2023-07-04/17:00)). These calls are for co-working on translation and localisation efforts across several languages, and for learning more about the work of the team. 
-* **Infrastructure Monthly Meetings**: every second Thursday of the month, at 16:00 UTC ([in your time zone](https://arewemeetingyet.com/London/2023-07-13/16:00/The%20Turing%20Way%20Infrastructure%20Monthly%20meeting)). These calls are for co-working on infrastructure support, and for learning more about the work of the team. 
+* **Translation and Localisation Weekly Meetings**: every second Tuesday at 16:00 UTC ([in your time zone](https://arewemeetingyet.com/London/2023-07-04/17:00)). These calls are for co-working on translation and localisation efforts across several languages, and for learning more about the work of the team.
+* **Infrastructure Monthly Meetings**: every second Thursday of the month, at 16:00 UTC ([in your time zone](https://arewemeetingyet.com/London/2023-07-13/16:00/The%20Turing%20Way%20Infrastructure%20Monthly%20meeting)). These calls are for co-working on infrastructure support, and for learning more about the work of the team.
 * **Accessibility Monthly Meetings**: every second Monday of the month, at 17:00 UTC ([in your time zone](https://arewemeetingyet.com/London/2023-07-10/17:00/q/Monthly%20Accessibility%20Meeting))
 * **Fireside Chats**: We are on summer hiatus for July and August, but will be back in September. We always plan these talks as close to the last Thursday or Friday of the month as possible, depending on speaker availability. [Follow us on Eventbrite](https://www.eventbrite.co.uk/o/the-turing-way-18600928389#events) to be alerted about upcoming events.
 
@@ -143,7 +143,7 @@ They will be hosting an NHSR Conference in Birmingham (and virtually) on 17-18 O
 
 The [Society for Open Reliable and Transparent Ecology and Evolutionary biology (SORTEE)](https://www.sortee.org/) has opened two (redesigned) award categories 2023 Student Award and 2023 Researcher Award.
 
-The awards provide recognition for open and transparent work in ecology and evolution. 
+The awards provide recognition for open and transparent work in ecology and evolution.
 The intent of these awards is to facilitate the uptake and promotion of Open, Reliable, and Transparent (ORT) science by students and researchers in ecology and evolution.
 
 **Nominations will close on 1 September 2023 - [Read more about SORTEE awards](https://www.sortee.org/awards/)**
@@ -162,30 +162,30 @@ On 4 September 2023, Swansea University is hosting the UK TRE Community in-perso
 The community was born just last year during RSEcon23 (as RSE TRE Community) and the meeting comes back as a satellite event for RSEcon24.
 This is a free to attend with hybrid sessions in the morning and in-person breakouts during the afternoon.
 
-**The registration deadline is  17 August 2023 - [read more about the meet-up](https://www.eventbrite.com/e/uk-tre-community-september-meeting-tickets-676066472017)**. 
+**The registration deadline is  17 August 2023 - [read more about the meet-up](https://www.eventbrite.com/e/uk-tre-community-september-meeting-tickets-676066472017)**.
 
 ---
 
-## Workshops and Conferences 
+## Workshops and Conferences
 
 ### Where have *The Turing Way* members been last month?
 
-- **Eirini Zormpa** and **Sophia Batchelor** gave a presentation about **"Community Management at The Turing"** at the Lunch & Learn from The Alan Turing Institute on 13 July 2023. [Zenodo link](https://doi.org/10.5281/zenodo.8136096) 
+- **Eirini Zormpa** and **Sophia Batchelor** gave a presentation about **"Community Management at The Turing"** at the Lunch & Learn from The Alan Turing Institute on 13 July 2023. [Zenodo link](https://doi.org/10.5281/zenodo.8136096)
 - **Alden Conner** and **Vicky Hellon** participated at the Local Network Leads' summer retreat on 24-25 July 2023, representing the Turing and *The Turing Way*.
 - **Malvika Sharan and Alex** (that's me!), hosted **The Practitioners Hub hybrid Workshop** on the 27 July 2023
-- **Sara El Gebali** presented a keynote at [ISMB-ECCB - Bioinformatics Open Source Conference 2023](https://www.iscb.org/ismbeccb2023) on 24-25 July 2023 - Thank you Sara for a shout-out to *The Turing Way*. 
+- **Sara El Gebali** presented a keynote at [ISMB-ECCB - Bioinformatics Open Source Conference 2023](https://www.iscb.org/ismbeccb2023) on 24-25 July 2023 - Thank you Sara for a shout-out to *The Turing Way*.
 - **Bastian Greshake** gave a talk about AutSPACEs and with Sara, he spoke at a Data Ethics panel at [ISMB-ECCB - Bioinformatics Open Source Conference 2023](https://www.iscb.org/ismbeccb2023) on 24-25 July 2023.
 - Community members took part in the **Accelerating Open Science Summit** organised by NASA/TOPS in Geneva on 13 July 2023
 
 ### Where to meet them next?
 
-📅 Check out our [centralised event schedule](https://docs.google.com/spreadsheets/d/1C-VZvmFL4PnSBsv_G9ZD3dwjIYLno3NyL7oHvbplnWs/edit#gid=577525947) to learn more about what is happening in the community. 
+📅 Check out our [centralised event schedule](https://docs.google.com/spreadsheets/d/1C-VZvmFL4PnSBsv_G9ZD3dwjIYLno3NyL7oHvbplnWs/edit#gid=577525947) to learn more about what is happening in the community.
 
 If you are attending an event and would like to meet folks from across the community, please include that in this [Etherpad](https://pad.sfconservancy.org/p/ttw-event-calendar-2023)
 
 *For more events, subscribe to the [Open Research Calendar](https://openresearchcalendar.org/).*
 
-If you want us to promote your future events in the upcoming Newsletters, send Alexandra and Anne an email at [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk) with the info. The [#events](https://theturingway.slack.com/archives/C017WM4QD24) channel on Slack is also a great option to promote community events. 
+If you want us to promote your future events in the upcoming Newsletters, send Alexandra and Anne an email at [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk) with the info. The [#events](https://theturingway.slack.com/archives/C017WM4QD24) channel on Slack is also a great option to promote community events.
 
 ---
 
@@ -193,7 +193,7 @@ If you want us to promote your future events in the upcoming Newsletters, send A
 
 ![Alt: Two creenshots of Twitter.The first one on the left is from Juli Arancio and says "Great panel today on reproducibility, reusability and reward systems in practice at the @CERN, @NASA. Accelerating open summit" Below the text, there is a picture that shows 4 people sitting in yellow sofas, taking part of panel and a big screen behind that shows: "Panel 4A Reproducibility, resusability and rewards systems in practice". The second screenshot on the right, is from Dario Taraborelli and says: "The @TuringWay is getting multiple namechecks at the CERN/NASA Open Science summit in Geneva. cc @Kirstie_J. with an answer from Kirstie Whitaker that says: @MalvikaSharan and I were having mega FOMO yesterday!!! Thank you to everyone for sharing and contributing to our lovely @turingway community"](https://hackmd.io/_uploads/ryGNLjLj3.png)
 
-1. Tweet by Juli Arancio - [Link to tweet](https://twitter.com/cassandreces/status/1679432184552103937?s=46&t=vitdcmhER54VR-KZ-6Re5A). 
+1. Tweet by Juli Arancio - [Link to tweet](https://twitter.com/cassandreces/status/1679432184552103937?s=46&t=vitdcmhER54VR-KZ-6Re5A).
 2. Tweet by Dario Taraborelli - [Link to tweet](https://twitter.com/readermeter/status/1679420264667389952?s=46&t=vitdcmhER54VR-KZ-6Re5A)
 
 ---
@@ -218,31 +218,31 @@ If you want us to promote your future events in the upcoming Newsletters, send A
 💰 £29,216/yr
 🗓️ 29 August 2023
 
-*Visit **[The Alan Turing career page](https://cezanneondemand.intervieweb.it/turing/en/career#vacancies)** to access more opportunities.* 
+*Visit **[The Alan Turing career page](https://cezanneondemand.intervieweb.it/turing/en/career#vacancies)** to access more opportunities.*
 
 ### Other Opportunities
 
 - Job: Scientific Community Manager
 📍 Location: Imperial College London
-💰 £43,309–£52,318/yr (pro rata) 
+💰 £43,309–£52,318/yr (pro rata)
 ⏰ Submit your application by 07 August 2023
 🔗 [Read Details](https://www.imperial.ac.uk/jobs/description/ENG02688/scientific-community-manager)
 
 - Job: Research Software Engineer
 📍 Location: British Antarctic Survey
-💰 £39,748-£50,790/yr 
+💰 £39,748-£50,790/yr
 ⏰ Submit your application by 06 August 2023
 🔗 [Read Details](https://bas.ciphr-irecruit.com/applicants/vacancy/468/Research-Software-Engineer)
 
 - Job: ELIXIR-UK Communications Officer
 📍 Location: Earlham Institute, based in Norwich, UK
-💰 £34,950 - £43,750/yr 
+💰 £34,950 - £43,750/yr
 ⏰ Submit your application by 13 August 2023
 🔗 [Read Details](https://www.earlham.ac.uk/vacancy/elixir-uk-communications-officer)
 
 - Fellowship: Community Fellow - Sloane Lab
 📍 Location: Sloane Lab (London)
-💰 £39,748-£50,790/yr 
+💰 £39,748-£50,790/yr
 ⏰ Submit your application by 11 September 2023
 🔗 [Read Details](https://www.ucl.ac.uk/work-at-ucl/search-ucl-jobs/details?jobId=12665&jobTitle=Community+Fellow+-+Sloane+Lab)
 
@@ -265,6 +265,6 @@ If you'd like to contribute to the next newsletter, please email me at aaraujo.a
 
 **Be safe, stay open and thanks for reading our newsletter!**
 
-Tell us how we can improve our newsletter by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk). 
+Tell us how we can improve our newsletter by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
 
 _Did you miss the last newsletters?_ _Check them out [here](https://tinyletter.com/TuringWay/archive)._

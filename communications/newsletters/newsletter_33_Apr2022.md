@@ -27,7 +27,7 @@ Alongside the shift to “working from home”, conferences also moved online.
 But as many events begin to move back to in-person events in the coming months and years, this Fireside Chat brings together diverse voices from different projects and communities to talk more about the role of conferences in scientific collaboration, and the trade-offs involved in this shift back to in-person conferences.
 
 **Chaired by Anne Lee Steele and Lilly Winfree (Frictionless Data), this panel will feature insights from Dorothea Hug Peter (UseR), Elio Campitelli (MetaDocencia), Gilbert Beyamba (Pollicy), and Ben Krikler (RemotelyGreen).**
-These individuals represent different communities with expertise and insights from organising and participating in international conferences.  
+These individuals represent different communities with expertise and insights from organising and participating in international conferences.
 [Sign up on the Eventbrite](https://www.eventbrite.co.uk/e/fireside-chat-making-virtual-participation-a-global-default-tbc-tickets-318719758377).
 
 ## Join us at Collaboration Cafe ☕
@@ -249,7 +249,7 @@ This training series, provided by the UK Data Service, walks you through how to:
 Applications are now open for **The Data Science and AI Educators' Programme** at The Alan Turing Institute. This programme takes a ‘Train the Trainer’ approach to equip educators and domain experts with pedagogical knowledge.
 **Note: Applications are open to anyone (both internal and external to the Turing) with an interest in training and teaching at all levels.**
 
-⏰ Applications due by Sunday, 24 April 2022  
+⏰ Applications due by Sunday, 24 April 2022
 🗓️ Programme dates: Monday, 16 May to Friday, 12 August 2022
 
 📌 Full details, including how to apply, can be found on our [application page](https://www.turing.ac.uk/data-science-and-ai-educators-programme).
@@ -268,7 +268,7 @@ The Turing Skills Team at the Alan Turing Institute is collaborating with the To
 The aim is to promote and incorporate the principles of _The Turing Way_ across our community to nurture open research design, collaboration, and community-driven interactions.
 **Note: Applicants for this pilot should be affiliated with the Turing.**
 
-⏰ Applications due by Sunday, 22 May 2022  
+⏰ Applications due by Sunday, 22 May 2022
 🗓️ Programme dates: Wednesday, 1 June – Wednesday, 27 July 2022
 📌 Pre-Application Webinar and Drop-in session: Thursday, 28 April 2022 @ 12:30 BST (UTC+1), https://turing-uk.zoom.us/j/97248428609?pwd=S1NuOVhQRFg0RU91ODVlckgxZU9PUT09, Meeting ID: 972 4842 8609, Passcode: 789019
 For more information about the application process, [please visit the event page](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=61990&eventID=188).

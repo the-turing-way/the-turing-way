@@ -17,7 +17,7 @@ Illustration about communicating with a wider audience.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
 ```
 
-You can make your work openly accessible through following {ref}`Open Scholarship principles<cm-open-scholarship>`. 
+You can make your work openly accessible through following {ref}`Open Scholarship principles<cm-open-scholarship>`.
 Other forms of communication include blogging, writing lay summaries, podcasting, presenting posters and talks at conferences outside of your discipline, and using social media.
 This can involve translating technical scientific writing into different styles that make your research more accessible to specialists outside of your specific discipline and also to the wider public.
 We also describe different communication channels you can select for your project to enable collaboration with your team or community members.

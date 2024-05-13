@@ -2,8 +2,8 @@
 
 # Data Governance for the Machine Learning Pipeline
 
-A Machine Learning (ML) pipeline consists of a series of activities including the collection of data, training of an ML model, and the deployment of the model into use. 
-Data is integral throughout the ML process and the methods for which data is collected, annotated, processed, and shared will impact individuals and communities who may be represented in or the creators of the data, as well as data users who would like access to the data. 
+A Machine Learning (ML) pipeline consists of a series of activities including the collection of data, training of an ML model, and the deployment of the model into use.
+Data is integral throughout the ML process and the methods for which data is collected, annotated, processed, and shared will impact individuals and communities who may be represented in or the creators of the data, as well as data users who would like access to the data.
 
 This chapter will cover examples of data governance practices for ML for different steps in the pipeline, which may include but not be exclusive to:
 - Data Collection
@@ -17,7 +17,7 @@ Many ML models are trained using datasets collected by a research team, which ma
 The deep learning (DL) family of models, in particular, relies on massive corpuses of data such as text, code, images, sound, and other media.
 The process of data collection depends on the type and volume of data required and sources for acquisition.
 For example, a project that uses patient health record data versus a project that uses a dataset of millions of social media posts will require different processes for gaining access to data as well as actually collecting and storing the data.
-Many DL models rely on data scraped from the internet due to the sheer volume of digital content that is available on the web. 
+Many DL models rely on data scraped from the internet due to the sheer volume of digital content that is available on the web.
 For example, [ImageNet datasets](https://www.image-net.org/about.php) are sourced from web images from image hosting websites like Flickr, and [LAION datasets](https://laion.ai/faq/) come from web crawling sources like Common Crawl.
 These methods of data collection through web scraping have raised issues regarding data quality and bias due to the nature of using uncurated Internet data, as well as issues of data rights as web scraped data sets often include copyrighted data or data obtained without consent that may be in violation of the data license and terms of use.
 To address issues related to respecting data licenses, ML teams should be mindful of using data only when compatible with the license, including open source or permissively licensed data.
@@ -25,7 +25,7 @@ This can be challenging to accomplish with data that does not have explicit lice
 
 ### Governance Tool: [Datasheets for Datasets](https://www.microsoft.com/en-us/research/uploads/prod/2019/01/1803.09010.pdf)
 
-Datasheets are resources accompanying datasets that can provide key information about the motivation to create the dataset, 
+Datasheets are resources accompanying datasets that can provide key information about the motivation to create the dataset,
 the data collection process, the dataset composition and pre-processing, and legal and ethical considerations when using the data.
 Datasheets help contextualise the resource and are an opportunity for dataset creators to share any concerns, suggestions,
 and other advice regarding responsible use of the dataset.
@@ -40,12 +40,12 @@ In addition to creating a governance structure for managing access to the datase
 Because opting out occurs after a dataset has already been created, it will not remove the data from original versions of the dataset, but can facilitate removal from future versions.
 
 ### Governance Tool: [Am I In the Stack?](https://huggingface.co/spaces/bigcode/in-the-stack)
-This tool was developed by the [BigCode](https://www.bigcode-project.org/) team to help developers inspect The Stack dataset so they can see whether any of their repositories have been included and might be used for training ML models. 
+This tool was developed by the [BigCode](https://www.bigcode-project.org/) team to help developers inspect The Stack dataset so they can see whether any of their repositories have been included and might be used for training ML models.
 If that is the case and they would prefer for their data to be removed, developers receive a custom link on the Am I In the Stack? website that automatically generates an issue in the [BigCode opt-out repository](https://github.com/bigcode-project/opt-out-v2) for an official opt-out request. You can choose which repos you'd like to remove, as well as your commits and issues. After submitting the issue, your request is added to the queue for removal from all future iterations of The Stack.
 
 ### Governance Tool: [Have I Been Trained?](https://haveibeentrained.com/)
 
-This tool was developed by [Spawning](https://spawning.ai/) to help artists check if their work is a part of common datasets used to train AI art models and to opt-in or 
+This tool was developed by [Spawning](https://spawning.ai/) to help artists check if their work is a part of common datasets used to train AI art models and to opt-in or
 opt-out to future training. They maintain a "registry of non-consenting data" where individuals and companies can check to see if their data is a part of these datasets.
 
 (pd-dg-ml-dp)=

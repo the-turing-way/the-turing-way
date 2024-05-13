@@ -48,7 +48,7 @@ Estos capítulos han sido co-escritos por personas que colaboran y que son estud
 - [Colaboradores](#colaboradores)
 
 🎧 Si prefieres una introducción de audio al proyecto (en inglés) Rachel, una colaboradora del proyecto presentó en el [Open Science Fair 2019](https://www.opensciencefair.eu/) en Oporto y su presentación fue grabada por el [Podcast Orion](https://orionopenscience.podbean.com/e/the-fair-is-in-town-figshare-the-turing-way-and-open-science-quest-at-the-osfair2019/).
-la descripción general del _The Turing Way_ comienza en el minuto 5:13. 
+la descripción general del _The Turing Way_ comienza en el minuto 5:13.
 
 ### Acerca del Proyecto
 
@@ -65,7 +65,7 @@ Este proyecto se desarrolla de manera abierta y todas y cada una de tus pregunta
 ### El equipo
 
 _The Turing Way_ es un proyecto de colaboración abierta e impulsado por la comunidad.
-Todos los que colaboran en este libro, independientemente de lo pequeñas o grande que sean sus contribuciones, están reconocidos en este proyecto como colaboradores y miembros de la comunidad. 
+Todos los que colaboran en este libro, independientemente de lo pequeñas o grande que sean sus contribuciones, están reconocidos en este proyecto como colaboradores y miembros de la comunidad.
 Los colaboradores de larga duración se consideran parte del grupo de colaboradores principal, el cual asume roles de liderazgo en el proyecto.
 
 El proyecto está coordinado por la líder investigadora **Kirstie Whitaker** (fundadora) y **Malvika Sharan** (desarrolladora de la comunidad) y alojado en [The Alan Turing Institute](https://www.turing.ac.uk/).

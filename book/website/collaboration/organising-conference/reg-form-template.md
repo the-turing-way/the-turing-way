@@ -1,36 +1,36 @@
 # Template for Conference or Event Registration Form
 
-This template includes all the different questions you might want to include on your registration form. 
+This template includes all the different questions you might want to include on your registration form.
 
 This does not mean you have include all of these questions for your event.
 
-Please consider carefully what information you need to collect for your specific event and for reporting and monitoring purposes. 
+Please consider carefully what information you need to collect for your specific event and for reporting and monitoring purposes.
 
-Therefore, this document is intended to be modified to make it specific for your own purpose. 
+Therefore, this document is intended to be modified to make it specific for your own purpose.
 
 ```
 **Title:** *add title of event*
 
-**Description:** 
+**Description:**
 
 *add a short description of the event and include date, timings with timezone, location, online/in person only/hybrid.*
 
 *Example text*
-*We are convening a conference on ____ , which aims to bring together ________ to _______. This will include __________.*  
+*We are convening a conference on ____ , which aims to bring together ________ to _______. This will include __________.*
 
-*This event is invite only/by application/has a maximum of ___ attendees.  
+*This event is invite only/by application/has a maximum of ___ attendees.
 
 The event is in person/online/hybrid at _____ on [add date here] between [add times] UTC.*
 
-*We will be sending out more information about the content and focus of the event shortly.* 
+*We will be sending out more information about the content and focus of the event shortly.*
 
-*Please register below to indicate that you will be attending.* 
+*Please register below to indicate that you will be attending.*
 
 *Data privacy*
 
-*No personal data/personal data is collected from you by this form but if you want to read our privacy notice for events at _______, please find it here: [add link to privacy notice]* 
+*No personal data/personal data is collected from you by this form but if you want to read our privacy notice for events at _______, please find it here: [add link to privacy notice]*
 or *We collect personal data about individuals registering for this event. This data includes your name, your email address, your affiliation, country and job title. We will retain this registration information in our server for a year after the completion of the event.*
- 
+
 ## Questions
 ### Questions to gain permissions
 
@@ -38,7 +38,7 @@ or *We collect personal data about individuals registering for this event. This 
  - [ ] Yes
  - [ ] No
 
-- Are you happy for us to publish audio/visual material of the general event that you may be present in? 
+- Are you happy for us to publish audio/visual material of the general event that you may be present in?
 
 We will use them for publicity for future events and reporting on this event.
  - [ ] Yes
@@ -56,7 +56,7 @@ We will use them for publicity for future events and reporting on this event.
 
 - Name (first name, family name/surname)
 
-- Title 
+- Title
 
 - Preferred pronouns
 
@@ -75,7 +75,7 @@ We will use them for publicity for future events and reporting on this event.
  - [ ] In person
 
 
-### Questions for reporting and monitoring purposes 
+### Questions for reporting and monitoring purposes
 - Job title
 
 - Career stage (Phases based on https://www.leru.org/files/UK-England.pdf)
@@ -90,9 +90,9 @@ We will use them for publicity for future events and reporting on this event.
 
 - Age
 
-- What is your ethnic group? (Options are from the UK census. 
+- What is your ethnic group? (Options are from the UK census.
 
-We recognise that these ethnic groups do not represent how all people identify. 
+We recognise that these ethnic groups do not represent how all people identify.
 
 You are encouraged to write in your ethnicity in your own words if you do not identify with any in the list.)
  - [ ] Asian or Asian British
@@ -115,7 +115,7 @@ You are encouraged to write in your ethnicity in your own words if you do not id
  - [ ] Prefer to self-describe
  - [ ] Prefer not to disclose
 
-- In which country do you reside?  
+- In which country do you reside?
 
 
 - Which primary funding body/charity/organisation would you normally turn to if seeking financial support for your research/work?
@@ -131,7 +131,7 @@ You are encouraged to write in your ethnicity in your own words if you do not id
  - [ ] Wellcome Trust
  - [ ] Other [Please add other primary funder.]
 
-- Why do you want to attend this event? 
+- Why do you want to attend this event?
 
 *This could be left as an open question or have tick box suggestions if you want to know something more specific*
  - [ ] Relevant topic to my research/work
@@ -147,7 +147,7 @@ You are encouraged to write in your ethnicity in your own words if you do not id
  - [ ] Newsletter
  - [ ] X/Twitter (add X handle)
  - [ ] LinkedIn (add LinkedIn account link)
- - [ ] In another of our events 
+ - [ ] In another of our events
  - [ ] Direct email
  - [ ] Email from a mailing list
  - [ ] Email from a colleague
@@ -167,7 +167,7 @@ You are encouraged to write in your ethnicity in your own words if you do not id
 ### Other conference organisation questions
 - Are you presenting at the conference? (Please select one):
  - [ ] Yes, as a speaker
- - [ ] Yes, a poster 
+ - [ ] Yes, a poster
  - [ ] No
 
 - Do you require overnight accommodation?
@@ -179,17 +179,17 @@ You are encouraged to write in your ethnicity in your own words if you do not id
  - [ ] Yes
  - [ ] No
 
-- Would you like to apply for the conference childcare fund? 
+- Would you like to apply for the conference childcare fund?
 
 *Provide details of the childcare fund including who can apply, how much and what details are needed to apply*
  - [ ] Yes, I wish to apply for the childcare fund to support my attendance at the conference - please specify [text box]
  - [ ] No
 
-- Would you like to apply for the conference’s accessibility fund? 
+- Would you like to apply for the conference’s accessibility fund?
 
-*Add details such as - The accessibility fund is designed to support attendees who need additional assistance to participate in the conference. 
+*Add details such as - The accessibility fund is designed to support attendees who need additional assistance to participate in the conference.
 
-We can provide financial assistance (up to add amount/person) to help cover support costs for the duration of the conference, or for additional to support remote participation. 
+We can provide financial assistance (up to add amount/person) to help cover support costs for the duration of the conference, or for additional to support remote participation.
 
 Please select one of the following options: *
  - [ ] Yes, I wish to apply for the accessibility fund to support my attendance at the Conference - please specify [text box]
@@ -199,4 +199,4 @@ Please select one of the following options: *
 ## Links to other templates of registration forms
 * Software Sustainability Institute's Collaboration Workshop registration form template: https://software.ac.uk/cw23/registration
 
-Contributions to this template have come from Rachael Ainsworth's Collaboration Workshop registration form, Batool Almarzouq's AIM RSF Conference registration form, input from a discussion in the Research Community Management Team & Collaborators Meeting on 2 March 2023 at The Alan Turing Institute (Arron Lacey, Batool Almarzouq, Claudia Fischer, Eirini Zormpa, Emma Karoune, Sarah Gibson, Sophia Batchelor) and additional input from Vicky Hellon. 
+Contributions to this template have come from Rachael Ainsworth's Collaboration Workshop registration form, Batool Almarzouq's AIM RSF Conference registration form, input from a discussion in the Research Community Management Team & Collaborators Meeting on 2 March 2023 at The Alan Turing Institute (Arron Lacey, Batool Almarzouq, Claudia Fischer, Eirini Zormpa, Emma Karoune, Sarah Gibson, Sophia Batchelor) and additional input from Vicky Hellon.

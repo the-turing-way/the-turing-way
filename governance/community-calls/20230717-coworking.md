@@ -1,7 +1,7 @@
 # Notes 17 July
 
 ## Attendees
- 
+
 * Susana
 * Anne
 * Malvika
@@ -33,7 +33,7 @@ Q from Kirstie: Is the committee working as well as it should be?
     - Malvika sends detailed information, and hence doesn't feel the need to read them. What is the balance between providing sufficient information but then not overwhelming them?
 
 Q Discussion on the chapter:
-- The chapter is written by Malvika and maybe the committee doesn't feel the accountability. 
+- The chapter is written by Malvika and maybe the committee doesn't feel the accountability.
 - Set expectations for the committee members to read the chapter.
 
 Q Discussion on the planning committee's responsibility:
@@ -43,7 +43,7 @@ Q Discussion on the planning committee's responsibility:
     - Some members of the working group become the Book Dash
 - What do we don't want to change?
   - Not the restructuring of what we do - new templating and brand new format will bring chaos and stress to the delivery team
-- What should they change? 
+- What should they change?
   - Evolve with the need of community - e.g. Hub and spoke model that we are working with, anything that they find challenging in the process, updating the community handbook, acting on the feedback from the previous rounds of Book Dash
 - Weights of responsibilities are different, how do we address that?
   - Create specific roles and create subteams: Go through the issue checklist and tease out the delivery.
@@ -75,6 +75,6 @@ Kirstie's notes, possibly overlapping!
 
 ## Advance asynchronous updates
 
-* 
-* 
-* 
+*
+*
+*

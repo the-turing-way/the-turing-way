@@ -60,7 +60,7 @@ You can request contact information through the project members above, or tag th
 | Alex Morley <br>([@alexmorley](https://github.com/alexmorley)) | Mozilla Fellow | in-kind contribution |  Nov 2018 - June 2019  |
 | Anna Krystalli <br>([@annakrystalli](https://github.com/annakrystalli)) | Research Software Engineer | 10% | Dec 2018 - Mar 2019 |
 | Martin O'Reilly <br>([@martintoreilly](https://github.com/martintoreilly)) | Principal Research Software Engineer | 10% | Nov 2018 - Mar 2019 |
-| Achintya Rao <br>([@RaoOfPhysics](https://github.com/RaoOfPhysics)) | Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Jan 2023 | 
+| Achintya Rao <br>([@RaoOfPhysics](https://github.com/RaoOfPhysics)) | Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Jan 2023 |
 | Arron Lacey <br>([@arronlacey](https://github.com/arronlacey)) | Senior Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Present | - |
 | Camila Rangel-Smith <br>([crangelsmith](https://github.com/crangelsmith)) | Senior Research Data Scientist, The Alan Turing Institute | The Turing Way Translation and Localisation Co-Lead | 2020 - 2023 | - |
 | Eirini Zormpa <br>([@eirini-zormpa](https://github.com/eirini-zormpa)) | Community Manager, The Alan Turing Institute | 10% | 2022 - Nov 2023 | - |

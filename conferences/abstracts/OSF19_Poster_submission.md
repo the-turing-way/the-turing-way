@@ -1,4 +1,4 @@
-# Open Science Fair 2019 Poster Submission 
+# Open Science Fair 2019 Poster Submission
 
 * Website: https://www.opensciencefair.eu/
 * Application Form: https://www.opensciencefair.eu/call-for-posters-demos-2019, https://easychair.org/my/conference?conf=osfair2019
@@ -7,7 +7,7 @@
 
 *For Authors: remove text in italics and replace with your own content.*
 
-## The Turing Way: A handbook for reproducible data science 
+## The Turing Way: A handbook for reproducible data science
 
 *Author 1 name, affiliation, email address; Author 2 name, affiliation, email address*
 
@@ -19,18 +19,18 @@ The Turing Way, Rachael Ainsworth, Becky Arnold, Louise Bowler, Sarah Gibson, Pa
 
 *Summary of your proposal; maximum 300 words. The abstract should be a concise summary of the poster content, problem and the motivation for the work and the relation to the overall objective of the conference. Please copy and paste this into the submission system at the time of submission.*
 
-*The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do" (https://the-turing-way.netlify.com). 
-It includes training material on topics such as version control and analysis testing, and will build upon Alan Turing Institute case studies and workshops. 
-The project also demonstrates open and transparent project management and communication with future users, as it is openly developed at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way. 
+*The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do" (https://the-turing-way.netlify.com).
+It includes training material on topics such as version control and analysis testing, and will build upon Alan Turing Institute case studies and workshops.
+The project also demonstrates open and transparent project management and communication with future users, as it is openly developed at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way.
 All resources associated with workshops we have delivered, as well as how to organise a Book Dash (a one-day book sprint), are also openly available.
 
-Reproducible research is necessary to ensure that scientific work can be trusted. 
-Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code. 
-The goal is to ensure that all results can be independently verified and built upon in future work, which is sometimes easier said than done. 
-Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists. 
+Reproducible research is necessary to ensure that scientific work can be trusted.
+Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code.
+The goal is to ensure that all results can be independently verified and built upon in future work, which is sometimes easier said than done.
+Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists.
 
-This poster will present an overview of the handbook so far and show Open Science Fair participants how they can contribute their knowledge to make it even better going forwards or how to open up their own projects to a wider contributor community. 
-This poster relates to the overall theme of the conference, as the *Turing Way* provides the tools to improve research habits in a self-contained handbook. 
+This poster will present an overview of the handbook so far and show Open Science Fair participants how they can contribute their knowledge to make it even better going forwards or how to open up their own projects to a wider contributor community.
+This poster relates to the overall theme of the conference, as the *Turing Way* provides the tools to improve research habits in a self-contained handbook.
 It will also ensure that PhD students, postdocs, PIs and funding teams know which parts of the "responsibility of reproducibility" they can affect, and what they should do to nudge research and data science to being more efficient, effective and understandable.
 
 ## Conference Themes
@@ -45,7 +45,7 @@ Infrastructures for Open Science: services, methods, networks
 European Open Science Cloud (EOSC)
 *	FAIR data policy and practice: from theory to implementation
 *	EOSC in national settings
-*	Thematic Clouds 
+*	Thematic Clouds
 
 RRI and Open Science: bridging the gap
 *	Citizen Science and Public and Societal Engagement
@@ -58,15 +58,15 @@ __Training and skills for Open Science__
 Policies, Evaluation and Legal issues
 *	PlanS - principles, guidelines and implementation services
 *	Responsible metrics and research assessment
-*	GDPR and IPR exploitation 
+*	GDPR and IPR exploitation
 *	Rules of Participation in EOSC
 
 Innovative publishing and research dissemination
-*	Alternative publishing models 
+*	Alternative publishing models
 *	Open Peer Review
 *	Innovation on science communication
 
-Value added data products/services from Open Science 
+Value added data products/services from Open Science
 *	Research analytics and visualizations
 *	Text and data mining for/from research
 
@@ -74,10 +74,10 @@ Value added data products/services from Open Science
 
 *List 3-4 key terms that describe the subject of the proposal.*
 
-Reproducible Research  
-Data Science  
-Open Science  
-Open Research 
+Reproducible Research
+Data Science
+Open Science
+Open Research
 
 ## Audience
 
@@ -87,7 +87,7 @@ Policy makers and funders, researchers (early career researchers, research softw
 
 ## Poster content
 
-*Authors are asked to submit a short proposal that describes the main contributions of the poster. Proposals should contain a brief abstract, place an emphasis on the motivation for the work summarize the take-home message from the poster.* 
+*Authors are asked to submit a short proposal that describes the main contributions of the poster. Proposals should contain a brief abstract, place an emphasis on the motivation for the work summarize the take-home message from the poster.*
 
 *	_Proposal length should be a minimum of 300 words and should not exceed 500 words._
 *	_The language of the conference will be English; therefore, the abstract must be in this language._
@@ -95,22 +95,22 @@ Policy makers and funders, researchers (early career researchers, research softw
 
 *Authors of accepted poster proposals will be provided instructions for preparing the posters. Stands/tripods will be provided to display all accepted posters.*
 
-Reproducible research is necessary to ensure that scientific work can be trusted. 
-Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code. 
-The goal is to ensure that all results can be independently verified and built upon in future work, which is sometimes easier said than done. 
-Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists. 
+Reproducible research is necessary to ensure that scientific work can be trusted.
+Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code.
+The goal is to ensure that all results can be independently verified and built upon in future work, which is sometimes easier said than done.
+Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists.
 
-*The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do". 
-Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end. 
-So far, the book (https://the-turing-way.netlify.com) includes chapters and training material on reproducibility, open research, version control, collaborating on GitHub/GitLab, research data management, reproducible environments, analysis testing, reviewing, continuous integration, reproducible research with Make and risk assessment. 
-Further chapters currently in progress include coding style for reproducibility, credit for reproducible research and reproducible data analysis pipelines for machine learning, and will build upon Alan Turing Institute case studies. 
+*The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do".
+Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end.
+So far, the book (https://the-turing-way.netlify.com) includes chapters and training material on reproducibility, open research, version control, collaborating on GitHub/GitLab, research data management, reproducible environments, analysis testing, reviewing, continuous integration, reproducible research with Make and risk assessment.
+Further chapters currently in progress include coding style for reproducibility, credit for reproducible research and reproducible data analysis pipelines for machine learning, and will build upon Alan Turing Institute case studies.
 
-The project also demonstrates open and transparent project management and communication with future users, as it is openly developed at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way. 
-Any and all questions, comments and recommendations are welcome. 
+The project also demonstrates open and transparent project management and communication with future users, as it is openly developed at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way.
+Any and all questions, comments and recommendations are welcome.
 All resources for the "Boost your research reproducibility with Binder" and "Build your own BinderHub" workshops we have delivered, as well as how to organise a Book Dash (a one day book sprint), are also open and will soon be submitted to the Journal of Open Source Education (JOSE).
 
-This poster will present an overview of the handbook so far and show Open Science Fair participants how they can contribute their knowledge to make it even better going forwards or how to open up their own projects to a wider contributor community. 
-This poster relates to the overall theme of the conference, as the *Turing Way* provides the tools to improve research habits in a self-contained handbook. 
+This poster will present an overview of the handbook so far and show Open Science Fair participants how they can contribute their knowledge to make it even better going forwards or how to open up their own projects to a wider contributor community.
+This poster relates to the overall theme of the conference, as the *Turing Way* provides the tools to improve research habits in a self-contained handbook.
 It will also ensure that PhD students, postdocs, PIs and funding teams know which parts of the "responsibility of reproducibility" they can affect, and what they should do to nudge research and data science to being more efficient, effective and understandable.
 
 ## References

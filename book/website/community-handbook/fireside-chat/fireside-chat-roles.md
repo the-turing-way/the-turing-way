@@ -5,8 +5,8 @@
 (ch-fireside-chat-roles-chair)=
 ## Chair - opens the session
 
-One of *The Turing Way* team members will open the panel, welcoming the audience, introducing *The Turing Way* and the Fireside Chat, and setting the norm (Code of Conduct [CoC], Etherpad, chat, question process). They’ll thank the co-hosts and pass the ‘mic’ to them. 
-Here is a [suggested script](https://docs.google.com/document/d/1U41vfHQ0Ks0HfgE8mreaXhrRsfviKBr9Cr3V4DJ644c/edit). 
+One of *The Turing Way* team members will open the panel, welcoming the audience, introducing *The Turing Way* and the Fireside Chat, and setting the norm (Code of Conduct [CoC], Etherpad, chat, question process). They’ll thank the co-hosts and pass the ‘mic’ to them.
+Here is a [suggested script](https://docs.google.com/document/d/1U41vfHQ0Ks0HfgE8mreaXhrRsfviKBr9Cr3V4DJ644c/edit).
 Norm setting here means, making sure that the opening script includes these details:
 
 * We have CoC that applies to the Fireside Chat. Contact: theturingway@gmail.com, or individually write to *The Turing Way* team.
@@ -19,8 +19,8 @@ Norm setting here means, making sure that the opening script includes these deta
 (ch-fireside-chat-roles-hosts)=
 ## Co-hosts - facilitate the session
 
-Co-hosts are invited to co-design the event with one of *The Turing Way* team members. 
-They enable a discussion that does not look for answers or solutions but creates shared opportunities for members from different communities to explore a topic or challenge from their contexts. 
+Co-hosts are invited to co-design the event with one of *The Turing Way* team members.
+They enable a discussion that does not look for answers or solutions but creates shared opportunities for members from different communities to explore a topic or challenge from their contexts.
 If there are solutions available, that is great! But that is not the goal. The hope is that these discussions will stimulate ideas for collaboration beyond the Fireside Chats.
 **We have 2 hosts for each session to allow hosts to also address questions, as well as share tasks such as coordinating with the speakers or monitoring questions.**
 
@@ -29,7 +29,7 @@ If there are solutions available, that is great! But that is not the goal. The h
 * Responsibilities of co-hosts: Supported by *The Turing Way* team where needed
 * Co-hosts will represent their organisation/community at this event - and can choose to include their logo in the event’s promotional materials.
 * Share a short blurb about their organisation and a logo to be included on the Eventbrite page.
-* Decide on the title - this will allow us to put together an Eventbrite page. 
+* Decide on the title - this will allow us to put together an Eventbrite page.
 * Decide on the speakers - they are invited and details are added on the Eventbrite page and other promotional material.
 * If they already know the suggested speaker, we will appreciate it if they can send the invitation and get confirmation using an [email draft](https://docs.google.com/document/d/12VoVexsXXBx25SnAU4mayPw5un-v936g9Ux61DLjGzo/edit).
 * Host 30 mins calls with the speakers before the event to identify what they would like to speak about.
@@ -66,13 +66,13 @@ Facilitators are invited based on their experience on the topic and they also re
 (ch-fireside-chat-roles-team)=
 ### *The Turing Way* team - supports the event
 
-* They will co-host the event with a project/organisation partner, who they will invite at least 6 weeks in advance. 
+* They will co-host the event with a project/organisation partner, who they will invite at least 6 weeks in advance.
 * They will invite the co-host to join a private Slack channel and set up the internal planning document to coordinate with them.
 * They will set up an initial planning discussion with them.
 The planning discussion is crucial to explore the topics and themes they want to speak about and the possible set of speakers they would like to invite from their network.
 * Following this discussion, they will propose a few titles for the event inviting suggestions and nominations for the speakers (via Slack).
-* Based on the previous contacts with the proposed speakers, one of the co-hosts or a *Turing Way* team member will email the speaker sharing initial details and the proposed theme. 
-They will make sure that there is someone delegated to contact the speaker using a template email draft. 
+* Based on the previous contacts with the proposed speakers, one of the co-hosts or a *Turing Way* team member will email the speaker sharing initial details and the proposed theme.
+They will make sure that there is someone delegated to contact the speaker using a template email draft.
 * They will set up planning discussions with the speakers and follow up with them as needed.
 * They will collect bios and images for each speaker, and communicate all details with them as agreed with the co-hosts.
 * They will help set up the Eventbrite, Etherpad, Zoom and Flyer for online sharing -- inviting feedback and edits from the co-hosts and speakers.
@@ -82,7 +82,7 @@ They will make sure that there is someone delegated to contact the speaker using
 * They will upload the video to YouTube:
   * *The Turing Way* team will invite volunteers and/or speakers to help review the uploaded transcription for correctness.
 * They will send a “thank you email” to all the attendees via Eventbrite sharing the link to the YouTube video.
-* They will thank the speakers, and make sure that the signed speakers' release forms have been obtained. 
+* They will thank the speakers, and make sure that the signed speakers' release forms have been obtained.
 
 (ch-fireside-chat-roles-agenda)=
 ## Event agenda
@@ -96,4 +96,3 @@ Fireside Chats follow this rough agenda:
 * If time permits, co-hosts will take questions from the audience and speakers will be invited to address them.
 They will also invite attendees to use Zoom chat and the Etherpad notes to share their thoughts.
 * The session will conclude with a final 1-minute pitch as the take-home message from each speaker.
-

@@ -3,7 +3,7 @@
 
 (pd-persona-prerequisites)=
 ## Prerequisites
-None. 
+None.
 
 (pd-persona-summary)=
 ## Summary
@@ -30,4 +30,3 @@ In the first subchapter, we provide a {ref}`persona creation tool<pd-persona-cre
 In the second subchapter, {ref}`Contributors Personas and Pathways <pd-persona-contributors>`, we discuss how one can identify pathways using examples from _The Turing Way_ community.
 
 *We welcome you to add your personas and pathways in this chapter to provide more examples from different projects.*
-

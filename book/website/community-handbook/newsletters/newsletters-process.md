@@ -46,7 +46,7 @@ In this part, also highlight any important milestones in the project that were e
 
 * **Relevant resources and events for the community**: check X, Slack and online posts for any recent publication and events from community members, resources for training or opportunities for skill-building or any other materials like blog posts or articles published in the network that could be useful for others.
 
-* **Sections for acknowledgements and celebrations of community members**: this is the place to give shout-outs to our members who have given talks, workshops or helped *The Turing Way* in some way, celebrate personal milestones and highlight any relevant announcements from community members. 
+* **Sections for acknowledgements and celebrations of community members**: this is the place to give shout-outs to our members who have given talks, workshops or helped *The Turing Way* in some way, celebrate personal milestones and highlight any relevant announcements from community members.
   * To identify talks and presentations, please scan *The Turing Way* accounts for GitHub issues, X, Slack and the [Zenodo Community](https://zenodo.org/communities/the-turing-way) page (for DOI).
 Since 2023, *The Turing Way* core team maintains all information about events and activities on their [centralised event page](https://docs.google.com/spreadsheets/d/1C-VZvmFL4PnSBsv_G9ZD3dwjIYLno3NyL7oHvbplnWs/edit#gid=577525947).
   * This is also a place to share tweets from the community or mention other online interactions such as posts from recent meetings where someone talked about _The Turing Way_.

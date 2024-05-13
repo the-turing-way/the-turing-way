@@ -34,7 +34,7 @@ book/website
 |   |   ...
 |   |   case-studies.md <---- (Landing page for Case Studies chapter)
 |   |   ...
-│   
+│
 └───project-design <---- (Folder for the Guide for Project Design)
     │   project-design.md
     │   ...
@@ -54,7 +54,7 @@ This ensures that your new content is accessible, and fits the overall style, st
 ### Name files/folders appropriately
 
 Please follow _The Turing Way's_ conventions for naming files.
-With proper file names, other contributors can easily identify the purpose of your files and add to or improve them if necessary. 
+With proper file names, other contributors can easily identify the purpose of your files and add to or improve them if necessary.
 
 
 ### Add your new files to the book's table of contents

@@ -3,7 +3,7 @@
 
 We encourage you to use images in _The Turing Way_ book chapters to help readers understand the concepts discussed in the chapter better.
 
-This section of the style guide will explain how to use [Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/) (MyST) format to add them to the book with appropriate {ref}`alt text<ch-style-figures-alttext>` and {ref}`captions<ch-style-figures-caption>`. 
+This section of the style guide will explain how to use [Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/) (MyST) format to add them to the book with appropriate {ref}`alt text<ch-style-figures-alttext>` and {ref}`captions<ch-style-figures-caption>`.
 This is sometimes tricky, refer to the {ref}`ch-style-figures-advanced` section for troubleshooting.
 
 We are very passionate about ensuring that the creators of the original image files (including you!) are {ref}`acknowledged appropriately<ch-style-figures-licence>`.
@@ -42,7 +42,7 @@ To name your image file, please use all-lowercase and separate words with hyphen
 (ch-style-figures-alttext)=
 ## Alternative text
 
-Alternative text or alt text are used for describing the appearance and function of an image on an HTML page for users who cannot see it. 
+Alternative text or alt text are used for describing the appearance and function of an image on an HTML page for users who cannot see it.
 Alt text is often used by visually impaired people who use assistive technology such as screen readers.
 Adding alt texts to figures is one of the first principles of web accessibility as it enables the screen reader software to read an alt text to its users helping them understand/explain the content.
 

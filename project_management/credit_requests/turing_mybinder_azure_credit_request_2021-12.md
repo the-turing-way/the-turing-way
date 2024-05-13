@@ -27,7 +27,7 @@ $6252.74
 
 A BinderHub (https://binderhub.readthedocs.io) is a computational infrastructure that requires resources which are readily available as a service on the Azure cloud platform (see the "Computational
 Requirements" section for a detailed description). A different computing platform would likely not have these services
-in place. 
+in place.
 
 mybinder.org is already hosted by four cloud platforms: Microsoft Azure, Google Cloud, OVH.com (a European cloud provider), and an on-prem service GESIS Notebooks hosted by the Leibniz Institute.
 

@@ -5,12 +5,12 @@
 ---
 height: 500px
 name: open-peer-review
-alt: Cartoon-like sketch, in black and white with orange shading, of a three tiered cake with the title Open Peer Review at the top. On the bottom level of the cake is the word collaboration with different types of people standing on this level of the cake looking thoughtful. Each person has a speech bubble over them with an eye in it. There are more thoughtful people standing on the second tier and the third and top tier has three people holding a written document with the words supporting quality over them. At the side of the cake are the words recognition, on the left side, and content and process, on the right side. 
+alt: Cartoon-like sketch, in black and white with orange shading, of a three tiered cake with the title Open Peer Review at the top. On the bottom level of the cake is the word collaboration with different types of people standing on this level of the cake looking thoughtful. Each person has a speech bubble over them with an eye in it. There are more thoughtful people standing on the second tier and the third and top tier has three people holding a written document with the words supporting quality over them. At the side of the cake are the words recognition, on the left side, and content and process, on the right side.
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
-## What is Open Peer Review? 
+## What is Open Peer Review?
 
 Open Peer review can refer to various practises, including signing your review, publishing reviews along with the paper, and allowing for the community to contribute to the peer review process ([Open Science Community Utrecht](https://openscience-utrecht.com/peer-review)). Below some different types of Open Peer Review are highlighted, as well as the benefits of opening up the peer review process.
 
@@ -28,12 +28,12 @@ There are various [models of Open Peer review](https://plos.org/resource/open-pe
 - **Open Identities** (author or reviewer)
   - Open discussion between authors, editors and reviewers
 
-Similar to open science practices in general - open peer review is not an 'all or nothing' concept. 
+Similar to open science practices in general - open peer review is not an 'all or nothing' concept.
 Instead, the open components that make the most sense can be introduced first - or the platform that you're using might not have opened up all of this yet.
 
 One of the more debated parts of Open Peer Review is whether reviews should be signed {cite:ps}`RossHellauer2017openreview` {cite:ps}`Bravo2019openreview`.
-Not everyone is comfortable signing their reviews - particularly people from minoritized groups in research {cite:ps}`Fox2021openreview`. 
-This could result in less critical reviews if revealing identity is a requirement of Peer Review {cite:ps}`Fox2021openreview`. 
+Not everyone is comfortable signing their reviews - particularly people from minoritized groups in research {cite:ps}`Fox2021openreview`.
+This could result in less critical reviews if revealing identity is a requirement of Peer Review {cite:ps}`Fox2021openreview`.
 
 (cm-pr-open-benefits)=
 ## Benefits of Open Peer Review
@@ -43,7 +43,7 @@ This could result in less critical reviews if revealing identity is a requiremen
 - Recognition for Peer Review (especially if it can become a {ref}`Research Object that can be cited<cm-citable-cite>`
 - Reviews can become reusable (as normally the authors of review retain copyright and if they are anonymous you cannot ask their permission)
 - Reviews can be used as teaching materials to improve the peer review process
-- [Facilitates dialogue](https://polarjournal.org/2022/06/13/__trashed-2/) and [collaboration](https://allegralaboratory.net/who-cares-peer-review-at-allegra/) between authors, reviewers and editors 
+- [Facilitates dialogue](https://polarjournal.org/2022/06/13/__trashed-2/) and [collaboration](https://allegralaboratory.net/who-cares-peer-review-at-allegra/) between authors, reviewers and editors
 
 (cm-pr-open-no-anonymous)=
 ## The case against double-anonymous peer review
@@ -52,7 +52,7 @@ This could result in less critical reviews if revealing identity is a requiremen
 
 The ability of double-anonymized review to address biases in peer review remains questionable and can minimise the consequences of these biases without addressing their causes {cite:ps}`Horbach2022openreview`.
 
-**Double-anonymous peer review** may impede open science practices in several ways {cite:ps}`Horbach2022openreview`: 
+**Double-anonymous peer review** may impede open science practices in several ways {cite:ps}`Horbach2022openreview`:
 1. Preprinting
 2. Preprint peer review
 3. Review curation
@@ -66,6 +66,3 @@ The ability of double-anonymized review to address biases in peer review remains
 * [Open Research Europe](https://open-research-europe.ec.europa.eu)
 * [SciPost](https://scipost.org/)
 * [Peer Community In](https://peercommunityin.org/)
-
-
-

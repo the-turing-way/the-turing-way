@@ -160,4 +160,3 @@ Merci à toutes ces merveilleuses personnes ([emoji key](https://allcontributors
 
 Ce projet suit la spécification [all-contributors](https://github.com/all-contributors/all-contributors).
 Les contributions de toute nature sont les bienvenues !
-

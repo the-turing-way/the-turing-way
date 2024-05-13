@@ -1,7 +1,7 @@
 # 9 June 2023
 
 ## Attendees
- 
+
 * Emma
 * Arron
 * David
@@ -21,14 +21,14 @@
 * More GH repos and projects to rule then all: Dave, Batool, David
 * One Way ticket to Sustainability City (Hari/Cami)
 * Fireside Chat Planning (just in case - Ale/Anne)
-* One Way ticket to RAM City (Jen/Alden) 
+* One Way ticket to RAM City (Jen/Alden)
 * Git Good Workshop: Gabin, Sophia
 * Main room governance: Kirstie, Malvika, Anne and Alex - Discussion around next Governance next steps and where to store information. We also started to figure out how to manage having a website for the Turing Way Practitioner Hub and where it should sit.
 
 ## Advance asynchronous updates
 
-* 
-* 
-* 
-* 
-* 
+*
+*
+*
+*
+*

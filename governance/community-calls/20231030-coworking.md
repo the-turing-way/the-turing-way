@@ -19,7 +19,7 @@
 * Extra Room 1
 * Extra Room 2
 
- 
+
 ## Notes
 * Book Dash Orientation is happening today!
-* AI Fringe booth in the Knowledge Centre this afternoon :smile_cat: 
+* AI Fringe booth in the Knowledge Centre this afternoon :smile_cat:

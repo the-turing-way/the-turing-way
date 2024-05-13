@@ -1,7 +1,7 @@
 # Notes 3 July
 
 ## Attendees
- 
+
 * Anne
 * Malvika
 * Gabin
@@ -18,11 +18,11 @@
     * Gabin (working on NSO shipbuilding review)
 * Chatty Coworking
     * Bastian
-* Linking to Twitter in the Turing way? 
+* Linking to Twitter in the Turing way?
     * Esther
     * Malvika
     * Anne
-    * To avoid broken links: 
+    * To avoid broken links:
         * Link to the webarchive version of the tweet
         * Extract the resources and link directly to those
         * Adding a screenshot of the tweet

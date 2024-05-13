@@ -70,7 +70,7 @@ The tl;dr version for easy reference during dashing:
 
 **What types of contributions can you make?**
 
-* Reviewers for your Book Dash application have suggested a few specific topics for each of you 
+* Reviewers for your Book Dash application have suggested a few specific topics for each of you
 * You can also collaborate with others or start slowly by checking out the list of [open issues](https://github.com/alan-turing-institute/the-turing-way/issues)
 * Proofread [existing chapters](https://the-turing-way.netlify.com) (check for typos, grammar, links, etc.)
 * Add further information to an existing chapter
@@ -130,7 +130,7 @@ Octobox is a cool tool for managing your GitHub notifications: https://octobox.i
 | 09:15 - 09:50 |               Second Pomodoro |
 | 09:50 - 10:00 |              quick report out |
 | 10:00 - 10:30 |   Troubleshoot, mentored-work |
-| 10:30 - 10:45 | Zoom stays open if people want to stay with others | 
+| 10:30 - 10:45 | Zoom stays open if people want to stay with others |
 
 *Notes*
 * [name=Your name] : comment
@@ -145,7 +145,7 @@ Octobox is a cool tool for managing your GitHub notifications: https://octobox.i
 *Report Out*
 * [name=Your name] : comment
 *
-*  
+*
 
 ### Development session 2
 
@@ -174,7 +174,7 @@ Octobox is a cool tool for managing your GitHub notifications: https://octobox.i
 *Report Out*
 * [name=Your name] : comment
 *
-*  
+*
 
 
 ### ==PLAN YOUR WORK/DAY SLOT==
@@ -210,7 +210,7 @@ Octobox is a cool tool for managing your GitHub notifications: https://octobox.i
 *Report Out*
 * [name=Your name] : comment
 *
-*  
+*
 
 
 ## Day 2: Date
@@ -250,7 +250,7 @@ Octobox is a cool tool for managing your GitHub notifications: https://octobox.i
 *Report Out*
 * [name=Your name] : comment
 *
-*  
+*
 
 
 ### Development session 2
@@ -264,7 +264,7 @@ Octobox is a cool tool for managing your GitHub notifications: https://octobox.i
 | 12:00 - 12:35 |               Second Pomodoro |
 | 12:35 - 12:45 |              quick report out |
 | 12:45 - 13:20 |                Third Pomodoro |
-| 13:20 - 13:30 |                    report out | 
+| 13:20 - 13:30 |                    report out |
 
 *Notes*
 * [name=Your name] : comment
@@ -279,12 +279,12 @@ Octobox is a cool tool for managing your GitHub notifications: https://octobox.i
 *Report Out*
 * [name=Your name] : comment
 *
-*  
+*
 
 
 ### ==Discussing open source role models, projects and personal visions: 15:30 - 17:00 UTC, [click to see in your time]()==
 
-Social plan: 
+Social plan:
 
 *Notes*
 * [name=Your name] : comment
@@ -303,7 +303,7 @@ Social plan:
 | 18:30 - 19:05 |               Second Pomodoro |
 | 19:05 - 19:15 |              quick report out |
 | 19:15 - 19:50 |                Third Pomodoro |
-| 19:50 - 20:00 |                    report out | 
+| 19:50 - 20:00 |                    report out |
 
 *Notes*
 * [name=Your name] : comment
@@ -318,7 +318,7 @@ Social plan:
 *Report Out*
 * [name=Your name] : comment
 *
-*  
+*
 
 ## Day 3: Date
 
@@ -357,7 +357,7 @@ Social plan:
 *Report Out*
 * [name=Your name] : comment
 *
-*  
+*
 
 
 ### Development session 2
@@ -371,7 +371,7 @@ Social plan:
 | 12:00 - 12:35 |               Second Pomodoro |
 | 12:35 - 12:45 |              quick report out |
 | 12:45 - 13:20 |                Third Pomodoro |
-| 13:20 - 13:30 |                    report out | 
+| 13:20 - 13:30 |                    report out |
 
 *Notes*
 * [name=Your name] : comment
@@ -386,7 +386,7 @@ Social plan:
 *Report Out*
 * [name=Your name] : comment
 *
-*  
+*
 
 ### ==PLAN YOUR WORK/DAY SLOT==
 
@@ -407,7 +407,7 @@ Social plan:
 | 18:30 - 19:05 |               Second Pomodoro |
 | 19:05 - 19:15 |              quick report out |
 | 19:15 - 19:50 |                Third Pomodoro |
-| 19:50 - 20:00 |                    report out | 
+| 19:50 - 20:00 |                    report out |
 
 *Notes*
 * [name=Your name] : comment
@@ -422,7 +422,7 @@ Social plan:
 *Report Out*
 * [name=Your name] : comment
 *
-*  
+*
 
 
 ## Day 4: Date
@@ -463,7 +463,7 @@ Social plan:
 *Report Out*
 * [name=Your name] : comment
 *
-*  
+*
 
 
 ### Development session 2
@@ -477,7 +477,7 @@ Social plan:
 | 12:00 - 12:35 |               Second Pomodoro |
 | 12:35 - 12:45 |              quick report out |
 | 12:45 - 13:20 |                Third Pomodoro |
-| 13:20 - 13:30 |                    report out | 
+| 13:20 - 13:30 |                    report out |
 *Notes*
 * [name=Your name] : comment
 *
@@ -491,7 +491,7 @@ Social plan:
 *Report Out*
 * [name=Your name] : comment
 *
-*  
+*
 
 
 ### ==PLAN YOUR WORK/DAY SLOT==
@@ -513,7 +513,7 @@ Social plan:
 | 18:30 - 19:05 |               Second Pomodoro |
 | 19:05 - 19:15 |              quick report out |
 | 19:15 - 19:50 |                Third Pomodoro |
-| 19:50 - 20:00 |                    report out | 
+| 19:50 - 20:00 |                    report out |
 *Notes*
 * [name=Your name] : comment
 *
@@ -527,7 +527,7 @@ Social plan:
 *Report Out*
 * [name=Your name] : comment
 *
-*  
+*
 
 
 ### :heavy_plus_sign::arrow_up_small: Pluses and deltas
@@ -537,9 +537,9 @@ Social plan:
 
 ### Things to capture in the event report
 
-*  
 *
-*  
+*
+*
 
 
 ## Day 5: Date
@@ -587,7 +587,7 @@ _Share your issues and PRs that you will aim to merge today during the book dash
 *Report Out*
 * [name=Your name] : comment
 *
-*  
+*
 
 
 ### Community report out session 1
@@ -595,7 +595,7 @@ _Share your issues and PRs that you will aim to merge today during the book dash
 | Time          |              Suggested agenda |
 | ------------- | -----------------------------:|
 | 10:40 - 11:00 | Zoom room opens, coffee chats |
-| 11:00 - 13:00 |          Plan to be announced | 
+| 11:00 - 13:00 |          Plan to be announced |
 
 *Notes*
 * [name=Your name] : comment
@@ -628,7 +628,7 @@ _Share your issues and PRs that you will aim to merge today during the book dash
 *Report Out*
 * [name=Your name] : comment
 *
-*  
+*
 
 
 ### Community report out session 2
@@ -636,7 +636,7 @@ _Share your issues and PRs that you will aim to merge today during the book dash
 | Time          |              Suggested agenda |
 | ------------- | -----------------------------:|
 | 17:10 - 17:30 | Zoom room opens, coffee chats |
-| 17:30 - 19:30 |          Plan to be announced | 
+| 17:30 - 19:30 |          Plan to be announced |
 
 *Notes*
 * [name=Your name] : comment
@@ -651,6 +651,6 @@ _Share your issues and PRs that you will aim to merge today during the book dash
 
 ### Things to capture in the event report
 
-*  
 *
-*  
+*
+*

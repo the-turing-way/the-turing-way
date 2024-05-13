@@ -1,7 +1,7 @@
 (rr-testing-guidance)=
 # General guidance and good practice for testing
 
-There are several different kinds of testing which each have best practice specific to them (see {ref}`rr-testing-types-of-testing`). 
+There are several different kinds of testing which each have best practice specific to them (see {ref}`rr-testing-types-of-testing`).
 Nevertheless, there is some general guidance that applies to all of them, which will be outlined here.
 
 (rr-testing-write-tests)=
@@ -84,7 +84,7 @@ While modern C++ and C are still mostly compatible, they're not completely and u
   - pfunit (works with MPI)
 - julia
   - Test.jl (stdlib)
-  - ReTest.jl  
+  - ReTest.jl
 
 ## Aim to have a good code coverage
 

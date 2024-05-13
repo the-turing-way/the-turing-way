@@ -37,7 +37,7 @@ O objetivo é garantir que todos os resultados possam ser verificados de forma i
 Compartilhar esses resultados de pesquisa significa compreender o gerenciamento de dados, o funcionamento das bibliotecas, o desenvolvimento de software e as técnicas de integração contínua: habilidades que geralmente não são ensinadas ou esperadas de pesquisadores acadêmicos e cientistas de dados.
 Como essas atividades não são comumente ensinadas, reconhecemos que a carga da exigência e a aquisição de novas habilidades podem ser intimidantes para pessoas que são novas neste mundo.
 O *The Turing Way* é um manual para apoiar os alunos, seus supervisores, financiadores e editores de periódicos a garantir que a ciência de dados reproduzível seja "fácil demais para não ser feita", mesmo para pessoas que nunca trabalharam dessa forma antes.
-Ele inclui o material de treinamento sobre controle de versão, teste de análise e comunicação aberta e transparente com usuários futuros, além de estudos de caso e workshops do Instituto Turing (*Turing Institute*).  
+Ele inclui o material de treinamento sobre controle de versão, teste de análise e comunicação aberta e transparente com usuários futuros, além de estudos de caso e workshops do Instituto Turing (*Turing Institute*).
 Este projeto é desenvolvido abertamente e todas e quaisquer perguntas, comentários e recomendações são bem-vindas em nosso repositório do GitHub: <https://github.com/the-turing-way/the-turing-way>.
 
 ### A equipe
@@ -72,8 +72,8 @@ Se você possuir alguma dúvida, [entre em contato](#entre-em-contato).
 
 ### Citando as ilustrações do _The Turing Way_
 
-As ilustrações do _The Turing Way_ são criadas por artistas da [Scriberia](https://www.scriberia.co.uk/) como parte do [_The Turing Way_ book dashes](https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash) em Manchester em 17 de maio de 2019 e em Londres em 28 de maio de 2019 e 21 de fevereiro de 2020.  
-Eles descrevem uma variedade de conteúdo do manual, esforços colaborativos na comunidade e o projeto _The Turing Way_ em geral.  
+As ilustrações do _The Turing Way_ são criadas por artistas da [Scriberia](https://www.scriberia.co.uk/) como parte do [_The Turing Way_ book dashes](https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash) em Manchester em 17 de maio de 2019 e em Londres em 28 de maio de 2019 e 21 de fevereiro de 2020.
+Eles descrevem uma variedade de conteúdo do manual, esforços colaborativos na comunidade e o projeto _The Turing Way_ em geral.
 Essas ilustrações estão disponíveis no Zenodo ([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) sob uma licença CC-BY.
 
 Ao usar qualquer uma das imagens, inclua o seguinte:
@@ -89,10 +89,10 @@ Usamos algumas dessas ilustrações nas respostas do [Bot de boas-vindas](https:
 Temos uma sala de bate-papo no gitter e adoraríamos que você passasse lá para dar um oi! acessando <https://gitter.im/the-turing-way/the-turing-way>.
 Essa sala também é sincronizada com o [Matrix](https://matrix.org) em [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org) e você também pode se juntar a nós por lá se preferir.
 
-Também temos uma pequena lista de emails para a qual enviamos atualizações mensais do projeto.  
+Também temos uma pequena lista de emails para a qual enviamos atualizações mensais do projeto.
 Inscreva-se acessando <https://tinyletter.com/TuringWay>.
 
-Você pode entrar em contato com o gerente da nossa comunidade **Malvika Sharan** por e-mail acessando [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).  
+Você pode entrar em contato com o gerente da nossa comunidade **Malvika Sharan** por e-mail acessando [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 Alternativamente, você pode entrar em contato com o investigador principal **Kirstie Whitaker** também por e-mail acessando [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk).
 
 ## Contribuidores

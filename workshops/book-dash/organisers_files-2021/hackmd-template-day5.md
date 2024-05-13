@@ -39,43 +39,43 @@
 
 *Name / Organisation or project / What specific advice on research practice could have saved you time and improved the quality of your work only if you had received this in the beginning of your research career?*
 
-* 
-* 
+*
+*
 
 ### :dart: Notes from the sessions
 
 *Notes from Community Share-out sessions: demo/goals/plans/ideas*
 * **Name:**
     * Links to Issues and PR:
-    * ASK: 
+    * ASK:
 * **Name:**
     * Links to Issues and PR:
-    * ASK:  
+    * ASK:
 * **Name:**
     * Links to Issues and PR:
-    * ASK:  
+    * ASK:
 * **Name:**
     * Links to Issues and PR:
-    * ASK:  
+    * ASK:
 * **Name:**
     * Links to Issues and PR:
-    * ASK:  
+    * ASK:
 
 #### :question: Questions
 ---
 
 Please add your questions about The Turing Way here
 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 #### :family: Staying involved and feedback to organisers
 ---
@@ -83,14 +83,14 @@ Please add your questions about The Turing Way here
 *If you have ideas on how you can stay involved in The Turing Way going forwards please add them here.
 You are also invited to share any feedback you may have for the organisers so that they can improve these events and engagement for you.*
 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+*
+*
+*
+*
+*
+*
+*
+*
 
 ### Thank you for joining us!
 
@@ -103,4 +103,3 @@ You are also invited to share any feedback you may have for the organisers so th
 
 **IMPORTANT:** Please take a few minutes to **share your highlights** as a comment under issue [#Update](https://github.com/alan-turing-institute/the-turing-way/issues/update) and **provide feedback** (pluses and delta) from the event. _These will be extremely valuable for us to explain to our funders why this event was valuable, and to learn about your experience, what you enjoyed and how we can improve future events._
 - https://hackmd.io/@turingway/bookdash-nov2021-feedback <-- Update
-

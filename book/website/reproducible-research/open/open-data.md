@@ -50,10 +50,10 @@ _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. 
 (rr-open-data-barriers-privacy)=
 ### Privacy And Data Protection
 
-Many fields of research involve working with sensitive personal data, with medical research being the most obvious example. 
-Please see the {ref}`sensitive data<pd-sdp>` chapter for more information about different types of sensitive data. 
-You can check the {ref}`Managing Sensitive Data Projects<pd-sdpm>` chapter on how you should manage these data. 
-Particularly the {ref}`Data Privacy Strategies<pd-sdpm-privacy>` section can help you to safely manage and protect sensitive personal data. 
+Many fields of research involve working with sensitive personal data, with medical research being the most obvious example.
+Please see the {ref}`sensitive data<pd-sdp>` chapter for more information about different types of sensitive data.
+You can check the {ref}`Managing Sensitive Data Projects<pd-sdpm>` chapter on how you should manage these data.
+Particularly the {ref}`Data Privacy Strategies<pd-sdpm-privacy>` section can help you to safely manage and protect sensitive personal data.
 
 (rr-open-data-barriers-consent)=
 ### Consent

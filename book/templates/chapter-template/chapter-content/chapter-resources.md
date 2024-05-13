@@ -17,7 +17,7 @@
 (sectioninitials-filename-reading)=
 ## Further Reading
 
-> **Point users to external resources to learn more about your chapter's topic.** 
+> **Point users to external resources to learn more about your chapter's topic.**
 > For each resource, please provide a link and a reason why the reader should be interested in it.
 > Use a list for this section
 

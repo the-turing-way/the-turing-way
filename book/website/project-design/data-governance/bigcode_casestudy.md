@@ -7,30 +7,30 @@
 This case study was adapted from the [BigCode Governance card](https://huggingface.co/datasets/bigcode/governance-card) in May 2023.
 Learn more about tools and best practices for data governance activities in the {ref}`Data Governance for the Machine Learning Pipeline <pd-dg-ml>` chapter.
 ```
- 
+
 [BigCode](https://www.bigcode-project.org/) is an open scientific collaboration working on the responsible development and use of large language models (LLM) for code, aiming to empower the machine learning and open source communities through open governance.
-Code LLMs enable the completion and synthesis of code, both from other code snippets and natural language descriptions, and can be used across a wide range of domains, tasks, and programming languages. 
+Code LLMs enable the completion and synthesis of code, both from other code snippets and natural language descriptions, and can be used across a wide range of domains, tasks, and programming languages.
 These models can, for example, assist professionals and hobbyists with building new LLM applications.
-As part of BigCode, the team created the [StarCoder and StarCoderBase Large Language Models for Code](https://huggingface.co/blog/starcoder). 
+As part of BigCode, the team created the [StarCoder and StarCoderBase Large Language Models for Code](https://huggingface.co/blog/starcoder).
 
 ## Data Collection and Management Plan
 
-### Overview 
-The primary training dataset used for the BigCode project is The Stack, which was obtained by gathering public code files, issues, and commits from GitHub. 
+### Overview
+The primary training dataset used for the BigCode project is The Stack, which was obtained by gathering public code files, issues, and commits from GitHub.
 For more information on The Stack dataset, visit [this page](https://huggingface.co/datasets/bigcode/the-stack) to request access and view the dataset card.
-To collect Github repositories, they first extracted a list of repositories from [GHArchive](https://www.gharchive.org/) and subsequently cloned all of them using a large CPU cluster. 
-They also used the data from GHArchive to extract the Github issues. 
-The git commits were gathered from a public BigQuery service. 
+To collect Github repositories, they first extracted a list of repositories from [GHArchive](https://www.gharchive.org/) and subsequently cloned all of them using a large CPU cluster.
+They also used the data from GHArchive to extract the Github issues.
+The git commits were gathered from a public BigQuery service.
 Additionally, they collected a dataset of annotations of several kinds of private information on a subset of The Stack to support our privacy risk mitigation efforts.
 
-The legal basis for data collection under fair use and with regards to GDPR and the corresponding case law are still evolving. 
+The legal basis for data collection under fair use and with regards to GDPR and the corresponding case law are still evolving.
 In this context, the data collection and data management plans were carefully crafted with support from leading experts in the open source and legal tech community that participated in the BigCode Legal, Ethics, Governance Working Group in a best-effort approach to reflect current understandings of legal requirements for data collection and management.
 
 The following sections will dive into the details of how the team approached key data governance activities like data collection, data management & opt-out, and data processing.
 
 ### Data Collection
 
-The StarCoder model was trained on The Stack v1.2, which exclusively contains 6.4TB of permissively licensed data from GitHub repositories, processed from an original source dataset of 102TB. 
+The StarCoder model was trained on The Stack v1.2, which exclusively contains 6.4TB of permissively licensed data from GitHub repositories, processed from an original source dataset of 102TB.
 Selecting repositories based on licenses is only the first step, however, so this approach is complemented by also giving repository owners the ability to opt out of having their repositories included in The Stack, described further in the Data Management & Opt-out section.
 - **Data selection**: One of the goals of BigCode is to give developers agency over their source code and let them decide whether or not it can be used to develop and evaluate LLMs.
   Software developers typically rely on licenses to express how they want their work to be re-used.
@@ -63,13 +63,13 @@ At the time of the data processing for the StarCoder model training, 44 people h
 
 ### Data Processing
 
-One significant concern with respect to privacy was the risk that the code LLM may generate private information found in its training data, including private tokens or passwords matched with identifiers or email addresses. 
-Additionally, while users can (and have) requested that data be removed from The Stack dataset because it contains personal data, removing specific information from trained model weights after the fact remains an open technical challenge. 
+One significant concern with respect to privacy was the risk that the code LLM may generate private information found in its training data, including private tokens or passwords matched with identifiers or email addresses.
+Additionally, while users can (and have) requested that data be removed from The Stack dataset because it contains personal data, removing specific information from trained model weights after the fact remains an open technical challenge.
 In order to minimize this risk, they chose to apply automated PII redaction at the pre-processing stage during training.
 
 The PII redaction process consisted of the following steps:
 - **Creating an annotated dataset for PII:** they found that neither regular expression-based approaches nor existing commercial software for PII detection met our performance requirements.
-  In doing so, they aimed to balance the constraints of costs (fair compensation), time (the timing and time to complete the work was on the critical path for the project), and quality (to ensure that PII Detection Model training was not impacted). 
+  In doing so, they aimed to balance the constraints of costs (fair compensation), time (the timing and time to complete the work was on the critical path for the project), and quality (to ensure that PII Detection Model training was not impacted).
 - **Collaborating with crowd-workers in a responsible way:** While traditional data annotation services using salaried employees were considered, they decided to work with crowd-workers through Toloka after reviewing several service providers and their compensation practices - and finding that most would not provide sufficient transparency and guarantees about worker compensation.
   We selected pay and eligible countries of crowd-workers to ensure that:
     - Absolute hourly wage was always higher than the US federal minimum wage ($7.30)
@@ -83,5 +83,5 @@ Learn more about the PII redaction process through this [blog post from Toloka](
 
 ## Acknowledgments
 
-This case study is based on the BigCode Governance card, thanks to the efforts of the [hundreds of BigCode participants](https://huggingface.co/bigcode), a living document that will evolve over time with the BigCode project. 
-Please leave any comments in the [HuggingFace Community space](https://huggingface.co/datasets/bigcode/governance-card/discussions) to ask a question or start a conversation about BigCode project governance. 
+This case study is based on the BigCode Governance card, thanks to the efforts of the [hundreds of BigCode participants](https://huggingface.co/bigcode), a living document that will evolve over time with the BigCode project.
+Please leave any comments in the [HuggingFace Community space](https://huggingface.co/datasets/bigcode/governance-card/discussions) to ask a question or start a conversation about BigCode project governance.

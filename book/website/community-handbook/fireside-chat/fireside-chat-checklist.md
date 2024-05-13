@@ -23,7 +23,7 @@
 - Announce at least 3-4 weeks in advance on Slack, Newsletter, X (formerly Twitter) and in different talks
 - Add information to the Intro HackMD: https://hackmd.io/@turingway/demo-intro
 - Hosts will define an agenda and questions for the session - hosts will also allocate some questions for each other to speak on
-- Set another check-in at least 2 weeks in advance to touch base and discuss the plans and questions with the speakers - assign 1-2 questions for each speaker to begin 
+- Set another check-in at least 2 weeks in advance to touch base and discuss the plans and questions with the speakers - assign 1-2 questions for each speaker to begin
 - Plan with your cohost who will ask which question, how you will time keep, what channel you will use to ask questions to each other privately, who will monitor the chat (maybe ask someone outside this group to help with note taking and chat monitoring)
 - Update the calendar invitation with Zoom, Etherpad and Eventbrite -- encouraging them to share the Eventbrite page in their network
 - Identify someone from the community who can do the introduction of *The Turing Way*, Code of Conduct (CoC) reminder and pass it to the speakers
@@ -42,7 +42,7 @@
 - Speakers will make sure that everyone on the panel has had an equal chance to discuss and share their opinions
 - Any question from the chat is copied over to the Etherpad, in the last 10 minutes publicly posed questions can be asked
 - The recorded session finishes with a short closing arguments from each speaker and host
-- After the recorded part of the discussion (60-75 minutes), all participants are reminded of the next stage of unrecorded discussion informally with the speakers 
+- After the recorded part of the discussion (60-75 minutes), all participants are reminded of the next stage of unrecorded discussion informally with the speakers
 - Hosts close the call after 90 minutes of the session (with 15-30 minutes unrecorded discussion)
 
 ## After the session
@@ -52,7 +52,7 @@
 - Download the video from Zoom and edit the live transcription (proofread for accuracy) -- invite volunteer support as needed
 - Upload the video on *The Turing Way* YouTube - label and annotate well, and add the flyer as the video's front page
 - Share the published videos with the speakers
-- Summarise the session to add to *The Turing Way* -- invite someone from the community who could help with that 
+- Summarise the session to add to *The Turing Way* -- invite someone from the community who could help with that
 - Promote the video via Slack, Newsletter, X
 - Send a thank you email to the Eventbrite participants sharing the video and inviting any ideas and suggestions for improvement via a standard feedback form
 - Update the book chapter and templates if needed

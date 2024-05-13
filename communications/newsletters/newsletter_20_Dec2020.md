@@ -4,7 +4,7 @@ The Turing Way Newsletter: 15 December 2020
 
 Hello Turing Way friends!
 
-This month: 
+This month:
 - 👋 Attend our end of the year - **holiday-themed Collaboration Café on 16 December** and the very last coworking call of 2020 on 17 December.
 - 🎓 Aided by the Turing Online Training grant, we will continue the **OLS for Turing** Collaboration in 2021 with Open Life Science. Call for application for OLS-3 is open until 11 January 2021. Join the *OLS-2 graduation calls this week*.
 - ✨ Check out **new resources**, illustrations, presentations and reports developed and shared by _The Turing Way_ members.
@@ -16,7 +16,7 @@ Find more details on these topics below 👇
 
 ## Community Meetings and Events
 
-- **Collaboration Cafés**: We will be hosting a Holiday Themed Collaboration Cafe on 16 December 2020 from 15:00 to 17:00 GMT ([see in your time zone](https://arewemeetingyet.com/London/2020-12-16/15:00)). 
+- **Collaboration Cafés**: We will be hosting a Holiday Themed Collaboration Cafe on 16 December 2020 from 15:00 to 17:00 GMT ([see in your time zone](https://arewemeetingyet.com/London/2020-12-16/15:00)).
 Please sign up on this shared document: [https://hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
 We will restart these calls in 2021 from 20 January, which will be hosted every 2nd and 3rd Wednesdays of each month.
 
@@ -78,14 +78,14 @@ You can read a complete report from his engagement [here](https://github.com/ala
 *[Tweet by Ismael](https://twitter.com/IsmaelKherGar/status/1337116565184143360?s=20) announcing the release of the Introduction to Research Ethics Chapter*
 
 - **A new set of chapters and subchapters**:
-  - The [Introduction to Research Ethics](https://the-turing-way.netlify.app/ethical-research/ethics-intro.html) chapter has been written by the Ethics team members, Ismael Kherroubi Garcia, Laura Carter and Sophia Batchelor. 
-Thanks to Christina Hithrova and Laura Acion for further comments and review. 
+  - The [Introduction to Research Ethics](https://the-turing-way.netlify.app/ethical-research/ethics-intro.html) chapter has been written by the Ethics team members, Ismael Kherroubi Garcia, Laura Carter and Sophia Batchelor.
+Thanks to Christina Hithrova and Laura Acion for further comments and review.
   - The Ethics team members are also graduating from OLS this week for working on the Guide for Ethical Research that was mentored by Jez Cope and Anjali Mazumdar.
   - Emma Karoune wrote a chapter for [getting started with GitHub](https://the-turing-way.netlify.app/collaboration/github-novice.html).
-Thanks to Kirstie Whitaker, Laura Carter and Paul Owoicho for reviewing and contributing to this chapter. 
-  - Carlos Martinez and Sarah Alidoost from the Netherlands eScience Center have updated the [Code Reviewing](https://the-turing-way.netlify.app/reproducible-research/reviewing.html) chapter. 
+Thanks to Kirstie Whitaker, Laura Carter and Paul Owoicho for reviewing and contributing to this chapter.
+  - Carlos Martinez and Sarah Alidoost from the Netherlands eScience Center have updated the [Code Reviewing](https://the-turing-way.netlify.app/reproducible-research/reviewing.html) chapter.
 Thanks, José Maria Fernandez and Sarah Gibson for reviewing them.
-  - One of the oldest pending PR on the [Code styling and linting](https://the-turing-way.netlify.app/project-design/code-styling.html) have finally been merged. 
+  - One of the oldest pending PR on the [Code styling and linting](https://the-turing-way.netlify.app/project-design/code-styling.html) have finally been merged.
 Thanks to Oliver Clark, Yo Yehudi and Nathan Begbie for editing and reviewing the chapter.
 
 ## Acknowledgements and celebrations
@@ -110,13 +110,13 @@ In her words:
 Kirstie Whitaker, the lead of _The Turing Way_ is writing an impact report where she would like to capture who is using and benefiting from the book and our community.
 We would love to hear from you, especially if you're not already involved in the community as contributors and you've used, shared or built upon the project, book or community in any way!
 For example, many people used the online repository structure, used its resources for developing the reproducibility plan, adapted the Code of Conduct for their projects, cited _The Turing Way_ in their manuscripts or grant proposals, and reused the community practices.
-You can see more responses to Kirstie's [Tweet](https://twitter.com/kirstie_j/status/1326126705270984710?s=20) and share your story with us under [issue #1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659). 
+You can see more responses to Kirstie's [Tweet](https://twitter.com/kirstie_j/status/1326126705270984710?s=20) and share your story with us under [issue #1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659).
 
 All our contributors are invited to add their personal highlights and impact stories in the [Contributors’ file](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) so that we can update our [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html#personal-highlights-from-the-turing-way-contributors) to openly and fairly acknowledge their work.
 
 ### Presentations
 
-**Kirstie Whitaker** joined the panel and gave a presentation for the NeurIPS 2020 workshop (The pre-registration experiment: an alternative publication model for machine learning research (https://preregister.science)) under the title: “The Turing Way: Transparent research through the scientific lifecycle” on 11 December 2020. 
+**Kirstie Whitaker** joined the panel and gave a presentation for the NeurIPS 2020 workshop (The pre-registration experiment: an alternative publication model for machine learning research (https://preregister.science)) under the title: “The Turing Way: Transparent research through the scientific lifecycle” on 11 December 2020.
 You can find her talk on Zenodo: [DOI:10.5281/zenodo.4274314](https://zenodo.org/record/4274314).
 Here is [a Twitter thread](https://twitter.com/kirstie_j/status/1337497307969884162) about her talk.
 
@@ -137,26 +137,26 @@ Similarly, [Open Research Handbook: Reproducibility](https://libguides.reading.a
 
 ### Conferences to Attend in 2021
 
-- **Collaborations Workshop: CW21**: The Software Sustainability Institute’s (SSI) Collaborations Workshop series brings together researchers, developers, innovators, managers, funders, publishers, policymakers, leaders and educators to explore best practices and the future of research software. 
-Collaborations Workshop 2021 (CW21) will take place online from Tuesday, 30 March to Thursday, 1 April 2021 and registration is now open! 
-The themes of the CW21 keynote presentations, discussion groups, mini-workshops, collaborative ideas, and hack day will be around the following areas of research software: FAIR Research Software, Diversity & Inclusion and Software Sustainability. 
+- **Collaborations Workshop: CW21**: The Software Sustainability Institute’s (SSI) Collaborations Workshop series brings together researchers, developers, innovators, managers, funders, publishers, policymakers, leaders and educators to explore best practices and the future of research software.
+Collaborations Workshop 2021 (CW21) will take place online from Tuesday, 30 March to Thursday, 1 April 2021 and registration is now open!
+The themes of the CW21 keynote presentations, discussion groups, mini-workshops, collaborative ideas, and hack day will be around the following areas of research software: FAIR Research Software, Diversity & Inclusion and Software Sustainability.
 To find out more information including registration, agenda, call for submissions and how to sponsor the unconference, please visit the CW21 website: [http://bit.ly/ssi-cw21](http://bit.ly/ssi-cw21)
 
 - **FOSS-Backstage 2021**: We are delighted to share that Malvika will be presenting a talk about _The Turing Way_ at the [FOSS-Backstage](https://foss-backstage.de) event.
-The conference will take place from 10 to 12 February 2021 covering different topics on governance, collaboration, legal and economics within the scope of Free and Open Source Software. 
+The conference will take place from 10 to 12 February 2021 covering different topics on governance, collaboration, legal and economics within the scope of Free and Open Source Software.
 [Register](https://foss-backstage.de/tickets) to hear about open source project leadership best practices, community management, open source project metrics, strategy for the enterprise, adopting open source collaboration in corporations, legal matters when dealing with open source and many more.
 
 ### Call for applications
 
-- **SSI Fellowship 2021**: The call for applications to the SSI’s Fellowship Programme 2021 is now open! 
-The Fellowship Programme provides funding for individuals who want to improve how research software is done in their domains and/or area of work. 
-Being a Fellow also helps individuals develop skills and knowledge in their area around software sustainability, empowers them to speak about software sustainability issues and network with like-minded individuals from a wide variety of research areas. 
-The Institute will be running a Fellows 2021 Launch Webinar on Thursday, 14 January 2021 to explain the programme in more detail and answer your questions. 
-The deadline for applications is Friday, 5 February 2021. 
+- **SSI Fellowship 2021**: The call for applications to the SSI’s Fellowship Programme 2021 is now open!
+The Fellowship Programme provides funding for individuals who want to improve how research software is done in their domains and/or area of work.
+Being a Fellow also helps individuals develop skills and knowledge in their area around software sustainability, empowers them to speak about software sustainability issues and network with like-minded individuals from a wide variety of research areas.
+The Institute will be running a Fellows 2021 Launch Webinar on Thursday, 14 January 2021 to explain the programme in more detail and answer your questions.
+The deadline for applications is Friday, 5 February 2021.
 To find out more information including how to apply, schedule, example applications from successful Fellows, and words of encouragement, please visit the programme website: http://bit.ly/ssi-fellows2021
 
-- **HiddenRef Submissions are Open**: The hidden REF is a competition that recognises all research outputs and every role that makes research possible. 
-If you would like to enter your work or nominate a person who has been vital to your research, please [complete a submission (300 words)](https://hidden-ref.org/submissions/) by 26th February 2021. 
+- **HiddenRef Submissions are Open**: The hidden REF is a competition that recognises all research outputs and every role that makes research possible.
+If you would like to enter your work or nominate a person who has been vital to your research, please [complete a submission (300 words)](https://hidden-ref.org/submissions/) by 26th February 2021.
 Submissions will be reviewed by panels drawn from across the research community and winners will be announced in April 2021.
 
 ![We are open for submissions! https://hidden-ref.org/submissions/ The more submissions we receive, the more evidence we have to campaign for broadening the research community's definition of what it means to contribute to research. Good luck!](images/2020-12-hiddenref-tweet-6.png)
@@ -186,11 +186,11 @@ As we complete the second year of _The Turing Way_, we review the year 2020 mont
 
 ![A GIF with a statement 'Thank you very much' with the silhouette of snow and a calmly flowing river](images/2020-12-thank-you-7.gif)
 
-We want to express our gratitude towards all of you - our community members. 
-Thank you for collaborating on GitHub and contributing to _The Turing Way_ book by thoughtfully developing, reviewing and maintaining its chapters and infrastructure that are used by researchers globally. 
-Your participation in the online Collaboration Cafés, coworking calls, Book Dash events and community discussions on Slack this year have made _The Turing Way_ even more, vibrant and welcoming for new members. 
+We want to express our gratitude towards all of you - our community members.
+Thank you for collaborating on GitHub and contributing to _The Turing Way_ book by thoughtfully developing, reviewing and maintaining its chapters and infrastructure that are used by researchers globally.
+Your participation in the online Collaboration Cafés, coworking calls, Book Dash events and community discussions on Slack this year have made _The Turing Way_ even more, vibrant and welcoming for new members.
 
-2020 has not been an easy year for most and therefore it is even more important for us to acknowledge that we value your participation in the projects immensely. 
+2020 has not been an easy year for most and therefore it is even more important for us to acknowledge that we value your participation in the projects immensely.
 It is only by involving the diverse community of individuals from different backgrounds, domain knowledge, skill levels and experiences from all around the world, can we make “reproducibility too easy not to do”.
 We hope that you can take a break and enjoy the end of the year. We wish you a happy new year 2021!
 

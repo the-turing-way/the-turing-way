@@ -14,9 +14,9 @@
 ## Topics/Rooms
 
 * AI-UK artwork
-* PPIE 
+* PPIE
 * Meta case room
-* Quiet coworking    
+* Quiet coworking
 
 ## Notes from Main room: WG and Community Call
 

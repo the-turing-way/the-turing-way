@@ -14,17 +14,17 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 (cm-open-prerequisites)=
 ## Prerequisites
 
-No previous knowledge is needed. 
-Related information to Open Scholarship can be found in the {ref}`rr-open` chapter, that also has a more detailed summary of the importance and motivation behind Open Scholarship. 
+No previous knowledge is needed.
+Related information to Open Scholarship can be found in the {ref}`rr-open` chapter, that also has a more detailed summary of the importance and motivation behind Open Scholarship.
 
 (cm-open-summary)=
 ## Summary
 
-Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship [{term}`def<Open Scholarship>`]. 
+Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship [{term}`def<Open Scholarship>`].
 Open scholarship aims to transform research by making it more reproducible, transparent, reusable, collaborative, accountable, and accessible to society.
 This chapter aims to give a brief overview of the multiple aspects of open scholarship.
- 
+
 (cm-open-motivation)=
 ## Motivation
 
-Open Scholarship increases the impact of research as it reaches a wider audience, facilitates participation and collaboration in research and advances knowledge more effectively. 
+Open Scholarship increases the impact of research as it reaches a wider audience, facilitates participation and collaboration in research and advances knowledge more effectively.

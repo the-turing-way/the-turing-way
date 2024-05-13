@@ -23,7 +23,7 @@ _The Turing Way_ è una guida per condurre data science in maniera riproducibile
 
 *The Turing Way è un libro, una comunità e una collaborazione globale.*
 
-Tutte le parti interessate, tra cui studenti, ricercatori, software engineers, capi progetto e team di finanziamento, sono incoraggiati a usare _The Turing Way_ per capire i propri ruoli e responsabilità nella riproducibilità in data science. 
+Tutte le parti interessate, tra cui studenti, ricercatori, software engineers, capi progetto e team di finanziamento, sono incoraggiati a usare _The Turing Way_ per capire i propri ruoli e responsabilità nella riproducibilità in data science.
 Puoi leggere il libro [online](https://github.com/the-turing-way/the-turing-way), contribuire al progetto come dettagliato in [questa guida](/CONTRIBUTING.md) e riusare tutti i materiali (controlla la [licenza](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
 
 [![Questo è uno screenshot del libro online. Mostra una delle illustrazioni all'inizio del libro. In questa figura, c'è una strada dove ci sono negozi per le varie data science skills. I clienti, con il loro carrello, possono entrare e uscire a loro piacimento e scegliere ciò che gli serve.](/book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)

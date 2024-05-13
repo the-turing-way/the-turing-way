@@ -32,5 +32,5 @@ Three graduation calls will take place on 15, 16 and 17 December 2020, informati
 
 Thanks to Anjali Mazumdar, Arielle Bennett, Kirstie Whitaker, Sarah Gibson, Anelda van der Walt, Jez Cope, Martina Vilas, Samuel Guay and Yo Yehudi for mentoring these projects.
 
- You can find more details (including notes and Zoom link) about the graduation events and call for application for their next cohort in [this blogpost](https://openlifesci.org/posts/2020/11/26/announcing-applications-for-ols-3/). 
+ You can find more details (including notes and Zoom link) about the graduation events and call for application for their next cohort in [this blogpost](https://openlifesci.org/posts/2020/11/26/announcing-applications-for-ols-3/).
   These graduation calls will also be [live-streamed on YouTube](https://www.youtube.com/channel/UCs12-ZgnDJOWIWN3Vo1XHXA/).

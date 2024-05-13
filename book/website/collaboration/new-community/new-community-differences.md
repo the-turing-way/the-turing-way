@@ -23,10 +23,10 @@ To create equitable opportunities for everyone, create task lists with varying r
 (cl-new-community-differences-resources)=
 ## Allow Access to Assumed Knowledge and Resources
 
-Working with team members from different disciplines and backgrounds can provide a wealth of new perspectives. 
-However, it is important to standardise which concepts all parties should be familiar with for productive collaboration. 
-For example, replacing jargon and acronyms with clearer alternatives will make information accessible to all team members. 
-Where some technical terminology is necessary, it can be useful to have a shared, editable definitions document. 
+Working with team members from different disciplines and backgrounds can provide a wealth of new perspectives.
+However, it is important to standardise which concepts all parties should be familiar with for productive collaboration.
+For example, replacing jargon and acronyms with clearer alternatives will make information accessible to all team members.
+Where some technical terminology is necessary, it can be useful to have a shared, editable definitions document.
 Additionally, it is important to create a supportive environment where anyone can ask for clarification without feeling looked down upon.
 
 Additionally, provide access to resources whenever you can to ensure that everyone has the opportunity to gain a common understanding.

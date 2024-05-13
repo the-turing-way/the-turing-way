@@ -6,7 +6,7 @@
 
 
 :::info
-- **Date:** 4 November 2020 
+- **Date:** 4 November 2020
     - ==Call 1: 9:00 - 10:00 London time ([in your time zone](https://arewemeetingyet.com/London/2020-11-04/09:00/The%20Turing%20Way%20Book%20Dash%20Drop-in#eyJ1cmwiOiJodHRwczovL2hhY2ttZC5pby9AdHVyaW5nd2F5L2Jvb2tkYXNoLW5vdjIwMjAtZHJvcC1pbiJ9))==
     - ==Call 2: 17:00 - 18:00 London time ([in your time zone](https://arewemeetingyet.com/London/2020-11-04/17:00/The%20Turing%20Way%20Book%20Dash%20Drop-in#eyJ1cmwiOiJodHRwczovL2hhY2ttZC5pby9AdHVyaW5nd2F5L2Jvb2tkYXNoLW5vdjIwMjAtZHJvcC1pbiJ9))==
 - **Hosts:** Kirstie Whitaker, Malvika Sharan
@@ -15,7 +15,7 @@
 ---
 [TOC]
 
-:sunflower: Welcome!  
+:sunflower: Welcome!
 ---
 
 This call is scheduled for the invited participants of the next Book Dash event hosted by The Turing Way and the Biohackathon-EU 2020, both taking place from 9 to 13 November 2020 online.
@@ -38,22 +38,22 @@ Please see more details on [the project](https://github.com/alan-turing-institut
 
 ### Call 1: 9:00 - 10:00 London time ([in your time zone](https://arewemeetingyet.com/London/2020-11-04/09:00/The%20Turing%20Way%20Book%20Dash%20Drop-in#eyJ1cmwiOiJodHRwczovL2hhY2ttZC5pby9AdHVyaW5nd2F5L2Jvb2tkYXNoLW5vdjIwMjAtZHJvcC1pbiJ9)), Sign up below
 
-*Name (optional: pronouns) - "icebreaker: your favorite animal + your current favorite hobby + favorite collaborative project (beside the _Turing Way_ :sweat_smile:)"* 
+*Name (optional: pronouns) - "icebreaker: your favorite animal + your current favorite hobby + favorite collaborative project (beside the _Turing Way_ :sweat_smile:)"*
 * Malvika (she/her) + "sloth + piano + Open Life Science"
 * Elin (she/her) -"dog + knitting"
 * Laura C (she/her) - budgie :bird: + reading :books: + local community garden :tomato:
 * Ismael (he/him) - unicorn + walking + Open Life Science
 * Emma K (she/her) + "🦥 + watching the bake off! + Open Life Science".
-* Veronika (she/her) + cat + D&D 
+* Veronika (she/her) + cat + D&D
 * Asha Titus (she/her) - "dog + putting filters into masks and/or finding good upcycled, layered masks perfecting what I call the 'pandemic chic':sweat_smile: + zoom choir"
 * Kirstie Whitaker (she/her) + giraffe + cross stitching + Binder
-* Sophia Batchelor (she/her) + learning shader graphs for Unity and Unreal Engine + Open Life Science 
+* Sophia Batchelor (she/her) + learning shader graphs for Unity and Unreal Engine + Open Life Science
 * Marta Mangiarulo (she/her) - "cats + compulsive buying + Pint of Science"
 * Marilina (she/her) + " birds + puzzles + my first time :smile:"
 
 ### Call 2: 17:00 - 18:00 London time ([in your time zone](https://arewemeetingyet.com/London/2020-11-04/17:00/The%20Turing%20Way%20Book%20Dash%20Drop-in#eyJ1cmwiOiJodHRwczovL2hhY2ttZC5pby9AdHVyaW5nd2F5L2Jvb2tkYXNoLW5vdjIwMjAtZHJvcC1pbiJ9)), Sign up below
 
-*Name (optional: pronouns) - "icebreaker: your favorite animal + your current favorite hobby + favorite collaborative project (beside the _Turing Way_ :sweat_smile:)"* 
+*Name (optional: pronouns) - "icebreaker: your favorite animal + your current favorite hobby + favorite collaborative project (beside the _Turing Way_ :sweat_smile:)"*
 * Malvika (she/her) + "sloth + piano + Open Life Science"
 * Sarah (she/her) + "flamingo + reading + Project Binder"
 * Neha (she/her) + "dogs _and_ cats + looking at, but never reading my non-fiction books + Open Life Science"
@@ -61,11 +61,11 @@ Please see more details on [the project](https://github.com/alan-turing-institut
 * Sangram (he/him) + "dogs + photography + nf-core"
 * Brigitta (she/her) + manta ray + cold water swimming + numpy&astropy
 * Lupe (she/her) + "ladybug" + pyladies
-* Martina (she/her) + dogs + drawing + Open Life Science :leaves: 
+* Martina (she/her) + dogs + drawing + Open Life Science :leaves:
 * Paul (he/him) + dogs + calisthenics + Open Life Science
 * Samuel (he/him) + sharks + kitesurfing + Open Science UMontreal (and Open Life Science, ofc)
 * Laura A (she/her) + cats :cat: + jigsaws + MetaDocencia :apple:
-  
+
 
 :information_source: About _The Turing Way_ and the Book Dash
 ---
@@ -78,9 +78,9 @@ Please see more details on [the project](https://github.com/alan-turing-institut
 :dart: Goal setting exercise: Breakout
 ---
 
-We would like to help create some plans and topics they you would like to explore for your contributions in _The Turing Way_. 
-- Please note that this goal setting can relate to the suggestions made the reviewers based on your application (see your acceptance email). 
-- We will be delighted to work with you to make sure that you are excited about your contribution to the Book Dash event. 
+We would like to help create some plans and topics they you would like to explore for your contributions in _The Turing Way_.
+- Please note that this goal setting can relate to the suggestions made the reviewers based on your application (see your acceptance email).
+- We will be delighted to work with you to make sure that you are excited about your contribution to the Book Dash event.
 - These topics can be something that is either missing in the existing chapters or need to be updated in the project.
 - You personal motivation could also be to collaborate with others at the event to work on and support what they are working on
 - We also recognise - and celebrate the fact - that plans may change once you meet the other participants!
@@ -97,9 +97,9 @@ Setting our personal goals will help us prepare better for your participation:
 
 * [name=Kirstie] **Emma** had a really great idea around improving the ramp up for GitHub / GitHub in the browser / alternatives to GitHub. I'm going to add a few thoughts here to capture them.
   * I'd love for the onboarding for GitHub to be in the **Collaboration** book. I have a personal soapbox about git and GitHub being _very_ different and serve different purposes.
-  * I'm really keen for a chapter / section that details the different philosophies about learning GitHub. The traditional way is to learn everything about version control (git) first and I tend to err towards a "get stuff done and then feel motivated" angle, and also to recognise that GitHub is a collaboration tool that allows you to USE a very powerful version control tool. 
-  * I'd also really love to see a conversation about different types of version control. I'm quite committed to git / GitHub rather than google drive / dropbox / Microsoft365 because the git/GitHub skills really open up a LOT of additional collaborative pathways - its very hard to enter the FOSS ecosystem without them. BUT that isn't explained anywhere in the Turing Way so far so it would be really great to have a page to reference! 
-* [name=Kirstie] It's really interesting how psychology have convolved preregistration with open science. I think it will be SO helpful to have **Marta's** contribution on preregistration to be able to disentangle the very many different types of "openness" :sparkles: 
+  * I'm really keen for a chapter / section that details the different philosophies about learning GitHub. The traditional way is to learn everything about version control (git) first and I tend to err towards a "get stuff done and then feel motivated" angle, and also to recognise that GitHub is a collaboration tool that allows you to USE a very powerful version control tool.
+  * I'd also really love to see a conversation about different types of version control. I'm quite committed to git / GitHub rather than google drive / dropbox / Microsoft365 because the git/GitHub skills really open up a LOT of additional collaborative pathways - its very hard to enter the FOSS ecosystem without them. BUT that isn't explained anywhere in the Turing Way so far so it would be really great to have a page to reference!
+* [name=Kirstie] It's really interesting how psychology have convolved preregistration with open science. I think it will be SO helpful to have **Marta's** contribution on preregistration to be able to disentangle the very many different types of "openness" :sparkles:
 *
 *
 
@@ -112,10 +112,10 @@ Setting our personal goals will help us prepare better for your participation:
     > step 1:
     > step 2:
     > step 3:
-> **R**elevant: Does this goal meet a specific need?: 
-> **T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov): 
+> **R**elevant: Does this goal meet a specific need?:
+> **T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov):
 > Goal statement:
-> 
+>
 
 > [name=Malvika]
 > **S**pecific: What do I want to accomplish?:
@@ -127,8 +127,8 @@ Setting our personal goals will help us prepare better for your participation:
     > step 1: rebase the PR with main branch (the PR)
     > step 2: design structure of the chapters (2 sessions)
     > step 3: Make it available to merge (3 sessions)
-> **R**elevant: Does this goal meet a specific need?: 
-> **T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov): 
+> **R**elevant: Does this goal meet a specific need?:
+> **T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov):
 > Goal statement: By the end of the book dash, I would have created a ready to merge PR with different chapters (already written this year by other people), with the help of 5 collaborators at least.
 
 > [name=Ismael K.G.]
@@ -151,7 +151,7 @@ Setting our personal goals will help us prepare better for your participation:
     > step 3: Incorporate review comments and finalise chapter
 > **R**elevant: Does this goal meet a specific need?: Yes, it's addressing an existing issue
 > **T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov): step 1: Mon + Tues; step 2: Weds + Thurs; step 3: Fri
-> Goal statement: By the end of the Book Dash, there will be a subchapter on law and policy in the Ethics book. 
+> Goal statement: By the end of the Book Dash, there will be a subchapter on law and policy in the Ethics book.
 
 > [name=Emma K]
 > **S**pecific: What do I want to accomplish?: Planning and drafting new section on onboarding people with less technical background to use github or other versioning software for reproducible studies.
@@ -162,54 +162,54 @@ Setting our personal goals will help us prepare better for your participation:
     > step 3: Write the section.
 > **R**elevant: Does this goal meet a specific need?: Onboarding of novice versioning users.
 > **T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov): Step 1 - mon, step 2 - tues, step 3 - 13 Nov.
-> Goal statement:By the end of the Book Dash, there will be a subchapter on onboarding versioning novices. 
+> Goal statement:By the end of the Book Dash, there will be a subchapter on onboarding versioning novices.
 
 > [name=Sophia]
-> **S**pecific: Write 3000-4000 useful words on a framework to consider ethical implementation of data science projects 
+> **S**pecific: Write 3000-4000 useful words on a framework to consider ethical implementation of data science projects
 > **M**easurable: In a % of words written, and in a review process where I have input and can develop the framework and communication based on feedback and ideas!
 > **A**ttainable: Can I realistically achieve this goal? What steps will I take?
-    > step 1: Meet a word count goal each day, and spend a section of time on editing 
+    > step 1: Meet a word count goal each day, and spend a section of time on editing
     > step 2: Seekout and invite collaboration in order to develop ideas and get insight from others.
-    > step 3: 
-> **R**elevant: It fulfils the space for content in the research chapter.  
+    > step 3:
+> **R**elevant: It fulfils the space for content in the research chapter.
 > **T**ime-bound: Nov 15th (I'm a weekend worker -> quote Bastian Greshake)
 > Goal statement:
-> 
+>
 
 > [name=Veronika]
 > **S**pecific: What do I want to accomplish?: First draft of a chapter for project management with teams, having an initial contents table and 3000+ words
-> 
+>
 > **M**easurable: How will I measure my success?: Word count, review
 > **A**ttainable: Can I realistically achieve this goal? What steps will I take?
     > step 1: Show up to several sessions and write
     > step 2: Ask people for input/brainstorming?
     > step 3: Add resources that can help others continue the section afterwards
-> **R**elevant: Does this goal meet a specific need?: 
+> **R**elevant: Does this goal meet a specific need?:
 > **T**ime-bound: What is my target deadline? 15th Nov
 > Goal statement:
-> 
+>
 
 - [name=Neha]
 
-> **S**pecific: What do I want to accomplish?:Follow up with (fellow OLS-2 team member) Paul's contributions to _The Turing Way_ on _Embedding Accessibility in The Turing Way Open Source Guide_ and provide feedback + suggestions. Also, get feedback from other Book Dash participants on our chapter.  
+> **S**pecific: What do I want to accomplish?:Follow up with (fellow OLS-2 team member) Paul's contributions to _The Turing Way_ on _Embedding Accessibility in The Turing Way Open Source Guide_ and provide feedback + suggestions. Also, get feedback from other Book Dash participants on our chapter.
 > **M**easurable: How will I measure my success?:By the end of Book Dash, I would've reviewed and provided feedback on Paul's contributions. I would have also collected feedback from other participants.
 > **A**ttainable: Can I realistically achieve this goal? What steps will I take?
     > step 1:Coordinate with Paul and prepare a list of what I need to review. Also, note who are the new coordinators - so we could get feedback from them.
     > step 2:Spread these tasks out over the week.
-    > step 3:Get it done :rocket: 
-> **R**elevant: Does this goal meet a specific need?: 
+    > step 3:Get it done :rocket:
+> **R**elevant: Does this goal meet a specific need?:
 > **T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov): 13th November
-> Goal statement:Catch up with Paul's contributions for our OLS-2 + _The Turing Way_, and brainstorm about contributions post-Book Dash, get feedback from new contributors at the Book Dash. _Bonus:_ related to my project at work = meet up with the Ethics team + learn about how to build and maintain a lite-version of _A Turing Way_-style book + community. 
-- 
+> Goal statement:Catch up with Paul's contributions for our OLS-2 + _The Turing Way_, and brainstorm about contributions post-Book Dash, get feedback from new contributors at the Book Dash. _Bonus:_ related to my project at work = meet up with the Ethics team + learn about how to build and maintain a lite-version of _A Turing Way_-style book + community.
+-
 
 > [name=Sangram]
 > **S**pecific: What do I want to accomplish?: Bioinformatics case study for Reproducibility (working with [Biohackathon-EU-Turing-way](https://github.com/elixir-europe/BioHackathon-projects-2020/tree/master/projects/9))
-> **M**easurable: How will I measure my success?: Once we have substancial case study for few topics. 
+> **M**easurable: How will I measure my success?: Once we have substancial case study for few topics.
 > **A**ttainable: Can I realistically achieve this goal? What steps will I take?
-    > step 1:Collaborate with Biohackathon-EU 
+    > step 1:Collaborate with Biohackathon-EU
     > step 2:Get few case study (renv, docker) which can be a starting point to add more.
     > step 3:
-> **R**elevant: Does this goal meet a specific need?: 
+> **R**elevant: Does this goal meet a specific need?:
 > **T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov): Before 13th Nov
 > Goal statement:Have first draft of Bioinformatics case study under any two topics, which can be extended.
 
@@ -219,10 +219,10 @@ Setting our personal goals will help us prepare better for your participation:
 > **A**ttainable: Can I realistically achieve this goal? What steps will I take?
     > step 1: Review the French README.md PR done by Jessy Provencher
     > step 2: Gather a bunch of writing guide on inclusive writing
-    > step 3: Define a the workflow to make sure we don't translate stuff for nothing :upside_down_face: 
-> **R**elevant: Does this goal meet a specific need?: 
+    > step 3: Define a the workflow to make sure we don't translate stuff for nothing :upside_down_face:
+> **R**elevant: Does this goal meet a specific need?:
 > **T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov): 13 nov
-> Goal statement: Take the lead on the french translation by first reviewing the French Readme pull request, then gathering writing guides on inclusive writing in gendered languages. If time permits will test out the whole workflow. 
+> Goal statement: Take the lead on the french translation by first reviewing the French Readme pull request, then gathering writing guides on inclusive writing in gendered languages. If time permits will test out the whole workflow.
 
 
 > [name=Brigitta]
@@ -232,7 +232,7 @@ Setting our personal goals will help us prepare better for your participation:
     > step 1: Reach out to the team who the current version to brainstorm about the "case" they wrote it for. Brainstorm the structure of how the different scenarios are best presented.
     > step 2: Add sections that are from the POV Started to revise the git chapters from the POV of a larger organization
     > step 3: draft PR possibly missing topics
-> **R**elevant: Does this goal meet a specific need?: 
+> **R**elevant: Does this goal meet a specific need?:
 > **T**ime-bound: Target deadline is to wrap up PRs, and open issues for the future by the of the weekend after the book dash.
 > Goal statement: Personal goal is to get networking, and experience for topics via observing what you all doing about topics I don't have expertise, and deliver a reviewed and updated text that are the most relevant to collaborative software practices.
 
@@ -240,16 +240,16 @@ Setting our personal goals will help us prepare better for your participation:
  **S**pecific: What do I want to accomplish?:
 * Pull request for the Leadership chapter
 * Ask and guide for contributions to the parts where the chapter needs more work still. Particularly, adding leadership personal stories.
-* If time allows, contribute to the ethics book 
+* If time allows, contribute to the ethics book
 **M**easurable: How will I measure my success?:
 * Through the existence of the PR for the chapter as well as PRs for additions to the leadership chapters and also any PR or issue I can contribute to for the Ethics book.
 **A**ttainable: Can I realistically achieve this goal? What steps will I take?
 * step 1: Read the leadership chapter one more time.
 * step 2: Make chapter's PR
 * step 3: Reach out to people (e.g., Lupe to help them get started with their personal story writing)
-**R**elevant: Does this goal meet a specific need?: 
+**R**elevant: Does this goal meet a specific need?:
 Yes. The Leadership chapter has its own issue and this will make the issue closer to closing.
-**T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov): 
+**T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov):
 * I hope the chapter PR and additions to the chapter will be done by 11/11
 * The rest of the bood dash I will use it to find a way to contribute to the Ethics book
 Goal statement: Have a first draft of the Leadership chapter publish, a personal leadership in open source started, and at least one contribution to the Ethics book. Bonus: contribute to activities in Spanish, network with as many folks as possible participating in this book dash.
@@ -260,8 +260,8 @@ Goal statement: Have a first draft of the Leadership chapter publish, a personal
 > **A**ttainable: Can I realistically achieve this goal? What steps will I take?
     > step 1: Work on issues for a set number of chapters each day
     > step 2: revise consistency chapter with feedback each day
-    > step 3: (if there's time during the week)create templates to guide contributions for new chapters 
-> **R**elevant: Does this goal meet a specific need?: 
+    > step 3: (if there's time during the week)create templates to guide contributions for new chapters
+> **R**elevant: Does this goal meet a specific need?:
 > **T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov): Nov. 13
 > Goal statement: I hope to create good first issues for new contributors looking to help make the turing way as consistent as possible (across the entire book). Complete a revised template for people looking to write new chapters
 
@@ -272,8 +272,8 @@ Goal statement: Have a first draft of the Leadership chapter publish, a personal
     > step 1:
     > step 2:
     > step 3:
-> **R**elevant: Does this goal meet a specific need?: 
-> **T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov): 
+> **R**elevant: Does this goal meet a specific need?:
+> **T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov):
 > Goal statement:
 
 
@@ -287,27 +287,27 @@ Goal statement: Have a first draft of the Leadership chapter publish, a personal
 > **R**elevant: Does this goal meet a specific need?: Yes, it helps the ethics book.
 > **T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov):
     > Day 1 & 2: Source Literature
-    > Day 3: Chapter Structure 
+    > Day 3: Chapter Structure
     > Day 3, 4 & 5: Work on the chapter draft.
 > Goal statement: I hope to ensure there is a comprehensive outline of data anonymization techniques by the end of the book dash.
 
 > [name=Marilina]
 > **S**pecific: What do I want to accomplish?: share ideas to develop chapters in the Guide for Communication.
-> **M**easurable: How will I measure my success?:  creation of a first draft (brainstorming :umbrella:) 
+> **M**easurable: How will I measure my success?:  creation of a first draft (brainstorming :umbrella:)
 > **A**ttainable: Can I realistically achieve this goal? What steps will I take?
     > step 1: Get familiar with the new tools.
     > step 2: Work on ideas.
     > step 3: Compile them into the first draft.
-> **R**elevant: Does this goal meet a specific need?: Yes, I think so. It will contribute to the Book Dash event. 
+> **R**elevant: Does this goal meet a specific need?: Yes, I think so. It will contribute to the Book Dash event.
 > **T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov):
     > Day 1 & 2: intro to The Turing Way book dash
-    > Day 3: chapter structure 
+    > Day 3: chapter structure
     > Day 3, 4 & 5: work on the draft.
 > Goal statement: I hope to ensure there is a draft of ideas to develop chapters in the Guide for Communiction by the end of the book dash.
 
 ##  Closing:
 
-- 
+-
 
 ### Wondering where to start?
 

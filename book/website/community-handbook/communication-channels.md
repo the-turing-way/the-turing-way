@@ -10,10 +10,10 @@ Given the diverse range of formal and informal projects managed by both the proj
 
 ## GitHub for Synchronous and Asynchonous Communications
 
-[GitHub Issue](https://github.com/the-turing-way/the-turing-way/issues) and [Github discussions](https://github.com/the-turing-way/the-turing-way/discussions) 
-serve as a dynamic space where updates, queries, and discussions happen. 
+[GitHub Issue](https://github.com/the-turing-way/the-turing-way/issues) and [Github discussions](https://github.com/the-turing-way/the-turing-way/discussions)
+serve as a dynamic space where updates, queries, and discussions happen.
 The GitHub 'discussions' feature, although not as frequently used by community members as the issues and Pull Requests, allows the project delivery team to share information related to specific topics, maintaining transparency among community members.
-These avenues ensure that even individuals not actively participating in a conversation can stay informed about ongoing developments and contribute where they can. 
+These avenues ensure that even individuals not actively participating in a conversation can stay informed about ongoing developments and contribute where they can.
 Contributors can respond in real-time, but the system is mainly used to accommodate varying time zones, allowing participants to engage at their convenience.
 
 To streamline communication, issues that seek input or require voting are labelled appropriately, such as [`community`](https://github.com/the-turing-way/the-turing-way/labels/community), when a certain discussion requires community input.
@@ -32,9 +32,9 @@ We use the Slack and social media platforms to engage with our collaborators and
 
 ### Slack Workspace
 
-_The Turing Way_ Slack Workspace (theturingway.slack.com) is one of our core communication channels. 
+_The Turing Way_ Slack Workspace (theturingway.slack.com) is one of our core communication channels.
 This platform enables instant messaging, fostering quick exchanges and real-time collaborations among team members.
-It is a space where folks ask questions, learn about each other’s work, and get involved with _The Turing Way_ and other projects. 
+It is a space where folks ask questions, learn about each other’s work, and get involved with _The Turing Way_ and other projects.
 While it is not the only communication channel used by the community, it is a popular platform, increasingly used by remote teams around the world.
 
 You can join the workspace using the [joining invitation](https://theturingway.slack.com/join/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw#/shared-invite/email).
@@ -55,12 +55,12 @@ In addition to our synchronous communication channels, we leverage various platf
 
 ### Monthly Newsletters
 
-Asynchronous communication is facilitated through {ref}`monthly newsletters<ch-newsletters>`, offering updates on the project's progress, achievements, and upcoming events. 
+Asynchronous communication is facilitated through {ref}`monthly newsletters<ch-newsletters>`, offering updates on the project's progress, achievements, and upcoming events.
 These newsletters provide a digestible format for community members to stay informed at their own pace, offering a snapshot of recent developments within _The Turing Way_.
 
 ### Zenodo Community Page
 
-_The Turing Way_ community page on [Zenodo](https://zenodo.org/communities/the-turing-way) is the main platform to archive and preserve project-related outputs, including slide decks, reports, datasets (such as the entire GitHub repository and illustrations), and publications. 
+_The Turing Way_ community page on [Zenodo](https://zenodo.org/communities/the-turing-way) is the main platform to archive and preserve project-related outputs, including slide decks, reports, datasets (such as the entire GitHub repository and illustrations), and publications.
 This platform provides persistent identifiers (DOI) to keep stable and citable records, enhancing accessibility and longevity.
 
 ### GitHub Repositories
@@ -78,14 +78,14 @@ By February 2024, following repositories host specific working group communicati
 
 ### _The Turing Way_ Book Chapters
 
-The book chapters themselves serve as a form of asynchronous communication, providing an extensive range of practices documented for reuse by others. 
+The book chapters themselves serve as a form of asynchronous communication, providing an extensive range of practices documented for reuse by others.
 Community members can refer to these chapters at their convenience for onboarding, reference and self-paced learning.
 These ultimately serve as an important pathway for the community members to identify where they would like to get involved.
 
 _The Turing Way_ community members document the practices they use within the project and our community activities, which are shared in the {ref}`Community Handbook<ch>`.
 Templates and resources are shared to help with future community-building efforts within and beyond _The Turing Way_.
 
-In the subchapters of this chapter, we compile the processes and practices guiding communication across different platforms. 
-By doing so, we provide a reference point for community members to identify the right channels they would like to follow and other projects looking to establish effective communication strategies within their own communities. 
+In the subchapters of this chapter, we compile the processes and practices guiding communication across different platforms.
+By doing so, we provide a reference point for community members to identify the right channels they would like to follow and other projects looking to establish effective communication strategies within their own communities.
 
 Feel free to edit and update these resources, or adapt and implement them to suit the unique needs of your community/projects.

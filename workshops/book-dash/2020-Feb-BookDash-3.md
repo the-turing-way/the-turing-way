@@ -37,7 +37,7 @@ Our first [book dash](LINK) of the year took place on 20 and 21 February 2020 at
 
 ## Overview
 
-_The Turing Way_ book dash events are a shorter version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants work on _The Turing Way_ book synchronously on the same day. 
+_The Turing Way_ book dash events are a shorter version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants work on _The Turing Way_ book synchronously on the same day.
 As a community-driven guidebook, _The Turing Way_ welcomes researchers from diverse fields and backgrounds at these events for contributing new chapters and reviewing/editing existing content to make them accessible and comprehensive for everyone.
 
 Hosted by project lead Kirstie Whitaker and community manager Malvika Sharan, this event was co-organised with the tremendous support from [Louise Bowler](https://www.turing.ac.uk/people/researchers/louise-bowler) and [Sarah Gibson](https://www.turing.ac.uk/people/researchers/sarah-gibson), members of the Research Engineering Group, and Katherine Dixey, project manager of the Tools, Practices and Systems research programme at Turing.
@@ -47,7 +47,7 @@ In this post, read all about the event, successes and lessons learned, and the n
 ## The book dash participants
 
 Selected from a pool of applications received through [an open call](https://twitter.com/kirstie_j/status/1212700726482341888?s=20), 15 candidates were invited to attend this in-person event (see their names in the group picture below).
-We were also delighted to welcome Jade Pickering, a previous book dash attendee who returned as a helper along with Louise and Sarah to support other book dash attendees. 
+We were also delighted to welcome Jade Pickering, a previous book dash attendee who returned as a helper along with Louise and Sarah to support other book dash attendees.
 Those not located in London received travel and accommodation support from _The Turing Way_ project.
 
 ![](./figures/book-dash-feb20-group.jpg)
@@ -62,16 +62,16 @@ Those not located in London received travel and accommodation support from _The 
 
 ## Pre-dash drop-in calls
 
-We hosted 2 pre-dash drop-in calls a week before the main event to ensure that all our participants were familiar with project, the format of the book dash and how they can be contributing through their involvement at this event. 
+We hosted 2 pre-dash drop-in calls a week before the main event to ensure that all our participants were familiar with project, the format of the book dash and how they can be contributing through their involvement at this event.
 It was an opportunity for us to get to know our attendees and address their questions prior to the book dash.
 
-Several participants shared their contribution plans and topics they would like to add in _The Turing Way_ that is either missing in the existing chapters or need to be updated. 
-We also discussed the project expansion plans, which in addition to the book on reproducibility, will include 5 more volumes on ethics, project design, collaboration, communication & outreach and a meta-book on the project itself. 
+Several participants shared their contribution plans and topics they would like to add in _The Turing Way_ that is either missing in the existing chapters or need to be updated.
+We also discussed the project expansion plans, which in addition to the book on reproducibility, will include 5 more volumes on ethics, project design, collaboration, communication & outreach and a meta-book on the project itself.
 You can read notes from these calls [here](https://hackmd.io/@malvikasharan/bookdash).
 
 ## Pre-dash brainstorming and dinner
 
-Our participants joined us in London on 20 February 2020 at The Alan Turing Institute for an introduction session. 
+Our participants joined us in London on 20 February 2020 at The Alan Turing Institute for an introduction session.
 
 ![](./figures/book-dash-feb20-intro1.jpg)
 *Heidi, Esther and Adina exchanging local sweets and snacks at the beginning of the event (picture by Kirstie Whitaker)*
@@ -81,19 +81,19 @@ To everyone's delight, many participants brought their local sweets and snacks t
 ![](./figures/book-dash-feb20-intro2.jpg)
 *Image by Esther Plomp - originally from [her blog on Book Dash](https://openworking.wordpress.com/2020/02/27/the-turing-way-bookdash/)*
 
-Malvika kicked-off the book dash with a presentation on the project and the event ([slides](https://doi.org/10.5281/zenodo.3676448)) followed by a Q&A session addressed by Kirstie. 
+Malvika kicked-off the book dash with a presentation on the project and the event ([slides](https://doi.org/10.5281/zenodo.3676448)) followed by a Q&A session addressed by Kirstie.
 In the next hour,  everyone brainstormed their ideas in small groups to plan their contributions and identify their collaborators for the next day.
 
 Our event had unintentionally overlapped with the [University and College Union (UCU) Strike](https://www.ucu.org.uk/article/10621/UCU-announces-14-strike-days-at-74-UK-universities-in-February-and-March) that was starting on the same day.
-Even though we were not participating in the strike, we wanted to show solidarity and help the relevant tweets about the UCU strike take a central stage. 
+Even though we were not participating in the strike, we wanted to show solidarity and help the relevant tweets about the UCU strike take a central stage.
 Therefore, we avoided posting tweets on _The Turing Way_, and the Book Dash event and instead encouraged our participants to tweet about the UCU strike and their goals of amplifying the much-needed discussion around working conditions, fair pay, pensions, and equality in UK universities.
 
-We ended the day with a group dinner, which was a chance for everyone attending the book dash to connect with each other in an informal setting. 
+We ended the day with a group dinner, which was a chance for everyone attending the book dash to connect with each other in an informal setting.
 
 ![](./figures/book-dash-feb20-dinner.jpg)
 
 In a fun lightning talk round, attendees shared their personal stories and talked about a project that they’re either working on or are excited about.
-The last speaker, Sarah Gibson, talked about her work with the Binder community, and shared about her favorite hobby of cross stitching. 
+The last speaker, Sarah Gibson, talked about her work with the Binder community, and shared about her favorite hobby of cross stitching.
 She also handed out a goodie bag that she had created on behalf of _The Turing Way_ core development team for each one of us which included a cross stitch starter's kit, a cross stitch design of Binder logo, along with _The Turing Way_ stickers (designed during the last year's book dash events). 🎁🎁
 
 ![](./figures/book-dash-feb20-sgtweet.jpg)
@@ -116,16 +116,16 @@ Very thoughtfully, they also sent these as care package to our core contributors
 
 ***See additional pictures in the photo gallery below this post.***
 
-On 21 February, the entire book dash day was distributed into 4 long sessions. 
+On 21 February, the entire book dash day was distributed into 4 long sessions.
 We had organised 3 rooms for the event: the first one for open discussion, the second a semi-isolated room for quiet working space for groups who did not need active discussions, and the third a quiet room for people to have breaks for decompression.
 Throughout the day, everyone was encouraged to ask for help, move around or change room as needed, and offer feedback on other people's work.
 
 ![](./figures/book-dash-feb20-louise.jpg)
 *Louise leading the group discussion in the beginning of the day (Picture by Kirstie Whitaker)*
 
-The first session was kicked-off at 9:00 am by Louise Bowler who got all the attendees organised in small groups of collaborators for facilitating a discussion on their road map and plans for their chapters and other contributions. 
-In the second session, participants were encouraged to come up with the main sections of their chapters, which ended before the lunch break with the first set of report outs led by Sarah Gibson. 
-In the third and fourth session, participants worked uninterrupted on their contribution ideas in self-organised groups or individually with the support of organisers and helpers. 
+The first session was kicked-off at 9:00 am by Louise Bowler who got all the attendees organised in small groups of collaborators for facilitating a discussion on their road map and plans for their chapters and other contributions.
+In the second session, participants were encouraged to come up with the main sections of their chapters, which ended before the lunch break with the first set of report outs led by Sarah Gibson.
+In the third and fourth session, participants worked uninterrupted on their contribution ideas in self-organised groups or individually with the support of organisers and helpers.
 
 ## Contributions made by our attendees
 
@@ -146,7 +146,7 @@ Facilitated by Sarah Gibson, we closed the working hours by celebrating everyone
 ### Tools and methods for reproducible research
 * Barbara Vreede and Alex Chan started to write a new chapter on Error Management ([PR #883](https://github.com/alan-turing-institute/the-turing-way/pull/883)).
 * Adina Wagner restructured the version control chapter by extending it with a section on data version control and a personal impact story ([issue #856](https://github.com/alan-turing-institute/the-turing-way/issues/856), [PR #859](https://github.com/alan-turing-institute/the-turing-way/pull/859)). She also created an issue on extending the "reproducible research with Make" ([issue #854](https://github.com/alan-turing-institute/the-turing-way/issues/854)) which she fixed by adding new demonstrations to the chapter ([PR #915](https://github.com/alan-turing-institute/the-turing-way/pull/915)).
-* Louise Bowler worked on a case study on reproducible environment ([PR #864](https://github.com/alan-turing-institute/the-turing-way/pull/864)) that was reviewed by Nathan Begbie! 
+* Louise Bowler worked on a case study on reproducible environment ([PR #864](https://github.com/alan-turing-institute/the-turing-way/pull/864)) that was reviewed by Nathan Begbie!
 
 ### Bots and resources for positive learning and contributing experiences
 * Louise also started to work on an all-contributors bot to make sure all _The Turing Way_ community members are acknowledged appropriately.
@@ -154,7 +154,7 @@ Facilitated by Sarah Gibson, we closed the working hours by celebrating everyone
 * Heidi also opened an issue to add content on file-naming for new learners ([issue #886](https://github.com/alan-turing-institute/the-turing-way/issues/886), [#PR 904](https://github.com/alan-turing-institute/the-turing-way/pull/904)) few issues for first time contributors.
 
 ### Ethical aspects of data science
-* Christina Hitrova, Nicolas Alessandroni, Kesson Magid, and Arielle Bennett-Lovell collaborated to write different sections in the new ethics chapter ([PR # 913](https://github.com/alan-turing-institute/the-turing-way/pull/913)). 
+* Christina Hitrova, Nicolas Alessandroni, Kesson Magid, and Arielle Bennett-Lovell collaborated to write different sections in the new ethics chapter ([PR # 913](https://github.com/alan-turing-institute/the-turing-way/pull/913)).
   * Christina worked on the Ethics chapter - ethics and law, core traditions of ethics, reusing data and webscraping.
   * Kesson wrote the section on informed consent and contributed to the ethics chapter.
   * Nicolas provided a basic definition, gave a philosophical background and contributed a case study to the chapter.
@@ -174,17 +174,17 @@ Facilitated by Sarah Gibson, we closed the working hours by celebrating everyone
 ### Upgrading Jupyter Notebook
 * Martina Vilas worked on fixing the jupyter-book upgrade, which is now integrated into the project ([PR #844](https://github.com/alan-turing-institute/the-turing-way/pull/844)).
 
-## Remote participation from Amsterdam 
+## Remote participation from Amsterdam
 
-At the [Netherlands eScience Center](https://www.esciencecenter.nl/), a group of scientists have been working on developing a "Software Development Guide" (https://nlesc.gitbooks.io/guide/content/). 
+At the [Netherlands eScience Center](https://www.esciencecenter.nl/), a group of scientists have been working on developing a "Software Development Guide" (https://nlesc.gitbooks.io/guide/content/).
 Due to a clear overlap between _The Turing Way_ and the Guide, their members decided to start contributing to _The Turing Way_. This was done in a parallel event organised in Amsterdam, which was coordinated by Carlos Martinez remotely with the help of Mateusz who was present at the book dash in London.
 
 ![](./figures/book-dash-feb20-remote.jpg)
 
 *Remote participation via zoom from Netherlands eScience Center*
 
-During the book dash, they looked into the overlaps and transferred the relevant content to _The Turing Way_. 
-This was a mutually beneficial experience and a wonderful addition to the originally planned event that allowed us to explore remote working options beyond the current option of online Collaboration Cafes. 
+During the book dash, they looked into the overlaps and transferred the relevant content to _The Turing Way_.
+This was a mutually beneficial experience and a wonderful addition to the originally planned event that allowed us to explore remote working options beyond the current option of online Collaboration Cafes.
 
 * Stefan Verhoeven and Carlos Martinez added a document on choosing license ([PR #880](https://github.com/alan-turing-institute/the-turing-way/pull/880)).
 * Bouwe Andela worked on the code quality chapter ([PR #898](https://github.com/alan-turing-institute/the-turing-way/pull/898)). He also contributed to our contribution guidelines by adding extra steps with installation instructions for viewing the local build of the book ([PR #881](https://github.com/alan-turing-institute/the-turing-way/pull/881)).
@@ -192,9 +192,9 @@ This was a mutually beneficial experience and a wonderful addition to the origin
 
 ## Turing Way Logo and other artworks from Scriberia
 
-During the book dash events last year, we invited an artist (Matt) from [Scriberia](http://www.scriberia.co.uk/) who had created a set of excellent illustrations, shared on Zenodo: http://doi.org/10.5281/zenodo.3695300, which are available under a CC-BY licence. 
-These artworks have been massively re-used and shared not only by _The Turing Way_ members but other researchers in their projects, online interactions and presentations. 
-Encouraged by such positive responses, we invited another Scriberia artist - Sam, to the last book dash event. 
+During the book dash events last year, we invited an artist (Matt) from [Scriberia](http://www.scriberia.co.uk/) who had created a set of excellent illustrations, shared on Zenodo: http://doi.org/10.5281/zenodo.3695300, which are available under a CC-BY licence.
+These artworks have been massively re-used and shared not only by _The Turing Way_ members but other researchers in their projects, online interactions and presentations.
+Encouraged by such positive responses, we invited another Scriberia artist - Sam, to the last book dash event.
 Our attendees discussed their ideas and helped Sam capture important concepts they were working on during the book dash and other relevant concepts in general.
 
 We also took this opportunity to co-create a logo, which we are happy to share with you.
@@ -257,67 +257,67 @@ The community provided some helpful suggestions on how to better manage collabor
 ## What's next?
 
 Our global community of contributors like these book dash attendees have been helping us develop a truly community-led guidebook by including their personal perspectives and voice into the project.
-Without a doubt this event was successful at bringing together a diverse set of participants not only from across different research topics but also different backgrounds and interests. 
-Each of them were able bring their personal strengths and skills into this event and ultimately to the project. 
+Without a doubt this event was successful at bringing together a diverse set of participants not only from across different research topics but also different backgrounds and interests.
+Each of them were able bring their personal strengths and skills into this event and ultimately to the project.
 
 One of the deltas was that our participants would have liked to know how they can be kept involved after the book dash is over.
 We have shared a few tips with them already, and below we are listing some ways our previous and new contributors can stay connected and keep contributing to the project.
 
 ### Join the translation efforts
 
-With every new idea contributed by our members, we gain new insights to improve our global inclusion efforts. 
-For example, Tony Yang who is a graduate student in Imperial College London, joined two students from Kirstie's lab, Yini He and Ang Li in translating _The Turing Way_ chapters in Chinese. 
-At the book dash, he collaborated with Anna Hadjitofi who was interested in translating these materials to Turkish and wanted to help Tony in setting a [translation guideline](https://github.com/alan-turing-institute/the-turing-way/blob/translation/translation_guide.md) and [Transifex framework](https://www.transifex.com/theturingway/theturingway/) for collaborative translation. 
-After this event, a wider community and people have expressed interest in translating our project into Spanish, Hindi, Russian, and other local languages. 
+With every new idea contributed by our members, we gain new insights to improve our global inclusion efforts.
+For example, Tony Yang who is a graduate student in Imperial College London, joined two students from Kirstie's lab, Yini He and Ang Li in translating _The Turing Way_ chapters in Chinese.
+At the book dash, he collaborated with Anna Hadjitofi who was interested in translating these materials to Turkish and wanted to help Tony in setting a [translation guideline](https://github.com/alan-turing-institute/the-turing-way/blob/translation/translation_guide.md) and [Transifex framework](https://www.transifex.com/theturingway/theturingway/) for collaborative translation.
+After this event, a wider community and people have expressed interest in translating our project into Spanish, Hindi, Russian, and other local languages.
 
 This was possible only because of the discussion and work led by our international community members.
 We invite more members to help us make _The Turing Way_ accessible for a wider community (join conversations in [these issues](https://github.com/alan-turing-institute/the-turing-way/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+chinese)).
 
 ### Attend online Collaboration Cafes
 
-Our [online Collaboration Cafes](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md) take place every 1st Wednesdays at 15:00 GMT and 3rd Wednesdays at 19:00 GMT. 
-These calls are 2 hours long co-working spaces for _The Turing Way_ community. 
-Everyone interested in learning from or developing this project can join us for any duration possible for them. 
-At these calls you can work on your contributions to project. 
+Our [online Collaboration Cafes](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md) take place every 1st Wednesdays at 15:00 GMT and 3rd Wednesdays at 19:00 GMT.
+These calls are 2 hours long co-working spaces for _The Turing Way_ community.
+Everyone interested in learning from or developing this project can join us for any duration possible for them.
+At these calls you can work on your contributions to project.
 
-You can sign up on this HackMD to attend the [upcoming calls](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md): https://hackmd.io/@KirstieJane/CollabCafe. 
-If you would like to host these calls at other times, please get in touch with the team members. 
+You can sign up on this HackMD to attend the [upcoming calls](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md): https://hackmd.io/@KirstieJane/CollabCafe.
+If you would like to host these calls at other times, please get in touch with the team members.
 
 ### Contribute new topics or review open pull requests
 
-If you want to start to get to know the project, or want to return after a long break, you can begin with our [good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). 
-If you have a new idea that you would like to add to the project as a new section in an existing chapter, or as a whole new chapter, you can start by creating a [new issue](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose). 
-We also invite you to contribute in any capacity that's most suitable for your interests and availability. 
+If you want to start to get to know the project, or want to return after a long break, you can begin with our [good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
+If you have a new idea that you would like to add to the project as a new section in an existing chapter, or as a whole new chapter, you can start by creating a [new issue](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose).
+We also invite you to contribute in any capacity that's most suitable for your interests and availability.
 Please help us review one of the several open [Pull Requests](https://github.com/alan-turing-institute/the-turing-way/pulls), join discussions on [these issues](https://github.com/alan-turing-institute/the-turing-way/issues) or get help in exploring resources that currently exists in [the book](https://the-turing-way.netlify.com/).
 
 ### Host a Collaboration Cafe or a book dash event
 
-If the current schedule of online Collaboration Cafes is not suitable for your time zone, you are welcome to host a separate collaboration cafe for your community/time zone. 
-Please open a new issue (see [this example](https://github.com/alan-turing-institute/the-turing-way/issues/684)) or reach out to _The Turing Way_ team members for details. 
+If the current schedule of online Collaboration Cafes is not suitable for your time zone, you are welcome to host a separate collaboration cafe for your community/time zone.
+Please open a new issue (see [this example](https://github.com/alan-turing-institute/the-turing-way/issues/684)) or reach out to _The Turing Way_ team members for details.
 We are also currently developing a guide for hosting these calls ([issue #925](https://github.com/alan-turing-institute/the-turing-way/issues/925)).
 
-We are planning to organise more book dash events this year in summer and autumn. 
-One of the feedback from our book dash attendee was that a book dash "closer to home" will be desirable. 
-We are open to explore this idea further, so contact us if you would like to host one of our future book dashes in your institute or organisation. 
+We are planning to organise more book dash events this year in summer and autumn.
+One of the feedback from our book dash attendee was that a book dash "closer to home" will be desirable.
+We are open to explore this idea further, so contact us if you would like to host one of our future book dashes in your institute or organisation.
 We will be happy to explore interests of researchers in the institutes near you in contributing to _The Turing Way_.
 
 ### Represent _The Turing Way_ in your community/conference
 
-If you are attending an Open Research conference, and would like to represent our community, please get in touch with _The Turing Way_ team. 
+If you are attending an Open Research conference, and would like to represent our community, please get in touch with _The Turing Way_ team.
 They will be happy to help you connect your work with the project, assist you in drafting an abstract for the event and help you prepare to deliver a short workshop or presentation.
 
 Any community member who has contributed to the project (preferable living in Germany) can lead a short workshop on the relevance, challenges and opportunities of open and reproducible research.
-The interested member will receive some 1:1 coaching with Kirstie, practice their presentation skills (reusing slides or making their own), travel to Cologne, and meet and influence the next generation of world leading researchers. 
-There is funding available to support travel and accommodation at the event and you do not need to work in the field of neuroscience to give this talk. 
+The interested member will receive some 1:1 coaching with Kirstie, practice their presentation skills (reusing slides or making their own), travel to Cologne, and meet and influence the next generation of world leading researchers.
+There is funding available to support travel and accommodation at the event and you do not need to work in the field of neuroscience to give this talk.
 Please reply before 2 March if you would like to discuss giving this presentation and leading the discussion. Thank you in advance for helping grow and promote our community 🙏 ✨
 
 ### Join us on social media platforms
 
-You can also sign up for our newsletter that we release every month: https://tinyletter.com/TuringWay/. 
-You are welcome to [join our Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) for informal discussions. 
+You can also sign up for our newsletter that we release every month: https://tinyletter.com/TuringWay/.
+You are welcome to [join our Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way) for informal discussions.
 We are also on [Twitter as @turingway](https://twitter.com/turingway), follow us for the latest updates.
 
-Have more ideas or questions about the project, the book dash event or something else related to our community? 
+Have more ideas or questions about the project, the book dash event or something else related to our community?
 Please feel free to reach out to the team members (theturingway@gmail.com) or directly contact the community manager Malvika Sharan (by emailing (msharan@turing.ac.uk).
 
 ## Photo Gallery from the book-dash

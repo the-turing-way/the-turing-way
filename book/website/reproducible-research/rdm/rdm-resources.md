@@ -29,7 +29,7 @@ If you have not read the chapters on {ref}`rr-open` and {ref}`cm-citable` yet, y
 - [Research data management UK data service](https://ukdataservice.ac.uk/learning-hub/research-data-management/)
 - [Data resources](https://chanzuckerberg.github.io/open-science/data_sharing/overview)
 - [Resources by the Utrecht University Research Data Management support team](https://zenodo.org/communities/uu-rdm-support/)
-- [Ten Common Data Management Mistakes](https://cghlewis.com/talk/sssp_ecf/) & [A Curated Collection of Data Management Resources](https://cghlewis.com/blog/data_mgmt_resources/) by Crystal Lewis 
+- [Ten Common Data Management Mistakes](https://cghlewis.com/talk/sssp_ecf/) & [A Curated Collection of Data Management Resources](https://cghlewis.com/blog/data_mgmt_resources/) by Crystal Lewis
 - [Data Management for Psychological Science: A Crowdsourced Syllabus](https://docs.google.com/document/d/1z15bL9cP84re6d4zdkO60q06lnknnN3xEktN7GnLFFQ/edit)
 - [ORION Open Science Factsheets](https://www.orion-openscience.eu/publications/training-materials/201808/factsheets)
 - [Reproducible Data Science](https://ecorepsci.github.io/reproducible-science/index.html)
@@ -67,4 +67,3 @@ If you have not read the chapters on {ref}`rr-open` and {ref}`cm-citable` yet, y
 - [JISC research data management toolkit](https://www.jisc.ac.uk/guides/rdm-toolkit)
 - [ELIXIR research data management toolkit](https://rdm.elixir-europe.org/index.html)
 - [University of New Hampshire data management toolkit](https://libraryguides.unh.edu/datamanagement)
-

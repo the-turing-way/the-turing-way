@@ -22,9 +22,9 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 (cm-peer-review-summary)=
 ## Summary
 
-This chapter introduces the process of peer review of journal articles as a part of the more general process of peer review of each other's work and scientific collaboration. 
-The chapter introduces different types and levels of peer review, depending on the type of scientific output. 
-It explains what Open Peer Review is. 
+This chapter introduces the process of peer review of journal articles as a part of the more general process of peer review of each other's work and scientific collaboration.
+The chapter introduces different types and levels of peer review, depending on the type of scientific output.
+It explains what Open Peer Review is.
 Then, peer review of a manuscript is discussed in detail, providing practical guidance for those who need to do a formal peer review for a journal.
 This is followed by guidance for code review, whether for code underlying a research article or for software as a research object on it's own.
 Finally, additional resources are listed.
@@ -33,9 +33,8 @@ Finally, additional resources are listed.
 (cm-peer-review-motivation)=
 ## Motivation and Background
 
-Peer Review [{term}`def<Peer Review>`] should be seen as process that helps to improve the quality of the research. 
-Peer review can be formal or informal and ideally occurs at different levels throughout a project. 
-Traditionally the formal peer review has been associated with publishing a journal article. 
+Peer Review [{term}`def<Peer Review>`] should be seen as process that helps to improve the quality of the research.
+Peer review can be formal or informal and ideally occurs at different levels throughout a project.
+Traditionally the formal peer review has been associated with publishing a journal article.
 However, new forms of peer review are emerging in publishing and also beyond in the research landscape.
 We want to highlight that peer review happens on different levels throughout a project, and is an ultimate form of engaging with other people's work.
-

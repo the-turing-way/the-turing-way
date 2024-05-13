@@ -155,7 +155,7 @@ To create a research compendium, follow these steps:
 - Optional: Have a peer check the compendium and see if it works correctly
 - Publish your compendium
 
-See the [EMNLP 2020 reproducibility checklist](https://2020.emnlp.org/call-for-papers#new-reproducibility-criteria) or the [AGILE reproducible checklist](https://doi.org/10.17605/OSF.IO/CB7Z8) for conference submission checklists. 
+See the [EMNLP 2020 reproducibility checklist](https://2020.emnlp.org/call-for-papers#new-reproducibility-criteria) or the [AGILE reproducible checklist](https://doi.org/10.17605/OSF.IO/CB7Z8) for conference submission checklists.
 
 ## Further Reading
 

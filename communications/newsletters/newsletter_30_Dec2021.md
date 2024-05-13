@@ -11,7 +11,7 @@ In the last two months, we recruited and onboarded new project members, launched
 
 Hopefully, that explains why newsletters from the last two months did not make it to your mailbox (and a particularly long one this time). 😅
 
-Like every year, in this last newsletter of 2021, we want to take time to review the year and express our gratitude to you for being an integral part of *The Turing Way*, especially amidst the pandemic this year. 
+Like every year, in this last newsletter of 2021, we want to take time to review the year and express our gratitude to you for being an integral part of *The Turing Way*, especially amidst the pandemic this year.
 
 Find our ‘thank you’ notes and updates from the community in the newsletter below. 👇
 
@@ -25,7 +25,7 @@ Find our ‘thank you’ notes and updates from the community in the newsletter 
 
 ### Fireside Chat: Shared Concerns in Open Research Communities
 
-On 10 December 2021, 17:00 - 18:00 UTC, the next fireside chat will take place on the topic "Shared Concerns in Open Research Communities". 
+On 10 December 2021, 17:00 - 18:00 UTC, the next fireside chat will take place on the topic "Shared Concerns in Open Research Communities".
 We have allocated 30 minutes after the session (18:00 - 18:30 UTC) to have open discussions with attendees and hear their reflections on the topic.
 [Register to join the conversation](https://www.eventbrite.co.uk/e/fireside-chat-shared-concerns-in-open-research-communities-tickets-217634158627?keep_tld=1).
 
@@ -62,18 +62,18 @@ Many of our community members deliver talks and workshops regularly ([see detail
 We want to learn how we can support more people in such visible roles.
 This may include joining the Book Dash Committee, hosting Collaboration Cafes or Coworking Calls, leading fireside chats, documenting case studies that reflect their domains, delivering 'just in time' workshops, offering mentorship and more.
 
-Would you like to take one of these roles or do you have different ideas to enhance our community member’s visibility? 
+Would you like to take one of these roles or do you have different ideas to enhance our community member’s visibility?
 Please contact us via one or multiple channels (see [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)) or comment under [issue #2030](https://github.com/alan-turing-institute/the-turing-way/issues/2230).
 
 ## Contributors in Focus: Book Dash November 2021 Attendees
 
 ![Screenshot of Zoom call where many members joined to attend the community shareouts during the Book Dash week.](images/2021-12-bookdash-4.png)
 
-We are delighted to share that the sixth Book Dash was hosted successfully from 8 to 13 November 2021 with 24 participants, including the Planning Committee members. 
+We are delighted to share that the sixth Book Dash was hosted successfully from 8 to 13 November 2021 with 24 participants, including the Planning Committee members.
 Participants include (in the group picture above - left to right and top to bottom): Esther Plomp, Kirstie Whitaker, Malvika Sharan, Andrea Sanchez Tapia, Emma Karoune, Batool Almarzouq, Arielle Bennett, Alejandro Coca, Reshama Shaikh, Lena Karvovskaya, Alden Conner, Vicky Hellon, Achintya Rao, Nina di Cara.
 Following members not in the group picture: Carlos Martnez, Brigitta Scipoz, Ali Seyhun Saral, Maria Eriksson, Jessica Scheick, Marta Mangiarulo, Emmanuelle Rodrigues Nunes, Margaret Wanjiku, Melissa Steda and Ankur Kumar.
 
-Aida Mehonic, Jez Cope, Martin O’Reilly, Martina Vilas, Patricia Herterich and Michaela Agaopiou, were among several community members who joined us at the Community Share outs. 
+Aida Mehonic, Jez Cope, Martin O’Reilly, Martina Vilas, Patricia Herterich and Michaela Agaopiou, were among several community members who joined us at the Community Share outs.
 
 ## Book Dash November 2021 Report
 
@@ -149,7 +149,7 @@ We are thrilled to have Emma Karoune, Aaron Lacey, Achintya Rao, Vicky Hellon, A
 We are also grateful for the continued in-kind support of Carlos Martinez (Netherlands eScience Center), Esther Plomp (Faculty of Applied Sciences at the Delft University of Technology) and Sarah Gibson (2i2c and JupyterHub).
 
 ### UX/UI Enhancement of The Turing Way
- 
+
 ![Image showing a series of doors depicting different guides and chapters that can be presented in a way that guides people to navigate the project well.](images/2021-12-doors-7.jpg)
 
 *The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807*
@@ -170,20 +170,20 @@ You can follow the updates and join the discussion under [issue #2071](https://g
 
 *The Turing Way* was nominated for the HiddenRef award and was awarded a ‘highly commended’ project under the ‘Practices’ category.
 See the list of incredible winners for [each category on their website](https://hidden-ref.org/hidden-ref-award-ceremony/).
-The project was also shortlisted for the OpenUK Award under the ‘Sustainability’ category. 
-Additionally, under the ‘young person’ category, Paul Owoicho was shortlisted for his work with *The Turing Way* and Sam van Stroud was awarded in recognition for his work in the Turing Data Stories. 
+The project was also shortlisted for the OpenUK Award under the ‘Sustainability’ category.
+Additionally, under the ‘young person’ category, Paul Owoicho was shortlisted for his work with *The Turing Way* and Sam van Stroud was awarded in recognition for his work in the Turing Data Stories.
 See details [online](https://openuk.uk/openuk-awards-second-edition-2021/).
 
 Finally, the third nomination of the year for *The Turing Way* is for the Open Publishing Award under the ‘Open Publishing Models’ category.
-Winners will be revealed soon, as per [their website](https://openpublishingawards.org/index.html). 
+Winners will be revealed soon, as per [their website](https://openpublishingawards.org/index.html).
 
 ### The Call for Open Life Science’s Next Cohort (OLS-5) has Launched!
 
-[Open Life Science](https://openlifesci.org/) is a 16-week mentoring and training program that upskills individuals in open and reproducible research and empowers them to become open science ambassadors in their communities. 
-After successfully concluding four cohorts, 113 projects and 180 project leads, we have opened a call for applications for the next cohort, OLS-5, which will take place from February to June 2022. 
+[Open Life Science](https://openlifesci.org/) is a 16-week mentoring and training program that upskills individuals in open and reproducible research and empowers them to become open science ambassadors in their communities.
+After successfully concluding four cohorts, 113 projects and 180 project leads, we have opened a call for applications for the next cohort, OLS-5, which will take place from February to June 2022.
 The **Application deadline is 15 January 2022**.
 
-Please join the **webinar on 14 December** to learn about the program and the application process. 
+Please join the **webinar on 14 December** to learn about the program and the application process.
 Visit [https://openlifesci.org](https://openlifesci.org/) for details and use the [promotional material](https://docs.google.com/document/u/1/d/e/2PACX-1vTkl_oNZco3hNrhQeNyCg8EXKyq3Ogs-zVik0eB05iXaPPJodnbRQEDog1ji4VrCwOTMJ3wYUch3WI5/pub) to share in your network.
 
 ![Open Life Science is collaborating with The Turing Way to particularly support Turing/Turing Way members in learning open science practices](images/2021-12-ols-9.jpg)
@@ -194,13 +194,13 @@ Visit [https://openlifesci.org](https://openlifesci.org/) for details and use th
 * **Heidi Siebold** led an Applied Analytics Seminar titled ‘*The Turing Way* - a community and handbook for reproducible, ethical and collaborative data science’ on 28 October. See [announcement](https://www.hdruk.ac.uk/events/the-turing-way-a-community-and-handbook-for-reproducible-ethical-and-collaborative-data-science/).
 * **Batool Almarzouq** gave a talk introducing Open Science and *The Turing Way* in the Danish Diabetes Academy (DDA) Winter School on 11 November in Malaga, Spain. Slides: [DOI: 10.5281/zenodo.5674321](https://zenodo.org/record/5674321).
 * **Esther Plomp** gave the following talks:
-  * an invited talk at the Reprohack Hub Launch on 18 November titled ‘*The Turing Way* Community: your guide to reproducible research'. Slides [DOI: 10.5281/zenodo.5675926](https://zenodo.org/record/5675926). 
+  * an invited talk at the Reprohack Hub Launch on 18 November titled ‘*The Turing Way* Community: your guide to reproducible research'. Slides [DOI: 10.5281/zenodo.5675926](https://zenodo.org/record/5675926).
   * a community talk at FORCE2021 Conference on 8 December titled ‘Sustainable and inclusive solution to sharing best practices'. Slides: [DOI: 10.5281/zenodo.5718179](https://zenodo.org/record/5718179)
 * **Rachael Ainsworth, Emma Karoune and Esther Plomp** delivered a workshop about good practice in collaboration as part of [Open Publishing Fest](https://openpublishingfest.org) on 15 November. Slides: [DOI: 10.5281/zenodo.5702689](https://zenodo.org/record/5702689)
-* **Kirstie Whitaker** gave an introduction talk on 8 November for the Book Dash attendees discussing *The Turing Project*, our community and contribution pathways. Slides: [DOI: 10.5281/zenodo.5654766](https://zenodo.org/record/5654766). 
+* **Kirstie Whitaker** gave an introduction talk on 8 November for the Book Dash attendees discussing *The Turing Project*, our community and contribution pathways. Slides: [DOI: 10.5281/zenodo.5654766](https://zenodo.org/record/5654766).
 * **Malvika Sharan** gave the following talks, panels and workshops:
   * At the Open Science Symposium hosted by Bioinformatics Hub of Kenya on 14 October, she discussed how scientific errors have real-world effects and introduced *The Turing Way*. Slide: [DOI: 10.5281/zenodo.5568007](http://zenodo.org/record/5568007).
-  * An invited talk titled ‘FAIR for building communities in open science’ at the Critical Knowledge Forum on 25 October hosted by the Adelphi Library, New York. Slides: [DOI: 10.5281/zenodo.5518163](https://zenodo.org/record/5518163). 
+  * An invited talk titled ‘FAIR for building communities in open science’ at the Critical Knowledge Forum on 25 October hosted by the Adelphi Library, New York. Slides: [DOI: 10.5281/zenodo.5518163](https://zenodo.org/record/5518163).
   * She joined a panel hosted by the KQ-Labs on 26 October for their Accelerator Programme's current cohort members. She gave a talk titled ‘The Alan Turing Institute: Highlighting Projects, Teams & Resources for Reproducible and Ethical research’ ([Slides](https://zenodo.org/record/5603209)).
   * She ran the Reproducibility, Distributed Collaboration and Open Science Workshop on 13 November as an additional module for The Carpentries workshop organised for the [UbiMotif Marie Curie PhD network](https://normandavey.github.io/2021-11-11-ubimotif/#setup/)
   * With **Georgia Aitkenhead**, she presented a workshop at the ‘Facilitation Responsible Participation’ at the Turing Institute titled ‘Contextualising Research Projects and Collaboration’ on 24 November. Slides: [DOI: 10.5281/zenodo.5724333](https://zenodo.org/record/5724333).
@@ -232,7 +232,7 @@ As we complete the third year of *The Turing Way*, we review the year 2021 month
 Reflecting on how *The Turing Way* started as a funding proposal at a coffee shop, we are so proud and humbled by the global collaboration it now represents.
 The value *The Turing Way* brings to the broader space of open science, research and data science practice is possible only because of the diverse perspectives each of you has brought into the project.
 
-We thank you for your participation, support and contributions to *The Turing Way*. 
+We thank you for your participation, support and contributions to *The Turing Way*.
 
 ![Five people around the globe sharing meals from wherever they are.](images/2021-12-flavours-11.png)
 

@@ -22,7 +22,7 @@ Please add something you liked about the Book Dash. We might use these to advert
 * Great to see a supportive community at work in a room - felt everyone ended up with something to do that was really valuable and appropriate to their strenghts
 * The artist in residence was amazing!
 * Felt like a safe space
-* Ice breaker was actually sort of fun, for once 
+* Ice breaker was actually sort of fun, for once
 * o
 * Everyone's enthusiasm and supportive approach
 * Really loved having the artist in residence. It was so much fun to be able to talk about what we were working on and then see it appear on the wall!!

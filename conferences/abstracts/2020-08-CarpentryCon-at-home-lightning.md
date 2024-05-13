@@ -34,11 +34,11 @@ will be added
 ### Abstract
 <!-- Please provide a short abstract of no more than 250 words - give some background, the format of the session, learning/expected outcome, target audience, and possible future directions."-->
 
-_The Turing Way_ is a community-driven book project that involves and supports a diverse research community in ensuring that reproducible and ethical data research is "too easy not to do". 
+_The Turing Way_ is a community-driven book project that involves and supports a diverse research community in ensuring that reproducible and ethical data research is "too easy not to do".
 
-It aims to bridge the gap between innovative data research techniques and best practices that make them accessible and comprehensible for everyone. 
-_The Turing Way_ is designed to be inclusive and accessible to its members from diverse backgrounds and expertise. We welcome ideas, case studies, impact stories, educational resources, or any sort of participation that individuals can benefit from or use to advance their knowledge in data research. 
-All contributions, questions, comments, and discussions via an online repository: https://github.com/alan-turing-institute/the-turing-way. 
+It aims to bridge the gap between innovative data research techniques and best practices that make them accessible and comprehensible for everyone.
+_The Turing Way_ is designed to be inclusive and accessible to its members from diverse backgrounds and expertise. We welcome ideas, case studies, impact stories, educational resources, or any sort of participation that individuals can benefit from or use to advance their knowledge in data research.
+All contributions, questions, comments, and discussions via an online repository: https://github.com/alan-turing-institute/the-turing-way.
 
 In this lightning talk, a community member will introduce this project and highlight the importance of creating a culture that promotes collaboration to ensure the long-term sustainability of our communities.
 
@@ -52,10 +52,10 @@ In this lightning talk, a community member will introduce this project and highl
 
 * Country of residence and/or compatible Time Zones (provide options): UK
 
-* Would you like to present this multiple times, in other time zones: No, but happy to circulate the video 👯‍♀️ 
+* Would you like to present this multiple times, in other time zones: No, but happy to circulate the video 👯‍♀️
 <!-- please suggest suitable time zones -->
 
-* Would you like to volunteer to be listed as a wrangler/host for your time zone: NA 
+* Would you like to volunteer to be listed as a wrangler/host for your time zone: NA
 <!-- Respond in "Yes", "No", "Contact me with more details". Wranglers/hosts will coordinate 1-2 other sessions by coordinating with their session leads before their session to make sure that their slides or other required materials work. During the session, they will introduce the session lead and other facilitators, share the link of the notes with the attendees, introduce the Code of Conduct and participation guideline, and with the permission of the attendees record the presentation parts of the session.-->
 
 ### Is there any help you would like to invite from the community? Please provide below in bullet points.

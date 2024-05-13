@@ -1,4 +1,4 @@
-# Teemplate: Issue template for capture Book Dash Participant's information in the contributors file 
+# Teemplate: Issue template for capture Book Dash Participant's information in the contributors file
 
 ## Summary
 
@@ -13,8 +13,8 @@ Please make sure that you share your feedback and experience from the last 5 day
   * All mentors/planning committee members can update their bio and highlights and add a role "Book Dash Planning Committee 2021"
 ```
 * Role: Book Dash 2021 participant
-* GitHub id: 
-* ORCID: 
+* GitHub id:
+* ORCID:
 * Short bio:
 >
 * Personal highlights:
@@ -27,7 +27,7 @@ Please make sure that you share your feedback and experience from the last 5 day
 ```
 ### Paul Owoicho
 
-* Role: 
+* Role:
   * Google Season of Doc: Technical Writer
   * Book Dash 2021 Participant
   * [OLS-2 for Turing project lead](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring)(2020)

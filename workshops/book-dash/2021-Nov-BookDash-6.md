@@ -18,21 +18,21 @@ Discussion and collaboration among the attendees at this Book Dash covered a wid
 
 ### Format of the event
 
-_The Turing Way_ [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. 
+_The Turing Way_ [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date.
 They also contribute to enhancing the project by improving the ways we work in the community and take lead on accomplishing different tasks or subprojects.
 
 The November edition of Book Dash featured 18 contributors, 6 committee members, 13 online working sessions, four discussions and social events, and two community share-outs.
 
-In the past, we have organised 1-1.5 day long Book Dash events in person or partially remote. 
+In the past, we have organised 1-1.5 day long Book Dash events in person or partially remote.
 However, since November 2020, we have been hosting Book Dashes online and with multiple short co-working called development sessions spread over 5 days for flexible participation by members.
-We developed this format to allow people in different time zones to participate with the same efficiency and equitable support. 
+We developed this format to allow people in different time zones to participate with the same efficiency and equitable support.
 This involved creating multiple small development sessions throughout the day, adding dedicated sessions for informal social interactions, developing shared documents with all the information, providing support funds to ensure that everyone can comfortably participate and hosting a pre-event call to communicate these resources to everyone.
 
 ### Application, Review and Selection process
 
 As in the past, we invited applications through an open call where interested applicants could state their goals and interest for the Book Dash. This application was also open for the long term members from the community who may have attended a Book Dash or Collaboration Cafes in the past to join as a helper and mentor for new contributors as well.
 
-Applicants were asked to think about the collaborative element of the Book Dash and state how they could engage with other participants. 
+Applicants were asked to think about the collaborative element of the Book Dash and state how they could engage with other participants.
 To get a sense of the time zones these applicants came from, we asked them to choose their preferred slots during the day that they can join. You can see a template of this document [here](https://tinyurl.com/tw-bookdash-template).
 
 The Book Dash Planning Committee used the rubrics (as explained in the [online chapter](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-application.html#reviewing-process)) to score the applications during the review. They met online to discuss applications, frame feedback and conclude their selection process.
@@ -54,7 +54,7 @@ Learn more about them:
 -   Emma is a Research Associate and Community Manager of DECOVID at The Alan Turing Institute, and an Environmental Archaeology and Palaeoecology researcher. She has led several collaborations and discussions on chapters within the Guides for Collaboration and Communication ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#emma-karoune)).
 -   Esther is a Data Steward at the Delft University of Technology, Netherlands. She has been a core contributor to the project developing, guiding and collaborating on chapters related to data management and reproducibility ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#delft-university-of-technology-faculty-of-applied-sciences)).
 
-We want to express our gratitude for their thoughtful engagement in the project and for helping build an inclusive and safe place in the Book Dash. 
+We want to express our gratitude for their thoughtful engagement in the project and for helping build an inclusive and safe place in the Book Dash.
 It is only with their help, we can host the next event in November taking careful consideration for our participants.
 
 ### Timeline

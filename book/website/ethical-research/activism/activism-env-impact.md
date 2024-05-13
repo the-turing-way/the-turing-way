@@ -76,16 +76,16 @@ You can also read 'Ten simple rules to make your computing more environmentally 
 
 
 (er-activism-env-impact-computing)=
-### Computing 
+### Computing
 As we engage in research activities, our utilization of computers and code execution significantly affects the environment. In this section, we explore approaches that can be employed to mitigate the environmental impact arising from the computational aspects of our research endeavors.
 
 (er-activism-env-impact-code-efficiency)=
 #### Improve code efficiency
 
-As mentioned above, the amount of energy spent on running a computation depends on how long the particular computation runs. One way of reducing the energy spent is to optimize the code to make it run faster. 
+As mentioned above, the amount of energy spent on running a computation depends on how long the particular computation runs. One way of reducing the energy spent is to optimize the code to make it run faster.
 
 
-Several studies show the energy intensity of computing tasks such as training Natural Language Processing models {cite:ps}`strubell2019nlpenergy,Schwartz2020greenai`, astrophysics simulations {cite:ps}`Portegies2020ecologicalimpact`, bioinformatics {cite:ps}`Grealey2022carbonfootprint`, and so forth. 
+Several studies show the energy intensity of computing tasks such as training Natural Language Processing models {cite:ps}`strubell2019nlpenergy,Schwartz2020greenai`, astrophysics simulations {cite:ps}`Portegies2020ecologicalimpact`, bioinformatics {cite:ps}`Grealey2022carbonfootprint`, and so forth.
 
 Optimizing GPU code for energy efficiency is one way to reduce energy usage {cite:ps}`Schoonhoven2022goinggreen`
 
@@ -95,7 +95,7 @@ Optimizing GPU code for energy efficiency is one way to reduce energy usage {cit
 In some cases it is possible to run hardware in more energy-efficient modes. One relevant example is the ARCHER2 national high-performance computer service in the UK where three different CPU frequencies can be selected at run time. A 2022 study investigated the performance / power use trade off and discovered the power usage could often be reduced without noticeable alteration in the run time of most applications, by changing the CPU frequency to a different value from the three possibilities. As a consequence the service reduced the default CPU frequency and updated the user-facing documentation in this area (see Turner, 2022).
 
 
-For the Summit supercomputer it is known that about 63.8% of the power is consumed by GPUs 
+For the Summit supercomputer it is known that about 63.8% of the power is consumed by GPUs
 {cite:ps}`Stachowski2020autotuning`.
 
 (er-activism-env-impact-avoid-tasks)=
@@ -104,8 +104,8 @@ For the Summit supercomputer it is known that about 63.8% of the power is consum
 Another way of reducing energy usage is to avoid running task unnecessarily. Some examples include:
 
 
-* Running CI[[https://the-turing-way.netlify.app/reproducible-research/ci/ci-options.html](https://the-turing-way.netlify.app/reproducible-research/ci/ci-options.html)] only when it is useful. For example: do not run unit tests when changes are made in the documentation and not on the code. 
-* If you do test-driven development, run only tests that have previously failed. In this way you do not need to test code which you already know has been tested. You can use this GH action for limiting when tests (pytest) are run: [https://github.com/marketplace/actions/pytest-last-failed](https://github.com/marketplace/actions/pytest-last-failed) 
+* Running CI[[https://the-turing-way.netlify.app/reproducible-research/ci/ci-options.html](https://the-turing-way.netlify.app/reproducible-research/ci/ci-options.html)] only when it is useful. For example: do not run unit tests when changes are made in the documentation and not on the code.
+* If you do test-driven development, run only tests that have previously failed. In this way you do not need to test code which you already know has been tested. You can use this GH action for limiting when tests (pytest) are run: [https://github.com/marketplace/actions/pytest-last-failed](https://github.com/marketplace/actions/pytest-last-failed)
 * Run CI with smaller datasets.
 
 (er-activism-env-impact-schedule-low-emission)=
@@ -132,9 +132,9 @@ The increasing amount of digital research and the associated storage requirement
 
 
 (er-activism-env-impact-data-reduction)=
-#### Data reduction 
+#### Data reduction
 Reduction of data volumes is a straight-forward solution to minimize energy consumption in storage systems:
-* Compression or deduplication can help to detect and delete repeated information. 
+* Compression or deduplication can help to detect and delete repeated information.
 * Optimized data requires less time for transfer and consumes less network bandwidth.
 
 (er-activism-env-impact-data-standardisation)=
@@ -161,17 +161,17 @@ Whenever you can choose, select data centers that are committed to reducing thei
 
 ### Other resources
 #### Computation
-* [GreenvAlgorithms](https://www.green-algorithms.org/) 
-* [Green Algorithms: Quantifying the Carbon Footprint of Computation](https://onlinelibrary.wiley.com/doi/10.1002/advs.202100707) 
+* [GreenvAlgorithms](https://www.green-algorithms.org/)
+* [Green Algorithms: Quantifying the Carbon Footprint of Computation](https://onlinelibrary.wiley.com/doi/10.1002/advs.202100707)
 * [Carbon footprint estimation for computational research](https://www.nature.com/articles/s43586-023-00202-5.epdf?sharing_token=QTc-q5_jBfbwbgHrxjAF3NRgN0jAjWel9jnR3ZoTv0M5cDtvWq4NDOHdun0YacmqG8iEJ146ZGUvxIp3izWvG3qqEI0oN4e5AgJh1ioWOFtL_b-yexmwuBL7nKWggSD22xXBBQe-_M_1jL9gC5WNNOYCZkXrOcuiKp7L_6DvyMI%3D)
-* [Energy and Policy Considerations for Deep Learning in NLP](https://www.aclweb.org/anthology/P19-1355) 
-* [Green AI](http://arxiv.org/abs/1907.10597) 
-* [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://doi.org/10.1145/3442188.3445922) 
+* [Energy and Policy Considerations for Deep Learning in NLP](https://www.aclweb.org/anthology/P19-1355)
+* [Green AI](http://arxiv.org/abs/1907.10597)
+* [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://doi.org/10.1145/3442188.3445922)
 * [Digital Humanities Climate Coalition
 ](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition)
-* [Wren Carbon calculator](https://www.wren.co/) 
-* [Turner (2022) Study of the impact of CPU frequency on ARCHER2](https://www.archer2.ac.uk/news/2022/12/12/CPUFreq.html). 
-* [ARCHER2 documentation](https://docs.archer2.ac.uk/user-guide/energy/) 
+* [Wren Carbon calculator](https://www.wren.co/)
+* [Turner (2022) Study of the impact of CPU frequency on ARCHER2](https://www.archer2.ac.uk/news/2022/12/12/CPUFreq.html).
+* [ARCHER2 documentation](https://docs.archer2.ac.uk/user-guide/energy/)
 
 
 #### Data
@@ -182,5 +182,4 @@ Whenever you can choose, select data centers that are committed to reducing thei
 
 ## Credits
 
-This document draws on discussion from the [Software Sustainability Institute](https://www.software.ac.uk/)’s [Collaborations Workshop 2023 (CW23)](https://www.software.ac.uk/cw23), and in particular on the “Raspberry” discussion and speed blogging session on “How do you track the environmental impact of computing?”. We thank all participants of CW23 for engaging around this topic.  
-
+This document draws on discussion from the [Software Sustainability Institute](https://www.software.ac.uk/)’s [Collaborations Workshop 2023 (CW23)](https://www.software.ac.uk/cw23), and in particular on the “Raspberry” discussion and speed blogging session on “How do you track the environmental impact of computing?”. We thank all participants of CW23 for engaging around this topic.

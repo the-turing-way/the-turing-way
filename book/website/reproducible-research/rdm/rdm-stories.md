@@ -30,7 +30,7 @@ Within my group of research software and knowledge engineers, we address the gra
 I believe that better data means better science, and this underpins reusable research, aids scholarly publishing, and enables faster and reliable data-driven discoveries.
 As I say in my [one minute video](https://youtu.be/3VDw7XIulIk), my vision is to transform the concept of data readiness into a powerful toolkit at the researchers’ fingertips to realize FAIR data by stealth.
 
-FAIR is not a magic wand. 
+FAIR is not a magic wand.
 There is a lot to be done to enable and enact this transformation.
 We need all hands on deck!
 Researchers, service providers, journal publishers, library science experts, funders and learned societies in the academic as well as the commercial and governmental settings all play a role:

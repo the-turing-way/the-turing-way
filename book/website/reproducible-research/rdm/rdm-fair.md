@@ -54,17 +54,17 @@ The FAIR principles are also applied to software (see [[LGK+20](https://the-turi
 
 ## FAIR principles and accessibility
 
-The Accessible in FAIR is not equal to ensuring that your research objects are accessibles to all users. 
+The Accessible in FAIR is not equal to ensuring that your research objects are accessibles to all users.
 For this, the term “actually accessible” has been coined by {cite:ps}`Colon2023accessibility` to refer to data that is "easy to locate, obtain, interpret, use, share, and analyze for everybody, including disabled people."
 
 (rr-rdm-fair-community)=
 ## Community involvement
 
-Various online resources are provided for people who are working in the life sciences, to guide them in ensuring FAIRness in their data, providing them with tools and advice for good data management at various stages of their work. Two prominent ones include: 
+Various online resources are provided for people who are working in the life sciences, to guide them in ensuring FAIRness in their data, providing them with tools and advice for good data management at various stages of their work. Two prominent ones include:
 * Under the [FAIR Cookbook](https://faircookbook.elixir-europe.org/content/home.html), several resources are offering guidance and assistance in FAIR data management.
  The FAIR Cookbook is designed to serve a variety of audience types and involved in different stages of data management life cycle.
-The FAIR Cookbook is developed and maintained by life sciences professionals, both in the academia and industry sectors, including members of the ELIXIR community. 
-* Under [ELIXIR Research Data Management Kit (RDMkit)](https://rdmkit.elixir-europe.org/), resources are provided for life scientists to guide them in better management of their research data in adhering to the FAIR Principles. 
+The FAIR Cookbook is developed and maintained by life sciences professionals, both in the academia and industry sectors, including members of the ELIXIR community.
+* Under [ELIXIR Research Data Management Kit (RDMkit)](https://rdmkit.elixir-europe.org/), resources are provided for life scientists to guide them in better management of their research data in adhering to the FAIR Principles.
 It is an attempt to help researchers work at different capacities, both in individual and collaborative workspaces.
 The RDMkit is open for suggestions from anyone, as long as they abide by the [contributor responsibilities](https://rdmkit.elixir-europe.org/how_to_contribute).
 

@@ -4,13 +4,13 @@ Your software project could range from a small script you use for data processin
 Regardless of how big or small your software project is, it is important to make your code reusable.
 
 Different types of software have different requirements for being reusable: for a small script, having sufficient documentation might be enough, while for a mission critical software library, thorough testing might be necessary.
-At the most basic level, all you need to do is put your code online somewhere that is likely to last a long time. 
+At the most basic level, all you need to do is put your code online somewhere that is likely to last a long time.
 A more elaborate approach to making your research software more reusable is by following the FAIR Principles for Research Software (FAIR4RS Principles) {cite:ps}`ChueHong2021FAIR4RS`.
 
-When we talk about making code reusable, it is useful to clarify what we mean. 
+When we talk about making code reusable, it is useful to clarify what we mean.
 In the {ref}`Table of Definitions for Reproducibility<rr-overview-definitions-reproducibility>` we defined reproducible research as using the same data and the same code.
 However, when we talk about code re-use this can take many forms: we may want to run the exact same code (for compiled programming languages, this could even mean the exact same binary file), or we may want to modify the source code and extend it in some particular way to fit our needs.
-Freire and Chirigati {cite:ps}`Freire2018Reproducibility` provide a framework of different levels of reproducibility, depending on what can be modified. 
+Freire and Chirigati {cite:ps}`Freire2018Reproducibility` provide a framework of different levels of reproducibility, depending on what can be modified.
 They define the following levels of reproducibility: repeatable, re-runnable, portable, extendable and modifiable.
 
 We can map the definitions of reproducibly on the Freire framework as follows:

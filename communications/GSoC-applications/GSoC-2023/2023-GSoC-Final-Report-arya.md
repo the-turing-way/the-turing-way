@@ -26,7 +26,7 @@ The primary project goal is to enhance the usability of The Turing Way book webs
 
 ## My Contributions
 
-### 1. Community Involvement : Participation in Turing Way Book Dash Event for Preparation and Gathering User Experience Feedback 
+### 1. Community Involvement : Participation in Turing Way Book Dash Event for Preparation and Gathering User Experience Feedback
 
 Turing Way Book Dash events are a less intense version of Book Sprints, where participants work together to create and enhance chapters of The Turing Way book, focusing on accessibility and comprehensiveness
 
@@ -54,7 +54,7 @@ A user belonging to data study group while accessing a chapter (Guide for Reprod
 
 ### 3. Pathway Description Feature
 
-Previously, the landing page for user profiles lacked descriptions, making it less meaningful.The previous version is shown below: 
+Previously, the landing page for user profiles lacked descriptions, making it less meaningful.The previous version is shown below:
 
 <p align="center"><kbd><img src="Images/img2.png" /></kbd></p>
 

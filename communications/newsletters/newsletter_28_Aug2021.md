@@ -47,7 +47,7 @@ Subscribe to [The Turing Way calendar](https://calendar.google.com/calendar?cid=
 
 ### Themed Community Calls - Share Your Response!
 
-*The Turing Way* Themed Community Calls will help us involve members and communities beyond contribution via GitHub. 
+*The Turing Way* Themed Community Calls will help us involve members and communities beyond contribution via GitHub.
 The first community call will be hosted in October.
 Among other ideas, we welcome suggestions and input on cross-community calls to highlight other value and mission-aligned projects.
 Please respond to the application form by **6 September 2021**: [https://tinyurl.com/ttw-community-call](https://tinyurl.com/ttw-community-call).
@@ -59,15 +59,15 @@ Please respond to the application form by **6 September 2021**: [https://tinyurl
 ### Join Tools, Practices and Systems (TPS) Leadership
 
 *The Turing Way* and [TPS research programme ](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems)lead Kirstie Whitaker is inviting applications to join the leadership team (volunteer-based roles).
-This is an opportunity to help shape the future of open infrastructure in data science, building on the success of programme projects such as *The Turing Way*. 
-Please [read more details here and apply](https://www.turing.ac.uk/work-turing/tools-practices-and-systems-open-leadership-team-call-volunteering) before the **deadline, 12 September 2021**. 
+This is an opportunity to help shape the future of open infrastructure in data science, building on the success of programme projects such as *The Turing Way*.
+Please [read more details here and apply](https://www.turing.ac.uk/work-turing/tools-practices-and-systems-open-leadership-team-call-volunteering) before the **deadline, 12 September 2021**.
 Please contact [Arielle Bennett](mailto:abennett@turing.ac.uk) for further questions.
 
 ### Suggest a Panellist for the SeptembRSE Diversity and Inclusion Panel
 
-Malvika will be hosting a [SeptembRSE](https://septembrse.github.io/#/event/L1001) panel on **Missing narratives in discussions around diversity and inclusion in research**. 
+Malvika will be hosting a [SeptembRSE](https://septembrse.github.io/#/event/L1001) panel on **Missing narratives in discussions around diversity and inclusion in research**.
 The panel will take place on 28 September 2021 and outputs from the events will be shared openly in *The Turing Way*.
-Thanks to Rowland Mosbergen for joining the organising team and adding really valuable elements to this panel proposal, and Jeremy Cohen for supporting the logistics. 
+Thanks to Rowland Mosbergen for joining the organising team and adding really valuable elements to this panel proposal, and Jeremy Cohen for supporting the logistics.
 Please suggest a panellist by responding to this form before **8 September 2021**: [online Google form](https://forms.gle/A5u3wNx9JzcPfDsv8).
 
 ### Share Creative Ideas
@@ -87,7 +87,7 @@ They joined the planning committee early this year and successfully delivered th
 ![Headshots of Arielle Bennett, Batool Almarzouq, Brigitte Sipocz, Carlos Martinez, Emma Karoune and Esther Plomp](images/2021-09-bookdash.jpg)
 
 Learn more about them:
-- Arielle is the Research Project Manager for the Tools, Practices & Systems Programme at the Alan Turing Institute. 
+- Arielle is the Research Project Manager for the Tools, Practices & Systems Programme at the Alan Turing Institute.
 In _The Turing Way_, she has worked on writing, facilitating discussion and mentored contributions in the Guide for Ethical Research ((details)[https://the-turing-way.netlify.app/afterword/contributors-record.html#arielle-bennett]).
 Read [more about her](https://the-turing-way.netlify.app/afterword/contributors-record.html#arielle-bennett).
 - Batool is a postdoctoral researcher at King Abdullah International Medical Research Center, and the founder of Open Science Network and R-Ladies in Saudi Arabia.
@@ -122,7 +122,7 @@ You can read more about the project on the [CZI EOSS page](https://chanzuckerber
 
 ### Relevant Jobs and Events
 
-- **Job at Turing**: The Research Engineering Group at The Alan Turing Institute is recruiting three new members. 
+- **Job at Turing**: The Research Engineering Group at The Alan Turing Institute is recruiting three new members.
 Read more about the group and these new positions [on their webpage](https://www.turing.ac.uk/research-engineering).
 Applications close on **10 September 2021**.
 

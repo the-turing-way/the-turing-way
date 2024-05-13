@@ -48,28 +48,28 @@ Here are some examples:
 
 ## Benefits of illustrations and why hire a professional scribe
 
-*The Turing Way* chapters often include research or scientific concepts described by professionals. 
-As experts, many of us do not always effictively communicate our ideas in simple terms for people who are new to those research concepts. 
+*The Turing Way* chapters often include research or scientific concepts described by professionals.
+As experts, many of us do not always effictively communicate our ideas in simple terms for people who are new to those research concepts.
 This is where illustrations are quite powerful at communicating complex ideas simply.
 
-Simple images, tables and flow charts are something that many of us can create. 
-Sketchnote is another way to visually describe a set of ideas. 
+Simple images, tables and flow charts are something that many of us can create.
+Sketchnote is another way to visually describe a set of ideas.
 Several resources can be found for people interested in sketch-noting and visual thinking, for example, see this [post from Sketchnote Academy about sketchnote](https://sketchnoteacademy.com/what-is-sketchnoting/) and [videos on visual thinking by Scriberia](https://www.youtube.com/watch?v=-Owxi2QNjlI).
 
-It is an advantage for scientists who are also excellent in visual communications, but most people may find it challenging and time taking to create both written and visual materials. 
-Therefore, it is useful to hire expert/professional scribes if a project or event budget allows. 
-These scribes/artists generally talk to researchers for 10-20 minutes to gather all information they need to express their ideas through drawings, illustrations or infographics. 
-Sometimes, these can be done as scribing of a talk or discussion as explained in [this video by Scriberia](https://www.youtube.com/watch?v=LjrtKaZVEio). 
+It is an advantage for scientists who are also excellent in visual communications, but most people may find it challenging and time taking to create both written and visual materials.
+Therefore, it is useful to hire expert/professional scribes if a project or event budget allows.
+These scribes/artists generally talk to researchers for 10-20 minutes to gather all information they need to express their ideas through drawings, illustrations or infographics.
+Sometimes, these can be done as scribing of a talk or discussion as explained in [this video by Scriberia](https://www.youtube.com/watch?v=LjrtKaZVEio).
 
 These illustrations are available at the end of the event, or after a few days if post-processing, editing, modification or digitalisation of hand-drawn sketches might be needed.
-Having a scribe at an event can also improve engagement and help participants contribute to something that is immediately and visually achievable in a short duration. 
+Having a scribe at an event can also improve engagement and help participants contribute to something that is immediately and visually achievable in a short duration.
 Furthermore, if shared on the spot, researchers can use their illustrations as a way to exchange their ideas more widely, even with those they won't meet.
 
 ### Considerations for creating a brief
 
-Finding a good illustrator or scribe can be a new challenge if you have not worked with one before. 
-It is always useful to ask in your network if someone has previously worked with someone who they may recommend. The cost may vary based on the country, type of service or experience of the scribe/company. 
-Generally, you can find multiple companies or freelancers who offer their services, describe your requirements and ask for quotes. 
+Finding a good illustrator or scribe can be a new challenge if you have not worked with one before.
+It is always useful to ask in your network if someone has previously worked with someone who they may recommend. The cost may vary based on the country, type of service or experience of the scribe/company.
+Generally, you can find multiple companies or freelancers who offer their services, describe your requirements and ask for quotes.
 
 Your request/brief may include the following details:
 - your budget and how many hours or days would you require a scribe for
@@ -87,26 +87,26 @@ Your request/brief may include the following details:
 ### Service providers
 
 The budget for hiring a professional scribe can vary based on the kind of service they provide.
-In *The Turing Way*, we have worked with [Scriberia](https://www.scriberia.com/) artists/scribes who are hired on a per day cost for live scribing. 
+In *The Turing Way*, we have worked with [Scriberia](https://www.scriberia.com/) artists/scribes who are hired on a per day cost for live scribing.
 The cost is less for half-day, and additional charges apply for infographics.
-For each event, we have worked with different scribes and enjoy the diverse style and skills they bring to the event. 
-Our illustrations are a mix of simple and complex concepts and are often described with cartoon-like characters. 
-The Scribria company is given equal authorship with *The Turing Way* community members who contribute to the development of those images during the Book Dash. 
+For each event, we have worked with different scribes and enjoy the diverse style and skills they bring to the event.
+Our illustrations are a mix of simple and complex concepts and are often described with cartoon-like characters.
+The Scribria company is given equal authorship with *The Turing Way* community members who contribute to the development of those images during the Book Dash.
 
 The costs of hiring freelance illustrators may be lower and they can often provide bespoke services (creating specific styles, details and number of images).
 Our colleagues in [Turing Commons](https://turing-commons.netlify.app/) work with freelance scribe artists and illustrators to create illustrations asynchronously.
 All images by Turing Commons are available in their [GitHub repository](https://github.com/alan-turing-institute/ethics-and-rri-resources/tree/main/images) also under a CC-BY 4.0 licence for reuse.
 
 When planning, it is always good to look for more than one service provider to compare the cost.
-Contact the company's account manager or the freelance artist directly to set a 20-30 minutes meeting to discuss your brief and any detail they should know. 
+Contact the company's account manager or the freelance artist directly to set a 20-30 minutes meeting to discuss your brief and any detail they should know.
 Based on your request, they will share their quotes for each service.
-When confirmed, block the dates/times and share details about your event (agenda, logistics, and anything else they should know). 
+When confirmed, block the dates/times and share details about your event (agenda, logistics, and anything else they should know).
 When agreed, you will receive a contract for the service, terms and conditions and an invoice to be paid after the service is delivered.
 
 ## Pro tips
 
-To enhance the use of these illustrations, we have learned to keep the concepts simple, self-contained and reusable in different contexts. 
-If texts or sentences are used in the image, we request a copy of those illustrations without text to make sure that they can be translated into other languages. 
+To enhance the use of these illustrations, we have learned to keep the concepts simple, self-contained and reusable in different contexts.
+If texts or sentences are used in the image, we request a copy of those illustrations without text to make sure that they can be translated into other languages.
 
 Images (both versions: with and without text) are uploaded to Zenodo with descriptive names as individual images in 'jpg' format to allow preview and a zipped folder in different file formats to allow downloading. See details here: https://zenodo.org/record/3332807.
 
@@ -114,9 +114,9 @@ We ensure that the characters in the images are designed while maintaining repre
 
 ### Translating and editing for reusing images
 
-Zipped archives (names ending with '-without-text.zip' on Zenodo) are provided that can be translated into languages that you would like to use. 
-We encourage the use and re-use of these images as much as possible. 
-This includes remixing the images, for example changing the colours, translating text or merging them with additional (openly licensed) images. 
+Zipped archives (names ending with '-without-text.zip' on Zenodo) are provided that can be translated into languages that you would like to use.
+We encourage the use and re-use of these images as much as possible.
+This includes remixing the images, for example changing the colours, translating text or merging them with additional (openly licensed) images.
 If you create something that others may benefit from, we encourage you to contribute your image back to *The Turing Way*.
 
 If you'd like to change the colours of the image to align with other elements of your presentation, see this [post by Alex Chan for changing the dominant colour in an image](https://alexwlchan.net/2020/02/adjusting-the-dominant-colour-of-an-image/).

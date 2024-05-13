@@ -4,8 +4,8 @@
 
 * Anne
 * Kirstie
-* Batool 
-* Aida 
+* Batool
+* Aida
 * Malvika
 
 ## Apologies
@@ -17,7 +17,7 @@
 * Main room
 * ECR event room (Batool \& Emma)
 * Accessibility Policy writing
-* Curricula Design (TEA and TTW) 
+* Curricula Design (TEA and TTW)
 *  RIR Personas Review
 
 ## Notes

@@ -15,9 +15,9 @@ Malvika Sharan
 
 ##  Title: The Turing Way: Collaboratively Learning and Sharing Research Skills
 
-**About the event:** The East African Network for Bioinformatics training (EANBiT), seeks to upskill students in Bioinformatics using the model: coursework, 5-week residential training and finally research project placement at partner institutions. 
-EANBiT works with universities in Kenya, Uganda and Tanzania, to offer MSc in Bioinformatics. 
-It supports curriculum development, offers MSc fellowships to students, and support placement for research. 
+**About the event:** The East African Network for Bioinformatics training (EANBiT), seeks to upskill students in Bioinformatics using the model: coursework, 5-week residential training and finally research project placement at partner institutions.
+EANBiT works with universities in Kenya, Uganda and Tanzania, to offer MSc in Bioinformatics.
+It supports curriculum development, offers MSc fellowships to students, and support placement for research.
 The residential training (gone online this year), has four tracks: technical, Soft skills, Seminars, and Mini projects. The seminars involve talks from leaders in various areas of genomics, including open science.
 For open science, in collaboration with H3ABioNet, we seek to expose the students to:
 - Open Science principles, and how they apply to our fellows’ research, now and in the future

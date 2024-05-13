@@ -60,13 +60,12 @@ We asked a group of researchers to share what they consider their project design
 - Using a very messy excel to store/process data, the shame!
 - Over-engineering a design for features that didn’t end up being implemented (in life before academia!)
 - Not implementing Git flow from the start, and not teaching collaborators how to use Git flow.
-- Not developing tests until after a significant amount of code was written.  
+- Not developing tests until after a significant amount of code was written.
 - Not doing code reviews.
-- Not defining use scenarios for the software from the beginning, meaning we didn’t pay enough attention to data input and output.  
-- Agonising too long before switching to objectively better design (particularly translating from a largely functional codebase to more object-oriented).    
+- Not defining use scenarios for the software from the beginning, meaning we didn’t pay enough attention to data input and output.
+- Agonising too long before switching to objectively better design (particularly translating from a largely functional codebase to more object-oriented).
 - Going with options that team members are ‘comfortable’ with (for example, using outdated languages or platform-dependent compilers), rather than teaching team members new skills. Makes life more difficult in the long run.
 - Defining governance at different stages of the project or potential scenario planning for how governance might change as the project scales up/down/gains new users and so on.
 - Not thinking about community from the start, starting with a Code of Conduct, thinking about a Contributor License Agreement (intellectual property), what processes will be used and how they will work, how they will impact future contributors and the overall project.
 
 _This section summarises participants' notes from a short workshop called "Good Practices for Designing Software Development Projects (The Turing Way)" at the [Collaboration Workshop 2021](https://www.software.ac.uk/cw21)  hosted by [Software Sustainability Institute](https://www.software.ac.uk). The workshop was delivered by Malvika Sharan, Emma Karoune and Batool Almarzouq on 31 March 2021. Zenodo. DOI: [10.5281/zenodo.4650221](https://doi.org/10.5281/zenodo.4650221)._
-

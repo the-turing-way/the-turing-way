@@ -7,20 +7,20 @@
 *Please add your name to this list, but remember that this is a public document, so use a pseudonym if you'd prefer, or just feel free to leave your name off.*
 
 * Name / Institute / Twitter, GitHub
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 ## What is the Turing Way?
 
@@ -79,41 +79,41 @@ Here's a useful help page: https://help.github.com/en/articles/about-notificatio
 Octobox is a cool tool for managing your GitHub notifications: https://octobox.io
 
 ## Your contributions
-*Please get into groups of 2 or 3 and have an explore about what you'd like to see in this book, or how you can contribute.* :sparkles: :space_invader: :rocket: :star2: 
+*Please get into groups of 2 or 3 and have an explore about what you'd like to see in this book, or how you can contribute.* :sparkles: :space_invader: :rocket: :star2:
 
 *List what you are working on below! Include your GitHub username, one sentence description and links to relevant issues and pull requests.*
 
-* 
-* 
-* 
-*  
-* 
-*  
-* 
+*
+*
+*
+*
+*
+*
+*
 
 
 ## Any questions?
 
 
-* 
-* 
-* 
-*  
-* 
-*  
-* 
+*
+*
+*
+*
+*
+*
+*
 
 ## What did we learn?
 
 There's also an issue for feedback - any comments on what we can do better at future events are appreciated: ```<link to issue>```
 
 
-* 
-* 
-* 
-*  
-* 
-*  
+*
+*
+*
+*
+*
+*
 
 
 ## Pluses and deltas
@@ -122,6 +122,6 @@ There's also an issue for feedback - any comments on what we can do better at fu
 
 ## Things to capture in the event report
 
-*  
-* 
-*  
+*
+*
+*

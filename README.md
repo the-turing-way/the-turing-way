@@ -30,8 +30,8 @@ Our goal is to provide all the information that researchers and data scientists 
 *The Turing Way is a book, a community and a global collaboration.*
 
 All stakeholders, including students, researchers, software engineers, project leaders and funding teams, are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
-You can read the book [online](https://the-turing-way.netlify.app), contribute to the project as described in our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)). 
-**We also invite you to contribute to the translation of _The Turing Way_ into different languages and help make research reproducibility accessible to a wider global audience**. 
+You can read the book [online](https://the-turing-way.netlify.app), contribute to the project as described in our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
+**We also invite you to contribute to the translation of _The Turing Way_ into different languages and help make research reproducibility accessible to a wider global audience**.
 If you are interested in contributing, please refer to [the guidelines provided in the book's handbook](https://the-turing-way.netlify.app/community-handbook/translation.html) and join our collaborative efforts.
 
 [![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
@@ -68,7 +68,7 @@ Reproducible research is necessary to ensure that scientific work can be trusted
 Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code.
 The goal is to ensure that all results can be independently verified and built upon in future work.
 This is sometimes easier said than done.
-Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists. 
+Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists.
 As these activities are not commonly taught, we recognise that the burden of requirement and new skill acquisition can be intimidating to individuals who are new to this world.
 _The Turing Way_ is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do" even for people who have never worked in this way before.
 It will include training material on version control, analysis testing, and open and transparent communication with future users, and build on Turing Institute case studies and workshops.
@@ -77,7 +77,7 @@ This project is openly developed and any and all questions, comments and recomme
 ### The Team
 
 _The Turing Way_ is an open collaboration and community-driven project.
-Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member. 
+Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member.
 Long-term contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project, as described in the [Ways of Working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
 
 The project is coordinated by the co-lead investigators **Kirstie Whitaker** (founder) and **Malvika Sharan**, and hosted at [The Alan Turing Institute](https://www.turing.ac.uk/).
@@ -107,7 +107,7 @@ We have created a [promotion pack](https://github.com/the-turing-way/the-turing-
 
 We release the latest version of _The Turing Way_ through the project's Zenodo archive using DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853).
 This DOI is a "[concept DOI](https://help.zenodo.org)" which means it will always resolve to the latest version.
-If you need to cite a specific version you can find those DOIs at the zenodo page above. 
+If you need to cite a specific version you can find those DOIs at the zenodo page above.
 DOIs allow us to archive the repository and they are really valuable to ensure that the work is tracked in academic publications.
 
 The citation will look something like this:

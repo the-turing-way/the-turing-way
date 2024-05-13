@@ -1,7 +1,7 @@
 # Notes 10 July
 
 ## Attendees
- 
+
 * Sarah Gibson
 * Batool Almarzouq
 * Emma Karoune
@@ -42,4 +42,4 @@ Notes on the TTW booth
 * TTW - postcards, stickers, book on big screen/slide
 * print out the schedule - talk about what we did at AIUK
 * brief the people that come along and talk about what went on at AIUK
-* how they interact with the TTW. 
+* how they interact with the TTW.

@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
             sessionStorage.setItem("pathwayValue" , null);
         })
     });
-    
+
     const images = document.querySelectorAll('img[src^="https://img.shields.io/static/v1?label=pathway"]');
     let colour = "orange";
     if (pathwayValue === "Early Career Researchers") {

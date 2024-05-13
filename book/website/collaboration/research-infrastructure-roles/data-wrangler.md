@@ -17,7 +17,7 @@ A Data Wrangler collaborates with multiple specialists to provide research-ready
 
 In a data science project, it is commonly observed that data wrangling tasks take the majority of time {cite:ps}`anaconda2020sods`, in contrast to data analysis and modelling.
 Traditionally, data wrangling tasks involve cleaning, restructuring and filtering data into analysis-ready formats.
-However, in terms of Data Wrangler as a profession, day to day tasks and objectives can be much more diverse.   
+However, in terms of Data Wrangler as a profession, day to day tasks and objectives can be much more diverse.
 
 Data Wranglers work primarily in the space between data generators and data analysts, who are addressing the research question of interest.
 Understanding the intended use for the data in the context of the analysis and research questions, Data Wranglers can be in the position of influencing data generators in improving data collection methods.
@@ -57,7 +57,7 @@ Some key challenges of a Data Wrangler role are:
 * Insufficient resources (human, computational, economic)
 * Unclear scope of responsibilities within the project
 
-In an ideal situation, some of these challenges can be mitigated if communication with Data Wranglers near the start of a project is encouraged and facilitated.  
+In an ideal situation, some of these challenges can be mitigated if communication with Data Wranglers near the start of a project is encouraged and facilitated.
 
 (cl-infrastructure-data-wranglers-benefits)=
 ## Benefits of having Data Wranglers

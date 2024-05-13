@@ -15,7 +15,7 @@ You can decide to:
 
 The easiest way to connect your dataset to your publication is to publish the dataset first (for example, at the same time as the **preprint**).
 This will provide you with the correct information for your **Data Availability Statement** and your references (see {ref}`Citing Data<cm-citable-cite-data>`), and will allow reviewers to include the dataset in their review.
-If any adjustments are needed based on the review process you can often upload a new version of the dataset (see for example [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/), [4TU.ResearchData](https://data.4tu.nl/info//en/)). This will provide you with a new DOI for the latest version, and some repositories (such as Zenodo) allow you to have a canonical DOI that will always point to the latest version of the dataset). See {ref}`cm-citable-steps-doi` for more information about DOIs. 
+If any adjustments are needed based on the review process you can often upload a new version of the dataset (see for example [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/), [4TU.ResearchData](https://data.4tu.nl/info//en/)). This will provide you with a new DOI for the latest version, and some repositories (such as Zenodo) allow you to have a canonical DOI that will always point to the latest version of the dataset). See {ref}`cm-citable-steps-doi` for more information about DOIs.
 Remember that the contributors and date of deposition are publicly available, making it unlikely that others will 'scoop' you.
 But if you are hesitant about opening up your dataset before the article is published, you can either publish the dataset under restricted access, under embargo, or reserve a DOI in advance and publish the Research Object later.
 

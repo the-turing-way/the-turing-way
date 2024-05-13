@@ -4,7 +4,7 @@
 * Location: Raspberry Pi Foundation, Cambridge, UK
 * Date: 29 January 2020
 
-### Authors 
+### Authors
 
 * [Sarah Gibson](https://www.turing.ac.uk/people/researchers/sarah-gibson) ([*The Alan Turing Institute*](https://www.turing.ac.uk)) on behalf of **The Turing Way Collaboration**
 

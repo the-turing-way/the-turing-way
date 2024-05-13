@@ -32,7 +32,7 @@ Register here to attend: [add registration page link].
 - [ ] Announce at least 3-4 weeks in advance on Slack, Newsletter, Twitter and different talks
 - [ ] Add information to the Intro hackmd: https://hackmd.io/@turingway/demo-intro
 - [ ] Hosts will define an agenda and questions for the session - hosts will also allocate some questions for each other to speak on
-- [ ] Set another check-in at least 2 weeks in advance to touch base and discuss the plans and questions with the speakers - assign 1-2 questions for each speaker to begin 
+- [ ] Set another check-in at least 2 weeks in advance to touch base and discuss the plans and questions with the speakers - assign 1-2 questions for each speaker to begin
 - [ ] Plan with cohost who will ask which question, how you will time keep, what channel you will use to ask questions to each other privately, who will monitor the chat (maybe ask someone outside this group to help with note taking and chat monitoring)
 - [ ] Update the calendar invite with Zoom, Etherpad and Eventbrite -- encouraging them to share the Eventbrite page in their network
 - [ ] Identify someone from the community who can do the introduction of The Turing Way, code of conduct reminder and pass it to the speakers
@@ -51,7 +51,7 @@ Register here to attend: [add registration page link].
 - [ ] Speakers will make sure that everyone on the panel has had an equal chance to discuss and share their opinions
 - [ ] Any question from the chat is copied over the Etherpad, in the last 10 minutes publically posed question can be asked
 - [ ] The recorded session finishes with a short closing arguments from each speaker and host
-- [ ] After the recorded part of the discussion (60-75 minutes), all participants are reminded of the next stage of unrecorded discussion informally with the speakers 
+- [ ] After the recorded part of the discussion (60-75 minutes), all participants are reminded of the next stage of unrecorded discussion informally with the speakers
 - [ ] Hosts close the call after 90 minutes of the session (with 15-30 minutes unrecorded discussion)
 
 ## After the session
@@ -61,7 +61,7 @@ Register here to attend: [add registration page link].
 - [ ] Download the video from Zoom and edit the live transcription (proofread cc)
 - [ ] Upload the video on The Turing Way youtube - label and annotate well, and add the flyer as the video's front page
 - [ ] Share the published videos with the speakers
-- [ ] Summarise the session to add to The Turing Way -- invite someone from the community who could do that 
+- [ ] Summarise the session to add to The Turing Way -- invite someone from the community who could do that
 - [ ] Promote the video via Slack, Newsletter, Twitter
 - [ ] Send a thank you email to the Eventbrite participants sharing the video and inviting any ideas and suggestions for improvement via a standard feedback form
 - [ ] Update the book chapter and templates if needed

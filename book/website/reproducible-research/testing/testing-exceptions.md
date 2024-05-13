@@ -183,7 +183,7 @@ Unit test frameworks for other languages also often provide similar functions:
 - testthat for R:
   - expect_equal(actual, expected, tolerance=DELTA) - absolute error within DELTA
   - expect_equal(actual, expected, scale=expected, tolerance=DELTA) - relative error within DELTA
-- julia: 
+- julia:
   - `val1 ≈ val2`
   - `isapprox(val1, val2, atol=abs_delta, rtol=rel_delta)`
   - `Test.jl` with `≈`: `@test val1 ≈ val2 atol=abs_delta rtol=rel_delta`

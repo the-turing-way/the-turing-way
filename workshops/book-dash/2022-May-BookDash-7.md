@@ -7,25 +7,25 @@
 ![](https://i.imgur.com/tIZtgKK.png)
 ![](https://i.imgur.com/kBIZ8l3.jpg)
 
-We are delighted to share that the sixth Book Dash was hosted successfully from 16 to 20 May with 29 participants, including our planning committee members. 
+We are delighted to share that the sixth Book Dash was hosted successfully from 16 to 20 May with 29 participants, including our planning committee members.
 
 ### Format of the event
 
-_The Turing Way_ [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. 
+_The Turing Way_ [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date.
 They also contribute to enhancing the project by improving the ways we work in the community and take lead on accomplishing different tasks or subprojects.
 
 The May edition of Book Dash featured contributors, committee members, online working sessions, discussions and social events, and community share-outs.
 
-In the past, we have organised 1-1.5 day long Book Dash events in person or partially remote. 
+In the past, we have organised 1-1.5 day long Book Dash events in person or partially remote.
 However, since November 2020, we have been hosting Book Dashes online and with multiple short co-working called development sessions spread over 5 days for flexible participation by members.
-We developed this format to allow people in different time zones to participate with the same efficiency and equitable support. 
+We developed this format to allow people in different time zones to participate with the same efficiency and equitable support.
 This involved creating multiple small development sessions throughout the day, adding dedicated sessions for informal social interactions, developing shared documents with all the information, providing support funds to ensure that everyone can comfortably participate and hosting a pre-event call to communicate these resources to everyone.
 
 ### Application, Review and Selection process
 
 As in the past, we invited applications through an open call where interested applicants could state their goals and interest for the Book Dash. This application was also open for the long term members from the community who may have attended a Book Dash or Collaboration Cafes in the past to join as a helper and mentor for new contributors as well.
 
-Applicants were asked to think about the collaborative element of the Book Dash and state how they could engage with other participants. 
+Applicants were asked to think about the collaborative element of the Book Dash and state how they could engage with other participants.
 To get a sense of the time zones these applicants came from, we asked them to choose their preferred slots during the day that they can join. You can see a template of this document [here](https://tinyurl.com/tw-bookdash-template).
 
 The Book Dash Planning Committee used the rubrics (as explained in the [online chapter](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-application.html#reviewing-process)) to score the applications during the review. They met online to discuss applications, frame feedback and conclude their selection process.
@@ -38,7 +38,7 @@ Arielle Bennett, Batool Almarzouq, Brigitta Sipőcz, Carlos Martinez, Emma Karou
 
 *Planning committee members (order - left to right and top to bottom): Arielle Bennett, Emma Karoune, Laura Carter, Esther Plomp, Anne Lee Steele, Lena Karvovskaya, Carlos Martinez, Achintya Rao*
 
-We want to express our gratitude for their thoughtful engagement in the project and for helping build an inclusive and safe place in the Book Dash. 
+We want to express our gratitude for their thoughtful engagement in the project and for helping build an inclusive and safe place in the Book Dash.
 It is only with their help, we can host the next event in November taking careful consideration for our participants.
 
 ### Timeline
@@ -94,24 +94,24 @@ We greatly appreciate the work that our attendees have accomplished in the proje
 * Friendly and welcoming. Always a positive attitude
 * Enough flexibility to account for time zones, work commitments, life commitments (for me at least)
 * Very thoughful to have provided accessibility grants to the participants
-* 
+*
 * A lot of opportunities to work on different types of tasks to improve the TW, flexible schedule to accommodate people with different schedules
 * Friendly environment, I felt able/encouraged to try out different things and experiment a bit, while at the same time I did accomplish something!
 * The hub was very nice: it was really great to sit and work together and meet others in the community I hadn't met before.
 * Liked the reminders to take breaks but having the option to have people to hold me accountable
-* 
+*
 
 Delta
 ---
 
-* Some of the templates were inconsistent with timings and that caused confusion 
+* Some of the templates were inconsistent with timings and that caused confusion
 * A way to keep track of all the different documents. Maybe one central HackMD/document which links to all the other HackMDs or important Slack info? (Like a password manager) So we can find the other documents or illustrations easily
 * Need to think about how the hybrid model works and what the specific support and collaboration models are
 * (This is a difficult problem) find a solution for hybrid video calls. Room audio can be poor quality, multiple laptops lead to feedback.
 * Are there ways to stop there being a split between remote joiners and hubs, or between hubs?
 * As a remote person, I found the shared mic hard, it required people to know who's speaking; preferred it when people still speak to the screen with their individual mics
 * Folks adjusting their schedule to in-person made it hard to understand as a remote person when to catch a person to co-work, I ended up just doing my own thing in the end as that felt easier
-* I was in a hub in my own office, and, while that was nice, I was also not *incredibly* productive, because I was distracted by my really lovely colleages :heart: and by their serving as a reminder of what regular work I still needed to catch up on. This was better on the days that I joined online. I think we need to think about some kind of balance for that - or a travelling hub in places where that's possible so every team member has this problem at least once :smiley_cat: 
+* I was in a hub in my own office, and, while that was nice, I was also not *incredibly* productive, because I was distracted by my really lovely colleages :heart: and by their serving as a reminder of what regular work I still needed to catch up on. This was better on the days that I joined online. I think we need to think about some kind of balance for that - or a travelling hub in places where that's possible so every team member has this problem at least once :smiley_cat:
 
 What's next?
 ------------

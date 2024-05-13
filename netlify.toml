@@ -31,7 +31,7 @@ fi
   # The default HTTP status code is 301, but you can define a different one.
   status = 301
   force = true
-  
+
   # A redirect rule with all the supported properties
 [[redirects]]
   from = "https://the-turing-way.netlify.app"

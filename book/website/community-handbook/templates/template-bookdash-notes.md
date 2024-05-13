@@ -41,7 +41,7 @@ All time provided in London Time (UTC+1). Please use this link to convert in you
 
 ## Groupings for breakout rooms based on the topics of interest:
 
-> Feel free to move between the breakout rooms! 
+> Feel free to move between the breakout rooms!
 
 **Room 1 (Reproducibility):** (add name)
 **Room 2 (Ethics):** (add name)
@@ -57,12 +57,12 @@ All time provided in London Time (UTC+1). Please use this link to convert in you
 
 *Please add your name to this list, but remember that this is a public document, so use a pseudonym if you'd prefer, or just feel free to leave your name off.*
 
-*Name (pronouns - optional) / Institute / X, GitHub / icebreaker: What song/music/artist/album puts you in a good mood!* :musical_score: 
+*Name (pronouns - optional) / Institute / X, GitHub / icebreaker: What song/music/artist/album puts you in a good mood!* :musical_score:
 
-* 
-* 
-* 
-* 
+*
+*
+*
+*
 
 ### :books: Turing Way and Book Dash
 
@@ -87,11 +87,11 @@ You can use your SMART goals to guide your discussions <-- provide link to the o
 _Share your ideas for contributions and collaboration during the book dash_
 
 *Name: goals/plans/ideas*
-* 
-* 
-* 
-* 
-* 
+*
+*
+*
+*
+*
 
 
 ### Names are added as per your registration form
@@ -114,18 +114,18 @@ _Share your ideas for contributions and collaboration during the book dash_
 *Notes from Development session (time block 1)*
 
 **Goal-setting**
-* 
-* 
-* 
-* 
-* 
+*
+*
+*
+*
+*
 
 *Report Out*
 
-* 
-* 
-* 
-* 
+*
+*
+*
+*
 
 #### Themed Discussion and networking Session (time block 2) <-- this block may change the order for different days
 
@@ -142,7 +142,7 @@ _Share your ideas for contributions and collaboration during the book dash_
  *Notes and reflection from discussion and networking session*
 
 **Prompts for reflections and discussions**
-* 
+*
 *
 
 **Notes**
@@ -158,23 +158,23 @@ _Share your ideas for contributions and collaboration during the book dash_
 | 15:05 - 15:15 |            Quick report out |
 | 15:15 - 15:50 |    Second Pomodoro :tomato: |
 | 15:50 - 16:00 |            Quick report out |
-| 16:00 - 16:30 | Troubleshoot, mentored-work | 
+| 16:00 - 16:30 | Troubleshoot, mentored-work |
 
 *Notes from Development session (time block 3)*
 
 **Goal-setting**
-* 
-* 
-* 
-* 
-* 
+*
+*
+*
+*
+*
 
 *Report Out*
 
-* 
-* 
-* 
-* 
+*
+*
+*
+*
 #### Development session (time block 4)
 
 | Time          |               Suggested agenda |
@@ -183,21 +183,21 @@ _Share your ideas for contributions and collaboration during the book dash_
 | 17:15 - 18:05 |       Onboarding and  resource - preparing for the Book Dash |
 | 18:00 - 18:45 |       Second Pomodoro :tomato: |
 | 18:45 - 18:55 |               Quick report out |
-| 19:00 - 19:30 |    Troubleshoot, mentored-work | 
+| 19:00 - 19:30 |    Troubleshoot, mentored-work |
 
 *Notes from Development session (time block 4)*
 
 **Goal-setting**
-* 
-* 
-* 
-* 
-* 
+*
+*
+*
+*
+*
 
 *Report Out*
 
-* 
-* 
-* 
-* 
+*
+*
+*
+*
 ```

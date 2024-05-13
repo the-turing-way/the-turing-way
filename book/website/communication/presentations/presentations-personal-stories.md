@@ -24,18 +24,18 @@ Our activities only make sense if people use what we do.
 ## 2. What aspects do you have to take into account when thinking about an event with very interdisciplinary talks?
 
 I think the main thing is to know your audience beforehand.
-You can ask the organizers of the event to whom you are going to speak, what is their background, what is the reason they come to the event, and so on. 
+You can ask the organizers of the event to whom you are going to speak, what is their background, what is the reason they come to the event, and so on.
 In that way, you can foresee some of the expectations they are going to have and try to fulfill some of them in your talk.
 
 Also, I start the talk with a relaxed attitude so that the audience feels that, even though I am there as an expert,
 I am approachable when it comes to comments and questions.
 After all, these kinds of meetings and sessions are meant for people to take something away, to learn something.
 
-Knowing your audience and at least one or two of the things they expect from the talk is important. 
+Knowing your audience and at least one or two of the things they expect from the talk is important.
 By fulfilling these expectations the audience leaves with a sense that it was worth being there.
 
 That is another point to take into account, respect for the other person's time and to prepare yourself in advance.
-Make it clear that you care about giving a good talk, with useful information. 
+Make it clear that you care about giving a good talk, with useful information.
 Tell your audience that you want them to profit from the time they decided to spend listening to you.
 
 Keeping time schedules is also important, both for you, the audience, and the rest of the speakers.
@@ -106,7 +106,7 @@ We are discussing talks given at community events.
 In general, I deliver them free of charge and the materials are open, but if a company invites you, don't be ashamed or afraid to charge for them in case that, later on, it will be economically profitable for whoever invites you.
 I also don't pay out of my pocket if I am invited to give a talk; this means that the costs of travel or registration are paid by the organizer.
 If your talks are in high demand, the organizer's handling of the costs helps you decide.
-Also, you should never transfer the intellectual property of your material to the event organizer. 
+Also, you should never transfer the intellectual property of your material to the event organizer.
 If organizers ask you to transfer your rights you should charge them for it.
 
 In my case, the talks I deliver are related to Data Science, with Agricultural Sciences and communities of practice.
@@ -147,42 +147,42 @@ I hope to continue learning; currently, I am reading a couple of books that I ho
 
 
 # Personal stories - Presenting outside of your discipline (Español)
- 
-Queremos agradecer a **[Yanina Bellini Saibene](https://yabellini.netlify.app/es/)** por responder nuestras preguntas. 
+
+Queremos agradecer a **[Yanina Bellini Saibene](https://yabellini.netlify.app/es/)** por responder nuestras preguntas.
 
 Podés interiorizarte en su trabajo en los siguientes links:
 * ORCID: [0000-0002-4522-7466](https://orcid.org/0000-0002-4522-7466)
 * X (formerly Twitter): [yabellini](https://twitter.com/yabellini)
 
-**Yanina** es investigadora del [INTA en La Pampa, Argentina](https://inta.gob.ar/personas/bellini.yanina) aplicando ciencia de datos al sector agropecuario. 
-Es Licenciada en Sistemas de Información y Magíster en Explotación de Datos y Gestión del Conocimiento. 
-Es cofundadora y organizadora en múltiples espacios colaborativos como Metadocencia, RLadies y LatinR entre otros. Organizó más de 70 eventos (de alcance regional e internacional) entre los que se destacan ser chair general de las Jornadas Argentinas de Informática (2020-2021) y fundadora y actual chair de LatinR, una de las conferencias latinoamericanas más grandes sobre el uso de R en investigación y desarrollo y una de las coordinadoras globales de useR! 2021. 
+**Yanina** es investigadora del [INTA en La Pampa, Argentina](https://inta.gob.ar/personas/bellini.yanina) aplicando ciencia de datos al sector agropecuario.
+Es Licenciada en Sistemas de Información y Magíster en Explotación de Datos y Gestión del Conocimiento.
+Es cofundadora y organizadora en múltiples espacios colaborativos como Metadocencia, RLadies y LatinR entre otros. Organizó más de 70 eventos (de alcance regional e internacional) entre los que se destacan ser chair general de las Jornadas Argentinas de Informática (2020-2021) y fundadora y actual chair de LatinR, una de las conferencias latinoamericanas más grandes sobre el uso de R en investigación y desarrollo y una de las coordinadoras globales de useR! 2021.
 Tanto en su rol como investigadora como con la comunidad R trabaja buscando hacer que la ciencia sea lo más reproducible y abierta posible utilizando herramientas informáticas abiertas.
 
 ## 1. ¿Cuándo comenzaste a dar charlas sobre tu trabajo como investigadora en eventos no académicos?
 
-Yo trabajo en el [INTA](https://www.argentina.gob.ar/inta) (Instituto Nacional de Tecnología Agropecuaria), que es una institución científica. Nuestras actividades están organizadas en investigación y desarrollo y transferencia y extensión, ambas con el mismo peso e importancia. 
+Yo trabajo en el [INTA](https://www.argentina.gob.ar/inta) (Instituto Nacional de Tecnología Agropecuaria), que es una institución científica. Nuestras actividades están organizadas en investigación y desarrollo y transferencia y extensión, ambas con el mismo peso e importancia.
 Todo lo que tiene que ver con hacer enseñar, difundir, comunicar, transferir conocimiento de nuestros desarrollos a actores del sector agropecuario y al público en general, es parte de nuestro trabajo. Dentro del INTA, las actividades de formación y comunicación, ya sea por medio de un curso, taller, de una nota o entrevista en un diario, radio, televisión, son importantes y necesarias. Solo tenemos sentido si la gente utiliza lo que hacemos.
 
  ## 2. ¿Qué aspectos tenés que atender a la hora de pensar un evento con charlas muy interdisciplinarias?
 
-Creo que lo principal es conocer a tu audiencia previamente. Se les puede preguntar a los organizadores del evento a quienes les vas a hablar, cuál es su background, cuál es la razón por la que vienen al evento, ya que, de esa manera, se puede prever algunas de las expectativas que van a tener e intentar, por lo menos, cumplir alguna en tu charla. 
+Creo que lo principal es conocer a tu audiencia previamente. Se les puede preguntar a los organizadores del evento a quienes les vas a hablar, cuál es su background, cuál es la razón por la que vienen al evento, ya que, de esa manera, se puede prever algunas de las expectativas que van a tener e intentar, por lo menos, cumplir alguna en tu charla.
 
-Asimismo, comienzo la charla con una actitud descontracturada para que el público sienta que, a pesar de que estoy ahí como experta, soy accesible a la hora de los comentarios y preguntas. Después de todo, este tipo de encuentros e intercambios se realizan para que las personas se lleven algo, aprendan algo. 
+Asimismo, comienzo la charla con una actitud descontracturada para que el público sienta que, a pesar de que estoy ahí como experta, soy accesible a la hora de los comentarios y preguntas. Después de todo, este tipo de encuentros e intercambios se realizan para que las personas se lleven algo, aprendan algo.
 
-Conocer a tu audiencia y al menos una o dos de las expectativas que esperan de la charla es importante, ya que al cumplirla se van con algo que fueron a buscar y por eso va a contribuir a la evaluación de que valió la pena estar ahí. 
+Conocer a tu audiencia y al menos una o dos de las expectativas que esperan de la charla es importante, ya que al cumplirla se van con algo que fueron a buscar y por eso va a contribuir a la evaluación de que valió la pena estar ahí.
 
-Ese es otro punto a tener en cuenta, el respeto por el tiempo del otro y prepararte con anticipación, que se note que te importa dar una buena charla, con información útil, que se note que querés que aprovechen ese tiempo que decidieron dedicarte a vos escuchandote.   
+Ese es otro punto a tener en cuenta, el respeto por el tiempo del otro y prepararte con anticipación, que se note que te importa dar una buena charla, con información útil, que se note que querés que aprovechen ese tiempo que decidieron dedicarte a vos escuchandote.
 
 El respeto por cumplir los tiempos, también es importante, tanto para vos, el público y el resto de los oradores.
 
-Es necesario estar bien informado sobre el formato de la charla:  cantidad de tiempo de la charla, formato (ej: se expone y las preguntas al final, se puede ir haciendo preguntas durante la charla, cuánto tiempo de preguntas o intercambios se esperan), ¿hay libertad en el formato o es estructurado?. 
+Es necesario estar bien informado sobre el formato de la charla:  cantidad de tiempo de la charla, formato (ej: se expone y las preguntas al final, se puede ir haciendo preguntas durante la charla, cuánto tiempo de preguntas o intercambios se esperan), ¿hay libertad en el formato o es estructurado?.
 
-En general, si hay libertad en el formato de la charla, pido que me dejen interactuar con el público. Me gusta hacer preguntas y que me contesten en el chat, los hace parte del evento. Luego, leo las respuestas y, a pesar de que el slide es el mismo, lo que voy a decir va a ser diferente dependiendo de las respuestas que consiga. Si el formato es estructurado respeto las instrucciones de la organización, que en general es una introducción de la disertante, la presentación y luego las preguntas. 
+En general, si hay libertad en el formato de la charla, pido que me dejen interactuar con el público. Me gusta hacer preguntas y que me contesten en el chat, los hace parte del evento. Luego, leo las respuestas y, a pesar de que el slide es el mismo, lo que voy a decir va a ser diferente dependiendo de las respuestas que consiga. Si el formato es estructurado respeto las instrucciones de la organización, que en general es una introducción de la disertante, la presentación y luego las preguntas.
 
 Hay organizadores que te piden el material previamente para que el público lo mire y te envíen las preguntas antes de la charla. Por eso, es preciso comunicarse con los organizadores y comprender el proceso. Además, siempre pido un feedback de los organizadores para poder ir mejorando la charla.
 
-Por otro lado, intento responder lo que no se contestó en el evento de dos maneras distintas: hago un blog post con las preguntas y respuestas (a veces las agrego en la página de la charla) o con hilos de Twitter. De igual forma, procuro dejar disponibles los materiales antes de la charla y tener en cuenta cuestiones de accesibilidad, como que la fuente tenga un tamaño que sea visible, los contrastes de colores, que incluya notas del orador, un link de descarga, una licencia para que sepan cómo usarla, entre otros detalles. 
+Por otro lado, intento responder lo que no se contestó en el evento de dos maneras distintas: hago un blog post con las preguntas y respuestas (a veces las agrego en la página de la charla) o con hilos de Twitter. De igual forma, procuro dejar disponibles los materiales antes de la charla y tener en cuenta cuestiones de accesibilidad, como que la fuente tenga un tamaño que sea visible, los contrastes de colores, que incluya notas del orador, un link de descarga, una licencia para que sepan cómo usarla, entre otros detalles.
 
 Gracias a  R-Ladies empecé a prestar más atención a este tipo de detalles de mis materiales, cosas que antes no tenía mucho en cuenta pero pueden hacer una gran diferencia en el uso y acceso de mis charlas.
 
@@ -190,67 +190,67 @@ Gracias a  R-Ladies empecé a prestar más atención a este tipo de detalles de 
 
 Lo primero es la red de contactos que generas a partir de los eventos. El hecho de ir y contar lo que estás haciendo, me ha significado futuras colaboraciones, convenios, publicaciones, trabajos en conjunto y proyectos.
 
-Ampliar esa red de contactos también puede resultar en que uno pueda juntar a personas para que trabajen juntas. 
-Creo que es un rol muy importante que poseemos las personas que ya tenemos varios años en la profesión, ser de puente entre grupos de trabajo y personas para que se conozcan. 
+Ampliar esa red de contactos también puede resultar en que uno pueda juntar a personas para que trabajen juntas.
+Creo que es un rol muy importante que poseemos las personas que ya tenemos varios años en la profesión, ser de puente entre grupos de trabajo y personas para que se conozcan.
 
-Por otra parte, me ayuda a mejorar mis charlas, mis materiales (muchos de ellos terminan en algún tipo de publicación más académica) y a tomar el pulso de cuáles son las necesidades, dudas o inquietudes de las personas con respecto al tema que estoy comunicando. 
-Eso me sirve como un termómetro de la demanda, de lo que las personas están necesitando; de lo que no se está entendiendo; de los temas que están haciendo falta tener una capacitación, libros, blogs o materiales; para reafirmar o corregir la dirección de mi trabajo. 
+Por otra parte, me ayuda a mejorar mis charlas, mis materiales (muchos de ellos terminan en algún tipo de publicación más académica) y a tomar el pulso de cuáles son las necesidades, dudas o inquietudes de las personas con respecto al tema que estoy comunicando.
+Eso me sirve como un termómetro de la demanda, de lo que las personas están necesitando; de lo que no se está entendiendo; de los temas que están haciendo falta tener una capacitación, libros, blogs o materiales; para reafirmar o corregir la dirección de mi trabajo.
 
 Esto puede terminar en la presentación de una propuesta de proyecto nuevo, la búsqueda de un financiamiento para ese proyecto.
 
-Por último, se aprende muchísimo, sobre otros temas, sobre otras profesiones, sobre otras personas y otros países. 
-En los eventos, muchas veces escuchás la charla de otras personas que están invitadas y aprendes de ellas. Además, te enteras de proyectos, accedes a la información y se te pueden presentar otras posibilidades para vos o para grupos de trabajos que conozcas. 
+Por último, se aprende muchísimo, sobre otros temas, sobre otras profesiones, sobre otras personas y otros países.
+En los eventos, muchas veces escuchás la charla de otras personas que están invitadas y aprendes de ellas. Además, te enteras de proyectos, accedes a la información y se te pueden presentar otras posibilidades para vos o para grupos de trabajos que conozcas.
 
  ## 4. ¿Tenés consejos sobre cosas que hay que evitar o, quizás, manejar con cuidado?
- 
-Creo que con el humor hay que ser muy cuidadosa. 
-Pienso que ese aspecto funciona únicamente sobre uno mismo, si me río de mi, entonces hay menos riesgos de ofender o lastimar. 
 
-Por otro lado, hay que evitar la descortesía de los tiempos. 
-Por ejemplo, si una charla dura una hora, sería conveniente terminarla en 50 minutos y dejarle al participante diez minutos para que se estire, levante, hidrate o vaya al baño y, luego, que continúe con su rutina, especialmente en este ámbito virtual donde vivimos de un zoom a otro. 
+Creo que con el humor hay que ser muy cuidadosa.
+Pienso que ese aspecto funciona únicamente sobre uno mismo, si me río de mi, entonces hay menos riesgos de ofender o lastimar.
 
-Si no sabes cuánto tiempo te va a llevar, mejor practicarla previamente ante tu mascota, tu familia o una comunidad. 
+Por otro lado, hay que evitar la descortesía de los tiempos.
+Por ejemplo, si una charla dura una hora, sería conveniente terminarla en 50 minutos y dejarle al participante diez minutos para que se estire, levante, hidrate o vaya al baño y, luego, que continúe con su rutina, especialmente en este ámbito virtual donde vivimos de un zoom a otro.
+
+Si no sabes cuánto tiempo te va a llevar, mejor practicarla previamente ante tu mascota, tu familia o una comunidad.
 A medida que uno le agarra la mano, sabe cuánto va a tardar la charla o concepto, y si es necesario achicarla o estirarla dependiendo del tiempo.
 
-Otra cosa que intentaría evitar es que no haya interacción con la gente. 
-En algún momento, se tiene que interactuar con las personas que asistieron al evento, sea durante la charla, en el final o cuando te sientas más cómoda, pero si solo vas dar la charla, terminas y te retirás, perdés la posibilidad de generar contactos o estar accesible, dos de las cosas que este tipo de eventos tiene como objetivo principal. 
+Otra cosa que intentaría evitar es que no haya interacción con la gente.
+En algún momento, se tiene que interactuar con las personas que asistieron al evento, sea durante la charla, en el final o cuando te sientas más cómoda, pero si solo vas dar la charla, terminas y te retirás, perdés la posibilidad de generar contactos o estar accesible, dos de las cosas que este tipo de eventos tiene como objetivo principal.
 
-Con respecto a los materiales, evitar que no sean accesibles.  Como mencioné antes trabajar para que sean lo más accesible posible (fuentes legibles, tamaños y colores contrastantes, notas del orador, texto alternativo en las imágenes) y que tengan licencia. 
+Con respecto a los materiales, evitar que no sean accesibles.  Como mencioné antes trabajar para que sean lo más accesible posible (fuentes legibles, tamaños y colores contrastantes, notas del orador, texto alternativo en las imágenes) y que tengan licencia.
 
-Cuando hago una charla, dentro del tiempo que me lleva armarla, le agrego uno o dos días más para chequear la accesibilidad. 
+Cuando hago una charla, dentro del tiempo que me lleva armarla, le agrego uno o dos días más para chequear la accesibilidad.
 La licencia es fundamental para que sepan cómo pueden reusar tu material y, si no lo pueden reusar, que quede claro.
 
-Por último, una frase muy argentina: “no pararse arriba del caballo”, dar la charla con la tranquilidad que conocés tu trabajo y tu disciplina, pero con la humildad que corresponde. Hay que reconocer que puede haber preguntas que no sepas responder. 
+Por último, una frase muy argentina: “no pararse arriba del caballo”, dar la charla con la tranquilidad que conocés tu trabajo y tu disciplina, pero con la humildad que corresponde. Hay que reconocer que puede haber preguntas que no sepas responder.
 
-Lo mismo pasa con el lenguaje, donde se puede ser correcto técnicamente sin utilizar un lenguaje complejo. 
-Sin embargo, si empleas términos técnicos porque los tenés que usar sí o sí, hay que explicarlos o hacer una analogía con cosas de la vida cotidiana. Por ejemplo, un programa de computación es como una receta: le das instrucciones a la computadora. 
+Lo mismo pasa con el lenguaje, donde se puede ser correcto técnicamente sin utilizar un lenguaje complejo.
+Sin embargo, si empleas términos técnicos porque los tenés que usar sí o sí, hay que explicarlos o hacer una analogía con cosas de la vida cotidiana. Por ejemplo, un programa de computación es como una receta: le das instrucciones a la computadora.
 Por eso es clave conocer a tu audiencia, porque podés saber en qué apoyarte al momento de explicar conceptos más complejos.
 
-Estamos hablando de charlas que se dan en eventos comunitarios. En general, yo los doy sin costo y los materiales son abiertos, pero si una empresa te invita, que no te de vergüenza ni miedo cobrar por las mismas en el caso de que eso, después, reditúe económicamente a quien te invita. 
+Estamos hablando de charlas que se dan en eventos comunitarios. En general, yo los doy sin costo y los materiales son abiertos, pero si una empresa te invita, que no te de vergüenza ni miedo cobrar por las mismas en el caso de que eso, después, reditúe económicamente a quien te invita.
 
-Yo tampoco hago gastos de mi bolsillo si me invitan a dar una charla; esto significa que los costos de viajes, inscripción, corren por cuenta del organizador. Si tus charlas tienen mucha demanda, el manejo de los costos por parte del organizador, te ayuda a decidir. Asimismo, nunca hay que entregar la propiedad intelectual de tu material a quien haga el evento, pero si te piden que la entregues y vos estás de acuerdo, cobrales muy bien. 
+Yo tampoco hago gastos de mi bolsillo si me invitan a dar una charla; esto significa que los costos de viajes, inscripción, corren por cuenta del organizador. Si tus charlas tienen mucha demanda, el manejo de los costos por parte del organizador, te ayuda a decidir. Asimismo, nunca hay que entregar la propiedad intelectual de tu material a quien haga el evento, pero si te piden que la entregues y vos estás de acuerdo, cobrales muy bien.
 
-En mi caso, las charlas que doy tienen que ver con Ciencia de Datos, con Agro y con comunidades de práctica.  
-Si me invitan a dar una charla como investigadora de INTA tampoco cobro, porque es parte de mi trabajo.  
-Cuando me invitan a dar una charla por mi trabajo en las comunidades de práctica o no relacionado con INTA, si son de universidades públicas, de grupos como R-Ladies, para eventos y conferencias gratuitos, las hago como una forma de devolver gran parte de lo que recibí. 
+En mi caso, las charlas que doy tienen que ver con Ciencia de Datos, con Agro y con comunidades de práctica.
+Si me invitan a dar una charla como investigadora de INTA tampoco cobro, porque es parte de mi trabajo.
+Cuando me invitan a dar una charla por mi trabajo en las comunidades de práctica o no relacionado con INTA, si son de universidades públicas, de grupos como R-Ladies, para eventos y conferencias gratuitos, las hago como una forma de devolver gran parte de lo que recibí.
 
-Vivo en un país que me permitió educarme con un sistema que lo mantenemos entre todos, y dar este tipo de capacitaciones es una forma de retribución. Hoy en día, tengo suficiente privilegio como para poder realizar este tipo de actividades sin cobrar; no todo el mundo puede, y tampoco se tienen que sentir obligadas. 
+Vivo en un país que me permitió educarme con un sistema que lo mantenemos entre todos, y dar este tipo de capacitaciones es una forma de retribución. Hoy en día, tengo suficiente privilegio como para poder realizar este tipo de actividades sin cobrar; no todo el mundo puede, y tampoco se tienen que sentir obligadas.
 
-Hay algunas personas que tienen una guía a la hora de ser invitada a dar una charla, por ejemplo [Tatiana Mac](https://gist.github.com/tatianamac/493ca668ee7f7c07a5b282f6d9132552#file-tatiana-mac-speaker-rider-md), [Greg Wilson](https://third-bit.com/talks/speaking/) y Steph Locke. 
+Hay algunas personas que tienen una guía a la hora de ser invitada a dar una charla, por ejemplo [Tatiana Mac](https://gist.github.com/tatianamac/493ca668ee7f7c07a5b282f6d9132552#file-tatiana-mac-speaker-rider-md), [Greg Wilson](https://third-bit.com/talks/speaking/) y Steph Locke.
 
-Estas también son cuestiones que yo tomo en cuenta, ¿es un panel todo de hombres?, ¿el evento tiene un Código de Conducta?, ¿Es de acceso libre o bien tiene beneficios para personas menos favorecidas?. 
-De nuevo, si uno puede exigir este tipo de cosas en los eventos que va a participar estaremos ayudando a generar ambientes más amigables y seguros.  A veces no se tiene la posibilidad o el privilegio de elegir, quienes podemos, debemos hacerlo. 
- 
+Estas también son cuestiones que yo tomo en cuenta, ¿es un panel todo de hombres?, ¿el evento tiene un Código de Conducta?, ¿Es de acceso libre o bien tiene beneficios para personas menos favorecidas?.
+De nuevo, si uno puede exigir este tipo de cosas en los eventos que va a participar estaremos ayudando a generar ambientes más amigables y seguros.  A veces no se tiene la posibilidad o el privilegio de elegir, quienes podemos, debemos hacerlo.
+
  ## 5. ¿Qué perspectivas tenés de tus futuras charlas? ¿Qué te interesaría probar?
 
-Últimamente, me piden que haga charlas sobre tres temas: comunidades de práctica, ciencia y datos aplicados al agro (con casos), y ciencias y datos en geotecnología. Es complejo mantener el entusiasmo de contar siempre lo mismo porque, además, uno se siente medio impostor pensando en cuántas veces más va a dar la misma charla. El tema es que, a veces, te invitan porque la vieron y quieren replicarla en otro ámbito. 
+Últimamente, me piden que haga charlas sobre tres temas: comunidades de práctica, ciencia y datos aplicados al agro (con casos), y ciencias y datos en geotecnología. Es complejo mantener el entusiasmo de contar siempre lo mismo porque, además, uno se siente medio impostor pensando en cuántas veces más va a dar la misma charla. El tema es que, a veces, te invitan porque la vieron y quieren replicarla en otro ámbito.
 
-Lo que hago, en general, es ir actualizándolas cuando tengo nuevos resultados o casos de uso y, dependiendo de la audiencia que me dicen que va a haber, ejemplifico en detalle o explico con más detalle los conceptos que necesito que se conozcan para que se aproveche más la charla. 
+Lo que hago, en general, es ir actualizándolas cuando tengo nuevos resultados o casos de uso y, dependiendo de la audiencia que me dicen que va a haber, ejemplifico en detalle o explico con más detalle los conceptos que necesito que se conozcan para que se aproveche más la charla.
 
-Se puede observar que hay una gran necesidad de parte de la gente por volver a lo presencial. 
+Se puede observar que hay una gran necesidad de parte de la gente por volver a lo presencial.
 Yo espero que siga el tema virtual porque se me abrió un panorama de participación (como disertante y como asistente) que no tenía; me permitió llegar a lugares que hubiesen sido imposible si eran presenciales (Ecuador, Bolivia, EE. UU., África) ya que tengo dos hijos chiquitos y evito realizar viajes largos, por lo menos hasta que sean más grandes. Entonces, sin la virtualidad no hubiese podido llegar a tanta gente. Vamos a ver qué ocurre, qué nos depara el futuro. Yo pienso que este año y gran parte del año que viene, vamos a seguir igual, al menos en el sur.
 
-Con respecto a las herramientas para dar cursos y charlas, aplico mucho lo que enseñamos en MetaDocencia y funciona muy bien. 
+Con respecto a las herramientas para dar cursos y charlas, aplico mucho lo que enseñamos en MetaDocencia y funciona muy bien.
 Espero seguir aprendiendo; actualmente, estoy leyendo un par de libros que espero me ayuden: *Teaching in the Online Classroom* de Doug Lemov, *The Discussion Book* de Stephen Brookfield y *The Programmer’s Brain* de Felienne Hermans.
 
 *Esta entrevista fue desarrollada por Maria Nanton.*

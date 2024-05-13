@@ -12,13 +12,13 @@
 * {ref}`cl-remote-collab-guidelines` provides guidance on running remote meetings and has recommendations that can help shape an online or remote event held for people with lived experience
 * {ref}`cl-organising-meetings` contains checklists of tasks for organizing meetings which should be read in addition to the accessible meeting section of this chapter
 * {ref}`cl-hybrid-collab-challenges` outlines some of the challenges that come with organizing hybrid events which can impact the accessibility and engagement in planned events
-* {ref}`cl-chairing` covers the duties an event chair would have at a range of different events. This section will be useful guidance to provide chairs and moderators with at your event. 
-* {ref}`cl-new-community-differences` has suggestions for how to establish a strong and supportive collaborative environment which will help to frame the planning stages of your inclusive event  
+* {ref}`cl-chairing` covers the duties an event chair would have at a range of different events. This section will be useful guidance to provide chairs and moderators with at your event.
+* {ref}`cl-new-community-differences` has suggestions for how to establish a strong and supportive collaborative environment which will help to frame the planning stages of your inclusive event
 
 (cl-ppie-events-resources-other)=
-## Additional Resources 
+## Additional Resources
 
-These resources cannot (and should not) replace working with members of your specific community to plan and host events. 
+These resources cannot (and should not) replace working with members of your specific community to plan and host events.
 
 ### Resources on Public Involvement and Engaging people with lived experience in research and/or public policy
 * NHS Guide to Patient and Public Participation: [Involving Patients and Public in Event Planning and Delivery](https://www.england.nhs.uk/wp-content/uploads/2016/07/bitesize-guide-event-planning.pdf)
@@ -43,7 +43,7 @@ Involvement & Co‑Production](https://arc-em.nihr.ac.uk/sites/default/files/fie
 
 ### Community-Specific Accessibility Resources
 
-#### Deaf and Hard of Hearing 
+#### Deaf and Hard of Hearing
 * [Sign Solutions: How to plan a conference with event interpretation for Deaf people](https://www.signsolutions.uk.com/how-to-plan-a-conference-with-event-interpretation-for-deaf-people/)
 * [Royal National Institute for Deaf People: Make your meetings deaf aware](https://rnid.org.uk/information-and-support/deaf-awareness/make-your-meetings-deaf-aware/)
 * (UK only) [Action Deafness Interpreting: British Sign Language Interpreter Services](https://actiondeafness.org.uk/services/interpreting/)
@@ -104,6 +104,3 @@ Involvement & Co‑Production](https://arc-em.nihr.ac.uk/sites/default/files/fie
 ## Further Reading
 * [The 7 Principles of Universal Design](https://universaldesign.ie/about-universal-design/the-7-principles)
 * (Book) [The Art of Gathering: How We Meet and Why It Matters](https://www.priyaparker.com/book-art-of-gathering) by Priya Parker
-
-
-

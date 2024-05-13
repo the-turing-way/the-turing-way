@@ -12,16 +12,16 @@
 ## Topics/Rooms
 
 * Inclusive Events Chapter Discussions
-* 
-* 
-* 
-* 
+*
+*
+*
+*
 
- 
+
 ## Notes
 
-* 
-* 
-* 
-* 
-* 
+*
+*
+*
+*
+*

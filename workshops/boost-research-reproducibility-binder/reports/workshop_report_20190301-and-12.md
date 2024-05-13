@@ -39,5 +39,5 @@ Whilst the vast majority of feedback was positive there were a couple of areas p
 
 ## Impact
 
-16 out of 22 participants said that they would use Binder in some capacity in the future. 
+16 out of 22 participants said that they would use Binder in some capacity in the future.
 Most people intended to use Binder to share small snippets of code or for teaching purposes.

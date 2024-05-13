@@ -53,7 +53,7 @@ We welcome your comments and suggestions on this rubric for the selection proces
 
 ### Translating *The Turing Way* into additional languages
 
-[Ang Li](https://twitter.com/abc782544421) and Yini He have translated four initial chapters of *The Turing Way* in Chinese. 
+[Ang Li](https://twitter.com/abc782544421) and Yini He have translated four initial chapters of *The Turing Way* in Chinese.
 These researchers from China are spending a year in The Alan Turing Institute in the [Whitaker Lab](https://twitter.com/Whitaker_Lab) and are working on different topics in the neurobiology field while contributing to *The Turing Way* project.
 
 ![Tweet from Turing Way project and Kirstie Whitaker celebrating Tony, Ang & Yini's progress translating the book](/communications/newsletters/images/Tweet-Translation-Feb2020.png)
@@ -72,8 +72,8 @@ Join the discussion [on this GitHub issue](https://github.com/alan-turing-instit
 ### _The Turing Way_ on twitter
 
 We are finally on Twitter and have been thoroughly enjoying reading your tweets about us (previously tagged with [#TuringWay](https://twitter.com/hashtag/TuringWay?f=live)).
-Within hours of its launch 2 weeks ago, we gained over 100 followers and have managed to connect with 400 followers at the time of writing. 
-Please follow the account [turingway](https://twitter.com/turingway) for updates on the project and learn what our members are up to. 
+Within hours of its launch 2 weeks ago, we gained over 100 followers and have managed to connect with 400 followers at the time of writing.
+Please follow the account [turingway](https://twitter.com/turingway) for updates on the project and learn what our members are up to.
 
 ![Screenshot of Turing Way twitter bio with cartoon drawings and 395 followers](communications/newsletters/images/Twitterbio-TuringWay-Feb2020.png)
 

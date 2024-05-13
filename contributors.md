@@ -85,7 +85,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Alexandra Araujo Alvarez
 
-* Role: 
+* Role:
  * Project Delivery Team member, Research Project Manager (2023-Present)
  * Book Dash Organiser: 2023
 * Github id: [AlexandraAAJ](https://github.com/AlexandraAAJ)
@@ -96,10 +96,10 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > Alexandra was born and raised in Lima, Peru. She has an Economics Engineering degree with a master’s in marketing.
 > Her experience in Research Project Management started in 2021 at People’s Palace Projects, an art research centre connecting academics, artists and policymakers. There she covered the Mental Health and Wellbeing projects.
 > Prior to that, I lived in Peru where she was the CEO of Teatro La Plaza, one of Latin America’s leading theatre companies. There, she oversaw the production of over 100 theatre plays for adults and children, such as Mamma Mia!, Billy Elliot, The curious incident of the Dog in the Nighttime, and Hamlet (with a cast of actors with Down syndrome), among many others.
-> 
+>
 * Personal highlights:
 > Alexandra is a positive and curious person who enjoys learning and discovering new things.
-> Together with Malvika and Kirstie, in June 2023 they launched the inaugural cohort of [The Turing Way Practitioners Hub Experts in Residence](https://www.turing.ac.uk/turing-way-practitioners-hub. 
+> Together with Malvika and Kirstie, in June 2023 they launched the inaugural cohort of [The Turing Way Practitioners Hub Experts in Residence](https://www.turing.ac.uk/turing-way-practitioners-hub.
 
 ## Contributors information are listed alphabetically**
 
@@ -132,13 +132,13 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 * GitHub id: [@booktrackerGirl](https://github.com/booktrackerGirl)
 * ORCID: [0000-0002-1531-5510](https://orcid.org/my-orcid?orcid=0000-0002-1531-5510)
 
-* Short bio: 
+* Short bio:
 >I am a PhD researcher in Politics at the University of Exeter (Q-Step Centre), working on the dynamics of online misogyny. I enjoy working collaboratively on different projects, such as the Turing Way handbook.  My research interests include working on natural language processing, data science, political social science, gender politics, computational methods, and social data analysis. I love working in interdisciplinary fields and bringing out the best in all the fields involved.
 > My profile on the university website: https://eprofile.exeter.ac.uk/aditidutta/
 
 * Personal highlights:
 > * Meeting amazing people and connecting with them through the event! (This was my first Book Dash event. Can't wait to join many more in the future!)
-> * Creating a new chapter on 'Research Ethics for Social Data' and adding more information in different sections of the book. 
+> * Creating a new chapter on 'Research Ethics for Social Data' and adding more information in different sections of the book.
 > * Working with Scriberia artist to get a drawing of the 'Research Ethics for Social Data' chapter.
 > * I can now call myself (kind of) proficient in using GitHub(?) _(Just to let you know, there's no substantive evidence to support my claim, so it's just a self-reflection for now!)_
 
@@ -153,7 +153,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > I am a Senior Researcher in the Tools, Practices and Systems Programme and I am leading Research Applications at The Alan Turing Institute. My focus is making sure that research outputs are not just openly available but that they meet stakeholder needs. I am leading a growing team of Research Application Managers (RAMs) whose goal is to increase the reach and maximise the positive impact of research outputs. The role of a RAM has been inspired by that of a product manager in a tech firm but adapted for research purposes.
 
 * Personal highlights:
-> I get a lot of joy when I think about how far I have personally come in learning about and adopting open research practices over the past 1.5 years. The Turing Way community has been central to my education and general empowerment in this area.  
+> I get a lot of joy when I think about how far I have personally come in learning about and adopting open research practices over the past 1.5 years. The Turing Way community has been central to my education and general empowerment in this area.
 
 * More information:
 > I'm passionate about making research outputs relevant to a wide range of communities.
@@ -212,16 +212,16 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Andrea Chi Zhang
 
-* Role: Book Dash participant (2023) 
-* GitHub id: @andreaczhang 
+* Role: Book Dash participant (2023)
+* GitHub id: @andreaczhang
 * ORCID: 0000-0003-0501-5909
-* Short bio: 
-> I am a biostatistician with an interest in becoming an RSE (research software engineer). I teach statistics to medical researchers at the University of Oslo in Norway, and do some research on the side. 
+* Short bio:
+> I am a biostatistician with an interest in becoming an RSE (research software engineer). I teach statistics to medical researchers at the University of Oslo in Norway, and do some research on the side.
 
-* More information: 
-> This is my first time at a Book Dash event. I opened issues #3118 and #3107. 
+* More information:
+> This is my first time at a Book Dash event. I opened issues #3118 and #3107.
 
-* Personal highlights: 
+* Personal highlights:
 > This is a really interesting event! Since it was my first time, there was a lot to learn. But with the help of others, I managed to contribute a little and felt proud! Will definitely join again so that I can finish what I started.
 
 ### Andrea Sanchez Tapia
@@ -296,7 +296,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 * GitHub id: annefou
 * ORCID: 0000-0002-1784-2920
 
-* Short bio:  
+* Short bio:
 > Anne is a Research Software Engineer. She is working in the field of Climate Science
 > with the Earth System Modelling community.
 > She is also developing training materials and teaching basic-to-advanced research
@@ -346,12 +346,12 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 * Roles:
  * Google Summer of Code 2023 Intern
  * Book Dash participant (2023)
-* GitHub id:  @arya1302 
+* GitHub id:  @arya1302
 * Short bio:
->  I am a pre-final year undergraduate student pursuing Computer Science Engineering ( Artificial Intelligence) at Amrita University, India. I joined The Turing Way as a part of Google Summer of Code (GSoC) 2023. I have a strong interest in software development, with a passion for web development. I am skilled in Python and have experience working with React, Flask, and Django. 
+>  I am a pre-final year undergraduate student pursuing Computer Science Engineering ( Artificial Intelligence) at Amrita University, India. I joined The Turing Way as a part of Google Summer of Code (GSoC) 2023. I have a strong interest in software development, with a passion for web development. I am skilled in Python and have experience working with React, Flask, and Django.
 
 * Personal highlights:
->  As a first-time participant, I had an amazing experience. I learned more about the community and had the opportunity to interact with a few people. I worked on implementing a description feature for each pathway in The Turing Way website. Additionally, I collected user feedback in order to get more insights on what needs to be improved on the website. 
+>  As a first-time participant, I had an amazing experience. I learned more about the community and had the opportunity to interact with a few people. I worked on implementing a description feature for each pathway in The Turing Way website. Additionally, I collected user feedback in order to get more insights on what needs to be improved on the website.
 
 * More information:
 > https://github.com/alan-turing-institute/bio-Turing-Way/pull/42
@@ -488,10 +488,10 @@ I also hope that it can convince people who don't consider themselves capable of
 * GitHub id: [CeilidhWelsh](https://github.com/CeilidhWelsh)
 * ORCID: [0000-0002-7332-7392](https://orcid.org/my-orcid?orcid=0000-0002-7332-7392)
 * Short bio:
-> Ceilidh is a PhD student in the Department of Oncology at the University of Cambridge, funded by Cancer Research UK RadNet. She investigates predictive biomarkers for radiotherapy response in head-and-neck cancer. She was awarded the Alan Turing Institute Enrichment Scheme Award for 2022/2023, where she explored her interests in data ethics, data reproducibility and community-led data science projects. 
+> Ceilidh is a PhD student in the Department of Oncology at the University of Cambridge, funded by Cancer Research UK RadNet. She investigates predictive biomarkers for radiotherapy response in head-and-neck cancer. She was awarded the Alan Turing Institute Enrichment Scheme Award for 2022/2023, where she explored her interests in data ethics, data reproducibility and community-led data science projects.
 
 * Personal highlights:
-> Learning about _The Turing Way_ project and how community-led science can produce and sustain projects that bring people together. 
+> Learning about _The Turing Way_ project and how community-led science can produce and sustain projects that bring people together.
 > Co-authoring the [Data Hazards Chapter]{ref}`er-datahazards` with [Susana Roman Garcia](https://github.com/Susana465), [Natalie Zelenka](https://github.com/NatalieZelenka), Irma Hafidz and many more incredible people doing incredible things that helped us along the way!
 > Completing the Data Hazards Chapter, creating my first pull request *and* having it merged! All of this would not be possible without the support of Susana both during and outside the Book Dash(s).
 > Most of all starting to contribute to this wonderful project!
@@ -500,7 +500,7 @@ I also hope that it can convince people who don't consider themselves capable of
 ### Christopher Erdmann
 * Role:
 * Handbook Collaborator and Contributor, SciLifeLab Representative
-* Head of Open Science, SciLifeLab Data Centre 
+* Head of Open Science, SciLifeLab Data Centre
 * ORCID: 0000-0003-2554-180X
 * Short bio:
 > Christopher Erdmann is a community advocate, developer, and experimenter in the areas of Open Science and FAIR. Prior to joining the SciLifeLab Data Centre as the Head of Open Science, he was the Associate Director for Open Science at the Michael J. Fox Foundation where he drove open science strategies and workflows to support the Foundation’s policies. He has previously worked for organizations such as the American Geophysical Union, Renaissance Computing Institute at UNC, California Digital Library (The Carpentries), North Carolina State University, Harvard-Smithsonian Center for Astrophysics, European Southern Observatory, Supreme Court of the US, United Nations, University of Washington, Smithsonian, and CNET. Christopher holds an MLIS from the University of Washington iSchool and a BA from the University of California, Davis.
@@ -518,9 +518,9 @@ I also hope that it can convince people who don't consider themselves capable of
 * ORCID id: [0000-0002-0227-836X](https://orcid.org/0000-0002-4579-003X)
 * Fediverse profile: https://social.coop/@da5nsy
 * Website: https://www.dannygarside.co.uk/
-  
+
 * Short bio:
- > I am a neuroscientist and meta-scientist, and I split my time between researching colour vision and trying to make academia more accessible, more efficient, and happier. 
+ > I am a neuroscientist and meta-scientist, and I split my time between researching colour vision and trying to make academia more accessible, more efficient, and happier.
 
 * Personal highlights:
 > - Learning about the project and [meeting Kirstie](https://github.com/the-turing-way/the-turing-way/blob/ebbaf8f5f3a66da441beafc690a1b16a9c50d15b/communications/newsletters/newsletter_08_Nov2019.md#acknowledgements-and-celebrations) during a rough patch in my PhD — learning about the project brought me hope for the future!
@@ -628,29 +628,29 @@ Visit us at the [Open Research Calendar Website](https://openresearchcalendar.gi
 * GitHub id: [gigikenneth](https://github.com/gigikenneth)
 * ORCID: 0000-0002-8239-7608
 
-* Short bio:  
+* Short bio:
 > I am an AI Engineer passionate about AI ethics and building healthcare and social impact-focused products.
 
-* Personal highlights: 
+* Personal highlights:
 > I participated in the May 2023 Book Dash, where I collaborated with @MayaAndersonGonzalez on the Data Feminism chapter of the book. I had a wonderful experience, met amazing people, shared ideas and resources, and I intend to continue working on the chapter with Maya and anyone else who’d like to join us!
 
-* Quotes: 
+* Quotes:
 > Working on open projects like this helps put into perspective the importance of having diverse opinions and experiences represented in our tools, especially data & AI-driven ones. I really enjoyed collaborating on this and learned a lot!
 
 ### Goodnews Sandy
 
 * Role: Book Dash participant (2023)
-* GitHub id: @sandygudie 
+* GitHub id: @sandygudie
 
 * Short bio:
 > I am a Frontend developer  and technical writer with expertise in building web applications, i have a couple of articles on [medium](https://medium.com/@sandygoody) on various web technologies and activities. I enjoy contributing to Open Source.
 
-* More information: 
+* More information:
 > This is my first Bookdash event and I am excited for the contribution I made during this period. I collaborated with @SaranjeetKaur  to add content to the [hybrid collaboration](https://github.com/alan-turing-institute/the-turing-way/pull/2808) chapter.
 
 
 Personal highlights:
-The event was enlightening, I learned a lot about The Turing Way community. 
+The event was enlightening, I learned a lot about The Turing Way community.
 
 <!---H--->
 ## H
@@ -762,11 +762,11 @@ I would like to be a part of it.
 > I intend to keep working at the crossroads of Data Science and SciComm for the foreseeable future!
 
 - Role: Book Dash 2023 participant
-- GitHub id: [@irhafidz](https://github.com/irhafidz) 
+- GitHub id: [@irhafidz](https://github.com/irhafidz)
 - ORCID: [0000-0002-9148-712X](https://orcid.org/0000-0002-9148-712X)
 
 - Short bio:
-I am a PhD student from Loughborough University. Formerly, I am [a junior lecturer/ researcher](https://scholar.its.ac.id/en/persons/irmasari-hafidz) for about 8 years in Dept of Information Systems, Institut Teknologi Sepuluh Nopember, in Indonesia. 
+I am a PhD student from Loughborough University. Formerly, I am [a junior lecturer/ researcher](https://scholar.its.ac.id/en/persons/irmasari-hafidz) for about 8 years in Dept of Information Systems, Institut Teknologi Sepuluh Nopember, in Indonesia.
 
 - Personal highlights:
 This is my first Turing Way experience and I had so many learning experience how to create a community with very meaningful, structured way of working. Not only that, the creative writing session is incredibly inspiring and has improved my critical thinking and expression of ideas.
@@ -780,7 +780,7 @@ I helped a bit for the team of [Data Hazard](https://datahazards.com/), discusse
 * ORCID: [0000-0001-8173-3879](https://orcid.org/0000-0001-8173-3879)
 * Short bio:
 > Isabel is a PhD candidate at the University of Leeds working on dissecting the function and molecular evolution of long non-coding RNAs Supervised by Dr Julie Aspden, Dr Mary J O’Connell and Dr David Westhead.
-> She has been interested in molecular evolution and the applications of bioinformatic techniques throughout her degree and developed these interests while undertaking research projects in the Aspden and O’Connell labs.  
+> She has been interested in molecular evolution and the applications of bioinformatic techniques throughout her degree and developed these interests while undertaking research projects in the Aspden and O’Connell labs.
 > She also has experience in scientific research from a funder perspective, gained during her year in industry and numerous summer internships with Yorkshire Cancer Research.
 
 * Personal highlights:
@@ -915,7 +915,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 ### Kalle Westerling
 
-* Role: 
+* Role:
   * Book Dash Participant (2023)
 * GitHub id: [kallewesterling](http://github.com/kallewesterling)
 * ORCID: 0000-0002-2014-332X
@@ -926,7 +926,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 * Personal highlights:
 > I am excited to become more involved with The Turing Way community after the inspiring experience of this Book Dash.
-> During the event, I learned a tremendous amount about JupyterBook. Learning more around the syntax for referencing, adding images, and captions was particularly good for me :) 
+> During the event, I learned a tremendous amount about JupyterBook. Learning more around the syntax for referencing, adding images, and captions was particularly good for me :)
 > This experience has definitely empowered me to dive into other open-source projects, explore more hackathons, and engage in similar collaborative efforts across the open-source community.
 > I also learned more about how to manage the all-contributors bot... and when to give up and just re-start completely!
 > I reviewed more pull requests than ever before in such a short span — super fun!
@@ -1020,13 +1020,13 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 * ORCID: [0000-0002-3978-2543](https://orcid.org/0000-0002-3978-2543)
 
 * Short bio:
-> I'm a quantitative geneticist providing statistical analysis to working dog organizations, and the Director of Data Management and Open Science at the [ManyDogs Project](https://manydogsproject.github.io). 
-> I work on genetics and general statistical analysis for working dog programs and do most of my work in R. 
+> I'm a quantitative geneticist providing statistical analysis to working dog organizations, and the Director of Data Management and Open Science at the [ManyDogs Project](https://manydogsproject.github.io).
+> I work on genetics and general statistical analysis for working dog programs and do most of my work in R.
 > As a blind person I've become interested in R and open science, working to ensure inclusivity on many levels but particularly accessibility for scientists with disabilities.
 
 * Personal Highlights:
 > As a first-timer in 2022, it was a great chance to get a more intensive introduction to how the Turing Way Project works.
-> Terrific, collaborative discussions on how to make the book, the process 
+> Terrific, collaborative discussions on how to make the book, the process
 of making and maintaining the book, and open science in general, more inclusive. Also planning a Guide to Accessibility -- scoping out and outlining
 what it would cover.
 > In 2023, I've been working on accessibility with the TTW leadership, both for the book itself and for the ways we work together on the book. We discussed The Turing Way's accessibility policy and a new Guide for Access, and I began a chapter on writing effective alt text.
@@ -1067,8 +1067,8 @@ what it would cover.
 > I am a Data Wrangler based at The Alan Turing Institute.
 
 * Personal highlights:
-> It's been a wonderful experience contributing to The Turing Way while meeting inspiring people from diverse backgrounds along the way. 
-> I really enjoyed the opportunity to work closely with my colleague Rachael Stickland to reflect and encapsulate our image of a 'Data Wrangler' in our own [Data Wranglers Overview](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/data-wrangler.html) sub-chapter. 
+> It's been a wonderful experience contributing to The Turing Way while meeting inspiring people from diverse backgrounds along the way.
+> I really enjoyed the opportunity to work closely with my colleague Rachael Stickland to reflect and encapsulate our image of a 'Data Wrangler' in our own [Data Wranglers Overview](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/data-wrangler.html) sub-chapter.
 > These Book Dashes are a great way to encourage open collaboration, sharing ideas and working on helpful tools to make things such as open science and reproducibility more practical and friendlier for the wider community.
 
 ### Margaret Wanjiku
@@ -1108,7 +1108,7 @@ what it would cover.
 * Role: Book Dash Participant (2021)
 * GitHub id: [marianaiv](http://github.com/marianaiv)
 
-* Short bio:  
+* Short bio:
 > I'm an undergrad physics student at the Central University of Venezuela. Working on my thesis and trying to make it reproducible.
 
 * Personal highlights:
@@ -1278,7 +1278,7 @@ what it would cover.
 
 ### Philippe Rocca-Serra
 
-* Role: 
+* Role:
   * FAIR-Cookbook Representative
   * Book Dash Participant (2020)
 * GitHub id: [proccaserra](http://github.com/proccaserra)
@@ -1312,12 +1312,12 @@ what it would cover.
 
 * More information:
 > I take a particular interest in data provenance and reproducible computational analysis as components of wider reforms needed to the academic 'knowledge production' workflow and advocate for the increased use of literate programing tools, and linked data in the research publication workflow.
-> My primary research interest was the biology of aging and longevity but after experiencing working in conventional academic roles was very unsatisfied with the way science is practiced and think my time is more usefully spent in roles where I can advocate for process reforms. 
+> My primary research interest was the biology of aging and longevity but after experiencing working in conventional academic roles was very unsatisfied with the way science is practiced and think my time is more usefully spent in roles where I can advocate for process reforms.
 > I first learned to program in perl, but am now more proficient in R, I've been daily driving a Linux desktop for years now most recently NixOS.
 
 ### Richie Moluno
 
-* Role: 
+* Role:
   * Outreachy Intern 2022 (Open Science Saudi Arabia and The Turing Way Translation Infrastructure)
   * Book Dash 2023 Participant
 
@@ -1325,7 +1325,7 @@ what it would cover.
 * ORCID: TBA
 * Short bio:
 > I am a Software developer (Backend-heavy)
-> I have a BEng in Mechanical Engineering from the University of Benin, Nigeria. I was an Outreachy 22/23 intern for [Open Science Saudi Arabia](https://github.com/Open-Science-Community-Saudi-Arabia), I interned as a backend developer where I collaborated with @sandygudie to build the [Open innovation Lab](https://github.com/Open-Science-Community-Saudi-Arabia/MOOCs) MOOCs platform. 
+> I have a BEng in Mechanical Engineering from the University of Benin, Nigeria. I was an Outreachy 22/23 intern for [Open Science Saudi Arabia](https://github.com/Open-Science-Community-Saudi-Arabia), I interned as a backend developer where I collaborated with @sandygudie to build the [Open innovation Lab](https://github.com/Open-Science-Community-Saudi-Arabia/MOOCs) MOOCs platform.
 
 * Personal highlights:
 > The Turing Way isn't really my first experience with open source, but it has been a fantastic learning experience.
@@ -1399,7 +1399,7 @@ what it would cover.
 
 * Short bio:
 > Reshama Shaikh is the Executive Director of [Data Umbrella](https://www.dataumbrella.org). She is also on the Triage Team for [scikit-learn](https://github.com/scikit-learn/scikit-learn) and an organizer for [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
->Reshama is a statistician/data scientist with skills in Python, R and SAS. She earned her M.S. in statistics from Rutgers University.  She earned her M.B.A. from NYU Stern School of Business where she studied strategy, business analytics and technology management.  
+>Reshama is a statistician/data scientist with skills in Python, R and SAS. She earned her M.S. in statistics from Rutgers University.  She earned her M.B.A. from NYU Stern School of Business where she studied strategy, business analytics and technology management.
 
 * Personal highlights:
 > Reshama participated in The Turing Way Book Dash and collaborated to discuss plans and draft for a chapter on research impact in data science, with a case study from training events that she organises through Data Umbrella.
@@ -1428,7 +1428,7 @@ what it would cover.
 * ORCID: https://orcid.org/0000-0001-9502-0888
 
 * Short bio:
-> I am a molecular biologist with a big interest in Open Science and Reproducibility. I am a mentor for the Open Seeds  Mentoring and Training Programme (OLS) and do most of my research at King's College London. 
+> I am a molecular biologist with a big interest in Open Science and Reproducibility. I am a mentor for the Open Seeds  Mentoring and Training Programme (OLS) and do most of my research at King's College London.
 
 * Personal highlights:
 > I enjoyed contributing to The Turing Way for the first time. It was amazing to talk to the people and organise my brain for future projects. Also got to add a tiny contribution to the Leadership chapter
@@ -1486,10 +1486,10 @@ what it would cover.
 * GitHub id: @srtee
 * ORCID: [0000-0003-2701-005X](https://orcid.org/0000-0003-2701-005X)
 
-* Short bio: 
-> I am working as a postdoctoral researcher in Brisbane focused on molecular dynamics software and methodology. 
+* Short bio:
+> I am working as a postdoctoral researcher in Brisbane focused on molecular dynamics software and methodology.
 > As a research software engineer (RSE) I want academia and institutions to recognize the invaluable work we do and support us better!
-* Personal highlights: 
+* Personal highlights:
 > Upgrading the TTW chapter on RSEs, and getting to know a whole new group of wonderful people!
 
 ### Sophia Batchelor
@@ -1526,12 +1526,12 @@ what it would cover.
 
 * Personal highlights:
 > Writing and working together with many people to get the {ref}`er-datahazards` Chapter published.
-> Making a Pull Request for the Data Hazards chapter together with Ceilidh Welsh was defintely also a big highlight! 
+> Making a Pull Request for the Data Hazards chapter together with Ceilidh Welsh was defintely also a big highlight!
 
 
 ### Susanna-Assunta Sansone
 
-* Role: 
+* Role:
   * FAIR-Cookbook Representative
   * Book Dash Participant (2019)
 * GitHub id: [susannasansone](http://github.com/susannasansone)
@@ -1615,15 +1615,15 @@ what it would cover.
 
 * Short bio:
 >  I am the Head, of the Library and Documentation Centre at the Public Procurement and Disposal of Public Assets Authority  where I   oversee the provision of Library, Registry and other Knowledge Management Systems, ensuring that the information storage and retrieval needs of PPDA staff and stakeholders are met.
->I hold a master's degree in Information, a Postgraduate Diploma in Demography and Statistics and a bachelor's degree in Library and Information Science from Makerere University, Kampala-Uganda. 
+>I hold a master's degree in Information, a Postgraduate Diploma in Demography and Statistics and a bachelor's degree in Library and Information Science from Makerere University, Kampala-Uganda.
 >I am currently the Africa Regional Secretary of the International Association for Social Science Information Service and Technology (IASSIST) and a member of the carpentries community.
 
 **Personal highlights:**
 > It was  such a great opportunity to participate in the 2022 BookDash.
-> It was also a great, fantastic and exciting experience for me to further my understanding of GitHub, and  participate in and contribute my first chapter of data curation in the Research Data Management book. 
-> With more practice and contribution I will become proficient with GitHub and I hope to adopt it for my institution for collaborative purposes.  
+> It was also a great, fantastic and exciting experience for me to further my understanding of GitHub, and  participate in and contribute my first chapter of data curation in the Research Data Management book.
+> With more practice and contribution I will become proficient with GitHub and I hope to adopt it for my institution for collaborative purposes.
 > I enjoyed working with fellow participants and the amazing Turing Team to successfully have my first chapter.
-> The 2022 Book Dash was such a fantastic amazing experience and look forward to continue contributing.   
+> The 2022 Book Dash was such a fantastic amazing experience and look forward to continue contributing.
 
 * Quotes:
 > Being part of this year's Book Dash has not only made me appreciate using GitHub and how Turing Way is contributing to data science, but it has also provided me with the necessary skills to use GitHub, which I didn't have at all.
