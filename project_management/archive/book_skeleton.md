@@ -1,7 +1,7 @@
 # Book Skeleton
 The aim of this file is iterate/decide on:
 - [ ] A list of chapters
-- [ ] The scope of each chapter 
+- [ ] The scope of each chapter
 - [ ] The order of the chapters
 
 ## Update from January Sprint
@@ -76,7 +76,7 @@ The aim of this file is iterate/decide on:
 #### Definition of Reproducibility
 - How does reproducibility overlap with Open
 
-#### Reproducible as a team 
+#### Reproducible as a team
 - Roles in a reproducible project
 - Maintaining reproducibility as a group
 

@@ -2,7 +2,7 @@
 # Important Features of Leadership
 
 ```{note}
-"A leader is anyone who takes responsibility for finding the potential in people and processes and has the courage to develop that potential. 
+"A leader is anyone who takes responsibility for finding the potential in people and processes and has the courage to develop that potential.
 Leadership is not about titles or the corner office. It's about the willingness to step up, put yourself out there, and lean into courage.”
 
 -- Brene Brown, [Dare to Lead](https://brenebrown.com/hubs/dare-to-lead/)
@@ -36,11 +36,11 @@ Leaders don't come with fully formed strategies.
 Often open leaders don't identify or call themselves leaders and don't engage with projects with the intention to take on leadership roles.
 
 This is where the concept of emergent strategy can help open leaders to navigate their roles in the ever-evolving world of data science, research and open science communities.
-We have mentioned [Emergent Strategy](https://adriennemareebrown.net/book/emergent-strategy) by Adrienne Maree Brown at the beginning of this chapter and recommend this as a practical handbook on mobilising communities, activism for social change, and nurturing deeper kinder connections in our communities through open leadership. 
+We have mentioned [Emergent Strategy](https://adriennemareebrown.net/book/emergent-strategy) by Adrienne Maree Brown at the beginning of this chapter and recommend this as a practical handbook on mobilising communities, activism for social change, and nurturing deeper kinder connections in our communities through open leadership.
 
-Emergence is when new ideas emerge with time in a project or a community and as a result of bringing diverse members/perspectives into the team. 
+Emergence is when new ideas emerge with time in a project or a community and as a result of bringing diverse members/perspectives into the team.
 Emergent Strategy asks leaders to embrace the changes and evolve our planned strategy as leaders based on what seems sensible and needed to facilitate/guide/lead the team towards their shared goals.
-A [summary](https://fortelabs.co/blog/emergent-strategy-organizing-for-social-justice/) by Forbes Lab describes emergence as practical instead of theoretical. Brown’s definition of emergence comes from Nick Obolensky: “Emergence is the way complex systems and patterns arise out of a multiplicity of relatively simple interactions.” 
+A [summary](https://fortelabs.co/blog/emergent-strategy-organizing-for-social-justice/) by Forbes Lab describes emergence as practical instead of theoretical. Brown’s definition of emergence comes from Nick Obolensky: “Emergence is the way complex systems and patterns arise out of a multiplicity of relatively simple interactions.”
 
 ```{note}
 Here are Adrienne Maree Brown's core principles of emergent strategy:
@@ -67,7 +67,7 @@ It also means that the ideal environment and culture is established to enable di
 
 A clear structure (often described with an [organigram](https://pingboard.com/organogram)) about different stakeholders involved in the project and how they influence decision making helps everyone understand how they work with each other.
 Projects without structures can become a victim of what Jo Freeman describes as [the tyranny of structurelessness](https://www.jofreeman.com/joreen/tyranny.htm).
-This term describes the authoritarianism that can emerge in human groups due to the lack of structure and rules, with an implicit and opaque hierarchy developing. 
+This term describes the authoritarianism that can emerge in human groups due to the lack of structure and rules, with an implicit and opaque hierarchy developing.
 A way to fix structurelessness is by bringing governance, policies, or rules in writing accessible to everyone.
 
 Governance is the set of formal and informal practices through which an organisation sets goals, assigns responsibilities, establishes systems, and assesses outcomes of organisational action (find theoretical details in the [Handbook of Economic Organization by Grandori, A. (2013).](https://econpapers.repec.org/bookchap/elgeebook/14110.htm]).
@@ -79,9 +79,9 @@ The governance process should help identify and create accountability for:
 * Who makes decisions, and how?
 * Who gets to participate, and how?
 * Who is responsible to address risks/challenges, and how?
-* Who controls and protects the outcome, and how? 
+* Who controls and protects the outcome, and how?
 
-**References**: 
+**References**:
 1. Chartered Governance Institute, UK & Ireland, Discover Governance - [What is governance?](https://www.cgi.org.uk/professional-development/discover-governance/looking-to-start-a-career-in-governance/what-is-governance)
 2. Sharan, M., & Sánchez-Tapia, A. (2022). Community Governance: Representation & Intersectionality with examples from the Open Science Community. Zenodo. doi: [10.5281/zenodo.7038553](https://zenodo.org/record/7038553).
 ```

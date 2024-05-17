@@ -9,6 +9,6 @@ Say that you mistakenly commit a file containing sensitive data to your GitHub r
 Simply removing the file from the repository, or indeed deleting the entire repository, will not fix the problem, as...
 
 > "*commits may still be accessible in any clones or forks of your repository, directly via their SHA-1 hashes in cached views on GitHub, and through any pull requests that reference them*" [- GitHub Docs: Removing sensitive data from a repository](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
-> 
+>
 
-Luckily, there are ways to fix these types of mistakes. 
+Luckily, there are ways to fix these types of mistakes.

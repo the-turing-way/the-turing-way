@@ -6,12 +6,12 @@ Hello Turing Way friends!
 
 We hope you had a good start to the year 2022! ⭐️
 
-It has been lovely to see many of you at our Collaboration Cafés and Coworking Calls. 
+It has been lovely to see many of you at our Collaboration Cafés and Coworking Calls.
 We hope to connect with more of our community members in the coming weeks.
 Here are a few opportunities to engage with *The Turing Way* community:
 * 🔥 Attend the Fireside Chat on *Gaps and Opportunities for Inclusive Multilingual Data Science* - 11 February, 14:00 - 15:30 UTC ([register](https://www.eventbrite.co.uk/e/fireside-chat-gaps-opportunities-for-inclusive-multilingual-data-science-tickets-255972068347)).
 * 💼 Apply for the Community Manager positions at The Alan Turing Institute to work closely with *The Turing Way*.
-* 👋 Sign  up to attend a short workshop on Facilitating Inclusive Events online on 14 and 18 February. 
+* 👋 Sign  up to attend a short workshop on Facilitating Inclusive Events online on 14 and 18 February.
 
 Read on for details, updates on new chapters and other news from the project! 👇
 
@@ -25,15 +25,15 @@ _Thanks to Achintya Rao for reviewing an earlier draft of this newsletter! 🌻_
 
 *The Fireside Chat series features experts, champions and their projects from across different international communities in reproducibility, open research, ethics, collaboration and everything in between.*
 
-On 11 February 2022, 14:00 - 15:30 UTC ([in your timezone](https://arewemeetingyet.com/london/2022-02-11/14:00/ttw-fireside-chat)), the next fireside chat will take place on the topic: **Gaps & Opportunities for Inclusive, Multilingual Data Science**. 
-Chaired by Anelda van der Walt and Malvika Sharan, this panel will feature insights from **Batool Almarzouq, Bobby Shabangu, Camila Rangel-Smith, David Pérez-Suárez, Langa Khumalo and Yanina Bellini Saibene**. 
-These researchers represent different communities with expertise and insights from working in multilingual research and data science projects. 
+On 11 February 2022, 14:00 - 15:30 UTC ([in your timezone](https://arewemeetingyet.com/london/2022-02-11/14:00/ttw-fireside-chat)), the next fireside chat will take place on the topic: **Gaps & Opportunities for Inclusive, Multilingual Data Science**.
+Chaired by Anelda van der Walt and Malvika Sharan, this panel will feature insights from **Batool Almarzouq, Bobby Shabangu, Camila Rangel-Smith, David Pérez-Suárez, Langa Khumalo and Yanina Bellini Saibene**.
+These researchers represent different communities with expertise and insights from working in multilingual research and data science projects.
 We will also facilitate open discussions with attendees to learn about their perspectives on the topic via a shared document.
 Read more details and register via [the Eventbrite page](https://www.eventbrite.co.uk/e/fireside-chat-gaps-opportunities-for-inclusive-multilingual-data-science-tickets-255972068347).
 
 ### Collaboration Cafés
 
-We had a chance to catch up with several of you at the *The Turing Way* Collaboration Cafés in the last weeks. 
+We had a chance to catch up with several of you at the *The Turing Way* Collaboration Cafés in the last weeks.
 Taking place **every month on the first and third Wednesday from 15:00 to 17:00 UTC** ([see in your timezone](https://arewemeetingyet.com/london/2022-02-16/15:00/)), Collaboration Cafés are collaborative spaces for you to connect with *The Turing Way* team, share your ideas and exchange feedback.
 These are also opportunities for us to onboard new members and share what we are working on.
 Save the dates for the next calls on 16 February and 2 March.
@@ -85,11 +85,11 @@ Read more responses in [issue #1659](https://github.com/alan-turing-institute/th
 
 ## Acknowledgements and celebrations
 
-### Contributor in focus: Carlos Martinez-Ortiz 
+### Contributor in focus: Carlos Martinez-Ortiz
 
 Carlos Martinez is a 'Community Manager - Natural Sciences & Engineering' at the Netherlands eScience Center.
-He has worked as an engineer in diverse projects in digital humanities and life sciences, developing expertise in natural language processing, linked open data and software sustainability. 
-Carlos obtained his PhD in Computer Science at the University of Exeter and worked on various research projects at the University of Exeter and Plymouth University before moving to the Netherlands. 
+He has worked as an engineer in diverse projects in digital humanities and life sciences, developing expertise in natural language processing, linked open data and software sustainability.
+Carlos obtained his PhD in Computer Science at the University of Exeter and worked on various research projects at the University of Exeter and Plymouth University before moving to the Netherlands.
 He is a certified Software Carpentry instructor and is frequently involved in organising training events.
 
 As a member of *The Turing Way* core team, he supports researchers from eScience Center in sharing internally developed resources and recommended practices for the [Netherlands eScience Center guide](https://guide.esciencecenter.nl/#/) to *The Turing Way*.
@@ -97,9 +97,9 @@ As a member of *The Turing Way* core team, he supports researchers from eScience
 ![Carlos Martinez's headshot](images/2022-01-carlos-4.png)
 
 In his words:
-> We always advocate for software reuse and collaborative development of software. 
+> We always advocate for software reuse and collaborative development of software.
 > I love that we can do the same for software development guidelines: reuse content from the eScience guide and collaboratively develop with *The Turing Way* community!
-> I am a big advocate of improving software quality. 
+> I am a big advocate of improving software quality.
 > I am really glad that the eScience Center is collaborating with *The Turing Way* in providing guidelines and helping build better research software.
 
 Thanks to Carlos’ work at the organisation level.
@@ -121,7 +121,7 @@ We are using this example to **encourage documentation of internal practises** f
 
 ### Open Science Conference: 08-10 March
 
-The ninth international [Open Science Conference (OSC)](https://www.open-science-conference.eu/) will take place from 08 to 10 March 2022. 
+The ninth international [Open Science Conference (OSC)](https://www.open-science-conference.eu/) will take place from 08 to 10 March 2022.
 The OSC 2022 is dedicated to the Open Science movement and provides a forum for researchers, librarians, practitioners, infrastructure providers, policymakers, and other important stakeholders to discuss the latest and future developments in Open Science.
 The conference offers insights into both practical and technical innovations, discussions about the relation between Open Science and knowledge equity and opportunities for networking and exchange.
 This year’s conference is cooperating with the German Commission for UNESCO.
@@ -131,8 +131,8 @@ Register to [attend the conference](https://www.open-science-conference.eu/regis
 ### Collaboration Workshop 2022: Register and Submit abstract!
 
 [Collaborations Workshop 2022 (CW22)](https://software.ac.uk/cw22) will take place online from Monday 4 April to Thursday 7 April 2022.
-The Software Sustainability Institute’s Collaborations Workshop series brings together researchers, developers, innovators, managers, funders, publishers, policy-makers, leaders and educators to explore best practices and the future of research software. 
-The themes of the CW22 keynote presentations, discussion groups, mini-workshops, collaborative ideas and hack day will be around the following areas of research software: Code Review, Ethics, Hybrid Working and Software Sustainability. 
+The Software Sustainability Institute’s Collaborations Workshop series brings together researchers, developers, innovators, managers, funders, publishers, policy-makers, leaders and educators to explore best practices and the future of research software.
+The themes of the CW22 keynote presentations, discussion groups, mini-workshops, collaborative ideas and hack day will be around the following areas of research software: Code Review, Ethics, Hybrid Working and Software Sustainability.
 To find out more information including registration, agenda, call for submissions (deadline is 4 February) and how to sponsor the unconference, please visit the CW22 website: [https://software.ac.uk/cw22](https://software.ac.uk/cw22).
 
 ### Software Sustainability Institute 2022 Fellows Announced!
@@ -140,8 +140,8 @@ To find out more information including registration, agenda, call for submission
 ![The Software Sustainability Institute 2022 Fellows Banner with their picture](images/2022-01-ssi-5.png)
 
 22 new Software Sustainability Institute Fellows have joined the fellows' network in 2022.
-In addition, for the first time, four International Fellows were selected under the International Fellowship pilot! 
-Two of these fellows are **Sophia Batchelor and Bastian Greshake Tzovaras** who are *The Turing Way* contributors and researchers collaborating on the [AutSPACEs](https://github.com/alan-turing-institute/AutSPACEs) and [Open Humans](https://www.openhumans.org/) project. 
+In addition, for the first time, four International Fellows were selected under the International Fellowship pilot!
+Two of these fellows are **Sophia Batchelor and Bastian Greshake Tzovaras** who are *The Turing Way* contributors and researchers collaborating on the [AutSPACEs](https://github.com/alan-turing-institute/AutSPACEs) and [Open Humans](https://www.openhumans.org/) project.
 Congrats to all the fellows! Read [more about them](https://www.software.ac.uk/news/announcing-2022-software-sustainability-institute-fellows).
 
 ### Open Life Science Received Funding for 2022-2023
@@ -150,7 +150,7 @@ The [Open Life Science (OLS)](https://openlifesci.org) training and mentoring pr
 These fundings will enable research and sustainability of the program for the next two years.
 Specifically, the Wellcome Trust Open Research Fund will enable the OLS team to conduct a research-based assessment, decolonisation and dissemination of our resources for their adoption and reuse across different open science communities.
 CZI grant will provide OLS with a truly valuable opportunity to improve sustainability for the organisation and community by enabling a funded position that will focus on planning for the longer term.
-Congratulations to the OLS team! 
+Congratulations to the OLS team!
 Read details in [OLS' blogposts](https://openlifesci.org/posts).
 
 ### Next Building Laterally Event on 23 February

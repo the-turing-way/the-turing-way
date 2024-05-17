@@ -1,14 +1,14 @@
 # Turing Way - sharing lessons learned in doing reproducible research
 
-Reproducible research is work that can be independently verified. 
+Reproducible research is work that can be independently verified.
 In practice, it means sharing the data and code that were used to generate published results - yet this is often easier said than done.
 
-The Turing Way is a guide to reproducible data science that will support students and academics as they develop their code, with the aim of helping them produce work that will be regarded as gold-standard examples of trustworthy and reusable research. 
-It is openly developed and any and all questions, comments and recommendations are welcome at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way 
+The Turing Way is a guide to reproducible data science that will support students and academics as they develop their code, with the aim of helping them produce work that will be regarded as gold-standard examples of trustworthy and reusable research.
+It is openly developed and any and all questions, comments and recommendations are welcome at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way
 
-We would like to hear your experience in making your research reproducible and things you have learned that you think others should know! 
+We would like to hear your experience in making your research reproducible and things you have learned that you think others should know!
 
-Filling this form should take no longer than 5 - 10 minutes depending on the amount of detail you provide.  
+Filling this form should take no longer than 5 - 10 minutes depending on the amount of detail you provide.
 
 These testimonies of tips and tricks will be published in the Turing Way handbook so please only include information that you are comfortable for others to read or anonymize where appropriate.
 We may make minor revisions to your submission for style or clarity.
@@ -62,7 +62,7 @@ We will not share it with anyone else.
 
 > Free text answer
 
-**Thank you so much for your contribution!**  
+**Thank you so much for your contribution!**
 
 The Turing Way project team
 

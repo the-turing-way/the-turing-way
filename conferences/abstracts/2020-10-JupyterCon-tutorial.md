@@ -14,33 +14,33 @@ Malvika Sharan, Martina G. Vilas, Sarah Gibson, Chris Holdgraf
 
 ## Title: Creating a Jupyter Book with The Turing Way
 
-Audience level 
+Audience level
 - Novice
 
-Target Audience: 
+Target Audience:
 Please provide details of the level of programming and other topic-specific experience this tutorial is aiming for. Who is this tutorial the most beneficial for?
-- Anyone with prior knowledge of using GitHub for project repositories. Basic experience working with Markdown files and Jupyter notebook will be a plus. 
+- Anyone with prior knowledge of using GitHub for project repositories. Basic experience working with Markdown files and Jupyter notebook will be a plus.
 
-Summary: 
+Summary:
 A short paragraph, a maximum of 400 characters. If your proposal is accepted, this will be in the public program.
-Tutorial format 
+Tutorial format
 - Jupyter Book is an open source project for building publication-ready books with computational files. The Turing Way is a community-led book project on learning computational skills, which is hosted online as a Jupyter Book. In this tutorial, you will learn about the collaborative nature of both the projects and create your own book using files and chapters from The Turing Way as examples.
 
 Please describe what portion of the tutorial will be spent on the video presentation, hands-on exercises, and self-assessment or knowledge checks (if any). This does not have to be laid minute-by-minute but gives an overall idea of how the 3 hours will be distributed.
 
 **Proposed Agenda:**
-- 5 minutes: Introduction to the workshop 
+- 5 minutes: Introduction to the workshop
 - 10 minutes: Icebreakers for the participants to get to know each other (breakout)
 - 30 minutes: Introduction to The Turing Way and Jupyter Book projects
 - 15 minutes: Demo of The Turing Way GitHub repository and its Jupyter Book
 - 80 minutes: Hands-on session on creating a Jupyter Book on GitHub that will include the following:
     - teaching how to deploy the Jupyter Book using continuous integration tests of GitHub actions
     - working with the collaborative workflow on GitHub repository to edit a chapter or propose edits on Jupyter Book
-    - using Sphinx features in Jupyter Book (for cross-referencing, citation, etc.) 
+    - using Sphinx features in Jupyter Book (for cross-referencing, citation, etc.)
 - 20 minutes: Troubleshooting and demos in small groups (breakout)
 - 20 minutes: Open Q&A, Wrap-up and shared reflection on the workshop
 
-Outline: 
+Outline:
 Your outline should list the topics and activities you will guide your students through during your 3-hour tutorial.
 - The workshop will start by introducing the importance of reproducibility in research.
 - The session leads will then present The Turing Way as a community-developed book project that teaches best practices in data science for research reproducibility, project design, communication, collaboration and ethics.

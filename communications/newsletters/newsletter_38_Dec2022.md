@@ -14,7 +14,7 @@ We thank you for being an important part of this community, sharing your valuabl
 
 We look forward to welcoming you back in 2023! 🌺
 
---- 
+---
 
 # Community News and Updates
 
@@ -24,7 +24,7 @@ _Illustration by Scriberia showing community as a garden and members as gardener
 ## Ecosystem Leadership Award to Establish a Practitioners Hub
 
 *The Turing Way* was granted the Ecosystem Leadership Award under the EPSRC Grant EP/X03870X/1 and The Alan Turing Institute to build ***The Turing Way* Practitioners Hub**.
-This funding will enable our plans for advancing *The Turing Way*'s impact and expertise in embedding best practices into organisations across the broader data science and AI. 
+This funding will enable our plans for advancing *The Turing Way*'s impact and expertise in embedding best practices into organisations across the broader data science and AI.
 This will be an active effort to build a bi-directional channel between *The Turing Way* and organisations that benefit from and contribute to the project.
 This funding support a Research Project Manager and a Postdoctoral Research Associate, ensuring long-term sustainability strengthened through the Practitioners Hub.
 
@@ -35,7 +35,7 @@ This funding support a Research Project Manager and a Postdoctoral Research Asso
 We are so excited to share that *The Turing Way* won an **OpenUK award under the category of Belonging**.
 The project was nominated by Malvika Sharan on behalf of the community to recognise the 3+ years of accumulated work in the project, thoughtfully facilitated by our community members.
 Although *The Turing Way* book is written around best practices for open, reproducible and ethical data science, the 'process' of community engagement, respectful co-creation and relentless advocacy have always centred on EDIA (Equity, Diversity, Inclusion and Accessibility) principles.
-This award is a recognition of those values embedded in the community-led work of *The Turing Way*! 
+This award is a recognition of those values embedded in the community-led work of *The Turing Way*!
 We thank you to creating a deep sense of belonging for everyone you have helped, supported and recognised in *The Turing Way* and the broader Open Science ecosystem.
 
 ![Alt: A designed flier for the OpenUK Award Winners 2022. There is a dark and star-filled background image, and two labels: "Category - Belonging" and "Sponsored by: Avanade". In the middle *The Turing Way* logo is depicted by a long road](images/2022-12-openuk-2.jpg)
@@ -44,7 +44,7 @@ We thank you to creating a deep sense of belonging for everyone you have helped,
 
 ### Congratulations SSI Fellows 2023
 
-Massive congratulations to 18 individuals who were awarded the SSI fellowship for the year 2023! 
+Massive congratulations to 18 individuals who were awarded the SSI fellowship for the year 2023!
 Special Shout out to UK Fellows: **Georgia Aitkenhead and Aman Goel**; international fellows: **Saranjeet Kaur and Stephen Klusza** and the first cohort of OLS-SSI fellows (hosted by Open Life Science - OLS): **Andrea Sanchez Tapia, Raina Camacho Toro and Melissa Black** -- all of who have worked with us in *The Turing Way*.
 Andrea will lead the work of *The Turing Way* localisation team, while closely collaborating with Melissa, who will lead the 'EspañOLS' localisation work in OLS.
 
@@ -54,7 +54,7 @@ Andrea will lead the work of *The Turing Way* localisation team, while closely c
 
 *The Turing Way* core (organising) team is constituted of the volunteer community champions and Turing's staff members from the Tools, Practices and Systems (TPS) programme.
 We are delighted to have recently welcomed volunteer members: **Danny Garside, Jim Madge and Brigitta Sipöcz** joining our existing member Sarah Gibson as Infrastructure Co-Leads.
-We also welcome the TPS staff members: **Bastian Greshake Tzovaras** (TPS Senior Researcher) and **David Sarmiento Pérez** (TPS Research Project Manager) who will bring expertise from their work to the project. 
+We also welcome the TPS staff members: **Bastian Greshake Tzovaras** (TPS Senior Researcher) and **David Sarmiento Pérez** (TPS Research Project Manager) who will bring expertise from their work to the project.
 Thanks to all core team members for maintaining and nurturing *The Turing Way* project and community as a part of the Core team!
 
 *Read details in our [Ways of Working document](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md).*
@@ -74,16 +74,16 @@ We thank **Laura Ación, Chelle Gentemann and Chris Erdmann** for their contribu
 
 The third core team meeting was held on 7 December 2022.
 Hosted by the Community Manager, Anne Lee Steele, members of the core organising team came together to share updates with each other.
-As a part of the project's governance, representatives of **infrastructure maintenance, writers & reviewers, Mentors & Trainers and Translation & Localisation working groups** shared updates from their areas of work. 
-During the trial phase, the members of different working groups are addressing issues crucial to the sustainability of the project while formalising their ways of working and identifying what ongoing support could look like for them. 
+As a part of the project's governance, representatives of **infrastructure maintenance, writers & reviewers, Mentors & Trainers and Translation & Localisation working groups** shared updates from their areas of work.
+During the trial phase, the members of different working groups are addressing issues crucial to the sustainability of the project while formalising their ways of working and identifying what ongoing support could look like for them.
 Each working group currently operates independently of other groups, while reporting their progress during the coworking calls on Monday.
-Thanks to the working group representatives for sharing updates from their groups during the Community Share Outs on 18 November. 
+Thanks to the working group representatives for sharing updates from their groups during the Community Share Outs on 18 November.
 
 *Documentation (in progress) is shared in this [GitHub Discussion](https://github.com/alanim-turing-institute/the-turing-way/discussions/2646).*
 
 ---
 
-## Updates from Book Dash November 2022 
+## Updates from Book Dash November 2022
 
 ![Alt: Screenshot of zoom with people waving at the camera. Attendees are (in the order - left to right, top to bottom) from session 1: Rachael joining from London with a virtual background that says "that could be a chapter in *The Turing Way*", Malvika joining from India, with Turing Way logo as her background, Hari joining from London - with a background illustration of people collaborating, Winny joining from Uganda, she is wearing a green blazer and blue curtain background, Saranjeet joining from India, she is wearing a red Hoodie, with a white wall background, Alden and Mahwish joining from The Alan Turing Institute office in London, Mahwish is wearing a black sweater and Alden is wearing a grey sweater, Esther joining from the Netherlands - she is waving with both hands, Giulia Tomba is joining from somewhere in the UK, she is wearing a beige sweater, Batool joining somewhere from the UK - she is wearing a brown hijab. Patricia has a blurred background, she is wearing a grey sweater and a pair of black framed glasses, A black square with Mahwish Mohammad's name - her camera was off as she was joining from the Alan Turing Institute with the meeting room's camera with Alden. Jafsia has a still photograph as his profile picture. He is wearing a purple shirt and has a curtain in his background. From session 2: Kirstie joins from somewhere in London, with baby Mackenzie. She is wearing a black sweater with a turquoise blue necklace made up of round stones. Anne Steele is waving, joining from London, with Turing Way pathways as her background. Emma Karoune is joining from Southampton, UK. She is wearing a black hijab and over-ear headphones, with a grey sweater. Her background is an illustration of the data management process. Anne Fouilloux is calling from France, wearing a striped black and white jacket with a red scarf, as well as glasses. Alejandro is calling from Colombia, with Turing Way's remote work image behind him. Danny is calling from Washington DC, USA, and wearing a blue shirt and glasses with a dark frame. Aditi is calling from the UK, wearing a red shirt and glasses with a clear frame. Aman is calling from India, wearing glasses with a dark frame, with a checkered shirt. Andrea is calling from California, USA, wearing a bright green scarf and black sweater, with navy over-ear headphones, dark-rimmed glasses, the LGBTQ + Progress flag behind her, as well as two paintings. Melissa Black is joining from Brazil, with over-ear headphones, a black and white tank top, and wearing dark-rimmed glasses. Liz is joining from New York, USA, wearing a brown sweater, wearing earbud headphones. There is a small painting in the background and blinds next to her. Esther is joining from the Netherlands but is not visible on the screen. Her background is white with blue illustrated buildings. A white cat is sitting on a black keyboard, with a hand (presumably Esther’s) between them](images/2022-12-bookdash-3.jpg)
 
@@ -110,7 +110,7 @@ The new version of the book including these chapters has been released online th
 ### Help us plan Fireside Chats for 2023
 
 After successfully concluding the first iteration of the Fireside Chat Series, we are looking forward to designing them for 2023.
-We don't want to do it alone. 
+We don't want to do it alone.
 We need your feedback based on your experience participating in the 2021-2022 series.
 Please take 5 minutes to share your suggestion on speakers, format, tools and topics that you would like to see in the next series.
 
@@ -124,7 +124,7 @@ Here are some of the events you can attend/co-host in 2023:
 * **Collaboration Cafés** for all community members: first and third Wednesdays of the month - from 15:00 to 17:00 UK time, starting on 18 January.
 * **Office hours** - open to all members, especially a good place to learn about the project and our community: every Friday from 13:00 to 15:00 UK time, starting on 13 January.
 
-*In addition, you can expect several **training workshops, Fireside Chats, conference talks, Annual Book Dash events in May and November, and other ad-hoc events** co-organised by the project team with the community members. 
+*In addition, you can expect several **training workshops, Fireside Chats, conference talks, Annual Book Dash events in May and November, and other ad-hoc events** co-organised by the project team with the community members.
 Bookmark this document for your reference: [bit.ly/turingway](https://hackmd.io/@turingway/demo-intro).*
 
 ### Previous Talks, Panels and Articles
@@ -153,26 +153,26 @@ _Illustration by Scriberia showing community as a garden and members as gardener
 
 ## Senior Positions Announced to Work in Digital Twins
 
-[Turing’s Research and Innovation Cluster in Digital Twins](https://www.turing.ac.uk/research/harnessing-power-digital-twins/turing-research-and-innovation-cluster-digital-twins/) has received more than £26 million to democratise access to digital twins technology through open and reproducible practices. 
-We are hiring 1 [Senior Community Manager (Senior CM)](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/community-manager.html) and 2 [Research Application Managers (RAM)](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/ram.html) to lead on community engagement and accelerate the adoption of open and reproducible digital twin technology. 
+[Turing’s Research and Innovation Cluster in Digital Twins](https://www.turing.ac.uk/research/harnessing-power-digital-twins/turing-research-and-innovation-cluster-digital-twins/) has received more than £26 million to democratise access to digital twins technology through open and reproducible practices.
+We are hiring 1 [Senior Community Manager (Senior CM)](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/community-manager.html) and 2 [Research Application Managers (RAM)](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/ram.html) to lead on community engagement and accelerate the adoption of open and reproducible digital twin technology.
 These postholders will join the CM and RAM teams respectively, and align their work with *The Turing Way*.
 The salary for each position starts at £49,000.
 * Apply for the Senior CM position by 15 January 2023: [details on the job portal](https://cezanneondemand.intervieweb.it/turing/jobs/senior-community-manager-turing-research-and-innovation-cluster-in-digital-twins-tricdt-29222/en/).
-* Apply for the RAM position by 29 January 2023: [details on the job portal](https://cezanneondemand.intervieweb.it/turing/jobs/research-application-manager-turing-research-and-innovation-cluster-in-digital-twins-29131/en/?295314357). 
+* Apply for the RAM position by 29 January 2023: [details on the job portal](https://cezanneondemand.intervieweb.it/turing/jobs/research-application-manager-turing-research-and-innovation-cluster-in-digital-twins-29131/en/?295314357).
 
 *See other job opportunities to [work at The Alan Turing Institute](https://www.turing.ac.uk/opportunities-turing/jobs)*
 
 ## Skills Policy Awards 2023/2024
 
-The Alan Turing Institute is offering up to four awards (£41,000 - £65000) to individuals/teams to gain hands-on experience in policy formation and undertake a research project to address data skills challenges. 
-Awardees will be paired with mentors, supported to develop their connections among national skills stakeholders, and supported to co-produce policy outputs and briefings. 
+The Alan Turing Institute is offering up to four awards (£41,000 - £65000) to individuals/teams to gain hands-on experience in policy formation and undertake a research project to address data skills challenges.
+Awardees will be paired with mentors, supported to develop their connections among national skills stakeholders, and supported to co-produce policy outputs and briefings.
 Applicants should be part of a UK university or research institute and should plan for the project delivery between February 2023 and March 2024.
 
 *The application deadline is 13 January 2023 -- find more details on [the call announcement page](https://www.turing.ac.uk/skills-policy-awards-20232024).*
 
 ### Apply to Become a Mentor
 
-The Skills Team is now accepting applications for up to four Mentors to guide and support recipients of the Skills Policy Awards (SPA) 2023/24 (above). 
+The Skills Team is now accepting applications for up to four Mentors to guide and support recipients of the Skills Policy Awards (SPA) 2023/24 (above).
 Funding of up to £15,000 is available for experienced data science education and policy professionals to aid awardees in delivering a project and policy output benefitting the UK’s data skills policy landscape.
 
 *Read details in the [call for mentors](https://www.turing.ac.uk/call-skills-policy-award-mentors-20232024) and apply before 10 January 2023.*
@@ -185,7 +185,7 @@ You can register for their graduation calls (with a “viewer” ticket) via the
 
 ### Apply to Join OLS-7!
 
-Meanwhile, the call for Open Life Science Cohort 7 is now live! 
+Meanwhile, the call for Open Life Science Cohort 7 is now live!
 Please submit your [application via OpenReview](https://openreview.net/group?id=openlifesci.org/Open_Life_Science/2023/Cohort_7) before the end of the day on January 15, 2023.
 The deadline for registering for OpenReview is January 10, as all OpenReview accounts are approved manually.
 To learn about the timeline, process and details for the OLS-7, visit [https://openlifesci.org/](https://openlifesci.org/).
@@ -207,7 +207,7 @@ Email [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
     * ⏰ Apply by 2 January 2023
     * 📍Location: Remote, with a supervisor based in New York
     * 🔗 [Read Details](https://investinopen.org/jobs/#researchlead)
-* Job: Netherlands eScience Center: Workshops and Training Coordinator 
+* Job: Netherlands eScience Center: Workshops and Training Coordinator
     * ⏰ Apply by 29 January 2023
     * 📍Location: Netherlands
     * 🔗 [Read Details](https://www.esciencecenter.nl/careers/workshops-and-training-coordinator/)
@@ -262,7 +262,7 @@ As we complete the fourth year of *The Turing Way*, we review the year 2022 mont
 * **January**: We began the year by **formally establishing support and maintenance roles** of the Turing's Tools, Practices and Systems staff members in *The Turing Way* as the project's core team. See the [Ways of Working](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) document.
 * **February**: The first Fireside Chat of 2022 was co-hosted with the Talarify co-founder Anelda Van der Walt on the topic [Gaps and Opportunities for Inclusive Multilingual Data Science](https://www.youtube.com/watch?v=Ydogg2tQljA&list=PLBxcQEfGu3DmBcSmt9GVfo4wN1KP1y2yl&index=3), which among many global initiatives highlighted the hard and important **work led by *The Turing Way* Localisation and Translation team**.
 * **March**: We **welcomed Anne Lee Steele** as our new community manager. We collaborated with **Open Post Academics** to host a Fireside Chat on Emergent Roles in Research Infrastructure and Technology as well as invited review and feedback on two training materials developed on *The Turing Way*. Details in [March's newsletter](https://tinyletter.com/TuringWay/letters/introducing-the-next-fireside-chat-book-dash-collaborative-projects-and-our-community-manager).
-* **April**: We were **featured in the UK's Goldacre Review**, co-hosted another Fireside Chat with **MetaDocencia** on inclusive conferencing, formally included Translation & Localisation leads to the core team and ran workshops at AI-UK and Collaborations Workshop 2022. Details in [April's newsletter](https://tinyletter.com/TuringWay/letters/new-chapters-sign-up-for-book-dash-the-upcoming-fireside-chat-and-many-other-community-updates). 
+* **April**: We were **featured in the UK's Goldacre Review**, co-hosted another Fireside Chat with **MetaDocencia** on inclusive conferencing, formally included Translation & Localisation leads to the core team and ran workshops at AI-UK and Collaborations Workshop 2022. Details in [April's newsletter](https://tinyletter.com/TuringWay/letters/new-chapters-sign-up-for-book-dash-the-upcoming-fireside-chat-and-many-other-community-updates).
 * **May**: We hosted the **7th Book Dash**, and piloted local hubs in Amsterdam, Bristol and London; [joined Mastodon](https://fosstodon.org/@turingway); got featured in articles by JISC [profiling our project](https://www.jisc.ac.uk/membership/stories/the-turing-way-forward) and HiddenRef for getting ['Highly Commended' under the 'Practices' category](https://www.emeraldgrouppublishing.com/news-and-press-releases/progress-science-depends-a-team).
 * **June**: We hosted the **first formal Core Team meeting**; co-hosted a Fireside Chat sharing different perspectives from working in alignment with *The Turing Way*; released new chapters and celebrated an Outreachy member mentored by Batool Almarzouq in Open Science Saudi Arabia to work on *The Turing Way* Localisation infrastructure. Details in [June's newsletter](https://tinyletter.com/TuringWay/letters/join-our-june-fireside-chat-catch-up-on-community-share-outs-and-other-updates-from-the-turing-way-community).
 * **July**: We submitted a community-sourced response to [UNESCO's Global Call on Open Science](https://zenodo.org/record/6841867) and co-hosted a Fireside chat on [Navigating growth and scale to sustain open communities](https://www.youtube.com/watch?v=p0t_K5FNalU&list=PLBxcQEfGu3DmBcSmt9GVfo4wN1KP1y2yl&index=7) with The Carpentries.

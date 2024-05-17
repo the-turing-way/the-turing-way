@@ -30,7 +30,7 @@ Fundamentally this is an open project so everyone is encouraged to get involved!
 
 ## Case Studies of Reproducible Research in Practice
 
-We’re working with several [researchers](https://github.com/alan-turing-institute/ReproducibleResearchResources#announcement-turing-reproducible-research-champions) from the Alan Turing Institute (the Turing reproducible research champions) to reproduce their work, share their experiences and provide case studies of reproducible research in practice. We’re interested in why reproducibility is important to them, how they went about trying to work in a reproducible way, and crucially what advice they would give to their previous selves.   
+We’re working with several [researchers](https://github.com/alan-turing-institute/ReproducibleResearchResources#announcement-turing-reproducible-research-champions) from the Alan Turing Institute (the Turing reproducible research champions) to reproduce their work, share their experiences and provide case studies of reproducible research in practice. We’re interested in why reproducibility is important to them, how they went about trying to work in a reproducible way, and crucially what advice they would give to their previous selves.
 
 Once complete, these case studies will be will be interwoven throughout the textbook to demonstrate how theory translates to practice. They will allow readers to follow along with the work of the Turing reproducible research champions as we collaborated with them to overcome challenges including reproducible analysis when using HPC resources, managing and packaging fast-growing projects and sharing workflows built for sensitive data.
 
@@ -60,7 +60,7 @@ This workshop is geared towards Research Software Engineers and IT staff who are
 
 
 ## See you soon
-
+
 Working on this project had been fascinating, and it's been a great excuse to set aside time to learn more about a whole host of topics. It’s also given me the opportunity to work with a lot of fantastic [people](https://github.com/alan-turing-institute/the-turing-way/blob/main/humans.md). I hope to see you in the future on [GitHub](https://github.com/alan-turing-institute/the-turing-way) if you have the time to contribute to the project, or even just saying hello in our [gitter chat room](https://gitter.im/alan-turing-institute/the-turing-way).
 
 

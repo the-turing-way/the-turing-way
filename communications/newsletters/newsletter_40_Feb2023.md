@@ -3,13 +3,13 @@
 
 As the year continues, The Turing Way community is bringing back our regularly scheduled programming... and a whole lot more!
 
-* 📚💨 Our **9th bi-annual Book Dash** will be taking place in May 2023. Host a local hub, attend virtually, applications are open for [participants](https://forms.gle/LL5SN3RdGXVEzNbi7) and [hubs](https://forms.gle/T3ZY5sXrkmjaydMf7)! 
+* 📚💨 Our **9th bi-annual Book Dash** will be taking place in May 2023. Host a local hub, attend virtually, applications are open for [participants](https://forms.gle/LL5SN3RdGXVEzNbi7) and [hubs](https://forms.gle/T3ZY5sXrkmjaydMf7)!
 * 👋 **Check out our [new welcome page here](https://the-turing-way.start.page/)**, and share the link with your networks!
 * 🔥 Save the date for our upcoming Fireside Chat called **"Reflect, unlearn, reframe: Community care in times of digital burnout"** on 31 March, 14:00 UTC+1 ([in your timezone](https://arewemeetingyet.com/London/2023-03-31/14:00))! ([sign up on Eventbrite](https://www.eventbrite.ie/e/reflect-unlearn-reframe-community-care-in-times-of-digital-burnout-tickets-567859923317))
 * ✍️ Apply to *The Turing Way* **Senior Research Fellow position** ([here](https://cezanneondemand.intervieweb.it/turing/jobs/senior-research-associate-tools-practices-and-systems-tps-30743/en/)) by 12 March.
 * 📢 Join us at Mozilla Fest, Open Data Day(s), & AI-UK!
 
-As usual, you can find more updates and opportunities in the 'Community News' and 'Opportunities in _The Turing Way_ orbit' sections below. 
+As usual, you can find more updates and opportunities in the 'Community News' and 'Opportunities in _The Turing Way_ orbit' sections below.
 To keep up to date with community events, you can also subscribe to our [shared calendar here](https://calendar.google.com/calendar/u/0/r?cid=theturingway@gmail.com). 📅
 
 If you're interested in keeping up in real-time, don't forget that you can always join our [Slack workspace](https://tinyurl.com/jointuringwayslack), follow the project on [Twitter](https://twitter.com/turingway), or join us on [Fosstodon](https://fosstodon.org/@turingway).
@@ -35,7 +35,7 @@ Visa sponsorship to work in the UK is possible.
 
 ![Alt: Hand-drawn image by scriberia is on the right of the digital poster: three people are sitting around a fire whose flames form the words “The Fireside Chat”. They are holding speech bubbles on sticks in lieu of marshmallows. The talk is titled: “Reflect, Unlearn, Reframe: Community Care in times of digital burnout” with subtitle “31 March, 14-15:30 UTC – Register on Eventbrite”. There are black and white photos of 5 people who are co-organising and speaking at the Fireside chat: Agnes Kiragga, (Technical lead of the African Population Health Research Council), Chris Hartgerink (CEO & Founder of Liberate Science), Mayya Sundukova (Resident Fellow, Open Life Science), Patricia Herterich (Resident Fellow, Open Life Science), Eirini Zormpa (Community Manager, AIM-RSF & The Turing Way). Below: Hosted by with The Turing Way and Open Life Science.](https://i.imgur.com/mmP1Vav.png)
 
-Our Fireside Chat series is resuming this year! 
+Our Fireside Chat series is resuming this year!
 The first event of this month will be taking pleace on **31 March, 14:00-15:30 UTC+1** ([see in your time zone](https://arewemeetingyet.com/London/2023-03-31/14:00)) on the topic **Reflect, Unlearn, Reframe: Community care in times of digital burnout**.
 
 Facilitated by Patricia Herterich (Open Life Science) and Eirini Zormpa (The Alan Turing Institute), this panel will feature insights from Mayya Sundukova (Open Life Science), Chris Hartgerink (Liberate Science) and one more Agnes Kiragga (African Population Health Research Council).
@@ -51,10 +51,10 @@ Save the Date! **Our First Book Dash of 2023 will be taking place on 22-26 May 2
 ### Host a Local Hub
 
 *The Turing Way* invites you to submit your interest for organising an in-person event during the next Book Dash in May 2023.
-The deadline for submission is **20 March 2023**. 
+The deadline for submission is **20 March 2023**.
 **Local hub form: https://forms.gle/T3ZY5sXrkmjaydMf7**
 
-Please let us know if you are interested in hosting a local event in your organisation/city during the Book Dash week. 
+Please let us know if you are interested in hosting a local event in your organisation/city during the Book Dash week.
 Upon review, applicants will receive more information from *The Turing Way* team, who will guide local hosts in their organisational work on a case-by-case basis.
 
 ### Attend Book Dash
@@ -66,7 +66,7 @@ The deadline for local hub submission is **3 April 2023**.
 If you have previously interacted with the project or our community, and have always wanted to make more time to collaborate with us on your ideas, send us your application.
 Previous Book Dash attendees are also invited to express their interest to join us back as contributors, mentors for new participants and/or as a Book Dash Planning Committee member.
 
-*You can use [the template document](https://tinyurl.com/tw-bookdash-template) to prepare your draft. Learn more about the [Book Dash and the application process](https://the-turing-way.netlify.app/community-handbook/bookdash.html).* 
+*You can use [the template document](https://tinyurl.com/tw-bookdash-template) to prepare your draft. Learn more about the [Book Dash and the application process](https://the-turing-way.netlify.app/community-handbook/bookdash.html).*
 
 ### Open Book Dash Q&A at Collab Cafe
 
@@ -74,7 +74,7 @@ Join us at our next Collaboration Cafe, where we'll be hosting an open Q&A about
 
 ## Upcoming events
 
-📅 Check out our [new events calendar](https://docs.google.com/spreadsheets/d/1C-VZvmFL4PnSBsv_G9ZD3dwjIYLno3NyL7oHvbplnWs/edit#gid=577525947) to learn more about what is happening in the community. 
+📅 Check out our [new events calendar](https://docs.google.com/spreadsheets/d/1C-VZvmFL4PnSBsv_G9ZD3dwjIYLno3NyL7oHvbplnWs/edit#gid=577525947) to learn more about what is happening in the community.
 ![Uploading file..._ymuwonepx]()
 
 ✨ If you are attending an event and would like to meet folks from across the community, please include that in this [pad](https://pad.sfconservancy.org/p/ttw-event-calendar-2023).
@@ -83,7 +83,7 @@ Join us at our next Collaboration Cafe, where we'll be hosting an open Q&A about
 
 ![Alt: Gradient image with orange, pink, and purple. Features AIUK logo that has a lightbulb above the "i", as well as the subtitle "AI UK 2023: The UK's national showcase of data science and artificial intelligence"](https://i.imgur.com/2qhWQ10.jpg)
 
-[AI-UK](https://ai-uk.turing.ac.uk/) is the UK's national showcase of data science and artificial intelligence (AI). 
+[AI-UK](https://ai-uk.turing.ac.uk/) is the UK's national showcase of data science and artificial intelligence (AI).
 Hosted by The Alan Turing Institute, AI UK 2023 will be an in-depth exploration of how data science and AI can be used to solve real-world challenges.
 If you are attending this event, do get in touch with *The Turing Way* team who are delivering talks, panel and exhibitions at the conference ([email Anne](mailto:asteele@turing.ac.uk)).
 
@@ -107,7 +107,7 @@ Join Jen and Yacine, supported by Anne in a talk and workshop about the  worksho
 * **Collaboration Cafe**: The next calls are on 15 March and 15 March, 14:00-16:00 UTC ([see in your time zone](https://arewemeetingyet.com/London/2022-12-07/15:00)).
 Feel free to drop in to meet the community, do some focused writing, or otherwise -- [see this HackMD for more information](https://hackmd.io/@turingway/collaboration-cafe).
 * **Translation and Localisation Weekly Meetings**: every Tuesday at 16:00 UTC ([in your time zone](https://arewemeetingyet.com/London/2022-11-01/17:00)).  -- [see this HackMD for more information](https://hackmd.io/j5EMbS6YTQOXPsh1RdxhXw).
-These calls are for co-working on translation and localisation efforts across several languages, and for learning more about the work of the team. 
+These calls are for co-working on translation and localisation efforts across several languages, and for learning more about the work of the team.
 * **Community Chats**: Last Friday of every month, usually 16:00-17:00 UTC (but dependent on speaker and organiser availability). We alternate between Fireside Chats in a panel format and informal conversations. [Follow us on Eventbrite](https://www.eventbrite.co.uk/o/the-turing-way-18600928389#events) to be alerted about upcoming events.
 
 ## Try out our new welcome page!
@@ -140,8 +140,8 @@ There are plenty of ways of getting involved in *The Turing Way* project: see be
 
 **Beginner-friendly** ⭐
 
-- Anything tagged [good first issue](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) or good-first-PR is a good place to start. 
-- Join the Reviewers & Editors group in [curating stale issues](https://github.com/alan-turing-institute/the-turing-way/issues/2936) for projects, chapter ideas, and other work that are beginner-friendly for the community. 
+- Anything tagged [good first issue](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) or good-first-PR is a good place to start.
+- Join the Reviewers & Editors group in [curating stale issues](https://github.com/alan-turing-institute/the-turing-way/issues/2936) for projects, chapter ideas, and other work that are beginner-friendly for the community.
 - Fix the hyperlinks in the [CONTRIBUTING.md guide for inclusivity](https://github.com/alan-turing-institute/the-turing-way/issues/2981)
 
 **Chapter ideas** 💡
@@ -169,11 +169,11 @@ There are plenty of ways of getting involved in *The Turing Way* project: see be
 _It's been a busy few months of talks by and with community leaders. As always, you can find an ongoing record in our [Zenodo Community](https://zenodo.org/communities/the-turing-way/) page._
 
 # Talks and Workshops
-- **Malvika Sharan** gave a keynote about "Buildling an equitable world with open source" at ITT at XPECTO'23 hosted by IIT-Mandi on 3 March: [Zenodo link](https://zenodo.org/record/7692516) 
+- **Malvika Sharan** gave a keynote about "Buildling an equitable world with open source" at ITT at XPECTO'23 hosted by IIT-Mandi on 3 March: [Zenodo link](https://zenodo.org/record/7692516)
 - **Emma Karoune** and **Anne Lee Steele** gave a workshop on "FAIR Principles and Open Research" for the Centres for Doctoral Training at University of Cambridge on 15 February: [Zenodo link](https://zenodo.org/record/7684733)
 - **Kirstie Whitaker** gave a keynote about "Revolutionising Team Science with Research Infrastructure Roles" at the RSE in Data & AI Workshop hosted by Warwick University and The Alan Turing Institute on 18 February: [Zenodo link](https://zenodo.org/record/7647784)
 - **Malvika Sharan** gave a talk about "Investing in Research Infrastructure roles" at State of Open Con on 8 February: [Zenodo link](https://zenodo.org/record/7620215)
-- **Emma Karoune**, **Malvika Sharan**, and **Anne Lee Steele** ran a booth at State of Open Con on 7 & 8 February. 
+- **Emma Karoune**, **Malvika Sharan**, and **Anne Lee Steele** ran a booth at State of Open Con on 7 & 8 February.
 - **Susana Roman Garcia** and **Anne Lee Steele** gave a workshop about reproducibility in research on 8 February: [Zenodo link](https://zenodo.org/record/7704563#.ZAdfCLTP2CM)
 - **Anne Lee Steele** gave a talk about "The Turing Way and reproducibility" at FOSDEM on 4 February: [Zenodo link](https://zenodo.org/record/7605128)
 
@@ -193,10 +193,10 @@ _It's been a busy few months of talks by and with community leaders. As always, 
 
 # In *The Turing Way* Orbit
 
-## Superbloom: Survey for Usable Software Ecosystem Research 
+## Superbloom: Survey for Usable Software Ecosystem Research
 
-Funded by the Sloan Foundation, our friends at Superbloom (formerly Simply Secure) are researching how scientific open source software teams understand, consider, and undertake usability and design initiatives in their projects. 
-They are seeking responses to a brief survey, in order to get a broad range of insights and opinions from the open source scientific software ecosystem. 
+Funded by the Sloan Foundation, our friends at Superbloom (formerly Simply Secure) are researching how scientific open source software teams understand, consider, and undertake usability and design initiatives in their projects.
+They are seeking responses to a brief survey, in order to get a broad range of insights and opinions from the open source scientific software ecosystem.
 The project is titled “Usable Software Ecosystem Research” or “USER” for short. They are investigating:
 - How norms in academic, science, and/or open source working environments affect the choices teams make around their users and different kinds of design interventions
 - How team dynamics and trust affects those choices

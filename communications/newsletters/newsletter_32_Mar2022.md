@@ -23,7 +23,7 @@ We are delighted to welcome [Anne Lee Steele](http://twitter.com/aleesteele) as 
 ![Anne Lee Steele's headshot](images/2022-03-aleesteele-01.png)
 
 > I’m truly excited to join _The Turing Way_ community and to support such an important project in open science and the broader free/open ecosystem. Most relevant for the community, I’m an anthropologist by training… So in the coming weeks and months, I’ll be playing the role of an ethnographer, getting to know you all and _The Turing Way_, listening in, and learning how I can support you and your contributions to the project, whatever that may look like. I’ll be the first to admit that I’ll probably make mistakes along the way, but I’m excited to join you on this new chapter of _The Turing Way_ together.
-> 
+>
 > I’ll be reaching out to people individually, but you will also see me in the slack channels, GitHub Pull Requests or Twitter. Please don’t hesitate to say hello! I’ve opened my calendar for (digital) coffee calls: [Book a chat with me](https://calendly.com/aleesteele/) or connnect [@aleesteele](http://twitter.com/aleesteele). There’s a lot I have to learn from you all, and I’m looking forward to getting to know you.
 
 * * *
@@ -34,11 +34,11 @@ We are delighted to welcome [Anne Lee Steele](http://twitter.com/aleesteele) as 
 
 ![Fireside chat's Flyer](images/2022-03-fireside-02.png)
 
-On 25 March 2022, 17:00 - 18:30 UTC ([in your timezone](https://arewemeetingyet.com/london/2022-03-25/17:00)), the next Fireside Chat's title is "Emergent Roles in Research Infrastructure & Technology". 
+On 25 March 2022, 17:00 - 18:30 UTC ([in your timezone](https://arewemeetingyet.com/london/2022-03-25/17:00)), the next Fireside Chat's title is "Emergent Roles in Research Infrastructure & Technology".
 Chaired by Beth Duckles and Arielle Bennett, this panel will feature insights from Noor Shaker, Esther Plomp and Borhane (Bo) Blili-Hamelin. [Register on Eventbrite](https://www.eventbrite.co.uk/e/fireside-chat-emergent-roles-in-research-infrastructure-technology-tickets-294499364527).
 
 These individuals represent diverse positions in the research infrastructure and tech industry as community leaders, entrepreneurs, researchers and multi-talented professionals.
-Drawing from their experiences, they will discuss what the career landscape currently looks like from their perspectives, why recognition for unconventional roles matters to them, and how we can work towards a culture that provides better opportunities for individuals who take the non-traditional academic route. 
+Drawing from their experiences, they will discuss what the career landscape currently looks like from their perspectives, why recognition for unconventional roles matters to them, and how we can work towards a culture that provides better opportunities for individuals who take the non-traditional academic route.
 We will also facilitate open discussions with attendees to learn about their perspectives on the topic via a shared document.
 
 * * *
@@ -47,31 +47,31 @@ We will also facilitate open discussions with attendees to learn about their per
 
 The 7th Book Dash event is taking place online from **16 to 20 May 2022**. Submit your application via [this Google form](https://forms.gle/uEbu1FJMmdfgGwvW6). The Deadline for submission is 21 April 2022.
 
-We invite applications from members of our community, including both new and existing contributors. 
+We invite applications from members of our community, including both new and existing contributors.
 Our attendees bring some understanding of where they can contribute and collaboratively improve _The Turing Way_ as a whole. If participating in _The Turing Way_ community for the first time, we encourage you to first participate in a Collaboration Café or other community events (see: [bit.ly/turingway](http://bit.ly/turingway)).
-This application will likely take 30 minutes to complete. 
+This application will likely take 30 minutes to complete.
 You can use this template document with all the questions to prepare your draft in your time: [https://tinyurl.com/tw-bookdash-template](https://tinyurl.com/tw-bookdash-template).
 
 ![Malvika's tweet inviting application to this Book Dash.](images/2022-03-bookdash-03.png)
 
 _[Tweet by Malvika](https://twitter.com/MalvikaSharan/status/1505906141921951745?s=20&t=xHT7RiowG8hRJytNqMpPjQ) sharing report from [the 6th Book Dash in 2022](https://hackmd.io/@turingway/bookdash-nov2021)_
 
-Previous Book Dash attendees are welcome to send their application to participate again in the Book Dash. 
-They are particularly encouraged to indicate their interest to join the **Book Dash Review and Planning Committee**. 
-ook Dash committee members are facilitators and mentors who support other attendees’ contributions in one or multiple of the contribution sessions based on their interest and availability. 
-We are also looking to support **small scale local meetups** if multiple members from the same city are participating. 
+Previous Book Dash attendees are welcome to send their application to participate again in the Book Dash.
+They are particularly encouraged to indicate their interest to join the **Book Dash Review and Planning Committee**.
+ook Dash committee members are facilitators and mentors who support other attendees’ contributions in one or multiple of the contribution sessions based on their interest and availability.
+We are also looking to support **small scale local meetups** if multiple members from the same city are participating.
 In the application form, please indicate your interest if you would like to attend or host if a local meet-up in your city will be possible.
 
 * * *
 
 ### Collaboration Cafés: First and Third Wednesdays
 
-The next Collaboration Café will be hosted by Arielle Bennett on 6 April 2022. Please find details and sign up here: [hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe). 
+The next Collaboration Café will be hosted by Arielle Bennett on 6 April 2022. Please find details and sign up here: [hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
 You can also sign up to host one of the future Collaboration Cafés on 20 April, 4 May and 18 May 2022.
 
 #### Weekly Coworking Calls
 
-Can’t make it to a Collaboration Café? Join every Monday for a coworking call with the core team from 11:00 to 12:00 London time (if your time zone permits). 
+Can’t make it to a Collaboration Café? Join every Monday for a coworking call with the core team from 11:00 to 12:00 London time (if your time zone permits).
 See details and agenda in this HackMD: [hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call).
 
 _Have more ways to connect and work with The Turing Way? [Get in touch](https://github.com/alan-turing-institute/the-turing-way/#get-in-touch)._
@@ -84,18 +84,18 @@ _Have more ways to connect and work with The Turing Way? [Get in touch](https://
 
 _Lydia France, Federico Nanni and Malvika are developing training materials for data science for biomedical researchers on GitHub (see an [early Tweet inviting case studies and examples](https://twitter.com/turingway/status/1491849730996981770?s=20&t=RENtZhQDQ2WWCclDxxhjlA))_
 
-On 28 and 29 April 2022 (1.5 days), we are organising a review and illustration sprint for the [Introduction to Data Science for Biomedical Scientists: Turing-Crick Partnership](https://github.com/alan-turing-institute/data-training-for-bioscience). 
+On 28 and 29 April 2022 (1.5 days), we are organising a review and illustration sprint for the [Introduction to Data Science for Biomedical Scientists: Turing-Crick Partnership](https://github.com/alan-turing-institute/data-training-for-bioscience).
 Please express your interest to attend this event before **21 April 2022** via [this Google form](https://forms.gle/fXPZ9yPzMkqMxrdQ8).
 
-This project has led to the development of **two training modules** on data science and AI practices for senior researchers, group leaders, late PhD/Postdocs, and mid to late-career biomedical scientists. 
-Therefore, we encourage anyone with overlapping experience in biomedical research and computational best practices with some project management skills to join us at this event. 
-Participants can choose to attend from **five 2-hour long sessions for collaborative review** of these training materials. 
+This project has led to the development of **two training modules** on data science and AI practices for senior researchers, group leaders, late PhD/Postdocs, and mid to late-career biomedical scientists.
+Therefore, we encourage anyone with overlapping experience in biomedical research and computational best practices with some project management skills to join us at this event.
+Participants can choose to attend from **five 2-hour long sessions for collaborative review** of these training materials.
 We will also work with a professional scribe from [Scriberia](https://www.scriberia.com/) to help develop accessible illustrations during the event.
 
 #### Pre-Event Webinar
 
-We will host a webinar on 11 April at 17:00 (London Time) to present the project and answer any questions our applicants may have. 
-Register in advance for this meeting: [https://turing-uk.zoom.us/meeting/register/tJUrduGsqz0qEty19kV8JdA7e29AWkOgCYrM](https://turing-uk.zoom.us/meeting/register/tJUrduGsqz0qEty19kV8JdA7e29AWkOgCYrM). 
+We will host a webinar on 11 April at 17:00 (London Time) to present the project and answer any questions our applicants may have.
+Register in advance for this meeting: [https://turing-uk.zoom.us/meeting/register/tJUrduGsqz0qEty19kV8JdA7e29AWkOgCYrM](https://turing-uk.zoom.us/meeting/register/tJUrduGsqz0qEty19kV8JdA7e29AWkOgCYrM).
 After registering, you will receive a confirmation email containing information about joining the meeting.
 
 * * *
@@ -104,16 +104,16 @@ After registering, you will receive a confirmation email containing information 
 
 ### _The Turing Way_ is Inviting GSoC 2022 Candidates
 
-We are inviting interested [Google Season of Code (GSoC)](https://summerofcode.withgoogle.com/) candidates (student developers and coders) to connect with _The Turing Way_ community and learn about our project. 
-Specifically, we are interested in improving and integrating a Python package developed for _The Turing Way_ to enhance the usability of our book. 
-We have described our project ideas with details on the [GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues/2266) and [Neurostars](https://neurostars.org/t/gsoc-2022-project-idea-3-1-the-turing-way-a-how-to-guide-to-data-science-175-350-h/21380). 
+We are inviting interested [Google Season of Code (GSoC)](https://summerofcode.withgoogle.com/) candidates (student developers and coders) to connect with _The Turing Way_ community and learn about our project.
+Specifically, we are interested in improving and integrating a Python package developed for _The Turing Way_ to enhance the usability of our book.
+We have described our project ideas with details on the [GitHub issue](https://github.com/alan-turing-institute/the-turing-way/issues/2266) and [Neurostars](https://neurostars.org/t/gsoc-2022-project-idea-3-1-the-turing-way-a-how-to-guide-to-data-science-175-350-h/21380).
 If you have a different project idea, please reach out to the project team via Slack or GitHub.
 
 * * *
 
 ### Job Opportunities at The Alan Turing Institute
 
-The [Tools, Practices and Systems (TPS)](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) programme at The Alan Turing Institute represents a cross-cutting set of initiatives that seek to build open source infrastructure that is accessible to all and empower a global, decentralised network of people who connect data with domain experts. 
+The [Tools, Practices and Systems (TPS)](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) programme at The Alan Turing Institute represents a cross-cutting set of initiatives that seek to build open source infrastructure that is accessible to all and empower a global, decentralised network of people who connect data with domain experts.
 _The Turing Way_ is a flagship project hosted by TPS to learn, exchange and adopt best practices in data science and research with the Turing and beyond.
 
 ![Kirstie's Tweet announcing TPS jobs.](images/2022-03-tpsjobs-05.png)
@@ -133,9 +133,9 @@ These roles are maternity covers for Kirstie Whitaker, TPS Programme Director an
 
 #### TPS Research Project Manager
 
-A Research Project Manager will coordinate and support work across the TPS programme, playing a central role in assisting with the overall delivery process. 
-This position will also be working closely with _The Turing Way_ core team members. 
-The Project Manager will be supported to share their expertise in project design and collaborative skills by creating new content, reviewing existing chapters, or promoting the project to new audiences. 
+A Research Project Manager will coordinate and support work across the TPS programme, playing a central role in assisting with the overall delivery process.
+This position will also be working closely with _The Turing Way_ core team members.
+The Project Manager will be supported to share their expertise in project design and collaborative skills by creating new content, reviewing existing chapters, or promoting the project to new audiences.
 See this [Twitter thread by Arielle Bennett](https://twitter.com/biotechchat/status/1500810442217857024?s=20&t=ZhCl7r3zrp8d1NstXaNFHA) for details and [apply online](https://cezanneondemand.intervieweb.it/turing/jobs/research_project_manager_tools_practices_and_systems_21254/en/).
 
 * * *

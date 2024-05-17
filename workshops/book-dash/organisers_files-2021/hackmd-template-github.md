@@ -28,9 +28,9 @@ we will give you an optional 1 hour GitHub tutorial:
 ## Sign up below by adding your name
 
 Name / Institute or affiliation / What specific aspect of GitHub do you find challenging?
-* 
-* 
-* 
+*
+*
+*
 
 🗣️ Welcome!
 
@@ -43,7 +43,7 @@ Name / Institute or affiliation / What specific aspect of GitHub do you find cha
 - Slides: [Friendly GitHub Intro](https://docs.google.com/presentation/d/e/2PACX-1vR-Qu4kYulSMGnnAHH9-OonNiLkaJrsolEecEkt0VD5_3PmKWePmiSQwxK3QHoq5gNsL-MJKowmgsAx/pub?start=false&loop=false&delayms=3000)
 - Cheatsheet: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-**References**: 
+**References**:
 - [Mozilla Science Lab's Study Group Orientation](https://mozillascience.github.io/study-group-orientation/) and [Friendly GitHub Intro by Kirstie Whitaker](https://github.com/KirstieJane/friendly-github-intro)
 - Visual description: [https://learngitbranching.js.org/](https://learngitbranching.js.org/) (great resource for learning Git!)
 
@@ -61,9 +61,9 @@ Name / Institute or affiliation / What specific aspect of GitHub do you find cha
   - [Writing on Github](https://help.github.com/categories/writing-on-github/)
   - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [Git workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
- 
+
 **Questions / Comments?**
-  - 
+  -
   -
 
 **Feedback**

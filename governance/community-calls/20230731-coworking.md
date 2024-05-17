@@ -13,7 +13,7 @@
 
 * Quiet room: Gabin, Bastian, Sarah
 * Governance discussion:
-  * https://github.com/alan-turing-institute/the-turing-way/issues/3232#issuecomment-1658142330 
+  * https://github.com/alan-turing-institute/the-turing-way/issues/3232#issuecomment-1658142330
 
 
 ## Notes

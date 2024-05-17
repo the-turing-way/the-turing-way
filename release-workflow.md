@@ -15,7 +15,7 @@ To learn more about that, please read the details in [the GitHub documentation](
   - Step 2: Run the following command: `cffconvert --validate`
   - Step 3: Once validated, create `.zenodo.json` file using the following command: `cffconvert --format zenodo > .zenodo.json`
   - Step 4: Create the pull request with the change -> review and merge it in the repository
-  
+
 Please note that we have currently left out individual names from the CITATION file, however, this is open for discussion if we will add all the authors manually or have some other automated ways to do that.
 
 ## Drafting release on GitHub

@@ -23,7 +23,7 @@ Please add something you liked about the Book Dash. We might use these to advert
 * The variety of contributions is amazing - I loved learning from so many different perspectives
 * Loved learning from so many people and spending all day co-working in a comfortable, informal, welcoming space!
 * Loved being able to specifically set aside some time and bash out some work!
-* The BinderHub illustration! :heart_eyes: :heart_eyes: :heart_eyes: 
+* The BinderHub illustration! :heart_eyes: :heart_eyes: :heart_eyes:
 
 
 ### Deltas

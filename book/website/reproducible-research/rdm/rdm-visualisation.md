@@ -1,7 +1,7 @@
 (rr-rdm-visualisation)=
 # Data Visualisation
 
-Data visualisation allows you to: 
+Data visualisation allows you to:
 * Extract valuable information and patterns from data
 * Communicate this in a clear and comprehensible visual representation
 * Enhance the communication of research findings, making it accessible to a broader audience
@@ -9,13 +9,13 @@ Data visualisation allows you to:
 
 Therefore, data visualisation is an aspect of research data management!
 
-Below follow some resources that may help you in creating clearer, more accessible and more transparant data visualisations. 
+Below follow some resources that may help you in creating clearer, more accessible and more transparant data visualisations.
 
 <!--
 ```{figure} ../figures/data-visualisation.*
 ---
 name: project-design
-alt: A group of people collaboratively developing a data visualisation by using a giant pencil. 
+alt: A group of people collaboratively developing a data visualisation by using a giant pencil.
 ---
  _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```

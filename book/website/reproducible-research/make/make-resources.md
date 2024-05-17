@@ -77,5 +77,3 @@ are some that caught our eye and that might be worth a look.
   build system.
 
 - [Buck](https://buckbuild.com/). Facebook's build system.
-
-

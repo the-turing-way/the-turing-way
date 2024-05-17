@@ -6,10 +6,10 @@
 
 Even when data may not seem sensitive, it can become sensitive through triangulation or data linkage.
 
-In triangulation, pieces of information within the same dataset are not identifiable on their own, but become identifiable when combined with other data. 
+In triangulation, pieces of information within the same dataset are not identifiable on their own, but become identifiable when combined with other data.
 For example, merging information about a participant's age with information about a particular medical condition may make them identifiable.
 
-In data linkage, two or more anonymised datasets containing the same individuals are combined, which in turn increases the risk of identification. 
+In data linkage, two or more anonymised datasets containing the same individuals are combined, which in turn increases the risk of identification.
 For example, combining a dataset of hospital episode statistics with a dataset of educational information may make it possible to identify individuals within the dataset.
 
 A useful link about this issue is the section on planning, and particularly triangulation, in the guide for [Research Data and Information management](https://www.jcu.edu.au/rdim/step-1-plan) by James Cook University.

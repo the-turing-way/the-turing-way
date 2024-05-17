@@ -4,7 +4,7 @@
 
 * Anne
 * Ale
-* Aida 
+* Aida
 * Malvika
 * Esther
 * Bastian

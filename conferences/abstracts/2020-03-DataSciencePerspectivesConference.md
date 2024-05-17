@@ -20,14 +20,14 @@
 ## Institute
 
 - The Alan Turing Institute, London, UK
- 
+
 Reproducible and ethical research is necessary to ensure that scientific work can be trusted.
 Funders and stakeholders are beginning to require that publications and research outreach include access to the underlying data and analysis code.
 The goal is to ensure that all results can be independently verified and built upon in future work.
 This is sometimes easier said than done.
 Sharing data and code requires an understanding of data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists.
 _The Turing Way_ is an open-source, community-led and community-develop book project that aims to bring together researchers to develop data science practices "too easy not to do".
-The handbook in its current state includes training material on version control, analysis testing, and open and transparent communication with its users. 
+The handbook in its current state includes training material on version control, analysis testing, and open and transparent communication with its users.
 
 A diverse set of community members working across different disciplines and career stages within data research and training have contributed to the development of this project.
 The collaboration and contributions are facilitated on an online project repository (https://github.com/alan-turing-institute/the-turing-way) through in-person contribution workshops (book dash events) and online co-working calls (collaboration cafes).

@@ -33,7 +33,7 @@ You will need to locate your "terminal" or "prompt" application on your machine.
 
    Any commands we run with Python or pip from now on will use the versions of Python and pip installed into _this_ conda env, not any others.
 
-5. Clone _The Turing Way_ repository from GitHub to your machine using the command: 
+5. Clone _The Turing Way_ repository from GitHub to your machine using the command:
 
    ```console
    git clone https://github.com/the-turing-way/the-turing-way

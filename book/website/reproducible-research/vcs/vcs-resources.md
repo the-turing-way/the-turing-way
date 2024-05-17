@@ -6,7 +6,7 @@ Further resources to learn more about version control systems, Git, and GitHub.
 ## What to Learn Next
 
 Look into best practice for writing good-quality code (for example, good naming conventions, informative comments, modular code structure).
-Many such skills are also applicable for using version control well (for example, for writing good commit messages). 
+Many such skills are also applicable for using version control well (for example, for writing good commit messages).
 They also ease using version control by keeping changes neat and localised.
 
 (rr-vcs-resources-reading)=

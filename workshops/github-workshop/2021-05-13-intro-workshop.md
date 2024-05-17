@@ -8,7 +8,7 @@
 - **Date:** 13 May
 - **Time:** 16:00 - 17:00 London time ([in your time zone](https://arewemeetingyet.com/London/2021-05-13/16:00))
 - **Hosts:** Esther Plomp, Malvika Sharan
-- Join Zoom Meeting: ==https://turing-uk.zoom.us/j/97421721914?pwd=WDdVcGhuMEw4cGpsOUwzd3M3d2orZz09== 
+- Join Zoom Meeting: ==https://turing-uk.zoom.us/j/97421721914?pwd=WDdVcGhuMEw4cGpsOUwzd3M3d2orZz09==
   * Meeting ID: 974 2172 1914
   * Passcode: 431756
 :::
@@ -30,17 +30,17 @@ Malvika Sharan and Esther Plomp will give you an optional 1 hour GitHub tutorial
 ## Sign up below by adding your details
 
 Name / Institute or affiliation / **What specific aspect of GitHub do you find challenging?**
-* Chilukuri Sai Dharani / Sri venkateswara engineering college / 
+* Chilukuri Sai Dharani / Sri venkateswara engineering college /
 * Guilherme B Ferreira / Universtiy College London /
-* Dave Kupferschmidt / US National Institutes of Health / 
-* Kunal Verma / Jaypee University Of Information  Technology / 
-* Kendra Phelps / EcoHealth Alliance / 
-* Mabrouk Boutagouga / University of Batna 1 / 
+* Dave Kupferschmidt / US National Institutes of Health /
+* Kunal Verma / Jaypee University Of Information  Technology /
+* Kendra Phelps / EcoHealth Alliance /
+* Mabrouk Boutagouga / University of Batna 1 /
 * María Nanton / Buenos Aires' Ministry of Health / I find the many Github features a litle confusing
 * Malvika / The Alan Turing Institite / Testing this PR
 * Lotty / The Alan Turing Institute / PR review
 * Ali / University College London / Understanding a new platform
-* Mariana Vivas / Central University of Venezuela / 
+* Mariana Vivas / Central University of Venezuela /
 
 🗣️ Welcome!
 
@@ -53,8 +53,8 @@ Introduction to GitHub
 - Slides: [Friendly GitHub Intro](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing)
 - Cheatsheet: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-**Breakout room task:** 
-* 
+**Breakout room task:**
+*
 *
 *
 
@@ -72,9 +72,9 @@ Introduction to GitHub
   - [Writing on Github](https://help.github.com/categories/writing-on-github/)
   - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [Git workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
- 
+
 **Questions / Comments?**
-  - 
+  -
   -
 
 **Feedback**

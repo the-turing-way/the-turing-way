@@ -16,9 +16,9 @@ We've updated the [contributing guidelines](https://github.com/alan-turing-insti
 We're always interested to hear about the hurdles to contributing to *The Turing Way*.
 Please check out the guidelines and let us know what you think!
 
-## Book dashes 
+## Book dashes
 
-We were busy organising and running two very succcessful book dashes in May. 
+We were busy organising and running two very succcessful book dashes in May.
 Our events in Manchester and London were great opportunities to grow the Turing Way community and we were really lucky to be joined by Matt, an illustrator from [scriberia](http://www.scriberia.co.uk), who captured our book dashes wonderfully:
 
 ![](https://pbs.twimg.com/media/D6zGuPiW4AI3m8s.jpg)

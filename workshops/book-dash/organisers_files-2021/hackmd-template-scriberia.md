@@ -15,8 +15,8 @@
 :lower_left_paintbrush: Illustrations by Scriberia Artist
 ---
 
-- We will have an artist - [NAME] - at the event who you would be able to interact with to help develop illustration relevant to your contribution to The Turing Way 
-  - Please use this hackmd to check to see if other projects have booked to work with the artist: 
+- We will have an artist - [NAME] - at the event who you would be able to interact with to help develop illustration relevant to your contribution to The Turing Way
+  - Please use this hackmd to check to see if other projects have booked to work with the artist:
 - Please sign up to work with the artist at this hackmd: https://hackmd.io/@turingway/bookdash-nov2021-scriberia <-- update
 - See reusable images from previous book dash events: [Zenodo link](https://zenodo.org/record/3332807)
 
@@ -28,7 +28,7 @@ Please replace "*Turing Way preferred slot*" with your name and provide "descrip
 
 Times with "--" in the contact person space are not available for sign up.
 
-### Tuesday DD Month 
+### Tuesday DD Month
 
 | Time | Contact person | Project / illustration idea |
 | --- | --- | --- |
@@ -60,35 +60,9 @@ Times with "--" in the contact person space are not available for sign up.
 | 15:20 - 15:30 | -- | Comfort break |
 | 15:30 - 16:00 | Turing Way coffee chat | Scribe the open discussion |
 | 16:10 - 16:30 | **NAME** | *Topic* |
-| 16:30 - 17:00 | Artist catch up | Completing illustrations | 
+| 16:30 - 17:00 | Artist catch up | Completing illustrations |
 
-### Wednesday DD Month 
-
-| Time | Contact person | Project / illustration idea |
-| --- | --- | --- |
-| 10:00 - 10:20 | **NAME** | *Topic* |
-| 10:20 - 10:30 | -- | Book dash report out |
-| 10:30 - 10:50 | **NAME** | *Topic* |
-| 10:50 - 11:00 | -- | Comfort break |
-| 11:00 - 11:15 | --| Book Dash Welcome |
-| 11:15 - 11:35 | **NAME** | *Topic* |
-| 11:35 - 11:45 | **NAME** | *Topic* |
-| 11:45 - 12:00 | --| Comfort break |
-| 12:00 - 12:20 | Name | *description TBA* |
-| 12:20 - 12:40 |**NAME** | *Topic* |
-| 12:40 - 13:00 | Artist catch up | Completing illustrations or letting folks know if they can work together | 
-| 13:00 - 17:00 | ARTIST NOT AVAILABLE |
-| 17:00 - 17:15 | -- | Book Dash welcome |
-| 17:15 - 17:35 | **NAME** | *Topic* |
-| 17:35 - 17:45 | -- | Comfort break |
-| 17:45 - 18:05 | **NAME** | *Topic* |
-| 18:05 - 18:15 | -- | Comfort break  |
-| 18:15 - 18:35 | **NAME** | *Topic* |
-| 18:35 - 18:45 | -- | Comfort break |
-| 18:45 - 19:00 | --| Book dash report out |
-| 19:00 - 19:30 | Artist catch up | Completing illustrations | 
-
-### Thursday DD Month 
+### Wednesday DD Month
 
 | Time | Contact person | Project / illustration idea |
 | --- | --- | --- |
@@ -102,7 +76,7 @@ Times with "--" in the contact person space are not available for sign up.
 | 11:45 - 12:00 | --| Comfort break |
 | 12:00 - 12:20 | Name | *description TBA* |
 | 12:20 - 12:40 |**NAME** | *Topic* |
-| 12:40 - 13:00 | Artist catch up | Completing illustrations or letting folks know if they can work together | 
+| 12:40 - 13:00 | Artist catch up | Completing illustrations or letting folks know if they can work together |
 | 13:00 - 17:00 | ARTIST NOT AVAILABLE |
 | 17:00 - 17:15 | -- | Book Dash welcome |
 | 17:15 - 17:35 | **NAME** | *Topic* |
@@ -112,7 +86,33 @@ Times with "--" in the contact person space are not available for sign up.
 | 18:15 - 18:35 | **NAME** | *Topic* |
 | 18:35 - 18:45 | -- | Comfort break |
 | 18:45 - 19:00 | --| Book dash report out |
-| 19:00 - 19:30 | Artist catch up | Completing illustrations | 
+| 19:00 - 19:30 | Artist catch up | Completing illustrations |
+
+### Thursday DD Month
+
+| Time | Contact person | Project / illustration idea |
+| --- | --- | --- |
+| 10:00 - 10:20 | **NAME** | *Topic* |
+| 10:20 - 10:30 | -- | Book dash report out |
+| 10:30 - 10:50 | **NAME** | *Topic* |
+| 10:50 - 11:00 | -- | Comfort break |
+| 11:00 - 11:15 | --| Book Dash Welcome |
+| 11:15 - 11:35 | **NAME** | *Topic* |
+| 11:35 - 11:45 | **NAME** | *Topic* |
+| 11:45 - 12:00 | --| Comfort break |
+| 12:00 - 12:20 | Name | *description TBA* |
+| 12:20 - 12:40 |**NAME** | *Topic* |
+| 12:40 - 13:00 | Artist catch up | Completing illustrations or letting folks know if they can work together |
+| 13:00 - 17:00 | ARTIST NOT AVAILABLE |
+| 17:00 - 17:15 | -- | Book Dash welcome |
+| 17:15 - 17:35 | **NAME** | *Topic* |
+| 17:35 - 17:45 | -- | Comfort break |
+| 17:45 - 18:05 | **NAME** | *Topic* |
+| 18:05 - 18:15 | -- | Comfort break  |
+| 18:15 - 18:35 | **NAME** | *Topic* |
+| 18:35 - 18:45 | -- | Comfort break |
+| 18:45 - 19:00 | --| Book dash report out |
+| 19:00 - 19:30 | Artist catch up | Completing illustrations |
 
 Some ideas for sketches
 ---
@@ -121,4 +121,4 @@ Some ideas for sketches
 - Emergent leadership in The Turing Way (roles)
 - Something from TPS
 - Outreach
-- Personal or sensitive data image? 
+- Personal or sensitive data image?

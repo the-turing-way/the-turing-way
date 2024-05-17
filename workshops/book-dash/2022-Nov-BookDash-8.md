@@ -20,14 +20,14 @@ Discussion and collaboration among the attendees at this Book Dash covered a wid
 
 ### Format of the event
 
-_The Turing Way_ [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. 
+_The Turing Way_ [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date.
 They also contribute to enhancing the project by improving the ways we work in the community and take lead on accomplishing different tasks or subprojects.
 
 The November edition of Book Dash featured 19 invited contributors, 6 committee members, 14 online working sessions, four discussions and social events, and two community share-outs.
 
-In the past, we have organised 1-1.5 day-long Book Dash events in person or partially remotely. 
+In the past, we have organised 1-1.5 day-long Book Dash events in person or partially remotely.
 However, since November 2020, we have been hosting Book Dashes online and with multiple short co-working called development sessions spread over 5 days for flexible participation by members.
-We developed this format to allow people in different time zones to participate with the same efficiency and equitable support. 
+We developed this format to allow people in different time zones to participate with the same efficiency and equitable support.
 This involved creating multiple small development sessions throughout the day, adding dedicated sessions for informal social interactions, developing shared documents with all the information, providing support funds to ensure that everyone can comfortably participate and hosting a pre-event call to communicate these resources to everyone.
 
 Like the previous Book Dash in 2022, this time we also had local hubs hosted in London and Amsterdam with modifications introduced for the in-person participants to plan their day offline.
@@ -36,7 +36,7 @@ Like the previous Book Dash in 2022, this time we also had local hubs hosted in 
 
 As in the past, we invited applications through an open call where interested applicants could state their goals and interest in the Book Dash. This application was also open for the long-term members of the community who may have attended a Book Dash or Collaboration Cafes in the past to join as a helper and mentor for new contributors as well.
 
-Applicants were asked to think about the collaborative element of the Book Dash and state how they could engage with other participants. 
+Applicants were asked to think about the collaborative element of the Book Dash and state how they could engage with other participants.
 To get a sense of the time zones these applicants came from, we asked them to choose their preferred slots during the day that they can join. You can see a template of this document [here](https://tinyurl.com/tw-bookdash-template).
 
 The Book Dash Planning Committee used the rubrics (as explained in the [online chapter](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-application.html#reviewing-process)) to score the applications during the review. They met online to discuss applications, frame feedback and conclude their selection process.
@@ -52,9 +52,9 @@ Learn more about them:
 -   Arielle is the Research Project Manager for the Tools, Practices & Systems Programme at the Alan Turing Institute. In _The Turing Way_, she has worked on writing, facilitating discussion and mentored contributions in the Guide for Ethical Research ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#arielle-bennett)).
 -   Emma is a Research Associate and Community Manager of DECOVID at The Alan Turing Institute, and an Environmental Archaeology and Palaeoecology researcher. She has led several collaborations and discussions on chapters within the Guides for Collaboration and Communication ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#emma-karoune)).
 -   Esther is a Data Steward at the Delft University of Technology, Netherlands. She has been a core contributor to the project developing, guiding and collaborating on chapters related to data management and reproducibility - and leads our partnership via her with the TU Delft  ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#delft-university-of-technology-faculty-of-applied-sciences)).
--   Lena is a Data Community Manager at the Vrije Universiteit Amsterda (VU Amsterdam), Netherlands. She like Esther has been a core contributor to the project developing, guiding and collaborating on chapters related to data management and reproducibility ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#lena-karvovskaya)).    
+-   Lena is a Data Community Manager at the Vrije Universiteit Amsterda (VU Amsterdam), Netherlands. She like Esther has been a core contributor to the project developing, guiding and collaborating on chapters related to data management and reproducibility ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#lena-karvovskaya)).
 
-We want to express our gratitude for their thoughtful engagement in the project and for helping build an inclusive and safe place in the Book Dash. 
+We want to express our gratitude for their thoughtful engagement in the project and for helping build an inclusive and safe place in the Book Dash.
 It is only with their help, we can host the next event in November taking careful consideration for our participants.
 
 ### Timeline
@@ -74,9 +74,9 @@ It is only with their help, we can host the next event in November taking carefu
 **GitHub activities:** New and existing Pull Requests and Issues that attendees worked on:
 - 32 Issues
 - 33 Pull Requests
-- Several first-time contributors to an Open Source project repository were made during the GitHub workshops, as well as during the first two days of the event. :bell: 
+- Several first-time contributors to an Open Source project repository were made during the GitHub workshops, as well as during the first two days of the event. :bell:
 - 6 new chapters/subchapters were published, while 5 existing chapters/subchapters were revised and updated.
-    
+
 **New chapters published in The Turing Way book**
 1. [Data Wrangler](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/data-wrangler.html?highlight=data%20wrangler) subchapter in the Research Infrastructure chapter
 2. [Research Ethics for Social Data](https://the-turing-way.netlify.app/ethical-research/social-data.html)
@@ -84,7 +84,7 @@ It is only with their help, we can host the next event in November taking carefu
 4. [Declarative Virtual Machines with Vagrant](https://the-turing-way.netlify.app/reproducible-research/renv/renv-virtualmachine.html?highlight=vagrant#declarative-virtual-machines-with-vagrant) in the Virtual Environment chapter
 5. [Research Objects in Action](https://the-turing-way.netlify.app/communication/research-objects.html)
 6. [Peer review subchapters](https://the-turing-way.netlify.app/communication/peer-review.html)
-    
+
 **Existing chapters updated during the Book Dash**
 1. [Types of Sensitive Data - overview](https://the-turing-way.netlify.app/project-design/sdp/types.html)
 2. [Research data Management - FAIR Principles - Community Involvement section](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-fair.html#community-involvement)
@@ -95,7 +95,7 @@ It is only with their help, we can host the next event in November taking carefu
 **Our attendees also led and participated in the following informal discussions and public events:**
 * On day 1 Jennifer Ding led a discussion on Data Custodianship.
     * Notes from the session: https://hackmd.io/@jending12/S1hgsIpBi
-* On day 2 Lena Karvovskaya organised a public session in collaboration with The Turing Way as part of the Data Conversation Series she hosts at VU Amsterdam. 
+* On day 2 Lena Karvovskaya organised a public session in collaboration with The Turing Way as part of the Data Conversation Series she hosts at VU Amsterdam.
     * Invited speakers were: Leighann Kimble and Maxine Mackintosh, Anne Co-facilitated the session. See details: https://vu-nl.libcal.com/calendar/infoworkshops/TTW.
     * Slides: https://docs.google.com/presentation/d/1wVMdGSB6lRL5UKwrMzHed3zMoe1U4lu5/edit?pli=1#slide=id.g18da2a28988_1_0
     * Resources shared: https://genomics-england.notion.site/Lost-in-Translation-Language-Toolkit-for-Genomic-Data-Diversity-674995824e8f429e9065bbebc528424d (under development) and https://www.scientificamerican.com/article/a-hacked-database-prompts/
@@ -103,7 +103,7 @@ It is only with their help, we can host the next event in November taking carefu
     * LizHare’s Slides: https://lizharedogs.github.io/ttwBookDashNov22accessibility/#1
     * Andrea’s slides: https://andreasancheztapia.github.io/BookDash2022/#1
 * 'Show and Tell' social meal hosted by Esther Plomp on Day 3
-* On Day 4: we invited a Scriberia Illustrator, Stephanie Murphy, to work with all our participants on co-developing illustrations linked to their work carried out during the Book Dash. 
+* On Day 4: we invited a Scriberia Illustrator, Stephanie Murphy, to work with all our participants on co-developing illustrations linked to their work carried out during the Book Dash.
 * On Day 5, we hosted two public share-out sessions!
 
 **Presentations from the main events:**
@@ -114,14 +114,14 @@ It is only with their help, we can host the next event in November taking carefu
 
 * **Group name: Localisation**
     * Presenter: Batool
-    * Documentation: [https://docs.google.com/presentation/d/1ViS1m3kModCicBZtc3\_CXiCwKP55Naif/edit#slide=id.p18](https://docs.google.com/presentation/d/1ViS1m3kModCicBZtc3\_CXiCwKP55Naif/edit#slide=id.p18) 
-    * [https://hackmd.io/DtMu0nm4RsaOdapi0zFdnA](https://hackmd.io/DtMu0nm4RsaOdapi0zFdnA) 
+    * Documentation: [https://docs.google.com/presentation/d/1ViS1m3kModCicBZtc3\_CXiCwKP55Naif/edit#slide=id.p18](https://docs.google.com/presentation/d/1ViS1m3kModCicBZtc3\_CXiCwKP55Naif/edit#slide=id.p18)
+    * [https://hackmd.io/DtMu0nm4RsaOdapi0zFdnA](https://hackmd.io/DtMu0nm4RsaOdapi0zFdnA)
     * Links to Issues and PR: [https://github.com/alan-turing-institute/the-turing-way/pull/2202](https://github.com/alan-turing-institute/the-turing-way/pull/2202)
     * ASK: Have created Guidelines for onboarding and offboarding, and would like help in translating the document into different languages 📝
 
 * **Group name: Infrastructure**
     * Presenter: Jim / Danny
-    * Documentation: 
+    * Documentation:
     * Links to Issues and PR: [https://github.com/alan-turing-institute/the-turing-way/pull/2866](https://github.com/alan-turing-institute/the-turing-way/pull/2866), [https://github.com/alan-turing-institute/the-turing-way/pull/2843](https://github.com/alan-turing-institute/the-turing-way/pull/2843)
     * ASK: A meeting took place last week, have already created processes for creating error-free pull requests - would love to get some feedback if you encounter any issues while creating/reviewing PRs
 
@@ -132,9 +132,9 @@ It is only with their help, we can host the next event in November taking carefu
 
 * **Group name: Trainers and mentors**
     * Presenter: Alden, Emma, Vicky
-    * Documentation: Check out our project board here: [https://github.com/orgs/alan-turing-institute/projects/32/views/1](https://github.com/orgs/alan-turing-institute/projects/32/views/1) 
+    * Documentation: Check out our project board here: [https://github.com/orgs/alan-turing-institute/projects/32/views/1](https://github.com/orgs/alan-turing-institute/projects/32/views/1)
     * [https://docs.google.com/spreadsheets/d/105WCC53oAJ2XKK9qOvYjgKtJ3ty1zkBZBFb0IcjO\_R8/edit?usp=sharing](https://docs.google.com/spreadsheets/d/105WCC53oAJ2XKK9qOvYjgKtJ3ty1zkBZBFb0IcjO\_R8/edit?usp=sharing)
-    * We also have made a slack channel #trainers-mentors-wg 
+    * We also have made a slack channel #trainers-mentors-wg
        * ASK: Created a list of all talks/workshops given so far (121), created an issue template with a checklist for anyone giving a talk, and a list of templates. Any talk you have given that is not recorded in The Turing Way, please do connect. Working groups can provide a template slide deck to allow others to speak about their work.
 
 **Videos:**

@@ -30,10 +30,10 @@ Successful applicants will receive travel and accommodation to attend one of our
 | Day 2	|     |
 | ----- | --- |
 | 8:30am | Arrive at dashing venue |
-| 9:00am | Intro to the book dash | 
+| 9:00am | Intro to the book dash |
 | 9:30am | Team forming and brain storming |
-| 10:30am | Coffee break | 
-| 11:00am | Group working | 
+| 10:30am | Coffee break |
+| 11:00am | Group working |
 | 12:30pm | Lunch |
 | 1:30pm | Group working, coffee available at 3pm |
 | 4:00pm | Celebrate successes (group share outs) |

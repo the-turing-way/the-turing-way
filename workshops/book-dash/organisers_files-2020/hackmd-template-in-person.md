@@ -118,9 +118,9 @@ Octobox is a cool tool for managing your GitHub notifications: https://octobox.i
 *
 *
 *
-*  
 *
-*  
+*
+*
 *
 
 
@@ -130,9 +130,9 @@ Octobox is a cool tool for managing your GitHub notifications: https://octobox.i
 *
 *
 *
-*  
 *
-*  
+*
+*
 *
 
 ### Day 2: 21 Februray 2020
@@ -192,9 +192,9 @@ There's also an issue for feedback - any comments on what we can do better at fu
 *
 *
 *
-*  
 *
-*  
+*
+*
 
 
 :heavy_plus_sign::arrow_up_small: Pluses and deltas
@@ -205,6 +205,6 @@ There's also an issue for feedback - any comments on what we can do better at fu
 
 ## Things to capture in the event report
 
-*  
 *
-*  
+*
+*

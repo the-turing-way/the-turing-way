@@ -13,7 +13,7 @@
     * **Day 4, 20 May**: https://hackmd.io/@turingway/bookdash-may2021-day4
     * **Day 5, 21 May**: https://hackmd.io/@turingway/bookdash-may2021-day5
 * Reports from the previous events:
-    * 
+    *
     * https://github.com/alan-turing-institute/the-turing-way/tree/main/workshops/book-dash
 
 ----
@@ -32,7 +32,7 @@ Application review was carried out using the rubrics described [here](https://th
 ### Book Dash Planning Committee
 
 This event could not have happened without the valuable work of our first Planning Committee members: Arielle Bennett, Batool Almarzouq, Brigitta Sipőcz, Carlos Martinez-Ortiz, Emma Karoune, Esther Plomp and Laura Carter They provided useful input during the planning and mentored new contributors. These members were invited to join the committee as they had attended previous Book Dash events and had sent their applications expressing their interests to mentor new contributors.
-Malvika Sharan and Kirstie Whitaker were involved to ensure that resources required for committee members to lead sessions and run this event were in place. 
+Malvika Sharan and Kirstie Whitaker were involved to ensure that resources required for committee members to lead sessions and run this event were in place.
 The committee members hosted the development during the Book Dash week and led and discussion sessions on illustrations for visual storytelling, accessibility in communication, time management and activism.
 We also hosted a 'show and tell' social meal and facilitated several icebreakers for social interactions.
 
@@ -41,11 +41,11 @@ We also hosted a 'show and tell' social meal and facilitated several icebreakers
 Our Book Dash attendees worked on multiple chapters and project ideas that we have summarised below:
 
 * Overview of new chapters:
-  * “[Legal Disclaimer](https://the-turing-way.netlify.app/afterword/legal-disclaimer.html)” by Laura Carter explaining where can readers find legal advice so that they do not consider any part of *The Turing Way* book as a legal guide. 
+  * “[Legal Disclaimer](https://the-turing-way.netlify.app/afterword/legal-disclaimer.html)” by Laura Carter explaining where can readers find legal advice so that they do not consider any part of *The Turing Way* book as a legal guide.
   * Malvika and Esther reorganised a chapter “[Making Research Objects Citable](https://the-turing-way.netlify.app/communication/citable.html#)”,  previously listed under the Guide for Reproducible Research.
   * Kirstie Whitaker wrote a chapter on “[Barriers to Reproducibility](https://the-turing-way.netlify.app/reproducible-research/overview/overview-barriers.html)” describing what challenges researchers face in their research when planning to apply practices for reproducibility.
   * Batool and Brigitta collaborated on the chapters and illustrations for the [Continuous Integration chapter](https://the-turing-way.netlify.app/reproducible-research/ci.html) that they started working on during the previous Book Dash event.
-  * Arielle Bennett updated the chapter “[Activism for Researchers](https://the-turing-way.netlify.app/ethical-research/activism.html)” with the contributions of Bruno Camino. 
+  * Arielle Bennett updated the chapter “[Activism for Researchers](https://the-turing-way.netlify.app/ethical-research/activism.html)” with the contributions of Bruno Camino.
 
 ![Image shows a group of researchers holding a banner that says “advocacy”. One person is signing up to join and others are walking/wheeling forward.](https://i.imgur.com/IKDk535.png)
 
@@ -63,7 +63,7 @@ See [PR #1930](https://github.com/alan-turing-institute/the-turing-way/pull/1930
   * Maria, Marta and Emma collaborated on the chapter “Communicating with wider audiences” [PR #1929](https://github.com/alan-turing-institute/the-turing-way/pull/1929).
 This is a comprehensive chapter describing different ways for ensuring scientific communication is accessible to a wider audience.
   * Lotty Coupat, community manager of AutSPACEs, added a case study from her project to the subchapter on project road mapping.
-See [PR #1941](https://github.com/alan-turing-institute/the-turing-way/pull/1941). 
+See [PR #1941](https://github.com/alan-turing-institute/the-turing-way/pull/1941).
   * Andrei is revising the chapter on risk assessment to make sure that it is relatable for researchers beyond software engineers.
 See [PR #1928](https://github.com/alan-turing-institute/the-turing-way/pull/1928).
  * Prompted by the discussions in the Community Share-outs, Danny Garside is suggesting changes in the landing page to help ensure that the readers can use the book as a knowledge base and not attempt to read it from beginning to end.
@@ -83,9 +83,9 @@ See [issue #1919](https://github.com/alan-turing-institute/the-turing-way/issues
 ### New Illustrations by Scriberia for  *The Turing Way* Community
 
 Illustrations from the event have been made available online, which can be reused using DOI: 10.5281/zenodo.4836940 and cited as described [on Zenodo](https://zenodo.org/record/4836940).
-This latest release contains a version of images without (English) text. 
-These images can be easily adapted to different languages by editing titles via simple image editing tools (see [this example by Canva](https://www.canva.com/features/add-text-to-photo/)). 
-We encourage our readers and community members to reused these images in different languages and contribute them back to  *The Turing Way*. 
+This latest release contains a version of images without (English) text.
+These images can be easily adapted to different languages by editing titles via simple image editing tools (see [this example by Canva](https://www.canva.com/features/add-text-to-photo/)).
+We encourage our readers and community members to reused these images in different languages and contribute them back to  *The Turing Way*.
 Please reach out to  *The Turing Way* team by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com) for more information.
 
 

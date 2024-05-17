@@ -31,10 +31,10 @@ If you can't attend the GitHub Introduction Sessions, please check the following
 :lower_left_paintbrush: Illustrations by Scriberia Artist
 ---
 
-- We will have an artist - <insert name> - at the event who you would be able to interact with to help develop illustration relevant to your contribution to The Turing Way 
-  - 17, 18 and 19 May 2022 
-  - Please use this HackMD to check to see if other projects have booked to work with the artist: 
-- Info to work with the artist at this hackmd: https://hackmd.io/@turingway/bookdash-may2022-scriberia 
+- We will have an artist - <insert name> - at the event who you would be able to interact with to help develop illustration relevant to your contribution to The Turing Way
+  - 17, 18 and 19 May 2022
+  - Please use this HackMD to check to see if other projects have booked to work with the artist:
+- Info to work with the artist at this hackmd: https://hackmd.io/@turingway/bookdash-may2022-scriberia
 - See reusable images from previous book dash events: [Zenodo link](https://zenodo.org/record/3332807)
 
 :spiral_note_pad: Book Dash Main Events, 16 - 19 May 2022
@@ -73,7 +73,7 @@ Notes: https://hackmd.io/@turingway/bookdash-may2022-day1
 | 14:00 - 16:30 | see notes | Malvika/Emma  | Esther, Alden, Batool, Hari, Jen, Patricia, Iman, Laura, Vicky, Emma, Anne, Aida |
 | 17:00 - 19:30 | see notes | Malvika/someone else? | Esther, Daliyah, Timothy, Iman, Batool, Anne |
 
-**Each session will feature 20 minutes networking in the beginning and 10 minutes in the end of the session for getting to know what others are upto** 
+**Each session will feature 20 minutes networking in the beginning and 10 minutes in the end of the session for getting to know what others are upto**
 
 ### Day 2: 17 May 2022
 
@@ -134,7 +134,7 @@ Notes: https://hackmd.io/@turingway/bookdash-may2022-day4
 | 17:00 - 19:30 |  see notes | Esther  | | Esther, Batool, Daliyah, Timothy, Iman, Arielle |
 
 ± **Themed discussion & Networking**: Each session will start with a 30 minutes open discussion, please suggest a topic and lead it
-    
+
 ### Day 5: 20 May 2022
 
 Notes: https://hackmd.io/@turingway/bookdash-may2022-day5
@@ -143,8 +143,8 @@ Notes: https://hackmd.io/@turingway/bookdash-may2022-day5
 
 ± **Community Share-out & Contributor Celebration - *Open to Public***
 
-These sessions are open to public. Please invite your colleagues and friends who would like to connect with The Turing Way community and learn about your work: https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebrations-may-2022-tickets-323373527927. 
-    
+These sessions are open to public. Please invite your colleagues and friends who would like to connect with The Turing Way community and learn about your work: https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebrations-may-2022-tickets-323373527927.
+
 Public Zoom link will be shared upon registration.
 
 In this session, all the contributors including the Book Dash attendees will have a chance to share their work with everyone through short demo/presentation.
@@ -154,16 +154,16 @@ In this session, all the contributors including the Book Dash attendees will hav
 **For the Book Dash Participants: Order yourself a drink/snack (budget £25)**
 
 - We hope that you will enjoy a little treat on us to celebrate such a productive and exciting week.
-- We will reimburse up to £25 for you to have a drink (no hard alcohol) and/or snack of your choice to eat with us. We encourage you to purchase something that you would not usually have and that will bring you joy. 
+- We will reimburse up to £25 for you to have a drink (no hard alcohol) and/or snack of your choice to eat with us. We encourage you to purchase something that you would not usually have and that will bring you joy.
 - We can reimburse only for food or drink (no hard liquor/alcohol). Please check with Malvika if you have any question.
 
 :heavy_plus_sign::arrow_up_small: Pluses and deltas - Final Feedback Document
 ---
-**IMPORTANT:** Please take a few minutes to share 
-- **bio and highlights** as a comment under issue [UPDATE](https://github.com/alan-turing-institute/the-turing-way/issues/1937) and 
+**IMPORTANT:** Please take a few minutes to share
+- **bio and highlights** as a comment under issue [UPDATE](https://github.com/alan-turing-institute/the-turing-way/issues/1937) and
 - **feedback** (pluses and delta: https://hackmd.io/@turingway/bookdash-may2022-feedback) from the event.
 
-_These will be extremely valuable for us to explain to our funders why this event was valuable, and to learn about your experience, what you enjoyed and how we can improve future events._ 
+_These will be extremely valuable for us to explain to our funders why this event was valuable, and to learn about your experience, what you enjoyed and how we can improve future events._
 
 Any day-to-day feedback during the event can be directly shared in the main event document.
 
@@ -199,7 +199,7 @@ Any day-to-day feedback during the event can be directly shared in the main even
 
 ## :gift: Your contribution to the project
 
-**Please read and follow our project [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)!** :sparkles: 
+**Please read and follow our project [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)!** :sparkles:
 
 If you find them confusing, difficult to follow or think that information needs to be added, please let us know! This will help us improve the contributing experience for everyone going forward.
 
@@ -220,7 +220,7 @@ The tl;dr version for easy reference during dashing:
 
 **What types of contributions can you make?**
 
-* Reviewers for your Book Dash application have suggested a few specific topics for each of you 
+* Reviewers for your Book Dash application have suggested a few specific topics for each of you
 * You can also collaborate with others or start slowly by checking out the list of [open issues](https://github.com/alan-turing-institute/the-turing-way/issues)
 * Proofread [existing chapters](https://the-turing-way.netlify.com) (check for typos, grammar, links, etc.)
 * Add further information to an existing chapter
@@ -254,22 +254,22 @@ Octobox is a cool tool for managing your GitHub notifications: https://octobox.i
 :moneybag: Support grant and subsistence cost: Reimbursement guidelines
 ---
 
-**For the Book Dash Participants: Expenses Guidance** 
+**For the Book Dash Participants: Expenses Guidance**
 
-**What is covered?** 
+**What is covered?**
 
 -   Food & non-alcoholic drinks up to £50 (you can use this towards groceries to sustain your participation during the book dash)
--   Accessibility items or costs up to £75  
+-   Accessibility items or costs up to £75
 
-**Requirements** 
+**Requirements**
 
--   Expenses will be reimbursed after the Book Dash  
+-   Expenses will be reimbursed after the Book Dash
 -   Participants will need to provide receipts for all expenses when they submit for reimbursement
 -   All participants will need to sign and return the policy form and the expense claim form shared via an email
--   Participants should complete the form in the original currency of the expenses (no need to covert to GBP)  
+-   Participants should complete the form in the original currency of the expenses (no need to covert to GBP)
 -   Forms and receipts **must be submitted by Monday 30 May 2022 to [tps@turing.ac.uk](mailto:tps@turing.ac.uk), copying in [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)**
-    
+
 :round_pushpin: Report
 ---
-    
+
 The Turing Way Book Dash committee will co-develop a report providing an overview from the event: https://hackmd.io/@turingway/bookdash-may2022

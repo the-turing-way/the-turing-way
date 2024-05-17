@@ -24,6 +24,6 @@ This chapter sets out information about academic authorship traditions in differ
 
 (cm-aa-motivation)=
 ## Motivation and Background
-The academic landscape is rapidly changing in favour of research projects involving large collaborations and interdisciplinary teams. 
-This makes decisions concerning academic authorship hard to navigate and especially the need to consider different types of contributions fairly. 
+The academic landscape is rapidly changing in favour of research projects involving large collaborations and interdisciplinary teams.
+This makes decisions concerning academic authorship hard to navigate and especially the need to consider different types of contributions fairly.
 Consequently, there is a shift in how researchers are thinking about assigning authorship for research outputs and what types of contributions are recognised and therefore valued.

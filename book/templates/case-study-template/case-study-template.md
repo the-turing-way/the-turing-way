@@ -3,7 +3,7 @@
 
 ***Please remove all the Blockquotes (sentences that start with ">")***
 
-> Each guide has a case studies chapter contains multiple case studies. 
+> Each guide has a case studies chapter contains multiple case studies.
 > A case study should be a modular subchapter, but it can have more than one example.
 
 **By Author 1, Author 2, ...**
@@ -20,13 +20,13 @@
 > **Provide a high level overview of the subject of the case study.**
 > Briefly introduce and describe the project, person, organisation, or phenomenon that your case study is about.
 > If possible, describe the goals you set out to achieve in this case, highlighting any key player(s) and explaining what their roles were.
-> Be sure to include relevant additional information (such as links and publication DOIs) about the subject of the case study. 
+> Be sure to include relevant additional information (such as links and publication DOIs) about the subject of the case study.
 
 
 > In addition to _what_ your case study is about, you should also explain _why_ you are writing this case study and _how_ it may benefit the readers.
 > When writing this section, think about why this topic is important to investigate and what your expected reader demographic is.
 > As much as possible, relate the importance of your topic to the key concepts and overall message expressed in the Guide your case study belongs to.
-> Some (non-exhaustive) concrete questions to consider include: 
+> Some (non-exhaustive) concrete questions to consider include:
 > - Is the subject an unusual example of a research problem that requires more in-depth analysis?
 > - Does the subject reveal more insight about a previously hidden problem? Does it go against prevailing assumptions in your research area?
 > - Does the subject motivate a new research direction?
@@ -52,7 +52,7 @@
 ### Relevant Concept 1
 
 > Replace the `concept1` portion of the label at the top of the header with a word (or acronym) that describes the concept you are focusing on in this section.
-> If the key concept was Research Data Management, a good label could be `sectioninitials-filename-elements-rdm`. 
+> If the key concept was Research Data Management, a good label could be `sectioninitials-filename-elements-rdm`.
 
 > Use this section to expatiate on the importance of the key concept in your case, explaining _how_ and _why_ it helped (or did not help).
 
@@ -66,7 +66,7 @@
 
 > **Use this section to discuss any challenges you faced while trying to use this Guide's recommendations in your case.**
 > When writing, think about and express what specific recommendations you struggled with and why you struggled with them.
-> What problems were you not able to solve? 
+> What problems were you not able to solve?
 > How do you think it impacted the success of your case?
 > What would you have done differently?
 
@@ -101,5 +101,3 @@
 >   - References and citations
 >   - Title casing
 >   - Matching headers with reference in table of content
-
-

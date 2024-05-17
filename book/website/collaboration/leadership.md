@@ -30,12 +30,12 @@ We highlight the quotes from Adrienne Maree Brown, author of the Book Emergent S
 ```{note}
 Mozilla's Open Leadership Framework describes open leadership as "a set of principles, practices, and skills people can use to mobilise their communities to solve shared problems and achieve shared goals" (See [Mozilla Open Leadership framework](https://mozilla.github.io/open-leadership-framework/framework/#open-leadership-framework)).
 
-[The Open Organisation Resources](https://theopenorganization.org/definition/open-leadership-definition/) defines open leadership as a mindset and behaviors that anyone can learn and practice.  
-Their roles may not be permanent or predestined but emerge as needed for the task at hand. 
+[The Open Organisation Resources](https://theopenorganization.org/definition/open-leadership-definition/) defines open leadership as a mindset and behaviors that anyone can learn and practice.
+Their roles may not be permanent or predestined but emerge as needed for the task at hand.
 Open leaders uphold transparency, inclusivity, adaptability, collaboration, and community.
 ```
 
-The Open Leadership Framework states that leadership is about involving members and mobilising communities to solve problems and achieve goals that are beneficial for everyone. 
+The Open Leadership Framework states that leadership is about involving members and mobilising communities to solve problems and achieve goals that are beneficial for everyone.
 
 Individuals who lead their work (project, organisation, communication, resources) openly design different aspects of their work to promote openness and social good throughout their work life cycle.
 
@@ -68,12 +68,12 @@ There is no such thing as a fixed set of leadership skills and not all great lea
 In the context of data science, where we strive to advance our knowledge through validated scientific methods based on data, talking about leadership, essentially a nuanced and fuzzy concept, is challenging to define.
 In data science and research, discussions and upskilling in leadership are extremely important as:
 * Researchers and data scientists constantly navigate fast-changing demands of 'innovative' approaches in technological development.
-* They manage and coordinate collaborations with their peers as well as external stakeholders across multiple disciplines. 
+* They manage and coordinate collaborations with their peers as well as external stakeholders across multiple disciplines.
 * Leadership is one of the toughest non-technical skills to learn without guidance.
 * Leadership is rarely discussed openly in research environments, despite being everywhere.
 * (Open) Leadership is one of the keys to healthy and inclusive communities that we are striving to build in data science.
 
-In this chapter, we explore different aspects of (open) leadership skills that are applicable in the data science and research contexts. 
+In this chapter, we explore different aspects of (open) leadership skills that are applicable in the data science and research contexts.
 After all, "technical skills are just one aspect of making data science research open, reproducible, inclusive and ethical for all" (as stated in the [Welcome page of The Turing Way](https://the-turing-way.netlify.app/)).
 
 We hope that by discussing leadership here, we will:
@@ -82,7 +82,7 @@ We hope that by discussing leadership here, we will:
 * Ignite reflection and spark conversations about the leaderships we want to promote in data science.
 * Evaluate if leadership in our workplace or communities are healthy, compassionate, and inclusive, and how we can improve it.
 
-In this chapter, we will introduce and discuss: 
+In this chapter, we will introduce and discuss:
 - {ref}`important features<cl-leadership-features>` of leadership when experiencing and exercising them in data science,
 - what we mean by {ref}`"healthy" leadership<cl-leadership-building>`, how we can build open and healthy leadership approaches and what they should avoid/address,
 - how we can create {ref}`leadership opportunities <cl-leadership-opportunities>` in our projects,

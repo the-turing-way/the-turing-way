@@ -32,4 +32,3 @@ Please read _The Turing Way's_ recommendations for contributing to project in th
 ## Sources
 
 1. http://www.practicereproducibleresearch.org/
-

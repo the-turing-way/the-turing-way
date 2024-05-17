@@ -32,7 +32,7 @@ Think about answering the following questions:
 
 ### Resources
 
-<!-- List and describe any external resources that may be helpful when writing the chapter. 
+<!-- List and describe any external resources that may be helpful when writing the chapter.
 
 We suggest using bullets (indicated by * or -) and filled checkboxes [x] here  -->
 

@@ -13,9 +13,9 @@
     * https://www.turing.ac.uk/data-protection-policy
     * Reviewing the first policy
     * Who is responsible to the data?
-    * What data do we collect currently? 
+    * What data do we collect currently?
         * May need a current audit of what we do
- 
+
 ## Notes
 * Open Access Week: Share your thoughts in this issue or form! https://github.com/the-turing-way/the-turing-way/issues/3326
     * Got the tweets & toots shared!

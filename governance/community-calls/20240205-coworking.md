@@ -50,7 +50,7 @@
     * Budget to sponsor food
     * Someone/group to coordinate/communicate/support: the birthday celebration committee
 * **The Turing Global Sprint committee: Anniversary Edition**
-    * Overhead: 
+    * Overhead:
         * People apply and say that they want to host local sprint
         * A global room to facilitate sync up
         * Stickers: Limited edition stickers
@@ -58,7 +58,7 @@
 * **GSoC idea 1: Prototype website: **
     * who is maintaining this in the long term and keep it usable
     * Why website and not a book:
-        * Archiving old events 
+        * Archiving old events
         * Listing projects
         * Spotlighting community members
     * Foreword instead of website

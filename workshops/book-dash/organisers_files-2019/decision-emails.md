@@ -5,8 +5,8 @@ Emails that were sent to book dash applicants
 ## Accepted
 
 Dear xxx,
- 
-Congratulations! 
+
+Congratulations!
 Your Turing Way book dash application has been successful and we would like to invite you to our book dash in [insert location] on [insert date]!
 
 **Next steps**
@@ -33,12 +33,12 @@ The Turing Way team
 
 Dear xxx,
 
-Many thanks for your Turing Way book dash application. 
-We received many great applications and can only offer a limited number of spaces to ensure the book dash is effective and all participant get adequate support from facilitators. 
+Many thanks for your Turing Way book dash application.
+We received many great applications and can only offer a limited number of spaces to ensure the book dash is effective and all participant get adequate support from facilitators.
 Thus, we’re sorry to inform you that we will not offer a place in one of our book dashes.
 
-We would still love to see your contribution to the Turing Way. 
-You can find details on how to contribute in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) or get in touch in our [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way). 
+We would still love to see your contribution to the Turing Way.
+You can find details on how to contribute in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) or get in touch in our [Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).
 
 If you’d like to stay in touch and hear about future events, please sign up to [our newsletter](http://tinyletter.com/TuringWay).
 

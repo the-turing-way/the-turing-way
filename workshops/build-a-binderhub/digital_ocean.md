@@ -3,12 +3,12 @@
 
 ### Instead of azure-cli
 #### we need doctl (Digital Ocean ConTroL)
-`wget https://github.com/digitalocean/doctl/releases/download/v1.13.0/doctl-1.13.0-linux-amd64.tar.gz`  
-`tar -xvf doctl-1.13.0-linux-amd64.tar.gz`  
-`sudo mv doctl /usr/bin/`  
+`wget https://github.com/digitalocean/doctl/releases/download/v1.13.0/doctl-1.13.0-linux-amd64.tar.gz`
+`tar -xvf doctl-1.13.0-linux-amd64.tar.gz`
+`sudo mv doctl /usr/bin/`
 
 ### Instead of az-login
-You'll need an authentication token. Login to digital ocean online. Select API and then generate a new token. Give it a cool name, like 'bindertime'.  
+You'll need an authentication token. Login to digital ocean online. Select API and then generate a new token. Give it a cool name, like 'bindertime'.
 `doctl auth init`
 
 ## Create your cluster!
@@ -18,9 +18,9 @@ digital ocean's k8s support from the command line is in beta, but it works fine`
 `doctl k8s cluster create bindertime-k8s --region lon1 --version 1.12.1-do.2 --node-pool="name=worker-pool;count=2"`
 
 ### Save config file
-Make a directory to store your config    
-`mkdir binderhub; cd binderhub`  
-`doctl k8s cluster kubeconfig show bindertime-k8s > config.yaml`  
+Make a directory to store your config
+`mkdir binderhub; cd binderhub`
+`doctl k8s cluster kubeconfig show bindertime-k8s > config.yaml`
 
 ### Check we are up and running
 `kubectl --kubeconfig='config.yaml' get node`

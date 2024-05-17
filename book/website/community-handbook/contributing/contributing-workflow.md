@@ -49,7 +49,7 @@ book\website
 |   |
 |   └───new-chapter (new chapter folder)
 |   |   |   ...
-|    
+|
 └───project-design <---- (folder for the Guide for Project Design)
     │   project-design.md
     │   ...

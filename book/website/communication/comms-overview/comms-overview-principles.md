@@ -17,4 +17,3 @@ This style does not suit a non-academic audience and therefore your writing need
 Each discipline has its acronyms that even other scientific fields do not understand.
 There are also issues concerning different audiences being physically able to access the output that must be considered.
 Removing as many barriers to research communication as possible will increase its effectiveness.
-

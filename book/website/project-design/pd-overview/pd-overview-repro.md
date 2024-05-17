@@ -17,15 +17,15 @@ It should contain a **recognizable name** for your project, as well as a **decla
 Documentation should be shared via centralised, findable and accessible platforms.
 
 ## Documenting project plans and processes
- 
+
 Document the **current state**, **ongoing development**, and/or any **future plans** for the project.
 Add information on available resources and recommended practices to ensure everyone is on the same page (literally!).
 It may also be important to make it clear what your project is not meant to be.
 
 In addition to the above, it is interesting to document the *principal need* for your project, especially for software and hardware project: what problem are you trying to solve ?
-That includes a **problem description** of whatever issue sparked the project, a **functional description** of how your project is meant to address it, and a **context description** of the users and environment your project is targeting. 
+That includes a **problem description** of whatever issue sparked the project, a **functional description** of how your project is meant to address it, and a **context description** of the users and environment your project is targeting.
 
-It is particularly important to share the **vision, mission, and milestones** clearly. 
+It is particularly important to share the **vision, mission, and milestones** clearly.
 Provide sufficient information for what the expected outcomes and deliverables are.
 
 
@@ -35,8 +35,8 @@ Describe the possible expansion of features in pre-determined and agreed on ways
 ## Project's "Who-is-Who"
 
 Include a **list of contributors**, **contribution guidelines**, and information on **contact points** where to ask for help.
-In addition, 
-- Create an overview of  the putative "personas" {ref}`pd-persona` (people and organisations) and how they may interact with the project. 
+In addition,
+- Create an overview of  the putative "personas" {ref}`pd-persona` (people and organisations) and how they may interact with the project.
 
 Describe what opportunities for collaboration different members will have.
 When possible, such as in an open source project, provide these details for those outside the current group, especially when you want to encourage people outside the project to be involved.
@@ -61,7 +61,7 @@ You may also include an index of all the project's documentation, so people can 
 Provide a decision-making framework to facilitate discussions and reaching a shared conclusion.
 In the context of software and hardware, open source projects are often as much about communication as they are about coding or building (if not more).
 Allow informed discussions when a particular project design has reached the end or when it is useful to update it for efficiency and sustainability.
- 
+
 Describe how your research objects are available or will be published and how different contributors will be recognised.
 It helps when everyone feel appreciated and acknowledged for their contribution to the overall vision.
 
@@ -81,7 +81,7 @@ We recommend reading the following chapters to understand effective communicatio
 - {ref}`<>`
 -->
 <!--
-(this section moved to one of the landing pages instead) 
+(this section moved to one of the landing pages instead)
 (pd-overview-repro-mistakes)=
 ## Bonus Section: Learning from Mistakes
 
@@ -103,10 +103,10 @@ We asked a group of researchers to share what they consider their project design
 - Using a very messy excel to store/process data, the shame!
 - Over-engineering a design for features that didn’t end up being implemented (in life before academia!)
 - Not implementing Git flow from the start, and not teaching collaborators how to use Git flow.
-- Not developing tests until after a significant amount of code was written.  
+- Not developing tests until after a significant amount of code was written.
 - Not doing code reviews.
-- Not defining use scenarios for the software from the beginning, meaning we didn’t pay enough attention to data input and output.  
-- Agonising too long before switching to objectively better design (particularly translating from a largely functional codebase to more object-oriented).    
+- Not defining use scenarios for the software from the beginning, meaning we didn’t pay enough attention to data input and output.
+- Agonising too long before switching to objectively better design (particularly translating from a largely functional codebase to more object-oriented).
 - Going with options that team members are ‘comfortable’ with (for example, using outdated languages or platform-dependent compilers), rather than teaching team members new skills. Makes life more difficult in the long run.
 - Defining governance at different stages of the project or potential scenario planning for how governance might change as the project scales up/down/gains new users and so on.
 - Not thinking about community from the start, starting with a Code of Conduct, thinking about a Contributor License Agreement (intellectual property), what processes will be used and how they will work, how they will impact future contributors and the overall project.
@@ -126,7 +126,7 @@ A little work and time investment early on in project design saves a lot of time
 It is really hard for a project to move from practices that were designed for one person to practices that work for a team.
 Therefore, it is essential to document and use practices that will enable collaboration if and when you have to involve others in your project.
 Considering good team practices even for a project run by an individual makes it easy for them to effectively accomplish their goals.
-For example, you can define goals in your project and identify tasks by asking questions like: 
+For example, you can define goals in your project and identify tasks by asking questions like:
 how can my work be split, how will it be reviewed, how will decisions be made, and so on.
 Learn how [agile methodologies](http://www.agilenutshell.com/) help adapt to changes.
 Learn about good team practices in our {ref}`section on teamwork<cl-new-community-teamwork>`.

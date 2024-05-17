@@ -5,7 +5,7 @@
 * Location: The Francis Crick Institute, London, UK
 * Date: 12 February 2019
 
-### Authors 
+### Authors
 
 * [Sarah Gibson](https://www.turing.ac.uk/people/researchers/sarah-gibson) ([*The Alan Turing Institute*](https://www.turing.ac.uk)) on behalf of **The Turing Way Collaboration**
 

@@ -33,9 +33,9 @@ Learn more about this in the {ref}`rr-rdm-sharing` subchapter.
 (rr-rdm-storage-organisation)=
 ## Data Organisation
 
-To organise your data, you should use a clear folder structure to ensure that you can find your files. 
+To organise your data, you should use a clear folder structure to ensure that you can find your files.
 We encourage you to use an existing template.
-An open source project created a quite complete one at https://github.com/tonic-team/Tonic-Research-Project-Template 
+An open source project created a quite complete one at https://github.com/tonic-team/Tonic-Research-Project-Template
 
 ```{figure}  ../../figures/file-management-manual.jpg
 ---
@@ -61,7 +61,7 @@ You can structure folders based on the person that has generated the data/folder
 - [Project structure videos by Danielle Navarro](https://www.youtube.com/watch?v=u6MiDFvAs9w&list=PLRPB0ZzEYegPiBteC2dRn95TX9YefYFyy&index=1) (with [slides](https://slides.djnavarro.net/project-structure/#1)).
 
 ### More Information on Data Organisation
-- [How to organise your data and code](https://renebekkers.wordpress.com/2021/04/02/how-to-organize-your-data-and-code) by Rene Bekkers. 
+- [How to organise your data and code](https://renebekkers.wordpress.com/2021/04/02/how-to-organize-your-data-and-code) by Rene Bekkers.
 
 (rr-rdm-storage-conventions)=
 ## File Naming Conventions
@@ -82,10 +82,10 @@ Some other tips for file naming include:
 
 You can explain the file naming convention in a README.txt file so that it will also become apparent to others what the file names mean.
 
-For further guidance on file naming: 
+For further guidance on file naming:
 - [Jenny Bryan’s ‘naming things’ presentation](https://speakerdeck.com/jennybc/how-to-name-files) (or watch the [5 minute summary](https://youtu.be/ES1LTlnpLMk))
 - [MIT's recommendations on File naming and folder hierarchy](https://libraries.mit.edu/data-management/store/organize/)
-- [8 step guide on how to set up your file naming convention](https://resolver.caltech.edu/CaltechAUTHORS:20200601-161923247) 
+- [8 step guide on how to set up your file naming convention](https://resolver.caltech.edu/CaltechAUTHORS:20200601-161923247)
 
 (rr-rdm-storage-renaming)=
 ### File renaming tools
@@ -93,7 +93,7 @@ For further guidance on file naming:
 If you want to change your file names you have the option to use bulk renaming tools.
 Be careful with these tools, because changes made with bulk renaming tools may be too rigorous if not carefully checked!
 
-Some bulk file renaming tools include: 
+Some bulk file renaming tools include:
 - [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/Main_Intro.php), [WildRename](http://www.cylog.org/utilities/wildrename.jsp), and [Ant Renamer](http://www.antp.be/software/renamer) (for Windows)
 - [Renamer](https://renamer.com/) (for MacOS)
 - [PSRenamer](http://www.cylog.org/utilities/wildrename.jsp) (for MacOS, Windows, Unix, Linux)
@@ -113,6 +113,3 @@ If your files take up a large amount of space and backing up all of them proves 
 This can be part of your {ref}`Data Management Plan<rr-rdm-dmp>`.
 
 Watch this video on [Safe data storage and backup](https://www.youtube.com/watch?v=bgbbToXHgW0) from the [TU Delft Open Science MOOC](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/).
-
-
-

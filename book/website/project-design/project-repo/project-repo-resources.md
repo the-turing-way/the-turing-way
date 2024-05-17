@@ -30,7 +30,7 @@ Checklist of recommended documents
 
 - See the {ref}`rr-compendia` chapter.
 - Max Joseph, [How (and why) to make a research compendia](https://mbjoseph.github.io/intro-research-compendia/#1). (2020, March 19). Presentation.
-- Nüst, D., Boettiger, C., & Marwick, B. (2018). [How to Read a Research Compendium](https://arxiv.org/abs/1806.09525v1). arXiv, 1806.09525. Manuscript. 
+- Nüst, D., Boettiger, C., & Marwick, B. (2018). [How to Read a Research Compendium](https://arxiv.org/abs/1806.09525v1). arXiv, 1806.09525. Manuscript.
 - Perez-Riverol, Y., Gatto, L., Wang, R., Sachsenberg, T., Uszkoreit, J., da Veiga Leprevost, F.,  Christian Fufezan, Ternent, T., Eglen, S. J., Katz, D. S., Pollard, T. J., Konovalov, S., Flight, R. M., Blin, K., Vizcaíno, J. A. (2016). [Ten Simple Rules for Taking Advantage of Git and GitHub](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947). PLoS Comput. Biol., 12(7), e1004947. doi: 10.1371/journal.pcbi.1004947. Peer-reviewed Article.
 - Venigalla, A. S. M., & Chimalakonda, S. (2021). [What's in a GitHub Repository? -- A Software Documentation Perspective](https://arxiv.org/abs/2102.12727v2). arXiv, 2102.12727.
 - [The Relationship Between Folder Use and the Number of Forks: A Case Study on Github Repositories](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.650.8150). (2021, July 02).

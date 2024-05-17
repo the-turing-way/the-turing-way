@@ -4,13 +4,13 @@ The Turing Way Newsletter: 1 September 2022
 
 Hi everyone,
 
-Happy end-of-August!☀️😎 
+Happy end-of-August!☀️😎
 
-This newsletter is coming a bit later to you all, after a mid-summer break for the month of July and August (which have been hot ones here in the UK). As always, this newsletter is absolutely full of a ton of updates from our community – so much in fact, that we're splitting it in two! 
+This newsletter is coming a bit later to you all, after a mid-summer break for the month of July and August (which have been hot ones here in the UK). As always, this newsletter is absolutely full of a ton of updates from our community – so much in fact, that we're splitting it in two!
 
 This update is focused on Community News updates, while our usual mid-month update will focus on updates to *The Turing Way* book. Stay tuned!
 
-* 🏃 **Check out Talks and Workshops** to learn more about talks that community leaders have given in the past few months. 
+* 🏃 **Check out Talks and Workshops** to learn more about talks that community leaders have given in the past few months.
 * 🔥 Catch up on our July and August Fireside chats on **'Navigating growth and scale to sustain open communities'** and **'Defining Open Infrastructure in  Different Contexts'"** on [Youtube](https://www.youtube.com/c/TheTuringWay)
 * ☕ The next **Collaboration Cafe** is happening on 7 September , 15:00 - 17:00 UTC+1. [See details](https://hackmd.io/@turingway/collaboration-cafe).
 
@@ -30,20 +30,20 @@ As usual, we have several recurring community calls happening in September. Don'
 ### Collaboration Cafes ☕
 
 This month, **Collaboration Cafes** are being hosted on 7 and 21 September 2022.
-As always, these calls are places for co-working, discussion, onboarding, and collaboration. 
-They take place from 14:00 - 16:00 UTC ([see in your time zone](https://arewemeetingyet.com/London/2022-09-15/15:00)). 
+As always, these calls are places for co-working, discussion, onboarding, and collaboration.
+They take place from 14:00 - 16:00 UTC ([see in your time zone](https://arewemeetingyet.com/London/2022-09-15/15:00)).
 Learn more in this shared HackMD: [hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe).
 
 ### Coworking Calls 💻🏡
 
-**Weekly coworking calls** are hosted every Monday from 11:00 - 12:00 London time ([in your time zone](https://arewemeetingyet.com/London/2022-06-23/15:00)). 
+**Weekly coworking calls** are hosted every Monday from 11:00 - 12:00 London time ([in your time zone](https://arewemeetingyet.com/London/2022-06-23/15:00)).
 These calls are accountable spaces for coworking on your contributions or discussing your idea for *The Turing Way*.
 Find the joining link on this shared HackMD: hackmd.io/@turingway/coworking-calls.
 
 ### Translation and Localisation Weekly Meetings 💻🏡
 
-The Translation and Localisation team hosts weekly open calls every Tuesday at 16:00 UTC ([in your time zone](https://arewemeetingyet.com/London/2022-06-21/16:00)). 
-These calls are for co-working on translation and localisation efforts across several languages, and for learning more about the work of the team. 
+The Translation and Localisation team hosts weekly open calls every Tuesday at 16:00 UTC ([in your time zone](https://arewemeetingyet.com/London/2022-06-21/16:00)).
+These calls are for co-working on translation and localisation efforts across several languages, and for learning more about the work of the team.
 *Thanks to Batool, Alejandro, Camila, Melissa, Andrea, Cigdam and Anne for participating in discussions and hands-on localisation work in Arabic, Korean, Portuguese, Spanish and Turkish!*
 For more information, join the #translation channel on [Slack](https://tinyurl.com/jointuringwayslack), and this [HackMD](https://hackmd.io/@1PPG0ptkTeW_qYfRy5S42Q/HJjYITE_c/edit).
 
@@ -64,7 +64,7 @@ _Illustration by Scriberia showing community as garden and members as gardners. 
 
 On 26 August 2022, we hosted a fireside chat on “Defining ‘open infrastructure’ in different contexts”.
 
-This fireside chat brought together different perspectives on ‘open infrastructure’ within and around research environments in order to ask the questions: what is open infrastructure anyway, for researchers and otherwise? How do these narratives and definitions of open infrastructure affect what kind of work is valued within them? 
+This fireside chat brought together different perspectives on ‘open infrastructure’ within and around research environments in order to ask the questions: what is open infrastructure anyway, for researchers and otherwise? How do these narratives and definitions of open infrastructure affect what kind of work is valued within them?
 
 Chaired by Rayya El Zein (Code for Science & Society) and Anne Lee Steele (The Turing Way), this panel featured insights from Richard Dunks (Invest in Open Infrastructure), Lillian Achom (Access Plus) and Sarah Gibson (2i2c). [Watch the recording on Youtube](https://www.youtube.com/watch?v=ZE2NXe74nSc&list=PLBxcQEfGu3DmBcSmt9GVfo4wN1KP1y2yl&index=8).
 
@@ -74,7 +74,7 @@ Chaired by Rayya El Zein (Code for Science & Society) and Anne Lee Steele (The T
 
 Last month on 29 July 2022, we hosted a next fireside chat will take place on the topic: **Navigating growth and scale to sustain open communities**.
 
-This Fireside chat brought together projects and communities across the open ecosystem to talk more about the shared questions, challenges, and trade-offs that come with ‘scaling’ communities – and steps they have taken within their own communities to address them. 
+This Fireside chat brought together projects and communities across the open ecosystem to talk more about the shared questions, challenges, and trade-offs that come with ‘scaling’ communities – and steps they have taken within their own communities to address them.
 
 Chaired by Alycia Crall (The Carpentries) and Anne Lee Steele (The Turing Way), this panel featured insights from Geoffrey Kateregga (Humanitarian OpenStreetMap Team), Patrick Mineault (xcorr neuroAI consulting) and Selene Yang (Wikimedia Foundation, Geochicas - OpenStreetMap). [Watch the recording on Youtube](https://www.youtube.com/watch?v=p0t_K5FNalU&t=17s).
 
@@ -100,7 +100,7 @@ _Re-watch the Graduation recordings on the [Open Life Science Youtube channel](h
 Congratulations to everyone who graduated from the fifth cohort of Open Life Science, including *The Turing Way* core team members Vicky Hellon, Achintya Rao, and Anne Lee Steele - as well as Emma Karoune and Malvika Sharan who were both mentors and mentees in the programme. 🎊🎓
 
 Congrats to more graduates & *The Turing Way* contributors from previous graduations, including Ismael Kherroubi García and Alan Turing Institute Research Engineering Group (REG) teammembers Callum Mole, Lydia France, and Luke Hare, who were mentored by Computational Biology Resource for EMBL Heidelberg (EMBL BioIT) team members Lisanna Paladin and Renato Alves.
- 
+
 Congrats to graduates and mentors who also participated in *The Turing Way* community: Arielle Bennett, Alejandro Coca-Castro, Batool Almarzouq, Patricia Herterich, Yo Yehudi, Emmy Tsang, Esther Plomp, Julien Colomb, Anne Fouilloux, Georgia Aitkenhead,  Elisee Jafsia, Laura Accion, Lena Karvovskaya, and Sara Villa. 🎊🌻
 
 ![Alt:Screenshot of Transform to Open Science program with NASA logo](https://i.imgur.com/CHdBXqH.png)
@@ -112,7 +112,7 @@ Many members of our community were selected to join the NASA TOPS program, which
 
 Participants include allies and friends from across the open science ecosystem as well as The Turing Way contributors, including Sara El-Gebali, Yo Yehudi, Esther Plomp, Batool Almarzouq, Melissa Black, Ismael Kherroubi Garcia, Saranjeet Kaur, Anne Fouilloux, Reina Camacho, and Elio Campitelli.
 
-Malvika Sharan was selected to join the NASA TOPS community panel for one year. Along with other members in the panel, she will advise on TOPS mission, plans, and future activities. 
+Malvika Sharan was selected to join the NASA TOPS community panel for one year. Along with other members in the panel, she will advise on TOPS mission, plans, and future activities.
 
 The NASA TOPs community panel serve as a representative of open science communities in these conversations; and speak to their experience with open science; lessons learned in conducting open science; and provide input on future steps to be taken by TOPS, TOPS partners, and the greater NASA science community. Malvika was also selected as the NASA TOPS OpenCore Subject Matter Expert to contribute to development of Open Results Curriculum to link resources from *The Turing Way* and her other work in Open Life Science.
 
@@ -138,11 +138,11 @@ Alejandro Coca-Castro, co-lead of *The Turing Way* Translation and Localisation 
 
 Andrea Sánchez-Tapia, co-lead of Translation and Localisation team recently co-authored a paper on ["Ten simple rules to host an inclusive conference"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010164) with other organisers of the useR! stastical computing conference.
 
-Authors include: Rocío Joo, Yanina Bellini  Saibene, Dorothea Hug Peter, Batool Almazrouq, and Laura Ación. Congratulations, team! :tada: 
+Authors include: Rocío Joo, Yanina Bellini  Saibene, Dorothea Hug Peter, Batool Almazrouq, and Laura Ación. Congratulations, team! :tada:
 
 ## Redefining the 'open' in OpenAI
 
-Jennifer Ding, a Research Application Manager at the Alan Turing Institute and core team member of *The Turing Way* recently released a blog about defining how 'open' is used in 'open AI'. Her blog features *The Turing Way* as an example of how researchers can co-create a definition and practice of open AI that meets the needs of more communities. Congratulations, Jen! :tada: [Read the blog here](https://www.turing.ac.uk/blog/what-defines-open-open-ai).  
+Jennifer Ding, a Research Application Manager at the Alan Turing Institute and core team member of *The Turing Way* recently released a blog about defining how 'open' is used in 'open AI'. Her blog features *The Turing Way* as an example of how researchers can co-create a definition and practice of open AI that meets the needs of more communities. Congratulations, Jen! :tada: [Read the blog here](https://www.turing.ac.uk/blog/what-defines-open-open-ai).
 
 ---
 
@@ -164,7 +164,7 @@ _It's been a busy few months of talks by and with community leaders. As always, 
 
 Throughout the month of August, Malvika and Anne have been working on planning efforts during what was called a "Turing Way Maintenance Week". You can read more about what this week tackled during this week in the [Community Research update](https://github.com/alan-turing-institute/the-turing-way/discussions/2552#discussioncomment-3385183)
 
-The second core/organisational team meeting is planned for 9 September. From there, we will be undergoing a period of  
+The second core/organisational team meeting is planned for 9 September. From there, we will be undergoing a period of
 
 ## Tweets & mentions
 
@@ -188,8 +188,8 @@ The second core/organisational team meeting is planned for 9 September. From the
 ## Opportunities
 - Alan Turing Institute: Research Assistant, AI Standards
     - ⏰ Apply by 5 September ([apply here](https://cezanneondemand.intervieweb.it/turing/jobs/research-assistant-ai-standards-26174/en/))
-    - 📍 London, UK 
-- mySociety: Action Lab 
+    - 📍 London, UK
+- mySociety: Action Lab
     - ⏰ Apply by 5th September (apply here)
     - 📍 Remote, UK-based [learn more here](https://www.datascienceforhealthequity.com/post/we-re-hiring-freelance-community-manager-for-dsxhe)
 - Data Science for Health Equity: Community Manager
@@ -197,16 +197,16 @@ The second core/organisational team meeting is planned for 9 September. From the
     - 📍 Remote, UK-based [learn more here](https://www.datascienceforhealthequity.com/post/we-re-hiring-freelance-community-manager-for-dsxhe)
 - Alan Turing Institute: Research Associate/Senior Research Associate, AI Standards
     - ⏰ Apply by 8 September ([apply here](https://cezanneondemand.intervieweb.it/turing/jobs/research-associatesenior-research-associate-ai-standards-26173/en/))
-    - 📍 London, UK 
-- Outreachy: Mentorship project submission 
+    - 📍 London, UK
+- Outreachy: Mentorship project submission
     - ⏰ Apply by 9 September ([apply here](https://www.outreachy.org/communities/cfp/))
     - 📍 Remote
 - TU Delft: Open Science and Academic Skills Teacher
     - ⏰ Apply by 11 September ([apply here](https://www.academictransfer.com/en/316682/open-science-and-academics-skills-teacher/))
-    - 📍 Delft, Netherlands 
+    - 📍 Delft, Netherlands
 - Invest in Open Infrastructure: Communications Associate
     - ⏰ Apply by 12 September ([apply here](https://investinopen.org/jobs/))
-    - 📍 London, UK 
+    - 📍 London, UK
 - Alan Turing Institute, Senior Community Manager, Data-Centric Engineering
     - ⏰ Apply by 25 September ([apply here](https://cezanneondemand.intervieweb.it/turing/jobs/senior-community-manager--datacentric-engineering-26568/en/))
     - 📍 London, UK
@@ -231,7 +231,7 @@ The second core/organisational team meeting is planned for 9 September. From the
 
 ## Calls for Submissions
 
-- Research Data Netherlands: Dutch data prize, netherlands, 3500 euros, 30 sept 
+- Research Data Netherlands: Dutch data prize, netherlands, 3500 euros, 30 sept
     - ⏰ Apply by 30th September (apply here)
     - 📍 Netherlands [learn more here](https://researchdata.nl/en/services/the-dutch-data-prize/)
 
@@ -243,7 +243,7 @@ The second core/organisational team meeting is planned for 9 September. From the
 - **Open Data Institute: Strategic Data Skills Course**
     - 🗓️ 14 September - 7 November 14:00 BST
     - ⏰ [Sign up here](https://theodi.org/event/strategic-data-skills-september-2022/)
-    - 📍 Remote, UK-based 
+    - 📍 Remote, UK-based
 - **Open Access Week**
     - 🗓️ 24 - 30 October (Worldwide, [info here](https://www.openaccessweek.org/))
 

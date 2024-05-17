@@ -8,11 +8,11 @@
 * Anne
 * Malvika
 * Cass
-* Eirini 
+* Eirini
 
 ## Topics/Rooms
 
-* Main room - 
+* Main room -
     * Tea Invites Review (first half hour)
     * governance (second half hour)
 * Inclusive Events Chapter
@@ -22,7 +22,7 @@
 * Chatty Coworking
 * Quiet Coworking
 
- 
+
 ## Notes
 * Question from Sophia: Can I ask a TTW style/formatting question if this is a natural break to ask it.
     * You can add a sentence here about ‘when to do external linking vs citing a resource’: https://the-turing-way.netlify.app/community-handbook/style#external-links

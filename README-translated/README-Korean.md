@@ -13,7 +13,7 @@ _The Turing Way_ 는 재생산 가능한 데이터 사이언스에 대한 가벼
 우리의 목표는 연구원들이 그들의 프로젝트를 시작할 때 필요한 모든 정보를 제공하여 마지막에 쉽게 재현할 수 있도록 하는 것이다.
 
 이것은 또한 박사 과정 학생, 박사후 과정, PI 그리고 자금 지원 팀이 “재현성의 책임” 중 어떤 부분에 영향을 미칠 수 있는지, 그리고 데이터 과학을 보다 효율적이고 효과적이며 이해하기 쉽게 하기 위하여 무엇을 해야 하는지 알도록 하는 것을 의미한다.
-내용 목록 : 
+내용 목록 :
 
 - [프로젝트에 대하여](#about-the-project)
 - [팀](#the-team)
@@ -32,9 +32,9 @@ _The Turing Way_에 대한 개요는 5:13초부터 시작한다.
 모든 결과가 향후 작업에서 독립적으로 검증되고 구축될 수 있도록 하는 것이 목표이다.
 이것은 때때로 말하기는 쉽지만 행하기는 어렵다.
 이러한 연구 결과를 공유한다는 것은 데이터 관리, 도서관학, 소프트웨어 개발 및 지속적인 통합 기술, 즉 학술 연구자와 데이터 과학자에게 널리 가르치거나 기대되지 않는 기술을 이해하는 것을 의미한다.
-이러한 활동들은 일반적으로 가르쳐지지 않기 때문에, 우리는 요구 사항과 새로운 기술 습득에 대한 부담이 이 세상에 처음 있는 개인들에게 위협적일 수 있다는 것을 인식한다. 
+이러한 활동들은 일반적으로 가르쳐지지 않기 때문에, 우리는 요구 사항과 새로운 기술 습득에 대한 부담이 이 세상에 처음 있는 개인들에게 위협적일 수 있다는 것을 인식한다.
 _The Turing Way_는 이전에 이러한 방식으로 일해 본 적이 없는 사람들에게도 재현 가능한 데이터 과학이 "너무 쉽게 하지 않을" 수 있도록 학생, 감독관, 자금 조달자, 저널 편집자를 지원하기 위한 안내서이다.
-여기에는 버전 관리, 분석 테스트, 미래 사용자와의 개방적이고 투명한 커뮤니케이션에 대한 교육 자료가 포함되며 Turing Institute 사례 연구 및 워크샵을 기반으로 한다. 
+여기에는 버전 관리, 분석 테스트, 미래 사용자와의 개방적이고 투명한 커뮤니케이션에 대한 교육 자료가 포함되며 Turing Institute 사례 연구 및 워크샵을 기반으로 한다.
 이 프로젝트는 공개적으로 개발되었으며, 우리의 github 저장소인 <https://github.com/the-turing-way/the-turing-way>에서 모든 질문, 의견 및 추천을 환영한다.
 
 ### The team
@@ -56,7 +56,7 @@ GitHub에 기여하는데 익숙하지 않거나 자신이 없는 경우 [Google
 DOI: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853)을 사용하여 프로젝트의 Zenodo 아카이브를 통해 _The Turing Way_를 참조할 수 있다.
 DOIs 를 사용하면 저장소를 보관할 수 있으며 학술 출판물에서 작업을 추적하는데 매우 유용하다.
 
-인용은 다음과 같다 : 
+인용은 다음과 같다 :
 
 > The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. <http://doi.org/10.5281/zenodo.3233986>
 
@@ -68,7 +68,7 @@ DOIs 를 사용하면 저장소를 보관할 수 있으며 학술 출판물에�
 ### _The Turing Way_ 삽화 인용
 
 _The Turing Way_ 삽화는 2019년 5월 17일 맨체스터, 2019년 5월 28일과 2020년 2월 21일에 런던에서  [_The Turing Way_ book dashes](https://github.com/the-turing-way/the-turing-way/tree/main/workshops/book-dash)의 일부분으로 [Scriberia](https://www.scriberia.co.uk/)의 예술가에 의해 만들어졌다.
-그들은 대체적으로 핸드북, 커뮤니티에서 협동하는 노력, _The Turing Way_ 프로젝트를 통해 다양한 내용들을 묘사하였다. 
+그들은 대체적으로 핸드북, 커뮤니티에서 협동하는 노력, _The Turing Way_ 프로젝트를 통해 다양한 내용들을 묘사하였다.
 이런 삽화들은 Zenodo([https://zenodo.org/record/3695300)](https://zenodo.org/record/3695300) 에서 볼 수 있으며 이는 CC-BY license를 사용한다.
 
 
@@ -84,7 +84,7 @@ _The Turing Way_ 삽화는 2019년 5월 17일 맨체스터, 2019년 5월 28일�
 
 ### 연락 방식
 
-우리는 gitter 채팅방이 있으며  <https://gitter.im/the-turing-way/the-turing-way>에 들리는 것을 매우 반긴다. 
+우리는 gitter 채팅방이 있으며  <https://gitter.im/the-turing-way/the-turing-way>에 들리는 것을 매우 반긴다.
 저 채팅방은 [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org)의  [Matrix](https://matrix.org)와도 동기화 되어 있으며 당신이 원한다면 우리는 언제나 참여하는 것을 환영한다.
 우리는 우리의 프로젝트가 매달 업데이트 되는 사항들을 메일로 보내주는 서비스도 진행한다.
 <https://tinyletter.com/TuringWay>을 구독하세요.

@@ -7,7 +7,7 @@ Hello Turing Way friends!
 In June, amidst the pandemic and lockdowns, our incredible Book Dash contributors and reviewers continued to collaborate and work on their contributions over the last month.🙏
 
 Thanks to them (you!):
-- 🎊 we published 8 chapters (with 20 subchapters) across guides for communication, collaboration and ethical research! 
+- 🎊 we published 8 chapters (with 20 subchapters) across guides for communication, collaboration and ethical research!
 - 📹 we also published videos from the Community Share out events that include stories and ideas behind the illustrations we recently released on [Zenodo](https://zenodo.org/record/3332807).
 
 If you are wondering where to start, [email Malvika](mailto:msharan@turing.ac.uk) who would love to chat about your work and find the right starting point for you in _The Turing Way_.
@@ -26,9 +26,9 @@ You are invited to attend one or multiple of our online community calls listed b
 
 **Onboarding and Catch-up** calls are hosted from 15:00 to 16:00 London time ([see in your local time](http://time.unitarium.com/utc/14)) on 2, 9, 16, 23 and 30 July.
  on 2, 9, 16, 23 and 30 July.
-* These calls feature open discussions with new and existing community members and onboard them in The Turing Way project. 
+* These calls feature open discussions with new and existing community members and onboard them in The Turing Way project.
 
-**Collaboration Cafes** will be hosted on 7 and 21 July from 15:00 - 17:00 London time ([see in your local time](http://time.unitarium.com/utc/14)). 
+**Collaboration Cafes** will be hosted on 7 and 21 July from 15:00 - 17:00 London time ([see in your local time](http://time.unitarium.com/utc/14)).
 * These are 2-hour long calls that feature discussions on topics of shared interest in _The Turing Way_ and several short quiet working sessions (see [the chapter](https://the-turing-way.netlify.app/community-handbook/coworking.html)).
 
 **Weekly Coworking** calls are 1-hour long calls where you can catch up with _The Turing Way_ team members and other contributors and get some of your tasks done that need focused time or feedback.
@@ -53,7 +53,7 @@ She writes “Knowing the law, policy, and human rights that underpin research e
 
 This is an extended draft of an earlier chapter that describes what key documents should be added to a project repository.
 It now features examples from _The Turing Way_ repository and resources from the Open Life Science training program.
--  Thanks to Lotty Coupat for writing [a case study from the AutSpaces project](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-roadmapping.html) that describes how to set a roadmap for your project. 
+-  Thanks to Lotty Coupat for writing [a case study from the AutSpaces project](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-roadmapping.html) that describes how to set a roadmap for your project.
 - Thanks to Andreea Avramescu, Helen Nicholls and Becki Green from the ‘Engage @ Turing ’ graduate programme for providing examples to [set up repositories for a software project](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-advanced.html).
 
 ### [6 new chapters in the Guide for Communication](https://the-turing-way.netlify.app/communication)
@@ -76,19 +76,19 @@ Read the following chapters to learn how to communicate your work with a wider a
 
 ![Picture of Marta. She is a white woman, with light brown hair. She is wearing a black sleeveless top and sunglasses. She is holding a red bottle with the soap solution and blowing soap bubbles]images/2021-06-marta.png)
 
-[Marta Mangiarulo](https://the-turing-way.netlify.app/afterword/contributors-record.html#marta-mangiarulo) is a Research Assistant and Teaching Fellow in Psychology at the University of Leicester. 
-Her research interests involve probabilistic inference, social hypothesis testing, and reasoning biases. 
+[Marta Mangiarulo](https://the-turing-way.netlify.app/afterword/contributors-record.html#marta-mangiarulo) is a Research Assistant and Teaching Fellow in Psychology at the University of Leicester.
+Her research interests involve probabilistic inference, social hypothesis testing, and reasoning biases.
 She is also passionate about science communication and research dissemination and interested in replicability, open science issues, and the interface between cognitive and social aspects in social psychology. As a two times Book Dash attendee, Marta reflects on her participation:
-> In the **November 2020 book dash**, I used GitHub for the first time! I started familiarising myself with the GitHub environment and learned how to collaborate through it to provide valuable contributions to the project. 
-> My work during this book dash had mostly been individual, but in the **May 2021 book dash**, I was very happy to start where I had left off. 
-> I collaborated with others, made relevant contributions and I have a clear idea of where I would like to go next which is much more than what I was hoping for! 
+> In the **November 2020 book dash**, I used GitHub for the first time! I started familiarising myself with the GitHub environment and learned how to collaborate through it to provide valuable contributions to the project.
+> My work during this book dash had mostly been individual, but in the **May 2021 book dash**, I was very happy to start where I had left off.
+> I collaborated with others, made relevant contributions and I have a clear idea of where I would like to go next which is much more than what I was hoping for!
 > I loved taking part in the Book Dash, it is such a rewarding experience above and beyond its material outputs.
 
 ## Relevant news and Resources
 
 ### Open Life Science Application Call is Open!
 
-[Open Life Science](https://openlifesci.org/) (OLS) is a **16-week mentoring and training program** that upskills researchers in open and reproducible research and empowers them to become open science ambassadors in their communities. 
+[Open Life Science](https://openlifesci.org/) (OLS) is a **16-week mentoring and training program** that upskills researchers in open and reproducible research and empowers them to become open science ambassadors in their communities.
 We have opened a call for applications for the next cohort, OLS-4, which will take place from September 2021 to January 2022. The deadline to submit your application is **15 July 2021**. Visit https://openlifesci.org for details.
 OLS has received the [Turing Online Training Grant](https://www.applieddatascience.qmul.ac.uk/news/3817/the-turing-online-training-call-funding-opportunity), to specifically train and mentor the Turing and The Turing Way members under the collaboration name **OLS for Turing** (see [promotion pack](https://docs.google.com/document/d/e/2PACX-1vTH0hdIN8EeWdH_v-_LW0Yiy5cLD9BeATLwvzBuUrlooFqZxJ_DIX7tIcA1H2WfXR3j3RJ34wgxnfzs/pub)). We will also offer microgrants to our participants to ensure that they can equitably participate in the program.
 
@@ -100,7 +100,7 @@ OLS has received the [Turing Online Training Grant](https://www.applieddatascien
 
 - Kirstie Whitaker chaired the panel [Breaking the code: Alan Turing’s legacy in 2021](https://www.turing.ac.uk/events/breaking-code-alan-turings-legacy-2021).
 Ahead of the new Turing £50 banknote and his 109th birthday, The Alan Turing Institute hosted a virtual lunchtime panel discussion exploring the life and legacy of Alan Turing.
-Speakers shared their personal stories as well as Turing’s scientific legacy as one of the founding fathers of artificial intelligence and modern computing. 
+Speakers shared their personal stories as well as Turing’s scientific legacy as one of the founding fathers of artificial intelligence and modern computing.
 Video recording from the session is available to watch online.
 
 - On 21 May 2021, we hosted two community share-outs demonstrating chapter ideas, drafts and illustrations our Book Dash participants generated within four days of the event.
@@ -108,7 +108,7 @@ You can watch the recordings [on YouTube](https://www.youtube.com/playlist?list=
 
 Videos from different sessions at Collaboration Workshop 2021 have been made available on the [Software Sustainability Institute’s YouTube channel](https://www.youtube.com/softwaresaved).
 Here are the links to _The Turing Way_ related videos.
-- [Lightning talk on Activism](https://www.youtube.com/watch?v=udv0z-_80zo) by Arielle Bennett. 
+- [Lightning talk on Activism](https://www.youtube.com/watch?v=udv0z-_80zo) by Arielle Bennett.
 A [chapter on activism](https://the-turing-way.netlify.app/ethical-research/activism.html) can be read in our Guide for Ethics.
 - [Mini-workshop](https://www.youtube.com/watch?v=Xv1jCOskkgM) by Batool Almarzouq, Emma Karoune and Malvika Sharan.
 Notes from this workshop have been summarised as a subchapter in [Pull Request #1936](https://github.com/alan-turing-institute/the-turing-way/pull/1936), which invites reviews and suggestions.
@@ -124,14 +124,14 @@ Slides on Zenodo: [10.5281/zenodo.4742232](https://zenodo.org/record/4742232).
 A video of their recorded talk is available on [YouTube](https://www.youtube.com/watch?v=4_UrmiVv4bI&t=3s).
 Laura was also a panellist in the session “Impact of gender diversity on the use of digital technologies within human rights sectors”.
 
-On 14 June 2021, Kirstie gave a talk “Empowering researchers in reproducible, ethical, inclusive and collaborative science” at Coding in the Open hosted by EdinbR and PyData Edinburgh. 
+On 14 June 2021, Kirstie gave a talk “Empowering researchers in reproducible, ethical, inclusive and collaborative science” at Coding in the Open hosted by EdinbR and PyData Edinburgh.
 Slides on Zenodo: [10.5281/zenodo.4944375](https://zenodo.org/record/4944375).
 On 29 June, she also gave a talk “Continuous Integration for Ethical, Collaborative Data Science” at the University of Exeter Institute for Data Science and Artificial Intelligence (IDSAI) Data Science Week on 29 June 2021.
 Slides on Zenodo: [10.5281/zenodo.5041133](https://zenodo.org/record/5041133).
 
-On 15 June 2021, Malvika presented a seminar on remote and distributed collaboration at the Turing lunch and learn series. 
+On 15 June 2021, Malvika presented a seminar on remote and distributed collaboration at the Turing lunch and learn series.
 Slides on Zenodo: [10.5281/zenodo.4955465](https://zenodo.org/record/4955465).
-She gave a talk “The Turing Way: Building a Guide to Reproducible, Ethical and Collaborative Research” at the Inclusive Data Science seminar series on 17 June 2021. 
+She gave a talk “The Turing Way: Building a Guide to Reproducible, Ethical and Collaborative Research” at the Inclusive Data Science seminar series on 17 June 2021.
 Slides on Zenodo: [10.5281/zenodo.4969380](https://zenodo.org/record/4969380).
 On 23 June 2021 she talked about “Exchanging Research Practices through Open Source Communities of Practice” at the BERG Seminar 8: Open science and transparency in modelling.
 Slides on Zenodo: [10.5281/zenodo.5017713](https://zenodo.org/record/5017713).

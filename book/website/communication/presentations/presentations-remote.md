@@ -6,7 +6,7 @@ Whether this occurs in a live or pre-recorded event, some factors should be paid
 
 ## Visual Elements of the Presentation
 
-A presentation for a wide audience can include photos, illustrations, graphics and icons. 
+A presentation for a wide audience can include photos, illustrations, graphics and icons.
 There are many sites from which you can obtain these types of resources for free (with attribution) or paid to use in your presentations.
 
 Some of the websites that offer these resources for free are:
@@ -26,7 +26,7 @@ Presenting a talk through a digital medium involves tackling some technical chal
 
 * Use captions during the talk to aid accessibility.
 * A useful step to ensure that people with different devices (and screens) can appreciate the video's content is to develop the presentation using your smallest screen.
-* Even if you are only sharing a slide deck, seeing you on video can help your audience to keep their concentration on the presentation. 
+* Even if you are only sharing a slide deck, seeing you on video can help your audience to keep their concentration on the presentation.
 You don't need the best camera or video post-processing software, but [managing your lighting](https://www.youtube.com/watch?v=rGcAM1CNEU0&ab_channel=Wirecutter) will do wonders for your video quality.
 
 ### Sound Setting
@@ -36,7 +36,7 @@ You don't need the best camera or video post-processing software, but [managing 
 
 ### Video Recording
 
-* The simplest way to record the contents of your talk, including your video, voice and presentation, is to record it using a videoconference service (like Zoom) or recording software like [OBS](https://obsproject.com). 
+* The simplest way to record the contents of your talk, including your video, voice and presentation, is to record it using a videoconference service (like Zoom) or recording software like [OBS](https://obsproject.com).
 See [this guide](https://software.ac.uk/fellowship-programme/2019/application-video-guide) by the Software Sustainability Institute on how to configure OBS for screen recording.
 * If you are recording your talk to present it asynchronously you can use platforms like [Amara](https://amara.org) to generate your subtitles from the video.
 
@@ -54,8 +54,8 @@ For event organisers, inviting experts as speakers can increase the popularity o
 
 An invited talk is often expected to be delivered for free as it benefits both the organisers and the speakers.
 However, it is not a fair situation for all, especially when people have personal financial needs, or if they are self-funded.
-In some cases, honoraria are offered to speakers by event organisers to recompense for the talk preparation time and cover related costs such as accessibility requirements for remote events, or travel and accommodation for in-person events. 
-How much they are offered will vary depending on the organisation (non-profit or private sector), nature of participation (such as short talk, panel discussion or seminar) and also the status of the talk, for example, you might be offered more for being a keynote speaker at a large conference. 
+In some cases, honoraria are offered to speakers by event organisers to recompense for the talk preparation time and cover related costs such as accessibility requirements for remote events, or travel and accommodation for in-person events.
+How much they are offered will vary depending on the organisation (non-profit or private sector), nature of participation (such as short talk, panel discussion or seminar) and also the status of the talk, for example, you might be offered more for being a keynote speaker at a large conference.
 Many academics are never offered or do not accept honoraria payments for many personal (tax, admin overhead in handling small fund, sufficient salary or personal interest in the event) or professional (their organisation policy prohibits the receiving of honoraria or they donate back to the host organisation) reasons.
 
 To have a diverse and inclusive academic community, we need to be aware that not all researchers can afford to dedicate their time to volunteer/unpaid labour or have the money to cover the cost of giving an invited talk.

@@ -28,9 +28,9 @@ Psychology:
 Open Science Collaboration (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716-aac4716. https://doi.org/10.1126/science.aac4716
 
 ### Non-computational/analog reproducibility
- 
+
 Biosciences:
-Baker, M. (2015). Reproducibility crisis: Blame it on the antibodies. Nature, 521(7552), 274–276. https://doi.org/10.1038/521274a 
+Baker, M. (2015). Reproducibility crisis: Blame it on the antibodies. Nature, 521(7552), 274–276. https://doi.org/10.1038/521274a
 
 ## Reproducible workflows
 Lawrence, N. D. (2017). Data readiness levels. arXiv preprint arXiv:1705.02245. https://arxiv.org/abs/1705.02245

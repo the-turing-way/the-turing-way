@@ -2,7 +2,7 @@
 
 ## Regular updates
 Once per month, we will write an update on the project's progress, inviting others to contribute to new documents or attend our talks or workshops.
-The update will be posted on several blogs that we have access to and be promoted on social media. 
+The update will be posted on several blogs that we have access to and be promoted on social media.
 Updates will also be sent out to several mailing lists and as a newsletter to anyone who has raised interest and provided their email address.
 
 ### Blogs
@@ -36,7 +36,7 @@ The following mailing lists have been identified as relevant to the project.
 - Turing slack channel
 
 ## Conferences
-Conferences will be a great opportunity to spread the word. 
+Conferences will be a great opportunity to spread the word.
 The following conferences and workshops in the time period from now to April will can be relevant to present the Turing Way and get feedback on the project:
 
 - UKRI Cloud Workshop, 12 Feb 2019, London\
@@ -46,8 +46,8 @@ The following conferences and workshops in the time period from now to April wil
   Attendee(s): Kirstie, Alex, Becky, Louise, Sarah, Patricia
 
 - Inaugural meeting of the UK network of Open Science Working Groups, 11 April 2019, Aston University, Birmingham\
-  Attendee(s): Kirstie 
-  
+  Attendee(s): Kirstie
+
 - csv,conf,v4, 8 - 9 May 2019, Portland, OR, USA\
   Attendee(s): Kirstie
 
@@ -91,7 +91,7 @@ Any blog posts and announcements will be promoted through the project members' T
 - @rachaelevelyn
 
 ## Workshops
-The project team will run 3 workshops. 
+The project team will run 3 workshops.
 * [Manchester - 1st March](https://www.eventbrite.co.uk/e/boost-your-research-reproducibility-with-binder-manchester-registration-55331997494)
 * [London - 12th March](https://www.eventbrite.co.uk/e/boost-your-research-reproducibility-with-binder-london-registration-55337162944)
 * [Sheffield - 18th March](https://www.eventbrite.co.uk/e/build-a-binderhub-registration-55336756729)

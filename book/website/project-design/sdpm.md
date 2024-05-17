@@ -18,7 +18,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 (pd-sdpm-summary)=
 ## Summary
 
-In this chapter, we describe specific ways that you can manage sensitive data. 
+In this chapter, we describe specific ways that you can manage sensitive data.
 
 This includes:
 * Informed consent
@@ -29,4 +29,4 @@ This includes:
 ## Motivation
 
 Researchers need to conform to legal and ethical restrictions when working with sensitive data.
-There are many ways that you can do this and it will depend on the type of data that you are analysing. 
+There are many ways that you can do this and it will depend on the type of data that you are analysing.

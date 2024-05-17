@@ -22,9 +22,9 @@ Read on for more details on these topics and other updates from _The Turing Way_
 
 *Building a healthy community. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.*
 
-### Collaboration Cafes 
+### Collaboration Cafes
 
-Collaboration Cafes will take place on 04 August and 18 August 2021 from 15:00 - 17:00 London time ([see in your timezone](http://time.unitarium.com/utc/14)). 
+Collaboration Cafes will take place on 04 August and 18 August 2021 from 15:00 - 17:00 London time ([see in your timezone](http://time.unitarium.com/utc/14)).
 In addition to the 'Pomodoro' co-working sessions, we will use this month’s Collaboration Cafe to review how these meetings have been for you over the last year.
 We will also invite volunteers to host future calls and propose new ideas to make such events more sustainable and beneficial for you going forward.
 
@@ -38,7 +38,7 @@ You are welcome to join if you would like to test, try and apply open, reproduci
 
 Sign up and find more details in this shared HackMD: [https://hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call).
 
-### Onboarding Calls 
+### Onboarding Calls
 
 Over the last three months, we have scheduled and hosted onboarding calls.
 Unfortunately, they have not been effective at reaching members who are interested in using or contributing to _The Turing Way_ but don’t know where to start.
@@ -62,12 +62,12 @@ We hope to share more details in the next newsletter, and cross-post them on Twi
 
 We’re delighted to announce that [Kirstie Whitaker](https://www.turing.ac.uk/people/researchers/kirstie-whitaker) has moved from her role as Programme Lead to Programme Director of [Tools, practices and systems](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems).
 Kirstie is the project lead of _The Turing Way_.
-Last year, she became the Institute’s first Programme Lead for Tools, practices and systems with the intention of building the programme – her new title acknowledges the growth of the programme and her role alongside it. 
+Last year, she became the Institute’s first Programme Lead for Tools, practices and systems with the intention of building the programme – her new title acknowledges the growth of the programme and her role alongside it.
 Our heartiest congratulations to Kirstie on this new role.
 In her words:
 
-> "I've so enjoyed getting to know even more people around the Turing! 
-> From talks on differential privacy in our monthly meet ups, Thursday coffee chats [at the institute] getting to meet new postdocs and learning about their projects, Collaboration Cafes with _The Turing Way_, and even having folks come to my office hours! 
+> "I've so enjoyed getting to know even more people around the Turing!
+> From talks on differential privacy in our monthly meet ups, Thursday coffee chats [at the institute] getting to meet new postdocs and learning about their projects, Collaboration Cafes with _The Turing Way_, and even having folks come to my office hours!
 > I hope I'll get to meet even more folks and promote collaborative and inclusive data science across the Institute.... and beyond!"
 
 ---
@@ -105,12 +105,12 @@ They harmonise how we provide information in these two locations and worked with
 
 ### New Chapters and Updates from the Handbook
 
-- **Overview of Project Design**: Don't know where to start your reproducible project journey from? 
+- **Overview of Project Design**: Don't know where to start your reproducible project journey from?
 Check out the [Overview chapter in the Guide to Project Design’]( https://the-turing-way.netlify.app/project-design/pd-overview.html).
 Thanks to the massive curation and co-authoring work by Mariana Vivas that you can now find the most important references for designing and starting your research project in one single location.
 Thanks also go to Nina di Cara for reviewing this chapter to ensure that information is provided in a structured manner.
 There are five subchapters, each discussing different aspects such as collaboration, communication, version control, licensing, tool selection, documentation and publication.
- 
+
 - **Linking Research Objects**: Esther Plomp, among several other chapters in the book, has co-authored a chapter on [Making Research Objects Citable](https://the-turing-way.netlify.app/communication/citable).
 She recently merged a new chapter, [Linking Research Objects](https://the-turing-way.netlify.app/communication/citable/citable-linking.html) that described how linking your data, code and article can ensure that your readers can find all research objects easily.
 Approaches described in this chapter can help increase the visibility of your research outputs, while you receive credit for them.
@@ -131,11 +131,11 @@ We are sharing the following interesting issues in the project that we hope you 
 
 - **Create an image gallery with illustrations**: Over the last five Book Dash events, we have generated re-usable illustrations that are available on [Zenodo](https://zenodo.org/record/3332807).
 They also exist in our [GitHub repository]( https://github.com/alan-turing-institute/the-turing-way/tree/master/book/website/figures) so that they can be easily linked to different chapters.
-However, browsing them is not easy either on Zenodo or GitHub, which makes it hard for many people to find suitable illustrations that they can use or refer to in their work. 
-If you know how we can visualise these illustrations in our online book, please comment under [issue #2046](https://github.com/alan-turing-institute/the-turing-way/issues/2046). 
+However, browsing them is not easy either on Zenodo or GitHub, which makes it hard for many people to find suitable illustrations that they can use or refer to in their work.
+If you know how we can visualise these illustrations in our online book, please comment under [issue #2046](https://github.com/alan-turing-institute/the-turing-way/issues/2046).
 
 - **Digital accessibility**: We recommend our contributors provide [alt text]( https://supercooldesign.co.uk/blog/how-to-write-good-alt-text) to describe their images.
-However, we have also learned that not all image descriptions are effective for screen readers. 
+However, we have also learned that not all image descriptions are effective for screen readers.
 We would like to invite you to review and update our existing alt text and help document tips to improve description as well as common mistakes to avoid.
 Please see more details in [issue #2043](https://github.com/alan-turing-institute/the-turing-way/issues/2043).
 
@@ -144,15 +144,15 @@ To address this, we will be working with the Turing Research Software Engineerin
 For example, people with a different question might want to have a different starting point in the book, or they should be able to navigate curated sets of chapters based on user personas.
 If you have similar, or even better ideas or any UX/UI wishes in _The Turing Way_, please comment under [issue #2034](https://github.com/alan-turing-institute/the-turing-way/issues/2034).
 
-- **Translated versions of README files**: Since the English version of the README file has been updated, the translated versions in 8 languages (Korean, Dutch, French, Indonesian, German, Italian, Portuguese and Spanish) need to be updated too. 
-We would really appreciate any help with getting the new additions to the README file translate. 
+- **Translated versions of README files**: Since the English version of the README file has been updated, the translated versions in 8 languages (Korean, Dutch, French, Indonesian, German, Italian, Portuguese and Spanish) need to be updated too.
+We would really appreciate any help with getting the new additions to the README file translate.
 Please find more details in [issue #2051](https://github.com/alan-turing-institute/the-turing-way/issues/2051).
 
 Don’t find these issues interesting? Please browse more than 300 open issues on our GitHub repository.
 You are welcome to [get in touch with Malvika](mailto:msharan@turing.ac.uk) if you have an idea and you don’t see them being discussed.
- 
+
 ---
- 
+
 ## Acknowledgements and Celebrations
 
 ### Contributor in Focus: FAIR Cookbook Project Team
@@ -164,16 +164,16 @@ The FAIR Cookbook editorial board members, **Susanna-Assunta Sansone and Philipp
 ![Image shows a woman reading data recipes from the FAIR cookbook and reproducing them in her project. This process is shown as a cookie baking process.](images/2021-07-faircookbook.png)
 
 *FAIR Cookbook’s data recipes. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.*
- 
-FAIR Cookbook features relevant chapters from _The Turing Way_. 
-Similarly, The Turing Way features the project and provides an impact story titled From FAIR Co-Author to FAIR Doer by Susanna-Assunta Sansone (a co-lead of the FAIR Cookbook project). 
+
+FAIR Cookbook features relevant chapters from _The Turing Way_.
+Similarly, The Turing Way features the project and provides an impact story titled From FAIR Co-Author to FAIR Doer by Susanna-Assunta Sansone (a co-lead of the FAIR Cookbook project).
 To promote a culture of cooperation over competition among other open source projects, they wrote a chapter Leveraging the Turing Way Book sharing how a “collaborative meeting” at _The Turing Way_ Book Dash Bootstrapped the FAIR Cookbook project.
 We encourage you to check out their [handbook](fairplus.github.io/the-fair-cookbook) and contribute FAIR examples from your work.
 
 - **Highlight your resources on _The Turing Way_**: _The Turing Way_ is a domain-independent handbook to data science and research practices.
-We actively support and collaborate with projects, teams and organisations that are building upon The Turing Way and provide specific guidance in their fields. 
+We actively support and collaborate with projects, teams and organisations that are building upon The Turing Way and provide specific guidance in their fields.
 These projects are listed as [collaborating organisations and projects](https://the-turing-way.netlify.app/afterword/contributors-record.html#collaborating-organisations-and-projects) and are actively highlighted in the community, such as the FAIR Cookbook.
-Does your project use, reference and/or build upon _The Turing Way_? 
+Does your project use, reference and/or build upon _The Turing Way_?
 Please get in touch with us to discuss how we can highlight your project.
 You can also comment under GitHub [issue #2017]( https://github.com/alan-turing-institute/the-turing-way/issues/2017).
 
@@ -197,30 +197,30 @@ We extend our congratulations to Paul Owoicho and Sam van Stroud for being short
 - Making your research outputs accessible to wider audiences. (2021, July 07). Retrieved from https://www.software.ac.uk/blog/2021-07-07-making-your-research-outputs-accessible-wider-audiences
 - Annual Report 2020-21. (2021, July 28). Retrieved from https://www.turing.ac.uk/sites/default/files/2021-07/turing_annual-report-2021_final_0.pdf (page 59)
 - Why we discuss "ally skills" in open science. (2021, July 05). Retrieved from https://www.software.ac.uk/blog/2021-07-05-why-we-discuss-ally-skills-open-science
-- PhD tips – How to ask a question after a seminar - Elisa Granato. (2021, July 14). Retrieved from http://elisagranato.com/phd-tips-asking-a-question-after-a-seminar 
+- PhD tips – How to ask a question after a seminar - Elisa Granato. (2021, July 14). Retrieved from http://elisagranato.com/phd-tips-asking-a-question-after-a-seminar
 
 ### Talks and Workshops
- 
-- On 5 July 2021, Vanessa Pope, Sophia Batchelor, Mishka Nemes and Sarah Gibson delivered a workshop at the Summer conference organised by the Energy and Environment Institute, University of Hull. 
+
+- On 5 July 2021, Vanessa Pope, Sophia Batchelor, Mishka Nemes and Sarah Gibson delivered a workshop at the Summer conference organised by the Energy and Environment Institute, University of Hull.
 You can find a short talk by Vanessa and Introductory GitHub Training material on Zenodo: [https://zenodo.org/record/5070361](https://zenodo.org/record/5083747)
-- On 12 July 2021, Malvika Sharan delivered a plenary talk “The Turing Way Guide to Reproducible, Ethical and Collaborative Research” at the inaugural conference of SORTEE (Society of Open, Reliable, and Transparent Ecology and Evolutionary Biology) (slides on [Zenodo](https://zenodo.org/record/5083747)). 
+- On 12 July 2021, Malvika Sharan delivered a plenary talk “The Turing Way Guide to Reproducible, Ethical and Collaborative Research” at the inaugural conference of SORTEE (Society of Open, Reliable, and Transparent Ecology and Evolutionary Biology) (slides on [Zenodo](https://zenodo.org/record/5083747)).
 You can watch her talk, along with five other plenary talks on the [YouTube playlist](https://www.youtube.com/playlist?list=PLqTOVbRSdsARz1idHT3KkG1Z5xJeIoULk).
 - Martina Vilas, Malvika Sharan and Sambit Panda co-chaired a mini-symposium on “Biology and Neuroscience” at the SciPy 2021.
 On 15 July, as a part of this mini-symposium, Martina moderated an inspiring roundtable discussion "Current challenges in open source software development in biology and neuroscience", with Adina Wagner, Caleb Kibet, Hao Ting, and Sambit (on behalf of Joshua Vogelstein).
 We hope to share the video recording from this session when that is available.
 
 ---
- 
+
 ### Tweets and Mentions
 
 ![Screenshots of four tweet described below](images/2021-07-tweetcollage.png)
 
 ***1** Tweet by [Writing For Research](https://twitter.com/Write4Research/status/1417508660281061383?s=20) Twitter account sharing the illustration showing ‘reproducible’, ‘replicable’, ‘robust’ and ‘generalisable’.
 **2** Tweet by [Esther Plomp](https://twitter.com/PhDToothFAIRy/status/1413181332147015683?s=20) sharing a slide from Heidi Siebold’s UseR keynote that you can watch on [YouTube](youtu.be/rI8CW16a6M4).
-**3** Tweet by [Sarah I. Murphy](https://twitter.com/SarahMurphy39/status/1417882443978313731?s=20) linking to the Guide for Reproducible Research. 
+**3** Tweet by [Sarah I. Murphy](https://twitter.com/SarahMurphy39/status/1417882443978313731?s=20) linking to the Guide for Reproducible Research.
 **4** Tweet by [Katherina Drakoulaki](https://twitter.com/KDrakoulaki/status/1415988513212964868?s=20) indicating that she uses _The Turing Way_ for data and open science-related practices in her PhD.*
- 
- 
+
+
 ## Connect with us!
 
 - [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)

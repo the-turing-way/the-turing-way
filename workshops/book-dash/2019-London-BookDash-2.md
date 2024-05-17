@@ -12,7 +12,7 @@
 
 * Rachael Ainsworth [@rainsworth](https://github.com/rainsworth/)
 * Eric Daub [@edaub](https://github.com/edaub)
-* Sarah Gibson [@sgibson91](https://github.com/sgibson91) 
+* Sarah Gibson [@sgibson91](https://github.com/sgibson91)
 * Oscar Giles [@OscartGiles](https://github.com/OscartGiles)
 * Cassandra Gould van Praag [@cassgvp](https://github.com/cassgvp)
 * Michael Grayling [@mjg211](https://github.com/mjg211)
@@ -24,7 +24,7 @@
 * Eirini Malliaraki [@rockita](https://github.com/rockita)
 * Lachlan Mason [@masonlr](https://github.com/masonlr)
 * Alexander Morley [@alexmorley](https://github.com/alexmorley)
-* Susanna-Assunta Sansone [@SusannaSansone](https://github.com/SusannaSansone) 
+* Susanna-Assunta Sansone [@SusannaSansone](https://github.com/SusannaSansone)
 * Malvika Sharan [@malvikasharan](https://github.com/malvikasharan)
 * Camila Rangel Smith [@crangelsmith](https://github.com/crangelsmith)
 * Nadia Soliman [@Nadiasoliman](https://github.com/nadiasoliman)
@@ -41,12 +41,12 @@ Our goal for the book dash was to bring together participants enthusiastic about
 We held a networking event the evening prior to the book dash as a reward and thanks for taking time out to work on the project.
 We had an icebreaker for participants to get to know each other and lightning talks where we prompted participants to share unique experiences, expertise or promote any projects that they're working on.
 There was a great diversity of lightning talks which were really fun:
-* Danbee talked about her science fiction graphic novel that combines her neuroscience PhD research with a speculation on how the next 100 years might play out, given our current intellectual, environmental, and socio-political landscape. Titled *[The First VIRS](http://www.danbeekim.org/VIRS)*, which stands for Vigilante Intergalactic Roustabout Scholar. :art: 
-* Sarah brought along some of her cross stitching and discussed how she uses it as a form of self care as she finds it hard to switch off sometimes. She likes that it's methodical work like an ink jet printer, a “glorified form of pixel art”, and that it can get really sassy: “[I’ve got 99 problems but a stitch ain’t one](https://www.goodreads.com/book/show/31947717-i-got-99-problems-but-a-stitch-ain-t-one)”. :tipping_hand_woman: 
+* Danbee talked about her science fiction graphic novel that combines her neuroscience PhD research with a speculation on how the next 100 years might play out, given our current intellectual, environmental, and socio-political landscape. Titled *[The First VIRS](http://www.danbeekim.org/VIRS)*, which stands for Vigilante Intergalactic Roustabout Scholar. :art:
+* Sarah brought along some of her cross stitching and discussed how she uses it as a form of self care as she finds it hard to switch off sometimes. She likes that it's methodical work like an ink jet printer, a “glorified form of pixel art”, and that it can get really sassy: “[I’ve got 99 problems but a stitch ain’t one](https://www.goodreads.com/book/show/31947717-i-got-99-problems-but-a-stitch-ain-t-one)”. :tipping_hand_woman:
 * Cassandra told us about her past, present, future. During her PhD, she would swear at her computer because her analysis killed the machine. Colleagues asked her, why aren’t you using High Performance Computing (HPC)? The switch transformed the work she did then and now. She now wants to bring [research software engineering (RSE)](https://researchsoftware.org/) support to everyone. She's applying for funding for 3 postdocs on a fractional basis to establish an RSE department. She wants to know: what kind of work can this newly developed group do to establish themselves? How are we going to measure the success? :woman_technologist:
 * Eric revealed that his motivation for contributing to *The Turing Way* was because he spent his PhD simulating earthquakes, running around the beach, brewing beer and cooking in Santa Barbara, but he could more easily reproduce the food and beer he made than any of the science he did. :beers:
 * Natalie described the [MAPS](https://jean-golding-institute.github.io/maps/) project: mapping the analytical paths of a crowdsourced data analysis. She wants to know if different types of scientists, researchers and data scientists make different analysis decisions and the goal of this project is to see the variety of different things that can happen and run a data visualisation competition. :world_map:
-* Malvika discussed her experience as a community manager in bioinformatics and biology, and that she tries to trick people into thinking open science is great - you won’t need a great reference from a supervisor because everything will be visible! :eyes: 
+* Malvika discussed her experience as a community manager in bioinformatics and biology, and that she tries to trick people into thinking open science is great - you won’t need a great reference from a supervisor because everything will be visible! :eyes:
 * Nadia pitcher her citizen science project of 150 scientists over 32 countries, a [systematic review of cannibis models in animals in pain](https://form.jotform.com/90514957489169). There are 10,000+ studies to screen and they are recruiting contributors (who can win an iPad!) to prove that crowd/community/citizen science is actually a feasible thing to do. Her question was, “How to create community to keep people engaged and working on project?” :monkey_face:
 * Alex began his talk with, “I always know that my partner is right!” He took a human centred design course, promoting the idea of how to research what you want to build and create things based on what people need which is now really important to how he works now. It involves watching what people are doing, asking what pain points are. He applies this now in the context of open source software and looking to explore user centred design. :man_technologist:
 
@@ -113,10 +113,10 @@ Some aspects of the book dash that the participants would change included that t
 Many participants tweeted using [#TuringWay](https://twitter.com/hashtag/TuringWay)!
 
 ![https://twitter.com/StatalieT/status/1133314251534282753](figures/book_dash_ldn_tweet1.png)
-![https://twitter.com/cassgvp/status/1133443808476225536](figures/book_dash_ldn_tweet5.png)  
+![https://twitter.com/cassgvp/status/1133443808476225536](figures/book_dash_ldn_tweet5.png)
 ![https://twitter.com/SusannaASansone/status/1133391138856026115](figures/book_dash_ldn_tweet2.png)
-![https://twitter.com/Nadia_Soliman_/status/1133407117782781952](figures/book_dash_ldn_tweet3.png)  
+![https://twitter.com/Nadia_Soliman_/status/1133407117782781952](figures/book_dash_ldn_tweet3.png)
 ![https://twitter.com/CamilaRangelS/status/1133412530456539136](figures/book_dash_ldn_tweet4.png)
-![https://twitter.com/masonlr_/status/1133491797907464193](figures/book_dash_ldn_tweet6.png)  
+![https://twitter.com/masonlr_/status/1133491797907464193](figures/book_dash_ldn_tweet6.png)
 ![https://twitter.com/choldgraf/status/1133511977760727041](figures/book_dash_ldn_tweet7.png)
 ![https://twitter.com/turinghut23/status/1133671575721529344](figures/book_dash_ldn_tweet8.png)

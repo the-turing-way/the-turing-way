@@ -103,7 +103,7 @@ Please add something that you would change about the Book Dash. We've never run 
 - I would've liked the event to last longer (2-3 days)
     - +1
 - more time for consolidating new contributions
-    - +1    
+    - +1
     - +1
     - +1
     - +1
@@ -125,4 +125,4 @@ Please add something that you would change about the Book Dash. We've never run 
     - +1, especially once PRs have been merged and we can see the progress so-far more clearly
     - +1!
 - Slightly dimmer lighting
-- Having the event closer to home in the future would be nice :bullettrain_front: 
+- Having the event closer to home in the future would be nice :bullettrain_front:

@@ -24,7 +24,7 @@ These subprojects are often time-bound and are supported by community members wh
 - Member: [Brigitta Sipőcz](https://the-turing-way.netlify.app/afterword/contributors-record#brigitta-sipocz)
 - Member: [Johana Bayer](https://the-turing-way.netlify.app/afterword/contributors-record#likeajumprope)
 
-The Infrastructure working group chair rotates every 6 months, with responsibilities shared among different members of the working groups. 
+The Infrastructure working group chair rotates every 6 months, with responsibilities shared among different members of the working groups.
 The next chair rotation is scheduled for September 2024.
 
 ### Accessibility Working Group Leads
@@ -45,7 +45,7 @@ The next chair rotation is scheduled for September 2024.
 - Member: [Susana Roman Garcia](https://the-turing-way.netlify.app/afterword/contributors-record#susana465)
 
 
-## Funded Projects 
+## Funded Projects
 
 ### Professionalising Data Science Roles - Turing's Skills Policy Award
 
@@ -69,7 +69,7 @@ The next chair rotation is scheduled for September 2024.
 
 **Developers**
 - May Yong, Iain Stanson, Lydia France, Malvika Sharan: funded by AI for Science and Government in 2021-2022
-- Arya A., Johanna Bayer, Malvika Sharan: 2023 Google Summer of Code (GSoC) 
+- Arya A., Johanna Bayer, Malvika Sharan: 2023 Google Summer of Code (GSoC)
 
 **Maintainers**
 - [Arya A](https://the-turing-way.netlify.app/afterword/contributors-record#arya-a)

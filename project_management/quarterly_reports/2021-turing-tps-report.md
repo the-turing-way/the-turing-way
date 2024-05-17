@@ -7,7 +7,7 @@
 - Affiliation: The Alan Turing Institute, London, UK
 - Funded by: The Tools, Practices and Systems Research Programme of The Alan Turing Institute
 - Dates of the project: Jan 2019 - Present
-- Webpage: [https://the-turing-way.netlify.app/welcome](https://the-turing-way.netlify.app/welcome) and [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) 
+- Webpage: [https://the-turing-way.netlify.app/welcome](https://the-turing-way.netlify.app/welcome) and [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
 - Ethics approval status: Confirmation ethics approval not required
 - Reports drafted by Malvika Sharan, Community Manager - *The Turing Way*
 
@@ -23,10 +23,10 @@
 ### Datasets created
 
 -   Zenodo: [https://zenodo.org/communities/the-turing-way](https://zenodo.org/communities/the-turing-way)
--   Book: [https://the-turing-way.netlify.app](https://the-turing-way.netlify.app) 
--   Resources on GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) 
+-   Book: [https://the-turing-way.netlify.app](https://the-turing-way.netlify.app)
+-   Resources on GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
 
-## First Quarter: 1 January 2021 to 31 March 2021. 
+## First Quarter: 1 January 2021 to 31 March 2021.
 
 ### General statistics and updates:
 
@@ -41,7 +41,7 @@
 -   The Binder Federation ([https://mybinder.org](https://mybinder.org)) is a series of BinderHubs ([https://jupyter.org/binder](https://jupyter.org/binder)) around the world providing free and public computational resources in the cloud to run and share reproducible analyses across all domains of data science. One such BinderHub is supported by the Azure credits provided by the Turing Institute and The Turing Way project.
 -   This resource decentralises and democratises access to cutting edge data science and AI methodologies for data scientists, science communication experts, computational science teachers, and many others around the world and empowers them to participate in high quality research. Turing's involvement raises the Institute's reputation as a supporter of open infrastructure, open and reproducible science, and transparent communication of research across domains and technical ability. It demonstrates The Turing Way’s commitment to contributing to open source projects to build flexible and reusable tools, practices and systems. Being a member of this Federation also gives us a seat at the table in discussions around how the future of accessible and explainable AI might look and feeds back skills in managing/deploying large-scale production code and community building into the Turing community.
 -   The Turing cluster (turing.mybinder.org) had 461,349 launches in 2020 for more than 3,000 GitHub projects. See [details here](https://notebooks-test.gesis.org/binderlaunches/#?from=2020-01-01T00%3A00&to=2021-01-01T00%3A00&desc=true&origins=turing.mybinder.org&repo=%3A&groupby=provider-repo.). Some noteworthy projects on GitHub that use Binder to teach Python programming and machine learning are ‘ipython/ipython-in-depth’ (205744 launches), ‘jupyterlab/jupyterlab-demo’ (141108 launches) and Scikit-learn (2352 launches).
-    
+
 ### Status of progress against goals/milestones, any blockers to progress
 
 -   Development to the guides on project design and communication have been slower than other guides. We will specifically invite and support contributions to these guides in the next months through workshops and upcoming Book Dash events.
@@ -58,7 +58,7 @@
 -   Open Research - A vision for the future hosted by the RIOT Club, 2 March 2021, Malvika Sharan, “Ten arguments against open science that you can win”. [http://doi.org/10.5281/zenodo.4572985](http://doi.org/10.5281/zenodo.4572985).
 -   Reproducible Analytical Pipeline champions network meetup, 24 March 2021, Malvika Sharan, [http://doi.org/10.5281/zenodo.4633118](http://doi.org/10.5281/zenodo.4633118)
 -   DORA webinar, 24 March 2021, Malvika Sharan, Assessment challenges related to contributions to research reproducibility and open science, [http://doi.org/10.5281/zenodo.4633185](http://doi.org/10.5281/zenodo.4633185).
-    
+
 
 #### Workshops
 
@@ -66,7 +66,7 @@
 -   Research Software Camp hosted by the Software Sustainability Institute, 2 March 2021, Sarah Gibson, Emma Karoune, Martina G. Vilas and Sophia Batchelor, [https://zenodo.org/record/4573146](https://zenodo.org/record/4573146).
 -   The Alan Turing Institute. 18-19 March 2021, Malvika Sharan, Kirstie Whitaker, Sarah Gibson, [Turing Way: Reproducibility, open science and collaboration in research, DOI: 10.5281/zenodo.4623778](https://tinyletter.com/TuringWay/letters/Zenodo.%20http://doi.org/10.5281/zenodo.4623778).
 -   Collaboration Workshop 2021, 31 March 2021, Batool Almarzouq, Emma Karoune and Malvika Sharan, ‘Good Practices for Designing Software Development Projects’. The presentation with discussion prompts are available on Zenodo: [DOI: 10.5281/zenodo.4650221](https://zenodo.org/record/4650221).
-    
+
 ### Papers submitted or published (include link/s)
 
 #### Cited by the following publications and preprints:
@@ -74,14 +74,14 @@
 -   Wong, D., & Palmer, E. (2021). Reproducibility and transparency in anaesthesiology research. Comment on Br J Anaesth 2020; 125: 835–42. British Journal Of Anaesthesia, 126(3), e104-e105. DOI: 10.1016/j.bja.2020.12.024
 -   Culina, A., van den Berg, I., Evans, S., & Sánchez-Tójar, A. (2020). Low availability of code in ecology: A call for urgent action. PLoS Biol., 18(7), e3000763. DOI: [10.1371/journal.pbio.3000763](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000763).
 -   Peikert, A., & Brandmaier, A. M. (2020). A Reproducible Data Analysis Workflow with R Markdown, Git, Make, and Docker. PsyArXiv. DOI: 10.31234/osf.io/8xzqy
--   Simpsons, K. (2020), Towards reproducible dwelling retrofit evaluation: Data,tools & opportunity to address uncertainty: [http://www.ibpsa.org/proceedings/BSO2020/BSOV2020_Simpson.pdf](http://www.ibpsa.org/proceedings/BSO2020/BSOV2020_Simpson.pdf) 
--   Vollmer, S., Mateen, B. A., Bohner, G., Király, F. J., Ghani, R., Jonsson, P., Cumbers S., Jonas A., McAllister K. S. L., Myles P., Granger D., Birse M., Branson R., Moons K. G. M., Collins G. S., Ioannidis P. A., Hemingway, H. (2020). Machine learning and artificial intelligence research for patient benefit: 20 critical questions on transparency, replicability, ethics, and effectiveness. BMJ, 368, l6927. doi: [https://doi.org/10.1136/bmj.l6927](https://doi.org/10.1136/bmj.l6927) 
--   Leslie, D. (2020). Tackling COVID-19 through Responsible AI Innovation: Five Steps in the Right Direction. Harvard Data Science Review. [https://doi.org/10.1162/99608f92.4bb9d7a7](https://doi.org/10.1162/99608f92.4bb9d7a7) 
--   Boris P. Hejblum, Kevin Kunzmann, Ennio Lavagnini, Anna Hutchinson, David Robertson, et. al., Realistic and Robust Reproducible Research for Biostatistics. 2020. [https://hal.inria.fr/hal-03100421](https://hal.inria.fr/hal-03100421) 
--   Volodina, V., & Challenor, P. (2021). The importance of uncertainty quantification in model reproducibility. Phil. Trans. R. Soc. A., 379(2197), 20200071. doi: [https://doi.org/10.1098/rsta.2020.0071](https://doi.org/10.1098/rsta.2020.0071) 
-    
+-   Simpsons, K. (2020), Towards reproducible dwelling retrofit evaluation: Data,tools & opportunity to address uncertainty: [http://www.ibpsa.org/proceedings/BSO2020/BSOV2020_Simpson.pdf](http://www.ibpsa.org/proceedings/BSO2020/BSOV2020_Simpson.pdf)
+-   Vollmer, S., Mateen, B. A., Bohner, G., Király, F. J., Ghani, R., Jonsson, P., Cumbers S., Jonas A., McAllister K. S. L., Myles P., Granger D., Birse M., Branson R., Moons K. G. M., Collins G. S., Ioannidis P. A., Hemingway, H. (2020). Machine learning and artificial intelligence research for patient benefit: 20 critical questions on transparency, replicability, ethics, and effectiveness. BMJ, 368, l6927. doi: [https://doi.org/10.1136/bmj.l6927](https://doi.org/10.1136/bmj.l6927)
+-   Leslie, D. (2020). Tackling COVID-19 through Responsible AI Innovation: Five Steps in the Right Direction. Harvard Data Science Review. [https://doi.org/10.1162/99608f92.4bb9d7a7](https://doi.org/10.1162/99608f92.4bb9d7a7)
+-   Boris P. Hejblum, Kevin Kunzmann, Ennio Lavagnini, Anna Hutchinson, David Robertson, et. al., Realistic and Robust Reproducible Research for Biostatistics. 2020. [https://hal.inria.fr/hal-03100421](https://hal.inria.fr/hal-03100421)
+-   Volodina, V., & Challenor, P. (2021). The importance of uncertainty quantification in model reproducibility. Phil. Trans. R. Soc. A., 379(2197), 20200071. doi: [https://doi.org/10.1098/rsta.2020.0071](https://doi.org/10.1098/rsta.2020.0071)
 
-### Articles/blogs/press releases published (include link/s) 
+
+### Articles/blogs/press releases published (include link/s)
 
 -   Top tips for making the most out of Binder. Emma Karoune, Sarah Gibson, Martina Vilas, and Sophia Batchelor: [https://www.software.ac.uk/top-tips-making-most-out-binder](https://www.software.ac.uk/top-tips-making-most-out-binder).
 
@@ -103,7 +103,7 @@
 -   The Certificate in Reproducible Research is a joint study program of Charité - Universitätsmedizin Berlin, https://biometrie.charite.de/en/teaching\_and\_training/certificate\_reproducible\_research.
 -   Connecting the dots between research methods, academic cultures and technical solutions: Three reflections on publishing reproducible research outputs, News - Knowledge Exchange. Studios, A. (2021), https://www.knowledge-exchange.info/news/articles/29-01-2021.
 -   Research Reproducibility For All, SciGen.Report (2021), https://scigen.report/info/reproducibility.
-    
+
 ### Funding: Further funding, leveraged funding/support, in-kind contributions
 
 #### Open Source support:
@@ -117,11 +117,11 @@
 -   TU Delft’s Data Steward (Faculty of Applied Sciences), Esther Plomp, has been contributing to the project development and review process since 2020.
 -   Netherlands eScience Center community members Carlos Martinez and Mateusz Kuzak have been offering guidance and support to their Research Software Engineers to develop resources and chapters in The Turing Way as a part of their work since 2020.
 
-## Second Quarter: 1 April 2021 to 31 June 2021. 
+## Second Quarter: 1 April 2021 to 31 June 2021.
 
 ### General updates:
 
-#### Project and community statistics: 
+#### Project and community statistics:
 -   Book: 47 chapters with 191 subchapters
 -   Contributors on GitHub: 279 contributors (starred by 980 users)
 -   Twitter: 2,146 followers (average of 2700 profile visits every month)
@@ -134,7 +134,7 @@
 -   Weekly coworking calls (every Monday, 11:00 - 12:00 GMT) and bi-monthly Collaboration Cafes (first and third Wednesday of each month) took place as planned except in the week of Book Dash in May.
 -   Book Dash May 2021 took place from 17 to 21 May 2021. A planning committee was established with 8 members who had attended previous Book Dash events and had sent their applications expressing their interests to mentor new contributors. These members are Arielle Bennett (The Alan Turing Institute), Batool Almarzouq ( King Abdullah International Medical Research Center, Saudi Arabia), Brigitta Sipőcz (DIRAC Institute, USA), Carlos Martinez-Ortiz (Netherlands eScience Center), Emma Karoune (The Alan Turing Institute), Esther Plomp (TU Delft) and Laura Carter (University of Exeter). At the event, we hosted 13 development sessions, four open discussion sessions and a show and tell social call. This event was attended by 20 participants who collaborated on 39 Pull Requests (PRs) and 31 issues ([https://github.com/alan-turing-institute/the-turing-way/pulls?q=label%3A0-book-dash-may21+](https://github.com/alan-turing-institute/the-turing-way/pulls?q=label%3A0-book-dash-may21+)) covering various topics and chapters across the five guides in the book. As a result of collaboration and support provided at this event, 21 new subchapters along with several previously drafted chapters were collaboratively edited, reviewed and published in The Turing Way (listed in a later section).
 -   On 21 May 2021, we hosted two community share-outs demonstrating chapter ideas, drafts and illustrations our Book Dash participants generated within four days of the event. You can watch the recordings on YouTube: [https://www.youtube.com/playlist?list=PLBxcQEfGu3DlHhbBk3Aa8KzaOEUc8dEic](https://www.youtube.com/playlist?list=PLBxcQEfGu3DlHhbBk3Aa8KzaOEUc8dEic) .
-    
+
 
 ### Upcoming projects:
 
@@ -151,15 +151,15 @@
 -   Association of Environmental Archaeology Spring Conference on Open Science. Emma Karoune. (2021, April). “Striving for reproducibility in Environmental Archaeology”. Zenodo link: [http://doi.org/10.5281/zenodo.4704811](http://doi.org/10.5281/zenodo.4704811).
 -   ReproducibiliTea at the University of Portsmouth. Emma Karoune. (2021, April). “Introduction to The Turing Way”. [http://doi.org/10.5281/zenodo.4719847](http://doi.org/10.5281/zenodo.4719847).
 -   4TU Research Data’s first community call. Malvika Sharan. (2021, April). “Building Open Communities of Collaboration”. Zenodo link: [https://zenodo.org/record/4729686](https://zenodo.org/record/4729686).
--   Brown Bag Seminar organised by Geographic Data Science Lab. Ana Basiri and Hyesop Shin. (2021, May). “Open Geospatial Data Science and The Turing Way” 
--   Omics data generation and analysis interest group meeting. Malvika Sharan. (2021, May). The Turing Way: Open Source and reproducibility in data science. Zenodo. [http://doi.org/10.5281/zenodo.4818126](http://doi.org/10.5281/zenodo.4818126) 
--   ASAPbio Community Panel. Malvika Sharan along with the panellists, Clarissa Carneiro and Brian Nosek (2021, May). ‘Bringing culture change to science communication’, 
+-   Brown Bag Seminar organised by Geographic Data Science Lab. Ana Basiri and Hyesop Shin. (2021, May). “Open Geospatial Data Science and The Turing Way”
+-   Omics data generation and analysis interest group meeting. Malvika Sharan. (2021, May). The Turing Way: Open Source and reproducibility in data science. Zenodo. [http://doi.org/10.5281/zenodo.4818126](http://doi.org/10.5281/zenodo.4818126)
+-   ASAPbio Community Panel. Malvika Sharan along with the panellists, Clarissa Carneiro and Brian Nosek (2021, May). ‘Bringing culture change to science communication’,
 -   RightsCon 2021. Laura Carter, & Malvika Sharan. (2021, May). Building a collaborative guide to ethical data science (Version v2). Zenodo. http://doi.org/10.5281/zenodo.4742232
--   Coding in the Open hosted by EdinbR and PyData Edinburgh. Kirstie Whitaker. (2021, June). Empowering researchers in reproducible, ethical, inclusive and collaborative science. Zenodo. [http://doi.org/10.5281/zenodo.4944375](http://doi.org/10.5281/zenodo.4944375) 
--   University of Exeter Institute for Data Science and Artificial Intelligence (IDSAI) Data Science Week. Kirstie Whitaker. (2021, June). Continuous Integration for Ethical, Collaborative Data Science. Zenodo. [http://doi.org/10.5281/zenodo.5041133](http://doi.org/10.5281/zenodo.5041133) 
--   Turing ‘Lunch and Learn’ series. Malvika Sharan. (2021, June). Remote or Distributed Collaboration for research communities - The Turing Way Guide for Collaboration. Zenodo. [http://doi.org/10.5281/zenodo.4955465](http://doi.org/10.5281/zenodo.4955465) 
--   Inclusive Data Science seminar series. Malvika Sharan. (2021, June). The Turing Way: Building a Guide to Reproducible, Ethical and Collaborative Research. Zenodo. [http://doi.org/10.5281/zenodo.4969380](http://doi.org/10.5281/zenodo.4969380) 
--   BERG Seminar 8: Open science and transparency in modelling. Malvika Sharan. (2021, June). Exchanging Research Practices through Open Source Communities of Practice. Zenodo. [http://doi.org/10.5281/zenodo.5017713](http://doi.org/10.5281/zenodo.5017713) 
+-   Coding in the Open hosted by EdinbR and PyData Edinburgh. Kirstie Whitaker. (2021, June). Empowering researchers in reproducible, ethical, inclusive and collaborative science. Zenodo. [http://doi.org/10.5281/zenodo.4944375](http://doi.org/10.5281/zenodo.4944375)
+-   University of Exeter Institute for Data Science and Artificial Intelligence (IDSAI) Data Science Week. Kirstie Whitaker. (2021, June). Continuous Integration for Ethical, Collaborative Data Science. Zenodo. [http://doi.org/10.5281/zenodo.5041133](http://doi.org/10.5281/zenodo.5041133)
+-   Turing ‘Lunch and Learn’ series. Malvika Sharan. (2021, June). Remote or Distributed Collaboration for research communities - The Turing Way Guide for Collaboration. Zenodo. [http://doi.org/10.5281/zenodo.4955465](http://doi.org/10.5281/zenodo.4955465)
+-   Inclusive Data Science seminar series. Malvika Sharan. (2021, June). The Turing Way: Building a Guide to Reproducible, Ethical and Collaborative Research. Zenodo. [http://doi.org/10.5281/zenodo.4969380](http://doi.org/10.5281/zenodo.4969380)
+-   BERG Seminar 8: Open science and transparency in modelling. Malvika Sharan. (2021, June). Exchanging Research Practices through Open Source Communities of Practice. Zenodo. [http://doi.org/10.5281/zenodo.5017713](http://doi.org/10.5281/zenodo.5017713)
 
 ### Workshop
 
@@ -168,24 +168,24 @@
 ### Papers submitted or published (include link/s)
 
 -   Levitis, Elizabeth et al. 2021. “Centering Inclusivity in the Design of Online Conferences - an OHBM - Open Science Perspective.” PsyArXiv. March 23. doi:10.31234/osf.io/vj5tu. Kirstie Whitaker and Malvika Sharan contributed to this manuscript and are listed as co-authors.
-    
-#### Cited by the following article: 
 
--   Azevedo, F., & Jost, J. T. (2021). The ideological basis of antiscientific attitudes: Effects of authoritarianism, conservatism, religiosity, social dominance, and system justification. Group Processes & Intergroup Relations, 24(4), 518–549. DOI: 10.1177/1368430221990104 
-    
-### Articles/blogs/press releases published (include link/s) 
+#### Cited by the following article:
+
+-   Azevedo, F., & Jost, J. T. (2021). The ideological basis of antiscientific attitudes: Effects of authoritarianism, conservatism, religiosity, social dominance, and system justification. Group Processes & Intergroup Relations, 24(4), 518–549. DOI: 10.1177/1368430221990104
+
+### Articles/blogs/press releases published (include link/s)
 
 -   Nudging towards a better default for open source project ownership. (2021, June). Retrieved from [https://www.software.ac.uk/blog/2021-06-09-nudging-towards-better-default-open-source-project-ownership](https://www.software.ac.uk/blog/2021-06-09-nudging-towards-better-default-open-source-project-ownership)
 
 #### New chapters and subchapters published in The Turing Way:
--   “Legal Disclaimer” page drafted by Laura Carter and approved by Turing legal team explains where readers can find legal advice related to data ethics. Direct link: [https://the-turing-way.netlify.app/afterword/legal-disclaimer.htmlhttps://the-turing-way.netlify.app/afterword/legal-disclaimer.html](https://the-turing-way.netlify.app/afterword/legal-disclaimer.htmlhttps://the-turing-way.netlify.app/afterword/legal-disclaimer.html) 
--   “Law, Policy and Human Rights in Ethics”: [https://the-turing-way.netlify.app/ethical-research/law-policy.html](https://the-turing-way.netlify.app/ethical-research/law-policy.html) 
+-   “Legal Disclaimer” page drafted by Laura Carter and approved by Turing legal team explains where readers can find legal advice related to data ethics. Direct link: [https://the-turing-way.netlify.app/afterword/legal-disclaimer.htmlhttps://the-turing-way.netlify.app/afterword/legal-disclaimer.html](https://the-turing-way.netlify.app/afterword/legal-disclaimer.htmlhttps://the-turing-way.netlify.app/afterword/legal-disclaimer.html)
+-   “Law, Policy and Human Rights in Ethics”: [https://the-turing-way.netlify.app/ethical-research/law-policy.html](https://the-turing-way.netlify.app/ethical-research/law-policy.html)
 -   “Making Research Objects Citable” - revision of previous drafts: [https://the-turing-way.netlify.app/communication/citable.html#](https://the-turing-way.netlify.app/communication/citable.html#)
--   “Barriers to Reproducibility” - one subchapter: [https://the-turing-way.netlify.app/reproducible-research/overview/overview-barriers.html](https://the-turing-way.netlify.app/reproducible-research/overview/overview-barriers.html) 
+-   “Barriers to Reproducibility” - one subchapter: [https://the-turing-way.netlify.app/reproducible-research/overview/overview-barriers.html](https://the-turing-way.netlify.app/reproducible-research/overview/overview-barriers.html)
 -   “Continuous Integration” - revision of previous drafts: [https://the-turing-way.netlify.app/reproducible-research/ci.html](https://the-turing-way.netlify.app/reproducible-research/ci.html)
--   Six chapters with 11 subchapters in the Guide for Communication describing blogs, podcasts, lay summary, presentation and social media for scientific communication: [https://the-turing-way.netlify.app/communication/comms-overview.html](https://the-turing-way.netlify.app/communication/comms-overview.html) 
--   “Overview of project design” - five subchapters: [https://the-turing-way.netlify.app/project-design/pd-overview.html](https://the-turing-way.netlify.app/project-design/pd-overview.html) 
--   “Creating Project Repositories” - revision and expansion of previous drafts and addition of two new subchapters: [https://the-turing-way.netlify.app/project-design/project-repo.html](https://the-turing-way.netlify.app/project-design/project-repo.html) 
+-   Six chapters with 11 subchapters in the Guide for Communication describing blogs, podcasts, lay summary, presentation and social media for scientific communication: [https://the-turing-way.netlify.app/communication/comms-overview.html](https://the-turing-way.netlify.app/communication/comms-overview.html)
+-   “Overview of project design” - five subchapters: [https://the-turing-way.netlify.app/project-design/pd-overview.html](https://the-turing-way.netlify.app/project-design/pd-overview.html)
+-   “Creating Project Repositories” - revision and expansion of previous drafts and addition of two new subchapters: [https://the-turing-way.netlify.app/project-design/project-repo.html](https://the-turing-way.netlify.app/project-design/project-repo.html)
 
 ### Software/code/tools/methods developed/released (include link/s)
 
@@ -194,26 +194,26 @@ New Illustrations released on Zenodo for The Turing Way Community: “The Turing
 ### External engagement, influence, impact (Academic/ industry/ government/ public/ international)
 
 1.  The Turing Way member, Malvika Sharan, participated in a focus group on Publishing Reproducible Research Outputs held by Research Consulting Limited (www.research-consulting.com). Project findings and input will help develop a report to inform funders, policymakers, universities, researchers, and service providers. The research is funded by Knowledge Exchange (KE), a consortium of six national organisations within Europe tasked with developing infrastructure and services to enable the use of digital technologies to improve higher education and research. These organisations are CSC in Finland, CNRS in France, DeiC in Denmark, DFG in Germany, Joint Information Systems Committee in the UK and SURF in the Netherlands.
-    
+
 2.  The Turing Way’s collaboration with Open Life Science in the fourth cohort will be supported by the Turing Online Training grant, which will start in September 2021. In May, under the ‘OLS for Turing’ collaboration with Open Life Science, following 5 members from the Turing and The Turing Way projects graduated from the third cohort of the training and mentoring programme.
 -   Martina Vilas, project name: Open Source Project for Evaluating Reproducibility Trends in AI Research Projects, mentored by Anna Krystalli.
 -   Batool Almarzouq, project name: Open Science Community in Saudi Arabia, mentored by Anelda van der Walt.
 -   Aida Mehonic, project name: Developing and embedding open science practices within the Research Application Management team at Turing, mentored by Malvika and Kirstie.
 -   Mishka Nemes, project name: Towards an infrastructure for open-source (online) training in data science and AI, mentored by Jez Cope.
--   Sarah Gibson, project name: An Open Source Service Area for Turing research projects, mentored by Meag Doherty. 
-    
+-   Sarah Gibson, project name: An Open Source Service Area for Turing research projects, mentored by Meag Doherty.
+
 
 3.  The project has been quoted, cited, and recommended by the researchers, support staff and project leaders in the following posts and online resources from April to June 2021:
--   Data Portals: Advice from the UKEOF Data. Advisory Group. UK Environmental Observation Framework, Lancaster, UK. (2021, June). Retrieved from [https://www.ukeof.org.uk/documents/dag-data-portals-guidance-june-2021.pdf](https://www.ukeof.org.uk/documents/dag-data-portals-guidance-june-2021.pdf) 
--   Version 3 of “An Emerging Technology Charter for London”. (2021). Retrieved from [https://www.london.gov.uk/publications/emerging-technology-charter-london-0](https://www.london.gov.uk/publications/emerging-technology-charter-london-0) 
+-   Data Portals: Advice from the UKEOF Data. Advisory Group. UK Environmental Observation Framework, Lancaster, UK. (2021, June). Retrieved from [https://www.ukeof.org.uk/documents/dag-data-portals-guidance-june-2021.pdf](https://www.ukeof.org.uk/documents/dag-data-portals-guidance-june-2021.pdf)
+-   Version 3 of “An Emerging Technology Charter for London”. (2021). Retrieved from [https://www.london.gov.uk/publications/emerging-technology-charter-london-0](https://www.london.gov.uk/publications/emerging-technology-charter-london-0)
 -   Danchev, V. [Reproducible Data Science with Python on the Cloud](https://valdanchev.github.io/reproducible-data-science-python/intro.html). Jupyter Book.
 -   Birds, I. [Remote Computational Project Resource](https://isabelbirds.github.io/Remote-Computational-Project-Resource/welcome.html). (2021, June 10). Jupyter Book.
--   Ainsworth, Rachael (2021, June): Reproducibility and Open Science. figshare. Presentation. [https://doi.org/10.6084/m9.figshare.14710110.v1](https://doi.org/10.6084/m9.figshare.14710110.v1) 
+-   Ainsworth, Rachael (2021, June): Reproducibility and Open Science. figshare. Presentation. [https://doi.org/10.6084/m9.figshare.14710110.v1](https://doi.org/10.6084/m9.figshare.14710110.v1)
 -   Nüst, Daniel. (2021, June). AGILE Conference Reproducibility Review 2021 (Version 1). Zenodo. [http://doi.org/10.5281/zenodo.4926269](http://doi.org/10.5281/zenodo.4926269)
--   LibGuides: Research Data, Data Management & Planning: FAIR Data. Sheridan, S. (2021, June 16). Retrieved from [https://uwyo.libguides.com/data-mgmt/fair](https://uwyo.libguides.com/data-mgmt/fair) 
--   Open Science and Knowledge Justice: How It Started – How It’s Going? Edited by Simon Worthington. (2021, April 12). Retrieved from [https://genr.eu/wp/open-science-and-knowledge-justice-how-it-started-how-its-going](https://genr.eu/wp/open-science-and-knowledge-justice-how-it-started-how-its-going) 
--   Training resources. Software Sustainability Institute. (2021). Retrieved from [https://www.software.ac.uk/resources/training-resources](https://www.software.ac.uk/resources/training-resources) 
--   Computational Social Science: An Introductory workshop. Dr J. Kasmire, Research Fellow at Cathie Marsh Institute and UK Data Service. Copyright 2020 UK Data Service. Created by Computational Social Science Training Team, UK Data Service. [https://ukdataservice.ac.uk/media/622934/20021-05-13cssworkshop.pdf](https://ukdataservice.ac.uk/media/622934/20021-05-13cssworkshop.pdf) 
+-   LibGuides: Research Data, Data Management & Planning: FAIR Data. Sheridan, S. (2021, June 16). Retrieved from [https://uwyo.libguides.com/data-mgmt/fair](https://uwyo.libguides.com/data-mgmt/fair)
+-   Open Science and Knowledge Justice: How It Started – How It’s Going? Edited by Simon Worthington. (2021, April 12). Retrieved from [https://genr.eu/wp/open-science-and-knowledge-justice-how-it-started-how-its-going](https://genr.eu/wp/open-science-and-knowledge-justice-how-it-started-how-its-going)
+-   Training resources. Software Sustainability Institute. (2021). Retrieved from [https://www.software.ac.uk/resources/training-resources](https://www.software.ac.uk/resources/training-resources)
+-   Computational Social Science: An Introductory workshop. Dr J. Kasmire, Research Fellow at Cathie Marsh Institute and UK Data Service. Copyright 2020 UK Data Service. Created by Computational Social Science Training Team, UK Data Service. [https://ukdataservice.ac.uk/media/622934/20021-05-13cssworkshop.pdf](https://ukdataservice.ac.uk/media/622934/20021-05-13cssworkshop.pdf)
 -   Should We Mandate a Course in Ethics for All Research-Based PhD Candidates? - Social Science Space. (2021, June 11). Retrieved from [https://www.socialsciencespace.com/2021/06/should-we-mandate-a-course-in-ethics-for-all-research-based-phd-candidates](https://www.socialsciencespace.com/2021/06/should-we-mandate-a-course-in-ethics-for-all-research-based-phd-candidates)
 -   Building your website using R {blogdown}. Shilaan Alzahawi. (2021). Retrieved from [https://shilaan.rbind.io/post/building-your-website-using-r-blogdown](https://shilaan.rbind.io/post/building-your-website-using-r-blogdown)
 
@@ -223,12 +223,12 @@ Two proposals under the ASG Gem funding scheme were granted to the Tools, Practi
 -   A proposal under the ASG Health theme to strengthen the Turing-Crick partnership was successful. It will fund a 0.5 position of a Research Engineering Group member from Turing to collaborate with The Turing Way team members to build training materials under the title “Introduction to Data Science for Biomedical researchers”. This project will build upon “The Crick-Turing Biomedical Data Science Awards” ([https://www.turing.ac.uk/research/research-projects/crick-turing-biomedical-data-science-awards](https://www.turing.ac.uk/research/research-projects/crick-turing-biomedical-data-science-awards)) and will bring together experts from Turing, Open Life Science and The Carpentries training programmes.
 - Another proposal is to enhance the user experience and interactive design (UX/UI) of The Turing Way. This proposal will also fund a 0.5 position of a Research Engineering Group member who will collaborate with The Turing Way team and community members to help improve accessibility through design in the project. This work will be hugely important in ensuring the legacy and impact of a critical resource for data science and open research, which is already widely cited across multiple domains and influences research practices within the Turing as well as industry, government, and third-sector organisations, such as The Health Foundation.
 
-## Third Quarter: 1 July 2021 to 30 September 2021. 
+## Third Quarter: 1 July 2021 to 30 September 2021.
 
 ### General updates:
 
-#### Project and community statistics: 
-    
+#### Project and community statistics:
+
 -   Book: 50 chapters with 200+ live pages
 -   Contributors on GitHub: 292 contributors (starred by 1000+ users)
 -   Twitter: 2,300+ followers (average of 49.9K Twitter Impressions)
@@ -244,7 +244,7 @@ Two proposals under the ASG Gem funding scheme were granted to the Tools, Practi
 -   We are in the process of recruiting a new community manager in The Turing Way. An interview will be scheduled in November for the shortlisted candidates with a recruitment panel. This recruitment will allow Malvika Sharan (previous community manager, now promoted to the Senior Research position) to take on more responsibility at the Tools, Practices and Systems programme for ensuring the adoption of best practices developed and shared in The Turing Way.
 -   Book Dash November 2021 is planned to take place from 08 to 12 November 2021. Six members from a planning committee that was established last May, with the community members will continue serving as committee members for this round, taking more leadership responsibility for the event. These members are Arielle Bennett (The Alan Turing Institute), Batool Almarzouq ( King Abdullah International Medical Research Center, Saudi Arabia), Brigitta Sipőcz (DIRAC Institute, USA), Carlos Martinez-Ortiz (Netherlands eScience Center), Emma Karoune (The Alan Turing Institute) and Esther Plomp (TU Delft). Additionally, some repeat attendees will lead social informal sessions during the Book Dash.
 -   On 12 November 2021, we will host two community share-outs demonstrating chapter ideas, drafts and illustrations our Book Dash participants generated within four days of the event.
-    
+
 ### Status of progress against goals/milestones, any blockers to progress
 
 -   None to report for this quarter.
@@ -253,10 +253,10 @@ Two proposals under the ASG Gem funding scheme were granted to the Tools, Practi
 
 -   The inaugural conference of SORTEE (Society of Open, Reliable, and Transparent Ecology and Evolutionary Biology). Malvika Sharan. (2021, July). The Turing Way Guide to Reproducible, Ethical and Collaborative Research (plenary talk) [https://zenodo.org/record/5083747](https://zenodo.org/record/5083747).
 -   SciPy 2021, Mini-symposium on “Biology and Neuroscience”. Martina G. Vilas, Adina Wagner, Caleb Kibet, Hao Ting, and Sambit Panda, Malvika Sharan. (2021, July). Round Table on the Status of Open Source in Biology and Neuroscience. Video: [https://www.youtube.com/watch?v=I2viiP1Gv5w](https://www.youtube.com/watch?v=I2viiP1Gv5w).
--   Martina G. Vilas. (September 2021) The Turing Way and approaches to reproducible and generalisable research. Building on her previous talks, she added more context on how to investigate the generalisability of research claims. [https://zenodo.org/record/5497717](https://zenodo.org/record/5497717) 
+-   Martina G. Vilas. (September 2021) The Turing Way and approaches to reproducible and generalisable research. Building on her previous talks, she added more context on how to investigate the generalisability of research claims. [https://zenodo.org/record/5497717](https://zenodo.org/record/5497717)
 -   Open Science Fair 2021. Malvika Sharan, (September 2021). Can we reimagine FAIR for building communities in Open Science? Video [on YouTube](https://youtu.be/f960OXPzQO4?t=297). [https://zenodo.org/record/5518163](https://zenodo.org/record/5518163).
--   SeptembRSE 2021, Malvika Sharan. (September 2021). The Turing Way Guide to Reproducible, Ethical and Collaborative Research. [https://zenodo.org/record/5497457](https://zenodo.org/record/5497457). 
--   SeptembRSE panel, Rowland Mosbergen, Malvika Sharan, Jeremy Cohen. (September 2021). Missing narratives around diversity and inclusion in Research Software Engineering (RSE). Video: [https://youtu.be/f960OXPzQO4?t=297](https://youtu.be/f960OXPzQO4?t=297) 
+-   SeptembRSE 2021, Malvika Sharan. (September 2021). The Turing Way Guide to Reproducible, Ethical and Collaborative Research. [https://zenodo.org/record/5497457](https://zenodo.org/record/5497457).
+-   SeptembRSE panel, Rowland Mosbergen, Malvika Sharan, Jeremy Cohen. (September 2021). Missing narratives around diversity and inclusion in Research Software Engineering (RSE). Video: [https://youtu.be/f960OXPzQO4?t=297](https://youtu.be/f960OXPzQO4?t=297)
 
 #### Workshop
 
@@ -266,14 +266,14 @@ Two proposals under the ASG Gem funding scheme were granted to the Tools, Practi
 
 ### Papers submitted or published (include link/s)
 
-#### Cited by the following article: 
--   Miljković, N., Trisovic, A., & Peer, L. (2021). Towards FAIR Principles for Open Hardware. ArXiv e-prints, 2109.06045. Retrieved from [https://arxiv.org/abs/2109.06045v1](https://arxiv.org/abs/2109.06045v1)   
+#### Cited by the following article:
+-   Miljković, N., Trisovic, A., & Peer, L. (2021). Towards FAIR Principles for Open Hardware. ArXiv e-prints, 2109.06045. Retrieved from [https://arxiv.org/abs/2109.06045v1](https://arxiv.org/abs/2109.06045v1)
 -   Combrisson, E., Allegra, M., Basanisi, R., Ince, R. A. A., Giordano, B., Bastin, J., & Brovelli, A. (2021). Group-level inference of information-based measures for the analyses of cognitive brain networks from neurophysiological data. bioRxiv, 2021.08.14.456339. Retrieved from [https://doi.org/10.1101/2021.08.14.456339](https://doi.org/10.1101/2021.08.14.456339)
 -   Castro, L. J., Martin, C., Lazarov, G., Cernoskova, D., Takatsuki, T., Harrow, J., & Rebholz-Schuhmann, D. (2021). Measuring outcomes and impact from the BioHackathon Europe. BioHackrXiv. doi: 10.37044/osf.io/3dxhg
 -   Leipzig, J., Nüst, D., Hoyt, C. T., Ram, K., & Greenberg, J. (2021). The role of metadata in reproducible computational research. Patterns, 2(9), 100322. doi: 10.1016/j.patter.2021.100322
 -   Nüst, D., Granell, C., Hofer, B., Konkol, M., & Cerutti, V. (2018). Reproducible research and GIScience: An evaluation using AGILE conference papers. PeerJ, 6(7604), e5072. doi: 10.7717/peerj.5072
 
-### Articles/blogs/press releases published (include link/s) 
+### Articles/blogs/press releases published (include link/s)
 
 #### New chapters and subchapters published in The Turing Way:
 -   Overview of Project Design — The Turing Way. (2021). Complete chapter. [https://the-turing-way.netlify.app/project-design/pd-overview.html](https://the-turing-way.netlify.app/project-design/pd-overview.html
@@ -282,16 +282,16 @@ Two proposals under the ASG Gem funding scheme were granted to the Tools, Practi
 -   Authorship and contributions on Academic Papers — The Turing Way. (2021). Complete chapter. [https://the-turing-way.netlify.app/communication/aa.html](https://the-turing-way.netlify.app/communication/aa.html)
 -   Welcome — The Turing Way. (2021). Updated landing page. [https://the-turing-way.netlify.app/welcome.html](https://the-turing-way.netlify.app/welcome.html)
 
-#### New datasets created/accessed 
+#### New datasets created/accessed
 -   Zenodo: [https://zenodo.org/communities/the-turing-way](https://zenodo.org/communities/the-turing-way)
--   Book: [https://the-turing-way.netlify.app](https://the-turing-way.netlify.app) 
--   Resources on GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) 
+-   Book: [https://the-turing-way.netlify.app](https://the-turing-way.netlify.app)
+-   Resources on GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
 
 ### External engagement, influence, impact (Academic/ industry/ government/ public/ international)
 
 1.  The project lead, Kirstie Whitaker and co-lead, Malvika Sharan were invited to the Open Science Workshop organised by the Chan Zuckerberg Initiative in September 2021. They represented the Turing Institute and The Turing Way project to identify areas for funding development in Open Science.
 2.  The project has been quoted, cited, and recommended by the researchers, support staff and project leaders in the following posts and online resources:
-  - Turing welcomes the next generation of data enthusiasts from academic institutions across the UK. (2021, October 26). [https://www.turing.ac.uk/news/turing-welcomes-next-generation-data-enthusiasts-academic-institutions-across-uk](https://www.turing.ac.uk/news/turing-welcomes-next-generation-data-enthusiasts-academic-institutions-across-uk) 
+  - Turing welcomes the next generation of data enthusiasts from academic institutions across the UK. (2021, October 26). [https://www.turing.ac.uk/news/turing-welcomes-next-generation-data-enthusiasts-academic-institutions-across-uk](https://www.turing.ac.uk/news/turing-welcomes-next-generation-data-enthusiasts-academic-institutions-across-uk)
   - GenR and Co-Producing Guides for Open Science Communities | GenR. (2021, September 13). [https://genr.eu/wp/guide-needed](https://genr.eu/wp/guide-needed)
   - Knowledge base - eScience Center. (2021, October 12). [https://www.esciencecenter.nl/knowledge-base](https://www.esciencecenter.nl/knowledge-base)
   - Citizen Science Guide 2021 - LIBER Europe. (2021, June 18). [https://libereurope.eu/working-group/liber-citizen-science-working-group/citizen-science-guide-2021](https://libereurope.eu/working-group/liber-citizen-science-working-group/citizen-science-guide-2021)
@@ -299,24 +299,24 @@ Two proposals under the ASG Gem funding scheme were granted to the Tools, Practi
   - Newman, J. (2021, August 10). Research Guides: Research Data: FAIR Data Principles. [https://libguides.uthsc.edu/data/datasharing](https://libguides.uthsc.edu/data/datasharing)
   - Managing and Sharing Data in 2021. (2021, September 22). [https://openworking.wordpress.com/2021/09/17/managing-and-sharing-data-in-2021](https://openworking.wordpress.com/2021/09/17/managing-and-sharing-data-in-2021)
   - The role of the R community in the Research Software Engineering (RSE) movement. (2021, October 26). [https://user2021.r-project.org/blog/2021/09/04/role-of-r-in-research-software-engineering](https://user2021.r-project.org/blog/2021/09/04/role-of-r-in-research-software-engineering)
-  - "State of Open: The UK in 2021", Phase 2, UK Adoption - OpenUK. (2021, October 18). [https://openuk.uk/stateofopen](https://openuk.uk/stateofopen) 
+  - "State of Open: The UK in 2021", Phase 2, UK Adoption - OpenUK. (2021, October 18). [https://openuk.uk/stateofopen](https://openuk.uk/stateofopen)
   - 23 Things for research data management | Field guides to Research Data Management. (2021, October 26). [https://23things.sites.uu.nl](https://23things.sites.uu.nl)
   - humdata – MapAction. (2021, October 26). [https://mapaction.org/tag/humdata](https://mapaction.org/tag/humdata)
 
 ### Funding: Further funding, leveraged funding/support, in-kind contributions
 
 -   The 2i2c team has partnered with The Turing Way to help build a community strategy to provide onboarding and mentorship for members from historically underrepresented groups in the JupyterHub community. Chris Holdgraf, Director of 2i2c (https://2i2c.org/) organisation received an Essential Open Source Software (EOSS) for Science funding from the Chan Zuckerberg Initiative (CZI) to establish a JupyterHub Community Lead Strategic position to enable this work. This position will be taken by their open source infrastructure engineer, Sarah Gibson (also The Turing Way contributor). Read more about the project on the [CZI EOSS page](https://chanzuckerberg.com/eoss/proposals/jupyterhub-community-strategic-lead/).
-    
+
 #### Awards/recognition
 
--   The Turing Way was nominated for HiddenRef award and was mentioned as a highly commended project under ‘Practices’ category. [https://hidden-ref.org/hidden-ref-award-ceremony/](https://hidden-ref.org/hidden-ref-award-ceremony/) 
+-   The Turing Way was nominated for HiddenRef award and was mentioned as a highly commended project under ‘Practices’ category. [https://hidden-ref.org/hidden-ref-award-ceremony/](https://hidden-ref.org/hidden-ref-award-ceremony/)
 -   The project was nominated for the Open Publishing Award under the ‘Open Publishing Models’ category and shortlisted for the OpenUK Award under the ‘Sustainability’ category.
 
-## Fourth Quarter: 1 October 2021 to 31 December 2021. 
+## Fourth Quarter: 1 October 2021 to 31 December 2021.
 
 ### General updates:
 
-#### Project and community statistics: 
+#### Project and community statistics:
 
 -   Book: 54 chapters with 260+ live pages
 -   Contributors on GitHub: 307 contributors (starred by 1200+ users)
@@ -335,7 +335,7 @@ Two proposals under the ASG Gem funding scheme were granted to the Tools, Practi
 ### Upcoming projects:
 
 -   The recruitment process for a new community manager in The Turing Way was concluded in November. The new member is expected to start their role in February 2022. One of the first projects undertaken by them will include the co-development of a governance model for The Turing Way to help the project transition to the next level of maturity.
--   The new team of Community Managers at the Turing Institute will be trained and guided to build explicit connections between their projects with The Turing Way. The process developed to enable this will be shared in The Turing Way to allow other projects and organisations to operationalise their partnerships and collaboration with The Turing Way. All resources will be cross-posted on this public repository hosted under The Alan Turing institute’s GitHub organisation repository: [https://github.com/alan-turing-institute/open-community-building](https://github.com/alan-turing-institute/open-community-building) 
+-   The new team of Community Managers at the Turing Institute will be trained and guided to build explicit connections between their projects with The Turing Way. The process developed to enable this will be shared in The Turing Way to allow other projects and organisations to operationalise their partnerships and collaboration with The Turing Way. All resources will be cross-posted on this public repository hosted under The Alan Turing institute’s GitHub organisation repository: [https://github.com/alan-turing-institute/open-community-building](https://github.com/alan-turing-institute/open-community-building)
 
 #### Status of progress against goals/milestones, any blockers to progress
 
@@ -362,46 +362,46 @@ Two proposals under the ASG Gem funding scheme were granted to the Tools, Practi
 
 ### Papers submitted or published (include link/s)
 
-#### Cited by the following articles and projects: 
+#### Cited by the following articles and projects:
 
 -   Patrick J Mineault & The Good Research Code Handbook Community (2021). The Good Research Code Handbook. Zenodo. [doi:10.5281/zenodo.5796873](https://dx.doi.org/10.5281/zenodo.5796873)
 
-#### Articles/blogs/press releases published (include link/s) 
+#### Articles/blogs/press releases published (include link/s)
 
--   Reflections and summary from The Turing Way Book Dash (Online), Esther Plomp, (November), [https://openworking.wordpress.com/2021/11/18/the-turing-way-book-dash-online/](https://openworking.wordpress.com/2021/11/18/the-turing-way-book-dash-online/) 
--   Post in Hungarian by Instant Science Hungary” “The TURING Way kézikönyv”, Száldobágyi Ádám, (November), [https://instantscience.hu/2021/11/03/the-turing-way-kezikonyv/](https://instantscience.hu/2021/11/03/the-turing-way-kezikonyv/) 
+-   Reflections and summary from The Turing Way Book Dash (Online), Esther Plomp, (November), [https://openworking.wordpress.com/2021/11/18/the-turing-way-book-dash-online/](https://openworking.wordpress.com/2021/11/18/the-turing-way-book-dash-online/)
+-   Post in Hungarian by Instant Science Hungary” “The TURING Way kézikönyv”, Száldobágyi Ádám, (November), [https://instantscience.hu/2021/11/03/the-turing-way-kezikonyv/](https://instantscience.hu/2021/11/03/the-turing-way-kezikonyv/)
 
 #### New chapters and subchapters published in The Turing Way:
 
 -   Research Infrastructure Roles: [https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html)
--   Personal Data Management: [https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-personal.html?highlight=sensitive](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-personal.html?highlight=sensitive) 
+-   Personal Data Management: [https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-personal.html?highlight=sensitive](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-personal.html?highlight=sensitive)
 -   Reusable code: [https://the-turing-way.netlify.app/reproducible-research/code-reuse.html](https://the-turing-way.netlify.app/reproducible-research/code-reuse.html)
 -   Software Citation with CITATION.cff: [https://the-turing-way.netlify.app/communication/citable/citable-cff.html](https://the-turing-way.netlify.app/communication/citable/citable-cff.html)
--   Self Reflection in Ethical Research: [https://the-turing-way.netlify.app/ethical-research/self-reflection.html](https://the-turing-way.netlify.app/ethical-research/self-reflection.html) 
--   Metadata and Metadata Standards: [https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html#metadata](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html#metadata) 
--   Revised chapters: 
+-   Self Reflection in Ethical Research: [https://the-turing-way.netlify.app/ethical-research/self-reflection.html](https://the-turing-way.netlify.app/ethical-research/self-reflection.html)
+-   Metadata and Metadata Standards: [https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html#metadata](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html#metadata)
+-   Revised chapters:
   -   Open Access: [https://the-turing-way.netlify.app/reproducible-research/open/open-access.html](https://the-turing-way.netlify.app/reproducible-research/open/open-access.html)
-  -   Tools for Remote Collaboration: [https://the-turing-way.netlify.app/collaboration/remote-collab/remote-collab-tools.html](https://the-turing-way.netlify.app/collaboration/remote-collab/remote-collab-tools.html) 
-  
-#### New datasets created/accessed 
+  -   Tools for Remote Collaboration: [https://the-turing-way.netlify.app/collaboration/remote-collab/remote-collab-tools.html](https://the-turing-way.netlify.app/collaboration/remote-collab/remote-collab-tools.html)
 
--   Book: [https://the-turing-way.netlify.app](https://the-turing-way.netlify.app) 
--   Resources on GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) 
+#### New datasets created/accessed
+
+-   Book: [https://the-turing-way.netlify.app](https://the-turing-way.netlify.app)
+-   Resources on GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
 -   Zenodo: [https://zenodo.org/communities/the-turing-way](https://zenodo.org/communities/the-turing-way)
 -   We have made the latest release of The Turing Way on Zenodo. Please cite this release as “The Turing Way Community. (2021). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.0.1). Zenodo. [](https://doi.org/10.5281/zenodo.5671094%E2%80%9D) [https://doi.org/10.5281/zenodo.5671094](https://doi.org/10.5281/zenodo.5671094)[”](https://doi.org/10.5281/zenodo.5671094%E2%80%9D).
 -   During the last Book Dash, we also released a new set of illustrations: Please cite them as The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. [https://doi.org/10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
 
 ### External engagement, influence, impact (Academic/ industry/ government/ public/ international)
 
-1.  As part of The Turing Way core team, three members from collaborating projects and organisations have been onboarded in an in-kind capacity: Carlos Martinez (Netherlands eScience Center), Esther Plomp (Faculty of Applied Sciences at the Delft University of Technology) and Sarah Gibson (2i2c and JupyterHub): [https://github.com/alan-turing-institute/the-turing-way/blob/main/ways\_of\_working.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) 
+1.  As part of The Turing Way core team, three members from collaborating projects and organisations have been onboarded in an in-kind capacity: Carlos Martinez (Netherlands eScience Center), Esther Plomp (Faculty of Applied Sciences at the Delft University of Technology) and Sarah Gibson (2i2c and JupyterHub): [https://github.com/alan-turing-institute/the-turing-way/blob/main/ways\_of\_working.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md)
 2.  [Open Life Science](https://openlifesci.org/) mentoring and training program’s fifth call for application attracted 6 applications from across the Turing and The Turing Way under the ongoing collaboration OLS for Turing. An application from the Research Engineering team was carried forward from the last round to allow more time for the team working to formalise the ongoing partnership between the Binder and The Turing Way.
-3.  Malvika Sharan has joined the Advisory Team of MetaDocencia: [https://www.metadocencia.org/en/authors/malvikasharan/](https://www.metadocencia.org/en/authors/malvikasharan/). 
+3.  Malvika Sharan has joined the Advisory Team of MetaDocencia: [https://www.metadocencia.org/en/authors/malvikasharan/](https://www.metadocencia.org/en/authors/malvikasharan/).
 4.  The project and related resources (such as slides, workshop materials and illustrations) has been quoted, cited, and recommended by the researchers, support staff and project leaders in the following posts and online resources:
-  -   The Good Research Code Handbook, [https://goodresearch.dev/index.html](https://goodresearch.dev/index.html) 
-  -   Guidance for AGU Authors - R Scripts and Markdown. [https://data.agu.org/resources/r-guidance-agu-authors](https://data.agu.org/resources/r-guidance-agu-authors) 
-  -   Exeter Turing Fellows - personal note, Michael Allen, [https://www.exeter.ac.uk/departments/turinginstitute/people/fellows/](https://www.exeter.ac.uk/departments/turinginstitute/people/fellows/) 
-  -   Ten ways to find open access articles, Alexandra Lazic, [https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html) 
-  -   Reproducible Definition - MeaningKosh. [https://meaningkosh.com/reproducible-definition](https://meaningkosh.com/reproducible-definition) 
+  -   The Good Research Code Handbook, [https://goodresearch.dev/index.html](https://goodresearch.dev/index.html)
+  -   Guidance for AGU Authors - R Scripts and Markdown. [https://data.agu.org/resources/r-guidance-agu-authors](https://data.agu.org/resources/r-guidance-agu-authors)
+  -   Exeter Turing Fellows - personal note, Michael Allen, [https://www.exeter.ac.uk/departments/turinginstitute/people/fellows/](https://www.exeter.ac.uk/departments/turinginstitute/people/fellows/)
+  -   Ten ways to find open access articles, Alexandra Lazic, [https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html](https://alelazic.blogspot.com/2021/11/ten-ways-to-find-open-access-articles.html)
+  -   Reproducible Definition - MeaningKosh. [https://meaningkosh.com/reproducible-definition](https://meaningkosh.com/reproducible-definition)
   -   Join us at InfoSec Jupyterthon 2021 - Microsoft Security Blog. (2021, November 19). Retrieved from [https://www.microsoft.com/security/blog/2021/11/19/join-us-at-infosec-jupyterthon-2021](https://www.microsoft.com/security/blog/2021/11/19/join-us-at-infosec-jupyterthon-2021)
-  -   OpenUK Awards 2021, COP26 and KDE – Jonathan Esk-Riddell's Diary. (2022, January 25). Retrieved from [https://jriddell.org/2021/11/09/openuk-awards-2021-cop26-and-kde](https://jriddell.org/2021/11/09/openuk-awards-2021-cop26-and-kde) 
-  -   NWO-I Digital Competence Center - NWO-I. (November). [https://www.nwo-i.nl/en/nwo-i-projects/nwo-i-digital-competence-center](https://www.nwo-i.nl/en/nwo-i-projects/nwo-i-digital-competence-center) 
+  -   OpenUK Awards 2021, COP26 and KDE – Jonathan Esk-Riddell's Diary. (2022, January 25). Retrieved from [https://jriddell.org/2021/11/09/openuk-awards-2021-cop26-and-kde](https://jriddell.org/2021/11/09/openuk-awards-2021-cop26-and-kde)
+  -   NWO-I Digital Competence Center - NWO-I. (November). [https://www.nwo-i.nl/en/nwo-i-projects/nwo-i-digital-competence-center](https://www.nwo-i.nl/en/nwo-i-projects/nwo-i-digital-competence-center)

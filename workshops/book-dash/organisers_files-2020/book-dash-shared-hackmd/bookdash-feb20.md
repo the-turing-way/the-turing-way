@@ -137,9 +137,9 @@ Octobox is a cool tool for managing your GitHub notifications: https://octobox.i
 * Demo: https://jupyterbook.org/intro.html
 *
 *
-*  
 *
-*  
+*
+*
 
 :yum: Dinner
 ---
@@ -251,9 +251,9 @@ There's also an issue for feedback - any comments on what we can do better at fu
 *
 *
 *
-*  
 *
-*  
+*
+*
 
 
 :heavy_plus_sign::arrow_up_small: Pluses and deltas

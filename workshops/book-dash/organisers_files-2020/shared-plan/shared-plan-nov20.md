@@ -54,13 +54,13 @@
 
 ### Illustrations
 
-- We will have an artist - Jem - at the event who you would be able to interact with to help develop illustration relevant to your contribution to The Turing Way 
+- We will have an artist - Jem - at the event who you would be able to interact with to help develop illustration relevant to your contribution to The Turing Way
   - 10 and 12 November, Tuesday and Thursday: 08:00 - 17:00 UTC
-  - 12 November, Wednesday: 17:00 UTC to 20:00 UTC 
+  - 12 November, Wednesday: 17:00 UTC to 20:00 UTC
 - We are sharing Jem's time with other projects from the Turing Way's parent programme: AI for Science and Government.
-  - Please use this hackmd to check to see if other projects have booked to work with the artist: 
-- Please sign up to work with the artist at this hackmd: https://hackmd.io/@turingway/bookdash-nov2020-scriberia 
-- See reusable images from previous book dash events: 
+  - Please use this hackmd to check to see if other projects have booked to work with the artist:
+- Please sign up to work with the artist at this hackmd: https://hackmd.io/@turingway/bookdash-nov2020-scriberia
+- See reusable images from previous book dash events:
   - [Feb 2020](https://zenodo.org/record/3695300)
   - [Book Dash 2019](https://zenodo.org/record/3332808)
 
@@ -71,7 +71,7 @@
 - **Project accessibility to new users:** Emma, Neha and Paul
 - **Layout of the book:** Batool and Paul
 - **Ethics:** Ismael, Sophia, Laura C, Irene, Asha
-- **Leadership:** Laura A, Lupe 
+- **Leadership:** Laura A, Lupe
 - **Case study designs:** Paul (template), Asha (for Ethics book) and Batool (reproducible standards), Sangram (reproducible case study from bioinformatics)
 
 ## Schedule and sign ups
@@ -92,7 +92,7 @@
 | 09:15 - 09:50 |               Second Pomodoro :tomato: |
 | 09:50 - 10:00 |              Quick report out |
 | 10:00 - 10:30 |   Troubleshoot, mentored-work |
-| 10:30 - 11:00 | Zoom stays open for participants to connect with others | 
+| 10:30 - 11:00 | Zoom stays open for participants to connect with others |
 
 #### Development session 2
 
@@ -154,7 +154,7 @@
 | 12:00 - 12:35 |               Second Pomodoro :tomato: |
 | 12:35 - 12:45 |              Quick report out |
 | 12:45 - 13:20 |                Third Pomodoro :tomato: |
-| 13:20 - 13:30 |                    Report out | 
+| 13:20 - 13:30 |                    Report out |
 
 
 #### ==15:30 - 17:00 UTC: coffee discussion: open source role models==
@@ -180,7 +180,7 @@ We hope that you will also enjoy participating in the broader discussion. You ar
 | 18:30 - 19:05 |               Second Pomodoro :tomato:|
 | 19:05 - 19:15 |              quick report out |
 | 19:15 - 19:50 |                Third Pomodoro:tomato: |
-| 19:50 - 20:00 |                    report out | 
+| 19:50 - 20:00 |                    report out |
 
 
 ### Day 3: 11 November 2020
@@ -198,7 +198,7 @@ We hope that you will also enjoy participating in the broader discussion. You ar
 | 09:45 - 10:20 |                Third Pomodoro :tomato: |
 | 10:20 - 10:30 |                    Report out |
 | 10:30 - 11:05 |                Bonus pomodoro :tomato: |
-| 11:05 - 11:15 |                    Report out | 
+| 11:05 - 11:15 |                    Report out |
 | 11:15 - 11:45 |  Troubleshoot/open discussion |
 
 #### ==Family meal: 12:00 - 13:30 UTC, [click to see in your time]()==
@@ -235,7 +235,7 @@ We will use take a mid-sprint break and get to know each other through a "show a
 | 18:30 - 19:05 |               Second Pomodoro :tomato: |
 | 19:05 - 19:15 |              Quick report out |
 | 19:15 - 19:50 |                Third Pomodoro :tomato: |
-| 19:50 - 20:00 |                    Report out | 
+| 19:50 - 20:00 |                    Report out |
 
 ### Day 4: 12 November 2020
 
@@ -264,7 +264,7 @@ We will use take a mid-sprint break and get to know each other through a "show a
 | 12:00 - 12:35 |               Second Pomodoro :tomato: |
 | 12:35 - 12:45 |              Quick report out |
 | 12:45 - 13:20 |                Third Pomodoro :tomato: |
-| 13:20 - 13:30 |                    Report out | 
+| 13:20 - 13:30 |                    Report out |
 
 
 #### ==14:30 - 17:00: PLAN YOUR WORK/DAY SLOT==
@@ -282,7 +282,7 @@ We will use take a mid-sprint break and get to know each other through a "show a
 | 18:30 - 19:05 |               Second Pomodoro :tomato: |
 | 19:05 - 19:15 |              Quick report out |
 | 19:15 - 19:50 |                Third Pomodoro :tomato: |
-| 19:50 - 20:00 |                    Report out | 
+| 19:50 - 20:00 |                    Report out |
 
 ### Day 5: 13 November 2020
 
@@ -306,7 +306,7 @@ We will use take a mid-sprint break and get to know each other through a "show a
 
 | Time          | Suggested agenda |
 | ------------- | ----------------:|
-| 11:00 - 13:00 |   Open to public | 
+| 11:00 - 13:00 |   Open to public |
 
 #### Development session 2
 
@@ -324,7 +324,7 @@ We will use take a mid-sprint break and get to know each other through a "show a
 
 | Time          | Suggested agenda |
 | ------------- | ----------------:|
-| 17:30 - 19:30 |   Open to public | 
+| 17:30 - 19:30 |   Open to public |
 
 *Order yourself a drink or sweet treat*
 
@@ -362,7 +362,7 @@ The tl;dr version for easy reference during dashing:
 
 **What types of contributions can you make?**
 
-* Reviewers for your Book Dash application have suggested a few specific topics for each of you 
+* Reviewers for your Book Dash application have suggested a few specific topics for each of you
 * You can also collaborate with others or start slowly by checking out the list of [open issues](https://github.com/alan-turing-institute/the-turing-way/issues)
 * Proofread [existing chapters](https://the-turing-way.netlify.com) (check for typos, grammar, links, etc.)
 * Add further information to an existing chapter

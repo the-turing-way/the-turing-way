@@ -3,9 +3,9 @@
 Patricia Herterich, University of Birmingham
 31 May 2019
 
-## Summary 
+## Summary
 
-I made a variety of contributions to the Turing Way. 
+I made a variety of contributions to the Turing Way.
 At the start of the project, I drafted contributing guidelines, Code of Conduct and other documents that established an open project on GitHub that everyone could easily contribute to.
 I also (co-)authored three chapters of the handbook: Reproducibility, Research Data Management, and Collaborating on GitHub/GitLab.
 I reviewed the chapter on Open Research.
@@ -26,7 +26,7 @@ The newsletter has 211 subscribers that receive our monthly updates (number as o
 Our book dashes have been attended by 13 attendees each and resulted in a variety of contributions to the book: proof reading and improved formatting of chapters, contributing new chapters (e.g. on coding styles and machine learning) adding more information to existing chapters.
 The book dashes introduced several attendees to GitHub and principles of collabortating openly.
 
-## Personal experience 
+## Personal experience
 
 Working on the Turing Way was my first collaboration on a large openly developed project in quite a while and it was a pleasure to be part of the core project team.
 It was amazing to see such an interest in the project, especially from early career researchers and I loved building the community around the Turing Way.

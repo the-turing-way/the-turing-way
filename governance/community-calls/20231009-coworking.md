@@ -18,8 +18,8 @@
     * Batool - reviewing feedback from Alycia around localisation
     * Gabin - DCE community infrastructure
     * Emma
- 
+
 ## Notes
 *
-* 
-* 
+*
+*

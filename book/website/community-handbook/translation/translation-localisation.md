@@ -41,7 +41,7 @@ Many open source projects such as [GitLab](https://crowdin.com/project/gitlab-ee
 
 Localisation platforms integrate different tools and formats for assisting the translation process.
 The translation process can be assisted by machine translation.
-Different languages may work better with a specific machine translation engine. For example, Spanish works very well with [DeepL](https://www.deepl.com/) as a translation tool but other languages (for example, Arabic) don't. 
+Different languages may work better with a specific machine translation engine. For example, Spanish works very well with [DeepL](https://www.deepl.com/) as a translation tool but other languages (for example, Arabic) don't.
 DeepL recommends a series of synonyms when you click on the translated text.
 This can be useful, especially with long texts.
 For [Transifex](https://www.transifex.com/), a popular TMS used by several Open Source projects, the automated process is performed outside the platform.

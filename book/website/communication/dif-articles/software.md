@@ -1,22 +1,22 @@
 (cm-dif-articles-software)=
-# Software Papers 
+# Software Papers
 
 (cm-dif-articles-software-what)=
 ## What are Software Papers?
 
-In comparison to more traditional publications, which usually aim to share some new result, a software paper (sometimes known as a software metapaper) aims to share a new piece of software with the research community. 
-In this sense, software papers are close to method papers traditionally published in experimental sciences. 
-Software papers tend to be shorter than traditional articles, typically ranging between 2 and 10 pages, and focus on describing the software, its use and its relationship to other pieces of software in the community. 
+In comparison to more traditional publications, which usually aim to share some new result, a software paper (sometimes known as a software metapaper) aims to share a new piece of software with the research community.
+In this sense, software papers are close to method papers traditionally published in experimental sciences.
+Software papers tend to be shorter than traditional articles, typically ranging between 2 and 10 pages, and focus on describing the software, its use and its relationship to other pieces of software in the community.
 This helps fill the niche between methods sections in traditional publications and papers on algorithms or techniques.
 
 (cm-dif-articles-software-why)=
 ## Why write a Software Paper?
 
-Software papers are much shorter than traditional publications, allowing more time to be spent on the software while still providing an avenue for publication. 
-By specifically publishing in a software-focused journal, you are exposing your software to an audience which is already engaged with research software. 
-You are also adding your software to a curated index of high-quality, peer-reviewed code, increasing the likelihood that your code will be found and used by another researcher. 
-Through the peer-review process, not only is the paper itself evaluated, but the associated code can sometimes be reviewed. 
-Just as in traditional publishing, this process is intended to provide constructive feedback, helping to improve the quality of the software and surrounding systems. 
+Software papers are much shorter than traditional publications, allowing more time to be spent on the software while still providing an avenue for publication.
+By specifically publishing in a software-focused journal, you are exposing your software to an audience which is already engaged with research software.
+You are also adding your software to a curated index of high-quality, peer-reviewed code, increasing the likelihood that your code will be found and used by another researcher.
+Through the peer-review process, not only is the paper itself evaluated, but the associated code can sometimes be reviewed.
+Just as in traditional publishing, this process is intended to provide constructive feedback, helping to improve the quality of the software and surrounding systems.
 
 In short, you should write software papers to:
 
@@ -54,9 +54,9 @@ There are also a number of other journals that publish software papers- the Soft
 (cm-dif-articles-software-review)=
 ### How do you review a Software Paper?
 
-Some journals (such as [the Journal of Open Research Software](https://openresearchsoftware.metajnl.com)) adopt the philosophy that the review process only applies to the paper itself, not the software, although basic standards in the software are still enforced, for example, that the software installs and operates as described. 
+Some journals (such as [the Journal of Open Research Software](https://openresearchsoftware.metajnl.com)) adopt the philosophy that the review process only applies to the paper itself, not the software, although basic standards in the software are still enforced, for example, that the software installs and operates as described.
 
-While many journals encourage publishing software that has been used in published research, in order to strengthen the case for publication, it is not typically a strict requirement. 
+While many journals encourage publishing software that has been used in published research, in order to strengthen the case for publication, it is not typically a strict requirement.
 
-In JOSS specifically, the review process is entirely open and non-anonymous. 
+In JOSS specifically, the review process is entirely open and non-anonymous.
 You can find current and past reviews on their [review tracker](https://github.com/openjournals/joss-reviews/issues).

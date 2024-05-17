@@ -24,14 +24,14 @@ If you want to start learning hands-on practices, we recommend reading the {ref}
 (rr-overview-resources-commandline)=
 ### Using the command line
 
-While most of what this book is about does not require the use of the command line, it often actually makes things easier. 
+While most of what this book is about does not require the use of the command line, it often actually makes things easier.
 Writing commands in the terminal, PowerShell, command-line, or command prompt provides an alternative means of interacting with the computer.
 It offers several advantages and can be considered a beneficial approach for various reasons, including efficiency, independence on graphical user interfaces, flexibility, automation of tasks.
-Often, advanced tasks or options are only available as command line tools (for example advanced git, datalad. 
-You first need to know that linux and OSX use `bash` code natively, while the command line in windows uses `batch script`, which is a different language. 
+Often, advanced tasks or options are only available as command line tools (for example advanced git, datalad.
+You first need to know that linux and OSX use `bash` code natively, while the command line in windows uses `batch script`, which is a different language.
 
 List of some tools and training materials for using the command-line:
-- A [game to teach one the basics of using a POSIX (Linux, BSD, UNIX) terminal](https://gitlab.com/slackermedia/bashcrawl) 
+- A [game to teach one the basics of using a POSIX (Linux, BSD, UNIX) terminal](https://gitlab.com/slackermedia/bashcrawl)
 - Carpentries lesson on [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
 - An article on [Command Line Tutorial: Usage in Linux and macOS](https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/)
 - A lesson on [Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
@@ -49,9 +49,9 @@ Some nice-to-know tips:
 
 ### Useful Links
 
-#### **Reproducibility** 
+#### **Reproducibility**
 
-* Markowetz, F. (2018). 5 selfish reasons to work reproducibly. Slides available at https://osf.io/a8wq4/. 
+* Markowetz, F. (2018). 5 selfish reasons to work reproducibly. Slides available at https://osf.io/a8wq4/.
 Recording from a talk at  Data Stewardship TU Delft
 in 2019. [https://youtu.be/yVT07Sukv9Q](https://youtu.be/yVT07Sukv9Q).
 

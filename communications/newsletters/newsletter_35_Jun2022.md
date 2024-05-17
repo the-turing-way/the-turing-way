@@ -132,7 +132,7 @@ Localisation of *The Turing Way* resource in Arabic is an incredible initiative 
 
 ## Community-Led Response to UNESCO's Call Open Science
 
-*The Turing Way*, Invest in Open Infrastructure (IOI) and Open Life Science are collaborating on a series of workshops to collect best practices in open science in response to UNESCO's [global call](https://www.unesco.org/en/articles/unesco-launches-global-call-best-practices-open-science).  
+*The Turing Way*, Invest in Open Infrastructure (IOI) and Open Life Science are collaborating on a series of workshops to collect best practices in open science in response to UNESCO's [global call](https://www.unesco.org/en/articles/unesco-launches-global-call-best-practices-open-science).
 
 On 15 June during Collaboration Cafe, Arielle Bennett and Malvika Sharan ran a workshop to gather community responses from *The Turing Way* community. The next call, organised by Open Life Science, will run on 22 June. Please join!
 

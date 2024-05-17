@@ -15,13 +15,13 @@
 
 ## Topics/Rooms
 
-* CDT Workshop room 
+* CDT Workshop room
 * Esther and Malvika
 * quiet room
 * chatty room
-* 
- 
+*
+
 ## Notes
-* 
-* 
-* 
+*
+*
+*

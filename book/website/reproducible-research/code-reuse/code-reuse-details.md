@@ -31,8 +31,8 @@ This could surely be carefully documented for another human to re-do it.
 
 ### 4. Make sure your environment and sequence of operations is robust and no human is needed to replicate what was done
 
-You do not want to depend on humans. 
-They tend to make errors even if they do not have bad intentions. 
+You do not want to depend on humans.
+They tend to make errors even if they do not have bad intentions.
 So you want your environment to be scripted and be re-created when needed and you want your sequence of operations to be run by a pipeline script that glues together all the sequence of steps.
 A nice side-effect of scripting the sequence of operations is that this often can serve as documentation of the steps.
 

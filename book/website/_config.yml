@@ -54,7 +54,7 @@ repository:
 #######################################################################################
 # Advanced and power-user settings
 sphinx:
-  extra_extensions          : 
+  extra_extensions          :
       - 'sphinx_panels'
   config                    :  # key-value pairs to directly over-ride the Sphinx configuration
     language                : en

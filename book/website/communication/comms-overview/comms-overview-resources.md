@@ -68,7 +68,7 @@ Here are some websites that offer free resources making different aspects of pre
 For recording talks:
 * [OBS](https://obsproject.com).
 See [this guide for using OBS](https://software.ac.uk/fellowship-programme/2019/application-video-guide) by the Software Sustainability Institute.
-* [Amara](https://amara.org) or [Otter](https://otter.ai/) can be used to generate your subtitles. 
+* [Amara](https://amara.org) or [Otter](https://otter.ai/) can be used to generate your subtitles.
 Video conferencing platforms such as Zoom or Google meet also have captions.
 
 * Many of the technical aspects and tools for giving remote talks (or classes) are covered in [The Carpentries tips for teaching online](https://carpentries.org/blog/2020/03/tips-for-teaching-online/) and the webinar ["Teaching Online on Short Notice"](https://rstd.io/teach-online-2020) by RStudio, a source for several points of this section.

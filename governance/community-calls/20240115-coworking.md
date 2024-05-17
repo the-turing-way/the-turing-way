@@ -38,7 +38,7 @@
         * KW: Demonstrating our commitment to transparency. Can we write this report to be useful for newcomers?
         * EK: Reading reports was useful for new committee members this Book Dash.
     * Discussing membership in the committee
-        * AAA: What is the right number of people to make strategic decisions? 
+        * AAA: What is the right number of people to make strategic decisions?
         * GK: 5
         * BGT: 7
         * KW: Less about the size, but about the chair (final decision maker)

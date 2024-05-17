@@ -52,7 +52,7 @@ Naturally, when I started using DataLad, I was completely overwhelmed.
 Luckily, there were many people to help me get started and give me the necessary background information.
 I know, however, that such a learning environment is not the default, so when I started my PhD, I actually created the resource that I would have needed to get started as a student: [The DataLad Handbook](http://handbook.datalad.org).
 
-**Kirstie**: Thanks a lot for telling us about this tool. 
+**Kirstie**: Thanks a lot for telling us about this tool.
 So the handbook is where people can find out more, if they want?
 
 **Adina**: Yes, I would point them to [The DataLad Handbook](http://handbook.datalad.org).

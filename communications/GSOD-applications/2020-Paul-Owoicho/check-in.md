@@ -11,7 +11,7 @@ This is the first check-in, so it refers to my activities since Sep. 28th.
 #### Who helped you this week?
 
 - Malvika has been super supportive with helping me getting settled into the community. She has also given me helpful pointers with working with Github, and giving me an overall sense of direction as I contribute to The Turing Way.
-- Neha (my OLS project partner) and Sam (my OLS project mentor) have been very helpful in terms of sharing ideas, giving feedback, and completing OLS assignments. 
+- Neha (my OLS project partner) and Sam (my OLS project mentor) have been very helpful in terms of sharing ideas, giving feedback, and completing OLS assignments.
 
 #### What did you achieve?
 
@@ -27,11 +27,11 @@ This is the first check-in, so it refers to my activities since Sep. 28th.
 
 - Cleaning up my current PRs
 - Creating a consistency chapter to empower new contributors make The Turing Way consistent
-- There are some missing content in the book. I want to make a start on addressing this by completing a subchapter on Data Licences. My content will be based on work from another contributor 
+- There are some missing content in the book. I want to make a start on addressing this by completing a subchapter on Data Licences. My content will be based on work from another contributor
 
 #### Where do you need help from Malvika and Kirstie?
 
-- Feedback on PRs and overall direction so that I can know that my work is on the right track. This is already in place. 
+- Feedback on PRs and overall direction so that I can know that my work is on the right track. This is already in place.
 
 ### Date: 26 October 2020
 
@@ -91,7 +91,7 @@ My work has been focused on making the Turing Way accessible to new contributors
 
 #### What did you struggle with?
 
-- I would like to improve the consistency chapter with how-to videos - audio capture on my laptop is not great. 
+- I would like to improve the consistency chapter with how-to videos - audio capture on my laptop is not great.
   - Maybe it can be how-to tutorials instead
 
 #### What would you like to work on next week?
@@ -113,7 +113,7 @@ I continued reviewing PRs and help out other contributors. In particular, I am a
 
 #### Who helped you this week?
 
-- Malvika, Neha, and Kirstie 
+- Malvika, Neha, and Kirstie
 
 #### What did you achieve?
 
@@ -142,6 +142,6 @@ To future GSoD participants, I would suggest maximising your time during the exp
 
 ### Mentor Feedback
 
-Malvika and Kirstie made me feel welcome from the start. I never felt like I was just a technical writer, rather my whole experience felt like I was part of an inclusive team that wanted to see me succeed. My perspectives mattered and were actively sought after. I had autonomy over my work, coupled with lots of support, feedback, direction, and encouragement. In addition, I always felt recognised for my efforts, no matter how small. 
+Malvika and Kirstie made me feel welcome from the start. I never felt like I was just a technical writer, rather my whole experience felt like I was part of an inclusive team that wanted to see me succeed. My perspectives mattered and were actively sought after. I had autonomy over my work, coupled with lots of support, feedback, direction, and encouragement. In addition, I always felt recognised for my efforts, no matter how small.
 
 My mentee experience is the reason why I want to stay back on The Turing Way as a contributor. I think this says a lot about my mentors, especially considering that The Turing Way is the first open source project I've participated in. It has been an absolute joy working with Malvika and Kirstie, and they get the credit for getting me started on my open source journey!

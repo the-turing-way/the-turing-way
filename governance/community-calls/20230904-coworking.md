@@ -4,7 +4,7 @@
 
 * Eirini
 * Chris
-* Emma 
+* Emma
 * Bastian
 * Gabin
 * Jen
@@ -15,9 +15,9 @@
 * Main room: governance
     * https://hackmd.io/@KirstieJane/turing-way-turing-inst
 * TTW Fireside Chat planning room
-* 
-* 
-* 
+*
+*
+*
 
 ## Notes
 

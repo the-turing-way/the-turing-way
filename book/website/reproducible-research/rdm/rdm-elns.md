@@ -22,19 +22,19 @@ Electronic Lab Notebooks may provide, among other things, the following **functi
 * Collaboration tools for sharing experimental information
 * Some ELNs will allow you to comply with standards and regulations because of their certification processes
 
-ELNs also have their **limitations**: 
+ELNs also have their **limitations**:
 
 * **Costs**: Most ELN solutions can only be used through paid plans, or the free plans have reduced functionalities in the number of users, storage space or file sizes.
 Your lab may also not have access to tablets or pens that would make the use of ELNs easier.
 Check if your institution is offering a solution that you can use without additional costs.
 * **File format**: Always check if files can be exported in your preferred file formats to avoid format lock-in.
-Some ELNs also have API's that allow integration with other software and workflows. 
+Some ELNs also have API's that allow integration with other software and workflows.
 * **{ref}`Vendor-lock-in<rr-rdm-elns-choosing-lockin>`**: Once you're using a certain solution you may become dependent on it.
 Always have an exit strategy in case the solution is no longer offered or if you're moving institutions and you no longer have access.
 * **Sustainability**: Choose a solution that has a larger chance of being around for a long time.
 * **Drawing**: Not all solutions have the tools or capabilities to include drawings or integration with drawing software.
 * **Security**: Before using an ELN solution you should check any backup plans and data security measures, especially if you're working with sensitive data.
-* **Laboratory situation**: Your lab may not have an internet connection or electronic tools could affect samples, reagents or magnets in the lab. 
+* **Laboratory situation**: Your lab may not have an internet connection or electronic tools could affect samples, reagents or magnets in the lab.
 * **Learning curve**: ELNs have a longer learning curve than paper notebooks and it takes time to learn how to use them.
 User-friendliness and flexibility are important to accommodate the widely varying workflows of each lab member.
 
@@ -59,7 +59,7 @@ Conversely, a tool that is a good fit gets out of people's way and makes their j
 
 Incomplete or inflexible ELN solutions which increase friction in workflows can cause issues.
 People will avoid using ill-fitting tools that they perceive to be getting in their way, especially scientists.
-They are creative, stubborn, resourceful, and impatiently focused on answering their research questions with whatever tools are available to them. 
+They are creative, stubborn, resourceful, and impatiently focused on answering their research questions with whatever tools are available to them.
 Finding software with the flexibility, capability, and scope to keep up is not easy and if it doesn't researchers won't use it - at least not as you intended.
 
 -   Shadow IT/notebooks
@@ -70,9 +70,9 @@ Finding software with the flexibility, capability, and scope to keep up is not e
     -   If there are paper and potentially multiple electronic copies of some information - what happens when it does not agree? What is the source of truth?
 - Sprawl
     -   Partial adoptions can lead to different pieces of information being stored in different systems which might not be connected making it harder to record and find information which was previously in one place.
-        This can make information recording and retrieval processes more complex, expensive and brittle 
+        This can make information recording and retrieval processes more complex, expensive and brittle
 -   Practical use and interface issues
-    -   Laptops or tablets can introduce interface barriers 
+    -   Laptops or tablets can introduce interface barriers
         -   Lab gloves may hamper the use of touchscreens and track pads
         -   Free-hand drawing is not always well supported which can be necessary when using notation that is not easily represented in simple text such as mathematical and chemical notation
         -   Client issues, such as native mobile applications with incomplete featuresets, slow web-apps that may require an always-on connection and not be able to cache local changes
@@ -109,8 +109,8 @@ This is not necessarily true of ELNs.
 ### Archival function of notebooks
 
 Lab notebooks perform an archival function.
-Few active measures are needed to maintain the data in your paper notebooks. 
-The primary vulnerability of paper lab books is that there is only one copy. 
+Few active measures are needed to maintain the data in your paper notebooks.
+The primary vulnerability of paper lab books is that there is only one copy.
 Nevertheless, as long as they are kept in a cool, dry and dark spot (for example a fireproof safe) they will likely last decades.
 
 Electronic data requires much more active upkeep.
@@ -132,22 +132,22 @@ Your data's fate is tied to the format in which it is stored so choose it wisely
 
 Most proprietary or open tools will permit you to export your data in one format or another.
 The quality of this export is critical to scrutinise.
-The ability to save all your lab books as PDFs is fine but if it is the only option you may lose a lot of metadata, and the ability to import your data into a new solution. 
+The ability to save all your lab books as PDFs is fine but if it is the only option you may lose a lot of metadata, and the ability to import your data into a new solution.
 The ability to export your data and retain the original structure is very important to evaluate.
 
 Proprietary solutions are incentivised to attempt to lock-in their customers so that the cost of switching to a competitor is high - so be especially wary of poor export options.
-Note that this tends to change over time. 
+Note that this tends to change over time.
 New providers are focused on user acquisition so data portability is often good at first but tends to decline after a certain point in time.
 Firms tends to follow a pattern of shifting from a user acquisition phase with favourable terms, to a user retention phase with less favourable ones.
-Mendeley for example began [encrypting their local database](https://www.zotero.org/support/kb/mendeley_import#mendeley_database_encryption). 
+Mendeley for example began [encrypting their local database](https://www.zotero.org/support/kb/mendeley_import#mendeley_database_encryption).
 This made it impossible to migrate your local library to different reference managers without going through the Mendeley online library feature.
 This occurred after they had reached a high degree of market penetration and had been acquired by Elsevier.
 
 When looking for any critical piece of software for long term use the first questions to ask are:
 - Is there an Libre / open-source solution to this problem?
 - If it is a web app and/or has a server: Could I host my own fully featured instance, should I need to?
-- Is there a large/active community using the project, does it have institutional backing of some kind? 
-  This might take the form of a company which sells service contracts, or offers paid hosting ideally with feature parity with a self-hosted option. 
+- Is there a large/active community using the project, does it have institutional backing of some kind?
+  This might take the form of a company which sells service contracts, or offers paid hosting ideally with feature parity with a self-hosted option.
   Or perhaps a foundation or other non-profit/academic organisation with robust funding.
 - What are the data export options and formats?
 
@@ -159,7 +159,7 @@ The data will also likely be stored in an open format from which it can relative
 This may still be a lot of work but it is much more attainable than reverse engineering a proprietary format for which there is no documentation, or worse - dealing with encrypted files.
 
 You can pay for third party hosting and administration of open source applications.
-This is a solution when you don't have the expertise or internal resources to administer a self-hosted instance of an open-source ELN solution. 
+This is a solution when you don't have the expertise or internal resources to administer a self-hosted instance of an open-source ELN solution.
 In this case you get the best of both worlds: the benefits of professional support and the reassurance of an open solution.
 You should still take regular local backups of exports from your hosting provider from which you could restore your ELN system with different hosting.
 This means that you retain the option to change providers.
@@ -172,7 +172,7 @@ This improves your bargaining position, but may increase procurement complexity.
 ### Automation and integration
 
 ELNs with APIs have the potential for integration with instruments that would permit direct deposition of data from connected instruments into ELNs or other connected research data management infrastructure.
-These sorts of integrations are especially useful in workflows at core facilities. 
+These sorts of integrations are especially useful in workflows at core facilities.
 For example, bioimaging facilities can automate a substantial part of the image metadata deposition into image data management tools such as [OMERO](https://www.openmicroscopy.org/omero/).
 
 (rr-rdm-elns-standards)=
@@ -198,7 +198,7 @@ An initiative to devise ELN format standards would be most welcome.
 - [2019 Review of the Best Electronic Laboratory Notebooks](https://app.scientist.com/blog/2019/04/05/2019-review-of-the-best-electronic-laboratory-notebooks).
 - [Guide on choosing an ELN from Simon Bungers of Labfolder](https://labfolder.com/electronic-lab-notebook-eln-research-guide/).
 - The Harvard Longwood Medical Area Research Data Management Working Group Constructed an [Electronic Lab Notebook Comparison Matrix](https://doi.org/10.5281/zenodo.4723753) in 2021, for convenience [a nicely formatted google sheet version](https://docs.google.com/spreadsheets/d/1ar8fgwagOh30E31EAPL-Gorwn_g6XNf81g3VDQnQ_I8/edit#gid=0), is also available.
-- This recent review {cite:ps}`higgins2022elns` provides a good overview of considerations when adopting an ELN solution. 
+- This recent review {cite:ps}`higgins2022elns` provides a good overview of considerations when adopting an ELN solution.
   It covers such things a regulatory compliance that is not yet touched on here.
   It does occasionally appear to conflate open-source solutions with self-hosted ones which need not necessarily be the case.
   Some companies will let you host proprietary apps on premises.
@@ -210,7 +210,7 @@ An initiative to devise ELN format standards would be most welcome.
 
 The following ELN options are each quite different but have many of the same core features.
 
-*  [eLabFTW](https://www.elabftw.net/) 
+*  [eLabFTW](https://www.elabftw.net/)
     *   Has features such as: Laboratory resource scheduling feature for booking things like hoods and microscopes, automatic mol file previews for molecules and proteins, and support for free-hand drawing.
     *   eLabFTW has a [website](https://www.elabftw.net/), [documentation](https://doc.elabftw.net/) and there is a [demo](https://demo.elabftw.net/login.php) deployment that you can try out.
     *   Self-hosting is *relatively* simple [according to the documentation](https://doc.elabftw.net/install.html).
@@ -226,7 +226,7 @@ The following ELN options are each quite different but have many of the same cor
     *   openBIS is a bit more complex to administer [based on its documentation](https://openbis.ch/index.php/docs/admin-documentation/).
     *   As openBIS is developed at ETH Zurich it can be hosted for you under the openRDM service operated by ETH Zurich scientific IT services.
         No fixed pricing is available - cost would be dependent on your specific needs.
-    
+
 * [OSF](https://osf.io/)
     *   OSF is oriented towards sharing and collaborating on your work, including the ability to generate DOIs and host pre-prints directly on the main instance.
     See {ref}`OSF<rr-rdm-repository-osf>` for more information.
@@ -259,4 +259,3 @@ For example, open source applications like [logseq](https://logseq.com/) or [zet
 * [Electronic Lab Notebooks: can they replace paper?](https://doi.org/10.1186/s13321-017-0221-3) by {cite:ps}`Kanza2017eln`
 * [Electronic Lab Notebooks](https://datamanagement.hms.harvard.edu/collect-analyze/electronic-lab-notebooks) by Harvard Medical School
 * [RSpace](https://www.researchspace.com/)
-

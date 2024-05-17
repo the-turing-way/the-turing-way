@@ -88,7 +88,7 @@ As always, thank you to Scriberia as well for visualising our work, and to Adrie
 _Book Dashers at the London, Amsterdam, and Bristol hubs! Pictured (left to right): Arielle Bennett, Laura Carter, Carlos Martinez, Lena Karvovskaya, Esther Plomp, Elisa Rodenburg, and Achintya Rao._
 
 This book dash, we have been piloting a hub-format in Amsterdam in the Netherlands, and both London and Bristol in the UK.
-It has been an experiment in organising hybrid events across timezones, and we are interested in learning more about how we can support hybrid events to ensure enclusive participation in events like Book Dashes for our amazing community.  
+It has been an experiment in organising hybrid events across timezones, and we are interested in learning more about how we can support hybrid events to ensure enclusive participation in events like Book Dashes for our amazing community.
 
 The London hub is being hosted at the Alan Turing Institute.
 Thank you to Lena Karvovskaya, who is hosting the Amsterdam hub at the Vrije Universiteit and to John Newby for hosting the Bristol hub at the Jean Golding Institute, University of Bristol.
@@ -202,12 +202,12 @@ If you'd like to get involved in the process or talk to her more about it, reach
     - ⏰ Applications due by Tuesday, 31 May 2022 [(apply here)](https://pollicy.org/events/director-of-research/)
     - 📌 _Note: Candidates must be located +3 hours or -3 hours of East African Time zone._
 - **Code for Science & Society: Operations Coordinator**
-    - ⏰ Applications due by Tuesday, 24 May 2022  
+    - ⏰ Applications due by Tuesday, 24 May 2022
     - 📌 Learn more about the role and how to apply [on the CS&S website](https://codeforscience.org/jobs/operations-coordinator-people/)
 - **Quantsight: Open Source Software Developer Advocate**
     - ⏰ Applications due by Tuesday, 24 May 2022  [(apply here)](https://boards.greenhouse.io/quansight/jobs/4001517005?t=6c3175585us)
 - **A4AI: Sustainable Access Fellowship**
-    - ⏰ Applications due by Tuesday, 31 May 2022  
+    - ⏰ Applications due by Tuesday, 31 May 2022
     - 📌 More information about the application process on the [A4AI website](https://a4ai.org/get-involved/careers/)
     - *Note: Candidates can be located anywhere in the world.*
 - **Carpentries: Lesson Maintainer**

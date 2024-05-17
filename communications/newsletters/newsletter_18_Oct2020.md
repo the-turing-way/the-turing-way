@@ -32,7 +32,7 @@ If you are planning to send your application for the Book Dash, this will be a g
 Please sign up to let us know that you will join: https://hackmd.io/@turingway/collaboration-cafe.
 * **Save the dates for November**: 4 ([in your time zone](https://arewemeetingyet.com/London/2020-11-04/15:00)) and 18 November ([in your time zone](https://arewemeetingyet.com/London/2020-11-18/15:00)).
 
-### Weekly Coworking Calls: 
+### Weekly Coworking Calls:
 
 We host two coworking calls (1 hour each) every week.
 Bookmark this document, and sign up to join one or multiple of these sessions this month: https://hackmd.io/@turingway/coworking-call.
@@ -51,7 +51,7 @@ Bookmark this document, and sign up to join one or multiple of these sessions th
 
 Thanks to our Hacktoberfest contributors for translating and reviewing _The Turing Way_ README.md file in multiple languages.
 The file has been translated into **Dutch** (by Esther Plomp and Stefan Janssen), **Italian** (by Angelo Varlotta and Luca Bertinetto), **Spanish** (by Camila Rangel-Smith, Reina Camacho Toro and Laura Acion) and **Portuguese** (by Romero Silva and Gustavo Becelli do Nacimento), which are available in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/main/README-translated).
-Translation in more languages including **French, German, Indonesian and Turkish** is ongoing with the help of different contributors (see [GitHub issue #1335](https://github.com/alan-turing-institute/the-turing-way/issues/1335)). 
+Translation in more languages including **French, German, Indonesian and Turkish** is ongoing with the help of different contributors (see [GitHub issue #1335](https://github.com/alan-turing-institute/the-turing-way/issues/1335)).
 
 ### Tutorial on creating Jupyter Book with _The Turing Way_
 
@@ -61,12 +61,12 @@ Through a step-by-step guide in 7 modules, you will learn about the collaborativ
 These modules are written in [Jupyter Notebooks](https://github.com/jupytercon/2020-jupyterbook-with-turing-way/blob/main/notebooks), which are paired with introductory videos available in this [YouTube playlist](https://www.youtube.com/playlist?list=PLBxcQEfGu3Dmdo6oKg6o9V7Q_e7WSX-vu).
 Thanks to Chris Holdgraf and Kirstie Whitaker for supporting this project and contributing introductory videos for the tutorial.
 Check out this tutorial, and share your feedback with us so that we can improve and further develop this resource.
- 
+
 
 ![Martina quote Tweeting Kirstie’s tweet about their Jupyter Book tutorial](images/Tweet-MGV-Oct2020.png)
 
 [Martina quote Tweeting Kirstie’s tweet](https://twitter.com/martinagvilas/status/1314497921455357952?s=20) about their Jupyter Book tutorial at JupyterCon 2020
- 
+
 ### Contributors record for collaborating organisations
 
 Last month, we announced the publication of our Contributors Record online in the [Afterword section of _The Turing Way_](https://the-turing-way.netlify.app/afterword/contributors-record.html).
@@ -77,16 +77,16 @@ If you have participated in _The Turing Way_ with the support of your organisati
 ## Contributor in focus: Paul Owoicho
 
 We are delighted to introduce our Google Season of Doc (GSoD) intern, Paul Owoicho.
-Paul has a BSc in Software Engineering from the American University of Nigeria, and an MSc in Data Science from the University of Glasgow. 
-He will be working with us for the next few months in the role of a technical writer, providing editorial support in the project. 
+Paul has a BSc in Software Engineering from the American University of Nigeria, and an MSc in Data Science from the University of Glasgow.
+He will be working with us for the next few months in the role of a technical writer, providing editorial support in the project.
 Together with Neha Moppen, he is participating in Open Life science with a project to embed accessibility in _The Turing Way_ guide, where he will receive training and mentorship on Open Science and community skills ([project detail](https://openlifesci.org/ols-2/projects-participants/)).
 
 
 ![Portrait image of Paul Owoicho](images/Paul-Oct2020.png)
 
 In his words:
-> The Turing Way is my first foray into open source and has been a fantastic learning experience. 
-> Not only have I gained a deeper understanding and appreciation for how GitHub works, but I am also learning to prioritise sustainability and empowerment in the work that I do. 
+> The Turing Way is my first foray into open source and has been a fantastic learning experience.
+> Not only have I gained a deeper understanding and appreciation for how GitHub works, but I am also learning to prioritise sustainability and empowerment in the work that I do.
 >  I am also super grateful for the opportunity to work with people (who I may not have met otherwise) from around the world.
 
 Read more about him in our [Contributors Record online](https://the-turing-way.netlify.app/afterword/contributors-record.html#paul-owoicho).
@@ -102,10 +102,10 @@ Read more about him in our [Contributors Record online](https://the-turing-way.n
 
 ### Podcast recommendation
 
-Ed Chalstrey invited Sarah Gibson and Kirstie Whitaker to be featured on The Turing Podcast's recent episode, published under the title [Reproducible Data science: How hard can it be?](https://podcasts.apple.com/gb/podcast/reproducible-data-science-how-hard-can-it-be/id1504860303?i=1000492423241). 
+Ed Chalstrey invited Sarah Gibson and Kirstie Whitaker to be featured on The Turing Podcast's recent episode, published under the title [Reproducible Data science: How hard can it be?](https://podcasts.apple.com/gb/podcast/reproducible-data-science-how-hard-can-it-be/id1504860303?i=1000492423241).
 In this episode, Kirstie and Sarah discuss how they facilitate research reproducibility through their work.
- 
-![Screenshot of a tweet by Sarah Gibson](images/Tweet-SG-Oct2020.png) 
+
+![Screenshot of a tweet by Sarah Gibson](images/Tweet-SG-Oct2020.png)
 
 *[Sarah Gibson Tweets](https://twitter.com/drsarahlgibson/status/1309489395175751690?s=20) about the Turing Podcast episode where Ed invited her and Kirstie to talk about the reproducibility of scientific research.*
 
@@ -136,8 +136,8 @@ Thanks to Peter Oxley, Reshama Shaikh, Mariam Ahmed, Martina Vilas, Veronika Che
 
 #### Register for the Ally Skills workshops
 
-The Open Life Science team members will offer **virtual Ally Skills workshops on December 4 2020**. 
-Participants of this workshop will learn about and practice simple daily techniques to make their workplace and communities more inclusive. 
+The Open Life Science team members will offer **virtual Ally Skills workshops on December 4 2020**.
+Participants of this workshop will learn about and practice simple daily techniques to make their workplace and communities more inclusive.
 Read more about the workshop in [this blog post](https://openlifesci.org/posts/2020/10/05/ally-skills-training/).
 
 Two training sessions are scheduled to accommodate participants in different time zones.
@@ -147,7 +147,7 @@ Two training sessions are scheduled to accommodate participants in different tim
 #### Software Sustainability Institute Fellowship 2021
 
 Applications for the [Software Sustainability Institute’s Fellowship Programme 2021](https://software.ac.uk/news/ssi-fellowship-programme-2021) will **open on Monday 7 December 2020**.
-The Fellowship Programme provides funding for individuals who want to improve how research software is done in their domains and/or area of work. 
+The Fellowship Programme provides funding for individuals who want to improve how research software is done in their domains and/or area of work.
 Each Fellow will be allocated £3,000 to spend over 15 months beginning 1 May 2021.
 The funding is flexible to support activities that are beneficial to both the Fellow and the Institute.
 Sign up for updates and to be notified when registration opens: https://software.ac.uk/news/ssi-fellowship-programme-2021.

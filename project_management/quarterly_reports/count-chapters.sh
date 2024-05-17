@@ -26,7 +26,7 @@ for guide in "${guide_list[@]}";do
     chapters=$(find "${path}${guide}" -maxdepth 1 -type f | cut -d/ -f2 | sort | wc -l | awk '{print $1 - 1}')
     # count subchapters in each guide
     subchapters=$(find "${path}${guide}" -type f | cut -d/ -f2 | sort | wc -l| awk '{print $1 - 1}')
-    
+
     echo "${guide}; $chapters; $subchapters"
     echo "${guide}; $chapters; $subchapters" >> book-stats.csv
 

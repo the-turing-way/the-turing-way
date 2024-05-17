@@ -1,7 +1,7 @@
 (ch-accessibility-alttext)=
 # Alt text
 
-Alternative text (or alt text) are used for describing the appearance and function of an image on an HTML page for users who cannot see it. 
+Alternative text (or alt text) are used for describing the appearance and function of an image on an HTML page for users who cannot see it.
 Alt text is often used by visually impaired people who use assistive technology such as screen readers.
 Adding alt texts to figures is one of the first principles of web accessibility as it enables the screen reader software to read an alt text to its users helping them understand/explain the content.
 
@@ -10,8 +10,8 @@ If an image link breaks, alt texts are still functional and read as intended by 
 
 ## Best practices for describing an image in an alt text
 
-Writing alt text is all about context. 
-Being aware of how the image is presented and the context in which it sits will give any assistive technology user a better experience. 
+Writing alt text is all about context.
+Being aware of how the image is presented and the context in which it sits will give any assistive technology user a better experience.
 If you’re writing about an image of a painting, you might want to consider if the style of painting is important, does knowing the painter’s name add value? It’s up to you to decide what information is essential.
 
 Here are a few things to keep in mind when writing alt text:

@@ -5,9 +5,9 @@ One neat way of sharing your research workflow - whether that is your data clean
 
 Working with sensitive data may, however, create barriers to sharing your Jupyter notebook: you do not want to commit a Jupyter notebook containing sensitive data to GitHub.
 
-You can get around this hurdle by manually clearing your notebook's output before each Git commit you do. 
-This process is, however, time-consuming, cumbersome and - most importantly - extremely error-prone. 
-You only need to forget to clear the output once to inadvertently expose your data. 
+You can get around this hurdle by manually clearing your notebook's output before each Git commit you do.
+This process is, however, time-consuming, cumbersome and - most importantly - extremely error-prone.
+You only need to forget to clear the output once to inadvertently expose your data.
 Another, much more efficient (and failsafe!) way of doing this is by using `nbstripout`.
 
 ## `nbstripout`
@@ -36,6 +36,6 @@ If you decide that you would like to remove `nbstripout`, simply run `nbstripout
 `nbstripout` is generally installed in one local Git repository at a time, so that you can control when it is applied as a filter.
 
 However, if all of your notebooks deal with sensitive data, it might be a good idea to  install `nbstripout` globally across all of your Git repositories.
-This way, no notebooks risk slipping under the radar. 
+This way, no notebooks risk slipping under the radar.
 
 To install `nbstripout` globally, run the command: `nbstripout --install --global`

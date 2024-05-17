@@ -1,7 +1,7 @@
 # Notes 26 June
 
 ## Attendees
- 
+
 * Kirstie
 * Anne
 * Emma
@@ -39,8 +39,8 @@
 
 ## Advance asynchronous updates
 
-* 
-* 
-* 
-* 
-* 
+*
+*
+*
+*
+*

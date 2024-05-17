@@ -1,7 +1,7 @@
 (pd-code-styling-guidelines)=
 # Guidelines for Code Styling
 
-Style guidelines differ between organisations, languages, and over time. 
+Style guidelines differ between organisations, languages, and over time.
 Even, the Python style guide Python Enhancement Proposal 8 (PEP 8) has had numerous revisions since it was released in 2001.
 You must choose a framework that is best for your purposes: be they for your benefit or the benefit of others.
 It is also important to remain consistent (and not consistently inconsistent)!
@@ -87,7 +87,7 @@ Storing it as a separate variable lets us see what transformations have been car
 rawDat_recoded <- recode(rawDat)
 ```
 
-If you like you can clear out the old variable using remove as above.  
+If you like you can clear out the old variable using remove as above.
 
 ```
 remove(rawDat) #In R

@@ -33,9 +33,9 @@
 ### Icebreaker
 
 *Name / A cool fact/brag about you that most people do not know (and you wished they did!)* 📢 💐
-* 
-* 
-* 
+*
+*
+*
 
 ### Sign up to work with the Scriberia artist
 
@@ -46,10 +46,10 @@
 _Share your ideas for contributions and collaboration during the book dash_
 
 *Name: goals/plans/ideas*
-* 
-* 
-* 
-* 
+*
+*
+*
+*
 
 ### Development session (time block 1)
 
@@ -62,17 +62,17 @@ _Share your ideas for contributions and collaboration during the book dash_
 | 09:20 - 09:55 |       Second Pomodoro :tomato: |
 | 09:55 - 10:05 |               Quick report out |
 | 10:05 - 10:25 |        Third "Short" Pomodoro :tomato: |
-| 10:25 - 10:30 |                     Report out | 
+| 10:25 - 10:30 |                     Report out |
 
 *_Report Out_*
 * Marta - invited Emmanuelle to collaborate to the dataviz section draft
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+*
+*
+*
+*
+*
+*
+*
 
 ### Development session (time block 2)
 
@@ -84,13 +84,13 @@ _Share your ideas for contributions and collaboration during the book dash_
 | 12:00 - 12:35 | Second Pomodoro :tomato: |
 | 12:35 - 12:45 |         Quick report out |
 | 12:45 - 13:20 |  Third Pomodoro :tomato: |
-| 13:20 - 13:30 |               Report out | 
+| 13:20 - 13:30 |               Report out |
 
 *_Report Out_*
-* 
-* 
-* 
-* 
+*
+*
+*
+*
 
 ### Themed Discussion and networking Session (time block 3)
 
@@ -118,11 +118,11 @@ _Share your ideas for contributions and collaboration during the book dash_
 | 18:00 - 18:35 | Second Pomodoro :tomato: |
 | 18:35 - 18:45 |         Quick report out |
 | 18:45 - 19:20 |  Third Pomodoro :tomato: |
-| 19:20 - 19:30 |               Report out | 
+| 19:20 - 19:30 |               Report out |
 
 *_Report Out_*
-* 
-* 
 *
 *
-* 
+*
+*
+*

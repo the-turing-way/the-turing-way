@@ -18,21 +18,21 @@ We are delighted to share that the Xth Book Dash was hosted successfully from DD
 
 ### Format of the event
 
-_The Turing Way_ [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. 
+_The Turing Way_ [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date.
 They also contribute to enhancing the project by improving the ways we work in the community and take lead on accomplishing different tasks or subprojects.
 
 <!-- The November edition of Book Dash featured 18 contributors, 6 committee members, 13 online working sessions, four discussions and social events, and two community share-outs.
 
-In the past, we have organised 1-1.5 day long Book Dash events in person or partially remote. 
+In the past, we have organised 1-1.5 day long Book Dash events in person or partially remote.
 However, since November 2020, we have been hosting Book Dashes online and with multiple short co-working called development sessions spread over 5 days for flexible participation by members.
-We developed this format to allow people in different time zones to participate with the same efficiency and equitable support. 
+We developed this format to allow people in different time zones to participate with the same efficiency and equitable support.
 This involved creating multiple small development sessions throughout the day, adding dedicated sessions for informal social interactions, developing shared documents with all the information, providing support funds to ensure that everyone can comfortably participate and hosting a pre-event call to communicate these resources to everyone. -->
 
 ### Application, Review and Selection process
 
 <!-- As in the past, we invited applications through an open call where interested applicants could state their goals and interest for the Book Dash. This application was also open for the long term members from the community who may have attended a Book Dash or Collaboration Cafes in the past to join as a helper and mentor for new contributors as well.
 
-Applicants were asked to think about the collaborative element of the Book Dash and state how they could engage with other participants. 
+Applicants were asked to think about the collaborative element of the Book Dash and state how they could engage with other participants.
 To get a sense of the time zones these applicants came from, we asked them to choose their preferred slots during the day that they can join. You can see a template of this document [here](https://tinyurl.com/tw-bookdash-template).
 
 The Book Dash Planning Committee used the rubrics (as explained in the [online chapter](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-application.html#reviewing-process)) to score the applications during the review. They met online to discuss applications, frame feedback and conclude their selection process. -->
@@ -43,7 +43,7 @@ The Book Dash Planning Committee used the rubrics (as explained in the [online c
 
 Learn more about them:
 
-<!-- 
+<!--
 -   Arielle is the Research Project Manager for the Tools, Practices & Systems Programme at the Alan Turing Institute. In _The Turing Way_, she has worked on writing, facilitating discussion and mentored contributions in the Guide for Ethical Research ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#arielle-bennett)).
 -   Batool is a postdoctoral researcher at King Abdullah International Medical Research Center and the founder of Open Science Network and R-Ladies in Saudi Arabia. Batool is an infrastructure maintainer in _The Turing Way_ and brings her rich experience in computation as a mentor, content creator, translator and core contributor in the project ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#batool-almarzouq)).
 -   Brigitta is an astronomer and [discoverer of minor planets](https://en.wikipedia.org/wiki/Brigitta_Sip%C5%91cz). She is involved in several open source communities as a developer and maintainer of open source astronomy software. In _The Turing Way_, she has contributed to infrastructure support and crucial discussions on community channels ([details](https://bsipocz.github.io/)).
@@ -51,13 +51,13 @@ Learn more about them:
 -   Emma is a Research Associate and Community Manager of DECOVID at The Alan Turing Institute, and an Environmental Archaeology and Palaeoecology researcher. She has led several collaborations and discussions on chapters within the Guides for Collaboration and Communication ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#emma-karoune)).
 -   Esther is a Data Steward at the Delft University of Technology, Netherlands. She has been a core contributor to the project developing, guiding and collaborating on chapters related to data management and reproducibility ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#delft-university-of-technology-faculty-of-applied-sciences)).
 
-We want to express our gratitude for their thoughtful engagement in the project and for helping build an inclusive and safe place in the Book Dash. 
+We want to express our gratitude for their thoughtful engagement in the project and for helping build an inclusive and safe place in the Book Dash.
 It is only with their help, we can host the next event in November taking careful consideration for our participants.
 -->
 
 ### Timeline
 
-<!-- 
+<!--
  - Call for application start date: 15 August 2021
  - Deadline: **01 October 2021** (midnight anywhere on Earth)
  - Decisions on the applications: before 20 October 2021
@@ -69,7 +69,7 @@ It is only with their help, we can host the next event in November taking carefu
 
 ## Additions to The Turing Way Book
 
-<!-- 
+<!--
 Exciting additions from this Book Dash, as captured concisely by Esther Plomp in [her blog](https://openworking.wordpress.com/2021/11/18/the-turing-way-book-dash-online/):
 
 -   [Batool](https://twitter.com/batool664), [Andrea](https://twitter.com/SanchezTapiaA) and [Alejandro](https://twitter.com/alejo_coca) worked on improving the documentation of translation within the Community Handbook.
@@ -88,11 +88,11 @@ Exciting additions from this Book Dash, as captured concisely by Esther Plomp in
 -   [Nina](https://twitter.com/ninadicara) had started to work on a chapter during the last Book Dash on Sel-Reflection in Ethical Research. [Ali](https://twitter.com/aseyq) joined her to structure and review that chapter, which is now online [in the Guide for Ethical Research](https://the-turing-way.netlify.app/ethical-research/self-reflection.html).
 -   [Ankur](https://github.com/leoank) worked on a section about best practices around capturing and sharing analysis pipelines, which he has described under [issue #2171](https://github.com/alan-turing-institute/the-turing-way/issues/2171).
 -   [Melissa](https://github.com/melibleq) updated the chapter on [Tools for Remote Collaboration](https://the-turing-way.netlify.app/collaboration/remote-collab/remote-collab-tools.html), which is being reviewed under [Pull Request #2197](https://github.com/alan-turing-institute/the-turing-way/pull/2197).
---> 
+-->
 
 **GitHub activities:**
 
-<!-- 
+<!--
 - 12 Issues
 - 21 Pull Requests
 - 7 chapters were published or updated, along with several new drafts that are under progress
@@ -101,14 +101,14 @@ Exciting additions from this Book Dash, as captured concisely by Esther Plomp in
 
 **Presentations:**
 
-<!-- 
+<!--
 - Introduction: CC-BY 4.0, The Turing Way, DOI: 10.5281/zenodo.5654766, http://zenodo.org/record/5654766, Google slides: https://tinyurl.com/bookdash-nov21
 - GitHub intro session: https://docs.google.com/presentation/d/e/2PACX-1vR-Qu4kYulSMGnnAHH9-OonNiLkaJrsolEecEkt0VD5_3PmKWePmiSQwxK3QHoq5gNsL-MJKowmgsAx/pub?start=false&loop=false&delayms=3000#slide=id.g526267be46_0_606
 -->
 
 **Videos:**
 
-<!-- 
+<!--
 We have posted videos from the introduction session on the first day of the Book Dash, and two community shareouts on the last day of the Book Dash.
 Please find the [full playlist on YouTube](https://www.youtube.com/watch?v=k7ME2CAvWBY&list=PLBxcQEfGu3DnzmNM1ioa8wUwAZPmpQQ8G)
 
@@ -120,14 +120,14 @@ Our attendees also participated in a 'show and tell' social mean and three infor
 
 ### New Illustrations by Scriberia for  *The Turing Way* Community
 
-<!-- 
+<!--
 - Illustration files: https://zenodo.org/record/3332807, cite as *The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Way book dashes. Zenodo. https://doi.org/10.5281/zenodo.3332807*
 -->
 
 Feedback
 --------
 
-<!-- 
+<!--
 At the end of the event, we asked our participants to share feedback anonymously in the ["Pluses and Deltas" HackMD](https://hackmd.io/@turingway/bookdash-nov2021-feedback).
 
 We greatly appreciate the work that our attendees have accomplished in the project during this short event and thank them for their feedback, a few of which have been highlighted below.
@@ -136,7 +136,7 @@ We greatly appreciate the work that our attendees have accomplished in the proje
 Plus
 ---
 
-<!-- 
+<!--
 * Having multiple sessions with a shared document was really helpful
 * I loved that there were always people around to help
 * I really appreciate the work done to link up people who could work on the same topics/chapters.
@@ -147,7 +147,7 @@ Plus
 
 Delta
 ---
-<!-- 
+<!--
 * Felt that participants needed more briefing on working with the Scriberia artists
 * Maybe use a dedicated calendar tool for schedules
 * Audio-only sessions?
@@ -181,7 +181,7 @@ Here are a few suggestions for good first contributions:
 
 ### Relevant links & references from Book Dash
 
-<!-- 
+<!--
 * Application form: https://forms.gle/817Nj3fypRDK1q1v7
     * Application draft template: https://tinyurl.com/tw-bookdash-template
 * Eventbrite page for the participants to register: https://www.eventbrite.co.uk/e/the-turing-way-london-book-dash-november-2021-tickets-184864082447.
@@ -202,4 +202,4 @@ Here are a few suggestions for good first contributions:
 **Bonus Playlist with songs selected by our attendees**
 Link: https://www.youtube.com/watch?v=MTIzsTv1ENY&list=PLBxcQEfGu3DldMWK2Z9xz_CEaHHp19Vma
 
---> 
+-->

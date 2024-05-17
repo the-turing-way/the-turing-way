@@ -18,7 +18,7 @@ Differential privacy is a statistical tool which can estimate the risk of unique
 
 ### Synthetic data generation
 
-If sharing the original data raises privacy or ethical concerns, we can still contribute useful information by sharing synthetic datasets that reproduce statistical features of the original dataset without exposing actual instances {cite:ps}`torfiDifferentiallyPrivateSynthetic2020`. 
+If sharing the original data raises privacy or ethical concerns, we can still contribute useful information by sharing synthetic datasets that reproduce statistical features of the original dataset without exposing actual instances {cite:ps}`torfiDifferentiallyPrivateSynthetic2020`.
 
 ### Useful resources
 
@@ -41,7 +41,7 @@ We can also draw on the experience of research in the field of cross-domain trai
 
 ### Differential privacy
 
-Differential privacy has also seen significant use as a technique for preserving privacy during model training, reducing the risk of the model learning individual data points too well by adding small amounts of statistical noise during training {cite:ps}`boulemtafesReviewPrivacypreservingTechniques2020,feyisetanPrivacyUtilitypreservingTextual2020`. 
+Differential privacy has also seen significant use as a technique for preserving privacy during model training, reducing the risk of the model learning individual data points too well by adding small amounts of statistical noise during training {cite:ps}`boulemtafesReviewPrivacypreservingTechniques2020,feyisetanPrivacyUtilitypreservingTextual2020`.
 
 ### Useful resources
 

@@ -2,7 +2,7 @@
 
 ## Attendees
 
-* Sophia 
+* Sophia
 * Emma
 * Anne
 * Ale
@@ -31,7 +31,7 @@
   * Gabin
 * AutSPACEs moderation paper
   * Bastian
- 
+
  ## Notes
 
 * Stakeholder mapping
@@ -44,7 +44,7 @@
   * Aligned the content of the paper, add the data science personas
   * Discussed the different outputs: policy briefing, podcast
 * Inclusive events chapter
-  * Discussing a few examples that couple be pulled out as more immediately publishable milestones (i.e. Accessible vs Inclusive section?) 
+  * Discussing a few examples that couple be pulled out as more immediately publishable milestones (i.e. Accessible vs Inclusive section?)
   * Planning for the upcoming accessibility working group meeting: key questions to ask in planning for restructuring
 * RCM paper
-  * Reflection on steps towards formalisation of the role in the broader ICT landscape. Similarities with Data Stewardship 
+  * Reflection on steps towards formalisation of the role in the broader ICT landscape. Similarities with Data Stewardship

@@ -18,7 +18,7 @@ Jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-```  
+```
 
 **1. name**
 

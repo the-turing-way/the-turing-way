@@ -88,7 +88,7 @@ On-demand, any file content can then be obtained with a `git-annex get` command 
 ### git submodules
 
 Submodules allows to split the data in different repositories, while keeping everything under a single "parent" repository.
-It is very powerful, but difficult to use. 
+It is very powerful, but difficult to use.
 Especially, using  {ref}`Git Branches<rr-vcs-workflow-branches>` in  submodules make it complex to handle.
 However, this is the only tool listed here allowing to work with many files in a Git repository.
 
@@ -104,11 +104,11 @@ In addition to sharing and version controlling large files; it allows recording,
 
 Data versioning in Git require the use of more complex tools, and this means that accessibility to the data will be more difficult.
 For instance, if you use datalad with Github, newcomers trying to see one of the large file will have difficulties:
-they will be able to see that the file exists, but will not be able to download or see it without cloning the repository and running git-annex or datalad commands. 
+they will be able to see that the file exists, but will not be able to download or see it without cloning the repository and running git-annex or datalad commands.
 
 So while using these tools will make Git commands to run faster, one may want to disable them for critical binary files, like presentations or pdfs.
 A solution can be to pack them in submodules, so that the repositories are keeping a small size.
 
-As an example, we can take the repository creating the turing book. 
+As an example, we can take the repository creating the turing book.
 The repository is slow to work with, because a lot of binary files were used over the time.
 However, it makes the onboarding of new users easier.

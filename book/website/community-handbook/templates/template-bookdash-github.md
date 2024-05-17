@@ -33,9 +33,9 @@ we will give you an optional 1 hour GitHub tutorial:
 ## Sign up below by adding your name
 
 Name / Institute or affiliation / What specific aspect of GitHub do you find challenging?
-* 
-* 
-* 
+*
+*
+*
 
 🗣️ Welcome!
 
@@ -44,10 +44,10 @@ Name / Institute or affiliation / What specific aspect of GitHub do you find cha
 
 ### Roll call
 
-- Name / Icebreaker question: Share something from nature that has awed you or brought you peace recently - perhaps a flower, a view, a photo, a scent, a potted plant, a bird that flew past... 
-* 
-* 
-*  
+- Name / Icebreaker question: Share something from nature that has awed you or brought you peace recently - perhaps a flower, a view, a photo, a scent, a potted plant, a bird that flew past...
+*
+*
+*
 
 🗣️ Introduction to GitHub
 
@@ -55,10 +55,10 @@ Name / Institute or affiliation / What specific aspect of GitHub do you find cha
 - Slides: [Friendly GitHub Intro](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing)
 - Cheatsheet: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-**Breakout room task:** 
-- 
-- 
-- 
+**Breakout room task:**
+-
+-
+-
 
 **Resources** :
 
@@ -74,9 +74,9 @@ Name / Institute or affiliation / What specific aspect of GitHub do you find cha
   - [Writing on Github](https://help.github.com/categories/writing-on-github/)
   - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [Git workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)
- 
+
 **Questions / Comments?**
-  - 
+  -
   -
 
 **Feedback**

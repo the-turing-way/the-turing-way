@@ -267,12 +267,12 @@ Octobox is a cool tool for managing your GitHub notifications: https://octobox.i
 **What is covered?**
 
 -   Food & non-alcoholic drinks up to £50 (you can use this towards groceries to sustain your participation during the book dash)
--   Accessibility items or costs up to £75  
+-   Accessibility items or costs up to £75
 
 **Requirements**
 
--   Expenses will be reimbursed after the Book Dash  
+-   Expenses will be reimbursed after the Book Dash
 -   Participants will need to provide receipts for all expenses when they submit for reimbursement
 -   All participants will need to sign and return the policy form and the expense claim form shared via an email
--   Participants should complete the form in the original currency of the expenses (no need to covert to GBP)  
+-   Participants should complete the form in the original currency of the expenses (no need to covert to GBP)
 -   Forms and receipts **must be submitted by Friday 4 June to [tps@turing.ac.uk](mailto:tps@turing.ac.uk), copying in [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)**

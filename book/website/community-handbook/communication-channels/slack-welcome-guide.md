@@ -9,7 +9,7 @@ Slack is one of our core communication channels within the *The Turing Way* comm
 *Here is a short guide to the default slack channels (meaning, you've already been added to them when you joined this space!)*:
 * [#announcements](https://theturingway.slack.com/archives/C014ZE7SKK3): Ping you about recurring community calls and community events (feel free to mute!)
 * [#ask-away](https://theturingway.slack.com/archives/C01ESKR7WN4): Use this channel to ask any question you might have - general or specific, and we'll make sure to redirect you to the right resources
-* [#community](https://theturingway.slack.com/archives/C014KE9A9LM): Topics related to the community, celebrations, collaborations, and other projects 
+* [#community](https://theturingway.slack.com/archives/C014KE9A9LM): Topics related to the community, celebrations, collaborations, and other projects
 * [#general](https://theturingway.slack.com/archives/C014LRAK48J): For general-purpose conversations & questions
 * [#github-related-posts](https://theturingway.slack.com/archives/C014LRL27KL): For chapter ideas and discussions, as well as ongoing projects within the github repository.
 * [#ideas-for-discussion](https://theturingway.slack.com/archives/C014ZE7SL9F): For discussion and ideas, related to the guides & otherwise
@@ -55,7 +55,7 @@ We are in the process of developing platform-specific guidelines for Slack and o
 * **Bandwidth**: In order to make sure that Slack is accessible in low-bandwidth environments for the community, avoid posting data-intensive content like videos directly into the channels. Instead, prioritise hosting the content on other platforms (such as YouTube), and sharing the link.
 * **Openness**: Remember that not everyone in the *The Turing Way* community is in the Slack workspace – or on every social media channel. Where possible – especially when discussing chapter ideas and other collaborations – create issues and discussions on the Github repository or post across social media channels, in order to ensure the widest reach and participation possible.
 
-In general, we encourage an approach to Slack that is as accessible as possible, for as many people as possible. Please practice kindness when you communicate with others, and be mindful of cultural, linguistic, disability, and individual differences that may affect how people communicate online. 
+In general, we encourage an approach to Slack that is as accessible as possible, for as many people as possible. Please practice kindness when you communicate with others, and be mindful of cultural, linguistic, disability, and individual differences that may affect how people communicate online.
 
 Is there anything we are missing? Please reach out to the Research Community Manager Anne Lee Steele on Slack or by email at asteele@turing.ac.uk, or to any members of the core team listed on this [Ways of Working document](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md).
 
@@ -66,5 +66,5 @@ Is there anything we are missing? Please reach out to the Research Community Man
 ## Don't know where to start?
 
 * Join us at an upcoming Onboarding Call - hosted every 2 months!
-* Feel free to send me (Anne Lee Steele) a message on Slack or email at asteele@turing.ac.uk if you have any questions or don’t know where to start. I’m the Community Manager (but just one of many leaders in this community), and here to help! 
+* Feel free to send me (Anne Lee Steele) a message on Slack or email at asteele@turing.ac.uk if you have any questions or don’t know where to start. I’m the Community Manager (but just one of many leaders in this community), and here to help!
 * Join us at a [Collaboration Cafe](https://hackmd.io/@turingway/collaboration-cafe), which happen on a bi-monthly basis on Wednesdays to meet more members of the community, and learn more about the project.

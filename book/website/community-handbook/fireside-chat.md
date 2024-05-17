@@ -3,7 +3,7 @@
 
 *The Turing Way* Fireside Chat Series features public events with experts, champions and their projects in reproducibility, open research, ethics, collaboration and other opportunities in data science and research.
 
-*The Turing Way* team collaborates with different international communities to co-design and co-host Fireside Chat events that are informal yet structured discussions on topics of shared interests across research communities. 
+*The Turing Way* team collaborates with different international communities to co-design and co-host Fireside Chat events that are informal yet structured discussions on topics of shared interests across research communities.
 Speakers are invited from diverse backgrounds and perspectives present their views, contextualise the topics in their areas of work and catalyse cross-community collaborations through knowledge sharing.
 
 ```{figure} ../figures/fireside-chat.*
@@ -30,12 +30,12 @@ The concept has since evolved from one-way addresses to two-way debates and was 
 In *The Turing Way*, we imagine Fireside Chats as conversations among friends and colleagues taking place around a warm inviting fireplace.
 Through the Fireside Chat series in *The Turing Way*, we want to build an intentional space to gather, facilitate important conversations and establish cross-community collaborations.
 
-Different stakeholders in open research and grassroots communities have a shared mission of making scientific knowledge freely available for public access and for the benefit of society. 
-However, most of these communities operate independently of other initiatives, either lacking the capacity to build meaningful collaboration or competing for limited resources. 
+Different stakeholders in open research and grassroots communities have a shared mission of making scientific knowledge freely available for public access and for the benefit of society.
+However, most of these communities operate independently of other initiatives, either lacking the capacity to build meaningful collaboration or competing for limited resources.
 This often results in scientific outputs that most users can find, but not access, or build upon in their local contexts.
 Open discussions and spaces for collaborations can contribute to individual benefit, team efforts as well as the overall sustainability of the open science ecosystem {cite}`Sharan2021reimagine`.
 
-*The Turing Way* Fireside Chat series will facilitate discussions on topics of broader interest, create shared spaces for cross-community collaborations and build opportunities for exchanging common experiences and resources. 
+*The Turing Way* Fireside Chat series will facilitate discussions on topics of broader interest, create shared spaces for cross-community collaborations and build opportunities for exchanging common experiences and resources.
 
 ## Scope
 
@@ -69,7 +69,7 @@ The schedule is decided based on the availability of individuals invited as spea
 - **Eventbrite pages**: Registrations are handled via [*The Turing Way* Eventbrite page](https://www.eventbrite.co.uk/o/the-turing-way-18600928389). The event is free to attend and recordings are shared with all registered participants after the event.
 - **Zoom**: We host Fireside events online using [Zoom](https://zoom.us/) (with live transcription), however, the platform for the participants can change based on the preference of the majority of speakers.
 - **Online promotion**: Announcements are shared on *The Turing Way* [X (formerly Twitter)](https://twitter.com/turingway), [Slack workspace](https://tinyurl.com/jointuringwayslack) and [monthly newsletters](https://tinyletter.com/TuringWay), which are then cross-posted by other communities in their network.
-- **Shared Documents**: We currently use Etherpad by Software Freedom Conservancy to enable shared note-taking during the event. Refer to this for example - https://pad.sfconservancy.org/p/ttw-fireside-chat-mar2022. 
+- **Shared Documents**: We currently use Etherpad by Software Freedom Conservancy to enable shared note-taking during the event. Refer to this for example - https://pad.sfconservancy.org/p/ttw-fireside-chat-mar2022.
     - **Template** is provided as a subchapter: {ref}`ch-template-fireside-chat`.
     - **Overview of all Fireside Chats** are currently shared via HackMD: https://hackmd.io/@turingway/fireside-chats.
 - **Video Recording**: Video recordings with closed captioning are shared on *The Turing Way* YouTube channel in the [Fireside Chat video playlist](https://www.youtube.com/watch?v=nuNA3Qa8A-k&list=PLBxcQEfGu3DmBcSmt9GVfo4wN1KP1y2yl).
@@ -77,10 +77,10 @@ The schedule is decided based on the availability of individuals invited as spea
 ### Participants
 
 - **Co-host**: A community/organisation/project is invited to collaborate and co-host a Fireside Chat with *The Turing Way* team.
-One of the team members works with the co-host to co-design and plan the event, as well as co-facilitate the discussion during the event. 
-- **Speakers**: 3-4 speakers are invited from multiple communities to allow multiple perspectives to be shared. 
-Speakers include the co-hosts as the contributors to the discussion. 
+One of the team members works with the co-host to co-design and plan the event, as well as co-facilitate the discussion during the event.
+- **Speakers**: 3-4 speakers are invited from multiple communities to allow multiple perspectives to be shared.
+Speakers include the co-hosts as the contributors to the discussion.
 Speakers are invited several weeks before the event to contribute to the event at the planning phase by sharing questions they hope to discuss during the event.
 - **Open participation**: To enable open collaboration during the event, we facilitate open collaboration via Zoom chat and shared note-taking in Etherpad. Although the event is an informal discussion, we record the session upon the speakers' permission. We do not run interactive sessions to avoid recording anyone who may not have consented to be recorded. Call hosts can plan to allocate part of the event for open discussions that should not be recorded.
- 
+
 *The Turing Way* {ref}`Code of Conduct<ch-coc>` applies to the Fireside Chat participants and all interactions taking place as a part of the event.

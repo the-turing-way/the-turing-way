@@ -71,7 +71,7 @@ Anna Hadjitofi has written [a guide to using the Transifex interface](https://gi
 They recommend that it's more effective when 2 people work on the translation process together so that they can review each other's translations.
 
 Transifex will also allow you to raise issues and browse all the past translations.
-Tony has opened the [GitHub issues with the label "Translation"](https://github.com/alan-turing-institute/the-turing-way/labels/translation) to keep record of the contributions made by the different translator's groups. 
+Tony has opened the [GitHub issues with the label "Translation"](https://github.com/alan-turing-institute/the-turing-way/labels/translation) to keep record of the contributions made by the different translator's groups.
 
 You can start with [this meta-issue](https://github.com/alan-turing-institute/the-turing-way/issues/967) to get an overview of all the discussions around translation.
 Tony has also set up a netlify build on the translation branch that can be previewed for [Chinese version here](https://competent-nightingale-4c1d36.netlify.com/zh_cn/introduction/introduction) and the [Spanish version here](https://competent-nightingale-4c1d36.netlify.com/es/introduction/introduction).
@@ -99,7 +99,7 @@ If you are new to GitHub or _The Turing Way_, or both, here are a few resources 
 
 * Start by reading our [contribution guideline](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md), that lists the different pathways for the new and existing contributors to interact with this project.
 * [GitHub issues](https://github.com/alan-turing-institute/the-turing-way/issues) are opened by different contributors on the topics they are interested in discussing, fixing or working on in the future.
-* You can browse these issues by labels (see [contributing through GitHub section](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#contributing-through-github)) and participate in a conversation by adding your comment under the respective issues. 
+* You can browse these issues by labels (see [contributing through GitHub section](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#contributing-through-github)) and participate in a conversation by adding your comment under the respective issues.
 * We have [good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) to help our new contributors start by contributing little because every little bit helps.
 * You can open a new issue on a topic where you would like to gather feedback from others.
 * You are invited to introduce yourself to others on [our Gitter channel](https://gitter.im/alan-turing-institute/the-turing-way), or reach out to Malvika, _The Turing Way's_ community manager, by emailing [theturingway@gmail.com](mailto:theturingway@gmail.com).

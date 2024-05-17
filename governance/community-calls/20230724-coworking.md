@@ -1,7 +1,7 @@
 # Notes 24 July
 
 ## Attendees
- 
+
 * Anne
 * Alex
 * Batool
@@ -31,11 +31,11 @@
     * Book Dash Committee has been split into two groups: Working Group and Delivery Team
         * Working Group: Asking questions like: How do hubs interact with each other and online?
     * Example of [Mozilla Global Sprint](https://github.com/mozilla/global-sprint): mix of online & in person, with a much larger idea to convene
-* The Practitioners Hub Workshop planning: 
+* The Practitioners Hub Workshop planning:
     - Jen and Ale discussion about the panel
 
 ## Advance asynchronous updates
 
-* 
-* 
-* 
+*
+*
+*

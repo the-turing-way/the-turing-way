@@ -23,7 +23,7 @@ doc/*.txt
 sensitive/**/*.pdf
 ```
 Each line in the `.gitignore` file specifies a pattern.
-These patterns are then checked against the file names in your repository, to determine which of them should be ignored. 
+These patterns are then checked against the file names in your repository, to determine which of them should be ignored.
 
 The following rules for writing `.gitignore` file patterns can be found in the [Git Pro book](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#_ignoring):
 
@@ -49,7 +49,7 @@ Files that are already tracked by Git (that is, files that has previously been s
 It is therefore often a good idea to create a `.gitignore `file when you set up a new repository, so that you do not accidentally commit files that you do not want to.
 
 It is, nevertheless, possible to ignore files that are already tracked by Git.
-To do this, you will first need to delete the file from your repository and then add a new rule to your `.gitignore` file. 
+To do this, you will first need to delete the file from your repository and then add a new rule to your `.gitignore` file.
 
 ### Committing a file that has previously been ignored
 
@@ -62,4 +62,3 @@ In most cases (or at least in the simplest of cases), your repository will have 
 It is, however, possible to have multiple `.gitignore` files within subdirectories of the same repository.
 In such cases, the rules within the `.gitignore` file will only be applied to the subdirectory within which it is located.
 This means that different `.gitignore` rules can be applied across the same repository.
-

@@ -39,7 +39,7 @@ NA
 - [ ] Digital Twins of Assets (Data Centric Engineering)
 - [x] Digital Twins of Systems (Urban Analytics)
 - [x] Criminal Justice System (Public Policy)
-- [x] Health 
+- [x] Health
 - [ ] AI for Science
 
 ### Abstract
@@ -65,7 +65,7 @@ But reproducibility does not cover core data science practices such as:
 Furthermore, the book does not currently include the aspects of data science and AI that define whether work was ethically designed and reported.
 By curating this knowledge in an accessible format, _The Turing Way_ series will support the Turing Institute's goals of delivering world class research, training the leaders of tomorrow, and leading the public conversation.
 
-_The Turing Way_ will not replace academic journals or software packages. 
+_The Turing Way_ will not replace academic journals or software packages.
 It is a pedagogical opportunity, a translation of research outputs into curated tutorials, case studies and checklists.
 The books are Jupyter Books (https://github.com/jupyter/jupyter-book) which build and host web content directly from markdown files or jupyter notebooks in a GitHub repository.
 They are easy to version control, edit and extend.
@@ -119,7 +119,7 @@ Pathways:
 
 *Max 300 words*
 
-Translating knowledge across domains is always harder than it first appears. 
+Translating knowledge across domains is always harder than it first appears.
 Tackling the *known unknowns* is the core goal of _The Turing Way_: providing a space for research teams to acquire the skills that they know they lack.
 In helping experts to adopt new tools and practices, we will inevitably identify challenges that the original developers had not foreseen.
 These *unknown unknowns* - or more specifically, the *unknowns that we thought we knew* - will generate exciting new research opportunities.
@@ -171,7 +171,7 @@ _The Turing Way_ will evolve as the community grows and anyone who wishes to con
 
 Specific communities and points of contact that have shown support for this proposal are:
 
-* **Turing Training Steering Group**, Suzy Moat, Ben Murton. 
+* **Turing Training Steering Group**, Suzy Moat, Ben Murton.
 * **Policy programme and ethics advisory group**, David Leslie, Kirstie Whitaker.
 * **Health programme**, Chris Holmes, Catherine Lawrence, Maria Wolters.
 * **Data science at scale programme**, Anthony Lee.
