@@ -66,7 +66,8 @@ To use pre-commit:
 2. Create a `.pre-commit-config.yaml` file in your repository root, specifying the [hooks](https://pre-commit.com/hooks.html) you want to use
 3. Install the hooks: `pre-commit install`
 
-Now, every time you run `git commit`, the configured hooks will run automatically. If any issues are found, the commit will be aborted, allowing you to fix the problems before committing.
+Now, every time you run `git commit`, the configured hooks will run automatically.
+If any issues are found, the commit will be aborted, allowing you to fix the problems before committing.
 
 Example `.pre-commit-config.yaml` file:
 
