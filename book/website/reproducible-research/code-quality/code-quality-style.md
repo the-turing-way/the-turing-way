@@ -49,7 +49,8 @@ Note that editors often support using these tools directly from the editing envi
 (rr-code-style-pre-commit)=
 ## Pre-commit hooks
 
-[Pre-commit](https://pre-commit.com/) is a tool that allows you to run formatters, linters, and other checks before committing your code. It helps maintain code quality and consistency by catching issues early in the development process.
+[Pre-commit](https://pre-commit.com/) is a tool that allows you to run formatters, linters, and other checks before committing your code.
+It helps maintain code quality and consistency by catching issues early in the development process.
 
 Key features of pre-commit:
 
