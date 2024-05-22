@@ -1,4 +1,4 @@
-# 2023 Digital Infrastructure Insights Fund RFP
+# 2023 Digital Infrastructure Insights Fund RFP - unsuccessful!
 
 
 **Call for Proposals:** [2023 Digital Infrastructure Insights Fund RFP](https://fordfoundation.forms.fm/2023-digital-infrastructure-insights-fund-rfp/forms/9724/)
