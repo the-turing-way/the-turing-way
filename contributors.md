@@ -86,7 +86,8 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 ### Alexandra Araujo Alvarez
 
 * Role: 
- * Project Delivery Team member, Research Project Manager (2023-Present)
+ * Senior Research Community Manager, BridgeAI (2024-current)
+ * Project Delivery Team member, Research Project Manager (2023-2024)
  * Book Dash Organiser: 2023
 * Github id: [AlexandraAAJ](https://github.com/AlexandraAAJ)
 * ORCID: [0009-0008-6607-3815](https://orcid.org/0009-0008-6607-3815)
