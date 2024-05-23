@@ -716,6 +716,15 @@ parts:
                 file: ethical-research/data-hazards/dh-case-study
           - title: Ethical Considerations for Open Source Governance Models
             file: ethical-research/ethics-open-source-governance
+          - title: Ethical Large Language Models
+            file: ethical-research/large-language-models
+            sections:
+              - title: Censorship
+                file: ethical-research/large-language-models/large-language-models-censorship
+              - title: Ethics 
+                file: ethical-research/large-language-models/large-language-models-ethics
+              - title: Open Source Considerations
+                file: ethical-research/large-language-models/large-language-models-opensource
 
 
       # ===== Community Handbook ========================================
