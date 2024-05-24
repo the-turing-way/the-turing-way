@@ -61,3 +61,21 @@ We want to make collaborative events like these as useful as possible for as man
 Please [let the team members know](https://github.com/the-turing-way/the-turing-way#get-in-touch) if there are other ways we can make these calls more welcoming and helpful for you.
 
 More templates related to Community Calls are provided in the {ref}`community template collection<ch-templates>`.
+
+### Joining Community Calls in Low-Bandwidth Environments
+
+We understand that accessing online community calls can be challenging for individuals in low-bandwidth environments.
+
+Here are some tips and alternatives for joining our calls:
+
+- **Using Zoom Mobile App:** If you're experiencing low bandwidth on your computer (which could be due to high usage by multiple devices, and/or slow network speeds), consider joining the call using the Zoom mobile app on your smartphone. The app may provide better connectivity and audio quality.
+
+- **Calling In:** Zoom allows participants to join calls via phone call, which can be a viable option for those with limited internet access. Check the meeting details for dial-in numbers and access codes.
+
+- **Reducing Video Quality:** If video is not essential for your participation, consider disabling your video feed during the call to conserve bandwidth. You can still actively engage in discussions via audio and text chat.
+
+For more information on how to join Zoom calls see [the zoom support documentation](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060732).
+
+We are committed to ensuring that our community calls are accessible to all members. If you have any specific accessibility needs or suggestions, please reach out to us so we can accommodate them.
+
+For more information on our access-related practices as a community, please visit our {ref}`Community Handbook<ch-accessibility>`.
