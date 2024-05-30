@@ -21,7 +21,7 @@ We have created the following checklists, which are chronologically structured t
 
 ## Before the Event -- all online
 
-- [ ] Finalise dates based on the location and core team’s availability
+- [ ] Finalise dates based on the location and core team's availability
 - [ ] Set up a form (see a template [here](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-selection.html#ch-bookdash-application-additional-materials)) for application by updating the previous version of the form
 - [ ] Write a short description for online advertisement
 - [ ] Open a call for application as well as invite interest to join the committee
@@ -32,9 +32,9 @@ We have created the following checklists, which are chronologically structured t
 - [ ] Set up an online platform ([Zoom](https://zoom.us/), or other accessible software) for remote collaboration
 - [ ] Copy the HackMD index page for the event using last round for reference: https://hackmd.io/@turingway/bookdash-nov2022-index
 - [ ] Update shared HackMD for pre-event calls<ch-template-bookdash-precall>, [book dash event](https://the-turing-way.netlify.app/community-handbook/templates/template-bookdash-notes.html#ch-template-bookdash-notes) and [feedback](https://the-turing-way.netlify.app/community-handbook/templates/template-bookdash-feedback.html#ch-template-bookdash-feedback)
-- [ ] Copy the Eventbrite page from last round for the Book Dash attendees - set a registration code 
+- [ ] Copy the [Zoom instructions](HOWTOZOOM.md) for the Book Dash attendees
 - [ ] Send a reminder in next newsletters with more details if needed
-- [ ] Copy the share out Eventbrite page (2 sessions)
+- [ ] Copy the share out [Zoom instructions](HOWTOZOOM.md) (2 sessions)
 - [ ] Clearly state the following information in an application form and later communicate by email with the selected participants:
   -   what financial support will be available for either online or in-person events 
   -  What arrangements will be available online (such as online helpers and designated mentors) or on-site (such as quiet room and child care) for in-person events 
@@ -56,15 +56,15 @@ We have created the following checklists, which are chronologically structured t
   - Use this meeting to also allocate tasks for during and after the event (indicate that on the GitHub issues)
 
 **After the selection phase**
-- [ ] Send an email to the selected attendees with Eventbrite page and registration code
-- [ ] Send an email to the unselected attendees with feedback
+- [ ] Email the selected attendees with [Zoom instructions](HOWTOZOOM.md)
+- [ ] Email the unselected attendees with feedback
 - [ ] Set up an email chain and a Slack channel to connect all members and share updates
 - [ ] Provide details on Code of Conduct, contribution guideline and ways to get involved in an ongoing discussion
 - [ ] Update presentation for introducing the project to the participants on day-1 of the Book Dash
 - [ ] Host the onboarding call one week before the event to share logistics and facilitate the drafting of SMART goals
 - [ ] Group participants into the proposed working groups as per their SMART goals from the onboarding call
 - [ ] Host the onboarding call one week before the event to share logistics and facilitate the drafting of SMART goals
-- [ ] Send a reminder email to register on Eventbrite sharing important links and information including support grant, GitHub session, onboarding call info and reimbursement process
+- [ ] Send a reminder email with important links and information including support grant, GitHub session, onboarding call info and reimbursement process
 - [ ] Create a GitHub issue to collect bio and highlight of the participants to add them to the Contributors Record
 
 ### Additional task for an online event
@@ -81,10 +81,10 @@ We have created the following checklists, which are chronologically structured t
 
 ### Additional task for an in-person Event - Local HUBS
 - [ ] Book location for in-person events
-- [ ] Collate participants’ preference for travel, meal, accommodation, and accessibility request through the registration form
-- [ ] Send an email to the participants regarding their travel, accommodation, schedule, and meal
+- [ ] Collate participants' preference for travel, meal, accommodation, and accessibility request through the registration form
+- [ ] Email the participants regarding their travel, accommodation, schedule, and meal
 - [ ] Book catering for lunch and coffee breaks
-- [ ] Double-check with each participant if their plan as given on their registration hasn’t changed
+- [ ] Double-check with each participant if their plan as given on their registration hasn't changed
 
 **When funding for travel and accommodation is available**
 - [ ] Book hotels rooms for people who requested accommodation
