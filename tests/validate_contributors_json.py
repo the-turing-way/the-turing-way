@@ -1,13 +1,23 @@
 import argparse
 import json
 from pathlib import Path
+from typing import Any
 
 import jsonschema
 import requests
 
 
-# Get all-contributorsrc schema from Schema Store
-schema = requests.get("https://json.schemastore.org/all-contributors.json").json()
+def get_schema() -> dict[Any, Any]:
+    # Get all-contributorsrc schema from Schema Store
+    schema = requests.get("https://json.schemastore.org/all-contributors.json").json()
+
+    # Add _comment item to the schema, as we have added a comment explaining the file
+    schema["properties"]["_comment"] = {
+        'title': "Comment",
+        'type': "string",
+    }
+
+    return schema
 
 
 if __name__ == "__main__":
@@ -29,11 +39,7 @@ if __name__ == "__main__":
         msg = f"Could not find 'all-contributorsrc' file at path {args.file}."
         raise FileExistsError(msg)
 
-    # Add _comment item to the schema, as we have added a comment explaining the file
-    schema["properties"]["_comment"] = {
-        'title': "Comment",
-        'type': "string",
-    }
+    schema = get_schema()
 
     # Run the validation on the contributors metadata file
     with open(args.file) as f:
