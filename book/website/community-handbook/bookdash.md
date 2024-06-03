@@ -8,7 +8,7 @@ They also contribute to enhancing the project by improving the ways we work in t
 ---
 height: 500px
 name: book-dash-collaboration
-alt: Cartoon-like sketch of a big yellow tree in the centre of image. A diverse group of people, all pictured within a yellow, green and orange colour scheme, including a person using a wheelchair and people from different backgorunds are watering and maintaining it with the help of 2 ladders. The title reads 'The Turing Way book dash.
+alt: Cartoon-like sketch of a big yellow tree in the centre of image. A diverse group of people, all pictured within a yellow, green and orange colour scheme, including a person using a wheelchair and people from different backgrounds are watering and maintaining the tree with the help of 2 ladders. The title reads 'The Turing Way book dash.
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
