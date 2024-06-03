@@ -71,7 +71,7 @@ Multiple slots may run in parallel through breakout rooms.
 #### Approaches to Sign ups
 
 There are many ways to manage sign ups that occur before the call and during the call.
-The best method will depend on the size of your team.
+The best method will depend on the size of your team, the desired audience, and the expected topics.
 Sign ups are a way to approach scheduling different attendee requests
 Here we share a few approaches, ranging from low touch to high touch:
 - Attendees drop in at any point during a session. This may require them to sit in on other conversations and wait to have their question answered.
