@@ -18,16 +18,28 @@ If the current schedule of the online Collaboration Cafe is not suitable for you
 Please open a new issue (see [this example](https://github.com/the-turing-way/the-turing-way/issues/684)) or reach out to _The Turing Way_ team members for details.
 Continue reading for information on hosting these calls.
 
+### Inviting people to an online Collaboration Cafe
+
+New attendees are welcome to join the Collaboration Cafe, and it is a space where many may encounter _The Turing Way_ project for the first time.
+Existing _The Turing Way_ community members may invite their colleagues to join them in a Pomodoro session to discuss a topic of shared interest or co-work together.
+
+It is important that any one joining a Collaboration Cafe has an interest in _The Turing Way_ and learning with and feeding back into the community.
+If a meeting is on a topic or for a purpose completely separate to "reproducible, ethical and collaborative data science", it may not be the best fit for a Collaboration Cafe.
+
+When inviting new people, please forward the Zoom call for the meeting and the shared document with introduction text like one of the following:
+- Collaboration Cafes are The Turing Way's regular online collaboration and coworking calls where community members work on contributions to the project, discuss shared interests, or learn about how to get involved. You can learn more [here](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html). All of our calls adhere to our code of conduct. Please take a moment to read this [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
+- I look forward to meeting at The Turing Way Collaboration Cafe, which will be a chance for us to discuss, co-work, and share and get feedback on our work with The Turing Way community. You can learn more the calls [here](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html). All of our calls adhere to our [code of conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
+
 ### Resources used for the call
 
 Here are the resources we use for these calls:
 
-1. Shared notes by [HackMD](https://hackmd.io/): You can access these notes online at [hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe) and can take notes together with others on the call.
-2. Online call by [Zoom](https://www.zoom.us/): The Zoom link is provided in the HackMD before the call, and members can click to join the call by opening zoom window on the web or by using the Zoom app that should be installed locally ([available for free](https://zoom.us/download)).
+1. Shared notes by [Framapad](https://framapad.org/): You can access these notes online at [annuel2.framapad.org/p/ttw-collaboration-cafe](https://annuel2.framapad.org/p/ttw-collaboration-cafe) and can take notes together with others on the call.
+2. Online call by [Zoom](https://www.zoom.us/): The Zoom link is provided in the Framapad before the call, and members can click to join the call by opening zoom window on the web or by using the Zoom app that should be installed locally ([available for free](https://zoom.us/download)).
 3. An online Pomodoro clock on [Cuckoo.team](https://cuckoo.team/collabcafe): During the call, the clock is set for Pomodoro work intervals that can be live-tracked by everyone through their browsers.
 4. Video recordings from some of the earlier calls are available on [our YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA).
 
-We coordinate our tasks on the shared HackMD and/or _The Turing Way_ GitHub repository, where we can work collaboratively or independently while working on an older GitHub issues/PRs, creating new issues/PRs, taking notes as comments on the GitHub repository or working on a branch locally.
+We coordinate our tasks on the shared Framapad and/or _The Turing Way_ GitHub repository, where we can work collaboratively or independently while working on an older GitHub issues/PRs, creating new issues/PRs, taking notes as comments on the GitHub repository or working on a branch locally.
 
 ## Format of the call
 
@@ -59,7 +71,7 @@ We'll run the following schedule during each Collaboration Cafe:
 
 #### Before the Call
 
-- Please update the shared document ([HackMD](https://hackmd.io/@turingway/collaboration-cafe)) before the event using the following steps:
+- Please update the shared document ([Framapad](https://annuel2.framapad.org/p/ttw-collaboration-cafe)) before the event using the following steps:
   - Update the date for the upcoming call
   - Move the notes from the previous call below the working area (that will be archived in this Notion page periodically)
   - Update an icebreaker question
