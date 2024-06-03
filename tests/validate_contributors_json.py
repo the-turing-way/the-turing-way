@@ -33,15 +33,21 @@ if __name__ == "__main__":
 
     # Optionally allow the path to the all-contributors file to be specified upon execution
     parser.add_argument(
-        "--all-contributors-filepath",
+        "file",
         type=Path,
+        nargs="?",
         default=Path(Path(__file__).parent.absolute() / "../.all-contributorsrc"),
         help="Path of the JSON file containing the contributor metadata",
     )
+
     args = parser.parse_args()
-    all_contributors_filepath = Path(args.all_contributors_filepath)
-    if not all_contributors_filepath.exists():
-        raise FileExistsError(f"Could not find 'all-contributorsrc' file at path {all_contributors_filepath}")
+    if not args.file.exists():
+        raise FileExistsError(f"Could not find 'all-contributorsrc' file at path {args.file}")
 
     # Run the validation on the contributors metadata file
-    validate_contributor_metadata(all_contributors_filepath)
+    with open(args.file) as f:
+        contributors_metadata = json.load(f)
+
+        # Run the schema validation on the loaded metadata
+        # Will raise a ValidationError if the metadata does not match the schema
+        jsonschema.validate(contributors_metadata, schema)
