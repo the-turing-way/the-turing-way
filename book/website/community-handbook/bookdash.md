@@ -4,7 +4,7 @@
 _The Turing Way_ [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date.
 They also contribute to enhancing the project by improving the ways we work in the community and take the lead on accomplishing different tasks or subprojects.
 
-```{figure} ../../figures/book-dash-collaboration.*
+```{figure} ../figures/book-dash-collaboration.*
 ---
 height: 500px
 name: book-dash-collaboration
