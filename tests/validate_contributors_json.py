@@ -20,7 +20,7 @@ def get_schema() -> dict[Any, Any]:
     return schema
 
 
-if __name__ == "__main__":
+def main() -> None:
     parser = argparse.ArgumentParser(
         description="Validate all-contributorsrc file."
     )
@@ -48,3 +48,7 @@ if __name__ == "__main__":
         # Run the schema validation on the loaded metadata
         # Will raise a ValidationError if the metadata does not match the schema
         jsonschema.validate(contributors_metadata, schema)
+
+
+if __name__ == "__main__":
+    main()
