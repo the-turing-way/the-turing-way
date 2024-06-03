@@ -21,7 +21,7 @@ Continue reading for information on hosting these calls.
 ### Inviting people to an online Collaboration Cafe
 
 New attendees are welcome to join the Collaboration Cafe, and it is a space where many may encounter _The Turing Way_ project for the first time.
-Existing _The Turing Way_ community members may invite their colleagues to join them in a Pomodoro session to discuss a topic of shared interest or co-work together.
+Existing _The Turing Way_ community members may invite their colleagues to join them in a breakout session, called Pomodoro session in _The Turing Way_ community, to discuss a topic of shared interest or co-work together.
 
 It is important that any one joining a Collaboration Cafe has an interest in _The Turing Way_ and learning with and feeding back into the community.
 If a meeting is on a topic or for a purpose completely separate to "reproducible, ethical and collaborative data science", it may not be the best fit for a Collaboration Cafe.
