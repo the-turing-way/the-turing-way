@@ -44,20 +44,22 @@ def main() -> None:
     schema = get_schema()
     v = Draft202012Validator(schema)
 
-    # Run the validation on the contributors metadata file
+    # Parse the all-contributorsrc file
     with open(args.file) as f:
-        contributors_metadata = json.load(f)
+        all_contributorsrc = json.load(f)
 
-        # Collect validation errors
-        errors = list(v.iter_errors(contributors_metadata))
+    # Collect validation errors
+    errors = list(v.iter_errors(all_contributorsrc))
 
-        if errors:
-            print(f"{len(errors)} validation errors found in {args.file}.\n")
-            for error in errors:
-                print(error.message)
-                print(f"At JSON path {error.json_path}\n")
+    if errors:
+        print(f"{len(errors)} validation errors found in {args.file}.\n")
 
-            sys.exit(1)
+        # List errors
+        for error in errors:
+            print(error.message)
+            print(f"At JSON path {error.json_path}\n")
+
+        sys.exit(1)
 
 
 if __name__ == "__main__":
