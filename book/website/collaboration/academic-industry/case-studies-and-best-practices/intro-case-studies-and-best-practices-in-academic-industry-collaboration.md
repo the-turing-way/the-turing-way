@@ -1,10 +1,21 @@
 # Introduction
-- Need for this subchapter
-- Who this subchapter is for
-- Structure of the subchapter
-# Resources
-TTW Resources, Academic Resources, Other resources
-# Case Studies
-- Framework
-- Case Study Library
+The creation of this subchapter was motivated by a need to address the realities of navigating the complex relationship between Open Science and Industry, particularly in cases where research is partly or fully funded by industry. A balance must be struck between producing research that meets the priorities of the sponsoring organisation and producing research that is open, shareable, and beneficial to the community. 
 
+Researchers and practitioners championing Open Science could benefit from case studies and lessons learnt from others who have successfully and/or unsuccessfully navigated this aspect of Academic-Industry collaborations.
+
+This subchapter is a continuously growing resource library of case studies in industry-academia collaboration, as well as a collection of existing resources on industry-academia best practices.
+
+## Who this subchapter is for
+
+This subchapter could be especially useful for anyone who is conducting or has conducted research in the context of academic-industry collaboration. This could include:
+- Academics who have an opportunity to work with an industrial partner and are looking for guidance on how to best navigate the relationship to ensure a productive and open collaboration.
+- Industrial practitioners who have an opportunity to work with an academic partner and are looking for guidance on how to best navigate the relationship to ensure a productive and open collaboration.
+- You have experience in industry-academia collaboration and wish to share your experiences with the TTW community so they can benefit in the future.
+## Subchapter structure
+This subchapter is divided in two sections:
+- A library of case studies on industry-academia collaboration, showcasing best practices and lessons learnt for each particular case study.
+- A library of existing resources on the web that address best practices in industry-academia collaboration
+## Engaging with this subchapter
+You are encouraged to read through the resources in this subchapter and use them as you need for your personal purposes.
+
+You can also contribute to the subchapter by submitting a case study (following The Turing Way's contribution guidelines), or by suggesting new resources that could be added to the Resources section.
