@@ -34,8 +34,8 @@ if __name__ == "__main__":
     # Optionally allow the path to the all-contributors file to be specified upon execution
     parser.add_argument(
         "--all-contributors-filepath",
-        type=str,
-        default="./.all-contributorsrc",
+        type=Path,
+        default=Path(Path(__file__).parent.absolute() / "../.all-contributorsrc"),
         help="Path of the JSON file containing the contributor metadata",
     )
     args = parser.parse_args()
