@@ -3,8 +3,9 @@ import json
 from pathlib import Path
 import jsonschema
 
-def validate_contributor_metadata(contributors_filepath:Path):
-    """Check if the the specified file is error-free JSON, and its content matches the 
+
+def validate_contributor_metadata(contributors_filepath: Path):
+    """Check if the the specified file is error-free JSON, and its content matches the
     all-contributors schema. If not, then raise a JSONDecodeError or ValidationError respectively.
 
     Keyword Arguments:
@@ -21,10 +22,11 @@ def validate_contributor_metadata(contributors_filepath:Path):
     contributors_metadata = None
     with open(contributors_filepath) as f:
         contributors_metadata = json.load(f)
-    
+
     # Run the schema validation on the loaded metadata
     # Will raise a ValidationError if the metadata does not match the schema
     jsonschema.validate(contributors_metadata, contributor_schema)
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Script to validate the array of contributor objects in the all-contributors JSON file")
@@ -34,7 +36,7 @@ if __name__ == "__main__":
         "--all-contributors-filepath",
         type=str,
         default="./.all-contributorsrc",
-        help="Path of the JSON file containing the contributor metadata",        
+        help="Path of the JSON file containing the contributor metadata",
     )
     args = parser.parse_args()
     all_contributors_filepath = Path(args.all_contributors_filepath)
