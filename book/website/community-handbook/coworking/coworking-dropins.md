@@ -1,7 +1,5 @@
 # Drop-in Sessions
 
-community-handbook/coworking/drop-in
-
 Drop-in sessions are an opportunity for a team or group of people to host regular opportunities for other people within the community or organisation to ask questions or start a conversation on a topic of their interest.
 
 At the Turing, these include the [Turing Infrastructure Drop-in Sessions](https://github.com/alan-turing-institute/infrastructure-drop-ins) (online and in person), the TREx Virtual Drop in Session (online only), the Turing Research Ethics (TREx) Virtual Drop in Session (online only), and the Data Protection virtual drop in (online only).
@@ -12,6 +10,15 @@ They may follow a different format or sign up person, depending on the needs and
 The primary goal of these sessions is to provide an opportunity for answering targeted questions on a subject that the team holds expertise in, such as data protection or research software engineering.
 The sessions are a resource for community or organisation members to ask questions, receive targeted advice and support, and create space to start co-working or futher collaboration.
 The sessions are also an opportunity to learn about and connect with new teams and individuals that an attendee may not regularly connect with.
+
+```{figure} ../../figures/research-communities.*
+---
+height: 400px
+name: research-communities
+alt: Cartoon-like sketch of people in different nodes connecting into a central node with a robot in the middle. The people represent researchers in different research domains. One group is building a rocket ship, another group is fixing a car, and another group is working on a hot air balloon. In the central node, researchers are performing different tasks to build a robot. Some of researchers are taking the findings from the central node to the other nodes.
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
 
 ## Attending a drop-in session
 
