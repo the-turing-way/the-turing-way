@@ -1,10 +1,11 @@
 import argparse
 import json
+import sys
 from pathlib import Path
 from typing import Any
 
-import jsonschema
 import requests
+from jsonschema.validators import Draft202012Validator
 
 
 def get_schema() -> dict[Any, Any]:
@@ -30,7 +31,7 @@ def main() -> None:
         "file",
         type=Path,
         nargs="?",
-        default=Path(Path(__file__).parent.absolute() / "../.all-contributorsrc"),
+        default=Path(Path(__file__).parent.absolute() / "../.all-contributorsrc").resolve(),
         help="Path of the JSON file containing the contributor metadata.",
     )
 
@@ -39,15 +40,24 @@ def main() -> None:
         msg = f"Could not find 'all-contributorsrc' file at path {args.file}."
         raise FileExistsError(msg)
 
+    # Create validator
     schema = get_schema()
+    v = Draft202012Validator(schema)
 
     # Run the validation on the contributors metadata file
     with open(args.file) as f:
         contributors_metadata = json.load(f)
 
-        # Run the schema validation on the loaded metadata
-        # Will raise a ValidationError if the metadata does not match the schema
-        jsonschema.validate(contributors_metadata, schema)
+        # Collect validation errors
+        errors = list(v.iter_errors(contributors_metadata))
+
+        if errors:
+            print(f"{len(errors)} validation errors found in {args.file}.\n")
+            for error in errors:
+                print(error.message)
+                print(f"At JSON path {error.json_path}\n")
+
+            sys.exit(1)
 
 
 if __name__ == "__main__":
