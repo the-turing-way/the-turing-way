@@ -6,11 +6,14 @@ import jsonschema
 import requests
 
 
+# Get all-contributorsrc schema from Schema Store
 schema = requests.get("https://json.schemastore.org/all-contributors.json").json()
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Script to validate the array of contributor objects in the all-contributors JSON file")
+    parser = argparse.ArgumentParser(
+        description="Validate all-contributorsrc file."
+    )
 
     # Optionally allow the path to the all-contributors file to be specified upon execution
     parser.add_argument(
@@ -18,12 +21,12 @@ if __name__ == "__main__":
         type=Path,
         nargs="?",
         default=Path(Path(__file__).parent.absolute() / "../.all-contributorsrc"),
-        help="Path of the JSON file containing the contributor metadata",
+        help="Path of the JSON file containing the contributor metadata.",
     )
 
     args = parser.parse_args()
     if not args.file.exists():
-        raise FileExistsError(f"Could not find 'all-contributorsrc' file at path {args.file}")
+        raise FileExistsError(f"Could not find 'all-contributorsrc' file at path {args.file}.")
 
     # Run the validation on the contributors metadata file
     with open(args.file) as f:
