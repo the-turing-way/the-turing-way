@@ -4650,6 +4650,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "AoifeHughes",
+      "name": "Aoife",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10923695?v=4",
+      "profile": "https://github.com/AoifeHughes",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
