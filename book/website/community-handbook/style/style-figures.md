@@ -16,7 +16,7 @@ The term **image** is used to refer to the file object itself.
 
 ## Images sources
 
-To facilitate figures modification, the availability of images sources will be important to enable further editing. Original sources files need to be provided along with the final format (such as `jpg` or `png`) used by figures.
+To facilitate figures modification, the availability of images sources will be important to enable further editing. It's recommended to provide original source files along with the final format (such as `jpg` or `png`) used by figures.
 
 > **Example:** Photoshop source files have a `psd` extension from which images could be exported into a `jpg` format.
 
