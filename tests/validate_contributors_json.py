@@ -25,8 +25,9 @@ if __name__ == "__main__":
     )
 
     args = parser.parse_args()
-    if not args.file.exists():
-        raise FileExistsError(f"Could not find 'all-contributorsrc' file at path {args.file}.")
+    if not args.file.is_file():
+        msg = f"Could not find 'all-contributorsrc' file at path {args.file}."
+        raise FileExistsError(msg)
 
     # Run the validation on the contributors metadata file
     with open(args.file) as f:
