@@ -2,7 +2,7 @@
 
 Drop-in sessions are an opportunity for a team or group of people to host regular opportunities for other people within the community or organisation to ask questions or start a conversation on a topic of their interest.
 
-At the Turing, these include the [Turing Infrastructure Drop-in Sessions](https://github.com/alan-turing-institute/infrastructure-drop-ins) (online and in person), the TREx Virtual Drop in Session (online only), the Turing Research Ethics (TREx) Virtual Drop in Session (online only), and the Data Protection virtual drop in (online only).
+At the Turing, these include the [Turing Infrastructure Drop-in Sessions](https://github.com/alan-turing-institute/infrastructure-drop-ins) (online and in person), the Turing Research Ethics (TREx) Virtual Drop in Session (online only), the Turing Skills Drop in Session (online and in person), and the Data Protection virtual drop in (online only).
 
 These sessions typically include an online component, typically using [Zoom](https://www.zoom.us/). 
 They may follow a different format or sign up person, depending on the needs and preferences of the organising team and the target community the sessions are designed for.
