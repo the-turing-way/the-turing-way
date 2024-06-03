@@ -234,6 +234,9 @@ Guarantor
 ## H
 
 ```{glossary}
+Hazard
+  Inherent qualities or characteristics of something that make it potentially harmful.
+
 Head
   The latest commit on the branch which is currently checked out.
 
@@ -394,7 +397,7 @@ Open License
   A license is a document that specifies what can and cannot be done with a work. It grants permissions and states restrictions. Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
 
 Open Notebooks
-  An emerging practice, documenting and sharing the experimental process of trial and error.
+  An emerging practice, documenting and sharing the experimental process of trial and error (see {ref}`Open Notebooks <rr-open-notebooks>`).
 
 Open Scholarship
   This is a concept that extends open research further. It relates to making other aspects of scientific research open to the public such as open educational resources, having inclusive practice and citizen science.
@@ -439,6 +442,9 @@ Persona Canvas
 
 Phony Target
   A phony target is one that doesn’t correspond to a file on the filesystem. A target is marked as phony by making it a prerequisite of the .PHONY target.
+
+Plain Language
+  Plain Language (also sometimes referred to as Plain writing or Plain English) is language and communication that your audience can understand the first time they read or hear it. Plain Language is defined by clear, straightforward communication that uses only as many words as are necessary to ensure that your audience understands the message easily. Most newspapers are written using plain language.
 
 Positionality
  Differences in social position and power shape identities and access in society. In acknowledging positionality, we also acknowledge intersecting social locations and complex power dynamics (also see: Intersectionality).
@@ -518,6 +524,9 @@ Research Objects
 
 Review
   Suggesting changes or asking for committing something to an already created pull request.
+
+Risk
+  A term that refers to the likelihood and impact of something happening. It's often used in decision-making contexts to evaluate the potential consequences of actions
 
 Risk Assessment
   This is used to help choose the appropriate sustainable software concepts for your project.

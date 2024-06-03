@@ -22,6 +22,7 @@ execute:
 #######################################################################################
 # HTML-specific settings
 html:
+  announcement              : "⚠️<i>The Turing Way</i> is moving domain! We will soon move to <a href='https://book.the-turing-way.org'>book.the-turing-way.org</a>. You can use new domain now! Later, the old domain will redirect you to the new location."
   favicon                   : "./figures/logo/favicon-32x32.png"  # A path to a favicon image
   navbar_number_sections    : False  # Add a number to each section in your left navbar
   google_analytics_id       : "UA-167881009-1"  # A GA id that can be used to track book views.
