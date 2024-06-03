@@ -19,58 +19,7 @@ Documentation on configuring book settings can be found on the [Jupyter Book web
 
 The site is built automatically using these two directories. All of the requirements are specified in `website/requirements.txt`.
 
-#### Locally (Mac / Linux Only)
-
-To install jupyter-book etc.
-```
-cd book/website
-pip install -r requirements.txt
-```
-
-Finally, to build the book and preview your changes locally you can run the following command:
-```
-cd book/website
-jupyter-book build .
-```
-Now you can open the path provided by jupyter-book as output in your terminal.
-
-#### Clean up the recent build
-
-When you test your edits by building the book multiple times, it is better to clean up the last build before generating a new one.
-You can either manually delete the `book/website/_build` folder every time, or run this command:
-```
-cd book/website
-jupyter-book clean .
-```
-More details on this process can be read on the [Jupyter Book's GitHub repository](https://github.com/executablebooks/jupyter-book/blob/master/docs/advanced/advanced.md#clean-your-books-generated-files).
-
-#### Check external links in the book
-
-When editing or reviewing this book locally, you can run the Sphinx link checker with Jupyter Book to check if the external links mentioned in the book are valid.
-To run the link checker, use the following command:
-
-```
-cd book/website
-jupyter-book build . --builder linkcheck
-```
-
-The link checker checks if the each link resolves and prints the status on your terminal so that you can check and resolve any incorrect links.
-Read more about this on the [Jupyter Book's GitHub repository](https://github.com/executablebooks/jupyter-book/blob/master/docs/advanced/advanced.md#check-external-links-in-your-book).
-
-#### Installing Dependencies in a virtual environment
-
-Virtual environments are a great way of isolating project-related dependencies from you system-level python installation.
-For more details on virtual environments in python see
-[here](https://docs.python.org/3/tutorial/venv.html).
-To use a virtual environment for building the book project, use
-
-```
-python3 -m venv the-turing-way
-source the-turing-way/bin/activate
-pip install -r book/website/requirements.txt
-```
-
-Now you can use the `jupyter-book build .` command inside `book/website` directory as explained above.
+Instructions for how to build a Turing Way book locally can be found in [_The Turing Way_'s Community Handbook](https://the-turing-way.netlify.app/community-handbook/local-build).
 
 #### On Netlify
 

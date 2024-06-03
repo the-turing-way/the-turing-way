@@ -39,9 +39,9 @@ For specific questions or concerns, you can contact our community manager **Anne
 Alternatively, you can contact the co-lead investigators **Malvika Sharan** by email at [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) or **Kirstie Whitaker** (please note that Kirstie is on maternity leave for the rest of 2022).
 
 To stay updated with our community events, subscribe to [_The Turing Way_ calendar](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ).
-To receive monthly newsletters, [join our mailing list](https://tinyletter.com/TuringWay)
+To receive monthly newsletters, [join our mailing list](https://buttondown.email/turingway/)
 
-We are also on [Twitter](https://twitter.com/turingway), follow us for daily updates.
+We are also on [X (formerly Twitter)](https://twitter.com/turingway), follow us for daily updates.
 
 ### Wondering where to start?
 
@@ -56,9 +56,9 @@ Here are a few suggestions for a good first contributions:
 
 The co-lead investigators for this project are [Dr Kirstie Whitaker](https://whitakerlab.github.io/about), who leads the Tools, Practices and Systems Research Programme at [The Alan Turing Institute](http://turing.ac.uk) and [Dr. Malvika Sharan](https://about.me/malvikasharan), Senior Researcher at the [Alan Turing Institute](http://turing.ac.uk).
 
-[Anne Lee Steele](https://www.turing.ac.uk/people/researchers/anne-lee-steele) is the Community Manager.
+[Anne Lee Steele](https://www.turing.ac.uk/people/researchers/anne-lee-steele) is the Research Community Manager. [Alexandra Araujo Alvarez](https://www.turing.ac.uk/people/programme-management/alexandra-araujo-alvarez) is the Research Project Manager.
 
-You can contact them on the community Gitter Channel [https://gitter.im/the-turing-way/the-turing-way](https://gitter.im/the-turing-way/the-turing-way).
+You can contact them on the community Slack workspace or directly by email.
 You can write an email to Anne Lee Steele for any question or query by using the community email [theturingway@gmail.com](mailto:theturingway@gmail.com) or contact her directly by emailing [asteele@turing.ac.uk](mailto:asteele@turing.ac.uk).
 In case you want to directly reach Malvika or Kirstie, email them at [theturingway@gmail.com](mailto:theturingway@gmail.com).
 

@@ -20,7 +20,7 @@
 - Create a paragraph to add to the Eventbrite page along with the speakers' and hosts' bios
 - Create a flyer to share on social media using [this template](https://docs.google.com/presentation/d/1Fx2WcVvGX6dM3z74VDQp_UD8edKp6Phl/edit?usp=sharing&ouid=102682705838770934280&rtpof=true&sd=true)
 - Coordinate on Slack with the speakers to check if they are happy with the announcements and if their info is correct
-- Announce at least 3-4 weeks in advance on Slack, Newsletter, Twitter and in different talks
+- Announce at least 3-4 weeks in advance on Slack, Newsletter, X (formerly Twitter) and in different talks
 - Add information to the Intro HackMD: https://hackmd.io/@turingway/demo-intro
 - Hosts will define an agenda and questions for the session - hosts will also allocate some questions for each other to speak on
 - Set another check-in at least 2 weeks in advance to touch base and discuss the plans and questions with the speakers - assign 1-2 questions for each speaker to begin 
@@ -53,7 +53,7 @@
 - Upload the video on *The Turing Way* YouTube - label and annotate well, and add the flyer as the video's front page
 - Share the published videos with the speakers
 - Summarise the session to add to *The Turing Way* -- invite someone from the community who could help with that 
-- Promote the video via Slack, Newsletter, Twitter
+- Promote the video via Slack, Newsletter, X
 - Send a thank you email to the Eventbrite participants sharing the video and inviting any ideas and suggestions for improvement via a standard feedback form
 - Update the book chapter and templates if needed
 - Add speakers to the contributors table on GitHub repo using `all-contributions bot` for presentation

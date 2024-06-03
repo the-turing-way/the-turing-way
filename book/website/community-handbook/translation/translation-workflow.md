@@ -19,6 +19,7 @@ Everyone interested in participating in a translation effort should be able to w
 
 Before starting a translation project, check out the existing languages being translated.
 Is the language that interests you in the localisation platform? If it isn't, reach out to the team to create a new translation team.
+You can see the list of language teams and their managers in the project's [Readme](https://turingway.crowdin.com/turing-way#readme/)
 If the language team already exists reach out to the team so you can join them.
 
 When starting a new language translation, there are several aspects to consider in terms of the workflow and translation guidelines.
@@ -46,6 +47,7 @@ Make sure you read these guidelines before you start translating for the first t
 ### Create and update a glossary
 
 We strongly suggest setting a glossary through the localisation platform.
+You can read more about project glossaries in {ref}`Adding terms to the glossary<ch-translation-gateway-crowdsourced-localisation>`.
 The Carpentries [Glosario](https://glosario.carpentries.org/) and the [Localization Lab glossary](https://www.localizationlab.org/glossaries) are two good examples of such glossaries.
 
 ### Share the translation memory of the project

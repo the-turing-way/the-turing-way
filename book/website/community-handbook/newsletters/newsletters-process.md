@@ -38,16 +38,16 @@ Based on what we currently publish, collect information from the listed resource
 * **Community meetings**: review the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon) for upcoming events such as Collaboration Cafés, book dashes and workshops.
 
 * **News from the community**:
-  - Check Twitter for updates on the [official account](https://twitter.com/turingway) and the [#TuringWay Hashtag](https://twitter.com/hashtag/TuringWay?src=hashtag_click)
+  - Check X (formerly Twitter) for updates on the [official account](https://twitter.com/turingway) and the [#TuringWay Hashtag](https://twitter.com/hashtag/TuringWay?src=hashtag_click)
   - Check Mastodon for updates on the [official account](https://fosstodon.org/@turingway) and the [#TuringWay Hashtag](https://fosstodon.org/tags/turingway)
   - See the Github repository for [issues](https://github.com/the-turing-way/the-turing-way/issues) for ongoing discussions, recently [merged PRs](https://github.com/the-turing-way/the-turing-way/pulls?q=is%3Apr+is%3Aclosed+sort%3Aupdated-desc) and new chapters.
   - You can also ask in the [Slack channel](https://theturingway.slack.com) if someone would like to add something to the newsletter.
 In this part, also highlight any important milestones in the project that were either established or achieved over the last month.
 
-* **Relevant resources and events for the community**: check Twitter, Slack and online posts for any recent publication and events from community members, resources for training or opportunities for skill-building or any other materials like blog posts or articles published in the network that could be useful for others.
+* **Relevant resources and events for the community**: check X, Slack and online posts for any recent publication and events from community members, resources for training or opportunities for skill-building or any other materials like blog posts or articles published in the network that could be useful for others.
 
 * **Sections for acknowledgements and celebrations of community members**: this is the place to give shout-outs to our members who have given talks, workshops or helped *The Turing Way* in some way, celebrate personal milestones and highlight any relevant announcements from community members. 
-  * To identify talks and presentations, please scan *The Turing Way* accounts for GitHub issues, Twitter, Slack and the [Zenodo Community](https://zenodo.org/communities/the-turing-way) page (for DOI).
+  * To identify talks and presentations, please scan *The Turing Way* accounts for GitHub issues, X, Slack and the [Zenodo Community](https://zenodo.org/communities/the-turing-way) page (for DOI).
 Since 2023, *The Turing Way* core team maintains all information about events and activities on their [centralised event page](https://docs.google.com/spreadsheets/d/1C-VZvmFL4PnSBsv_G9ZD3dwjIYLno3NyL7oHvbplnWs/edit#gid=577525947).
   * This is also a place to share tweets from the community or mention other online interactions such as posts from recent meetings where someone talked about _The Turing Way_.
 
@@ -63,7 +63,7 @@ This can include Tips & Tricks for new contributors, recent conversations in com
 Following the recommendations on {ref}`style guide for community<ch-style>` and {ref}`style guide for newsletters<ch-newsletters-style>` for using images, collect a few images (maximum 2 per section).
 Make sure that these images are available under a free license (like CC-BY), collected with the link of their sources, and named clearly as suggested in the style guide.
 
-For Twitter mentions, there is no fixed number of screenshots, but 4-6 tweets looks less crowded in the newsletter.
+For X mentions, there is no fixed number of screenshots, but 4-6 tweets looks less crowded in the newsletter.
 They can be edited together in one image (explained in the newsletter's style guide).
 
 ### Write about each news item
@@ -103,7 +103,7 @@ After the review process, each reviewer's name can be added under the special me
 
 ### Publication process
 
-We are currently using [TinyLetter](https://tinyletter.com/) to publish our newsletters.
+We are currently using [Buttondown](https://buttondown.email/) to publish our newsletters.
 TinyLetter is a subsidiary of [MailChimp](https://mailchimp.com/), that offers a simplified interface based free service for setting up an email newsletter and sharing it with subscribers.
 
 Here are the steps for publishing the newsletter draft online and sending it by email to the subscribed members:
@@ -117,7 +117,7 @@ Here are the steps for publishing the newsletter draft online and sending it by 
 - Adjust formatting as needed.
 - Send a preview version to your email or _The Turing Way_ email (theturingway@gmail.com) to check if everything looks OK.
 - Once confirmed for its format and content, the newsletter is sent to the registered members by clicking “Send to all”.
-- The [online newsletters](https://tinyletter.com/TuringWay/) are shareable by link and can be read by non-subscribed members as well.
+- The [online newsletters](https://buttondown.email/turingway/) are shareable by link and can be read by non-subscribed members as well.
 
 *(Learn to make your newsletter [here](https://www.sitepoint.com/how-start-a-newsletter-in-minutes-with-tinyletter/).)*
 

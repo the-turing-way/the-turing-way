@@ -26,6 +26,7 @@ alt: The Turing Way project is illustrated as a road or path with shops for diff
 ---
 _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 ```
+## Different Pathways
 
 (welcome-community)=
 ## Our Community
@@ -71,7 +72,10 @@ We value the participation of every member of our community and want to ensure t
 Accordingly, everyone who participates in _The Turing Way_ project is expected to show respect and courtesy to other community members at all times.
 All contributions must abide by our [code of conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
 
-![Gif showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table](https://media.giphy.com/media/gKIUisnjpj2PS75nOJ/giphy.gif)
+<video controls loop autoplay muted>
+  <source src="_static/videos/contributors.mp4" type="video/mp4">
+  <p>Video showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table.</p>
+</video>
 
 (welcome-history)=
 ## History

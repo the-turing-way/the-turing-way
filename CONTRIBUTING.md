@@ -26,9 +26,9 @@ Been here before? Already know what you're looking for in this guide? Jump to th
   - [Issue labels](#issue-labels)
 - [Making a change with a pull request](#making-a-change-with-a-pull-request)
   - [1. Comment on an existing issue or open a new issue referencing your addition](#1-comment-on-an-existing-issue-or-open-a-new-issue-referencing-your-addition)
-  - [2. Fork _The Turing Way_ repository to your profile](#2-forkgithub-fork-the-turing-way-repositoryturing-way-repo-to-your-profile)
+  - [2. Fork _The Turing Way_ repository to your profile](#2-fork-the-turing-way-repository)
   - [3. Make the changes you've discussed](#3-make-the-changes-youve-discussed)
-  - [4. Submit a pull request](#4-submit-a-pull-requestgithub-pullrequest)
+  - [4. Submit a pull request](#4-submit-a-pull-request)
 - [The process of writing chapters](#the-process-of-writing-chapters)
 - [Style Guide](#style-guide)
 - [Representing _The Turing Way_](#representing-the-turing-way)
@@ -73,7 +73,7 @@ There are many ways to get in touch with _The Turing Way_ team!
 
 - [@turingway](https://twitter.com/turingway) on Twitter
     - Follow us for regular updates
-- [Our mailing list](https://tinyletter.com/TuringWay): Receive monthly project updates in a newsletter
+- [Our mailing list](https://buttondown.email/turingway): Receive monthly project updates in a newsletter
 - [Fireside Chat Series](https://hackmd.io/@turingway/fireside-chats): Every month, The Turing Way Fireside chat will feature experts, champions and their projects from across different international communities in reproducibility, open research, ethics, collaboration and everything in between. This will be an incredible opportunity for catalysing cross-community collaboration and knowledge sharing.
 - **Useful links**: other links to our resources along with announcements are shared via this HackMD: [hackmd.io/@turingway/demo-intro](https://hackmd.io/@turingway/demo-intro)
 
