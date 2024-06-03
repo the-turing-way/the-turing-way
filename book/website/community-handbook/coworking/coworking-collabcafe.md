@@ -71,7 +71,7 @@ We'll run the following schedule during each Collaboration Cafe:
 
 #### Before the Call
 
-- Please update the shared document ([Framapad](https://annuel2.framapad.org/p/ttw-collaboration-cafe)) before the event using the following steps:
+- Facilitators of the call, update the shared document ([Framapad](https://annuel2.framapad.org/p/ttw-collaboration-cafe)) before the event using the following steps:
   - Update the date for the upcoming call
   - Move the notes from the previous call below the working area (that will be archived in this Notion page periodically)
   - Update an icebreaker question
