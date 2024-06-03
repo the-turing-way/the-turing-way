@@ -29,6 +29,12 @@ if __name__ == "__main__":
         msg = f"Could not find 'all-contributorsrc' file at path {args.file}."
         raise FileExistsError(msg)
 
+    # Add _comment item to the schema, as we have added a comment explaining the file
+    schema["properties"]["_comment"] = {
+        'title': "Comment",
+        'type': "string",
+    }
+
     # Run the validation on the contributors metadata file
     with open(args.file) as f:
         contributors_metadata = json.load(f)
