@@ -81,6 +81,7 @@ See also a short video on '[Creating Open Educational Resources: Tips for New Cr
 # Resources
 - [SPARC Open Education Leadership Program curriculum](https://sparcopen.org/our-work/open-education-leadership-program/curriculum/)
 - [The OER Starter Kit ](https://iastate.pressbooks.pub/oerstarterkit/)
+- [Groningen University's Resource lists overview for working with Open Educational Resources](https://libguides.rug.nl/OER/OERResourceLists)
 - [Open Education Group](https://openedgroup.org/)
 - [Open Education Network](https://open.umn.edu/oen/)
 - [Open Educational Resources](https://www.surrey.ac.uk/library/open-research/open-educational-resources) by the University of Surrey
