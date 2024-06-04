@@ -54,11 +54,10 @@ repository:
 #######################################################################################
 # Advanced and power-user settings
 sphinx:
-  extra_extensions          : 
+  extra_extensions          :
       - 'sphinx_panels'
   config                    :  # key-value pairs to directly over-ride the Sphinx configuration
     language                : en
-    html_js_files: [ ['https://plausible.io/js/script.js', {'defer': 'defer', 'data-domain': 'the-turing-way.netlify.app'}] ]
     html_show_copyright     : false
     suppress_warnings       :
         - 'app.add_node'
