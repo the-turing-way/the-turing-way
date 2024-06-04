@@ -55,10 +55,10 @@ The following is an example format of a drop-in session.
 | Duration | Activity |
 | ---- | -------- |
 | 5 mins | 👋 Welcome attendees and assign slot |
-| 30 mins | :speech_balloon: Slot 1 |
-| 30 mins | :speech_balloon: Slot 2 |
-| 30 mins | :speech_balloon: Slot 3 |
-| 30 mins | :speech_balloon: Slot 4 |
+| 30 mins | 💬 Slot 1 |
+| 30 mins | 💬 Slot 2 |
+| 30 mins | 💬 Slot 3 |
+| 30 mins | 💬 Slot 4 |
 | 5 mins | 👋 Close session |
 
 Each slot may run longer or shorter than 30 minutes, and multiple slots may run in parallel through breakout rooms.
