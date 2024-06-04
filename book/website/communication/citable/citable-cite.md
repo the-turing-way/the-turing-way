@@ -54,6 +54,13 @@ Access conditions and procedures can be found at [URL to restricted access repos
 
 You can find more examples on the [Manchester's Data Access Statements page](https://www.library.manchester.ac.uk/using-the-library/staff/research/research-data-management/sharing/data-access-statements/), the [Cambridge Data Availability Statement examples](https://www.cambridge.org/core/services/authors/open-data/data-availability-statements), the [AMS Data Availability Statement examples](https://www.ametsoc.org/index.cfm/ams/publications/author-information/formatting-and-manuscript-components/data-availability-statement-examples/), or [Nature's Tips for writing a dazzling Data Availability Statement](https://researchdata.springernature.com/posts/tips-for-writing-a-dazzling-das-data-availability-statement).
 
+(cm-citable-cite-samples)=
+## Citing Physical Samples
+
+When sharing results related to physical samples, ideally a persistent identifier is assigned to track the samples and the associated data. 
+Similarly as with data citation above, you include a citation in the references and a more detailed explanation in the data availability statement. 
+To learn more about how to cite physical samples and to check out examples, see the [Scientific Author Guide for Publishing Open Research Using Physical Samples](https://doi.org/10.6084/m9.figshare.24669057.v1).
+
 (cm-citable-cite-software)=
 ## Citing Software
 
