@@ -14,6 +14,7 @@ Open Education is important as it:
 
 - Facilitates broader and more **equal access** to access to knowledge and knowledge generation.
 Open Education is rooted in the human right to access high-quality education.
+For example, there is evidence that [students may avoid paying for text books at the expense of their academic success](https://www.psu.edu/news/university-libraries/story/students-may-avoid-paying-textbooks-expense-academic-success/).
 - Is **easier to use**: 
     - Easier to build upon and correct the materials, which facilitates customisation of your education curriculum.
     - Easier to collaborate, participate and share resources.
