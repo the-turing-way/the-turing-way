@@ -1,6 +1,6 @@
 # The Turing Way Book Dashes
 
-You can read more about the book dash in our [community handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html).
+You can read more about the book dash in our [community handbook](https://book.the-turing-way.org/community-handbook/community-handbook.html).
 
 ## Hybrid Book Dash Events in 2022
 

@@ -93,7 +93,7 @@ we will give you an optional 1 hour GitHub tutorial:
 - Slides: [Friendly GitHub Intro](https://docs.google.com/presentation/d/e/2PACX-1vR-Qu4kYulSMGnnAHH9-OonNiLkaJrsolEecEkt0VD5_3PmKWePmiSQwxK3QHoq5gNsL-MJKowmgsAx/pub?start=false&loop=false&delayms=3000)
 - Cheatsheet: https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-*You can find more details in [The Turing Way Style Guide](https://the-turing-way.netlify.app/community-handbook/style/style-figures.html#alternative-text)*
+*You can find more details in [The Turing Way Style Guide](https://book.the-turing-way.org/community-handbook/style/style-figures.html#alternative-text)*
 
 ## Pull Request Exercise
 

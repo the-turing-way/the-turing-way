@@ -1,7 +1,7 @@
 (rr-rdm-repository)=
 # Data Repositories
 
-A repository is a place where digital objects can be stored and shared with others (see also [this repository definition](https://the-turing-way.netlify.app/afterword/glossary.html#term-Repository)).
+A repository is a place where digital objects can be stored and shared with others (see also [this repository definition](https://book.the-turing-way.org/afterword/glossary.html#term-Repository)).
 
 Data repositories provide access to academic outputs that are reliably accessible to any web user (see the [OpenDOAR inclusion criteria](https://v2.sherpa.ac.uk/opendoar/about.html)). 
 Repositories must earn the trust of the communities they intend to serve and demonstrate that they are reliable and capable of appropriately managing the data they hold ({cite:ps}`Lin2020trust`).

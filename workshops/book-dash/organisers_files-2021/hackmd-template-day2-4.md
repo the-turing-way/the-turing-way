@@ -21,7 +21,7 @@
 **Quick reminders**
 
 * *The Turing Way* participation guidelines apply to this event:
-    * Code of Conduct: https://the-turing-way.netlify.app/community-handbook/coc.html
+    * Code of Conduct: https://book.the-turing-way.org/community-handbook/coc.html
     * Contribution guideline: https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md
 * Use the Pomodoro sessions for comfort breaks as needed
 * Cuckoo clock for development session: https://cuckoo.team/tw-bookdash

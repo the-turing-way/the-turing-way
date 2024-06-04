@@ -1,4 +1,4 @@
-<a href="https://the-turing-way.netlify.app/welcome.html"><img src="book/website/figures/logo-detail-with-text.svg?raw=true)" width="180" align="Right" /></a>
+<a href="https://book.the-turing-way.org/welcome.html"><img src="book/website/figures/logo-detail-with-text.svg?raw=true)" width="180" align="Right" /></a>
 
 # _The Turing Way_
 
@@ -12,7 +12,7 @@
 
 | Information | Links |
 | :--- | :--- |
-| **Project** | [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com) [![](https://img.shields.io/static/v1?label=TuringWay&message=I%20want%20to%20contribute!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) |
+| **Project** | [![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://book.the-turing-way.org) [![](https://img.shields.io/static/v1?label=TuringWay&message=I%20want%20to%20contribute!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) |
 | **News** | [![Twitter Follow](https://img.shields.io/twitter/follow/turingway?style=social)](https://twitter.com/turingway) [![Mastodon Follow](https://img.shields.io/mastodon/follow/108239013175032418?domain=https%3A%2F%2Ffosstodon.org&style=social)](https://fosstodon.org/@turingway) [![Join our buttondown mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://buttondown.email/turingway/)  [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCPDxZv5BMzAw0mPobCbMNuA?style=social)](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)  |
 | **Chat with us in Slack** | [![Join Slack](https://img.shields.io/badge/Chat-on%20Slack-ff69b4)](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw) |
 | **Discuss on GitHub** | [![GitHub issues](https://img.shields.io/github/issues/the-turing-way/the-turing-way)](https://github.com/the-turing-way/the-turing-way/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/the-turing-way/the-turing-way)](https://github.com/the-turing-way/the-turing-way/pulls) |
@@ -30,11 +30,11 @@ Our goal is to provide all the information that researchers and data scientists 
 *The Turing Way is a book, a community and a global collaboration.*
 
 All stakeholders, including students, researchers, software engineers, project leaders and funding teams, are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
-You can read the book [online](https://the-turing-way.netlify.app), contribute to the project as described in our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)). 
+You can read the book [online](https://book.the-turing-way.org), contribute to the project as described in our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)). 
 **We also invite you to contribute to the translation of _The Turing Way_ into different languages and help make research reproducibility accessible to a wider global audience**. 
-If you are interested in contributing, please refer to [the guidelines provided in the book's handbook](https://the-turing-way.netlify.app/community-handbook/translation.html) and join our collaborative efforts.
+If you are interested in contributing, please refer to [the guidelines provided in the book's handbook](https://book.the-turing-way.org/community-handbook/translation.html) and join our collaborative efforts.
 
-[![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
+[![This is a screenshot of the online Turing Way book. It also shows one of the Turing Way illustrations at the beginning of the book. In this illustration, there is a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.](book/website/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
 
 *Screenshot of The Turing Way online book ([use this image in a presentation](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
 
@@ -83,7 +83,7 @@ Long-term contributors of the project are considered part of the core contributo
 The project is coordinated by the co-lead investigators **Kirstie Whitaker** (founder) and **Malvika Sharan**, and hosted at [The Alan Turing Institute](https://www.turing.ac.uk/).
 **Anne Lee Steele** is the Community Manager of The Turing Way since March 2022. **Alexandra Araujo Alvarez** was the Research Project Manager between February 2023 and April 2024.
 
-You can read [_The Turing Way_ acknowledgement process](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) and [Record of Contributions](https://the-turing-way.netlify.app/afterword/contributors-record.html) to learn about how we acknowledge your work and how our contributors are highlighted in the project.
+You can read [_The Turing Way_ acknowledgement process](https://book.the-turing-way.org/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) and [Record of Contributions](https://book.the-turing-way.org/afterword/contributors-record.html) to learn about how we acknowledge your work and how our contributors are highlighted in the project.
 Please see the [Contributors Table](#contributors) for the GitHub profiles of all our contributors.
 
 ### Contributing
@@ -116,8 +116,8 @@ The citation will look something like this:
 
 To see our workflow for making releases for different versions and to suggest improvements, please head over to the [release workflow document](./release-workflow.md).
 
-You can share the human-readable URL to a page in the book, for example, <https://the-turing-way.netlify.app/reproducible-research/overview/overview-definitions.html>, but be aware that the project is under development and therefore these links may update over time.
-You might want to include a web archive link such as <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> to make sure that you don't end up with broken links everywhere!
+You can share the human-readable URL to a page in the book, for example, <https://book.the-turing-way.org/reproducible-research/overview/overview-definitions.html>, but be aware that the project is under development and therefore these links may update over time.
+You might want to include a web archive link such as <https://web.archive.org/web/20191030093753/https://book.the-turing-way.org/reproducibility/03/definitions.html> to make sure that you don't end up with broken links everywhere!
 
 We really appreciate any references that you make to _The Turing Way_ project in your and we hope it is useful.
 If you have any questions please [get in touch](#get-in-touch).

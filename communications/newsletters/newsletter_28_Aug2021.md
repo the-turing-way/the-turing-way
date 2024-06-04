@@ -27,7 +27,7 @@ Find more details on these topics below these beautiful Turing Way themed cupcak
 The next Book Dash collaboration event will take place from 08 to 12 November 2021 - [please apply via this Google form](https://forms.gle/817Nj3fypRDK1q1v7).
 Following the success of the previous Book Dash, we will host 13 coworking slots that you can flexibly choose from based on your time zone and availability (each 2.5 hours long).
 There will be networking opportunities, and accessibility funding will be available for each participant.
-Read the [details online](https://the-turing-way.netlify.app/community-handbook/bookdash.html#who-should-apply-to-join-the-book-dash).
+Read the [details online](https://book.the-turing-way.org/community-handbook/bookdash.html#who-should-apply-to-join-the-book-dash).
 
 ### Collaboration Café and Coworking Calls
 **Collaboration Cafés** this month are being hosted on 1 September (Today!) and 15 September 2021.
@@ -81,26 +81,26 @@ Help us create an [image gallery](https://github.com/alan-turing-institute/the-t
 
 ### Contributors in focus: Meet the Book Dash Planning Committee!
 
-We are excited to put a spotlight on [*The Turing Way* Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) planning committee members: Arielle Bennett, Batool Almarzouq, Brigitta Sipőcz, Carlos Martinez, Emma Karoune and Esther Plomp.
+We are excited to put a spotlight on [*The Turing Way* Book Dash](https://book.the-turing-way.org/community-handbook/bookdash.html) planning committee members: Arielle Bennett, Batool Almarzouq, Brigitta Sipőcz, Carlos Martinez, Emma Karoune and Esther Plomp.
 They joined the planning committee early this year and successfully delivered their first Book Dash in May that featured 15 contributors, 13 online working sessions, four discussions and social events and two community share-outs.
 
 ![Headshots of Arielle Bennett, Batool Almarzouq, Brigitte Sipocz, Carlos Martinez, Emma Karoune and Esther Plomp](images/2021-09-bookdash.jpg)
 
 Learn more about them:
 - Arielle is the Research Project Manager for the Tools, Practices & Systems Programme at the Alan Turing Institute. 
-In _The Turing Way_, she has worked on writing, facilitating discussion and mentored contributions in the Guide for Ethical Research ((details)[https://the-turing-way.netlify.app/afterword/contributors-record.html#arielle-bennett]).
-Read [more about her](https://the-turing-way.netlify.app/afterword/contributors-record.html#arielle-bennett).
+In _The Turing Way_, she has worked on writing, facilitating discussion and mentored contributions in the Guide for Ethical Research ((details)[https://book.the-turing-way.org/afterword/contributors-record.html#arielle-bennett]).
+Read [more about her](https://book.the-turing-way.org/afterword/contributors-record.html#arielle-bennett).
 - Batool is a postdoctoral researcher at King Abdullah International Medical Research Center, and the founder of Open Science Network and R-Ladies in Saudi Arabia.
-Batool is an infrastructure maintainer in _The Turing Way_ and brings her rich experience in computation as a mentor, content creator, translator and core contributor in the project ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#batool-almarzouq)).
+Batool is an infrastructure maintainer in _The Turing Way_ and brings her rich experience in computation as a mentor, content creator, translator and core contributor in the project ([details](https://book.the-turing-way.org/afterword/contributors-record.html#batool-almarzouq)).
 - Brigitta is an astronomer and [discoverer of minor planets](https://en.wikipedia.org/wiki/Brigitta_Sip%C5%91cz).
 She is involved in several open source communities as a developer and maintainer of open source astronomy software.
 In _The Turing Way_, she has contributed to infrastructure support and crucial discussions on community channels ([details](https://bsipocz.github.io/)).
 - Carlos is a Community Manager at eScience Center Netherlands.
-As an engineer and advocate of improving software quality, he facilitates the collaboration of the eScience center with _The Turing Way_ in providing guidelines and helping build better research software ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#netherlands-escience-center)).
+As an engineer and advocate of improving software quality, he facilitates the collaboration of the eScience center with _The Turing Way_ in providing guidelines and helping build better research software ([details](https://book.the-turing-way.org/afterword/contributors-record.html#netherlands-escience-center)).
 - Emma is a Research Associate and Community Manager of DECOVID at The Alan Turing Institute, and an Environmental Archaeology and Palaeoecology researcher.
-She has led several collaborations and discussions on chapters within the Guides for Collaboration and Communication ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#emma-karoune)).
+She has led several collaborations and discussions on chapters within the Guides for Collaboration and Communication ([details](https://book.the-turing-way.org/afterword/contributors-record.html#emma-karoune)).
 - Esther is a Data Steward at the Delft University of Technology, Netherlands.
-She has been a core contributor to the project developing, guiding and collaborating on chapters related to data management and reproducibility ((details)[https://the-turing-way.netlify.app/afterword/contributors-record.html#delft-university-of-technology-faculty-of-applied-sciences]).
+She has been a core contributor to the project developing, guiding and collaborating on chapters related to data management and reproducibility ((details)[https://book.the-turing-way.org/afterword/contributors-record.html#delft-university-of-technology-faculty-of-applied-sciences]).
 
 We want to express our gratitude for their thoughtful engagement in the project and for helping build an inclusive and safe place in the Book Dash.
 It is only with their help, we are able to host the next event in November taking careful consideration for our participants.
@@ -160,7 +160,7 @@ You can [register for free](https://www.opensciencefair.eu/register).
 ## Connect with us!
 
 - [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
-- [_The Turing Way_ book](https://the-turing-way.netlify.com)
+- [_The Turing Way_ book](https://book.the-turing-way.org)
 - [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 - [Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
 - [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
