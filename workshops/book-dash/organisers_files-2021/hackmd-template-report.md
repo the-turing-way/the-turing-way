@@ -6,7 +6,7 @@
 
 ## The Turing Way Book Dash, DD-DD Month YYYY: Overview and Report
 
-*Read more about [The Turing Way Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html)*
+*Read more about [The Turing Way Book Dash](https://book.the-turing-way.org/community-handbook/bookdash.html)*
 
 [IMAGE]
 
@@ -18,7 +18,7 @@ We are delighted to share that the Xth Book Dash was hosted successfully from DD
 
 ### Format of the event
 
-_The Turing Way_ [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. 
+_The Turing Way_ [Book Dash events](https://book.the-turing-way.org/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. 
 They also contribute to enhancing the project by improving the ways we work in the community and take lead on accomplishing different tasks or subprojects.
 
 <!-- The November edition of Book Dash featured 18 contributors, 6 committee members, 13 online working sessions, four discussions and social events, and two community share-outs.
@@ -35,7 +35,7 @@ This involved creating multiple small development sessions throughout the day, a
 Applicants were asked to think about the collaborative element of the Book Dash and state how they could engage with other participants. 
 To get a sense of the time zones these applicants came from, we asked them to choose their preferred slots during the day that they can join. You can see a template of this document [here](https://tinyurl.com/tw-bookdash-template).
 
-The Book Dash Planning Committee used the rubrics (as explained in the [online chapter](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-application.html#reviewing-process)) to score the applications during the review. They met online to discuss applications, frame feedback and conclude their selection process. -->
+The Book Dash Planning Committee used the rubrics (as explained in the [online chapter](https://book.the-turing-way.org/community-handbook/bookdash/bookdash-application.html#reviewing-process)) to score the applications during the review. They met online to discuss applications, frame feedback and conclude their selection process. -->
 
 ### Book Dash Planning Committee
 
@@ -44,12 +44,12 @@ The Book Dash Planning Committee used the rubrics (as explained in the [online c
 Learn more about them:
 
 <!-- 
--   Arielle is the Research Project Manager for the Tools, Practices & Systems Programme at the Alan Turing Institute. In _The Turing Way_, she has worked on writing, facilitating discussion and mentored contributions in the Guide for Ethical Research ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#arielle-bennett)).
--   Batool is a postdoctoral researcher at King Abdullah International Medical Research Center and the founder of Open Science Network and R-Ladies in Saudi Arabia. Batool is an infrastructure maintainer in _The Turing Way_ and brings her rich experience in computation as a mentor, content creator, translator and core contributor in the project ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#batool-almarzouq)).
+-   Arielle is the Research Project Manager for the Tools, Practices & Systems Programme at the Alan Turing Institute. In _The Turing Way_, she has worked on writing, facilitating discussion and mentored contributions in the Guide for Ethical Research ([details](https://book.the-turing-way.org/afterword/contributors-record.html#arielle-bennett)).
+-   Batool is a postdoctoral researcher at King Abdullah International Medical Research Center and the founder of Open Science Network and R-Ladies in Saudi Arabia. Batool is an infrastructure maintainer in _The Turing Way_ and brings her rich experience in computation as a mentor, content creator, translator and core contributor in the project ([details](https://book.the-turing-way.org/afterword/contributors-record.html#batool-almarzouq)).
 -   Brigitta is an astronomer and [discoverer of minor planets](https://en.wikipedia.org/wiki/Brigitta_Sip%C5%91cz). She is involved in several open source communities as a developer and maintainer of open source astronomy software. In _The Turing Way_, she has contributed to infrastructure support and crucial discussions on community channels ([details](https://bsipocz.github.io/)).
--   Carlos is a Community Manager at eScience Center Netherlands. As an engineer and advocate of improving software quality, he facilitates the collaboration of the eScience centre with _The Turing Way_ in providing guidelines and helping build better research software ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#netherlands-escience-center)).
--   Emma is a Research Associate and Community Manager of DECOVID at The Alan Turing Institute, and an Environmental Archaeology and Palaeoecology researcher. She has led several collaborations and discussions on chapters within the Guides for Collaboration and Communication ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#emma-karoune)).
--   Esther is a Data Steward at the Delft University of Technology, Netherlands. She has been a core contributor to the project developing, guiding and collaborating on chapters related to data management and reproducibility ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#delft-university-of-technology-faculty-of-applied-sciences)).
+-   Carlos is a Community Manager at eScience Center Netherlands. As an engineer and advocate of improving software quality, he facilitates the collaboration of the eScience centre with _The Turing Way_ in providing guidelines and helping build better research software ([details](https://book.the-turing-way.org/afterword/contributors-record.html#netherlands-escience-center)).
+-   Emma is a Research Associate and Community Manager of DECOVID at The Alan Turing Institute, and an Environmental Archaeology and Palaeoecology researcher. She has led several collaborations and discussions on chapters within the Guides for Collaboration and Communication ([details](https://book.the-turing-way.org/afterword/contributors-record.html#emma-karoune)).
+-   Esther is a Data Steward at the Delft University of Technology, Netherlands. She has been a core contributor to the project developing, guiding and collaborating on chapters related to data management and reproducibility ([details](https://book.the-turing-way.org/afterword/contributors-record.html#delft-university-of-technology-faculty-of-applied-sciences)).
 
 We want to express our gratitude for their thoughtful engagement in the project and for helping build an inclusive and safe place in the Book Dash. 
 It is only with their help, we can host the next event in November taking careful consideration for our participants.
@@ -75,19 +75,19 @@ Exciting additions from this Book Dash, as captured concisely by Esther Plomp in
 -   [Batool](https://twitter.com/batool664), [Andrea](https://twitter.com/SanchezTapiaA) and [Alejandro](https://twitter.com/alejo_coca) worked on improving the documentation of translation within the Community Handbook.
 -   Batool also managed to [deliver a Talk on *The Turing Way*](https://docs.google.com/presentation/d/e/2PACX-1vR28ekOT9N1x2Rqp2Tij-Dlto-yaj92wvg28JTy9J47vmtIBnTBu2jCsg6MsceIiIL4otCcV3SS9Uyb/pub?start=false&loop=false&delayms=3000) on the same week as the Book Dash (where she chaired multiple sessions, including a workshop for new GitHub contributors)
 -   [Marta](http://marta-mm) led a discussion on data visualisation and is writing a chapter which will be reviewed by Emanuelle under [Pull Request #1563](https://github.com/alan-turing-institute/the-turing-way/pull/1563/)
--   [Arielle](https://twitter.com/biotechchat), [Lena](https://twitter.com/LangData) and [Esther](https://twitter.com/phdtoothfairy) worked on a new chapter on research infrastructure roles, which is published as a [chapter in the Guide for Collaboration](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html)
+-   [Arielle](https://twitter.com/biotechchat), [Lena](https://twitter.com/LangData) and [Esther](https://twitter.com/phdtoothfairy) worked on a new chapter on research infrastructure roles, which is published as a [chapter in the Guide for Collaboration](https://book.the-turing-way.org/collaboration/research-infrastructure-roles.html)
 -   [Achintya](https://twitter.com/RaoOfPhysics) worked on fixing the style of markdown chunks in the book, and reviewed many contributions by others throughout the week, along with collaborating with [Lena](https://github.com/Karvovskaya) on a chapter on Peer Review drafted under [Pull Request #2180](https://github.com/alan-turing-institute/the-turing-way/pull/2180)
--   [Vicky](https://twitter.com/vickyhellon) worked on a revision of the [Open Access subchapter](https://the-turing-way.netlify.app/reproducible-research/open/open-access.html)
+-   [Vicky](https://twitter.com/vickyhellon) worked on a revision of the [Open Access subchapter](https://book.the-turing-way.org/reproducible-research/open/open-access.html)
 -   Lena and [Jessica](https://twitter.com/JessicaScheick) worked on a chapter on Peer Review
 -   [Reshama](https://twitter.com/reshamas) worked on a chapter on how to measure the impact of events along with Jessica, which is in progress in [Pull Request #2183](https://github.com/alan-turing-institute/the-turing-way/pull/2183).
 -   Jessica also worked on a how-to review a GitHub Pull Request Guide
 -   [Emma](https://twitter.com/ekaroune) and [Maria](https://github.com/MariaEriksson) worked on a chapter on sensitive data, which is being reviewed under [Pull Request #2076](https://github.com/alan-turing-institute/the-turing-way/pull/2076).
 -   [Malvika](https://twitter.com/MalvikaSharan) improved the workflow for archiving the Turing Way using Zenodo which is [documented here](https://github.com/alan-turing-institute/the-turing-way/blob/main/release-workflow.md). She also made new releases on *The Turing Way* under the [DOI:10.5281/zenodo.5671094](https://zenodo.org/record/5671094) with The Turing Way community as contributors.
--   [Faruk](https://github.com/fdiblen), [Abel](https://twitter.com/abel_siqueira) and [Carlos](https://twitter.com/neocarlitos) worked on software section of [Making Research Objects Citable](https://the-turing-way.netlify.app/communication/citable.html) and a [chapter on reusable code](https://the-turing-way.netlify.app/reproducible-research/code-reuse.html)
--   [Margaret](https://twitter.com/meg_wanjiku) worked on the metadata section, which is online as a [subchapter of Research Data Management](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html)
--   [Nina](https://twitter.com/ninadicara) had started to work on a chapter during the last Book Dash on Sel-Reflection in Ethical Research. [Ali](https://twitter.com/aseyq) joined her to structure and review that chapter, which is now online [in the Guide for Ethical Research](https://the-turing-way.netlify.app/ethical-research/self-reflection.html).
+-   [Faruk](https://github.com/fdiblen), [Abel](https://twitter.com/abel_siqueira) and [Carlos](https://twitter.com/neocarlitos) worked on software section of [Making Research Objects Citable](https://book.the-turing-way.org/communication/citable.html) and a [chapter on reusable code](https://book.the-turing-way.org/reproducible-research/code-reuse.html)
+-   [Margaret](https://twitter.com/meg_wanjiku) worked on the metadata section, which is online as a [subchapter of Research Data Management](https://book.the-turing-way.org/reproducible-research/rdm/rdm-metadata.html)
+-   [Nina](https://twitter.com/ninadicara) had started to work on a chapter during the last Book Dash on Sel-Reflection in Ethical Research. [Ali](https://twitter.com/aseyq) joined her to structure and review that chapter, which is now online [in the Guide for Ethical Research](https://book.the-turing-way.org/ethical-research/self-reflection.html).
 -   [Ankur](https://github.com/leoank) worked on a section about best practices around capturing and sharing analysis pipelines, which he has described under [issue #2171](https://github.com/alan-turing-institute/the-turing-way/issues/2171).
--   [Melissa](https://github.com/melibleq) updated the chapter on [Tools for Remote Collaboration](https://the-turing-way.netlify.app/collaboration/remote-collab/remote-collab-tools.html), which is being reviewed under [Pull Request #2197](https://github.com/alan-turing-institute/the-turing-way/pull/2197).
+-   [Melissa](https://github.com/melibleq) updated the chapter on [Tools for Remote Collaboration](https://book.the-turing-way.org/collaboration/remote-collab/remote-collab-tools.html), which is being reviewed under [Pull Request #2197](https://github.com/alan-turing-institute/the-turing-way/pull/2197).
 --> 
 
 **GitHub activities:**
@@ -163,7 +163,7 @@ What's next?
 - Take a lead on addressing some of the concerns raised on the [Delta feedback](https://hackmd.io/upC0FVY9Qzmdd_WWGS6wRA?both#Delta)
 - Represent _The Turing Way_ in your community/conference, see our [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/main/communications/promotion-pack)
 - Attend a synchronous coworking such as [online Collaboration Cafes](https://hackmd.io/@turingway/collaboration-cafe) take place every first and second Wednesdays from 15:00 to 17:00 London time. Or [weekly Coworking call](https://hackmd.io/@turingway/coworking-call) every Monday from 11:00 - 12:00 London time.
-- Host one of these calls, see details here: https://the-turing-way.netlify.app/community-handbook/coworking.html
+- Host one of these calls, see details here: https://book.the-turing-way.org/community-handbook/coworking.html
 - Attend a fireside chat, or speak at one, or organise one in your community: https://hackmd.io/@turingway/fireside-chats
 - Contribute new topics or review open pull requests
 - Join us on social media platforms or connect in other ways described here: https://hackmd.io/@turingway/demo-intro

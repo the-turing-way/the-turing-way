@@ -16,7 +16,7 @@ Cuckoo clock: https://cuckoo.team/tw-bookdash
 
 Each day we will hold 3 development sessions and an one themed discussion/networking session where you can interact with others, continue your disucssion outside development session or take a break as it's most sustainable and helpful for your participation.
 
-Each development session will follow the Pomodoro technique that we also use for our coworking calls. We will use [browser-based shared (cuckoo) clock](https://cuckoo.team/tw-bookdash) to manage our time ([Coworking chapter in The Turing Way](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-motivation.html))
+Each development session will follow the Pomodoro technique that we also use for our coworking calls. We will use [browser-based shared (cuckoo) clock](https://cuckoo.team/tw-bookdash) to manage our time ([Coworking chapter in The Turing Way](https://book.the-turing-way.org/community-handbook/coworking/coworking-motivation.html))
 
 All time provided in London Time (UTC). Please use this link to convert in your time zone: convert time: https://arewemeetingyet.com/london/2022-05-**DD**/**hh:mm** (update DD: date, hh:mm: hours:minutes)
 

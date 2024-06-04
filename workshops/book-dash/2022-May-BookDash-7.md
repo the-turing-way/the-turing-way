@@ -2,7 +2,7 @@
 
 ## The Turing Way Book Dash, 16-20 May 2022: Overview and Report
 
-*Read more about [The Turing Way Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html)*
+*Read more about [The Turing Way Book Dash](https://book.the-turing-way.org/community-handbook/bookdash.html)*
 
 ![](https://i.imgur.com/tIZtgKK.png)
 ![](https://i.imgur.com/kBIZ8l3.jpg)
@@ -11,7 +11,7 @@ We are delighted to share that the sixth Book Dash was hosted successfully from 
 
 ### Format of the event
 
-_The Turing Way_ [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. 
+_The Turing Way_ [Book Dash events](https://book.the-turing-way.org/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. 
 They also contribute to enhancing the project by improving the ways we work in the community and take lead on accomplishing different tasks or subprojects.
 
 The May edition of Book Dash featured contributors, committee members, online working sessions, discussions and social events, and community share-outs.
@@ -28,7 +28,7 @@ As in the past, we invited applications through an open call where interested ap
 Applicants were asked to think about the collaborative element of the Book Dash and state how they could engage with other participants. 
 To get a sense of the time zones these applicants came from, we asked them to choose their preferred slots during the day that they can join. You can see a template of this document [here](https://tinyurl.com/tw-bookdash-template).
 
-The Book Dash Planning Committee used the rubrics (as explained in the [online chapter](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-application.html#reviewing-process)) to score the applications during the review. They met online to discuss applications, frame feedback and conclude their selection process.
+The Book Dash Planning Committee used the rubrics (as explained in the [online chapter](https://book.the-turing-way.org/community-handbook/bookdash/bookdash-application.html#reviewing-process)) to score the applications during the review. They met online to discuss applications, frame feedback and conclude their selection process.
 
 ### Book Dash Planning Committee
 
@@ -52,16 +52,16 @@ It is only with their help, we can host the next event in November taking carefu
 - 22 Issues
 - 16 Pull Requests
 - 10 chapters, sections on new concepts and resources were published or updated:
-    - [Open Scholarship chapter](https://the-turing-way.netlify.app/reproducible-research/open/open-scholarship.html)
+    - [Open Scholarship chapter](https://book.the-turing-way.org/reproducible-research/open/open-scholarship.html)
     - [Chinese Translation of the README](https://github.com/alan-turing-institute/the-turing-way/blob/main/README-translated/README-Chinese.md)
-    - [Podman section in the Containers Chapter](https://the-turing-way.netlify.app/reproducible-research/renv/renv-containers.html#podman)
-    - [Singularity section in the Containers Chapter](https://the-turing-way.netlify.app/reproducible-research/renv/renv-containers.html#singularity)
+    - [Podman section in the Containers Chapter](https://book.the-turing-way.org/reproducible-research/renv/renv-containers.html#podman)
+    - [Singularity section in the Containers Chapter](https://book.the-turing-way.org/reproducible-research/renv/renv-containers.html#singularity)
     - [Issue template to requst translation](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/ISSUE_TEMPLATE/Request-Translation)
-    - [Leadership story from Data Librarian - chapter in progress](https://deploy-preview-1553--the-turing-way.netlify.app/collaboration/leadership/leadership-story-data-librarian.html)
-    - [Ethical Considerations when Choosing an Open Source Governance Model](https://the-turing-way.netlify.app/ethical-research/ethics-open-source-governance.html?highlight=ethical%20consideration)
-    - [Research Object in Action](https://the-turing-way.netlify.app/communication/research-objects.html)
-    - [Publishing different articles types](https://the-turing-way.netlify.app/communication/dif-articles.html)
-    - [Privacy preserving Machine Learning](https://the-turing-way.netlify.app/project-design/sdpw/pd-sdp-private-learning.html)
+    - [Leadership story from Data Librarian - chapter in progress](https://deploy-preview-1553--book.the-turing-way.org/collaboration/leadership/leadership-story-data-librarian.html)
+    - [Ethical Considerations when Choosing an Open Source Governance Model](https://book.the-turing-way.org/ethical-research/ethics-open-source-governance.html?highlight=ethical%20consideration)
+    - [Research Object in Action](https://book.the-turing-way.org/communication/research-objects.html)
+    - [Publishing different articles types](https://book.the-turing-way.org/communication/dif-articles.html)
+    - [Privacy preserving Machine Learning](https://book.the-turing-way.org/project-design/sdpw/pd-sdp-private-learning.html)
 - Several discussions and chapter drafts are under progress, with many first-time contributors to an Open Source project repository who collaborated during the Book Dash.
 **Presentations:**
 - Introduction: CC-BY 4.0, The Turing Way, DOI: 10.5281/zenodo.5654766, http://zenodo.org/record/5654766, Google slides: https://tinyurl.com/bookdash-nov21
@@ -119,7 +119,7 @@ What's next?
 - Take a lead on addressing some of the concerns raised on the [Delta feedback](https://hackmd.io/upC0FVY9Qzmdd_WWGS6wRA?both#Delta)
 - Represent _The Turing Way_ in your community/conference, see our [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/main/communications/promotion-pack)
 - Attend a synchronous coworking such as [online Collaboration Cafes](https://hackmd.io/@turingway/collaboration-cafe) take place every first and second Wednesdays from 15:00 to 17:00 London time. Or [weekly Coworking call](https://hackmd.io/@turingway/coworking-call) every Monday from 11:00 - 12:00 London time.
-- Host one of these calls, see details here: https://the-turing-way.netlify.app/community-handbook/coworking.html
+- Host one of these calls, see details here: https://book.the-turing-way.org/community-handbook/coworking.html
 - Attend a fireside chat, or speak at one, or organise one in your community: https://hackmd.io/@turingway/fireside-chats
 - Contribute new topics or review open pull requests
 - Join us on social media platforms or connect in other ways described here: https://hackmd.io/@turingway/demo-intro

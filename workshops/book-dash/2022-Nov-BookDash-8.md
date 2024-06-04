@@ -2,7 +2,7 @@
 
 ## The Turing Way Book Dash, 14-18 November 2022: Overview and Report
 
-*Read more about [The Turing Way Book Dash here](https://the-turing-way.netlify.app/community-handbook/bookdash.html)*
+*Read more about [The Turing Way Book Dash here](https://book.the-turing-way.org/community-handbook/bookdash.html)*
 
 ![Alt: Screenshot of zoom with people waving at the camera. Attendees are (in the order - left to right, top to bottom) from session 1: Rachael joining from London with a virtual background that says "that could be a chapter in the Turing Way", Malvika joining from India, with Turing Way logo as her background, Hari joining from London - with a background illustration of people collaborating, Winny joining from Uganda, she is wearing a green blazer and blue curtain background, Saranjeet joining from India, she is wearing a red Hoodie, with a white wall background, Alden and Mahwish joining from The Alan Turing Institute office in London, Mahwish is wearing a black sweater and Alden is wearing a grey sweater, Esther joining from the Netherlands - she is waving with both hands, Giulia Tomba is joining from somewhere in the UK, she is wearing a beige sweater, Batool joining somewhere from the UK - she is wearing a brown hijab. Patricia has a blurred background, she is wearing a grey sweater and a pair of black framed glasses, A black square with Mahwish Mohammad's name - her camera was off as she was joining from the Alan Turing Institute with the meeting room's camera with Alden. Jafsia has a still photograph as his profile picture. He is wearing a purple shirt and has a curtain in his background. From session 2: Kirstie joins from somewhere in London, with baby Mackenzie. She is wearing a black sweater with a turquoise blue necklace made up of round stones. Anne Steele is waving, joining from London, with Turing Way pathways as her background. Emma Karoune is joining from Southampton, UK. She is wearing a black hijab and over-ear headphones, with a grey sweater. Her background is an illustration of the data management process. Anne Fouilloux is calling from France, wearing a striped black and white jacket with a red scarf, as well as glasses. Alejandro is calling from Colombia, with Turing Way's remote work image behind him. Danny is calling from Washington DC, USA, and wearing a blue shirt and glasses with a dark frame. Aditi is calling from the UK, wearing a red shirt and glasses with a clear frame. Aman is calling from India, wearing glasses with a dark frame, with a checkered shirt. Andrea is calling from California, USA, wearing a bright green scarf and black sweater, with navy over-ear headphones, dark-rimmed glasses, the LGBTQ + Progress flag behind her, as well as two paintings. Melissa Black is joining from Brazil, with over-ear headphones, a black and white tank top, and wearing dark-rimmed glasses. Liz is joining from New York, USA, wearing a brown sweater, wearing earbud headphones. There is a small painting in the background and blinds next to her. Esther is joining from the Netherlands but is not visible on the screen. Her background is white with blue illustrated buildings. A white cat is sitting on a black keyboard, with a hand (presumably Esther’s) between them](https://i.imgur.com/ydp6cnF.jpg)
 
@@ -20,7 +20,7 @@ Discussion and collaboration among the attendees at this Book Dash covered a wid
 
 ### Format of the event
 
-_The Turing Way_ [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. 
+_The Turing Way_ [Book Dash events](https://book.the-turing-way.org/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. 
 They also contribute to enhancing the project by improving the ways we work in the community and take lead on accomplishing different tasks or subprojects.
 
 The November edition of Book Dash featured 19 invited contributors, 6 committee members, 14 online working sessions, four discussions and social events, and two community share-outs.
@@ -39,7 +39,7 @@ As in the past, we invited applications through an open call where interested ap
 Applicants were asked to think about the collaborative element of the Book Dash and state how they could engage with other participants. 
 To get a sense of the time zones these applicants came from, we asked them to choose their preferred slots during the day that they can join. You can see a template of this document [here](https://tinyurl.com/tw-bookdash-template).
 
-The Book Dash Planning Committee used the rubrics (as explained in the [online chapter](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-application.html#reviewing-process)) to score the applications during the review. They met online to discuss applications, frame feedback and conclude their selection process.
+The Book Dash Planning Committee used the rubrics (as explained in the [online chapter](https://book.the-turing-way.org/community-handbook/bookdash/bookdash-application.html#reviewing-process)) to score the applications during the review. They met online to discuss applications, frame feedback and conclude their selection process.
 
 ### Book Dash Planning Committee
 
@@ -49,10 +49,10 @@ The Book Dash Planning Committee used the rubrics (as explained in the [online c
 
 Learn more about them:
 
--   Arielle is the Research Project Manager for the Tools, Practices & Systems Programme at the Alan Turing Institute. In _The Turing Way_, she has worked on writing, facilitating discussion and mentored contributions in the Guide for Ethical Research ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#arielle-bennett)).
--   Emma is a Research Associate and Community Manager of DECOVID at The Alan Turing Institute, and an Environmental Archaeology and Palaeoecology researcher. She has led several collaborations and discussions on chapters within the Guides for Collaboration and Communication ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#emma-karoune)).
--   Esther is a Data Steward at the Delft University of Technology, Netherlands. She has been a core contributor to the project developing, guiding and collaborating on chapters related to data management and reproducibility - and leads our partnership via her with the TU Delft  ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#delft-university-of-technology-faculty-of-applied-sciences)).
--   Lena is a Data Community Manager at the Vrije Universiteit Amsterda (VU Amsterdam), Netherlands. She like Esther has been a core contributor to the project developing, guiding and collaborating on chapters related to data management and reproducibility ([details](https://the-turing-way.netlify.app/afterword/contributors-record.html#lena-karvovskaya)).    
+-   Arielle is the Research Project Manager for the Tools, Practices & Systems Programme at the Alan Turing Institute. In _The Turing Way_, she has worked on writing, facilitating discussion and mentored contributions in the Guide for Ethical Research ([details](https://book.the-turing-way.org/afterword/contributors-record.html#arielle-bennett)).
+-   Emma is a Research Associate and Community Manager of DECOVID at The Alan Turing Institute, and an Environmental Archaeology and Palaeoecology researcher. She has led several collaborations and discussions on chapters within the Guides for Collaboration and Communication ([details](https://book.the-turing-way.org/afterword/contributors-record.html#emma-karoune)).
+-   Esther is a Data Steward at the Delft University of Technology, Netherlands. She has been a core contributor to the project developing, guiding and collaborating on chapters related to data management and reproducibility - and leads our partnership via her with the TU Delft  ([details](https://book.the-turing-way.org/afterword/contributors-record.html#delft-university-of-technology-faculty-of-applied-sciences)).
+-   Lena is a Data Community Manager at the Vrije Universiteit Amsterda (VU Amsterdam), Netherlands. She like Esther has been a core contributor to the project developing, guiding and collaborating on chapters related to data management and reproducibility ([details](https://book.the-turing-way.org/afterword/contributors-record.html#lena-karvovskaya)).    
 
 We want to express our gratitude for their thoughtful engagement in the project and for helping build an inclusive and safe place in the Book Dash. 
 It is only with their help, we can host the next event in November taking careful consideration for our participants.
@@ -78,19 +78,19 @@ It is only with their help, we can host the next event in November taking carefu
 - 6 new chapters/subchapters were published, while 5 existing chapters/subchapters were revised and updated.
     
 **New chapters published in The Turing Way book**
-1. [Data Wrangler](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/data-wrangler.html?highlight=data%20wrangler) subchapter in the Research Infrastructure chapter
-2. [Research Ethics for Social Data](https://the-turing-way.netlify.app/ethical-research/social-data.html)
-3. [Data Curation](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-data-curation.html?highlight=curation)
-4. [Declarative Virtual Machines with Vagrant](https://the-turing-way.netlify.app/reproducible-research/renv/renv-virtualmachine.html?highlight=vagrant#declarative-virtual-machines-with-vagrant) in the Virtual Environment chapter
-5. [Research Objects in Action](https://the-turing-way.netlify.app/communication/research-objects.html)
-6. [Peer review subchapters](https://the-turing-way.netlify.app/communication/peer-review.html)
+1. [Data Wrangler](https://book.the-turing-way.org/collaboration/research-infrastructure-roles/data-wrangler.html?highlight=data%20wrangler) subchapter in the Research Infrastructure chapter
+2. [Research Ethics for Social Data](https://book.the-turing-way.org/ethical-research/social-data.html)
+3. [Data Curation](https://book.the-turing-way.org/reproducible-research/rdm/rdm-data-curation.html?highlight=curation)
+4. [Declarative Virtual Machines with Vagrant](https://book.the-turing-way.org/reproducible-research/renv/renv-virtualmachine.html?highlight=vagrant#declarative-virtual-machines-with-vagrant) in the Virtual Environment chapter
+5. [Research Objects in Action](https://book.the-turing-way.org/communication/research-objects.html)
+6. [Peer review subchapters](https://book.the-turing-way.org/communication/peer-review.html)
     
 **Existing chapters updated during the Book Dash**
-1. [Types of Sensitive Data - overview](https://the-turing-way.netlify.app/project-design/sdp/types.html)
-2. [Research data Management - FAIR Principles - Community Involvement section](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-fair.html#community-involvement)
-3. [Ethical Considerations for Open Source Governance - Additional Resources section](https://the-turing-way.netlify.app/ethical-research/ethics-open-source-governance.html#additional-resources)
-4. [Personal Data - Direct and indirect identifiers](https://the-turing-way.netlify.app/project-design/sdp/personal.html)
-5. [Data Management Plan - Digital Preservation](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html?highlight=digital%20preservation#preservation-of-the-research-outputs-after-the-project)
+1. [Types of Sensitive Data - overview](https://book.the-turing-way.org/project-design/sdp/types.html)
+2. [Research data Management - FAIR Principles - Community Involvement section](https://book.the-turing-way.org/reproducible-research/rdm/rdm-fair.html#community-involvement)
+3. [Ethical Considerations for Open Source Governance - Additional Resources section](https://book.the-turing-way.org/ethical-research/ethics-open-source-governance.html#additional-resources)
+4. [Personal Data - Direct and indirect identifiers](https://book.the-turing-way.org/project-design/sdp/personal.html)
+5. [Data Management Plan - Digital Preservation](https://book.the-turing-way.org/reproducible-research/rdm/rdm-dmp.html?highlight=digital%20preservation#preservation-of-the-research-outputs-after-the-project)
 
 **Our attendees also led and participated in the following informal discussions and public events:**
 * On day 1 Jennifer Ding led a discussion on Data Custodianship.
@@ -183,7 +183,7 @@ What's next?
 - Take a lead on addressing some of the concerns raised on the [Delta feedback](https://hackmd.io/upC0FVY9Qzmdd_WWGS6wRA?both#Delta)
 - Represent _The Turing Way_ in your community/conference, see our [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/main/communications/promotion-pack)
 - Attend a synchronous coworking such as [online Collaboration Cafes](https://hackmd.io/@turingway/collaboration-cafe) take place every first and second Wednesday from 15:00 to 17:00 London time. Or [weekly Coworking call](https://hackmd.io/@turingway/coworking-call) every Monday from 11:00 - 12:00 London time.
-- Host one of these calls, see details here: https://the-turing-way.netlify.app/community-handbook/coworking.html
+- Host one of these calls, see details here: https://book.the-turing-way.org/community-handbook/coworking.html
 - Attend a fireside chat, speak at one, or organise one in your community: https://hackmd.io/@turingway/fireside-chats
 - Contribute new topics or review open pull requests
 - Join us on social media platforms or connect in other ways described here: https://hackmd.io/@turingway/demo-intro

@@ -171,7 +171,7 @@ Any day-to-day feedback during the event can be directly shared in the main even
 
 ### Participation guidelines
 
-- Code of Conduct: https://the-turing-way.netlify.app/community-handbook/coc.html
+- Code of Conduct: https://book.the-turing-way.org/community-handbook/coc.html
 - Contribution guideline: https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md
 
 ### Communication channels
@@ -183,13 +183,13 @@ Any day-to-day feedback during the event can be directly shared in the main even
 
 ### Acknowledging your contributions to _The Turing Way_
 
-- Contributors Record: https://the-turing-way.netlify.app/afterword/contributors-record.html
-    - [See how we acknowledge our contributors](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html)
+- Contributors Record: https://book.the-turing-way.org/afterword/contributors-record.html
+    - [See how we acknowledge our contributors](https://book.the-turing-way.org/community-handbook/acknowledgement.html)
 
 ### GitHub Resources
 
 - GitHub repository: https://github.com/alan-turing-institute/the-turing-way
-- Online Book: https://the-turing-way.netlify.app/welcome
+- Online Book: https://book.the-turing-way.org/welcome
 - Impact story: https://www.turing.ac.uk/research/impact-stories/changing-culture-data-science
     - [Short summary](https://www.turing.ac.uk/sites/default/files/inline-images/Turing%20Way%20oner_0.jpg)
 - Open issues: https://github.com/alan-turing-institute/the-turing-way/issues
