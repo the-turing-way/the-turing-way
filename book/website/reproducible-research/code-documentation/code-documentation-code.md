@@ -4,9 +4,6 @@ It is a good practice to document the source code of software regardless of how 
 The goal of code documentation is to provide context and explanations for the source code. 
 So that others can understand why a piece of sofware exists, how it was built and how to use it or re-use it. 
 
-> TODO: reverse order, from general to specific. 
-> keep two frameworks.
-
 ## Extended Software Documentation
 
 Documenting software may require to prepare extensive descriptions of the key aspects of software, 
