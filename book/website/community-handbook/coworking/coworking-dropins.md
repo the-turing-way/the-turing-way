@@ -24,7 +24,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 There are many ways to manage attendee sign ups that occur before the call and during the call.
 The best method will depend on the size of your team, the desired audience, and the expected topics.
-Sign ups are a way to approach scheduling different attendee requests
+Sign ups are a way to set up the schedule based on the requirements of attendees.
 Here we share a few approaches, ranging from low touch to high touch:
 - Attendees drop in at any point during a session. This provides them flexibility and removes the need for prior scheduling, but may require them to sit in on other conversations and wait to have their question answered.
 - Allow attendees to sign up directly to fill open slots.
