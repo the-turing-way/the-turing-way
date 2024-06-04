@@ -5,7 +5,7 @@
 Drop-in sessions are an informal collaboration format where a team or group of people host regular opportunities for other people within the community or organisation to ask questions or start a conversation on a topic of their interest.
 
 These sessions typically include an online component, typically using [Zoom](https://www.zoom.us/). 
-They may follow a different format or sign up person, depending on the needs and preferences of the organising team and the target community the sessions are designed for.
+The format and sign up method will depend on the needs and preferences of the organising team and the target community the sessions are designed for.
 
 The primary goal of these sessions is to provide an opportunity for answering targeted questions on a subject that the team holds expertise in, such as data protection, stakeholder engagement, or research software engineering.
 The sessions are a resource for community or organisation members to ask questions, receive targeted advice and support, and create space to start co-working or futher collaboration.
