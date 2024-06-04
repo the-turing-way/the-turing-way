@@ -34,7 +34,7 @@ When there are more requests than available slots, any additional requests can b
 
 ## Resources for drop-in sessions
 
-The resources used for these sessions help facilitate coordination amongst the organisers and also to enable attendee sign up.
+The resources used for these sessions help facilitate coordination amongst the organisers and also enable attendee sign up.
 
 1. Online call by [Zoom](https://www.zoom.us/): The Zoom link is shared on an internal Turing webpage and on Slack.
 2. In person location (optional): A reserved meeting room or location at a shared organisation space.
