@@ -19,7 +19,7 @@ The term **image** is used to refer to the file object itself.
 To facilitate figure modification, the availability of images sources may be important to enable further editing.
 It is recommended when appropriate to provide original source files along with the final format (such as `jpg` or `png`) used by figures.
 
-> **Example:** Photoshop uses source files with a `psd` extension which allows manipulation of image layers before an export into a format like `jpg`.
+> **Example:** Photoshop uses source files with a `psd` extension which allows manipulation of image layers before an export into a format like `jpg`. Alternatively, the open source software Inkscape uses `.svg` files.
 
 ## Open licence
 
