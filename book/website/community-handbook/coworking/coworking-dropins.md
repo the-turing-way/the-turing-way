@@ -37,7 +37,7 @@ When there are more requests than available slots, any additional requests can b
 The resources used for these sessions help facilitate coordination amongst the organisers and also to enable attendee sign up.
 
 1. Online call by [Zoom](https://www.zoom.us/): The Zoom link is shared on an internal Turing webpage and on Slack.
-2. In person location (optional): A reserved meeting room or location at a shared organisation space
+2. In person location (optional): A reserved meeting room or location at a shared organisation space.
 3. Online github repo: share information about the session, including [the schedule](https://github.com/alan-turing-institute/infrastructure-drop-ins/wiki/Schedule) and [how to sign up](https://github.com/alan-turing-institute/infrastructure-drop-ins)
 4. Engagement and impact tracking resource: Sheet with information on the topics raised, next steps, and the overall impact of the session
 
