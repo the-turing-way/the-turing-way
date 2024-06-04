@@ -15,7 +15,7 @@ The sessions are also an opportunity to learn about and connect with new teams a
 ---
 height: 400px
 name: research-communities
-alt: Cartoon-like sketch of people in different nodes connecting into a central node with a robot in the middle. The people represent researchers in different research domains. One group is building a rocket ship, another group is fixing a car, and another group is working on a hot air balloon. In the central node, researchers are performing different tasks to build a robot. Some of researchers are taking the findings from the central node to the other nodes.
+alt: Cartoon-like sketch of people in different nodes connecting into a central node with a robot in the middle. The people represent researchers in different research domains. One group is building a rocket ship, another group is fixing a car, and another group is working on a hot air balloon. In the central node, researchers are performing different tasks to build a robot. Some of the researchers are taking the findings from the central node to the other nodes.
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
