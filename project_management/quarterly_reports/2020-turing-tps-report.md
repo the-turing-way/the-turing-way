@@ -7,7 +7,7 @@
 - Affiliation: The Alan Turing Institute, London, UK
 - Funded by: The Tools, Practices and Systems Research Programme of The Alan Turing Institute
 - Dates of the project: Jan 2019 - Present
-- Webpage: [https://the-turing-way.netlify.app/welcome](https://the-turing-way.netlify.app/welcome) and [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) 
+- Webpage: [https://book.the-turing-way.org/welcome](https://book.the-turing-way.org/welcome) and [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) 
 - Ethics approval status: Confirmation ethics approval not required
 - Reports drafted by Malvika Sharan, Community Manager - *The Turing Way*
 
@@ -23,7 +23,7 @@
 ### Datasets created
 
 -   Zenodo: [https://zenodo.org/communities/the-turing-way](https://zenodo.org/communities/the-turing-way)
--   Book: [https://the-turing-way.netlify.app](https://the-turing-way.netlify.app) 
+-   Book: [https://book.the-turing-way.org](https://book.the-turing-way.org) 
 -   Resources on GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) 
 
 ## First Quarter: 1 January 2020 to 31 March 2020. 

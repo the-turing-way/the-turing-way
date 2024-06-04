@@ -61,7 +61,7 @@ Our workflows and digital infrastructure must be able to facilitate regular upda
 
 ### Q4: What data or other resources will you use to answer the question? (max 500 words)
 
-Our research will be conducted through [The Turing Way](https://the-turing-way.netlify.com) which is both a handbook and an open source community. The development of this interactive online educational resource happens on [GitHub](https://github.com/the-turing-way) under open source licences (MIT and CC-BY). Our community handbook details current engagement practices, including how to support [the localisation working group](https://the-turing-way.netlify.app/community-handbook/translation). One of the localisation working group leads, Melissa Black, will spearhead the research.
+Our research will be conducted through [The Turing Way](https://the-turing-way.netlify.com) which is both a handbook and an open source community. The development of this interactive online educational resource happens on [GitHub](https://github.com/the-turing-way) under open source licences (MIT and CC-BY). Our community handbook details current engagement practices, including how to support [the localisation working group](https://book.the-turing-way.org/community-handbook/translation). One of the localisation working group leads, Melissa Black, will spearhead the research.
 
 We already have a Slack channel with more than 800 members. To examine the nuances of localisation, we will engage with individuals from diverse communities, each with a rich history and ongoing efforts in this domain. Their collective wisdom and experiences will be the linchpin in enriching our research. We will connect with them through The Turing Way community and through our community partners (detailed below).
 
@@ -127,7 +127,7 @@ Qtr4: Disseminate findings to broader global community (all Ds), publish localis
 
 ### Q8: What partnerships and programs are critical to this work and how do you envision outreach activities? (max 400 words)
 
-As per our community engagement practices and Guide for Collaboration, we will invite participants to co-create the work from the start. We will host a Localisation Dash, a hackathon-style event dedicated to advancing localisation efforts. The event is modelled on [The Turing Way’s successful “Book Dash” events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) that run in a hybrid format twice a year. By sharing our methodologies and learning from the experiences of others involved in such initiatives, we aim to enhance the effectiveness and efficiency of localisation in open science together.
+As per our community engagement practices and Guide for Collaboration, we will invite participants to co-create the work from the start. We will host a Localisation Dash, a hackathon-style event dedicated to advancing localisation efforts. The event is modelled on [The Turing Way’s successful “Book Dash” events](https://book.the-turing-way.org/community-handbook/bookdash.html) that run in a hybrid format twice a year. By sharing our methodologies and learning from the experiences of others involved in such initiatives, we aim to enhance the effectiveness and efficiency of localisation in open science together.
 
 Our outreach activities will be open to all and at least the following communities will be invited to participate:
 
