@@ -1,5 +1,5 @@
 (cl-academic-industry-personal-story)=  
-# Turing-Roche Community Activities Personal Story
+# Case Study: Turing-Roche Community Activities
 
 ```{figure} ../../figures/turing-roche-partnership.jpg
 ---
