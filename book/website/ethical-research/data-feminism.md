@@ -5,9 +5,9 @@
 
 | Prerequisite | Importance | Skill Level | Notes |
 | -------------|----------|------|----|
-| [Data Governance](https://the-turing-way.netlify.app/project-design/data-governance) | Helpful | Beginner | Best practices on how data is collected and managed |
-| [Research Data Management](https://the-turing-way.netlify.app/reproducible-research/rdm#rr-rdm) | Helpful | Beginner | Covers how research data can be stored, described and reused.  
-| [Managing Sensitive Data Projects](https://the-turing-way.netlify.app/project-design/sdpm) | Helpful | Beginner | Tips on managing sensitive data.|
+| [Data Governance](https://book.the-turing-way.org/project-design/data-governance) | Helpful | Beginner | Best practices on how data is collected and managed |
+| [Research Data Management](https://book.the-turing-way.org/reproducible-research/rdm#rr-rdm) | Helpful | Beginner | Covers how research data can be stored, described and reused.  
+| [Managing Sensitive Data Projects](https://book.the-turing-way.org/project-design/sdpm) | Helpful | Beginner | Tips on managing sensitive data.|
 
 
 (er-data-feminism-summary)=

@@ -51,7 +51,7 @@ Please propose your suggestion below or reach out to *The Turing Way* team membe
   * The video will be available on the YouTube channel in the next days: [https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
   * Turn on your webcam if you don’t mind sharing your face (or off if you do!)
 * Reminder: 
-    * **Code of conduct**: [https://the-turing-way.netlify.app/community-handbook/coc.html](https://the-turing-way.netlify.app/community-handbook/coc.html)
+    * **Code of conduct**: [https://book.the-turing-way.org/community-handbook/coc.html](https://book.the-turing-way.org/community-handbook/coc.html)
        * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the project members - Malvika and Kirstie Whitaker (turingway@gmail.com).
        * To report an issue at the *Exploring gaps and opportunities for multilingual data science* event involving one of the organisers, please email one of the members individually (msharan@turing.ac.uk, kwhitaker@turing.ac.uk)
 * We have enabled the **closed caption (live transcription),** please click on 'cc' at the bottom of your Zoom screen
