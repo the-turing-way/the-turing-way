@@ -842,6 +842,8 @@ parts:
                 file: community-handbook/coworking/coworking-weekly
               - title: Organising coworking calls
                 file: community-handbook/coworking/coworking-organisation
+              - title: Drop-in Sessions
+                file: community-handbook/coworking/coworking-dropins
           - title: Fireside Chat Series
             file: community-handbook/fireside-chat
             sections:
