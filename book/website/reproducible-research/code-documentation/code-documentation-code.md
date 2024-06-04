@@ -31,11 +31,14 @@ The system distinguis between four types of documentation: tutorial, how-to guid
 
 **Tutorials** aim to teach other how to use the software by descrbing things step by step.
 For example, how to navigate the graphical interface of software X.
+
 **How-to guides** describe the steps required to solve particular problems with the software in question.
 For example, how to find research dataset A in the data archive B, using software X.
+
 **Explanations** aim to provide understading by providing context to relevant topics for the software.
 For example, If software X implements a [quickSort algorithm](https://www.geeksforgeeks.org/quick-sort/) to find a value in a long lists of integers,
 it might be relevent to include an explanation about why that algorithm was chosen.
+
 **Reference guides** describe the code and how to use it. 
 It should include  description of functions, fields, attributes, methods and APIs, and set out how to use them.
 For example, if software X includes a function S that adds two numbers. 
