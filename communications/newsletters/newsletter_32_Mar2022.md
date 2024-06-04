@@ -157,8 +157,8 @@ See this [Twitter thread by Arielle Bennett](https://twitter.com/biotechchat/sta
 
 *   **1.** Congratulations **Emma Karoune** for the publication of her research paper [Assessing Open Science Practices in Phytolith Research](https://www.openquaternary.com/articles/10.5334/oq.88/). See [her Tweet](https://twitter.com/ekaroune/status/1502208208571703298?s=20&t=ZhCl7r3zrp8d1NstXaNFHA) sharing her paper.
 *   **2.** Congratulations **Sarah Gibson** for being named a [JupyterHub Distinguished Contributor](https://blog.jupyter.org/congratulations-distinguished-contributors-bc349fa60d68). See [her Tweet](https://twitter.com/drsarahlgibson/status/1504376954325196800?s=20&t=ZhCl7r3zrp8d1NstXaNFHA) with the announcement.
-*   **3.** Thanks to **Esther Plomp** for writing a [chapter on Data Article in _The Turing Way_](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-article.html), and Achintya Rao and Vicky Hellon for review. See [Esther’s tweet](https://twitter.com/PhDToothFAIRy/status/1494386704517636110?s=20&t=uWN4ovGAHUUk4I5coZhXsg) inviting examples from data articles.
-*   **4.** Congratulations to **Stephan Druskat** and the team for winning the [campusSOURCE Award 2022 for the Citation File Format](https://ev.campussource.de/publikationen/csa2022/) project. See [Cassandra Gould van Praag’s Tweet](https://twitter.com/cassgvp/status/1494198893193711626?s=20&t=uWN4ovGAHUUk4I5coZhXsg) sharing a [chapter on CFF File Format](https://the-turing-way.netlify.app/communication/citable/citable-cffinit.html) in _The Turing Way_.
+*   **3.** Thanks to **Esther Plomp** for writing a [chapter on Data Article in _The Turing Way_](https://book.the-turing-way.org/reproducible-research/rdm/rdm-article.html), and Achintya Rao and Vicky Hellon for review. See [Esther’s tweet](https://twitter.com/PhDToothFAIRy/status/1494386704517636110?s=20&t=uWN4ovGAHUUk4I5coZhXsg) inviting examples from data articles.
+*   **4.** Congratulations to **Stephan Druskat** and the team for winning the [campusSOURCE Award 2022 for the Citation File Format](https://ev.campussource.de/publikationen/csa2022/) project. See [Cassandra Gould van Praag’s Tweet](https://twitter.com/cassgvp/status/1494198893193711626?s=20&t=uWN4ovGAHUUk4I5coZhXsg) sharing a [chapter on CFF File Format](https://book.the-turing-way.org/communication/citable/citable-cffinit.html) in _The Turing Way_.
 
 * * *
 
@@ -176,7 +176,7 @@ _The Turing Way Community, & Scriberia. (2021). Illustrations from the Turing Wa
 
 ### Recent Articles & Publications
 
-*   Post [Publishing a Data Article](https://openworking.wordpress.com/) by Esther Plomp. Contributions from Vicky Hellon, Achintya Rao, Yanina Bellini Saibene, and Lora Armstrong. See the related [chapter on _The Turing Way_](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-article.html).
+*   Post [Publishing a Data Article](https://openworking.wordpress.com/) by Esther Plomp. Contributions from Vicky Hellon, Achintya Rao, Yanina Bellini Saibene, and Lora Armstrong. See the related [chapter on _The Turing Way_](https://book.the-turing-way.org/reproducible-research/rdm/rdm-article.html).
 *   Seminar Announcement for 24 March 2022. Python (or R) for Open and Reproducible Science, with Andrew Mitchell - Department of Psychology. [See details](https://www.su.se/department-of-psychology/calendar/python-or-r-for-open-and-reproducible-science-with-andrew-mitchell-1.604754).
 *   Coderefinery. (2022, March 22) [Sharing code and data — Reproducible research documentation](https://coderefinery.org/reproducible-research/sharing).
 *   Louise Corti, Professor Felix Ritchie and Martin O’Reilly (2022, March 22). [To share or not to share: code sharing in social science.](https://www.ncrm.ac.uk/news/show.php?article=5705).

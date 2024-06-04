@@ -36,9 +36,9 @@ The Book Dash helps me to focus and get things done that [I] didn't follow throu
 Check out some of our highlights below, and get involved with some ongoing projects: 
 
 Merged chapters:
-- [Creating Academic-Industry Collaboration](https://the-turing-way.netlify.app/collaboration/academic-industry.html) 
-- [Leadership in Data Science](https://the-turing-way.netlify.app/collaboration/leadership.html)
-- [Hybrid Collaboration](https://the-turing-way.netlify.app/collaboration/hybrid-collab.html)
+- [Creating Academic-Industry Collaboration](https://book.the-turing-way.org/collaboration/academic-industry.html) 
+- [Leadership in Data Science](https://book.the-turing-way.org/collaboration/leadership.html)
+- [Hybrid Collaboration](https://book.the-turing-way.org/collaboration/hybrid-collab.html)
 
 New Chapters and Other Works in Progress:
 - [Data Hazards](https://github.com/alan-turing-institute/the-turing-way/issues/3096)

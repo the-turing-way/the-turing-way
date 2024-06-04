@@ -27,7 +27,7 @@ Come along with your coffee and questions to these calls and our core contributo
 ### Community calls for Co-Working and Discussion 
 
 This month’s Collaboration Cafes are taking place on 02 June and 16 June 2021 from 15:00 - 17:00 London Time ([see in your time](http://time.unitarium.com/utc/14)).
-If you have not had a chance to attend one of these calls yet, find out what you can expect from the discussions and co-working sessions in these calls in [this chapter](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html).
+If you have not had a chance to attend one of these calls yet, find out what you can expect from the discussions and co-working sessions in these calls in [this chapter](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html).
 Please sign up for the upcoming call, which will be hosted by Emma Karoune: [https://hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe). 
 
 Weekly co-working calls in Western Time Zone slots take place on Mondays.
@@ -94,11 +94,11 @@ Malvika Sharan and Kirstie Whitaker were involved to ensure that resources requi
 Our Book Dash attendees worked on multiple chapters and project ideas that we have summarised below:
 
 * Overview of new chapters:
-  * “[Legal Disclaimer](https://the-turing-way.netlify.app/afterword/legal-disclaimer.html)” by Laura Carter explaining where can readers find legal advice so that they do not consider any part of *The Turing Way* book as a legal guide. 
-  * Malvika and Esther reorganised a chapter “[Making Research Objects Citable](https://the-turing-way.netlify.app/communication/citable.html#)”,  previously listed under the Guide for Reproducible Research.
-  * Kirstie Whitaker wrote a chapter on “[Barriers to Reproducibility](https://the-turing-way.netlify.app/reproducible-research/overview/overview-barriers.html)” describing what challenges researchers face in their research when planning to apply practices for reproducibility.
-  * Batool and Brigitta collaborated on the chapters and illustrations for the [Continuous Integration chapter](https://the-turing-way.netlify.app/reproducible-research/ci.html) that they started working on during the previous Book Dash event.
-  * Arielle Bennett updated the chapter “[Activism for Researchers](https://the-turing-way.netlify.app/ethical-research/activism.html)” with the contributions of Bruno Camino. 
+  * “[Legal Disclaimer](https://book.the-turing-way.org/afterword/legal-disclaimer.html)” by Laura Carter explaining where can readers find legal advice so that they do not consider any part of *The Turing Way* book as a legal guide. 
+  * Malvika and Esther reorganised a chapter “[Making Research Objects Citable](https://book.the-turing-way.org/communication/citable.html#)”,  previously listed under the Guide for Reproducible Research.
+  * Kirstie Whitaker wrote a chapter on “[Barriers to Reproducibility](https://book.the-turing-way.org/reproducible-research/overview/overview-barriers.html)” describing what challenges researchers face in their research when planning to apply practices for reproducibility.
+  * Batool and Brigitta collaborated on the chapters and illustrations for the [Continuous Integration chapter](https://book.the-turing-way.org/reproducible-research/ci.html) that they started working on during the previous Book Dash event.
+  * Arielle Bennett updated the chapter “[Activism for Researchers](https://book.the-turing-way.org/ethical-research/activism.html)” with the contributions of Bruno Camino. 
 
 ![Image shows a group of researchers holding a banner that says “advocacy”. One person is signing up to join and others are walking/wheeling forward.](images/2021-05-advocacy-5.png)
 

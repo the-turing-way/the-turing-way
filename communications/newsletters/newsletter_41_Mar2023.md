@@ -45,7 +45,7 @@ Previous Book Dash attendees are also invited to express their interest to join 
 
 *You can use [the template document](https://tinyurl.com/tw-bookdash-template) to prepare your draft.* 
 
-Learn more about the [Book Dash and the application process](https://the-turing-way.netlify.app/community-handbook/bookdash.html).
+Learn more about the [Book Dash and the application process](https://book.the-turing-way.org/community-handbook/bookdash.html).
 
 **The deadline for  submission is 3 April 2023** (midnight anywhere in the world) .
 

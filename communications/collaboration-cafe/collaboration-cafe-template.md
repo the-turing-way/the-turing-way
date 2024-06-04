@@ -12,7 +12,7 @@ We're delighted to have you here :coffee: :sparkles: :cake:
 ### Useful links
 
 * Shared notes: https://hackmd.io/@KirstieJane/CollabCafe
-* About [online Collaboration Cafes](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms)
+* About [online Collaboration Cafes](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms)
 * The Turing Way GitHub repository: https://github.com/alan-turing-institute/the-turing-way
 * The book: https://the-turing-way.netlify.com
 * [Contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)
@@ -62,7 +62,7 @@ We're delighted to have you here :coffee: :sparkles: :cake:
 
 ### Breakout rooms: Topic proposals
 
-*If you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it. If you like one of the topics that is already suggested, please add your name next to that one. Team work makes the dream work. For more information about breakout rooms see [the description on The Turing Way](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms#breakout-rooms).*
+*If you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it. If you like one of the topics that is already suggested, please add your name next to that one. Team work makes the dream work. For more information about breakout rooms see [the description on The Turing Way](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms#breakout-rooms).*
 
 Topic for breakout / Names
 

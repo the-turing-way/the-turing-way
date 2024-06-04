@@ -8,7 +8,7 @@ This month, we are delighted to share some new opportunities for onboarding, ups
 
 * 👋 Every Friday from 15:00 - 16:00 UTC ([see in your local time](http://time.unitarium.com/utc/15)), we will host onboarding calls for new contributors and community members ([shared notes](https://hackmd.io/@turingway/chat-onboard)).
 * 📚 The next Book Dash event will take place from 17 to 24 May 2021. [Apply here](https://forms.gle/tsMuQSZMp4tKc3uz5). The deadline is 15 April 2021.
-* 🆕 We are preparing to make a new release of _The Turing Way_ book and project repository on [Zenodo](https://zenodo.org/communities/the-turing-way). If you have contributed to the project, please add your details to the [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html). 
+* 🆕 We are preparing to make a new release of _The Turing Way_ book and project repository on [Zenodo](https://zenodo.org/communities/the-turing-way). If you have contributed to the project, please add your details to the [Contributors Record](https://book.the-turing-way.org/afterword/contributors-record.html). 
 
 In addition to The Turing Way updates, we are sharing relevant announcements and calls for action from other open-source projects in this newsletter.
 
@@ -36,7 +36,7 @@ We are inviting applications to participate in the next Book Dash event taking p
 Applications can be submitted via [this Google Form](https://forms.gle/tsMuQSZMp4tKc3uz5). 
 The deadline for submission is **15 April 2021**.
 
-The [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) bring together participants to work on *The Turing Way* book synchronously either in person or online. 
+The [Book Dash events](https://book.the-turing-way.org/community-handbook/bookdash.html) bring together participants to work on *The Turing Way* book synchronously either in person or online. 
 The upcoming book dash will be organised for online participation using the format we developed last year (see an overview [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/book-dash/book-dash-nov20-report.md)).
 You can find more details in the application form, which will take up to 30 minutes to complete.
 If you are not sure if your idea fits the event, you are welcome to contact Malvika Sharan to discuss it further by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
@@ -56,8 +56,8 @@ Registration is open (and free) via  [this Eventbrite link](https://www.eventbri
 
 We are preparing to publish a new release of *The Turing Way* book with the complete GitHub repository on Zenodo.
 One of the most exciting and challenging parts of this process will be to create a list of co-authors out of 241 listed contributors.
-We will be closely following the process as described in the [Acknowledgement](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html) chapter.
-Please add your profile and personal highlights to our [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html), if you have not yet done that already.
+We will be closely following the process as described in the [Acknowledgement](https://book.the-turing-way.org/community-handbook/acknowledgement.html) chapter.
+Please add your profile and personal highlights to our [Contributors Record](https://book.the-turing-way.org/afterword/contributors-record.html), if you have not yet done that already.
 This will allow us to acknowledge your work and include ORCID identifier for co-authors when publishing on Zenodo.
 Since this will be a major release, we invite your help and welcome any feedback to enhance the workflow for making new releases.
 Please use [issue #1751](https://github.com/alan-turing-institute/the-turing-way/issues/1751) to share your thoughts and ideas.
@@ -80,7 +80,7 @@ Laura Carter is a PhD candidate in the Human Rights Centre at the University of 
 In her words:
 > I’m not from a tech field but I’ve learned so much about GitHub as a tool for collaborative working: thanks so much to everyone who was part of the November 2020 book dash for all your useful advice!
 
-You can read more about it here on the [Contributors Record page](https://the-turing-way.netlify.app/afterword/contributors-record.html#laura-carter).
+You can read more about it here on the [Contributors Record page](https://book.the-turing-way.org/afterword/contributors-record.html#laura-carter).
 
 ### Talks and Presentations
 

@@ -98,7 +98,7 @@ Find more details on the [application portal](https://cezanneondemand.interviewe
 Over the last 2.5 years, _The Turing Way_ as a project and a handbook have grown rapidly.
 It is simply not possible to read all its content and therefore we recommend reading a chapter on a tool or practice that you are interested in or want to use in your work.
 
-Thanks to the thoughtful contribution of Batool Almarzouq and Danny Garside who gave the [README](https://github.com/alan-turing-institute/the-turing-way) and the [welcome](the-turing-way.netlify.app) pages stunning new looks!
+Thanks to the thoughtful contribution of Batool Almarzouq and Danny Garside who gave the [README](https://github.com/alan-turing-institute/the-turing-way) and the [welcome](book.the-turing-way.org) pages stunning new looks!
 They harmonise how we provide information in these two locations and worked with Malvika to add images, top tips, and relevant information from the project.
 
 ---
@@ -106,17 +106,17 @@ They harmonise how we provide information in these two locations and worked with
 ### New Chapters and Updates from the Handbook
 
 - **Overview of Project Design**: Don't know where to start your reproducible project journey from? 
-Check out the [Overview chapter in the Guide to Project Design’]( https://the-turing-way.netlify.app/project-design/pd-overview.html).
+Check out the [Overview chapter in the Guide to Project Design’]( https://book.the-turing-way.org/project-design/pd-overview.html).
 Thanks to the massive curation and co-authoring work by Mariana Vivas that you can now find the most important references for designing and starting your research project in one single location.
 Thanks also go to Nina di Cara for reviewing this chapter to ensure that information is provided in a structured manner.
 There are five subchapters, each discussing different aspects such as collaboration, communication, version control, licensing, tool selection, documentation and publication.
  
-- **Linking Research Objects**: Esther Plomp, among several other chapters in the book, has co-authored a chapter on [Making Research Objects Citable](https://the-turing-way.netlify.app/communication/citable).
-She recently merged a new chapter, [Linking Research Objects](https://the-turing-way.netlify.app/communication/citable/citable-linking.html) that described how linking your data, code and article can ensure that your readers can find all research objects easily.
+- **Linking Research Objects**: Esther Plomp, among several other chapters in the book, has co-authored a chapter on [Making Research Objects Citable](https://book.the-turing-way.org/communication/citable).
+She recently merged a new chapter, [Linking Research Objects](https://book.the-turing-way.org/communication/citable/citable-linking.html) that described how linking your data, code and article can ensure that your readers can find all research objects easily.
 Approaches described in this chapter can help increase the visibility of your research outputs, while you receive credit for them.
 
 - **Shared Ownership in Open Source**: Open source projects benefit from volunteer contributions and hence should share the "project ownership" with all stakeholders.
-To further make a case for this argument, as well as provide ways to make that happen, Malvika wrote a chapter on [Shared Ownership](https://the-turing-way.netlify.app/collaboration/shared-ownership.html).
+To further make a case for this argument, as well as provide ways to make that happen, Malvika wrote a chapter on [Shared Ownership](https://book.the-turing-way.org/collaboration/shared-ownership.html).
 This is an extended version of a blog that she co-authored with Andrew Brown, Warrick Ball and Ben Krikler, that you can read on the [Software Sustainability institute’s blog]( https://www.software.ac.uk/blog/2021-06-09-nudging-towards-better-default-open-source-project-ownership).
 
 ---
@@ -172,7 +172,7 @@ We encourage you to check out their [handbook](fairplus.github.io/the-fair-cookb
 
 - **Highlight your resources on _The Turing Way_**: _The Turing Way_ is a domain-independent handbook to data science and research practices.
 We actively support and collaborate with projects, teams and organisations that are building upon The Turing Way and provide specific guidance in their fields. 
-These projects are listed as [collaborating organisations and projects](https://the-turing-way.netlify.app/afterword/contributors-record.html#collaborating-organisations-and-projects) and are actively highlighted in the community, such as the FAIR Cookbook.
+These projects are listed as [collaborating organisations and projects](https://book.the-turing-way.org/afterword/contributors-record.html#collaborating-organisations-and-projects) and are actively highlighted in the community, such as the FAIR Cookbook.
 Does your project use, reference and/or build upon _The Turing Way_? 
 Please get in touch with us to discuss how we can highlight your project.
 You can also comment under GitHub [issue #2017]( https://github.com/alan-turing-institute/the-turing-way/issues/2017).

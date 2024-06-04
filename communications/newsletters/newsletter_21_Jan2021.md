@@ -67,8 +67,8 @@ Please see [issue #1712](https://github.com/alan-turing-institute/the-turing-way
 *The Turing Way Community, & Scriberia. (2020, November). Illustrations from The Turing Way book dashes. Zenodo. http://doi.org/10.5281/zenodo.4323154*
 
 ### A GitHub Action for Contributors Record
-_The Turing Way_ maintains a contributors record in the [book’s Afterword](https://the-turing-way.netlify.app/afterword/contributors-record.html). 
-This record combines the contributors' table and the personal impact statements of our contributors as described in the [acknowledgement chapter](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html).
+_The Turing Way_ maintains a contributors record in the [book’s Afterword](https://book.the-turing-way.org/afterword/contributors-record.html). 
+This record combines the contributors' table and the personal impact statements of our contributors as described in the [acknowledgement chapter](https://book.the-turing-way.org/community-handbook/acknowledgement.html).
 We have now added a [GitHub Action](https://github.com/features/actions) in our workflow that automatically updates this record every week (see [the workflow](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/workflows/contributors-record.yml)).
 Thanks to Martina G. Vilas and Sarah  Gibson for their support in setting this up.
 
@@ -79,7 +79,7 @@ We would be delighted if you can pass this information to previous contributors 
 
 ### Contribute to Writing and Reviewing Chapters
 We have a few chapters currently being written or waiting to be reviewed that can use some extra support.
-Particularly we invite you to review subchapters on scientific outreach ([PR #1709](https://github.com/alan-turing-institute/the-turing-way/pull/1709), preview [on Netlify](https://deploy-preview-1709--the-turing-way.netlify.app)), contribute to the leadership chapter ([PR #1553](https://github.com/alan-turing-institute/the-turing-way/pull/1709), preview [on Netlify](https://deploy-preview-1553--the-turing-way.netlify.app)) or review the translated versions of README file (see PRs [#1586 for Arabic](https://github.com/alan-turing-institute/the-turing-way/pull/1586) and [#1470 for Polish](https://github.com/alan-turing-institute/the-turing-way/pull/1470) translations).
+Particularly we invite you to review subchapters on scientific outreach ([PR #1709](https://github.com/alan-turing-institute/the-turing-way/pull/1709), preview [on Netlify](https://deploy-preview-1709--book.the-turing-way.org)), contribute to the leadership chapter ([PR #1553](https://github.com/alan-turing-institute/the-turing-way/pull/1709), preview [on Netlify](https://deploy-preview-1553--book.the-turing-way.org)) or review the translated versions of README file (see PRs [#1586 for Arabic](https://github.com/alan-turing-institute/the-turing-way/pull/1586) and [#1470 for Polish](https://github.com/alan-turing-institute/the-turing-way/pull/1470) translations).
 If you are new to the project and don’t know where to start, have a look at the [issue section](https://github.com/alan-turing-institute/the-turing-way/issues) for 'Good first issue' labels.
 
 ### Publications, Books and Blog Posts
@@ -131,7 +131,7 @@ See more details on their website: [https://hidden-ref.org/timeline/](https://hi
 <img src="images/2021-01-emma4.png" alt="Emma Karounes's headshot - A woman wearing a headscarf."
 	title="A cute kitten" width="350" />
 
-[Emma Karoune](https://the-turing-way.netlify.app/afterword/contributors-record.html#emma-karoune) is an independent post-doctoral researcher working in the field of Environmental Archaeology and Palaeoecology. 
+[Emma Karoune](https://book.the-turing-way.org/afterword/contributors-record.html#emma-karoune) is an independent post-doctoral researcher working in the field of Environmental Archaeology and Palaeoecology. 
 She has a PhD in Palaeoecology from the Institute of Archaeology, University College London.
 She is currently working on a project with Historic England concerning the development of novel methodologies in phytolith research for application to British Archaeological remains. 
 She is also working on a project to improve the FAIRness of phytolith data.
@@ -139,7 +139,7 @@ In her words:
 > I try to work as openly as possible and a large part of my current research is developing easy and accessible to all collaborative and open ways of working. I am also working hard to bring together specialists in my field into a working group for Open Science so that we can work collaboratively towards subject-specific FAIR guidelines for phytolith data. 
 
 > I have really enjoyed working in such a collaborative way [in _The Turing Way_] during the November 2020 Book Dash. I have had interesting discussions concerning the accessibility of this project and research in general with other contributors. 
->I have further developed my Github skills by working in collaboration with others while drafting a chapter on [Getting Started with GitHub](https://the-turing-way.netlify.app/collaboration/github-novice.html) and enhance the [online Glossary](https://the-turing-way.netlify.app/afterword/glossary.html) that now maintains a list of all definitions in Afterword.
+>I have further developed my Github skills by working in collaboration with others while drafting a chapter on [Getting Started with GitHub](https://book.the-turing-way.org/collaboration/github-novice.html) and enhance the [online Glossary](https://book.the-turing-way.org/afterword/glossary.html) that now maintains a list of all definitions in Afterword.
 
 ### Talks and Presentations
 

@@ -9,7 +9,7 @@ To support the ongoing [Black Lives Matter movement](https://blacklivesmatter.co
 
 Join this week’s Collaboration Cafe today at 19:00 BST ([your local time](https://arewemeetingyet.com/London/2020-06-17/19:00/TuringWay-CollaborationCafe)) and subscribe to the community calendar for the future events.
 
-We have recently updated the format of our [online book](https://the-turing-way.netlify.app/) to facilitate easy navigation of its chapters on research reproducibility and provide dedicated locations for new guides for project design, communication, collaboration and ethical research.
+We have recently updated the format of our [online book](https://book.the-turing-way.org/) to facilitate easy navigation of its chapters on research reproducibility and provide dedicated locations for new guides for project design, communication, collaboration and ethical research.
 If you would like to report any bug or error, or suggest useful ideas for improving accessibility, please comment under the [issue #1220](https://github.com/alan-turing-institute/the-turing-way/issues/1220).
 
 If you have been reading the Data Feminism book by Catherine D’Ignazio and Lauren Klein, join our effort to capture your perspective and lessons learned in _The Turing Way_’s guide for Ethical Research ([issue #1205](https://github.com/alan-turing-institute/the-turing-way/issues/1205)).
@@ -50,12 +50,12 @@ To get notified with the dates for the upcoming community events, click on [this
 ### New Book Format
 
 We overhauled _The Turing Way_ book to make it easy to browse, read and contribute to.
-You will now find the dedicated locations for guides for [Reproducible Research](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html), [Project Design](https://the-turing-way.netlify.app/project-design/project-design.html), [Communication](https://the-turing-way.netlify.app/project-design/communication.html), [Collaboration](https://the-turing-way.netlify.app/project-design/collaboration.html) and [Ethical Research](https://the-turing-way.netlify.app/project-design/ethical-research.html).
-You will also be able to read and write chapters useful for maintaining and supporting our community in the [community handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html).
-You can visit the online book at [https://the-turing-way.netlify.app/](https://the-turing-way.netlify.app/).
+You will now find the dedicated locations for guides for [Reproducible Research](https://book.the-turing-way.org/reproducible-research/reproducible-research.html), [Project Design](https://book.the-turing-way.org/project-design/project-design.html), [Communication](https://book.the-turing-way.org/project-design/communication.html), [Collaboration](https://book.the-turing-way.org/project-design/collaboration.html) and [Ethical Research](https://book.the-turing-way.org/project-design/ethical-research.html).
+You will also be able to read and write chapters useful for maintaining and supporting our community in the [community handbook](https://book.the-turing-way.org/community-handbook/community-handbook.html).
+You can visit the online book at [https://book.the-turing-way.org/](https://book.the-turing-way.org/).
 
 Followed by a recent upgrade of [Jupyter Book](https://github.com/jupyter/jupyter-book/), we have been able to bring about the recent changes while simplifying the backend infrastructure that hosts the book on [Netlify](https://www.netlify.com/).
-Consequently, our [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) have also been updated to include ways to cite and cross-refer chapters within the book.
+Consequently, our [style guide](https://book.the-turing-way.org/community-handbook/style.html) have also been updated to include ways to cite and cross-refer chapters within the book.
 Thanks to the numerous community members for their support that has helped us achieve this major milestone in the project.
 If you notice any error or bug that might have been introduced due to this update, please report them under the [issue #1220](https://github.com/alan-turing-institute/the-turing-way/issues/1220).
 
@@ -69,7 +69,7 @@ On 4 June, The Alan Turing Institute hosted a webinar with the authors of [Data 
 Through seminars like this, their weekly reading group and community engagements over the last months, the authors have not only shed light on imbalanced power structures underlying data science but have started active and timely discussions around research ethics.
 
 Inspired by their work, we want to welcome and support interested participants, readers, and users of Data Feminism to contribute to _The Turing Way_.
-Specifically, we invite contributions to build new chapters with recommendations, best practices, case studies, and impact stories inspired and shaped by Data Feminism in _The Turing Way_'s Guide to [Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethical-research.html).
+Specifically, we invite contributions to build new chapters with recommendations, best practices, case studies, and impact stories inspired and shaped by Data Feminism in _The Turing Way_'s Guide to [Ethical Research](https://book.the-turing-way.org/ethical-research/ethical-research.html).
 You can join the discussion but comment on [the Github Issue #1205](https://github.com/alan-turing-institute/the-turing-way/issues/1205).
 
 ![](images/datafem-June2020.png)
@@ -95,7 +95,7 @@ More information regarding the [roles and benefits for the mentees](https://open
 [Heidi Siebold](https://github.com/HeidiSeibold) is a medical AI researcher, research software engineer and open science expert at LMU Munich, Bielefeld University and the Helmholtz Zentrum Munich.
 She develops machine learning methods to figure out which patients react well to certain treatments and implements these methods in R.
 Her passion for open and reproducible research has led her to join the Turing Way community.
-She co-authored two chapters [Research Compendia](https://the-turing-way.netlify.app/reproducible-research/compendia.html) and [File Naming Convention](https://the-turing-way.netlify.app/project-design/filenaming.html) in _The Turing Way_ during and after her participation at the Book Dash in February 2020.
+She co-authored two chapters [Research Compendia](https://book.the-turing-way.org/reproducible-research/compendia.html) and [File Naming Convention](https://book.the-turing-way.org/project-design/filenaming.html) in _The Turing Way_ during and after her participation at the Book Dash in February 2020.
 Ever since, she has been engaging with other community members through reviewing and editing new contributions, and participating in community discussions through GitHub.
 In her words:
 > I am involved in meta-research projects (research about research).

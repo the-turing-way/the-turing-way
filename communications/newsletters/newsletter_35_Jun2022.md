@@ -91,7 +91,7 @@ We know that attending synchronous events across time zones may not always be po
 _Screenshot of Community Share-out 1!_
 
 On 20 May, we hosted two Community Share-out and Contributor Celebrations events.
-These sessions were beautiful spaces, full of people sharing their work and accomplishments during Book Dash (our bi-annual [contributor event](https://the-turing-way.netlify.app/community-handbook/bookdash.html)), and invited others to collaborate.
+These sessions were beautiful spaces, full of people sharing their work and accomplishments during Book Dash (our bi-annual [contributor event](https://book.the-turing-way.org/community-handbook/bookdash.html)), and invited others to collaborate.
 
 Thank you to Aida Mehonic, Alejandro Coca-Castro, Andrea Sánchez-Tapia, Anne-Claire Fouilloux, Arielle Bennett, Batool Almarzouq, Emma Karoune, Esther Plomp, Florencia D’Andrea, Georgia Aitkenhead, Hari Sood, Iman Al Hasani, Jennifer Ding, Jim Madge, Johanna Bayer, Laura Carter, Marta Mangiarulo, Patricia Herterich, Saranjeet Kaur Bhogal, Stephanie van de Sandt, and Timothy Sum Hon Mun for attending, for sharing your work, and being a part of our beautiful community. :heart:
 

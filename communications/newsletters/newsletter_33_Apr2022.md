@@ -39,7 +39,7 @@ We hope to see you there!
 
 ## Applications to attend our Book Dash 📚💨
 
-**The 7th [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) event will take place online from 16 to 20 May 2022.** Submit your application via this [Google form](https://forms.gle/uEbu1FJMmdfgGwvW6).
+**The 7th [Book Dash](https://book.the-turing-way.org/community-handbook/bookdash.html) event will take place online from 16 to 20 May 2022.** Submit your application via this [Google form](https://forms.gle/uEbu1FJMmdfgGwvW6).
 The deadline for submission is 21 April 2022.
 
 We invite applications from members of our community, including both new and existing contributors. Our attendees bring some understanding of where they can contribute and collaboratively improve _The Turing Way_ as a whole.
@@ -58,7 +58,7 @@ You can also sign up to host one of the future Collaboration Cafés on 18 May an
 
 ## Community Share-Outs on 20 May
 
-On 20 May 2022, the last day of Book Dash, we will host two [Community Share Out and Contributor Celebrations Events](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-events.html#community-share-outs-contributor-celebration)
+On 20 May 2022, the last day of Book Dash, we will host two [Community Share Out and Contributor Celebrations Events](https://book.the-turing-way.org/community-handbook/bookdash/bookdash-events.html#community-share-outs-contributor-celebration)
 This is a public event for folks interested in learning more about The Turing Way, seeing what recent updates have been made in the project and celebrating the incredible work of our contributors.
 We will also release the new version of _The Turing Way_ book and give an early preview of a new set of illustrations developed during the Book Dash.
 You are invited to attend one or both sessions, please sign up on [Eventbrite](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebrations-may-2022-tickets-323373307267).
@@ -85,8 +85,8 @@ The study was commissioned by the Secretary of State for Health and Care in the 
 ![Alt:Screenshot of tweet by Lena](images/2022-04-lena-tweet.png)
 _Lena's tweet about the new chapter!_
 
-Lena Karvovskaya recently published a new chapter in the Turing Way on [Peer Review](https://the-turing-way.netlify.app/communication/peer-review/peer-review-overview.html)!
-You can find [the new chapter in our Guide for Communication]((https://the-turing-way.netlify.app/communication/)).
+Lena Karvovskaya recently published a new chapter in the Turing Way on [Peer Review](https://book.the-turing-way.org/communication/peer-review/peer-review-overview.html)!
+You can find [the new chapter in our Guide for Communication]((https://book.the-turing-way.org/communication/)).
 This new chapter includes helpful suggestions on what to do before accepting an invitation for peer review, and how to structure writing one.
 It also includes tips drawn from work by Rene Bekkers, called ["How to review a paper"](https://renebekkers.wordpress.com/2020/06/24/how-to-review-a-paper/).
 Thank you to Lena for writing, and to Vicky Hellon, Emma Karoune, and Achintya Rao for reviews!
@@ -138,7 +138,7 @@ You can view [the slide here](https://doi.org/10.6084/m9.figshare.19461026).
 _The panel discussed the implementations of ethics in research and software, and give practical guidance to workshop participants on how ethical considerations can strengthen the work they are doing._
 
 - Arielle Bennett joined a Panel on Ethics, chaired by Laura Carter.
-Both are authors and mentors of several chapters in our [Guide for Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethical-research.html?highlight=ethics).
+Both are authors and mentors of several chapters in our [Guide for Ethical Research](https://book.the-turing-way.org/ethical-research/ethical-research.html?highlight=ethics).
 [Watch the recording here](https://www.youtube.com/watch?v=AfotGso8rDI)!
 
 ![Alt:Screenshots of Slack posts and presentation titles](images/2022-04-cw22-collage.png)

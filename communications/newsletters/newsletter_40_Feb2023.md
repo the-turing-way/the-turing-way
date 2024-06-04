@@ -66,7 +66,7 @@ The deadline for local hub submission is **3 April 2023**.
 If you have previously interacted with the project or our community, and have always wanted to make more time to collaborate with us on your ideas, send us your application.
 Previous Book Dash attendees are also invited to express their interest to join us back as contributors, mentors for new participants and/or as a Book Dash Planning Committee member.
 
-*You can use [the template document](https://tinyurl.com/tw-bookdash-template) to prepare your draft. Learn more about the [Book Dash and the application process](https://the-turing-way.netlify.app/community-handbook/bookdash.html).* 
+*You can use [the template document](https://tinyurl.com/tw-bookdash-template) to prepare your draft. Learn more about the [Book Dash and the application process](https://book.the-turing-way.org/community-handbook/bookdash.html).* 
 
 ### Open Book Dash Q&A at Collab Cafe
 

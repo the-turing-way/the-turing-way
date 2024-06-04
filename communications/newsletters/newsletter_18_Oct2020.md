@@ -6,7 +6,7 @@ Hello Turing Way friends!
 
 This month has been busy! Here is what we have been up to:
 
-* 📢 Call for application is open for the upcoming [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html), the application **deadline is 22 October 2020**. Participation support grants will be available for the attendees.
+* 📢 Call for application is open for the upcoming [Book Dash](https://book.the-turing-way.org/community-handbook/bookdash.html), the application **deadline is 22 October 2020**. Participation support grants will be available for the attendees.
 * 🌍 **Hacktoberfest contributions are welcome**. Help us fix bugs and translate our README.md files in your language. Thanks, Sophia Batchelor and Paul Owoicho for facilitating these contributions.
 * 📖 We have developed a **tutorial on creating Jupyter Book with _The Turing Way_**. Thanks, Martina G. Vilas, Sarah Gibson and Chris Holdgraf for your contributions.
 * 🗓 We are planning a **community share-out event on 13 November 2020**. Have an idea to make this event truly inclusive for you? Connect with us.
@@ -22,11 +22,11 @@ Find more details on these topics below 👇
 We invite you to submit your application until 22 October to participate in the upcoming Book Dash taking place online from 9 to 13 November 2020.
 Here is [our application form](https://forms.gle/usZkYogVfH2nhNjh7).
 The Turing Way Book Dash is a collaborative event where you’ll work with others to add to and improve The Turing Way book.
-**Successful applicants will be able to claim financial reimbursement** to support their participation as laid out in the [online chapter](https://the-turing-way.netlify.app/community-handbook/bookdash.html).
+**Successful applicants will be able to claim financial reimbursement** to support their participation as laid out in the [online chapter](https://book.the-turing-way.org/community-handbook/bookdash.html).
 
 ### Collaboration Café
 
-The second [Collaboration Café](https://the-turing-way.netlify.app/community-handbook/coworking.html) of this month is **21 October 2020** from 15:00 - 17:00 BST ([see in your time zone](https://arewemeetingyet.com/London/2020-10-21/15:00/TheTuringWay-CollaborationCafe)).
+The second [Collaboration Café](https://book.the-turing-way.org/community-handbook/coworking.html) of this month is **21 October 2020** from 15:00 - 17:00 BST ([see in your time zone](https://arewemeetingyet.com/London/2020-10-21/15:00/TheTuringWay-CollaborationCafe)).
 If you are planning to send your application for the Book Dash, this will be a good chance to get your questions answered by one of the team members.
 
 Please sign up to let us know that you will join: https://hackmd.io/@turingway/collaboration-cafe.
@@ -69,9 +69,9 @@ Check out this tutorial, and share your feedback with us so that we can improve 
  
 ### Contributors record for collaborating organisations
 
-Last month, we announced the publication of our Contributors Record online in the [Afterword section of _The Turing Way_](https://the-turing-way.netlify.app/afterword/contributors-record.html).
-As described in our [acknowledgement chapter](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-examples.html#organisational-support), we also want to use this document to highlight collaborative efforts made by our contributors with the help of their organisations.
-Thanks to [Carlos Martinez Oritz](https://the-turing-way.netlify.app/afterword/contributors-record.html#carlos-martinez-oritz) and [Mateusz Kuzak](https://the-turing-way.netlify.app/afterword/contributors-record.html#mateusz-kuzak), we have added the first entry about the [Netherlands eScience Center](https://www.esciencecenter.nl/) under the [Collaborating Organisation](https://the-turing-way.netlify.app/afterword/contributors-record.html#collaborating-organisations) section.
+Last month, we announced the publication of our Contributors Record online in the [Afterword section of _The Turing Way_](https://book.the-turing-way.org/afterword/contributors-record.html).
+As described in our [acknowledgement chapter](https://book.the-turing-way.org/community-handbook/acknowledgement/acknowledgement-examples.html#organisational-support), we also want to use this document to highlight collaborative efforts made by our contributors with the help of their organisations.
+Thanks to [Carlos Martinez Oritz](https://book.the-turing-way.org/afterword/contributors-record.html#carlos-martinez-oritz) and [Mateusz Kuzak](https://book.the-turing-way.org/afterword/contributors-record.html#mateusz-kuzak), we have added the first entry about the [Netherlands eScience Center](https://www.esciencecenter.nl/) under the [Collaborating Organisation](https://book.the-turing-way.org/afterword/contributors-record.html#collaborating-organisations) section.
 If you have participated in _The Turing Way_ with the support of your organisation, we invite you to expand this section by adding your details.
 
 ## Contributor in focus: Paul Owoicho
@@ -89,7 +89,7 @@ In his words:
 > Not only have I gained a deeper understanding and appreciation for how GitHub works, but I am also learning to prioritise sustainability and empowerment in the work that I do. 
 >  I am also super grateful for the opportunity to work with people (who I may not have met otherwise) from around the world.
 
-Read more about him in our [Contributors Record online](https://the-turing-way.netlify.app/afterword/contributors-record.html#paul-owoicho).
+Read more about him in our [Contributors Record online](https://book.the-turing-way.org/afterword/contributors-record.html#paul-owoicho).
 
 ## Relevant resources
 
@@ -113,7 +113,7 @@ In this episode, Kirstie and Sarah discuss how they facilitate research reproduc
 
 ### Community share-out event on 13 November 2020
 
-On the last day of the Book Dash event, 13 November, we will host community share-out events, which will be a series of open calls to celebrate contributions made by our community members and add your highlights to our [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html).
+On the last day of the Book Dash event, 13 November, we will host community share-out events, which will be a series of open calls to celebrate contributions made by our community members and add your highlights to our [Contributors Record](https://book.the-turing-way.org/afterword/contributors-record.html).
 These contributions won’t only include the content developed by our Book Dash attendees, but each of you is invited to join us on the day to share their work in _The Turing Way_ and get to know each other.
 More information will be shared on the GitHub repository - follow the [issue #1450](https://github.com/alan-turing-institute/the-turing-way/issues/1450) for updates.
 Your comments and suggestions are very welcome to help us make this event truly inclusive and useful for you.

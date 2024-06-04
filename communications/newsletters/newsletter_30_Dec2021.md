@@ -101,7 +101,7 @@ We have made the latest release of *The Turing Way* on Zenodo.
 Please cite this release as “The Turing Way Community. (2021). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.0.1). Zenodo. https://doi.org/10.5281/zenodo.5671094”.
 
 During the Book Dash, Malvika with contributions from Carlos and Achintya documented the [release workflow](https://github.com/alan-turing-institute/the-turing-way/blob/main/release-workflow.md) to facilitate regular releases by our project members.
-To keep it manageable with the growing number of contributors to the project, we have attributed this release without individual author names, which are separately maintained in the [Record of Contributions in the Afterword](https://the-turing-way.netlify.app/afterword/contributors-record.html) of the book.
+To keep it manageable with the growing number of contributors to the project, we have attributed this release without individual author names, which are separately maintained in the [Record of Contributions in the Afterword](https://book.the-turing-way.org/afterword/contributors-record.html) of the book.
 
 ### Capture Your Contributions
 
@@ -109,7 +109,7 @@ To keep it manageable with the growing number of contributors to the project, we
 Many of their work stay hidden.
 Therefore, we ask our contributors to capture contributions in [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) in a way that is meaningful for them.
 
-If your name, personal highlights and specific contributions are not yet recorded, please make a Pull Request on the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) document of the repository, or [contact us](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#get-in-touch) so we can help capture your contributions meaningfully (also see our [Acknowledgement Process](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html)).
+If your name, personal highlights and specific contributions are not yet recorded, please make a Pull Request on the [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) document of the repository, or [contact us](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#get-in-touch) so we can help capture your contributions meaningfully (also see our [Acknowledgement Process](https://book.the-turing-way.org/community-handbook/acknowledgement.html)).
 
 ![Image on 'Recognition' - shows different podiums for different contributors of research that can help them gain visibility and credit for their work. Software citation is one way to make code developers recognised.](images/2021-12-recognition-5.jpg)
 
@@ -122,7 +122,7 @@ For example, many people reuse our online repository structure in their projects
 You can see responses to [Kirstie's Tweet](https://twitter.com/kirstie_j/status/1326126705270984710?s=20) from the last year and share your response with us under [issue #1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659).
 
 If you have not yet explored the project, we highly encourage you to do so.
-There are many ways to get involved in the project, but you can already start by reading, using and sharing [*The Turing Way* guides](https://the-turing-way.netlify.app).
+There are many ways to get involved in the project, but you can already start by reading, using and sharing [*The Turing Way* guides](https://book.the-turing-way.org).
 We are here to support you in whatever path you want to take to start your journey in *The Turing Way*.
 
 ### New Set of Illustrations

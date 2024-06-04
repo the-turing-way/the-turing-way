@@ -68,7 +68,7 @@ You are welcome to share, reuse and distribute them by attributing "The Turing W
 ### New Resources in _The Turing Way_
 
 - **The Turing Way - GSoD 2020**: We thank Paul Owoicho for providing editorial support while working during his Google Season of Doc (GSoD) technical writing period in _The Turing Way_.
-Paul has done extremely valuable work to ensure accessibility in our online resources by co-authoring chapters on [Maintaining Consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html), integrating [videos to demonstrate editing work](https://the-turing-way.netlify.app/community-handbook/consistency/consistency-formatting.html#demo), adding [new subchapters in the Style guide](https://the-turing-way.netlify.app/community-handbook/style/style-more-styling.html), creating a [series of templates](https://the-turing-way.netlify.app/community-handbook/contributing.html) for developing new content and [improving the default style of the book](https://the-turing-way.netlify.app/community-handbook/style/style-custom-styling.html) to make it more accessible for screen reader apps.
+Paul has done extremely valuable work to ensure accessibility in our online resources by co-authoring chapters on [Maintaining Consistency](https://book.the-turing-way.org/community-handbook/consistency.html), integrating [videos to demonstrate editing work](https://book.the-turing-way.org/community-handbook/consistency/consistency-formatting.html#demo), adding [new subchapters in the Style guide](https://book.the-turing-way.org/community-handbook/style/style-more-styling.html), creating a [series of templates](https://book.the-turing-way.org/community-handbook/contributing.html) for developing new content and [improving the default style of the book](https://book.the-turing-way.org/community-handbook/style/style-custom-styling.html) to make it more accessible for screen reader apps.
 We are extremely grateful for his work and excited to see him move on to pursue his PhD in Glasgow.
 We are also very proud to see him graduate from Open Life Science this week along with Neha Moopen who supported his accessibility project that was mentored by Samuel Guay.
 You can read a complete report from his engagement [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/communications/GSOD-applications/GSoD-2020-Project-Report.md).
@@ -78,14 +78,14 @@ You can read a complete report from his engagement [here](https://github.com/ala
 *[Tweet by Ismael](https://twitter.com/IsmaelKherGar/status/1337116565184143360?s=20) announcing the release of the Introduction to Research Ethics Chapter*
 
 - **A new set of chapters and subchapters**:
-  - The [Introduction to Research Ethics](https://the-turing-way.netlify.app/ethical-research/ethics-intro.html) chapter has been written by the Ethics team members, Ismael Kherroubi Garcia, Laura Carter and Sophia Batchelor. 
+  - The [Introduction to Research Ethics](https://book.the-turing-way.org/ethical-research/ethics-intro.html) chapter has been written by the Ethics team members, Ismael Kherroubi Garcia, Laura Carter and Sophia Batchelor. 
 Thanks to Christina Hithrova and Laura Acion for further comments and review. 
   - The Ethics team members are also graduating from OLS this week for working on the Guide for Ethical Research that was mentored by Jez Cope and Anjali Mazumdar.
-  - Emma Karoune wrote a chapter for [getting started with GitHub](https://the-turing-way.netlify.app/collaboration/github-novice.html).
+  - Emma Karoune wrote a chapter for [getting started with GitHub](https://book.the-turing-way.org/collaboration/github-novice.html).
 Thanks to Kirstie Whitaker, Laura Carter and Paul Owoicho for reviewing and contributing to this chapter. 
-  - Carlos Martinez and Sarah Alidoost from the Netherlands eScience Center have updated the [Code Reviewing](https://the-turing-way.netlify.app/reproducible-research/reviewing.html) chapter. 
+  - Carlos Martinez and Sarah Alidoost from the Netherlands eScience Center have updated the [Code Reviewing](https://book.the-turing-way.org/reproducible-research/reviewing.html) chapter. 
 Thanks, José Maria Fernandez and Sarah Gibson for reviewing them.
-  - One of the oldest pending PR on the [Code styling and linting](https://the-turing-way.netlify.app/project-design/code-styling.html) have finally been merged. 
+  - One of the oldest pending PR on the [Code styling and linting](https://book.the-turing-way.org/project-design/code-styling.html) have finally been merged. 
 Thanks to Oliver Clark, Yo Yehudi and Nathan Begbie for editing and reviewing the chapter.
 
 ## Acknowledgements and celebrations
@@ -112,7 +112,7 @@ We would love to hear from you, especially if you're not already involved in the
 For example, many people used the online repository structure, used its resources for developing the reproducibility plan, adapted the Code of Conduct for their projects, cited _The Turing Way_ in their manuscripts or grant proposals, and reused the community practices.
 You can see more responses to Kirstie's [Tweet](https://twitter.com/kirstie_j/status/1326126705270984710?s=20) and share your story with us under [issue #1659](https://github.com/alan-turing-institute/the-turing-way/issues/1659). 
 
-All our contributors are invited to add their personal highlights and impact stories in the [Contributors’ file](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) so that we can update our [Contributors Record](https://the-turing-way.netlify.app/afterword/contributors-record.html#personal-highlights-from-the-turing-way-contributors) to openly and fairly acknowledge their work.
+All our contributors are invited to add their personal highlights and impact stories in the [Contributors’ file](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) so that we can update our [Contributors Record](https://book.the-turing-way.org/afterword/contributors-record.html#personal-highlights-from-the-turing-way-contributors) to openly and fairly acknowledge their work.
 
 ### Presentations
 
@@ -177,7 +177,7 @@ As we complete the second year of _The Turing Way_, we review the year 2020 mont
 * **June**: The Turing Way members delivered several online workshops and participated in conferences relevant for Open Science, reproducibility and Data Science.
 * **July**: The community Slack space was created to facilitate structured discussions online, which was not effective on Gitter. 12 members joined OLS-2 with 6 projects from Turing and _The Turing Way_.
 * **August**: To allow a proper break for our community and team members amidst this busy year, we declared a break in the project August.
-* **September**: The [community handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook) started to expand by including chapters on concepts, practices and workflow used by the community members. Particularly, we shared a document detailing how we acknowledge everyone in _The Turing Way_. We also hosted a technical writer upon the successful selection of our Google Season of Doc application.
+* **September**: The [community handbook](https://book.the-turing-way.org/community-handbook/community-handbook) started to expand by including chapters on concepts, practices and workflow used by the community members. Particularly, we shared a document detailing how we acknowledge everyone in _The Turing Way_. We also hosted a technical writer upon the successful selection of our Google Season of Doc application.
 * **October**: We hosted the HacktoberFest and facilitated the translation of the READMEmd file in multiple languages. The first good first label was used to onboard members new to Open Source projects,
 * **November**: Malvika and Kirstie hosted the fourth Book Dash event from 9-13 November and connected with 18 new members who worked collaboratively on the project and 2 core members who provided mentorship support. We also received the Turing online Training grant to continue our collaboration with the OLS mentoring program in 2021.
 * **December**: We are ending the year with over 235 contributors, 500 subscribers of our monthly newsletters and 1500 followers on Twitter. So far they all have together developed 30 chapters, 134 subchapters and several supporting resources within our 5 guides and a community handbook.

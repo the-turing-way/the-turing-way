@@ -107,13 +107,13 @@ We are using this example to **encourage documentation of internal practises** f
 
 ### New Chapters
 
-* Arielle Bennett, Esther Plomp, Emma Karoune, Vicky Hellon and Lena Karvovskaya collaborated to document [Research Infrastructure Roles](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html) that includes subchapters on Community Managers, Data Stewards and Research Software Engineers.
-* Aida Mehonic, Jennifer Ding and Alden Conner, a team of Research Application Managers (RAM) at The Alan Turing Institute also wrote a subchapter describing their role as RAMs](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/ram.html). 🐏
-* Nina di Cara published a chapter on [self-reflection guidance for ethical research](https://the-turing-way.netlify.app/ethical-research/self-reflection.html).
-* Faruk D., Abel Siqiera and Carlos Martinez worked on [Software Citation with CITATION.cff](https://the-turing-way.netlify.app/communication/citable/citable-cff.html) and using [CFFLint](https://the-turing-way.netlify.app/communication/citable/citable-cffinit.html).
-* Margaret Wanjiku added the [documentation and metadata](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html) subchapter in the Research Data Management chapter.
-* Vicky Hellon revised and updated the [Open Access](https://the-turing-way.netlify.app/reproducible-research/open/open-access.html) publication subchapter.
-* Malvika ana Alejandro Coca added checklists for chairing [Collaboration Café](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#chairing-an-online-collaboration-cafe) and [Coworking Calls](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html#chairing-coworking-calls).
+* Arielle Bennett, Esther Plomp, Emma Karoune, Vicky Hellon and Lena Karvovskaya collaborated to document [Research Infrastructure Roles](https://book.the-turing-way.org/collaboration/research-infrastructure-roles.html) that includes subchapters on Community Managers, Data Stewards and Research Software Engineers.
+* Aida Mehonic, Jennifer Ding and Alden Conner, a team of Research Application Managers (RAM) at The Alan Turing Institute also wrote a subchapter describing their role as RAMs](https://book.the-turing-way.org/collaboration/research-infrastructure-roles/ram.html). 🐏
+* Nina di Cara published a chapter on [self-reflection guidance for ethical research](https://book.the-turing-way.org/ethical-research/self-reflection.html).
+* Faruk D., Abel Siqiera and Carlos Martinez worked on [Software Citation with CITATION.cff](https://book.the-turing-way.org/communication/citable/citable-cff.html) and using [CFFLint](https://book.the-turing-way.org/communication/citable/citable-cffinit.html).
+* Margaret Wanjiku added the [documentation and metadata](https://book.the-turing-way.org/reproducible-research/rdm/rdm-metadata.html) subchapter in the Research Data Management chapter.
+* Vicky Hellon revised and updated the [Open Access](https://book.the-turing-way.org/reproducible-research/open/open-access.html) publication subchapter.
+* Malvika ana Alejandro Coca added checklists for chairing [Collaboration Café](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html#chairing-an-online-collaboration-cafe) and [Coworking Calls](https://book.the-turing-way.org/community-handbook/coworking/coworking-weekly.html#chairing-coworking-calls).
 
 *Have an idea for collaborations or a chapter? [Connect with us](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#get-in-touch). Please explore [issues](https://github.com/alan-turing-institute/the-turing-way/issues) and [Pull Requests](https://github.com/alan-turing-institute/the-turing-way/pulls) to collaborate with others on ongoing work.*
 

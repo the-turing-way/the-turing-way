@@ -67,7 +67,7 @@ We are excited to share that **Arielle Bennett, Batool Almarzouq, Brigitta Sipoc
 
 These members bring multiple perspectives and interests that are essential for building an equitable and supportive environment for our Book Dash attendees.
 They have already reviewed the Book Dash applications and are helping finalise logistics ensuring fairness and accessibility before, during and after the event.
-You can read about the Book Dash online in [*The Turing Way* book](https://the-turing-way.netlify.app/community-handbook/bookdash.html).
+You can read about the Book Dash online in [*The Turing Way* book](https://book.the-turing-way.org/community-handbook/bookdash.html).
 
 ## Relevant Resources and Announcements
 

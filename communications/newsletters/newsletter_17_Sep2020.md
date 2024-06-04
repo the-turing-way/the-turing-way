@@ -6,8 +6,8 @@ Hello Turing Way friends!
 
 We hope you all are keeping well. Here's what you missed in August:
 
-- We published a chapter on Book Dash events in the [Community Handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html) (there will be another event coming in November 🗓)
-- We released the [acknowledgement chapter](the-turing-way.netlify.app/community-handbook/acknowledgement.html) on how The Turing Way supports and recognises contributors (Your feedback and suggestions are very welcome on all these resources. 🙌)
+- We published a chapter on Book Dash events in the [Community Handbook](https://book.the-turing-way.org/community-handbook/community-handbook.html) (there will be another event coming in November 🗓)
+- We released the [acknowledgement chapter](book.the-turing-way.org/community-handbook/acknowledgement.html) on how The Turing Way supports and recognises contributors (Your feedback and suggestions are very welcome on all these resources. 🙌)
 - The second cohort of Open Life Science will involve 12 members who are joining the [OLS-2 for Turing Collaboration](https://openlifesci.org/ols-2#collaborators) with 6 projects. Congratulations! 🎉
 - Esther Plomp represented _The Turing Way_ in two conferences by giving lightning talks. Thank you! 💐
 
@@ -17,7 +17,7 @@ More details on these can be found below the details on Community Meetings👇
 
 ### Collaboration Cafés
 
-This month we resumed hosting our [Collaboration Café](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html) on 2 September 2020.
+This month we resumed hosting our [Collaboration Café](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html) on 2 September 2020.
 We will continue hosting these calls on the first and third Wednesdays of each month, details for which are provided below.
 Please sign up to let the core team know that you will join: [https://hackmd.io/@KirstieJane/CollabCafe](https://hackmd.io/@KirstieJane/CollabCafe).
 
@@ -27,7 +27,7 @@ Dates and time for the upcoming Collaboration Cafés:
 
 ### Coworking calls
 
-Since April 2020 we have been hosting the community [coworking calls](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html) where anyone from the community can join the [Pomodoro sessions](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-motivation.html#pomodoro-technique) and discuss their work with the core team members.
+Since April 2020 we have been hosting the community [coworking calls](https://book.the-turing-way.org/community-handbook/coworking/coworking-weekly.html) where anyone from the community can join the [Pomodoro sessions](https://book.the-turing-way.org/community-handbook/coworking/coworking-motivation.html#pomodoro-technique) and discuss their work with the core team members.
 For the rest of this year, we will be hosting these coworking calls each week on Monday and Thursday at 11:00 - 12:00 BST ([time for the next meeting in your time zone](https://arewemeetingyet.com/London/2020-09-17/11:00)). 
 Sign up on this HackMD [https://hackmd.io/@malvikasharan/TW-coworking](https://hackmd.io/@malvikasharan/TW-coworking).
 
@@ -47,7 +47,7 @@ If you would like to receive automatic updates on these meetings, please [subscr
 
 We value and appreciate all the collaborative work that happens in _The Turing Way_, from fixing bugs to writing a chapter to hosting an event, and we are committed to acknowledging them all appropriately. 
 
-Last week, we released the [Acknowledgement chapter](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html) that describes our process of recording all the contributions and how we recognise them.
+Last week, we released the [Acknowledgement chapter](https://book.the-turing-way.org/community-handbook/acknowledgement.html) that describes our process of recording all the contributions and how we recognise them.
 In this chapter, we provide details on how we create opportunities for shared ownership of this project and create a record of contributions with the [Contributor’s Table](https://github.com/alan-turing-institute/the-turing-way#contributors) and [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md) files.
 These documents can be updated by all our contributors and used for highlighting their work in a manner that is most meaningful and useful for them.
 We welcome all our past and current contributors to check our record and update it by adding details and personal highlights from their contributions in [contributors.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/contributors.md).
@@ -57,9 +57,9 @@ We welcome all our past and current contributors to check our record and update 
 
 ### New chapters in the Community Handbook
 
-We have 3 additional chapters in our [Community Handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html): [Monthly Newsletter](https://the-turing-way.netlify.app/community-handbook/newsletters.html), [Book Dash Events](https://the-turing-way.netlify.app/community-handbook/bookdash.html), and [Community Coworking Calls](https://the-turing-way.netlify.app/community-handbook/coworking.html).
+We have 3 additional chapters in our [Community Handbook](https://book.the-turing-way.org/community-handbook/community-handbook.html): [Monthly Newsletter](https://book.the-turing-way.org/community-handbook/newsletters.html), [Book Dash Events](https://book.the-turing-way.org/community-handbook/bookdash.html), and [Community Coworking Calls](https://book.the-turing-way.org/community-handbook/coworking.html).
 These chapters cover different community practices of _The Turing Way_ that will be helpful for our community members in their participation.
-These are complemented by [various templates](https://the-turing-way.netlify.app/community-handbook/templates.html) that can be easily reused, remixed and adapted by others.
+These are complemented by [various templates](https://book.the-turing-way.org/community-handbook/templates.html) that can be easily reused, remixed and adapted by others.
 Though written for _The Turing Way_ community, these resources will be useful for other Open Source community projects as well.
 
 ### 6 projects to be mentored and trained in Open Life Science
@@ -90,7 +90,7 @@ We will be looking into ways to collaborate with our community members in achiev
 
 [Ismael Kherroubi Garcia](https://twitter.com/IsmaelKherGar) is an Ethics Research Assistant at the Alan Turing Institute.
 He has a BSc in Business Management and Administration and is currently working towards an MSc in Philosophy of the Social Sciences.
-Ismael has been working with _The Turing Way_ core team to engage the community of researchers in designing and developing the [Guide for Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethical-research.html).
+Ismael has been working with _The Turing Way_ core team to engage the community of researchers in designing and developing the [Guide for Ethical Research](https://book.the-turing-way.org/ethical-research/ethical-research.html).
 
 In his words:
 > Since my undergraduate degree, I have worked in fintech and then in arts organisations within human resources teams, finally reaching the Alan Turing Institute and helping support the Ethics Advisory Group.
@@ -134,7 +134,7 @@ You can [register by 18 September 2020](https://www.biohackathon-europe.org/regi
 ### Book Dash event in November
 
 The next Book Dash will be hosted in November in parallel to the BioHackathon from 9 to 13 November 2020.
-The [Book Dash event](https://the-turing-way.netlify.app/community-handbook/bookdash.html) is a collaborative community event that brings together individuals interested in developing chapters in _The Turing Way_ [online book](https://the-turing-way.netlify.app).
+The [Book Dash event](https://book.the-turing-way.org/community-handbook/bookdash.html) is a collaborative community event that brings together individuals interested in developing chapters in _The Turing Way_ [online book](https://book.the-turing-way.org).
 The call for application will be opened soon. 
 Look out for notifications on Slack, Twitter and the mailing list in a couple of weeks (links at the end of this newsletter).
 

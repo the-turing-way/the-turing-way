@@ -29,7 +29,7 @@ You are invited to attend one or multiple of our online community calls listed b
 * These calls feature open discussions with new and existing community members and onboard them in The Turing Way project. 
 
 **Collaboration Cafes** will be hosted on 7 and 21 July from 15:00 - 17:00 London time ([see in your local time](http://time.unitarium.com/utc/14)). 
-* These are 2-hour long calls that feature discussions on topics of shared interest in _The Turing Way_ and several short quiet working sessions (see [the chapter](https://the-turing-way.netlify.app/community-handbook/coworking.html)).
+* These are 2-hour long calls that feature discussions on topics of shared interest in _The Turing Way_ and several short quiet working sessions (see [the chapter](https://book.the-turing-way.org/community-handbook/coworking.html)).
 
 **Weekly Coworking** calls are 1-hour long calls where you can catch up with _The Turing Way_ team members and other contributors and get some of your tasks done that need focused time or feedback.
 * Join us from 11:00 - 12:00 ([see in your local time](http://time.unitarium.com/utc/10)) London time on 5, 12, 19 and 26 July 2021 (compatible with Western Time Zones).
@@ -44,19 +44,19 @@ We are really happy to share these chapters with you and invite you to read, rev
 
 *_The Turing Way_ project illustration about human rights, law and policies by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.*
 
-### [Law, policy and human rights in ethics](https://the-turing-way.netlify.app/ethical-research/law-policy.html)
+### [Law, policy and human rights in ethics](https://book.the-turing-way.org/ethical-research/law-policy.html)
 
 This chapter is edited by Laura Carter and reviewed by Laura Acion and Ismael Kherroubi-Garcia.
 She writes “Knowing the law, policy, and human rights that underpin research ethics will give you a deeper understanding of how to conduct ethical research. It can also help you to advocate for ethical work with colleagues and collaborators.”
 
-### [Setting up a project repository](https://the-turing-way.netlify.app/project-design/project-repo.html)
+### [Setting up a project repository](https://book.the-turing-way.org/project-design/project-repo.html)
 
 This is an extended draft of an earlier chapter that describes what key documents should be added to a project repository.
 It now features examples from _The Turing Way_ repository and resources from the Open Life Science training program.
--  Thanks to Lotty Coupat for writing [a case study from the AutSpaces project](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-roadmapping.html) that describes how to set a roadmap for your project. 
-- Thanks to Andreea Avramescu, Helen Nicholls and Becki Green from the ‘Engage @ Turing ’ graduate programme for providing examples to [set up repositories for a software project](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-advanced.html).
+-  Thanks to Lotty Coupat for writing [a case study from the AutSpaces project](https://book.the-turing-way.org/project-design/project-repo/project-repo-roadmapping.html) that describes how to set a roadmap for your project. 
+- Thanks to Andreea Avramescu, Helen Nicholls and Becki Green from the ‘Engage @ Turing ’ graduate programme for providing examples to [set up repositories for a software project](https://book.the-turing-way.org/project-design/project-repo/project-repo-advanced.html).
 
-### [6 new chapters in the Guide for Communication](https://the-turing-way.netlify.app/communication)
+### [6 new chapters in the Guide for Communication](https://book.the-turing-way.org/communication)
 
 ![Maria quote tweeting The Turing Way announcement of new chapters: “That feeling when a great set of chapters (including a couple you've been working on) is about to get published in an amazing and open resource”](images/2021-06-mariatweet.png)
 
@@ -65,18 +65,18 @@ It now features examples from _The Turing Way_ repository and resources from the
 Emma Karoune, Maria Nanton and Marta Mangiarulo began their collaboration at the Book Dash and ended up writing six chapters in the guide for communication that features personal stories from Veronika Cheplygina, Yanina Bellini, Emma Harris and Zoe Ingram.
 These chapters are edited by the authors along with Malvika and Esther Plomp.
 Read the following chapters to learn how to communicate your work with a wider audience:
-- [Overview of Guide for Communication](https://the-turing-way.netlify.app/communication/comms-overview.html)
-- [Blogs for Research Communication](https://the-turing-way.netlify.app/communication/blogs.html)
-- [Lay Summaries](https://the-turing-way.netlify.app/communication/lay-summaries.html)
-- [Podcasts for Research Communication](https://the-turing-way.netlify.app/communication/podcasts.html)
-- [Presenting Posters and Conference Talks](https://the-turing-way.netlify.app/communication/presentations.html)
-- [Social Media for Research Communications](https://the-turing-way.netlify.app/communication/social-media.html)
+- [Overview of Guide for Communication](https://book.the-turing-way.org/communication/comms-overview.html)
+- [Blogs for Research Communication](https://book.the-turing-way.org/communication/blogs.html)
+- [Lay Summaries](https://book.the-turing-way.org/communication/lay-summaries.html)
+- [Podcasts for Research Communication](https://book.the-turing-way.org/communication/podcasts.html)
+- [Presenting Posters and Conference Talks](https://book.the-turing-way.org/communication/presentations.html)
+- [Social Media for Research Communications](https://book.the-turing-way.org/communication/social-media.html)
 
 ## Contributor in Focus: Marta Mangiarulo
 
 ![Picture of Marta. She is a white woman, with light brown hair. She is wearing a black sleeveless top and sunglasses. She is holding a red bottle with the soap solution and blowing soap bubbles]images/2021-06-marta.png)
 
-[Marta Mangiarulo](https://the-turing-way.netlify.app/afterword/contributors-record.html#marta-mangiarulo) is a Research Assistant and Teaching Fellow in Psychology at the University of Leicester. 
+[Marta Mangiarulo](https://book.the-turing-way.org/afterword/contributors-record.html#marta-mangiarulo) is a Research Assistant and Teaching Fellow in Psychology at the University of Leicester. 
 Her research interests involve probabilistic inference, social hypothesis testing, and reasoning biases. 
 She is also passionate about science communication and research dissemination and interested in replicability, open science issues, and the interface between cognitive and social aspects in social psychology. As a two times Book Dash attendee, Marta reflects on her participation:
 > In the **November 2020 book dash**, I used GitHub for the first time! I started familiarising myself with the GitHub environment and learned how to collaborate through it to provide valuable contributions to the project. 
@@ -109,7 +109,7 @@ You can watch the recordings [on YouTube](https://www.youtube.com/playlist?list=
 Videos from different sessions at Collaboration Workshop 2021 have been made available on the [Software Sustainability Institute’s YouTube channel](https://www.youtube.com/softwaresaved).
 Here are the links to _The Turing Way_ related videos.
 - [Lightning talk on Activism](https://www.youtube.com/watch?v=udv0z-_80zo) by Arielle Bennett. 
-A [chapter on activism](https://the-turing-way.netlify.app/ethical-research/activism.html) can be read in our Guide for Ethics.
+A [chapter on activism](https://book.the-turing-way.org/ethical-research/activism.html) can be read in our Guide for Ethics.
 - [Mini-workshop](https://www.youtube.com/watch?v=Xv1jCOskkgM) by Batool Almarzouq, Emma Karoune and Malvika Sharan.
 Notes from this workshop have been summarised as a subchapter in [Pull Request #1936](https://github.com/alan-turing-institute/the-turing-way/pull/1936), which invites reviews and suggestions.
 
