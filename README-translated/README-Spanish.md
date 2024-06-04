@@ -1,4 +1,4 @@
-<a href="https://the-turing-way.netlify.app/welcome.html"><img src="../book/website/figures/logo/logo.jpg?raw=true)" width="180" align="Right" /></a>
+<a href="https://book.the-turing-way.org/welcome.html"><img src="../book/website/figures/logo/logo.jpg?raw=true)" width="180" align="Right" /></a>
 
 # _The Turing Way_
 
@@ -28,7 +28,7 @@ Nuestro objetivo es proporcionar toda la información que los investigadores y c
 Todas las partes interesadas, incluyendo estudiantes, investigadores/as, ingenieros/as de software, líderes de proyectos y equipos fundadores, están invitados/as a usar The Turing Way para entender sus roles y sus responsabilidades en la reproducibilidad de la ciencia de datos.
 Puede leer el libro [online](https://github.com/the-turing-way/the-turing-way), contribuir al proyecto tal como se describe en nuestras [guías para contribuir al proyecto](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) y reutilizar todos los materiales ([ver la Licencia](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
 
-[![Captura de pantalla del libro en línea de Turing Way. También muestra una de las ilustraciónes de Turing Way al comienzo del libro. En esta ilustración, podemos ver una carretera o camino con tiendas para las diferentes habilidades de ciencia de datos. La gente puede entrar y salir con su lista de la compra y escoger lo que necesiten.](../book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
+[![Captura de pantalla del libro en línea de Turing Way. También muestra una de las ilustraciónes de Turing Way al comienzo del libro. En esta ilustración, podemos ver una carretera o camino con tiendas para las diferentes habilidades de ciencia de datos. La gente puede entrar y salir con su lista de la compra y escoger lo que necesiten.](../book/website/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
 
 *Captura de pantalla del libro en línea de The Turing Way ([usar esta imagen en una presentación](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
 
@@ -70,7 +70,7 @@ Los colaboradores de larga duración se consideran parte del grupo de colaborado
 
 El proyecto está coordinado por la líder investigadora **Kirstie Whitaker** (fundadora) y **Malvika Sharan** (desarrolladora de la comunidad) y alojado en [The Alan Turing Institute](https://www.turing.ac.uk/).
 
-Puedes leer cómo se realiza [el proceso de reconocimiento como parte de _The Turing Way_ ](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) y el [Registro de Colaboradores](https://the-turing-way.netlify.app/afterword/contributors-record.html) para conocer cómo se realiza el reconocimiento del trabajo y nuestros colaboradores destacados.
+Puedes leer cómo se realiza [el proceso de reconocimiento como parte de _The Turing Way_ ](https://book.the-turing-way.org/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) y el [Registro de Colaboradores](https://book.the-turing-way.org/afterword/contributors-record.html) para conocer cómo se realiza el reconocimiento del trabajo y nuestros colaboradores destacados.
 Por favor visita el [Panel de Colaboradores](#colaboradores) para ver el perfil de Github de todos nuestros colaboradores.
 
 ### Contribuir

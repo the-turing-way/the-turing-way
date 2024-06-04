@@ -1,4 +1,4 @@
-<a href="https://the-turing-way.netlify.app/welcome.html"><img src="https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/website/figures/logo/logo.jpg" width="180" align="Right" /></a>
+<a href="https://book.the-turing-way.org/welcome.html"><img src="https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/website/figures/logo/logo.jpg" width="180" align="Right" /></a>
 
 # _The Turing Way_
 
@@ -29,9 +29,9 @@ Notre objectif est de fournir toutes les informations dont les scientifiques ont
 
 *The Turing Way est un livre, une communauté et une collaboration mondiale.*
 
-Toutes les parties prenantes, y compris les étudiants et les étudiantes, les chercheurs et les chercheuses, les ingénieurs et ingénieures logiciels, les chefs et cheffes de projet et les équipes de financement, sont encouragées à utiliser _The Turing Way_ pour comprendre leur rôle et leur responsabilité en matière de reproductibilité dans la science des données. Vous pouvez lire le livre [en ligne](https://the-turing-way.netlify.app), contribuer au projet tel que décrit dans nos [directives de contribution](https://github.com/the-turing-way/the-turing-way/blob/master/CONTRIBUTING.md) et réutiliser tout le matériel ([voir la licence](https://github.com/the-turing-way/the-turing-way/blob/master/LICENSE.md)).
+Toutes les parties prenantes, y compris les étudiants et les étudiantes, les chercheurs et les chercheuses, les ingénieurs et ingénieures logiciels, les chefs et cheffes de projet et les équipes de financement, sont encouragées à utiliser _The Turing Way_ pour comprendre leur rôle et leur responsabilité en matière de reproductibilité dans la science des données. Vous pouvez lire le livre [en ligne](https://book.the-turing-way.org), contribuer au projet tel que décrit dans nos [directives de contribution](https://github.com/the-turing-way/the-turing-way/blob/master/CONTRIBUTING.md) et réutiliser tout le matériel ([voir la licence](https://github.com/the-turing-way/the-turing-way/blob/master/LICENSE.md)).
 
-[![Ceci est une capture d'écran du livre en ligne _The Turing Way_. Elle montre également l'une des illustrations de _The Turing Way_ au début du livre. Dans cette illustration, il y a une route ou un chemin avec des magasins pour différentes compétences en science des données. Les gens peuvent entrer et sortir avec leur panier et choisir ce dont ils ont besoin.](https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
+[![Ceci est une capture d'écran du livre en ligne _The Turing Way_. Elle montre également l'une des illustrations de _The Turing Way_ au début du livre. Dans cette illustration, il y a une route ou un chemin avec des magasins pour différentes compétences en science des données. Les gens peuvent entrer et sortir avec leur panier et choisir ce dont ils ont besoin.](https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/website/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
 
 *Capture d'écran du livre en ligne The Turing Way ([utilisez cette image dans une présentation](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing)).*
 
@@ -72,7 +72,7 @@ Les individus qui contributent à long terme du projet sont considérés comme f
 
 Le projet est coordonné par les chercheuses principales **Kirstie Whitaker** (fondatrice) et **Malvika Sharan**, et est hébergé à [The Alan Turing Institute](https://www.turing.ac.uk/). **Anne Lee Steele** est la gestionnaire de la communauté de The Turing Way depuis mars 2022.
 
-Vous pouvez lire la [procédure de reconnaissance de _The Turing Way_](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) et le [registre des contributions](https://the-turing-way.netlify.app/afterword/contributors-record.html) pour savoir comment nous reconnaissons votre travail et comment nos contributeurs et nos contributrices sont mis en valeur dans le projet.
+Vous pouvez lire la [procédure de reconnaissance de _The Turing Way_](https://book.the-turing-way.org/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) et le [registre des contributions](https://book.the-turing-way.org/afterword/contributors-record.html) pour savoir comment nous reconnaissons votre travail et comment nos contributeurs et nos contributrices sont mis en valeur dans le projet.
 Veuillez consulter le [Tableau des contributions](#Liste-des-personnes-qui-ont-collaboré) pour les profils GitHub de tous nos contributeurs.
 
 
@@ -105,7 +105,7 @@ La citation ressemblera à quelque chose comme ceci :
 
 Pour voir comment nous procédons pour créer différentes versions, ou pour suggérer des améliorations, veuillez consulter ce [document de référence sur les versions](./release-workflow.md).
 
-Vous pouvez également partager l'URL d'une page du livre, par exemple <https://the-turing-way.netlify.app/reproducible-research/overview/overview-definitions.html>, mais sachez que le projet est en cours de développement et que ces liens peuvent donc changer au fil du temps.
+Vous pouvez également partager l'URL d'une page du livre, par exemple <https://book.the-turing-way.org/reproducible-research/overview/overview-definitions.html>, mais sachez que le projet est en cours de développement et que ces liens peuvent donc changer au fil du temps.
 Vous pourriez vouloir inclure un lien d'archive web tel que <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> pour vous assurer que vous ne vous retrouvez pas avec des liens cassés partout !
 
 Nous apprécions vraiment toutes les références que vous faites au projet _The Turing Way_ dans votre réseau et nous espérons qu'il sera utile.

@@ -1,4 +1,4 @@
-<a href="https://the-turing-way.netlify.app/welcome.html"><img src="/book/website/figures/logo/logo.jpg?raw=true)" width="180" align="Right" /></a>
+<a href="https://book.the-turing-way.org/welcome.html"><img src="/book/website/figures/logo/logo.jpg?raw=true)" width="180" align="Right" /></a>
 
 # _The Turing Way_
 
@@ -26,7 +26,7 @@ _The Turing Way_ è una guida per condurre data science in maniera riproducibile
 Tutte le parti interessate, tra cui studenti, ricercatori, software engineers, capi progetto e team di finanziamento, sono incoraggiati a usare _The Turing Way_ per capire i propri ruoli e responsabilità nella riproducibilità in data science. 
 Puoi leggere il libro [online](https://github.com/the-turing-way/the-turing-way), contribuire al progetto come dettagliato in [questa guida](/CONTRIBUTING.md) e riusare tutti i materiali (controlla la [licenza](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
 
-[![Questo è uno screenshot del libro online. Mostra una delle illustrazioni all'inizio del libro. In questa figura, c'è una strada dove ci sono negozi per le varie data science skills. I clienti, con il loro carrello, possono entrare e uscire a loro piacimento e scegliere ciò che gli serve.](/book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
+[![Questo è uno screenshot del libro online. Mostra una delle illustrazioni all'inizio del libro. In questa figura, c'è una strada dove ci sono negozi per le varie data science skills. I clienti, con il loro carrello, possono entrare e uscire a loro piacimento e scegliere ciò che gli serve.](/book/website/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
 
 *Screenshot del libro The Turing Way online ([usa questa immagine in una presentazione](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing))*
 
@@ -65,7 +65,7 @@ Questo progetto è sviluppato in maniera aperta e nel nostro repository GitHub s
 _The Turing Way_ è una collaborazione aperta e guidata dalla comunità. Chiunque partecipi a questo libro, indipendentemente dall'importanza del contributo, è riconosciuto in questo progetto come contributore e membro della comunità. Collaboratori di lunga data sono considerati come collaboratori principali ed hanno ruoli di leadership all'interno del progetto.
 Il progetto è coordinato da **Kirstie Whitaker** (founder) e **Malvika Sharan** (community developer) ed è ospitato dal [The Alan Turing Institute](https://www.turing.ac.uk/).
 
-Per maggiori informazioni, puoi leggere [questa guida](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) e la [Lista dei Contributori](https://the-turing-way.netlify.app/afterword/contributors-record.html) per capire come riconosciamo il tuo lavoro e come i nostri contributori sono messi in evidenza nel progetto.
+Per maggiori informazioni, puoi leggere [questa guida](https://book.the-turing-way.org/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) e la [Lista dei Contributori](https://book.the-turing-way.org/afterword/contributors-record.html) per capire come riconosciamo il tuo lavoro e come i nostri contributori sono messi in evidenza nel progetto.
 
 Consulta [l'elenco dei collaboratori](#contributors) per i profili GitHub di tutti i contributori.
 
