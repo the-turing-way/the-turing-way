@@ -90,13 +90,11 @@ This section will highlight the Turing Infrastructure Drop-In Sessions as a case
 
 ### Attending a drop-in session
 
-For the Turing Infrastructure Drop-in Sessions, the schedule is regularly updated in a community calendar. 
-This schedule allows multiple Turing teams to collaboratively host the session, including Research Engineering Group (REG), Research Community Management (RCM), Research Application Management (RAM), Research Project Managers (RPM), Citizen Science, Data Wrangler, and Trustworthy Systems.
+Multiple Turing teams collaboratively host the Turing Infrastructure Drop-in Sessions, including Research Engineering Group (REG), Research Community Management (RCM), Research Application Management (RAM), Research Project Managers (RPM), Citizen Science, Data Wrangler, and Trustworthy Systems.
 The schedule also allows interested attendees to reference when to attend, based on the individual or team that is hosting on a particular week.
 
 In order to sign up, an interested attendee will directly message the hosts for that session on the organisation's collaboration platforms, such as Slack, Microsoft Teams, or e-mail.
 The hosts will then assign the attendee a 30-60 minute slot.
-
 Generally there are two hosts for the session, each from a different team so there are different skillsets represented.
 When there is a question or request for a skillset that do not match the hosts' expertise, they will direct the question to a member of the team who does who can pick up the question in a future session or outside of the drop-in sessions.
 
@@ -106,15 +104,11 @@ When there is a question or request for a skillset that do not match the hosts' 
 These resources have been created to facilitate multi-team collaboration on the drop-in sessions.
 
 1. Online call by [Zoom](https://www.zoom.us/): The Zoom link is shared on an internal Turing webpage and on Slack.
-2. In person location (optional): A reserved meeting room or location at a shared organisation space, such as a table in the kitchen
+2. In person location (optional): A reserved meeting room or location at a shared organisation space, such as a table in the Turing kitchen
 3. Online github repo: share information about the session, including [the schedule](https://github.com/alan-turing-institute/infrastructure-drop-ins/wiki/Schedule) and [how to sign up](https://github.com/alan-turing-institute/infrastructure-drop-ins)
 4. Engagement and impact tracking resource: Sheet with information on the topics raised, next steps, and the overall impact of the session
 
-These sessions are not recorded for ease and comfort of the attendees.
-Breakout rooms may be created if there are multiple sessions happening at the same time.
-In that case, one host will stay in the main room to welcome new attendees and other hosts can meet with attendees in different breakout rooms.
-
 ### Impact of drop-in sessions
 
-The Turing Infrastructure Drop-in Sessions is tracking impact and engagement by documenting information like the attendee questions, whether or not they were resolved, the prevalence of new attendees, and any quotes or testimonials from attendees.
+The team is tracking impact and engagement by documenting information like the attendee questions, whether or not they were resolved, the prevalence of new attendees, and any quotes or testimonials from attendees.
 The sessions have resulted in new conversations and collaborations across Turing teams that typically don't happen in the regular cycle of work.
