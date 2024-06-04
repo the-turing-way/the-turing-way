@@ -17,7 +17,7 @@ Rachael Ainsworth, University of Manchester, rachael.ainsworth@manchester.ac.uk;
 
 *Summary of your proposal; maximum 300 words. The abstract should be a concise summary of the demo content and the relation to the overall objective of the conference. Please copy and paste this into the submission system at the time of submission.*
 
-*The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do" (https://the-turing-way.netlify.com). 
+*The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do" (https://book.the-turing-way.org). 
 It includes training material on topics such as version control and analysis testing, and will build upon Alan Turing Institute case studies and workshops. 
 The project also demonstrates open and transparent project management and communication with future users, as it is openly developed at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way. 
 All resources associated with workshops we have delivered, as well as how to organise a Book Dash (a one-day book sprint), are also openly available.
@@ -101,7 +101,7 @@ Sharing these research outputs means understanding data management, library scie
 
 *The Turing Way* is a handbook to support students, their supervisors, funders and journal editors in ensuring that reproducible data science is "too easy not to do". 
 Our goal is to provide all the information that researchers need at the start of their projects to ensure that they are easy to reproduce at the end. 
-So far, the book (https://the-turing-way.netlify.com) includes chapters and training material on reproducibility, open research, version control, collaborating on GitHub/GitLab, research data management, reproducible environments, analysis testing, reviewing, continuous integration, reproducible research with Make and risk assessment. 
+So far, the book (https://book.the-turing-way.org) includes chapters and training material on reproducibility, open research, version control, collaborating on GitHub/GitLab, research data management, reproducible environments, analysis testing, reviewing, continuous integration, reproducible research with Make and risk assessment. 
 Further chapters currently in progress include coding style for reproducibility, credit for reproducible research and reproducible data analysis pipelines for machine learning, and will build upon Alan Turing Institute case studies. 
 
 The project also demonstrates open and transparent project management and communication with future users, as it is openly developed at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way. 

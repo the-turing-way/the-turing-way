@@ -243,7 +243,7 @@ For more events, subscribe to the [Open Research Calendar](https://openresearchc
 If you are interested in joining our community, or learning more about the project, don't forget that we have our [Community Co-working calls](https://hackmd.io/@turingway/coworking-call) on Mondays, [Collaboration Cafes](https://hackmd.io/@turingway/collaboration-cafe) every first and third Wednesdays and Fireside chats monthly.
 
 *   [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
-*   [_The Turing Way_ book](https://the-turing-way.netlify.com)
+*   [_The Turing Way_ book](https://book.the-turing-way.org)
 *   [HackMD Intro Page](https://hackmd.io/@turingway/demo-intro)
 *   [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 *   [Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)

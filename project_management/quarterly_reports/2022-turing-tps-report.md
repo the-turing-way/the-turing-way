@@ -15,7 +15,7 @@
 
 **Overview of the project:** _The Turing Way_ is an open source and community-led project that aims to make data science comprehensible and useful for everyone. This project brings together its diverse community of researchers, educators, learners, administrators and stakeholders from within The Alan Turing Institute and beyond. _The Turing Way_ provides a web-based book with five guides on reproducible research, project design, communication, collaboration and ethical research, as well as a community handbook.
 
-The project is available online on GitHub ([https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)) under the CC-BY license owned by _The Turing Way_ community. The project uses Jupyter Book ([https://github.com/jupyter/jupyter-book](https://github.com/jupyter/jupyter-book)) to host its content online at [https://the-turing-way.netlify.com](https://the-turing-way.netlify.com/).
+The project is available online on GitHub ([https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)) under the CC-BY license owned by _The Turing Way_ community. The project uses Jupyter Book ([https://github.com/jupyter/jupyter-book](https://github.com/jupyter/jupyter-book)) to host its content online at [https://book.the-turing-way.org](https://book.the-turing-way.org/).
 
 ## First Quarter: 1 January 2022 to 31 March 2022.
 

@@ -2,7 +2,7 @@
 
 
 ## What is The Turing Way?
-- A book: [https://the-turing-way.netlify.com/](https://the-turing-way.netlify.com/)
+- A book: [https://book.the-turing-way.org/](https://book.the-turing-way.org/)
 - An open source project: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
 - A community: *The Turing Way is an Open Source collaborative project that involves and supports its members of diverse skills and backgrounds to ensure that data science is accessible and useful for everyone.
 Its moonshot goal is to make reproducible research 'too easy not to do'.*

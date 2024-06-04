@@ -181,7 +181,7 @@ Read more about the project and find links to their resources online at [openres
 
 - [Relevant links from *The turing Way*](https://hackmd.io/@turingway/demo-intro)
 - [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
-- [*The Turing Way* book](https://the-turing-way.netlify.com)
+- [*The Turing Way* book](https://book.the-turing-way.org)
 - [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 - [Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
 - [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)

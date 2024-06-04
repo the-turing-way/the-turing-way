@@ -146,7 +146,7 @@ _1 [Raina Quote Tweeting](https://twitter.com/rcamachotoro/status/13275764242791
 ## Connect with us!
 
 *  [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)_
-*  [The Turing Way book](https://the-turing-way.netlify.com/)
+*  [The Turing Way book](https://book.the-turing-way.org/)
 *  [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 *  [Gitter chat room](https://gitter.im/alan-turing-institute/the-turing-way)
 *  [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)

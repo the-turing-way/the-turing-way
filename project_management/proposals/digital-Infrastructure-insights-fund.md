@@ -61,7 +61,7 @@ Our workflows and digital infrastructure must be able to facilitate regular upda
 
 ### Q4: What data or other resources will you use to answer the question? (max 500 words)
 
-Our research will be conducted through [The Turing Way](https://the-turing-way.netlify.com) which is both a handbook and an open source community. The development of this interactive online educational resource happens on [GitHub](https://github.com/the-turing-way) under open source licences (MIT and CC-BY). Our community handbook details current engagement practices, including how to support [the localisation working group](https://book.the-turing-way.org/community-handbook/translation). One of the localisation working group leads, Melissa Black, will spearhead the research.
+Our research will be conducted through [The Turing Way](https://book.the-turing-way.org) which is both a handbook and an open source community. The development of this interactive online educational resource happens on [GitHub](https://github.com/the-turing-way) under open source licences (MIT and CC-BY). Our community handbook details current engagement practices, including how to support [the localisation working group](https://book.the-turing-way.org/community-handbook/translation). One of the localisation working group leads, Melissa Black, will spearhead the research.
 
 We already have a Slack channel with more than 800 members. To examine the nuances of localisation, we will engage with individuals from diverse communities, each with a rich history and ongoing efforts in this domain. Their collective wisdom and experiences will be the linchpin in enriching our research. We will connect with them through The Turing Way community and through our community partners (detailed below).
 

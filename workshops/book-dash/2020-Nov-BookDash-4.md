@@ -211,7 +211,7 @@ If the current schedule of these calls is not suitable for your time zone, you a
 If you want to start to get to know the project or want to return after a long break, you can begin with our [good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). 
 If you have a new idea that you would like to add to the project as a new section in an existing chapter, or as a whole new chapter, you can start by creating a [new issue](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose). 
 We also invite you to contribute in any capacity that's most suitable for your interests and availability. 
-Please help us review one of the several open [Pull Requests](https://github.com/alan-turing-institute/the-turing-way/pulls), join discussions on [these issues](https://github.com/alan-turing-institute/the-turing-way/issues) or get help in exploring resources that currently exist in [the book](https://the-turing-way.netlify.com/).
+Please help us review one of the several open [Pull Requests](https://github.com/alan-turing-institute/the-turing-way/pulls), join discussions on [these issues](https://github.com/alan-turing-institute/the-turing-way/issues) or get help in exploring resources that currently exist in [the book](https://book.the-turing-way.org/).
 
 ### Represent _The Turing Way_ in your community/conference
 

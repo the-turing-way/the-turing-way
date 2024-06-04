@@ -97,7 +97,7 @@ Please visit the [DOI link](https://doi.org/10.5281/zenodo.3233853) though to ge
 DOIs allow us to archive the repository and are useful for tracking the work in academic publications.
 
 You can also share the human-readable URL to a page in the book, for example, {ref}`https://book.the-turing-way.org/reproducible-research/overview/overview-definitions.html <rr-overview-definitions>`, but be aware that the project is under development and these links may change over time.
-You might want to include a [web archive link](http://web.archive.org), such as: [https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html](https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html), to make sure that you do not end up with broken links everywhere!
+You might want to include a [web archive link](http://web.archive.org), such as: [https://web.archive.org/web/20191030093753/https://book.the-turing-way.org/reproducibility/03/definitions.html](https://web.archive.org/web/20191030093753/https://book.the-turing-way.org/reproducibility/03/definitions.html), to make sure that you do not end up with broken links everywhere!
 
 We really appreciate any references that you make to _The Turing Way_ project in your work, and we hope it is useful.
 If you have any questions, please [get in touch](https://github.com/the-turing-way/the-turing-way#get-in-touch).

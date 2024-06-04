@@ -8,7 +8,7 @@
 The Turing Way is an Open Source and community-led book project on research reproducibility and best practices in data science. 
 This project involves contributors from all around the world in developing learning resources, guidance and recommendations that form chapters for the books on reproducible research, project design, collaboration, communication and ethics in data science. 
 At the time of writing this application, The Turing Way community has around 200 contributors who are data scientists, academics, teachers, students, policy-makers and other stakeholders in research of varying technical backgrounds. 
-The Turing Way is hosted and developed online on GitHub (https://github.com/alan-turing-institute/the-turing-way) and the book is hosted as a JupyterBook (https://github.com/jupyter/jupyter-book) on Netlify at https://the-turing-way.netlify.com.
+The Turing Way is hosted and developed online on GitHub (https://github.com/alan-turing-institute/the-turing-way) and the book is hosted as a JupyterBook (https://github.com/jupyter/jupyter-book) on Netlify at https://book.the-turing-way.org.
 
 In 2020, The Turing Way experienced its first major turn over in membership of the core contributor community. 
 The project received a new phase of funding and pivoted from a focus on computational reproducibility to a much broader scope covering project design, scientific communication, ethical data science, and the skills needed to collaborate in diverse and distributed teams. 

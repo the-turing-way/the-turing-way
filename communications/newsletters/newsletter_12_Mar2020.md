@@ -82,7 +82,7 @@ The last Book Dash successfully took place in London from 20 to 21 February 2020
 Our attendees contributed to the chapters and issues on Credit for Reproducibility, Data management and publication, Tools and methods for reproducible research, Ethics, collaboration and contributions, and other technical aspects of the book.
 A complete [report can be read online](https://hackmd.io/@malvikasharan/rJSSJurEL).
 
-Thanks to Heidi Siebold and Barbara Vreede, we have a new chapter on [Research Compendia](https://the-turing-way.netlify.com/research_compendia/research_compendia.html).
+Thanks to Heidi Siebold and Barbara Vreede, we have a new chapter on [Research Compendia](https://book.the-turing-way.org/research_compendia/research_compendia.html).
 We will be reviewing the remaining [PRs](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aopen+label%3Abook-dash-feb20) and [issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3Abook-dash-feb20) from the Book Dash and will be delighted to receive your support in that.
 
 ![screenshot of of tweet about the research compendia chapter](images/research-compendia-Mar2020.png)
@@ -160,7 +160,7 @@ Tweets by [1. Annabel Whipp](https://twitter.com/AnnabelWhipp/status/12377531307
 ## Connect with us!
 
 - [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
-- [_The Turing Way_ book](https://the-turing-way.netlify.com)
+- [_The Turing Way_ book](https://book.the-turing-way.org)
 - [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 - [Gitter chat room](https://gitter.im/alan-turing-institute/the-turing-way)
 - [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)

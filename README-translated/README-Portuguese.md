@@ -1,6 +1,6 @@
 # The Turing Way
 
-[![Leia o livro](https://img.shields.io/badge/leia-o%20livro-blue.svg)](https://the-turing-way.netlify.com)
+[![Leia o livro](https://img.shields.io/badge/leia-o%20livro-blue.svg)](https://book.the-turing-way.org)
 [![Junte-se à nossa lista de e-mails](https://img.shields.io/badge/receba-%20nossos%20emails%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
 [![Junte-se ao https://gitter.im/the-turing-way/the-turing-way](https://img.shields.io/gitter/room/the-turing-way/the-turing-way?logo=gitter)](https://gitter.im/the-turing-way/the-turing-way)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)
@@ -9,7 +9,7 @@
 [![Todos os contribuidores](https://img.shields.io/badge/todos_contribuidores-175-orange.svg)](#contributors)
 
 O _The Turing Way_ é um guia levemente obstinado para a ciência de dados reproduzível.
-Você pode lê-lo aqui: <https://the-turing-way.netlify.com>.
+Você pode lê-lo aqui: <https://book.the-turing-way.org>.
 Neste momento, você está visualizando o repositório GitHub do projeto onde se encontra cada pedacinho que compõe o guia e onde o processo de escrita/construção do guia acontece.
 
 Nosso objetivo é prover todas as informações que os pesquisadores precisam no início de seus projetos para assegurar que eles serão facilmente reproduzíveis quando terminados.
@@ -64,8 +64,8 @@ A citação consistirá em algo parecido com:
 
 > The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. <http://doi.org/10.5281/zenodo.3233986>
 
-Você também pode compartilhar um URL mais legível que direciona a uma página do livro, por exemplo: <https://the-turing-way.netlify.com/reproducibility/03/definitions.html>, mas esteja ciente de que o projeto está em desenvolvimento, e dessa forma, esses links podem mudar com o tempo.
-Você pode querer incluir um link arquivado na web, como: <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> Assim você se certifica de não acabar com links quebrados por aí!
+Você também pode compartilhar um URL mais legível que direciona a uma página do livro, por exemplo: <https://book.the-turing-way.org/reproducibility/03/definitions.html>, mas esteja ciente de que o projeto está em desenvolvimento, e dessa forma, esses links podem mudar com o tempo.
+Você pode querer incluir um link arquivado na web, como: <https://web.archive.org/web/20191030093753/https://book.the-turing-way.org/reproducibility/03/definitions.html> Assim você se certifica de não acabar com links quebrados por aí!
 
 Nós realmente apreciamos qualquer referência que você fizer ao projeto The Turing Way e esperamos que lhe seja útil.
 Se você possuir alguma dúvida, [entre em contato](#entre-em-contato).

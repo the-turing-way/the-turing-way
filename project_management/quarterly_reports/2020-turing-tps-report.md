@@ -14,7 +14,7 @@
 ### Overview of the project
 
 -   [The Turing Way](https://github.com/alan-turing-institute/the-turing-way) is an open source and collaboratively developed book-project that aims to make data science comprehensible and useful for everyone. This project brings together its diverse community of researchers, educators, learners, administrators and stakeholders from within The Alan Turing Institute and beyond.
--   The project is available online on GitHub ([https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)) under CC-BY license owned by The Turing Way community.   The project uses Jupyter Book ([https://github.com/jupyter/jupyter-book](https://github.com/jupyter/jupyter-book)) to host its content online at [https://the-turing-way.netlify.com](https://the-turing-way.netlify.com).
+-   The project is available online on GitHub ([https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)) under CC-BY license owned by The Turing Way community.   The project uses Jupyter Book ([https://github.com/jupyter/jupyter-book](https://github.com/jupyter/jupyter-book)) to host its content online at [https://book.the-turing-way.org](https://book.the-turing-way.org).
 
 ### Software/code/tools/methods developed/released
 

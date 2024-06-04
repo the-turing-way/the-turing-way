@@ -69,7 +69,7 @@ All time provided in London Time (UTC). Please use this link to convert in your 
 * Intro to The Turing Way & the Book Dash: [Intro slides for you](Link) - [Zenodo link TBA]
 * Predash drop-in calls: https://hackmd.io/@turingway/bookdash-may2022-onboarding
 * Project repository on GitHub: https://github.com/alan-turing-institute/the-turing-way
-* Book is hosted online at: https://the-turing-way.netlify.com
+* Book is hosted online at: https://book.the-turing-way.org
 * Join Slack channel: an email will be sent to you
 * Join the [mailing list to receive newsletter](https://tinyletter.com/TuringWay)
 * Follow on Twitter: [@turingway](https://twitter.com/turingway)

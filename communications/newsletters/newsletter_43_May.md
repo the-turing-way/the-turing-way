@@ -292,7 +292,7 @@ Read the blogpost [here](https://openworking.wordpress.com/2023/05/31/the-turing
 You are welcome to join *The Turing Way* community, and learn more about the project.
 
 * [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
-* [_The Turing Way_ book](https://the-turing-way.netlify.com)
+* [_The Turing Way_ book](https://book.the-turing-way.org)
 * [Welcome Page](https://the-turing-way.start.page/) (A great place to start!)
 * [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 * [Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)

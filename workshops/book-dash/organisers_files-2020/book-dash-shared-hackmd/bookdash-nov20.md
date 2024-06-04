@@ -71,7 +71,7 @@ All time provided in UTC/GMT. Please use this link to convert in your time zone:
 * Intro to Book Dash slides: [Intro slides for you](https://zenodo.org/record/4263451#.X6iEGZP7TOQ)
 * Predash drop-in calls: https://hackmd.io/@turingway/bookdash-nov2020-drop-in
 * Project repository on GitHub: https://github.com/alan-turing-institute/the-turing-way
-* Book is hosted online at: https://the-turing-way.netlify.com
+* Book is hosted online at: https://book.the-turing-way.org
 * Join Slack channel: an email will be sent to you
 * Join the [mailing list to receive newsletter](https://tinyletter.com/TuringWay)
 * Follow on Twitter: [@turingway](https://twitter.com/turingway)

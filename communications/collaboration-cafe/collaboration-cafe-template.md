@@ -14,7 +14,7 @@ We're delighted to have you here :coffee: :sparkles: :cake:
 * Shared notes: https://hackmd.io/@KirstieJane/CollabCafe
 * About [online Collaboration Cafes](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms)
 * The Turing Way GitHub repository: https://github.com/alan-turing-institute/the-turing-way
-* The book: https://the-turing-way.netlify.com
+* The book: https://book.the-turing-way.org
 * [Contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)
 
 ### Code of conduct

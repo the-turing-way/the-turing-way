@@ -79,7 +79,7 @@ There are many ways to get in touch with _The Turing Way_ team!
 
 ### Coworking and Real-Time Collaboration
 
-- [Bimonthly Collaboration Cafe](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html): Every first and third Wednesday (15:00 - 17:00 London time)/. This is an **online collaboration and coworking event** that engage anyone interested in learning and discussing research best practices and sharing them on The Turing Way book: https://the-turing-way.netlify.com*. Shared notes with joining links: https://hackmd.io/@turingway/collaboration-cafe.
+- [Bimonthly Collaboration Cafe](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html): Every first and third Wednesday (15:00 - 17:00 London time)/. This is an **online collaboration and coworking event** that engage anyone interested in learning and discussing research best practices and sharing them on The Turing Way book: https://book.the-turing-way.org*. Shared notes with joining links: https://hackmd.io/@turingway/collaboration-cafe.
 - [Weekly Coworking Calls](https://book.the-turing-way.org/community-handbook/coworking.html): Every Monday (11:00 - 12:00 London time)/. This is a synchronous collaborative space to either discuss your ideas or quietly work in an accountable space with _The Turing Way_ team members. Shared notes with joining links: https://hackmd.io/@turingway/coworking-call.
 - [Book Dash Events](https://book.the-turing-way.org/community-handbook/bookdash.html) take place 1-2 times a year for a more engaged sprint for collaboration, networking and development either in person 1-2 days, or online for a week for flexible participation. Announcements are made via mailing list, Twitter, Slack and presentations.
 
@@ -230,7 +230,7 @@ We appreciate all contributions to _The Turing Way_.
 **THANK YOU** for helping us build this useful resource. :sparkles::star2::dizzy:
 
 All project management, conversations and questions related to _The Turing Way_ project happens here in [_The Turing Way_ repository][turing-way-repo].
-This is also where you can contribute directly to writing or editing chapters of [the book](https://the-turing-way.netlify.com)!
+This is also where you can contribute directly to writing or editing chapters of [the book](https://book.the-turing-way.org)!
 
 The following steps are a guide to help you contribute in a way that will be easy for everyone to review and accept with ease :sunglasses:.
 
@@ -267,7 +267,7 @@ If you feel tempted to "branch out" then please make a [new branch][github-branc
 Please do not re-write history!
 That is, please do not use the [rebase](https://help.github.com/en/articles/about-git-rebase) command to edit previous commit messages, combine multiple commits into one, or delete or revert commits that are no longer necessary.
 
-Are you new to Git and GitHub or just want a detailed guide on getting started with version control? Check out our [Version Control chapter](https://the-turing-way.netlify.com/version_control/version_control.html) in _The Turing Way_ Book!
+Are you new to Git and GitHub or just want a detailed guide on getting started with version control? Check out our [Version Control chapter](https://book.the-turing-way.org/version_control/version_control.html) in _The Turing Way_ Book!
 
 ### 4. Submit a [pull request][github-pullrequest]
 
