@@ -167,7 +167,7 @@ Please see more details on the project, book dash events and logistics for the u
 
 Here are a few suggestions for a good first contributions:
 
-- Review an existing chapter by suggesting a few changes in [the book](https://the-turing-way.netlify.com) and/or [repository](https://github.com/alan-turing-institute/the-turing-way).
+- Review an existing chapter by suggesting a few changes in [the book](https://book.the-turing-way.org) and/or [repository](https://github.com/alan-turing-institute/the-turing-way).
 - Flag the unclear or duplicated information in the book by opening an [issue on the GitHub](https://github.com/alan-turing-institute/the-turing-way/issues).
 - Fix an [old issue](https://github.com/alan-turing-institute/the-turing-way/issues) or comment on the the [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls).
 - Write your personal experience of reproducible research in this [google form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).

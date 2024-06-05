@@ -26,7 +26,7 @@
 
 ### Participation guidelines
 
-- Code of Conduct: https://the-turing-way.netlify.app/community-handbook/coc.html
+- Code of Conduct: https://book.the-turing-way.org/community-handbook/coc.html
 - Contribution guideline: https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md
 
 ### For contributors who are new to GitHub
@@ -44,8 +44,8 @@
 
 ### How we acknowledge your contributions to _The Turing Way_
 
-- Contributors Record: https://the-turing-way.netlify.app/afterword/contributors-record.html
-    - [See how we acknowledge our contributors](https://the-turing-way.netlify.app/community-handbook/acknowledgement.html)
+- Contributors Record: https://book.the-turing-way.org/afterword/contributors-record.html
+    - [See how we acknowledge our contributors](https://book.the-turing-way.org/community-handbook/acknowledgement.html)
 
 ### Resources from the February 2020 Book Dash
 
@@ -341,7 +341,7 @@ We will use take a mid-sprint break and get to know each other through a "show a
 - Open Pull Requests: https://github.com/alan-turing-institute/the-turing-way/pulls
 - Impact story: https://www.turing.ac.uk/research/impact-stories/changing-culture-data-science
     - [Short summary](https://www.turing.ac.uk/sites/default/files/inline-images/Turing%20Way%20oner_0.jpg)
-- Online Book: https://the-turing-way.netlify.app/welcome
+- Online Book: https://book.the-turing-way.org/welcome
 
 **Please read and follow our project [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)!** :sparkles: If you find them confusing, difficult to follow or think that information needs to be added, please let us know! This will help us improve the contributing experience for everyone going forward.
 
@@ -364,7 +364,7 @@ The tl;dr version for easy reference during dashing:
 
 * Reviewers for your Book Dash application have suggested a few specific topics for each of you 
 * You can also collaborate with others or start slowly by checking out the list of [open issues](https://github.com/alan-turing-institute/the-turing-way/issues)
-* Proofread [existing chapters](https://the-turing-way.netlify.com) (check for typos, grammar, links, etc.)
+* Proofread [existing chapters](https://book.the-turing-way.org) (check for typos, grammar, links, etc.)
 * Add further information to an existing chapter
 * Suggest topics for new chapters (particularly if you can write them!)
     * A chapter can be minimum 3 paragraphs in length - what can you write 3 paragraphs on?

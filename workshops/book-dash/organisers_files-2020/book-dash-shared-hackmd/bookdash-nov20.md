@@ -16,7 +16,7 @@ Cuckoo clock: https://cuckoo.team/tw-bookdash
 
 Each day we will hold 3 development sessions and an one open slot where you can plan your time to interact with others, continue working or take a break as it's most sustainable and helpful for your participation.
 
-Each development session will follow the Pomodoro technique that we also use for our coworking calls. We will use [browser-based shared (cuckoo) clock](https://cuckoo.team/tw-bookdash) to manage our time ([Coworking chapter in The Turing Way](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-motivation.html))
+Each development session will follow the Pomodoro technique that we also use for our coworking calls. We will use [browser-based shared (cuckoo) clock](https://cuckoo.team/tw-bookdash) to manage our time ([Coworking chapter in The Turing Way](https://book.the-turing-way.org/community-handbook/coworking/coworking-motivation.html))
 
 All time provided in UTC/GMT. Please use this link to convert in your time zone: convert time: https://arewemeetingyet.com/london/2020-11-**DD**/**hh:mm** (update DD: date, hh:mm: hours:minutes)
 
@@ -71,7 +71,7 @@ All time provided in UTC/GMT. Please use this link to convert in your time zone:
 * Intro to Book Dash slides: [Intro slides for you](https://zenodo.org/record/4263451#.X6iEGZP7TOQ)
 * Predash drop-in calls: https://hackmd.io/@turingway/bookdash-nov2020-drop-in
 * Project repository on GitHub: https://github.com/alan-turing-institute/the-turing-way
-* Book is hosted online at: https://the-turing-way.netlify.com
+* Book is hosted online at: https://book.the-turing-way.org
 * Join Slack channel: an email will be sent to you
 * Join the [mailing list to receive newsletter](https://tinyletter.com/TuringWay)
 * Follow on Twitter: [@turingway](https://twitter.com/turingway)
@@ -387,7 +387,7 @@ _Share your ideas for contributions during the book dash_
 ### Notes and Report Out
 
 * [name=Batool] : After a discussion with Brigitta, we discussed different outlines for a new sub-chapter for GitHub actions. Created this [new issue](https://github.com/alan-turing-institute/the-turing-way/issues/1557). The discussion about the outline is described [here](https://hackmd.io/bQE9BPMcQbmtrWHTv2TQQw?both).
-* [name=Sangram] : Reading the [Personas & Pathways chapter](https://the-turing-way.netlify.app/project-design/persona.html) and trying to make one [here](https://hackmd.io/@sksahu/HJlXnrdFw). Any inputs would be great.
+* [name=Sangram] : Reading the [Personas & Pathways chapter](https://book.the-turing-way.org/project-design/persona.html) and trying to make one [here](https://hackmd.io/@sksahu/HJlXnrdFw). Any inputs would be great.
 * [name=Ismael] Had a fun chat with Neha, and kept polishing the intro to the Ethical Guide for Research (currently living [here](https://hackmd.io/JqTBjg0aS1iStmWuGzMRtA#Ethical-considerations-throughout-Research-Stages)) -- nearly there!!!
 * [name=Paul] Worked on Emma's github chapter and revised chapter template based on comments from Ismael and Malvika
 * [name=Laura A] Modified several of the files in [this PR](https://github.com/alan-turing-institute/the-turing-way/pull/1553), adding content to the Leadership Chapter, I will continue tomorrow, hoping to finish uploading content :tada: 

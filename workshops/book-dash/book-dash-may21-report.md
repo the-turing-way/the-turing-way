@@ -31,7 +31,7 @@ We are very excited to introduce you to our Book Dash participant!
 *Book Dash attendees in the first row: Nina di Cara (panel 1), Malvika Sharan (panel 2), Becki Green (panel 3), second row: Kirstie Whitaker (panel 2), Aida Mehonic (panel 3), third row: Lotty Coupat (panel 1), Hannah Nicholls (panel 2), Esther Plomp (panel 3), fourth row: Maria Cristina Nanton (panel 3), fifth row: Brigitta Sipőcz (panel 1), Emma Karoune (panel 3), sixth row: Mariana Vivas (panel 1) and Batool Almarzouz (panel 3). In this picture, we also have several attendees from our share-outs including Martin O’Reilly, Ismael Kherroubi-Garcia, Danny Garside and Paul Owoicho who are involved in the project. Book Dash attendees who are not in the picture are Ali Humayun, Andreea Avramescu, Andrei Alexandru, Marta Mangiarulo, Arielle Bennett, Carlos Martinez-Ortiz and Laura Carter.*
 
 These members had sent applications describing what they would like to work on and how they intend to collaborate with other contributors.
-Application review was carried out using the rubrics described [here](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-preparation.html).
+Application review was carried out using the rubrics described [here](https://book.the-turing-way.org/community-handbook/bookdash/bookdash-preparation.html).
 
 ### Book Dash Planning Committee
 
@@ -45,11 +45,11 @@ We also hosted a 'show and tell' social meal and facilitated several icebreakers
 Our Book Dash attendees worked on multiple chapters and project ideas that we have summarised below:
 
 * Overview of new chapters:
-  * “[Legal Disclaimer](https://the-turing-way.netlify.app/afterword/legal-disclaimer.html)” by Laura Carter explaining where can readers find legal advice so that they do not consider any part of *The Turing Way* book as a legal guide. 
-  * Malvika and Esther reorganised a chapter “[Making Research Objects Citable](https://the-turing-way.netlify.app/communication/citable.html#)”,  previously listed under the Guide for Reproducible Research.
-  * Kirstie Whitaker wrote a chapter on “[Barriers to Reproducibility](https://the-turing-way.netlify.app/reproducible-research/overview/overview-barriers.html)” describing what challenges researchers face in their research when planning to apply practices for reproducibility.
-  * Batool and Brigitta collaborated on the chapters and illustrations for the [Continuous Integration chapter](https://the-turing-way.netlify.app/reproducible-research/ci.html) that they started working on during the previous Book Dash event.
-  * Arielle Bennett updated the chapter “[Activism for Researchers](https://the-turing-way.netlify.app/ethical-research/activism.html)” with the contributions of Bruno Camino. 
+  * “[Legal Disclaimer](https://book.the-turing-way.org/afterword/legal-disclaimer.html)” by Laura Carter explaining where can readers find legal advice so that they do not consider any part of *The Turing Way* book as a legal guide. 
+  * Malvika and Esther reorganised a chapter “[Making Research Objects Citable](https://book.the-turing-way.org/communication/citable.html#)”,  previously listed under the Guide for Reproducible Research.
+  * Kirstie Whitaker wrote a chapter on “[Barriers to Reproducibility](https://book.the-turing-way.org/reproducible-research/overview/overview-barriers.html)” describing what challenges researchers face in their research when planning to apply practices for reproducibility.
+  * Batool and Brigitta collaborated on the chapters and illustrations for the [Continuous Integration chapter](https://book.the-turing-way.org/reproducible-research/ci.html) that they started working on during the previous Book Dash event.
+  * Arielle Bennett updated the chapter “[Activism for Researchers](https://book.the-turing-way.org/ethical-research/activism.html)” with the contributions of Bruno Camino. 
 
 ![Image shows a group of researchers holding a banner that says “advocacy”. One person is signing up to join and others are walking/wheeling forward.](https://i.imgur.com/IKDk535.png)
 

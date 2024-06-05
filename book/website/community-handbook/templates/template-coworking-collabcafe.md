@@ -11,9 +11,9 @@ We're delighted to have you here ☕️✨🎂
 (*We do recommend bringing your actual tea, coffee, water or your favorite beverage to this cafe! :smile:*)
 
 **What?** *The Turing Way is a **lightly opinionated guide to reproducible data science and research**. 
-This collaboration cafe aims to engage with researchers interested in learning and sharing more about this topic in an **online book**: https://the-turing-way.netlify.com*
+This collaboration cafe aims to engage with researchers interested in learning and sharing more about this topic in an **online book**: https://book.the-turing-way.org*
 
-*Read more about it here: https://the-turing-way.netlify.app/community-handbook/coworking.html*
+*Read more about it here: https://book.the-turing-way.org/community-handbook/coworking.html*
 
 **Who?** ***Everyone** interested in reproducible, ethical, and inclusive data science and research are welcome to join the full or any part of The Turing Way project, community, and/or this call.*
 
@@ -27,7 +27,7 @@ This collaboration cafe aims to engage with researchers interested in learning a
 
 * Shared notes: https://hackmd.io/@KirstieJane/CollabCafe
 * The Turing Way GitHub repository: https://github.com/the-turing-way/the-turing-way
-* All about [online Collaboration Cafes](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms)
+* All about [online Collaboration Cafes](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms)
 * Turing Way calendar: https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ
 * Contribution guidelines: https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md
 * Chat on Gitter: https://gitter.im/the-turing-way/the-turing-way
@@ -79,7 +79,7 @@ https://cuckoo.team/tw-collabcafe
 
 ### Breakout rooms: Topic proposals
 
-*If you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it. If you like one of the topics that is already suggested, please add your name next to that one. Team work makes the dream work. For more information about breakout rooms see [the description on The Turing Way](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms#breakout-rooms).*
+*If you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it. If you like one of the topics that is already suggested, please add your name next to that one. Team work makes the dream work. For more information about breakout rooms see [the description on The Turing Way](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms#breakout-rooms).*
 
 Topic for breakout / Names
 
@@ -99,7 +99,7 @@ Topic for breakout / Names
 
 Here are a few suggestions for a good first contributions:
 
-- Fix a typo in [the book](https://the-turing-way.netlify.com) and/or [repository](https://github.com/the-turing-way/the-turing-way).
+- Fix a typo in [the book](https://book.the-turing-way.org) and/or [repository](https://github.com/the-turing-way/the-turing-way).
 - Flag the unclear or duplicated information in the book by opening an [issue on the GitHub](https://github.com/the-turing-way/the-turing-way/issues).
 - Fix an [old issue](https://github.com/the-turing-way/the-turing-way/issues) or comment on the the [pull requests](https://github.com/the-turing-way/the-turing-way/pulls).
 - Write your personal experience of reproducible research in this [google form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).

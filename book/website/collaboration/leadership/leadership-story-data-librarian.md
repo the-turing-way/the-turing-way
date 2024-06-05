@@ -9,7 +9,7 @@ In the ten years I have worked in the open science space in research infrastruct
 
 Many of these roles contain a degree of coordination and project management, so our leadership brings people together, facilitates conversations that otherwise might not happen and while we might not be decision makers, we certainly can get others to make decisions and hold them accountable for enacting them.
 
-I have managed a range of services (data repositories, services to support [data management planning](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html)) working closely with software developers on delivering a smooth service to users.
+I have managed a range of services (data repositories, services to support [data management planning](https://book.the-turing-way.org/reproducible-research/rdm/rdm-dmp.html)) working closely with software developers on delivering a smooth service to users.
 As I prefer decision making by consensus, it often feels more like a collaboration and less like me leading the team and service development. 
 
 
@@ -48,4 +48,4 @@ Often, others see us as leaders when we do not identify with that label yet, thu
 * [No Hard Feelings](https://www.lizandmollie.com/book/) by Liz Fosslien and Mollie West Duffy
 * [The Culture Map](https://erinmeyer.com/books/the-culture-map/) by Erin Meyer
 
-_This personal story is written by _The Turing Way_ contributor and founding member [Patricia Heterich](https://the-turing-way.netlify.app/afterword/contributors-record.html#patricia-herterich), based on a discussion she led at the Book Dash in May 2022._
+_This personal story is written by _The Turing Way_ contributor and founding member [Patricia Heterich](https://book.the-turing-way.org/afterword/contributors-record.html#patricia-herterich), based on a discussion she led at the Book Dash in May 2022._

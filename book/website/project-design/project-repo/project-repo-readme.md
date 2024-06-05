@@ -37,7 +37,7 @@ _The Turing Way_ README file includes the following details provided in chronolo
 1. Project name as the top header.
 2. A set of [GitHub badges/shields](https://github.com/badges/shields) (You can create your own badge [here](https://shields.io/)).
 GitHub shields are clickable buttons that provide concise actions related to the project, which in _The Turing Way_ include the following:
-[![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com)
+[![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://book.the-turing-way.org)
 [![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
 [![Join the chat at https://gitter.im/the-turing-way/the-turing-way](https://img.shields.io/gitter/room/the-turing-way/the-turing-way?logo=gitter)](https://gitter.im/the-turing-way/the-turing-way)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)

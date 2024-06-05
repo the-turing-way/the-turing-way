@@ -7,7 +7,7 @@
 - Affiliation: The Alan Turing Institute, London, UK
 - Funded by: The Tools, Practices and Systems Research Programme of The Alan Turing Institute
 - Dates of the project: Jan 2019 - Present
-- Webpage: [https://the-turing-way.netlify.app/welcome](https://the-turing-way.netlify.app/welcome) and [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) 
+- Webpage: [https://book.the-turing-way.org/welcome](https://book.the-turing-way.org/welcome) and [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) 
 - Ethics approval status: Confirmation ethics approval not required
 - Reports drafted by Malvika Sharan
 
@@ -15,7 +15,7 @@
 
 **Overview of the project:** _The Turing Way_ is an open source and community-led project that aims to make data science comprehensible and useful for everyone. This project brings together its diverse community of researchers, educators, learners, administrators and stakeholders from within The Alan Turing Institute and beyond. _The Turing Way_ provides a web-based book with five guides on reproducible research, project design, communication, collaboration and ethical research, as well as a community handbook.
 
-The project is available online on GitHub ([https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)) under the CC-BY license owned by _The Turing Way_ community. The project uses Jupyter Book ([https://github.com/jupyter/jupyter-book](https://github.com/jupyter/jupyter-book)) to host its content online at [https://the-turing-way.netlify.com](https://the-turing-way.netlify.com/).
+The project is available online on GitHub ([https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)) under the CC-BY license owned by _The Turing Way_ community. The project uses Jupyter Book ([https://github.com/jupyter/jupyter-book](https://github.com/jupyter/jupyter-book)) to host its content online at [https://book.the-turing-way.org](https://book.the-turing-way.org/).
 
 ## First Quarter: 1 January 2022 to 31 March 2022.
 
@@ -94,7 +94,7 @@ The project is available online on GitHub ([https://github.com/alan-turing-insti
 
 #### New datasets created/accessed 
 
-* Book: https://the-turing-way.netlify.app 
+* Book: https://book.the-turing-way.org 
 * Resources on GitHub: https://github.com/alan-turing-institute/the-turing-way 
 * Zenodo: We have made the latest release of The Turing Way on Zenodo. Please cite this release as “The Turing Way Community. (2021). The Turing Way: A handbook for reproducible, ethical and collaborative research (v1.0.2). Zenodo. https://doi.org/10.5281/zenodo.6533831
 * All presentations from the community are published on Zenodo community page for The Turing Way: https://zenodo.org/communities/the-turing-way
@@ -196,7 +196,7 @@ The project is available online on GitHub ([https://github.com/alan-turing-insti
 
 #### New datasets created/accessed 
 
-* Book: https://the-turing-way.netlify.app 
+* Book: https://book.the-turing-way.org 
 * Resources on GitHub: https://github.com/alan-turing-institute/the-turing-way 
 * Zenodo: 
 	* All presentations from the community are published on Zenodo community page for The Turing Way: https://zenodo.org/communities/the-turing-way
@@ -309,16 +309,16 @@ The project is available online on GitHub ([https://github.com/alan-turing-insti
 
 ### New chapters and subchapters published in The Turing Way
 
-* Micropublishing: https://the-turing-way.netlify.app/communication/dif-articles/micro.html
-* Overview of Code Reuse: https://the-turing-way.netlify.app/reproducible-research/code-reuse/code-reuse-overview.html
-* Personal Story for RSE Asia: https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/rse-personal-story.html
-* Machine Learning Model Licences: https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-ml.html 
-* Peer Review: https://the-turing-way.netlify.app/communication/peer-review.html 
-* Sensitive Data: https://the-turing-way.netlify.app/project-design/sdp.html 
+* Micropublishing: https://book.the-turing-way.org/communication/dif-articles/micro.html
+* Overview of Code Reuse: https://book.the-turing-way.org/reproducible-research/code-reuse/code-reuse-overview.html
+* Personal Story for RSE Asia: https://book.the-turing-way.org/collaboration/research-infrastructure-roles/rse-personal-story.html
+* Machine Learning Model Licences: https://book.the-turing-way.org/reproducible-research/licensing/licensing-ml.html 
+* Peer Review: https://book.the-turing-way.org/communication/peer-review.html 
+* Sensitive Data: https://book.the-turing-way.org/project-design/sdp.html 
 
 ### New datasets created/accessed 
 
-* Book: https://the-turing-way.netlify.app 
+* Book: https://book.the-turing-way.org 
 * Resources on GitHub: https://github.com/alan-turing-institute/the-turing-way 
 * Zenodo: 
 	* All presentations from the community are published on Zenodo community page for The Turing Way: https://zenodo.org/communities/the-turing-way
@@ -432,13 +432,13 @@ The project is available online on GitHub ([https://github.com/alan-turing-insti
 
 ### New chapters and subchapters published in The Turing Way
 
-* Team Manual: Esther Plomp and Danny Garside worked with people at the Open Science Retreat to write a chapter about team manuals: https://the-turing-way.netlify.app/collaboration/team-manual.html 
-* Unionisation: Arielle Bennett updated the Unionisation sub-chapter to include unions in Argentina https://the-turing-way.netlify.app/ethical-research/activism/activism-unionisation.html
-* Presenting About The Turing Way: Co-written by Alden Conner, Emma Karoune, Sarah Gibson and Jim Madge described the process and resources for The Turing Way members to give conference presentations about The Turing Way https://the-turing-way.netlify.app/community-handbook/presenting.html 
+* Team Manual: Esther Plomp and Danny Garside worked with people at the Open Science Retreat to write a chapter about team manuals: https://book.the-turing-way.org/collaboration/team-manual.html 
+* Unionisation: Arielle Bennett updated the Unionisation sub-chapter to include unions in Argentina https://book.the-turing-way.org/ethical-research/activism/activism-unionisation.html
+* Presenting About The Turing Way: Co-written by Alden Conner, Emma Karoune, Sarah Gibson and Jim Madge described the process and resources for The Turing Way members to give conference presentations about The Turing Way https://book.the-turing-way.org/community-handbook/presenting.html 
 
 ### New datasets created/accessed 
 
-* Book: https://the-turing-way.netlify.app 
+* Book: https://book.the-turing-way.org 
 * Resources on GitHub: https://github.com/alan-turing-institute/the-turing-way 
 * Zenodo: 
 	* All presentations from the community are published on Zenodo community page for The Turing Way: https://zenodo.org/communities/the-turing-way

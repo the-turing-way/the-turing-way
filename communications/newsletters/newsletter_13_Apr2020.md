@@ -54,11 +54,11 @@ Please help us by reviewing these chapters or contributing content that you thin
 
 ### New chapters and new book design under development
 
-Carlos Martinez Ortiz and Stefan Verhoeven from Netherlands eScience Center started [a chapter on licensing](https://the-turing-way.netlify.com/licensing/licensing.html).
+Carlos Martinez Ortiz and Stefan Verhoeven from Netherlands eScience Center started [a chapter on licensing](https://book.the-turing-way.org/licensing/licensing.html).
 They have written a subsection on software licencing comprehensively.
 To build on their work, we invite your contribution regarding data licensing that will be extremely useful for enhancing our understaning of licenses in Data Research.
 
-We are currently working on the new design of the book ([see this preview](https://deploy-preview-977--the-turing-way.netlify.com/welcome)), which aims to provide easier access to the different volumes of the book and their subsections.
+We are currently working on the new design of the book ([see this preview](https://deploy-preview-977--book.the-turing-way.org/welcome)), which aims to provide easier access to the different volumes of the book and their subsections.
 
 ![An alternative landing page that displays a new browsing options for new volumes in The Turing Way](images/preview-Apr2020.png)
 *Screenshot from the new proposed design of The Turing Way Book, developed in PR [#977](https://github.com/alan-turing-institute/the-turing-way/pull/977)*
@@ -136,7 +136,7 @@ Congratulation to all the winners, and the organisers for this successful event 
 ## Connect with us!
 
 - [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
-- [_The Turing Way_ book](https://the-turing-way.netlify.com)
+- [_The Turing Way_ book](https://book.the-turing-way.org)
 - [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 - [Gitter chat room](https://gitter.im/alan-turing-institute/the-turing-way)
 - [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)

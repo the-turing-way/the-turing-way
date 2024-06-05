@@ -85,7 +85,7 @@ You can mention Malvika Sharan (@malvikasharan) and Kirstie Whitaker (@KirstieJa
 In addition, you can reach _The Turing Way_ by email (managed by the community manager): theturingway@gmail.com.
 You can also contact Malvika by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
 
-Please join the project members and the wider Turing Way community at our twice-monthly [Collaboration Cafes](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html), which are great places to discuss ideas for new contributions and to get started with making them. :rocket:
+Please join the project members and the wider Turing Way community at our twice-monthly [Collaboration Cafes](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html), which are great places to discuss ideas for new contributions and to get started with making them. :rocket:
 
 Talks, presentations and recordings from different events are posted on our [YouTube channel](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA) regularly.
 

@@ -105,7 +105,7 @@ They are meant to be fairly short and to the point therefore much less time cons
 (cm-dif-articles-data-review)=
 ## How do you review a Data Paper?
 
-You can find general guidance on how to peer review a paper in our peer review chapter [here](https://the-turing-way.netlify.app/communication/peer-review.html). 
+You can find general guidance on how to peer review a paper in our peer review chapter [here](https://book.the-turing-way.org/communication/peer-review.html). 
 
 When reviewing a data paper specifically it may be useful to focus on (adapted from [F1000Research's guidance](https://f1000research.com/for-referees/guidelines)):
 * Is the rationale for creating the dataset clearly described?
