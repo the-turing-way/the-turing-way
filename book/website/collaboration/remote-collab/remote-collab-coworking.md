@@ -146,7 +146,7 @@ This is especially important for creating an opportunity for those who can not (
 - [Google doc](https://en.wikipedia.org/wiki/Google_Docs): Google Docs is a word processor included as part of a free, web-based Google Docs suite offered by Google within its Google Workspace service.
 - [Etherpad](https://etherpad.org/): Etherpad is an open-source customisable online editor.
 - [HackMD](https://hackmd.io/): HackMD is an online collaborative document that can be written in [Markdown](https://www.markdownguide.org/) format.
-- [HedgeDoc (previously CodiMD)](https://demo.hedgedoc.org/): HedgeDoc is the community-driven fork of CodiMD, which is the open source version of HackMD.
+- [HedgeDoc (previously CodiMD)](https://demo.hedgedoc.org/): HedgeDoc is the community-driven fork of CodiMD, which is the open-source version of HackMD.
 
 
 ### Hosting online calls
