@@ -4,7 +4,7 @@ title: The Turing Way handbook for reproducible, ethical and collaborative resea
 abstract: This is the most recent release of the main repository of The Turing Way Book
 authors:
   - name: "The Turing Way Community"
-version: 1.2.2
+version: 1.2.1
 identifiers:
   - description: This is the collection of archived snapshots of all versions of The Turing Way.
     type: doi
