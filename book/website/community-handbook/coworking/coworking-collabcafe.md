@@ -37,8 +37,8 @@ It is important that any one joining a Collaboration Cafe has an interest in _Th
 If a meeting is on a topic or for a purpose completely separate to "reproducible, ethical and collaborative data science", it may not be the best fit for a Collaboration Cafe.
 
 When inviting new people, please forward the Zoom call for the meeting and the shared document with introduction text like one of the following:
-- Collaboration Cafes are The Turing Way's regular online collaboration and coworking calls where community members work on contributions to the project, discuss shared interests, or learn about how to get involved. You can learn more [here](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html). All of our calls adhere to our code of conduct. Please take a moment to read this [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
-- I look forward to meeting at The Turing Way Collaboration Cafe, which will be a chance for us to discuss, co-work, and share and get feedback on our work with The Turing Way community. You can learn more the calls [here](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html). All of our calls adhere to our [code of conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
+- Collaboration Cafes are The Turing Way's regular online collaboration and coworking calls where community members work on contributions to the project, discuss shared interests, or learn about how to get involved. You can learn more [here](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html). All of our calls adhere to our code of conduct. Please take a moment to read this [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
+- I look forward to meeting at The Turing Way Collaboration Cafe, which will be a chance for us to discuss, co-work, and share and get feedback on our work with The Turing Way community. You can learn more the calls [here](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html). All of our calls adhere to our [code of conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
 
 ### Resources used for the call
 
@@ -208,7 +208,7 @@ You'll see a breakout section in the shared notes:
 > *If you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it.*
 > *If you like one of the topics that are already suggested, please add your name next to that one.*
 > *Teamwork makes the dream work.*
-> *For more information about breakout rooms see [the description on The Turing Way](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms).*
+> *For more information about breakout rooms see [the description on The Turing Way](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms).*
 
 For each session, you can propose a conversation to have in a breakout room or add your name to join a suggestion that is already on the list.
 

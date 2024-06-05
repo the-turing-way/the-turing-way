@@ -6,7 +6,7 @@
 
 ## Introduction
 
-[_The Turing Way_](https://the-turing-way.netlify.app/welcome) is an open source book project developed asynchronously by contributors from around the world.
+[_The Turing Way_](https://book.the-turing-way.org/welcome) is an open source book project developed asynchronously by contributors from around the world.
 Since inception, the book has widened in scope to not only cover topics in Reproducible Research, but also Project Design, Communication, Collaboration, and Ethical Research.
 While this increased scope enhanced the book's impact, the fact that multiple authors contributed to its content introduced aesthetic, structural, and formatting differences across the book. 
 For new contributors, this made it challenging to follow the book's style recommendations when existing chapters did not consistently follow them. 
@@ -32,7 +32,7 @@ To achieve this goal, I started by reviewing and editing some of _The Turing Way
 With the insights gained, I worked with my mentors to identify the consistency gaps present in the book and engaged with _The Turing Way_ community to curate a consistency checklist.
 This checklist provided guidance for contributors to review existing chapters and uncover ways to improve them.
 It also served as a basis for many 'good first issues' I created to fix errors and bugs across the entire book and helped Hacktoberfest contributors participate in the project throughout the month of October. 
-Furthermore, with tremendous feedback from my mentors and other core contributors, I authored an extensive [consistency chapter](https://the-turing-way.netlify.app/community-handbook/consistency.html) to explain each item in the checklist. 
+Furthermore, with tremendous feedback from my mentors and other core contributors, I authored an extensive [consistency chapter](https://book.the-turing-way.org/community-handbook/consistency.html) to explain each item in the checklist. 
 This chapter ensures that old and new contributors have sufficient guidance, recommendations and support to continue maintaining consistency in the book. 
 
 The following GitHub pull requests and issues, and online content were developed to facilitate retrospective consistency:
@@ -43,7 +43,7 @@ The following GitHub pull requests and issues, and online content were developed
 |Curating a Consistency Checklist| [#1174](https://github.com/alan-turing-institute/the-turing-way/issues/1174)|
 |Creating 'good first issues' | [Good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aopen+is%3Aissue+author%3Apaulowoicho+label%3A%22good+first+issue%22)|
 |Making demo videos for items in the Consistency Checklist|[#1651](https://github.com/alan-turing-institute/the-turing-way/pull/1651)|
-| **PRs merged into online resources** | [Chapter on Maintaining Consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html); Revised Chapters on [Reproducible Environments](https://the-turing-way.netlify.app/reproducible-research/renv.html), [Open Research](https://the-turing-way.netlify.app/reproducible-research/vcs.html), [Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html), [Research Data Management](https://the-turing-way.netlify.app/reproducible-research/rdm.html), [Licensing](https://the-turing-way.netlify.app/reproducible-research/licensing.html), [Reproducible Research Overview](https://the-turing-way.netlify.app/reproducible-research/overview.html) |
+| **PRs merged into online resources** | [Chapter on Maintaining Consistency](https://book.the-turing-way.org/community-handbook/consistency.html); Revised Chapters on [Reproducible Environments](https://book.the-turing-way.org/reproducible-research/renv.html), [Open Research](https://book.the-turing-way.org/reproducible-research/vcs.html), [Version Control](https://book.the-turing-way.org/reproducible-research/vcs.html), [Research Data Management](https://book.the-turing-way.org/reproducible-research/rdm.html), [Licensing](https://book.the-turing-way.org/reproducible-research/licensing.html), [Reproducible Research Overview](https://book.the-turing-way.org/reproducible-research/overview.html) |
 
 ### 2. Contributing to Future Maintenance
 
@@ -52,7 +52,7 @@ The following GitHub pull requests and issues, and online content were developed
 For this goal, I worked to create clear pathways for future contributions to _The Turing Way_.
 First, I developed templates to guide authors to structure and design new content such as subchapters, case studies and personal stories or modify existing resources. 
 The new templates will make improving the book more accessible by helping new contributors write interoperable content from the start.
-I also documented the community's contribution workflows and processes by engaging with different community members, and used those insights to create guidelines in a [short chapter](https://the-turing-way.netlify.app/community-handbook/contributing.html) in the Community Handbook.
+I also documented the community's contribution workflows and processes by engaging with different community members, and used those insights to create guidelines in a [short chapter](https://book.the-turing-way.org/community-handbook/contributing.html) in the Community Handbook.
 This chapter explains all the templates, contribution workflows and guidelines to use them in _The Turing Way_.
 This effort will ensure that the book has a cohesive narrative despite being written by a diverse group of authors from around the world.
 
@@ -63,7 +63,7 @@ The following GitHub pull requests and issues, and online content were developed
 | Designing templates     | [#1507](https://github.com/alan-turing-institute/the-turing-way/pull/1507), [#1571](https://github.com/alan-turing-institute/the-turing-way/pull/1571), [#1601](https://github.com/alan-turing-institute/the-turing-way/pull/1601)     |
 |Writing a contribution workflow Chapter| [#1646](https://github.com/alan-turing-institute/the-turing-way/pull/1646)|
 |Revising existing issue templates | [#1598](https://github.com/alan-turing-institute/the-turing-way/pull/1598) |
-| **PRs merged into online resources** | [Chapter on Templates and Workflow](https://the-turing-way.netlify.app/community-handbook/contributing.html), [Sets of templates](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/templates) |
+| **PRs merged into online resources** | [Chapter on Templates and Workflow](https://book.the-turing-way.org/community-handbook/contributing.html), [Sets of templates](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/templates) |
 
 ### 3. Improving the Overall Accessibility of the Online Book
 
@@ -76,7 +76,7 @@ Some of these issues also encourage contributors to write descriptive ALT text f
 This ensures that people using screen readers are able to understand the image's intended message. 
 
 Finally, I wrote custom CSS to create a better layout and responsive styling for tables and videos across the book. 
-Most importantly, I documented the use of custom CSS in a [chapter](https://the-turing-way.netlify.app/community-handbook/style/style-custom-styling.html) in the book's Community Handbook.
+Most importantly, I documented the use of custom CSS in a [chapter](https://book.the-turing-way.org/community-handbook/style/style-custom-styling.html) in the book's Community Handbook.
 
 The following GitHub pull requests and issues, and online content were developed to enhance book's accessibility:
 
@@ -85,7 +85,7 @@ The following GitHub pull requests and issues, and online content were developed
 | Responsive styling for tables     | [#1656](https://github.com/alan-turing-institute/the-turing-way/pull/1656)     |
 |Responsive styling for videos|[#1651](https://github.com/alan-turing-institute/the-turing-way/pull/1651)|
 |Resposive formatting for images|[Issue list](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aopen+is%3Aissue+author%3Apaulowoicho+myst)|
-| **PRs merged into online resources** | [Subchapter in style guide](https://the-turing-way.netlify.app/community-handbook/style/style-more-styling.html), [Subchapter on Stylesheets](https://the-turing-way.netlify.app/community-handbook/style/style-custom-styling.html) |
+| **PRs merged into online resources** | [Subchapter in style guide](https://book.the-turing-way.org/community-handbook/style/style-more-styling.html), [Subchapter on Stylesheets](https://book.the-turing-way.org/community-handbook/style/style-custom-styling.html) |
 
 ### Other Contributions
 Beyond my GSoD goals, I contributed to _The Turing Way_ project in other ways.
@@ -97,7 +97,7 @@ It allowed me to closely work with two members, Neha Moopen (Research Data Manag
     - [OLS and _The Turing Way_ projects](https://github.com/alan-turing-institute/the-turing-way/tree/main/open-life-science-mentoring)
 3. Some of Jupyter Book's powerful styling features are underutilised in _The Turing Way_. 
 I co-authored a subchapter in the Style Guide to make contributors aware of those features and use them in their contributions.
-    - [GitHub PR #1642](https://github.com/alan-turing-institute/the-turing-way/pull/1642) and [online chapter](https://the-turing-way.netlify.app/community-handbook/style/style-more-styling.html)
+    - [GitHub PR #1642](https://github.com/alan-turing-institute/the-turing-way/pull/1642) and [online chapter](https://book.the-turing-way.org/community-handbook/style/style-more-styling.html)
 3. Some of _The Turing Way_'s chapters are either incomplete or missing content and, for some readers, this impacts the overall reading experience. 
 I raised issues for other contributors to write content for those chapters and also completed a subchapter on Data Licensing that another contributor started.
     - [See GitHub Issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3Agsod2020)

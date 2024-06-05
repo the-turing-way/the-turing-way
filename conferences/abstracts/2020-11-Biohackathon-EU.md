@@ -26,7 +26,7 @@ Funders and different stakeholders of scientific projects are beginning to requi
 The goal is to ensure that all results can be independently verified and built upon in future work. 
 This is sometimes easier said than done. Sharing data and code in bioinformatics require a common understanding of the scientific concepts, data management, software development, and data sharing techniques: skills that are not widely taught or expected of academic researchers and bioinformaticians. 
 
-The Turing Way is an open-source, community-led, and collaboratively developed project on making data research accessible for a wider research community (https://the-turing-way.netlify.com). 
+The Turing Way is an open-source, community-led, and collaboratively developed project on making data research accessible for a wider research community (https://book.the-turing-way.org). 
 We bring together individuals from diverse fields and expertise to develop practices and learning resources that can make data research comprehensible and useful for everyone. 
 These resources are organised as book chapters online and all questions, comments, recommendations, and discussions are facilitated through an online GitHub repository (https://github.com/alan-turing-institute/the-turing-way).
 
@@ -48,7 +48,7 @@ Skills and contributions that we're looking for include, but are not limited to:
 - reviewing and editing of the current chapters on reproducibility, i.e. GitHub, git, Jupyter, Binder, continuous integration, license, FAIR principles, etc.
 - designing resources on science communication skills: skills in writing, editing, visualizing and sharing the scientific outcome
 - developing new chapters on topics such as project design, collaboration and data research skilled inspired by their projects
-- updating the interactivity of The Turing Way book (https://the-turing-way.netlify.com)
+- updating the interactivity of The Turing Way book (https://book.the-turing-way.org)
 - technical understanding of Jupyter book, Markdown, git, GitHub, Binder and online books will be useful - though not required.
 
 ### Keywords:

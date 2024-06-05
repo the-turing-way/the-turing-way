@@ -7,7 +7,7 @@ We have created the following checklists, which are chronologically structured t
 ## Before the Event
 
 - [ ] Finalise dates based on the location and core team’s availability
-- [ ] Set up a form (see a template [here](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-selection.html#ch-bookdash-application-additional-materials)) for application by updating the previous version of the form
+- [ ] Set up a form (see a template [here](https://book.the-turing-way.org/community-handbook/bookdash/bookdash-selection.html#ch-bookdash-application-additional-materials)) for application by updating the previous version of the form
 - [ ] Write a short description for online advertisement
 - [ ] Open a call for application as well as invite interest to join the committee
 - [ ] Establish a Book Dash Planning committee by inviting returning members of the event
@@ -31,7 +31,7 @@ We have created the following checklists, which are chronologically structured t
 - [ ] Send a reminder in next newsletters with more details if needed
 - [ ] Set an Eventbrite page with a registration code for the selected participants
 - [ ] Close the application round in time (minimum 1 month ahead of the event)
-- [ ] Set-up a form for reviewing applications (see [Rubrics for scoring applications](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-application.html#ch-bookdash-application-rubrics) for details)
+- [ ] Set-up a form for reviewing applications (see [Rubrics for scoring applications](https://book.the-turing-way.org/community-handbook/bookdash/bookdash-application.html#ch-bookdash-application-rubrics) for details)
 - [ ] Review applications in a designated panel (Book Dash Planning Committee) using Book Dash Rubrics for selection
 - [ ] Set up another meeting with the Book Dash Planning Committee to discuss the applications and finalise the selection
   - Use this meeting to also allocate tasks for during and after the event (indicate that on the GitHub issues)
@@ -39,7 +39,7 @@ We have created the following checklists, which are chronologically structured t
 - [ ] Send an email to the unselected attendees with feedback
 - [ ] Set up an email chain and a Slack channel to connect all members and share updates
 - [ ] Update presentation for introducing the project to the participants on day-1 of the Book Dash
-- [ ] Update shared HackMD for pre-event calls<ch-template-bookdash-precall>, [book dash event](https://the-turing-way.netlify.app/community-handbook/templates/template-bookdash-notes.html#ch-template-bookdash-notes) and [feedback](https://the-turing-way.netlify.app/community-handbook/templates/template-bookdash-feedback.html#ch-template-bookdash-feedback)
+- [ ] Update shared HackMD for pre-event calls<ch-template-bookdash-precall>, [book dash event](https://book.the-turing-way.org/community-handbook/templates/template-bookdash-notes.html#ch-template-bookdash-notes) and [feedback](https://book.the-turing-way.org/community-handbook/templates/template-bookdash-feedback.html#ch-template-bookdash-feedback)
 - [ ] Provide details on Code of Conduct, contribution guideline and ways to get involved in an ongoing discussion
 - [ ] Host the onboarding call one week before the event to share logistics and facilitate the drafting of SMART goals
 - [ ] Group participants into the proposed working groups as per their SMART goals from the onboarding call

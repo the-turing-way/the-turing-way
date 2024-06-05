@@ -27,8 +27,8 @@ We are delighted to announce that 12 project leads, who had joined the [Open Lif
 Three graduation calls will take place on 15, 16 and 17 December 2020, information for which is available on this HackMD: [https://hackmd.io/@ols-2/week-16](https://hackmd.io/@ols-2/week-16).
 
 -   **Group 1**: 15 December at 09:00 GMT: Kate Simpson ([Open-access-data-driven-retrofit-evaluation](https://katesimpson.github.io/Open-access-data-driven-retrofit-evaluation/)); David Beavan, Camila Rangel Smith, Sam Van Stroud and Kevin Xu ([Turing Data Stories](https://github.com/alan-turing-institute/TuringDataStories/))
--   **Group 2**: 16 December at 14:00 GMT: Ismael Kherroubi Garcia, Laura Carter and Sophia Batchelor ([Ethical Research Framework: The Turing Way](https://the-turing-way.netlify.app/ethical-research/ethical-research.html)); Markus Löning ([sktime - A Unified Framework for ML with Time Series](https://github.com/alan-turing-institute/sktime))
--   **Group 3**: 17 December at 17:30 GMT: Georgia Aitkenhead ([Autistica/Turing citizen science project](https://alan-turing-institute.github.io/AutisticaCitizenScience/)); Paul Owoicho and Neha Moopen ([Embedding Accessibility in The Turing Way guidance](https://the-turing-way.netlify.app/community-handbook/consistency.html))
+-   **Group 2**: 16 December at 14:00 GMT: Ismael Kherroubi Garcia, Laura Carter and Sophia Batchelor ([Ethical Research Framework: The Turing Way](https://book.the-turing-way.org/ethical-research/ethical-research.html)); Markus Löning ([sktime - A Unified Framework for ML with Time Series](https://github.com/alan-turing-institute/sktime))
+-   **Group 3**: 17 December at 17:30 GMT: Georgia Aitkenhead ([Autistica/Turing citizen science project](https://alan-turing-institute.github.io/AutisticaCitizenScience/)); Paul Owoicho and Neha Moopen ([Embedding Accessibility in The Turing Way guidance](https://book.the-turing-way.org/community-handbook/consistency.html))
 
 Thanks to Anjali Mazumdar, Arielle Bennett, Kirstie Whitaker, Sarah Gibson, Anelda van der Walt, Jez Cope, Martina Vilas, Samuel Guay and Yo Yehudi for mentoring these projects.
 

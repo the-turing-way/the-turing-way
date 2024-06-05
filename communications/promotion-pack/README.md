@@ -2,7 +2,7 @@
 
 
 ## What is The Turing Way?
-- A book: [https://the-turing-way.netlify.com/](https://the-turing-way.netlify.com/)
+- A book: [https://book.the-turing-way.org/](https://book.the-turing-way.org/)
 - An open source project: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
 - A community: *The Turing Way is an Open Source collaborative project that involves and supports its members of diverse skills and backgrounds to ensure that data science is accessible and useful for everyone.
 Its moonshot goal is to make reproducible research 'too easy not to do'.*
@@ -15,7 +15,7 @@ Its moonshot goal is to make reproducible research 'too easy not to do'.*
 - Members of [*The Turing Way* core team](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) are:
   - the members of the [Community Management](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research), Research Application Management and Project Management teams of the Tools, Practices and Systems research programme. 
   - in-kind contributors and community volunteers who engage with the project in a sustained manner, often leading on important tasks related to the project. 
-- All contributors of *The Turing Way* collaborate on GitHub to develop The Turing Way materials online and participate in the project in different capacities. You can learn about them in our [Record of Contributions](https://the-turing-way.netlify.app/afterword/contributors-record.html).
+- All contributors of *The Turing Way* collaborate on GitHub to develop The Turing Way materials online and participate in the project in different capacities. You can learn about them in our [Record of Contributions](https://book.the-turing-way.org/afterword/contributors-record.html).
 - Users: Hundreds of readers/users across the globe (average 3000 unique visitors monthly - as noted in April 2021).
 
 ## Important links:

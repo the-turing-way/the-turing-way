@@ -8,7 +8,7 @@
 - Affiliation: The Alan Turing Institute, London, UK
 - Funded by: The Tools, Practices and Systems Research Programme of The Alan Turing Institute
 - Dates of the project: Jan 2019 - Present
-- Webpage: [https://the-turing-way.netlify.app/welcome](https://the-turing-way.netlify.app/welcome) and [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) 
+- Webpage: [https://book.the-turing-way.org/welcome](https://book.the-turing-way.org/welcome) and [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) 
 - Reports drafted by Malvika Sharan and Anne Lee Steele
 
 ## General updates:
@@ -216,9 +216,9 @@ _The Turing Way_ team supported by the TPS Research Community Management team ho
 
 ### Chapters
 
-* **Team Manual:** Esther Plomp and Danny Garside worked with people at the Open Science Retreat to write a chapter about team manuals: [https://the-turing-way.netlify.app/collaboration/team-manual.html](https://the-turing-way.netlify.app/collaboration/team-manual.html)
-* **Unionisation:** Arielle Bennett updated the Unionisation sub-chapter to include unions in Argentina [https://the-turing-way.netlify.app/ethical-research/activism/activism-unionisation.html](https://the-turing-way.netlify.app/ethical-research/activism/activism-unionisation.html)
-* **Presenting About The Turing Way**: Co-written by Alden Conner, Emma Karoune, Sarah Gibson and Jim Madge described the process and resources for The Turing Way members to give conference presentations about The Turing Way [https://the-turing-way.netlify.app/community-handbook/presenting.html](https://the-turing-way.netlify.app/community-handbook/presenting.html)
+* **Team Manual:** Esther Plomp and Danny Garside worked with people at the Open Science Retreat to write a chapter about team manuals: [https://book.the-turing-way.org/collaboration/team-manual.html](https://book.the-turing-way.org/collaboration/team-manual.html)
+* **Unionisation:** Arielle Bennett updated the Unionisation sub-chapter to include unions in Argentina [https://book.the-turing-way.org/ethical-research/activism/activism-unionisation.html](https://book.the-turing-way.org/ethical-research/activism/activism-unionisation.html)
+* **Presenting About The Turing Way**: Co-written by Alden Conner, Emma Karoune, Sarah Gibson and Jim Madge described the process and resources for The Turing Way members to give conference presentations about The Turing Way [https://book.the-turing-way.org/community-handbook/presenting.html](https://book.the-turing-way.org/community-handbook/presenting.html)
 
 ## Articles/blogs/press releases published
 
@@ -259,7 +259,7 @@ _The Turing Way_ team supported by the TPS Research Community Management team ho
 
 ### New datasets created/accessed
 
-* **Book: **[https://the-turing-way.netlify.app](https://the-turing-way.netlify.app) and resources on GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
+* **Book: **[https://book.the-turing-way.org](https://book.the-turing-way.org) and resources on GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
 * The latest version v.1.1.0 of the entire repository was made in December: [https://github.com/alan-turing-institute/the-turing-way/releases/tag/v1.1.0](https://github.com/alan-turing-institute/the-turing-way/releases/tag/v1.1.0), which can be cited as The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research (Version 1.1.0) [https://doi.org/10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853)
 * All presentations from the community are published on the Zenodo community page for The Turing Way: [https://zenodo.org/communities/the-turing-way](https://zenodo.org/communities/the-turing-way)
 * A new set of illustrations from May and November’s Book Dash were published on Zenodo, which can be cited as The Turing Way Community, & Scriberia. (2023). Illustrations from The Turing Way: Shared under CC-BY 4.0 for reuse. Zenodo. [https://zenodo.org/records/8169292](https://zenodo.org/records/8169292) and [https://zenodo.org/record/7587336](https://zenodo.org/record/7587336).

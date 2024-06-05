@@ -27,7 +27,7 @@ This call is scheduled for the invited participants of the next Book Dash event 
 
 Please note that everyone who participates in _The Turing Way_ project is expected to abide by our [Code of Conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
 
-Please see more details on [the project](https://github.com/the-turing-way/the-turing-way), [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) and logistics details (shared by email before the event) for the upcoming book dash below the notes.
+Please see more details on [the project](https://github.com/the-turing-way/the-turing-way), [Book Dash](https://book.the-turing-way.org/community-handbook/bookdash.html) and logistics details (shared by email before the event) for the upcoming book dash below the notes.
 
 ### Agenda
 
@@ -125,7 +125,7 @@ Setting our personal goals will help us prepare better for your participation:
 
 Here are a few suggestions for a good first contributions:
 
-- Review an existing chapter by suggesting a few changes in [the book](https://the-turing-way.netlify.com) and/or [repository](https://github.com/the-turing-way/the-turing-way).
+- Review an existing chapter by suggesting a few changes in [the book](https://book.the-turing-way.org) and/or [repository](https://github.com/the-turing-way/the-turing-way).
 - Flag the unclear or duplicated information in the book by opening an [issue on the GitHub](https://github.com/the-turing-way/the-turing-way/issues).
 - Fix an [old issue](https://github.com/the-turing-way/the-turing-way/issues) or comment on the the [pull requests](https://github.com/the-turing-way/the-turing-way/pulls).
 - Write your personal experience of reproducible research in this [google form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).

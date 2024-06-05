@@ -15,7 +15,7 @@ This image was created by Scriberia for The Turing Way community and is used und
 ```
 
 One of the most common beliefs about Open Source is that it simply means "free" and therefore an open source project can never generate revenue or profit.
-The [definition](https://the-turing-way.netlify.app/reproducible-research/open.html) used by The Turing Way states that OSS should:
+The [definition](https://book.the-turing-way.org/reproducible-research/open.html) used by The Turing Way states that OSS should:
 >Be publicly available: It is difficult to use and benefit from knowledge hidden behind barriers such as passwords and paywalls.
 >
 
@@ -48,5 +48,6 @@ When considering whether a research output can develop into a self-sustaining pr
 - **Support**: Can the project respond to the needs of its user communities?
 
 It's ok if you don't have an answer to all of these questions! 
+
 These questions will help you identify your project's strengths and areas where you need help, and you can refer to this [list of spinout resources](https://github.com/alan-turing-institute/research-application-management/blob/main/resources/innovation/spinout_resources.md) for more information.
 You can also refer to the chapter on [Ethical Considerations for Open Source Governance Models in the Guide for Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethics-open-source-governance.html) for an ethical lens on governance frameworks for Open Source communities.
