@@ -1,6 +1,8 @@
 # Examples of Open Source Business Models
 
-Open source has been an important theme for AI communities in academia and industry. Popular open source software libraries like OpenCV and Scikit-Learn and open dataset and model providers like Hugging Face and Open AI have shaped how AI algorithms are discovered, improved, shared, and deployed. While each organisation pursued different paths towards sustainability, reflective of when they were founded, some themes emerge around important initial steps.
+Open source has been an important theme for AI communities in academia and industry. 
+Popular open source software libraries like [OpenCV](https://opencv.org/) and [Scikit-Learn](https://scikit-learn.org/), and open dataset and model providers like [Hugging Face](https://huggingface.co/) and [OpenAI](https://openai.com/) have shaped how AI algorithms are discovered, improved, shared, and deployed. 
+While each organisation pursued different paths towards sustainability, reflective of when they were founded, some themes emerge around important initial steps.
  
 ## Community-led Sustainability Model
 Of the four organisations of focus in this case study, OpenCV and Scikit-Learn started as community-driven projects. 
