@@ -4,7 +4,7 @@
 ---
 height: 400px
 name: practitioners-hub-experts
-alt: Cartoon-like sketch with text at the top in an arc reading 'the practitioners hub: experts in residence'. The Turing Way logo features in the centre. Around the logo is a thick oval with different colour bands, each with an image. Thes include: a heart, a tree, a car, a spanner, a lightning bolt, a paint palete and a graph. Around the edge of the circle are lots of colourful stick figures interacting with each other in groups. Some appear to be talking, some shaking hands etc. 
+alt: Cartoon-like sketch with text at the top in an arc reading 'the practitioners hub: experts in residence'. The Turing Way logo features in the centre. Around the logo is a thick oval with different colour bands, each with an image. Thes include: a heart, a tree, a car, a spanner, a lightning bolt, a paint palete and a graph. Around the edge of the circle are lots of colourful stick figures interacting with each other in groups. Some appear to be talking, some shaking hands... 
 ---
 Practitioners' hub experts. 
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
