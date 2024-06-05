@@ -6,7 +6,8 @@ Here are some main ideas from this chapter on examining power.
 
 (er-data-feminism-c1-keypoints)=
 ## Key Points
-- **Understanding Influence**: It is essential to recognize how racism, sexism, and privilege shape oppression.
+
+- **Understanding Influence**: It is essential to recognise how racism, sexism, and privilege shape oppression.
 - **Naming Oppression**: Examining power involves identifying and explaining the oppressive forces ingrained in our daily lives.
 
 (er-data-feminism-c1-powerdomains)=
