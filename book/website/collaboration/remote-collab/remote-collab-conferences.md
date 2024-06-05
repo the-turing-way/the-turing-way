@@ -316,7 +316,7 @@ Pre-event surveys can be used to manage day-to-day work with the organisers, inv
 Post-event surveys are used for gathering feedback from everyone regarding their experience from past events and suggestions to improve future events.
 
 - [Google Form](https://en.wikipedia.org/wiki/Google_Forms): Google Forms is a survey administration software that allows data collection that can be automatically entered into a spreadsheet.
-- [Survey Monkey](https://www.surveymonkey.com/): This is one of the most popular tool, available with limited features (10 questions and 100 respondents for free) and provides many features including templates for the paid version.
+- [Survey Monkey](https://www.surveymonkey.com/): This is one of the most popular tools, available with limited features (10 questions and 100 respondents for free) and provides many features including templates for the paid version.
 - [Typeform](https://www.typeform.com/surveys/): Allows developing surveys in a more creative manner. The free version can be used only for a small group.
 
 
