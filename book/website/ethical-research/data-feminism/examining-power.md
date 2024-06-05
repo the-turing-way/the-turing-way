@@ -71,7 +71,7 @@ The essence of examining power is not only to understand power but also to chall
 
 (er-data-feminism-c1-reading)=
 ## Further Reading
+
 - **[Algorithms of Oppression by Safiya Umoja Noble](https://www.goodreads.com/book/show/34762552-algorithms-of-oppression)**: Explores how gender and racial biases in information systems are complex and often rooted in the data and models created by small, homogenous groups.
 - **[Artificial Unintelligence by Meredith Broussard](https://www.goodreads.com/book/show/36722634-artificial-unintelligence)**: Goes into the limitations and misunderstandings embedded within AI systems.
 - **[Invisible Women by Caroline Criado Pérez](https://www.goodreads.com/book/show/41104077-invisible-women)**: Discusses gender biases in data.
-
