@@ -45,7 +45,7 @@ Previous Book Dash attendees are also invited to express their interest to join 
 
 *You can use [the template document](https://tinyurl.com/tw-bookdash-template) to prepare your draft.* 
 
-Learn more about the [Book Dash and the application process](https://the-turing-way.netlify.app/community-handbook/bookdash.html).
+Learn more about the [Book Dash and the application process](https://book.the-turing-way.org/community-handbook/bookdash.html).
 
 **The deadline for  submission is 3 April 2023** (midnight anywhere in the world) .
 
@@ -288,7 +288,7 @@ Science results that you share with them **by 4 April 2023 have the best chance 
 You are welcome to join *The Turing Way* community, and learn more about the project.
 
 * [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
-* [_The Turing Way_ book](https://the-turing-way.netlify.com)
+* [_The Turing Way_ book](https://book.the-turing-way.org)
 * [Welcome Page](https://the-turing-way.start.page/) (A great place to start!)
 * [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 * [Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)

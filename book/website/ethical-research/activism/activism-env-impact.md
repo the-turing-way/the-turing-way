@@ -104,7 +104,7 @@ For the Summit supercomputer it is known that about 63.8% of the power is consum
 Another way of reducing energy usage is to avoid running task unnecessarily. Some examples include:
 
 
-* Running CI[[https://the-turing-way.netlify.app/reproducible-research/ci/ci-options.html](https://the-turing-way.netlify.app/reproducible-research/ci/ci-options.html)] only when it is useful. For example: do not run unit tests when changes are made in the documentation and not on the code. 
+* Running CI[[https://book.the-turing-way.org/reproducible-research/ci/ci-options.html](https://book.the-turing-way.org/reproducible-research/ci/ci-options.html)] only when it is useful. For example: do not run unit tests when changes are made in the documentation and not on the code. 
 * If you do test-driven development, run only tests that have previously failed. In this way you do not need to test code which you already know has been tested. You can use this GH action for limiting when tests (pytest) are run: [https://github.com/marketplace/actions/pytest-last-failed](https://github.com/marketplace/actions/pytest-last-failed) 
 * Run CI with smaller datasets.
 

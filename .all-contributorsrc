@@ -2143,7 +2143,8 @@
         "infra",
         "review",
         "maintenance",
-        "doc"
+        "doc",
+        "eventOrganizing"
       ]
     },
     {
@@ -2644,7 +2645,8 @@
         "content",
         "translation",
         "review",
-        "ideas"
+        "ideas",
+        "eventOrganizing"
       ]
     },
     {
@@ -3318,7 +3320,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/8833517?v=4",
       "profile": "http://www.svrijn.nl",
       "contributions": [
-        "bug"
+        "bug",
+        "content"
       ]
     },
     {
@@ -4565,6 +4568,97 @@
       "profile": "http://cghlewis.com",
       "contributions": [
         "bug"
+      ]
+    },
+    {
+      "login": "richarddushime",
+      "name": "Richard Dushime",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45734838?v=4",
+      "profile": "http://richarddushime.netlify.app/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "gedankenstuecke",
+      "name": "Bastian Greshake Tzovaras",
+      "avatar_url": "https://avatars.githubusercontent.com/u/674899?v=4",
+      "profile": "https://tzovar.as",
+      "contributions": [
+        "eventOrganizing",
+        "review"
+      ]
+    },
+    {
+      "login": "k8hertweck",
+      "name": "Kate Hertweck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1678233?v=4",
+      "profile": "http://katehertweck.com",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "emmyft",
+      "name": "Emmy Tsang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24935760?v=4",
+      "profile": "https://emmyft.github.io",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "lubianat",
+      "name": "Tiago Lubiana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7917951?v=4",
+      "profile": "https://github.com/lubianat",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "humbertodebat",
+      "name": "Humberto Debat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55153399?v=4",
+      "profile": "https://github.com/humbertodebat",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "melissawm",
+      "name": "Melissa Weber Mendonça",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3949932?v=4",
+      "profile": "http://melissawm.github.io",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "dpshelio",
+      "name": "David Pérez-Suárez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/963242?v=4",
+      "profile": "http://dpshelio.github.io",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "IshanG97",
+      "name": "IshanG97",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32465586?v=4",
+      "profile": "https://github.com/IshanG97",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "AoifeHughes",
+      "name": "Aoife",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10923695?v=4",
+      "profile": "https://github.com/AoifeHughes",
+      "contributions": [
+        "review"
       ]
     }
   ],

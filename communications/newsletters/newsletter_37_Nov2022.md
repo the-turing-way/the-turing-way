@@ -32,7 +32,7 @@ Image used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://zeno
 
 ### Book Dash, Community Share-outs, and GitHub Training Session 📚💨
 
-**The 8th annual Book Dash will be happening from 14-18 November.** We're excited to welcome newcomers and returnees for a week of collaboration and coworking! [Book Dashes](https://the-turing-way.netlify.app/community-handbook/bookdash.html) are an important space where our community comes together to write chapters in _The Turing Way_, work on new projects, do focused work, and learn from each other. 
+**The 8th annual Book Dash will be happening from 14-18 November.** We're excited to welcome newcomers and returnees for a week of collaboration and coworking! [Book Dashes](https://book.the-turing-way.org/community-handbook/bookdash.html) are an important space where our community comes together to write chapters in _The Turing Way_, work on new projects, do focused work, and learn from each other. 
 While most of our working sessions will take place online, we will continue to pilot a hybrid and hub model next week!
 
 *While Book Dash will be attended by invited participants, we will be hosting several public events listed below.*
@@ -81,7 +81,7 @@ There won't be an office hour during the Book Dash week.
 
 *49 diverse members from over 10 communities co-organised the Fireside Chats in 2021-2022.*
 
-**The first round of the Fireside Chat series concluded last month!** This [series was started](https://the-turing-way.netlify.app/community-handbook/fireside-chat.html) to bring together diverse perspectives and catalyse cross-community collaborations across community-oriented projects in the open science ecosystem.
+**The first round of the Fireside Chat series concluded last month!** This [series was started](https://book.the-turing-way.org/community-handbook/fireside-chat.html) to bring together diverse perspectives and catalyse cross-community collaborations across community-oriented projects in the open science ecosystem.
 
 Beginning with our inaugural Fireside Chat about ["What is _The Turing Way_?"](https://www.youtube.com/watch?v=nuNA3Qa8A-k) featuring co-leads Kirstie Whitaker and Malvika Sharan with Cassandra D. Gould van Praag, these conversations have focused on all sorts of topics related to open science: from open hardware to citizen science, open infrastructure to translation and localisation, to community building and sustainability more broadly. 
 
@@ -123,7 +123,7 @@ Thank you!
 
 Vrije Universiteit (VU) Amsterdam has been added as an official collaborator to _The Turing Way_ community. 
 Thank you so much to Lena Karvovskaya for stewarding contributions to _The Turing Way_ (she is a co-author of the Peer Review chapter). 
-Learn more about VU Amsterdam in the [Record of Contributors](https://the-turing-way.netlify.app/afterword/contributors-record.html#vrije-universiteit-amsterdam). 
+Learn more about VU Amsterdam in the [Record of Contributors](https://book.the-turing-way.org/afterword/contributors-record.html#vrije-universiteit-amsterdam). 
 
 ## Chapters and Collaborations in Progress
 
@@ -132,20 +132,20 @@ Learn more about VU Amsterdam in the [Record of Contributors](https://the-turing
 A bunch of new chapters have been added to _The Turing Way_ over the past few months, related to a wide variety of ongoing and emergent topics across data science and open research. 
 Congratulations to the writers and reviewers that made it happen!
 
-* **[Research Infrastructure Developers Summary](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/research-infrastructure-developer.html)**: Owain Kenway recently added a summary of the Research Infrastructure Developers' role to the Research Infrastructure Roles subchapter. 
+* **[Research Infrastructure Developers Summary](https://book.the-turing-way.org/collaboration/research-infrastructure-roles/research-infrastructure-developer.html)**: Owain Kenway recently added a summary of the Research Infrastructure Developers' role to the Research Infrastructure Roles subchapter. 
 Owain leads a team of RIDs at UCL - so far the only institution to host them. 
 We're excited to codify this emergent role within _The Turing Way_. 
-* **[Machine Learning Model Licences](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-ml.html )**: **Jennifer Ding** and **Carlos Muñoz Ferrandis** collaborated to write a sub-chapter on [machine learning model licenses](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-ml.html) which includes a case study based on concerns raised through the license selection process during BigScience 
+* **[Machine Learning Model Licences](https://book.the-turing-way.org/reproducible-research/licensing/licensing-ml.html )**: **Jennifer Ding** and **Carlos Muñoz Ferrandis** collaborated to write a sub-chapter on [machine learning model licenses](https://book.the-turing-way.org/reproducible-research/licensing/licensing-ml.html) which includes a case study based on concerns raised through the license selection process during BigScience 
 Thank you to Arron Lacey, Sophia Batchelor, and Anne Lee Steele for reviewing. 
-* **[Personal Story for RSE Asia](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/rse-personal-story.html)**: Saranjeet Kaur added her personal story as an RSE to the Research Infrastructure Roles sub-chapter. 
+* **[Personal Story for RSE Asia](https://book.the-turing-way.org/collaboration/research-infrastructure-roles/rse-personal-story.html)**: Saranjeet Kaur added her personal story as an RSE to the Research Infrastructure Roles sub-chapter. 
 Thank you to Kim Martin, Esther Plomp, and Malvika Sharan for reviewing.
 * **Sensitive Data**: Over the number of few years, an extensive set of subchapters has emerged around sensitive data. 
-There are three sections: [about sensitive data](https://the-turing-way.netlify.app/project-design/sdp.html), [managing a sensitive data project](https://the-turing-way.netlify.app/project-design/sdpm.html), and [working on sensitive data projects](https://the-turing-way.netlify.app/project-design/sdpw.html). 
+There are three sections: [about sensitive data](https://book.the-turing-way.org/project-design/sdp.html), [managing a sensitive data project](https://book.the-turing-way.org/project-design/sdpm.html), and [working on sensitive data projects](https://book.the-turing-way.org/project-design/sdpw.html). 
 Congratulations to Emma Karoune, Maria Eriksson and many others for co-authoring a new chapter on project design!
-* **[Ethical Considerations when Choosing an Open Source Governance Model](https://the-turing-way.netlify.app/ethical-research/ethics-open-source-governance.html)**: Arielle Bennett added a speedblog co-written with Yo Yehudi, Gemma Turon, Declan Bays, Sarah Gibson, Stephan Druskat, Yadira Sanchez and Sophia Batchelor at Collaborations Workshop. 
+* **[Ethical Considerations when Choosing an Open Source Governance Model](https://book.the-turing-way.org/ethical-research/ethics-open-source-governance.html)**: Arielle Bennett added a speedblog co-written with Yo Yehudi, Gemma Turon, Declan Bays, Sarah Gibson, Stephan Druskat, Yadira Sanchez and Sophia Batchelor at Collaborations Workshop. 
 This new sub-chapter is in the Guide for Ethical Research.
-* **[Data Papers](https://the-turing-way.netlify.app/communication/dif-articles/data.html?highlight=data%20papers)**: Emma Karoune and Vicky Hellon co-wrote an article about Data Papers: describing both what they are and how to write them, available under the Publishing Different Article Types subchapter. 
-* **[Peer Review](https://the-turing-way.netlify.app/communication/peer-review.html )**: Lena Karvovskaya added a new chapter related to peer review, making explicit a process that many researchers tend to learn through informal methods. 
+* **[Data Papers](https://book.the-turing-way.org/communication/dif-articles/data.html?highlight=data%20papers)**: Emma Karoune and Vicky Hellon co-wrote an article about Data Papers: describing both what they are and how to write them, available under the Publishing Different Article Types subchapter. 
+* **[Peer Review](https://book.the-turing-way.org/communication/peer-review.html )**: Lena Karvovskaya added a new chapter related to peer review, making explicit a process that many researchers tend to learn through informal methods. 
 You can find it in the Guide for Communication.
 
 ### Help needed
@@ -286,7 +286,7 @@ You are welcome to join *The Turing Way* community, and learn more about the pro
 We host [Community Co-working calls](https://hackmd.io/@turingway/coworking-call) on Mondays, [Collaboration Cafes](https://hackmd.io/@turingway/collaboration-cafe) every first and third Wednesdays, Office Hours every Friday and Fireside chats monthly.
 
 *   [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
-*   [_The Turing Way_ book](https://the-turing-way.netlify.com)
+*   [_The Turing Way_ book](https://book.the-turing-way.org)
 *   [HackMD Intro Page](https://hackmd.io/@turingway/demo-intro)
 *   [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 *   [Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)

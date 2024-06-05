@@ -145,7 +145,7 @@ DMP
 
 DNS
   Domain Name System.
-  The system which translates domain names, for example the-turing-way.netlify.app, to the IP addressess used by computer networks.
+  The system which translates domain names, for example book.the-turing-way.org, to the IP addressess used by computer networks.
 
 Docker Container
   An active computational environment executed from a Docker image.
@@ -442,6 +442,9 @@ Persona Canvas
 
 Phony Target
   A phony target is one that doesn’t correspond to a file on the filesystem. A target is marked as phony by making it a prerequisite of the .PHONY target.
+
+Plain Language
+  Plain Language (also sometimes referred to as Plain writing or Plain English) is language and communication that your audience can understand the first time they read or hear it. Plain Language is defined by clear, straightforward communication that uses only as many words as are necessary to ensure that your audience understands the message easily. Most newspapers are written using plain language.
 
 Positionality
  Differences in social position and power shape identities and access in society. In acknowledging positionality, we also acknowledge intersecting social locations and complex power dynamics (also see: Intersectionality).

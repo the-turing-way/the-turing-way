@@ -3,7 +3,7 @@
 
 ## The Turing Way Book Dash, 13-17 November 2023: Overview and Report
 
-*[Read more about The Turing Way Book Dash here](https://the-turing-way.netlify.app/community-handbook/bookdash.html)*
+*[Read more about The Turing Way Book Dash here](https://book.the-turing-way.org/community-handbook/bookdash.html)*
 
 We are delighted to share that the tenth Book Dash was hosted successfully from 13 to 17 November 2023 with 32 participants.
 
@@ -35,7 +35,7 @@ Anne Lee Steele (\*), Alejandro Coca-Castro, Alexandra Araujo Alvarez (\*), Arie
 It is called a Dash (instead of a Book Sprint), because it aims to be a short event. 
 During the Book Dash participants collaboratively work on *The Turing Way* book to propose new topics, discuss ideas, develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date. 
 Participants can also contribute to improving the ways we work in the community and take the lead on accomplishing different tasks or subprojects. 
-For more information, look at: [The Turing Way Book Dashes](https://the-turing-way.netlify.app/community-handbook/bookdash.html).
+For more information, look at: [The Turing Way Book Dashes](https://book.the-turing-way.org/community-handbook/bookdash.html).
 
 ### Format of the event
    * The November edition of Book Dash featured 17 invited contributors, 12 committee members, two external facilitators, 14 online working sessions, four discussions and social events, and two community share-outs.
@@ -52,7 +52,7 @@ For more information, look at: [The Turing Way Book Dashes](https://the-turing-w
        * Previous attendees and long-term members of the community were also invited to sign up as mentors for new contributors and session leads as part of the application process.
    * Applicants were asked to describe what they wanted to contribute to the Turing Way during the Book Dash, and how they would collaborate and engage with other participants.
    * To get a sense of the time zones these applicants came from, we asked them to choose their preferred slots. 
-   * The Book Dash Planning Committee used the [rubrics](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-application#rubrics-for-scoring-applications) to score the applications during the review. They met online to discuss applications, frame feedback and conclude their selection process.
+   * The Book Dash Planning Committee used the [rubrics](https://book.the-turing-way.org/community-handbook/bookdash/bookdash-application#rubrics-for-scoring-applications) to score the applications during the review. They met online to discuss applications, frame feedback and conclude their selection process.
    * In the future, applications will include a wider range of timeslots for participation, and may also benefit from additional explanations of the type of work which is completed during a Book Dash. 
 
 ### Hosting sessions 
@@ -115,10 +115,10 @@ It is only with their help, we can host the next event in June 2024 taking caref
 ### **New chapters published in The Turing Way book**
    * [Data Feminism Landing Page](https://github.com/the-turing-way/the-turing-way/pull/3417) (https://github.com/the-turing-way/the-turing-way/pull/3417)
    * [Finding data](https://github.com/the-turing-way/the-turing-way/pull/3369) (https://github.com/the-turing-way/the-turing-way/pull/3369)
-   * [Patent and trademark sub-chapter](https://the-turing-way.netlify.app/reproducible-research/licensing.html?highlight=patent%20trademark#patents) to licening section 
+   * [Patent and trademark sub-chapter](https://book.the-turing-way.org/reproducible-research/licensing.html?highlight=patent%20trademark#patents) to licening section 
 
 ### **Existing chapters updated during the Book Dash**
-   *  Research Data Management chapter had new resources added to it, as well as new sections on [methods and protocols](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-methods), [data visualisation](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-visualisation), [data repositories](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-repository) and [finding data](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-find).
+   *  Research Data Management chapter had new resources added to it, as well as new sections on [methods and protocols](https://book.the-turing-way.org/reproducible-research/rdm/rdm-methods), [data visualisation](https://book.the-turing-way.org/reproducible-research/rdm/rdm-visualisation), [data repositories](https://book.the-turing-way.org/reproducible-research/rdm/rdm-repository) and [finding data](https://book.the-turing-way.org/reproducible-research/rdm/rdm-find).
    * The Translation and localisation chapter in the Community handbook received some updates by María Nanton to add more detail to the use of glossaries in the translation workflow and to bring some key documentation that was in Crowdin to the main guide. Some links were made to other chapters in the book to integrate good practices when creating or updating content: in the style guide, a call to write "localisable" content was added–so that the original text in English is easy to translate–and an invitation to improve and update Alt-text that might be incomplete before translating it. The Spanish-specific translation guidelines were also created. Merged PR [https://github.com/the-turing-way/the-turing-way/pull/3431](https://github.com/the-turing-way/the-turing-way/pull/3431).
    * Added [new resources](https://github.com/the-turing-way/the-turing-way/pull/3412) to Open Education.
    * Project design guide updates [https://github.com/the-turing-way/the-turing-way/pull/3412](https://github.com/the-turing-way/the-turing-way/pull/3412).
@@ -146,7 +146,7 @@ It is only with their help, we can host the next event in June 2024 taking caref
 
    * Name: Jen
        * Links to Issues and PR: 
-           * The [BigCode Data Governance Case Study](https://the-turing-way.netlify.app/project-design/data-governance/bigcode_casestudy) is live now! (Thanks to Kalle, Esther, and Anne!)
+           * The [BigCode Data Governance Case Study](https://book.the-turing-way.org/project-design/data-governance/bigcode_casestudy) is live now! (Thanks to Kalle, Esther, and Anne!)
            * [#3411](https://github.com/the-turing-way/the-turing-way/issues/3411) 
        * ASK: A future review after this draft case study is further along...
   
@@ -279,7 +279,7 @@ We greatly appreciate the work that our attendees have accomplished in the proje
 
    * Represent *The Turing Way* in your community/conference, see our promotion pack
    * Attend a synchronous coworking such as online Collaboration Cafes take place every first and second Wednesday from 15:00 to 17:00 London time. Or weekly Coworking call every Monday from 11:00 - 12:00 London time.
-        * [Host one of these calls](https://the-turing-way.netlify.app/community-handbook/coworking.html)
+        * [Host one of these calls](https://book.the-turing-way.org/community-handbook/coworking.html)
    * Attend a [fireside chat](https://hackmd.io/@turingway/fireside-chats), speak at one, or organise one in your community
    * Contribute new topics or review open pull requests
    * Wondering where to start? Join us on social media platforms or [connect in other ways](https://the-turing-way.start.page/).
