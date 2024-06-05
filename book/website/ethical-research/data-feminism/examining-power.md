@@ -64,6 +64,7 @@ The essence of examining power is not only to understand power but also to chall
 
 (er-data-feminism-c1-casestudies)=
 ## Case Studies
+
 - **[Serena Williams and the Healthcare System](https://edition.cnn.com/2018/02/20/opinions/protect-mother-pregnancy-williams-opinion/index.html)**: Illustrates racial bias in healthcare.
 - **[Joy Buolamwini and MIT's Facial Recognition System](https://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212)**: Highlights issues of bias in technology.
 - **[CloudWalk and Zimbabwe](https://qz.com/africa/1287675/china-is-exporting-facial-recognition-to-africa-ensuring-ai-dominance-through-diversity)**: Raises ethical concerns about data sharing and human rights.
