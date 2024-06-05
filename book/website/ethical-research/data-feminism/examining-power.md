@@ -28,8 +28,9 @@ Dimensions such as gender, race, sexuality, geography, and ability can lead to u
 (er-data-feminism-c1-questions)=
 ## Critical Questions
 To understand how power unfolds in and around data, consider:
+
 1. **Who is engaged in data science work (and who is not)?**
-2. **Whose goals are prioritized in data science (and whose are not)?**
+2. **Whose goals are prioritised in data science (and whose are not)?**
 3. **Who benefits from data science (and who is overlooked or harmed)?**
 
 These questions are uncomfortable but necessary as they reveal that certain groups disproportionately benefit from data science while others are disproportionately harmed.
