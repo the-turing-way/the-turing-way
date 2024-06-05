@@ -11,7 +11,7 @@ For information specific to open source software, [this](https://opensource.guid
 For more information on DOIs and citing resources look [here](http://www.doi.org/index.html).
 
 If you want to take a look at an active open source project, this textbook *is* one.
-The source can be found on GitHub [here](https://github.com/alan-turing-institute/the-turing-way), and for further details related to this project, you can take a look at the project [website](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science).
+The source can be found on GitHub [here](https://github.com/the-turing-way/the-turing-way), and for further details related to this project, you can take a look at the project [website](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science).
 
 (rr-open-resources-references)=
 ## References

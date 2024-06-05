@@ -3,180 +3,72 @@
 
 *Welcome to The Turing Way handbook to reproducible, ethical and collaborative data science.*
 
-_The Turing Way_ is an open source, open collaboration, and community-driven project. 
-We involve and support a diverse community in making data science accessible, comprehensible and effective for everyone.
+_The Turing Way_ project is open source, open collaboration, and community-driven.
+We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone.
+Our goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.
 
-::::{grid} 1 1 2 3
-:class-container: text-left
-:gutter: 3
-
-:::{grid-item-card}
-:link: basics/organize
-:link-type: doc
-:class-header: bg-light
-
-
-🎯 **Overview**
-^^^
-```{dropdown} Click here to read
-_The Turing Way_ is:
-* a handbook,
-* a community,
-* a global collaboration
-
-Our moonshot goal is to make reproducibility 
-*'too easy not to do'*!
-
-Read {ref}`Foreword Section<fw>` for the project details.
-```
-:::
-
-:::{grid-item-card}
-:link: content/myst
-:link-type: doc
-:class-header: bg-light
-
-📚 **Handbook** 
-^^^
-```{dropdown} Click here to read
-_The Turing Way_ Guides for:
-* {ref}`Reproducible Research<rr>`
-* {ref}`Project Design<pd>`
-* {ref}`Communications<cm>`
-* {ref}`Collaboration<cl>`
-* {ref}`Ethical Research<er>`
-* {ref}`Community Handbook<ch>`
-```
-:::
-
-:::{grid-item-card}
-:link: content/executable/index
-:link-type: doc
-:class-header: bg-light
-
-💐 **Community**
-^^^
-```{dropdown} Click here to read
-We are a community of learners, educators, 
-researchers, industry professionals, policymakers
-and contributors from different interests, backgrounds 
-and domain expertise in data science.
-
-* {ref}`Community Handbook<ch>`
-* {ref}`Afterword Section<aw>` for contributors details.
-```
-:::
-
-:::{grid-item-card}
-:link: interactive/launchbuttons
-:link-type: doc
-:class-header: bg-light
-
-👋 **Connect**
-^^^
-```{dropdown} Click here to read
-* [Slack Workspace](https://tinyurl.com/jointuringwayslack)
-* [Newsletters](http://tinyletter.com/TuringWay) 
-* [Community events](https://docs.google.com/spreadsheets/d/1C-VZvmFL4PnSBsv_G9ZD3dwjIYLno3NyL7oHvbplnWs/edit?usp=sharing)
-* [Good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-* {ref}`a chapter<ch-contributing>`
-* Join a {ref}`Working Group<fw-governance>`
-```
-:::
-
-:::{grid-item-card}
-:link: publish/web
-:link-type: doc
-:class-header: bg-light
-
-🤝 **Participate**
-^^^
-```{dropdown} Click here to read
-We value your participation and all kinds of contributions!
-Follow our:
-* [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md)
-* {ref}`Code of Conduct<ch-coc>`
-* {ref}`Community Roles<fw-community-roles>`
-* {ref}`Acknowledgement Process<ch-acknowledgement-members>`
-```
-:::
-
-:::{grid-item-card}
-:link: content/components
-:link-type: doc
-:class-header: bg-light
-
-⭐ **Cite us**
-^^^
-```{dropdown} Click here to read
-The Turing Way Community. (2022). The Turing Way: 
-A handbook for reproducible, ethical and collaborative 
-research (1.0.2). Zenodo. [DOI 10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853)
-
-Read details in {ref}`citation<fw-cite-us>` chapter.
-```
-:::
-
-::::
-
-(welcome-community)=
-## _The Turing Way_ Community
-
-_The Turing Way_ is developed, maintained and driven by our wonderful {ref}`community of contributors<contributors-record-highlights>`.
-
-All stakeholders, including researchers, software engineers, project leaders and funding teams, are encouraged to engage with _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
-Our goal is to provide all the information that professional and non-professional data experts in **academia, industry and the public sector** need to ensure that the projects they work on are easy to reproduce and reuse.
-
-Everyone who contributes to this book, no matter how small or big their contributions are, is recognised in this project as a contributor and a community member. 
-
-(welcome-reader)=
-### Top Tips for Readers, Editors, Presenters
-
-```{admonition}
+```{admonition} Top Tip
 :class: tip
-_The Turing Way_ book is not meant to be read from start to finish.
+_The Turing Way_ is not meant to be read from start to finish.
 Start with a concept, tool or method that you need now, in your current work.
 Browse the different guides that make up the book, or use the search box to search for whatever you would like to learn about first.
 ```
 
-**Want to dive right into editing the book?** 
-Check out [issues](https://github.com/alan-turing-institute/the-turing-way/issues) and [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls) on the GitHub repository. 
-Use the various tags to navigate different topics to collaborate on - "good first issue" or "good first PR" are a great place to start.
-Get started by reading {ref}`Contribution and Development<ch-contributing>` chapters in the Community Handbook.
+All stakeholders, including researchers, software engineers, project leaders and funding teams, are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
+You can inspect our resources on [GitHub](https://github.com/the-turing-way/the-turing-way), contribute to the project as described in our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
 
-**Want to give a Turing Way talk this year?** 
-We would love to support you in representing _The Turing Way_ at an event or share about the project in your network and communities.
-We have put together resources described in the {ref}`ch-presenting` chapter to get you started. 
+In the {ref}'Foreword Section<fw>' of this book, we provide meta-level information about _The Turing Way_, including guidance on how to use and navigate this book and participate in the community.
 
-(welcome-team)=
-## _The Turing Way_ Project Team
-
-Hosted under the [Tools, Practices and Systems Research Programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems), _The Turing Way_ project receives support and funding from [The Alan Turing Institute](https://www.turing.ac.uk/) and is hosted under the [Tools, Practices and Systems programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) and co-led by **Drs. Kirstie Whitaker** and **Malvika Sharan**.
-The project is coordinated and managed by the Research Community Manager **Anne Lee Steele** and Research Project Manager **Alexandra Araujo Alvarez**.
-
-The project’s governance is represented by a [core team of 30+ members](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) that includes the project team, volunteer members and TPS researchers taking community governance roles.
-The book has been co-authored by more than 400 project contributors dedicated to sharing and facilitating research best practices, tools and infrastructure.
-Several of these members take on non-governance roles in _The Turing Way_ project and our community.
-
-Together, we are dedicated to supporting your work in advancing collaborative, reusable and transparent research practices for data science.
-This means bringing together people with diverse perspectives, socio-technical skills and lived experiences to build something more significant than any individual could deliver alone.
-
-### 💌 Get in Touch
-
-Contact _The Turing Way_ team by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
-Please use this email to also report any Code of Conduct-related report, any ideas or suggestions for improvements and formal communications. 
-
-You can directly contact the team members individually by emailing Kirstie Whitaker ([kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)), Malvika Sharan ([msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)), Anne Lee Steele ([asteele@turing.ac.uk](mailto:asteele@turing.ac.uk)) and Alexandra Araujo Alvarez ([aaraujo.alvarez@turing.ac.uk](mailto:aaraujo.alvarez@turing.ac.uk)).
+The book is collaboratively written and open from the start.
+Please [join our Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw) to connect and discuss your ideas and [subscribe to our newsletter](https://buttondown.email/turingway) to follow updates from our community.
 
 ```{figure} figures/theturingway-pathway.*
 ---
-width: 500px
 name: welcome-image
 alt: The Turing Way project is illustrated as a road or path with shops for different data science skills. People can go in and out with their shopping cart and pick and choose what they need.
 ---
 _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 ```
+## Different Pathways
 
-*Everything here is available for free under a [CC-BY licence](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md).
+(welcome-community)=
+## Our Community
+
+_The Turing Way_ community is dedicated to making collaborative, reusable and transparent research "too easy not to do".
+That means investing in the socio-technical skills required to work in a team, to build something more significant than any individual could deliver alone.
+
+_The Turing Way_ is:
+
+* a book
+* a community
+* a global collaboration
+
+We hope you find the content in the book helpful.
+Everything here is available for free under a [CC-BY licence](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md).
 Please use and re-use whatever you need, for any purpose.
-We hope you find the content in the book helpful.*
+
+_The Turing Way_ receives support and funding from [The Alan Turing Institute](https://www.turing.ac.uk/), however, the project is designed to be a global collaboration.
+We have contributions from across the UK, and from India, Mexico, Australia, USA, and many European countries.
+Chapters have been written, reviewed and curated by members of research institutes and universities, government departments, and industry.
+We are committed to creating a space where people with diverse expertise and lived experiences can share their knowledge with others to allow us all to use data science to improve the world.
+
+```{admonition} Translation
+:class: tip
+Call for translators! We’re looking for contributors to help translate this space for everyone! Read more about our translation workflow and how you can contribute to it in the {ref}`translation chapter<ch-translation>`.
+```
+
+We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
+Accordingly, everyone who participates in _The Turing Way_ project is expected to show respect and courtesy to other community members at all times.
+All contributions must abide by our [code of conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
+
+<video controls loop autoplay muted>
+  <source src="_static/videos/contributors.mp4" type="video/mp4">
+  <p>Video showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table.</p>
+</video>
+
+To make this project truly accessible and useful for everyone, we invite you to contribute your skills and bring your perspectives into this project.
+
+To join this community, please read our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and ways to [get in touch](https://github.com/the-turing-way/the-turing-way#get-in-touch).
+More information about the community and the project is available in the {ref}`ch`.
+We look forward to expanding and building _The Turing Way_ together.
+

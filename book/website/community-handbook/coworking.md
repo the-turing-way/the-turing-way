@@ -16,11 +16,11 @@ height: 300px
 name: coworking
 alt: An illustration of a group of people who are working together and discussing something
 ---
-An illustration of a group coworking. [Royalty free image from Many Pixels](https://www.manypixels.co/gallery/)
+An illustration of a group coworking. [Royalty free image from Many Pixels](https://www.manypixels.co/gallery/).
 Our coworking calls provide opportunities for community members to allocate time to their desired tasks in _The Turing Way_ and get them done, partially or fully, with the support of others in the call who can help discuss their plans, share ideas or hold accountability.
 ```
 
-In this chapter, you will learn about the motivation behind holding coworking calls, techniques we use for making effective use of the allocated time, the two types of calls we host: {ref}`Collaboration Cafes <ch-coworking-collabcafe>` and {ref}`Weekly Coworking<ch-coworking-weekly>` and their formats.
+In this chapter, you will learn about the motivation behind holding coworking calls, techniques we use for making effective use of the allocated time, the two types of calls we host: {ref}`Collaboration Cafes <ch-coworking-collabcafe>` and {ref}`Weekly Coworking<ch-coworking-weekly>`, and their formats.
 
 We want to make collaborative events like these as useful as possible for as many people as possible.
-Please [let the team members know](/README.md#get-in-touch) if there are other ways we can make these calls more welcoming and helpful for you.
+Please [let the team members know](https://github.com/the-turing-way/the-turing-way#get-in-touch) if there are other ways we can make these calls more welcoming and helpful for you.

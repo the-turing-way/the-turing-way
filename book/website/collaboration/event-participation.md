@@ -27,7 +27,7 @@ Test your microphone, webcam, internet bandwidth and compatibility of the softwa
   - Check if there is a speaker or chair guidelines, reach out to the organisers if you have not been given one already.
   - Prepare your notes or presentation that you will use during your slot as per the guidelines.
 - Please consider accessibility and inclusivity when designing your talk, [see this for reference](https://www.w3.org/WAI/teach-advocate/accessible-presentations/#preparing-slides-and-projected-material-speakers).
-- Join social media platforms, like [Slack](https://slack.com), [Twitter](https://twitter.com), [GitHub](https://github.com) or [Gitter](https://gitter.im), that will be used for announcing updates on the event, or facilitate live chat during the event.
+- Join social media platforms, like [Slack](https://slack.com), [X](https://x.com) (formerly Twitter), [GitHub](https://github.com) or [Gitter](https://gitter.im), that will be used for announcing updates on the event, or facilitate live chat during the event.
   - To get a head start on networking with other attendees, use the social media platform to introduce yourself.
 - Help organisers correct any information that you notice by flagging it, and even better, by supplying the correct information.
 

@@ -26,7 +26,7 @@ Our events in Manchester and London were great opportunities to grow the Turing 
 The Turing Way team was joined by 26 enthusiastic participants that provided a wide range of contributions to the Turing Way handbook:
 * Proofreading and editing of existing chapters.
 * Further information added to existing chapters.
-* Writing new chapters, for example on [Reproducible data analysis pipelines for machine learning](https://github.com/alan-turing-institute/the-turing-way/blob/machine_learning/book/content/machine_learning/machine_learning.md), [Credit for reproducible research](https://the-turing-way.netlify.com/credit/credit.html), and [Outreach and Communicating Results to Others](https://github.com/alan-turing-institute/the-turing-way/pull/561).
+* Writing new chapters, for example on [Reproducible data analysis pipelines for machine learning](https://github.com/alan-turing-institute/the-turing-way/blob/machine_learning/book/content/machine_learning/machine_learning.md), [Credit for reproducible research](https://book.the-turing-way.org/credit/credit.html), and [Outreach and Communicating Results to Others](https://github.com/alan-turing-institute/the-turing-way/pull/561).
 * Reviewed pull requests.
 * Restructuring of the chapter sections.
 

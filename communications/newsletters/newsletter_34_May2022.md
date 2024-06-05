@@ -22,7 +22,7 @@ _Illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo
 
 ## Community Share-Out on 20 May
 
-On 20 May 2022, the last day of Book Dash, we will host two [Community Share-Out and Contributor Celebrations Events](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-events.html#community-share-outs-contributor-celebration).
+On 20 May 2022, the last day of Book Dash, we will host two [Community Share-Out and Contributor Celebrations Events](https://book.the-turing-way.org/community-handbook/bookdash/bookdash-events.html#community-share-outs-contributor-celebration).
 This is a public event for folks interested in learning more about _The Turing Way_, seeing what recent updates have been made in the project and celebrating the incredible work of our contributors.
 At the Community Share-Out, we will also release the new version of _The Turing Way_ book and give an early preview of a new set of illustrations developed during the Book Dash.
 Sign up to attend one or both sessions on [Eventbrite](https://www.eventbrite.co.uk/e/the-turing-way-community-share-out-and-contributor-celebrations-may-2022-tickets-323373307267).
@@ -139,14 +139,14 @@ They published as article on *The Turing Way* highlighting how open research pra
 ![Alt:Screenshot of YouTube recording: "History of Scientific Publishing - Where do we go from here?"](images/2022-05-scientific-pub-vicky.jpg)
 _Vicky's talk was first presented at the Turing's "Lunch and Learn" Series on 4 May 2022._
 
-Core contributor Vicky Hellon's talk, titled "History of scientific publishing, and where do we go from here?", was recently added to the [chapter on Open Access](https://the-turing-way.netlify.app/reproducible-research/open/open-access.html?highlight=open%20access%20vicky), located in the Guide for Reproducible Research.
+Core contributor Vicky Hellon's talk, titled "History of scientific publishing, and where do we go from here?", was recently added to the [chapter on Open Access](https://book.the-turing-way.org/reproducible-research/open/open-access.html?highlight=open%20access%20vicky), located in the Guide for Reproducible Research.
 
 ### Fireside Chat Chapter
 
 ![Alt:Drawing by Scriberia about Fireside chats](images/2022-05-fireside-scriberia.jpg)
 _Illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://zenodo.org/record/5706310#.YoS-RmDMK58)._
 
-A new section has been added to the Community Handbook on [Fireside Chats](https://the-turing-way.netlify.app/community-handbook/fireside-chat.html?highlight=fireside%20chat).
+A new section has been added to the Community Handbook on [Fireside Chats](https://book.the-turing-way.org/community-handbook/fireside-chat.html?highlight=fireside%20chat).
 We hope this section will be useful for others planning similar events, and apply lessons we have learned along the way.
 
 In the future, we'd like to add more information about each Fireside chat hosted so far, to ensure that these conversations can live beyond the events themselves. We hope that they can provide ideas for best practices and shared experiences for others interested in similar topics.
@@ -243,7 +243,7 @@ For more events, subscribe to the [Open Research Calendar](https://openresearchc
 If you are interested in joining our community, or learning more about the project, don't forget that we have our [Community Co-working calls](https://hackmd.io/@turingway/coworking-call) on Mondays, [Collaboration Cafes](https://hackmd.io/@turingway/collaboration-cafe) every first and third Wednesdays and Fireside chats monthly.
 
 *   [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
-*   [_The Turing Way_ book](https://the-turing-way.netlify.com)
+*   [_The Turing Way_ book](https://book.the-turing-way.org)
 *   [HackMD Intro Page](https://hackmd.io/@turingway/demo-intro)
 *   [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 *   [Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)

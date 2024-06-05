@@ -8,7 +8,7 @@
 **What?** _The Turing Way_ is a **lightly opinionated guide to reproducible data science and research**.
 _The Turing Way_ team hosts 1-hr long coworking calls each week for the community members to work together in real time.
 
-*Read more about it here: https://the-turing-way.netlify.app/community-handbook/coworking.html*
+*Read more about it here: https://book.the-turing-way.org/community-handbook/coworking.html*
 
 **Who?** **Everyone** interested in reproducible, ethical, and inclusive data science and research are welcome to join the full or any part of The Turing Way project, community, and/or this call.*
 * If you are working from home and want to connect for _The Turing Way_ co-working hour - sign up for a slot provided below for this week between 11:00 - 12:00 BST.
@@ -19,11 +19,11 @@ If you would like to join _The Turing Way_ co-working hour - sign up for a slot 
 
 **Host:** Malvika Sharan (msharan@turing.ac.uk)
 
-*If you can't join from the beginning of the hour, please let the host know by contacting on [Gitter](https://gitter.im/alan-turing-institute/the-turing-way) or via email.*
+*If you can't join from the beginning of the hour, please let the host know by contacting on [Gitter](https://gitter.im/the-turing-way/the-turing-way) or via email.*
 
 ### Code of conduct
 
-* [Take a moment to read this](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md)
+* [Take a moment to read this](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md)
 
 :hourglass_flowing_sand: **Schedule:**
 

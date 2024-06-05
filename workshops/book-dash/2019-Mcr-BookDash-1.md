@@ -81,7 +81,7 @@ Specifically:
 
 * 2 first pull requests!! :bell: :bell:
 * First iterative review experience in a pull request.
-* It would be helpful to have a dedicated table for git/GitHub newbies and introduce them to collaborating through GitHub before diving into contributing to lower the barriers - perhaps have them read and feed back to the [Collaborating on GitHub/GitLab chapter](https://the-turing-way.netlify.com/collaborating_github/collaborating_github.html).
+* It would be helpful to have a dedicated table for git/GitHub newbies and introduce them to collaborating through GitHub before diving into contributing to lower the barriers - perhaps have them read and feed back to the [Collaborating on GitHub/GitLab chapter](https://book.the-turing-way.org/collaborating_github/collaborating_github.html).
 * Bring markdown cheat sheets.
 * When adding participants as collaborators to the project on GitHub, let them know and make sure they are aware of the email they've received and added functionality that comes with it.
 * Add explicit guidance on putting GitHub handles into the intro presentation and trying to make sure this happens in the initial brain storming session to keep track of contributors.

@@ -13,7 +13,7 @@ Flawed experimental design, inappropriate statistical analysis and inadequate re
 It is morally incumbent upon us to ensure that animal experiments are appropriately designed, conducted and analysed otherwise the results are at risk of being unreliable.
 If the results are unreliable then the animals used have in effect have been wasted {cite:ps}`Ioannidis2014IncreasingValue,deVries2014ReviewAnimalExp`.
 
-## How this will help you/ why this is useful
+## Motivation and Background
 Many preclinical researchers do not think of themselves as data scientists.
 This may be primarily because they work with small datasets.
 However, there are many common open research themes and this chapter aims to assist preclinical scientists in understanding the why, where, when, and how they can employ open research initiatives, some designed specifically for the use by preclinical scientists.

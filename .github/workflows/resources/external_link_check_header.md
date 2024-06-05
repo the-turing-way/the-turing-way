@@ -24,7 +24,7 @@ Some domains will interpret the link checker as a possible denial of service att
 Others may require authentication for particular pages.
 The link checker may then be unable to verify that certain links works.
 
-If certain domains are repeatedly producing false negatives they can be ignored by adding an entry to the `exclude` list in the [Lychee configuration file](https://github.com/alan-turing-institute/the-turing-way/blob/main/lychee.toml).
+If certain domains are repeatedly producing false negatives they can be ignored by adding an entry to the `exclude` list in the [Lychee configuration file](https://github.com/the-turing-way/the-turing-way/blob/main/lychee.toml).
 
 ### Link Status
 

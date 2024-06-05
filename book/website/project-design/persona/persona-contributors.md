@@ -47,12 +47,12 @@ They are passionate about open data and using data for good, but also understand
 They attend data science meetups in the city but are interested in finding a community working towards improving how research is conducted.
 They have experience with GitHub and contributing to open projects.
 
-1. **Discovery** - Alia first hears about _The Turing Way_ via Twitter ([#TuringWay](https://twitter.com/search?q=%23TuringWay&src=typed_query)).
+1. **Discovery** - Alia first hears about _The Turing Way_ via X (formerly Twitter) ([#TuringWay](https://twitter.com/search?q=%23TuringWay&src=typed_query)).
 2. **First Contact** - They land on the project's README and look for the contributing guidelines to see where their skills can be applied.
 3. **Participation** - They find an issue asking for help on writing the Credit for Reproducible Research chapter and add a few paragraphs on how to properly cite research software.
 4. **Sustained Participation** - After constructive feedback and collaboration with _The Turing Way_ team, Alia follows the community on social media and attend the online Collaboration Cafe.
 5. **Networked Participation** - They invite other friends and colleagues from the Rstats community to get involved, who have expertise on some of the book topics.
-6. **Leadership** - Alia volunteers to write the chapter on "Scoping a data project for RSEs" that they found requested in the [Book Skeleton](https://github.com/alan-turing-institute/the-turing-way/blob/main/book_skeleton.md).
+6. **Leadership** - Alia volunteers to write the chapter on "Scoping a data project for RSEs" that they found requested in the [Book Skeleton](https://github.com/the-turing-way/the-turing-way/blob/main/book_skeleton.md).
 
 ### 3. Amal, a PhD supervisor who is an expert in an aspect of reproducible research
 
@@ -61,7 +61,7 @@ They are always looking for opportunities to share their expertise, particularly
 They are very keen to collaborate with people and to volunteer their time for collaboration projects.
 They like seeing their work make an impact and are keen to know about the eventual result of their collaborations.
 
-1. **Discovery** - Amal finds out about _The Turing Way_ book from the Twitter feed of experts in reproducible research who they follow.
+1. **Discovery** - Amal finds out about _The Turing Way_ book from the X feed of experts in reproducible research who they follow.
 2. **First Contact** - Amal navigates to the GitHub repository and reads the content there over a couple of days. While reading, they make notes on areas they could add to from their research.
 3. **Participation** - They compile their work into a chapter format and submit it to the repo.
 4. **Sustained Participation** - Amal checks back frequently to look at feedback on their chapter and respond to it. In their spare time, they make suggestions and edits on other chapters.
@@ -74,7 +74,7 @@ Noor is a final-year PhD student who has their dissertation deadline coming up.
 They are feeling the pressure of needing to write up the results of their research but finding it easy to procrastinate.
 They are confident that their research has taught them some particular considerations for reproducible environments, but they are slightly intimidated by the expertise of other people in their field, and they are considering their future after their PhD.
 
-1. **Discovery** - Noor comes across _The Turing Way_ when they're surfing Twitter while trying to write up their research.
+1. **Discovery** - Noor comes across _The Turing Way_ when they're surfing X while trying to write up their research.
 2. **First Contact** - They read the chapter that's relevant to their research and then continue working on their dissertation.
 3. **Participation** - Later, Noor returns to _The Turing Way_ and makes some suggestions and edits to that chapter.
 4. **Sustained Participation** - They return to the repo periodically to read feedback on their commits and make additional comments, restricted to the one chapter they feel they know about.
@@ -88,14 +88,14 @@ They have lots of meetings throughout the workday, so are looking for ways to ma
 They attend online webinars and watch videos on Youtube in their spare time to learn more about reproducibility and collaboration.
 
 1. **Discovery** - Robin attended the [Women in Data Science webinar hosted by IBM Code Bristol](https://www.bigmarker.com/ibm-developer-uki/Women-in-Data-Science-IBM-Code-Bristol?bmid=2581093331c4), where they heard Malvika Sharan's talk *The Turing Way: A community built on a culture of collaboration*.
-2. **First Contact** - Robin was so inspired by the talk that they followed the [Turing Way on Twitter](https://twitter.com/turingway) and starred the [GitHub repository](https://github.com/alan-turing-institute/the-turing-way), to come back and learn more when they had time.
+2. **First Contact** - Robin was so inspired by the talk that they followed the [Turing Way on X](https://twitter.com/turingway) and starred the [GitHub repository](https://github.com/the-turing-way/the-turing-way), to come back and learn more when they had time.
 3. **Participation** - When they find time at the weekend, Robin reads the chapter on Continuous Integration to pick up some tips and tricks - however they see that there isn't yet information on using GitHub Actions. Robyn would like to know more about this topic, so reads tutorials on how to incorporate them into their workflow and opens a [WIP] pull request to add a subsection to the chapter based on what they learn.
 4. **Sustained Participation** - As their contributions are made outside of working hours, the process of learning, writing the subsection and iterating on feedback from _The Turing Way_ team moves at a [relatively] slower pace than someone who can contribute during working hours. Robin appreciates the assistance and communication from the team through the pull request conversation.
 5. **Networked Participation** - Robin mentions _The Turing Way_ and what she learned about using GitHub Actions during one of her team's stand-ups, promoting their use to her colleagues.
 6. **Leadership** - Robin gives a lightning talk at a London tech event about GitHub Actions and her contributions to _The Turing Way_. She praises the inclusiveness of the project and invites more industry experts to check out the resource and open issues on topics that they can contribute to or would like to learn more about.
 
 If the personas described here do not reflect your experience, and if getting involved with The Turing Way or using its resource are challenging in any way for you, please open an issue or get in contact on our [Slack channel](https://theturingway.slack.com/) letting us know what your persona or pathway might look like!
-This process will not only help the _The Turing Way_ team members in getting you onboarded, but we will be able to improve the community documents including the [README](https://github.com/alan-turing-institute/the-turing-way/blob/main/README.md) and [Contributing Guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) to make it more relatable and usable for the wider community.
+This process will not only help the _The Turing Way_ team members in getting you onboarded, but we will be able to improve the community documents including the [README](https://github.com/the-turing-way/the-turing-way/blob/main/README.md) and [Contributing Guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) to make it more relatable and usable for the wider community.
 
 ## Reference:
 

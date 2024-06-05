@@ -17,7 +17,7 @@ New Term-1
   A short sentence defining the term. This sentence is indented below the term.
 ```
 
-For example, [terms starting with 'A'](https://the-turing-way.netlify.app/afterword/afterword.html#a) are written in the same text-block as shown below:
+For example, [terms starting with 'A'](https://book.the-turing-way.org/afterword/afterword.html#a) are written in the same text-block as shown below:
 ```
 
 ## A
@@ -77,4 +77,4 @@ This is a stern warning!
 ```
 
 There are many more ways to customise content blocks to suit your writing needs. 
-Refer to the [Jupyter Book documentation](https://jupyterbook.org/content/content-blocks.html#notes-warnings-and-other-admonitions) and the [Admonition Demo page](https://sphinx-book-theme.readthedocs.io/en/latest/reference/demo.html#admonitions) for more recommendations.
+Refer to the [Jupyter Book documentation](https://jupyterbook.org/content/content-blocks.html#notes-warnings-and-other-admonitions) and the [Admonition Demo page](https://sphinx-book-theme.readthedocs.io/en/latest/reference/kitchen-sink/admonitions.html) for more recommendations.
