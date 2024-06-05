@@ -67,7 +67,7 @@ We are excited to share that **Arielle Bennett, Batool Almarzouq, Brigitta Sipoc
 
 These members bring multiple perspectives and interests that are essential for building an equitable and supportive environment for our Book Dash attendees.
 They have already reviewed the Book Dash applications and are helping finalise logistics ensuring fairness and accessibility before, during and after the event.
-You can read about the Book Dash online in [*The Turing Way* book](https://the-turing-way.netlify.app/community-handbook/bookdash.html).
+You can read about the Book Dash online in [*The Turing Way* book](https://book.the-turing-way.org/community-handbook/bookdash.html).
 
 ## Relevant Resources and Announcements
 
@@ -157,7 +157,7 @@ Her project resources “Repository of psychological instruments in Serbian” a
 ## Connect with us!
 
 - [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
-- [_The Turing Way_ book](https://the-turing-way.netlify.com)
+- [_The Turing Way_ book](https://book.the-turing-way.org)
 - [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 - [Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
 - [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)

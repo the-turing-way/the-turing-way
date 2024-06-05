@@ -2,7 +2,7 @@
 
 Dear friends of the Turing Way,
 
-we're so happy to announce that we have successfully [launched our handbook](https://the-turing-way.netlify.com) at the Collaborations Workshop.
+we're so happy to announce that we have successfully [launched our handbook](https://book.the-turing-way.org) at the Collaborations Workshop.
 To create the standalone book, we moved the book content into a [separate GitHub repository](https://github.com/alan-turing-institute/the-turing-way-book/) and tidied the main repository as announced in our last newsletter.
 We will still keep discussions going in issues on [our main repository](https://github.com/alan-turing-institute/the-turing-way). 
 If you find this confusing and are not sure where your contribution should go, just ping us in [our gitter channel](https://gitter.im/alan-turing-institute/the-turing-way).

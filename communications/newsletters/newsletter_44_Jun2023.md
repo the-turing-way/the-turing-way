@@ -27,7 +27,7 @@ Can you believe that it's already time to start thinking about our next Book Das
 If you have participated in a Book Dash before we would love to invite you to join the Book Dash Planning Committee. [You can apply to join the committee here](https://forms.gle/MpWwbNqrarb1VouN9).
 
 We received some excellent feedback from our previous committee members and we are keen to fold their expertise into the next iteration of the Book Dash. 
-We are likely to invest time in updating the [guidance in the Community Handbook](https://the-turing-way.netlify.app/community-handbook/bookdash.html) for both the Planning Committee and the Book Dash event itself over the next few months. 
+We are likely to invest time in updating the [guidance in the Community Handbook](https://book.the-turing-way.org/community-handbook/bookdash.html) for both the Planning Committee and the Book Dash event itself over the next few months. 
 This is a great time to join the core staff team in capturing best practices for delivering an exciting, collaborative, inclusive hybrid event.
 
 **The deadline to apply to join the Book Dash Planning Committee is 21 July 2023, 23:59 Anywhere on Earth.**
@@ -178,7 +178,7 @@ If you want us to promote your future events in the upcoming Newsletters, send A
 1. Tweet by Sara Villa - [Link to tweet](https://twitter.com/villascience/status/1674355989703794688?s=46&t=vitdcmhER54VR-KZ-6Re5A). 
 Review her presentation [Zenodo link](https://zenodo.org/record/8094608) 
 2. Tweet by Heidi Seibold - [Link to tweet](https://twitter.com/heidibaya/status/1674396637085433856?s=46&t=vitdcmhER54VR-KZ-6Re5A). 
-Read the *The Turing Way* "Planning Community Chapter" [here](https://the-turing-way.netlify.app/collaboration/new-community/new-community-guide.html)
+Read the *The Turing Way* "Planning Community Chapter" [here](https://book.the-turing-way.org/collaboration/new-community/new-community-guide.html)
 
 
 
@@ -234,7 +234,7 @@ Read the *The Turing Way* "Planning Community Chapter" [here](https://the-turing
 You are welcome to join *The Turing Way* community, and learn more about the project.
 
 * [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
-* [_The Turing Way_ book](https://the-turing-way.netlify.com)
+* [_The Turing Way_ book](https://book.the-turing-way.org)
 * [Welcome Page](https://the-turing-way.start.page/) (A great place to start!⭐)
 * [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 * [Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)

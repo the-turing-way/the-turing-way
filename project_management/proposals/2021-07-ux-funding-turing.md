@@ -9,7 +9,7 @@
 - AI for Science and Government funding dates: 1 November 2018 - 30 June 2021
 
 ## Project website :
-- Book: [https://the-turing-way.netlify.app/welcome](https://the-turing-way.netlify.app/welcome)
+- Book: [https://book.the-turing-way.org/welcome](https://book.the-turing-way.org/welcome)
 - GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
 
 ## Proposal details

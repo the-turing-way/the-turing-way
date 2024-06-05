@@ -69,7 +69,7 @@ Link to this HackMD: https://hackmd.io/@malvikasharan/bookdash-feb20
 ---
 * Introduction slides: https://doi.org/10.5281/zenodo.3676448
 * Project repository on GitHub: https://github.com/alan-turing-institute/the-turing-way
-* Book hosted online at: https://the-turing-way.netlify.com
+* Book hosted online at: https://book.the-turing-way.org
 * Chat on [Gitter](https://gitter.im/alan-turing-institute/the-turing-way)
 * Join the [mailing list and receive newsletter](https://tinyletter.com/TuringWay)
 * Follow on Twitter: [turingway](https://twitter.com/turingway)
@@ -93,7 +93,7 @@ The tl;dr version for easy reference during dashing:
 
 **What types of contributions can you make?**
 * Check out the list of [open issues](https://github.com/alan-turing-institute/the-turing-way/issues)
-* Proofread [existing chapters](https://the-turing-way.netlify.com) (check for typos, grammar, links, etc.)
+* Proofread [existing chapters](https://book.the-turing-way.org) (check for typos, grammar, links, etc.)
 * Add further information to an existing chapter
 * Suggest topics for new chapters (particularly if you can write them!)
     * A chapter can be 3 paragraphs in length - what can you write 3 paragraphs on?
@@ -227,7 +227,7 @@ _Take any notes during the book dash here_
 https://github.com/alan-turing-institute/the-turing-way/issues/853
 https://github.com/alan-turing-institute/the-turing-way/blob/translation/translation_guide.md
 
-* @LouiseABowler worked on a [case study](https://deploy-preview-864--the-turing-way.netlify.com/reproducible_environments/09/case-study-branchLSTM.html) - thanks @nathanbegbie for the review! Also started looking at all-contributors bot!
+* @LouiseABowler worked on a [case study](https://deploy-preview-864--book.the-turing-way.org/reproducible_environments/09/case-study-branchLSTM.html) - thanks @nathanbegbie for the review! Also started looking at all-contributors bot!
 
 * @Chrisisour worked on Ethics chapter - ethics and law, core traditions of ethics, reusing data and webscraping
 

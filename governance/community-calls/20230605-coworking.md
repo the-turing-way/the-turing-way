@@ -62,8 +62,8 @@
       * https://hackmd.io/@turingway/ttw-core-team-onboarding
       * https://the-turing-way.start.page
       * https://hackmd.io/@turingway/demo-intro
-      * https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-examples.html
-      * https://the-turing-way.netlify.app/project-design/persona/persona-contributors.html
+      * https://book.the-turing-way.org/community-handbook/acknowledgement/acknowledgement-examples.html
+      * https://book.the-turing-way.org/project-design/persona/persona-contributors.html
       * Governance status with non-governance and governance roles: https://docs.google.com/document/d/1Z_r0G6dmtlw0icQ_ctkhLG_QxZDhuRZaSTSkGvAVK6w/edit
           * We have pathways for non-governance roles but not for governance roles
           * Governance roles are missing how decisons are made - who decides who goes in governance roles

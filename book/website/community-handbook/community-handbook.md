@@ -39,7 +39,7 @@ For specific questions or concerns, you can contact our community manager **Anne
 Alternatively, you can contact the co-lead investigators **Malvika Sharan** by email at [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk) or **Kirstie Whitaker** (please note that Kirstie is on maternity leave for the rest of 2022).
 
 To stay updated with our community events, subscribe to [_The Turing Way_ calendar](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ).
-To receive monthly newsletters, [join our mailing list](https://tinyletter.com/TuringWay)
+To receive monthly newsletters, [join our mailing list](https://buttondown.email/turingway/)
 
 We are also on [X (formerly Twitter)](https://twitter.com/turingway), follow us for daily updates.
 
@@ -47,7 +47,7 @@ We are also on [X (formerly Twitter)](https://twitter.com/turingway), follow us 
 
 Here are a few suggestions for a good first contributions:
 
-- Fix a typo in [the book](https://the-turing-way.netlify.com) and/or [repository](https://github.com/the-turing-way/the-turing-way).
+- Fix a typo in [the book](https://book.the-turing-way.org) and/or [repository](https://github.com/the-turing-way/the-turing-way).
 - Flag the unclear or duplicated information in the book by opening an [issue on the GitHub](https://github.com/the-turing-way/the-turing-way/issues).
 - Fix an [old issue](https://github.com/the-turing-way/the-turing-way/issues) or comment on the the [pull requests](https://github.com/the-turing-way/the-turing-way/pulls).
 - Write your personal experience of reproducible research in this [google form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).

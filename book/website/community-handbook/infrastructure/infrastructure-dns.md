@@ -59,7 +59,7 @@ $ dig @8.8.8.8 book.the-turing-way.org CNAME
 ;book.the-turing-way.org.       IN      CNAME
 
 ;; ANSWER SECTION:
-book.the-turing-way.org. 1800   IN      CNAME   the-turing-way.netlify.app.
+book.the-turing-way.org. 1800   IN      CNAME   book.the-turing-way.org.
 
 ;; Query time: 75 msec
 ;; SERVER: 8.8.8.8#53(8.8.8.8)
@@ -68,7 +68,7 @@ book.the-turing-way.org. 1800   IN      CNAME   the-turing-way.netlify.app.
 
 ```
 
-We can see in the answer section that there is a CNAME record meaning that `book.the-turing-way.org` is an alias for `the-turing-way.netlify.app`.
+We can see in the answer section that there is a CNAME record meaning that `book.the-turing-way.org` is an alias for `book.the-turing-way.org`.
 What happens if you look for a TXT record at `egg.the-turing-way.org`?
 
 ## The Turing Way Records
@@ -95,7 +95,7 @@ If the book is moved to another hosting provider the record can be updated to po
 That way, the book will _always_ be accessible at `book.the-turing-way.org` no matter how or where it is hosted.
 
 ```
-book CNAME the-turing-way.netlify.app.
+book CNAME book.the-turing-way.org.
 ```
 
 ### URL Redirects

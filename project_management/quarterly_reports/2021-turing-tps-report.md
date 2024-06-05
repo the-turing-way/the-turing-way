@@ -7,14 +7,14 @@
 - Affiliation: The Alan Turing Institute, London, UK
 - Funded by: The Tools, Practices and Systems Research Programme of The Alan Turing Institute
 - Dates of the project: Jan 2019 - Present
-- Webpage: [https://the-turing-way.netlify.app/welcome](https://the-turing-way.netlify.app/welcome) and [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) 
+- Webpage: [https://book.the-turing-way.org/welcome](https://book.the-turing-way.org/welcome) and [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) 
 - Ethics approval status: Confirmation ethics approval not required
 - Reports drafted by Malvika Sharan, Community Manager - *The Turing Way*
 
 ### Overview of the project
 
 -   [The Turing Way](https://github.com/alan-turing-institute/the-turing-way) is an open source and collaboratively developed book-project that aims to make data science comprehensible and useful for everyone. This project brings together its diverse community of researchers, educators, learners, administrators and stakeholders from within The Alan Turing Institute and beyond.
--   The project is available online on GitHub ([https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)) under CC-BY license owned by The Turing Way community.   The project uses Jupyter Book ([https://github.com/jupyter/jupyter-book](https://github.com/jupyter/jupyter-book)) to host its content online at [https://the-turing-way.netlify.com](https://the-turing-way.netlify.com).
+-   The project is available online on GitHub ([https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)) under CC-BY license owned by The Turing Way community.   The project uses Jupyter Book ([https://github.com/jupyter/jupyter-book](https://github.com/jupyter/jupyter-book)) to host its content online at [https://book.the-turing-way.org](https://book.the-turing-way.org).
 
 ### Software/code/tools/methods developed/released
 
@@ -23,7 +23,7 @@
 ### Datasets created
 
 -   Zenodo: [https://zenodo.org/communities/the-turing-way](https://zenodo.org/communities/the-turing-way)
--   Book: [https://the-turing-way.netlify.app](https://the-turing-way.netlify.app) 
+-   Book: [https://book.the-turing-way.org](https://book.the-turing-way.org) 
 -   Resources on GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) 
 
 ## First Quarter: 1 January 2021 to 31 March 2021. 
@@ -52,7 +52,7 @@
 -   FOSS Backstage 2021, 11 February 2021, Malvika Sharan, “Building a Culture of Collaboration in Open Source Communities with The Turing Way”, [http://doi.org/10.5281/zenodo.4537702](http://doi.org/10.5281/zenodo.4537702).
 -   EMBL-EBI training workshop on Next Generation Sequencing data analysis.18 February 2021, Malvika Sharan, “The Turing Way: Open Source and reproducibility aspects of data science”, [http://doi.org/10.5281/zenodo.4549447](http://doi.org/10.5281/zenodo.4549447).
 -   R-Ladies Dammam, 11 February 2021, Batool Almarzouq, An Open Science Approach to Machine Learning in Biomedical Research, https://zenodo.org/record/4557637.
--   Collaboration Workshop 2021, 31 March 2021, Arielle Bennett-Lovell, Inviting contributions to the [Activism chapter](https://the-turing-way.netlify.app/ethical-research/activism.html) in the Guide of Ethical Research.
+-   Collaboration Workshop 2021, 31 March 2021, Arielle Bennett-Lovell, Inviting contributions to the [Activism chapter](https://book.the-turing-way.org/ethical-research/activism.html) in the Guide of Ethical Research.
 -   ReproHack event, 09 March 2021, Sarah Gibson, [http://doi.org/10.5281/zenodo.4581098](http://doi.org/10.5281/zenodo.4581098)
 -   COMPUTE research school at Lund University, 22 March 2021, Sarah Gibson, [http://doi.org/10.5281/zenodo.4625924](http://doi.org/10.5281/zenodo.4625924).
 -   Open Research - A vision for the future hosted by the RIOT Club, 2 March 2021, Malvika Sharan, “Ten arguments against open science that you can win”. [http://doi.org/10.5281/zenodo.4572985](http://doi.org/10.5281/zenodo.4572985).
@@ -178,14 +178,14 @@
 -   Nudging towards a better default for open source project ownership. (2021, June). Retrieved from [https://www.software.ac.uk/blog/2021-06-09-nudging-towards-better-default-open-source-project-ownership](https://www.software.ac.uk/blog/2021-06-09-nudging-towards-better-default-open-source-project-ownership)
 
 #### New chapters and subchapters published in The Turing Way:
--   “Legal Disclaimer” page drafted by Laura Carter and approved by Turing legal team explains where readers can find legal advice related to data ethics. Direct link: [https://the-turing-way.netlify.app/afterword/legal-disclaimer.htmlhttps://the-turing-way.netlify.app/afterword/legal-disclaimer.html](https://the-turing-way.netlify.app/afterword/legal-disclaimer.htmlhttps://the-turing-way.netlify.app/afterword/legal-disclaimer.html) 
--   “Law, Policy and Human Rights in Ethics”: [https://the-turing-way.netlify.app/ethical-research/law-policy.html](https://the-turing-way.netlify.app/ethical-research/law-policy.html) 
--   “Making Research Objects Citable” - revision of previous drafts: [https://the-turing-way.netlify.app/communication/citable.html#](https://the-turing-way.netlify.app/communication/citable.html#)
--   “Barriers to Reproducibility” - one subchapter: [https://the-turing-way.netlify.app/reproducible-research/overview/overview-barriers.html](https://the-turing-way.netlify.app/reproducible-research/overview/overview-barriers.html) 
--   “Continuous Integration” - revision of previous drafts: [https://the-turing-way.netlify.app/reproducible-research/ci.html](https://the-turing-way.netlify.app/reproducible-research/ci.html)
--   Six chapters with 11 subchapters in the Guide for Communication describing blogs, podcasts, lay summary, presentation and social media for scientific communication: [https://the-turing-way.netlify.app/communication/comms-overview.html](https://the-turing-way.netlify.app/communication/comms-overview.html) 
--   “Overview of project design” - five subchapters: [https://the-turing-way.netlify.app/project-design/pd-overview.html](https://the-turing-way.netlify.app/project-design/pd-overview.html) 
--   “Creating Project Repositories” - revision and expansion of previous drafts and addition of two new subchapters: [https://the-turing-way.netlify.app/project-design/project-repo.html](https://the-turing-way.netlify.app/project-design/project-repo.html) 
+-   “Legal Disclaimer” page drafted by Laura Carter and approved by Turing legal team explains where readers can find legal advice related to data ethics. Direct link: [https://book.the-turing-way.org/afterword/legal-disclaimer.htmlhttps://book.the-turing-way.org/afterword/legal-disclaimer.html](https://book.the-turing-way.org/afterword/legal-disclaimer.htmlhttps://book.the-turing-way.org/afterword/legal-disclaimer.html) 
+-   “Law, Policy and Human Rights in Ethics”: [https://book.the-turing-way.org/ethical-research/law-policy.html](https://book.the-turing-way.org/ethical-research/law-policy.html) 
+-   “Making Research Objects Citable” - revision of previous drafts: [https://book.the-turing-way.org/communication/citable.html#](https://book.the-turing-way.org/communication/citable.html#)
+-   “Barriers to Reproducibility” - one subchapter: [https://book.the-turing-way.org/reproducible-research/overview/overview-barriers.html](https://book.the-turing-way.org/reproducible-research/overview/overview-barriers.html) 
+-   “Continuous Integration” - revision of previous drafts: [https://book.the-turing-way.org/reproducible-research/ci.html](https://book.the-turing-way.org/reproducible-research/ci.html)
+-   Six chapters with 11 subchapters in the Guide for Communication describing blogs, podcasts, lay summary, presentation and social media for scientific communication: [https://book.the-turing-way.org/communication/comms-overview.html](https://book.the-turing-way.org/communication/comms-overview.html) 
+-   “Overview of project design” - five subchapters: [https://book.the-turing-way.org/project-design/pd-overview.html](https://book.the-turing-way.org/project-design/pd-overview.html) 
+-   “Creating Project Repositories” - revision and expansion of previous drafts and addition of two new subchapters: [https://book.the-turing-way.org/project-design/project-repo.html](https://book.the-turing-way.org/project-design/project-repo.html) 
 
 ### Software/code/tools/methods developed/released (include link/s)
 
@@ -276,15 +276,15 @@ Two proposals under the ASG Gem funding scheme were granted to the Tools, Practi
 ### Articles/blogs/press releases published (include link/s) 
 
 #### New chapters and subchapters published in The Turing Way:
--   Overview of Project Design — The Turing Way. (2021). Complete chapter. [https://the-turing-way.netlify.app/project-design/pd-overview.html](https://the-turing-way.netlify.app/project-design/pd-overview.html
--   Shared Ownership in Open Source Projects — The Turing Way. (2021). Complete chapter. [https://the-turing-way.netlify.app/collaboration/shared-ownership.html](https://the-turing-way.netlify.app/collaboration/shared-ownership.html)
--   Linking Research Objects — The Turing Way. (2021). Subchapter. [https://the-turing-way.netlify.app/communication/citable/citable-linking.html](https://the-turing-way.netlify.app/communication/citable/citable-linking.html)
--   Authorship and contributions on Academic Papers — The Turing Way. (2021). Complete chapter. [https://the-turing-way.netlify.app/communication/aa.html](https://the-turing-way.netlify.app/communication/aa.html)
--   Welcome — The Turing Way. (2021). Updated landing page. [https://the-turing-way.netlify.app/welcome.html](https://the-turing-way.netlify.app/welcome.html)
+-   Overview of Project Design — The Turing Way. (2021). Complete chapter. [https://book.the-turing-way.org/project-design/pd-overview.html](https://book.the-turing-way.org/project-design/pd-overview.html
+-   Shared Ownership in Open Source Projects — The Turing Way. (2021). Complete chapter. [https://book.the-turing-way.org/collaboration/shared-ownership.html](https://book.the-turing-way.org/collaboration/shared-ownership.html)
+-   Linking Research Objects — The Turing Way. (2021). Subchapter. [https://book.the-turing-way.org/communication/citable/citable-linking.html](https://book.the-turing-way.org/communication/citable/citable-linking.html)
+-   Authorship and contributions on Academic Papers — The Turing Way. (2021). Complete chapter. [https://book.the-turing-way.org/communication/aa.html](https://book.the-turing-way.org/communication/aa.html)
+-   Welcome — The Turing Way. (2021). Updated landing page. [https://book.the-turing-way.org/welcome.html](https://book.the-turing-way.org/welcome.html)
 
 #### New datasets created/accessed 
 -   Zenodo: [https://zenodo.org/communities/the-turing-way](https://zenodo.org/communities/the-turing-way)
--   Book: [https://the-turing-way.netlify.app](https://the-turing-way.netlify.app) 
+-   Book: [https://book.the-turing-way.org](https://book.the-turing-way.org) 
 -   Resources on GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) 
 
 ### External engagement, influence, impact (Academic/ industry/ government/ public/ international)
@@ -373,19 +373,19 @@ Two proposals under the ASG Gem funding scheme were granted to the Tools, Practi
 
 #### New chapters and subchapters published in The Turing Way:
 
--   Research Infrastructure Roles: [https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html)
--   Personal Data Management: [https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-personal.html?highlight=sensitive](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-personal.html?highlight=sensitive) 
--   Reusable code: [https://the-turing-way.netlify.app/reproducible-research/code-reuse.html](https://the-turing-way.netlify.app/reproducible-research/code-reuse.html)
--   Software Citation with CITATION.cff: [https://the-turing-way.netlify.app/communication/citable/citable-cff.html](https://the-turing-way.netlify.app/communication/citable/citable-cff.html)
--   Self Reflection in Ethical Research: [https://the-turing-way.netlify.app/ethical-research/self-reflection.html](https://the-turing-way.netlify.app/ethical-research/self-reflection.html) 
--   Metadata and Metadata Standards: [https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html#metadata](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html#metadata) 
+-   Research Infrastructure Roles: [https://book.the-turing-way.org/collaboration/research-infrastructure-roles.html](https://book.the-turing-way.org/collaboration/research-infrastructure-roles.html)
+-   Personal Data Management: [https://book.the-turing-way.org/reproducible-research/rdm/rdm-personal.html?highlight=sensitive](https://book.the-turing-way.org/reproducible-research/rdm/rdm-personal.html?highlight=sensitive) 
+-   Reusable code: [https://book.the-turing-way.org/reproducible-research/code-reuse.html](https://book.the-turing-way.org/reproducible-research/code-reuse.html)
+-   Software Citation with CITATION.cff: [https://book.the-turing-way.org/communication/citable/citable-cff.html](https://book.the-turing-way.org/communication/citable/citable-cff.html)
+-   Self Reflection in Ethical Research: [https://book.the-turing-way.org/ethical-research/self-reflection.html](https://book.the-turing-way.org/ethical-research/self-reflection.html) 
+-   Metadata and Metadata Standards: [https://book.the-turing-way.org/reproducible-research/rdm/rdm-metadata.html#metadata](https://book.the-turing-way.org/reproducible-research/rdm/rdm-metadata.html#metadata) 
 -   Revised chapters: 
-  -   Open Access: [https://the-turing-way.netlify.app/reproducible-research/open/open-access.html](https://the-turing-way.netlify.app/reproducible-research/open/open-access.html)
-  -   Tools for Remote Collaboration: [https://the-turing-way.netlify.app/collaboration/remote-collab/remote-collab-tools.html](https://the-turing-way.netlify.app/collaboration/remote-collab/remote-collab-tools.html) 
+  -   Open Access: [https://book.the-turing-way.org/reproducible-research/open/open-access.html](https://book.the-turing-way.org/reproducible-research/open/open-access.html)
+  -   Tools for Remote Collaboration: [https://book.the-turing-way.org/collaboration/remote-collab/remote-collab-tools.html](https://book.the-turing-way.org/collaboration/remote-collab/remote-collab-tools.html) 
   
 #### New datasets created/accessed 
 
--   Book: [https://the-turing-way.netlify.app](https://the-turing-way.netlify.app) 
+-   Book: [https://book.the-turing-way.org](https://book.the-turing-way.org) 
 -   Resources on GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way) 
 -   Zenodo: [https://zenodo.org/communities/the-turing-way](https://zenodo.org/communities/the-turing-way)
 -   We have made the latest release of The Turing Way on Zenodo. Please cite this release as “The Turing Way Community. (2021). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.0.1). Zenodo. [](https://doi.org/10.5281/zenodo.5671094%E2%80%9D) [https://doi.org/10.5281/zenodo.5671094](https://doi.org/10.5281/zenodo.5671094)[”](https://doi.org/10.5281/zenodo.5671094%E2%80%9D).

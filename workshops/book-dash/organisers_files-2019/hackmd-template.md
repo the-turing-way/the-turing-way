@@ -26,7 +26,7 @@
 
 * Intro to Book Dash slides: ```<link to intro slides>```
 * Project repository: https://github.com/alan-turing-institute/the-turing-way
-* Book hosted at: https://the-turing-way.netlify.com
+* Book hosted at: https://book.the-turing-way.org
 * Gitter chat room: https://gitter.im/alan-turing-institute/the-turing-way
 * Twitter hashtag: [#TuringWay](https://twitter.com/search?q=%23TuringWay&src=typed_query)
 
@@ -50,7 +50,7 @@ The tl;dr version for easy reference during dashing:
 
 What types of contributions can you make?
 * Check out the list of [open issues](https://github.com/alan-turing-institute/the-turing-way/issues)
-* Proofread [existing chapters](https://the-turing-way.netlify.com) (check for typos, grammar, links, etc.)
+* Proofread [existing chapters](https://book.the-turing-way.org) (check for typos, grammar, links, etc.)
 * Add further information to an existing chapter
 * Suggest topics for new chapters (particularly if you can write them!)
     * A chapter can be 3 paragraphs in length - what can you write 3 paragraphs on?

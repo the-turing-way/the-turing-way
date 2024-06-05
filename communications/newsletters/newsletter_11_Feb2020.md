@@ -203,7 +203,7 @@ Thank you [Fiona Grimm](https://twitter.com/fiona_grimm ) [Karen Hodgson](https:
 
 > As a team, we are lucky to stand on the shoulders of open data science giants.
 > What we've achieved so far has only been possible because we can access an incredible range of open-source tools and the [support of individuals and communities](https://www.bmj.com/content/367/bmj.l6365), who have done lots of hard work already.
-> We owe much of our progress to resources and advice from the [NHS-R community](https://nhsrcommunity.com/), the [Turing Way](https://the-turing-way.netlify.com/introduction/introduction) and the wider open data science community on Twitter and Stack Overflow.
+> We owe much of our progress to resources and advice from the [NHS-R community](https://nhsrcommunity.com/), the [Turing Way](https://book.the-turing-way.org/introduction/introduction) and the wider open data science community on Twitter and Stack Overflow.
 
 ## Connect with us!
 
@@ -211,7 +211,7 @@ We love hearing about how you're using _The Turing Way_.
 Stay in touch through one of the many different pathways below!
 
 - [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
-- [_The Turing Way_ book](https://the-turing-way.netlify.com)
+- [_The Turing Way_ book](https://book.the-turing-way.org)
 - [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 - [Gitter chat room](https://gitter.im/alan-turing-institute/the-turing-way)
 - [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)

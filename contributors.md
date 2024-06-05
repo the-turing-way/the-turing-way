@@ -8,7 +8,7 @@ Individual contributors are welcome to provide their details under the section "
 Organisational support and collaborations are listed in the section, "Collaborating Organisations".
 Each organisation's name and details will be listed separately followed by the contribution details of each contributor from that organisation.
 
-Please see the [community handbook](https://the-turing-way.netlify.app/community-handbook/acknowledgement) for details on how you can be fairly acknowledged for your work.
+Please see the [community handbook](https://book.the-turing-way.org/community-handbook/acknowledgement) for details on how you can be fairly acknowledged for your work.
 
 (contributors-record-highlights)=
 ## Personal Highlights from _The Turing Way_ Contributors
@@ -62,7 +62,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 > I love working with the open science community. Over the years, I have worked to establish *The Turing Way* as a place to convene, build cross-community collaborations and highlight practices and resources from different sectors through the work of our community members.
 > Through my research, community engagements, talks, panels and workshops, I like to interact with members across different research domains, whom I otherwise will never get a chance to meet.
 > Besides connecting with members from diverse perspectives, my highlights in _The Turing Way_ are establishing collaborative spaces including Book Dash, Fireside Chat and Coworking Calls.
-> Among many chapters I have written across different guides, I am very proud of setting our [Community Handbook](https://the-turing-way.netlify.app/community-handbook) and co-developing resources on community governance, acknowledgement processes and various community opportunities.
+> Among many chapters I have written across different guides, I am very proud of setting our [Community Handbook](https://book.the-turing-way.org/community-handbook) and co-developing resources on community governance, acknowledgement processes and various community opportunities.
 > I enjoy designing training and skill building opportunities alongside *The Turing Way* book to enable their adoption by individuals and organisations effectively.
 
 ### Anne Lee Steele
@@ -86,7 +86,8 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 ### Alexandra Araujo Alvarez
 
 * Role: 
- * Project Delivery Team member, Research Project Manager (2023-Present)
+ * Senior Research Community Manager, BridgeAI (2024-current)
+ * Project Delivery Team member, Research Project Manager (2023-2024)
  * Book Dash Organiser: 2023
 * Github id: [AlexandraAAJ](https://github.com/AlexandraAAJ)
 * ORCID: [0009-0008-6607-3815](https://orcid.org/0009-0008-6607-3815)
@@ -274,7 +275,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 ### Anna Krystalli
 
 * Role:
-  * [Code of Conduct Committee](https://the-turing-way.netlify.app/community-handbook/coc/coc-enforcement.html) member (2018 - present)
+  * [Code of Conduct Committee](https://book.the-turing-way.org/community-handbook/coc/coc-enforcement.html) member (2018 - present)
   * Project Delivery Team Member (2018 - 2019)
   * Role: Book Dash Participant (2019)
 * GitHub id: [annakrystalli](http://github.com/annakrystalli)
@@ -327,7 +328,7 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 * Personal highlights:
 > Before participating in the Turing Way, I didn't know what a pull request was, never mind how to make one!
-> Now I have contributed to several different parts of the five guides, including co-writing the initial chapters on [activism for researchers](https://the-turing-way.netlify.app/ethical-research/activism.html) and given presentations on the topic at conferences.
+> Now I have contributed to several different parts of the five guides, including co-writing the initial chapters on [activism for researchers](https://book.the-turing-way.org/ethical-research/activism.html) and given presentations on the topic at conferences.
 > I also now mentor other community contributors on how to create pull requests, contribute to existing chapters, review others' work, and draft new ideas.
 > The **May 2021 Book Dash** was an amazing opportunity to engage with the community and get excited about the project all over again! I came away from it feeling enthused and proud of the contributions people made with my support - it will be brilliant to see how these evolve over the coming months into content and chapters.
 > In the **November 2021 Book Dash** week we have merged a new chapter on research infrastructure roles - the people who do critical tasks to keep research going, open, reproducible, collaborative and reusable! It's great to be able to promote the visibility of roles like mine to the wider community. I am also incredibly proud of all our first attendees who have done brilliant work this week revising old chapters and writing new ones.
@@ -526,7 +527,7 @@ I also hope that it can convince people who don't consider themselves capable of
 > - Learning about the project and [meeting Kirstie](https://github.com/the-turing-way/the-turing-way/blob/ebbaf8f5f3a66da441beafc690a1b16a9c50d15b/communications/newsletters/newsletter_08_Nov2019.md#acknowledgements-and-celebrations) during a rough patch in my PhD — learning about the project brought me hope for the future!
 > - My [first issue](https://github.com/the-turing-way/the-turing-way/issues/1114) followed several small contributions and then [the first gnarly infrastructure PR](https://github.com/the-turing-way/the-turing-way/pull/2039) I made, which started my love(/hate)-affair with Jupyter Book.
 > - Working with [Malvika](https://github.com/malvikasharan) to [rewrite the landing page](https://github.com/the-turing-way/the-turing-way/pull/1961) (particularly proud of _"Warning: Do not try to read the _The Turing Way_ from start to finish!"_)
-> - [Learning how to build the book locally](https://web.archive.org/web/20221104150942/https://fosstodon.org/@da5nsy/108760121842868538) from [Sarah Gibson](https://the-turing-way.netlify.app/afterword/contributors-record.html#sarah-gibson) (and learning about miniconda in the process!) — a process which is now written up [here](https://the-turing-way.netlify.app/community-handbook/local-build.html#ch-local-build), but wasn't at the time, and so it felt like secret magic, and an infrastructure nerd's rite-of-passage.
+> - [Learning how to build the book locally](https://web.archive.org/web/20221104150942/https://fosstodon.org/@da5nsy/108760121842868538) from [Sarah Gibson](https://book.the-turing-way.org/afterword/contributors-record.html#sarah-gibson) (and learning about miniconda in the process!) — a process which is now written up [here](https://book.the-turing-way.org/community-handbook/local-build.html#ch-local-build), but wasn't at the time, and so it felt like secret magic, and an infrastructure nerd's rite-of-passage.
 > - Using that knowledge to finally [wipe all of the long-standing build warnings and errors](https://github.com/the-turing-way/the-turing-way/issues/2611) so that we could [implement CI to catch bugs before they were merged into main from then on](https://github.com/the-turing-way/the-turing-way/pull/2861)!
 > - [Presenting at FOSS Backstage in Berlin](https://github.com/the-turing-way/the-turing-way/issues/2993#issuecomment-1629424116) with [Anne Lee Steele](https://github.com/aleesteele), on the subject of "maintenance" and ideas around transitioning from a small scrappy project to a long-term-sustainable project.
 > - In 2023 I'm focusing on the more organisation-level infrastructure ([what tools do we use and why](https://github.com/the-turing-way/the-turing-way/issues/3218)?), and as part of that, I was proud to set up [the Turing Way's mastodon account](https://fosstodon.org/@turingway/108278354199514905).
@@ -700,7 +701,7 @@ about open and reproducible (data) science. I am currently thinking a lot about
 how we could use the content from The Turing Way and turn it into a course.
 This idea was also part of an application, where I proposed to start a new
 group on *Open AI*.
-> Specifically, I have co-authored these chapters: [Research Compendia](https://the-turing-way.netlify.app/reproducible-research/compendia.html), [File Naming Convention](https://the-turing-way.netlify.app/project-design/filenaming.html), and reviewed many contributions.
+> Specifically, I have co-authored these chapters: [Research Compendia](https://book.the-turing-way.org/reproducible-research/compendia.html), [File Naming Convention](https://book.the-turing-way.org/project-design/filenaming.html), and reviewed many contributions.
 > I regularly recommend The Turing Way as a resource. Both for learning more
 about reproducible data science and also when discussing specific topics.
 I think that people are taking it on and reading it :)
@@ -948,7 +949,7 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 
 * Personal highlights:
 >I started familiarizing myself with the GitHub environment and learned how to collaborate through it. It was especially nice to meet the vibrant community working together on the Turing Way!
-> Specifically, I have authored a subchapter on [Research Data Management Toolkit](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-toolkits.html).
+> Specifically, I have authored a subchapter on [Research Data Management Toolkit](https://book.the-turing-way.org/reproducible-research/rdm/rdm-toolkits.html).
 
 
 <!---L--->
@@ -1068,7 +1069,7 @@ what it would cover.
 
 * Personal highlights:
 > It's been a wonderful experience contributing to The Turing Way while meeting inspiring people from diverse backgrounds along the way. 
-> I really enjoyed the opportunity to work closely with my colleague Rachael Stickland to reflect and encapsulate our image of a 'Data Wrangler' in our own [Data Wranglers Overview](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/data-wrangler.html) sub-chapter. 
+> I really enjoyed the opportunity to work closely with my colleague Rachael Stickland to reflect and encapsulate our image of a 'Data Wrangler' in our own [Data Wranglers Overview](https://book.the-turing-way.org/collaboration/research-infrastructure-roles/data-wrangler.html) sub-chapter. 
 > These Book Dashes are a great way to encourage open collaboration, sharing ideas and working on helpful tools to make things such as open science and reproducibility more practical and friendlier for the wider community.
 
 ### Margaret Wanjiku
@@ -1389,7 +1390,7 @@ what it would cover.
 > I am a Data Wrangler based at The Alan Turing Institute. See my profile [here](https://www.turing.ac.uk/people/researchers/rachael-stickland) for more information.
 
 * Personal highlights:
-> Joining the Nov 2022 BookDash was a real pleasure - I met lots of great people with brilliant ideas, and I enjoyed learning more about _The Turing Way_. I am new to this community but felt welcomed and included. Working with the Scriberia artist on visualising the 'Data Wrangler' job role was a really interesting and useful experience, and it encouraged our wider team, based at The Alan Turing Institute, to reflect on our roles as Data Wranglers and how to explain this role to others. My contribution to the book was working with my colleague Mahwish Mohammad on adding a sub-chapter 'Data Wranglers' to the [Research Infrastructure Roles](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles.html) section, and starting (or joining) discussions with others in this community about Research Infrastructure Roles in general. I hope more collaborations will come out of these discussions, specifically content added to the book which compares and contrasts different Research Infrastructure Roles, and reflects on how to decide which role(s) would be needed for a specific research project.
+> Joining the Nov 2022 BookDash was a real pleasure - I met lots of great people with brilliant ideas, and I enjoyed learning more about _The Turing Way_. I am new to this community but felt welcomed and included. Working with the Scriberia artist on visualising the 'Data Wrangler' job role was a really interesting and useful experience, and it encouraged our wider team, based at The Alan Turing Institute, to reflect on our roles as Data Wranglers and how to explain this role to others. My contribution to the book was working with my colleague Mahwish Mohammad on adding a sub-chapter 'Data Wranglers' to the [Research Infrastructure Roles](https://book.the-turing-way.org/collaboration/research-infrastructure-roles.html) section, and starting (or joining) discussions with others in this community about Research Infrastructure Roles in general. I hope more collaborations will come out of these discussions, specifically content added to the book which compares and contrasts different Research Infrastructure Roles, and reflects on how to decide which role(s) would be needed for a specific research project.
 
 ### Reshama Shaikh
 
