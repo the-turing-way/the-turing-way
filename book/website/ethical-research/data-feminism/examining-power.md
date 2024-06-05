@@ -53,9 +53,10 @@ Researchers have shown that [images of immigrants, abused children, and deceased
 (er-data-feminism-c1-datagoals)=
 ## Current Data Goals
 Data science is predominantly used for:
+
 1. **Profit (for a few)** - seen in corporations
-2. **Surveillance (of the marginalized)** - used by governments
-3. **Efficiency (amidst data scarcity)** - prioritized by research institutions/universities such as optimizing algorithms and models to work with limited data
+2. **Surveillance (of the marginalised)** - used by governments
+3. **Efficiency (amidst data scarcity)** - prioritised by research institutions/universities such as optimising algorithms and models to work with limited data
 
 (er-data-feminism-c1-goals)=
 ## The Goal of Examining Power
