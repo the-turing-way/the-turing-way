@@ -18,21 +18,21 @@ parts:
       - file: foreword/foreword
         sections:
         - title: Background
-          file: background
+          file: foreword/background
         - title: Navigating the Handbook
-          file: navigate
+          file: foreword/navigate
         - title: Community
-          file: community
+          file: foreword/community
         - title: Community Roles
-          file: community-roles
+          file: foreword/community-roles
         - title: Emergence as The Turing Way Strategy
-          file: embracing-emergent-strategy
+          file: foreword/embracing-emergent-strategy
         - title: Embracing the Principles of Digital Commons
-          file: embracing-digital-commons
+          file: foreword/embracing-digital-commons
         - title: How to Cite
-          file: cite-us
+          file: foreword/cite-us
         - title: Frequently Asked Questions
-          file: faqs
+          file: foreword/faqs
 
       # ===== Guide for Reproducible Research ========================================
       

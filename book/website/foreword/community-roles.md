@@ -10,14 +10,18 @@ In this document, we describe these roles to guide you, our community members, i
 
 Irrespective of how deeply one would like to engage in _The Turing Way_, we create opportunities for community participation, skill building and pathways to leadership in data science.
 By involving participants from all around the world, we learn about and create new opportunities to share data skills and practices from global contexts.
-By enabling the collaboration of users and contributors with each other, we ensure that the project, community and resources represent, amplify and broaden the reach of global voices in data science.
-We describe the contributing process in the[ contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md).
 
-From the onset, the project staff team have worked to define incentive and acknowledgement processes in _The Turing Way_ to ensure that all roles are recognised and valued in _The Turing Way_.
+By enabling the collaboration of users and contributors with each other, we ensure that the project, community and resources represent, amplify and broaden the reach of global voices in data science.
+We describe the contributing process in the [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/master/CONTRIBUTING.md).
+
+```{admonition} Reminder
+Participation in _The Turing Way_ doesn’t only involve contributions to the Book.
+```
+
+From the onset, the project staff team have worked to define different pathways for engagement and acknowledgement processes in _The Turing Way_, ensuring that all roles are recognised and valued in _The Turing Way_.
 You can read the details in our community handbook in the [acknowledging contributors](https://the-turing-way.netlify.app/community-handbook/acknowledgement) chapter.
 
-
-#### The Turing Way Book and community-related roles
+## The Turing Way Book and community-related roles
 
 _The Turing Way_ book is collaboratively written and open from the start.
 We encourage and support everyone in _The Turing Way_ to collaborate on shared ideas and resources, co-develop chapters, review and improve existing materials and share them with the wider research community.
@@ -27,19 +31,19 @@ To make this project truly accessible and useful for everyone, we invite members
 _The Turing Way_ roles for chapter writing include:
 
 * **Co-authors**: Co-authors collaborate on writing, editing, revising, or adding/replacing relevant sections of a chapter in _The Turing Way_ book, while following the {ref}`ch-style`.
-* **Reviewer**: Reviewers critically {ref}`evaluate and review&lt;cl/maintain-review/maintain-review-review>` existing and new content of The Turing Way book, providing feedback, suggesting edits, and enhancing the accessibility, accuracy, and quality of the material.
+* **Reviewer**: Reviewers critically review existing and new content of The Turing Way book, providing feedback, suggesting edits, and enhancing the accessibility, accuracy, and quality of the material.
 * **Editors**: Editors oversee the overall coverage, coherence, and consistency of a chapter or a guide, or even the structure of _The Turing Way_ book at a meta level and document the current status and areas for improvement in a GitHub issue. They may not be the same people who address those issues, but they can be involved in coordinating contributions from authors and reviewers from the community.
 * **Mentors**: Mentors guide less experienced contributors, offering advice and support to help them clarify concepts, unpack their thoughts and ideas, and provide direction to ensure that new members can effectively participate in the development of _The Turing Way_ book.
 * **Advisory roles**: Individuals in advisory roles provide strategic guidance and expertise in the context of the book, community, or the overall project, helping to shape the direction and scope of _The Turing Way_.
 
-The book or authorship-related roles vary based on people’s involvement in developing content in _The Turing Way_y guides at different times such as chapters, subchapters, impact stories, personal stories, case studies and templates
+The book or authorship-related roles vary based on people’s involvement in developing content in _The Turing Way_ guides at different times such as chapters, subchapters, impact stories, personal stories, case studies and templates
 Reviewers are often drawn from the community, based on their experience in the chapter’s topic.
 Often reviewers are also invited from beyond the community to ensure new members have the chance to collaborate based on their expertise.
 
 Existing members of the community are connected with new contributors for supporting and mentoring their contributions, such as helping navigate _The Turing Way_ repository, workflow, writing process or even reviewing. 
 Contributions also include providing advisory support, such as by sharing examples, resources or other relevant resources that could be helpful for the authors.
 
-_Participation in _The Turing Way_ doesn’t only involve contributions to the Book. _
+## Beyond the Book
 
 The book may be the visible product of the work we do in the project, but, the process of collaborative development with the help of its community is what we value the most.
 This project can simply not exist without the collaborative nature of this project and the willingness of our community members to support each other.
@@ -50,9 +54,9 @@ Roles beyond the book can involve, but are not limited to the following:
 * **Reviewers and maintainers** of the book and underlying infrastructure
 * **Advocate and champions **of _The Turing Way_ resources, who help others navigate the book, repositories and communications channel
 * **Creators** of content and infrastructure at any level from fixing bugs to adding new content beyond the book
-* **Mentors and consultants i**n specific areas of work, including responding to questions from other community members on GitHub and Slack
+* **Mentors and consultants** in specific areas of work, including responding to questions from other community members on GitHub and Slack
 * **Sustained contributors** who provide expert consultation to improve the resources
-* Members providing support through **in-kind collaboration/partnership**
+* Members providing support through** in-kind collaboration/partnership**
 * **Connector, convener and collaborators** from the broader data science network
 * **_The Turing Way_ curious** (‘lurkers’) users of resources who read, adopt and share best practices from _The Turing Way_ in their work and participate in public events/communications channel
 * **Your personal experience** (that we value a lot!) will enrich _The Turing Way_ resources with real-world contexts
@@ -66,7 +70,15 @@ Our general recommendations for any new starters are the following:
 * Capture the process of how they work in their projects and _The Turing Way_
 * They share their personal stories, case studies and perspective: _The Turing Way_ is a ‘lightly’ opinionated guide after all!
 
-_To explore different pathways for community members to get involved, please visit the **Start Page: **_[https://the-turing-way.start.page/](https://the-turing-way.start.page/)_. _
+_To explore different pathways for community members to get involved, please visit the **Start Page: **_[https://the-turing-way.start.page/](https://the-turing-way.start.page/)_.
+
+### Represent _The Turing Way_
+
+We have a chapter on {ref}`ch-presenting` to help you present and share about _The Turing Way_ in your network.
+
+_The Turing Way_ team will be happy to discuss your ideas with you, provide feedback and any other assistance you need for delivering a talk.
+
+### Learn and Share Skills
 
 Community members are provided with opportunities to learn new skills, share their ideas and collaborate with others. 
 They are also given mentorship opportunities in the project as they make their contributions to _The Turing Way_ or other open source projects and are encouraged to mentor new participants of the project. 
@@ -78,7 +90,7 @@ Some of these workshops has become part of regular events and conferences to int
 
 Delivery of these workshops includes the following roles:
 
-* **Expert facilitators and trainers **of Open Science, Reproducibility and ethics-related workshops, both organised by _The Turing Way_ and delivered in external events
+* **Expert facilitators and trainers** of Open Science, Reproducibility and ethics-related workshops, both organised by _The Turing Way_ and delivered in external events
 * **Technical trainer** for novice learners on tools like GitHub, Binder, Jupyter and Literate Programming 
 * **Presenters and speakers** for international events/conferences who represent _The Turing Way_ in external platforms
 
@@ -86,9 +98,3 @@ All members are supported to structure their work in _The Turing Way_ to make th
 Researchers are also supported to lead community-based discussions and collaborations, that lead to projects and outputs beyond _The Turing Way_.
 
 _For further details on these community roles, please read the Community Handbook describing [different Contributions and their acknowledgements](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-examples.html)._
-
-## Represent _The Turing Way_
-
-We have a chapter on {ref}`ch-presenting` to help you present and share about _The Turing Way_ in your network.
-
-_The Turing Way_ team will be happy to discuss your ideas with you, provide feedback and any other assistance you need for delivering a talk.

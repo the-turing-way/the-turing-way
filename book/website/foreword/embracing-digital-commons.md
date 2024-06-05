@@ -16,14 +16,16 @@ This means facilitating access for individuals from diverse backgrounds, fosteri
 I actively champion open science and community building in _The Turing Way_.
 My commitment to open knowledge and collaboration is deeply rooted in my understanding of the theory and practices of “knowledge commons” as applied to digital commons.
 
-```{admonition} Definitions
+## Definitions
 
-**Knowledge Commons: **Knowledge Commons refers to collectively owned and managed knowledge, like data, content, and software.
+**Knowledge Commons:** Knowledge Commons refers to collectively owned and managed knowledge, like data, content, and software.
 Unlike physical resources, this knowledge, once shared, can be used by countless people simultaneously without any depletion.
 Open-source projects like Linux and collaborative platforms like Wikipedia exemplify this power of unrestricted sharing for research, education, and innovation.
 
-**Digital Commons: **Digital Commons encompasses global resources created and maintained digitally through collective efforts.
+**Digital Commons:** Digital Commons encompasses global resources created and maintained digitally through collective efforts.
 This emphasis on collaboration extends to licensing, authorship, production, governance, and participation, actively ensuring equitable access to digital resources for all. 
+
+```{admonition} Examples and References
 
 Examples of digital commons include licensing infrastructure like Creative Commons for sharing resources with clear conditions and digital platforms like Wikimedia Commons and Zenodo for sharing and accessing media files and research components (each with appropriate license) respectively. 
 These initiatives exemplify the power of digital commons in democratising access to knowledge and enhancing opportunities for others to reuse or build on it.
@@ -84,7 +86,7 @@ Below, I elaborate on how these principles are operationised in _The Turing Way_
     * Through the collective wisdom shared in _The Turing Way_ book, we're committed to ensuring that equity is not an additional responsibility but an integral consideration embedded at every stage of research throughout its lifecycle. Join us in promoting a future where equity is at the forefront of data science and research!
 5. **Build strategic partnerships with different stakeholders to accelerate the adoption of practices across sectors:** We're on a mission to fast-track the adoption of _The Turing Way_ resources and best practices across diverse settings, whether through formal partnerships or more informal collaborations.
     * In _The Turing Way_ community, we actively create spaces for cross-community collaborations, hosting engaging events like Collaboration Cafés, Fireside Chats, and Book Dash. Our commitment goes beyond our community borders – we actively contribute to the infrastructure we use and give back to projects led by our community members.
-    * The users and contributors of _The Turing Way_ aren't just participants; they become advocates, implementing best practices within their organizations. To expand our impact, we have launched _The Turing Way_ Practitioners Hub, pioneering sector-specific collaboration across academia, government, industry, and the public. Join us in shaping the future of collaborative best practices!
+    * The users and contributors of _The Turing Way_ aren't just participants; they become advocates, implementing best practices within their organisations. To expand our impact, we have launched _The Turing Way_ Practitioners Hub, pioneering sector-specific collaboration across academia, government, industry, and the public. Join us in shaping the future of collaborative best practices!
 6. **Establish shared ownership for long-term maintenance and sustainability:** We focus on a collaborative culture, ensuring the project is owned and maintained by the community for its lasting success.
     * Through co-development approaches, contribution guidelines, and governance being co-created with community involvement, we foster a shared sense of ownership, and responsibility for maintenance and sustainability in the long term.
     * To ensure continuous access and benefit, our resources and community need careful maintenance. _The Turing Way_ is an evolving project, requiring community support to identify when updates, replacements, or archiving are needed.

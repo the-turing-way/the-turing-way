@@ -12,7 +12,7 @@ _The Turing Way_ provides resources to build an understanding of good practices 
 Lessons learned through _The Turing Way_ series of guides will help design projects with reproducible, collaborative and ethical research frameworks. 
 It will also ensure that PhD students, postdocs, PIs and funding teams know which parts of the "responsibility of reproducibility" they can affect, and what they should do to nudge research and data science to be more efficient, effective and understandable.
 
-```{figure} ../figures/evolution-openscience.jpg
+```{figure} ../figures/evolution-openscience.*
 ---
 name: evolution-openscience
 alt: This image shows the evolving interest of a new researcher in sharing their work using open science practices.
@@ -22,7 +22,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 The book started in January 2019 as a guide for reproducibility, covering {ref}`rr-vcs`, {ref}`rr-testing`, and {ref}`rr-ci`. However, technical skills are just one aspect of making data science research "open for all" and so in February 2020, _The Turing Way_ expanded into a series of guides: {ref}`rr`, {ref}`pd`, {ref}`cm`, {ref}`cl`, and {ref}`er`.
 
-The project has been developed openly and any and all questions, comments and recommendations are always welcome at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way.
+The project has been developed openly and any and all questions, comments and recommendations are always welcome at our GitHub repository: https://github.com/the-turing-way/the-turing-way.
 We really appreciate you using its resources, any references that you make to _The Turing Way_ project in your work, and we hope it is useful.
 
 ## Impact Story from 2019

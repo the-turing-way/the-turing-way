@@ -8,7 +8,7 @@ _The Turing Way_ has been co-authored by more than 450+ (as of June 2024) contri
 This community is dedicated to sharing and facilitating research best practices, tools, and infrastructure.
 The project is managed by the project delivery team, which includes two project leads, a research project manager, and a research community manager within The Alan Turing Institute's Tools, Practices, and Systems Research Programme.
 The governance body of _The Turing Way_ is represented by the project delivery team and volunteers from the community who lead various formal and informal initiatives.
-All contributions, discussions, and contributor details are handled through the central GitHub repository ([https://github.com/alan-turing-institute/the-turing-way/](https://github.com/alan-turing-institute/the-turing-way/)). 
+All contributions, discussions, and contributor details are handled through the central GitHub repository ([https://github.com/the-turing-way/the-turing-way/](https://github.com/the-turing-way/the-turing-way/)). 
 Contributors' details are available in the [Contributors Records](https://the-turing-way.netlify.app/afterword/contributors-record.html%C2%A0), and the [project summary](https://docs.google.com/document/d/1LzSWfLPk2uxC9YrVg61H4FgfiHvGCnhTBX-kTGZ1Er4/edit#) from 2022 offers a comprehensive overview of recent outcomes and impacts.
 
 ## Vision, Mission and Scope

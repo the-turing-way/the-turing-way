@@ -1,7 +1,7 @@
 (fw-emergent-strategy)=
-# Embracing Emergence as _The Turing Way’s_ Strategy**
+# Embracing Emergence as _The Turing Way’s_ Strategy
 
-_In this document, Kirstie Whitaker, founder of _The Turing way_ talks us through the principles of [Emergent Strategy](https://fortelabs.co/blog/emergent-strategy-organizing-for-social-justice/) and how they have directed and informed her leadership of the project and of the [Tools, Practices and Systems (TPS) Programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) at[ The Alan Turing Institute](https://www.turing.ac.uk/about-us) more broadly._
+_In this document, Dr Kirstie Whitaker, founder of _The Turing way_ talks us through the principles of [Emergent Strategy](https://fortelabs.co/blog/emergent-strategy-organizing-for-social-justice/) and how they have directed and informed her leadership of the project and of the [Tools, Practices and Systems (TPS) Programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) at[ The Alan Turing Institute](https://www.turing.ac.uk/about-us) more broadly._
 
 _The Turing Way_ is a living book.
 It is written by a community, who are themselves human, ever-changing, beautiful and creative.
