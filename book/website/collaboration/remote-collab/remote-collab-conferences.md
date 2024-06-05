@@ -312,7 +312,7 @@ Moved from the "Tools for Remote Collaboration" subchapter"
 
 ### Pre- and post-event surveys
 
-Pre-event surveys can be used for managing day-to-day work with the organisers, inviting ideas and suggestions from different stakeholders of the event and setting expectations by communicating about your event beforehand with everyone.
+Pre-event surveys can be used to manage day-to-day work with the organisers, invite ideas and suggestions from different stakeholders of the event, and set expectations by communicating about your event beforehand with everyone.
 Post-event surveys are used for gathering feedback from everyone regarding their experience from past events and suggestions to improve future events.
 
 - [Google Form](https://en.wikipedia.org/wiki/Google_Forms): Google Forms is a survey administration software that allows data collection that can be automatically entered into a spreadsheet.
