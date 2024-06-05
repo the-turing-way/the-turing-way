@@ -3,15 +3,9 @@ This document provides valuable resources for you to implement in successful aca
 
 # Resources
 This guide offers a wealth of resources to enable your collaborative success. Dive deeper into best practices and explore relevant academic publications in the following sections.
-## Best Practices
-### TTW Resources
-Setting up a program or project in the right way is a foundational ingredient for collaboration success. The following are program and project management resources from The Turing Way. It is meant to provide you with an overview of how to organize across collaborators within academia and within industry.
-|Title and Link|Relevance|
-|--------------|---------|
-|[Project Design](https://the-turing-way.netlify.app/project-design/pd-overview#pd-overview)|This guide has lots of useful information that would be helpful to consider when starting a collaboration|
-|[Guide to Planning a Community](https://the-turing-way.netlify.app/collaboration/new-community/new-community-guide#cl-new-community-guide)|The Guide to Planning a Community are helpful context to consider when creating and maintaining a collaboration|
-### Academic Resources
-The continual tension of rigour vs. relevance remains both the opportunity for new knowledge while also serving as one of the many reasons collaborations sometimes struggle to provide meaningful value. The following is meant to provide the benefits and challenges of academic-industry collaborations. 
+
+## Academic Resources
+The continual tension of rigour vs. relevance remains both the opportunity for new knowledge while also serving as one of the many reasons collaborations sometimes struggle to provide meaningful value. The following is a list of academic publication exploring the benefits and challenges of academic-industry collaborations. 
 |Title and link| Journal/Parent Resource|Year|
 |--------------|--------|----|
 |[Academic–industry collaborations and knowledge co-production in the social sciences](https://journals.sagepub.com/doi/abs/10.1177/1440783313492237)|Journal of Sociology|2013|<!--- -->
@@ -24,9 +18,15 @@ The continual tension of rigour vs. relevance remains both the opportunity for n
 |[Challenges and best practices in industry-academia collaborations in software engineering: A systematic literature review](https://www.sciencedirect.com/science/article/abs/pii/S0950584916301203)|Information and Software Technology|2016|
 |[University‐industry collaboration: Grafting the entrepreneurial paradigm onto academic structures](https://www.emerald.com/insight/content/doi/10.1108/14601060710776734/full/html)|European Journal of Innovation Management|2007|
 
+## Industry Resources
+|Title and Link|Relevance|
+|--------------|---------|
+|[Data Science: From Academia to Industry](https://es.catapult.org.uk/report/data-science-from-academia-to-industry/)| Suggested by @acocac |
+|[Academia-Industry Collaboration Best Practices Guide](https://eatris.eu/wp-content/uploads/2019/12/CORBEL_Academia_Industry_Collaboration_Best_Practices_Guide.pdf)| Suggested by @vhellon|
+
 ## Case Study Writing
 Case study templates are crucial for ensuring clear and consistent reporting of academia-industry collaborations. They provide a structured framework to capture key details and effectively communicate the project's goals, methods, and outcomes. Below are some resources from The Turing Way to help you effectively communicate your collaborations.
-### TTW Resources
+## TTW Resources
 |Title and link|Relevance|
 |--------------|---------|
 |[The Turing Way Practitioners Hub / Case Study Writing Framework](https://zenodo.org/records/10000713)| This resource could be used as the backbone for case study reporting of academia-industry collaboration. However, it won't be completed until January 2024 |<!--- -->
