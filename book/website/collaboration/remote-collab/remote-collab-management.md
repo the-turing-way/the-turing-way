@@ -44,7 +44,7 @@ Therefore, it is important to track those tasks in an online event management to
 - [Asana](https://asana.com/): online kanban tool that can be used for creating different teams create tasks, set deadlines and send reminders.
 - [Jira](https://www.atlassian.com/software/jira): useful for large event teams to help them track tasks before, during, and after the event.
 - [GitHub project board](https://github.com/features/project-management/): every repository on GitHub can have a project board where tasks can be issues and Pull Requests that can be coordinated, tracked, and updated transparently by all contributors.
-- [notion.so](https://www.notion.so/): This is a high-level project management tool that allows storing reports, creating documents and integrate different tools.
+- [notion.so](https://www.notion.so/): This is a high-level project management tool that allows storing reports, creating documents and integrating different tools.
 
 
 ### Maintaining Shared Notes
