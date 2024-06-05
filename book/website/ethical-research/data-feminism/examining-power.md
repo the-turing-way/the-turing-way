@@ -12,10 +12,8 @@ Here are some main ideas from this chapter on examining power.
 
 (er-data-feminism-c1-powerdomains)=
 ## Domains of Power
-Power systems can be configured and experienced across four domains:
 
-![image](https://hackmd.io/_uploads/BJeHBss40.png)
-*Source: https://data-feminism.mitpress.mit.edu/pub/vi8obxh7#nkiyehtj87r*
+Power systems can be configured and experienced across [four domains](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7#nkiyehtj87r):
 
 1. **Structural**: The institutional framework (The policies and laws that exist).
 2. **Disciplinary**: Regulatory and normative practices (How these policies/laws are enforced).
