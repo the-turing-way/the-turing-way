@@ -26,11 +26,7 @@ The continual tension of rigour vs. relevance remains both the opportunity for n
 
 ## Case Study Writing
 Case study templates are crucial for ensuring clear and consistent reporting of academia-industry collaborations. They provide a structured framework to capture key details and effectively communicate the project's goals, methods, and outcomes. Below are some resources from The Turing Way to help you effectively communicate your collaborations.
-## TTW Resources
-|Title and link|Relevance|
-|--------------|---------|
-|[The Turing Way Practitioners Hub / Case Study Writing Framework](https://zenodo.org/records/10000713)| This resource could be used as the backbone for case study reporting of academia-industry collaboration. However, it won't be completed until January 2024 |<!--- -->
-|[TTW Case Study Template](https://github.com/the-turing-way/the-turing-way/tree/main/book/templates/case-study-template)|This resource could be used as the backbone for case study reporting of academic-industry collaboration|
 
+A case study writing template for industry-academia collaborations is currently being developed and will be shared here as a resource. This would then become the preferred case study reporting template when contributing to the [case study library](https://github.com/f-rower/the-turing-way/blob/Case-Studies-and-Best-Practices-in-Academic-Industry-Collaboration/book/website/collaboration/academic-industry/case-studies-and-best-practices/case-study-library.md)
 # Conclusion
 This guide equips you for successful academia-industry collaborations by providing practical resources and exploring the associated benefits and challenges. By leveraging the curated materials and best practices, you can establish a strong foundation for your collaborative project. Remember that clear communication is key. Consider using the provided case study templates to effectively document and share your collaboration's impact.
