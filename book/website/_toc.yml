@@ -17,24 +17,22 @@ parts:
       
       - file: foreword/foreword
         sections:
-        - title: Vision and Mission
-          file: foreword/vision-mission
-        - title: History
-          file: foreword/history
-        - title: Navigating the Book
-          file: foreword/navigate
-        - title: Cite us
-          file: foreword/cite-us
-        - title: Participation Guideline
-          file: foreword/participation
-        - title: Community and Roles
-          file: foreword/community
-        - title: Ways of Working
-          file: foreword/ways-of-working
-        - title: Community Governance
-          file: foreword/governance
-        - title: Highlights and Impact
-          file: foreword/impact
+        - title: Background
+          file: background
+        - title: Navigating the Handbook
+          file: navigate
+        - title: Community
+          file: community
+        - title: Community Roles
+          file: community-roles
+        - title: Emergence as The Turing Way Strategy
+          file: embracing-emergent-strategy
+        - title: Embracing the Principles of Digital Commons
+          file: embracing-digital-commons
+        - title: How to Cite
+          file: cite-us
+        - title: Frequently Asked Questions
+          file: faqs
 
       # ===== Guide for Reproducible Research ========================================
       

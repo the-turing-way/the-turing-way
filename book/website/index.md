@@ -17,7 +17,7 @@ Browse the different guides that make up the book, or use the search box to sear
 All stakeholders, including researchers, software engineers, project leaders and funding teams, are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science.
 You can inspect our resources on [GitHub](https://github.com/the-turing-way/the-turing-way), contribute to the project as described in our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
 
-In the {ref}'Foreword Section<fw>' of this book, we provide meta-level information about _The Turing Way_, including guidance on how to use and navigate this book and participate in the community.
+In the {ref}'Foreword Section<fw>' of this book, we provide meta-level information about _The Turing Way_, including guidance on how to use and navigate this book, how to cite the book and opportunities to participate in the community.
 
 The book is collaboratively written and open from the start.
 Please [join our Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw) to connect and discuss your ideas and [subscribe to our newsletter](https://buttondown.email/turingway) to follow updates from our community.

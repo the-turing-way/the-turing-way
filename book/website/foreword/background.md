@@ -1,7 +1,8 @@
 (fw-background)=
 # Background
 
-Reproducible research is necessary to ensure that scientific work can be trusted. Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code. 
+Reproducible research is necessary to ensure that scientific work can be trusted.
+Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code. 
 The goal is to ensure that all results can be independently verified and built upon in future work. 
 This is sometimes easier said than done. 
 Sharing these research outputs means understanding data management, library sciences, software development, and continuous integration techniques: skills that are not widely taught or expected of academic researchers and data scientists.
@@ -21,4 +22,21 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 The book started in January 2019 as a guide for reproducibility, covering {ref}`rr-vcs`, {ref}`rr-testing`, and {ref}`rr-ci`. However, technical skills are just one aspect of making data science research "open for all" and so in February 2020, _The Turing Way_ expanded into a series of guides: {ref}`rr`, {ref}`pd`, {ref}`cm`, {ref}`cl`, and {ref}`er`.
 
-The project has always been developed openly and any and all questions, comments and recommendations are always welcome at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way.
+The project has been developed openly and any and all questions, comments and recommendations are always welcome at our GitHub repository: https://github.com/alan-turing-institute/the-turing-way.
+We really appreciate you using its resources, any references that you make to _The Turing Way_ project in your work, and we hope it is useful.
+
+## Impact Story from 2019
+
+_The Turing Way_ is a global community of advocates committed to changing the research culture and data science for the better.
+
+An [impact story from The Alan Turing Institute (from 2019)](https://www.turing.ac.uk/research/impact-stories/changing-culture-data-science) - written by Sean O'Neil through an interview with the Kirstie Whitaker -- highlighted the following points:
+
+- There is a crisis of reproducibility  in science. 
+- ‘Publish-or-perish’ incentives and excessive data secrecy stifles progress and wastes resources: siloed science is slow science. 
+- _The Turing Way_ is an evolving online ‘handbook’ on how to conduct world-leading, reproducible research in academic data science and AI with the goal of making reproducible research “too easy not to do”.  
+- The book deals not only with the ‘how’ of things, but also the ‘why’ – the ethos and long-term benefits of reproducible research.
+- _The Turing Way_ is also a flourishing global community of research engineers, data librarians, industry professionals and research experts dedicated to capturing and sharing research best-practise, tools and data.  
+
+> “The reuse of other people’s data provides useful insights for new research questions and products, and drives new scientific discoveries." - Susanna-Assunta Sansone,  Associate Professor in Data Readiness at the University of Oxford and Co-lead of FAIR-Cookbook
+
+Through community contributions, the handbook has since grown from a Guide on Research Reproducibility to multiples guides, a global community and numerous resources built and shared by the members of our community.

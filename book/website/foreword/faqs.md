@@ -1,11 +1,12 @@
-(fw-ways-of-working)=
-# Ways of Working
-*We want to meet you where you are.* 
+(fw-faqs)=
+# Frequently Asked Questions
+
+*Meeting you where you are.* 
 
 In this document, we provide an overview of resources and ways of working in the community.
 Although, most of these resources are described in different chapters, you can always return to this page to find quick access to useful pointers and links.
 
-## 1. Get to Know the Project
+## 1. Getting to Know the Project
 
 | You might be wondering | You can learn about that here |
 |:----------------------- |:---------------------------------|
@@ -30,7 +31,7 @@ Although, most of these resources are described in different chapters, you can a
 | Is there a recommended format for the chapters? | Yes. Please see this {ref}`Style guide<ch-style>` and recommendations on how to {ref}`Maintain Consistency<ch-consistency>`|
 | Are there any template and supporting materials for people writing chapters? | Here are some templates and workflows for {ref}`Contributing and Developing Chapters<ch-contributing>` |
 
-## 3. Ways to Contribute
+## 3. Contributing
 
 | You might be wondering | You can learn about that here |
 |:----------------------- |:---------------------------------|
@@ -42,18 +43,17 @@ Although, most of these resources are described in different chapters, you can a
 
 ## 4. Participating Synchronously
 
-*Note: Find out about lates events in our [monthly newsletters](https://buttondown.email/turingway/archive/).*
+*Note: Find out about latest events in our [monthly newsletters](https://buttondown.email/turingway/archive/).*
 
 | Types of calls/meetings | How |
 |:----------------------- |:---------------------------------|
-| {ref}`ch-coworking-collabcafe` | Every first and third Wednesday of each month, 15:00 - 17:00 UTC. Anyone interested in collaborating with _The Turing way_ can join. |
+| What is a {ref}`ch-coworking-collabcafe`? | These are open coworking call for anyone interested in collaborating with _The Turing way_ members. These take place every first and third Wednesday of each month, 15:00 - 17:00 UK time. |
 | {ref}`ch-bookdash` | These are a week-long events organised twice a year. Participants are selected through open calls for applications. |
-| {ref}`ch-fireside-chat` | These public online events are organised frequently to feature open discussions and panels with experts, champions and their projects in reproducibility, open research, ethics, collaboration and other opportunities in data science and research. |
-| Community Forums | These online calls bring together any member of community - including people who have not yet contributed to __The Turing way__. Our aim is to leverage the expertise across our community and we explicitly invite you to review our processes and recommend improvements in our decision-making. |
-| Onboarding calls | These calls are hosted every two months, join us to connect with other new members of the community and learn more about the project. |
-| {ref}`ch-fireside-chat` | These public online events are organised frequently to feature open discussions and panels with experts, champions and their projects in reproducibility, open research, ethics, collaboration and other opportunities in data science and research. |
-| Working Group Meetings | Different {ref}`Working Groups<subprojects>` meet regularly to discuss and work on specific areas of their interest in _The Turing way_. |
-| Meeting community members at in-person events | Our community members often attend several events/conferences where you can plan to join them! You can connect with the team abd community on Slack workspace. |
+| What is a {ref}`Fireside Chat<ch-fireside-chat>`? | These public online events are organised frequently to feature open discussions and panels with experts, champions and their projects in reproducibility, open research, ethics, collaboration and other opportunities in data science and research. |
+| What is a Community Forum? | These online calls bring together any member of community - including people who have not yet contributed to __The Turing way__. Our aim is to leverage the expertise across our community and we explicitly invite you to review our processes and recommend improvements in our decision-making. |
+| What are onboarding calls? | These calls are hosted every two months, join us to connect with other new members of the community and learn more about the project. |
+| Are there Working Group Meetings? | Different {ref}`Working Groups<subprojects>` meet regularly to discuss and work on specific areas of their interest in _The Turing way_. Anyone interested in their work can contact the chair to join these calls. |
+| Can I meet community members at in-person events? | Our community members often attend several events/conferences where you can plan to join them! You can connect with the team abd community on Slack workspace. |
 
 ## 5. Participating Asynchronously
 

@@ -1,5 +1,5 @@
-(fw-navigate)=
-# Navigating the Book
+(fw-navigating)=
+# Navigating the Handbook
 
 _The Turing Way_ handbook is organised in five guides, Community Handbook, foreword and afterword sections.
 
@@ -12,10 +12,10 @@ _The Turing Way_ handbook is organised in five guides, Community Handbook, forew
 * {ref}`ch`
 * {ref}`aw`
 
-```{figure} ../figures/theturingway-chapters.jpg
+```{figure} figures/theturingway-chapters.*
 ---
 name: theturingway-chapters
-alt: The Turing Way Guide to reproducible research and its structure illustrated to show a set of doors to represent how it's built on chapters and sub chapters of the different areas of the guide
+alt: The Turing Way Guide to reproducible research and it's stucture illustrated to show a set of doors to represent how it's built on chapters and sub chapters of the different areas of the guide
 ---
 _The Turing Way_ project illustration by Scriberia. Original version on Zenodo. http://doi.org/10.5281/zenodo.3695300.
 ```
