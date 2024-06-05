@@ -1,0 +1,90 @@
+(fw-embracing-digital-commons)=
+# Embracing the principles of Digital Commons
+
+_In this document, Dr Malvika Sharan, co-lead of The Turing Way shares her insights from working with The Turing Way community since 2019._
+
+The Turing Way means different things to different people, shaped by factors such as our backgrounds, identities, interests, locations and areas of work, as well as different contexts as learners, educators and practitioners in data science.
+
+As a community-developed project, _The Turing Way_ belongs to the community, and we, _The Turing Way_ team and our community of leaders, are committed to fostering shared ownership through active involvement and collaboration with diverse contributors.
+The intricacies and beauty of this collaboration are evident in the continuous growth, diversity and acknowledgement that _The Turing Way_ has garnered over the years.
+
+I believe open science and community building are at the core of my personal and professional goals.
+To me, open science is a commitment to achieving knowledge equity. 
+
+This means facilitating access for individuals from diverse backgrounds, fostering their active contribution, and evolving the landscape of knowledge itself. 
+
+I actively champion open science and community building in _The Turing Way_.
+My commitment to open knowledge and collaboration is deeply rooted in my understanding of the theory and practices of “knowledge commons” as applied to digital commons.
+
+```{admonition} Definitions
+
+**Knowledge Commons: **Knowledge Commons refers to collectively owned and managed knowledge, like data, content, and software.
+Unlike physical resources, this knowledge, once shared, can be used by countless people simultaneously without any depletion.
+Open-source projects like Linux and collaborative platforms like Wikipedia exemplify this power of unrestricted sharing for research, education, and innovation.
+
+**Digital Commons: **Digital Commons encompasses global resources created and maintained digitally through collective efforts.
+This emphasis on collaboration extends to licensing, authorship, production, governance, and participation, actively ensuring equitable access to digital resources for all. 
+
+Examples of digital commons include licensing infrastructure like Creative Commons for sharing resources with clear conditions and digital platforms like Wikimedia Commons and Zenodo for sharing and accessing media files and research components (each with appropriate license) respectively. 
+These initiatives exemplify the power of digital commons in democratising access to knowledge and enhancing opportunities for others to reuse or build on it.
+
+References: 
+
+* Ostrom, E. (2015). Governing the Commons: The Evolution of Institutions for Collective Action. Cambridge University Press. doi: 10.1017/CBO9781316423936, Hess, C., Ostrom, E. (Eds) Understanding Knowledge as a Commons: From Theory to Practice. The MIT Press. 
+* de Rosnay, M. D., & Stalder, F. (2020). Digital commons. Internet Policy Review, 9(4). https://policyreview.info/concepts/digital-commons,  \
+Frion, L., [POLICY BRIEF] Digital Commons as Alternative Systems of Value. https://www.sciencespo.fr/public/chaire-numerique/en/2023/06/15/
+
+```
+
+Participatory processes for managing the Commons for the shared benefit are called commoning ([Eight Points of Reference for Commoning]([https://www.bollier.org/blog/eight-points-reference-commoning](https://www.bollier.org/blog/eight-points-reference-commoning))). 
+
+A (digital) common always requires a (i) community – people who can or want to access (ii) a common -- physical or digital resources, and apply (iii) governance – a set of rules or structured interventions that involve the community in caring for both the resources and other members of the community. 
+
+_The Turing Way_ is a (i) **community** — our readers, users, developers, and collaborators who have access to (ii) **_The Turing Way_ book** — a digital common shared under a permissive license for reuse, and (iii) **governance** — our community norms, practices, and processes through which the project is built, maintained, governed, and sustained with the involvement of community members.
+
+_The Turing Way_ is also aligned with the principles of Digital Public Goods (DPG) -- digital assets that provide value to society and contribute to the public good. 
+
+_The Turing Way_ book serves as a Digital Public Good (DPG) and has been listed as one by the Digital Public Good Alliance ([under the content category](https://app.digitalpublicgoods.net/a/10953)), acting as a robust reference and educational material.
+Co-developed with a diverse community, The Turing Way addresses the need for centralising fragmented knowledge around open, reproducible, ethical and collaborative data science practices, making it accessible to the public without depleting their quality or availability.
+
+```{admonition} Digital Public Good and Digital Commons
+
+Both Digital Commons and Digital Public Goods are integral to the Open Science movement.
+
+Not all digital public goods are digital commons or openly accessible for everyone, as they can be centrally managed for public benefit without necessarily involving a community in their maintenance. 
+
+Examples of Digital Public Goods include Free and Open Source Software (FOSS) shared freely for modification and redistribution (not all FOSS are community-developed).
+The United Nations Digital Public Good Alliance lists software, data, resources, and initiatives aligned with the UN's Sustainable Development Goals.
+
+```
+
+Developed and maintained by a globally distributed community, both, _The Turing Way_ handbook and its community have continued to evolve in response to the changing landscape of data science and the growing need to make it collaborative, inclusive, and accessible to as many people as possible.
+As a public resource — _The Turing Way_ operationalises approaches that underpin digital commons and digital public goods, some of which are outlined below:
+
+* Champion **openness** of knowledge and participation processes
+* Foster an environment for **diversity** in stakeholders, ideas, and activities
+* Actively **exemplify** the practices we share.
+* Proactively promote **equity** through collaboration with underrepresented communities.
+* Build strategic **partnerships** with different stakeholders to accelerate the adoption of practices across sectors.
+* Establish **shared ownership** for long-term maintenance and sustainability.
+
+Below, I elaborate on how these principles are operationised in _The Turing Way_ at both levels: a) in building _The Turing Way_ project and community; and b) in building the handbook and other resources, promoting open, reproducible, ethical, and collaborative data science practices.
+
+1. **Champion openness of knowledge and participation processes:** Following the principle of 'as open as possible and as closed as necessary,' we prioritise openness and transparency to esure access and equitable participation.
+    * We evolve community roles and processes for open engagement and decision-making, ensuring transparency in pathways for community involvement and project direction.
+    * We actively engage community members in co-creating accessibly written chapters and  openly licensed resources on data science, aiming to broaden participation in the fields of Data Science and research. Join us in promoting transparency and inclusivity in our community-driven initiatives!
+2. **Foster an environment for diversity in stakeholders, ideas, and activities:** Through proactive measures, we cultivate an environment that champions inclusion, collaboration, and ethical research, fostering a diverse range of contributors and a broad spectrum of knowledge outputs.
+    * In _The Turing Way_, we offer clear community participation guidelines, a Code of Conduct, an acknowledgement process, and detailed resources outlining our operational methods. By creating pathways for involvement in both non-governance and governance roles, we actively support diverse community members and their unique contributions to _The Turing Way_.
+    * Our resources are designed to embody and promote EDIA (Equity, Diversity, Inclusion, and Accessibility) principles. Join us in building a community that values and amplifies diverse perspectives!
+3. **Actively exemplify the practices we share:** As a community, an open science initiative, and the creators of a data science book, our commitment is to embody the practices we advocate in _The Turing Way_.
+    * The practices we share in the book aren't just ideals — they shape the core of our project management and community engagement. Drawing from open science, extensive collaboration, and ethical research, we model practices that serve as a blueprint for integrating these principles into various work contexts.
+    * Our Community Handbook encapsulates and disseminates these practices, providing a guide for others to launch community-led projects akin to _The Turing Way_ in diverse settings. Join us in building a community-driven future!
+4. **Proactively promote equity through collaboration with underrepresented communities:** In _The Turing Way_, our vision for a large-scale, global collaboration is rooted in acknowledging the expansive definition and scope of equity.
+    * Diversity, intersectionality, equity, inclusion, and accessibility are woven into the fabric of _The Turing Way_ community. Our project is purposefully crafted to ensure the involvement of a diverse range of stakeholders, representing varied interests, and employs equitable approaches in addressing them.
+    * Through the collective wisdom shared in _The Turing Way_ book, we're committed to ensuring that equity is not an additional responsibility but an integral consideration embedded at every stage of research throughout its lifecycle. Join us in promoting a future where equity is at the forefront of data science and research!
+5. **Build strategic partnerships with different stakeholders to accelerate the adoption of practices across sectors:** We're on a mission to fast-track the adoption of _The Turing Way_ resources and best practices across diverse settings, whether through formal partnerships or more informal collaborations.
+    * In _The Turing Way_ community, we actively create spaces for cross-community collaborations, hosting engaging events like Collaboration Cafés, Fireside Chats, and Book Dash. Our commitment goes beyond our community borders – we actively contribute to the infrastructure we use and give back to projects led by our community members.
+    * The users and contributors of _The Turing Way_ aren't just participants; they become advocates, implementing best practices within their organizations. To expand our impact, we have launched _The Turing Way_ Practitioners Hub, pioneering sector-specific collaboration across academia, government, industry, and the public. Join us in shaping the future of collaborative best practices!
+6. **Establish shared ownership for long-term maintenance and sustainability:** We focus on a collaborative culture, ensuring the project is owned and maintained by the community for its lasting success.
+    * Through co-development approaches, contribution guidelines, and governance being co-created with community involvement, we foster a shared sense of ownership, and responsibility for maintenance and sustainability in the long term.
+    * To ensure continuous access and benefit, our resources and community need careful maintenance. _The Turing Way_ is an evolving project, requiring community support to identify when updates, replacements, or archiving are needed.

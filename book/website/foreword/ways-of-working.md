@@ -19,8 +19,7 @@ Although, most of these resources are described in different chapters, you can a
 | I don't feel like reading, can I watch short videos? | Here is a [YouTube playlist with short videos](https://www.youtube.com/playlist?list=PLBxcQEfGu3DkSOD-LbW5BxFIBvAgHvGHe). |
 | Where can I learn about the next community event that I can join? | Check out our [Community Calendar](https://calendar.google.com/calendar/u/1?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ). |
 
-
-## 2. Documents and Participation Guidelines 
+## 2. Documentation and Participation Guidelines 
 
 | You might be wondering | You can learn about that here |
 |:----------------------- |:---------------------------------|
@@ -31,8 +30,7 @@ Although, most of these resources are described in different chapters, you can a
 | Is there a recommended format for the chapters? | Yes. Please see this {ref}`Style guide<ch-style>` and recommendations on how to {ref}`Maintain Consistency<ch-consistency>`|
 | Are there any template and supporting materials for people writing chapters? | Here are some templates and workflows for {ref}`Contributing and Developing Chapters<ch-contributing>` |
 
-
-## 3. See Ways to Contribute
+## 3. Ways to Contribute
 
 | You might be wondering | You can learn about that here |
 |:----------------------- |:---------------------------------|
@@ -42,16 +40,20 @@ Although, most of these resources are described in different chapters, you can a
 | What contributions are currently being made by others? | Browse open [Pull Requests (PR) on GitHub](https://github.com/alan-turing-institute/the-turing-way/pulls) |
 | How do people interact with each other when reviewing contributions? | Click on an open PR that has been commented on to see how people exchange ideas and feedback. [See this example](https://github.com/alan-turing-institute/the-turing-way/pull/1656) |
 
+## 4. Participating Synchronously
 
-## 4. Participation in Meetings
+*Note: Find out about lates events in our [monthly newsletters](https://buttondown.email/turingway/archive/).*
 
-| Types of calls/meetings | When |
+| Types of calls/meetings | How |
 |:----------------------- |:---------------------------------|
-| Weekly coworking calls | Every week on Monday, 11:00 - 12:00 UTC, [Shared Notes](https://hackmd.io/@turingway/coworking-call). Read more in [this chapter](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-weekly.html) |
-| Collaboration cafes | Every first and third Wednesday of each month, 15:00 - 17:00 UTC, [Shared Notes](https://hackmd.io/@turingway/collaboration-cafe) |
-| Informal chat and onboarding calls | To schedule a meeting with a team member to have informal chat or get onboarded in the project, please connect with us on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw) |
-| Book Dash Events | These are 1.5 days to 4 half days events twice a year, which invite applications of interest by open calls. |
-| Joining community members at other events | Our community members often attend several conferences where you can plan to join them! You can check these by interacting on appropriate Slack Channels. |
+| {ref}`ch-coworking-collabcafe` | Every first and third Wednesday of each month, 15:00 - 17:00 UTC. Anyone interested in collaborating with _The Turing way_ can join. |
+| {ref}`ch-bookdash` | These are a week-long events organised twice a year. Participants are selected through open calls for applications. |
+| {ref}`ch-fireside-chat` | These public online events are organised frequently to feature open discussions and panels with experts, champions and their projects in reproducibility, open research, ethics, collaboration and other opportunities in data science and research. |
+| Community Forums | These online calls bring together any member of community - including people who have not yet contributed to __The Turing way__. Our aim is to leverage the expertise across our community and we explicitly invite you to review our processes and recommend improvements in our decision-making. |
+| Onboarding calls | These calls are hosted every two months, join us to connect with other new members of the community and learn more about the project. |
+| {ref}`ch-fireside-chat` | These public online events are organised frequently to feature open discussions and panels with experts, champions and their projects in reproducibility, open research, ethics, collaboration and other opportunities in data science and research. |
+| Working Group Meetings | Different {ref}`Working Groups<subprojects>` meet regularly to discuss and work on specific areas of their interest in _The Turing way_. |
+| Meeting community members at in-person events | Our community members often attend several events/conferences where you can plan to join them! You can connect with the team abd community on Slack workspace. |
 
 ## 5. Participating Asynchronously
 

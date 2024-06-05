@@ -1,45 +1,38 @@
-(fw-community-roles)=
-# Community and Roles
+(fw-community)=
+# _The Turing Way_ Community
 
-The _The Turing Way_ handbook is collaboratively written and open from the start.
-The handbook maybe the visible product of the work we do in the project, but, the process of collaborative development with the help of its community is what we value the most.
-This project can simply not exist without the collaborative nature of this project and the willingness of our community members to support each other.
-We are committed to providing an open, accessible and inclusive space for all our community members where they are appreciated, upskilled and given opportunities to contribute to the project in a way that is most meaningful for them.
+_The Turing Way_ ([https://the-turing-way.netlify.app](https://the-turing-way.netlify.app)) is an open-source, collaborative, and community-driven project focused on data science and research reproducibility.
+The project encompasses a handbook in data science with five guides developed by a diverse community of contributors from various sectors.
+_The Turing Way_ has been co-authored by more than 450+ (as of June 2024) contributors and is utilised by a broad community of contributors, collaborators, and learners from academia, industry, and government.
 
-## Contributors
+This community is dedicated to sharing and facilitating research best practices, tools, and infrastructure.
+The project is managed by the project delivery team, which includes two project leads, a research project manager, and a research community manager within The Alan Turing Institute's Tools, Practices, and Systems Research Programme.
+The governance body of _The Turing Way_ is represented by the project delivery team and volunteers from the community who lead various formal and informal initiatives.
+All contributions, discussions, and contributor details are handled through the central GitHub repository ([https://github.com/alan-turing-institute/the-turing-way/](https://github.com/alan-turing-institute/the-turing-way/)). 
+Contributors' details are available in the [Contributors Records](https://the-turing-way.netlify.app/afterword/contributors-record.html%C2%A0), and the [project summary](https://docs.google.com/document/d/1LzSWfLPk2uxC9YrVg61H4FgfiHvGCnhTBX-kTGZ1Er4/edit#) from 2022 offers a comprehensive overview of recent outcomes and impacts.
 
-*Everyone has a skill that is useful for someone, and therefore anyone can contribute to _The Turing Way_.*
+## Vision, Mission and Scope
 
-We encourage and support everyone in _The Turing Way_ to collaborate on shared ideas and resources, co-develop chapters, review and improve existing materials and share them with the wider research community.
-Through this process, our contributors build new connections and build a sense of belonging and shared-ownership in the project.
+**Moonshot Goal:** Make reproducibility too easy not to do.
 
-## Opportunities for Community Members
+**Vision:** Embed reproducible, ethical and collaborative practices in research and data science worldwide.
 
-Community members are provided with opportunities to learn new skills, share their ideas and collaborate with others. 
-They are also given mentorship opportunities in the project as they make their contributions to The Turing Way or other open source projects and are encouraged to mentor new participants of the project.
+**Missions:** Our missions serve as a strategic framework for operationalising our vision and acting on our commitment to openness, inclusivity, ethical conduct and access in data science and AI. 
 
-To make this project truly accessible and useful for everyone, we invite you to contribute your skills and bring your perspectives into this project.
-To join this community, please read our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) and ways to [get in touch](https://github.com/alan-turing-institute/the-turing-way#get-in-touch).
-More information about the community and the project is available in the {ref}`ch`.
-We look forward to expanding and building _The Turing Way_ together.
+1. Engage diverse stakeholders in _The Turing Way_ through open, inclusive and collaborative efforts, **fostering a community** that collectively shapes research and scientific discourse in data science and AI.
+2. Co-create, maintain, and sustain an open-source, **community-driven handbook** on data science, providing tools, practices and real-world examples of **open and reproducible research**.
+3. Advocate for **responsible and ethical practices**, promoting transparency, fostering accountability and embedding human rights principles throughout the lifecycle of research, data science and AI projects. 
+4. Champion best practices in **communication, collaboration, and project design** as fundamental pillars for making data science and AI accessible, comprehensible, and beneficial for all stakeholders.
 
-(fw-roles)=
-## Roles and Responsibilities
+**Scope of _The Turing Way_ Project**
 
-### Sustained Members are Designated as Core Contributors
+_The Turing Way_ is continually evolving, adapting to the needs and interests of the community. As of December 2023, the scope of _The Turing Way_ can be described under six areas of work:
 
-Long-term and sustained contributors of the project are considered part of the core contributors groups who take on various leadership roles in the project.
-Please read  to learn about how we acknowledge your work and how our contributors are {ref}`highlighted in the project<ch-acknowledgement-record>`
+1. **_The Turing Way_ Book:** Disseminating best practices, examples, and recommendations openly in chapters covering reproducible research, communication, collaboration, project design, ethics, and community.
+2. **_The Turing Way_ Community:** Fostering a diverse and international community, encouraging contributions, building upon existing knowledge, and collaboratively advancing best practices in data science.
+3. **Open Leadership:** Promoting open leadership by providing community infrastructure, processes, and resources for individuals from diverse backgrounds and interests to lead and connect a decentralised network of actors and their efforts.
+4. **Domain Expertise:** Collaborating with representatives and experts who contextualise and share _The Turing Way_ resources in their respective domains.
+5. **Project Partnership:** Proactively partnering with organisations and projects aligned with our vision and mission, combining knowledge, expertise, and resources for the shared benefits of our communities.
+6. **Global Impact:** Extending the impact of _The Turing Way_ by conducting global outreach, engaging with different sectors, supporting the localisation of resources, advocating for policy changes and facilitating cross-community efforts
 
-### Mentors and Reviewers
-
-It is often hard for new members to enter an ongoing project when they don't know what their role in the community would look like.
-
-## Represent _The Turing Way_
-
-We have created a [promotion pack](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) to help you in presenting and sharing about The Turing Way in your network.
-
-_The Turing Way_ team will be happy to provide help in delivering a talk by providing training or feedback.
-Please email [theturingway@gmail.com](mailto:theturingway@gmail.com) to set 1:1 meeting.
-
-![Gif showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table](https://media.giphy.com/media/gKIUisnjpj2PS75nOJ/giphy.gif)
+**Get Involved:** If you have ideas and plans for _The Turing Way_ that fall outside the scope listed above, please reach out to _The Turing Way_ team via email at [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk). Your input is valuable to the ongoing development of the project.

@@ -1,5 +1,5 @@
-(fw-history)=
-# History
+(fw-background)=
+# Background
 
 Reproducible research is necessary to ensure that scientific work can be trusted. Funders and publishers are beginning to require that publications include access to the underlying data and the analysis code. 
 The goal is to ensure that all results can be independently verified and built upon in future work. 

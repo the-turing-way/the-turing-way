@@ -1,14 +1,16 @@
 (fw-navigate)=
 # Navigating the Book
 
-_The Turing Way_ handbook is organised in five guides and a Community Handbook.
+_The Turing Way_ handbook is organised in five guides, Community Handbook, foreword and afterword sections.
 
+* {ref}`fw`
 * {ref}`rr`
 * {ref}`pd`
 * {ref}`cm`
 * {ref}`cl`
 * {ref}`er`
 * {ref}`ch`
+* {ref}`aw`
 
 ```{figure} ../figures/theturingway-chapters.jpg
 ---
