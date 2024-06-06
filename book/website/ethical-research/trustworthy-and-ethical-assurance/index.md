@@ -9,7 +9,8 @@
 (er-tea-summary)=
 ## Summary
 This chapter explores a framework for ethical reflection, deliberation, and communication, known as 'Trustworthy and Ethical Assurance' (or, TEA for short).
-The chapter begins by introducing TEA, explaining how it complements values and principles for [research ethics](../ethics-intro.md), but develops on these principles by providing a more structured process for documenting and communicating the actions or decisions taken across a research project's lifecycle.
+The chapter begins by introducing TEA, explaining how it complements values and principles for [research ethics](../ethics-intro.md), and then develops on these principles by providing a more structured process for documenting and communicating the actions or decisions taken across a research project's lifecycle.
+We also explore how the TEA framework utilises the [FAIR principles](../../reproducible-research/rdm/rdm-fair.md) to provide a novel approach to assurance that is well-suited to application areas such as data science and artificial intelligence (i.e. data-driven technologies). 
 
 Central to the TEA framework, and discussed in this chapter, are the following:
 
