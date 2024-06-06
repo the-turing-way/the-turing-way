@@ -43,7 +43,9 @@ When data teams are predominantly from dominant groups, their perspectives undul
 
 (er-data-feminism-c1-privilege)=
 ## Privilege Hazard
-This phenomenon occurs when those in the most privileged positions (with good education, respected credentials, professional accolades) wield disproportionate influence. This hazard is more harmful in aggregate as it permeates structural, disciplinary, and hegemonic domains.
+
+This phenomenon occurs when those in the most privileged positions (with good education, respected credentials, professional accolades) wield disproportionate influence.
+This hazard is more harmful in aggregate as it permeates structural, disciplinary, and hegemonic domains.
 
 (er-data-feminism-c1-threats)=
 ## The Threat of AI
