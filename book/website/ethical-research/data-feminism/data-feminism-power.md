@@ -27,6 +27,7 @@ Dimensions such as gender, race, sexuality, geography, and ability can lead to u
 
 (er-data-feminism-c1-questions)=
 ## Critical Questions
+
 To understand how power unfolds in and around data, consider:
 
 1. **Who is engaged in data science work (and who is not)?**
