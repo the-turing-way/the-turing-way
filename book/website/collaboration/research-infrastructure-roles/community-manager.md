@@ -41,7 +41,7 @@ Themes of Research Community Manager work can be:
 * Linking the right people up together (based on expertise, interests and project goals)
 * Identifying and developing engaged community members into community leaders
 * Bridging between technical and non-technical members of the community by creating and delivering training
-* Encouraging high standards of reproducible, ethical, inclusive and collaborative data science
+* Encouraging, modelling and mentoring community members in high standards of reproducible, ethical, inclusive and collaborative data science
 * Facilitating the creation of sub-networks within the community around shared experiences, for example, an early career researcher network
 
 The day-to-day tasks of a community manager could include: 
