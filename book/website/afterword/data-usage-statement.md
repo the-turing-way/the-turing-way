@@ -11,7 +11,7 @@ See our ongoing discussions around which insights could help improve the content
 ## User Awareness Statement - Google Analytics
 For the above reasons reason, we are currently tracking website traffic data through Google Analytics.
 But, Google Analytics is [problematic](https://piwik.pro/blog/is-google-analytics-gdpr-compliant/).
-We are working on using an open-source, GDPR-compliant analytics tool like Matomo instead.
+We are working on using an open-source, GDPR-compliant analytics tool like [Matomo](https://matomo.org/) instead.
 
 For now, we configured Google Analytics to be as GDPR-compliant as possible:
 
