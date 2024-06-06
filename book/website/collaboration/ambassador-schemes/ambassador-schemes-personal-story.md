@@ -142,4 +142,4 @@ Having a halfway point in-person meet up also helped a cohort feel, although thi
 
 Our final bit of advice is to build flexibility into your scheme. 
 Whilst planning is a must, we found once the scheme was up and running we did need to make some changes. 
-Examples of this being teaming up two scholars for a joint activity to combine their strengths and the aforementioned halfway in-person meet up, which we initially hadn't planned on but felt like a good opportunity. 
+Examples of this being teaming up two scholars for a joint activity to combine their strengths and the aforementioned halfway in-person meet up, which we initially hadn't planned on but felt like it was a good opportunity. 
