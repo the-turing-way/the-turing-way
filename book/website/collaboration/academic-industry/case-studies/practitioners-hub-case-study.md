@@ -35,7 +35,7 @@ During the course of the 2023 programme the Turing Way team co-created impact-ba
 
 ## What went well 
 
-1. The programme of activities was diverse, stimulating collaboration in different ways. It included but was not limited to:  training around open-source concepts and frameworks, co-hosting a fireside chat,and building impact-based case studies.  
+1. The programme of activities was diverse, stimulating collaboration in different ways. It included but was not limited to: training around open-source concepts and frameworks, co-hosting a fireside chat, and building impact-based case studies.  
 
 2. Different organisations had different levels of familiarity with open-source and best practices going into the programme. A kick-off workshop helped to 'level the playing field'. This was attended not only by the EiRs but other stakeholders and members of the BridgeAI network. During the workshop there were breakout discussions, talks from speakers and a panel discussion. 
 
