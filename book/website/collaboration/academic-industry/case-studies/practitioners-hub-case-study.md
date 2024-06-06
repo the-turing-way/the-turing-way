@@ -1,4 +1,4 @@
-(cl-practitioners-hub-case-study=)
+(cl-practitioners-hub-case-study)=
 # Case Study: Turing Way Practitioner's Hub 
 <!--
 Figure build is failing, this needs to be fixed
