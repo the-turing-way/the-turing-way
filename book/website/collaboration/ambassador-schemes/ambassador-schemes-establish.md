@@ -65,7 +65,7 @@ The impact of the scheme may determine whether the scheme can be run again in te
 This information is also important to record for reporting purposes for any organisation. 
 
 Recording impact could be done by keeping a spreadsheet of metrics such as how many events happened, how many people attended, how many resources were created and so on. 
-It could also involve qualitative metrics such as blog posts on project and capturing testimonials from the ambassadors themselves or people in the community that have been involved in their activities.
+It could also involve qualitative metrics such as blog posts on projects and capturing testimonials from the ambassadors themselves or people in the community that have been involved in their activities.
 
 (cl-ambassador-schemes-establish-end-of-cohort)=
 
