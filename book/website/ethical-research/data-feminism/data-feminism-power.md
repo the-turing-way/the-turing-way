@@ -38,6 +38,7 @@ These questions are uncomfortable but necessary as they reveal that certain grou
 
 (er-data-feminism-c1-dominance)=
 ## The Problem of Dominance
+
 When data teams are predominantly from dominant groups, their perspectives unduly influence decision-making processes.
 
 (er-data-feminism-c1-privilege)=
