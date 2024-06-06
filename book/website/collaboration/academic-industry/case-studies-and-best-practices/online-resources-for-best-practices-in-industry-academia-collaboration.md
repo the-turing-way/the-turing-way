@@ -19,10 +19,10 @@ The continual tension of rigour vs. relevance remains both the opportunity for n
 |[University‐industry collaboration: Grafting the entrepreneurial paradigm onto academic structures](https://www.emerald.com/insight/content/doi/10.1108/14601060710776734/full/html)|European Journal of Innovation Management|2007|
 
 ## Industry Resources
-|Title and Link|Relevance|
-|--------------|---------|
-|[Data Science: From Academia to Industry](https://es.catapult.org.uk/report/data-science-from-academia-to-industry/)| Suggested by @acocac |
-|[Academia-Industry Collaboration Best Practices Guide](https://eatris.eu/wp-content/uploads/2019/12/CORBEL_Academia_Industry_Collaboration_Best_Practices_Guide.pdf)| Suggested by @vhellon|
+|Title and Link|
+|--------------|
+|[Data Science: From Academia to Industry](https://es.catapult.org.uk/report/data-science-from-academia-to-industry/)|
+|[Academia-Industry Collaboration Best Practices Guide](https://eatris.eu/wp-content/uploads/2019/12/CORBEL_Academia_Industry_Collaboration_Best_Practices_Guide.pdf)|
 
 ## Case Study Writing
 Case study templates are crucial for ensuring clear and consistent reporting of academia-industry collaborations. They provide a structured framework to capture key details and effectively communicate the project's goals, methods, and outcomes. Below are some resources from The Turing Way to help you effectively communicate your collaborations.
