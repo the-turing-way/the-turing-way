@@ -1,7 +1,7 @@
 (cl-academic-industry-case-studies)=
-# Case Studies in Academia-Industry Collaboration
-This is a library of case studies in academia-industry collaboration projects. Each case study consists of a description of the case study, and discussions about best practices followed, challenges, and lessons learnt in navigating the case study. Tags will be added to each case study for easy referencing and navigation.
-You are encouraged to contribute to this library if you currently are or have been involved in academia-industry collaborative projects. We will soon release a template for reporting case studies in academia-industry collaboration, but in the meantime, please include a description of the collaboration, best practices followed, challenges, and lessons learnt in a MarkDown file and add a new entry to the table with your case study.
+# Case Studies in Academic-industry Collaboration
+This is a library of case studies in academic-industry collaboration projects. Each case study consists of a description of the case study, and discussions about best practices followed, challenges, and lessons learnt in navigating the case study. Tags will be added to each case study for easy referencing and navigation.
+You are encouraged to contribute to this library if you currently are or have been involved in academic-industry collaborative projects. We will soon release a template for reporting case studies in academic-industry collaboration, but in the meantime, please include a description of the collaboration, best practices followed, challenges, and lessons learnt in a MarkDown file and add a new entry to the table with your case study.
 |Title|Link|Description|Tags|
 |----|----|----|---|
 |Roche-Turing Collaboration|{ref}`Link <cl-turing-roche-case-study>`|This 5-year partnership is developing new data science methods to investigate large, complex, clinical and healthcare datasets to better understand how and why patients respond differently to treatment, and how treatment can be improved.|to be added|
