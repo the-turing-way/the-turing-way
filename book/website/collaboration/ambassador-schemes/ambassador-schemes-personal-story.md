@@ -19,7 +19,7 @@ It was also an ideal time to set it up (around two years into the five year part
 The principal benefit of the scheme for us was increasing the reach and engagement of the partnership by working with students in relevant research areas, connecting with their networks and overall bolstering our community. 
 
 At that time, if you wanted to engage with the partnership as an external researcher the main ways you could do this were through our open research funding calls or through existing community activities, such as attending our virtual seminars. 
-Therefore, in addition, we also felt this scheme would support me as the Research Community Manager to add ways for the growing external community to participate through the new community activities. 
+Therefore, in addition, we also felt this scheme would support me, as the Research Community Manager, to add ways for the growing external community to participate through the new community activities. 
 
 Lastly, the scheme would be a great opportunity for us as an academic-industry collaboration to play a role in supporting the career development of early career researchers and giving them experience of organisations from two different sectors (academia and industry), which we felt passionate about. 
 This type of cross-sectorial experience is hard to come by for early career researchers and a particular area in need of upskilling, highlighted in various UK government reports, such as the [UK's National Data Strategy](https://www.gov.uk/government/publications/uk-national-data-strategy/national-data-strategy).
