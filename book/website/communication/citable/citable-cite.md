@@ -57,7 +57,7 @@ You can find more examples on the [Manchester's Data Access Statements page](htt
 (cm-citable-cite-samples)=
 ## Citing Physical Samples
 
-When sharing results related to physical samples, ideally a persistent identifier is assigned to track the samples and associated data. 
+When sharing results related to physical samples, ideally a persistent identifier is assigned to track the samples and their associated data. 
 As with [data citation](cm-citable-cite-data), you include a citation in the references and a more detailed explanation in the data availability statement. 
 To learn more about how to cite physical samples and to check out examples, see the [Scientific Author Guide for Publishing Open Research Using Physical Samples](https://doi.org/10.6084/m9.figshare.24669057.v1) by {cite:ps}`Damerow2024physical`.
 
