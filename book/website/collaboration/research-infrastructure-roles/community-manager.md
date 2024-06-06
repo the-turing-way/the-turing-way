@@ -65,7 +65,7 @@ The day-to-day tasks of a Research Community Manager could include:
 
 (cl-infrastructure-community-managers-skills)=
 ## What qualifications or skills do you need to be a Research Community Manager? 
-The vast majority of Research Community Managers will have a scientific background that may include advanced degrees (at a Masters or Doctoral level). 
+The vast majority of Research Community Managers will have a scientific background that may include advanced degrees (at a Master's or Doctoral level). 
 Many Research Community Managers also have a background related to the specific field or discipline they manage a community in, but not all of them do - many parts of the research process and tools for collaboration are transferable across domains. 
 If the community is associated with software or programming, it is common for community managers to have some coding skills. 
 The focus on inclusive collaboration requires that Research Community Managers have significant depth of understanding in issues relating to Equality, Diversity, Inclusion and Belonging <mark>link to glossary?</mark>. 
