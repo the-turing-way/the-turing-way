@@ -3,7 +3,7 @@
 
 Building an engaged community around any collaboration can be key for long term success, sustainability and legacy. 
 For academic-industry collaborations, a focus on community can be crucial as often the two organisations have not worked together previously. 
-
+(cl-academic-industry-challenges)=
 ## Challenges of Building an Academia-Industry Community
 While the benefits of a strong community are numerous, fostering collaboration across academia and industry can present unique challenges. 
 
