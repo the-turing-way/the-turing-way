@@ -81,7 +81,7 @@ Additional resources that may also be of use in these planning stages are the {r
 Disagreements are inevitable in any collaboration. The team charter as part of the governance should outline a framework for addressing conflict constructively. While potentially distracting and unpleasant, planning ahead for disagreements can be a prudent way of managing limited resources for the project.
 
 Here are some options to consider:
-* Designated Mediator: Identify a neutral individual within the collaboration or from a third-party organization who can facilitate discussions and mediate any conflicts.
+* Designated mediator: Identify a neutral individual within the collaboration or from a third-party organisation who can facilitate discussions and mediate any conflicts.
 * Escalation Process: Establish a clear escalation process for addressing disagreements. This could involve initial discussions between directly involved parties, then escalating to team leads or a steering committee if necessary.
 * Conflict Resolution Principles: Outline principles for resolving conflicts, such as focusing on the issue at hand, respecting diverse viewpoints, and prioritizing the success of the collaboration.
 
