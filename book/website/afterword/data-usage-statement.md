@@ -1,10 +1,11 @@
 (data-usage)=
-# User Awareness Statement on Data Usage
+# TTW Book Data Usage
 
 We want to collect data on the reach and findability of _The Turing Way_ book, such that we can report on impact and also improve our book content to be accessible for a diverse and wide audience.
 
-See our ongoing discussions around which insights could help improve the content quality [here](https://github.com/the-turing-way/the-turing-way/discussions/3713)
+See our ongoing discussions around which insights could help improve the content quality [on GitHub](https://github.com/the-turing-way/the-turing-way/discussions/3713)
 
+## User Awareness Statement - Google Analytics
 For this reason, we are currently tracking website traffic data through Google Analytics.
 However, Google Analytics is problematic and so we are currently working towards adopting an open-source and GDPR-compliant analytics solution, such as Matomo for example.
 
