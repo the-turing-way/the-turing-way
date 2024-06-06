@@ -34,7 +34,7 @@ This also allows you to identify any background intellectual property on either 
 It is important to review this scientific strategy on a regular basis and adapt as necessary in response to ongoing research.
 
 For the Turing-Roche scientific strategy, the partnership approach was to brainstorm potential research topics from both parties to identify areas of common interest. 
-From this a North Star was developed to guide the direction of future research as well as a set of principles such as collaboration and open science which the partnership would operate under. 
+From this a shared goal was developed to guide the direction of future research as well as a set of principles such as collaboration and open science which the partnership would operate under. 
 Based upon these the partnership settled on research areas that fitted the priorities of both organisations. 
 
 (cl-academic-industry-establish-governance)=
