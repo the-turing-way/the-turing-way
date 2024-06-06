@@ -7,7 +7,7 @@ My name is Vicky Hellon and I am the Research Community Manager for the [Turing-
 This 5-year partnership is developing new data science methods to investigate large, complex, clinical and healthcare datasets to better understand how and why patients respond differently to treatment, and how treatment can be improved.
 
 This personal story covers my experiences of establishing an Ambassador Scheme, which we named the [Turing-Roche Community Scholar Scheme](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership/community-scholars). 
-I co-led this scheme with my colleague and partnership lead Sarah McGough Head of Technical Innovation & Shared Platforms, Computational Catalysts, gRED Computational Sciences at Roche and with assistance from our partnership project manager Maria Anagnostopoulou. 
+I co-led this scheme with my colleague and partnership lead Sarah McGough, Head of Technical Innovation & Shared Platforms, Computational Catalysts, gRED Computational Sciences at Roche, and with assistance from our partnership project manager, Maria Anagnostopoulou. 
 
 
 ## Motivations and Background
