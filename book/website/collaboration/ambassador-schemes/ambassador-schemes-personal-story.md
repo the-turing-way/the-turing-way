@@ -56,7 +56,7 @@ We felt running the programme on an academic year timeline (September to Septemb
 We also took the decision not to open up the scheme to students in the first year of their PhD as we felt the time commitment of the scheme may be overwhelming for them. 
 
 We put together various documentation when we opened applications for the scheme, which you can find [here](https://www.turing.ac.uk/work-turing/open-call-turing-roche-community-scholar-scheme-2023-2024). 
-These documents include: a call document, FAQs, a student agreement, which sets out responsibilities and letters for the university department and students PhD supervisor to sign, so we could ensure they were on board with the student taking part. 
+These documents include: a call document, FAQs, letters for the university department and students PhD supervisor to sign; so we could ensure they were on board with the student taking part and a student agreement; which sets out responsibilities.
 We also ran an information webinar with a Q&A session, which was helpful to see the level of interest from registrants and also gave us insights into what we needed to provide more info on from the Q&A session. 
 We put a recording of this event on our YouTube channel for anyone who couldn't attend to make the information more accessible.
 
