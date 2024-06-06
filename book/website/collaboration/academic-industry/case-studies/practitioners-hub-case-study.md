@@ -31,7 +31,7 @@ In 2023, The Turing Way team partnered with five organisations as part of the in
 - Energy Systems Catapult
 - Digihaul
 
-During the course of the 2023 programme the Turing Way team co-created impact-based case studies about best practice open source science and AI adoption with each of the EiRs, with the help of scientific writer Stuart Gillespie. A meta case study was also produced to bring together learnings about organisational adoption of open and and responsible AI from each participating organisation ((https://zenodo.org/records/10777730)). Explore these case studies and other materials from the first cohort here: https://zenodo.org/communities/the-turing-way-practitioners.
+During the course of the 2023 programme the Turing Way team co-created impact-based case studies about best practice open source science and AI adoption with each of the EiRs, with the help of scientific writer Stuart Gillespie. A meta case study was also produced to bring together learnings about organisational adoption of open and and responsible AI from each participating organisation (https://zenodo.org/records/10777730). Explore these case studies and other materials from the first cohort here: https://zenodo.org/communities/the-turing-way-practitioners.
 
 ## What went well 
 
