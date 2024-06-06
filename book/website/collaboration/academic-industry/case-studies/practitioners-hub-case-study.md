@@ -18,6 +18,8 @@ The Turing Way Practitioners Hub is a Turing Way project that engages and involv
  
 By leveraging a cohort-based approach, we build a shared understanding of open source principles, open data practices, cross-sector collaboration, research reproducibility, and ethical considerations in the context of data science and AI. EiRs are supported to develop case studies with stakeholders in their networks, sharing insights into the successes and challenges associated with the adoption of AI within their respective sectors. This is combined with customised training, expert consultation and collaborative opportunities, contributing to the improvement and adoption of data science practices that enhance the quality, viability, and real-world impact of data science and AI technologies in their sectors.
 
+EiRs attended a series of day-long workshops (4 times over the 6 month programme), hosted by the Alan Turing Institute. The Turing Way Collaboration Cafe events were leveraged as opportunities to meet and discuss specific topics. Regular training events were held on Zoom/Teams, on a weekly/bi-weekly basis. 
+
 This work is supported by Innovate UK BridgeAI. The Practitioners Hub has also received funding and support from the Ecosystem Leadership Award under the EPSRC Grant EP/X03870X/1 and The Alan Turing Institute.
 
 ## Case-studies 
