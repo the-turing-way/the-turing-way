@@ -66,6 +66,7 @@ Data science is predominantly used for:
 
 (er-data-feminism-c1-goals)=
 ## The Goal of Examining Power
+
 The essence of examining power is not only to understand power but also to challenge and change it.
 
 (er-data-feminism-c1-casestudies)=
