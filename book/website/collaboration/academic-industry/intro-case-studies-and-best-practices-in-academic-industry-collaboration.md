@@ -14,8 +14,8 @@ This subchapter could be especially useful for anyone who is conducting or has c
 - You have experience in industry-academia collaboration and wish to share your experiences with the TTW community so they can benefit in the future.
 ## Subchapter structure
 This subchapter is divided in two sections:
-- A [library of case studies](./case-studies-and-best-practices/case-study-library.md) on industry-academia collaboration, showcasing best practices and lessons learnt for each particular case study.
-- A [library of existing resources on the web](./online-resources-for-best-practices-in-industry-academia-collaboration.md) that address best practices in industry-academia collaboration
+- A {ref}`library of case studies on industry-academia collaboration <cl-academic-industry-case-studies>`, showcasing best practices and lessons learnt for each particular case study.
+- A {ref}`library of existing resources on the web <cl-academic-industry-online-resources>` that address best practices in industry-academia collaboration
 ## Engaging with this subchapter
 You are encouraged to read through the resources in this subchapter and use them as you need for your personal purposes.
 
