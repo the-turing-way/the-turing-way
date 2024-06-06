@@ -586,6 +586,11 @@ parts:
                 sections:
                   - title: Case Study Library
                     file: collaboration/academic-industry/case-study-library.md
+                    sections:
+                      - title: Turing-Roche Case Study
+                        file: collaboration/academic-industry/case-studies/turing-roche-case-study.md
+                      - title: Practitioner's Hub Case Study
+                        file: collaboration/academic-industry/case-studies/practitioners-hub-case-study.md
                   - title: Online Resources
                     file: collaboration/academic-industry/online-resources-best-practices.md
           - title: Team Manual
