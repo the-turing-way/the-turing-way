@@ -11,7 +11,7 @@ echo "guide name; number of chapters; number of subchapters"  >> book-stats.md
 echo "guide name; number of chapters; number of subchapters"
 
 path="../../book/website/"
-# Sum up chapters and subchapter
+# Sum up chapters and subchapters
 total_chapters=0
 total_subchapters=0
 
@@ -28,7 +28,7 @@ for guide in "${guide_list[@]}";do
     subchapters=$(find "${path}${guide}" -type f | cut -d/ -f2 | sort | wc -l| awk '{print $1 - 1}')
     
     echo "${guide}; $chapters; $subchapters"
-    echo "${guide}; $chapters; $subchapters" >> book-stats.md
+    echo "${guide}; $chapters; $subchapters" >> book-stats.csv
 
     total_chapters=$((total_chapters + $chapters))
     total_subchapters=$((total_subchapters + $subchapters))
@@ -36,4 +36,4 @@ done
 
 # Sum all chapters and subchapters from all guides
 echo "\nall guides; $total_chapters; $total_subchapters"
-echo "all guides; $total_chapters; $total_subchapters" >>  book-stats.md
+echo "all guides; $total_chapters; $total_subchapters" >>  book-stats.csv
