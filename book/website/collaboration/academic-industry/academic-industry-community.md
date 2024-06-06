@@ -12,7 +12,7 @@ Here are some to consider:
 * Intellectual property concerns: Sharing research findings openly can be crucial in academia, but industry might have concerns about protecting proprietary information or patentable inventions. Finding a balance between openness and confidentiality is essential.
 * Time constraints: Academics may juggle teaching, research, and administrative duties, while industry professionals might face tight deadlines and limited time for collaboration. Balancing these commitments can be a hurdle.
 * Varying levels of expertise: Partners may have different levels of expertise in the collaboration's domain. Bridging this knowledge gap requires clear communication and fostering a learning environment for all participants.
-
+(cl-academic-industry-community-building)=
 ## How To Build a Collaboration Community
 The Turing-Roche partnership hired a full time Community Manager for this purpose; helping to navigate any differences in ways of working, facilitating initial and longer term connections and creating a sense of ownership and engagement around the partnership.
 
