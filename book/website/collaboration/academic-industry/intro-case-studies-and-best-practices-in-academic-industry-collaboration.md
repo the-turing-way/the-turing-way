@@ -11,7 +11,7 @@ This subchapter is a continuously growing resource library of case studies in ac
 This subchapter could be especially useful for anyone who is conducting or has conducted research in the context of academic-industry collaboration. This could include:
 - Academics who have an opportunity to work with an industrial partner and are looking for guidance on how to best navigate the relationship to ensure a productive and open collaboration.
 - Industrial practitioners who have an opportunity to work with an academic partner and are looking for guidance on how to best navigate the relationship to ensure a productive and open collaboration.
-- You have experience in academic-industry collaboration and wish to share your experiences with the TTW community so they can benefit in the future.
+- You have experience in academic-industry collaboration and wish to share your experiences with the Turing Way community so they can benefit in the future.
 ## Subchapter structure
 This subchapter is divided in two sections:
 - A {ref}`library of case studies on academic-industry collaboration <cl-academic-industry-case-studies>`, showcasing best practices and lessons learnt for each particular case study.
