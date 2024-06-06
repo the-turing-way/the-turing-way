@@ -11,7 +11,7 @@ Here are some to consider:
 * Differing work cultures and communication styles: Academia often prioritises long-term research and fundamental knowledge creation, while industry focuses on short-term deliverables and applied solutions. Communication styles can also vary, with academia valuing detailed reports and industry favoring concise presentations.
 * Intellectual property concerns: Sharing research findings openly can be crucial in academia, but industry might have concerns about protecting proprietary information or patentable inventions. Finding a balance between openness and confidentiality is essential.
 * Time constraints: Academics may juggle teaching, research, and administrative duties, while industry professionals might face tight deadlines and limited time for collaboration. Balancing these commitments can be a hurdle.
-* Varying Levels of Expertise: Partners may have different levels of expertise in the collaboration's domain. Bridging this knowledge gap requires clear communication and fostering a learning environment for all participants.
+* Varying levels of expertise: Partners may have different levels of expertise in the collaboration's domain. Bridging this knowledge gap requires clear communication and fostering a learning environment for all participants.
 
 ## How To Build a Collaboration Community
 The Turing-Roche partnership hired a full time Community Manager for this purpose; helping to navigate any differences in ways of working, facilitating initial and longer term connections and creating a sense of ownership and engagement around the partnership.
