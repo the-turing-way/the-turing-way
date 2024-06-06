@@ -57,6 +57,7 @@ Researchers have shown that [images of immigrants, abused children, and deceased
 
 (er-data-feminism-c1-datagoals)=
 ## Current Data Goals
+
 Data science is predominantly used for:
 
 1. **Profit (for a few)** - seen in corporations
