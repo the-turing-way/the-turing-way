@@ -78,7 +78,7 @@ There is also a project manager colleague engaged on the Roche side which works 
 Additional resources that may also be of use in these planning stages are the {ref}`Turing Way Project Design Guide <pd-overview>` and the {ref}`Ethical Consideratons when Choosing an Open Source Governance Model chapter <er-ethics-open-source-governance>`. 
 (cl-academic-industry-establish-conflict)=
 ### How to Manage Conflict
-Disagreements are inevitable in any collaboration.  The team charter as part of the governance should outline a framework for addressing conflict constructively. While potentially distracting and unpleasant, planning ahead for disagreements can be a prudent way of managing limited resources for the project.
+Disagreements are inevitable in any collaboration. The team charter as part of the governance should outline a framework for addressing conflict constructively. While potentially distracting and unpleasant, planning ahead for disagreements can be a prudent way of managing limited resources for the project.
 
 Here are some options to consider:
 * Designated Mediator: Identify a neutral individual within the collaboration or from a third-party organization who can facilitate discussions and mediate any conflicts.
