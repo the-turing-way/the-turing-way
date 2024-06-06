@@ -22,6 +22,7 @@ Power systems can be configured and experienced across [four domains](https://da
 
 (er-data-feminism-c1-intersectionality)=
 ## Intersectionality
+
 Dimensions such as gender, race, sexuality, geography, and ability can lead to unjust oppression or unearned privilege across these four domains.
 
 (er-data-feminism-c1-questions)=
