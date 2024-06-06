@@ -1,7 +1,7 @@
 (cl-turing-roche-case-study)=  
 # Case Study: Turing-Roche Community Activities
 
-```{figure} book/website/figures/academic-industry-partnership.jpg
+```{figure} ../../../figures/academic-industry-partnership.*
 ---
 height: 500px
 name: turing-roche-partnership
