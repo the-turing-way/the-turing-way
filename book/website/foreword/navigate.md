@@ -7,7 +7,6 @@ _The Turing Way_ team is deeply committed to openness, inclusivity, ethical cond
 
 All resources shared in this book have been developed with a purpose to advance reproducible, ethical and collaborative practices in research and data science worldwide.
 
-
 ## Structure of the Handbook
 
 _The Turing Way_ handbook is organised in different guides on data science practices and additional sections to cover different aspects of the project.

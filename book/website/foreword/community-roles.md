@@ -11,6 +11,7 @@ The book itself has 6000+ monthly users from worldwide.
 All contributions, discussions, and contributor details are handled through the central GitHub repository ([https://github.com/the-turing-way/the-turing-way/](https://github.com/the-turing-way/the-turing-way/)). 
 Contributors' details are available in the [Contributors Records](https://the-turing-way.netlify.app/afterword/contributors-record.html%C2%A0), and the [project reports](https://github.com/the-turing-way/the-turing-way/tree/main/project_management/quarterly_reports) offer detailed updates from different areas of work within _The Turing Way_.
 
+(fw-community-roles-delivery-team)=
 ## Project Delivery Team
 
 The project is managed by the project delivery team, which includes two project leads, a research project manager, and a research community manager, funded by The Alan Turing Institute's Tools, Practices, and Systems Research Programme.
@@ -19,42 +20,104 @@ The project is managed by the project delivery team, which includes two project 
 
 The governance body of _The Turing Way_ is represented by the project leadership and volunteer community leaders from the community who are involves in various formal and informal initiatives.
 
-```{admonition} Note
-Governance is the set of formal and informal practices through which an organisation sets goals, assigns responsibilities, establishes systems, and assesses outcomes of organisational action.
+```{admonition} Definition
+Governance is a set of formal and informal practices through which an organisation sets goals, assigns responsibilities, establishes systems, and assesses outcomes of organisational action.
 ```
 
-[adding details from community forum and briefly introduce wgs] 
+### Three Level of Decision Making
+
+In 2023-2024, _The Turing Way_ adopted three institutional "levels", originally described in the context of Studies of the institutional design of natural resource commons, to describe three broad levels of formal and informal norms that affects decision making {cite}`Schweik2007commons`, {cite}`Ostrom2005commons`.
+
+1. The “Community level" ("Operational-level”) norms that influence the everyday decisions and actions made by project participants such in using, participating in and contributing to a project.
+2. The "Maintenance" (“Collective choice") norms that allow sharing authority with different groups of people who can conduct and promote collective work in the project as well as define/change rules for operational level participation and procedures to follow to make such a change. 
+3. The "Constitutional-level" norms specifying who is allowed to change collective choice rules and the procedures for making such changes.
+
+Each level of decision-making norms should inform and influence each other through governance processes that enable transparency in the system through regular and open interactions.
+
+Below, we describe these three levels of decision making in the context of _The Turing Way_, inputs for which were invited from open discussions with our community members ([follow Miro board for details](https://miro.com/app/board/uXjVMnA6G50=/?share_link_id=810801549803)).
+This model was presented in a Community Forum in February 2024, recording for which is shared below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WzzfaSQQL1w?si=76j7P-MFJbfGWgLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Community Roles
+Irrespective of how deeply one would like to engage in _The Turing Way_, we have created roles and opportunities for participation, skill building and pathways to leadership.
+We discuss these roles and opportunities, so that you can identify the best level of engagement for yourself in the project and our community.
 
-You can participate in _The Turing Way_ through several community roles, including those related to book authorship, governance and emergent roles for trainers, presenters, and speakers, from which the broader community can learn and benefit.
+We want to ensure that all roles are recognised and valued in _The Turing Way_.
+Therefore, from the onset, we have worked to define these different paths for engagement, support and acknowledgement for community members in _The Turing Way_.
+You can read the details in our community handbook in the [acknowledging contributors](https://the-turing-way.netlify.app/community-handbook/acknowledgement) chapter.
 
-_The Turing Way_ project also involves collaborators from projects within the Turing, partnering organisations, open-source communities, and beyond, either formally through funded grant proposals or informally through collaborative activities such as co-creation of resources (such as chapters, articles or community documentation) and events (such as Fireside Chat, Book Dash and external conference session).
-In this document, we describe these roles to guide you, our community members, in identifying the best routes for their involvement in the project and our community.
+### 1. Community Level (short overview)
 
-Irrespective of how deeply one would like to engage in _The Turing Way_, we create opportunities for community participation, skill building and pathways to leadership in data science.
-By involving participants from all around the world, we learn about and create new opportunities to share data skills and practices from global contexts.
-
-By enabling the collaboration of users and contributors with each other, we ensure that the project, community and resources represent, amplify and broaden the reach of global voices in data science.
-We describe the contributing process in the [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/master/CONTRIBUTING.md).
+This level encompasses all members of *The Turing Way* community, both longstanding and new.
+Members may have made contributions to the book, participated in an event or simply engaged as book users, social media followers, Slack Workspace members or as independent advocates of _The Turing Way_.
 
 ```{admonition} Reminder
 Participation in _The Turing Way_ doesn’t only involve contributions to the Book.
 ```
 
-From the onset, the project staff team have worked to define different pathways for engagement and acknowledgement processes in _The Turing Way_, ensuring that all roles are recognised and valued in _The Turing Way_.
-You can read the details in our community handbook in the [acknowledging contributors](https://the-turing-way.netlify.app/community-handbook/acknowledgement) chapter.
+Decisions and activities undertaken by Community Level members may include the following: 
+* Making individual contributions such as creating an issue, fixing a bug, committing a change on existing chapters, and reviewing Pull Requests.
+* Joining and inviting new individuals to community meetings such as Collaborations Cafe and Co-working sessions.
+* Presenting about *The Turing Way* at an event.
+* Initiating a conversation or pose a question in *The Turing Way* community channels.
+* Suggesting content for _The Turing Way_ Newsletter.
+* Applying to participate in the bi-annual Turing Way Book Dashes.
+* Proposing an idea for training session or community events.
+* Propose a new working group.
+* Writing a new chapter.
+* Establishing an informal collaboration.
+* Other things that you can do as individuals.
 
-## The Turing Way Book and community-related roles
+We discuss specific roles under this level in a later section.
 
-_The Turing Way_ book is collaboratively written and open from the start.
-We encourage and support everyone in _The Turing Way_ to collaborate on shared ideas and resources, co-develop chapters, review and improve existing materials and share them with the wider research community.
-Through this process, our contributors provide support for each other, establish new connections and build a sense of belonging and shared ownership in the project.
+### 2. Maintainer Level
 
-To make this project truly accessible and useful for everyone, we invite members of our community to contribute their skills and bring new perspectives through the development of the book.
-_The Turing Way_ roles for chapter writing include:
+This level includes two types of members.  
+    
+* {ref}`_The Turing Way_ Working Groups<subprojects>`
+
+Small groups of people that work together on a focus topic, theme, or type of work. Examples of *The Turing Way* working groups are: Translation and localisation (link to their Github welcome page), Infrastructure (link), Accessibility.
+
+* {ref}`*The Turing Way* Delivery Team<fw-community-roles-delivery-team>`
+
+Staff hired to take on responsibilities for delivering and maintaining work within *The Turing Way*, for example, Research Community Manager and Research Project Manager. 
+
+Decisions that **Collective Choice or Maintainer Level** members make include the following: 
+* Setting up, leading or representing a Working Group in different types of roles as leads, co-leads, secretary and contributing members. 
+* Facilitating the creation of a new working group
+* Decisions for planning and hosting the working group meetings and recurrence of the meetings.
+* Organising and distributing the responsibilities within each working group.
+* Proposing which conferences to participate in or apply to represent their work in _The Turing Way_
+* Proposing which funding proposals or responding to a call for applications to support their work in _The Turing Way_
+* Suggesting changes in ongoing processes or current working models through discussions
+* Organising a [Fireside Chat](https://the-turing-way.netlify.app/community-handbook/fireside-chat.html) by adding your topic idea in [The Turing Way Events & Conferences calendar](https://docs.google.com/spreadsheets/d/1lWCWKAAXSlluo5d78LAjoMS9dfDxB27Y7Fb_wGI9B6Q/edit#gid=513475183). ---- a better idea would be to create form
+* Clarifying unclear processes in that guide the work of a Working Group
+* Escalating issues that can not be addressed at maintainer level
+
+### 3. Constitutional-level
+
+Strategic decisions and significant changes in the project, such as leadership, recruitment, goals, governance and funding.
+As of 2024, the constitutional level decision making sits with the project leads, Kirstie Whitaker and Malvika Sharan.
+Their aspiration is to move decision-making power to the community through process development through which more community representation, perspectives and inputs can be brought at this level.
+Ideally, the chairs/representatives/leads of Working Groups will join this level in the near future.
+
+In the future, this can be further 
+
+- Providing leadership and strategic directions in the project.
+- Applying for core funding, and approving expenses.
+- Building clarity around budget and resource available for the maintainers and community members.
+- Proposing new directions of the community
+- Include a Advisory group
+- Process whereby the co-chairs of the working gourps have an accountability meeting to represent their level 
+- Leadership team would be Co-chairs and working group leads
+- Each working group will have policy documentation in place to make decision, and payment options (if they apply)
+- Advisory group could help in recommending funding options
+
+## Community-Level Roles (detailed description)
+
+The book-related roles vary based on people’s involvement in reviewing, editing or developing new content in _The Turing Way_ chapters, subchapters, impact stories, personal stories, case studies and templates
+Reviewers are often drawn from the community, based on their experience in the chapter’s topic.
+Often reviewers are also invited from beyond the community to ensure new members have the chance to collaborate based on their expertise.
 
 * **Co-authors**: Co-authors collaborate on writing, editing, revising, or adding/replacing relevant sections of a chapter in _The Turing Way_ book, while following the {ref}`ch-style`.
 * **Reviewer**: Reviewers critically review existing and new content of The Turing Way book, providing feedback, suggesting edits, and enhancing the accessibility, accuracy, and quality of the material.
@@ -62,12 +125,14 @@ _The Turing Way_ roles for chapter writing include:
 * **Mentors**: Mentors guide less experienced contributors, offering advice and support to help them clarify concepts, unpack their thoughts and ideas, and provide direction to ensure that new members can effectively participate in the development of _The Turing Way_ book.
 * **Advisory roles**: Individuals in advisory roles provide strategic guidance and expertise in the context of the book, community, or the overall project, helping to shape the direction and scope of _The Turing Way_.
 
-The book or authorship-related roles vary based on people’s involvement in developing content in _The Turing Way_ guides at different times such as chapters, subchapters, impact stories, personal stories, case studies and templates
-Reviewers are often drawn from the community, based on their experience in the chapter’s topic.
-Often reviewers are also invited from beyond the community to ensure new members have the chance to collaborate based on their expertise.
+### Mentored-Contributions
 
-Existing members of the community are connected with new contributors for supporting and mentoring their contributions, such as helping navigate _The Turing Way_ repository, workflow, writing process or even reviewing. 
+Existing members of the community are connected with new contributors for supporting and mentoring their contributions.
+This mentored contributions are supported through offering help in navigate _The Turing Way_ repository, workflow, writing process or even reviewing. 
 Contributions also include providing advisory support, such as by sharing examples, resources or other relevant resources that could be helpful for the authors.
+
+By enabling our community of users and contributors to engage with each other, we ensure that the project, community and resources can be used, shared and improved by diverse perspectives.
+We describe the contributing process in the [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/master/CONTRIBUTING.md).
 
 ## Beyond the Book
 
@@ -98,12 +163,6 @@ Our general recommendations for any new starters are the following:
 
 _To explore different pathways for community members to get involved, please visit the **Start Page: **_[https://the-turing-way.start.page/](https://the-turing-way.start.page/)_.
 
-### Represent _The Turing Way_
-
-We have a chapter on {ref}`ch-presenting` to help you present and share about _The Turing Way_ in your network.
-
-_The Turing Way_ team will be happy to discuss your ideas with you, provide feedback and any other assistance you need for delivering a talk.
-
 ### Learn and Share Skills
 
 Community members are provided with opportunities to learn new skills, share their ideas and collaborate with others. 
@@ -122,5 +181,15 @@ Delivery of these workshops includes the following roles:
 
 All members are supported to structure their work in _The Turing Way_ to make them findable and onboard new members in their work to provide continuity of their work.
 Researchers are also supported to lead community-based discussions and collaborations, that lead to projects and outputs beyond _The Turing Way_.
+
+### Establishing Partnership
+
+_The Turing Way_ project also involves {ref}`collaborators<collaborators>` from projects within the Turing, partnering organisations, open-source communities, and beyond, either formally through funded grant proposals or informally through collaborative activities such as co-creation of resources (such as chapters, articles or community documentation) and events (such as Fireside Chat, Book Dash and external conference session).
+
+### Representing _The Turing Way_
+
+We have a chapter on {ref}`ch-presenting` to help you present and share about _The Turing Way_ in your network.
+
+_The Turing Way_ team will be happy to discuss your ideas with you, provide feedback and any other assistance you need for delivering a talk.
 
 _For further details on these community roles, please read the Community Handbook describing [different Contributions and their acknowledgements](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-examples.html)._
