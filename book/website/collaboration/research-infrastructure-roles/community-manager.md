@@ -45,7 +45,7 @@ Themes of Research Community Manager work can be:
 * Facilitating the creation of sub-networks within the community around shared experiences, for example, an early career researcher network
 
 The day-to-day tasks of a Research Community Manager could include: 
-* Developing a strategy for community activities, in alignment with the goals of the wider research project
+* Developing a strategy for community activities in alignment with the goals of the wider research project
 * Organising and hosting community calls
 * Onboarding new members
 * Attending community and project leadership meetings
