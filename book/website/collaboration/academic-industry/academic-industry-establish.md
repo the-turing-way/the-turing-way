@@ -82,7 +82,7 @@ Disagreements are inevitable in any collaboration. The team charter as part of t
 
 Here are some options to consider:
 * Designated mediator: Identify a neutral individual within the collaboration or from a third-party organisation who can facilitate discussions and mediate any conflicts.
-* Escalation Process: Establish a clear escalation process for addressing disagreements. This could involve initial discussions between directly involved parties, then escalating to team leads or a steering committee if necessary.
+* Escalation process: Establish a clear escalation process for addressing disagreements. This could involve initial discussions between directly involved parties, then escalating to team leads or a steering committee if necessary.
 * Conflict Resolution Principles: Outline principles for resolving conflicts, such as focusing on the issue at hand, respecting diverse viewpoints, and prioritizing the success of the collaboration.
 
 By incorporating these elements into your governance structure, you can create a more open and productive environment for your academic-industry collaboration.
