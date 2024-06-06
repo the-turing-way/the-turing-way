@@ -1,6 +1,6 @@
 # Case Study: Turing Way Practitioner's Hub 
 
-```{figure} ../../figures/practitioners-hub-experts.*
+```{figure} ../figures/practitioners-hub-experts.*
 ---
 height: 400px
 name: practitioners-hub-experts
