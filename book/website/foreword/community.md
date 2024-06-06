@@ -1,4 +1,4 @@
-(fw-community-roles)=
+(fw-community)=
 # Community and Community Roles
 
 _Everyone has a skill that is useful for someone, and therefore anyone can contribute to The Turing Way._
@@ -11,13 +11,14 @@ The book itself has 6000+ monthly users from worldwide.
 All contributions, discussions, and contributor details are handled through the central GitHub repository ([https://github.com/the-turing-way/the-turing-way/](https://github.com/the-turing-way/the-turing-way/)). 
 Contributors' details are available in the [Contributors Records](https://the-turing-way.netlify.app/afterword/contributors-record.html%C2%A0), and the [project reports](https://github.com/the-turing-way/the-turing-way/tree/main/project_management/quarterly_reports) offer detailed updates from different areas of work within _The Turing Way_.
 
-(fw-community-roles-delivery-team)=
+(fw-community-delivery-team)=
 ## Project Delivery Team
 
 The project is managed and its activities/goals delivered by the project delivery team, which currently includes two project leads, a research project manager, and a research community manager.
 These roles are funded by The Alan Turing Institute under the Tools, Practices, and Systems Research Programme for which Kirstie is the programme manager.
 You can find details about these members in our [ways of working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
 
+(fw-community-book-roles)=
 ## Book-Related Roles
 
 The book-related roles vary based on people’s involvement in reviewing, editing or developing new content in _The Turing Way_ chapters, subchapters, impact stories, personal stories, case studies and templates
@@ -39,6 +40,7 @@ Contributions also include providing advisory support, such as by sharing exampl
 By enabling our community of users and contributors to engage with each other, we ensure that the project, community and resources can be used, shared and improved by diverse perspectives.
 We describe the contributing process in the [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/master/CONTRIBUTING.md).
 
+(fw-community-beyond-book)=
 ## Beyond the Book
 
 The book may be the visible product of the work we do in the project, but, the process of collaborative development with the help of its community is what we value the most.
@@ -48,7 +50,7 @@ We are committed to providing an open, accessible and inclusive space for all ou
 Roles beyond the book can involve, but are not limited to the following:
 
 * **Reviewers and maintainers** of the book and underlying infrastructure
-* **Advocate and champions **of _The Turing Way_ resources, who help others navigate the book, repositories and communications channel
+* **Advocate and champions** of _The Turing Way_ resources, who help others navigate the book, repositories and communications channel
 * **Creators** of content and infrastructure at any level from fixing bugs to adding new content beyond the book
 * **Mentors and consultants** in specific areas of work, including responding to questions from other community members on GitHub and Slack
 * **Sustained contributors** who provide expert consultation to improve the resources
@@ -66,7 +68,7 @@ Our general recommendations for any new starters are the following:
 * Capture the process of how they work in their projects and _The Turing Way_
 * They share their personal stories, case studies and perspective: _The Turing Way_ is a ‘lightly’ opinionated guide after all!
 
-_To explore different pathways for community members to get involved, please visit the **Start Page: **_[https://the-turing-way.start.page/](https://the-turing-way.start.page/)_.
+_To explore different pathways for community members to get involved, please visit the **Start Page: [https://the-turing-way.start.page/](https://the-turing-way.start.page/)_.
 
 ### Learn and Share Skills
 
@@ -87,11 +89,11 @@ Delivery of these workshops includes the following roles:
 All members are supported to structure their work in _The Turing Way_ to make them findable and onboard new members in their work to provide continuity of their work.
 Researchers are also supported to lead community-based discussions and collaborations, that lead to projects and outputs beyond _The Turing Way_.
 
-### Establishing Partnership
+### Establish Partnership
 
 _The Turing Way_ project also involves {ref}`collaborators<collaborators>` from projects within the Turing, partnering organisations, open-source communities, and beyond, either formally through funded grant proposals or informally through collaborative activities such as co-creation of resources (such as chapters, articles or community documentation) and events (such as Fireside Chat, Book Dash and external conference session).
 
-### Representing _The Turing Way_
+### Represent _The Turing Way_
 
 We have a chapter on {ref}`ch-presenting` to help you present and share about _The Turing Way_ in your network.
 

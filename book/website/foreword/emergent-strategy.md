@@ -1,13 +1,26 @@
 (fw-emergent-strategy)=
 # Emergence as _The Turing Way’s_ Strategy
 
+```{note}
+This chapter is under review.
+```
+
 _In this document, Dr Kirstie Whitaker, founder of _The Turing way_ talks us through the principles of [Emergent Strategy](https://fortelabs.co/blog/emergent-strategy-organizing-for-social-justice/) and how they have directed and informed her leadership of the project and of the [Tools, Practices and Systems (TPS) Programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) at[ The Alan Turing Institute](https://www.turing.ac.uk/about-us) more broadly._
+
+```{figure} ../figures/healthy-leadership.png
+---
+name: healthy-leadership
+alt: Leadership is illustrated as a fractal where different people are watering growing flowers in the different places - that is leading to new fractals with more people. There are a few quotes written on ths image - Transform yourself to transform the world, the large is a reflection of the small, and strong values can spread to other organisations.
+---
+Illustration of Healthy Leadership by Scriberia. Zenodo. [https://doi.org/10.5281/zenodo.4323154](https://doi.org/10.5281/zenodo.4323154).
+We highlight the quotes from Adrienne Maree Brown, author of the Book Emergent Strategy.
+```
 
 _The Turing Way_ is a living book.
 It is written by a community, who are themselves human, ever-changing, beautiful and creative.
-What they can together - will - create is better than anything any one person could imagine.
+What they can together - will - create what is better than anything any one person could imagine.
 
-In this document, I dig into each principle of Emergent Strategy, introduced by [Adrienne Maree brown](https://adriennemareebrown.net), an author of book under the same name.
+In this document, I dig into each principle of Emergent Strategy, as described by [Adrienne Maree brown](https://adriennemareebrown.net).
 She builds on Obolensky’s definition of _emergence_ as “the way complex systems and patterns arise out of a multiplicity of relatively simple interactions”.
 
 She says in the introduction to her book:
@@ -15,13 +28,14 @@ She says in the introduction to her book:
 > Come up with new words and new observations for all of this, and notice how it connects and echoes other theoretical frameworks.
 > Underline everything that moves you and then give it to someone younger than you.
 > Come up with workshops and retreats around this work.
-> Take it, run, go, grow, innovate, emerge.
+>
+> _Take it, run, go, grow, innovate, emerge._
 
-That’s what I brought into _The Turing Way_.
-
+That’s what I bring into _The Turing Way_.
 Remember that you can make adjustments to this text yourself as your understanding evolves.
 > In fact, I - we - hope that you already do it.
-> Thank you for being here.
+
+_Thank you for being here._
 
 ```{admonition} The Principles of Emergent Strategy
 
@@ -42,15 +56,14 @@ They aren’t really separable and are lenses on the whole philosophy that brown
 
 ## Small is good, small is all (The large is a reflection of the small)
 
-Most people I have worked with have a grand vision for the change that they want to see in the world.
+Most people I have worked with have a grand vision for the change they want to see in the world.
 
-Maybe it’s making all research reproducible at the time of publication. 
-Maybe it’s ensuring that every data set comes with documented metadata and provenance (a data paper for example).
-Maybe it’s investing in community-created open source software to improve research efficiency.
+Maybe it’s making all research reproducible at the time of publication.
+Maybe it’s ensuring that every data set comes with documented metadata and provenance (a data paper, for example).
+Maybe it’s investing in community-created open-source software to improve research efficiency.
 
 I deeply support and encourage those big dreams.
-They can seem intimidating, impossible, or too much for one person, project or community.
-Sometimes it can be tempting to want to lie down on the floor and give up when you realise just how stacked against those collaborative practices our current incentive structures can be.
+They can seem intimidating, impossible, or too much for one person, project, or community. Sometimes it can be tempting to lie down on the floor and give up when you realize just how stacked against those collaborative practices our current incentive structures can be.
 
 What I love about this first principle of emergent strategy is that it gives us a pathway to making that change.
 

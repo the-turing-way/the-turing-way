@@ -52,7 +52,7 @@ Please use and re-use whatever you need, for any purpose.
 _The Turing Way_ receives support and funding from [The Alan Turing Institute](https://www.turing.ac.uk/), however, the project is designed to be a global collaboration.
 We have contributions from across the UK, and from India, Mexico, Australia, USA, and many European countries.
 Chapters have been written, reviewed and curated by members of research institutes and universities, government departments, and industry.
-We are committed to creating a space where people with diverse expertise and lived experiences can share their knowledge with others to allow us all to use data science to improve the world.
+We are committed to creating a space where people with diverse expertise and experiences can share their knowledge with others, together supporting each other in using data science to improve the world.
 
 ```{admonition} Translation
 :class: tip

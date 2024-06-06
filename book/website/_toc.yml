@@ -12,11 +12,11 @@ format: jb-book
 root: index
 parts:
   - chapters:
-  
       # ===== Foreword Section ========================================
-      
       - file: foreword/foreword
         sections:
+        - title: Background
+          file: foreword/background
         - title: Navigating the Handbook
           file: foreword/navigate
         - title: Emergence as The Turing Way Strategy
@@ -24,13 +24,11 @@ parts:
         - title: Embracing the Principles of Digital Commons
           file: foreword/embracing-digital-commons
         - title: Community and Community Roles
-          file: foreword/community-roles
+          file: foreword/community
         - title: Governance
           file: foreword/governance
-        - title: Background
-          file: foreword/background
         - title: How to Cite
-          file: foreword/cite-us
+          file: foreword/cite
         - title: Frequently Asked Questions
           file: foreword/faqs
 

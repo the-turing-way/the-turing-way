@@ -1,12 +1,15 @@
-## Governance
+(fw-governance)=
+# Governance
+
+```{note}
+This chapter is under review.
+```
 
 The governance body of _The Turing Way_ is represented by the project leadership and volunteer community leaders from the community who are involves in various formal and informal initiatives.
 
-```{admonition} Definition
-Governance is a set of formal and informal practices through which an organisation sets goals, assigns responsibilities, establishes systems, and assesses outcomes of organisational action.
-```
+> Governance is a set of formal and informal practices through which an organisation sets goals, assigns responsibilities, establishes systems, and assesses outcomes of organisational action.
 
-### Three Level of Decision Making
+## Three Level of Decision Making
 
 In 2023-2024, _The Turing Way_ adopted three institutional "levels", originally described in the context of Studies of the institutional design of natural resource commons, to describe three broad levels of formal and informal norms that affects decision making {cite}`Schweik2007commons`, {cite}`Ostrom2005commons`.
 
@@ -21,14 +24,16 @@ This model was presented in a Community Forum in February 2024, recording for wh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WzzfaSQQL1w?si=76j7P-MFJbfGWgLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Irrespective of how deeply one would like to engage in _The Turing Way_, we have created roles and opportunities for participation, skill building and pathways to leadership.
+(_This is a recording from the first public Community Forum hosted in February 2024. Modelled off a political town hall event, these online sessions are an opportunity to better understand activities across the project and how decisions are made. Our aim is to leverage the expertise across our community, and we explicitly invite you to review our processes and recommend improvements._)
+
+Irrespective of how deeply one would like to engage in _The Turing Way_, we have roles and opportunities for different levels of participation, skill building and pathways to leadership.
 We discuss these roles and opportunities, so that you can identify the best level of engagement for yourself in the project and our community.
 
 We want to ensure that all roles are recognised and valued in _The Turing Way_.
 Therefore, from the onset, we have worked to define these different paths for engagement, support and acknowledgement for community members in _The Turing Way_.
 You can read the details in our community handbook in the [acknowledging contributors](https://the-turing-way.netlify.app/community-handbook/acknowledgement) chapter.
 
-### 1. Community Level (short overview)
+## 1. Community Level
 
 This level encompasses all members of *The Turing Way* community, both longstanding and new.
 Members may have made contributions to the book, participated in an event or simply engaged as book users, social media followers, Slack Workspace members or as independent advocates of _The Turing Way_.
@@ -50,15 +55,15 @@ Decisions and activities undertaken by Community Level members may include the f
 * Establishing an informal collaboration.
 * Other things that you can do as individuals.
 
-We have discuss specific roles under this level in {ref}`fw-community-roles`.
+We have discuss specific roles under this level in {ref}`fw-community`.
 
-### 2. Maintainer Level
+## 2. Maintainer Level
 
 This level includes two types of members.  
     
-* {ref}`_The Turing Way_ Working Groups<subprojects>`
+### _The Turing Way_ Working Groups
 
-Within *The Turing Way*, Working Groups (or WGs) are formed by a small groups of people who work together on specific topics, themes, or types of work identified by community members as areas of interest. 
+Within *The Turing Way*, {ref}`Working Groups (or WGs)<subprojects>` are formed by a small groups of people who work together on specific topics, themes, or types of work identified by community members as areas of interest. 
 From the onset, different kinds of work in *The Turing Way* project have been led and executed by different groups of people.
 For example, since 2020, localisation and translation work is being carrying out by a group international community members, who although initially worked in an ad-hoc manner, later were named and recognised as 'Translation and Localisation Team'.
 Similarly, in 2021, after moving Book Dash as online-first event, a 'Book Dash Planning Committee' was convened yearly joined by a few previous attendees of Book Dashes who supported the planning and delivery of the event.
@@ -74,9 +79,9 @@ Current working groups are organised to provide leadership across the following 
 
 You can find details about these members in our [ways of working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
 
-* {ref}`*The Turing Way* Delivery Team Members<fw-community-roles-delivery-team>`
+### Project Delivery Team
 
-Staff hired to take on responsibilities for delivering and maintaining work within *The Turing Way*, for example, Research Community Manager and Research Project Manager.
+_The Turing Way_ {ref}`Project Delivery Team Members<fw-community-delivery-team>` are staff members hired to take on responsibilities for delivering and maintaining work, for example, Research Community Manager and Research Project Manager.
 Project leads may offer support at maintenance level , but decision-making at this level must stay with the community and stewards of the community, including the Research Project Manager.
 
 Decisions that **Collective Choice or Maintainer Level** members make include the following:
@@ -88,11 +93,11 @@ Decisions that **Collective Choice or Maintainer Level** members make include th
 * Proposing which conferences to participate in or apply to represent their work in _The Turing Way_
 * Proposing which funding proposals or responding to a call for applications to support their work in _The Turing Way_
 * Suggesting changes in ongoing processes or current working models through discussions
-* Organising a [Fireside Chat](https://the-turing-way.netlify.app/community-handbook/fireside-chat.html) by adding your topic idea in [The Turing Way Events & Conferences calendar](https://docs.google.com/spreadsheets/d/1lWCWKAAXSlluo5d78LAjoMS9dfDxB27Y7Fb_wGI9B6Q/edit#gid=513475183). ---- a better idea would be to create form
+* Organising a [Fireside Chat](https://the-turing-way.netlify.app/community-handbook/fireside-chat.html) in conversation with the project delivery team
 * Clarifying unclear processes in that guide the work of a Working Group
 * Escalating issues that can not be addressed at maintainer level
 
-### 3. Constitutional-level
+## 3. Constitutional-level
 
 Strategic decisions and significant changes in the project, such as leadership, recruitment, goals, governance and funding.
 As of 2024, the constitutional level decision making sits with the project leads, Kirstie Whitaker and Malvika Sharan.
