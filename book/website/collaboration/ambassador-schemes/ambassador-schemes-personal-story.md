@@ -28,7 +28,7 @@ This also would deliver more tangible impact and legacy for the partnership beyo
 
 ## Scheme Set-up
 
-The Turing Institute had a student scheme in place (the Enrichment Scheme) but this worked quite differently to what we wanted to do for the scholar scheme, so the set up was as a brand new programme, which with documentation and processes, was a huge undertaking. 
+The Turing Institute had a student scheme in place ([the Enrichment Scheme](https://www.turing.ac.uk/work-turing/studentships/enrichment)) but this worked quite differently to what we wanted to do for the scholar scheme, so the set up was as a brand new programme, which with documentation and processes, was a huge undertaking. 
 As with any new project or activity, it was useful to think about what we wanted to achieve with the scheme and work backwards from there to brainstorm how it should work in practice. 
 
 We put together an initial scoping document, ensuring objectives of the scheme were in place and the roles and responsibilities supporting its implementation were well defined. 
