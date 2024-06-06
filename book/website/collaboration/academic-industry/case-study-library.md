@@ -1,6 +1,6 @@
 (cl-academic-industry-case-studies)=
 # Case Studies in Academic-industry Collaboration
-This is a library of case studies in academic-industry collaboration projects. Each case study consists of a description of the case study, and discussions about best practices followed, challenges, and lessons learnt in navigating the case study. Tags will be added to each case study for easy referencing and navigation.
+This is a library of case studies in academic-industry collaboration projects. Each case study consists of a description of the academic-industry collaboration, and discussions about best practices followed, challenges, and lessons learnt in navigating the collaboration. Tags will be added to each case study for easy referencing and navigation.
 You are encouraged to contribute to this library if you currently are or have been involved in academic-industry collaborative projects. We will soon release a template for reporting case studies in academic-industry collaboration, but in the meantime, please include a description of the collaboration, best practices followed, challenges, and lessons learnt in a MarkDown file and add a new entry to the table with your case study.
 |Title|Link|Description|Tags|
 |----|----|----|---|
