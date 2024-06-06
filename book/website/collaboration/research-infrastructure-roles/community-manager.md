@@ -20,7 +20,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 Research Community Managers work to engage, enthuse and organise groups of scientists, researchers and/or patients and the public around shared research topics and objectives. 
 They are often involved in culture change to support collaboration between members of the community, through the development of community leadership and agency. 
-They value the people doing the research, and develop structures to support the generation of bottom-up activity <mark>does bottom-up need a definition/glossary listing?</mark>. Their goals are to:
+They value the people doing the research and develop structures to support the generation of bottom-up activity <mark>does bottom-up need a definition/glossary listing?</mark>. Their goals are to:
 
 * Embed open, inclusive and reproducible research practices
 * Ensure a shared understanding of goals, roadmap, processes
