@@ -116,7 +116,7 @@ The partnership was exhibiting a demonstration booth at AI UK and we used this a
 After the conference, we also organised a social event to extend the networking opportunity. 
 We found this a really valuable experience for everyone getting to know each other better and making the cohort feel more cohesive. 
 
-As mentioned earlier, the scheme has not finished at time of writing, but we are planning a final in-person celebration event at the Turing to celebrate the scholar's achievements. 
+As mentioned earlier, the scheme has not finished at time of writing, but we are planning a final in-person celebration event at the Turing to celebrate the scholars' achievements. 
 The scholars will also be writing a summary of their experiences, which we plan to incorporate in an online yearbook. 
 We also plan to gather formal feedback from the scholars on what we can improve for next time.
 
