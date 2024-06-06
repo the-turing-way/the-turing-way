@@ -130,7 +130,7 @@ The success of the scheme has in essence been because it's mutually beneficial -
 A key learning for us is the time commitment for the scheme on both sides. 
 It was really valuable to have two people from the partnership team co-leading for support. 
 Having 10 students was really a bit of a guess on our part as the right number, but we have found whilst this is a small group it was about right for supporting each student and encouraging a cohort feel. 
-On the other side, it's good to be clear about timings for the scheme for your participants and be wary they have other commitments. 
+On the other side, it's good to be clear about timings for the scheme for your participants and be wary that they have other commitments. 
 This is also why it's useful to include activity planning as part of the application process (to get applicants thinking early about what's feasible in the timeframe) and the milestone plan we developed with students at the start.
 
 Furthermore, if you are having outputs from your participants, think about how and when these will be released. 
