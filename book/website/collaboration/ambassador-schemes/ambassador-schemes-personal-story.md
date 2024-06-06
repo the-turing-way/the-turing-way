@@ -86,8 +86,8 @@ In the weeks after this group onboarding call, we then scheduled individual onbo
 Every two months, we scheduled a virtual group cohort call where scholars filled in a document in advance with:
 
 - A short activity and conference update
-- A rose- a line on something that has been going well
-- A cactus- a line on something that has been tricky/not been going well
+- A rose: a line on something that has been going well
+- A cactus: a line on something that has been tricky/not been going well
 - Any asks you have for the group
 
 At the call we would go through this document, encouraging the group to give advice and support to each other. 
