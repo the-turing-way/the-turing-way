@@ -653,6 +653,9 @@ parts:
                 file: collaboration/shared-ownership/shared-ownership-defaults
           - title: Sustainability of Open Source Projects
             file: collaboration/oss-sustainability/oss-sustainability-challenges
+            sections:
+              - title: Examples of Open Source Business Models
+                file: collaboration/oss-sustainability/oss-sustainability-examples
 
       # ===== Guide for Ethical Research ========================================
 
