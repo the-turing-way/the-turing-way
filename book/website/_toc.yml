@@ -581,8 +581,13 @@ parts:
                 file: collaboration/academic-industry/academic-industry-establish
               - title: Community Building in an Academic-Industry Collaboration
                 file: collaboration/academic-industry/academic-industry-community
-              - title: Turing-Roche Community Activities Personal Story
-                file: collaboration/academic-industry/academic-industry-personal-story
+              - title: Case Studies and Best Practices in Academic-Industry Collaboration
+                file: collaboration/academic-industry/intro-case-studies-and-best-practices-in-academic-industry-collaboration.md
+                sections:
+                  - title: Case Study Library
+                    file: collaboration/academic-industry/case-study-library.md
+                  - title: Online Resources
+                    file: collaboration/academic-industry/online-resources-best-practices.md
           - title: Team Manual
             file: collaboration/team-manual
             sections:
