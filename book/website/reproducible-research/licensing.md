@@ -19,7 +19,7 @@ No previous knowledge is needed, this chapter explains how important it is to un
 ## Summary
 
 > This chapter was written using American English, in which the word **license** is a noun **_and_** a verb.
-> With British English, however, **license** is a noun (as in, _to issue a license_), while **license** is a verb (as in, _they licensed the event_).
+> With British English, however, **licence** is a noun (as in, _to issue a licence_), while **license** is a verb (as in, _they licensed the event_).
 
 'Intellectual Property (IP)' law is a complex subject.
 However some understanding of it is important for anyone producing creative works governed by it including software, datasets, graphics and more.
