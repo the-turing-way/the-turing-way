@@ -1,3 +1,4 @@
+(cl-academic-industry-best-practices)=
 # Introduction
 The creation of this subchapter was motivated by a need to address the realities of navigating the complex relationship between Open Science and Industry, particularly in cases where research is partly or fully funded by industry. A balance must be struck between producing research that meets the priorities of the sponsoring organisation and producing research that is open, shareable, and beneficial to the community. 
 
