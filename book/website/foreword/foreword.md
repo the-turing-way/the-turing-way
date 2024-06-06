@@ -15,9 +15,10 @@ You will find these in the following chapters:
 
 - {ref}`fw-background`
 - {ref}`fw-navigating`
-- {ref}`fw-community`
 - {ref}`fw-emergent-strategy`
 - {ref}`fw-embracing-digital-commons`
+- {ref}`fw-community`
+- {ref}`fw-governance`
 - {ref}`fw-cite-us`
 - {ref}`fw-faqs`
 

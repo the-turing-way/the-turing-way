@@ -14,106 +14,11 @@ Contributors' details are available in the [Contributors Records](https://the-tu
 (fw-community-roles-delivery-team)=
 ## Project Delivery Team
 
-The project is managed by the project delivery team, which includes two project leads, a research project manager, and a research community manager, funded by The Alan Turing Institute's Tools, Practices, and Systems Research Programme.
+The project is managed and its activities/goals delivered by the project delivery team, which currently includes two project leads, a research project manager, and a research community manager.
+These roles are funded by The Alan Turing Institute under the Tools, Practices, and Systems Research Programme for which Kirstie is the programme manager.
+You can find details about these members in our [ways of working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
 
-## Governance
-
-The governance body of _The Turing Way_ is represented by the project leadership and volunteer community leaders from the community who are involves in various formal and informal initiatives.
-
-```{admonition} Definition
-Governance is a set of formal and informal practices through which an organisation sets goals, assigns responsibilities, establishes systems, and assesses outcomes of organisational action.
-```
-
-### Three Level of Decision Making
-
-In 2023-2024, _The Turing Way_ adopted three institutional "levels", originally described in the context of Studies of the institutional design of natural resource commons, to describe three broad levels of formal and informal norms that affects decision making {cite}`Schweik2007commons`, {cite}`Ostrom2005commons`.
-
-1. The “Community level" ("Operational-level”) norms that influence the everyday decisions and actions made by project participants such in using, participating in and contributing to a project.
-2. The "Maintenance" (“Collective choice") norms that allow sharing authority with different groups of people who can conduct and promote collective work in the project as well as define/change rules for operational level participation and procedures to follow to make such a change. 
-3. The "Constitutional-level" norms specifying who is allowed to change collective choice rules and the procedures for making such changes.
-
-Each level of decision-making norms should inform and influence each other through governance processes that enable transparency in the system through regular and open interactions.
-
-Below, we describe these three levels of decision making in the context of _The Turing Way_, inputs for which were invited from open discussions with our community members ([follow Miro board for details](https://miro.com/app/board/uXjVMnA6G50=/?share_link_id=810801549803)).
-This model was presented in a Community Forum in February 2024, recording for which is shared below.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WzzfaSQQL1w?si=76j7P-MFJbfGWgLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Irrespective of how deeply one would like to engage in _The Turing Way_, we have created roles and opportunities for participation, skill building and pathways to leadership.
-We discuss these roles and opportunities, so that you can identify the best level of engagement for yourself in the project and our community.
-
-We want to ensure that all roles are recognised and valued in _The Turing Way_.
-Therefore, from the onset, we have worked to define these different paths for engagement, support and acknowledgement for community members in _The Turing Way_.
-You can read the details in our community handbook in the [acknowledging contributors](https://the-turing-way.netlify.app/community-handbook/acknowledgement) chapter.
-
-### 1. Community Level (short overview)
-
-This level encompasses all members of *The Turing Way* community, both longstanding and new.
-Members may have made contributions to the book, participated in an event or simply engaged as book users, social media followers, Slack Workspace members or as independent advocates of _The Turing Way_.
-
-```{admonition} Reminder
-Participation in _The Turing Way_ doesn’t only involve contributions to the Book.
-```
-
-Decisions and activities undertaken by Community Level members may include the following: 
-* Making individual contributions such as creating an issue, fixing a bug, committing a change on existing chapters, and reviewing Pull Requests.
-* Joining and inviting new individuals to community meetings such as Collaborations Cafe and Co-working sessions.
-* Presenting about *The Turing Way* at an event.
-* Initiating a conversation or pose a question in *The Turing Way* community channels.
-* Suggesting content for _The Turing Way_ Newsletter.
-* Applying to participate in the bi-annual Turing Way Book Dashes.
-* Proposing an idea for training session or community events.
-* Propose a new working group.
-* Writing a new chapter.
-* Establishing an informal collaboration.
-* Other things that you can do as individuals.
-
-We discuss specific roles under this level in a later section.
-
-### 2. Maintainer Level
-
-This level includes two types of members.  
-    
-* {ref}`_The Turing Way_ Working Groups<subprojects>`
-
-Small groups of people that work together on a focus topic, theme, or type of work. Examples of *The Turing Way* working groups are: Translation and localisation (link to their Github welcome page), Infrastructure (link), Accessibility.
-
-* {ref}`*The Turing Way* Delivery Team<fw-community-roles-delivery-team>`
-
-Staff hired to take on responsibilities for delivering and maintaining work within *The Turing Way*, for example, Research Community Manager and Research Project Manager. 
-
-Decisions that **Collective Choice or Maintainer Level** members make include the following: 
-* Setting up, leading or representing a Working Group in different types of roles as leads, co-leads, secretary and contributing members. 
-* Facilitating the creation of a new working group
-* Decisions for planning and hosting the working group meetings and recurrence of the meetings.
-* Organising and distributing the responsibilities within each working group.
-* Proposing which conferences to participate in or apply to represent their work in _The Turing Way_
-* Proposing which funding proposals or responding to a call for applications to support their work in _The Turing Way_
-* Suggesting changes in ongoing processes or current working models through discussions
-* Organising a [Fireside Chat](https://the-turing-way.netlify.app/community-handbook/fireside-chat.html) by adding your topic idea in [The Turing Way Events & Conferences calendar](https://docs.google.com/spreadsheets/d/1lWCWKAAXSlluo5d78LAjoMS9dfDxB27Y7Fb_wGI9B6Q/edit#gid=513475183). ---- a better idea would be to create form
-* Clarifying unclear processes in that guide the work of a Working Group
-* Escalating issues that can not be addressed at maintainer level
-
-### 3. Constitutional-level
-
-Strategic decisions and significant changes in the project, such as leadership, recruitment, goals, governance and funding.
-As of 2024, the constitutional level decision making sits with the project leads, Kirstie Whitaker and Malvika Sharan.
-Their aspiration is to move decision-making power to the community through process development through which more community representation, perspectives and inputs can be brought at this level.
-Ideally, the chairs/representatives/leads of Working Groups will join this level in the near future.
-
-In the future, this can be further 
-
-- Providing leadership and strategic directions in the project.
-- Applying for core funding, and approving expenses.
-- Building clarity around budget and resource available for the maintainers and community members.
-- Proposing new directions of the community
-- Include a Advisory group
-- Process whereby the co-chairs of the working gourps have an accountability meeting to represent their level 
-- Leadership team would be Co-chairs and working group leads
-- Each working group will have policy documentation in place to make decision, and payment options (if they apply)
-- Advisory group could help in recommending funding options
-
-## Community-Level Roles (detailed description)
+## Book-Related Roles
 
 The book-related roles vary based on people’s involvement in reviewing, editing or developing new content in _The Turing Way_ chapters, subchapters, impact stories, personal stories, case studies and templates
 Reviewers are often drawn from the community, based on their experience in the chapter’s topic.

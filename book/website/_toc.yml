@@ -24,7 +24,9 @@ parts:
         - title: Embracing the Principles of Digital Commons
           file: foreword/embracing-digital-commons
         - title: Community and Community Roles
-          file: foreword/community-roles  
+          file: foreword/community-roles
+        - title: Governance
+          file: foreword/governance
         - title: Background
           file: foreword/background
         - title: How to Cite
