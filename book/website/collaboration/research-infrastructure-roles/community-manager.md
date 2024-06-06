@@ -29,7 +29,7 @@ They value the people doing the research and develop structures to support the g
 * Co-create, maintain and communicate project resources
 * Amplify and champion community learnings and achievements
 
-Each role is varied but the main activities are typically focused around advocacy for the community, stewardship, scaffolding for collaboration, and the flow of information across all levels of the research, both to and from leadership. and collaboration with the community. 
+Each role is varied but the main activities are typically focused around advocacy for the community, stewardship, scaffolding for collaboration, and the flow of information across all levels of the research, both to and from leadership, and collaboration with the community. 
 
 Effective collaboration can also require management of relationships between colleagues, including coaching, formal and informal mediation, reflexive exercises, and dealing with formal Code of Conduct <mark>link to glossary?</mark>. 
 The aim of this work is to understand and gather learnings about how and where teams can work well together and diagnose issues which have contributed to challenges in collaboration. The Research Community Manger should then be well positioned to develop systems to support effective and inclusive collaboration, and mitigate harm to individuals or groups of the community. 
