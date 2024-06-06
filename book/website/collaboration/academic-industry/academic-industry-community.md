@@ -71,7 +71,7 @@ Things you might want to consider as part of this are:
 Building a thriving community is an ongoing process and requires measurement and feedback to be successful.
 
 Here are some suggestions on how to assess the effectiveness of your strategies and adapt them for continued success:
-* Track Participation Metrics: Monitor engagement on your chosen communication platforms (for example, number of active users, messages sent). Consider metrics specific to your events (for example: attendance, post-event surveys).
+* Track participation metrics: Monitor engagement on your chosen communication platforms (for example, number of active users, messages sent). Consider metrics specific to your events (for example: attendance, post-event surveys).
 * Gather Qualitative Feedback: Conduct surveys or hold focus groups to understand participants' experiences. Ask about their satisfaction with communication, the value of events, and suggestions for improvement.
 * Analyze Long-Term Outcomes: Track the impact of your community on collaboration. Has it led to joint research projects, publications, or successful technology transfer?
 
