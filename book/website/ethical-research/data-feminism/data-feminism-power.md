@@ -49,6 +49,7 @@ This hazard is more harmful in aggregate as it permeates structural, disciplinar
 
 (er-data-feminism-c1-threats)=
 ## The Threat of AI
+
 Social scientist, [Kate Crawford](https://katecrawford.net/), argues that the biggest threat from AI systems is not their intelligence but their potential to embed sexism, racism, and other forms of discrimination into our digital infrastructure.
 
 
