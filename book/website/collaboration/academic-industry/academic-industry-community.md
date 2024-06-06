@@ -72,7 +72,7 @@ Building a thriving community is an ongoing process and requires measurement and
 
 Here are some suggestions on how to assess the effectiveness of your strategies and adapt them for continued success:
 * Track participation metrics: Monitor engagement on your chosen communication platforms (for example, number of active users, messages sent). Consider metrics specific to your events (for example: attendance, post-event surveys).
-* Gather Qualitative Feedback: Conduct surveys or hold focus groups to understand participants' experiences. Ask about their satisfaction with communication, the value of events, and suggestions for improvement.
+* Gather qualitative feedback: Conduct surveys or hold focus groups to understand participants' experiences. Ask about their satisfaction with communication, the value of events, and suggestions for improvement.
 * Analyze Long-Term Outcomes: Track the impact of your community on collaboration. Has it led to joint research projects, publications, or successful technology transfer?
 
 By actively evaluating your efforts and adapting them based on the results, you can ensure your community thrives and fosters a successful academia-industry collaboration.
