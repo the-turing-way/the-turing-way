@@ -92,7 +92,7 @@ Every two months, we scheduled a virtual group cohort call where scholars filled
 
 At the call we would go through this document, encouraging the group to give advice and support to each other. 
 The second half of the call would feature a guest speaker(s) from Turing and/or Roche on a theme we asked for scholars input on. 
-Some of the topics we've had so far are 'Advice on how to become a better Data Scientist', 'Alternative Career Paths from the Turing' and 'Methods development: collaborations beyond industry'. 
+Some of the topics we've had so far are 'Advice on how to become a better Data Scientist', 'Alternative career paths from the Turing' and 'Methods development: collaborations beyond industry'. 
 
 In between these calls, our communication with the scholars was ad hoc as needed. 
 Their main point of contact was me, partnership lead from Roche Sarah McGough and our project manager Maria Anagnostopoulou for logistical queries such as expenses. 
