@@ -14,7 +14,7 @@ This allows both organisations to see how the other works in practice (rather th
 In the case of the Turing-Roche partnership, the two organisations initially collaborated through a weeklong Turing Data Study Group {cite}`DSG2020Roche`.
 
 At these collaborative hackathons, a challenger owner, in this case Roche, provides a dataset and a real-world problem to be solved by a team of researchers from the Turing network. 
-For Roche, the Data Study Group highlighted the research capabilities of the Turing Institute as well as importantly developing the initial relationship between Turing and Roche. 
+For Roche, the Data Study Group highlighted the research capabilities of the Turing Institute while developing the initial relationship between Turing and Roche. 
 This allowed both parties to see that they could productively work together, and spurred on scoping out what became a five-year formal partnership, launched in June 2021. 
 
 (cl-academic-industry-establish-setup)=
