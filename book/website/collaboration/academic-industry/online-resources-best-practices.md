@@ -1,3 +1,4 @@
+(cl-academic-industry-online-resources)=
 # Introduction
 This document provides valuable resources for you to implement in successful academia-industry collaborations. It offers practical guidance through a curated list of "TTW Resources" and explores relevant academic publications. Additionally, the document includes resources for writing case studies of such collaborations.  
 
