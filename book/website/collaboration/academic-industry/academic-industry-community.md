@@ -66,7 +66,7 @@ Things you might want to consider as part of this are:
 * Mapping out key stakeholders at each organisation and organisations in the broader ecosystem and how to engage/influence them. Turing-Roche Stakeholder Map example can be found [here](https://github.com/alan-turing-institute/turing-roche-partnership/blob/main/communications/Turing-Roche%20Stakeholder%20Mapping.pdf).
 * Considering where and how you want people to connect
 * Decide on how you want to monitor community engagement- it can be challenging to find metrics that capture things like organic interactions on Slack
-
+(cl-academic-industry-community-performance)=
 ## Measuring Community Performance
 Building a thriving community is an ongoing process and requires measurement and feedback to be successful.
 
