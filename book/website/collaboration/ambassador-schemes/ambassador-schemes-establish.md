@@ -38,7 +38,7 @@ Schemes can vary widely in format, length and facets.
 
 You will need to set up a website or webpage (for example on your organisation's website) with detailed information about the scheme, how it will work, benefits, timelines and the application process. 
 It may be useful to put this information in a call document for ease, alongside any other documentation such as an FAQs and a copy of the contract participants will need to sign if they are successful.
-You could also run an information webinar to give more context on the scheme and give an opportunity for questions for people interested in applying. 
+You could also run an information webinar to give more context on the scheme and give an opportunity for questions from people interested in applying. 
 You can make a recording of this available afterwards for increased accessibility. 
 
 (cl-ambassador-schemes-establish-running)=
