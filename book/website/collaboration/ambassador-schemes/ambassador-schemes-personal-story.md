@@ -69,7 +69,7 @@ We discussed having an interview process, but in the end decided that we felt th
 The shortlisting panel was a diverse group from the partnership core team and we used the following criteria to assess the applications:
 
 1. Relevance (in research/interests/education) - applicant has a good understanding of the partnership research and how their own research is relevant to this
-2. Proposal (quality/scope )- applicant clearly identifies how they will put their project into action, how past experience will help with this
+2. Proposal (quality/scope)- applicant clearly identifies how they will put their project into action, how past experience will help with this
 3. Motivations (clear or unclear) - applicant demonstrates clearly why they want to be a Community Scholar, how they will contribute
 
 For unsuccessful applications, we provided some short feedback and our project manager worked with the successful applicants to execute the necessary legal agreements ahead of the scheme launch which was in September 2023. At the time of writing, we are just over halfway through the scheme. 
