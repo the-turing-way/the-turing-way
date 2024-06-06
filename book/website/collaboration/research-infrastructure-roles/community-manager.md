@@ -67,11 +67,11 @@ The day-to-day tasks of a Research Community Manager could include:
 ## What qualifications or skills do you need to be a Research Community Manager? 
 The vast majority of Research Community Managers will have a scientific background that may include advanced degrees (at a Master's or Doctoral level). 
 Many Research Community Managers also have a background related to the specific field or discipline they manage a community in, but not all of them do - many parts of the research process, tools and practices for collaboration are transferable across domains. 
-If the community is associated with software or programming, it is common for community managers to have some coding skills. 
+If the community is associated with software or programming, it is common for Research Community Managers to have some coding skills. 
 The focus on inclusive collaboration requires that Research Community Managers have significant depth of understanding in issues relating to Equality, Diversity, Inclusion and Belonging <mark>link to glossary?</mark>. 
 
 There is no professionally recognised qualification or training course to become a Research Community Manager, but organisations do offer training and resources to help support the professional development of people in these roles.
-The values and approaches community managers bring to their roles are often the most important qualifications for success as a community manager.
+The values and approaches Research Community Managers bring to their roles are often the most important qualifications for success as a Research Community Manager.
 
 ```{admonition} Community Skills and Core Competancies 
 The Community Skills Framework™ by Community Roundtable includes five skill families: Content, Technical, Business, Engagement and Strategic community management skills.
@@ -86,11 +86,11 @@ See the full document on [Zenodo](https://zenodo.org/record/4437294#.YYjzg07P1aQ
 (cl-infrastructure-community-managers-challenges)=
 ## Challenges for Research Community Managers 
 * Need to mediate between community members 
-* May not be seen as a part of the community themselves and need to build trust and credibility within it
-* Need to have a lot of a broad range of skills and expertise (technical, interpersonal, project management)
+* May not be seen as part of the community themselves and need to build trust and credibility within it
+* Need to have a broad range of skills and expertise (technical, interpersonal, project management)
 * Supporting and encouraging engagement in the community 
 * Building infrastructure from scratch in newly created roles 
-* Being seen as a professional in their own right and not just adminstrative staff 
+* Being seen as a professional in their own right 
 * Connecting with new audiences who are not aware of the community
 * Bridging and translating between different groups in the same field or institution 
 * Managing tasks where there is little formal process in place 
@@ -101,13 +101,13 @@ See the full document on [Zenodo](https://zenodo.org/record/4437294#.YYjzg07P1aQ
 (cl-infrastructure-community-managers-benefits)=
 ## Benefits to having Research Community Managers
 * Able to offer meta-thinking about how the community is structured and run 
-* Shares best practices around communication, collaboration, diversity, equity and inclusion, and other areas of research 
+* Shares best practices around research, communication, collaboration, diversity, equity and inclusion, and other areas of research 
 * Supports the upskilling of members via technical skill sharing and training
 * Supports other members of the community to take on more active roles, including leadership, increasing sustainability, resilience and expansion of the community
 * Stewarding initiatives to develop the community such as data standards, a Code of Conduct <mark>check style sheet on capitalisation of this</mark>, or training workshops
-* Offers a stable base for the community, to make information is captured, meetings happen and relationships are strengthened
-* Connecting groups working on similar projects together, to support increased collaboration 
-* Breaking down siloes between departments, fields, research groups 
+* Offers a stable base for the community, to make sure information is documented consistently, meetings happen and relationships are strengthened
+* Connecting groups working on similar projects to support increased collaboration 
+* Breaking down silos between departments, fields and research groups 
 * Greater understanding of the needs of the community 
 
 
