@@ -78,7 +78,7 @@ This can be done verbally or through an electronic form.
 
 It is also important to archive the materials created for the scheme. 
 This will include the process documentation used to run the scheme and also outputs developed by the ambassadors. 
-It is best practice to make these resources openly available by depositing them in a FAIR manner using an [open repository such as Zenodo] {ref}`Steps for Making Research Objects Citable <cm-citable-steps>`
+It is best practice to make these resources openly available by depositing them in a FAIR manner using an [open repository such as Zenodo] {ref}`Steps for Making Research Objects Citable <cm-citable-steps>`.
 This ensures that others who might want to run similar schemes can access them and also all of the outputs, as well as providing a citable output for you and the ambassadors so that you get credit for the work that you have all done.  
 
 
