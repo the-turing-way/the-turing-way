@@ -8,7 +8,7 @@ For academic-industry collaborations, a focus on community can be crucial as oft
 While the benefits of a strong community are numerous, fostering collaboration across academia and industry can present unique challenges. 
 
 Here are some to consider:
-* Differing Work Cultures and Communication Styles: Academia often prioritizes long-term research and fundamental knowledge creation, while industry focuses on short-term deliverables and applied solutions. Communication styles can also vary, with academia valuing detailed reports and industry favoring concise presentations.
+* Differing work cultures and communication styles: Academia often prioritises long-term research and fundamental knowledge creation, while industry focuses on short-term deliverables and applied solutions. Communication styles can also vary, with academia valuing detailed reports and industry favoring concise presentations.
 * Intellectual Property Concerns: Sharing research findings openly can be crucial in academia, but industry might have concerns about protecting proprietary information or patentable inventions. Finding a balance between openness and confidentiality is essential.
 * Time Constraints: Academics may juggle teaching, research, and administrative duties, while industry professionals might face tight deadlines and limited time for collaboration. Balancing these commitments can be a hurdle.
 * Varying Levels of Expertise: Partners may have different levels of expertise in the collaboration's domain. Bridging this knowledge gap requires clear communication and fostering a learning environment for all participants.
