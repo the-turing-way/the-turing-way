@@ -95,7 +95,7 @@ The second half of the call would feature a guest speaker(s) from Turing and/or 
 Some of the topics we've had so far are 'Advice on how to become a better Data Scientist', 'Alternative career paths from the Turing' and 'Methods development: collaborations beyond industry'. 
 
 In between these calls, our communication with the scholars was ad hoc as needed. 
-Their main point of contact was me, partnership lead from Roche Sarah McGough and our project manager Maria Anagnostopoulou for logistical queries such as expenses. 
+Their main point of contact was me, Sarah McGough, partnership lead from Roche, and our project manager Maria Anagnostopoulou, for logistical queries such as expenses. 
 The scholars could connect with us and with each other through the Turing-Roche Slack Workspace in a dedicated channel and by individual messages. 
 We had online calls with the scholars fairly regularly to support them fully on developing their activities. 
 Different activities developed at different timescales so we found the support we were providing each scholar wasn't linear.
