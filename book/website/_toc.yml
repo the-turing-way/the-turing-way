@@ -21,9 +21,7 @@ parts:
           file: foreword/background
         - title: Navigating the Handbook
           file: foreword/navigate
-        - title: Community
-          file: foreword/community
-        - title: Community Roles
+        - title: Community and Community Roles
           file: foreword/community-roles
         - title: Emergence as The Turing Way Strategy
           file: foreword/embracing-emergent-strategy

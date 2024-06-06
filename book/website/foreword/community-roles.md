@@ -1,9 +1,29 @@
 (fw-community-roles)=
-# Community Roles and Pathways for Collaboration
+# Community and Community Roles
 
 _Everyone has a skill that is useful for someone, and therefore anyone can contribute to The Turing Way._
 
-You can participate in _The Turing Way_ through several community roles, including those related to book authorship and emergent roles for trainers, presenters, and speakers, from which the broader community can learn and benefit.
+_The Turing Way_ book has been co-authored by more than 450+  contributors and utilised by diverse groups of researchers, educators, learners, policymakers, government departments and industry professionals.
+
+As of June 2024, _The Turing Way_ community has been joined by more than 1000 members, who engage via GitHub, Slack Workspace and a range of community events.
+The book itself has 6000+ monthly users from worldwide.
+
+All contributions, discussions, and contributor details are handled through the central GitHub repository ([https://github.com/the-turing-way/the-turing-way/](https://github.com/the-turing-way/the-turing-way/)). 
+Contributors' details are available in the [Contributors Records](https://the-turing-way.netlify.app/afterword/contributors-record.html%C2%A0), and the [project reports](https://github.com/the-turing-way/the-turing-way/tree/main/project_management/quarterly_reports) offer detailed updates from different areas of work within _The Turing Way_.
+
+## Project Delivery Team
+
+The project is managed by the project delivery team, which includes two project leads, a research project manager, and a research community manager, funded by The Alan Turing Institute's Tools, Practices, and Systems Research Programme.
+
+## Governance
+
+The governance body of _The Turing Way_ is represented by the project delivery team and volunteer leaders from the community who are involves in various formal and informal initiatives.
+
+[add details from community forum and briefly introduce wgs] 
+
+## Community Roles
+
+You can participate in _The Turing Way_ through several community roles, including those related to book authorship, governance and emergent roles for trainers, presenters, and speakers, from which the broader community can learn and benefit.
 
 _The Turing Way_ project also involves collaborators from projects within the Turing, partnering organisations, open-source communities, and beyond, either formally through funded grant proposals or informally through collaborative activities such as co-creation of resources (such as chapters, articles or community documentation) and events (such as Fireside Chat, Book Dash and external conference session).
 In this document, we describe these roles to guide you, our community members, in identifying the best routes for their involvement in the project and our community.

@@ -1,13 +1,13 @@
 (fw)=
 # Foreword
 
-_The Turing Way_ is open for anyone to use, contribute to and share. 
-You can inspect our resources on [GitHub](https://github.com/alan-turing-institute/the-turing-way), contribute to the project as described in our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md)).
+This is an introductory section of The Turing Way as a project, a handbook, and a community.
 
-Although _The Turing Way_ core team is located in London (UK) and receives support from [The Alan Turing Institute](https://www.turing.ac.uk/), the project is designed to be a global collaboration.
-Chapters have been written, reviewed and curated by members from international research institutes and universities, government departments, and industry.
+Here you will find chapters providing context and background on the book, how you can use it, how you can contribute to different aspects of the project, and how you can participate in this community.
 
-The foreword section of _The Turing Way_ handbook provides the following information:
+The project lead, Kirstie Whitaker (founder), discusses "Emergent Strategy" and how it has inspired her leadership and the foundation of The Turing Way. Co-lead, Malvika Sharan, shares her reflections on working with the community and how The Turing Way operationalizes approaches that underpin the "Principles of Digital Commons."
+
+You will find these in the form of following chapters:
 
 - {ref}`fw-background`
 - {ref}`fw-navigating`
@@ -18,8 +18,6 @@ The foreword section of _The Turing Way_ handbook provides the following informa
 - {ref}`fw-cite-us`
 - {ref}`fw-faqs`
 
-We are committed to creating a space where people with diverse expertise and lived experiences can share their knowledge with others, and help us use data science to improve the world.
-
 ```{figure} ../figures/banner-welcome.jpg
 ---
 width: 500px
@@ -28,3 +26,5 @@ alt: Two people, a woman and a man, waving next to a banner that says - welcome.
 ---
 _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
 ```
+
+We hope these resources will help you navigate, understand and be part of our community.
