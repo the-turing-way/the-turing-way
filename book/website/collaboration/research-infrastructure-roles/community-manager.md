@@ -57,7 +57,7 @@ The day-to-day tasks of a Research Community Manager could include:
 * Running training courses & workshops
 * Reading and sharing publications relevant to the community
 * Managing membership lists
-* Mentoring community contributions
+* Mentoring community contributors
 * Meeting and listening to community members to understand their needs and challenges
 * Maintaining stakeholder and project databases
 * Advocating for the community and project at external national and international meetings
