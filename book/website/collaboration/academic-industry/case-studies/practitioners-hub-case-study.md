@@ -1,5 +1,7 @@
+(cl-practitioners-hub-case-study=)
 # Case Study: Turing Way Practitioner's Hub 
-
+<!--
+Figure build is failing, this needs to be fixed
 ```{figure} ../figures/practitioners-hub-experts.*
 ---
 height: 400px
@@ -9,7 +11,7 @@ alt: Cartoon-like sketch with text at the top in an arc reading "the practitione
 Practitioners' hub experts. 
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
-
+-->
 ## Introduction to the Turing Way Practitioner's Hub 
 
 The Turing Way Practitioners Hub is a Turing Way project that engages and involves industry experts, called Experts in Residence (EiRs), from partnering organisations. This initiative aims to advance their efforts in promoting best practices in data science and AI. The Practitioners Hub serves as a platform for cross-sector collaboration, knowledge exchange, and strategic partnerships, spanning various sectors and data science initiatives, including but not limited to the small and medium-sized (SMEs) enterprises in BridgeAI network. It is a useful example of industry-academia collaboration which could be recreated in other contexts. 
