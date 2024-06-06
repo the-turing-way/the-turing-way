@@ -2,7 +2,7 @@
 # Research Community Managers: Overview
 **test for Jessie to delete!!**
 Community Management as a profession was developed to facilitate the social, informal and formal learning processes, which take place in Communities of Practice - "groups of people who share a concern, a set of problems, or a passion about a topic, and who deepen their knowledge and expertise in this area by interacting on an ongoing basis" <mark>Ref: Lave, Jean, and Etienne Wenger. Situated Learning: Legitimate Peripheral Participation. Cambridge, Cambridge University Press, 1991.</mark>. 
-Community Managers have been employed in open source projects in technical industries  since the early 1990's <mark>Ref:  Michlmayr, M., 2009. Community management in open source projects. The European Journal for the Informatics Professional, X (3), pp.22-26. https://www.cyrius.com/publications/michlmayr-community_management.pdf</mark>, and more recently in research organisations (Universities and research institutes, where they are known as Research Community Managers.
+Community Managers have been employed in open source projects in technical industries  since the early 1990's <mark>Ref:  Michlmayr, M., 2009. Community management in open source projects. The European Journal for the Informatics Professional, X (3), pp.22-26. https://www.cyrius.com/publications/michlmayr-community_management.pdf</mark>, and more recently in research organisations (Universities and research institutes), where they are often known as Research Community Managers.
 
 
 ```{figure} ../../figures/research-community-manager.*
