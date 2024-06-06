@@ -1,3 +1,4 @@
+(cl-academic-industry-case-studies)=
 # Case Studies in Industry-Academia Collaboration
 This is a library of case studies in industry-academia collaboration projects. Each case study consists of a description of the case study, and discussions about best practices followed, challenges, and lessons learnt in navigating the case study. Tags will be added to each case study for easy referencing and navigation.
 You are encouraged to contribute to this library if you currently are or have been involved in industry-academia collaborative projects. We will soon release a template for reporting case studies in industry-academia collaboration, but in the meantime, please include a description of the collaboration, best practices followed, challenges, and lessons learnt in a MarkDown file and add a new entry to the table with your case study.
