@@ -370,8 +370,8 @@ parts:
             sections:
               - title: Missing Data Structures
                 file: project-design/missing-data/missing-data-structures
-              - title: Visualising Missingness 
-                file: project-design/missing-data/missing-data-visualising-missingness 
+              - title: Visualising Missingness
+                file: project-design/missing-data/missing-data-visualising-missingness
               - title: Missing Data Handling Methods
                 file: project-design/missing-data/missing-data-methods
               - title: Structured Missingness
