@@ -3,7 +3,7 @@
 
 _Everyone has a skill that is useful for someone, and therefore anyone can contribute to The Turing Way._
 
-_The Turing Way_ book has been co-authored by more than 450+  contributors and utilised by diverse groups of researchers, educators, learners, policymakers, government departments and industry professionals.
+_The Turing Way_ book has been co-authored by more than 450+  contributors and utilised by diverse groups of individuals who are researchers, educators, learners, policymakers, government employees and industry professionals.
 
 As of June 2024, _The Turing Way_ community has been joined by more than 1000 members, who engage via GitHub, Slack Workspace and a range of community events.
 The book itself has 6000+ monthly users from worldwide.
@@ -17,9 +17,15 @@ The project is managed by the project delivery team, which includes two project 
 
 ## Governance
 
-The governance body of _The Turing Way_ is represented by the project delivery team and volunteer leaders from the community who are involves in various formal and informal initiatives.
+The governance body of _The Turing Way_ is represented by the project leadership and volunteer community leaders from the community who are involves in various formal and informal initiatives.
 
-[add details from community forum and briefly introduce wgs] 
+```{admonition} Note
+Governance is the set of formal and informal practices through which an organisation sets goals, assigns responsibilities, establishes systems, and assesses outcomes of organisational action.
+```
+
+[adding details from community forum and briefly introduce wgs] 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WzzfaSQQL1w?si=76j7P-MFJbfGWgLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Community Roles
 

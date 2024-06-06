@@ -3,17 +3,22 @@
 
 Our moonshot goal is to make reproducibility "too easy not to do".
 
+_The Turing Way_ team is deeply committed to openness, inclusivity, ethical conduct and access in data science and AI, and our community members have integrated these aspects across all our resources and the work we do.
+
 All resources shared in this book have been developed with a purpose to advance reproducible, ethical and collaborative practices in research and data science worldwide.
 
-We are deeply committed to openness, inclusivity, ethical conduct and access in data science and AI, and have integrated these aspects across all our resources and the work we do.
 
 ## Structure of the Handbook
 
-_The Turing Way_ handbook is organised in five guides and a Community Handbook.
+_The Turing Way_ handbook is organised in different guides on data science practices and additional sections to cover different aspects of the project.
 
-### _The Turing Way_ Guides
+Each section contains multiple chapters, and each chapters are divided into smaller, self-contained sub-chapters to allow you to navigate the book and its content easily in your own pace.
 
-Each guide contains multiple chapters, and each chapters are divided into smaller, self-contained sub-chapters to allow you to navigate the book and its content easily in your own pace. 
+### _The Turing Way_ Guides 
+
+All community-developed resources on research and data science practices are organised into five guides and a handbook.
+The book started with a guide on research reproducibility, that contains tools, methods and practices from computational aspects of data science.
+Other guides contain different socio-technical aspects that should be considered to make data science open, collaborative and ethical, and hence, ultimately enhancing the reproducibility of a project.
 
 * {ref}`rr`
 * {ref}`pd`
@@ -25,6 +30,9 @@ Each guide contains multiple chapters, and each chapters are divided into smalle
 ```{admonition} Reminder
 _The Turing Way_ is not meant to be read from beginning to end!
 ```
+
+The decision to integrate different chapters into specific guides is collectively made by community members through open discussions via GitHub issues and Slack.
+However, their positions within the book are simply for organisation and access purposes; the guide itself doesn't limit the scope of the chapters and hence can be edited and updated by anyone (including you!) at any time with relevant information.
 
 ```{figure} ../figures/theturingway-chapters.*
 ---

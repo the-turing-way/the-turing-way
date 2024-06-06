@@ -1,5 +1,5 @@
 (fw-emergent-strategy)=
-# Embracing Emergence as _The Turing Way’s_ Strategy
+# Emergence as _The Turing Way’s_ Strategy
 
 _In this document, Dr Kirstie Whitaker, founder of _The Turing way_ talks us through the principles of [Emergent Strategy](https://fortelabs.co/blog/emergent-strategy-organizing-for-social-justice/) and how they have directed and informed her leadership of the project and of the [Tools, Practices and Systems (TPS) Programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) at[ The Alan Turing Institute](https://www.turing.ac.uk/about-us) more broadly._
 
@@ -7,10 +7,8 @@ _The Turing Way_ is a living book.
 It is written by a community, who are themselves human, ever-changing, beautiful and creative.
 What they can together - will - create is better than anything any one person could imagine.
 
-This document digs into each principle of Emergent Strategy, a book by
-[Adrienne Maree brown](https://adriennemareebrown.net) that builds on Obolensky’s definition of _emergence_ as “the way complex systems and patterns arise out of a multiplicity of relatively simple interactions”.
-This [blog post by Forte Labs](https://fortelabs.co/blog/emergent-strategy-organizing-for-social-justice) gives a great overview of the principles.
-They aren’t really separable and are lenses on the whole philosophy that brown espouses.
+In this document, I dig into each principle of Emergent Strategy, introduced by [Adrienne Maree brown](https://adriennemareebrown.net), an author of book under the same name.
+She builds on Obolensky’s definition of _emergence_ as “the way complex systems and patterns arise out of a multiplicity of relatively simple interactions”.
 
 She says in the introduction to her book:
 > You can read the book with others, assess each other and assess the groups and circles you move in.
@@ -19,10 +17,10 @@ She says in the introduction to her book:
 > Come up with workshops and retreats around this work.
 > Take it, run, go, grow, innovate, emerge.
 
-That’s what Kirstie brought into _The Turing Way_ and the TPS Programme at the Turing.
+That’s what I brought into _The Turing Way_.
 
 Remember that you can make adjustments to this text yourself as your understanding evolves.
-> In fact, she - we - hope that you do.
+> In fact, I - we - hope that you already do it.
 > Thank you for being here.
 
 ```{admonition} The Principles of Emergent Strategy
@@ -39,26 +37,30 @@ Remember that you can make adjustments to this text yourself as your understandi
 
 ```
 
+This [blog post by Forte Labs](https://fortelabs.co/blog/emergent-strategy-organizing-for-social-justice) gives a great overview of the principles.
+They aren’t really separable and are lenses on the whole philosophy that brown espouses.
+
 ## Small is good, small is all (The large is a reflection of the small)
 
-Everyone who works within Tools, Practices and Systems (TPS) at the Turing should have a grand vision for the change that they want to see in the world.
+Most people I have worked with have a grand vision for the change that they want to see in the world.
 
 Maybe it’s making all research reproducible at the time of publication. 
 Maybe it’s ensuring that every data set comes with documented metadata and provenance (a data paper for example).
 Maybe it’s investing in community-created open source software to improve research efficiency.
 
-I want to very, very deeply support and encourage those big dreams.
+I deeply support and encourage those big dreams.
 They can seem intimidating, impossible, or too much for one person, project or community.
 Sometimes it can be tempting to want to lie down on the floor and give up when you realise just how stacked against those collaborative practices our current incentive structures can be.
 
 What I love about this first principle of emergent strategy is that it gives us a pathway to making that change.
 
-* Want to see a kinder world?
- Be kind to the next person you interact with.
+* Want to see a kinder world? _Be kind to the next person you interact with._
 * Want to see a more reproducible publishing ecosystem?
- Help the next person you collaborate with to re-run their analyses to confirm the same answer.
+_Help the next person you collaborate with to re-run their analyses to confirm the same answer._
 * Want data scientists to be more representative of our global community in terms of ethnicity, gender, sexuality, disability and so many more dimensions and their intersections?
-Encourage the next person you mentor to share their perspective. Especially if that person is yourself 
+_Encourage the next person you mentor to share their perspective. Especially if that person is yourself._
+
+_The Turing Way_ is a space where I hope you can start taking steps towards that change.
 
 ## Change is constant (Be like water)
 
@@ -81,7 +83,7 @@ Whatever you can do right now, in this moment, is what we need and what we appre
 
 One of the things that I’ve heard clearly in the first few years of creating _The Turing Way_ is how uncomfortable people feel in agenda-less spaces.
 
-I ran open [coffee chats](https://twitter.com/kirstie_j/status/1239455513080926208) every workday morning from the first UK COVID lockdown in March 2020 to Easter 2022 when I started my maternity leave.
+I ran open [coffee chats](https://twitter.com/kirstie_j/status/1239455513080926208) every workday morning from the first UK COVID lockdown in March 2020 to Easter 2022 (when I started my maternity leave).
 
 I LOVE the creativity and inspiration that comes from completely open-ended conversations.
 I had to listen, get to know some of the regulars, sense what they were interested in talking about that particular day, and then ask the right questions to allow the conversation to evolve.
@@ -116,14 +118,14 @@ The goal is to get up and try to improve - incrementally - every step we take.
 
 Be vulnerable, be brave, and be gracious in recognising the learnings of others as they stretch beyond their comfort zone.
 
-(If you’d like to read more about courage and vulnerability in leadership, I recommend[ Brene Brown’s](https://brenebrown.com/) book [Dare To Lead](https://daretolead.brenebrown.com/).
+(If you’d like to read more about courage and vulnerability in leadership, I recommend [Brene Brown’s](https://brenebrown.com/) book [Dare To Lead](https://daretolead.brenebrown.com/).
 In particular, her exercise on [operationalising values](https://brenebrown.com/operationalizing-your-orgs-values/) is really fascinating.
 It’s so easy to _say_ the right thing.
 What takes conviction and resilience is making the changes to identify and then actually _do_ the right thing.)
 
 ## Trust the People (If you trust the people, they become trustworthy)
 
-This principle is inspired by the writings of[ Lao Tzu](https://en.wikipedia.org/wiki/Laozi), an ancient Chinese scholar who is reputed to have written the[ Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching).
+This principle is inspired by the writings of [Lao Tzu](https://en.wikipedia.org/wiki/Laozi), an ancient Chinese scholar who is reputed to have written the [Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching).
 
 > "When the Master governs, the people
  are hardly aware that (s)he exists.

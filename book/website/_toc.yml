@@ -17,16 +17,16 @@ parts:
       
       - file: foreword/foreword
         sections:
-        - title: Background
-          file: foreword/background
         - title: Navigating the Handbook
           file: foreword/navigate
-        - title: Community and Community Roles
-          file: foreword/community-roles
         - title: Emergence as The Turing Way Strategy
-          file: foreword/embracing-emergent-strategy
+          file: foreword/emergent-strategy
         - title: Embracing the Principles of Digital Commons
           file: foreword/embracing-digital-commons
+        - title: Community and Community Roles
+          file: foreword/community-roles  
+        - title: Background
+          file: foreword/background
         - title: How to Cite
           file: foreword/cite-us
         - title: Frequently Asked Questions
