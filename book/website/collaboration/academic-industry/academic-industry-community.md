@@ -13,7 +13,7 @@ Here are some to consider:
 * Time constraints: Academics may juggle teaching, research, and administrative duties, while industry professionals might face tight deadlines and limited time for collaboration. Balancing these commitments can be a hurdle.
 * Varying levels of expertise: Partners may have different levels of expertise in the collaboration's domain. Bridging this knowledge gap requires clear communication and fostering a learning environment for all participants.
 (cl-academic-industry-community-building)=
-## How To Build a Collaboration Community
+## Building an academic-industry collaboration community
 The Turing-Roche partnership hired a full time Community Manager for this purpose; helping to navigate any differences in ways of working, facilitating initial and longer term connections and creating a sense of ownership and engagement around the partnership.
 
 Approaches to community building can vary (see {ref}`Guide to Planning a Community Chapter <cl-new-community-guide>`) but initial steps that might be useful in an academic-industry collaboration are:
