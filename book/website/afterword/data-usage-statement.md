@@ -17,5 +17,5 @@ In the meantime, we have taken several steps to configure Google Analytics to be
 - We do not share any collected data with Google beyond what is required of us to ["maintain and protect the Google Analytics service."](https://business.safety.google/adsprocessorterms/)
 - (IP addresses are now anonymized per default)
 
-By implementing these measures, we hope to improve how our data is handled while we transition
+By implementing these measures, we hope to somewhat mitigate the adverse effects of Google Analytics while we transition to a better tool.
 
