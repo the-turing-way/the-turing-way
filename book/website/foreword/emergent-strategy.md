@@ -5,12 +5,12 @@
 This chapter is under review.
 ```
 
-_In this document, Dr Kirstie Whitaker, founder of _The Turing way_ talks us through the principles of [Emergent Strategy](https://fortelabs.co/blog/emergent-strategy-organizing-for-social-justice/) and how they have directed and informed her leadership of the project and of the [Tools, Practices and Systems (TPS) Programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) at[ The Alan Turing Institute](https://www.turing.ac.uk/about-us) more broadly._
+_In this document, Dr Kirstie Whitaker, founder of _The Turing Way_ talks us through the principles of [Emergent Strategy](https://fortelabs.co/blog/emergent-strategy-organizing-for-social-justice/) and how they have directed and informed her leadership of the project and of the [Tools, Practices and Systems (TPS) Programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) at[ The Alan Turing Institute](https://www.turing.ac.uk/about-us) more broadly._
 
 ```{figure} ../figures/healthy-leadership.png
 ---
 name: healthy-leadership
-alt: Leadership is illustrated as a fractal where different people are watering growing flowers in the different places - that is leading to new fractals with more people. There are a few quotes written on ths image - Transform yourself to transform the world, the large is a reflection of the small, and strong values can spread to other organisations.
+alt: Leadership is illustrated as a fractal where different people are watering and growing flowers in different places - that is leading to new fractals with more people. There are a few quotes written on the image - Transform yourself to transform the world, the large is a reflection of the small, and strong values can spread to other organisations.
 ---
 Illustration of Healthy Leadership by Scriberia. Zenodo. [https://doi.org/10.5281/zenodo.4323154](https://doi.org/10.5281/zenodo.4323154).
 We highlight the quotes from Adrienne Maree Brown, author of the Book Emergent Strategy.
@@ -18,7 +18,7 @@ We highlight the quotes from Adrienne Maree Brown, author of the Book Emergent S
 
 _The Turing Way_ is a living book.
 It is written by a community, who are themselves human, ever-changing, beautiful and creative.
-What they can together - will - create what is better than anything any one person could imagine.
+What they can do together - will - create what is better than anything any one person could imagine.
 
 In this document, I dig into each principle of Emergent Strategy, as described by [Adrienne Maree brown](https://adriennemareebrown.net).
 She builds on Obolensky’s definition of _emergence_ as “the way complex systems and patterns arise out of a multiplicity of relatively simple interactions”.
