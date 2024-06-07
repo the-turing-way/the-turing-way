@@ -22,7 +22,7 @@ Ambassadors may receive training or mentorship to effectively carry out their re
 Ambassadors often play a crucial role in building positive relationships and conveying the values and strengths of the community they have joined within their own organisations and other related communities.
 
 We recognise that the term 'ambassador scheme' does not have one definition and can span more widely, such as a 'brand ambassador' in corporate settings, so we are using the term ‘ambassador scheme’ as defined above for the purposes of this chapter. 
-We also are aware that these schemes can have a number of synonyms such as fellows, scholar, champion, but for this chapter we will be using the term ambassador. 
+We also are aware that these schemes can have a number of synonyms such as fellow, scholar, champion, but for this chapter we will be using the term ambassador. 
 
 (cl-ambassador-schemes-motivation)=
 ## Motivation and Background 
