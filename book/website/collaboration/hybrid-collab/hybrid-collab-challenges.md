@@ -8,19 +8,22 @@ Some of the challenges faced in hybrid settings are highlighted in this chapter.
 
 ## Social networking in hybrid settings
 
-In a hybrid work setting, the task of building and maintaining a local network becomes more challenging due to limited natural social interactions and a systematic imbalance between in-person and online groups. 
-It can also be a challenge for the in-person participants to simultaneously manage interactions with people online and people in the same in-person setting as them.
+Building and maintaining a local network becomes more challenging in a hybrid work setting due to limited natural social interactions and a systematic imbalance between in-person and online groups. 
+It can also be a challenge for the in-person participants to simultaneously manage interactions with people online and people in the same in-person setting.
 
 ## Communication tools used for hybrid environments
 The variety of communication tools used in remote and hybrid work presents challenges for inclusiveness and involves asynchronous communication. 
 Different tools serve various purposes, such as messaging, video chat, collaborative software development, and traditional methods like email. 
 Poorly organised hybrid events can isolate online participants, and incorporating physical tools into online streaming is complex. 
-Hybrid meetings require different etiquette, and unequal access to communication tools may exclude some individuals, especially those at early career stage who might still be exploring how to navigate such spaces.
+Hybrid meetings require different etiquette, and unequal access to communication tools may exclude some individuals, especially those at early career stages who might still be exploring navigating such spaces.
 
 ## Lack of space to focus and be attentive
 There are disparities in facilities and services between in-person and online settings.
-Distraction comes easily with an online set up.
+Distraction comes easily with an online setup.
 When online, individuals may encounter higher levels of noise and distractions due to personal responsibilities that are not immediately apparent, such as caring for children or elderly family members. 
-In addition to the communication challenges discussed earlier, individuals may not be aware of the support resources available to them and may struggle to ask questions or access the necessary assistance.
-This is particularly problematic for individuals with caregiving responsibilities who may lack a quiet space to participate in remote conferences, workshops, trainings, and events. 
-In essence, the lack of essential facilities and support needed to participate attentively can discourage the online participants to continue attending the event online.
+In addition to the communication challenges discussed earlier, individuals may not be aware of the support resources available and may struggle to ask questions or access the necessary assistance.
+This is particularly problematic for individuals with caregiving responsibilities who may need a quieter space to participate in remote conferences, workshops, trainings, and events. 
+In essence, the lack of essential facilities and support needed to participate attentively can discourage online participants from attending the event remotely.
+
+## Coordination and scheduling
+There are also challenges in coordination and scheduling, especially across time zones. An important concern is finding common times for synchronous hybrid meetings among participants across time zones. Personal schedules and commitments further complicate this coordination. While asynchronous communication helps manage these differences by allowing participants to contribute at their convenience, it requires careful planning to ensure that all team members can participate effectively without feeling overwhelmed or excluded. Additionally, relying on asynchronous communication can impact the immediacy of real-time collaboration, slowing down engagement levels, decision-making processes, and resolving issues, as participants needed for feedback or support are not always immediately available.  
