@@ -4660,6 +4660,24 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "jessieontherun",
+      "name": "jessieontherun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56831617?v=4",
+      "profile": "https://github.com/jessieontherun",
+      "contributions": [
+        "doc"
+        ]
+    },
+    {
+      "login": "AbcSxyZ",
+      "name": "AbcSxyZ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34010605?v=4",
+      "profile": "https://github.com/AbcSxyZ",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "projectName": "the-turing-way",
