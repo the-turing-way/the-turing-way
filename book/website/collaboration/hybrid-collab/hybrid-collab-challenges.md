@@ -12,7 +12,11 @@ Building and maintaining a local network becomes more challenging in a hybrid wo
 It can also be a challenge for the in-person participants to simultaneously manage interactions with people online and people in the same in-person setting.
 
 ## Communication tools used for hybrid environments
-The variety of communication tools used in remote and hybrid work presents challenges for inclusiveness and involves asynchronous communication. 
+A mix of synchronous and asynchronous communication tools are used for hybrid environments.
+Synchronous Communication refers to real-time interactions where participants communicate simultaneously, such as through video and voice calls or live messaging. This type of communication is essential for immediate feedback and dynamic discussions.
+Asynchronous Communication refers to interactions where responses do not occur in real time, allowing participants to engage at their convenience. Tools for asynchronous communication include emails and collaborative software platforms where updates and messages can be posted and responded to over time.
+
+The variety of communication tools used in hybrid work presents challenges for inclusiveness, especially when using asynchronous communication tools. 
 Different tools serve various purposes, such as messaging, video chat, collaborative software development, and traditional methods like email. 
 Poorly organised hybrid events can isolate online participants, and incorporating physical tools into online streaming is complex. 
 Hybrid meetings require different etiquette, and unequal access to communication tools may exclude some individuals, especially those at early career stages who might still be exploring navigating such spaces.
