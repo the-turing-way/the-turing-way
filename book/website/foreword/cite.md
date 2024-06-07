@@ -7,7 +7,7 @@ You can cite _The Turing Way_ through the project's Zenodo archive using DOI: [1
 
 The citation will look something like:
 
->  _The Turing Way_ Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). _The Turing Way_: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. http://doi.org/10.5281/zenodo.3233986
+>  The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.0.2). Zenodo. DOI [10.5281/zenodo.3233853](https://zenodo.org/doi/10.5281/zenodo.3233853). 
 
 Please visit the [DOI link](https://doi.org/10.5281/zenodo.3233853) though to get the most recent version - the one above is not automatically generated and may be out of date.
 DOIs allow us to archive the repository and are useful for tracking the work in academic publications.
