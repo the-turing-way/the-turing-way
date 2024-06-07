@@ -603,6 +603,13 @@ parts:
                 file: collaboration/academic-industry/academic-industry-community
               - title: Turing-Roche Community Activities Personal Story
                 file: collaboration/academic-industry/academic-industry-personal-story
+          - title: Ambassador Schemes
+            file: collaboration/ambassador-schemes
+            sections:
+              - title: Establishing and Running an Ambassador Scheme
+                file: collaboration/ambassador-schemes/ambassador-schemes-establish
+              - title: Turing-Roche Community Scholar Scheme Personal Story
+                file: collaboration/ambassador-schemes/ambassador-schemes-personal-story
           - title: Team Manual
             file: collaboration/team-manual
             sections:
@@ -673,6 +680,9 @@ parts:
                 file: collaboration/shared-ownership/shared-ownership-defaults
           - title: Sustainability of Open Source Projects
             file: collaboration/oss-sustainability/oss-sustainability-challenges
+            sections:
+              - title: Examples of Open Source Business Models
+                file: collaboration/oss-sustainability/oss-sustainability-examples
 
       # ===== Guide for Ethical Research ========================================
 
@@ -862,6 +872,8 @@ parts:
                 file: community-handbook/coworking/coworking-weekly
               - title: Organising coworking calls
                 file: community-handbook/coworking/coworking-organisation
+              - title: Drop-in Sessions
+                file: community-handbook/coworking/coworking-dropins
           - title: Fireside Chat Series
             file: community-handbook/fireside-chat
             sections:
@@ -899,6 +911,8 @@ parts:
         sections:
           - title: Legal Disclaimer
             file: afterword/legal-disclaimer
+          - title: Data Usage Statement
+            file: afterword/data-usage-statement
           - title: Contributors Record
             file: afterword/contributors-record
           - title: Collaborators

@@ -4,14 +4,14 @@
 
 current_time=$(date +"%Y-%m-%d %H:%M:%S.%3N")
 echo "#Book stats for chapters and subchapters, \
-generated on: $current_time" > book-stats.csv
+generated on: $current_time" > book-stats.md
 
-# table header
+# add table header
+echo "guide name; number of chapters; number of subchapters"  >> book-stats.md
 echo "guide name; number of chapters; number of subchapters"
-echo "guide name; number of chapters; number of subchapters"  >> book-stats.csv
 
 path="../../book/website/"
-# Sum up chapters and subchapter
+# Sum up chapters and subchapters
 total_chapters=0
 total_subchapters=0
 
