@@ -16,7 +16,7 @@
 
 - Online participants might have to join at times that are not core working hours. Keep this in mind, especially for interactive parts.
 - If some aspects of the agenda only apply to one participant group, be clear about this. For example, do not schedule a networking session that turns out to be an in-person coffee break without being clear about how you expect online participants to network.
-- Organize multiple sessions or select strategic times to accommodate online participants from different time zones to address possible scheduling challenges.
+- Organize multiple sessions or select strategic times to accommodate online participants from different timezones to address possible scheduling challenges.
 
 ### Location
 
