@@ -7,7 +7,7 @@
   "imageSize": 100,
   "contributorsPerLine": 7,
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg)](#contributors)",
-  "skipCi": true,
+  "skipCi": false,
   "contributorsSortAlphabetically": true,
   "contributors": [
     {
@@ -4704,6 +4704,5 @@
   "projectOwner": "the-turing-way",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "commitConvention": "none",
-  "commitType": "docs"
+  "commitConvention": "none"
 }
