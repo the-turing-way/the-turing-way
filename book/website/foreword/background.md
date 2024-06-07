@@ -30,9 +30,10 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 The book started in January 2019 as a guide for reproducibility, covering {ref}`rr-vcs`, {ref}`rr-testing`, and {ref}`rr-ci`. However, technical skills are just one aspect of making data science research "open for all" and so in February 2020, _The Turing Way_ expanded into a series of guides: {ref}`rr`, {ref}`pd`, {ref}`cm`, {ref}`cl`, and {ref}`er`.
 
-```{admonition} Highlights from the First Impact Story
+```{admonition} Highlights from the First Impact Story from 2019
+**Changing the culture of data science**
 
-_The Turing Way_ is a global community of advocates committed to changing the research culture and data science for the better.
+> _The Turing Way_ is an online handbook – and global community – dedicated to fostering gold-standard reproducible research. It’s a cultural movement with the potential to transform data science
 
 - There is a crisis of reproducibility  in science. 
 - ‘Publish-or-perish’ incentives and excessive data secrecy stifles progress and wastes resources: siloed science is slow science. 
