@@ -14,7 +14,8 @@ It can also be a challenge for the in-person participants to simultaneously mana
 ## Communication tools used for hybrid environments
 A mix of synchronous and asynchronous communication tools are used for hybrid environments.
 Synchronous communication tools enable real-time interactions where participants communicate simultaneously via video and voice calls or live messaging and are helpful for immediate feedback and dynamic discussions.
-Asynchronous communication tools enable interactions where responses do not occur in real time, allowing participants to engage at their convenience. Tools for asynchronous communication include traditional methods like emails and collaborative software platforms where updates and messages can be posted and responded to over time.
+Asynchronous communication tools enable interactions where responses do not occur in real time, allowing participants to engage at their convenience. 
+Tools for asynchronous communication include traditional methods like emails and collaborative software platforms where updates and messages can be posted and responded to over time.
 
 The variety of communication tools used in hybrid work presents challenges for inclusiveness, especially when using asynchronous communication tools.
 Poorly organised hybrid events can isolate online participants, and incorporating communication tools into hybrid collaboration can be complex.
