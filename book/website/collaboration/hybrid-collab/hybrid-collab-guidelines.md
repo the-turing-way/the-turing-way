@@ -14,7 +14,8 @@
     - It might be easier to handle if you're separating in-person and online (a couple of days in-person and a couple of days online).
     - If both modes take place simultaneously, it takes different planning, and it is more challenging as you will be running two events simultaneously. 
 
-- Online participants might have to join at times that are not core working hours. Keep this in mind, especially for interactive parts.
+- Online participants might have to join at times that are not core working hours.
+Keep this in mind, especially for interactive parts.
 - If some aspects of the agenda only apply to one participant group, be clear about this. For example, do not schedule a networking session that turns out to be an in-person coffee break without being clear about how you expect online participants to network.
 - Organize multiple sessions or select strategic times to accommodate online participants from different timezones to address possible scheduling challenges.
 
