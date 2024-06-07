@@ -17,6 +17,11 @@ def get_schema() -> dict[Any, Any]:
         'title': "Comment",
         'type': "string",
     }
+    # Undocumented field added by the bot
+    schema["properties"]["commitType"] = {
+        'title': "Commit type (undocumented)",
+        'type': "string",
+    }
 
     return schema
 
