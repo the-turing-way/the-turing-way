@@ -2,7 +2,7 @@
 # Ambassador Schemes
 
 (cl-ambassador-schemes-prerequisites)=
-# Prerequisites
+## Prerequisites
 
 | Prerequisites | Importance | Skill Level | Notes | 
 | -------- | -------- | -------- |-------- |
