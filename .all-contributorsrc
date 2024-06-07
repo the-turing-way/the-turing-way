@@ -4668,7 +4668,7 @@
       "profile": "https://github.com/jessieontherun",
       "contributions": [
         "doc"
-        ]
+      ]
     },
     {
       "login": "AbcSxyZ",
@@ -4677,6 +4677,23 @@
       "profile": "https://github.com/AbcSxyZ",
       "contributions": [
         "ideas"
+      ]
+    },
+    {
+      "login": "f-rower",
+      "name": "f-rower",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29379394?v=4",
+      "profile": "https://github.com/f-rower",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "design",
+        "ideas",
+        "maintenance",
+        "promotion",
+        "question",
+        "test"
       ]
     }
   ],
