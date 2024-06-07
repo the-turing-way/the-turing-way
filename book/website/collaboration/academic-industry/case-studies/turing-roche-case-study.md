@@ -48,11 +48,11 @@ With increasing activity from our partnership team members and funded projects, 
 We initially started a [YouTube channel](https://www.youtube.com/channel/UCtDFLOFg1QBVfPUl5Ei9-Mg) as a place to host our recordings of our Knowledge Share Events. More recently we've added some other video content such as a 'demystfying' video series- 5 minute videos demystifying a concept relevant to the partnership's research and a 'versus' video series where someone from Turing and someone from Roche debate data science topics from their perspective. 
 Its been a great way to get researchers involved in creating interactive content, though we would flag that if you are considering doing something similar it will be useful to consider branding requirements of each organisation and whether you'll need any specialist equipment and/or editing for a more 'professional' look.
 
-### Fellowship/Ambassador Scheme
+### Ambassador Scheme
 Many organisations, such as the [Software Sustainability Institute](https://www.software.ac.uk/programmes-and-events/fellowship-programme), [ELIXIR](https://fairplus-project.eu/) and the [Turing Institute ](https://www.turing.ac.uk/work-turing/studentships/enrichment) have developed programmes that allow external researchers to develop skills or projects and become part of that organisation's community. 
 Often these type of schemes focus on early career researchers, allowing them to develop skills that can benefit their future careers. 
 
 We decided this scheme would be good to develop for the Turing-Roche Partnership as it would give participants experience of two organisations and further bolster our community.
 It has been a lot of work to set up around financial, legal and contractual frameworks, as well as considering how the programme will work in practice- such as balancing the time of PhD students with tangible benefits for them such as travelling to a conference and building up career skills by working on a community based project.
 
-We are planning to launch the scheme in the near future and will share more learnings from it here. 
+We launched the scheme in September 2023 and you can find out more about it here- {ref}`Turing-Roche Community Scholar Scheme Personal Story <cl-ambassador-schemes-personal-story>`
