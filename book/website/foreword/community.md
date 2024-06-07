@@ -16,7 +16,7 @@ Contributors' details are available in the [Contributors Records](https://the-tu
 (fw-community-delivery-team)=
 ## Project Delivery Team
 
-The project is managed and its activities/goals delivered by the project delivery team, which currently includes two project leads, a research project manager, and a research community manager.
+The project is managed and its activities/goals are delivered by the project delivery team, which currently includes two project leads, a research project manager, and a research community manager.
 These roles are funded by The Alan Turing Institute under the Tools, Practices, and Systems Research Programme for which Kirstie is the programme manager.
 You can find details about these members in our [ways of working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
 
@@ -27,9 +27,9 @@ The book-related roles vary based on people’s involvement in reviewing, editin
 Reviewers are often drawn from the community, based on their experience in the chapter’s topic.
 Often, reviewers are also invited from beyond the community to ensure new members have the chance to collaborate based on their expertise.
 
-* **Co-authors**: Co-authors collaborate on writing, editing, revising, or adding/replacing relevant sections of a chapter in _The Turing Way_ book, while following the {ref}`ch-style`.
+* **Co-authors**: Co-authors collaborate on writing, editing, revising, or adding/replacing relevant sections of a chapter in _The Turing Way_ book while following the {ref}`ch-style`.
 * **Reviewer**: Reviewers critically review existing and new content of The Turing Way book, providing feedback, suggesting edits, and enhancing the accessibility, accuracy, and quality of the material.
-* **Editors**: Editors oversee the overall coverage, coherence, and consistency of a chapter or a guide, or even the structure of _The Turing Way_ book at a meta level and document the current status and areas for improvement in a GitHub issue. They may not be the same people who address those issues, but they can be involved in coordinating contributions from authors and reviewers from the community.
+* **Editors**: Editors oversee the overall coverage, coherence, and consistency of a chapter or a guide, or even the structure of _The Turing Way_ book at a meta-level and document the current status and areas for improvement in a GitHub issue. They may not be the same people who address those issues, but they can be involved in coordinating contributions from authors and reviewers from the community.
 * **Mentors**: Mentors guide less experienced contributors, offering advice and support to help them clarify concepts, unpack their thoughts and ideas, and provide direction to ensure that new members can effectively participate in the development of _The Turing Way_ book.
 * **Advisory roles**: Individuals in advisory roles provide strategic guidance and expertise in the context of the book, community, or the overall project, helping to shape the direction and scope of _The Turing Way_.
 
@@ -55,7 +55,7 @@ Roles beyond the book can involve, but are not limited to the following:
 * **Creators** of content and infrastructure at any level from fixing bugs to adding new content beyond the book
 * **Mentors and consultants** in specific areas of work, including responding to questions from other community members on GitHub and Slack
 * **Sustained contributors** who provide expert consultation to improve the resources
-* Members providing support through** in-kind collaboration/partnership**
+* Members providing support through **in-kind collaboration/partnership**
 * **Connector, convener and collaborators** from the broader data science network
 * **_The Turing Way_ curious** (‘lurkers’) users of resources who read, adopt and share best practices from _The Turing Way_ in their work and participate in public events/communications channel
 * **Your personal experience** (which we value a lot!) will enrich _The Turing Way_ resources with real-world contexts
