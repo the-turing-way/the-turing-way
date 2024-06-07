@@ -4686,7 +4686,7 @@
       "profile": "https://github.com/CDonesCU",
       "contributions": [
         "content"
-        ]
+      ]
     },
     {
       "login": "aranas",
@@ -4698,11 +4698,23 @@
         "content",
         "ideas"
       ]
+    },
+    {
+      "login": "gandrewgabriel",
+      "name": "George Gabriel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52380254?v=4",
+      "profile": "https://github.com/gandrewgabriel",
+      "contributions": [
+        "infra",
+        "code",
+        "test"
+      ]
     }
   ],
   "projectName": "the-turing-way",
   "projectOwner": "the-turing-way",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "commitConvention": "none"
+  "commitConvention": "none",
+  "commitType": "docs"
 }
