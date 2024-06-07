@@ -21,7 +21,8 @@
 ### Location
 
 - Reserve rooms for break-out interaction with online participants.
-- For in-person attendees, it might take some time to physically move to other rooms physically, whereas for people online, it might be faster to move to a different breakout room. Please consider such time requirements when switching rooms either physically or virtually. 
+- For in-person attendees, it might take some time to physically move to other rooms physically, whereas for people online, it might be faster to move to a different breakout room.
+Please consider such time requirements when switching rooms either physically or virtually. 
 - Make sure technical set up is in order: online audience should be able to hear the speaker and questions asked and see the slides. 
     - Check microphones, video and/or slide sharing before.
     - Make sure everyone in the room uses microphones when speaking.
