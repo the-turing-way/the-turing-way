@@ -7,7 +7,6 @@ Here are some useful guides, tips and tutorials on how to facilitate Hybrid coll
 ## Further Reading
 
 - Tips for how-to-organize-a-successful-hybrid-event:https://www.virtualtradeshowhosting.com/how-to-organize-a-successful-hybrid-event/
-- Common challenges in handling Hybrid activities:5 Challenges of Hybrid Events and How To Overcome Them - vFairs.com
 - Best Practices: https://getofficely.com/blog/host-better-hybrid-events-at-work-best-practices-and-examples-for-managers
 - Recommendations in [holding accessible hybrid meetings](https://raw.githack.com/w3c/apa/9c9109f52551b42e27f77a61b30415602df39565/remote-meetings/index.html#holding-accessible-hybrid-meetings).
 
