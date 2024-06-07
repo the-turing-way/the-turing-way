@@ -4668,7 +4668,7 @@
       "profile": "https://github.com/jessieontherun",
       "contributions": [
         "doc"
-        ]
+      ]
     },
     {
       "login": "AbcSxyZ",
@@ -4677,6 +4677,17 @@
       "profile": "https://github.com/AbcSxyZ",
       "contributions": [
         "ideas"
+      ]
+    },
+    {
+      "login": "AlexandraAAJ",
+      "name": "Alexandra Araujo Alvarez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124181438?v=4",
+      "profile": "https://github.com/AlexandraAAJ",
+      "contributions": [
+        "content",
+        "example",
+        "doc"
       ]
     }
   ],
