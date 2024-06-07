@@ -4686,6 +4686,17 @@
       "profile": "https://github.com/CDonesCU",
       "contributions": [
         "content"
+        ]
+    },
+    {
+      "login": "aranas",
+      "name": "Sophie Arana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6906140?v=4",
+      "profile": "https://github.com/aranas",
+      "contributions": [
+        "bug",
+        "content",
+        "ideas"
       ]
     }
   ],
