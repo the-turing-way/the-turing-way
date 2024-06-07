@@ -55,4 +55,4 @@ Often these type of schemes focus on early career researchers, allowing them to 
 We decided this scheme would be good to develop for the Turing-Roche Partnership as it would give participants experience of two organisations and further bolster our community.
 It has been a lot of work to set up around financial, legal and contractual frameworks, as well as considering how the programme will work in practice- such as balancing the time of PhD students with tangible benefits for them such as travelling to a conference and building up career skills by working on a community based project.
 
-We launched the scheme in September 2023 and you can find out more about it here- {ref}`Turing-Roche Community Scholar Scheme Personal Story <cl-ambassador-schemes-personal-story> 
+We launched the scheme in September 2023 and you can find out more about it here- {ref}`Turing-Roche Community Scholar Scheme Personal Story <cl-ambassador-schemes-personal-story>`
