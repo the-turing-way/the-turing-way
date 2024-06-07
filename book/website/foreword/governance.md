@@ -24,7 +24,7 @@ This model was presented in a Community Forum in February 2024, recording for wh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WzzfaSQQL1w?si=76j7P-MFJbfGWgLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-(_This is a recording from the first public Community Forum hosted in February 2024. Modelled off a political town hall event, these online sessions are an opportunity to better understand activities across the project and how decisions are made. Our aim is to leverage the expertise across our community, and we explicitly invite you to review our processes and recommend improvements._)
+_This is a recording from the first public Community Forum hosted in February 2024. Modelled off a political town hall event, these online sessions are an opportunity to better understand activities across the project and how decisions are made. Our aim is to leverage the expertise across our community, and we explicitly invite you to review our processes and recommend improvements._
 
 Irrespective of how deeply one would like to engage in _The Turing Way_, we have roles and opportunities for different levels of participation, skill building and pathways to leadership.
 We discuss these roles and opportunities, so that you can identify the best level of engagement for yourself in the project and our community.
@@ -83,6 +83,8 @@ You can find details about these members in our [ways of working document](https
 
 _The Turing Way_ {ref}`Project Delivery Team Members<fw-community-delivery-team>` are staff members hired to take on responsibilities for delivering and maintaining work, for example, Research Community Manager and Research Project Manager.
 Project leads may offer support at maintenance level , but decision-making at this level must stay with the community and stewards of the community, including the Research Project Manager.
+
+### Decisions at this level
 
 Decisions that **Collective Choice or Maintainer Level** members make include the following:
 
