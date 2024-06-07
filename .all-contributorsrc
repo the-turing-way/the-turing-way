@@ -4668,7 +4668,7 @@
       "profile": "https://github.com/jessieontherun",
       "contributions": [
         "doc"
-        ]
+      ]
     },
     {
       "login": "AbcSxyZ",
@@ -4677,6 +4677,18 @@
       "profile": "https://github.com/AbcSxyZ",
       "contributions": [
         "ideas"
+      ]
+    },
+    {
+      "login": "lucyjstephenson",
+      "name": "Lucy Stephenson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112892956?v=4",
+      "profile": "https://github.com/lucyjstephenson",
+      "contributions": [
+        "example",
+        "content",
+        "bug",
+        "maintenance"
       ]
     }
   ],
