@@ -20,7 +20,7 @@ In 2023-2024, _The Turing Way_ adopted three institutional "levels", originally 
 Each level of decision-making norms should inform and influence each other through governance processes that enable transparency in the system through regular and open interactions.
 
 Below, we describe these three levels of decision-making in the context of _The Turing Way_, inputs for which were invited from open discussions with our community members ([follow Miro board for details](https://miro.com/app/board/uXjVMnA6G50=/?share_link_id=810801549803)).
-This model was presented in a Community Forum in February 2024, a recording of which is shared below.
+This model was presented at a Community Forum in February 2024, a recording of which is shared below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WzzfaSQQL1w?si=76j7P-MFJbfGWgLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -105,7 +105,7 @@ Decisions that Maintainer Level members make include the following:
 
 Strategic decisions and significant changes in the project, such as leadership, recruitment, goals, governance and funding.
 As of 2024, the constitutional level decision-making sits with the project leads, Kirstie Whitaker and Malvika Sharan.
-Their aspiration is to move decision-making power to the community through process development through which more community representation, perspectives and inputs can be brought at this level.
+Their aspiration is to move decision-making power to the community through process development through which more community representation, perspectives and inputs can be brought to this level.
 Ideally, the chairs/representatives/leads of Working Groups will join this level in the near future.
 
 In the future, we hope that we can work with the community to further design roles such as for community representatives to advise and build stronger accountability for decisions made at this level.
