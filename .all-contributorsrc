@@ -7,7 +7,7 @@
   "imageSize": 100,
   "contributorsPerLine": 7,
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg)](#contributors)",
-  "skipCi": true,
+  "skipCi": false,
   "contributorsSortAlphabetically": true,
   "contributors": [
     {
@@ -4689,7 +4689,18 @@
         "content",
         "bug",
         "maintenance"
-
+       ]
+    },
+    {
+      "login": "CDonesCU",
+      "name": "CDonesCU",
+      "avatar_url": "https://avatars.githubusercontent.com/u/169474876?v=4",
+      "profile": "https://github.com/CDonesCU",
+      "contributions": [
+        "content"
+        ]
+    },
+    {
       "login": "aranas",
       "name": "Sophie Arana",
       "avatar_url": "https://avatars.githubusercontent.com/u/6906140?v=4",
@@ -4705,6 +4716,5 @@
   "projectOwner": "the-turing-way",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "commitConvention": "none",
-  "commitType": "docs"
+  "commitConvention": "none"
 }
