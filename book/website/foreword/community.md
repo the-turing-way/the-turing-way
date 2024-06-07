@@ -3,7 +3,7 @@
 
 _Everyone has a skill that is useful for someone, and therefore anyone can contribute to The Turing Way._
 
-_The Turing Way_ book has been co-authored by more than 450+  contributors and utilised by diverse groups of individuals who are researchers, educators, learners, policymakers, government employees and industry professionals.
+_The Turing Way_ book has been co-authored by more than 450+ diverse contributors and utilised by different groups of individuals who are researchers, educators, learners, policymakers, government employees and industry professionals.
 
 As of June 2024, _The Turing Way_ community has been joined by more than 1000 members, who engage via GitHub, Slack Workspace and a range of community events.
 The book itself has 6000+ monthly users from worldwide.

@@ -76,35 +76,35 @@ Below, I elaborate on how these principles are operationised in _The Turing Way_
 Following the principle of 'as open as possible and as closed as necessary,' we prioritise openness and transparency to esure access and equitable participation.
 
 * We evolve community roles and processes for open engagement and decision-making, ensuring transparency in pathways for community involvement and project direction.
-* We actively engage community members in co-creating accessibly written chapters and  openly licensed resources on data science, aiming to broaden participation in the fields of Data Science and research. Join us in promoting transparency and inclusivity in our community-driven initiatives!
+* We actively engage community members in co-creating accessibly written chapters and  openly licensed resources on data science, aiming to broaden participation in the fields of Data Science and research.
 
 ### 2. Foster an environment for diversity in stakeholders, ideas, and activities 
 
 Through proactive measures, we cultivate an environment that champions inclusion, collaboration, and ethical research, fostering a diverse range of contributors and a broad spectrum of knowledge outputs.
 
 * In _The Turing Way_, we offer clear community participation guidelines, a Code of Conduct, an acknowledgement process, and detailed resources outlining our operational methods. By creating pathways for involvement in both non-governance and governance roles, we actively support diverse community members and their unique contributions to _The Turing Way_.
-* Our resources are designed to embody and promote EDIA (Equity, Diversity, Inclusion, and Accessibility) principles. Join us in building a community that values and amplifies diverse perspectives!
+* Our resources are designed to embody and promote EDIA (Equity, Diversity, Inclusion, and Accessibility) principles.
 
 ### 3. Actively exemplify the practices we share
 
 As a community, an open science initiative, and the creators of a data science book, our commitment is to embody the practices we advocate in _The Turing Way_.
 
 * The practices we share in the book aren't just ideals — they shape the core of our project management and community engagement. Drawing from open science, extensive collaboration, and ethical research, we model practices that serve as a blueprint for integrating these principles into various work contexts.
-* Our Community Handbook encapsulates and disseminates these practices, providing a guide for others to launch community-led projects akin to _The Turing Way_ in diverse settings. Join us in building a community-driven future!
+* Our Community Handbook encapsulates and disseminates these practices, providing a guide for others to launch community-led projects akin to _The Turing Way_ in diverse settings.
 
 ### 4. Proactively promote equity through collaboration with underrepresented communities
 
 In _The Turing Way_, our vision for a large-scale, global collaboration is rooted in acknowledging the expansive definition and scope of equity.
 
 * Diversity, intersectionality, equity, inclusion, and accessibility are woven into the fabric of _The Turing Way_ community. Our project is purposefully crafted to ensure the involvement of a diverse range of stakeholders, representing varied interests, and employs equitable approaches in addressing them.
-* Through the collective wisdom shared in _The Turing Way_ book, we're committed to ensuring that equity is not an additional responsibility but an integral consideration embedded at every stage of research throughout its lifecycle. Join us in promoting a future where equity is at the forefront of data science and research!
+* Through the collective wisdom shared in _The Turing Way_ book, we're committed to ensuring that equity is not an additional responsibility but an integral consideration embedded at every stage of research throughout its lifecycle.
 
 ### 5. Build strategic partnerships with different stakeholders to accelerate the adoption of practices across sectors
 
 We're on a mission to fast-track the adoption of _The Turing Way_ resources and best practices across diverse settings, whether through formal partnerships or more informal collaborations.
 
 * In _The Turing Way_ community, we actively create spaces for cross-community collaborations, hosting engaging events like Collaboration Cafés, Fireside Chats, and Book Dash. Our commitment goes beyond our community borders – we actively contribute to the infrastructure we use and give back to projects led by our community members.
- * The users and contributors of _The Turing Way_ aren't just participants; they become advocates, implementing best practices within their organisations. To expand our impact, we have launched _The Turing Way_ Practitioners Hub, pioneering sector-specific collaboration across academia, government, industry, and the public. Join us in shaping the future of collaborative best practices!
+ * The users and contributors of _The Turing Way_ aren't just participants; they become advocates, implementing best practices within their organisations. To expand our impact, we have launched _The Turing Way_ Practitioners Hub, pioneering sector-specific collaboration across academia, government, industry, and the public.
 
 ### 6. Establish shared ownership for long-term maintenance and sustainability
 
@@ -112,3 +112,5 @@ We focus on a collaborative culture, ensuring the project is owned and maintaine
 
 * Through co-development approaches, contribution guidelines, and governance being co-created with community involvement, we foster a shared sense of ownership, and responsibility for maintenance and sustainability in the long term.
 * To ensure continuous access and benefit, our resources and community need careful maintenance. _The Turing Way_ is an evolving project, requiring community support to identify when updates, replacements, or archiving are needed.
+
+Join us in shaping the future where collaboration, equity, transparency and inclusivity is at the forefront of research, data science and AI!

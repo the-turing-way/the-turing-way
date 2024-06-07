@@ -53,6 +53,8 @@ Decisions and activities undertaken by Community Level members may include the f
 * Propose a new working group.
 * Writing a new chapter.
 * Establishing an informal collaboration.
+* Helping others with some issues they raise on GitHub or ask on Slack.
+* Most importantly -- Asking a question!
 * Other things that you can do as individuals.
 
 We have discuss specific roles under this level in {ref}`fw-community`.
@@ -92,12 +94,12 @@ Decisions that **Collective Choice or Maintainer Level** members make include th
 * Facilitating the creation of a new working group
 * Decisions for planning and hosting the working group meetings and recurrence of the meetings.
 * Organising and distributing the responsibilities within each working group.
-* Proposing which conferences to participate in or apply to represent their work in _The Turing Way_
-* Proposing which funding proposals or responding to a call for applications to support their work in _The Turing Way_
-* Suggesting changes in ongoing processes or current working models through discussions
-* Organising a [Fireside Chat](https://the-turing-way.netlify.app/community-handbook/fireside-chat.html) in conversation with the project delivery team
-* Clarifying unclear processes in that guide the work of a Working Group
-* Escalating issues that can not be addressed at maintainer level
+* Proposing which conferences to participate in or apply to represent their work in _The Turing Way_.
+* Proposing which funding proposals or responding to a call for applications to support their work in _The Turing Way_.
+* Suggesting changes in ongoing processes or current working models through discussions.
+* Organising a [Fireside Chat](https://the-turing-way.netlify.app/community-handbook/fireside-chat.html) in conversation with the project delivery team.
+* Clarifying unclear processes in that guide the work of a Working Group.
+* Escalating issues that can not be addressed at maintainer level.
 
 ## 3. Constitutional-level
 
@@ -110,14 +112,16 @@ In the future, we hope that we can work with the community to further design rol
 
 - Providing leadership and strategic directions in the project.
 - Applying for core funding, and approving expenses.
-- Building clarity around budget and resource available for the maintainers and community members
-- Proposing new directions of the community
-- Process whereby the co-chairs of the WGs can represent community and WG interests at this level of decision making
-- Designing community representation roles such as through an Advisory Group 
-- Support each working group in developing process documentation for their decision-making process, and identifying resources they need to continue their work
+- Building clarity around budget and resource available for the maintainers and community members.
+- Proposing new directions of the community.
+- Process whereby the co-chairs of the WGs can represent community and WG interests at this level of decision making.
+- Designing community representation roles such as through an Advisory Group.
+- Support each working group in developing process documentation for their decision-making process, and identifying resources they need to continue their work.
 - Meeting other institutional obligations and communicating them transparently to the community.
 
 This document is in its early stage and will evolve in conversation with the community. 
 Please join Community Forums to stay up to date with the development.
 
 You can find details about these members in our [ways of working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
+
+_Join us in building this community together!_
