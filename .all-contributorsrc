@@ -4668,7 +4668,7 @@
       "profile": "https://github.com/jessieontherun",
       "contributions": [
         "doc"
-        ]
+      ]
     },
     {
       "login": "AbcSxyZ",
@@ -4676,6 +4676,17 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/34010605?v=4",
       "profile": "https://github.com/AbcSxyZ",
       "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "aranas",
+      "name": "Sophie Arana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6906140?v=4",
+      "profile": "https://github.com/aranas",
+      "contributions": [
+        "bug",
+        "content",
         "ideas"
       ]
     }
