@@ -4680,6 +4680,23 @@
       ]
     },
     {
+      "login": "f-rower",
+      "name": "f-rower",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29379394?v=4",
+      "profile": "https://github.com/f-rower",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "design",
+        "ideas",
+        "maintenance",
+        "promotion",
+        "question",
+        "test"
+      ]
+    },
+    {
       "login": "lucyjstephenson",
       "name": "Lucy Stephenson",
       "avatar_url": "https://avatars.githubusercontent.com/u/112892956?v=4",
@@ -4689,7 +4706,7 @@
         "content",
         "bug",
         "maintenance"
-       ]
+      ]
     },
     {
       "login": "CDonesCU",
@@ -4698,7 +4715,7 @@
       "profile": "https://github.com/CDonesCU",
       "contributions": [
         "content"
-        ]
+      ]
     },
     {
       "login": "aranas",
