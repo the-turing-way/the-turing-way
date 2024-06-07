@@ -2922,7 +2922,10 @@
       "profile": "https://github.com/vhellon",
       "contributions": [
         "review",
-        "content"
+        "content",
+        "question",
+        "example",
+        "bug"
       ]
     },
     {
