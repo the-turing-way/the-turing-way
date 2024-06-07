@@ -47,7 +47,7 @@ You can make a recording of this available afterwards for increased accessibilit
 
 A useful start to the scheme is holding an onboarding meeting where you can bring together your ambassadors as a group to give information on how the scheme will work and let them get to know each other. 
 It may also be sensible to organise individual onboarding calls where you can set up participants on systems as needed and help brainstorm their work/activities for the scheme. 
-Additionallty you can provide an onboarding document or website, which participants can refer to throughout the scheme. 
+Additionally you can provide an onboarding document or website, which participants can refer to throughout the scheme. 
 
 After this initial onboarding, plan how often your cohort will meet and how you will all communicate during the scheme - asynchronous tools like email or Slack are practical for this. 
 This will also feed into how you create a sense of community within your cohort. 
