@@ -34,8 +34,8 @@
     - If someone is at their own university/workplace, they may be distracted by their colleagues who do not realise that someone is in an event. In such a case, consider reserving a quiet space in your university/workplace.
  
 ### Accessibility of Communication Platforms and Content
-- Consider the accessibility of Digital Platforms by  utilizing digital platforms and tools that comply with accessibility standards, such as the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/). Test communication tools to plan for the accessibility needs of the tools used in the hybrid conference. 
-- Test and use communication tools that support comprehensive accessibility features like screen readers, voice recognition software, and alternative input devices to plan towards the accessibility needs of participants. See [accessibility evaluation tools](https://www.w3.org/TR/WCAG21/](https://www.w3.org/WAI/test-evaluate/tools/list/)) 
+- Consider the accessibility of Digital Platforms by  utilizing digital platforms and tools that comply with accessibility standards, such as the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/).   
+- Test and use communication tools that support comprehensive accessibility features like screen readers, voice recognition software, and alternative input devices to plan towards the accessibility needs of participants. See [accessibility evaluation tools](https://www.w3.org/TR/WCAG21/](https://www.w3.org/WAI/test-evaluate/tools/list/).
 - No tool is perfect. Prioritise options for accessibility of digital content, i.e., alternative text for images, transcripts for videos, and documents compatible with screen readers. Also, materials should be offered in multiple formats to make them adaptable to the accessibility needs of participants.
 - Pre-event orientation sessions to familiarize all participants with the technology and accessibility features available during the hybrid conference.
 
