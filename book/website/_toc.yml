@@ -152,6 +152,8 @@ parts:
                 file: reproducible-research/renv/renv-virtualmachine
               - title: Containers
                 file: reproducible-research/renv/renv-containers
+              - title: Considerations for choosing and limitations of reproducible environment tools
+                file: file: reproducible-research/renv/considerations-limitations
               - title: Resources and Checklist
                 file: reproducible-research/renv/renv-resources
           - title: BinderHub
