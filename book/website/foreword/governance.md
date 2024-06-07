@@ -1,7 +1,7 @@
 (fw-governance)=
 # Governance
 
-```{note}
+```{warning}
 This chapter is under review.
 ```
 
@@ -104,16 +104,18 @@ As of 2024, the constitutional level decision making sits with the project leads
 Their aspiration is to move decision-making power to the community through process development through which more community representation, perspectives and inputs can be brought at this level.
 Ideally, the chairs/representatives/leads of Working Groups will join this level in the near future.
 
-In the future, this can be further 
+In the future, we hope that we can work with the community to further design roles such as for community representatives to advice and build stringer accountability for decisions made at this level.
 
 - Providing leadership and strategic directions in the project.
 - Applying for core funding, and approving expenses.
-- Building clarity around budget and resource available for the maintainers and community members.
+- Building clarity around budget and resource available for the maintainers and community members
 - Proposing new directions of the community
-- Include a Advisory group
-- Process whereby the co-chairs of the working gourps have an accountability meeting to represent their level 
-- Leadership team would be Co-chairs and working group leads
-- Each working group will have policy documentation in place to make decision, and payment options (if they apply)
-- Advisory group could help in recommending funding options
+- Process whereby the co-chairs of the WGs can represent community and WG interests at this level of decision making
+- Designing community representation roles such as through an Advisory Group 
+- Support each working group in developing process documentation for their decision-making process, and identifying resources they need to continue their work
+- Meeting other institutional obligations and communicating them transparently to the community.
+
+This document is in its early stage and will evolve in conversation with the community. 
+Please join Community Forums to stay up to date with the development.
 
 You can find details about these members in our [ways of working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).

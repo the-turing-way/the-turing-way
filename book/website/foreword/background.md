@@ -1,6 +1,10 @@
 (fw-background)=
 # Background
 
+```{Note}
+A history section will be added soon in this chapter.
+```
+
 _Our moonshot goal is to make reproducibility "too easy not to do"._
 
 Reproducible research is necessary to ensure that scientific work can be trusted.

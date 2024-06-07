@@ -1,7 +1,7 @@
 (fw-emergent-strategy)=
 # Emergence as _The Turing Way’s_ Strategy
 
-```{note}
+```{warning}
 This chapter is under review.
 ```
 
