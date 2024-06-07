@@ -1,12 +1,12 @@
 (data-usage)=
 # TTW Book Data Usage
 
-We want to collect data on the reach and findability of The Turing Way book.
+We want to collect data on the reach and findability of _The Turing Way_ book.
 For example, data on website traffic helps with reporting impact.
-Data on search terms people use to find the  website can help us understand readers' needs and preferences. 
+Data on search terms people use to find the website can help us understand readers' needs and preferences.
 With this knowledge we can better tailor our content to be useful.
 
-See our ongoing discussions around which insights could help improve the content quality [on GitHub](https://github.com/the-turing-way/the-turing-way/discussions/3713)
+See our ongoing discussions [on GitHub](https://github.com/the-turing-way/the-turing-way/discussions/3713) around which insights could help improve the content quality. 
 
 ## User Awareness Statement - Google Analytics
 For the above reasons reason, we are currently tracking website traffic data through Google Analytics.
@@ -19,7 +19,7 @@ For now, we configured Google Analytics to be as GDPR-compliant as possible:
 - All advertising features are disabled.
 - We do not send user IDs to Google.
 - We do not share any collected data with Google beyond what is required of us to ["maintain and protect the Google Analytics service."](https://business.safety.google/adsprocessorterms/)
-- (IP addresses are now anonymized per default)
+- IP addresses are now anonymized per default.
 
 By implementing these measures, we hope to somewhat mitigate the adverse effects of Google Analytics while we transition to a better tool.
 
