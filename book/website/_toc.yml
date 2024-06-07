@@ -687,6 +687,9 @@ parts:
             file: ethical-research/social-data
           - title: Data Feminism
             file: ethical-research/data-feminism
+            sections:
+              - title: Examining Power
+                file: ethical-research/data-feminism/data-feminism-power
           - title: Activism for Researchers
             file: ethical-research/activism
             sections:
