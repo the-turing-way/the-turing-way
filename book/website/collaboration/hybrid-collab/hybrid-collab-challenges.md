@@ -30,7 +30,11 @@ This is particularly problematic for individuals with caregiving responsibilitie
 In essence, the lack of essential facilities and support needed to participate attentively can discourage online participants from attending the event remotely.
 
 ## Coordination and scheduling
-There are also challenges in coordination and scheduling, especially across timezones. An important concern is finding common times for synchronous hybrid meetings among participants in different timezones. Personal schedules and commitments further complicate this coordination. While asynchronous communication helps manage these differences by allowing participants to contribute at their convenience, it requires careful planning to ensure that all team members can participate effectively without feeling overwhelmed or excluded. Additionally, relying on asynchronous communication can impact the immediacy of real-time collaboration, slowing down engagement levels, decision-making processes, and resolving issues, as participants needed for feedback or support are not always immediately available.  
+There are also challenges in coordination and scheduling, especially across timezones.
+An important concern is finding common times for synchronous hybrid meetings among participants in different timezones.
+Personal schedules and commitments further complicate this coordination.
+While asynchronous communication helps manage these differences by allowing participants to contribute at their convenience, it requires careful planning to ensure that all team members can participate effectively without feeling overwhelmed or excluded.
+Additionally, relying on asynchronous communication can impact the immediacy of real-time collaboration, slowing down engagement levels, decision-making processes, and resolving issues, as participants needed for feedback or support are not always immediately available.
 
 ## Accessibility in hybrid collaboration
 Hybrid meetings introduce additional complexity in ensuring that audio, video, and meeting materials are accessible to all participants, whether physically present or attending remotely.
