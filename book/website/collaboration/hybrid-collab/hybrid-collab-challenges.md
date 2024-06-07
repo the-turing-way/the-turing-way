@@ -13,12 +13,11 @@ It can also be a challenge for the in-person participants to simultaneously mana
 
 ## Communication tools used for hybrid environments
 A mix of synchronous and asynchronous communication tools are used for hybrid environments.
-Synchronous Communication refers to real-time interactions where participants communicate simultaneously, such as through video and voice calls or live messaging. This type of communication is essential for immediate feedback and dynamic discussions.
-Asynchronous Communication refers to interactions where responses do not occur in real time, allowing participants to engage at their convenience. Tools for asynchronous communication include emails and collaborative software platforms where updates and messages can be posted and responded to over time.
+Synchronous communication tools enable real-time interactions where participants communicate simultaneously via video and voice calls or live messaging and are helpful for immediate feedback and dynamic discussions.
+Asynchronous communication tools enable interactions where responses do not occur in real time, allowing participants to engage at their convenience. Tools for asynchronous communication include traditional methods like emails and collaborative software platforms where updates and messages can be posted and responded to over time.
 
-The variety of communication tools used in hybrid work presents challenges for inclusiveness, especially when using asynchronous communication tools. 
-Different tools serve various purposes, such as messaging, video chat, collaborative software development, and traditional methods like email. 
-Poorly organised hybrid events can isolate online participants, and incorporating physical tools into online streaming is complex. 
+The variety of communication tools used in hybrid work presents challenges for inclusiveness, especially when using asynchronous communication tools.  
+Poorly organised hybrid events can isolate online participants, and incorporating communication tools into hybrid collaboration can be complex. 
 Hybrid meetings require different etiquette, and unequal access to communication tools may exclude some individuals, especially those at early career stages who might still be exploring navigating such spaces.
 
 ## Lack of space to focus and be attentive
