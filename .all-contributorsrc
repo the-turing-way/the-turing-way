@@ -2922,7 +2922,10 @@
       "profile": "https://github.com/vhellon",
       "contributions": [
         "review",
-        "content"
+        "content",
+        "question",
+        "example",
+        "bug"
       ]
     },
     {
@@ -4668,7 +4671,7 @@
       "profile": "https://github.com/jessieontherun",
       "contributions": [
         "doc"
-        ]
+      ]
     },
     {
       "login": "AbcSxyZ",
