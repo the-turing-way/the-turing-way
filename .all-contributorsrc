@@ -4716,5 +4716,6 @@
   "projectOwner": "the-turing-way",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "commitConvention": "none"
+  "commitConvention": "none",
+  "commitType": "docs"
 }
