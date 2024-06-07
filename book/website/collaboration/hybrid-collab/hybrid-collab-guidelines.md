@@ -43,7 +43,7 @@ See [Web accessibility evaluation tools](https://www.w3.org/WAI/test-evaluate/to
 - No tool is perfect.
 Prioritise options for accessibility of digital content, like alternative text for images, transcripts for videos, and documents compatible with screen readers.
 Also, materials should be offered in multiple formats to make them adaptable to the accessibility needs of participants.
-- Host pre-event orientation sessions to familiarize all participants with the technology and accessibility features available during the hybrid conference.
+- Host pre-event orientation sessions to familiarise all participants with the technology and accessibility features available during the hybrid conference.
 
 ## Organising Hybrid Meetings
 
