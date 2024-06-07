@@ -39,7 +39,7 @@ Existing members of the community are connected with new contributors for suppor
 Contributions also include providing advisory support, such as by sharing examples, resources or other relevant resources that could be helpful for the authors.
 
 By enabling our community of users and contributors to engage with each other, we ensure that the project, community and resources can be used, shared and improved by diverse perspectives.
-We describe the contribution process in the [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/master/CONTRIBUTING.md).
+We describe the contribution process in the [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md).
 
 (fw-community-beyond-book)=
 ## Beyond the Book
