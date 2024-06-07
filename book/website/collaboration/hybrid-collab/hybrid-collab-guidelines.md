@@ -36,7 +36,7 @@
 ### Accessibility of Communication Platforms and Content
 - Consider the accessibility of Digital Platforms by  utilizing digital platforms and tools that comply with accessibility standards, such as the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/).   
 - Test and use communication tools that support comprehensive accessibility features like screen readers, voice recognition software, and alternative input devices to plan towards the accessibility needs of participants. See [Accessibility evaluation tools](https://www.w3.org/WAI/test-evaluate/tools/list/).
-- No tool is perfect. Prioritise options for accessibility of digital content, i.e., alternative text for images, transcripts for videos, and documents compatible with screen readers. Also, materials should be offered in multiple formats to make them adaptable to the accessibility needs of participants.
+- No tool is perfect. Prioritise options for accessibility of digital content, like alternative text for images, transcripts for videos, and documents compatible with screen readers. Also, materials should be offered in multiple formats to make them adaptable to the accessibility needs of participants.
 - Pre-event orientation sessions to familiarize all participants with the technology and accessibility features available during the hybrid conference.
 
 ## Organising Hybrid Meetings
