@@ -583,6 +583,13 @@ parts:
                 file: collaboration/academic-industry/academic-industry-community
               - title: Turing-Roche Community Activities Personal Story
                 file: collaboration/academic-industry/academic-industry-personal-story
+          - title: Ambassador Schemes
+            file: collaboration/ambassador-schemes
+            sections:
+              - title: Establishing and Running an Ambassador Scheme
+                file: collaboration/ambassador-schemes/ambassador-schemes-establish
+              - title: Turing-Roche Community Scholar Scheme Personal Story
+                file: collaboration/ambassador-schemes/ambassador-schemes-personal-story
           - title: Team Manual
             file: collaboration/team-manual
             sections:
