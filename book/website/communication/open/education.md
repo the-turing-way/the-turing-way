@@ -14,6 +14,7 @@ Open Education is important as it:
 
 - Facilitates broader and more **equal access** to access to knowledge and knowledge generation.
 Open Education is rooted in the human right to access high-quality education.
+For example, there is evidence that [students may avoid paying for text books at the expense of their academic success](https://www.psu.edu/news/university-libraries/story/students-may-avoid-paying-textbooks-expense-academic-success/).
 - Is **easier to use**: 
     - Easier to build upon and correct the materials, which facilitates customisation of your education curriculum.
     - Easier to collaborate, participate and share resources.
@@ -81,6 +82,7 @@ See also a short video on '[Creating Open Educational Resources: Tips for New Cr
 # Resources
 - [SPARC Open Education Leadership Program curriculum](https://sparcopen.org/our-work/open-education-leadership-program/curriculum/)
 - [The OER Starter Kit ](https://iastate.pressbooks.pub/oerstarterkit/)
+- [Groningen University's Resource lists overview for working with Open Educational Resources](https://libguides.rug.nl/OER/OERResourceLists)
 - [Open Education Group](https://openedgroup.org/)
 - [Open Education Network](https://open.umn.edu/oen/)
 - [Open Educational Resources](https://www.surrey.ac.uk/library/open-research/open-educational-resources) by the University of Surrey
