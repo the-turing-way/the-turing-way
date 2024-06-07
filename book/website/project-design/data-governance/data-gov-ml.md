@@ -5,7 +5,7 @@
 A Machine Learning (ML) pipeline consists of a series of activities including the collection of data, training of an ML model, and the deployment of the model into use. 
 Data is integral throughout the ML process and the methods for which data is collected, annotated, processed, and shared will impact individuals and communities who may be represented in or the creators of the data, as well as data users who would like access to the data. 
 
-In addition to the technical decisions and team members involved in data governance, it is also important to think about the wider community involved in an ML project, including the data contributors, data subjects, data stewards, data annotators, and more.
+In addition to the technical decisions and team members involved in data governance, it is also important to think about the wider community involved in an ML project, including the data contributors, data subjects, data stewards, data annotators, and communities impacted by the model outputs.
 When possible, a ML team should consider how this wider community can be involved in data, model, and project governance.
 This can empower more people involved in and impacted by the machine learning pipeline and ensure more effective, sustainable, and equitable practices.
 The following framework can support the understanding of different community governance opportunities in the ML pipeline.
