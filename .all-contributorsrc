@@ -3254,7 +3254,8 @@
       "profile": "https://saranjeetkaur.github.io/About-Me/",
       "contributions": [
         "ideas",
-        "content"
+        "content",
+        "review"
       ]
     },
     {
@@ -4689,7 +4690,7 @@
         "content",
         "bug",
         "maintenance"
-       ]
+      ]
     },
     {
       "login": "CDonesCU",
@@ -4698,7 +4699,7 @@
       "profile": "https://github.com/CDonesCU",
       "contributions": [
         "content"
-        ]
+      ]
     },
     {
       "login": "aranas",
