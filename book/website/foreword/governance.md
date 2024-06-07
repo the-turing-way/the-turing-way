@@ -1,5 +1,5 @@
 (fw-governance)=
-# Governance
+# Governance Model in _The Turing Way_
 
 ```{warning}
 This chapter is under review.
