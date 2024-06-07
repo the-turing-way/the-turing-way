@@ -5,7 +5,7 @@
 This chapter is under review.
 ```
 
-The governance body of _The Turing Way_ is represented by the project leadership and volunteer community leaders from the community who are involves in various formal and informal initiatives.
+The governance body of _The Turing Way_ is represented by the project leadership and volunteer community leaders from the community who are involved in various formal and informal initiatives.
 
 > Governance is a set of formal and informal practices through which an organisation sets goals, assigns responsibilities, establishes systems, and assesses outcomes of organisational action.
 
@@ -26,7 +26,7 @@ This model was presented in a Community Forum in February 2024, recording for wh
 
 _This is a recording from the first public Community Forum hosted in February 2024. Modelled off a political town hall event, these online sessions are an opportunity to better understand activities across the project and how decisions are made. Our aim is to leverage the expertise across our community, and we explicitly invite you to review our processes and recommend improvements._
 
-Irrespective of how deeply one would like to engage in _The Turing Way_, we have roles and opportunities for different levels of participation, skill building and pathways to leadership.
+However in-depth one would like to engage in _The Turing Way_, we create opportunities for community participation, skill building and pathways to leadership in data science.
 We discuss these roles and opportunities, so that you can identify the best level of engagement for yourself in the project and our community.
 
 We want to ensure that all roles are recognised and valued in _The Turing Way_.

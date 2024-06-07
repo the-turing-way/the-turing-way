@@ -15,10 +15,10 @@ This is sometimes easier said than done. Sharing these research outputs means un
 Furthermore, technical skill alone is not sufficient for making research reproducible and open for all.
 
 _The Turing Way_ provides resources to build an understanding of good practices and improve research habits through modular chapters in a self-contained handbook.
-Rather than reinventing the wheel by rewriting or redefining data science best practices, approaches or methods, we encourage using _The Turing Way_ to introduce concepts in accessible language, highlight curated resources, and set readers up for a deep dive into topics of their choice.
+Rather than reinventing the wheel by rewriting or redefining data science best practices, approaches and methods, we encourage you to introduce concepts in accessible language in a _Turing Way_ chapter -- you can highlight curated resources and set readers up for a deep dive into topics of their choice.
 
 Lessons learned through _The Turing Way_ series of guides will help design projects with reproducible, collaborative, and ethical research frameworks.
-It will also ensure that PhD students, postdocs, PIs, and funding teams know which parts of the "responsibility of reproducibility" they can affect, and what they should do to nudge research and data science to be more efficient, effective, and understandable.
+It will also ensure that PhD students, postdocs, PIs, and funding teams know which parts of the "responsibility of reproducibility" they can affect, and what they should do to 'nudge' research and data science to be more efficient, effective, and understandable.
 
 ```{figure} ../figures/evolution-openscience.*
 ---
@@ -48,4 +48,4 @@ Through community contributions, since 2019 the handbook has grown from a Guide 
 Our team and community members are committed to integrating and promoting openness, inclusivity, ethical conduct, and access in research and data science, and have integrated these in all aspects, including the chapters, of _The Turing Way_.
 
 The project has been developed openly and any and all questions, comments and recommendations are always welcome at our GitHub repository: https://github.com/the-turing-way/the-turing-way.
-We really appreciate you using its resources, any references that you make to _The Turing Way_ project in your work, and we hope it is useful.
+We really appreciate you using these resources and any references that you make to _The Turing Way_ project in your work, and we hope it is useful.
