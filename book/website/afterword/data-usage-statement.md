@@ -15,9 +15,9 @@ For the above reasons, we are currently using Google Analytics to track traffic 
 
 ## User Awareness Statement - Google Analytics
 Google Analytics is [problematic](https://piwik.pro/blog/is-google-analytics-gdpr-compliant/).
-We are working on using an open-source, GDPR-compliant analytics tool like [Matomo](https://matomo.org/) instead.
+We are working on using an open-source, GDPR-compliant analytics tool like [Matomo](https://matomo.org/) or other ethical analytics tools instead.
 
-For now, we configured Google Analytics to be as GDPR-compliant as possible:
+For now, we have configured Google Analytics to be as GDPR-compliant as possible:
 
 - Our data retention settings are set to the minimum duration possible (2 months).
 - All advertising features are disabled.
@@ -26,4 +26,6 @@ For now, we configured Google Analytics to be as GDPR-compliant as possible:
 - Note that, in the latest Google Analytics version, IP addresses are now anonymized per default.
 
 By implementing these measures, we hope to somewhat mitigate the adverse effects of Google Analytics while we transition to a better tool.
+If you would like to get involved in this discussion, please head over to the GitHub issue linked to this document. 
 
+For other related questions, please reach out to _The TuringWay_ team by emailing [turingway@turing.ac.uk](mailto:turingway@turing.ac.uk).
