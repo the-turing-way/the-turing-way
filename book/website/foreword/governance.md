@@ -1,8 +1,9 @@
 (fw-governance)=
-# Governance Model in _The Turing Way_
+# Governance in _The Turing Way_ 
 
 ```{warning}
-This chapter is under review.
+- This chapter is under review.
+- The governance work in _The Turing Way_is in progress! We are very keen to learn where and how we can operationalise and improve good/transparent governance approaches.
 ```
 
 The governance body of _The Turing Way_ is represented by the project leadership and volunteer community leaders from the community who are involved in various formal and informal initiatives.
