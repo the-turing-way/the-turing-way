@@ -11,7 +11,7 @@ Here you will find chapters providing contexts and background on the book, how y
 The project lead and founder, Kirstie Whitaker, discusses "Emergent Strategy" and how it has inspired her leadership and the foundation of _The Turing Way_.
 Co-lead, Malvika Sharan, also shares her reflections from working with the community and how _The Turing Way_ applies approaches that underpin the "Principles of Digital Commons."
 
-Finally, we provide details on community roles, citation process and frequently asked questions to help identify right places for you to get involved.
+Finally, we provide details on community roles, citation process and frequently asked questions to help identify the right places for you to get involved.
 
 You will find these in the following chapters:
 
