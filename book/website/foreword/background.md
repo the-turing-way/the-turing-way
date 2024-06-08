@@ -39,10 +39,10 @@ It will also ensure that different stakeholders of research know which parts of 
 > _The Turing Way_ is an online handbook – and global community – dedicated to fostering gold-standard reproducible research. It’s a cultural movement with the potential to transform data science
 
 - There is a crisis of reproducibility  in science. 
-- ‘Publish-or-perish’ incentives and excessive data secrecy stifles progress and wastes resources: siloed science is slow science. 
+- ‘Publish-or-perish’ incentives and excessive data secrecy stifle progress and waste resources: siloed science is slow science. 
 - _The Turing Way_ is an evolving online ‘handbook’ on how to conduct world-leading, reproducible research in academic data science and AI with the goal of making reproducible research “too easy not to do”.  
 - The book deals not only with the ‘how’ of things, but also the ‘why’ – the ethos and long-term benefits of reproducible research.
-- _The Turing Way_ is also a flourishing global community of research engineers, data librarians, industry professionals and research experts dedicated to capturing and sharing research best-practice, tools and data.
+- _The Turing Way_ is also a flourishing global community of research engineers, data librarians, industry professionals and research experts dedicated to capturing and sharing research best practices, tools and data.
 
 _Visit The Alan Turing Institute website for the [full impact story](https://www.turing.ac.uk/research/impact-stories/changing-culture-data-science)._
 ```

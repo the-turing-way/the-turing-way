@@ -5,7 +5,7 @@ _In this document, Dr Malvika Sharan, co-lead of The Turing Way shares her insig
 
 The Turing Way means different things to different people, shaped by factors such as our backgrounds, identities, interests, locations and areas of work, as well as different contexts as learners, educators and practitioners in data science.
 
-As a community-developed project, _The Turing Way_ belongs to the community, and we, _The Turing Way_ team and our community of leaders, are committed to fostering shared ownership through active involvement and collaboration with diverse contributors.
+As a community-developed project, _The Turing Way_ belongs to the community, and we, _The Turing Way_ team and our community of leaders are committed to fostering shared ownership through active involvement and collaboration with diverse contributors.
 The intricacies and beauty of this collaboration are evident in the continuous growth, diversity and acknowledgement that _The Turing Way_ has garnered over the years.
 
 I believe open science and community building are at the core of my personal and professional goals.
@@ -45,6 +45,7 @@ _The Turing Way_ is also aligned with the principles of [Digital Public Goods](h
 
 _The Turing Way_ book serves as a DPG. In 2024, the project was listed in the [Digital Public Good Alliance](https://digitalpublicgoods.net/) (DPGA) Registry for it's alignment with "Sustainable Development Goals 4 (SDG4): Quality Education" [under the content category](https://app.digitalpublicgoods.net/a/10953).
 In this context, _The Turing Way_ acts as a high quality reference and educational material for people at different stage of their learning in data science.
+
 Co-developed with a diverse community, _The Turing Way_ addresses the need for centralising fragmented knowledge around open, reproducible, ethical and collaborative data science practices, making it accessible to the public without depleting their quality or availability.
 
 ```{admonition} Digital Public Good and Digital Commons
@@ -52,7 +53,7 @@ Co-developed with a diverse community, _The Turing Way_ addresses the need for c
 Both Digital Commons and Digital Public Goods are integral to the Open Science movement {cite}`WEF2022commons`.
 
 Not all digital public goods are digital commons or openly accessible for everyone, as they can be centrally managed for public benefit without necessarily involving a community in their maintenance. 
-However, they share some traits with public good.
+However, they share some traits with the public good.
 
 Examples of Digital Public Goods include [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) (FOSS) shared freely for modification and redistribution (not all FOSS are community-developed).
 The DPGA lists software, data, resources, and initiatives aligned with the UN's Sustainable Development Goals.
@@ -70,11 +71,11 @@ As a public resource — _The Turing Way_ operationalises approaches that underp
 * Build strategic **partnerships** with different stakeholders to accelerate the adoption of practices across sectors.
 * Establish **shared ownership** for long-term maintenance and sustainability.
 
-Below, I elaborate on how these principles are operationised in _The Turing Way_ at both levels: a) **in building _The Turing Way_ project and community**; and b) **in building the handbook and other resources**, promoting open, reproducible, ethical, and collaborative data science practices.
+Below, I elaborate on how these principles are operationalised in _The Turing Way_ at both levels: a) **in building _The Turing Way_ project and community**; and b) **in building the handbook and other resources**, promoting open, reproducible, ethical, and collaborative data science practices.
 
 ### 1. Champion openness of knowledge and participation processes
 
-Following the principle of 'as open as possible and as closed as necessary,' we prioritise openness and transparency to esure access and equitable participation.
+Following the principle of 'as open as possible and as closed as necessary,' we prioritise openness and transparency to ensure access and equitable participation.
 
 * We evolve community roles and processes for open engagement and decision-making, ensuring transparency in pathways for community involvement and project direction.
 * We actively engage community members in co-creating accessibly written chapters and  openly licensed resources on data science, aiming to broaden participation in the fields of Data Science and research.

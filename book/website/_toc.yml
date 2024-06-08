@@ -601,8 +601,27 @@ parts:
                 file: collaboration/academic-industry/academic-industry-establish
               - title: Community Building in an Academic-Industry Collaboration
                 file: collaboration/academic-industry/academic-industry-community
-              - title: Turing-Roche Community Activities Personal Story
-                file: collaboration/academic-industry/academic-industry-personal-story
+              - title: Case Studies and Best Practices in Academic-Industry Collaboration
+                file: collaboration/academic-industry/intro-case-studies-and-best-practices-in-academic-industry-collaboration.md
+                sections:
+                  - title: Case Study Library
+                    file: collaboration/academic-industry/case-study-library.md
+                    sections:
+                      - title: Turing-Roche Case Study
+                        file: collaboration/academic-industry/case-studies/turing-roche-case-study.md
+                      - title: Practitioner's Hub Case Study
+                        file: collaboration/academic-industry/case-studies/practitioners-hub-case-study.md
+                      - title: BridgeAI - Independent Scientific Advice
+                        file: collaboration/academic-industry/case-studies/BridgeAI_IndependentScientificAdvice.md
+                  - title: Online Resources
+                    file: collaboration/academic-industry/online-resources-best-practices.md
+          - title: Ambassador Schemes
+            file: collaboration/ambassador-schemes
+            sections:
+              - title: Establishing and Running an Ambassador Scheme
+                file: collaboration/ambassador-schemes/ambassador-schemes-establish
+              - title: Turing-Roche Community Scholar Scheme Personal Story
+                file: collaboration/ambassador-schemes/ambassador-schemes-personal-story
           - title: Team Manual
             file: collaboration/team-manual
             sections:
@@ -673,6 +692,9 @@ parts:
                 file: collaboration/shared-ownership/shared-ownership-defaults
           - title: Sustainability of Open Source Projects
             file: collaboration/oss-sustainability/oss-sustainability-challenges
+            sections:
+              - title: Examples of Open Source Business Models
+                file: collaboration/oss-sustainability/oss-sustainability-examples
 
       # ===== Guide for Ethical Research ========================================
 
@@ -697,6 +719,9 @@ parts:
             file: ethical-research/social-data
           - title: Data Feminism
             file: ethical-research/data-feminism
+            sections:
+              - title: Examining Power
+                file: ethical-research/data-feminism/data-feminism-power
           - title: Activism for Researchers
             file: ethical-research/activism
             sections:
@@ -862,6 +887,8 @@ parts:
                 file: community-handbook/coworking/coworking-weekly
               - title: Organising coworking calls
                 file: community-handbook/coworking/coworking-organisation
+              - title: Drop-in Sessions
+                file: community-handbook/coworking/coworking-dropins
           - title: Fireside Chat Series
             file: community-handbook/fireside-chat
             sections:
@@ -899,6 +926,8 @@ parts:
         sections:
           - title: Legal Disclaimer
             file: afterword/legal-disclaimer
+          - title: Data Usage Statement
+            file: afterword/data-usage-statement
           - title: Contributors Record
             file: afterword/contributors-record
           - title: Collaborators

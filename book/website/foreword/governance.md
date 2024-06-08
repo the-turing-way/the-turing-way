@@ -1,33 +1,34 @@
 (fw-governance)=
-# Governance in The Turing Way
+# Governance in _The Turing Way_ 
 
 ```{warning}
-This chapter is under review.
+- This chapter is under review.
+- The governance work in _The Turing Way_is in progress! We are very keen to learn where and how we can operationalise and improve good/transparent governance approaches.
 ```
 
 Governance is a set of formal and informal practices through which an organisation sets goals, assigns responsibilities, establishes systems, and assesses outcomes of organisational action.
 
 The governance body of _The Turing Way_ is represented by the project leadership and volunteer members from the community who are involved in defining and leading various initiatives as part of _The Turing Way_.
 
-## Three Level of Decision Making
+## Three Levels of Decision Making
 
-In 2023-2024, _The Turing Way_ adopted three institutional "levels", originally described in the context of Studies of the institutional design of natural resource commons, to describe three broad levels of formal and informal norms that affects decision making {cite}`Schweik2007commons`, {cite}`Ostrom2005commons`.
+In 2023-2024, _The Turing Way_ adopted three institutional "levels", originally described in the context of Studies of the institutional design of natural resource commons, to describe three broad levels of formal and informal norms that affect decision-making {cite}`Schweik2007commons`, {cite}`Ostrom2005commons`.
 
-1. The “Community level" ("Operational-level”) norms that influence the everyday decisions and actions made by community members such in participating in the community and contributing to the book.
-2. The "Maintenance" (“Collective choice") norms that allow different groups of people to come together to work on and promote specific area/initiative in the project as well as define/change process to make operational level participation easier. 
-3. The "Constitutional-level" norms are followed by project leaders who are allowed to change/approve collective choice rules and establish procedures for those decisions. They also are responsible for the project-related responsibilities that affect the whole of the project, community and their sustainability.
+1. The “Community level" ("Operational-level”) norms that influence the everyday decisions and actions made by community members such as participating in the community and contributing to the book.
+2. The "Maintenance" (“Collective choice") norms allow different groups of people to come together to work on and promote specific areas/initiatives in the project as well as define/change processes to make operational-level participation easier. 
+3. The "Constitutional-level" norms are followed by project leaders who are allowed to change/approve collective choice rules and establish procedures for those decisions. They also are responsible for the project-related responsibilities that affect the whole of the project, the community and sustainability.
 
 Each level of decision-making should inform and influence each other, both applying and evolving governance processes in order to build transparent and accountable governance of _The Turing Way_.
 
-Below, we describe these three levels of decision making in the context of _The Turing Way_, inputs for which were invited from open discussions with our community members ([follow Miro board for details](https://miro.com/app/board/uXjVMnA6G50=/?share_link_id=810801549803)).
-This model was presented in a Community Forum in February 2024, recording for which is shared below.
+Below, we describe these three levels of decision-making in the context of _The Turing Way_, inputs for which were invited from open discussions with our community members ([follow Miro board for details](https://miro.com/app/board/uXjVMnA6G50=/?share_link_id=810801549803)).
+This model was presented at a Community Forum in February 2024, a recording of which is shared below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WzzfaSQQL1w?si=76j7P-MFJbfGWgLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 _This is a recording from the first public Community Forum hosted in February 2024._
 
 However in-depth one would like to engage in _The Turing Way_, we create opportunities for community participation, skill building and pathways to leadership in data science.
-We discuss these roles and opportunities, so that you can identify the best level of engagement for yourself in the project and our community.
+We discuss these roles and opportunities so that you can identify the best level of engagement for yourself in the project and our community.
 
 We want to ensure that all roles are recognised and valued in _The Turing Way_.
 Therefore, from the onset, we have worked to define these different paths for engagement, support and acknowledgement for community members in _The Turing Way_.
@@ -46,10 +47,10 @@ Decisions and activities undertaken by Community Level members may include the f
 * Making individual contributions such as creating an issue, fixing a bug, committing a change on existing chapters, and reviewing Pull Requests.
 * Joining and inviting new individuals to community meetings such as Collaborations Cafe and Co-working sessions.
 * Presenting about *The Turing Way* at an event.
-* Initiating a conversation or pose a question in *The Turing Way* community channels.
+* Initiating a conversation or posing a question in *The Turing Way* community channels.
 * Suggesting content for _The Turing Way_ Newsletter.
 * Applying to participate in the bi-annual Turing Way Book Dashes.
-* Proposing an idea for training session or community events.
+* Proposing an idea for training sessions or community events.
 * Propose a new working group.
 * Writing a new chapter.
 * Establishing an informal collaboration.
@@ -58,6 +59,7 @@ Decisions and activities undertaken by Community Level members may include the f
 * Other things that you can do as individuals.
 
 We have discussed specific roles under this level in {ref}`fw-community`.
+
 Processes for this level of decision-making are identified by members at the maintenance-level, who co-develop norms and processes with the community members and share them in the [contribution guideline](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and {ref}`Community Handbook<ch>`.
 
 ## 2. Maintenance Level
@@ -90,42 +92,43 @@ However, as the community has grown, WGs have been more formally established and
 ### Project Delivery Team
 
 _The Turing Way_ {ref}`Project Delivery Team Members<fw-community-delivery-team>` are staff members hired to take on responsibilities for delivering and maintaining work, for example, Research Community Manager and Research Project Manager.
-Project leads may offer support at maintenance level , but decision-making at this level must stay with the community and stewards of the community, including the Research Community Manager.
+
+Project leads may offer support at the maintenance level, but decision-making at this level must stay with the community and stewards of the community, including the Research Project Manager.
 
 ### Decisions at this level
 
-Decisions that **Collective Choice or Maintainer Level** members make include the following:
+Decisions that Maintainer Level members make include the following:
 
-* Setting up, leading or representing a Working Group in different types of roles as leads, co-leads, secretary and contributing members. 
+* Setting up, leading or representing a Working Group in different types of roles as leads, co-leads, secretaries and contributing members. 
 * Facilitating the creation of a new working group
 * Decisions for planning and hosting the working group meetings and recurrence of the meetings.
 * Organising and distributing the responsibilities within each working group.
 * Proposing which conferences to participate in or apply to represent their work in _The Turing Way_.
-* Proposing which funding proposals or responding to a call for applications to support their work in _The Turing Way_.
+* Proposing funding ideas/proposals or responding to a call for applications to support their work in _The Turing Way_.
 * Suggesting changes in ongoing processes or current working models through discussions.
 * Organising a [Fireside Chat](https://the-turing-way.netlify.app/community-handbook/fireside-chat.html) in conversation with the project delivery team.
-* Clarifying unclear processes in that guide the work of a Working Group.
-* Escalating issues that can not be addressed at maintainer level.
+* Clarifying unclear processes that guide the work of a Working Group.
+* Escalating issues that can not be addressed at the maintainer level.
 
 ## 3. Constitutional-level
 
 Strategic decisions and significant changes in the project, such as leadership, recruitment, goals, governance and funding.
-As of 2024, the constitutional level decision making sits with the project leads, Kirstie Whitaker and Malvika Sharan.
-Their aspiration is to move decision-making power to the community through process development through which more community representation, perspectives and inputs can be brought at this level.
+As of 2024, the constitutional level decision-making sits with the project leads, Kirstie Whitaker and Malvika Sharan.
+Their aspiration is to move decision-making power to the community through process development through which more community representation, perspectives and inputs can be brought to this level.
 Ideally, the chairs/representatives/leads of Working Groups will join this level in the near future.
 
-In the future, we hope that we can work with the community to further design roles such as for community representatives to advice and build stringer accountability for decisions made at this level.
+In the future, we hope that we can work with the community to further design roles such as for community representatives to advise and build stronger accountability for decisions made at this level.
 
 - Providing leadership and strategic directions in the project.
 - Applying for core funding, and approving expenses.
-- Building clarity around budget and resource available for the maintainers and community members.
-- Proposing new directions of the community.
-- Process whereby the co-chairs of the WGs can represent community and WG interests at this level of decision making.
+- Building clarity around budget and resources available for the maintainers and community members.
+- Proposing new directions for the community.
+- Process whereby the co-chairs of the WGs can represent community and WG interests at this level of decision-making.
 - Designing community representation roles such as through an Advisory Group.
 - Support each working group in developing process documentation for their decision-making process, and identifying resources they need to continue their work.
 - Meeting other institutional obligations and communicating them transparently to the community.
 
-This document is in its early stage and will evolve in conversation with the community. 
+This document is in its early stages and will evolve in conversation with the community. 
 Please join Community Forums to stay up to date with the development.
 
 Modelled off a political town hall event, these online sessions are an opportunity to better understand activities across the project and how decisions are made. Our aim is to leverage the expertise across our community, and we explicitly invite you to review our processes and recommend improvements.
