@@ -5,7 +5,7 @@ _Everyone has a skill that is useful for someone, and therefore anyone can contr
 
 _The Turing Way_ book has been co-authored by more than 450 diverse contributors and utilised by different groups of individuals who are researchers, educators, learners, policymakers, government employees and industry professionals.
 
-Our community members and general audience includes, but are not limited to, undergrad students, PhD researchers, postdocs, software engineers, project leaders, team coordinators, community managers, data stewards, librarians, data science educators, open science practitioners and more.
+Our community members and general audience includes, but are not limited to, researchers, students, data scientist, software engineers, project leaders, team coordinators, community managers, data stewards, librarians, data science educators, open science practitioners and more.
 
 As of June 2024, _The Turing Way_ community has been joined by more than 1000 members, who engage via GitHub, Slack Workspace and a range of community events.
 The book itself has 6000+ monthly users worldwide.
@@ -16,8 +16,9 @@ Contributors' details are available in the [Contributors Records](https://the-tu
 (fw-community-delivery-team)=
 ## Project Delivery Team
 
-The project is managed and its activities/goals delivered by the project delivery team, which currently includes two project leads, a research project manager, and a research community manager.
-These roles are funded by The Alan Turing Institute under the Tools, Practices, and Systems Research Programme for which Kirstie is the programme manager.
+The project is supported by The Alan Turing Institute under the Tools, Practices, and Systems (TPS) Programme, with several positions funded to work on _The Turing Way_.
+
+The project is managed and its activities/goals delivered by the project delivery team, which currently includes project leads: Kirstie Whitaker (TPS Programme Director) and Malvika Sharan (TPS Senior Researcher), research community manager: Anne Lee Steele and  a research project manager: Arielle Bennette (TPS Programme Manager).
 You can find details about these members in our [ways of working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
 
 (fw-community-book-roles)=

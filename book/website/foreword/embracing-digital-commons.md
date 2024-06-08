@@ -1,7 +1,7 @@
 (fw-embracing-digital-commons)=
 # Embracing the principles of Digital Commons
 
-_In this document, Dr Malvika Sharan, co-lead of The Turing Way shares her insights from working with The Turing Way community since 2019._
+_In this document, Dr Malvika Sharan, co-lead of The Turing Way shares her insights from working in open science since 2010 and with _The Turing Way_ community since 2019._
 
 The Turing Way means different things to different people, shaped by factors such as our backgrounds, identities, interests, locations and areas of work, as well as different contexts as learners, educators and practitioners in data science.
 
@@ -43,7 +43,7 @@ _The Turing Way_ is a (i) **community** — our readers, users, developers, and 
 
 _The Turing Way_ is also aligned with the principles of [Digital Public Goods](https://www.un.org/techenvoy/content/digital-public-goods) (DPG) -- digital assets that provide value to society and contribute to the public good. 
 
-In 2024, _The Turing Way_ book serves as a DPG and has been listed as one by the [Digital Public Good Alliance](https://digitalpublicgoods.net/) (DPGA) for it's alignment with "Sustainable Development Goals 4 (SDG4): Quality Education" [under the content category](https://app.digitalpublicgoods.net/a/10953).
+_The Turing Way_ book serves as a DPG. In 2024, the project was listed in the [Digital Public Good Alliance](https://digitalpublicgoods.net/) (DPGA) Registry for it's alignment with "Sustainable Development Goals 4 (SDG4): Quality Education" [under the content category](https://app.digitalpublicgoods.net/a/10953).
 In this context, _The Turing Way_ acts as a high quality reference and educational material for people at different stage of their learning in data science.
 Co-developed with a diverse community, _The Turing Way_ addresses the need for centralising fragmented knowledge around open, reproducible, ethical and collaborative data science practices, making it accessible to the public without depleting their quality or availability.
 
@@ -83,7 +83,8 @@ Following the principle of 'as open as possible and as closed as necessary,' we 
 
 Through proactive measures, we cultivate an environment that champions inclusion, collaboration, and ethical research, fostering a diverse range of contributors and a broad spectrum of knowledge outputs.
 
-* In _The Turing Way_, we offer clear community participation guidelines, a Code of Conduct, an acknowledgement process, and detailed resources outlining our operational methods. By creating pathways for involvement in both non-governance and governance roles, we actively support diverse community members and their unique contributions to _The Turing Way_.
+* In _The Turing Way_, we offer clear community participation guidelines, a Code of Conduct, an acknowledgement process, and detailed resources outlining our operational methods.
+By creating pathways for involvement at different levels of governance, we actively support diverse community members and their unique contributions to _The Turing Way_.
 * Our resources are designed to embody and promote EDIA (Equity, Diversity, Inclusion, and Accessibility) principles.
 
 ### 3. Actively exemplify the practices we share

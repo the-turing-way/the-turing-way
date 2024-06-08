@@ -39,21 +39,22 @@ _Thank you for being here._
 
 ```{admonition} The Principles of Emergent Strategy
 
-1. [Small is good, small is all (The large is a reflection of the small)](https://hackmd.io/@KirstieJane/rJ0jRCaEc#small-is-good--small-is-all--the-large-is-a-reflection-of-the-small-)
-2. [Change is constant (Be like water)](https://hackmd.io/@KirstieJane/rJ0jRCaEc#change-is-constant--be-like-water-)
-3. [There is always enough time for the right work. There is a conversation in the room that only these people at this moment can have. Find it.](https://hackmd.io/@KirstieJane/rJ0jRCaEc#there-is-always-enough-time-for-the-right-work-there-is-a-conversation-in-the-room-that-only-these-people-at-this-moment-can-have-find-it)
-4. [Never a failure, always a lesson](https://hackmd.io/@KirstieJane/rJ0jRCaEc#never-a-failure--always-a-lesson)
-5. [Trust the People (If you trust the people, they become trustworthy)](https://hackmd.io/@KirstieJane/rJ0jRCaEc#trust-the-people--if-you-trust-the-people--they-become-trustworthy-)
-6. [Move at the speed of trust](https://hackmd.io/@KirstieJane/rJ0jRCaEc#move-at-the-speed-of-trust)
-7. [Focus on critical connections more than critical mass—build the resilience by building the relationships](https://hackmd.io/@KirstieJane/rJ0jRCaEc#focus-on-critical-connections-more-than-critical-mass-build-the-resilience-by-building-the-relationships)
-8. [Less prep, more presence](https://hackmd.io/@KirstieJane/rJ0jRCaEc#less-prep--more-presence)
-9. [What you pay attention to grows](https://hackmd.io/@KirstieJane/rJ0jRCaEc#what-you-pay-attention-to-grows)
+1. {ref}`Small is good, small is all (The large is a reflection of the small)<fw-emergent-strategy-1>`
+2. {ref}`Change is constant (Be like water)<fw-emergent-strategy-2>`
+3. {ref}`There is always enough time for the right work.<fw-emergent-strategy-3>` There is a conversation in the room that only these people at this moment can have. Find it.
+4. {ref}`Never a failure, always a lesson<fw-emergent-strategy-4>`
+5. {ref}`Trust the People (If you trust the people, they become trustworthy)<fw-emergent-strategy-5>`
+6. {ref}`Move at the speed of trust<fw-emergent-strategy-6>`
+7. {ref}`Focus on critical connections more than critical mass—build the resilience by building the relationships<fw-emergent-strategy-7>`
+8. {ref}`Less prep, more presence<fw-emergent-strategy-8>`
+9. {ref}`What you pay attention to grows<fw-emergent-strategy-9>`
 
 ```
 
 This [blog post by Forte Labs](https://fortelabs.co/blog/emergent-strategy-organizing-for-social-justice) gives a great overview of the principles.
-They aren’t really separable and are lenses on the whole philosophy that brown espouses.
+They aren’t really separable and are lenses on the whole philosophy that Brown espouses.
 
+(fw-emergent-strategy-1)=
 ## Small is good, small is all (The large is a reflection of the small)
 
 Most people I have worked with have a grand vision for the change they want to see in the world.
@@ -63,7 +64,7 @@ Maybe it’s ensuring that every data set comes with documented metadata and pro
 Maybe it’s investing in community-created open-source software to improve research efficiency.
 
 I deeply support and encourage those big dreams.
-They can seem intimidating, impossible, or too much for one person, project, or community. Sometimes it can be tempting to lie down on the floor and give up when you realize just how stacked against those collaborative practices our current incentive structures can be.
+They can seem intimidating, impossible, or too much for one person, project, or community. Sometimes it can be tempting to lie down on the floor and give up when you realise just how stacked against those collaborative practices our current incentive structures can be.
 
 What I love about this first principle of emergent strategy is that it gives us a pathway to making that change.
 
@@ -75,7 +76,8 @@ _Encourage the next person you mentor to share their perspective. Especially if 
 
 _The Turing Way_ is a space where I hope you can start taking steps towards that change.
 
-## Change is constant (Be like water)
+(fw-emergent-strategy-2)=
+## 1. Change is constant (Be like water)
 
 It’s exciting to work in a field like data science where the boundaries of what is known and what can be known are changing every day.
 
@@ -92,7 +94,8 @@ Try not to overthink the completeness of your work.
 As with a stream, a river, or the ocean, there will be more contributors to take the project forward.
 Whatever you can do right now, in this moment, is what we need and what we appreciate.
 
-## There is always enough time for the right work. There is a conversation in the room that only these people at this moment can have. Find it.
+(fw-emergent-strategy-3)=
+## 2. There is always enough time for the right work. There is a conversation in the room that only these people at this moment can have. Find it.
 
 One of the things that I’ve heard clearly in the first few years of creating _The Turing Way_ is how uncomfortable people feel in agenda-less spaces.
 
@@ -116,7 +119,8 @@ Does that person need a little extra time to be heard and understood today?
 Maybe that _is_ the work that you’re supposed to be undertaking today.
 Deadlines be damned.
 
-## Never a failure, always a lesson
+(fw-emergent-strategy-4)=
+## 3. Never a failure, always a lesson
 
 Bugs are features.
 The typos - or broken links - in _The Turing Way_ are invitations for new contributors to get involved.
@@ -136,7 +140,8 @@ In particular, her exercise on [operationalising values](https://brenebrown.com/
 It’s so easy to _say_ the right thing.
 What takes conviction and resilience is making the changes to identify and then actually _do_ the right thing.)
 
-## Trust the People (If you trust the people, they become trustworthy)
+(fw-emergent-strategy-5)=
+## 4. Trust the People (If you trust the people, they become trustworthy)
 
 This principle is inspired by the writings of [Lao Tzu](https://en.wikipedia.org/wiki/Laozi), an ancient Chinese scholar who is reputed to have written the [Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching).
 
@@ -161,7 +166,8 @@ I certainly can fall prey to advocating so strongly for a direction that I belie
 
 But, as Lao Tzu knew 2500 years ago, the very best work comes from the people who are trusted and who have the safety and the space to find their motivation and alignment with the project goals.
 
-## Move at the speed of trust
+(fw-emergent-strategy-6)=
+## 5. Move at the speed of trust
 
 No one ever felt an increase in trust when given a deadline or time constraint to get there.
 
@@ -175,7 +181,8 @@ The journey is so much more important than the destination.
 Especially if that destination can’t be reached by this particular team at this particular time.
 _Change is constant. Be like water._
 
-## Focus on critical connections more than critical mass —- build the resilience by building the relationships
+(fw-emergent-strategy-7)=
+## 6. Focus on critical connections more than critical mass —- build the resilience by building the relationships
 
 One of the other temptations that we are incentivised towards is to count things.
  Number of chapters, number of contributors, number of workshops, amounts of funding, how many projects we have inspired.
@@ -187,7 +194,8 @@ We can increase our impact, include more people, welcome their contributions and
 
 We will make a deeper and more profound change in the world by telling the stories of the individuals who make up our community in their own words and in ways that allow others to build their own confidence and trust.
 
-## Less prep, more presence
+(fw-emergent-strategy-8)=
+## 7. Less prep, more presence
 
 For me, this principle is very similar to _there is always time for the right work_.
 
@@ -203,7 +211,8 @@ We can think carefully about how to build spaces to develop those conversations,
 * We can respond - ideally with kindness and compassion.
 * We can be ready to act when the opportunities emerge.
 
-## What you pay attention to grows
+(fw-emergent-strategy-9)=
+## 8. What you pay attention to grows
 
 Everything and everyone requires time and attention.
 
