@@ -1,6 +1,6 @@
 # Members at Maintainers and Constitutional-Level Roles
 
-In 2023-2024, _The Turing Way_ adopted three institutional "levels", described in the Foreword section of _The Turing Way_ book.
+In 2023-2024, _The Turing Way_ adopted three institutional "levels", described in the Foreword of _The Turing Way_ book.
 
 1. The “Community level" ("Operational-level”) norms that influence the everyday decisions and actions made by community members such in participating in the community and contributing to the book.
 2. The "Maintenance" (“Collective choice") norms that allow different groups of people to come together to work on and promote specific area/initiative in the project as well as define/change process to make operational level participation easier. In _The Turing Way_ it happens through formal and informal Working Groups (WGs).
@@ -22,14 +22,14 @@ It further outlines expectations and responsibilities for all of them with regar
 ## Community Leaders - Maintenance Level Roles
 
 | Name | Position;  Affiliation | Community Role(s) | Role length | Previous roles in _The Turing Way_ |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | Alexandra Araujo Alvarez <br>([@alexandraaaj](https://github.com/alexandraaaj)) | Senior Research Community Manager, BridgeAI; The Alan Turing Institute | Various maintainer level roles | February 2023 - April 2023 | Research Project Manager, Feb 2023 - Apr 2024 (100%) |
-| Liz Hare | <br>([@LizHareDogs](https://github.com/LizHareDogs)) | Qualitative Geneticist, Dog Genetics LLC | The Turing Way Accessibility WG member | 2023 - Present | - |
-| Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Senior Researcher - Community Building; The Alan Turing Institute | Book Dash WG member | Jan 2021 - Present | - |
-| Esther Plomp <br>([@EstherPlomp](https://github.com/EstherPlomp)) | Data Steward, Faculty of Applied Sciences at Delft University of Technology | Book Dash WG member and various community roles | Feb 2020 - Present | - |
-| Batool Almarzouq <br>([BatoolMM](https://github.com/BatoolMM)) | The Alan Turing Institute, The University of Liverpool  | Translation and Localisation WG member | 2020 - Present | - |
+| Liz Hare <br>([@LizHareDogs](https://github.com/LizHareDogs)) | Qualitative Geneticist, Dog Genetics LLC | The Turing Way Accessibility WG member | 2023 - Present | - |
+| Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Senior Researcher - Community Building; The Alan Turing Institute | Book Dash WG member | Jan 2021 - Present | Verious maintainer level roles |
+| Esther Plomp <br>([@EstherPlomp](https://github.com/EstherPlomp)) | Data Steward, Faculty of Applied Sciences at Delft University of Technology | Book Dash WG member and various community roles | Feb 2020 - Present | Various maintainer level roles |
+| Batool Almarzouq <br>([BatoolMM](https://github.com/BatoolMM)) | The Alan Turing Institute, The University of Liverpool  | Translation and Localisation WG member | 2020 - Present | Various maintainer level roles |
 | Melissa Black <br>([melibleq](https://github.com/melibleq)) | Independent Researcher | Translation and Localisation WG member | 2023 - 2024 | - |
-| Andrea Sánchez-Tapia <br>([AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)) | Data Scienst, Global Fisheries watch | Translation and Localisation WG member | 2021 - Present | - |
+| Andrea Sánchez-Tapia <br>([AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)) | Data Scienst, Global Fisheries watch | Translation and Localisation WG member | 2021 - Present | Various community roles |
 | Alejandro Coca Castro <br>([acocac](https://github.com/acocac)) | Research Fellow, The Alan Turing Institute | Environmental Data Science book Co-Lead | 2021 - Present | The Turing Way Translation and Localisation Co-Lead, 2021 - May 2023 |
 | Sarah Gibson <br>([@sgibson91](https://github.com/sgibson91)) | Open Source Infrastructure Engineer, 2i2c & JupyterHub Community Development | in-kind contribution, The Turing Way Infrastructure Maintainers Co-lead | 2019 - Present | Prevously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
 | Danny Garside <br>([@da5nsy](https://github.com/da5nsy)) | Postdoctoral Visiting Fellow, National Institutes of Health (NIH) | The Turing Way Infrastructure Maintainers Co-lead | 2021 - Present | - |
@@ -38,6 +38,7 @@ It further outlines expectations and responsibilities for all of them with regar
 | Johanna Bayer <br>([@likeajumprope](https://book.the-turing-way.org/afterword/contributors-record#likeajumprope)) | Post Doctoral Fellow (CNS) | Infrastructure WG member | 2023 - Present | GSOC Co-Mentor 2023 |
 | Carlos Martinez-Ortiz <br>([@c-martinez](https://github.com/c-martinez)) | RSE community manager, Netherlands eScience Center | Book Dash WG member| Feb 2020 - Present | - |
 | Susana Roman Garcia <br>([@Susana465](https://book.the-turing-way.org/afterword/contributors-record#susana-roman-garcia)) | PhD researcher, University of Edinburgh | Book Dash WG member | 2024 - Present | - |
+
 
 ## Previous Project Members
 
@@ -60,7 +61,7 @@ You can request contact information through the project members above, or tag th
 | Alex Morley <br>([@alexmorley](https://github.com/alexmorley)) | Mozilla Fellow | in-kind contribution |  Nov 2018 - June 2019  |
 | Anna Krystalli <br>([@annakrystalli](https://github.com/annakrystalli)) | Research Software Engineer | 10% | Dec 2018 - Mar 2019 |
 | Martin O'Reilly <br>([@martintoreilly](https://github.com/martintoreilly)) | Principal Research Software Engineer | 10% | Nov 2018 - Mar 2019 |
-| Camila Rangel-Smith <br>([crangelsmith](https://github.com/crangelsmith)) | Senior Research Data Scientist, The Alan Turing Institute | Translation and Localisation Team | 2020 - 2023 | - |
+| Camila Rangel-Smith <br>([crangelsmith](https://github.com/crangelsmith)) | Senior Research Data Scientist, The Alan Turing Institute | The Turing Way Translation and Localisation Co-Lead | 2020 - 2023 | - |
 
 ## Commitments
 
