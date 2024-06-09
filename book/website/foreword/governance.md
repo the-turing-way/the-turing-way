@@ -10,7 +10,7 @@ Governance is a set of formal and informal practices through which an organisati
 The governance body of _The Turing Way_ is represented by the project leadership and volunteer members from the community involved in defining and leading different initiatives within _The Turing Way_.
 
 Like the book itself, the governance of _The Turing Way_ is always a work in progress!
-We are very keen to discuss and improves our governance approaches with the involvement of our community members.
+We are very keen to discuss and improve our governance approaches with the involvement of our community members.
 
 ## Three Levels of Decision Making
 
@@ -64,7 +64,7 @@ Decisions and activities undertaken by community level members may include the f
 
 We have discussed specific roles under this level in {ref}`fw-community`.
 
-Guidelines and processes for this level is described in the [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and {ref}`ch`.
+Guidelines and processes for this level are described in the [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and {ref}`ch`.
 These processes and resources are co-developed by maintenance level members with the involvement of members from the community and constitution levels as needed.
 
 ## Maintenance Level
@@ -82,7 +82,7 @@ Project leads may offer support at the maintenance level, but decision-making at
 
 Within *The Turing Way*, {ref}`Working Groups (or WGs)<subprojects>` are formed by small groups of people who work together on specific topics, themes, or types of work identified by community members as areas of interest.
 
-At the time of writing this chapter, following WGs have been established and being led by community members in various roles:
+At the time of writing this chapter, the following WGs have been established and are being led by community members in various roles:
 - Translation and Localisation WG
 - Infrastructure WG
 - Accessibility WG
@@ -101,7 +101,7 @@ However, as the community has grown, WGs have been more formally established and
 
 ### Decisions at this level
 
-Decisions at maintainer level may include the following:
+Decisions at the maintainer level may include the following:
 
 * Setting up, leading or representing a  WG in different types of roles as leads, co-leads, secretaries and contributing members. 
 * Facilitating the creation of a new  WG
@@ -123,7 +123,7 @@ Ideally, the chairs/representatives/leads of  WGs will join this level in the ne
 
 In the future, we hope that we can work with the community to further design roles such as for community representatives to advise and build stronger accountability for decisions made at this level.
 
-Decisions at constitution level may include the following:
+Decisions at constitutional level may include the following:
 - Providing leadership and strategic directions in the project.
 - Applying for core funding, and approving expenses.
 - Building clarity around budget and resources available for the maintainers and community members.
