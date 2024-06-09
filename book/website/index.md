@@ -50,7 +50,7 @@ Everything here is available for free under a [CC-BY licence](https://github.com
 Please use and re-use whatever you need, for any purpose.
 
 _The Turing Way_ receives support and funding from [The Alan Turing Institute](https://www.turing.ac.uk/), however, the project is designed to be a global collaboration.
-We have contributions from across the UK, and from India, Mexico, Australia, USA, and many European countries.
+We have contributions from across the UK, and from India, Mexico, Australia, the USA, and many European countries.
 Chapters have been written, reviewed and curated by members of research institutes and universities, government departments, and industry.
 We are committed to creating a space where people with diverse expertise and experiences can share their knowledge with others, together supporting each other in using data science to improve the world.
 
@@ -61,7 +61,8 @@ Call for translators! We’re looking for contributors to help translate this sp
 
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
 Accordingly, everyone who participates in _The Turing Way_ project is expected to show respect and courtesy to other community members at all times.
-You can learn more about our community members in the {ref}`aw` of this book. 
+
+Learn more about our community members and community-level approaches in the {ref}`aw` of this book. 
 
 <video controls loop autoplay muted>
   <source src="_static/videos/contributors.mp4" type="video/mp4">
@@ -72,7 +73,7 @@ To make this project truly accessible and useful for everyone, we invite you to 
 
 To join this community, please read our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) with ways to [get in touch](https://github.com/the-turing-way/the-turing-way#get-in-touch).
 All contributions must abide by our [code of conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
-More information about the community, participation process and the project management is available in the {ref}`ch`.
+More information about the community, participation process and project management is available in the {ref}`ch`.
 
 We look forward to expanding and building _The Turing Way_ together.
 
