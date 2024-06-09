@@ -12,7 +12,7 @@ Practitioners' hub experts.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 -->
-## Introduction to the Turing Way Practitioner's Hub 
+## Introduction to _The Turing Way_ Practitioner's Hub 
 
 _The Turing Way_ Practitioners Hub is an extension of _The Turing Way_ project that engages and involves industry experts, called Experts in Residence (EiRs), from partnering organisations.
 This initiative aims to advance their efforts in promoting best practices in data science and AI.
