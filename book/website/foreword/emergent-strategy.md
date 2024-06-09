@@ -182,7 +182,7 @@ Especially if that destination can’t be reached by this particular team at thi
 _Change is constant. Be like water._
 
 (fw-emergent-strategy-7)=
-## 7. Focus on critical connections more than critical mass —- build the resilience by building the relationships
+## 7. Focus on critical connections more than critical mass — build the resilience by building the relationships
 
 One of the other temptations that we are incentivised towards is to count things.
  Number of chapters, number of contributors, number of workshops, amounts of funding, how many projects we have inspired.
