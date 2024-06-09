@@ -55,7 +55,7 @@ This [blog post by Forte Labs](https://fortelabs.co/blog/emergent-strategy-organ
 They aren’t really separable and are lenses on the whole philosophy that Brown espouses.
 
 (fw-emergent-strategy-1)=
-## Small is good, small is all (The large is a reflection of the small)
+## 1. Small is good, small is all (The large is a reflection of the small)
 
 Most people I have worked with have a grand vision for the change they want to see in the world.
 
@@ -77,7 +77,7 @@ _Encourage the next person you mentor to share their perspective. Especially if 
 _The Turing Way_ is a space where I hope you can start taking steps towards that change.
 
 (fw-emergent-strategy-2)=
-## 1. Change is constant (Be like water)
+## 2. Change is constant (Be like water)
 
 It’s exciting to work in a field like data science where the boundaries of what is known and what can be known are changing every day.
 
@@ -95,7 +95,7 @@ As with a stream, a river, or the ocean, there will be more contributors to take
 Whatever you can do right now, in this moment, is what we need and what we appreciate.
 
 (fw-emergent-strategy-3)=
-## 2. There is always enough time for the right work. There is a conversation in the room that only these people at this moment can have. Find it.
+## 3. There is always enough time for the right work. There is a conversation in the room that only these people at this moment can have. Find it.
 
 One of the things that I’ve heard clearly in the first few years of creating _The Turing Way_ is how uncomfortable people feel in agenda-less spaces.
 
@@ -120,7 +120,7 @@ Maybe that _is_ the work that you’re supposed to be undertaking today.
 Deadlines be damned.
 
 (fw-emergent-strategy-4)=
-## 3. Never a failure, always a lesson
+## 4. Never a failure, always a lesson
 
 Bugs are features.
 The typos - or broken links - in _The Turing Way_ are invitations for new contributors to get involved.
@@ -141,7 +141,7 @@ It’s so easy to _say_ the right thing.
 What takes conviction and resilience is making the changes to identify and then actually _do_ the right thing.)
 
 (fw-emergent-strategy-5)=
-## 4. Trust the People (If you trust the people, they become trustworthy)
+## 5. Trust the People (If you trust the people, they become trustworthy)
 
 This principle is inspired by the writings of [Lao Tzu](https://en.wikipedia.org/wiki/Laozi), an ancient Chinese scholar who is reputed to have written the [Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching).
 
@@ -167,7 +167,7 @@ I certainly can fall prey to advocating so strongly for a direction that I belie
 But, as Lao Tzu knew 2500 years ago, the very best work comes from the people who are trusted and who have the safety and the space to find their motivation and alignment with the project goals.
 
 (fw-emergent-strategy-6)=
-## 5. Move at the speed of trust
+## 6. Move at the speed of trust
 
 No one ever felt an increase in trust when given a deadline or time constraint to get there.
 
@@ -182,7 +182,7 @@ Especially if that destination can’t be reached by this particular team at thi
 _Change is constant. Be like water._
 
 (fw-emergent-strategy-7)=
-## 6. Focus on critical connections more than critical mass —- build the resilience by building the relationships
+## 7. Focus on critical connections more than critical mass —- build the resilience by building the relationships
 
 One of the other temptations that we are incentivised towards is to count things.
  Number of chapters, number of contributors, number of workshops, amounts of funding, how many projects we have inspired.
@@ -195,7 +195,7 @@ We can increase our impact, include more people, welcome their contributions and
 We will make a deeper and more profound change in the world by telling the stories of the individuals who make up our community in their own words and in ways that allow others to build their own confidence and trust.
 
 (fw-emergent-strategy-8)=
-## 7. Less prep, more presence
+## 8. Less prep, more presence
 
 For me, this principle is very similar to _there is always time for the right work_.
 
@@ -212,7 +212,7 @@ We can think carefully about how to build spaces to develop those conversations,
 * We can be ready to act when the opportunities emerge.
 
 (fw-emergent-strategy-9)=
-## 8. What you pay attention to grows
+## 9. What you pay attention to grows
 
 Everything and everyone requires time and attention.
 
