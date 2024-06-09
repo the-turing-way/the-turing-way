@@ -28,7 +28,7 @@ _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5
 ```
 
 The book is collaboratively written and open from the start.
-Please visit the [start page](https://the-turing-way.start.page/) to find opportunities to get involved.
+You can explore different opportunities to get involved on the [start page](https://the-turing-way.start.page/).
 Join [our Slack Workspace](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw) to connect and discuss your ideas and [subscribe to our newsletter](https://buttondown.email/turingway) to follow updates from our community.
 
 ## Different Pathways
