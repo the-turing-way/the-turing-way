@@ -20,7 +20,7 @@ Rather than reinventing the wheel by rewriting or redefining data science best p
 The book started in January 2019 as a guide for reproducibility, covering {ref}`rr-vcs`, {ref}`rr-testing`, and {ref}`rr-ci`.
 However, technical skills are just one aspect of making data science research "open for all".
 Hence, in February 2020, _The Turing Way_ expanded into a series of guides: {ref}`rr`, {ref}`pd`, {ref}`cm`, {ref}`cl`, and {ref}`er`.
-Through community contributions the project has grown into multiples guides, a global community and numerous resources built and shared by the members of our community.
+Through community contributions, the project has grown into multiple guides, a global community and numerous resources built and shared by the members of our community.
 
 ```{figure} ../figures/evolution-openscience.*
 ---
