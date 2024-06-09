@@ -20,8 +20,6 @@ The project is supported by The Alan Turing Institute under the Tools, Practices
 
 The project is managed and its activities/goals delivered by the project delivery team, which currently includes project leads: Kirstie Whitaker (TPS Programme Director) and Malvika Sharan (TPS Senior Researcher), research community manager: Anne Lee Steele and  a research project manager: Arielle Bennette (TPS Programme Manager).
 
-You can find details about these members in our [ways of working document](https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md).
-
 (fw-community-book-roles)=
 ## Book-Related Roles
 
@@ -33,7 +31,8 @@ Often, reviewers are also invited from beyond the community to ensure new member
 * **Reviewer**: Reviewers critically review existing and new content of The Turing Way book, providing feedback, suggesting edits, and enhancing the accessibility, accuracy, and quality of the material.
 * **Editors**: Editors oversee the overall coverage, coherence, and consistency of a chapter or a guide, or even the structure of _The Turing Way_ book at a meta-level and document the current status and areas for improvement in a GitHub issue. They may not be the same people who address those issues, but they can be involved in coordinating contributions from authors and reviewers from the community.
 * **Mentors**: Mentors guide less experienced contributors, offering advice and support to help them clarify concepts, unpack their thoughts and ideas, and provide direction to ensure that new members can effectively participate in the development of _The Turing Way_ book.
-* **Advisory roles**: Individuals in advisory roles provide strategic guidance and expertise in the context of the book, community, or the overall project, helping to shape the direction and scope of _The Turing Way_.
+* **Translators**: Contributors work the the Translation and Localisation team in translating any part of a chapter in the book as described in the {ref}`ch-translation`.
+* **Ad-hoc advisors/consultants**: Individuals who are invited by our community members to ask for guidance and expertise in the context of their work in the book, community, or the overall project.
 
 ### Mentored-Contributions
 
@@ -54,13 +53,14 @@ Roles beyond the book can involve, but are not limited to the following:
 
 * **Reviewers and maintainers** of the book and underlying infrastructure
 * **Advocates and champions** of _The Turing Way_ resources, who help others navigate the book, repositories and communications channel
-* **Creators** of content and infrastructure at any level from fixing bugs to adding new content beyond the book
+* **Co-creators** of content and infrastructure at any level from fixing bugs to adding new content beyond the book
 * **Mentors and consultants** in specific areas of work, including responding to questions from other community members on GitHub and Slack
-* **Sustained contributors** who provide expert consultation to improve the resources
+* **Sustained contributors** who provide expert consultation to improve the resources over a prolonged duration
 * Members providing support through **in-kind collaboration/partnership**
 * **Connector, convener and collaborators** from the broader data science network
 * **_The Turing Way_ curious** (‘lurkers’) users of resources who read, adopt and share best practices from _The Turing Way_ in their work and participate in public events/communications channel
-* **Your personal experience** (which we value a lot!) will enrich _The Turing Way_ resources with real-world contexts
+* Members sharing **personal experience** (which we value a lot!) to enrich _The Turing Way_ resources with real-world contexts
+* **Speakers and presenters** of any aspect of _The Turing Way_ at different events and contexts.
 
 New contributors to _The Turing Way_ can begin their journey at any time, and through various pathways including voluntary participation, invited contribution, training/workshop-based introduction, organisational collaboration, and personal collaboration with other community members or others.
 
