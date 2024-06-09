@@ -43,8 +43,8 @@ _The Turing Way_ is a (i) **community** — our readers, users, developers, and 
 
 _The Turing Way_ is also aligned with the principles of [Digital Public Goods](https://www.un.org/techenvoy/content/digital-public-goods) (DPG) -- digital assets that provide value to society and contribute to the public good. 
 
-_The Turing Way_ book serves as a DPG. In 2024, the project was listed in the [Digital Public Good Alliance](https://digitalpublicgoods.net/) (DPGA) Registry for it's alignment with "Sustainable Development Goals 4 (SDG4): Quality Education" [under the content category](https://app.digitalpublicgoods.net/a/10953).
-In this context, _The Turing Way_ acts as a high quality reference and educational material for people at different stage of their learning in data science.
+_The Turing Way_ book serves as a DPG. In 2024, the project was listed in the [Digital Public Good Alliance](https://digitalpublicgoods.net/) (DPGA) Registry for its alignment with "Sustainable Development Goals 4 (SDG4): Quality Education" [under the content category](https://app.digitalpublicgoods.net/a/10953).
+In this context, _The Turing Way_ acts as a high-quality reference and educational material for people at different stages of their learning in data science.
 
 Co-developed with a diverse community, _The Turing Way_ addresses the need for centralising fragmented knowledge around open, reproducible, ethical and collaborative data science practices, making it accessible to the public without depleting their quality or availability.
 
