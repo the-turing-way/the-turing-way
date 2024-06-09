@@ -103,18 +103,18 @@ The group charter should provide, to the degree WG members can, the following in
 (ch-working-groups-principles)=
 ## Reciprocity and Transparency in Decision-Making
 
-In addition, all WGs should follow these three practices, as they relate to:
-1. **Reciprocity** within and towards the broader Turing Way community;
-2. **Open sharing** of practices and ways of working;
-3. **Transparent decision-making** within the WG.
+In addition, all WGs should ensure open communication of WG's practices and ways of working through:
+1. **Reciprocity** within and towards the broader Turing Way community.
+2. **Transparency in decision-making**.
 
 Below we share a few examples of questions that will help WG members in operationalising these practices.
 
 ### Reciprocity
 
-All WGs within *The Turing Way* foster a reciprocal relationship with the wider community, representing sustained engagement by community members on a topic or subject.
+All WGs within *The Turing Way* will foster reciprocal relationships with the wider community to promote cooperation, trust, and cohesion.
+This involves supporting community members' engagement with topics or subjects related to the work of the WGs.
 
-To identify information and knowledge the WG can actively share with the community, the following questions can be asked:
+To facilitate this, the WG should actively ask the following questions to identify information and knowledge to share with the community:
 - Where in the WG's work can community members engage or contribute?
 - Are there things that the WG is trying to do within a small group that the broader community can help with?
 - Are there lessons the WG has learned that can be fed back to *The Turing Way* book and the wider community?
