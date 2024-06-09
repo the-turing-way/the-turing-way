@@ -73,7 +73,7 @@ Also, materials should be offered in multiple formats to make them adaptable to 
 
 - Recognise and address asymmetries in in-person and online settings to establish realistic expectations.
 - Create opportunities for social interactions both online and in-person to balance out the challenges.
-- Foster a positive atmosphere in person and encourage an informal approach online to facilitate idea exchanges and connections.
+- Foster a positive atmosphere in-person and encourage an informal approach online to facilitate idea exchanges and connections.
 
 ### Personnel and Staffing Planning
 
