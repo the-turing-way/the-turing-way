@@ -65,7 +65,7 @@ Developed and maintained by a globally distributed community, both, _The Turing 
 As a public resource — _The Turing Way_ operationalises approaches that underpin digital commons and digital public goods, some of which are outlined below:
 
 * Champion **openness** of knowledge and participation processes
-* Foster an environment for **diversity** in stakeholders, ideas, and activities
+* Foster an environment for **diversity** of knowledge, knowledge producers and their interests
 * Actively **exemplify** the practices we share.
 * Proactively promote **equity** through collaboration with underrepresented communities.
 * Build strategic **partnerships** with different stakeholders to accelerate the adoption of practices across sectors.
@@ -80,13 +80,13 @@ Following the principle of 'as open as possible and as closed as necessary,' we 
 * We evolve community roles and processes for open engagement and decision-making, ensuring transparency in pathways for community involvement and project direction.
 * We actively engage community members in co-creating accessibly written chapters and  openly licensed resources on data science, aiming to broaden participation in the fields of Data Science and research.
 
-### 2. Foster an environment for diversity in stakeholders, ideas, and activities 
+### 2. Foster an environment for diversity of knowledge, knowledge producers and their interests
 
-Through proactive measures, we cultivate an environment that champions inclusion, collaboration, and ethical research, fostering a diverse range of contributors and a broad spectrum of knowledge outputs.
+Through proactive measures, we cultivate an environment that champions diversity through inclusion, collaboration, and ethical approaches where knowledge, knowledge producers and their interests can thrive.
 
-* In _The Turing Way_, we offer clear community participation guidelines, a Code of Conduct, an acknowledgement process, and detailed resources outlining our operational methods.
-By creating pathways for involvement at different levels of governance, we actively support diverse community members and their unique contributions to _The Turing Way_.
-* Our resources are designed to embody and promote EDIA (Equity, Diversity, Inclusion, and Accessibility) principles.
+* We provide community participation guidelines, a Code of Conduct, an acknowledgement process and resources outlining approaches through which diverse contributors can collaborate in _The Turing Way_.
+By creating different pathways for engagement at different levels of decision-making, we actively support our community members to discuss different challenges, exchange ideas and co-create solutions.
+* Diverse members contribute to the development of _The Turing Way_ guides, ensuring that EDIA (Equity, Diversity, Inclusion, and Accessibility) principles are integrated into both, the practices we share, and the positive impact we aim for in data science.
 
 ### 3. Actively exemplify the practices we share
 
