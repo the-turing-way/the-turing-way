@@ -831,7 +831,7 @@ Contributions of any kind welcome!
       <br />
       <sub><b>Batool Almarzouq (batool664)</b></sub>
       <br />
-      <sub><b>23108 words</b></sub>
+      <sub><b>34202 words</b></sub>
       <br /><sub><b><code title="Arabic">ar</code></b>, <b><code title="Chinese Simplified">zh-CN</code></b>, <b><code title="French">fr</code></b>, <b><code title="German">de</code></b>, <b><code title="Italian">it</code></b>, <b><code title="Japanese">ja</code></b>, <b><code title="Portuguese, Brazilian">pt-BR</code></b>, <b><code title="Spanish">es</code></b>, <b><code title="Spanish, Latin America">es-419</code></b>, <b><code title="Turkish">tr</code></b></sub>
     </td>
     <td align="center" valign="top">
