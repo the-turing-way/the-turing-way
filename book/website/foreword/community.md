@@ -18,12 +18,12 @@ Contributors' details are available in the [Contributors Records](https://the-tu
 
 The project is supported by The Alan Turing Institute under the Tools, Practices, and Systems (TPS) Programme, with several positions funded to work on _The Turing Way_.
 
-The project is managed and its activities/goals are delivered by the project delivery team, which currently includes project leads Kirstie Whitaker (TPS Programme Director) and Malvika Sharan (TPS Senior Researcher), research community manager: Anne Lee Steele and  a research project manager: Arielle Bennette (TPS Programme Manager).
+The project is managed and its activities/goals are delivered by the project delivery team, which currently includes project leads Kirstie Whitaker (TPS Programme Director) and Malvika Sharan (TPS Senior Researcher), research community manager: Anne Lee Steele and a research project manager: Arielle Bennett (TPS Programme Manager).
 
 (fw-community-book-roles)=
 ## Book-Related Roles
 
-The book-related roles vary based on people’s involvement in reviewing, editing or developing new content in _The Turing Way_ chapters, subchapters, impact stories, personal stories, case studies and templates
+The book-related roles vary based on people’s involvement in reviewing, editing or developing new content in _The Turing Way_ chapters, subchapters, impact stories, personal stories, case studies and templates.
 Reviewers are often drawn from the community, based on their experience in the chapter’s topic.
 Often, reviewers are also invited from beyond the community to ensure new members have the chance to collaborate based on their expertise.
 
