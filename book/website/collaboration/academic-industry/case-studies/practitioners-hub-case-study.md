@@ -29,7 +29,7 @@ _The Turing Way_ Collaboration Cafe events were leveraged as opportunities to me
 
 ## Case-studies 
 
-In 2023, The Turing Way team partnered with five organisations as part of the inaugural cohort of this programme, running over 6 months. The organisations involved were: 
+In 2023, _The Turing Way_ team partnered with five organisations as part of the inaugural cohort of this programme, running over 6 months. The organisations involved were: 
 - British Antarctic Survey
 - Genomics England
 - Office of National Statistics
