@@ -5,7 +5,7 @@
 
 _The Turing Way_ project is open source, open collaboration, and community-driven.
 We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone.
-Our goal is to provide all the information that researchers, data scientists, software engineers, policymakers and other practitioners in academia, industry, government, funding organisations and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.
+Our goal is to provide all the information that researchers, data scientists, software engineers, policymakers, and other practitioners in academia, industry, government and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.
 
 ```{admonition} Top Tip
 :class: tip
@@ -17,7 +17,7 @@ Browse the different guides that make up the book, or use the search box to sear
 All stakeholders from any level of experience or domain expertise are encouraged to use _The Turing Way_ to understand their roles and responsibility of reproducibility in data science and research.
 You can inspect our resources on [GitHub](https://github.com/the-turing-way/the-turing-way), contribute to the project as described in our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md)).
 
-In the {ref}`Foreword Section<fw>` of this book, we provide meta-level information about _The Turing Way_, including guidance on how to use and navigate this book, how to cite the book and opportunities to participate in the community.
+In the {ref}`Foreword Section<fw>` of this book, we provide meta-level information about _The Turing Way_, including guidance on how to use and navigate this project, how to cite the book and opportunities to participate in the community.
 
 ```{figure} figures/theturingway-pathway.*
 ---
