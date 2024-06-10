@@ -15,7 +15,8 @@ This is sometimes easier said than done. Sharing these research outputs means un
 Furthermore, technical skill alone is not sufficient for making research reproducible and open for all.
 
 _The Turing Way_ provides resources to build an understanding of good practices and improve research habits through modular chapters in a self-contained handbook.
-Rather than reinventing the wheel by rewriting or redefining data science best practices, approaches and methods, we encourage you to introduce concepts in accessible language in a _Turing Way_ chapter -- you can highlight curated resources and set readers up for a deep dive into topics of their choice.
+Rather than reinventing the wheel by rewriting or redefining data science best practices, we encourage you to introduce known methods, tools and approaches in accessible language in _The Turing Way_ chapters.
+In these chapters, you can highlight existing resources, curated materials and external links, setting readers up for diving deeper into topics of their choice.
 
 The book started in January 2019 as a guide for reproducibility, covering {ref}`rr-vcs`, {ref}`rr-testing`, and {ref}`rr-ci`.
 However, technical skills are just one aspect of making data science research "open for all".
