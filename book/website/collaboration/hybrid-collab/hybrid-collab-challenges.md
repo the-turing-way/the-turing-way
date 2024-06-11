@@ -23,6 +23,7 @@ Poorly organised hybrid events can isolate online participants, and incorporatin
 Hybrid meetings require different etiquette, and unequal access to communication tools may exclude some individuals, especially those at early career stages who might still be exploring navigating such spaces.
 
 ## Lack of space to focus and be attentive
+
 There are disparities in facilities and services between in-person and online settings.
 Distraction comes easily with an online setup.
 When online, individuals may encounter higher levels of noise and distractions due to personal responsibilities that are not immediately apparent, such as caring for children or elderly family members. 
