@@ -13,7 +13,7 @@ Co-lead, Malvika Sharan, also shares her reflections from working with the commu
 
 Finally, we provide details on community roles, citation process and frequently asked questions to help identify the right places for you to get involved.
 
-You will find these in the following chapters:
+You will find these details in the following chapters:
 
 - {ref}`fw-background`
 - {ref}`fw-navigating`
