@@ -4742,6 +4742,17 @@
         "content",
         "ideas"
       ]
+    },
+    {
+      "login": "gandrewgabriel",
+      "name": "George Gabriel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52380254?v=4",
+      "profile": "https://github.com/gandrewgabriel",
+      "contributions": [
+        "infra",
+        "code",
+        "test"
+      ]
     }
   ],
   "projectName": "the-turing-way",
