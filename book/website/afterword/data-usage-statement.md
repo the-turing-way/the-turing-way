@@ -1,5 +1,5 @@
 (data-usage)=
-# TTW Book Data Usage
+# _The Turing Way_ Book Data Usage
 
 We want to understand and optimise the use, geographical reach, and findability of _The Turing Way_ book.
 It is possible through information such as how many people currently use the book, which chapters are they interested in, from which countries are they able to access our resources or where we are not currently findable or accessible.
@@ -7,7 +7,7 @@ Therefore, we are collecting some data on our website activities, which we descr
 
 For example, we are keen to understand data on website traffic as it helps with assessing and reporting impact through different channels.
 Data on search terms people use to find the website can help us understand readers' needs and preferences.
-With this knowledge we can better tailor our content to be useful.
+With this knowledge, we can better tailor our content to be useful.
 
 See our ongoing discussions [on GitHub](https://github.com/the-turing-way/the-turing-way/discussions/3713) around which insights could help improve the content quality. 
 
