@@ -2922,7 +2922,10 @@
       "profile": "https://github.com/vhellon",
       "contributions": [
         "review",
-        "content"
+        "content",
+        "question",
+        "example",
+        "bug"
       ]
     },
     {
@@ -3254,7 +3257,8 @@
       "profile": "https://saranjeetkaur.github.io/About-Me/",
       "contributions": [
         "ideas",
-        "content"
+        "content",
+        "review"
       ]
     },
     {
@@ -4677,6 +4681,46 @@
       "profile": "https://github.com/AbcSxyZ",
       "contributions": [
         "ideas"
+      ]
+    },
+    {
+      "login": "AlexandraAAJ",
+      "name": "Alexandra Araujo Alvarez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124181438?v=4",
+      "profile": "https://github.com/AlexandraAAJ",
+      "contributions": [
+        "content",
+        "example",
+        "doc"
+      ]
+    },
+    {
+      "login": "f-rower",
+      "name": "f-rower",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29379394?v=4",
+      "profile": "https://github.com/f-rower",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "design",
+        "ideas",
+        "maintenance",
+        "promotion",
+        "question",
+        "test"
+      ]
+    },
+    {
+      "login": "lucyjstephenson",
+      "name": "Lucy Stephenson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112892956?v=4",
+      "profile": "https://github.com/lucyjstephenson",
+      "contributions": [
+        "example",
+        "content",
+        "bug",
+        "maintenance"
       ]
     },
     {

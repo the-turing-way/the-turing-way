@@ -76,3 +76,16 @@ Their wide ranging role (from contracting, creating meeting agendas, budgeting, 
 There is also a project manager colleague engaged on the Roche side which works very well for ensuring consistency.
 
 Additional resources that may also be of use in these planning stages are the {ref}`Turing Way Project Design Guide <pd-overview>` and the {ref}`Ethical Consideratons when Choosing an Open Source Governance Model chapter <er-ethics-open-source-governance>`. 
+(cl-academic-industry-establish-conflict)=
+### How to Manage Conflict
+Disagreements are inevitable in any collaboration. The team charter as part of the governance should outline a framework for addressing conflict constructively. While potentially distracting and unpleasant, planning ahead for disagreements can be a prudent way of managing limited resources for the project.
+
+Here are some options to consider:
+* Designated mediator: Identify a neutral individual within the collaboration or from a third-party organisation who can facilitate discussions and mediate any conflicts.
+* Escalation process: Establish a clear escalation process for addressing disagreements. This could involve initial discussions between directly involved parties, then escalating to team leads or a steering committee if necessary.
+* Conflict resolution principles: Outline principles for resolving conflicts, such as focusing on the issue at hand, respecting diverse viewpoints, and prioritising the success of the collaboration.
+
+By incorporating these elements into your governance structure, you can create a more open and productive environment for your academic-industry collaboration.
+
+## Conclusion
+Building a successful academic-industry collaboration requires careful planning and clear communication from the outset. The key ingredients are: fostering open communication, establishing clear expectations, and having mechanisms in place to manage conflict. By following these steps and learning from the experiences of the Turing-Roche Partnership, you can increase your chances of establishing a long-lasting and productive collaboration that benefits both academic and industry partners. 
