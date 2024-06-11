@@ -3,7 +3,18 @@
 
 Building an engaged community around any collaboration can be key for long term success, sustainability and legacy. 
 For academic-industry collaborations, a focus on community can be crucial as often the two organisations have not worked together previously. 
-The Turing-Roche partnership hired a full time Community Manager for this purpose; helping to navigate any differences in ways of working, facilitating initial and longer term connections and creating a sense of ownership and engagement around the partnership. 
+(cl-academic-industry-challenges)=
+## Challenges of Building an Academia-Industry Community
+While the benefits of a strong community are numerous, fostering collaboration across academia and industry can present unique challenges. 
+
+Here are some to consider:
+* Differing work cultures and communication styles: Academia often prioritises long-term research and fundamental knowledge creation, while industry focuses on short-term deliverables and applied solutions. Communication styles can also vary, with academia valuing detailed reports and industry favoring concise presentations.
+* Intellectual property concerns: Sharing research findings openly can be crucial in academia, but industry might have concerns about protecting proprietary information or patentable inventions. Finding a balance between openness and confidentiality is essential.
+* Time constraints: Academics may juggle teaching, research, and administrative duties, while industry professionals might face tight deadlines and limited time for collaboration. Balancing these commitments can be a hurdle.
+* Varying levels of expertise: Partners may have different levels of expertise in the collaboration's domain. Bridging this knowledge gap requires clear communication and fostering a learning environment for all participants.
+(cl-academic-industry-community-building)=
+## Building an academic-industry collaboration community
+The Turing-Roche partnership hired a full time Community Manager for this purpose; helping to navigate any differences in ways of working, facilitating initial and longer term connections and creating a sense of ownership and engagement around the partnership.
 
 Approaches to community building can vary (see {ref}`Guide to Planning a Community Chapter <cl-new-community-guide>`) but initial steps that might be useful in an academic-industry collaboration are:
 
@@ -24,6 +35,7 @@ For the Turing-Roche Partnership, Roche colleagues were encouraged to get involv
 On the Roche side, the team explored areas of the business and prepared case studies of where potential partnership research could be applied- gaining buy-in from colleagues.  
 
 (cl-academic-industry-community-champions)=
+
 ## Identifying Champions/Cheerleaders on Both Sides 
 Whilst there will likely be a core team in a collaboration, it's also useful to identify people outside of this team at both organisations who can champion your collaboration and help raise awareness. 
 This may be communications and marketing teams who can help with promotion or 'influential' leaders in relevant departments who can advocate for people getting involved. 
@@ -54,5 +66,16 @@ Things you might want to consider as part of this are:
 * Mapping out key stakeholders at each organisation and organisations in the broader ecosystem and how to engage/influence them. Turing-Roche Stakeholder Map example can be found [here](https://github.com/alan-turing-institute/turing-roche-partnership/blob/main/communications/Turing-Roche%20Stakeholder%20Mapping.pdf).
 * Considering where and how you want people to connect
 * Decide on how you want to monitor community engagement- it can be challenging to find metrics that capture things like organic interactions on Slack
+(cl-academic-industry-community-performance)=
+## Measuring Community Performance
+Building a thriving community is an ongoing process and requires measurement and feedback to be successful.
 
+Here are some suggestions on how to assess the effectiveness of your strategies and adapt them for continued success:
+* Track participation metrics: Monitor engagement on your chosen communication platforms (for example, number of active users, messages sent). Consider metrics specific to your events (for example: attendance, post-event surveys).
+* Gather qualitative feedback: Conduct surveys or hold focus groups to understand participants' experiences. Ask about their satisfaction with communication, the value of events, and suggestions for improvement.
+* Analyse long-term outcomes: Track the impact of your community on collaboration. Has it led to joint research projects, publications, or successful technology transfer?
 
+By actively evaluating your efforts and adapting them based on the results, you can ensure your community thrives and fosters a successful academia-industry collaboration.
+
+## Conclusion
+Fostering a strong community is essential for the long-term success of an academia-industry collaboration.  While challenges like differing work cultures and intellectual property concerns exist, proactive strategies can bridge these gaps. By implementing initial steps like kick-off events and identifying champions, you can create a foundation for connection. Additionally, measuring and evaluating progress is key for amplifying what's working and course correcting what's not working. 

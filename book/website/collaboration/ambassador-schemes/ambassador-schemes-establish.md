@@ -47,7 +47,7 @@ You can make a recording of this available afterwards for increased accessibilit
 
 A useful start to the scheme is holding an onboarding meeting where you can bring together your ambassadors as a group to give information on how the scheme will work and let them get to know each other. 
 It may also be sensible to organise individual onboarding calls where you can set up participants on systems as needed and help brainstorm their work/activities for the scheme. 
-Additionallty you can provide an onboarding document or website, which participants can refer to throughout the scheme. 
+Additionally you can provide an onboarding document or website, which participants can refer to throughout the scheme. 
 
 After this initial onboarding, plan how often your cohort will meet and how you will all communicate during the scheme - asynchronous tools like email or Slack are practical for this. 
 This will also feed into how you create a sense of community within your cohort. 
@@ -78,7 +78,7 @@ This can be done verbally or through an electronic form.
 
 It is also important to archive the materials created for the scheme. 
 This will include the process documentation used to run the scheme and also outputs developed by the ambassadors. 
-It is best practice to make these resources openly available by depositing them in a FAIR manner using an open repository such as Zenodo {ref}`Steps for Making Research Objects Citable <cm-citable-steps>`.
+It is best practice to make these resources openly available by depositing them in a FAIR manner using an open repository such as Zenodo- {ref}`Steps for Making Research Objects Citable <cm-citable-steps>`.
 This ensures that others who might want to run similar schemes can access them and also all of the outputs, as well as providing a citable output for you and the ambassadors so that you get credit for the work that you have all done.  
 
 

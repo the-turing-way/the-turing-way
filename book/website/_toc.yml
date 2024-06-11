@@ -12,6 +12,26 @@ format: jb-book
 root: index
 parts:
   - chapters:
+      # ===== Foreword Section ========================================
+      - file: foreword/foreword
+        sections:
+          - title: Background
+            file: foreword/background
+          - title: Navigating the Handbook
+            file: foreword/navigate
+          - title: Emergence as The Turing Way Strategy
+            file: foreword/emergent-strategy
+          - title: Embracing the Principles of Digital Commons
+            file: foreword/embracing-digital-commons
+          - title: Community and Community Roles
+            file: foreword/community
+          - title: Governance
+            file: foreword/governance
+          - title: How to Cite
+            file: foreword/cite
+          - title: Frequently Asked Questions
+            file: foreword/faqs
+
       # ===== Guide for Reproducible Research ========================================
       - file: reproducible-research/reproducible-research
         sections:
@@ -263,7 +283,6 @@ parts:
             sections:
               - title: A Statistical Methods Manuscript
                 file: reproducible-research/case-studies/case-study-statistical
-
 
       # ===== Guide for Project Design ========================================
 
@@ -581,8 +600,20 @@ parts:
                 file: collaboration/academic-industry/academic-industry-establish
               - title: Community Building in an Academic-Industry Collaboration
                 file: collaboration/academic-industry/academic-industry-community
-              - title: Turing-Roche Community Activities Personal Story
-                file: collaboration/academic-industry/academic-industry-personal-story
+              - title: Case Studies and Best Practices in Academic-Industry Collaboration
+                file: collaboration/academic-industry/intro-case-studies-and-best-practices-in-academic-industry-collaboration.md
+                sections:
+                  - title: Case Study Library
+                    file: collaboration/academic-industry/case-study-library.md
+                    sections:
+                      - title: Turing-Roche Case Study
+                        file: collaboration/academic-industry/case-studies/turing-roche-case-study.md
+                      - title: Practitioner's Hub Case Study
+                        file: collaboration/academic-industry/case-studies/practitioners-hub-case-study.md
+                      - title: BridgeAI - Independent Scientific Advice
+                        file: collaboration/academic-industry/case-studies/BridgeAI_IndependentScientificAdvice.md
+                  - title: Online Resources
+                    file: collaboration/academic-industry/online-resources-best-practices.md
           - title: Ambassador Schemes
             file: collaboration/ambassador-schemes
             sections:
@@ -687,6 +718,9 @@ parts:
             file: ethical-research/social-data
           - title: Data Feminism
             file: ethical-research/data-feminism
+            sections:
+              - title: Examining Power
+                file: ethical-research/data-feminism/data-feminism-power
           - title: Activism for Researchers
             file: ethical-research/activism
             sections:
