@@ -37,6 +37,7 @@ Please consider such time requirements when switching rooms either physically or
     - If someone is at their own university/workplace, they may be distracted by their colleagues who do not realise that someone is in an event. In such a case, consider reserving a quiet space in your university/workplace.
  
 ### Accessibility of Communication Platforms and Content
+
 - Consider tools that comply with accessibility standards, such as the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/) for digital collaboration and communication.   
 - Test and use communication tools that support comprehensive accessibility features like screen readers, voice recognition software, and alternative input devices to plan towards the accessibility needs of participants.
 See [Web accessibility evaluation tools](https://www.w3.org/WAI/test-evaluate/tools/list/).
