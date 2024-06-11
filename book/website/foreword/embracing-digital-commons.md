@@ -3,7 +3,7 @@
 
 _In this document, Dr Malvika Sharan, co-lead of The Turing Way shares her insights from working in open science since 2010 and with _The Turing Way_ community since 2019._
 
-The Turing Way means different things to different people, shaped by factors such as our backgrounds, identities, interests, locations and areas of work, as well as different contexts as learners, educators and practitioners in data science.
+_The Turing Way_ means different things to different people, shaped by factors such as our backgrounds, identities, interests, locations and areas of work, as well as different contexts as learners, educators and practitioners in data science.
 
 As a community-developed project, _The Turing Way_ belongs to the community, and we, _The Turing Way_ team and our community of leaders are committed to fostering shared ownership through active involvement and collaboration with diverse contributors.
 The intricacies and beauty of this collaboration are evident in the continuous growth, diversity and acknowledgement that _The Turing Way_ has garnered over the years.

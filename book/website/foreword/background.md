@@ -1,10 +1,6 @@
 (fw-background)=
 # Background
 
-```{Note}
-A history section will be added soon in this chapter.
-```
-
 _Our moonshot goal is to make reproducibility "too easy not to do"._
 
 Reproducible research is necessary to ensure that scientific work can be trusted.
@@ -52,3 +48,7 @@ Our team and community members are committed to adopting and promoting openness,
 
 The project has been developed openly and any and all questions, comments and recommendations are always welcome at our GitHub repository: https://github.com/the-turing-way/the-turing-way.
 We really appreciate you using these resources and any references that you make to _The Turing Way_ project in your work, and we hope it is useful.
+
+```{Note}
+A history section will be added soon in this chapter.
+```
