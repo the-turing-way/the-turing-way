@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - CITATION.cff
   pull_request:
     paths:
       - CITATION.cff
