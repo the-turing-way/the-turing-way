@@ -12,6 +12,7 @@ Building and maintaining a local network becomes more challenging in a hybrid wo
 It can also be a challenge for the in-person participants to simultaneously manage interactions with people online and people in the same in-person setting.
 
 ## Communication tools used for hybrid environments
+
 A mix of synchronous and asynchronous communication tools are used for hybrid environments.
 Synchronous communication tools enable real-time interactions where participants communicate simultaneously via video and voice calls or live messaging and are helpful for immediate feedback and dynamic discussions.
 Asynchronous communication tools enable interactions where responses do not occur in real time, allowing participants to engage at their convenience. 
