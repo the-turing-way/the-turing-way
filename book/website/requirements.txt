@@ -54,7 +54,7 @@ numpy==1.24.4
 packaging==23.2
 pandas==2.0.3
 parso==0.8.3
-pathways @ git+https://github.com/the-turing-way/pathways.git@cc10ed95a5f8b2ea7efe73734f37335ab1871791
+pathways @ git+https://github.com/the-turing-way/pathways.git@b542aca6316389225fd77c6b7fb3dfb2c5f92076
 pickleshare==0.7.5
 pillow==10.3.0
 pip-tools==7.3.0
