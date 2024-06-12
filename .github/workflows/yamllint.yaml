@@ -6,9 +6,8 @@ on:
       - "**.yaml"
       - "**.yml"
   push:
-    paths:
-      - "**.yaml"
-      - "**.yml"
+    branches:
+      - main
 
 jobs:
   yamllint:
