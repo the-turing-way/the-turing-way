@@ -318,6 +318,15 @@ parts:
                 file: project-design/project-repo/project-repo-advanced
               - title: Further Recommendations
                 file: project-design/project-repo/project-repo-resources
+          - title: Documentation
+            file: project-design/documentation
+            sections:
+              - title: Technical Documentation
+                file: project-design/documentation/documentation-technical
+              - title: Languages and Platforms
+                file: project-design/documentation/documentation-language
+              - title: Workflows and Resources
+                file: project-design/documentation/documentation-workflow
           - title: Personas and Pathways
             file: project-design/persona
             sections:
