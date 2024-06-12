@@ -3,7 +3,7 @@
 
 *Welcome to The Turing Way handbook to reproducible, ethical and collaborative data science.*
 
-_The Turing Way_ project is open source, open collaboration, and community-driven.
+_The Turing Way_ project is providing its source files, open collaboration, and community-driven.
 We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone.
 Our goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need to ensure that the projects they work on are easy to reproduce and reuse.
 
