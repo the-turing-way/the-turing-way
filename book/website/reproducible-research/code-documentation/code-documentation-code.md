@@ -1,3 +1,4 @@
+(rr-documentation-code)=
 # Code documentation
 
 It is a good practice to document the source code of software regardless of how time consuming it may be. 
