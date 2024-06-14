@@ -1,7 +1,5 @@
 # Collaboration Cafe Notes - 4 April
 
-# 3 April 2024
-
 ## Check-in
 
 Name + Pronouns + What's your favorite *springtime* activity?  + an emoji (if you'd like!: [https://emojipedia.org/](https://emojipedia.org/), see also: [https://openmoji.org/)](https://openmoji.org/))
