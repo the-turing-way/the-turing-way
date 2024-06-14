@@ -17,7 +17,6 @@ Name + Pronouns + What's your favorite *springtime* activity?  + an emoji (if yo
 * Sophia + she/her + park picnics 
 * Aida + she /her + running in parks 
 * Chris + he/him + cycling + 🚴
-* Earth sounds if you're interested: [https://earth.fm/](https://earth.fm/) --> Dawn in Sikkim is what we're listening to!
 
 ### Advertise and promote your event or anything exciting you're working on. ✨
 
@@ -29,7 +28,7 @@ Name + Pronouns + What's your favorite *springtime* activity?  + an emoji (if yo
 
 While no sign-ups are required to attend Collaboration Cafe, if you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it. 
 
-If you like one of the topics that are already suggested, please add your name next to that one. For more information about breakout rooms see [the description on GitHub]([https://github.com/alan-turing-institute/the-turing-way/blob/main/project\_management/online-collaboration-cafe.md#breakout-rooms)](https://github.com/alan-turing-institute/the-turing-way/blob/main/project\_management/online-collaboration-cafe.md#breakout-rooms)).
+If you like one of the topics that are already suggested, please add your name next to that one. For more information about breakout rooms see [the description on GitHub](https://github.com/alan-turing-institute/the-turing-way/blob/main/project\_management/online-collaboration-cafe.md#breakout-rooms).
 
 Please add a 🤫 emoji next to any line that you would not like to be included in the archive on Github
 
@@ -39,9 +38,9 @@ Please add a 🤫 emoji next to any line that you would not like to be included 
     * Citizen scientists will count seals --> manually will clean up mapping projects
     * Managing big data files for version control for non-data scientists --> What's the workflows? What's the tools?
 * Book Dash (Amefon, Arielle, Esther, Richard) --> First hour
-* Environment \& Sustainability room, Artefact Evaluation Process for Computational Climate Science (Roly, Alejandro)
-* Reading Room / Chapter Reviewing (Ceiliedh)
-* All Things AI (Jen \& Pen)
+* Environment & Sustainability room, Artefact Evaluation Process for Computational Climate Science (Roly, Alejandro)
+* Reading Room / Chapter Reviewing (Ceilidh)
+* All Things AI (Jen & Pen)
 * Communication Channels (Gabin)
 * Innovation Chapter (Aida)
 * Research in 2050 (2nd hour - Arielle, Danny)
@@ -51,6 +50,7 @@ Please add a 🤫 emoji next to any line that you would not like to be included 
 
 ##  Link list✨ 
 
+* Earth sounds if you're interested: [https://earth.fm/](https://earth.fm/) --> Dawn in Sikkim is what we're listening to!
 * [https://sonic-pi.net/](https://sonic-pi.net/)
 * [https://www.politifact.com/factchecks/2021/dec/22/facebook-posts/sealed-room-would-snake-plants-keep-you-alive-stud/](https://www.politifact.com/factchecks/2021/dec/22/facebook-posts/sealed-room-would-snake-plants-keep-you-alive-stud/)
 * This is probably the better link: [https://en.wikipedia.org/wiki/NASA\_Clean\_Air\_Study](https://en.wikipedia.org/wiki/NASA\_Clean\_Air\_Study)

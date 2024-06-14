@@ -42,7 +42,7 @@ If you like one of the topics that are already suggested, please add your name n
       * Explicit social sessions are key. And we also have an established slack channel. Slack is wher epeople can maintain these connections that allows people to keep in touch.
       * Asynchronous times part is really interesting, no perfect solution but we have tried a few ways and have a few different solutions that are close to optimised.
       * We have a lot of documentation too! [https://the-turing-way.netlify.app/community-handbook/bookdash.html](https://the-turing-way.netlify.app/community-handbook/bookdash.html) 
-      * Possibly can interview people during the week, and we 
+      * Possibly can interview people during the week
    * 2nd pomodoro session: Book Dash planning chats
       * Skils teams members joining the Book Dash Committee
       * Book Dash Committee - have to start promoting the committee + hub applications
@@ -55,7 +55,7 @@ If you like one of the topics that are already suggested, please add your name n
    * 4th pomodoro: Open room
 * Breakout Room: Inclusive Events chapter/Accessibility Working Group
    * having a brief chat about the different ideas for how to separate out broader accessibility issues, PPIE specific bits and matbe a "missing" chapter with more details on "how to organise events" that moves beyond bullet points?
-* Research  in 2050
+* Research in 2050
 * Shout-out - Data Hazards Room
 * Infrastructure Working Group
 * Quiet coworking

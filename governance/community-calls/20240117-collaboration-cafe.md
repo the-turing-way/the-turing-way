@@ -21,14 +21,15 @@ Name + Pronouns + What is something you want to do more of in 2024? What is some
 - Jim + he/him + Social events + Worrying + 🧶
 - Kirstie + she/her + Arranging social connections - I’ve been waiting to be invited and it turns out that doesn’t work 😅 + focusing on who doesn’t like me + 💕
 
-## Advertise and promote your event or anything exciting you're working on. ✨ 
+## Advertise and promote your event or anything exciting you're working on. ✨ 
 
 - Thinking about proposing a markdown flavour for protocols - inspired by the format of protocols.io - maybe some kind of extension to MyST (Richard J. Acton)
 
 ## Breakout rooms: Topic proposals and notes✨ 
+
 While no sign-ups are required to attend Collaboration Cafe, if you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it. 
 
-If you like one of the topics that are already suggested, please add your name next to that one. For more information about breakout rooms see [the description on GitHub](https://github.com/alan-turing-institute/the-turing-way/blob/master/project_management/online-collaboration-cafe.md#breakout-rooms).*
+If you like one of the topics that are already suggested, please add your name next to that one. For more information about breakout rooms see [the description on GitHub](https://github.com/alan-turing-institute/the-turing-way/blob/main/project_management/online-collaboration-cafe.md#breakout-rooms).*
 
 - Main Room:
     - Hour 1: Infrastructure Working Group: Splitting the TTW repository / 2nd hour in a breakout room
@@ -57,7 +58,7 @@ If you like one of the topics that are already suggested, please add your name n
     - Do we have any best practices for working across multiple repositories? --> What other communities have we seen do this well?
     - JupyterBook has a fairly segmented ecosystem
     - ALS: Sign-posting for the Community Handbook? Contributors guide? Adding more materials about how to navigate through the guides?
-    - We can definitely ping Angus in the Turing Way and ask his experience of issues and the Jupyter Book eco system as he’s onboarded himself 
+    - We can definitely ping Angus in the Turing Way and ask his experience of issues and the Jupyter Book ecosystem as he’s onboarded himself 
     - We might want to look at our issue template to budget cross-connection
     - What does an MVP look like?
     - Separating the TTW book from the rest of the repo?
@@ -72,11 +73,11 @@ If you like one of the topics that are already suggested, please add your name n
         - tests
         - workshops
     - What does the 'communications' include for TTW?
-    - MVP sounds like a good idea, 
+    - MVP sounds like a good idea
         - https://infrastructure.2i2c.org/howto/update-env/#split-up-an-image-for-use-with-the-repo2docker-action
     - There could be a step missing, where it creates a branch called "staging" 
     - Danny will try it out and ping Sarah if helps is needed
-    - Making a newsletter repo
+    - Making a newsletter repo as a test
     - Misunderstanding about the goal of the main room discussion but still interesting. Accessability and discoverability was a surprise factor at the discussion 
     - Is there a particular approach for a Translation repo. Sarah will share the repo she had been working on during the Book Dash with Batool 
     - Decision making from moving from readthedocs to netlify. No decision has been received, dedicated URL for the webpage (priority!) Paying for a domain name (ACTION TO ALE) -- 
@@ -121,7 +122,6 @@ If you like one of the topics that are already suggested, please add your name n
 - Newsletter-writing room (David)
 - Predicting the future of Research Room 
 - Quiet co-working
-
 - End of the call notes
     - RA: Last point!
     - AB: What happens if we actually fixed things? What would happen in peer review? Imaginging the future of research?
@@ -132,12 +132,8 @@ If you like one of the topics that are already suggested, please add your name n
     - SG: We want a url to prevent link rot, and for switching away from other platforms.
     - DG: Want to be reminded about arguments against having a URL. Don't like change.
 
-
-Link list✨ 
+## Link list✨ 
 
 - https://carpentries.github.io/instructor-training/02-practice-learning.html#building-a-mental-model
 - Jonny decimal system: https://johnnydecimal.com
 - Draw.io: https://app.diagrams.net
-
-     
-

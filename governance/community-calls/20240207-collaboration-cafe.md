@@ -5,26 +5,26 @@
 Name + Pronouns + Teleportation or flying? + an emoji (if you'd like!: https://emojipedia.org/, see also: https://openmoji.org/)
 (Remember that this is a public document. Your answer You can use a pseudonym if you'd prefer.) Use the 🤫 emoji if you would not like to be included in our public archive. These notes will be archived on The Turing Way repository.
 
-* Liz, she/her, beam me up s long as my guide dog can come 
-* Anne, she/her, flying for sure! love that birds eye view!
-* Maria. she/her, teleportation✨
-* Kalle, he/they, flying (because I dream about it all the time) but... teleporting to family in Brazil/Sweden would be nice too... 🧐
-* Johanna (she/her); teleportation
+* Liz + she/her + beam me up as long as my guide dog can come 
+* Anne + she/her + flying for sure! love that birds eye view! 🐦
+* Maria + she/her + teleportation✨
+* Kalle + he/they + flying (because I dream about it all the time) but... teleporting to family in Brazil/Sweden would be nice too... 🧐
+* Johanna (she/her) + teleportation
 * Danny + they/them or he/him + flying + 😴
 * Chris + he/him + teleportation 
 * Steph she/her + flying 
-* Esther, she/her + teleportation if flying is going into an airplane.. flying otherwise :P
+* Esther + she/her + teleportation if flying is going into an airplane.. flying otherwise :P
 * Richard Acton + + teleportation
 * Susana + she/her + flying (if its not on a plane, like an actual bird)
 * Arielle, she/her + teleportation, I'd save so much money on flights ✨
 * Dushime Richard  + teleportation
 * Kirstie + she/her + flying - I need to get out of my extreme productivity practices!
-* Ale, she/her, teleportation
+* Ale + she/her + teleportation
 
 ## Advertise and promote your event or anything exciting you're working on. ✨ 
 
 * Thinking about proposing a markdown flavour for protocols - inspired by the format of protocols.io - maybe some kind of extension to MyST (Richard J. Acton)
-*  I am moderating this upcoming panel on "Queer Representations of AI", which I'm excited about: [https://www.sas.ac.uk/events/queer-representations-ai](https://www.sas.ac.uk/events/queer-representations-ai) (Kalle)
+* I am moderating this upcoming panel on "Queer Representations of AI", which I'm excited about: [https://www.sas.ac.uk/events/queer-representations-ai](https://www.sas.ac.uk/events/queer-representations-ai) (Kalle)
     * So cool!
 
 ## Breakout rooms: Topic proposals and notes✨ 
