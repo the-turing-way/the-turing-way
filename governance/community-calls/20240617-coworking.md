@@ -2,15 +2,15 @@
 
 ## Attendees 
 
-   * Esther
-   * Anne
-   * Malvika
-   * Cass
-   * Ella
-   * Batool
-   * Ale
+* Esther
+* Anne
+* Malvika
+* Cass
+* Ella
+* Batool
+* Ale
 
-## Apologies:
+## Apologies
 
 * Kirstie
 *  
