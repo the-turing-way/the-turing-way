@@ -9,23 +9,16 @@ This is sometimes tricky, refer to the {ref}`ch-style-figures-advanced` section 
 We are very passionate about ensuring that the creators of the original image files (including you!) are {ref}`acknowledged appropriately<ch-style-figures-licence>`.
 Please do not use images that are not licenced for reuse.
 
-In this sub-chapter we have used the term **figure** to refer to an illustration that conveys information in the context of _The Turing Way_ chapters.
+In this sub-chapter, we have used the term **figure** to refer to an illustration that conveys information in the context of _The Turing Way_ chapters.
 The term **image** is used to refer to the file object itself.
 
 (ch-style-figures-licence)=
-
-## Images sources
-
-To facilitate figure modification, the availability of images sources may be important to enable further editing.
-It is recommended when appropriate to provide original source files along with the final format (such as `jpg` or `png`) used by figures.
-
-> **Example:** Photoshop uses source files with a `.psd` extension which allows manipulation of image layers before an export into a format like `.jpg`. Alternatively, the open source software Inkscape uses `.svg` files.
 
 ## Open licence
 
 Please ensure that you attribute the image files fairly and avoid files that are either restricted from reuse or lack reproduction permissions.
 
-The following recommendations will help you to check that you're using the images according to their licence permissions:
+The following recommendations will help you to check that you're using the images according to their license permissions:
 
 * You can source images in the public domain ([CC0 licence](https://creativecommons.org/share-your-work/public-domain/cc0)) or images shared under an appropriate permissive license.
   Images that are available under CC-BY 4.0 permissions are very easily interoperable with _The Turing Way_ as this is the same licence as the rest of the content for the book.
@@ -40,17 +33,22 @@ In general, make sure to always cite the image properly as directed by the image
 ## Image location, type, size and file name
 
 Every image file used in this book should be located in the directory `book/website/figures` of our [GitHub Repository](https://github.com/the-turing-way/the-turing-way/tree/main/book/website/figures).
-If you use a new image file, please add the file in the `figures` directory by either uploading via GitHub, or adding locally and pushing the change online when using git.
+If you use a new image file, please add the file in the `figures` directory by either uploading via GitHub or adding locally and pushing the change online when using git.
 
 Please upload `.jpg`, `.png`, or `.svg` files that are under 1MB to allow them to load faster in the online book.
-If your file is larger than 1MB, please use a local image editing tool, or online tool like [IMG2GO](https://www.img2go.com/compress-image) to compress your file.
+If your file is larger than 1MB, please use a local image editing tool or an online tool like [IMG2GO](https://www.img2go.com/compress-image) to compress your file.
 
-To name your image file, please use all-lowercase and separate words with hyphens (-).
+To name your image file, please use all lowercase and separate words with hyphens (-).
+
+### Images sources
+
+To facilitate figure modification in the future, it is recommended to share the original/raw or editable version of the image (image sources) when available to go along with the format (such as `jpg` or `png`) used to integrate a figure in the book.
+For example, open source software Inkscape uses `.svg` files and Photoshop uses source files with a `.psd` extension which allows manipulation of image layers before an export into a format like `.jpg`. 
 
 (ch-style-figures-alttext)=
 ## Alternative text
 
-Alternative text or alt text are used for describing the appearance and function of an image on an HTML page for users who cannot see it. 
+Alternative text or alt text is used for describing the appearance and function of an image on an HTML page for users who cannot see it. 
 Alt text is often used by visually impaired people who use assistive technology such as screen readers.
 Adding alt texts to figures is one of the first principles of web accessibility as it enables the screen reader software to read an alt text to its users helping them understand/explain the content.
 
