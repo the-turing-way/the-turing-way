@@ -9,7 +9,7 @@ Please refer to the {ref}`ch-style-figures-advanced` section for troubleshooting
 We are very passionate about ensuring that the creators of the original image files (including you!) are {ref}`acknowledged appropriately<ch-style-figures-licence>`.
 Please do not use images that are not licenced for reuse.
 
-```{admonition}
+```{note}
 In this sub-chapter, we have used the terms **figure** and **image** interchangeably to refer to an illustration that conveys information in the context of _The Turing Way_ chapters.
 The term **image** is used to refer to the file object itself.
 ```
