@@ -4,21 +4,24 @@
 We encourage you to use images in _The Turing Way_ book chapters to help readers understand the concepts discussed in the chapter better.
 
 This section of the style guide will explain how to use [Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/) (MyST) format to add them to the book with appropriate {ref}`alt text<ch-style-figures-alttext>` and {ref}`captions<ch-style-figures-caption>`. 
-This is sometimes tricky, refer to the {ref}`ch-style-figures-advanced` section for troubleshooting.
+Please refer to the {ref}`ch-style-figures-advanced` section for troubleshooting to tackle tricky cases.
 
 We are very passionate about ensuring that the creators of the original image files (including you!) are {ref}`acknowledged appropriately<ch-style-figures-licence>`.
 Please do not use images that are not licenced for reuse.
 
-In this sub-chapter, we have used the term **figure** to refer to an illustration that conveys information in the context of _The Turing Way_ chapters.
+```{admonition}
+In this sub-chapter, we have used the terms **figure** and **image** interchangeably to refer to an illustration that conveys information in the context of _The Turing Way_ chapters.
 The term **image** is used to refer to the file object itself.
+```
 
 (ch-style-figures-licence)=
 
 ## Open licence
 
-Please ensure that you attribute the image files fairly and avoid files that are either restricted from reuse or lack reproduction permissions.
+Please ensure that you use and attribute the image files fairly.
+Please avoid files that are either restricted from reuse or lack reproduction permissions.
 
-The following recommendations will help you to check that you're using the images according to their license permissions:
+The following recommendations will help you check that you're using the figures/images according to their license permissions:
 
 * You can source images in the public domain ([CC0 licence](https://creativecommons.org/share-your-work/public-domain/cc0)) or images shared under an appropriate permissive license.
   Images that are available under CC-BY 4.0 permissions are very easily interoperable with _The Turing Way_ as this is the same licence as the rest of the content for the book.
@@ -37,10 +40,11 @@ If you use a new image file, please add the file in the `figures` directory by e
 
 Please upload `.jpg`, `.png`, or `.svg` files that are under 1MB to allow them to load faster in the online book.
 If your file is larger than 1MB, please use a local image editing tool or an online tool like [IMG2GO](https://www.img2go.com/compress-image) to compress your file.
+Our GitHub workflow also triggers an action to compress large image files automatically.
 
 To name your image file, please use all lowercase and separate words with hyphens (-).
 
-### Images sources
+## Images sources
 
 To facilitate figure modification in the future, it is recommended to share the original/raw or editable version of the image (image sources) when available to go along with the format (such as `jpg` or `png`) used to integrate a figure in the book.
 For example, open source software Inkscape uses `.svg` files and Photoshop uses source files with a `.psd` extension which allows manipulation of image layers before an export into a format like `.jpg`. 
@@ -59,18 +63,20 @@ For more, visit the {ref}`Alt text section<ch-accessibility-alttext>`
 **Please note that a height of 500px works very well with _The Turing Way_ book, but this is only a suggestion.**
 
 (ch-style-figures-caption)=
-## Caption
+## Caption or Figure Title
 
-Captions appear below the figure.
+Captions or titles should appear below the figure.
 They should be short and concise and include a reference to the source where they are taken from.
-In particular it is important to describe the licence under which the image is re-used.
+It is particularly important to describe the licence under which the image is re-used.
+
+When available, a link to the raw file should be provided to allow any future reuse or modification required to match the content of a chapter.
 
 For example, a caption might say:
 
 > Making your first pull request on GitHub.
 > _The Turing Way_ project illustration by Scriberia.
 > Used under a CC-BY 4.0 licence.
-> DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+> The original file is available under DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 
 The syntax for this image is as follows, and the way it appears in the book is below the code snippet.
 
@@ -82,7 +88,7 @@ name: first-pull-request
 alt: Cartoon-like sketch of two persons sitting across from each other working on their laptops. A straight arrow on the top indicates the main branch of the repository that they are working on, a pull request is shown by a branch coming out of the main arrow labelled as Clone, followed by a Pull Request with the changes that the first person made in the branch, and the final step labelled as Approved that indicates approval of the changes by the second person. This arrow then merges back to the main arrow/repository.
 ---
 Making your first pull request on GitHub.
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. The original file is available under DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 ````
 
@@ -93,10 +99,10 @@ name: first-pull-request
 alt: Cartoon-like sketch of two persons sitting across from each other working on their laptops. A straight arrow on the top indicates the main branch of the repository that they are working on, a pull request is shown by a branch coming out of the main arrow labelled as Clone, followed by a Pull Request with the changes that the first person made in the branch, and the final step labelled as Approved that indicates approval of the changes by the second person. This arrow then merges back to the main arrow/repository.
 ---
 Making your first pull request on GitHub.
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. The original file is available under DOI:: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
-Please make sure that the link to the source is the {term}`digital object identifier <Digital Object Identifier>` not the Zenodo record.
+Please make sure that the link to the source and raw file are for the persistent identifiers, such as the {term}`digital object identifier <Digital Object Identifier>`.
 Also ensure that you have created a link to the source using markdown link formatting: `[text](url)`.
 
 (ch-style-figures-cross-referencing)=
@@ -121,6 +127,6 @@ We've noticed a couple of "gotchas" from contributors to _The Turing Way_ and we
 * `name:` is for including in reference links, it cannot have spaces.
 * The path to the figure will depend on the position of the .md file in the repo (one or two folders away from `website` will give `../` or `../../` respectively).
 * You can choose to include the file extension with your path, or you can use the format `path/filename.*` to allow Jupyter Book to decide which file to use in the case that multiple filetypes with the same name exist. Jupyter Book will [choose the one most appropriate to the intended output](https://jupyterbook.org/en/stable/content/figures.html#supported-image-formats). This is useful as it means that filetypes can be changed without breaking the pages that use those files.
-* You cannot have line breaks in the alt text, but you can have it in the caption.
-* Both `:` and `"` have syntactic meaning for Sphinx.
+* You cannot have line breaks in the alt text, but you can have them in the caption.
+* Both `:` and `"` have syntactic meanings for Sphinx.
   That means it is important that you do not use these characters in your alt text.
