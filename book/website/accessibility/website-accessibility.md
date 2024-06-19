@@ -1,9 +1,6 @@
-⚠️ **THIS NEEDS TO BE CHANGED** (cl-inclusive-events-website-accessibility)= ⚠️
+⚠️ **THIS NEEDS TO BE CHANGED** (cl-website-accessibility)= ⚠️
 
 # Website Accessibility
- ⚠️ **THIS NEEDS TO BE CHANGED** `s recommended in the {ref}Inclusive Events Communications Guide<cl-inclusive-events-comms-website> section, it can be incredibly helpful to centralize information about your event in an online location such as a website.
-If your event does decide to have a dedicated website, ensure that the site and its content meet Web Accessibility Standards. ⚠️
-
 The Web Accessibility Initiative outlines 4 principles that provide guidance on how to ensure that websites and their content are accessible.
 We have provided a summary with actionable examples here, and you can view the full Web Content Accessibility Guidelines (WCAG) on the Web Accessibility Initiative's website.
 
@@ -17,15 +14,17 @@ Operability means that all users can control and interact with any buttons or cl
 To meet this requirement, ensure that any buttons are able to be interacted with and clicked through different modalities for example, a mouse, a keyboard, or voice command.
 This is especially important for registration forms which often impose a time limit to complete them. 
 
-⚠️ **THIS NEEDS TO BE CHANGED**  Any registration forms you use for your event must have a way to extend - or turn off - the time limit function for completing the form.
+Operability can be specifically important when choosing or designing a website that involves registering for events or presentations. 
+Any registration forms you use for your event must have a way to extend - or turn off - the time limit function for completing the form.
 If you are using an external registration website, please check the accessibility guidance of that site to ensure that this feature is enabled. 
 It is incredibly important for people who use screen readers and others who may need more time to read and complete a form due to dyslexia, familiarity with the event's host language, or any other reason that impacts reading and language comprehension.
-Operability also requires that web pages have an informative title for the content on the page. ⚠️
+Operability also requires that web pages have an informative title for the content on the page. 
 
 ## 2. Understandability
 Understandability refers to how easy is it for a general audience to understand your website's use and content.
 For example, content being written in easy read, or plain language formats. 
-This is discussed in more depth in the  ⚠️ **THIS NEEDS TO BE CHANGED** {ref}Using Plain Language<cl-inclusive-events-comms-plain-language> section of the {ref}Inclusive Events Communication Guide<cl-inclusive-events-comms>. ⚠️ 
+This is discussed in more depth in the {ref}Using Plain Language<cl-ppie-events-comms-plain-language> section in the Guide for Collaboration.
+
 The Web Accessibility guidelines ask that any technical terms, jargon, idioms, slang and abbreviations be accompanied by a definition.
 Ideally, your site will also contain references to a Glossary that is linked to when those words appear. 
 You may need to develop a Glossary specific to your event and area, or consider what Glossaries have been developed by research funding bodies or University Communications teams and provide links if applicable.
