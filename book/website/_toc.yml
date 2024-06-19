@@ -306,6 +306,8 @@ parts:
                 file: project-design/persona/persona-creation
               - title: Contributor Pathways
                 file: project-design/persona/persona-contributors
+              - title: Identifying Learner Needs
+                file: project-design/persona/learnerneeds
           - title: File Naming Convention
             file: project-design/filenaming
           - title: Code Styling and Linting
