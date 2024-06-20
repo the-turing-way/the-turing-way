@@ -43,7 +43,7 @@ If you are intending to build a community for your project or to support partici
 * Contact communities from your stakeholder mapping and invite them to discusss the project and goals during planning.
 * Agree decision making processes for the project involving the community.
 * Plan contribution pathways for new participants, establish guidelines for new content, and how you will grow a sense of community.
-* Useful documentation: [Code of Conduct](ch-coc), [Contributing Guidelines](cl), [READMEs](https://the-turing-way.netlify.app/collaboration/github-novice/github-novice-firststeps.html?highlight=readmes), [governance documentation](er-ethics-open-source-governance), [Research Community Managers](cl-infrastructure-community-managers), [GitHub repo for Research Community Management resources](https://github.com/alan-turing-institute/open-research-community-management)
+* Useful documentation: [Code of Conduct](ch-coc), [Contributing Guidelines](cl), [READMEs](https://book.the-turing-way.org/collaboration/github-novice/github-novice-firststeps.html?highlight=readmes), [governance documentation](er-ethics-open-source-governance), [Research Community Managers](cl-infrastructure-community-managers), [GitHub repo for Research Community Management resources](https://github.com/alan-turing-institute/open-research-community-management)
 
 ## Outputs 
 * Plan for the different outputs of your research, such as publications, software, or datasets.

@@ -36,25 +36,13 @@ Leaders don't come with fully formed strategies.
 Often open leaders don't identify or call themselves leaders and don't engage with projects with the intention to take on leadership roles.
 
 This is where the concept of emergent strategy can help open leaders to navigate their roles in the ever-evolving world of data science, research and open science communities.
-We have mentioned [Emergent Strategy](https://adriennemareebrown.net/book/emergent-strategy) by Adrienne Maree Brown at the beginning of this chapter and recommend this as a practical handbook on mobilising communities, activism for social change, and nurturing deeper kinder connections in our communities through open leadership. 
+We have mentioned [Emergent Strategy](https://adriennemareebrown.net/book/emergent-strategy) by Adrienne Maree Brown at the beginning of this handbook (in a `document by Kirstie<fw-emergent-strategy>`) chapter and recommend this as a practical handbook on mobilising communities, activism for social change, and nurturing deeper kinder connections in our communities through open leadership. 
 
 Emergence is when new ideas emerge with time in a project or a community and as a result of bringing diverse members/perspectives into the team. 
 Emergent Strategy asks leaders to embrace the changes and evolve our planned strategy as leaders based on what seems sensible and needed to facilitate/guide/lead the team towards their shared goals.
-A [summary](https://fortelabs.co/blog/emergent-strategy-organizing-for-social-justice/) by Forbes Lab describes emergence as practical instead of theoretical. Brown’s definition of emergence comes from Nick Obolensky: “Emergence is the way complex systems and patterns arise out of a multiplicity of relatively simple interactions.” 
-
-```{note}
-Here are Adrienne Maree Brown's core principles of emergent strategy:
-
-* Small is good, small is all (The large is a reflection of the small)
-* Change is constant (Be like water)
-* There is always enough time for the right work. There is a conversation in the room that only these people at this moment can have. Find it.
-* Never a failure, always a lesson
-* Trust the People (If you trust the people, they become trustworthy)
-* Move at the speed of trust
-* Focus on critical connections more than critical mass—build resilience by building the relationships
-* Less prep, more presence
-* What you pay attention to grows
-```
+A [summary](https://fortelabs.co/blog/emergent-strategy-organizing-for-social-justice/) by Forbes Lab describes emergence as practical instead of theoretical.
+Brown’s definition of emergence comes from Nick Obolensky: “Emergence is the way complex systems and patterns arise out of a multiplicity of relatively simple interactions.” 
+The principles described by Brown has also informed and shaped _The Turing Way_ project as discussed in {ref}`fw-emergent-strategy`
 
 ## Leadership is Granted by Others
 

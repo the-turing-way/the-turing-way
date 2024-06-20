@@ -5,6 +5,21 @@
 A Machine Learning (ML) pipeline consists of a series of activities including the collection of data, training of an ML model, and the deployment of the model into use. 
 Data is integral throughout the ML process and the methods for which data is collected, annotated, processed, and shared will impact individuals and communities who may be represented in or the creators of the data, as well as data users who would like access to the data. 
 
+In addition to the technical decisions and team members involved in data governance, it is also important to think about the wider community involved in an ML project, including the data contributors, data subjects, data stewards, data annotators, and communities impacted by the model outputs.
+When possible, a ML team should consider how this wider community can be involved in data, model, and project governance.
+This can empower more people involved in and impacted by the machine learning pipeline and ensure more effective, sustainable, and equitable practices.
+The following framework can support the understanding of different community governance opportunities in the ML pipeline.
+
+
+```{figure} ../../figures/ml-pipeline-governance-opps.*
+---
+height: 400px
+name: ml-pipeline-governance-opps
+alt: Image of a black coloured pipeline with the title Governance Opportunities in the Machine Learning (ML) Pipeline. The pipeline has a funnel on the left and right side and is divided in three main sections representing the process of building an ML model, which are data collection, model training, and model deployment. At the top, the pipeline includes black boxes with different activities throughout the pipeline such as procure dataset, process and filter data, define the model architecture and training objectives, evaluate the model, and monitor real world use cases. At the bottom of the pipeline in bright blue boxes there are a series of questions like "whose data is used for training/evaluation? whose is missing?" These are opportunities to invite the community into data governance to answer the questions together and make group decisions on how to address the questions.
+---
+Governance Opportunities in the Machine Learning Pipeline. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.11485301](https://zenodo.org/records/11485302).
+```
+
 This chapter will cover examples of data governance practices for ML for different steps in the pipeline, which may include but not be exclusive to:
 - Data Collection
 - Data Management

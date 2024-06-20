@@ -53,7 +53,7 @@ The following drafts for the new chapters are open for reviews from anyone who m
 
 ### Review minor updates in the existing chapters
 
-Based on this [checklist for maintaining consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html#consistency-checklist), Paul Owoicho has opened a few PR’s fixing consistency issues in some existing chapters. 
+Based on this [checklist for maintaining consistency](https://book.the-turing-way.org/community-handbook/consistency.html#consistency-checklist), Paul Owoicho has opened a few PR’s fixing consistency issues in some existing chapters. 
 Help us test this consistency checklist by reviewing [these PRs](https://github.com/alan-turing-institute/the-turing-way/pulls?q=is%3Apr+is%3Aopen+label%3A%22good+first+PR+review%22).
 We also have [Good first issues for new contributors](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) that you can address by opening new PRs.
 
@@ -89,25 +89,25 @@ The full report will be shared in the next newsletter.
 ### Guides and templates to assist new contributors
 
 Our [GSoD](https://github.com/alan-turing-institute/the-turing-way/issues/1075) intern, Paul Owoicho has been working tirelessly to improve the project’s accessibility for our users and contributors. 
-With the support of his Open Life Science (OLS-2) team member, Neha Moopen, he has published a chapter in our community handbook on [Maintaining Consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html). 
+With the support of his Open Life Science (OLS-2) team member, Neha Moopen, he has published a chapter in our community handbook on [Maintaining Consistency](https://book.the-turing-way.org/community-handbook/consistency.html). 
 This chapter is a valuable resource to bring cohesiveness and a standard structure across the entire book through retrospective editing of existing chapters and development of new chapters through future contributions.
 Additionally, he has co-developed a set of templates for writing new chapters, creating case studies, and adding personal stories. 
 Check them out in our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way/tree/main/book/templates).
 
 ### Web Annotation by hypothes.is
 
-![Screenshot of our [welcome page](https://the-turing-way.netlify.app/welcome.html) showing an annotation added through hypothes.is](./images/2020-11-annotate-4.png)
-_Screenshot of our [welcome page](https://the-turing-way.netlify.app/welcome.html) showing an annotation added through hypothes.is._
+![Screenshot of our [welcome page](https://book.the-turing-way.org/welcome.html) showing an annotation added through hypothes.is](./images/2020-11-annotate-4.png)
+_Screenshot of our [welcome page](https://book.the-turing-way.org/welcome.html) showing an annotation added through hypothes.is._
 Using [Commenting and annotating](https://jupyterbook.org/interactive/comments.html) feature of the Jupyter Book, Martina G. Vilas and Batool Almarzouq have integrated [web.hypothes.is](https://web.hypothes.is/) in The Turing Way book. 
 This will enable our readers to comment on and highlight different parts of the book to share their thoughts, raise errors or create notes.
 
 ### New subchapters on Remote Collaboration and Research Data Management Toolkits
 
-After several months of wrangling contributions and compiling resources, we have finally merged our chapter on [Remote Collaboration](https://the-turing-way.netlify.app/collaboration/remote-collab.html). 
+After several months of wrangling contributions and compiling resources, we have finally merged our chapter on [Remote Collaboration](https://book.the-turing-way.org/collaboration/remote-collab.html). 
 This chapter consists of 10 subchapters, which largely aims to provide an action-oriented resource to users who are organising, hosting, chairing and attending virtual events such as team meetings, conferences, sprints, coworking and informal coffee-chats.
 
 A research data management (RDM) toolkit provides information and advice about the data management activities in the whole data lifecycle. 
-Thanks to Kim De Ruyck and Albert Hornos, we have a new subchapter on [RDM Toolkit](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-toolkits.html). 
+Thanks to Kim De Ruyck and Albert Hornos, we have a new subchapter on [RDM Toolkit](https://book.the-turing-way.org/reproducible-research/rdm/rdm-toolkits.html). 
 Read and share these resources, and help us enhance them by adding examples from your work.
 
 
@@ -146,7 +146,7 @@ _1 [Raina Quote Tweeting](https://twitter.com/rcamachotoro/status/13275764242791
 ## Connect with us!
 
 *  [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)_
-*  [The Turing Way book](https://the-turing-way.netlify.com/)
+*  [The Turing Way book](https://book.the-turing-way.org/)
 *  [GitHub repository](https://github.com/alan-turing-institute/the-turing-way)
 *  [Gitter chat room](https://gitter.im/alan-turing-institute/the-turing-way)
 *  [YouTube Videos](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)

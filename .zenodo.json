@@ -4,19 +4,11 @@
       "name": "The Turing Way Community"
     }
   ],
-  "keywords": [
-    "research practices",
-    "data science",
-    "reproducibility",
-    "collaboration",
-    "ethics",
-    "community",
-    "handbook"
-  ],
+  "description": "This is the most recent release of the main repository of The Turing Way Book",
   "license": {
     "id": "CC-BY-4.0"
   },
-  "publication_date": "2022-12-21",
-  "title": "The Turing Way: A handbook for reproducible, ethical and collaborative research",
-  "version": "1.1.0"
+  "publication_date": "2024-06-05",
+  "title": "The Turing Way handbook for reproducible, ethical and collaborative research",
+  "version": "1.2.2"
 }

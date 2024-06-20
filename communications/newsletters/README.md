@@ -1,7 +1,7 @@
 # Newsletters
 
 In this folder you can find records of our (approximately) monthly newsletters.
-To learn about how you can edit a newsletter draft, please read this chapter in [our Community Handbook](https://the-turing-way.netlify.app/community-handbook/newsletters.html).
+To learn about how you can edit a newsletter draft, please read this chapter in [our Community Handbook](https://book.the-turing-way.org/community-handbook/newsletters.html).
 
 In this repository, we store the newsletter drafts in markdown format and we recommend using this excellent [Markdown to HTML](https://www.browserling.com/tools/markdown-to-html) tool to make it nice and easy to transfer the content to TinyLetter before publishing.
 
