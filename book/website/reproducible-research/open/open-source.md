@@ -5,7 +5,7 @@
 ## What Is Open Source Software?
 
 When a software is open-source [{term}`def<Open Source Software>`], anybody can view, use, modify, and distribute its source code for any purpose.
-These permissions are enforced through an open-source licence.
+These permissions are enforced through an {ref}`open-source licence<rr-licensing>`.
 Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
 In its most basic form, open-sourcing your software means putting your code online where it can be viewed and reused by others.
 
