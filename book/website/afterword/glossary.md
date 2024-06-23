@@ -395,6 +395,13 @@ Open data
 Open Educational Resources
   Making educational resources publicly available to be re-used and modified.
 
+Open Source
+  [opensource.com](https://web.archive.org/web/20240618150233/https://opensource.com/resources/what-open-source) describes open source as: "Something people can modify and share because its design is publicly accessible".
+  The concept of 'open source' is now often extended beyond the context of its original coinage, {term}`software<Open Source Software>`, to other forms of cultural or creative output, such as {term}`hardware<Open Source Hardware>` and {term}educational resources`{Open Educational Resources}`.
+  Referring to something as 'open source' generally means that it is available under an {term}`open license<Open License>`.
+  The term can also extend to an {term}`open project<Open Project>` philosophy of collaboration beyond the mere availability and open licensing of the project's source materials.
+  The term tends to, but need not, be applied in contexts where there is some 'source' material that is processed or synthesised into an output, this may distinguish it from a 'creative commons' or 'free cultural work' which do not as obviously emphasise the availability source materials but rather end products, though they may include source materials.
+
 Open Source Hardware
   Hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design. 
 
