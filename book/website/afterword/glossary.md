@@ -423,7 +423,10 @@ Open Source Software
   For more details see: {ref}`Licensing<rr-licensing>` and {ref}`Open Source Software<rr-open-source>`.
 
 Open License
-  A license is a document that specifies what can and cannot be done with a work. It grants permissions and states restrictions. Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
+  A license is a document that specifies what can and cannot be done with a work.
+  It grants permissions and states restrictions.
+  Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
+  (See {ref}`licensing<rr-licensing>` for more details)
 
 Open Notebooks
   An emerging practice, documenting and sharing the experimental process of trial and error (see {ref}`Open Notebooks <rr-open-notebooks>`).
