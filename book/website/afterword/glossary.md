@@ -196,6 +196,11 @@ Federated Learning
 First author
   The most prominent position in academic authorship. It conveys this person's position as the researcher who has made the greatest contribution to the research.
 
+Free / Libre Software
+  The [Free Software Foundation (FSF)](https://web.archive.org/web/20240619064659/https://www.gnu.org/philosophy/free-sw.html) states that: "'Free software' means software that respects users' freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software.", refer to their website for a lengthier definition, see also the [Debian Free Software Guidelines](https://web.archive.org/web/20240517221908/https://wiki.debian.org/DebianFreeSoftwareGuidelines).
+  Free software does not have to be monetarily free (gratis) you can buy and sell copies.
+  Its chief concern is liberty not price, hence the use of 'libre software' as the word free in english does not distinguish these concepts.
+  Notably almost all {term}`open source software<Open Source Software>` is also 'free' and the different terms reflect philosophical differences largely in the motivation for advocating for these freedoms.
 ```
 
 ---
