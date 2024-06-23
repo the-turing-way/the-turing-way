@@ -575,6 +575,10 @@ Shared authorship
 Smoke Testing
   Very brief initial checks that ensure the basic requirements required to run the project hold. If these fail there is no point proceeding to additional levels of testing until they are fixed.
 
+Source Available
+  Where the source code of a piece of software is made available but under the terms of an {term}`open license<Open License>`, you may have to pay to access the source code and agree to terms which prohibit its redistribution, or the code may be generally available and only prohibit commercial redictribution.
+  Whilst Generaly used in the context of software it can apply in other contexts such as {term}`open hardware<Open Hardware>`.
+
 Staged
   Staging the changes that will be included in the next git commit.
 
