@@ -399,6 +399,9 @@ Open Access publishing (gratis)
 Open Access Publishing (libre)
   Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users the right to copy, reuse, and remix the publication.
 
+Open Core
+  A model for the monetisation of software where the 'core' compenents are {term}`open source<Open Source Software>` but there are additional features and/or hosted software as a service versions of, or extensions to, the software which are proprietary and paid for.
+
 Open data
   Documenting and sharing research data openly for re-use.
 
