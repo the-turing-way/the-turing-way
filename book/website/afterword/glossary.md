@@ -405,6 +405,17 @@ Open Source
 Open Source Hardware
   Hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design. 
 
+Open Source Software
+  Broadly, users of the software must able to inspect, modify and redistribute the source code of the software as they see fit, and not restrict the uses to which the code can be put or by whom it can be used.
+
+  The [Open Source Initiative (OSI)](https://opensource.org/) offers a widely used definition of Open Source Software: The [Open Source Definition (OSD)](https://web.archive.org/web/20240619054907/https://opensource.org/osd) which is comprised of 10 criteria with which the terms of distribution of software must comply to meet their definition.
+  The OSI maintains a list of licenses which have gone through their review process and been approved.
+
+  Open source software should not be confused with {term}`source available<Source Available>` software it is not sufficient for the source code to be made available for a project to be considered open source.
+
+  Almost all open source software is also {ref}`Free / Libre Software<Free / Libre Software>`.
+  For more details see: {ref}`Licensing<rr-licensing>` and {ref}`Open Source Software<rr-open-source>`.
+
 Open License
   A license is a document that specifies what can and cannot be done with a work. It grants permissions and states restrictions. Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
 
