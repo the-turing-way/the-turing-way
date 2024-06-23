@@ -170,14 +170,17 @@ Digital Object Identifier
 
 ```{glossary}
 
+End to End Test
+  A test that runs the program from beginning to end and verifies that the output is correct.
+
 Epistemology
-  Theory of knowledge and deals with how knowledge is gathered and from which sources. In research terms your view of the world and of knowledge strongly influences your interpretation of data and therefore your philosophical standpoint should be made clear from the beginning. (Source: [Post by Nicole Brown](https://www.nicole-brown.co.uk/epistemology/))
+  Theory of knowledge and deals with how knowledge is gathered and from which sources.
+  In research terms your view of the world and of knowledge strongly influences your interpretation of data and therefore your philosophical standpoint should be made clear from the beginning.
+  (Source: [Post by Nicole Brown](https://www.nicole-brown.co.uk/epistemology/))
 
 Equitable, Diverse and Inclusive Practices
   Ensuring scholarship is open to anyone without barriers based on factors such as race, background, gender, and sexual orientation.
 
-End to End Test
-  A test that runs the program from beginning to end and verifies that the output is correct.
 Ethical Source Software
   These licenses were created as 'traditional' {term}`open source <Open Source Software>` license make no restictions on the uses to which  the software can be put including unethical uses.
   These licenses require that software is used in ways that respect fundamental human rights.
@@ -197,7 +200,8 @@ FAIR
   Findable, Accessible, Interoperable and Reusable.
 
 Federated Learning
-  A design paradigm for information processing technologies in which the processing of information is decentralized and local data samples are not exchanged in full with a central entity. Used in machine learning to denote a system where learning is carried out via multiple nodes through the exchange of parameter values or other learning products rather than data samples directly.
+  A design paradigm for information processing technologies in which the processing of information is decentralized and local data samples are not exchanged in full with a central entity.
+  Used in machine learning to denote a system where learning is carried out via multiple nodes through the exchange of parameter values or other learning products rather than data samples directly.
 
 First author
   The most prominent position in academic authorship. It conveys this person's position as the researcher who has made the greatest contribution to the research.
@@ -422,6 +426,10 @@ Open Source Software
   Almost all open source software is also {ref}`Free / Libre Software<Free / Libre Software>`.
   For more details see: {ref}`Licensing<rr-licensing>` and {ref}`Open Source Software<rr-open-source>`.
 
+Open Scholarship
+  This is a concept that extends open research further.
+  It relates to making other aspects of scientific research open to the public such as open educational resources, having inclusive practice and citizen science.
+
 Open License
   A license is a document that specifies what can and cannot be done with a work.
   It grants permissions and states restrictions.
@@ -431,17 +439,14 @@ Open License
 Open Notebooks
   An emerging practice, documenting and sharing the experimental process of trial and error (see {ref}`Open Notebooks <rr-open-notebooks>`).
 
-Open Scholarship
-  This is a concept that extends open research further. It relates to making other aspects of scientific research open to the public such as open educational resources, having inclusive practice and citizen science.
-
 Open Project
-  *Same as Open Science or Open Research Projects*. A project in which a significant amount of collaboration between the core or leadership team and the wider community takes place in the form of online interactions. Community interactions should maintain transparency and openness of the project to facilitate the growth of your community.
-
-Open Source Software
-  Documenting research code and routines, and making them freely accessible and available.
+  *Same as Open Science or Open Research Projects*.
+  A project in which a significant amount of collaboration between the core or leadership team and the wider community takes place in the form of online interactions.
+  Community interactions should maintain transparency and openness of the project to facilitate the growth of your community.
 
 ORCID
-  Open Researchers and Contributor iD. It is a long lasting unique identifier for you as a researcher. A persistent digital identifier for researchers' that can be used on publications to ensure fair credit is given for all the researchers works.
+  Open Researchers and Contributor iD. It is a long lasting unique identifier for you as a researcher.
+  A persistent digital identifier for researchers' that can be used on publications to ensure fair credit is given for all the researchers works.
 
 Owner
   The person/s who has administrative ownership over the organization or repository (not always the same as the original author).
