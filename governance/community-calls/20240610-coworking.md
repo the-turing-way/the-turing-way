@@ -1,4 +1,4 @@
-# Notes 20 May 2024
+# Notes 10 June 2024
 
 ## Attendees
 
