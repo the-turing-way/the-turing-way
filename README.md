@@ -837,7 +837,7 @@ Contributions of any kind welcome!
       <sub><b>Batool Almarzouq (batool664)</b></sub>
       <br />
       <sub><b>34202 words</b></sub>
-      <br /><sub><b><code title="Arabic">ar</code></b>, <b><code title="Chinese Simplified">zh-CN</code></b>, <b><code title="French">fr</code></b>, <b><code title="German">de</code></b>, <b><code title="Italian">it</code></b>, <b><code title="Japanese">ja</code></b>, <b><code title="Portuguese, Brazilian">pt-BR</code></b>, <b><code title="Spanish">es</code></b>, <b><code title="Spanish, Latin America">es-419</code></b>, <b><code title="Turkish">tr</code></b></sub>
+      <br /><sub><b><code title="Arabic">ar</code></b>, <b><code title="Chinese Simplified">zh-CN</code></b>, <b><code title="French">fr</code></b>, <b><code title="Italian">it</code></b>, <b><code title="Japanese">ja</code></b>, <b><code title="Portuguese, Brazilian">pt-BR</code></b>, <b><code title="Spanish, Latin America">es-419</code></b></sub>
     </td>
     <td align="center" valign="top">
       <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/145/medium/06752c8f7224d971a260ffbdb67071e6.png" />
@@ -929,7 +929,7 @@ Contributions of any kind welcome!
       <sub><b>melibleq</b></sub>
       <br />
       <sub><b>1998 words</b></sub>
-      <br /><sub><b><code title="Arabic">ar</code></b>, <b><code title="Portuguese, Brazilian">pt-BR</code></b>, <b><code title="Spanish, Latin America">es-419</code></b></sub>
+      <br /><sub><b><code title="Portuguese, Brazilian">pt-BR</code></b></sub>
     </td>
     <td align="center" valign="top">
       <img alt="logo" style="width: 100px" src="https://production-enterprise-static.downloads.crowdin.com/avatar/139/medium/2449eb1df310dcaff0ccb929817c5543.jpeg" />
