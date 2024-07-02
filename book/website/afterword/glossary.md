@@ -405,8 +405,10 @@ Open Scholarship
 Open Project
   *Same as Open Science or Open Research Projects*. A project in which a significant amount of collaboration between the core or leadership team and the wider community takes place in the form of online interactions. Community interactions should maintain transparency and openness of the project to facilitate the growth of your community.
 
-Open Source Software
-  Documenting research code and routines, and making them freely accessible and available.
+Open Source
+  Open source software is software whose source code can be freely used, modified, and shared (in both modified and unmodified form).
+  Today the concept of "open source" is often extended beyond software, to represent a philosophy of collaboration in which source files of digital resources are made available online to be used, modified and shared.
+  Examples of open source artefacts which are not specifically software encompass open source resources, open source educational resources, open source hardware or open source image.
 
 ORCID
   Open Researchers and Contributor iD. It is a long lasting unique identifier for you as a researcher. A persistent digital identifier for researchers' that can be used on publications to ensure fair credit is given for all the researchers works.
