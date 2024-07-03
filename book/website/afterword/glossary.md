@@ -199,6 +199,11 @@ Ethical Source Software
 FAIR
   Findable, Accessible, Interoperable and Reusable.
 
+Fair-code
+  A software licensing model where code is commercially restricted by it's authors but the source code is generally available and can be freely distributed and modified but with limits on how and if it can be used commercially.
+  The model is described at [faircode.io](https://web.archive.org/web/20240621082333/https://faircode.io/), examples include the [Business Source License](https://web.archive.org/web/20240608005051/https://mariadb.com/bsl11/) and the [Elastic License 2.0](https://web.archive.org/web/20240625130857/https://www.elastic.co/licensing/elastic-license).
+  Fair-code can be considered a subset of {term}`source available<Source Available>` code.
+
 Federated Learning
   A design paradigm for information processing technologies in which the processing of information is decentralized and local data samples are not exchanged in full with a central entity.
   Used in machine learning to denote a system where learning is carried out via multiple nodes through the exchange of parameter values or other learning products rather than data samples directly.
