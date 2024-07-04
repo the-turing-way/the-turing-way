@@ -217,6 +217,11 @@ Free / Libre Software
   Free software does not have to be monetarily free (gratis) you can buy and sell copies.
   Its chief concern is liberty not price, hence the use of 'libre software' as the word free in english does not distinguish these concepts.
   Notably almost all {term}`open source software<Open Source Software>` is also 'free' and the different terms reflect philosophical differences largely in the motivation for advocating for these freedoms.
+
+Free Cultural Works
+  A list of conditions under which a work must be shared in order to be considered 'free' meaning that anyone is free to use, modify and distribute the work including derived works for any purpose.
+  For a full description see: [freedomdefined.org](https://web.archive.org/web/20240630025334/https://freedomdefined.org/Definition)
+  This is a generalisation of the 'four freedoms' originally developed to define {term}`free software<Free / Libre Software>`
 ```
 
 ---
