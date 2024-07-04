@@ -123,6 +123,13 @@ Contributors
 Corresponding author
   The person who administers an academic article for the research group. They are responsible for receiving the reviewers comments, the proofs, corresponding with the editors and their details are printed on the final version of the published article.
 
+Creative Commons
+  Creative commons licenses provide standard language with which to place a creative work into the commons by providing simple terms under which others can re-use it.
+  This is necessary as in almost all legal regimes by default authors reserve all rights to works even if they make them publicly available unless they explicitly provide a license stipulating otherwise.
+  For more on this refer to the chapter: {ref}`Licensing<rr-licensing>`.
+  There are a number of variants of the license which add terms to the CC0 or public domain license such as requiring attribution (BY), prohibiting commercial re-use (NC), prohibiting derivative works (ND), and requiring that any derivative works be shared under the same terms (SA).
+  The organisation [Creative Commons (CC)](https://web.archive.org/web/20240704044626/https://creativecommons.org/) is a non-profit (501(c)(3)) based in the USA with a number of international affiliates.
+
 CRediT Taxonomy
   The CRediT Taxonomy is a high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. These details are becoming increasingly required by journals as well as authors meeting authorship criteria.
 
