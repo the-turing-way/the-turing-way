@@ -202,6 +202,7 @@ FAIR
 Fair-code
   A software licensing model where code is commercially restricted by it's authors but the source code is generally available and can be freely distributed and modified but with limits on how and if it can be used commercially.
   The model is described at [faircode.io](https://web.archive.org/web/20240621082333/https://faircode.io/), examples include the [Business Source License](https://web.archive.org/web/20240608005051/https://mariadb.com/bsl11/) and the [Elastic License 2.0](https://web.archive.org/web/20240625130857/https://www.elastic.co/licensing/elastic-license).
+  A number of attempts have been made to make licenses with a similar intent, this space is somewhat controversial the free software movements prefered mech
   Fair-code can be considered a subset of {term}`source available<Source Available>` code.
 
 Federated Learning
