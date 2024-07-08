@@ -331,7 +331,7 @@ Last author
 
 Machine Learning (ML)
   Methods which allow computational systems to extract regularities from data which permit them to perform tasks such as prediction and categorisation in a way that is at least superfially analogous to how biological systems learn.
-  A broard sub-field of {term}`Artificial Intelligence (AI)<Artificial Intelligence (AI)>` generally distinct from Symbolic Artificial inteligence, also know as GOFAI (good old fashioned AI), which focuses on programmed systems which perform logical reasoning.
+  A broad sub-field of {term}`Artificial Intelligence (AI)<Artificial Intelligence (AI)>` generally distinct from Symbolic Artificial inteligence, also know as GOFAI (good old fashioned AI), which focuses on programmed systems which perform logical reasoning.
   Machine Learning (ML) is sometimes used interchangeably with Artificial Intelligence (AI), but often employed to differentiate concrete or extant systems and algorithms from broarder and more speculative approaches to synthetic intelligent systems.
 
 Machine Readable
