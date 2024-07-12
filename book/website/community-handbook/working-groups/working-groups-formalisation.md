@@ -9,21 +9,24 @@ This section is designed to guide the creation of WGs, from brainstorming to est
 A few guiding questions that may help with the process of identifying if a WG should be created (or not!) are:
 
 * **Establishing Need**: What need does this WG fulfill for *The Turing Way* community?
-* **Establishing Requirements**: Does this topic or type of work require ongoing support, or can it be integrated into another format? (Should this be a WG, or can this task be accomplished in Collaboration Cafes?)
+* **Establishing Requirements**: Does this topic or type of work require ongoing support, or can it be integrated into another format? (Should this be a WG, or can this task be accomplished in Collaboration Cafe?)
 * **Establishing Membership**: Who would be a member of this WG currently (at the time of founding)?
 
 ### Establishing Purpose for the Working Group
 
 To create a WG, its purpose must be established. 
-This can be done independently, and/or with the assistance of core delivery team staff and/or brainstorming with other community members and leaders. 
+This can be done independently, and/or with the assistance of delivery team staff and/or brainstorming with other community members and leaders. 
 Establishing the purpose of a WG may require a series of brainstorming sessions and workshops, with various resources available to facilitate this process.
 
-The *The Turing Way* Research Community Manager or Research Project Manager may also assist in this process through facilitated sessions conducted at the Collaboration Cafe community call or in separate discussions. Please reach out to them if you have any questions about the process or would like support in getting started.
+The *The Turing Way* Research Community Manager or Research Project Manager may also assist in this process through facilitated sessions conducted at a Collaboration Cafe community call or in dedicated meetings or asynchronous discussions.
+Please reach out to them if you have any questions about the process or would like support in getting started.
 
 A WG may focus on:
-1. A specific topic related to or of interest to *The Turing Way* community (such as, localisation, open-source infrastructure maintenance, research infrastructure roles, research data management).
-2. A type of ongoing task or work currently being done within the project (such, training, mentoring, reviewing issues/pull requests).
-3. Any other aspect you would like to introduce to the community!
+1. A specific topic related to or of interest to *The Turing Way* community.
+   * For example: localisation, professionalising research infrastructure roles, accessibility in open source communities and outputs.
+2. A type of ongoing task or work currently being done within the project.
+   * For example: Book Dash event strategy and delivery, open-source infrastructure maintenance, providing training and mentorship.
+3. Any other aspect you would like to introduce to the community! `for discussion - is this true?`
 
 ### Proposing a Working Group
 
@@ -36,9 +39,10 @@ Ideally, the proposing party should discuss their plan with *The Turing Way* Res
 Once proposed, the Research Community Manager will present this proposal to the rest of the project delivery team and share it with the community more broadly, inviting their inputs. 
 The project delivery team will discuss the proposal in the context of other WGs, feedback from the community, and ongoing projects. 
 Feedback from their discussion will be shared directly on the GitHub issue. 
+
 Based on the community feedback, the number of members interested, and feasibility for the work to be supported in *The Turing Way*, a final decision will be made and communicated by the project leadership with the proposing party.
 
-### Approval for Esablishing a Working Group
+### Approval for Establishing a Working Group
 
 The approval process for a WG involves engagement from the wider community and the project delivery team to understand what resources might be available in supporting the WG and if the WG's aims are appropriate for the community.
 

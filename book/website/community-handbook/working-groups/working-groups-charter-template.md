@@ -23,7 +23,7 @@ The WG also considers alternatives suggested by WG members, community members, a
 
 #### Structure of the WG
 
-*Guidance and recommendations are provided in the chapter, {ref}`<ch-working-groups-guidelines-roles>`.*
+*Guidance and recommendations are provided in the chapter, {ref}`<ch-working-groups-roles>`.*
 
 - Chairs: [NAMES]
 - Documentarian: [NAMES]
@@ -75,7 +75,7 @@ Provide links to resources and additional information WG members should have acc
 
 ### Guiding Principles
 
-- The WG members establish clear roles and responsibilities (read guidelines in {ref}`working-groups-guideline`).
+- The WG members establish clear roles and responsibilities (read guidelines in {ref}`ch-working-groups-roles`).
 - The WG chairs facilitate open and regular meetings to discuss agenda points invited from the WG members.
 - In areas where the WG has decision-making authority, members will strive to reach an agreement by consensus.
 - For decision-making related to agenda points or matters discussed in the WG, consensus-based recommendations and decisions are clearly communicated.
@@ -86,7 +86,7 @@ Provide links to resources and additional information WG members should have acc
 
 #### Reciprocity and Transparency in Decision-Making
 
-This section is developed using recommendations from {ref}`the WG Guidelines<ch-working-groups-principles>`.
+This section is developed using recommendations from {ref}`the WG Guidelines<ch-working-groups-guiding-principles>`.
 
 ```
 Notes from how the WG operationalises reciprocity and transparency in decision-making.

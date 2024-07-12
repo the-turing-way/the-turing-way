@@ -30,5 +30,5 @@ You can find out more about our current working groups and how to join them at `
 * Accessibility
 * ...
 
-In this chapter you can find *The Turing Way's* {ref}`working group guiding principles<ch-working-groups-guiding-principles>` {ref}`working group guidelines<ch-working-groups-guidelines>` and our {ref}`process for setting up a WG<ch-working-groups-formalising>` (and the associated process for sunsetting the group when needed).
+In this chapter you can find *The Turing Way's* {ref}`working group guiding principles<ch-working-groups-guiding-principles>` {ref}`working group roles and responsibilities<ch-working-groups-roles>` and our {ref}`process for setting up a WG<ch-working-groups-formalisation>` (and the associated process for sunsetting the group when needed).
 We also include {ref}`a template working group charter<ch-working-groups-charter-template>` if you're interested in defining a new working group.
