@@ -33,7 +33,7 @@ The Chair will serve as the "Liaison" for *The Turing Way* leadership, and will 
 Chairs will also be responsible for relaying feedback, announcements and discussions from the leadership or *The Turing Way* delivery team to the WG.
 If a chair is unable to represent their WG in a specific meeting, they must identify a member from the WG who can represent the group and share notes from the meeting.
 
-### Documentarian
+### Secretary
 
 The documentarian supports the WG in improving transparency around their work, so that those who are not yet part of the WG but are interested in their work can follow or engage with their work.
 The documentarian is responsible for ensuring the logistical reporting of the group's work. 

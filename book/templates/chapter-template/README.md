@@ -12,7 +12,7 @@ This means that when your chapter is added to the book, it will belong to one of
 Structurally, a Guide in _The Turing Way_ Github repository is a folder and your chapter is a sub-folder within it.
 All Guides in _The Turing Way_ live in the `book/website` directory.
 
-For example, if you wrote the [Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html) Chapter in the Guide to Reproducible Research the file structure will resemble the following:
+For example, if you wrote the [Version Control](https://book.the-turing-way.org/reproducible-research/vcs.html) Chapter in the Guide to Reproducible Research the file structure will resemble the following:
 
 ```
 book\website
@@ -91,7 +91,7 @@ Use `chapter-resources.md` to tell readers what topics to explore next and where
 
 ### Follow the style and consistency guidelines
 
-As you write your chapter, keep _The Turing Way's_ [style](https://the-turing-way.netlify.app/community-handbook/style.html) and [consistency](https://the-turing-way.netlify.app/community-handbook/consistency.html) recommendations in mind.
+As you write your chapter, keep _The Turing Way's_ [style](https://book.the-turing-way.org/community-handbook/style.html) and [consistency](https://book.the-turing-way.org/community-handbook/consistency.html) recommendations in mind.
 This ensures that your new content is accessible, and fits the overall style, structure, and formatting of _The Turing Way_ book.
 
 ### Name files/folders appropriately
@@ -138,11 +138,11 @@ For example, the Version Control chapter in the Guide for Reproducible Research 
 
 ### Reference external sources appropriately
 
-Ensure external sources are properly referenced and included in _The Turing Way's_ centralised bibtex file as recommended in the [style guide](https://deploy-preview-1459--the-turing-way.netlify.app/community-handbook/style/style-citing.html#ch-style-citing)
+Ensure external sources are properly referenced and included in _The Turing Way's_ centralised bibtex file as recommended in the [style guide](https://deploy-preview-1459--book.the-turing-way.org/community-handbook/style/style-citing.html#ch-style-citing)
 
 ### Update the book-wide glossary
 
-_The Turing Way_ maintains a book-wide glossary located in its [Afterword](https://the-turing-way.netlify.app/afterword/glossary.html).
+_The Turing Way_ maintains a book-wide glossary located in its [Afterword](https://book.the-turing-way.org/afterword/glossary.html).
 When writing your chapter, update the book-wide glossary with the key terms in your chapter that readers should remember.
 For each term, cross-reference to the subchapter/section where you explained it.
 

@@ -1,7 +1,7 @@
 # From Zero to Binder in Julia!
 
 :construction: :construction: :construction: This file is no longer maintained!
-Please see the [Zero-to-Binder tutorial in the Guide for Communication](https://the-turing-way.netlify.app/communication/binder/zero-to-binder.html) instead! :construction: :construction: :construction:
+Please see the [Zero-to-Binder tutorial in the Guide for Communication](https://book.the-turing-way.org/communication/binder/zero-to-binder.html) instead! :construction: :construction: :construction:
 
 Sarah Gibson & Oliver Strickson, _The Alan Turing Institute_
 

@@ -54,5 +54,5 @@ Community policy and norms should be communicated from the start to facilitate o
 
 Describe explicitly who is considered the project owner.
 You should share credit with the community of contributors instead of only attributing individuals administering the project.
-For example, when citing the project, use “Community” as the first author {ref}`as practised in The Turing Way<welcome-citing>`.
+For example, when citing the project, use “Community” as the first author {ref}`as practised in The Turing Way<fw-cite>`.
 Contribution guidelines, Code of Conduct (see Open Source Guide for reference) and other community pages on your project repository can help in setting the tone for the culture you want to promote in the community, and how contributors are supported in their participation.

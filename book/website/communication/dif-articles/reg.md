@@ -62,7 +62,7 @@ If you undertook any further analyses that you didn't outline in your protocol t
 (cm-dif-articles-registered-reports-review)=
 ## How do you review a Registered Report?
 
-You can find general guidance on how to peer review a paper in our peer review chapter [here](https://the-turing-way.netlify.app/communication/peer-review.html). 
+You can find general guidance on how to peer review a paper in our peer review chapter [here](https://book.the-turing-way.org/communication/peer-review.html). 
 
 For registered reports specifically, they are reviewed twice. 
 This happens once at stage 1 (study protocol) and again at stage 2 (research article). 
