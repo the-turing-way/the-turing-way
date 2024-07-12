@@ -1,21 +1,17 @@
-(ch-working-groups-guidelines)=
-# Guidelines for the Working Groups 
+(ch-working-groups-roles)=
+# working Groups: Roles and Responsibilities
 
-All WGs, teams, and people within *The Turing Way* are responsible for adhering with our [Code of Conduct](https://the-turing-way.netlify.app/community-handbook/coc) and our (upcoming) [Accessibility Policy](https://github.com/the-turing-way/the-turing-way/issues/3145), both in organising WGs and facilitating WGs' activities.
+All WGs, teams, and people within *The Turing Way* are responsible for adhering with our [Code of Conduct](https://the-turing-way.netlify.app/community-handbook/coc) and our [Accessibility Policy](https://github.com/the-turing-way/the-turing-way/issues/3145), both in organising WGs and facilitating WGs' activities.
 
-Members of WGs will be responsible for establishing their group structures that that are:
+Members of WGs will be responsible for aligning with our working group guiding principles <!-- reformat to reference --> and thus ensuring their efforts are:
 1. **Open & Transparent** for others to learn about, and join in on;
 2. **Inclusive** for all kinds of people and expertise;
 3. **Accessible** to join and participate in.
 
-Each WG will also be responsible to document their ways of working and ongoing projects.
-WGs should discuss specific support they might need in their work with the *The Turing Way* team, specifically our Research Community Manager (but you can each out to any of the co-leads and project manager too!).
+In this subchapter, we discuss the roles and responsibilities of working group members.
+In the next subchapter you will learn about how to propose and manage a working group.
 
-In this subchapter, we discuss the roles and responsibilities of WG, in the next subchapter you will learn about how to propose and manage a WG.
-
-(ch-working-groups-guidelines-roles)=
-## Roles and Responsibilities
-
+<!-- This content is really intersting but I think its in the wrong place... 
 We provide example of structure and roles for different members in the WG.
 However, please note that the roles suggested below are not meant to be permanent (for example, a WG chair should not be a permanent appointee), but rather a guiding structure that WGs can begin their work with, and then expand, remix, and reuse for their own purposes.
 All roles may be temporarily appointments or long-term, as agreed within the WG.
@@ -24,14 +20,13 @@ One person may occupy multiple roles.
 However, one person should not chair multiple WGs, in order to enable diffusion of responsibilities and ensure representation of different members in leadership roles. 
 
 Community members can join any number of WGs, however, we discourage joining more than one or two WGs to prevent over-extension of individuals within the community.
+-->
 
-Roles are suggested not in order to create hierarchy within a WG, but to enable the smooth operation and maintenance of the collective team, as well as to define responsibilities clearly (and avoid tyranny of structurelessness).
+### Chair or Co-Chairs
 
-### Chair and Co-Chairs
+The Chair or Co-Chairs of a working group provide leadership for the team and facilitate the sustained delivery of the purpose for which the group was created.
+The Chair or Co-Chairs are responsible for ensuring the working group's responsibilities are fairly distributed, and ensuring the broader accountability of the assembled group. 
 
-These person(s) are responsible for the creation and continuation of a WG. 
-Chairs provide leadership and facilitating the WGs work.
-Chairs are responsible for organising and chairing meetings, ensuring that the responsibilities are fairly distributed, and ensuring the broader accountability of the assembled group. 
 While this role may be occupied by multiple people, it is important to establish how each person upholds the responsibilities of a chair in an equitable way. 
 
 The Chair will serve as the "Liaison" for *The Turing Way* leadership, and will participate in meetings where the representation from the WG in wider governance spaces might be needed. 
@@ -96,63 +91,6 @@ The group charter should provide, to the degree WG members are able to, the foll
 - **Purpose**: a clear statement describing area of WG's work
 - **Roles and Responsibilities**: developed based on the guidance provided in this chapter
 - **Infrastructure and Resources**: selected by WG to support their work
-- **Guiding Principle**: suggestions are provided in the template document
+- **Guiding Principles**: suggestions are provided in the template document
 - **Terms of Membership**: WGs can discuss and agree on appropriate terms and length of membership, such as for each role
 - **Meetings and Communications**: details about WG meetings, suggestions are provide in the template document
-
-(ch-working-groups-principles)=
-## Reciprocity, Openness and Transparency in Decision-Making
-
-In addition, all WGs should follow these three practices, as they relate to:
-1. **Reciprocity** within and towards the broader Turing Way community;
-2. **Open sharing** of practices and ways of working;
-3. **Transparent decision-making** within the WG.
-
-Below we share a few examples of questions that will help WG members in operationalising these practices.
-
-### Reciprocity
-
-All WGs within *The Turing Way* foster a reciprocal relationship with the wider community, representing sustained engagement by community members on a topic or subject.
-
-To identify information and knowledge the WG can actively share with the community, the following questions can be asked:
-- Where in the WG's work can community members engage or contribute?
-- Are there things that the WG is trying to do within a small group that the broader community can help with?
-- Are there lessons the WG has learned that can be fed back to *The Turing Way* book and the wider community?
-- What progress has the WG made that should be highlighted and shared more broadly?
-- Are there places where feedback and active discussions with more members outside the WG can be invited?
-
-Recommendation and insights from answering these questions can be shared in the charter document.
-
-The active sharing and reciprocity can be maintained through engagement in various forms, including:
-- Using Community Calls like the Collaboration Cafe for WG meetings, discussions, and/or ongoing co-working.
-- Hosting Fireside Chats and/or separate events (in consultation with and supported by the core staff delivery team) on topics related to the WG activities.
-- Documenting related practices and/or topics in *The Turing Way* guides, either in the Community Handbook or other ongoing guides within the project.
-- Creating a new recommendation and guidance in the Community Handbook to promote in how *The Turing Way* community works.
-- Collaborating with existing WGs on projects related to infrastructure, accessibility, translation, or other themes.
-
-All WGs should be represented at (such as through the WG chair), and contribute to the *The Turing Way* Community Forums (such as by sharing updates and inviting new members to participate in their work). 
-Although it might not always be possible due to the time zones or other factors, all WG members are encouraged to attend these events.
-
-### Transparency
-
-All WG activities should be documented transparently so that members outside the WG (including those not already engaging with *The Turing Way* community) can learn about the WG's activities and projects.
-
-To embed transparency in their work, the WG members should ask following questions (and more) when creating their documentation:
-- How can more community members join in on WGs activities or start their own?
-- How visible are various WG's activities for the rest of the community?
-- How can transparent reporting invite more people to participate in the conversation?
-
-### Decision-making
-
-<!--- This section can provide more examples and links from existing work - MS --->
-
-In principle, primary decision-making should lie with the WG team itself. 
-However, there may be different types of decisions that might require input from different people across the community, project leadership and/or project delivery team for consultation and support.
-
-To identify where in their work a decision may or may not require inputs, support, or involvement from specific party outside the WG, we recommend WGs to use the following questions when creating their documentation, and invite clarity from the project delivery team:
-
-- What decisions does the WG feel *empowered to take as an autonomous WG*? (for example, Accessibility WG develops accessibility guidelines)
-- What decisions does the WG want to invite *consultation and support* from the broader community? (for example, Book Dash WG invites support from the community in planning their next agenda)
-- What decisions should WGs involve *consultation and support* from the project delivery team? (for example, resource or support needed to execute a plan)
-- What decision should be escalated to the leadership? (for example, Infrastructure WG will need input and approval when starting a new platform)
-- What other decisions would WGs want to make that don't fall under the above three categories?

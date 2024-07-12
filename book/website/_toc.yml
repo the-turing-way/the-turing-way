@@ -824,8 +824,10 @@ parts:
           - title: Working Groups
             file: community-handbook/working-groups
             sections:
+              - title: Guiding Principles for the Working Groups
+                file: community-handbook/working-groups/working-groups-guiding-principles
               - title: Guidelines for the Working Groups
-                file: community-handbook/working-groups/working-groups-guideline
+                file: community-handbook/working-groups/working-groups-guidelines
               - title: Formalising a Working Group
                 file: community-handbook/working-groups/working-groups-formalisation
               - title: Charter Template for the Working Groups
