@@ -904,7 +904,7 @@ chapters:
           - title: Charter Template for the Working Groups
             file: community-handbook/working-groups/working-groups-charter-template
           - title: References
-            file: community-handbook/working-groups/working-group-resources   
+            file: community-handbook/working-groups/working-group-resources
       - title: Template Collection
         file: community-handbook/templates
         sections:
@@ -944,6 +944,6 @@ chapters:
         file: afterword/glossary
       - title: Bibliography
         file: afterword/bibliography
-      
-      
-      
+
+
+
