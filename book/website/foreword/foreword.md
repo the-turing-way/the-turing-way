@@ -1,18 +1,6 @@
 (fw)=
 # Foreword
 
-<<<<<<< HEAD
-_The Turing Way_ is open for anyone to use, contribute to and share. 
-You can inspect our resources on [GitHub](https://github.com/alan-turing-institute/the-turing-way), contribute to the project as described in our [contribution guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) and re-use all materials ([see the License](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md)).
-
-Although _The Turing Way_ core team is located in London (UK) and receives support from [The Alan Turing Institute](https://www.turing.ac.uk/), the project is designed to be a global collaboration.
-Chapters have been written, reviewed and curated by members from international research institutes and universities, government departments, and industry.
-
-The foreword section of _The Turing Way_ handbook currently provides the following information:
-- {ref}`Background and history<fw-history>`
-
-We are committed to creating a space where people with diverse expertise and lived experiences can share their knowledge with others, and help us use data science to improve the world.
-=======
 ```{note}
 This section has been recently added, and some chapters are still being reviewed by the project delivery team and community members. If you notice any error, please raise an issue on our GitHub repository.
 ```
@@ -35,7 +23,6 @@ You will find these details in the following chapters:
 - {ref}`fw-governance`
 - {ref}`fw-cite`
 - {ref}`fw-faqs`
->>>>>>> 22cec1ac43ef47ad13adfbc5785137630631aea2
 
 ```{figure} ../figures/banner-welcome.jpg
 ---
@@ -44,10 +31,6 @@ name: banner-welcome
 alt: Two people, a woman and a man, waving next to a banner that says - welcome.
 ---
 _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
-<<<<<<< HEAD
-```
-=======
 ```
 
 We hope these resources will help you navigate, understand and be part of our community.
->>>>>>> 22cec1ac43ef47ad13adfbc5785137630631aea2
