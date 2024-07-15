@@ -20,6 +20,6 @@
 
 ## Notes
 
-* 
+* No notes taken
 * 
 * 
