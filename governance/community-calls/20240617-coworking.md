@@ -26,7 +26,7 @@
 
 ## Notes
 
-* Book Dash review: need to discuss with committee about different responsibilities and contigency plans
+* Book Dash review: need to discuss with committee about different responsibilities and contingency plans
 *  
 *  
 *  
