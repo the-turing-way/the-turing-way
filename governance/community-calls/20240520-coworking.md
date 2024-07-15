@@ -14,7 +14,7 @@
 
 ## Topics/Rooms
 
-* 
+* No notes taken
 * 
 * 
 
