@@ -20,10 +20,10 @@ jobs:
     environment: crowdin
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Crowdin Contributors table
-        uses: andrii-bodnar/action-crowdin-contributors@v1.0.1
+        uses: andrii-bodnar/action-crowdin-contributors@v2.0.0
         with:
           contributors_per_line: 5
           max_contributors: 10000
@@ -42,7 +42,7 @@ jobs:
           CROWDIN_ORGANIZATION: turingway
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v4
+        uses: peter-evans/create-pull-request@v6
         with:
           title: Update Crowdin Contributors table
           body: By [action-crowdin-contributors](https://github.com/andrii-bodnar/action-crowdin-contributors) GitHub action
