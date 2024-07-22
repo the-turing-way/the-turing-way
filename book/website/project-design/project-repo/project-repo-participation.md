@@ -24,7 +24,7 @@ Here are a few suggestions of what your contributing guidelines could cover:
 * Your recognition model and how contributions will get acknowledged.
 * Where to go for help.
 
-Like other key documents, it is recommended that you look at examples of and reuse contribution guidelines of open source projects like [_The Turing Way_](https://github.com/alan-turing-institute/the-turing-way/blob/lottycoupat-roadmapping-casestudy/CONTRIBUTING.md) that describes how you can contribute or re-this project.
+Like other key documents, it is recommended that you look at examples of and reuse contribution guidelines of open source projects like [_The Turing Way_](https://github.com/the-turing-way/the-turing-way/blob/lottycoupat-roadmapping-casestudy/CONTRIBUTING.md) that describes how you can contribute or re-this project.
 
 (pd-project-repo-participation-coc)=
 ## Code of Conduct
@@ -50,7 +50,7 @@ You can create your own CoC by using the following process:
 
 It is recommended to select and adapt a well established Code of Conduct.
 Many openly developed projects have a Code of Conduct in place that often is openly licensed and can be re-used and adapted for your own project.
-The [Turing Way Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md) is one example of a Code of Conduct built on various existing ones and can be adapted further.
+The [Turing Way Code of Conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md) is one example of a Code of Conduct built on various existing ones and can be adapted further.
 
 You can also consult the following references and templates to get started on a code of conduct for your project.
 - [opensource.guide for CoC](http://opensource.guide/code-of-conduct/)

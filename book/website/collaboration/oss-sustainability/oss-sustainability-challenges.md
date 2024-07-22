@@ -6,7 +6,7 @@ Early-stage projects often reach a point when funding has run out for a project 
 In this chapter we will outline the factors that should be considered when you want to turn a project into Open Source Software (OSS) with a self-sustaining organisation, and we will explore how different projects have achieved sustainability through a variety of organisational structures.
 
 ## The big misconception about Open Source
-```{figure} ../../figures/oss-sustainability-pathways-problem.jpg
+```{figure} ../../figures/oss-sustainability-pathways-problem.*
 ---
 name: oss-sustainability-pathways-problem
 alt: A researcher is torn between taking the path of private commercialisation or the path of open source.
@@ -15,7 +15,7 @@ This image was created by Scriberia for The Turing Way community and is used und
 ```
 
 One of the most common beliefs about Open Source is that it simply means "free" and therefore an open source project can never generate revenue or profit.
-The [definition](https://the-turing-way.netlify.app/reproducible-research/open.html) used by The Turing Way states that OSS should:
+The [definition](https://book.the-turing-way.org/reproducible-research/open.html) used by The Turing Way states that OSS should:
 >Be publicly available: It is difficult to use and benefit from knowledge hidden behind barriers such as passwords and paywalls.
 >
 
@@ -32,7 +32,7 @@ However, these two paths should not be considered mutually exclusive, and an ope
 There are several pathways to generating revenue from an open source project, whether for profit or to sustain a not-for-profit enterprise. 
 In this chapter we'll present some of key considerations when looking to make a project sustainable, and how these differ depending on the organisational structure you want to pursue.
 
-```{figure} ../../figures/oss-sustainability-pathways-solution.jpg
+```{figure} ../../figures/oss-sustainability-pathways-solution.*
 ---
 name: oss-sustainability-pathways-solution
 alt: A researcher considers the 4 pathways/pillars of OSS sustainability.
@@ -48,5 +48,6 @@ When considering whether a research output can develop into a self-sustaining pr
 - **Support**: Can the project respond to the needs of its user communities?
 
 It's ok if you don't have an answer to all of these questions! 
-These questions will help you identify your project's strengths and areas where you need help, and you can refer to this [list of spinout resources](https://github.com/alan-turing-institute/research-application-management/blob/main/docs/spinout_resources.md) for more information.
+
+These questions will help you identify your project's strengths and areas where you need help, and you can refer to this [list of spinout resources](https://github.com/alan-turing-institute/research-application-management/blob/main/resources/innovation/spinout_resources.md) for more information.
 You can also refer to the chapter on [Ethical Considerations for Open Source Governance Models in the Guide for Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethics-open-source-governance.html) for an ethical lens on governance frameworks for Open Source communities.

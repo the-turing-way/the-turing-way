@@ -8,8 +8,8 @@ She is currently leading a project concerning the FAIRification of phytolith dat
 
 Find out more about her work from the links below:
 * [FAIR Phytoliths Project Website](https://open-phytoliths.github.io/FAIR-phytoliths/)
-* Blog - [The Open Archaeobotanist](https://ekaroune.github.io/The-Open-Archaeobotanist/)
-* Twitter - [ekaroune](https://twitter.com/ekaroune)
+* Blog: [The Open Archaeobotanist](https://ekaroune.github.io/The-Open-Archaeobotanist/)
+* X (formerly Twitter): [ekaroune](https://twitter.com/ekaroune)
 
 We would like to thank **Emma** for answering our interview questions about her work with [PalaeoSIG](https://www.britishecologicalsociety.org/membership-community/special-interest-groups/palaeoecology-group/), the special interest group for palaeoecology at the British Ecological Society.
 

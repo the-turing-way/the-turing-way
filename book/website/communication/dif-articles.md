@@ -42,7 +42,7 @@ Traditionally journal publications have been stand alone research articles, ofte
 This format was often quite limiting and meant things like datasets, software (scripts, code, apps, tools) and methods were often squeezed into research articles with little detail due to word limits, hidden in supplementary material or not included at all. 
 
 Researchers therefore increasingly deposit these research objects in repositories to make them usable and discoverable by others. 
-Depositing them with rich metadata and linking to a research articles is best practice and you can find out more about how to do that in our [Making Research Objects Citable chapter](https://the-turing-way.netlify.app/communication/citable.html).
+Depositing them with rich metadata and linking to a research articles is best practice and you can find out more about how to do that in our [Making Research Objects Citable chapter](https://book.the-turing-way.org/communication/citable.html).
 
 However, recently there has been the development of new article types, which allows all deposited research outputs produced during the research lifecycle to be published in their own right and further linked to the final interpretations and conclusions of a research project. 
 The linking of these articles is one way to fully publish a reproducible research project. 

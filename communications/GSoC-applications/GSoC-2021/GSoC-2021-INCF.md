@@ -6,14 +6,14 @@
 The Turing Way: A how-to guide to data science
 
 ## Project description 
-The Turing Way is an open-source, community-led and collaboratively developed “book project” on making data research accessible for a wider research community (https://the-turing-way.netlify.com). 
+The Turing Way is an open-source, community-led and collaboratively developed “book project” on making data research accessible for a wider research community (https://book.the-turing-way.org). 
 We bring together individuals from diverse fields and expertise to develop practices and learning resources that can make data research accessible and easy to understand. 
 Our community members are researchers, engineers, data librarians, industry professionals, and experts in various domains, at all levels of seniority, from all around the world. 
 They collaborate in the project to develop chapters by compiling best practices, tools and recommendations used by the researchers and data science communities worldwide.
 
 ### Technical details
 All questions, comments, recommendations and discussions are facilitated through an online GitHub repository (https://github.com/alan-turing-institute/the-turing-way). 
-The online book with multiple guides is hosted as a Jupyter Book (https://github.com/jupyter/jupyter-book/) at https://the-turing-way.netlify.com. 
+The online book with multiple guides is hosted as a Jupyter Book (https://github.com/jupyter/jupyter-book/) at https://book.the-turing-way.org. 
 Jupyter Book formats markdown files and Jupyter notebooks as static HTML making them easy to read. When a notebook is included in the book, the static page includes a link to an interactive version of the notebook via Binder (https://mybinder.readthedocs.io). 
 Additional styling of the front end is possible by providing a CSS file that handles it across the entire book.
 

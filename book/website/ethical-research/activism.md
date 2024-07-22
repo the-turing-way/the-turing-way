@@ -32,6 +32,7 @@ Activism in your workplace can include:
 * *{ref}`er-internal-policy`* campaigning to change the way your institution makes decisions or handles certain situations: this can include, for example, advocating for open data practices!
 * *{ref}`er-activismwhistleblowing`* the act of alerting authorities or the press to problems in your institution
 * *{ref}`er-activism-cultural-change`*: taking steps to change research/organisational culture
+* *{ref}`er-activism-env-impact`*: consider the environmental impact of digital research.
 
 In the future, we would like to expand this chapter to include guides to activism in wider society for scientists, for example, how to engage with government policy-making processes.
 

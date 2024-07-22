@@ -5,7 +5,7 @@ A successful meeting in the context of research or team-based science is organis
 Some main considerations are the setting up goals of the event, tools for collaboration, identifying effective approaches for stakeholder-engagement and plans for managing all the associated tasks.
 A 1:1 meeting may be organised by simply sharing a link to join the call or details of a physical location on an agreed date and time.
 
-However, often meetings involve multiple team members, presenters and guests from different groups, possibly some of hem attending the event remotely across different time zones and locations.
+However, often meetings involve multiple team members, presenters and guests from different groups, possibly some of them attending the event remotely across different time zones and locations.
 Furthermore, collaborative activities like breakout discussions and documentation are often integral for creating a welcoming space when bringing a diverse group of participants together.
 Hence, there is more to organising a team meetings than just sharing a joining link or location details.
 
@@ -23,14 +23,17 @@ Though we assume 'virtual first' approach for inclusive events, these recommenda
 - Set a protocol for your meeting participants (if there is not one available already), which should include basic etiquette explaining the following:
   - Is keeping the webcam and microphone on recommended? Can they be turned off during the call?
   - Is there a password needed to join the call? Can attendees join before the host?
-  - How can attendees ensure the privacy of their family member? Provide instructions for blurring their background, or using a virtual background?
-  - How will attendees be able to participate in an ongoing discussion? How can they raise their hands to ask the chair personally?
+  - How can attendees ensure the privacy of their family members?
+    Provide instructions for blurring their background, or using a virtual background?
+  - How will attendees be able to participate in an ongoing discussion? 
+    How can they raise their hands to ask the chair personally?
   - What kind of challenges may attendees face while joining the call/meeting and how can they troubleshoot them?
 - Identify a chair and note-taker for the meeting.
   - Share guidelines and protocols for chairing and note-taking.
 - Decide if there will be designated speakers with presentations.
   - Share the speaker's guidelines and protocols with them.
-- Establish a shared document that can be updated online for agenda and note-taking. For example, using [Google Docs](https://docs.google.com) or [HackMD](https://hackmd.io).
+- Establish a shared document that can be updated online for agenda and note-taking. 
+  For example, using [Google Docs](https://docs.google.com) or [HackMD](https://hackmd.io).
   - Create a template for this meeting (that can also be used for future meetings).
 - Create a shared document to share the following:
   - Participation guidelines.
@@ -94,6 +97,8 @@ Though we assume 'virtual first' approach for inclusive events, these recommenda
   - Give clear instructions of what's expected from the writing exercises and how long it should take.
   - Give a reminder in the last minute to wrap up.
 - Ensure that the discussion is inclusive of everyone, aim to have a fair discussion, don’t fixate on one argument or speaker.
+  - When do people get to speak, how long? 
+  - Who gets to speak first (keep in mind levels of seniority, gender and ethnicity - having minorities speak up first will empower them in participating in discussions)? 
 - Indicate if the speakers should speed up or slow down, or if there is a technical issue that the speakers should check.
 - Notetakers should document important outcomes from every discussion.
 - Encourage everyone to help the notetaker in documenting correct information.
@@ -120,5 +125,8 @@ Though we assume 'virtual first' approach for inclusive events, these recommenda
 - Request any additional documents or information mentioned by others/speakers during the meeting. These links can be added into the shared documents or in the chat.
 - If the meeting call was recorded, process and share the recorded video with everyone.
 - Send a thank you email with the link to the complete notes and other relevant information.
+
+## Additional resources
+- '[How to Run a meeting](https://www.youtube.com/watch?v=qYh6Nzv3RWs)' by Greg Wilson.
 
 ***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*

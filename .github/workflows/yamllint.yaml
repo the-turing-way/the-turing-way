@@ -1,10 +1,13 @@
 name: Lint and Validate YAML files
 
 on:
-  push:
+  pull_request:
     paths:
       - "**.yaml"
       - "**.yml"
+  push:
+    branches:
+      - main
 
 jobs:
   yamllint:
@@ -13,10 +16,10 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Setup Python 3.10
+      - name: Setup Python 3.8
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"
+          python-version: "3.8"
 
       - name: Install yamllint via pip
         run: |

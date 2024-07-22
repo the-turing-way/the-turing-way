@@ -44,7 +44,7 @@ Make sure you attach a license to your code and specify how you want to be cited
 Consider using a permissive license that allows for reuse.
 Also, you should choose a license which is compatible with the licenses of libraries or packages your software depends on.
 
-**See also**: {ref}`rr-licensing-software`, {ref}`rr-licensing-software-permissive`, {ref}`rr-licensing-compatibility`
+**See also**: {ref}`rr-licensing`, {ref}`rr-licensing-floss`, {ref}`rr-licensing-compatibility`
 
 ### 6. Make sure it is citable
 
@@ -63,7 +63,7 @@ If the software depends on any sort of data, the data should be available
 Make sure you (or others) can re-use it to do the thing you did, but with different data/different parameters
 
 ### 1. Remove hardcoded bits and make the code modular
-You do not want to have details specific of your data or analysis parameters hardcoded into the code.
+You do not want to have details specific to your data or analysis parameters hardcoded into the code.
 If something can become a reusable function, separate it from the hardcoded parameters and turn it into something (re)usable on its own.
 Make the modules pure: given the same input, a pure function always returns the same value.
 Instead of specifying file paths inside the scripts, consider passing them as command line arguments for a more portable and general and reusable script.

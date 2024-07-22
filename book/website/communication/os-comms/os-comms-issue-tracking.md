@@ -25,10 +25,10 @@ This allows your community to focus their attention on what is important to them
 This approach has several smaller issue boards for each repository (or module) within your codebase.
 This method has a lot of positive outcomes, such as:
 
-- The volume of issues is more manageable;
-- Most contributors only need to be aware of issues relating to one or two repositories;
-- Contributors can subscribe to notifications or updates from only the repositories that interest them;
-- It feels like "divide and conquer", more people are working on more aspects to move the project as a whole forward.
+- The volume of issues is more manageable
+- Most contributors only need to be aware of issues relating to one or two repositories
+- Contributors can subscribe to notifications or updates from only the repositories that interest them
+- It feels like "divide and conquer", more people are working on more aspects to move the project as a whole forward
 
 (os-comms-issue-tracking-purpose-issues-case-study)=
 #### Case study: mybinder.org
@@ -37,9 +37,9 @@ This method has a lot of positive outcomes, such as:
 This project is spread across a number of different repositories, each one an individual tool that can be used in isolation from the others.
 These are:
 
-- [repo2docker](https://github.com/jupyter/repo2docker),
-- [JupyterHub for Kubernetes](https://github.com/jupyterhub/zero-to-jupyterhub-k8s),
-- [BinderHub](https://github.com/jupyterhub/binderhub).
+- [repo2docker](https://github.com/jupyter/repo2docker)
+- [JupyterHub for Kubernetes](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)
+- [BinderHub](https://github.com/jupyterhub/binderhub)
 
 There are also some tools in the Jupyter ecosystem that are only weakly associated with Binder.
 Tools which Project Binder uses and people associated with Binder contribute to, but so do other unrelated communities.
@@ -64,9 +64,9 @@ If you are using issues to track a central service, personal to-do lists, and an
 However in terms of engaging your community, such a centralised system can be problematic.
 If your issues are elsewhere this can create a lot of barriers to entry for community members, such as:
 
-- Issues are more difficult to discover;
-- If they are hosted on another platform (for example, code is on GitHub but issues are on [Asana](https://asana.com/)), that's another tool community members need to learn how to use;
-- Issues are separated from the code they are referencing.
+- Issues are more difficult to discover
+- If they are hosted on another platform (for example, code is on GitHub but issues are on [Asana](https://asana.com/)), that's another tool community members need to learn how to use
+- Issues are separated from the code they are referencing
 
 A very large impact on the community of having a separate issue board is that when people visit your code repository, it looks like an inactive project because there are no issues or conversations going on where the code is hosted.
 This may cause community members to believe that the code is no longer being actively developed/maintained/supported and may choose to use another codebase or software package.

@@ -11,12 +11,12 @@ Large amounts of research funds and careers of researchers can be wasted by only
 3. To facilitate collaboration and increase the impact and quality of scientific research.
 4. To make results of research openly available as a public good, since research is often publicly funded.
 
-You can read more about why data should be available, and why some data should remain closed, in the {ref}`Open Data section <rr-open-data>`
+You can read more about why data should be available, and why some data should remain closed, in the {ref}`Open Data section <rr-open-data>`.
 
 ```{figure} ../../figures/birds-of-open-data.*
 ---
 height: 400px
-name: birds-of-open-data.jpg
+name: birds-of-open-data.*
 alt: Two birds in a fountain of open data. One asks "You mind if I reuse this data?" The other answers "Go ahead! We can even work together on it!"
 ---
 Birds of Open Data. _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
@@ -59,6 +59,7 @@ In many cases, this will include providing data in multiple, standardized format
 * The European Commission's [data guidelines](https://open-research-europe.ec.europa.eu/for-authors/data-guidelines)
 * Videos on [Data sharing and reuse](https://www.youtube.com/watch?v=4igGBCggU0Y) & [Data Preservation and Archiving](https://www.youtube.com/watch?v=J76yTp8XE-0) from the [TU Delft Open Science MOOC](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/).
 * [Webinar: Why share your data?](https://www.ebi.ac.uk/training/online/courses/bringing-data-life-data-management-biomolecular-sciences/why-share-your-data/)
+* [Webinar: Publishing and citing data in practice by Jez Cope](https://youtu.be/PpMOkTnBMlI)
 * Coursera Videos from [Research Data Management and Sharing](https://www.coursera.org/learn/data-management) on the [Benefits of Sharing](https://www.coursera.org/lecture/data-management/benefits-of-sharing-IPZ0h), [Why Archive Data?](https://www.coursera.org/lecture/data-management/why-archive-data-lcQ2m), and [Why is Archiving Data Important?](https://www.coursera.org/lecture/data-management/why-is-archiving-data-important-04Gji)
 * [Blog: Ask not what you can do for open data; ask what open data can do for you](http://blogs.nature.com/naturejobs/2017/06/19/ask-not-what-you-can-do-for-open-data-ask-what-open-data-can-do-for-you/)
 * {cite:ps}`Levenstein2018sharing`

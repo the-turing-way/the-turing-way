@@ -33,11 +33,22 @@ Learn more about this in the {ref}`rr-rdm-sharing` subchapter.
 (rr-rdm-storage-organisation)=
 ## Data Organisation
 
-To organise your data, you can create a folder structure, or re-use a previous structure (see an example below), to ensure that you can find your files.
+To organise your data, you should use a clear folder structure to ensure that you can find your files. 
+We encourage you to use an existing template.
+An open source project created a quite complete one at https://github.com/tonic-team/Tonic-Research-Project-Template 
+
+```{figure}  ../../figures/file-management-manual.jpg
+---
+name: Folder structure for research data
+alt: A protagonist has a file written "readme" on it and bring it to another protagonist who stays in front of a file drawer system. There are  three drawers labelled "data", "code", and "results".
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
 
 -	Make sure you have enough (sub)folders so that files can be stored in the right folder and are not scattered in folders where they do not belong, or stored in large quantities in a single folder.
 -	Use a clear folder structure.
 You can structure folders based on the person that has generated the data/folder, chronologically (month, year, sessions), per project (as done in the example below), or based on analysis method/equipment or data type.
+- Avoid overlapping or vague folder names, and do not use personal data in folder/file names.
 
 (rr-rdm-storage-organisation-examples)=
 ### Data Organisation Examples
@@ -67,6 +78,7 @@ Some other tips for file naming include:
 - Use the version number of file (v001, v002) or language used in the document (ENG)
 - Do not make file names too long (this can complicate file transfers)
 - Avoid special characters (?\!@\*%{[<>) and spaces
+- Avoid personal data in file names
 
 You can explain the file naming convention in a README.txt file so that it will also become apparent to others what the file names mean.
 
@@ -74,6 +86,17 @@ For further guidance on file naming:
 - [Jenny Bryan’s ‘naming things’ presentation](https://speakerdeck.com/jennybc/how-to-name-files) (or watch the [5 minute summary](https://youtu.be/ES1LTlnpLMk))
 - [MIT's recommendations on File naming and folder hierarchy](https://libraries.mit.edu/data-management/store/organize/)
 - [8 step guide on how to set up your file naming convention](https://resolver.caltech.edu/CaltechAUTHORS:20200601-161923247) 
+
+(rr-rdm-storage-renaming)=
+### File renaming tools
+
+If you want to change your file names you have the option to use bulk renaming tools.
+Be careful with these tools, because changes made with bulk renaming tools may be too rigorous if not carefully checked!
+
+Some bulk file renaming tools include: 
+- [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/Main_Intro.php), [WildRename](http://www.cylog.org/utilities/wildrename.jsp), and [Ant Renamer](http://www.antp.be/software/renamer) (for Windows)
+- [Renamer](https://renamer.com/) (for MacOS)
+- [PSRenamer](http://www.cylog.org/utilities/wildrename.jsp) (for MacOS, Windows, Unix, Linux)
 
 (rr-rdm-storage-backups)=
 ## Backups
@@ -87,7 +110,9 @@ To avoid losing your data, you should follow good backup practices.
 Backups are ideally done automatically and should take into consideration your institute's guidelines.
 The more important the data and the more often the datasets change, the more frequently you should back them up.
 If your files take up a large amount of space and backing up all of them proves to be challenging or expensive, you may want to create a set of criteria for when you back up the data.
-This can be part of your data management plan (DMP).
-
+This can be part of your {ref}`Data Management Plan<rr-rdm-dmp>`.
 
 Watch this video on [Safe data storage and backup](https://www.youtube.com/watch?v=bgbbToXHgW0) from the [TU Delft Open Science MOOC](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/).
+
+
+

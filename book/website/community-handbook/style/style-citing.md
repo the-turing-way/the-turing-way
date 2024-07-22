@@ -25,7 +25,7 @@ You can edit reference file locally using a method from the following:
 - Edit [`references.bib`][turingbib] directly using a text editor
 - Edit [`references.bib`][turingbib] directly using a managing program such as [JabRef](http://www.jabref.org/) (Linux, Windows, macOS) or [BibDesk](https://bibdesk.sourceforge.io/) (macOS)
 
-We use a standard bibtex format to add a new entry.
+We use a standard BibTeX format to add a new entry.
 For example, there is an entry in the [`references.bib`][turingbib] file as:
 
 ```
@@ -73,10 +73,10 @@ Here `CITEKEY` is the corresponding citation key in [`references.bib`][turingbib
 {cite:ps}`CITEKEY1,CITEKEY2,CITEKEY3`
 ```
 
-We will cite the article that we edit earlier in the [`reference.bib`][turingbib] file using:
+We will cite the article that we edited earlier in the [`reference.bib`][turingbib] file using:
 
 ```
-{cite:ps}`Kuula2010archiving`
+{cite:ps}`baker2016reproducibility`
 ```
 
 This will appear in your chapter as {cite:ps}`baker2016reproducibility`.
@@ -89,4 +89,4 @@ The complete bibliography entry is available at the end of this book (see {ref}`
 
 For the advanced usage, see the [documentation by sphinxcontrib-bibtex](https://sphinxcontrib-bibtex.readthedocs.io/en/latest/usage.html), which is a Sphinx extension for BibTeX style citations.
 
-[turingbib]: https://github.com/alan-turing-institute/the-turing-way/blob/main/book/website/_bibliography/references.bib
+[turingbib]: https://github.com/the-turing-way/the-turing-way/blob/main/book/website/_bibliography/references.bib
