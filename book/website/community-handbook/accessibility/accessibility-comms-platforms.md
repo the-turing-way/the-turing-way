@@ -1,7 +1,7 @@
 (ch-accessibility-comms-platforms)=
 # Access-centered support on Communication Platforms
 
-_The Turing Way_ uses a variety of platforms for communication (i.e. Slack, social media platforms like X/Twitter, Linkedin, Mastodon) and collaboration (i.e. Github, HackMD, Etherpad). 
+_The Turing Way_ uses a variety of platforms for communication (for example: social media platforms like X/Twitter, Linkedin, Mastodon) and collaboration (for example: Github, HackMD, Etherpad). 
 
 This chapter describes the access and inclusion-related support we provide on our communication platforms, as well as support we hope to provide in the future.
 
