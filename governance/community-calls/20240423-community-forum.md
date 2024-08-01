@@ -46,7 +46,7 @@ Folks with 'W' can opt opt to stay in the main room.
 
 *(Getting to know each other and this Etherpad for collaborative notes)*
 
-Name (+pronouns) / Organisation and location you are joining from / Social media (if you'd like to connect with others) /* *In the communities you're a part of, what form of communications do you follow most closely?
+Name (+pronouns) / Organisation and location you are joining from / Social media (if you'd like to connect with others) / **In the communities you're a part of, what form of communications do you follow most closely?**
 
 * Danny (they/him) / University of Sussex (as of next week...), London / [https://social.coop/@da5nsy](https://social.coop/@da5nsy) / I read email newsletters (when I can!), and I have notifications turned on for some specific mastodon accounts
 * Vicky (she/her) / Turing Institute / @vickyhellon / newsletters and Slack which I keep up with as a notification squasher
@@ -77,7 +77,7 @@ Name (+pronouns) / Organisation and location you are joining from / Social media
 * What sub domains people prefer
     * for example: 
         * for Book: book.the-turing-way.org
-        * for blog: blog. ... etc.
+        * for blog: blog.the-turing-way.org
 
 ##### Notes
 
@@ -86,7 +86,7 @@ Name (+pronouns) / Organisation and location you are joining from / Social media
 * What was the concern with Netlify (it isn't open source), very old Python / readthedocs you don't really control the stack either. It is a step up, but has similiar problems.
 * How can someone who is not technical support the WG?
     * Help us understand what features/automation people need
-    * Suggest URL redirects or services you would like to see (a blog, video hosting, ...)
+    * Suggest URL redirects or services you would like to see (a blog, video hosting, and more.)
     * From Q\&A: 
         * JM: Suggestions for services (i.e. blog, next cloud synchronisation), ideas for sub-domains, feature requests (i.e. for translation and localisation). But don't want people to think that this can only come from the Infra WG. We worry about how to do things, so feedback on implementation is welcome.
 
@@ -109,7 +109,7 @@ Name (+pronouns) / Organisation and location you are joining from / Social media
 * Room2: it is a good question because something like a newsletter you know that someone had that "power" to integrate it. In an open source project how to decide what is newsworthy -- Exciting mess
 * Newsletter is a summary of what is happening and if I see something interesting there I can go deep in there and contact the people or found out the details. There are no hidden communications channel, from the outside I can find details, without waiting for more information to arrive or asking people. It's OK to ask where info is but the info should be accessible.
 * How are the decisions being made around what makes information newsworthy?   
-    * Moderation? Who is making cuts and organising the data. If we work openly, it should be easy to communicate 
+    * Moderation? Who is making cuts and organising the data. If we work openly, it should be easy to communicate.
 * Newsletter: list of links: [https://tldr.tech/](https://tldr.tech/)
 
 **Notes**
@@ -151,9 +151,8 @@ Name (+pronouns) / Organisation and location you are joining from / Social media
 
 **Open Discussion**
 
-* DG: What kinds of experts are you interested in bringing together?
-* AAA: One of the organisations was very excited about the open practices within ONS - which often come with many perceived challenges.
-    * One expert ended up leaving the org to lauch two open source company - we like to believe that Practit
+* DG: What worked our really well last time? 
+* AAA: One of the appointed experts was very excited about the open practices that we were discussing in all the discussions that they decided to open up their own company about open practices. So this is a good response and demonstrates the need to meet more people about open practices. With [the Office of National Statistics] (another example), they interviewed many teams to capture the way they implement open practices. Most of the experts in the residence have a cultural problem of managing risk. So it was interesting to see the risk mitigation practices they took to have open practices, because there were many concerns.
 
 #### **Other updates \& announcements**
 
@@ -169,4 +168,4 @@ Name (+pronouns) / Organisation and location you are joining from / Social media
 ## Feedback
 
 * Really nice - appreciate that I don't have the urge to run away when i hear breakout rooms
-*  Very welcoming and low pressure vibes. 
+* Very welcoming and low pressure vibes. 
