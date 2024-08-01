@@ -82,11 +82,11 @@ Name / Organisation and location you are joining from / Social media (if you'd l
     * We communicate openly and will be discussing governance modes that work for this decentralised structure. Probably not a very strict voting system.
 * How has working in a Working Group changed the way you engage with the project?
     * LH/Accessibility WG: I have worked on 3 Book Dashes so far. 
-    * AB/Book Dash WG: It feels empowering to be working with a group in an ongoing way. Iterating an event over time  you need a consistent group for. I'm excited to improve the format of the Book Dash
+    * AB/Book Dash WG: It feels empowering to be working with a group in an ongoing way. Iterating an event over time, you need a consistent group for. I'm excited to improve the format of the Book Dash.
 * The Turing Way can become an example of demonstrating how we think things should be. Have you thought or planned for what support or policy can help with this? Have you thought about how the working groups can help with this process?
-    * LH/Accessibility WG: I invite anyone to participate in teh WG. Even if you think you don't know, you do. That learning can help everyone. I can hope that tinfrastructure WG that they could ask us, and I think we will try to make community aware to get guide in writing to make the community aware of what aspects are relevant for them.
+    * LH/Accessibility WG: I invite anyone to participate in the WG. Even if you think you don't know, you can learn and that learning can help everyone. I would hope that accessibility touches everything, so I would hope that if the infrastructure WG had questions about accessibility that they could ask us. I think we will try to make community aware as we get the guide in writing to make the community aware of what aspects are relevant for them.
 * It might be interesting to adopt a metadata standard for embedding alt text into the image metadata as well as including it in the text of the book see: [https://www.iptc.org/standards/photo-metadata/iptc-standard/](https://www.iptc.org/standards/photo-metadata/iptc-standard/) where they have an alt text field, that way alt text can 'follow the image around' if it is copies to other places. I don't know if support fo this exists in any screen reading software yet.
-* Request for Comments / 
+* Request for Comments
     * Q: From Zoom comment: "Perhaps 'Strategic' over 'Constituional'? It's a w
     * A: Thanks @Richard Acton - there's something that I don't love about strategic because I think it implies that the others are not strategic.... but worth discussing :)
 Would be good to have like a word cloud exercise to bring through different potential words
