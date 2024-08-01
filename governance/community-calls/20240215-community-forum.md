@@ -76,7 +76,7 @@ Name / Organisation and location you are joining from / Social media (if you'd l
 
 ### Comments and questions
 
-* Separating the book dash planning from the continuity work sounds like an excellent idea! Helps avoid burn out and gives a good way to get into the WG.
+* Separating the Book Dash planning from the continuity work sounds like an excellent idea! Helps avoid burn out and gives a good way to get into the WG.
 * For T\&L team: What has been the biggest challenge with onboarding the group?
     * The question is usually: Where do I start? We start with simple tasks: the forward at the beginning and end of the book. Then we move on to more complex tasks. 
 * For T\&L: If other working groups want to adopt your governance, what should they do in order to work in a decentralised way?
