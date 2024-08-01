@@ -88,7 +88,7 @@ Name (+pronouns) / Organisation and location you are joining from / Social media
     * Help us understand what features/automation people need
     * Suggest URL redirects or services you would like to see (a blog, video hosting, ...)
     * From Q\&A: 
-        * JM: Suggestions for services (i.e. blog, next cloud synchronisation), ideas for sub-domains, feature requests (i.e. for translation and localisation. But don't want people to think that this can only come from the Infra WG. We worry about how to do things, so feedback on implementation
+        * JM: Suggestions for services (i.e. blog, next cloud synchronisation), ideas for sub-domains, feature requests (i.e. for translation and localisation). But don't want people to think that this can only come from the Infra WG. We worry about how to do things, so feedback on implementation is welcome.
 
 **Questions:**
 
