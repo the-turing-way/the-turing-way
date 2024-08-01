@@ -27,6 +27,9 @@ alt: The workflow used in Crowdin.
 The Translation workflow, which is located on a fork of _The Turing Way_ repository inside the [TWTranslation](https://github.com/TWTranslation) GitHub Organisation account.
 ```
 
+## Multideployment of Localised Versions
+
+Currently, there is no deployment for the book in different languages due to difficulties with Netlify multi-deployment. The Turing Way will be migrating to a different deployment platform to support multi-deployment of the book. The localisation working group has created [a log](https://hackmd.io/0ohbT9_rQJCBWDkC20mzgA?both) that contains challenges and updates in their work to streamline the multi-deployment. This log can be accessed on HackMD and is continually updated.
 
 ## Join the Translation Team in Crowdin
 
