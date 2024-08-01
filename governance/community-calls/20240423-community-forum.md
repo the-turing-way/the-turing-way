@@ -94,7 +94,7 @@ Name (+pronouns) / Organisation and location you are joining from / Social media
 
 * CH: We are currently migrating TO netlify so I am intrigued that you are migrating away. Is there a tl;dr on this?
     * SG: I personally found Netlify to be painful to work with. There was a config file, and stuff that you could change in the UI. It wasn't clear what could be changed where, what overwrote what, and it made responding to outages (the book is down) really painful from a site reliability engineering POV.
-    * ALS: Here’s the platform audit that we did of a few different options, which isn’t a tldr, but shows the comparison we did between a few different platforms: [https://github.com/the-turing-way/the-turing-way/issues/3509](https://github.com/the-turing-way/the-turing-way/issues/3509) 
+    * ALS: Here’s the platform audit that we did of a few different options, which shows the comparison we did between a few different platforms: [https://github.com/the-turing-way/the-turing-way/issues/3509](https://github.com/the-turing-way/the-turing-way/issues/3509) 
     * From Q\&A: 
         * SG: Difficult to work with Netlify UI, and made working with project difficult. Netlify doesn't support newer version of python.
         * I don’t think we have a tldr (maybe we should!) but there is discussion here [https://github.com/the-turing-way/the-turing-way/issues/3509](https://github.com/the-turing-way/the-turing-way/issues/3509) and here [https://github.com/the-turing-way/the-turing-way/issues/2481](https://github.com/the-turing-way/the-turing-way/issues/2481)
