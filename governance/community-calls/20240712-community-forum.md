@@ -1,5 +1,5 @@
 
-# The Turing Way - Community Call 2024
+# The Turing Way - Community Call 2024 - 12 July
 
 ## 🗣️Welcome!
 
