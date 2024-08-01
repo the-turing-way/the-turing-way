@@ -167,5 +167,5 @@ Name (+pronouns) / Organisation and location you are joining from / Social media
 
 ## Feedback
 
-* Really nice - appreciate that I don't have the urge to run away when i hear breakout rooms
+* Really nice - appreciate that I don't have the urge to run away when I hear breakout rooms
 * Very welcoming and low pressure vibes. 
