@@ -23,7 +23,7 @@
 
 **Indicating your preference for 'Written' or 'Spoken' form of interaction today:**
 
-*We will be using breakout rooms - so please add 'S' or 'W' infront of your Zoom name (rename option) to indicate your preference for 'Spoken' or 'Written' form of interactions respectviely!*
+*We will be using breakout rooms - so please add 'S' or 'W' in front of your Zoom name (rename option) to indicate your preference for 'Spoken' or 'Written' form of interactions respectively!*
 
 Folks with 'W' can opt opt to stay in the main room.
 
