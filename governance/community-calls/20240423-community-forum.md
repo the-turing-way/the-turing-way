@@ -97,7 +97,7 @@ Name (+pronouns) / Organisation and location you are joining from / Social media
     * ALS: Here’s the platform audit that we did of a few different options, which shows the comparison we did between a few different platforms: [https://github.com/the-turing-way/the-turing-way/issues/3509](https://github.com/the-turing-way/the-turing-way/issues/3509) 
     * From Q\&A: 
         * SG: Difficult to work with Netlify UI, and made working with project difficult. Netlify doesn't support newer version of python.
-        * I don’t think we have a tldr (maybe we should!) but there is discussion here [https://github.com/the-turing-way/the-turing-way/issues/3509](https://github.com/the-turing-way/the-turing-way/issues/3509) and here [https://github.com/the-turing-way/the-turing-way/issues/2481](https://github.com/the-turing-way/the-turing-way/issues/2481)
+        * I don’t think we have a brief overview (maybe we should!) but there is discussion here [https://github.com/the-turing-way/the-turing-way/issues/3509](https://github.com/the-turing-way/the-turing-way/issues/3509) and here [https://github.com/the-turing-way/the-turing-way/issues/2481](https://github.com/the-turing-way/the-turing-way/issues/2481)
 * Are the multilingual options actually dependent on the hoster?
     * Not by design, maybe some hosting providers have additional features but none that I know of.
 
