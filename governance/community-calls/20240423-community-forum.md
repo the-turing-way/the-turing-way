@@ -79,7 +79,7 @@ Name (+pronouns) / Organisation and location you are joining from / Social media
         * for Book: book.the-turing-way.org
         * for blog: blog. ... etc.
 
-**Notes**
+##### Notes
 
 * Which Open Source tools is the infrastructure team considering, the pros and cons.  
     * A lot of factors we want to balance 
