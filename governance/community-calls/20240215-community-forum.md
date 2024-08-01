@@ -10,7 +10,6 @@
     * *The Zoom's waiting room is enabled. The host will let you in!*
     * *All questions, comments, and recommendations are welcome on this Etherpad or on Zoom chat!*
 
-
 * Please note that this call will be recorded
     * The video will be available on the YouTube channel in the next days: [https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
     * Turn on your webcam if you don’t mind sharing your face (or off if you do!)
@@ -40,7 +39,7 @@
 
 *(Getting to know each other and this Etherpad for collaborative notes)*
 
-Name / Organisation and location you are joining from / Social media (if you'd like to connect with others) /* *What's your favourite open source community (aside from The Turing Way, of course! 😉)?* *
+Name / Organisation and location you are joining from / Social media (if you'd like to connect with others) / **What's your favourite open source community (aside from The Turing Way, of course!😉)?**
 
 * Anne / The Alan Turing Institute / @aleesteele + @turingway / It's hard to pick one apart from TTW! I look up to and towards many of our close allies in the open science ecosystem: from Metadocencia, JupyterBook, Carpentries). But also, vvvvvaria for their work on collective action, processing foundation \& p5.js ha, and the médialab at SciencePo for their creativity \& interdisciplinarity. And of course, OpenStreetMap \& Frictionless! (See how hard it is to choose?!)
 *  Kirstie / The Alan Turing Institute / London, UK / meeep - Kirstie Whitaker on linkedin at the moment? idk what to do with my life without twitter of old! / I have always been inspired by the Jupyter community - a hike in the northern california hills with Fernando Perez was the start of my open source career!
@@ -60,7 +59,7 @@ Name / Organisation and location you are joining from / Social media (if you'd l
 
 ## 📣 Updates from the project
 
-*Please take any notes, leave comments and ask question below *
+*Please take any notes, leave comments and ask question below*
 
 ### Notes from the presentations
 
@@ -118,7 +117,7 @@ Pluses: What did you like from this call? Anything that stuck out for you?
 
 Deltas: What can we improve for the next community call?
 
-* We need to rehearse but there were many internet connection issues +1, lots of itnernet gremlins
+* We need to rehearse but there were many internet connection issues +1, lots of internet gremlins
 * Change the name to "Open Community Call" to capture more attendees +1 - do we want to specifically highlight the governance aspects in the title? 
 * Invite individually other communities 
 * There was an issue with the zoom link - evaluate if we want to keep the registration link
