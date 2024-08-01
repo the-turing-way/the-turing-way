@@ -159,7 +159,7 @@ Name (+pronouns) / Organisation and location you are joining from / Social media
 
 * Winny Nekesa – presenting about the Book Dash Committee - don't forget to apply for Book Dash!
     * Emma, Alex, Anne, Denise, Carlos, Emmanuel, Arielle, 
-    * Committee is important in ensuring 
+    * Committee is important in ensuring the Book Dash is a welcoming, vibrant space for everyone who joins.
 * Promotional links: 
     * Please retweet, repost, retoot and share!
     * Mastodon: [https://fosstodon.org/@turingway/111976331151800075](https://fosstodon.org/@turingway/111976331151800075)
