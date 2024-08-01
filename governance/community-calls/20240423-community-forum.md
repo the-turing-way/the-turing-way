@@ -108,7 +108,7 @@ Name (+pronouns) / Organisation and location you are joining from / Social media
 * *How can community get involved in community-level decision-making through open communication?*  
 * Room2: it is a good question because something like a newsletter you know that someone had that "power" to integrate it. In an open source project how to decide what is newsworthy -- Exciting mess
 * Newsletter is a summary of what is happening and if I see something interesting there I can go deep in there and contact the people or found out the details. There are no hidden communications channel, from the outside I can find details, without waiting for more information to arrive or asking people. It's OK to ask where info is but the info should be accessible
-* How was the decision being made to make information newsworthy   
+* How are the decisions being made around what makes information newsworthy?   
     * Moderation? Who is making cuts and organising the data. If we work openly, it should be easy to communicate 
 * Newsletter: list of links: [https://tldr.tech/](https://tldr.tech/)
 
