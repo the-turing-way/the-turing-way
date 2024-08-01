@@ -151,7 +151,7 @@ Name (+pronouns) / Organisation and location you are joining from / Social media
 
 **Open Discussion**
 
-* DG: What worked our really well last time? 
+* DG: What worked out really well last time?
 * AAA: One of the appointed experts was very excited about the open practices that we were discussing in all the discussions that they decided to open up their own company about open practices. So this is a good response and demonstrates the need to meet more people about open practices. With [the Office of National Statistics] (another example), they interviewed many teams to capture the way they implement open practices. Most of the experts in the residence have a cultural problem of managing risk. So it was interesting to see the risk mitigation practices they took to have open practices, because there were many concerns.
 
 #### **Other updates \& announcements**
