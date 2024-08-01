@@ -133,7 +133,7 @@ Name (+pronouns) / Organisation and location you are joining from / Social media
 * How to get involved?
     * Do we sign post that well enough?
     * Do new contributors need onboarding?
-    * There is information that we may not write that, which is needed to contribute. For example infrastructure configuration. More policy/guidance/rules could help ensure we write these things down.
+    * There is information that we may not write down, which is needed to contribute. For example infrastructure configuration. More policy/guidance/rules could help ensure we write these things down.
     * Is this part of the remit of a communications WG?
 * CH: Can i also shout out that Turing Way is consistently one of the best at open communications? 🥳 The theory is one thing but the practice is another- y'all actually DO it!
     * ❤️
