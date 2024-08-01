@@ -90,7 +90,7 @@ Name / Organisation and location you are joining from / Social media (if you'd l
     * Q: Is there a reason for usin the term 'Strategic' over 'Constituional'? Constitutional implies a narrow set of core rules almost, which is slightly different from setting a broad direction for a project.
     * A: Thanks Richard Acton - there's something that I don't love about strategic because I think it implies that the others are not strategic.... but worth discussing :)
 Would be good to have like a word cloud exercise to bring through different potential words
-    * Q: Is the vote of the WG chairs vote equal to the vote of leads?  Do they act as more of an advsiroy role?
+    * Q: Is the vote of the WG chairs vote equal to the vote of leads?  Do they act in more of an advisory role?
     * A: That hasn't been decided. But my feeling is that we're identifying the types of decisions that need to be made is the first exercise of 'should it be a vote' or 'should it be 'advisory'. One of those is the the role of the budget... As Program Director, this changes certain decisions. We want to explore and see what decisions come up. There are lots of things that are open. There are some things we can vote on, there are many things we can't. That's a big exploration space.
     * Q: Question for the working groups: What kind of support would you like for the working groups? They aim to be as autonomous as possible, what kind of support would you like from Anne and myself?
     * A: The working groups
