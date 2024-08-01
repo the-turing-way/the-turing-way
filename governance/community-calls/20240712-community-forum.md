@@ -3,7 +3,7 @@
 
 ## 🗣️Welcome!
 
-*Bring along your tea, coffee, snack and questions about The Turing Way. And, while you wait for the event to start - please read more about the event in this document. 🌻*
+*Bring along your tea, coffee, snack and questions about The Turing Way. And, while you wait for the event to start - please read more about the event in this document.🌻*
 
 * Date: 12 July 2024
 * Time: 15:00 - 16:30 - see time in your time zone: [https://arewemeetingyet.com/London/2024-07-12/15:00/TTW%20Community%20Call](https://arewemeetingyet.com/London/2024-07-12/15:00/TTW%20Community%20Call)
@@ -75,7 +75,7 @@ Name / Organisation and location you are joining from / Social media (if you'd l
 
 ## 📣 Emergent Strategy Principles: Breakout Discussions
 
-*Please take any notes, leave comments and ask question below *
+*Please take any notes, leave comments and ask question below*
 
 Group 1 
 
@@ -85,17 +85,17 @@ Group 2 - Esther, Jim, Arielle, Sophia
 
 * Value 3 resonates There is always enough time for the right work. There is a conversation in the room that only these people at this moment can have. Find it.
 * Don't make enough time for things that we value 
-* Effort in mentoring can have a big pay off long term for the project - cultivating members is important as 
-*  
+* Effort in mentoring can have a big pay off long term for the project - cultivating members is important 
+
 Group 3
 
 * Point 1 resonates, local effects can be strong
-* philosophy that "human is good in nature" vs "not good in nature" - echo chambers where people who come to the turing agree with it, but 
+* philosophy that "human is good in nature" vs "not good in nature" - echo chambers where people who come to the turing agree with it
 * final point resonated too
 
 ## 🌼 Code of Conduct Discussion Notes
 
-*Please take any notes, leave comments and ask question below *
+*Please take any notes, leave comments and ask question below*
 
 **What does the code of conduct mean to you in this community space?**
 
@@ -111,7 +111,7 @@ Group 3
 * Being clear that even if ttw is a space where people try to be really nice to each other, there is awareness that "unwanted" behavior can still happen and that we care about it
 * Ensuring that we hold space and maintain space for human dignity
 
-**The Turing Way will be setting up an expanded Code of Conduct Committee - what would you like to see incorporated as part of this process?** 
+**The Turing Way will be setting up an expanded Code of Conduct Committee - what would you like to see incorporated as part of this process?**
 
 * Maybe just a note: If Anne is currently the report address but not a member of the committee, does that make sense?
 * It’d be nice to include a summary of the substantial changes in the Code of Conduct (if any), apart from mentioning the expanded committee +1
@@ -120,7 +120,7 @@ Group 3
 ## Open Discussion \& Topics for next Community Forum
 
 * Community-led discussion around location for access-related practices
-* Have the discussion about whether accessibility should be its own guide or embedded in existing guides in the Community Forum? 
+* Have the discussion about whether accessibility should be its own guide or embedded in existing guides in the Community Forum?
 * Follow up discussion on CoC committee recruitment proposal (when written)
 *  Coc follow up - how can people engage with CoC policy? what does it feel like to raise a code of conduct report? when do you make a report? if a situation arises what would help in raising an issue? maybe add a section on "when should i open a report?"
 * a "how to guide" on how to use the code of conduct and what that looks like
