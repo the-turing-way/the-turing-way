@@ -316,6 +316,8 @@ chapters:
             file: project-design/project-repo/project-repo-advanced
           - title: Further Recommendations
             file: project-design/project-repo/project-repo-resources
+      - title: Creating a Community Roadmap
+        file: project-design/community-growth-sustainability
       - title: Personas and Pathways
         file: project-design/persona
         sections:
