@@ -1021,6 +1021,8 @@ chapters:
             sections:
               - title: Background, Motivations, and Techniques
                 file: community-handbook/community-calls/community-calls-coworking-motivation
+              - title: Coworking Drop-ins
+                file: community-handbook/community-calls/community-calls-coworking-dropins  
               - title: Organising Coworking Calls
                 file: community-handbook/community-calls/community-calls-coworking-organisation
               - title: Collaboration Cafes
