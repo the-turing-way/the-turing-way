@@ -912,6 +912,150 @@ chapters:
           - title: Template for Fireside Chat Shared Notes
             file: community-handbook/templates/template-fireside-chat
 
+      # ===== Community Handbook ========================================
+
+      - file: community-handbook/community-handbook
+        sections:
+          - title: Code of Conduct
+            file: community-handbook/coc
+            sections:
+              - title: Code of Conduct in Detail
+                file: community-handbook/coc/coc-details
+              - title: Incident Reporting Guideline
+                file: community-handbook/coc/coc-reporting
+              - title: Enforcement Manual
+                file: community-handbook/coc/coc-enforcement
+              - title: Acknowledgements
+                file: community-handbook/coc/coc-acknowledgement
+          - title: Style Guide
+            file: community-handbook/style
+            sections:
+              - title: Citing and Referencing External Resources
+                file: community-handbook/style/style-citing
+              - title: Cross-Referencing Sections and Chapters
+                file: community-handbook/style/style-crossref
+              - title: Using Figures
+                file: community-handbook/style/style-figures
+              - title: Glossary, Special Blocks and More Styling
+                file: community-handbook/style/style-more-styling
+              - title: Custom Styling
+                file: community-handbook/style/style-custom-styling
+          - title: Maintaining Consistency
+            file: community-handbook/consistency
+            sections:
+              - title: Formatting
+                file: community-handbook/consistency/consistency-formatting
+              - title: Structure
+                file: community-handbook/consistency/consistency-structure
+              - title: Language
+                file: community-handbook/consistency/consistency-language
+          - title: Build the Turing Way Book locally
+            file: community-handbook/local-build
+          - title: Contributing and Developing Chapters - Templates and Workflow
+            file: community-handbook/contributing
+            sections:
+              - title: Templates
+                file: community-handbook/contributing/contributing-templates
+              - title: Workflow
+                file: community-handbook/contributing/contributing-workflow
+          - title: Acknowledging Contributors
+            file: community-handbook/acknowledgement
+            sections:
+              - title: Community Members and Shared Ownership
+                file: community-handbook/acknowledgement/acknowledgement-members
+              - title: Record of Contributions
+                file: community-handbook/acknowledgement/acknowledgement-record
+              - title: Different Contributions and Acknowledgements
+                file: community-handbook/acknowledgement/acknowledgement-examples
+          - title: Translation and Localisation
+            file: community-handbook/translation
+            sections:
+              - title: Translation of Open Source Projects
+                file: community-handbook/translation/translation-localisation
+              - title: Welcome to the localisation team of The Turing Way!
+                file: community-handbook/translation/translation-workflow
+              - title: Embark on Your Localisation Journey
+                file: community-handbook/translation/translation-getting-started
+              - title: Your Gateway to Crowdsourced Localisation
+                file: community-handbook/translation/translation-hello-crowdin
+          - title: Infrastructure
+            file: community-handbook/infrastructure
+            sections:
+              - title: Publishing Contributors
+                file: community-handbook/infrastructure/infrastructure-contributors
+              - title: External Link Checking
+                file: community-handbook/infrastructure/infrastructure-external-link-check
+          - title: Communication Platforms
+            file: community-handbook/communication-channels
+            sections:
+              - title: Slack Start Guide
+                file: community-handbook/communication-channels/slack-start-guide
+              - title: Slack Welcome Guide
+                file: community-handbook/communication-channels/slack-welcome-guide
+          - title: Monthly Newsletters
+            file: community-handbook/newsletters
+            sections:
+              - title: A Process of Creating a newsletter
+                file: community-handbook/newsletters/newsletters-process
+              - title: Newsletter's Style Guide
+                file: community-handbook/newsletters/newsletters-style
+              - title: The Turing Way Newsletter Template
+                file: community-handbook/newsletters/newsletters-template
+          - title: Book Dash Events
+            file: community-handbook/bookdash
+            sections:
+              - title: Application and Review Process
+                file: community-handbook/bookdash/bookdash-application
+              - title: Book Dash Logistics
+                file: community-handbook/bookdash/bookdash-logistics
+              - title: Working With an Illustrator
+                file: community-handbook/bookdash/bookdash-illustrator
+              - title: Participant Selection Process
+                file: community-handbook/bookdash/bookdash-selection
+              - title: Book Dash Main Event Plans
+                file: community-handbook/bookdash/bookdash-events
+              - title: After the Book Dash
+                file: community-handbook/bookdash/bookdash-after
+          - title: Community Calls
+            file: community-handbook/community-calls
+            sections:
+              - title: Background, Motivations, and Techniques
+                file: community-handbook/community-calls/coworking-motivation
+              - title: Core Team Meetings
+                file: community-handbook/community-calls/community-calls-core-team
+              - title: Office Hours
+                file: community-handbook/community-calls/community-calls-office-hours
+          - title: Fireside Chat Series
+            file: community-handbook/fireside-chat
+            sections:
+              - title: Fireside Chat Planning Checklist
+                file: community-handbook/fireside-chat/fireside-chat-checklist
+              - title: Fireside Chat Roles and Responsibilities
+                file: community-handbook/fireside-chat/fireside-chat-roles
+          - title: Giving a Turing Way Talk
+            file: community-handbook/presenting
+          - title: Template Collection
+            file: community-handbook/templates
+            sections:
+              - title: Book Dash Main Shared Document
+                file: community-handbook/templates/template-bookdash-index
+              - title: Book Dash Pre-event Onboarding
+                file: community-handbook/templates/template-bookdash-precall
+              - title: Book Dash GitHub Session
+                file: community-handbook/templates/template-bookdash-github
+              - title: Book Dash Template for Shared Notes
+                file: community-handbook/templates/template-bookdash-notes
+              - title: Book Dash Template for Feedback
+                file: community-handbook/templates/template-bookdash-feedback
+              - title: Online Collaboration Cafe Templates
+                file: community-handbook/templates/template-coworking-collabcafe
+              - title: Weekly Coworking Call Template
+                file: community-handbook/templates/template-coworking-weekly
+              - title: Template for Drafting Newsletters
+                file: community-handbook/templates/template-newsletter-draft
+              - title: Template for Fireside Chat Shared Notes
+                file: community-handbook/templates/template-fireside-chat
+
   # ===== Afterword ========================================
   - file: afterword/afterword
     sections:
