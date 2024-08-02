@@ -1,5 +1,5 @@
-(ch-community-calls-quarterly)=
-# Quarterly Community Call
+(ch-community-calls-forums)=
+# Community Forums
 
 Starting in 2024, The Turing Way delivery team is hosting public community calls that bring together different stakeholders, community members and leaders from across the project.
 
@@ -34,7 +34,7 @@ The current format of the call is as follows, and will likely evolve as the comm
 | Date | HackMD or Padlet notes | Archived Github |
 | ---- | ------ | --------------- |
 | February 2024 | [Padlet](https://annuel2.framapad.org/p/TTW-community-call-15Feb) | --
-| April 2024 | -- | --
-| July 2024 | -- | --
+| April 2024 | [Padlet](https://annuel2.framapad.org/p/TTW-Forum-23April) | --
+| July 2024 | [Padlet](https://annuel2.framapad.org/p/turing-way-forum-July-2024) | --
 | October 2024 | -- | --
 | December 2024 | -- | --
