@@ -14,8 +14,7 @@
       * [https://turing-uk.zoom.us/j/95707517473?pwd=qbku9koG6tQwaG6YZ349MwaWVHNOxh.1](https://turing-uk.zoom.us/j/95707517473?pwd=qbku9koG6tQwaG6YZ349MwaWVHNOxh.1)
 
 * **Indicating your preference for 'Written' or 'Spoken' form of interaction today:**
-
-* *- We will be using breakout rooms - so please add 'S' or 'W' before of your Zoom name (rename option) to indicate your preference for 'Spoken' or 'Written' form of interactions respectively!*
+    * We will be using breakout rooms - so please add 'S' or 'W' before of your Zoom name (rename option) to indicate your preference for 'Spoken' or 'Written' form of interactions respectively!*
 
 Folks with 'W' can opt opt to stay in the main room.
 
@@ -91,7 +90,7 @@ Group 3
 
 * Point 1 resonates, local effects can be strong
 * philosophy that "human is good in nature" vs "not good in nature" - echo chambers where people who come to the turing agree with it
-* final point resonated too
+* Final point resonated too
 
 ## 🌼 Code of Conduct Discussion Notes
 
@@ -104,7 +103,7 @@ Group 3
 * Having an inclusive space with ways to hold people accountable/responsible for ensuring it is a safe/inclusive space
 * It means knowing that there is a place to come back to, to hold people accountable
 * Knowing that there is a process to resolve problems or get feedback if someone is uncomfortable
-* It's a safety and means that there feels like there are guardrails so that people aren't mistreated or subject to harm from other community members. 
+* It's a safety and means that there feels like there are guardrails so that people aren't mistreated or subject to harm from other community members.
 * It also means that expectations are clear about how to engage in the community (a step before contributing) and more about a common understanding of how to behave, interact, and take part in the community. 
 * How the community offers a safe place with clear expectations and acceptable behaviours.
 * Setting culture and expectations for behaviour in a proactive and positive way +1
