@@ -10,7 +10,7 @@ Members of the Book Dash planning committee participate in the planning meetings
 
 These tasks include completing one or more of the following roles and responsibilities:
 - **Planning Meetings**: attend a planning meeting to help select a date, agree on the format and share any feedback on the previous event that can help plan the Book Dash (time commitment: up to 30-60 minutes in the months leading to the Book Dash)
-- **Application Review**: review 2-3 applications based on your availability (time commitment: up to 30 minutes)
+- **Application Review**: review 3-6 applications based on your availability (time commitment: up to 30-60 minutes, based on your availability)
 - **Selection meeting**: participate in the selection meeting to help ensure that the selection is equitable (time commitment: 60 minutes)
 - **Organisation meeting**: attend 1 call to finalise the logistics for the organisation (program agenda and participant support will be carried out by _The Turing Way_ core members) (time commitment: 1 hour)
 - **Onboarding calls**: Lead one of the onboarding calls (time commitment: 1 hour)
