@@ -13,7 +13,9 @@ These tasks include completing one or more of the following roles and responsibi
 - **Application Review**: review 2-3 applications based on your availability (time commitment: up to 30 minutes)
 - **Selection meeting**: participate in the selection meeting to help ensure that the selection is equitable (time commitment: 1.5-2 hours)
 - **Organisation meeting**: attend 1 call to finalise the logistics for the organisation (program agenda and participant support will be carried out by _The Turing Way_ core members) (time commitment: 1 hour)
-- **Session host and mentorship**: lead one of the 2 onboarding calls or one GitHub introduction session before and 1-2 of the contribution sessions or social sessions during the Book Dash based on their schedule (three 1.5 to 2.5 hour-long sessions)
+- **Onboarding calls**: Lead one of the onboarding calls (time commitment: 1 hour)
+- **GitHub introduction session**: Lead the introduction session (time commitment: 1.5 hours)
+- **Session host**: Lead at least one of the sessions during the Book Dash week itself, based on availability (2.5 hour-long sessions)
 - **Debrief meeting**: attend a meeting after the event to discuss what went well and what we can improve going forward (time commitment: 1 hour)
 - **Shared Documents**: set up or review shared notes, application form, review rubrics or other required documents for the Book Dash (time commitment: relative to the type of document)
 - **Post-event Documents**: ensure the update of [contributors file](https://github.com/the-turing-way/the-turing-way/blob/main/contributors.md), help document the event report and update the Book Dash chapter online
