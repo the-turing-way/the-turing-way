@@ -8,7 +8,7 @@ This subchapter explains the process of selection and logistics for organising t
 To ensure that the Book Dash continues to evolve as per the community needs and preferences, invite returning members of the Book Dash events to join a planning committee.
 Members of the Book Dash planning committee participate in the planning meetings, provide feedback on the ongoing process and when possible take the lead on organisation tasks related to the Book Dash.
 
-These tasks usually include the following roles and responsibilities:
+These tasks include completing one or more of the following roles and responsibilities:
 - **Planning Meeting**: attend a planning meeting to help select a date, agree on the format and share any feedback on the previous event that can help plan the Book Dash (time commitment: up to 30 minutes)
 - **Application Review**: review 2-3 applications based on your availability (time commitment: up to 30 minutes)
 - **Selection meeting**: participate in the selection meeting to help ensure that the selection is equitable (time commitment: 1.5-2 hours)
