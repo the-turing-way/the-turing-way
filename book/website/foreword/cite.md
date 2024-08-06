@@ -3,7 +3,7 @@
 
 All material in _The Turing Way_ is available under a [CC-BY 4.0 licence](https://github.com/the-turing-way/the-turing-way/blob/master/LICENSE.md).
 
-You can cite _The Turing Way_ through the project's Zenodo archive using DOI: [10.5281/zenodo.3233853](https://zenodo.org/doi/10.5281/zenodo.3332807).
+You can cite _The Turing Way_ through the project's Zenodo archive using DOI: [10.5281/zenodo.3233853](https://zenodo.org/doi/10.5281/zenodo.3233853).
 
 The citation will look something like:
 
