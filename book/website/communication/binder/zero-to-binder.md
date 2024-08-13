@@ -1,7 +1,7 @@
 (z2b)=
 # Zero-to-Binder
 
-In this chapter, we will create a Binder project from scratch: we will first make a repository on GitHub and then launch in on mybinder.org.
+In this chapter, we will create a Binder project from scratch: we will first make a repository on GitHub and then launch it on mybinder.org.
 Sections where you are expected to complete a task are denoted by three traffic light 🚦 emojis.
 Some steps give you the option of Python, Julia or R - click on the tab of your preferred language.
 
