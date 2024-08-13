@@ -16,6 +16,8 @@ chapters:
     sections:
       - title: Background
         file: foreword/background
+      - title: History of The Turing Way Project
+        file: foreword/history
       - title: Navigating the Handbook
         file: foreword/navigate
       - title: Emergence as The Turing Way Strategy
