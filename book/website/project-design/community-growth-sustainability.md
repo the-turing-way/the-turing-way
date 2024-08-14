@@ -166,7 +166,7 @@ Analyze the qualitative data by identifying common themes and patterns across di
 
 ## Creating the Community Building Roadmap
 
-With the findings from the interviews, synthesize the key insights and prioritize actionable recommendations by developing Community Roadmap. The roadmap should be informed by thorough research and data collection, including interviews with key stakeholders. Below is a detailed narrative on creating a community building roadmap, incorporating insights from the attached Open@RIT presentation template.
+Using the findings from the interviews, synthesize the key insights and prioritize actionable recommendations by developing Community Roadmap. The roadmap should be informed by thorough research and data collection, including interviews with key stakeholders. Below is a detailed narrative on creating a community building roadmap, incorporating insights from the attached Open@RIT presentation template.
 
 
 ### **1. Synthesis of Findings:**
