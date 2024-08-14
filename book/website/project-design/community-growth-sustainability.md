@@ -1,11 +1,15 @@
-# Open Source Community Building Guide
+(pd-community-roadmap)=
+
+# Creating a Community Roadmap Plan
 
 
 ## Introduction
 
 Building a successful open-source community requires a strategy and level of investment similar to building a successful product or application. The creator of that community must be strategic in identifying who their contributors are, why they contribute, and what resources they need to overcome, as well as the many barriers and challenges to successfully contributing to any open source project.
 
-This guide outlines a comprehensive methodology for defining project goals, understanding contributor motivations, and creating a clear pathway for engagement. Drawing on best practices from the Mozilla Open Leadership Training Series and The Turing Way, this guide aims to help project maintainers foster a vibrant and sustainable open-source community. Below you will find guidelines for developing a strategy to growing your community as well as specific instructions for gathering the evidence needed to identify specific roadblocks to contribution.
+This guide outlines a comprehensive methodology for developing a Community Roadmap. This roadmap should serve as the central document that will allow maintainers to strategically understand how to acheive their goals related to creating a community of useful contributors necessary to maintain a healthy project.
+
+This roadmap will often have sections such as project goals, understanding contributor motivations, and creating a clear pathway for engagement. Drawing on best practices from the Mozilla Open Leadership Training Series and The Turing Way, this guide aims to help project maintainers foster a vibrant and sustainable open-source community. Below you will find guidelines for developing a strategy to growing your community as well as specific instructions for gathering the evidence needed to identify specific roadblocks to contribution.
 
 
 ## Defining General Goals
@@ -46,6 +50,8 @@ For instance, a developer might be motivated by the need to add specific functio
 ## Understanding the Contribution Pathway
 
 The contribution pathway outlines the stages through which individuals engage with the project, from first hearing about it to taking on leadership roles. Each stage has specific objectives and actions to facilitate smooth transitions.
+
+These stages were first proposed as part of the [Mozilla Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/bring-on-contributors-using-personas-and-pathways/) but we have expanded upon each stage with additional detail.
 
 
 ### Discovery:
@@ -147,8 +153,6 @@ Conducting thorough interviews is essential to gather evidence and identify arch
 Choose an appropriate format for conducting the interviews, such as one-on-one interviews for in-depth insights, focus groups for collective discussions, or online surveys for broader reach. Ensure accurate data collection by recording responses and taking detailed notes. This helps capture nuanced insights and direct quotes that can enrich the analysis.
 
 **Examples:**
-
-
 
 * **One-on-One Interviews:** Provide detailed, personal insights.
 * **Focus Groups:** Enable dynamic interactions and collective brainstorming.
