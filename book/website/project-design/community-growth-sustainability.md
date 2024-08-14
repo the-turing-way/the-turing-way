@@ -41,7 +41,7 @@ Once your general goals are defined, you must understand what sort of contributo
 * **Intrinsic Motivations:** Personal growth, learning opportunities, passion for the project.
 * **Extrinsic Motivations:** Recognition, monetary rewards, career advancement.
 
-For instance, a developer might be motivated by the need to add specific functionality for their use case. At the same time, a technical writer may be more incentivized to contribute better documentation to onboard their teammates..
+For instance, a developer might be motivated by the need to add specific functionality for their use case. At the same time, a technical writer may be more incentivized to contribute better documentation to onboard their teammates.
 
 ## Understanding the Contribution Pathway
 
