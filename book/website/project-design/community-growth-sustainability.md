@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Building a successful open-source community requires a strategy and level investment similar to building a successful product or application. The creator of that community must be strategic in identifying who their contributors are, why they contribute, and what resources they need to overcome the many barriers and challenges to successfully contributing to any open source project.
+Building a successful open-source community requires a strategy and level of investment similar to building a successful product or application. The creator of that community must be strategic in identifying who their contributors are, why they contribute, and what resources they need to overcome, as well as the many barriers and challenges to successfully contributing to any open source project.
 
 This guide outlines a comprehensive methodology for defining project goals, understanding contributor motivations, and creating a clear pathway for engagement. Drawing on best practices from the Mozilla Open Leadership Training Series and The Turing Way, this guide aims to help project maintainers foster a vibrant and sustainable open-source community. Below you will find guidelines for developing a strategy to growing your community as well as specific instructions for gathering the evidence needed to identify specific roadblocks to contribution.
 
