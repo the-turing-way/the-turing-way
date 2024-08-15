@@ -1750,7 +1750,8 @@
         "test",
         "eventOrganizing",
         "bug",
-        "content"
+        "content",
+        "a11y"
       ]
     },
     {
