@@ -1749,7 +1749,9 @@
         "talk",
         "test",
         "eventOrganizing",
-        "bug"
+        "bug",
+        "content",
+        "a11y"
       ]
     },
     {
