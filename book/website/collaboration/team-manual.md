@@ -201,4 +201,5 @@ This summary is based on an [X (formerly Twitter) Thread by @samuelmehr](https:/
 * [10 simple rules for a supportive lab environment](https://doi.org/10.1162/jocn_a_01928) {cite:ps}`Pike2022simple`
 * [Ten simple rules for creating a sense of belonging in your research group](https://doi.org/10.1371/journal.pcbi.1010688) {cite:ps}`RuedasGracia2022ten`
 * [Ten simple rules for how you can help make your lab a better place as a graduate student or postdoc](https://doi.org/10.1371/journal.pcbi.1010673) {cite:ps}`Rillig2022ten`
+* [Ten simple rules to cultivate belonging in collaborative data science research teams](https://doi.org/10.1371/journal.pcbi.1010567) {cite:ps}`Gaynor2022ten`
 * [Building a culture of open and reproducible science](https://www.youtube.com/watch?v=__PNXPl2xq0&list=PLeDygc8TN_J6h3RbDDVPW5oTJzRBVg7BQ&index=3&t=3472s)
