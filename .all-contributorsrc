@@ -4809,6 +4809,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "manuGil",
+      "name": "Manuel Garcia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8195424?v=4",
+      "profile": "https://github.com/manuGil",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
