@@ -1,4 +1,4 @@
-(ch-coworking-weekly)=
+(ch-community-calls-coworking)=
 # Weekly Coworking Calls
 
 _The Turing Way_ team has been hosting shorter coworking calls each week.
