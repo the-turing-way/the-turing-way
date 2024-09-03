@@ -10,7 +10,10 @@ Make as many copies of this file as you need for all your subchapters
 
 Visualization techniques can be incredibly helpful when trying to understand your data and any patterns of missingness. Different programming languages offer unique tools and packages to help with this. We will introduce some for [R](pd-visualising-missingness-r) and for [python](pd-visualising-missingness-python). Lastly, we will use some of these tools to show simulated visualisations of all three data structures described in {ref}`pd-missing-data-structures`. 
 
-
+(pd-missing-data-visualising-missingness-plottypes)
+## Plot Types
+1. Nullity Matrix
+2. 
 > **Write an introduction for your subchapter here**.
 > Your introduction should briefly introduce the topic of your subchapter and highlight its key ideas.
 > Even though your introduction should be short and focused, you should try to explain why and how the subchapter fits the overall context of the chapter and what the reader should expect to learn from it.
@@ -28,7 +31,7 @@ Visualization techniques can be incredibly helpful when trying to understand you
 
 <!-- 
 In the label, replace `keyidea1` with a word that best describes the section or key idea you want to explain -->
-(pd-missing-data-structures-R)=
+(pd-missing-data-visualising-missingness-R)=
 ## R
 
 > **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
@@ -62,9 +65,9 @@ Here is a note!
 ```
 
 
-(pd-missing-data-structures-Python)=
+(pd-missing-data-visualising-missingness-Python)=
 ## Python
-
+The [missingno python package](https://github.com/ResidentMario/missingno) is a great tool for visualizing missing data. 
 
 
 (sectioninitials-filename-summary)=
@@ -73,6 +76,12 @@ Here is a note!
 > **Add a short summary of this subchapter with key takeaways.**
 > You may also recommend and link to other chapters/subchapters you want your readers to explore after reading this subchapter.
 
+| Plot Type | R package and function | Python missingno function |
+| -------- | ------- | |
+| Nullity matrix | vis_miss | matrix |
+| Nullity by Column |  | bar |
+| Heatmap of nullity correlation | | heatmap |
+| | | dendogram |
 
 <!-- IMPORTANT!
 

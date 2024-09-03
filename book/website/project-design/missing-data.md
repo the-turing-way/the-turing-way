@@ -1,6 +1,18 @@
 (pd-missing-data)=
 # Missing Data Handling
 
+```{figure} ../figures/missing-data-handling.*
+---
+height: 400px
+name: first-pull-request
+alt: Cartoon-like sketch with four people assembling puzzle pieces. There are four different buckets with puzzle pieces with blue dots in them. One bucket is labelled "RANDOM" and another "NOT RANDOM". Two of the people are holding a dotted puzzle piece. Another person is looking up at a hanging puzzle. Some pieces of the puzzle are dotted, others are filled with solid orange. The last person standing to the left of the hanging puzzle is painting an empty puzzle piece tile using paint from a bucket labelled "DATA HANDLING". This paint has the same dotted pattern found on the puzzle pieces in the buckets. 
+---
+Missing Data Handling.
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+<!---
+TODO: change the doi above to the right one
+-->
 
 (pd-missing-data-prerequisites)=
 ## Prerequisites

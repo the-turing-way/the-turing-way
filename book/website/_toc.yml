@@ -377,7 +377,7 @@ parts:
               - title: Structured Missingness
                 file: project-design/missing-data/missing-data-structured-missingness
               - title: Resources
-                file: missing-data-resources
+                file: project-design/missing-data/missing-data-resources
 
       # ===== Guide for Communication ========================================
 
