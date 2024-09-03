@@ -62,7 +62,7 @@ What did this process look like for us?
  - identifying the symposium's target audience, 
  - planning the event start and end times, including rest breaks*, 
  - catering options,
- - deciding whether to run a hybrid event (online and in-person). Guidelines for hybrid collaboration and events can be found [here](https://the-turing-way.netlify.app/collaboration/hybrid-collab).
+ - deciding whether to run a hybrid event (online and in-person). Guidelines for hybrid collaboration and events can be found [here](https://book.the-turing-way.org/collaboration/hybrid-collab).
  
 *To make the event more accessible, it was important for us to **make sure there were enough 'bio breaks'** to allow people to stretch their bodies, use the toilet and take a breather.
 

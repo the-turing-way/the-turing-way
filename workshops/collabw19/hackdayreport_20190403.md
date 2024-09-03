@@ -30,7 +30,7 @@
 
 ![](https://memegenerator.net/img/instances/67053948/what-if-i-am-reviewer-2.jpg)
 
-* [https://deploy-preview-18--the-turing-way.netlify.com/reviewing/reviewing.html](https://deploy-preview-18--the-turing-way.netlify.com/reviewing/reviewing.html)
+* [https://deploy-preview-18--book.the-turing-way.org/reviewing/reviewing.html](https://deploy-preview-18--book.the-turing-way.org/reviewing/reviewing.html)
 
 ### New documentation: Style guide
 
@@ -61,7 +61,7 @@ We set out to enhance the first version Turing Way project, both in terms of act
 Specifically:
 
 * @KirstieJane restructured a long chapter into subsections: https://github.com/alan-turing-institute/the-turing-way-book/pull/12
-  * :point_right: https://the-turing-way.netlify.com/reproducibility/reproducibility.html
+  * :point_right: https://book.the-turing-way.org/reproducibility/reproducibility.html
 * @longr fixed a broken image in the reproducibility chapter: https://github.com/alan-turing-institute/the-turing-way-book/pull/10
     * This fixed issue: https://github.com/alan-turing-institute/the-turing-way/issues/375
 * @rainsworth updated the Contributing Guidelines to include a Making a change with a pull request section: https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md
@@ -70,7 +70,7 @@ Specifically:
     * :point_right: https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md
 * @SiccarPoint built a chapter on Code Reviewing: https://github.com/alan-turing-institute/the-turing-way-book/pull/18
     * This fixed issue: https://github.com/alan-turing-institute/the-turing-way/issues/372
-    * :point_right: [https://deploy-preview-18--the-turing-way.netlify.com/reviewing/reviewing.html](https://deploy-preview-18--the-turing-way.netlify.com/reviewing/reviewing.html)
+    * :point_right: [https://deploy-preview-18--book.the-turing-way.org/reviewing/reviewing.html](https://deploy-preview-18--book.the-turing-way.org/reviewing/reviewing.html)
 * @SiccarPoint added a little material on test coverage: https://github.com/alan-turing-institute/the-turing-way-book/pull/15
 * @longr fixed some inline quotes in the version control chapter: https://github.com/alan-turing-institute/the-turing-way-book/pull/16
 * @longr Found issues with the layout and opened issues: https://github.com/alan-turing-institute/the-turing-way/issues/376

@@ -72,7 +72,10 @@ We value the participation of every member of our community and want to ensure t
 Accordingly, everyone who participates in _The Turing Way_ project is expected to show respect and courtesy to other community members at all times.
 All contributions must abide by our [code of conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
 
-![Gif showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table](https://media.giphy.com/media/gKIUisnjpj2PS75nOJ/giphy.gif)
+<video controls loop autoplay muted>
+  <source src="_static/videos/contributors.mp4" type="video/mp4">
+  <p>Video showing screen capture of contributors table, smiling faces and emojis representing the types of contributions in a table.</p>
+</video>
 
 (welcome-history)=
 ## History
@@ -93,8 +96,8 @@ The citation will look something like:
 Please visit the [DOI link](https://doi.org/10.5281/zenodo.3233853) though to get the most recent version - the one above is not automatically generated and may be out of date.
 DOIs allow us to archive the repository and are useful for tracking the work in academic publications.
 
-You can also share the human-readable URL to a page in the book, for example, {ref}`https://the-turing-way.netlify.app/reproducible-research/overview/overview-definitions.html <rr-overview-definitions>`, but be aware that the project is under development and these links may change over time.
-You might want to include a [web archive link](http://web.archive.org), such as: [https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html](https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html), to make sure that you do not end up with broken links everywhere!
+You can also share the human-readable URL to a page in the book, for example, {ref}`https://book.the-turing-way.org/reproducible-research/overview/overview-definitions.html <rr-overview-definitions>`, but be aware that the project is under development and these links may change over time.
+You might want to include a [web archive link](http://web.archive.org), such as: [https://web.archive.org/web/20191030093753/https://book.the-turing-way.org/reproducibility/03/definitions.html](https://web.archive.org/web/20191030093753/https://book.the-turing-way.org/reproducibility/03/definitions.html), to make sure that you do not end up with broken links everywhere!
 
 We really appreciate any references that you make to _The Turing Way_ project in your work, and we hope it is useful.
 If you have any questions, please [get in touch](https://github.com/the-turing-way/the-turing-way#get-in-touch).
