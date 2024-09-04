@@ -6,7 +6,7 @@ This subchapter introduces the main missing data structures. In order to decide 
 2. [Missing at Random (MAR)](pd-missing-data-structures-mar)
 3. [Missing not at Random (MNAR)](pd-missing-data-structures-mnar)
 
-These were originally proposed by Rubin {cite:ps}`Rubin1976missingdata` and are explained in more detail below. As this chapter has been created as part of the Turing-Roche Community scholar scheme, the examples provided will be based in healthcare. 
+These were originally proposed by Rubin {cite:ps}`Rubin1976missingdata` and are explained in more detail below. As this chapter has been created as part of the Turing-Roche Community Scholar scheme, the examples provided will be based in healthcare. 
 
 > **Example Dataset**: We will be using a fictional study of health outcomes to explain the different mechanisms of missing data. For demonstration purposes, the dataset is first shown (below) as being fully complete and only has 8 participants. 
 >  
