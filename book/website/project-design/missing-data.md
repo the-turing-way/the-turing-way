@@ -36,7 +36,7 @@ This chapter aims to introduce missing data handling. Although we live in the ag
 
 ```{figure} ../figures/missing-data-handling.*
 ---
-height: 400px
+height: 500px
 name: first-pull-request
 alt: Cartoon-like sketch with four people assembling puzzle pieces. There are four different buckets with puzzle pieces with blue dots in them. One bucket is labelled "RANDOM" and another "NOT RANDOM". Two of the people are holding a dotted puzzle piece. Another person is looking up at a hanging puzzle. Some pieces of the puzzle are dotted, others are filled with solid orange. The last person standing to the left of the hanging puzzle is painting an empty puzzle piece tile using paint from a bucket labelled "DATA HANDLING". This paint has the same dotted pattern found on the puzzle pieces in the buckets. 
 ---
