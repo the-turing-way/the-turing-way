@@ -6,79 +6,101 @@ This subchapter introduces the main missing data structures. In order to decide 
 2. [Missing at Random (MAR)](pd-missing-data-structures-mar)
 3. [Missing not at Random (MNAR)](pd-missing-data-structures-mnar)
 
-These were originally proposed by Rubin {cite:ps}`Rubin1976missingdata` and are explained in more detail below. 
+These were originally proposed by Rubin {cite:ps}`Rubin1976missingdata` and are explained in more detail below. As this chapter has been created as part of the Turing-Roche Community scholar scheme, the examples provided will be based in healthcare. 
 
-<!-- 
-> **Write an introduction for your subchapter here**.
-> Your introduction should briefly introduce the topic of your subchapter and highlight its key ideas.
-> Even though your introduction should be short and focused, you should try to explain why and how the subchapter fits the overall context of the chapter and what the reader should expect to learn from it.
+> **Example Dataset**: We will be using a fictional study of health outcomes to explain the different mechanisms of missing data. For demonstration purposes, the dataset is first shown (below) as being fully complete and only has 8 participants. 
+>  
+> | Participant Number | Age | Diastolic Blood Pressure | Systolic Blood Pressure | Blood Test Result | Motor Score | Cognitive Score |
+> |--------------------|-----|--------------------------|-------------------------|-------------------|-------------|-----------------|
+> | 1                  | 56  | 82                       | 118                     | Positive          | 10          | 35              |
+> | 2                  | 78  | 87                       | 134                     | Negative          | 32          | 29              |
+> | 3                  | 85  | 90                       | 130                     | Negative          | 27          | 14              |
+> | 4                  | 43  | 83                       | 121                     | Negative          | 15          | 36              |
+> | 5                  | 67  | 86                       | 131                     | Positive          | 20          | 25              |
+> | 6                  | 82  | 92                       | 133                     | Negative          | 26          | 12              |
+> | 7                  | 88  | 95                       | 140                     | Positive          | 34          | 10              |
+> | 8                  | 71  | 87                       | 126                     | Negative          | 33          | 22              |
+>
+>
+> Where generally worse health outcomes are associated with: 
+> - a higher blood pressure measurement
+> - a positive blood test result
+> - a high motor score
+> - a low cognitive score 
+>
+> In the examples below, any missing values will be indicated by "N/A" (Not Available) in red bold font. 
 
-
-> Each of the key ideas you talk about in the introduction should have a section of its own.
-> When you mention a key idea in your introduction, remember to cross reference it to the section of your subchapter where you explain it further.
-> This will be useful for people who may only want to read specific parts of your content.
-> See the [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html) for The Turing Way's recommendations on cross referencing.
-
-> In this template, we assume that our subchapter has three key ideas, your subchapter may have more or less than this. 
-
-> It may be beneficial to run your content through a grammar checker (such as Grammarly) to catch grammatical mistakes.
--->
-
-<!-- 
-In the label, replace `keyidea1` with a word that best describes the section or key idea you want to explain -->
 
 (pd-missing-data-structures-mcar)=
 ## Missing Completely at Random (MCAR) 
 
-Just as the name may suggest, missing data can be characterized as MCAR when it occurs completely randomly and is not due to an event caused by any variables of interest (whether observed or unobserved). In reality, this is quite a strict classification and rarely occurs. Essentially any variable that affects the reason for why the data is missing in the first place, has no affect on any of the variables in the study.  
+Just as the name may suggest, missing data can be characterized as MCAR when it occurs completely randomly and is not due to an event caused by any variables of interest (whether observed or unobserved). Thus, there are no systemic differences between data entries with or without missing values, and no bias is introduced because of the missing data. 
 
-> **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
-> You may break the section down into subsections if you wish, however, remember to add [labels](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html) to any additional headers you create to facilitate cross-referencing.
+In reality, this is quite a strict classification and rarely occurs. Essentially any variable that affects the reason for why the data is missing in the first place has no affect on any of the variables in the study. Therefore, this means that the probability of a data entry being missing is the same for any given data point. 
 
-> Remember to use the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) and Jupyter Book's [Cheat Sheet](https://jupyterbook.org/reference/cheatsheet.html) to guide your writing.
-> The [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html) also contains _The Turing Way's_ recommendations for referencing and citation.
-
-> To include an image in your writing, use the MyST directive shown below. 
-> Remember to add your image to the `figures` [folder](https://github.com/the-turing-way/the-turing-way/tree/main/book/website/figures) and use the correct path, else it will not be displayed.
-
-```{figure} ../../figures/image-name.png
----
-name: image-name
-alt: describe your image for readers who rely on screen readers
----
-Your image caption here
-```
-
-> To include code blocks, simply enclose your code in three sets of backticks shown below.
-
-```python
-def simple_function():
-    pass
-```
-
-> To include an admonition or to highlight a block of text that exists slightly apart from the narrative of your section, use the directive shown below. Jupyter Book's [documentation](https://jupyterbook.org/content/content-blocks.html#) has other useful examples.
-
-```{note}
-Here is a note!
-```
-
+> **Example**: A specific batch of blood samples were incorrectly processed, so the results were discarded. The missing data in the variable of interest (blood test result), is not explained by any observed or unobserved variables. 
+>
+> | Participant Number | Age | Diastolic Blood Pressure | Systolic Blood Pressure | Blood Test Result                                  | Motor Score | Cognitive Score |
+> |--------------------|-----|--------------------------|-------------------------|---------------------------------------------------|-------------|-----------------|
+> | 1                  | 56  | 82                       | 118                     | <span style="color:red;"><strong>N/A</strong></span> | 10          | 35              |
+> | 2                  | 78  | 87                       | 134                     | <span style="color:red;"><strong>N/A</strong></span> | 32          | 29              |
+> | 3                  | 85  | 90                       | 130                     | <span style="color:red;"><strong>N/A</strong></span> | 27          | 14              |
+> | 4                  | 43  | 83                       | 121                     | Negative                                           | 15          | 36              |
+> | 5                  | 67  | 86                       | 131                     | Positive                                           | 20          | 25              |
+> | 6                  | 82  | 92                       | 133                     | Negative                                           | 26          | 12              |
+> | 7                  | 88  | 95                       | 140                     | Positive                                           | 34          | 10              |
+> | 8                  | 71  | 87                       | 126                     | Negative                                           | 33          | 22              |
+> 
+> Here, the first batch of blood samples had to be discarded. 
 
 (pd-missing-data-structures-mar)=
 ## Missing at Random (MAR) 
 
+In contrast, when missingness can be explained by variables with complete data, and is not random, this is known as MAR. Therefore, for a given group defined by and observed variable, the probability of being missing is the same for all individuals of that group. Such missingness may or may not result in bias; if there is bias this can be handled by accounting for the known variable correlated with the reason for missingness. 
+
+> **Example**: Blood pressure readings may be missing from individuals who are older, frailer, and have less mobility, and therefore, are more likely to not attend the clinic. In this instance, the reason data is missing in the variable of interest (blood pressure), is related to other observed variables (age and mobility). 
+>
+> | Participant Number | Age | Diastolic Blood Pressure | Systolic Blood Pressure | Blood Test Result                                  | Motor Score | Cognitive Score |
+> |--------------------|-----|--------------------------|-------------------------|---------------------------------------------------|-------------|-----------------|
+> | 1                  | 56  | 82                       | 118                     | <span style="color:red;"><strong>N/A</strong></span> | 10          | 35              |
+> | 2                  | 78  | 87                       | 134                     | <span style="color:red;"><strong>N/A</strong></span> | 32          | 29              |
+> | 3                  | 85  | <span style="color:red;"><strong>N/A</strong></span> | <span style="color:red;"><strong>N/A</strong></span> | <span style="color:red;"><strong>N/A</strong></span> | 27          | 14              |
+> | 4                  | 43  | 83                       | 121                     | Negative                                           | 15          | 36              |
+> | 5                  | 67  | 86                       | 131                     | Positive                                           | 20          | 25              |
+> | 6                  | 82  | 92                       | 133                     | Negative                                           | 26          | 12              |
+> | 7                  | 88  | <span style="color:red;"><strong>N/A</strong></span> | <span style="color:red;"><strong>N/A</strong></span> | Positive                                           | 34          | 10              |
+> | 8                  | 71  | <span style="color:red;"><strong>N/A</strong></span> | <span style="color:red;"><strong>N/A</strong></span> | Negative                                           | 33          | 22              |
+>
+> Individuals with a high motor score (>26) and who were older (>70) were unable to attend the blood pressure clinic. 
 
 
 
 (pd-missing-data-structures-mnar)=
 ## Missing not at Random (MNAR)
 
+Data that are MNAR is missing due to reasons that we do not know. In other words, the reason for the missingness is related to the value of the variable that is missing. This is the most complex case of data missingness to handle, as bias may occur but cannot be adjusted for as the source of the missingness is unmeasured. 
 
+> **Example**: Follow-up cognitive testing may be missing for individuals who have had significant cognitive decline, as they are more likely to withdraw early from the study. Here, the reason for the missing data in the variable of interest (Cognitive Score) is correlated to unobserved data (the value of the observation itself). 
+>
+> | Participant Number | Age | Diastolic Blood Pressure | Systolic Blood Pressure | Blood Test Result                                  | Motor Score | Cognitive Score                                  |
+> |--------------------|-----|--------------------------|-------------------------|---------------------------------------------------|-------------|-------------------------------------------------|
+> | 1                  | 56  | 82                       | 118                     | <span style="color:red;"><strong>N/A</strong></span> | 10          | 35                                              |
+> | 2                  | 78  | 87                       | 134                     | <span style="color:red;"><strong>N/A</strong></span> | 32          | 29                                              |
+> | 3                  | 85  | <span style="color:red;"><strong>N/A</strong></span> | <span style="color:red;"><strong>N/A</strong></span> | <span style="color:red;"><strong>N/A</strong></span> | 27          | <span style="color:red;"><strong>N/A</strong></span> |
+> | 4                  | 43  | 83                       | 121                     | Negative                                           | 15          | 36                                              |
+> | 5                  | 67  | 86                       | 131                     | Positive                                           | 20          | 25                                              |
+> | 6                  | 82  | 92                       | 133                     | Negative                                           | 26          | <span style="color:red;"><strong>N/A</strong></span> |
+> | 7                  | 88  | <span style="color:red;"><strong>N/A</strong></span> | <span style="color:red;"><strong>N/A</strong></span> | Positive                                           | 34          | <span style="color:red;"><strong>N/A</strong></span> |
+> | 8                  | 71  | <span style="color:red;"><strong>N/A</strong></span> | <span style="color:red;"><strong>N/A</strong></span> | Negative                                           | 33          | 22                                              |
+>
+> Participants with a cognitive score less than 15, withdrew early from the study due to worsening outcomes. 
 
 (sectioninitials-filename-summary)=
 ## Summary
 
-> **Add a short summary of this subchapter with key takeaways.**
-> You may also recommend and link to other chapters/subchapters you want your readers to explore after reading this subchapter.
+We have defined three types of missingness: MCAR, MAR, and MNAR. These definitions are particularly helpful in determining which data handling method to use. Simple implementations were used to demonstrate the types of missingness a small dataset of health outcomes. However, these are quite oversimplified and real-world datasets can be a lot more complex. For instance, whether a given participants may be unable to come into clinic or willing to continue participating in a study at a younger age/ lower motor score/ higher cognitive score than average. Several types of missingness may also be present in a given dataset, and sometimes multiple types may occur in one variable of interest. Therefore, handling missing data can be quite tricky. Here we directly observed the missing values by looking at the data, however this is a cumbersome and unrealistic task in many real datasets, which maybe have thousands of participants, and hundreds of variables (or more). Thus, visualisation methods that simplify determining any patterns of missingness are incredibly useful. These are explored in the next subchapter ({ref}`pd-missing-data-visualising-missingness`). 
+
+
 
 
 <!-- IMPORTANT!
