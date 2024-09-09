@@ -1,10 +1,3 @@
-<!-- 
-Identify the major themes/topics that make up your chapter. 
-These will be the subchapters of your chapter.
-Write about each one in a different `chapter-content.md` file.
-Make as many copies of this file as you need for all your subchapters
--->
-
 (pd-missing-data-methods)=
 # Missing Data Handling Methods
 

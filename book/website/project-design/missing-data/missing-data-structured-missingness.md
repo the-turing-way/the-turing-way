@@ -1,107 +1,28 @@
-<!-- 
-Identify the major themes/topics that make up your chapter. 
-These will be the subchapters of your chapter.
-Write about each one in a different `chapter-content.md` file.
-Make as many copies of this file as you need for all your subchapters
--->
 
 (pd-missing-data-structured-missingness)=
 # Structured Missingness 
 
-> **Write an introduction for your subchapter here**.
-> Your introduction should briefly introduce the topic of your subchapter and highlight its key ideas.
-> Even though your introduction should be short and focused, you should try to explain why and how the subchapter fits the overall context of the chapter and what the reader should expect to learn from it.
+A alternative way of characterizing missing data, known as structured missingness (SM), has been pioneered by researchers of the [Turing-Roche Partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership). SM arises in data that is not MAR, but that has some structure or pattern {cite:ps}`Mitra2023structuredmissingness`. This is common in research contexts where data is combined from multiple studies or sources. For instance, many large-scale healthcare studies are multimodal and attempt to include a diverse set of patients, therefore capturing data for a heterogeneous group of individuals. Therefore, data is often collected at multiple time points and multiple sites, where different measurements may be taken, such a clinical, genomic or imaging measures. Our example dataset (introduced in ref{pd-missing-data-structures}) is also an example of SM. 
 
-<!-- 
-> Each of the key ideas you talk about in the introduction should have a section of its own.
-> When you mention a key idea in your introduction, remember to cross reference it to the section of your subchapter where you explain it further.
-> This will be useful for people who may only want to read specific parts of your content.
-> See the [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html) for The Turing Way's recommendations on cross referencing.
+> **Example**: The missing values in the cognitive score and the blood pressure readings are examples of SM. The blood pressure readings (MAR) are missing in participants that could not attend the clinic due to being older and having more motor dysfunction. The cognitive score missing values (MNAR) are missing in participants with significant cognitive decline. Therefore, the missingness in both instances has some information that can be leveraged in further analyses and this would be also considered as SM.  
+>
+> | Participant Number | Age | Diastolic Blood Pressure | Systolic Blood Pressure | Blood Test Result                                  | Motor Score | Cognitive Score                                  |
+> |--------------------|-----|--------------------------|-------------------------|---------------------------------------------------|-------------|-------------------------------------------------|
+> | 1                  | 56  | 82                       | 118                     | <span style="color:red;"><strong>N/A</strong></span> | 10          | 35                                              |
+> | 2                  | 78  | 87                       | 134                     | <span style="color:red;"><strong>N/A</strong></span> | 32          | 29                                              |
+> | 3                  | 85  | <span style="color:red;"><strong>N/A</strong></span> | <span style="color:red;"><strong>N/A</strong></span> | <span style="color:red;"><strong>N/A</strong></span> | 27          | <span style="color:red;"><strong>N/A</strong></span> |
+> | 4                  | 43  | 83                       | 121                     | Negative                                           | 15          | 36                                              |
+> | 5                  | 67  | 86                       | 131                     | Positive                                           | 20          | 25                                              |
+> | 6                  | 82  | 92                       | 133                     | Negative                                           | 26          | <span style="color:red;"><strong>N/A</strong></span> |
+> | 7                  | 88  | <span style="color:red;"><strong>N/A</strong></span> | <span style="color:red;"><strong>N/A</strong></span> | Positive                                           | 34          | <span style="color:red;"><strong>N/A</strong></span> |
+> | 8                  | 71  | <span style="color:red;"><strong>N/A</strong></span> | <span style="color:red;"><strong>N/A</strong></span> | Negative                                           | 33          | 22                                              |
+>
+> A complete case analysis may have bias introduced due to the missing blood pressure readings (MAR) and cognitive score (MNAR) values, while the blood test (MCAR) values would not introduce bias, but would decrease statistical power. MAR data may introduce bias by selecting a non-represenative subset of the data. This is similarly the case for MNAR, but as the mechanism behind the missigness is not apparent, handling this bias in subsequent analysis can be challenging.  
 
-> In this template, we assume that our subchapter has three key ideas, your subchapter may have more or less than this. 
 
-> It may be beneficial to run your content through a grammar checker (such as Grammarly) to catch grammatical mistakes.
--->
+Many datasets, fusing data from multiple sites and modalities, do take care to follow a certain design and data collection process. However, machine learning methods perform best with large datasets. It is common practice for a machine learning model to include data from many studies, often with different designs and variables. Missing values may therefore include information in and of themselves; they may be related to sampling methodologies or reflect population characteristics. Traditional imputation methods, such as those introduced in ref{`pd-missing-data-methods`}, frequently are not appropriate for handling SM and do not take advantage of the information inherent in SM {cite:ps}`Mitra2023structuredmissingness`. SM also has consequences for downstream analyses; if there is bias to the SM mechanisms, the fairness of the model would be in question. Further research is required to identify appropriate methods for universally handling SM and in defining SM within the MCAR, MAR, and MNAR framework {cite:ps}`Jackson2023structuredmissingness`. 
 
-<!-- 
-In the label, replace `keyidea1` with a word that best describes the section or key idea you want to explain -->
-(sectioninitials-filename-keyidea1)=
-## Key Idea 1
-
-> **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
-> You may break the section down into subsections if you wish, however, remember to add [labels](https://the-turing-way.netlify.app/community-handbook/style/style-crossref.html) to any additional headers you create to facilitate cross-referencing.
-
-> Remember to use the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) and Jupyter Book's [Cheat Sheet](https://jupyterbook.org/reference/cheatsheet.html) to guide your writing.
-> The [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html) also contains _The Turing Way's_ recommendations for referencing and citation.
-
-> To include an image in your writing, use the MyST directive shown below. 
-> Remember to add your image to the `figures` [folder](https://github.com/the-turing-way/the-turing-way/tree/main/book/website/figures) and use the correct path, else it will not be displayed.
-
-```{figure} ../../figures/image-name.png
----
-name: image-name
-alt: describe your image for readers who rely on screen readers
----
-Your image caption here
-```
-
-> To include code blocks, simply enclose your code in three sets of backticks shown below.
-
-```python
-def simple_function():
-    pass
-```
-
-> To include an admonition or to highlight a block of text that exists slightly apart from the narrative of your section, use the directive shown below. Jupyter Book's [documentation](https://jupyterbook.org/content/content-blocks.html#) has other useful examples.
-
-```{note}
-Here is a note!
-```
-
-<!-- 
-In the label, replace `keyidea2` with a word that best describes the section or key idea you want to explain -->
-(sectioninitials-filename-keyidea2)=
-## Key Idea 2
-
-> **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
-> You may break the section down into subsections if you wish.
-> Remember to use the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) and Jupyter Book's [Cheat Sheet](https://jupyterbook.org/reference/cheatsheet.html) to guide your writing.
-> The [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html) also contains _The Turing Way's_ recommendations for referencing and citation.
-
-<!-- 
-In the label, replace `keyidea3` with a word that best describes the section or key idea you want to explain -->
-(sectioninitials-filename-keyidea3)=
-## Key Idea 3
-
-> **Talk about your key idea in detail**. Feel free to use images, code blocks, and admonitions to communicate your ideas.
-> You may break the section down into subsections if you wish.
-> Remember to use the [style guide](https://the-turing-way.netlify.app/community-handbook/style.html) and Jupyter Book's [Cheat Sheet](https://jupyterbook.org/reference/cheatsheet.html) to guide your writing.
-> The [style guide](https://the-turing-way.netlify.app/community-handbook/style/style-citing.html) also contains _The Turing Way's_ recommendations for referencing and citation.
 
 (sectioninitials-filename-summary)=
 ## Summary
-
-> **Add a short summary of this subchapter with key takeaways.**
-> You may also recommend and link to other chapters/subchapters you want your readers to explore after reading this subchapter.
-
-
-<!-- IMPORTANT!
-
-- Use this template to create your chapter's subchapters.
-- Refrain from writing very long subchapters as readers may be unwilling to read them. Rather, you should split long subchapters into smaller subchapters if necessary.
-
-
-
-BEFORE YOU GO
-
-- Have a look at the Style Guide and the Maintaining Consistency chapters to ensure that you have followed the relevant recommendations on
-  - Avoiding HTML
-  - Consecutive headers
-  - Labels and cross referencing
-  - Using images
-  - Latin abbreviations
-  - References and citations
-  - Title casing
-  - Matching headers with reference in table of content
-
--->
+SM is an up and coming area of research that aims to improve large-scale statistical and machine learning analyses, by reducing model degradation and bias. 
