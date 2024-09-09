@@ -4,7 +4,9 @@
 > Use this subchapter to
 >  - tell readers what other chapters in _The Turing Way_ book they should read next
 >  - point readers towards external resources where they can learn more about the topic of your chapter
-
+<!-- IMPORTANT!
+https://cran.r-project.org/web/packages/naniar/vignettes/naniar-visualisation.html
+-->
 (pd-missing-data-learn)=
 ## What to Learn Next
 
@@ -23,7 +25,7 @@
 
 - [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/): This is a much more in-depth look at missing data imputation that goes into further characterizing data, including mathematical definitions, and describing data imputation methods. 
 - [Resource 1](link_to_resource): _reason for recommendation_
-- [Resource 1](link_to_resource): _reason for recommendation_
+- [Getting Started with naniar](https://naniar.njtierney.com/articles/naniar.html#tidy-missing-data-the-shadow-matrix): More R functions to visualize Data Missingness, including one using decision trees to map out the proportion of missingness in a variable based on all other variables. 
 
 
 <!-- IMPORTANT!
