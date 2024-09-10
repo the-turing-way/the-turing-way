@@ -26,7 +26,8 @@ https://cran.r-project.org/web/packages/naniar/vignettes/naniar-visualisation.ht
 - [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/): This is a much more in-depth look at missing data imputation that goes into further characterizing data, including mathematical definitions, and describing data imputation methods. 
 - [Resource 1](link_to_resource): _reason for recommendation_
 - [Getting Started with naniar](https://naniar.njtierney.com/articles/naniar.html#tidy-missing-data-the-shadow-matrix): More R functions to visualize Data Missingness, including one using decision trees to map out the proportion of missingness in a variable based on all other variables. 
-
+ - For more details, the original paper by {cite:ps}`vanBuuren2011mice` is a great resource. 
+ - - Other well-established R imputation packages include: missForest, Amelia, and mi. 
 
 <!-- IMPORTANT!
 
