@@ -24,7 +24,7 @@
 
 | Prerequisite | Importance | Skill Level | Notes |
 | -------------|----------|------|----|
-| {ref}`Research Data Management <rdm>` | Helpful | Beginner |  |
+| {ref}`Research Data Management <rr-rdm>` | Helpful | Beginner |  |
 
 
 
@@ -47,18 +47,8 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 TODO: change the doi above to the right one
 -->
 
-To answer this question, we will start by defining different types of {ref}`pd-missing-data-structures` and see how we can visualise these {ref}`pd-missing-data-visualising-missingness`. This will help us develop a strategy on choosing the appropriate missing data handling method, of which we outline a few in {ref}`pd-missing-data-methods`. Lastly, we introduce the relatively new field of {ref}`pd-missing-data-structured-missingness`, pioneered by researchers in the Turing-Roche partnership. This is a big area of research and this chapter is only a simple introduction to it. Therefore, if you are interested in learning more we encourage you to read on further by having a look at the {ref}`pd-missing-data-resources` page. 
+To answer this question, we will start by defining different types of {ref}`pd-missing-data-structures` and see how we can visualise these {ref}`pd-missing-data-visualising-missingness`. This will help us develop a strategy on choosing the appropriate missing data handling method, of which we outline a few in {ref}`pd-missing-data-methods`. Lastly, we introduce the relatively new field of {ref}`pd-missing-data-structured-missingness`, pioneered by researchers in the Turing-Roche partnership. This is a big area of research and this chapter is only a simple introduction to it. Therefore, if you are interested in learning more we encourage you to read on further by having a look at the {ref}`pd-missing-data-checklist-resources` page. 
 
-
-> **Write a brief overview of the content of your chapter.**
-> Summaries should be concise, but also introduce all the sub-topics that your chapter will talk about.
-> When you mention a sub-topic, link to the subchapter where you expand on the topic.
-> See the Summary in the Open Research [chapter](https://the-turing-way.netlify.app/reproducible-research/open.html) for inspiration.
-
-> Optionally, you can add an image that captures the gist of your chapter.
-> For reference, you may reuse our images hosted on Zenodo [here](https://zenodo.org/record/3332808) and [here](https://zenodo.org/record/3695300).
-> You may also use this collection of [royalty free images](https://www.manypixels.co/gallery/) hosted on ManyPixels.
-> Recommendations for using figures in _The Turing Way_ can be found in the [Style Guide](https://the-turing-way.netlify.app/community-handbook/style/style-figures.html).
 
 (pd-missing-data-motivation)=
 ## Motivation and Background

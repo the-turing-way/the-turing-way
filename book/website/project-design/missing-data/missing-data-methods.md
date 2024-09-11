@@ -1,6 +1,6 @@
 (pd-missing-data-methods)=
 # Missing Data Handling Methods
-Studies can be designed to be robust to missing data, such that any missingness will have a limited effect and bias on any results. Frequently, this is not possible. Thus, this sub-chapter provides an overview of some missing data handling methods. Additionally, discussing these methods can quickly get very technical; we will do our best to avoid using jargon and leave the technical explanations to the great, already existing, resources out there, linked in {ref}`pd-missing-data-resources`. 
+Studies can be designed to be robust to missing data, such that any missingness will have a limited effect and bias on any results. Frequently, this is not possible. Thus, this sub-chapter provides an overview of some missing data handling methods. Additionally, discussing these methods can quickly get very technical; we will do our best to avoid using jargon and leave the technical explanations to the great, already existing, resources out there, linked in {ref}`pd-missing-data-checklist-resources`. 
 
 (pd-missing-data-methods-deletion)=
 ## Deletion
@@ -157,4 +157,4 @@ Model-based methods (such as those in the figure above under the "Imputation" he
 (pd-missing-data-methods-summary)=
 ## Summary
 
-Indeed, this is a very vast area of research, with many proposed methods available; if you are interested in finding out more please see {ref}`pd-missing-data-resources`. Hopefully, this sub-chapter acts as a useful starting point! 
+Indeed, this is a very vast area of research, with many proposed methods available; if you are interested in finding out more please see {ref}`pd-missing-data-checklist-resources`. Hopefully, this sub-chapter acts as a useful starting point! 

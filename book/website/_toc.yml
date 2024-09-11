@@ -376,8 +376,8 @@ parts:
                 file: project-design/missing-data/missing-data-methods
               - title: Structured Missingness
                 file: project-design/missing-data/missing-data-structured-missingness
-              - title: Resources
-                file: project-design/missing-data/missing-data-resources
+              - title: Checklist and Resources
+                file: project-design/missing-data/missing-data-checklist-resources
 
       # ===== Guide for Communication ========================================
 
