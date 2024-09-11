@@ -28,7 +28,6 @@ It further outlines expectations and responsibilities for all of them with regar
 | Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Senior Researcher - Community Building; The Alan Turing Institute | Book Dash WG member | Jan 2021 - Present | Verious maintainer level roles |
 | Esther Plomp <br>([@EstherPlomp](https://github.com/EstherPlomp)) | Data Steward, Faculty of Applied Sciences at Delft University of Technology | Book Dash WG member and various community roles | Feb 2020 - Present | Various maintainer level roles |
 | Batool Almarzouq <br>([BatoolMM](https://github.com/BatoolMM)) | The Alan Turing Institute, The University of Liverpool  | Translation and Localisation WG member | 2020 - Present | Various maintainer level roles |
-| Melissa Black <br>([melibleq](https://github.com/melibleq)) | Independent Researcher | Translation and Localisation WG member | 2023 - 2024 | - |
 | Andrea Sánchez-Tapia <br>([AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)) | Data Scienst, Global Fisheries watch | Translation and Localisation WG member | 2021 - Present | Various community roles |
 | Alejandro Coca Castro <br>([acocac](https://github.com/acocac)) | Research Fellow, The Alan Turing Institute | Environmental Data Science book Co-Lead | 2021 - Present | The Turing Way Translation and Localisation Co-Lead, 2021 - May 2023 |
 | Sarah Gibson <br>([@sgibson91](https://github.com/sgibson91)) | Open Source Infrastructure Engineer, 2i2c & JupyterHub Community Development | in-kind contribution, The Turing Way Infrastructure Maintainers Co-lead | 2019 - Present | Prevously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
@@ -62,6 +61,7 @@ You can request contact information through the project members above, or tag th
 | Anna Krystalli <br>([@annakrystalli](https://github.com/annakrystalli)) | Research Software Engineer | 10% | Dec 2018 - Mar 2019 |
 | Martin O'Reilly <br>([@martintoreilly](https://github.com/martintoreilly)) | Principal Research Software Engineer | 10% | Nov 2018 - Mar 2019 |
 | Camila Rangel-Smith <br>([crangelsmith](https://github.com/crangelsmith)) | Senior Research Data Scientist, The Alan Turing Institute | The Turing Way Translation and Localisation Co-Lead | 2020 - 2023 | - |
+| Melissa Black <br>([melibleq](https://github.com/melibleq)) | Independent Researcher | Translation and Localisation WG member | 2023 - 2024 | - |
 
 ## Commitments
 
