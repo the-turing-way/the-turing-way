@@ -12,10 +12,10 @@ Pairwise deletion, or available case analysis, only involves removing data entri
 ## Imputation
 Imputation refers to "filling in" any missing values. Many ways of imputing missing data exist: 
 
-```{figure} ../../figures/missing-data-handling.png
+```{figure} ../../figures/missing-data-handling-diagram.png
 ---
 height: 500px
-name: missing-data-handling
+name: missing-data-handling-diagram
 alt: 
 ---
 Diagram of missing data handling techniques, created by Joel et al. {cite:ps}`Joel2022missingdatahandling`. Abbreviations: LOCF - Last Observation Carried Forward, NOCB - Next Observation Carried Backward.Used under a CC-BY 4.0 licence. DOI: 10.15157/IJITIS.2022.5.3.971-1005. 

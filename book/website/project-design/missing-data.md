@@ -47,8 +47,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 TODO: change the doi above to the right one
 -->
 
-To answer this question, we will start by defining different types of {ref}`pd-missing-data-structures` and see how we can visualise these {ref}`pd-missing-data-visualising-missingness`. This will help us develop a strategy on choosing the appropriate missing data handling method, of which we outline a few in {ref}`pd-missing-data-methods`. Lastly, we introduce the relatively new field of {ref}`pd-missing-data-structured-missingness`, pioneered by researchers in the Turing-Roche partnership. 
-
+To answer this question, we will start by defining different types of {ref}`pd-missing-data-structures` and see how we can visualise these {ref}`pd-missing-data-visualising-missingness`. This will help us develop a strategy on choosing the appropriate missing data handling method, of which we outline a few in {ref}`pd-missing-data-methods`. Lastly, we introduce the relatively new field of {ref}`pd-missing-data-structured-missingness`, pioneered by researchers in the Turing-Roche partnership. This is a big area of research and this chapter is only a simple introduction to it. Therefore, if you are interested in learning more we encourage you to read on further by having a look at the {ref}`pd-missing-data-resources` page. 
 
 
 > **Write a brief overview of the content of your chapter.**
@@ -64,22 +63,7 @@ To answer this question, we will start by defining different types of {ref}`pd-m
 (pd-missing-data-motivation)=
 ## Motivation and Background
 
-> **Explain why readers should pay attention to this chapter.**
-> For example, how can your chapter's content have a positive impact on your reader's data science project?
-> Think about the reader demographic that would be interested in your chapter and tailor this section appropriately.
-> Remember to cross-reference relevant subchapters using this directive: `{ref}Subchapter<sectioninitials-filename-subchaptername>`.
+Missing data can disrupt research and create challenges in results interpretation and in the validity of any conclusions {cite:ps}`Pederson2017missingdata`. Understanding missing data structures and handling missing data appropriately is important to prevent creating or worsening pre-existing biases of the dataset and to ensure fair, generalizable models {cite:ps}`Buuren2018imputation`. Both missing data itself, or how it is handled, can have a large impact on subsequent analyses. Missing data handling is one step in the process to figuring out the best use of your data, in the most efficient way possible. 
 
-<!-- IMPORTANT!
 
-- Use this template to create the landing page for your chapter
-
-BEFORE YOU GO
-
-- Have a look at the Style Guide and the Maintaining Consistency chapters to ensure that you have followed the relevant recommendations on
-  - Labels and cross referencing
-  - Using images
-  - Latin abbreviations
-  - References and citations
-
--->
 
