@@ -37,6 +37,17 @@ chapters:
       - title: Overview
         file: reproducible-research/overview
         sections:
+          - title: Definitions
+            file: reproducible-research/overview/overview-definitions
+          - title: Added Advantages
+            file: reproducible-research/overview/overview-benefit
+          - title: Barriers
+            file: reproducible-research/overview/overview-barriers
+          - title: Resources
+            file: reproducible-research/overview/overview-resources
+      - title: Open Research
+        file: reproducible-research/open
+        sections:
           - title: Open Data
             file: reproducible-research/open/open-data
           - title: Open Source Software
