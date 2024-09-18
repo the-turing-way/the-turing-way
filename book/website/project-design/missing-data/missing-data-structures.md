@@ -56,7 +56,7 @@ In reality, this is quite a strict classification and rarely occurs. Essentially
 (pd-missing-data-structures-mar)=
 ## Missing at Random (MAR) 
 
-In contrast, when missingness can be explained by variables with complete data (and is not random) this is known as MAR. Therefore, for a given group defined by and observed variable, the probability of being missing is the same for all individuals of that group. Such missingness may or may not result in bias; if there is bias this can be handled by accounting for the known variable correlated with the reason for missingness. 
+In contrast, when missingness can be explained by variables with complete data (and is not random) this is known as MAR. Therefore, for a given group defined by an observed variable, the probability of being missing is the same for all individuals of that group. Such missingness may or may not result in bias; if there is bias this can be handled by accounting for the known variable correlated with the reason for missingness. 
 
 > **Example**: Blood pressure readings may be missing from individuals who are older, frailer, and have less mobility, and therefore, are more likely to not attend the clinic. In this instance, the reason data is missing in the variable of interest (blood pressure), is related to other observed variables (age and mobility). 
 >
@@ -78,7 +78,7 @@ In contrast, when missingness can be explained by variables with complete data (
 (pd-missing-data-structures-mnar)=
 ## Missing not at Random (MNAR)
 
-Data that are MNAR is missing due to reasons that we do not know. In other words, the reason for the missingness is related to the value of the variable that is missing. This is the most complex case of data missingness to handle, as bias may occur but cannot be adjusted for as the source of the missingness is unmeasured. 
+Data that are MNAR are missing due to reasons that we do not know. In other words, the reason for the missingness is related to the value of the variable that is missing. This is the most complex case of data missingness to handle, as bias may occur but cannot be adjusted for as the source of the missingness is unmeasured. 
 
 > **Example**: Follow-up cognitive testing may be missing for individuals who have had significant cognitive decline, as they are more likely to withdraw early from the study. Here, the reason for the missing data in the variable of interest (Cognitive Score) is correlated to unobserved data (the value of the observation itself). 
 >

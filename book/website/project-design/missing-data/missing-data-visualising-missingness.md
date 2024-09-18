@@ -101,7 +101,7 @@ Nullity correlation dendrogram of our fictional dataset, produced via the missin
 ```
 
 
-In the dendrogram, the missingness of variables that are linked at a distance of zero, are fully correlated with each other. Thus, we see the Motor Score and Age being connected at zero, and separately the two blood pressure measures being connected. Variables the would branch close to zero, predict eachothers missingness well, but not perfectly. For instance, cognitive score branches from the blood pressure variables at around 1.30. This is because 2 out of 3 missing cognitive score values, also have missing blood pressure measurements. 
+In the dendrogram, the missingness of variables that are linked at a distance of zero, are fully correlated with each other. Thus, we see the Motor Score and Age being connected at zero, and separately the two blood pressure measures being connected. Variables that branch close to zero, predict eachothers missingness well, but not perfectly. For instance, cognitive score branches from the blood pressure variables at around 1.30. This is because 2 out of 3 missing cognitive score values, also have missing blood pressure measurements. 
 
 The strength of the above visualisations are a lot more evident in a much larger dataset. You are encouraged to try them out on your own data to see for yourself! 
 
@@ -111,7 +111,7 @@ Additionally, although these visualisations are useful, in our case, a visualisa
 (pd-missing-data-visualising-missingness-r)=
 ## R
 
-There are many readily available functions for visualising missingness in R, including many that look further into the mechanism of missingness.  A couple of libraries have useful functions, namely: ggplot, visdat, and naniar. Similarly to the missigno package in Python, there are functions to visualize a nullity matrix or by column. For brevity, these will just be listed without the inclusion of figures. 
+There are many readily available functions for visualising missingness in R, including many that look further into the mechanism of missingness.  A couple of libraries have useful functions, namely: ggplot, visdat, and naniar. Similarly to the missigno package in Python, there are functions to visualise a nullity matrix or by column. For brevity, these will just be listed without the inclusion of figures. 
 
 ```{note}
 Take care that the missing values are recognised in the given programming language and that each column is of the right data type (e.g. numeric and not strings). 
@@ -197,7 +197,7 @@ alt:
 A scatterplot of diastolic blood pressure against motor score. Any missing values are plotted at 10% less than the smallest value of a given feature and are colored in red.
 ```
 
-In , we mentioned that some study participants were unable to attend the blood pressure clinic due to being older and frailer. This is partially reflected in the figure, as most individuals with high Motor Scores, are missing their blood pressure readings. 
+In {ref}`pd-missing-data-structures-mar`, we mentioned that some study participants were unable to attend the blood pressure clinic due to being older and frailer. This is partially reflected in the figure, as most individuals with high Motor Scores, are missing their blood pressure readings. 
 
 However, an relationship observed does not necessarily equate to causation. Take the next figure as an example: 
 
