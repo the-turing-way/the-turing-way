@@ -31,7 +31,7 @@
 (pd-missing-data-summary)=
 ## Summary
 
-This chapter aims to introduce missing data handling. Although we live in the age of "big data", "big data" can often be fragmented, incomplete, and erroneous. The methods we develop and any analysis we conduct can only be as good as the data we provide. So, is there anything we can do about a dataset riddled with missing data?
+This chapter aims to introduce missing data handling. Although we live in the age of "big data", data can often be fragmented, incomplete, and erroneous. The methods we develop and any analysis we conduct can only be as good as the data we provide. So, is there anything we can do about a dataset riddled with missing data?
 
 
 ```{figure} ../figures/missing-data-handling.*
