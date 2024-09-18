@@ -114,7 +114,7 @@ Additionally, although these visualisations are useful, in our case, a visualisa
 There are many readily available functions for visualising missingness in R, including many that look further into the mechanism of missingness.  A couple of libraries have useful functions, namely: ggplot, visdat, and naniar. Similarly to the missigno package in Python, there are functions to visualise a nullity matrix or by column. For brevity, these will just be listed without the inclusion of figures. 
 
 ```{note}
-Take care that the missing values are recognised in the given programming language and that each column is of the right data type (e.g. numeric and not strings). 
+Take care that the missing values are recognised in the given programming language and that each column is of the right data type (for instance, numeric and not strings). 
 ```
 ```R
 fictional_dataset <- read.csv(file = "FictionalDatasetMiss.csv")
