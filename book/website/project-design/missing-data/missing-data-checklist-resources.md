@@ -58,7 +58,7 @@ Alternatively, if you want to make your research project and data analysis pipel
 
 - [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/): This is a much more in-depth look at missing data imputation that goes into further characterising data, including mathematical definitions, and describing data imputation methods. 
 - [Getting Started with naniar](https://naniar.njtierney.com/articles/naniar.html#tidy-missing-data-the-shadow-matrix): More R functions to visualise Data Missingness, including one using decision trees to map out the proportion of missingness in a variable based on all other variables. 
- - [The original paper on MICE]({cite:ps}`vanBuuren2011mice`) is a great resource. 
+ - The original paper on MICE {cite:ps}`vanBuuren2011mice` is a great resource. 
  - For more R visualisation and imputation packages see:
    - [mi](https://cran.r-project.org/web/packages/mi/index.html)
    - [Amelia](https://cran.r-project.org/web/packages/Amelia/index.html)
