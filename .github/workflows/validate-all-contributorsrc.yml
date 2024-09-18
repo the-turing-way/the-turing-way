@@ -1,0 +1,32 @@
+name: Validate All Contributors file
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    paths:
+      - ".all-contributorsrc"
+      - "tests/validate-all-contributorsrc.py"
+
+jobs:
+  validate:
+    name: Validate all-contributorsrc
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout-repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        working-directory: ./tests/
+        run: pip install -r requirements.txt
+
+      - name: Run validation script
+        working-directory: ./tests/
+        run: python3 validate-all-contributorsrc.py

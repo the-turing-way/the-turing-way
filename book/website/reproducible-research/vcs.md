@@ -66,7 +66,7 @@ In addition, version control creates **version history** to help us understand w
 With the help of comments and commit messages in Git, for instance, each version can explain what changes it contains compared to the previous versions.
 This is helpful when we share our analysis (not only data), and make it auditable or **reproducible** - which is good scientific practice.
 
-A version control system **neatly hide older versions** of the data. 
+A version control system **neatly hides older versions** of the data. 
 So your working directory is not cluttered by the debris of previous versions, while they remain accessible, in case you need them.
 Similarly, with version control, there is no need to leave unused chunks of code should you ever need to come back to an old version again.
 

@@ -1,44 +1,44 @@
-# Project Members
+# Members at Maintainers and Constitutional-Level Roles
 
-This document provides details about the project members and contributors working (or previously worked) on _The Turing Way_ in a paid capacity, organisational agreement, in-kind contributions or grant proposal-based collaboration.
-It further outlines expectations and responsibilities with regard to working on the project.
+In 2023-2024, _The Turing Way_ adopted three institutional "levels", described in the Foreword of _The Turing Way_ book.
 
-## Current Project Members
+1. The “Community level" ("Operational-level”) norms that influence the everyday decisions and actions made by community members such in participating in the community and contributing to the book.
+2. The "Maintenance" (“Collective choice") norms that allow different groups of people to come together to work on and promote specific area/initiative in the project as well as define/change process to make operational level participation easier. In _The Turing Way_ it happens through formal and informal Working Groups (WGs).
+3. The "Constitutional-level" norms are followed by project leaders who are allowed to change/approve collective choice rules and establish procedures for those decisions. They also are responsible for the project-related responsibilities that affect the whole of the project, community and their sustainability.
 
-| Name | Affiliation | Full-Time Equivalent on the Project OR Community Roles | Time period allocated to the project | Previous roles |
+This document lists members at the "Maintenance" and "Constitutional" levels in _The Turing Way_.
+
+It further outlines expectations and responsibilities for all of them with regard to working on the project.
+
+## Project Delivery Team - Constitution and Maintenance Level Roles
+
+| Name | Position; Affiliation | Project Role | Role length | Previous roles in _The Turing Way_ |
 |---|---|---|---|---|
-| Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | PI, The Alan Turing Institute | - | Oct 2018 - Present | - |
-| Malvika Sharan <br>([@malvikasharan](https://github.com/malvikasharan)) | Co-lead investigator, The Alan Turing Institute | - | Jul 2021 - Present | Previously: Community Manager, Jan 2020 - Jun 2021 (100%) |
-| Anne Lee Steele <br>([@aleesteele](https://github.com/aleesteele)) | The Turing Way Community Manager, The Alan Turing Institute | 100% | March 2022 - Present | - |
-| Alexandra Araujo Alvarez <br>([@alexandraaaj](https://github.com/alexandraaaj)) | Senior Research Community Manager, BridgeAI | 50% | February 2023 - April 2023 | Previously: Research Project Manager, Feb 2023 - Apr 2024 (100%) |
-| Arielle Bennett <br>([@Arielle-Bennett](https://github.com/Arielle-Bennett)) | Programme Manager, The Alan Turing Institute | 10% | 2021 - Present | Previously: Project Manager, The Alan Turing Institute |
-| Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Senior Research Community Manager, The Alan Turing Institute | 10% | Jan 2021 - Present | - |
-| Vicky Hellon <br>([@vhellon](https://github.com/vhellon)) | Research Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Present | - |
-| Aida Mehonic <br>([@AidaMehonic](https://github.com/AidaMehonic)) | Research Application Manager, The Alan Turing Institute | 10% | 2021 - Present | - |
-| Alden Conner <br>([@aldenc](https://github.com/aldenc)) | Research Application Manager, The Alan Turing Institute| 10% | 2021 - Present | - |
-| Jennifer Ding <br>([@dingaaling](https://github.com/dingaaling)) | Research Application Manager, The Alan Turing Institute | 10% | 2021 - Present | - |
-| Sophia Batchelor <br>([@BrainonSilicon](https://github.com/BrainonSilicon)) | Community Manager, The Alan Turing Institute | 10% | 2022 - Present | - |
-| Hari Sood <br>([@harisood](https://github.com/harisood)) | Research Application Manager, The Alan Turing Institute | 10% | 2022 - Present | - |
-| David Sarmiento Pérez <br>([@davsarper](https://github.com/davsarper)) | Research Project Manager, The Alan Turing Institute | 10% | 2022 - Present | - |
-| Shakir Laher <br>([@s-laher](https://github.com/s-laher)) | Research Appication Manager, The Alan Turing Institute | 10% | 2023 - Present | - |
-| Carlos Martinez-Ortiz <br>([@c-martinez](https://github.com/c-martinez)) | RSE community manager, Netherlands eScience Center | in-kind contribution | Feb 2020 - Present | - |
-| Esther Plomp <br>([@EstherPlomp](https://github.com/EstherPlomp)) | Data Steward, Faculty of Applied Sciences at Delft University of Technology | in-kind contribution | Feb 2020 - Present | - |
-| Lena Karvovskaya <br>([@LenaKarvovskaya](https://github.com/Karvovskaya)) | Community Manager RDM and Open Science, VU Amsterdan Library | in-kind contribution | 2021 - Present | - |
+| Kirstie Whitaker <br>([@KirstieJane](https://github.com/KirstieJane)) | Programme Director for Tools, Practices and Systems (TPS); The Alan Turing Institute | Founder & Project Lead - Constitution Level | Oct 2018 - Present | - |
+| Malvika Sharan <br>([@malvikasharan](https://github.com/malvikasharan)) | TPS Senior Researcher - Open Research & Lead of Research Community Management Team; The Alan Turing Institute | Co-Lead  - Constitution Level | Jul 2021 - Present | Previously: Postdoctoral Research Associate - Community Manager, Jan 2020 - Jun 2021 |
+| Anne Lee Steele <br>([@aleesteele](https://github.com/aleesteele)) | Research Community Manager; The Alan Turing Institute | The Turing Way Community Manager - Maintenance Level | March 2022 - Present | - |
+| Arielle Bennett <br>([@Arielle-Bennett](https://github.com/Arielle-Bennett)) | Programme Manager; The Alan Turing Institute | Project Manager and various maintenance level roles | 2021 - Present | Previously: Project Manager, The Alan Turing Institute |
+
+## Community Leaders - Maintenance Level Roles
+
+| Name | Position;  Affiliation | Community Role(s) | Role length | Previous roles in _The Turing Way_ |
+|---|---|---|---|---|
+| Alexandra Araujo Alvarez <br>([@alexandraaaj](https://github.com/alexandraaaj)) | Senior Research Community Manager, BridgeAI; The Alan Turing Institute | Various maintainer level roles | February 2023 - April 2023 | Research Project Manager, Feb 2023 - Apr 2024 (100%) |
+| Liz Hare <br>([@LizHareDogs](https://github.com/LizHareDogs)) | Qualitative Geneticist, Dog Genetics LLC | The Turing Way Accessibility WG member | 2023 - Present | - |
+| Emma Karoune <br>([@EKaroune](https://github.com/EKaroune)) | Senior Researcher - Community Building; The Alan Turing Institute | Book Dash WG member | Jan 2021 - Present | Verious maintainer level roles |
+| Esther Plomp <br>([@EstherPlomp](https://github.com/EstherPlomp)) | Data Steward, Faculty of Applied Sciences at Delft University of Technology | Book Dash WG member and various community roles | Feb 2020 - Present | Various maintainer level roles |
+| Batool Almarzouq <br>([BatoolMM](https://github.com/BatoolMM)) | The Alan Turing Institute, The University of Liverpool  | Translation and Localisation WG member | 2020 - Present | Various maintainer level roles |
+| Melissa Black <br>([melibleq](https://github.com/melibleq)) | Independent Researcher | Translation and Localisation WG member | 2023 - 2024 | - |
+| Andrea Sánchez-Tapia <br>([AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)) | Data Scienst, Global Fisheries watch | Translation and Localisation WG member | 2021 - Present | Various community roles |
+| Alejandro Coca Castro <br>([acocac](https://github.com/acocac)) | Research Fellow, The Alan Turing Institute | Environmental Data Science book Co-Lead | 2021 - Present | The Turing Way Translation and Localisation Co-Lead, 2021 - May 2023 |
 | Sarah Gibson <br>([@sgibson91](https://github.com/sgibson91)) | Open Source Infrastructure Engineer, 2i2c & JupyterHub Community Development | in-kind contribution, The Turing Way Infrastructure Maintainers Co-lead | 2019 - Present | Prevously: Research Data Scientist, Nov 2018 - Aug 2021 (40%) |
-| Callum Mole <br>([callummole](https://github.com/callummole)) | Research Data Scientist, The Alan Turing Institute | Turing Binder Federation Membership - Project Contact | 2021 - Present | - |
-| Luke Hare <br>([lukehare](https://github.com/lukehare)) | Research Data Scientist, The Alan Turing Institute | Turing Binder Administrator | 2021 - Present | - |
-| Batool Almarzouq <br>([BatoolMM](https://github.com/BatoolMM)) | The Alan Turing Institute, The University of Liverpool  | The Turing Way Translation and Localisation Co-Lead | 2020 - Present | - |
-| Alejandro Coca Castro <br>([acocac](https://github.com/acocac)) | Research Fellow, The Alan Turing Institute | in-kind contribution, Environmental Data Science book Co-Lead | 2021 - Present | The Turing Way Translation and Localisation Co-Lead, 2021 - May 2023 (in-kind) |
-| Andrea Sánchez-Tapia <br>([AndreaSanchezTapia](https://github.com/AndreaSanchezTapia)) | Independent researcher | The Turing Way Translation and Localisation Co-Lead | 2021 - Present | - |
-| Melissa Black <br>([melibleq](https://github.com/melibleq)) | Infrastructure and Impact Measurement Manager at Metadocencia | The Turing Way Translation and Localisation Co-Lead | 2023 - Present | - |
-|  Danny Garside <br>([@da5nsy](https://github.com/da5nsy)) | Postdoctoral Visiting Fellow, National Institutes of Health (NIH) | The Turing Way Infrastructure Maintainers Co-lead | 2021 - Present | - |
-|  Jim Madge <br>([@JimMadge](https://github.com/JimMadge)) | Senior Research Software Engineer, The Alan Turing Institute | The Turing Way Infrastructure Maintainers Co-lead | 2022 - Present | - |
-|  Brigitta Sipőcz <br>([@bsipocz](https://github.com/bsipocz)) | Research Software Engineer, Caltech/IPAC -- NASA/IPAC Infrared Science Archive | The Turing Way Infrastructure Maintainers Co-lead | 2022 - Present | - |
-| Bastian Greshake Tzovaras <br>([@gedankenstuecke](https://github.com/gedankenstuecke)) | Senior Researcher, The Alan Turing Institute | 10% | 2023 - Present | - |
-| Christopher Burr <br>([@chrisdburr](https://github.com/chrisdburr)) | Senior Researcher, The Alan Turing Institute | 10% | 2023 - Present | - |
-| Gabin Kayumbi <br>([@gabinwk](https://github.com/gabinwk)) | Senior Research Community Manager, The Alan Turing Institute | 10% | 2023 - Present | - |
-| Cassandra Gould van Praag <br>([@cassgvp](https://github.com/cassgvp)) | Senior Research Community Manager, The Alan Turing Institute | 10% | 2023 - Present | - |
-| Liz Hare | <br>([@LizHareDogs](https://github.com/LizHareDogs)) | Dog Genetics LLC | The Turing Way Accessibility Co-Lead | 2023 - Present | - |
+| Danny Garside <br>([@da5nsy](https://github.com/da5nsy)) | Postdoctoral Visiting Fellow, National Institutes of Health (NIH) | The Turing Way Infrastructure Maintainers Co-lead | 2021 - Present | - |
+| Jim Madge <br>([@JimMadge](https://github.com/JimMadge)) | Senior Research Software Engineer, The Alan Turing Institute | The Turing Way Infrastructure Maintainers Co-lead | 2022 - Present | - |
+| Brigitta Sipőcz <br>([@bsipocz](https://github.com/bsipocz)) | Research Software Engineer, Caltech/IPAC -- NASA/IPAC Infrared Science Archive | The Turing Way Infrastructure Maintainers Co-lead | 2022 - Present | - |
+| Johanna Bayer <br>([@likeajumprope](https://book.the-turing-way.org/afterword/contributors-record#likeajumprope)) | Post Doctoral Fellow (CNS) | Infrastructure WG member | 2023 - Present | GSOC Co-Mentor 2023 |
+| Carlos Martinez-Ortiz <br>([@c-martinez](https://github.com/c-martinez)) | RSE community manager, Netherlands eScience Center | Book Dash WG member| Feb 2020 - Present | - |
+| Susana Roman Garcia <br>([@Susana465](https://book.the-turing-way.org/afterword/contributors-record#susana-roman-garcia)) | PhD researcher, University of Edinburgh | Book Dash WG member | 2024 - Present | - |
+
 
 ## Previous Project Members
 
@@ -47,6 +47,7 @@ You can request contact information through the project members above, or tag th
 
 | Name | Role | Full-Time Equivalent (or %) on the project | Time period allocated to the project |
 |---|---|---|---|
+| Arya A. <br>([@arya1302](https://book.the-turing-way.org/afterword/contributors-record#arya-a)) | Google Summer of Code (GSoC) 2023 intern | 50% | Apr 2023 - Sep 2023 |
 | Lydia France <br>([@LydiaFrance](https://github.com/LydiaFrance)) | Research Data Scientist | 50% | Oct 2021 - Jan 2022 |
 | May Yong <br>([@myyong](https://github.com/myyong)) | Senior Research Software Engineer | 40% | Oct 2021 - Jan 2022 |
 | Federico Nanni <br>([@myyong](https://github.com/myyong)) | Senior Research Software Engineer | in-kind | Oct 2021 - Jan 2022 |
@@ -60,14 +61,11 @@ You can request contact information through the project members above, or tag th
 | Alex Morley <br>([@alexmorley](https://github.com/alexmorley)) | Mozilla Fellow | in-kind contribution |  Nov 2018 - June 2019  |
 | Anna Krystalli <br>([@annakrystalli](https://github.com/annakrystalli)) | Research Software Engineer | 10% | Dec 2018 - Mar 2019 |
 | Martin O'Reilly <br>([@martintoreilly](https://github.com/martintoreilly)) | Principal Research Software Engineer | 10% | Nov 2018 - Mar 2019 |
-| Achintya Rao <br>([@RaoOfPhysics](https://github.com/RaoOfPhysics)) | Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Jan 2023 | 
-| Arron Lacey <br>([@arronlacey](https://github.com/arronlacey)) | Senior Community Manager, The Alan Turing Institute | 10% | Nov 2021 - Present | - |
 | Camila Rangel-Smith <br>([crangelsmith](https://github.com/crangelsmith)) | Senior Research Data Scientist, The Alan Turing Institute | The Turing Way Translation and Localisation Co-Lead | 2020 - 2023 | - |
-| Eirini Zormpa <br>([@eirini-zormpa](https://github.com/eirini-zormpa)) | Community Manager, The Alan Turing Institute | 10% | 2022 - Nov 2023 | - |
 
 ## Commitments
 
-All The Turing Way project members commit to
+All members commit to
 - making the implicit explicit by documenting their work
 - abiding by the Code of Conduct in all community platforms and spaces where they represent _The Turing Way_
 - following the contribution guideline and keeping it up to date
@@ -82,8 +80,7 @@ You can reach out to all members by tagging them on GitHub issues or Pull Reques
 
 You can reach the lead investigators of the project through their preferred way of communication:
 You can mention Malvika Sharan (@malvikasharan) and Kirstie Whitaker (@KirstieJane) on a Github issue or pull request, or tag in Slack.
-In addition, you can reach _The Turing Way_ by email (managed by the community manager): theturingway@gmail.com.
-You can also contact Malvika by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
+In addition, you can reach _The Turing Way_ by email (managed by the community manager): turingway@turing.ac.uk.
 
 Please join the project members and the wider Turing Way community at our twice-monthly [Collaboration Cafes](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html), which are great places to discuss ideas for new contributions and to get started with making them. :rocket:
 
