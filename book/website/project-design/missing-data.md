@@ -47,7 +47,7 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 TODO: change the doi above to the right one
 -->
 
-To answer this question, we will start by defining different types of {ref}`pd-missing-data-structures` and see how we can visualise these {ref}`pd-missing-data-visualising-missingness`. This will help us develop a strategy on choosing the appropriate missing data handling method, of which we outline a few in {ref}`pd-missing-data-methods`. Lastly, we introduce the relatively new field of {ref}`pd-missing-data-structured-missingness`, pioneered by researchers in the Turing-Roche partnership. This is a big area of research and this chapter is only a simple introduction to it. Therefore, if you are interested in learning more we encourage you to read on further by having a look at the {ref}`pd-missing-data-checklist-resources` page. 
+To answer this question, this chapter will start by defining different types of {ref}`pd-missing-data-structures` and see how we can visualise these {ref}`pd-missing-data-visualising-missingness`. This will help us develop a strategy on choosing the appropriate missing data handling method, of which we outline a few in {ref}`pd-missing-data-methods`. Lastly, we introduce the relatively new field of {ref}`pd-missing-data-structured-missingness`, pioneered by researchers in the Turing-Roche partnership. This is a big area of research and this chapter is only a simple introduction to it. Therefore, if you are interested in learning more we encourage you to read on further by having a look at the {ref}`pd-missing-data-checklist-resources` page. 
 
 
 (pd-missing-data-motivation)=
