@@ -24,7 +24,7 @@
 
 | Prerequisite | Importance | Skill Level | Notes |
 | -------------|----------|------|----|
-| {ref}`Research Data Management <rr-rdm>` | Helpful | Beginner |  |
+| {ref}`Research Data Management <rr-rdm>` | Helpful | Beginner | Provides some background on general data handling and good prerequisite coding practices |
 
 
 
