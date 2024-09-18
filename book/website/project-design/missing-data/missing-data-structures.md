@@ -6,7 +6,7 @@ This subchapter introduces the main missing data structures. In order to decide 
 2. [Missing at Random (MAR)](pd-missing-data-structures-mar)
 3. [Missing not at Random (MNAR)](pd-missing-data-structures-mnar)
 
-These were originally proposed by Rubin {cite:ps}`Rubin1976missingdata` and are explained in more detail below. As this chapter has been created as part of the Turing-Roche Community Scholar scheme, the examples provided will be based in healthcare. 
+These were originally proposed by Rubin {cite:ps}`Rubin1976missingdata` and are explained in more detail below. As this chapter has been created as part of the [Turing-Roche Community Scholar Scheme](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership/community-scholars), the examples provided will be based in healthcare. 
 
 > **Example Dataset**: We will be using a fictional study of health outcomes to explain the different mechanisms of missing data. For demonstration purposes, the dataset is first shown (below) as being fully complete and only has 8 participants. 
 >  
@@ -100,7 +100,7 @@ Data that are MNAR is missing due to reasons that we do not know. In other words
 
 We have defined three types of missingness: MCAR, MAR, and MNAR. These definitions are particularly helpful in determining which data handling method to use. Simple implementations were used to demonstrate the types of missingness a small dataset of health outcomes. 
 
-However, these are quite oversimplified and real-world datasets can be a lot more complex. For instance, whether a given participants may be unable to come into clinic or willing to continue participating in a study at a younger age/ lower motor score/ higher cognitive score than average. Alternatively, they may have missing data in a variable that helps explain the reason or mechanism of missingness. 
+However, these are quite oversimplified and real-world datasets can be a lot more complex. For instance, whether a given participant may be unable to come into clinic or willing to continue participating in a study at a younger age/lower motor score/higher cognitive score than average. Alternatively, they may have missing data in a variable that helps explain the reason or mechanism of missingness. 
 
 Several types of missingness may also be present in a given dataset, and sometimes multiple types may occur in one variable of interest. Therefore, handling missing data can be quite tricky. Here we directly observed the missing values by looking at the data, however this is a cumbersome and unrealistic task in many real datasets, which maybe have thousands of participants, and hundreds of variables (or more). Thus, visualisation methods that simplify determining any patterns of missingness are incredibly useful. These are explored in the next subchapter ({ref}`pd-missing-data-visualising-missingness`). 
 
