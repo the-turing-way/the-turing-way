@@ -2,7 +2,7 @@
 (pd-missing-data-structured-missingness)=
 # Structured Missingness 
 
-An alternative way of characterizing missing data, known as structured missingness (SM), has been pioneered by researchers of the [Turing-Roche Partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership). SM arises in data that is MCAR, MAR or MNAR, and whose missingness has some structure or pattern {cite:ps}`Mitra2023structuredmissingness`. Specifically, standard definitions of missinginess mechanisms (such as those introduced in {ref}`pd-missing-data-structures`) assume that the missingness of one variable is independent of the missingness in another, when conditioning on the relevant data. In contrast, the missingness of a variable can depend on the data *and* the missingness of other variables in SM {cite:ps}`Jackson2023structuredmissingness`. 
+An alternative way of characterising missing data, known as structured missingness (SM), has been pioneered by researchers of the [Turing-Roche Partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership). SM arises in data that is MCAR, MAR or MNAR, and whose missingness has some structure or pattern {cite:ps}`Mitra2023structuredmissingness`. Specifically, standard definitions of missinginess mechanisms (such as those introduced in {ref}`pd-missing-data-structures`) assume that the missingness of one variable is independent of the missingness in another, when conditioning on the relevant data. In contrast, the missingness of a variable can depend on the data *and* the missingness of other variables in SM {cite:ps}`Jackson2023structuredmissingness`. 
 
 This is common in research contexts where data is combined from multiple studies or sources. For instance, many large-scale healthcare studies are multimodal and attempt to include a diverse set of patients, therefore capturing data for a heterogeneous group of individuals. Therefore, data is often collected at multiple time points and multiple sites, where different measurements may be taken, such as clinical, genomic or imaging measures. Our example dataset (introduced in {ref}`pd-missing-data-structures`) is also an example of SM. 
 
@@ -27,4 +27,4 @@ Many datasets, fusing data from multiple sites and modalities, do take care to f
 
 (pd-missing-data-structured-missingness-summary)=
 ## Summary
-SM is an up and coming area of research that aims to improve large-scale statistical and machine learning analyses, by reducing model degradation and bias. 
+SM is a new and expanding area of research that aims to improve large-scale statistical and machine learning analyses, by reducing model degradation and bias. 

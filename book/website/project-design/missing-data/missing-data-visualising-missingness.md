@@ -8,7 +8,7 @@ Make as many copies of this file as you need for all your subchapters
 (pd-missing-data-visualising-missingness)=
 # Visualising Missingness
 
-Visualization techniques can be incredibly helpful when trying to understand your data and any patterns of missingness. Different programming languages offer unique tools and packages to help with this. We will introduce *a few* visualisation tools for [python](pd-visualising-missingness-python) and for [R](pd-visualising-missingness-r). Lastly, we will use some of these tools to show simulated visualisations of the fictional dataset with all three types of data missingness, as introduced in {ref}`pd-missing-data-structures`. If you would like to try the below visualisations, please recreate the  example dataset (introduced in {ref}`pd-missing-data-structures`) in a file, which here we call "FictionalDataset.csv". 
+Visualisation techniques can be incredibly helpful when trying to understand your data and any patterns of missingness. Different programming languages offer unique tools and packages to help with this. We will introduce *a few* visualisation tools for [python](pd-visualising-missingness-python) and for [R](pd-visualising-missingness-r). Lastly, we will use some of these tools to show simulated visualisations of the fictional dataset with all three types of data missingness, as introduced in {ref}`pd-missing-data-structures`. If you would like to try the below visualisations, please recreate the  example dataset (introduced in {ref}`pd-missing-data-structures`) in a file, which here we call "FictionalDataset.csv". 
 
 ```{note}
 For simplicity we will be using all functions with their default parameters. However, all the functions presented have many input variables to allow for further customisation and tailoring. 
@@ -25,7 +25,7 @@ For simplicity we will be using all functions with their default parameters. How
 
 (pd-missing-data-visualising-missingness-python)=
 ## Python
-The [missingno python package](https://github.com/ResidentMario/missingno) is a great tool for visualizing missing data. The main functions and their usage on the fictional dataset introduced in the previous subchapter are introduced below, where our dataset is in a dataframe format and called "df_fictional_dataset". 
+The [missingno python package](https://github.com/ResidentMario/missingno) is a great tool for visualising missing data. The main functions and their usage on the fictional dataset introduced in the previous subchapter are introduced below, where our dataset is in a dataframe format and called "df_fictional_dataset". 
 
 
 ```python
@@ -52,7 +52,7 @@ alt:
 ---
 Nullity matrix of our fictional dataset, produced via the missingno python package. 
 ```
-Data entries with missing data are indicated by white, while all complete entries are shaded a dark grey. At the right of the plot there is a sparkline which summarizes data completeness by row. In this instance the 3rd row has the most missing data (only 2 complete entires), while the 4th and 5th rows are the most complete (no missing entries).
+Data entries with missing data are indicated by white, while all complete entries are shaded a dark grey. At the right of the plot there is a sparkline which summarises data completeness by row. In this instance the 3rd row has the most missing data (only 2 complete entires), while the 4th and 5th rows are the most complete (no missing entries).
 
 
 (pd-missing-data-visualising-missingness-python2)=
@@ -68,7 +68,7 @@ alt:
 ---
 Barplot of the nullity per column of our fictional dataset, produced via the missingno python package. 
 ```
-This is a simplification of the first visualization method; a simple bar plot showing the number of complete values per variable. The absolute number of values are shown on the top, while the left y-axis indicates the percentage of values that are not missing. 
+This is a simplification of the first visualisation method; a simple bar plot showing the number of complete values per variable. The absolute number of values are shown on the top, while the left y-axis indicates the percentage of values that are not missing. 
 
 (pd-missing-data-visualising-missingness-python3)=
 ### 3. Nullity Correlation
@@ -83,7 +83,7 @@ alt:
 ---
 Pairwise nullity correlation heatmap of our fictional dataset, produced via the missingno python package.
 ```
- Visualizing what data is missing may not be enough to draw any inferences and understand the mechanism behind the missingness. A nullity correlation plot is one way to look into this. In this instance, we see that systolic blood pressure is always missing when diastolic blood pressure is also missing. Additionally, the cognitive score has a 50% chance of being missing if the blood pressure readings are missing. As the motor score and age don't have any missing values these are excluded. 
+ Visualising what data is missing may not be enough to draw any inferences and understand the mechanism behind the missingness. A nullity correlation plot is one way to look into this. In this instance, we see that systolic blood pressure is always missing when diastolic blood pressure is also missing. Additionally, the cognitive score has a 50% chance of being missing if the blood pressure readings are missing. As the motor score and age don't have any missing values these are excluded. 
 
 
 (pd-missing-data-visualising-missingness-python4)=
@@ -103,15 +103,15 @@ Nullity correlation dendrogram of our fictional dataset, produced via the missin
 
 In the dendrogram, the missingness of variables that are linked at a distance of zero, are fully correlated with each other. Thus, we see the Motor Score and Age being connected at zero, and separately the two blood pressure measures being connected. Variables the would branch close to zero, predict eachothers missingness well, but not perfectly. For instance, cognitive score branches from the blood pressure variables at around 1.30. This is because 2 out of 3 missing cognitive score values, also have missing blood pressure measurements. 
 
-The strength of the above visualizations are a lot more evident in a much larger dataset. You are encouraged to try them out on your own data to see for yourself! 
+The strength of the above visualisations are a lot more evident in a much larger dataset. You are encouraged to try them out on your own data to see for yourself! 
 
-Additionally, although these visualizations are useful, in our case, a visualization looking at the correlation between the values and the missingness of variables would give us more information. 
+Additionally, although these visualisations are useful, in our case, a visualisation looking at the correlation between the values and the missingness of variables would give us more information. 
 
 
 (pd-missing-data-visualising-missingness-r)=
 ## R
 
-There are many readily available functions for visualizing missingness in R, including many that look further into the mechanism of missingness.  A couple of libraries have useful functions, namely: ggplot, visdat, and naniar. Similarly to the missigno package in Python, there are functions to visualize a nullity matrix or by column. For brevity, these will just be listed without the inclusion of figures. 
+There are many readily available functions for visualising missingness in R, including many that look further into the mechanism of missingness.  A couple of libraries have useful functions, namely: ggplot, visdat, and naniar. Similarly to the missigno package in Python, there are functions to visualize a nullity matrix or by column. For brevity, these will just be listed without the inclusion of figures. 
 
 ```{note}
 Take care that the missing values are recognised in the given programming language and that each column is of the right data type (e.g. numeric and not strings). 
