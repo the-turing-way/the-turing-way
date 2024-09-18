@@ -95,7 +95,7 @@ Data that are MNAR are missing due to reasons that we do not know. In other word
 >
 > Participants with a cognitive score less than 15, withdrew early from the study due to worsening outcomes. 
 
-(sectioninitials-filename-summary)=
+(pd-missing-data-structures-summary)=
 ## Summary
 
 We have defined three types of missingness: MCAR, MAR, and MNAR. These definitions are particularly helpful in determining which data handling method to use. Simple implementations were used to demonstrate the types of missingness a small dataset of health outcomes. 

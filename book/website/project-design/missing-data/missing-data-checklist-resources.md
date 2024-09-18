@@ -2,7 +2,7 @@
 # Checklist and Resources
 
 ## Checklist 
-- Identify whether your dataset has missing data; use visualisation tools to help you {ref}`pd-missing-visualising-missingness` 
+- Identify whether your dataset has missing data; use visualisation tools to help you {ref}`pd-missing-data-visualising-missingness` 
 - Try to determine what type of missing data there is (MCAR/MAR/MNAR) as described in {ref}`pd-missing-data-structures`, and don't forget about {ref}`pd-missing-data-structured-missingness`
 - Choose an appropriate missing data handling method; you can use {ref}`pd-missing-data-methods` as a starting point for ideas
 - Apply the missing data handling method and then continue with your analyses! 

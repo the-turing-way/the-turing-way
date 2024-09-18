@@ -8,7 +8,7 @@ Make as many copies of this file as you need for all your subchapters
 (pd-missing-data-visualising-missingness)=
 # Visualising Missingness
 
-Visualisation techniques can be incredibly helpful when trying to understand your data and any patterns of missingness. Different programming languages offer unique tools and packages to help with this. We will introduce *a few* visualisation tools for [python](pd-visualising-missingness-python) and for [R](pd-visualising-missingness-r). Lastly, we will use some of these tools to show simulated visualisations of the fictional dataset with all three types of data missingness, as introduced in {ref}`pd-missing-data-structures`. If you would like to try the below visualisations, please recreate the  example dataset (introduced in {ref}`pd-missing-data-structures`) in a file, which here we call "FictionalDataset.csv". 
+Visualisation techniques can be incredibly helpful when trying to understand your data and any patterns of missingness. Different programming languages offer unique tools and packages to help with this. We will introduce *a few* visualisation tools for [python](pd-missing-data-visualising-missingness-python) and for [R](pd-missing-data-visualising-missingness-r). Lastly, we will use some of these tools to show simulated visualisations of the fictional dataset with all three types of data missingness, as introduced in {ref}`pd-missing-data-structures`. If you would like to try the below visualisations, please recreate the  example dataset (introduced in {ref}`pd-missing-data-structures`) in a file, which here we call "FictionalDataset.csv". 
 
 ```{note}
 For simplicity we will be using all functions with their default parameters. However, all the functions presented have many input variables to allow for further customisation and tailoring. 
@@ -220,7 +220,7 @@ A scatterplot of cognitive score against age. Any missing values are plotted at 
 Here, anyone above the age of 80 does not have a cognitive score, so it may seem that being unable to complete the cognitive test is associated with being older. However, when we defined our fictional dataset, we also defined the reason for any missing cognitive scores. Specifically, those individuals had significant cognitive decline and had to withdraw from the study. Therefore, the correlation observed in the plot is just by chance (although it does theoretically make sense)! 
 
 
-(sectioninitials-filename-summary)=
+(pd-missing-data-visualising-missingness-summary)=
 ## Summary
 
 In this sub-chapter, we have explored different tools to visualise missing data. Some tools simplify viewing any patterns, while others can even give insight into the mechanisms behind any missing data. This is by no means an exhaustive list of visualisation methods and functions available in these programming languages. Instead, this serves as an introduction to some useful tools and can be used as a starting point. The table below summarizes the functions introduced: 
