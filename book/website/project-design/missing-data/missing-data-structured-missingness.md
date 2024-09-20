@@ -4,6 +4,17 @@
 
 An alternative way of characterising missing data, known as structured missingness (SM), has been pioneered by researchers of the [Turing-Roche Partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership). SM arises in data that is MCAR, MAR or MNAR, and whose missingness has some structure or pattern {cite:ps}`Mitra2023structuredmissingness`. Specifically, standard definitions of missinginess mechanisms (such as those introduced in {ref}`pd-missing-data-structures`) assume that the missingness of one variable is independent of the missingness in another, when conditioning on the relevant data. In contrast, the missingness of a variable can depend on the data *and* the missingness of other variables in SM {cite:ps}`Jackson2023structuredmissingness`. 
 
+
+```{figure} ../../figures/missing-data-structured-missingness.png
+---
+height: 500px
+name: missing-data-structured-missingness
+alt: 
+---
+Overview of structured missingness. 
+```
+
+
 This is common in research contexts where data is combined from multiple studies or sources. For instance, many large-scale healthcare studies are multimodal and attempt to include a diverse set of patients, therefore capturing data for a heterogeneous group of individuals. Therefore, data is often collected at multiple time points and multiple sites, where different measurements may be taken, such as clinical, genomic or imaging measures. Our example dataset (introduced in {ref}`pd-missing-data-structures`) is also an example of SM. 
 
 > **Example**: The missing values in the blood test results, blood pressure readings, and cognitive scores are all examples of SM. The blood test results (MCAR) are due to batch failure. The cognitive score missing values (MNAR) are missing in participants with significant cognitive decline. The blood pressure readings (MAR) are missing in participants that could not attend the clinic due to being older and having more motor dysfunction. Therefore, the missingness in all these variables are *not* equally likely for all individuals, even after conditioning on the relevant data. The missingness has some information that can be leveraged in further analyses and this would be also considered as SM.  
