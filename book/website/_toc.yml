@@ -394,6 +394,17 @@ chapters:
             file: project-design/missing-data/missing-data-structured-missingness
           - title: Checklist and Resources
             file: project-design/missing-data/missing-data-checklist-resources
+      - title: Risks of Bias in Research
+        file: project-design/pd-bias
+        sections:
+          - title: Identifying Risks of Bias
+            file: project-design/pd-bias/pd-bias-identification
+          - title: Confounding Variables
+            file: project-design/pd-bias/pd-bias-confounders
+          - title: Validation and Generalisability
+            file: project-design/pd-bias/pd-bias-validation
+          - title: Discrimination and Bias
+            file: project-design/pd-bias/pd-bias-discrimination
 
   # ===== Guide for Communication ========================================
   - file: communication/communication
