@@ -1588,7 +1588,7 @@ what it would cover.
   * TPS Staff (2021-Present)
   * Core Member, Reviewers & Editors Working Group (2022)
   * Book Dash Participant (2021-2023)
-* GitHub id: Shelton
+* GitHub id: [vhellon](https://github.com/vhellon)
 * Twitter: @vickyhellon
 
 * Short bio:
@@ -1639,5 +1639,25 @@ what it would cover.
 ## Y--->
 
 
-<!---Z
-## Z--->
+
+## Z
+
+### Zeena Shawa
+
+* Role:
+  * PhD student (2021-Present)
+  * Book Dash Participant (June 2024)
+  * Turing-Roche Community Scholar (October 2023-2024)
+* GitHub id: [Zeena-Shawa](https://github.com/Zeena-Shawa)
+
+* Short bio:. 
+> Zeena Shawa is PhD student in the i4Health Medical Imaging CDT programme at University College London. She is part of the Progression of Neurodegenerative Diseases (POND) Group in the Centre for Medical Image Computing (CMIC), supervised by Dr. Neil Oxtoby and Dr. Rimona Weil. Her PhD project aims at understanding Parkinson’s disease progression using machine learning approaches developed within POND, with a focus on medical imaging data. The insights obtained from this can aid in understanding disease mechanisms, identifying biomarkers associated with disease progression and thus potentially providing targets for therapeutic development. 
+> 
+> Zeena was an Enrichment Student at the Alan Turing Institute, where she first engaged with the Turing-Roche Partnership and started looking at imputing missing data. She was also part of the 2023/2024 Turing-Roche Partnership Community Scholar Scheme.
+
+
+
+
+* Personal highlights:
+> The main aim of my Turing-Roche Community Scholar project, was to create the {ref}`pd-missingdata` Chapter in the Turing Way handbook, consolidating what I learned during the Turing Enrichment Scheme (and more) with current research of the Turing-Roche partnership.  Imputing and data missingness is an important aspect of a lot of research, due to missing data being a common problem, especially in large cross-cohort multimodal datasets. 
+> A main highlight of this project was completing the chapter and then doing a live merge in a Collaboration Cafe, which also happened to be a Book Dash Q&A session. It was also great to have the Chapter reviewed by [Vicky Hellon](https://github.com/vhellon).  
