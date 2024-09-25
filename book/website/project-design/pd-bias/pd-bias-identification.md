@@ -32,7 +32,7 @@ It is often impossible to completely eliminate such biases, but they can be miti
 
 A sample may also differ from the population simply due to random chance - the only way to guarantee exact representation is to include every member of the population.
 *Stratified sampling* can keep certain characteristics consistent between the population and the sample - for example, if the gender proportions of a population are known then a stratified sample can be taken with these same proportions.
-This may be referred to as "proportional representation".
+This may be referred to as 'proportional representation'.
 However, not all relevant factors can be controlled this way, with stratification only being applicable when every member of the population can be neatly allocated to one group. 
 
 Increasing the size of a sample reduces the chance of a sample not being representative due to randomness.
