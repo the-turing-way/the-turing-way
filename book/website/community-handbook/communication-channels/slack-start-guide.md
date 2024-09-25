@@ -87,7 +87,7 @@ If a channel has become too noisy, you can additionally:
 
 * You are allowed to edit your messages at any time. That means if you edit a message after someone replied to it, make it clear that you edited something if it changes the meaning of your message. See the example in the GIF below.
 
-#### Account 
+#### Account Management
 
 * To change the email your slack account is attached to, message a member of _The Turing Way_ team, who will have to delete your account first, so you can join with an alternative email.
  
