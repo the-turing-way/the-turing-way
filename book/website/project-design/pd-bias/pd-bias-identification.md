@@ -76,7 +76,7 @@ This gives an opportunity to ensure research is properly thought-through, as wel
 (pd-bias-identification-blinding)=
 ## Blinding
 
-In prospective research, blinding (also called masking) can help to address many of the risks related to exposures and outcomes. 
+In prospective research, blinding (also called _masking_) can help to address many of the risks related to exposures and outcomes. 
 People who have been blinded cannot know which exposure has been administered to any specific participant. 
 
 Blinding participants is a common approach to avoid selection and participation biases (such as people only participating if they receive a specific treatment), and to avoid behavioural changes due to the psychological effects of receiving different treatments, such as the placebo effect. 
