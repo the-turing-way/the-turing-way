@@ -1,5 +1,5 @@
 (ch-core-team-onboarding-checklist)=
-# Core Team Offboarding Checklist
+# Core Team Onboarding Checklist
 
 **☀️ Welcome to *The Turing Way* Core Team!☀️**
 
