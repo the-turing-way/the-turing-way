@@ -11,7 +11,7 @@ When working with sampled data, it is essential to extract the most information 
 - Statistical tests (hypothesis tests)
 
 Such methods can help to evaluate the variability and generalisability of results.
-This is particularly useful when comparing different modelling approaches or exposures, as without measuring the variability we cannot be certain whether "better" results were simply caused by random chance. 
+This is particularly useful when comparing different modelling approaches or exposures, as without measuring the variability we cannot be certain whether 'better' results were simply caused by random chance. 
 
 It is also important in validation to choose appropriate metrics. 
 No individual metric is able to assess all relevant aspects of performance, and as such it is far more informative to calculate several different metrics with different properties. 
