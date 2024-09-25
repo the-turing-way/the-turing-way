@@ -85,5 +85,5 @@ This is not possible in observational research.
 Blinding assessors can help to avoid an information bias, where the assessment of outcome is influenced by the expectations of the exposure. 
 Data analysts can also be blinded to ensure a fair assessment of the final data. 
 
-Typically the phrase "single-blind" will refer to blinding only the participants, "double-blind" to participants and assessors, and "triple-blind" to participants, assessors, and data analysts. 
+Typically the phrase 'single-blind' will refer to blinding only the participants, 'double-blind' to participants and assessors, and 'triple-blind' to participants, assessors, and data analysts. 
 However, these terms are not always used consistently, so it should always be made explicitly clear which groups have been blinded. 
