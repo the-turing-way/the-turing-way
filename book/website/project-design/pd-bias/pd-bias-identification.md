@@ -28,7 +28,7 @@ This may be caused by *convenience sampling*, where potential participants are s
 In many studies, samples cannot be truly random as they depend upon members of the population volunteering themselves.
 This often leads to a *participation bias*, where some population subgroups are more able or willing to participate than others. 
 For example, it is very common for participation to be related to socio-economic factors, with healthy, wealthy, older people more likely to have the time and financial security required to volunteer in research. 
-It is often impossible to completely elimiate such biases, but they can be mitigated by taking measures to [enable and encourage](https://www.evalacademy.com/articles/incentives-for-participation) a wider group of the population to participate. 
+It is often impossible to completely eliminate such biases, but they can be mitigated by taking measures to [enable and encourage](https://www.evalacademy.com/articles/incentives-for-participation) a wider group of the population to participate. 
 
 A sample may also differ from the population simply due to random chance - the only way to guarantee exact representation is to include every member of the population.
 *Stratified sampling* can keep certain characteristics consistent between the population and the sample - for example, if the gender proportions of a population are known then a stratified sample can be taken with these same proportions.
