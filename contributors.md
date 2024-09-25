@@ -1659,5 +1659,5 @@ what it would cover.
 
 
 * Personal highlights:
-> The main aim of my Turing-Roche Community Scholar project, was to create the {ref}`pd-missing-data` Chapter in the Turing Way handbook, consolidating what I learned during the Turing Enrichment Scheme (and more) with current research of the Turing-Roche partnership.  Imputing and data missingness is an important aspect of a lot of research, due to missing data being a common problem, especially in large cross-cohort multimodal datasets. 
+> The main aim of my Turing-Roche Community Scholar project, was to create the {ref}`pd-missing-data` Chapter in the Turing Way handbook, consolidating what I learned during the [Turing Enrichment Scheme](https://www.turing.ac.uk/work-turing/studentships/enrichment) (and more) with current research of the [Turing-Roche Partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership).  Imputing and data missingness is an important aspect of a lot of research, due to missing data being a common problem, especially in large cross-cohort multimodal datasets. 
 > A main highlight of this project was completing the chapter and then doing a live merge in a Collaboration Cafe, which also happened to be a Book Dash Q&A session. It was also great to have the Chapter reviewed by [Vicky Hellon](https://github.com/vhellon).  
