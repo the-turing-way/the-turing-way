@@ -12,7 +12,7 @@ $Outcome = x_1 \times  Exposure  + x_2 \times Confounder$
 In the study of causal inference it is common to use directed acyclic graphs (DAGs) to map the causal relationships between variables, which can help to identify confounders. 
 This can be helpful as it is not always clear whether a potential confounder is in fact a confounder, or a *mediator*, a *proxy confounder*, or a *competing exposure*. 
 
-```{figure} /book/website/figures/DirectedAcyclicGraph.png
+```{figure} ../../figures/DirectedAcyclicGraph.png
 ---
 height: 500px
 name: directed-acyclic-graph
