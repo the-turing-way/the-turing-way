@@ -12,9 +12,15 @@ $Outcome = x_1 \times  Exposure  + x_2 \times Confounder$
 In the study of causal inference it is common to use directed acyclic graphs (DAGs) to map the causal relationships between variables, which can help to identify confounders. 
 This can be helpful as it is not always clear whether a potential confounder is in fact a confounder, or a *mediator*, a *proxy confounder*, or a *competing exposure*. 
 
-![DAG_Example](https://hackmd.io/_uploads/H1YsrR6B0.png)
-[caption - A directed acyclic graph (DAG), with the relationship of interest indicated in red.]
-[alt text - A diagram containing named nodes connected by arrows. In the centre, indicated in red, is an arrow from the exposure to the outcome. A mediator is placed between the exposure and the outcome. A competing exposure is place before the outcome. A true confounder has an arrow to the exposure, and a second arrow to a proxy confounder, which itself has an arrow to the outcome.]
+```{figure} /book/website/figures/DirectedAcyclicGraph.png
+---
+height: 500px
+name: directed-acyclic-graph
+alt: A diagram containing named nodes connected by arrows. In the centre, indicated in red, is an arrow from the exposure to the outcome. A mediator is placed between the exposure and the outcome. A competing exposure is place before the outcome. A true confounder has an arrow to the exposure, and a second arrow to a proxy confounder, which itself has an arrow to the outcome.
+---
+A directed acyclic graph (DAG), with the relationship of interest indicated in red. 
+```
+
 
 Modelling competing exposures can help to make models more precise, but does not affect modelling bias. 
 Modelling mediators is only required if we wish to estimate the *direct* causal effect of the exposure on the outcome, rather than the more common *total* causal effect. 
