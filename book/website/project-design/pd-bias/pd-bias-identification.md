@@ -68,7 +68,7 @@ It is also important that research is reported in a fair and unbiased manner.
 Failure to report negative results can be a significant form of scientific misconduct, and in medical research it is a breach of the [Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/). 
 *Reporting bias* can also include bias in choosing which previous studies to cite in order to give unfair emphasis to a particular narrative. 
 
-To avoid biases in reporting research, it is helpful to define the primary results are before conducting research, then these can be reported regardless of whether the finding was positive or negative. 
+To avoid biases in reporting research, it is helpful to define what the primary results are before conducting research, then these can be reported regardless of whether the finding was positive or negative. 
 As such, it is highly beneficial to [develop and register a study protocol](https://www.nature.com/articles/s42256-023-00705-6) at the start of a research project.
 This gives an opportunity to ensure research is properly thought-through, as well as improving the transparancy and trustworthiness of research. 
 
