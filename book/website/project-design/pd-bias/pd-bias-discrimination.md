@@ -13,5 +13,5 @@ Examples of discrimination in AI include [racism in predictive policing](https:/
 These algorithms form negative feedback loops, with historic discrimination contributing to discrimination in future decision-making. 
 There is [no one-size fits all solution](https://dl.acm.org/doi/10.1145/3616865) to ensure fairness in AI, though guidance is available through the [Information Comissioner's Office (ICO)](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/artificial-intelligence/guidance-on-ai-and-data-protection/how-do-we-ensure-fairness-in-ai/) and the [Alan Turing Institute](https://www.turing.ac.uk/news/publications/ai-ethics-and-governance-practice-ai-fairness-practice). 
 
-Further information can be found through the [Turing-Roche Knowledge Share Event: Fairness in AI for Health](https://www.youtube.com/watch?v=Tuz7IGqDAIs&list=PLDbZND-EA4eHYGwDyOEiUumyCNPAx2gyF).
+Further information can also be found through the [Turing-Roche Knowledge Share Event: Fairness in AI for Health](https://www.youtube.com/watch?v=Tuz7IGqDAIs&list=PLDbZND-EA4eHYGwDyOEiUumyCNPAx2gyF).
  
