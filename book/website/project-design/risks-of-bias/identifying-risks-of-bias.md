@@ -1,4 +1,4 @@
-(pd-identifying-risks-of-bias)=
+(pd-risks-of-bias-identifying-risks-of-bias)=
 # Identifying Risks of Bias
 [Many tools](https://osf.io/dmrq6) have been established to identify/assess risks of bias.
 While most risk of bias identification tools are intended to be used retrospectively during a literature review, we can use lessons from these to guide project design. 
@@ -12,7 +12,7 @@ Creating a research protocol can be invaluable in ensuring that the research has
 The protocol can even be peer-reviewed before the start of the active research, and can be published alongside the findings in a [registered report](https://book.the-turing-way.org/communication/dif-articles/reg.html#registered-reports). 
 
 
-(pd-identifying-risks-of-bias-sampling)=
+(pd-risks-of-bias-identifying-risks-of-bias-sampling)=
 ## Sampling
 In statistics, a *population* is any group of similar individuals that is being modelled.
 Individuals may be physical objects, such as people with a specific disease, or rivers in South America, or they may be conceptual, such as different news sources or political ideologies. 
@@ -39,7 +39,7 @@ Increasing the size of a sample reduces the chance of a sample not being represe
 Given the difficulty and cost of taking a larger sample, [*power calculations*](https://emj.bmj.com/content/20/5/453) can be used to determine the minimum appropriate sample size that can be taken to give a particular level of statistical certainty to the results. 
 
 
-(pd-identifying-risks-of-bias-exposures)=
+(pd-risks-of-bias-identifying-risks-of-bias-exposures)=
 ## Exposures and Outcomes
 Research questions can often be simplified to "how does X affect Y?" - we refer to X as an *exposure* or *predictor*, and to Y as an *outcome*. 
 For example, when considering "does smoking cause lung cancer?", smoking is the exposure and lung cancer is the outcome. 
@@ -51,7 +51,7 @@ The outcome can be anything which is measurable, either by qualitative (descript
 In answering the research question, the exposures and outcomes must be clearly defined, and applied/assessed consistently for all participants. 
 If the outcome is assessed qualitatively, it is also important that it is assessed without knowledge of the predictors to avoid an *observer bias*. 
 
-(pd-identifying-risks-of-bias-analysis)=
+(pd-risks-of-bias-identifying-risks-of-bias-analysis)=
 ## Analysis and Reporting
 Bias remains an issue after the data collection stage, with potential risks in the data analysis and reporting of results. 
 
@@ -73,7 +73,7 @@ As such, it is highly beneficial to [develop and register a study protocol](http
 This gives an opportunity to ensure research is properly thought-through, as well as improving the transparancy and trustworthiness of research. 
 
 
-(pd-identifying-risks-of-bias-blinding)=
+(pd-risks-of-bias-identifying-risks-of-bias-blinding)=
 ## Blinding
 
 In prospective research, blinding (also called _masking_) can help to address many of the risks related to exposures and outcomes. 
