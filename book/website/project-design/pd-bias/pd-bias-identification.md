@@ -39,7 +39,7 @@ Increasing the size of a sample reduces the chance of a sample not being represe
 Given the difficulty and cost of taking a larger sample, [*power calculations*](https://emj.bmj.com/content/20/5/453) can be used to determine the minimum appropriate sample size that can be taken to give a particular level of statistical certainty to the results. 
 
 
-(pd-bias-identification-exposures)=
+(pd-identifying-risks-of-bias-exposures)=
 ## Exposures and Outcomes
 Research questions can often be simplified to "how does X affect Y?" - we refer to X as an *exposure* or *predictor*, and to Y as an *outcome*. 
 For example, when considering "does smoking cause lung cancer?", smoking is the exposure and lung cancer is the outcome. 
