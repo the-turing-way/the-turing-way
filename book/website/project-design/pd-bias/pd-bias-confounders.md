@@ -1,4 +1,4 @@
-(pd-bias-confounders)=
+(pd-bias-confounding-variables)=
 # Confounding Variables
 Correlation does not imply causation - if we want to know whether a relationship between an exposure and outcome is causal, we must first consider whether any other factors could have had an influence.
 
