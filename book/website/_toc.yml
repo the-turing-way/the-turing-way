@@ -402,7 +402,7 @@ chapters:
           - title: Confounding Variables
             file: project-design/risks-of-bias/confounding-variables
           - title: Validation and Generalisability
-            file: project-design/pd-bias/pd-bias-validation
+            file: project-design/risks-of-bias/validation-generalisability
           - title: Discrimination and Bias
             file: project-design/risks-of-bias/discrimination-bias
 
