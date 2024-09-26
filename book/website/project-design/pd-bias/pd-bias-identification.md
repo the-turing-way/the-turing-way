@@ -1,4 +1,4 @@
-(pd-bias-identification)=
+(pd-identifying-risks-of-bias)=
 # Identifying Risks of Bias
 [Many tools](https://osf.io/dmrq6) have been established to identify/assess risks of bias.
 While most risk of bias identification tools are intended to be used retrospectively during a literature review, we can use lessons from these to guide project design. 
