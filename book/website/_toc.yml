@@ -398,7 +398,7 @@ chapters:
         file: project-design/risks-of-bias
         sections:
           - title: Identifying Risks of Bias
-            file: project-design/pd-bias/pd-bias-identification
+            file: project-design/risks-of-bias/identifying-risks-of-bias
           - title: Confounding Variables
             file: project-design/pd-bias/pd-bias-confounders
           - title: Validation and Generalisability
