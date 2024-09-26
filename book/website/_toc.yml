@@ -398,13 +398,13 @@ chapters:
         file: project-design/pd-bias
         sections:
           - title: Identifying Risks of Bias
-            file: project-design/risks-of-bias/identifying-risks-of-bias
+            file: project-design/pd-bias/identifying-risks-of-bias
           - title: Confounding Variables
-            file: project-design/risks-of-bias/confounding-variables
+            file: project-design/pd-bias/confounding-variables
           - title: Validation and Generalisability
-            file: project-design/risks-of-bias/validation-generalisability
+            file: project-design/pd-bias/validation-generalisability
           - title: Discrimination and Bias
-            file: project-design/risks-of-bias/discrimination-bias
+            file: project-design/pd-bias/discrimination-bias
 
   # ===== Guide for Communication ========================================
   - file: communication/communication
