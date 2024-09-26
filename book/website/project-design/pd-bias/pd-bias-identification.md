@@ -12,7 +12,7 @@ Creating a research protocol can be invaluable in ensuring that the research has
 The protocol can even be peer-reviewed before the start of the active research, and can be published alongside the findings in a [registered report](https://book.the-turing-way.org/communication/dif-articles/reg.html#registered-reports). 
 
 
-(pd-bias-identification-sampling)=
+(pd-identifying-risks-of-bias-sampling)=
 ## Sampling
 In statistics, a *population* is any group of similar individuals that is being modelled.
 Individuals may be physical objects, such as people with a specific disease, or rivers in South America, or they may be conceptual, such as different news sources or political ideologies. 
