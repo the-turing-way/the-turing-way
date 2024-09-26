@@ -51,7 +51,7 @@ The outcome can be anything which is measurable, either by qualitative (descript
 In answering the research question, the exposures and outcomes must be clearly defined, and applied/assessed consistently for all participants. 
 If the outcome is assessed qualitatively, it is also important that it is assessed without knowledge of the predictors to avoid an *observer bias*. 
 
-(pd-bias-identification-analysis)=
+(pd-identifying-risks-of-bias-analysis)=
 ## Analysis and Reporting
 Bias remains an issue after the data collection stage, with potential risks in the data analysis and reporting of results. 
 
