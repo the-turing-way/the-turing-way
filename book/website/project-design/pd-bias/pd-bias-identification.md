@@ -73,7 +73,7 @@ As such, it is highly beneficial to [develop and register a study protocol](http
 This gives an opportunity to ensure research is properly thought-through, as well as improving the transparancy and trustworthiness of research. 
 
 
-(pd-bias-identification-blinding)=
+(pd-identifying-risks-of-bias-blinding)=
 ## Blinding
 
 In prospective research, blinding (also called _masking_) can help to address many of the risks related to exposures and outcomes. 
