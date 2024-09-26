@@ -61,7 +61,7 @@ This is especially true if many different experiments are conducted, with a larg
 This is sometimes referred to as 'p-hacking' in a statistical context where positive results have small p-values, and as such it is not always sufficient to use the standard p-value threshold of 0.05 (for example, [genome-wide association studies](https://academic.oup.com/g3journal/article/11/2/jkaa056/6080665) often use a threshold of 0.00000005, which can be written more clearly as 5x10<sup>-8</sup>). 
 
 Weak validations give imprecise results which are unlikely to generalise well to data outside of the training set. Thorough validation methods are explored in the 
-{ref}`validation and generalisability subchapter<pd-bias-validation>`. 
+{ref}`validation and generalisability subchapter <project-design/pd-bias/pd-bias-validation>`. 
 
 It is also important that research is reported in a fair and unbiased manner. 
 *Reporting bias* typically involves placing undue emphasis on positive results while downplaying or ignoring negative results (also called *selective reporting* or *cherry picking*). 
