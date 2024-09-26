@@ -2,7 +2,7 @@
 # Risks of Bias in Research
 
 
-(pd-bias-prerequisites)=
+(pd-risks-of-bias-prerequisites)=
 ## Prerequisites
 
 
