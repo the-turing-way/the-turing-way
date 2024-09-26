@@ -7,7 +7,7 @@ A model may act in a biased way against a group of people, which can lead to dis
 
 Data science and AI will always be at risk of bias - biased data leads to biased models, which may lead to biased decision-making. 
 Datasets contain biases which reflect the personal and societal biases which were present during data collection.
-They also become biased due to difficulties in {ref}`sampling<pd-bias-identification-sampling>`. 
+They also become biased due to difficulties in {ref}`sampling <project-design/pd-bias/pd-bias-identification-sampling>`. 
 
 Examples of discrimination in AI include [racism in predictive policing](https://www.technologyreview.com/2020/07/17/1005396/predictive-policing-algorithms-racist-dismantled-machine-learning-bias-criminal-justice/), [sexism in recruiting](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G/), and multiple forms of [discrimination in generative AI](https://en.wikipedia.org/wiki/Tay_(chatbot)). 
 These algorithms form negative feedback loops, with historic discrimination contributing to discrimination in future decision-making. 
