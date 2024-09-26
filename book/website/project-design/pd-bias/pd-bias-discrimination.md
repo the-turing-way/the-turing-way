@@ -1,4 +1,4 @@
-(pd-bias-discrimination)=
+(pd-discrimination-bias)=
 # Discrimination and Bias
 
 The word *bias* is often used to refer to prejudice against a group of people. 
