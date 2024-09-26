@@ -15,9 +15,9 @@
 [*Risks of bias*](https://www.nhmrc.gov.au/guidelinesforguidelines/develop/assessing-risk-bias#) are opportunities for the results of research to become distorted by limitations within the study design, conduct, and analysis.
 This can cause the findings and interpretation of research to be misleading or incorrect. 
 Many risks can be mitigated, though this requires researchers to be aware both of the risks and the mitigation techniques. 
-This chapter introduces methods for the {ref}`assessment of risks of bias<pd-bias-identification>`, {ref}`identification of confounders<pd-bias-confounders>`, and some {ref}`methods to improve validation<pd-bias-validation>`. 
+This chapter introduces methods for the {ref}`assessment of risks of bias <project-design/pd-bias/pd-bias-identification>`, {ref}`identification of confounders <project-design/pd-bias/pd-bias-confounders>`, and some {ref}`methods to improve validation <project-design/pd-bias/pd-bias-validation>`. 
 
-In this chapter, the word *bias* predominantely refers to statistical distortion rather than to {ref}`the unfair treatment of societal groups (discrimination)<pd-bias-discrimination>`, which is an important topic in its own right.
+In this chapter, the word *bias* predominantely refers to statistical distortion rather than to {ref}`the unfair treatment of societal groups (discrimination) <project-design/pd-bias/pd-bias-discrimination>`, which is an important topic in its own right.
 
 
 
