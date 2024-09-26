@@ -395,7 +395,7 @@ chapters:
           - title: Checklist and Resources
             file: project-design/missing-data/missing-data-checklist-resources
       - title: Risks of Bias in Research
-        file: project-design/pd-bias
+        file: project-design/risks-of-bias
         sections:
           - title: Identifying Risks of Bias
             file: project-design/pd-bias/pd-bias-identification
