@@ -1,4 +1,4 @@
-(pd-bias-validation)=
+(pd-validation-generalisability)=
 # Validation and Generalisability 
 Data analysis often involves making quantitative estimates of performance (such as assessing the accuracy of predictions), in a process called validation. 
 Poor validation can lead to the research results being inaccurate, uninformative, or misleading.
