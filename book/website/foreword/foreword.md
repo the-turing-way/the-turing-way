@@ -16,6 +16,7 @@ Finally, we provide details on community roles, citation process and frequently 
 You will find these details in the following chapters:
 
 - {ref}`fw-background`
+- {ref}`fw-history`
 - {ref}`fw-navigating`
 - {ref}`fw-emergent-strategy`
 - {ref}`fw-embracing-digital-commons`
