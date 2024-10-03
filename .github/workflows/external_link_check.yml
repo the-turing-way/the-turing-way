@@ -20,11 +20,11 @@ jobs:
 
       - name: Install dependencies
         run: make deps
-        working-directory: ./book/website
+        working-directory: ./book
 
       - name: Build Jupyter-Book
         run: make book
-        working-directory: ./book/website
+        working-directory: ./book
 
       - name: Restore lychee cache
         uses: actions/cache@v4

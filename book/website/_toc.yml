@@ -116,7 +116,6 @@ chapters:
             sections:
               - title: "Case Studies: Choosing an ML License"
                 file: reproducible-research/licensing/licensing-ml-case-studies
-
           - title: Checklist
             file: reproducible-research/licensing/licensing-checklist
       - title: Research Data Management
@@ -382,6 +381,30 @@ chapters:
             file: project-design/data-governance/data-gov-ml
           - title: BigCode Data Governance Case Study
             file: project-design/data-governance/bigcode_casestudy
+      - title: Missing Data Handling
+        file: project-design/missing-data
+        sections:
+          - title: Missing Data Structures
+            file: project-design/missing-data/missing-data-structures
+          - title: Visualising Missingness
+            file: project-design/missing-data/missing-data-visualising-missingness
+          - title: Missing Data Handling Methods
+            file: project-design/missing-data/missing-data-methods
+          - title: Structured Missingness
+            file: project-design/missing-data/missing-data-structured-missingness
+          - title: Checklist and Resources
+            file: project-design/missing-data/missing-data-checklist-resources
+      - title: Risks of Bias in Research
+        file: project-design/risks-of-bias
+        sections:
+          - title: Identifying Risks of Bias
+            file: project-design/risks-of-bias/identifying-risks-of-bias
+          - title: Confounding Variables
+            file: project-design/risks-of-bias/confounding-variables
+          - title: Validation and Generalisability
+            file: project-design/risks-of-bias/validation-generalisability
+          - title: Discrimination and Bias
+            file: project-design/risks-of-bias/discrimination-bias
 
   # ===== Guide for Communication ========================================
   - file: communication/communication
