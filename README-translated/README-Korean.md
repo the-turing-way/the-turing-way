@@ -70,9 +70,11 @@ _The Turing Way_는 개방형 협업 및 커뮤니티 주도 프로젝트입니�
 
 프로젝트에 참여하는 모든 사람은 [행동강령](../CODE_OF_CONDUCT.md)을 준수해야 하며 시작 방법에 대한 자세한 내용은 [기여지침](../CONTRIBUTING.md) 을 확인하세요.
 우리는 기여자의 요구를 충족할 수 있기를 원합니다.
-
 따라서 우리는 귀하의 관심사, 가용성 또는 기술 요구 사항에 따라 귀하의 기여에 대한 여러 진입점을 제공합니다.
-![Promotion Pack](https://github.com/the-turing-way/the-turing-way/tree/main/communications/promotion-pack)는 네트워크_The Turing Way_를 소개하고 공유하는 데 도움이 됩니다.
+
+![This image shows six of many kinds of contributions that anyone can make. These are: Develop and share, Maintain and improve, Share resources, Review and update, Make it global through translation, and Share best practices](../book/website/figures/README_imgs/README_contributions.png)
+
+[프로모션 정보 팩](https://github.com/the-turing-way/the-turing-way/tree/main/communications/promotion-pack)는 네트워크_The Turing Way_를 소개하고 공유하는 데 도움이 됩니다.
 
 ### _Turing Way_ 인용
 
