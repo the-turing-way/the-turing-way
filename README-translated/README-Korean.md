@@ -74,7 +74,7 @@ _The Turing Way_는 개방형 협업 및 커뮤니티 주도 프로젝트입니�
 
 ![This image shows six of many kinds of contributions that anyone can make. These are: Develop and share, Maintain and improve, Share resources, Review and update, Make it global through translation, and Share best practices](../book/website/figures/README_imgs/README_contributions.png)
 
-[프로모션 정보 팩](https://github.com/the-turing-way/the-turing-way/tree/main/communications/promotion-pack)는 네트워크_The Turing Way_를 소개하고 공유하는 데 도움이 됩니다.
+[프로모션 정보 팩](https://github.com/the-turing-way/the-turing-way/tree/main/communications/promotion-pack)는 _The Turing Way_ 네트워크 를 소개하고 공유하는 데 도움이 됩니다.
 
 ### _Turing Way_ 인용
 
@@ -93,7 +93,6 @@ DOI를 사용하면 리포지토리를 보관할 수 있으며 학술 출판물�
 귀하의 작업에서 Turing Way 프로젝트를 참고하시면 매우 감사하겠습니다. 도움이 되기를 바랍니다. 궁금한 점이 있으시면 [문의](#get-in-touch)해 주세요.
 
 ### 명언 _Turing Way_ 일러스트레이션
-
 ![이것은 개방형 과학 시대를 향한 진화를 보여주려는 튜링 방식 삽화 중 하나의 예입니다.](../book/website/Figures/evolution-open-research.jpg)
 
 _The Turing Way_ 일러스트레이션은 [Scriberia](https://www.scriberia.co.uk/)의 아티스트가 [_The Turing Way_ 북 대시](https://github.com/the-turing-way/)로 제작했습니다. -turing-way/tree/main/workshops/book-dash) 책은 2019년 5월 17일 맨체스터, 2019년 5월 28일, 2020년 2월 21일 런던에서 출시되며 2020년 11월 27일과 2021년 5월 28일에 온라인으로 출판되었습니다. 다양한 핸드북의 내용, 커뮤니티의 공동 노력, Turing Way 프로젝트의 전반적인 그림을 설명합니다. 이 그림은 CC-BY 라이선스에 따라 Zenodo([https://doi.org/10.5281/zenodo.3332807)](https://doi.org/10.5281/zenodo.3332807)에서 볼 수 있습니다.
