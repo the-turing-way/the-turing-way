@@ -1,4 +1,4 @@
-<a href="https://book.the-turing-way.org/welcome.html"><img src="book/website/figures/logo/logo.jpg?raw=true)" width="180" align="Right" /></a>
+<a href="https://book.the-turing-way.org/welcome.html"><img src="../book/website/figures/logo/logo.jpg?raw=true)" width="180" align="Right" /></a>
 
 # _The Turing Way_
 
@@ -13,10 +13,6 @@
 | **연결** | [![加如 Slack](https://img.shields.io/badge/Chat-on%20Slack-ff69b4)](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw) [![GitHub issues](https://img.shields.io/github/issues/the-turing-way/the-turing-way)](https://github.com/the-turing-way/the-turing-way/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/the-turing-way/the-turing-way)](https://github.com/the-turing-way/the-turing-way/pulls) |
 | **구축** | [![Netlify 构建](https://github.com/the-turing-way/the-turing-way/workflows/CI/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3ACI+branch%3Amain) [![Latin Phrases](https://github.com/the-turing-way/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amain) [![TestFileSizes](https://github.com/the-turing-way/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amain) [![Check for Lorem Ipsums](https://github.com/the-turing-way/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amain) |
 | **사용** |  [![引用 使用这个DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) |
-
-----
-New Changes  
-----  
 
 
 _The Turing Way_ 는 재생산 가능한 데이터 사이언스에 대한 가벼운 의견을 제시하는 가이드이다.
