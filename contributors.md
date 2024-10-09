@@ -85,19 +85,18 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 ### Léllé Demertzi
 
-* Role:
-  * Core Member, Book Dash Planning Committee (2023-2024)
+* Role: Research Project Manager, The Turing Way
+  * Core Member, Book Dash Participant (2024)
   * TPS Staff (2024-Present), Project Delivery Team member
-* GitHub id: 
-* ORCID: 
+* GitHub id: [Léllé Demertzi](https://github.com/LelleDi)
+* ORCID: [0009-0009-2782-0408](https://orcid.org/0009-0009-2782-0408)
 * Short bio:
-
+> Léllé is the Research Project Manager for The Turing Way, since September 2024. An architect by training, she has previously worked in cultural management in art institutions around the world. She is Organiser for the AI&Arts Interest Group at The Alan Turing Institute, where she can bridge her art practice with computational methods, as well as promote scholarship and engagement activities in the cross-disciplinary field.
 * Personal highlights:
-
-* More information:
-
+> So looking forward to the upcoming **November 2024 Book Dash**, it will be my first one! I'm really excited to support people from around the world to contribute to the Turing Way
+> I am also supporting the 2024 Cohort of The Turing Way Practitioners Hub, with 20 participating companies and 50 Experts in Residence.
 * Personal Quote:
-
+> As a new member, I am eager to get to know the community and explore new spaces of collaboration within the creative sector.
 
 ### Arielle Bennett
 
