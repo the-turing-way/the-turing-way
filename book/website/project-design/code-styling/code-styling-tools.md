@@ -40,9 +40,9 @@ $ autopep8 --in-place --aggressive --aggressive <filename>
 
 To some extent, the module can also be used on R scripts!
 
-## Auto formating by Black
+## Auto formatting by Black
 
-[Black](https://black.readthedocs.io/en/stable/) is an auto-formating package for Python.
+[Black](https://black.readthedocs.io/en/stable/) is an auto-formatting package for Python.
 This means that it will automatically change your code to adhere to certain guidelines, like spaces around operators and removing unnecessary whitespace.
 It is also consistent, so that the code that you and your collaborators work on, will look the same once black formats it.
 It does not change what the code does.

@@ -196,12 +196,12 @@ The others are independent works.
 
 Chardet is licensed under a weak copyleft license, so it can be redistributed under the terms of that license.
 Derivative works can be licensed under any license.
-However, the LGPL v2.1 requires that the recipient can (and is allowed to) modify the library and use the modified library with the derivative work.
+However, the LGPLv2.1 requires that the recipient can (and is allowed to) modify the library and use the modified library with the derivative work.
 
 #### How should the work(s) be licensed?
 
 xtas as a whole, and the xtas Python code, can be licensed in any way the authors want, so they used the Apache License v2.0.
-If they distribute chardet, they must do so under the LGPL v2.1 license granted by its copyright owners.
+If they distribute chardet, they must do so under the LGPLv2.1 license granted by its copyright owners.
 
 (rr-licensing-compatibility-examples-apachevsgplv2)=
 ### Apache vs. GPLv2

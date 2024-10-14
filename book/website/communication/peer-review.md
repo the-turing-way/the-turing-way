@@ -6,7 +6,7 @@
 
 | Prerequisite | Importance | Skill Level | Notes |
 | -------------|----------|------|----|
-| {ref}`Section Code Reviewing Process <rr-reviewing>` | Helpful | | We see code review as a part of peer review proces |
+| {ref}`Section Code Reviewing Process <rr-reviewing>` | Helpful | | We see code review as a part of peer review process |
 | {ref}`Section Research Data Management <rr-rdm>` | Helpful |  | A part of review process involves reviewing the data on which the publication is based. Knowledge of Research Data Management can help with evaluation |
 | {ref}`Guide for Collaboration <cl>` | Helpful |  | We see review as a form of collaboration |
 

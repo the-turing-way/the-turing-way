@@ -5,7 +5,7 @@
 ## Prerequisites
 
 There are no prerequisites for this chapter. 
-However, it's advised that you should be aware of the {ref}`legal and human rights<er-law-policy>` context first if you are considering an ethical dialemma.
+However, it's advised that you should be aware of the {ref}`legal and human rights<er-law-policy>` context first if you are considering an ethical dilemma.
 
 
 (er-self-reflection-summary)=
@@ -40,6 +40,6 @@ By being aware of the kinds of biases we hold, we can do more to challenge them 
 (er-self-reflection-influences)=
 ## Influences
 
-This chapter on the importance of self-reflection in research and data science draws on work from standpoint theory and feminist (particuarly Black feminist) theory, most notably Patricia Hill Collins' matrix of domination {cite:ps}`collins1990black`, Kimberlié Crenshaw's theory of intersectionality {cite:ps}`crenshaw1989demarginalizing`, and Donna Haraway's situated knowledges {cite:ps}`haraway1988situated`, amongst others. 
+This chapter on the importance of self-reflection in research and data science draws on work from standpoint theory and feminist (particularly Black feminist) theory, most notably Patricia Hill Collins' matrix of domination {cite:ps}`collins1990black`, Kimberlié Crenshaw's theory of intersectionality {cite:ps}`crenshaw1989demarginalizing`, and Donna Haraway's situated knowledges {cite:ps}`haraway1988situated`, amongst others. 
 More recently these ideas have been brought to data science by Catherine D'Ignazio and Lauren Klein's book 'Data Feminism' {cite:ps}`datafeminism2020`, and researchers like Abebea Birhane {cite:ps}`birhane2021algorithmic`and Timnit Gebru {cite:ps}`gebru2018datasheets`.
 A full list of further resources is provided in the Resources section. 
