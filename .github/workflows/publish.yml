@@ -20,7 +20,6 @@ on:
 jobs:
   build-jb:
     name: Build
-    if: (github.event.pull_request) && !contains(github.head_ref, 'all-contributors')
     strategy:
       matrix:
         os: [ubuntu-latest, macos-latest]
