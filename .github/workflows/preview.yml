@@ -1,0 +1,48 @@
+# .github/workflows/preview.yml
+name: Deploy PR previews
+concurrency: preview-${{ github.ref }}
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - closed
+jobs:
+  deploy-preview:
+    name: Build
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+        python_version: ["3.8"]
+      fail-fast: false # Don't cancel all jobs if one fails
+
+    runs-on: ${{ matrix.os }}
+    
+    steps:
+      - name: Checkout-repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python ${{ matrix.python_version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python_version }}
+
+      - name: Install dependencies
+        run: make deps
+        working-directory: ./book
+
+      - name: Build Jupyter-Book with warnings raised to errors
+        run: make strict
+        working-directory: ./book
+
+      - name: Run pathways script
+        run: make pathways
+        working-directory: ./book
+        
+      - uses: rossjrw/pr-preview-action@v1
+        with:
+          source-dir: book/website/_build/html
+          preview-branch: gh-pages
+          umbrella-dir: pr-preview
+          action: auto
