@@ -19,7 +19,6 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 - [Joining the community](#joining-the-community)
 - [Inclusivity](#inclusivity)
 - [Get in touch](#get-in-touch)
-- [What are Git and GitHub?](#what-are-git-github)
 - [Contributing through GitHub](#contributing-through-github)
 - [Writing in Markdown](#writing-in-markdown)
 - [Where to start: issues](#where-to-start-issues)
