@@ -18,7 +18,7 @@ jobs:
       fail-fast: false # Don't cancel all jobs if one fails
 
     runs-on: ${{ matrix.os }}
-    
+
     steps:
       - name: Checkout-repository
         uses: actions/checkout@v4
@@ -39,7 +39,7 @@ jobs:
       - name: Run pathways script
         run: make pathways
         working-directory: ./book
-        
+
       - uses: rossjrw/pr-preview-action@v1
         with:
           source-dir: book/website/_build/html
