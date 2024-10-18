@@ -31,7 +31,6 @@ Been here before? Already know what you're looking for in this guide? Jump to th
   - [4. Submit a pull request](#4-submit-a-pull-request)
 - [The process of adding a new chapter](#the-process-of-adding-a-new-chapter)
 - [Style Guide](#style-guide)
-- [Representing _The Turing Way_](#representing-the-turing-way)
 - [Recognising Contributions](#recognising-contributions)
 
 ## Joining the community
@@ -359,18 +358,6 @@ contains [_The Turing Way_ style guide](https://book.the-turing-way.org/communit
 The style guide helps you write in a consistent, readable and accessible way, so please follow it.
 
 You can improve the style guide like any other part of the book: just [open a new issue](https://github.com/the-turing-way/the-turing-way/issues/new/choose).
-
-## Representing _The Turing Way_
-
-We would LOVE people to give talks about the project or represent _The Turing Way_ in other ways!
-We have created a [promotion pack](https://github.com/the-turing-way/the-turing-way/tree/main/communications/promotion-pack) for you to reuse.
-You will find useful details about the project, a list of frequently asked questions, slide decks, and contact details.
-
-If you would like to represent the project in your network, please open an issue and ping @aleesteele, @malvikasharan and @KirstieJane so
-that they can do their best to support you.
-
-We would appreciate if you could share a short abstract and your presentation by adding them to the
-[conferences folder](/conferences) and some info in the [conferences README.md](/conferences/README.md).
 
 ## Recognising Contributions
 
