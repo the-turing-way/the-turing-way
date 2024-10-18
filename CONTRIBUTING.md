@@ -1,17 +1,16 @@
-# Contributing to _The Turing Way_
+# Contributing to _The Turing Way_ Open Source Book Project
 
 :tada::balloon::cake: **Welcome to _The Turing Way_ repository!** :cake::balloon::tada:
 
 :dizzy::hatched_chick::sunny: _We're excited that you're here and want to contribute._ :sunny::hatched_chick::dizzy:
 
-We want to ensure that every user and contributor feels welcome, included and supported to participate in _The Turing Way_ community.
-We hope that the information provided in this document will make it as easy as possible for you to get involved.
+We welcome every user and contributor, and want you to feel included and supported as you participate in _The Turing Way_ community.
 
-We welcome all contributions to this project via GitHub issues and pull requests.
-Please follow these guidelines to make sure your contributions can be easily integrated into the projects.
-As you start contributing to _The Turing Way_, don't forget that your ideas are more important than perfect pull requests. :heart:
+These guidelines are specific to the Open Source process of maintaining the _Turing Way_ book via GitHub Issues and Pull Requests, and advice about writing consistent content.
+There are other important ways to contribute that do not involve GitHub, and these are described in the [overall project README](./README.md).
+Remember, in _The Turing Way_, your ideas are more important than perfect pull requests. :heart:
 
-If you have any questions that aren't discussed below, please let us know through one of the many ways to [get in touch](#get-in-touch).
+Do you still have questions? There are many ways to [get in touch](#get-in-touch).
 
 ## Table of contents
 
@@ -20,6 +19,7 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 - [Joining the community](#joining-the-community)
 - [Inclusivity](#inclusivity)
 - [Get in touch](#get-in-touch)
+- [What are Git and GitHub?](#what-are-git-github)
 - [Contributing through GitHub](#contributing-through-github)
 - [Writing in Markdown](#writing-in-markdown)
 - [Where to start: issues](#where-to-start-issues)
@@ -29,30 +29,30 @@ Been here before? Already know what you're looking for in this guide? Jump to th
   - [2. Fork _The Turing Way_ repository to your profile](#2-fork-the-turing-way-repository)
   - [3. Make the changes you've discussed](#3-make-the-changes-youve-discussed)
   - [4. Submit a pull request](#4-submit-a-pull-request)
-- [The process of writing chapters](#the-process-of-writing-chapters)
+- [The process of adding a new chapter](#the-process-of-adding-a-new-chapter)
 - [Style Guide](#style-guide)
 - [Representing _The Turing Way_](#representing-the-turing-way)
 - [Recognising Contributions](#recognising-contributions)
 
 ## Joining the community
 
-_The Turing Way_ is a community-led and collaboratively developed project.
-We, therefore, require that all our members and their contributions **adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) (CoC)**.
-Please familiarize yourself with our [CoC](CODE_OF_CONDUCT.md) that lists the expected behaviours.
-We have also provided details for CoC reporting and enforcement, which can be read in our [Community Handbook](https://book.the-turing-way.org/community-handbook/coc.html).
+_The Turing Way_ is a community-led Open Source project.
+We have developed a [Code of Conduct](CODE_OF_CONDUCT.md) (CoC), and you should read it (it's not very long).
+The Code of Conduct describes the expected and required behaviour of community participants, whether
+directly towards others or expressed in contributions.
+Part of the CoC covers how to report bad behaviour and what we will do about it, further explained in our [Community Handbook](https://book.the-turing-way.org/community-handbook/coc.html).
 
 ## Inclusivity
 
 _The Turing Way_ aims to be inclusive to people from all walks of life and to all research fields.
-These intentions must be reflected in the contributions that we make to the project.
 
-In addition to the CoC, we encourage intentional, inclusive actions from contributors to _The Turing Way_.
+Therefore, in addition to the CoC, we encourage intentional, inclusive actions from contributors.
 Here are a few examples of such actions:
 
 - use respectful, gender-neutral and inclusive language (learn more about inclusive writing on page 22 of [University of Leicester Study Skills pdf](https://www2.le.ac.uk/projects/oer/oers/ssds/oers/study-skills/studyskills.pdf), also available as a [zipped html](https://www2.le.ac.uk/projects/oer/oers/ssds/oers/study-skills/studyskills_HTML.zip)).
-- aim to include perspectives of researchers from different research backgrounds such as science, humanities and social sciences by not limiting the scope to only scientific domains.
+- try to include perspectives of researchers from diverse research fields, such as the physical sciences, humanities, computing and social sciences.
 - make sure that the colour palettes are accessible to colour-blind readers and contributors.
-See the blogpost [Designing Scientific Figures for Colour Blindness](https://www.lewismackenzie.science/updates-1/2017/2/9/designing-scientific-figures-for-colour-blindness) for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator. for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator.
+See the blogpost [Designing Scientific Figures for Colour Blindness](https://www.lewismackenzie.science/updates-1/2017/2/9/designing-scientific-figures-for-colour-blindness) for an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator. For an example of how somebody improved one of their diagrams, including links to recommended colour palettes and a colour-blindness simulator.
 
 ## Get in touch
 
@@ -71,7 +71,7 @@ There are many ways to get in touch with _The Turing Way_ team!
 
 ### Receiving Updates
 
-- [@turingway](https://twitter.com/turingway) on Twitter
+- [@turingway](https://twitter.com/turingway) on X/Twitter
     - Follow us for regular updates
 - [Our mailing list](https://buttondown.email/turingway): Receive monthly project updates in a newsletter
 - [Fireside Chat Series](https://hackmd.io/@turingway/fireside-chats): Every month, The Turing Way Fireside chat will feature experts, champions and their projects from across different international communities in reproducibility, open research, ethics, collaboration and everything in between. This will be an incredible opportunity for catalysing cross-community collaboration and knowledge sharing.
@@ -85,7 +85,7 @@ There are many ways to get in touch with _The Turing Way_ team!
 
 ## Contributing through GitHub
 
-[Git][git] is a really useful tool for version control.
+[Git][git] is a tool for version control.
 [GitHub][github] sits on top of Git and supports collaborative and distributed working.
 
 We know that it can be daunting to start using Git and GitHub if you haven't worked with them in the past, but _The Turing Way_ maintainers are here to help you figure out any of the jargon or confusing instructions you encounter! :heart:
@@ -96,25 +96,26 @@ Remember that you can ask us any questions you need to along the way.
 
 ## Writing in Markdown
 
-GitHub has a helpful page on [getting started with writing and formatting on GitHub](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github).
-
-Most of the writing that you'll do will be in [Markdown][markdown].
+Most of the writing that you'll do will be in the [Markdown][markdown] plain text format.
 You can think of Markdown as a few little symbols around your text that will allow GitHub to render the text with a little bit of formatting.
 For example, you could write words as **bold** (`**bold**`), or in _italics_ (`_italics_`), or as a [link][rick-roll] (`[link](https://youtu.be/dQw4w9WgXcQ)`) to another webpage.
 
-Also when writing in Markdown, please [start each new sentence on a new line](https://book.the-turing-way.org/community-handbook/style.html#write-each-sentence-in-a-new-line-line-breaks).
-Having each sentence on a new line will make no difference to how the text is displayed, there will still be paragraphs, but it makes the [diffs produced during the pull request](https://help.github.com/en/articles/about-comparing-branches-in-pull-requests) review easier to read! :sparkles:
+When writing in Markdown, please [start each new sentence on a new line](https://book.the-turing-way.org/community-handbook/style.html#write-each-sentence-in-a-new-line-line-breaks).
+This makes no difference to how the text is displayed, there will still be paragraphs, but it makes the [diffs produced during the pull request](https://help.github.com/en/articles/about-comparing-branches-in-pull-requests) review easier to read! :sparkles:
 
-## Where to start: issues
+GitHub has a helpful page on [getting started with writing and formatting on GitHub](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github).
 
-Before you open a new issue, please check if any of our [open issues](https://github.com/the-turing-way/the-turing-way/issues) cover your idea already.
-If you open a new issue, please follow our basic guidelines laid out in our [issue templates](https://github.com/the-turing-way/the-turing-way/issues/new/choose).
-There are 3 issues templates to choose from.:
-1. New Chapter Template ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&labels=book&projects=&template=new_chapter.yml&title=%5BNEW+CHAPTER%5D+-+%3CTOPIC%3E)):  This issue is a place to discuss matters relating to writing a new chapter on a new topic or adding a subchapter in an already existing chapter.
-2. General ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&template=ISSUE_TEMPLATE.md)):  Use this template for a general issue related to the book, community, process or ideas.
-3. Bug Report ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D)): With this template, create an issue report that can help others repair something that is currently broken.
-This can be used for reporting errors like typos and broken links.
-The issue template will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the "_Lorem ipsum_" sections.
+## Where to start: GitHub issues
+
+Before you open a new GitHub issue, check if any [open issues](https://github.com/the-turing-way/the-turing-way/issues) cover your idea already.
+The [issue templates](https://github.com/the-turing-way/the-turing-way/issues/new/choose) guide you through the content to
+put in your new issue.
+You write your issue text replacing the sections containing "_Lorem ipsum_".
+
+There are three issues templates to choose from.:
+1. New Chapter Template ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&labels=book&projects=&template=new_chapter.yml&title=%5BNEW+CHAPTER%5D+-+%3CTOPIC%3E)): This is for discussing adding a new chapter, or a new subsection in an existing chapter.
+2. General ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&template=ISSUE_TEMPLATE.md)):  Use this template for anything about the book, community, process or ideas, but not to report a specific error.
+3. Bug Report ([preview here](https://github.com/the-turing-way/the-turing-way/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5BBUG%5D)): This is to report errors like spelling mistakes and broken links.
 
 ### Issue labels
 
@@ -306,11 +307,11 @@ You can learn more about CI in the [Continuous Integration chapter](https://book
 
 GitHub has a [nice introduction][github-flow] to the pull request workflow, but please [get in touch](#get-in-touch) if you have any questions :balloon:.
 
-## The process of writing chapters
+## The process of adding a new chapter
 
 - Fork the repository from [`the-turing-way/the-turing-way`](https://github.com/the-turing-way/the-turing-way) if you have not done so already.
-  - On your fork create a branch with the name as the chapter to be written and create a markdown file on it.
-- If you are a contributor to the project repository, you can also create a branch on the main repository with the same name as the chapter to be written without creating a fork (or a local copy).
+  - On your fork create a branch with the name as the chapter you are adding and create a markdown file on it.
+- If you have been added as a contributor to the project repository, you can also create a branch on the main repository with the same name as the chapter to be written without creating a fork (or a local copy).
 - Copy the relevant part of the [chapter template](https://github.com/the-turing-way/the-turing-way/tree/main/book/templates/chapter-template) into the markdown file, and commit.
 - Make a pull request to _The Turing Way_ version of the chapter branch.
   The title of this request should have the form "[WIP] Write Chapter_name chapter".
@@ -353,11 +354,11 @@ You can build and host the book website locally. The steps are:
 
 ## Style Guide
 
-In _The Turing Way_'s [Community Handbook](https://book.the-turing-way.org/community-handbook/community-handbook.html), we have developed a style guide for the project.
+_The Turing Way_ [Community Handbook](https://book.the-turing-way.org/community-handbook/community-handbook.html)
+contains [_The Turing Way_ style guide](https://book.the-turing-way.org/community-handbook/style.html).
+The style guide helps you write in a consistent, readable and accessible way, so please follow it.
 
-[_The Turing Way_ style guide](https://book.the-turing-way.org/community-handbook/style.html) will provide guidance and supporting resources for ensuring consistency, readability and accessibility for all our users.
-
-You are welcome to contribute to the style guide by opening [a new issue](https://github.com/the-turing-way/the-turing-way/issues/new/choose).
+You can improve the style guide like any other part of the book: just [open a new issue](https://github.com/the-turing-way/the-turing-way/issues/new/choose).
 
 ## Representing _The Turing Way_
 
