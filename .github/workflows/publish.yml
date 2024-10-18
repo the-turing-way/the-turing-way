@@ -50,7 +50,9 @@ jobs:
         working-directory: ./book
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: book/website/_build/html
+          folder: book/website/_build/html
+          branch: gh-pages
+          clean-exclude: pr-preview
+          force: false
