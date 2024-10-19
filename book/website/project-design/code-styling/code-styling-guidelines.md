@@ -15,6 +15,9 @@ The following are links to existing style guides that may be of use when decidin
 * [Google's](https://google.github.io/styleguide/Rguide.xml) style guide for R.
 * [Microsoft's](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) style guide for C#.
 * [PEP7](https://www.python.org/dev/peps/pep-0007/) for C.
+* [Harvard Strategic Data Project](https://hwpi.harvard.edu/files/sdp/files/sdp-toolkit-coding-style-guide.pdf) coding style guide for Stata.
+* [The Style Guide chapter](https://datamgmtinedresearch.com/style) in Data Management 
+in Large-Scale Education Research provides examples for file naming, variable naming, and general code styling.
 
 However, to get started quickly, the following sections present some advice for code style.
 
