@@ -19,7 +19,7 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 - [Joining the community](#joining-the-community)
 - [Inclusivity](#inclusivity)
 - [Get in touch](#get-in-touch)
-- [Contributing through GitHub](#contributing-through-github)
+- [Understanding Git and GitHub](#contributing-through-github)
 - [Writing in Markdown](#writing-in-markdown)
 - [Where to start: issues](#where-to-start-issues)
   - [Issue labels](#issue-labels)
@@ -81,16 +81,28 @@ There are many ways to get in touch with _The Turing Way_ team!
 - [Weekly Coworking Calls](https://book.the-turing-way.org/community-handbook/coworking.html): Every Monday (11:00 - 12:00 London time)/. This is a synchronous collaborative space to either discuss your ideas or quietly work in an accountable space with _The Turing Way_ team members. Shared notes with joining links: https://hackmd.io/@turingway/coworking-call.
 - [Book Dash Events](https://book.the-turing-way.org/community-handbook/bookdash.html) take place 1-2 times a year for a more engaged sprint for collaboration, networking and development either in person 1-2 days, or online for a week for flexible participation. Announcements are made via mailing list, Twitter, Slack and presentations.
 
-## Contributing through GitHub
+## Understanding Git and GitHub
 
-[Git][git] is a tool for version control.
-[GitHub][github] sits on top of Git and supports collaborative and distributed working.
+[Git][git] is a tool for collaborative, distributed version control.
+Git is a very common tool for managing the problem _The Turing Way_ has, where hundreds of editors are changing files constantly.
+Git addresses the problem of editing conflicts (where two people change the same thing at once) and also the audit trail problem (logging who changed what and when, in a very busy project.)
 
-We know that it can be daunting to start using Git and GitHub if you haven't worked with them in the past, but _The Turing Way_ maintainers are here to help you figure out any of the jargon or confusing instructions you encounter! :heart:
+Git is a powerful commandline tool, but there are collaboration features it lacks (such as Issues and Pull
+Requests) and it does not have a web interface.
+A software forge adds these features and user login management and the like.
+There are many different software forges.
+The forge used by _The Turing Way_ is [GitHub](github), a centralised commercial service run by Microsoft.
+All forges have Git underneath, and all contributors can clone a Git tree to their own computer.
 
 In order to contribute via GitHub, you'll need to set up a free account and sign in.
 Here are some [instructions](https://help.github.com/articles/signing-up-for-a-new-github-account/) to help you get going.
-Remember that you can ask us any questions you need to along the way.
+
+GitHub and Git can be daunting if you have never used them before.
+
+Git is a tool designed for one of the largest software projects in the world.
+_The Turing Way_ uses a tiny fraction of Git features, so don't be surprised if you sometimes find Git confusing.
+_The Turing Way_ maintainers are here to help you with errors or confusing instructions you encounter.
+
 
 ## Writing in Markdown
 
