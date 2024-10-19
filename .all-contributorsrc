@@ -4818,6 +4818,24 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "danshearer",
+      "name": "Dan Shearer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3944577?v=4",
+      "profile": "https://cv.shearer.org",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ccoulombe",
+      "name": "Charles Coulombe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22602168?v=4",
+      "profile": "https://github.com/ccoulombe",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
