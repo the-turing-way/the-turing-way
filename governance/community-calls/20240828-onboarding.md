@@ -53,6 +53,6 @@ Notes: Keeping it fluid so that we can tailor the session on the fly, would be a
 
 ## Debrief (to post on Github)
 
-* First time doing life demo for contribution in a few months
+* First time doing live demo for contribution in a few months
 * Feedback is positive on Github issue
 
