@@ -2689,11 +2689,13 @@
     },
     {
       "login": "mishkanemes",
-      "name": "mishkanemes",
+      "name": "Mishka Nemes",
       "avatar_url": "https://avatars.githubusercontent.com/u/39628884?v=4",
       "profile": "https://twitter.com/mishkanemes",
       "contributions": [
-        "eventOrganizing"
+        "eventOrganizing",
+        "content",
+        "review"
       ]
     },
     {
