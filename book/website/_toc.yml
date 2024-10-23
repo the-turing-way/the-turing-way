@@ -405,6 +405,17 @@ chapters:
             file: project-design/risks-of-bias/validation-generalisability
           - title: Discrimination and Bias
             file: project-design/risks-of-bias/discrimination-bias
+      - title: Machine Learning Development Governance
+        file: project-design/ml-dev
+        sections:
+          - title: Checklist
+            file: project-design/ml-dev/ml-dev-checklist
+          - title: ML Pipeline
+            file: project-design/ml-dev/ml-dev-pipeline
+          - title: Use Case - Finance
+            file: project-design/ml-dev/ml-dev-finance-usecase
+          - title: Resources
+            file: project-design/ml-dev/ml-dev-resources
 
   # ===== Guide for Communication ========================================
   - file: communication/communication
@@ -778,6 +789,8 @@ chapters:
             file: ethical-research/data-hazards/dh-case-study
       - title: Ethical Considerations for Open Source Governance Models
         file: ethical-research/ethics-open-source-governance
+      - title: Transparency of Development Process
+        file: ethical-research/transparency
 
   # ===== Community Handbook ========================================
   - file: community-handbook/community-handbook
