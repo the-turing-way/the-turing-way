@@ -100,7 +100,7 @@ N/A
 
 This project is openly developed; any and all questions, comments and recommendations are welcome at our [GitHub repository](https://github.com/alan-turing-institute/the-turing-way).
 
-To hear about our events and monthly project updates, sign up to our [newsletter](https://tinyletter.com/TuringWay).
+To hear about our events and monthly project updates, sign up to our [newsletter](https://buttondown.com/turingway).
 
 ## Research Engineering widget
 

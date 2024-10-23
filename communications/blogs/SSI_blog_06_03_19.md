@@ -8,7 +8,7 @@ By [Becky Arnold](https://software.ac.uk/about/fellows/becky-arnold?_ga=2.183212
 - Case studies of reproducible research
 - Workshops teaching researchers and RSEs to use tools to make their work more reproducible
 
-If you want to be kept up to date with the project’s progress, you can [sign up](https://tinyletter.com/TuringWay) to the project’s newsletter. Myself and a lot of the [team](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) will also be at the [Collaborations Workshop](https://www.software.ac.uk/cw19) 2019 to discuss the project if you’re there and want to chat.
+If you want to be kept up to date with the project’s progress, you can [sign up](https://buttondown.com/turingway) to the project’s newsletter. Myself and a lot of the [team](https://github.com/alan-turing-institute/the-turing-way/blob/main/ways_of_working.md) will also be at the [Collaborations Workshop](https://www.software.ac.uk/cw19) 2019 to discuss the project if you’re there and want to chat.
 
 ## A Curated, Open Textbook
 
@@ -67,7 +67,7 @@ Working on this project had been fascinating, and it's been a great excuse to se
 Useful links:
 - GitHub repository: https://github.com/alan-turing-institute/the-turing-way
 - Gitter chat room: https://gitter.im/alan-turing-institute/the-turing-way
-- Newsletter: https://tinyletter.com/TuringWay
+- Newsletter: https://buttondown.com/turingway
 - Manchester event (1 March): https://www.eventbrite.co.uk/e/boost-your-research-reproducibility-with-binder-manchester-registration-55331997494
 - London event (12 March): https://www.eventbrite.co.uk/e/boost-your-research-reproducibility-with-binder-london-registration-55337162944
 - Sheffield event (18 March): https://www.eventbrite.co.uk/e/build-a-binderhub-registration-55336756729

@@ -130,4 +130,4 @@ This may include (but are not limited to) being LGBTQ+, disabled, neurodivergent
 
 - [ ] Yes
 
-If you'd like to stay in touch with the Turing Way project (beyond this book dash application) please sign up to our monthly newsletter at https://tinyletter.com/TuringWay.
+If you'd like to stay in touch with the Turing Way project (beyond this book dash application) please sign up to our monthly newsletter at https://buttondown.com/turingway.
