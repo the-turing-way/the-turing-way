@@ -4845,6 +4845,15 @@
       "contributions": [
         "eventOrganizing"
       ]
+    },
+    {
+      "login": "anjackson",
+      "name": "Andy Jackson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87843?v=4",
+      "profile": "http://anjackson.net",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
