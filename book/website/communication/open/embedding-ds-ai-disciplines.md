@@ -1,3 +1,4 @@
+(cm-embedding-ds-ai-disciplines)=
 # Embedding Data Science & AI across Disciplines: Context and Suggestions for Educators
 
 ## Overview
