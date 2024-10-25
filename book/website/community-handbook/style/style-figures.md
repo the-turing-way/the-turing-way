@@ -106,8 +106,8 @@ Please make sure that the link to the source is the {term}`digital object identi
 Also ensure that you have created a link to the source using markdown link formatting: `[text](url)`.
 
 Figure information with the block delimited by `---` makes use of [yaml](https://yaml.org/spec/1.2.2/) syntax.
-So you may need to escape certain special characters, this comes up quite often in longer blocks of text,
-such as the alt text tag.
+Some characters (such as ':') have special meaining in YAML and using they may create unexpected results.
+This comes up quite often in longer blocks of text, such as the alt text tag.
 Using the syntax demonstrated above `alt: >` means you can have multi-line outputs and only need to 
 escape `|` and `>` like so: `\|` `\>` to get those literal characters in the final output.
 for more on multi-line strings in yaml see: [Demystifying YAML Multiline Strings: An In-Depth Guide](https://thelinuxcode.com/yaml-multiline-strings/) 
