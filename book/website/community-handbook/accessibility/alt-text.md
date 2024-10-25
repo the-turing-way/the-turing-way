@@ -39,7 +39,7 @@ Therefore, using Markdown syntax to include a figure in a Markdown file will wor
 Furthermore, this doesn't allow authors to resize figures in their chapters or cross-reference them somewhere else in the book.
 
 Therefore, our recommendation is to use [Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/) (MyST) format available in Jupyter Book.
-For more on the syntax consult the {ref}`Caption section of the style guide<ch-style-figures-caption>`
+For more on the syntax consult the {ref}`caption section of the style guide<ch-style-figures-caption>`.
 
 You can resize figures to adjust how they appear in our chapters using the parameters: `width` and `height` (takes value in px, for example, 400px) or `scale` (takes value in percentage, for example, 50%), especially if your original figure is large.
 Using the parameter: `name`, you can reference figures in other chapters in a similar manner as defined in {ref}`ch-style-crossref`.
