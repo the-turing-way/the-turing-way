@@ -46,7 +46,7 @@ Each day we will hold 3 development sessions and an one open slot where you can 
 * Intro to Book Dash slides: [http://doi.org/10.5281/zenodo.4263451](http://doi.org/10.5281/zenodo.4263451)
 * Predash drop-in calls: https://hackmd.io/@turingway/bookdash-nov2020-drop-in
 * Project repository on GitHub: https://github.com/alan-turing-institute/the-turing-way
-* Book is hosted online at: https://the-turing-way.netlify.com
+* Book is hosted online at: https://book.the-turing-way.org
 * Join Slack channel: an email will be sent to you
 * Join the [mailing list to receive newsletter](https://tinyletter.com/TuringWay)
 * Follow on Twitter: [@turingway](https://twitter.com/turingway)
@@ -72,7 +72,7 @@ The tl;dr version for easy reference during dashing:
 
 * Reviewers for your Book Dash application have suggested a few specific topics for each of you 
 * You can also collaborate with others or start slowly by checking out the list of [open issues](https://github.com/alan-turing-institute/the-turing-way/issues)
-* Proofread [existing chapters](https://the-turing-way.netlify.com) (check for typos, grammar, links, etc.)
+* Proofread [existing chapters](https://book.the-turing-way.org) (check for typos, grammar, links, etc.)
 * Add further information to an existing chapter
 * Suggest topics for new chapters (particularly if you can write them!)
     * A chapter can be minimum 3 paragraphs in length - what can you write 3 paragraphs on?

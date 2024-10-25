@@ -62,7 +62,7 @@ Laura is a human rights researcher who is one of the Ethics Guide collaborators:
 Malvika is the Community Manager of The Turing Way. She is based at The Alan Turing Institute in the United Kingdom and brings her extensive experience in open science and collaboration to a global community spanning 6 continents. 
 
 ### Do you have a link to whatever product, project, or innovation that you want to demo? We want to see it!
-The Turing Way: https://the-turing-way.netlify.app/welcome
+The Turing Way: https://book.the-turing-way.org/welcome
 
 ### My session will primarily be conducted in:
 _If you intend to host the session in more than one language, choose the language in which the majority of your speakers and/or facilitators will present._
