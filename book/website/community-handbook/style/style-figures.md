@@ -112,8 +112,6 @@ Using the syntax demonstrated above, `alt: >`, means you can have multi-line out
 escape `|` and `>` to get those literal characters in the final output.
 You escape a character by prepending it with a backslash for example, `\|` and `\>`.
 for more on multi-line strings in yaml see: [Demystifying YAML Multiline Strings: An In-Depth Guide](https://thelinuxcode.com/yaml-multiline-strings/).
-
-
 (ch-style-figures-cross-referencing)=
 ## Cross-Referencing Figures in Other Chapters
 
