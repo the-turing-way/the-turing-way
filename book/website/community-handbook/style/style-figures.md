@@ -109,7 +109,8 @@ Figure information with the block delimited by `---` makes use of [yaml](https:/
 Some characters (such as ':') have special meaining in YAML and using they may create unexpected results.
 This comes up quite often in longer blocks of text, such as the alt text tag.
 Using the syntax demonstrated above, `alt: >`, means you can have multi-line outputs and only need to 
-escape `|` and `>` like so: `\|` `\>` to get those literal characters in the final output.
+escape `|` and `>` to get those literal characters in the final output.
+You escape a character by prepending it with a backslash for example, `\|` and `\>`.
 for more on multi-line strings in yaml see: [Demystifying YAML Multiline Strings: An In-Depth Guide](https://thelinuxcode.com/yaml-multiline-strings/) 
 
 
