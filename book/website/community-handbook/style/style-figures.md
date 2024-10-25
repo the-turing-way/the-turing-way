@@ -73,7 +73,13 @@ The syntax for this image is as follows, and the way it appears in the book is b
 ---
 height: 400px
 name: first-pull-request
-alt: Cartoon-like sketch of two persons sitting across from each other working on their laptops. A straight arrow on the top indicates the main branch of the repository that they are working on, a pull request is shown by a branch coming out of the main arrow labelled as Clone, followed by a Pull Request with the changes that the first person made in the branch, and the final step labelled as Approved that indicates approval of the changes by the second person. This arrow then merges back to the main arrow/repository.
+alt: >
+  Cartoon-like sketch of two persons sitting across from each other working on their laptops.
+  A straight arrow on the top indicates the main branch of the repository that they are working on,
+  a pull request is shown by a branch coming out of the main arrow labelled as Clone,
+  followed by a Pull Request with the changes that the first person made in the branch,
+  and the final step labelled as Approved that indicates approval of the changes by the second person.
+  This arrow then merges back to the main arrow/repository.
 ---
 Making your first pull request on GitHub.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
@@ -84,7 +90,13 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 ---
 height: 400px
 name: first-pull-request
-alt: Cartoon-like sketch of two persons sitting across from each other working on their laptops. A straight arrow on the top indicates the main branch of the repository that they are working on, a pull request is shown by a branch coming out of the main arrow labelled as Clone, followed by a Pull Request with the changes that the first person made in the branch, and the final step labelled as Approved that indicates approval of the changes by the second person. This arrow then merges back to the main arrow/repository.
+alt: >
+  Cartoon-like sketch of two persons sitting across from each other working on their laptops.
+  A straight arrow on the top indicates the main branch of the repository that they are working on,
+  a pull request is shown by a branch coming out of the main arrow labelled as Clone,
+  followed by a Pull Request with the changes that the first person made in the branch,
+  and the final step labelled as Approved that indicates approval of the changes by the second person.
+  This arrow then merges back to the main arrow/repository.
 ---
 Making your first pull request on GitHub.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
@@ -92,6 +104,14 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 
 Please make sure that the link to the source is the {term}`digital object identifier <Digital Object Identifier>` not the Zenodo record.
 Also ensure that you have created a link to the source using markdown link formatting: `[text](url)`.
+
+Figure information with the block delimited by `---` makes use of [yaml](https://yaml.org/spec/1.2.2/) syntax.
+So you may need to escape certain special characters, this comes up quite often in longer blocks of text,
+such as the alt text tag.
+Using the syntax demonstrated above `alt: >` means you can have multi-line outputs and only need to 
+escape `|` and `>` like so: `\|` `\>` to get those literal characters in the final output.
+for more on multi-line strings in yaml see: [Demystifying YAML Multiline Strings: An In-Depth Guide](https://thelinuxcode.com/yaml-multiline-strings/) 
+
 
 (ch-style-figures-cross-referencing)=
 ## Cross-Referencing Figures in Other Chapters

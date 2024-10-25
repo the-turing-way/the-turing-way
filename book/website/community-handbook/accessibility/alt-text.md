@@ -39,6 +39,7 @@ Therefore, using Markdown syntax to include a figure in a Markdown file will wor
 Furthermore, this doesn't allow authors to resize figures in their chapters or cross-reference them somewhere else in the book.
 
 Therefore, our recommendation is to use [Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/) (MyST) format available in Jupyter Book.
+For more on the syntax consult the {ref}`Caption section of the style guide<ch-style-figures-caption>`
 
 You can resize figures to adjust how they appear in our chapters using the parameters: `width` and `height` (takes value in px, for example, 400px) or `scale` (takes value in percentage, for example, 50%), especially if your original figure is large.
 Using the parameter: `name`, you can reference figures in other chapters in a similar manner as defined in {ref}`ch-style-crossref`.
@@ -53,7 +54,9 @@ All the components of your figure (image file location, size, name, alt text and
 ---
 height: 500px
 name: file-collection
-alt: Cartoon-like sketch of a woman looking through a big file drawer, where documents are arranged systematically indicated by versions. She is smiling and waving at her colleague who is standing next to the file drawer and seems to be checking if everything is ok - gesturing a thumbs-up.
+alt: >
+  Cartoon-like sketch of a woman looking through a big file drawer, where documents are arranged systematically indicated by versions.
+  She is smiling and waving at her colleague who is standing next to the file drawer and seems to be checking if everything is ok - gesturing a thumbs-up.
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
@@ -65,7 +68,9 @@ When all these components are used correctly, a figure included in a file will b
 ---
 height: 500px
 name: file-collection
-alt: Cartoon-like sketch of a woman looking through a big file drawer, where documents are arranged systematically indicated by versions. She is smiling and waving at her colleague who is standing next to the file drawer and seems to be checking if everything is ok - gesturing a thumbs-up.
+alt: >
+  Cartoon-like sketch of a woman looking through a big file drawer, where documents are arranged systematically indicated by versions.
+  She is smiling and waving at her colleague who is standing next to the file drawer and seems to be checking if everything is ok - gesturing a thumbs-up.
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
@@ -75,7 +80,8 @@ When an image cannot be loaded in a browser or the link to the image breaks, alt
 ```{figure} ../../figures/alt-text-demo.*
 ---
 name: alt-text-demo
-alt: This example shows when a wrong image path is used, the web browser can't access it and hence does not display correctly.
+alt: >
+  This example shows when a wrong image path is used, the web browser can't access it and hence does not display correctly.
 ---
 ```
 
@@ -102,7 +108,13 @@ The syntax for this image is as follows, and the way it appears in the book is b
 ---
 height: 400px
 name: first-pull-request
-alt: Cartoon-like sketch of two persons sitting across from each other working on their laptops. A straight arrow on the top indicates the main branch of the repository that they are working on, a pull request is shown by a branch coming out of the main arrow labelled as Clone, followed by a Pull Request with the changes that the first person made in the branch, and the final step labelled as Approved that indicates approval of the changes by the second person. This arrow then merges back to the main arrow/repository.
+alt: >
+  Cartoon-like sketch of two persons sitting across from each other working on their laptops.
+  A straight arrow on the top indicates the main branch of the repository that they are working on,
+  a pull request is shown by a branch coming out of the main arrow labelled as Clone,
+  followed by a Pull Request with the changes that the first person made in the branch,
+  and the final step labelled as Approved that indicates approval of the changes by the second person.
+  This arrow then merges back to the main arrow/repository.
 ---
 Making your first pull request on GitHub.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
@@ -113,7 +125,13 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 ---
 height: 400px
 name: first-pull-request-demo
-alt: Cartoon-like sketch of two persons sitting across from each other working on their laptops. A straight arrow on the top indicates the main branch of the repository that they are working on, a pull request is shown by a branch coming out of the main arrow labelled as Clone, followed by a Pull Request with the changes that the first person made in the branch, and the final step labelled as Approved that indicates approval of the changes by the second person. This arrow then merges back to the main arrow/repository.
+alt: >
+  Cartoon-like sketch of two persons sitting across from each other working on their laptops.
+  A straight arrow on the top indicates the main branch of the repository that they are working on,
+  a pull request is shown by a branch coming out of the main arrow labelled as Clone,
+  followed by a Pull Request with the changes that the first person made in the branch,
+  and the final step labelled as Approved that indicates approval of the changes by the second person.
+  This arrow then merges back to the main arrow/repository.
 ---
 Making your first pull request on GitHub.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
