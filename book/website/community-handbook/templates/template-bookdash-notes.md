@@ -71,7 +71,7 @@ All time provided in London Time (UTC+1). Please use this link to convert in you
 * Project repository on GitHub: https://github.com/the-turing-way/the-turing-way
 * Book is hosted online at: https://book.the-turing-way.org
 * Join Slack channel: An email will be sent to you
-* Join the [mailing list to receive newsletter](https://tinyletter.com/TuringWay)
+* Join the [mailing list to receive newsletter](https://buttondown.com/turingway)
 * Follow on X: [@turingway](https://twitter.com/turingway)
 
 ### :busts_in_silhouette::speech_balloon: Planning your contributions: breakout (10 minutes)

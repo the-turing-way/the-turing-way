@@ -34,7 +34,7 @@ If you'd like to use this HackMD pad anonymously, that's totally fine! Just sign
 * Chat with us on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)!
   * The Turing Way team: <https://gitter.im/alan-turing-institute/the-turing-way>
   * The Binder team: <https://gitter.im/jupyterhub/binder>
-* Keep in touch and sign up to our newsletter: <https://tinyletter.com/TuringWay>
+* Keep in touch and sign up to our newsletter: <https://buttondown.com/turingway>
 
 ## Who's here
 
