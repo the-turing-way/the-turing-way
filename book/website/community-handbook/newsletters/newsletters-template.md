@@ -60,5 +60,5 @@ You are welcome to contribute content for the next newsletter by
 emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
 
 *Did you miss the last newsletters?*
-*Check them out [here](https://tinyletter.com/TuringWay/archive).*
+*Check them out [here](https://buttondown.com/turingway/archive).*
 ```
