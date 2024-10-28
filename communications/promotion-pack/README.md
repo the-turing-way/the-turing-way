@@ -20,7 +20,7 @@ Its moonshot goal is to make reproducible research 'too easy not to do'.*
 
 ## Important links:
 - GitHub: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
-- Newsletter: [https://tinyletter.com/TuringWay/](https://tinyletter.com/TuringWay/)
+- Newsletter: [https://buttondown.com/turingway/](https://buttondown.com/turingway/)
 - Twitter: [https://twitter.com/turingway](https://twitter.com/turingway)
 - Slack channel: [theturingway.slack.com](theturingway.slack.com)
 - Join Slack channel: [https://tinyurl.com/jointuringwayslack](https://tinyurl.com/jointuringwayslack)
