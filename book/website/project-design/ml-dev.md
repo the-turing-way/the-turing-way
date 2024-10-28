@@ -1,50 +1,32 @@
 (ml-dev)=
 # Machine Learning Project Design and Governance
 
-> Labels (above headers) should follow the cross-referencing conventions described in the [Style Guide](https://book.the-turing-way.org/community-handbook/style/style-crossref.html).
-> Modify them based on the Guide your chapter belongs to and the name you give the file.
-
 (ml-dev-prerequisites)=
 ## Prerequisites
 
-Structuring an ML project requires similar skills with any data-centric research project. So, we suggest taking a quick look at the all book contents and see if it can support you in the design and governance management process. We listed some key readings from this book:
+Structuring an ML project requires similar skills to any data-centric research. We recommend reviewing the following tips to support your design and management process.
 
 | Prerequisite | Importance | Skill Level | Notes |
 | -------------|----------|------|----|
 | {ref}`Chapter <chapter-label>` | Helpful/Necessary | Beginner/Intermediate/Advanced | Any useful notes the reader should know |
 
-
 (ml-dev-summary)=
 ## Summary
 
-> **Write a brief overview of the content of your chapter.**
-> Summaries should be concise, but also introduce all the sub-topics that your chapter will talk about.
-> When you mention a sub-topic, link to the subchapter where you expand on the topic.
-> See the Summary in the Open Research [chapter](https://book.the-turing-way.org/reproducible-research/open.html) for inspiration.
+As machine learning (ML) continues to drive innovations across industries, ensuring that projects are designed with reproducibility, scalability, and fairness is critical. Poorly structured pipelines can lead to unreliable models, while a lack of governance can result in biased outcomes and non-replicable results. This chapter aims to guide you through the essential aspects of ML project design and governance, focusing on building reproducible workflows, designing robust pipelines, and embedding fairness throughout the entire project lifecycle. To ensure that your ML projects are not only reliable but also transparent and equitable, this chapter focused on the following characteristics:
 
-> Optionally, you can add an image that captures the gist of your chapter.
-> For reference, you may reuse our images hosted on Zenodo [here](https://zenodo.org/record/3332808) and [here](https://zenodo.org/record/3695300).
-> You may also use this collection of [royalty free images](https://www.manypixels.co/gallery/) hosted on ManyPixels.
-> Recommendations for using figures in _The Turing Way_ can be found in the [Style Guide](https://book.the-turing-way.org/community-handbook/style/style-figures.html).
+- [ ] **Transparent and standardized recording:**  A critical aspect of reproducibility in machine learning projects is the transparent and standardized documentation of all steps in the process. This includes version control for overall processes (e.g. data selection, feature engineering, model training) and artefacts (e.g. datasets, model weights). Standardized recording formats for documentation can support cross disciplinary teams to review, reproduce, and audit at any time, improving both reliability and accountability.
+- [ ] **Open for interdisciplinary communication:** Machine learning projects often involve stakeholders from different fields such as data science, engineering, domain experts, and business leaders. Using an accessible language, defining roles clearly, and providing interpretable outputs that non-technical team members can understand is essential for fair project management. Interdisciplinary collaboration ensures that the ML system serves its intended purpose and addresses all necessary concerns, including ethical and operational considerations.
+- [ ] **Clear motivation to infuse AI into the system:** Before integrating machine learning into a system, it is crucial to clearly define the reasons for doing so. This includes understanding the problem that AI will solve, setting measurable goals, and assessing the potential impact of the model on users and stakeholders. A well-defined motivation helps align the project with business objectives and social responsibilities while also allowing for more targeted evaluation metrics, ensuring that the AI system adds real value while maintaining fairness and minimizing unintended harm.
+
+
+> **#TODO:**
+> Review this summary in the end.
+> Add related subchapters as link. 
+> Add an explanation image.
 
 (ml-dev-motivation)=
 ## Motivation and Background
 
-> **Explain why readers should pay attention to this chapter.**
-> For example, how can your chapter's content have a positive impact on your reader's data science project?
-> Think about the reader demographic that would be interested in your chapter and tailor this section appropriately.
-> Remember to cross-reference relevant subchapters using this directive: `{ref}Subchapter<ml-dev-subchaptername>`.
-
-<!-- IMPORTANT!
-
-- Use this template to create the landing page for your chapter
-
-BEFORE YOU GO
-
-- Have a look at the Style Guide and the Maintaining Consistency chapters to ensure that you have followed the relevant recommendations on
-  - Labels and cross referencing
-  - Using images
-  - Latin abbreviations
-  - References and citations
-
--->
+> **#TODO:**
+> Add background.
