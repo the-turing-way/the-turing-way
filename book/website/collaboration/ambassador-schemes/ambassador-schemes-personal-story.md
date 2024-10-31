@@ -9,7 +9,7 @@ This 5-year partnership is developing new data science methods to investigate la
 This personal story covers my experiences of establishing an Ambassador Scheme, which we named the [Turing-Roche Community Scholar Scheme](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership/community-scholars). 
 I co-led this scheme with my colleague and partnership lead Sarah McGough, Head of Technical Innovation & Shared Platforms, Computational Catalysts, gRED Computational Sciences at Roche, and with assistance from our partnership project manager, Maria Anagnostopoulou. 
 
-```{figure} ./figures/ambassador-program-roche.*
+```{figure} ../../figures/ambassador-program-roche.*
 ---
 height: 500px
 name: ambassador-program-roche
