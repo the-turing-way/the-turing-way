@@ -9,6 +9,15 @@ This 5-year partnership is developing new data science methods to investigate la
 This personal story covers my experiences of establishing an Ambassador Scheme, which we named the [Turing-Roche Community Scholar Scheme](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership/community-scholars). 
 I co-led this scheme with my colleague and partnership lead Sarah McGough, Head of Technical Innovation & Shared Platforms, Computational Catalysts, gRED Computational Sciences at Roche, and with assistance from our partnership project manager, Maria Anagnostopoulou. 
 
+```{figure} ./figures/ambassador-program-roche.*
+---
+height: 500px
+name: ambassador-program-roche
+alt: Scriberia illustration showing 10 students pictured in a circle who are the Turing-Roche Community Scholars. Around them in bubbles are their 9 projects represented- a book with risk of bias written on it, a book with a jigsaw piece, a data scientist and clinican shaking hands, a seminar series, a buzzer, a youtube logo, a podcast microphone logo, a technical seminar series and an image of a cell. Turing and Roche logo are in a love heart with an arrow through it and scholars are pictured talking to others with the love heart logo. They are also pictured chatting with each other in graduation gowns and caps and travelling round the globe on a plane.
+---
+Turing-Roche Community Scholar Scheme
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. Original version on Zenodo. [https://doi.org/10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807)
+```
 
 ## Motivations and Background
 
