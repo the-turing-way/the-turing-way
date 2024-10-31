@@ -1,7 +1,7 @@
 (cl-ambassador-schemes-personal-story)=  
 # Turing-Roche Community Scholar Scheme Personal Story
 
-```{figure} ../figures/ambassador-program-roche.*
+```{figure} ../figures/ambassador-program-roche*
 ---
 height: 500px
 name: ambassador-program-roche
