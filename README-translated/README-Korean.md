@@ -1,6 +1,11 @@
 <a href="https://book.the-turing-way.org/welcome.html"><img src="book/website/figures/logo/logo.jpg?raw=true)" width="180" align="Right" /></a>
 
 # _The Turing Way_
+[![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://book.the-turing-way.org)
+[![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://buttondown.com/turingway)
+[![Join the chat at https://gitter.im/the-turing-way/the-turing-way](https://img.shields.io/gitter/room/the-turing-way/the-turing-way?logo=gitter)](https://gitter.im/the-turing-way/the-turing-way)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)
+[![](https://img.shields.io/static/v1?label=TuringWay&message=I%20want%20to%20contribute!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md)
 
 >_이 README.md 파일은 네덜란드어(README-Dutch), 프랑스어(README-French.md), 독일어(README-German.md), 인도네시아어(README-Indonesian), 이탈리아어(README-Italian), 한국어(README-Korean), 포르투갈어(README-Portuguese), 스페인어(README-Spanish)로도 제공됩니다(알파벳 순으로 나열)._
 
@@ -77,6 +82,10 @@ _The Turing Way_는 개방형 협업 및 커뮤니티 주도 프로젝트입니�
 [프로모션 정보 팩](https://github.com/the-turing-way/the-turing-way/tree/main/communications/promotion-pack)는 _The Turing Way_ 네트워크 를 소개하고 공유하는 데 도움이 됩니다.
 
 ### _Turing Way_ 인용
+우리는 gitter 채팅방이 있으며  <https://gitter.im/the-turing-way/the-turing-way>에 들리는 것을 매우 반긴다. 
+저 채팅방은 [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org)의  [Matrix](https://matrix.org)와도 동기화 되어 있으며 당신이 원한다면 우리는 언제나 참여하는 것을 환영한다.
+우리는 우리의 프로젝트가 매달 업데이트 되는 사항들을 메일로 보내주는 서비스도 진행한다.
+<https://buttondown.com/turingway>을 구독하세요.
 
 우리는 DOI를 사용하여 프로젝트의 Zenodo 아카이브를 통해 _The Turing Way_의 최신 버전을 게시했습니다: [10.5281/zenodo.3233853](https://doi.org/10.5281/zenodo.3233853). 이 DOI는 "[개념 DOI](https://help.zenodo.org)"이며, 이는 항상 최신 버전으로 해결된다는 의미입니다.
 특정 버전을 인용해야 하는 경우 위의 Zenodo 페이지에서 해당 DOI를 찾을 수 있습니다.
