@@ -42,7 +42,7 @@ jobs:
           CROWDIN_ORGANIZATION: turingway
 
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v7
         with:
           title: Update Crowdin Contributors table
           body: By [action-crowdin-contributors](https://github.com/andrii-bodnar/action-crowdin-contributors) GitHub action
