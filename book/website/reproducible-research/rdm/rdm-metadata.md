@@ -18,9 +18,9 @@ Documentation allows data users have sufficient information to understand the so
 ```{figure} ../../figures/documentation.*
 ---
 name: documentation
-alt: The figure goes through a dark wood setting lights alongthe way. The lights are blocks of text - one can see that these are pieces of documentation. They make it easy for collegues to find their way. In the darkness one sees another figure - someon got lost in the woods where no documentation was available.
+alt: The figure goes through a dark wood setting lights along the way. The lights are blocks of text - one can see that these are pieces of documentation. They make it easy for collegues to find their way. In the darkness one sees another figure - someone got lost in the woods where no documentation was available.
 ---
-Illustration about peer review.
+Illustration showing the benefits of documentation.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
 ```
 
