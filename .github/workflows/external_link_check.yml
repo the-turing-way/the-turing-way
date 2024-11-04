@@ -34,7 +34,7 @@ jobs:
           restore-keys: cache-lychee- # restore latest cache (not a specific commit)
 
       - name: Check links
-        uses: lycheeverse/lychee-action@v1.8.0
+        uses: lycheeverse/lychee-action@v2.0.2
         with:
           args: --config './lychee.toml' --no-progress 'book/website/_build/html/**/*.html'
         env:

@@ -90,7 +90,7 @@ jobs:
         working-directory: ./book
 
       - name: Check offline links
-        uses: lycheeverse/lychee-action@v1.8.0
+        uses: lycheeverse/lychee-action@v2.0.2
         with:
           args: --config './lychee.toml' --no-progress --offline 'book/website/_build/html/**/*.html' 'book/website/_build/html/**/*.md'
           fail: true
