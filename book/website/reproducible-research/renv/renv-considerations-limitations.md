@@ -3,7 +3,7 @@
 This chapter has covered a number of different tools / technologies for describing, capturing and sharing computational environments.
 Two axes of comparison on which these methods differ are:
 
- - Verifiability (as defined in {cite}`<Hinsen2018>`) or the ability to inspect and understand how the environment was built
+ - Verifiability (as defined in {cite}`Hinsen2018`) or the ability to inspect and understand how the environment was built
  - Completeness how much of the environment is described and how exactly
 
 A virtual machine (VM) image is a highly complete way to capture a computational environment but in the absence of a description of how it was built it is not particularly verifiable.
