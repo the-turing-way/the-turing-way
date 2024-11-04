@@ -43,6 +43,6 @@ You may want to include the same sections you would include in a research articl
 (cm-dif-articles-micropublishing-review)=
 ## How do you review Micropublications?
 
-You can find general guidance on how to peer review a paper in our peer review chapter [here](https://the-turing-way.netlify.app/communication/peer-review.html). 
+You can find general guidance on how to peer review a paper in our peer review chapter [here](https://book.the-turing-way.org/communication/peer-review.html). 
 
 For micropublications you can review them in a similar manner to how you would review a research article.

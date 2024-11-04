@@ -55,7 +55,7 @@ Book Dash HackMD template
 ---
 * Intro to Book Dash slides: ```<link to intro slides>```
 * Project repositor on GitHub: https://github.com/alan-turing-institute/the-turing-way
-* Book is hosted online at: https://the-turing-way.netlify.com
+* Book is hosted online at: https://book.the-turing-way.org
 * Chat on [Gitter](https://gitter.im/alan-turing-institute/the-turing-way)
 * Join the [mailing list and receive newsletter](https://tinyletter.com/TuringWay)
 * Follow on Twitter: [turingway](https://twitter.com/turingway)
@@ -79,7 +79,7 @@ The tl;dr version for easy reference during dashing:
 
 **What types of contributions can you make?**
 * Check out the list of [open issues](https://github.com/alan-turing-institute/the-turing-way/issues)
-* Proofread [existing chapters](https://the-turing-way.netlify.com) (check for typos, grammar, links, etc.)
+* Proofread [existing chapters](https://book.the-turing-way.org) (check for typos, grammar, links, etc.)
 * Add further information to an existing chapter
 * Suggest topics for new chapters (particularly if you can write them!)
     * A chapter can be 3 paragraphs in length - what can you write 3 paragraphs on?

@@ -70,8 +70,8 @@ Therefore, responding to this question requires providing:
 
 1. Detail about the data and methodologies you will employ;
 2. Justification for the choice of data and methodologies;
-3. Reference to a data management plan -- consider the [Research Data Management chapter](https://the-turing-way.netlify.app/reproducible-research/rdm.html);
-4. Explanation as to how your chosen tools and methods allow for reproducible research -- consider the benefits listed in the [Added Advantages](https://the-turing-way.netlify.app/reproducible-research/overview/overview-benefit.html?highlight=method) subchapter.
+3. Reference to a data management plan -- consider the [Research Data Management chapter](https://book.the-turing-way.org/reproducible-research/rdm.html);
+4. Explanation as to how your chosen tools and methods allow for reproducible research -- consider the benefits listed in the [Added Advantages](https://book.the-turing-way.org/reproducible-research/overview/overview-benefit.html?highlight=method) subchapter.
 
 ## Consent
 >How will you ensure any personal data collected for your research is done so with freely-given informed consent?
@@ -84,7 +84,7 @@ In the General Data Protection Regulation (GDPR), for example, *consent* is defi
 
 **Responding to this question** entails reflection on how data are sourced -- where they come from and who they pertain to.
 Setting the legal discussions aside, this question requires following one of two approaches:
-1. If employing data that is readily available (perhaps online or provided by a third party), it is important we understand the terms and conditions whereby those data are made available. The point here is to confirm that the data will be used following the purpose for which they were collected. In this respect, a useful subchapter in *The Turing Way* is that of [Data Licenses](https://the-turing-way.netlify.app/reproducible-research/licensing/licensing-data.html?highlight=licen), which outlines different ways online data might be held.
+1. If employing data that is readily available (perhaps online or provided by a third party), it is important we understand the terms and conditions whereby those data are made available. The point here is to confirm that the data will be used following the purpose for which they were collected. In this respect, a useful subchapter in *The Turing Way* is that of [Data Licenses](https://book.the-turing-way.org/reproducible-research/licensing/licensing-data.html?highlight=licen), which outlines different ways online data might be held.
 2. If gathering new data through experiments with human research subjects, both participant information sheets (PISs) and consent forms must be issued.
 On the one hand, participant information sheets provide research participants with all the information they need to know about taking part in the study.
 On the other hand, consent forms summarise the participant information sheet and provide a section for the potential participant to record their acceptance of the conditions.
@@ -94,7 +94,7 @@ The UK Data Service offer templates of both documents [online](https://www.ukdat
 ## Privacy and Security
 >How will you ensure that any sensitive information your project uses is kept secure and made accessible only to pertinent members of the research team?
 
-**Justification.** Privacy is a fundamental human right (see this [chapter](https://the-turing-way.netlify.app/ethical-research/law-policy.html) for *The Turing Way* for more on human rights).
+**Justification.** Privacy is a fundamental human right (see this [chapter](https://book.the-turing-way.org/ethical-research/law-policy.html) for *The Turing Way* for more on human rights).
 
 Therefore, it is critical that projects be conducted in a way that respects privacy.
 
@@ -112,13 +112,13 @@ Ultimately, this is a broad question that requires that we:
 
 1. Describe any privacy concerns and share institutional processes followed in this regard (for example, a data protection impact assessment);
 2. Explain what standards will be used if any anonymisation is conducted;
-3. Explain how data will be stored and kept secure (this can be drawn from your [data management plan](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html))
+3. Explain how data will be stored and kept secure (this can be drawn from your [data management plan](https://book.the-turing-way.org/reproducible-research/rdm/rdm-dmp.html))
 4. Consider asking if your institution provides a secure IT environment (an example of this is the Alan Turing Institute's [Data Safe Haven](https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud))
 
 ## Further Societal Consequences
 >Please describe both positive and negative potential societal consequences of your work.
 
-**Justification.** This question relates with the six dimensions of research ethics provided in [*Guide for Ethical Research*](https://the-turing-way.netlify.app/ethical-research/ethics-intro.html).
+**Justification.** This question relates with the six dimensions of research ethics provided in [*Guide for Ethical Research*](https://book.the-turing-way.org/ethical-research/ethics-intro.html).
 The question acknowledges that research is not conducted in a vacuum but in a social world it can deeply impact.
 To this effect, the question should be treated in the broadest sense by considering the impact on the researchers involved, the natural environment, society at large and scientific communities in particular.
 
@@ -134,7 +134,7 @@ It is not sufficient, in other words, to describe what might go wrong -- it is n
 There are two further considerations worth making when responding to this question.
 On the one hand, how will the project benefit fellow scientists?
 This question, in turn, can be met by two courses of action.
-Firstly, consider how your work will be made openly accessible by following the [FAIR principles](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-fair.html?highlight=research%20cycle).
+Firstly, consider how your work will be made openly accessible by following the [FAIR principles](https://book.the-turing-way.org/reproducible-research/rdm/rdm-fair.html?highlight=research%20cycle).
 Secondly, describe how your work might be used for *further* responsible research and innovation.
 
 On the other hand, it is worth recapitulating the points made in section one.
@@ -146,6 +146,6 @@ The point here is to show that ethical reflection is embedded in your project.
 Focusing on how to respond to each broad question, we can summarise the advice provided as follows:
 1. Be detailed in your responses -- the more the REC knows, the easier it is for them to consider a project's ethical implications.
 2. Use other documents about your project to provide information to RECs. Although documentation may need updating, using other relevant documents can make this process more straightforward. Such documents might be grant proposals, data management plans, data protection impact assessments...
-3. Find ethical resources that are relevant to your project. Scientific projects can be diverse in object of study. Numerous ethics frameworks have been made available over the years. A well-established framework in data science is that of the [five safes](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/access-control/five-safes), for example. A comprehensive resource for the governance of articifial intelligence is [*Understanding artificial intelligence ethics and safety*](https://www.turing.ac.uk/sites/default/files/2019-08/understanding_artificial_intelligence_ethics_and_safety.pdf). A much more specific framework has been developed for the wellbeing of researchers exposed to abusive online content: [*Guidelines for researchers working with abusive content*](https://github.com/bvidgen/Challenges-and-frontiers-in-abusive-content-detection/blob/master/Challenges%20and%20frontiers%20in%20abusive%20content%20detection%20Appendix%20-%20researcher%20guidelines.pdf)
+3. Find ethical resources that are relevant to your project. Scientific projects can be diverse in object of study. Numerous ethics frameworks have been made available over the years. A well-established framework in data science is that of the [five safes](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/access-control/five-safes), for example. A comprehensive resource for the governance of artificial intelligence is [*Understanding artificial intelligence ethics and safety*](https://www.turing.ac.uk/sites/default/files/2019-08/understanding_artificial_intelligence_ethics_and_safety.pdf). A much more specific framework has been developed for the wellbeing of researchers exposed to abusive online content: [*Guidelines for researchers working with abusive content*](https://github.com/bvidgen/Challenges-and-frontiers-in-abusive-content-detection/blob/master/Challenges%20and%20frontiers%20in%20abusive%20content%20detection%20Appendix%20-%20researcher%20guidelines.pdf)
 
 ***Chapter Tags**: This chapter is curated for the `Turing Data Study Group` (`turing-dsg`).*

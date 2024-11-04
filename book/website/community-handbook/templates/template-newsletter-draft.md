@@ -44,7 +44,7 @@ Find more details on these topics below 👇
 ## Connect with us!
 
 - [About the project](https://www.turing.ac.uk/research/research-projects/turing-way-handbook-reproducible-data-science)
-- [_The Turing Way_ book](https://the-turing-way.netlify.com)
+- [_The Turing Way_ book](https://book.the-turing-way.org)
 - [GitHub repository](https://github.com/the-turing-way/the-turing-way)
 - [Slack channel](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw)
 - [Public Gitter channel](https://gitter.im/the-turing-way/the-turing-way)
@@ -55,5 +55,5 @@ You are welcome to contribute content for the next newsletter by
 emailing [Malvika Sharan](mailto:msharan@turing.ac.uk).
 
 *Did you miss the last newsletters?*
-*Check them out [here](https://tinyletter.com/TuringWay/archive).*
+*Check them out [here](https://buttondown.com/turingway/archive).*
 ```

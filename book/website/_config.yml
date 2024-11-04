@@ -22,7 +22,6 @@ execute:
 #######################################################################################
 # HTML-specific settings
 html:
-  announcement              : "⚠️<i>The Turing Way</i> is moving domain! We will soon move to <a href='https://book.the-turing-way.org'>book.the-turing-way.org</a>. You can use new domain now! Later, the old domain will redirect you to the new location."
   favicon                   : "./figures/logo/favicon-32x32.png"  # A path to a favicon image
   navbar_number_sections    : False  # Add a number to each section in your left navbar
   google_analytics_id       : "UA-167881009-1"  # A GA id that can be used to track book views.
@@ -30,7 +29,7 @@ html:
   use_repository_button     : true  # Whether to add an "Repository" button to pages. If `true`, repository information in repository: must be filled in
   use_issues_button         : true # Whether to add an "Open issue" button to pages. If `true`, repository information in repository: must be filled in
   use_edit_page_button      : true  # Whether to add an "Suggest edit" button to pages. If `true`, repository information in repository: must be filled in
-  baseurl                   : "https://the-turing-way.netlify.com"  # The base URL where your book will be hosted. Used for creating image previews and social links. for example: https://mypage.com/mybook/
+  baseurl                   : "https://book.the-turing-way.org"  # The base URL where your book will be hosted. Used for creating image previews and social links. for example: https://mypage.com/mybook/
   extra_navbar              : Visit our <a href="https://github.com/the-turing-way/the-turing-way">GitHub Repository</a>
     <div>This book is powered by <a href="https://jupyterbook.org">Jupyter Book</a></div>
   extra_footer: |
@@ -54,11 +53,10 @@ repository:
 #######################################################################################
 # Advanced and power-user settings
 sphinx:
-  extra_extensions          : 
+  extra_extensions          :
       - 'sphinx_panels'
   config                    :  # key-value pairs to directly over-ride the Sphinx configuration
     language                : en
-    html_js_files: [ ['https://plausible.io/js/script.js', {'defer': 'defer', 'data-domain': 'the-turing-way.netlify.app'}] ]
     html_show_copyright     : false
     suppress_warnings       :
         - 'app.add_node'

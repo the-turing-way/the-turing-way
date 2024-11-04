@@ -44,7 +44,7 @@ Project Binder provides a user with the following infrastructure:
 
 - some hardware to execute code, usually a server hosted in the cloud but can be on-premise hardware too;
 - a computational environment containing:
-  - the approriate software,
+  - the appropriate software,
   - any extra package dependencies,
   - any required input data,
   - and a copy of the code itself (Notebooks or scripts);
