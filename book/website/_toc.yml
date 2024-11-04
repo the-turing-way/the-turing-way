@@ -172,7 +172,7 @@ chapters:
           - title: Resources and Checklist
             file: reproducible-research/renv/renv-resources
           - title: Considerations for choosing and limitations of reproducible environment tools
-            file: file: reproducible-research/renv/considerations-limitations
+            file: reproducible-research/renv/considerations-limitations
       - title: BinderHub
         file: reproducible-research/binderhub
         sections:
