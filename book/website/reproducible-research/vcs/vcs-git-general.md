@@ -39,8 +39,8 @@ Several software allows to use Git without using the command line, locally.
 Here is a non-exhaustive list of software one can also use, please refer to their own documentation:
 
 - [RStudio](https://posit.co/products/open-source/rstudio/)
-- Sourcetree
-- Gitkracken
+- [Sourcetree](https://www.sourcetreeapp.com/)
+- [Gitkracken](https://www.gitkraken.com/)
 - [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code)
 
 
