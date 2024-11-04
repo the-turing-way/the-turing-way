@@ -20,10 +20,10 @@ The deployment of these translated versions is work in progress, and some parts 
   - The main room is dedicated to working on milestones for the localisation work.
   - Tasks are prepared in advance (in Crowdin Kanban) to support new members.
 ### Community Meeting
-- **Frequency**: This is integrated into the TTW Collaboration Café. 
+- **Frequency**: This is integrated into the _The Turing Way_ Collaboration Café. 
 - **Chair**: Selected from leads
 - **Membership**: Open to anyone interested in localisation.
-- **Objectives**: A forum to discuss deliverables/outputs (e.g. toolkits, glossary, blog post, ...etc), consult the community, and seek feedback.
+- **Objectives**: A forum to discuss deliverables/outputs (for example: toolkits, glossary, blog posts), consult the community, and seek feedback.
 ### Localisaton Lead Team Meeting
 - **Frequency**: Bi-monthly
 - **Membership**: Exclusive to localisation leads.
