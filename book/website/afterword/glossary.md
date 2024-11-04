@@ -206,7 +206,7 @@ Ethical Source Software
 FAIR
   Findable, Accessible, Interoperable and Reusable.
 
-Fair-code
+Fair Code
   A software licensing model where code is commercially restricted by it's authors but the source code is generally available and can be freely distributed and modified but with limits on how and if it can be used commercially.
   The model is described at [faircode.io](https://web.archive.org/web/20240621082333/https://faircode.io/), examples include the [Business Source License](https://web.archive.org/web/20240608005051/https://mariadb.com/bsl11/) and the [Elastic License 2.0](https://web.archive.org/web/20240625130857/https://www.elastic.co/licensing/elastic-license).
   A number of attempts have been made to make licenses with a similar intent, this space is somewhat controversial the free software movements prefered mech
@@ -219,7 +219,7 @@ Federated Learning
 First author
   The most prominent position in academic authorship. It conveys this person's position as the researcher who has made the greatest contribution to the research.
 
-Free / Libre Software
+Free or Libre Software
   The [Free Software Foundation (FSF)](https://web.archive.org/web/20240619064659/https://www.gnu.org/philosophy/free-sw.html) states that: "'Free software' means software that respects users' freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software.", refer to their website for a lengthier definition, see also the [Debian Free Software Guidelines](https://web.archive.org/web/20240517221908/https://wiki.debian.org/DebianFreeSoftwareGuidelines).
   Free software does not have to be monetarily free (gratis) you can buy and sell copies.
   Its chief concern is liberty not price, hence the use of 'libre software' as the word free in english does not distinguish these concepts.
@@ -228,7 +228,7 @@ Free / Libre Software
 Free Cultural Works
   A list of conditions under which a work must be shared in order to be considered 'free' meaning that anyone is free to use, modify and distribute the work including derived works for any purpose.
   For a full description see: [freedomdefined.org](https://web.archive.org/web/20240630025334/https://freedomdefined.org/Definition)
-  This is a generalisation of the 'four freedoms' originally developed to define {term}`free software<Free / Libre Software>`
+  This is a generalisation of the 'four freedoms' originally developed to define {term}`free software<Free or Libre Software>`
 ```
 
 ---
@@ -436,9 +436,9 @@ Open Source
   The term can also extend to an {term}`open project<Open Project>` philosophy of collaboration beyond the mere availability and open licensing of the project's source materials.
   The term tends to, but need not, be applied in contexts where there is some 'source' material that is processed or synthesised into an output.
   For example an image created with a simple bitmap editor might be reffered to as 'open source' despite lacking something that can be considered a 'source'.
-  In such cases the notion of a '{term}`creative commons<Creative Commons>`' or '{term}`free cultural work<Free Cultural Work>`' may better apply as these do not as obviously emphasise the availability source materials but rather end products, 
+  In such cases the notion of a '{term}`creative commons<Creative Commons>`' or '{term}`free cultural work<Free Cultural Works>`' may better apply as these do not as obviously emphasise the availability source materials but rather end products, 
   though they may include source materials.
-  There are also a number adjacent concepts which most often question the conventional open source prohibtion on restricting the uses to which open source things can be put, examples include: '{term}`ethical source<Ethical Source>`' '{term}`fair code<Fair Code>`'.
+  There are also a number adjacent concepts which most often question the conventional open source prohibtion on restricting the uses to which open source things can be put, examples include: '{term}`ethical source<Ethical Source Software>`' '{term}`Fair Code<[Fair](Fair) Code>`'.
 
 Open Source Hardware
   Hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design. 
@@ -451,7 +451,7 @@ Open Source Software
 
   Open source software should not be confused with {term}`source available<Source Available>` software it is not sufficient for the source code to be made available for a project to be considered open source.
 
-  Almost all open source software is also {ref}`Free / Libre Software<Free / Libre Software>`.
+  Almost all open source software is also {ref}`Free / Libre Software<Free or Libre Software>`.
   For more details see: {ref}`Licensing<rr-licensing>` and {ref}`Open Source Software<rr-open-source>`.
 
 Open Scholarship
@@ -638,7 +638,7 @@ Smoke Testing
 Source Available
   Where the source code of a piece of software is made available but not under the terms of an {term}`open license<Open License>`, you may have to pay to access the source code and agree to terms which prohibit its redistribution, or the code may be generally available and only prohibit commercial redistribution.
   Source available code is proprietary but not closed source.
-  Whilst Generaly used in the context of software it can apply in other contexts such as {term}`open hardware<Open Hardware>`.
+  Whilst Generaly used in the context of software it can apply in other contexts such as {term}`open hardware<Open Source Hardware>`.
 
 Staged
   Staging the changes that will be included in the next git commit.
