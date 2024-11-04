@@ -23,7 +23,7 @@ Their design came out of pragmatic considerations of capturing working computati
 This is changing, increasingly provenance, software manifests or 'bills of materials', and 'supply chain' are becoming a concern of industry.
 This is for reasons of security and compliance with new cybersecurity regulations, so more moneyed interest is now being focused on these problems.
 
-The file specifying how the container or VM image is built e.g. a Dockerfile helps us to some degree as this is a record of the steps taken to build an image of an environment.
+The file specifying how the container or VM image is built for example a Dockerfile helps us to some degree as this is a record of the steps taken to build an image of an environment.
 However these methods can fall short in the completeness with which they capture these steps.
 
 A common example is starting a Dockerfile with `FROM ubuntu:latest`, depending on when you ran this you may get a different output.
