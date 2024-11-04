@@ -16,7 +16,7 @@ height: 500px
 name: linting-no
 alt: A lint roller cleaning up code, symbolizing the transformation of messy, disorganised information into a clean and readable format.
 ---
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.13882307](https://doi.org/10.5281/zenodo.13882307).
 ```
 
 ## Overview
