@@ -10,7 +10,7 @@ A virtual machine (VM) image is a highly complete way to capture a computational
 Closed source software also inherently lacks verifiability.
 Many package management tools for programming languages lack completeness, they cannot capture the system dependencies that using a container or VM can facilitate.
 
-What are our options for describing a complete and verifiable compute environments, ideally without needing to master a number of different different complex tools in order to do so?
+What are our options for describing a complete and verifiable compute environments, ideally without needing to attain mastery of a number of different different complex tools in order to do so?
 
 ## Verifiability
 
