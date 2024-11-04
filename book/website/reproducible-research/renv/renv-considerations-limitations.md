@@ -16,7 +16,7 @@ What are our options for describing a complete and verifiable compute environmen
 
 ### Reproducing the images themselves
 
-A container or virtual machine VM image once built given the same inputs will very likely give the same outputs but they are something of black box.
+A container or virtual machine (VM) image once built given the same inputs will very likely give the same outputs but they are something of black box.
 Whilst they can be inspected and details of how they were built inferred this is not always easy, and not really a feature around which these technologies were designed.
 Their design came out of pragmatic considerations of capturing working computational environments to use in deployed software to keep things working in ever growing production environments.
 
