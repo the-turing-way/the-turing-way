@@ -64,7 +64,10 @@ In short:
 ---
 name: tidy-1
 alt: >
-Three images depicting visual representations of the descriptions mentioned previously. In the first image on the left, variables are demonstrated with double headed arrows going up and down the columns. In the middle image, double headed arrows go along rows, demonstrating observations. In the right hand image, black circles over each cell demonstrate values.
+  Three images depicting visual representations of the descriptions mentioned previously.
+  In the first image on the left, variables are demonstrated with double headed arrows going up and down the columns.
+  In the middle image, double headed arrows go along rows, demonstrating observations.
+  In the right hand image, black circles over each cell demonstrate values.
 ---
 An illustration of tidy data.
 ```
