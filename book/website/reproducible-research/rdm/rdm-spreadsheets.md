@@ -63,7 +63,8 @@ In short:
 ```{figure} ../../figures/tidy-1.*
 ---
 name: tidy-1
-alt: The image depicts tidy data. One column represents a variable, one row represents a sample, and one cell represents a piece of information.
+alt: >
+Three images depicting visual representations of the descriptions mentioned previously. In the first image on the left, variables are demonstrated with double headed arrows going up and down the columns. In the middle image, double headed arrows go along rows, demonstrating observations. In the right hand image, black circles over each cell demonstrate values.
 ---
 An illustration of tidy data.
 ```
