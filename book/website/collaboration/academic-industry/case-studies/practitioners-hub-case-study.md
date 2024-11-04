@@ -1,7 +1,7 @@
 (cl-practitioners-hub-case-study)=
 # Case Study: _The Turing Way_ Practitioners Hub 
 
-```{figure} ../../figures/practitioners-hub-experts.*
+```{figure} ../../../figures/practitioners-hub-experts.*
 ---
 height: 500px
 name: practitioners-hub-experts
