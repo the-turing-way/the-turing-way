@@ -120,11 +120,9 @@ The citation should look something like:
 
 > _The Turing Way_ Community. (2022). _The Turing Way_: A handbook for reproducible, ethical and collaborative research. Zenodo. doi: 10.5281/zenodo.3233853. 
 
-Please visit the [DOI link](https://doi.org/10.5281/zenodo.3233853) though to get the most recent version - the one above is not automatically generated and may be out of date.
-DOIs allow us to archive the repository and are useful for tracking the work in academic publications.
+To join this community, please read our [contribution guidelines](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) with ways to [get in touch](https://github.com/the-turing-way/the-turing-way#get-in-touch).
+All contributions must abide by our [code of conduct](https://github.com/the-turing-way/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
+More information about the community, participation process and project management is available in the {ref}`ch`.
 
-You can also share the human-readable URL to a page in the book, for example, {ref}`https://the-turing-way.netlify.app/reproducible-research/overview/overview-definitions.html <rr-overview-definitions>`, but be aware that the project is under development and these links may change over time.
-You might want to include a [web archive link](http://web.archive.org), such as: [https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html](https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html), to make sure that you do not end up with broken links everywhere!
+We look forward to expanding and building _The Turing Way_ together.
 
-We really appreciate any references that you make to _The Turing Way_ project in your work, and we hope it is useful.
-If you have any questions, please [get in touch](https://github.com/the-turing-way/the-turing-way#get-in-touch).

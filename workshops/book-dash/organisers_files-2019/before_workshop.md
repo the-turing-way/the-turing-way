@@ -9,7 +9,7 @@ We have a couple of things for you to look at before the workshop and some more 
 
 We will ask you to contribute to the [Turing Way GitHub repository](https://github.com/alan-turing-institute/the-turing-way).
 Please sign up for a GitHub account if you don't already have one: https://github.com/join
-If you're not familiar with contributing to GitHub projects, we recommend you read our chapter on [Collaborating on GitHub](https://the-turing-way.netlify.com/collaborating_github/collaborating_github.html).
+If you're not familiar with contributing to GitHub projects, we recommend you read our chapter on [Collaborating on GitHub](https://book.the-turing-way.org/collaborating_github/collaborating_github.html).
 Our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) are also a good thing to read, but we will go through the main points again on the book dash day.
 We hope you already have an idea of what you would like to contribute, but if you are still looking for inspiration, our [list of good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) will hopefully provide some inspiration. 
 Also, a reminder that everyone who participates in the Turing Way project is expected to abide by our [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md) - please familiarise yourself with its contents but we will also emphasise the main points again on the book dash day.
@@ -78,7 +78,7 @@ We have a couple of things for you to look at before the workshop and some more 
 
 We will ask you to contribute to the [Turing Way GitHub repository](https://github.com/alan-turing-institute/the-turing-way).
 Please sign up for a GitHub account if you don't already have one: https://github.com/join
-If you're not familiar with contributing to GitHub projects, we recommend you read our chapter on [Collaborating on GitHub](https://the-turing-way.netlify.com/collaborating_github/collaborating_github.html).
+If you're not familiar with contributing to GitHub projects, we recommend you read our chapter on [Collaborating on GitHub](https://book.the-turing-way.org/collaborating_github/collaborating_github.html).
 Our [contributing guidelines](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) are also a good thing to read, but we will go through the main points again on the book dash day.
 We hope you already have an idea of what you would like to contribute, but if you are still looking for inspiration, our [list of good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) will hopefully provide some inspiration. 
 Also, a reminder that everyone who participates in the Turing Way project is expected to abide by our [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md) - please familiarise yourself with its contents but we will also emphasise the main points again on the book dash day.

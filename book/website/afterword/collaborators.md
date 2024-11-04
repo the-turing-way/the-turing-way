@@ -16,7 +16,7 @@ In ensuring that this knowledge can be shared effectively with the wider society
 In this effort, the contributions from the Faculty of Applied Sciences have mainly focused on the Reproducible Research Chapter of _The Turing Way_.
 
 ### Representative
-- [Esther Plomp](https://the-turing-way.netlify.app/afterword/contributors-record#esther-plomp), Data Steward, Delft University of Technology, Faculty of Applied Sciences, Netherlands.
+- [Esther Plomp](https://book.the-turing-way.org/afterword/contributors-record#esther-plomp), Data Steward, Delft University of Technology, Faculty of Applied Sciences, Netherlands.
 
 (collaborators-escience)=
 ## [Netherlands eScience Center](https://www.esciencecenter.nl/)
@@ -26,7 +26,7 @@ The Netherlands eScience Center is the Dutch national hub for the development an
 The Netherlands eScience Center maintains [its own guide](https://guide.esciencecenter.nl/) for reproducible software development. The focus of the eScience Centre guide has a big overlap with _The Turing Way_ and therefore it makes sense to avoid duplicating efforts. The eScience centre contributes to _The Turing Way_ in the areas which are relevant to the eScience guide. The eScience guide points to _The Turing Way_ in which information would otherwise be duplicated.
 
 ### Representative
-- [Carlos Martinez-Ortiz](https://the-turing-way.netlify.app/afterword/contributors-record#carlos-martinez-oritz), Community Manager - Software Sustainability, Netherlands eScience Center
+- [Carlos Martinez-Ortiz](https://book.the-turing-way.org/afterword/contributors-record#carlos-martinez-oritz), Community Manager - Software Sustainability, Netherlands eScience Center
 
 (collaborators-ols)=
 ## [OLS (previously Open Life Science)](https://openlifesci.org/)
@@ -38,7 +38,7 @@ They develop Open Science aspects in the projects that they either already have 
 OLS community members have been collaborating with *The Turing Way* since 2020.
 
 ### Representative
-- [Malvika Sharan](https://the-turing-way.netlify.app/afterword/contributors-record#malvika-sharan), Co-Director, OLS
+- [Malvika Sharan](https://book.the-turing-way.org/afterword/contributors-record#malvika-sharan), Co-Director, OLS
 
 (collaborators-scilifelab)=
 ### [SciLifeLab Data Centre](https://www.scilifelab.se/)
@@ -48,7 +48,7 @@ The SciLifeLab Data Centre serves as a core division within SciLifeLab, tasked w
 We are committed to ensuring that research outputs such as data and software are Findable, Accessible, Interoperable, and Reusable (FAIR), adhering to open science principles and best practices, and optimizing the value of these outputs for the scientific community.
 
 ### Representative
-- [Christopher Erdmann](https://the-turing-way.netlify.app/afterword/contributors-record#christopher-erdmann), Head of Open Science, SciLifeLab Data Centre
+- [Christopher Erdmann](https://book.the-turing-way.org/afterword/contributors-record#christopher-erdmann), Head of Open Science, SciLifeLab Data Centre
 
 (collaborators-eds)=
 ## [Environmental Data Science Book](https://edsbook.org/welcome.html)
@@ -56,7 +56,7 @@ We are committed to ensuring that research outputs such as data and software are
 Environmental Data Science book or EDS book is a living, open and community-driven online resource to showcase and support the publication of data, research and open-source tools for collaborative, reproducible and transparent Environmental Data Science.
 
 ### Representative
-- [Alejandro Coca-Castro](https://the-turing-way.netlify.app/afterword/contributors-record#alejandro-coca), Research Fellow, Environment and Sustainability Grand Challenge Research Programme, The Alan Turing Institute
+- [Alejandro Coca-Castro](https://book.the-turing-way.org/afterword/contributors-record#alejandro-coca), Research Fellow, Environment and Sustainability Grand Challenge Research Programme, The Alan Turing Institute
 
 (collaborators-faircookbook)=
 ## [FAIR Cookbook](https://fairplus.github.io/the-fair-cookbook/content/home.html)
@@ -66,8 +66,8 @@ FAIRPlus Cookbook builds on _The Turing Way_ project and community models and pr
 
 _The Turing Way_ team members and [project's editorial board members](https://fairplus.github.io/the-fair-cookbook/content/recipes/boilerplate/people.html), Susanna-Assunta Sansone and Philippe Rocca-Serra, collaborate to ensure interoperability between the two resources and exchange experiences as open source project developers.
 FAIR Cookbook [features relevant chapters from _The Turing Way_](https://fairplus.github.io/the-fair-cookbook/search.html?q=turing+way).
-Similarly, _The Turing Way_ features the project and provides an impact story titled [From FAIR Co-Author to FAIR Doer](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-stories.html) by Susanna-Assunta Sansone (a co-lead of the FAIR Cookbook project).
+Similarly, _The Turing Way_ features the project and provides an impact story titled [From FAIR Co-Author to FAIR Doer](https://book.the-turing-way.org/reproducible-research/rdm/rdm-stories.html) by Susanna-Assunta Sansone (a co-lead of the FAIR Cookbook project).
 You can find more details and background in the chapter [Leveraging the Turing Way Book](https://fairplus.github.io/the-fair-cookbook/content/recipes/introduction/the-turing-way.html?highlight=turing).
 
 ### Representative
-- [Susanna-Assunta Sansone](https://the-turing-way.netlify.app/afterword/contributors-record#susanna-assunta-sansone), University of Oxford, Academic Lead for Research Practice; Professor of Data Readiness
+- [Susanna-Assunta Sansone](https://book.the-turing-way.org/afterword/contributors-record#susanna-assunta-sansone), University of Oxford, Academic Lead for Research Practice; Professor of Data Readiness

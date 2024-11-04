@@ -25,6 +25,8 @@ See also [FORCE11 resource](https://www.force11.org/node/4771).
 ## Citing Data
 When sharing a dataset, use the assigned DOI (from the data repository) and add this to your data availability statement at the end of the paper (similar to the acknowledgement section). 
 It is important to also cite your dataset in the references themselves, as only the citations in the reference section will contribute to citation counts.
+Data citation is important because it facilitates access, transparency and potentially reproducibility, reuse, and credit for researchers. 
+It also provides recognition and visibility for the repositories that share data.
 
 You can find examples of these statements in the publishers' (research data) author policies.
 
@@ -45,15 +47,26 @@ You can find examples of these statements in the publishers' (research data) aut
 -  “The data that support the findings of this study are available upon request.
 Access conditions and procedures can be found at [URL to restricted access repository such as [EASY](https://easy.dans.knaw.nl/ui/home).]”
 
+**When code is shared:**
+- Data and code to reproduce the results shown in the paper can be obtained from The Turing Way (2023) at Zenodo ([https://zenodo.org/doi/10.5281/zenodo.3233853](https://zenodo.org/doi/10.5281/zenodo.3233853)) and GitHub ([https://github.com/the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)). We used R version 4.2.2 (*use citation() to check the suggested citation*) and the following R packages: ggplot2 ([Wickham 2016](https://cran.r-project.org/web/packages/ggplot2/citation.html)), another example (*and citation added to the references!*). 
+
 **More Data Availability Statement examples:**
 
 You can find more examples on the [Manchester's Data Access Statements page](https://www.library.manchester.ac.uk/using-the-library/staff/research/research-data-management/sharing/data-access-statements/), the [Cambridge Data Availability Statement examples](https://www.cambridge.org/core/services/authors/open-data/data-availability-statements), the [AMS Data Availability Statement examples](https://www.ametsoc.org/index.cfm/ams/publications/author-information/formatting-and-manuscript-components/data-availability-statement-examples/), or [Nature's Tips for writing a dazzling Data Availability Statement](https://researchdata.springernature.com/posts/tips-for-writing-a-dazzling-das-data-availability-statement).
+
+(cm-citable-cite-samples)=
+## Citing Physical Samples
+
+When sharing results related to physical samples, ideally a persistent identifier is assigned to track the samples and their associated data. 
+As with [data citation](cm-citable-cite-data), you include a citation in the references and a more detailed explanation in the data availability statement. 
+To learn more about how to cite physical samples and to check out examples, see the [Scientific Author Guide for Publishing Open Research Using Physical Samples](https://doi.org/10.6084/m9.figshare.24669057.v1) by {cite:ps}`Damerow2024physical`.
 
 (cm-citable-cite-software)=
 ## Citing Software
 
 A software citation has a lot of the same elements as a data citation, described above, and are described in more detail in the [Software Citation Principles](https://www.force11.org/software-citation-principles).
 When using others software, it is vital to cite and attribute it properly.
+See also [How to Cite R and R Packages](https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/) for more information.
 
 ::::{tab-set}
 :::{tab-item} GitHub
@@ -62,7 +75,15 @@ To make your code citable, you can use the integration between [Zenodo](https://
 
 - Create a file to tell people how to cite your software. Use this [handy guide](https://citation-file-format.github.io/cff-initializer-javascript/) to format the file.
 - Link your GitHub account with a Zenodo account. This guide explains [how](https://guides.github.com/activities/citable-code/).
-- You can tell Zenodo what information or metadata you want to include with your software by adding a `zenodo.json` file, described [here](https://guide.esciencecenter.nl/#/citable_software/making_software_citable).
+- You can tell Zenodo what information or metadata you want to include with your software by converting your `CITATION.cff` file to `zenodo.json`.
+
+    ```bash
+    pip install cffconvert
+    cffconvert --validate
+    cffconvert --format zenodo --outfile .zenodo.json
+    ```
+
+- Add `.zenodo.json` to your repository.
 - On Zenodo, flip the switch to the 'on' position for the GitHub repository you want to release.
 - On GitHub, click the *Create a new release* button.
 Zenodo should automatically be notified and should make a snapshot copy of the current state of your repository (just one branch, without any history), and should also assign a persistent identifier (DOI) to that snapshot.
@@ -77,7 +98,7 @@ Zenodo should automatically be notified and should make a snapshot copy of the c
 To make your code citable, through an automated publication of your Gitlab repository to [Zenodo](https://zenodo.org/):
 
 - Create a file to tell people how to cite your software. Use this [handy guide](https://citation-file-format.github.io/cff-initializer-javascript/) to format the file.
-- Convert your `citation.cff` file to `.zenodo.json`.
+- Convert your `CITATION.cff` file to `.zenodo.json`.
 This file tells Zenodo what information or metadata you want to include with your software.
 
     ```bash

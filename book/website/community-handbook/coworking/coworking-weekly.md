@@ -15,7 +15,7 @@ These calls also provide opportunities to clarify doubts about the project, get 
 ## Attending an online coworking call
 
 The schedule for these coworking calls is updated weekly in the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon).
-We announce these in our [monthly newsletters](https://tinyletter.com/TuringWay/archive) and send a reminder every Monday on the [Slack channel](https://tinyurl.com/jointuringwayslack).
+We announce these in our [monthly newsletters](https://buttondown.email/turingway/) and send a reminder every Monday on the [Slack channel](https://tinyurl.com/jointuringwayslack).
 
 Though scheduled for 1 hour, you are welcome to join for shorter periods as your schedule allows, however, please let the host of the call know so that they know who to expect on the call.
 If you are interested in coworking with one of the team members on a day that is not listed on the schedule, please contact them on Slack or by email so that they can find a common slot to work with you.
@@ -71,7 +71,7 @@ The call begins with the team members welcoming the participants, sharing the Co
 
 The session chair will start the [timer](https://cuckoo.team/TW-coworking) to keep track of the Pomodoro sessions.
 If everyone plans to work on independent tasks, we will remain in the main room and work silently.
-For any discussion or collaborative task that two people of the call are working on, we will create [breakout rooms](#breakout-rooms) for them.
+For any discussion or collaborative task that two people of the call are working on, we will create [breakout rooms][ch-coworking-collabcafe-breakout] for them.
 
 If there are new members on the call, one of the members (usually host of the call) will take the new member to a breakout room to show them around the project repository and share some tips for getting started.
 

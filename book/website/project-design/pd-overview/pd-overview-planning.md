@@ -27,7 +27,7 @@ Project design practices help all stakeholders to be certain about their roles a
 (pd-overview-planning-ethics)=
 ## Getting Ethical and Legal Approval
 
-Every piece of research has the capacity to generate change - this is the basis of discovery and progress. Theore, it is necessary to consider how your investigation could impact other people's lives and under which ethical and legal standards it should be conducted.
+Every piece of research has the capacity to generate change - this is the basis of discovery and progress. Therefore, it is necessary to consider how your investigation could impact other people's lives and under which ethical and legal standards it should be conducted.
 
 A project must be designed considering legal and ethical issues at every step: from the formulation of questions and data collection to analysis, results, and interpretation. It's important to ask yourself if your project is designed to be inclusive and sustainable, taking into account the implications and social expectations and adhering to ethical principles and professional standards.
 
@@ -42,7 +42,7 @@ Obtaining ethical and legal approval is a crucial step in the project to ensure 
 The {ref}`Research Ethics Committees Processes<er-committees>` chapter provides more information about each item. Refer to other chapters in the {ref}`Guide for Ethical Research<er>` for further guidance.
 
 ```{warning}
-Even if you do not need institutional ethical approval, your project will still benefit from planning using self-relfection techniques and including ethical considerations in the project design. 
+Even if you do not need institutional ethical approval, your project will still benefit from planning using self-reflection techniques and including ethical considerations in the project design. 
 Ethics should not be tied to institutions, it is everyone's responsibility. 
 ```
 

@@ -7,8 +7,11 @@ deps:
 book:
 	jupyter-book build ./website
 
+strict:
+	jupyter-book build ./website -W --keep-going
+
 pathways:
-	python -m pathways.main pathways ./website/
+	pathways --build ./website/
 
 clean:
 	jupyter-book clean -a ./website

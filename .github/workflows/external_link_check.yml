@@ -11,43 +11,40 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout-repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.10"
+          python-version: "3.13"
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip setuptools wheel
-          pip install -r ./book/website/requirements.txt
+        run: make deps
+        working-directory: ./book
 
       - name: Build Jupyter-Book
-        run: |
-          cd ./book/website
-          jupyter-book build .
+        run: make book
+        working-directory: ./book
 
       - name: Restore lychee cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }} # save cache using commit sha
           restore-keys: cache-lychee- # restore latest cache (not a specific commit)
 
       - name: Check links
-        uses: lycheeverse/lychee-action@v1.8.0
+        uses: lycheeverse/lychee-action@v2.0.2
         with:
           args: --config './lychee.toml' --no-progress 'book/website/_build/html/**/*.html'
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Use runner's GitHub token to avoid rate limiting
 
       - name: Concatenate Lychee output with issue header
-        run: |
-          cat .github/workflows/resources/external_link_check_header.md lychee/out.md > issue_text.md
+        run: cat .github/workflows/resources/external_link_check_header.md lychee/out.md > issue_text.md
 
       - name: Update Issue
-        uses: peter-evans/create-issue-from-file@v4
+        uses: peter-evans/create-issue-from-file@v5
         with:
           title: Broken links
           issue-number: 3171

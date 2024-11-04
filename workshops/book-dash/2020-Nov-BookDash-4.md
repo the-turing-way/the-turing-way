@@ -4,7 +4,7 @@ The fourth _The Turing Way_ Book Dash was hosted online from 9-13 November 2020 
 
 ## Overview
 
-_The Turing Way_ [Book Dash events](https://the-turing-way.netlify.app/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date.
+_The Turing Way_ [Book Dash events](https://book.the-turing-way.org/community-handbook/bookdash.html) are a less intense version of [Book Sprints](https://en.wikipedia.org/wiki/Book_sprint), where participants collaboratively work on _The Turing Way_ book synchronously to develop new chapters and review/edit existing ones to make them more accessible, comprehensive and up-to-date.
 They also contribute to enhancing the project by improving the ways we work in the community and take lead on accomplishing different tasks or subprojects.
 
 In the past, we have organised 1-1.5 day long Book Dash events in person or partially remote.
@@ -52,7 +52,7 @@ Applicants were asked to think about the collaborative element of the Book Dash 
 To get a sense of the time zones these applicants came from, we asked them to choose their preferred slots during the day that they can join.
 You can see a template of this document [here](https://tinyurl.com/tw-bookdash-template).
 
-We used the rubrics (as explained in the [online chapter](https://the-turing-way.netlify.app/community-handbook/bookdash/bookdash-application.html#reviewing-process)) to score the applications during the review and selection process.
+We used the rubrics (as explained in the [online chapter](https://book.the-turing-way.org/community-handbook/bookdash/bookdash-application.html#reviewing-process)) to score the applications during the review and selection process.
 
 ### The book dash participants and event plan
 
@@ -86,7 +86,7 @@ Kirstie Whitaker and Malvika Sharan kicked off each of these sessions by welcomi
 You can watch this presentation by Kirstie during one of the sessions on [YouTube](https://www.youtube.com/watch?v=ihWt-jzuHps&list=PLBxcQEfGu3DlXmOGBN8UKzFYITqKrgCwc).
 Slides are available on [Zenodo](https://zenodo.org/record/4263451) (The Turing Way Book Dash - November 2020. Zenodo. http://doi.org/10.5281/zenodo.4263451).
 
-Each development session followed the [coworking techniques](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-motivation.html#techniques) that we also use for our [Online Collaboration Cafés](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html). 
+Each development session followed the [coworking techniques](https://book.the-turing-way.org/community-handbook/coworking/coworking-motivation.html#techniques) that we also use for our [Online Collaboration Cafés](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html). 
 To facilitate a shared timer we used the [browser-based cuckoo clock](https://cuckoo.team/tw-bookdash).
 A shared HackMD with agenda, resources and information was set up to ensure that all participants can centrally take notes and follow different session.
 You can see the template document: https://hackmd.io/@turingway/template-bookdash-nov2020.
@@ -95,7 +95,7 @@ You can see the template document: https://hackmd.io/@turingway/template-bookdas
 #### Highlights of contributions from the event
 
 -  *Contributors to the Guide for Ethical Research*: **Ismael Kherroubi Garcia, Laura Carter and Sophia Batchelor (UK)** were joined by **Irene Komal P. (India), Asha Susan Titus (UK) and Laura Acion (Argentina)** who managed to work on multiple chapters for the Guide for Ethical Research. 
-    -   Specifically, Ismael, Laura C. and Sophia managed to complete the chapter on [Introduction to Ethics](https://the-turing-way.netlify.app/ethical-research/ethics-intro.html) and drafted several other chapters in the following Pull Requests (PR): [#1394](https://github.com/alan-turing-institute/the-turing-way/pull/1394), [#1498](https://github.com/alan-turing-institute/the-turing-way/pull/1498) and [#1649](https://github.com/alan-turing-institute/the-turing-way/pull/1649). Laura A. contributed to reviewing a few of these PRs.
+    -   Specifically, Ismael, Laura C. and Sophia managed to complete the chapter on [Introduction to Ethics](https://book.the-turing-way.org/ethical-research/ethics-intro.html) and drafted several other chapters in the following Pull Requests (PR): [#1394](https://github.com/alan-turing-institute/the-turing-way/pull/1394), [#1498](https://github.com/alan-turing-institute/the-turing-way/pull/1498) and [#1649](https://github.com/alan-turing-institute/the-turing-way/pull/1649). Laura A. contributed to reviewing a few of these PRs.
     -   Irene wrote a chapter on Data Anonymisation, currently being edited in [PR #1579](https://github.com/alan-turing-institute/the-turing-way/pull/1579).
     -   Asha started a chapter on activism ([PR #1582](https://github.com/alan-turing-institute/the-turing-way/pull/1582), which is currently edited by Laura in this PR: [#1675](https://github.com/alan-turing-institute/the-turing-way/pull/1675). 
 -  *Leadership in Data Science*: **Laura Ación (Argentina) and Lupe Canaviri Maydana (Bolivia)** worked on multiple subchapters on leadership available in the Guide for Collaboration, which is being co-edited by Malvika in this PR: [#1553](https://github.com/alan-turing-institute/the-turing-way/pull/1553).
@@ -106,18 +106,18 @@ You can see the template document: https://hackmd.io/@turingway/template-bookdas
     -  **Marilina Santero (Spain)** translated our promotional materials in Spanish, submitted an abstract for PyDay Chile 2020 event to present a talk about _The Turing way_ and after the Book Dash presented the talk. See the slides on Zenodo ([https://zenodo.org/record/4300282](https://zenodo.org/record/4300282))
 -  *Book's Accessibility*: **Paul Owoicho (UK), Neha Moopen (The Netherlands) and Emma Karoune (UK)** worked on book’s accessibility aspects that included a chapter on maintaining consistency, a chapter on GitHub for beginners, compiling glossary terms and designing templates to facilitate future contributions.
     - Especially, Paul worked on many of his goals from [Google Season of Doc](https://github.com/alan-turing-institute/the-turing-way/blob/main/communications/GSOD-applications/GSoD-2020-Project-Report.md).
-    -  Paul and Neha completed the chapter on [Maintaining Consistency in the book](https://the-turing-way.netlify.app/community-handbook/consistency.html) and developed a series of [templates for new authors](https://the-turing-way.netlify.app/community-handbook/contributing.html).
-    -  Emma edited a chapter on [Getting Started with Github](https://the-turing-way.netlify.app/collaboration/github-novice.html) and populated the [Glossary page](https://the-turing-way.netlify.app/afterword/glossary.html) located in the Afterword of the book.
+    -  Paul and Neha completed the chapter on [Maintaining Consistency in the book](https://book.the-turing-way.org/community-handbook/consistency.html) and developed a series of [templates for new authors](https://book.the-turing-way.org/community-handbook/contributing.html).
+    -  Emma edited a chapter on [Getting Started with Github](https://book.the-turing-way.org/collaboration/github-novice.html) and populated the [Glossary page](https://book.the-turing-way.org/afterword/glossary.html) located in the Afterword of the book.
 -  *Individual Projects*:
       - Brigitta also participated in several discussions around software development and managing community projects, and opened a few more PRs related to _The Turing Way_ GitHub workflow.
       - **Veronika Cheplygina (The Netherlands)** started a chapter on project workflow and Task Management that will be hosted in the Guide for Project Design ([PR #1442](https://github.com/alan-turing-institute/the-turing-way/pull/1442)).
-      - **Carlos Martinez-Ortiz (The Netherlands)** managed community contributions to the chapters in Reproducible Research from his team members from Netherlands eScience Centre that included a chapter on [Code Review](https://the-turing-way.netlify.app/reproducible-research/reviewing.html) and [PR #912](https://github.com/alan-turing-institute/the-turing-way/pull/912)).
+      - **Carlos Martinez-Ortiz (The Netherlands)** managed community contributions to the chapters in Reproducible Research from his team members from Netherlands eScience Centre that included a chapter on [Code Review](https://book.the-turing-way.org/reproducible-research/reviewing.html) and [PR #912](https://github.com/alan-turing-institute/the-turing-way/pull/912)).
       - **Marta Mangiarulo (UK)** worked on a chapter on data visualisation ([PR #1563](https://github.com/alan-turing-institute/the-turing-way/pull/1563)) and pre-registration ([issue #1585](https://github.com/alan-turing-institute/the-turing-way/issues/1585)), and reviewed several chapters to fix typos and bugs.
       - **Sangram Keshari Sahu (India)** worked on creating a case study for reproducibility in bioinformatics ([PR #1587](https://github.com/alan-turing-institute/the-turing-way/issues/1587)).
 
 All the participants were very supportive of each other's work and reviewed PRs beyond their contributions.
 Two core contributors **Martina G. Vilas and Sarah Gibson** also participated in the Book Dash to facilitate mentored contributions, especially by supporting participants who were new to the projects.
-Additionally, Sarah reviewed several Pull Requests and helped Malvika merge the chapter on [Remote Collaboration](https://the-turing-way.netlify.app/collaboration/remote-collab.html).
+Additionally, Sarah reviewed several Pull Requests and helped Malvika merge the chapter on [Remote Collaboration](https://book.the-turing-way.org/collaboration/remote-collab.html).
 Martina onboarded Lupe and Laura by offering mentorship in Spanish and helped Batool integrate [web.hypothes.is](https://web.hypothes.is/) to enable [web-annotation and commenting](https://jupyterbook.org/interactive/comments.html) on _The Turing Way_ content.
 On 12 November 2020, Martina also gave a talk at the Brainhack Donostia 2020 on Computational Reproducibility. 
 Under the title “A How-To Guide Based on The Turing Way”, she shared useful tips and tools for computational reproducibility. Her talk is also available on Zenodo: [http://doi.org/10.5281/zenodo.4269795](http://doi.org/10.5281/zenodo.4269795).
@@ -125,7 +125,7 @@ Under the title “A How-To Guide Based on The Turing Way”, she shared useful 
 #### Participants from the BioHackathon-EU event
 
 Several participants who were attending BioHackathon-EU joined us for several development sessions and participated in social calls.
-Special thanks to **Kim De Ruyck** for writing a subchapter on [Research Data Management Toolkits](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-toolkits.html), **Albert Hornos and Jose Maria Fernandez** for reviewing several open PRs on the GitHub repository, **Philippe Rocca-Serra** for creating a draft capturing the [interoperability between _The Turing Way_ and FAIR CookBook]([https://github.com/FAIRplus/the-fair-cookbook/blob/dev/docs/content/recipes/introduction/turingway.md](https://github.com/FAIRplus/the-fair-cookbook/blob/dev/docs/content/recipes/introduction/turingway.md)
+Special thanks to **Kim De Ruyck** for writing a subchapter on [Research Data Management Toolkits](https://book.the-turing-way.org/reproducible-research/rdm/rdm-toolkits.html), **Albert Hornos and Jose Maria Fernandez** for reviewing several open PRs on the GitHub repository, **Philippe Rocca-Serra** for creating a draft capturing the [interoperability between _The Turing Way_ and FAIR CookBook]([https://github.com/FAIRplus/the-fair-cookbook/blob/dev/docs/content/recipes/introduction/turingway.md](https://github.com/FAIRplus/the-fair-cookbook/blob/dev/docs/content/recipes/introduction/turingway.md)
 ) and **Wolmar Nyberg Åkerström** for looking into some styling issue of Jupyter Book. 
     
 ### Informal sessions
@@ -211,7 +211,7 @@ If the current schedule of these calls is not suitable for your time zone, you a
 If you want to start to get to know the project or want to return after a long break, you can begin with our [good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). 
 If you have a new idea that you would like to add to the project as a new section in an existing chapter, or as a whole new chapter, you can start by creating a [new issue](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose). 
 We also invite you to contribute in any capacity that's most suitable for your interests and availability. 
-Please help us review one of the several open [Pull Requests](https://github.com/alan-turing-institute/the-turing-way/pulls), join discussions on [these issues](https://github.com/alan-turing-institute/the-turing-way/issues) or get help in exploring resources that currently exist in [the book](https://the-turing-way.netlify.com/).
+Please help us review one of the several open [Pull Requests](https://github.com/alan-turing-institute/the-turing-way/pulls), join discussions on [these issues](https://github.com/alan-turing-institute/the-turing-way/issues) or get help in exploring resources that currently exist in [the book](https://book.the-turing-way.org/).
 
 ### Represent _The Turing Way_ in your community/conference
 
