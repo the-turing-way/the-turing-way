@@ -145,7 +145,7 @@ DMP
 
 DNS
   Domain Name System.
-  The system which translates domain names, for example the-turing-way.netlify.app, to the IP addressess used by computer networks.
+  The system which translates domain names, for example book.the-turing-way.org, to the IP addressess used by computer networks.
 
 Docker Container
   An active computational environment executed from a Docker image.
@@ -331,7 +331,7 @@ Last author
 
 Machine Learning (ML)
   Methods which allow computational systems to extract regularities from data which permit them to perform tasks such as prediction and categorisation in a way that is at least superfially analogous to how biological systems learn.
-  A broard sub-field of {term}`Artificial Intelligence (AI)<Artificial Intelligence (AI)>` generally distinct from Symbolic Artificial inteligence, also know as GOFAI (good old fashioned AI), which focuses on programmed systems which perform logical reasoning.
+  A broad sub-field of {term}`Artificial Intelligence (AI)<Artificial Intelligence (AI)>` generally distinct from Symbolic Artificial inteligence, also know as GOFAI (good old fashioned AI), which focuses on programmed systems which perform logical reasoning.
   Machine Learning (ML) is sometimes used interchangeably with Artificial Intelligence (AI), but often employed to differentiate concrete or extant systems and algorithms from broarder and more speculative approaches to synthetic intelligent systems.
 
 Machine Readable
@@ -397,7 +397,7 @@ Open License
   A license is a document that specifies what can and cannot be done with a work. It grants permissions and states restrictions. Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
 
 Open Notebooks
-  An emerging practice, documenting and sharing the experimental process of trial and error.
+  An emerging practice, documenting and sharing the experimental process of trial and error (see {ref}`Open Notebooks <rr-open-notebooks>`).
 
 Open Scholarship
   This is a concept that extends open research further. It relates to making other aspects of scientific research open to the public such as open educational resources, having inclusive practice and citizen science.
@@ -442,6 +442,9 @@ Persona Canvas
 
 Phony Target
   A phony target is one that doesn’t correspond to a file on the filesystem. A target is marked as phony by making it a prerequisite of the .PHONY target.
+
+Plain Language
+  Plain Language (also sometimes referred to as Plain writing or Plain English) is language and communication that your audience can understand the first time they read or hear it. Plain Language is defined by clear, straightforward communication that uses only as many words as are necessary to ensure that your audience understands the message easily. Most newspapers are written using plain language.
 
 Positionality
  Differences in social position and power shape identities and access in society. In acknowledging positionality, we also acknowledge intersecting social locations and complex power dynamics (also see: Intersectionality).

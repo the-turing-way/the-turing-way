@@ -8,12 +8,14 @@ This subchapter explains the process of selection and logistics for organising t
 To ensure that the Book Dash continues to evolve as per the community needs and preferences, invite returning members of the Book Dash events to join a planning committee.
 Members of the Book Dash planning committee participate in the planning meetings, provide feedback on the ongoing process and when possible take the lead on organisation tasks related to the Book Dash.
 
-These tasks usually include the following roles and responsibilities:
-- **Planning Meeting**: attend a planning meeting to help select a date, agree on the format and share any feedback on the previous event that can help plan the Book Dash (time commitment: up to 30 minutes)
-- **Application Review**: review 2-3 applications based on your availability (time commitment: up to 30 minutes)
-- **Selection meeting**: participate in the selection meeting to help ensure that the selection is equitable (time commitment: 1.5-2 hours)
+These tasks include completing one or more of the following roles and responsibilities:
+- **Planning Meetings**: attend a planning meeting to help select a date, agree on the format and share any feedback on the previous event that can help plan the Book Dash (time commitment: up to 30-60 minutes in the months leading to the Book Dash)
+- **Application Review**: review 3-6 applications based on your availability (time commitment: up to 30-60 minutes, based on your availability)
+- **Selection meeting**: participate in the selection meeting to help ensure that the selection is equitable (time commitment: 60 minutes)
 - **Organisation meeting**: attend 1 call to finalise the logistics for the organisation (program agenda and participant support will be carried out by _The Turing Way_ core members) (time commitment: 1 hour)
-- **Session host and mentorship**: lead one of the 2 onboarding calls or one GitHub introduction session before and 1-2 of the contribution sessions or social sessions during the Book Dash based on their schedule (three 1.5 to 2.5 hour-long sessions)
+- **Onboarding calls**: Lead one of the onboarding calls (time commitment: 1 hour)
+- **GitHub introduction session**: Lead the introduction session (time commitment: 1.5 hours)
+- **Session host**: Lead at least one of the sessions during the Book Dash week itself, based on availability (2.5 hour-long sessions)
 - **Debrief meeting**: attend a meeting after the event to discuss what went well and what we can improve going forward (time commitment: 1 hour)
 - **Shared Documents**: set up or review shared notes, application form, review rubrics or other required documents for the Book Dash (time commitment: relative to the type of document)
 - **Post-event Documents**: ensure the update of [contributors file](https://github.com/the-turing-way/the-turing-way/blob/main/contributors.md), help document the event report and update the Book Dash chapter online
