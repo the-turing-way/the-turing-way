@@ -374,8 +374,6 @@ parts:
                 file: communication/podcasts/podcasts-personal-stories
           - title: Collaborating with Artists
             file: communication/artists
-          - title: Collaborating with Civil Societies
-            file: communication/civil-society   
           - title: Presenting Posters and Conference Talks
             file: communication/presentations
             sections:
