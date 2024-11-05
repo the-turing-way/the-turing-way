@@ -14,29 +14,8 @@ You can then decide if you are happy with the result and push your changes to th
 We will be using the command line throughout this guide.
 You will need to locate your "terminal" or "prompt" application on your machine.
 
-<!-- 1. Install miniconda by following the instructions for your Operating System (Windows, MacOS, Linux) at this link: https://conda.io/projects/conda/en/latest/user-guide/install/index.html#regular-installation -->
-
-<!-- 2. Open your terminal app and run the `conda init` command in your terminal. You should see `(base)` in your prompt indicating that conda was successfully installed and you are now in its base environment. -->
-<!--     - Note that if you are using Windows, you will need to open a program called `Anaconda prompt` instead of using `cmd`. -->
-
-<!-- 3. Create a new environment and install a modern version of Python into it: -->
-
-<!--    ```console -->
-<!--    conda create --name the-turing-way python=3.13 -->
-<!--    ``` -->
-
-<!-- 4. Activate the environment with: -->
-
-<!--    ```console -->
-<!--    conda activate the-turing-way -->
-<!--    ``` -->
-
-<!--    Any commands we run with Python or pip from now on will use the versions of Python and pip installed into _this_ conda env, not any others. -->
-
 1. Install Python3 (which version)
-
-
-5. Clone _The Turing Way_ repository from GitHub to your machine using the command: 
+1. Clone _The Turing Way_ repository from GitHub to your machine using the command:
 
    ```console
    git clone https://github.com/the-turing-way/the-turing-way
@@ -52,16 +31,12 @@ You will need to locate your "terminal" or "prompt" application on your machine.
    ```console
    git clone --filter=blob:none https://github.com/the-turing-way/the-turing-way.git
    ```
-   ````
-
-6. Navigate into the cloned repository folder using the command `cd the-turing-way`, where the `cd` command means `change directory`.
-
+1. Navigate into the cloned repository folder using the command `cd the-turing-way`, where the `cd` command means `change directory`.
 1. Create a virtual environment
 
   ```console
   $ python3 -m venv ./venv
   ```
-
 1. Active the virtual environment
 
   ```console
@@ -70,21 +45,17 @@ You will need to locate your "terminal" or "prompt" application on your machine.
 
   Your prompt may now start with `(venv)` (?).
   Using the virtual environment means we can install _The Turing Way's_ dependencies without interfering with any other software.
-
-7. Then change into the sub-directory the website is built from using `cd book/`
-
-8. The Turing Way book is built using multiple python libraries. We can install these dependencies into your virtual environment using the following command
+1. Then change into the sub-directory the website is built from using `cd book/`
+1. The Turing Way book is built using multiple python libraries. We can install these dependencies into your virtual environment using the following command
 
    ```console
    make deps
-   ```
-9. And now build the book:
+1. And now build the book:
 
    ```console
    make book
    ```
-
-10. The output of the build process will provide output such as below that demonstrate how you can view the book locally:
+1. The output of the build process will provide output such as below that demonstrate how you can view the book locally:
 
     ```text
     ===============================================================================
