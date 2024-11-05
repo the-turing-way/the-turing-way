@@ -1,26 +1,7 @@
 (cm-citable-cite)=
-# Citing Research Objects
+# Citing your own Research Objects
 
-You should cite research objects directly in the paper in places where it is relevant.
-This is a commonly practised way of citing other people's work (such as publications) and is valid for citing other research components like data and software.
-A citation includes the following information:
-- Author
-- Title
-- Year of publication
-- Publisher (for data, this is often the data repository where it is housed)
-- Version (if indicated)
-- Access information (a URL or DOI)
-
-Like a regular citation, citing a research object is done in a specific citation style. 
-A citation style is a specific arrangement, order and formatting of information necessary for a citation.
-For instance, the MLA style was developed by Modern Language Association (originally used in the humanities) and the APA style was developed by American Psychological Association (originally used in psychology and the social sciences). 
-A specfic ciation style may also be requested by the journal you are publishing in.
-- MLA citation style uses the following format:
-`Author. "Title of the Source." Title of the Container, Other contributors, Version, Number, Publisher, Publication date, Location.`
-- APA citation style uses the following format:
-`Author. (Year). Title of data set (Version number). [Retrieved from] ***OR*** [DOI]`
-
-See [Scribbr Citation Styles Guide](https://www.scribbr.com/citing-sources/citation-styles/).
+When citing your own research objects, it is important to consider the type of research object you are presenting. Here, we provide explanations for citing data, physical samples, and software.
 
 (cm-citable-cite-data)=
 ## Citing Data
@@ -67,8 +48,7 @@ To learn more about how to cite physical samples and to check out examples, see 
 ## Citing Software
 
 A software citation has a lot of the same elements as a data citation, described above, and are described in more detail in the [Software Citation Principles](https://www.force11.org/software-citation-principles).
-When using others software, it is vital to cite and attribute it properly.
-See also [How to Cite R and R Packages](https://ropensci.org/blog/2021/11/16/how-to-cite-r-and-r-packages/) for more information.
+Depending on the journal, you may also include a Software/Code Availability Statement. In such section, you can describe where the code developed during the research presented in the paper can be found, similar to how you would provide information about data availability.
 
 ::::{tab-set}
 :::{tab-item} GitHub
