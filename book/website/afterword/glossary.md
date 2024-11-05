@@ -191,7 +191,7 @@ Equitable, Diverse and Inclusive Practices
 Ethical Source Software
   These licenses were created as 'traditional' {term}`open source <Open Source Software>` licenses make no restictions on the uses to which the software can be put including unethical uses.
   These licenses require that software is used in ways that respect fundamental human rights.
-  Whilst these licenses sought to be considered {term}`open source <Open Source Software>` their terms place restictions on the uses to which the software can be put so that anyone using the software in a way the licenses consider unethical would potentially expose themselves to liability.
+  Whilst these licenses sought to be considered {term}`open source <Open Source Software>`, their terms place restrictions on the uses to which the software can be put so that anyone using the software in a way the licenses consider unethical would potentially expose themselves to liability.
   Use restictions are prohibited by conventional definitions of open source so ethical source license could be thought of as a form of {term`source available<Source Available>`} license.
   See: {ref}`Ethical Source<rr-licensing-ethical>` for more.
 
