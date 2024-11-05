@@ -440,7 +440,7 @@ Open Source
   For example an image created with a simple bitmap editor might be reffered to as 'open source' despite lacking something that can be considered a 'source'.
   In such cases the notion of a '{term}`creative commons<Creative Commons>`' or '{term}`free cultural work<Free Cultural Works>`' may better apply as these do not as obviously emphasise the availability source materials but rather end products, 
   though they may include source materials.
-  There are also a number adjacent concepts which most often question the conventional open source prohibtion on restricting the uses to which open source things can be put, examples include: '{term}`ethical source<Ethical Source Software>`' '{term}`Fair Code<Fair Code>`'.
+  There are also a number adjacent concepts which most often question the conventional open source prohibtion on restricting the uses to which open source things can be put, examples include: '{term}`ethical source<Ethical Source Software>`' and '{term}`Fair Code<Fair Code>`'.
 
 Open Source Hardware
   Hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design. 
