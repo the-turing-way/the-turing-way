@@ -352,7 +352,7 @@ Kubernetes
 
 License
   This is a legal document that sets out the permissions for creative and academic work. It explains copyright, ensures proper attribution and sets out how others can copy, distribute and make use of the works.
-  See the chapter: {ref}`Licensing<rr-licensing>`
+  See the chapter: {ref}`Licensing<licensing>`
 
 Last author
   Usually the person in the research team with a supervisory role such as a PhD supervisor or Principal investigator. This is discipline dependent as sometimes the last author is the person that has made the smallest contribution to the research.
