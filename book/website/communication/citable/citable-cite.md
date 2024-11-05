@@ -14,19 +14,19 @@ A citation includes the following information:
 Like a regular citation, citing a research object is done in a specific citation style. A citation style is a specific arrangement, order and formatting of information necessary for a citation.
 For instance, the MLA style was developed by Modern Language Association (originally used in the humanities) and the APA style was developed by American Psychological Association (originally used in psychology and the social sciences). A specfic ciation style may also be requested by the journal you are publishing in.
 - MLA citation style uses the following format:
-`Author. "Title of the Source." Title of the Container, Other contributors, Version, Number, Publisher, Publication date, Location.`
+`Author. "Title of the Source." Title of the Container [{term}`def<Container>`], Other contributors, Version, Number, Publisher, Publication date, Location.`
 - APA citation style uses the following format:
 `Author. (Year). Title of data set (Version number). [Retrieved from] ***OR*** [DOI]`
 
 See [Scribbr Citation Styles Guide](https://www.scribbr.com/citing-sources/citation-styles/).
-See also [FORCE11 resource](https://www.force11.org/node/4771).
 
 (cm-citable-cite-data)=
 ## Citing Data
 When sharing a dataset, use the assigned DOI (from the data repository) and add this to your data availability statement at the end of the paper (similar to the acknowledgement section). 
 It is important to also cite your dataset in the references themselves, as only the citations in the reference section will contribute to citation counts.
-Data citation is important because it facilitates access, transparency and potentially reproducibility, reuse, and credit for researchers. 
-It also provides recognition and visibility for the repositories that share data.
+Data citation is important because it facilitates access, transparency and potentially reproducibility, reuse, and credit for researchers, and might be required when data is shared under a license that requires citation (for example, CC-BY). For more information check the chapter about {ref}`rr-licensing`.
+
+Data citation also provides recognition and visibility for the repositories that share data.
 
 You can find examples of these statements in the publishers' (research data) author policies.
 
@@ -48,7 +48,7 @@ You can find examples of these statements in the publishers' (research data) aut
 Access conditions and procedures can be found at [URL to restricted access repository such as [EASY](https://easy.dans.knaw.nl/ui/home).]”
 
 **When code is shared:**
-- Data and code to reproduce the results shown in the paper can be obtained from The Turing Way (2023) at Zenodo ([https://zenodo.org/doi/10.5281/zenodo.3233853](https://zenodo.org/doi/10.5281/zenodo.3233853)) and GitHub ([https://github.com/the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)). We used R version 4.2.2 (*use citation() to check the suggested citation*) and the following R packages: ggplot2 ([Wickham 2016](https://cran.r-project.org/web/packages/ggplot2/citation.html)), another example (*and citation added to the references!*). 
+- "Data and code to reproduce the results shown in the paper can be obtained from The Turing Way (2023) at Zenodo ([https://zenodo.org/doi/10.5281/zenodo.3233853](https://zenodo.org/doi/10.5281/zenodo.3233853)) and GitHub ([https://github.com/the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)). We used R version 4.2.2 (*use citation() to check the suggested citation*) and the following R packages: ggplot2 ([Wickham 2016](https://cran.r-project.org/web/packages/ggplot2/citation.html)), another example (*and citation added to the references!*)." 
 
 **More Data Availability Statement examples:**
 
@@ -57,7 +57,7 @@ You can find more examples on the [Manchester's Data Access Statements page](htt
 (cm-citable-cite-samples)=
 ## Citing Physical Samples
 
-When sharing results related to physical samples, ideally a persistent identifier is assigned to track the samples and their associated data. 
+When sharing results related to physical samples (such as archaeological material, genomics samples), ideally a persistent identifier is assigned to track the samples and their associated data. 
 As with [data citation](cm-citable-cite-data), you include a citation in the references and a more detailed explanation in the data availability statement. 
 To learn more about how to cite physical samples and to check out examples, see the [Scientific Author Guide for Publishing Open Research Using Physical Samples](https://doi.org/10.6084/m9.figshare.24669057.v1) by {cite:ps}`Damerow2024physical`.
 
