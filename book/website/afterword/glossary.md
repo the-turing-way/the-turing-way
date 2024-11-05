@@ -126,7 +126,7 @@ Corresponding author
 Creative Commons
   Creative commons licenses provide standard language with which to place a creative work into the commons by providing simple terms under which others can re-use it.
   This is necessary as in almost all legal regimes by default authors reserve all rights to works even if they make them publicly available unless they explicitly provide a license stipulating otherwise.
-  You can read more about copyright and licensing in {ref}`<rr-licensing>`.
+  You can read more about copyright and licensing in {ref}`<licensing>`.
   The 'CC0' is a public domain dedication waiving the copyright and anyone to use the work as they see fit.
   There are a number of variants on the creative license which use the copyright on the work to stipulate terms on which it can be re-used.
   The variants add or modify terms of the license, such as requiring attribution (BY), prohibiting commercial re-use (NC), prohibiting derivative works (ND), and requiring that any derivative works be shared under equivalent terms (SA).
@@ -454,7 +454,7 @@ Open Source Software
   Open source software should not be confused with {term}`source available<Source Available>` software it is not sufficient for the source code to be made available for a project to be considered open source.
 
   Almost all open source software is also {term}`Free / Libre Software<Free or Libre Software>`.
-  For more details see: {ref}`Licensing<rr-licensing>` and {ref}`Open Source Software<rr-open-source>`.
+  For more details see: {ref}`Licensing<licensing>` and {ref}`Open Source Software<rr-open-source>`.
 
 Open Scholarship
   This is a concept that extends open research further.
@@ -464,7 +464,7 @@ Open License
   A license is a document that specifies what can and cannot be done with a work.
   It grants permissions and states restrictions.
   Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
-  (See {ref}`licensing<rr-licensing>` for more details)
+  (See {ref}`licensing<licensing>` for more details)
 
 Open Notebooks
   An emerging practice, documenting and sharing the experimental process of trial and error (see {ref}`Open Notebooks <rr-open-notebooks>`).
