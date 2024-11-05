@@ -12,7 +12,7 @@ Civil society can be a formal organization or an unofficial community.
 
 Collaboting with civil society can add a lot of value to your research, particularly when your research has a specific target audience outside of academia. 
 For example, you might be researching something that is relevant for persons with disabilities, or a specific neighbourhood within a city. 
-Your research will benefit from applying citizen science approaches to engage people from communities which may be impacted by your research results. 
+Your research will benefit from applying citizen science approaches to engage people from communities which may be impacted by your research results, or without whom data collection is impossible. 
 However, reaching out to individuals within these communities might be difficult if not impossible. 
 Civil society (organisations) can be of great help in reaching out to these communities. 
 They usually: 
@@ -25,7 +25,7 @@ If your research is intended to have an impact on the communities the civil soci
 ### How to involve civil society
 
 In order to involve civil society, you need to think about about the target audience first. 
-Once you have identified the audience, you can search on the internet to find out which organisations or communities would be relevant to contact. 
+Once you have identified the audience, you can search on the internet to find out which organisations or communities would be relevant to contact. Sometimes, especially if you are looking to do work in an environemnt with which you are unfamiliar, such as a different country, you might consider reaching out to a larger organisation, for example the United Nations, who works with civil society in the country of interest and can serve as a bridge to connect to the right people.
 If your audience has a specific geographic distribution, you could also try contacting local government office to find connections. 
 Reach out to these communities in whichever their preferred communication channel is. 
 Not every community has a website where such information might be available, so it is important that you find the right contact to connect you further. 
