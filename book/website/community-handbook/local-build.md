@@ -156,7 +156,13 @@ Creating an environment on your local machine for _The Turing Way_ is a great wa
 ---
 height: 487px
 name: python-environment
-alt: 'A humorous, black and white flowchart from XKCD depicting the complexity of managing different Python environments on a computer. It shows a tangled web of arrows and lines connecting various versions of Python installed through different methods such as Homebrew, Anaconda, and binaries from Python.org. There are also references to different tools and paths like PIP, PYTHONPATH, and system PATH, that add to the confusion. The paths weave in and out of local folders on a computer. Some of them are noted to be owned by root, making them harder to manage. The illustration is annotated with bemused and perplexed comments about the state of the Python environment, concluding with a comic punchline at the bottom that reads, "My Python environment has become so degraded that my laptop has been declared a superfund site."'
+alt: >
+  A humorous, black and white flowchart from XKCD depicting the complexity of managing different Python environments on a computer.
+  It shows a tangled web of arrows and lines connecting various versions of Python installed through different methods such as Homebrew, Anaconda, and binaries from Python.org.
+  There are also references to different tools and paths like PIP, PYTHONPATH, and system PATH, that add to the confusion.
+  The paths weave in and out of local folders on a computer.
+  Some of them are noted to be owned by root, making them harder to manage.
+  The illustration is annotated with bemused and perplexed comments about the state of the Python environment, concluding with a comic punchline at the bottom that reads, "My Python environment has become so degraded that my laptop has been declared a superfund site."
 ---
 Illustration [from xkcd](https://xkcd.com/1987) describing the complexities of installing different versions of Python on your computer. Used under a [CC-BY-NC 2.5 licence](https://creativecommons.org/licenses/by-nc/2.5/deed.en).
 ```
