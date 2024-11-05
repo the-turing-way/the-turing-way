@@ -1,14 +1,13 @@
-# Notes 15 July 2024
+# Notes 2 September 2024
 
 ## Attendees 
 
-* Cass
-* Emma
-* Gabin
-* Ella
 * Malvika
-* Ale
-* Andre
+* Jen
+* Bastian
+* Gabin
+* Anne
+* Emma
 
 ## Apologies:
 
@@ -17,11 +16,14 @@
 
 ## Topics/Rooms
 
-* The Turing Way Practitioners Hub case studies +1 (Ale)
-* RCM-RAM co-design of stakeholder map (issue: [https://github.com/the-turing-way/the-turing-way/issues/3759)](https://github.com/the-turing-way/the-turing-way/issues/3759))
-* RCM Shadowing - 2nd pomodoro (Ale + Gabin)
-
+* MS + JD: AI Insights Chat as part of practitioners hub
+* Gabin: RAM/RCM chapter
+* ALS: Fireside chat
+* MS: bridgeAI Impact and timesheet (admin)
+* EK: catch up on emails (just back from holidays)
 
 ## Notes
 
-* Cass and Gabin discussed how the two (E\&S and DCE) would sit together. Cass tidied outline notes and strated full text draft
+* N/A
+* 
+* 

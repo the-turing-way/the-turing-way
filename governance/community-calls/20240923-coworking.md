@@ -1,13 +1,16 @@
-# Notes 2 September 2024
+# Notes 23 September 2024
 
 ## Attendees 
 
-* Anne 
+* Anne - running late (internet restarted)!
 * Gabin
+* Jim
+* Bastian
 
 ## Apologies:
 
 * Malvika - in DC
+* Kirstie - DC
 
 ## Topics/Rooms
 
@@ -19,6 +22,5 @@
 
 ## Notes
 
-* ALS: Hidden REF submission \& Scriberia images!
-    * Calendar gardening - fixing some recurring calendar invites 
-* 
+* Anne - getting some communications out for a new chapter on Data Missingness
+* Gabin - RAM\&RCM chapter
