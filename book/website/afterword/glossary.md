@@ -127,7 +127,9 @@ Creative Commons
   Creative commons licenses provide standard language with which to place a creative work into the commons by providing simple terms under which others can re-use it.
   This is necessary as in almost all legal regimes by default authors reserve all rights to works even if they make them publicly available unless they explicitly provide a license stipulating otherwise.
   You can read more about copyright and licensing in {ref}`<rr-licensing>`.
-  There are a number of variants of the license which add terms to the CC0 or public domain license such as requiring attribution (BY), prohibiting commercial re-use (NC), prohibiting derivative works (ND), and requiring that any derivative works be shared under the same terms (SA).
+  The 'CC0' is a public domain dedication waiving the copyright and anyone to use the work as they see fit.
+  There are a number of variants on the creative license which use the copyright on the work to stipulate terms on which it can be re-used.
+  The variants add or modify terms of the license, such as requiring attribution (BY), prohibiting commercial re-use (NC), prohibiting derivative works (ND), and requiring that any derivative works be shared under equivalent terms (SA).
   The organisation [Creative Commons (CC)](https://web.archive.org/web/20240704044626/https://creativecommons.org/) is a non-profit (501(c)(3)) based in the USA with a number of international affiliates.
 
 CRediT Taxonomy
