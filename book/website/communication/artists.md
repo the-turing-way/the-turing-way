@@ -1,6 +1,6 @@
 (cm-artists)=
 # Collaborating with artists
-
+If you are interested in sharing your research with the wolrd outside of your academic peers, collaborating with artists could be an effective way to do it. This chapter presents a quick note on why such collaboration is important, and a brief overview of a few challenges that such collaboration implies. It serves as a starting point for anyone considering engage with a group of passionate people who view the world through their artistic eyes.
 (cm-artists-why)=
 ## Why collaborate with artists?
 People receive messages through five senses: touch, taste, smell, vision and hearing. 
@@ -10,7 +10,7 @@ Some use paintings, photographs, or graphics.
 Others focus on music, sounds, theatre and performance in general.
 The list is endless. 
 Sometimes, art becomes a powerful way to communicate messages to people in a way that people can relate to.
-Art is also often more accessible not only in the language that it uses, but in the abscence of a paywall to access art. 
+Art is also often more accessible not only in the language that it uses, but in the abscence of a paywall or a significnatly lower one to access art. 
 
 (cm-artists-examples)=
 ## Examples
