@@ -14,24 +14,27 @@ You can then decide if you are happy with the result and push your changes to th
 We will be using the command line throughout this guide.
 You will need to locate your "terminal" or "prompt" application on your machine.
 
-1. Install miniconda by following the instructions for your Operating System (Windows, MacOS, Linux) at this link: https://conda.io/projects/conda/en/latest/user-guide/install/index.html#regular-installation
+<!-- 1. Install miniconda by following the instructions for your Operating System (Windows, MacOS, Linux) at this link: https://conda.io/projects/conda/en/latest/user-guide/install/index.html#regular-installation -->
 
-2. Open your terminal app and run the `conda init` command in your terminal. You should see `(base)` in your prompt indicating that conda was successfully installed and you are now in its base environment.
-    - Note that if you are using Windows, you will need to open a program called `Anaconda prompt` instead of using `cmd`.
+<!-- 2. Open your terminal app and run the `conda init` command in your terminal. You should see `(base)` in your prompt indicating that conda was successfully installed and you are now in its base environment. -->
+<!--     - Note that if you are using Windows, you will need to open a program called `Anaconda prompt` instead of using `cmd`. -->
 
-3. Create a new environment and install a modern version of Python into it:
+<!-- 3. Create a new environment and install a modern version of Python into it: -->
 
-   ```console
-   conda create --name the-turing-way python=3.13
-   ```
+<!--    ```console -->
+<!--    conda create --name the-turing-way python=3.13 -->
+<!--    ``` -->
 
-4. Activate the environment with:
+<!-- 4. Activate the environment with: -->
 
-   ```console
-   conda activate the-turing-way
-   ```
+<!--    ```console -->
+<!--    conda activate the-turing-way -->
+<!--    ``` -->
 
-   Any commands we run with Python or pip from now on will use the versions of Python and pip installed into _this_ conda env, not any others.
+<!--    Any commands we run with Python or pip from now on will use the versions of Python and pip installed into _this_ conda env, not any others. -->
+
+1. Install Python3 (which version)
+
 
 5. Clone _The Turing Way_ repository from GitHub to your machine using the command: 
 
@@ -53,20 +56,32 @@ You will need to locate your "terminal" or "prompt" application on your machine.
 
 6. Navigate into the cloned repository folder using the command `cd the-turing-way`, where the `cd` command means `change directory`.
 
-7. Then change into the sub-directory the website is built from using `cd book/website`
+1. Create a virtual environment
 
-8. The Turing Way book is built using multiple python libraries. We can install these dependencies _into your conda environment_ using the following command
+  ```console
+  $ python3 -m venv ./venv
+  ```
+
+1. Active the virtual environment
+
+  ```console
+  $ source ./venv/bin/activate
+  ```
+
+  Your prompt may now start with `(venv)` (?).
+  Using the virtual environment means we can install _The Turing Way's_ dependencies without interfering with any other software.
+
+7. Then change into the sub-directory the website is built from using `cd book/`
+
+8. The Turing Way book is built using multiple python libraries. We can install these dependencies into your virtual environment using the following command
 
    ```console
-   pip install -r requirements.txt
+   make deps
    ```
-
-   where the `requirements.txt` file contains a list of python libraries
-
 9. And now build the book:
 
    ```console
-   jupyter-book build .
+   make book
    ```
 
 10. The output of the build process will provide output such as below that demonstrate how you can view the book locally:
@@ -89,9 +104,9 @@ You will need to locate your "terminal" or "prompt" application on your machine.
 
 If you would like to preview a version of the book from a certain branch (perhaps to render the book while working on a PR) then simply switch to the required branch and rebuild the book as in step 9:
 
-   ```bash
-   git checkout mybranch
-   jupyter-book build .
+   ```console
+   $ git checkout mybranch
+   $ make book
    ```
 
 Follow the link as before and you will see changes specific to that branch rendered.
@@ -102,8 +117,8 @@ When you test your edits by building the book multiple times, it is better to cl
 You can either manually delete the `book/website/_build` folder every time, or run this command:
 
 ```console
-cd book/website
-jupyter-book clean .
+$ cd book
+$ make clean
 ```
 
 More details on this process can be read in [Jupyter Book's documentation](https://jupyterbook.org/en/stable/basics/build.html?highlight=clean#clean-your-books-generated-files).
