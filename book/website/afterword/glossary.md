@@ -638,7 +638,7 @@ Smoke Testing
 Source Available
   Where the source code of a piece of software is made available but not under the terms of an {term}`open license<Open License>`, you may have to pay to access the source code and agree to terms which prohibit its redistribution, or the code may be generally available and only prohibit commercial redistribution.
   Source available code is proprietary but not closed source.
-  Whilst Generaly used in the context of software it can apply in other contexts such as {term}`open hardware<Open Source Hardware>`.
+  Whilst generally used in the context of software it can apply in other contexts such as {term}`open hardware<Open Source Hardware>`.
 
 Staged
   Staging the changes that will be included in the next git commit.
