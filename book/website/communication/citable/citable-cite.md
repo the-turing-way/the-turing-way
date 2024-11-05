@@ -11,10 +11,12 @@ A citation includes the following information:
 - Version (if indicated)
 - Access information (a URL or DOI)
 
-Like a regular citation, citing a research object is done in a specific citation style. A citation style is a specific arrangement, order and formatting of information necessary for a citation.
-For instance, the MLA style was developed by Modern Language Association (originally used in the humanities) and the APA style was developed by American Psychological Association (originally used in psychology and the social sciences). A specfic ciation style may also be requested by the journal you are publishing in.
+Like a regular citation, citing a research object is done in a specific citation style. 
+A citation style is a specific arrangement, order and formatting of information necessary for a citation.
+For instance, the MLA style was developed by Modern Language Association (originally used in the humanities) and the APA style was developed by American Psychological Association (originally used in psychology and the social sciences). 
+A specfic ciation style may also be requested by the journal you are publishing in.
 - MLA citation style uses the following format:
-`Author. "Title of the Source." Title of the Container [{term}`def<Container>`], Other contributors, Version, Number, Publisher, Publication date, Location.`
+`Author. "Title of the Source." Title of the Container, Other contributors, Version, Number, Publisher, Publication date, Location.`
 - APA citation style uses the following format:
 `Author. (Year). Title of data set (Version number). [Retrieved from] ***OR*** [DOI]`
 
@@ -33,7 +35,7 @@ You can find examples of these statements in the publishers' (research data) aut
 ### Data availability statement examples:
 
 **Using the Digital Object Identifier (DOI):**
-“The data that support the findings of this study are openly available in [repository name] at http://doi.org/[doi].”
+- “The data that support the findings of this study are openly available in [repository name] at http://doi.org/[doi].”
 
 **If no DOI is issued:**
 - “The data that support the findings of this study are openly available in [repository name] at [URL], reference number [reference number].”
