@@ -136,13 +136,21 @@ jupyter-book build . --builder linkcheck
 The link checker checks if the each link resolves and prints the status on your terminal so that you can check and resolve any incorrect links.
 Read more about this in [Jupyter Book's documentation](https://jupyterbook.org/en/stable/advanced/html.html?highlight=check%20external#check-external-links-in-your-book).
 
-## Why did we recommend using (mini)conda?
+## Why we recommend using a virtual environment
 
-In the step-by-step guide above, we made use of the `jupyter-book` command to build the Turing Way book. For this command to work as intended you will need a Python installation on your machine.
+In the step-by-step guide above, we made use of `jupyter-book` to build the Turing Way book.
+For this program to work as intended you will need a Python installation on your machine.
+
 As with any other programming language such as R or Julia, any given Python installation might look different from another due to the different packages or libraries that come with the installation.
-Over time you will likely install even more packages, or update packages to newer versions. Some packages also depend on the presence of specific versions of other packages to function, and so to ensure your local build works smoothly you will want to minimize as much mismatched dependencies as possible.
 
-But this can be difficult! Even with an organized, concerted effort, package management for programming languages naturally throws up dependency issues. Python packages, for reasons not discussed here, tend to suffer from dependency issues a bit more than other languages (note that all languages do!) and one guaranteed way to come across such an issue by trying to maintain all of your Python projects using just one, large set of packages, each at a specific version. You simply can't cater to the needs of all package dependencies this way.
+Over time you will likely install even more packages, or update packages to newer versions.
+Some packages also depend on the presence of specific versions of other packages to function, and so to ensure your local build works smoothly you will want to minimize as much mismatched dependencies as possible.
+
+This can be difficult!
+Even with an organized, concerted effort, package management for programming languages naturally throws up dependency issues.
+Python packages, for reasons not discussed here, tend to suffer from dependency issues a bit more than other languages (note that all languages do!) and one guaranteed way to come across such an issue by trying to maintain all of your Python projects using just one, large set of packages, each at a specific version.
+You simply can't cater to the needs of all package dependencies this way.
+Creating an environment on your local machine for _The Turing Way_ is a great way to minimize dependency issues.
 
 ```{figure} https://imgs.xkcd.com/comics/python_environment.png
 ---
@@ -152,17 +160,3 @@ alt: 'A humorous, black and white flowchart from XKCD depicting the complexity o
 ---
 Illustration [from xkcd](https://xkcd.com/1987) describing the complexities of installing different versions of Python on your computer. Used under a [CC-BY-NC 2.5 licence](https://creativecommons.org/licenses/by-nc/2.5/deed.en).
 ```
-
-The most relevant feature for us here is *virtual environments*.
-
-conda is a package manager designed to easily create language agnostic virtual environments, where each environment contains their own separate set of packages that don't interfere with each other.
-In fact it is best practice to create a virtual environment for each project you work on.
-We *could* just use Python's built in virtualenv tool to do this, but it doesn't extend into a multi-language env like conda offers.
-
-By creating a separate environment on your local machine just for _The Turing Way_, this is a great way to minimize those dependency issues.
-conda also has community run channels that dedicate their time to providing you with a certain pool of packages that may be relevant to a specific project, for example the [Bioconda channel](https://github.com/bioconda/bioconda-recipes) that contains packages relevant for bioinformatics projects, and packages not necessarily found on the default channel. Other example channels are:
-- r
-- conda-forge
-- tensorflow-macos
-
-These carefully curated channels also help to ensure your virtual environments contain the most appropriate packages for each of your projects.
