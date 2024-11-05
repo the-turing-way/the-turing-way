@@ -30,7 +30,6 @@ chapters:
         file: foreword/cite
       - title: Frequently Asked Questions
         file: foreword/faqs
-
   # ===== Guide for Reproducible Research ========================================
   - file: reproducible-research/reproducible-research
     sections:
@@ -172,6 +171,8 @@ chapters:
             file: reproducible-research/renv/renv-containers
           - title: Resources and Checklist
             file: reproducible-research/renv/renv-resources
+          - title: Considerations for choosing and limitations of reproducible environment tools
+            file: reproducible-research/renv/renv-considerations-limitations
       - title: BinderHub
         file: reproducible-research/binderhub
         sections:
