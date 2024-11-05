@@ -2,7 +2,7 @@
 # Citing Research Objects
 
 You should cite research objects directly in the paper in places where it is relevant.
-This is a commonly practised way of citing publications and is valid for citing other research components like data and software.
+This is a commonly practised way of citing other people's work (such as publications) and is valid for citing other research components like data and software.
 A citation includes the following information:
 - Author
 - Title
@@ -11,8 +11,8 @@ A citation includes the following information:
 - Version (if indicated)
 - Access information (a URL or DOI)
 
-A citation style is a specific arrangement, order and formatting of information necessary for a citation.
-For instance, the MLA style was developed by Modern Language Association (originally used in the humanities) and the APA style was developed by American Psychological Association (originally used in psychology and the social sciences).
+Like a regular citation, citing a research object is done in a specific citation style. A citation style is a specific arrangement, order and formatting of information necessary for a citation.
+For instance, the MLA style was developed by Modern Language Association (originally used in the humanities) and the APA style was developed by American Psychological Association (originally used in psychology and the social sciences). A specfic ciation style may also be requested by the journal you are publishing in.
 - MLA citation style uses the following format:
 `Author. "Title of the Source." Title of the Container, Other contributors, Version, Number, Publisher, Publication date, Location.`
 - APA citation style uses the following format:
@@ -52,7 +52,7 @@ Access conditions and procedures can be found at [URL to restricted access repos
 
 **More Data Availability Statement examples:**
 
-You can find more examples on the [Manchester's Data Access Statements page](https://www.library.manchester.ac.uk/using-the-library/staff/research/research-data-management/sharing/data-access-statements/), the [Cambridge Data Availability Statement examples](https://www.cambridge.org/core/services/authors/open-data/data-availability-statements), the [AMS Data Availability Statement examples](https://www.ametsoc.org/index.cfm/ams/publications/author-information/formatting-and-manuscript-components/data-availability-statement-examples/), or [Nature's Tips for writing a dazzling Data Availability Statement](https://researchdata.springernature.com/posts/tips-for-writing-a-dazzling-das-data-availability-statement).
+You can find more examples on the [Manchester's Data Access Statements page](https://www.library.manchester.ac.uk/services/research/research-data-management/sharing/data-access-statements/), the [AMS Data Availability Statement examples](https://www.ametsoc.org/index.cfm/ams/publications/author-information/formatting-and-manuscript-components/data-availability-statement-examples/), or [Nature's Tips for writing a dazzling Data Availability Statement](https://researchdata.springernature.com/posts/tips-for-writing-a-dazzling-das-data-availability-statement).
 
 (cm-citable-cite-samples)=
 ## Citing Physical Samples
