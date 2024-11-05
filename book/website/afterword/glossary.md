@@ -184,7 +184,7 @@ End to End Test
 
 Epistemology
   Theory of knowledge and deals with how knowledge is gathered and from which sources.
-  In research terms your view of the world and of knowledge strongly influences your interpretation of data and therefore your philosophical standpoint should be made clear from the beginning {ref}`brownEpistemology2015`.
+  In research terms your view of the world and of knowledge strongly influences your interpretation of data and therefore your philosophical standpoint should be made clear from the beginning {cite}`brownEpistemology2015`.
 
 Equitable, Diverse and Inclusive Practices
   Ensuring scholarship is open to anyone without barriers based on factors such as race, background, gender, and sexual orientation.
