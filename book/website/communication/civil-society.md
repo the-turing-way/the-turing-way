@@ -12,7 +12,7 @@ Civil society can be a formal organization or an unofficial community.
 
 Collaboting with civil society can add a lot of value to your research, particularly when your research has a specific target audience outside of academia. 
 For example, you might be researching something that is relevant for persons with disabilities, or a specific neighbourhood within a city. 
-Your research will benefit from applying citizen science approaches to engage people from communities which may be impacted by your research results, or without whom data collection is impossible. 
+Your research will benefit from applying public engagement approaches to involve people from communities which may be impacted by your research results, or without whom data collection is impossible.
 However, reaching out to individuals within these communities might be difficult if not impossible. 
 Civil society (organisations) can be of great help in reaching out to these communities. 
 They usually: 
