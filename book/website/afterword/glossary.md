@@ -194,7 +194,7 @@ Ethical Source Software
   These licenses require that software is used in ways that respect fundamental human rights.
   This can be thought of as relaxing the hardline 'freedom to run software for any purpose' stipulation required for software to qualify as free / libre or open source by the conventional definitions.  
   Whilst these licenses sought to be considered {term}`open source <Open Source Software>`, their terms place restrictions on the uses to which the software can be put so that anyone using the software in a way the licenses consider unethical would potentially expose themselves to liability.
-  Use restictions are prohibited by conventional definitions of open source so ethical source license could be thought of as a form of {term`source available<Source Available>`} license.
+  Use restictions are prohibited by conventional definitions of open source so ethical source license could be thought of as a form of {term}`source available<Source Available>` license.
   See: {ref}`Ethical Source<rr-licensing-ethical>` for more.
 
 ```
