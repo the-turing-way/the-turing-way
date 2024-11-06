@@ -30,6 +30,7 @@ For example, when writing a paper with multiple collaborators, version control c
 ---
 name: project-history
 alt: >
+  An illustration with two examples of project history management.
   The left shows a stack of ambiguously named files, shown as book-like objects.
   A hand carefully tries to pull out one of the files without making the stack crumble. 
   In contrast, the right shows a dial with options ranging from V1 to V6.
