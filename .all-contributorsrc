@@ -4883,6 +4883,33 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "RVFlowers",
+      "name": "Sophie T",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44363442?v=4",
+      "profile": "https://github.com/RVFlowers",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "aframosp",
+      "name": "Andrés Ramos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13357890?v=4",
+      "profile": "http://www.astro.rug.nl/~ramos",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "bbartholdy",
+      "name": "Bjørn Peare Bartholdy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47455812?v=4",
+      "profile": "https://github.com/bbartholdy",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "projectName": "the-turing-way",
