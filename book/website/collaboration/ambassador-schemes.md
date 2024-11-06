@@ -10,6 +10,16 @@
 | {ref}`Organising Coworking Calls or Meetings <cl-coworking>` and {ref}`Chairing Events <cl-chairing>`  | Helpful    | Beginner     | These chapters may be useful if you are planning to host events and/or co-working during an ambassador scheme
 | {ref}`Tools for Collaboration <cl-event-tools>`  | Helpful    | Beginner     | This chapter gives a useful overview of collaboration tools which can be deployed in an ambassador scheme
 
+```{figure} ../figures/peer-learning.*
+---
+height: 500px
+name: peer-learning
+alt: Scriberia illustration showing an ambassador or scholar in action in these types of schemes. On the left hand side of the image is a woman in a graduation gown shaking hands with a glass type structure representing an organisation. On the right hand side of the image the woman is seen in a few different settings- working at a computer, brainstorming ideas and chatting with others and talking about the glass structure- therefore spreading the word about the organisation she is part of through the scheme.
+---
+Ambassador Schemes
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. Original version on Zenodo. [https://doi.org/10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807) 
+```
+
 (cl-ambassador-schemes-summary)=
 ## Summary
 

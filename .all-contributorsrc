@@ -2689,11 +2689,13 @@
     },
     {
       "login": "mishkanemes",
-      "name": "mishkanemes",
+      "name": "Mishka Nemes",
       "avatar_url": "https://avatars.githubusercontent.com/u/39628884?v=4",
       "profile": "https://twitter.com/mishkanemes",
       "contributions": [
-        "eventOrganizing"
+        "eventOrganizing",
+        "content",
+        "review"
       ]
     },
     {
@@ -4862,6 +4864,51 @@
       "profile": "https://github.com/Preshh0",
       "contributions": [
         "content"
+      ]
+    },
+    {
+      "login": "fhreidsma",
+      "name": "fhreidsma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80468267?v=4",
+      "profile": "https://github.com/fhreidsma",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "sreenithyaa",
+      "name": "sreenithyaa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/64282208?v=4",
+      "profile": "https://github.com/sreenithyaa",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "RVFlowers",
+      "name": "Sophie T",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44363442?v=4",
+      "profile": "https://github.com/RVFlowers",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "aframosp",
+      "name": "Andrés Ramos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13357890?v=4",
+      "profile": "http://www.astro.rug.nl/~ramos",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "bbartholdy",
+      "name": "Bjørn Peare Bartholdy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47455812?v=4",
+      "profile": "https://github.com/bbartholdy",
+      "contributions": [
+        "review"
       ]
     }
   ],
