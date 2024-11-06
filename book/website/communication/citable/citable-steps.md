@@ -69,7 +69,3 @@ You can read more about `CITATION.cff` in {ref}`Software citation with CITATION.
 
 If possible, provide several formats: you won't need to update these very often and it will pay off.
 
-```{note}
-Many online tools allow exporting citation of research objects in different formats.
-For example, see [https://www.citethisforme.com/](https://www.citethisforme.com/).
-```
