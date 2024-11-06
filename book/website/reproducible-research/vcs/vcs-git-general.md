@@ -43,5 +43,6 @@ Here is a non-exhaustive list of software one can also use, please refer to thei
 - [Gitkracken](https://www.gitkraken.com/)
 - [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code)
 
+Even if you are using a terminal you don't have to use the git command line interface you could use a TUI (terminal user interface) for git such as [lazygit](https://github.com/jesseduffield/lazygit) or [gitui](https://github.com/extrawurst/gitui).
 
 In many cases, one still needs to use the command lines for complex matters, and we present the main Git functions usage in this book (see {ref}`Getting Started with Git<rr-vcs-git>`). 
