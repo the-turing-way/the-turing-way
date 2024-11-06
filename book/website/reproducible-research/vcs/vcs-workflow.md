@@ -33,7 +33,7 @@ name: main-branch
 alt: >
   A line of circles, with an arrow pointing from the left to the right, connecting the circles.
   The circles represent different snapshot of a file, they are added sequentially.
-  An arrow going from the last circle to several cirles on the left represents the possiblitiy to return to a paste state of the file.
+  An arrow goes from the last circle to several circles on the left, representing the possibility to return to a past state of the file.
 ---
 Version history with a single branch.
 ```
