@@ -30,9 +30,12 @@ If you need to go back to a previous version of a file because of a mistake, or 
 ```{figure} ../../figures/main-branch.*
 ---
 name: main-branch
-alt: circles represents different snapshot of a file, they are added sequentially. An arrow going from the last circle to several cirles on the left represents the possiblitiy to return to a paste state of the file.
+alt: >
+  A line of circles, with an arrow pointing from the left ot the right, connecting the circles.
+  The circles represent different snapshot of a file, they are added sequentially.
+  An arrow going from the last circle to several cirles on the left represents the possiblitiy to return to a paste state of the file.
 ---
-Version history with a single branch
+Version history with a single branch.
 ```
 
 In many version control systems (or in a special document if you do manual version control), you will be able to add a comment for each snapshot.
