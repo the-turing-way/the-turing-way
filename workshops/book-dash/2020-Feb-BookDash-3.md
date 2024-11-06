@@ -135,9 +135,9 @@ Facilitated by Sarah Gibson, we closed the working hours by celebrating everyone
 *Sarah leading the "hand-off-the-key-and-stand-up-to-celebrate", i.e. the final report out! (Picture by Kirstie Whitaker)*
 
 ### Credit for Reproducibility
-* Esther Plomp and Francis Madden added [a section on ORCID](https://hackmd.io/hPnJcWggSgyB7U2lXOhd4w) to the chapter - [Credit for Reproducibility](https://the-turing-way.netlify.com/credit/credit.html) ([PR #902](https://github.com/alan-turing-institute/the-turing-way/pull/902)).
+* Esther Plomp and Francis Madden added [a section on ORCID](https://hackmd.io/hPnJcWggSgyB7U2lXOhd4w) to the chapter - [Credit for Reproducibility](https://book.the-turing-way.org/credit/credit.html) ([PR #902](https://github.com/alan-turing-institute/the-turing-way/pull/902)).
   Frances Madden worked on adding software citation in this chapter as well ([PR #902](https://github.com/alan-turing-institute/the-turing-way/pull/902)).
-* Esther reviewed the chapter on [Research Data Management](https://the-turing-way.netlify.com/rdm/rdm.html) and added some examples and on data citation ([PR #903](https://github.com/alan-turing-institute/the-turing-way/pull/903)).
+* Esther reviewed the chapter on [Research Data Management](https://book.the-turing-way.org/rdm/rdm.html) and added some examples and on data citation ([PR #903](https://github.com/alan-turing-institute/the-turing-way/pull/903)).
 
 ### Data management and publication
 * Heidi Seibold and Barbara Vreede worked on a new chapter on the topic Research Compendia, an approach to provide data, code, and documentation for reproducing a scientific workflow ([issue 834](https://github.com/alan-turing-institute/the-turing-way/issues/834), [PR #840](https://github.com/alan-turing-institute/the-turing-way/pull/840)).
@@ -288,7 +288,7 @@ If you would like to host these calls at other times, please get in touch with t
 If you want to start to get to know the project, or want to return after a long break, you can begin with our [good first issues](https://github.com/alan-turing-institute/the-turing-way/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). 
 If you have a new idea that you would like to add to the project as a new section in an existing chapter, or as a whole new chapter, you can start by creating a [new issue](https://github.com/alan-turing-institute/the-turing-way/issues/new/choose). 
 We also invite you to contribute in any capacity that's most suitable for your interests and availability. 
-Please help us review one of the several open [Pull Requests](https://github.com/alan-turing-institute/the-turing-way/pulls), join discussions on [these issues](https://github.com/alan-turing-institute/the-turing-way/issues) or get help in exploring resources that currently exists in [the book](https://the-turing-way.netlify.com/).
+Please help us review one of the several open [Pull Requests](https://github.com/alan-turing-institute/the-turing-way/pulls), join discussions on [these issues](https://github.com/alan-turing-institute/the-turing-way/issues) or get help in exploring resources that currently exists in [the book](https://book.the-turing-way.org/).
 
 ### Host a Collaboration Cafe or a book dash event
 

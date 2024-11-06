@@ -1,13 +1,13 @@
 # The Turing Way
 
-[![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://the-turing-way.netlify.com)
-[![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)
+[![Read the book](https://img.shields.io/badge/read-the%20book-blue.svg)](https://book.the-turing-way.org)
+[![Join our tinyletter mailing list](https://img.shields.io/badge/receive-our%20newsletter%20❤%EF%B8%8F-blueviolet.svg)](https://buttondown.com/turingway)
 [![Join the chat at https://gitter.im/the-turing-way/the-turing-way](https://img.shields.io/gitter/room/the-turing-way/the-turing-way?logo=gitter)](https://gitter.im/the-turing-way/the-turing-way)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853)
 [![](https://img.shields.io/static/v1?label=TuringWay&message=I%20want%20to%20contribute!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md)
 
 _The Turing Way_ 는 재생산 가능한 데이터 사이언스에 대한 가벼운 의견을 제시하는 가이드이다.
-이곳에서 읽을 수 있다 : <https://the-turing-way.netlify.com>
+이곳에서 읽을 수 있다 : <https://book.the-turing-way.org>
 당신은 가이드를 살아있게 만드는 모든 비트들이 있고 가이드를 쓰고 만드는 일이 일어나는 프로젝트 GitHub 저장소를 보고있다.
 
 우리의 목표는 연구원들이 그들의 프로젝트를 시작할 때 필요한 모든 정보를 제공하여 마지막에 쉽게 재현할 수 있도록 하는 것이다.
@@ -60,8 +60,8 @@ DOIs 를 사용하면 저장소를 보관할 수 있으며 학술 출판물에�
 
 > The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. <http://doi.org/10.5281/zenodo.3233986>
 
-당신은 또한 책의 페이지에 사람이 읽을 수 있는 URL을 공유할 수 있다. 예: <https://the-turing-way.netlify.com/reproducibility/03/definitions.html>, 그러나, 프로젝트는 발전 중이고 이 링크는 바뀔 수 있다는 것을 알아야 한다.
-당신은 웹 저장소를 포함하기를 원할 수도 있다. 예: <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> 모든 곳에서 부서진 링크로 끝나지 않는 다는 것을 명심해야 한다.
+당신은 또한 책의 페이지에 사람이 읽을 수 있는 URL을 공유할 수 있다. 예: <https://book.the-turing-way.org/reproducibility/03/definitions.html>, 그러나, 프로젝트는 발전 중이고 이 링크는 바뀔 수 있다는 것을 알아야 한다.
+당신은 웹 저장소를 포함하기를 원할 수도 있다. 예: <https://web.archive.org/web/20191030093753/https://book.the-turing-way.org/reproducibility/03/definitions.html> 모든 곳에서 부서진 링크로 끝나지 않는 다는 것을 명심해야 한다.
 
 우리는 _The Truing Way_에 대한 당신의 언급에 진심으로 감사하며 그것이 유용하기를 바란다. 만약 질문이 있다면 [get in touch](#get-in-touch).
 
@@ -87,7 +87,7 @@ _The Turing Way_ 삽화는 2019년 5월 17일 맨체스터, 2019년 5월 28일�
 우리는 gitter 채팅방이 있으며  <https://gitter.im/the-turing-way/the-turing-way>에 들리는 것을 매우 반긴다. 
 저 채팅방은 [#the-turing-way:matrix.org](https://riot.im/app/#/room/#the-turing-way:matrix.org)의  [Matrix](https://matrix.org)와도 동기화 되어 있으며 당신이 원한다면 우리는 언제나 참여하는 것을 환영한다.
 우리는 우리의 프로젝트가 매달 업데이트 되는 사항들을 메일로 보내주는 서비스도 진행한다.
-<https://tinyletter.com/TuringWay>을 구독하세요.
+<https://buttondown.com/turingway>을 구독하세요.
 
 당신은 우리 커뮤니티의 매니저 **Malvika Sharan**와 [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)의 이메일을 통해 연락할 수 있다.
 차선책으로는 수석 연구원인 **Kirstie Whitaker**와 [kwhitaker@turing.ac.uk](mailto:kwhitaker@turing.ac.uk)의 이메일을 통해 연락할 수 있다.

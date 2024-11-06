@@ -16,7 +16,12 @@ This chapter provides an abstract and broad view of what the FAIR principles are
 ```{figure} ../../figures/fair-principles.*
 ---
 name: fair-principles
-alt: Illustration of the FAIR principles to show the definition of being Findable, Accessible, Interoperable and Reusable.
+alt: >
+  Image in green and grey scale showing a winding, climbing pathway made of jigsaw pieces representing the FAIR principles, with stick figures continuing to build the pathway at the top.
+  In the top left hand corner, a highlight bubble shows a signposted pathway with a location marker labelled persistant as a visual representation of findable.
+  In the top right hand corner a highlight bubble shows a key unlocking a padlock with the text meaningful interaction as a visual representation of accessible.
+  In the bottom left hand corner a highlight bubble shows sharing between two computers as a visual representation of interoperable.
+  In the bottom right hand corner a highlight bubble shows a completed puzzle with the text full disclosure as a visual representation of reusable.
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
@@ -45,7 +50,7 @@ Data should be as open as possible, and as closed as necessary.
 
 It is also important to say that the FAIR principles are aspirational: they do not strictly define how to achieve a state of FAIRness, but rather describe a continuum of features, attributes, and behaviours that will move a digital resource closer to that goal.
 
-The FAIR principles are also applied to software (see [[LGK+20](https://the-turing-way.netlify.app/afterword/bibliography.html#id10)]and [[HCH+20](https://the-turing-way.netlify.app/afterword/bibliography.html#id9)]). Watch a [ten minute video on FAIR software](https://www.youtube.com/watch?v=ME8_NRGRhSs&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=16) for a short explanation.
+The FAIR principles are also applied to software (see [[LGK+20](https://book.the-turing-way.org/afterword/bibliography.html#id10)]and [[HCH+20](https://book.the-turing-way.org/afterword/bibliography.html#id9)]). Watch a [ten minute video on FAIR software](https://www.youtube.com/watch?v=ME8_NRGRhSs&list=PL1CvC6Ez54KDvJbbdLn5rPvf1kInifEh9&index=16) for a short explanation.
 
 ## FAIR principles and environmental sustainability
 
