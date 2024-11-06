@@ -107,13 +107,9 @@ For instance, the accepted version could be made publicly available after public
 height: 500px
 name: routes-to-OA
 alt: >
-  A train, carrying scientific findings, rides on a train track that's surrounded by other items. 
-  These items represent the advantages of open and disadvantages of closed publications:
-  1) On the site of the train track construction workers built two tunnels in parallel, illustrating the dublication of effort and funding.
-  2) The train tracks split into a dead end, representing what happens to research that's behind a paywall.
-  3) Track building materials are in a container labelled with tax money, showing that publicly funded work should be publicly available.
-  4) An observer carries a briefcase with scientific work; publicly available work benefits authors through more citations.
-  5) A small second train is moving in the background, illustrating that open-access articles are more likely to be reused.   
+  An image of a train showing the routes to open access publishing.
+  The green route is signalled as free and shows a preprint server at the start of the journey and self archive at the end.
+  The gold and diamond routes are signalled as author pay and funder or institution pay and show the publish in an open access journal part of the journey.
 ---
 Routes to publishing openly.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. Original version on Zenodo. [http://doi.org/10.5281/zenodo.5706310](http://doi.org/10.5281/zenodo.5706310)
@@ -135,7 +131,14 @@ Papers published openly are also more likely to have a citation advantage {cite}
 ---
 height: 500px
 name: share-work-openly
-alt: An poster image of a train journey and along the way five reasons why you should share your research openly are annotated.
+alt: >
+  A train, carrying scientific findings, rides on a train track that's surrounded by other items. 
+  These items represent the advantages of open and disadvantages of closed publications:
+  1) On the site of the train track construction workers built two tunnels in parallel, illustrating the dublication of effort and funding.
+  2) The train tracks split into a dead end, representing what happens to research that's behind a paywall.
+  3) Track building materials are in a container labelled with tax money, showing that publicly funded work should be publicly available.
+  4) An observer carries a briefcase with scientific work; publicly available work benefits authors through more citations.
+  5) A small second train is moving in the background, illustrating that open-access articles are more likely to be reused.   
 ---
 Advantages to sharing your research openly
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. Original version on Zenodo. [http://doi.org/10.5281/zenodo.5706310](http://doi.org/10.5281/zenodo.5706310)
