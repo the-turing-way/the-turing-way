@@ -140,7 +140,7 @@ alt: >
   4) An observer carries a briefcase with scientific work; publicly available work benefits authors through more citations.
   5) A small second train is moving in the background, illustrating that open-access articles are more likely to be reused.   
 ---
-Advantages to sharing your research openly
+Advantages to sharing your research openly.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. Original version on Zenodo. [http://doi.org/10.5281/zenodo.5706310](http://doi.org/10.5281/zenodo.5706310)
 ```
 
