@@ -29,9 +29,15 @@ For example, when writing a paper with multiple collaborators, version control c
 ```{figure}  ../figures/project-history.*
 ---
 name: project-history
-alt: Contrast in project history management. On the left - choosing between ambiguously named files. On the right - picking between successive versions (from V01 to V06).
+alt: >
+  The left shows a stack of ambiguously named files, shown as book-like objects.
+  A hand carefully tries to pull out one of the files without making the stack crumble. 
+  In contrast, the right shows a dial with options ranging from V1 to V6.
+  On top of the dial the six corresponding files are represented as ordered documents.
+  A hand moves the dial to V3, which highlights the third document on top in blue. 
 ---
-_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+  Version control, in contrast to ambiguously named files, enables easy picking between successive document versions. 
+  _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
 
