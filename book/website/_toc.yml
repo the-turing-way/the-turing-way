@@ -183,7 +183,16 @@ chapters:
             file: reproducible-research/binderhub/binderhub-build
           - title: Resources for BinderHub
             file: reproducible-research/binderhub/binderhub-resources
-      - title: Code quality
+      - title: Code Documentation
+        file: reproducible-research/code-documentation
+        sections:
+          - title: Code Documentation
+            file: reproducible-research/code-documentation/code-documentation-code
+          - title: Project Documentation
+            file: reproducible-research/code-documentation/code-project-documentation
+          - title: Other Resources
+            file: reproducible-research/code-documentation/code-documentation-resources
+      - title: Code Quality
         file: reproducible-research/code-quality
         sections:
           - title: Code Style and Formatting
