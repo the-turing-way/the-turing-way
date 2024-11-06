@@ -4892,6 +4892,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "aframosp",
+      "name": "Andrés Ramos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13357890?v=4",
+      "profile": "http://www.astro.rug.nl/~ramos",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "projectName": "the-turing-way",
