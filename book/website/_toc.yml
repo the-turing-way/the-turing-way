@@ -189,7 +189,7 @@ chapters:
           - title: Documenting Code
             file: reproducible-research/code-documentation/code-documentation-code
           - title: Project Documentation
-            file: reproducible-research/code-documentation/code-project-documentation
+            file: reproducible-research/code-documentation/code-documentation-project
           - title: Other Resources
             file: reproducible-research/code-documentation/code-documentation-resources
       - title: Code Quality
