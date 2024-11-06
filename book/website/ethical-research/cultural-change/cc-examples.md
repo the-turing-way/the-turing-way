@@ -101,7 +101,7 @@ The Strategy for Culture Change focuses on building targeted interventions and i
 However, the blog post, particulary the pyramid diagram, has drawn criticism for presenting a perspective that focuses too much on technology as a solution.
 This is compounded by the use of communities in the second tier of the strategy, after infrastructure has been built, as a mechanism to solely adopt changes built or agreed elsewhere.
 Some parties have a different opinion, and believe that communities themselves should be identifying and driving the infrastructure changes, rather than the other way around.  
-Regardless, this is an alternative model of cultural change which addressing the impact of wider forces affecting attempts to shift norms. 
+Regardless, this is an alternative model of cultural change which seeks to address the impact of wider forces affecting attempts to shift norms. 
 
 
 
