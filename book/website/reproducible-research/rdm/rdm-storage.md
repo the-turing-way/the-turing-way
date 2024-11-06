@@ -40,7 +40,8 @@ An open source project created a quite complete one at https://github.com/tonic-
 ```{figure}  ../../figures/file-management-manual.jpg
 ---
 name: Folder structure for research data
-alt: A protagonist has a file written "readme" on it and bring it to another protagonist who stays in front of a file drawer system. There are  three drawers labelled "data", "code", and "results".
+
+alt: A protagonist has a file with "readme" written on it and brings it to another person standing in front of a filing cabinet. The cabinet has three drawers labelled "data", "code", and "results".
 ---
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
