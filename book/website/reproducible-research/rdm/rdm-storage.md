@@ -70,7 +70,8 @@ You can structure folders based on the person that has generated the data/folder
 Structure your file names and set up a template for this.
 For example, it may be advantageous to start naming your files with the date each file was generated (such as `YYYYMMDD`).
 This will sort your files chronologically and create a unique identifier for each file.
-The utility of this process is apparent when you generate multiple files on the same day that may need to be versioned to avoid overwriting. File names should be friendly to both machines and humans.
+The utility of this process is apparent when you generate multiple files on the same day that may need to be versioned to avoid overwriting.
+File names should be friendly to both machines and humans.
 
 Some other tips for file naming include:
 - Use the date or date range of the experiment: `YYYYMMDD`
