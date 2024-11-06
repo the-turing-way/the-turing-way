@@ -15,7 +15,7 @@ The primary goal of the RO approach is to provide a mechanism to associate or li
 
 In this chapter, we will introduce ROs, their typologies and which platform and technologies exist to create and publish them.
 
-```{figure} ../figures/research-object.jpg
+```{figure} ../figures/research-object.*
 ---
 name: ro-lifecyle
 alt: This image shows how research objects evolve and grow in content during the collaboration process and how new research objects can be derived from existing ones.

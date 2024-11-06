@@ -34,7 +34,7 @@ Annotated diagram of repository after its basic creation, explaining the main fe
 - **3. Code:** this tab brings you back to your landing page. It shows you the folders that you have made in the repo.
 - **4. Main:** this is your default development branch or active branch of your repository.
 - **5. Branch:** parallel version(s) of your repository.
-- **6. README.md file:** this file contains basic information about your project (in this case it only has the project name: “trial-repo”. When we plan to make a website, this will be rendered as a landing (front) page for your site.
+- **6. `README.md` file:** this file contains basic information about your project (in this case it only has the project name: “trial-repo”. When we plan to make a website, this will be rendered as a landing (front) page for your site.
 
 On the right side of the webpage we have the following features:
 - **7. Green Code button:** click it to download your repository locally.
@@ -45,22 +45,22 @@ On the right side of the webpage we have the following features:
 - **12: Edit/Pencil symbol:** click this pencil symbol to edit your README.md file.
 ```
 
-## 3. Edit your README.md file
+## 3. Edit your `README.md` file
 
 Unless you have added any other files or included a license file during repo creation, you should have one file in your repository now - README.md.
-We'll need edit this file to add information about the repo.
+We'll need to edit this file to add information about the repo.
 This file is a Markdown file; you can see this because it has “.md” after the name of the file.
 This is where you start to use the Markdown formatting.
 Whatever you write in this file will be shown on the landing (front) page of your project on GitHub, so use it to tell people all about your project.
 
 ### Navigating the GitHub editing interface
-To edit your README.md file:
+To edit your `README.md` file:
 
 * You can click on the pencil symbol in the top right of the central box on your landing page.
 
 **Or**
 
-* Click on the README.md file and then click the pencil symbol.
+* Click on the `README.md` file and then click the pencil symbol.
 
 You can now edit the file.
 We'll talk about how to save your changes after some pointers on writing a good README.
@@ -101,18 +101,18 @@ Annotated diagram of README.md file in edit mode – before editing.
 * Tell people who you are and how you can be contacted.
 
 
-**NOTE: If you’re having trouble getting started, it’s a good idea to look at other peoples' README.md files.**
+**NOTE: If you’re having trouble getting started, it’s a good idea to look at other peoples' `README.md` files.**
 
 If you can’t get your raw markdown content to render in the way you want, it is also a good idea to find a file that has what you want and then look at the raw file.
-You can copy and paste other people’s raw file content into your README.md file and then edit it.
+You can copy and paste other people’s raw file content into your `README.md` file and then edit it.
 
-Here is an example of a really well formatted README.md file: [STEMM Role Models App](https://github.com/KirstieJane/STEMMRoleModels/blob/gh-pages/README.md)
+Here is an example of a really well formatted `README.md` file: [STEMM Role Models App](https://github.com/KirstieJane/STEMMRoleModels/blob/gh-pages/README.md)
 
-If you click the link above, it will take you to their README.file. You can use this as a template for your README.md file.
+If you click the link above, it will take you to their README file. You can use this as a template for your `README.md` file.
 
 * To look at the raw markdown file you need to click on the raw button (top right of the white box).
-* This takes you to the markdown raw file that is rendered into a nicely formatted README.md file on GitHub.
-* Now just copy and paste it into your README.md edit tab. You can now edit this for your project.
+* This takes you to the markdown raw file that is rendered into a nicely formatted `README.md` file on GitHub.
+* Now just copy and paste it into your `README.md` edit tab. You can now edit this for your project.
 * Remember to check what it looks like by clicking on the preview changes tab.
 * When you have finished editing, you need to scroll down to the bottom of the page and press the green commit changes button.
 
@@ -148,13 +148,13 @@ The standard licenses offered on GitHub are most approriate for software and won
 
 [Creative commons](https://creativecommons.org/licenses/) licenses are the best to use for this purpose, and the most open of these is the CC BY 4.0.
 
-To add a license to your repository, the first thing to do is create a LICENSE.md file:
+To add a license to your repository, the first thing to do is create a `LICENSE.md` file:
 
 * To do this, click on the Add file button, and click create file. This will give you a blank file.
-* Then, you need to name the file, so call it LICENSE.md. This makes it into a markdown file.
+* Then, you need to name the file, so call it `LICENSE.md`. This makes it into a markdown file.
 * You can find all the creative commons licenses in the link above so copy the text of the license you want and then paste it into this file.
 * Don’t forget to press the green commit new file button at the bottom and write a commit message to describe what you have done.
-* You can also add a link to the license to the bottom of your README.md file. Here is a link to a repository that you can copy to add in a [CC BY 4.0 license](https://github.com/santisoler/cc-licenses).
-It has a text file for your LICENSE.md file and also a shield (or badge) that you can put at the bottom of your README.md file.
+* You can also add a link to the license to the bottom of your `README.md` file. Here is a link to a repository that you can copy to add in a [CC BY 4.0 license](https://github.com/santisoler/cc-licenses).
+It has a text file for your `LICENSE.md` file and also a shield (or badge) that you can put at the bottom of your `README.md` file.
 
 You can find more information about licenses in the {ref}`rr-licensing` chapter of The Turing Way.

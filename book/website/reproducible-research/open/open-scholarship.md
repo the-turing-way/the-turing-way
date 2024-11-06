@@ -1,14 +1,17 @@
 (rr-open-scholarship)=
 # Open Scholarship
 
-Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship [{term}`def<Open Scholarship>`].
+Open research and its subcomponents fit under the umbrella of a broader concept - open scholarship.
 
 ```{figure} ../../figures/open-umbrella.*
 ---
 height: 500px
 name: open-umbrella
-alt: A depiction of Open Scholarship as an umbrella with other elements of Open Research beneath it.
+alt: >
+  An umbrella, titled Open Scholarship, has elements of Open Research beneath it:
+  open data, open source software, open source hardware, open access, open notebooks, citizen science, equity, diversity, inclusion, and open educational resources.
 ---
+  Open scholarship is an umbrella term that includes open data, open access, and other elements. 
 ```
 
 

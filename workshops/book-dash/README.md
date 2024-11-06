@@ -1,10 +1,23 @@
 # The Turing Way Book Dashes
 
-You can read more about the book dash in our [community handbook](https://the-turing-way.netlify.app/community-handbook/community-handbook.html).
+You can read more about the book dash in our [community handbook](https://book.the-turing-way.org/community-handbook/community-handbook.html).
 
-## Book Dash Events in 2020
+## Hybrid Book Dash Events in 2022
 
-* Reports of the [February 2020](book-dash-feb20-report.md) book dash events summarising the participants, contributions during the event and feedback.
+Report with links and resources:
+* [Book Dash May 2022](2022-May-BookDash-7.md)
+* [Book Dash November 2022](2022-Nov-BookDash-8.md)
+
+## Online Book Dash Event in 2020 and 2021
+
+Report with links and resources:
+* [Book Dash November 2020](2020-Nov-BookDash-4.md)
+* [Book Dash May 2021](2021-May-BookDash-5.md)
+* [Book Dash November 2021](2021-Nov-BookDash-6.md)
+
+## In-person Book Dash Event in May 2020
+
+* Reports of the [February 2020](2020-Feb-BookDash-3.md) book dash events summarising the participants, contributions during the event and feedback.
 * Presentation with the introduction to the project and book dash used at this event is available on Zenodo: [https://zenodo.org/record/3676553](https://zenodo.org/record/3676553).
 Cite as:
 > Malvika Sharan. (2020, February). The Turing Way Book Dash (Version 1). The Turing Way. Zenodo. http://doi.org/10.5281/zenodo.3676553
@@ -25,7 +38,7 @@ In the [`organisers_files-2020`](organisers_files-2020) folder you can find the 
 
 ## Book Dash Events in 2019
 
-* Reports of the [Manchester](book-dash-mcr-report.md) and [London](book-dash-ldn-report.md) book dash events summarising the participants, contributions during the event and feedback.
+* Reports of the [Manchester](2019-Mcr-BookDash-1.md) and [London](2019-London-BookDash-2.md) book dash events summarising the participants, contributions during the event and feedback.
 
 In the [`organisers_files-2019`](organisers_files-2019) folder you can find the following materials:
 

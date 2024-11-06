@@ -55,7 +55,7 @@ Annotated diagram of a collaborative project repository.
   - **1. Project:** This shows you the project boards for this repo.
   - **2. Issues:** All the tasks that have been raised on this repo.
   - **3. Files:** These are all the files in the repo.
-  - **4. Landing page or README.md file:** Your README.md file is automatically rendered as a landing page for your site.
+  - **4. Landing page or `README.md` file:** Your `README.md` file is automatically rendered as a landing page for your site.
 - Labels on the right-hand side of the image:
   - **5. Insights:** This shows you all the activity that has happened on your repo. 
   - **6. Edit repo details:** You can write a short description of your project and add labels.

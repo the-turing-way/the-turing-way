@@ -51,7 +51,7 @@ Please propose your suggestion below or reach out to *The Turing Way* team membe
   * The video will be available on the YouTube channel in the next days: [https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)
   * Turn on your webcam if you don’t mind sharing your face (or off if you do!)
 * Reminder: 
-    * **Code of conduct**: [https://the-turing-way.netlify.app/community-handbook/coc.html](https://the-turing-way.netlify.app/community-handbook/coc.html)
+    * **Code of conduct**: [https://book.the-turing-way.org/community-handbook/coc.html](https://book.the-turing-way.org/community-handbook/coc.html)
        * If you experience or witness unacceptable behaviour, or have any other concerns, please report it by contacting the project members - Malvika and Kirstie Whitaker (turingway@gmail.com).
        * To report an issue at the *Exploring gaps and opportunities for multilingual data science* event involving one of the organisers, please email one of the members individually (msharan@turing.ac.uk, kwhitaker@turing.ac.uk)
 * We have enabled the **closed caption (live transcription),** please click on 'cc' at the bottom of your Zoom screen
@@ -82,12 +82,12 @@ Please propose your suggestion below or reach out to *The Turing Way* team membe
 * *Couldn’t join this event but want to get involved? Check out other ways of connecting with us: *[http://bit.ly/turingway](*http://bit.ly/turingway*)
 * Shared notes for collaboration cafes: [https://hackmd.io/@turingway/collaboration-cafe](https://hackmd.io/@turingway/collaboration-cafe)
 * Weekly coworking calls: [https://hackmd.io/@turingway/coworking-call](https://hackmd.io/@turingway/coworking-call)
-* The Turing Way GitHub repository: [https://github.com/alan-turing-institute/the-turing-way](https://github.com/alan-turing-institute/the-turing-way)
+* The Turing Way GitHub repository: [https://github.com/the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)
 * All about online Collaboration Cafes
 * Turing Way calendar: [https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ)
-* Contribution guidelines: [https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md)
+* Contribution guidelines: [https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md)
 * Join us on Slack: [https://tinyurl.com/jointuringwayslack](https://tinyurl.com/jointuringwayslack)
-* Join the mailing list: [https://tinyletter.com/TuringWay](https://tinyletter.com/TuringWay)
+* Join the mailing list: [https://buttondown.email/turingway/](https://buttondown.email/turingway/)
 
 ## Feedback
 

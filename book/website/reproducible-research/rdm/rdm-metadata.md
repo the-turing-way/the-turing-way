@@ -6,6 +6,7 @@ For example, a table of numbers is useless if no headings describe what the colu
 Therefore you should ensure that open datasets include consistent metadata, that is information about the data so that the data is fully described.
 This requires that information accompanying data is captured in documentation and metadata. 
 
+(rr-rdm-metadata-documentation)=
 ## Documentation
 Documentation provides context for your work. 
 It allows your collaborators, colleagues and future you to understand what has been done and why.
@@ -17,12 +18,13 @@ Documentation allows data users have sufficient information to understand the so
 ```{figure} ../../figures/documentation.*
 ---
 name: documentation
-alt: The figure goes through a dark wood setting lights alongthe way. The lights are blocks of text - one can see that these are pieces of documentation. They make it easy for collegues to find their way. In the darkness one sees another figure - someon got lost in the woods where no documentation was available.
+alt: The figure goes through a dark wood setting lights along the way. The lights are blocks of text - one can see that these are pieces of documentation. They make it easy for collegues to find their way. In the darkness one sees another figure - someone got lost in the woods where no documentation was available.
 ---
 Illustration about peer review.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807.
 ```
 
+(rr-rdm-metadata-metadata)=
 ## Metadata
 
 Metadata is information about the data, descriptors that facilitate cataloguing data and data discovery. 
@@ -33,7 +35,7 @@ If the data is not in a repository a text file with machine-readable metadata ca
 
 - The type of research and the nature of the data also influence what kind of documentation is necessary. 
 - The level of documentation and metadata [{term}`def<Metadata>`] will vary according to the project, and the range of people the data needs to be understood by.
-- Examples of documentation may include items like [data dictionaries](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary) or codebooks, protocols, logbooks or lab journals, README files, research logs, analysis syntax, algorithms and code comments.  
+- Examples of documentation may include items like [data dictionaries](https://help.osf.io/hc/en-us/articles/360019739054-How-to-Make-a-Data-Dictionary) (see [here for a template](https://data.nal.usda.gov/data-dictionary-blank-template)) or codebooks, protocols, logbooks or lab journals, README files, research logs, analysis syntax, algorithms and code comments.  
 - Variables should be defined and explained using data dictionaries or codebooks.
 - Data should be stored in logical and hierarchical folder structures, with a README file used to describe the structure.
 The README file is helpful for others and will also help you find your data in the future {cite:ps}`Fuchs2018documentation`.
@@ -53,3 +55,27 @@ There are also situations when researchers make use of more general metadata sta
 In this case, a text file with discipline specific metadata can be added as part of the documentation.
 
 Want to learn more about Metadata and Metadata Standards? Watch an [introduction video](https://commons.esipfed.org/node/1422).
+
+
+(rr-rdm-metadata-tagging)=
+## Tagging
+
+Tags are keywords assigned to files, and a way to add metadata to a file to organise them more flexibly.
+While a file can only be in one folder at a time, it can have an unlimited number of tags. 
+
+Some tips include:
+- Use short tag names (one or two words)
+- Be consistent with tags
+- Not all file formats allow tags, and when files are transferred tags may be stripped
+
+See [Tagging and Finding Your Files by MIT libraries](https://libguides.mit.edu/metadataTools)) for more information. 
+
+(rr-rdm-metadata-resources)=
+## Additional Resources
+- Videos on [Data Description](https://www.youtube.com/watch?v=sg3P_V8PIes) & [Documentation and Data Quality](https://www.youtube.com/watch?v=3ByfQWDcavg) from the [TU Delft Open Science MOOC](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/).
+- Example of data documentation by {cite:ps}`Larsen2021Documentation`
+- [Webinar: The Data You Document are the Data We Love](https://youtu.be/SoFxBN-Jnbg?t=1133)
+- [Slides: FAIRify your data: data documentation and metadata](https://osf.io/wbr7t/)
+- [Controlled vocabularies for the social sciences: what they are, and why we need them](https://odissei-data.nl/en/2022/10/controlled-vocabularies-for-the-social-sciences-what-they-are-and-why-we-need-them/)
+- [Research Data Management: Metadata](https://libguides.ucd.ie/data/metadata)
+- Data dictionaries and codebooks by {cite:ps}`Buchanan2021dictionaries`.

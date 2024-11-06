@@ -51,3 +51,11 @@ Think ahead and plan how you will:
 * control access permissions
 
 * prepare data for archiving/sharing at the end of the project if possible (see {ref}`Sharing and archiving data<rr-rdm-sharing>`)
+
+(pd-sdpm-informed-resources)=
+## Additional resources and templates
+* [Data User Agreement, Open Brain Consent](https://open-brain-consent.readthedocs.io/en/latest/gdpr/data_user_agreement.html)
+* [Ultimate consent form, Open Brain Consent](https://open-brain-consent.readthedocs.io/en/latest/ultimate.html)
+* [Ultimate consent form - GDPR edition, Open Brain Consent](https://open-brain-consent.readthedocs.io/en/stable/gdpr/ultimate_gdpr.html)
+
+

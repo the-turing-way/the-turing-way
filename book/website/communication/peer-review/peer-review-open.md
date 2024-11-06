@@ -1,6 +1,15 @@
 (cm-pr-open)=
 # Open Peer Review
 
+```{figure} ../../figures/open-peer-review.*
+---
+height: 500px
+name: open-peer-review
+alt: Cartoon-like sketch, in black and white with orange shading, of a three tiered cake with the title Open Peer Review at the top. On the bottom level of the cake is the word collaboration with different types of people standing on this level of the cake looking thoughtful. Each person has a speech bubble over them with an eye in it. There are more thoughtful people standing on the second tier and the third and top tier has three people holding a written document with the words supporting quality over them. At the side of the cake are the words recognition, on the left side, and content and process, on the right side. 
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
 ## What is Open Peer Review? 
 
 Open Peer review can refer to various practises, including signing your review, publishing reviews along with the paper, and allowing for the community to contribute to the peer review process ([Open Science Community Utrecht](https://openscience-utrecht.com/peer-review)). Below some different types of Open Peer Review are highlighted, as well as the benefits of opening up the peer review process.
@@ -52,7 +61,12 @@ The ability of double-anonymized review to address biases in peer review remains
 (cm-pr-open-initiatives)=
 ## Initiatives suppporting Open Peer Review
 
+* [PREreview](https://prereview.org/)
 * [Open Review](https://openreview.net)
 * [F1000](https://f1000research.com/)
 * [Open Research Europe](https://open-research-europe.ec.europa.eu)
 * [SciPost](https://scipost.org/)
+* [Peer Community In](https://peercommunityin.org/)
+
+
+

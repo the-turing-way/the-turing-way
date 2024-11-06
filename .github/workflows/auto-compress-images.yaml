@@ -1,0 +1,27 @@
+name: Automatically compress image files
+
+on:
+  pull_request_target:
+    # Only trigger when images have changed
+    paths:
+      - '**.jpg'
+      - '**.jpeg'
+      - '**.png'
+      - '**.gif'
+
+jobs:
+  compress-images:
+    runs-on: ubuntu-latest
+    environment: compress-images
+    # Set permissions on GITHUB_TOKEN
+    permissions:
+      contents: write  # Make commits
+      pull-requests: write  # Post a comment on a PR
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Compress images
+        uses: crush-pics/crush-pics-github-action@v1.0
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          api-key: ${{ secrets.CRUSHPICS_API_KEY }}

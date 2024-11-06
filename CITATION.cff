@@ -1,30 +1,20 @@
 cff-version: 1.2.0
-message: "To reference the latest version of The Turing Way, please cite it as below."
+message: To reference the latest version of The Turing Way, please cite it as below.
+title: The Turing Way handbook for reproducible, ethical and collaborative research
+abstract: This is the most recent release of the main repository of The Turing Way Book
 authors:
   - name: "The Turing Way Community"
-title: "The Turing Way: A handbook for reproducible, ethical and collaborative research"
-version: 1.0.2
+version: 1.2.2
 identifiers:
-  - description: The concept DOI for the collection containing all versions of the Citation File Format.
+  - description: This is the collection of archived snapshots of all versions of The Turing Way.
     type: doi
     value: "10.5281/zenodo.3233853"
 license: "CC-BY-4.0"
-date-released: "2022-07-27"
-keywords:
-  - research practices
-  - data science
-  - reproducibility
-  - collaboration
-  - ethics
-  - community
-  - handbook
-doi: 10.5281/zenodo.3233853
+date-released: "2024-06-05"
 references:
   - type: book
     authors:
       - family-names: All contributors
         given-names: The Turing Way Community
-        affiliation: "The Alan Turing Institute, London, UK"
-        email: "theturingway@gmail.com"
-        website: "https://github.com/alan-turing-institute/the-turing-way/"
-    title: The Turing Way Project
+    title: "The Turing Way Project"
+    year: 2024

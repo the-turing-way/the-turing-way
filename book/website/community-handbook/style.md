@@ -24,6 +24,30 @@ There is no one alive who is youer than you.
 - Dr Seuss
 ```
 
+### A note on bullet points
+
+If you want to add multiple sentences inside a bullet point, we recommend indenting the sentences following the initial sentence with two spaces.
+Consider the example below.
+
+```markdown
+Dr Seuss said:
+- Today was good. Today was fun. Tomorrow is another one.
+- The more that you read, the more things you will know. The more that you learn, the more places you'll go.
+```
+
+Similarly to the example in the section above, we should change this to have the sentences on separate lines:
+
+```markdown
+Dr Seuss said:
+- Today was good.
+  Today was fun.
+  Tomorrow is another one.
+- The more that you read, the more things you will know.
+  The more that you learn, the more places you'll go.
+```
+
+This will render the same as the example with all sentences in one bullet point line, but will make it easier to see changes in pull requests.
+
 ## Opinions are welcome, but ...
 
 _The Turing Way_ book is intended to be only *lightly* opinionated.
@@ -43,7 +67,7 @@ Note, that the formatting will be retained, so we can split each sentence to a n
 ## Avoid Latin Abbreviation
 
 Please do not use Latin abbreviations.
-See the [Gov.uk recommendations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style) for details.
+See the [Gov.uk recommendations](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style#eg-etc-and-ie) for details.
 
 Some of these abbreviations are:
 
@@ -55,6 +79,7 @@ alt: an image with a list of 3 latin abbreviations
 ---
 A list of latin abbreviations for *exempli gratia* (for example), *et-cetera* (so on), and *id est* (that is).
 Screenshot of part of the [list of Common Latin Abbreviations for APA Style](https://blog.apastyle.org/files/apa-latin-abbreviations-table-2.pdf).
+We use a screenshot instead of plain text to comply with continuous integration tests (see below).
 ```
 
 Instead of the first abbreviation in the table for *exempli gratia*, which can sometimes read aloud as ‘egg’ by screen reading software, please use ‘for example’ or ‘such as’ or ‘like’ or ‘including’ - whichever works best in the specific context.
@@ -64,7 +89,7 @@ Instead of the second abbreviation in the table for *et-cetera* to indicate open
 Instead of third abbreviation in the table for *id est* that is often used to clarify a sentence, try (re)writing sentences to avoid the need to use it.
 If that is not possible, use an alternative such as ‘meaning’ or ‘that is’.
 
-Any chapter containing a Latin abbreviation will fail the continuous integration (CI) workflow of the _The Turing Way_ GitHub repository from passing successfully, which is tested by this [Python script](https://github.com/alan-turing-institute/the-turing-way/blob/main/tests/no-bad-latin.py).
+Any chapter containing a Latin abbreviation will fail the continuous integration (CI) workflow of the _The Turing Way_ GitHub repository from passing successfully, which is tested by this [Python script](https://github.com/the-turing-way/the-turing-way/blob/main/tests/no-bad-latin.py).
 
 *To avoid CI from failing, even in this chapter we have avoided to write those abbreviations and instead used an image to illustrate the above examples.*
 
@@ -93,7 +118,7 @@ Instead, the following is recommended:
 
 ### External links
 
-Write external links using "http://" instead of "www". This ensures they are correctly recognised as hyperlinks.
+Write external links using "https://" instead of "www". This ensures they are correctly recognised as hyperlinks.
 
 ### Chunks with code or special text
 

@@ -3,6 +3,15 @@
 
 Data Wranglers can be viewed as a specialised type of data scientist, primarily working in the space between data generators and data analysts. There are many activities that a data scientist might undertake, for example, data collection, wrangling, analysis, modelling, visualisation and communication. How these activities map onto different job titles is domain specific and will vary on a project and organisational level.
 
+```{figure} ../../figures/data-wrangler.*
+---
+width: 500px
+name: data-wrangler
+alt: Hand-drawn illustration by Scriberia. A person representing a Data Wrangler is in a central bubble, on their left there are links to three clusters of connected shapes representing unstructured data. The Data Wrangler ‘unravels’ these clusters and re-structures them to form three distinct presents, labelled ‘Research Ready Data’, shown to the right of the central bubble. Attached to the central bubble there are smaller individual bubbles labelled ‘Connecting Specialists' (shown by a triangle of linked people), 'Data Privacy and Security’ (padlock) and 'Data Quality and Standards (sparkling diamond).
+---
+A Data Wrangler collaborates with multiple specialists to provide research-ready data whilst upholding data privacy and domain-specific standards. Created by Scriberia with The Turing Way community. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
 (cl-infrastructure-data-wranglers-tasks)=
 ## What do Data Wranglers do?
 
@@ -74,11 +83,14 @@ Here are some examples of places that employ Data Wranglers in the UK:
    * Project: [The Artificial Intelligence for Multiple Long-Term Conditions, Research Support Facility](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility)
 * [EMBL's European Bioinformatics Institute](https://www.ebi.ac.uk/)
    * Project: [The Human Cell Atlas](https://www.humancellatlas.org/)
+* NHS England
+   * Project: [NHSE Secure Data Environment](https://digital.nhs.uk/services/secure-data-environment-service)
+   * Description: NHS England Data Wranglers support a wide range of research done by health and social care organisations using the National Secure Data Environment (NSDE) to ensure the data is in an accessible format. They also help suggest and test platform improvements, produce *"here's one I made earlier"* analyses, to save users time and advise on data in a technical capacity.
 
-_Please get in touch if you know of other organisations that you would like to add to this list. This list, and this Data Wrangler page in general, is focused around Data Wrangler roles within an  academic research context, but they will also exist within an industry context._
+_Please get in touch if you know of other organisations that you would like to add to this list. This list, and this Data Wrangler page in general, started off with a focus on Data Wrangler roles within an  academic research context, but these roles will also exist within other contexts._
 
 (cl-infrastructure-data-wranglers-summary)=
-# Data Wranglers: Summary
+## Data Wranglers: Summary
 
 A Data Wrangler position is becoming recognised as a crucial part of any project that involves large amounts of complex data, specifically in a research context.
 They will have a diverse set of technical and interpersonal skills.

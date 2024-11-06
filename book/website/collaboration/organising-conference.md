@@ -55,6 +55,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - Create possibilities for people to ask for support to attend your event.
 - Create a reporting guideline for any questions, concerns or breaches of the Code of Conduct.
 - Describe how you intend to create an inclusive event, for example, will there be a sign language interpreter or live transcription.
+- Consider allocating a budget that can be dedicated to addressing transportation needs for attendees who benefit from accessibility support. 
 - Create one single location for all the information (like an A-to-Z) regarding the events.
 - Host a few community calls in different stages of planning to involve the audience in the process.
 - Invite volunteers who can help you troubleshoot some specific issues.
@@ -72,7 +73,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - Create appropriate channels for the registered participants (general, introduction, social, program).
 - Have an announcement channel that can be used for announcing important information by the committee members.
 - If the organisation account is not open for others to join, then create an open channel for participants.
-- Create a social media account on Twitter for announcements, branding, improving visibility and wider outreach.
+- Create a social media account on X/Twitter for announcements, branding, improving visibility and wider outreach.
   - Assign 1-2 volunteers or committee members who can handle social media in collaboration with the committee.
 
 ### Storing and sharing information within the organising committee
@@ -91,7 +92,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 ***Mid-phase***
 
 - Allocate sufficient budget for organising this event (for example for the tools, equipment and childcare).
-- First place to confirm your budget and support for handling it is your organisation.
+- The first place to confirm your budget and support for handling it is your organisation.
 - Looking for sponsorship early on is always a good idea.
   - In the early phase, even though not all the information is sorted, use the website to attract sponsors.
 - Decide how big your event should be based on the available resource (such as online communication tools, assigned budget of the event, size of your community).
@@ -102,16 +103,16 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 ***Mid-phase***
 
 - Allocate part of your budget for the participation support grant that can be requested by the applicants for the following support:
-  - Free or subsidized childcare during the event so that the participant can attend the event without worrying about taking care of their children.
+  - Free or subsidized childcare during the event so that the participants can attend the event without worrying about taking care of their children.
   - Software cost or subscription fee if the one being used by the event is not freely available.
-  - Hardware or equipment for facilitating participation, such as headsets, microphone, webcam (create a list of hardware that can be funded by the support grant).
+  - Hardware or equipment for facilitating participation, such as headsets, microphones, webcams (create a list of hardware that can be funded by the support grant).
   - High-speed internet for the duration of the event.
   - Other aspects that may improve the quality of participation of the applicants.
-- Consider the possibility of waiving the registration fee for people from low-income organisation/country.
+- Consider the possibility of waiving the registration fee for people from a low-income organisation/country.
 - Create a rubric for selection.
 - Share the application form before the registration deadline.
 - Communicate clearly how many participation support grants are available and what they include.
-- Send decision for participation support grant applicants as soon as possible so that they can decide if they can register to attend the event.
+- Send decisions to participation support grant applicants as soon as possible so that they can decide if they can register to attend the event.
 
 ### Event theme and duration
 
@@ -120,6 +121,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 - Identify your target audience within your community and organisation.
 - Invite community members to suggest ideas and collectively choose the most relevant theme.
 - Identify the most suitable time zone and the duration of the event.
+- Avoid scheduling your event on national holidays or religious and cultural days, you may also want to consider avoiding other days and timings that would make attendance difficult for your desired audience.
 - Use a standard time with a link to different time zones (like [arewemeetingyet](https://arewemeetingyet.com)) when communicating about the event.
 - Add the exact date, time, location (if any!) and choice of tool that will be used for communication.
 
@@ -142,16 +144,9 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 ***Mid-phase***
 
-- If possible use a registration platform such as [Eventbrite](https://www.eventbrite.com/) that stores data centrally, works on most browsers, and enables secure credit card payment.
-- Collect participant details like their name, email, affiliation, accessibility requirements, motivation for participating, and agreement to the privacy statement.
-- Clearly explain why you’re asking for sensitive information and how will you handle those data.
-- If you ask an optional question, make it clear that it’s optional.
-- Do not rely on colour to communicate your questions.
-- Provide clear explanations for complicated questions to guide people towards choosing the correct answer/option.
-- Sequence your questions logically after each other.
-- Provide contact information of the committee member who can be contacted regarding any errors or questions related to registration.
-- Clearly state the next steps upon clicking the submit button.
-- Link the registration form clearly on the webpage and advertise across different community platforms.
+It is important to consider what information you need to collect and how you will do this in the registration form.
+
+For more details, see the next sub-chapter on registration forms. 
 
 ### Community suggestion and feedback forms
 
@@ -176,7 +171,7 @@ A few subsections are marked as "Relevant for all phases", as those aspects shou
 
 *Agree as a committee and what the rough agenda for the event's program will be. Create slots for keynotes, breakout discussions, workshops, poster and lightning talk session.
 Provide designated time slots for social events in the main program.
-Make sure that after each talk/session there is 5 minutes break to allow people to log in to the right online call link, switch rooms, ask a logistics-related question.
+Make sure that after each talk/session there is 5 minutes break to allow people to log in to the right online call link, switch rooms, and ask any logistics-related questions.
 Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 
 - Identify speakers and sessions for the event from the selected abstracts for the talks and community voted sessions.
@@ -214,7 +209,7 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
   - If possible, provide a grant to buy necessary equipment such as headphones, webcams, and/or high-speed internet.
 - Share the participation guidelines, code of conduct and contact information of people who can help with any issues regarding the meeting.
 - Send a reminder with the links to the document(s) and other important resources to all the participants a week and a day in advance.
-- Create slides or presentations that might be needed from the organisers side (welcome, wrap up).
+- Create slides or presentations that might be needed from the organiser's side (welcome, wrap up).
 
 ### Organise a pre-event community call
 *Often referred to by different names such as installation party, coffee-hours or set-up test fest*
@@ -263,7 +258,7 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 - Plan the seating arrangement so that people are facing to the main screen/camera.
 - Test the screen with different light intensity.
 - Arrange all the required materials and equipment, like extension cords or power strips.
-- Create a form to collect dietary requirements, interest in participating in a social event, mobility-related requirement and other location-specific requests.
+- Create a form to collect dietary requirements, interest in participating in a social event, mobility-related requirements and other location-specific requests.
 - Arrange for beverages/snacks for the breaks, and ensure that the catering service will label the food for contents/allergens.
 - If organising any location-specific social event, run that in parallel to the remote social event.
   - Book social event venue, transfer, and catering and communicate them clearly.
@@ -277,7 +272,7 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 
 - Start the video call, or any communication channel 30 minutes before the event to check that everything works.
 - Share links to the documents and other resources for the event on the chat system like Slack.
-- Remind attendees of the community participation guideline and the Code of Conduct.
+- Remind attendees of the community participation guidelines and the Code of Conduct.
 - Introduce the organising committees and the Code of Conduct contact person for the event.
 - Introduce the format of the meeting and when the breaks are scheduled.
 - Explain the basic protocols for participation.
@@ -286,7 +281,7 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 - Remind the guidelines for participating in discussions.
   - Raise hand - on chat, or virtually (like in [Zoom](https://zoom.us/)) or physically.
   - Other ways to involve others in the discussion equitably.
-- Ask everyone to write down their name, contact (Twitter, email) and other relevant information.
+- Ask everyone to write down their name, contact (X/Twitter, email) and other relevant information.
   - Provide a place to write down pronouns, but keep that optional.
 - Start the meeting with an icebreaker question.
   - Create opportunities for everyone to share something personal (about their hobby, or experiences) on the document or verbally.
@@ -300,8 +295,9 @@ Provide plenty of breaks, and treat those breaks as virtual coffee sessions.*
 (cl-organising-conferences-after)=
 ## After the event
 
+- Consider how you will ensure that everyone is able to access return transport safely if your conference is hosted in-person or hybrid.
 - Create a debrief document to capture what went well and what could be improved in future events.
-- Create a small overview blog post to share the main highlights from the event with community/participants immediately.
+- Create a small overview blog post to share the main highlights from the event with the community/participants immediately.
 - Collect any additional documents or information mentioned by others/speakers during the events.
 - If the event sessions and talks were recorded, process and publish the recorded videos within a defined time frame.
 - Send thank you emails to everyone with the link of the complete notes and all the relevant information.

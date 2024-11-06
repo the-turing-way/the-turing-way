@@ -1,0 +1,55 @@
+name: External Link Check
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * MON"
+
+jobs:
+  external-link-check:
+    name: External Link Check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout-repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: make deps
+        working-directory: ./book
+
+      - name: Build Jupyter-Book
+        run: make book
+        working-directory: ./book
+
+      - name: Restore lychee cache
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }} # save cache using commit sha
+          restore-keys: cache-lychee- # restore latest cache (not a specific commit)
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2.0.2
+        with:
+          args: --config './lychee.toml' --no-progress 'book/website/_build/html/**/*.html'
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} # Use runner's GitHub token to avoid rate limiting
+
+      - name: Concatenate Lychee output with issue header
+        run: cat .github/workflows/resources/external_link_check_header.md lychee/out.md > issue_text.md
+
+      - name: Update Issue
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Broken links
+          issue-number: 3171
+          content-filepath: issue_text.md
+          token: ${{secrets.GITHUB_TOKEN}}
+          labels: |
+            infrastructure
+            caretaking
