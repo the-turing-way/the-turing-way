@@ -59,4 +59,4 @@ How to write code comments depends on the programming language and the codinging
 - [Best practices for writting code comments](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/)
 - [Docstrings Converntions for Python](https://peps.python.org/pep-0257/)
 - [Creating docstrings in R](https://josephcrispell.github.io/2021/07/26/creating-R-docstring.html)
-- [Writtig human readable code](./book/website/project-design/code-styling/code-styling-readability.md)
+- {ref}`pd-code-styling-readability`
