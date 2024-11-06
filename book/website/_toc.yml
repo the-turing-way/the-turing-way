@@ -466,8 +466,10 @@ chapters:
         sections:
           - title: Steps for Making Research Objects Citable
             file: communication/citable/citable-steps
-          - title: Citing Research Objects
+          - title: Citing your own Research Objects
             file: communication/citable/citable-cite
+          - title: Citing other peoples Research Objects
+            file: communication/citable/citable-otherscite
           - title: Software citation with CITATION.cff
             file: communication/citable/citable-cff
           - title: Create a CITATION.cff using CFFinit
