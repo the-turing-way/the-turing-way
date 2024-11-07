@@ -106,6 +106,26 @@ Or paste this line directly into your browser bar:
 
 Open `index.html` in your web browser to look at your local build.
 
+### Other Targets
+
+There are other build targets you can use.
+The `strict` target is useful for debugging.
+It will make any warnings raise an error, but also continue the build.
+That way, all warnings should be presented to you as errors.
+Run the strict build with,
+
+```console
+$ make strict
+```
+
+You can build the book with user pathways with,
+
+```console
+$ make pathways
+```
+
+This is the build of the book which is deployed to the website.
+
 ## Build the Book While Working on a Pull Request
 
 If you would like to preview a version of the book from a certain branch (perhaps to render the book while working on a PR) then simply switch to the required branch and rebuild the book as in step 9:
