@@ -94,19 +94,6 @@ $ make clean
 
 More details on this process can be read in [Jupyter Book's documentation](https://jupyterbook.org/en/stable/basics/build.html?highlight=clean#clean-your-books-generated-files).
 
-### Check External Links
-
-When editing or reviewing this book locally, you can run the Sphinx link checker with Jupyter Book to check if the external links mentioned in the book are valid.
-To run the link checker, use the following command:
-
-```console
-cd book/website
-jupyter-book build . --builder linkcheck
-```
-
-The link checker checks if the each link resolves and prints the status on your terminal so that you can check and resolve any incorrect links.
-Read more about this in [Jupyter Book's documentation](https://jupyterbook.org/en/stable/advanced/html.html?highlight=check%20external#check-external-links-in-your-book).
-
 ## Why we Recommend Using a Virtual Environment
 
 In the step-by-step guide above, we made use of `jupyter-book` to build the Turing Way book.
