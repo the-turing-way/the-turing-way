@@ -5,7 +5,7 @@
 
 It is useful to preview changes you have been working on as you go on your local machine.
 You can be confident that changes you have made are accurate and as intended and it will likely be quicker than waiting for a preview to be build from a pull request.
-You can replicate the build process using `make` and [Jupyter Book](https://jupyterbook.org/en/stable/intro.html).
+You can replicate the build process using [`make`](rr-make) and [Jupyter Book](https://jupyterbook.org/en/stable/intro.html).
 
 ## Step-by-step Guide
 
