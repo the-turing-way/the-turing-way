@@ -151,19 +151,15 @@ $ make clean
 
 ## Why We Recommend Using a Virtual Environment
 
-In the step-by-step guide above, we made use of `jupyter-book` to build the Turing Way book.
-For this program to work as intended you will need a Python installation on your machine.
+In the [step-by-step guide](#step-by-step-guide), we used Jupyter Book to build the Turing Way.
+For this program to work as intended you will need a Python installation and set of dependencies on your machine.
 
-As with any other programming language such as R or Julia, any given Python installation might look different from another due to the different packages or libraries that come with the installation.
+If you want to use other Python projects, they will also have their own dependencies.
+You may encounter cases where the dependencies of two packages conflict with each other and it becomes difficult, or impossible, to satisfy both sets of dependencies simultaneously.
 
-Over time you will likely install even more packages, or update packages to newer versions.
-Some packages also depend on the presence of specific versions of other packages to function, and so to ensure your local build works smoothly you will want to minimize as much mismatched dependencies as possible.
-
-This can be difficult!
-Even with an organized, concerted effort, package management for programming languages naturally throws up dependency issues.
-Python packages, for reasons not discussed here, tend to suffer from dependency issues a bit more than other languages (note that all languages do!) and one guaranteed way to come across such an issue by trying to maintain all of your Python projects using just one, large set of packages, each at a specific version.
-You simply can't cater to the needs of all package dependencies this way.
-Creating an environment on your local machine for _The Turing Way_ is a great way to minimize dependency issues.
+Using virtual environments minimises dependency problems.
+It allows us to install Python packages and all their dependencies in separate, dedicated directories.
+That way, packages with incompatible dependencies are not a problem because they each have a independent installations and do not share resources.
 
 ```{figure} https://imgs.xkcd.com/comics/python_environment.png
 ---
