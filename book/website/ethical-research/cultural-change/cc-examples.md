@@ -77,7 +77,7 @@ The first four steps in the transformation process help to convince people or an
 Phases five to seven introduce new practices. 
 The last stage focusses on making these new practices stick. 
 
-(er-cultural-change-pyramid)
+(er-cultural-change-pyramid)=
 ## Strategy for Culture Change - Brian Nosek
 
 In a 2019 [blog post](https://www.cos.io/blog/strategy-for-culture-change), Brian Nosek of the Center for Open Science, presented the Strategy for Culture Change.
