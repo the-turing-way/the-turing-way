@@ -96,6 +96,7 @@ To organise a hub, you will need to consider which days are most suitable to org
 This may depend on your availability, the availability of rooms, or events that take place during the Book Dash event. 
 For the TU Delft Hub we always organised the in-person hub on the Tuesday and the Wednesday, so that we avoid the first online day which is focused on introductions, as well as the 'scriberia' day that usually takes place on Thursday. 
 You will need to arrange or consider the following: 
+
 - Book an event location based on the amount of registrations you will expect (maximum 20 persons, realistically speaking it will probably be more towards 10 people joining)
 - Make sure there are some snacks and drinks available
 - Consider if you want to host a dinner on one of the days - this may require budget or communication to participants that they need to cover the dinner themselves
