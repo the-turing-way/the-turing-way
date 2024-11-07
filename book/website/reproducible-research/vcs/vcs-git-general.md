@@ -158,6 +158,28 @@ When getting ready to create a commit there you can select which of the changes 
 This is called 'staging' the changes.
 This is a step where a user interface to git can be especially useful as they can show you what changes you have made add which you are proposing to include in your next commit.
 
+When bringing divergent branches back together in git, a process called merging, there a some different approaches that you can take.
+
+```{figure} ../../figures/git-merge.*
+---
+name: git merge 
+alt: >
+  It points to another box containing a file labeled 'View' showing a file from this point in the git history. 
+---
+```
+Merging the branches creating a new 'merge commit'.
+
+`7JA...04Z + 4GW...04Z` 
+
+Or performing a 'fast-forward merge' effectively 'cherry picking' the commits from your development branch and rebasing them on the tip of your main branch.
+Because this changes the parent commit of the these new commits they get new hash values.
+This effectively replays the changes made in the development branch starting from the last change in main branch instead of starting from where they originally diverged.
+
+`7JA...04Z + WN7...7JA`
+
+This different order of operations can produce different end results but the main difference is in the structure of the history you are left with.
+A merge commit retains the two independent histories, the fast forward yields a nice linear history.
+
 In summary: Most everything in git is some kind of operation on this tree.
 
 - Preparing to add to the tree
