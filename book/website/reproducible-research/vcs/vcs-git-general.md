@@ -50,8 +50,8 @@ In many cases, one still needs to use the command lines for complex matters, and
 (rr-vcs-git-understanding)=
 ## Understanding git
 
-git is not autosave, it is not a tool for capturing whatever random changes you have made since you sat down to work on a file.
-git is a tool for authoring a coherent narrative history of your project.
+Git's role is different from an autosave feature, it is not a tool for capturing whatever random changes you have made since you last started to work on a project.
+Git is a tool for authoring a coherent narrative history of your project, in convenient discrete increments called commits.
 Commits should be made with deliberation, considering: 'Is this unit of change a useful one to record in the project history?'
 Commits should be granular, with commit messages emphasising why a change was made with perhaps some element of summary description of the changes.
 
