@@ -248,6 +248,8 @@ chapters:
             file: reproducible-research/code-reuse/code-reuse-overview
           - title: Detailed Recommendations for Code Reuse
             file: reproducible-research/code-reuse/code-reuse-details
+          - title: Reusing code by creating software packages
+            file: reproducible-research/code-reuse/code-reuse-packages
       - title: Continuous Integration (CI)
         file: reproducible-research/ci
         sections:
