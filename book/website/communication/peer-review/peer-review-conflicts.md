@@ -18,18 +18,18 @@ COIs can be divided into main two groups, financial and non-financial {cite:ps}`
 * Employment or voluntary involvement
 * Collaborations with advocacy groups related to the content of the research output
 * Grants to the author or organisation
-* Personal fees (e.g. honoraria, consulting fees, lecture fees)
-* Intellectual property (e.g. patents, copyrights, royalties)
+* Personal fees (honoraria, consulting fees, lecture fees)
+* Intellectual property (patents, copyrights, royalties)
 * Stock or share ownership
 * Benefits related to the development of products
 
 ### Examples of non-financial conflict of interest: 
-* Gifts (e.g. equipment, tools, software)
+* Gifts (equipment, tools, software)
 * Access to data repositories
 * Holding a position on boards
 * Close relationships with editors at the journal
-* Competing interests (e.g. personal, political, religious, academic)
-* Involvement in legal action (e.g. paper retraction)
+* Competing interests (personal, political, religious, academic)
+* Involvement in legal action (paper retraction)
 
 ## Use cases
 We present below some use cases where the scientific and public communities/initiatives have flagged potential COI, and how the editorial team has handled the situation.
@@ -71,7 +71,7 @@ We provide below some examples in the open-source community:
 ### Examples of COI policies
 Journals usually indicate their COI policies through a dedicated section on ethical guidelines/declarations. 
 COI policies largely vary by domain and community. 
-Some journals have specific requirements about what interests must be disclosed and the date range that you need to include (e.g. conflicts over the past 3 years). 
+Some journals have specific requirements about what interests must be disclosed and the date range that you need to include (for example conflicts over the past 3 years). 
 The table below provides an example of some policies in peer-reviewed journals and other sectors for different research outputs.
 
 | Journal / Initiative                                             | Domain  | Research product     | Policy                                                                                                                                                                                                                                                                                                                         | Specific requirements (time)                                                         |
