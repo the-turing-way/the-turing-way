@@ -756,6 +756,13 @@ chapters:
             file: ethical-research/activism/activism-robodebt
           - title: Case study - Google Workers
             file: ethical-research/activism/activism-case-study-google.md
+      - title: Cultural Change
+        file: ethical-research/cultural-change
+        sections:
+          - title: Culture Change Models & Examples
+            file: ethical-research/cultural-change/cc-examples
+          - title: Alternative Models of Culture Change in Open Research
+            file: ethical-research/cultural-change/alt-models-discussion
       - title: Internal Policy Advocacy
         file: ethical-research/internal-policy
       - title: Self-Reflection
