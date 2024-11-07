@@ -112,8 +112,8 @@ alt: >
 
 A hash tree includes the hash of its 'parent' in the content used to generate its own hash.
 This way all nodes know their 'parent' and any changes to their 'parent' or its 'parent' recursively would result in a change to their hash.
-This means that the tree can always be reassembled from its individual components, in the case of git 'commits'.
-You always know where any changes diverged in the history making it great for ensuring this stay consistent even when working asynchronously.
+This means that the tree can always be reassembled from its individual components, in this case of git 'commits'.
+You always know where any changes diverged in the history making it great for ensuring things stay consistent even when working asynchronously.
 
 That's the basics of what the structure that underlies git is and why it's useful in theory, now how is this used in practice?
 
@@ -135,7 +135,7 @@ alt: >
 ---
 ```
 
-A branch name in git is label for a leaf on the tree, it is always pointed to the tip of a branch and slides along the branch so that is always refers to a leaf as new commits are added.
+A branch name in git is a label for a leaf on the tree, it is always pointed to the tip of a branch and slides along the branch so that is always refers to a leaf as new commits are added.
 In contrast a tag is locked to a specific commit, referring to a fixed point in the tree.
 A tag simply provides a human readable name for a specific commit, that does not require searching through commit messages.
 
