@@ -5,7 +5,7 @@
 
 It is useful to preview changes you have been working on as you go on your local machine.
 You can be confident that changes you have made are accurate and as intended and it will likely be quicker than waiting for a preview to be build from a pull request.
-You can replicate the build process using [`make`](rr-make) and [Jupyter Book](https://jupyterbook.org/en/stable/intro.html).
+You can replicate the build process using [Make](rr-make) and [Jupyter Book](https://jupyterbook.org/en/stable/intro.html).
 
 ## Prerequisites
 
@@ -30,11 +30,13 @@ git clone https://github.com/the-turing-way/the-turing-way
 ```
 
 ````{note}
-To address potential barriers with slow internet connections due to the large size of this repository, you can use [partial clones](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/#). Specifically, focusing on blobless clones, which are efficient for developers, involves utilizing the `--filter=blob:none` option in the git clone command.
+The repository is quite large and cloning may take a long time on slower internet connections.
+You can use [partial clones](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/#).
+Specifically, focusing on blobless clones, involves utilizing the `--filter=blob:none` option in the git clone command.
 
-By using `--filter=blob:none`, the initial git clone operation downloads all reachable commits and trees, while blobs (file contents) for commits are only downloaded when performing a git checkout
+By using `--filter=blob:none`, the initial git clone operation downloads all reachable commits and trees, while blobs (file contents) for commits are only downloaded when performing a git checkout.
 
-Here's the command to use blobless clones:
+Here's the command to create a blobless clone of the book:
 
 ```console
 git clone --filter=blob:none https://github.com/the-turing-way/the-turing-way.git
