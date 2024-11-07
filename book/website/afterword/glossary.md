@@ -194,7 +194,7 @@ Ethical Source Software
   These licenses require that software is used in ways that respect fundamental human rights.
   This can be thought of as relaxing the hardline 'freedom to run software for any purpose' stipulation required for software to qualify as free / libre or open source by the conventional definitions.  
   Whilst these licenses sought to be considered {term}`open source <Open Source Software>`, their terms place restrictions on the uses to which the software can be put so that anyone using the software in a way the licenses consider unethical would potentially expose themselves to liability.
-  Use restictions are prohibited by conventional definitions of open source so ethical source license could be thought of as a form of {term`source available<Source Available>`} license.
+  Use restictions are prohibited by conventional definitions of open source so ethical source license could be thought of as a form of {term}`source available<Source Available>` license.
   See: {ref}`Ethical Source<rr-licensing-ethical>` for more.
 
 ```
@@ -433,14 +433,14 @@ Open Source
   [opensource.com](https://web.archive.org/web/20240618150233/https://opensource.com/resources/what-open-source) describes open source as:
   "Something people can modify and share because its design is publicly accessible".
   The concept of 'open source' is now often extended beyond the context of its original coinage, {term}`software<Open Source Software>`,
-  to other forms of cultural or creative output, such as {term}`hardware<Open Source Hardware>` and {term}educational resources`{Open Educational Resources}`.
+  to other forms of cultural or creative output, such as {term}`hardware<Open Source Hardware>` and {term}`educational resources<Open Educational Resources>`.
   Referring to something as 'open source' generally means that it is available under an {term}`open license<Open License>`.
   The term can also extend to an {term}`open project<Open Project>` philosophy of collaboration beyond the mere availability and open licensing of the project's source materials.
   The term tends to, but need not, be applied in contexts where there is some 'source' material that is processed or synthesised into an output.
   For example an image created with a simple bitmap editor might be reffered to as 'open source' despite lacking something that can be considered a 'source'.
   In such cases the notion of a '{term}`creative commons<Creative Commons>`' or '{term}`free cultural work<Free Cultural Works>`' may better apply as these do not as obviously emphasise the availability source materials but rather end products, 
   though they may include source materials.
-  There are also a number adjacent concepts which most often question the conventional open source prohibtion on restricting the uses to which open source things can be put, examples include: '{term}`ethical source<Ethical Source Software>`' '{term}`Fair Code<Fair Code>`'.
+  There are also a number adjacent concepts which most often question the conventional open source prohibtion on restricting the uses to which open source things can be put, examples include: '{term}`ethical source<Ethical Source Software>`' and '{term}`Fair Code<Fair Code>`'.
 
 Open Source Hardware
   Hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design. 
