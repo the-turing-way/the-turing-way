@@ -436,7 +436,7 @@ chapters:
         file: communication/personal-websites
         sections: 
           - title: Frameworks
-            file: communication/personal-website/personal-website-frameworks.md
+            file: communication/personal-websites/personal-websites-frameworks.md
       - title: Lay Summaries
         file: communication/lay-summaries
         sections:
