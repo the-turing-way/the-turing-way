@@ -23,75 +23,86 @@ Other command line tools you will need are,
 
 ## Step-by-step Guide
 
-1. Install Python3 (which version)
-1. Clone _The Turing Way_ repository from GitHub to your machine using the command:
+### Clone The Repository
 
-   ```console
-   git clone https://github.com/the-turing-way/the-turing-way
-   ```
+```console
+git clone https://github.com/the-turing-way/the-turing-way
+```
 
-   ````{note}
-   To address potential barriers with slow internet connections due to the large size of this repository, you can use [partial clones](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/#). Specifically, focusing on blobless clones, which are efficient for developers, involves utilizing the `--filter=blob:none` option in the git clone command.
+````{note}
+To address potential barriers with slow internet connections due to the large size of this repository, you can use [partial clones](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/#). Specifically, focusing on blobless clones, which are efficient for developers, involves utilizing the `--filter=blob:none` option in the git clone command.
 
-   By using `--filter=blob:none`, the initial git clone operation downloads all reachable commits and trees, while blobs (file contents) for commits are only downloaded when performing a git checkout
+By using `--filter=blob:none`, the initial git clone operation downloads all reachable commits and trees, while blobs (file contents) for commits are only downloaded when performing a git checkout
 
-   Here's the command to use blobless clones:
+Here's the command to use blobless clones:
 
-   ```console
-   git clone --filter=blob:none https://github.com/the-turing-way/the-turing-way.git
-   ```
-1. Navigate into the cloned repository folder using the command `cd the-turing-way`, where the `cd` command means `change directory`.
-1. Create a virtual environment
+```console
+git clone --filter=blob:none https://github.com/the-turing-way/the-turing-way.git
+```
+````
 
-  ```console
-  $ python3 -m venv ./venv
-  ```
-1. Active the virtual environment
+### Create a Virtual Environment
 
-  ```console
-  $ source ./venv/bin/activate
-  ```
+Navigate into the cloned repository folder using the command `cd the-turing-way`, where the `cd` command means `change directory`.
+Create a virtual environment
 
-  Your prompt may now start with `(venv)` (?).
-  Using the virtual environment means we can install _The Turing Way's_ dependencies without interfering with any other software.
-1. Then change into the sub-directory the website is built from using `cd book/`
-1. The Turing Way book is built using multiple python libraries. We can install these dependencies into your virtual environment using the following command
+```console
+$ python3 -m venv ./venv
+```
+Active the virtual environment
 
-   ```console
-   make deps
-1. And now build the book:
+```console
+$ source ./venv/bin/activate
+```
 
-   ```console
-   make book
-   ```
-1. The output of the build process will provide output such as below that demonstrate how you can view the book locally:
+Your prompt may now start with `(venv)` (?).
+Using the virtual environment means we can install _The Turing Way's_ dependencies without interfering with any other software.
 
-    ```text
-    ===============================================================================
+### Install the Dependencies
 
-    Finished generating HTML for book.
-    Your book's HTML pages are here:
-        _build/html/
-    You can look at your book by opening this file in a browser:
-        _build/html/index.html
-    Or paste this line directly into your browser bar:
-        file:///[...]/the-turing-way/the-turing-way/book/website/_build/html/index.html
+Then change into the sub-directory the website is built from using `cd book/`
+The Turing Way book is built using multiple python libraries. We can install these dependencies into your virtual environment using the following command
 
-    ===============================================================================
-    ```
+```console
+make deps
+```
 
-### Build the Book While Working on a Pull Request
+### Build the Book
+
+And now build the book:
+
+```console
+make book
+```
+
+The output of the build process will provide output such as below that demonstrate how you can view the book locally:
+
+```text
+===============================================================================
+
+Finished generating HTML for book.
+Your book's HTML pages are here:
+    _build/html/
+You can look at your book by opening this file in a browser:
+    _build/html/index.html
+Or paste this line directly into your browser bar:
+    file:///[...]/the-turing-way/the-turing-way/book/website/_build/html/index.html
+
+===============================================================================
+```
+
+## Build the Book While Working on a Pull Request
 
 If you would like to preview a version of the book from a certain branch (perhaps to render the book while working on a PR) then simply switch to the required branch and rebuild the book as in step 9:
 
-   ```console
-   $ git checkout mybranch
-   $ make book
-   ```
+```console
+$ git checkout mybranch
+$ make book
+```
 
 Follow the link as before and you will see changes specific to that branch rendered.
 
-### Clean up a Recent Build
+## Clean up a Recent Build
 
 When you test your edits by building the book multiple times, it is better to clean up the last build before generating a new one.
 You can either manually delete the `book/website/_build` folder every time, or run this command:
