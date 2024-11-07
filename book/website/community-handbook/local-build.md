@@ -7,10 +7,21 @@ It is useful to preview changes you have been working on as you go on your local
 You can be confident that changes you have made are accurate and as intended and it will likely be quicker than waiting for a preview to be build from a pull request.
 You can replicate the build process using [`make`](rr-make) and [Jupyter Book](https://jupyterbook.org/en/stable/intro.html).
 
-## Step-by-step Guide
+## Prerequisites
 
 We will be using the command line throughout this guide.
-You will need to locate your "terminal" or "prompt" application on your machine.
+You will need to use a terminal emulator to follow.
+
+You will also need to install Python3.
+You can check which specific version of Python3 the build uses in [netlify.toml](https://github.com/the-turing-way/the-turing-way/blob/main/netlify.toml).
+However, versions close to that version are also likely to work.
+
+Other command line tools you will need are,
+
+- `git`
+- `make`
+
+## Step-by-step Guide
 
 1. Install Python3 (which version)
 1. Clone _The Turing Way_ repository from GitHub to your machine using the command:
