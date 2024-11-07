@@ -88,7 +88,8 @@ These bursaries are also available for the rent or purchase of small hardware it
 * There is also financial support for subsistence costs such as buying meals or treats for the online social events during the Book Dash.
 
 ## Organising a Local Hub
-As part of the wider online Book Dash event it is possible to organise local hubs that take place in person over 1-2 days in the same week as the online Book Dash. 
+
+As part of the wider online Book Dash event it is possible to organise local hubs that take place in person over 1–2 days in the same week as the online Book Dash. 
 In the past, these hubs have been organised at London and Bristol in the UK, as well as Amsterdam and Delft in the Netherlands.
 
 To organise a hub, you will need to consider which days are most suitable to organise the in-person event. 
