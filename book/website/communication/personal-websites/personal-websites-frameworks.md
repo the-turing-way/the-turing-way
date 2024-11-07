@@ -37,13 +37,18 @@ website using low-code or high-code options.
 * [GitHub (GH) profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
   * Use GH repository [beautify my GH](<https://github.com/rzashakeri/beautify-github-profile>), to customize your GH profile.
 * [Wordpress](https://wordpress.com/support/five-step-website-setup/)
+* [Wix](https://www.wix.com/)
+* [Postcards](https://github.com/seankross/postcards)
 
 (cm-personal-websites-frameworks-procode)=
 ### Pro-code/High-Code frameworks
 
 * [Jekyll](https://jekyllrb.com/)
-* [Blogdown](https://bookdown.org/yihui/blogdown/) (R)
+  * [Academic pages](https://github.com/academicpages/academicpages.github.io)
+* [Hugo](https://gohugo.io/)
+  * [Blogdown](https://bookdown.org/yihui/blogdown/) (R)
+* [Distill](https://rstudio.github.io/distill/) (R)
+* [Streamlit](https://streamlit.io/) (Python)
 * [Fast Html](https://fastht.ml/) (Python)
 * [Quarto](https://quarto.org/docs/gallery/#websites) (R/Python/Julia)
-* Pure HTML/CSS/Javascript
-* [Academic pages](<https://github.com/academicpages/academicpages.github.io>)
+* Pure HTML/CSS/Javascript 
