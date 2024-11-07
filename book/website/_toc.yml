@@ -809,7 +809,7 @@ chapters:
       - title: Governance and Decision Making
         file: community-handbook/governance
         sections:
-          - title: 
+          - title:
             file: community-handbook/governance/gov-guiding-principles
           - title: Maintenance Level Decision Making
             file: community-handbook/governance/gov-maintainance
@@ -993,6 +993,3 @@ chapters:
         file: afterword/glossary
       - title: Bibliography
         file: afterword/bibliography
-
-
-
