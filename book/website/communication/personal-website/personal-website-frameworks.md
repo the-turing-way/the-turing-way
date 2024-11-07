@@ -30,7 +30,7 @@ website using low-code or high-code options.
 
 ### No-Code/Low-Code frameworks
 
-* [Git hub profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
+* [GitHub (GH) profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
   * Use GH repository [beautify my GH](<https://github.com/rzashakeri/beautify-github-profile>), to customize your GH profile
 * [Wordpress](https://wordpress.com/support/five-step-website-setup/)
 
