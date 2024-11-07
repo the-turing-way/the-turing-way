@@ -19,7 +19,7 @@ jobs:
       pull-requests: write  # Post a comment on a PR
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Compress images
         uses: crush-pics/crush-pics-github-action@v1.0
         with:

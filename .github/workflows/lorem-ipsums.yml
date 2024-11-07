@@ -24,12 +24,12 @@ jobs:
     # This section collects together the steps involved in running the test
     steps:
       # Checkout the repository. Relies on another GH-Action.
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       # Set up the Python version. Relies on another GH-Action.
-      - name: Setup Python 3.8
-        uses: actions/setup-python@v4
+      - name: Setup Python 3.13
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.8"
+          python-version: "3.13"
       # Install Python dependencies
       - name: Install dependencies
         working-directory: ./tests

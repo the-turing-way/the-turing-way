@@ -39,7 +39,7 @@ Before we dive into the details of what they mean, let's look at some examples o
 
 Names of digital components should be easy to understand for computers.
 Computers like names to have no spaces, deliberate use of delimiters, and no special or accented characters.
-Also computers are case sensitive, so for them `cat.txt` and `Cat.txt` are different files.
+Also computers (or rather their operation systems) may be case sensitive, so for them `cat.txt` and `Cat.txt` may be different files.
 
 The file names `Joe´s Filenames Use Spaces and Punctuation.xlsx` and `JW7d^(2sl@deletethisandyourcareerisoverWx2*.txt` shown above use empty spaces and special characters (`´`, `^`, `(`, `@`,`*`), which can lead to difficulties, for example when you want to send it someone else's computer.
 

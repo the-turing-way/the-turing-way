@@ -25,17 +25,17 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest, macos-latest, windows-latest]
-        python_version: ["3.8"]
+        python_version: ["3.13"]
       fail-fast: false # Don't cancel all jobs if one fails
 
     runs-on: ${{ matrix.os }}
 
     steps:
       - name: Checkout-repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Python ${{ matrix.python_version }}
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python_version }}
 
@@ -53,12 +53,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout-repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.8"
+          python-version: "3.13"
 
       - name: Install dependencies
         run: make deps
@@ -74,12 +74,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout-repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: "3.8"
+          python-version: "3.13"
 
       - name: Install dependencies
         run: make deps
@@ -90,7 +90,7 @@ jobs:
         working-directory: ./book
 
       - name: Check offline links
-        uses: lycheeverse/lychee-action@v1.8.0
+        uses: lycheeverse/lychee-action@v2.0.2
         with:
           args: --config './lychee.toml' --no-progress --offline 'book/website/_build/html/**/*.html' 'book/website/_build/html/**/*.md'
           fail: true

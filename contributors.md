@@ -83,24 +83,51 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 * Personal highlights:
 > After coming to _The Turing Way_ from other stars in the 'open universe' (as I tend to call it), I'm keen to get to know the world of open scholarship & open science and to learn how to support the community here. I'm particularly interested in helping to develop systems of inclusive governance, and project sustainability, involving more perspectives from my fields (of anthropology and sociology!), and tying the project more closely to other open communities that work on issues of ethics, diversity, and inclusion through data-driven practices.
 
-### Alexandra Araujo Alvarez
+### Léllé Demertzi
 
-* Role: 
- * Senior Research Community Manager, BridgeAI (2024-current)
- * Project Delivery Team member, Research Project Manager (2023-2024)
- * Book Dash Organiser: 2023
-* Github id: [AlexandraAAJ](https://github.com/AlexandraAAJ)
-* ORCID: [0009-0008-6607-3815](https://orcid.org/0009-0008-6607-3815)
+* Role: Research Project Manager, The Turing Way
+  * Core Member, Book Dash Participant (2024)
+  * TPS Staff (2024-Present), Project Delivery Team member
+* GitHub id: [Léllé Demertzi](https://github.com/LelleDi)
+* ORCID: [0009-0009-2782-0408](https://orcid.org/0009-0009-2782-0408)
+* Short bio:
+> Léllé is the Research Project Manager for The Turing Way, since September 2024. An architect by training, she has previously worked in cultural management in art institutions around the world. She is Organiser for the AI&Arts Interest Group at The Alan Turing Institute, where she can bridge her art practice with computational methods, as well as promote scholarship and engagement activities in the cross-disciplinary field.
+* Personal highlights:
+> So looking forward to the upcoming **November 2024 Book Dash**, it will be my first one! I'm really excited to support people from around the world to contribute to the Turing Way
+> I am also supporting the 2024 Cohort of The Turing Way Practitioners Hub, with 20 participating companies and 50 Experts in Residence.
+* Personal Quote:
+> As a new member, I am eager to get to know the community and explore new spaces of collaboration within the creative sector.
+
+### Arielle Bennett
+
+* Role:
+  * Core Member, Book Dash Planning Committee (2021-2023)
+  * TPS Staff (2020-Present), Project Delivery Team member
+  * Book Dash Participant (2020)
+* GitHub id: [Arielle-Bennett](http://github.com/Arielle-Bennett)
+* ORCID: [0000-0002-0154-2982](https://orcid.org/0000-0002-0154-2982)
 
 * Short bio:
-> Alexandra is the Research Project Manager for The Turing Way project, under the Tools, Practices and Systems research programme from February 2023.
-> Alexandra was born and raised in Lima, Peru. She has an Economics Engineering degree with a master’s in marketing.
-> Her experience in Research Project Management started in 2021 at People’s Palace Projects, an art research centre connecting academics, artists and policymakers. There she covered the Mental Health and Wellbeing projects.
-> Prior to that, I lived in Peru where she was the CEO of Teatro La Plaza, one of Latin America’s leading theatre companies. There, she oversaw the production of over 100 theatre plays for adults and children, such as Mamma Mia!, Billy Elliot, The curious incident of the Dog in the Nighttime, and Hamlet (with a cast of actors with Down syndrome), among many others.
-> 
+> Arielle Bennett is the Programme Manager for TPS at the Alan Turing Institute. A biologist by training, she has worked in several different industries from science publishing to biotech start-ups, as well as being an Open Life Science mentor for multiple cohorts and a 2019 Community Engagement Fellow with the Center for Scientific Collaboration & Community Engagement. Arielle advocates for the growing number of research infrastructure roles in academia as well as encouraging researchers to consider their roles as activists alongside ethical reflections and writes about these topics for The Turing Way.
+
 * Personal highlights:
-> Alexandra is a positive and curious person who enjoys learning and discovering new things.
-> Together with Malvika and Kirstie, in June 2023 they launched the inaugural cohort of [The Turing Way Practitioners Hub Experts in Residence](https://www.turing.ac.uk/turing-way-practitioners-hub. 
+> Before participating in the Turing Way, I didn't know what a pull request was, never mind how to make one!
+> Now I have contributed to several different parts of the five guides, including co-writing the initial chapters on [activism for researchers](https://book.the-turing-way.org/ethical-research/activism.html) and given presentations on the topic at conferences.
+> I also now mentor other community contributors on how to create pull requests, contribute to existing chapters, review others' work, and draft new ideas.
+> The **May 2021 Book Dash** was an amazing opportunity to engage with the community and get excited about the project all over again! I came away from it feeling enthused and proud of the contributions people made with my support - it will be brilliant to see how these evolve over the coming months into content and chapters.
+> In the **November 2021 Book Dash** week we have merged a new chapter on research infrastructure roles - the people who do critical tasks to keep research going, open, reproducible, collaborative and reusable! It's great to be able to promote the visibility of roles like mine to the wider community. I am also incredibly proud of all our first attendees who have done brilliant work this week revising old chapters and writing new ones.
+> In **May 2022 Book Dash**, I've loved the spontaneous chats we've had about art, changing workplaces, leadership styles that break the mould & more. Always a highlight, when someone merges their first PR to the Guide!
+> In **2023 Book Dashes** I've enjoyed exploring my creative side with writing, and seeing everyone's first contributions. I've also helped to revise parts of the Guide for Project Design.
+> In **2024 Book Dashes** I've hosted discussions on culture change models, reviewed a lot of PRs and broadened our timezone coverage with late night sessions for folks in the Americas. 
+
+* More information:
+> The research infrastructure roles chapter in the Guide for Ehical Research is not finished! We are hoping that people will contribute overviews of more roles in this space, or share their career trajectory and background as case studies in the future.
+
+* Personal Quote:
+> It's always a joy to work with The Turing Way participants, experienced and new, to create something amazing.
+> The Book Dash is an incredible experience for both newer and established community members. It is joyful work to spend focused time on developing content for the Turing Way and supporting people from across the globe to contribute. I feel lucky to have been able to take part and take on a more prominent role as part of the organising committee.
+
+
 
 ## Contributors information are listed alphabetically**
 
@@ -198,6 +225,26 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 * More information:
 > I want research to be accessible, but in a much broader sense than the word is often used. I would love to see a world where re-mixing research is a common thing, whether that be re-mixing figures to make them easier to understand, re-using data to generate new insights, or testing new methods to see how our theories might need to change.
 > Slightly less on topic, but just as important, I am also passionate about the development and adoption of best governance practices. Safe and inclusive spaces are all too rare in academia, and I think some part of that can be solved by doing away with our laissez-faire attitude towards governance and management.
+
+
+### Alexandra Araujo Alvarez
+
+* Role: 
+ * Senior Research Community Manager, BridgeAI (2024-current)
+ * Project Delivery Team member, Research Project Manager (2023-2024)
+ * Book Dash Organiser: 2023
+* Github id: [AlexandraAAJ](https://github.com/AlexandraAAJ)
+* ORCID: [0009-0008-6607-3815](https://orcid.org/0009-0008-6607-3815)
+
+* Short bio:
+> Alexandra is the Research Project Manager for The Turing Way project, under the Tools, Practices and Systems research programme from February 2023.
+> Alexandra was born and raised in Lima, Peru. She has an Economics Engineering degree with a master’s in marketing.
+> Her experience in Research Project Management started in 2021 at People’s Palace Projects, an art research centre connecting academics, artists and policymakers. There she covered the Mental Health and Wellbeing projects.
+> Prior to that, I lived in Peru where she was the CEO of Teatro La Plaza, one of Latin America’s leading theatre companies. There, she oversaw the production of over 100 theatre plays for adults and children, such as Mamma Mia!, Billy Elliot, The curious incident of the Dog in the Nighttime, and Hamlet (with a cast of actors with Down syndrome), among many others.
+> 
+* Personal highlights:
+> Alexandra is a positive and curious person who enjoys learning and discovering new things.
+> Together with Malvika and Kirstie, in June 2023 they launched the inaugural cohort of [The Turing Way Practitioners Hub Experts in Residence](https://www.turing.ac.uk/turing-way-practitioners-hub. 
 
 ### Aman Goel
 
@@ -313,34 +360,6 @@ I am a Mozilla fellowship (2016) and Fulbright scholarship (2007) alumna.
 
 * Quotes:
 > There is so much to learn from The Turing Way handbook and Book Dashes' participants.
-
-### Arielle Bennett
-
-* Role:
-  * Core Member, Book Dash Planning Committee (2021-2023)
-  * TPS Staff (2021-Present), Project Delivery Team member
-  * Book Dash Participant (2020)
-* GitHub id: [Arielle-Bennett](http://github.com/Arielle-Bennett)
-* ORCID: [0000-0002-0154-2982](https://orcid.org/0000-0002-0154-2982)
-
-* Short bio:
-> Arielle Bennett is the Programme Manager for TPS at the Alan Turing Institute. A biologist by training, she has worked in several different industries from science publishing to biotech start-ups, as well as being an Open Life Science mentor for multiple cohorts and a 2019 Community Engagement Fellow with the Center for Scientific Collaboration & Community Engagement. Arielle advocates for the growing number of research infrastructure roles in academia as well as encouraging researchers to consider their roles as activists alongside ethical reflections and writes about these topics for The Turing Way.
-
-* Personal highlights:
-> Before participating in the Turing Way, I didn't know what a pull request was, never mind how to make one!
-> Now I have contributed to several different parts of the five guides, including co-writing the initial chapters on [activism for researchers](https://book.the-turing-way.org/ethical-research/activism.html) and given presentations on the topic at conferences.
-> I also now mentor other community contributors on how to create pull requests, contribute to existing chapters, review others' work, and draft new ideas.
-> The **May 2021 Book Dash** was an amazing opportunity to engage with the community and get excited about the project all over again! I came away from it feeling enthused and proud of the contributions people made with my support - it will be brilliant to see how these evolve over the coming months into content and chapters.
-> In the **November 2021 Book Dash** week we have merged a new chapter on research infrastructure roles - the people who do critical tasks to keep research going, open, reproducible, collaborative and reusable! It's great to be able to promote the visibility of roles like mine to the wider community. I am also incredibly proud of all our first attendees who have done brilliant work this week revising old chapters and writing new ones.
-> In **May 2022 Book Dash**, I've loved the spontaneous chats we've had about art, changing workplaces, leadership styles that break the mould & more. Always a highlight, when someone merges their first PR to the Guide!
-
-* More information:
-> The research infrastructure roles chapter in the Guide for Ehical Research is not finished! We are hoping that people will contribute overviews of more roles in this space, or share their career trajectory and background as case studies in the future.
-
-* Personal Quote:
-> It's always a joy to work with The Turing Way participants, experienced and new, to create something amazing.
-> The Book Dash is an incredible experience for both newer and established community members. It is joyful work to spend focused time on developing content for the Turing Way and supporting people from across the globe to contribute. I feel lucky to have been able to take part and take on a more prominent role as part of the organising committee.
-
 
 ### Arya A.
 
@@ -1588,7 +1607,7 @@ what it would cover.
   * TPS Staff (2021-Present)
   * Core Member, Reviewers & Editors Working Group (2022)
   * Book Dash Participant (2021-2023)
-* GitHub id: Shelton
+* GitHub id: [vhellon](https://github.com/vhellon)
 * Twitter: @vickyhellon
 
 * Short bio:
@@ -1639,5 +1658,25 @@ what it would cover.
 ## Y--->
 
 
-<!---Z
-## Z--->
+
+## Z
+
+### Zeena Shawa
+
+* Role:
+  * PhD student (2021-Present)
+  * Book Dash Participant (June 2024)
+  * Turing-Roche Community Scholar (October 2023-2024)
+* GitHub id: [Zeena-Shawa](https://github.com/Zeena-Shawa)
+
+* Short bio:. 
+> Zeena Shawa is PhD student in the i4Health Medical Imaging CDT programme at University College London. She is part of the Progression of Neurodegenerative Diseases (POND) Group in the Centre for Medical Image Computing (CMIC), supervised by Dr. Neil Oxtoby and Dr. Rimona Weil. Her PhD project aims at understanding Parkinson’s disease progression using machine learning approaches developed within POND, with a focus on medical imaging data. The insights obtained from this can aid in understanding disease mechanisms, identifying biomarkers associated with disease progression and thus potentially providing targets for therapeutic development. 
+> 
+> Zeena was an Enrichment Student at the Alan Turing Institute, where she first engaged with the Turing-Roche Partnership and started looking at imputing missing data. She was also part of the 2023/2024 Turing-Roche Partnership Community Scholar Scheme.
+
+
+
+
+* Personal highlights:
+> The main aim of my Turing-Roche Community Scholar project, was to create the {ref}`pd-missing-data` Chapter in the Turing Way handbook, consolidating what I learned during the [Turing Enrichment Scheme](https://www.turing.ac.uk/work-turing/studentships/enrichment) (and more) with current research of the [Turing-Roche Partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership).  Imputing and data missingness is an important aspect of a lot of research, due to missing data being a common problem, especially in large cross-cohort multimodal datasets. 
+> A main highlight of this project was completing the chapter and then doing a live merge in a Collaboration Cafe, which also happened to be a Book Dash Q&A session. It was also great to have the Chapter reviewed by [Vicky Hellon](https://github.com/vhellon).  
