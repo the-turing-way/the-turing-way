@@ -138,19 +138,18 @@ $ git switch mybranch
 $ make book
 ```
 
-## Clean up a Recent Build
+## Clean Up After a Build
 
-When you test your edits by building the book multiple times, it is better to clean up the last build before generating a new one.
-You can either manually delete the `book/website/_build` folder every time, or run this command:
+The build process generates a lot of files.
+Clearing these files to force a build from scratch may reveal errors and warnings that wouldn't be raised otherwise.
+
+To remove the outputs of builds use the `clean` target,
 
 ```console
-$ cd book
 $ make clean
 ```
 
-More details on this process can be read in [Jupyter Book's documentation](https://jupyterbook.org/en/stable/basics/build.html?highlight=clean#clean-your-books-generated-files).
-
-## Why we Recommend Using a Virtual Environment
+## Why We Recommend Using a Virtual Environment
 
 In the step-by-step guide above, we made use of `jupyter-book` to build the Turing Way book.
 For this program to work as intended you will need a Python installation on your machine.
