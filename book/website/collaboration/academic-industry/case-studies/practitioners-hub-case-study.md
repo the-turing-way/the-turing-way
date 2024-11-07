@@ -6,7 +6,12 @@
 height: 500px
 name: practitioners-hub-experts
 alt: >
-  Cartoon-like sketch with text at the top in an arc reading "practitioners hub - experts in residence". The Turing Way logo is featured in the centre. Around the logo is a thick oval with different colour bands, each with an image. These include a heart, a tree, a car, a spanner, a lightning bolt, a paint palette and a graph, representing various fields, such as transport, health, energy supply, sustainability, engineering, and creative industries. Around the edge of the circle are lots of colourful stylised figures interacting with each other in groups. Some appear to be talking, and some shaking hands, conveying inclusivity and community.
+  Cartoon-like sketch with text at the top in an arc reading "practitioners hub - experts in residence".
+  The Turing Way logo is featured in the centre.
+  Around the logo is a thick oval with different colour bands, each with an image.
+  These include a heart, a tree, a car, a spanner, a lightning bolt, a paint palette and a graph, representing various fields, such as transport, health, energy supply, sustainability, engineering, and creative industries.
+  Around the edge of the circle are lots of colourful stylised figures interacting with each other in groups.
+  Some appear to be talking, and some shaking hands, conveying inclusivity and community.
 ---
 An overview of the diverse industries and people comprising the cohort of The Turing Way Practitioners Hub Experts in Residence.
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
