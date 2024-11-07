@@ -420,6 +420,11 @@ chapters:
             file: communication/comms-overview/comms-overview-accessibly
           - title: Resources and Recommendations
             file: communication/comms-overview/comms-overview-resources
+      - title: Personal Website
+        file: communication/personal-website
+        sections: 
+          - title: Frameworks
+            file: communication/personal-website/personal-website-frameworks.md
       - title: Open Scholarship
         file: communication/open
         sections:
