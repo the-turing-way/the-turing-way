@@ -52,7 +52,7 @@ Create a virtual environment using Python,
 $ python3 -m venv ./venv
 ```
 
-Next, active the virtual environment
+Next, active the virtual environment,
 
 ```console
 $ source ./venv/bin/activate
@@ -64,11 +64,19 @@ That will be explained in more depth in [a later section](#why-we-recommend-usin
 
 ### Install the Dependencies
 
-Then change into the sub-directory the website is built from using `cd book/`
-The Turing Way book is built using multiple python libraries. We can install these dependencies into your virtual environment using the following command
+The next steps use {term}`Makefile`.
+The Makefile contains instructions to build a set of "targets".
+That way we can easily run the same commands repeatedly, and in different environments, without needing to remember all the parameters.
+It is easiest to change into the directory containing the Makefile,
+
+```
+$ cd book
+```
+
+Install the build dependencies into your virtual environment,
 
 ```console
-make deps
+$ make deps
 ```
 
 ### Build the Book
