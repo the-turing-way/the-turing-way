@@ -126,16 +126,17 @@ $ make pathways
 
 This is the build of the book which is deployed to the website.
 
-## Build the Book While Working on a Pull Request
+## Building Previews for Different Branches
 
-If you would like to preview a version of the book from a certain branch (perhaps to render the book while working on a PR) then simply switch to the required branch and rebuild the book as in step 9:
+The build process will use the source files from whatever branch you have checked out.
+If you have just cloned the repository, that will be the `main` branch.
+
+To build another branch, for example a feature branch you are working on you first switch to that branch,
 
 ```console
-$ git checkout mybranch
+$ git switch mybranch
 $ make book
 ```
-
-Follow the link as before and you will see changes specific to that branch rendered.
 
 ## Clean up a Recent Build
 
