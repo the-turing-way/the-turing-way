@@ -3,11 +3,9 @@
 
 ## Why build locally
 
-It's always handy to be able to preview any changes you have been working on as you go - you can be confident that changes you have made are accurate and as intended.
-A nice way to do this is to use the underlying [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) tool to build the book locally.
-
-This is useful because it allows you to preview any changes you have made on your local machine before you push your changes to a remote branch.
-You can then decide if you are happy with the result and push your changes to the remote branch thus helping to keep Pull Request conversations and commit histories a bit cleaner.
+It is useful to preview changes you have been working on as you go on your local machine.
+You can be confident that changes you have made are accurate and as intended and it will likely be quicker than waiting for a preview to be build from a pull request.
+You can replicate the build process using `make` and [Jupyter Book](https://jupyterbook.org/en/stable/intro.html).
 
 ## Step-by-step Guide
 
