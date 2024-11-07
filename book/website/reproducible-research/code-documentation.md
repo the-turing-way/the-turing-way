@@ -16,7 +16,7 @@ And this is not limited to the code itself being well written, but also (and per
 Documentation is the written text that acompanies the code and explains different aspects of it: what it does,  how it works, how it is structured, and any other relevant information.
 Depending on the complexity of the code, it may be suitable to have different types of documentation aimed at different audiences for example, the users of the software, or other developers.
 
-It is important to emphasize that not all projects need extensive documentation;
+It is important to emphasise that not all projects need extensive documentation;
 sometimes a basic README and a few comments in the code are sufficient for your audience.
 As the author of your code, it is up to you to decide the level of documentation that you need.
 

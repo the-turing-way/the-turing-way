@@ -3,23 +3,23 @@
 
 It is a good practice to document the source code of software regardless of how time consuming it may be. 
 The goal of code documentation is to provide context and explanations for the source code. 
-So that others can understand why a piece of sofware exists, how it was built and how to use it or re-use it. 
+This way others can understand why a piece of software exists, how it was built and how to use it or re-use it. 
 
 ## Extended Software Documentation
 
-Documenting software may require to prepare extensive descriptions of the key aspects of software, 
-such as explanations about how to start using the software, or examples of how to use the sofware for particular tasks. 
+Documenting software may require you to prepare extensive descriptions of the key aspects of software, 
+such as explanations about how to start using the software, or examples of how to use the software for particular tasks. 
 What to document will be different for each software, and how to document it will be different for each audience.   
 Below, there is guidance on how writing extended software documentation can be approached.
 
 ### Divio Documentation System
 When extended documentation is necessary, common questions are: What to document? and 
-How to organize documentation concisely?
-To answer such questions, David Laing, proposed a [documentation system](https://docs.divio.com/documentation-system/) to organize software documentaton. 
+How to organise documentation concisely?
+To answer such questions, David Laing, proposed a [documentation system](https://docs.divio.com/documentation-system/) to organise software documentation. 
 The system distinguish between four types of documentation: tutorial, how-to guides, explanatios and reference guides.
 
-* **Tutorials** aim to teach others how to use the software by descrbing things step by step.
-For example, how to navigate the graphical interface of software X.
+* **Tutorials** aim to teach others how to use the software by describing things step by step.
+For example, how to navigate the graphical interface of software $X$.
 * **How-to guides** describe the specific steps required to solve particular problems with the software in question.
 For example, how to find research dataset $A$ in the data archive $B$, using software $X$.
 * **Explanations** aim to create understading by providing context to relevant topics for the software.
@@ -34,9 +34,9 @@ A reference guide for $S$ should describe what inputs it expects, what outputs i
 
 Another way to think about software documentation is to distinguish between the documentation for the end user of the software, 
 and the documentation oriented to describe the insides of the software to other developers. 
-This approach for organizing documentation is simpler than [Divios Documentation System](#divio-documentation-system), 
-but it does not offer further guidence about how to distiguish which aspects of software documention are relevant for an end user and which are relevant for a developer. 
-It is up to the developer's experience to decide what content is relevant and for who.
+This approach for organising documentation is simpler than [Divios Documentation System](#divio-documentation-system), 
+but it does not offer further guidance about how to distinguish which aspects of software documentation are relevant for an end user and which are relevant for a developer. 
+It is up to the developer's experience to decide what content is relevant and for whom.
 The table below offers some examples on what might be included as user and developer documentation.
 
 | User Documentation | Developer Documentation |
