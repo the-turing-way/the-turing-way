@@ -1,7 +1,7 @@
 (ch-local-build)=
-# Build the Turing Way Book Locally
+# Build the Book Locally
 
-## But why build locally?
+## Why build locally
 
 It's always handy to be able to preview any changes you have been working on as you go - you can be confident that changes you have made are accurate and as intended.
 A nice way to do this is to use the underlying [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) tool to build the book locally.
@@ -9,7 +9,7 @@ A nice way to do this is to use the underlying [Jupyter Book](https://jupyterboo
 This is useful because it allows you to preview any changes you have made on your local machine before you push your changes to a remote branch.
 You can then decide if you are happy with the result and push your changes to the remote branch thus helping to keep Pull Request conversations and commit histories a bit cleaner.
 
-## Step-by-step guide
+## Step-by-step Guide
 
 We will be using the command line throughout this guide.
 You will need to locate your "terminal" or "prompt" application on your machine.
@@ -71,7 +71,7 @@ You will need to locate your "terminal" or "prompt" application on your machine.
     ===============================================================================
     ```
 
-### Build the book while working on a Pull Request
+### Build the Book While Working on a Pull Request
 
 If you would like to preview a version of the book from a certain branch (perhaps to render the book while working on a PR) then simply switch to the required branch and rebuild the book as in step 9:
 
@@ -82,7 +82,7 @@ If you would like to preview a version of the book from a certain branch (perhap
 
 Follow the link as before and you will see changes specific to that branch rendered.
 
-### Clean up a recent build
+### Clean up a Recent Build
 
 When you test your edits by building the book multiple times, it is better to clean up the last build before generating a new one.
 You can either manually delete the `book/website/_build` folder every time, or run this command:
@@ -94,7 +94,7 @@ $ make clean
 
 More details on this process can be read in [Jupyter Book's documentation](https://jupyterbook.org/en/stable/basics/build.html?highlight=clean#clean-your-books-generated-files).
 
-### Check external links in the book
+### Check External Links
 
 When editing or reviewing this book locally, you can run the Sphinx link checker with Jupyter Book to check if the external links mentioned in the book are valid.
 To run the link checker, use the following command:
@@ -107,7 +107,7 @@ jupyter-book build . --builder linkcheck
 The link checker checks if the each link resolves and prints the status on your terminal so that you can check and resolve any incorrect links.
 Read more about this in [Jupyter Book's documentation](https://jupyterbook.org/en/stable/advanced/html.html?highlight=check%20external#check-external-links-in-your-book).
 
-## Why we recommend using a virtual environment
+## Why we Recommend Using a Virtual Environment
 
 In the step-by-step guide above, we made use of `jupyter-book` to build the Turing Way book.
 For this program to work as intended you will need a Python installation on your machine.
