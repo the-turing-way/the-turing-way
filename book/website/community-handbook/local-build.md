@@ -45,20 +45,22 @@ git clone --filter=blob:none https://github.com/the-turing-way/the-turing-way.gi
 
 ### Create a Virtual Environment
 
-Navigate into the cloned repository folder using the command `cd the-turing-way`, where the `cd` command means `change directory`.
-Create a virtual environment
+Navigate into the repository using the command `cd the-turing-way`; the `cd` command means change directory.
+Create a virtual environment using Python,
 
 ```console
 $ python3 -m venv ./venv
 ```
-Active the virtual environment
+
+Next, active the virtual environment
 
 ```console
 $ source ./venv/bin/activate
 ```
 
-Your prompt may now start with `(venv)` (?).
-Using the virtual environment means we can install _The Turing Way's_ dependencies without interfering with any other software.
+Your prompt may now start with `(venv)`, for example `(venv) user@host$`.
+Using the virtual environment means we can install _The Turing Way's_ dependencies without interfering with other packages or libraries you might be using.
+That will be explained in more depth in [a later section](#why-we-recommend-using-a-virtual-environment).
 
 ### Install the Dependencies
 
