@@ -81,13 +81,14 @@ $ make deps
 
 ### Build the Book
 
-And now build the book:
+You are now ready to build the book.
+You can build the book with,
 
 ```console
-make book
+$ make book
 ```
 
-The output of the build process will provide output such as below that demonstrate how you can view the book locally:
+The output of the build process will provide output such as below that demonstrate how you can view the book locally,
 
 ```text
 ===============================================================================
@@ -98,10 +99,12 @@ Your book's HTML pages are here:
 You can look at your book by opening this file in a browser:
     _build/html/index.html
 Or paste this line directly into your browser bar:
-    file:///[...]/the-turing-way/the-turing-way/book/website/_build/html/index.html
+    file:///<path to repository>/book/website/_build/html/index.html
 
 ===============================================================================
 ```
+
+Open `index.html` in your web browser to look at your local build.
 
 ## Build the Book While Working on a Pull Request
 
