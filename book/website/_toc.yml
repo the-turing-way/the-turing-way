@@ -524,6 +524,8 @@ chapters:
             file: communication/peer-review/peer-review-overview
           - title: Open Peer Review
             file: communication/peer-review/peer-review-open
+          - title: Conflict of Interest
+            file: communication/peer-review/peer-review-conflicts
           - title: Guidance on Peer Review for a Journal
             file: communication/peer-review/peer-review-guidance
           - title: Guidance on Code Review
