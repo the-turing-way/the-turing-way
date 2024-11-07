@@ -9,7 +9,7 @@ Below, we provide a brief explanation for each of these three scenarios.
 (cm-citable-otherscite-when)=
 ## When to cite a research object?
 
-As a rule-of-thumb, every research object that has play a significant contribution to your research project should be cited in you publication or methodology paper. 
+As a rule-of-thumb, every research object that plays a significant role in your research project should be cited in you publication or methodology paper. 
 For example, when using others software to analyse your research data, it is vital to cite and attribute it properly.
 In some cases, the contribution of a research object may be small but critical to your results.
 You should always consider about giving credit to others for their work, showing gratitude to them, and try to implement more repeatable science {cite:ps}`LaZerte2021`
