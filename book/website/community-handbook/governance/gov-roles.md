@@ -1,21 +1,22 @@
-(ch-working-groups-roles)=
-# Working Groups: Roles and Responsibilities
+(ch-gov-roles)=
+# Roles and Responsibilities
 
-All WGs, teams, and people within *The Turing Way* are responsible for adhering with our [Code of Conduct](https://the-turing-way.netlify.app/community-handbook/coc) and our [Accessibility Policy](https://github.com/the-turing-way/the-turing-way/issues/3145), both in organising WGs and facilitating WGs' activities.
+Everyone within *The Turing Way* community are responsible for adhering with our [Code of Conduct](https://the-turing-way.netlify.app/community-handbook/coc) and our [Accessibility Policy](https://github.com/the-turing-way/the-turing-way/issues/3145).
 
-Members of WGs will be responsible for aligning with our working group guiding principles <!-- reformat to reference --> of:
+Members of *The Turing Way* working groups or delivery groups are responsible for aligning these activities with our maintainance guiding principles <!-- reformat to reference --> of:
 1. **Reciprocity** within and towards the broader Turing Way community.
 2. **Open sharing** of practices and ways of working.
-3. **Transparent decision-making** within the WG.
+3. **Transparent and inclusive** decision making.
 
-In this subchapter, we discuss the roles and responsibilities of working group members.
-In the next subchapter you will learn about how to propose and manage a working group.
+In this subchapter, we discuss the roles and responsibilities of members of a working group, delivery group and/or the Steering Council.
+<!-- In the next subchapter you will learn about how to propose and manage a working group. -->
 
 Specifically, we outline the responsibilities of: `reformat to references`
 * Chair (or co-chairs)
 * Secretary
-* The Turing Way Delivery Team Contact
+* Community Management Delivery Group Contact
 * Working Group members
+* Invited experts
 
 <!-- This content is really interesting but I think its in the wrong place... 
 We provide example of structure and roles for different members in the WG.
@@ -28,40 +29,40 @@ However, one person should not chair multiple WGs, in order to enable diffusion 
 Community members can join any number of WGs, however, we discourage joining more than one or two WGs to prevent over-extension of individuals within the community.
 -->
 
-## Chair or Co-Chairs
+## Chair
 
 > This text is adapted from the "What is the role of the Chairperson" documentation in the  [DIY Committee Guide](https://www.diycommitteeguide.org/) by [Volunteer Now](https://www.volunteernow.co.uk/) and is re-used under a Creative Commons Attribution Non-Commercial Share Alike 2.0. `reformat to reference: https://www.diycommitteeguide.org/what-is-the-role-of-the-chairperson/`
 
-The Chair or Co-Chairs of a working group provide leadership for the team and facilitate the sustained delivery of the purpose for which the group was created.
-The Chair or Co-Chairs are responsible for ensuring the working group's responsibilities are fairly distributed, and ensuring the broader accountability of the assembled group.
+The Chair of a working group, delivery group or the Steering Council provides leadership for the team and facilitates the sustained delivery of the purpose for which the group was created.
+The Chair is responsible for ensuring the group's responsibilities are fairly distributed, and ensuring the broader accountability of the assembled group.
 
 ### Responsibilities
 
 There are three dimensions of the Chair's responsibilities:
 
-#### 1. Provide leadership of the Working Group
+#### 1. Provide leadership
 
-The Chair or Co-Chairs should articulate a vision for the WG and support all members, including new contributors, to make progress towards that goal through individual or group activities.
+The Chair articulates a vision for the group and support all members, including new contributors, to make progress towards that goal through individual or group activities.
 
-#### 2. Ensure the Working Group aligns to *The Turing Way* code of conducts and working group principles
+#### 2. Ensure the group activities align with *The Turing Way* code of conduct and corresponding guiding principles
 
-The Chair or Co-Chairs should work closely with the Secretary `format to reference` to make sure the meetings are planned effectively and conducted in alignment with the working group's charter.
+The Chair works closely with the Secretary `format to reference` to make sure the meetings are planned effectively and conducted in alignment with the working group's charter.
 
 #### 3. Contribute to the leadership of *The Turing Way* community
 
-The Chair or Co-Chairs will sit on the "Constitutional" level leadership committee for *The Turing Way*.
-The constitutional leadership committee have oversight of the whole *Turing Way* community.
-The Chair or Co-Chair will be responsible for feeding learnings and requests from the Working Group to the constitutional leadership committee, and for bringing back requests and guidance from the leadership to the WG members.
+The Chair of a working group or steering group is a member of the constitutional level decision making Steering Committee for *The Turing Way*.
+The Steering Committee has oversight of the long term strategy for the *Turing Way* community.
+The Chair is responsible for sharing learnings and requests from the Working / Delivery Group to the Steering Committee, and for bringing back requests and guidance from the Steering Committee to WG / DG members.
 
 ### Sharing responsibilities
 
-It is up to the Working Group to determine if they would like to have one Chair or up to three Co-Chairs sharing the responsibilities listed above.
+It is up to the Working / Delivery Group to determine if they would like to have one Chair or up to three Co-Chairs sharing the responsibilities listed above.
 
 In *The Turing Way* we have found that having co-chairs works very well in distributing the workload.
 For example, it can remove some of the meeting time requirements and provide more flexibility for meetings if members are connecting from multiple time zones.
 
 We also acknowledge that there is additional work in sharing the responsibilities.
-Two co-chairs do more work than one chair because they have to communicate with each other!
+Two co-chairs do more work than one chair because they have to communicate and align with each other!
 
 We encourage candidates to choose the best option for their personal work circumstances, and their preferred collaboration styles.
 
@@ -77,7 +78,7 @@ Please capture these decisions in the working group's charter.
 
 > This text is adapted from the "What is the role of the Secretary" documentation in the [DIY Committee Guide](https://www.diycommitteeguide.org/) by [Volunteer Now](https://www.volunteernow.co.uk/) and is re-used under a Creative Commons Attribution Non-Commercial Share Alike 2.0. `reformat to reference: https://www.diycommitteeguide.org/what-is-the-role-of-the-secretary/`
 
-The Secretary supports the WG in ensuring there is transparent documentation of the decisions made by the group.
+The Secretary supports the WG / DG in ensuring there is transparent documentation of the decisions made by the group.
 They are also accountable for tracking communications to broader *Turing Way* community from the WG, although they do not have to take on these responsibilities individually.
 
 ### Responsibilities
@@ -86,73 +87,83 @@ There are three dimensions of the Secretary's responsibilities:
 
 #### 1. Ensuring meetings are effectively organised and minuted
 
-The Secretary will work closely with the Chair to plan meetings.
+The Secretary works closely with the Chair to plan meetings.
 They should give WG members sufficient time to add topics to the meeting agenda and circulate the agenda in advance of the meeting.
 
-We don't require working groups to take formal minutes of the meetings but we do ask that they capture and archive notes for two purposes: 
-- 1: to ensure the broader Turing Way community are able to participate in the activities of the WG, including members of the WG who are not able to attend synchronous meetings, and 
+We don't require working groups / delivery groups to take formal minutes of the meetings but we do ask that they capture and archive notes for two purposes: 
+- 1: to ensure members of the broader *Turing Way* community are able to participate in the activities of the WG / DG, including members of the WG / DG who are not able to attend synchronous meetings, and 
 - 2: to meet our guiding principle of transparent decision making. `format as reference`
 
-The Secretary should also keep track of actions that have been identified and report to the WG how they are progressing.
-The reporting will be valuable to the Chair in their representation of the WG at the Constitutional level leadership team, as well as supporting the WG to keep focused on their shared vision and goals.
+The Secretary keeps track of actions that have been identified and report to the WG / DG how they are progressing.
+The reporting is valuable to the Chair in their representation of the WG / DG at the constitutional decision making level through their membership of the Steering Council.
+The documentation also supports the WG / DG in keeping focused on their shared vision and goals.
 
 #### 2. Document membership of the WG and track acknowledgement of their work
 
 In *The Turing Way* we put acknowledgement of individuals' efforts and labour at the centre of our mission.
-The Secretary is asked to ensure that there is an up to date record of membership of the WG, including alumni members.
-They are also asked to mentor members to reguarly capture their efforts in the Contributors Record `reformat to reference: https://book.the-turing-way.org/afterword/contributors-record` of the book.
+The Secretary is asked to ensure that there is an up to date record of membership of the WG / DG, including alumni members.
+They are also asked to mentor members to regularly capture their efforts in the Contributors Record `reformat to reference: https://book.the-turing-way.org/afterword/contributors-record` of the book.
 
 #### 3. Track communication and correspondence
 
-As a combination of the two responsibilities above we ask that the Secretary keeps track of outputs and communications from the WG.
-Their role is to ensure that the activities are not happening in a silo - meeting our guiding principle of reciprocity `format to reference` - and that the WG members are appropriately celebrated for their efforts.
+As a combination of the two responsibilities above we ask that the Secretary keeps track of outputs and communications from the WG / DG.
+Their role is to ensure that the activities are not happening in a silo - meeting our guiding principle of reciprocity `format to reference` - and that the WG / DG members are appropriately celebrated for their efforts.
 
-The WG may delegate this responsibilty to another Working Group member (a communications lead, for example).
+The Secretary may delegate this responsibilty to another Working Group member (a communications lead, for example).
 This delegation should be documented in the Working Group's charter.
 
 ### Sharing responsibilities
 
 It is up to the Working Group to determine if they would like to have one Secretary or up to three Co-Secretaries sharing the responsibilities listed above.
 
-Prior to summer 2024, we have not formalised the role of Secretary within *The Turing Way*.
-It may be easier for WGs to have one person who is accountable for these tasks and who delegates them to members of the WGs.
-However, as with the shared responsibilities for Co-Chairs above `reformat to reference` individuals may find it easier to work as a small team to support the WG in this role.
+Prior to 2025, we had not formalised the role of Secretary within *The Turing Way*.
+It may be easier for WGs / DGs to have one person who is accountable for these tasks and who delegates them to members of the WGs / DGs.
+However, as with the shared responsibilities for Co-Chairs above `reformat to reference` individuals may find it easier to work as a small team to support the WG / DG in this role.
 
 We encourage candidates to choose the best option for their personal work circumstances, and their preferred collaboration styles.
 
 ### Selection and duration in role
 
-It is up to the working group to determine a process for selecting a Secretary or Co-Secretaries.
+It is up to the working group / delivery group to determine a process for selecting a Secretary or Co-Secretaries.
 
-It is up to the working group to set a specific time limit on how long an individual can hold the role of Secretary or Co-Secretaries.
+It is up to the working group / delivery group to set a specific time limit on how long an individual can hold the role of Secretary or Co-Secretaries.
 
-Please capture these decisions in the working group's charter.
+Please capture these decisions in the working group's / delivery groups's charter.
 
-## *The Turing Way* Delivery Team Contact
+## Community Management Delivery Group Contact
 
-We recognise that membership of a Working Group for any open source project is a lot of effort, time, and - in some cases - emotional labour.
-The role of *The Turing Way* delivery team contact is to provide administrateive support to the WG.
-They are also well placed to maintain communications and knowledge transfer across the broader *Turing Way* community.
+We recognise that membership of a working group for any open source project is a lot of effort, time, and - in some cases - emotional labour.
 
-The delivery team contact may support the Secretary in note taking and archiving notes from the WG.
+Since the project began there has been at least one paid member of staff at The Alan Turing Institute working to support *The Turing Way* community.
+The first dedicated Community Manager was Malvika Sharan who joined the project in November 2019.
+
+The role of the Community Management Delivery Group (CMDG) contact is to provide administrative support to a WG / DG.
+Members of the Community Management Delivery Group(s) are also well placed to maintain communications and knowledge transfer across the broader *Turing Way* community.
+
+The CMDG contact may support the Secretary in note taking and archiving notes from the WG / DG.
 They may also track communications or project management activities.
 
-As paid members of *The Turing Way* project, the delivery team contact is well placed to triage decisions that can be made autonomously at the "Maintainer" leadership level, or need to be escalated to the "Constitutional" leadership.
+As paid members of *The Turing Way* project, the CMDG contact is well placed to triage decisions that can be made autonomously at the "Maintainer" leadership level, or need to be escalated to the Steering Council at the "Constitutional" leadership level.
 They can help to scope and test ideas that are generated within the WG with other members of *The Turing Way* community, or raise suggestions from other WGs without waiting for formal leadership meetings and decisions.
 
 ### Sharing responsibilities
 
-We do not anticipate having two people share responsibilities for this role as it will be held by a paid member of *The Turing Way* project.
+We do not anticipate having two people share responsibilities for this role as it will be held by a paid member of one of the Community Management Delivery Group members project.
+
+If they are unable to undertake their duties for any reason (annual leave, sick leave, caring leave, work related travel) the CMDG contact is expected to find cover for their responsibilities from within the CMDG team.
 
 ### Selection and duration in role
 
-The *Turing Way* delivery team contact will be selected by the Turing Way's delivery team with consultation from the Chair or Co-Chairs of the working group.
+The Community Management Delivery Group contact will be selected by the chair of the Community Managemtn Delivery Team in consultation from the Chair of the working group / delivery group.
 
 There is no limit to how long this team member can be in this role.
 
-## WG Members
+## Working Group Members
 
-Any Turing Way community member are encouraged to join a WG without restriction, and without taking on a leadership role.
+Any *Turing Way* community member is encouraged to join a Working Group so long as they meet the membership requirements outlined in the working group's charter.
+They do not need to take on a leadership role to join the WG.
+
+Note that Delivery Groups membership is by invitation only due to the external accountability constraints placed on delivery group activities.
 
 ### Responsibilities
 

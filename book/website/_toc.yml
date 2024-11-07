@@ -797,6 +797,21 @@ chapters:
             file: community-handbook/coc/coc-enforcement
           - title: Acknowledgements
             file: community-handbook/coc/coc-acknowledgement
+      - title: Governance and Decision Making
+        file: community-handbook/governance
+        sections:
+          - title: 
+            file: community-handbook/governance/gov-guiding-principles
+          - title: Maintenance Level Decision Making
+            file: community-handbook/governance/gov-maintainance
+          - title: Working Groups
+            file: community-handbook/governance/gov-working-groups
+          - title: Delivery Groups
+            file: community-handbook/governance/gov-delivery-groups
+          - title: Consitutional Level Decision Making
+            file: community-handbook/governance/gov-constitutional
+          - title: Roles and Responsibilities
+            file: community-handbook/governance/gov-roles
       - title: Style Guide
         file: community-handbook/style
         sections:
