@@ -45,7 +45,7 @@ If there are any other channels you'd like to see in the workspace, or ones that
 
 ## Best Practices for using Slack
 
-As with all of our communication channels, *The Turing Way* slack abides by our [Code of Conduct](https://the-turing-way.netlify.app/community-handbook/coc.html).
+As with all of our communication channels, *The Turing Way* slack abides by our [Code of Conduct](https://book.the-turing-way.org/community-handbook/coc.html).
 
 We are in the process of developing platform-specific guidelines for Slack and other community platforms. While these are being developed, here are a few general guidelines to get you started:
 

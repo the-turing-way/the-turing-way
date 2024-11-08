@@ -22,7 +22,7 @@ If you encrypted the data (see point 4 below), you can also **delete the encrypt
 * Before deciding to transfer personal data, you should consider whether the transfer of identifiable data is necessary.
 For example, can data be de-identified or anonymised? 
 * If data cannot be made unidentifiable then you must ensure you have authority to transfer the personal data, and that there are appropriate safeguards in place to protect the data before, during and after transit.
-* Keeping data in one place is safer than transfering it elsewhere. 
+* Keeping data in one place is safer than transferring it elsewhere. 
 Consider whether it is possible to provide access to the data, instead of transferring them outside of your institution.
 * Often your university or institute will provide solutions for secure file transfer. 
 Contact you research data, privacy or IT support team for guidance. 

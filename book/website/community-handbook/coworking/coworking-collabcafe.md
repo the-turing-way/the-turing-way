@@ -1,6 +1,15 @@
 (ch-coworking-collabcafe)=
 # Online Collaboration Cafe
 
+```{figure} ../../figures/collaboration-cafe.*
+---
+height: 500px
+name: collaboration-cafe
+alt: Cartoon-like sketch in a green, teal, and orange colorscheme, with three main elements. First, in the center of the image is a large maple leaf, where it's interior has been sectioned into four panels. Each panel has an individual contributing to a collaboration cafe. All individuals are facing each other, by looking diagonally towards the center of where all four panels join. The individuals are (in the top left) holding a physical copy of a document, (in the bottom left) holding a mug, (in the bottom right) holding their hand up and raising their index finger, gesturing to bring something up. The maple leaf also has a green banner below reading "Collaboration Cafe". Secondly, there is an oval element, connected, via a continuous line, to the top right portion of the maple leaf. In this oval element, 5 individuals are sitting on a leaf-shaped table, in discussion. Lastly, there is a second oval element, connected via a continuous line, to the top left portion of the maple leaf. This oval has someone overlooking their laptop, which has a video call on the screen, with one person in the video call being enlarged and two others also being part of the call
+---
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
+```
+
 _The Turing Way_ Collaboration Cafes (or 'Cafés' with an accent) are virtual co-working spaces that are held fortnightly on the first and third Wednesdays of each month for 2 hours.
 The schedule will be updated periodically on our [Community Calendar](https://calendar.google.com/calendar?cid=dGhldHVyaW5nd2F5QGdtYWlsLmNvbQ) as per the community requirement.
 
@@ -28,8 +37,8 @@ It is important that any one joining a Collaboration Cafe has an interest in _Th
 If a meeting is on a topic or for a purpose completely separate to "reproducible, ethical and collaborative data science", it may not be the best fit for a Collaboration Cafe.
 
 When inviting new people, please forward the Zoom call for the meeting and the shared document with introduction text like one of the following:
-- Collaboration Cafes are The Turing Way's regular online collaboration and coworking calls where community members work on contributions to the project, discuss shared interests, or learn about how to get involved. You can learn more [here](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html). All of our calls adhere to our code of conduct. Please take a moment to read this [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
-- I look forward to meeting at The Turing Way Collaboration Cafe, which will be a chance for us to discuss, co-work, and share and get feedback on our work with The Turing Way community. You can learn more the calls [here](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html). All of our calls adhere to our [code of conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
+- Collaboration Cafes are The Turing Way's regular online collaboration and coworking calls where community members work on contributions to the project, discuss shared interests, or learn about how to get involved. You can learn more [here](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html). All of our calls adhere to our code of conduct. Please take a moment to read this [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
+- I look forward to meeting at The Turing Way Collaboration Cafe, which will be a chance for us to discuss, co-work, and share and get feedback on our work with The Turing Way community. You can learn more the calls [here](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html). All of our calls adhere to our [code of conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
 
 ### Resources used for the call
 
@@ -199,7 +208,7 @@ You'll see a breakout section in the shared notes:
 > *If you have an idea for a topic you'd like to discuss in a breakout room, please add it below and put your name next to it.*
 > *If you like one of the topics that are already suggested, please add your name next to that one.*
 > *Teamwork makes the dream work.*
-> *For more information about breakout rooms see [the description on The Turing Way](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms).*
+> *For more information about breakout rooms see [the description on The Turing Way](https://book.the-turing-way.org/community-handbook/coworking/coworking-collabcafe.html#breakout-rooms).*
 
 For each session, you can propose a conversation to have in a breakout room or add your name to join a suggestion that is already on the list.
 

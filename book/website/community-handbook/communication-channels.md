@@ -28,7 +28,7 @@ To indicate the specific nature of the issue/discussion, we also use words such 
 
 ## Synchronous Communications
 
-We use the Slack and social media platforms to engage with our collaborators and community members synchrnously.
+We use the Slack and social media platforms to engage with our collaborators and community members synchronously.
 
 ### Slack Workspace
 

@@ -123,6 +123,15 @@ Contributors
 Corresponding author
   The person who administers an academic article for the research group. They are responsible for receiving the reviewers comments, the proofs, corresponding with the editors and their details are printed on the final version of the published article.
 
+Creative Commons
+  Creative commons licenses provide standard language with which to place a creative work into the commons by providing simple terms under which others can re-use it.
+  This is necessary as in almost all legal regimes by default authors reserve all rights to works even if they make them publicly available unless they explicitly provide a license stipulating otherwise.
+  You can read more about copyright and licensing in {ref}`the chapter on licensing<rr-licensing>`.
+  The 'CC0' is a public domain dedication waiving the copyright and anyone to use the work as they see fit.
+  There are a number of variants on the creative license which use the copyright on the work to stipulate terms on which it can be re-used.
+  The variants add or modify terms of the license, such as requiring attribution (BY), prohibiting commercial re-use (NC), prohibiting derivative works (ND), and requiring that any derivative works be shared under equivalent terms (SA).
+  The organisation [Creative Commons (CC)](https://web.archive.org/web/20240704044626/https://creativecommons.org/) is a non-profit (501(c)(3)) based in the USA with a number of international affiliates.
+
 CRediT Taxonomy
   The CRediT Taxonomy is a high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output. These details are becoming increasingly required by journals as well as authors meeting authorship criteria.
 
@@ -145,7 +154,7 @@ DMP
 
 DNS
   Domain Name System.
-  The system which translates domain names, for example the-turing-way.netlify.app, to the IP addressess used by computer networks.
+  The system which translates domain names, for example book.the-turing-way.org, to the IP addressess used by computer networks.
 
 Docker Container
   An active computational environment executed from a Docker image.
@@ -170,14 +179,23 @@ Digital Object Identifier
 
 ```{glossary}
 
+End to End Test
+  A test that runs the program from beginning to end and verifies that the output is correct.
+
 Epistemology
-  Theory of knowledge and deals with how knowledge is gathered and from which sources. In research terms your view of the world and of knowledge strongly influences your interpretation of data and therefore your philosophical standpoint should be made clear from the beginning. (Source: [Post by Nicole Brown](https://www.nicole-brown.co.uk/epistemology/))
+  Theory of knowledge and deals with how knowledge is gathered and from which sources.
+  In research terms your view of the world and of knowledge strongly influences your interpretation of data and therefore your philosophical standpoint should be made clear from the beginning {cite}`brownEpistemology2015`.
 
 Equitable, Diverse and Inclusive Practices
   Ensuring scholarship is open to anyone without barriers based on factors such as race, background, gender, and sexual orientation.
 
-End to End Test
-  A test that runs the program from beginning to end and verifies that the output is correct.
+Ethical Source Software
+  These licenses were created as 'traditional' {term}`open source <Open Source Software>` licenses make no restictions on the uses to which the software can be put including unethical uses.
+  These licenses require that software is used in ways that respect fundamental human rights.
+  This can be thought of as relaxing the hardline 'freedom to run software for any purpose' stipulation required for software to qualify as free / libre or open source by the conventional definitions.  
+  Whilst these licenses sought to be considered {term}`open source <Open Source Software>`, their terms place restrictions on the uses to which the software can be put so that anyone using the software in a way the licenses consider unethical would potentially expose themselves to liability.
+  Use restictions are prohibited by conventional definitions of open source so ethical source license could be thought of as a form of {term}`source available<Source Available>` license.
+  See: {ref}`Ethical Source<rr-licensing-ethical>` for more.
 
 ```
 
@@ -190,12 +208,29 @@ End to End Test
 FAIR
   Findable, Accessible, Interoperable and Reusable.
 
+Fair Code
+  A software licensing model where code is commercially restricted by it's authors but the source code is generally available and can be freely distributed and modified but with limits on how and if it can be used commercially.
+  The model is described at [faircode.io](https://web.archive.org/web/20240621082333/https://faircode.io/), examples include the [Business Source License](https://web.archive.org/web/20240608005051/https://mariadb.com/bsl11/) and the [Elastic License 2.0](https://web.archive.org/web/20240625130857/https://www.elastic.co/licensing/elastic-license).
+  A number of attempts have been made to make licenses with a similar intent, this space is somewhat controversial in free and open source software spaces, where restrictions on the ways in which software can be used disfavoured.
+  Fair-code can be considered a subset of {term}`source available<Source Available>` code.
+
 Federated Learning
-  A design paradigm for information processing technologies in which the processing of information is decentralized and local data samples are not exchanged in full with a central entity. Used in machine learning to denote a system where learning is carried out via multiple nodes through the exchange of parameter values or other learning products rather than data samples directly.
+  A design paradigm for information processing technologies in which the processing of information is decentralized and local data samples are not exchanged in full with a central entity.
+  Used in machine learning to denote a system where learning is carried out via multiple nodes through the exchange of parameter values or other learning products rather than data samples directly.
 
 First author
   The most prominent position in academic authorship. It conveys this person's position as the researcher who has made the greatest contribution to the research.
 
+Free or Libre Software
+  The [Free Software Foundation (FSF)](https://web.archive.org/web/20240619064659/https://www.gnu.org/philosophy/free-sw.html) states that: "'Free software' means software that respects users' freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software.", refer to their website for a lengthier definition, see also the [Debian Free Software Guidelines](https://web.archive.org/web/20240517221908/https://wiki.debian.org/DebianFreeSoftwareGuidelines).
+  Free software does not have to be monetarily free (gratis) you can buy and sell copies.
+  Its chief concern is liberty not price, hence the use of 'libre software' as the word free in english does not distinguish these concepts.
+  Notably almost all {term}`open source software<Open Source Software>` is also 'free' and the different terms reflect philosophical differences largely in the motivation for advocating for these freedoms.
+
+Free Cultural Works
+  A list of conditions under which a work must be shared in order to be considered 'free' meaning that anyone is free to use, modify and distribute the work including derived works for any purpose.
+  For a full description see: [freedomdefined.org](https://web.archive.org/web/20240630025334/https://freedomdefined.org/Definition)
+  This is a generalisation of the 'four freedoms' originally developed to define {term}`free software<Free or Libre Software>`
 ```
 
 ---
@@ -317,6 +352,7 @@ Kubernetes
 
 License
   This is a legal document that sets out the permissions for creative and academic work. It explains copyright, ensures proper attribution and sets out how others can copy, distribute and make use of the works.
+  See the chapter: {ref}`Licensing<rr-licensing>`
 
 Last author
   Usually the person in the research team with a supervisory role such as a PhD supervisor or Principal investigator. This is discipline dependent as sometimes the last author is the person that has made the smallest contribution to the research.
@@ -331,7 +367,7 @@ Last author
 
 Machine Learning (ML)
   Methods which allow computational systems to extract regularities from data which permit them to perform tasks such as prediction and categorisation in a way that is at least superfially analogous to how biological systems learn.
-  A broard sub-field of {term}`Artificial Intelligence (AI)<Artificial Intelligence (AI)>` generally distinct from Symbolic Artificial inteligence, also know as GOFAI (good old fashioned AI), which focuses on programmed systems which perform logical reasoning.
+  A broad sub-field of {term}`Artificial Intelligence (AI)<Artificial Intelligence (AI)>` generally distinct from Symbolic Artificial inteligence, also know as GOFAI (good old fashioned AI), which focuses on programmed systems which perform logical reasoning.
   Machine Learning (ML) is sometimes used interchangeably with Artificial Intelligence (AI), but often employed to differentiate concrete or extant systems and algorithms from broarder and more speculative approaches to synthetic intelligent systems.
 
 Machine Readable
@@ -384,32 +420,63 @@ Open Access publishing (gratis)
 Open Access Publishing (libre)
   Libre open access is gratis, meaning the research is available free of charge, but it goes further by granting users the right to copy, reuse, and remix the publication.
 
+Open Core
+  A model for the monetisation of software where the 'core' compenents are {term}`open source<Open Source Software>` but there are additional features and/or hosted software as a service versions of, or extensions to, the software which are proprietary and paid for.
+
 Open data
   Documenting and sharing research data openly for re-use.
 
 Open Educational Resources
   Making educational resources publicly available to be re-used and modified.
 
+Open Source
+  [opensource.com](https://web.archive.org/web/20240618150233/https://opensource.com/resources/what-open-source) describes open source as:
+  "Something people can modify and share because its design is publicly accessible".
+  The concept of 'open source' is now often extended beyond the context of its original coinage, {term}`software<Open Source Software>`,
+  to other forms of cultural or creative output, such as {term}`hardware<Open Source Hardware>` and {term}`educational resources<Open Educational Resources>`.
+  Referring to something as 'open source' generally means that it is available under an {term}`open license<Open License>`.
+  The term can also extend to an {term}`open project<Open Project>` philosophy of collaboration beyond the mere availability and open licensing of the project's source materials.
+  The term tends to, but need not, be applied in contexts where there is some 'source' material that is processed or synthesised into an output.
+  For example an image created with a simple bitmap editor might be reffered to as 'open source' despite lacking something that can be considered a 'source'.
+  In such cases the notion of a '{term}`creative commons<Creative Commons>`' or '{term}`free cultural work<Free Cultural Works>`' may better apply as these do not as obviously emphasise the availability source materials but rather end products, 
+  though they may include source materials.
+  There are also a number adjacent concepts which most often question the conventional open source prohibtion on restricting the uses to which open source things can be put, examples include: '{term}`ethical source<Ethical Source Software>`' and '{term}`Fair Code<Fair Code>`'.
+
 Open Source Hardware
   Hardware whose design is made publicly available so that anyone can study, modify, distribute, make, and sell the design or hardware based on that design. 
 
+Open Source Software
+  Broadly, users of the software must able to inspect, modify and redistribute the source code of the software as they see fit, and not restrict the uses to which the code can be put or by whom it can be used.
+
+  The [Open Source Initiative (OSI)](https://opensource.org/) offers a widely used definition of Open Source Software: The [Open Source Definition (OSD)](https://web.archive.org/web/20240619054907/https://opensource.org/osd) which is comprised of 10 criteria with which the terms of distribution of software must comply to meet their definition.
+  The OSI maintains a list of licenses which have gone through their review process and been approved.
+
+  Open source software should not be confused with {term}`source available<Source Available>` software it is not sufficient for the source code to be made available for a project to be considered open source.
+
+  Almost all open source software is also {term}`Free / Libre Software<Free or Libre Software>`.
+  For more details see: {ref}`Licensing<rr-licensing>` and {ref}`Open Source Software<rr-open-source>`.
+
+Open Scholarship
+  This is a concept that extends open research further.
+  It relates to making other aspects of scientific research open to the public such as open educational resources, having inclusive practice and citizen science.
+
 Open License
-  A license is a document that specifies what can and cannot be done with a work. It grants permissions and states restrictions. Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
+  A license is a document that specifies what can and cannot be done with a work.
+  It grants permissions and states restrictions.
+  Broadly speaking, an open license is one that grants permission to access, re-use and redistribute a work with few or no restrictions.
+  (See {ref}`licensing<rr-licensing>` for more details)
 
 Open Notebooks
   An emerging practice, documenting and sharing the experimental process of trial and error (see {ref}`Open Notebooks <rr-open-notebooks>`).
 
-Open Scholarship
-  This is a concept that extends open research further. It relates to making other aspects of scientific research open to the public such as open educational resources, having inclusive practice and citizen science.
-
 Open Project
-  *Same as Open Science or Open Research Projects*. A project in which a significant amount of collaboration between the core or leadership team and the wider community takes place in the form of online interactions. Community interactions should maintain transparency and openness of the project to facilitate the growth of your community.
-
-Open Source Software
-  Documenting research code and routines, and making them freely accessible and available.
+  *Same as Open Science or Open Research Projects*.
+  A project in which a significant amount of collaboration between the core or leadership team and the wider community takes place in the form of online interactions.
+  Community interactions should maintain transparency and openness of the project to facilitate the growth of your community.
 
 ORCID
-  Open Researchers and Contributor iD. It is a long lasting unique identifier for you as a researcher. A persistent digital identifier for researchers' that can be used on publications to ensure fair credit is given for all the researchers works.
+  Open Researchers and Contributor iD. It is a long lasting unique identifier for you as a researcher.
+  A persistent digital identifier for researchers' that can be used on publications to ensure fair credit is given for all the researchers works.
 
 Owner
   The person/s who has administrative ownership over the organization or repository (not always the same as the original author).
@@ -569,6 +636,11 @@ Shared authorship
 
 Smoke Testing
   Very brief initial checks that ensure the basic requirements required to run the project hold. If these fail there is no point proceeding to additional levels of testing until they are fixed.
+
+Source Available
+  Where the source code of a piece of software is made available but not under the terms of an {term}`open license<Open License>`, you may have to pay to access the source code and agree to terms which prohibit its redistribution, or the code may be generally available and only prohibit commercial redistribution.
+  Source available code is proprietary but not closed source.
+  Whilst generally used in the context of software it can apply in other contexts such as {term}`open hardware<Open Source Hardware>`.
 
 Staged
   Staging the changes that will be included in the next git commit.
