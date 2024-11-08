@@ -29,6 +29,12 @@ These have been divided into two categories, depending upon whether a person wan
 
 ### No-Code/Low-Code frameworks
 
+#### What is no-code/low-code?
+
+Low-Code/No-Code (LCNC) refers to a set of development approaches that allow users to build applications and software solutions with minimal to no coding knowledge. These platforms leverage visual interfaces, drag-and-drop components, and pre-built templates, making it accessible for users who aren't skilled in programming.
+
+#### Examples
+
 * [GitHub profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
   * Use GitHub repository [beautify my GitHub](<https://github.com/rzashakeri/beautify-github-profile>), to customize your GH profile.
 * [mmm](https://mmm.page/)
@@ -39,6 +45,12 @@ These have been divided into two categories, depending upon whether a person wan
 (cm-personal-websites-frameworks-procode)=
 
 ### Pro-code/High-Code frameworks
+
+#### What is pro-code/high-code?
+
+Pro-Code (or High-Code) development refers to traditional software development approaches where applications are built primarily through hand-coding by skilled developers, using programming languages and frameworks without relying on visual builders or drag-and-drop components. This approach allows for maximum flexibility, customization, and control over different aspects of the application.
+
+#### Examples
 
 * [Academic pages](https://github.com/academicpages/academicpages.github.io)
 * [Blogdown](https://bookdown.org/yihui/blogdown/) (R)
