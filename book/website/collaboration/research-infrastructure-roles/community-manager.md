@@ -1,6 +1,6 @@
 (cl-infrastructure-community-managers)=
 # Research Community Managers: Overview
-**test for Jessie to delete!!**
+
 Community Management as a profession was developed to facilitate the social, informal and formal learning processes, which take place in Communities of Practice - "groups of people who share a concern, a set of problems, or a passion about a topic, and who deepen their knowledge and expertise in this area by interacting on an ongoing basis" <mark>Ref: Lave, Jean, and Etienne Wenger. Situated Learning: Legitimate Peripheral Participation. Cambridge, Cambridge University Press, 1991.</mark>. 
 Community Managers have been employed in open source projects in technical industries  since the early 1990's <mark>Ref:  Michlmayr, M., 2009. Community management in open source projects. The European Journal for the Informatics Professional, X (3), pp.22-26. https://www.cyrius.com/publications/michlmayr-community_management.pdf</mark>, and more recently in research organisations (Universities and research institutes), where they are often known as Research Community Managers.
 
@@ -112,12 +112,16 @@ See the full document on [Zenodo](https://zenodo.org/record/4437294#.YYjzg07P1aQ
 
 
 (cl-infrastructure-community-managers-organisations)=
-## Organisations that support Community Managers
+## Organisations that support Research Community Managers
 The Center for Scientific Collaboration and Community Engagement ([cscce.org](https://www.cscce.org/) works to _"professionalize and institutionalize the role of the community engagement manager (CEM) within science."_ 
 They offer training, co-created resources, research, and an active community of practice for scientific community managers to connect and support each other. 
 
+The Alan Turing Institute has a team of Research Community Managers that work across different data science communities. More information about the team can be found on their [webpage](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/community-management-and-open-research). 
+They have written a paper - Sharan, M., Karoune, E., Hellon, V., van Praag, C. G., Kayumbi, G., Bennett, A., Araujo Alvarez, A., Lee Steele, A., Batchelor, S., Lacey, A., Whitaker, K. (2024). Professionalising Community Management Roles in Interdisciplinary Research Projects. ArXiv e-prints, 2409.00108. [https://arxiv.org/abs/2409.00108v1](https://arxiv.org/abs/2409.00108v1)
+And the paper includes various reusable resources such as a skills and competency framework and proposed career pathways. 
+
 (cl-infrastructure-communitymanagers-summary)=
 ## Summary
-Community Managers are an important part of scientific communities, supporting collaboration, best practices, and stewarding their communities as they develop. 
+Research Community Managers are an important part of scientific communities, supporting collaboration, best practices, and stewarding their communities as they develop. 
 They do not have a formal career path or qualifications, but typically have a scientific or research background themselves. 
 
