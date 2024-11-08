@@ -58,7 +58,7 @@ Research Community Manager and project manager will coordinate with the group to
 The WG's approval will be announced, and WG members will be supported in inviting more members to their work.
 
 **Action on the group to completed a WG charter**: All WGs need to provide 'way of working' in their charter document.
-We have provided a {ref}`ch-working-groups-charter-template`, which should be filled through group meetings or asynchronously and shared openly on WG's GitHub repo openly, inviting review and feedback from the project delivery team and community.
+We have provided a {ref}`Working Group charter template<ch-working-groups-charter-template>`, which should be filled through group meetings or asynchronously and shared openly on WG's GitHub repo openly, inviting review and feedback from the project delivery team and community.
 
 ### Establishing Expectations for WG Members' Responsibilities
 
@@ -86,7 +86,7 @@ Once a WG has been established, it is essential to identify and discuss the foll
     * Note: All WGs should upload notes to their respective GitHub repository [in *The Turing Way* organisation](https://github.com/the-turing-way/the-turing-way/). For a template, please see this template repository.
 * **Establish Appropriate Permissions for Accounts**: What accounts does this group need access to? Does this group have the proper account access and permissions to carry out its work?
     * Note: The Community Manager and/or Project Manager can assist with this!
-* **Create a WG Charter**: Please follow the {ref}`ch-working-groups-charter-template`.
+* **Create a WG Charter**: Please follow the {ref}`Working Groups Charter template<ch-gov-wg-charter-template>`.
     * Note: All WGs should openly share an updated charter to their respective GitHub repository [in *The Turing Way* organisation](https://github.com/the-turing-way/the-turing-way/).
 * **Create an Open Calendar Invite**: This may require support from a core delivery staff member to add the information to the public Google Calendar.
 * **Advertise on Community Channels**: Use Slack, GitHub, social media, and/or the *The Turing Way* newsletter to share information about your WG.

@@ -24,7 +24,7 @@ The WG also considers alternatives suggested by WG members, community members, a
 
 #### Structure of the WG
 
-*Guidance and recommendations are provided in the chapter, {ref}`<ch-gov-roles>`.*
+*Guidance and recommendations are provided in the chapter, {ref}`Roles and responsibilities<ch-gov-roles>`.*
 
 - Chairs: [NAMES]
 - Documentarian: [NAMES]
