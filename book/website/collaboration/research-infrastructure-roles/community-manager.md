@@ -94,7 +94,7 @@ See the full document on [Zenodo](https://zenodo.org/record/4437294#.YYjzg07P1aQ
 * Connecting with new audiences who are not aware of the community
 * Bridging and translating between different groups in the same field or institution 
 * Managing tasks where there are little formal processes in place 
-* Managing the different priorities of different stakeholder groups 
+* Managing priorities between different stakeholder groups 
 * Not always visible when things go well!
 * Lack of formal career progression
 
