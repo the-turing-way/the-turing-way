@@ -24,7 +24,7 @@ The WG also considers alternatives suggested by WG members, community members, a
 
 #### Structure of the WG
 
-*Guidance and recommendations are provided in the chapter, {ref}`Roles and responsibilities<ch-gov-roles>`.*
+*Guidance and recommendations are provided in the {ref}`governance roles and responsibilities<ch-gov-roles>` chapter.*
 
 - Chairs: [NAMES]
 - Documentarian: [NAMES]
@@ -36,6 +36,7 @@ The WG also considers alternatives suggested by WG members, community members, a
 Describe the responsibilities of all roles following the guidance document.
 Provide links to resources and additional information WG members should have access to.
 ```
+
 ### Responsibilities for Chair and Co-Chairs:
 
 1. Provide leadership for the WG, following the Code of Conduct and WG Charter to guide its direction and activities.
@@ -76,7 +77,7 @@ Provide links to resources and additional information WG members should have acc
 
 ### Guiding Principles
 
-- The WG members establish clear roles and responsibilities (read guidelines in {ref}`ch-working-groups-roles`).
+- The WG members establish clear roles and responsibilities (read guidelines in {ref}`roles and responsibilities<ch-gov-roles>`).
 - The WG chairs facilitate open and regular meetings to discuss agenda points invited from the WG members.
 - In areas where the WG has decision-making authority, members will strive to reach an agreement by consensus.
 - For decision-making related to agenda points or matters discussed in the WG, consensus-based recommendations and decisions are clearly communicated.
@@ -160,4 +161,4 @@ In a case where a member’s position is declared vacant, the WG chairs will inv
 - Support the documentarian in taking notes. 
 - Ensure that notes taken are accurate.
 
-*Please refer to some more useful resources in the {ref}`cl-organising-meetings`*
+*Please refer to some more useful resources in the {ref}`Organising Remote Meetings<cl-organising-meetings>` chapter in the guide for Collaboration.*

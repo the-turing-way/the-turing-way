@@ -18,9 +18,9 @@ In this chapter we detail the different levels and you can jump to that informat
 
 <!-- Turn these into links to later pages -->
 
-1. {ref}`**Community**<ch-gov-community>` level through individual contributors
-2. {ref}`**Maintainance**<ch-gov-maintenance>` level through Working Groups and Delivery Groups
-3. {ref}`**Constitutional**<ch-gov-constitutional>` level through the Steering Council
+1. **{ref}`Community<ch-gov-community>`** level through individual contributors
+2. **{ref}`Maintainance**<ch-gov-maintenance>`** level through Working Groups and Delivery Groups
+3. **{ref}`Constitutional**<ch-gov-constitutional>`** level through the Steering Council
 
 ```{figure} ../figures/three-layer-governance-mountain.*
 ---
