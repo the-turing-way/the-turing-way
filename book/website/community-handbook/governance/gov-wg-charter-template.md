@@ -1,7 +1,8 @@
-(ch-working-groups-charter-template)=
-# Template for the Working Group's Charter
+(ch-gov-wg-charter-template)=
+# Template for a Working Group Charter
 
-__*The template provided here is a revised version of the [Sample group charter provided by Collaborative Leader Network](https://collaborativeleadersnetwork.org/strategy-tools/sample-group-charter). WG conveners should use this document to discuss different aspects of their work, build a shared understanding of the ways of working and adapt this document for their respective WGs.*__
+__*The template provided here is a revised version of the [Sample group charter provided by Collaborative Leader Network](https://collaborativeleadersnetwork.org/strategy-tools/sample-group-charter).__*
+__*WG conveners should use this document to discuss different aspects of their work, build a shared understanding of the ways of working and adapt this document for their respective WGs.*__
 
 ## *The Turing Way* Working Group Charter: [GROUP's NAME HERE]
 
@@ -23,7 +24,7 @@ The WG also considers alternatives suggested by WG members, community members, a
 
 #### Structure of the WG
 
-*Guidance and recommendations are provided in the chapter, {ref}`<ch-working-groups-roles>`.*
+*Guidance and recommendations are provided in the chapter, {ref}`<ch-gov-roles>`.*
 
 - Chairs: [NAMES]
 - Documentarian: [NAMES]

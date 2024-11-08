@@ -1,4 +1,4 @@
-(ch-working-groups-guiding-principles)=
+(ch-gov-guiding-principles)=
 # Governance Guiding Principles: Inclusion, Transparency and Empowerment in Decision-Making
 
 All *Turing Way* decisons should align with the following guiding principles:
