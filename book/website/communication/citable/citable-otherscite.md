@@ -12,7 +12,7 @@ Below, we provide a brief explanation for each of these three scenarios.
 As a rule-of-thumb, every research object that plays a significant role in your research project should be cited in the publication or methodology paper. 
 For example, when using software to analyse your research data, it is vital to cite and attribute it properly.
 In some cases, the contribution of a research object may be small but critical to your results.
-You should always consider about giving credit to others for their work, showing gratitude to them, and try to implement more repeatable science {cite:ps}`LaZerte2021`
+You should always consider giving credit to others for their work, showing gratitude to them, and try to implement more repeatable science {cite:ps}`LaZerte2021`
 
 If you are unsure about what to cite because you doubt the contribution of a particular research object to your research, you can answer the following questions from {cite:ps}`ShouldICite`
 - Does the software ask you to cite it?
