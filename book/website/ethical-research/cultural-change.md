@@ -16,7 +16,7 @@ This section will continue to describe where you will encounter cultural change.
 This is followed by sub-chapters short summaries of works on cultural change, written by adrienne marie brown, William and Susan Bridges and John P. Kotter, Brian Nosek and a summary of the discussions on alternative models held by _The Turing Way_ community at the June 2024 Book Dash. 
 
 
-```{figure} ../../figures/culture-shift.*
+```{figure} ../figures/culture-shift.*
 ---
 name: culture shift
 alt: A black, white, and purple cartoon of scales. On the one side are a lot of objects, with a person buried under the pile and peering out, and on the other side only two objects with a shiny star on them, and someone standing next to them with a smile. Both sides weigh equally. The text says 'time for a cultural shift, we should value reproducibility as much as the amount of papers published.'
