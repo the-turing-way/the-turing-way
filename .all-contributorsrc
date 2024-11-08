@@ -3015,7 +3015,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/4941299?v=4",
       "profile": "http://www.getmarkup.com",
       "contributions": [
-        "review"
+        "review",
+        "content"
       ]
     },
     {
@@ -3945,7 +3946,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/25952322?v=4",
       "profile": "https://katrionagoldmann.github.io",
       "contributions": [
-        "content"
+        "content",
+        "review"
       ]
     },
     {
@@ -4882,6 +4884,42 @@
       "profile": "https://github.com/sreenithyaa",
       "contributions": [
         "review"
+      ]
+    },
+    {
+      "login": "RVFlowers",
+      "name": "Sophie T",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44363442?v=4",
+      "profile": "https://github.com/RVFlowers",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "aframosp",
+      "name": "Andrés Ramos",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13357890?v=4",
+      "profile": "http://www.astro.rug.nl/~ramos",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "bbartholdy",
+      "name": "Bjørn Peare Bartholdy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47455812?v=4",
+      "profile": "https://github.com/bbartholdy",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "LelleDi",
+      "name": "LélléD",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108274982?v=4",
+      "profile": "https://github.com/LelleDi",
+      "contributions": [
+        "content"
       ]
     }
   ],
