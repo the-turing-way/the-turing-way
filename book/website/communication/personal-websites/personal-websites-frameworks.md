@@ -1,14 +1,16 @@
 (cm-personal-websites-frameworks)=
+
 # Frameworks
 
 ## What is a framework?
 
 In website development, a framework is a set of pre-written code, tools, and libraries that help developers build and maintain websites more efficiently.
-Frameworks provide a structured foundation, offering reusable code modules, common design patterns, and guidelines, which help streamline the development process and promote best practices. 
+Frameworks provide a structured foundation, offering reusable code modules, common design patterns, and guidelines, which help streamline the development process and promote best practices.
 Frameworks provide a structured foundation, which can offer reusable code modules,
 common design patterns, and guidelines. They may help streamline the development
 
 (cm-personal-websites-frameworks-benefits)=
+
 ## Benefits of using a framework
 
 Frameworks provide several benefits for website development:
@@ -20,10 +22,11 @@ Frameworks provide several benefits for website development:
 
 ## Popular frameworks
 
-Some of the commonly used frameworks are mentioned below. 
+Some of the commonly used frameworks are mentioned below.
 These have been divided into two categories, depending upon whether a person wants to create a website using low-code or high-code options.
 
 (cm-personal-websites-frameworks-nocode)=
+
 ### No-Code/Low-Code frameworks
 
 * [GitHub (GH) profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
@@ -31,8 +34,10 @@ These have been divided into two categories, depending upon whether a person wan
 * [Wordpress](https://wordpress.com/support/five-step-website-setup/)
 * [Wix](https://www.wix.com/)
 * [Postcards](https://github.com/seankross/postcards)
+* [mmm](https://mmm.page/)
 
 (cm-personal-websites-frameworks-procode)=
+
 ### Pro-code/High-Code frameworks
 
 * [Jekyll](https://jekyllrb.com/)
@@ -43,4 +48,4 @@ These have been divided into two categories, depending upon whether a person wan
 * [Streamlit](https://streamlit.io/) (Python)
 * [Fast Html](https://fastht.ml/) (Python)
 * [Quarto](https://quarto.org/docs/gallery/#websites) (R/Python/Julia)
-* Pure HTML/CSS/Javascript 
+* Pure HTML/CSS/Javascript
