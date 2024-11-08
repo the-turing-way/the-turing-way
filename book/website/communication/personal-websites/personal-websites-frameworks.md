@@ -5,7 +5,7 @@
 
 In website development, a framework is a set of pre-written code, tools, and
 libraries that help developers build and maintain websites more efficiently.
-Frameworks provide a structured foundation, offering reusable code modules,
+Frameworks provide a structured foundation, which can offer reusable code modules,
 common design patterns, and guidelines. They may help streamline the development
 process and promote best practices. They essentially "frame" the development by
 managing basic functionalities and allowing developers to focus on the unique

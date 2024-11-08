@@ -23,7 +23,7 @@ Finally, the chapter concludes with a list of additional resources.
 
 A personal website is an online space where researchers can share their work and additional interests with a broad audience.
 It can serve as a platform to present research findings, projects, talks, publications, CV or resume, and other professional information.
-But this space is not necessarily limited to academic content; it can also be a place to share personal interests, hobbies, and other activities.
+But this space is not necessarily limited to the academic content; it can also be a place to share personal interests, hobbies, and other activities.
 As a result, this website can be customized to express the individual's unique identity and values.
 This online presence can help researchers expand their visibility, engage with a wider audience, connect with potential collaborators, and even create new career opportunities.
 
