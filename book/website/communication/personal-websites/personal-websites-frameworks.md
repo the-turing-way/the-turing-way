@@ -1,7 +1,7 @@
 (cm-personal-websites-frameworks)=
 # Frameworks
 
-## What is a framework
+## What is a framework?
 
 In website development, a framework is a set of pre-written code, tools, and
 libraries that help developers build and maintain websites more efficiently.
