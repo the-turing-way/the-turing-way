@@ -31,22 +31,22 @@ These have been divided into two categories, depending upon whether a person wan
 
 * [GitHub profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile)
   * Use GitHub repository [beautify my GitHub](<https://github.com/rzashakeri/beautify-github-profile>), to customize your GH profile.
-* [Wordpress](https://wordpress.com/support/five-step-website-setup/)
-* [Wix](https://www.wix.com/)
-* [Postcards](https://github.com/seankross/postcards)
 * [mmm](https://mmm.page/)
+* [Postcards](https://github.com/seankross/postcards)
+* [Wix](https://www.wix.com/)
+* [Wordpress](https://wordpress.com/support/five-step-website-setup/)
 
 (cm-personal-websites-frameworks-procode)=
 
 ### Pro-code/High-Code frameworks
 
-* [Jekyll](https://jekyllrb.com/)
 * [Academic pages](https://github.com/academicpages/academicpages.github.io)
-* [Hugo](https://gohugo.io/)
 * [Blogdown](https://bookdown.org/yihui/blogdown/) (R)
 * [Distill](https://rstudio.github.io/distill/) (R)
-* [Streamlit](https://streamlit.io/) (Python)
 * [Fast Html](https://fastht.ml/) (Python)
-* [Quarto](https://quarto.org/docs/gallery/#websites) (R/Python/Julia)
-* Pure HTML/CSS/Javascript
 * [GitHub Pages Portfolio](https://github.com/guilyx/awesome-github-pages-portfolios)
+* [Hugo](https://gohugo.io/)
+* [Jekyll](https://jekyllrb.com/)
+* Pure HTML/CSS/Javascript
+* [Quarto](https://quarto.org/docs/gallery/#websites) (R/Python/Julia)
+* [Streamlit](https://streamlit.io/) (Python)
