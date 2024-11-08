@@ -3,33 +3,25 @@
 
 ## What is a framework?
 
-In website development, a framework is a set of pre-written code, tools, and
-libraries that help developers build and maintain websites more efficiently.
+In website development, a framework is a set of pre-written code, tools, and libraries that help developers build and maintain websites more efficiently.
+Frameworks provide a structured foundation, offering reusable code modules, common design patterns, and guidelines, which help streamline the development process and promote best practices. 
 Frameworks provide a structured foundation, which can offer reusable code modules,
 common design patterns, and guidelines. They may help streamline the development
-process and promote best practices. They essentially "frame" the development by
-managing basic functionalities and allowing developers to focus on the unique
-aspects of their projects rather than repetitive tasks.
 
 (cm-personal-websites-frameworks-benefits)=
 ## Benefits of using a framework
 
 Frameworks provide several benefits for website development:
 
-* **Code Reusability**: Common functions are built-in, which
-reduces redundancy.
-* **Efficiency**: They allow faster development by eliminating the need
-to code every component from scratch.
-* **Scalability**: Frameworks provide a solid structure that can grow with the
-website.
-* **Security**: Many frameworks come with built-in security features and
-updates, which help mitigate vulnerabilities.
+* **Code Reusability**: Common functions are built-in, which reduces redundancy.
+* **Efficiency**: They allow faster development by eliminating the need to code every component from scratch.
+* **Scalability**: Frameworks provide a solid structure that can grow with the website.
+* **Security**: Many frameworks come with built-in security features and updates, which help mitigate vulnerabilities.
 
 ## Popular frameworks
 
-Below mentioned are some of the commonly used frameworks. These have been
-divided into two categories depending upon whether person wants to create a
-website using low-code or high-code options.
+Some of the commonly used frameworks are mentioned below. 
+These have been divided into two categories, depending upon whether a person wants to create a website using low-code or high-code options.
 
 (cm-personal-websites-frameworks-nocode)=
 ### No-Code/Low-Code frameworks
