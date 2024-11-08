@@ -1,7 +1,8 @@
 (cm-citable-cite)=
 # Citing your own Research Objects
 
-When citing your own research objects, it is important to consider the type of research object you are presenting. Here, we provide explanations for citing data, physical samples, and software.
+When citing your own research objects, it is important to consider the type of research object you are referring to. 
+Here, we provide explanations for citing data, physical samples, and software.
 
 (cm-citable-cite-data)=
 ## Citing Data
