@@ -41,11 +41,12 @@ These have been divided into two categories, depending upon whether a person wan
 ### Pro-code/High-Code frameworks
 
 * [Jekyll](https://jekyllrb.com/)
-  * [Academic pages](https://github.com/academicpages/academicpages.github.io)
+* [Academic pages](https://github.com/academicpages/academicpages.github.io)
 * [Hugo](https://gohugo.io/)
-  * [Blogdown](https://bookdown.org/yihui/blogdown/) (R)
+* [Blogdown](https://bookdown.org/yihui/blogdown/) (R)
 * [Distill](https://rstudio.github.io/distill/) (R)
 * [Streamlit](https://streamlit.io/) (Python)
 * [Fast Html](https://fastht.ml/) (Python)
 * [Quarto](https://quarto.org/docs/gallery/#websites) (R/Python/Julia)
 * Pure HTML/CSS/Javascript
+* [GitHub Pages Portfolio](https://github.com/guilyx/awesome-github-pages-portfolios)
