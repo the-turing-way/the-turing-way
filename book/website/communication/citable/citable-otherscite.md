@@ -67,4 +67,4 @@ There are many citation styles available (e.g., see [Scribbr Citation Styles Gui
 If you have the DOI of the research object, you can use tools like [CiteAs](https://citeas.org/ ) or [DOI2bib](https://www.doi2bib.org/) to directly obtain the citation in a given citation style or as a [BibTex](https://en.wikipedia.org/wiki/BibTeX) format. 
 
 Another approach is to find sources where the citation is already available in BibTex format and then apply the desired style in Latex.
-For example, for R packages you can use `citation(PACKAGE_NAME)` to check if the package has a defined citation preference (e.g., a paper instead of a link to the code repository URL), as explained in {cite:ps}`LaZerte2021`. 
+For example, for R packages you can use `citation(PACKAGE_NAME)` to check if the package has a defined citation preference (such as a paper instead of a link to the code repository URL), as explained in {cite:ps}`LaZerte2021`. 
