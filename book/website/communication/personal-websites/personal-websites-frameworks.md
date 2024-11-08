@@ -14,7 +14,7 @@ aspects of their projects rather than repetitive tasks.
 (cm-personal-websites-frameworks-benefits)=
 ## Benefits of using a framework
 
-Frameworks provide several benefits in website development:
+Frameworks provide several benefits for website development:
 
 * **Code Reusability**: Common functions are built-in, which
 reduces redundancy.
