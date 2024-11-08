@@ -45,7 +45,7 @@ Therefore, avoid using these statements to refer to the work of others.
 
 Ideally, other people's research objects would have a persistent identifier to make citation easier to others.
 In some cases, published research objects may include a statement on how to cite their research objects. 
-A common practise of citing other people's work (such as publications) is also valid for citing other research objects (e.g., data, software, images, presentations, workflows, etc.).
+A common practise of citing other people's work (such as publications) is also valid for citing other research objects (such as data, software, images, presentations, workflows).
 A citation includes the following information:
 - Author(s)
 - Title
