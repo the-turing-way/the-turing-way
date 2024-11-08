@@ -7,7 +7,7 @@ The following resources were used in drafting and creation of templates for this
 * OLS (Open Life Science): [OLS Working Groups](https://docs.google.com/document/d/1EUHvYv5wvZiJSK4yYDwwDHs9Ds6tCjqB3XezqCaetEI/edit#)
 * Project Jupyter Governance: [Standing Committees and Working Groups](https://jupyter.org/governance/standing_committees_and_working_groups.html)
 * HOTOSM: [Humanitarian OSM Team Working Groups](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Working_groups)
-* Kubernetes: [Community Governance](https://github.com/kubernetes/community/blob/master/governance.md)
+* Kubernetes: [Community Governance](https://github.com/kubernetes/community/blob/629b05ed265f93a30c2551c51c1051d7fa16eb44/governance.md)
 * Decidim: [Our Governance](https://meta.decidim.org/assemblies/our-governance)
 * Open Life Science: [Open Life Science Charter](https://docs.google.com/document/d/1pD_P8oKLenyxCM39PZxu3X8a6hZQ4jZi-fA-xBB3DXQ/edit#heading=h.gjdgxs)
 * Django: [Django Internals Organization](https://docs.djangoproject.com/en/dev/internals/organization/)

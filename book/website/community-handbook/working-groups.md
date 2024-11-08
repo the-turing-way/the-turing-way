@@ -8,7 +8,7 @@ WG members collaborate to provide accountability, solve problems and make decisi
 
 You can explore some examples of open research projects that use working groups as part of their governance at the following links:
 * Project Jupyter: [Standing committees and working groups](https://jupyter.org/governance/standing_committees_and_working_groups.html)
-* Kubernetes: [Working groups and special interest groups](https://github.com/kubernetes/community/blob/master/governance.md)
+* Kubernetes: [Working groups and special interest groups](https://github.com/kubernetes/community/blob/629b05ed265f93a30c2551c51c1051d7fa16eb44/governance.md)
 * Eclipse Foundation: [Working groups](https://www.eclipse.org/org/workinggroups/process.php#wg-member-roles)
 * Sustain OSS: [Working groups](https://sustainoss.org/working-groups/)
 * The Carpentries: [Committees and task forces](https://carpentries.org/committees) 
