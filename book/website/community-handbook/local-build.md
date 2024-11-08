@@ -106,26 +106,6 @@ Or paste this line directly into your browser bar:
 
 Open `index.html` in your web browser to look at your local build.
 
-### Other Targets
-
-There are other build targets you can use.
-The `strict` target is useful for debugging.
-It will make any warnings raise an error, but also continue the build.
-That way, all warnings should be presented to you as errors.
-Run the strict build with,
-
-```console
-$ make strict
-```
-
-You can build the book with user pathways with,
-
-```console
-$ make pathways
-```
-
-This is the build of the book which is deployed to the website.
-
 ## Building Previews for Different Branches
 
 The build process will use the source files from whatever branch you have checked out.
@@ -148,6 +128,33 @@ To remove the outputs of builds use the `clean` target,
 ```console
 $ make clean
 ```
+
+### Other Targets
+
+#### Strict Build
+
+The `strict` target is useful for debugging.
+It will make any warnings raise an error, but also continue the build.
+That way, all warnings should be presented to you as errors.
+Run the strict build with,
+
+```console
+$ make strict
+```
+
+#### Pathways Build
+
+_The Turing Way_ has curated user pathways, collecting a series of recommended chapters for different reader types.
+The [pathways program](https://github.com/the-turing-way/pathways) generates extra Markdown files to add the pathways to the book.
+The `build` target does not generate these files, so a clean build (`make clean && make build`) will not have pathways.
+To build the book with pathways, use the `pathways` target,
+
+```console
+$ make pathways
+```
+
+This will generate the pathways files then build the book.
+This is the build of the book which is deployed to the website.
 
 ## Why We Recommend Using a Virtual Environment
 
