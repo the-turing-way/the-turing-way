@@ -90,7 +90,16 @@ This model, represented as a pyramid similar to Maslov's Hierarchy of Needs, sug
 4. Fourth tier - Incentives - Make it rewarding
 5. Fifth tier - Policies - Make it required 
 
-**Note for reviewers - need to check whether we can reproduce the figure here under CC-BY**
+```{figure} ../../figures/strategy-culture-change-nosek.*
+---
+height: 400px
+name: Nosek et al Strategy for Culture Change Diagram
+alt: >
+  A black and white pyramid depicting Nosek's model of culture change in open research. It follows the outline described in the text above, with infrastructure as the baseline, followed by user interface/experience, communities, incentives, and policies at the top of the pyramid. Text beginning with "Make it..." is listed outside the pyramid to the right of the structure. 
+---
+Diagram for Nosek's model of culture change in open research. 
+Used under a CC-BY 4.0 licence. (Strategy for Culture Change - 11 June 2019)[https://www.cos.io/blog/strategy-for-culture-change].
+```
 
 This strategy for culture change differs from Kotter and William and Susan Bridges perspectives on culture change.
 Those perspectives are centred around providing and understanding the motivations for why people would want to change, and building a shared vision before building the infrastructure to support the change. 
