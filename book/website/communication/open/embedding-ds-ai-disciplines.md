@@ -74,7 +74,8 @@ The course is open to applicants with a technical background such as statistics 
 
 As previously mentioned, non-cognate does not necessarily mean non-computing, non-mathematics, or non-STEM, so it is important not to make assumptions about students’ prior knowledge and skills. The suggestions below can apply to broad data science and AI education, but educators teaching non-cognate students may find them particularly useful for tailoring teaching and learning to students' needs and skillset. These different pedagogical approaches are designed to help you gain insights into your students’ understanding of specific concepts or topics, allowing you to better support their individual progress. 
 
-1. **Assessment for Learning (AfL)** is used during learning, and it is useufl to identify students' demographic, students’ needs and starting point, and to generate feedback they can use to improve performance. AfL can take different forms: it could be as simple as observing class discussions, asking questions in oral or written form, or using collaborative tools such as Miro or Notion to leverage visual aids and conceptual mapping. 
+1. **Assessment for Learning** is used during learning, and it is useful to identify student demographics, student needs and starting points, and to generate feedback they can use to improve performance. 
+Assessment for Learning can take different forms: it could be as simple as observing class discussions, asking questions in oral or written form, or using collaborative tools such as Miro or Notion to leverage visual aids and conceptual mapping. 
 
 AfL informs changes you can make to your lesson straight away to make it more effective. Through AfL, students will:
 
