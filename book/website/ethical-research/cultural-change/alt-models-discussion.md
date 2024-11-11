@@ -18,28 +18,29 @@ _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licen
 (er-cc-am-discussion-vacuum)=
 ## Culture Change Doesn't Happen in a Vacuum
 As part of the overall Scientific Reform movement, many researchers and advocates have long acknowledged the need for substantial interventions in research culture to move practices towards more open, reproducible and collaborative work. 
-These interventions have mostly been focused on either a) technological solutions seeking to address perceived failings and restrictions in the current academic publishing system or b) top-down policy requirements mandating openness (for example Plan S, UKRI open research policy).
+These interventions have mostly been focused on either a) technological solutions seeking to address perceived failings and restrictions in the current academic publishing system or b) top-down policy requirements mandating openness (for example [Plan S](https://www.coalition-s.org/why-plan-s/), [UKRI open research stance](https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/)).
 
 However, our discussion began with many participants flagging that culture is part of an overarching series of systems within society, that are all interconnected and influence each other. 
 Cultural change in academia, like that sought by open research advocates, therefore needs to be understood through the lens of system change. 
 For example, many advocates want the academic credit and recognition system to move away from number of papers published as a metric for success. 
 This would mean changing the way that promotions are awarded, research institutions evaluated, and academic knowledge shared. 
 Publishing companies, who make large profits from publishing academic research, are likely to fight against the change if they think it will harm their profits. 
-It is always possible to change cultures, big and small, but taking into account the wider factors also in play when we seek to change the was research is produced can help identify previously unconsidered barriers and pitfalls.
+It is always possible to change cultures, big and small, but it will be easier when we take into account the wider factors also in play. 
+When we seek to change the was research is produced we need to identify and consider previously unconsidered barriers and pitfalls.
 
 (er-cc-am-discussion-modelsmatter)=
 ## Models Matter 
 As referenced in {ref}`er-cultural-change-pyramid` the portrayal by Nosek et al, of culture change as a pyramid with infrastructure at the bottom has drawn criticisms. 
 Certainly participants in the culture change discussion expressed confusion, disconnect, and disappointment at the apparent disempowerment of communities inferred from their position in the diagram, and the exclusion of key factors in driving change, such as consultation with communities, feedback loops, and the impact this approach might have on researchers.
 The explicit hierarchy can also be interpreted as assigning relative importance to each of the stages, when often their relative importance fluctuates depending on the norms, practices, existing infrastructure, and the influence that each of these factors exerts on the other. 
-Although the blog post in which the model is introduced offers more context about why specifically, the authors have chosen to present their model for change in this way, we now frequently see the diagram taken out of context and used to justify techno-solutionism.
-This further underscores the need for advocates to think critically about designing visual representations and how they may be misinterpreted or used out of context.
-This might need to be balanced against the effectiveness of communicating concepts using simple structures and clear diagrams
+Although the blog post in which the model is introduced offers more context about why specifically, we now frequently see the diagram taken out of context and used to justify techno-solutionism.
+Advocates for change therefore need to think critically about designing visual representations and how they may be misinterpreted or used out of context.
+There is a balance between using simple structures and clear diagrams, and communicating complex concepts effectively.
 
 (er-cc-am-discussion-factors)=
 ## Factors to consider in culture change modelling
 
-So, if we reject the hierarchical perspective presented in Nosek et al in our discussion, what are the factors we feel need to be considered when it comes to culture change in research practices?
+So, if we reject the hierarchical perspective presented by Nosek in our discussion, what are the factors we feel need to be considered when it comes to culture change in research practices?
 The group discussed several broad groups of factors, all of which 
 
 ### The past 
@@ -49,7 +50,7 @@ Those advocating for cultural change will find they need to push to address resi
 ### Aligning systems and behaviour 
 Systems and behaviour often need to be tackled in parallel. 
 It's hard to change someone's behaviour if the system is not capable of supporting the change; and changing the system does not automatically change people's behaviours (see open access mandates).
-They may not match perfectly at first, but it critical to acknowledge and address both if you are seeking long-term change.
+They may not match perfectly at first, but it is critical to acknowledge and address both if you are seeking long-term change.
 
 ### Taking care 
 Change is often hard for people, even when they can clearly see the need for it. 
@@ -70,7 +71,7 @@ From the group discussion we came up with a number of different representations 
 
 * A buffet of culture change factors, with sizing according their influence in specific situations, avoiding the implicit and explicit hierarchy of other models.
 * An expanded pyramid with more feedback loops and other factors feeding into each level to demonstrate the complexity of change.
-* A 4-way matrix between human infrastructure, technical infrastructure, community needs and problems, and societal infrastructure, all interconnected and feeding back on each other. 
+* A four-way matrix between human infrastructure, technical infrastructure, community needs and problems, and societal infrastructure, all interconnected and feeding back on each other. 
 
 None of these are perfect models, and in all cases, models only serve to help us structure our thinking about change and how it happens. 
 The critical work is the doing: the talking to people, uncovering community issues, working to find solutions, and demonstrating the leadership needed to get people excited about a future that holds less of the same. 
