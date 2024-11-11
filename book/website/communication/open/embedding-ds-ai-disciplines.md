@@ -6,7 +6,7 @@
 With technology increasingly shaping our future, it is essential to offer opportunities to develop these skills across a broader range of fields, ensuring the necessary expertise and competencies are cultivated beyond their traditional domains. 
 This chapter profiles non-cognate students, offers suggestions for educators teaching Data Science in non-cognate disciplines, and highlights a series of good practices and pedagogical approaches for engaging with non-cognate students.
 
-**Data science (DS) is a truly interdisciplinary field that can be described as the integration of computational and digital technologies, statistical and mathematical knowledge, and disciplinary expertise** (Jiang et al., 2022). It also represents a rapidly growing methodological approach for educational practice (Estrellado et al., 2020) and research (McFarland et al., 2021).
+**Data science is a truly interdisciplinary field that can be described as the integration of computational and digital technologies, statistical and mathematical knowledge, and disciplinary expertise** (Jiang et al., 2022). It also represents a rapidly growing methodological approach for educational practice (Estrellado et al., 2020) and research (McFarland et al., 2021).
 
 ![DS](https://hackmd.io/_uploads/Syk1aiJcR.png)
 *Figure 1. The interdisciplinary nature of Data Science.*
