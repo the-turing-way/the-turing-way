@@ -21,7 +21,7 @@ As part of the overall Scientific Reform movement, many researchers and advocate
 These interventions have mostly been focused on either a) technological solutions seeking to address perceived failings and restrictions in the current academic publishing system or b) top-down policy requirements mandating openness (for example Plan S, UKRI open research policy).
 
 However, our discussion began with many participants flagging that culture is part of an overarching series of systems within society, that are all interconnected and influence each other. 
-Cultural change, like that sought by open research advocates, on the scale of all of academia, therefore needs to be understood through the lens of system change. 
+Cultural change in academia, like that sought by open research advocates, therefore needs to be understood through the lens of system change. 
 For example, many advocates want the academic credit and recognition system to move away from number of papers published as a metric for success. 
 This would mean changing the way that promotions are awarded, research institutions evaluated, and academic knowledge shared. 
 Publishing companies, who make large profits from publishing academic research, are likely to fight against the change if they think it will harm their profits. 
