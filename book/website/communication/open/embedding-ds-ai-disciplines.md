@@ -88,7 +88,10 @@ AfL informs changes you can make to your lesson straight away to make it more ef
 In *Seven Myths of Education* (2014), Daisy Christodoulou suggests that teachers should act as "thermostats, not thermometers" meaning they should not only measure where a student is but also make necessary adjustments to guide them to where they need to be. 
 This perspective is fundamental when thinking about assessment for learning, and to understand the critical role of effective feedback.
 
-**Effective feedback in AfL**: Effective feedback requires active listening from both the educator and the student. As part of the questioning process, it is an essential tool for developing students' thinking. Feedback must be task-focused, timely, specific, clear and unbiased. In this way, you will provide your students with information about their current performance and guidance on how they can improve to reach their goals.
+**Effective feedback in assessment for learning**: Effective feedback requires active listening from both the educator and the student. 
+As part of the questioning process, it is an essential tool for developing students' thinking. 
+Feedback must be task-focused, timely, specific, clear and unbiased. 
+In this way, you will provide your students with information about their current performance and guidance on how they can improve to reach their goals.
 
 2. **Formative Assessment (FA)** supports teaching by assessing a learner's state and inferring next steps (Zhai et al., 2021). It is similar to AfL, as both methods are used to understand student progress and inform teaching. However, while AfL is carried out during learning to inform teaching and identify areas for improvement, FA is used for day-to-day assessments to gauge and explore students' understanding of a topic.
 
