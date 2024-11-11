@@ -11,7 +11,8 @@ This chapter profiles non-cognate students, offers suggestions for educators tea
 ![DS](https://hackmd.io/_uploads/Syk1aiJcR.png)
 *Figure 1. The interdisciplinary nature of Data Science.*
 
-In the constantly growing data-intensive society, data science is being applied within various **non-cognate disciplines** such as arts, history, and social sciences. It's important to understand how to adapt tools and develop skills in different contexts, particularly data literacy, and how educators can support the development of these specific competencies.
+In the constantly growing data-intensive society, data science is being applied within various **non-cognate disciplines** such as arts, history, and social sciences. 
+It's important for people involved in training people in these disciplines to understand how to adapt tools and develop skills in different contexts, particularly data literacy, and how educators can support the development of these specific competencies.
 Data literacy is traditionally defined as the ability to explore, understand, and communicate data as information. This definition can be expanded by a recent contribution from Gebre (2022), who identifies key elements of data literacy, including general competencies such as attitudes toward data and specific skills like using particular tools. Gebre also highlights context-specific factors that impact how learners relate to data, which are highly relevant when teaching to non-cognate students.
 
 ### Defining Non-cognate students
