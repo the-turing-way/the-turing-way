@@ -77,7 +77,7 @@ As previously mentioned, non-cognate does not necessarily mean non-computing, no
 1. **Assessment for Learning** is used during learning, and it is useful to identify student demographics, student needs and starting points, and to generate feedback they can use to improve performance. 
 Assessment for Learning can take different forms: it could be as simple as observing class discussions, asking questions in oral or written form, or using collaborative tools such as Miro or Notion to leverage visual aids and conceptual mapping. 
 
-AfL informs changes you can make to your lesson straight away to make it more effective. Through AfL, students will:
+Assessment for learning informs changes you can make to your lesson straight away to make it more effective. Through assessment for learning, students will:
 
 * **Introduce themselves**: understanding *WHO*. General information will help you understand the overall cohort's demographics and map out discipline-specific interests.
 * **Explain what they can do**: understanding *HOW*. Assess existing skills and expertise (this is also helpful for students to understand their capabilities).
