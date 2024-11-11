@@ -70,7 +70,8 @@ The course is open to applicants with a technical background such as statistics 
     
 
 ## Suggestions for Educators
-> DS educators teaching to non-cognate students would need to pay particular attention to the students' background knowledge, concepts, and practical and metacognitive skills. Assessment for leanring, differentiated instruction, collaborative learning, and other effective teaching methods, can be tailored to the unique needs of data science and AI education across disciplines.
+> DS educators teaching students without a data science or AI background would need to pay particular attention to the students' background knowledge, concepts, and practical and metacognitive skills. 
+Assessment for learning, differentiated instruction, collaborative learning, and other effective teaching methods, can be tailored to the unique needs of data science and AI education across disciplines.
 
 As previously mentioned, non-cognate does not necessarily mean non-computing, non-mathematics, or non-STEM, so it is important not to make assumptions about students’ prior knowledge and skills. The suggestions below can apply to broad data science and AI education, but educators teaching non-cognate students may find them particularly useful for tailoring teaching and learning to students' needs and skillset. These different pedagogical approaches are designed to help you gain insights into your students’ understanding of specific concepts or topics, allowing you to better support their individual progress. 
 
