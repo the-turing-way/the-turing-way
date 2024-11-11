@@ -41,7 +41,7 @@ There is a balance between using simple structures and clear diagrams, and commu
 ## Factors to consider in culture change modelling
 
 So, if we reject the hierarchical perspective presented by Nosek in our discussion, what are the factors we feel need to be considered when it comes to culture change in research practices?
-The group discussed several broad groups of factors, all of which 
+The group discussed several broad groups of factors, all of which can impact how culture change is achieved and the pathways which will be most effective in reaching the desired end goals. 
 
 ### The past 
 To be human is to exist with biases and limited perspectives. 
