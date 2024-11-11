@@ -29,7 +29,7 @@ It is always possible to change cultures, big and small, but taking into account
 
 (er-cc-am-discussion-modelsmatter)=
 ## Models Matter 
-As referenced in {ref}`er-cultural-change-pyramid` the portrayal by Nosek et al, of culture change as a pyramid with infrastructure at the bottom has drawn criticisms from some parties. 
+As referenced in {ref}`er-cultural-change-pyramid` the portrayal by Nosek et al, of culture change as a pyramid with infrastructure at the bottom has drawn criticisms. 
 Certainly participants in the culture change discussion expressed confusion, disconnect, and disappointment at the apparent disempowerment of communities inferred from their position in the diagram, and the exclusion of key factors in driving change, such as consultation with communities, feedback loops, and the impact this approach might have on researchers.
 The explicit hierarchy can also be interpreted as assigning relative importance to each of the stages, when often their relative importance fluctuates depending on the norms, practices, existing infrastructure, and the influence that each of these factors exerts on the other. 
 Although the blog post in which the model is introduced offers more context about why specifically, the authors have chosen to present their model for change in this way, we now frequently see the diagram taken out of context and used to justify techno-solutionism.
