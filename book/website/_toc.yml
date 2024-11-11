@@ -423,7 +423,7 @@ chapters:
         sections:
           - title: Open Education
             file: communication/open/education
-          - title: Embedding DS&AI 
+          - title: Embedding Data Science & AI Across Disciplines
             file: communication/open/embedding-ds-ai-disciplines
       - title: Blogs for Research Communication
         file: communication/blogs
