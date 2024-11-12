@@ -757,14 +757,19 @@ chapters:
             file: ethical-research/activism/activism-unionisation
           - title: Whistleblowing
             file: ethical-research/activism/activism-whistleblowing
-          - title: Cultural change
-            file: ethical-research/activism/activism-cultural-change
           - title: The Environmental Impact of Digital Research
             file: ethical-research/activism/activism-env-impact
           - title: Case study - Robodebt
             file: ethical-research/activism/activism-robodebt
           - title: Case study - Google Workers
             file: ethical-research/activism/activism-case-study-google.md
+      - title: Cultural Change
+        file: ethical-research/cultural-change
+        sections:
+          - title: Culture Change Models & Examples
+            file: ethical-research/cultural-change/cc-examples
+          - title: Alternative Models of Culture Change in Open Research
+            file: ethical-research/cultural-change/alt-models-discussion
       - title: Internal Policy Advocacy
         file: ethical-research/internal-policy
       - title: Self-Reflection
