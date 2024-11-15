@@ -930,6 +930,20 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 > Structure of the book and its RDM part, debugging figure views, content: version control for datasets + git for the whole research project data.
 - Quotes: The Turing Way is getting my number one source of information, on top of being my primary source of figures ;).
 
+### Jyoti Bhogal
+
+* Role: Book Dash participant (2024)
+* GitHub id: [jyoti-bhogal](https://github.com/jyoti-bhogal) 
+* ORCID: [0000-0002-6289-0737](https://orcid.org/0000-0002-6289-0737)
+* Short bio: 
+> 
+* Personal highlights:
+> write here ...
+* More information:
+> write here ...
+* Quotes:
+> write here ...
+
 <!---K--->
 ## K
 
