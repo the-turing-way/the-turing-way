@@ -102,3 +102,33 @@
     use of research software. This curated set of chapters guides the sharing
     and citation of software components from source code to computational
     workflows and executables while attributing all contributors fairly.
+
+- name: Multinational Collaboration
+  files:
+    - communication/comms-overview 
+    - collaboration/remote-collab
+    - collaboration/new-community
+    - collaboration/github-novice
+    - collaboration/maintain-review
+    - collaboration/organising-meetings
+    - collaboration/coworking
+    - collaboration/organising-conference
+    - collaboration/chairing
+    - collaboration/event-tools
+    - project-design/project-design
+    - communication/communication
+    - communication/comms-overview
+    - communication/os-comms
+    - communication/comms-overview/comms-overview-principles
+    - communication/dif-articles
+    - communication/presentations
+    - communication/social-media
+    - collaboration/collaboration
+    - collaboration/github-novice/github-novice-advanced
+    - collaboration/shared-ownership
+    - collaboration/oss-sustainability/oss-sustainability-challenges
+    - ethical-research/ethics-intro
+  colour: green
+  description: There would be times when collaboration would be needed across 
+    multiple nations to build, nurture, and strengthen best practices in open science/source. 
+    These curated chapters are a guide to aid this collaboration and foster a practice that would guarantee the best possible outcomes. 
