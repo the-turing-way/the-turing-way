@@ -936,13 +936,14 @@ I am also an associate member of the Chartered Institute of Personnel and Develo
 * GitHub id: [jyoti-bhogal](https://github.com/jyoti-bhogal) 
 * ORCID: [0000-0002-6289-0737](https://orcid.org/0000-0002-6289-0737)
 * Short bio: 
-> 
+> I am working as a Technical Community Manager at Research Software Alliance. I have a Master’s degree in Statistics. My career journey spans roles such as a software quality engineer, data analyst, and data modeler. I am also an advocate for open-source and open science. In addition, I am the co-founder and lead of the RSE Asia Association and a recent graduate of the Community Engagement Fundamentals (CEF) course by the Center for Scientific Collaboration and Community Engagement (CSCCE). I am also an active member of several international communities such as R-Ladies Global, Open Life Science, and the International Council of RSEs. These communities have played an integral part in my professional development and inspired my current work.
+ 
 * Personal highlights:
-> write here ...
-* More information:
-> write here ...
+> I appreciate the welcoming and highly collaborative nature of The Turing Way Community. My experience of Book Dash was full of people ready to promptly advise/guide each other for any process-related queries. The social sessions like the meme-making workshop, Scriberia artist sessions, and the Share-outs on the event's last day were intriguing.
+> I had initially intended to work on one of the `good-first-issues` of adding a colour palette to the Style Guide. However, during the Onboarding sessions, I met some people who also wanted to work on a topic that I was interested in. Working together helped us bring up a new chapter for 'Personal Websites' under the Guide for Communication. Team work is dream work!
+   
 * Quotes:
-> write here ...
+> I hope to contribute more to the chapter through Collaboration Cafe or the upcoming Book Dash in 2025!
 
 <!---K--->
 ## K
