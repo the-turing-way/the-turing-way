@@ -2,9 +2,9 @@
 
 ## Other relevant sections in the Turing Way 
 
-* [Valuing Diversity and Differences](https://the-turing-way.netlify.app/collaboration/new-community/new-community-differences.html)
+* [Valuing Diversity and Differences](https://book.the-turing-way.org/collaboration/new-community/new-community-differences.html)
 
-* [Activism for Researchers](https://the-turing-way.netlify.app/ethical-research/activism.html)
+* [Activism for Researchers](https://book.the-turing-way.org/ethical-research/activism.html)
 
 ## Further resources for practising self-reflection, reflexivity and positionality
 Some of these resources refer to qualitative research but are widely applicable to positionality in general.

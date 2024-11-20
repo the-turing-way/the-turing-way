@@ -1,7 +1,16 @@
 (rr-rdm-personal)=
 # Personal data management
 
-For a more practical overview on tools and practises that facilitate reproducibility, please see the [Sensitive Data chapters](https://the-turing-way.netlify.app/project-design/sdp.html) on [managing](https://the-turing-way.netlify.app/project-design/sdpm.html) and [working on](https://the-turing-way.netlify.app/project-design/sdpw.html) sensitive data under the [Guide for Project Design](https://the-turing-way.netlify.app/project-design/project-design.html#pd).
+For a more practical overview on tools and practises that facilitate reproducibility, please see the [Sensitive Data chapters](https://book.the-turing-way.org/project-design/sdp.html) on [managing](https://book.the-turing-way.org/project-design/sdpm.html) and [working on](https://book.the-turing-way.org/project-design/sdpw.html) sensitive data under the [Guide for Project Design](https://book.the-turing-way.org/project-design/project-design.html#pd).
+
+```{figure} ../../figures/data-ecosystem.*
+---
+name: data-ecosystem-2
+alt: In the illustration the private data is locked up under a well. However, if there is consent, some of the water in this private data well can be shared publicly. Sharing this private data publicly with consent is important for improving public knowledge and scientific progress, which is visualised as a field where people are working on the planting and managing of plants or data charts. The water from the well is used to water the field. The public data that grows thanks to the sharing of the data can then be 'harvested' and be of public benefit. 
+
+---
+The private data ecosystem. _The Turing Way_ project illustration by Scriberia. Zenodo. [http://doi.org/10.5281/zenodo.3332807](http://doi.org/10.5281/zenodo.3332807)
+```
 
 ## Personal data
 

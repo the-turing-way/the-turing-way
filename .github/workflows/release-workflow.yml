@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout branch
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Install dependencies
         run: |
@@ -34,10 +34,10 @@ jobs:
           args: "--infile ./CITATION.cff --format zenodo --outfile ./.zenodo.json"
 
       - name: Commit changes and create a Pull Request
-        uses: peter-evans/create-pull-request@v3
+        uses: peter-evans/create-pull-request@v7
         with:
           add-paths: .zenodo.json, CITATION.cff
-          commit-message: ":robot: Update citation.cff and .zenodo.json"
+          commit-message: "🤖 Update citation.cff and .zenodo.json"
           title: "[automated-pr] Update citation.cff and .zenodo.json"
           branch: release-workflow-bot
           delete-branch: true

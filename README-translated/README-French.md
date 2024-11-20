@@ -1,4 +1,4 @@
-<a href="https://the-turing-way.netlify.app/welcome.html"><img src="https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/logo/logo.jpg" width="180" align="Right" /></a>
+<a href="https://book.the-turing-way.org/welcome.html"><img src="https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/website/figures/logo/logo.jpg" width="180" align="Right" /></a>
 
 # _The Turing Way_
 
@@ -12,11 +12,11 @@
 
 | Information | Liens |
 | :--- | :--- |
-| **Projet** | [![Lire le livre](https://img.shields.io/badge/lire-le%20livre-blue.svg)](https://the-turing-way.netlify.com) [![](https://img.shields.io/static/v1?label=TuringWay&message=Je%20veux%20contribuer%20!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md) |
-| **Nouvelles** | [![Suivre Twitter](https://img.shields.io/twitter/follow/turingway?style=social)](https://twitter.com/turingway) [![S'inscrire à notre liste de diffusion tinyletter](https://img.shields.io/badge/Recevoir-notre%20infolettre%20❤%EF%B8%8F-blueviolet.svg)](https://tinyletter.com/TuringWay)  [![Vues sur la chaîne YouTube](https://img.shields.io/youtube/channel/views/UCPDxZv5BMzAw0mPobCbMNuA?style=social)](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)  |
+| **Projet** | [![Lire le livre](https://img.shields.io/badge/lire-le%20livre-blue.svg)](https://book.the-turing-way.org) [![](https://img.shields.io/static/v1?label=TuringWay&message=Je%20veux%20contribuer%20!&color=yellow&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAACYklEQVQ4jXXTy09TQRTH8f5VPhI1xoVxYURNAFcmRleaGDdGXQlKAYkLUARNfICoScGKpTyE3t5bkKD2AUQepUXB0gcgLTalD9rema8LKRVrT3I2k%2Fl95kwyY6BMfQiFqHaoVDlUBoJBZJl9hn8XRsIhqh0abd55tnWdrBA8WfBSpakMhUqhXUCJhKl2aLR65%2FEtLeGc%2BYoy5aHf46bX7cThctK%2BAw2HQkVAW41wzqHRMjNNRteR%2BQzGjg5udZtQ47FiO50gdLZ1nVbvPNUOFSUSxnB4sJ%2F0TjCTTjHk%2BoJl%2BRtqPEaL6zMH79Rw0dyDVVURqRgyn0EkN8jkshwZGsBQodgQyQ2kyDPsce859drjdqLRKE0D%2FZhHR5F6DpHc2B3%2FjF3BcFqxARIpBXXmt9ii67vAYDhIr8fNx0UfE3OzzC0sIHIpxNYqSPEHqFBsiFQMkU3h8vs5%2FvABTeNje6BCj%2FxcwzLlIZHYROq5v4EoIr2JyCbJ57Kobjd3u7o41v4I68pyCfTGrhSvUKHYAJD5bcTWGjKbJJdO4A8E6JyexP4rWgK8Vkb2AjK7hcxnmZybxfF9kff%2BhZJQofvXwhg7O4vAfU2l79ME79xOrjY3c9ZYVzZs8nvZf6%2BRQCRCTgiODg1iCK6vc6WtjZM1tzlRW8sNa99%2Fx64fH%2BNAQz0un49nfh%2BVmspAcKX4lKWUbMbjXOg2cf3Vy%2BLIoRWqekxc7nhB6%2FQ0lZqKJRBAyjKfKZFIcKixgVPPn3LTamFfUyPne7qp1Oz0Bn4g5d7vVAIUamJ2FqPZzCW7gvlHabBQvwE2XnlAiFRrOwAAAABJRU5ErkJggg%3D%3D)](https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md) |
+| **Nouvelles** | [![Suivre Twitter](https://img.shields.io/twitter/follow/turingway?style=social)](https://twitter.com/turingway) [![S'inscrire à notre liste de diffusion tinyletter](https://img.shields.io/badge/Recevoir-notre%20infolettre%20❤%EF%B8%8F-blueviolet.svg)](https://buttondown.com/turingway)  [![Vues sur la chaîne YouTube](https://img.shields.io/youtube/channel/views/UCPDxZv5BMzAw0mPobCbMNuA?style=social)](https://www.youtube.com/channel/UCPDxZv5BMzAw0mPobCbMNuA)  |
 | **Pour échanger !** | [![Rejoindre Slack](https://img.shields.io/badge/Discutons-sur%20Slack-ff69b4)](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw) |
-| **Sur GitHub** | [![GitHub issues](https://img.shields.io/github/issues/alan-turing-institute/the-turing-way)](https://github.com/alan-turing-institute/the-turing-way/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/alan-turing-institute/the-turing-way)](https://github.com/alan-turing-institute/the-turing-way/pulls) |
-| **Build** | [![Netlify build](https://github.com/alan-turing-institute/the-turing-way/workflows/CI/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ACI+branch%3Amain) [![Latin Phrases](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amain) [![TestFileSizes](https://github.com/alan-turing-institute/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amain) [![Check for Lorem Ipsums](https://github.com/alan-turing-institute/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/alan-turing-institute/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amain) |
+| **Sur GitHub** | [![GitHub issues](https://img.shields.io/github/issues/the-turing-way/the-turing-way)](https://github.com/the-turing-way/the-turing-way/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/the-turing-way/the-turing-way)](https://github.com/the-turing-way/the-turing-way/pulls) |
+| **Build** | [![Netlify build](https://github.com/the-turing-way/the-turing-way/workflows/CI/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3ACI+branch%3Amain) [![Latin Phrases](https://github.com/the-turing-way/the-turing-way/workflows/Check%20for%20Latin%20Phrases/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3A%22Check+for+Latin+Phrases%22+branch%3Amain) [![TestFileSizes](https://github.com/the-turing-way/the-turing-way/workflows/TestFileSizes/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3ATestFileSizes+branch%3Amain) [![Check for Lorem Ipsums](https://github.com/the-turing-way/the-turing-way/workflows/Check%20for%20Lorem%20Ipsums/badge.svg)](https://github.com/the-turing-way/the-turing-way/actions?query=workflow%3A%22Check+for+Lorem+Ipsums%22+branch%3Amain) |
 | **Citation** |  [![Citez ce document en utilisant le DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233853.svg)](https://doi.org/10.5281/zenodo.3233853) |
 
 *Bienvenue sur le dépôt GitHub du projet The Turing Way. C'est ici que l'ensemble du projet est développé, revu et maintenu.*
@@ -25,13 +25,13 @@ _The Turing Way_ est un manuel sur la science des données reproductible, éthiq
 Nous impliquons et soutenons une communauté diversifiée de contributeurs et contributrices afin de rendre la science des données accessible, compréhensible et efficace pour tout le monde.
 Notre objectif est de fournir toutes les informations dont les scientifiques ont besoin au début de leurs projets pour s'assurer qu'ils soient faciles à reproduire à la fin.
 
-[![Le projet Turing Way est un livre, une communauté, un projet open-source et une culture de la collaboration. Ceci est démontré par quatre illustrations, la première montrant le livre Turing Way, la deuxième montrant comment la communauté peut se développer, la troisième montrant deux personnes collaborant sur une demande de modification, la dernière montrant un équilibre où la reproductibilité est plus importante que le nombre d'articles publiés](https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1)
+[![Le projet Turing Way est un livre, une communauté, un projet open-source et une culture de la collaboration. Ceci est démontré par quatre illustrations, la première montrant le livre Turing Way, la deuxième montrant comment la communauté peut se développer, la troisième montrant deux personnes collaborant sur une demande de modification, la dernière montrant un équilibre où la reproductibilité est plus importante que le nombre d'articles publiés](https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/website/figures/README_imgs/README_turingway.png)](https://docs.google.com/presentation/d/13Nm8LcRW87ffxEugGEs5j6HKQEvhiuH8b7MfIdX7MpI/edit#slide=id.p1)
 
 *The Turing Way est un livre, une communauté et une collaboration mondiale.*
 
-Toutes les parties prenantes, y compris les étudiants et les étudiantes, les chercheurs et les chercheuses, les ingénieurs et ingénieures logiciels, les chefs et cheffes de projet et les équipes de financement, sont encouragées à utiliser _The Turing Way_ pour comprendre leur rôle et leur responsabilité en matière de reproductibilité dans la science des données. Vous pouvez lire le livre [en ligne](https://the-turing-way.netlify.app), contribuer au projet tel que décrit dans nos [directives de contribution](https://github.com/alan-turing-institute/the-turing-way/blob/master/CONTRIBUTING.md) et réutiliser tout le matériel ([voir la licence](https://github.com/alan-turing-institute/the-turing-way/blob/master/LICENSE.md)).
+Toutes les parties prenantes, y compris les étudiants et les étudiantes, les chercheurs et les chercheuses, les ingénieurs et ingénieures logiciels, les chefs et cheffes de projet et les équipes de financement, sont encouragées à utiliser _The Turing Way_ pour comprendre leur rôle et leur responsabilité en matière de reproductibilité dans la science des données. Vous pouvez lire le livre [en ligne](https://book.the-turing-way.org), contribuer au projet tel que décrit dans nos [directives de contribution](https://github.com/the-turing-way/the-turing-way/blob/master/CONTRIBUTING.md) et réutiliser tout le matériel ([voir la licence](https://github.com/the-turing-way/the-turing-way/blob/master/LICENSE.md)).
 
-[![Ceci est une capture d'écran du livre en ligne _The Turing Way_. Elle montre également l'une des illustrations de _The Turing Way_ au début du livre. Dans cette illustration, il y a une route ou un chemin avec des magasins pour différentes compétences en science des données. Les gens peuvent entrer et sortir avec leur panier et choisir ce dont ils ont besoin.](https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/README_imgs/README_book.png)](https://the-turing-way.netlify.app/welcome.html)
+[![Ceci est une capture d'écran du livre en ligne _The Turing Way_. Elle montre également l'une des illustrations de _The Turing Way_ au début du livre. Dans cette illustration, il y a une route ou un chemin avec des magasins pour différentes compétences en science des données. Les gens peuvent entrer et sortir avec leur panier et choisir ce dont ils ont besoin.](https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/website/figures/README_imgs/README_book.png)](https://book.the-turing-way.org/welcome.html)
 
 *Capture d'écran du livre en ligne The Turing Way ([utilisez cette image dans une présentation](https://drive.google.com/file/d/1wJR664YECSc8b_RSHeyVjDlHs-Ls9lkc/view?usp=sharing)).*
 
@@ -62,7 +62,7 @@ C'est parfois plus facile à dire qu'à faire.
 Partager l'ensemble des intrants et des extrants de recherche (par exemple données, résultats) implique de comprendre la gestion des données, les sciences de l'information et la bibliothéconomie, le développement de logiciels et les techniques d'intégration continue : des compétences qui ne sont pas couramment enseignées ou attendues de la communauté de recherche universitaire et des scientifiques des données. Comme ces activités ne sont pas couramment enseignées, nous reconnaissons que le poids des exigences et l'acquisition de nouvelles compétences peuvent intimider les personnes qui sont nouvelles dans ce monde.
 *The Turing Way* est un manuel destiné à aider les scientifiques, les bailleurs de fonds et les éditeurs de revues afin que la science des données reproductibles soit « trop facile à ne pas faire » même pour les personnes qui n'ont jamais travaillé de cette manière auparavant.
 Il comprend, entre autres, du matériel de formation sur la gestion de version, les tests d'analyse et la communication ouverte et transparente avec les novices et s'appuie sur des études de cas et des ateliers du Turing Institute.
-Ce projet est développé de manière ouverte et toutes les questions, commentaires et recommandations sont bienvenus sur notre dépôt GitHub : <https://github.com/alan-turing-institute/the-turing-way>.
+Ce projet est développé de manière ouverte et toutes les questions, commentaires et recommandations sont bienvenus sur notre dépôt GitHub : <https://github.com/the-turing-way/the-turing-way>.
 
 ### L'équipe
 
@@ -72,7 +72,7 @@ Les individus qui contributent à long terme du projet sont considérés comme f
 
 Le projet est coordonné par les chercheuses principales **Kirstie Whitaker** (fondatrice) et **Malvika Sharan**, et est hébergé à [The Alan Turing Institute](https://www.turing.ac.uk/). **Anne Lee Steele** est la gestionnaire de la communauté de The Turing Way depuis mars 2022.
 
-Vous pouvez lire la [procédure de reconnaissance de _The Turing Way_](https://the-turing-way.netlify.app/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) et le [registre des contributions](https://the-turing-way.netlify.app/afterword/contributors-record.html) pour savoir comment nous reconnaissons votre travail et comment nos contributeurs et nos contributrices sont mis en valeur dans le projet.
+Vous pouvez lire la [procédure de reconnaissance de _The Turing Way_](https://book.the-turing-way.org/community-handbook/acknowledgement/acknowledgement-members.html#community-members-contributors-and-co-authors) et le [registre des contributions](https://book.the-turing-way.org/afterword/contributors-record.html) pour savoir comment nous reconnaissons votre travail et comment nos contributeurs et nos contributrices sont mis en valeur dans le projet.
 Veuillez consulter le [Tableau des contributions](#Liste-des-personnes-qui-ont-collaboré) pour les profils GitHub de tous nos contributeurs.
 
 
@@ -85,14 +85,14 @@ Tout le monde doit suivre notre [code de conduite](CODE_OF_CONDUCT.md) et consul
 Nous voulons nous assurer que vous êtes à l'aise de contribruer peu importe le niveau de connaissances que vous avez.
 Pour cette raison, nous proposons plusieurs points d'entrée pour que vous puissiez contribuer en fonction de vos intérêts, de votre disponibilité ou des compétences requises.
 
-![Cette image montre six des nombreux types de contributions que chacun peut apporter. Il s'agit de : Développer et partager, Maintenir et améliorer, Partager des ressources, Réviser et mettre à jour, Rendre international par la traduction, et Partager les meilleures pratiques](https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/README_imgs/README_contributions.png)
+![Cette image montre six des nombreux types de contributions que chacun peut apporter. Il s'agit de : Développer et partager, Maintenir et améliorer, Partager des ressources, Réviser et mettre à jour, Rendre international par la traduction, et Partager les meilleures pratiques](https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/website/figures/README_imgs/README_contributions.png)
 
 *Les contributions comprennent l'élaboration et le partage de nouveaux chapitres, la maintenance et l'amélioration des chapitres existants, le partage des ressources de _The Turing Way_, la révision et la mise à jour du matériel précédemment développé, la traduction de chapitres pour aider à rendre ce projet accessible à l'échelle mondiale, et le partage des meilleures pratiques en matière de recherche*.
 
 Les membres de la communauté ont la possibilité d'acquérir de nouvelles compétences, de partager leurs idées et de collaborer avec d'autres.
 Ils et elles bénéficient également d'opportunités de mentorat au sein du projet lorsqu'ils et elles apportent leurs contributions à _The Turing Way_ ou à d'autres projets open source et sont encouragés à encadrer les nouveaux membres au projet.
 
-Nous avons créé un [ensemble de promotion](https://github.com/alan-turing-institute/the-turing-way/tree/master/communications/promotion-pack) pour vous aider à présenter et à partager _The Turing Way_ dans votre réseau.
+Nous avons créé un [ensemble de promotion](https://github.com/the-turing-way/the-turing-way/tree/master/communications/promotion-pack) pour vous aider à présenter et à partager _The Turing Way_ dans votre réseau.
 
 ### Citer _The Turing Way_
 
@@ -105,18 +105,18 @@ La citation ressemblera à quelque chose comme ceci :
 
 Pour voir comment nous procédons pour créer différentes versions, ou pour suggérer des améliorations, veuillez consulter ce [document de référence sur les versions](./release-workflow.md).
 
-Vous pouvez également partager l'URL d'une page du livre, par exemple <https://the-turing-way.netlify.app/reproducible-research/overview/overview-definitions.html>, mais sachez que le projet est en cours de développement et que ces liens peuvent donc changer au fil du temps.
-Vous pourriez vouloir inclure un lien d'archive web tel que <https://web.archive.org/web/20191030093753/https://the-turing-way.netlify.com/reproducibility/03/definitions.html> pour vous assurer que vous ne vous retrouvez pas avec des liens cassés partout !
+Vous pouvez également partager l'URL d'une page du livre, par exemple <https://book.the-turing-way.org/reproducible-research/overview/overview-definitions.html>, mais sachez que le projet est en cours de développement et que ces liens peuvent donc changer au fil du temps.
+Vous pourriez vouloir inclure un lien d'archive web tel que <https://web.archive.org/web/20191030093753/https://book.the-turing-way.org/reproducibility/03/definitions.html> pour vous assurer que vous ne vous retrouvez pas avec des liens cassés partout !
 
 Nous apprécions vraiment toutes les références que vous faites au projet _The Turing Way_ dans votre réseau et nous espérons qu'il sera utile.
 Si vous avez des questions, n'hésitez pas à nous [contacter](#entrer-en-contact).
 
 ### Citer les illustrations de _The Turing Way_ (en anglais)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/main/book/website/figures/evolution-open-research.jpg" alt="Voici un exemple d'une des illustrations du Chemin de Turing. Elle tente de montrer l'évolution vers une ère de science ouverte" width="600">.
+  <img src="https://raw.githubusercontent.com/the-turing-way/the-turing-way/main/book/website/figures/evolution-open-research.jpg" alt="Voici un exemple d'une des illustrations du Chemin de Turing. Elle tente de montrer l'évolution vers une ère de science ouverte" width="600">.
 </p>
 
-Les illustrations de _The Turing Way_ sont créées par des artistes de [Scriberia](https://www.scriberia.co.uk/) dans le cadre de [_The Turing Way_ book dashes](https://github.com/alan-turing-institute/the-turing-way/tree/master/workshops/book-dash) à Manchester le 17 mai 2019, à Londres le 28 mai 2019 et le 21 février 2020, et en ligne le 27 novembre 2020 et le 28 mai 2021.
+Les illustrations de _The Turing Way_ sont créées par des artistes de [Scriberia](https://www.scriberia.co.uk/) dans le cadre de [_The Turing Way_ book dashes](https://github.com/the-turing-way/the-turing-way/tree/master/workshops/book-dash) à Manchester le 17 mai 2019, à Londres le 28 mai 2019 et le 21 février 2020, et en ligne le 27 novembre 2020 et le 28 mai 2021.
 Elles illustrent divers contenus du manuel, des efforts de collaboration au sein de la communauté et du projet _The Turing Way_ en général.
 Ces illustrations sont disponibles sur Zenodo ([https://doi.org/10.5281/zenodo.3332807)](https://doi.org/10.5281/zenodo.3332807) sous une licence CC-BY.
 
@@ -142,13 +142,13 @@ Vous pouvez également contacter **Anne Lee Steele** ([asteele@turing.ac.uk](mai
 
 Rejoignez les autres membres et discutez de vos idées sur Slack en utilisant [ce lien d'invitation](https://join.slack.com/t/theturingway/shared_invite/zt-fn608gvb-h_ZSpoA29cCdUwR~TIqpBw).
 
-Nous avons également une salle de chat Gitter (si vous préférez une alternative open source pour discuter) et nous aimerions que vous passiez nous dire bonjour sur <https://gitter.im/alan-turing-institute/the-turing-way>.
+Nous avons également une salle de chat Gitter (si vous préférez une alternative open source pour discuter) et nous aimerions que vous passiez nous dire bonjour sur <https://gitter.im/the-turing-way/the-turing-way>.
 La salle est également accessible avec un compte [Matrix](https://matrix.org) sur [#alan-turing-institute_the-turing-way:gitter.im](https://matrix.to/#/#alan-turing-institute_the-turing-way:gitter.im).
 
 #### Recevoir des mises à jour
 
 Nous avons une liste de diffusion *tinyletter* à laquelle nous envoyons des mises à jour mensuelles du projet.
-Inscrivez-vous sur <https://tinyletter.com/TuringWay>.
+Inscrivez-vous sur <https://buttondown.com/turingway>.
 
 Vous pouvez également nous suivre sur Twitter ([@turingway](https://twitter.com/turingway)).
 
@@ -156,7 +156,7 @@ Vous pouvez également nous suivre sur Twitter ([@turingway](https://twitter.com
 
 Merci à toutes ces merveilleuses personnes ([emoji key](https://allcontributors.org/docs/en/emoji-key)) !
 
-[Voir la version en anglais pour la liste à jour des personnes qui ont collaboré.](https://github.com/alan-turing-institute/the-turing-way#contributors)
+[Voir la version en anglais pour la liste à jour des personnes qui ont collaboré.](https://github.com/the-turing-way/the-turing-way#contributors)
 
 Ce projet suit la spécification [all-contributors](https://github.com/all-contributors/all-contributors).
 Les contributions de toute nature sont les bienvenues !

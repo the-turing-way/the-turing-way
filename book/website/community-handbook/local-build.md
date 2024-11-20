@@ -1,79 +1,184 @@
 (ch-local-build)=
-# Build the Turing Way book locally
+# Build the Book Locally
 
-## But why build locally?
-It's always handy to be able to preview any changes you have been working on as you go - you can be confident that changes you have made are accurate and as intended. 
-A nice way to do this is to use the underlying [Jupyter Book](https://jupyterbook.org/en/stable/intro.html tool to build the book locally.
+## Why build locally
 
-This is useful because it allows you to preview any changes you have made on your local machine *before* you push your changes to a remote branch. 
-You can then decide if you are happy with the result and push your changes to the remote branch thus helping to keep Pull Request conversations and commit histories a bit cleaner.
+It is useful to preview changes you have been working on as you go on your local machine.
+You can be confident that changes you have made are accurate and as intended and it will likely be quicker than waiting for a preview to be build from a pull request.
+You can replicate the build process using [Make](rr-make) and [Jupyter Book](https://jupyterbook.org/en/stable/intro.html).
 
-## Step-by-step guide
+## Prerequisites
 
 We will be using the command line throughout this guide.
-You will need to locate your "terminal" or "prompt" application on your machine.
+You will need to use a terminal emulator to follow.
 
-1. Install miniconda by following the instructions for your Operating System (Windows, MacOS, Linux) at this link: https://conda.io/projects/conda/en/latest/user-guide/install/index.html#regular-installation
-2. Open your terminal app and run the `conda init` command in your terminal. You should see `(base)` in your prompt indicating that conda was successfully installed and you are now in it's base environment.
-    - Note that if you are using Windows, you will need to open a program called `Anconda prompt` instead of using `cmd`. 
-3. Create a new environment and install a modern version of python into it:
-   ```
-   conda create --name the-turing-way python=3.10
-   ```
-4. Activate the environment with `conda activate the-turing-way`. Any commands we run with Python or pip from now on will use the versions of Python and pip installed into _this_ conda env, not any others
-5. Clone The Turing Way repository from GitHub to your machine using the command `git clone https://github.com/alan-turing-institute/the-turing-way`
-6. Navigate into the cloned repository folder using the command `cd the-turing-way`, where the `cd` command means `change directory`
-7. Then change into the sub-directory the website is built from using `cd book/website`
-8. The Turing Way Book is built using multiple python libraries. We can install these dependencies _into your conda environment_ using the following command
-   ```
-   pip install -r requirements.txt
-   ```
-   where the `requirements.txt` file contains a list of python libraries
-9. And now build the book:
-   ```
-   jupyter-book build .
-   ```
-10. The output of the build process will provide output such as below that demonstrate how you can view the book locally:
-    ```
-    ===============================================================================
+You will also need to install Python3.
+You can check which specific version of Python3 the build uses in [netlify.toml](https://github.com/the-turing-way/the-turing-way/blob/main/netlify.toml).
+However, versions close to that version are also likely to work.
 
-    Finished generating HTML for book.
-    Your book's HTML pages are here:
-        _build/html/
-    You can look at your book by opening this file in a browser:
-        _build/html/index.html
-    Or paste this line directly into your browser bar:
-        file:///[...]/alan-turing-institute/the-turing-way/book/website/_build/html/index.html
+Other command line tools you will need are,
 
-    ===============================================================================
-    ```
-    
-### Build the book while working on a Pull Request
-If you would like to preview a version of the book from a certain branch (perhaps to render the book while working on a PR) then simply switch to the required branch and rebuild the book as in step 9:
-   ```
-   git checkout mybranch
-   jupyter-book build .
-   ```
-Follow the link as before and you will see changes specific to that branch rendered.
+- `git`
+- `make`
 
-## Why did we recommend using (mini)conda?
-In the step-by-step guide above, we made use of the `jupyter-book` command to build the Turing Way book. For this command to work as intended you will need a python installation on your machine. 
-As with any other programming language such as R or Julia, any given python installation might look different from another due to the different packages or libraries that come with the installation.
-Over time you will likely install even more packages, or update packages to newer versions. Some packages also depend on the presence of specific versions of other packages to function, and so to ensure your local build works smoothly you will want to minimize as much mismatched dependencies as possible.
+## Step-by-step Guide
 
-But this can be difficult! Even with an organized, concerted effort, package management for programming languages naturally throws up dependency issues. Python packages, for reasons not discussed here, tend to suffer from dependency issues a bit more than other languages (note that all languages do!) and one guaranteed way to come across such an issue by trying to maintain all of your python projects using just one, large set of packages, each at a specific version. You simply can't cater to the needs of all package dependencies this way. https://xkcd.com/1987/   
-![](https://imgs.xkcd.com/comics/python_environment.png)
+### Clone The Repository
 
-The most relevant feature for us here is *virtual environments*. 
+```console
+git clone https://github.com/the-turing-way/the-turing-way
+```
 
-conda is a package manager designed to easily create language agnostic virtual environments, where each environment contains their own separate set of packages that don't interfere with each other. 
-In fact it is best practice to create a virtual environment for each project you work on.
-We *could* just use python's built in virtualenv tool to do this, but it doesn't extend into a multi-language env like conda offers.
+````{note}
+The repository is quite large and cloning may take a long time on slower internet connections.
+You can use [partial clones](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/#).
+Specifically, focusing on blobless clones, involves utilizing the `--filter=blob:none` option in the git clone command.
 
-By creating a separate environment on your local machine just for The Turing Way, this is a great way to minimize those dependency issues. 
-conda also has community run channels that dedicate their time to providing you with a certain pool of packages that may be relevant to a specific project, for example the [Bioconda channel](https://github.com/bioconda/bioconda-recipes) that contains packages relevant for bioinformatics projects, and packages not necessarily found on the default channel. Other example channels are:
-- r
-- conda-forge
-- tensorflow-macos
+By using `--filter=blob:none`, the initial git clone operation downloads all reachable commits and trees, while blobs (file contents) for commits are only downloaded when performing a git checkout.
 
-These carefully curated channels also help to ensure your virtual environments contain the most appropriate packages for each of your projects. 
+Here's the command to create a blobless clone of the book:
+
+```console
+git clone --filter=blob:none https://github.com/the-turing-way/the-turing-way.git
+```
+````
+
+### Create a Virtual Environment
+
+Navigate into the repository using the command `cd the-turing-way`; the `cd` command means change directory.
+Create a virtual environment using Python,
+
+```console
+$ python3 -m venv ./venv
+```
+
+Next, active the virtual environment,
+
+```console
+$ source ./venv/bin/activate
+```
+
+Your prompt may now start with `(venv)`, for example `(venv) user@host$`.
+Using the virtual environment means we can install _The Turing Way's_ dependencies without interfering with other packages or libraries you might be using.
+That will be explained in more depth in [a later section](#why-we-recommend-using-a-virtual-environment).
+
+### Install the Dependencies
+
+The next steps use {term}`Makefile`.
+The Makefile contains instructions to build a set of "targets".
+That way we can easily run the same commands repeatedly, and in different environments, without needing to remember all the parameters.
+It is easiest to change into the directory containing the Makefile,
+
+```
+$ cd book
+```
+
+Install the build dependencies into your virtual environment,
+
+```console
+$ make deps
+```
+
+### Build the Book
+
+You are now ready to build the book.
+You can build the book with,
+
+```console
+$ make book
+```
+
+The output of the build process will provide output such as below that demonstrate how you can view the book locally,
+
+```text
+===============================================================================
+
+Finished generating HTML for book.
+Your book's HTML pages are here:
+    _build/html/
+You can look at your book by opening this file in a browser:
+    _build/html/index.html
+Or paste this line directly into your browser bar:
+    file:///<path to repository>/book/website/_build/html/index.html
+
+===============================================================================
+```
+
+Open `index.html` in your web browser to look at your local build.
+
+## Building Previews for Different Branches
+
+The build process will use the source files from whatever branch you have checked out.
+If you have just cloned the repository, that will be the `main` branch.
+
+To build another branch, for example a feature branch you are working on you first switch to that branch,
+
+```console
+$ git switch mybranch
+$ make book
+```
+
+## Clean Up After a Build
+
+The build process generates a lot of files.
+Clearing these files to force a build from scratch may reveal errors and warnings that wouldn't be raised otherwise.
+
+To remove the outputs of builds use the `clean` target,
+
+```console
+$ make clean
+```
+
+### Other Targets
+
+#### Strict Build
+
+The `strict` target is useful for debugging.
+It will make any warnings raise an error, but also continue the build.
+That way, all warnings should be presented to you as errors.
+Run the strict build with,
+
+```console
+$ make strict
+```
+
+#### Pathways Build
+
+_The Turing Way_ has curated user pathways, collecting a series of recommended chapters for different reader types.
+The [pathways program](https://github.com/the-turing-way/pathways) generates extra Markdown files to add the pathways to the book.
+The `build` target does not generate these files, so a clean build (`make clean && make build`) will not have pathways.
+To build the book with pathways, use the `pathways` target,
+
+```console
+$ make pathways
+```
+
+This will generate the pathways files then build the book.
+This is the build of the book which is deployed to the website.
+
+## Why We Recommend Using a Virtual Environment
+
+In the [step-by-step guide](#step-by-step-guide), we used Jupyter Book to build the Turing Way.
+For this program to work as intended you will need a Python installation and set of dependencies on your machine.
+
+If you want to use other Python projects, they will also have their own dependencies.
+You may encounter cases where the dependencies of two packages conflict with each other and it becomes difficult, or impossible, to satisfy both sets of dependencies simultaneously.
+
+Using virtual environments minimises dependency problems.
+It allows us to install Python packages and all their dependencies in separate, dedicated directories.
+That way, packages with incompatible dependencies are not a problem because they each have a independent installations and do not share resources.
+
+```{figure} https://imgs.xkcd.com/comics/python_environment.png
+---
+height: 487px
+name: python-environment
+alt: >
+  A humorous, black and white flowchart from XKCD depicting the complexity of managing different Python environments on a computer.
+  It shows a tangled web of arrows and lines connecting various versions of Python installed through different methods such as Homebrew, Anaconda, and binaries from Python.org.
+  There are also references to different tools and paths like PIP, PYTHONPATH, and system PATH, that add to the confusion.
+  The paths weave in and out of local folders on a computer.
+  Some of them are noted to be owned by root, making them harder to manage.
+  The illustration is annotated with bemused and perplexed comments about the state of the Python environment, concluding with a comic punchline at the bottom that reads, "My Python environment has become so degraded that my laptop has been declared a superfund site."
+---
+Illustration [from xkcd](https://xkcd.com/1987) describing the complexities of installing different versions of Python on your computer. Used under a [CC-BY-NC 2.5 licence](https://creativecommons.org/licenses/by-nc/2.5/deed.en).
+```

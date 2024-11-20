@@ -3,7 +3,7 @@
 
 | Prerequisite | Importance | Notes |
 | -------------|------------|-------|
-| [Experience with the command line](https://programminghistorian.org/en/lessons/intro-to-bash) | Necessary | Continuous integration will follow command line instructions
+| {ref}`Experience with the command line<rr-overview-resources-commandline>` | Necessary | Continuous integration will follow command line instructions
 | {ref}`Version control<rr-vcs>` | Necessary | Continuous integration runs every time a new _commit_ is made to your project |
 | {ref}`Reproducible computational environments<rr-renv>` | Necessary | Continuous integration runs your tests on a separate computer (usually in the cloud) so you need to set it up in the same way. |
 | {ref}`Testing<rr-testing>` | Very helpful | Continuous integration _tests_ if anything important has changed when you make a change in your project |
@@ -21,7 +21,7 @@ alt: A sketch showing how continuous integration helps developers plan, design, 
 _The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.3332807](https://doi.org/10.5281/zenodo.3332807).
 ```
 
-## How this will help you / why this is useful
+## Motivation and Background
 
 CI has a number of key benefits:
 

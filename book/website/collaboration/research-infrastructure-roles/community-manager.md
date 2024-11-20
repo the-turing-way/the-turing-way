@@ -4,6 +4,16 @@
 Community Managers roles are well established in technical industry but only over the last years they have gained recognition within academia and scientific communities.
 Often these roles may not be called community managers, but their responsibilities include establishing engagement, organising community spaces and events, supporting people through inclusive practices, developing and maintaining resources, growing and evaluating use cases and collaborating with people involved in research and scientific communities.
 
+```{figure} ../../figures/research-community-manager.*
+---
+height: 500px
+name: research-community-manager
+alt: Cartoon-like sketch of a person with eight arms. Two are embracing a group of people, while the others are outstretched. The person in the centre is a Research Community Manager, who has eight arms coming out of their shirt. Each arm holds a sign with text describing the main duties of a community manager. They include embedding open, inclusive and reproducible ideas, ensuring a shared understanding, facilitating stakeholder engagement and collaboration, providing technical support; co-creating, maintaining and communicating; and amplifying and championing their community.
+---
+What does a Research Community Manager do?
+_The Turing Way_ project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [10.5281/zenodo.8169292](https://doi.org/10.5281/zenodo.8169292).
+```
+
 (cl-infrastructure-community-managers-tasks)=
 ## What do Community Managers do? 
 

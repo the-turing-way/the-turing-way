@@ -10,806 +10,961 @@
 # ===== Main Landing Page ========================================
 format: jb-book
 root: index
-parts:
-  - chapters:
-      # ===== Guide for Reproducible Research ========================================
-      - file: reproducible-research/reproducible-research
+chapters:
+  # ===== Foreword Section ========================================
+  - file: foreword/foreword
+    sections:
+      - title: Background
+        file: foreword/background
+      - title: Navigating the Handbook
+        file: foreword/navigate
+      - title: Emergence as The Turing Way Strategy
+        file: foreword/emergent-strategy
+      - title: Embracing the Principles of Digital Commons
+        file: foreword/embracing-digital-commons
+      - title: Community and Community Roles
+        file: foreword/community
+      - title: Governance
+        file: foreword/governance
+      - title: How to Cite
+        file: foreword/cite
+      - title: Frequently Asked Questions
+        file: foreword/faqs
+
+  # ===== Guide for Reproducible Research ========================================
+  - file: reproducible-research/reproducible-research
+    sections:
+      - title: Overview
+        file: reproducible-research/overview
         sections:
-          - title: Overview
-            file: reproducible-research/overview
-            sections:
-              - title: Definitions
-                file: reproducible-research/overview/overview-definitions
-              - title: Added Advantages
-                file: reproducible-research/overview/overview-benefit
-              - title: Barriers
-                file: reproducible-research/overview/overview-barriers
-              - title: Resources
-                file: reproducible-research/overview/overview-resources
-          - title: Open Research
-            file: reproducible-research/open
-            sections:
-              - title: Open Data
-                file: reproducible-research/open/open-data
-              - title: Open Source Software
-                file: reproducible-research/open/open-source
-              - title: Open Hardware
-                file: reproducible-research/open/open-hardware
-              - title: Open Access
-                file: reproducible-research/open/open-access
-              - title: Open Notebooks
-                file: reproducible-research/open/open-notebooks
-              - title: Open Scholarship
-                file: reproducible-research/open/open-scholarship
-              - title: Checklist
-                file: reproducible-research/open/open-checklist
-              - title: Resources
-                file: reproducible-research/open/open-resources
-          - title: Version Control
-            file: reproducible-research/vcs
-            sections:
-              - title: Version Control Workflow
-                file: reproducible-research/vcs/vcs-workflow
-              - title: Version Control and Branches
-                file: reproducible-research/vcs/vcs-workflow-branches
-              - title: The Git Version Control Software
-                file: reproducible-research/vcs/vcs-git-general
-              - title: Git for Research Projects
-                file: reproducible-research/vcs/vcs-git-in-research
-              - title: Git Using the Command Line
-                file: reproducible-research/vcs/vcs-git
-                sections:
-                  - title: Git Commit Command
-                    file: reproducible-research/vcs/vcs-git-commit
-                  - title: Retrieving and Comparing Versions
-                    file: reproducible-research/vcs/vcs-git-compare
-                  - title: Git Branches
-                    file: reproducible-research/vcs/vcs-git-branches
-                  - title: Merging Branches in Git
-                    file: reproducible-research/vcs/vcs-git-merge
-                  - title: Interactive, Visual Git
-                    file: reproducible-research/vcs/vcs-git-interactive
-                  - title: Git Commands to Work on GitHub
-                    file: reproducible-research/vcs/vcs-github
-                  - title: Summary Table of Git Commands
-                    file: reproducible-research/vcs/vcs-git-summary
-              - title: Version Control for Data
-                file: reproducible-research/vcs/vcs-data
-              - title: Personal Stories
-                file: reproducible-research/vcs/vcs-personal-stories
-              - title: Checklist
-                file: reproducible-research/vcs/vcs-checklist
-              - title: Resources
-                file: reproducible-research/vcs/vcs-resources
-          - title: Licensing
-            file: reproducible-research/licensing
-            sections:
-              - title: Software Licenses
-                file: reproducible-research/licensing/licensing-software
-              - title: Data Licenses
-                file: reproducible-research/licensing/licensing-data
-              - title: Machine Learning Model Licenses
-                file: reproducible-research/licensing/licensing-ml
-                sections:
-                  - title: "Case Studies: Choosing an ML License"
-                    file: reproducible-research/licensing/licensing-ml-case-studies
-              - title: License Compatibililty
-                file: reproducible-research/licensing/licensing-compatibility
-              - title: Checklist
-                file: reproducible-research/licensing/licensing-checklist
-          - title: Research Data Management
-            file: reproducible-research/rdm
-            sections:
-              - title: Research Data
-                file: reproducible-research/rdm/rdm-data
-              - title: Data Management Plan
-                file: reproducible-research/rdm/rdm-dmp
-              - title: The FAIR Principles and Practices
-                file: reproducible-research/rdm/rdm-fair
-              - title: Personal data management
-                file: reproducible-research/rdm/rdm-personal
-              - title: Data Storage and Organisation
-                file: reproducible-research/rdm/rdm-storage
-              - title: Data Organisation in Spreadsheets
-                file: reproducible-research/rdm/rdm-spreadsheets
-              - title: Documentation and Metadata
-                file: reproducible-research/rdm/rdm-metadata
-              - title: Data Curation
-                file: reproducible-research/rdm/rdm-data-curation
-              - title: Sharing and Archiving Data
-                file: reproducible-research/rdm/rdm-sharing
-              - title: Data Article
-                file: reproducible-research/rdm/rdm-article
-              - title: Research Data Management Toolkits
-                file: reproducible-research/rdm/rdm-toolkits
-              - title: Personal Impact Stories
-                file: reproducible-research/rdm/rdm-stories
-              - title: Checklist
-                file: reproducible-research/rdm/rdm-checklist
-              - title: Resources
-                file: reproducible-research/rdm/rdm-resources
-          - title: Reproducible Environments
-            file: reproducible-research/renv
-            sections:
-              - title: Capturing Computational Environments
-                file: reproducible-research/renv/renv-options
-              - title: Package Management Systems
-                file: reproducible-research/renv/renv-package
-              - title: YAML
-                file: reproducible-research/renv/renv-yaml
-              - title: Virtual Machines
-                file: reproducible-research/renv/renv-virtualmachine
-              - title: Containers
-                file: reproducible-research/renv/renv-containers
-              - title: Resources and Checklist
-                file: reproducible-research/renv/renv-resources
-          - title: BinderHub
-            file: reproducible-research/binderhub
-            sections:
-              - title: Introduction to BinderHub
-                file: reproducible-research/binderhub/binderhub-introduction
-              - title: Compute Resources
-                file: reproducible-research/binderhub/binderhub-compute
-              - title: Build Your Own BinderHub
-                file: reproducible-research/binderhub/binderhub-build
-              - title: Resources for BinderHub
-                file: reproducible-research/binderhub/binderhub-resources
-          - title: Code quality
-            file: reproducible-research/code-quality
-            sections:
-              - title: Code Style and Formatting
-                file: reproducible-research/code-quality/code-quality-style
-              - title: Checklist and Resources
-                file: reproducible-research/code-quality/code-quality-resources
-          - title: Code Testing
-            file: reproducible-research/testing
-            sections:
-              - title: General Guidance for Testing
-                file: reproducible-research/testing/testing-guidance
-              - title: Overview of Testing Types
-                file: reproducible-research/testing/testing-overview
-              - title: Smoke Testing
-                file: reproducible-research/testing/testing-smoketest
-              - title: Unit Testing
-                file: reproducible-research/testing/testing-unittest
-              - title: Integration Testing
-                file: reproducible-research/testing/testing-integrationtest
-              - title: System Testing
-                file: reproducible-research/testing/testing-systemtest
-              - title: Acceptance and Regression Testing
-                file: reproducible-research/testing/testing-acceptance-regression
-              - title: Runtime Testing
-                file: reproducible-research/testing/testing-runtime
-              - title: Test Driven Development
-                file: reproducible-research/testing/testing-driven-development
-              - title: Challenges and Exceptional Cases
-                file: reproducible-research/testing/testing-exceptions
-              - title: Checklist for Code Testing
-                file: reproducible-research/testing/testing-checklist
-              - title: Further Recommendations
-                file: reproducible-research/testing/testing-resources
-          - title: Code Reviewing Process
-            file: reproducible-research/reviewing
-            sections:
-              - title: Motivation for code reviewing
-                file: reproducible-research/reviewing/reviewing-motivation
-              - title: Recommendations for code reviewing
-                file: reproducible-research/reviewing/reviewing-recommend
-              - title: Code review workflow
-                file: reproducible-research/reviewing/reviewing-workflow
-              - title: Checklist for code reviewing
-                file: reproducible-research/reviewing/reviewing-checklist
-              - title: Resources for code reviewing
-                file: reproducible-research/reviewing/reviewing-resources
-          - title: Reusable Code
-            file: reproducible-research/code-reuse
-            sections:
-              - title: Overview of Code Reuse
-                file: reproducible-research/code-reuse/code-reuse-overview
-              - title: Detailed Recommendations for Code Reuse
-                file: reproducible-research/code-reuse/code-reuse-details
-          - title: Continuous Integration (CI)
-            file: reproducible-research/ci
-            sections:
-              - title: Intro to Continuous integration (CI)
-                file: reproducible-research/ci/ci-options
-              - title: Getting started with GitHub actions
-                file: reproducible-research/ci/ci-github-actions
-              - title: Building a Block of a GitHub actions
-                file: reproducible-research/ci/ci-building-gh-actions.md
-              - title: Best practices and recommendations
-                file: reproducible-research/ci/ci-practices
-              - title: Checklist and Resources
-                file: reproducible-research/ci/ci-resources
-          - title: Reproducible Research with Make
-            file: reproducible-research/make
-            sections:
-              - title: Learn "Make" by examples
-                file: reproducible-research/make/make-examples
-              - title: Debugging Makefiles
-                file: reproducible-research/make/make-debugging
-              - title: Case Study of a Reproducible Paper
-                file: reproducible-research/make/make-casestudy
-              - title: Including numerical results and tables
-                file: reproducible-research/make/make-results
-              - title: Resources for "Make"
-                file: reproducible-research/make/make-resources
-              - title: Appendix
-                file: reproducible-research/make/make-appendix
-          - title: Research Compendia
-            file: reproducible-research/compendia
-          - title: Risk Assessment
-            file: reproducible-research/risk-assess
-            sections:
-              - title: Complexity and Impact of Risk Assessment
-                file: reproducible-research/risk-assess/risk-assess-impact
-              - title: Summary of Risk Assessment
-                file: reproducible-research/risk-assess/risk-assess-resources
-          - title: Case Studies
-            file: reproducible-research/case-studies
-            sections:
-              - title: A Statistical Methods Manuscript
-                file: reproducible-research/case-studies/case-study-statistical
-
-
-      # ===== Guide for Project Design ========================================
-
-      - file: project-design/project-design
+          - title: Definitions
+            file: reproducible-research/overview/overview-definitions
+          - title: Added Advantages
+            file: reproducible-research/overview/overview-benefit
+          - title: Barriers
+            file: reproducible-research/overview/overview-barriers
+          - title: Resources
+            file: reproducible-research/overview/overview-resources
+      - title: Open Research
+        file: reproducible-research/open
         sections:
-          - title: Overview of Project Design
-            file: project-design/pd-overview
-            sections:
-              - title: Planning for Project Design
-                file: project-design/pd-overview/pd-overview-planning
-              - title: Communication and Collaboration
-                file: project-design/pd-overview/pd-overview-repro
-              - title: Reproducibility Methods
-                file: project-design/pd-overview/pd-overview-methods
-              - title: Version Control and Documentation
-                file: project-design/pd-overview/pd-overview-version
-              - title: Sharing Your Research Work
-                file: project-design/pd-overview/pd-overview-sharing
-          - title: Creating Project Repositories
-            file: project-design/project-repo
-            sections:
-              - title: Landing Page - README File
-                file: project-design/project-repo/project-repo-readme
-              - title: Roadmapping
-                file: project-design/project-repo/project-repo-roadmapping
-              - title: Contributors and Communication Pathways
-                file: project-design/project-repo/project-repo-contributors
-              - title: Participation Guidelines
-                file: project-design/project-repo/project-repo-participation
-              - title: Advanced Structure for Data Analysis
-                file: project-design/project-repo/project-repo-advanced
-              - title: Further Recommendations
-                file: project-design/project-repo/project-repo-resources
-          - title: Personas and Pathways
-            file: project-design/persona
-            sections:
-              - title: Persona Creation Tool
-                file: project-design/persona/persona-creation
-              - title: Contributor Pathways
-                file: project-design/persona/persona-contributors
-          - title: File Naming Convention
-            file: project-design/filenaming
-          - title: Code Styling and Linting
-            file: project-design/code-styling
-            sections:
-              - title: Guidelines for Code Styling
-                file: project-design/code-styling/code-styling-guidelines
-              - title: Writing Human Readable Code
-                file: project-design/code-styling/code-styling-readability
-              - title: Code Styling Tools
-                file: project-design/code-styling/code-styling-tools
-          - title: Sensitive Data Projects
-            file: project-design/sdp
-            sections:
-              - title: Types of Sensitive Data
-                file: project-design/sdp/types
-              - title: Personal Data
-                file: project-design/sdp/personal
-              - title: Confidential Data
-                file: project-design/sdp/confidential
-              - title: Biological Data
-                file: project-design/sdp/biological
-              - title: Metadata
-                file: project-design/sdp/metadata
-              - title: Combined Datasets
-                file: project-design/sdp/combined
-          - title: Managing Sensitive Data Projects
-            file: project-design/sdpm
-            sections:
-              - title: Informed consent
-                file: project-design/sdpm/informed
-              - title: Data Privacy Strategies
-                file: project-design/sdpm/data-privacy-strategies
-              - title: Sharing Sensitive Data
-                file: project-design/sdpm/sharing-sensitive-data
-              - title: Resources
-                file: project-design/sdpm/resources
-          - title: Working on Sensitive Data Projects
-            file: project-design/sdpw
-            sections:
-              - title: Working with Trusted Research Environments
-                file: project-design/sdpw/trew
-              - title: Privacy Preserving Machine Learning
-                file: project-design/sdpw/pd-sdp-private-learning
-              - title: Keeping Sensitive Files Secure
-                file: project-design/sdpw/pd-sdp-sensitive-files
-              - title: Sharing Your Jupyter Notebook
-                file: project-design/sdpw/pd-sdp-sensitive-code
-              - title: Removing Sensitive Data From GitHub
-                file: project-design/sdpw/pd-sdp-exposing-data
-              - title: Further Recommendations
-                file: project-design/sdpw/pd-sdp-resources
-          - title: Data Governance
-            file: project-design/data-governance
-            sections:
-              - title: Data Governance for the Machine Learning Pipeline
-                file: project-design/data-governance/data-gov-ml
-
-      # ===== Guide for Communication ========================================
-
-      - file: communication/communication
-        sections:
-          - title: Overview of Guide for Communication
-            file: communication/comms-overview
-            sections:
-              - title: Principles of Communicating with Wider Audiences
-                file: communication/comms-overview/comms-overview-principles
-              - title: Communicating Accessibly
-                file: communication/comms-overview/comms-overview-accessibly
-              - title: Resources and Recommendations
-                file: communication/comms-overview/comms-overview-resources
+          - title: Open Data
+            file: reproducible-research/open/open-data
+          - title: Open Source Software
+            file: reproducible-research/open/open-source
+          - title: Open Hardware
+            file: reproducible-research/open/open-hardware
+          - title: Open Access
+            file: reproducible-research/open/open-access
+          - title: Open Notebooks
+            file: reproducible-research/open/open-notebooks
           - title: Open Scholarship
-            file: communication/open
+            file: reproducible-research/open/open-scholarship
+          - title: Checklist
+            file: reproducible-research/open/open-checklist
+          - title: Resources
+            file: reproducible-research/open/open-resources
+      - title: Version Control
+        file: reproducible-research/vcs
+        sections:
+          - title: Version Control Workflow
+            file: reproducible-research/vcs/vcs-workflow
+          - title: Version Control and Branches
+            file: reproducible-research/vcs/vcs-workflow-branches
+          - title: The Git Version Control Software
+            file: reproducible-research/vcs/vcs-git-general
+          - title: Git for Research Projects
+            file: reproducible-research/vcs/vcs-git-in-research
+          - title: Git Using the Command Line
+            file: reproducible-research/vcs/vcs-git
             sections:
-              - title: Open Education
-                file: communication/open/education
-          - title: Blogs for Research Communication
-            file: communication/blogs
+              - title: Git Commit Command
+                file: reproducible-research/vcs/vcs-git-commit
+              - title: Retrieving and Comparing Versions
+                file: reproducible-research/vcs/vcs-git-compare
+              - title: Git Branches
+                file: reproducible-research/vcs/vcs-git-branches
+              - title: Merging Branches in Git
+                file: reproducible-research/vcs/vcs-git-merge
+              - title: Interactive, Visual Git
+                file: reproducible-research/vcs/vcs-git-interactive
+              - title: Git Commands to Work on GitHub
+                file: reproducible-research/vcs/vcs-github
+              - title: Summary Table of Git Commands
+                file: reproducible-research/vcs/vcs-git-summary
+          - title: Version Control for Data
+            file: reproducible-research/vcs/vcs-data
+          - title: Personal Stories
+            file: reproducible-research/vcs/vcs-personal-stories
+          - title: Checklist
+            file: reproducible-research/vcs/vcs-checklist
+          - title: Resources
+            file: reproducible-research/vcs/vcs-resources
+      - title: Licensing
+        file: reproducible-research/licensing
+        sections:
+          - title: License Compatibililty
+            file: reproducible-research/licensing/licensing-compatibility
+          - title: Ethics-informed Licensing
+            file: reproducible-research/licensing/licensing-ethical-source
+          - title: Data Licenses
+            file: reproducible-research/licensing/licensing-data
+          - title: Hardware Licenses
+            file: reproducible-research/licensing/licensing-hardware
+          - title: Machine Learning Model Licenses
+            file: reproducible-research/licensing/licensing-ml
             sections:
-              - title: Building a Webpage for Blogs
-                file: communication/blogs/blogs-webpage
-              - title: Personal stories - Blogs
-                file: communication/blogs/blogs-personal-stories
-          - title: Lay Summaries
-            file: communication/lay-summaries
-            sections:
-              - title: Personal Stories - Lay summaries
-                file: communication/lay-summaries/lay-summaries-personal-stories
-          - title: Podcasts for Research Communication
-            file: communication/podcasts
-            sections:
-              - title: Personal Stories - Podcasts
-                file: communication/podcasts/podcasts-personal-stories
-          - title: Presenting Posters and Conference Talks
-            file: communication/presentations
-            sections:
-              - title: Presenting at Remote Events
-                file: communication/presentations/presentations-remote
-              - title: Personal Stories - Presentations
-                file: communication/presentations/presentations-personal-stories
-          - title: Social Media for Research Communications
-            file: communication/social-media
-            sections:
-              - title: Tips for starting with twitter
-                file: communication/social-media/social-media-twitter-tips
-              - title: Managing multiple twitter accounts
-                file: communication/social-media/social-media-twitter-multiple
-          - title: Research Objects in Action
-            file: communication/research-objects
-            sections:
-              - title: Concepts
-                file: communication/research-objects/ro-concepts
-              - title: Implementation
-                file: communication/research-objects/ro-implementation
-          - title: Making Research Objects Citable
-            file: communication/citable
-            sections:
-              - title: Steps for Making Research Objects Citable
-                file: communication/citable/citable-steps
-              - title: Citing Research Objects
-                file: communication/citable/citable-cite
-              - title: Software citation with CITATION.cff
-                file: communication/citable/citable-cff
-              - title: Create a CITATION.cff using CFFinit
-                file: communication/citable/citable-cffinit
-              - title: Linking Research Objects
-                file: communication/citable/citable-linking
-              - title: ORCID to Collect your Research Objects
-                file: communication/citable/citable-orcid
-              - title: Checklists and Resources
-                file: communication/citable/citable-resources
-          - title: Publishing Different Article Types
-            file: communication/dif-articles
-            sections:
-              - title: Data Papers
-                file: communication/dif-articles/data
-              - title: Methods Papers
-                file: communication/dif-articles/methods
-              - title: Micropublishing
-                file: communication/dif-articles/micro
-              - title: Registered Reports
-                file: communication/dif-articles/reg
-              - title: Software Papers
-                file: communication/dif-articles/software
-          - title: Communications in Open Source Projects
-            file: communication/os-comms
-            sections:
-              - title: Issue Tracking
-                file: communication/os-comms/os-comms-issue-tracking
-              - title: Communication Channels
-                file: communication/os-comms/os-comms-channels
-          - title: Authorship and Contributions on Academic Articles
-            file: communication/aa
-            sections:
-              - title: Overview of Academic Authorship
-                file: communication/aa/aa-overview
-              - title: Types of Authorship Misconduct
-                file: communication/aa/aa-misconduct
-              - title: Discipline Specific Authorship Traditions
-                file: communication/aa/aa-traditions
-              - title: Large and Equitable Authorships
-                file: communication/aa/aa-equitable
-              - title: Tips on How to Get Authorship Right
-                file: communication/aa/aa-tips
-              - title: Personal Stories - Authorship on Interdisciplinary Projects
-                file: communication/aa/aa-stories-interdisciplinary
-              - title: Personal Stories - Large Collaborative Research Community
-                file: communication/aa/aa-stories-community
-              - title: Resources
-                file: communication/aa/aa-resources
+              - title: "Case Studies: Choosing an ML License"
+                file: reproducible-research/licensing/licensing-ml-case-studies
+          - title: Checklist
+            file: reproducible-research/licensing/licensing-checklist
+      - title: Research Data Management
+        file: reproducible-research/rdm
+        sections:
+          - title: Research Data
+            file: reproducible-research/rdm/rdm-data
+          - title: Finding Data
+            file: reproducible-research/rdm/rdm-find
+          - title: Data Management Plan
+            file: reproducible-research/rdm/rdm-dmp
+          - title: The FAIR Principles and Practices
+            file: reproducible-research/rdm/rdm-fair
+          - title: Personal data management
+            file: reproducible-research/rdm/rdm-personal
+          - title: Data Storage and Organisation
+            file: reproducible-research/rdm/rdm-storage
+          - title: Data Organisation in Spreadsheets
+            file: reproducible-research/rdm/rdm-spreadsheets
+          - title: Documentation and Metadata
+            file: reproducible-research/rdm/rdm-metadata
+          - title: Methods and Protocols
+            file: reproducible-research/rdm/rdm-methods
+          - title: Electronic Lab Notebooks (ELNs)
+            file: reproducible-research/rdm/rdm-elns
+          - title: Data Curation
+            file: reproducible-research/rdm/rdm-data-curation
+          - title: Data Visualisation
+            file: reproducible-research/rdm/rdm-visualisation
+          - title: Data Repositories
+            file: reproducible-research/rdm/rdm-repository
+          - title: Sharing and Archiving Data
+            file: reproducible-research/rdm/rdm-sharing
+          - title: Data Article
+            file: reproducible-research/rdm/rdm-article
+          - title: Checklist
+            file: reproducible-research/rdm/rdm-checklist
+          - title: Personal Impact Stories
+            file: reproducible-research/rdm/rdm-stories
+          - title: Resources
+            file: reproducible-research/rdm/rdm-resources
+      - title: Reproducible Environments
+        file: reproducible-research/renv
+        sections:
+          - title: Capturing Computational Environments
+            file: reproducible-research/renv/renv-options
+          - title: Package Management Systems
+            file: reproducible-research/renv/renv-package
+          - title: YAML
+            file: reproducible-research/renv/renv-yaml
+          - title: Virtual Machines
+            file: reproducible-research/renv/renv-virtualmachine
+          - title: Containers
+            file: reproducible-research/renv/renv-containers
+          - title: Resources and Checklist
+            file: reproducible-research/renv/renv-resources
+      - title: BinderHub
+        file: reproducible-research/binderhub
+        sections:
+          - title: Introduction to BinderHub
+            file: reproducible-research/binderhub/binderhub-introduction
+          - title: Compute Resources
+            file: reproducible-research/binderhub/binderhub-compute
+          - title: Build Your Own BinderHub
+            file: reproducible-research/binderhub/binderhub-build
+          - title: Resources for BinderHub
+            file: reproducible-research/binderhub/binderhub-resources
+      - title: Code Documentation
+        file: reproducible-research/code-documentation
+        sections:
+          - title: Documenting Code
+            file: reproducible-research/code-documentation/code-documentation-code
+          - title: Project Documentation
+            file: reproducible-research/code-documentation/code-documentation-project
+          - title: Other Resources
+            file: reproducible-research/code-documentation/code-documentation-resources
+      - title: Code Quality
+        file: reproducible-research/code-quality
+        sections:
+          - title: Code Style and Formatting
+            file: reproducible-research/code-quality/code-quality-style
+          - title: Writing Robust Code
+            file: reproducible-research/code-quality/code-quality-robust.md
+          - title: Checklist and Resources
+            file: reproducible-research/code-quality/code-quality-resources
+      - title: Code Testing
+        file: reproducible-research/testing
+        sections:
+          - title: General Guidance for Testing
+            file: reproducible-research/testing/testing-guidance
+          - title: Overview of Testing Types
+            file: reproducible-research/testing/testing-overview
+          - title: Smoke Testing
+            file: reproducible-research/testing/testing-smoketest
+          - title: Unit Testing
+            file: reproducible-research/testing/testing-unittest
+          - title: Integration Testing
+            file: reproducible-research/testing/testing-integrationtest
+          - title: System Testing
+            file: reproducible-research/testing/testing-systemtest
+          - title: Acceptance and Regression Testing
+            file: reproducible-research/testing/testing-acceptance-regression
+          - title: Runtime Testing
+            file: reproducible-research/testing/testing-runtime
+          - title: Test Driven Development
+            file: reproducible-research/testing/testing-driven-development
+          - title: Challenges and Exceptional Cases
+            file: reproducible-research/testing/testing-exceptions
+          - title: Checklist for Code Testing
+            file: reproducible-research/testing/testing-checklist
+          - title: Further Recommendations
+            file: reproducible-research/testing/testing-resources
+      - title: Code Reviewing Process
+        file: reproducible-research/reviewing
+        sections:
+          - title: Motivation for code reviewing
+            file: reproducible-research/reviewing/reviewing-motivation
+          - title: Recommendations for code reviewing
+            file: reproducible-research/reviewing/reviewing-recommend
+          - title: Code review workflow
+            file: reproducible-research/reviewing/reviewing-workflow
+          - title: Checklist for code reviewing
+            file: reproducible-research/reviewing/reviewing-checklist
+          - title: Resources for code reviewing
+            file: reproducible-research/reviewing/reviewing-resources
+      - title: Reusable Code
+        file: reproducible-research/code-reuse
+        sections:
+          - title: Overview of Code Reuse
+            file: reproducible-research/code-reuse/code-reuse-overview
+          - title: Detailed Recommendations for Code Reuse
+            file: reproducible-research/code-reuse/code-reuse-details
+          - title: Reusing code by creating software packages
+            file: reproducible-research/code-reuse/code-reuse-packages
+      - title: Continuous Integration (CI)
+        file: reproducible-research/ci
+        sections:
+          - title: Intro to Continuous integration (CI)
+            file: reproducible-research/ci/ci-options
+          - title: Getting started with GitHub actions
+            file: reproducible-research/ci/ci-github-actions
+          - title: Building a Block of a GitHub actions
+            file: reproducible-research/ci/ci-building-gh-actions.md
+          - title: Best practices and recommendations
+            file: reproducible-research/ci/ci-practices
+          - title: Checklist and Resources
+            file: reproducible-research/ci/ci-resources
+      - title: Reproducible Research with Make
+        file: reproducible-research/make
+        sections:
+          - title: Learn "Make" by examples
+            file: reproducible-research/make/make-examples
+          - title: Debugging Makefiles
+            file: reproducible-research/make/make-debugging
+          - title: Case Study of a Reproducible Paper
+            file: reproducible-research/make/make-casestudy
+          - title: Including numerical results and tables
+            file: reproducible-research/make/make-results
+          - title: Resources for "Make"
+            file: reproducible-research/make/make-resources
+          - title: Appendix
+            file: reproducible-research/make/make-appendix
+      - title: Research Compendia
+        file: reproducible-research/compendia
+      - title: Risk Assessment
+        file: reproducible-research/risk-assess
+        sections:
+          - title: Complexity and Impact of Risk Assessment
+            file: reproducible-research/risk-assess/risk-assess-impact
+          - title: Summary of Risk Assessment
+            file: reproducible-research/risk-assess/risk-assess-resources
+      - title: Case Studies
+        file: reproducible-research/case-studies
+        sections:
+          - title: A Statistical Methods Manuscript
+            file: reproducible-research/case-studies/case-study-statistical
+
+  # ===== Guide for Project Design ========================================
+  - file: project-design/project-design
+    sections:
+      - title: Overview of Project Design
+        file: project-design/pd-overview
+        sections:
+          - title: Planning for Project Design
+            file: project-design/pd-overview/pd-overview-planning
+          - title: Collaborative project documentation
+            file: project-design/pd-overview/pd-overview-repro
+          - title: Reproducibility Methods
+            file: project-design/pd-overview/pd-overview-methods
+          - title: Version Control and Documentation
+            file: project-design/pd-overview/pd-overview-version
+          - title: Sharing Your Research Work
+            file: project-design/pd-overview/pd-overview-sharing
+      - title: Project Design Checklist
+        file: project-design/pd-checklist
+      - title: Creating Project Repositories
+        file: project-design/project-repo
+        sections:
+          - title: Landing Page - README File
+            file: project-design/project-repo/project-repo-readme
+          - title: Roadmapping
+            file: project-design/project-repo/project-repo-roadmapping
+          - title: Contributors and Communication Pathways
+            file: project-design/project-repo/project-repo-contributors
+          - title: Participation Guidelines
+            file: project-design/project-repo/project-repo-participation
+          - title: Advanced Structure for Data Analysis
+            file: project-design/project-repo/project-repo-advanced
+          - title: Further Recommendations
+            file: project-design/project-repo/project-repo-resources
+      - title: Personas and Pathways
+        file: project-design/persona
+        sections:
+          - title: Persona Creation Tool
+            file: project-design/persona/persona-creation
+          - title: Contributor Pathways
+            file: project-design/persona/persona-contributors
+      - title: File Naming Convention
+        file: project-design/filenaming
+      - title: Code Styling and Linting
+        file: project-design/code-styling
+        sections:
+          - title: Guidelines for Code Styling
+            file: project-design/code-styling/code-styling-guidelines
+          - title: Writing Human Readable Code
+            file: project-design/code-styling/code-styling-readability
+          - title: Code Styling Tools
+            file: project-design/code-styling/code-styling-tools
+      - title: Sensitive Data Projects
+        file: project-design/sdp
+        sections:
+          - title: Types of Sensitive Data
+            file: project-design/sdp/types
+          - title: Personal Data
+            file: project-design/sdp/personal
+          - title: Confidential Data
+            file: project-design/sdp/confidential
+          - title: Biological Data
+            file: project-design/sdp/biological
+          - title: Metadata
+            file: project-design/sdp/metadata
+          - title: Combined Datasets
+            file: project-design/sdp/combined
+      - title: Managing Sensitive Data Projects
+        file: project-design/sdpm
+        sections:
+          - title: Informed consent
+            file: project-design/sdpm/informed
+          - title: Data Privacy Strategies
+            file: project-design/sdpm/data-privacy-strategies
+          - title: Sharing Sensitive Data
+            file: project-design/sdpm/sharing-sensitive-data
+          - title: Resources
+            file: project-design/sdpm/resources
+      - title: Working on Sensitive Data Projects
+        file: project-design/sdpw
+        sections:
+          - title: Working with Trusted Research Environments
+            file: project-design/sdpw/trew
+          - title: Privacy Preserving Machine Learning
+            file: project-design/sdpw/pd-sdp-private-learning
+          - title: Keeping Sensitive Files Secure
+            file: project-design/sdpw/pd-sdp-sensitive-files
+          - title: Sharing Your Jupyter Notebook
+            file: project-design/sdpw/pd-sdp-sensitive-code
+          - title: Removing Sensitive Data From GitHub
+            file: project-design/sdpw/pd-sdp-exposing-data
+          - title: Further Recommendations
+            file: project-design/sdpw/pd-sdp-resources
+      - title: Data Governance
+        file: project-design/data-governance
+        sections:
+          - title: Data Governance for the Machine Learning Pipeline
+            file: project-design/data-governance/data-gov-ml
+          - title: BigCode Data Governance Case Study
+            file: project-design/data-governance/bigcode_casestudy
+      - title: Missing Data Handling
+        file: project-design/missing-data
+        sections:
+          - title: Missing Data Structures
+            file: project-design/missing-data/missing-data-structures
+          - title: Visualising Missingness
+            file: project-design/missing-data/missing-data-visualising-missingness
+          - title: Missing Data Handling Methods
+            file: project-design/missing-data/missing-data-methods
+          - title: Structured Missingness
+            file: project-design/missing-data/missing-data-structured-missingness
+          - title: Checklist and Resources
+            file: project-design/missing-data/missing-data-checklist-resources
+      - title: Risks of Bias in Research
+        file: project-design/risks-of-bias
+        sections:
+          - title: Identifying Risks of Bias
+            file: project-design/risks-of-bias/identifying-risks-of-bias
+          - title: Confounding Variables
+            file: project-design/risks-of-bias/confounding-variables
+          - title: Validation and Generalisability
+            file: project-design/risks-of-bias/validation-generalisability
+          - title: Discrimination and Bias
+            file: project-design/risks-of-bias/discrimination-bias
+
+  # ===== Guide for Communication ========================================
+  - file: communication/communication
+    sections:
+      - title: Overview of Guide for Communication
+        file: communication/comms-overview
+        sections:
+          - title: Principles of Communicating with Wider Audiences
+            file: communication/comms-overview/comms-overview-principles
+          - title: Communicating Accessibly
+            file: communication/comms-overview/comms-overview-accessibly
+          - title: Resources and Recommendations
+            file: communication/comms-overview/comms-overview-resources
+      - title: Open Scholarship
+        file: communication/open
+        sections:
+          - title: Open Education
+            file: communication/open/education
+      - title: Blogs for Research Communication
+        file: communication/blogs
+        sections:
+          - title: Building a Webpage for Blogs
+            file: communication/blogs/blogs-webpage
+          - title: Personal stories - Blogs
+            file: communication/blogs/blogs-personal-stories
+      - title: Lay Summaries
+        file: communication/lay-summaries
+        sections:
+          - title: Personal Stories - Lay summaries
+            file: communication/lay-summaries/lay-summaries-personal-stories
+      - title: Podcasts for Research Communication
+        file: communication/podcasts
+        sections:
+          - title: Personal Stories - Podcasts
+            file: communication/podcasts/podcasts-personal-stories
+      - title: Presenting Posters and Conference Talks
+        file: communication/presentations
+        sections:
+          - title: Presenting at Remote Events
+            file: communication/presentations/presentations-remote
+          - title: Personal Stories - Presentations
+            file: communication/presentations/presentations-personal-stories
+      - title: Social Media for Research Communications
+        file: communication/social-media
+        sections:
+          - title: Tips for starting with X
+            file: communication/social-media/social-media-twitter-tips
+          - title: Managing multiple X accounts
+            file: communication/social-media/social-media-twitter-multiple
+      - title: Research Objects in Action
+        file: communication/research-objects
+        sections:
+          - title: Concepts
+            file: communication/research-objects/ro-concepts
+          - title: Implementation
+            file: communication/research-objects/ro-implementation
+      - title: Making Research Objects Citable
+        file: communication/citable
+        sections:
+          - title: Steps for Making Research Objects Citable
+            file: communication/citable/citable-steps
+          - title: Citing Research Objects
+            file: communication/citable/citable-cite
+          - title: Software citation with CITATION.cff
+            file: communication/citable/citable-cff
+          - title: Create a CITATION.cff using CFFinit
+            file: communication/citable/citable-cffinit
+          - title: Linking Research Objects
+            file: communication/citable/citable-linking
+          - title: ORCID to Collect your Research Objects
+            file: communication/citable/citable-orcid
+          - title: Checklists and Resources
+            file: communication/citable/citable-resources
+      - title: Publishing Different Article Types
+        file: communication/dif-articles
+        sections:
+          - title: Data Papers
+            file: communication/dif-articles/data
+          - title: Methods Papers
+            file: communication/dif-articles/methods
+          - title: Micropublishing
+            file: communication/dif-articles/micro
+          - title: Registered Reports
+            file: communication/dif-articles/reg
+          - title: Software Papers
+            file: communication/dif-articles/software
+      - title: Communications in Open Source Projects
+        file: communication/os-comms
+        sections:
+          - title: Issue Tracking
+            file: communication/os-comms/os-comms-issue-tracking
+          - title: Communication Channels
+            file: communication/os-comms/os-comms-channels
+      - title: Authorship and Contributions on Academic Articles
+        file: communication/aa
+        sections:
+          - title: Overview of Academic Authorship
+            file: communication/aa/aa-overview
+          - title: Types of Authorship Misconduct
+            file: communication/aa/aa-misconduct
+          - title: Discipline Specific Authorship Traditions
+            file: communication/aa/aa-traditions
+          - title: Large and Equitable Authorships
+            file: communication/aa/aa-equitable
+          - title: Tips on How to Get Authorship Right
+            file: communication/aa/aa-tips
+          - title: Personal Stories - Authorship on Interdisciplinary Projects
+            file: communication/aa/aa-stories-interdisciplinary
+          - title: Personal Stories - Large Collaborative Research Community
+            file: communication/aa/aa-stories-community
+          - title: Resources
+            file: communication/aa/aa-resources
+      - title: Peer Review
+        file: communication/peer-review
+        sections:
           - title: Peer Review
-            file: communication/peer-review
-            sections:
-              - title: Peer Review
-                file: communication/peer-review/peer-review-overview
-              - title: Open Peer Review
-                file: communication/peer-review/peer-review-open
-              - title: Guidance on Peer Review for a Journal
-                file: communication/peer-review/peer-review-guidance
-              - title: Guidance on Code Review
-                file: communication/peer-review/peer-review-code
-              - title: Resources
-                file: communication/peer-review/peer-review-resources
-          - title: Binder
-            file: communication/binder
-            sections:
-              - title: Zero-to-Binder
-                file: communication/binder/zero-to-binder
-
-      # ===== Guide for Collaboration ========================================
-
-      - file: collaboration/collaboration
+            file: communication/peer-review/peer-review-overview
+          - title: Open Peer Review
+            file: communication/peer-review/peer-review-open
+          - title: Guidance on Peer Review for a Journal
+            file: communication/peer-review/peer-review-guidance
+          - title: Guidance on Code Review
+            file: communication/peer-review/peer-review-code
+          - title: Resources
+            file: communication/peer-review/peer-review-resources
+      - title: Binder
+        file: communication/binder
         sections:
-          - title: Getting Started With GitHub
-            file: collaboration/github-novice
-            sections:
-              - title: Motivation for Using GitHub
-                file: collaboration/github-novice/github-novice-motivation
-              - title: First steps on GitHub
-                file: collaboration/github-novice/github-novice-firststeps
-              - title: Using more GitHub features
-                file: collaboration/github-novice/github-novice-features
-              - title: Advanced GitHub features
-                file: collaboration/github-novice/github-novice-advanced
-          - title: Maintainers and Reviewers on GitHub
-            file: collaboration/maintain-review
-            sections:
-              - title: Project Maintenance
-                file: collaboration/maintain-review/maintain-review-maintenance
-              - title: Ownership and Permissions
-                file: collaboration/maintain-review/maintain-review-permissions
-              - title: Reviewing Contributions
-                file: collaboration/maintain-review/maintain-review-review
-              - title: Merging Contributions
-                file: collaboration/maintain-review/maintain-review-merge
-              - title: Resources
-                file: collaboration/maintain-review/maintain-review-resources
-          - title: Organising Meetings
-            file: collaboration/organising-meetings
-          - title: Organising Online Coworking Calls
-            file: collaboration/coworking
-          - title: Organising Conferences
-            file: collaboration/organising-conference
-          - title: Chairing Events
-            file: collaboration/chairing
-          - title: Participating in Events
-            file: collaboration/event-participation
-          - title: Informal Coffee Chats
-            file: collaboration/informal-chats
-          - title: Tools for Facilitating Collaboration
-            file: collaboration/event-tools
-          - title: Facilitating Stakeholder Engagement
-            file: collaboration/stakeholder-engagement
-          - title: Managing a New Community and Team
-            file: collaboration/new-community
-            sections:
-              - title: Guide to Planning a Community
-                file: collaboration/new-community/new-community-guide
-              - title: Addressing Technical Issues
-                file: collaboration/new-community/new-community-techissues
-              - title: Valuing Diversity and Differences
-                file: collaboration/new-community/new-community-differences
-              - title: Teamwork
-                file: collaboration/new-community/new-community-teamwork
-          - title: Academic-Industry Collaborations
-            file: collaboration/academic-industry
-            sections:
-              - title: Establishing an Academic-Industry Collaboration
-                file: collaboration/academic-industry/academic-industry-establish
-              - title: Community Building in an Academic-Industry Collaboration
-                file: collaboration/academic-industry/academic-industry-community
-              - title: Turing-Roche Community Activities Personal Story
-                file: collaboration/academic-industry/academic-industry-personal-story
-          - title: Team Manual
-            file: collaboration/team-manual
-          - title: Open Leadership in Data Science
-            file: collaboration/leadership
-            sections:
-              - title: Important Features of Leadership
-                file: collaboration/leadership/leadership-features
-              - title: Building Healthy Leadership Skills
-                file: collaboration/leadership/leadership-building
-              - title: Creating Leadership Opportunities
-                file: collaboration/leadership/leadership-opportunities
-              - title: Personal Story from Running a Hackathon
-                file: collaboration/leadership/leadership-story-hackathon
-              - title: Personal Story of Leadership by a Data Librarian
-                file: collaboration/leadership/leadership-story-data-librarian
-          - title: Research Infrastructure Roles
-            file: collaboration/research-infrastructure-roles
-            sections:
-              - title: Community Managers Overview
-                file: collaboration/research-infrastructure-roles/community-manager
-              - title: Data Stewards Overview
-                file: collaboration/research-infrastructure-roles/data-steward
-              - title: Data Steward Personal Story
-                file: collaboration/research-infrastructure-roles/data-steward-personal-story
-              - title: Data Wrangler Overview
-                file: collaboration/research-infrastructure-roles/data-wrangler
-              - title: Research Software Engineers Overview
-                file: collaboration/research-infrastructure-roles/rse
-              - title: Research Software Engineering Personal Story
-                file: collaboration/research-infrastructure-roles/rse-personal-story
-              - title: Research Application Manager Overview
-                file: collaboration/research-infrastructure-roles/ram
-              - title: Research Infrastructure Developer Overview
-                file: collaboration/research-infrastructure-roles/research-infrastructure-developer
-          - title: Remote Collaboration
-            file: collaboration/remote-collab
-            sections:
-              - title: Pros and Cons
-                file: collaboration/remote-collab/remote-collab-prosandcons
-              - title: Guidelines for Remote Collaboration
-                file: collaboration/remote-collab/remote-collab-guidelines
-              - title: Managing Distributed Teams
-                file: collaboration/remote-collab/remote-collab-team
-              - title: Useful Resources
-                file: collaboration/remote-collab/remote-collab-useful-resources
-          - title: Hybrid Collaboration
-            file: collaboration/hybrid-collab
-            sections:
-              - title: Challenges faced during Hybrid Collaboration
-                file: collaboration/hybrid-collab/hybrid-collab-challenges
-              - title: Guidelines for Hybrid Collaboration
-                file: collaboration/hybrid-collab/hybrid-collab-guidelines
-              - title: Resources
-                file: collaboration/hybrid-collab/hybrid-collab-resources
-          - title: Shared Ownership in Open Source Projects
-            file: collaboration/shared-ownership
-            sections:
-              - title: Project Ownership
-                file: collaboration/shared-ownership/shared-ownership-projects
-              - title: Shared Ownership Models
-                file: collaboration/shared-ownership/shared-ownership-models
-              - title: Challenges with Applying Ownership Models Retroactively
-                file: collaboration/shared-ownership/shared-ownership-challenges
-              - title: Nudging for a Better Default
-                file: collaboration/shared-ownership/shared-ownership-defaults
-          - title: Sustainability of Open Source Projects
-            file: collaboration/oss-sustainability/oss-sustainability-challenges
+          - title: Zero-to-Binder
+            file: communication/binder/zero-to-binder
 
-      # ===== Guide for Ethical Research ========================================
-
-      - file: ethical-research/ethical-research
+  # ===== Guide for Collaboration ========================================
+  - file: collaboration/collaboration
+    sections:
+      - title: Getting Started With GitHub
+        file: collaboration/github-novice
         sections:
-          - title: Introduction to Research Ethics
-            file: ethical-research/ethics-intro
-          - title: Research Ethics Committees Workflows
-            file: ethical-research/ethics-committees
-          - title: Ethical Decisions in Preclinical Research
-            file: ethical-research/preclinical-research
-          - title: Law, Policy and Human Rights in Ethics
-            file: ethical-research/law-policy
-            sections:
-              - title: Ethics and law
-                file: ethical-research/law-policy/law-policy-ethics
-              - title: Human rights
-                file: ethical-research/law-policy/law-policy-rights
-              - title: Further Recommendations
-                file: ethical-research/law-policy/law-policy-resources
-          - title: Research Ethics for Social Data
-            file: ethical-research/social-data
-          - title: Activism for Researchers
-            file: ethical-research/activism
-            sections:
-              - title: Unionisation
-                file: ethical-research/activism/activism-unionisation
-              - title: Whistleblowing
-                file: ethical-research/activism/activism-whistleblowing
-              - title: Cultural change
-                file: ethical-research/activism/activism-cultural-change
-              - title: Case study - Robodebt
-                file: ethical-research/activism/activism-robodebt
-              - title: Case study - Google Workers
-                file: ethical-research/activism/activism-case-study-google.md
-          - title: Internal Policy Advocacy
-            file: ethical-research/internal-policy
-          - title: Self-Reflection
-            file: ethical-research/self-reflection
-            sections:
-              - title: Identity and Positionality
-                file: ethical-research/self-reflection/sr-positionality
-              - title: Power and Privilege
-                file: ethical-research/self-reflection/sr-power
-              - title: Self-Reflection Prompts
-                file: ethical-research/self-reflection/sr-prompts
-              - title: Resources
-                file: ethical-research/self-reflection/sr-resources
-          - title: Ethical Considerations for Open Source Governance Models
-            file: ethical-research/ethics-open-source-governance
-
-      # ===== Community Handbook ========================================
-
-      - file: community-handbook/community-handbook
+          - title: Motivation for Using GitHub
+            file: collaboration/github-novice/github-novice-motivation
+          - title: First steps on GitHub
+            file: collaboration/github-novice/github-novice-firststeps
+          - title: Using more GitHub features
+            file: collaboration/github-novice/github-novice-features
+          - title: Advanced GitHub features
+            file: collaboration/github-novice/github-novice-advanced
+      - title: Maintainers and Reviewers on GitHub
+        file: collaboration/maintain-review
         sections:
-          - title: Code of Conduct
-            file: community-handbook/coc
-            sections:
-              - title: Code of Conduct in Detail
-                file: community-handbook/coc/coc-details
-              - title: Incident Reporting Guideline
-                file: community-handbook/coc/coc-reporting
-              - title: Enforcement Manual
-                file: community-handbook/coc/coc-enforcement
-              - title: Acknowledgements
-                file: community-handbook/coc/coc-acknowledgement
-          - title: Style Guide
-            file: community-handbook/style
-            sections:
-              - title: Citing and Referencing External Resources
-                file: community-handbook/style/style-citing
-              - title: Cross-Referencing Sections and Chapters
-                file: community-handbook/style/style-crossref
-              - title: Using Figures
-                file: community-handbook/style/style-figures
-              - title: Glossary, Special Blocks and More Styling
-                file: community-handbook/style/style-more-styling
-              - title: Custom Styling
-                file: community-handbook/style/style-custom-styling
-          - title: Maintaining Consistency
-            file: community-handbook/consistency
-            sections:
-              - title: Formatting
-                file: community-handbook/consistency/consistency-formatting
-              - title: Structure
-                file: community-handbook/consistency/consistency-structure
-              - title: Language
-                file: community-handbook/consistency/consistency-language
-          - title: Build the Turing Way Book locally
-            file: community-handbook/local-build
-          - title: Contributing and Developing Chapters - Templates and Workflow
-            file: community-handbook/contributing
-            sections:
-              - title: Templates
-                file: community-handbook/contributing/contributing-templates
-              - title: Workflow
-                file: community-handbook/contributing/contributing-workflow
-          - title: Acknowledging Contributors
-            file: community-handbook/acknowledgement
-            sections:
-              - title: Community Members and Shared Ownership
-                file: community-handbook/acknowledgement/acknowledgement-members
-              - title: Record of Contributions
-                file: community-handbook/acknowledgement/acknowledgement-record
-              - title: Different Contributions and Acknowledgements
-                file: community-handbook/acknowledgement/acknowledgement-examples
-          - title: Infrastructure
-            file: community-handbook/infrastructure
-            sections:
-              - title: Publishing Contributors
-                file: community-handbook/infrastructure/infrastructure-contributors
-              - title: External Link Checking
-                file: community-handbook/infrastructure/infrastructure-external-link-check
-          - title: Monthly Newsletters
-            file: community-handbook/newsletters
-            sections:
-              - title: A Process of Creating a newsletter
-                file: community-handbook/newsletters/newsletters-process
-              - title: Newsletter's Style Guide
-                file: community-handbook/newsletters/newsletters-style
-              - title: The Turing Way Newsletter Template
-                file: community-handbook/newsletters/newsletters-template
-          - title: Book Dash Events
-            file: community-handbook/bookdash
-            sections:
-              - title: Application and Review Process
-                file: community-handbook/bookdash/bookdash-application
-              - title: Book Dash Logistics
-                file: community-handbook/bookdash/bookdash-logistics
-              - title: Working With an Illustrator
-                file: community-handbook/bookdash/bookdash-illustrator
-              - title: Participant Selection Process
-                file: community-handbook/bookdash/bookdash-selection
-              - title: Book Dash Main Event Plans
-                file: community-handbook/bookdash/bookdash-events
-              - title: After the Book Dash
-                file: community-handbook/bookdash/bookdash-after
-          - title: Community Coworking Calls
-            file: community-handbook/coworking
-            sections:
-              - title: Background, Motivations, and Techniques
-                file: community-handbook/coworking/coworking-motivation
-              - title: Online Collaboration Cafe
-                file: community-handbook/coworking/coworking-collabcafe
-              - title: Weekly Coworking Calls
-                file: community-handbook/coworking/coworking-weekly
-              - title: Organising coworking calls
-                file: community-handbook/coworking/coworking-organisation
-          - title: Fireside Chat Series
-            file: community-handbook/fireside-chat
-            sections:
-              - title: Fireside Chat Planning Checklist
-                file: community-handbook/fireside-chat/fireside-chat-checklist
-              - title: Fireside Chat Roles and Responsibilities
-                file: community-handbook/fireside-chat/fireside-chat-roles
-          - title: Giving a Turing Way Talk
-            file: community-handbook/presenting
-          - title: Template Collection
-            file: community-handbook/templates
-            sections:
-              - title: Book Dash Main Shared Document
-                file: community-handbook/templates/template-bookdash-index
-              - title: Book Dash Pre-event Onboarding
-                file: community-handbook/templates/template-bookdash-precall
-              - title: Book Dash GitHub Session
-                file: community-handbook/templates/template-bookdash-github
-              - title: Book Dash Template for Shared Notes
-                file: community-handbook/templates/template-bookdash-notes
-              - title: Book Dash Template for Feedback
-                file: community-handbook/templates/template-bookdash-feedback
-              - title: Online Collaboration Cafe Templates
-                file: community-handbook/templates/template-coworking-collabcafe
-              - title: Weekly Coworking Call Template
-                file: community-handbook/templates/template-coworking-weekly
-              - title: Template for Drafting Newsletters
-                file: community-handbook/templates/template-newsletter-draft
-              - title: Template for Fireside Chat Shared Notes
-                file: community-handbook/templates/template-fireside-chat
-          - title: Translation and Localisation
-            file: community-handbook/translation
-            sections:
-              - title: Localisation
-                file: community-handbook/translation/translation-localisation
-              - title: Workflow
-                file: community-handbook/translation/translation-workflow
-              - title: Getting started
-                file: community-handbook/translation/translation-getting-started
-              - title: Hello Crowdin
-                file: community-handbook/translation/translation-hello-crowdin
-
-      # ===== Afterword ========================================
-
-      - file: afterword/afterword
+          - title: Project Maintenance
+            file: collaboration/maintain-review/maintain-review-maintenance
+          - title: Ownership and Permissions
+            file: collaboration/maintain-review/maintain-review-permissions
+          - title: Reviewing Contributions
+            file: collaboration/maintain-review/maintain-review-review
+          - title: Merging Contributions
+            file: collaboration/maintain-review/maintain-review-merge
+          - title: Resources
+            file: collaboration/maintain-review/maintain-review-resources
+      - title: Organising Meetings
+        file: collaboration/organising-meetings
+      - title: Organising Online Coworking Calls
+        file: collaboration/coworking
+      - title: Organising Conferences
+        file: collaboration/organising-conference
         sections:
-          - title: Legal Disclaimer
-            file: afterword/legal-disclaimer
-          - title: Glossary
-            file: afterword/glossary
-          - title: Bibliography
-            file: afterword/bibliography
-          - title: Contributors Record
-            file: afterword/contributors-record
+          - title: Registration Forms
+            file: collaboration/organising-conference/reg-forms
+          - title: Template for Registration Form
+            file: collaboration/organising-conference/reg-form-template
+      - title: Chairing Events
+        file: collaboration/chairing
+      - title: Participating in Events
+        file: collaboration/event-participation
+      - title: Hosting Events with Public Contributors
+        file: collaboration/ppie-events.md
+        sections:
+          - title: Planning your PPIE Event
+            file: collaboration/ppie-events/ppie-events-planning.md
+          - title: Location and Venue Planning
+            file: collaboration/ppie-events/ppie-events-location.md
+          - title: Scheduling and Agenda Considerations
+            file: collaboration/ppie-events/ppie-events-schedules.md
+          - title: Communication Strategy and Planning
+            file: collaboration/ppie-events/ppie-events-comms.md
+          - title: Inclusive Social and Networking
+            file: collaboration/ppie-events/ppie-events-socials.md
+          - title: Technology Considerations
+            file: collaboration/ppie-events/ppie-events-tech.md
+          - title: Additional Resources
+            file: collaboration/ppie-events/ppie-events-resources.md
+      - title: Informal Coffee Chats
+        file: collaboration/informal-chats
+      - title: Tools for Facilitating Collaboration
+        file: collaboration/event-tools
+      - title: Facilitating Stakeholder Engagement
+        file: collaboration/stakeholder-engagement
+      - title: Managing a New Community and Team
+        file: collaboration/new-community
+        sections:
+          - title: Guide to Planning a Community
+            file: collaboration/new-community/new-community-guide
+          - title: Addressing Technical Issues
+            file: collaboration/new-community/new-community-techissues
+          - title: Valuing Diversity and Differences
+            file: collaboration/new-community/new-community-differences
+          - title: Teamwork
+            file: collaboration/new-community/new-community-teamwork
+      - title: Academic-Industry Collaborations
+        file: collaboration/academic-industry
+        sections:
+          - title: Establishing an Academic-Industry Collaboration
+            file: collaboration/academic-industry/academic-industry-establish
+          - title: Community Building in an Academic-Industry Collaboration
+            file: collaboration/academic-industry/academic-industry-community
+          - title: Case Studies and Best Practices in Academic-Industry Collaboration
+            file: collaboration/academic-industry/intro-case-studies-and-best-practices-in-academic-industry-collaboration.md
+            sections:
+              - title: Case Study Library
+                file: collaboration/academic-industry/case-study-library.md
+                sections:
+                  - title: Turing-Roche Case Study
+                    file: collaboration/academic-industry/case-studies/turing-roche-case-study.md
+                  - title: Practitioner's Hub Case Study
+                    file: collaboration/academic-industry/case-studies/practitioners-hub-case-study.md
+                  - title: BridgeAI - Independent Scientific Advice
+                    file: collaboration/academic-industry/case-studies/BridgeAI_IndependentScientificAdvice.md
+              - title: Online Resources
+                file: collaboration/academic-industry/online-resources-best-practices.md
+      - title: Ambassador Schemes
+        file: collaboration/ambassador-schemes
+        sections:
+          - title: Establishing and Running an Ambassador Scheme
+            file: collaboration/ambassador-schemes/ambassador-schemes-establish
+          - title: Turing-Roche Community Scholar Scheme Personal Story
+            file: collaboration/ambassador-schemes/ambassador-schemes-personal-story
+      - title: Team Manual
+        file: collaboration/team-manual
+        sections:
+          - title: On and Offboarding Team Members
+            file: collaboration/team-manual/team-manual-on-off-boarding
+      - title: Open Leadership in Data Science
+        file: collaboration/leadership
+        sections:
+          - title: Important Features of Leadership
+            file: collaboration/leadership/leadership-features
+          - title: Building Healthy Leadership Skills
+            file: collaboration/leadership/leadership-building
+          - title: Creating Leadership Opportunities
+            file: collaboration/leadership/leadership-opportunities
+          - title: Personal Story from Running a Hackathon
+            file: collaboration/leadership/leadership-story-hackathon
+          - title: Personal Story of Leadership by a Data Librarian
+            file: collaboration/leadership/leadership-story-data-librarian
+      - title: Research Infrastructure Roles
+        file: collaboration/research-infrastructure-roles
+        sections:
+          - title: Community Managers Overview
+            file: collaboration/research-infrastructure-roles/community-manager
+          - title: Data Stewards Overview
+            file: collaboration/research-infrastructure-roles/data-steward
+          - title: Data Steward Personal Story
+            file: collaboration/research-infrastructure-roles/data-steward-personal-story
+          - title: Data Wrangler Overview
+            file: collaboration/research-infrastructure-roles/data-wrangler
+          - title: Research Software Engineers Overview
+            file: collaboration/research-infrastructure-roles/rse
+          - title: Research Software Engineering Personal Story
+            file: collaboration/research-infrastructure-roles/rse-personal-story
+          - title: Research Application Manager Overview
+            file: collaboration/research-infrastructure-roles/ram
+          - title: Research Infrastructure Developer Overview
+            file: collaboration/research-infrastructure-roles/research-infrastructure-developer
+      - title: Remote Collaboration
+        file: collaboration/remote-collab
+        sections:
+          - title: Pros and Cons
+            file: collaboration/remote-collab/remote-collab-prosandcons
+          - title: Guidelines for Remote Collaboration
+            file: collaboration/remote-collab/remote-collab-guidelines
+          - title: Managing Distributed Teams
+            file: collaboration/remote-collab/remote-collab-team
+          - title: Useful Resources
+            file: collaboration/remote-collab/remote-collab-useful-resources
+      - title: Hybrid Collaboration
+        file: collaboration/hybrid-collab
+        sections:
+          - title: Challenges faced during Hybrid Collaboration
+            file: collaboration/hybrid-collab/hybrid-collab-challenges
+          - title: Guidelines for Hybrid Collaboration
+            file: collaboration/hybrid-collab/hybrid-collab-guidelines
+          - title: Resources
+            file: collaboration/hybrid-collab/hybrid-collab-resources
+      - title: Shared Ownership in Open Source Projects
+        file: collaboration/shared-ownership
+        sections:
+          - title: Project Ownership
+            file: collaboration/shared-ownership/shared-ownership-projects
+          - title: Shared Ownership Models
+            file: collaboration/shared-ownership/shared-ownership-models
+          - title: Challenges with Applying Ownership Models Retroactively
+            file: collaboration/shared-ownership/shared-ownership-challenges
+          - title: Nudging for a Better Default
+            file: collaboration/shared-ownership/shared-ownership-defaults
+      - title: Sustainability of Open Source Projects
+        file: collaboration/oss-sustainability/oss-sustainability-challenges
+        sections:
+          - title: Examples of Open Source Business Models
+            file: collaboration/oss-sustainability/oss-sustainability-examples
+
+  # ===== Guide for Ethical Research ========================================
+  - file: ethical-research/ethical-research
+    sections:
+      - title: Introduction to Research Ethics
+        file: ethical-research/ethics-intro
+      - title: Research Ethics Committees Workflows
+        file: ethical-research/ethics-committees
+      - title: Ethical Decisions in Preclinical Research
+        file: ethical-research/preclinical-research
+      - title: Law, Policy and Human Rights in Ethics
+        file: ethical-research/law-policy
+        sections:
+          - title: Ethics and law
+            file: ethical-research/law-policy/law-policy-ethics
+          - title: Human rights
+            file: ethical-research/law-policy/law-policy-rights
+          - title: Further Recommendations
+            file: ethical-research/law-policy/law-policy-resources
+      - title: Research Ethics for Social Data
+        file: ethical-research/social-data
+      - title: Data Feminism
+        file: ethical-research/data-feminism
+        sections:
+          - title: Examining Power
+            file: ethical-research/data-feminism/data-feminism-power
+      - title: Activism for Researchers
+        file: ethical-research/activism
+        sections:
+          - title: Unionisation
+            file: ethical-research/activism/activism-unionisation
+          - title: Whistleblowing
+            file: ethical-research/activism/activism-whistleblowing
+          - title: The Environmental Impact of Digital Research
+            file: ethical-research/activism/activism-env-impact
+          - title: Case study - Robodebt
+            file: ethical-research/activism/activism-robodebt
+          - title: Case study - Google Workers
+            file: ethical-research/activism/activism-case-study-google.md
+      - title: Cultural Change
+        file: ethical-research/cultural-change
+        sections:
+          - title: Culture Change Models & Examples
+            file: ethical-research/cultural-change/cc-examples
+          - title: Alternative Models of Culture Change in Open Research
+            file: ethical-research/cultural-change/alt-models-discussion
+      - title: Internal Policy Advocacy
+        file: ethical-research/internal-policy
+      - title: Self-Reflection
+        file: ethical-research/self-reflection
+        sections:
+          - title: Identity and Positionality
+            file: ethical-research/self-reflection/sr-positionality
+          - title: Power and Privilege
+            file: ethical-research/self-reflection/sr-power
+          - title: Self-Reflection Prompts
+            file: ethical-research/self-reflection/sr-prompts
+          - title: Resources
+            file: ethical-research/self-reflection/sr-resources
+      - title: Data-Hazards
+        file: ethical-research/data-hazards
+        sections:
+          - title: Introduction
+            file: ethical-research/data-hazards/dh-intro
+          - title: How To Use
+            file: ethical-research/data-hazards/dh-how-to-use
+          - title: Case Study
+            file: ethical-research/data-hazards/dh-case-study
+      - title: Ethical Considerations for Open Source Governance Models
+        file: ethical-research/ethics-open-source-governance
+
+  # ===== Community Handbook ========================================
+  - file: community-handbook/community-handbook
+    sections:
+      - title: Code of Conduct
+        file: community-handbook/coc
+        sections:
+          - title: Code of Conduct in Detail
+            file: community-handbook/coc/coc-details
+          - title: Incident Reporting Guideline
+            file: community-handbook/coc/coc-reporting
+          - title: Enforcement Manual
+            file: community-handbook/coc/coc-enforcement
+          - title: Acknowledgements
+            file: community-handbook/coc/coc-acknowledgement
+      - title: Style Guide
+        file: community-handbook/style
+        sections:
+          - title: Citing and Referencing External Resources
+            file: community-handbook/style/style-citing
+          - title: Cross-Referencing Sections and Chapters
+            file: community-handbook/style/style-crossref
+          - title: Using Figures
+            file: community-handbook/style/style-figures
+          - title: Glossary, Special Blocks and More Styling
+            file: community-handbook/style/style-more-styling
+          - title: Custom Styling
+            file: community-handbook/style/style-custom-styling
+      - title: Maintaining Consistency
+        file: community-handbook/consistency
+        sections:
+          - title: Formatting
+            file: community-handbook/consistency/consistency-formatting
+          - title: Structure
+            file: community-handbook/consistency/consistency-structure
+          - title: Language
+            file: community-handbook/consistency/consistency-language
+      - title: Build the Turing Way Book locally
+        file: community-handbook/local-build
+      - title: Contributing and Developing Chapters - Templates and Workflow
+        file: community-handbook/contributing
+        sections:
+          - title: Templates
+            file: community-handbook/contributing/contributing-templates
+          - title: Workflow
+            file: community-handbook/contributing/contributing-workflow
+      - title: Acknowledging Contributors
+        file: community-handbook/acknowledgement
+        sections:
+          - title: Community Members and Shared Ownership
+            file: community-handbook/acknowledgement/acknowledgement-members
+          - title: Record of Contributions
+            file: community-handbook/acknowledgement/acknowledgement-record
+          - title: Different Contributions and Acknowledgements
+            file: community-handbook/acknowledgement/acknowledgement-examples
+      - title: Translation and Localisation
+        file: community-handbook/translation
+        sections:
+          - title: Translation of Open Source Projects
+            file: community-handbook/translation/translation-localisation
+          - title: Welcome to the localisation team of The Turing Way!
+            file: community-handbook/translation/translation-workflow
+          - title: Embark on Your Localisation Journey
+            file: community-handbook/translation/translation-getting-started
+          - title: Your Gateway to Crowdsourced Localisation
+            file: community-handbook/translation/translation-hello-crowdin
+      - title: Infrastructure
+        file: community-handbook/infrastructure
+        sections:
+          - title: Publishing Contributors
+            file: community-handbook/infrastructure/infrastructure-contributors
+          - title: External Link Checking
+            file: community-handbook/infrastructure/infrastructure-external-link-check
+          - title: DNS
+            file: community-handbook/infrastructure/infrastructure-dns
+      - title: Accessibility
+        file: community-handbook/accessibility
+        sections:
+          - title: Event Organising
+            file: community-handbook/accessibility/event-organising
+          - title: Alt text
+            file: community-handbook/accessibility/alt-text
+      - title: Communication Platforms
+        file: community-handbook/communication-channels
+        sections:
+          - title: Slack Start Guide
+            file: community-handbook/communication-channels/slack-start-guide
+          - title: Slack Welcome Guide
+            file: community-handbook/communication-channels/slack-welcome-guide
+      - title: Monthly Newsletters
+        file: community-handbook/newsletters
+        sections:
+          - title: A Process of Creating a newsletter
+            file: community-handbook/newsletters/newsletters-process
+          - title: Newsletter's Style Guide
+            file: community-handbook/newsletters/newsletters-style
+          - title: The Turing Way Newsletter Template
+            file: community-handbook/newsletters/newsletters-template
+      - title: Book Dash Events
+        file: community-handbook/bookdash
+        sections:
+          - title: Application and Review Process
+            file: community-handbook/bookdash/bookdash-application
+          - title: Book Dash Logistics
+            file: community-handbook/bookdash/bookdash-logistics
+          - title: Working With an Illustrator
+            file: community-handbook/bookdash/bookdash-illustrator
+          - title: Participant Selection Process
+            file: community-handbook/bookdash/bookdash-selection
+          - title: Book Dash Main Event Plans
+            file: community-handbook/bookdash/bookdash-events
+          - title: After the Book Dash
+            file: community-handbook/bookdash/bookdash-after
+      - title: Community Coworking Calls
+        file: community-handbook/coworking
+        sections:
+          - title: Background, Motivations, and Techniques
+            file: community-handbook/coworking/coworking-motivation
+          - title: Online Collaboration Cafe
+            file: community-handbook/coworking/coworking-collabcafe
+          - title: Weekly Coworking Calls
+            file: community-handbook/coworking/coworking-weekly
+          - title: Organising coworking calls
+            file: community-handbook/coworking/coworking-organisation
+          - title: Drop-in Sessions
+            file: community-handbook/coworking/coworking-dropins
+      - title: Fireside Chat Series
+        file: community-handbook/fireside-chat
+        sections:
+          - title: Fireside Chat Planning Checklist
+            file: community-handbook/fireside-chat/fireside-chat-checklist
+          - title: Fireside Chat Roles and Responsibilities
+            file: community-handbook/fireside-chat/fireside-chat-roles
+      - title: Giving a Turing Way Talk
+        file: community-handbook/presenting
+      - title: Template Collection
+        file: community-handbook/templates
+        sections:
+          - title: Book Dash Main Shared Document
+            file: community-handbook/templates/template-bookdash-index
+          - title: Book Dash Pre-event Onboarding
+            file: community-handbook/templates/template-bookdash-precall
+          - title: Book Dash GitHub Session
+            file: community-handbook/templates/template-bookdash-github
+          - title: Book Dash Template for Shared Notes
+            file: community-handbook/templates/template-bookdash-notes
+          - title: Book Dash Template for Feedback
+            file: community-handbook/templates/template-bookdash-feedback
+          - title: Online Collaboration Cafe Templates
+            file: community-handbook/templates/template-coworking-collabcafe
+          - title: Weekly Coworking Call Template
+            file: community-handbook/templates/template-coworking-weekly
+          - title: Template for Drafting Newsletters
+            file: community-handbook/templates/template-newsletter-draft
+          - title: Template for Fireside Chat Shared Notes
+            file: community-handbook/templates/template-fireside-chat
+
+  # ===== Afterword ========================================
+  - file: afterword/afterword
+    sections:
+      - title: Legal Disclaimer
+        file: afterword/legal-disclaimer
+      - title: Data Usage Statement
+        file: afterword/data-usage-statement
+      - title: Contributors Record
+        file: afterword/contributors-record
+      - title: Collaborators
+        file: afterword/collaborators
+      - title: Sub-projects, Working Groups, Informal Initiatives
+        file: afterword/subprojects
+      - title: Glossary
+        file: afterword/glossary
+      - title: Bibliography
+        file: afterword/bibliography

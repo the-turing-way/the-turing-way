@@ -62,7 +62,7 @@ If you undertook any further analyses that you didn't outline in your protocol t
 (cm-dif-articles-registered-reports-review)=
 ## How do you review a Registered Report?
 
-You can find general guidance on how to peer review a paper in our peer review chapter [here](https://the-turing-way.netlify.app/communication/peer-review.html). 
+You can find general guidance on how to peer review a paper in our peer review chapter [here](https://book.the-turing-way.org/communication/peer-review.html). 
 
 For registered reports specifically, they are reviewed twice. 
 This happens once at stage 1 (study protocol) and again at stage 2 (research article). 
@@ -82,3 +82,50 @@ It may be useful to focus on the following for review stage 1 and stage 2 papers
 * Did the authors adhere precisely to the registered experimental procedures? If not, has an explanation been provided regarding any change?
 * Are any unregistered post hoc analyses added by the authors justified, methodologically sound and informative?
 * Are sufficient details of the methods and analysis (such as statistical) provided to allow replication by others?
+
+
+(cm-dif-articles-registered-reports-personal)=
+## Personal Case Study on Registered Reports
+[Folco Panizza](https://www.linkedin.com/in/folco-panizza/) gives his thoughts on publishing a Registered Report. Interviewed by Marta Mangiarulo.
+
+**Why did you choose to publish a Registered Report?**
+
+I was inspired to write a registered report by a talk given by Chris Chambers at my university. 
+I realised that the projects for my doctoral thesis would have benefited from a clear design upfront. 
+I was the first one to try this at my institution, so I also took it as a career challenge to improve my scientific practices and perhaps convince others that the undertaking was not so difficult.
+
+**How did you get started?**
+
+I did some searching in the literature and tried to find some examples of previous registered reports. 
+There weren’t many examples, but I found it useful to look into the presentation notes that Prof. Chambers generously made available for advice.
+
+**What impact do you think your Registered Report made/is making to your research/project/community?**
+
+After my initial submission, I was invited to share my experience as part of a series of talks at my university. 
+I think my talks helped make registered reports and standard pre-registration less exotic than they initially seemed, although I am not aware of any specific research that adopted either procedure.
+
+**What tools/software did you use most in your Registered Report work?**
+
+My original registered report was based on the recommendations from the journal I originally submitted it to (Royal Society Open Science). 
+After that, I mostly relied upon the Open Science Framework’s standard pre-registration format: it has improved quite a bit since I first used it, and I think it nudges researchers into providing more details than other pre-registration forms such as the ones from aspredicted.org
+
+**Do you have any top tips for other people that might be interested in preregistering their research?**
+
+Steal from others’ preregistrations. 
+It really helps to jump-start stalled registrations. 
+And – general advice – don’t underestimate the importance of literature research to improve your design, especially for methods-heavy registrations. 
+For example, I happened to find an improved operationalisation of a dependent variable right after I had pre-registered my study. 
+I do not consider it a big problem to amend the pre-registration, but it is neater if you don’t have to!
+
+**Do you have any tips on things to avoid?**
+
+Do not write your pre-registration right before running your experiment. 
+Writing things down is useful because it forces you to find the blind spots in your reasoning. 
+I would suggest that you start writing as soon as you have the idea.
+
+**Is there anything else that you want to add to the interview that has not been covered in the questions above?**
+
+Preregistrations are not meant for all research questions out there. 
+Let’s not forget about the importance of exploratory questions and how they can expand our pre-registered hypotheses. 
+Keeping the focus of a pre-registration restricted to our main hypotheses does not mean that we cannot then explore all the unexpected ramifications of the study results.
+
