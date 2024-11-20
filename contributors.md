@@ -1682,7 +1682,7 @@ what it would cover.
 
 * Role:
   * Founder of NHS-R Community
-* GitHub id: [Lextuga007]([https://github.com/Zeena-Shawa](https://github.com/Lextuga007))
+* GitHub id: [Lextuga007](https://github.com/Lextuga007)
 
 * Short bio:. 
 > I’m a Senior Data Scientist at the Midlands Decision Support Network which is part of the NHS Midlands & Lancashire Commissioning Strategy Unit. I’m a proud Senior Fellow of the NHS-R Community. I have a particular interest in Ethics having studied Philosophy and some of my thoughts on this, along with technical blogs, can be found on my {distill} blog site.
