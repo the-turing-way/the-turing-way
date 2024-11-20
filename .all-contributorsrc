@@ -4921,6 +4921,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "StatsRhian",
+      "name": "Rhian Davies",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7017740?v=4",
+      "profile": "https://rhian.rbind.io",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
