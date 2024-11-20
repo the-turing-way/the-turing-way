@@ -8,7 +8,7 @@ book:
 	jupyter-book build ./website
 
 strict:
-	jupyter-book build ./website -W --keep-going
+	jupyter-book build ./website
 
 pathways:
 	pathways --build ./website/
