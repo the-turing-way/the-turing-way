@@ -1492,7 +1492,6 @@ what it would cover.
 > Sarah is passionate about working with domain experts to leverage cloud computing in order to accelerate cutting-edge, data-intensive research and disseminate the results in an open, reproducible and reusable manner.
 > She also holds a Fellowship with the Software Sustainability Institute and advocates for best software practices in research.
 
-
 ### Saranjeet Kaur Bhogal
 
 * Role:
@@ -1514,6 +1513,27 @@ what it would cover.
 
 * More information:
 > I like creating zines & cartoons!
+
+### Sebastián Ayala Ruano
+
+* Role: Book Dash participant (2024)
+* GitHub id: [sayalaruano](https://github.com/sayalaruano) 
+* ORCID: [0000-0001-9756-6745](https://orcid.org/0000-0001-9756-6745)
+* Website: [https://sayalaruano.github.io/](https://sayalaruano.github.io/)
+  
+* Short bio:
+> I am a bioinformatician and freelance data scientist. 
+> Currently, I work as a research assistant in the Multiomics Network Analytics Group at the Technical University of Denmark, where I focus on projects at the intersection of bioinformatics, artificial intelligence, and network science. 
+> Being passionate about open science, I contribute to research and software development communities, including the [ISCB Student Council](https://iscbsc.org/), [The Carpentries](https://carpentries.org/), the [Streamlit Creators](https://streamlit.io/creators), and the [Open Seeds program by OLS](https://openlifesci.org/).
+
+* Personal highlights:
+> Being a first book dasher, I was a bit lost and overwhelmed, but everyone was eager to help and guide me on different aspects of the project and how to make my first contribution.
+> I also loved socializing with the community members and participating in the Scriberia session.
+> During the 2024 November Book Dash, I worked with Johanna Bayer and Jyoti Bhogal to start a new chapter for 'Personal Websites' under the guide for Communication.
+> Our pull request is available [here](https://github.com/the-turing-way/the-turing-way/pull/3937).
+
+* Quotes:
+> The _Turing Way_ is one of the most welcoming and inclusive communities I've been part of. Thanks for building such an incredible space for learning and collaboration.
 
 ### Shern Tee
 
