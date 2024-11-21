@@ -1,4 +1,4 @@
-(cl-organising-meetings)=
+(cl-creating-agendas)=
 # Creating agendas
 
 In this section we will cover why you might want to use an agenda, how to structure the beinging, middle, and end of an agenda, as well as how you might choose to build off of that agenda for the next meeting.
