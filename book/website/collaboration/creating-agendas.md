@@ -31,7 +31,7 @@ There are several conventions you can build off of here.
 
 Part of housekeeping is tending to the emotional wellbeing of the group.
 Providing a space for each person to check in with "How are you showing up?" can help people show up as a complete person, provide an opertunity for human-to-human connections, and set asside outside concerns to focus on the meeting.
-Folks sometimes have a hard time naming emotions and it can be helpful to link in a (feelings wheel)[https://feelingswheel.com/] to help folks identify what resonates with them in the moment.
+Folks sometimes have a hard time naming emotions and it can be helpful to link in a [feelings wheel](https://feelingswheel.com/) to help folks identify what resonates with them in the moment.
 When starting this practice it's very important to be clear that "Pass" is always an ok response.
 Emotional sharing must be at-choice or it edges into cohersion and abuse.
 When used well this can be a powerful connecting tool for your team.
@@ -39,7 +39,7 @@ When used well this can be a powerful connecting tool for your team.
 Finally review and consent to the agenda.
 Make sure everyone knows what is going to be talked about and that the group is in agreement that this covers the needs of the group for now.
 
-This opening can take as long as 15 minutes or as little as 5 depending.
+This opening typically takes 5 to 15 minutes.
 New groups will often require more time in this beginning phase.
 
 ## The middle
