@@ -71,3 +71,16 @@ You can find more details and background in the chapter [Leveraging the Turing W
 
 ### Representative
 - [Susanna-Assunta Sansone](https://book.the-turing-way.org/afterword/contributors-record#susanna-assunta-sansone), University of Oxford, Academic Lead for Research Practice; Professor of Data Readiness
+
+(collaborators-NHS-R)=
+## [NHS-R Way](https://nhsrway.nhsrcommunity.com/)
+
+The NHS-R Community started in 2018 to promote the use of R in the NHS and the community has grown rapidly ever since. 
+It is a community that is broader than the NHS as members come from public sector organisations across the UK, including Local Authorities and Civil Service, as well as academics and voluntary sector people who have an interest in healthcare. 
+Whilst R is a core language for support by the community, there is always support for data science tools more generally, particularly where they cross over with R.
+
+The NHS-R builds on _The Turing Way_ guide model for the NHS-R community to promote the use of R in healthcare. 
+Contributors come from Local Authorities, Civil Service, the Public Sector, Academia, the Voluntary Sector, Charities and individuals with no organisational connection.
+
+### Representative
+- [Zoë Turner](https://book.the-turing-way.org/afterword/contributors-record#zoe-turner), Senior Data Scientist, Strategy Unit
