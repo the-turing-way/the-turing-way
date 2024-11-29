@@ -17,7 +17,8 @@ You should always consider giving credit to others for their work, showing grati
 If you are unsure about what to cite because you doubt the contribution of a particular research object to your research, you can answer the following questions from {cite:ps}`ShouldICite`
 - Does the software ask you to cite it?
 - Did the software play a critical part in, or contributed something unique to, your research?
-- Did the software manipulate or create your data? This includes storage, visualization, and communication of your data and results.
+- Did the software manipulate or create your data? 
+This includes storage, visualisation, and communication of your data and results.
 - Do the authors of the software rely on academic credit for funding? Look for academic institutions in email addresses, URLs.
 
 If the answer to any of these questions is yes, then you must/need to cite that research object.
