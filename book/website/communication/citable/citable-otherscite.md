@@ -22,7 +22,7 @@ This includes storage, visualisation, and communication of your data and results
 - Do the authors of the software rely on academic credit for funding? 
 Look for academic institutions in email addresses, URLs.
 
-If the answer to any of these questions is yes, then you must/need to cite that research object.
+If the answer to any of these questions is yes, then you need to cite that research object.
 
 (cm-citable-otherscite-where)=
 ## Where to cite a research object?
