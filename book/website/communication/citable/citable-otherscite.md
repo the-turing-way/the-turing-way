@@ -38,7 +38,6 @@ This approach avoids mentioning datasets or software in footnotes or only in sup
 In cases where a research object was used as a test or pilot but did not play a role in the final publication, it is possible to mention these in the acknowledgements section.
 This ensures proper credit is given, even if the object was not ultimately used.
 
-Finally, availability statements should usually be reserved for research objects produced during your project, and not for those created by others.
 Therefore, avoid using these statements to refer to the work of others. 
 
 (cm-citable-otherscite-how)=
