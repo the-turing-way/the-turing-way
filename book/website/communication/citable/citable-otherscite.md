@@ -27,7 +27,7 @@ If the answer to any of these questions is yes, then you need to cite that resea
 (cm-citable-otherscite-where)=
 ## Where to cite a research object?
 
-You should directly cite research objects from others in you publication where relevant.
+You should directly cite research objects from others in the publication where relevant.
 For example, if specific software was used to process data, it should be cited in the section describing the processing. 
 Similarly, if all the figures in a publication are created using the same software, it may be more useful to mention that software in the main text or acknowledgements. 
 Another example is when videos or images from others are explicitly mentioned; this as an opportunity to cite those research objects. 
