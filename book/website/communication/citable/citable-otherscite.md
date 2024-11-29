@@ -33,7 +33,6 @@ Similarly, if all the figures in a publication are created using the same softwa
 Another example is when videos or images from others are explicitly mentioned; this as an opportunity to cite those research objects. 
 In all cases, these research objects should commonly be included in the reference section.
 
-However, it is important to note that citation practices may change depending on the publisher's guidelines.
 The best practice is to pair citations in the reference section with in-text citations {cite:ps}`Stall2023`.
 This approach avoids mentioning datasets or software in footnotes or only in supplementary materials, where clear citations may not be provided.
 In cases where a research object was used as a test or pilot but did not play a role in the final publication, it is possible to mention these in the acknowledgements section.
