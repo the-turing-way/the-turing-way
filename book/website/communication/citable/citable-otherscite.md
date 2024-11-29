@@ -31,7 +31,7 @@ You should directly cite research objects from others in the publication where r
 For example, if specific software was used to process data, it should be cited in the section describing the processing. 
 Similarly, if all the figures in a publication are created using the same software, it may be more useful to mention and cite that software in the main text or acknowledgements. 
 Another example is when videos or images from others are explicitly mentioned; this as an opportunity to cite those research objects. 
-In such cases, these research objects should commonly be included in the reference section. 
+In all cases, these research objects should commonly be included in the reference section.
 
 However, it is important to note that citation practices may change depending on the publisher's guidelines.
 The best practice is to pair citations in the reference section with in-text citations {cite:ps}`Stall2023`.
