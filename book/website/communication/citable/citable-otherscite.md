@@ -49,7 +49,7 @@ A citation includes the following information:
 - Author(s)
 - Title
 - Year/Date of publication
-- Publisher or Repository (in repositories you can describe the type of research object, e.g. [Dataset], [Software], [Presentation])
+- Publisher or Repository (in repositories you can describe the type of research object, for example, Dataset, Software, Presentation)
 - Version (if indicated)
 - Access information (a URL or DOI)
 
