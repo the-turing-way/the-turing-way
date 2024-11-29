@@ -62,7 +62,7 @@ A specific citation style may also be requested by the journal you are publishin
 - APA citation style uses the following format:
 `Author. (Year). Title of data set (Version number). [Retrieved from] ***OR*** [DOI]`
 
-There are many citation styles available (e.g., see [Scribbr Citation Styles Guide](https://www.scribbr.com/citing-sources/citation-styles/)), and fortunately, there are several web interfaces to generate those citations. 
+There are many citation styles available (see [Scribbr Citation Styles Guide](https://www.scribbr.com/citing-sources/citation-styles/)), and fortunately, there are several web interfaces to generate those citations. 
 If you have the DOI of the research object, you can use tools like [CiteAs](https://citeas.org/ ) or [DOI2bib](https://www.doi2bib.org/) to directly obtain the citation in a given citation style or as a [BibTex](https://en.wikipedia.org/wiki/BibTeX) format. 
 
 Another approach is to find sources where the citation is already available in BibTex format and then apply the desired style in Latex.
