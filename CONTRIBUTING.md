@@ -396,7 +396,7 @@ Therefore, please check the open pull requests first to make sure there aren't a
 What happens if you accidentally run the bot before the previous run was merged and you got those pesky merge conflicts?
 (Don't feel bad, we have all done it! 🙈)
 Simply close the pull request and delete the branch (`all-contributors/add-<username>`).
-If you are unable to do this for any reason, please let us know on [Slack](https://tinyurl.com/jointuringwayslack), the [Gitter channel](https://gitter.im/the-turing-way/the-turing-way) or by opening an issue, and _The Turing Way_ team members will be very happy to help!
+If you are unable to do this for any reason, please let us know on [Slack](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA), the [Gitter channel](https://gitter.im/the-turing-way/the-turing-way) or by opening an issue, and _The Turing Way_ team members will be very happy to help!
 
 Finally, don't forget to add yourself to the list of contributors [here](https://github.com/the-turing-way/the-turing-way/blob/main/contributors.md)!
 

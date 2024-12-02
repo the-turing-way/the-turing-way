@@ -15,7 +15,7 @@ These calls also provide opportunities to clarify doubts about the project, get 
 ## Attending an online coworking call
 
 The schedule for these coworking calls is updated weekly in the [community calendar](https://calendar.google.com/calendar/embed?src=theturingway%40gmail.com&ctz=Europe%2FLondon).
-We announce these in our [monthly newsletters](https://buttondown.email/turingway/) and send a reminder every Monday on the [Slack channel](https://tinyurl.com/jointuringwayslack).
+We announce these in our [monthly newsletters](https://buttondown.email/turingway/) and send a reminder every Monday on the [Slack channel](https://join.slack.com/t/theturingway/shared_invite/zt-2v7euwuo7-BYstHdKuTNd1ce0puDtBxA).
 
 Though scheduled for 1 hour, you are welcome to join for shorter periods as your schedule allows, however, please let the host of the call know so that they know who to expect on the call.
 If you are interested in coworking with one of the team members on a day that is not listed on the schedule, please contact them on Slack or by email so that they can find a common slot to work with you.
